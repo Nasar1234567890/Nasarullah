@@ -52,6 +52,7 @@ button{font:inherit;cursor:pointer}
 <section id="home" class="card">
 <h2>Choose a test</h2>
 <p class="note">No login needed. Each test has 20 questions and a 10-minute timer. Your answers are shown only after you submit.</p>
+<p class="note"><label><b>Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
 <button class="testbtn" onclick="startTest('viii')">Class VIII — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
 <button class="testbtn" onclick="startTest('ix')">Class IX — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
 <button class="testbtn en" onclick="startTest('x')">Class X — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
@@ -86,6 +87,7 @@ button{font:inherit;cursor:pointer}
 
 <section id="result" class="card hidden">
 <h2>Result</h2>
+<p id="resultname" style="text-align:center;font-size:18px;font-weight:700"></p>
 <div class="score" id="score"></div>
 <p id="scorenote" style="text-align:center"></p>
 <div id="review"></div>
@@ -923,8 +925,24 @@ const QUESTIONS = {
 <script>
 let testKey=null, idx=0, answers=[], timerId=null, secondsLeft=1200, submitted=false;
 const letters=['A','B','C','D'];
+let studentName="";
+function sendResult(sc,total,title){
+  try{
+    const d=new Date();
+    const dateStr=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
+    const pct=Math.round(sc/total*100);
+    const body=new URLSearchParams();
+    body.append('entry.405524197', studentName);
+    body.append('entry.1697901976', title);
+    body.append('entry.1716719252', String(sc));
+    body.append('entry.270177342', String(pct));
+    body.append('entry.1703878082', dateStr);
+    body.append('fvv','1'); body.append('draftResponse','[]'); body.append('pageHistory','0'); body.append('fbzx','1284267405081931998');
+    fetch('https://docs.google.com/forms/d/e/1FAIpQLSfMGZXvdzqOO_fa2V5AW3sDqa86zWKTEu6UhiFQNGPJ6X-wdw/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
+  }catch(e){}
+}
 function startTest(key){
-  testKey=key; idx=0; submitted=false;
+  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false;
   answers=new Array(QUESTIONS[key].questions.length).fill(null);
   secondsLeft=10*60;
   document.getElementById('home').classList.add('hidden');
@@ -972,7 +990,7 @@ function submitTest(auto){
   let score=0; qs.forEach((q,i)=>{ if(answers[i]===q.answer) score++; });
   document.getElementById('test').classList.add('hidden');
   const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=QUESTIONS[testKey].dir;
-  document.getElementById('score').textContent=score+' / '+qs.length;
+  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+QUESTIONS[testKey].title; sendResult(score, qs.length, QUESTIONS[testKey].title);
   document.getElementById('scorenote').textContent=(auto?'Time up — submitted automatically. ':'')+Math.round(score/qs.length*100)+'% correct.';
   let html='';
   qs.forEach((q,i)=>{

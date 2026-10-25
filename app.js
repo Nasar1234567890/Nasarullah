@@ -47,6 +47,26 @@
     if (secondsLeft <= 60) el.classList.add('warn');
     if (secondsLeft <= 0) { clearInterval(timerId); submitTest(true); }
   }
+
+  function sendResult(sc, total, title) {
+    try {
+      var name = '';
+      try { name = localStorage.getItem('mcqStudentName') || ''; } catch (e) {}
+      if (!name) name = 'No name given';
+      var d = new Date();
+      var dateStr = d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
+      var pct = Math.round(sc/total*100);
+      var body = new URLSearchParams();
+      body.append('entry.405524197', name);
+      body.append('entry.1697901976', title);
+      body.append('entry.1716719252', String(sc));
+      body.append('entry.270177342', String(pct));
+      body.append('entry.1703878082', dateStr);
+      body.append('fvv','1'); body.append('draftResponse','[]'); body.append('pageHistory','0'); body.append('fbzx','1284267405081931998');
+      fetch('https://docs.google.com/forms/d/e/1FAIpQLSfMGZXvdzqOO_fa2V5AW3sDqa86zWKTEu6UhiFQNGPJ6X-wdw/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
+    } catch (e) {}
+  }
+
   function submitTest(auto) {
     if (submitted) return;
     var unanswered = answers.filter(function (a) { return a === null; }).length;
@@ -54,7 +74,7 @@
     submitted = true;
     clearInterval(timerId);
     var qs = test.questions, score = 0;
-    qs.forEach(function (q, i) { if (answers[i] === q.answer) score++; });
+    qs.forEach(function (q, i) { if (answers[i] === q.answer) score++; }); sendResult(score, qs.length, test.title);
     document.getElementById('test').classList.add('hidden');
     var r = document.getElementById('result');
     r.classList.remove('hidden');
