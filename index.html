@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="sd">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MCQ Tests — GB Lower Secondary School Haseeja Mahar</title>
+<style>
+@font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Regular.ttf') format('truetype');font-weight:400}
+@font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Bold.ttf') format('truetype');font-weight:700}
+*{box-sizing:border-box}
+body{margin:0;font-family:'Noto Naskh Arabic','Noto Nastaliq Urdu',system-ui,sans-serif;background:#f2f4f7;color:#111}
+header{background:#14532d;color:#fff;text-align:center;padding:18px 14px 14px}
+header h1{margin:0;font-size:19px;line-height:1.35}
+header p{margin:6px 0 0;font-size:14px;opacity:.92}
+main{max-width:680px;margin:0 auto;padding:16px}
+.card{background:#fff;border-radius:12px;padding:18px;box-shadow:0 1px 4px rgba(0,0,0,.12)}
+h2{margin-top:0}
+button{font:inherit;cursor:pointer}
+.testbtn{display:block;width:100%;text-align:right;padding:16px;margin:10px 0;border:2px solid #14532d;border-radius:10px;background:#eaf5ee;font-size:19px;font-weight:700;color:#14532d}
+.testbtn small{display:block;font-size:14px;font-weight:400;color:#333;margin-top:4px}
+.testbtn.en{text-align:left}
+.note{font-size:15px;line-height:1.6;color:#333}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+#timer{font-size:20px;font-weight:700;color:#b91c1c}
+#timer.warn{color:#fff;background:#b91c1c;padding:2px 10px;border-radius:8px}
+#progress{height:10px;background:#e5e7eb;border-radius:6px;margin:12px 0;overflow:hidden}
+#bar{height:100%;width:0;background:#14532d}
+#qtext{font-size:21px;line-height:1.9;min-height:90px}
+#qtext .m, .opt .m{direction:ltr;unicode-bidi:embed;font-family:Georgia,serif}
+.opt{display:block;width:100%;text-align:right;padding:14px 16px;margin:9px 0;border:2px solid #cbd5e1;border-radius:10px;background:#fff;font-size:19px}
+.opt.en{text-align:left}
+.opt.sel{border-color:#14532d;background:#dcfce7;font-weight:700}
+.nav{display:flex;gap:10px;margin-top:16px}
+.nav button,.submitbtn,.homebtn{flex:1;padding:14px;border-radius:10px;border:0;font-size:18px;font-weight:700}
+.nav button{background:#e5e7eb}
+.submitbtn{background:#14532d;color:#fff;width:100%;margin-top:12px}
+.homebtn{background:#14532d;color:#fff;margin-top:12px;width:100%}
+.score{font-size:42px;font-weight:700;text-align:center;margin:8px 0}
+.review{border-top:1px solid #ddd;padding:12px 0}
+.review .qq{font-size:18px;line-height:1.8}
+.correct{color:#15803d;font-weight:700}
+.wrong{color:#b91c1c;font-weight:700}
+.hidden{display:none}
+</style>
+</head>
+<body>
+<header>
+<h1>GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h1>
+<p>MCQ Tests — Practice Tests</p>
+</header>
+<main>
+<section id="home" class="card">
+<h2>Choose a test</h2>
+<p class="note">No login needed. Each test has 20 questions and a 10-minute timer. Your answers are shown only after you submit.</p>
+<button class="testbtn" onclick="startTest('viii')">Class VIII — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
+<button class="testbtn" onclick="startTest('ix')">Class IX — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
+<button class="testbtn en" onclick="startTest('x')">Class X — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
+<p class="note">Tip: tap an option to select it, use Next / Previous to move, and press Submit when you are done. If the timer runs out, the test submits automatically.</p>
+<section class="card" style="margin-top:16px">
+<h2>How to take a test</h2>
+<ol class="note" style="line-height:1.8">
+<li>Choose your class test above.</li>
+<li>Tap an option (A, B, C or D) to select your answer.</li>
+<li>Use <b>Next</b> and <b>Previous</b> to move between questions.</li>
+<li>You have <b>10 minutes</b>. If the time runs out, the test submits automatically.</li>
+<li>Press <b>Submit Test</b> when you are done. Your score out of 20 appears at once, with a review of every question.</li>
+<li>Your correct answers are shown only after you submit — not during the test.</li>
+</ol>
+<p class="note">هر ٽيسٽ ۾ 20 سوال آهن ۽ وقت 10 منٽ آهي. جواب جمع ڪرائڻ کان پوءِ توهان جو نتيجو ۽ صحيح جواب ڏيکاريا ويندا.</p>
+</section>
+
+<section id="test" class="card hidden">
+<div class="topbar"><strong id="testtitle"></strong><span id="timer">10:00</span></div>
+<div id="progress"><div id="bar"></div></div>
+<p id="counter"></p>
+<div id="qtext"></div>
+<div id="opts"></div>
+<div class="nav">
+<button onclick="move(-1)">Previous</button>
+<button onclick="move(1)">Next</button>
+</div>
+<button class="submitbtn" onclick="submitTest(false)">Submit Test</button>
+</section>
+
+<section id="result" class="card hidden">
+<h2>Result</h2>
+<div class="score" id="score"></div>
+<p id="scorenote" style="text-align:center"></p>
+<div id="review"></div>
+<button class="homebtn" onclick="goHome()">Back to Home</button>
+</section>
+</main>
+<script>
+const QUESTIONS = {
+ "viii": {
+  "title": "Class VIII — Mathematics Practice Test",
+  "dir": "rtl",
+  "questions": [
+   {
+    "q": "A = {1, 3, 5, 7}، B = {3, 5, 9} هجي ته <span class=\"m\">A ∩ B =</span>",
+    "options": [
+     "{3, 5}",
+     "{1, 7}",
+     "{9}",
+     "{1, 3, 5, 7, 9}"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "A = {4, 9, 11, 13} هجي ته <span class=\"m\">n(A) =</span>",
+    "options": [
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "U = {1, 2, 3, 4, 5, 6}، A = {2, 4} هجي ته A جو مڪمل (complement) =",
+    "options": [
+     "{1, 3, 5, 6}",
+     "{2, 4}",
+     "{1, 2}",
+     "{3, 5}"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "هيٺين مان ڪهڙو سيٽ {1, 2, 3, 4} جو ذيلي سيٽ آهي؟",
+    "options": [
+     "{2, 4}",
+     "{1, 5}",
+     "{6}",
+     "{2, 3, 5}"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "A = {10, 20, 30}، B = {20, 40} هجي ته <span class=\"m\">A - B =</span>",
+    "options": [
+     "{10, 30}",
+     "{20}",
+     "{40}",
+     "{10, 20, 30, 40}"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "11 جو چورس آهي:",
+    "options": [
+     "121",
+     "111",
+     "131",
+     "122"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "√196 =",
+    "options": [
+     "13",
+     "14",
+     "16",
+     "18"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "6 جو مڪعب آهي:",
+    "options": [
+     "216",
+     "36",
+     "126",
+     "66"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "125 جي مڪعب جڙ آهي:",
+    "options": [
+     "15",
+     "5",
+     "25",
+     "11"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "هيٺين مان ڪهڙو قدرتي عدد نه آهي؟",
+    "options": [
+     "0",
+     "1",
+     "5",
+     "9"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "پنجن واري نظام (base 5) ۾ ڪهڙا انگ استعمال ٿيندا آهن؟",
+    "options": [
+     "0-4",
+     "0-5",
+     "0-8",
+     "0-2"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "(111)<sub>2</sub> کي ڏهائي نظام ۾ تبديل ڪريو:",
+    "options": [
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "12 کي بائنري نظام ۾ تبديل ڪريو:",
+    "options": [
+     "(1100)<sub>2</sub>",
+     "(1010)<sub>2</sub>",
+     "(1110)<sub>2</sub>",
+     "(1001)<sub>2</sub>"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "(21)<sub>5</sub> کي ڏهائي نظام ۾ تبديل ڪريو:",
+    "options": [
+     "10",
+     "11",
+     "12",
+     "15"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "(1001)<sub>2</sub> کي ڏهائي نظام ۾ تبديل ڪريو:",
+    "options": [
+     "7",
+     "8",
+     "9",
+     "10"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "4x<sup>3</sup> + 2x جو درجو آهي:",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "x<sup>2</sup> + 3x آهي:",
+    "options": [
+     "هڪ رڪني",
+     "ٻه رڪني",
+     "ٽه رڪني",
+     "چئن رڪني"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "3x<sup>2</sup> - 5x + 1 ۾ x<sup>2</sup> جو گڻڪ آهي:",
+    "options": [
+     "1",
+     "3",
+     "-5",
+     "5"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "(2x + 3) + (x - 1) =",
+    "options": [
+     "3x + 2",
+     "3x + 4",
+     "2x + 2",
+     "3x - 2"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "3x × 4x<sup>2</sup> =",
+    "options": [
+     "12x",
+     "12x<sup>2</sup>",
+     "12x<sup>3</sup>",
+     "7x<sup>3</sup>"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "ix": {
+  "title": "Class IX — Mathematics Practice Test",
+  "dir": "rtl",
+  "questions": [
+   {
+    "q": "2+5i جو خيالي حصو آهي:",
+    "options": [
+     "2",
+     "5",
+     "5i",
+     "2i"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "(2+3i) - (1+i) =",
+    "options": [
+     "1+2i",
+     "3+4i",
+     "1+4i",
+     "3+2i"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "(1+i)(1-i) =",
+    "options": [
+     "0",
+     "1",
+     "2",
+     "1+i"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "i<sup>3</sup> جي قيمت آهي:",
+    "options": [
+     "i",
+     "-i",
+     "1",
+     "-1"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "3+4i جو مزدوج (conjugate) آهي:",
+    "options": [
+     "3-4i",
+     "-3+4i",
+     "3+4i",
+     "-3-4i"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "720000 کي سائنسي لکڻي ۾ لکو:",
+    "options": [
+     "7.2×10<sup>4</sup>",
+     "7.2×10<sup>5</sup>",
+     "72×10<sup>5</sup>",
+     "0.72×10<sup>6</sup>"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "0.00045 کي سائنسي لکڻي ۾ لکو:",
+    "options": [
+     "4.5×10<sup>-3</sup>",
+     "4.5×10<sup>-4</sup>",
+     "45×10<sup>-5</sup>",
+     "4.5×10<sup>4</sup>"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "log10 10000 =",
+    "options": [
+     "3",
+     "4",
+     "5",
+     "10"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "log3 81 =",
+    "options": [
+     "3",
+     "4",
+     "5",
+     "27"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "log (x/y) =",
+    "options": [
+     "log x - log y",
+     "log x + log y",
+     "log x × log y",
+     "log x / log y"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "(x+3)<sup>2</sup> =",
+    "options": [
+     "x<sup>2</sup>+9",
+     "x<sup>2</sup>+6x+9",
+     "x<sup>2</sup>+3x+9",
+     "x<sup>2</sup>-6x+9"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "(2a-3)<sup>2</sup> =",
+    "options": [
+     "4a<sup>2</sup>+9",
+     "4a<sup>2</sup>-12a+9",
+     "4a<sup>2</sup>+12a+9",
+     "2a<sup>2</sup>-12a+9"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "(x-4)(x+4) =",
+    "options": [
+     "x<sup>2</sup>+16",
+     "x<sup>2</sup>-16",
+     "x<sup>2</sup>-8x+16",
+     "x<sup>2</sup>+8x-16"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "(x+5)(x+2) =",
+    "options": [
+     "x<sup>2</sup>+7x+10",
+     "x<sup>2</sup>+10",
+     "x<sup>2</sup>+5x+10",
+     "x<sup>2</sup>+7x+7"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "x<sup>2</sup>+8x+15 جا جزا آهن:",
+    "options": [
+     "(x+3)(x+5)",
+     "(x+5)(x+8)",
+     "(x+3)(x+8)",
+     "(x-3)(x-5)"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "x<sup>2</sup>-25 جا جزا آهن:",
+    "options": [
+     "(x-5)<sup>2</sup>",
+     "(x-5)(x+5)",
+     "(x+5)<sup>2</sup>",
+     "(x-25)(x+1)"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "9x<sup>2</sup>-16 جا جزا آهن:",
+    "options": [
+     "(3x-4)(3x+4)",
+     "(3x+4)<sup>2</sup>",
+     "(9x-4)(x+4)",
+     "(3x-4)<sup>2</sup>"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "a<sup>3</sup>-b<sup>3</sup> =",
+    "options": [
+     "(a-b)(a<sup>2</sup>-ab+b<sup>2</sup>)",
+     "(a-b)(a<sup>2</sup>+ab+b<sup>2</sup>)",
+     "(a+b)(a<sup>2</sup>-ab+b<sup>2</sup>)",
+     "(a-b)<sup>3</sup>"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "6x+12 جا جزا آهن:",
+    "options": [
+     "6(x+2)",
+     "3(x+4)",
+     "2(x+6)",
+     "6x(x+2)"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "x<sup>2</sup>+3x جا جزا آهن:",
+    "options": [
+     "x(x+3)",
+     "(x+3)<sup>2</sup>",
+     "x<sup>2</sup>(x+3)",
+     "(x-3)(x+3)"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ "x": {
+  "title": "Class X — Mathematics Practice Test",
+  "dir": "ltr",
+  "questions": [
+   {
+    "q": "The set {x | x is a prime number greater than 2 and even} is:",
+    "options": [
+     "∅",
+     "{2}",
+     "{3}",
+     "{0}"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "The number of subsets of {1, 2} is:",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "6"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "If A = {1, 2, 3} and B = {2, 3, 4}, then A ∪ B =",
+    "options": [
+     "{1, 2, 3, 4}",
+     "{2, 3}",
+     "{1, 4}",
+     "{1, 2, 3, 4, 5}"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "If f(x) = 3x - 1, then f(3) =",
+    "options": [
+     "5",
+     "8",
+     "9",
+     "10"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "If f(x) = x + 5, then f(-2) =",
+    "options": [
+     "-7",
+     "3",
+     "7",
+     "-3"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "If y varies directly as x, y = 12 when x = 3, find y when x = 5:",
+    "options": [
+     "15",
+     "20",
+     "25",
+     "36"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "If y varies inversely as x, y = 5 when x = 6, then the constant k =",
+    "options": [
+     "11",
+     "30",
+     "1.2",
+     "5"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "If z varies jointly as x and y with k = 2, x = 3 and y = 4, then z =",
+    "options": [
+     "9",
+     "12",
+     "24",
+     "14"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "If y varies directly as x and y = 10 when x = 2, then the constant k =",
+    "options": [
+     "20",
+     "5",
+     "8",
+     "12"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "If y ∝ 1/x, then y =",
+    "options": [
+     "kx",
+     "k/x",
+     "k + x",
+     "x/k"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "The order of the matrix [1 2 3; 4 5 6] is:",
+    "options": [
+     "3 × 2",
+     "2 × 3",
+     "2 × 2",
+     "3 × 3"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "The determinant of [3 1; 2 2] is:",
+    "options": [
+     "8",
+     "4",
+     "2",
+     "10"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "[1 2; 3 4] + [5 6; 7 8] =",
+    "options": [
+     "[6 8; 10 12]",
+     "[6 8; 7 12]",
+     "[1 2; 3 4]",
+     "[10 12; 6 8]"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "If A is of order 2 × 2 and B is of order 2 × 3, then the order of AB is:",
+    "options": [
+     "2 × 2",
+     "2 × 3",
+     "3 × 2",
+     "3 × 3"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "2 × [1 3; 0 2] =",
+    "options": [
+     "[2 6; 0 4]",
+     "[2 3; 0 2]",
+     "[1 6; 0 4]",
+     "[3 5; 2 4]"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "The discriminant of x<sup>2</sup> - 4x + 3 = 0 is:",
+    "options": [
+     "4",
+     "28",
+     "-4",
+     "16"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "The roots of x<sup>2</sup> - 4x + 3 = 0 are:",
+    "options": [
+     "1, 3",
+     "-1, -3",
+     "1, -3",
+     "3, 4"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "The sum of the roots of x<sup>2</sup> + 5x + 6 = 0 is:",
+    "options": [
+     "5",
+     "-5",
+     "6",
+     "-6"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "The product of the roots of x<sup>2</sup> + 5x + 6 = 0 is:",
+    "options": [
+     "-5",
+     "5",
+     "6",
+     "-6"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "If the discriminant of a quadratic equation is less than 0, its roots are:",
+    "options": [
+     "distinct real",
+     "equal real",
+     "imaginary",
+     "rational"
+    ],
+    "answer": 2
+   }
+  ]
+ }
+};
+</script>
+<script>
+let testKey=null, idx=0, answers=[], timerId=null, secondsLeft=1200, submitted=false;
+const letters=['A','B','C','D'];
+function startTest(key){
+  testKey=key; idx=0; submitted=false;
+  answers=new Array(QUESTIONS[key].questions.length).fill(null);
+  secondsLeft=10*60;
+  document.getElementById('home').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
+  const t=document.getElementById('test'); t.classList.remove('hidden');
+  document.getElementById('testtitle').textContent=QUESTIONS[key].title;
+  document.getElementById('test').dir=QUESTIONS[key].dir;
+  render();
+  clearInterval(timerId);
+  timerId=setInterval(tick,1000);
+}
+function tick(){
+  secondsLeft--;
+  const m=String(Math.floor(secondsLeft/60)).padStart(2,'0'), s=String(secondsLeft%60).padStart(2,'0');
+  const el=document.getElementById('timer'); el.textContent=m+':'+s;
+  if(secondsLeft<=60) el.classList.add('warn');
+  if(secondsLeft<=0){ clearInterval(timerId); submitTest(true); }
+}
+function optHtml(o){ return /[\u0600-\u06FF]/.test(o)?o:'<span class="m">'+o+'</span>'; }
+function render(){
+  const qs=QUESTIONS[testKey].questions;
+  document.getElementById('counter').textContent='Question '+(idx+1)+' of '+qs.length;
+  document.getElementById('bar').style.width=((idx+1)/qs.length*100)+'%';
+  document.getElementById('qtext').innerHTML=qs[idx].q;
+  const box=document.getElementById('opts'); box.innerHTML='';
+  qs[idx].options.forEach((o,i)=>{
+    const b=document.createElement('button');
+    b.className='opt'+(QUESTIONS[testKey].dir==='ltr'?' en':'')+(answers[idx]===i?' sel':'');
+    const isSindhi=/[\u0600-\u06FF]/.test(o);
+    b.innerHTML='('+letters[i]+') '+optHtml(o);
+    b.onclick=()=>{answers[idx]=i; render();};
+    box.appendChild(b);
+  });
+}
+function move(d){
+  const n=QUESTIONS[testKey].questions.length;
+  idx=Math.min(n-1, Math.max(0, idx+d)); render();
+}
+function submitTest(auto){
+  if(submitted) return;
+  const unanswered=answers.filter(a=>a===null).length;
+  if(!auto && unanswered>0 && !confirm(unanswered+' question(s) are unanswered. Submit anyway?')) return;
+  submitted=true; clearInterval(timerId);
+  const qs=QUESTIONS[testKey].questions;
+  let score=0; qs.forEach((q,i)=>{ if(answers[i]===q.answer) score++; });
+  document.getElementById('test').classList.add('hidden');
+  const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=QUESTIONS[testKey].dir;
+  document.getElementById('score').textContent=score+' / '+qs.length;
+  document.getElementById('scorenote').textContent=(auto?'Time up — submitted automatically. ':'')+Math.round(score/qs.length*100)+'% correct.';
+  let html='';
+  qs.forEach((q,i)=>{
+    const yours=answers[i]===null?'Not answered':('('+letters[answers[i]]+') '+optHtml(q.options[answers[i]]));
+    const corr='('+letters[q.answer]+') '+optHtml(q.options[q.answer]);
+    const ok=answers[i]===q.answer;
+    html+='<div class="review"><div class="qq"><b>Q'+(i+1)+'.</b> '+q.q+'</div>'
+      +'<div>Your answer: <span class="'+(ok?'correct':'wrong')+'">'+yours+'</span></div>'
+      +'<div>Correct answer: <span class="correct">'+corr+'</span></div></div>';
+  });
+  document.getElementById('review').innerHTML=html;
+  window.scrollTo(0,0);
+}
+function goHome(){
+  clearInterval(timerId);
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('test').classList.add('hidden');
+  document.getElementById('home').classList.remove('hidden');
+}
+</script>
+</body>
+</html>

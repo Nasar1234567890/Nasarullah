@@ -1,0 +1,40 @@
+@font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Regular.ttf') format('truetype');font-weight:400}
+@font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Bold.ttf') format('truetype');font-weight:700}
+*{box-sizing:border-box}
+body{margin:0;font-family:'Noto Naskh Arabic','Noto Nastaliq Urdu',system-ui,sans-serif;background:#f2f4f7;color:#111}
+header{background:#14532d;color:#fff;text-align:center;padding:18px 14px 14px}
+header h1{margin:0;font-size:19px;line-height:1.35}
+header p{margin:6px 0 0;font-size:14px;opacity:.92}
+main{max-width:680px;margin:0 auto;padding:16px}
+.card{background:#fff;border-radius:12px;padding:18px;box-shadow:0 1px 4px rgba(0,0,0,.12);margin-bottom:16px}
+h2{margin-top:0}
+a.testbtn{display:block;width:100%;text-align:right;padding:16px;margin:10px 0;border:2px solid #14532d;border-radius:10px;background:#eaf5ee;font-size:19px;font-weight:700;color:#14532d;text-decoration:none}
+a.testbtn small{display:block;font-size:14px;font-weight:400;color:#333;margin-top:4px}
+a.testbtn.en{text-align:left}
+.note,.howto{font-size:15px;line-height:1.7;color:#333}
+.howto li{margin:6px 0}
+.sindhi{direction:rtl;text-align:right;font-size:18px;line-height:1.9}
+footer{text-align:center;color:#555;font-size:13px;padding:8px 14px 24px}
+button{font:inherit;cursor:pointer}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+#timer{font-size:20px;font-weight:700;color:#b91c1c}
+#timer.warn{color:#fff;background:#b91c1c;padding:2px 10px;border-radius:8px}
+#progress{height:10px;background:#e5e7eb;border-radius:6px;margin:12px 0;overflow:hidden}
+#bar{height:100%;width:0;background:#14532d}
+#qtext{font-size:21px;line-height:1.9;min-height:90px}
+#qtext .m,.opt .m{direction:ltr;unicode-bidi:embed;font-family:Georgia,serif}
+.opt{display:block;width:100%;text-align:right;padding:14px 16px;margin:9px 0;border:2px solid #cbd5e1;border-radius:10px;background:#fff;font-size:19px}
+.opt.en{text-align:left}
+.opt.sel{border-color:#14532d;background:#dcfce7;font-weight:700}
+.nav{display:flex;gap:10px;margin-top:16px}
+.nav button,.submitbtn,.homebtn{flex:1;padding:14px;border-radius:10px;border:0;font-size:18px;font-weight:700}
+.nav button{background:#e5e7eb}
+.submitbtn{background:#14532d;color:#fff;width:100%;margin-top:12px}
+.homebtn{background:#14532d;color:#fff;margin-top:12px;width:100%}
+.score{font-size:42px;font-weight:700;text-align:center;margin:8px 0}
+.review{border-top:1px solid #ddd;padding:12px 0}
+.review .qq{font-size:18px;line-height:1.8}
+.correct{color:#15803d;font-weight:700}
+.wrong{color:#b91c1c;font-weight:700}
+.hidden{display:none}
+a.backlink{color:#14532d;font-weight:700}
