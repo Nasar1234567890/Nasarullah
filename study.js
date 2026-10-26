@@ -83,27 +83,55 @@ definitions: [
 }
 };
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
+var matTab = "paragraphs";
+function matItemsHtml(items){
+  var html = "";
+  items.forEach(function(item, i){
+    html += "<div class=\"review\"><div class=\"qq\"><b>" + (i + 1) + ". " + escHtml(item.t) + "</b></div>";
+    item.p.forEach(function(para){ html += "<p class=\"note\">" + escHtml(para) + "</p>"; });
+    html += "</div>";
+  });
+  return html;
+}
+function showMatTab(tab){
+  matTab = tab;
+  var data = STUDY[currentClass];
+  if(!data) return;
+  var tabs = ["paragraphs", "essays", "synonyms", "verbforms", "definitions"];
+  var labels = {"paragraphs": "Paragraphs", "essays": "Essays", "synonyms": "Synonyms", "verbforms": "Verb Forms", "definitions": "Definitions"};
+  tabs.forEach(function(t){
+    var b = document.getElementById("mattab-" + t);
+    if(b) b.className = "modebtn" + (t === tab ? " sel" : "");
+  });
+  var body = document.getElementById("matbody");
+  if(!body) return;
+  var html = "";
+  if(tab === "paragraphs") html = matItemsHtml(data.paragraphs);
+  else if(tab === "essays") html = matItemsHtml(data.essays);
+  else if(tab === "definitions"){
+    data.definitions.filter(function(d){ return d.s === "English"; }).forEach(function(d){
+      html += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>";
+    });
+  }
+  else if(tab === "synonyms") html = "<p class=\"note\">Synonyms for Class X English will be added here soon.</p>";
+  else if(tab === "verbforms") html = "<p class=\"note\">Verb forms for Class X English will be added here soon.</p>";
+  body.innerHTML = html;
+  window.scrollTo(0, 0);
+}
 function renderSubjectMaterial(cls, subj){
   var box = document.getElementById("subjectmaterial");
   if(!box) return;
   var data = (typeof STUDY !== "undefined") ? STUDY[cls] : null;
   if(!data){ box.innerHTML = ""; return; }
   var html = "<h3>Study Material</h3>";
-  var has = false;
   if(subj === "English"){
-    html += "<p class=\"note\"><b>Essays</b></p>";
-    data.essays.forEach(function(item, i){
-      html += "<div class=\"review\"><div class=\"qq\"><b>" + (i + 1) + ". " + escHtml(item.t) + "</b></div>";
-      item.p.forEach(function(para){ html += "<p class=\"note\">" + escHtml(para) + "</p>"; });
-      html += "</div>";
-    });
-    html += "<p class=\"note\"><b>Paragraphs</b></p>";
-    data.paragraphs.forEach(function(item, i){
-      html += "<div class=\"review\"><div class=\"qq\"><b>" + (i + 1) + ". " + escHtml(item.t) + "</b></div>";
-      item.p.forEach(function(para){ html += "<p class=\"note\">" + escHtml(para) + "</p>"; });
-      html += "</div>";
-    });
-    has = true;
+    var tabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
+    html += "<p class=\"note\">" + tabs.map(function(t){
+      return "<button class=\"modebtn\" id=\"mattab-" + t[0] + "\" onclick=\"showMatTab('" + t[0] + "')\">" + t[1] + "</button>";
+    }).join(" ") + "</p><div id=\"matbody\"></div>";
+    box.innerHTML = html;
+    showMatTab("paragraphs");
+    return;
   }
   var defs = data.definitions.filter(function(d){ return d.s === subj; });
   if(defs.length){
@@ -111,9 +139,7 @@ function renderSubjectMaterial(cls, subj){
     defs.forEach(function(d){
       html += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>";
     });
-    has = true;
-  }
-  if(!has){
+  } else {
     html += "<p class=\"note\">Study material for this subject is coming soon.</p>";
   }
   box.innerHTML = html;
