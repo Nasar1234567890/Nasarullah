@@ -50,19 +50,18 @@ button{font:inherit;cursor:pointer}
 </header>
 <main>
 <section id="home" class="card">
-<h2>Choose a test</h2>
+<h2>Choose your class</h2>
 <p class="note">No login needed. Each test has 20 questions and a 10-minute timer. Your answers are shown only after you submit.</p>
 <p class="note"><label><b>Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
-<button class="testbtn" onclick="startTest('viii')">Class VIII — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
-<button class="testbtn" onclick="startTest('ix')">Class IX — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
-<button class="testbtn en" onclick="startTest('x')">Class X — Mathematics<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
-<button class="testbtn en" onclick="startTest('xeng')">Class X — English<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
-<button class="testbtn" onclick="startTest('visci')">Class VI — Science<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>
-<p class="note">Tip: tap an option to select it, use Next / Previous to move, and press Submit when you are done. If the timer runs out, the test submits automatically.</p>
+<button class="testbtn en" onclick="showClass('vi')">Class VI<small>1 test &middot; Science</small></button>
+<button class="testbtn en" onclick="showClass('viii')">Class VIII<small>1 test &middot; Mathematics</small></button>
+<button class="testbtn en" onclick="showClass('ix')">Class IX<small>1 test &middot; Mathematics</small></button>
+<button class="testbtn en" onclick="showClass('x')">Class X<small>2 tests &middot; Mathematics, English</small></button>
+<p class="note">Tip: tap your class, then pick a test. Type your name first — it is sent with your result when you submit.</p>
 <section class="card" style="margin-top:16px">
 <h2>How to take a test</h2>
 <ol class="note" style="line-height:1.8">
-<li>Choose your class test above.</li>
+<li>Type your name, choose your class, then choose a test.</li>
 <li>Tap an option (A, B, C or D) to select your answer.</li>
 <li>Use <b>Next</b> and <b>Previous</b> to move between questions.</li>
 <li>You have <b>10 minutes</b>. If the time runs out, the test submits automatically.</li>
@@ -71,6 +70,13 @@ button{font:inherit;cursor:pointer}
 </ol>
 <p class="note">هر ٽيسٽ ۾ 20 سوال آهن ۽ وقت 10 منٽ آهي. جواب جمع ڪرائڻ کان پوءِ توهان جو نتيجو ۽ صحيح جواب ڏيکاريا ويندا.</p>
 </section>
+</section>
+
+<section id="classpage" class="card hidden">
+<h2 id="classtitle">Choose a test</h2>
+<p class="note">Choose a test. Each test has 20 questions and a 10-minute timer.</p>
+<div id="classtests"></div>
+<button class="homebtn" onclick="backToClasses()">Back to Classes</button>
 </section>
 
 <section id="test" class="card hidden">
@@ -1148,11 +1154,33 @@ function sendResult(sc,total,title){
     fetch('https://docs.google.com/forms/d/e/1FAIpQLSfMGZXvdzqOO_fa2V5AW3sDqa86zWKTEu6UhiFQNGPJ6X-wdw/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
   }catch(e){}
 }
+const CLASS_TESTS={'vi':['visci'],'viii':['viii'],'ix':['ix'],'x':['x','xeng']};
+const CLASS_NAMES={'vi':'Class VI','viii':'Class VIII','ix':'Class IX','x':'Class X'};
+function showClass(cls){
+  document.getElementById('classtitle').textContent=CLASS_NAMES[cls]+' — Choose a test';
+  document.getElementById('classtests').innerHTML=CLASS_TESTS[cls].map(function(k){
+    var t=QUESTIONS[k];
+    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+'<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>';
+  }).join('');
+  document.getElementById('home').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('test').classList.add('hidden');
+  document.getElementById('classpage').classList.remove('hidden');
+  window.scrollTo(0,0);
+}
+function backToClasses(){
+  document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('test').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('home').classList.remove('hidden');
+  window.scrollTo(0,0);
+}
 function startTest(key){
-  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false;
+  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); document.getElementById('classpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false;
   answers=new Array(QUESTIONS[key].questions.length).fill(null);
   secondsLeft=10*60;
   document.getElementById('home').classList.add('hidden');
+  document.getElementById('classpage').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   const t=document.getElementById('test'); t.classList.remove('hidden');
   document.getElementById('testtitle').textContent=QUESTIONS[key].title;
@@ -1215,6 +1243,7 @@ function goHome(){
   clearInterval(timerId);
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
+  document.getElementById('classpage').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
 }
 </script>
