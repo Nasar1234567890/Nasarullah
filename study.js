@@ -96,6 +96,7 @@ function matItemsHtml(items){
 function showMatTab(tab){
   matTab = tab;
   var data = STUDY[currentClass];
+  if(!data) data = STUDY.x; // English tabs use the shared Class X material for every class
   if(!data) return;
   var tabs = ["paragraphs", "essays", "synonyms", "verbforms", "definitions"];
   var labels = {"paragraphs": "Paragraphs", "essays": "Essays", "synonyms": "Synonyms", "verbforms": "Verb Forms", "definitions": "Definitions"};
@@ -122,6 +123,7 @@ function renderSubjectMaterial(cls, subj){
   var box = document.getElementById("subjectmaterial");
   if(!box) return;
   var data = (typeof STUDY !== "undefined") ? STUDY[cls] : null;
+  if(!data && subj === "English") data = STUDY.x; // same English material for every class
   if(!data){ box.innerHTML = ""; return; }
   var html = "<h3>Study Material</h3>";
   if(subj === "English"){
