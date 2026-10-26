@@ -62,13 +62,13 @@ body.large .note{font-size:17px}
 <h2>Choose your class or section</h2>
 <p class="note">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
 <p class="note"><label><b>Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
-<button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; Science, English, Social Study</small></button>
-<button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; English, Social Study</small></button>
-<button class="testbtn en" onclick="showClass('viii')">Class VIII<small>3 tests &middot; Mathematics, English, Social Study</small></button>
-<button class="testbtn en" onclick="showClass('ix')">Class IX<small>2 tests &middot; Mathematics, English</small></button>
-<button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; Mathematics, English</small></button>
+<button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; 7 subjects</small></button>
+<button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; 7 subjects</small></button>
+<button class="testbtn en" onclick="showClass('viii')">Class VIII<small>3 tests &middot; 7 subjects</small></button>
+<button class="testbtn en" onclick="showClass('ix')">Class IX<small>2 tests &middot; 7 subjects</small></button>
+<button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>1 test &middot; GK 1st Test</small></button>
-<p class="note">Tip: tap your class, then pick a test. Type your name first — it is sent with your result when you submit.</p>
+<p class="note">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
 <p class="note">Text size: <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')">Large</button></p>
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
 <a class="homebtn" style="display:block;text-align:center;text-decoration:none" href="https://wa.me/?text=Try%20our%20school%20MCQ%20practice%20tests%3A%20https%3A%2F%2FNasar1234567890.github.io%2FNasarullah%2F%20-%20GOVERNMENT%20BOYS%20LOWER%20SECONDARY%20SCHOOL%20HASEEJA%20MAHAR">Share on WhatsApp</a>
@@ -77,7 +77,7 @@ body.large .note{font-size:17px}
 <section class="card" style="margin-top:16px">
 <h2>How to take a test</h2>
 <ol class="note" style="line-height:1.8">
-<li>Type your name, choose your class or General Knowledge, then choose a test.</li>
+<li>Type your name, choose your class, then a subject, then a test. (General Knowledge opens its tests directly.)</li>
 <li>Tap an option (A, B, C or D) to select your answer.</li>
 <li>Use <b>Next</b> and <b>Previous</b> to move between questions.</li>
 <li>Each test shows its own time limit (10 minutes for most tests, 60 minutes for GK 1st Test). If the time runs out, the test submits automatically.</li>
@@ -100,11 +100,18 @@ body.large .note{font-size:17px}
 </section>
 
 <section id="classpage" class="card hidden">
-<h2 id="classtitle">Choose a test</h2>
-<p class="note">Choose a test. Each test shows its own number of questions and timer.</p>
-<p class="note">Mode: <button class="modebtn sel" id="modeTestBtn" onclick="setMode('test')">Test</button> <button class="modebtn" id="modeLearnBtn" onclick="setMode('learn')">Learn</button></p>
+<h2 id="classtitle">Choose a subject</h2>
+<p class="note">Choose a subject, then pick a test.</p>
 <div id="classtests"></div>
 <button class="homebtn" onclick="backToClasses()">Back to Classes</button>
+</section>
+
+<section id="subjectpage" class="card hidden">
+<h2 id="subjecttitle">Choose a test</h2>
+<p class="note">Choose a test. Each test shows its own number of questions and timer.</p>
+<p class="note">Mode: <button class="modebtn sel" id="modeTestBtn" onclick="setMode('test')">Test</button> <button class="modebtn" id="modeLearnBtn" onclick="setMode('learn')">Learn</button></p>
+<div id="subjecttests"></div>
+<button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
 </section>
 
 <section id="test" class="card hidden">
@@ -3591,6 +3598,8 @@ function sendResult(sc,total,title){
 }
 const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':['gk1']};
 const CLASS_NAMES={'vi':'Class VI','vii':'Class VII','viii':'Class VIII','ix':'Class IX','x':'Class X','gk':'General Knowledge'};
+const CLASS_SUBJECTS={'vi':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'vii':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'viii':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'ix':['English','Mathematics','Chemistry','Physics','Biology','Islamiat','Sindhi'],'x':['English','Mathematics','Physics','Biology','Chemistry','Urdu Salees','Pakistan Study']};
+const TEST_SUBJECT={'visci':'Science','vieng':'English','visoc':'Social Studies','viieng':'English','viisoc':'Social Studies','viii':'Mathematics','viiieng':'English','viiisoc':'Social Studies','ix':'Mathematics','ixeng':'English','x':'Mathematics','xeng':'English','xstbb':'English'};
 const TOPICS={'viii':'Sets, Real Numbers, Number System, Polynomials','ix':'Real & Complex Numbers, Logarithms, Algebraic Expressions, Factorization','x':'Sets & Functions, Variations, Matrices, Quadratic Equations','xeng':'English Units 1-4, Voice, Narration','visci':'Science Chapters 1-2','vieng':'English Units 1-4','viieng':'English Units 1-4','viiieng':'English Units 1-4','ixeng':'English Units 1-4','xstbb':'English Units 1-4','visoc':'Geography, Indus Valley, Early History','viisoc':'Medieval History, Mughals, Geography','viiisoc':'Freedom Movement, Pakistan Studies','gk1':'Nouns, Nominalisation, Possession, Pronouns'};
 function shuffleArr(a){ var arr=a.slice(); for(var i=arr.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var tmp=arr[i]; arr[i]=arr[j]; arr[j]=tmp; } return arr; }
 function buildShuffled(key){ var qs=QUESTIONS[key].questions.map(function(q){ var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer)}; }); return shuffleArr(qs); }
@@ -3600,24 +3609,58 @@ function saveBest(k,sc){ try{ var old=getBest(k); if(old===null||sc>old) localSt
 function setMode(m){ learnMode=(m==='learn'); var tb=document.getElementById('modeTestBtn'), lb=document.getElementById('modeLearnBtn'); if(tb) tb.className='modebtn'+(learnMode?'':' sel'); if(lb) lb.className='modebtn'+(learnMode?' sel':''); }
 function setFontSize(s){ try{localStorage.setItem('mcqFontSize', s);}catch(e){} document.body.classList.toggle('large', s==='large'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'); if(nb) nb.className='modebtn'+(s==='large'?'':' sel'); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); }
 function applySavedFontSize(){ var s='normal'; try{ s=localStorage.getItem('mcqFontSize')||'normal'; }catch(e){} document.body.classList.toggle('large', s==='large'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'); if(nb) nb.className='modebtn'+(s==='large'?'':' sel'); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); }
-function showInstall(){ document.getElementById('home').classList.add('hidden'); document.getElementById('classpage').classList.add('hidden'); document.getElementById('test').classList.add('hidden'); document.getElementById('result').classList.add('hidden'); document.getElementById('install').classList.remove('hidden'); window.scrollTo(0,0); }
+function showInstall(){ document.getElementById('home').classList.add('hidden'); document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('test').classList.add('hidden'); document.getElementById('result').classList.add('hidden'); document.getElementById('install').classList.remove('hidden'); window.scrollTo(0,0); }
 function reportMistake(){ if(!testKey) return; var msg='I found a mistake in the test: '+QUESTIONS[testKey].title+'. Question number: ___. Mistake: ___'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
 
+var currentClass=null; var currentSubject=null;
 function showClass(cls){
-  document.getElementById('classtitle').textContent=CLASS_NAMES[cls]+' — Choose a test';
-  document.getElementById('classtests').innerHTML=CLASS_TESTS[cls].length===0?'<p class="note">No tests here yet — more General Knowledge tests will be added here soon.</p>':CLASS_TESTS[cls].map(function(k){
-    var t=QUESTIONS[k];
-    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk1'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small></button>';
+  currentClass=cls; currentSubject=null;
+  if(cls==='gk'){ renderTestList(cls,'General Knowledge',CLASS_TESTS['gk']); return; }
+  document.getElementById('classtitle').textContent=CLASS_NAMES[cls]+' — Choose a subject';
+  document.getElementById('classtests').innerHTML=CLASS_SUBJECTS[cls].map(function(s){
+    var n=CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===s; }).length;
+    return '<button class="testbtn en" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+s+'<small>'+(n===0?'No tests yet':n+(n===1?' test':' tests'))+'</small></button>';
   }).join('');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
+  document.getElementById('classpage').classList.remove('hidden');
+  window.scrollTo(0,0);
+}
+function showSubject(cls, subj){
+  currentClass=cls; currentSubject=subj;
+  renderTestList(cls, CLASS_NAMES[cls]+' — '+subj, CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===subj; }));
+}
+function renderTestList(cls, title, keys){
+  document.getElementById('subjecttitle').textContent=title+' — Choose a test';
+  document.getElementById('subjectback').textContent=(cls==='gk'?'Back to Home':'Back to Subjects');
+  document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">No tests for this subject yet — more tests will be added here soon.</p>':keys.map(function(k){
+    var t=QUESTIONS[k];
+    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk1'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small></button>';
+  }).join('');
+  document.getElementById('home').classList.add('hidden');
+  document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('test').classList.add('hidden');
+  document.getElementById('install').classList.add('hidden');
+  document.getElementById('subjectpage').classList.remove('hidden');
+  window.scrollTo(0,0);
+}
+function backToSubjects(){
+  if(currentClass==='gk'){ backToClasses(); return; }
+  document.getElementById('subjectpage').classList.add('hidden');
+  document.getElementById('test').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
   document.getElementById('classpage').classList.remove('hidden');
   window.scrollTo(0,0);
 }
 function backToClasses(){
   document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
@@ -3625,12 +3668,14 @@ function backToClasses(){
   window.scrollTo(0,0);
 }
 function startTest(key){
-  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); document.getElementById('classpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false; testLearn=learnMode; activeQs=buildShuffled(key);
+  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false; testLearn=learnMode; activeQs=buildShuffled(key);
   answers=new Array(activeQs.length).fill(null);
   secondsLeft=(QUESTIONS[key].minutes||10)*60;
   document.getElementById('timer').textContent=String(Math.floor(secondsLeft/60)).padStart(2,'0')+':'+String(secondsLeft%60).padStart(2,'0'); document.getElementById('timer').classList.remove('warn');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   const t=document.getElementById('test'); t.classList.remove('hidden');
   document.getElementById('testtitle').textContent=QUESTIONS[key].title+(testLearn?' — Learn mode':'');
@@ -3699,6 +3744,7 @@ function goHome(){
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
 }
