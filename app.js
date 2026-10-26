@@ -4,7 +4,9 @@
   var params = new URLSearchParams(window.location.search);
   var testKey = params.get('class') || 'viii';
   if (!QUESTIONS[testKey]) testKey = 'viii';
-  var test = QUESTIONS[testKey];
+  var origTest = QUESTIONS[testKey];
+  function shuffleArrJs(a){ var arr=a.slice(); for(var i=arr.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var tmp=arr[i]; arr[i]=arr[j]; arr[j]=tmp; } return arr; }
+  var test = {title: origTest.title, dir: origTest.dir, minutes: origTest.minutes, questions: shuffleArrJs(origTest.questions.map(function(q){ var order=shuffleArrJs(q.options.map(function(o,i){return i;})); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer)}; }))};
   var idx = 0, answers = new Array(test.questions.length).fill(null);
   var secondsLeft = (test.minutes || 10) * 60, timerId = null, submitted = false;
   var letters = ['A', 'B', 'C', 'D'];
