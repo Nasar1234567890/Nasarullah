@@ -111,15 +111,8 @@ body.large .note{font-size:17px}
 <p class="note">Choose a test. Each test shows its own number of questions and timer.</p>
 <p class="note">Mode: <button class="modebtn sel" id="modeTestBtn" onclick="setMode('test')">Test</button> <button class="modebtn" id="modeLearnBtn" onclick="setMode('learn')">Learn</button></p>
 <div id="subjecttests"></div>
+<div id="subjectmaterial"></div>
 <button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
-</section>
-
-<section id="material" class="card hidden">
-<h2 id="materialtitle">Study Material</h2>
-<p class="note">Read essays, paragraphs and short definitions. More material will be added here.</p>
-<p class="note" id="materialcats"></p>
-<div id="materialbody"></div>
-<button class="homebtn" onclick="backToMaterialSubjects()">Back to Subjects</button>
 </section>
 
 <section id="test" class="card hidden">
@@ -4645,7 +4638,6 @@ function showClass(cls){
     var n=CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===s; }).length;
     return '<button class="testbtn en" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+s+'<small>'+(n===0?'No tests yet':n+(n===1?' test':' tests'))+'</small></button>';
   }).join('');
-  if(typeof STUDY!=='undefined'&&STUDY[cls]){ document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="showMaterial(\''+cls+'\')">Study Material<small>Essays, Paragraphs &amp; Definitions</small></button>'; }
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
@@ -4657,8 +4649,10 @@ function showClass(cls){
 function showSubject(cls, subj){
   currentClass=cls; currentSubject=subj;
   renderTestList(cls, CLASS_NAMES[cls]+' — '+subj, CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===subj; }));
+  if(typeof renderSubjectMaterial!=='undefined'){ renderSubjectMaterial(cls, subj); }
 }
 function renderTestList(cls, title, keys){
+  var _sm=document.getElementById('subjectmaterial'); if(_sm) _sm.innerHTML='';
   document.getElementById('subjecttitle').textContent=title+' — Choose a test';
   document.getElementById('subjectback').textContent=(cls==='gk'?'Back to Home':'Back to Subjects');
   document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">No tests for this subject yet — more tests will be added here soon.</p>':keys.map(function(k){
@@ -4688,7 +4682,6 @@ function backToClasses(){
   document.getElementById('test').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
-  document.getElementById('material').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
   window.scrollTo(0,0);
 }
@@ -4771,7 +4764,6 @@ function goHome(){
   document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
-  document.getElementById('material').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
 }
 try{ var _savedName=localStorage.getItem('mcqStudentName'); if(_savedName){ var _inp=document.getElementById('studentName'); if(_inp) _inp.value=_savedName; } }catch(e){}

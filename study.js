@@ -82,55 +82,39 @@ definitions: [
 ]
 }
 };
-var STUDY_CLASS = "x";
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
-function showMaterial(cls){
-  if(!STUDY[cls]) return;
-  currentClass = cls;
-  document.getElementById("materialtitle").textContent = CLASS_NAMES[cls] + " — Study Material";
-  var cats = [["essays", "Essays"], ["paragraphs", "Paragraphs"], ["definitions", "Definitions"]];
-  document.getElementById("materialcats").innerHTML = cats.map(function(c){
-    var n = c[0] === "definitions" ? STUDY[cls].definitions.length : STUDY[cls][c[0]].length;
-    return "<button class=\"modebtn\" id=\"matbtn-" + c[0] + "\" onclick=\"showMaterialCat('" + c[0] + "')\">" + c[1] + " (" + n + ")</button>";
-  }).join(" ");
-  document.getElementById("home").classList.add("hidden");
-  document.getElementById("classpage").classList.add("hidden");
-  document.getElementById("subjectpage").classList.add("hidden");
-  document.getElementById("test").classList.add("hidden");
-  document.getElementById("result").classList.add("hidden");
-  document.getElementById("install").classList.add("hidden");
-  document.getElementById("material").classList.remove("hidden");
-  window.scrollTo(0, 0);
-  showMaterialCat("essays");
-}
-function showMaterialCat(cat){
-  var cls = currentClass || STUDY_CLASS;
-  var data = STUDY[cls];
-  if(!data) return;
-  ["essays", "paragraphs", "definitions"].forEach(function(c){
-    var b = document.getElementById("matbtn-" + c);
-    if(b) b.className = "modebtn" + (c === cat ? " sel" : "");
-  });
-  var html = "";
-  if(cat === "definitions"){
-    var order = [];
-    data.definitions.forEach(function(d){ if(order.indexOf(d.s) < 0) order.push(d.s); });
-    order.forEach(function(s){
-      html += "<h3>" + escHtml(s) + "</h3>";
-      data.definitions.filter(function(d){ return d.s === s; }).forEach(function(d){
-        html += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>";
-      });
-    });
-  } else {
-    data[cat].forEach(function(item, i){
+function renderSubjectMaterial(cls, subj){
+  var box = document.getElementById("subjectmaterial");
+  if(!box) return;
+  var data = (typeof STUDY !== "undefined") ? STUDY[cls] : null;
+  if(!data){ box.innerHTML = ""; return; }
+  var html = "<h3>Study Material</h3>";
+  var has = false;
+  if(subj === "English"){
+    html += "<p class=\"note\"><b>Essays</b></p>";
+    data.essays.forEach(function(item, i){
       html += "<div class=\"review\"><div class=\"qq\"><b>" + (i + 1) + ". " + escHtml(item.t) + "</b></div>";
       item.p.forEach(function(para){ html += "<p class=\"note\">" + escHtml(para) + "</p>"; });
       html += "</div>";
     });
+    html += "<p class=\"note\"><b>Paragraphs</b></p>";
+    data.paragraphs.forEach(function(item, i){
+      html += "<div class=\"review\"><div class=\"qq\"><b>" + (i + 1) + ". " + escHtml(item.t) + "</b></div>";
+      item.p.forEach(function(para){ html += "<p class=\"note\">" + escHtml(para) + "</p>"; });
+      html += "</div>";
+    });
+    has = true;
   }
-  document.getElementById("materialbody").innerHTML = html;
-  window.scrollTo(0, 0);
-}
-function backToMaterialSubjects(){
-  showClass(currentClass || STUDY_CLASS);
+  var defs = data.definitions.filter(function(d){ return d.s === subj; });
+  if(defs.length){
+    html += "<p class=\"note\"><b>Definitions</b></p>";
+    defs.forEach(function(d){
+      html += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>";
+    });
+    has = true;
+  }
+  if(!has){
+    html += "<p class=\"note\">Study material for this subject is coming soon.</p>";
+  }
+  box.innerHTML = html;
 }
