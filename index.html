@@ -53,9 +53,9 @@ button{font:inherit;cursor:pointer}
 <h2>Choose your class or section</h2>
 <p class="note">No login needed. Each test has 20 questions and a 10-minute timer. Your answers are shown only after you submit.</p>
 <p class="note"><label><b>Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
-<button class="testbtn en" onclick="showClass('vi')">Class VI<small>2 tests &middot; Science, English</small></button>
-<button class="testbtn en" onclick="showClass('vii')">Class VII<small>1 test &middot; English</small></button>
-<button class="testbtn en" onclick="showClass('viii')">Class VIII<small>2 tests &middot; Mathematics, English</small></button>
+<button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; Science, English, Social Study</small></button>
+<button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; English, Social Study</small></button>
+<button class="testbtn en" onclick="showClass('viii')">Class VIII<small>3 tests &middot; Mathematics, English, Social Study</small></button>
 <button class="testbtn en" onclick="showClass('ix')">Class IX<small>2 tests &middot; Mathematics, English</small></button>
 <button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; Mathematics, English</small></button>
 <button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>More tests coming soon</small></button>
@@ -724,7 +724,7 @@ const QUESTIONS = {
   ]
  },
  "xeng": {
- "title": "Class X — English Practice Test",
+  "title": "Class X — English Practice Test",
   "dir": "ltr",
   "questions": [
    {
@@ -930,7 +930,7 @@ const QUESTIONS = {
   ]
  },
  "visci": {
- "title": "Class VI — Science Practice Test",
+  "title": "Class VI — Science Practice Test",
   "dir": "rtl",
   "questions": [
    {
@@ -1136,7 +1136,7 @@ const QUESTIONS = {
   ]
  },
  "vieng": {
- "title": "Class VI — English Practice Test",
+  "title": "Class VI — English Practice Test",
   "dir": "ltr",
   "questions": [
    {
@@ -1342,7 +1342,7 @@ const QUESTIONS = {
   ]
  },
  "viieng": {
- "title": "Class VII — English Practice Test",
+  "title": "Class VII — English Practice Test",
   "dir": "ltr",
   "questions": [
    {
@@ -1548,7 +1548,7 @@ const QUESTIONS = {
   ]
  },
  "viiieng": {
- "title": "Class VIII — English Practice Test",
+  "title": "Class VIII — English Practice Test",
   "dir": "ltr",
   "questions": [
    {
@@ -1754,7 +1754,7 @@ const QUESTIONS = {
   ]
  },
  "ixeng": {
- "title": "Class IX — English Practice Test",
+  "title": "Class IX — English Practice Test",
   "dir": "ltr",
   "questions": [
    {
@@ -1960,7 +1960,7 @@ const QUESTIONS = {
   ]
  },
  "xstbb": {
- "title": "Class X — English (STBB) Practice Test",
+  "title": "Class X — English (STBB) Practice Test",
   "dir": "ltr",
   "questions": [
    {
@@ -2164,6 +2164,624 @@ const QUESTIONS = {
     "answer": 1
    }
   ]
+ },
+ "visoc": {
+  "title": "Class VI — Social Study Practice Test",
+  "dir": "rtl",
+  "questions": [
+   {
+    "q": "'جغرافي' لفظ ڪهڙي ٻوليءَ مان ورتل آهي؟",
+    "options": [
+     "لاطيني",
+     "يوناني",
+     "عربي",
+     "فارسي"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "دنيا ۾ ايراضيءَ جي لحاظ کان سڀ کان وڏو کنڊ ڪهڙو آهي؟",
+    "options": [
+     "آفريڪا",
+     "اتر آمريڪا",
+     "ايشيا",
+     "يورپ"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "موهن جو دڙو ڪهڙي ضلعي ۾ واقع آهي؟",
+    "options": [
+     "سکر",
+     "گهوٽڪي",
+     "لاڙڪاڻو",
+     "حيدرآباد"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "هڙاپا ڪهڙي صوبي ۾ واقع آهي؟",
+    "options": [
+     "سنڌ",
+     "پنجاب",
+     "بلوچستان",
+     "خيبر پختونخواه"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "آريا برصغير ۾ ڪتان آيا هئا؟",
+    "options": [
+     "وچ ايشيا",
+     "يورپ",
+     "وچ اوڀر",
+     "آفريڪا"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "آرين جي مقدس ڪتاب کي چا چئبو هو؟",
+    "options": [
+     "زنداويستا",
+     "توريت",
+     "ويد",
+     "تريپيتاڪا"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "گوتم ٻڌ ڪهڙي مذهب جو باني هو؟",
+    "options": [
+     "هندو",
+     "جين",
+     "ٻڌ",
+     "سک"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "موريا سلطنت جي گاديءَ جو هنڌ ڪهڙو هو؟",
+    "options": [
+     "ٽيڪسيلا",
+     "پاٽلي پتر",
+     "دهلي",
+     "اجين"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "زمين پنهنجي محور تي هڪ چڪر ڪيتري وقت ۾ مڪمل ڪري ٿي؟",
+    "options": [
+     "12 ڪلاڪ",
+     "24 ڪلاڪ",
+     "30 ڏينهن",
+     "365 ڏينهن"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "گرمي پد (ٽيمپريچر) ماپڻ لاءِ ڪهڙو اوزار استعمال ٿيندو آهي؟",
+    "options": [
+     "بيروميٽر",
+     "رين گيج",
+     "اينيموميٽر",
+     "ٿرماميٽر"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "زمين جي ننڍي گول ماڊل کي چا چئبو آهي؟",
+    "options": [
+     "نقشو",
+     "گلوپ",
+     "ائٽلس",
+     "پيمانو"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "سنڌو ماٿريءَ جي تهذيب ڪهڙي نديءَ جي ڪناري تي وڌي ويجهي؟",
+    "options": [
+     "گنگا",
+     "نيل",
+     "سنڌو",
+     "دجله"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "برصغير ۾ باضابطا طور تي اسلام ڪنهن متعارف ڪرايو؟",
+    "options": [
+     "محمود غزنوي",
+     "محمد بن قاسم",
+     "شهاب الدين غوري",
+     "ظهير الدين بابر"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "محمد بن قاسم سنڌ کي ڪهڙي سال ۾ فتح ڪيو؟",
+    "options": [
+     "712ع",
+     "720ع",
+     "1000ع",
+     "1526ع"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "پاڪستان جو سڀ کان وڏو درياءُ ڪهڙو آهي؟",
+    "options": [
+     "راوي",
+     "چناب",
+     "سنڌو",
+     "جهلم"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "دنيا جي سڀ کان اوچي جابلو چوٽي ڪهڙي آهي؟",
+    "options": [
+     "ڪي-ٽو (K-2)",
+     "مائونٽ ايوريسٽ",
+     "نانگا پربت",
+     "مائونٽ ڪليمنجارو"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "دنيا ۾ ڪل ڪيترا وڏا سمنڊ آهن؟",
+    "options": [
+     "ٽي",
+     "چار",
+     "پنج",
+     "ست"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "زمين جي چوڌاري هوا جي ٿلهي تهه کي چا چئبو آهي؟",
+    "options": [
+     "لٿوسفيئر",
+     "هائيڊروسفيئر",
+     "ايٽموسفيئر",
+     "بائيوسفيئر"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "سنڌو ماٿريءَ جي تهذيب جا ماڻهو اڪثر ڪهڙي ڌاتو جو اوزار استعمال ڪندا هئا؟",
+    "options": [
+     "لوهه",
+     "ڪنجهو (Bronze)",
+     "اسٽيل",
+     "ايلومينيم"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "نقشي تي پيمانو (Scale) چا ڏيکارڻ لاءِ استعمال ٿيندو آهي؟",
+    "options": [
+     "طرف",
+     "گرمي پد",
+     "فاصلو",
+     "اوچائي"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "viisoc": {
+  "title": "Class VII — Social Study Practice Test",
+  "dir": "rtl",
+  "questions": [
+   {
+    "q": "محمد بن قاسم سنڌ جي ڪهڙي هندو حاڪم کي شڪست ڏني هئي؟",
+    "options": [
+     "راجا جي پال",
+     "راجا ڏاهر",
+     "پورس",
+     "شيواجي"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "برصغير ۾ پهريون اسلامي رياست ڪتي قائم ٿي؟",
+    "options": [
+     "پنجاب",
+     "بنگال",
+     "سنڌ",
+     "دکن"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "محمود غزنوي برصغير تي ڪيترا حملا ڪيا هئا؟",
+    "options": [
+     "12",
+     "15",
+     "17",
+     "20"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "پاڻي پت جي پهرين لڙائي ڪهڙي سال ۾ وڙهي وئي؟",
+    "options": [
+     "1192ع",
+     "1526ع",
+     "1556ع",
+     "1761ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "برصغير ۾ مغل سلطنت جو باني ڪير هو؟",
+    "options": [
+     "اڪبر",
+     "همايون",
+     "ظهير الدين بابر",
+     "شاهجهان"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "پاڻي پت جي ٻين لڙائي اڪبر ۽ ڪنهن جي وچ ۾ وڙهي وئي؟",
+    "options": [
+     "شير شاهه سوري",
+     "هيمو بقال",
+     "ابراهيم لودي",
+     "مهارانا پرتاب"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "اهو مغل بادشاهه جنهن تاج محل جهڙيون تاريخي عمارتون ٺهرايون:",
+    "options": [
+     "جهانگير",
+     "اڪبر",
+     "شاهجهان",
+     "اورنگزيب"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "آخري مغل بادشاهه ڪير هو؟",
+    "options": [
+     "بهادر شاهه ظفر",
+     "شاهه عالم ثاني",
+     "جهانگير شاهه",
+     "عالمگير ثاني"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "ڪهڙي مسلمان سائنسدان کي جديد بصريات (Optics) جو باني چيو وڃي ٿو؟",
+    "options": [
+     "الخوارزمي",
+     "ابن سينا",
+     "ابن الهيثم",
+     "الرازي"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "ڪراڪرم جابلو سلسلي جي سڀ کان اوچي چوٽي ڪهڙي آهي؟",
+    "options": [
+     "مائونٽ ايوريسٽ",
+     "ڪي-ٽو (K-2)",
+     "نانگا پربت",
+     "ترچ مير"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "هيٺين مان پاڪستان جو مکيه نقد آور فصل (Cash crop) ڪهڙو آهي؟",
+    "options": [
+     "ڪڻڪ",
+     "مڪائي",
+     "ڪپهه",
+     "چانور"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "دنيا جو سڀ کان وڏو ريگستان ڪهڙو آهي؟",
+    "options": [
+     "ٿر",
+     "گوبي",
+     "صحارا",
+     "عربستان"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "ڪارخانن ۾ مشينن ذريعي شين ٺاهڻ جي عمل کي چا چئبو آهي؟",
+    "options": [
+     "زراعت",
+     "صنعت",
+     "واپار",
+     "کڻت"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "اسلامي دنيا جي اڪثريتي مانهن جو مذهب ڪهڙو آهي؟",
+    "options": [
+     "عيسائيت",
+     "هندومت",
+     "ٻڌمت",
+     "اسلام"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "اسلامي تعاون جي تنظيم (OIC) جو هيڊ ڪوارٽر ڪتي آهي؟",
+    "options": [
+     "مڪو",
+     "رياض",
+     "جده",
+     "استنبول"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "قطب الدين ايبڪ ڪهڙي خاندان (Dynasty) جو باني هو؟",
+    "options": [
+     "غلام گهراڻو",
+     "خلجي گهراڻو",
+     "تغلق گهراڻو",
+     "لودي گهراڻو"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "مشهور سياح ابن بطوطا جو تعلق ڪهڙي ملڪ سان هو؟",
+    "options": [
+     "مصر",
+     "مراڪش",
+     "اسپين",
+     "ترڪي"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "شير شاهه سوري جو اصل نالو چا هو؟",
+    "options": [
+     "فريد خان",
+     "خرم",
+     "سليم",
+     "جلال الدين"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "مغل دربار جي سرڪاري ٻولي ڪهڙي هئي؟",
+    "options": [
+     "عربي",
+     "ترڪي",
+     "فارسي",
+     "اردو"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "سعودي عرب جي گاديءَ جو هنڌ ڪهڙو آهي؟",
+    "options": [
+     "مڪو",
+     "مدينو",
+     "رياض",
+     "جده"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ "viiisoc": {
+  "title": "Class VIII — Social Study Practice Test",
+  "dir": "rtl",
+  "questions": [
+   {
+    "q": "برصغير ۾ جنگ آزادي ڪهڙي سال ۾ وڙهي وئي؟",
+    "options": [
+     "1757ع",
+     "1857ع",
+     "1905ع",
+     "1947ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "برطانوي ايسٽ انڊيا ڪمپني ڪهڙي سال ۾ قائم ٿي هئي؟",
+    "options": [
+     "1500ع",
+     "1600ع",
+     "1700ع",
+     "1800ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "سر سيد احمد خان ايم.اي.او (MAO) ڪاليج ڪتي قائم ڪيو؟",
+    "options": [
+     "دهلي",
+     "لاهور",
+     "علي ڳڙهه",
+     "آگرا"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "انڊين نيشنل ڪانگريس جو بنياد اي.او. هيوم ڪڏهن رکيو؟",
+    "options": [
+     "1857ع",
+     "1885ع",
+     "1906ع",
+     "1919ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "آل انڊيا مسلم ليگ ڪهڙي سال ۾ ٺاهي وئي؟",
+    "options": [
+     "1885ع",
+     "1905ع",
+     "1906ع",
+     "1913ع"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "برطانوي دور ۾ بنگال جو ورهاڱو ڪڏهن ٿيو هو؟",
+    "options": [
+     "1901ع",
+     "1905ع",
+     "1911ع",
+     "1947ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "پهرين عالمي جنگ (World War I) ڪڏهن شروع ٿي؟",
+    "options": [
+     "1914ع",
+     "1918ع",
+     "1939ع",
+     "1945ع"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "برصغير جي مسلمانن تحريڪ خلافت ڪهڙي ملڪ جي خلافت بچائڻ لاءِ شروع ڪئي هئي؟",
+    "options": [
+     "مصر",
+     "سعودي عرب",
+     "ترڪي",
+     "عراق"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "علامه اقبال پنهنجو مشهور خطبو الهه آباد ڪڏهن پيش ڪيو؟",
+    "options": [
+     "1928ع",
+     "1930ع",
+     "1940ع",
+     "1947ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "قرارداد لاهور (قرارداد پاڪستان) ڪڏهن منظور ٿي؟",
+    "options": [
+     "14 آگسٽ 1947ع",
+     "23 مارچ 1940ع",
+     "25 ڊسمبر 1930ع",
+     "9 نومبر 1938ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "پاڪستان هڪ آزاد رياست طور ڪڏهن قائم ٿيو؟",
+    "options": [
+     "14 آگسٽ 1947ع",
+     "15 آگسٽ 1947ع",
+     "23 مارچ 1956ع",
+     "11 سيپٽمبر 1948ع"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "پاڪستان جو پهريون گورنر جنرل ڪير هو؟",
+    "options": [
+     "لياقت علي خان",
+     "خواجه ناظم الدين",
+     "قائد اعظم محمد علي جناح",
+     "غلام محمد"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "پاڪستان جي ڪل ايراضي لڳ ڀڳ ڪيتري آهي؟",
+    "options": [
+     "696,096 چورس ڪلوميٽر",
+     "796,096 چورس ڪلوميٽر",
+     "896,096 چورس ڪلوميٽر",
+     "996,096 چورس ڪلوميٽر"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "پاڪستان جي قومي ٻولي ڪهڙي آهي؟",
+    "options": [
+     "سنڌي",
+     "پنجابي",
+     "انگريزي",
+     "اردو"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "پاڪستان جي سڀ کان وڏي عدالت ڪهڙي آهي؟",
+    "options": [
+     "هاءِ ڪورٽ",
+     "وفاقي شرعي عدالت",
+     "سپريم ڪورٽ",
+     "ڊسٽرڪٽ ڪورٽ"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "پاڪستان جي پارليامينٽ جي هيٺين ايوان کي چا چئبو آهي؟",
+    "options": [
+     "سينيٽ",
+     "قومي اسيمبلي",
+     "صوبائي اسيمبلي",
+     "سپريم ڪائونسل"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "ايراضيءَ جي لحاظ کان پاڪستان جو سڀ کان وڏو صوبو ڪهڙو آهي؟",
+    "options": [
+     "پنجاب",
+     "سنڌ",
+     "خيبر پختونخواه",
+     "بلوچستان"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "پاڪستان جو قومي جانور ڪهڙو آهي؟",
+    "options": [
+     "برفاني چيتو",
+     "مارخور",
+     "چڪور",
+     "انڊس ڊولفن"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "شمله وفد وائسراءِ لارڊ منٽو سان ڪڏهن ملاقات ڪئي هئي؟",
+    "options": [
+     "1905ع",
+     "1906ع",
+     "1909ع",
+     "1916ع"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "1973ع جو آئين پاڪستان ۾ ڪنهن جي حڪومت ۾ لاڳو ڪيو ويو؟",
+    "options": [
+     "ايوب خان",
+     "يحييٰ خان",
+     "ذوالفقار علي ڀٽو",
+     "ضياءُ الحق"
+    ],
+    "answer": 2
+   }
+  ]
  }
 };
 </script>
@@ -2186,7 +2804,7 @@ function sendResult(sc,total,title){
     fetch('https://docs.google.com/forms/d/e/1FAIpQLSfMGZXvdzqOO_fa2V5AW3sDqa86zWKTEu6UhiFQNGPJ6X-wdw/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
   }catch(e){}
 }
-const CLASS_TESTS={'vi':['visci','vieng'],'vii':['viieng'],'viii':['viii','viiieng'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':[]};
+const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':[]};
 const CLASS_NAMES={'vi':'Class VI','vii':'Class VII','viii':'Class VIII','ix':'Class IX','x':'Class X','gk':'General Knowledge'};
 function showClass(cls){
   document.getElementById('classtitle').textContent=CLASS_NAMES[cls]+' — Choose a test';
