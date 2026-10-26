@@ -94,5 +94,6 @@
     window.scrollTo(0, 0);
   }
   render();
+  (function(){var _te=document.getElementById('timer'); _te.textContent=String(Math.floor(secondsLeft/60)).padStart(2,'0')+':'+String(secondsLeft%60).padStart(2,'0'); _te.classList.remove('warn');})();
   timerId = setInterval(tick, 1000);
 })();
