@@ -51,14 +51,14 @@ button{font:inherit;cursor:pointer}
 <main>
 <section id="home" class="card">
 <h2>Choose your class or section</h2>
-<p class="note">No login needed. Each test has 20 questions and a 10-minute timer. Your answers are shown only after you submit.</p>
+<p class="note">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
 <p class="note"><label><b>Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
 <button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; Science, English, Social Study</small></button>
 <button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; English, Social Study</small></button>
 <button class="testbtn en" onclick="showClass('viii')">Class VIII<small>3 tests &middot; Mathematics, English, Social Study</small></button>
 <button class="testbtn en" onclick="showClass('ix')">Class IX<small>2 tests &middot; Mathematics, English</small></button>
 <button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; Mathematics, English</small></button>
-<button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>More tests coming soon</small></button>
+<button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>1 test &middot; GK 1st Test</small></button>
 <p class="note">Tip: tap your class, then pick a test. Type your name first — it is sent with your result when you submit.</p>
 <section class="card" style="margin-top:16px">
 <h2>How to take a test</h2>
@@ -76,7 +76,7 @@ button{font:inherit;cursor:pointer}
 
 <section id="classpage" class="card hidden">
 <h2 id="classtitle">Choose a test</h2>
-<p class="note">Choose a test. Each test has 20 questions and a 10-minute timer.</p>
+<p class="note">Choose a test. Each test shows its own number of questions and timer.</p>
 <div id="classtests"></div>
 <button class="homebtn" onclick="backToClasses()">Back to Classes</button>
 </section>
@@ -2782,6 +2782,763 @@ const QUESTIONS = {
     "answer": 2
    }
   ]
+ },
+ "gk1": {
+  "title": "GK 1st Test",
+  "dir": "ltr",
+  "minutes": 60,
+  "questions": [
+   {
+    "q": "Which sentence contains a noun functioning as the subject (doer of an action)?",
+    "options": [
+     "The teacher praised Ali.",
+     "Ali praised the teacher.",
+     "The teacher is a doctor.",
+     "We gave Ali a book."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "In the sentence \"Honesty is the best policy,\" the word Honesty functions as:",
+    "options": [
+     "Direct object",
+     "Subject",
+     "Object complement",
+     "Vocative"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"My brother is a doctor,\" the word doctor is:",
+    "options": [
+     "Direct object",
+     "Subject",
+     "Subject complement",
+     "Object of a preposition"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which verb is most likely to be used as a linking verb?",
+    "options": [
+     "Run",
+     "Become",
+     "Break",
+     "Write"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"They elected Ahmed captain,\" the word captain functions as:",
+    "options": [
+     "Subject complement",
+     "Direct object",
+     "Object complement",
+     "Indirect object"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "In \"She gave her brother a gift,\" her brother is:",
+    "options": [
+     "Direct object",
+     "Indirect object",
+     "Subject complement",
+     "Object of a preposition"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"The boy opened the door,\" the door is:",
+    "options": [
+     "Subject",
+     "Indirect object",
+     "Direct object",
+     "Subject complement"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "In \"He sat on the chair,\" chair is:",
+    "options": [
+     "Direct object",
+     "Subject complement",
+     "Object of a preposition",
+     "Object complement"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which sentence contains a noun functioning as an object complement?",
+    "options": [
+     "She bought a book.",
+     "He gave me a pen.",
+     "They made him leader.",
+     "Ali is a teacher."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "In \"Mr. Ahmed, our principal, addressed the students,\" our principal is:",
+    "options": [
+     "Restrictive appositive",
+     "Non-restrictive appositive",
+     "Direct object",
+     "Vocative"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence contains a restrictive appositive?",
+    "options": [
+     "My brother, Ali, is a doctor.",
+     "Ali, my brother, is a doctor.",
+     "My friend Ahmed won the prize.",
+     "Ahmed, my friend, won the prize."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "A non-restrictive appositive generally provides:",
+    "options": [
+     "Essential information",
+     "Extra information",
+     "An action",
+     "A question"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"Students, pay attention!\" the word Students is:",
+    "options": [
+     "Subject",
+     "Direct object",
+     "Vocative",
+     "Object complement"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which sentence contains a noun used as a subject complement?",
+    "options": [
+     "She became a teacher.",
+     "She taught the students.",
+     "She gave the teacher a book.",
+     "She sat beside the teacher."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which sentence contains a noun functioning as an object of a preposition?",
+    "options": [
+     "The boy kicked the ball.",
+     "The boy is a student.",
+     "The boy sat under the tree.",
+     "The boy became a teacher."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "In \"The rich should help the poor,\" the word rich functions as:",
+    "options": [
+     "Adjective only",
+     "A noun-like adjective referring to people",
+     "Adverb",
+     "Verb"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "The expression the poor generally refers to:",
+    "options": [
+     "One poor person",
+     "Poor things",
+     "Poor people collectively",
+     "A poor place"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "In which sentence is fast used as an adjective?",
+    "options": [
+     "He runs fast.",
+     "He is a fast runner.",
+     "The car moved fast.",
+     "She worked fast."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"He runs fast,\" fast is:",
+    "options": [
+     "Noun",
+     "Verb",
+     "Adjective",
+     "Adverb"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Which sentence uses fast as a noun?",
+    "options": [
+     "He is a fast runner.",
+     "The car is fast.",
+     "He observed a fast.",
+     "He runs fast."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Nominalisation means:",
+    "options": [
+     "Changing a noun into a verb",
+     "Changing another word class into a noun",
+     "Removing a noun from a sentence",
+     "Making every sentence shorter"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which word is the nominalised form of decide?",
+    "options": [
+     "Deciding",
+     "Decisive",
+     "Decision",
+     "Decided"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "The nominalised form of develop is:",
+    "options": [
+     "Development",
+     "Developed",
+     "Developing",
+     "Developer"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which sentence contains nominalisation?",
+    "options": [
+     "The committee decided quickly.",
+     "The committee made a decision.",
+     "The committee is deciding.",
+     "The committee will decide."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which word is a noun formed from the verb refuse?",
+    "options": [
+     "Refusal",
+     "Refusing",
+     "Refused",
+     "Refusive"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Nominalisation is particularly common in:",
+    "options": [
+     "Informal conversation only",
+     "Formal and academic language",
+     "Children's stories only",
+     "Questions only"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence is an example of nominalisation?",
+    "options": [
+     "The government investigated the matter.",
+     "The government conducted an investigation.",
+     "The government is investigating the matter.",
+     "The government investigated it yesterday."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Excessive use of nominalisation can sometimes make writing:",
+    "options": [
+     "More direct and conversational",
+     "Less clear and unnecessarily heavy",
+     "Grammatically impossible",
+     "Completely informal"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Choose the correct possessive form:",
+    "options": [
+     "The boy's book",
+     "The boys book",
+     "The boy book's",
+     "The boys' book's"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Choose the correct possessive form for a regular plural noun:",
+    "options": [
+     "Students's books",
+     "Student's books",
+     "Students' books",
+     "Students books'"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which is correct?",
+    "options": [
+     "Children's toys",
+     "Childrens' toys",
+     "Childrens toys",
+     "Children's' toys"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which sentence shows joint possession?",
+    "options": [
+     "Ali's and Ahmed's father are teachers.",
+     "Ali and Ahmed's father is a teacher.",
+     "Ali's and Ahmed father is a teacher.",
+     "Ali and Ahmed father are teachers."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence shows separate possession?",
+    "options": [
+     "Ali and Ahmed's houses are large.",
+     "Ali's and Ahmed's houses are large.",
+     "Ali and Ahmed houses are large.",
+     "Ali's and Ahmed house is large."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which expression is an example of a double possessive?",
+    "options": [
+     "My friend's car",
+     "A friend of my father's",
+     "My father car",
+     "The car of friend"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence correctly expresses time possession?",
+    "options": [
+     "Yesterday's meeting was important.",
+     "Yesterday meeting's was important.",
+     "Yesterdays' meeting was important.",
+     "Yesterday meeting was's important."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which is correct?",
+    "options": [
+     "Two hours' journey",
+     "Two hour's journey",
+     "Two hours journey's",
+     "Two hours's journey"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which sentence correctly uses possession with a compound noun?",
+    "options": [
+     "My brother-in-law's car is new.",
+     "My brother's-in-law car is new.",
+     "My brothers-in-law's car is new.",
+     "My brother-in-law car's is new."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "In \"Pakistan's history is fascinating,\" 's primarily shows:",
+    "options": [
+     "Contraction",
+     "Possession/relationship",
+     "Plurality",
+     "Verb tense"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence correctly uses 's as a contraction?",
+    "options": [
+     "The school's roof is damaged.",
+     "He's going to school.",
+     "The boy's bicycle is new.",
+     "The country's economy is growing."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which expression correctly shows measurement/value?",
+    "options": [
+     "Ten dollars' worth of food",
+     "Ten dollar's worth of food",
+     "Ten dollars worth's of food",
+     "Ten dollar worth's food"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which noun is normally uncountable?",
+    "options": [
+     "Chair",
+     "Book",
+     "Information",
+     "Student"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which sentence is correct?",
+    "options": [
+     "I need an information.",
+     "I need some information.",
+     "I need informations.",
+     "I need many information."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which noun can be both countable and uncountable depending on meaning?",
+    "options": [
+     "Advice",
+     "Furniture",
+     "Experience",
+     "Luggage"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which sentence uses experience as a countable noun?",
+    "options": [
+     "He has experience in teaching.",
+     "She has gained much experience.",
+     "It was an unforgettable experience.",
+     "Experience is important."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which sentence correctly pluralises an uncountable noun by referring to different types/instances?",
+    "options": [
+     "Two advices were given.",
+     "Two pieces of advice were given.",
+     "Two advice were given.",
+     "Two adviceses were given."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which expression is correct?",
+    "options": [
+     "Many furniture",
+     "A furniture",
+     "Much furniture",
+     "Few furniture"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which sentence is grammatically correct?",
+    "options": [
+     "She gave me several useful pieces of advice.",
+     "She gave me several useful advices.",
+     "She gave me much advices.",
+     "She gave me an advice."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "In \"It is raining,\" it is used as:",
+    "options": [
+     "A personal pronoun referring to a specific object",
+     "A dummy/anticipatory subject",
+     "An object pronoun",
+     "A possessive pronoun"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"They say that English is easy,\" they can refer to:",
+    "options": [
+     "Only two specific people",
+     "People in general or unspecified people",
+     "Only males",
+     "Only females"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence follows the commonly taught positive-sense order (231)?",
+    "options": [
+     "I, you and he went there.",
+     "You, he and I went there.",
+     "He, you and I went there.",
+     "He and I went there."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "According to the commonly taught positive-sense order of pronouns (231), which sentence is correct?",
+    "options": [
+     "I, you and he completed the task.",
+     "You, he and I completed the task.",
+     "He, I and you completed the task.",
+     "You, I and he completed the task."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "According to the commonly taught negative-sense order (123), which sentence is correct?",
+    "options": [
+     "You, he and I did not break the rule.",
+     "He, you and I did not break the rule.",
+     "I, you and he did not break the rule.",
+     "He, I and you did not break the rule."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which order is commonly taught for pronouns in a negative statement?",
+    "options": [
+     "231",
+     "312",
+     "123",
+     "321"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which sentence follows the commonly taught order for plural pronouns (123)?",
+    "options": [
+     "You, he and I are responsible.",
+     "I, you and he are responsible.",
+     "He, I and you are responsible.",
+     "He, you and I are responsible."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which statement correctly represents the three rules taught in this course?",
+    "options": [
+     "Positive = 123, Negative = 231, Plural = 321",
+     "Positive = 231, Negative = 123, Plural = 123",
+     "Positive = 321, Negative = 231, Plural = 123",
+     "Positive = 123, Negative = 321, Plural = 231"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"I hurt myself,\" myself is a:",
+    "options": [
+     "Personal pronoun",
+     "Reflexive pronoun",
+     "Demonstrative pronoun",
+     "Relative pronoun"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "In \"I myself completed the work,\" myself is used as:",
+    "options": [
+     "A reflexive pronoun",
+     "An emphatic pronoun",
+     "An interrogative pronoun",
+     "A relative pronoun"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is the main difference between reflexive and emphatic pronouns?",
+    "options": [
+     "Reflexive pronouns emphasize nouns; emphatic pronouns receive actions.",
+     "Reflexive pronouns are necessary to complete the meaning in certain constructions; emphatic pronouns add emphasis.",
+     "They are completely different types of words.",
+     "Emphatic pronouns can never be removed."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence contains an emphatic pronoun?",
+    "options": [
+     "She blamed herself.",
+     "He introduced himself.",
+     "The principal himself announced the result.",
+     "They prepared themselves."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Choose the correct expression:",
+    "options": [
+     "The region abounds in natural resources.",
+     "The region abounds on natural resources.",
+     "The region abounds at natural resources.",
+     "The region abounds to natural resources."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which sentence correctly uses abound with?",
+    "options": [
+     "The garden abounds with beautiful flowers.",
+     "The garden abounds in beautiful flowers.",
+     "The garden abounds to beautiful flowers.",
+     "The garden abounds at beautiful flowers."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which statement is correct?",
+    "options": [
+     "Abound in is used with things that are plentiful; abound with is also used to describe a place or situation full of something.",
+     "Abound in is used only with people.",
+     "Abound with is always grammatically incorrect.",
+     "Both expressions can only be used with abstract nouns."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Choose the correct sentence:",
+    "options": [
+     "The picture was hanged on the wall.",
+     "The picture was hung on the wall.",
+     "The picture was hangeded on the wall.",
+     "The picture was hang on the wall."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which word is traditionally used when referring to a person being executed by hanging?",
+    "options": [
+     "Hung",
+     "Hanged",
+     "Hanging",
+     "Hang"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Choose the correct pair:",
+    "options": [
+     "Picture — hanged; Person executed — hung",
+     "Picture — hung; Person executed — hanged",
+     "Picture — hanged; Person executed — hanged",
+     "Picture — hung; Person executed — hung only"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is a capitonym?",
+    "options": [
+     "A word whose meaning changes when its first letter is capitalised",
+     "A word with two opposite meanings",
+     "A word with three syllables",
+     "A word borrowed from another language"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which pair is an example of a capitonym?",
+    "options": [
+     "polish / Polish",
+     "fast / quickly",
+     "big / large",
+     "accept / except"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is a contronym?",
+    "options": [
+     "A word that has only one meaning",
+     "A word that can have two opposite or contradictory meanings",
+     "A word that changes meaning only when capitalised",
+     "A word with the same pronunciation as another word"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which word is commonly given as an example of a contronym?",
+    "options": [
+     "Sanction",
+     "Teacher",
+     "Beautiful",
+     "Quickly"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "In the sentence \"The government sanctioned the project,\" sanctioned may mean:",
+    "options": [
+     "Only cancelled",
+     "Only criticised",
+     "Approved or authorised",
+     "Explained"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Choose the correct sentence:",
+    "options": [
+     "She confided her secret in her closest friend.",
+     "She confided her secret to her closest friend.",
+     "Both A and B can be correct depending on the construction.",
+     "She confided her secret at her closest friend."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which sentence correctly uses confide in?",
+    "options": [
+     "I confided in my brother about the problem.",
+     "I confided to my brother about the problem.",
+     "I confided at my brother about the problem.",
+     "I confided on my brother about the problem."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which sentence correctly uses confide something to someone?",
+    "options": [
+     "He confided his secret to me.",
+     "He confided his secret in me only.",
+     "He confided his secret at me.",
+     "He confided his secret on me."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "In \"She confided in her friend,\" the preposition in introduces:",
+    "options": [
+     "The person trusted with the confidence",
+     "The object possessed",
+     "The place of the action",
+     "The time of the action"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Which sentence is grammatically correct?",
+    "options": [
+     "He confided his worries to his teacher.",
+     "He confided his worries at his teacher.",
+     "He confided his worries on his teacher.",
+     "He confided his worries for his teacher."
+    ],
+    "answer": 0
+   }
+  ]
  }
 };
 </script>
@@ -2804,13 +3561,13 @@ function sendResult(sc,total,title){
     fetch('https://docs.google.com/forms/d/e/1FAIpQLSfMGZXvdzqOO_fa2V5AW3sDqa86zWKTEu6UhiFQNGPJ6X-wdw/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
   }catch(e){}
 }
-const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':[]};
+const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':['gk1']};
 const CLASS_NAMES={'vi':'Class VI','vii':'Class VII','viii':'Class VIII','ix':'Class IX','x':'Class X','gk':'General Knowledge'};
 function showClass(cls){
   document.getElementById('classtitle').textContent=CLASS_NAMES[cls]+' — Choose a test';
   document.getElementById('classtests').innerHTML=CLASS_TESTS[cls].length===0?'<p class="note">No tests here yet — more General Knowledge tests will be added here soon.</p>':CLASS_TESTS[cls].map(function(k){
     var t=QUESTIONS[k];
-    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+'<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small></button>';
+    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small></button>';
   }).join('');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
@@ -2828,7 +3585,7 @@ function backToClasses(){
 function startTest(key){
   const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); document.getElementById('classpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false;
   answers=new Array(QUESTIONS[key].questions.length).fill(null);
-  secondsLeft=10*60;
+  secondsLeft=(QUESTIONS[key].minutes||10)*60;
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');

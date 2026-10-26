@@ -6,7 +6,7 @@
   if (!QUESTIONS[testKey]) testKey = 'viii';
   var test = QUESTIONS[testKey];
   var idx = 0, answers = new Array(test.questions.length).fill(null);
-  var secondsLeft = 10 * 60, timerId = null, submitted = false;
+  var secondsLeft = (test.minutes || 10) * 60, timerId = null, submitted = false;
   var letters = ['A', 'B', 'C', 'D'];
 
   document.getElementById('testtitle').textContent = test.title;
