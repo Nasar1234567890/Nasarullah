@@ -506,6 +506,28 @@ var STUDY = {
         "t": "ضرب المثل",
         "d": "وہ مشہور کہاوت جو کسی تجربے یا نصیحت کو مختصر الفاظ میں بیان کرے، جیسے جیسی کرنی ویسی بھرنی۔"
       }
+    ],
+    "notes": [
+      {
+        "u": "Unit 1",
+        "t": "The Voice of God / The Wise Caliph",
+        "items": []
+      },
+      {
+        "u": "Unit 2",
+        "t": "Dignity of Work",
+        "items": []
+      },
+      {
+        "u": "Unit 3",
+        "t": "King Bruce and the Spider",
+        "items": []
+      },
+      {
+        "u": "Unit 4",
+        "t": "Media / Social Media",
+        "items": []
+      }
     ]
   },
   "shared": {
@@ -717,7 +739,6 @@ var STUDY = {
     ]
   }
 };
-
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
 var matTab = "paragraphs";
 var matData = null;
@@ -735,6 +756,7 @@ function showMatTab(tab){
   var data = matData || STUDY.x;
   if(!data) return;
   var tabs = ["paragraphs", "essays", "synonyms", "verbforms", "definitions"];
+  if(data.notes) tabs.push("notes");
   tabs.forEach(function(t){
     var b = document.getElementById("mattab-" + t);
     if(b) b.className = "modebtn" + (t === tab ? " sel" : "");
@@ -768,6 +790,18 @@ function showMatTab(tab){
       html = "<p class=\"note\">Verb forms for Class X English will be added here soon.</p>";
     }
   }
+  else if(tab === "notes"){
+    html += "<p class=\"note\"><b>Chapter-wise notes</b> \u2014 notes for each unit will be added here as they are ready.</p>";
+    data.notes.forEach(function(n){
+      html += "<p class=\"note\"><b>" + escHtml(n.u) + " \u2014 " + escHtml(n.t) + ":</b> ";
+      if(n.items && n.items.length){
+        html += "</p>";
+        n.items.forEach(function(it){ html += "<p class=\"note\">" + escHtml(it) + "</p>"; });
+      } else {
+        html += "Notes for this unit will be added here.</p>";
+      }
+    });
+  }
   body.innerHTML = html;
   window.scrollTo(0, 0);
 }
@@ -782,6 +816,7 @@ function renderSubjectMaterial(cls, subj){
   var html = "<h3>Study Material</h3>";
   if(subj === "English"){
     var tabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
+    if(data.notes) tabs.push(["notes", "Notes"]);
     html += "<p class=\"note\">" + tabs.map(function(t){
       return "<button class=\"modebtn\" id=\"mattab-" + t[0] + "\" onclick=\"showMatTab('" + t[0] + "')\">" + t[1] + "</button>";
     }).join(" ") + "</p><div id=\"matbody\"></div>";
