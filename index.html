@@ -50,6 +50,12 @@ body.large .opt{font-size:23px}
 body.large .review .qq{font-size:21px}
 body.large .note{font-size:17px}
 .hidden{display:none}
+#palette{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
+.palbtn{min-width:38px;padding:8px 4px;border:2px solid #cbd5e1;border-radius:8px;background:#fff;font-size:15px;font-weight:700}
+.palbtn.ans{background:#dcfce7;border-color:#14532d}
+.palbtn.cur{background:#14532d;color:#fff;border-color:#14532d}
+.palbtn.flag{outline:3px solid #b91c1c;outline-offset:1px}
+.explain{border:2px solid #14532d;background:#eaf5ee;border-radius:10px;padding:12px 14px}
 </style>
 </head>
 <body>
@@ -73,6 +79,8 @@ body.large .note{font-size:17px}
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
 <a class="homebtn" style="display:block;text-align:center;text-decoration:none" href="https://wa.me/?text=Try%20our%20school%20MCQ%20practice%20tests%3A%20https%3A%2F%2FNasar1234567890.github.io%2FNasarullah%2F%20-%20GOVERNMENT%20BOYS%20LOWER%20SECONDARY%20SCHOOL%20HASEEJA%20MAHAR">Share on WhatsApp</a>
 <button class="homebtn" onclick="showInstall()">How to install the app</button>
+<h2 style="margin-top:18px">Question of the Day</h2>
+<div id="qotdbox"></div>
 
 <section class="card" style="margin-top:16px">
 <h2>How to take a test</h2>
@@ -121,6 +129,9 @@ body.large .note{font-size:17px}
 <p id="counter"></p>
 <div id="qtext"></div>
 <div id="opts"></div>
+<div id="explainbox" class="note explain hidden"></div>
+<div id="palette"></div>
+<button class="modebtn" id="flagbtn" onclick="toggleFlag()">Flag this question</button>
 <div class="nav">
 <button onclick="move(-1)">Previous</button>
 <button onclick="move(1)">Next</button>
@@ -134,6 +145,8 @@ body.large .note{font-size:17px}
 <div class="score" id="score"></div>
 <p id="scorenote" style="text-align:center"></p>
 <div id="review"></div>
+<button class="homebtn" id="retrybtn" onclick="startRetry()">Retry wrong questions</button>
+<button class="homebtn" id="sharebtn" onclick="shareResult()">Share result on WhatsApp</button>
 <button class="homebtn" onclick="reportMistake()">Report a mistake in this test</button>
 <button class="homebtn" onclick="goHome()">Back to Home</button>
 </section>
@@ -4594,6 +4607,7 @@ const QUESTIONS = {
 <script src="study.js"></script>
 <script>
 let testKey=null, idx=0, answers=[], timerId=null, secondsLeft=1200, submitted=false;
+let flagged=[], retryMode=false, lastWrong=[], lastScore=0, lastTotal=0;
 let activeQs=null, learnMode=false, testLearn=false;
 const letters=['A','B','C','D'];
 let studentName="";
@@ -4618,10 +4632,36 @@ const CLASS_SUBJECTS={'vi':['English','Mathematics','Science','Social Studies','
 const TEST_SUBJECT={'visci':'Science','vieng':'English','visoc':'Social Studies','viieng':'English','viisoc':'Social Studies','viii':'Mathematics','viiieng':'English','viiisoc':'Social Studies','ix':'Mathematics','ixeng':'English','x':'Mathematics','xeng':'English','xstbb':'English'};
 const TOPICS={'viii':'Sets, Real Numbers, Number System, Polynomials','ix':'Real & Complex Numbers, Logarithms, Algebraic Expressions, Factorization','x':'Sets & Functions, Variations, Matrices, Quadratic Equations','xeng':'English Units 1-4, Voice, Narration','visci':'Science Chapters 1-2','vieng':'English Units 1-4','viieng':'English Units 1-4','viiieng':'English Units 1-4','ixeng':'English Units 1-4','xstbb':'English Units 1-4','visoc':'Geography, Indus Valley, Early History','viisoc':'Medieval History, Mughals, Geography','viiisoc':'Freedom Movement, Pakistan Studies','gk1':'Nouns, Nominalisation, Possession, Pronouns','gk2':'Sindh Geography & History','gk3':'Sindh Culture, Literature & Historic Sites'};
 function shuffleArr(a){ var arr=a.slice(); for(var i=arr.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var tmp=arr[i]; arr[i]=arr[j]; arr[j]=tmp; } return arr; }
-function buildShuffled(key){ var qs=QUESTIONS[key].questions.map(function(q){ var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer)}; }); return shuffleArr(qs); }
+const EXPLAIN_XENG=[
+"Little Things says small acts of kindness, not wealth or big houses, are what make life happy.",
+"The Man Who Wins is about the person who keeps trying after failure, instead of giving up or waiting for luck.",
+"The spider tried again and again until it succeeded, so King Bruce learned never to give up.",
+"Dignity of Work means all honest work deserves respect, whether it is manual work or office work.",
+"After graduating, Kakenya Ntaiya worked at the United Nations (UN) before returning to help girls in her community.",
+"With she in the present simple, the verb takes -es: she goes, not she go.",
+"Yesterday points to the past, so the past form is used: they played.",
+"Tomorrow points to the future, so the future form is used: we will do.",
+"Brave and courageous mean the same: having courage and not being afraid.",
+"Honest and truthful mean the same: always telling the truth.",
+"Happy and glad mean the same: feeling pleased and cheerful.",
+"The sun is the one sun we all know, so it takes the definite article the.",
+"Honest begins with a vowel sound, so it takes an, not a.",
+"Teacher begins with a consonant sound and is one teacher among many, so it takes a.",
+"In the passive present simple, the object becomes the subject: a letter is written by her.",
+"In the active past simple, Ali becomes the subject and the verb stays in the past: Ali read the book.",
+"In reported speech, present am moves back to past was, and I becomes he: he said that he was busy.",
+"A yes-or-no question in reported speech uses asked, then if, then the subject and the past verb: she asked him if he was ready.",
+"I like tea, but she likes coffee has two complete clauses joined by but, so it is a compound sentence.",
+"Un- is added before the root word happy, so it is a prefix, not a suffix or a root word."
+];
+function buildShuffled(key){ var qs=QUESTIONS[key].questions.map(function(q,qi){ var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer), orig:qi}; }); return shuffleArr(qs); }
 function bestKey(k){ return 'mcqBest_'+k; }
 function getBest(k){ try{ var v=localStorage.getItem(bestKey(k)); return v===null?null:parseInt(v,10); }catch(e){ return null; } }
 function saveBest(k,sc){ try{ var old=getBest(k); if(old===null||sc>old) localStorage.setItem(bestKey(k), String(sc)); }catch(e){} }
+function histKey(k){ return 'mcqHist_'+k; }
+function getHist(k){ try{ var v=localStorage.getItem(histKey(k)); return v?JSON.parse(v):[]; }catch(e){ return []; } }
+function saveHist(k,sc,total){ try{ var h=getHist(k); h.unshift({d:(new Date()).toISOString().slice(0,10), s:sc, t:total, p:Math.round(sc/total*100)}); h=h.slice(0,5); localStorage.setItem(histKey(k), JSON.stringify(h)); }catch(e){} }
+function histHtml(k){ var h=getHist(k); if(!h.length) return ''; return '<small>Past scores: '+h.map(function(r){ return r.s+'/'+r.t+' ('+r.p+'%) '+r.d; }).join(' · ')+'</small>'; }
 function setMode(m){ learnMode=(m==='learn'); var tb=document.getElementById('modeTestBtn'), lb=document.getElementById('modeLearnBtn'); if(tb) tb.className='modebtn'+(learnMode?'':' sel'); if(lb) lb.className='modebtn'+(learnMode?' sel':''); }
 function setFontSize(s){ try{localStorage.setItem('mcqFontSize', s);}catch(e){} document.body.classList.toggle('large', s==='large'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'); if(nb) nb.className='modebtn'+(s==='large'?'':' sel'); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); }
 function applySavedFontSize(){ var s='normal'; try{ s=localStorage.getItem('mcqFontSize')||'normal'; }catch(e){} document.body.classList.toggle('large', s==='large'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'); if(nb) nb.className='modebtn'+(s==='large'?'':' sel'); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); }
@@ -4657,7 +4697,7 @@ function renderTestList(cls, title, keys){
   document.getElementById('subjectback').textContent=(cls==='gk'?'Back to Home':'Back to Subjects');
   document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">No tests for this subject yet — more tests will be added here soon.</p>':keys.map(function(k){
     var t=QUESTIONS[k];
-    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small></button>';
+    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+histHtml(k)+'</button>';
   }).join('');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
@@ -4689,6 +4729,7 @@ function startTest(key){
   const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false; testLearn=learnMode; activeQs=buildShuffled(key);
   answers=new Array(activeQs.length).fill(null);
+  flagged=new Array(activeQs.length).fill(false); retryMode=false;
   secondsLeft=(QUESTIONS[key].minutes||10)*60;
   document.getElementById('timer').textContent=String(Math.floor(secondsLeft/60)).padStart(2,'0')+':'+String(secondsLeft%60).padStart(2,'0'); document.getElementById('timer').classList.remove('warn');
   document.getElementById('home').classList.add('hidden');
@@ -4702,6 +4743,19 @@ function startTest(key){
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent='Learn mode'; }
   else { timerId=setInterval(tick,1000); }
+}
+function startRetry(){
+  if(!lastWrong.length) return;
+  retryMode=true; testLearn=false; idx=0; submitted=false;
+  activeQs=lastWrong.slice();
+  answers=new Array(activeQs.length).fill(null);
+  flagged=new Array(activeQs.length).fill(false);
+  document.getElementById('result').classList.add('hidden');
+  const t=document.getElementById('test'); t.classList.remove('hidden');
+  document.getElementById('testtitle').textContent=QUESTIONS[testKey].title+' \u2014 Practice retry \u2014 not recorded';
+  document.getElementById('test').dir=QUESTIONS[testKey].dir;
+  document.getElementById('timer').textContent='Practice retry \u2014 not recorded';
+  clearInterval(timerId); render(); window.scrollTo(0,0);
 }
 function tick(){
   secondsLeft--;
@@ -4729,7 +4783,17 @@ function render(){
     b.onclick=()=>{ if(testLearn&&answers[idx]!==null) return; answers[idx]=i; render(); };
     box.appendChild(b);
   });
+  renderPaletteExplain();
 }
+function renderPaletteExplain(){
+  const qs=activeQs||QUESTIONS[testKey].questions;
+  var pal=document.getElementById('palette');
+  if(pal){ pal.innerHTML=''; qs.forEach(function(q,i){ var b=document.createElement('button'); b.className='palbtn'+(answers[i]!==null?' ans':'')+(i===idx?' cur':'')+(flagged[i]?' flag':''); b.textContent=(flagged[i]?'\u2691 ':'')+(i+1); b.onclick=(function(j){ return function(){ idx=j; render(); }; })(i); pal.appendChild(b); }); }
+  var fb=document.getElementById('flagbtn'); if(fb) fb.textContent=(flagged[idx]?'Unflag this question':'Flag this question');
+  var eb=document.getElementById('explainbox');
+  if(eb){ if(testLearn && answers[idx]!==null && testKey==='xeng' && activeQs && typeof activeQs[idx].orig==='number' && EXPLAIN_XENG[activeQs[idx].orig]){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+EXPLAIN_XENG[activeQs[idx].orig]; } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
+}
+function toggleFlag(){ if(!testKey||!activeQs) return; flagged[idx]=!flagged[idx]; render(); }
 function move(d){
   const n=(activeQs||QUESTIONS[testKey].questions).length;
   idx=Math.min(n-1, Math.max(0, idx+d)); render();
@@ -4743,8 +4807,11 @@ function submitTest(auto){
   let score=0; qs.forEach((q,i)=>{ if(answers[i]===q.answer) score++; });
   document.getElementById('test').classList.add('hidden');
   const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=QUESTIONS[testKey].dir;
-  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+QUESTIONS[testKey].title; if(!testLearn) saveBest(testKey, score); if(!testLearn) sendResult(score, qs.length, QUESTIONS[testKey].title);
-  document.getElementById('scorenote').textContent=(testLearn?'Learn mode. ':(auto?'Time up — submitted automatically. ':''))+Math.round(score/qs.length*100)+'% correct.';
+  lastScore=score; lastTotal=qs.length;
+  if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
+  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+QUESTIONS[testKey].title; if(!testLearn && !retryMode){ saveBest(testKey, score); sendResult(score, qs.length, QUESTIONS[testKey].title); saveHist(testKey, score, qs.length); }
+  document.getElementById('scorenote').textContent=(retryMode?'Practice retry \u2014 not recorded. ':(testLearn?'Learn mode. ':(auto?'Time up — submitted automatically. ':'')))+Math.round(score/qs.length*100)+'% correct.';
+  var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(retryMode||lastWrong.length===0)?'none':'block';
   let html='';
   qs.forEach((q,i)=>{
     const yours=answers[i]===null?'Not answered':('('+letters[answers[i]]+') '+optHtml(q.options[answers[i]]));
@@ -4757,6 +4824,7 @@ function submitTest(auto){
   document.getElementById('review').innerHTML=html;
   window.scrollTo(0,0);
 }
+function shareResult(){ if(!testKey||!lastTotal) return; var pct=Math.round(lastScore/lastTotal*100); var msg=studentName+' \u2014 '+QUESTIONS[testKey].title+': '+lastScore+' / '+lastTotal+' ('+pct+'%) \u2014 Try our school MCQ practice tests: https://Nasar1234567890.github.io/Nasarullah/'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
 function goHome(){
   clearInterval(timerId);
   document.getElementById('result').classList.add('hidden');
@@ -4766,8 +4834,13 @@ function goHome(){
   document.getElementById('install').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
 }
+function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
+function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n.getMonth(), n.getDate()); }
+function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+pick.q.q+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')">('+letters[i]+') '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
+function qotdAnswer(btn,i,ans){ var note=document.getElementById('qotdnote'); if(!note) return; if(i===ans){ btn.classList.add('learn-correct'); note.innerHTML='<span class="correct">Correct!</span>'; } else { btn.classList.add('learn-wrong'); note.innerHTML='<span class="wrong">Not quite \u2014 the correct answer is ('+letters[ans]+').</span>'; } }
 try{ var _savedName=localStorage.getItem('mcqStudentName'); if(_savedName){ var _inp=document.getElementById('studentName'); if(_inp) _inp.value=_savedName; } }catch(e){}
 applySavedFontSize();
+renderQotd();
 </script>
 </body>
 </html>
