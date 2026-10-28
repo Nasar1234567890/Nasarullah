@@ -26,6 +26,9 @@ button{font:inherit;cursor:pointer}
 #progress{height:10px;background:#e5e7eb;border-radius:6px;margin:12px 0;overflow:hidden}
 #bar{height:100%;width:0;background:#14532d}
 #qtext{font-size:21px;line-height:1.9;min-height:90px}
+.qmain{font-weight:700}
+.qinstr{font-weight:400;font-size:0.85em}
+
 #qtext .m, .opt .m{direction:ltr;unicode-bidi:embed;font-family:Georgia,serif}
 .opt{display:block;width:100%;text-align:right;padding:14px 16px;margin:9px 0;border:2px solid #cbd5e1;border-radius:10px;background:#fff;font-size:19px}
 .opt.en{text-align:left}
@@ -4765,11 +4768,18 @@ function tick(){
   if(secondsLeft<=0){ clearInterval(timerId); submitTest(true); }
 }
 function optHtml(o){ return /[\u0600-\u06FF]/.test(o)?o:'<span class="m">'+o+'</span>'; }
+function formatQuestion(txt){
+  var m=txt.match(/^(Choose|Fill|Complete|Change|Select|Identify|Write)\b[^:]*: /);
+  if(m && m[0].length<70 && txt.length>m[0].length){
+    return '<span class="qinstr">'+m[0].slice(0,-1)+'</span> <span class="qmain">'+txt.slice(m[0].length)+'</span>';
+  }
+  return '<span class="qmain">'+txt+'</span>';
+}
 function render(){
   const qs=activeQs||QUESTIONS[testKey].questions;
   document.getElementById('counter').textContent='Question '+(idx+1)+' of '+qs.length;
   document.getElementById('bar').style.width=((idx+1)/qs.length*100)+'%';
-  document.getElementById('qtext').innerHTML=qs[idx].q;
+  document.getElementById('qtext').innerHTML=formatQuestion(qs[idx].q);
   const box=document.getElementById('opts'); box.innerHTML='';
   qs[idx].options.forEach((o,i)=>{
     const b=document.createElement('button');
@@ -4817,7 +4827,7 @@ function submitTest(auto){
     const yours=answers[i]===null?'Not answered':('('+letters[answers[i]]+') '+optHtml(q.options[answers[i]]));
     const corr='('+letters[q.answer]+') '+optHtml(q.options[q.answer]);
     const ok=answers[i]===q.answer;
-    html+='<div class="review"><div class="qq"><b>Q'+(i+1)+'.</b> '+q.q+'</div>'
+    html+='<div class="review"><div class="qq"><b>Q'+(i+1)+'.</b> '+formatQuestion(q.q)+'</div>'
       +'<div>Your answer: <span class="'+(ok?'correct':'wrong')+'">'+yours+'</span></div>'
       +'<div>Correct answer: <span class="correct">'+corr+'</span></div></div>';
   });
@@ -4836,7 +4846,7 @@ function goHome(){
 }
 function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
 function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n.getMonth(), n.getDate()); }
-function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+pick.q.q+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')">('+letters[i]+') '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
+function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+formatQuestion(pick.q.q)+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')">('+letters[i]+') '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
 function qotdAnswer(btn,i,ans){ var note=document.getElementById('qotdnote'); if(!note) return; if(i===ans){ btn.classList.add('learn-correct'); note.innerHTML='<span class="correct">Correct!</span>'; } else { btn.classList.add('learn-wrong'); note.innerHTML='<span class="wrong">Not quite \u2014 the correct answer is ('+letters[ans]+').</span>'; } }
 try{ var _savedName=localStorage.getItem('mcqStudentName'); if(_savedName){ var _inp=document.getElementById('studentName'); if(_inp) _inp.value=_savedName; } }catch(e){}
 applySavedFontSize();
