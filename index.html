@@ -59,6 +59,32 @@ body.large .note{font-size:17px}
 .palbtn.cur{background:#14532d;color:#fff;border-color:#14532d}
 .palbtn.flag{outline:3px solid #b91c1c;outline-offset:1px}
 .explain{border:2px solid #14532d;background:#eaf5ee;border-radius:10px;padding:12px 14px}
+body.dark{background:#0f172a;color:#e2e8f0}
+body.dark header{background:#052e16}
+body.dark .card{background:#1e293b;color:#e2e8f0;box-shadow:0 1px 4px rgba(0,0,0,.4)}
+body.dark .note{color:#cbd5e1}
+body.dark .testbtn{background:#14532d;color:#e2e8f0;border-color:#22c55e}
+body.dark .testbtn small{color:#cbd5e1}
+body.dark .opt{background:#1e293b;color:#e2e8f0;border-color:#475569}
+body.dark .opt.sel{background:#14532d;border-color:#22c55e}
+body.dark .opt.learn-correct{background:#14532d;border-color:#22c55e}
+body.dark .opt.learn-wrong{background:#7f1d1d;border-color:#f87171}
+body.dark .nav button{background:#334155;color:#e2e8f0}
+body.dark #progress{background:#334155}
+body.dark #bar{background:#22c55e}
+body.dark .review{border-color:#334155}
+body.dark .palbtn{background:#1e293b;color:#e2e8f0;border-color:#475569}
+body.dark .palbtn.ans{background:#14532d;border-color:#22c55e}
+body.dark .palbtn.cur{background:#22c55e;color:#052e16;border-color:#22c55e}
+body.dark .explain{background:#14532d;border-color:#22c55e}
+body.dark .modebtn{background:#1e293b;color:#e2e8f0;border-color:#22c55e}
+body.dark .modebtn.sel{background:#22c55e;color:#052e16}
+body.dark .correct{color:#4ade80}
+body.dark .wrong{color:#f87171}
+body.dark input{background:#0f172a;color:#e2e8f0}
+body.dark #timer{color:#f87171}
+body.dark #timer.warn{background:#b91c1c;color:#fff}
+
 </style>
 </head>
 <body>
@@ -68,59 +94,59 @@ body.large .note{font-size:17px}
 </header>
 <main>
 <section id="home" class="card">
-<h2>Choose your class or section</h2>
-<p class="note">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
-<p class="note"><label><b>Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
+<h2 data-i18n="homeHeading">Choose your class or section</h2>
+<p class="note" data-i18n="homeNote">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
+<p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
 <button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('viii')">Class VIII<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('ix')">Class IX<small>2 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; 7 subjects &middot; Study Material</small></button>
 <button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>3 tests &middot; GK 1st Test, Sindh GK Test 1, Sindh GK Test 2</small></button>
-<p class="note">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
-<p class="note">Text size: <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')">Large</button></p>
+<p class="note" data-i18n="tip">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
+<p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button> <span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button></p>
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
-<a class="homebtn" style="display:block;text-align:center;text-decoration:none" href="https://wa.me/?text=Try%20our%20school%20MCQ%20practice%20tests%3A%20https%3A%2F%2FNasar1234567890.github.io%2FNasarullah%2F%20-%20GOVERNMENT%20BOYS%20LOWER%20SECONDARY%20SCHOOL%20HASEEJA%20MAHAR">Share on WhatsApp</a>
-<button class="homebtn" onclick="showInstall()">How to install the app</button>
-<h2 style="margin-top:18px">Question of the Day</h2>
+<a class="homebtn" style="display:block;text-align:center;text-decoration:none" href="https://wa.me/?text=Try%20our%20school%20MCQ%20practice%20tests%3A%20https%3A%2F%2FNasar1234567890.github.io%2FNasarullah%2F%20-%20GOVERNMENT%20BOYS%20LOWER%20SECONDARY%20SCHOOL%20HASEEJA%20MAHAR" data-i18n="shareHome">Share on WhatsApp</a>
+<button class="homebtn" onclick="showInstall()" data-i18n="installBtn">How to install the app</button>
+<h2 style="margin-top:18px" data-i18n="qotdHeading">Question of the Day</h2>
 <div id="qotdbox"></div>
 
 <section class="card" style="margin-top:16px">
-<h2>How to take a test</h2>
+<h2 data-i18n="howToHeading">How to take a test</h2>
 <ol class="note" style="line-height:1.8">
-<li>Type your name, choose your class, then a subject, then a test. (General Knowledge opens its tests directly.)</li>
-<li>Tap an option (A, B, C or D) to select your answer.</li>
-<li>Use <b>Next</b> and <b>Previous</b> to move between questions.</li>
-<li>Each test shows its own time limit (10 minutes for most tests, 60 minutes for GK 1st Test). If the time runs out, the test submits automatically.</li>
-<li>Press <b>Submit Test</b> when you are done. Your score appears at once, with a review of every question.</li>
-<li>In Test mode, your correct answers are shown only after you submit — not during the test. In Learn mode, the correct answer is shown right after each question.</li>
+<li data-i18n="howToStep1">Type your name, choose your class, then a subject, then a test. (General Knowledge opens its tests directly.)</li>
+<li data-i18n="howToStep2">Tap an option (A, B, C or D) to select your answer.</li>
+<li data-i18n="howToStep3">Use <b>Next</b> and <b>Previous</b> to move between questions.</li>
+<li data-i18n="howToStep4">Each test shows its own time limit (10 minutes for most tests, 60 minutes for GK 1st Test). If the time runs out, the test submits automatically.</li>
+<li data-i18n="howToStep5">Press <b>Submit Test</b> when you are done. Your score appears at once, with a review of every question.</li>
+<li data-i18n="howToStep6">In Test mode, your correct answers are shown only after you submit — not during the test. In Learn mode, the correct answer is shown right after each question.</li>
 </ol>
 <p class="note">هر ٽيسٽ ۾ سوالن جو تعداد ۽ وقت مختلف ٿي سگهي ٿو. جواب جمع ڪرائڻ کان پوءِ توهان جو نتيجو ۽ صحيح جواب ڏيکاريا ويندا.</p>
 </section>
 </section>
 
 <section id="install" class="card hidden">
-<h2>How to install the app</h2>
+<h2 data-i18n="installHeading">How to install the app</h2>
 <ol class="note" style="line-height:1.8">
-<li>Download the APK file sent by your teacher.</li>
-<li>Tap the downloaded file on your phone.</li>
-<li>If the phone asks, allow installation from the browser.</li>
-<li>Open "Haseeja Mahar MCQ Tests" and start practising.</li>
+<li data-i18n="installStep1">Download the APK file sent by your teacher.</li>
+<li data-i18n="installStep2">Tap the downloaded file on your phone.</li>
+<li data-i18n="installStep3">If the phone asks, allow installation from the browser.</li>
+<li data-i18n="installStep4">Open "Haseeja Mahar MCQ Tests" and start practising.</li>
 </ol>
-<button class="homebtn" onclick="backToClasses()">Back to Home</button>
+<button class="homebtn" onclick="backToClasses()" data-i18n="backHome">Back to Home</button>
 </section>
 
 <section id="classpage" class="card hidden">
 <h2 id="classtitle">Choose a subject</h2>
-<p class="note">Choose a subject, then pick a test.</p>
+<p class="note" data-i18n="classNote">Choose a subject, then pick a test.</p>
 <div id="classtests"></div>
-<button class="homebtn" onclick="backToClasses()">Back to Classes</button>
+<button class="homebtn" onclick="backToClasses()" data-i18n="backClasses">Back to Classes</button>
 </section>
 
 <section id="subjectpage" class="card hidden">
 <h2 id="subjecttitle">Choose a test</h2>
-<p class="note">Choose a test. Each test shows its own number of questions and timer.</p>
-<p class="note">Mode: <button class="modebtn sel" id="modeTestBtn" onclick="setMode('test')">Test</button> <button class="modebtn" id="modeLearnBtn" onclick="setMode('learn')">Learn</button></p>
+<p class="note" data-i18n="subjectNote">Choose a test. Each test shows its own number of questions and timer.</p>
+<p class="note"><span data-i18n="modeLabel">Mode:</span> <button class="modebtn sel" id="modeTestBtn" onclick="setMode('test')" data-i18n="modeTest">Test</button> <button class="modebtn" id="modeLearnBtn" onclick="setMode('learn')" data-i18n="modeLearn">Learn</button></p>
 <div id="subjecttests"></div>
 <div id="subjectmaterial"></div>
 <button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
@@ -136,22 +162,22 @@ body.large .note{font-size:17px}
 <div id="palette"></div>
 <button class="modebtn" id="flagbtn" onclick="toggleFlag()">Flag this question</button>
 <div class="nav">
-<button onclick="move(-1)">Previous</button>
-<button onclick="move(1)">Next</button>
+<button onclick="move(-1)" data-i18n="prev">Previous</button>
+<button onclick="move(1)" data-i18n="next">Next</button>
 </div>
-<button class="submitbtn" onclick="submitTest(false)">Submit Test</button>
+<button class="submitbtn" onclick="submitTest(false)" data-i18n="submit">Submit Test</button>
 </section>
 
 <section id="result" class="card hidden">
-<h2>Result</h2>
+<h2 data-i18n="resultHeading">Result</h2>
 <p id="resultname" style="text-align:center;font-size:18px;font-weight:700"></p>
 <div class="score" id="score"></div>
 <p id="scorenote" style="text-align:center"></p>
 <div id="review"></div>
-<button class="homebtn" id="retrybtn" onclick="startRetry()">Retry wrong questions</button>
-<button class="homebtn" id="sharebtn" onclick="shareResult()">Share result on WhatsApp</button>
-<button class="homebtn" onclick="reportMistake()">Report a mistake in this test</button>
-<button class="homebtn" onclick="goHome()">Back to Home</button>
+<button class="homebtn" id="retrybtn" onclick="startRetry()" data-i18n="retry">Retry wrong questions</button>
+<button class="homebtn" id="sharebtn" onclick="shareResult()" data-i18n="shareResult">Share result on WhatsApp</button>
+<button class="homebtn" id="reportbtn" onclick="reportMistake()" data-i18n="report">Report a mistake in this test</button>
+<button class="homebtn" onclick="goHome()" data-i18n="backHome">Back to Home</button>
 </section>
 </main>
 <script>
@@ -4665,22 +4691,56 @@ function histKey(k){ return 'mcqHist_'+k; }
 function getHist(k){ try{ var v=localStorage.getItem(histKey(k)); return v?JSON.parse(v):[]; }catch(e){ return []; } }
 function saveHist(k,sc,total){ try{ var h=getHist(k); h.unshift({d:(new Date()).toISOString().slice(0,10), s:sc, t:total, p:Math.round(sc/total*100)}); h=h.slice(0,5); localStorage.setItem(histKey(k), JSON.stringify(h)); }catch(e){} }
 function histHtml(k){ var h=getHist(k); if(!h.length) return ''; return '<small>Past scores: '+h.map(function(r){ return r.s+'/'+r.t+' ('+r.p+'%) '+r.d; }).join(' · ')+'</small>'; }
+const UI_EN={homeHeading:'Choose your class or section',homeNote:'No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.',nameLabel:'Your name:',namePlaceholder:'Type your full name',tip:'Tip: tap your class, then a subject, then a test. Type your name first \u2014 it is sent with your result when you submit.',textSize:'Text size:',normal:'Normal',large:'Large',nightLabel:'Night mode:',nightOff:'Off',nightOn:'On',langLabel:'Language:',shareHome:'Share on WhatsApp',installBtn:'How to install the app',qotdHeading:'Question of the Day',installHeading:'How to install the app',installStep1:'Download the APK file sent by your teacher.',installStep2:'Tap the downloaded file on your phone.',installStep3:'If the phone asks, allow installation from the browser.',installStep4:'Open "Haseeja Mahar MCQ Tests" and start practising.',backHome:'Back to Home',classNote:'Choose a subject, then pick a test.',backClasses:'Back to Classes',subjectNote:'Choose a test. Each test shows its own number of questions and timer.',modeLabel:'Mode:',modeTest:'Test',modeLearn:'Learn',backSubjects:'Back to Subjects',noTests:'No tests for this subject yet \u2014 more tests will be added here soon.',noTestsYet:'No tests yet',chooseSubject:'Choose a subject',chooseTest:'Choose a test',prev:'Previous',next:'Next',submit:'Submit Test',flag:'Flag this question',unflag:'Unflag this question',resultHeading:'Result',retry:'Retry wrong questions',shareResult:'Share result on WhatsApp',report:'Report a mistake in this test',learnModeLabel:'Learn mode',retryLabel:'Practice retry \u2014 not recorded',retryNote:'Practice retry \u2014 not recorded. ',learnNote:'Learn mode. ',timeUpNote:'Time up \u2014 submitted automatically. ',pctCorrect:'correct.',qotdCorrect:'Correct!',qotdWrong:'Not quite \u2014 the correct answer is',nameAlert:'Please type your name before starting the test.',mockNote:'Mode follows the Test/Learn setting (default Test). Change it on any subject page.',howToHeading:'How to take a test',howToStep1:'Type your name, choose your class, then a subject, then a test. (General Knowledge opens its tests directly.)',howToStep2:'Tap an option (A, B, C or D) to select your answer.',howToStep3:'Use Next and Previous to move between questions.',howToStep4:'Each test shows its own time limit (10 minutes for most tests, 60 minutes for GK 1st Test). If the time runs out, the test submits automatically.',howToStep5:'Press Submit Test when you are done. Your score appears at once, with a review of every question.',howToStep6:'In Test mode, your correct answers are shown only after you submit \u2014 not during the test. In Learn mode, the correct answer is shown right after each question.'};
+const UI_SD={homeHeading:'\u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633 \u064a\u0627 \u062d\u0635\u0648 \u0686\u0648\u0646\u068c\u064a\u0648',homeNote:'\u0644\u0627\u06af \u0627\u0646 \u062c\u064a \u0636\u0631\u0648\u0631\u062a \u0646\u0627\u0647\u064a. \u0647\u0631 \u0679\u064a\u0633\u067d \u0645\u064a\u06ba \u0633\u0648\u0627\u0644\u0646 \u062c\u0648 \u062a\u0639\u062f\u0627\u062f \u0627\u06d2 \u0648\u0642\u062a \u068c\u064a\u06aa\u0627\u0631\u064a\u0644 \u0622\u0647\u064a. \u062c\u0648\u0627\u0628 \u062c\u0645\u0639 \u06aa\u0631\u0627\u0626\u06bb \u06aa\u0627\u0646 \u067e\u0648\u0621\u0650 \u062a\u0648\u0647\u0627\u0646 \u062c\u0627 \u062c\u0648\u0627\u0628 \u068c\u064a\u06aa\u0627\u0631\u064a\u0627 \u0648\u064a\u0646\u062f\u0627.',nameLabel:'\u062a\u0648\u0647\u0627\u0646 \u062c\u0648 \u0646\u0627\u0644\u0648:',namePlaceholder:'\u067e\u0646\u0647\u0646\u062c\u0648 \u067e\u0648\u0631\u0648 \u0646\u0627\u0644\u0648 \u0644\u06aa\u0648',tip:'\u0635\u0644\u0627\u062d: \u067e\u0647\u0631\u064a\u0627\u0646 \u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646\u060c \u067e\u0648\u0621\u0650 \u0679\u064a\u0633\u067d \u0686\u0648\u0646\u068c\u064a\u0648. \u067e\u0647\u0631\u064a\u0627\u0646 \u067e\u0646\u0647\u0646\u062c\u0648 \u0646\u0627\u0644\u0648 \u0644\u06aa\u0648 \u2014 \u0627\u0647\u0648 \u062a\u0648\u0647\u0627\u0646 \u062c\u064a \u0646\u062a\u064a\u062c\u064a \u0633\u0627\u0646 \u06af\u068c \u0645\u0648\u06aa\u0644\u064a\u0648 \u0648\u064a\u0646\u062f\u0648.',textSize:'\u0627\u06aa\u0631\u0646 \u062c\u064a \u0645\u0627\u067e:',normal:'\u0639\u0627\u0645',large:'\u0648\u068c\u0648',nightLabel:'\u0631\u0627\u062a \u062c\u0648 \u0637\u0631\u064a\u0642\u0648:',nightOff:'\u0628\u0646\u062f',nightOn:'\u0686\u0627\u0644\u0648',langLabel:'\u067b\u0648\u0644\u064a:',shareHome:'\u0648\u0627\u067d\u0633 \u0627\u064a\u067e \u062a\u064a \u0634\u064a\u0626\u0631 \u06aa\u0631\u064a\u0648',installBtn:'\u0627\u064a\u067e \u06aa\u064a\u0626\u0646 \u0627\u0646\u0633\u067d\u0627\u0644 \u06aa\u062c\u064a',qotdHeading:'\u0627\u0684 \u062c\u0648 \u0633\u0648\u0627\u0644',installHeading:'\u0627\u064a\u067e \u06aa\u064a\u0626\u0646 \u0627\u0646\u0633\u067d\u0627\u0644 \u06aa\u062c\u064a',installStep1:'\u0627\u0633\u062a\u0627\u062f \u0637\u0631\u0641\u0627\u0646 \u0645\u0648\u06aa\u0644\u064a\u0644 APK \u0641\u0627\u0626\u0644 \u068c\u0627\u0626\u0648\u0646\u0644\u0648\u068c \u06aa\u0631\u064a\u0648.',installStep2:'\u067e\u0646\u0647\u0646\u062c\u064a \u0641\u0648\u0646 \u062a\u064a \u068c\u0627\u0626\u0648\u0646\u0644\u0648\u068c \u062b\u064a\u0644 \u0641\u0627\u0626\u0644 \u062a\u064a \u0679\u064a\u067e \u06aa\u0631\u064a\u0648.',installStep3:'\u062c\u064a\u06aa\u068c\u06be\u0646 \u0641\u0648\u0646 \u067e\u0686\u064a \u062a\u0647 \u0628\u0631\u0627\u0626\u0648\u0632\u0631 \u0645\u0627\u0646 \u0627\u0646\u0633\u067d\u0627\u0644 \u06aa\u0631\u06bb \u062c\u064a \u0627\u062c\u0627\u0632\u062a \u068c\u064a\u0648.',installStep4:'Haseeja Mahar MCQ Tests \u06aa\u0648\u0644\u064a\u0648 \u0627\u06d2 \u0645\u0634\u0642 \u0634\u0631\u0648\u0639 \u06aa\u0631\u064a\u0648.',backHome:'\u06af\u0647\u0631 \u068c\u0627\u0646\u06be\u0646 \u0648\u0627\u067e\u0633',classNote:'\u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068c\u064a\u0648\u060c \u067e\u0648\u0621\u0650 \u0679\u064a\u0633\u067d \u0686\u0648\u0646\u068c\u064a\u0648.',backClasses:'\u06aa\u0644\u0627\u0633\u0646 \u068c\u0627\u0646\u06be\u0646 \u0648\u0627\u067e\u0633',subjectNote:'\u0679\u064a\u0633\u067d \u0686\u0648\u0646\u068c\u064a\u0648. \u0647\u0631 \u0679\u064a\u0633\u067d \u0645\u064a\u06ba \u0633\u0648\u0627\u0644\u0646 \u062c\u0648 \u062a\u0639\u062f\u0627\u062f \u0627\u06d2 \u0648\u0642\u062a \u068c\u064a\u06aa\u0627\u0631\u064a\u0644 \u0622\u0647\u064a.',modeLabel:'\u0637\u0631\u064a\u0642\u0648:',modeTest:'\u0679\u064a\u0633\u067d',modeLearn:'\u0633\u06aa\u0648',backSubjects:'\u0645\u0636\u0645\u0648\u0646\u0646 \u068c\u0627\u0646\u06be\u0646 \u0648\u0627\u067e\u0633',noTests:'\u0647\u0646 \u0645\u0636\u0645\u0648\u0646 \u0644\u0627\u0621\u0650 \u0627\u0684\u0627 \u06aa\u0627 \u0679\u064a\u0633\u067d \u0646\u0627\u0647\u064a \u2014 \u062c\u0644\u062f \u0648\u068c\u064a\u06aa \u0679\u064a\u0633\u067d\u0648\u0646 \u0634\u0627\u0645\u0644 \u06aa\u064a\u0648\u0646 \u0648\u064a\u0646\u062f\u064a\u0648\u0646.',noTestsYet:'\u0627\u0684\u0627 \u06aa\u0627 \u0679\u064a\u0633\u067d \u0646\u0627\u0647\u064a',chooseSubject:'\u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068c\u064a\u0648',chooseTest:'\u0679\u064a\u0633\u067d \u0686\u0648\u0646\u068c\u064a\u0648',prev:'\u067e\u0648\u0626\u064a\u0646',next:'\u0627\u06af\u064a\u0648\u0646',submit:'\u0679\u064a\u0633\u067d \u062c\u0645\u0639 \u06aa\u0631\u064a\u0648',flag:'\u0647\u0646 \u0633\u0648\u0627\u0644 \u06aa\u064a \u0646\u0634\u0627\u0646 \u0644\u06af\u0627\u064a\u0648',unflag:'\u0646\u0634\u0627\u0646 \u0647\u067d\u0627\u064a\u0648',resultHeading:'\u0646\u062a\u064a\u062c\u0648',retry:'\u063a\u0644\u0637 \u0633\u0648\u0627\u0644 \u0628\u064a\u06be\u0631 \u06aa\u0631\u064a\u0648',shareResult:'\u0646\u062a\u064a\u062c\u0648 \u0648\u0627\u067d\u0633 \u0627\u064a\u067e \u062a\u064a \u0634\u064a\u0626\u0631 \u06aa\u0631\u064a\u0648',report:'\u0647\u0646 \u0679\u064a\u0633\u067d \u0645\u064a\u06ba \u063a\u0644\u0637\u064a \u0628\u068c\u0627\u064a\u0648',learnModeLabel:'\u0633\u06aa\u0648 \u0637\u0631\u064a\u0642\u0648',retryLabel:'\u0645\u0634\u0642 \u0648\u0631\u062c\u0627\u0621\u064f \u2014 \u0631\u06aa\u0627\u0631\u068c \u0646\u0647 \u062b\u064a\u0646\u062f\u0648',retryNote:'\u0645\u0634\u0642 \u0648\u0631\u062c\u0627\u0621\u064f \u2014 \u0631\u06aa\u0627\u0631\u068c \u0646\u0647 \u062b\u064a\u0646\u062f\u0648. ',learnNote:'\u0633\u06aa\u0648 \u0637\u0631\u064a\u0642\u0648. ',timeUpNote:'\u0648\u0642\u062a \u062e\u062a\u0645 \u2014 \u067e\u0627\u06bb\u0645\u0631\u0627\u062f\u0648 \u062c\u0645\u0639 \u062b\u064a \u0648\u064a\u0648. ',pctCorrect:'\u0635\u062d\u064a\u062d.',qotdCorrect:'\u0635\u062d\u064a\u062d!',qotdWrong:'\u0635\u062d\u064a\u062d \u0646\u0647 \u0622\u0647\u064a \u2014 \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0622\u0647\u064a',nameAlert:'\u0679\u064a\u0633\u067d \u0634\u0631\u0648\u0639 \u06aa\u0631\u06bb \u06aa\u0627\u0646 \u067e\u0647\u0631\u064a\u0627\u0646 \u067e\u0646\u0647\u0646\u062c\u0648 \u0646\u0627\u0644\u0648 \u0644\u06aa\u0648.',mockNote:'\u0637\u0631\u064a\u0642\u0648 \u0679\u064a\u0633\u067d/\u0633\u06aa\u0648 \u0648\u0627\u0631\u064a \u0633\u064a\u067d\u0646\u06af \u0645\u0637\u0627\u0628\u0642 \u0647\u0644\u0646\u062f\u0648 (\u068c\u0641\u0627\u0644\u067d \u0679\u064a\u0633\u067d). \u0627\u0647\u0648 \u06aa\u0646\u0647\u0646 \u0628\u0647 \u0645\u0636\u0645\u0648\u0646 \u0648\u0627\u0631\u064a \u0635\u0641\u062d\u064a \u062a\u064a \u062a\u0628\u062f\u064a\u0644 \u06aa\u0631\u064a \u0633\u06af\u0647\u062c\u064a \u062b\u0648.',howToHeading:'\u0679\u064a\u0633\u067d \u06aa\u064a\u0626\u0646 \u068c\u062c\u064a',howToStep1:'\u067e\u0646\u0647\u0646\u062c\u0648 \u0646\u0627\u0644\u0648 \u0644\u06aa\u0648\u060c \u067e\u0648\u0621\u0650 \u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646\u060c \u067e\u0648\u0621\u0650 \u0679\u064a\u0633\u067d \u0686\u0648\u0646\u068c\u064a\u0648. ( \u062c\u0646\u0631\u0644 \u0646\u0627\u0644\u062c \u0633\u064a\u062f\u0648 \u0679\u064a\u0633\u067d\u0648\u0646 \u062e\u0644\u064a \u0648\u064a\u0646\u062f\u064a\u0648\u0646.)',howToStep2:'\u06aa\u0646\u0647\u0646 \u0627\u067e\u0634\u0646 (A\u060c B\u060c C \u064a\u0627 D) \u062a\u064a \u0679\u064a\u067e \u06aa\u0631\u064a\u0648.',howToStep3:'\u0633\u0648\u0627\u0644\u0646 \u0645\u064a\u06ba \u0686\u0644\u06bb \u0644\u0627\u0621\u0650 \u0627\u06af\u064a\u0648\u0646 \u0627\u06d2 \u067e\u0648\u0626\u064a\u0646 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06aa\u0631\u064a\u0648.',howToStep4:'\u0647\u0631 \u0679\u064a\u0633\u067d \u062c\u0648 \u0627\u0644\u06af \u0648\u0642\u062a \u0622\u0647\u064a ( \u0627\u06aa\u062b\u0631 \u0679\u064a\u0633\u067d\u0646 \u0644\u0627\u0621\u0650 10 \u0645\u0646\u067d\u060c GK \u067e\u0647\u0631\u064a\u0646 \u0679\u064a\u0633\u067d \u0644\u0627\u0621\u0650 60 \u0645\u0646\u067d). \u062c\u064a\u06aa\u068c\u06be\u0646 \u0648\u0642\u062a \u062e\u062a\u0645 \u062b\u064a \u0648\u064a\u0648 \u062a\u0647 \u0679\u064a\u0633\u067d \u067e\u0627\u06bb\u0645\u0631\u0627\u062f\u0648 \u062c\u0645\u0639 \u062b\u064a \u0648\u064a\u0646\u062f\u064a.',howToStep5:'\u062c\u064a\u0646 \u062a\u064a\u0627\u0631 \u062b\u064a\u0648 \u062a\u0647 Submit Test \u062f\u0628\u0627\u064a\u0648. \u062a\u0648\u0647\u0627\u0646 \u062c\u0648 \u0646\u0645\u0628\u0631 \u0641\u0648\u0631\u0646 \u068c\u064a\u06aa\u0627\u0631\u064a\u0648 \u0648\u064a\u0646\u062f\u0648\u060c \u0647\u0631 \u0633\u0648\u0627\u0644 \u062c\u064a \u062c\u0627\u0686 \u0633\u0627\u0646.',howToStep6:'\u0679\u064a\u0633\u067d \u0637\u0631\u064a\u0642\u064a \u0645\u064a\u06ba \u062a\u0648\u0647\u0627\u0646 \u062c\u0627 \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0635\u0631\u0641 \u062c\u0645\u0639 \u06aa\u0631\u0627\u0626\u06bb \u06aa\u0627\u0646 \u067e\u0648\u0621\u0650 \u068c\u064a\u06aa\u0627\u0631\u064a\u0627 \u0648\u064a\u0646\u062f\u0627 \u2014 \u0679\u064a\u0633\u067d \u062f\u0648\u0631\u0627\u0646 \u0646\u0647. \u0633\u06aa\u0648 \u0637\u0631\u064a\u0642\u064a \u0645\u064a\u06ba \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0647\u0631 \u0633\u0648\u0627\u0644 \u06aa\u0627\u0646 \u067e\u0648\u0621\u0650 \u0641\u0648\u0631\u0646 \u068c\u064a\u06aa\u0627\u0631\u064a\u0648 \u0648\u064a\u0646\u062f\u0648.'};
+let uiLang='en';
+function tr(k){ return (uiLang==='sd' && UI_SD[k]) ? UI_SD[k] : (UI_EN[k]||k); }
+function setNightMode(on){ try{localStorage.setItem('mcqNight', on?'dark':'light');}catch(e){} document.body.classList.toggle('dark', !!on); var ob=document.getElementById('nightOffBtn'), nb=document.getElementById('nightOnBtn'); if(ob) ob.className='modebtn'+(on?'':' sel'); if(nb) nb.className='modebtn'+(on?' sel':''); }
+function applySavedNightMode(){ var v='light'; try{ v=localStorage.getItem('mcqNight')||'light'; }catch(e){} setNightMode(v==='dark'); }
+function setLang(lang){ uiLang=(lang==='sd'?'sd':'en'); try{localStorage.setItem('mcqLang', uiLang);}catch(e){} document.querySelectorAll('[data-i18n]').forEach(function(el){ var v=tr(el.getAttribute('data-i18n')); if(v) el.textContent=v; }); var inp=document.getElementById('studentName'); if(inp) inp.placeholder=tr('namePlaceholder'); var eb=document.getElementById('langEnBtn'), sb=document.getElementById('langSdBtn'); if(eb) eb.className='modebtn'+(uiLang==='en'?' sel':''); if(sb) sb.className='modebtn'+(uiLang==='sd'?' sel':''); }
+function applySavedLang(){ var l='en'; try{ l=localStorage.getItem('mcqLang')||'en'; }catch(e){} setLang(l); }
+const CLASS_NAMES_SD={'vi':'\u06aa\u0644\u0627\u0633 VI','vii':'\u06aa\u0644\u0627\u0633 VII','viii':'\u06aa\u0644\u0627\u0633 VIII','ix':'\u06aa\u0644\u0627\u0633 IX','x':'\u06aa\u0644\u0627\u0633 X','gk':'\u062c\u0646\u0631\u0644 \u0646\u0627\u0644\u062c'};
+const MOCK_KEYS=['x','xeng','xstbb'];
+let mockTest=null;
+function testInfo(){ return testKey==='mockx' ? mockTest : QUESTIONS[testKey]; }
+function buildMockShuffled(){ var qs=mockTest.questions.map(function(q,qi){ var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer), orig:qi}; }); return shuffleArr(qs); }
+function buildMockTest(){ var pool=[], seen={}; MOCK_KEYS.forEach(function(k){ QUESTIONS[k].questions.forEach(function(q){ var stem=q.q.replace(/\s+/g,' ').trim(); if(seen[stem]) return; seen[stem]=1; pool.push({q:q.q, options:q.options.slice(), answer:q.answer}); }); }); pool=shuffleArr(pool).slice(0,20); mockTest={title:'Class X \u2014 Mixed Mock Test', dir:'ltr', minutes:10, questions:pool}; }
+function startMockTest(){
+  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert(tr('nameAlert')); document.getElementById('classpage').classList.add('hidden'); document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} buildMockTest(); testKey='mockx'; idx=0; submitted=false; testLearn=learnMode; activeQs=buildMockShuffled();
+  answers=new Array(activeQs.length).fill(null);
+  flagged=new Array(activeQs.length).fill(false); retryMode=false;
+  secondsLeft=10*60;
+  document.getElementById('timer').textContent='10:00'; document.getElementById('timer').classList.remove('warn');
+  document.getElementById('home').classList.add('hidden');
+  document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
+  const t=document.getElementById('test'); t.classList.remove('hidden');
+  document.getElementById('testtitle').textContent=mockTest.title+(testLearn?' \u2014 Learn mode':'');
+  document.getElementById('test').dir=mockTest.dir;
+  render();
+  clearInterval(timerId);
+  if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
+  else { timerId=setInterval(tick,1000); }
+}
 function setMode(m){ learnMode=(m==='learn'); var tb=document.getElementById('modeTestBtn'), lb=document.getElementById('modeLearnBtn'); if(tb) tb.className='modebtn'+(learnMode?'':' sel'); if(lb) lb.className='modebtn'+(learnMode?' sel':''); }
 function setFontSize(s){ try{localStorage.setItem('mcqFontSize', s);}catch(e){} document.body.classList.toggle('large', s==='large'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'); if(nb) nb.className='modebtn'+(s==='large'?'':' sel'); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); }
 function applySavedFontSize(){ var s='normal'; try{ s=localStorage.getItem('mcqFontSize')||'normal'; }catch(e){} document.body.classList.toggle('large', s==='large'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'); if(nb) nb.className='modebtn'+(s==='large'?'':' sel'); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); }
 function showInstall(){ document.getElementById('home').classList.add('hidden'); document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('test').classList.add('hidden'); document.getElementById('result').classList.add('hidden'); document.getElementById('install').classList.remove('hidden'); window.scrollTo(0,0); }
-function reportMistake(){ if(!testKey) return; var msg='I found a mistake in the test: '+QUESTIONS[testKey].title+'. Question number: ___. Mistake: ___'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
+function reportMistake(){ if(!testKey) return; var msg='I found a mistake in the test: '+testInfo().title+'. Question number: ___. Mistake: ___'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
 
 var currentClass=null; var currentSubject=null;
 function showClass(cls){
   currentClass=cls; currentSubject=null;
   if(cls==='gk'){ renderTestList(cls,'General Knowledge',CLASS_TESTS['gk']); return; }
-  document.getElementById('classtitle').textContent=CLASS_NAMES[cls]+' — Choose a subject';
+  var _cn=uiLang==='sd' ? CLASS_NAMES_SD[cls] : CLASS_NAMES[cls];
+  document.getElementById('classtitle').textContent=_cn+' \u2014 '+tr('chooseSubject');
   document.getElementById('classtests').innerHTML=CLASS_SUBJECTS[cls].map(function(s){
     var n=CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===s; }).length;
-    return '<button class="testbtn en" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+s+'<small>'+(n===0?'No tests yet':n+(n===1?' test':' tests'))+'</small></button>';
+    return '<button class="testbtn en" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+s+'<small>'+(n===0?tr('noTestsYet'):(uiLang==='sd'?n+' \u0679\u064a\u0633\u067d':n+(n===1?' test':' tests')))+'</small></button>';
   }).join('');
+  if(cls==='x'){ document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="startMockTest()">Class X \u2014 Mixed Mock Test<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small><small>Mathematics, English &amp; English (STBB) mixed</small></button><p class="note">'+tr('mockNote')+'</p>'; }
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
@@ -4696,9 +4756,9 @@ function showSubject(cls, subj){
 }
 function renderTestList(cls, title, keys){
   var _sm=document.getElementById('subjectmaterial'); if(_sm) _sm.innerHTML='';
-  document.getElementById('subjecttitle').textContent=title+' — Choose a test';
-  document.getElementById('subjectback').textContent=(cls==='gk'?'Back to Home':'Back to Subjects');
-  document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">No tests for this subject yet — more tests will be added here soon.</p>':keys.map(function(k){
+  document.getElementById('subjecttitle').textContent=title+' \u2014 '+tr('chooseTest');
+  document.getElementById('subjectback').textContent=(cls==='gk'?tr('backHome'):tr('backSubjects'));
+  document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':keys.map(function(k){
     var t=QUESTIONS[k];
     return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+histHtml(k)+'</button>';
   }).join('');
@@ -4729,7 +4789,7 @@ function backToClasses(){
   window.scrollTo(0,0);
 }
 function startTest(key){
-  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert("Please type your name before starting the test."); document.getElementById('classpage').classList.add('hidden');
+  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert(tr('nameAlert')); document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; idx=0; submitted=false; testLearn=learnMode; activeQs=buildShuffled(key);
   answers=new Array(activeQs.length).fill(null);
   flagged=new Array(activeQs.length).fill(false); retryMode=false;
@@ -4744,7 +4804,7 @@ function startTest(key){
   document.getElementById('test').dir=QUESTIONS[key].dir;
   render();
   clearInterval(timerId);
-  if(testLearn){ document.getElementById('timer').textContent='Learn mode'; }
+  if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
 }
 function startRetry(){
@@ -4755,9 +4815,9 @@ function startRetry(){
   flagged=new Array(activeQs.length).fill(false);
   document.getElementById('result').classList.add('hidden');
   const t=document.getElementById('test'); t.classList.remove('hidden');
-  document.getElementById('testtitle').textContent=QUESTIONS[testKey].title+' \u2014 Practice retry \u2014 not recorded';
-  document.getElementById('test').dir=QUESTIONS[testKey].dir;
-  document.getElementById('timer').textContent='Practice retry \u2014 not recorded';
+  document.getElementById('testtitle').textContent=testInfo().title+' \u2014 '+tr('retryLabel');
+  document.getElementById('test').dir=testInfo().dir;
+  document.getElementById('timer').textContent=tr('retryLabel');
   clearInterval(timerId); render(); window.scrollTo(0,0);
 }
 function tick(){
@@ -4783,7 +4843,7 @@ function render(){
   const box=document.getElementById('opts'); box.innerHTML='';
   qs[idx].options.forEach((o,i)=>{
     const b=document.createElement('button');
-    let cls='opt'+(QUESTIONS[testKey].dir==='ltr'?' en':'')+(answers[idx]===i?' sel':'');
+    let cls='opt'+(testInfo().dir==='ltr'?' en':'')+(answers[idx]===i?' sel':'');
     if(testLearn&&answers[idx]!==null){
       if(i===qs[idx].answer) cls+=' learn-correct';
       if(answers[idx]===i&&i!==qs[idx].answer) cls+=' learn-wrong';
@@ -4799,7 +4859,7 @@ function renderPaletteExplain(){
   const qs=activeQs||QUESTIONS[testKey].questions;
   var pal=document.getElementById('palette');
   if(pal){ pal.innerHTML=''; qs.forEach(function(q,i){ var b=document.createElement('button'); b.className='palbtn'+(answers[i]!==null?' ans':'')+(i===idx?' cur':'')+(flagged[i]?' flag':''); b.textContent=(flagged[i]?'\u2691 ':'')+(i+1); b.onclick=(function(j){ return function(){ idx=j; render(); }; })(i); pal.appendChild(b); }); }
-  var fb=document.getElementById('flagbtn'); if(fb) fb.textContent=(flagged[idx]?'Unflag this question':'Flag this question');
+  var fb=document.getElementById('flagbtn'); if(fb) fb.textContent=(flagged[idx]?tr('unflag'):tr('flag'));
   var eb=document.getElementById('explainbox');
   if(eb){ if(testLearn && answers[idx]!==null && testKey==='xeng' && activeQs && typeof activeQs[idx].orig==='number' && EXPLAIN_XENG[activeQs[idx].orig]){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+EXPLAIN_XENG[activeQs[idx].orig]; } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
 }
@@ -4811,16 +4871,16 @@ function move(d){
 function submitTest(auto){
   if(submitted) return;
   const unanswered=answers.filter(a=>a===null).length;
-  if(!auto && unanswered>0 && !confirm(unanswered+' question(s) are unanswered. Submit anyway?')) return;
+  if(!auto && unanswered>0 && !confirm(unanswered+' '+(uiLang==='sd'?'سوالن جا جواب نه ڌنا ويا آهن. پوءِ به جمع ڪجي؟':'question(s) are unanswered. Submit anyway?'))) return;
   submitted=true; clearInterval(timerId);
   const qs=activeQs||QUESTIONS[testKey].questions;
   let score=0; qs.forEach((q,i)=>{ if(answers[i]===q.answer) score++; });
   document.getElementById('test').classList.add('hidden');
-  const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=QUESTIONS[testKey].dir;
+  const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=testInfo().dir;
   lastScore=score; lastTotal=qs.length;
   if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
-  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+QUESTIONS[testKey].title; if(!testLearn && !retryMode){ saveBest(testKey, score); sendResult(score, qs.length, QUESTIONS[testKey].title); saveHist(testKey, score, qs.length); }
-  document.getElementById('scorenote').textContent=(retryMode?'Practice retry \u2014 not recorded. ':(testLearn?'Learn mode. ':(auto?'Time up — submitted automatically. ':'')))+Math.round(score/qs.length*100)+'% correct.';
+  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode){ saveBest(testKey, score); sendResult(score, qs.length, testInfo().title); saveHist(testKey, score, qs.length); }
+  document.getElementById('scorenote').textContent=(retryMode?tr('retryNote'):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):'')))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(retryMode||lastWrong.length===0)?'none':'block';
   let html='';
   qs.forEach((q,i)=>{
@@ -4834,7 +4894,7 @@ function submitTest(auto){
   document.getElementById('review').innerHTML=html;
   window.scrollTo(0,0);
 }
-function shareResult(){ if(!testKey||!lastTotal) return; var pct=Math.round(lastScore/lastTotal*100); var msg=studentName+' \u2014 '+QUESTIONS[testKey].title+': '+lastScore+' / '+lastTotal+' ('+pct+'%) \u2014 Try our school MCQ practice tests: https://Nasar1234567890.github.io/Nasarullah/'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
+function shareResult(){ if(!testKey||!lastTotal) return; var pct=Math.round(lastScore/lastTotal*100); var msg=studentName+' \u2014 '+testInfo().title+': '+lastScore+' / '+lastTotal+' ('+pct+'%) \u2014 Try our school MCQ practice tests: https://Nasar1234567890.github.io/Nasarullah/'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
 function goHome(){
   clearInterval(timerId);
   document.getElementById('result').classList.add('hidden');
@@ -4847,9 +4907,11 @@ function goHome(){
 function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
 function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n.getMonth(), n.getDate()); }
 function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+formatQuestion(pick.q.q)+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')">('+letters[i]+') '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
-function qotdAnswer(btn,i,ans){ var note=document.getElementById('qotdnote'); if(!note) return; if(i===ans){ btn.classList.add('learn-correct'); note.innerHTML='<span class="correct">Correct!</span>'; } else { btn.classList.add('learn-wrong'); note.innerHTML='<span class="wrong">Not quite \u2014 the correct answer is ('+letters[ans]+').</span>'; } }
+function qotdAnswer(btn,i,ans){ var note=document.getElementById('qotdnote'); if(!note) return; if(i===ans){ btn.classList.add('learn-correct'); note.innerHTML='<span class="correct">'+tr('qotdCorrect')+'</span>'; } else { btn.classList.add('learn-wrong'); note.innerHTML='<span class="wrong">'+tr('qotdWrong')+' ('+letters[ans]+').</span>'; } }
 try{ var _savedName=localStorage.getItem('mcqStudentName'); if(_savedName){ var _inp=document.getElementById('studentName'); if(_inp) _inp.value=_savedName; } }catch(e){}
 applySavedFontSize();
+applySavedNightMode();
+applySavedLang();
 renderQotd();
 </script>
 </body>
