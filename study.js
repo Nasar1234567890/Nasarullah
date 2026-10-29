@@ -736,7 +736,8 @@ var STUDY = {
         "t": "Tense",
         "d": "The form of a verb that shows the time of an action: past, present or future."
       }
-    ]
+    ],
+    "notes": []
   }
 };
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
