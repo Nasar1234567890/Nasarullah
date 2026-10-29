@@ -743,6 +743,29 @@ var STUDY = {
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
 var matTab = "paragraphs";
 var matData = null;
+var matSubj = null;
+function showSubjTab(tab){
+  var db = document.getElementById("submatbody");
+  if(!db) return;
+  ["definitions", "notes"].forEach(function(t){
+    var b = document.getElementById("subtab-" + t);
+    if(b) b.className = "modebtn" + (t === tab ? " sel" : "");
+  });
+  if(tab === "notes"){
+    db.innerHTML = "<p class=\"note\"><b>Notes</b> \\u2014 notes for this subject will be added here as they are ready.</p>";
+    return;
+  }
+  var defs = matData ? matData.definitions.filter(function(d){ return d.s === matSubj; }) : [];
+  if(defs.length){
+    var h = "";
+    defs.forEach(function(d){
+      h += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>";
+    });
+    db.innerHTML = h;
+  } else {
+    db.innerHTML = "<p class=\"note\">Study material for this subject is coming soon.</p>";
+  }
+}
 function matItemsHtml(items){
   var html = "";
   items.forEach(function(item, i){
@@ -813,9 +836,10 @@ function renderSubjectMaterial(cls, subj){
   if(cls === "x") data = STUDY.x;
   else if(subj === "English") data = STUDY.shared;
   matData = data;
-  if(!data){ box.innerHTML = ""; return; }
+  matSubj = subj;
   var html = "<h3>Study Material</h3>";
   if(subj === "English"){
+    if(!data){ box.innerHTML = ""; return; }
     var tabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
     if(data.notes) tabs.push(["notes", "Notes"]);
     html += "<p class=\"note\">" + tabs.map(function(t){
@@ -825,14 +849,10 @@ function renderSubjectMaterial(cls, subj){
     showMatTab("paragraphs");
     return;
   }
-  var defs = data.definitions.filter(function(d){ return d.s === subj; });
-  if(defs.length){
-    html += "<p class=\"note\"><b>Definitions</b></p>";
-    defs.forEach(function(d){
-      html += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>";
-    });
-  } else {
-    html += "<p class=\"note\">Study material for this subject is coming soon.</p>";
-  }
+  html += "<p class=\"note\">" +
+    "<button class=\"modebtn\" id=\"subtab-definitions\" onclick=\"showSubjTab('definitions')\">Definitions</button> " +
+    "<button class=\"modebtn\" id=\"subtab-notes\" onclick=\"showSubjTab('notes')\">Notes</button></p>" +
+    "<div id=\"submatbody\"></div>";
   box.innerHTML = html;
+  showSubjTab("definitions");
 }
