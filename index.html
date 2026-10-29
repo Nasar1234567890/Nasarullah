@@ -53,6 +53,15 @@ body.large #qtext{font-size:26px}
 body.large .opt{font-size:23px}
 body.large .review .qq{font-size:21px}
 body.large .note{font-size:17px}
+body.xlarge #qtext{font-size:31px}
+body.xlarge .opt{font-size:27px}
+body.xlarge .review .qq{font-size:24px}
+body.xlarge .note{font-size:19px}
+body.xlarge .flashfront{font-size:29px}
+.flashcard{border:2px solid #14532d;border-radius:12px;padding:20px;margin:12px 0;text-align:center;background:#eaf5ee}
+body.dark .flashcard{background:#14532d;border-color:#22c55e}
+.flashfront{font-size:24px;font-weight:700;line-height:1.6;min-height:60px}
+.flashback{font-size:20px;line-height:1.6;min-height:60px}
 .hidden{display:none}
 #palette{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
 .palbtn{min-width:38px;padding:8px 4px;border:2px solid #cbd5e1;border-radius:8px;background:#fff;font-size:15px;font-weight:700}
@@ -106,12 +115,18 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; 7 subjects &middot; Study Material</small></button>
 <button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>3 tests &middot; GK 1st Test, Sindh GK Test 1, Sindh GK Test 2</small></button>
 <p class="note" data-i18n="tip">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
-<p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button> <span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button></p>
+<p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <button class="modebtn" id="fontXLargeBtn" onclick="setFontSize('xlarge')" data-i18n="xlarge">Extra Large</button> <span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button> <span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button></p>
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
 <a class="homebtn" style="display:block;text-align:center;text-decoration:none" href="https://wa.me/?text=Try%20our%20school%20MCQ%20practice%20tests%3A%20https%3A%2F%2FNasar1234567890.github.io%2FNasarullah%2F%20-%20GOVERNMENT%20BOYS%20LOWER%20SECONDARY%20SCHOOL%20HASEEJA%20MAHAR" data-i18n="shareHome">Share on WhatsApp</a>
 <button class="homebtn" onclick="showInstall()" data-i18n="installBtn">How to install the app</button>
 <h2 style="margin-top:18px" data-i18n="qotdHeading">Question of the Day</h2>
 <div id="qotdbox"></div>
+<p class="note"><label><b data-i18n="searchLabel">Search tests:</b> <input id="testSearch" type="text" placeholder="Type a test or topic" oninput="renderSearch()" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
+<div id="searchResults"></div>
+<div id="weakbox"></div>
+<div id="resumebox" class="hidden"><button class="homebtn" onclick="resumePaused()" data-i18n="resumeBtn">Resume your test</button></div>
+<button class="homebtn" onclick="showFlashcards()" data-i18n="flashcardsBtn">Flashcards</button>
+<button class="homebtn" onclick="startDemo()" data-i18n="demoBtn">Try a demo (3 questions)</button>
 
 <section class="card" style="margin-top:16px">
 <h2 data-i18n="howToHeading">How to take a test</h2>
@@ -125,6 +140,17 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 </ol>
 <p class="note">هر ٽيسٽ ۾ سوالن جو تعداد ۽ وقت مختلف ٿي سگهي ٿو. جواب جمع ڪرائڻ کان پوءِ توهان جو نتيجو ۽ صحيح جواب ڏيکاريا ويندا.</p>
 </section>
+</section>
+
+<section id="flashcards" class="card hidden">
+<h2 data-i18n="flashcardsHeading">Flashcards</h2>
+<p class="note"><button class="modebtn sel" id="flashAllBtn" onclick="setFlashType('all')" data-i18n="flashAll">All</button> <button class="modebtn" id="flashSynBtn" onclick="setFlashType('syn')" data-i18n="flashSyn">Synonyms</button> <button class="modebtn" id="flashVerbBtn" onclick="setFlashType('verb')" data-i18n="flashVerb">Verb Forms</button> <button class="modebtn" id="flashDefBtn" onclick="setFlashType('def')" data-i18n="flashDef">Definitions</button></p>
+<div class="flashcard"><div class="flashfront" id="flashFront"></div><div class="flashback hidden" id="flashBack"></div></div>
+<p class="note" id="flashCount"></p>
+<button class="homebtn" onclick="revealFlash()" data-i18n="showAnswer">Show answer</button>
+<button class="homebtn" onclick="nextFlash()" data-i18n="nextCard">Next card</button>
+<button class="homebtn" onclick="shuffleFlash()" data-i18n="shuffleCards">Shuffle cards</button>
+<button class="homebtn" onclick="goHome()" data-i18n="backHome">Back to Home</button>
 </section>
 
 <section id="install" class="card hidden">
