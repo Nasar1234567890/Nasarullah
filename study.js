@@ -511,18 +511,7 @@ var STUDY = {
       {
         "u": "Unit 1",
         "t": "The Voice of God / The Wise Caliph",
-        "items": [
-          "THE VOICE OF GOD \u2014 Summary: A poet wants to hear the voice of God, so he climbs to the top of a church steeple. There God tells him to go down again, because God lives among the people, not far away from them.",
-          "THE VOICE OF GOD \u2014 Central idea: God is found by loving and serving people. A person who stays away from people cannot come close to God; caring for others is the best way to please Him.",
-          "THE VOICE OF GOD \u2014 About the poet: Louis I. Newman was an American poet. He studied at Brown University and taught at Columbia University, and he wrote many books on religious subjects.",
-          "THE VOICE OF GOD \u2014 Words to remember: desirous means wanting something very much; steeple means the tall pointed tower of a church; dwell means to live in a place; aloof means keeping away from others.",
-          "THE WISE CALIPH \u2014 Summary: Caliph Haroon-ur-Rasheed of Baghdad was famous for justice and wisdom. He often walked the streets in disguise as a common man to learn about his people's problems himself.",
-          "THE WISE CALIPH \u2014 The dispute: A rich man and a beggar both claimed a beautiful horse. The rich man said he had lent it to the beggar for a ride, but at the city gate the beggar refused to get down and claimed the horse was his.",
-          "THE WISE CALIPH \u2014 The wise decision: The Caliph asked the beggar to touch the horse. The horse winced, as if it did not know his hand. When the rich man touched it, the horse snorted and neighed with pleasure. From this the Caliph knew the rich man was the true owner.",
-          "THE WISE CALIPH \u2014 Mercy and reward: The Caliph called the beggar a liar, but forgave him when he begged for pardon. The rich man also forgave him and gave him gold coins. The whole court praised the rich man's noble act.",
-          "THE WISE CALIPH \u2014 Lesson: True justice needs wisdom, not only power. A good ruler listens, observes carefully, and is merciful even when punishing a wrongdoer.",
-          "THE WISE CALIPH \u2014 Words to remember: disguise means changing how you look so others do not know you; dispute means a quarrel about something; claim means saying something belongs to you; merciful means showing mercy and forgiveness; readily means without delay or hesitation."
-        ]
+        "items": []
       },
       {
         "u": "Unit 2",
