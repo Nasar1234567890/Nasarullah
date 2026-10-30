@@ -4778,13 +4778,19 @@ function applySavedNightMode(){ var v='light'; try{ v=localStorage.getItem('mcqN
 function setLang(lang){ uiLang=(lang==='sd'?'sd':'en'); try{localStorage.setItem('mcqLang', uiLang);}catch(e){} document.querySelectorAll('[data-i18n]').forEach(function(el){ var v=tr(el.getAttribute('data-i18n')); if(v) el.textContent=v; }); var inp=document.getElementById('studentName'); if(inp) inp.placeholder=tr('namePlaceholder'); var sinp=document.getElementById('testSearch'); if(sinp) sinp.placeholder=tr('searchPlaceholder'); var eb=document.getElementById('langEnBtn'), sb=document.getElementById('langSdBtn'); if(eb) eb.className='modebtn'+(uiLang==='en'?' sel':''); if(sb) sb.className='modebtn'+(uiLang==='sd'?' sel':''); }
 function applySavedLang(){ var l='en'; try{ l=localStorage.getItem('mcqLang')||'en'; }catch(e){} setLang(l); }
 const CLASS_NAMES_SD={'vi':'\u06aa\u0644\u0627\u0633 VI','vii':'\u06aa\u0644\u0627\u0633 VII','viii':'\u06aa\u0644\u0627\u0633 VIII','ix':'\u06aa\u0644\u0627\u0633 IX','x':'\u06aa\u0644\u0627\u0633 X','gk':'\u062c\u0646\u0631\u0644 \u0646\u0627\u0644\u062c'};
-const MOCK_KEYS=['x','xeng','xstbb'];
+const MOCKS={
+ vi:{keys:['visci','vieng','visoc'], title:'Class VI — Mixed Mock Test', topic:'Science, English & Social Studies mixed', dir:'rtl'},
+ vii:{keys:['viisoc','viieng'], title:'Class VII — Mixed Mock Test', topic:'English & Social Studies mixed', dir:'rtl'},
+ viii:{keys:['viii','viiieng','viiisoc'], title:'Class VIII — Mixed Mock Test', topic:'Mathematics, English & Social Studies mixed', dir:'rtl'},
+ ix:{keys:['ix','ixeng'], title:'Class IX — Mixed Mock Test', topic:'Mathematics & English mixed', dir:'rtl'},
+ x:{keys:['x','xeng','xstbb'], title:'Class X — Mixed Mock Test', topic:'Mathematics, English & English (STBB) mixed', dir:'ltr'}
+};
 let mockTest=null;
-function testInfo(){ if(testKey==='mockx') return mockTest; if(testKey==='demo') return demoTest; return QUESTIONS[testKey]; }
-function buildMockShuffled(){ var qs=mockTest.questions.map(function(q,qi){ var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer), orig:q.srcOrig, srcKey:q.srcKey, srcOrig:q.srcOrig}; }); return shuffleArr(qs); }
-function buildMockTest(){ var pool=[], seen={}; MOCK_KEYS.forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ var stem=q.q.replace(/\s+/g,' ').trim(); if(seen[stem]) return; seen[stem]=1; pool.push({q:q.q, options:q.options.slice(), answer:q.answer, srcKey:k, srcOrig:qi}); }); }); pool=shuffleArr(pool).slice(0,20); mockTest={title:'Class X \u2014 Mixed Mock Test', dir:'ltr', minutes:10, questions:pool}; }
-function startMockTest(){
-  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert(tr('nameAlert')); document.getElementById('classpage').classList.add('hidden'); document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} buildMockTest(); testKey='mockx'; idx=0; submitted=false; testLearn=learnMode; activeQs=buildMockShuffled(); clearPaused();
+function testInfo(){ if(testKey && testKey.slice(0,4)==='mock') return mockTest; if(testKey==='demo') return demoTest; return QUESTIONS[testKey]; }
+function buildMockShuffled(){ var qs=mockTest.questions.map(function(q,qi){ var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer), orig:q.srcOrig, srcKey:q.srcKey, srcOrig:q.srcOrig, qdir:QUESTIONS[q.srcKey].dir}; }); return shuffleArr(qs); }
+function buildMockTest(cls){ var cfg=MOCKS[cls]||MOCKS.x; var pool=[], seen={}; cfg.keys.forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ var stem=q.q.replace(/\s+/g,' ').trim(); if(seen[stem]) return; seen[stem]=1; pool.push({q:q.q, options:q.options.slice(), answer:q.answer, srcKey:k, srcOrig:qi}); }); }); pool=shuffleArr(pool).slice(0,20); mockTest={title:cfg.title, dir:cfg.dir, minutes:10, questions:pool}; }
+function startMockTest(cls){
+  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert(tr('nameAlert')); document.getElementById('classpage').classList.add('hidden'); document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} buildMockTest(cls||'x'); testKey='mock'+(cls||'x'); idx=0; submitted=false; testLearn=learnMode; activeQs=buildMockShuffled(); clearPaused();
   answers=new Array(activeQs.length).fill(null);
   flagged=new Array(activeQs.length).fill(false); retryMode=false;
   secondsLeft=10*60;
@@ -4818,7 +4824,7 @@ function showClass(cls){
     var n=CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===s; }).length;
     return '<button class="testbtn en" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+s+'<small>'+(n===0?tr('noTestsYet'):(uiLang==='sd'?n+' \u0679\u064a\u0633\u067d':n+(n===1?' test':' tests')))+'</small></button>';
   }).join('');
-  if(cls==='x'){ document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="startMockTest()">Class X \u2014 Mixed Mock Test<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small><small>Mathematics, English &amp; English (STBB) mixed</small></button><p class="note">'+tr('mockNote')+'</p>'; }
+  if(MOCKS[cls]){ var _mc=MOCKS[cls]; document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="startMockTest(\''+cls+'\')">'+_mc.title+'<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small><small>'+_mc.topic+'</small></button><p class="note">'+tr('mockNote')+'</p>'; }
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
@@ -4916,13 +4922,14 @@ function formatQuestion(txt){
 }
 function render(){
   const qs=activeQs||QUESTIONS[testKey].questions;
+  var _qd=(qs[idx] && qs[idx].qdir) ? qs[idx].qdir : testInfo().dir; document.getElementById('test').dir=_qd;
   document.getElementById('counter').textContent='Question '+(idx+1)+' of '+qs.length;
   document.getElementById('bar').style.width=((idx+1)/qs.length*100)+'%';
   document.getElementById('qtext').innerHTML=formatQuestion(qs[idx].q);
   const box=document.getElementById('opts'); box.innerHTML='';
   qs[idx].options.forEach((o,i)=>{
     const b=document.createElement('button');
-    let cls='opt'+(testInfo().dir==='ltr'?' en':'')+(answers[idx]===i?' sel':'');
+    let cls='opt'+(_qd==='ltr'?' en':'')+(answers[idx]===i?' sel':'');
     if(testLearn&&answers[idx]!==null){
       if(i===qs[idx].answer) cls+=' learn-correct';
       if(answers[idx]===i&&i!==qs[idx].answer) cls+=' learn-wrong';
@@ -4941,7 +4948,7 @@ function renderPaletteExplain(){
   if(pal){ pal.innerHTML=''; qs.forEach(function(q,i){ var b=document.createElement('button'); b.className='palbtn'+(answers[i]!==null?' ans':'')+(i===idx?' cur':'')+(flagged[i]?' flag':''); b.textContent=(flagged[i]?'\u2691 ':'')+(i+1); b.onclick=(function(j){ return function(){ idx=j; render(); }; })(i); pal.appendChild(b); }); }
   var fb=document.getElementById('flagbtn'); if(fb) fb.textContent=(flagged[idx]?tr('unflag'):tr('flag'));
   var eb=document.getElementById('explainbox');
-  if(eb){ var _expl=null; if(testLearn && answers[idx]!==null && activeQs && activeQs[idx]){ var _aq=activeQs[idx]; if(testKey==='mockx' && _aq.srcKey && EXPLAIN[_aq.srcKey] && typeof _aq.srcOrig==='number'){ _expl=EXPLAIN[_aq.srcKey][_aq.srcOrig]; } else if(EXPLAIN[testKey] && typeof _aq.orig==='number'){ _expl=EXPLAIN[testKey][_aq.orig]; } } if(_expl){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+_expl; } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
+  if(eb){ var _expl=null; if(testLearn && answers[idx]!==null && activeQs && activeQs[idx]){ var _aq=activeQs[idx]; if(testKey && testKey.slice(0,4)==='mock' && _aq.srcKey && EXPLAIN[_aq.srcKey] && typeof _aq.srcOrig==='number'){ _expl=EXPLAIN[_aq.srcKey][_aq.srcOrig]; } else if(EXPLAIN[testKey] && typeof _aq.orig==='number'){ _expl=EXPLAIN[testKey][_aq.orig]; } } if(_expl){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+_expl; } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
 }
 function toggleFlag(){ if(!testKey||!activeQs) return; flagged[idx]=!flagged[idx]; render(); }
 function move(d){
@@ -5005,7 +5012,7 @@ function pauseTest(){
   if(!testKey || testLearn || retryMode || demoMode || submitted) return;
   clearInterval(timerId);
   try{
-    var state={testKey:testKey, mock:(testKey==='mockx'?mockTest:null), activeQs:activeQs, answers:answers, flagged:flagged, idx:idx, secondsLeft:secondsLeft};
+    var state={testKey:testKey, mock:(testKey && testKey.slice(0,4)==='mock'?mockTest:null), activeQs:activeQs, answers:answers, flagged:flagged, idx:idx, secondsLeft:secondsLeft};
     localStorage.setItem('mcqPaused', JSON.stringify(state));
   }catch(e){}
   document.getElementById('test').classList.add('hidden');
@@ -5016,7 +5023,7 @@ function resumePaused(){
   var state=null; try{ state=JSON.parse(localStorage.getItem('mcqPaused')||'null'); }catch(e){}
   if(!state || !state.activeQs) return;
   var _nm=document.getElementById('studentName'); if(_nm && _nm.value.trim()){ studentName=_nm.value.trim(); }
-  testKey=state.testKey; if(testKey==='mockx') mockTest=state.mock; demoMode=false; testLearn=false; retryMode=false; submitted=false;
+  testKey=state.testKey; if(testKey && testKey.slice(0,4)==='mock') mockTest=state.mock; demoMode=false; testLearn=false; retryMode=false; submitted=false;
   activeQs=state.activeQs; answers=state.answers; flagged=state.flagged; idx=state.idx; secondsLeft=state.secondsLeft;
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
@@ -5037,12 +5044,12 @@ function renderWeak(){
     var b=getBest(k); if(b===null) return;
     rows.push({k:k, title:QUESTIONS[k].title, total:QUESTIONS[k].questions.length, best:b, pct:Math.round(b/QUESTIONS[k].questions.length*100)});
   });
-  var mb=getBest('mockx'); if(mb!==null) rows.push({k:'mockx', title:'Class X \u2014 Mixed Mock Test', total:20, best:mb, pct:Math.round(mb/20*100)});
+  Object.keys(MOCKS).forEach(function(mc){ var mb=getBest('mock'+mc); if(mb!==null) rows.push({k:'mock'+mc, title:MOCKS[mc].title, total:20, best:mb, pct:Math.round(mb/20*100)}); });
   rows.sort(function(a,b){ return a.pct-b.pct; });
   rows=rows.slice(0,5);
   if(!rows.length){ box.innerHTML=''; return; }
   box.innerHTML='<h2 style="margin-top:18px" data-i18n="weakHeading">'+tr('weakHeading')+'</h2>'+rows.map(function(r){
-    var fn=(r.k==='mockx' ? 'startMockTest()' : "startTest('"+r.k+"')");
+    var fn=(r.k.slice(0,4)==='mock' ? "startMockTest('"+r.k.slice(4)+"')" : "startTest('"+r.k+"')");
     return '<button class="testbtn en" onclick="'+fn+'">'+r.title+'<small>Best: '+r.best+'/'+r.total+' ('+r.pct+'%)</small></button>';
   }).join('');
 }
@@ -5058,10 +5065,7 @@ function renderSearch(){
       hits.push({k:k, title:t.title, topic:TOPICS[k]||'', fn:"startTest('"+k+"')"});
     }
   });
-  var mhay=('Class X \u2014 Mixed Mock Test Mathematics, English & English (STBB) mixed').toLowerCase();
-  if(mhay.indexOf(lq)!==-1 || 'Class X \u2014 Mixed Mock Test'.indexOf(q)!==-1){
-    hits.push({k:'mockx', title:'Class X \u2014 Mixed Mock Test', topic:'Mathematics, English & English (STBB) mixed', fn:'startMockTest()'});
-  }
+  Object.keys(MOCKS).forEach(function(mc){ var _mt=MOCKS[mc]; var _mhay=(_mt.title+' '+_mt.topic).toLowerCase(); if(_mhay.indexOf(lq)!==-1 || _mt.title.indexOf(q)!==-1){ hits.push({k:'mock'+mc, title:_mt.title, topic:_mt.topic, fn:"startMockTest('"+mc+"')"}); } });
   if(!hits.length){ out.innerHTML='<p class="note">'+tr('searchNoMatch')+'</p>'; return; }
   out.innerHTML=hits.map(function(h){
     return '<button class="testbtn en" onclick="'+h.fn+'">'+h.title+'<small>'+h.topic+'</small></button>';
