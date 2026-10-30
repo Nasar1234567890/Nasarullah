@@ -129,6 +129,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div id="resumebox" class="hidden"><button class="homebtn" onclick="resumePaused()" data-i18n="resumeBtn">Resume your test</button></div>
 <button class="homebtn" onclick="showFlashcards()" data-i18n="flashcardsBtn">Flashcards</button>
 <button class="homebtn" onclick="startDemo()" data-i18n="demoBtn">Try a demo (3 questions)</button>
+<button class="homebtn" onclick="showTimetable()">Exam Timetable</button>
 
 <section class="card" style="margin-top:16px">
 <h2 data-i18n="howToHeading">How to take a test</h2>
@@ -153,6 +154,24 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <button class="homebtn" onclick="nextFlash()" data-i18n="nextCard">Next card</button>
 <button class="homebtn" onclick="shuffleFlash()" data-i18n="shuffleCards">Shuffle cards</button>
 <button class="homebtn" onclick="goHome()" data-i18n="backHome">Back to Home</button>
+</section>
+
+<section id="timetable" class="card hidden">
+<h2>Exam Timetable — Mid-Term Examination 2026-27</h2>
+<p class="note">Check your seat slip for your room.</p>
+<h3 style="margin-bottom:4px">Monday, 2 November 2026</h3>
+<p class="note"><b>09:00 AM to 11:30 AM:</b> Class VI Social Studies · Class VII Science · Class VIII Islamiat · Class IX English · Class X Biology</p>
+<p class="note"><b>11:45 AM to 02:15 PM:</b> Class VI Science · Class VII Sindhi · Class VIII English · Class IX Sindhi · Class X Urdu Salees</p>
+<h3 style="margin-bottom:4px">Tuesday, 3 November 2026</h3>
+<p class="note"><b>09:00 AM to 11:30 AM:</b> Class VI Mathematics · Class VII Islamiat · Class VIII Science · Class IX Physics · Class X English</p>
+<p class="note"><b>11:45 AM to 02:15 PM:</b> Class VI Sindhi · Class VII Asan Urdu · Class VIII Social Studies · Class IX Islamiat · Class X Mathematics</p>
+<h3 style="margin-bottom:4px">Wednesday, 4 November 2026</h3>
+<p class="note"><b>09:00 AM to 12:00 PM:</b> Class VI Asan Urdu · Class VII Social Studies · Class VIII Sindhi · Class IX Mathematics · Class X Physics</p>
+<h3 style="margin-bottom:4px">Thursday, 5 November 2026</h3>
+<p class="note"><b>09:00 AM to 12:00 PM:</b> Class VI Islamiat · Class VII English · Class VIII Mathematics · Class IX Chemistry · Class X Pakistan Study</p>
+<h3 style="margin-bottom:4px">Friday, 6 November 2026</h3>
+<p class="note"><b>09:00 AM to 12:00 PM:</b> Class VI English · Class VII Mathematics · Class VIII Asan Urdu · Class IX Biology · Class X Chemistry</p>
+<button class="homebtn" onclick="goHome()">Back to Home</button>
 </section>
 
 <section id="install" class="card hidden">
@@ -4966,6 +4985,7 @@ function goHome(){
   document.getElementById('subjectpage').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
   var _fl=document.getElementById('flashcards'); if(_fl) _fl.classList.add('hidden');
+  var _tt=document.getElementById('timetable'); if(_tt) _tt.classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
 }
 function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
@@ -5101,6 +5121,17 @@ function showFlashcards(){
   document.getElementById('install').classList.add('hidden');
   document.getElementById('flashcards').classList.remove('hidden');
   setFlashType('all'); window.scrollTo(0,0);
+}
+function showTimetable(){
+  document.getElementById('home').classList.add('hidden');
+  document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
+  document.getElementById('test').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('install').classList.add('hidden');
+  document.getElementById('flashcards').classList.add('hidden');
+  document.getElementById('timetable').classList.remove('hidden');
+  window.scrollTo(0,0);
 }
 // Demo test (3 questions, no timer, not recorded)
 function startDemo(){
