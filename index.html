@@ -100,6 +100,8 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <body>
 <header>
 <h1>GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h1>
+<p style="background:#fef3c7;color:#14532d;padding:8px 12px;border-radius:8px;font-weight:700">Mid-term exams start Monday 2 November, 09:00 — check your seat slip for your room.</p>
+<p id="examCountdown" style="font-weight:700"></p>
 <p>WEBSITE MADE BY: NASARULLAH MEMON</p>
 <p>MCQ Tests — Practice Tests</p>
 </header>
@@ -5129,11 +5131,21 @@ function startDemo(){
   clearInterval(timerId); render(); window.scrollTo(0,0);
 }
 
+function renderExamCountdown(){
+  var el=document.getElementById('examCountdown'); if(!el) return;
+  var target=new Date('2026-11-02T09:00:00+05:00').getTime();
+  var diff=target-Date.now();
+  if(diff<=0){ el.textContent='Mid-term exams have started — good luck!'; return; }
+  var days=Math.floor(diff/86400000);
+  var hours=Math.floor(diff%86400000/3600000);
+  el.textContent='Mid-term exams start in '+days+' day'+(days===1?'':'s')+', '+hours+' hour'+(hours===1?'':'s')+' — Monday 2 November, 09:00.';
+}
 try{ var _savedName=localStorage.getItem('mcqStudentName'); if(_savedName){ var _inp=document.getElementById('studentName'); if(_inp) _inp.value=_savedName; } }catch(e){}
 applySavedFontSize();
 applySavedNightMode();
 applySavedLang();
 renderQotd();
+renderExamCountdown();
 flushResultQueue();
 refreshPausedButton();
 renderWeak();
