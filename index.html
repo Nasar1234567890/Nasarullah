@@ -198,12 +198,14 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <p class="note"><span data-i18n="modeLabel">Mode:</span> <button class="modebtn sel" id="modeTestBtn" onclick="setMode('test')" data-i18n="modeTest">Test</button> <button class="modebtn" id="modeLearnBtn" onclick="setMode('learn')" data-i18n="modeLearn">Learn</button></p>
 <div id="subjecttests"></div>
 <div id="subjectmaterial"></div>
+<div id="mynotes"></div>
 <button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
 </section>
 
 <section id="test" class="card hidden">
 <div class="topbar"><strong id="testtitle"></strong><span id="timer">10:00</span></div>
 <div id="progress"><div id="bar"></div></div>
+<p id="timewarn" class="note hidden" style="color:#b00020;font-weight:700">2 minutes left — please finish and submit.</p>
 <p id="counter"></p>
 <div id="qtext"></div>
 <div id="opts"></div>
@@ -225,6 +227,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div id="review"></div>
 <button class="homebtn" id="retrybtn" onclick="startRetry()" data-i18n="retry">Retry wrong questions</button>
 <button class="homebtn" id="sharebtn" onclick="shareResult()" data-i18n="shareResult">Share result on WhatsApp</button>
+<button class="homebtn" id="cardbtn" onclick="downloadScoreCard()">Download score card</button>
 <button class="homebtn" id="reportbtn" onclick="reportMistake()" data-i18n="report">Report a mistake in this test</button>
 <button class="homebtn" onclick="goHome()" data-i18n="backHome">Back to Home</button>
 </section>
@@ -4690,6 +4693,7 @@ let activeQs=null, learnMode=false, testLearn=false;
 const letters=['A','B','C','D'];
 let studentName="";
 function queueResult(payload){ try{ var q=JSON.parse(localStorage.getItem('mcqResultQueue')||'[]'); q.push(payload); q=q.slice(-50); localStorage.setItem('mcqResultQueue', JSON.stringify(q)); }catch(e){} }
+const PERQ_ENTRY_ID='';
 function sendResultPayload(payload, allowQueue){
   try{
     const body=new URLSearchParams();
@@ -4698,6 +4702,7 @@ function sendResultPayload(payload, allowQueue){
     body.append('entry.1716719252', String(payload.score));
     body.append('entry.270177342', String(payload.pct));
     body.append('entry.1703878082', payload.date);
+    if(payload.detail && PERQ_ENTRY_ID) body.append('entry.'+PERQ_ENTRY_ID, payload.detail);
     body.append('fvv','1'); body.append('draftResponse','[]'); body.append('pageHistory','0'); body.append('fbzx','1284267405081931998');
     var pr=fetch('https://docs.google.com/forms/d/e/1FAIpQLSfMGZXvdzqOO_fa2V5AW3sDqa86zWKTEu6UhiFQNGPJ6X-wdw/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
     if(pr && typeof pr.catch==='function'){ pr.catch(function(){ if(allowQueue) queueResult(payload); }); }
@@ -4711,10 +4716,10 @@ function flushResultQueue(){
     q.forEach(function(payload){ sendResultPayload(payload, true); });
   }catch(e){}
 }
-function sendResult(sc,total,title){
+function sendResult(sc,total,title,detail){
   const d=new Date();
   const dateStr=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
-  sendResultPayload({name:studentName, title:title, score:sc, total:total, pct:Math.round(sc/total*100), date:dateStr}, true);
+  sendResultPayload({name:studentName, title:title, score:sc, total:total, pct:Math.round(sc/total*100), date:dateStr, detail:detail}, true);
 }
 const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':['gk1','gk2','gk3']};
 const CLASS_NAMES={'vi':'Class VI','vii':'Class VII','viii':'Class VIII','ix':'Class IX','x':'Class X','gk':'General Knowledge'};
@@ -4794,7 +4799,7 @@ function startMockTest(cls){
   answers=new Array(activeQs.length).fill(null);
   flagged=new Array(activeQs.length).fill(false); retryMode=false;
   secondsLeft=10*60;
-  document.getElementById('timer').textContent='10:00'; document.getElementById('timer').classList.remove('warn');
+  document.getElementById('timer').textContent='10:00'; document.getElementById('timer').classList.remove('warn'); var _tw0=document.getElementById('timewarn'); if(_tw0) _tw0.classList.add('hidden');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden');
@@ -4837,6 +4842,7 @@ function showSubject(cls, subj){
   currentClass=cls; currentSubject=subj;
   renderTestList(cls, CLASS_NAMES[cls]+' — '+subj, CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===subj; }));
   if(typeof renderSubjectMaterial!=='undefined'){ renderSubjectMaterial(cls, subj); }
+  renderMyNotes(cls, subj);
 }
 function renderTestList(cls, title, keys){
   var _sm=document.getElementById('subjectmaterial'); if(_sm) _sm.innerHTML='';
@@ -4879,7 +4885,7 @@ function startTest(key){
   answers=new Array(activeQs.length).fill(null);
   flagged=new Array(activeQs.length).fill(false); retryMode=false;
   secondsLeft=(QUESTIONS[key].minutes||10)*60;
-  document.getElementById('timer').textContent=String(Math.floor(secondsLeft/60)).padStart(2,'0')+':'+String(secondsLeft%60).padStart(2,'0'); document.getElementById('timer').classList.remove('warn');
+  document.getElementById('timer').textContent=String(Math.floor(secondsLeft/60)).padStart(2,'0')+':'+String(secondsLeft%60).padStart(2,'0'); document.getElementById('timer').classList.remove('warn'); var _tw0=document.getElementById('timewarn'); if(_tw0) _tw0.classList.add('hidden');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden');
@@ -4910,6 +4916,7 @@ function tick(){
   const m=String(Math.floor(secondsLeft/60)).padStart(2,'0'), s=String(secondsLeft%60).padStart(2,'0');
   const el=document.getElementById('timer'); el.textContent=m+':'+s;
   if(secondsLeft<=60) el.classList.add('warn');
+  var _tw=document.getElementById('timewarn'); if(_tw && secondsLeft<=120) _tw.classList.remove('hidden');
   if(secondsLeft<=0){ clearInterval(timerId); submitTest(true); }
 }
 function optHtml(o){ return /[\u0600-\u06FF]/.test(o)?o:'<span class="m">'+o+'</span>'; }
@@ -4966,10 +4973,11 @@ function submitTest(auto){
   const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=testInfo().dir;
   lastScore=score; lastTotal=qs.length;
   if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
-  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ saveBest(testKey, score); sendResult(score, qs.length, testInfo().title); saveHist(testKey, score, qs.length); }
+  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); }
   document.getElementById('scorenote').textContent=(demoMode?tr('demoNote')+' ':(retryMode?tr('retryNote'):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):''))))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(demoMode||retryMode||lastWrong.length===0)?'none':'block';
   var _sb=document.getElementById('sharebtn'); if(_sb) _sb.style.display=demoMode?'none':'block';
+  var _cb=document.getElementById('cardbtn'); if(_cb) _cb.style.display=demoMode?'none':'block';
   var _pb2=document.getElementById('reportbtn'); if(_pb2) _pb2.style.display=demoMode?'none':'block';
   let html='';
   qs.forEach((q,i)=>{
@@ -4984,6 +4992,43 @@ function submitTest(auto){
   window.scrollTo(0,0);
 }
 function shareResult(){ if(!testKey||!lastTotal) return; var pct=Math.round(lastScore/lastTotal*100); var msg=studentName+' \u2014 '+testInfo().title+': '+lastScore+' / '+lastTotal+' ('+pct+'%) \u2014 Try our school MCQ practice tests: https://Nasar1234567890.github.io/Nasarullah/'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
+
+function notesKey(cls, subj){ return 'mcqNotes_'+cls+'_'+subj; }
+function renderMyNotes(cls, subj){
+  var box=document.getElementById('mynotes'); if(!box) return;
+  var saved=''; try{ saved=localStorage.getItem(notesKey(cls, subj))||''; }catch(e){}
+  box.innerHTML='<h3>My notes for this subject</h3><textarea id="mynotestext" rows="4" style="width:100%" placeholder="Type your own revision notes here" oninput="saveMyNotes()"></textarea><p class="note">Saved on this phone only. Nothing is sent to your teacher.</p>';
+  var ta=document.getElementById('mynotestext'); if(ta) ta.value=saved;
+}
+function saveMyNotes(){
+  var ta=document.getElementById('mynotestext'); if(!ta || !currentClass || !currentSubject) return;
+  try{ localStorage.setItem(notesKey(currentClass, currentSubject), ta.value); }catch(e){}
+}
+function downloadScoreCard(){
+  if(!testKey||!lastTotal) return;
+  var pct=Math.round(lastScore/lastTotal*100);
+  var cv=document.createElement('canvas'); cv.width=900; cv.height=540;
+  var ctx=cv.getContext('2d'); ctx.fillStyle='#ffffff'; ctx.fillRect(0,0,900,540);
+  ctx.fillStyle='#1a4d2e'; ctx.fillRect(0,0,900,110);
+  ctx.fillStyle='#ffffff'; ctx.font='700 34px sans-serif'; ctx.textAlign='center';
+  ctx.fillText('GOVERNMENT BOYS LOWER SECONDARY SCHOOL', 450, 48);
+  ctx.fillText('HASEEJA MAHAR', 450, 88);
+  ctx.fillStyle='#222222'; ctx.font='28px sans-serif';
+  var title=testInfo().title; var words=title.split(' '); var lines=[], cur='';
+  words.forEach(function(w){ var t=cur?cur+' '+w:w; if(ctx.measureText(t).width>800 && cur){ lines.push(cur); cur=w; } else cur=t; });
+  if(cur) lines.push(cur);
+  var y=160; lines.forEach(function(l){ ctx.fillText(l, 450, y); y+=38; });
+  ctx.font='26px sans-serif'; ctx.fillText(studentName, 450, y+20);
+  ctx.font='700 72px sans-serif'; ctx.fillStyle='#1a4d2e';
+  ctx.fillText(lastScore+' / '+lastTotal, 450, y+110);
+  ctx.font='30px sans-serif'; ctx.fillStyle='#222222';
+  ctx.fillText(pct+'% correct', 450, y+160);
+  ctx.font='22px sans-serif'; ctx.fillStyle='#555555';
+  ctx.fillText('MCQ Practice Test  \u00b7  '+(new Date()).toISOString().slice(0,10), 450, y+205);
+  var a=document.createElement('a');
+  if(cv.toBlob){ cv.toBlob(function(b){ if(!b) return; var u=URL.createObjectURL(b); a.href=u; a.download='score-card.png'; a.click(); setTimeout(function(){ URL.revokeObjectURL(u); }, 5000); }); }
+  else { a.href=cv.toDataURL('image/png'); a.download='score-card.png'; a.click(); }
+}
 function goHome(){
   clearInterval(timerId); refreshPausedButton(); renderWeak();
   document.getElementById('result').classList.add('hidden');
@@ -5033,7 +5078,7 @@ function resumePaused(){
   document.getElementById('testtitle').textContent=testInfo().title;
   document.getElementById('test').dir=testInfo().dir;
   document.getElementById('timer').textContent=String(Math.floor(Math.max(0,secondsLeft)/60)).padStart(2,'0')+':'+String(Math.max(0,secondsLeft)%60).padStart(2,'0');
-  document.getElementById('timer').classList.remove('warn');
+  document.getElementById('timer').classList.remove('warn'); var _tw0=document.getElementById('timewarn'); if(_tw0) _tw0.classList.add('hidden');
   render(); clearInterval(timerId);
   if(secondsLeft<=0){ submitTest(true); } else { timerId=setInterval(tick,1000); }
 }
