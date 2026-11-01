@@ -100,7 +100,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <body>
 <header>
 <h1>GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h1>
-<p style="background:#fef3c7;color:#14532d;padding:8px 12px;border-radius:8px;font-weight:700">Mid-term exams start Monday 2 November, 09:00 — check your seat slip for your room.</p>
+<p id="examNotice" style="background:#fef3c7;color:#14532d;padding:8px 12px;border-radius:8px;font-weight:700">Mid-term exams start Monday 2 November, 09:00 — check your seat slip for your room.</p>
 <p id="examCountdown" style="font-weight:700"></p>
 <p>WEBSITE MADE BY: NASARULLAH MEMON</p>
 <p>MCQ Tests — Practice Tests</p>
@@ -109,6 +109,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <section id="home" class="card">
 <h2 data-i18n="homeHeading">Choose your class or section</h2>
 <p class="note" data-i18n="homeNote">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
+<p id="streakbox" class="note" style="font-weight:700"></p>
 <p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
 <button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; 7 subjects</small></button>
@@ -121,6 +122,9 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
 <a class="homebtn" style="display:block;text-align:center;text-decoration:none" href="https://wa.me/?text=Try%20our%20school%20MCQ%20practice%20tests%3A%20https%3A%2F%2FNasar1234567890.github.io%2FNasarullah%2F%20-%20GOVERNMENT%20BOYS%20LOWER%20SECONDARY%20SCHOOL%20HASEEJA%20MAHAR" data-i18n="shareHome">Share on WhatsApp</a>
 <button class="homebtn" onclick="showInstall()" data-i18n="installBtn">How to install the app</button>
+<button class="homebtn" onclick="showInstallPrompt()">Add to home screen</button>
+<button class="homebtn" onclick="showMyResults()">My results</button>
+<div id="installcard" style="display:none"></div>
 <h2 style="margin-top:18px" data-i18n="qotdHeading">Question of the Day</h2>
 <div id="qotdbox"></div>
 <p class="note"><label><b data-i18n="searchLabel">Search tests:</b> <input id="testSearch" type="text" placeholder="Type a test or topic" oninput="renderSearch()" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
@@ -129,7 +133,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div id="resumebox" class="hidden"><button class="homebtn" onclick="resumePaused()" data-i18n="resumeBtn">Resume your test</button></div>
 <button class="homebtn" onclick="showFlashcards()" data-i18n="flashcardsBtn">Flashcards</button>
 <button class="homebtn" onclick="startDemo()" data-i18n="demoBtn">Try a demo (3 questions)</button>
-<button class="homebtn" onclick="showTimetable()">Exam Timetable</button>
+<button class="homebtn" id="timetableBtn" onclick="showTimetable()">Exam Timetable</button>
 
 <section class="card" style="margin-top:16px">
 <h2 data-i18n="howToHeading">How to take a test</h2>
@@ -202,6 +206,13 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
 </section>
 
+<section id="myresults" class="card hidden">
+<h2>My results</h2>
+<p class="note">Your past Test scores on this phone only. Nothing is sent to your teacher from this page.</p>
+<div id="myresultslist"></div>
+<button class="homebtn" onclick="goHome()">Back to Home</button>
+</section>
+
 <section id="test" class="card hidden">
 <div class="topbar"><strong id="testtitle"></strong><span id="timer">10:00</span></div>
 <div id="progress"><div id="bar"></div></div>
@@ -224,6 +235,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <p id="resultname" style="text-align:center;font-size:18px;font-weight:700"></p>
 <div class="score" id="score"></div>
 <p id="scorenote" style="text-align:center"></p>
+<p id="newbest" class="note hidden" style="text-align:center;font-weight:700;color:#14532d">🎉 New best!</p>
 <div id="review"></div>
 <button class="homebtn" id="retrybtn" onclick="startRetry()" data-i18n="retry">Retry wrong questions</button>
 <button class="homebtn" id="sharebtn" onclick="shareResult()" data-i18n="shareResult">Share result on WhatsApp</button>
@@ -232,6 +244,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <button class="homebtn" onclick="goHome()" data-i18n="backHome">Back to Home</button>
 </section>
 </main>
+<div id="firstguide" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.55);z-index:99;align-items:center;justify-content:center"><div style="background:#fff;border-radius:14px;padding:20px;max-width:420px;margin:20px"><h2>Welcome! How to use this site</h2><ol class="note" style="line-height:1.8"><li>Type your name first.</li><li>Tap your class, then a subject, then a test.</li><li>Test mode has a timer and your score is sent to your teacher. Learn mode has no timer and is not recorded.</li><li>Your best score for each test is saved on this phone.</li></ol><button class="homebtn" onclick="dismissFirstGuide()">Got it</button></div></div>
 <script>
 const QUESTIONS = {
  "viii": {
@@ -4970,10 +4983,11 @@ function submitTest(auto){
   const qs=activeQs||QUESTIONS[testKey].questions;
   let score=0; qs.forEach((q,i)=>{ if(answers[i]===q.answer) score++; });
   document.getElementById('test').classList.add('hidden');
+  var _nb0=document.getElementById('newbest'); if(_nb0) _nb0.classList.add('hidden');
   const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=testInfo().dir;
   lastScore=score; lastTotal=qs.length;
   if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
-  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); }
+  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)) _nb.classList.remove('hidden'); }
   document.getElementById('scorenote').textContent=(demoMode?tr('demoNote')+' ':(retryMode?tr('retryNote'):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):''))))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(demoMode||retryMode||lastWrong.length===0)?'none':'block';
   var _sb=document.getElementById('sharebtn'); if(_sb) _sb.style.display=demoMode?'none':'block';
@@ -5004,6 +5018,7 @@ function saveMyNotes(){
   var ta=document.getElementById('mynotestext'); if(!ta || !currentClass || !currentSubject) return;
   try{ localStorage.setItem(notesKey(currentClass, currentSubject), ta.value); }catch(e){}
 }
+function isNewBest(prev, score){ return prev!==null && score>prev; }
 function downloadScoreCard(){
   if(!testKey||!lastTotal) return;
   var pct=Math.round(lastScore/lastTotal*100);
@@ -5038,12 +5053,82 @@ function goHome(){
   document.getElementById('install').classList.add('hidden');
   var _fl=document.getElementById('flashcards'); if(_fl) _fl.classList.add('hidden');
   var _tt=document.getElementById('timetable'); if(_tt) _tt.classList.add('hidden');
+  var _mr=document.getElementById('myresults'); if(_mr) _mr.classList.add('hidden');
+  var _ic=document.getElementById('installcard'); if(_ic) _ic.style.display='none';
   document.getElementById('home').classList.remove('hidden');
 }
 function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
 function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n.getMonth(), n.getDate()); }
 function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+formatQuestion(pick.q.q)+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')">('+letters[i]+') '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
 function qotdAnswer(btn,i,ans){ var note=document.getElementById('qotdnote'); if(!note) return; if(i===ans){ btn.classList.add('learn-correct'); note.innerHTML='<span class="correct">'+tr('qotdCorrect')+'</span>'; } else { btn.classList.add('learn-wrong'); note.innerHTML='<span class="wrong">'+tr('qotdWrong')+' ('+letters[ans]+').</span>'; } }
+
+
+// ---- Batch 6: streak, my results, install prompt, first guide, exam tidy-up ----
+function localDayStr(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
+function recordPracticeDay(){
+  try{
+    var days=JSON.parse(localStorage.getItem('mcqPracticeDays')||'[]');
+    var today=localDayStr(new Date());
+    if(days.indexOf(today)===-1){ days.push(today); localStorage.setItem('mcqPracticeDays', JSON.stringify(days)); }
+  }catch(e){}
+}
+function getStreak(refDate){
+  var days=[]; try{ days=JSON.parse(localStorage.getItem('mcqPracticeDays')||'[]'); }catch(e){}
+  var set={}; days.forEach(function(d){ set[d]=1; });
+  var cur=refDate||new Date();
+  var curStr=localDayStr(cur);
+  if(!set[curStr]){ cur=new Date(cur.getTime()-86400000); curStr=localDayStr(cur); if(!set[curStr]) return 0; }
+  var n=0;
+  while(set[curStr]){ n++; cur=new Date(cur.getTime()-86400000); curStr=localDayStr(cur); }
+  return n;
+}
+function renderStreak(){
+  var box=document.getElementById('streakbox'); if(!box) return;
+  var s=getStreak();
+  box.textContent=s>0?('\uD83D\uDD25 Practice streak: '+s+' day'+(s===1?'':'s')+' \u2014 keep it going!'):'';
+}
+function showMyResults(){
+  ['home','classpage','subjectpage','test','result','install','flashcards','timetable'].forEach(function(id){ var el=document.getElementById(id); if(el) el.classList.add('hidden'); });
+  var sec=document.getElementById('myresults'); if(sec) sec.classList.remove('hidden');
+  var list=document.getElementById('myresultslist'); if(!list) return;
+  var html='';
+  Object.keys(QUESTIONS).forEach(function(k){
+    var h=getHist(k); if(!h.length) return;
+    var b=getBest(k);
+    html+='<h3>'+QUESTIONS[k].title+'</h3><p class="note">Best: '+(b===null?'-':b+'/'+QUESTIONS[k].questions.length)+' \u00b7 Past scores: '+h.map(function(r){ return r.s+'/'+r.t+' ('+r.p+'%) '+r.d; }).join(' \u00b7 ')+'</p>';
+  });
+  Object.keys(MOCKS).forEach(function(mc){
+    var h=getHist('mock'+mc); if(!h.length) return;
+    var b=getBest('mock'+mc);
+    html+='<h3>'+MOCKS[mc].title+'</h3><p class="note">Best: '+(b===null?'-':b+'/20')+' \u00b7 Past scores: '+h.map(function(r){ return r.s+'/'+r.t+' ('+r.p+'%) '+r.d; }).join(' \u00b7 ')+'</p>';
+  });
+  list.innerHTML=html||'<p class="note">No Test results yet on this phone. Take a test in Test mode and your scores will appear here.</p>';
+  window.scrollTo(0,0);
+}
+var deferredInstallPrompt=null;
+if(typeof window!=='undefined' && window.addEventListener){ window.addEventListener('beforeinstallprompt', function(e){ e.preventDefault(); deferredInstallPrompt=e; }); }
+function showInstallPrompt(){
+  if(deferredInstallPrompt){ var pr=deferredInstallPrompt; deferredInstallPrompt=null; pr.prompt(); return; }
+  var card=document.getElementById('installcard'); if(!card) return;
+  var ios=(typeof navigator!=='undefined' && /iphone|ipad|ipod/i.test(navigator.userAgent||''));
+  card.innerHTML='<h3>Add to home screen</h3><p class="note">'+(ios?'Tap the Share button in your browser, then tap \u201cAdd to Home Screen\u201d.':'Tap your browser menu (three dots), then tap \u201cAdd to Home Screen\u201d or \u201cInstall app\u201d.')+'</p><p class="note">This puts the practice site on your phone like an app, so you can open it with one tap.</p><button class="homebtn" onclick="hideInstallCard()">Close</button>';
+  card.style.display='block';
+}
+function hideInstallCard(){ var card=document.getElementById('installcard'); if(card) card.style.display='none'; }
+function showFirstGuideIfNeeded(){
+  var seen=false; try{ seen=!!localStorage.getItem('mcqGuideSeen'); }catch(e){}
+  if(seen) return;
+  var g=document.getElementById('firstguide'); if(g) g.style.display='flex';
+}
+function dismissFirstGuide(){
+  try{ localStorage.setItem('mcqGuideSeen','1'); }catch(e){}
+  var g=document.getElementById('firstguide'); if(g) g.style.display='none';
+}
+function tidyExamBits(nowMs){
+  var now=(typeof nowMs==='number'?nowMs:Date.now());
+  if(now < new Date('2026-11-07T00:00:00+05:00').getTime()) return;
+  ['examNotice','examCountdown','timetableBtn'].forEach(function(id){ var el=document.getElementById(id); if(el) el.style.display='none'; });
+}
 
 // ---- Next round: pause/resume, weak topics, search, flashcards, demo ----
 let demoMode=false, demoTest=null;
@@ -5229,6 +5314,9 @@ renderExamCountdown();
 flushResultQueue();
 refreshPausedButton();
 renderWeak();
+renderStreak();
+tidyExamBits();
+showFirstGuideIfNeeded();
 </script>
 </body>
 </html>
