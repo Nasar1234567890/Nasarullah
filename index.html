@@ -218,11 +218,13 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div id="progress"><div id="bar"></div></div>
 <p id="timewarn" class="note hidden" style="color:#b00020;font-weight:700">2 minutes left — please finish and submit.</p>
 <p id="counter"></p>
+<p class="note" id="targetrow">Target score: <input id="targetInput" type="number" min="1" style="width:70px;padding:6px"> <span id="targetTotal"></span></p>
 <div id="qtext"></div>
 <div id="opts"></div>
 <div id="explainbox" class="note explain hidden"></div>
 <div id="palette"></div>
 <button class="modebtn" id="flagbtn" onclick="toggleFlag()">Flag this question</button>
+<button class="modebtn" id="speakbtn" onclick="speakQuestion()">🔊 Read question</button>
 <div class="nav">
 <button onclick="move(-1)" data-i18n="prev">Previous</button>
 <button onclick="move(1)" data-i18n="next">Next</button>
@@ -236,6 +238,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div class="score" id="score"></div>
 <p id="scorenote" style="text-align:center"></p>
 <p id="newbest" class="note hidden" style="text-align:center;font-weight:700;color:#14532d">🎉 New best!</p>
+<p id="targetnote" class="note hidden" style="text-align:center;font-weight:700"></p>
 <div id="review"></div>
 <button class="homebtn" id="retrybtn" onclick="startRetry()" data-i18n="retry">Retry wrong questions</button>
 <button class="homebtn" id="sharebtn" onclick="shareResult()" data-i18n="shareResult">Share result on WhatsApp</button>
@@ -4820,7 +4823,7 @@ function startMockTest(cls){
   const t=document.getElementById('test'); t.classList.remove('hidden');
   document.getElementById('testtitle').textContent=mockTest.title+(testLearn?' \u2014 Learn mode':'');
   document.getElementById('test').dir=mockTest.dir;
-  render();
+  render(); initTargetRow(testKey, activeQs.length);
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
@@ -4906,7 +4909,7 @@ function startTest(key){
   const t=document.getElementById('test'); t.classList.remove('hidden');
   document.getElementById('testtitle').textContent=QUESTIONS[key].title+(testLearn?' — Learn mode':'');
   document.getElementById('test').dir=QUESTIONS[key].dir;
-  render();
+  render(); initTargetRow(key, activeQs.length);
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
@@ -4919,7 +4922,7 @@ function startRetry(){
   flagged=new Array(activeQs.length).fill(false);
   document.getElementById('result').classList.add('hidden');
   const t=document.getElementById('test'); t.classList.remove('hidden');
-  document.getElementById('testtitle').textContent=testInfo().title+' \u2014 '+tr('retryLabel');
+  document.getElementById('testtitle').textContent=testInfo().title+' \u2014 '+tr('retryLabel'); hideTargetRow();
   document.getElementById('test').dir=testInfo().dir;
   document.getElementById('timer').textContent=tr('retryLabel');
   clearInterval(timerId); render(); window.scrollTo(0,0);
@@ -4972,6 +4975,7 @@ function renderPaletteExplain(){
 }
 function toggleFlag(){ if(!testKey||!activeQs) return; flagged[idx]=!flagged[idx]; render(); }
 function move(d){
+  stopSpeech();
   const n=(activeQs||QUESTIONS[testKey].questions).length;
   idx=Math.min(n-1, Math.max(0, idx+d)); render();
 }
@@ -4979,7 +4983,8 @@ function submitTest(auto){
   if(submitted) return;
   const unanswered=answers.filter(a=>a===null).length;
   if(!auto && unanswered>0 && !confirm(unanswered+' '+(uiLang==='sd'?'سوالن جا جواب نه ڌنا ويا آهن. پوءِ به جمع ڪجي؟':'question(s) are unanswered. Submit anyway?'))) return;
-  submitted=true; clearInterval(timerId); clearPaused();
+  submitted=true; clearInterval(timerId); clearPaused(); stopSpeech();
+  var _tn0=document.getElementById('targetnote'); if(_tn0) _tn0.classList.add('hidden');
   const qs=activeQs||QUESTIONS[testKey].questions;
   let score=0; qs.forEach((q,i)=>{ if(answers[i]===q.answer) score++; });
   document.getElementById('test').classList.add('hidden');
@@ -4988,6 +4993,7 @@ function submitTest(auto){
   lastScore=score; lastTotal=qs.length;
   if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
   document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)) _nb.classList.remove('hidden'); }
+  applyTargetOnSubmit(score, qs.length, testKey);
   document.getElementById('scorenote').textContent=(demoMode?tr('demoNote')+' ':(retryMode?tr('retryNote'):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):''))))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(demoMode||retryMode||lastWrong.length===0)?'none':'block';
   var _sb=document.getElementById('sharebtn'); if(_sb) _sb.style.display=demoMode?'none':'block';
@@ -5062,6 +5068,52 @@ function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n
 function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+formatQuestion(pick.q.q)+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')">('+letters[i]+') '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
 function qotdAnswer(btn,i,ans){ var note=document.getElementById('qotdnote'); if(!note) return; if(i===ans){ btn.classList.add('learn-correct'); note.innerHTML='<span class="correct">'+tr('qotdCorrect')+'</span>'; } else { btn.classList.add('learn-wrong'); note.innerHTML='<span class="wrong">'+tr('qotdWrong')+' ('+letters[ans]+').</span>'; } }
 
+
+
+// ---- Suggestions: read questions aloud + target score ----
+function stripHtml(t){ return String(t).replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim(); }
+function stopSpeech(){ try{ if(typeof speechSynthesis!=='undefined' && speechSynthesis.cancel) speechSynthesis.cancel(); }catch(e){} }
+function speakQuestion(){
+  try{
+    var qs=activeQs||(testKey && QUESTIONS[testKey] ? QUESTIONS[testKey].questions : null);
+    if(!qs || !qs[idx]) return;
+    if(typeof speechSynthesis==='undefined' || typeof SpeechSynthesisUtterance==='undefined') return;
+    stopSpeech();
+    var q=qs[idx];
+    var parts=['Question: '+stripHtml(q.q)];
+    q.options.forEach(function(o,i){ parts.push('Option '+letters[i]+': '+stripHtml(o)); });
+    var u=new SpeechSynthesisUtterance(parts.join(' '));
+    u.lang=(typeof testInfo!=='undefined' && testInfo().dir==='rtl') ? 'ur' : 'en';
+    speechSynthesis.speak(u);
+  }catch(e){}
+}
+function targetKey(k){ return 'mcqTarget_'+k; }
+function getTarget(k){ try{ var v=localStorage.getItem(targetKey(k)); return v===null?null:parseInt(v,10); }catch(e){ return null; } }
+function targetMessage(score, total, target){
+  if(target===null || isNaN(target) || target<1 || target>total) return '';
+  if(score>=target) return '\uD83C\uDFAF Target reached! ('+target+'/'+total+')';
+  return 'Target: '+target+'/'+total+' \u2014 '+(target-score)+' mark'+((target-score)===1?'':'s')+' short.';
+}
+function initTargetRow(key, total){
+  var row=document.getElementById('targetrow'); if(!row) return;
+  row.style.display='block';
+  var inp=document.getElementById('targetInput'); var tot=document.getElementById('targetTotal');
+  if(tot) tot.textContent='/ '+total;
+  var saved=getTarget(key);
+  if(inp) inp.value=(saved!==null ? saved : '');
+}
+function hideTargetRow(){ var row=document.getElementById('targetrow'); if(row) row.style.display='none'; }
+function applyTargetOnSubmit(score, total, key){
+  var note=document.getElementById('targetnote'); if(!note) return;
+  note.classList.add('hidden');
+  var row=document.getElementById('targetrow'); if(row && row.style.display==='none') return;
+  var inp=document.getElementById('targetInput'); if(!inp) return;
+  var target=parseInt(inp.value, 10);
+  if(isNaN(target) || target<1 || target>total) return;
+  try{ localStorage.setItem(targetKey(key), String(target)); }catch(e){}
+  var msg=targetMessage(score, total, target);
+  if(msg){ note.textContent=msg; note.classList.remove('hidden'); }
+}
 
 // ---- Batch 6: streak, my results, install prompt, first guide, exam tidy-up ----
 function localDayStr(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
@@ -5290,7 +5342,7 @@ function startDemo(){
   document.getElementById('subjectpage').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   const t=document.getElementById('test'); t.classList.remove('hidden');
-  document.getElementById('testtitle').textContent='Demo Test';
+  document.getElementById('testtitle').textContent='Demo Test'; hideTargetRow();
   document.getElementById('test').dir='ltr';
   document.getElementById('timer').textContent=tr('demoNote');
   clearInterval(timerId); render(); window.scrollTo(0,0);
