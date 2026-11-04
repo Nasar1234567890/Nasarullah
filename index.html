@@ -98,6 +98,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 </style>
 </head>
 <body>
+<div id="offlinebanner" style="display:none;background:#b91c1c;color:#fff;text-align:center;padding:8px;font-weight:700">You are offline — results will be sent later once you are back online.</div>
 <header>
 <h1>GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h1>
 <p id="examNotice" style="background:#fef3c7;color:#14532d;padding:8px 12px;border-radius:8px;font-weight:700">Mid-term exams start Monday 2 November, 09:00 — check your seat slip for your room.</p>
@@ -110,6 +111,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <h2 data-i18n="homeHeading">Choose your class or section</h2>
 <p class="note" data-i18n="homeNote">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
 <p id="streakbox" class="note" style="font-weight:700"></p>
+<div id="goalbox" class="note"></div>
 <p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
 <button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; 7 subjects</small></button>
@@ -4992,7 +4994,7 @@ function submitTest(auto){
   const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=testInfo().dir;
   lastScore=score; lastTotal=qs.length;
   if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
-  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)) _nb.classList.remove('hidden'); }
+  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); recordWeekTest(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)) _nb.classList.remove('hidden'); }
   applyTargetOnSubmit(score, qs.length, testKey);
   document.getElementById('scorenote').textContent=(demoMode?tr('demoNote')+' ':(retryMode?tr('retryNote'):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):''))))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(demoMode||retryMode||lastWrong.length===0)?'none':'block';
@@ -5051,7 +5053,7 @@ function downloadScoreCard(){
   else { a.href=cv.toDataURL('image/png'); a.download='score-card.png'; a.click(); }
 }
 function goHome(){
-  clearInterval(timerId); refreshPausedButton(); renderWeak();
+  clearInterval(timerId); refreshPausedButton(); renderWeak(); renderGoal();
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
@@ -5115,6 +5117,52 @@ function applyTargetOnSubmit(score, total, key){
   if(msg){ note.textContent=msg; note.classList.remove('hidden'); }
 }
 
+
+// ---- Suggestions 4, 5, 6: progress bars, offline notice, weekly goal ----
+function scoreBars(h){
+  return h.map(function(r){
+    return '<p class="note" style="margin:2px 0">'+r.d+': '+r.s+'/'+r.t+' ('+r.p+'%)</p><div style="background:#e5e7eb;border-radius:6px;height:12px;margin:2px 0 10px"><div style="background:#14532d;height:12px;border-radius:6px;width:'+r.p+'%"></div></div>';
+  }).join('');
+}
+function updateOfflineBanner(){
+  var b=document.getElementById('offlinebanner'); if(!b) return;
+  var off=(typeof navigator!=='undefined' && navigator.onLine===false);
+  b.style.display=off?'block':'none';
+}
+if(typeof window!=='undefined' && window.addEventListener){ window.addEventListener('online', updateOfflineBanner); window.addEventListener('offline', updateOfflineBanner); }
+function mondayStr(ref){
+  var d=ref||new Date(); var day=d.getDay();
+  var mon=new Date(d.getFullYear(), d.getMonth(), d.getDate()-((day+6)%7));
+  return localDayStr(mon);
+}
+function recordWeekTest(){
+  try{
+    var arr=JSON.parse(localStorage.getItem('mcqWeekTests')||'[]');
+    arr.push(localDayStr(new Date())); if(arr.length>200) arr=arr.slice(-200);
+    localStorage.setItem('mcqWeekTests', JSON.stringify(arr));
+  }catch(e){}
+}
+function countWeekTests(refDate){
+  var arr=[]; try{ arr=JSON.parse(localStorage.getItem('mcqWeekTests')||'[]'); }catch(e){}
+  var mon=mondayStr(refDate); var n=0;
+  arr.forEach(function(ds){ if(ds>=mon) n++; });
+  return n;
+}
+function getWeeklyGoal(){
+  try{ var v=parseInt(localStorage.getItem('mcqWeeklyGoal'),10); return (isNaN(v)||v<1)?3:v; }catch(e){ return 3; }
+}
+function setWeeklyGoal(v){
+  var n=parseInt(v,10); if(isNaN(n)||n<1) n=3; if(n>21) n=21;
+  try{ localStorage.setItem('mcqWeeklyGoal', String(n)); }catch(e){}
+  renderGoal();
+}
+function renderGoal(){
+  var box=document.getElementById('goalbox'); if(!box) return;
+  var goal=getWeeklyGoal(); var done=countWeekTests();
+  var pct=goal>0?Math.min(100, Math.round(done/goal*100)):0;
+  box.innerHTML='<b>\uD83C\uDFAF Weekly goal:</b> '+done+' / '+goal+' tests this week <input type="number" min="1" max="21" value="'+goal+'" onchange="setWeeklyGoal(this.value)" style="width:60px;padding:4px"> <div style="background:#e5e7eb;border-radius:6px;height:12px;margin-top:6px"><div style="background:#14532d;height:12px;border-radius:6px;width:'+pct+'%"></div></div>';
+}
+
 // ---- Batch 6: streak, my results, install prompt, first guide, exam tidy-up ----
 function localDayStr(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
 function recordPracticeDay(){
@@ -5147,12 +5195,12 @@ function showMyResults(){
   Object.keys(QUESTIONS).forEach(function(k){
     var h=getHist(k); if(!h.length) return;
     var b=getBest(k);
-    html+='<h3>'+QUESTIONS[k].title+'</h3><p class="note">Best: '+(b===null?'-':b+'/'+QUESTIONS[k].questions.length)+' \u00b7 Past scores: '+h.map(function(r){ return r.s+'/'+r.t+' ('+r.p+'%) '+r.d; }).join(' \u00b7 ')+'</p>';
+    html+='<h3>'+QUESTIONS[k].title+'</h3><p class="note">Best: '+(b===null?'-':b+'/'+QUESTIONS[k].questions.length)+'</p>'+scoreBars(h);
   });
   Object.keys(MOCKS).forEach(function(mc){
     var h=getHist('mock'+mc); if(!h.length) return;
     var b=getBest('mock'+mc);
-    html+='<h3>'+MOCKS[mc].title+'</h3><p class="note">Best: '+(b===null?'-':b+'/20')+' \u00b7 Past scores: '+h.map(function(r){ return r.s+'/'+r.t+' ('+r.p+'%) '+r.d; }).join(' \u00b7 ')+'</p>';
+    html+='<h3>'+MOCKS[mc].title+'</h3><p class="note">Best: '+(b===null?'-':b+'/20')+'</p>'+scoreBars(h);
   });
   list.innerHTML=html||'<p class="note">No Test results yet on this phone. Take a test in Test mode and your scores will appear here.</p>';
   window.scrollTo(0,0);
@@ -5366,7 +5414,7 @@ renderExamCountdown();
 flushResultQueue();
 refreshPausedButton();
 renderWeak();
-renderStreak();
+renderStreak(); renderGoal(); updateOfflineBanner();
 tidyExamBits();
 showFirstGuideIfNeeded();
 </script>
