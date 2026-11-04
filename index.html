@@ -120,7 +120,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <button class="testbtn en" onclick="showClass('viii')">Class VIII<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('ix')">Class IX<small>2 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; 7 subjects &middot; Study Material</small></button>
-<button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>3 tests &middot; GK 1st Test, Sindh GK Test 1, Sindh GK Test 2</small></button>
+<button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>5 tests &middot; GK 1st Test, Sindh GK Test 1, Sindh GK Test 2, Sindh GK Test 3, Sindh GK Test 4</small></button>
 <p class="note" data-i18n="tip">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
 <p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <button class="modebtn" id="fontXLargeBtn" onclick="setFontSize('xlarge')" data-i18n="xlarge">Extra Large</button> <span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button> <span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button></p>
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
@@ -3706,7 +3706,7 @@ const QUESTIONS = {
  "gk2": {
  "title": "Sindh GK Test 1",
  "dir": "rtl",
- "minutes": 30,
+ "minutes": 25,
  "questions": [
   {
    "answer": 2,
@@ -4213,7 +4213,7 @@ const QUESTIONS = {
  "gk3": {
  "title": "Sindh GK Test 2",
  "dir": "rtl",
- "minutes": 30,
+ "minutes": 25,
  "questions": [
   {
    "answer": 2,
@@ -4716,6 +4716,420 @@ const QUESTIONS = {
    "q": "سنڌ جي روايتي ۽ قومي راند ڪهڙي آهي؟"
   }
  ]
+ },
+ "gk4": {
+ "dir": "rtl",
+ "minutes": 10,
+ "questions": [
+  {
+   "answer": 1,
+   "options": [
+    "حيدرآباد",
+    "ڪراچي",
+    "سکر",
+    "لاڙڪاڻو"
+   ],
+   "q": "سنڌ جي گاديءَ جو هنڌ ڪهڙو آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "عربي سمنڊ",
+    "ڪاسپين سمنڊ",
+    "هندي وڏو سمنڊ",
+    "ڳاڙهو سمنڊ"
+   ],
+   "q": "سنڌو درياهه ڪتي چوڙ ڪري ٿو؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "سيوهڻ",
+    "بيت شاهه",
+    "ٺٽو",
+    "هالا"
+   ],
+   "q": "شاهه عبداللطيف ڀٽائيءَ جو مقبرو ڪتي آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "لاهور",
+    "ڪراچي",
+    "ملتان",
+    "پشاور"
+   ],
+   "q": "پاڪستان جو سڀ کان وڏو شهر ڪهڙو آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "دادو",
+    "لاڙڪاڻو",
+    "ٺٽو",
+    "بدين"
+   ],
+   "q": "سنڌ جو قديم شهر مون جو دڙو ڪهڙي ضلعي ۾ آهي؟"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "پنجاب",
+    "بلوچستان",
+    "سنڌ",
+    "خيبر پختونخوا"
+   ],
+   "q": "باب الاسلام ڪهڙي صوبي کي چيو وڃي ٿو؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "ڄامشورو",
+    "دادو",
+    "ٺٽو",
+    "قمبر شهدادڪوٽ"
+   ],
+   "q": "منڇر ڍنڍ ڪهڙي ضلعي ۾ واقع آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "ڄامشورو",
+    "ڪراچي",
+    "حيدرآباد",
+    "خيرپور"
+   ],
+   "q": "سنڌ جي سڀ کان وڏي يونيورسٽي ڪتي آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "جهلم",
+    "سنڌو درياهه",
+    "راوي",
+    "چناب"
+   ],
+   "q": "سکر بئراج ڪهڙي نديءَ تي ٺهيل آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "712ع",
+    "710ع",
+    "715ع",
+    "720ع"
+   ],
+   "q": "محمد بن قاسم سنڌ ڪڏهن فتح ڪئي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "پينٽ شرٽ",
+    "اجرڪ ۽ سنڌي ٽوپي",
+    "ڪادي",
+    "پڳڙي"
+   ],
+   "q": "سنڌ جو علائقائي لباس چا کي سمجهيو ويندو آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "سيوهڻ",
+    "مٽياري",
+    "ڪراچي",
+    "ٿل"
+   ],
+   "q": "لال شهباز قلندر جو مقبرو ڪتي آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "دادو",
+    "سکر",
+    "گهوٽڪي",
+    "ميرپورخاص"
+   ],
+   "q": "گورک هل اسٽيشن ڪهڙي ضلعي ۾ آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "بادشاهي مسجد",
+    "شاهجهان مسجد",
+    "فيصل مسجد",
+    "موتي مسجد"
+   ],
+   "q": "ٺٽي ۾ ڪهڙي مشهور مسجد آهي؟"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "شاهه عبداللطيف",
+    "سچل سرمست",
+    "قاضي قادن",
+    "شيخ اياز"
+   ],
+   "q": "سنڌي ٻوليءَ جو پهريون شاعر ڪنهن کي مڃيو وڃي ٿو؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "مڪلي",
+    "چوڪنڊي",
+    "ميرپور ٻٺورو",
+    "ملير"
+   ],
+   "q": "دنيا جو سڀ کان وڏو قبرستان ڪتي آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "ڄامشورو",
+    "دادو",
+    "ڪراچي",
+    "سکر"
+   ],
+   "q": "رني ڪوٽ قلعو ڪهڙي ضلعي ۾ آهي؟"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "پنجاب",
+    "بلوچستان",
+    "سنڌ",
+    "خيبر پختونخوا"
+   ],
+   "q": "ٿر جو ريگستان ڪهڙي صوبي ۾ آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "ڪينجهر",
+    "منڇر",
+    "هاليجي",
+    "حمل"
+   ],
+   "q": "سنڌ جي سڀ کان وڏي ڍنڍ ڪهڙي آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "خانڳڙهه",
+    "نيرون ڪوٽ",
+    "محمود آباد",
+    "محمد بن قاسم"
+   ],
+   "q": "حيدرآباد جو پراڻو نالو چا هو؟"
+  }
+ ],
+ "title": "Sindh GK Test 3"
+},
+ "gk5": {
+ "dir": "rtl",
+ "minutes": 10,
+ "questions": [
+  {
+   "answer": 0,
+   "options": [
+    "ٺٽو",
+    "دادو",
+    "ڄامشورو",
+    "ڪراچي"
+   ],
+   "q": "ڪينجهر ڍنڍ ڪهڙي ضلعي ۾ آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "دراز شريف (خيرپور)",
+    "بيت شاهه",
+    "سيوهڻ",
+    "هالا"
+   ],
+   "q": "سچل سرمست جو مقبرو ڪتي آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "اردو",
+    "سنڌي",
+    "بلوچي",
+    "انگريزي"
+   ],
+   "q": "سنڌ جي سرڪاري ٻولي ڪهڙي آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "عربي سمنڊ",
+    "ڳاڙهو سمنڊ",
+    "ميڊيٽرينين سمنڊ",
+    "ڪارو سمنڊ"
+   ],
+   "q": "ڪراچي ڪهڙي سمنڊ جي ڪناري تي واقع آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "ملير (ڪراچي)",
+    "ٺٽو",
+    "حيدرآباد",
+    "لاڙڪاڻو"
+   ],
+   "q": "چوڪنڊي جو مقبرو ڪتي آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "نيرون ڪوٽ",
+    "خانڳڙهه",
+    "شڪارپور",
+    "ڪوٽڏيجي"
+   ],
+   "q": "جيڪب آباد جو پراڻو نالو چا هو؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "خيرپور",
+    "سکر",
+    "گهوٽڪي",
+    "نوشهرو فيروز"
+   ],
+   "q": "ڪوٽ ڏيجي جو قلعو ڪتي واقع آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "3180 ڪلوميٽر",
+    "2000 ڪلوميٽر",
+    "2500 ڪلوميٽر",
+    "1500 ڪلوميٽر"
+   ],
+   "q": "سنڌو نديءَ جي ڪل ڊيگهه لڳ ڀڳ ڪيتري آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "لاهور",
+    "ڪراچي",
+    "زيارت",
+    "اسلام آباد"
+   ],
+   "q": "قائد اعظم محمد علي جناح ڪتي پيدا ٿيو؟"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "راولپنڊي",
+    "اسلام آباد",
+    "ڪراچي",
+    "ڍاڪا"
+   ],
+   "q": "پاڪستان جو پهريون دارالحڪومت ڪهڙو شهر هو؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "ڀنگڙا",
+    "هو جمالو",
+    "کٽڪ ڊانس",
+    "لڏي"
+   ],
+   "q": "سنڌ جو مشهور لوڪ ناچ ڪهڙو آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "شاهه جو رسالو",
+    "ديوان",
+    "ڪليات",
+    "پيغام"
+   ],
+   "q": "شاهه عبداللطيف ڀٽائي جي ڪلام جي مجموعي کي چا چئبو آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "ٺٽو",
+    "بدين",
+    "سکر",
+    "ڪراچي"
+   ],
+   "q": "مڪليءَ جون ٽڪريون ڪهڙي شهر جي ويجهو آهن؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "1932ع",
+    "1947ع",
+    "1920ع",
+    "1955ع"
+   ],
+   "q": "سکر بئراج ڪڏهن ٺهي مڪمل ٿيو؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "ٽيڪسٽائيل (ڪپڙو)",
+    "کير",
+    "لوهه",
+    "گاڏيون"
+   ],
+   "q": "سنڌ جي سڀ کان وڏي صنعت ڪهڙي آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "ٺٽو",
+    "ڪراچي",
+    "حيدرآباد",
+    "ڄامشورو"
+   ],
+   "q": "هاليجي ڍنڍ ڪهڙي ضلعي ۾ آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "29",
+    "30",
+    "25",
+    "27"
+   ],
+   "q": "سنڌ ۾ وقت ڪل ڪيترا ضلعا آهن؟"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "لاهور",
+    "اسلام آباد",
+    "ڪراچي",
+    "پشاور"
+   ],
+   "q": "قائد اعظم جي مزار ڪتي آهي؟"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "مارخور",
+    "سنڌي آبيبڪس (گورپٽ)",
+    "شينهن",
+    "هرڻ"
+   ],
+   "q": "سنڌ جو صوبائي جانور ڪهڙو آهي؟"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "راجا ڏاهر",
+    "راجا پورس",
+    "راجا يوج",
+    "راجا جنپال"
+   ],
+   "q": "محمد بن قاسم ڪهڙي مقامي حڪمران کي شڪست ڏني هئي؟"
+  }
+ ],
+ "title": "Sindh GK Test 4"
 }
 };
 </script>
@@ -4755,11 +5169,11 @@ function sendResult(sc,total,title,detail){
   const dateStr=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
   sendResultPayload({name:studentName, title:title, score:sc, total:total, pct:Math.round(sc/total*100), date:dateStr, detail:detail}, true);
 }
-const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':['gk1','gk2','gk3']};
+const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':['gk1','gk2','gk3','gk4','gk5']};
 const CLASS_NAMES={'vi':'Class VI','vii':'Class VII','viii':'Class VIII','ix':'Class IX','x':'Class X','gk':'General Knowledge'};
 const CLASS_SUBJECTS={'vi':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'vii':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'viii':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'ix':['English','Mathematics','Chemistry','Physics','Biology','Islamiat','Sindhi'],'x':['English','Mathematics','Physics','Biology','Chemistry','Urdu Salees','Pakistan Study']};
 const TEST_SUBJECT={'visci':'Science','vieng':'English','visoc':'Social Studies','viieng':'English','viisoc':'Social Studies','viii':'Mathematics','viiieng':'English','viiisoc':'Social Studies','ix':'Mathematics','ixeng':'English','x':'Mathematics','xeng':'English','xstbb':'English'};
-const TOPICS={'viii':'Sets, Real Numbers, Number System, Polynomials','ix':'Real & Complex Numbers, Logarithms, Algebraic Expressions, Factorization','x':'Sets & Functions, Variations, Matrices, Quadratic Equations','xeng':'English Units 1-4, Voice, Narration','visci':'Science Chapters 1-2','vieng':'English Units 1-4','viieng':'English Units 1-4','viiieng':'English Units 1-4','ixeng':'English Units 1-4','xstbb':'English Units 1-4','visoc':'Geography, Indus Valley, Early History','viisoc':'Medieval History, Mughals, Geography','viiisoc':'Freedom Movement, Pakistan Studies','gk1':'Nouns, Nominalisation, Possession, Pronouns','gk2':'Sindh Geography & History','gk3':'Sindh Culture, Literature & Historic Sites'};
+const TOPICS={'viii':'Sets, Real Numbers, Number System, Polynomials','ix':'Real & Complex Numbers, Logarithms, Algebraic Expressions, Factorization','x':'Sets & Functions, Variations, Matrices, Quadratic Equations','xeng':'English Units 1-4, Voice, Narration','visci':'Science Chapters 1-2','vieng':'English Units 1-4','viieng':'English Units 1-4','viiieng':'English Units 1-4','ixeng':'English Units 1-4','xstbb':'English Units 1-4','visoc':'Geography, Indus Valley, Early History','viisoc':'Medieval History, Mughals, Geography','viiisoc':'Freedom Movement, Pakistan Studies','gk1':'Nouns, Nominalisation, Possession, Pronouns','gk2':'Sindh Geography & History','gk3':'Sindh Culture, Literature & Historic Sites','gk4':'Sindh Cities, Rivers, History & Culture','gk5':'Sindh Lakes, Forts, Poets & Leaders'};
 function shuffleArr(a){ var arr=a.slice(); for(var i=arr.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var tmp=arr[i]; arr[i]=arr[j]; arr[j]=tmp; } return arr; }
 const EXPLAIN_XENG=[
 "Little Things says small acts of kindness, not wealth or big houses, are what make life happy.",
@@ -4885,7 +5299,7 @@ function renderTestList(cls, title, keys){
   document.getElementById('subjectback').textContent=(cls==='gk'?tr('backHome'):tr('backSubjects'));
   document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':keys.map(function(k){
     var t=QUESTIONS[k];
-    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button>';
+    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'||k==='gk4'||k==='gk5'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button>';
   }).join('');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
