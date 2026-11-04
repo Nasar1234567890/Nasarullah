@@ -120,7 +120,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <button class="testbtn en" onclick="showClass('viii')">Class VIII<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('ix')">Class IX<small>2 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('x')">Class X<small>3 tests &middot; 7 subjects &middot; Study Material</small></button>
-<button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>2 versions &middot; Sindhi Version (4 tests) &middot; English Version (1 test)</small></button>
+<button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>2 versions &middot; Sindhi Version (4 tests) &middot; English Version (3 tests)</small></button>
 <p class="note" data-i18n="tip">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
 <p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <button class="modebtn" id="fontXLargeBtn" onclick="setFontSize('xlarge')" data-i18n="xlarge">Extra Large</button> <span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button> <span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button> <button class="modebtn" id="langUrBtn" onclick="setLang('ur')">اردو</button></p>
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
@@ -5131,6 +5131,420 @@ const QUESTIONS = {
   }
  ],
  "title": "Sindh GK Test 4"
+},
+ "gk6": {
+ "dir": "ltr",
+ "minutes": 10,
+ "questions": [
+  {
+   "answer": 1,
+   "options": [
+    "Hyderabad",
+    "Karachi",
+    "Sukkur",
+    "Larkana"
+   ],
+   "q": "What is the capital of Sindh?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Arabian Sea",
+    "Caspian Sea",
+    "Indian Ocean",
+    "Red Sea"
+   ],
+   "q": "Where does the Indus River flow into?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Sehwan",
+    "Bhit Shah",
+    "Thatta",
+    "Hala"
+   ],
+   "q": "Where is the tomb of Shah Abdul Latif Bhittai located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Lahore",
+    "Karachi",
+    "Multan",
+    "Peshawar"
+   ],
+   "q": "Which is the largest city in Pakistan?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Dadu",
+    "Larkana",
+    "Thatta",
+    "Badin"
+   ],
+   "q": "In which district is the ancient city of Mohenjo-Daro located?"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "Punjab",
+    "Balochistan",
+    "Sindh",
+    "Khyber Pakhtunkhwa"
+   ],
+   "q": "Which province is known as Bab-ul-Islam?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Jamshoro",
+    "Dadu",
+    "Thatta",
+    "Qambar Shahdadkot"
+   ],
+   "q": "In which district is Manchar Lake located?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Jamshoro",
+    "Karachi",
+    "Hyderabad",
+    "Khairpur"
+   ],
+   "q": "Where is the largest university of Sindh located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Jhelum",
+    "Indus River",
+    "Ravi",
+    "Chenab"
+   ],
+   "q": "On which river is the Sukkur Barrage built?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "712 AD",
+    "710 AD",
+    "715 AD",
+    "720 AD"
+   ],
+   "q": "When did Muhammad bin Qasim conquer Sindh?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Pant Shirt",
+    "Ajrak and Sindhi Topi",
+    "Khadi",
+    "Turban"
+   ],
+   "q": "What is considered the regional dress of Sindh?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Sehwan",
+    "Matiari",
+    "Karachi",
+    "Thull"
+   ],
+   "q": "Where is the tomb of Lal Shahbaz Qalandar located?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Dadu",
+    "Sukkur",
+    "Ghotki",
+    "Mirpurkhas"
+   ],
+   "q": "In which district is Gorakh Hill Station located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Badshahi Mosque",
+    "Shah Jahan Mosque",
+    "Faisal Mosque",
+    "Moti Mosque"
+   ],
+   "q": "Which famous mosque is located in Thatta?"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "Shah Abdul Latif",
+    "Sachal Sarmast",
+    "Qazi Qadan",
+    "Shaikh Ayaz"
+   ],
+   "q": "Who is considered the first poet of the Sindhi language?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Makli",
+    "Chaukhandi",
+    "Mirpur Bathoro",
+    "Malir"
+   ],
+   "q": "Where is the world's largest graveyard located?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Jamshoro",
+    "Dadu",
+    "Karachi",
+    "Sukkur"
+   ],
+   "q": "In which district is Ranikot Fort located?"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "Punjab",
+    "Balochistan",
+    "Sindh",
+    "Khyber Pakhtunkhwa"
+   ],
+   "q": "In which province is the Thar Desert located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Keenjhar",
+    "Manchar",
+    "Haleji",
+    "Hamal"
+   ],
+   "q": "Which is the largest lake in Sindh?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Khangarh",
+    "Neroon Kot",
+    "Mehmoodabad",
+    "Muhammad bin Qasim"
+   ],
+   "q": "What was the old name of Hyderabad?"
+  }
+ ],
+ "title": "Sindh GK Test 1 (English)"
+},
+ "gk7": {
+ "dir": "ltr",
+ "minutes": 10,
+ "questions": [
+  {
+   "answer": 0,
+   "options": [
+    "Thatta",
+    "Dadu",
+    "Jamshoro",
+    "Karachi"
+   ],
+   "q": "In which district is Keenjhar Lake located?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Daraza Sharif (Khairpur)",
+    "Bhit Shah",
+    "Sehwan",
+    "Hala"
+   ],
+   "q": "Where is the tomb of Sachal Sarmast located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Urdu",
+    "Sindhi",
+    "Balochi",
+    "English"
+   ],
+   "q": "What is the official language of Sindh?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Arabian Sea",
+    "Red Sea",
+    "Mediterranean Sea",
+    "Black Sea"
+   ],
+   "q": "Karachi is located on the coast of which sea?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Malir (Karachi)",
+    "Thatta",
+    "Hyderabad",
+    "Larkana"
+   ],
+   "q": "Where are the Chaukhandi tombs located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Neroon Kot",
+    "Khangarh",
+    "Shikarpur",
+    "Kot Diji"
+   ],
+   "q": "What was the old name of Jacobabad?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Khairpur",
+    "Sukkur",
+    "Ghotki",
+    "Naushahro Feroze"
+   ],
+   "q": "Where is the Kot Diji Fort located?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "3180 km",
+    "2000 km",
+    "2500 km",
+    "1500 km"
+   ],
+   "q": "What is the approximate total length of the Indus River?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Lahore",
+    "Karachi",
+    "Ziarat",
+    "Islamabad"
+   ],
+   "q": "Where was Quaid-e-Azam Muhammad Ali Jinnah born?"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "Rawalpindi",
+    "Islamabad",
+    "Karachi",
+    "Dhaka"
+   ],
+   "q": "Which city was the first capital of Pakistan?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Bhangra",
+    "Ho Jamalo",
+    "Khattak Dance",
+    "Luddi"
+   ],
+   "q": "Which is the famous folk dance of Sindh?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Shah Jo Risalo",
+    "Diwan",
+    "Kulliyat",
+    "Paigham"
+   ],
+   "q": "What is the poetry collection of Shah Abdul Latif Bhittai called?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Thatta",
+    "Badin",
+    "Sukkur",
+    "Karachi"
+   ],
+   "q": "Makli Hills are located near which city?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "1932 AD",
+    "1947 AD",
+    "1920 AD",
+    "1955 AD"
+   ],
+   "q": "When was the Sukkur Barrage completed?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Textile (Cloth)",
+    "Dairy",
+    "Iron",
+    "Automobiles"
+   ],
+   "q": "Which is the largest industry in Sindh?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Thatta",
+    "Karachi",
+    "Hyderabad",
+    "Jamshoro"
+   ],
+   "q": "In which district is Haleji Lake located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "29",
+    "30",
+    "25",
+    "27"
+   ],
+   "q": "How many districts are currently there in Sindh?"
+  },
+  {
+   "answer": 2,
+   "options": [
+    "Lahore",
+    "Islamabad",
+    "Karachi",
+    "Peshawar"
+   ],
+   "q": "Where is the mausoleum of Quaid-e-Azam located?"
+  },
+  {
+   "answer": 1,
+   "options": [
+    "Markhor",
+    "Sindh Ibex",
+    "Lion",
+    "Deer"
+   ],
+   "q": "Which is the provincial animal of Sindh?"
+  },
+  {
+   "answer": 0,
+   "options": [
+    "Raja Dahir",
+    "Raja Porus",
+    "Raja Bhoj",
+    "Raja Jaipal"
+   ],
+   "q": "Which local ruler did Muhammad bin Qasim defeat?"
+  }
+ ],
+ "title": "Sindh GK Test 2 (English)"
 }
 };
 </script>
@@ -5171,11 +5585,11 @@ function sendResult(sc,total,title,detail){
   const dateStr=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
   sendResultPayload({name:studentName, title:title, score:sc, total:total, pct:Math.round(sc/total*100), date:dateStr, detail:detail}, true);
 }
-const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':['gk1','gk2','gk3','gk4','gk5']};
+const CLASS_TESTS={'vi':['visci','vieng','visoc'],'vii':['viieng','viisoc'],'viii':['viii','viiieng','viiisoc'],'ix':['ix','ixeng'],'x':['x','xeng','xstbb'],'gk':['gk1','gk2','gk3','gk4','gk5','gk6','gk7']};
 const CLASS_NAMES={'vi':'Class VI','vii':'Class VII','viii':'Class VIII','ix':'Class IX','x':'Class X','gk':'General Knowledge'};
 const CLASS_SUBJECTS={'vi':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'vii':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'viii':['English','Mathematics','Science','Social Studies','Sindhi','Asan Urdu','Islamiat'],'ix':['English','Mathematics','Chemistry','Physics','Biology','Islamiat','Sindhi'],'x':['English','Mathematics','Physics','Biology','Chemistry','Urdu Salees','Pakistan Study'],'gk':['Sindhi Version','English Version']};
-const TEST_SUBJECT={'visci':'Science','vieng':'English','visoc':'Social Studies','viieng':'English','viisoc':'Social Studies','viii':'Mathematics','viiieng':'English','viiisoc':'Social Studies','ix':'Mathematics','ixeng':'English','x':'Mathematics','xeng':'English','xstbb':'English','gk1':'English Version','gk2':'Sindhi Version','gk3':'Sindhi Version','gk4':'Sindhi Version','gk5':'Sindhi Version'};
-const TOPICS={'viii':'Sets, Real Numbers, Number System, Polynomials','ix':'Real & Complex Numbers, Logarithms, Algebraic Expressions, Factorization','x':'Sets & Functions, Variations, Matrices, Quadratic Equations','xeng':'English Units 1-4, Voice, Narration','visci':'Science Chapters 1-2','vieng':'English Units 1-4','viieng':'English Units 1-4','viiieng':'English Units 1-4','ixeng':'English Units 1-4','xstbb':'English Units 1-4','visoc':'Geography, Indus Valley, Early History','viisoc':'Medieval History, Mughals, Geography','viiisoc':'Freedom Movement, Pakistan Studies','gk1':'Nouns, Nominalisation, Possession, Pronouns','gk2':'Sindh Geography & History','gk3':'Sindh Culture, Literature & Historic Sites','gk4':'Sindh Cities, Rivers, History & Culture','gk5':'Sindh Lakes, Forts, Poets & Leaders'};
+const TEST_SUBJECT={'visci':'Science','vieng':'English','visoc':'Social Studies','viieng':'English','viisoc':'Social Studies','viii':'Mathematics','viiieng':'English','viiisoc':'Social Studies','ix':'Mathematics','ixeng':'English','x':'Mathematics','xeng':'English','xstbb':'English','gk1':'English Version','gk2':'Sindhi Version','gk3':'Sindhi Version','gk4':'Sindhi Version','gk5':'Sindhi Version','gk6':'English Version','gk7':'English Version'};
+const TOPICS={'viii':'Sets, Real Numbers, Number System, Polynomials','ix':'Real & Complex Numbers, Logarithms, Algebraic Expressions, Factorization','x':'Sets & Functions, Variations, Matrices, Quadratic Equations','xeng':'English Units 1-4, Voice, Narration','visci':'Science Chapters 1-2','vieng':'English Units 1-4','viieng':'English Units 1-4','viiieng':'English Units 1-4','ixeng':'English Units 1-4','xstbb':'English Units 1-4','visoc':'Geography, Indus Valley, Early History','viisoc':'Medieval History, Mughals, Geography','viiisoc':'Freedom Movement, Pakistan Studies','gk1':'Nouns, Nominalisation, Possession, Pronouns','gk2':'Sindh Geography & History','gk3':'Sindh Culture, Literature & Historic Sites','gk4':'Sindh Cities, Rivers, History & Culture','gk5':'Sindh Lakes, Forts, Poets & Leaders','gk6':'Sindh Cities, Rivers, History & Culture (English)','gk7':'Sindh Lakes, Forts, Poets & Leaders (English)'};
 function shuffleArr(a){ var arr=a.slice(); for(var i=arr.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var tmp=arr[i]; arr[i]=arr[j]; arr[j]=tmp; } return arr; }
 const EXPLAIN_XENG=[
 "Little Things says small acts of kindness, not wealth or big houses, are what make life happy.",
@@ -5302,7 +5716,7 @@ function renderTestList(cls, title, keys){
   document.getElementById('subjectback').textContent=tr('backSubjects');
   document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':keys.map(function(k){
     var t=QUESTIONS[k];
-    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'||k==='gk4'||k==='gk5'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button><button class="modebtn" onclick="shareTest(\''+k+'\')">\u2197 '+tr('shareTest')+'</button>';
+    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'||k==='gk4'||k==='gk5'||k==='gk6'||k==='gk7'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button><button class="modebtn" onclick="shareTest(\''+k+'\')">\u2197 '+tr('shareTest')+'</button>';
   }).join('');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
