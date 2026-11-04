@@ -95,6 +95,7 @@ body.dark input{background:#0f172a;color:#e2e8f0}
 body.dark #timer{color:#f87171}
 body.dark #timer.warn{background:#b91c1c;color:#fff}
 
+@media print{ button{display:none!important} }
 </style>
 </head>
 <body>
@@ -112,6 +113,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <p class="note" data-i18n="homeNote">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
 <p id="streakbox" class="note" style="font-weight:700"></p>
 <div id="goalbox" class="note"></div>
+<div id="calbox" class="note"></div>
 <p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
 <button class="testbtn en" onclick="showClass('vi')">Class VI<small>3 tests &middot; 7 subjects</small></button>
 <button class="testbtn en" onclick="showClass('vii')">Class VII<small>2 tests &middot; 7 subjects</small></button>
@@ -135,6 +137,8 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div id="resumebox" class="hidden"><button class="homebtn" onclick="resumePaused()" data-i18n="resumeBtn">Resume your test</button></div>
 <button class="homebtn" onclick="showFlashcards()" data-i18n="flashcardsBtn">Flashcards</button>
 <button class="homebtn" onclick="startDemo()" data-i18n="demoBtn">Try a demo (3 questions)</button>
+<button class="homebtn" onclick="startWeakTest()">Weak-topics test (from your lowest scores)</button>
+<button class="homebtn" onclick="shareStreak()">Share my streak on WhatsApp</button>
 <button class="homebtn" id="timetableBtn" onclick="showTimetable()">Exam Timetable</button>
 
 <section class="card" style="margin-top:16px">
@@ -212,6 +216,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <h2>My results</h2>
 <p class="note">Your past Test scores on this phone only. Nothing is sent to your teacher from this page.</p>
 <div id="myresultslist"></div>
+<button class="homebtn" onclick="window.print()">🖨️ Print results</button>
 <button class="homebtn" onclick="goHome()">Back to Home</button>
 </section>
 
@@ -227,6 +232,17 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div id="palette"></div>
 <button class="modebtn" id="flagbtn" onclick="toggleFlag()">Flag this question</button>
 <button class="modebtn" id="speakbtn" onclick="speakQuestion()">🔊 Read question</button>
+<div id="calcbox" style="display:none;margin-top:10px">
+<input id="calcDisplay" type="text" readonly style="width:100%;padding:10px;font-size:18px;border:2px solid #14532d;border-radius:10px;text-align:right">
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:6px">
+<button class="modebtn" onclick="calcAppend('7')">7</button><button class="modebtn" onclick="calcAppend('8')">8</button><button class="modebtn" onclick="calcAppend('9')">9</button><button class="modebtn" onclick="calcAppend('/')">÷</button>
+<button class="modebtn" onclick="calcAppend('4')">4</button><button class="modebtn" onclick="calcAppend('5')">5</button><button class="modebtn" onclick="calcAppend('6')">6</button><button class="modebtn" onclick="calcAppend('*')">×</button>
+<button class="modebtn" onclick="calcAppend('1')">1</button><button class="modebtn" onclick="calcAppend('2')">2</button><button class="modebtn" onclick="calcAppend('3')">3</button><button class="modebtn" onclick="calcAppend('-')">−</button>
+<button class="modebtn" onclick="calcAppend('0')">0</button><button class="modebtn" onclick="calcAppend('.')">.</button><button class="modebtn" onclick="calcClear()">C</button><button class="modebtn" onclick="calcBack()">⌫</button>
+<button class="modebtn" onclick="calcAppend('+')">+</button><button class="modebtn" onclick="calcAppend('(')">(</button><button class="modebtn" onclick="calcAppend(')')">)</button><button class="modebtn" onclick="calcEq()">=</button>
+</div>
+<p class="note">Calculator — for working only. It does not answer questions.</p>
+</div>
 <div class="nav">
 <button onclick="move(-1)" data-i18n="prev">Previous</button>
 <button onclick="move(1)" data-i18n="next">Next</button>
@@ -4809,7 +4825,8 @@ const MOCKS={
  x:{keys:['x','xeng','xstbb'], title:'Class X — Mixed Mock Test', topic:'Mathematics, English & English (STBB) mixed', dir:'ltr'}
 };
 let mockTest=null;
-function testInfo(){ if(testKey && testKey.slice(0,4)==='mock') return mockTest; if(testKey==='demo') return demoTest; return QUESTIONS[testKey]; }
+let weakTest=null;
+function testInfo(){ if(testKey && testKey.slice(0,4)==='mock') return mockTest; if(testKey==='demo') return demoTest; if(testKey==='weaktest') return weakTest; return QUESTIONS[testKey]; }
 function buildMockShuffled(){ var qs=mockTest.questions.map(function(q,qi){ var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order); return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer), orig:q.srcOrig, srcKey:q.srcKey, srcOrig:q.srcOrig, qdir:QUESTIONS[q.srcKey].dir}; }); return shuffleArr(qs); }
 function buildMockTest(cls){ var cfg=MOCKS[cls]||MOCKS.x; var pool=[], seen={}; cfg.keys.forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ var stem=q.q.replace(/\s+/g,' ').trim(); if(seen[stem]) return; seen[stem]=1; pool.push({q:q.q, options:q.options.slice(), answer:q.answer, srcKey:k, srcOrig:qi}); }); }); pool=shuffleArr(pool).slice(0,20); mockTest={title:cfg.title, dir:cfg.dir, minutes:10, questions:pool}; }
 function startMockTest(cls){
@@ -4825,7 +4842,7 @@ function startMockTest(cls){
   const t=document.getElementById('test'); t.classList.remove('hidden');
   document.getElementById('testtitle').textContent=mockTest.title+(testLearn?' \u2014 Learn mode':'');
   document.getElementById('test').dir=mockTest.dir;
-  render(); initTargetRow(testKey, activeQs.length);
+  render(); initTargetRow(testKey, activeQs.length); updateCalc();
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
@@ -4847,7 +4864,7 @@ function showClass(cls){
     var n=CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===s; }).length;
     return '<button class="testbtn en" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+s+'<small>'+(n===0?tr('noTestsYet'):(uiLang==='sd'?n+' \u0679\u064a\u0633\u067d':n+(n===1?' test':' tests')))+'</small></button>';
   }).join('');
-  if(MOCKS[cls]){ var _mc=MOCKS[cls]; document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="startMockTest(\''+cls+'\')">'+_mc.title+'<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small><small>'+_mc.topic+'</small></button><p class="note">'+tr('mockNote')+'</p>'; }
+  if(MOCKS[cls]){ var _mc=MOCKS[cls]; document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="startMockTest(\''+cls+'\')">'+_mc.title+'<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small><small>'+_mc.topic+'</small>'+lastTakenHtml('mock'+cls)+'</button><p class="note">'+tr('mockNote')+'</p>'; }
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
@@ -4868,7 +4885,7 @@ function renderTestList(cls, title, keys){
   document.getElementById('subjectback').textContent=(cls==='gk'?tr('backHome'):tr('backSubjects'));
   document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':keys.map(function(k){
     var t=QUESTIONS[k];
-    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+histHtml(k)+'</button>';
+    return '<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button>';
   }).join('');
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
@@ -4911,7 +4928,7 @@ function startTest(key){
   const t=document.getElementById('test'); t.classList.remove('hidden');
   document.getElementById('testtitle').textContent=QUESTIONS[key].title+(testLearn?' — Learn mode':'');
   document.getElementById('test').dir=QUESTIONS[key].dir;
-  render(); initTargetRow(key, activeQs.length);
+  render(); initTargetRow(key, activeQs.length); updateCalc();
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
@@ -4927,7 +4944,7 @@ function startRetry(){
   document.getElementById('testtitle').textContent=testInfo().title+' \u2014 '+tr('retryLabel'); hideTargetRow();
   document.getElementById('test').dir=testInfo().dir;
   document.getElementById('timer').textContent=tr('retryLabel');
-  clearInterval(timerId); render(); window.scrollTo(0,0);
+  clearInterval(timerId); render(); updateCalc(); window.scrollTo(0,0);
 }
 function tick(){
   secondsLeft--;
@@ -4973,7 +4990,7 @@ function renderPaletteExplain(){
   if(pal){ pal.innerHTML=''; qs.forEach(function(q,i){ var b=document.createElement('button'); b.className='palbtn'+(answers[i]!==null?' ans':'')+(i===idx?' cur':'')+(flagged[i]?' flag':''); b.textContent=(flagged[i]?'\u2691 ':'')+(i+1); b.onclick=(function(j){ return function(){ idx=j; render(); }; })(i); pal.appendChild(b); }); }
   var fb=document.getElementById('flagbtn'); if(fb) fb.textContent=(flagged[idx]?tr('unflag'):tr('flag'));
   var eb=document.getElementById('explainbox');
-  if(eb){ var _expl=null; if(testLearn && answers[idx]!==null && activeQs && activeQs[idx]){ var _aq=activeQs[idx]; if(testKey && testKey.slice(0,4)==='mock' && _aq.srcKey && EXPLAIN[_aq.srcKey] && typeof _aq.srcOrig==='number'){ _expl=EXPLAIN[_aq.srcKey][_aq.srcOrig]; } else if(EXPLAIN[testKey] && typeof _aq.orig==='number'){ _expl=EXPLAIN[testKey][_aq.orig]; } } if(_expl){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+_expl; } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
+  if(eb){ var _expl=null; if(testLearn && answers[idx]!==null && activeQs && activeQs[idx]){ var _aq=activeQs[idx]; if(testKey && (testKey.slice(0,4)==='mock' || testKey==='weaktest') && _aq.srcKey && EXPLAIN[_aq.srcKey] && typeof _aq.srcOrig==='number'){ _expl=EXPLAIN[_aq.srcKey][_aq.srcOrig]; } else if(EXPLAIN[testKey] && typeof _aq.orig==='number'){ _expl=EXPLAIN[testKey][_aq.orig]; } } if(_expl){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+_expl; } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
 }
 function toggleFlag(){ if(!testKey||!activeQs) return; flagged[idx]=!flagged[idx]; render(); }
 function move(d){
@@ -5053,7 +5070,7 @@ function downloadScoreCard(){
   else { a.href=cv.toDataURL('image/png'); a.download='score-card.png'; a.click(); }
 }
 function goHome(){
-  clearInterval(timerId); refreshPausedButton(); renderWeak(); renderGoal();
+  clearInterval(timerId); refreshPausedButton(); renderWeak(); renderGoal(); renderCalendar();
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
@@ -5117,6 +5134,101 @@ function applyTargetOnSubmit(score, total, key){
   if(msg){ note.textContent=msg; note.classList.remove('hidden'); }
 }
 
+
+
+// ---- All-six batch: calendar, weak-topics test, last-taken, calculator, share streak ----
+function fmtDate(ds){
+  var p=(ds||'').split('-'); if(p.length!==3) return ds;
+  var months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return parseInt(p[2],10)+' '+months[parseInt(p[1],10)-1]+' '+p[0];
+}
+function lastTakenHtml(k){
+  var h=getHist(k); if(!h.length) return '';
+  return '<small>Last taken: '+fmtDate(h[0].d)+'</small>';
+}
+function renderCalendar(){
+  var box=document.getElementById('calbox'); if(!box) return;
+  var now=new Date(); var y=now.getFullYear(), m=now.getMonth();
+  var days={}; try{ (JSON.parse(localStorage.getItem('mcqPracticeDays')||'[]')).forEach(function(d){ days[d]=1; }); }catch(e){}
+  var first=new Date(y,m,1); var startOff=(first.getDay()+6)%7; var dim=new Date(y,m+1,0).getDate();
+  var months=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  var cells='';
+  ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'].forEach(function(d){ cells+='<span style="display:inline-block;width:13%;text-align:center;font-weight:700">'+d+'</span>'; });
+  for(var i=0;i<startOff;i++) cells+='<span style="display:inline-block;width:13%;text-align:center">&nbsp;</span>';
+  var today=localDayStr(now);
+  for(var d=1; d<=dim; d++){
+    var ds=y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
+    var practiced=!!days[ds];
+    cells+='<span style="display:inline-block;width:13%;text-align:center;border-radius:6px;'+(practiced?'background:#14532d;color:#fff;font-weight:700;':'')+(ds===today?'border:2px solid #14532d;':'')+'">'+d+'</span>';
+  }
+  box.innerHTML='<b>\uD83D\uDCC5 Practice calendar \u2014 '+months[m]+' '+y+'</b><div style="margin-top:6px">'+cells+'</div><p class="note" style="margin:4px 0 0">Green days = you practiced.</p>';
+}
+function buildWeakTest(){
+  var cands=Object.keys(QUESTIONS).map(function(k){
+    var b=getBest(k); if(b===null) return null;
+    return {k:k, p:Math.round(b/QUESTIONS[k].questions.length*100)};
+  }).filter(function(x){ return x!==null; }).sort(function(a,b){ return a.p-b.p; }).slice(0,3);
+  if(!cands.length) return false;
+  var pool=[], seen={};
+  cands.forEach(function(c){
+    QUESTIONS[c.k].questions.forEach(function(q,qi){
+      var stem=q.q.replace(/\s+/g,' ').trim(); if(seen[stem]) return; seen[stem]=1;
+      pool.push({q:q.q, options:q.options.slice(), answer:q.answer, srcKey:c.k, srcOrig:qi});
+    });
+  });
+  pool=shuffleArr(pool).slice(0,20);
+  weakTest={title:'Weak-topics test', dir:'ltr', minutes:10, questions:pool};
+  return true;
+}
+function buildWeakShuffled(){
+  var qs=weakTest.questions.map(function(q,qi){
+    var order=q.options.map(function(o,i){return i;}); order=shuffleArr(order);
+    return {q:q.q, options:order.map(function(i){return q.options[i];}), answer:order.indexOf(q.answer), orig:q.srcOrig, srcKey:q.srcKey, srcOrig:q.srcOrig, qdir:QUESTIONS[q.srcKey].dir};
+  });
+  return shuffleArr(qs);
+}
+function startWeakTest(){
+  const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert(tr('nameAlert')); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; }
+  studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){}
+  if(!buildWeakTest()){ alert('Take a test first \u2014 your weak-topics test is built from your lowest scores.'); return; }
+  testKey='weaktest'; idx=0; submitted=false; testLearn=learnMode; activeQs=buildWeakShuffled(); clearPaused();
+  answers=new Array(activeQs.length).fill(null);
+  flagged=new Array(activeQs.length).fill(false); retryMode=false;
+  secondsLeft=10*60;
+  document.getElementById('timer').textContent='10:00'; document.getElementById('timer').classList.remove('warn'); var _tw0=document.getElementById('timewarn'); if(_tw0) _tw0.classList.add('hidden');
+  document.getElementById('home').classList.add('hidden');
+  document.getElementById('classpage').classList.add('hidden');
+  document.getElementById('subjectpage').classList.add('hidden');
+  document.getElementById('result').classList.add('hidden');
+  const t=document.getElementById('test'); t.classList.remove('hidden');
+  document.getElementById('testtitle').textContent=weakTest.title+(testLearn?' \u2014 Learn mode':'');
+  document.getElementById('test').dir=weakTest.dir;
+  render(); initTargetRow(testKey, activeQs.length); updateCalc();
+  clearInterval(timerId);
+  if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
+  else { timerId=setInterval(tick,1000); }
+}
+var MATH_KEYS=['viii','ix','x'];
+function updateCalc(){
+  var c=document.getElementById('calcbox'); if(!c) return;
+  c.style.display=(MATH_KEYS.indexOf(testKey)>=0)?'block':'none';
+}
+function calcAppend(v){ var d=document.getElementById('calcDisplay'); if(!d) return; if(d.value==='Error') d.value=''; d.value+=v; }
+function calcClear(){ var d=document.getElementById('calcDisplay'); if(d) d.value=''; }
+function calcBack(){ var d=document.getElementById('calcDisplay'); if(d) d.value=d.value.slice(0,-1); }
+function calcEq(){
+  var d=document.getElementById('calcDisplay'); if(!d) return;
+  var expr=d.value.replace(/[^0-9.+\-*\/()]/g,'');
+  try{ var v=Function('"use strict";return ('+expr+')')(); d.value=(typeof v==='number' && isFinite(v))?String(Math.round(v*1000000)/1000000):'Error'; }catch(e){ d.value='Error'; }
+}
+function shareStreak(){
+  var st=getStreak(); var parts=[];
+  Object.keys(QUESTIONS).forEach(function(k){
+    var b=getBest(k); if(b!==null) parts.push(QUESTIONS[k].title.replace(' Practice Test','')+': '+b+'/'+QUESTIONS[k].questions.length);
+  });
+  var msg='My practice streak on Haseeja Mahar MCQ Tests: '+st+' day'+(st===1?'':'s')+'!'+(parts.length?' My best scores \u2014 '+parts.slice(0,5).join(', '):'');
+  window.location.href='https://wa.me/?text='+encodeURIComponent(msg);
+}
 
 // ---- Suggestions 4, 5, 6: progress bars, offline notice, weekly goal ----
 function scoreBars(h){
@@ -5202,6 +5314,7 @@ function showMyResults(){
     var b=getBest('mock'+mc);
     html+='<h3>'+MOCKS[mc].title+'</h3><p class="note">Best: '+(b===null?'-':b+'/20')+'</p>'+scoreBars(h);
   });
+  var _hw=getHist('weaktest'); if(_hw.length){ var _bw=getBest('weaktest'); html+='<h3>Weak-topics test</h3><p class="note">Best: '+(_bw===null?'-':_bw+'/20')+'</p>'+scoreBars(_hw); }
   list.innerHTML=html||'<p class="note">No Test results yet on this phone. Take a test in Test mode and your scores will appear here.</p>';
   window.scrollTo(0,0);
 }
@@ -5242,7 +5355,7 @@ function pauseTest(){
   if(!testKey || testLearn || retryMode || demoMode || submitted) return;
   clearInterval(timerId);
   try{
-    var state={testKey:testKey, mock:(testKey && testKey.slice(0,4)==='mock'?mockTest:null), activeQs:activeQs, answers:answers, flagged:flagged, idx:idx, secondsLeft:secondsLeft};
+    var state={testKey:testKey, mock:(testKey && testKey.slice(0,4)==='mock'?mockTest:null), weak:(testKey==='weaktest'?weakTest:null), activeQs:activeQs, answers:answers, flagged:flagged, idx:idx, secondsLeft:secondsLeft};
     localStorage.setItem('mcqPaused', JSON.stringify(state));
   }catch(e){}
   document.getElementById('test').classList.add('hidden');
@@ -5253,7 +5366,7 @@ function resumePaused(){
   var state=null; try{ state=JSON.parse(localStorage.getItem('mcqPaused')||'null'); }catch(e){}
   if(!state || !state.activeQs) return;
   var _nm=document.getElementById('studentName'); if(_nm && _nm.value.trim()){ studentName=_nm.value.trim(); }
-  testKey=state.testKey; if(testKey && testKey.slice(0,4)==='mock') mockTest=state.mock; demoMode=false; testLearn=false; retryMode=false; submitted=false;
+  testKey=state.testKey; if(testKey && testKey.slice(0,4)==='mock') mockTest=state.mock; if(testKey==='weaktest') weakTest=state.weak; demoMode=false; testLearn=false; retryMode=false; submitted=false;
   activeQs=state.activeQs; answers=state.answers; flagged=state.flagged; idx=state.idx; secondsLeft=state.secondsLeft;
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
@@ -5264,7 +5377,7 @@ function resumePaused(){
   document.getElementById('test').dir=testInfo().dir;
   document.getElementById('timer').textContent=String(Math.floor(Math.max(0,secondsLeft)/60)).padStart(2,'0')+':'+String(Math.max(0,secondsLeft)%60).padStart(2,'0');
   document.getElementById('timer').classList.remove('warn'); var _tw0=document.getElementById('timewarn'); if(_tw0) _tw0.classList.add('hidden');
-  render(); clearInterval(timerId);
+  render(); updateCalc(); clearInterval(timerId);
   if(secondsLeft<=0){ submitTest(true); } else { timerId=setInterval(tick,1000); }
 }
 function renderWeak(){
@@ -5393,7 +5506,7 @@ function startDemo(){
   document.getElementById('testtitle').textContent='Demo Test'; hideTargetRow();
   document.getElementById('test').dir='ltr';
   document.getElementById('timer').textContent=tr('demoNote');
-  clearInterval(timerId); render(); window.scrollTo(0,0);
+  clearInterval(timerId); render(); updateCalc(); window.scrollTo(0,0);
 }
 
 function renderExamCountdown(){
@@ -5414,7 +5527,7 @@ renderExamCountdown();
 flushResultQueue();
 refreshPausedButton();
 renderWeak();
-renderStreak(); renderGoal(); updateOfflineBanner();
+renderStreak(); renderGoal(); renderCalendar(); updateOfflineBanner();
 tidyExamBits();
 showFirstGuideIfNeeded();
 </script>
