@@ -753,6 +753,7 @@ function showSubjTab(tab){
   });
   if(tab === "notes"){
     db.innerHTML = "<p class=\"note\"><b>Notes</b> \\u2014 notes for this subject will be added here as they are ready.</p>";
+    filterMaterial();
     return;
   }
   var defs = matData ? matData.definitions.filter(function(d){ return d.s === matSubj; }) : [];
@@ -765,6 +766,7 @@ function showSubjTab(tab){
   } else {
     db.innerHTML = "<p class=\"note\">Study material for this subject is coming soon.</p>";
   }
+  filterMaterial();
 }
 function matItemsHtml(items){
   var html = "";
@@ -844,6 +846,7 @@ function showMatTab(tab){
   }
   body.innerHTML = html;
   if(tab === "notes" && data.notes && data.notes.length) showNoteUnit(0);
+  filterMaterial();
   window.scrollTo(0, 0);
 }
 function renderSubjectMaterial(cls, subj){
@@ -861,7 +864,7 @@ function renderSubjectMaterial(cls, subj){
     if(data.notes) tabs.push(["notes", "Notes"]);
     html += "<p class=\"note\">" + tabs.map(function(t){
       return "<button class=\"modebtn\" id=\"mattab-" + t[0] + "\" onclick=\"showMatTab('" + t[0] + "')\">" + t[1] + "</button>";
-    }).join(" ") + "</p><div id=\"matbody\"></div>";
+    }).join(" ") + "</p><p class=\"note\">" + tr('matSearchLabel') + " <input id=\"matSearch\" type=\"text\" oninput=\"filterMaterial()\" placeholder=\"" + tr('matSearchPlaceholder') + "\"></p><div id=\"matbody\"></div>";
     box.innerHTML = html;
     showMatTab("paragraphs");
     return;
@@ -869,7 +872,13 @@ function renderSubjectMaterial(cls, subj){
   html += "<p class=\"note\">" +
     "<button class=\"modebtn\" id=\"subtab-definitions\" onclick=\"showSubjTab('definitions')\">Definitions</button> " +
     "<button class=\"modebtn\" id=\"subtab-notes\" onclick=\"showSubjTab('notes')\">Notes</button></p>" +
-    "<div id=\"submatbody\"></div>";
+    "<p class=\"note\">" + tr('matSearchLabel') + " <input id=\"matSearch\" type=\"text\" oninput=\"filterMaterial()\" placeholder=\"" + tr('matSearchPlaceholder') + "\"></p><div id=\"submatbody\"></div>";
   box.innerHTML = html;
   showSubjTab("definitions");
+}
+
+function filterMaterial(){
+  var inp=document.getElementById('matSearch'); if(!inp) return;
+  var q=inp.value.trim().toLowerCase();
+  ['matbody','submatbody'].forEach(function(id){ var b=document.getElementById(id); if(!b) return; Array.prototype.forEach.call(b.children, function(ch){ ch.style.display=(!q||ch.textContent.toLowerCase().indexOf(q)>-1)?'':'none'; }); });
 }
