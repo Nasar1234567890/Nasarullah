@@ -7,8 +7,8 @@ Live site: https://nasar1234567890.github.io/Nasarullah
 ## What's on the site
 
 - Practice tests for Classes VI–X (Mathematics, English, Science, Social Studies)
-- Chapter-wise practice tests, so students can revise one chapter at a time
-- General Knowledge tests (Sindhi and English versions)
+- Chapter-wise practice tests, so students can revise one chapter at a time — every chapter test has 20 questions
+- Each subject is available in a Sindhi version and an English version (separate buttons, like the General Knowledge tests)
 - Test mode (timed, result sent to the teacher) and Learn mode (answers shown right away)
 - Flashcards, study material, Question of the Day, weak-topic revision
 - Works offline once opened (service worker), and can be installed on the home screen
