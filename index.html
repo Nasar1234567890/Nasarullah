@@ -53,6 +53,9 @@ button{font:inherit;cursor:pointer}
 .wrong{color:#b91c1c;font-weight:700}
 .modebtn{padding:8px 16px;border:2px solid #14532d;border-radius:10px;background:#eaf5ee;font-size:16px;font-weight:700;color:#14532d;margin:4px 4px 4px 0}
 .modebtn.sel{background:#14532d;color:#fff}
+.matsec{margin:10px 0}
+.matsec>.modebtn{display:block;width:100%;text-align:left;margin:0}
+.matpanel{padding:4px 2px 2px}
 .newbadge{display:inline-block;background:#b91c1c;color:#fff;font-size:12px;font-weight:700;padding:2px 8px;border-radius:8px;margin-left:8px;vertical-align:middle}
 .opt.learn-correct{border-color:#15803d;background:#dcfce7}
 .opt.learn-wrong{border-color:#b91c1c;background:#fee2e2}
@@ -5691,12 +5694,13 @@ function startMockTest(cls){
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
+  navPush({view:'test', testKey:testKey});
 }
 function setMode(m){ learnMode=(m==='learn'); var tb=document.getElementById('modeTestBtn'), lb=document.getElementById('modeLearnBtn'); if(tb) tb.className='modebtn'+(learnMode?'':' sel'); if(lb) lb.className='modebtn'+(learnMode?' sel':''); }
 function setFontSize(s){ if(s!=='large' && s!=='xlarge') s='normal'; try{localStorage.setItem('mcqFontSize', s);}catch(e){} document.body.classList.toggle('large', s==='large'); document.body.classList.toggle('xlarge', s==='xlarge'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'), xb=document.getElementById('fontXLargeBtn'); if(nb) nb.className='modebtn'+(s==='normal'?' sel':''); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); if(xb) xb.className='modebtn'+(s==='xlarge'?' sel':''); }
 function applySavedFontSize(){ var s='normal'; try{ s=localStorage.getItem('mcqFontSize')||'normal'; }catch(e){} if(s!=='large' && s!=='xlarge') s='normal'; document.body.classList.toggle('large', s==='large'); document.body.classList.toggle('xlarge', s==='xlarge'); var nb=document.getElementById('fontNormalBtn'), lb=document.getElementById('fontLargeBtn'), xb=document.getElementById('fontXLargeBtn'); if(nb) nb.className='modebtn'+(s==='normal'?' sel':''); if(lb) lb.className='modebtn'+(s==='large'?' sel':''); if(xb) xb.className='modebtn'+(s==='xlarge'?' sel':''); }
 function showInstall(){ document.getElementById('home').classList.add('hidden'); document.getElementById('classpage').classList.add('hidden');
-  document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('test').classList.add('hidden'); document.getElementById('result').classList.add('hidden'); document.getElementById('install').classList.remove('hidden'); window.scrollTo(0,0); }
+  document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('test').classList.add('hidden'); document.getElementById('result').classList.add('hidden'); document.getElementById('install').classList.remove('hidden'); window.scrollTo(0,0); navPush({view:'install'}); }
 function reportMistake(){ if(!testKey) return; var msg='I found a mistake in the test: '+testInfo().title+'. Question number: ___. Mistake: ___'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
 
 var currentClass=null; var currentSubject=null;
@@ -5719,10 +5723,12 @@ function showClass(cls){
   document.getElementById('subjectpage').classList.add('hidden');
   document.getElementById('classpage').classList.remove('hidden');
   window.scrollTo(0,0);
+  navPush({view:'class', cls:cls});
 }
 function showSubject(cls, subj){
   currentClass=cls; currentSubject=subj;
   renderTestList(cls, CLASS_NAMES[cls]+' — '+subj, CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===subj; }));
+  navPush({view:'subject', cls:cls, subj:subj});
   if(cls==='gk'){ var _mn=document.getElementById('mynotes'); if(_mn) _mn.innerHTML=''; return; }
   if(typeof renderSubjectMaterial!=='undefined'){ renderSubjectMaterial(cls, subj); }
   renderMyNotes(cls, subj);
@@ -5752,6 +5758,7 @@ function backToSubjects(){
   document.getElementById('result').classList.add('hidden');
   document.getElementById('classpage').classList.remove('hidden');
   window.scrollTo(0,0);
+  if(currentClass) navPush({view:'class', cls:currentClass});
 }
 function backToClasses(){
   refreshPausedButton(); renderWeak();
@@ -5762,6 +5769,80 @@ function backToClasses(){
   document.getElementById('install').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
   window.scrollTo(0,0);
+  navPush({view:'home'});
+}
+// ---- Phone back button: one step back per press ----
+var navFromPop=false;
+function navPush(state){
+  try{ if(!navFromPop && window.history && history.pushState){ history.pushState(state, ''); } }catch(e){}
+}
+function navReplace(state){
+  try{ if(!navFromPop && window.history && history.replaceState){ history.replaceState(state, ''); } }catch(e){}
+}
+function navHasName(){
+  var _nm=document.getElementById('studentName'); return !!(_nm && _nm.value.trim());
+}
+function navFallback(){
+  if(currentClass && currentSubject){ showSubject(currentClass, currentSubject); }
+  else if(currentClass){ showClass(currentClass); }
+  else { goHome(); }
+}
+function navShow(state){
+  if(!state || !state.view) state={view:'home'};
+  var _t=document.getElementById('test');
+  if(_t && !_t.classList.contains('hidden')) savePausedState();
+  navFromPop=true;
+  try{
+    if(state.view==='home'){ goHome(); }
+    else if(state.view==='class'){ if(state.cls) showClass(state.cls); else goHome(); }
+    else if(state.view==='subject'){ if(state.cls && state.subj) showSubject(state.cls, state.subj); else if(state.cls) showClass(state.cls); else goHome(); }
+    else if(state.view==='test'){ navRestoreTest(state); }
+    else if(state.view==='result'){ navShowResult(); }
+    else if(state.view==='flashcards'){ showFlashcards(); }
+    else if(state.view==='timetable'){ showTimetable(); }
+    else if(state.view==='myresults'){ showMyResults(); }
+    else if(state.view==='install'){ showInstall(); }
+    else { goHome(); }
+  }catch(e){}
+  navFromPop=false;
+}
+function navRestoreTest(state){
+  var paused=null; try{ paused=JSON.parse(localStorage.getItem('mcqPaused')||'null'); }catch(e){}
+  if(paused && paused.activeQs && paused.testKey===state.testKey){ resumePaused(); return; }
+  if(!navHasName()){ navFallback(); return; }
+  if(state.retry && typeof lastWrong!=='undefined' && lastWrong.length){ startRetry(); return; }
+  if(state.flagRev){
+    var fq=(activeQs||[]).filter(function(q,i){ return flagged[i]; });
+    if(fq.length){ startFlagRev(); return; }
+  }
+  if(state.testKey==='demo'){ startDemo(); return; }
+  if(state.testKey==='weaktest'){
+    var anyBest=false; try{ anyBest=Object.keys(QUESTIONS).some(function(k){ return getBest(k)!==null; }); }catch(e){}
+    if(anyBest){ startWeakTest(); return; }
+    navFallback(); return;
+  }
+  if(state.testKey && state.testKey.slice(0,4)==='mock'){ startMockTest(state.testKey.slice(4)); return; }
+  if(state.testKey && (QUESTIONS[state.testKey] || (typeof CHAPTERS!=='undefined' && CHAPTERS[state.testKey]))){ startTest(state.testKey); return; }
+  navFallback();
+}
+function navShowResult(){
+  if(typeof lastTotal!=='undefined' && lastTotal>0){
+    ['home','classpage','subjectpage','test','install','flashcards','timetable','myresults'].forEach(function(id){ var el=document.getElementById(id); if(el) el.classList.add('hidden'); });
+    var r=document.getElementById('result'); if(r) r.classList.remove('hidden');
+    window.scrollTo(0,0); return;
+  }
+  navFallback();
+}
+// save the current test so it can be resumed; false for learn/retry/demo/submitted tests
+function savePausedState(){
+  if(!testKey || testLearn || retryMode || demoMode || submitted) return false;
+  clearInterval(timerId);
+  try{
+    var state={testKey:testKey, mock:(testKey && testKey.slice(0,4)==='mock'?mockTest:null), weak:(testKey==='weaktest'?weakTest:null), activeQs:activeQs, answers:answers, flagged:flagged, idx:idx, secondsLeft:secondsLeft};
+    localStorage.setItem('mcqPaused', JSON.stringify(state));
+  }catch(e){}
+  refreshPausedButton();
+  return true;
 }
 function startTest(key){
   const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert(tr('nameAlert')); document.getElementById('classpage').classList.add('hidden');
@@ -5781,6 +5862,7 @@ function startTest(key){
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
+  navPush({view:'test', testKey:testKey});
 }
 function printTest(){
   if(!testKey||!activeQs) return;
@@ -5807,6 +5889,7 @@ function startRetry(){
   document.getElementById('test').dir=testInfo().dir;
   document.getElementById('timer').textContent=tr('retryLabel');
   clearInterval(timerId); render(); updateCalc(); window.scrollTo(0,0);
+  navPush({view:'test', testKey:testKey, retry:true});
 }
 function startFlagRev(){
   var fq=(activeQs||[]).filter(function(q,i){ return flagged[i]; });
@@ -5821,6 +5904,7 @@ function startFlagRev(){
   document.getElementById('test').dir=testInfo().dir;
   document.getElementById('timer').textContent=tr('flagRevLabel');
   clearInterval(timerId); render(); updateCalc(); window.scrollTo(0,0);
+  navPush({view:'test', testKey:testKey, flagRev:true});
 }
 function tick(){
   secondsLeft--;
@@ -5906,6 +5990,7 @@ function submitTest(auto){
   });
   document.getElementById('review').innerHTML=html;
   window.scrollTo(0,0);
+  navReplace({view:'result'});
 }
 function shareResult(){ if(!testKey||!lastTotal) return; var pct=Math.round(lastScore/lastTotal*100); var msg=studentName+' \u2014 '+testInfo().title+': '+lastScore+' / '+lastTotal+' ('+pct+'%) \u2014 Try our school MCQ practice tests: https://Nasar1234567890.github.io/Nasarullah/'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
 
@@ -5958,6 +6043,7 @@ function goHome(){
   var _mr=document.getElementById('myresults'); if(_mr) _mr.classList.add('hidden');
   var _ic=document.getElementById('installcard'); if(_ic) _ic.style.display='none';
   document.getElementById('home').classList.remove('hidden');
+  navPush({view:'home'});
 }
 function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
 function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n.getMonth(), n.getDate()); }
@@ -6084,6 +6170,7 @@ function startWeakTest(){
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
+  navPush({view:'test', testKey:testKey});
 }
 var MATH_KEYS=['viii','ix','x'];
 function updateCalc(){
@@ -6194,6 +6281,7 @@ function showMyResults(){
   var _hw=getHist('weaktest'); if(_hw.length){ var _bw=getBest('weaktest'); html+='<h3>Weak-topics test</h3><p class="note">Best: '+(_bw===null?'-':_bw+'/20')+'</p>'+scoreBars(_hw); }
   list.innerHTML=html||'<p class="note">No Test results yet on this phone. Take a test in Test mode and your scores will appear here.</p>';
   window.scrollTo(0,0);
+  navPush({view:'myresults'});
 }
 var deferredInstallPrompt=null;
 if(typeof window!=='undefined' && window.addEventListener){ window.addEventListener('beforeinstallprompt', function(e){ e.preventDefault(); deferredInstallPrompt=e; }); }
@@ -6229,15 +6317,11 @@ function refreshPausedButton(){
   box.className=has?'':'hidden';
 }
 function pauseTest(){
-  if(!testKey || testLearn || retryMode || demoMode || submitted) return;
-  clearInterval(timerId);
-  try{
-    var state={testKey:testKey, mock:(testKey && testKey.slice(0,4)==='mock'?mockTest:null), weak:(testKey==='weaktest'?weakTest:null), activeQs:activeQs, answers:answers, flagged:flagged, idx:idx, secondsLeft:secondsLeft};
-    localStorage.setItem('mcqPaused', JSON.stringify(state));
-  }catch(e){}
+  if(!savePausedState()) return;
   document.getElementById('test').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
   refreshPausedButton(); renderWeak(); window.scrollTo(0,0);
+  navPush({view:'home'});
 }
 function resumePaused(){
   var state=null; try{ state=JSON.parse(localStorage.getItem('mcqPaused')||'null'); }catch(e){}
@@ -6255,6 +6339,7 @@ function resumePaused(){
   document.getElementById('timer').textContent=String(Math.floor(Math.max(0,secondsLeft)/60)).padStart(2,'0')+':'+String(Math.max(0,secondsLeft)%60).padStart(2,'0');
   document.getElementById('timer').classList.remove('warn'); var _tw0=document.getElementById('timewarn'); if(_tw0) _tw0.classList.add('hidden');
   render(); updateCalc(); clearInterval(timerId);
+  navPush({view:'test', testKey:testKey});
   if(secondsLeft<=0){ submitTest(true); } else { timerId=setInterval(tick,1000); }
 }
 function renderWeak(){
@@ -6346,6 +6431,7 @@ function showFlashcards(){
   document.getElementById('install').classList.add('hidden');
   document.getElementById('flashcards').classList.remove('hidden');
   setFlashType('all'); window.scrollTo(0,0);
+  navPush({view:'flashcards'});
 }
 function showTimetable(){
   document.getElementById('home').classList.add('hidden');
@@ -6357,6 +6443,7 @@ function showTimetable(){
   document.getElementById('flashcards').classList.add('hidden');
   document.getElementById('timetable').classList.remove('hidden');
   window.scrollTo(0,0);
+  navPush({view:'timetable'});
 }
 // Demo test (3 questions, no timer, not recorded)
 function startDemo(){
@@ -6385,6 +6472,7 @@ function startDemo(){
   document.getElementById('test').dir='ltr';
   document.getElementById('timer').textContent=tr('demoNote');
   clearInterval(timerId); render(); updateCalc(); window.scrollTo(0,0);
+  navPush({view:'test', testKey:testKey});
 }
 
 function renderExamCountdown(){
@@ -6403,6 +6491,9 @@ renderWeak();
 renderStreak(); renderGoal(); renderCalendar(); updateOfflineBanner();
 tidyExamBits();
 showFirstGuideIfNeeded();
+// ---- Phone back button: one step back per press ----
+try{ if(window.history && history.replaceState){ history.replaceState({view:'home'}, ''); } }catch(e){}
+window.addEventListener('popstate', function(e){ navShow(e.state); });
 </script>
 <script>
 if('serviceWorker' in navigator){ window.addEventListener('load', function(){ navigator.serviceWorker.register('sw.js').catch(function(){}); }); }
