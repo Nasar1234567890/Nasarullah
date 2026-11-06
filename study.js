@@ -742,32 +742,14 @@ var STUDY = {
 };
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
 var matTab = "paragraphs";
+var matOpen = true;
 var matData = null;
 var matSubj = null;
-function showSubjTab(tab){
-  var db = document.getElementById("submatbody");
-  if(!db) return;
-  ["definitions", "notes"].forEach(function(t){
-    var b = document.getElementById("subtab-" + t);
-    if(b) b.className = "modebtn" + (t === tab ? " sel" : "");
-  });
-  if(tab === "notes"){
-    db.innerHTML = "<p class=\"note\"><b>Notes</b> \\u2014 notes for this subject will be added here as they are ready.</p>";
-    filterMaterial();
-    return;
-  }
-  var defs = matData ? matData.definitions.filter(function(d){ return d.s === matSubj; }) : [];
-  if(defs.length){
-    var h = "";
-    defs.forEach(function(d){
-      h += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>";
-    });
-    db.innerHTML = h;
-  } else {
-    db.innerHTML = "<p class=\"note\">Study material for this subject is coming soon.</p>";
-  }
-  filterMaterial();
-}
+var matTabs = [];
+var matSubTab = "definitions";
+var matSubOpen = true;
+var matNoteUnit = 0;
+var matNoteOpen = true;
 function matItemsHtml(items){
   var html = "";
   items.forEach(function(item, i){
@@ -777,38 +759,10 @@ function matItemsHtml(items){
   });
   return html;
 }
-var matNoteUnit = 0;
-function showNoteUnit(i){
-  var units = matData ? matData.notes : null;
-  if(!units || !units[i]) return;
-  matNoteUnit = i;
-  units.forEach(function(n, j){
-    var b = document.getElementById("notetab-" + j);
-    if(b) b.className = "modebtn" + (j === i ? " sel" : "");
-  });
-  var nb = document.getElementById("notebody");
-  if(!nb) return;
-  var n = units[i];
-  var h = "<p class=\"note\"><b>" + escHtml(n.u) + " \u2014 " + escHtml(n.t) + "</b></p>";
-  if(n.items && n.items.length){
-    n.items.forEach(function(it){ h += "<p class=\"note\">" + escHtml(it) + "</p>"; });
-  } else {
-    h += "<p class=\"note\">Notes for this unit will be added here.</p>";
-  }
-  nb.innerHTML = h;
-}
-function showMatTab(tab){
-  matTab = tab;
+// content HTML for one English material tab (built once, shown inside its own tab)
+function matTabHtml(tab){
   var data = matData || STUDY.x;
-  if(!data) return;
-  var tabs = ["paragraphs", "essays", "synonyms", "verbforms", "definitions"];
-  if(data.notes) tabs.push("notes");
-  tabs.forEach(function(t){
-    var b = document.getElementById("mattab-" + t);
-    if(b) b.className = "modebtn" + (t === tab ? " sel" : "");
-  });
-  var body = document.getElementById("matbody");
-  if(!body) return;
+  if(!data) return "";
   var html = "";
   if(tab === "paragraphs") html = matItemsHtml(data.paragraphs);
   else if(tab === "essays") html = matItemsHtml(data.essays);
@@ -839,15 +793,74 @@ function showMatTab(tab){
   else if(tab === "notes"){
     html += "<p class=\"note\"><b>Chapter-wise notes</b> \u2014 choose a unit below. Each unit has its own tab, separate from the others.</p>";
     if(data.notes && data.notes.length){
-      html += "<p class=\"note\">" + data.notes.map(function(n, i){
-        return "<button class=\"modebtn\" id=\"notetab-" + i + "\" onclick=\"showNoteUnit(" + i + ")\">" + escHtml(n.u) + "</button>";
-      }).join(" ") + "</p><div id=\"notebody\"></div>";
+      data.notes.forEach(function(n, i){
+        html += "<div class=\"matsec\"><button class=\"modebtn\" id=\"notetab-" + i + "\" onclick=\"showNoteUnit(" + i + ")\">" + escHtml(n.u) + "</button><div id=\"notepanel-" + i + "\" class=\"matpanel\" style=\"display:none\"></div></div>";
+      });
     }
   }
-  body.innerHTML = html;
-  if(tab === "notes" && data.notes && data.notes.length) showNoteUnit(0);
+  return html;
+}
+function buildMatPanels(){
+  matTabs.forEach(function(t){
+    var p = document.getElementById("matpanel-" + t[0]);
+    if(p) p.innerHTML = matTabHtml(t[0]);
+  });
+  var data = matData || STUDY.x;
+  if(data && data.notes){
+    data.notes.forEach(function(n, i){
+      var p = document.getElementById("notepanel-" + i);
+      if(!p) return;
+      var h = "<p class=\"note\"><b>" + escHtml(n.u) + " \u2014 " + escHtml(n.t) + "</b></p>";
+      if(n.items && n.items.length){
+        n.items.forEach(function(it){ h += "<p class=\"note\">" + escHtml(it) + "</p>"; });
+      } else {
+        h += "<p class=\"note\">Notes for this unit will be added here.</p>";
+      }
+      p.innerHTML = h;
+    });
+  }
+}
+function buildSubPanels(){
+  var p = document.getElementById("subpanel-definitions");
+  if(p){
+    var defs = matData ? matData.definitions.filter(function(d){ return d.s === matSubj; }) : [];
+    if(defs.length){
+      var h = "";
+      defs.forEach(function(d){ h += "<p class=\"note\"><b>" + escHtml(d.t) + ":</b> " + escHtml(d.d) + "</p>"; });
+      p.innerHTML = h;
+    } else {
+      p.innerHTML = "<p class=\"note\">Study material for this subject is coming soon.</p>";
+    }
+  }
+  var n = document.getElementById("subpanel-notes");
+  if(n) n.innerHTML = "<p class=\"note\"><b>Notes</b> \u2014 notes for this subject will be added here as they are ready.</p>";
+}
+function showMatTab(tab){
+  var p = document.getElementById("matpanel-" + tab);
+  var open = (matTab === tab) && matOpen && p && p.style.display !== "none";
+  matTab = tab; matOpen = !open;
+  var si = document.getElementById("matSearch"); if(si) si.value = "";
+  matTabs.forEach(function(t){ var b = document.getElementById("mattab-" + t[0]); if(b) b.className = "modebtn" + ((matOpen && matTab === t[0]) ? " sel" : ""); });
   filterMaterial();
-  window.scrollTo(0, 0);
+}
+function showSubjTab(tab){
+  var p = document.getElementById("subpanel-" + tab);
+  var open = (matSubTab === tab) && matSubOpen && p && p.style.display !== "none";
+  matSubTab = tab; matSubOpen = !open;
+  var si = document.getElementById("matSearch"); if(si) si.value = "";
+  ["definitions", "notes"].forEach(function(t){ var b = document.getElementById("subtab-" + t); if(b) b.className = "modebtn" + ((matSubOpen && matSubTab === t) ? " sel" : ""); });
+  filterMaterial();
+}
+function showNoteUnit(i){
+  var p = document.getElementById("notepanel-" + i);
+  var open = (matNoteUnit === i) && matNoteOpen && p && p.style.display !== "none";
+  matNoteUnit = i; matNoteOpen = !open;
+  var si = document.getElementById("matSearch"); if(si) si.value = "";
+  var data = matData || STUDY.x;
+  if(data && data.notes){
+    data.notes.forEach(function(n, j){ var b = document.getElementById("notetab-" + j); if(b) b.className = "modebtn" + ((matNoteOpen && matNoteUnit === j) ? " sel" : ""); });
+  }
+  filterMaterial();
 }
 function renderSubjectMaterial(cls, subj){
   var box = document.getElementById("subjectmaterial");
@@ -860,25 +873,66 @@ function renderSubjectMaterial(cls, subj){
   var html = "<h3>Study Material</h3>";
   if(subj === "English"){
     if(!data){ box.innerHTML = ""; return; }
-    var tabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
-    if(data.notes) tabs.push(["notes", "Notes"]);
-    html += "<p class=\"note\">" + tabs.map(function(t){
-      return "<button class=\"modebtn\" id=\"mattab-" + t[0] + "\" onclick=\"showMatTab('" + t[0] + "')\">" + t[1] + "</button>";
-    }).join(" ") + "</p><p class=\"note\">" + tr('matSearchLabel') + " <input id=\"matSearch\" type=\"text\" oninput=\"filterMaterial()\" placeholder=\"" + tr('matSearchPlaceholder') + "\"></p><div id=\"matbody\"></div>";
+    matTabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
+    if(data.notes) matTabs.push(["notes", "Notes"]);
+    html += "<p class=\"note\">" + tr('matSearchLabel') + " <input id=\"matSearch\" type=\"text\" oninput=\"filterMaterial()\" placeholder=\"" + tr('matSearchPlaceholder') + "\"></p>";
+    matTabs.forEach(function(t){
+      html += "<div class=\"matsec\"><button class=\"modebtn\" id=\"mattab-" + t[0] + "\" onclick=\"showMatTab('" + t[0] + "')\">" + t[1] + "</button><div id=\"matpanel-" + t[0] + "\" class=\"matpanel\" style=\"display:none\"></div></div>";
+    });
     box.innerHTML = html;
+    matTab = "paragraphs"; matOpen = true;
+    buildMatPanels();
     showMatTab("paragraphs");
     return;
   }
-  html += "<p class=\"note\">" +
-    "<button class=\"modebtn\" id=\"subtab-definitions\" onclick=\"showSubjTab('definitions')\">Definitions</button> " +
-    "<button class=\"modebtn\" id=\"subtab-notes\" onclick=\"showSubjTab('notes')\">Notes</button></p>" +
-    "<p class=\"note\">" + tr('matSearchLabel') + " <input id=\"matSearch\" type=\"text\" oninput=\"filterMaterial()\" placeholder=\"" + tr('matSearchPlaceholder') + "\"></p><div id=\"submatbody\"></div>";
+  matTabs = [];
+  html += "<p class=\"note\">" + tr('matSearchLabel') + " <input id=\"matSearch\" type=\"text\" oninput=\"filterMaterial()\" placeholder=\"" + tr('matSearchPlaceholder') + "\"></p>";
+  html += "<div class=\"matsec\"><button class=\"modebtn\" id=\"subtab-definitions\" onclick=\"showSubjTab('definitions')\">Definitions</button><div id=\"subpanel-definitions\" class=\"matpanel\" style=\"display:none\"></div></div>";
+  html += "<div class=\"matsec\"><button class=\"modebtn\" id=\"subtab-notes\" onclick=\"showSubjTab('notes')\">Notes</button><div id=\"subpanel-notes\" class=\"matpanel\" style=\"display:none\"></div></div>";
   box.innerHTML = html;
+  matSubTab = "definitions"; matSubOpen = true;
+  buildSubPanels();
   showSubjTab("definitions");
 }
-
+// hide/show one panel's direct content items by search text; returns true if any content stays visible
+function matPanelMatches(panel, q){
+  var any = false;
+  Array.prototype.forEach.call(panel.children, function(ch){
+    if(ch.classList && (ch.classList.contains("matpanel") || ch.classList.contains("matsec"))) return;
+    var show = !q || ch.textContent.toLowerCase().indexOf(q) > -1;
+    ch.style.display = show ? "" : "none";
+    if(show) any = true;
+  });
+  return any;
+}
 function filterMaterial(){
-  var inp=document.getElementById('matSearch'); if(!inp) return;
-  var q=inp.value.trim().toLowerCase();
-  ['matbody','submatbody'].forEach(function(id){ var b=document.getElementById(id); if(!b) return; Array.prototype.forEach.call(b.children, function(ch){ ch.style.display=(!q||ch.textContent.toLowerCase().indexOf(q)>-1)?'':'none'; }); });
+  var inp = document.getElementById('matSearch'); if(!inp) return;
+  var q = inp.value.trim().toLowerCase();
+  var data = matData || STUDY.x;
+  // note-unit panels (inside the notes tab)
+  var noteAny = false;
+  if(data && data.notes){
+    data.notes.forEach(function(n, i){
+      var p = document.getElementById("notepanel-" + i);
+      if(!p) return;
+      var any = matPanelMatches(p, q);
+      p.style.display = (q ? any : (matNoteOpen && matNoteUnit === i)) ? "" : "none";
+      var b = document.getElementById("notetab-" + i);
+      if(b && b.parentNode) b.parentNode.style.display = (q ? any : true) ? "" : "none";
+      if(any) noteAny = true;
+    });
+  }
+  // English material tabs
+  matTabs.forEach(function(t){
+    var p = document.getElementById("matpanel-" + t[0]); if(!p) return;
+    var any = matPanelMatches(p, q);
+    if(t[0] === "notes") any = any || noteAny;
+    p.style.display = (q ? any : (matOpen && matTab === t[0])) ? "" : "none";
+  });
+  // other subjects: definitions / notes tabs
+  ["definitions", "notes"].forEach(function(t){
+    var p = document.getElementById("subpanel-" + t); if(!p) return;
+    var any = matPanelMatches(p, q);
+    p.style.display = (q ? any : (matSubOpen && matSubTab === t)) ? "" : "none";
+  });
 }
