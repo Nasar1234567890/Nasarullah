@@ -2,7 +2,7 @@
    Lets students open and take tests offline once they have visited the site.
    Cache-first with background refresh for same-origin GET requests only;
    form submissions and other requests are never cached. */
-const CACHE = 'mcq-tests-v14';
+const CACHE = 'mcq-tests-v15';
 const ASSETS = [
   './',
   'index.html',
@@ -13,7 +13,8 @@ const ASSETS = [
   'icon-512.png',
   'icon.svg',
   'fonts/NotoNaskhArabic-Regular.ttf',
-  'fonts/NotoNaskhArabic-Bold.ttf'
+  'fonts/NotoNaskhArabic-Bold.ttf',
+  'fonts/NotoNastaliqUrdu-Regular.woff2'
 ];
 
 self.addEventListener('install', function (e) {
