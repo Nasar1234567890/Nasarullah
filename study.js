@@ -12296,9 +12296,61 @@ function openMathUnit(n, cls, subj){
   navPush({view:'material', cls:c, subj:s, tab:'exsolutions', unit:n, math:1});
 }
 // Render maths text: escape HTML, then turn [[a/b]] into a fraction with a horizontal bar.
+// Render maths text: escape HTML, turn ^exponents into <sup> (no ^ sign shown,
+// as in the book: 2^2 renders as 2 with a raised 2), then turn [[a/b]] into a
+// fraction with a horizontal bar. Sup conversion uses control-char markers so
+// the </sup> slash cannot break the fraction regex; markers are restored after.
+var SUP_OPEN = '\u0001', SUP_CLOSE = '\u0002';
+function supConvert(s){
+  var out = '', i = 0;
+  while(i < s.length){
+    if(s[i] === '^'){
+      var j = i + 1, exp = '', next = 0;
+      if(s[j] === '('){
+        var depth = 0, k = j, ok = false;
+        while(k < s.length){
+          if(s[k] === '(') depth++;
+          else if(s[k] === ')'){ depth--; if(depth === 0){ ok = true; k++; break; } }
+          k++;
+        }
+        if(!ok){ out += s[i]; i++; continue; }
+        exp = supConvert(s.slice(j + 1, k - 1));
+        out += SUP_OPEN + exp + SUP_CLOSE;
+        i = k;
+      } else if(s[j] === '[' && s[j + 1] === '['){
+        var k2 = s.indexOf(']]', j);
+        if(k2 === -1){ out += s[i]; i++; continue; }
+        exp = supConvert(s.slice(j, k2 + 2));
+        out += SUP_OPEN + exp + SUP_CLOSE;
+        i = k2 + 2;
+      } else {
+        var k3 = j;
+        if(s[k3] === '-' || s[k3] === '+') k3++;
+        if(/[0-9]/.test(s[k3] || '')){
+          while(/[0-9]/.test(s[k3] || '')) k3++;
+          if(s[k3] === '.' && /[0-9]/.test(s[k3 + 1] || '')){ k3++; while(/[0-9]/.test(s[k3] || '')) k3++; }
+          exp = s.slice(j, k3);
+          next = k3;
+        } else if(/[A-Za-z]/.test(s[k3] || '')){
+          exp = s.slice(j, k3 + 1);
+          next = k3 + 1;
+        } else {
+          out += s[i]; i++; continue;
+        }
+        out += SUP_OPEN + exp + SUP_CLOSE;
+        i = next;
+      }
+    } else {
+      out += s[i]; i++;
+    }
+  }
+  return out;
+}
 function mathHtml(s){
   var h = escHtml(s);
-  return h.replace(/\[\[([^\]\/]+)\/([^\]]+)\]\]/g, '<span class="frac"><span class="num">$1</span><span class="den">$2</span></span>');
+  h = supConvert(h);
+  h = h.replace(/\[\[([^\]\/]+)\/([^\]]+)\]\]/g, '<span class="frac"><span class="num">$1</span><span class="den">$2</span></span>');
+  return h.split(SUP_OPEN).join('<sup>').split(SUP_CLOSE).join('</sup>');
 }
 // Full HTML for one Maths exercise-solution unit: shortcut links, then each exercise.
 function mathUnitHtml(n){
