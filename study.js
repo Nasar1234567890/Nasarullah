@@ -7289,15 +7289,53 @@ var STUDY = {
               },
               {
                 "a": "(i) A ∪ B = {1, 2, 3, 4, 5, 6, 8, 10}\n(ii) B ∩ A = {2, 4, 6}\n(iii) A - B = {1, 3, 5}\n(iv) B - A = {8, 10}\n(v) AΔB = {1, 3, 5, 8, 10}",
-                "q": "If A = {1, 2, 3, 4, 5, 6} and B = {2, 4, 6, 8, 10} then find\n(i) A ∪ B (ii) B ∩ A (iii) A - B (iv) B - A (v) AΔB"
+                "q": "If A = {1, 2, 3, 4, 5, 6} and B = {2, 4, 6, 8, 10} then find\n(i) A ∪ B (ii) B ∩ A (iii) A - B (iv) B - A (v) AΔB",
+                "da": {
+                  "type": "venn2",
+                  "sets": [
+                    "A",
+                    "B"
+                  ],
+                  "regions": {
+                    "A": "1, 3, 5",
+                    "B": "8, 10",
+                    "AB": "2, 4, 6"
+                  }
+                }
               },
               {
                 "a": "(i) A' = {6, 7, 8, 9, 10}\n(ii) B' = {2, 4, 6, 8, 10}\n(iii) A' ∪ B' = {2, 4, 6, 7, 8, 9, 10}\n(iv) A' ∩ B' = {6, 8, 10}\n(v) (A ∪ B)' = {6, 8, 10}\n(vi) (A ∩ B)' = {2, 4, 6, 7, 8, 9, 10}\n(vii) A'ΔB' = {2, 4, 7, 9}\n(viii) (AΔB)' = {1, 3, 5, 6, 8, 10}\n(ix) A - B' = {1, 3, 5}\n(x) A' - B = {6, 8, 10}",
-                "q": "If U = {1, 2, 3, ..., 10}, A = {1, 2, 3, 4, 5} and B = {1, 3, 5, 7, 9} then find:\n(i) A' (ii) B' (iii) A' ∪ B' (iv) A' ∩ B' (v) (A ∪ B)' (vi) (A ∩ B)' (vii) A'ΔB' (viii) (AΔB)' (ix) A - B' (x) A' - B"
+                "q": "If U = {1, 2, 3, ..., 10}, A = {1, 2, 3, 4, 5} and B = {1, 3, 5, 7, 9} then find:\n(i) A' (ii) B' (iii) A' ∪ B' (iv) A' ∩ B' (v) (A ∪ B)' (vi) (A ∩ B)' (vii) A'ΔB' (viii) (AΔB)' (ix) A - B' (x) A' - B",
+                "da": {
+                  "type": "venn2",
+                  "sets": [
+                    "A",
+                    "B"
+                  ],
+                  "regions": {
+                    "A": "2, 4",
+                    "B": "7, 9",
+                    "AB": "1, 3, 5",
+                    "U": "6, 8, 10"
+                  }
+                }
               },
               {
                 "a": "U = {-3, -2, -1, 0, 1, 2, 3, 4, 5}\nP = {-2, 0, 2, 4}\nQ = {2, 3, 5}\nP' = {-3, -1, 1, 3, 5}\nQ' = {-3, -2, -1, 0, 1, 4}\n(i) P - Q = {-2, 0, 4}\nP ∩ Q' = {-2, 0, 4}\nP - Q = P ∩ Q'\n(ii) Q - P = {3, 5}\nQ ∩ P' = {3, 5}\nQ - P = Q ∩ P'\n(iii) (P ∪ Q)' = {-3, -1, 1}\nP' ∩ Q' = {-3, -1, 1}\n(P ∪ Q)' = P' ∩ Q'\n(iv) (P ∩ Q)' = {-3, -2, -1, 0, 1, 3, 4, 5}\nP' ∪ Q' = {-3, -2, -1, 0, 1, 3, 4, 5}\n(P ∩ Q)' = P' ∪ Q'",
-                "q": "If U = {x | x ∈ Z ∧ -4 < x < 6}, P = {p | p ∈ E ∧ -4 < p < 6}, Q = {q | q ∈ ℙ ∧ q < 6} then show that:\n(i) P - Q = P ∩ Q'\n(ii) Q - P = Q ∩ P'\n(iii) (P ∪ Q)' = P' ∩ Q'\n(iv) (P ∩ Q)' = P' ∪ Q'"
+                "q": "If U = {x | x ∈ Z ∧ -4 < x < 6}, P = {p | p ∈ E ∧ -4 < p < 6}, Q = {q | q ∈ ℙ ∧ q < 6} then show that:\n(i) P - Q = P ∩ Q'\n(ii) Q - P = Q ∩ P'\n(iii) (P ∪ Q)' = P' ∩ Q'\n(iv) (P ∩ Q)' = P' ∪ Q'",
+                "da": {
+                  "type": "venn2",
+                  "sets": [
+                    "P",
+                    "Q"
+                  ],
+                  "regions": {
+                    "A": "-2, 0, 4",
+                    "B": "3, 5",
+                    "AB": "2",
+                    "U": "-3, -1, 1"
+                  }
+                }
               },
               {
                 "a": "(i) A ∩ B = {6n | n ∈ N}\n(ii) A ∪ C = {2n | n ∈ N}\n(iii) B ∩ C = {12n | n ∈ N}\n(iv) A ∩ C = {4n | n ∈ N}",
@@ -7339,19 +7377,73 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) A ∪ B: shade both circles\nA ∩ B: nothing shaded\nAΔB: shade both circles\nA - B: shade circle A only\n(ii) A ∪ B: shade both circles\nA ∩ B: shade the common part\nAΔB: shade both circles except the common part\nA - B: shade the part of circle A outside circle B\n(iii) A ∪ B: shade circle B\nA ∩ B: shade circle A\nAΔB: shade the part of circle B outside circle A\nA - B: nothing shaded",
-                "q": "If A and B are any two subsets of U then draw Venn diagrams in general of A ∪ B, A ∩ B, AΔB and A - B, if\n(i) A and B are disjoint sets.\n(ii) A and B are overlapping sets.\n(iii) A is subset of B."
+                "q": "If A and B are any two subsets of U then draw Venn diagrams in general of A ∪ B, A ∩ B, AΔB and A - B, if\n(i) A and B are disjoint sets.\n(ii) A and B are overlapping sets.\n(iii) A is subset of B.",
+                "da": {
+                  "type": "venn2",
+                  "sets": [
+                    "A",
+                    "B"
+                  ],
+                  "regions": {
+                    "A": "A - B",
+                    "B": "B - A",
+                    "AB": "A ∩ B"
+                  }
+                }
               },
               {
                 "a": "(i) A ∪ B = {a, b, c, d, e, i, o, u}\nB ∪ A = {a, b, c, d, e, i, o, u}\nA ∪ B = B ∪ A\nA ∩ B = {a, e}\nB ∩ A = {a, e}\nA ∩ B = B ∩ A\n(ii) P ∪ Q = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\nQ ∪ P = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\nP ∪ Q = Q ∪ P\nP ∩ Q = {2, 4, 6, 8, 10}\nQ ∩ P = {2, 4, 6, 8, 10}\nP ∩ Q = Q ∩ P",
-                "q": "Verify commutative property of union and intersection using Venn diagram if\n(i) A = {a, b, c, d, e} and B = {a, e, i, o, u}\n(ii) P = {1, 2, 3, ..., 10} and Q = {2, 4, 6, 8, 10}"
+                "q": "Verify commutative property of union and intersection using Venn diagram if\n(i) A = {a, b, c, d, e} and B = {a, e, i, o, u}\n(ii) P = {1, 2, 3, ..., 10} and Q = {2, 4, 6, 8, 10}",
+                "da": {
+                  "type": "venn2",
+                  "sets": [
+                    "A",
+                    "B"
+                  ],
+                  "regions": {
+                    "A": "b, c, d",
+                    "B": "i, o, u",
+                    "AB": "a, e"
+                  }
+                }
               },
               {
                 "a": "(a) A ∪ B = {1, 3, 5, 6, 7, 8, 9}\n(A ∪ B)' = {2, 4, 10}\nA' = {2, 4, 6, 8, 10}\nB' = {1, 2, 3, 4, 9, 10}\nA' ∩ B' = {2, 4, 10}\n(A ∪ B)' = A' ∩ B'\n(b) A ∩ B = {5, 7}\n(A ∩ B)' = {1, 2, 3, 4, 6, 8, 9, 10}\nA' ∪ B' = {1, 2, 3, 4, 6, 8, 9, 10}\n(A ∩ B)' = A' ∪ B'",
-                "q": "Verify De Morgan's laws using Venn diagram if\nA = {1, 3, 5, 7, 9}, B = {5, 6, 7, 8} and U = {1, 2, 3, ..., 10}"
+                "q": "Verify De Morgan's laws using Venn diagram if\nA = {1, 3, 5, 7, 9}, B = {5, 6, 7, 8} and U = {1, 2, 3, ..., 10}",
+                "da": {
+                  "type": "venn2",
+                  "sets": [
+                    "A",
+                    "B"
+                  ],
+                  "regions": {
+                    "A": "1, 3, 9",
+                    "B": "6, 8",
+                    "AB": "5, 7",
+                    "U": "2, 4, 10"
+                  }
+                }
               },
               {
                 "a": "B ∪ C = {4, 5, 6, 7, 8, 9, 10, 11}\nA ∪ (B ∪ C) = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}\nA ∪ B = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\n(A ∪ B) ∪ C = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}\nA ∪ (B ∪ C) = (A ∪ B) ∪ C\nB ∩ C = {7, 9}\nA ∩ (B ∩ C) = {7}\nA ∩ B = {4, 6, 7, 8}\n(A ∩ B) ∩ C = {7}\nA ∩ (B ∩ C) = (A ∩ B) ∩ C\nB ∩ C = {7, 9}\nA ∪ (B ∩ C) = {1, 2, 3, 4, 5, 6, 7, 8, 9}\nA ∪ B = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\nA ∪ C = {1, 2, 3, 4, 5, 6, 7, 8, 9, 11}\n(A ∪ B) ∩ (A ∪ C) = {1, 2, 3, 4, 5, 6, 7, 8, 9}\nA ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)\nB ∪ C = {4, 5, 6, 7, 8, 9, 10, 11}\nA ∩ (B ∪ C) = {4, 5, 6, 7, 8}\nA ∩ B = {4, 6, 7, 8}\nA ∩ C = {5, 7}\n(A ∩ B) ∪ (A ∩ C) = {4, 5, 6, 7, 8}\nA ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)",
-                "q": "Verify associative laws and distributive laws using Venn diagram\nif A = {1, 2, 3, ..., 8}, B = {4, 6, 7, 8, 9, 10} and C = {5, 7, 9, 11}"
+                "q": "Verify associative laws and distributive laws using Venn diagram\nif A = {1, 2, 3, ..., 8}, B = {4, 6, 7, 8, 9, 10} and C = {5, 7, 9, 11}",
+                "da": {
+                  "type": "venn3",
+                  "sets": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "regions": {
+                    "A": "1, 2, 3",
+                    "B": "10",
+                    "C": "11",
+                    "AB": "4, 6, 8",
+                    "AC": "5",
+                    "BC": "9",
+                    "ABC": "7"
+                  }
+                }
               }
             ],
             "label": "Exercise 17.4"
@@ -7429,7 +7521,19 @@ var STUDY = {
               },
               {
                 "a": "(a) P ∪ Q = {1, 3, 5, 7}\nP ∪ Q: shade both circles\n(b) P ∩ Q = {1, 3}\nP ∩ Q: shade the common part\n(c) PΔQ = {5, 7}\nPΔQ: shade both circles except the common part\n(d) P - Q = {5}\nP - Q: shade the part of circle P outside circle Q",
-                "q": "For sets P = {1, 3, 5} and Q = {1, 3, 7} represent the following set by using Venn diagram.\n(a) P ∪ Q (b) P ∩ Q (c) PΔQ (d) P - Q"
+                "q": "For sets P = {1, 3, 5} and Q = {1, 3, 7} represent the following set by using Venn diagram.\n(a) P ∪ Q (b) P ∩ Q (c) PΔQ (d) P - Q",
+                "da": {
+                  "type": "venn2",
+                  "sets": [
+                    "P",
+                    "Q"
+                  ],
+                  "regions": {
+                    "A": "5",
+                    "B": "7",
+                    "AB": "1, 3"
+                  }
+                }
               },
               {
                 "a": "(a) A × A = {(a, a), (a, c), (c, a), (c, c)}\nR1 = {(a, a), (a, c)}\nR2 = {(c, a), (c, c)}\n(b) B × B = {(b, b), (b, d), (d, b), (d, d)}\nR1 = {(b, b), (b, d)}\nR2 = {(d, b), (d, d)}\nR3 = {(b, b), (d, d)}\n(c) A × B = {(a, b), (a, d), (c, b), (c, d)}\nR1 = {(a, b)}\nR2 = {(a, d), (c, b)}\nR3 = {(c, b), (c, d)}\n(d) A ∪ B = {a, b, c, d}\nR1 = {(a, c), (b, d)}\nR2 = {(c, c), (d, c)}",
@@ -7919,7 +8023,36 @@ var STUDY = {
               },
               {
                 "a": "α + β = 8\nβ = 8 - α\nthe equation of a straight line in the αβ-plane, with α-intercept 8 and β-intercept 8\nα = 0, β = 8\nα = 1, β = 7\nα = 2, β = 6\nα = 3, β = 5\nα = 4, β = 4\nα = 5, β = 3\nα = 6, β = 2\nα = 7, β = 1\nα = 8, β = 0\nStraight line through (0, 8) and (8, 0), sloping downwards at 45°",
-                "q": "Represent symmetric equation α + β = 8 graphically when α and β are the root of a quadratic equation and also plot the graph."
+                "q": "Represent symmetric equation α + β = 8 graphically when α and β are the root of a quadratic equation and also plot the graph.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -1,
+                    9
+                  ],
+                  "y": [
+                    -1,
+                    9
+                  ],
+                  "points": [
+                    [
+                      0,
+                      8,
+                      "(0, 8)"
+                    ],
+                    [
+                      8,
+                      0,
+                      "(8, 0)"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "m": -1,
+                      "c": 8
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 20.4"
@@ -8030,11 +8163,139 @@ var STUDY = {
               },
               {
                 "a": "Base = (x + 3) cm\nHypotenuse = 15 cm\nx² + (x + 3)² = 15²\nx² + x² + 6x + 9 = 225\n2x² + 6x - 216 = 0\nx² + 3x - 108 = 0\n(x + 12)(x - 9) = 0\nx = -12\nx = 9\nBase = x + 3 = 12 cm",
-                "q": "The length of the base of the right triangle exceeds the length of the perpendicular by 3cm. When hypotenuse of the triangle is 15cm. Find the length of base and perpendicular."
+                "q": "The length of the base of the right triangle exceeds the length of the perpendicular by 3cm. When hypotenuse of the triangle is 15cm. Find the length of base and perpendicular.",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      9
+                    ],
+                    [
+                      12,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "15 cm",
+                    "BC": "12 cm",
+                    "CA": "9 cm"
+                  },
+                  "right": "C"
+                }
               },
               {
                 "a": "2x + y = 36\ny = 36 - 2x ...(i)\nx² = 12² + ([[y/2]])²\nx² - [[y²/4]] = 144\n4x² - y² = 576 ...(ii)\n4x² - (36 - 2x)² = 576\n4x² - (1296 - 144x + 4x²) = 576\n144x - 1296 = 576\n144x = 1872\nx = 13\ny = 36 - 2(13) = 10",
-                "q": "The perimeter of an isosceles triangle is 36cm. The altitude to unequal side of the triangle is 12cm. Find the length of the three sides of the triangle."
+                "q": "The perimeter of an isosceles triangle is 36cm. The altitude to unequal side of the triangle is 12cm. Find the length of the three sides of the triangle.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          37
+                        ],
+                        [
+                          40,
+                          205
+                        ],
+                        [
+                          260,
+                          205
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 37,
+                      "x2": 150,
+                      "y2": 205
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 37,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 40,
+                      "y": 205,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 260,
+                      "y": 205,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 205,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 73,
+                      "y": 121,
+                      "s": "13 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 211,
+                      "y": 121,
+                      "s": "13 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 142,
+                      "y": 223,
+                      "s": "10 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 158,
+                      "y": 121,
+                      "s": "12 cm"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          205
+                        ],
+                        [
+                          150,
+                          193
+                        ],
+                        [
+                          162,
+                          193
+                        ],
+                        [
+                          162,
+                          205
+                        ]
+                      ]
+                    }
+                  ]
+                }
               },
               {
                 "a": "x - y = 5 ...(i)\nx² - y² = 275 ...(ii)\nx² - y² = (x - y)(x + y) = 5(x + y)\n5(x + y) = 275\nx + y = 55 ...(iii)\n2x = 60\nx = 30\ny = 55 - 30 = 25",
@@ -8276,19 +8537,1174 @@ var STUDY = {
             "items": [
               {
                 "a": "n = 2 + 5 + 4 + 3 + 1\n= 15\nd = 1\nMarks | f | %\n1 | 2 | [[2/15]] x 100 = 13.33\n2 | 5 | [[5/15]] x 100 = 33.33\n3 | 4 | [[4/15]] x 100 = 26.67\n4 | 3 | [[3/15]] x 100 = 20\n5 | 1 | [[1/15]] x 100 = 6.67\nHistogram: X = marks, Y = %\nPolygon: (0, 0), (1, 2), (2, 5), (3, 4), (4, 3), (5, 1), (6, 0)\nUCB | cf\n0.5* | 0\n1.5 | 2\n2.5 | 7\n3.5 | 11\n4.5 | 14\n5.5 | 15\nOgive: (0.5*, 0), (1.5, 2), (2.5, 7), (3.5, 11), (4.5, 14), (5.5, 15)",
-                "q": "Obtain percentage histogram, frequency polygon, cumulative frequency table and ogive for the following data.\nMarks of Students | 1 | 2 | 3 | 4 | 5\nNumber of Students | 2 | 5 | 4 | 3 | 1"
+                "q": "Obtain percentage histogram, frequency polygon, cumulative frequency table and ogive for the following data.\nMarks of Students | 1 | 2 | 3 | 4 | 5\nNumber of Students | 2 | 5 | 4 | 3 | 1",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 250,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 312,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 18,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 90.33,
+                      "y1": 212,
+                      "x2": 90.33,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 82.33,
+                      "y": 230,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 134.67,
+                      "y1": 212,
+                      "x2": 134.67,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 126.67,
+                      "y": 230,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 179,
+                      "y1": 212,
+                      "x2": 179,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 171,
+                      "y": 230,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 223.33,
+                      "y1": 212,
+                      "x2": 223.33,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 215.33,
+                      "y": 230,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 267.67,
+                      "y1": 212,
+                      "x2": 267.67,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 259.67,
+                      "y": 230,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 216,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 156.57,
+                      "x2": 46,
+                      "y2": 156.57
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 160.57,
+                      "s": "10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 101.14,
+                      "x2": 46,
+                      "y2": 101.14
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 105.14,
+                      "s": "20"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 45.71,
+                      "x2": 46,
+                      "y2": 45.71
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 49.71,
+                      "s": "30"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "%"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          68.17,
+                          212
+                        ],
+                        [
+                          112.5,
+                          212
+                        ],
+                        [
+                          112.5,
+                          138.11
+                        ],
+                        [
+                          68.17,
+                          138.11
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 82.33,
+                      "y": 132.11,
+                      "s": "13.33"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          112.5,
+                          212
+                        ],
+                        [
+                          156.83,
+                          212
+                        ],
+                        [
+                          156.83,
+                          27.26
+                        ],
+                        [
+                          112.5,
+                          27.26
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 126.67,
+                      "y": 21.26,
+                      "s": "33.33"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          156.83,
+                          212
+                        ],
+                        [
+                          201.17,
+                          212
+                        ],
+                        [
+                          201.17,
+                          64.17
+                        ],
+                        [
+                          156.83,
+                          64.17
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 171,
+                      "y": 58.17,
+                      "s": "26.67"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          201.17,
+                          212
+                        ],
+                        [
+                          245.5,
+                          212
+                        ],
+                        [
+                          245.5,
+                          101.14
+                        ],
+                        [
+                          201.17,
+                          101.14
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 215.33,
+                      "y": 95.14,
+                      "s": "20"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          245.5,
+                          212
+                        ],
+                        [
+                          289.83,
+                          212
+                        ],
+                        [
+                          289.83,
+                          175.03
+                        ],
+                        [
+                          245.5,
+                          175.03
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 259.67,
+                      "y": 169.03,
+                      "s": "6.67"
+                    }
+                  ]
+                }
               },
               {
                 "a": "d = 1\n[[d/2]] = 0.5\nClass limits | Class boundaries | h* | f* | [[f*/h*]]\n0-39 | -0.5-39.5 | 40 | 6 | [[6/40]] = 0.15\n40-49 | 39.5-49.5 | 10 | 8 | [[8/10]] = 0.8\n50-79 | 49.5-79.5 | 30 | 12 | [[12/30]] = 0.4\n80-99 | 79.5-99.5 | 20 | 4 | [[4/20]] = 0.2\nHistogram: X = class boundaries, Y = [[f*/h*]]\n40 x 0.15 = 6\n10 x 0.8 = 8\n30 x 0.4 = 12\n20 x 0.2 = 4",
-                "q": "Construct histogram for the following data with unequal class intervals:\nClass limits | 0-39 | 40-49 | 50-79 | 80-99\nFrequencies | 6 | 8 | 12 | 4"
+                "q": "Construct histogram for the following data with unequal class intervals:\nClass limits | 0-39 | 40-49 | 50-79 | 80-99\nFrequencies | 6 | 8 | 12 | 4",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 250,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 312,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 18,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 68.17,
+                      "y1": 212,
+                      "x2": 68.17,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 60.17,
+                      "y": 230,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 112.5,
+                      "y1": 212,
+                      "x2": 112.5,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 104.5,
+                      "y": 230,
+                      "s": "20"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 156.83,
+                      "y1": 212,
+                      "x2": 156.83,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 148.83,
+                      "y": 230,
+                      "s": "40"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.17,
+                      "y1": 212,
+                      "x2": 201.17,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 193.17,
+                      "y": 230,
+                      "s": "60"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 245.5,
+                      "y1": 212,
+                      "x2": 245.5,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 237.5,
+                      "y": 230,
+                      "s": "80"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 289.83,
+                      "y1": 212,
+                      "x2": 289.83,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 281.83,
+                      "y": 230,
+                      "s": "100"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 216,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 168.89,
+                      "x2": 46,
+                      "y2": 168.89
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 172.89,
+                      "s": "0.2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 125.78,
+                      "x2": 46,
+                      "y2": 125.78
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 129.78,
+                      "s": "0.4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 82.67,
+                      "x2": 46,
+                      "y2": 82.67
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 86.67,
+                      "s": "0.6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 39.56,
+                      "x2": 46,
+                      "y2": 39.56
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 43.56,
+                      "s": "0.8"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "f/h"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          67.06,
+                          212
+                        ],
+                        [
+                          155.73,
+                          212
+                        ],
+                        [
+                          155.73,
+                          179.67
+                        ],
+                        [
+                          67.06,
+                          179.67
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 103.39,
+                      "y": 173.67,
+                      "s": "0.15"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          155.73,
+                          212
+                        ],
+                        [
+                          177.89,
+                          212
+                        ],
+                        [
+                          177.89,
+                          39.56
+                        ],
+                        [
+                          155.73,
+                          39.56
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 158.81,
+                      "y": 33.56,
+                      "s": "0.8"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          177.89,
+                          212
+                        ],
+                        [
+                          244.39,
+                          212
+                        ],
+                        [
+                          244.39,
+                          125.78
+                        ],
+                        [
+                          177.89,
+                          125.78
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 203.14,
+                      "y": 119.78,
+                      "s": "0.4"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          244.39,
+                          212
+                        ],
+                        [
+                          288.73,
+                          212
+                        ],
+                        [
+                          288.73,
+                          168.89
+                        ],
+                        [
+                          244.39,
+                          168.89
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 258.56,
+                      "y": 162.89,
+                      "s": "0.2"
+                    }
+                  ]
+                }
               },
               {
                 "a": "n = 2 + 6 + 12 + 14 + 4 + 2\n= 40\nd = 10\n[[d/2]] = 5\nClass limits | Class boundaries | h* | f* | [[f*/h*]]\n20-40 | 15-45 | 30 | 2 | [[2/30]] = 0.067\n50-70 | 45-75 | 30 | 6 | [[6/30]] = 0.2\n80-90 | 75-95 | 20 | 12 | [[12/20]] = 0.6\n100-110 | 95-115 | 20 | 14 | [[14/20]] = 0.7\n120-140 | 115-145 | 30 | 4 | [[4/30]] = 0.133\n150-170 | 145-175 | 30 | 2 | [[2/30]] = 0.067\nHistogram: X = class boundaries, Y = [[f*/h*]]\nx = [[(LCL + UCL)/2]]\nx | f\n30 | 2\n60 | 6\n85 | 12\n105 | 14\n130 | 4\n160 | 2\nPolygon: (0, 0), (30, 2), (60, 6), (85, 12), (105, 14), (130, 4), (160, 2), (190, 0)\nUCB | cf\n15* | 0\n45 | 2\n75 | 8\n95 | 20\n115 | 34\n145 | 38\n175 | 40\nOgive: (15*, 0), (45, 2), (75, 8), (95, 20), (115, 34), (145, 38), (175, 40)",
-                "q": "Construct histogram, frequency polygon, cumulative frequency table and ogive.\nAmount of money earned weekly | 20-40 | 50-70 | 80-90 | 100-110 | 120-140 | 150-170\nNumber of people | 2 | 6 | 12 | 14 | 4 | 2"
+                "q": "Construct histogram, frequency polygon, cumulative frequency table and ogive.\nAmount of money earned weekly | 20-40 | 50-70 | 80-90 | 100-110 | 120-140 | 150-170\nNumber of people | 2 | 6 | 12 | 14 | 4 | 2",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 250,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 312,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 18,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 38,
+                      "y": 230,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 116,
+                      "y1": 212,
+                      "x2": 116,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 108,
+                      "y": 230,
+                      "s": "50"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 186,
+                      "y1": 212,
+                      "x2": 186,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 178,
+                      "y": 230,
+                      "s": "100"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 256,
+                      "y1": 212,
+                      "x2": 256,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 248,
+                      "y": 230,
+                      "s": "150"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 216,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 163.5,
+                      "x2": 46,
+                      "y2": 163.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 167.5,
+                      "s": "0.2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 115,
+                      "x2": 46,
+                      "y2": 115
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 119,
+                      "s": "0.4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 66.5,
+                      "x2": 46,
+                      "y2": 66.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 70.5,
+                      "s": "0.6"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "f/h"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          67,
+                          212
+                        ],
+                        [
+                          109,
+                          212
+                        ],
+                        [
+                          109,
+                          195.75
+                        ],
+                        [
+                          67,
+                          195.75
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 80,
+                      "y": 189.75,
+                      "s": "0.067"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          109,
+                          212
+                        ],
+                        [
+                          151,
+                          212
+                        ],
+                        [
+                          151,
+                          163.5
+                        ],
+                        [
+                          109,
+                          163.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 122,
+                      "y": 157.5,
+                      "s": "0.2"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          151,
+                          212
+                        ],
+                        [
+                          179,
+                          212
+                        ],
+                        [
+                          179,
+                          66.5
+                        ],
+                        [
+                          151,
+                          66.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 60.5,
+                      "s": "0.6"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          179,
+                          212
+                        ],
+                        [
+                          207,
+                          212
+                        ],
+                        [
+                          207,
+                          42.25
+                        ],
+                        [
+                          179,
+                          42.25
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 185,
+                      "y": 36.25,
+                      "s": "0.7"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          207,
+                          212
+                        ],
+                        [
+                          249,
+                          212
+                        ],
+                        [
+                          249,
+                          179.75
+                        ],
+                        [
+                          207,
+                          179.75
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 220,
+                      "y": 173.75,
+                      "s": "0.133"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          249,
+                          212
+                        ],
+                        [
+                          291,
+                          212
+                        ],
+                        [
+                          291,
+                          195.75
+                        ],
+                        [
+                          249,
+                          195.75
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 262,
+                      "y": 189.75,
+                      "s": "0.067"
+                    }
+                  ]
+                }
               },
               {
                 "a": "n = 2 + 7 + 10 + 12 + 8\n= 39\nd = 0.1\n[[d/2]] = 0.05\n12.5-12.9 | 0\nClass limits | Class boundaries | x | f | [[f/n]]\n10.5-10.9 | 10.45-10.95 | 10.7 | 2 | [[2/39]] = 0.0513\n11.0-11.4 | 10.95-11.45 | 11.2 | 7 | [[7/39]] = 0.1795\n11.5-11.9 | 11.45-11.95 | 11.7 | 10 | [[10/39]] = 0.2564\n12.0-12.4 | 11.95-12.45 | 12.2 | 12 | [[12/39]] = 0.3077\n13.0-13.4 | 12.95-13.45 | 13.2 | 8 | [[8/39]] = 0.2051\nTotal | --- | --- | 39 | 1\nHistogram: X = class boundaries, Y = f\nPolygon: (10.2, 0), (10.7, 0.0513), (11.2, 0.1795), (11.7, 0.2564), (12.2, 0.3077), (13.2, 0.2051), (14.2, 0)\nUCB | cf\n10.45* | 0\n10.95 | 2\n11.45 | 9\n11.95 | 19\n12.45 | 31\n13.45 | 39\nOgive: (10.45*, 0), (10.95, 2), (11.45, 9), (11.95, 19), (12.45, 31), (13.45, 39)",
-                "q": "Plot histogram, relative frequency polygon, and ogive for the following data.\nClass limits | 10.5-10.9 | 11.0-11.4 | 11.5-11.9 | 12.0-12.4 | 13.0-13.4\nFrequencies | 2 | 7 | 10 | 12 | 8"
+                "q": "Plot histogram, relative frequency polygon, and ogive for the following data.\nClass limits | 10.5-10.9 | 11.0-11.4 | 11.5-11.9 | 12.0-12.4 | 13.0-13.4\nFrequencies | 2 | 7 | 10 | 12 | 8",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 250,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 312,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 18,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 68.8,
+                      "y1": 212,
+                      "x2": 68.8,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 60.8,
+                      "y": 230,
+                      "s": "10.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 106.8,
+                      "y1": 212,
+                      "x2": 106.8,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 98.8,
+                      "y": 230,
+                      "s": "11"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 144.8,
+                      "y1": 212,
+                      "x2": 144.8,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 136.8,
+                      "y": 230,
+                      "s": "11.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 182.8,
+                      "y1": 212,
+                      "x2": 182.8,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 174.8,
+                      "y": 230,
+                      "s": "12"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 220.8,
+                      "y1": 212,
+                      "x2": 220.8,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 212.8,
+                      "y": 230,
+                      "s": "12.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 258.8,
+                      "y1": 212,
+                      "x2": 258.8,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 250.8,
+                      "y": 230,
+                      "s": "13"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 296.8,
+                      "y1": 212,
+                      "x2": 296.8,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 288.8,
+                      "y": 230,
+                      "s": "13.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 216,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 156.57,
+                      "x2": 46,
+                      "y2": 156.57
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 160.57,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 101.14,
+                      "x2": 46,
+                      "y2": 101.14
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 105.14,
+                      "s": "8"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 45.71,
+                      "x2": 46,
+                      "y2": 45.71
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 49.71,
+                      "s": "12"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "f"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          65,
+                          212
+                        ],
+                        [
+                          103,
+                          212
+                        ],
+                        [
+                          103,
+                          184.29
+                        ],
+                        [
+                          65,
+                          184.29
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 76,
+                      "y": 178.29,
+                      "s": "2"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          103,
+                          212
+                        ],
+                        [
+                          141,
+                          212
+                        ],
+                        [
+                          141,
+                          115
+                        ],
+                        [
+                          103,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 114,
+                      "y": 109,
+                      "s": "7"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          141,
+                          212
+                        ],
+                        [
+                          179,
+                          212
+                        ],
+                        [
+                          179,
+                          73.43
+                        ],
+                        [
+                          141,
+                          73.43
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 67.43,
+                      "s": "10"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          179,
+                          212
+                        ],
+                        [
+                          217,
+                          212
+                        ],
+                        [
+                          217,
+                          45.71
+                        ],
+                        [
+                          179,
+                          45.71
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 190,
+                      "y": 39.71,
+                      "s": "12"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          255,
+                          212
+                        ],
+                        [
+                          293,
+                          212
+                        ],
+                        [
+                          293,
+                          101.14
+                        ],
+                        [
+                          255,
+                          101.14
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 266,
+                      "y": 95.14,
+                      "s": "8"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 22.2"
@@ -8362,11 +9778,748 @@ var STUDY = {
               },
               {
                 "a": "n = 5 + 4 + 7 + 11 + 12 + 8 + 1\n= 48\nd = 1\n[[d/2]] = 0.5\nClass limits | Class boundaries | f | cf\n25-29 | 24.5-29.5 | 5 | 5\n30-34 | 29.5-34.5 | 4 | 9\n35-39 | 34.5-39.5 | 7 | 16\n40-44 | 39.5-44.5 | 11 | 27\n45-49 | 44.5-49.5 | 12 | 39\n50-54 | 49.5-54.5 | 8 | 47\n55-59 | 54.5-59.5 | 1 | 48\nOgive: (24.5*, 0), (29.5, 5), (34.5, 9), (39.5, 16), (44.5, 27), (49.5, 39), (54.5, 47), (59.5, 48)\n[[n/2]] = 24\nMedian ≈ 43.1\nMedian class: 40-44\nL = 39.5, h = 5, f = 11, c = 16\nm = L + [[h/f]] ([[n/2]] - c)\n= 39.5 + [[5/11]] (24 - 16)\n= 39.5 + [[40/11]]\n= 43.136\n[[n/4]] = 12\nQ1 ≈ 36.6\nQ1 class: 35-39\nL = 34.5, h = 5, f = 7, c = 9\nQ1 = L + [[h/f]] ([[n/4]] - c)\n= 34.5 + [[5/7]] (12 - 9)\n= 34.5 + [[15/7]]\n= 36.643\n[[3n/4]] = 36\nQ3 ≈ 48.3\nQ3 class: 45-49\nL = 44.5, h = 5, f = 12, c = 27\nQ3 = L + [[h/f]] ([[3n/4]] - c)\n= 44.5 + [[5/12]] (36 - 27)\n= 44.5 + [[45/12]]\n= 48.25\nModal class: 45-49\nL = 44.5, h = 5, fm = 12, fm-1 = 11, fm+1 = 8\nM = L + [[(fm - fm-1) x h/(2fm - fm-1 - fm+1)]]\n= 44.5 + [[(12 - 11) x 5/(24 - 11 - 8)]]\n= 44.5 + [[5/5]]\n= 45.5\nMode ≈ 45.5",
-                "q": "Locate and estimate median, quartiles and mode graphically in the data.\nOvertime (hrs per week) | 25-29 | 30-34 | 35-39 | 40-44 | 45-49 | 50-54 | 55-59\nNumber of days | 5 | 4 | 7 | 11 | 12 | 8 | 1"
+                "q": "Locate and estimate median, quartiles and mode graphically in the data.\nOvertime (hrs per week) | 25-29 | 30-34 | 35-39 | 40-44 | 45-49 | 50-54 | 55-59\nNumber of days | 5 | 4 | 7 | 11 | 12 | 8 | 1",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 250,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 312,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 18,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.23,
+                      "y1": 212,
+                      "x2": 76.23,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 68.23,
+                      "y": 230,
+                      "s": "25"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 136.68,
+                      "y1": 212,
+                      "x2": 136.68,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 128.68,
+                      "y": 230,
+                      "s": "35"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 197.14,
+                      "y1": 212,
+                      "x2": 197.14,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 189.14,
+                      "y": 230,
+                      "s": "45"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 257.59,
+                      "y1": 212,
+                      "x2": 257.59,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 249.59,
+                      "y": 230,
+                      "s": "55"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 216,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 173.2,
+                      "x2": 46,
+                      "y2": 173.2
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 177.2,
+                      "s": "10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 134.4,
+                      "x2": 46,
+                      "y2": 134.4
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 138.4,
+                      "s": "20"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 95.6,
+                      "x2": 46,
+                      "y2": 95.6
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 99.6,
+                      "s": "30"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 56.8,
+                      "x2": 46,
+                      "y2": 56.8
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 60.8,
+                      "s": "40"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "cf"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 73.2,
+                      "y1": 212,
+                      "x2": 103.43,
+                      "y2": 192.6
+                    },
+                    {
+                      "t": "line",
+                      "x1": 103.43,
+                      "y1": 192.6,
+                      "x2": 133.66,
+                      "y2": 177.08
+                    },
+                    {
+                      "t": "line",
+                      "x1": 133.66,
+                      "y1": 177.08,
+                      "x2": 163.89,
+                      "y2": 149.92
+                    },
+                    {
+                      "t": "line",
+                      "x1": 163.89,
+                      "y1": 149.92,
+                      "x2": 194.11,
+                      "y2": 107.24
+                    },
+                    {
+                      "t": "line",
+                      "x1": 194.11,
+                      "y1": 107.24,
+                      "x2": 224.34,
+                      "y2": 60.68
+                    },
+                    {
+                      "t": "line",
+                      "x1": 224.34,
+                      "y1": 60.68,
+                      "x2": 254.57,
+                      "y2": 29.64
+                    },
+                    {
+                      "t": "line",
+                      "x1": 254.57,
+                      "y1": 29.64,
+                      "x2": 284.8,
+                      "y2": 25.76
+                    },
+                    {
+                      "t": "point",
+                      "x": 73.2,
+                      "y": 212,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 103.43,
+                      "y": 192.6,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 133.66,
+                      "y": 177.08,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 163.89,
+                      "y": 149.92,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 194.11,
+                      "y": 107.24,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 224.34,
+                      "y": 60.68,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 254.57,
+                      "y": 29.64,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 284.8,
+                      "y": 25.76,
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "(a) Mode\n67.5-87.5 | 10\n87.5-107.5 | 13\n107.5-127.5 | 15\n127.5-147.5 | 10\n147.5-167.5 | 4\n167.5-187.5 | 6\n187.5-207.5 | 2\nModal class: 107.5-127.5\nMode ≈ 113.2 kWh\nL = 107.5, h = 20, fm = 15, fm-1 = 13, fm+1 = 10\nM = L + [[(fm - fm-1) x h/(2fm - fm-1 - fm+1)]]\n= 107.5 + [[(15 - 13) x 20/(30 - 13 - 10)]]\n= 107.5 + [[40/7]]\n= 113.214 kWh\n(b) Median, Q1, Q3\nn = 60\nd = 0.002\nClass | f\n2.011-2.014 | 7\n2.016-2.019 | 16\n2.021-2.024 | 23\n2.026-2.029 | 9\n2.031-2.034 | 5\nUCB | cf\n2.010* | 0\n2.015 | 7\n2.020 | 23\n2.025 | 46\n2.030 | 55\n2.035 | 60\nOgive: (2.010*, 0), (2.015, 7), (2.020, 23), (2.025, 46), (2.030, 55), (2.035, 60)\n[[n/2]] = 30\nMedian ≈ 2.022 cm\nMedian class: 2.021-2.024\nm = 2.020 + [[0.005/23]] (30 - 23)\n= 2.020 + 0.0015\n= 2.0215 cm\n[[n/4]] = 15\nQ1 ≈ 2.018 cm\nQ1 class: 2.016-2.019\nQ1 = 2.015 + [[0.005/16]] (15 - 7)\n= 2.015 + 0.0025\n= 2.0175 cm\n[[3n/4]] = 45\nQ3 ≈ 2.025 cm\nQ3 class: 2.021-2.024\nQ3 = 2.020 + [[0.005/23]] (45 - 23)\n= 2.020 + 0.0048\n= 2.0248 cm",
-                "q": "Locate and estimate the indicated measures in the following.\n(a) Mode — from the histogram of electricity consumption (in kWh) with class boundaries 67.5-87.5, 87.5-107.5, 107.5-127.5, 127.5-147.5, 147.5-167.5, 167.5-187.5, 187.5-207.5 and frequencies 10, 13, 15, 10, 4, 6, 2.\n(b) Median and quartiles — from the ogive (cumulative frequency polygon) of diameters (in cm) of holes with classes 2.011-2.014, 2.016-2.019, 2.021-2.024, 2.026-2.029, 2.031-2.034 and frequencies 7, 16, 23, 9, 5."
+                "q": "Locate and estimate the indicated measures in the following.\n(a) Mode — from the histogram of electricity consumption (in kWh) with class boundaries 67.5-87.5, 87.5-107.5, 107.5-127.5, 127.5-147.5, 147.5-167.5, 167.5-187.5, 187.5-207.5 and frequencies 10, 13, 15, 10, 4, 6, 2.\n(b) Median and quartiles — from the ogive (cumulative frequency polygon) of diameters (in cm) of holes with classes 2.011-2.014, 2.016-2.019, 2.021-2.024, 2.026-2.029, 2.031-2.034 and frequencies 7, 16, 23, 9, 5.",
+                "dq": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 250,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 312,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 18,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 58.87,
+                      "y1": 212,
+                      "x2": 58.87,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 50.87,
+                      "y": 230,
+                      "s": "67.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 127.52,
+                      "y1": 212,
+                      "x2": 127.52,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 119.52,
+                      "y": 230,
+                      "s": "107.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 196.16,
+                      "y1": 212,
+                      "x2": 196.16,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 188.16,
+                      "y": 230,
+                      "s": "147.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 264.81,
+                      "y1": 212,
+                      "x2": 264.81,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 256.81,
+                      "y": 230,
+                      "s": "187.5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 216,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 151.38,
+                      "x2": 46,
+                      "y2": 151.38
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 155.38,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 90.75,
+                      "x2": 46,
+                      "y2": 90.75
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 94.75,
+                      "s": "10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 30.13,
+                      "x2": 46,
+                      "y2": 30.13
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 34.13,
+                      "s": "15"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "f"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          58.87,
+                          212
+                        ],
+                        [
+                          93.19,
+                          212
+                        ],
+                        [
+                          93.19,
+                          90.75
+                        ],
+                        [
+                          58.87,
+                          90.75
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 68.03,
+                      "y": 84.75,
+                      "s": "10"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          93.19,
+                          212
+                        ],
+                        [
+                          127.52,
+                          212
+                        ],
+                        [
+                          127.52,
+                          54.38
+                        ],
+                        [
+                          93.19,
+                          54.38
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 102.35,
+                      "y": 48.38,
+                      "s": "13"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          127.52,
+                          212
+                        ],
+                        [
+                          161.84,
+                          212
+                        ],
+                        [
+                          161.84,
+                          30.13
+                        ],
+                        [
+                          127.52,
+                          30.13
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 136.68,
+                      "y": 24.13,
+                      "s": "15"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          161.84,
+                          212
+                        ],
+                        [
+                          196.16,
+                          212
+                        ],
+                        [
+                          196.16,
+                          90.75
+                        ],
+                        [
+                          161.84,
+                          90.75
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 171,
+                      "y": 84.75,
+                      "s": "10"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          196.16,
+                          212
+                        ],
+                        [
+                          230.48,
+                          212
+                        ],
+                        [
+                          230.48,
+                          163.5
+                        ],
+                        [
+                          196.16,
+                          163.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 205.32,
+                      "y": 157.5,
+                      "s": "4"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          230.48,
+                          212
+                        ],
+                        [
+                          264.81,
+                          212
+                        ],
+                        [
+                          264.81,
+                          139.25
+                        ],
+                        [
+                          230.48,
+                          139.25
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 239.65,
+                      "y": 133.25,
+                      "s": "6"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          264.81,
+                          212
+                        ],
+                        [
+                          299.13,
+                          212
+                        ],
+                        [
+                          299.13,
+                          187.75
+                        ],
+                        [
+                          264.81,
+                          187.75
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 273.97,
+                      "y": 181.75,
+                      "s": "2"
+                    }
+                  ]
+                },
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 250,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 212,
+                      "x2": 312,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "y1": 18,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "line",
+                      "x1": 64.34,
+                      "y1": 212,
+                      "x2": 64.34,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 56.34,
+                      "y": 230,
+                      "s": "2.01"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 156.07,
+                      "y1": 212,
+                      "x2": 156.07,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 148.07,
+                      "y": 230,
+                      "s": "2.02"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 247.79,
+                      "y1": 212,
+                      "x2": 247.79,
+                      "y2": 216
+                    },
+                    {
+                      "t": "text",
+                      "x": 239.79,
+                      "y": 230,
+                      "s": "2.03"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 212,
+                      "x2": 46,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 216,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 152.31,
+                      "x2": 46,
+                      "y2": 152.31
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 156.31,
+                      "s": "20"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 42,
+                      "y1": 92.62,
+                      "x2": 46,
+                      "y2": 92.62
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 96.62,
+                      "s": "40"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "cf"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 64.34,
+                      "y1": 212,
+                      "x2": 110.21,
+                      "y2": 191.11
+                    },
+                    {
+                      "t": "line",
+                      "x1": 110.21,
+                      "y1": 191.11,
+                      "x2": 156.07,
+                      "y2": 143.35
+                    },
+                    {
+                      "t": "line",
+                      "x1": 156.07,
+                      "y1": 143.35,
+                      "x2": 201.93,
+                      "y2": 74.71
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.93,
+                      "y1": 74.71,
+                      "x2": 247.79,
+                      "y2": 47.85
+                    },
+                    {
+                      "t": "line",
+                      "x1": 247.79,
+                      "y1": 47.85,
+                      "x2": 293.66,
+                      "y2": 32.92
+                    },
+                    {
+                      "t": "point",
+                      "x": 64.34,
+                      "y": 212,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.21,
+                      "y": 191.11,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 156.07,
+                      "y": 143.35,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.93,
+                      "y": 74.71,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 247.79,
+                      "y": 47.85,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 293.66,
+                      "y": 32.92,
+                      "label": ""
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 22.4"
@@ -8416,51 +10569,754 @@ var STUDY = {
             "items": [
               {
                 "a": "a² + b² = c²\n(i) a = 16, b = 30, c = 34\na² + b² = (16)² + (30)² = 256 + 900 = 1156\nc² = (34)² = 1156\na² + b² = c²\n(ii) a = 6, b = 8, c = 10\na² + b² = (6)² + (8)² = 36 + 64 = 100\nc² = (10)² = 100\na² + b² = c²\n(iii) a = 15, b = 20, c = 25\na² + b² = (15)² + (20)² = 225 + 400 = 625\nc² = (25)² = 625\na² + b² = c²\n(iv) a = 13, b = √56, c = 15\na² + b² = (13)² + (√56)² = 169 + 56 = 225\nc² = (15)² = 225\na² + b² = c²",
-                "q": "Following are the lengths of sides of a triangle, verify that the triangle is a right triangle.\n(i) a = 16, b = 30, c = 34\n(ii) a = 6, b = 8, c = 10\n(iii) a = 15, b = 20, c = 25\n(iv) a = 13, b = √56, c = 15"
+                "q": "Following are the lengths of sides of a triangle, verify that the triangle is a right triangle.\n(i) a = 16, b = 30, c = 34\n(ii) a = 6, b = 8, c = 10\n(iii) a = 15, b = 20, c = 25\n(iv) a = 13, b = √56, c = 15",
+                "dq": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      8
+                    ],
+                    [
+                      6,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "c",
+                    "BC": "a",
+                    "CA": "b"
+                  },
+                  "right": "C"
+                }
               },
               {
                 "a": "(i) x² = (7)² + (24)² = 49 + 576 = 625\nx = √625 = 25\n(ii) x² = (13)² − (5)² = 169 − 25 = 144\nx = √144 = 12\n(iii) x² = (√53)² − (7)² = 53 − 49 = 4\nx = √4 = 2\n(iv) x² = (17)² − (8)² = 289 − 64 = 225\nx = √225 = 15",
-                "q": "Find unknown values in each of the following figures.\n(i) A right-angled triangle with legs 7 and 24 and hypotenuse x.\n(ii) A right-angled triangle with one leg x, the other leg 5 and hypotenuse 13.\n(iii) A right-angled triangle with one leg x, the other leg 7 and hypotenuse √53.\n(iv) A right-angled triangle with one leg 8, the other leg x and hypotenuse 17."
+                "q": "Find unknown values in each of the following figures.\n(i) A right-angled triangle with legs 7 and 24 and hypotenuse x.\n(ii) A right-angled triangle with one leg x, the other leg 5 and hypotenuse 13.\n(iii) A right-angled triangle with one leg x, the other leg 7 and hypotenuse √53.\n(iv) A right-angled triangle with one leg 8, the other leg x and hypotenuse 17.",
+                "dq": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      24,
+                      0
+                    ],
+                    [
+                      0,
+                      7
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "x",
+                    "BC": "7",
+                    "CA": "24"
+                  },
+                  "right": "C"
+                }
               },
               {
                 "a": "x² + (7.5)² = (9.5)²\nx² = (9.5)² − (7.5)² = 90.25 − 56.25 = 34\nx = √34 cm ≈ 5.83 cm\nx = hypotenuse\nx² = (9.5)² + (7.5)² = 146.5\nx = √146.5 ≈ 12.10 cm",
-                "q": "The three sides of a triangle are of measure 9.5cm, 7.5cm and x cm. For what value of x will the sides represent a right triangle?"
+                "q": "The three sides of a triangle are of measure 9.5cm, 7.5cm and x cm. For what value of x will the sides represent a right triangle?",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      7.5,
+                      0
+                    ],
+                    [
+                      0,
+                      5.83
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "9.5 cm",
+                    "BC": "x",
+                    "CA": "7.5 cm"
+                  },
+                  "right": "C"
+                }
               },
               {
                 "a": "BD = DC = [[mBC/2]] = [[10/2]] = 5 cm\n(AD)² + (BD)² = (AB)²\n(AD)² = (13)² − (5)² = 169 − 25 = 144\nAD = √144 = 12 cm",
-                "q": "ABC is an isosceles triangle with mAB = mAC = 13cm and mBC = 10cm. Calculate the perpendicular distance from A to BC."
+                "q": "ABC is an isosceles triangle with mAB = mAC = 13cm and mBC = 10cm. Calculate the perpendicular distance from A to BC.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          37
+                        ],
+                        [
+                          40,
+                          205
+                        ],
+                        [
+                          260,
+                          205
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 37,
+                      "x2": 150,
+                      "y2": 205
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 37,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 40,
+                      "y": 205,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 260,
+                      "y": 205,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 205,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 71,
+                      "y": 121,
+                      "s": "13 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 211,
+                      "y": 121,
+                      "s": "13 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 142,
+                      "y": 223,
+                      "s": "10 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 158,
+                      "y": 121,
+                      "s": "12 cm"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          205
+                        ],
+                        [
+                          150,
+                          193
+                        ],
+                        [
+                          162,
+                          193
+                        ],
+                        [
+                          162,
+                          205
+                        ]
+                      ]
+                    }
+                  ]
+                }
               },
               {
                 "a": "L² = (6)² + (8)² = 36 + 64 = 100\nL = √100 = 10 ft",
-                "q": "The foot of a ladder is placed 6 feet from a wall. If the top of the ladder rests 8 feet up on the wall, how long is the ladder?"
+                "q": "The foot of a ladder is placed 6 feet from a wall. If the top of the ladder rests 8 feet up on the wall, how long is the ladder?",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      6,
+                      0
+                    ],
+                    [
+                      0,
+                      8
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "labels": [],
+                  "sideLabels": {
+                    "AB": "L",
+                    "BC": "8 ft",
+                    "CA": "6 ft"
+                  },
+                  "right": "C"
+                }
               },
               {
                 "a": "(AD)² + (DC)² = (AC)²\n(AD)² = (17)² − (15)² = 289 − 225 = 64\nAD = √64 = 8\n(AB)² = (AD)² + (BD)²\n(10)² = (8)² + x²\nx² = 100 − 64 = 36\nx = √36 = 6",
-                "q": "Find the value of x in the adjacent figure. The figure shows triangle ABC with altitude AD drawn from A to BC (D lies on BC). AB = 10, AC = 17, DC = 15 and BD = x."
+                "q": "Find the value of x in the adjacent figure. The figure shows triangle ABC with altitude AD drawn from A to BC (D lies on BC). AB = 10, AC = 17, DC = 15 and BD = x.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          92,
+                          50
+                        ],
+                        [
+                          20,
+                          210
+                        ],
+                        [
+                          272,
+                          210
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 92,
+                      "y1": 50,
+                      "x2": 92,
+                      "y2": 210
+                    },
+                    {
+                      "t": "point",
+                      "x": 92,
+                      "y": 50,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 20,
+                      "y": 210,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 272,
+                      "y": 210,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 92,
+                      "y": 210,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 36,
+                      "y": 130,
+                      "s": "10"
+                    },
+                    {
+                      "t": "text",
+                      "x": 186,
+                      "y": 130,
+                      "s": "17"
+                    },
+                    {
+                      "t": "text",
+                      "x": 52,
+                      "y": 228,
+                      "s": "x"
+                    },
+                    {
+                      "t": "text",
+                      "x": 178,
+                      "y": 228,
+                      "s": "15"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          92,
+                          210
+                        ],
+                        [
+                          92,
+                          198
+                        ],
+                        [
+                          104,
+                          198
+                        ],
+                        [
+                          104,
+                          210
+                        ]
+                      ]
+                    }
+                  ]
+                }
               },
               {
                 "a": "AC = AD + DC = 7 + 5 = 12 units\nh² = AD × CD = 7 × 5 = 35\nh = √35 units\nb² = AD × AC = 7 × 12 = 84\nb = √84 = 2√21 units\na² = CD × AC = 5 × 12 = 60\na = √60 = 2√15 units",
-                "q": "In the △ABC, m∠B is a right angle and BD is perpendicular on AC such that mCD = 5 units and mAD = 7 units as shown in the figure. Find the lengths of the unknowns a, h and b. In the figure, a is the side BC, b is the side AB and h is the altitude BD."
+                "q": "In the △ABC, m∠B is a right angle and BD is perpendicular on AC such that mCD = 5 units and mAD = 7 units as shown in the figure. Find the lengths of the unknowns a, h and b. In the figure, a is the side BC, b is the side AB and h is the altitude BD.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          30,
+                          200
+                        ],
+                        [
+                          249.96,
+                          200
+                        ],
+                        [
+                          249.96,
+                          45.08
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 249.96,
+                      "y1": 200,
+                      "x2": 158.31,
+                      "y2": 109.63
+                    },
+                    {
+                      "t": "point",
+                      "x": 30,
+                      "y": 200,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 249.96,
+                      "y": 200,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 249.96,
+                      "y": 45.08,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 158.31,
+                      "y": 109.63,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 135.98,
+                      "y": 218,
+                      "s": "b"
+                    },
+                    {
+                      "t": "text",
+                      "x": 257.96,
+                      "y": 122.54,
+                      "s": "a"
+                    },
+                    {
+                      "t": "text",
+                      "x": 223.96,
+                      "y": 154.82,
+                      "s": "h"
+                    },
+                    {
+                      "t": "text",
+                      "x": 80.16,
+                      "y": 170.82,
+                      "s": "7"
+                    },
+                    {
+                      "t": "text",
+                      "x": 208.14,
+                      "y": 73.36,
+                      "s": "5"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          158.31,
+                          109.63
+                        ],
+                        [
+                          148.5,
+                          116.54
+                        ],
+                        [
+                          157.05,
+                          124.97
+                        ],
+                        [
+                          166.86,
+                          118.06
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          249.96,
+                          200
+                        ],
+                        [
+                          237.96,
+                          200
+                        ],
+                        [
+                          237.96,
+                          188
+                        ],
+                        [
+                          249.96,
+                          188
+                        ]
+                      ]
+                    }
+                  ]
+                }
               },
               {
                 "a": "d² = (50)² + (30)² = 2500 + 900 = 3400\nd = √3400 = √(100 × 34) = 10√34 m ≈ 58.31 m",
-                "q": "The sides of a rectangular swimming pool are 50m and 30m. What is the length between the opposite corners?"
+                "q": "The sides of a rectangular swimming pool are 50m and 30m. What is the length between the opposite corners?",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          40,
+                          190
+                        ],
+                        [
+                          280,
+                          190
+                        ],
+                        [
+                          280,
+                          46
+                        ],
+                        [
+                          40,
+                          46
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 40,
+                      "y1": 190,
+                      "x2": 280,
+                      "y2": 46
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 208,
+                      "s": "50 m"
+                    },
+                    {
+                      "t": "text",
+                      "x": 14,
+                      "y": 122,
+                      "s": "30 m"
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 108,
+                      "s": "d"
+                    }
+                  ]
+                }
               },
               {
                 "a": "BD = DC = [[8/2]] = 4 units\n(AD)² + (BD)² = (AB)²\n(AD)² = (8)² − (4)² = 64 − 16 = 48\nAD = √48 = √(16 × 3) = 4√3 units",
-                "q": "The length of each side of an equilateral triangle is 8 units. Find the length of any one altitude."
+                "q": "The length of each side of an equilateral triangle is 8 units. Find the length of any one altitude.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          142,
+                          29.82
+                        ],
+                        [
+                          30,
+                          210
+                        ],
+                        [
+                          254,
+                          210
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 142,
+                      "y1": 29.82,
+                      "x2": 142,
+                      "y2": 210
+                    },
+                    {
+                      "t": "point",
+                      "x": 142,
+                      "y": 29.82,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 30,
+                      "y": 210,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 254,
+                      "y": 210,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 142,
+                      "y": 210,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 68,
+                      "y": 119.91,
+                      "s": "8"
+                    },
+                    {
+                      "t": "text",
+                      "x": 204,
+                      "y": 119.91,
+                      "s": "8"
+                    },
+                    {
+                      "t": "text",
+                      "x": 138,
+                      "y": 228,
+                      "s": "8"
+                    },
+                    {
+                      "t": "text",
+                      "x": 150,
+                      "y": 119.91,
+                      "s": "4√3"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          142,
+                          210
+                        ],
+                        [
+                          142,
+                          198
+                        ],
+                        [
+                          154,
+                          198
+                        ],
+                        [
+                          154,
+                          210
+                        ]
+                      ]
+                    }
+                  ]
+                }
               },
               {
                 "a": "x² + (x + 4)² = (20)²\nx² + x² + 8x + 16 = 400\n2x² + 8x − 384 = 0\nx² + 4x − 192 = 0\n(x + 16)(x − 12) = 0\nx = 12 or x = −16\nx = 12",
-                "q": "The sides of a triangle have lengths x, x + 4 and 20. If the length of the longest side is 20, what values of x make the right triangle?"
+                "q": "The sides of a triangle have lengths x, x + 4 and 20. If the length of the longest side is 20, what values of x make the right triangle?",
+                "da": {
+                  "type": "triangle",
+                  "sides": {
+                    "AB": 20,
+                    "BC": 12,
+                    "CA": 16
+                  },
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "right": "C"
+                }
               },
               {
                 "a": "d² = (18)² + (24)² = 324 + 576 = 900\nd = √900 = 30 m",
-                "q": "A manager goes 18m due east and then 24m due north. Find the distance of his current position from the starting point."
+                "q": "A manager goes 18m due east and then 24m due north. Find the distance of his current position from the starting point.",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      18,
+                      0
+                    ],
+                    [
+                      18,
+                      24
+                    ]
+                  ],
+                  "labels": [],
+                  "sideLabels": {
+                    "AB": "18 m",
+                    "BC": "24 m",
+                    "CA": "30 m"
+                  },
+                  "right": "B"
+                }
               },
               {
                 "a": "l + b = 17\nmBD = mAC\nmBD + mAC = 26\n2 × mBD = 26\nmBD = 13 cm\nl² + b² = (13)² = 169\n(l + b)² = l² + 2lb + b²\n(17)² = 169 + 2lb\n289 = 169 + 2lb\n2lb = 120\nlb = 60\nt² − (l + b)t + lb = 0\nt² − 17t + 60 = 0\n(t − 12)(t − 5) = 0\nt = 12 or t = 5\nLength = 12 cm\nBreadth = 5 cm",
-                "q": "In the rectangle ABCD, mBC + mCD = 17cm and mBD + mAC = 26cm. Calculate the length and breadth of the rectangle."
+                "q": "In the rectangle ABCD, mBC + mCD = 17cm and mBD + mAC = 26cm. Calculate the length and breadth of the rectangle.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          40,
+                          180
+                        ],
+                        [
+                          256,
+                          180
+                        ],
+                        [
+                          256,
+                          90
+                        ],
+                        [
+                          40,
+                          90
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 40,
+                      "y1": 180,
+                      "x2": 256,
+                      "y2": 90
+                    },
+                    {
+                      "t": "point",
+                      "x": 40,
+                      "y": 180,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 256,
+                      "y": 180,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 256,
+                      "y": 90,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 40,
+                      "y": 90,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 140,
+                      "y": 198,
+                      "s": "12 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 18,
+                      "y": 138,
+                      "s": "5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 140,
+                      "y": 122,
+                      "s": "13 cm"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 23.1"
@@ -8473,15 +11329,95 @@ var STUDY = {
               },
               {
                 "a": "△ABC, ∠C = 90°\nAB = c, BC = a, AC = b\nc² = a² + b²\na² + b² = c²",
-                "q": "Explain the Pythagoras theorem."
+                "q": "Explain the Pythagoras theorem.",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      8
+                    ],
+                    [
+                      6,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "c",
+                    "BC": "a",
+                    "CA": "b"
+                  },
+                  "right": "C"
+                }
               },
               {
                 "a": "h² + (7)² = (25)²\nh² = 625 − 49 = 576\nh = √576 = 24 m",
-                "q": "A ladder 25m long rests against a vertical wall. The foot of the ladder is 7m away from the base of the wall. Find the height of the wall given that ladder reaches at its top end."
+                "q": "A ladder 25m long rests against a vertical wall. The foot of the ladder is 7m away from the base of the wall. Find the height of the wall given that ladder reaches at its top end.",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      7,
+                      0
+                    ],
+                    [
+                      0,
+                      24
+                    ],
+                    [
+                      0,
+                      0
+                    ]
+                  ],
+                  "labels": [],
+                  "sideLabels": {
+                    "AB": "25 m",
+                    "BC": "h",
+                    "CA": "7 m"
+                  },
+                  "right": "C"
+                }
               },
               {
                 "a": "(i) x² = (2)² + (3)² = 4 + 9 = 13\nx = √13\n(ii) x² = (10)² − (7)² = 100 − 49 = 51\nx = √51\n(iii) x² = (12)² − (9)² = 144 − 81 = 63\nx = √63",
-                "q": "Find the unknown values in each of the following figures.\n(i) A right-angled triangle ABC, right angle at A, with AB = 2, AC = 3 and hypotenuse BC = x.\n(ii) A right-angled triangle ABC, right angle at A, with AB = 7, AC = x and hypotenuse BC = 10.\n(iii) A right-angled triangle ABC, right angle at A, with AB = x, AC = 9 and hypotenuse BC = 12."
+                "q": "Find the unknown values in each of the following figures.\n(i) A right-angled triangle ABC, right angle at A, with AB = 2, AC = 3 and hypotenuse BC = x.\n(ii) A right-angled triangle ABC, right angle at A, with AB = 7, AC = x and hypotenuse BC = 10.\n(iii) A right-angled triangle ABC, right angle at A, with AB = x, AC = 9 and hypotenuse BC = 12.",
+                "dq": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      0,
+                      2
+                    ],
+                    [
+                      3,
+                      0
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "2",
+                    "BC": "x",
+                    "CA": "3"
+                  },
+                  "right": "A"
+                }
               }
             ],
             "label": "Review Exercise"
@@ -8497,22 +11433,389 @@ var STUDY = {
             "items": [
               {
                 "a": "[[mCE/mAE]] = [[mCD/mBD]]\n[[mCE/5]] = [[12/6]]\n[[mCE/5]] = 2\nmCE = 10 cm",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          136.22,
+                          47.33
+                        ],
+                        [
+                          26,
+                          212.67
+                        ],
+                        [
+                          274,
+                          212.67
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 108.67,
+                      "x2": 182.24,
+                      "y1": 212.67,
+                      "y2": 102.44
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 136.22,
+                      "y": 47.33
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 212.67
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 212.67
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 108.67,
+                      "y": 212.67
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 182.24,
+                      "y": 102.44
+                    },
+                    {
+                      "s": "6 cm",
+                      "t": "text",
+                      "x": 67.33,
+                      "y": 237.47
+                    },
+                    {
+                      "s": "12 cm",
+                      "t": "text",
+                      "x": 191.33,
+                      "y": 237.47
+                    },
+                    {
+                      "s": "5 cm",
+                      "t": "text",
+                      "x": 174.8,
+                      "y": 58.36
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "In △ABC, DE ∥ AB. Find mCE if mBD = 6cm, mDC = 12cm and mAE = 5cm."
               },
               {
                 "a": "[[mAP/mPB]] = [[mAQ/mQC]]\n[[(5x − 3)/2]] = [[(2x + 1)/3]]\n3(5x − 3) = 2(2x + 1)\n15x − 9 = 4x + 2\n15x − 4x = 2 + 9\n11x = 11\nx = 1",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          26,
+                          223
+                        ],
+                        [
+                          274,
+                          223
+                        ],
+                        [
+                          150,
+                          37
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 88,
+                      "y1": 223,
+                      "y2": 130
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 223
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 274,
+                      "y": 223
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 150,
+                      "y": 37
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 223
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 88,
+                      "y": 130
+                    },
+                    {
+                      "s": "5x - 3",
+                      "t": "text",
+                      "x": 69.4,
+                      "y": 250.9
+                    },
+                    {
+                      "s": "2",
+                      "t": "text",
+                      "x": 212,
+                      "y": 250.9
+                    },
+                    {
+                      "s": "2x + 1",
+                      "t": "text",
+                      "x": 44.6,
+                      "y": 80.4
+                    },
+                    {
+                      "s": "3",
+                      "t": "text",
+                      "x": 131.4,
+                      "y": 80.4
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "In △ABC, PQ ∥ BC. Find x if mAP = 5x − 3, mPB = 2, mAQ = 2x + 1 and mQC = 3."
               },
               {
                 "a": "AB ∥ DC, EF ∥ AB\nAC ∩ EF = G\n△ADC, EG ∥ DC:\n[[AE/ED]] = [[AG/GC]] ... (i)\n△ABC, GF ∥ AB:\n[[AG/GC]] = [[BF/FC]] ... (ii)\n[[AE/ED]] = [[BF/FC]]",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          88,
+                          68
+                        ],
+                        [
+                          212,
+                          68
+                        ],
+                        [
+                          274,
+                          192
+                        ],
+                        [
+                          26,
+                          192
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 57,
+                      "x2": 243,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 88,
+                      "y": 68
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 212,
+                      "y": 68
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 192
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 26,
+                      "y": 192
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 57,
+                      "y": 130
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 243,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Prove that the line drawn parallel to the parallel sides of a trapezium divides the non-parallel sides proportionally."
               },
               {
                 "a": "△ABC, DE ∥ BC\nAD = DB\n[[AD/DB]] = [[AE/EC]]\n[[AD/DB]] = 1\n[[AE/EC]] = 1\nAE = EC",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          150,
+                          37
+                        ],
+                        [
+                          26,
+                          223
+                        ],
+                        [
+                          274,
+                          223
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 88,
+                      "x2": 212,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 37
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 223
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 223
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 88,
+                      "y": 130
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 212,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Prove that the line segment drawn through the mid point of a side of a triangle and parallel to another side bisects the third side."
               },
               {
                 "a": "ABCD, AB ∥ DC\n[[AE/ED]] = [[BF/FC]] ... (ii)\nEF' ∥ AB, F' ∈ BC\n[[AE/ED]] = [[BF'/F'C]] ... (i)\n[[BF/FC]] = [[BF'/F'C]]\nF' = F\nEF ∥ AB\nEF ∥ DC",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          88,
+                          68
+                        ],
+                        [
+                          212,
+                          68
+                        ],
+                        [
+                          274,
+                          192
+                        ],
+                        [
+                          26,
+                          192
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 57,
+                      "x2": 243,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 88,
+                      "y": 68
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 212,
+                      "y": 68
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 192
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 26,
+                      "y": 192
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 57,
+                      "y": 130
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 243,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Prove that the line which divides the non-parallel sides of a trapezium proportionally is parallel to the third side."
               }
             ],
@@ -8522,14 +11825,301 @@ var STUDY = {
             "items": [
               {
                 "a": "AD: bisector of ∠A\n[[mCD/mDB]] = [[mAC/mAB]]\n[[(2x + 3)/(3x + 2)]] = [[(11 − x)/(x + 9)]]\n(2x + 3)(x + 9) = (11 − x)(3x + 2)\n2x² + 18x + 3x + 27 = 33x + 22 − 3x² − 2x\n2x² + 21x + 27 = −3x² + 31x + 22\n5x² − 10x + 5 = 0\nx² − 2x + 1 = 0\n(x − 1)² = 0\nx = 1\nmAB = x + 9 = 1 + 9 = 10 cm\nmAC = 11 − x = 11 − 1 = 10 cm\nmBC = mBD + mDC = (3x + 2) + (2x + 3) = 5 + 5 = 10 cm\nmAB = mAC = mBC = 10 cm\n△ABC: equilateral",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          150,
+                          26
+                        ],
+                        [
+                          29.91,
+                          234
+                        ],
+                        [
+                          270.09,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 150,
+                      "y1": 26,
+                      "y2": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 29.91,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 270.09,
+                      "y": 234
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "s": "x + 9",
+                      "t": "text",
+                      "x": 63.53,
+                      "y": 123.52
+                    },
+                    {
+                      "s": "11 - x",
+                      "t": "text",
+                      "x": 236.47,
+                      "y": 123.52
+                    },
+                    {
+                      "s": "3x + 2",
+                      "t": "text",
+                      "x": 89.95,
+                      "y": 255.62
+                    },
+                    {
+                      "s": "2x + 3",
+                      "t": "text",
+                      "x": 210.05,
+                      "y": 255.62
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "In the adjacent figure, AD is the bisector of ∠A of △ABC. Find the value of x if mAB = x + 9, mAC = 11 − x, mCD = 2x + 3 and mBD = 3x + 2. Also specify the type of triangle."
               },
               {
                 "a": "△PQR ~ △ABC\n[[mPQ/mAB]] = [[mQR/mBC]] = [[mPR/mAC]]\nmPQ = 9 cm, mQR = 12 cm, mPR = 6 cm\nmAB = 3 cm, mBC = y cm, mAC = x cm\n[[mPQ/mAB]] = [[9/3]] = 3\n[[mPR/mAC]] = 3\n[[6/x]] = 3\nx = [[6/3]] = 2 cm\n[[mQR/mBC]] = 3\n[[12/y]] = 3\ny = [[12/3]] = 4 cm",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          47.26,
+                          171.17
+                        ],
+                        [
+                          174.8,
+                          171.17
+                        ],
+                        [
+                          26,
+                          88.83
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "pts": [
+                        [
+                          231.49,
+                          171.17
+                        ],
+                        [
+                          274,
+                          171.17
+                        ],
+                        [
+                          224.4,
+                          143.68
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 47.26,
+                      "y": 171.17
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 174.8,
+                      "y": 171.17
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 26,
+                      "y": 88.83
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 231.49,
+                      "y": 171.17
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 274,
+                      "y": 171.17
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 224.4,
+                      "y": 143.68
+                    },
+                    {
+                      "s": "9 cm",
+                      "t": "text",
+                      "x": 111.03,
+                      "y": 183.92
+                    },
+                    {
+                      "s": "12 cm",
+                      "t": "text",
+                      "x": 126.62,
+                      "y": 122.99
+                    },
+                    {
+                      "s": "6 cm",
+                      "t": "text",
+                      "x": 24.58,
+                      "y": 122.99
+                    },
+                    {
+                      "s": "3 cm",
+                      "t": "text",
+                      "x": 252.74,
+                      "y": 183.92
+                    },
+                    {
+                      "s": "y",
+                      "t": "text",
+                      "x": 262.66,
+                      "y": 154.16
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 220.15,
+                      "y": 154.16
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "In the adjacent figure, △PQR and △ABC are similar. Find the values of x and y if lengths of sides are indicated in the figure. In the figure, △PQR has PQ = 9 cm, QR = 12 cm and PR = 6 cm, and △ABC has AB = 3 cm, BC = y cm and AC = x cm."
               },
               {
                 "a": "△ABC ~ △PQR\n[[A₁/A₂]] = ([[mAB/mPQ]])²\nA₁ = 28 cm², mAB = 4x cm, mPQ = 2x cm\n[[28/A₂]] = ([[4x/2x]])² = (2)² = 4\nA₂ = [[28/4]] = 7 cm²",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          26,
+                          171.33
+                        ],
+                        [
+                          158.27,
+                          171.33
+                        ],
+                        [
+                          75.6,
+                          88.67
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "pts": [
+                        [
+                          207.87,
+                          171.33
+                        ],
+                        [
+                          274,
+                          171.33
+                        ],
+                        [
+                          232.67,
+                          130
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 171.33
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 158.27,
+                      "y": 171.33
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 75.6,
+                      "y": 88.67
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 207.87,
+                      "y": 171.33
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 274,
+                      "y": 171.33
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 232.67,
+                      "y": 130
+                    },
+                    {
+                      "s": "4x",
+                      "t": "text",
+                      "x": 92.13,
+                      "y": 186.21
+                    },
+                    {
+                      "s": "2x",
+                      "t": "text",
+                      "x": 240.93,
+                      "y": 186.21
+                    },
+                    {
+                      "s": "A1 = 28",
+                      "t": "text",
+                      "x": 75.6,
+                      "y": 134.96
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Let A₁ and A₂ be the areas of two similar triangles △ABC and △PQR respectively as shown in the figure. Find A₂ if A₁ = 28cm², mAB = 4x cm and mPQ = 2x cm."
               },
               {
@@ -8538,10 +12128,210 @@ var STUDY = {
               },
               {
                 "a": "△ABC, △PQR: ∠B = ∠Q = 90°\n∠A = ∠P\n∠C = 180° − 90° − ∠A\n∠R = 180° − 90° − ∠P\n∠C = ∠R\n△ABC ~ △PQR\n[[AB/PQ]] = [[BC/QR]] = [[AC/PR]]",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          26,
+                          163.82
+                        ],
+                        [
+                          116.18,
+                          163.82
+                        ],
+                        [
+                          116.18,
+                          96.18
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "pts": [
+                        [
+                          183.82,
+                          163.82
+                        ],
+                        [
+                          274,
+                          163.82
+                        ],
+                        [
+                          274,
+                          118.73
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 163.82
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 116.18,
+                      "y": 163.82
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 116.18,
+                      "y": 96.18
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 183.82,
+                      "y": 163.82
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 274,
+                      "y": 163.82
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 274,
+                      "y": 118.73
+                    },
+                    {
+                      "t": "line",
+                      "x1": 103.18,
+                      "x2": 103.18,
+                      "y1": 163.82,
+                      "y2": 150.82
+                    },
+                    {
+                      "t": "line",
+                      "x1": 103.18,
+                      "x2": 116.18,
+                      "y1": 150.82,
+                      "y2": 150.82
+                    },
+                    {
+                      "t": "line",
+                      "x1": 261,
+                      "x2": 261,
+                      "y1": 163.82,
+                      "y2": 150.82
+                    },
+                    {
+                      "t": "line",
+                      "x1": 261,
+                      "x2": 274,
+                      "y1": 150.82,
+                      "y2": 150.82
+                    },
+                    {
+                      "s": "A",
+                      "t": "text",
+                      "x": 46.29,
+                      "y": 143.53
+                    },
+                    {
+                      "s": "P",
+                      "t": "text",
+                      "x": 204.11,
+                      "y": 143.53
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Prove that two right triangles have their sides proportional if an acute angle of the one is congruent to an acute angle of the other."
               },
               {
                 "a": "△ABC: ∠B = 90°\nBD ⊥ AC\n△ADB, △ABC:\n∠A = ∠A\n∠ADB = ∠ABC = 90°\n△ADB ~ △ABC\n△BDC, △ABC:\n∠C = ∠C\n∠BDC = ∠ABC = 90°\n△BDC ~ △ABC",
+                "dq": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          26,
+                          183.69
+                        ],
+                        [
+                          274,
+                          183.69
+                        ],
+                        [
+                          88,
+                          76.31
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 88,
+                      "x2": 88,
+                      "y1": 76.31,
+                      "y2": 183.69
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 183.69
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 183.69
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 88,
+                      "y": 76.31
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 88,
+                      "y": 183.69
+                    },
+                    {
+                      "t": "line",
+                      "x1": 81.5,
+                      "x2": 92.76,
+                      "y1": 87.57,
+                      "y2": 94.07
+                    },
+                    {
+                      "t": "line",
+                      "x1": 92.76,
+                      "x2": 99.26,
+                      "y1": 94.07,
+                      "y2": 82.81
+                    },
+                    {
+                      "t": "line",
+                      "x1": 88,
+                      "x2": 101,
+                      "y1": 170.69,
+                      "y2": 170.69
+                    },
+                    {
+                      "t": "line",
+                      "x1": 101,
+                      "x2": 101,
+                      "y1": 170.69,
+                      "y2": 183.69
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "In a right triangle the perpendicular drawn from the right angle to the hypotenuse divides the triangle into two triangles. Prove that each of these triangles is similar to the original one."
               }
             ],
@@ -8567,22 +12357,304 @@ var STUDY = {
             "items": [
               {
                 "a": "No\nRight bisectors of AB and BC are parallel\nA straight line meets a circle in at most 2 points",
+                "dq": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": -5,
+                      "x2": 305,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Can a circle pass through three collinear points? Explain with reason."
               },
               {
                 "a": "No\nOne circle passes through A, B, C\nD is on the circle only if A, B, C, D are concyclic\nABCD cyclic: ∠A + ∠C = 180°",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 116.18,
+                      "cy": 107.45,
+                      "r": 112.73,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 39.82
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 206.36,
+                      "y": 39.82
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 116.18,
+                      "y": 220.18
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 274,
+                      "y": 107.45
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Can you draw a circle from any four non-collinear points? Explain with reasons."
               },
               {
                 "a": "AC ∩ BD = O\nOA = OB = OC = OD = [[1/2]] × diagonal\nCircle with centre O, radius OA, passes through A, B, C, D\nOne circle passes through A, B, C, D",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 146.89,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          254,
+                          26
+                        ],
+                        [
+                          46,
+                          26
+                        ],
+                        [
+                          46,
+                          234
+                        ],
+                        [
+                          254,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 254,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 46,
+                      "y": 26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 46,
+                      "y": 234
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 254,
+                      "y": 234
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that one and only one circle can pass through the vertices of a square."
               },
               {
                 "a": "O = centre of ABCDE\nOA = OB = OC = OD = OE\nCircle with centre O, radius OA, passes through A, B, C, D, E\nOne circle passes through A, B, C, D, E",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 140.98,
+                      "r": 114.98,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          150,
+                          26
+                        ],
+                        [
+                          40.65,
+                          105.45
+                        ],
+                        [
+                          82.42,
+                          234
+                        ],
+                        [
+                          217.58,
+                          234
+                        ],
+                        [
+                          259.35,
+                          105.45
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 40.65,
+                      "y": 105.45
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 82.42,
+                      "y": 234
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 217.58,
+                      "y": 234
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 259.35,
+                      "y": 105.45
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that only one circle can pass through the vertices of a regular pentagon."
               },
               {
                 "a": "∠B = 90°\nmAC = √(mAB² + mBC²) = √(6² + 8²) = √(36 + 64) = √100 = 10 km\nmOA = mOB = mOC = [[1/2]] × 10 = 5 km\nMid-point of AC\n5 km",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          72,
+                          234
+                        ],
+                        [
+                          228,
+                          234
+                        ],
+                        [
+                          228,
+                          26
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 130,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 72,
+                      "y": 234
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 228,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 228,
+                      "y": 26
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    },
+                    {
+                      "s": "mosque",
+                      "t": "text",
+                      "x": 150,
+                      "y": 98.8
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
+                "dq": {
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      6,
+                      0
+                    ],
+                    [
+                      6,
+                      8
+                    ]
+                  ],
+                  "right": "B",
+                  "sideLabels": {
+                    "AB": "6 km",
+                    "BC": "8 km"
+                  },
+                  "type": "triangle"
+                },
                 "q": "Three villages are situated in a way that B is east of A at a distance of 6km and C is north of B at a distance of 8km. Determine the location of mosque so that all have to walk same distance from each village by using ruler, compass and divider. How much distance each villager has to walk down?"
               }
             ],
@@ -8592,22 +12664,187 @@ var STUDY = {
             "items": [
               {
                 "a": "mOA = mOB = radius\nmOC = mOD = radius\nO is the mid-point of AB\nO is the mid-point of CD\nAB and CD bisect each other at O",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -5,
+                      0
+                    ],
+                    [
+                      "B",
+                      5,
+                      0
+                    ],
+                    [
+                      "C",
+                      0,
+                      5
+                    ],
+                    [
+                      "D",
+                      0,
+                      -5
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
                 "q": "Show that the diameters of a circle bisect each other."
               },
               {
                 "a": "mOA = mOB\nmAC = mBC\nmOC = mOC\n△OCA ≅ △OCB\nm∠OCA = m∠OCB\n∠OCA + ∠OCB = 180°\nm∠OCA = m∠OCB = 90°\nOC ⊥ AB",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "O",
+                      "C"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "B",
+                      4,
+                      -3
+                    ],
+                    [
+                      "C",
+                      0,
+                      -3
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
                 "q": "Show that angle subtended by the centre of a circle and midpoint of a chord is right angle."
               },
               {
                 "a": "mAB = 8 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB = [[1/2]] × 8 = 4 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 4² = 9 + 16 = 25\nmOA = 5 cm\nr = 5 cm\nC = 2πr = 2 × π × 5 = 10π cm\nA = πr² = π × 5² = 25π cm²",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "O",
+                      "C"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "B",
+                      4,
+                      -3
+                    ],
+                    [
+                      "C",
+                      0,
+                      -3
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
                 "q": "If length of the chord is 8cm. Its perpendicular distance from the centre of circle is 3cm, then find circumference and area of the circle."
               },
               {
                 "a": "chord = 2√(r² − k²)\n(a) √(9² − 4²) = √(81 − 16) = √65 cm\nChord = 2√65 cm\n(b) √(6² − 3²) = √(36 − 9) = √27 = 3√3 cm\nChord = 2 × 3√3 = 6√3 cm\n(a) 2√65 cm, (b) 6√3 cm",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "O",
+                      "C"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "B",
+                      4,
+                      -3
+                    ],
+                    [
+                      "C",
+                      0,
+                      -3
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
                 "q": "Calculate length of a chord which stands at a perpendicular distance of k from the centre of a circle with radius r when: (a) k = 4cm, r = 9cm (b) k = 3cm, r = 6cm."
               },
               {
                 "a": "mAB = 10 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB = [[1/2]] × 10 = 5 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 5² = 9 + 25 = 34\nmOA = √34 cm",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "O",
+                      "C"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -5,
+                      -3
+                    ],
+                    [
+                      "B",
+                      5,
+                      -3
+                    ],
+                    [
+                      "C",
+                      0,
+                      -3
+                    ]
+                  ],
+                  "r": 5.83,
+                  "type": "circle"
+                },
                 "q": "What will be radius of a circle in which the distance of a chord of length 10cm from the centre of circle is 3cm?"
               }
             ],
@@ -8617,22 +12854,328 @@ var STUDY = {
             "items": [
               {
                 "a": "mAB = mCD\nmAE = [[1/2]] mAB\nmCF = [[1/2]] mCD\nmAE = mCF\nmOA = mO'C = r\n△OEA ≅ △O'FC\nmOE = mO'F",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 76.71,
+                      "cy": 144.66,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 223.29,
+                      "cy": 144.66,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 127.43,
+                      "y1": 115.34,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 172.57,
+                      "x2": 274,
+                      "y1": 115.34,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.71,
+                      "x2": 76.71,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 223.29,
+                      "x2": 223.29,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 127.43,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 172.57,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 274,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 76.71,
+                      "y": 144.66
+                    },
+                    {
+                      "label": "O'",
+                      "t": "point",
+                      "x": 223.29,
+                      "y": 144.66
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 76.71,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 223.29,
+                      "y": 115.34
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Prove that two congruent chords of two congruent circles are equidistant from their centres."
               },
               {
                 "a": "mOE = mO'F\nmOA = mO'C = r\n△OEA ≅ △O'FC\nmAE = mCF\nmAB = 2 × mAE\nmCD = 2 × mCF\nmAB = mCD",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 76.71,
+                      "cy": 144.66,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 223.29,
+                      "cy": 144.66,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 127.43,
+                      "y1": 115.34,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 172.57,
+                      "x2": 274,
+                      "y1": 115.34,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.71,
+                      "x2": 76.71,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 223.29,
+                      "x2": 223.29,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 127.43,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 172.57,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 274,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 76.71,
+                      "y": 144.66
+                    },
+                    {
+                      "label": "O'",
+                      "t": "point",
+                      "x": 223.29,
+                      "y": 144.66
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 76.71,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 223.29,
+                      "y": 115.34
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that two chords of congruent circles equidistant from the centres are congruent."
               },
               {
                 "a": "Distance between chords = 2√(r² − ([[α/2]])²)\n(a) 2√(6² − ([[7/2]])²) = 2√(36 − [[49/4]]) = 2√([[95/4]]) = √95 cm\n(b) 2√(4² − ([[5/2]])²) = 2√(16 − [[25/4]]) = 2√([[39/4]]) = √39 cm\n(c) 2√(4² − ([[2/2]])²) = 2√(16 − 1) = 2√15 cm\n(d) 2√(9² − ([[4/2]])²) = 2√(81 − 4) = 2√77 cm\n(a) √95 cm, (b) √39 cm, (c) 2√15 cm, (d) 2√77 cm",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -3.5,
+                      4.87
+                    ],
+                    [
+                      "B",
+                      3.5,
+                      4.87
+                    ],
+                    [
+                      "C",
+                      -3.5,
+                      -4.87
+                    ],
+                    [
+                      "D",
+                      3.5,
+                      -4.87
+                    ]
+                  ],
+                  "r": 6,
+                  "type": "circle"
+                },
                 "q": "Find distance between two congruent chords of length α in a circle of radius r for the following given values of α and r: (a) α = 7cm and r = 6cm (b) α = 5cm and r = 4cm (c) α = 2cm and r = 4cm (d) α = 4cm and r = 9cm."
               },
               {
                 "a": "(a) 6 cm chord: √(5² − 3²) = √(25 − 9) = √16 = 4 cm\n8 cm chord: √(5² − 4²) = √(25 − 16) = √9 = 3 cm\n4 + 3 = 7 cm\n(b) 3 cm chord: √(14² − ([[3/2]])²) = √(196 − [[9/4]]) = √([[775/4]]) = [[5√31/2]] ≈ 13.919 cm\n6 cm chord: √(14² − 3²) = √(196 − 9) = √187 ≈ 13.675 cm\n[[5√31/2]] + √187 ≈ 13.919 + 13.675 = 27.594 cm\n(a) 7 cm, (b) 27.594 cm",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -3,
+                      4
+                    ],
+                    [
+                      "B",
+                      3,
+                      4
+                    ],
+                    [
+                      "C",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "D",
+                      4,
+                      -3
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
                 "q": "Find distance between two parallel chords of length α and β in a circle of radius r for the following given values of α, β and r: (a) α = 6cm, β = 8cm, r = 5cm (b) α = 3cm, β = 6cm, r = 14cm."
               },
               {
                 "a": "mAP × mPB = mCP × mPD\n(a) x × x = 2 × 10\nx² = 20\nx = √20 = 2√5\n(b) 4 × x = 3 × 8\n4x = 24\nx = 6\n(c) x × 12 = 3 × 20\n12x = 60\nx = 5\n(d) 4.5 × 12 = 5 × x\n54 = 5x\nx = [[54/5]] = 10.8\n(e) x × x = 17 × 12\nx² = 204\nx = √204 = 2√51\n(f) 7.2 × x = 4.5 × 9.6\n7.2x = 43.2\nx = [[43.2/7.2]] = 6\n(a) 2√5, (b) 6, (c) 5, (d) 10.8, (e) 2√51, (f) 6",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "B",
+                      4,
+                      3
+                    ],
+                    [
+                      "C",
+                      -4,
+                      3
+                    ],
+                    [
+                      "D",
+                      4,
+                      -3
+                    ],
+                    [
+                      "P",
+                      0,
+                      0
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
                 "q": "If two chords AB and CD of a circle with centre O intersect at P, find x in the following figures. (a) mAP = x, mPB = x, mCP = 2, mPD = 10. (b) mAP = 4, mPB = x, mCP = 3, mPD = 8. (c) mAP = x, mPB = 12, mCP = 3, mPD = 20. (d) mAP = 4.5, mPB = 12, mCP = 5, mPD = x. (e) mAP = x, mPB = x, mCP = 17, mPD = 12. (f) mAP = 7.2, mPB = x, mCP = 4.5, mPD = 9.6."
               }
             ],
@@ -8658,26 +13201,489 @@ var STUDY = {
             "items": [
               {
                 "a": "△OAF, △OAE:\nOF = OE\n∠OFA = ∠OEA = 90°\nOA = OA\n△OAF ≅ △OAE\nAF = AE\nBF = BD\nCD = CE\nAB = AF + FB\nBC = BD + DC\nCA = CE + EA\nAB = BC = CA",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 164.67,
+                      "r": 69.33,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          150,
+                          26
+                        ],
+                        [
+                          29.91,
+                          234
+                        ],
+                        [
+                          270.09,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 29.91,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 270.09,
+                      "y": 234
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 89.96,
+                      "y": 130
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 210.04,
+                      "y": 130
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 164.67
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that a triangle circumscribing a circle is an equilateral triangle."
               },
               {
                 "a": "AS = AP\nBQ = BP\nCQ = CR\nDS = DR\nAB = AP + PB\nBC = BQ + QC\nCD = CR + RD\nDA = DS + SA\nAS + BQ + CQ + DS = AP + BP + CR + DR\nAD + BC = AB + CD\nAD = BC\nAB = CD\n2BC = 2AB\nAB = BC\nAB = BC = CD = DA",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 104,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          46,
+                          26
+                        ],
+                        [
+                          254,
+                          26
+                        ],
+                        [
+                          254,
+                          234
+                        ],
+                        [
+                          46,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 46,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 254,
+                      "y": 26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 254,
+                      "y": 234
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 46,
+                      "y": 234
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 254,
+                      "y": 130
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "S",
+                      "t": "point",
+                      "x": 46,
+                      "y": 130
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that a rectangle circumscribing a circle must be a square."
               },
               {
                 "a": "OA = 2.5 cm\nOP = 5 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = 2.5² + AP²\nAP² = 25 − 6.25 = 18.75\nAP = [[(5√3)/2]] cm\nAP ≈ 4.33 cm\nchord = 2 × AP = 5√3 cm\nchord ≈ 8.66 cm",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 108.67,
+                      "cy": 201.59,
+                      "r": 165.33,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 108.67,
+                      "cy": 201.59,
+                      "r": 82.67,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 58.41,
+                      "y2": 201.59
+                    },
+                    {
+                      "t": "line",
+                      "x1": 108.67,
+                      "x2": 150,
+                      "y1": 201.59,
+                      "y2": 130
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 26,
+                      "y": 58.41
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 274,
+                      "y": 201.59
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 108.67,
+                      "y": 201.59
+                    },
+                    {
+                      "s": "diameter 10 cm",
+                      "t": "text",
+                      "x": 108.67,
+                      "y": 13.11
+                    },
+                    {
+                      "s": "diameter 5 cm",
+                      "t": "text",
+                      "x": 108.67,
+                      "y": 92.47
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "The diameters of two concentric circles are 10cm and 5cm, respectively. Find length of the tangent segment to the smaller circle to a point on it touching outer circle. Also find length of chord of outer circle which touches inner circle."
               },
               {
                 "a": "OP = 5 cm\nAP = 4 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = OA² + 4²\nOA² = 25 − 16 = 9\nOA = 3 cm\ndiameter = 2 × 3 = 6 cm\ncircumference = 2πr = 2π × 3 = 6π ≈ 18.8495 cm\narea = πr² = π × 3² = 9π ≈ 28.2743 cm²",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 72,
+                      "cy": 234,
+                      "r": 156,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 72,
+                      "x2": 228,
+                      "y1": 234,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 228,
+                      "x2": 228,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 72,
+                      "x2": 228,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 72,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 228,
+                      "y": 234
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 228,
+                      "y": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 215,
+                      "x2": 215,
+                      "y1": 234,
+                      "y2": 221
+                    },
+                    {
+                      "t": "line",
+                      "x1": 215,
+                      "x2": 228,
+                      "y1": 221,
+                      "y2": 221
+                    },
+                    {
+                      "s": "3 cm",
+                      "t": "text",
+                      "x": 150,
+                      "y": 280.8
+                    },
+                    {
+                      "s": "5 cm",
+                      "t": "text",
+                      "x": 264.4,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "The length of tangent segment from a point at a distance of 5cm from centre of the circle is 4cm. Find diameter, circumference and area of the circle?"
               },
               {
                 "a": "OA = 7 cm\nOP = 25 cm\nOA ⊥ AP\nOP² = OA² + AP²\n25² = 7² + AP²\nAP² = 625 − 49 = 576\nAP = √576 = 24 cm",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 119.67,
+                      "cy": 234,
+                      "r": 60.67,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 119.67,
+                      "x2": 180.33,
+                      "y1": 234,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 180.33,
+                      "x2": 180.33,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 119.67,
+                      "x2": 180.33,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 119.67,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 180.33,
+                      "y": 234
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 180.33,
+                      "y": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 167.33,
+                      "x2": 167.33,
+                      "y1": 234,
+                      "y2": 221
+                    },
+                    {
+                      "t": "line",
+                      "x1": 167.33,
+                      "x2": 180.33,
+                      "y1": 221,
+                      "y2": 221
+                    },
+                    {
+                      "s": "7 cm",
+                      "t": "text",
+                      "x": 150,
+                      "y": 241.8
+                    },
+                    {
+                      "s": "25 cm",
+                      "t": "text",
+                      "x": 186.4,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Find length of the tangent segment to a circle of radius 7cm from a point at a distance of 25cm from the centre of circle."
               },
               {
                 "a": "OA = 3 cm\nAP = 10 cm\nOA ⊥ AP\nOP² = OA² + AP²\nOP² = 3² + 10² = 9 + 100 = 109\nOP = √109 cm\nOP ≈ 10.44 cm",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 118.8,
+                      "cy": 234,
+                      "r": 62.4,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 118.8,
+                      "x2": 181.2,
+                      "y1": 234,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 181.2,
+                      "x2": 181.2,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 118.8,
+                      "x2": 181.2,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 118.8,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 181.2,
+                      "y": 234
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 181.2,
+                      "y": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 168.2,
+                      "x2": 168.2,
+                      "y1": 234,
+                      "y2": 221
+                    },
+                    {
+                      "t": "line",
+                      "x1": 168.2,
+                      "x2": 181.2,
+                      "y1": 221,
+                      "y2": 221
+                    },
+                    {
+                      "s": "3 cm",
+                      "t": "text",
+                      "x": 150,
+                      "y": 252.72
+                    },
+                    {
+                      "s": "10 cm",
+                      "t": "text",
+                      "x": 195.76,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "How far from centre of the circle of radius 3cm, a tangent segment of length 10cm can be drawn?"
               }
             ],
@@ -8687,22 +13693,368 @@ var STUDY = {
             "items": [
               {
                 "a": "PA = PB\n∠PAB = ∠PBA",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 26,
+                      "r": 124.85,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 50.12,
+                      "x2": 249.88,
+                      "y1": 100.91,
+                      "y2": 100.91
+                    },
+                    {
+                      "t": "line",
+                      "x1": 50.12,
+                      "x2": 150,
+                      "y1": 100.91,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 249.88,
+                      "x2": 150,
+                      "y1": 100.91,
+                      "y2": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 50.12,
+                      "y": 100.91
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 249.88,
+                      "y": 100.91
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "a1": 0,
+                      "a2": 53.13,
+                      "cx": 50.12,
+                      "cy": 100.91,
+                      "r": 22.47,
+                      "t": "arc"
+                    },
+                    {
+                      "a1": -233.13,
+                      "a2": -180,
+                      "cx": 249.88,
+                      "cy": 100.91,
+                      "r": 22.47,
+                      "t": "arc"
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that the tangents drawn at the ends of a chord in a circle make equal angles with the chord."
               },
               {
                 "a": "OA ⊥ tangent at A\nOB ⊥ tangent at B\nA, O, B collinear\nAB = diameter",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 104,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 4.4,
+                      "x2": 295.6,
+                      "y1": 26,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 4.4,
+                      "x2": 295.6,
+                      "y1": 234,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 150,
+                      "y1": 26,
+                      "y2": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that if two tangents to a circle are parallel, then the points of tangency are the end points of a diameter of the circle."
               },
               {
                 "a": "A, B: points on the circle\nAB = chord",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 234,
+                      "r": 124.85,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 50.12,
+                      "x2": 249.88,
+                      "y1": 159.09,
+                      "y2": 159.09
+                    },
+                    {
+                      "t": "line",
+                      "x1": 50.12,
+                      "x2": 150,
+                      "y1": 159.09,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 249.88,
+                      "x2": 150,
+                      "y1": 159.09,
+                      "y2": 26
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 50.12,
+                      "y": 159.09
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 249.88,
+                      "y": 159.09
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that if two tangents to a circle are not parallel, then the points of tangency are end points of a chord of the circle."
               },
               {
                 "a": "(a) x² = 4 × 9 = 36\nx = 6\n(b) whole secant = 12 + 10 = 22\nx² = 12 × 22 = 264\nx = √264 = 2√66\n(c) 7 × 11 = 11 × x\n77 = 11x\nx = 7\n(d) 11(11 + x) = 11 × 22\n11 + x = 22\nx = 11\n(e) 5 × 11 = 7 × x\n55 = 7x\nx = [[55/7]]\n(f) 8 × 16 = 9 × x\n128 = 9x\nx = [[128/9]] ≈ 14.22\n(g) 10(10 + x) = 11 × 13 = 143\n10 + x = 14.3\nx = 4.3\n(h) x ≈ 18.8714",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 58.02,
+                      "cy": 116.47,
+                      "r": 117.77,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 241.98,
+                      "x2": 133.41,
+                      "y1": 116.47,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 241.98,
+                      "x2": 65.56,
+                      "y1": 116.47,
+                      "y2": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 58.02,
+                      "y": 116.47
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 241.98,
+                      "y": 116.47
+                    },
+                    {
+                      "label": "T",
+                      "t": "point",
+                      "x": 133.41,
+                      "y": 26
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 65.56,
+                      "y": 234
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 163.57,
+                      "y": 168.71
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 197.12,
+                      "y": 61.81
+                    },
+                    {
+                      "s": "4 cm",
+                      "t": "text",
+                      "x": 202.78,
+                      "y": 161.43
+                    },
+                    {
+                      "s": "5 cm",
+                      "t": "text",
+                      "x": 86.3,
+                      "y": 201.35
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Find unknown x in the following figures. (a) A tangent of length x and a secant from an external point P; the secant has external part 4cm and whole length 9cm. (b) A tangent of length x and a secant from P; the secant has external part 12cm and internal part 10cm. (c) Two secants from P: one has external part 7cm and whole length 11cm, the other has external part 11cm and whole length x. (d) Two secants from P: one has external part 11cm and internal part x, the other has external part 11cm and internal part 11cm. (e) Two secants from P: one has external part 5cm and whole length 11cm, the other has external part 7cm and whole length x. (f) Two secants from P: one has external part 8cm and whole length 16cm, the other has external part 9cm and whole length x. (g) Two secants from P: one has external part 10cm and internal part x, the other has external part 11cm and internal part 2cm. (h) Two secants from P; the book's answer is x ≈ 18.8714."
               },
               {
                 "a": "(a) x² = 3 × 12 = 36\nx = 6\n(b) 8(8 + x) = 6 × 16 = 96\n8 + x = 12\nx = 4\n(c) x² = 3 × 12 = 36\nx = 6\n(d) whole secant = 9x + 3x = 12x\n12² = 9x × 12x = 108x²\nx² = [[144/108]] = [[4/3]]\nx = [[2/√3]] ≈ 1.1547\n(e) whole secant = 5 + 3x\n10² = 5(5 + 3x)\n100 = 25 + 15x\n15x = 75\nx = 5\n(f) x = 13",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 103.5,
+                      "cy": 168.74,
+                      "r": 77.5,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 274,
+                      "x2": 104.91,
+                      "y1": 168.74,
+                      "y2": 91.26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 274,
+                      "x2": 26,
+                      "y1": 168.74,
+                      "y2": 168.74
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 103.5,
+                      "y": 168.74
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 274,
+                      "y": 168.74
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 161.27,
+                      "y": 117.09
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 104.91,
+                      "y": 91.26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 181,
+                      "y": 168.74
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 26,
+                      "y": 168.74
+                    },
+                    {
+                      "s": "8 cm",
+                      "t": "text",
+                      "x": 222.29,
+                      "y": 133.61
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 111.39,
+                      "y": 104.17
+                    },
+                    {
+                      "s": "6 cm",
+                      "t": "text",
+                      "x": 227.5,
+                      "y": 157.89
+                    },
+                    {
+                      "s": "10 cm",
+                      "t": "text",
+                      "x": 103.5,
+                      "y": 157.89
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Find unknown x in the following figures. (a) A tangent of length x and a secant from P; the secant has external part 3cm and whole length 12cm. (b) Two secants from P: one has external part 8cm and internal part x, the other has external part 6cm and internal part 10cm. (c) A tangent of length x and a secant from P; the secant has external part 3cm and whole length 12cm. (d) A tangent of length 12cm and a secant from P; the secant has external part 9x and internal part 3x. (e) A tangent of length 10cm and a secant from P; the secant has external part 5cm and internal part 3x. (f) Two tangents from P, one of length 13cm and the other of length x."
               }
             ],
@@ -8712,30 +14064,409 @@ var STUDY = {
             "items": [
               {
                 "a": "OO′ = r + r′\nOB = r\nO′B = OO′ − OB = (r + r′) − r = r′\nB: on both circles",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 130,
+                      "r": 141.71,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 274,
+                      "cy": 130,
+                      "r": 106.29,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "O'",
+                      "t": "point",
+                      "x": 274,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 167.71,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "If length of the segment joining centres of two circles is the sum of their radii, show that the circles touch externally."
               },
               {
                 "a": "AB + BC + CA = 2r1 + 2r2 + 2r3\nAB + BC + CA = (r1 + r2) + (r2 + r3) + (r3 + r1)\nAB ≤ r1 + r2\nBC ≤ r2 + r3\nCA ≤ r3 + r1\nAB = r1 + r2\nBC = r2 + r3\nCA = r3 + r1",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 30,
+                      "cy": 234,
+                      "r": 120,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 270,
+                      "cy": 234,
+                      "r": 120,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 150,
+                      "cy": 26,
+                      "r": 120,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          30,
+                          234
+                        ],
+                        [
+                          270,
+                          234
+                        ],
+                        [
+                          150,
+                          26
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 30,
+                      "y": 234
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 270,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "If perimeter of the triangle with vertices at the centres of three circles is equal to the sum of their diameters, show that the three circles touch in pairs externally."
               },
               {
                 "a": "2r = 12\nr = 6 cm\ncircumference = 2πr = 2π × 6 = 12π\n12π = 12 × ([[22/7]]) = [[264/7]] ≈ 37.7 cm",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 130,
+                      "r": 124,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 274,
+                      "cy": 130,
+                      "r": 124,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "O'",
+                      "t": "point",
+                      "x": 274,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    },
+                    {
+                      "s": "12 cm",
+                      "t": "text",
+                      "x": 150,
+                      "y": 154.8
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "If length of segment joining two congruent circles touching externally is 12cm, find their radii and circumferences."
               },
               {
                 "a": "(a) ∠OAP = 90°\n∠OBP = 90°\n∠AOB + ∠OAP + ∠APB + ∠OBP = 360°\n110° + 90° + x + 90° = 360°\nx = 360° − 290° = 70°\n(b) ∠AOB = 360° − 90° − 90° − 80° = 100°\n∠AOP = [[∠AOB/2]] = [[100°/2]] = 50°",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 234,
+                      "r": 119.3,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 52.27,
+                      "y1": 26,
+                      "y2": 165.57
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 247.73,
+                      "y1": 26,
+                      "y2": 165.57
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 52.27,
+                      "y1": 234,
+                      "y2": 165.57
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 247.73,
+                      "y1": 234,
+                      "y2": 165.57
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 52.27,
+                      "y": 165.57
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 247.73,
+                      "y": 165.57
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "s": "110°",
+                      "t": "text",
+                      "x": 150,
+                      "y": 181.51
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 150,
+                      "y": 62.2
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "If PA and PB are tangents to the given circle from a point P outside as indicated in the figures. Find the unknown angle. (a) In the figure ∠AOB = 110°, find ∠APB (marked x). (b) In the figure ∠APB = 80°, find ∠AOP (marked ?)."
               },
               {
                 "a": "OO′ = r + r′\nOB ⊥ tangent\nO′B ⊥ tangent\n∠OBC = 90°\n∠O′BC = 90°\n∠OBC + ∠O′BC = 180°\nO, B, O′: collinear\nB: on OO′",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 130,
+                      "r": 141.71,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 274,
+                      "cy": 130,
+                      "r": 106.29,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 167.71,
+                      "x2": 167.71,
+                      "y1": 307.14,
+                      "y2": -47.14
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "O'",
+                      "t": "point",
+                      "x": 274,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 167.71,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "Show that if two circles touch externally, then the point of contact lies on the segment joining their centres."
               },
               {
                 "a": "half of first chord = [[1.4/2]] = 0.7 cm\ndistance of first chord = √(2.5² − 0.7²) = √(6.25 − 0.49) = √5.76 = 2.4 cm\ndistance of second chord = 3.9 − 2.4 = 1.5 cm\nhalf of second chord = √(2.5² − 1.5²) = √(6.25 − 2.25) = √4 = 2 cm\nsecond chord = 2 × 2 = 4 cm",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -0.7,
+                      2.4
+                    ],
+                    [
+                      "B",
+                      0.7,
+                      2.4
+                    ],
+                    [
+                      "C",
+                      -2,
+                      -1.5
+                    ],
+                    [
+                      "D",
+                      2,
+                      -1.5
+                    ]
+                  ],
+                  "r": 2.5,
+                  "type": "circle"
+                },
                 "q": "If two chords in a circle of radius 2.5cm are 3.9cm apart, and length of a chord is 1.4cm, then find the length of the other chord."
               },
               {
                 "a": "r1 = 4 cm\nr2 = 5 cm\nr1 + r2 = 9 cm\nr2 + r3 = 5 + r3\nr3 + r1 = r3 + 4\n(r1 + r2) + (r2 + r3) + (r3 + r1) = 2(r1 + r2 + r3) = 35\nr1 + r2 + r3 = [[35/2]] = 17.5\nr3 = 17.5 − 4 − 5 = 8.5 cm",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 72.78,
+                      "cy": 234,
+                      "r": 68.64,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 227.22,
+                      "cy": 234,
+                      "r": 85.8,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 125.21,
+                      "cy": 26,
+                      "r": 145.87,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          72.78,
+                          234
+                        ],
+                        [
+                          227.22,
+                          234
+                        ],
+                        [
+                          125.21,
+                          26
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 72.78,
+                      "y": 234
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 227.22,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 125.21,
+                      "y": 26
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "If three circles touch in pairs externally and radii of two circles are 4cm and 5cm, then find the radius of the third circle if the triangle formed through their centres has perimeter of 35cm."
               }
             ],
@@ -8756,114 +14487,1081 @@ var STUDY = {
         "display": "Tangents of a Circle"
       },
       {
-        "unit": 27,
-        "title": "Chords and Arcs",
         "exercises": [
           {
-            "label": "Exercise 27.1",
             "items": [
               {
-                "q": "In a circle prove that the arcs between two parallel and equal chords or equal.",
-                "a": "EF ⊥ AB\nEF ⊥ CD\narc AE = arc EB\narc CF = arc FD\narc AC = arc BD"
+                "a": "EF ⊥ AB\nEF ⊥ CD\narc AE = arc EB\narc CF = arc FD\narc AC = arc BD",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ],
+                    [
+                      "E",
+                      "F"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      3
+                    ],
+                    [
+                      "B",
+                      4,
+                      3
+                    ],
+                    [
+                      "C",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "D",
+                      4,
+                      -3
+                    ],
+                    [
+                      "E",
+                      0,
+                      5
+                    ],
+                    [
+                      "F",
+                      0,
+                      -5
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In a circle prove that the arcs between two parallel and equal chords or equal."
               },
               {
-                "q": "Prove that in equal circles, equal central angles have equal arcs.",
-                "a": "OA = O'A'\nOB = O'B'\nm∠AOB = m∠A'O'B'\n△AOB ≅ △A'O'B'\nAB = A'B'\narc AB = arc A'B'"
+                "a": "OA = O'A'\nOB = O'B'\nm∠AOB = m∠A'O'B'\n△AOB ≅ △A'O'B'\nAB = A'B'\narc AB = arc A'B'",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 76.71,
+                      "cy": 144.66,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 223.29,
+                      "cy": 144.66,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 127.43,
+                      "y1": 115.34,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 172.57,
+                      "x2": 274,
+                      "y1": 115.34,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.71,
+                      "x2": 26,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.71,
+                      "x2": 127.43,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 223.29,
+                      "x2": 172.57,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "t": "line",
+                      "x1": 223.29,
+                      "x2": 274,
+                      "y1": 144.66,
+                      "y2": 115.34
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 127.43,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 76.71,
+                      "y": 144.66
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 172.57,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 274,
+                      "y": 115.34
+                    },
+                    {
+                      "label": "O'",
+                      "t": "point",
+                      "x": 223.29,
+                      "y": 144.66
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
+                "q": "Prove that in equal circles, equal central angles have equal arcs."
               },
               {
-                "q": "In the following figure, O is the centre of the circle. Find the value of x and y.\n[Figure: P, Q, R, S are points on the circle. The radii OR and OQ are drawn. The side PQ is produced beyond Q. The angles marked in the figure are: m∠PSR = (3x + 2y)°, m∠ORQ = 50°, m∠ROQ = 80°, and the exterior angle at Q is (x + 6y)°.]",
-                "a": "OR = OQ\nm∠OQR = m∠ORQ = 50°\nm∠PQO = m∠OQR = 50°\nm∠PQR = m∠PQO + m∠OQR = 50° + 50° = 100°\n(x + 6y)° + m∠PQR = 180°\nx + 6y + 100 = 180\nx + 6y = 80 ... (1)\nm∠PQR + m∠PSR = 180°\n100 + (3x + 2y) = 180\n3x + 2y = 80 ... (2)\nx = 80 − 6y\n3(80 − 6y) + 2y = 80\n240 − 18y + 2y = 80\n240 − 80 = 16y\n16y = 160\ny = 10\nx = 80 − 6(10) = 80 − 60 = 20"
+                "a": "OR = OQ\nm∠OQR = m∠ORQ = 50°\nm∠PQO = m∠OQR = 50°\nm∠PQR = m∠PQO + m∠OQR = 50° + 50° = 100°\n(x + 6y)° + m∠PQR = 180°\nx + 6y + 100 = 180\nx + 6y = 80 ... (1)\nm∠PQR + m∠PSR = 180°\n100 + (3x + 2y) = 180\n3x + 2y = 80 ... (2)\nx = 80 − 6y\n3(80 − 6y) + 2y = 80\n240 − 18y + 2y = 80\n240 − 80 = 16y\n16y = 160\ny = 10\nx = 80 − 6(10) = 80 − 60 = 20",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 130.15,
+                      "cy": 141.26,
+                      "r": 110.84,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 179.17,
+                      "y2": 222.89
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 92.24,
+                      "y1": 179.17,
+                      "y2": 37.11
+                    },
+                    {
+                      "t": "line",
+                      "x1": 92.24,
+                      "x2": 215.06,
+                      "y1": 37.11,
+                      "y2": 70.01
+                    },
+                    {
+                      "t": "line",
+                      "x1": 215.06,
+                      "x2": 215.06,
+                      "y1": 70.01,
+                      "y2": 212.5
+                    },
+                    {
+                      "t": "line",
+                      "x1": 130.15,
+                      "x2": 215.06,
+                      "y1": 141.26,
+                      "y2": 70.01
+                    },
+                    {
+                      "t": "line",
+                      "x1": 130.15,
+                      "x2": 215.06,
+                      "y1": 141.26,
+                      "y2": 212.5
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 26,
+                      "y": 179.17
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 215.06,
+                      "y": 212.5
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 215.06,
+                      "y": 70.01
+                    },
+                    {
+                      "label": "S",
+                      "t": "point",
+                      "x": 92.24,
+                      "y": 37.11
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 130.15,
+                      "y": 141.26
+                    },
+                    {
+                      "s": "80°",
+                      "t": "text",
+                      "x": 174.49,
+                      "y": 141.26
+                    },
+                    {
+                      "s": "50°",
+                      "t": "text",
+                      "x": 194.44,
+                      "y": 88.06
+                    },
+                    {
+                      "s": "3x + 2y",
+                      "t": "text",
+                      "x": 94.68,
+                      "y": 59.24
+                    },
+                    {
+                      "s": "x + 6y",
+                      "t": "text",
+                      "x": 234.34,
+                      "y": 236.58
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
+                "q": "In the following figure, O is the centre of the circle. Find the value of x and y.\n[Figure: P, Q, R, S are points on the circle. The radii OR and OQ are drawn. The side PQ is produced beyond Q. The angles marked in the figure are: m∠PSR = (3x + 2y)°, m∠ORQ = 50°, m∠ROQ = 80°, and the exterior angle at Q is (x + 6y)°.]"
               },
               {
-                "q": "In the following figure m∠PQR = 35° and m∠PRQ = 31°. Find m∠QPR and m∠OQR.\n[Figure: P, Q, R are points on the circle with centre O. The chord QR is drawn and the radii OQ and OR are drawn, with O below QR. The angles marked are m∠PQR = 35° and m∠PRQ = 31°.]",
-                "a": "m∠QPR + m∠PQR + m∠PRQ = 180°\nm∠QPR + 35° + 31° = 180°\nm∠QPR + 66° = 180°\nm∠QPR = 180° − 66° = 114°\nreflex ∠QOR = 2 × m∠QPR = 2 × 114° = 228°\nm∠QOR = 360° − 228° = 132°\nOQ = OR\nm∠OQR = m∠ORQ\nm∠OQR + m∠ORQ + m∠QOR = 180°\n2(m∠OQR) + 132° = 180°\n2(m∠OQR) = 48°\nm∠OQR = 24°"
+                "a": "m∠QPR + m∠PQR + m∠PRQ = 180°\nm∠QPR + 35° + 31° = 180°\nm∠QPR + 66° = 180°\nm∠QPR = 180° − 66° = 114°\nreflex ∠QOR = 2 × m∠QPR = 2 × 114° = 228°\nm∠QOR = 360° − 228° = 132°\nOQ = OR\nm∠OQR = m∠ORQ\nm∠OQR + m∠ORQ + m∠QOR = 180°\n2(m∠OQR) + 132° = 180°\n2(m∠OQR) = 48°\nm∠OQR = 24°",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "P",
+                      "Q"
+                    ],
+                    [
+                      "P",
+                      "R"
+                    ],
+                    [
+                      "Q",
+                      "R"
+                    ],
+                    [
+                      "O",
+                      "Q"
+                    ],
+                    [
+                      "O",
+                      "R"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "P",
+                      0.5,
+                      4.97
+                    ],
+                    [
+                      "Q",
+                      -4.58,
+                      2
+                    ],
+                    [
+                      "R",
+                      4.58,
+                      2
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In the following figure m∠PQR = 35° and m∠PRQ = 31°. Find m∠QPR and m∠OQR.\n[Figure: P, Q, R are points on the circle with centre O. The chord QR is drawn and the radii OQ and OR are drawn, with O below QR. The angles marked are m∠PQR = 35° and m∠PRQ = 31°.]"
               },
               {
-                "q": "In the figure O is the center of circle, given that m∠AOB = 120° and m∠BCD = 85°. Find m∠OAD.\n[Figure: ABCD is a cyclic quadrilateral with centre O. The radii OA and OB are drawn. The angles marked are m∠AOB = 120° and m∠BCD = 85°.]",
-                "a": "OA = OB\nm∠OAB = m∠OBA\nm∠OAB + m∠OBA + m∠AOB = 180°\n2(m∠OAB) + 120° = 180°\n2(m∠OAB) = 60°\nm∠OAB = 30°\nm∠BAD + m∠BCD = 180°\nm∠BAD + 85° = 180°\nm∠BAD = 180° − 85° = 95°\nm∠OAD = m∠BAD − m∠OAB = 95° − 30° = 65°"
+                "a": "OA = OB\nm∠OAB = m∠OBA\nm∠OAB + m∠OBA + m∠AOB = 180°\n2(m∠OAB) + 120° = 180°\n2(m∠OAB) = 60°\nm∠OAB = 30°\nm∠BAD + m∠BCD = 180°\nm∠BAD + 85° = 180°\nm∠BAD = 180° − 85° = 95°\nm∠OAD = m∠BAD − m∠OAB = 95° − 30° = 65°",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "B",
+                      "C"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ],
+                    [
+                      "D",
+                      "A"
+                    ],
+                    [
+                      "O",
+                      "A"
+                    ],
+                    [
+                      "O",
+                      "B"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4.33,
+                      -2.5
+                    ],
+                    [
+                      "B",
+                      4.33,
+                      -2.5
+                    ],
+                    [
+                      "C",
+                      2.5,
+                      4.33
+                    ],
+                    [
+                      "D",
+                      -2.5,
+                      4.33
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In the figure O is the center of circle, given that m∠AOB = 120° and m∠BCD = 85°. Find m∠OAD.\n[Figure: ABCD is a cyclic quadrilateral with centre O. The radii OA and OB are drawn. The angles marked are m∠AOB = 120° and m∠BCD = 85°.]"
               },
               {
-                "q": "In the following figure, AB is diameter of the circle given that m∠DAB = 30°. Find m∠ACD.\n[Figure: AB is a diameter of the circle with centre O. C and D are points on the circle on the same side of AB. The angle marked is m∠DAB = 30°.]",
-                "a": "m∠ADB = 90°\nm∠ABD + m∠BAD + m∠ADB = 180°\nm∠ABD + 30° + 90° = 180°\nm∠ABD + 120° = 180°\nm∠ABD = 180° − 120° = 60°\nm∠ABD + m∠ACD = 180°\n60° + m∠ACD = 180°\nm∠ACD = 180° − 60° = 120°"
+                "a": "m∠ADB = 90°\nm∠ABD + m∠BAD + m∠ADB = 180°\nm∠ABD + 30° + 90° = 180°\nm∠ABD + 120° = 180°\nm∠ABD = 180° − 120° = 60°\nm∠ABD + m∠ACD = 180°\n60° + m∠ACD = 180°\nm∠ACD = 180° − 60° = 120°",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "A",
+                      "D"
+                    ],
+                    [
+                      "B",
+                      "D"
+                    ],
+                    [
+                      "A",
+                      "C"
+                    ],
+                    [
+                      "C",
+                      "D"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -5,
+                      0
+                    ],
+                    [
+                      "B",
+                      5,
+                      0
+                    ],
+                    [
+                      "C",
+                      4.33,
+                      2.5
+                    ],
+                    [
+                      "D",
+                      2.5,
+                      4.33
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In the following figure, AB is diameter of the circle given that m∠DAB = 30°. Find m∠ACD.\n[Figure: AB is a diameter of the circle with centre O. C and D are points on the circle on the same side of AB. The angle marked is m∠DAB = 30°.]"
               }
-            ]
+            ],
+            "label": "Exercise 27.1"
           },
           {
-            "label": "Review Exercise",
             "items": [
               {
-                "q": "1. Multiple Choice Question MCQs.\n(i) If a chord of a circle subtends, a central angle of 60°. Then the chord and the radial segment are ______.\n(a) Parallel (b) Perpendicular (c) Congruent (d) Incongruent\n(ii) An arc subtends a central angle of 45° then the corresponding chords will subtend a central angle of ?\n(a) 15° (b) 30° (c) 45° (d) 60°\n(iii) A pair of chords of a circle subtending two congruent central angle are.\n(a) Perpendicular (b) Non congruent (c) Congruent (d) None of these\n(iv) The arcs opposite to congruent central angles of a circle are always.\n(a) Parallel (b) Congruent (c) Perpendicular (d) None of these\n(v) A 6cm long chord subtends a central angle of 60°. The radial segment of this circle is\n(a) 4cm (b) 6cm (c) 5cm (d) 8cm\n(vi) The chord length of a circle subtending a central angle of 180° is always\n(a) equal to the radial segment (b) less than radial segment (c) double of radial segment (d) half of the radial segment.\n(viii) The length of a chord and the radial segment of a circle are congruent, the central angle made by the chord will be:\n(a) 60° (b) 75° (c) 90° (d) 45°\n(ix) Out of two congruent arcs of a circle, if one arc makes a central angle of 30° then the other arc will subtend the central angle:\n(a) 60° (b) 90° (c) 75° (d) 30°\n(x) Diameter divides the circle into ______ parts.\n(a) Two (b) Three (c) Four (d) All of these",
-                "a": "(i) (c) Congruent\n(ii) (c) 45°\n(iii) (c) Congruent\n(iv) (b) Congruent\n(v) (b) 6cm\n(vi) (c) double of radial segment\n(viii) (a) 60°\n(ix) (d) 30°\n(x) (a) Two"
+                "a": "(i) (c) Congruent\n(ii) (c) 45°\n(iii) (c) Congruent\n(iv) (b) Congruent\n(v) (b) 6cm\n(vi) (c) double of radial segment\n(viii) (a) 60°\n(ix) (d) 30°\n(x) (a) Two",
+                "q": "1. Multiple Choice Question MCQs.\n(i) If a chord of a circle subtends, a central angle of 60°. Then the chord and the radial segment are ______.\n(a) Parallel (b) Perpendicular (c) Congruent (d) Incongruent\n(ii) An arc subtends a central angle of 45° then the corresponding chords will subtend a central angle of ?\n(a) 15° (b) 30° (c) 45° (d) 60°\n(iii) A pair of chords of a circle subtending two congruent central angle are.\n(a) Perpendicular (b) Non congruent (c) Congruent (d) None of these\n(iv) The arcs opposite to congruent central angles of a circle are always.\n(a) Parallel (b) Congruent (c) Perpendicular (d) None of these\n(v) A 6cm long chord subtends a central angle of 60°. The radial segment of this circle is\n(a) 4cm (b) 6cm (c) 5cm (d) 8cm\n(vi) The chord length of a circle subtending a central angle of 180° is always\n(a) equal to the radial segment (b) less than radial segment (c) double of radial segment (d) half of the radial segment.\n(viii) The length of a chord and the radial segment of a circle are congruent, the central angle made by the chord will be:\n(a) 60° (b) 75° (c) 90° (d) 45°\n(ix) Out of two congruent arcs of a circle, if one arc makes a central angle of 30° then the other arc will subtend the central angle:\n(a) 60° (b) 90° (c) 75° (d) 30°\n(x) Diameter divides the circle into ______ parts.\n(a) Two (b) Three (c) Four (d) All of these"
               }
-            ]
+            ],
+            "label": "Review Exercise"
           }
         ],
+        "title": "Chords and Arcs",
+        "unit": 27,
         "display": "Chords and Arcs"
       },
       {
-        "unit": 28,
-        "title": "Angle in a Segment of a Circle",
         "exercises": [
           {
-            "label": "Exercise 28.1",
             "items": [
               {
-                "q": "In figure 1, point O is the centre of the circle. Find x where m∠C = 30°.",
-                "a": "x = m∠ABO\nm∠ACB = 30°\nm∠AOB = 2 × m∠ACB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = x\nx + x + m∠AOB = 180°\n2x + 60° = 180°\n2x = 120°\nx = 60°"
+                "a": "x = m∠ABO\nm∠ACB = 30°\nm∠AOB = 2 × m∠ACB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = x\nx + x + m∠AOB = 180°\n2x + 60° = 180°\n2x = 120°\nx = 60°",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "A",
+                      "C"
+                    ],
+                    [
+                      "B",
+                      "C"
+                    ],
+                    [
+                      "O",
+                      "A"
+                    ],
+                    [
+                      "O",
+                      "B"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "C",
+                      0,
+                      5
+                    ],
+                    [
+                      "A",
+                      -2.5,
+                      -4.33
+                    ],
+                    [
+                      "B",
+                      2.5,
+                      -4.33
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In figure 1, point O is the centre of the circle. Find x where m∠C = 30°."
               },
               {
-                "q": "In figure 2, point O is the centre of the circle. Find x where m∠Q = 50°.",
-                "a": "x = m∠PRO\nm∠PQO = 50°\nreflex m∠QOR = 240°\nm∠QOR = 360° − 240° = 120°\nm∠QPR = [[1/2]] × 240° = 120°\nm∠QPR + m∠PQO + m∠QOR + m∠PRO = 360°\n120° + 50° + 120° + x = 360°\n290° + x = 360°\nx = 70°"
+                "a": "x = m∠PRO\nm∠PQO = 50°\nreflex m∠QOR = 240°\nm∠QOR = 360° − 240° = 120°\nm∠QPR = [[1/2]] × 240° = 120°\nm∠QPR + m∠PQO + m∠QOR + m∠PRO = 360°\n120° + 50° + 120° + x = 360°\n290° + x = 360°\nx = 70°",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 201.59,
+                      "r": 143.19,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 26,
+                      "y1": 58.41,
+                      "y2": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 274,
+                      "x2": 150,
+                      "y1": 130,
+                      "y2": 58.41
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 26,
+                      "y1": 201.59,
+                      "y2": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 274,
+                      "y1": 201.59,
+                      "y2": 130
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 58.41
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 274,
+                      "y": 130
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 201.59
+                    },
+                    {
+                      "s": "240°",
+                      "t": "text",
+                      "x": 150,
+                      "y": 247.41
+                    },
+                    {
+                      "s": "50°",
+                      "t": "text",
+                      "x": 49.77,
+                      "y": 107.09
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 247.37,
+                      "y": 107.09
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
+                "q": "In figure 2, point O is the centre of the circle. Find x where m∠Q = 50°."
               },
               {
-                "q": "In figure 3, point O is the centre of the circle. Find x + y when m∠D = 30°.",
-                "a": "x = m∠AOB\ny = m∠OAB\nm∠ADB = 30°\nx = m∠AOB = 2 × m∠ADB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = y\ny + y + x = 180°\n2y + 60° = 180°\n2y = 120°\ny = 60°\nx + y = 60° + 60° = 120°"
+                "a": "x = m∠AOB\ny = m∠OAB\nm∠ADB = 30°\nx = m∠AOB = 2 × m∠ADB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = y\ny + y + x = 180°\n2y + 60° = 180°\n2y = 120°\ny = 60°\nx + y = 60° + 60° = 120°",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "D"
+                    ],
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "A",
+                      "C"
+                    ],
+                    [
+                      "B",
+                      "C"
+                    ],
+                    [
+                      "O",
+                      "A"
+                    ],
+                    [
+                      "O",
+                      "B"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "C",
+                      0,
+                      5
+                    ],
+                    [
+                      "D",
+                      -4.7,
+                      1.7
+                    ],
+                    [
+                      "A",
+                      -2.5,
+                      -4.33
+                    ],
+                    [
+                      "B",
+                      2.5,
+                      -4.33
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In figure 3, point O is the centre of the circle. Find x + y when m∠D = 30°."
               },
               {
-                "q": "The inscribed angles of two congruent major arcs of two congruent circles are congruent. Prove it.",
-                "a": "m∠AOB = m∠A'O'B'\nm∠AOB = 2 m∠APB\nm∠A'O'B' = 2 m∠A'P'B'\n2 m∠APB = 2 m∠A'P'B'\nm∠APB = m∠A'P'B'"
+                "a": "m∠AOB = m∠A'O'B'\nm∠AOB = 2 m∠APB\nm∠A'O'B' = 2 m∠A'P'B'\n2 m∠APB = 2 m∠A'P'B'\nm∠APB = m∠A'P'B'",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 76.71,
+                      "cy": 115.34,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 223.29,
+                      "cy": 115.34,
+                      "r": 58.63,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 76.71,
+                      "y1": 86.03,
+                      "y2": 173.97
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.71,
+                      "x2": 127.43,
+                      "y1": 173.97,
+                      "y2": 86.03
+                    },
+                    {
+                      "t": "line",
+                      "x1": 172.57,
+                      "x2": 223.29,
+                      "y1": 86.03,
+                      "y2": 173.97
+                    },
+                    {
+                      "t": "line",
+                      "x1": 223.29,
+                      "x2": 274,
+                      "y1": 173.97,
+                      "y2": 86.03
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 86.03
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 76.71,
+                      "y": 173.97
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 127.43,
+                      "y": 86.03
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 172.57,
+                      "y": 86.03
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 223.29,
+                      "y": 173.97
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 274,
+                      "y": 86.03
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
+                "q": "The inscribed angles of two congruent major arcs of two congruent circles are congruent. Prove it."
               },
               {
-                "q": "Prove that the inscribed angles of major arc and its corresponding minor arc in a circle are supplementary.",
-                "a": "m∠AOB = 2 m∠APB ... (i)\nreflex ∠AOB = 2 m∠AQB ... (ii)\nm∠AOB + reflex ∠AOB = 360°\n2 m∠APB + 2 m∠AQB = 360°\nm∠APB + m∠AQB = 180°"
+                "a": "m∠AOB = 2 m∠APB ... (i)\nreflex ∠AOB = 2 m∠AQB ... (ii)\nm∠AOB + reflex ∠AOB = 360°\n2 m∠APB + 2 m∠AQB = 360°\nm∠APB + m∠AQB = 180°",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "P"
+                    ],
+                    [
+                      "B",
+                      "P"
+                    ],
+                    [
+                      "A",
+                      "Q"
+                    ],
+                    [
+                      "B",
+                      "Q"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "B",
+                      4,
+                      -3
+                    ],
+                    [
+                      "P",
+                      0,
+                      5
+                    ],
+                    [
+                      "Q",
+                      0,
+                      -5
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "Prove that the inscribed angles of major arc and its corresponding minor arc in a circle are supplementary."
               }
-            ]
+            ],
+            "label": "Exercise 28.1"
           },
           {
-            "label": "Exercise 28.2",
             "items": [
               {
-                "q": "In figure 1, O is the centre of the circle, whereas AC is its diameter. Find x. (In the figure, m∠BCA = 3x + 1 and m∠CAB = 2x - 1.)",
-                "a": "m∠BCA = 3x + 1\nm∠CAB = 2x − 1\nm∠ABC = 90°\nm∠CAB + m∠ABC + m∠BCA = 180°\n(2x − 1) + 90° + (3x + 1) = 180°\n5x + 90° = 180°\n5x = 90°\nx = 18"
+                "a": "m∠BCA = 3x + 1\nm∠CAB = 2x − 1\nm∠ABC = 90°\nm∠CAB + m∠ABC + m∠BCA = 180°\n(2x − 1) + 90° + (3x + 1) = 180°\n5x + 90° = 180°\n5x = 90°\nx = 18",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "C"
+                    ],
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "B",
+                      "C"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      4,
+                      -3
+                    ],
+                    [
+                      "C",
+                      -4,
+                      3
+                    ],
+                    [
+                      "B",
+                      3.54,
+                      3.54
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In figure 1, O is the centre of the circle, whereas AC is its diameter. Find x. (In the figure, m∠BCA = 3x + 1 and m∠CAB = 2x - 1.)"
               },
               {
-                "q": "In figure 2, ACB is a major arc of circle with centre O and ∠C is its inscribed angle. Find x where x ∈ R. (In the figure, m∠C = 2x - 2.)",
-                "a": "m∠ACB = 2x − 2\n0° < m∠C < 90°\n0 < 2x − 2 < 90\n2 < 2x < 92\n1 < x < 46"
+                "a": "m∠ACB = 2x − 2\n0° < m∠C < 90°\n0 < 2x − 2 < 90\n2 < 2x < 92\n1 < x < 46",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "C"
+                    ],
+                    [
+                      "B",
+                      "C"
+                    ],
+                    [
+                      "O",
+                      "A"
+                    ],
+                    [
+                      "O",
+                      "B"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "C",
+                      0,
+                      5
+                    ],
+                    [
+                      "A",
+                      -3.54,
+                      -3.54
+                    ],
+                    [
+                      "B",
+                      3.54,
+                      -3.54
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In figure 2, ACB is a major arc of circle with centre O and ∠C is its inscribed angle. Find x where x ∈ R. (In the figure, m∠C = 2x - 2.)"
               },
               {
-                "q": "In a circle, 7x - 1 is the measure of inscribed angle of a minor arc of a circle. Find x where x ∈ R.",
-                "a": "90° < 7x − 1 < 180°\n91 < 7x < 181\n13 < x < [[181/7]]\n[[181/7]] ≈ 25.86"
+                "a": "90° < 7x − 1 < 180°\n91 < 7x < 181\n13 < x < [[181/7]]\n[[181/7]] ≈ 25.86",
+                "dq": {
+                  "centre": "O",
+                  "chords": [
+                    [
+                      "A",
+                      "P"
+                    ],
+                    [
+                      "B",
+                      "P"
+                    ]
+                  ],
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      3
+                    ],
+                    [
+                      "B",
+                      4,
+                      3
+                    ],
+                    [
+                      "P",
+                      0,
+                      -5
+                    ]
+                  ],
+                  "r": 5,
+                  "type": "circle"
+                },
+                "q": "In a circle, 7x - 1 is the measure of inscribed angle of a minor arc of a circle. Find x where x ∈ R."
               },
               {
-                "q": "Prove that a rhombus inscribed in a circle is a square.",
-                "a": "AB = BC = CD = DA\nm∠A + m∠C = 180° ... (i)\nm∠B + m∠D = 180° ... (ii)\nm∠A = m∠C\nm∠B = m∠D\nm∠A + m∠A = 180°\n2 m∠A = 180°\nm∠A = 90°\nm∠C = 90°\nm∠B + m∠B = 180°\n2 m∠B = 180°\nm∠B = 90°\nm∠D = 90°"
+                "a": "AB = BC = CD = DA\nm∠A + m∠C = 180° ... (i)\nm∠B + m∠D = 180° ... (ii)\nm∠A = m∠C\nm∠B = m∠D\nm∠A + m∠A = 180°\n2 m∠A = 180°\nm∠A = 90°\nm∠C = 90°\nm∠B + m∠B = 180°\n2 m∠B = 180°\nm∠B = 90°\nm∠D = 90°",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 146.89,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          254,
+                          26
+                        ],
+                        [
+                          46,
+                          26
+                        ],
+                        [
+                          46,
+                          234
+                        ],
+                        [
+                          254,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 254,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 46,
+                      "y": 26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 46,
+                      "y": 234
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 254,
+                      "y": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
+                "q": "Prove that a rhombus inscribed in a circle is a square."
               },
               {
-                "q": "Prove that the exterior angle of a cyclic quadrilateral is equal to the interior opposite angle.",
-                "a": "m∠A + m∠BCD = 180° ... (i)\nm∠BCD + m∠DCE = 180° ... (ii)\nm∠A + m∠BCD = m∠BCD + m∠DCE\nm∠A = m∠DCE"
+                "a": "m∠A + m∠BCD = 180° ... (i)\nm∠BCD + m∠DCE = 180° ... (ii)\nm∠A + m∠BCD = m∠BCD + m∠DCE\nm∠A = m∠DCE",
+                "dq": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 95.33,
+                      "r": 115.56,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          57.56,
+                          26
+                        ],
+                        [
+                          242.44,
+                          26
+                        ],
+                        [
+                          242.44,
+                          164.67
+                        ],
+                        [
+                          57.56,
+                          164.67
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 242.44,
+                      "x2": 242.44,
+                      "y1": 164.67,
+                      "y2": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 57.56,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 242.44,
+                      "y": 26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 242.44,
+                      "y": 164.67
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 57.56,
+                      "y": 164.67
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 242.44,
+                      "y": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 95.33
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
+                "q": "Prove that the exterior angle of a cyclic quadrilateral is equal to the interior opposite angle."
               }
-            ]
+            ],
+            "label": "Exercise 28.2"
           },
           {
-            "label": "Review Exercise",
             "items": [
               {
-                "q": "1. Tick the correct option.\n(i) Inscribed angle of -------- is obtuse.\n(a) minor arc (b) major arc (c) semi-circle (d) all of these\n(ii) -------- is the circular region bounded by arc and its chord.\n(a) Sector (b) Segment (c) Major arc (d) Circumference\n(iii) If 2x is the measure of inscribed angle of minor arc then the central angle of corresponding major arc is --------.\n(a) x (b) 2x (c) 3x (d) 4x\n(iv) If 2x and 60° are the measures of inscribed angles of same segment then x = --------.\n(a) 120° (b) 60° (c) 20° (d) 30°\n(v) The inscribed angle of minor arc of circle is -------- angle.\n(a) acute (b) obtuse (c) right (d) reflex\n(vi) The inscribed angle of major arc of circle is -------- angle.\n(a) acute (b) obtuse (c) right (d) reflex\n(vii) Sum of opposite angles of cyclic quadrilateral is --------.\n(a) 90° (b) 180° (c) 270° (d) 360°\n(viii) A parallelogram inscribed in a circle is --------.\n(a) kite (b) trapezium (c) rectangle (d) rhombus\n(ix) The central angle of an arc is -------- than inscribed angle of corresponding arc.\n(a) less (b) greater (c) less or equal (d) greater or equal\n(x) The sum of central angles of all the arcs of a circle is --------.\n(a) 90° (b) 180° (c) 360° (d) 1000°",
-                "a": "(i) (a) minor arc\n(ii) (b) Segment\n(iii) (d) 4x\n(iv) (d) 30°\n(v) (b) obtuse\n(vi) (a) acute\n(vii) (b) 180°\n(viii) (c) rectangle\n(ix) (b) greater\n(x) (c) 360°"
+                "a": "(i) (a) minor arc\n(ii) (b) Segment\n(iii) (d) 4x\n(iv) (d) 30°\n(v) (b) obtuse\n(vi) (a) acute\n(vii) (b) 180°\n(viii) (c) rectangle\n(ix) (b) greater\n(x) (c) 360°",
+                "q": "1. Tick the correct option.\n(i) Inscribed angle of -------- is obtuse.\n(a) minor arc (b) major arc (c) semi-circle (d) all of these\n(ii) -------- is the circular region bounded by arc and its chord.\n(a) Sector (b) Segment (c) Major arc (d) Circumference\n(iii) If 2x is the measure of inscribed angle of minor arc then the central angle of corresponding major arc is --------.\n(a) x (b) 2x (c) 3x (d) 4x\n(iv) If 2x and 60° are the measures of inscribed angles of same segment then x = --------.\n(a) 120° (b) 60° (c) 20° (d) 30°\n(v) The inscribed angle of minor arc of circle is -------- angle.\n(a) acute (b) obtuse (c) right (d) reflex\n(vi) The inscribed angle of major arc of circle is -------- angle.\n(a) acute (b) obtuse (c) right (d) reflex\n(vii) Sum of opposite angles of cyclic quadrilateral is --------.\n(a) 90° (b) 180° (c) 270° (d) 360°\n(viii) A parallelogram inscribed in a circle is --------.\n(a) kite (b) trapezium (c) rectangle (d) rhombus\n(ix) The central angle of an arc is -------- than inscribed angle of corresponding arc.\n(a) less (b) greater (c) less or equal (d) greater or equal\n(x) The sum of central angles of all the arcs of a circle is --------.\n(a) 90° (b) 180° (c) 360° (d) 1000°"
               }
-            ]
+            ],
+            "label": "Review Exercise"
           }
         ],
+        "title": "Angle in a Segment of a Circle",
+        "unit": 28,
         "display": "Angle in a Segment of a Circle"
       },
       {
@@ -8872,22 +15570,410 @@ var STUDY = {
             "items": [
               {
                 "a": "AB, CD: two non-parallel chords\nPQ: right bisector of AB\nXY: right bisector of CD\nO = PQ ∩ XY\nO = centre",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 104,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 66.8,
+                      "x2": 233.2,
+                      "y1": 67.6,
+                      "y2": 67.6
+                    },
+                    {
+                      "t": "line",
+                      "x1": 66.8,
+                      "x2": 212.4,
+                      "y1": 192.4,
+                      "y2": 46.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 150,
+                      "y1": 26,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.37,
+                      "x2": 223.63,
+                      "y1": 56.37,
+                      "y2": 203.63
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 66.8,
+                      "y": 67.6
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 233.2,
+                      "y": 67.6
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 66.8,
+                      "y": 192.4
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 212.4,
+                      "y": 46.8
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "X",
+                      "t": "point",
+                      "x": 76.37,
+                      "y": 56.37
+                    },
+                    {
+                      "label": "Y",
+                      "t": "point",
+                      "x": 223.63,
+                      "y": 203.63
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "1. Draw a circle with the help of a circular object. Locate its centre."
               },
               {
                 "a": "XY, YZ\nPQ: right bisector of XY\nRS: right bisector of YZ\nO = PQ ∩ RS\ncircle: centre O, radius OX",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          26,
+                          223
+                        ],
+                        [
+                          274,
+                          223
+                        ],
+                        [
+                          150,
+                          37
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 150,
+                      "cy": 171.33,
+                      "r": 134.33,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 150,
+                      "y1": 305.67,
+                      "y2": 37
+                    },
+                    {
+                      "t": "line",
+                      "x1": 261.77,
+                      "x2": 38.23,
+                      "y1": 96.82,
+                      "y2": 245.85
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38.23,
+                      "x2": 261.77,
+                      "y1": 96.82,
+                      "y2": 245.85
+                    },
+                    {
+                      "label": "X",
+                      "t": "point",
+                      "x": 26,
+                      "y": 223
+                    },
+                    {
+                      "label": "Y",
+                      "t": "point",
+                      "x": 274,
+                      "y": 223
+                    },
+                    {
+                      "label": "Z",
+                      "t": "point",
+                      "x": 150,
+                      "y": 37
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 171.33
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "2. Take three non-collinear points X, Y, Z and draw a circle which passes through these points."
               },
               {
                 "a": "C: point on arc AB\nAC, BC\nPQ: right bisector of AC\nXY: right bisector of BC\nO = PQ ∩ XY\ncircle: centre O, radius OA",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 156,
+                      "r": 130,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "x2": 150,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 254,
+                      "x2": 150,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 266.28,
+                      "x2": 33.72,
+                      "y1": 214.14,
+                      "y2": 97.86
+                    },
+                    {
+                      "t": "line",
+                      "x1": 266.28,
+                      "x2": 33.72,
+                      "y1": 97.86,
+                      "y2": 214.14
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 46,
+                      "y": 234
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 254,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 156
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "3. Draw a minor arc AB by a circular object. Complete the circle by finding the centre."
               },
               {
                 "a": "B: point on arc ABC\nAB, BC\nPQ: right bisector of AB\nXY: right bisector of BC\nO = PQ ∩ XY\ncircle: centre O, radius OA",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 104,
+                      "r": 130,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "x2": 150,
+                      "y1": 26,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 254,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "t": "line",
+                      "x1": 33.72,
+                      "x2": 266.28,
+                      "y1": 162.14,
+                      "y2": 45.86
+                    },
+                    {
+                      "t": "line",
+                      "x1": 266.28,
+                      "x2": 33.72,
+                      "y1": 162.14,
+                      "y2": 45.86
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 46,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 254,
+                      "y": 26
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 104
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "4. Draw a major arc ABC by a circular object. Complete the circle by finding the centre."
               },
               {
                 "a": "PQ = QR\nRS = PQ\nST = PQ\nTU = PQ\nUV = PQ\nVP = PQ\nPQRSTUV: regular heptagon\narcs RS, ST, TU, UV, VP",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 144.72,
+                      "cy": 130,
+                      "r": 106.68,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          251.4,
+                          130
+                        ],
+                        [
+                          211.23,
+                          46.6
+                        ],
+                        [
+                          120.98,
+                          26
+                        ],
+                        [
+                          48.6,
+                          83.72
+                        ],
+                        [
+                          48.6,
+                          176.28
+                        ],
+                        [
+                          120.98,
+                          234
+                        ],
+                        [
+                          211.23,
+                          213.4
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 251.4,
+                      "y": 130
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 211.23,
+                      "y": 46.6
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 120.98,
+                      "y": 26
+                    },
+                    {
+                      "label": "S",
+                      "t": "point",
+                      "x": 48.6,
+                      "y": 83.72
+                    },
+                    {
+                      "label": "T",
+                      "t": "point",
+                      "x": 48.6,
+                      "y": 176.28
+                    },
+                    {
+                      "label": "U",
+                      "t": "point",
+                      "x": 120.98,
+                      "y": 234
+                    },
+                    {
+                      "label": "V",
+                      "t": "point",
+                      "x": 211.23,
+                      "y": 213.4
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "5. Draw a minor arc AB by a circular object. Complete the circle without finding the centre."
               }
             ],
@@ -8897,26 +15983,560 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) AB = 5.5 cm\n∠A = 50°\nAC = 6 cm\n(ii) AB = 6 cm\nAC = 5 cm\nBC = 4.5 cm\nPQ: right bisector of AB\nXY: right bisector of AC\nO = PQ ∩ XY\ncircle: centre O, radius OA",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          26,
+                          233.71
+                        ],
+                        [
+                          274,
+                          233.71
+                        ],
+                        [
+                          200.05,
+                          26.29
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 150,
+                      "cy": 161.03,
+                      "r": 143.73,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 233.71
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 274,
+                      "y": 233.71
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 200.05,
+                      "y": 26.29
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 161.03
+                    },
+                    {
+                      "pts": [
+                        [
+                          26,
+                          465.85
+                        ],
+                        [
+                          274,
+                          465.85
+                        ],
+                        [
+                          166.53,
+                          314.15
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 150,
+                      "cy": 439.78,
+                      "r": 126.71,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 465.85
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 274,
+                      "y": 465.85
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 166.53,
+                      "y": 314.15
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 439.78
+                    }
+                  ],
+                  "h": 520,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "1. Construct the △ABC and draw its circumcircle in each case.\n(i) mAB = 5.5 cm, mAC = 6 cm and m∠A = 50°\n(ii) mAB = 6 cm, mBC = 4.5 cm and mAC = 5 cm"
               },
               {
                 "a": "(i) PQ = 5 cm\nRP = 5.5 cm\nQR = 6.5 cm\n(ii) PQ = 6 cm\n∠P = 60°\n∠Q = 50°\n∠R = 180° − 60° − 50° = 70°\nPX: bisector of ∠P\nQY: bisector of ∠Q\nO = PX ∩ QY\nOL ⊥ PQ\ncircle: centre O, radius OL",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          52.62,
+                          234
+                        ],
+                        [
+                          247.38,
+                          234
+                        ],
+                        [
+                          103.26,
+                          26
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 130.51,
+                      "cy": 172.8,
+                      "r": 61.2,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 52.62,
+                      "y": 234
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 247.38,
+                      "y": 234
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 103.26,
+                      "y": 26
+                    },
+                    {
+                      "label": "I",
+                      "t": "point",
+                      "x": 130.51,
+                      "y": 172.8
+                    },
+                    {
+                      "pts": [
+                        [
+                          26,
+                          477.63
+                        ],
+                        [
+                          274,
+                          477.63
+                        ],
+                        [
+                          127.27,
+                          302.37
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 136.92,
+                      "cy": 413.61,
+                      "r": 64.01,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 26,
+                      "y": 477.63
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 274,
+                      "y": 477.63
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 127.27,
+                      "y": 302.37
+                    },
+                    {
+                      "label": "I",
+                      "t": "point",
+                      "x": 136.92,
+                      "y": 413.61
+                    }
+                  ],
+                  "h": 520,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "2. Construct the △PQR and draw its incircle in each case.\n(i) mPQ = 5 cm, mQR = 6.5 cm and mRP = 5.5 cm\n(ii) mPQ = 6 cm, m∠P = 60° and m∠Q = 50°"
               },
               {
                 "a": "(i) XY = 4.5 cm\n∠Y = 30°\nYZ = 5 cm\n(ii) XY = 5.5 cm\nXZ = 2.5 cm\nYZ = 6 cm\nYI: bisector of ∠Y\nZI: bisector of exterior angle at Z\nI = YI ∩ ZI\nIK ⊥ XZ (produced)\ncircle: centre I, radius IK",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          88.09,
+                          181.64
+                        ],
+                        [
+                          274,
+                          181.64
+                        ],
+                        [
+                          95.11,
+                          78.36
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 26,
+                      "cy": 115.19,
+                      "r": 66.45,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 88.09,
+                      "x2": -15.2,
+                      "y1": 181.64,
+                      "y2": 181.64
+                    },
+                    {
+                      "t": "line",
+                      "x1": 95.11,
+                      "x2": 5.66,
+                      "y1": 78.36,
+                      "y2": 26.71
+                    },
+                    {
+                      "label": "X",
+                      "t": "point",
+                      "x": 88.09,
+                      "y": 181.64
+                    },
+                    {
+                      "label": "Y",
+                      "t": "point",
+                      "x": 274,
+                      "y": 181.64
+                    },
+                    {
+                      "label": "Z",
+                      "t": "point",
+                      "x": 95.11,
+                      "y": 78.36
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 26,
+                      "y": 115.19
+                    },
+                    {
+                      "pts": [
+                        [
+                          79.16,
+                          434.28
+                        ],
+                        [
+                          274,
+                          434.28
+                        ],
+                        [
+                          80.75,
+                          345.72
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "cx": 26,
+                      "cy": 380.16,
+                      "r": 54.12,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 79.16,
+                      "x2": -9.41,
+                      "y1": 434.28,
+                      "y2": 434.28
+                    },
+                    {
+                      "t": "line",
+                      "x1": 80.75,
+                      "x2": 0.24,
+                      "y1": 345.72,
+                      "y2": 308.82
+                    },
+                    {
+                      "label": "X",
+                      "t": "point",
+                      "x": 79.16,
+                      "y": 434.28
+                    },
+                    {
+                      "label": "Y",
+                      "t": "point",
+                      "x": 274,
+                      "y": 434.28
+                    },
+                    {
+                      "label": "Z",
+                      "t": "point",
+                      "x": 80.75,
+                      "y": 345.72
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 26,
+                      "y": 380.16
+                    }
+                  ],
+                  "h": 520,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "3. Construct the △XYZ and draw its escribed circle opposite to ∠Y in each case.\n(i) mXY = 4.5 cm, mYZ = 5 cm and m∠Y = 30°\n(ii) mXY = 5.5 cm, mYZ = 6 cm and mXZ = 2.5 cm"
               },
               {
                 "a": "circle: centre O, radius 3.5 cm\n∠AOB = ∠BOC = ∠COA = 120°\ntangent at A ⊥ OA\ntangent at B ⊥ OB\ntangent at C ⊥ OC\nP, Q, R = intersections of tangents\n∠P = ∠Q = ∠R = 180° − 120° = 60°\n△PQR: equilateral",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 164.67,
+                      "r": 69.33,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          150,
+                          26
+                        ],
+                        [
+                          29.91,
+                          234
+                        ],
+                        [
+                          270.09,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 29.91,
+                      "y": 234
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 270.09,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 95.33
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 89.96,
+                      "y": 199.33
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 210.04,
+                      "y": 199.33
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 164.67
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "4. Draw a circle of radius 3.5 cm with centre at point O and circumscribe an equilateral triangle about this circle."
               },
               {
                 "a": "PQ = 4.5 cm\nPR = 8 cm\nQR = 5.5 cm\nQE: bisector of ∠Q\nE = QE ∩ PR\n∠QEF = 30°\n∠QEG = 30°\nF: on QR\nG: on PQ\nFG\n△EFG: equilateral",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          26,
+                          176.14
+                        ],
+                        [
+                          274,
+                          176.14
+                        ],
+                        [
+                          130.62,
+                          83.86
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "pts": [
+                        [
+                          137.6,
+                          176.14
+                        ],
+                        [
+                          169.86,
+                          109.11
+                        ],
+                        [
+                          95.68,
+                          114.68
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 26,
+                      "y": 176.14
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 274,
+                      "y": 176.14
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 130.62,
+                      "y": 83.86
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 137.6,
+                      "y": 176.14
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 169.86,
+                      "y": 109.11
+                    },
+                    {
+                      "label": "G",
+                      "t": "point",
+                      "x": 95.68,
+                      "y": 114.68
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "5. Draw an equilateral triangle inscribed in △PQR where mPQ = 4.5 cm, mQR = 5.5 cm and mPR = 8 cm."
               },
               {
                 "a": "circle: centre O, radius 3.8 cm\nA: point on circle\nB, C, D, E, F: radius 3.8 cm apart\nAC, CE, EA\nAC = CE = EA\n∠A = ∠C = ∠E = 60°\n△ACE: equilateral",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 164.67,
+                      "r": 138.67,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          150,
+                          26
+                        ],
+                        [
+                          29.91,
+                          234
+                        ],
+                        [
+                          270.09,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 29.91,
+                      "y": 234
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 270.09,
+                      "y": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 164.67
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "6. Draw an inscribed equilateral triangle of a circle with radius 3.8 cm with centre O."
               }
             ],
@@ -8926,22 +16546,430 @@ var STUDY = {
             "items": [
               {
                 "a": "circle: centre C, radius 4.2 cm\nAB: diameter\nEF ⊥ AB: diameter\ntangents at A, B, E, F\nP, Q, R, S = intersections\nPQ = QR = RS = SP = 2 × 4.2 = 8.4 cm\n∠P = ∠Q = ∠R = ∠S = 90°\nPQRS: square",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 104,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          46,
+                          26
+                        ],
+                        [
+                          254,
+                          26
+                        ],
+                        [
+                          254,
+                          234
+                        ],
+                        [
+                          46,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 46,
+                      "y": 26
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 254,
+                      "y": 26
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 254,
+                      "y": 234
+                    },
+                    {
+                      "label": "S",
+                      "t": "point",
+                      "x": 46,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 254,
+                      "y": 130
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 46,
+                      "y": 130
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "1. Circumscribe a square about a circle of radius 4.2 cm and with centre at point C."
               },
               {
                 "a": "circle: centre O, radius 3.6 cm\nPR: diameter\nQS ⊥ PR: diameter\nPQ, QR, RS, SP\nPQ = QR = RS = SP\n∠P = ∠Q = ∠R = ∠S = 90°\ndiagonal = 2 × 3.6 = 7.2 cm\nPQRS: square",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 146.82,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          254,
+                          26
+                        ],
+                        [
+                          46,
+                          26
+                        ],
+                        [
+                          46,
+                          234
+                        ],
+                        [
+                          254,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 254,
+                      "x2": 46,
+                      "y1": 26,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "x2": 254,
+                      "y1": 26,
+                      "y2": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 254,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 46,
+                      "y": 26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 46,
+                      "y": 234
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 254,
+                      "y": 234
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "2. Inscribe a square in a circle of radius 3.6 cm with centre at point O."
               },
               {
                 "a": "circle: centre O, radius 4.8 cm\nA: point on circle\nA, B, C, D, E, F: radius 4.8 cm apart\ntangents at A, B, C, D, E, F\nP, Q, R, S, T, U = intersections\n∠P = ∠Q = ∠R = ∠S = ∠T = ∠U = 120°\nPQRSTU: regular hexagon",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 103.99,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          270.09,
+                          130
+                        ],
+                        [
+                          210.04,
+                          26
+                        ],
+                        [
+                          89.96,
+                          26
+                        ],
+                        [
+                          29.91,
+                          130
+                        ],
+                        [
+                          89.96,
+                          234
+                        ],
+                        [
+                          210.04,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 253.99,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 202,
+                      "y": 39.94
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 98,
+                      "y": 39.94
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 46.01,
+                      "y": 130
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 98,
+                      "y": 220.06
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 202,
+                      "y": 220.06
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "3. Circumscribe a regular hexagon about a circle of radius 4.8 cm with centre at point O."
               },
               {
                 "a": "circle: centre C, radius 4.4 cm\nP: point on circle\nP, Q, R, S, T, U: radius 4.4 cm apart\nPQ, QR, RS, ST, TU, UP\nPQ = QR = RS = ST = TU = UP = 4.4 cm\n∠P = ∠Q = ∠R = ∠S = ∠T = ∠U = 120°\nPQRSTU: regular hexagon",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 130,
+                      "r": 120.09,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          270.09,
+                          130
+                        ],
+                        [
+                          210.04,
+                          26
+                        ],
+                        [
+                          89.96,
+                          26
+                        ],
+                        [
+                          29.91,
+                          130
+                        ],
+                        [
+                          89.96,
+                          234
+                        ],
+                        [
+                          210.04,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 270.09,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 210.04,
+                      "y": 26
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 89.96,
+                      "y": 26
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 29.91,
+                      "y": 130
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 89.96,
+                      "y": 234
+                    },
+                    {
+                      "label": "F",
+                      "t": "point",
+                      "x": 210.04,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "4. Inscribe a regular hexagon in a circle of radius 4.4 cm with centre at point C."
               },
               {
                 "a": "circle: centre O, radius 4.3 cm\nOA\n360° ÷ 5 = 72°\n∠AOB = ∠BOC = ∠COD = ∠DOE = ∠EOA = 72°\nAB, BC, CD, DE, EA\nAB = BC = CD = DE = EA\n(5 − 2) × 180° ÷ 5 = 108°\nABCDE: regular pentagon",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 150,
+                      "cy": 140.98,
+                      "r": 114.98,
+                      "t": "circle"
+                    },
+                    {
+                      "pts": [
+                        [
+                          150,
+                          26
+                        ],
+                        [
+                          40.65,
+                          105.45
+                        ],
+                        [
+                          82.42,
+                          234
+                        ],
+                        [
+                          217.58,
+                          234
+                        ],
+                        [
+                          259.35,
+                          105.45
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 40.65,
+                      "y": 105.45
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 82.42,
+                      "y": 234
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 217.58,
+                      "y": 234
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 259.35,
+                      "y": 105.45
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 140.98
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "5. Inscribe a regular pentagon in a circle of radius 4.3 cm and centre O\n(Hint: Draw five congruent angles at centre)"
               }
             ],
@@ -8951,26 +16979,388 @@ var STUDY = {
             "items": [
               {
                 "a": "PQ: chord\nXY: right bisector of PQ\nA = XY ∩ arc PQ\nCD ⊥ XY at A\nCD: tangent",
+                "da": {
+                  "els": [
+                    {
+                      "a1": -143.13,
+                      "a2": -36.87,
+                      "cx": 150,
+                      "cy": 212.67,
+                      "r": 103.33,
+                      "t": "arc"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 67.33,
+                      "x2": 232.67,
+                      "y1": 150.67,
+                      "y2": 150.67
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 109.33,
+                      "y2": 109.33
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 67.33,
+                      "y": 150.67
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 232.67,
+                      "y": 150.67
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 150,
+                      "y": 109.33
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 26,
+                      "y": 109.33
+                    },
+                    {
+                      "label": "D",
+                      "t": "point",
+                      "x": 274,
+                      "y": 109.33
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "1. Take a minor arc PQ. Draw a tangent to arc PQ through its midpoint A without using centre."
               },
               {
                 "a": "QP: chord\nPS ⊥ QP at P\nS: on arc\nQS: diameter\nCD ⊥ QS at Q\nCD: tangent",
+                "da": {
+                  "els": [
+                    {
+                      "a1": -396.87,
+                      "a2": -143.13,
+                      "cx": 150,
+                      "cy": 104,
+                      "r": 130,
+                      "t": "arc"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 207.2,
+                      "x2": 300.8,
+                      "y1": -36.4,
+                      "y2": 88.4
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 46,
+                      "y": 26
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 254,
+                      "y": 26
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 150,
+                      "y": 234
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "2. Take a major arc PQR. Draw a tangent to arc PQR through its endpoint Q without using centre."
               },
               {
                 "a": "ZX\nC = ZX ∩ arc XY\nST: right bisector of ZX\nO = ST ∩ ZX\nsemicircle: centre O, radius OZ\nCF ⊥ ZX at C\nD = CF ∩ semicircle\nQ: arc with centre Z, radius ZD, on arc XY\nZQ\nZQ: tangent",
+                "da": {
+                  "els": [
+                    {
+                      "a1": -143.13,
+                      "a2": -36.87,
+                      "cx": 191.33,
+                      "cy": 170.33,
+                      "r": 103.33,
+                      "t": "arc"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 126.75,
+                      "y1": 170.33,
+                      "y2": 89.67
+                    },
+                    {
+                      "label": "X",
+                      "t": "point",
+                      "x": 108.67,
+                      "y": 108.33
+                    },
+                    {
+                      "label": "Y",
+                      "t": "point",
+                      "x": 274,
+                      "y": 108.33
+                    },
+                    {
+                      "label": "Z",
+                      "t": "point",
+                      "x": 26,
+                      "y": 170.33
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 126.75,
+                      "y": 89.67
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 191.33,
+                      "y": 170.33
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "3. Take a minor arc XY. Draw a tangent to arc XY through point Z which is outside arc without using centre."
               },
               {
                 "a": "circle: centre C, radius 2.9 cm\nP: on circle\nCP\nAB ⊥ CP at P\nAB: tangent",
+                "da": {
+                  "centre": "C",
+                  "chords": [],
+                  "points": [
+                    [
+                      "P",
+                      0,
+                      2.9
+                    ]
+                  ],
+                  "r": 2.9,
+                  "tangent": {
+                    "at": "P",
+                    "label": "AB"
+                  },
+                  "type": "circle"
+                },
                 "q": "4. Draw a circle of radius 2.9 cm with centre C. Draw a tangent to the circle from a point P of the circle."
               },
               {
                 "a": "circle: centre P, radius 3.2 cm\nPQ = 8 cm\nXY: right bisector of PQ\nA = XY ∩ PQ\nPA = AQ = 4 cm\nsemicircle: centre A, radius AP\nR = semicircle ∩ circle\nQR\nQR: tangent",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 175.46,
+                      "r": 99.2,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 65.68,
+                      "y1": 175.46,
+                      "y2": 84.54
+                    },
+                    {
+                      "t": "line",
+                      "x1": 274,
+                      "x2": 65.68,
+                      "y1": 175.46,
+                      "y2": 84.54
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 26,
+                      "y": 175.46
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 274,
+                      "y": 175.46
+                    },
+                    {
+                      "label": "R",
+                      "t": "point",
+                      "x": 65.68,
+                      "y": 84.54
+                    },
+                    {
+                      "t": "line",
+                      "x1": 60.48,
+                      "x2": 72.39,
+                      "y1": 96.46,
+                      "y2": 101.66
+                    },
+                    {
+                      "t": "line",
+                      "x1": 72.39,
+                      "x2": 77.59,
+                      "y1": 101.66,
+                      "y2": 89.74
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "5. Draw a circle of radius 3.2 cm with centre P. Draw tangent to the circle from a point Q which is at a distance of 8 cm from P."
               },
               {
                 "a": "(i) central angle = 180° − 50° = 130°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 130°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 130° = 50°\nAP, BP: tangents\n(ii) central angle = 180° − 63° = 117°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 117°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 117° = 63°\nAP, BP: tangents",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 132.68,
+                      "cy": 234,
+                      "r": 96.99,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229.67,
+                      "x2": 229.67,
+                      "y1": 26,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229.67,
+                      "x2": 70.33,
+                      "y1": 26,
+                      "y2": 159.7
+                    },
+                    {
+                      "t": "line",
+                      "x1": 132.68,
+                      "x2": 229.67,
+                      "y1": 234,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 132.68,
+                      "x2": 70.33,
+                      "y1": 234,
+                      "y2": 159.7
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 132.68,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 229.67,
+                      "y": 234
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 70.33,
+                      "y": 159.7
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 229.67,
+                      "y": 26
+                    },
+                    {
+                      "s": "50°",
+                      "t": "text",
+                      "x": 209.09,
+                      "y": 58.33
+                    },
+                    {
+                      "cx": 115.2,
+                      "cy": 494,
+                      "r": 127.46,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 242.66,
+                      "x2": 242.66,
+                      "y1": 286,
+                      "y2": 494
+                    },
+                    {
+                      "t": "line",
+                      "x1": 242.66,
+                      "x2": 57.34,
+                      "y1": 286,
+                      "y2": 380.43
+                    },
+                    {
+                      "t": "line",
+                      "x1": 115.2,
+                      "x2": 242.66,
+                      "y1": 494,
+                      "y2": 494
+                    },
+                    {
+                      "t": "line",
+                      "x1": 115.2,
+                      "x2": 57.34,
+                      "y1": 494,
+                      "y2": 380.43
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 115.2,
+                      "y": 494
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 242.66,
+                      "y": 494
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 57.34,
+                      "y": 380.43
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 242.66,
+                      "y": 286
+                    },
+                    {
+                      "s": "63°",
+                      "t": "text",
+                      "x": 215.63,
+                      "y": 328.49
+                    }
+                  ],
+                  "h": 520,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "6. Draw two tangents to a circle of radius 3.3 cm with centre C meeting each other at an angle of measure (i) 50° (ii) 63°"
               }
             ],
@@ -8980,22 +17370,331 @@ var STUDY = {
             "items": [
               {
                 "a": "(a) AB = 7.8 cm\ncircles: centres A, B, radius 3.3 cm\nCD ⊥ AB at A\nEF ⊥ AB at B\nP, S = CD ∩ circle A\nQ, T = EF ∩ circle B\nPQ, ST\nPQ ∥ AB\nST ∥ AB\nPQ, ST: direct common tangents\n(b) AB = 7.8 cm\ncircles: centres A, B, radius 3.3 cm\nO = midpoint of AB\nM = midpoint of OB\ncircle: centre M, radius MO\nT, Y = circle ∩ circle B\nBT, BY\nAZ ∥ BY\nAS ∥ BT\nST, YZ\nST, YZ: transverse common tangents",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 130,
+                      "r": 104.92,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 274,
+                      "cy": 130,
+                      "r": 104.92,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 25.08,
+                      "y2": 25.08
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 234.92,
+                      "y2": 234.92
+                    },
+                    {
+                      "t": "line",
+                      "x1": 114.78,
+                      "x2": 185.22,
+                      "y1": 74.08,
+                      "y2": 185.92
+                    },
+                    {
+                      "t": "line",
+                      "x1": 114.78,
+                      "x2": 185.22,
+                      "y1": 185.92,
+                      "y2": 74.08
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 274,
+                      "y": 130
+                    },
+                    {
+                      "label": "M",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "1. Draw two equal circles each of radius 3.3 cm with centres at points A and B such that mAB = 7.8 cm.\n(a) Draw direct common tangents to these circles.\n(b) Draw transverse common tangents to these circles."
               },
               {
                 "a": "(a) AB = 8 cm\ncircles: centres A, B, radii 3.3 cm, 2.1 cm\nO = midpoint of AB\ncircle: centre O, radius AO\ncircle: centre A, radius 3.3 − 2.1 = 1.2 cm\nC, D = circle ∩ circle O\nAC, AD\nQ, T = on larger circle\nBP ∥ AQ\nBS ∥ AT\nPQ, ST\nPQ, ST: direct common tangents\n(b) AB = 8 cm\ncircles: centres A, B, radii 3.3 cm, 2.1 cm\nO = midpoint of AB\ncircle: centre O, radius AO\ncircle: centre A, radius 3.3 + 2.1 = 5.4 cm\nP, Q = circle ∩ circle O\nAP, AQ\nS, L = on larger circle\nBM ∥ AQ\nBT ∥ AP\nST, LM\nST, LM: transverse common tangents",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 130,
+                      "r": 102.3,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 274,
+                      "cy": 130,
+                      "r": 65.1,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 41.34,
+                      "x2": 283.76,
+                      "y1": 28.86,
+                      "y2": 65.64
+                    },
+                    {
+                      "t": "line",
+                      "x1": 41.34,
+                      "x2": 283.76,
+                      "y1": 231.14,
+                      "y2": 194.36
+                    },
+                    {
+                      "t": "line",
+                      "x1": 95.05,
+                      "x2": 230.06,
+                      "y1": 54.52,
+                      "y2": 178.03
+                    },
+                    {
+                      "t": "line",
+                      "x1": 95.05,
+                      "x2": 230.06,
+                      "y1": 205.48,
+                      "y2": 81.97
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 274,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "2. Draw two unequal circles of radii 3.3 cm and 2.1 cm with centres, A and B respectively such that mAB = 8 cm.\n(a) Draw direct common tangents to these circles.\n(b) Draw transverse common tangents to these circles."
               },
               {
                 "a": "(i) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: on AP, PB = 2.2 cm\nAB = 3.8 − 2.2 = 1.6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(ii) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: PB = 2.2 cm\nAB = 3.8 + 2.2 = 6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(iii) AB = 5.6 cm\ncircles: centres A, B, radii 3.8 cm, 2.2 cm\ncircle: centre A, radius 3.8 − 2.2 = 1.6 cm\nO = midpoint of AB\ncircle: centre O, radius AO\nC, D = circle ∩ circle A\nAC\nP = AC ∩ larger circle\nBQ ∥ AP\nPQ\nPQ: tangent",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 202.5,
+                      "r": 151.3,
+                      "t": "circle"
+                    },
+                    {
+                      "cx": 248.97,
+                      "cy": 202.5,
+                      "r": 87.6,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 69.23,
+                      "x2": 274,
+                      "y1": 57.5,
+                      "y2": 118.55
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 248.97,
+                      "y1": 202.5,
+                      "y2": 202.5
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 202.5
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 248.97,
+                      "y": 202.5
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 69.23,
+                      "y": 57.5
+                    },
+                    {
+                      "label": "Q",
+                      "t": "point",
+                      "x": 274,
+                      "y": 118.55
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "3. Draw a tangent to two unequal circles of radii 3.8 cm and 2.2 cm with centres A and B respectively whereas\n(i) circle touch internally\n(ii) circles touch externally\n(iii) circles intersect each other and mAB = 5.6 cm."
               },
               {
                 "a": "(i) ∠ABC = 35°\nBD: bisector of ∠ABC\nP: on BD\nPE ⊥ BA\ncircle: centre P, radius PE\n(ii) ∠ABC = 40°\nBD: bisector of ∠ABC\nP: on BD\nPE ⊥ BA\ncircle: centre P, radius PE",
+                "da": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 51.81
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 208.19
+                    },
+                    {
+                      "cx": 170.46,
+                      "cy": 130,
+                      "r": 43.44,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 170.46,
+                      "y": 130
+                    },
+                    {
+                      "s": "35°",
+                      "t": "text",
+                      "x": 83.79,
+                      "y": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 390,
+                      "y2": 299.74
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 390,
+                      "y2": 480.26
+                    },
+                    {
+                      "cx": 172.62,
+                      "cy": 390,
+                      "r": 50.15,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 390
+                    },
+                    {
+                      "label": "P",
+                      "t": "point",
+                      "x": 172.62,
+                      "y": 390
+                    },
+                    {
+                      "s": "40°",
+                      "t": "text",
+                      "x": 84.65,
+                      "y": 390
+                    }
+                  ],
+                  "h": 520,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "4. Draw a circle which touches both the arms of an angle of measure\n(i) 35° (ii) 40°"
               },
               {
                 "a": "PQ, ST: converging lines\nE = PQ ∩ ST\nM: between PQ and ST\nEF: bisector of ∠E\nG: on EF\nGL ⊥ PQ\ncircle: centre G, radius GL\nEM\nN = EM ∩ circle\nNG\nline through M ∥ NG\nO = line ∩ EF\ncircle: centre O, radius OM",
+                "da": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 39.73
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 130,
+                      "y2": 220.27
+                    },
+                    {
+                      "cx": 214.48,
+                      "cy": 130,
+                      "r": 64.48,
+                      "t": "circle"
+                    },
+                    {
+                      "label": "E",
+                      "t": "point",
+                      "x": 26,
+                      "y": 130
+                    },
+                    {
+                      "label": "M",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 214.48,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "5. Draw a circle which passes through a point M which lies between two converging lines PQ and ST such that the circle also touches both the lines."
               }
             ],
@@ -9134,6 +17833,65 @@ var STUDY = {
               },
               {
                 "a": "r = 5 cm\nθ = [[π/6]] radians\n(i) l = rθ = 5 × ([[π/6]]) = [[5π/6]] ≈ 2.62 cm\n(ii) area = ([[1/2]]) r²θ = ([[1/2]]) × (5)² × ([[π/6]]) = [[25π/12]] ≈ 6.55 cm²\narea = ([[1/2]]) r l = ([[1/2]]) × 5 × 2.62 = 6.55 cm²",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 192,
+                      "r": 248,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 192,
+                      "y2": 192
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 240.77,
+                      "y1": 192,
+                      "y2": 68
+                    },
+                    {
+                      "a1": -30,
+                      "a2": 0,
+                      "cx": 26,
+                      "cy": 192,
+                      "r": 248,
+                      "t": "arc"
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 26,
+                      "y": 192
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 274,
+                      "y": 192
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 240.77,
+                      "y": 68
+                    },
+                    {
+                      "s": "30°",
+                      "t": "text",
+                      "x": 97.86,
+                      "y": 172.74
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "5. The arc of a circle subtends an angle of [[π/6]] radians at the centre. The radius of a circle is 5cm, find;\n(i) length of an arc (ii) area of a circular sector"
               },
               {
@@ -9142,6 +17900,65 @@ var STUDY = {
               },
               {
                 "a": "r = 4 cm\nθ = [[π/4]] radians\narea = ([[1/2]]) r²θ = ([[1/2]]) × (4)² × ([[π/4]]) = ([[1/2]]) × 16 × ([[π/4]]) = 2π cm² ≈ 6.28 cm²",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 26,
+                      "cy": 217.68,
+                      "r": 248,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 217.68,
+                      "y2": 217.68
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 201.36,
+                      "y1": 217.68,
+                      "y2": 42.32
+                    },
+                    {
+                      "a1": -45,
+                      "a2": 0,
+                      "cx": 26,
+                      "cy": 217.68,
+                      "r": 248,
+                      "t": "arc"
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 26,
+                      "y": 217.68
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 274,
+                      "y": 217.68
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 201.36,
+                      "y": 42.32
+                    },
+                    {
+                      "s": "45°",
+                      "t": "text",
+                      "x": 111.92,
+                      "y": 182.09
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "7. Find the area of the sector with central angle of [[π/4]] radian in circle of radius 4cm."
               },
               {
@@ -9154,6 +17971,65 @@ var STUDY = {
               },
               {
                 "a": "r = 12 cm\nθ = 84°\nθ = 84 × ([[π/180]]) = [[7π/15]] radians ≈ 1.466 radians\nl = rθ = 12 × 1.466 ≈ 17.6 cm\narea = ([[1/2]]) r l = ([[1/2]]) × 12 × 17.6 = 105.6 cm²\narea = ([[1/2]]) r²θ = ([[1/2]]) × 144 × 1.466 ≈ 105.6 cm²",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 45.43,
+                      "cy": 234,
+                      "r": 209.15,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 45.43,
+                      "x2": 254.57,
+                      "y1": 234,
+                      "y2": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 45.43,
+                      "x2": 67.29,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "a1": -84,
+                      "a2": 0,
+                      "cx": 45.43,
+                      "cy": 234,
+                      "r": 209.15,
+                      "t": "arc"
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 45.43,
+                      "y": 234
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 254.57,
+                      "y": 234
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 67.29,
+                      "y": 26
+                    },
+                    {
+                      "s": "84°",
+                      "t": "text",
+                      "x": 64.86,
+                      "y": 216.51
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "10. In a circle of radius 12cm, an arc subtends a central angle of 84°. Find its arc length and also calculate area of the sector."
               }
             ],
@@ -9167,14 +18043,203 @@ var STUDY = {
               },
               {
                 "a": "(i) [[8π/5]] = [[(8 × 180°)/5]] = 288°\n270° < 288° < 360°\nQ4\n(ii) 75°\n0° < 75° < 90°\nQ1\n(iii) −818° + 720° = −98°\n−98° + 360° = 262°\n180° < 262° < 270°\nQ3\n(iv) 1090° − 1080° = 10°\n0° < 10° < 90°\nQ1\n(v) [[7π/6]] = [[(7 × 180°)/6]] = 210°\n180° < 210° < 270°\nQ3\n(vi) [[−5π/4]] = −225°\n−225° + 360° = 135°\n90° < 135° < 180°\nQ2",
+                "dq": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "x2": 254,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 150,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "s": "I",
+                      "t": "text",
+                      "x": 202,
+                      "y": 78
+                    },
+                    {
+                      "s": "II",
+                      "t": "text",
+                      "x": 98,
+                      "y": 78
+                    },
+                    {
+                      "s": "III",
+                      "t": "text",
+                      "x": 98,
+                      "y": 182
+                    },
+                    {
+                      "s": "IV",
+                      "t": "text",
+                      "x": 202,
+                      "y": 182
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 260.93,
+                      "y": 130
+                    },
+                    {
+                      "s": "y",
+                      "t": "text",
+                      "x": 150,
+                      "y": 19.07
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "2. Identify the quadrants in which of the following angles lie.\n(i) [[8π/5]] (ii) 75° (iii) −818° (iv) 1090° (v) [[7π/6]] (vi) [[−5π/4]]"
               },
               {
                 "a": "(i) 120°: Q2\ncos120°: negative\n(ii) 340°: Q4\nsin340°: negative\n(iii) 200°: Q3\nsec200°: negative\n(iv) 198°: Q3\ncosec198°: negative\n(v) [[−π/3]] = −60°: Q4\ntan([[−π/3]]): negative\n(vi) [[−2π/3]] = −120°\n−120° + 360° = 240°: Q3\ncot([[−2π/3]]): positive",
+                "dq": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "x2": 254,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 150,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "s": "I",
+                      "t": "text",
+                      "x": 202,
+                      "y": 78
+                    },
+                    {
+                      "s": "II",
+                      "t": "text",
+                      "x": 98,
+                      "y": 78
+                    },
+                    {
+                      "s": "III",
+                      "t": "text",
+                      "x": 98,
+                      "y": 182
+                    },
+                    {
+                      "s": "IV",
+                      "t": "text",
+                      "x": 202,
+                      "y": 182
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 260.93,
+                      "y": 130
+                    },
+                    {
+                      "s": "y",
+                      "t": "text",
+                      "x": 150,
+                      "y": 19.07
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "3. Find the signs of the following.\n(i) cos120° (ii) sin340° (iii) sec200° (iv) cosec198° (v) tan([[−π/3]]) (vi) cot([[−2π/3]])"
               },
               {
                 "a": "(i) cosθ < 0: Q2, Q3\nsinθ > 0: Q1, Q2\nQ2\n(ii) tanθ > 0: Q1, Q3\ncosθ < 0: Q2, Q3\nQ3\n(iii) sinθ < 0: Q3, Q4\nsecθ < 0: Q2, Q3\nQ3\n(iv) cotθ > 0: Q1, Q3\nsecθ < 0: Q2, Q3\nQ3\n(v) cosθ < 0: Q2, Q3\ntanθ < 0: Q2, Q4\nQ2\n(vi) cotθ > 0: Q1, Q3\ncotθ < 1\ntanθ > 1\nQ1 or Q3",
+                "dq": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 46,
+                      "x2": 254,
+                      "y1": 130,
+                      "y2": 130
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "x2": 150,
+                      "y1": 234,
+                      "y2": 26
+                    },
+                    {
+                      "s": "I",
+                      "t": "text",
+                      "x": 202,
+                      "y": 78
+                    },
+                    {
+                      "s": "II",
+                      "t": "text",
+                      "x": 98,
+                      "y": 78
+                    },
+                    {
+                      "s": "III",
+                      "t": "text",
+                      "x": 98,
+                      "y": 182
+                    },
+                    {
+                      "s": "IV",
+                      "t": "text",
+                      "x": 202,
+                      "y": 182
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 260.93,
+                      "y": 130
+                    },
+                    {
+                      "s": "y",
+                      "t": "text",
+                      "x": 150,
+                      "y": 19.07
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 150,
+                      "y": 130
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "4. In which quadrant does terminal side of angle θ lie if:\n(i) cosθ < 0 and sinθ > 0 (ii) tanθ > 0 and cosθ < 0 (iii) sinθ < 0 and secθ < 0 (iv) cotθ > 0 and secθ < 0 (v) cosθ < 0 and tanθ < 0 (vi) 0 < cotθ < 1"
               },
               {
@@ -9209,22 +18274,405 @@ var STUDY = {
             "items": [
               {
                 "a": "AB = 102 m\nBC = x\ntan(18°30′) = [[AB/BC]] = [[102/x]]\n18°30′ = 18.5°\ntan(18.5°) ≈ 0.3346\n0.3346 = [[102/x]]\nx = [[102/0.3346]] ≈ 304.85 m",
+                "da": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 26,
+                      "y1": 171.49,
+                      "y2": 88.51
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 171.49,
+                      "y2": 171.49
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 88.51,
+                      "y2": 171.49
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 123.62,
+                      "y1": 88.51,
+                      "y2": 88.51
+                    },
+                    {
+                      "a1": 0,
+                      "a2": 18.5,
+                      "cx": 26,
+                      "cy": 88.51,
+                      "r": 14.64,
+                      "t": "arc"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 88.51
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 171.49
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 171.49
+                    },
+                    {
+                      "s": "102 m",
+                      "t": "text",
+                      "x": 11.36,
+                      "y": 130
+                    },
+                    {
+                      "s": "18°30′",
+                      "t": "text",
+                      "x": 60.17,
+                      "y": 95.02
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 149.65,
+                      "y": 182.06
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "1. From the top of a light house 102 meters high, measure of the angle of depression of a ship is 18°30′. How far is the ship from the light house."
               },
               {
                 "a": "sin60° = [[opposite/hypotenuse]] = [[6/L]]\nsin60° = [[√3/2]]\n[[√3/2]] = [[6/L]]\nL = 6 × [[2/√3]] = [[12/√3]] = 4√3 m ≈ 6.93 m",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          90.03,
+                          234
+                        ],
+                        [
+                          90.03,
+                          26
+                        ],
+                        [
+                          209.97,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 90.03,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 90.03,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 209.97,
+                      "y": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 90.03,
+                      "x2": 103.03,
+                      "y1": 221,
+                      "y2": 221
+                    },
+                    {
+                      "t": "line",
+                      "x1": 103.03,
+                      "x2": 103.03,
+                      "y1": 221,
+                      "y2": 234
+                    },
+                    {
+                      "s": "6 m",
+                      "t": "text",
+                      "x": 44.96,
+                      "y": 130
+                    },
+                    {
+                      "s": "60°",
+                      "t": "text",
+                      "x": 166.29,
+                      "y": 199.33
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "2. A ladder makes angle 60° with the ground and reaches a height of 6m on the wall, find the length of the ladder."
               },
               {
                 "a": "tanθ = [[6/(2√3)]] = [[3/√3]] = √3\ntan60° = √3\nθ = 60°",
+                "da": {
+                  "els": [
+                    {
+                      "pts": [
+                        [
+                          90.03,
+                          234
+                        ],
+                        [
+                          90.03,
+                          26
+                        ],
+                        [
+                          209.97,
+                          234
+                        ]
+                      ],
+                      "t": "poly"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 90.03,
+                      "y": 26
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 90.03,
+                      "y": 234
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 209.97,
+                      "y": 234
+                    },
+                    {
+                      "t": "line",
+                      "x1": 90.03,
+                      "x2": 103.03,
+                      "y1": 221,
+                      "y2": 221
+                    },
+                    {
+                      "t": "line",
+                      "x1": 103.03,
+                      "x2": 103.03,
+                      "y1": 221,
+                      "y2": 234
+                    },
+                    {
+                      "s": "6 m",
+                      "t": "text",
+                      "x": 44.96,
+                      "y": 130
+                    },
+                    {
+                      "s": "2√3 m",
+                      "t": "text",
+                      "x": 148.96,
+                      "y": 272.13
+                    },
+                    {
+                      "s": "x",
+                      "t": "text",
+                      "x": 166.29,
+                      "y": 199.33
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "3. Find the angle of elevation when a 6m high bamboo makes a shadow of length 2√3m."
               },
               {
                 "a": "h = height of cliff\nx = distance of first point\ntan30° = [[h/x]]\nh = x tan30° = [[x/√3]]\ntan45° = [[h/(x − 210)]]\nh = x − 210\nx − 210 = [[x/√3]]\nx(1 − [[1/√3]]) = 210\nx = 210 ÷ (1 − [[1/√3]]) ≈ 496.87 m\nh = x − 210 ≈ 286.87 m",
+                "da": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 26,
+                      "y1": 201.59,
+                      "y2": 58.41
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 201.59,
+                      "y2": 201.59
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 58.41,
+                      "y2": 201.59
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 169.18,
+                      "y1": 58.41,
+                      "y2": 201.59
+                    },
+                    {
+                      "label": "T",
+                      "t": "point",
+                      "x": 26,
+                      "y": 58.41
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 201.59
+                    },
+                    {
+                      "label": "P1",
+                      "t": "point",
+                      "x": 274,
+                      "y": 201.59
+                    },
+                    {
+                      "label": "P2",
+                      "t": "point",
+                      "x": 169.18,
+                      "y": 201.59
+                    },
+                    {
+                      "s": "h",
+                      "t": "text",
+                      "x": 17.02,
+                      "y": 130.22
+                    },
+                    {
+                      "s": "210 m",
+                      "t": "text",
+                      "x": 221.16,
+                      "y": 209.08
+                    },
+                    {
+                      "s": "30°",
+                      "t": "text",
+                      "x": 259.59,
+                      "y": 193.11
+                    },
+                    {
+                      "s": "45°",
+                      "t": "text",
+                      "x": 154.77,
+                      "y": 193.11
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "4. An angle of elevation of the top of cliff is 30°. Walking 210 m from the point towards the cliff, the angle of elevation is 45°. Find the height of cliff."
               },
               {
                 "a": "tanθ = [[4280/9613]] ≈ 0.4452\nθ = tan⁻¹(0.4452) ≈ 24°",
+                "da": {
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 26,
+                      "y1": 185.21,
+                      "y2": 74.79
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 185.21,
+                      "y2": 185.21
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 274,
+                      "y1": 74.79,
+                      "y2": 185.21
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "x2": 77.6,
+                      "y1": 74.79,
+                      "y2": 74.79
+                    },
+                    {
+                      "a1": 0,
+                      "a2": 24,
+                      "cx": 26,
+                      "cy": 74.79,
+                      "r": 18.06,
+                      "t": "arc"
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 26,
+                      "y": 74.79
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 185.21
+                    },
+                    {
+                      "label": "C",
+                      "t": "point",
+                      "x": 274,
+                      "y": 185.21
+                    },
+                    {
+                      "s": "4280 m",
+                      "t": "text",
+                      "x": 6.65,
+                      "y": 130
+                    },
+                    {
+                      "s": "9613 m",
+                      "t": "text",
+                      "x": 149.99,
+                      "y": 195.01
+                    },
+                    {
+                      "s": "θ",
+                      "t": "text",
+                      "x": 58.25,
+                      "y": 81.5
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "5. An observation balloon is 4280m above the ground and 9613m away from a farm house. Find angle of depression of the farm house as observed from the balloon."
               }
             ],
@@ -9270,6 +18718,65 @@ var STUDY = {
               },
               {
                 "a": "area = ([[1/2]]) r²θ = ([[1/2]]) × (2)² × 3 = ([[1/2]]) × 4 × 3 = 6 cm²",
+                "da": {
+                  "els": [
+                    {
+                      "cx": 149.38,
+                      "cy": 138.79,
+                      "r": 124.62,
+                      "t": "circle"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 149.38,
+                      "x2": 274,
+                      "y1": 138.79,
+                      "y2": 138.79
+                    },
+                    {
+                      "t": "line",
+                      "x1": 149.38,
+                      "x2": 26,
+                      "y1": 138.79,
+                      "y2": 121.21
+                    },
+                    {
+                      "a1": -171.89,
+                      "a2": 0,
+                      "cx": 149.38,
+                      "cy": 138.79,
+                      "r": 124.62,
+                      "t": "arc"
+                    },
+                    {
+                      "label": "O",
+                      "t": "point",
+                      "x": 149.38,
+                      "y": 138.79
+                    },
+                    {
+                      "label": "A",
+                      "t": "point",
+                      "x": 274,
+                      "y": 138.79
+                    },
+                    {
+                      "label": "B",
+                      "t": "point",
+                      "x": 26,
+                      "y": 121.21
+                    },
+                    {
+                      "s": "3 rad",
+                      "t": "text",
+                      "x": 155.99,
+                      "y": 45.56
+                    }
+                  ],
+                  "h": 260,
+                  "type": "draw",
+                  "w": 300
+                },
                 "q": "10. Calculate area of the circular sector when r = 2cm and θ = 3 radians."
               }
             ],
@@ -10178,7 +19685,192 @@ var STUDY = {
               },
               {
                 "q": "Illustrate the following rational numbers on number line.\n(i) [[8/10]] (ii) -[[8/10]] (iii) 1[[1/4]] (iv) -1[[1/4]] (v) [[2/3]] (vi) -[[2/3]]",
-                "a": "(i) [[8/10]] = 0.8\n(ii) -[[8/10]] = -0.8\n(iii) 1[[1/4]] = 1.25\n(iv) -1[[1/4]] = -1.25\n(v) [[2/3]] = 0.666...\n(vi) -[[2/3]] = -0.666..."
+                "a": "(i) [[8/10]] = 0.8\n(ii) -[[8/10]] = -0.8\n(iii) 1[[1/4]] = 1.25\n(iv) -1[[1/4]] = -1.25\n(v) [[2/3]] = 0.666...\n(vi) -[[2/3]] = -0.666...",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 110,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 16,
+                      "y1": 52,
+                      "x2": 304,
+                      "y2": 52
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          304,
+                          52
+                        ],
+                        [
+                          296,
+                          48
+                        ],
+                        [
+                          296,
+                          56
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          16,
+                          52
+                        ],
+                        [
+                          24,
+                          48
+                        ],
+                        [
+                          24,
+                          56
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 24,
+                      "y1": 48,
+                      "x2": 24,
+                      "y2": 56
+                    },
+                    {
+                      "t": "text",
+                      "x": 21,
+                      "y": 70,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 92,
+                      "y1": 48,
+                      "x2": 92,
+                      "y2": 56
+                    },
+                    {
+                      "t": "text",
+                      "x": 89,
+                      "y": 70,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160,
+                      "y1": 48,
+                      "x2": 160,
+                      "y2": 56
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 70,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 228,
+                      "y1": 48,
+                      "x2": 228,
+                      "y2": 56
+                    },
+                    {
+                      "t": "text",
+                      "x": 225,
+                      "y": 70,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 296,
+                      "y1": 48,
+                      "x2": 296,
+                      "y2": 56
+                    },
+                    {
+                      "t": "text",
+                      "x": 293,
+                      "y": 70,
+                      "s": "2"
+                    },
+                    {
+                      "t": "point",
+                      "x": 75,
+                      "y": 52,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 72,
+                      "y": 40,
+                      "s": "-1 1/4"
+                    },
+                    {
+                      "t": "point",
+                      "x": 105.6,
+                      "y": 52,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 102.6,
+                      "y": 84,
+                      "s": "-8/10"
+                    },
+                    {
+                      "t": "point",
+                      "x": 114.7,
+                      "y": 52,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 111.7,
+                      "y": 40,
+                      "s": "-2/3"
+                    },
+                    {
+                      "t": "point",
+                      "x": 205.3,
+                      "y": 52,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 202.3,
+                      "y": 84,
+                      "s": "2/3"
+                    },
+                    {
+                      "t": "point",
+                      "x": 214.4,
+                      "y": 52,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 211.4,
+                      "y": 40,
+                      "s": "8/10"
+                    },
+                    {
+                      "t": "point",
+                      "x": 245,
+                      "y": 52,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 242,
+                      "y": 84,
+                      "s": "1 1/4"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Can you make a list of all real numbers between 1 and 2?",
@@ -10988,7 +20680,1311 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) 2x - 7 > 6 + x, ∀x∈N\nx > 13\n{x | x∈N ∧ x > 13}\n{14, 15, 16, ...}\nNumber line: ○ at 13, ray to the right\n(ii) 7x - 6 > 3x + 10, ∀x∈R\n4x > 16\nx > 4\n{x | x∈R ∧ x > 4}\nNumber line: ○ at 4, ray to the right\n(iii) [[(y+5)/20]] < [[(25-4y)/10]], ∀y∈N\ny + 5 < 2(25 - 4y)\ny + 5 < 50 - 8y\n9y < 45\ny < 5\n{y | y∈N ∧ y < 5}\n{1, 2, 3, 4}\nNumber line: ● at 1, 2, 3, 4\n(iv) |2x + 3| < x + 2, ∀x∈Z\n-(x + 2) < 2x + 3 < x + 2\n2x + 3 < x + 2\nx < -1\n-(x + 2) < 2x + 3\n-x - 2 < 2x + 3\n-5 < 3x\n-[[5/3]] < x\n-[[5/3]] < x < -1\n{}\nNumber line: nothing marked\n(v) |2y + 8| < 11, ∀y∈R\n-11 < 2y + 8 < 11\n-19 < 2y < 3\n-[[19/2]] < y < [[3/2]]\n{y | y∈R ∧ -[[19/2]] < y < [[3/2]]}\nNumber line: ○ at -[[19/2]], ○ at [[3/2]], line between\n(vi) 5(2y - 3) > 6(y - 8), ∀y∈R\n10y - 15 > 6y - 48\n4y > -33\ny > -[[33/4]]\n{y | y∈R ∧ y > -[[33/4]]}\nNumber line: ○ at -[[33/4]], ray to the right",
-                "q": "Find the solution sets of the following inequalities and also illustrate the solution on the number line.\n(i) 2x - 7 > 6 + x ∀x∈N\n(ii) 7x - 6 > 3x + 10, ∀x∈R\n(iii) [[(y+5)/20]] < [[(25-4y)/10]], ∀y∈N\n(iv) |2x + 3| < x + 2, ∀x∈Z\n(v) |2y + 8| < 11, ∀y∈R\n(vi) 5(2y - 3) > 6(y - 8), ∀y∈R"
+                "q": "Find the solution sets of the following inequalities and also illustrate the solution on the number line.\n(i) 2x - 7 > 6 + x ∀x∈N\n(ii) 7x - 6 > 3x + 10, ∀x∈R\n(iii) [[(y+5)/20]] < [[(25-4y)/10]], ∀y∈N\n(iv) |2x + 3| < x + 2, ∀x∈Z\n(v) |2y + 8| < 11, ∀y∈R\n(vi) 5(2y - 3) > 6(y - 8), ∀y∈R",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 384,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 6,
+                      "y1": 38,
+                      "x2": 314,
+                      "y2": 38
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          314,
+                          38
+                        ],
+                        [
+                          306,
+                          34
+                        ],
+                        [
+                          306,
+                          42
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          6,
+                          38
+                        ],
+                        [
+                          14,
+                          34
+                        ],
+                        [
+                          14,
+                          42
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 14,
+                      "y1": 34,
+                      "x2": 14,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 11,
+                      "y": 56,
+                      "s": "10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 50.5,
+                      "y1": 34,
+                      "x2": 50.5,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 47.5,
+                      "y": 56,
+                      "s": "11"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 87,
+                      "y1": 34,
+                      "x2": 87,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 84,
+                      "y": 56,
+                      "s": "12"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 123.5,
+                      "y1": 34,
+                      "x2": 123.5,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 120.5,
+                      "y": 56,
+                      "s": "13"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160,
+                      "y1": 34,
+                      "x2": 160,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 56,
+                      "s": "14"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 196.5,
+                      "y1": 34,
+                      "x2": 196.5,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 193.5,
+                      "y": 56,
+                      "s": "15"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 233,
+                      "y1": 34,
+                      "x2": 233,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 230,
+                      "y": 56,
+                      "s": "16"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 269.5,
+                      "y1": 34,
+                      "x2": 269.5,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 266.5,
+                      "y": 56,
+                      "s": "17"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 34,
+                      "x2": 306,
+                      "y2": 42
+                    },
+                    {
+                      "t": "text",
+                      "x": 303,
+                      "y": 56,
+                      "s": "18"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 123.5,
+                      "y1": 36,
+                      "x2": 304,
+                      "y2": 36
+                    },
+                    {
+                      "t": "line",
+                      "x1": 123.5,
+                      "y1": 38,
+                      "x2": 304,
+                      "y2": 38
+                    },
+                    {
+                      "t": "line",
+                      "x1": 123.5,
+                      "y1": 40,
+                      "x2": 304,
+                      "y2": 40
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          304,
+                          38
+                        ],
+                        [
+                          296,
+                          34
+                        ],
+                        [
+                          296,
+                          42
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 199.8,
+                      "y": 15,
+                      "s": "x > 13"
+                    },
+                    {
+                      "t": "circle",
+                      "cx": 123.5,
+                      "cy": 38,
+                      "r": 4.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 120.5,
+                      "y": 26,
+                      "s": "13"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 13,
+                      "s": "(i)"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 6,
+                      "y1": 102,
+                      "x2": 314,
+                      "y2": 102
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          314,
+                          102
+                        ],
+                        [
+                          306,
+                          98
+                        ],
+                        [
+                          306,
+                          106
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          6,
+                          102
+                        ],
+                        [
+                          14,
+                          98
+                        ],
+                        [
+                          14,
+                          106
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 14,
+                      "y1": 98,
+                      "x2": 14,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 11,
+                      "y": 120,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 43.2,
+                      "y1": 98,
+                      "x2": 43.2,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 40.2,
+                      "y": 120,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 72.4,
+                      "y1": 98,
+                      "x2": 72.4,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 69.4,
+                      "y": 120,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 101.6,
+                      "y1": 98,
+                      "x2": 101.6,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 98.6,
+                      "y": 120,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 130.8,
+                      "y1": 98,
+                      "x2": 130.8,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 127.8,
+                      "y": 120,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160,
+                      "y1": 98,
+                      "x2": 160,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 120,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 189.2,
+                      "y1": 98,
+                      "x2": 189.2,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 186.2,
+                      "y": 120,
+                      "s": "6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 218.4,
+                      "y1": 98,
+                      "x2": 218.4,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 215.4,
+                      "y": 120,
+                      "s": "7"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 247.6,
+                      "y1": 98,
+                      "x2": 247.6,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 244.6,
+                      "y": 120,
+                      "s": "8"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 276.8,
+                      "y1": 98,
+                      "x2": 276.8,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 273.8,
+                      "y": 120,
+                      "s": "9"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 98,
+                      "x2": 306,
+                      "y2": 106
+                    },
+                    {
+                      "t": "text",
+                      "x": 303,
+                      "y": 120,
+                      "s": "10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 130.8,
+                      "y1": 100,
+                      "x2": 304,
+                      "y2": 100
+                    },
+                    {
+                      "t": "line",
+                      "x1": 130.8,
+                      "y1": 102,
+                      "x2": 304,
+                      "y2": 102
+                    },
+                    {
+                      "t": "line",
+                      "x1": 130.8,
+                      "y1": 104,
+                      "x2": 304,
+                      "y2": 104
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          304,
+                          102
+                        ],
+                        [
+                          296,
+                          98
+                        ],
+                        [
+                          296,
+                          106
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 203.4,
+                      "y": 79,
+                      "s": "x > 4"
+                    },
+                    {
+                      "t": "circle",
+                      "cx": 130.8,
+                      "cy": 102,
+                      "r": 4.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 127.8,
+                      "y": 90,
+                      "s": "4"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 77,
+                      "s": "(ii)"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 6,
+                      "y1": 166,
+                      "x2": 314,
+                      "y2": 166
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          314,
+                          166
+                        ],
+                        [
+                          306,
+                          162
+                        ],
+                        [
+                          306,
+                          170
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          6,
+                          166
+                        ],
+                        [
+                          14,
+                          162
+                        ],
+                        [
+                          14,
+                          170
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 14,
+                      "y1": 162,
+                      "x2": 14,
+                      "y2": 170
+                    },
+                    {
+                      "t": "text",
+                      "x": 11,
+                      "y": 184,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 62.7,
+                      "y1": 162,
+                      "x2": 62.7,
+                      "y2": 170
+                    },
+                    {
+                      "t": "text",
+                      "x": 59.7,
+                      "y": 184,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 111.3,
+                      "y1": 162,
+                      "x2": 111.3,
+                      "y2": 170
+                    },
+                    {
+                      "t": "text",
+                      "x": 108.3,
+                      "y": 184,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160,
+                      "y1": 162,
+                      "x2": 160,
+                      "y2": 170
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 184,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 208.7,
+                      "y1": 162,
+                      "x2": 208.7,
+                      "y2": 170
+                    },
+                    {
+                      "t": "text",
+                      "x": 205.7,
+                      "y": 184,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 257.3,
+                      "y1": 162,
+                      "x2": 257.3,
+                      "y2": 170
+                    },
+                    {
+                      "t": "text",
+                      "x": 254.3,
+                      "y": 184,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 162,
+                      "x2": 306,
+                      "y2": 170
+                    },
+                    {
+                      "t": "text",
+                      "x": 303,
+                      "y": 184,
+                      "s": "6"
+                    },
+                    {
+                      "t": "point",
+                      "x": 62.7,
+                      "y": 166,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 59.7,
+                      "y": 154,
+                      "s": "1"
+                    },
+                    {
+                      "t": "point",
+                      "x": 111.3,
+                      "y": 166,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 108.3,
+                      "y": 154,
+                      "s": "2"
+                    },
+                    {
+                      "t": "point",
+                      "x": 160,
+                      "y": 166,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 154,
+                      "s": "3"
+                    },
+                    {
+                      "t": "point",
+                      "x": 208.7,
+                      "y": 166,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 205.7,
+                      "y": 154,
+                      "s": "4"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 141,
+                      "s": "(iii)"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 6,
+                      "y1": 230,
+                      "x2": 314,
+                      "y2": 230
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          314,
+                          230
+                        ],
+                        [
+                          306,
+                          226
+                        ],
+                        [
+                          306,
+                          234
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          6,
+                          230
+                        ],
+                        [
+                          14,
+                          226
+                        ],
+                        [
+                          14,
+                          234
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 14,
+                      "y1": 226,
+                      "x2": 14,
+                      "y2": 234
+                    },
+                    {
+                      "t": "text",
+                      "x": 11,
+                      "y": 248,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 62.7,
+                      "y1": 226,
+                      "x2": 62.7,
+                      "y2": 234
+                    },
+                    {
+                      "t": "text",
+                      "x": 59.7,
+                      "y": 248,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 111.3,
+                      "y1": 226,
+                      "x2": 111.3,
+                      "y2": 234
+                    },
+                    {
+                      "t": "text",
+                      "x": 108.3,
+                      "y": 248,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160,
+                      "y1": 226,
+                      "x2": 160,
+                      "y2": 234
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 248,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 208.7,
+                      "y1": 226,
+                      "x2": 208.7,
+                      "y2": 234
+                    },
+                    {
+                      "t": "text",
+                      "x": 205.7,
+                      "y": 248,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 257.3,
+                      "y1": 226,
+                      "x2": 257.3,
+                      "y2": 234
+                    },
+                    {
+                      "t": "text",
+                      "x": 254.3,
+                      "y": 248,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 226,
+                      "x2": 306,
+                      "y2": 234
+                    },
+                    {
+                      "t": "text",
+                      "x": 303,
+                      "y": 248,
+                      "s": "2"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 205,
+                      "s": "(iv)"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 6,
+                      "y1": 294,
+                      "x2": 314,
+                      "y2": 294
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          314,
+                          294
+                        ],
+                        [
+                          306,
+                          290
+                        ],
+                        [
+                          306,
+                          298
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          6,
+                          294
+                        ],
+                        [
+                          14,
+                          290
+                        ],
+                        [
+                          14,
+                          298
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 14,
+                      "y1": 290,
+                      "x2": 14,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 11,
+                      "y": 312,
+                      "s": "-11"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 34.9,
+                      "y1": 290,
+                      "x2": 34.9,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 31.9,
+                      "y": 312,
+                      "s": "-10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 55.7,
+                      "y1": 290,
+                      "x2": 55.7,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 52.7,
+                      "y": 312,
+                      "s": "-9"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 76.6,
+                      "y1": 290,
+                      "x2": 76.6,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 73.6,
+                      "y": 312,
+                      "s": "-8"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 97.4,
+                      "y1": 290,
+                      "x2": 97.4,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 94.4,
+                      "y": 312,
+                      "s": "-7"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 118.3,
+                      "y1": 290,
+                      "x2": 118.3,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 115.3,
+                      "y": 312,
+                      "s": "-6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 139.1,
+                      "y1": 290,
+                      "x2": 139.1,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 136.1,
+                      "y": 312,
+                      "s": "-5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160,
+                      "y1": 290,
+                      "x2": 160,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 312,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 180.9,
+                      "y1": 290,
+                      "x2": 180.9,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 177.9,
+                      "y": 312,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.7,
+                      "y1": 290,
+                      "x2": 201.7,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 198.7,
+                      "y": 312,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 222.6,
+                      "y1": 290,
+                      "x2": 222.6,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 219.6,
+                      "y": 312,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 243.4,
+                      "y1": 290,
+                      "x2": 243.4,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 240.4,
+                      "y": 312,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 264.3,
+                      "y1": 290,
+                      "x2": 264.3,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 261.3,
+                      "y": 312,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 285.1,
+                      "y1": 290,
+                      "x2": 285.1,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 282.1,
+                      "y": 312,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 290,
+                      "x2": 306,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 303,
+                      "y": 312,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 45.3,
+                      "y1": 292,
+                      "x2": 274.7,
+                      "y2": 292
+                    },
+                    {
+                      "t": "line",
+                      "x1": 45.3,
+                      "y1": 294,
+                      "x2": 274.7,
+                      "y2": 294
+                    },
+                    {
+                      "t": "line",
+                      "x1": 45.3,
+                      "y1": 296,
+                      "x2": 274.7,
+                      "y2": 296
+                    },
+                    {
+                      "t": "circle",
+                      "cx": 45.3,
+                      "cy": 294,
+                      "r": 4.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 42.3,
+                      "y": 282,
+                      "s": "-19/2"
+                    },
+                    {
+                      "t": "circle",
+                      "cx": 274.7,
+                      "cy": 294,
+                      "r": 4.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 271.7,
+                      "y": 282,
+                      "s": "3/2"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 269,
+                      "s": "(v)"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 6,
+                      "y1": 358,
+                      "x2": 314,
+                      "y2": 358
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          314,
+                          358
+                        ],
+                        [
+                          306,
+                          354
+                        ],
+                        [
+                          306,
+                          362
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          6,
+                          358
+                        ],
+                        [
+                          14,
+                          354
+                        ],
+                        [
+                          14,
+                          362
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 14,
+                      "y1": 354,
+                      "x2": 14,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 11,
+                      "y": 376,
+                      "s": "-11"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 50.5,
+                      "y1": 354,
+                      "x2": 50.5,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 47.5,
+                      "y": 376,
+                      "s": "-10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 87,
+                      "y1": 354,
+                      "x2": 87,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 84,
+                      "y": 376,
+                      "s": "-9"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 123.5,
+                      "y1": 354,
+                      "x2": 123.5,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 120.5,
+                      "y": 376,
+                      "s": "-8"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160,
+                      "y1": 354,
+                      "x2": 160,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 157,
+                      "y": 376,
+                      "s": "-7"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 196.5,
+                      "y1": 354,
+                      "x2": 196.5,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 193.5,
+                      "y": 376,
+                      "s": "-6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 233,
+                      "y1": 354,
+                      "x2": 233,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 230,
+                      "y": 376,
+                      "s": "-5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 269.5,
+                      "y1": 354,
+                      "x2": 269.5,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 266.5,
+                      "y": 376,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 354,
+                      "x2": 306,
+                      "y2": 362
+                    },
+                    {
+                      "t": "text",
+                      "x": 303,
+                      "y": 376,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 114.4,
+                      "y1": 356,
+                      "x2": 304,
+                      "y2": 356
+                    },
+                    {
+                      "t": "line",
+                      "x1": 114.4,
+                      "y1": 358,
+                      "x2": 304,
+                      "y2": 358
+                    },
+                    {
+                      "t": "line",
+                      "x1": 114.4,
+                      "y1": 360,
+                      "x2": 304,
+                      "y2": 360
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          304,
+                          358
+                        ],
+                        [
+                          296,
+                          354
+                        ],
+                        [
+                          296,
+                          362
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "text",
+                      "x": 195.2,
+                      "y": 335,
+                      "s": "y > -33/4"
+                    },
+                    {
+                      "t": "circle",
+                      "cx": 114.4,
+                      "cy": 358,
+                      "r": 4.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 111.4,
+                      "y": 346,
+                      "s": "-33/4"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 333,
+                      "s": "(vi)"
+                    }
+                  ]
+                }
               },
               {
                 "a": "[[(66 + 72 + x)/3]] ≥ 75\n66 + 72 + x ≥ 225\n138 + x ≥ 225\nx ≥ 87",
@@ -11029,35 +22025,1345 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) Abscissa = -2, ordinate = 2\n(ii) Abscissa = 5, ordinate = -1\n(iii) Abscissa = 4, ordinate = 0\n(iv) Abscissa = -5, ordinate = -6\n(v) Abscissa = 3, ordinate = 4\n(vi) Abscissa = -√8, ordinate = √8",
-                "q": "Determine x and y co-ordinate in the following points:\n(i) A(-2, 2) (ii) B(5, -1) (iii) C(4, 0)\n(iv) D(-5, -6) (v) E(3, 4) (vi) F(-√8, √8)"
+                "q": "Determine x and y co-ordinate in the following points:\n(i) A(-2, 2) (ii) B(5, -1) (iii) C(4, 0)\n(iv) D(-5, -6) (v) E(3, 4) (vi) F(-√8, √8)",
+                "da": {
+                  "type": "points",
+                  "x": [
+                    -6,
+                    6
+                  ],
+                  "y": [
+                    -7,
+                    7
+                  ],
+                  "points": [
+                    [
+                      -2,
+                      2,
+                      "A"
+                    ],
+                    [
+                      5,
+                      -1,
+                      "B"
+                    ],
+                    [
+                      4,
+                      0,
+                      "C"
+                    ],
+                    [
+                      -5,
+                      -6,
+                      "D"
+                    ],
+                    [
+                      3,
+                      4,
+                      "E"
+                    ],
+                    [
+                      -2.83,
+                      2.83,
+                      "F"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "(i) Quadrant IV\n(ii) Quadrant II\n(iii) Quadrant IV\n(iv) Quadrant III\n(v) Quadrant I\n(vi) Quadrant I",
-                "q": "Mention the quadrant in which each of the following point lies.\n(i) A(2, -1) (ii) B(-3, 3) (iii) C(2√2, -2√2)\n(iv) D(-2, -4) (v) E(5, 4) (vi) F([[3/2]], [[5/2]])"
+                "q": "Mention the quadrant in which each of the following point lies.\n(i) A(2, -1) (ii) B(-3, 3) (iii) C(2√2, -2√2)\n(iv) D(-2, -4) (v) E(5, 4) (vi) F([[3/2]], [[5/2]])",
+                "da": {
+                  "type": "points",
+                  "x": [
+                    -4,
+                    6
+                  ],
+                  "y": [
+                    -5,
+                    5
+                  ],
+                  "points": [
+                    [
+                      2,
+                      -1,
+                      "A"
+                    ],
+                    [
+                      -3,
+                      3,
+                      "B"
+                    ],
+                    [
+                      2.83,
+                      -2.83,
+                      "C"
+                    ],
+                    [
+                      -2,
+                      -4,
+                      "D"
+                    ],
+                    [
+                      5,
+                      4,
+                      "E"
+                    ],
+                    [
+                      1.5,
+                      2.5,
+                      "F"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "(i) A(2, 1), B(3, 2), C(-3, 4), D(-4, -5)\n(ii) A(2, 0), B(0, 2), C(3, -3), D(-3, 3)\n(iii) A(0, 0), B(-3, -3), C(5, -6), D(-6, 5)",
-                "q": "Plot the following points A, B, C and D in the xy-plane.\n(i) A(2, 1), B(3, 2), C(-3, 4), D(-4, -5)\n(ii) A(2, 0), B(0, 2), C(3, -3), D(-3, 3)\n(iii) A(0, 0), B(-3, -3), C(5, -6), D(-6, 5)"
+                "q": "Plot the following points A, B, C and D in the xy-plane.\n(i) A(2, 1), B(3, 2), C(-3, 4), D(-4, -5)\n(ii) A(2, 0), B(0, 2), C(3, -3), D(-3, 3)\n(iii) A(0, 0), B(-3, -3), C(5, -6), D(-6, 5)",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 420,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "y1": 69,
+                      "x2": 310,
+                      "y2": 69
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          310,
+                          69
+                        ],
+                        [
+                          303,
+                          65.5
+                        ],
+                        [
+                          303,
+                          72.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "y1": 66,
+                      "x2": 26,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 23,
+                      "y": 84,
+                      "s": "-5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 54.4,
+                      "y1": 66,
+                      "x2": 54.4,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 51.4,
+                      "y": 84,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 82.8,
+                      "y1": 66,
+                      "x2": 82.8,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 79.8,
+                      "y": 84,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 111.2,
+                      "y1": 66,
+                      "x2": 111.2,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 108.2,
+                      "y": 84,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 139.6,
+                      "y1": 66,
+                      "x2": 139.6,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 136.6,
+                      "y": 84,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 196.4,
+                      "y1": 66,
+                      "x2": 196.4,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 193.4,
+                      "y": 84,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 224.8,
+                      "y1": 66,
+                      "x2": 224.8,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 221.8,
+                      "y": 84,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 253.2,
+                      "y1": 66,
+                      "x2": 253.2,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 250.2,
+                      "y": 84,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 281.6,
+                      "y1": 66,
+                      "x2": 281.6,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 278.6,
+                      "y": 84,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 310,
+                      "y1": 66,
+                      "x2": 310,
+                      "y2": 72
+                    },
+                    {
+                      "t": "text",
+                      "x": 307,
+                      "y": 84,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 168,
+                      "y1": 120,
+                      "x2": 168,
+                      "y2": 18
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          168,
+                          18
+                        ],
+                        [
+                          164.5,
+                          25
+                        ],
+                        [
+                          171.5,
+                          25
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 120,
+                      "x2": 171,
+                      "y2": 120
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 124,
+                      "s": "-6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 111.5,
+                      "x2": 171,
+                      "y2": 111.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 115.5,
+                      "s": "-5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 103,
+                      "x2": 171,
+                      "y2": 103
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 107,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 94.5,
+                      "x2": 171,
+                      "y2": 94.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 98.5,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 86,
+                      "x2": 171,
+                      "y2": 86
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 90,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 77.5,
+                      "x2": 171,
+                      "y2": 77.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 81.5,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 60.5,
+                      "x2": 171,
+                      "y2": 60.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 64.5,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 52,
+                      "x2": 171,
+                      "y2": 52
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 56,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 43.5,
+                      "x2": 171,
+                      "y2": 43.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 47.5,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 35,
+                      "x2": 171,
+                      "y2": 35
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 39,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 26.5,
+                      "x2": 171,
+                      "y2": 26.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 30.5,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 18,
+                      "x2": 171,
+                      "y2": 18
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 22,
+                      "s": "6"
+                    },
+                    {
+                      "t": "point",
+                      "x": 224.8,
+                      "y": 60.5,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 253.2,
+                      "y": 52,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 82.8,
+                      "y": 35,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 54.4,
+                      "y": 111.5,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 13,
+                      "s": "(i)"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "y1": 209,
+                      "x2": 310,
+                      "y2": 209
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          310,
+                          209
+                        ],
+                        [
+                          303,
+                          205.5
+                        ],
+                        [
+                          303,
+                          212.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "y1": 206,
+                      "x2": 26,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 23,
+                      "y": 224,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 61.5,
+                      "y1": 206,
+                      "x2": 61.5,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 58.5,
+                      "y": 224,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 97,
+                      "y1": 206,
+                      "x2": 97,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 94,
+                      "y": 224,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 132.5,
+                      "y1": 206,
+                      "x2": 132.5,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 129.5,
+                      "y": 224,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 203.5,
+                      "y1": 206,
+                      "x2": 203.5,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 200.5,
+                      "y": 224,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 239,
+                      "y1": 206,
+                      "x2": 239,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 236,
+                      "y": 224,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 274.5,
+                      "y1": 206,
+                      "x2": 274.5,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 271.5,
+                      "y": 224,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 310,
+                      "y1": 206,
+                      "x2": 310,
+                      "y2": 212
+                    },
+                    {
+                      "t": "text",
+                      "x": 307,
+                      "y": 224,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 168,
+                      "y1": 260,
+                      "x2": 168,
+                      "y2": 158
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          168,
+                          158
+                        ],
+                        [
+                          164.5,
+                          165
+                        ],
+                        [
+                          171.5,
+                          165
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 260,
+                      "x2": 171,
+                      "y2": 260
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 264,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 247.3,
+                      "x2": 171,
+                      "y2": 247.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 251.3,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 234.5,
+                      "x2": 171,
+                      "y2": 234.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 238.5,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 221.8,
+                      "x2": 171,
+                      "y2": 221.8
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 225.8,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 196.3,
+                      "x2": 171,
+                      "y2": 196.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 200.3,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 183.5,
+                      "x2": 171,
+                      "y2": 183.5
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 187.5,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 170.8,
+                      "x2": 171,
+                      "y2": 170.8
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 174.8,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 158,
+                      "x2": 171,
+                      "y2": 158
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 162,
+                      "s": "4"
+                    },
+                    {
+                      "t": "point",
+                      "x": 239,
+                      "y": 209,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 168,
+                      "y": 183.5,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 274.5,
+                      "y": 247.3,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 61.5,
+                      "y": 170.8,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 153,
+                      "s": "(ii)"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "y1": 349,
+                      "x2": 310,
+                      "y2": 349
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          310,
+                          349
+                        ],
+                        [
+                          303,
+                          345.5
+                        ],
+                        [
+                          303,
+                          352.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 26,
+                      "y1": 346,
+                      "x2": 26,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 23,
+                      "y": 364,
+                      "s": "-7"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 46.3,
+                      "y1": 346,
+                      "x2": 46.3,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 43.3,
+                      "y": 364,
+                      "s": "-6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 66.6,
+                      "y1": 346,
+                      "x2": 66.6,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 63.6,
+                      "y": 364,
+                      "s": "-5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 86.9,
+                      "y1": 346,
+                      "x2": 86.9,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 83.9,
+                      "y": 364,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 107.1,
+                      "y1": 346,
+                      "x2": 107.1,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 104.1,
+                      "y": 364,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 127.4,
+                      "y1": 346,
+                      "x2": 127.4,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 124.4,
+                      "y": 364,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 147.7,
+                      "y1": 346,
+                      "x2": 147.7,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 144.7,
+                      "y": 364,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 188.3,
+                      "y1": 346,
+                      "x2": 188.3,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 185.3,
+                      "y": 364,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 208.6,
+                      "y1": 346,
+                      "x2": 208.6,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 205.6,
+                      "y": 364,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 228.9,
+                      "y1": 346,
+                      "x2": 228.9,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 225.9,
+                      "y": 364,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 249.1,
+                      "y1": 346,
+                      "x2": 249.1,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 246.1,
+                      "y": 364,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 269.4,
+                      "y1": 346,
+                      "x2": 269.4,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 266.4,
+                      "y": 364,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 289.7,
+                      "y1": 346,
+                      "x2": 289.7,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 286.7,
+                      "y": 364,
+                      "s": "6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 310,
+                      "y1": 346,
+                      "x2": 310,
+                      "y2": 352
+                    },
+                    {
+                      "t": "text",
+                      "x": 307,
+                      "y": 364,
+                      "s": "7"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 168,
+                      "y1": 400,
+                      "x2": 168,
+                      "y2": 298
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          168,
+                          298
+                        ],
+                        [
+                          164.5,
+                          305
+                        ],
+                        [
+                          171.5,
+                          305
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 400,
+                      "x2": 171,
+                      "y2": 400
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 404,
+                      "s": "-7"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 392.7,
+                      "x2": 171,
+                      "y2": 392.7
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 396.7,
+                      "s": "-6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 385.4,
+                      "x2": 171,
+                      "y2": 385.4
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 389.4,
+                      "s": "-5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 378.1,
+                      "x2": 171,
+                      "y2": 378.1
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 382.1,
+                      "s": "-4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 370.9,
+                      "x2": 171,
+                      "y2": 370.9
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 374.9,
+                      "s": "-3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 363.6,
+                      "x2": 171,
+                      "y2": 363.6
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 367.6,
+                      "s": "-2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 356.3,
+                      "x2": 171,
+                      "y2": 356.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 360.3,
+                      "s": "-1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 341.7,
+                      "x2": 171,
+                      "y2": 341.7
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 345.7,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 334.4,
+                      "x2": 171,
+                      "y2": 334.4
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 338.4,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 327.1,
+                      "x2": 171,
+                      "y2": 327.1
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 331.1,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 319.9,
+                      "x2": 171,
+                      "y2": 319.9
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 323.9,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 312.6,
+                      "x2": 171,
+                      "y2": 312.6
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 316.6,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 305.3,
+                      "x2": 171,
+                      "y2": 305.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 309.3,
+                      "s": "6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 165,
+                      "y1": 298,
+                      "x2": 171,
+                      "y2": 298
+                    },
+                    {
+                      "t": "text",
+                      "x": 152,
+                      "y": 302,
+                      "s": "7"
+                    },
+                    {
+                      "t": "point",
+                      "x": 168,
+                      "y": 349,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 107.1,
+                      "y": 370.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 269.4,
+                      "y": 392.7,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 46.3,
+                      "y": 312.6,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 6,
+                      "y": 293,
+                      "s": "(iii)"
+                    }
+                  ]
+                }
               },
               {
                 "a": "A(4, 6), B(-6, 8)",
-                "q": "Draw a line segment AB by joining the points A(4, 6) and B(-6, 8)."
+                "q": "Draw a line segment AB by joining the points A(4, 6) and B(-6, 8).",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -7,
+                    5
+                  ],
+                  "y": [
+                    0,
+                    9
+                  ],
+                  "points": [
+                    [
+                      4,
+                      6,
+                      "A"
+                    ],
+                    [
+                      -6,
+                      8,
+                      "B"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          4,
+                          6
+                        ],
+                        [
+                          -6,
+                          8
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "A(-1, 4), B(-3, -6), C(3, -2)",
-                "q": "Draw a triangle ABC by joining the points A(-1, 4), B(-3, -6) and C(3, -2)."
+                "q": "Draw a triangle ABC by joining the points A(-1, 4), B(-3, -6) and C(3, -2).",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      -1,
+                      4
+                    ],
+                    [
+                      -3,
+                      -6
+                    ],
+                    [
+                      3,
+                      -2
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                }
               },
               {
                 "a": "A(0, -1), B(0, 5), C(7, -1), D(7, 5)\nA(0, -1), B(0, 5), D(7, 5), C(7, -1)",
-                "q": "Draw a rectangle ABCD by joining the points A(0, -1), B(0, 5), C(7, -1) and D(7, 5)."
+                "q": "Draw a rectangle ABCD by joining the points A(0, -1), B(0, 5), C(7, -1) and D(7, 5).",
+                "da": {
+                  "type": "quad",
+                  "pts": [
+                    [
+                      0,
+                      -1
+                    ],
+                    [
+                      0,
+                      5
+                    ],
+                    [
+                      7,
+                      5
+                    ],
+                    [
+                      7,
+                      -1
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "D",
+                    "C"
+                  ]
+                }
               },
               {
                 "a": "O(0, 0), A(5, 0), B(5, 5), C(0, 5)",
-                "q": "Draw a square OABC by joining the points O(0, 0), A(5, 0), B(5, 5) and C(0, 5)."
+                "q": "Draw a square OABC by joining the points O(0, 0), A(5, 0), B(5, 5) and C(0, 5).",
+                "da": {
+                  "type": "quad",
+                  "kind": "square",
+                  "s": 5,
+                  "labels": [
+                    "O",
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                }
               },
               {
                 "a": "O(0, 0), A(2, 4), B(4, 0), C(6, 4)\nO(0, 0), B(4, 0), C(6, 4), A(2, 4)",
-                "q": "Draw a parallelogram OABC whose vertices are O(0, 0), A(2, 4), B(0, 5) and C(6, 4)."
+                "q": "Draw a parallelogram OABC whose vertices are O(0, 0), A(2, 4), B(0, 5) and C(6, 4).",
+                "da": {
+                  "type": "quad",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      4,
+                      0
+                    ],
+                    [
+                      6,
+                      4
+                    ],
+                    [
+                      2,
+                      4
+                    ]
+                  ],
+                  "labels": [
+                    "O",
+                    "B",
+                    "C",
+                    "A"
+                  ]
+                }
               },
               {
                 "a": "(i) y = 2 - x\nx: -3, -2, -1, 0, 1, 2, 3\ny: 5, 4, 3, 2, 1, 0, -1\n(ii) y = 2x - 6\nx: -3, -2, -1, 0, 1, 2, 3\ny: -12, -10, -8, -6, -4, -2, 0\n(iii) x = 12 - 2y\ny: -3, -2, -1, 0, 1, 2, 3\nx: 18, 16, 14, 12, 10, 8, 6\n(iv) x = 2y - 3\ny: -3, -2, -1, 0, 1, 2, 3\nx: -9, -7, -5, -3, -1, 1, 3",
@@ -11070,15 +23376,202 @@ var STUDY = {
             "items": [
               {
                 "a": "y = 6 - x\nx: -3, -2, -1, 0, 1, 2, 3\ny: 9, 8, 7, 6, 5, 4, 3",
-                "q": "Construct a table for the equation given below, satisfying the pair of values: x + y = 6"
+                "q": "Construct a table for the equation given below, satisfying the pair of values: x + y = 6",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -4,
+                    4
+                  ],
+                  "y": [
+                    0,
+                    10
+                  ],
+                  "points": [
+                    [
+                      -3,
+                      9,
+                      ""
+                    ],
+                    [
+                      -2,
+                      8,
+                      ""
+                    ],
+                    [
+                      -1,
+                      7,
+                      ""
+                    ],
+                    [
+                      0,
+                      6,
+                      ""
+                    ],
+                    [
+                      1,
+                      5,
+                      ""
+                    ],
+                    [
+                      2,
+                      4,
+                      ""
+                    ],
+                    [
+                      3,
+                      3,
+                      ""
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          -4,
+                          10
+                        ],
+                        [
+                          3,
+                          3
+                        ]
+                      ],
+                      "label": "x+y=6"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(0, 2), (-1, 4), (4, 5), (-4, -5)",
-                "q": "Draw the graph from the table given below, using suitable scale.\nx: 0, -1, 4, -4\ny: 2, 4, 5, -5"
+                "q": "Draw the graph from the table given below, using suitable scale.\nx: 0, -1, 4, -4\ny: 2, 4, 5, -5",
+                "da": {
+                  "type": "points",
+                  "x": [
+                    -5,
+                    5
+                  ],
+                  "y": [
+                    -6,
+                    6
+                  ],
+                  "points": [
+                    [
+                      0,
+                      2,
+                      "(0,2)"
+                    ],
+                    [
+                      -1,
+                      4,
+                      "(-1,4)"
+                    ],
+                    [
+                      4,
+                      5,
+                      "(4,5)"
+                    ],
+                    [
+                      -4,
+                      -5,
+                      "(-4,-5)"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "(i) y = 3\nx: -3, -2, -1, 0, 1, 2, 3\ny: 3, 3, 3, 3, 3, 3, 3\nParallel to x-axis\n(ii) x = 3\nx: 3, 3, 3, 3, 3, 3, 3\ny: -3, -2, -1, 0, 1, 2, 3\nParallel to y-axis\n(iii) y = 0\nx: -3, -2, -1, 0, 1, 2, 3\ny: 0, 0, 0, 0, 0, 0, 0\nx-axis\n(iv) y = 2x + 3\nx: -3, -2, -1, 0, 1, 2, 3\ny: -3, -1, 1, 3, 5, 7, 9\ny-intercept = 3\n(v) x = 3.5\nx: 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5\ny: -3, -2, -1, 0, 1, 2, 3\nParallel to y-axis\n(vi) y = -2x\nx: -3, -2, -1, 0, 1, 2, 3\ny: 6, 4, 2, 0, -2, -4, -6\n(0, 0)",
-                "q": "Plot the graph of:\n(i) y = 3 (ii) x = 3 (iii) y = 0\n(iv) y = 2x + 3 (v) x = 3.5 (vi) -y = 2x"
+                "q": "Plot the graph of:\n(i) y = 3 (ii) x = 3 (iii) y = 0\n(iv) y = 2x + 3 (v) x = 3.5 (vi) -y = 2x",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -4,
+                    4
+                  ],
+                  "y": [
+                    -7,
+                    10
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          -4,
+                          3
+                        ],
+                        [
+                          3,
+                          3
+                        ]
+                      ],
+                      "label": "y=3"
+                    },
+                    {
+                      "pts": [
+                        [
+                          3,
+                          -7
+                        ],
+                        [
+                          3,
+                          7
+                        ]
+                      ],
+                      "label": "x=3"
+                    },
+                    {
+                      "pts": [
+                        [
+                          -4,
+                          0
+                        ],
+                        [
+                          3,
+                          0
+                        ]
+                      ],
+                      "label": "y=0"
+                    },
+                    {
+                      "pts": [
+                        [
+                          -4,
+                          -5
+                        ],
+                        [
+                          3,
+                          9
+                        ]
+                      ],
+                      "label": "y=2x+3"
+                    },
+                    {
+                      "pts": [
+                        [
+                          3.5,
+                          -7
+                        ],
+                        [
+                          3.5,
+                          5
+                        ]
+                      ],
+                      "label": "x=3.5"
+                    },
+                    {
+                      "pts": [
+                        [
+                          -4,
+                          8
+                        ],
+                        [
+                          3,
+                          -6
+                        ]
+                      ],
+                      "label": "y=-2x"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(i) y = [[1/2]]x\n(0, 0), (4, 2)\n(ii) x = [[2/3]]y\n(1, [[3/2]]), (1, [[3/2]])\n(iii) 2x + 4y = 8\n(0, 2), ([[7/2]], [[1/4]])\n(iv) 2x + y = 6\n(1, 4), (3, 0)\n(v) x - y = 2\n(2, 0), (1, -1)\n(vi) x - 3y = 6\n(3, -1), (3, -1)",
@@ -11086,11 +23579,559 @@ var STUDY = {
               },
               {
                 "a": "y = 2x\nx: 0, 5, 10, 15, 20, 25, 30\ny: 0, 10, 20, 30, 40, 50, 60",
-                "q": "The weight (y) in kg and age (x) in years of a person expressed by the equation y = 2x. Draw the Age - Weight graph."
+                "q": "The weight (y) in kg and age (x) in years of a person expressed by the equation y = 2x. Draw the Age - Weight graph.",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 300,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 306,
+                      "y2": 262
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          306,
+                          262
+                        ],
+                        [
+                          298,
+                          258.5
+                        ],
+                        [
+                          298,
+                          265.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 38,
+                      "y2": 20
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          38,
+                          20
+                        ],
+                        [
+                          34.5,
+                          28
+                        ],
+                        [
+                          41.5,
+                          28
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 82.7,
+                      "y1": 259,
+                      "x2": 82.7,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 78.7,
+                      "y": 278,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 127.3,
+                      "y1": 259,
+                      "x2": 127.3,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 123.3,
+                      "y": 278,
+                      "s": "10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 172,
+                      "y1": 259,
+                      "x2": 172,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 168,
+                      "y": 278,
+                      "s": "15"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 216.7,
+                      "y1": 259,
+                      "x2": 216.7,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 212.7,
+                      "y": 278,
+                      "s": "20"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 261.3,
+                      "y1": 259,
+                      "x2": 261.3,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 257.3,
+                      "y": 278,
+                      "s": "25"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 259,
+                      "x2": 306,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 302,
+                      "y": 278,
+                      "s": "30"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 221.7,
+                      "x2": 41,
+                      "y2": 221.7
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 225.7,
+                      "s": "10"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 181.3,
+                      "x2": 41,
+                      "y2": 181.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 185.3,
+                      "s": "20"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 141,
+                      "x2": 41,
+                      "y2": 141
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 145,
+                      "s": "30"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 100.7,
+                      "x2": 41,
+                      "y2": 100.7
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 104.7,
+                      "s": "40"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 60.3,
+                      "x2": 41,
+                      "y2": 60.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 64.3,
+                      "s": "50"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 20,
+                      "x2": 41,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 24,
+                      "s": "60"
+                    },
+                    {
+                      "t": "text",
+                      "x": 34,
+                      "y": 278,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 306,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 164,
+                      "y": 133,
+                      "s": "y = 2x"
+                    },
+                    {
+                      "t": "point",
+                      "x": 38,
+                      "y": 262,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 82.7,
+                      "y": 221.7,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 127.3,
+                      "y": 181.3,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 172,
+                      "y": 141,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 216.7,
+                      "y": 100.7,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 261.3,
+                      "y": 60.3,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 306,
+                      "y": 20,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "Weight (kg)"
+                    },
+                    {
+                      "t": "text",
+                      "x": 139,
+                      "y": 292,
+                      "s": "Age (years)"
+                    }
+                  ]
+                }
               },
               {
                 "a": "d = 20t\nt: 0, 1, 2, 3, 4, 5\nd: 0, 20, 40, 60, 80, 100\n(a) d = 100, t = 5 hours\n(b) t = 3, d = 60 km",
-                "q": "Ayesha can drive a two-wheeler continuously at the speed of 20 km per hour. Construct a distance-time graph for this situation. Through the linear graph calculate:\na) The time taken by Ayesha to ride 100 km.\nb) The total distance covered by Ayesha in 3 hours."
+                "q": "Ayesha can drive a two-wheeler continuously at the speed of 20 km per hour. Construct a distance-time graph for this situation. Through the linear graph calculate:\na) The time taken by Ayesha to ride 100 km.\nb) The total distance covered by Ayesha in 3 hours.",
+                "da": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 300,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 306,
+                      "y2": 262
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          306,
+                          262
+                        ],
+                        [
+                          298,
+                          258.5
+                        ],
+                        [
+                          298,
+                          265.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 38,
+                      "y2": 20
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          38,
+                          20
+                        ],
+                        [
+                          34.5,
+                          28
+                        ],
+                        [
+                          41.5,
+                          28
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 91.6,
+                      "y1": 259,
+                      "x2": 91.6,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 87.6,
+                      "y": 278,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 145.2,
+                      "y1": 259,
+                      "x2": 145.2,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 141.2,
+                      "y": 278,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 198.8,
+                      "y1": 259,
+                      "x2": 198.8,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 194.8,
+                      "y": 278,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 252.4,
+                      "y1": 259,
+                      "x2": 252.4,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 248.4,
+                      "y": 278,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 259,
+                      "x2": 306,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 302,
+                      "y": 278,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 213.6,
+                      "x2": 41,
+                      "y2": 213.6
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 217.6,
+                      "s": "20"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 165.2,
+                      "x2": 41,
+                      "y2": 165.2
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 169.2,
+                      "s": "40"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 116.8,
+                      "x2": 41,
+                      "y2": 116.8
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 120.8,
+                      "s": "60"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 68.4,
+                      "x2": 41,
+                      "y2": 68.4
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 72.4,
+                      "s": "80"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 20,
+                      "x2": 41,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 24,
+                      "s": "100"
+                    },
+                    {
+                      "t": "text",
+                      "x": 34,
+                      "y": 278,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 306,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 164,
+                      "y": 133,
+                      "s": "d = 20t"
+                    },
+                    {
+                      "t": "point",
+                      "x": 38,
+                      "y": 262,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 91.6,
+                      "y": 213.6,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 145.2,
+                      "y": 165.2,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 198.8,
+                      "y": 116.8,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 205.8,
+                      "y": 110.8,
+                      "s": "60 km, 3 h"
+                    },
+                    {
+                      "t": "point",
+                      "x": 252.4,
+                      "y": 68.4,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 306,
+                      "y": 20,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 242,
+                      "y": 14,
+                      "s": "100 km, 5 h"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "Distance (km)"
+                    },
+                    {
+                      "t": "text",
+                      "x": 136,
+                      "y": 292,
+                      "s": "Time (hours)"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 7.2"
@@ -11099,19 +24140,668 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) 1 mile ≅ 1.6 kilometers\n(ii) 3 miles ≅ 4.8 kilometers\n(iii) 2 kilometers ≅ 1.2 miles\n(iv) 8 kilometers ≅ 4.9 miles",
-                "q": "Read the given conversion graph between miles and kilometer to approximately convert:\n(i) 1 miles to kilometers (ii) 3 miles to kilometers\n(iii) 2 kilometers to miles (iv) 8 kilometers to miles\nBy using given scales.\nConversion graph between miles and kilometer\nScale: 5 small squares = 1 mile along x-axis\n5 small squares = 1 kilometer along y-axis"
+                "q": "Read the given conversion graph between miles and kilometer to approximately convert:\n(i) 1 miles to kilometers (ii) 3 miles to kilometers\n(iii) 2 kilometers to miles (iv) 8 kilometers to miles\nBy using given scales.\nConversion graph between miles and kilometer\nScale: 5 small squares = 1 mile along x-axis\n5 small squares = 1 kilometer along y-axis",
+                "dq": {
+                  "type": "graph",
+                  "x": [
+                    0,
+                    6
+                  ],
+                  "y": [
+                    0,
+                    10
+                  ],
+                  "lines": [
+                    {
+                      "m": 1.609,
+                      "c": 0,
+                      "label": ""
+                    }
+                  ],
+                  "points": [
+                    [
+                      1,
+                      1.6,
+                      "1.6"
+                    ],
+                    [
+                      3,
+                      4.8,
+                      "4.8"
+                    ],
+                    [
+                      1.24,
+                      2,
+                      ""
+                    ],
+                    [
+                      4.97,
+                      8,
+                      "8"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "(i) 2 hectares ≅ 5 acres\n(ii) 5 hectares ≅ 12 acres\n(iii) 5 acres ≅ 2 hectares\n(iv) 15 acres ≅ 6 hectares",
-                "q": "Read the given conversion graph between Hectares and Acres to approximately convert:\n(i) 2 hectares to acres (ii) 5 hectares to acres\n(iii) 5 acres to hectares (iv) 15 acres to hectares\nBy using given scales.\nConversion graph between hectares and acres\nScale: 5 small squares = 1 hectares along x-axis\n2 small squares = 1 acres along y-axis"
+                "q": "Read the given conversion graph between Hectares and Acres to approximately convert:\n(i) 2 hectares to acres (ii) 5 hectares to acres\n(iii) 5 acres to hectares (iv) 15 acres to hectares\nBy using given scales.\nConversion graph between hectares and acres\nScale: 5 small squares = 1 hectares along x-axis\n2 small squares = 1 acres along y-axis",
+                "dq": {
+                  "type": "graph",
+                  "x": [
+                    0,
+                    7
+                  ],
+                  "y": [
+                    0,
+                    16
+                  ],
+                  "lines": [
+                    {
+                      "m": 2.471,
+                      "c": 0,
+                      "label": ""
+                    }
+                  ],
+                  "points": [
+                    [
+                      2,
+                      5,
+                      "5"
+                    ],
+                    [
+                      5,
+                      12,
+                      "12"
+                    ],
+                    [
+                      6.07,
+                      15,
+                      "15"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "(i) 2° Celsius ≅ 35.6° Fahrenheit\n(ii) 1.80° Celsius ≅ 35.2° Fahrenheit\n(iii) 32° Fahrenheit ≅ 0° Celsius\n(iv) 36.4° Fahrenheit ≅ 2.4° Celsius",
-                "q": "Read the given conversion graph between Celsius and Fahrenheit to approximately convert:\n(i) 2° Celsius to Fahrenheit (ii) 1.80° Celsius to Fahrenheit\n(iii) 32° Fahrenheit to Celsius (iv) 36.4° Fahrenheit to Celsius\nBy using given scales.\nConversion graph between Celsius and Fahrenheit\nScale: 5 small squares = 1 Celsius along x-axis\n5 small squares = 1 Fahrenheit along y-axis"
+                "q": "Read the given conversion graph between Celsius and Fahrenheit to approximately convert:\n(i) 2° Celsius to Fahrenheit (ii) 1.80° Celsius to Fahrenheit\n(iii) 32° Fahrenheit to Celsius (iv) 36.4° Fahrenheit to Celsius\nBy using given scales.\nConversion graph between Celsius and Fahrenheit\nScale: 5 small squares = 1 Celsius along x-axis\n5 small squares = 1 Fahrenheit along y-axis",
+                "dq": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 300,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 306,
+                      "y2": 262
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          306,
+                          262
+                        ],
+                        [
+                          298,
+                          258.5
+                        ],
+                        [
+                          298,
+                          265.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 38,
+                      "y2": 20
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          38,
+                          20
+                        ],
+                        [
+                          34.5,
+                          28
+                        ],
+                        [
+                          41.5,
+                          28
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 82.7,
+                      "y1": 259,
+                      "x2": 82.7,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 78.7,
+                      "y": 278,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 127.3,
+                      "y1": 259,
+                      "x2": 127.3,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 123.3,
+                      "y": 278,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 172,
+                      "y1": 259,
+                      "x2": 172,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 168,
+                      "y": 278,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 216.7,
+                      "y1": 259,
+                      "x2": 216.7,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 212.7,
+                      "y": 278,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 261.3,
+                      "y1": 259,
+                      "x2": 261.3,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 257.3,
+                      "y": 278,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 259,
+                      "x2": 306,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 302,
+                      "y": 278,
+                      "s": "6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 262,
+                      "x2": 41,
+                      "y2": 262
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 266,
+                      "s": "30"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 213.6,
+                      "x2": 41,
+                      "y2": 213.6
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 217.6,
+                      "s": "32"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 165.2,
+                      "x2": 41,
+                      "y2": 165.2
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 169.2,
+                      "s": "34"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 116.8,
+                      "x2": 41,
+                      "y2": 116.8
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 120.8,
+                      "s": "36"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 68.4,
+                      "x2": 41,
+                      "y2": 68.4
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 72.4,
+                      "s": "38"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 20,
+                      "x2": 41,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 24,
+                      "s": "40"
+                    },
+                    {
+                      "t": "text",
+                      "x": 34,
+                      "y": 278,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 213.6,
+                      "x2": 236.5,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 198.7,
+                      "y": 41,
+                      "s": "F = 1.8C + 32"
+                    },
+                    {
+                      "t": "point",
+                      "x": 38,
+                      "y": 213.6,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 45,
+                      "y": 207.6,
+                      "s": "32"
+                    },
+                    {
+                      "t": "point",
+                      "x": 118.4,
+                      "y": 136.2,
+                      "label": ""
+                    },
+                    {
+                      "t": "point",
+                      "x": 127.3,
+                      "y": 126.5,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 134.3,
+                      "y": 120.5,
+                      "s": "35.6"
+                    },
+                    {
+                      "t": "point",
+                      "x": 147,
+                      "y": 107.1,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 154,
+                      "y": 101.1,
+                      "s": "36.4"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "Fahrenheit"
+                    },
+                    {
+                      "t": "text",
+                      "x": 151,
+                      "y": 292,
+                      "s": "Celsius"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(i) 3 Saudi riyal ≅ Rs 90\n(ii) 5.2 Saudi riyal ≅ Rs 156\n(iii) 150 Rs ≅ 5 Saudi riyal\n(iv) 78 Rs ≅ 2.6 Saudi riyal",
-                "q": "Read the given conversion graph Saudi Riyal and Pakistani rupees (Rs) to approximately convert:\n(i) 3 Saudi riyal to Rs (ii) 5.2 Saudi riyal to Rs\n(iii) 150 Rs to Saudi riyal (iv) 78 Rs to Saudi riyal\nBy using given scales.\nConversion graph between Saudi Riyal to Pakistani rupees (Rs)\nScale: 5 small squares = 1 Saudi riyal along x-axis\n5 small squares = 30 Rs along y-axis"
+                "q": "Read the given conversion graph Saudi Riyal and Pakistani rupees (Rs) to approximately convert:\n(i) 3 Saudi riyal to Rs (ii) 5.2 Saudi riyal to Rs\n(iii) 150 Rs to Saudi riyal (iv) 78 Rs to Saudi riyal\nBy using given scales.\nConversion graph between Saudi Riyal to Pakistani rupees (Rs)\nScale: 5 small squares = 1 Saudi riyal along x-axis\n5 small squares = 30 Rs along y-axis",
+                "dq": {
+                  "type": "draw",
+                  "w": 320,
+                  "h": 300,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 306,
+                      "y2": 262
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          306,
+                          262
+                        ],
+                        [
+                          298,
+                          258.5
+                        ],
+                        [
+                          298,
+                          265.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 38,
+                      "y2": 20
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          38,
+                          20
+                        ],
+                        [
+                          34.5,
+                          28
+                        ],
+                        [
+                          41.5,
+                          28
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 82.7,
+                      "y1": 259,
+                      "x2": 82.7,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 78.7,
+                      "y": 278,
+                      "s": "1"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 127.3,
+                      "y1": 259,
+                      "x2": 127.3,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 123.3,
+                      "y": 278,
+                      "s": "2"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 172,
+                      "y1": 259,
+                      "x2": 172,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 168,
+                      "y": 278,
+                      "s": "3"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 216.7,
+                      "y1": 259,
+                      "x2": 216.7,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 212.7,
+                      "y": 278,
+                      "s": "4"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 261.3,
+                      "y1": 259,
+                      "x2": 261.3,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 257.3,
+                      "y": 278,
+                      "s": "5"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 306,
+                      "y1": 259,
+                      "x2": 306,
+                      "y2": 265
+                    },
+                    {
+                      "t": "text",
+                      "x": 302,
+                      "y": 278,
+                      "s": "6"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 221.7,
+                      "x2": 41,
+                      "y2": 221.7
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 225.7,
+                      "s": "30"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 181.3,
+                      "x2": 41,
+                      "y2": 181.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 185.3,
+                      "s": "60"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 141,
+                      "x2": 41,
+                      "y2": 141
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 145,
+                      "s": "90"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 100.7,
+                      "x2": 41,
+                      "y2": 100.7
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 104.7,
+                      "s": "120"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 60.3,
+                      "x2": 41,
+                      "y2": 60.3
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 64.3,
+                      "s": "150"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 35,
+                      "y1": 20,
+                      "x2": 41,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 8,
+                      "y": 24,
+                      "s": "180"
+                    },
+                    {
+                      "t": "text",
+                      "x": 34,
+                      "y": 278,
+                      "s": "0"
+                    },
+                    {
+                      "t": "line",
+                      "x1": 38,
+                      "y1": 262,
+                      "x2": 306,
+                      "y2": 20
+                    },
+                    {
+                      "t": "text",
+                      "x": 164,
+                      "y": 161,
+                      "s": "Rs = 30 x SR"
+                    },
+                    {
+                      "t": "point",
+                      "x": 154.1,
+                      "y": 157.1,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 161.1,
+                      "y": 173.1,
+                      "s": "78"
+                    },
+                    {
+                      "t": "point",
+                      "x": 172,
+                      "y": 141,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 179,
+                      "y": 135,
+                      "s": "90"
+                    },
+                    {
+                      "t": "point",
+                      "x": 261.3,
+                      "y": 60.3,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 253.3,
+                      "y": 76.3,
+                      "s": "150"
+                    },
+                    {
+                      "t": "point",
+                      "x": 270.3,
+                      "y": 52.3,
+                      "label": ""
+                    },
+                    {
+                      "t": "text",
+                      "x": 277.3,
+                      "y": 46.3,
+                      "s": "156"
+                    },
+                    {
+                      "t": "text",
+                      "x": 4,
+                      "y": 12,
+                      "s": "Pakistani Rupees (Rs)"
+                    },
+                    {
+                      "t": "text",
+                      "x": 139,
+                      "y": 292,
+                      "s": "Saudi Riyal"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(i) y = 3x - 11\nx - 3y = 9\nx - 3(3x - 11) = 9\nx = 3\ny = -2\n{(3, -2)}\n(ii) y = 4 - x\n2x - 1 = 5y\n2x - 1 = 5(4 - x)\nx = 3\ny = 1\n{(3, 1)}\n(iii) y = 2x - 5\nx = 2y + 1\nx = 2(2x - 5) + 1\nx = 3\ny = 1\n{(3, 1)}\n(iv) y = 3x - 5\nx + y = 11\nx + 3x - 5 = 11\nx = 4\ny = 7\n{(4, 7)}\n(v) y = x\n2x + y = 3\n3x = 3\nx = 1\ny = 1\n{(1, 1)}\n(vi) y = 2x + 2\ny = x - 1\n2x + 2 = x - 1\nx = -3\ny = -4\n{(-3, -4)}\n(vii) x = 5 - 4y\n2x + 3y = 0\n2(5 - 4y) + 3y = 0\ny = 2\nx = -3\n{(-3, 2)}\n(viii) 3x = 5y - 2\n3x + 5y = 8\n5y - 2 + 5y = 8\ny = 1\nx = 1\n{(1, 1)}\n(ix) y = 2x - 12\n[[(x + 2)/5]] + y = 6\n[[(x + 2)/5]] + 2x - 12 = 6\nx = 8\ny = 4\n{(8, 4)}\n(x) 3x - 2y = 13\n2x + 3y = 13\n9x - 6y = 39\n4x + 6y = 26\nx = 5\ny = 1\n{(5, 1)}",
@@ -11284,19 +24974,313 @@ var STUDY = {
             "items": [
               {
                 "a": "AB = CB\n∠A = ∠C\n∠ABD = ∠CBE\n△ABD ≅ △CBE",
-                "q": "In the adjacent figure, mAB = mCB and ∠A ≅ ∠C, prove that △ABD ≅ △CBE\n(In the figure, AC and ED intersect at B.)"
+                "q": "In the adjacent figure, mAB = mCB and ∠A ≅ ∠C, prove that △ABD ≅ △CBE\n(In the figure, AC and ED intersect at B.)",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          71,
+                          36
+                        ],
+                        [
+                          150,
+                          115
+                        ],
+                        [
+                          71,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          229,
+                          194
+                        ],
+                        [
+                          150,
+                          115
+                        ],
+                        [
+                          229,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 36,
+                      "label": "E"
+                    }
+                  ]
+                }
               },
               {
                 "a": "∠QSP = ∠RSP\n∠SQP = ∠SRP = 90°\nSP = SP\n△SQP ≅ △SRP\nPQ = PR",
-                "q": "From a point on the line bisector of an angle, perpendiculars are drawn to the arms of the angle S. Prove that these perpendiculars are equal in measure.\n(In the figure, S is the vertex of the angle, P is the point on the bisector, and PQ and PR are the perpendiculars to the two arms, Q and R being the feet.)"
+                "q": "From a point on the line bisector of an angle, perpendiculars are drawn to the arms of the angle S. Prove that these perpendiculars are equal in measure.\n(In the figure, S is the vertex of the angle, P is the point on the bisector, and PQ and PR are the perpendiculars to the two arms, Q and R being the feet.)",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          44.7,
+                          115
+                        ],
+                        [
+                          255.3,
+                          36
+                        ],
+                        [
+                          255.3,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 44.7,
+                      "y1": 115,
+                      "x2": 176.3,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 176.3,
+                      "y1": 115,
+                      "x2": 160.1,
+                      "y2": 71.7
+                    },
+                    {
+                      "t": "line",
+                      "x1": 176.3,
+                      "y1": 115,
+                      "x2": 160.1,
+                      "y2": 158.3
+                    },
+                    {
+                      "t": "point",
+                      "x": 44.7,
+                      "y": 115,
+                      "label": "S"
+                    },
+                    {
+                      "t": "point",
+                      "x": 176.3,
+                      "y": 115,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 160.1,
+                      "y": 71.7,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 160.1,
+                      "y": 158.3,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 255.3,
+                      "y": 36,
+                      "label": "C"
+                    }
+                  ]
+                }
               },
               {
                 "a": "∠A = ∠B\n3x + 1 = x + 35\n2x = 34\nx = 17\n∠AEC = ∠DEB\n3y − 2 = y + 8\n2y = 10\ny = 5",
-                "q": "In the given figure, we have, △ACE ≅ △BDE, such that m∠A = (3x + 1)°, m∠B = (x + 35)°, m∠AEC = (3y − 2)° and m∠DEB = (y + 8)°. Find the values of x and y."
+                "q": "In the given figure, we have, △ACE ≅ △BDE, such that m∠A = (3x + 1)°, m∠B = (x + 35)°, m∠AEC = (3y − 2)° and m∠DEB = (y + 8)°. Find the values of x and y.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          71,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          150,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          229,
+                          194
+                        ],
+                        [
+                          229,
+                          36
+                        ],
+                        [
+                          150,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 36,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "E"
+                    }
+                  ]
+                }
               },
               {
                 "a": "DE = PQ\n6x + 1 = 10x − 19\n4x = 20\nx = 5\nEF = RQ\n8 = 5y − 7\n5y = 15\ny = 3",
-                "q": "In the given figure, △DEF ≅ △PQR, such that: mDE = (6x + 1)cm, mEF = 8cm, and mRQ = (5y − 7)cm and mPQ = (10x − 19)cm. Find the values of x and y."
+                "q": "In the given figure, △DEF ≅ △PQR, such that: mDE = (6x + 1)cm, mEF = 8cm, and mRQ = (5y − 7)cm and mPQ = (10x − 19)cm. Find the values of x and y.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          160.6
+                        ],
+                        [
+                          112,
+                          160.6
+                        ],
+                        [
+                          112,
+                          69.4
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          188,
+                          160.6
+                        ],
+                        [
+                          188,
+                          69.4
+                        ],
+                        [
+                          264,
+                          69.4
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 160.6,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 112,
+                      "y": 69.4,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 112,
+                      "y": 160.6,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 69.4,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 188,
+                      "y": 160.6,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 188,
+                      "y": 69.4,
+                      "label": "R"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 9.1"
@@ -11305,15 +25289,198 @@ var STUDY = {
             "items": [
               {
                 "a": "∠C = 180° − 35° − 100°\n∠C = 45°\n∠BDC = 90°\n∠DBC = 180° − 90° − 45°\n∠DBC = 45°\n∠DBC = ∠C\nBD = DC\n△BDC is isosceles",
-                "q": "ABC is a triangle in which m∠A = 35° and m∠B = 100°, BD ⊥ AC. Prove that △BDC is an isosceles triangle.\n(D is the foot of the perpendicular from B on AC.)"
+                "q": "ABC is a triangle in which m∠A = 35° and m∠B = 100°, BD ⊥ AC. Prove that △BDC is an isosceles triangle.\n(D is the foot of the perpendicular from B on AC.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          37.4,
+                          194
+                        ],
+                        [
+                          234.9,
+                          194
+                        ],
+                        [
+                          262.6,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 234.9,
+                      "y1": 194,
+                      "x2": 169.8,
+                      "y2": 101.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 37.4,
+                      "y": 194,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 234.9,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 262.6,
+                      "y": 36,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.8,
+                      "y": 101.1,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 64.6,
+                      "y": 180.2,
+                      "s": "35°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 207.8,
+                      "y": 180.2,
+                      "s": "100°"
+                    }
+                  ]
+                }
               },
               {
                 "a": "∠BAD = ∠CAD\nAD = AD\n∠ADB = ∠ADC = 90°\n△ABD ≅ △ACD\nAB = AC\n△ABC is isosceles",
-                "q": "If the bisector of an angle of a triangle is perpendicular to its opposite side, then prove that triangle is an isosceles triangle.\n(AD bisects ∠A of △ABC and meets BC at D, AD ⊥ BC.)"
+                "q": "If the bisector of an angle of a triangle is perpendicular to its opposite side, then prove that triangle is an isosceles triangle.\n(AD bisects ∠A of △ABC and meets BC at D, AD ⊥ BC.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    }
+                  ]
+                }
               },
               {
                 "a": "∠CDB = 90°\n∠DCB = 180° − 90° − 45°\n∠DCB = 45°\n∠DCB = ∠DBC\nDB = DC\n△DBC is isosceles",
-                "q": "ABC is a triangle in which m∠B = 45° and CD ⊥ AB. Prove that △DBC is an isosceles △.\n(D is the foot of the perpendicular from C on AB.)"
+                "q": "ABC is a triangle in which m∠B = 45° and CD ⊥ AB. Prove that △DBC is an isosceles △.\n(D is the foot of the perpendicular from C on AB.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          157.8
+                        ],
+                        [
+                          264,
+                          157.8
+                        ],
+                        [
+                          178.5,
+                          72.2
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 178.5,
+                      "y1": 72.2,
+                      "x2": 178.5,
+                      "y2": 157.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 157.8,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 157.8,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 178.5,
+                      "y": 72.2,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 178.5,
+                      "y": 157.8,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 232.7,
+                      "y": 141.8,
+                      "s": "45°"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 9.2"
@@ -11322,19 +25489,318 @@ var STUDY = {
             "items": [
               {
                 "a": "AB = AC\nBD = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nAD bisects ∠A\n∠ADB = ∠ADC\n∠ADB + ∠ADC = 180°\n∠ADB = 90°\nAD ⊥ BC",
-                "q": "ABC is an isosceles triangle. D is the mid-point of base BC. Prove that AD bisects ∠A and AD ⊥ BC."
+                "q": "ABC is an isosceles triangle. D is the mid-point of base BC. Prove that AD bisects ∠A and AD ⊥ BC.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AB = AC\nBD = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nM = AD ∩ BC\nAB = AC\n∠BAM = ∠CAM\nAM = AM\n△ABM ≅ △ACM\nBM = CM\n∠AMB = ∠AMC\n∠AMB + ∠AMC = 180°\n∠AMB = 90°\nAD is the right bisector of BC",
-                "q": "ABC and DBC are two isosceles triangles on the same side of a common base BC. Prove that AD is the right bisector of BC.\n(AB = AC, DB = DC; the line AD meets BC at M.)"
+                "q": "ABC and DBC are two isosceles triangles on the same side of a common base BC. Prove that AD is the right bisector of BC.\n(AB = AC, DB = DC; the line AD meets BC at M.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          104.9,
+                          126.3
+                        ],
+                        [
+                          195.1,
+                          126.3
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          161.3,
+                          194
+                        ],
+                        [
+                          104.9,
+                          126.3
+                        ],
+                        [
+                          195.1,
+                          126.3
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 161.3,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 104.9,
+                      "y": 126.3,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 195.1,
+                      "y": 126.3,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 161.3,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 156.4,
+                      "y": 126.3,
+                      "label": "M"
+                    }
+                  ]
+                }
               },
               {
                 "a": "PQ = SR\n∠Q = ∠R = 90°\nQY = RY\n△PQY ≅ △SRY\nPY = SY\nPX = [[1/2]]PQ\nSZ = [[1/2]]RS\nPX = SZ\n∠P = ∠S = 90°\nPY = SY\n△PXY ≅ △SZY",
-                "q": "PQRS is a square. X, Y and Z are the mid-points of PQ, QR and RS respectively. Prove that △PXY ≅ △SZY."
+                "q": "PQRS is a square. X, Y and Z are the mid-points of PQ, QR and RS respectively. Prove that △PXY ≅ △SZY.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          71,
+                          36
+                        ],
+                        [
+                          229,
+                          36
+                        ],
+                        [
+                          229,
+                          194
+                        ],
+                        [
+                          71,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 229,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 115,
+                      "x2": 71,
+                      "y2": 36
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 194,
+                      "x2": 229,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 115,
+                      "x2": 71,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 36,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 36,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "S"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "X"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 115,
+                      "label": "Y"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "Z"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AB = BC = AC\n∠A = ∠B = ∠C = 60°\nBD = [[1/2]]BC\nAE = [[1/2]]AC\nBD = AE\nAB = BA\n∠ABD = ∠BAE = 60°\n△ABD ≅ △BAE\nAD = BE",
-                "q": "Prove that, in an equilateral triangle any two medians are congruent.\n(AD and BE are two medians of equilateral △ABC, D on BC, E on AC.)"
+                "q": "Prove that, in an equilateral triangle any two medians are congruent.\n(AD and BE are two medians of equilateral △ABC, D on BC, E on AC.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          58.7,
+                          194
+                        ],
+                        [
+                          241.3,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 58.7,
+                      "y1": 194,
+                      "x2": 195.7,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 58.7,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 241.3,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 195.7,
+                      "y": 115,
+                      "label": "E"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 9.3"
@@ -11343,19 +25809,291 @@ var STUDY = {
             "items": [
               {
                 "a": "∠EBC = ∠FCB\n∠BEC = ∠CFB = 90°\nBC = CB\n△BEC ≅ △CFB\nBE = CF",
-                "q": "Prove that: The perpendiculars from the vertices of the base to opposite sides of an isosceles triangle are congruent. (Hint: Medians and altitudes of the triangle are congruent)\n(△ABC is isosceles with AB = AC and base BC; BE ⊥ AC with E on AC, CF ⊥ AB with F on AB.)"
+                "q": "Prove that: The perpendiculars from the vertices of the base to opposite sides of an isosceles triangle are congruent. (Hint: Medians and altitudes of the triangle are congruent)\n(△ABC is isosceles with AB = AC and base BC; BE ⊥ AC with E on AC, CF ⊥ AB with F on AB.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 197.4,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 102.6,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 197.4,
+                      "y": 130.8,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 102.6,
+                      "y": 130.8,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AD produced to E\nAD = DE\n∠ADB = ∠EDC\nBD = DC\n△ABD ≅ △ECD\nAB = CE\n∠BAD = ∠CED\n∠BAD = ∠CAD\n∠CED = ∠CAD\nAC = CE\nAB = AC\n△ABC is isosceles",
-                "q": "Prove that, if the bisector of an angle of a triangle bisects its opposite side, then the triangle will be an isosceles triangle.\n(AD bisects ∠A of △ABC and D is the mid-point of BC.)"
+                "q": "Prove that, if the bisector of an angle of a triangle bisects its opposite side, then the triangle will be an isosceles triangle.\n(AD bisects ∠A of △ABC and D is the mid-point of BC.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          110.5,
+                          115
+                        ],
+                        [
+                          189.5,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "E"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AB = AC\nBD = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nAD bisects ∠A\n∠ADB = ∠ADC\n∠ADB + ∠ADC = 180°\n∠ADB = 90°\nAD ⊥ BC",
-                "q": "Prove that the median bisecting the base of an isosceles triangle bisects the vertical angle and is perpendicular to the base.\n(AD is the median of isosceles △ABC to base BC, D the mid-point of BC, AB = AC.)"
+                "q": "Prove that the median bisecting the base of an isosceles triangle bisects the vertical angle and is perpendicular to the base.\n(AD is the median of isosceles △ABC to base BC, D the mid-point of BC, AB = AC.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AD = BE = CF\nAB = BA\n∠ADB = ∠BEA = 90°\nAD = BE\n△ABD ≅ △BAE\n∠B = ∠A\nAC = BC\nBC = CB\n∠BEC = ∠CFB = 90°\nBE = CF\n△BEC ≅ △CFB\n∠B = ∠C\nAB = AC\nAB = BC = AC\n△ABC is equilateral",
-                "q": "Prove that if three altitudes of a triangle are congruent, then the triangle is equilateral.\n(AD, BE and CF are the altitudes of △ABC, D on BC, E on AC, F on AB, AD = BE = CF.)"
+                "q": "Prove that if three altitudes of a triangle are congruent, then the triangle is equilateral.\n(AD, BE and CF are the altitudes of △ABC, D on BC, E on AC, F on AB, AD = BE = CF.)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 197.4,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 102.6,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 197.4,
+                      "y": 130.8,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 102.6,
+                      "y": 130.8,
+                      "label": "F"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 9.4"
@@ -11364,7 +26102,102 @@ var STUDY = {
             "items": [
               {
                 "a": "m∠C = 180° − 120° − 30°\nm∠C = 30°\n∠F = ∠C\nm∠F = 30°\n(C) 30°",
-                "q": "If △ABC ≅ △DEF, m∠F is equal to\nA. 90°\nB. 60°\nC. 30°\nD. 20°\n(In the figure, m∠A = 120° and m∠B = 30° in △ABC, and m∠D = 120° in △DEF.)"
+                "q": "If △ABC ≅ △DEF, m∠F is equal to\nA. 90°\nB. 60°\nC. 30°\nD. 20°\n(In the figure, m∠A = 120° and m∠B = 30° in △ABC, and m∠D = 120° in △DEF.)",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          86.7,
+                          100.4
+                        ],
+                        [
+                          36,
+                          129.6
+                        ],
+                        [
+                          137.3,
+                          129.6
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          213.3,
+                          100.4
+                        ],
+                        [
+                          162.7,
+                          129.6
+                        ],
+                        [
+                          264,
+                          129.6
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 86.7,
+                      "y": 100.4,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 129.6,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 137.3,
+                      "y": 129.6,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 213.3,
+                      "y": 100.4,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 162.7,
+                      "y": 129.6,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 129.6,
+                      "label": "F"
+                    },
+                    {
+                      "t": "text",
+                      "x": 86.7,
+                      "y": 111.8,
+                      "s": "120°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 48.7,
+                      "y": 122,
+                      "s": "30°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 213.3,
+                      "y": 111.8,
+                      "s": "120°"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(i) True\n(ii) False\n(iii) True\n(iv) False\n(v) False",
@@ -11392,23 +26225,324 @@ var STUDY = {
             "items": [
               {
                 "a": "ABCD is a parallelogram\nE is the mid-point of AB\nF is the mid-point of DC\nAE = [[1/2]]AB\nDF = [[1/2]]DC\nAB = DC\nAE = DF\nAE ∥ DF\nAEFD is a parallelogram\nEF ∥ AD\nEB = [[1/2]]AB\nFC = [[1/2]]DC\nEB = FC\nEB ∥ FC\nEBCF is a parallelogram\nEF ∥ BC",
-                "q": "The line joining the mid-points of two opposite sides of parallelogram is parallel to the other sides."
+                "q": "The line joining the mid-points of two opposite sides of parallelogram is parallel to the other sides.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          168.9
+                        ],
+                        [
+                          201.8,
+                          168.9
+                        ],
+                        [
+                          264,
+                          61.1
+                        ],
+                        [
+                          98.2,
+                          61.1
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 118.9,
+                      "y1": 168.9,
+                      "x2": 181.1,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 168.9,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.8,
+                      "y": 168.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 61.1,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.2,
+                      "y": 61.1,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 118.9,
+                      "y": 168.9,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 181.1,
+                      "y": 61.1,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a parallelogram\nAB ∥ DC\n∠A + ∠D = 180°\n∠B + ∠C = 180°\nAD ∥ BC\n∠A + ∠B = 180°\n∠C + ∠D = 180°",
-                "q": "Interior angles on any side of a parallelogram are supplementary."
+                "q": "Interior angles on any side of a parallelogram are supplementary.",
+                "da": {
+                  "type": "quad",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      4,
+                      0
+                    ],
+                    [
+                      5.5,
+                      2.6
+                    ],
+                    [
+                      1.5,
+                      2.6
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
               },
               {
                 "a": "ABCD is a parallelogram\n∠A + ∠B = 180°\nAE bisects ∠A\nBE bisects ∠B\n∠EAB = [[1/2]]∠A\n∠EBA = [[1/2]]∠B\n∠EAB + ∠EBA = [[1/2]](∠A + ∠B)\n= [[1/2]](180°)\n= 90°\n∠AEB = 180° − (∠EAB + ∠EBA)\n= 180° − 90°\n= 90°",
-                "q": "Prove that the bisectors of two angles on same side of a parallelogram cut each other at right angle."
+                "q": "Prove that the bisectors of two angles on same side of a parallelogram cut each other at right angle.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          168.9
+                        ],
+                        [
+                          201.8,
+                          168.9
+                        ],
+                        [
+                          264,
+                          61.1
+                        ],
+                        [
+                          98.2,
+                          61.1
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 168.9,
+                      "x2": 160.3,
+                      "y2": 97.1
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.8,
+                      "y1": 168.9,
+                      "x2": 160.3,
+                      "y2": 97.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 168.9,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.8,
+                      "y": 168.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 61.1,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.2,
+                      "y": 61.1,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 160.3,
+                      "y": 97.1,
+                      "label": "E"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a quadrilateral\nAC and BD intersect at O\nAO = OC\nBO = OD\nIn △AOB and △COD:\nAO = OC\n∠AOB = ∠COD\nBO = OD\n△AOB ≅ △COD\n∠OAB = ∠OCD\nAB ∥ CD\nIn △AOD and △COB:\nAO = OC\n∠AOD = ∠COB\nDO = OB\n△AOD ≅ △COB\n∠OAD = ∠OCB\nAD ∥ BC\nABCD is a parallelogram",
-                "q": "If the diagonals of a quadrilateral bisect each other, then it is a parallelogram."
+                "q": "If the diagonals of a quadrilateral bisect each other, then it is a parallelogram.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          168.9
+                        ],
+                        [
+                          201.8,
+                          168.9
+                        ],
+                        [
+                          264,
+                          61.1
+                        ],
+                        [
+                          98.2,
+                          61.1
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 168.9,
+                      "x2": 264,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.8,
+                      "y1": 168.9,
+                      "x2": 98.2,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 168.9,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.8,
+                      "y": 168.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 61.1,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.2,
+                      "y": 61.1,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a parallelogram\nAC is a diagonal\nAB ∥ DC\n∠BAC = ∠DCA\nAD ∥ BC\n∠DAC = ∠BCA\n∠A = ∠BAC + ∠DAC\n∠C = ∠DCA + ∠BCA\n∠A = ∠C\nBD is a diagonal\n∠ABD = ∠CDB\n∠ADB = ∠CBD\n∠B = ∠ABD + ∠DBC\n∠D = ∠ADB + ∠CDB\n∠B = ∠D",
-                "q": "In parallelogram opposite angles are congruent."
+                "q": "In parallelogram opposite angles are congruent.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          168.9
+                        ],
+                        [
+                          201.8,
+                          168.9
+                        ],
+                        [
+                          264,
+                          61.1
+                        ],
+                        [
+                          98.2,
+                          61.1
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 168.9,
+                      "x2": 264,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 168.9,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.8,
+                      "y": 168.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 61.1,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.2,
+                      "y": 61.1,
+                      "label": "D"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 10.1"
@@ -11417,23 +26551,280 @@ var STUDY = {
             "items": [
               {
                 "a": "ABCD is a quadrilateral\n∠A = ∠C\n∠B = ∠D\n∠A + ∠B + ∠C + ∠D = 360°\n2∠A + 2∠B = 360°\n∠A + ∠B = 180°\nAD ∥ BC\n2∠A + 2∠D = 360°\n∠A + ∠D = 180°\nAB ∥ DC\nABCD is a parallelogram",
-                "q": "Prove that a quadrilateral is a parallelogram, if its opposite angles are congruent"
+                "q": "Prove that a quadrilateral is a parallelogram, if its opposite angles are congruent",
+                "da": {
+                  "type": "quad",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      4,
+                      0
+                    ],
+                    [
+                      5.5,
+                      2.6
+                    ],
+                    [
+                      1.5,
+                      2.6
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
               },
               {
                 "a": "ABCD is a quadrilateral\nAC and BD intersect at O\nAO = OC\nBO = OD\nIn △AOB and △COD:\nAO = OC\n∠AOB = ∠COD\nBO = OD\n△AOB ≅ △COD\n∠OAB = ∠OCD\nAB ∥ CD\nIn △AOD and △COB:\nAO = OC\n∠AOD = ∠COB\nDO = OB\n△AOD ≅ △COB\n∠OAD = ∠OCB\nAD ∥ BC\nABCD is a parallelogram",
-                "q": "Prove that a quadrilateral is a parallelogram, if its diagonals bisect each other."
+                "q": "Prove that a quadrilateral is a parallelogram, if its diagonals bisect each other.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          168.9
+                        ],
+                        [
+                          201.8,
+                          168.9
+                        ],
+                        [
+                          264,
+                          61.1
+                        ],
+                        [
+                          98.2,
+                          61.1
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 168.9,
+                      "x2": 264,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.8,
+                      "y1": 168.9,
+                      "x2": 98.2,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 168.9,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.8,
+                      "y": 168.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 61.1,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.2,
+                      "y": 61.1,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a quadrilateral\nAB = CD\nAD = CB\nBD is a diagonal\nIn △ABD and △CDB:\nAB = CD\nAD = CB\nBD = BD\n△ABD ≅ △CDB\n∠ABD = ∠CDB\nAB ∥ CD\n∠ADB = ∠CBD\nAD ∥ BC\nABCD is a parallelogram",
-                "q": "If both pairs of opposite sides of a quadrilateral are congruent, then the quadrilateral is a parallelogram."
+                "q": "If both pairs of opposite sides of a quadrilateral are congruent, then the quadrilateral is a parallelogram.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          168.9
+                        ],
+                        [
+                          201.8,
+                          168.9
+                        ],
+                        [
+                          264,
+                          61.1
+                        ],
+                        [
+                          98.2,
+                          61.1
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.8,
+                      "y1": 168.9,
+                      "x2": 98.2,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 168.9,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.8,
+                      "y": 168.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 61.1,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.2,
+                      "y": 61.1,
+                      "label": "D"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a parallelogram\nAC is a diagonal\nAB = CD\nBC = DA\nAC = AC\n△ABC ≅ △CDA\nBD is a diagonal\nAB = CD\nAD = CB\nBD = BD\n△ABD ≅ △CDB",
-                "q": "If a quadrilateral is a parallelogram, it has diagonals which form two congruent triangles."
+                "q": "If a quadrilateral is a parallelogram, it has diagonals which form two congruent triangles.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          168.9
+                        ],
+                        [
+                          201.8,
+                          168.9
+                        ],
+                        [
+                          264,
+                          61.1
+                        ],
+                        [
+                          98.2,
+                          61.1
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 168.9,
+                      "x2": 264,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "line",
+                      "x1": 201.8,
+                      "y1": 168.9,
+                      "x2": 98.2,
+                      "y2": 61.1
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 168.9,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.8,
+                      "y": 168.9,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 61.1,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.2,
+                      "y": 61.1,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a quadrilateral\n∠A + ∠B = 180°\n∠B + ∠C = 180°\n∠C + ∠D = 180°\n∠D + ∠A = 180°\nAD ∥ BC\nAB ∥ DC\nABCD is a parallelogram",
-                "q": "If the angles formed with every side of a quadrilateral are supplementary, it is a parallelogram."
+                "q": "If the angles formed with every side of a quadrilateral are supplementary, it is a parallelogram.",
+                "da": {
+                  "type": "quad",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      4,
+                      0
+                    ],
+                    [
+                      5.5,
+                      2.6
+                    ],
+                    [
+                      1.5,
+                      2.6
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                  ]
+                }
               }
             ],
             "label": "Exercise 10.2"
@@ -11442,23 +26833,459 @@ var STUDY = {
             "items": [
               {
                 "a": "mPQ = [[1/2]]mBC\n4 = [[1/2]]mBC\nmBC = 2 × 4\nmBC = 8 cm",
-                "q": "If the line segments joining the mid-points of two sides of a triangle, is parallel to the third side and its length is 4 cm. What is the length of third side."
+                "q": "If the line segments joining the mid-points of two sides of a triangle, is parallel to the third side and its length is 4 cm. What is the length of third side.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 110.5,
+                      "y1": 115,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "text",
+                      "x": 150,
+                      "y": 115,
+                      "s": "4 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 150,
+                      "y": 194,
+                      "s": "8 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a quadrilateral\nE is the mid-point of AB\nF is the mid-point of CD\nG is the mid-point of BC\nH is the mid-point of DA\nAC is a diagonal\nIn △ABC:\nEG ∥ AC\nEG = [[1/2]]AC\nIn △ADC:\nHF ∥ AC\nHF = [[1/2]]AC\nEG ∥ HF\nEG = HF\nEGFH is a parallelogram\nEF and GH bisect each other",
-                "q": "Prove that the line-segment joining the mid-points of the opposite sides of a quadrilateral bisect each other."
+                "q": "Prove that the line-segment joining the mid-points of the opposite sides of a quadrilateral bisect each other.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          51.2,
+                          194
+                        ],
+                        [
+                          209.2,
+                          194
+                        ],
+                        [
+                          248.8,
+                          75.5
+                        ],
+                        [
+                          90.8,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          130.2,
+                          194
+                        ],
+                        [
+                          229,
+                          134.8
+                        ],
+                        [
+                          169.8,
+                          55.8
+                        ],
+                        [
+                          71,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 51.2,
+                      "y1": 194,
+                      "x2": 248.8,
+                      "y2": 75.5
+                    },
+                    {
+                      "t": "point",
+                      "x": 51.2,
+                      "y": 194,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 209.2,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 248.8,
+                      "y": 75.5,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 90.8,
+                      "y": 36,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 130.2,
+                      "y": 194,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.8,
+                      "y": 55.8,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 134.8,
+                      "label": "G"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 115,
+                      "label": "H"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a quadrilateral\nP is the mid-point of AB\nQ is the mid-point of BC\nR is the mid-point of CD\nS is the mid-point of DA\nAC is a diagonal\nIn △ABC:\nPQ ∥ AC\nPQ = [[1/2]]AC\nIn △ADC:\nSR ∥ AC\nSR = [[1/2]]AC\nPQ ∥ SR\nPQ = SR\nPQRS is a parallelogram",
-                "q": "The line segments, joining the mid-points of the sides of a quadrilateral, taken in order, form a parallelogram."
+                "q": "The line segments, joining the mid-points of the sides of a quadrilateral, taken in order, form a parallelogram.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          51.2,
+                          194
+                        ],
+                        [
+                          209.2,
+                          194
+                        ],
+                        [
+                          248.8,
+                          75.5
+                        ],
+                        [
+                          90.8,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          130.2,
+                          194
+                        ],
+                        [
+                          229,
+                          134.8
+                        ],
+                        [
+                          169.8,
+                          55.8
+                        ],
+                        [
+                          71,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 51.2,
+                      "y1": 194,
+                      "x2": 248.8,
+                      "y2": 75.5
+                    },
+                    {
+                      "t": "point",
+                      "x": 51.2,
+                      "y": 194,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 209.2,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 248.8,
+                      "y": 75.5,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 90.8,
+                      "y": 36,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 130.2,
+                      "y": 194,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 134.8,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.8,
+                      "y": 55.8,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 115,
+                      "label": "S"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△ABC\nD is the mid-point of AB\nDE ∥ BC\nE is on AC\nEF ∥ AB\nF is on BC\nDBFE is a parallelogram\nDB = EF\nAD = DB\nAD = EF\n∠A = ∠FEC\n∠ADE = ∠EFC\n△ADE ≅ △EFC\nAE = EC\nE is the mid-point of AC",
-                "q": "Prove that the line segment passing through the mid-point of one side and parallel to another side of a triangle also bisect the third side."
+                "q": "Prove that the line segment passing through the mid-point of one side and parallel to another side of a triangle also bisect the third side.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 110.5,
+                      "y1": 115,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 189.5,
+                      "y1": 115,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△ABC\nD is the mid-point of AB\nE is the mid-point of BC\nF is the mid-point of AC\nDE = [[1/2]]AC\nEF = [[1/2]]AB\nFD = [[1/2]]BC\nAD = [[1/2]]AB\nDB = [[1/2]]AB\nBE = [[1/2]]BC\nEC = [[1/2]]BC\nAF = [[1/2]]AC\nFC = [[1/2]]AC\n△ADF ≅ △DBE\n△DBE ≅ △FEC\n△ADF ≅ △DBE ≅ △FEC ≅ △DEF",
-                "q": "Prove that four triangles obtained by joining the mid-points of the three sides of a triangle are all congruent to each other."
+                "q": "Prove that four triangles obtained by joining the mid-points of the three sides of a triangle are all congruent to each other.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 110.5,
+                      "y1": 115,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 189.5,
+                      "y1": 115,
+                      "x2": 110.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "F"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 10.3"
@@ -11467,15 +27294,276 @@ var STUDY = {
             "items": [
               {
                 "a": "△ABC\nAD, BE, CF are medians\nAD = BE = CF\nAD, BE, CF meet at G\nAG = [[2/3]]AD\nBG = [[2/3]]BE\nCG = [[2/3]]CF\nAG = BG = CG\nGD = [[1/3]]AD\nGE = [[1/3]]BE\nGD = GE\nIn △AGE and △BGD:\nAG = BG\n∠AGE = ∠BGD\nGE = GD\n△AGE ≅ △BGD\nAE = BD\nAE = [[1/2]]AC\nBD = [[1/2]]BC\nAC = BC\nGF = [[1/3]]CF\nGD = [[1/3]]AD\nGF = GD\nIn △AGF and △CGD:\nAG = CG\n∠AGF = ∠CGD\nGF = GD\n△AGF ≅ △CGD\nAF = CD\nAF = [[1/2]]AB\nCD = [[1/2]]BC\nAB = BC\nAB = BC = CA\n△ABC is equilateral",
-                "q": "If three medians of a triangle are congruent, prove that the triangle is an equilateral."
+                "q": "If three medians of a triangle are congruent, prove that the triangle is an equilateral.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 110.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 141.3,
+                      "label": "G"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△PQR\nPB, QC, RA are medians\nB is the mid-point of QR\nC is the mid-point of PR\nA is the mid-point of PQ\nPB and QC meet at G\nQH ∥ PB\nH is on RA produced\nIn △RQH:\nBG ∥ QH\nG is the mid-point of RH\nRG = GH\nIn △RPH:\nCG ∥ PH\nPG ∥ QH\nQG ∥ PH\nPGQH is a parallelogram\nGA = AH\nRG = GH = 2GA\nPG = 2GB\nQG = 2GC\nG is the centroid of △PQR",
-                "q": "The medians PB, QC and RA of ΔPQR meet in point G, show that G is the centroid of ΔPQR."
+                "q": "The medians PB, QC and RA of ΔPQR meet in point G, show that G is the centroid of ΔPQR.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          229,
+                          194
+                        ],
+                        [
+                          71,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 110.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 141.3,
+                      "label": "G"
+                    }
+                  ]
+                }
               },
               {
                 "a": "G is the centroid of △KFQ\nAG = [[1/2]]GR\nAG = [[1/2]] × 2 cm\nAG = 1 cm",
-                "q": "In the given figure, the length GR is of 2cm then find the length of AG.\nThe figure shows △KFQ with medians KA, FB and QC meeting at G."
+                "q": "In the given figure, the length GR is of 2cm then find the length of AG.\nThe figure shows △KFQ with medians KA, FB and QC meeting at G.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 110.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "K"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 141.3,
+                      "label": "G"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 10.4"
@@ -11484,15 +27572,267 @@ var STUDY = {
             "items": [
               {
                 "a": "△ABC\nD, E, F are the mid-points of BC, CA, AB\n△ADF ≅ △DBE ≅ △FEC ≅ △DEF\narea(△ADF) = area(△DBE) = area(△FEC) = area(△DEF)\narea(△ABC) = 4 × area(△DEF)\narea(△DEF) = [[1/4]]area(△ABC)\nDE = [[1/2]]AB\nEF = [[1/2]]BC\nFD = [[1/2]]CA\n△DEF ~ △ABC",
-                "q": "The triangle formed by joining the mid-points of the sides of a triangle is equivalent to the original triangle."
+                "q": "The triangle formed by joining the mid-points of the sides of a triangle is equivalent to the original triangle.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 110.5,
+                      "y1": 115,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 189.5,
+                      "y1": 115,
+                      "x2": 110.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD is a trapezium\nAB ∥ DC\nE is the mid-point of AD\nF is the mid-point of BC\nAF meets DC produced at G\nIn △ABF and △GCF:\n∠AFB = ∠GFC\nBF = FC\n∠ABF = ∠GCF\n△ABF ≅ △GCF\nAF = FG\nAB = CG\nIn △ADG:\nEF ∥ DG\nEF = [[1/2]]DG\nDG = DC + CG\nEF = [[1/2]](AB + DC)\nEF ∥ AB\nEF ∥ DC",
-                "q": "The line segment joining the mid-points of the non-parallel sides of a trapezium is parallel to the parallel sides and is equal to half their sum."
+                "q": "The line segment joining the mid-points of the non-parallel sides of a trapezium is parallel to the parallel sides and is equal to half their sum.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          153
+                        ],
+                        [
+                          162.7,
+                          153
+                        ],
+                        [
+                          137.3,
+                          77
+                        ],
+                        [
+                          61.3,
+                          77
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 48.7,
+                      "y1": 115,
+                      "x2": 150,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 153,
+                      "x2": 264,
+                      "y2": 77
+                    },
+                    {
+                      "t": "line",
+                      "x1": 61.3,
+                      "y1": 77,
+                      "x2": 264,
+                      "y2": 77
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 153,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 162.7,
+                      "y": 153,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 137.3,
+                      "y": 77,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 61.3,
+                      "y": 77,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 48.7,
+                      "y": 115,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 77,
+                      "label": "G"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△ABC\nD is the mid-point of AB\nE is the mid-point of AC\nDE ∥ BC\nAX meets DE at Y\nX is on BC\nIn △ABX:\nDY ∥ BX\nAY = YX\nY bisects AX",
-                "q": "Every line segment drawn from the vertex to the base of a triangle is bisected by the line joining the mid-point of the other two sides."
+                "q": "Every line segment drawn from the vertex to the base of a triangle is bisected by the line joining the mid-point of the other two sides.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 110.5,
+                      "y1": 115,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 189.5,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 194,
+                      "label": "X"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.8,
+                      "y": 115,
+                      "label": "Y"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 10.5"
@@ -11524,23 +27864,259 @@ var STUDY = {
             "items": [
               {
                 "q": "Prove that the point of intersection of the right bisector of any two sides of a triangle is equidistance from all the vertices of the triangle.",
-                "a": "△ABC\nl = right bisector of AB\nm = right bisector of AC\nO = l ∩ m\nO ∈ l\nOA ≅ OB\nO ∈ m\nOA ≅ OC\nOB ≅ OC\nOA = OB = OC"
+                "a": "△ABC\nl = right bisector of AB\nm = right bisector of AC\nO = l ∩ m\nO ∈ l\nOA ≅ OB\nO ∈ m\nOA ≅ OC\nOB ≅ OC\nOA = OB = OC",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 90.8,
+                      "y1": 105.1,
+                      "x2": 169.8,
+                      "y2": 144.6
+                    },
+                    {
+                      "t": "line",
+                      "x1": 209.2,
+                      "y1": 105.1,
+                      "x2": 130.2,
+                      "y2": 144.6
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 134.8,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Prove that the centre of the circle is on the right bisectors of each of its chords.",
-                "a": "O = centre\nAB = chord\nOA = OB\nO on right bisector of AB"
+                "a": "O = centre\nAB = chord\nOA = OB\nO on right bisector of AB",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "circle",
+                      "cx": 150,
+                      "cy": 115,
+                      "r": 70
+                    },
+                    {
+                      "t": "line",
+                      "x1": 101,
+                      "y1": 66,
+                      "x2": 199,
+                      "y2": 66
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 30,
+                      "x2": 150,
+                      "y2": 200
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "O"
+                    },
+                    {
+                      "t": "point",
+                      "x": 101,
+                      "y": 66,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 199,
+                      "y": 66,
+                      "label": "B"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Where will be the centre of a circle passing through three non-collinear points and why?",
-                "a": "A, B, C non-collinear\nl = right bisector of AB\nm = right bisector of BC\nO = l ∩ m\nO ∈ l\nOA = OB\nO ∈ m\nOB = OC\nOA = OB = OC\nO = centre\nOA = OB = OC = radius"
+                "a": "A, B, C non-collinear\nl = right bisector of AB\nm = right bisector of BC\nO = l ∩ m\nO ∈ l\nOA = OB\nO ∈ m\nOB = OC\nOA = OB = OC\nO = centre\nOA = OB = OC = radius",
+                "da": {
+                  "type": "circle",
+                  "r": 5,
+                  "centre": "O",
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "B",
+                      4,
+                      -3
+                    ],
+                    [
+                      "C",
+                      0,
+                      5
+                    ]
+                  ],
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "B",
+                      "C"
+                    ],
+                    [
+                      "C",
+                      "A"
+                    ]
+                  ]
+                }
               },
               {
                 "q": "If two circles intersect each other at points A and B then prove that the line passing through their centres will be the right bisector of AB.",
-                "a": "O, O' = centres\nOA = OB\nO'A = O'B\nO on right bisector of AB\nO' on right bisector of AB\nOO' = right bisector of AB"
+                "a": "O, O' = centres\nOA = OB\nO'A = O'B\nO on right bisector of AB\nO' on right bisector of AB\nOO' = right bisector of AB",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "circle",
+                      "cx": 120,
+                      "cy": 115,
+                      "r": 60
+                    },
+                    {
+                      "t": "circle",
+                      "cx": 180,
+                      "cy": 115,
+                      "r": 60
+                    },
+                    {
+                      "t": "line",
+                      "x1": 120,
+                      "y1": 115,
+                      "x2": 180,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 63,
+                      "x2": 150,
+                      "y2": 167
+                    },
+                    {
+                      "t": "point",
+                      "x": 120,
+                      "y": 115,
+                      "label": "O"
+                    },
+                    {
+                      "t": "point",
+                      "x": 180,
+                      "y": 115,
+                      "label": "O'"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 63,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 167,
+                      "label": "B"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Three markets A, B and C are not on the same line. The business men of these markets want to construct a Masjid at such a place which is equidistant from these markets. After deciding the place of Masjid, prove that this place is equidistant from all the three markets.",
-                "a": "A, B, C non-collinear\nM = Masjid\nl = right bisector of AB\nm = right bisector of AC\nM = l ∩ m\nM ∈ l\nMA = MB\nM ∈ m\nMA = MC\nMA = MB = MC"
+                "a": "A, B, C non-collinear\nM = Masjid\nl = right bisector of AB\nm = right bisector of AC\nM = l ∩ m\nM ∈ l\nMA = MB\nM ∈ m\nMA = MC\nMA = MB = MC",
+                "da": {
+                  "type": "circle",
+                  "r": 5,
+                  "centre": "M",
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      -3
+                    ],
+                    [
+                      "B",
+                      4,
+                      -3
+                    ],
+                    [
+                      "C",
+                      0,
+                      5
+                    ]
+                  ],
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ],
+                    [
+                      "B",
+                      "C"
+                    ],
+                    [
+                      "C",
+                      "A"
+                    ]
+                  ]
+                }
               }
             ]
           },
@@ -11549,15 +28125,267 @@ var STUDY = {
             "items": [
               {
                 "q": "Prove that in an acute triangle the circumcenter falls in the interior of the triangle.",
-                "a": "△ABC acute\n∠A < 90°\n∠B < 90°\n∠C < 90°\nO = circumcentre\nOA = OB = OC\n∠OAB = ∠OBA\n∠OBC = ∠OCB\n∠OCA = ∠OAC\nO outside △ABC\nO, B opposite sides of AC\n∠B = ∠ABO + ∠OBC\n∠AOB = 180° − 2∠OAB\n∠BOC = 180° − 2∠OBC\n∠COA = 180° − 2∠OCA\n∠COA = ∠AOB + ∠BOC\n∠OAB + ∠OBC = 90° + ∠OCA\n∠B = 90° + ∠OCA\n∠B > 90°\n∠B < 90°\nO inside △ABC"
+                "a": "△ABC acute\n∠A < 90°\n∠B < 90°\n∠C < 90°\nO = circumcentre\nOA = OB = OC\n∠OAB = ∠OBA\n∠OBC = ∠OCB\n∠OCA = ∠OAC\nO outside △ABC\nO, B opposite sides of AC\n∠B = ∠ABO + ∠OBC\n∠AOB = 180° − 2∠OAB\n∠BOC = 180° − 2∠OBC\n∠COA = 180° − 2∠OCA\n∠COA = ∠AOB + ∠BOC\n∠OAB + ∠OBC = 90° + ∠OCA\n∠B = 90° + ∠OCA\n∠B > 90°\n∠B < 90°\nO inside △ABC",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 150,
+                      "y2": 36
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 71,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 229,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 134.8,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Prove that the right bisectors of the four sides of an isosceles trapezium are concurrent.",
-                "a": "ABCD isosceles trapezium\nAB ∥ CD\nAD = BC\nl = right bisector of AB\nl ⊥ AB\nl ⊥ CD\nN = mid-point of CD\nN ∈ l\nl = right bisector of CD\nm = right bisector of AD\nn = right bisector of BC\nO = m ∩ l\nOA = OD\nOA = OB\nOC = OD\nOA = OB = OC = OD\nOB = OC\nO ∈ n\nl, m, n meet at O"
+                "a": "ABCD isosceles trapezium\nAB ∥ CD\nAD = BC\nl = right bisector of AB\nl ⊥ AB\nl ⊥ CD\nN = mid-point of CD\nN ∈ l\nl = right bisector of CD\nm = right bisector of AD\nn = right bisector of BC\nO = m ∩ l\nOA = OD\nOA = OB\nOC = OD\nOA = OB = OC = OD\nOB = OC\nO ∈ n\nl, m, n meet at O",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          55,
+                          168.8
+                        ],
+                        [
+                          245,
+                          168.8
+                        ],
+                        [
+                          197.5,
+                          73.8
+                        ],
+                        [
+                          102.5,
+                          73.8
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 187.8,
+                      "x2": 150,
+                      "y2": 42.2
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 100,
+                      "x2": 192.8,
+                      "y2": 178.3
+                    },
+                    {
+                      "t": "line",
+                      "x1": 264,
+                      "y1": 100,
+                      "x2": 107.2,
+                      "y2": 178.3
+                    },
+                    {
+                      "t": "point",
+                      "x": 55,
+                      "y": 168.8,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 245,
+                      "y": 168.8,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 197.5,
+                      "y": 73.8,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 102.5,
+                      "y": 73.8,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 157,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Prove that the altitudes of a triangle are concurrent.",
-                "a": "△ABC\na ∥ BC through A\nb ∥ AC through B\nc ∥ AB through C\nP = b ∩ c\nQ = c ∩ a\nR = a ∩ b\nABCQ parallelogram\nAQ = BC\nARBC parallelogram\nAR = BC\nAQ = AR\nA = mid-point of QR\nABPC parallelogram\nBP = AC\nBR = AC\nBP = BR\nB = mid-point of RP\nPC = AB\nCQ = AB\nPC = CQ\nC = mid-point of PQ\nAltitude from A ⊥ BC\nBC ∥ QR\nAltitude from A ⊥ QR\nAltitude from A = right bisector of QR\nAltitude from B = right bisector of RP\nAltitude from C = right bisector of PQ\nAltitudes concurrent"
+                "a": "△ABC\na ∥ BC through A\nb ∥ AC through B\nc ∥ AB through C\nP = b ∩ c\nQ = c ∩ a\nR = a ∩ b\nABCQ parallelogram\nAQ = BC\nARBC parallelogram\nAR = BC\nAQ = AR\nA = mid-point of QR\nABPC parallelogram\nBP = AC\nBR = AC\nBP = BR\nB = mid-point of RP\nPC = AB\nCQ = AB\nPC = CQ\nC = mid-point of PQ\nAltitude from A ⊥ BC\nBC ∥ QR\nAltitude from A ⊥ QR\nAltitude from A = right bisector of QR\nAltitude from B = right bisector of RP\nAltitude from C = right bisector of PQ\nAltitudes concurrent",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          194
+                        ],
+                        [
+                          229,
+                          36
+                        ],
+                        [
+                          71,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          110.5,
+                          115
+                        ],
+                        [
+                          189.5,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 51.2,
+                      "y1": 144.6,
+                      "x2": 169.8,
+                      "y2": 85.4
+                    },
+                    {
+                      "t": "line",
+                      "x1": 130.2,
+                      "y1": 85.4,
+                      "x2": 248.8,
+                      "y2": 144.6
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 36,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 36,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 95.2,
+                      "label": "O"
+                    }
+                  ]
+                }
               }
             ]
           },
@@ -11566,15 +28394,229 @@ var STUDY = {
             "items": [
               {
                 "q": "Two isosceles triangles have a common base, prove that the line joining vertices bisects the common base at right angle.",
-                "a": "AD ∩ BC = M\nAB = AC\nDB = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nAB = AC\n∠BAM = ∠CAM\nAM = AM\n△ABM ≅ △ACM\nBM = CM\n∠AMB = ∠AMC\n∠AMB + ∠AMC = 180°\n∠AMB = ∠AMC = 90°\nAD ⊥ BC\nM = mid-point of BC"
+                "a": "AD ∩ BC = M\nAB = AC\nDB = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nAB = AC\n∠BAM = ∠CAM\nAM = AM\n△ABM ≅ △ACM\nBM = CM\n∠AMB = ∠AMC\n∠AMB + ∠AMC = 180°\n∠AMB = ∠AMC = 90°\nAD ⊥ BC\nM = mid-point of BC",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          104.9,
+                          126.3
+                        ],
+                        [
+                          195.1,
+                          126.3
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          161.3,
+                          194
+                        ],
+                        [
+                          104.9,
+                          126.3
+                        ],
+                        [
+                          195.1,
+                          126.3
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 161.3,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 104.9,
+                      "y": 126.3,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 195.1,
+                      "y": 126.3,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 161.3,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 156.4,
+                      "y": 126.3,
+                      "label": "M"
+                    }
+                  ]
+                }
               },
               {
                 "q": "If the bisector of an angle of a triangle bisects the opposite side, prove that triangle is an isosceles.",
-                "a": "D ∈ BC\nE on AD extended\nAD = DE\nEC\nAD = DE\nBD = DC\n∠ADB = ∠EDC\n△ABD ≅ △ECD\nAB = EC\n∠BAD = ∠CED\n∠BAD = ∠CAD\n∠CAD = ∠CED\nAC = EC\nAB = AC"
+                "a": "D ∈ BC\nE on AD extended\nAD = DE\nEC\nAD = DE\nBD = DC\n∠ADB = ∠EDC\n△ABD ≅ △ECD\nAB = EC\n∠BAD = ∠CED\n∠BAD = ∠CAD\n∠CAD = ∠CED\nAC = EC\nAB = AC",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          110.5,
+                          115
+                        ],
+                        [
+                          189.5,
+                          115
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "E"
+                    }
+                  ]
+                }
               },
               {
                 "q": "In an isosceles △ABC, mAB = mAC. Prove that the perpendiculars from the vertices B and C to their opposite sides are equal.",
-                "a": "△ABC isosceles\nAB = AC\n∠ABC = ∠ACB\nBE ⊥ AC\nCF ⊥ AB\n∠BEC = 90°\n∠CFB = 90°\n∠EBC = ∠FCB\nBC = BC\n△BEC ≅ △CFB\nBE = CF"
+                "a": "△ABC isosceles\nAB = AC\n∠ABC = ∠ACB\nBE ⊥ AC\nCF ⊥ AB\n∠BEC = 90°\n∠CFB = 90°\n∠EBC = ∠FCB\nBC = BC\n△BEC ≅ △CFB\nBE = CF",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 197.4,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 102.6,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 197.4,
+                      "y": 130.8,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 102.6,
+                      "y": 130.8,
+                      "label": "F"
+                    }
+                  ]
+                }
               }
             ]
           },
@@ -11583,11 +28625,166 @@ var STUDY = {
             "items": [
               {
                 "q": "Prove that, if two altitudes of a triangle are congruent, the triangle is an isosceles.",
-                "a": "△ABC\nBE ⊥ AC\nCF ⊥ AB\nBE = CF\n∠BEC = 90°\n∠CFB = 90°\nBC = BC\n△BEC ≅ △CFB\n∠EBC = ∠FCB\n∠ABC = ∠ACB\nAB = AC"
+                "a": "△ABC\nBE ⊥ AC\nCF ⊥ AB\nBE = CF\n∠BEC = 90°\n∠CFB = 90°\nBC = BC\n△BEC ≅ △CFB\n∠EBC = ∠FCB\n∠ABC = ∠ACB\nAB = AC",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 197.4,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 102.6,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 197.4,
+                      "y": 130.8,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 102.6,
+                      "y": 130.8,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Prove that, a point in the interior of a triangle is an equidistant from all the three sides' lies on the bisector of all the three angles of the triangle.",
-                "a": "P inside △ABC\nPD ⊥ BC\nPE ⊥ CA\nPF ⊥ AB\nPD = PE = PF\nPE = PF\nP on bisector of ∠A\nPD = PF\nP on bisector of ∠B\nPD = PE\nP on bisector of ∠C"
+                "a": "P inside △ABC\nPD ⊥ BC\nPE ⊥ CA\nPF ⊥ AB\nPD = PE = PF\nPE = PF\nP on bisector of ∠A\nPD = PF\nP on bisector of ∠B\nPD = PE\nP on bisector of ∠C",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 110.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 134.8,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "q": "Write 'T' for True and 'F' for False in front of each of the following statements\n(i) Bisector of side means, we divide the given side into two equal parts.\n(ii) In a right angled isosceles triangle each angle on the base is of 45°.\n(iii) Triangle of congruent sides has congruent angles.",
@@ -11608,15 +28805,138 @@ var STUDY = {
             "items": [
               {
                 "a": "△OAB:\nm OA + m OB > m AB ... (i)\n△OBC:\nm OB + m OC > m BC ... (ii)\n△OCA:\nm OC + m OA > m CA ... (iii)\n(i) + (ii) + (iii):\n2(m OA + m OB + m OC) > m AB + m BC + m CA\nm OA + m OB + m OC > [[1/2]](m AB + m BC + m CA)",
-                "q": "O is an interior point of the △ABC.\nShow that: m OA + m OB + m OC > [[1/2]](m AB + m BC + m CA)."
+                "q": "O is an interior point of the △ABC.\nShow that: m OA + m OB + m OC > [[1/2]](m AB + m BC + m CA).",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 150,
+                      "y2": 36
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 71,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 134.8,
+                      "x2": 229,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 134.8,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "a": "m∠A + m∠B + m∠C = 180°\nm∠A + 70° + 45° = 180°\nm∠A = 65°\nm∠B > m∠A > m∠C\nm AC > m BC > m AB\nAC is longest",
-                "q": "In △ABC, m∠B = 70° and m∠C = 45°. Which of the sides of the triangle is longest?"
+                "q": "In △ABC, m∠B = 70° and m∠C = 45°. Which of the sides of the triangle is longest?",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      4,
+                      0
+                    ],
+                    [
+                      2.25,
+                      4.82
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "angles": {
+                    "A": "65°",
+                    "B": "70°",
+                    "C": "45°"
+                  }
+                }
               },
               {
                 "a": "m∠A + m∠B + m∠C = 180°\n55° + 65° + m∠C = 180°\nm∠C = 60°\nm∠B > m∠C > m∠A\nm AC > m AB > m BC\nBC is smallest",
-                "q": "In △ABC, m∠A = 55° and m∠B = 65°, which of the side of the triangle is smallest?"
+                "q": "In △ABC, m∠A = 55° and m∠B = 65°, which of the side of the triangle is smallest?",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      4,
+                      0
+                    ],
+                    [
+                      2.4,
+                      3.43
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "angles": {
+                    "A": "55°",
+                    "B": "65°",
+                    "C": "60°"
+                  }
+                }
               }
             ],
             "label": "Exercise 12.1"
@@ -11649,31 +28969,532 @@ var STUDY = {
             "items": [
               {
                 "a": "PQ = 4.6 cm\n∠PQX = 35°\nQR = 4.6 cm\nPR\n△PQR",
-                "q": "1. Construct △PQR such that, mPQ = mQR = 4.6 cm and m∠Q = 35°"
+                "q": "1. Construct △PQR such that, mPQ = mQR = 4.6 cm and m∠Q = 35°",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      4.6,
+                      0
+                    ],
+                    [
+                      3.77,
+                      2.64
+                    ]
+                  ],
+                  "labels": [
+                    "Q",
+                    "R",
+                    "P"
+                  ],
+                  "sideLabels": {
+                    "AB": "4.6 cm",
+                    "CA": "4.6 cm"
+                  },
+                  "angles": {
+                    "A": "35°"
+                  }
+                }
               },
               {
                 "a": "AB = 5.1 cm\n∠BAX = 65°\nAC = 5.1 cm\nBC\n△ABC",
-                "q": "2. Construct △ABC such that, mAB = mAC = 5.1 cm and m∠A = 65°"
+                "q": "2. Construct △ABC such that, mAB = mAC = 5.1 cm and m∠A = 65°",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      5.1,
+                      0
+                    ],
+                    [
+                      2.16,
+                      4.62
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "5.1 cm",
+                    "CA": "5.1 cm"
+                  },
+                  "angles": {
+                    "A": "65°"
+                  }
+                }
               },
               {
                 "a": "LM = 3.7 cm\n∠LMX = 50°\nMN = 2.5 cm\nLN\n△LMN",
-                "q": "3. Construct △LMN such that, mLM = 3.7 cm, mMN = 2.5 cm and ∠M = 50°"
+                "q": "3. Construct △LMN such that, mLM = 3.7 cm, mMN = 2.5 cm and ∠M = 50°",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      3.7,
+                      0
+                    ],
+                    [
+                      1.61,
+                      1.92
+                    ]
+                  ],
+                  "labels": [
+                    "M",
+                    "L",
+                    "N"
+                  ],
+                  "sideLabels": {
+                    "AB": "3.7 cm",
+                    "CA": "2.5 cm"
+                  },
+                  "angles": {
+                    "A": "50°"
+                  }
+                }
               },
               {
                 "a": "AB = 3.5 cm\n∠ABX = 110°\nBC = 2.7 cm\nAC\n△ABC",
-                "q": "4. Construct △ABC such that, mAB = 3.5 cm, mBC = 2.7 cm and ∠B = 110°"
+                "q": "4. Construct △ABC such that, mAB = 3.5 cm, mBC = 2.7 cm and ∠B = 110°",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      3.5,
+                      0
+                    ],
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      -0.92,
+                      2.54
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "3.5 cm",
+                    "BC": "2.7 cm"
+                  },
+                  "angles": {
+                    "B": "110°"
+                  }
+                }
               },
               {
                 "a": "YZ = 5 cm\n∠YZX = 80°\narc: centre Y, radius 4.1 cm\narc ∩ ZX = X\nXY\n△XYZ",
-                "q": "5. Construct △XYZ such that, mXY = 4.1 cm, mYZ = 5 cm and ∠Z = 80°"
+                "q": "5. Construct △XYZ such that, mXY = 4.1 cm, mYZ = 5 cm and ∠Z = 80°",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "line",
+                      "x1": 60,
+                      "y1": 190,
+                      "x2": 240,
+                      "y2": 190
+                    },
+                    {
+                      "t": "line",
+                      "x1": 240,
+                      "y1": 190,
+                      "x2": 218,
+                      "y2": 63
+                    },
+                    {
+                      "t": "arc",
+                      "cx": 60,
+                      "cy": 190,
+                      "r": 148,
+                      "a1": -75,
+                      "a2": -55
+                    },
+                    {
+                      "t": "point",
+                      "x": 60,
+                      "y": 190,
+                      "label": "Y"
+                    },
+                    {
+                      "t": "point",
+                      "x": 240,
+                      "y": 190,
+                      "label": "Z"
+                    },
+                    {
+                      "t": "text",
+                      "x": 150,
+                      "y": 205,
+                      "s": "5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 225,
+                      "y": 130,
+                      "s": "80°"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(i) DE = 5 cm\n∠D = 45°\n∠E = 60°\n∠F = 180° − 45° − 60° = 75°\n(ii) LM = 6 cm\n∠L = 75°\n∠M = 45°\n∠N = 180° − 75° − 45° = 60°\n(iii) BC = 5.8 cm\n∠B = 45°\n∠A = 30°\n∠C = 180° − 30° − 45° = 105°",
-                "q": "6. Construct the △DEF, △LMN and △ABC in the following.\n(i) mDE = 5cm, m∠D = 45° and, m∠E = 60°\n(ii) mLM = 6cm, m∠L = 75° and, m∠M = 45°\n(iii) mBC = 5.8cm, m∠A = 30° and, m∠B = 45°"
+                "q": "6. Construct the △DEF, △LMN and △ABC in the following.\n(i) mDE = 5cm, m∠D = 45° and, m∠E = 60°\n(ii) mLM = 6cm, m∠L = 75° and, m∠M = 45°\n(iii) mBC = 5.8cm, m∠A = 30° and, m∠B = 45°",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 200,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          17,
+                          122.5
+                        ],
+                        [
+                          88,
+                          122.5
+                        ],
+                        [
+                          62,
+                          77.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 17,
+                      "y": 122.5,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 88,
+                      "y": 122.5,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 62,
+                      "y": 77.5,
+                      "label": "F"
+                    },
+                    {
+                      "t": "text",
+                      "x": 52.5,
+                      "y": 117.5,
+                      "s": "5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 24.8,
+                      "y": 115.4,
+                      "s": "45°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 80.2,
+                      "y": 115.4,
+                      "s": "60°"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          117,
+                          128
+                        ],
+                        [
+                          188,
+                          128
+                        ],
+                        [
+                          132,
+                          72
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 117,
+                      "y": 128,
+                      "label": "L"
+                    },
+                    {
+                      "t": "point",
+                      "x": 188,
+                      "y": 128,
+                      "label": "M"
+                    },
+                    {
+                      "t": "point",
+                      "x": 132,
+                      "y": 72,
+                      "label": "N"
+                    },
+                    {
+                      "t": "text",
+                      "x": 152.5,
+                      "y": 123.8,
+                      "s": "6 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 124.1,
+                      "y": 120.9,
+                      "s": "75°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 180.9,
+                      "y": 120.9,
+                      "s": "45°"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          217,
+                          133
+                        ],
+                        [
+                          265.3,
+                          133
+                        ],
+                        [
+                          283,
+                          67
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 217,
+                      "y": 133,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 265.3,
+                      "y": 133,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 283,
+                      "y": 67,
+                      "label": "A"
+                    },
+                    {
+                      "t": "text",
+                      "x": 241.2,
+                      "y": 129.2,
+                      "s": "5.8 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 222.8,
+                      "y": 128,
+                      "s": "45°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 278.7,
+                      "y": 73,
+                      "s": "30°"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(i) BC = 4.1 cm\n∠CBX = 75°\narc: centre C, radius 4.5 cm\narc ∩ BX = A\nAC\n△ABC\n(ii) BC = 5 cm\n∠BCX = 70°\narc: centre B, radius 5.5 cm\narc ∩ CX = A\nAB\n△ABC\n(iii) AB = 5 cm\n∠BAX = 45°\narc: centre B, radius 5.5 cm\narc ∩ AX = C\nBC\n△ABC",
-                "q": "7. Construct a △ABC, when lengths of two of its sides and measure of an angle opposite one of the side is given as under:\n(i) mAC = 4.5cm, mBC = 4.1cm and m∠B = 75°\n(ii) mBC = 5cm, mAB = 5.5 cm and m∠C = 70°\n(iii) mAB = 5cm, mBC = 5.5cm and m∠A = 45°"
+                "q": "7. Construct a △ABC, when lengths of two of its sides and measure of an angle opposite one of the side is given as under:\n(i) mAC = 4.5cm, mBC = 4.1cm and m∠B = 75°\n(ii) mBC = 5cm, mAB = 5.5 cm and m∠C = 70°\n(iii) mAB = 5cm, mBC = 5.5cm and m∠A = 45°",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 200,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          17,
+                          126.8
+                        ],
+                        [
+                          88,
+                          126.8
+                        ],
+                        [
+                          31.4,
+                          73.2
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 17,
+                      "y": 126.8,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 88,
+                      "y": 126.8,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 31.4,
+                      "y": 73.2,
+                      "label": "A"
+                    },
+                    {
+                      "t": "text",
+                      "x": 52.5,
+                      "y": 120.7,
+                      "s": "4.1 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 27.4,
+                      "y": 118.1,
+                      "s": "75°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 67.6,
+                      "y": 99.9,
+                      "s": "4.5 cm"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          117,
+                          130.5
+                        ],
+                        [
+                          188,
+                          130.5
+                        ],
+                        [
+                          139.2,
+                          69.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 117,
+                      "y": 130.5,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 188,
+                      "y": 130.5,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 139.2,
+                      "y": 69.5,
+                      "label": "A"
+                    },
+                    {
+                      "t": "text",
+                      "x": 152.5,
+                      "y": 125.5,
+                      "s": "5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 125.5,
+                      "y": 121.9,
+                      "s": "70°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 170,
+                      "y": 99.9,
+                      "s": "5.5 cm"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          217,
+                          131.7
+                        ],
+                        [
+                          274.9,
+                          131.7
+                        ],
+                        [
+                          280.5,
+                          68.3
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 217,
+                      "y": 131.7,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 274.9,
+                      "y": 131.7,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 280.5,
+                      "y": 68.3,
+                      "label": "C"
+                    },
+                    {
+                      "t": "text",
+                      "x": 245.9,
+                      "y": 127.7,
+                      "s": "5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 223.9,
+                      "y": 124.8,
+                      "s": "45°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 283,
+                      "y": 100,
+                      "s": "5.5 cm"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 13.1"
@@ -11682,43 +29503,991 @@ var STUDY = {
             "items": [
               {
                 "a": "△ABC\nD, E, F: mid-points of AB, BC, CA\nAE, BF, CD\nAE ∩ BF ∩ CD = G\n[[AG/GE]] = [[BG/GF]] = [[CG/GD]] = [[2/1]]\nAE, BF, CD: concurrent",
-                "q": "1. Take a △ and draw the medians and prove that they are concurrent."
+                "q": "1. Take a △ and draw the medians and prove that they are concurrent.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 110.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 110.5,
+                      "y": 115,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 141.3,
+                      "label": "G"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△ABC\nAP ⊥ BC\nBQ ⊥ CA\nCR ⊥ AB\nAP ∩ BQ ∩ CR = O\nO = orthocentre\nAP, BQ, CR: concurrent",
-                "q": "2. Take a △ and draw the altitudes and prove that they are concurrent."
+                "q": "2. Take a △ and draw the altitudes and prove that they are concurrent.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 197.4,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 102.6,
+                      "y2": 130.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 197.4,
+                      "y": 130.8,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 102.6,
+                      "y": 130.8,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 154.5,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△ABC\nBP: bisector of ∠B\nCQ: bisector of ∠C\nAR: bisector of ∠A\nBP ∩ CQ ∩ AR = I\nI = in-centre\nBP, CQ, AR: concurrent",
-                "q": "3. Take a △ and draw the internal bisectors of angles and prove that they are concurrent."
+                "q": "3. Take a △ and draw the internal bisectors of angles and prove that they are concurrent.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 191.9,
+                      "y2": 119.3
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 108.1,
+                      "y2": 119.3
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 191.9,
+                      "y": 119.3,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 108.1,
+                      "y": 119.3,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 145,
+                      "label": "I"
+                    }
+                  ]
+                }
               },
               {
                 "a": "BC = 6 cm\nCA = 4 cm\nAB = 5 cm\n△ABC\nAX: bisector of ∠A\nBY: bisector of ∠B\nAX ∩ BY = I",
-                "q": "4. Construct a triangle ABC in which mBC = 6 cm, mCA = 4 cm and mAB = 5 cm, draw the bisectors of angles A and B."
+                "q": "4. Construct a triangle ABC in which mBC = 6 cm, mCA = 4 cm and mAB = 5 cm, draw the bisectors of angles A and B.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          66,
+                          176.6
+                        ],
+                        [
+                          243.1,
+                          176.6
+                        ],
+                        [
+                          83.7,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 66,
+                      "y1": 176.6,
+                      "x2": 154.6,
+                      "y2": 98.5
+                    },
+                    {
+                      "t": "line",
+                      "x1": 243.1,
+                      "y1": 176.6,
+                      "x2": 74,
+                      "y2": 112.7
+                    },
+                    {
+                      "t": "point",
+                      "x": 66,
+                      "y": 176.6,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 243.1,
+                      "y": 176.6,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 83.7,
+                      "y": 36,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 154.6,
+                      "y": 98.5,
+                      "label": "X"
+                    },
+                    {
+                      "t": "point",
+                      "x": 74,
+                      "y": 112.7,
+                      "label": "Y"
+                    },
+                    {
+                      "t": "point",
+                      "x": 119.1,
+                      "y": 129.7,
+                      "label": "I"
+                    },
+                    {
+                      "t": "text",
+                      "x": 179.2,
+                      "y": 94.9,
+                      "s": "6 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 56.9,
+                      "y": 98.8,
+                      "s": "4 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 163.3,
+                      "y": 194,
+                      "s": "5 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "PQ = 5.7 cm\nQR = 6.4 cm\nPR = 4.4 cm\n△PQR\nRX ⊥ PQ\nQY ⊥ PR\nRX, QY: altitudes",
-                "q": "5. Construct a triangle PQR in which mPQ = 5.7cm, mQR = 6.4cm and mPR = 4.4 cm, draw the altitudes from vertex R and vertex Q."
+                "q": "5. Construct a triangle PQR in which mPQ = 5.7cm, mQR = 6.4cm and mPR = 4.4 cm, draw the altitudes from vertex R and vertex Q.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          45.2,
+                          194
+                        ],
+                        [
+                          254.8,
+                          194
+                        ],
+                        [
+                          80.3,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 80.3,
+                      "y1": 36,
+                      "x2": 80.3,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 254.8,
+                      "y1": 194,
+                      "x2": 55,
+                      "y2": 149.6
+                    },
+                    {
+                      "t": "point",
+                      "x": 45.2,
+                      "y": 194,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 254.8,
+                      "y": 194,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 80.3,
+                      "y": 36,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 80.3,
+                      "y": 194,
+                      "label": "X"
+                    },
+                    {
+                      "t": "point",
+                      "x": 55,
+                      "y": 149.6,
+                      "label": "Y"
+                    }
+                  ]
+                }
               },
               {
                 "a": "TU = 7 cm\n∠T = 60°\n∠U = 30°\n∠S = 180° − 60° − 30° = 90°\n△STU\nPQ: right bisector of ST\nRS: right bisector of TU\nXY: right bisector of SU\nPQ ∩ RS ∩ XY = O\nO = mid-point of TU\nO = circum-centre\nPQ, RS, XY: concurrent",
-                "q": "6. Construct a triangle STU in which ∠T = 60°, ∠U = 30° and mTU = 7 cm. Find the perpendicular bisectors of the sides of triangle and prove that they are concurrent."
+                "q": "6. Construct a triangle STU in which ∠T = 60°, ∠U = 30° and mTU = 7 cm. Find the perpendicular bisectors of the sides of triangle and prove that they are concurrent.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          103.1,
+                          60.4
+                        ],
+                        [
+                          49.4,
+                          153.3
+                        ],
+                        [
+                          264,
+                          153.3
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 83.7,
+                      "x2": 196.9,
+                      "y2": 176.5
+                    },
+                    {
+                      "t": "line",
+                      "x1": 156.7,
+                      "y1": 46,
+                      "x2": 156.7,
+                      "y2": 184
+                    },
+                    {
+                      "t": "line",
+                      "x1": 196.9,
+                      "y1": 83.7,
+                      "x2": 143.3,
+                      "y2": 176.5
+                    },
+                    {
+                      "t": "point",
+                      "x": 103.1,
+                      "y": 60.4,
+                      "label": "S"
+                    },
+                    {
+                      "t": "point",
+                      "x": 49.4,
+                      "y": 153.3,
+                      "label": "T"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 153.3,
+                      "label": "U"
+                    },
+                    {
+                      "t": "point",
+                      "x": 156.7,
+                      "y": 153.3,
+                      "label": "O"
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 83.7,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 196.9,
+                      "y": 176.5,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 156.7,
+                      "y": 46,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 156.7,
+                      "y": 184,
+                      "label": "S"
+                    },
+                    {
+                      "t": "point",
+                      "x": 196.9,
+                      "y": 83.7,
+                      "label": "X"
+                    },
+                    {
+                      "t": "point",
+                      "x": 143.3,
+                      "y": 176.5,
+                      "label": "Y"
+                    }
+                  ]
+                }
               },
               {
                 "a": "CB = 5 cm\n∠C = 90°\n∠B = 45°\n∠A = 180° − 90° − 45° = 45°\n△ABC\nD, E, F: mid-points of BC, CA, AB\nAD, BE, CF\nAD, BE, CF: medians",
-                "q": "7. Construct a right triangle ABC in which ∠C = 90°, ∠B = 45° and mCB = 5 cm. Draw the medians of the triangle."
+                "q": "7. Construct a right triangle ABC in which ∠C = 90°, ∠B = 45° and mCB = 5 cm. Draw the medians of the triangle.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          71,
+                          36
+                        ],
+                        [
+                          229,
+                          194
+                        ],
+                        [
+                          71,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 229,
+                      "y1": 194,
+                      "x2": 71,
+                      "y2": 115
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 150,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 115,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "a": "(i) YZ = 4.4 cm\n∠Y = 45°\n∠Z = 75°\n∠X = 180° − 45° − 75° = 60°\n△XYZ\n(ii) XY = 4.6 cm\nXZ = 4.6 cm\n∠Y = 60°\n∠Z = 60°\n∠X = 180° − 60° − 60° = 60°\n△XYZ\nD, E, F: mid-points of YZ, ZX, XY\nXD, YE, ZF\nXD ∩ YE ∩ ZF = G\nXD, YE, ZF: concurrent",
-                "q": "8. Construct the following △XYZ. Draw their three medians and show that they are concurrent.\n(i) mYZ=4.4cm, m∠Y = 45° and m∠Z = 75°\n(ii) mXY=4.6cm, mXZ = 4.6cm and m∠Y = 60°"
+                "q": "8. Construct the following △XYZ. Draw their three medians and show that they are concurrent.\n(i) mYZ=4.4cm, m∠Y = 45° and m∠Z = 75°\n(ii) mXY=4.6cm, mXZ = 4.6cm and m∠Y = 60°",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 200,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          108.5,
+                          54.3
+                        ],
+                        [
+                          17,
+                          145.7
+                        ],
+                        [
+                          133,
+                          145.7
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 108.5,
+                      "y1": 54.3,
+                      "x2": 75,
+                      "y2": 145.7
+                    },
+                    {
+                      "t": "line",
+                      "x1": 17,
+                      "y1": 145.7,
+                      "x2": 120.7,
+                      "y2": 100
+                    },
+                    {
+                      "t": "line",
+                      "x1": 133,
+                      "y1": 145.7,
+                      "x2": 62.7,
+                      "y2": 100
+                    },
+                    {
+                      "t": "point",
+                      "x": 108.5,
+                      "y": 54.3,
+                      "label": "X"
+                    },
+                    {
+                      "t": "point",
+                      "x": 17,
+                      "y": 145.7,
+                      "label": "Y"
+                    },
+                    {
+                      "t": "point",
+                      "x": 133,
+                      "y": 145.7,
+                      "label": "Z"
+                    },
+                    {
+                      "t": "text",
+                      "x": 75,
+                      "y": 136.5,
+                      "s": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 128.7,
+                      "y": 100,
+                      "s": "E"
+                    },
+                    {
+                      "t": "text",
+                      "x": 54.8,
+                      "y": 100,
+                      "s": "F"
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          167,
+                          150.2
+                        ],
+                        [
+                          283,
+                          150.2
+                        ],
+                        [
+                          225,
+                          49.8
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 167,
+                      "y1": 150.2,
+                      "x2": 254,
+                      "y2": 100
+                    },
+                    {
+                      "t": "line",
+                      "x1": 283,
+                      "y1": 150.2,
+                      "x2": 196,
+                      "y2": 100
+                    },
+                    {
+                      "t": "line",
+                      "x1": 225,
+                      "y1": 49.8,
+                      "x2": 225,
+                      "y2": 150.2
+                    },
+                    {
+                      "t": "point",
+                      "x": 167,
+                      "y": 150.2,
+                      "label": "X"
+                    },
+                    {
+                      "t": "point",
+                      "x": 283,
+                      "y": 150.2,
+                      "label": "Y"
+                    },
+                    {
+                      "t": "point",
+                      "x": 225,
+                      "y": 49.8,
+                      "label": "Z"
+                    },
+                    {
+                      "t": "text",
+                      "x": 261.6,
+                      "y": 100,
+                      "s": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 188.4,
+                      "y": 100,
+                      "s": "E"
+                    },
+                    {
+                      "t": "text",
+                      "x": 225,
+                      "y": 141.4,
+                      "s": "F"
+                    }
+                  ]
+                }
               },
               {
                 "a": "KL = 4.8 cm\nLM = 5.2 cm\nMK = 4.5 cm\n△KLM\nKP ⊥ LM\nLQ ⊥ MK\nMR ⊥ KL\nKP ∩ LQ ∩ MR = O\nKP, LQ, MR: concurrent",
-                "q": "9. Construct the △KLM, in which mKL =4.8cm, mLM = 5.2cm and mMK=4.5cm, draw their altitudes and verify their concurrency."
+                "q": "9. Construct the △KLM, in which mKL =4.8cm, mLM = 5.2cm and mMK=4.5cm, draw their altitudes and verify their concurrency.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          59.1,
+                          194
+                        ],
+                        [
+                          240.9,
+                          194
+                        ],
+                        [
+                          123.2,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 59.1,
+                      "y1": 194,
+                      "x2": 176,
+                      "y2": 106.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 240.9,
+                      "y1": 194,
+                      "x2": 84.8,
+                      "y2": 130.6
+                    },
+                    {
+                      "t": "line",
+                      "x1": 123.2,
+                      "y1": 36,
+                      "x2": 123.2,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 59.1,
+                      "y": 194,
+                      "label": "K"
+                    },
+                    {
+                      "t": "point",
+                      "x": 240.9,
+                      "y": 194,
+                      "label": "L"
+                    },
+                    {
+                      "t": "point",
+                      "x": 123.2,
+                      "y": 36,
+                      "label": "M"
+                    },
+                    {
+                      "t": "point",
+                      "x": 176,
+                      "y": 106.8,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 84.8,
+                      "y": 130.6,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 123.2,
+                      "y": 194,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 123.2,
+                      "y": 146.2,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "a": "PQ = 7 cm\nQR = 6.5 cm\nPR = 5.8 cm\n△PQR\nLM: right bisector of PQ\nNO: right bisector of QR\nST: right bisector of PR\nLM ∩ NO ∩ ST = O\nLM, NO, ST: concurrent",
-                "q": "10. Construct the △PQR, in which mPQ =7cm, mQR = 6.5cm and mPR =5.8cm, find their perpendicular bisectors and verify their concurrency."
+                "q": "10. Construct the △PQR, in which mPQ =7cm, mQR = 6.5cm and mPR =5.8cm, find their perpendicular bisectors and verify their concurrency.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          53,
+                          175.5
+                        ],
+                        [
+                          247,
+                          175.5
+                        ],
+                        [
+                          133,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 194,
+                      "x2": 150,
+                      "y2": 119.9
+                    },
+                    {
+                      "t": "line",
+                      "x1": 210,
+                      "y1": 89.4,
+                      "x2": 130,
+                      "y2": 154.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 64.4,
+                      "y1": 89.4,
+                      "x2": 178.5,
+                      "y2": 154.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 53,
+                      "y": 175.5,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 247,
+                      "y": 175.5,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 133,
+                      "y": 36,
+                      "label": "R"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 138.4,
+                      "label": "O"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "L"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 119.9,
+                      "label": "M"
+                    },
+                    {
+                      "t": "point",
+                      "x": 210,
+                      "y": 89.4,
+                      "label": "N"
+                    },
+                    {
+                      "t": "point",
+                      "x": 64.4,
+                      "y": 89.4,
+                      "label": "S"
+                    },
+                    {
+                      "t": "point",
+                      "x": 178.5,
+                      "y": 154.8,
+                      "label": "T"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 13.2"
@@ -11727,19 +30496,435 @@ var STUDY = {
             "items": [
               {
                 "a": "ABCD: rectangle, AD = 5 cm, CD = 2.5 cm\narea ABCD = 5 × 2.5 = 12.5 cm²\nAD produced to E, DE = CD = 2.5 cm\nAE = 7.5 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE = 5 × 2.5 = 12.5\nDF = √12.5 cm\nDFQP: square on DF\narea DFQP = 12.5 cm² = area ABCD",
-                "q": "1. Construct a rectangle whose adjacent sides are 2.5 cm and 5 cm respectively. Construct a square having area equal to the given rectangle."
+                "q": "1. Construct a rectangle whose adjacent sides are 2.5 cm and 5 cm respectively. Construct a square having area equal to the given rectangle.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          38.3,
+                          128.6
+                        ],
+                        [
+                          169.1,
+                          128.6
+                        ],
+                        [
+                          169.1,
+                          194
+                        ],
+                        [
+                          38.3,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          169.1,
+                          128.6
+                        ],
+                        [
+                          169.1,
+                          36
+                        ],
+                        [
+                          261.7,
+                          36
+                        ],
+                        [
+                          261.7,
+                          128.6
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 38.3,
+                      "y": 128.6,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 38.3,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.1,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.1,
+                      "y": 128.6,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.1,
+                      "y": 36,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 261.7,
+                      "y": 36,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 261.7,
+                      "y": 128.6,
+                      "label": "P"
+                    },
+                    {
+                      "t": "text",
+                      "x": 103.7,
+                      "y": 116.8,
+                      "s": "5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 180.9,
+                      "y": 161.3,
+                      "s": "2.5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 180.9,
+                      "y": 82.3,
+                      "s": "√12.5 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD: rectangle, AD = 4.5 cm, CD = 2.2 cm\narea ABCD = 4.5 × 2.2 = 9.9 cm²\nAD produced to E, DE = CD = 2.2 cm\nAE = 6.7 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE = 4.5 × 2.2 = 9.9\nDF = √9.9 cm ≈ 3.15 cm\nDFQP: square on DF\narea DFQP = 9.9 cm² = area ABCD\nperimeter DFQP = 4 × 3.15 = 12.6 cm\nperimeter ABCD = 2 × (4.5 + 2.2) = 13.4 cm\n12.6 cm < 13.4 cm",
-                "q": "2. Construct a square equal in area to a rectangle whose adjacent sides are 4.5 cm and 2.2 cm respectively. Measure the sides of the square and find its area and compare with the area of the rectangle. Also verify by measurement that the perimeter of the square is less than that of the rectangle."
+                "q": "2. Construct a square equal in area to a rectangle whose adjacent sides are 4.5 cm and 2.2 cm respectively. Measure the sides of the square and find its area and compare with the area of the rectangle. Also verify by measurement that the perimeter of the square is less than that of the rectangle.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          37,
+                          129
+                        ],
+                        [
+                          169.9,
+                          129
+                        ],
+                        [
+                          169.9,
+                          194
+                        ],
+                        [
+                          37,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          169.9,
+                          129
+                        ],
+                        [
+                          169.9,
+                          36
+                        ],
+                        [
+                          263,
+                          36
+                        ],
+                        [
+                          263,
+                          129
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 37,
+                      "y": 129,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 37,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.9,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.9,
+                      "y": 129,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169.9,
+                      "y": 36,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 263,
+                      "y": 36,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "point",
+                      "x": 263,
+                      "y": 129,
+                      "label": "P"
+                    },
+                    {
+                      "t": "text",
+                      "x": 103.5,
+                      "y": 115.7,
+                      "s": "4.5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 183.2,
+                      "y": 161.5,
+                      "s": "2.2 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 183.2,
+                      "y": 82.4,
+                      "s": "√9.9 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AB = 4 cm\nAC = 3.6 cm\nBC = 3.8 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD = [[1/2]] × BC × PD = area △ABC",
-                "q": "3. Construct a triangle having base 4 cm and other two sides equal to 3.6cm and 3.8 cm each. Transform it into a rectangle with equal Area."
+                "q": "3. Construct a triangle having base 4 cm and other two sides equal to 3.6cm and 3.8 cm each. Transform it into a rectangle with equal Area.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          82.2,
+                          170.3
+                        ],
+                        [
+                          255,
+                          170.3
+                        ],
+                        [
+                          160.6,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          160.6,
+                          36
+                        ],
+                        [
+                          207.8,
+                          103.1
+                        ],
+                        [
+                          92.2,
+                          184.4
+                        ],
+                        [
+                          45,
+                          117.3
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 82.2,
+                      "y": 170.3,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 255,
+                      "y": 170.3,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 160.6,
+                      "y": 36,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 207.8,
+                      "y": 103.1,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 92.2,
+                      "y": 184.4,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 45,
+                      "y": 117.3,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "text",
+                      "x": 170,
+                      "y": 194,
+                      "s": "4 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 100.2,
+                      "y": 92.5,
+                      "s": "3.6 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 228.8,
+                      "y": 91.9,
+                      "s": "3.8 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AB = 6 cm\nAC = 5 cm\nBC = 6 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD = [[1/2]] × BC × PD = area △ABC",
-                "q": "4. Construct a triangle having base 6cm and other sides equal to 5cm and 6cm each. Construct a rectangle equal in area to given △."
+                "q": "4. Construct a triangle having base 6cm and other sides equal to 5cm and 6cm each. Construct a rectangle equal in area to given △.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          80,
+                          173.1
+                        ],
+                        [
+                          261,
+                          173.1
+                        ],
+                        [
+                          142.9,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          142.9,
+                          36
+                        ],
+                        [
+                          201.9,
+                          104.5
+                        ],
+                        [
+                          98.1,
+                          194
+                        ],
+                        [
+                          39,
+                          125.5
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 80,
+                      "y": 173.1,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 261,
+                      "y": 173.1,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 142.9,
+                      "y": 36,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 201.9,
+                      "y": 104.5,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 98.1,
+                      "y": 194,
+                      "label": "P"
+                    },
+                    {
+                      "t": "point",
+                      "x": 39,
+                      "y": 125.5,
+                      "label": "Q"
+                    },
+                    {
+                      "t": "text",
+                      "x": 173.8,
+                      "y": 189.3,
+                      "s": "6 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 96.4,
+                      "y": 97.6,
+                      "s": "5 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 216.4,
+                      "y": 96.4,
+                      "s": "6 cm"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 13.3"
@@ -11768,35 +30953,640 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) DC: common base\nAL: common altitude\n▱ABCD = ▱EFCD\n(ii) ▱EFCD = DC × FC\nFC = AL\n▱ABCD = DC × AL",
-                "q": "1. In the given figure, ABCD is a parallelogram and EFCD is a rectangle, also AL ⊥ DC. Prove that\n(i) ▱ABCD = ▱EFCD\n(ii) ▱ABCD = mDC × mAL."
+                "q": "1. In the given figure, ABCD is a parallelogram and EFCD is a rectangle, also AL ⊥ DC. Prove that\n(i) ▱ABCD = ▱EFCD\n(ii) ▱ABCD = mDC × mAL.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          50,
+                          40
+                        ],
+                        [
+                          190,
+                          40
+                        ],
+                        [
+                          190,
+                          160
+                        ],
+                        [
+                          50,
+                          160
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          120,
+                          40
+                        ],
+                        [
+                          260,
+                          40
+                        ],
+                        [
+                          190,
+                          160
+                        ],
+                        [
+                          50,
+                          160
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 120,
+                      "y1": 40,
+                      "x2": 120,
+                      "y2": 160
+                    },
+                    {
+                      "t": "line",
+                      "x1": 120,
+                      "y1": 40,
+                      "x2": 50,
+                      "y2": 160
+                    },
+                    {
+                      "t": "point",
+                      "x": 120,
+                      "y": 40,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 260,
+                      "y": 40,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 190,
+                      "y": 40,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 50,
+                      "y": 40,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 190,
+                      "y": 160,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 50,
+                      "y": 160,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 120,
+                      "y": 160,
+                      "label": "L"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AC ∩ BD = O\n△OAB = △OBC = △OCD = △ODA\n△OAB = △OBC\nOA = OC\n△OAB = △ODA\nOB = OD\nAC, BD: bisect each other\nABCD: parallelogram",
-                "q": "2. In the given figure, if the diagonals of a quadrilateral separate it into four triangles of equal area, show that it is a parallelogram."
+                "q": "2. In the given figure, if the diagonals of a quadrilateral separate it into four triangles of equal area, show that it is a parallelogram.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          60,
+                          170
+                        ],
+                        [
+                          240,
+                          170
+                        ],
+                        [
+                          220,
+                          50
+                        ],
+                        [
+                          80,
+                          50
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 60,
+                      "y1": 170,
+                      "x2": 220,
+                      "y2": 50
+                    },
+                    {
+                      "t": "line",
+                      "x1": 240,
+                      "y1": 170,
+                      "x2": 80,
+                      "y2": 50
+                    },
+                    {
+                      "t": "point",
+                      "x": 60,
+                      "y": 170,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 240,
+                      "y": 170,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 220,
+                      "y": 50,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 80,
+                      "y": 50,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 110,
+                      "label": "O"
+                    }
+                  ]
+                }
               },
               {
                 "a": "AB² + BC² = AC²\nAB² = 11² − 7² = 121 − 49 = 72\nAB = √72 = 6√2 cm\narea △ABC = [[1/2]] × 7 × 6√2 = 21√2 cm²\n△ABC = △BCD\narea △BCD = 21√2 cm²",
-                "q": "3. In the given figure BC ∥ AD. ABC is a right-angled at vertex B with mBC = 7 cm and mAC = 11 cm, also △ABC and △BCD are on the same base BC. Find the area of △BCD."
+                "q": "3. In the given figure BC ∥ AD. ABC is a right-angled at vertex B with mBC = 7 cm and mAC = 11 cm, also △ABC and △BCD are on the same base BC. Find the area of △BCD.",
+                "dq": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          60,
+                          50
+                        ],
+                        [
+                          220,
+                          50
+                        ],
+                        [
+                          220,
+                          190
+                        ],
+                        [
+                          60,
+                          190
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 60,
+                      "y1": 50,
+                      "x2": 220,
+                      "y2": 190
+                    },
+                    {
+                      "t": "line",
+                      "x1": 220,
+                      "y1": 50,
+                      "x2": 60,
+                      "y2": 190
+                    },
+                    {
+                      "t": "point",
+                      "x": 60,
+                      "y": 50,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 220,
+                      "y": 50,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 60,
+                      "y": 190,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 220,
+                      "y": 190,
+                      "label": "C"
+                    },
+                    {
+                      "t": "text",
+                      "x": 140,
+                      "y": 100,
+                      "s": "11 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 140,
+                      "y": 205,
+                      "s": "7 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△ABC, AD: median\nD: mid-point of BC\nBD = DC\n△ABD, △ACD: same altitude from A\narea △ABD = [[1/2]] × BD × h\narea △ACD = [[1/2]] × DC × h\nBD = DC\n△ABD = △ACD",
-                "q": "4. Show that a median of a triangle divides it into two triangles of equal area."
+                "q": "4. Show that a median of a triangle divides it into two triangles of equal area.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD: rectangle\nE, F: mid-points of AB, CD\nAE = EB\nDF = FC\nAEFD: rectangle\nEBCF: rectangle\nAEFD = EBCF",
-                "q": "5. Show that the line segment joining the mid-points of the opposite sides of a rectangle, divides it into two equal rectangles."
+                "q": "5. Show that the line segment joining the mid-points of the opposite sides of a rectangle, divides it into two equal rectangles.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          46.6
+                        ],
+                        [
+                          264,
+                          46.6
+                        ],
+                        [
+                          264,
+                          183.4
+                        ],
+                        [
+                          36,
+                          183.4
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 46.6,
+                      "x2": 150,
+                      "y2": 183.4
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 46.6,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 46.6,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 183.4,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 183.4,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 46.6,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 183.4,
+                      "label": "F"
+                    }
+                  ]
+                }
               },
               {
                 "a": "▱ABCD, ▱EFGH\n▱ABCD = ▱EFGH\nBC = FG\narea ▱ABCD = BC × h₁\narea ▱EFGH = FG × h₂\nBC × h₁ = FG × h₂\nBC = FG\nh₁ = h₂",
-                "q": "6. If two parallelograms of equal areas have the same or equal bases, their altitudes are equal."
+                "q": "6. If two parallelograms of equal areas have the same or equal bases, their altitudes are equal.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          138.8
+                        ],
+                        [
+                          112,
+                          138.8
+                        ],
+                        [
+                          131,
+                          91.2
+                        ],
+                        [
+                          55,
+                          91.2
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          169,
+                          138.8
+                        ],
+                        [
+                          245,
+                          138.8
+                        ],
+                        [
+                          264,
+                          91.2
+                        ],
+                        [
+                          188,
+                          91.2
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 138.8,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 112,
+                      "y": 138.8,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 131,
+                      "y": 91.2,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 55,
+                      "y": 91.2,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 169,
+                      "y": 138.8,
+                      "label": "E"
+                    },
+                    {
+                      "t": "point",
+                      "x": 245,
+                      "y": 138.8,
+                      "label": "F"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 91.2,
+                      "label": "G"
+                    },
+                    {
+                      "t": "point",
+                      "x": 188,
+                      "y": 91.2,
+                      "label": "H"
+                    }
+                  ]
+                }
               },
               {
                 "a": "△ABC: equilateral\nAB = AC\nAD: bisector of ∠A\nD: mid-point of BC\nBD = DC\n△ABD, △ACD: same altitude from A\n△ABD = △ACD",
-                "q": "7. Show that an angle bisector of an equilateral triangle divides it into two triangles of equal areas."
+                "q": "7. Show that an angle bisector of an equilateral triangle divides it into two triangles of equal areas.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          58.7,
+                          194
+                        ],
+                        [
+                          241.3,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 58.7,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 241.3,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    }
+                  ]
+                }
               },
               {
                 "a": "ABCD: rhombus\nAC ∩ BD = O\nOA = OC\nOB = OD\n∠AOB = ∠BOC = ∠COD = ∠DOA = 90°\n△AOB ≅ △BOC ≅ △COD ≅ △DOA\n△AOB = △BOC = △COD = △DOA",
-                "q": "8. Prove that a rhombus is divided by its diagonals into four triangles of equal areas."
+                "q": "8. Prove that a rhombus is divided by its diagonals into four triangles of equal areas.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          186.2
+                        ],
+                        [
+                          207,
+                          186.2
+                        ],
+                        [
+                          264,
+                          43.8
+                        ],
+                        [
+                          93,
+                          43.8
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 36,
+                      "y1": 186.2,
+                      "x2": 264,
+                      "y2": 43.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 207,
+                      "y1": 186.2,
+                      "x2": 93,
+                      "y2": 43.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 186.2,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 207,
+                      "y": 186.2,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 43.8,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 93,
+                      "y": 43.8,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 115,
+                      "label": "O"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 14.1"
@@ -11825,15 +31615,243 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 cm\nmAD = mAC + mCD = 3 + 3 = 6 cm\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 cm\narea △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 3 × 3√3 = [[9√3/2]] cm²\n(ii) mCD = mBC cos(180° − 120°) = 80 × [[1/2]] = 40 mm\nmAD = mAC + mCD = 40 + 40 = 80 mm\nmBD² = mBC² − mCD² = 6400 − 1600 = 4800\nmAB² = mAD² + mBD² = 6400 + 4800 = 11200\nmAB = √11200 = 40√7 mm = 4√7 cm\narea △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 40 × 40√3 = 800√3 mm² = 8√3 cm²",
-                "q": "1. Find the length of AB and area of the triangle ABC, when\n(i) mAC = 3cm, mBC = 6 cm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\n(ii) mAC = 40 mm, mBC = 80 mm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\nHint: (mBC)² = (mAC)² + (mAB)² + 2(mAB)(mAD)"
+                "q": "1. Find the length of AB and area of the triangle ABC, when\n(i) mAC = 3cm, mBC = 6 cm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\n(ii) mAC = 40 mm, mBC = 80 mm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\nHint: (mBC)² = (mAC)² + (mAB)² + 2(mAB)(mAD)",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          57.5,
+                          184
+                        ],
+                        [
+                          228.3,
+                          36
+                        ],
+                        [
+                          142.9,
+                          184
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 228.3,
+                      "y1": 36,
+                      "x2": 228.3,
+                      "y2": 184
+                    },
+                    {
+                      "t": "line",
+                      "x1": 142.9,
+                      "y1": 184,
+                      "x2": 228.3,
+                      "y2": 184
+                    },
+                    {
+                      "t": "point",
+                      "x": 57.5,
+                      "y": 184,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 228.3,
+                      "y": 36,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 142.9,
+                      "y": 184,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 228.3,
+                      "y": 184,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 100.2,
+                      "y": 194,
+                      "s": "3 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 185.6,
+                      "y": 194,
+                      "s": "3 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 242.5,
+                      "y": 110,
+                      "s": "6 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "mCD = mBC cos(180° − 135°) = 6 × [[√2/2]] = 3√2 cm\nmBD = mCD = 3√2 cm\nmAD = mAB + mBD = 4√2 + 3√2 = 7√2 cm\nmAC² = mAD² + mCD² = 98 + 18 = 116\nmAC = √116 cm\narea △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 4√2 × 3√2 = 12 cm²",
-                "q": "2. Find the length of mAC in the △ABC when mBC = 6cm, mAB = 4√2 cm and m∠ABC = 135°. If possible, find the area of the △ABC."
+                "q": "2. Find the length of mAC in the △ABC when mBC = 6cm, mAB = 4√2 cm and m∠ABC = 135°. If possible, find the area of the △ABC.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          157.8
+                        ],
+                        [
+                          160.7,
+                          157.8
+                        ],
+                        [
+                          254.1,
+                          64.4
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 254.1,
+                      "y1": 64.4,
+                      "x2": 254.1,
+                      "y2": 157.8
+                    },
+                    {
+                      "t": "line",
+                      "x1": 160.7,
+                      "y1": 157.8,
+                      "x2": 254.1,
+                      "y2": 157.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 157.8,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 160.7,
+                      "y": 157.8,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 254.1,
+                      "y": 64.4,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 254.1,
+                      "y": 157.8,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 98.3,
+                      "y": 165.6,
+                      "s": "4√2 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 264,
+                      "y": 111.1,
+                      "s": "6 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "mCD = mBC cos(180° − 135°) = 6√2 × [[√2/2]] = 6 cm\nmBD = mCD = 6 cm\nmAD = mAB + mBD = 8 + 6 = 14 cm\nmAC² = mAD² + mCD² = 196 + 36 = 232\nmAC = √232 cm\narea △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 8 × 6 = 24 cm²",
-                "q": "3. Find the length of mAC in the △ABC when mBC = 6√2 cm, mAB = 8 cm and m∠ABC = 135°. If possible, find the area of the △ABC."
+                "q": "3. Find the length of mAC in the △ABC when mBC = 6√2 cm, mAB = 8 cm and m∠ABC = 135°. If possible, find the area of the △ABC.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          159.3
+                        ],
+                        [
+                          161.4,
+                          159.3
+                        ],
+                        [
+                          255.4,
+                          65.2
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 255.4,
+                      "y1": 65.2,
+                      "x2": 255.4,
+                      "y2": 159.3
+                    },
+                    {
+                      "t": "line",
+                      "x1": 161.4,
+                      "y1": 159.3,
+                      "x2": 255.4,
+                      "y2": 159.3
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 159.3,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 161.4,
+                      "y": 159.3,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 255.4,
+                      "y": 65.2,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 255.4,
+                      "y": 159.3,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 98.7,
+                      "y": 164.8,
+                      "s": "8 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 264,
+                      "y": 112.3,
+                      "s": "6√2 cm"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 15.1"
@@ -11842,19 +31860,254 @@ var STUDY = {
             "items": [
               {
                 "a": "mAD = mAC cos30° = mAC × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAC) × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)",
-                "q": "1. In △ABC, m∠A = 30°, prove that (mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)."
+                "q": "1. In △ABC, m∠A = 30°, prove that (mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC).",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          36,
+                          157.8
+                        ],
+                        [
+                          264,
+                          157.8
+                        ],
+                        [
+                          184.2,
+                          72.2
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 184.2,
+                      "y1": 72.2,
+                      "x2": 184.2,
+                      "y2": 157.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 157.8,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 157.8,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 184.2,
+                      "y": 72.2,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 184.2,
+                      "y": 157.8,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 67.3,
+                      "y": 141.8,
+                      "s": "30°"
+                    }
+                  ]
+                }
               },
               {
                 "a": "mAD = mAC cos60° = 5 × [[1/2]] = 2.5 cm\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = 25 + 36 − 2 × 6 × 2.5 = 61 − 30 = 31\nmBC = √31 cm",
-                "q": "2. In a △ABC, calculate mBC when mAB = 6cm, mAC = 5cm, and m∠A = 60°"
+                "q": "2. In a △ABC, calculate mBC when mAB = 6cm, mAC = 5cm, and m∠A = 60°",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          48.7,
+                          182.2
+                        ],
+                        [
+                          251.3,
+                          182.2
+                        ],
+                        [
+                          133.1,
+                          36
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 133.1,
+                      "y1": 36,
+                      "x2": 133.1,
+                      "y2": 182.2
+                    },
+                    {
+                      "t": "point",
+                      "x": 48.7,
+                      "y": 182.2,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 251.3,
+                      "y": 182.2,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 133.1,
+                      "y": 36,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 133.1,
+                      "y": 182.2,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 67.3,
+                      "y": 172.7,
+                      "s": "60°"
+                    },
+                    {
+                      "t": "text",
+                      "x": 150,
+                      "y": 194,
+                      "s": "6 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 82.5,
+                      "y": 101.2,
+                      "s": "5 cm"
+                    }
+                  ]
+                }
               },
               {
                 "a": "3² + 4² = 9 + 16 = 25\n5² = 25\n3² + 4² = 5²\nright angled triangle",
-                "q": "3. Whether the triangle with sides 3cm, 4cm and 5cm is acute, obtuse or right angled."
+                "q": "3. Whether the triangle with sides 3cm, 4cm and 5cm is acute, obtuse or right angled.",
+                "da": {
+                  "type": "triangle",
+                  "pts": [
+                    [
+                      0,
+                      0
+                    ],
+                    [
+                      3,
+                      0
+                    ],
+                    [
+                      3,
+                      4
+                    ]
+                  ],
+                  "labels": [
+                    "A",
+                    "B",
+                    "C"
+                  ],
+                  "sideLabels": {
+                    "AB": "3 cm",
+                    "BC": "4 cm",
+                    "CA": "5 cm"
+                  },
+                  "right": "B"
+                }
               },
               {
                 "a": "mBD = [[mBC/2]] = 3 cm\n(mAB)² + (mAC)² = 2(mBD)² + 2(mAD)²\n16 + 9 = 2 × 9 + 2(mAD)²\n25 = 18 + 2(mAD)²\n2(mAD)² = 7\n(mAD)² = [[7/2]]\nmAD = √[[7/2]] cm",
-                "q": "4. Find the length of the median of side BC of a △ABC where mAB = 4cm, mAC = 3cm and mBC = 6cm."
+                "q": "4. Find the length of the median of side BC of a △ABC where mAB = 4cm, mAC = 3cm and mBC = 6cm.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          94.3,
+                          164.3
+                        ],
+                        [
+                          264,
+                          164.3
+                        ],
+                        [
+                          36,
+                          51.2
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 94.3,
+                      "y1": 164.3,
+                      "x2": 150,
+                      "y2": 107.8
+                    },
+                    {
+                      "t": "point",
+                      "x": 94.3,
+                      "y": 164.3,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 264,
+                      "y": 164.3,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 36,
+                      "y": 51.2,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 107.8,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 197.5,
+                      "y": 178.8,
+                      "s": "4 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 42.7,
+                      "y": 101.4,
+                      "s": "3 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 166.4,
+                      "y": 91.1,
+                      "s": "6 cm"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 15.2"
@@ -11867,7 +32120,87 @@ var STUDY = {
               },
               {
                 "a": "mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 cm\nmAD = mAC + mCD = 3 + 3 = 6 cm\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 cm",
-                "q": "2. In △ABC, mAC = 3cm, mBC = 6cm and m∠C = 120°. Compute mAB"
+                "q": "2. In △ABC, mAC = 3cm, mBC = 6cm and m∠C = 120°. Compute mAB",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          57.5,
+                          184
+                        ],
+                        [
+                          228.3,
+                          36
+                        ],
+                        [
+                          142.9,
+                          184
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 228.3,
+                      "y1": 36,
+                      "x2": 228.3,
+                      "y2": 184
+                    },
+                    {
+                      "t": "line",
+                      "x1": 142.9,
+                      "y1": 184,
+                      "x2": 228.3,
+                      "y2": 184
+                    },
+                    {
+                      "t": "point",
+                      "x": 57.5,
+                      "y": 184,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 228.3,
+                      "y": 36,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 142.9,
+                      "y": 184,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 228.3,
+                      "y": 184,
+                      "label": "D"
+                    },
+                    {
+                      "t": "text",
+                      "x": 100.2,
+                      "y": 194,
+                      "s": "3 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 185.6,
+                      "y": 194,
+                      "s": "3 cm"
+                    },
+                    {
+                      "t": "text",
+                      "x": 242.5,
+                      "y": 110,
+                      "s": "6 cm"
+                    }
+                  ]
+                }
               }
             ],
             "label": "Review Exercise"
@@ -11883,15 +32216,229 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) d = √((6 − (−4))² + (6 − 5)²) = √(100 + 1) = √101\n(ii) d = √((2 − 2)² + (3 − 2)²) = √(0 + 1) = 1\n(iii) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2\n(iv) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2",
-                "q": "1. Using distance formula find the distance between the following pairs of points.\n(i) (−4,5) and (6,6) (ii) (2,2) and (2,3)\n(iii) (0,1) and (2,3) (iv) (0,1) and (2,3)"
+                "q": "1. Using distance formula find the distance between the following pairs of points.\n(i) (−4,5) and (6,6) (ii) (2,2) and (2,3)\n(iii) (0,1) and (2,3) (iv) (0,1) and (2,3)",
+                "da": {
+                  "type": "points",
+                  "x": [
+                    -5,
+                    7
+                  ],
+                  "y": [
+                    0,
+                    7
+                  ],
+                  "points": [
+                    [
+                      -4,
+                      5,
+                      "(-4,5)"
+                    ],
+                    [
+                      6,
+                      6,
+                      "(6,6)"
+                    ],
+                    [
+                      2,
+                      2,
+                      "(2,2)"
+                    ],
+                    [
+                      2,
+                      3,
+                      "(2,3)"
+                    ],
+                    [
+                      0,
+                      1,
+                      "(0,1)"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "|AB| = √(a² + b²)\n(i) |AB| = √((−3)² + (−4)²) = √(9 + 16) = √25 = 5\n(ii) |AB| = √((−9)² + 6²) = √(81 + 36) = √117\n(iii) |AB| = √(3² + 4²) = √(9 + 16) = √25 = 5\n(iv) |AB| = √((√2)² + (−2√2)²) = √(2 + 8) = √10",
-                "q": "2. A(a,0) and B(0,b) be the points on the axes, find the distance between A and B, when\n(i) a = −3, b = −4 (ii) a = −9, b = 6\n(iii) a = 3, b = 4 (iv) a = √2, b = −2√2"
+                "q": "2. A(a,0) and B(0,b) be the points on the axes, find the distance between A and B, when\n(i) a = −3, b = −4 (ii) a = −9, b = 6\n(iii) a = 3, b = 4 (iv) a = √2, b = −2√2",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -10,
+                    4
+                  ],
+                  "y": [
+                    -5,
+                    7
+                  ],
+                  "points": [
+                    [
+                      -3,
+                      0,
+                      "A1"
+                    ],
+                    [
+                      0,
+                      -4,
+                      "B1"
+                    ],
+                    [
+                      -9,
+                      0,
+                      "A2"
+                    ],
+                    [
+                      0,
+                      6,
+                      "B2"
+                    ],
+                    [
+                      3,
+                      0,
+                      "A3"
+                    ],
+                    [
+                      0,
+                      4,
+                      "B3"
+                    ],
+                    [
+                      1.41,
+                      0,
+                      "A4"
+                    ],
+                    [
+                      0,
+                      -2.83,
+                      "B4"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          -3,
+                          0
+                        ],
+                        [
+                          0,
+                          -4
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          -9,
+                          0
+                        ],
+                        [
+                          0,
+                          6
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          3,
+                          0
+                        ],
+                        [
+                          0,
+                          4
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          1.41,
+                          0
+                        ],
+                        [
+                          0,
+                          -2.83
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB| = √((4 − 0)² + (0 − 0)²) = 4\n|BC| = √((2 − 4)² + (2√3 − 0)²) = √(4 + 12) = 4\n|AC| = √((2 − 0)² + (2√3 − 0)²) = √(4 + 12) = 4\nP = 4 + 4 + 4 = 12",
-                "q": "3. Find the perimeter of the triangle formed by the points. A(0,0), B(4,0) and C(2,2√3)."
+                "q": "3. Find the perimeter of the triangle formed by the points. A(0,0), B(4,0) and C(2,2√3).",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -1,
+                    5
+                  ],
+                  "y": [
+                    -1,
+                    4.5
+                  ],
+                  "points": [
+                    [
+                      0,
+                      0,
+                      "A"
+                    ],
+                    [
+                      4,
+                      0,
+                      "B"
+                    ],
+                    [
+                      2,
+                      3.46,
+                      "C"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          0,
+                          0
+                        ],
+                        [
+                          4,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          4,
+                          0
+                        ],
+                        [
+                          2,
+                          3.46
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          2,
+                          3.46
+                        ],
+                        [
+                          0,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 16.1"
@@ -11900,47 +32447,901 @@ var STUDY = {
             "items": [
               {
                 "a": "|PQ| = √((2 + 3)² + (6 + 4)²) = √(25 + 100) = √125 = 5√5\n|QR| = √((0 − 2)² + (2 − 6)²) = √(4 + 16) = √20 = 2√5\n|PR| = √((0 + 3)² + (2 + 4)²) = √(9 + 36) = √45 = 3√5\n|PR| + |QR| = 3√5 + 2√5 = 5√5 = |PQ|\nP, Q, R: collinear",
-                "q": "1. Show that the points P (−3, −4), Q (2, 6) and R (0, 2) are collinear."
+                "q": "1. Show that the points P (−3, −4), Q (2, 6) and R (0, 2) are collinear.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -4,
+                    3
+                  ],
+                  "y": [
+                    -5,
+                    7
+                  ],
+                  "points": [
+                    [
+                      -3,
+                      -4,
+                      "P"
+                    ],
+                    [
+                      2,
+                      6,
+                      "Q"
+                    ],
+                    [
+                      0,
+                      2,
+                      "R"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "m": 2,
+                      "c": 2,
+                      "label": "y = 2x + 2"
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB| = 2\n|BC| = √((0 − 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AC| = √((0 + 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AB| + |BC| = 4 ≠ |AC|\n|AB| + |AC| = 4 ≠ |BC|\n|BC| + |AC| = 4 ≠ |AB|\nA, B, C: non-collinear",
-                "q": "2. Show that the points A (−1, 0), B (1, 0) and C (0, √3) are not collinear."
+                "q": "2. Show that the points A (−1, 0), B (1, 0) and C (0, √3) are not collinear.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -2,
+                    2
+                  ],
+                  "y": [
+                    -1,
+                    2.5
+                  ],
+                  "points": [
+                    [
+                      -1,
+                      0,
+                      "A"
+                    ],
+                    [
+                      1,
+                      0,
+                      "B"
+                    ],
+                    [
+                      0,
+                      1.73,
+                      "C"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          -1,
+                          0
+                        ],
+                        [
+                          1,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          1,
+                          0
+                        ],
+                        [
+                          0,
+                          1.73
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          1.73
+                        ],
+                        [
+                          -1,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|LM| = √((−1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|MN| = 2\n|LN| = √((1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|LM| = |MN| = |LN| = 2\nL, M, N: equilateral triangle",
-                "q": "3. Show that L (0, √3), M (−1, 0) and N (1, 0) form an equilateral triangle."
+                "q": "3. Show that L (0, √3), M (−1, 0) and N (1, 0) form an equilateral triangle.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -2,
+                    2
+                  ],
+                  "y": [
+                    -1,
+                    2.5
+                  ],
+                  "points": [
+                    [
+                      0,
+                      1.73,
+                      "L"
+                    ],
+                    [
+                      -1,
+                      0,
+                      "M"
+                    ],
+                    [
+                      1,
+                      0,
+                      "N"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          0,
+                          1.73
+                        ],
+                        [
+                          -1,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          -1,
+                          0
+                        ],
+                        [
+                          1,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          1,
+                          0
+                        ],
+                        [
+                          0,
+                          1.73
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB| = √((8 − 2)² + (11 − 3)²) = √(36 + 64) = 10\n|BC| = √((0 − 8)² + (17 − 11)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|AB| = |BC| = 10\nA, B, C: isosceles triangle",
-                "q": "4. Whether or not the points A (2, 3), B (8, 11) and C (0, 17) form an isosceles triangle."
+                "q": "4. Whether or not the points A (2, 3), B (8, 11) and C (0, 17) form an isosceles triangle.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -1,
+                    9
+                  ],
+                  "y": [
+                    2,
+                    18
+                  ],
+                  "points": [
+                    [
+                      2,
+                      3,
+                      "A"
+                    ],
+                    [
+                      8,
+                      11,
+                      "B"
+                    ],
+                    [
+                      0,
+                      17,
+                      "C"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          2,
+                          3
+                        ],
+                        [
+                          8,
+                          11
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          8,
+                          11
+                        ],
+                        [
+                          0,
+                          17
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          17
+                        ],
+                        [
+                          2,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB|² = (7 + 1)² + (5 − 2)² = 64 + 9 = 73\n|BC|² = (2 − 7)² + (−6 − 5)² = 25 + 121 = 146\n|AC|² = (2 + 1)² + (−6 − 2)² = 9 + 64 = 73\n|AB|² + |AC|² = 73 + 73 = 146 = |BC|²\nA, B, C: right angled triangle",
-                "q": "5. Do the points A (−1, 2), B (7, 5) and C (2, −6) form a right angled triangle."
+                "q": "5. Do the points A (−1, 2), B (7, 5) and C (2, −6) form a right angled triangle.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -2,
+                    8
+                  ],
+                  "y": [
+                    -7,
+                    6
+                  ],
+                  "points": [
+                    [
+                      -1,
+                      2,
+                      "A"
+                    ],
+                    [
+                      7,
+                      5,
+                      "B"
+                    ],
+                    [
+                      2,
+                      -6,
+                      "C"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          -1,
+                          2
+                        ],
+                        [
+                          7,
+                          5
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          7,
+                          5
+                        ],
+                        [
+                          2,
+                          -6
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          2,
+                          -6
+                        ],
+                        [
+                          -1,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB| = 6\n|AC|² = (6 − 3)² + (k − 1)² = 9 + (k − 1)²\n|AC| = 6\n9 + (k − 1)² = 36\n(k − 1)² = 27\nk − 1 = ±3√3\nk = 1 ± 3√3",
-                "q": "6. If the points A (3, 1), B (9, 1) and C (6, k) determine an equilateral triangle, find the values of k."
+                "q": "6. If the points A (3, 1), B (9, 1) and C (6, k) determine an equilateral triangle, find the values of k.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    2,
+                    10
+                  ],
+                  "y": [
+                    -5,
+                    7
+                  ],
+                  "points": [
+                    [
+                      3,
+                      1,
+                      "A"
+                    ],
+                    [
+                      9,
+                      1,
+                      "B"
+                    ],
+                    [
+                      6,
+                      6.2,
+                      "C1"
+                    ],
+                    [
+                      6,
+                      -4.2,
+                      "C2"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          3,
+                          1
+                        ],
+                        [
+                          9,
+                          1
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          9,
+                          1
+                        ],
+                        [
+                          6,
+                          6.2
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          6,
+                          6.2
+                        ],
+                        [
+                          3,
+                          1
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          9,
+                          1
+                        ],
+                        [
+                          6,
+                          -4.2
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          6,
+                          -4.2
+                        ],
+                        [
+                          3,
+                          1
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|PQ| = √((3 − 1)² + (4 − 2)²) = √(4 + 4) = √8 = 2√2\n|QR| = √((0 − 3)² + (−1 − 4)²) = √(9 + 25) = √34\n|PR| = √((0 − 1)² + (−1 − 2)²) = √(1 + 9) = √10\n|PQ| ≠ |QR| ≠ |PR|\nP, Q, R: scalene triangle",
-                "q": "7. Show that the points P (1, 2), Q (3, 4) and R (0, −1) are the vertices of a scalene triangle."
+                "q": "7. Show that the points P (1, 2), Q (3, 4) and R (0, −1) are the vertices of a scalene triangle.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -1,
+                    4
+                  ],
+                  "y": [
+                    -2,
+                    5
+                  ],
+                  "points": [
+                    [
+                      1,
+                      2,
+                      "P"
+                    ],
+                    [
+                      3,
+                      4,
+                      "Q"
+                    ],
+                    [
+                      0,
+                      -1,
+                      "R"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          1,
+                          2
+                        ],
+                        [
+                          3,
+                          4
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          3,
+                          4
+                        ],
+                        [
+                          0,
+                          -1
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          -1
+                        ],
+                        [
+                          1,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB| = 10\n|BC| = 10\n|CD| = √((−6 − 0)² + (9 − 17)²) = √(36 + 64) = 10\n|DA| = √((2 + 6)² + (3 − 9)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|BD| = √((−6 − 8)² + (9 − 11)²) = √(196 + 4) = √200 = 10√2\n|AB| = |BC| = |CD| = |DA| = 10\n|AC| = |BD| = 10√2\nA, B, C, D: square",
-                "q": "8. Show that the points A (2, 3), B (8, 11), C (0, 17) and D (−6, 9) are vertices of a square."
+                "q": "8. Show that the points A (2, 3), B (8, 11), C (0, 17) and D (−6, 9) are vertices of a square.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -7,
+                    9
+                  ],
+                  "y": [
+                    2,
+                    18
+                  ],
+                  "points": [
+                    [
+                      2,
+                      3,
+                      "A"
+                    ],
+                    [
+                      8,
+                      11,
+                      "B"
+                    ],
+                    [
+                      0,
+                      17,
+                      "C"
+                    ],
+                    [
+                      -6,
+                      9,
+                      "D"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          2,
+                          3
+                        ],
+                        [
+                          8,
+                          11
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          8,
+                          11
+                        ],
+                        [
+                          0,
+                          17
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          17
+                        ],
+                        [
+                          -6,
+                          9
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          -6,
+                          9
+                        ],
+                        [
+                          2,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB| = √((0 + 2)² + (−3 − 0)²) = √(4 + 9) = √13\n|BC| = √((2 − 0)² + (0 + 3)²) = √(4 + 9) = √13\n|CD| = √((0 − 2)² + (3 − 0)²) = √(4 + 9) = √13\n|DA| = √((−2 − 0)² + (0 − 3)²) = √(4 + 9) = √13\n|AC| = 4\n|BD| = 6\n|AC| ≠ |BD|\nA, B, C, D: rhombus, not a square",
-                "q": "9. Explain why the points A (−2, 0), B (0, −3), C (2, 0) and D (0, 3) do determine a square?"
+                "q": "9. Explain why the points A (−2, 0), B (0, −3), C (2, 0) and D (0, 3) do determine a square?",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -3,
+                    3
+                  ],
+                  "y": [
+                    -4,
+                    4
+                  ],
+                  "points": [
+                    [
+                      -2,
+                      0,
+                      "A"
+                    ],
+                    [
+                      0,
+                      -3,
+                      "B"
+                    ],
+                    [
+                      2,
+                      0,
+                      "C"
+                    ],
+                    [
+                      0,
+                      3,
+                      "D"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          -2,
+                          0
+                        ],
+                        [
+                          0,
+                          -3
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          -3
+                        ],
+                        [
+                          2,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          2,
+                          0
+                        ],
+                        [
+                          0,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          3
+                        ],
+                        [
+                          -2,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|AB| = √((4 − 3)² + (1 − 2)²) = √(1 + 1) = √2\n|BC| = √((5 − 4)² + (4 − 1)²) = √(1 + 9) = √10\n|CD| = √((6 − 5)² + (3 − 4)²) = √(1 + 1) = √2\n|DA| = √((3 − 6)² + (2 − 3)²) = √(9 + 1) = √10\n|AC| = √((5 − 3)² + (4 − 2)²) = √(4 + 4) = 2√2\n|BD| = √((6 − 4)² + (3 − 1)²) = √(4 + 4) = 2√2\n|AB| = |CD| = √2\n|BC| = |DA| = √10\n|AC| = |BD| = 2√2\nA, B, C, D: rectangle",
-                "q": "10. Show that the points A (3, 2), B (4, 1), C (5, 4) and D (6, 3) are the vertices of a rectangle."
+                "q": "10. Show that the points A (3, 2), B (4, 1), C (5, 4) and D (6, 3) are the vertices of a rectangle.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    2,
+                    7
+                  ],
+                  "y": [
+                    0,
+                    5
+                  ],
+                  "points": [
+                    [
+                      3,
+                      2,
+                      "A"
+                    ],
+                    [
+                      4,
+                      1,
+                      "B"
+                    ],
+                    [
+                      5,
+                      4,
+                      "C"
+                    ],
+                    [
+                      6,
+                      3,
+                      "D"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          3,
+                          2
+                        ],
+                        [
+                          4,
+                          1
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          4,
+                          1
+                        ],
+                        [
+                          5,
+                          4
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          5,
+                          4
+                        ],
+                        [
+                          6,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          6,
+                          3
+                        ],
+                        [
+                          3,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "|OA| = 3\n|AB| = √((5 − 3)² + (2 − 0)²) = √(4 + 4) = 2√2\n|BC| = √((2 − 5)² + (2 − 2)²) = 3\n|CO| = √((0 − 2)² + (0 − 2)²) = √(4 + 4) = 2√2\n|OA| = |BC| = 3\n|AB| = |CO| = 2√2\nO, A, B, C: parallelogram",
-                "q": "11. Use distance formula to show that the points O (0, 0), A (3, 0), B (5, 2) and C (2, 2) form the vertices of a parallelogram."
+                "q": "11. Use distance formula to show that the points O (0, 0), A (3, 0), B (5, 2) and C (2, 2) form the vertices of a parallelogram.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -1,
+                    6
+                  ],
+                  "y": [
+                    -1,
+                    4
+                  ],
+                  "points": [
+                    [
+                      0,
+                      0,
+                      "O"
+                    ],
+                    [
+                      3,
+                      0,
+                      "A"
+                    ],
+                    [
+                      5,
+                      2,
+                      "B"
+                    ],
+                    [
+                      2,
+                      2,
+                      "C"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          0,
+                          0
+                        ],
+                        [
+                          3,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          3,
+                          0
+                        ],
+                        [
+                          5,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          5,
+                          2
+                        ],
+                        [
+                          2,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          2,
+                          2
+                        ],
+                        [
+                          0,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          0
+                        ],
+                        [
+                          5,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          3,
+                          0
+                        ],
+                        [
+                          2,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 16.2"
@@ -11949,27 +33350,404 @@ var STUDY = {
             "items": [
               {
                 "a": "(i) ([[(2−4)/2]], [[(6+8)/2]]) = (−1, 7)\n(ii) ([[(−3+5)/2]], [[(−1+2)/2]]) = (1, [[1/2]])\n(iii) ([[(0−8)/2]], [[(6+0)/2]]) = (−4, 3)\n(iv) ([[2√3/2]], [[4√3/2]]) = (√3, 2√3)",
-                "q": "1. Find the mid-points between the following pair of points using mid-point formula.\n(i) A (2, 6) and B (−4, 8) (ii) P (−3, −1) and Q (5, 2)\n(iii) L (0, 6) and M (−8, 0) (iv) C (0, 0) and D (2√3, 4√3)."
+                "q": "1. Find the mid-points between the following pair of points using mid-point formula.\n(i) A (2, 6) and B (−4, 8) (ii) P (−3, −1) and Q (5, 2)\n(iii) L (0, 6) and M (−8, 0) (iv) C (0, 0) and D (2√3, 4√3).",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -9,
+                    6
+                  ],
+                  "y": [
+                    -2,
+                    9
+                  ],
+                  "points": [
+                    [
+                      2,
+                      6,
+                      "A"
+                    ],
+                    [
+                      -4,
+                      8,
+                      "B"
+                    ],
+                    [
+                      -3,
+                      -1,
+                      "P"
+                    ],
+                    [
+                      5,
+                      2,
+                      "Q"
+                    ],
+                    [
+                      0,
+                      6,
+                      "L"
+                    ],
+                    [
+                      -8,
+                      0,
+                      "M"
+                    ],
+                    [
+                      0,
+                      0,
+                      "C"
+                    ],
+                    [
+                      3.46,
+                      6.93,
+                      "D"
+                    ],
+                    [
+                      -1,
+                      7,
+                      "m1"
+                    ],
+                    [
+                      1,
+                      0.5,
+                      "m2"
+                    ],
+                    [
+                      -4,
+                      3,
+                      "m3"
+                    ],
+                    [
+                      1.73,
+                      3.46,
+                      "m4"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          2,
+                          6
+                        ],
+                        [
+                          -4,
+                          8
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          -3,
+                          -1
+                        ],
+                        [
+                          5,
+                          2
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          6
+                        ],
+                        [
+                          -8,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          0
+                        ],
+                        [
+                          3.46,
+                          6.93
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               },
               {
                 "a": "centre = mid-point of AB\n([[(−5+3)/2]], [[(6−4)/2]]) = (−1, 1)",
-                "q": "2. Find the centre of a circle whose end points of a diameter are A (−5, 6) and B (3, −4)."
+                "q": "2. Find the centre of a circle whose end points of a diameter are A (−5, 6) and B (3, −4).",
+                "da": {
+                  "type": "circle",
+                  "r": 6.4,
+                  "centre": "O",
+                  "points": [
+                    [
+                      "A",
+                      -4,
+                      5
+                    ],
+                    [
+                      "B",
+                      4,
+                      -5
+                    ]
+                  ],
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "B = (x, y)\n[[(4+x)/2]] = 3\n[[(6+y)/2]] = 4\n4 + x = 6\n6 + y = 8\nx = 2\ny = 2\nB = (2, 2)",
-                "q": "3. The centre of a circle is (3, 4) and one of its end point of a diameter is (4, 6), find the point of other end."
+                "q": "3. The centre of a circle is (3, 4) and one of its end point of a diameter is (4, 6), find the point of other end.",
+                "da": {
+                  "type": "circle",
+                  "r": 2.24,
+                  "centre": "O",
+                  "points": [
+                    [
+                      "A",
+                      1,
+                      2
+                    ],
+                    [
+                      "B",
+                      -1,
+                      -2
+                    ]
+                  ],
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "centre = mid-point of AB\n([[(−3+11)/2]], [[(4+6)/2]]) = (4, 5)\n|AB| = √((11 + 3)² + (6 − 4)²) = √(196 + 4) = √200 = 10√2\nradius = [[(10√2)/2]] = 5√2",
-                "q": "4. A circle has a diameter between the points A (−3, 4) and B (11, 6). Find the centre and radius of the circle."
+                "q": "4. A circle has a diameter between the points A (−3, 4) and B (11, 6). Find the centre and radius of the circle.",
+                "da": {
+                  "type": "circle",
+                  "r": 7.07,
+                  "centre": "O",
+                  "points": [
+                    [
+                      "A",
+                      -7,
+                      -1
+                    ],
+                    [
+                      "B",
+                      7,
+                      1
+                    ]
+                  ],
+                  "chords": [
+                    [
+                      "A",
+                      "B"
+                    ]
+                  ]
+                }
               },
               {
                 "a": "a = BC, b = CA, c = AB\nm_a² = [[(2b² + 2c² − a²)/4]]\nm_b² = [[(2a² + 2c² − b²)/4]]\nm_a = m_b ⇒ 2b² + 2c² − a² = 2a² + 2c² − b² ⇒ 3b² = 3a² ⇒ b = a\na = b ⇒ m_a = m_b",
-                "q": "5. Prove that a triangle is an isosceles triangle if and only if it has two equal medians."
+                "q": "5. Prove that a triangle is an isosceles triangle if and only if it has two equal medians.",
+                "da": {
+                  "type": "draw",
+                  "w": 300,
+                  "h": 230,
+                  "els": [
+                    {
+                      "t": "poly",
+                      "pts": [
+                        [
+                          150,
+                          36
+                        ],
+                        [
+                          71,
+                          194
+                        ],
+                        [
+                          229,
+                          194
+                        ]
+                      ]
+                    },
+                    {
+                      "t": "line",
+                      "x1": 150,
+                      "y1": 36,
+                      "x2": 150,
+                      "y2": 194
+                    },
+                    {
+                      "t": "line",
+                      "x1": 71,
+                      "y1": 194,
+                      "x2": 189.5,
+                      "y2": 115
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 36,
+                      "label": "A"
+                    },
+                    {
+                      "t": "point",
+                      "x": 71,
+                      "y": 194,
+                      "label": "B"
+                    },
+                    {
+                      "t": "point",
+                      "x": 229,
+                      "y": 194,
+                      "label": "C"
+                    },
+                    {
+                      "t": "point",
+                      "x": 150,
+                      "y": 194,
+                      "label": "D"
+                    },
+                    {
+                      "t": "point",
+                      "x": 189.5,
+                      "y": 115,
+                      "label": "E"
+                    }
+                  ]
+                }
               },
               {
                 "a": "A = (0, 0), B = (a, 0), D = (b, c), C = (a + b, c)\nmid-point of AC = ([[(a+b)/2]], [[c/2]])\nmid-point of BD = ([[(a+b)/2]], [[c/2]])\nAC, BD: same mid-point",
-                "q": "6. Prove that the diagonals of a parallelogram bisect each other."
+                "q": "6. Prove that the diagonals of a parallelogram bisect each other.",
+                "da": {
+                  "type": "graph",
+                  "x": [
+                    -1,
+                    6
+                  ],
+                  "y": [
+                    -1,
+                    4
+                  ],
+                  "points": [
+                    [
+                      0,
+                      0,
+                      "A"
+                    ],
+                    [
+                      4,
+                      0,
+                      "B"
+                    ],
+                    [
+                      5,
+                      3,
+                      "C"
+                    ],
+                    [
+                      1,
+                      3,
+                      "D"
+                    ]
+                  ],
+                  "lines": [
+                    {
+                      "pts": [
+                        [
+                          0,
+                          0
+                        ],
+                        [
+                          4,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          4,
+                          0
+                        ],
+                        [
+                          5,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          5,
+                          3
+                        ],
+                        [
+                          1,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          1,
+                          3
+                        ],
+                        [
+                          0,
+                          0
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          0,
+                          0
+                        ],
+                        [
+                          5,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    },
+                    {
+                      "pts": [
+                        [
+                          4,
+                          0
+                        ],
+                        [
+                          1,
+                          3
+                        ]
+                      ],
+                      "label": ""
+                    }
+                  ]
+                }
               }
             ],
             "label": "Exercise 16.3"
@@ -12353,6 +34131,303 @@ function mathHtml(s){
   return h.split(SUP_OPEN).join('<sup>').split(SUP_CLOSE).join('</sup>');
 }
 // Full HTML for one Maths exercise-solution unit: shortcut links, then each exercise.
+function diagramSvg(d){
+  if(!d || !d.type) return "";
+  var S = "";
+  function esc(s){ return escHtml(String(s)); }
+  function el(tag, attrs, inner){
+    var a = "";
+    for(var k in attrs) a += " " + k + "=\"" + attrs[k] + "\"";
+    return "<" + tag + a + ">" + (inner || "") + "</" + tag + ">";
+  }
+  function line(x1, y1, x2, y2, cls){ return el("line", {x1: x1.toFixed(1), y1: y1.toFixed(1), x2: x2.toFixed(1), y2: y2.toFixed(1), "class": cls || "dg"}); }
+  function circle(cx, cy, r, cls){ return el("circle", {cx: cx.toFixed(1), cy: cy.toFixed(1), r: r.toFixed(1), "class": cls || "dg"}); }
+  function point(x, y, label, cls){
+    var s = el("circle", {cx: x.toFixed(1), cy: y.toFixed(1), r: "3.5", "class": "dg-pt"});
+    if(label) s += el("text", {x: (x + 7).toFixed(1), y: (y - 6).toFixed(1), "class": cls || "dg-t"}, esc(label));
+    return s;
+  }
+  function text(x, y, s, cls){ return el("text", {x: x.toFixed(1), y: y.toFixed(1), "class": cls || "dg-t"}, esc(s)); }
+  function poly(pts, cls){
+    var p = pts.map(function(q){ return q[0].toFixed(1) + "," + q[1].toFixed(1); }).join(" ");
+    return el("polygon", {points: p, "class": cls || "dg"});
+  }
+  // Fit data points (y up) into a W x H box with padding; returns {sx, sy, k}.
+  function fit(pts, W, H, pad){
+    var xs = pts.map(function(p){ return p[0]; }), ys = pts.map(function(p){ return p[1]; });
+    var x0 = Math.min.apply(null, xs), x1 = Math.max.apply(null, xs);
+    var y0 = Math.min.apply(null, ys), y1 = Math.max.apply(null, ys);
+    if(x1 - x0 < 0.001){ x0 -= 1; x1 += 1; }
+    if(y1 - y0 < 0.001){ y0 -= 1; y1 += 1; }
+    var k = Math.min((W - 2 * pad) / (x1 - x0), (H - 2 * pad) / (y1 - y0));
+    var ox = pad + ((W - 2 * pad) - k * (x1 - x0)) / 2 - k * x0;
+    var oy = pad + ((H - 2 * pad) - k * (y1 - y0)) / 2 + k * y1;
+    return {X: function(x){ return ox + k * x; }, Y: function(y){ return oy - k * y; }, k: k};
+  }
+  function svgOpen(w, h){ return '<svg class="diagram" viewBox="0 0 ' + w + ' ' + h + '" xmlns="http://www.w3.org/2000/svg" role="img">'; }
+  function svgClose(){ return "</svg>"; }
+
+  // ---- Venn 2 ----
+  if(d.type === "venn2"){
+    var R = d.regions || {}, sets = d.sets || ["A", "B"];
+    S += svgOpen(300, 180);
+    S += circle(110, 95, 65) + circle(190, 95, 65);
+    S += text(110, 18, sets[0]) + text(190, 18, sets[1]);
+    if(R.A) S += text(72, 98, R.A, "dg-t dg-c");
+    if(R.B) S += text(228, 98, R.B, "dg-t dg-c");
+    if(R.AB) S += text(150, 98, R.AB, "dg-t dg-c");
+    if(R.U) S += text(14, 168, R.U, "dg-t");
+    S += svgClose();
+    return S;
+  }
+  // ---- Venn 3 ----
+  if(d.type === "venn3"){
+    var R3 = d.regions || {}, sets3 = d.sets || ["A", "B", "C"];
+    S += svgOpen(300, 205);
+    S += circle(150, 75, 60) + circle(105, 145, 60) + circle(195, 145, 60);
+    S += text(150, 12, sets3[0]) + text(48, 192, sets3[1]) + text(252, 192, sets3[2]);
+    if(R3.A) S += text(150, 52, R3.A, "dg-t dg-c");
+    if(R3.B) S += text(88, 168, R3.B, "dg-t dg-c");
+    if(R3.C) S += text(212, 168, R3.C, "dg-t dg-c");
+    if(R3.AB) S += text(122, 108, R3.AB, "dg-t dg-c");
+    if(R3.AC) S += text(178, 108, R3.AC, "dg-t dg-c");
+    if(R3.BC) S += text(150, 158, R3.BC, "dg-t dg-c");
+    if(R3.ABC) S += text(150, 122, R3.ABC, "dg-t dg-c");
+    if(R3.U) S += text(14, 196, R3.U, "dg-t");
+    S += svgClose();
+    return S;
+  }
+  // ---- Axes / graph / points ----
+  if(d.type === "graph" || d.type === "points"){
+    var xr = d.x, yr = d.y;
+    var W = 320, H = Math.max(170, Math.min(320, Math.round(320 * (yr[1] - yr[0]) / (xr[1] - xr[0]))));
+    var X = function(x){ return 28 + (x - xr[0]) / (xr[1] - xr[0]) * (W - 44); };
+    var Y = function(y){ return (H - 22) - (y - yr[0]) / (yr[1] - yr[0]) * (H - 40); };
+    S += svgOpen(W, H);
+    // grid at integers
+    for(var gx = Math.ceil(xr[0]); gx <= xr[1]; gx++) S += line(X(gx), Y(yr[0]), X(gx), Y(yr[1]), "dg-grid");
+    for(var gy = Math.ceil(yr[0]); gy <= yr[1]; gy++) S += line(X(xr[0]), Y(gy), X(xr[1]), Y(gy), "dg-grid");
+    // axes (with arrowheads)
+    if(yr[0] <= 0 && 0 <= yr[1]) S += line(X(xr[0]), Y(0), X(xr[1]), Y(0), "dg-ax") + poly([[X(xr[1]), Y(0)], [X(xr[1]) - 8, Y(0) - 3.5], [X(xr[1]) - 8, Y(0) + 3.5]], "dg-axf");
+    if(xr[0] <= 0 && 0 <= xr[1]) S += line(X(0), Y(yr[0]), X(0), Y(yr[1]), "dg-ax") + poly([[X(0), Y(yr[1])], [X(0) - 3.5, Y(yr[1]) + 8], [X(0) + 3.5, Y(yr[1]) + 8]], "dg-axf");
+    // tick labels (anchor at the axis when it exists, else at the plot edge)
+    var xLabY = (yr[0] <= 0 && 0 <= yr[1]) ? Y(0) + 15 : (yr[0] > 0 ? Y(yr[0]) + 15 : Y(yr[1]) - 8);
+    var yAxisX = (xr[0] <= 0 && 0 <= xr[1]) ? X(0) : (xr[0] > 0 ? X(xr[0]) : X(xr[1]));
+    var yLabX = yAxisX - 8;
+    for(var tx = Math.ceil(xr[0]); tx <= xr[1]; tx++){ if(tx !== 0) S += text(X(tx) - 3, xLabY, tx, "dg-tk"); }
+    for(var ty = Math.ceil(yr[0]); ty <= yr[1]; ty++){ if(ty !== 0) S += el("text", {x: yLabX.toFixed(1), y: (Y(ty) + 4).toFixed(1), "class": "dg-tk", "text-anchor": "end"}, esc(String(ty))); }
+    if(yr[0] <= 0 && 0 <= yr[1] && xr[0] <= 0 && 0 <= xr[1]) S += text(X(0) - 14, Y(0) + 15, "0", "dg-tk");
+    if(yr[0] <= 0 && 0 <= yr[1]) S += text(X(xr[1]) - 4, Y(0) - 8, "x", "dg-tk");
+    if(xr[0] <= 0 && 0 <= xr[1]) S += text(X(0) + 6, Y(yr[1]) + 4, "y", "dg-tk");
+    // lines (clipped to the plot rectangle)
+    function clipSeg(x1, y1, x2, y2){
+      var t0 = 0, t1 = 1, dx = x2 - x1, dy = y2 - y1;
+      var p = [-dx, dx, -dy, dy], q = [x1 - xr[0], xr[1] - x1, y1 - yr[0], yr[1] - y1];
+      for(var i = 0; i < 4; i++){
+        if(Math.abs(p[i]) < 1e-9){ if(q[i] < 0) return null; }
+        else { var r = q[i] / p[i]; if(p[i] < 0){ if(r > t1) return null; if(r > t0) t0 = r; } else { if(r < t0) return null; if(r < t1) t1 = r; } }
+      }
+      return [[x1 + t0 * dx, y1 + t0 * dy], [x1 + t1 * dx, y1 + t1 * dy]];
+    }
+    if(d.type === "graph" && d.lines){
+      d.lines.forEach(function(L){
+        var seg = null, lab = L.label || "";
+        if(L.m !== undefined && L.c !== undefined) seg = clipSeg(xr[0], L.m * xr[0] + L.c, xr[1], L.m * xr[1] + L.c);
+        else if(L.pts) seg = clipSeg(L.pts[0][0], L.pts[0][1], L.pts[1][0], L.pts[1][1]);
+        if(seg){
+          S += line(X(seg[0][0]), Y(seg[0][1]), X(seg[1][0]), Y(seg[1][1]), "dg-ln");
+          if(lab) S += text(X(seg[1][0]) - 4, Y(seg[1][1]) - 8, lab, "dg-lb");
+        }
+      });
+    }
+    // points
+    (d.points || []).forEach(function(p){
+      S += point(X(p[0]), Y(p[1]), p[2] || "");
+    });
+    S += svgClose();
+    return S;
+  }
+  // ---- Triangle ----
+  if(d.type === "triangle"){
+    var pts, labels = d.labels || [];
+    if(d.pts) pts = d.pts;
+    else if(d.sides){
+      var c = d.sides.AB, a = d.sides.BC, b = d.sides.CA;
+      var cx = (b * b + c * c - a * a) / (2 * c);
+      var cy = Math.sqrt(Math.max(0, b * b - cx * cx));
+      pts = [[0, 0], [c, 0], [cx, cy]];
+    } else return "";
+    var f = fit(pts, 300, 230, 34);
+    var P = pts.map(function(p){ return [f.X(p[0]), f.Y(p[1])]; });
+    S += svgOpen(300, 230);
+    S += poly(P);
+    P.forEach(function(p, i){
+      if(labels[i]) S += text(p[0] + (i === 0 ? -14 : 8), p[1] + (i === 2 ? -8 : 16), labels[i]);
+    });
+    // side lengths
+    var sl = d.sideLabels || {};
+    if(d.sides){
+      sl = {AB: String(d.sides.AB), BC: String(d.sides.BC), CA: String(d.sides.CA)};
+    }
+    [["AB", 0, 1], ["BC", 1, 2], ["CA", 2, 0]].forEach(function(s){
+      if(sl[s[0]]) S += text((P[s[1]][0] + P[s[2]][0]) / 2, (P[s[1]][1] + P[s[2]][1]) / 2, sl[s[0]], "dg-t dg-c");
+    });
+    // angle values
+    if(d.angles){
+      var an = d.angles;
+      ["A", "B", "C"].forEach(function(v, i){
+        if(an[v]) S += text(P[i][0] + (i === 0 ? 12 : i === 1 ? -26 : -8), P[i][1] + (i === 2 ? 16 : -12), an[v], "dg-t");
+      });
+    }
+    // right-angle mark
+    if(d.right){
+      var ri = {A: 0, B: 1, C: 2}[d.right];
+      if(ri !== undefined){
+        var v0 = P[ri], v1 = P[(ri + 1) % 3], v2 = P[(ri + 2) % 3];
+        var u1 = [v1[0] - v0[0], v1[1] - v0[1]], u2 = [v2[0] - v0[0], v2[1] - v0[1]];
+        var l1 = Math.hypot(u1[0], u1[1]) || 1, l2 = Math.hypot(u2[0], u2[1]) || 1;
+        var m = 14;
+        var q1 = [v0[0] + u1[0] / l1 * m, v0[1] + u1[1] / l1 * m];
+        var q2 = [v0[0] + u2[0] / l2 * m, v0[1] + u2[1] / l2 * m];
+        var q3 = [q1[0] + u2[0] / l2 * m, q1[1] + u2[1] / l2 * m];
+        S += el("polyline", {points: q1[0].toFixed(1) + "," + q1[1].toFixed(1) + " " + q3[0].toFixed(1) + "," + q3[1].toFixed(1) + " " + q2[0].toFixed(1) + "," + q2[1].toFixed(1), "class": "dg", fill: "none"});
+      }
+    }
+    S += svgClose();
+    return S;
+  }
+  // ---- Quadrilateral ----
+  if(d.type === "quad"){
+    var qpts, qlabels = d.labels || [];
+    if(d.pts) qpts = d.pts;
+    else if(d.kind === "rectangle") qpts = [[0, 0], [d.w, 0], [d.w, d.h], [0, d.h]];
+    else if(d.kind === "square") qpts = [[0, 0], [d.s, 0], [d.s, d.s], [0, d.s]];
+    else if(d.kind === "parallelogram"){
+      var th = (d.angle || 60) * Math.PI / 180;
+      var dx = d.side * Math.cos(th), dy = d.side * Math.sin(th);
+      qpts = [[0, 0], [d.base, 0], [d.base + dx, dy], [dx, dy]];
+    }
+    else if(d.kind === "rhombus"){
+      var th2 = (d.angle || 60) * Math.PI / 180;
+      var dx2 = d.side * Math.cos(th2), dy2 = d.side * Math.sin(th2);
+      qpts = [[0, 0], [d.side, 0], [d.side + dx2, dy2], [dx2, dy2]];
+    } else return "";
+    var f2 = fit(qpts, 300, 230, 34);
+    var Q = qpts.map(function(p){ return [f2.X(p[0]), f2.Y(p[1])]; });
+    S += svgOpen(300, 230);
+    S += poly(Q);
+    Q.forEach(function(p, i){
+      if(qlabels[i]) S += text(p[0] + (i === 0 ? -14 : 8), p[1] + (i === 2 ? -8 : 16), qlabels[i]);
+    });
+    var sl2 = d.sideLabels || {};
+    if(d.kind === "rectangle") sl2 = {AB: String(d.w), BC: String(d.h)};
+    if(d.kind === "square") sl2 = {AB: String(d.s)};
+    if(d.kind === "parallelogram") sl2 = {AB: String(d.base), BC: String(d.side)};
+    if(d.kind === "rhombus") sl2 = {AB: String(d.side)};
+    [["AB", 0, 1], ["BC", 1, 2], ["CD", 2, 3], ["DA", 3, 0]].forEach(function(s){
+      if(sl2[s[0]]) S += text((Q[s[1]][0] + Q[s[2]][0]) / 2, (Q[s[1]][1] + Q[s[2]][1]) / 2, sl2[s[0]], "dg-t dg-c");
+    });
+    S += svgClose();
+    return S;
+  }
+  // ---- Circle ----
+  if(d.type === "circle"){
+    var r = d.r || 1, W3 = 300, H3 = 260, pad3 = 34;
+    var RR = Math.min((W3 - 2 * pad3) / 2, (H3 - 2 * pad3) / 2);
+    var CX = W3 / 2, CY = H3 / 2;
+    var sc = RR / r;
+    function CXx(x){ return CX + x * sc; }
+    function CYy(y){ return CY - y * sc; }
+    var pmap = {};
+    (d.points || []).forEach(function(p){ pmap[p[0]] = [CXx(p[1]), CYy(p[2])]; });
+    S += svgOpen(W3, H3);
+    S += circle(CX, CY, RR);
+    if(d.centre) S += point(CX, CY, d.centre);
+    (d.points || []).forEach(function(p){
+      var px = CXx(p[1]), py = CYy(p[2]);
+      S += point(px, py, p[0]);
+    });
+    (d.chords || []).forEach(function(ch){
+      var a = pmap[ch[0]], b = pmap[ch[1]];
+      if(a && b) S += line(a[0], a[1], b[0], b[1]);
+    });
+    if(d.tangent && d.tangent.at && pmap[d.tangent.at]){
+      var tp = pmap[d.tangent.at];
+      var vx = tp[0] - CX, vy = tp[1] - CY;
+      var vl = Math.hypot(vx, vy) || 1;
+      var tx = -vy / vl, ty = vx / vl, TL = 70;
+      S += line(tp[0] - tx * TL, tp[1] - ty * TL, tp[0] + tx * TL, tp[1] + ty * TL);
+      if(d.tangent.label) S += text(tp[0] + tx * TL + 6, tp[1] + ty * TL - 6, d.tangent.label);
+    }
+    S += svgClose();
+    return S;
+  }
+  // ---- Number line ----
+  if(d.type === "numberline"){
+    var W4 = 320, H4 = 110, L4 = 24, R4 = W4 - 24, Y4 = 58;
+    var NX = function(x){ return L4 + (x - d.min) / (d.max - d.min) * (R4 - L4); };
+    S += svgOpen(W4, H4);
+    S += line(L4 - 8, Y4, R4 + 8, Y4, "dg-ax") + poly([[R4 + 8, Y4], [R4, Y4 - 4], [R4, Y4 + 4]], "dg-axf") + poly([[L4 - 8, Y4], [L4, Y4 - 4], [L4, Y4 + 4]], "dg-axf");
+    for(var nx = Math.ceil(d.min); nx <= d.max; nx++){
+      S += line(NX(nx), Y4 - 4, NX(nx), Y4 + 4, "dg");
+      S += text(NX(nx) - 3, Y4 + 20, nx, "dg-tk");
+    }
+    (d.points || []).forEach(function(p){
+      var px = NX(p.x);
+      S += el("circle", {cx: px.toFixed(1), cy: Y4, r: "4.5", "class": p.open ? "dg-open" : "dg-pt"});
+      if(p.label) S += text(px - 3, Y4 - 12, p.label, "dg-tk");
+    });
+    (d.rays || []).forEach(function(ray){
+      var fx = NX(ray.from);
+      var to = ray.dir === "left" ? L4 + 2 : R4 - 2;
+      S += line(fx, Y4, to, Y4, "dg-ray");
+      S += poly(ray.dir === "left" ? [[to, Y4], [to + 8, Y4 - 4], [to + 8, Y4 + 4]] : [[to, Y4], [to - 8, Y4 - 4], [to - 8, Y4 + 4]], "dg-rayf");
+      if(ray.label) S += text((fx + to) / 2 - 10, Y4 - 22, ray.label, "dg-t");
+    });
+    S += svgClose();
+    return S;
+  }
+  // ---- Generic draw ----
+  if(d.type === "draw"){
+    var W5 = d.w || 300, H5 = d.h || 200;
+    // Expand the canvas to fit TEXT labels: a label placed below (or right of)
+    // the declared height/width would otherwise be clipped by the viewBox.
+    // Shapes (lines, circles, polys, arcs) are NOT grown — a big circle is
+    // often drawn deliberately so only an arc shows.
+    var maxTX = W5, maxTY = H5;
+    (d.els || []).forEach(function(e){
+      if(e.t === "text"){
+        var tw = 7 * String(e.s || "").length;
+        if(e.x + tw > maxTX) maxTX = e.x + tw;
+        if(e.y + 4 > maxTY) maxTY = e.y + 4;
+      } else if(e.t === "point" && e.label){
+        var pw = 7 * String(e.label).length;
+        if(e.x + 7 + pw > maxTX) maxTX = e.x + 7 + pw;
+        if(e.y - 6 + 4 > maxTY) maxTY = e.y - 6 + 4;
+      }
+    });
+    W5 = Math.ceil(maxTX) + 6;
+    H5 = Math.ceil(maxTY) + 6;
+    S += svgOpen(W5, H5);
+    (d.els || []).forEach(function(e){
+      if(e.t === "line") S += line(e.x1, e.y1, e.x2, e.y2);
+      else if(e.t === "circle") S += circle(e.cx, e.cy, e.r);
+      else if(e.t === "point") S += point(e.x, e.y, e.label || "");
+      else if(e.t === "text") S += text(e.x, e.y, e.s || "");
+      else if(e.t === "poly") S += poly(e.pts.map(function(p){ return [p[0], p[1]]; }));
+      else if(e.t === "arc"){
+        var a1 = e.a1 * Math.PI / 180, a2 = e.a2 * Math.PI / 180;
+        var sx = e.cx + e.r * Math.cos(a1), sy = e.cy + e.r * Math.sin(a1);
+        var ex = e.cx + e.r * Math.cos(a2), ey = e.cy + e.r * Math.sin(a2);
+        var large = (e.a2 - e.a1) > 180 ? 1 : 0;
+        S += el("path", {d: "M " + sx.toFixed(1) + " " + sy.toFixed(1) + " A " + e.r + " " + e.r + " 0 " + large + " 1 " + ex.toFixed(1) + " " + ey.toFixed(1), "class": "dg", fill: "none"});
+      }
+    });
+    S += svgClose();
+    return S;
+  }
+  return "";
+}
 function mathUnitHtml(n){
   var data = matData;
   var mx = (data && data.mathsolutions) || [];
@@ -12369,7 +34444,7 @@ function mathUnitHtml(n){
   (u.exercises || []).forEach(function(g, i){
     html += "<div class=\"review\" id=\"mx-" + n + "-" + (i + 1) + "\"><div class=\"exhead\"><b>" + escHtml(g.label) + "</b></div>";
     (g.items || []).forEach(function(it, qi){
-      html += "<p class=\"note\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + mathHtml(it.q) + "</p><p class=\"note exans\"><span class=\"exa\">Ans:</span> " + mathHtml(it.a) + "</p>";
+      html += "<p class=\"note\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + mathHtml(it.q) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note exans\"><span class=\"exa\">Ans:</span> " + mathHtml(it.a) + "</p>" + (it.da ? diagramSvg(it.da) : "");
     });
     html += "</div>";
   });
