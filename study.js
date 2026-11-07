@@ -36687,6 +36687,2579 @@ var STUDY = {
         "display": "Information Handling"
       }
     ]
+  },
+  "vii": {
+    "mathsolutions": [
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "1. N = The set of natural numbers\n2. E = The set of first four even numbers\n3. F = The set of all divisors of 10\n4. J = The set of first five prime numbers\n5. W = The set of first six whole numbers\n6. S = The set of first five multiples of 5\n7. T = The set of multiples of 3",
+                "q": "Write the following sets in descriptive form.\n1. N = {1, 2, 3, 4, 5, 6, ...}\n2. E = {2, 4, 6, 8}\n3. F = {1, 2, 5, 10}\n4. J = {2, 3, 5, 7, 11}\n5. W = {0, 1, 2, 3, 4, 5}\n6. S = {5, 10, 15, 20, 25}\n7. T = {3, 6, 9, 12, ...}"
+              },
+              {
+                "a": "1. A = {1, 2, 3, 4, 5, 6, 7}\n2. B = {2, 4, 6, 8, 10, 12, 14, 16}\n3. C = {−3, −2, −1, 0, 1}\n4. D = {p, a, k, i, s, t, n}\n5. E = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}\n6. F = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29}\n7. G = {1, 3, 5, 15}",
+                "q": "Write the following sets in tabular form.\n1. A = Set of first seven natural numbers\n2. B = Set of first eight positive even numbers\n3. C = Set of integers greater than −4 and less than 2\n4. D = Set of English alphabets used in word 'Pakistan'\n5. E = Set of first ten multiples of 2\n6. F = Set of first ten prime numbers\n7. G = Set of all factors of 15"
+              },
+              {
+                "a": "1. A = {x | x ∈ N ∧ 1 ≤ x ≤ 10}\n2. B = {x | x ∈ Z ∧ −2 ≤ x ≤ 5}\n3. C = {x | x is the name of a river of Pakistan}\n4. E = {x | x ∈ E ∧ 2 ≤ x ≤ 20}\n5. D = {x | x ∈ O}\n6. S = {x | x is a name of a day of a week which starts with letter S}\n7. Z = {x | x ∈ Z}\n8. L = {x | x is multiple of 4}",
+                "q": "Write the following sets in set-builder form.\n1. A = {1, 2, 3, ..., 10}\n2. B = {−2, −1, 0, +1, +2, +3, +4, +5}\n3. C = {Ravi, Chenab, Indus, Jhelum, Sutlej}\n4. E = {2, 4, 6, 8, 10, 12, ..., 20}\n5. D = {1, 3, 5, 7, 9, ...}\n6. S = Set of names of days of a week which start with letter S\n7. Z = Set of all integers\n8. L = {4, 8, 12, 16, 20, ...}"
+              },
+              {
+                "a": "1. A = {1, 2, 3, 4, 5}\n2. B = {4, 6, 8, 10, 12, 14, 16, 18, 20}\n3. C = {−2, −1, 0, 1, 2}\n4. D = {0, 1, 2, 3, 4}",
+                "q": "Write the following sets in tabular form.\n1. A = {x | x ∈ N ∧ x ≤ 5}\n2. B = {y | y ∈ E ∧ 4 ≤ y ≤ 20}\n3. C = {a | a ∈ Z ∧ −3 < a < 3}\n4. D = {z | z ∈ W ∧ z < 5}"
+              },
+              {
+                "a": "A = set of vowels of English alphabet\nA = {a, e, i, o, u}\nA = {x | x is a vowel of English alphabets}\nB = set of all even numbers\nB = {2, 4, 6, 8, ...}\nB = {x | x ∈ E}\nC = set of first five natural numbers\nC = {1, 2, 3, 4, 5}\nC = {x | x ∈ N ∧ x ≤ 5}\nD = Set of natural numbers which are greater than 50\nD = {51, 52, 53, ...}\nD = {x | x ∈ N ∧ x > 50}\nE = Set of letters of English alphabet used in the word 'Pakistan'\nE = {p, a, k, i, s, t, n}\nE = {x | x is an English alphabet used in the word 'Pakistan'}\nF = Set of names of days of a week\nF = {Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday}\nF = {x | x is a name of a day of a week}",
+                "q": "Put the sets in their appropriate column, then write two other forms of each set.\nA = {a, e, i, o, u}   D = {x | x ∈ N ∧ x > 50}\nB = {2, 4, 6, 8, ...}   E = {p, a, k, i, s, t, n}\nC = {1, 2, 3, 4, 5}   F = Set of names of days of a week"
+              }
+            ],
+            "label": "Exercise 1.1"
+          },
+          {
+            "items": [
+              {
+                "a": "1. A ∪ B = {4, 5, 6, 8, 9}\n2. A ∪ B = {0, 1, 2, 3, 4, 5, 6, 8}\n3. A ∪ B = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\n4. X = {2, 3, 5, 7, 11, 13}\nY = {3, 6, 9, 12, 15, 18}\nX ∪ Y = {2, 3, 5, 6, 7, 9, 11, 12, 13, 15, 18}\n5. D ∪ E ∪ F = {1, 2, 3, 4, 5, 6, 9, 10}\n6. (A ∪ B) ∪ C = {1, 2, 3}\nA ∪ (B ∪ C) = {1, 2, 3}",
+                "q": "Find the union of the following sets.\n1. A = {4, 5} and B = {4, 6, 8, 9}\n2. A = {0, 1, 2, 3, 4, 5} and B = {2, 4, 6, 8}\n3. A = {2, 4, 6, 8, 10} and B = {0, 1, 2, 3, 4, 5, 6, 7, 9, 10}\n4. X = Set of first six prime numbers and Y = Set of first six multiples of 3\n5. If D = {2, 4, 6}, E = {1, 3, 5, 6} and F = {1, 3, 6, 9, 10}, then find D ∪ E ∪ F\n6. If A = {1, 2, 3}, B = { } and C = {2, 3}, then find (A ∪ B) ∪ C and A ∪ (B ∪ C)"
+              },
+              {
+                "a": "1. A ∩ B = {3}\n2. D ∩ E = {2, 4, 6, 8}\n3. P ∩ Q = {a}\n4. A ∩ B = {1, 2, 3, ...}\n5. (A ∩ B) ∩ C = { }\nA ∩ (B ∩ C) = { }\n6. (D ∩ E) ∩ F = { }\nD ∩ (E ∩ F) = { }",
+                "q": "Find intersection of the following sets.\n1. A = {1, 2, 3} and B = {3, 6, 9, 12}\n2. D = {2, 4, 6, 8} and E = {2, 4, 6, 8, 10}\n3. P = {a, b, c, d} and Q = {a, e, i, o, u}\n4. A = Set of integers and B = Set of positive integers\n5. If A = {a, b, c, d}, B = {d, e, f} and C = {f, g, h}, then find (A ∩ B) ∩ C and A ∩ (B ∩ C)\n6. If D = {2, 3}, E = {4, 5} and F = { }, then find (D ∩ E) ∩ F and D ∩ (E ∩ F)"
+              },
+              {
+                "a": "1. A − B = {4}\nB − A = {7, 8}\n2. A − B = {9}\nB − A = {7}\n3. A − B = {0}\nB − A = { }\n4. A = {3, 6, 9, 12, 15, 18}\nB = {4, 8, 12, 16, 20, 24}\nA − B = {3, 6, 9, 15, 18}\nB − A = {4, 8, 16, 20, 24}",
+                "q": "Find A − B and B − A if\n1. A = {4, 5, 6} and B = {5, 6, 7, 8}\n2. A = {1, 3, 5, 9, 11} and B = {1, 3, 5, 7, 11}\n3. A = {0, 1, 2, 3, 4, 5, 6, ...} and B = {1, 2, 3, 4, 5, ...}\n4. A = Set of first six multiples of 3 and B = Set of first six multiples of 4"
+              }
+            ],
+            "label": "Exercise 1.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(1) Disjoint sets\n(2) Overlapping sets\n(3) Disjoint sets\n(4) Disjoint sets\n(5) Overlapping sets\n(6) Neither disjoint nor overlapping: N ⊆ W\n(7) Overlapping sets",
+                "q": "Identify the disjoint sets and overlapping sets.\n(1) F = {△, □, ◇} and M = {Plate, Jug, Cup}\n(2) W = {0, 1, 2, 3} and N = {1, 2, 3, 4}\n(3) C = {a, e, i, o, u} and D = {p, q, r}\n(4) C = {a, c, d, f} and D = {1, 2, 3}\n(5) N = {1, 2, 4, 6, 8, 12, 24, 48} and M = {6, 8, 12, 14, 16, 18}\n(6) N = Set of natural numbers from 10 to 40 and W = Set of whole numbers upto 40\n(7) E = {2, 4, 6, ...} and O = {5, 10, 15, ...}"
+              },
+              {
+                "a": "(i) Disjoint sets\n(ii) Overlapping sets\n(iii) Overlapping sets\n(iv) Disjoint sets\n(v) Disjoint sets\n(vi) Disjoint sets\n(vii) Overlapping sets",
+                "q": "Identify the disjoint and overlapping sets in the following: And write in the given column.\n(i) F = {2, 3} and A = {1, 4, 6, 8}\n(ii) H = {2, 3, 5, 7, 9} and C = {1, 3, 5, ...}\n(iii) N = {a, e, i, o, u} and G = {h, o, c, k, y}\n(iv) W = {0, 1, 2, 3, ...} and B = {x, y, z}\n(v) P = {plate, jug, cup} and D = {f, e, s, l}\n(vi) Q = {☆, △, □, ○} and E = {1, 3, 5, 7, 9}\n(vii) A = {10, 20, 30, ...} and B = {4, 8, 12, ...}"
+              }
+            ],
+            "label": "Exercise 1.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) A' = {b, c, d}\n(ii) A ∪ A' = {a, b, c, d, e, f}\n(iii) A ∩ A' = { }\n(iv) U' = { }\n(v) ∅' = {a, b, c, d, e, f}",
+                "q": "Let U = {a, b, c, d, e, f} and A = {a, e, f}. Find (i) A' (ii) A ∪ A' (iii) A ∩ A' (iv) U' (v) ∅'"
+              },
+              {
+                "a": "(i) E' = {1, 3, 5, 7, 9}\n(ii) E ∪ E' = {1, 2, 3, ..., 10}\n(iii) E ∩ E' = ∅\n(iv) U' = ∅\n(v) ∅' = {1, 2, 3, ..., 10}",
+                "q": "Let U = {1, 2, 3, ..., 10} and E = {2, 4, 6, 8, 10}. Find (i) E' (ii) E ∪ E' (iii) E ∩ E' (iv) U' (v) ∅'"
+              },
+              {
+                "a": "(i) P' = {0, 2, 4, 6, 8, 10, 12}\n(ii) P ∪ P' = {0, 1, 2, 3, ..., 12}\n(iii) P' ∩ P = { }\n(iv) U ∩ U' = { }",
+                "q": "If U = {0, 1, 2, 3, ..., 12} and P = {1, 3, 5, 7, 9, 11}, then find: (i) P' (ii) P ∪ P' (iii) P' ∩ P (iv) U ∩ U'"
+              },
+              {
+                "a": "(i) B' = {u, v, w}\n(ii) B' ∪ B = {u, v, w, x, y, z}\n(iii) B' ∩ B = { }\n(iv) U ∪ U' = {u, v, w, x, y, z}",
+                "q": "If U = {u, v, w, x, y, z} and B = {x, y, z}, then find: (i) B' (ii) B' ∪ B (iii) B' ∩ B (iv) U ∪ U'"
+              },
+              {
+                "a": "(i) A' = {8, 9, 10}\n(ii) B' = {1, 3, 5, 7, 9}\n(iii) A' ∩ A = { }\n(iv) A ∪ A' = {1, 2, 3, ..., 10}\n(v) B ∪ B' = {1, 2, 3, ..., 10}\n(vi) B ∩ B' = { }",
+                "q": "If U = {1, 2, 3, 4, ..., 10}, A = {1, 2, 3, 5, 6, 7} and B = {2, 4, 6, 8, 10}, then find: (i) A' (ii) B' (iii) A' ∩ A (iv) A ∪ A' (v) B ∪ B' (vi) B ∩ B'"
+              }
+            ],
+            "label": "Exercise 1.4"
+          },
+          {
+            "items": [
+              {
+                "a": "1. A ∪ B = {−1, −2, −3, −4, −5, −6} = B ∪ A\n2. B − C = {−5, −6}\nC − B = {0, −2, −3}\nB − C ≠ C − B\n3. A ∪ C = {0, −1, −2, −3, −4} = C ∪ A\n4. (A ∪ B) ∪ C = {0, −1, −2, −3, −4, −5, −6} = (B ∪ C) ∪ A\n5. (A ∪ C) ∪ B = {0, −1, −2, −3, −4, −5, −6} = (C ∪ B) ∪ A\n6. A ∩ B = {−1} = B ∩ A\n7. B ∩ C = {−1, −4} = C ∩ B\n8. A − C = { }\nC − A = {0, −4}\nA − C ≠ C − A\n9. (A ∩ B) ∩ C = {−1} = (B ∩ C) ∩ A\n10. (A ∩ C) ∩ B = {−1} = (A ∩ B) ∩ C",
+                "q": "If A = {−1, −2, −3}, B = {−1, −4, −5, −6} and C = {0, −1, −2, −3, −4} then verify the following:\n1. A ∪ B = B ∪ A   2. B − C ≠ C − B\n3. A ∪ C = C ∪ A   4. (A ∪ B) ∪ C = (B ∪ C) ∪ A\n5. (A ∪ C) ∪ B = (C ∪ B) ∪ A   6. A ∩ B = B ∩ A\n7. B ∩ C = C ∩ B   8. A − C ≠ C − A\n9. (A ∩ B) ∩ C = (B ∩ C) ∩ A   10. (A ∩ C) ∩ B = (A ∩ B) ∩ C"
+              },
+              {
+                "a": "(i) U' = ∅\n(ii) ∅' = U\n(iii) A ∪ A' = {10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20} = U\n(iv) B ∩ B' = ∅\n(v) (A ∪ B)' = {17, 19, 20} = A' ∩ B'\n(vi) (A ∩ B)' = {11, 13, 15, 16, 17, 18, 19, 20} = A' ∪ B'",
+                "q": "Given U = {10, 11, 12, 13, 14, ..., 20}, A = {10, 12, 14, 16, 18} and B = {10, 11, 12, 13, 14, 15}, Verify the following.\n(i) U' = ∅   (ii) ∅' = U   (iii) A ∪ A' = U\n(iv) B ∩ B' = ∅   (v) (A ∪ B)' = A' ∩ B'   (vi) (A ∩ B)' = A' ∪ B'"
+              }
+            ],
+            "label": "Exercise 1.5"
+          },
+          {
+            "items": [
+              {
+                "a": "1. (i) A ∪ B = {1, 2, 3, 4, 5, 6, 7, 8}\n(ii) A ∩ B = { }\n(iii) A − B = {1, 3, 5, 7}\n(iv) B − A = {2, 4, 6, 8}\n2. (i) W ∪ X = {a, b, c, u, v, w}\n(ii) W ∩ X = { }\n(iii) W − X = {a, b, c}\n(iv) X − W = {u, v, w}\n3. (i) Y ∪ Z = {Sumair, Raza, Ali, Zahid, Sabir}\n(ii) Y ∩ Z = {Sumair}\n(iii) Y − Z = {Raza, Ali}\n(iv) Z − Y = {Zahid, Sabir}\n4. (i) Y ∪ Z = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16}\n(ii) Y ∩ Z = {2, 4, 6, 8, 10, 12}\n(iii) Y − Z = {1, 3, 5, 7, 9, 11}\n(iv) Z − Y = {14, 16}",
+                "q": "Find the following and represent operations of union, difference and intersection through Venn diagram.\n1. Let A = {1, 3, 5, 7} and B = {2, 4, 6, 8}\n(i) A ∪ B (ii) A ∩ B (iii) A − B (iv) B − A\n2. Let W = {a, b, c} and X = {u, v, w}\n(i) W ∪ X (ii) W ∩ X (iii) W − X (iv) X − W\n3. Let Y = {Sumair, Raza, Ali} and Z = {Zahid, Sumair, Sabir}\n(i) Y ∪ Z (ii) Y ∩ Z (iii) Y − Z (iv) Z − Y\n4. Let Y = {1, 2, 3, ..., 12} and Z = {2, 4, 6, ..., 16}\n(i) Y ∪ Z (ii) Y ∩ Z (iii) Y − Z (iv) Z − Y"
+              },
+              {
+                "a": "(1) A' = {11, 13, 15}\n(2) B' = {10, 11, 12, 13, 14, 16}\n(3) A − B = {10, 12, 14, 16}\n(4) (A − B)' = {8, 11, 13, 15}\n(5) A ∪ B' = {8, 10, 11, 12, 13, 14, 16}\n(6) A' ∪ B' = {10, 11, 12, 13, 14, 15, 16}\n(7) A' − B' = {15}\n(8) (A ∩ B)' = {10, 11, 12, 13, 14, 15, 16}\n(9) A' ∩ B = {15}\n(10) (A ∪ B)' = {11, 13}\n(11) A' ∪ A = {8, 10, 11, 12, 13, 14, 15, 16}\n(12) B' ∩ B = { }",
+                "q": "If A = {8, 10, 12, 14, 16}, U = {8, 10, 11, 12, 13, 14, 15, 16} and B = {8, 15} then find the following and represent through Venn diagram.\n(1) A' (2) B' (3) A − B (4) (A − B)' (5) A ∪ B' (6) A' ∪ B' (7) A' − B' (8) (A ∩ B)' (9) A' ∩ B (10) (A ∪ B)' (11) A' ∪ A (12) B' ∩ B"
+              }
+            ],
+            "label": "Exercise 1.6"
+          },
+          {
+            "items": [
+              {
+                "a": "Descriptive form\nTabular form\nSet-builder form",
+                "q": "Describe the names of three forms of expressing a set."
+              },
+              {
+                "a": "(a) {0, 1, 2, 3, 4}\n(b) Set of English Alphabets",
+                "q": "(a) Express the set of first five whole number into tabular form.\n(b) Express A = {a, b, c, d, ...} in descriptive form."
+              },
+              {
+                "a": "A = {x | x ∈ N ∧ x ≤ 10}\nB = {x | x ∈ E ∧ 2 ≤ x ≤ 20}\nC = {x | x ∈ Z ∧ −2 ≤ x ≤ 5}",
+                "q": "Give three examples of sets in set-builder form."
+              },
+              {
+                "a": "Disjoint sets: Two sets with no element in common.\nA = {1, 2, 3}, B = {4, 5}\nA ∩ B = ∅\nOverlapping sets: Two sets with at least one common member and none of them is a subset of the other.\nX = {0, 1, 2, 4}, Y = {2, 3, 5, 7}\nX ∩ Y = {2}",
+                "q": "Describe disjoint sets and overlapping sets through examples."
+              },
+              {
+                "a": "(i) A ∪ B = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12}\n(ii) A ∩ B = {2, 4, 6, 8, 10}\n(iii) A − B = {1, 3, 5, 7, 9}\n(iv) (A ∩ C)' = {2, 4, 6, 8, 10, 11, 12}\n(v) (B ∪ C)' = { }\n(vi) B' ∩ C' = { }\n(vii) A − B' = {2, 4, 6, 8, 10}\n(viii) B − A' = {2, 4, 6, 8, 10}\n(ix) A' − C = {12}\n(x) (B − C)' = {1, 3, 5, 7, 9, 11}\n(xi) (C − A)' = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12}\n(xii) A' − C' = {11}",
+                "q": "If U = {1, 2, 3, ..., 12}, A = {1, 2, 3, ..., 10}, B = {2, 4, 6, ..., 12} and C = {1, 3, 5, 7, ..., 11} then find the following:\n(i) A ∪ B (ii) A ∩ B (iii) A − B (iv) (A ∩ C)' (v) (B ∪ C)' (vi) B' ∩ C' (vii) A − B' (viii) B − A' (ix) A' − C (x) (B − C)' (xi) (C − A)' (xii) A' − C'"
+              },
+              {
+                "a": "(i) A ∪ B = {a, b, c, d} = B ∪ A\n(ii) B ∩ C = {d} = C ∩ B\n(iii) C ∪ A = {a, b, c, d, e} = A ∪ C\n(iv) (A ∪ B) ∪ C = {a, b, c, d, e} = A ∪ (B ∪ C)\n(v) (A ∩ C) ∩ B = {d} = A ∩ (C ∩ B)\n(vi) (B ∪ A) ∪ C = {a, b, c, d, e} = B ∪ (A ∪ C)",
+                "q": "A = {a, b, c, d}, B = {a, c, d} and C = {b, d, e} prove the following.\n(i) A ∪ B = B ∪ A (ii) B ∩ C = C ∩ B (iii) C ∪ A = A ∪ C (iv) (A ∪ B) ∪ C = A ∪ (B ∪ C) (v) (A ∩ C) ∩ B = A ∩ (C ∩ B) (vi) (B ∪ A) ∪ C = B ∪ (A ∪ C)"
+              },
+              {
+                "a": "(i) (d) {d, e}\n(ii) (b) {o}\n(iii) (a) {2, 3}\n(iv) (c) {1}\n(v) (c) ∅",
+                "q": "Tick (✓) the correct answer.\n(i) If A = {a, b, c} and U = {a, b, c, d, e}, then A' is:\n(a) {a, b} (b) {b, c} (c) {c, d} (d) {d, e}\n(ii) If A = {l, m, n} and B = {l, m, n, o}, then B − A is:\n(a) {l} (b) {o} (c) {n} (d) {m}\n(iii) If P = {1, 2, 3} and Q = {2, 3, 4} then P ∩ Q is:\n(a) {2, 3} (b) {1, 3} (c) {3, 4} (d) {1, 4}\n(iv) If U = {1, 2, 3, 4, 5, 6}, X = {2, 3, 4} and Y = {4, 5, 6} then (X ∪ Y)' is:\n(a) ∅ (b) {2, 3} (c) {1} (d) {6}\n(v) If A = {x, y, z} and B = {y, z, x} then A − B is:\n(a) A (b) B (c) ∅ (d) A ∩ B"
+              },
+              {
+                "a": "(i) C ∩ D = {d, e}\nC ∪ D = {c, d, e, f}\n(ii) P' = {o, r}\nQ' = {l, m}\n(iii) X ∩ Y = {x, z}\nX ∪ Y = {x, y, z}",
+                "q": "Find the following and show through Venn diagram.\n(i) C ∩ D and C ∪ D if C = {c, d, e} and D = {d, e, f}\n(ii) P' and Q' if P = {l, m, n}, Q = {n, o, r} and U = {l, m, n, o, r}\n(iii) X ∩ Y and X ∪ Y if X = {x, z} and Y = {x, y, z}"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Sets",
+        "unit": 1,
+        "display": "Sets"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) True\n(ii) False\n(iii) False\n(iv) False\n(v) True\n(vi) False\n(vii) True\n(viii) True\n(ix) False\n(x) False\n(xi) False",
+                "q": "Write True or False for each of the following statements.\n(i) [[0/5]] is a rational number.   (ii) [[5/0]] is a rational number.\n(iii) 0 is not a rational number.\n(iv) 2 [[1/5]] is a rational number between 5 and 6.\n(v) Negative integers are rational numbers.\n(vi) Positive integers are not rational numbers.\n(vii) Every integer is also a rational number.\n(viii) Every natural number is also a rational number.\n(ix) In rational number [[p/q]], q is always zero.\n(x) There is only one rational number between 2 and 3.\n(xi) Rational numbers are in the form [[p/q]] where p and q are always natural numbers."
+              },
+              {
+                "a": "2 [[1/2]], 2 [[1/3]], 2 [[1/4]]",
+                "q": "Write three rational numbers between 2 and 3."
+              },
+              {
+                "a": "(i) [[1/4]]: divide the portion between 0 and 1 into 4 equal parts; the 1st point is [[1/4]]\n(ii) [[7/2]] = 3 [[1/2]]: divide the portion between 3 and 4 into 2 equal parts; the 1st point is 3 [[1/2]]\n(iii) [[11/3]] = 3 [[2/3]]: divide the portion between 3 and 4 into 3 equal parts; the 2nd point is 3 [[2/3]]\n(iv) −[[2/5]]: divide the portion between 0 and −1 into 5 equal parts; the 2nd point to the left of 0 is −[[2/5]]\n(v) −[[12/5]] = −2 [[2/5]]: divide the portion between −2 and −3 into 5 equal parts; the 2nd point is −2 [[2/5]]\n(vi) 2 [[5/6]]: divide the portion between 2 and 3 into 6 equal parts; the 5th point is 2 [[5/6]]\n(vii) −3 [[4/7]]: divide the portion between −3 and −4 into 7 equal parts; the 4th point is −3 [[4/7]]\n(viii) −[[13/4]] = −3 [[1/4]]: divide the portion between −3 and −4 into 4 equal parts; the 1st point is −3 [[1/4]]\n(ix) [[15/8]] = 1 [[7/8]]: divide the portion between 1 and 2 into 8 equal parts; the 7th point is 1 [[7/8]]\n(x) 4 [[2/3]]: divide the portion between 4 and 5 into 3 equal parts; the 2nd point is 4 [[2/3]]",
+                "q": "Represent the following rational numbers on a number line.\n(i) [[1/4]]   (ii) [[7/2]]   (iii) [[11/3]]   (iv) −[[2/5]]   (v) −[[12/5]]\n(vi) 2 [[5/6]]   (vii) −3 [[4/7]]   (viii) −[[13/4]]   (ix) [[15/8]]   (x) 4 [[2/3]]"
+              },
+              {
+                "a": "x = 2\ny = 2 [[1/6]]\nz = 4\n(i) False\n(ii) True\n(iii) True\n(iv) False\n(v) True\n(vi) False",
+                "q": "For the given number line, write true or false.\nThe portion between 2 and 3 is divided into 6 equal parts. x is the point at 2, y is the 1st division point after 2, the point 2 [[2/6]] is marked, and z is the point at 4.\n(i) The value of x is 0   (ii) The value of x is 2\n(iii) The value of y is 2 [[1/6]]   (iv) The value of y is 3 [[2/5]]\n(v) The value of z is 4   (vi) The value of z is −4."
+              }
+            ],
+            "label": "Exercise 2.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) [[17/19]]\n(ii) −[[1/13]]\n(iii) 10\n(iv) −[[25/6]]",
+                "q": "Find the reciprocals of the following rational numbers.\n(i) [[19/17]]   (ii) −13   (iii) [[1/10]]   (iv) [[−6/25]]"
+              },
+              {
+                "a": "(i) [[9/7]] + [[15/7]]\n= [[9 + 15/7]]\n= [[24/7]]\n(ii) [[5/9]] − [[2/9]]\n= [[5 − 2/9]]\n= [[3/9]]\n= [[1/3]]\n(iii) [[3/5]] − (−[[7/5]])\n= [[3/5]] + [[7/5]]\n= [[3 + 7/5]]\n= [[10/5]]\n= 2\n(iv) [[5/6]] + [[2/6]] − [[1/6]]\n= [[5 + 2 − 1/6]]\n= [[6/6]]\n= 1\n(v) [[5/8]] − [[4/5]]\nLCM of 8 and 5:\n2 | 8, 5\n2 | 4, 5\n2 | 2, 5\n5 | 1, 5\n| 1, 1\nLCM = 2 × 2 × 2 × 5 = 40\n= [[5 × 5 − 4 × 8/40]]\n= [[25 − 32/40]]\n= −[[7/40]]\n(vi) −[[2/7]] + [[7/6]]\nLCM of 7 and 6 = 7 × 6 = 42\n= [[−2 × 6 + 7 × 7/42]]\n= [[−12 + 49/42]]\n= [[37/42]]\n(vii) [[2/3]] + [[5/7]] − [[1/6]]\nLCM of 3, 7 and 6:\n2 | 3, 7, 6\n3 | 3, 7, 3\n7 | 1, 7, 1\n| 1, 1, 1\nLCM = 2 × 3 × 7 = 42\n= [[2 × 14 + 5 × 6 − 1 × 7/42]]\n= [[28 + 30 − 7/42]]\n= [[51/42]]\n= [[17/14]]\n(viii) [[4/5]] − [[1/7]] + [[3/70]]\nLCM of 5, 7 and 70:\n2 | 5, 7, 70\n5 | 5, 7, 35\n7 | 1, 7, 7\n| 1, 1, 1\nLCM = 2 × 5 × 7 = 70\n= [[4 × 14 − 1 × 10 + 3 × 1/70]]\n= [[56 − 10 + 3/70]]\n= [[49/70]]\n= [[7/10]]\n(ix) [[2/9]] − (−[[3/6]]) + [[5/8]]\n= [[2/9]] + [[1/2]] + [[5/8]]\nLCM of 9, 2 and 8:\n2 | 9, 2, 8\n2 | 9, 1, 4\n2 | 9, 1, 2\n3 | 9, 1, 1\n3 | 3, 1, 1\n| 1, 1, 1\nLCM = 2 × 2 × 2 × 3 × 3 = 72\n= [[2 × 8 + 1 × 36 + 5 × 9/72]]\n= [[16 + 36 + 45/72]]\n= [[97/72]]\n(x) [[17/10]] + [[11/20]] − [[4/5]]\nLCM of 10, 20 and 5:\n2 | 10, 20, 5\n2 | 5, 10, 5\n5 | 5, 5, 5\n| 1, 1, 1\nLCM = 2 × 2 × 5 = 20\n= [[17 × 2 + 11 × 1 − 4 × 4/20]]\n= [[34 + 11 − 16/20]]\n= [[29/20]]",
+                "q": "Simplify:\n(i) [[9/7]] + [[15/7]]   (ii) [[5/9]] − [[2/9]]   (iii) [[3/5]] − (−[[7/5]])\n(iv) [[5/6]] + [[2/6]] − [[1/6]]   (v) [[5/8]] − [[4/5]]   (vi) −[[2/7]] + [[7/6]]\n(vii) [[2/3]] + [[5/7]] − [[1/6]]   (viii) [[4/5]] − [[1/7]] + [[3/70]]   (ix) [[2/9]] − (−[[3/6]]) + [[5/8]]\n(x) [[17/10]] + [[11/20]] − [[4/5]]"
+              },
+              {
+                "a": "(i) [[17/15]]\nAdditive inverse = −[[17/15]]\nMultiplicative inverse = [[15/17]]\n(ii) −26\nAdditive inverse = +26\nMultiplicative inverse = −[[1/26]]\n(iii) −[[1/20]]\nAdditive inverse = +[[1/20]]\nMultiplicative inverse = −20\n(iv) [[−5/19]]\nAdditive inverse = +[[5/19]]\nMultiplicative inverse = −[[19/5]]\n(v) 0\nAdditive inverse = 0\nMultiplicative inverse does not exist\n(vi) 8\nAdditive inverse = −8\nMultiplicative inverse = [[1/8]]\n(vii) [[1/9]]\nAdditive inverse = −[[1/9]]\nMultiplicative inverse = 9\n(viii) [[200/7]]\nAdditive inverse = −[[200/7]]\nMultiplicative inverse = [[7/200]]",
+                "q": "Find the additive and multiplicative inverses of each of the following.\n(i) [[17/15]]   (ii) −26   (iii) −[[1/20]]   (iv) [[−5/19]]\n(v) 0   (vi) 8   (vii) [[1/9]]   (viii) [[200/7]]"
+              },
+              {
+                "a": "(i) [[5/8]] × [[3/2]]\n= [[5 × 3/8 × 2]]\n= [[15/16]]\n(ii) [[6/7]] ÷ [[2/5]]\n= [[6/7]] × [[5/2]]\n= [[6 × 5/7 × 2]]\n= [[30/14]]\n= [[15/7]]\n(iii) [[2/3]] × [[1/7]] × [[4/5]]\n= [[2 × 1 × 4/3 × 7 × 5]]\n= [[8/105]]\n(iv) −[[6/7]] ÷ (−[[7/6]])\n= −[[6/7]] × (−[[6/7]])\n= [[(−6) × (−6)/7 × 7]]\n= [[36/49]]\n(v) [[14/5]] ÷ [[7/25]]\n= [[14/5]] × [[25/7]]\n= [[14 × 25/5 × 7]]\n= [[350/35]]\n= 10\n(vi) [[9/4]] × (−[[4/9]]) × ([[2/3]])\n= −[[9 × 4 × 2/4 × 9 × 3]]\n= −[[72/108]]\n= −[[2/3]]\n(vii) [[1/8]] × [[2/5]] × −[[15/4]]\n= −[[1 × 2 × 15/8 × 5 × 4]]\n= −[[30/160]]\n= −[[3/16]]\n(viii) (−[[2/3]]) × (−[[4/6]]) × (−[[3/4]])\n= −[[2 × 4 × 3/3 × 6 × 4]]\n= −[[24/72]]\n= −[[1/3]]",
+                "q": "Simplify:\n(i) [[5/8]] × [[3/2]]   (ii) [[6/7]] ÷ [[2/5]]   (iii) [[2/3]] × [[1/7]] × [[4/5]]\n(iv) −[[6/7]] ÷ (−[[7/6]])   (v) [[14/5]] ÷ [[7/25]]   (vi) [[9/4]] × (−[[4/9]]) × ([[2/3]])\n(vii) [[1/8]] × [[2/5]] × −[[15/4]]   (viii) (−[[2/3]]) × (−[[4/6]]) × (−[[3/4]])"
+              }
+            ],
+            "label": "Exercise 2.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) L.H.S. = [[2/3]] + (−[[4/3]])\n= [[2 − 4/3]]\n= −[[2/3]]\nR.H.S. = (−[[4/3]]) + [[2/3]]\n= [[−4 + 2/3]]\n= −[[2/3]]\nL.H.S. = R.H.S.\n(ii) L.H.S. = [[4/7]] × [[2/5]]\n= [[8/35]]\nR.H.S. = [[2/5]] × [[4/7]]\n= [[8/35]]\nL.H.S. = R.H.S.\n(iii) L.H.S. = [[3/4]] + ([[5/6]] + [[4/8]])\n= [[3/4]] + [[32/24]]\n= [[3/4]] + [[4/3]]\n= [[9 + 16/12]]\n= [[25/12]]\nR.H.S. = ([[3/4]] + [[5/6]]) + [[4/8]]\n= [[19/12]] + [[1/2]]\n= [[19 + 6/12]]\n= [[25/12]]\nL.H.S. = R.H.S.\n(iv) L.H.S. = [[7/15]] × ([[3/4]] × [[5/7]])\n= [[7/15]] × [[15/28]]\n= [[1/4]]\nR.H.S. = ([[7/15]] × [[3/4]]) × [[5/7]]\n= [[21/60]] × [[5/7]]\n= [[7/20]] × [[5/7]]\n= [[1/4]]\nL.H.S. = R.H.S.\n(v) L.H.S. = [[2/7]] × ([[3/4]] − [[1/2]])\n= [[2/7]] × [[1/4]]\n= [[1/14]]\nR.H.S. = [[2/7]] × [[3/4]] − [[2/7]] × [[1/2]]\n= [[6/28]] − [[2/14]]\n= [[3/14]] − [[2/14]]\n= [[1/14]]\nL.H.S. = R.H.S.\n(vi) L.H.S. = [[4/5]] × ([[7/8]] + [[3/5]])\n= [[4/5]] × [[59/40]]\n= [[59/50]]\nR.H.S. = [[4/5]] × [[7/8]] + [[4/5]] × [[3/5]]\n= [[28/40]] + [[12/25]]\n= [[7/10]] + [[12/25]]\n= [[35 + 24/50]]\n= [[59/50]]\nL.H.S. = R.H.S.",
+                "q": "Verify the following\n(i) [[2/3]] + (−[[4/3]]) = (−[[4/3]]) + [[2/3]]   (ii) [[4/7]] × [[2/5]] = [[2/5]] × [[4/7]]\n(iii) [[3/4]] + ([[5/6]] + [[4/8]]) = ([[3/4]] + [[5/6]]) + [[4/8]]   (iv) [[7/15]] × ([[3/4]] × [[5/7]]) = ([[7/15]] × [[3/4]]) × [[5/7]]\n(v) [[2/7]] × ([[3/4]] − [[1/2]]) = [[2/7]] × [[3/4]] − [[2/7]] × [[1/2]]   (vi) [[4/5]] × ([[7/8]] + [[3/5]]) = [[4/5]] × [[7/8]] + [[4/5]] × [[3/5]]"
+              },
+              {
+                "a": "L.H.S. = [[1/2]] + ([[1/3]] + [[1/4]])\n= [[1/2]] + [[7/12]]\n= [[6 + 7/12]]\n= [[13/12]]\nR.H.S. = ([[1/2]] + [[1/3]]) + [[1/4]]\n= [[5/6]] + [[1/4]]\n= [[10 + 3/12]]\n= [[13/12]]\nL.H.S. = R.H.S.",
+                "q": "Verify associative property w.r.t addition for [[1/2]], [[1/3]] and [[1/4]]."
+              },
+              {
+                "a": "L.H.S. = [[2/7]] × ([[4/5]] × [[3/4]])\n= [[2/7]] × [[12/20]]\n= [[2/7]] × [[3/5]]\n= [[6/35]]\nR.H.S. = ([[2/7]] × [[4/5]]) × [[3/4]]\n= [[8/35]] × [[3/4]]\n= [[24/140]]\n= [[6/35]]\nL.H.S. = R.H.S.",
+                "q": "Verify associative property w.r.t multiplication for [[2/7]], [[4/5]] and [[3/4]]."
+              },
+              {
+                "a": "L.H.S. = [[3/4]] × ([[4/5]] + [[7/8]])\n= [[3/4]] × [[67/40]]\n= [[201/160]]\nR.H.S. = [[3/4]] × [[4/5]] + [[3/4]] × [[7/8]]\n= [[12/20]] + [[21/32]]\n= [[3/5]] + [[21/32]]\n= [[96 + 105/160]]\n= [[201/160]]\nL.H.S. = R.H.S.",
+                "q": "Verify distributive property of multiplication over addition for [[3/4]], [[4/5]] and [[7/8]]."
+              },
+              {
+                "a": "L.H.S. = [[5/7]] × ([[3/4]] − [[1/5]])\n= [[5/7]] × [[11/20]]\n= [[55/140]]\n= [[11/28]]\nR.H.S. = [[5/7]] × [[3/4]] − [[5/7]] × [[1/5]]\n= [[15/28]] − [[5/35]]\n= [[15/28]] − [[1/7]]\n= [[15 − 4/28]]\n= [[11/28]]\nL.H.S. = R.H.S.",
+                "q": "Verify distributive property of multiplication over subtraction for [[5/7]], [[3/4]] and [[1/5]]."
+              },
+              {
+                "a": "(i) [[1/2]], [[2/3]], [[8/9]]\nLCM of 2, 3 and 9 = 18\n[[1/2]] = [[9/18]], [[2/3]] = [[12/18]], [[8/9]] = [[16/18]]\nDescending order: [[8/9]], [[2/3]], [[1/2]]\n(ii) [[1/6]], [[3/4]], [[1/2]]\nLCM of 6, 4 and 2 = 12\n[[1/6]] = [[2/12]], [[3/4]] = [[9/12]], [[1/2]] = [[6/12]]\nDescending order: [[3/4]], [[1/2]], [[1/6]]\n(iii) [[4/7]], [[1/3]], [[5/6]]\nLCM of 7, 3 and 6 = 42\n[[4/7]] = [[24/42]], [[1/3]] = [[14/42]], [[5/6]] = [[35/42]]\nDescending order: [[5/6]], [[4/7]], [[1/3]]",
+                "q": "Arrange the following rational numbers in descending order.\n(i) [[1/2]], [[2/3]], [[8/9]]   (ii) [[1/6]], [[3/4]], [[1/2]]   (iii) [[4/7]], [[1/3]], [[5/6]]"
+              },
+              {
+                "a": "(i) [[1/2]], [[1/3]], [[1/4]]\nLCM of 2, 3 and 4 = 12\n[[1/2]] = [[6/12]], [[1/3]] = [[4/12]], [[1/4]] = [[3/12]]\nAscending order: [[1/4]], [[1/3]], [[1/2]]\n(ii) [[4/5]], [[1/10]], [[2/15]]\nLCM of 5, 10 and 15 = 30\n[[4/5]] = [[24/30]], [[1/10]] = [[3/30]], [[2/15]] = [[4/30]]\nAscending order: [[1/10]], [[2/15]], [[4/5]]\n(iii) [[3/8]], [[1/4]], [[5/6]]\nLCM of 8, 4 and 6 = 24\n[[3/8]] = [[9/24]], [[1/4]] = [[6/24]], [[5/6]] = [[20/24]]\nAscending order: [[1/4]], [[3/8]], [[5/6]]",
+                "q": "Arrange the following rational numbers in ascending order.\n(i) [[1/2]], [[1/3]], [[1/4]]   (ii) [[4/5]], [[1/10]], [[2/15]]   (iii) [[3/8]], [[1/4]], [[5/6]]"
+              },
+              {
+                "a": "(i) [[4/3]], [[5/7]], [[1/4]]\nLCM of 3, 7 and 4 = 84\n[[4/3]] = [[112/84]], [[5/7]] = [[60/84]], [[1/4]] = [[21/84]]\nAscending order: [[1/4]], [[5/7]], [[4/3]]\nDescending order: [[4/3]], [[5/7]], [[1/4]]\n(ii) [[1/2]], [[2/5]], [[1/11]]\nLCM of 2, 5 and 11 = 110\n[[1/2]] = [[55/110]], [[2/5]] = [[44/110]], [[1/11]] = [[10/110]]\nAscending order: [[1/11]], [[2/5]], [[1/2]]\nDescending order: [[1/2]], [[2/5]], [[1/11]]\n(iii) [[2/9]], [[5/3]], [[1/2]], [[5/6]]\nLCM of 9, 3, 2 and 6 = 18\n[[2/9]] = [[4/18]], [[5/3]] = [[30/18]], [[1/2]] = [[9/18]], [[5/6]] = [[15/18]]\nAscending order: [[2/9]], [[1/2]], [[5/6]], [[5/3]]\nDescending order: [[5/3]], [[5/6]], [[1/2]], [[2/9]]\n(iv) [[4/20]], [[20/15]], [[1/2]], [[9/7]]\nLCM of 20, 15, 2 and 7 = 420\n[[4/20]] = [[84/420]], [[20/15]] = [[560/420]], [[1/2]] = [[210/420]], [[9/7]] = [[540/420]]\nAscending order: [[4/20]], [[1/2]], [[9/7]], [[20/15]]\nDescending order: [[20/15]], [[9/7]], [[1/2]], [[4/20]]",
+                "q": "Arrange the following numbers in ascending and descending order.\n(i) [[4/3]], [[5/7]], [[1/4]]   (ii) [[1/2]], [[2/5]], [[1/11]]   (iii) [[2/9]], [[5/3]], [[1/2]], [[5/6]]   (iv) [[4/20]], [[20/15]], [[1/2]], [[9/7]]"
+              }
+            ],
+            "label": "Exercise 2.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) A rational number is a number that can be expressed in the form [[p/q]], where p and q are integers and q ≠ 0.\n[[−2/3]], [[1/7]], [[3/4]], [[−15/17]]\n(ii) −a\n(iii) [[q/p]]\n(iv) [[p/q]] + [[r/s]] = [[ps + qr/qs]]\n(v) [[p/q]] × [[r/s]] = [[pr/qs]]\n(vi) Subtraction and division",
+                "q": "Answer the following questions.\n(i) Define a rational number and give its examples.\n(ii) Write the additive inverse of the rational number \"a\".\n(iii) What is the reciprocal of the rational number [[p/q]], q ≠ 0?\n(iv) Write the sum of two rational numbers [[p/q]] and [[r/s]], (q and s are non-zero).\n(v) What is the rule of finding the product of two rational numbers?\n(vi) What are the inverse operations of addition and multiplication?"
+              },
+              {
+                "a": "(i) rational number\n(ii) additive\n(iii) rational number\n(iv) multiplicative inverse\n(v) multiplicative",
+                "q": "Fill in the blanks.\n(i) Every fraction as well as integer is ___.\n(ii) The rational number [[p/q]] and [[−p/q]] are called ___ inverse of each other.\n(iii) A number that can be expressed in the form of [[p/q]], where p and q are integers and q ≠ 0 is called a ___ number.\n(iv) The rational number 0 has no ___.\n(v) The ___ inverse of a rational number is its reciprocal."
+              },
+              {
+                "a": "(i) (b) rational number\n(ii) (a) −[[2/3]]\n(iii) (c) −[[7/4]]\n(iv) (d) [[5/6]]\n(v) (d) −[[2/5]]",
+                "q": "Tick (✓) the correct option.\n(i) A number that can be expressed in the form of [[p/q]] where p, q ∈ Z, q ≠ 0 is called.\n(a) integer (b) rational number (c) whole number (d) positive number.\n(ii) The additive inverse of [[2/3]] is:\n(a) −[[2/3]] (b) [[3/2]] (c) [[1/3]] (d) −[[3/2]]\n(iii) The multiplicative inverse of −[[4/7]] is:\n(a) [[4/7]] (b) [[7/4]] (c) −[[7/4]] (d) [[1/7]]\n(iv) [[1/3]] + [[1/2]] = ___.\n(a) [[1/5]] (b) [[1/6]] (c) [[2/5]] (d) [[5/6]]\n(v) [[2/5]] + (−[[4/5]]) = ___.\n(a) 2 (b) −2 (c) −[[1/2]] (d) −[[2/5]]"
+              },
+              {
+                "a": "(i) 1 [[1/2]]: divide the portion between 1 and 2 into 2 equal parts; the 1st point is 1 [[1/2]]\n(ii) 3 [[1/3]]: divide the portion between 3 and 4 into 3 equal parts; the 1st point is 3 [[1/3]]\n(iii) −[[1/4]]: divide the portion between 0 and −1 into 4 equal parts; the 1st point to the left of 0 is −[[1/4]]\n(iv) −1 [[4/5]]: divide the portion between −1 and −2 into 5 equal parts; the 4th point is −1 [[4/5]]",
+                "q": "Draw the number lines and represent the following rational numbers on number lines.\n(i) 1 [[1/2]]   (ii) 3 [[1/3]]   (iii) −[[1/4]]   (iv) −1 [[4/5]]"
+              },
+              {
+                "a": "(i) −14\nAdditive inverse = 14\nMultiplicative inverse = −[[1/14]]\n(ii) [[1/5]]\nAdditive inverse = −[[1/5]]\nMultiplicative inverse = 5\n(iii) −[[2/3]]\nAdditive inverse = [[2/3]]\nMultiplicative inverse = −[[3/2]]\n(iv) −[[11/27]]\nAdditive inverse = [[11/27]]\nMultiplicative inverse = −[[27/11]]",
+                "q": "Find the additive and multiplicative inverse of the following rational numbers.\n(i) −14   (ii) [[1/5]]   (iii) −[[2/3]]   (iv) −[[11/27]]"
+              },
+              {
+                "a": "(i) [[2/3]] > [[1/5]]\n(ii) [[10/13]] = [[140/182]], [[11/14]] = [[143/182]]\n[[10/13]] < [[11/14]]\n(iii) [[1/4]] > −[[1/2]]\n(iv) −[[11/17]] < [[3/8]]\n(v) −[[4/9]] = −[[20/45]], −[[2/5]] = −[[18/45]]\n−[[4/9]] < −[[2/5]]\n(vi) −[[5/22]] = −[[125/550]], −[[11/25]] = −[[242/550]]\n−[[5/22]] > −[[11/25]]",
+                "q": "Put the correct sign > or < between the following pair of rational number.\n(i) [[2/3]], [[1/5]]   (ii) [[10/13]], [[11/14]]   (iii) [[1/4]], −[[1/2]]\n(iv) −[[11/17]], [[3/8]]   (v) −[[4/9]], −[[2/5]]   (vi) −[[5/22]], −[[11/25]]"
+              },
+              {
+                "a": "(i) [[1/2]] + [[1/3]] + [[1/6]]\n= [[3 + 2 + 1/6]]\n= [[6/6]]\n= 1\n(ii) [[2/7]] + [[1/2]] − [[3/14]]\n= [[4 + 7 − 3/14]]\n= [[8/14]]\n= [[4/7]]\n(iii) [[5/8]] − [[1/5]] − [[3/4]]\nLCM of 8, 5 and 4 = 40\n= [[25 − 8 − 30/40]]\n= −[[13/40]]\n(iv) (−[[1/3]]) + (−[[1/4]]) + [[1/2]]\n= [[−4 − 3 + 6/12]]\n= −[[1/12]]\n(v) (−[[11/15]]) + (−[[3/5]]) + [[5/4]]\nLCM of 15, 5 and 4 = 60\n= [[−44 − 36 + 75/60]]\n= −[[5/60]]\n= −[[1/12]]\n(vi) (−[[19/55]]) + [[51/55]] + (−[[21/55]])\n= [[−19 + 51 − 21/55]]\n= [[11/55]]\n= [[1/5]]",
+                "q": "Solve the following.\n(i) [[1/2]] + [[1/3]] + [[1/6]]   (ii) [[2/7]] + [[1/2]] − [[3/14]]   (iii) [[5/8]] − [[1/5]] − [[3/4]]\n(iv) (−[[1/3]]) + (−[[1/4]]) + [[1/2]]   (v) (−[[11/15]]) + (−[[3/5]]) + [[5/4]]\n(vi) (−[[19/55]]) + [[51/55]] + (−[[21/55]])"
+              },
+              {
+                "a": "(i) (−[[1/100]]) ÷ (−[[1/10]])\n= (−[[1/100]]) × (−10)\n= [[10/100]]\n= [[1/10]]\n(ii) [[1/5]] × [[2/3]] × (−[[30/44]])\n= −[[1 × 2 × 30/5 × 3 × 44]]\n= −[[60/660]]\n= −[[1/11]]\n(iii) [[2/3]] ÷ [[16/21]] × [[27/49]]\n= [[2/3]] × [[21/16]] × [[27/49]]\n= [[2 × 21 × 27/3 × 16 × 49]]\n= [[1134/2352]]\n= [[27/56]]\n(iv) [[8/21]] ÷ [[7/12]]\n= [[8/21]] × [[12/7]]\n= [[8 × 12/21 × 7]]\n= [[96/147]]\n= [[32/49]]\n(v) [[1/6]] × (−[[2/3]]) ÷ (−[[11/63]])\n= [[1/6]] × (−[[2/3]]) × (−[[63/11]])\n= [[1 × (−2) × (−63)/6 × 3 × 11]]\n= [[126/198]]\n= [[7/11]]\n(vi) −[[2/7]] ÷ [[3/4]] × [[63/100]]\n= −[[2/7]] × [[4/3]] × [[63/100]]\n= −[[2 × 4 × 63/7 × 3 × 100]]\n= −[[504/2100]]\n= −[[6/25]]",
+                "q": "Simplify the following.\n(i) (−[[1/100]]) ÷ (−[[1/10]])   (ii) [[1/5]] × [[2/3]] × (−[[30/44]])\n(iii) [[2/3]] ÷ [[16/21]] × [[27/49]]   (iv) [[8/21]] ÷ [[7/12]]\n(v) [[1/6]] × (−[[2/3]]) ÷ (−[[11/63]])   (vi) −[[2/7]] ÷ [[3/4]] × [[63/100]]"
+              },
+              {
+                "a": "(i) L.H.S. = (−1) + [[35/54]]\n= [[−54 + 35/54]]\n= −[[19/54]]\nR.H.S. = [[35/54]] + (−1)\n= [[35 − 54/54]]\n= −[[19/54]]\nL.H.S. = R.H.S.\n(ii) L.H.S. = (−[[121/169]]) × (−[[13/11]])\n= [[121 × 13/169 × 11]]\n= [[1573/1859]]\n= [[11/13]]\nR.H.S. = (−[[13/11]]) × (−[[121/169]])\n= [[13 × 121/11 × 169]]\n= [[1573/1859]]\n= [[11/13]]\nL.H.S. = R.H.S.\n(iii) L.H.S. = [[4/9]] × ([[2/3]] × [[5/7]])\n= [[4/9]] × [[10/21]]\n= [[40/189]]\nR.H.S. = ([[4/9]] × [[2/3]]) × [[5/7]]\n= [[8/27]] × [[5/7]]\n= [[40/189]]\nL.H.S. = R.H.S.\n(iv) L.H.S. = −[[4/5]] × ([[1/8]] + [[11/12]])\n= −[[4/5]] × [[25/24]]\n= −[[100/120]]\n= −[[5/6]]\nR.H.S. = (−[[4/5]] × [[1/8]]) + (−[[4/5]] × [[11/12]])\n= −[[1/10]] + (−[[11/15]])\n= [[−3 − 22/30]]\n= −[[25/30]]\n= −[[5/6]]\nL.H.S. = R.H.S.\n(v) L.H.S. = −[[1/4]] + ([[1/6]] + [[3/5]])\n= −[[1/4]] + [[23/30]]\n= [[−15 + 46/60]]\n= [[31/60]]\nR.H.S. = (−[[1/4]] + [[1/6]]) + [[3/5]]\n= −[[1/12]] + [[3/5]]\n= [[−5 + 36/60]]\n= [[31/60]]\nL.H.S. = R.H.S.\n(vi) L.H.S. = [[5/12]] × (−[[2/7]] − 2)\n= [[5/12]] × (−[[16/7]])\n= −[[80/84]]\n= −[[20/21]]\nR.H.S. = ([[5/12]] × −[[2/7]]) − ([[5/12]] × 2)\n= −[[10/84]] − [[10/12]]\n= [[−10 − 70/84]]\n= −[[80/84]]\n= −[[20/21]]\nL.H.S. = R.H.S.",
+                "q": "Prove that:\n(i) (−1) + [[35/54]] = [[35/54]] + (−1)   (ii) (−[[121/169]]) × (−[[13/11]]) = (−[[13/11]]) × (−[[121/169]])\n(iii) [[4/9]] × ([[2/3]] × [[5/7]]) = ([[4/9]] × [[2/3]]) × [[5/7]]   (iv) −[[4/5]] × ([[1/8]] + [[11/12]]) = (−[[4/5]] × [[1/8]]) + (−[[4/5]] × [[11/12]])\n(v) −[[1/4]] + ([[1/6]] + [[3/5]]) = (−[[1/4]] + [[1/6]]) + [[3/5]]   (vi) [[5/12]] × (−[[2/7]] − 2) = ([[5/12]] × −[[2/7]]) − ([[5/12]] × 2)"
+              },
+              {
+                "a": "(i) Commutative property w.r.t addition\n(ii) Commutative property w.r.t multiplication\n(iii) Associative property w.r.t multiplication\n(iv) Associative property w.r.t addition\n(v) Associative property w.r.t addition\n(vi) Distributive property of multiplication over addition\n(vii) Commutative property w.r.t multiplication\n(viii) Distributive property of multiplication over subtraction\n(ix) Distributive property of multiplication over subtraction\n(x) Distributive property of multiplication over addition",
+                "q": "Name the properties used in the following.\n(i) (−[[1/2]]) + [[1/3]] = [[1/3]] + (−[[1/2]])\n(ii) −[[10/11]] × (−[[5/44]]) = (−[[5/44]]) × (−[[10/11]])\n(iii) −[[2/3]] × ([[7/8]] × [[9/14]]) = (−[[2/3]] × [[7/8]]) × [[9/14]]\n(iv) −[[3/5]] + ([[1/2]] + [[7/10]]) = (−[[3/5]] + [[1/2]]) + [[7/10]]\n(v) −[[1/2]] + ([[3/5]] + [[1/4]]) = (−[[1/2]] + [[3/5]]) + [[1/4]]\n(vi) [[2/3]] × ([[1/2]] + [[5/6]]) = ([[2/3]] × [[1/2]]) + ([[2/3]] × [[5/6]])\n(vii) (−[[12/105]]) × (−[[15/84]]) = (−[[15/84]]) × (−[[12/105]])\n(viii) [[1/4]] × ([[8/9]] − [[12/15]]) = ([[1/4]] × [[8/9]]) − ([[1/4]] × [[12/15]])\n(ix) −[[5/8]] × ([[4/7]] − [[2/3]]) = (−[[5/8]] × [[4/7]]) − (−[[5/8]] × [[2/3]])\n(x) [[24/49]] × ([[7/8]] + [[14/6]]) = ([[24/49]] × [[7/8]]) + ([[24/49]] × [[14/6]])"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Rational Numbers",
+        "unit": 2,
+        "display": "Rational Numbers"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(1) 0.2 = [[2/10]] = [[1/5]]\n(2) 0.4 = [[4/10]] = [[2/5]]\n(3) 0.6 = [[6/10]] = [[3/5]]\n(4) 0.8 = [[8/10]] = [[4/5]]\n(5) 0.9 = [[9/10]]",
+                "q": "A. Convert the following one place-decimals into rational numbers.\n(1) 0.2   (2) 0.4   (3) 0.6   (4) 0.8   (5) 0.9"
+              },
+              {
+                "a": "(1) 0.15 = [[15/100]] = [[3/20]]\n(2) 0.35 = [[35/100]] = [[7/20]]\n(3) 0.48 = [[48/100]] = [[12/25]]\n(4) 0.75 = [[75/100]] = [[3/4]]\n(5) 0.95 = [[95/100]] = [[19/20]]\n(6) −1.30 = −(1 + [[30/100]]) = −1 [[3/10]] = −[[13/10]]\n(7) −2.50 = −(2 + [[50/100]]) = −2 [[1/2]] = −[[5/2]]\n(8) 5.05 = 5 + [[5/100]] = 5 [[1/20]] = [[101/20]]\n(9) 5.60 = 5 + [[60/100]] = 5 [[3/5]] = [[28/5]]\n(10) 6.85 = 6 + [[85/100]] = 6 [[17/20]] = [[137/20]]",
+                "q": "B. Convert the following two place-decimals into rational numbers.\n(1) 0.15   (2) 0.35   (3) 0.48   (4) 0.75   (5) 0.95\n(6) −1.30   (7) −2.50   (8) 5.05   (9) 5.60   (10) 6.85"
+              },
+              {
+                "a": "(1) 0.024 = [[24/1000]] = [[3/125]]\n(2) 3.125 = 3 + [[125/1000]] = 3 [[1/8]] = [[25/8]]\n(3) 0.375 = [[375/1000]] = [[3/8]]\n(4) 4.065 = 4 + [[65/1000]] = 4 [[13/200]] = [[813/200]]\n(5) 5.625 = 5 + [[625/1000]] = 5 [[5/8]] = [[45/8]]\n(6) −0.001 = −[[1/1000]]\n(7) −0.0005 = −[[5/10000]] = −[[1/2000]]\n(8) −0.005 = −[[5/1000]] = −[[1/200]]\n(9) −5.005 = −(5 + [[5/1000]]) = −5 [[1/200]] = −[[1001/200]]\n(10) −11.375 = −(11 + [[375/1000]]) = −11 [[3/8]] = −[[91/8]]\n(11) −0.00125 = −[[125/100000]] = −[[1/800]]\n(12) −15.00625 = −(15 + [[625/100000]]) = −15 [[1/160]] = −[[2401/160]]",
+                "q": "C. Convert the following three place-decimals into rational numbers.\n(1) 0.024   (2) 3.125   (3) 0.375   (4) 4.065   (5) 5.625\n(6) −0.001   (7) −0.0005   (8) −0.005   (9) −5.005\n(10) −11.375   (11) −0.00125   (12) −15.00625"
+              }
+            ],
+            "label": "Exercise 3.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(1) [[7/3]] = 2.333...\nNon-terminating\n(2) [[11/6]] = 1.8333...\nNon-terminating\n(3) −[[13/9]] = −1.444...\nNon-terminating\n(4) [[15/7]] = 2.142857142857...\nNon-terminating\n(5) [[14/9]] = 1.555...\nNon-terminating\n(6) −[[17/11]] = −1.545454...\nNon-terminating\n(7) [[19/12]] = 1.58333...\nNon-terminating\n(8) [[21/13]] = 1.615384615384...\nNon-terminating\n(9) −[[23/14]] = −1.642857142857...\nNon-terminating\n(10) −[[29/15]] = −1.9333...\nNon-terminating\n(11) [[31/17]] = 1.8235294117647058...\nNon-terminating\n(12) −[[35/18]] = −1.9444...\nNon-terminating\n(13) [[47/19]] = 2.473684210526315789...\nNon-terminating\n(14) [[35/23]] = 1.5217391304347826...\nNon-terminating\n(15) −[[20/21]] = −0.952380952380...\nNon-terminating\n(16) [[39/22]] = 1.772727...\nNon-terminating\n(17) −[[41/29]] = −1.4137931034482758...\nNon-terminating\n(18) [[40/31]] = 1.2903225806451612...\nNon-terminating\n(19) −[[50/37]] = −1.351351...\nNon-terminating\n(20) [[101/41]] = 2.4634146341463414...\nNon-terminating",
+                "q": "I. Convert into decimals and identify terminating or non-terminating decimals.\n(1) [[7/3]]   (2) [[11/6]]   (3) −[[13/9]]   (4) [[15/7]]   (5) [[14/9]]\n(6) −[[17/11]]   (7) [[19/12]]   (8) [[21/13]]   (9) −[[23/14]]   (10) −[[29/15]]\n(11) [[31/17]]   (12) −[[35/18]]   (13) [[47/19]]   (14) [[35/23]]   (15) −[[20/21]]\n(16) [[39/22]]   (17) −[[41/29]]   (18) [[40/31]]   (19) −[[50/37]]   (20) [[101/41]]"
+              },
+              {
+                "a": "(1) [[19/20]] = 0.95\nTerminating, not recurring\n(2) [[17/6]] = 2.8333...\nNon-terminating, recurring (3 repeats)\n(3) [[15/8]] = 1.875\nTerminating, not recurring\n(4) [[25/10]] = 2.5\nTerminating, not recurring\n(5) [[2/11]] = 0.181818...\nNon-terminating, recurring (18 repeats)\n(6) [[10/3]] = 3.333...\nNon-terminating, recurring (3 repeats)\n(7) [[11/12]] = 0.91666...\nNon-terminating, recurring (6 repeats)\n(8) [[16/7]] = 2.285714285714...\nNon-terminating, recurring (285714 repeats)\n(9) [[2/13]] = 0.153846153846...\nNon-terminating, recurring (153846 repeats)\n(10) [[4/25]] = 0.16\nTerminating, not recurring",
+                "q": "II. Convert into decimals and identify which is recurring and which is not.\n(1) [[19/20]]   (2) [[17/6]]   (3) [[15/8]]   (4) [[25/10]]   (5) [[2/11]]\n(6) [[10/3]]   (7) [[11/12]]   (8) [[16/7]]   (9) [[2/13]]   (10) [[4/25]]"
+              }
+            ],
+            "label": "Exercise 3.2"
+          },
+          {
+            "items": [
+              {
+                "a": "Terminating:\n(1) [[12/25]]: 25 = 5 × 5\n(4) [[17/20]]: 20 = 2 × 2 × 5\n(5) [[117/125]]: 125 = 5 × 5 × 5\n(7) −[[9/40]]: 40 = 2 × 2 × 2 × 5\n(12) −[[96/100]] = −[[24/25]]: 25 = 5 × 5\n(13) [[101/125]]: 125 = 5 × 5 × 5\n(14) [[111/96]] = [[37/32]]: 32 = 2 × 2 × 2 × 2 × 2\n(15) [[125/200]] = [[5/8]]: 8 = 2 × 2 × 2\n(19) [[372/400]] = [[93/100]]: 100 = 2 × 2 × 5 × 5\nNon-terminating:\n(2) [[43/21]]: 21 = 3 × 7\n(3) [[5/12]]: 12 = 2 × 2 × 3\n(6) [[5/7]]: 7\n(8) [[10/33]]: 33 = 3 × 11\n(9) [[23/60]]: 60 = 2 × 2 × 3 × 5\n(10) [[40/35]] = [[8/7]]: 7\n(11) [[55/75]] = [[11/15]]: 15 = 3 × 5\n(16) [[141/144]] = [[47/48]]: 48 = 2 × 2 × 2 × 2 × 3\n(17) [[200/201]]: 201 = 3 × 67\n(18) −[[210/147]] = −[[10/7]]: 7\n(20) −[[401/333]]: 333 = 3 × 3 × 37",
+                "q": "Without actual division, separate the terminating and non-terminating decimals.\n(1) [[12/25]]   (2) [[43/21]]   (3) [[5/12]]   (4) [[17/20]]   (5) [[117/125]]\n(6) [[5/7]]   (7) −[[9/40]]   (8) [[10/33]]   (9) [[23/60]]   (10) [[40/35]]\n(11) [[55/75]]   (12) −[[96/100]]   (13) [[101/125]]   (14) [[111/96]]   (15) [[125/200]]\n(16) [[141/144]]   (17) [[200/201]]   (18) −[[210/147]]   (19) [[372/400]]   (20) −[[401/333]]"
+              }
+            ],
+            "label": "Exercise 3.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(1) [[5/14]] = 0.357142857142...\nRecurring\n(2) −[[13/18]] = −0.7222...\nRecurring\n(3) [[19/20]] = 0.95\nTerminating\n(4) −3 [[21/22]] = −3.954545...\nRecurring\n(5) 6 [[17/30]] = 6.5666...\nRecurring\n(6) [[23/40]] = 0.575\nTerminating\n(7) −[[25/34]] = −0.735294117647...\nRecurring\n(8) 2 [[15/26]] = 2.576923076923...\nRecurring\n(9) 3 [[27/32]] = 3.84375\nTerminating\n(10) −1 [[29/45]] = −1.6444...\nRecurring\n(11) 2 [[31/38]] = 2.815789473684...\nRecurring\n(12) [[39/46]] = 0.847826086956...\nRecurring\n(13) −3 [[49/50]] = −3.98\nTerminating\n(14) 2 [[45/48]] = 2.9375\nTerminating\n(15) [[91/65]] = 1.4\nTerminating\n(16) −[[153/85]] = −1.8\nTerminating\n(17) [[266/171]] = 1.5555...\nRecurring\n(18) −[[102/210]] = −0.485714285714...\nRecurring\n(19) [[111/228]] = 0.486842105263...\nRecurring\n(20) [[272/288]] = 0.9444...\nRecurring",
+                "q": "Express the following rational numbers as decimals. Also indicate whether each is terminating or recurring.\n(1) [[5/14]]   (2) −[[13/18]]   (3) [[19/20]]   (4) −3 [[21/22]]   (5) 6 [[17/30]]\n(6) [[23/40]]   (7) −[[25/34]]   (8) 2 [[15/26]]   (9) 3 [[27/32]]   (10) −1 [[29/45]]\n(11) 2 [[31/38]]   (12) [[39/46]]   (13) −3 [[49/50]]   (14) 2 [[45/48]]   (15) [[91/65]]\n(16) −[[153/85]]   (17) [[266/171]]   (18) −[[102/210]]   (19) [[111/228]]   (20) [[272/288]]"
+              }
+            ],
+            "label": "Exercise 3.4"
+          },
+          {
+            "items": [
+              {
+                "a": "(1) [[23/400]] = 0.0575\n0.058\n(2) [[27/64]] = 0.421875\n0.422\n(3) [[53/60]] = 0.883333...\n0.883\n(4) −[[46/75]] = −0.613333...\n−0.613\n(5) [[69/70]] = 0.9857142857...\n0.986\n(6) [[77/80]] = 0.9625\n0.963\n(7) −[[43/90]] = −0.477777...\n−0.478\n(8) [[119/120]] = 0.991666...\n0.992\n(9) [[246/300]] = 0.82\n0.820\n(10) −[[81/96]] = −0.84375\n−0.844",
+                "q": "I. Convert the following rational numbers as terminating and non-terminating decimals and express up to three places of decimal.\n(1) [[23/400]]   (2) [[27/64]]   (3) [[53/60]]   (4) −[[46/75]]   (5) [[69/70]]\n(6) [[77/80]]   (7) −[[43/90]]   (8) [[119/120]]   (9) [[246/300]]   (10) −[[81/96]]"
+              },
+              {
+                "a": "(1) [[4/15]] = 0.2666...\n0.27\n(2) −[[11/12]] = −0.91666...\n−0.92\n(3) [[8/9]] = 0.8888...\n0.89\n(4) [[22/7]] = 3.142857142857...\n3.14\n(5) −[[21/16]] = −1.3125\n−1.31\n(6) [[3/40]] = 0.075\n0.08\n(7) −[[18/45]] = −0.4\n−0.40\n(8) [[21/66]] = 0.3181818...\n0.32\n(9) [[33/90]] = 0.36666...\n0.37\n(10) −[[81/101]] = −0.801980198...\n−0.80",
+                "q": "II. Identify terminating and non-terminating decimals by division and express them up to two places of decimal.\n(1) [[4/15]]   (2) −[[11/12]]   (3) [[8/9]]   (4) [[22/7]]   (5) −[[21/16]]\n(6) [[3/40]]   (7) −[[18/45]]   (8) [[21/66]]   (9) [[33/90]]   (10) −[[81/101]]"
+              },
+              {
+                "a": "(1) [[10/11]] = 0.909090...\n0.909\n(2) −[[41/90]] = −0.455555...\n−0.456\n(3) [[21/13]] = 1.615384615384...\n1.615\n(4) [[17/19]] = 0.894736842105...\n0.895\n(5) [[9/7]] = 1.285714285714...\n1.286\n(6) [[15/23]] = 0.652173913043...\n0.652\n(7) −[[111/96]] = −1.15625\nTerminating\n−1.156\n(8) [[22/29]] = 0.758620689655...\n0.759",
+                "q": "III. Express the following rational numbers as non-terminating or recurring up to three places of decimal.\n(1) [[10/11]]   (2) −[[41/90]]   (3) [[21/13]]   (4) [[17/19]]   (5) [[9/7]]\n(6) [[15/23]]   (7) −[[111/96]]   (8) [[22/29]]"
+              },
+              {
+                "a": "(1) 0.4555 → 0.46\n(2) 0.3648 → 0.36\n(3) 0.6666 → 0.67\n(4) 0.1054 → 0.11\n(5) 1.9091 → 1.91\n(6) 3.2479 → 3.25\n(7) 2.0518 → 2.05\n(8) 8.3381 → 8.34\n(9) 10.1036 → 10.10\n(10) 3.9995 → 4.00\n(11) 13.0967 → 13.10\n(12) 15.8159 → 15.82",
+                "q": "IV. Round off the following decimals up to two places of decimal.\n(1) 0.4555   (2) 0.3648   (3) 0.6666   (4) 0.1054\n(5) 1.9091   (6) 3.2479   (7) 2.0518   (8) 8.3381\n(9) 10.1036   (10) 3.9995   (11) 13.0967   (12) 15.8159"
+              },
+              {
+                "a": "(1) 4.51689 → 4.517\n(2) 6.7472 → 6.747\n(3) 0.0098 → 0.010\n(4) 0.9861 → 0.986\n(5) 206.4176 → 206.418\n(6) 3.4073 → 3.407\n(7) 102.99909 → 102.999\n(8) 11.1234 → 11.123\n(9) 55.12345 → 55.123\n(10) 4.10539 → 4.105\n(11) 66.3957 → 66.396\n(12) 59.9196 → 59.920",
+                "q": "V. Round off the following decimals up to three places of decimal.\n(1) 4.51689   (2) 6.7472   (3) 0.0098   (4) 0.9861\n(5) 206.4176   (6) 3.4073   (7) 102.99909   (8) 11.1234\n(9) 55.12345   (10) 4.10539   (11) 66.3957   (12) 59.9196"
+              }
+            ],
+            "label": "Exercise 3.5"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 0.325 = [[325/1000]] = [[13/40]]\n(ii) 0.75 = [[75/100]] = [[3/4]]\n(iii) 2.5 = 2 [[5/10]] = 2 [[1/2]]\n(iv) 7.75 = 7 [[75/100]] = 7 [[3/4]]\n(v) 0.78 = [[78/100]] = [[39/50]]\n(vi) 1.297 = 1 [[297/1000]]\n(vii) 2.348 = 2 [[348/1000]] = 2 [[87/250]]",
+                "q": "Convert the following decimals into rational numbers.\n(i) 0.325   (ii) 0.75   (iii) 2.5   (iv) 7.75\n(v) 0.78   (vi) 1.297   (vii) 2.348"
+              },
+              {
+                "a": "(i) [[41/5]] = 8.2\nTerminating\n(ii) [[111/12]] = 9.25\nTerminating\n(iii) [[28/9]] = 3.111...\nNon-terminating\n(iv) [[10/7]] = 1.428571428571...\nNon-terminating\n(v) [[22/7]] = 3.142857142857...\nNon-terminating\n(vi) [[21/16]] = 1.3125\nTerminating\n(vii) [[73/10]] = 7.3\nTerminating",
+                "q": "Convert the following into decimal fractions and identify terminating and non-terminating fractions.\n(i) [[41/5]]   (ii) [[111/12]]   (iii) [[28/9]]   (iv) [[10/7]]\n(v) [[22/7]]   (vi) [[21/16]]   (vii) [[73/10]]"
+              },
+              {
+                "a": "(i) 14.5828 → 14.58\n(ii) 10.78287 → 10.78\n(iii) 5.7895 → 5.79\n(iv) 6.7989 → 6.80\n(v) 25.4897 → 25.49",
+                "q": "Round off the following up to two-decimal places.\n(i) 14.5828   (ii) 10.78287   (iii) 5.7895\n(iv) 6.7989   (v) 25.4897"
+              },
+              {
+                "a": "Terminating:\n(i) [[13/4]]: 4 = 2 × 2\n(ii) [[17/25]]: 25 = 5 × 5\nNon-terminating:\n(iii) [[80/3]]: 3\n(iv) [[15/11]]: 11\n(v) [[19/6]]: 6 = 2 × 3\n(vi) [[25/15]] = [[5/3]]: 3\n(vii) [[22/7]]: 7\n(viii) [[14/9]]: 9 = 3 × 3",
+                "q": "Without actual division, separate the terminating and non-terminating decimals.\n(i) [[13/4]]   (ii) [[17/25]]   (iii) [[80/3]]   (iv) [[15/11]]\n(v) [[19/6]]   (vi) [[25/15]]   (vii) [[22/7]]   (viii) [[14/9]]"
+              },
+              {
+                "a": "(i) [[21/100]] = 0.21\n(ii) [[127/20]] = 6.35\n(iii) [[13/25]] = 0.52\n(iv) [[31/50]] = 0.62\n(v) [[145/1000]] = 0.145\n(vi) [[25/8]] = 3.125\n(vii) [[23/6]] = 3.8333...\nNon-terminating\n(viii) [[88/64]] = 1.375\n(ix) [[48/32]] = 1.5",
+                "q": "Express the following rational numbers in terminating decimals.\n(i) [[21/100]]   (ii) [[127/20]]   (iii) [[13/25]]   (iv) [[31/50]]   (v) [[145/1000]]\n(vi) [[25/8]]   (vii) [[23/6]]   (viii) [[88/64]]   (ix) [[48/32]]"
+              },
+              {
+                "a": "(i) [[40/3]] = 13.333...\n13.333\n(ii) [[20/7]] = 2.857142...\n2.857\n(iii) [[50/11]] = 4.545454...\n4.545\n(iv) [[80/13]] = 6.153846...\n6.154\n(v) [[100/6]] = 16.666...\n16.667\n(vi) [[240/22]] = 10.909090...\n10.909\n(vii) [[70/12]] = 5.8333...\n5.833\n(viii) [[52/91]] = 0.571428...\n0.571",
+                "q": "Convert the following rational numbers in non-terminating decimals and express up to three places of decimal.\n(i) [[40/3]]   (ii) [[20/7]]   (iii) [[50/11]]   (iv) [[80/13]]   (v) [[100/6]]\n(vi) [[240/22]]   (vii) [[70/12]]   (viii) [[52/91]]"
+              },
+              {
+                "a": "(i) 5.71679 → 5.717\n(ii) 11.60365 → 11.604\n(iii) 0.92598 → 0.926\n(iv) 3.40855 → 3.409\n(v) 0.74396 → 0.744\n(vi) 23.15847 → 23.158",
+                "q": "Round off the following decimals up to three places of decimal.\n(i) 5.71679   (ii) 11.60365   (iii) 0.92598\n(iv) 3.40855   (v) 0.74396   (vi) 23.15847"
+              },
+              {
+                "a": "(i) Terminating decimal: a decimal with a finite number of digits after the decimal point.\n0.5, 0.25, 0.75, 0.345\nNon-terminating decimal: a decimal with an infinite number of digits after the decimal point.\n0.333..., 0.777..., 0.142857142857...\n(ii) Write 1 below the decimal point and remove the decimal point. Put as many zeros after 1 as the number of digits after the decimal point. Reduce it to the lowest form.\n0.5 = [[5/10]] = [[1/2]]\n0.06 = [[6/100]] = [[3/50]]\n(iii) A non-terminating decimal in which a single digit or a block of digits repeats itself infinite number of times after the decimal point is called a recurring decimal.\n[[2/3]] = 0.666...\n[[2/7]] = 0.285714285714...\n(iv) If the denominator of a rational number in standard form has prime factors 2 and 5 or 2, 5 only, then that rational number is a terminating decimal.\n[[9/20]] = 0.45, 20 = 2 × 2 × 5\n[[3/5]] = 0.6, 5 = 5\n(v) Rounding off: getting an approximate value of a number to a desired number of decimal places. If the next digit is less than 5, drop it. If the next digit is 5 or more than 5, add 1 to the last digit of the number.\n0.555... → 0.56 (two places)\n2.333333 → 2.33 (two places)",
+                "q": "Answer the following questions.\n(i) What are the terminating and non-terminating decimals?\n(ii) Write the method for converting a decimal into a rational number. Give examples.\n(iii) Which of the non-terminating decimals are called recurring decimal? Give two examples.\n(iv) What is the rule to find whether a given rational number is terminating or not? Give two examples.\n(v) What is meant by the term 'rounding off' in decimals? Give two examples."
+              },
+              {
+                "a": "(i) terminating decimal\n(ii) non-terminating decimal\n(iii) whole number and decimal part\n(iv) stops\n(v) denominator\n(vi) block",
+                "q": "Fill in the blanks.\n(i) [[1/2]] = 0.5 which is a ___.\n(ii) [[1/3]] = 0.333... which is a ___.\n(iii) Two parts of a decimal number separated by a dot, are called the ___ and ___.\n(iv) In terminating decimals, division ___ after a finite number of steps.\n(v) A fraction will be terminating decimal if the ___ has 2 or 5 or both as factors of denominator.\n(vi) In recurring decimals, single digit or ___ of digits repeat themselves."
+              },
+              {
+                "a": "(i) (b) .\n(ii) (d) 3.85\n(iii) (a) 2 and 5\n(iv) (c) [[3/4]]",
+                "q": "Tick (✓) the correct answer.\n(i) To separate a whole number from fractional part in a decimal, we use the symbol.\n(a) —   (b) .   (c) :   (d) /\n(ii) If we round off the decimal 3.8461 up to two decimal places, we get:\n(a) 3.84   (b) 3.81   (c) 3.86   (d) 3.85\n(iii) A rational number is terminating decimal, if its denominator has no prime factor other than:\n(a) 2 and 5   (b) 3 and 6   (c) 4 and 5   (d) 5 and 7\n(iv) When we convert 0.75 into the rational number, we get:\n(a) [[1/2]]   (b) [[1/3]]   (c) [[3/4]]   (d) [[1/7]]"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Decimals",
+        "unit": 3,
+        "display": "Decimals"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) 3^2 = 3 × 3 = 9\n(ii) 2^7 = 2 × 2 × 2 × 2 × 2 × 2 × 2 = 128\n(iii) 2^3 × 3^4 = (2 × 2 × 2) × (3 × 3 × 3 × 3) = 8 × 81 = 648\n(iv) 5^2 × 7^2 = (5 × 5) × (7 × 7) = 25 × 49 = 1225\n(v) 2^3 × 3^2 × 5^2 = (2 × 2 × 2) × (3 × 3) × (5 × 5) = 8 × 9 × 25 = 1800\n(vi) 2^4 × 3^3 × 7^2 = (2 × 2 × 2 × 2) × (3 × 3 × 3) × (7 × 7) = 16 × 27 × 49 = 21168",
+                "q": "1. Expand and find the value of each exponential form.\n(i) 3^2   (ii) 2^7   (iii) 2^3 × 3^4\n(iv) 5^2 × 7^2   (v) 2^3 × 3^2 × 5^2   (vi) 2^4 × 3^3 × 7^2"
+              },
+              {
+                "a": "(i) Base = 2\nExponent = 5\n2^5 = 2 × 2 × 2 × 2 × 2 = 32\n(ii) Base = 5\nExponent = 4\n5^4 = 5 × 5 × 5 × 5 = 625\n(iii) Base = 6\nExponent = 3\n6^3 = 6 × 6 × 6 = 216\n(iv) Base = [[2/3]]\nExponent = 6\n([[2/3]])^6 = [[64/729]]\n(v) Base = −[[1/5]]\nExponent = 5\n(−[[1/5]])^5 = −[[1/3125]]",
+                "q": "2. Identify the base and exponent. Also find the value of each of the following expression.\n(i) 2^5   (ii) 5^4   (iii) 6^3   (iv) ([[2/3]])^6   (v) (−[[1/5]])^5"
+              },
+              {
+                "a": "(i) (−3)^3 = (−3) × (−3) × (−3) = −27\n(ii) ([[1/2]])^7 = [[1/128]]\n(iii) (−[[1/4]])^4 = [[1/256]]\n(iv) (−[[1/10]])^6 = [[1/1000000]]\n(v) (−[[5/3]])^4 = [[625/81]]\n(vi) ([[4/5]])^5 = [[1024/3125]]",
+                "q": "3. Show that:\n(i) (−3)^3 = −27   (ii) ([[1/2]])^7 = [[1/128]]   (iii) (−[[1/4]])^4 = [[1/256]]\n(iv) (−[[1/10]])^6 = [[1/1000000]]   (v) (−[[5/3]])^4 = [[625/81]]   (vi) ([[4/5]])^5 = [[1024/3125]]"
+              },
+              {
+                "a": "(i) 1000 = 10 × 10 × 10 = 10^3\n(ii) 512 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 2^9\n(iii) −343 = (−7) × (−7) × (−7) = (−7)^3\n(iv) 625 = 5 × 5 × 5 × 5 = 5^4\n(v) −[[1/100000]] = (−[[1/10]])^5\n(vi) [[32/243]] = ([[2/3]])^5\n(vii) −[[125/343]] = (−[[5/7]])^3\n(viii) [[729/64]] = ([[9/4]])^3 = ([[3/2]])^6",
+                "q": "4. Express each rational number in exponential form.\n(i) 1000   (ii) 512   (iii) −343   (iv) 625\n(v) −[[1/100000]]   (vi) [[32/243]]   (vii) −[[125/343]]   (viii) [[729/64]]"
+              }
+            ],
+            "label": "Exercise 4.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) ([[5/7]])^2 × ([[5/7]])^4 = ([[5/7]])^(2+4) = ([[5/7]])^6\n(ii) ([[3/4]])^6 × ([[1/5]])^6 = ([[3/4]] × [[1/5]])^6 = ([[3/20]])^6\n(iii) ([[1/7]])^5 × ([[1/7]])^5 × (−[[5/7]])^8 × (−[[5/7]])^8 = ([[1/7]])^(5+5) × ([[5/7]])^(8+8) = ([[1/7]])^10 × ([[5/7]])^16\n(iv) p^6 × p^7 = p^(6+7) = p^13\n(v) y^5 × x^11 × y^6 = x^11 × y^(5+6) = x^11 × y^11 = (xy)^11\n(vi) ([[4/3]])^5 × ([[4/3]])^6 × ([[4/3]])^7 = ([[4/3]])^(5+6+7) = ([[4/3]])^18\n(vii) x^5 × y^6 × x^2 × y^7 = x^(5+2) × y^(6+7) = x^7 × y^13\n(viii) (−[[1/3]])^6 × (−[[1/3]])^5 × (−[[1/3]])^3 = (−[[1/3]])^(6+5+3) = (−[[1/3]])^14 = ([[1/3]])^14\n(ix) x^5 × y^5 × z^5 = (xyz)^5\n(x) p^2 × q^7 × p^5 = p^(2+5) × q^7 = p^7 × q^7",
+                "q": "1. Simplify using product law.\n(i) ([[5/7]])^2 × ([[5/7]])^4   (ii) ([[3/4]])^6 × ([[1/5]])^6\n(iii) ([[1/7]])^5 × ([[1/7]])^5 × (−[[5/7]])^8 × (−[[5/7]])^8   (iv) p^6 × p^7\n(v) y^5 × x^11 × y^6   (vi) ([[4/3]])^5 × ([[4/3]])^6 × ([[4/3]])^7\n(vii) x^5 × y^6 × x^2 × y^7   (viii) (−[[1/3]])^6 × (−[[1/3]])^5 × (−[[1/3]])^3\n(ix) x^5 × y^5 × z^5   (x) p^2 × q^7 × p^5"
+              },
+              {
+                "a": "(i) L.H.S. = 2^5 × 3^5 = (2 × 3)^5 = 6^5 = R.H.S.\nL.H.S. = R.H.S.\n(ii) L.H.S. = p^7 × q^7 = (pq)^7 = R.H.S.\nL.H.S. = R.H.S.\n(iii) L.H.S. = ([[3/4]])^4 × ([[3/4]])^8 = ([[3/4]])^(4+8) = ([[3/4]])^12 = R.H.S.\nL.H.S. = R.H.S.\n(iv) L.H.S. = ([[1/7]])^4 × ([[1/7]])^5 = ([[1/7]])^(4+5) = ([[1/7]])^9 = R.H.S.\nL.H.S. = R.H.S.\n(v) L.H.S. = (−[[1/8]])^6 × (−[[3/5]])^6 = ((−[[1/8]]) × (−[[3/5]]))^6 = ([[3/40]])^6 = R.H.S.\nL.H.S. = R.H.S.",
+                "q": "2. Verify that:\n(i) 2^5 × 3^5 = 6^5   (ii) p^7 × q^7 = (pq)^7\n(iii) ([[3/4]])^4 × ([[3/4]])^8 = ([[3/4]])^12\n(iv) ([[1/7]])^4 × ([[1/7]])^5 = ([[1/7]])^9\n(v) (−[[1/8]])^6 × (−[[3/5]])^6 = ([[3/40]])^6"
+              }
+            ],
+            "label": "Exercise 4.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 5^7 ÷ 5^4 = 5^(7−4) = 5^3 = 125\n(ii) ([[5/7]])^5 ÷ ([[5/7]])^2 = ([[5/7]])^(5−2) = ([[5/7]])^3 = [[125/343]]\n(iii) ([[1/2]])^6 ÷ ([[1/2]])^2 = ([[1/2]])^(6−2) = ([[1/2]])^4 = [[1/16]]\n(iv) x^10 ÷ x^4 = x^(10−4) = x^6\n(v) (5)^6 ÷ (3)^6 = ([[5/3]])^6 = [[15625/729]]\n(vi) (10)^5 ÷ (2)^5 = ([[10/2]])^5 = 5^5 = 3125\n(vii) (−7)^4 ÷ (−5)^4 = ([[7/5]])^4 = [[2401/625]]\n(viii) ([[2/5]])^6 ÷ ([[3/5]])^6 = ([[2/3]])^6 = [[64/729]]\n(ix) ([[7/11]])^6 ÷ ([[7/11]])^5 = ([[7/11]])^(6−5) = [[7/11]]\n(x) x^4 ÷ y^4 = ([[x/y]])^4",
+                "q": "1. Simplify by using quotient law:\n(i) 5^7 ÷ 5^4   (ii) ([[5/7]])^5 ÷ ([[5/7]])^2   (iii) ([[1/2]])^6 ÷ ([[1/2]])^2\n(iv) x^10 ÷ x^4   (v) (5)^6 ÷ (3)^6   (vi) (10)^5 ÷ (2)^5\n(vii) (−7)^4 ÷ (−5)^4   (viii) ([[2/5]])^6 ÷ ([[3/5]])^6   (ix) ([[7/11]])^6 ÷ ([[7/11]])^5\n(x) x^4 ÷ y^4"
+              },
+              {
+                "a": "(i) L.H.S. = ([[2/9]])^5 ÷ ([[2/9]])^2 = ([[2/9]])^(5−2) = ([[2/9]])^3 = [[8/729]]\nR.H.S. = 2^3 ÷ 9^3 = [[8/729]]\nL.H.S. = R.H.S.\n(ii) L.H.S. = (−3)^8 ÷ (−5)^8 = ([[−3/−5]])^8 = ([[3/5]])^8\nR.H.S. = ([[3/5]])^10 ÷ ([[3/5]])^2 = ([[3/5]])^(10−2) = ([[3/5]])^8\nL.H.S. = R.H.S.\n(iii) L.H.S. = ([[x/y]])^7 ÷ ([[x/y]])^5 = ([[x/y]])^(7−5) = ([[x/y]])^2 = x^2 ÷ y^2 = R.H.S.\nL.H.S. = R.H.S.\n(iv) L.H.S. = 5^11 ÷ 5^8 = 5^(11−8) = 5^3 = 125\nR.H.S. = (20)^3 ÷ (4)^3 = ([[20/4]])^3 = 5^3 = 125\nL.H.S. = R.H.S.",
+                "q": "2. Verify:\n(i) ([[2/9]])^5 ÷ ([[2/9]])^2 = 2^3 ÷ 9^3\n(ii) (−3)^8 ÷ (−5)^8 = ([[3/5]])^10 ÷ ([[3/5]])^2\n(iii) ([[x/y]])^7 ÷ ([[x/y]])^5 = x^2 ÷ y^2\n(iv) 5^11 ÷ 5^8 = (20)^3 ÷ (4)^3"
+              }
+            ],
+            "label": "Exercise 4.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) (5^2)^7 = 5^(2×7) = 5^14\n(ii) {([[1/3]])^6}^8 = ([[1/3]])^(6×8) = ([[1/3]])^48\n(iii) {(−3)^2}^10 = 3^(2×10) = 3^20\n(iv) (x^5)^20 = x^(5×20) = x^100\n(v) {([[4/7]])^9}^2 = ([[4/7]])^(9×2) = ([[4/7]])^18\n(vi) {(−[[3/4]])^20}^2 = ([[3/4]])^(20×2) = ([[3/4]])^40",
+                "q": "1. Simplify using power law.\n(i) (5^2)^7   (ii) {([[1/3]])^6}^8   (iii) {(−3)^2}^10\n(iv) (x^5)^20   (v) {([[4/7]])^9}^2   (vi) {(−[[3/4]])^20}^2"
+              },
+              {
+                "a": "(i) [[1/2^5]] = 2^-5\n(ii) [[1/3^7]] = 3^-7\n(iii) [[1/x^6]] = x^-6\n(iv) 1 ÷ ([[4/5]])^6 = ([[4/5]])^-6",
+                "q": "2. Convert into negative exponent.\n(i) [[1/2^5]]   (ii) [[1/3^7]]   (iii) [[1/x^6]]   (iv) 1 ÷ ([[4/5]])^6"
+              },
+              {
+                "a": "(i) 5^-8 = [[1/5^8]]\n(ii) ([[1/3]])^-7 = 3^7\n(iii) x^-5 = [[1/x^5]]\n(iv) y^-7 = [[1/y^7]]",
+                "q": "3. Convert into positive exponent.\n(i) 5^-8   (ii) ([[1/3]])^-7   (iii) x^-5   (iv) y^-7"
+              },
+              {
+                "a": "(i) (−7)^6\nPositive\nExponent 6 is even\n(ii) (−[[11/2]])^17\nNegative\nExponent 17 is odd\n(iii) (−[[1/5]])^-26\nPositive\nExponent −26 is even\n(iv) (−3)^0\nPositive\n(−3)^0 = 1\n(v) (−[[1/7]])^1\nNegative\nExponent 1 is odd\n(vi) (−[[1/5]])^-100\nPositive\nExponent −100 is even",
+                "q": "4. Identify which of the following is positive or negative.\n(i) (−7)^6   (ii) (−[[11/2]])^17   (iii) (−[[1/5]])^-26\n(iv) (−3)^0   (v) (−[[1/7]])^1   (vi) (−[[1/5]])^-100"
+              }
+            ],
+            "label": "Exercise 4.4"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) ([[5/7]])^6 × ([[5/7]])^4 × ([[7/5]])^10 = ([[5/7]])^(6+4) × ([[7/5]])^10 = ([[5/7]])^10 × ([[7/5]])^10 = 1\n(ii) {([[2/3]])^2}^3 ÷ ([[2/3]])^4 = ([[2/3]])^(2×3) ÷ ([[2/3]])^4 = ([[2/3]])^(6−4) = ([[2/3]])^2 = [[4/9]]\n(iii) ([[7/9]])^3 × ([[9/7]])^3 + ([[11/12]])^5 × ([[12/11]])^5 = 1 + 1 = 2\n(iv) x^0 + x^5 × x^-5 = 1 + x^(5−5) = 1 + x^0 = 1 + 1 = 2\n(v) {([[4/5]])^7 × ([[4/5]])^2} ÷ ([[4/5]])^8 = ([[4/5]])^(7+2) ÷ ([[4/5]])^8 = ([[4/5]])^(9−8) = [[4/5]]\n(vi) {([[7/8]])^6 ÷ ([[7/8]])^4} × ([[8/7]])^2 = ([[7/8]])^(6−4) × ([[8/7]])^2 = ([[7/8]])^2 × ([[8/7]])^2 = 1",
+                "q": "1. Simplify and write in simplest form.\n(i) ([[5/7]])^6 × ([[5/7]])^4 × ([[7/5]])^10   (ii) {([[2/3]])^2}^3 ÷ ([[2/3]])^4\n(iii) ([[7/9]])^3 × ([[9/7]])^3 + ([[11/12]])^5 × ([[12/11]])^5   (iv) x^0 + x^5 × x^-5\n(v) {([[4/5]])^7 × ([[4/5]])^2} ÷ ([[4/5]])^8   (vi) {([[7/8]])^6 ÷ ([[7/8]])^4} × ([[8/7]])^2"
+              },
+              {
+                "a": "(i) 3^6 × 3^4 = 3^x\n3^(6+4) = 3^x\n3^10 = 3^x\nx = 10\n(ii) ([[11/9]])^8 ÷ ([[11/9]])^6 = ([[11/9]])^(2x)\n([[11/9]])^(8−6) = ([[11/9]])^(2x)\n([[11/9]])^2 = ([[11/9]])^(2x)\n2x = 2\nx = 1\n(iii) {([[4/7]])^3}^x = ([[4/7]])^9\n([[4/7]])^(3x) = ([[4/7]])^9\n3x = 9\nx = 3\n(iv) ([[1/5]])^x × ([[1/5]])^5 = ([[1/5]])^10\n([[1/5]])^(x+5) = ([[1/5]])^10\nx + 5 = 10\nx = 5",
+                "q": "2. Find the value of x in the following.\n(i) 3^6 × 3^4 = 3^x   (ii) ([[11/9]])^8 ÷ ([[11/9]])^6 = ([[11/9]])^(2x)\n(iii) {([[4/7]])^3}^x = ([[4/7]])^9   (iv) ([[1/5]])^x × ([[1/5]])^5 = ([[1/5]])^10"
+              }
+            ],
+            "label": "Exercise 4.5"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) Base = 3\nExponent = 5\n3^5 = 3 × 3 × 3 × 3 × 3 = 243\n(ii) Base = 7\nExponent = 4\n7^4 = 7 × 7 × 7 × 7 = 2401\n(iii) Base = [[3/4]]\nExponent = 2\n([[3/4]])^2 = [[9/16]]\n(iv) Base = [[1/4]]\nExponent = 3\n([[1/4]])^3 = [[1/64]]\n(v) Base = 8\nExponent = 0\n8^0 = 1\n(vi) Base = y\nExponent = 0\ny^0 = 1",
+                "q": "1. Identify the base, exponent and find the value of following.\n(i) 3^5   (ii) 7^4   (iii) ([[3/4]])^2   (iv) ([[1/4]])^3   (v) 8^0   (vi) y^0"
+              },
+              {
+                "a": "(i) (−[[1/2]])^4 × (−[[1/2]])^2 = (−[[1/2]])^(4+2) = (−[[1/2]])^6 = [[1/64]]\n(ii) (−[[4/5]])^2 × (−[[4/5]])^2 = (−[[4/5]])^(2+2) = ([[4/5]])^4 = [[256/625]]\n(iii) 6^7 ÷ 6^4 = 6^(7−4) = 6^3 = 216\n(iv) ([[2/7]])^5 ÷ ([[2/7]])^3 = ([[2/7]])^(5−3) = ([[2/7]])^2 = [[4/49]]\n(v) (3^2)^5 = 3^(2×5) = 3^10\n(vi) {(−4)^2}^5 = 4^(2×5) = 4^10\n(vii) (6^0)^2 = 1^2 = 1\n(viii) (5^0)^2 × (−5) × (a^0)^2 = 1 × (−5) × 1 = −5",
+                "q": "2. Simplify using laws of exponent.\n(i) (−[[1/2]])^4 × (−[[1/2]])^2   (ii) (−[[4/5]])^2 × (−[[4/5]])^2   (iii) 6^7 ÷ 6^4\n(iv) ([[2/7]])^5 ÷ ([[2/7]])^3   (v) (3^2)^5   (vi) {(−4)^2}^5\n(vii) (6^0)^2   (viii) (5^0)^2 × (−5) × (a^0)^2"
+              },
+              {
+                "a": "(i) L.H.S. = ([[1/5]])^4 × ([[1/5]])^5 = ([[1/5]])^(4+5) = ([[1/5]])^9\nR.H.S. = ([[3/5]])^9 × ([[1/3]])^9 = ([[3/5]] × [[1/3]])^9 = ([[1/5]])^9\nL.H.S. = R.H.S.\n(ii) L.H.S. = (6)^4 ÷ (2)^4 = ([[6/2]])^4 = 3^4 = 81\nR.H.S. = 3^8 ÷ 3^4 = 3^(8−4) = 3^4 = 81\nL.H.S. = R.H.S.\n(iii) L.H.S. = 6z^0 = 6 × 1 = 6\nR.H.S. = 6 × (z^0)^2 = 6 × 1 = 6\nL.H.S. = R.H.S.",
+                "q": "3. Verify:\n(i) ([[1/5]])^4 × ([[1/5]])^5 = ([[3/5]])^9 × ([[1/3]])^9\n(ii) (6)^4 ÷ (2)^4 = 3^8 ÷ 3^4\n(iii) 6z^0 = 6 × (z^0)^2"
+              },
+              {
+                "a": "(i) (−2)^7\nNegative\nExponent 7 is odd\n(ii) (−5)^0\nPositive\n(−5)^0 = 1\n(iii) (−3)^8\nPositive\nExponent 8 is even\n(iv) (−6)^-7\nNegative\nExponent −7 is odd\n(v) (−8)^-10\nPositive\nExponent −10 is even",
+                "q": "4. Which one is positive and which one is negative.\n(i) (−2)^7   (ii) (−5)^0   (iii) (−3)^8   (iv) (−6)^-7   (v) (−8)^-10"
+              },
+              {
+                "a": "(i) 6^2 ÷ 3^3 = 36 ÷ 27 = [[4/3]]\n(ii) 5^0 ÷ 5^-2 × 5^2 = 1 ÷ [[1/25]] × 25 = 25 × 25 = 625 = 5^4\n(iii) {([[2/5]])^2}^3 ÷ ([[2/5]])^4 × ([[2/5]])^3 = ([[2/5]])^(2×3) ÷ ([[2/5]])^4 × ([[2/5]])^3 = ([[2/5]])^(6−4+3) = ([[2/5]])^5 = [[32/3125]]",
+                "q": "5. Simplify:\n(i) 6^2 ÷ 3^3   (ii) 5^0 ÷ 5^-2 × 5^2\n(iii) {([[2/5]])^2}^3 ÷ ([[2/5]])^4 × ([[2/5]])^3"
+              },
+              {
+                "a": "(i) 25^x = 125\n(5^2)^x = 5^3\n5^(2x) = 5^3\n2x = 3\nx = [[3/2]]\n(ii) ([[2/3]])^x × ([[2/3]])^4 = ([[2/3]])^10 ÷ ([[2/3]])^2\n([[2/3]])^(x+4) = ([[2/3]])^(10−2)\n([[2/3]])^(x+4) = ([[2/3]])^8\nx + 4 = 8\nx = 4\n(iii) {([[2/7]])^x}^5 = ([[2/7]])^10\n([[2/7]])^(5x) = ([[2/7]])^10\n5x = 10\nx = 2",
+                "q": "6. Find the value of x.\n(i) 25^x = 125\n(ii) ([[2/3]])^x × ([[2/3]])^4 = ([[2/3]])^10 ÷ ([[2/3]])^2\n(iii) {([[2/7]])^x}^5 = ([[2/7]])^10"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Exponents",
+        "unit": 4,
+        "display": "Exponents"
+      },
+      {
+        "unit": 5,
+        "title": "Square Root of Positive Numbers",
+        "exercises": [
+          {
+            "label": "Exercise 5.1",
+            "items": [
+              {
+                "q": "A. Find squares of the following.\n(1) 11 (2) 19 (3) 25 (4) 50\n(5) 66 (6) 78 (7) 100 (8) 500",
+                "a": "(1) 11^2 = 11 × 11 = 121\n(2) 19^2 = 19 × 19 = 361\n(3) 25^2 = 25 × 25 = 625\n(4) 50^2 = 50 × 50 = 2500\n(5) 66^2 = 66 × 66 = 4356\n(6) 78^2 = 78 × 78 = 6084\n(7) 100^2 = 100 × 100 = 10000\n(8) 500^2 = 500 × 500 = 250000"
+              },
+              {
+                "q": "B. Test whether each of the following is a perfect square or not.\n(1) 81 (2) 95 (3) 121 (4) 169\n(5) 224 (6) 3969 (7) 3872 (8) 9845",
+                "a": "(1) 81\n3 | 81\n3 | 27\n3 | 9\n3 | 3\n  | 1\n81 = 3 × 3 × 3 × 3\n√81 = √(3 × 3 × 3 × 3)\n= 3 × 3\n= 9\n9 × 9 = 81\n(2) 95\n5 | 95\n19 | 19\n  | 1\n95 = 5 × 19\n5, 19 unpaired\nNot perfect square\n(3) 121\n11 | 121\n11 | 11\n  | 1\n121 = 11 × 11\n√121 = √(11 × 11)\n= 11\n= 11\n11 × 11 = 121\n(4) 169\n13 | 169\n13 | 13\n  | 1\n169 = 13 × 13\n√169 = √(13 × 13)\n= 13\n= 13\n13 × 13 = 169\n(5) 224\n2 | 224\n2 | 112\n2 | 56\n2 | 28\n2 | 14\n7 | 7\n  | 1\n224 = 2 × 2 × 2 × 2 × 2 × 7\n2, 7 unpaired\nNot perfect square\n(6) 3969\n3 | 3969\n3 | 1323\n3 | 441\n3 | 147\n7 | 49\n7 | 7\n  | 1\n3969 = 3 × 3 × 3 × 3 × 7 × 7\n√3969 = √(3 × 3 × 3 × 3 × 7 × 7)\n= 3 × 3 × 7\n= 63\n63 × 63 = 3969\n(7) 3872\n2 | 3872\n2 | 1936\n2 | 968\n2 | 484\n2 | 242\n11 | 121\n11 | 11\n  | 1\n3872 = 2 × 2 × 2 × 2 × 2 × 11 × 11\n2 unpaired\nNot perfect square\n(8) 9845\n5 | 9845\n11 | 1969\n179 | 179\n  | 1\n9845 = 5 × 11 × 179\n5, 11, 179 unpaired\nNot perfect square"
+              },
+              {
+                "q": "C. Separate the perfect square of even and odd numbers.\n(i) 9 (ii) 25 (iii) 196 (iv) 441 (v) 2704\n(vi) 3600 (vii) 9216 (viii) 9801",
+                "a": "(i) 9\n√9 = 3\n3 odd\n(ii) 25\n√25 = 5\n5 odd\n(iii) 196\n√196 = 14\n14 even\n(iv) 441\n√441 = 21\n21 odd\n(v) 2704\n√2704 = 52\n52 even\n(vi) 3600\n√3600 = 60\n60 even\n(vii) 9216\n√9216 = 96\n96 even\n(viii) 9801\n√9801 = 99\n99 odd\nPerfect squares of odd numbers: 9, 25, 441, 9801\nPerfect squares of even numbers: 196, 2704, 3600, 9216"
+              },
+              {
+                "q": "D. Find the squares of the following proper fractions and compare with themselves.\n(1) [[1/5]] (2) [[3/7]] (3) [[8/9]] (4) [[5/6]] (5) [[2/3]]",
+                "a": "(1) (([[1/5]]))^2 = [[1/5]] × [[1/5]] = [[1 × 1/5 × 5]] = [[1/25]]\n[[1/5]] = [[5/25]]\n[[1/25]] < [[5/25]]\n[[1/25]] < [[1/5]]\n(2) (([[3/7]]))^2 = [[3/7]] × [[3/7]] = [[3 × 3/7 × 7]] = [[9/49]]\n[[3/7]] = [[21/49]]\n[[9/49]] < [[21/49]]\n[[9/49]] < [[3/7]]\n(3) (([[8/9]]))^2 = [[8/9]] × [[8/9]] = [[8 × 8/9 × 9]] = [[64/81]]\n[[8/9]] = [[72/81]]\n[[64/81]] < [[72/81]]\n[[64/81]] < [[8/9]]\n(4) (([[5/6]]))^2 = [[5/6]] × [[5/6]] = [[5 × 5/6 × 6]] = [[25/36]]\n[[5/6]] = [[30/36]]\n[[25/36]] < [[30/36]]\n[[25/36]] < [[5/6]]\n(5) (([[2/3]]))^2 = [[2/3]] × [[2/3]] = [[2 × 2/3 × 3]] = [[4/9]]\n[[2/3]] = [[6/9]]\n[[4/9]] < [[6/9]]\n[[4/9]] < [[2/3]]"
+              },
+              {
+                "q": "E. Find the squares of the following decimal numbers and compare with themselves.\n(1) 0.1 (2) 0.5 (3) 0.07 (4) 0.11 (5) 0.15",
+                "a": "(1) (0.1)^2 = 0.1 × 0.1 = [[1/10]] × [[1/10]] = [[1/100]] = 0.01\n0.01 < 0.1\n(2) (0.5)^2 = 0.5 × 0.5 = [[5/10]] × [[5/10]] = [[25/100]] = 0.25\n0.25 < 0.5\n(3) (0.07)^2 = 0.07 × 0.07 = [[7/100]] × [[7/100]] = [[49/10000]] = 0.0049\n0.0049 < 0.07\n(4) (0.11)^2 = 0.11 × 0.11 = [[11/100]] × [[11/100]] = [[121/10000]] = 0.0121\n0.0121 < 0.11\n(5) (0.15)^2 = 0.15 × 0.15 = [[15/100]] × [[15/100]] = [[225/10000]] = 0.0225\n0.0225 < 0.15"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 5.2",
+            "items": [
+              {
+                "q": "A. Find square root of each of the following.\n(1) 25 (2) (4)^2 (3) 81 (4) (36)^2\n(5) a^2 (6) y^2 (7) (49)^2 (8) 64",
+                "a": "(1) √25 = 5\n5 × 5 = 25\n(2) √(4^2) = 4\n4 × 4 = 16\n(3) √81 = 9\n9 × 9 = 81\n(4) √(36^2) = 36\n36 × 36 = 1296\n(5) √(a^2) = a\na × a = a^2\n(6) √(y^2) = y\ny × y = y^2\n(7) √(49^2) = 49\n49 × 49 = 2401\n(8) √64 = 8\n8 × 8 = 64"
+              },
+              {
+                "q": "B. Find square root by factorization and division methods.\n(1) 676 (2) 169 (3) 484 (4) 961\n(5) 4900 (6) 1089 (7) 1600 (8) 2304\n(9) 3136 (10) 1681 (11) 1369 (12) 2025",
+                "a": "(1) 676\nFactorization method\n2 | 676\n2 | 338\n13 | 169\n13 | 13\n  | 1\n676 = 2 × 2 × 13 × 13\n√676 = √(2 × 2 × 13 × 13)\n= 2 × 13\n= 26\n26 × 26 = 676\nDivision method\n26\n______\n2 | 6 76\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n46 | 276\n+ 6 | 276\n-----\n45 x 5 = 225\n46 x 6 = 276\n47 x 7 = 329\n52 | 0\n√676 = 26\n(2) 169\nFactorization method\n13 | 169\n13 | 13\n  | 1\n169 = 13 × 13\n√169 = √(13 × 13)\n= 13\n= 13\n13 × 13 = 169\nDivision method\n13\n______\n1 | 1 69\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n23 | 69\n+ 3 | 69\n-----\n22 x 2 = 44\n23 x 3 = 69\n24 x 4 = 96\n26 | 0\n√169 = 13\n(3) 484\nFactorization method\n2 | 484\n2 | 242\n11 | 121\n11 | 11\n  | 1\n484 = 2 × 2 × 11 × 11\n√484 = √(2 × 2 × 11 × 11)\n= 2 × 11\n= 22\n22 × 22 = 484\nDivision method\n22\n______\n2 | 4 84\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n42 | 84\n+ 2 | 84\n-----\n41 x 1 = 41\n42 x 2 = 84\n43 x 3 = 129\n44 | 0\n√484 = 22\n(4) 961\nFactorization method\n31 | 961\n31 | 31\n  | 1\n961 = 31 × 31\n√961 = √(31 × 31)\n= 31\n= 31\n31 × 31 = 961\nDivision method\n31\n______\n3 | 9 61\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n61 | 61\n+ 1 | 61\n-----\n60 x 0 = 0\n61 x 1 = 61\n62 x 2 = 124\n62 | 0\n√961 = 31\n(5) 4900\nFactorization method\n2 | 4900\n2 | 2450\n5 | 1225\n5 | 245\n7 | 49\n7 | 7\n  | 1\n4900 = 2 × 2 × 5 × 5 × 7 × 7\n√4900 = √(2 × 2 × 5 × 5 × 7 × 7)\n= 2 × 5 × 7\n= 70\n70 × 70 = 4900\nDivision method\n70\n______\n7 | 49 00\n+ 7 | 49\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n140 | 0\n+ 0 | 0\n-----\n140 x 0 = 0\n141 x 1 = 141\n140 | 0\n√4900 = 70\n(6) 1089\nFactorization method\n3 | 1089\n3 | 363\n11 | 121\n11 | 11\n  | 1\n1089 = 3 × 3 × 11 × 11\n√1089 = √(3 × 3 × 11 × 11)\n= 3 × 11\n= 33\n33 × 33 = 1089\nDivision method\n33\n______\n3 | 10 89\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n63 | 189\n+ 3 | 189\n-----\n62 x 2 = 124\n63 x 3 = 189\n64 x 4 = 256\n66 | 0\n√1089 = 33\n(7) 1600\nFactorization method\n2 | 1600\n2 | 800\n2 | 400\n2 | 200\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n1600 = 2 × 2 × 2 × 2 × 2 × 2 × 5 × 5\n√1600 = √(2 × 2 × 2 × 2 × 2 × 2 × 5 × 5)\n= 2 × 2 × 2 × 5\n= 40\n40 × 40 = 1600\nDivision method\n40\n______\n4 | 16 00\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n80 | 0\n+ 0 | 0\n-----\n80 x 0 = 0\n81 x 1 = 81\n80 | 0\n√1600 = 40\n(8) 2304\nFactorization method\n2 | 2304\n2 | 1152\n2 | 576\n2 | 288\n2 | 144\n2 | 72\n2 | 36\n2 | 18\n3 | 9\n3 | 3\n  | 1\n2304 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3\n√2304 = √(2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3)\n= 2 × 2 × 2 × 2 × 3\n= 48\n48 × 48 = 2304\nDivision method\n48\n______\n4 | 23 04\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n88 | 704\n+ 8 | 704\n-----\n87 x 7 = 609\n88 x 8 = 704\n89 x 9 = 801\n96 | 0\n√2304 = 48\n(9) 3136\nFactorization method\n2 | 3136\n2 | 1568\n2 | 784\n2 | 392\n2 | 196\n2 | 98\n7 | 49\n7 | 7\n  | 1\n3136 = 2 × 2 × 2 × 2 × 2 × 2 × 7 × 7\n√3136 = √(2 × 2 × 2 × 2 × 2 × 2 × 7 × 7)\n= 2 × 2 × 2 × 7\n= 56\n56 × 56 = 3136\nDivision method\n56\n______\n5 | 31 36\n+ 5 | 25\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n106 | 636\n+ 6 | 636\n-----\n105 x 5 = 525\n106 x 6 = 636\n107 x 7 = 749\n112 | 0\n√3136 = 56\n(10) 1681\nFactorization method\n41 | 1681\n41 | 41\n  | 1\n1681 = 41 × 41\n√1681 = √(41 × 41)\n= 41\n= 41\n41 × 41 = 1681\nDivision method\n41\n______\n4 | 16 81\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n81 | 81\n+ 1 | 81\n-----\n80 x 0 = 0\n81 x 1 = 81\n82 x 2 = 164\n82 | 0\n√1681 = 41\n(11) 1369\nFactorization method\n37 | 1369\n37 | 37\n  | 1\n1369 = 37 × 37\n√1369 = √(37 × 37)\n= 37\n= 37\n37 × 37 = 1369\nDivision method\n37\n______\n3 | 13 69\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n67 | 469\n+ 7 | 469\n-----\n66 x 6 = 396\n67 x 7 = 469\n68 x 8 = 544\n74 | 0\n√1369 = 37\n(12) 2025\nFactorization method\n3 | 2025\n3 | 675\n3 | 225\n3 | 75\n5 | 25\n5 | 5\n  | 1\n2025 = 3 × 3 × 3 × 3 × 5 × 5\n√2025 = √(3 × 3 × 3 × 3 × 5 × 5)\n= 3 × 3 × 5\n= 45\n45 × 45 = 2025\nDivision method\n45\n______\n4 | 20 25\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n85 | 425\n+ 5 | 425\n-----\n84 x 4 = 336\n85 x 5 = 425\n86 x 6 = 516\n90 | 0\n√2025 = 45"
+              },
+              {
+                "q": "C. Find the square root of the following fractions by factorization and division method.\n(1) [[144/225]] (2) [[324/441]] (3) [[1225/9801]] (4) 1 [[25/144]]\n(5) 1 [[48/121]] (6) 3 [[13/36]] (7) [[961/1681]] (8) [[1024/1225]]\n(9) 2 [[217/576]] (10) 5 [[55/169]] (11) 1 [[63/81]] (12) 3 [[325/900]]",
+                "a": "(1) [[144/225]]\nFactorization method\nNumerator:\n2 | 144\n2 | 72\n2 | 36\n2 | 18\n3 | 9\n3 | 3\n  | 1\n144 = 2 × 2 × 2 × 2 × 3 × 3\n√144 = √(2 × 2 × 2 × 2 × 3 × 3)\n= 2 × 2 × 3\n= 12\n12 × 12 = 144\nDenominator:\n3 | 225\n3 | 75\n5 | 25\n5 | 5\n  | 1\n225 = 3 × 3 × 5 × 5\n√225 = √(3 × 3 × 5 × 5)\n= 3 × 5\n= 15\n15 × 15 = 225\n√[[144/225]] = [[√144/√225]] = [[12/15]]\nDivision method\nNumerator:\n144\n12\n______\n1 | 1 44\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n22 | 44\n+ 2 | 44\n-----\n21 x 1 = 21\n22 x 2 = 44\n23 x 3 = 69\n24 | 0\n√144 = 12\nDenominator:\n225\n15\n______\n1 | 2 25\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n25 | 125\n+ 5 | 125\n-----\n24 x 4 = 96\n25 x 5 = 125\n26 x 6 = 156\n30 | 0\n√225 = 15\n√[[144/225]] = [[√144/√225]] = [[12/15]]\n(2) [[324/441]]\nFactorization method\nNumerator:\n2 | 324\n2 | 162\n3 | 81\n3 | 27\n3 | 9\n3 | 3\n  | 1\n324 = 2 × 2 × 3 × 3 × 3 × 3\n√324 = √(2 × 2 × 3 × 3 × 3 × 3)\n= 2 × 3 × 3\n= 18\n18 × 18 = 324\nDenominator:\n3 | 441\n3 | 147\n7 | 49\n7 | 7\n  | 1\n441 = 3 × 3 × 7 × 7\n√441 = √(3 × 3 × 7 × 7)\n= 3 × 7\n= 21\n21 × 21 = 441\n√[[324/441]] = [[√324/√441]] = [[18/21]]\nDivision method\nNumerator:\n324\n18\n______\n1 | 3 24\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n28 | 224\n+ 8 | 224\n-----\n27 x 7 = 189\n28 x 8 = 224\n29 x 9 = 261\n36 | 0\n√324 = 18\nDenominator:\n441\n21\n______\n2 | 4 41\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n41 | 41\n+ 1 | 41\n-----\n40 x 0 = 0\n41 x 1 = 41\n42 x 2 = 84\n42 | 0\n√441 = 21\n√[[324/441]] = [[√324/√441]] = [[18/21]]\n(3) [[1225/9801]]\nFactorization method\nNumerator:\n5 | 1225\n5 | 245\n7 | 49\n7 | 7\n  | 1\n1225 = 5 × 5 × 7 × 7\n√1225 = √(5 × 5 × 7 × 7)\n= 5 × 7\n= 35\n35 × 35 = 1225\nDenominator:\n3 | 9801\n3 | 3267\n3 | 1089\n3 | 363\n11 | 121\n11 | 11\n  | 1\n9801 = 3 × 3 × 3 × 3 × 11 × 11\n√9801 = √(3 × 3 × 3 × 3 × 11 × 11)\n= 3 × 3 × 11\n= 99\n99 × 99 = 9801\n√[[1225/9801]] = [[√1225/√9801]] = [[35/99]]\nDivision method\nNumerator:\n1225\n35\n______\n3 | 12 25\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n65 | 325\n+ 5 | 325\n-----\n64 x 4 = 256\n65 x 5 = 325\n66 x 6 = 396\n70 | 0\n√1225 = 35\nDenominator:\n9801\n99\n______\n9 | 98 01\n+ 9 | 81\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n9 x 9 = 81\n189 | 1701\n+ 9 | 1701\n-----\n188 x 8 = 1504\n189 x 9 = 1701\n198 | 0\n√9801 = 99\n√[[1225/9801]] = [[√1225/√9801]] = [[35/99]]\n(4) 1 [[25/144]]\n1 [[25/144]] = [[169/144]]\nFactorization method\nNumerator:\n13 | 169\n13 | 13\n  | 1\n169 = 13 × 13\n√169 = √(13 × 13)\n= 13\n= 13\n13 × 13 = 169\nDenominator:\n2 | 144\n2 | 72\n2 | 36\n2 | 18\n3 | 9\n3 | 3\n  | 1\n144 = 2 × 2 × 2 × 2 × 3 × 3\n√144 = √(2 × 2 × 2 × 2 × 3 × 3)\n= 2 × 2 × 3\n= 12\n12 × 12 = 144\n√[[169/144]] = [[√169/√144]] = [[13/12]] = 1 [[1/12]]\nDivision method\nNumerator:\n169\n13\n______\n1 | 1 69\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n23 | 69\n+ 3 | 69\n-----\n22 x 2 = 44\n23 x 3 = 69\n24 x 4 = 96\n26 | 0\n√169 = 13\nDenominator:\n144\n12\n______\n1 | 1 44\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n22 | 44\n+ 2 | 44\n-----\n21 x 1 = 21\n22 x 2 = 44\n23 x 3 = 69\n24 | 0\n√144 = 12\n√1 [[25/144]] = [[√169/√144]] = [[13/12]] = 1 [[1/12]]\n(5) 1 [[48/121]]\n1 [[48/121]] = [[169/121]]\nFactorization method\nNumerator:\n13 | 169\n13 | 13\n  | 1\n169 = 13 × 13\n√169 = √(13 × 13)\n= 13\n= 13\n13 × 13 = 169\nDenominator:\n11 | 121\n11 | 11\n  | 1\n121 = 11 × 11\n√121 = √(11 × 11)\n= 11\n= 11\n11 × 11 = 121\n√[[169/121]] = [[√169/√121]] = [[13/11]] = 1 [[2/11]]\nDivision method\nNumerator:\n169\n13\n______\n1 | 1 69\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n23 | 69\n+ 3 | 69\n-----\n22 x 2 = 44\n23 x 3 = 69\n24 x 4 = 96\n26 | 0\n√169 = 13\nDenominator:\n121\n11\n______\n1 | 1 21\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n21 | 21\n+ 1 | 21\n-----\n20 x 0 = 0\n21 x 1 = 21\n22 x 2 = 44\n22 | 0\n√121 = 11\n√1 [[48/121]] = [[√169/√121]] = [[13/11]] = 1 [[2/11]]\n(6) 3 [[13/36]]\n3 [[13/36]] = [[121/36]]\nFactorization method\nNumerator:\n11 | 121\n11 | 11\n  | 1\n121 = 11 × 11\n√121 = √(11 × 11)\n= 11\n= 11\n11 × 11 = 121\nDenominator:\n2 | 36\n2 | 18\n3 | 9\n3 | 3\n  | 1\n36 = 2 × 2 × 3 × 3\n√36 = √(2 × 2 × 3 × 3)\n= 2 × 3\n= 6\n6 × 6 = 36\n√[[121/36]] = [[√121/√36]] = [[11/6]] = 1 [[5/6]]\nDivision method\nNumerator:\n121\n11\n______\n1 | 1 21\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n21 | 21\n+ 1 | 21\n-----\n20 x 0 = 0\n21 x 1 = 21\n22 x 2 = 44\n22 | 0\n√121 = 11\nDenominator:\n36\n6\n______\n6 | 36\n+ 6 | 36\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n12 | 0\n√36 = 6\n√3 [[13/36]] = [[√121/√36]] = [[11/6]] = 1 [[5/6]]\n(7) [[961/1681]]\nFactorization method\nNumerator:\n31 | 961\n31 | 31\n  | 1\n961 = 31 × 31\n√961 = √(31 × 31)\n= 31\n= 31\n31 × 31 = 961\nDenominator:\n41 | 1681\n41 | 41\n  | 1\n1681 = 41 × 41\n√1681 = √(41 × 41)\n= 41\n= 41\n41 × 41 = 1681\n√[[961/1681]] = [[√961/√1681]] = [[31/41]]\nDivision method\nNumerator:\n961\n31\n______\n3 | 9 61\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n61 | 61\n+ 1 | 61\n-----\n60 x 0 = 0\n61 x 1 = 61\n62 x 2 = 124\n62 | 0\n√961 = 31\nDenominator:\n1681\n41\n______\n4 | 16 81\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n81 | 81\n+ 1 | 81\n-----\n80 x 0 = 0\n81 x 1 = 81\n82 x 2 = 164\n82 | 0\n√1681 = 41\n√[[961/1681]] = [[√961/√1681]] = [[31/41]]\n(8) [[1024/1225]]\nFactorization method\nNumerator:\n2 | 1024\n2 | 512\n2 | 256\n2 | 128\n2 | 64\n2 | 32\n2 | 16\n2 | 8\n2 | 4\n2 | 2\n  | 1\n1024 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2\n√1024 = √(2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2)\n= 2 × 2 × 2 × 2 × 2\n= 32\n32 × 32 = 1024\nDenominator:\n5 | 1225\n5 | 245\n7 | 49\n7 | 7\n  | 1\n1225 = 5 × 5 × 7 × 7\n√1225 = √(5 × 5 × 7 × 7)\n= 5 × 7\n= 35\n35 × 35 = 1225\n√[[1024/1225]] = [[√1024/√1225]] = [[32/35]]\nDivision method\nNumerator:\n1024\n32\n______\n3 | 10 24\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n62 | 124\n+ 2 | 124\n-----\n61 x 1 = 61\n62 x 2 = 124\n63 x 3 = 189\n64 | 0\n√1024 = 32\nDenominator:\n1225\n35\n______\n3 | 12 25\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n65 | 325\n+ 5 | 325\n-----\n64 x 4 = 256\n65 x 5 = 325\n66 x 6 = 396\n70 | 0\n√1225 = 35\n√[[1024/1225]] = [[√1024/√1225]] = [[32/35]]\n(9) 2 [[217/576]]\n2 [[217/576]] = [[1369/576]]\nFactorization method\nNumerator:\n37 | 1369\n37 | 37\n  | 1\n1369 = 37 × 37\n√1369 = √(37 × 37)\n= 37\n= 37\n37 × 37 = 1369\nDenominator:\n2 | 576\n2 | 288\n2 | 144\n2 | 72\n2 | 36\n2 | 18\n3 | 9\n3 | 3\n  | 1\n576 = 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3\n√576 = √(2 × 2 × 2 × 2 × 2 × 2 × 3 × 3)\n= 2 × 2 × 2 × 3\n= 24\n24 × 24 = 576\n√[[1369/576]] = [[√1369/√576]] = [[37/24]] = 1 [[13/24]]\nDivision method\nNumerator:\n1369\n37\n______\n3 | 13 69\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n67 | 469\n+ 7 | 469\n-----\n66 x 6 = 396\n67 x 7 = 469\n68 x 8 = 544\n74 | 0\n√1369 = 37\nDenominator:\n576\n24\n______\n2 | 5 76\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n44 | 176\n+ 4 | 176\n-----\n43 x 3 = 129\n44 x 4 = 176\n45 x 5 = 225\n48 | 0\n√576 = 24\n√2 [[217/576]] = [[√1369/√576]] = [[37/24]] = 1 [[13/24]]\n(10) 5 [[55/169]]\n5 [[55/169]] = [[900/169]]\nFactorization method\nNumerator:\n2 | 900\n2 | 450\n3 | 225\n3 | 75\n5 | 25\n5 | 5\n  | 1\n900 = 2 × 2 × 3 × 3 × 5 × 5\n√900 = √(2 × 2 × 3 × 3 × 5 × 5)\n= 2 × 3 × 5\n= 30\n30 × 30 = 900\nDenominator:\n13 | 169\n13 | 13\n  | 1\n169 = 13 × 13\n√169 = √(13 × 13)\n= 13\n= 13\n13 × 13 = 169\n√[[900/169]] = [[√900/√169]] = [[30/13]] = 2 [[4/13]]\nDivision method\nNumerator:\n900\n30\n______\n3 | 9 00\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n60 | 0\n+ 0 | 0\n-----\n60 x 0 = 0\n61 x 1 = 61\n60 | 0\n√900 = 30\nDenominator:\n169\n13\n______\n1 | 1 69\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n23 | 69\n+ 3 | 69\n-----\n22 x 2 = 44\n23 x 3 = 69\n24 x 4 = 96\n26 | 0\n√169 = 13\n√5 [[55/169]] = [[√900/√169]] = [[30/13]] = 2 [[4/13]]\n(11) 1 [[63/81]]\n1 [[63/81]] = [[144/81]]\nFactorization method\nNumerator:\n2 | 144\n2 | 72\n2 | 36\n2 | 18\n3 | 9\n3 | 3\n  | 1\n144 = 2 × 2 × 2 × 2 × 3 × 3\n√144 = √(2 × 2 × 2 × 2 × 3 × 3)\n= 2 × 2 × 3\n= 12\n12 × 12 = 144\nDenominator:\n3 | 81\n3 | 27\n3 | 9\n3 | 3\n  | 1\n81 = 3 × 3 × 3 × 3\n√81 = √(3 × 3 × 3 × 3)\n= 3 × 3\n= 9\n9 × 9 = 81\n√[[144/81]] = [[√144/√81]] = [[12/9]] = 1 [[1/3]]\nDivision method\nNumerator:\n144\n12\n______\n1 | 1 44\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n22 | 44\n+ 2 | 44\n-----\n21 x 1 = 21\n22 x 2 = 44\n23 x 3 = 69\n24 | 0\n√144 = 12\nDenominator:\n81\n9\n______\n9 | 81\n+ 9 | 81\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n9 x 9 = 81\n18 | 0\n√81 = 9\n√1 [[63/81]] = [[√144/√81]] = [[12/9]] = 1 [[1/3]]\n(12) 3 [[325/900]]\n3 [[325/900]] = [[3025/900]]\nFactorization method\nNumerator:\n5 | 3025\n5 | 605\n11 | 121\n11 | 11\n  | 1\n3025 = 5 × 5 × 11 × 11\n√3025 = √(5 × 5 × 11 × 11)\n= 5 × 11\n= 55\n55 × 55 = 3025\nDenominator:\n2 | 900\n2 | 450\n3 | 225\n3 | 75\n5 | 25\n5 | 5\n  | 1\n900 = 2 × 2 × 3 × 3 × 5 × 5\n√900 = √(2 × 2 × 3 × 3 × 5 × 5)\n= 2 × 3 × 5\n= 30\n30 × 30 = 900\n√[[3025/900]] = [[√3025/√900]] = [[55/30]] = 1 [[5/6]]\nDivision method\nNumerator:\n3025\n55\n______\n5 | 30 25\n+ 5 | 25\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n105 | 525\n+ 5 | 525\n-----\n104 x 4 = 416\n105 x 5 = 525\n106 x 6 = 636\n110 | 0\n√3025 = 55\nDenominator:\n900\n30\n______\n3 | 9 00\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n60 | 0\n+ 0 | 0\n-----\n60 x 0 = 0\n61 x 1 = 61\n60 | 0\n√900 = 30\n√3 [[325/900]] = [[√3025/√900]] = [[55/30]] = 1 [[5/6]]"
+              },
+              {
+                "q": "D. Find the square root of the following decimals by factorization and division methods.\n(1) 3.24 (2) 4.41 (3) 5.29 (4) 7.29\n(5) 6.25 (6) 37.21 (7) 7.84 (8) 10.24\n(9) 30.25 (10) 100.00 (11) 33.64 (12) 34.81",
+                "a": "(1) 3.24\nFactorization method\n3.24 = [[324/100]]\nNumerator:\n2 | 324\n2 | 162\n3 | 81\n3 | 27\n3 | 9\n3 | 3\n  | 1\n324 = 2 × 2 × 3 × 3 × 3 × 3\n√324 = √(2 × 2 × 3 × 3 × 3 × 3)\n= 2 × 3 × 3\n= 18\n18 × 18 = 324\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√3.24 = √[[324/100]] = [[√324/√100]] = [[18/10]] = 1.8\nDivision method\n3.24\n1.8\n______\n1 | 3.24\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n28 | 224\n+ 8 | 224\n-----\n27 x 7 = 189\n28 x 8 = 224\n29 x 9 = 261\n36 | 0\n√3.24 = 1.8\n(2) 4.41\nFactorization method\n4.41 = [[441/100]]\nNumerator:\n3 | 441\n3 | 147\n7 | 49\n7 | 7\n  | 1\n441 = 3 × 3 × 7 × 7\n√441 = √(3 × 3 × 7 × 7)\n= 3 × 7\n= 21\n21 × 21 = 441\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√4.41 = √[[441/100]] = [[√441/√100]] = [[21/10]] = 2.1\nDivision method\n4.41\n2.1\n______\n2 | 4.41\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n41 | 41\n+ 1 | 41\n-----\n40 x 0 = 0\n41 x 1 = 41\n42 x 2 = 84\n42 | 0\n√4.41 = 2.1\n(3) 5.29\nFactorization method\n5.29 = [[529/100]]\nNumerator:\n23 | 529\n23 | 23\n  | 1\n529 = 23 × 23\n√529 = √(23 × 23)\n= 23\n= 23\n23 × 23 = 529\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√5.29 = √[[529/100]] = [[√529/√100]] = [[23/10]] = 2.3\nDivision method\n5.29\n2.3\n______\n2 | 5.29\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n43 | 129\n+ 3 | 129\n-----\n42 x 2 = 84\n43 x 3 = 129\n44 x 4 = 176\n46 | 0\n√5.29 = 2.3\n(4) 7.29\nFactorization method\n7.29 = [[729/100]]\nNumerator:\n3 | 729\n3 | 243\n3 | 81\n3 | 27\n3 | 9\n3 | 3\n  | 1\n729 = 3 × 3 × 3 × 3 × 3 × 3\n√729 = √(3 × 3 × 3 × 3 × 3 × 3)\n= 3 × 3 × 3\n= 27\n27 × 27 = 729\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√7.29 = √[[729/100]] = [[√729/√100]] = [[27/10]] = 2.7\nDivision method\n7.29\n2.7\n______\n2 | 7.29\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n47 | 329\n+ 7 | 329\n-----\n46 x 6 = 276\n47 x 7 = 329\n48 x 8 = 384\n54 | 0\n√7.29 = 2.7\n(5) 6.25\nFactorization method\n6.25 = [[625/100]]\nNumerator:\n5 | 625\n5 | 125\n5 | 25\n5 | 5\n  | 1\n625 = 5 × 5 × 5 × 5\n√625 = √(5 × 5 × 5 × 5)\n= 5 × 5\n= 25\n25 × 25 = 625\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√6.25 = √[[625/100]] = [[√625/√100]] = [[25/10]] = 2.5\nDivision method\n6.25\n2.5\n______\n2 | 6.25\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n45 | 225\n+ 5 | 225\n-----\n44 x 4 = 176\n45 x 5 = 225\n46 x 6 = 276\n50 | 0\n√6.25 = 2.5\n(6) 37.21\nFactorization method\n37.21 = [[3721/100]]\nNumerator:\n61 | 3721\n61 | 61\n  | 1\n3721 = 61 × 61\n√3721 = √(61 × 61)\n= 61\n= 61\n61 × 61 = 3721\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√37.21 = √[[3721/100]] = [[√3721/√100]] = [[61/10]] = 6.1\nDivision method\n37.21\n6.1\n______\n6 | 37.21\n+ 6 | 36\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n121 | 121\n+ 1 | 121\n-----\n120 x 0 = 0\n121 x 1 = 121\n122 x 2 = 244\n122 | 0\n√37.21 = 6.1\n(7) 7.84\nFactorization method\n7.84 = [[784/100]]\nNumerator:\n2 | 784\n2 | 392\n2 | 196\n2 | 98\n7 | 49\n7 | 7\n  | 1\n784 = 2 × 2 × 2 × 2 × 7 × 7\n√784 = √(2 × 2 × 2 × 2 × 7 × 7)\n= 2 × 2 × 7\n= 28\n28 × 28 = 784\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√7.84 = √[[784/100]] = [[√784/√100]] = [[28/10]] = 2.8\nDivision method\n7.84\n2.8\n______\n2 | 7.84\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n48 | 384\n+ 8 | 384\n-----\n47 x 7 = 329\n48 x 8 = 384\n49 x 9 = 441\n56 | 0\n√7.84 = 2.8\n(8) 10.24\nFactorization method\n10.24 = [[1024/100]]\nNumerator:\n2 | 1024\n2 | 512\n2 | 256\n2 | 128\n2 | 64\n2 | 32\n2 | 16\n2 | 8\n2 | 4\n2 | 2\n  | 1\n1024 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2\n√1024 = √(2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2)\n= 2 × 2 × 2 × 2 × 2\n= 32\n32 × 32 = 1024\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√10.24 = √[[1024/100]] = [[√1024/√100]] = [[32/10]] = 3.2\nDivision method\n10.24\n3.2\n______\n3 | 10.24\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n62 | 124\n+ 2 | 124\n-----\n61 x 1 = 61\n62 x 2 = 124\n63 x 3 = 189\n64 | 0\n√10.24 = 3.2\n(9) 30.25\nFactorization method\n30.25 = [[3025/100]]\nNumerator:\n5 | 3025\n5 | 605\n11 | 121\n11 | 11\n  | 1\n3025 = 5 × 5 × 11 × 11\n√3025 = √(5 × 5 × 11 × 11)\n= 5 × 11\n= 55\n55 × 55 = 3025\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√30.25 = √[[3025/100]] = [[√3025/√100]] = [[55/10]] = 5.5\nDivision method\n30.25\n5.5\n______\n5 | 30.25\n+ 5 | 25\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n105 | 525\n+ 5 | 525\n-----\n104 x 4 = 416\n105 x 5 = 525\n106 x 6 = 636\n110 | 0\n√30.25 = 5.5\n(10) 100.00\nFactorization method\n100.00 = [[10000/100]]\nNumerator:\n2 | 10000\n2 | 5000\n2 | 2500\n2 | 1250\n5 | 625\n5 | 125\n5 | 25\n5 | 5\n  | 1\n10000 = 2 × 2 × 2 × 2 × 5 × 5 × 5 × 5\n√10000 = √(2 × 2 × 2 × 2 × 5 × 5 × 5 × 5)\n= 2 × 2 × 5 × 5\n= 100\n100 × 100 = 10000\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√100.00 = √[[10000/100]] = [[√10000/√100]] = [[100/10]] = 10.0\nDivision method\n100.00\n10.0\n______\n1 | 1 00.00\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n20 | 0\n+ 0 | 0\n-----\n20 x 0 = 0\n21 x 1 = 21\n200 | 0\n+ 0 | 0\n-----\n200 x 0 = 0\n201 x 1 = 201\n200 | 0\n√100.00 = 10.0\n(11) 33.64\nFactorization method\n33.64 = [[3364/100]]\nNumerator:\n2 | 3364\n2 | 1682\n29 | 841\n29 | 29\n  | 1\n3364 = 2 × 2 × 29 × 29\n√3364 = √(2 × 2 × 29 × 29)\n= 2 × 29\n= 58\n58 × 58 = 3364\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√33.64 = √[[3364/100]] = [[√3364/√100]] = [[58/10]] = 5.8\nDivision method\n33.64\n5.8\n______\n5 | 33.64\n+ 5 | 25\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n108 | 864\n+ 8 | 864\n-----\n107 x 7 = 749\n108 x 8 = 864\n109 x 9 = 981\n116 | 0\n√33.64 = 5.8\n(12) 34.81\nFactorization method\n34.81 = [[3481/100]]\nNumerator:\n59 | 3481\n59 | 59\n  | 1\n3481 = 59 × 59\n√3481 = √(59 × 59)\n= 59\n= 59\n59 × 59 = 3481\nDenominator:\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n100 = 2 × 2 × 5 × 5\n√100 = √(2 × 2 × 5 × 5)\n= 2 × 5\n= 10\n10 × 10 = 100\n√34.81 = √[[3481/100]] = [[√3481/√100]] = [[59/10]] = 5.9\nDivision method\n34.81\n5.9\n______\n5 | 34.81\n+ 5 | 25\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n109 | 981\n+ 9 | 981\n-----\n108 x 8 = 864\n109 x 9 = 981\n118 | 0\n√34.81 = 5.9"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 5.3",
+            "items": [
+              {
+                "q": "1. 784 chairs are arranged in an examination hall in such a way that the number of chairs in each row is the same as the number of rows. Find the number of rows. Also find the number of chairs in each row.",
+                "a": "Total number of chairs = 784\nNumber of rows = number of chairs in each row\nNumber of rows = √784\n784\n28\n______\n2 | 7 84\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n48 | 384\n+ 8 | 384\n-----\n47 x 7 = 329\n48 x 8 = 384\n49 x 9 = 441\n56 | 0\n√784 = 28\n28 rows\n28 chairs in each row"
+              },
+              {
+                "q": "2. The area of a square field is 240.25 square metres. Calculate the length of its side.",
+                "a": "Area of the square field = 240.25 square metres\nLength of a side = √240.25\n240.25\n15.5\n______\n1 | 2 40.25\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n25 | 140\n+ 5 | 125\n-----\n24 x 4 = 96\n25 x 5 = 125\n26 x 6 = 156\n305 | 1525\n+ 5 | 1525\n-----\n304 x 4 = 1216\n305 x 5 = 1525\n306 x 6 = 1836\n310 | 0\n√240.25 = 15.5\nLength of a side = 15.5 m"
+              },
+              {
+                "q": "3. The length of a room is three times of its width and the area is 720.75 square are metres. Find its length and width.",
+                "a": "Width = x m\nLength = 3x m\nArea = 3x × x = 3x^2\n3x^2 = 720.75\nx^2 = 240.25\nx = √240.25\n240.25\n15.5\n______\n1 | 2 40.25\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n25 | 140\n+ 5 | 125\n-----\n24 x 4 = 96\n25 x 5 = 125\n26 x 6 = 156\n305 | 1525\n+ 5 | 1525\n-----\n304 x 4 = 1216\n305 x 5 = 1525\n306 x 6 = 1836\n310 | 0\n√240.25 = 15.5\nx = 15.5\nWidth = 15.5 m\nLength = 3 × 15.5 = 46.5 m"
+              },
+              {
+                "q": "4. There are 2116 packets of biscuits packed in a carton. There are as many rows of biscuits as there are biscuits in each row. Find the number of rows of biscuits.",
+                "a": "Total number of packets = 2116\nNumber of rows = √2116\n2116\n46\n______\n4 | 21 16\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n86 | 516\n+ 6 | 516\n-----\n85 x 5 = 425\n86 x 6 = 516\n87 x 7 = 609\n92 | 0\n√2116 = 46\n46 rows"
+              },
+              {
+                "q": "5. School function is to be attended by 1681 students. Find the number of chairs required for seating arrangement in such a way that equal number of students sit in a row as well as in column.",
+                "a": "Total number of students = 1681\nNumber of chairs in a row = √1681\n1681\n41\n______\n4 | 16 81\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n81 | 81\n+ 1 | 81\n-----\n80 x 0 = 0\n81 x 1 = 81\n82 x 2 = 164\n82 | 0\n√1681 = 41\n41 chairs"
+              },
+              {
+                "q": "6. There are 625 trucks. All these trucks are standing in rows. There are as many rows, as there are trucks in each row. Find the number of rows and the number of trucks in each row.",
+                "a": "Total number of trucks = 625\nNumber of rows = √625\n625\n25\n______\n2 | 6 25\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n45 | 225\n+ 5 | 225\n-----\n44 x 4 = 176\n45 x 5 = 225\n46 x 6 = 276\n50 | 0\n√625 = 25\n25 rows\n25 trucks in each row"
+              },
+              {
+                "q": "7. A drill teacher arranged 1024 students to stand in rows. There are as many rows as there are students in each row. How many number of rows are there and what is the number of students in each row?",
+                "a": "Total number of students = 1024\nNumber of rows = √1024\n1024\n32\n______\n3 | 10 24\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n62 | 124\n+ 2 | 124\n-----\n61 x 1 = 61\n62 x 2 = 124\n63 x 3 = 189\n64 | 0\n√1024 = 32\n32 rows\n32 students in each row"
+              },
+              {
+                "q": "8. The length of a rectangular field is thrice as its width. If the area of the field is 995.9052 square metres. Find its width and length.",
+                "a": "Width = x m\nLength = 3x m\nArea = 3x × x = 3x^2\n3x^2 = 995.9052\nx^2 = 331.9684\n995.9052 ÷ 3 = 331.9684\n331.9684 × 3 = 995.9052\nx = √331.9684\n331.9684\n18.22\n______\n1 | 3 31.96 84\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n28 | 231\n+ 8 | 224\n-----\n27 x 7 = 189\n28 x 8 = 224\n29 x 9 = 261\n362 | 796\n+ 2 | 724\n-----\n361 x 1 = 361\n362 x 2 = 724\n363 x 3 = 1089\n3642 | 7284\n+ 2 | 7284\n-----\n3641 x 1 = 3641\n3642 x 2 = 7284\n3643 x 3 = 10929\n3644 | 0\n√331.9684 = 18.22\nx = 18.22\nWidth = 18.22 m\nLength = 3 × 18.22 = 54.66 m"
+              },
+              {
+                "q": "9. Find the length of boundary of a square shaped school whose area is 3387.24 square metres.",
+                "a": "Area of the square shaped school = 3387.24 square metres\nLength of a side = √3387.24\n3387.24\n58.2\n______\n5 | 33 87.24\n+ 5 | 25\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n108 | 887\n+ 8 | 864\n-----\n107 x 7 = 749\n108 x 8 = 864\n109 x 9 = 981\n1162 | 2324\n+ 2 | 2324\n-----\n1161 x 1 = 1161\n1162 x 2 = 2324\n1163 x 3 = 3489\n1164 | 0\n√3387.24 = 58.2\nLength of a side = 58.2 m\nLength of boundary = 4 × 58.2 = 232.8 m"
+              },
+              {
+                "q": "10. In a sugar factory 15,198 bags of sugar are to be arranged into the shape of a solid square. But it is found that 69 bags are in excess. How many bags are arranged in a row?",
+                "a": "Total number of bags = 15,198\nBags in excess = 69\n15,198 - 69 = 15129\nBags in the square = 15129\nBags in a row = √15129\n15129\n123\n______\n1 | 1 51 29\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n22 | 51\n+ 2 | 44\n-----\n21 x 1 = 21\n22 x 2 = 44\n23 x 3 = 69\n243 | 729\n+ 3 | 729\n-----\n242 x 2 = 484\n243 x 3 = 729\n244 x 4 = 976\n246 | 0\n√15129 = 123\n123 bags in a row"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. Give short answers of the following.\n(i) What are the different ways to find the square root of a number?\n(ii) What is a perfect square number? Give examples.\n(iii) Describe any two properties of perfect square of a number. Give it examples.",
+                "a": "(i) Factorization method\nDivision method\n(ii) A positive number which is the square of any number is called a perfect square\n1, 4, 9, 16, 25, 36\n(iii) The square of an even number is even\n2^2 = 4, 4^2 = 16\nThe square of an odd number is odd\n3^2 = 9, 5^2 = 25"
+              },
+              {
+                "q": "2. Fill in the blanks.\n(i) The square of 31 is ___.\n(ii) The square root of 49 is ___.\n(iii) 1, 4, 9, 16,.. are called ___ numbers.\n(iv) 144 is the ___ of 12.\n(v) √[[25/36]] = ___ (vi) Square of 1 is ___",
+                "a": "(i) 31^2 = 31 × 31 = 961\n(ii) √49 = 7\n7 × 7 = 49\n(iii) perfect square\n(iv) square\n12^2 = 144\n(v) √[[25/36]] = [[5/6]]\n(vi) 1^2 = 1"
+              },
+              {
+                "q": "3. Write “T” for true and “F” for false.\n(i) Prime factors of 235 are 2, 3 and 5.\n(ii) 19^2 = 361 (iii) The square of an odd number is even.\n(iv) [[25/49]] > [[5/7]] (v) (4.5)^2 > 4.5 (vi) 0.7 < (0.7)^2",
+                "a": "(i) 235 = 5 × 47\nF\n(ii) 19^2 = 19 × 19 = 361\nT\n(iii) 3^2 = 9\n9 odd\nF\n(iv) [[5/7]] = [[35/49]]\n[[25/49]] < [[35/49]]\nF\n(v) (4.5)^2 = 20.25\n20.25 > 4.5\nT\n(vi) (0.7)^2 = 0.49\n0.49 < 0.7\nF"
+              },
+              {
+                "q": "4. Choose the correct answer.\n(i) If p = q^2 then q is called ___ of p.\n(a) square root (b) square\n(c) prime factor (d) radicand\n(ii) The numbers whose squares are equal to their square roots are ___.\n(a) 0 and 2 (b) 1 and 3 (c) 0 and 1 (d) 2 and 3\n(iii) The perfect square number is ___.\n(a) 14 (b) 15 (c) 16 (d) 17",
+                "a": "(i) p = q^2\nq = √p\n(a) square root\n(ii) 0^2 = 0, √0 = 0\n1^2 = 1, √1 = 1\n(c) 0 and 1\n(iii) 16 = 4 × 4\n(c) 16"
+              },
+              {
+                "q": "5. Find square root of the following:\n(i) 729 (ii) 7056 (iii) 26569 (iv) 42025\n(v) 5 [[71/121]] (vi) [[2116/9604]] (vii) 1 [[984/14641]] (viii) 0.0256\n(ix) 344569 (x) [[6400/9801]] (xi) 5 [[41/64]] (xii) 131.1025",
+                "a": "(i) 729\nFactorization method\n3 | 729\n3 | 243\n3 | 81\n3 | 27\n3 | 9\n3 | 3\n  | 1\n729 = 3 × 3 × 3 × 3 × 3 × 3\n√729 = √(3 × 3 × 3 × 3 × 3 × 3)\n= 3 × 3 × 3\n= 27\n27 × 27 = 729\nDivision method\n27\n______\n2 | 7 29\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n47 | 329\n+ 7 | 329\n-----\n46 x 6 = 276\n47 x 7 = 329\n48 x 8 = 384\n54 | 0\n√729 = 27\n(ii) 7056\nFactorization method\n2 | 7056\n2 | 3528\n2 | 1764\n2 | 882\n3 | 441\n3 | 147\n7 | 49\n7 | 7\n  | 1\n7056 = 2 × 2 × 2 × 2 × 3 × 3 × 7 × 7\n√7056 = √(2 × 2 × 2 × 2 × 3 × 3 × 7 × 7)\n= 2 × 2 × 3 × 7\n= 84\n84 × 84 = 7056\nDivision method\n84\n______\n8 | 70 56\n+ 8 | 64\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n9 x 9 = 81\n164 | 656\n+ 4 | 656\n-----\n163 x 3 = 489\n164 x 4 = 656\n165 x 5 = 825\n168 | 0\n√7056 = 84\n(iii) 26569\nFactorization method\n163 | 26569\n163 | 163\n  | 1\n26569 = 163 × 163\n√26569 = √(163 × 163)\n= 163\n= 163\n163 × 163 = 26569\nDivision method\n163\n______\n1 | 2 65 69\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n26 | 165\n+ 6 | 156\n-----\n25 x 5 = 125\n26 x 6 = 156\n27 x 7 = 189\n323 | 969\n+ 3 | 969\n-----\n322 x 2 = 644\n323 x 3 = 969\n324 x 4 = 1296\n326 | 0\n√26569 = 163\n(iv) 42025\nFactorization method\n5 | 42025\n5 | 8405\n41 | 1681\n41 | 41\n  | 1\n42025 = 5 × 5 × 41 × 41\n√42025 = √(5 × 5 × 41 × 41)\n= 5 × 41\n= 205\n205 × 205 = 42025\nDivision method\n205\n______\n2 | 4 20 25\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n40 | 20\n+ 0 | 0\n-----\n40 x 0 = 0\n41 x 1 = 41\n405 | 2025\n+ 5 | 2025\n-----\n404 x 4 = 1616\n405 x 5 = 2025\n406 x 6 = 2436\n410 | 0\n√42025 = 205\n(v) 5 [[71/121]]\nFactorization method\nNumerator:\n2 | 676\n2 | 338\n13 | 169\n13 | 13\n  | 1\n676 = 2 × 2 × 13 × 13\n√676 = √(2 × 2 × 13 × 13)\n= 2 × 13\n= 26\n26 × 26 = 676\nDenominator:\n11 | 121\n11 | 11\n  | 1\n121 = 11 × 11\n√121 = √(11 × 11)\n= 11\n= 11\n11 × 11 = 121\n√[[676/121]] = [[√676/√121]] = [[26/11]] = 2 [[4/11]]\nDivision method\nNumerator:\n676\n26\n______\n2 | 6 76\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n46 | 276\n+ 6 | 276\n-----\n45 x 5 = 225\n46 x 6 = 276\n47 x 7 = 329\n52 | 0\n√676 = 26\nDenominator:\n121\n11\n______\n1 | 1 21\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n21 | 21\n+ 1 | 21\n-----\n20 x 0 = 0\n21 x 1 = 21\n22 x 2 = 44\n22 | 0\n√121 = 11\n√[[676/121]] = [[√676/√121]] = [[26/11]] = 2 [[4/11]]\n(vi) [[2116/9604]]\nFactorization method\nNumerator:\n2 | 2116\n2 | 1058\n23 | 529\n23 | 23\n  | 1\n2116 = 2 × 2 × 23 × 23\n√2116 = √(2 × 2 × 23 × 23)\n= 2 × 23\n= 46\n46 × 46 = 2116\nDenominator:\n2 | 9604\n2 | 4802\n7 | 2401\n7 | 343\n7 | 49\n7 | 7\n  | 1\n9604 = 2 × 2 × 7 × 7 × 7 × 7\n√9604 = √(2 × 2 × 7 × 7 × 7 × 7)\n= 2 × 7 × 7\n= 98\n98 × 98 = 9604\n√[[2116/9604]] = [[√2116/√9604]] = [[46/98]]\nDivision method\nNumerator:\n2116\n46\n______\n4 | 21 16\n+ 4 | 16\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n86 | 516\n+ 6 | 516\n-----\n85 x 5 = 425\n86 x 6 = 516\n87 x 7 = 609\n92 | 0\n√2116 = 46\nDenominator:\n9604\n98\n______\n9 | 96 04\n+ 9 | 81\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n9 x 9 = 81\n188 | 1504\n+ 8 | 1504\n-----\n187 x 7 = 1309\n188 x 8 = 1504\n189 x 9 = 1701\n196 | 0\n√9604 = 98\n√[[2116/9604]] = [[√2116/√9604]] = [[46/98]]\n(vii) 1 [[984/14641]]\nFactorization method\nNumerator:\n5 | 15625\n5 | 3125\n5 | 625\n5 | 125\n5 | 25\n5 | 5\n  | 1\n15625 = 5 × 5 × 5 × 5 × 5 × 5\n√15625 = √(5 × 5 × 5 × 5 × 5 × 5)\n= 5 × 5 × 5\n= 125\n125 × 125 = 15625\nDenominator:\n11 | 14641\n11 | 1331\n11 | 121\n11 | 11\n  | 1\n14641 = 11 × 11 × 11 × 11\n√14641 = √(11 × 11 × 11 × 11)\n= 11 × 11\n= 121\n121 × 121 = 14641\n√[[15625/14641]] = [[√15625/√14641]] = [[125/121]] = 1 [[4/121]]\nDivision method\nNumerator:\n15625\n125\n______\n1 | 1 56 25\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n22 | 56\n+ 2 | 44\n-----\n21 x 1 = 21\n22 x 2 = 44\n23 x 3 = 69\n245 | 1225\n+ 5 | 1225\n-----\n244 x 4 = 976\n245 x 5 = 1225\n246 x 6 = 1476\n250 | 0\n√15625 = 125\nDenominator:\n14641\n121\n______\n1 | 1 46 41\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n22 | 46\n+ 2 | 44\n-----\n21 x 1 = 21\n22 x 2 = 44\n23 x 3 = 69\n241 | 241\n+ 1 | 241\n-----\n240 x 0 = 0\n241 x 1 = 241\n242 x 2 = 484\n242 | 0\n√14641 = 121\n√[[15625/14641]] = [[√15625/√14641]] = [[125/121]] = 1 [[4/121]]\n(viii) 0.0256\n0.0256 = [[256/10000]]\nNumerator:\n2 | 256\n2 | 128\n2 | 64\n2 | 32\n2 | 16\n2 | 8\n2 | 4\n2 | 2\n  | 1\n256 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2\n√256 = √(2 × 2 × 2 × 2 × 2 × 2 × 2 × 2)\n= 2 × 2 × 2 × 2\n= 16\n16 × 16 = 256\nDenominator:\n2 | 10000\n2 | 5000\n2 | 2500\n2 | 1250\n5 | 625\n5 | 125\n5 | 25\n5 | 5\n  | 1\n10000 = 2 × 2 × 2 × 2 × 5 × 5 × 5 × 5\n√10000 = √(2 × 2 × 2 × 2 × 5 × 5 × 5 × 5)\n= 2 × 2 × 5 × 5\n= 100\n100 × 100 = 10000\n√0.0256 = [[√256/√10000]] = [[16/100]] = 0.16\nDivision method\n0.16\n______\n0 | 0.02 56\n+ 0 | 0\n-----\n1 x 1 = 1\n1 | 2\n+ 1 | 1\n-----\n0 x 0 = 0\n1 x 1 = 1\n2 x 2 = 4\n26 | 156\n+ 6 | 156\n-----\n25 x 5 = 125\n26 x 6 = 156\n27 x 7 = 189\n32 | 0\n√0.0256 = 0.16\n(ix) 344569\nFactorization method\n587 | 344569\n587 | 587\n  | 1\n344569 = 587 × 587\n√344569 = √(587 × 587)\n= 587\n= 587\n587 × 587 = 344569\nDivision method\n587\n______\n5 | 34 45 69\n+ 5 | 25\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n108 | 945\n+ 8 | 864\n-----\n107 x 7 = 749\n108 x 8 = 864\n109 x 9 = 981\n1167 | 8169\n+ 7 | 8169\n-----\n1166 x 6 = 6996\n1167 x 7 = 8169\n1168 x 8 = 9344\n1174 | 0\n√344569 = 587\n(x) [[6400/9801]]\nFactorization method\nNumerator:\n2 | 6400\n2 | 3200\n2 | 1600\n2 | 800\n2 | 400\n2 | 200\n2 | 100\n2 | 50\n5 | 25\n5 | 5\n  | 1\n6400 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 5 × 5\n√6400 = √(2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 5 × 5)\n= 2 × 2 × 2 × 2 × 5\n= 80\n80 × 80 = 6400\nDenominator:\n3 | 9801\n3 | 3267\n3 | 1089\n3 | 363\n11 | 121\n11 | 11\n  | 1\n9801 = 3 × 3 × 3 × 3 × 11 × 11\n√9801 = √(3 × 3 × 3 × 3 × 11 × 11)\n= 3 × 3 × 11\n= 99\n99 × 99 = 9801\n√[[6400/9801]] = [[√6400/√9801]] = [[80/99]]\nDivision method\nNumerator:\n6400\n80\n______\n8 | 64 00\n+ 8 | 64\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n9 x 9 = 81\n160 | 0\n+ 0 | 0\n-----\n160 x 0 = 0\n161 x 1 = 161\n160 | 0\n√6400 = 80\nDenominator:\n9801\n99\n______\n9 | 98 01\n+ 9 | 81\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n9 x 9 = 81\n189 | 1701\n+ 9 | 1701\n-----\n188 x 8 = 1504\n189 x 9 = 1701\n198 | 0\n√9801 = 99\n√[[6400/9801]] = [[√6400/√9801]] = [[80/99]]\n(xi) 5 [[41/64]]\nFactorization method\nNumerator:\n19 | 361\n19 | 19\n  | 1\n361 = 19 × 19\n√361 = √(19 × 19)\n= 19\n= 19\n19 × 19 = 361\nDenominator:\n2 | 64\n2 | 32\n2 | 16\n2 | 8\n2 | 4\n2 | 2\n  | 1\n64 = 2 × 2 × 2 × 2 × 2 × 2\n√64 = √(2 × 2 × 2 × 2 × 2 × 2)\n= 2 × 2 × 2\n= 8\n8 × 8 = 64\n√[[361/64]] = [[√361/√64]] = [[19/8]] = 2 [[3/8]]\nDivision method\nNumerator:\n361\n19\n______\n1 | 3 61\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n29 | 261\n+ 9 | 261\n-----\n28 x 8 = 224\n29 x 9 = 261\n38 | 0\n√361 = 19\nDenominator:\n64\n8\n______\n8 | 64\n+ 8 | 64\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n8 x 8 = 64\n9 x 9 = 81\n16 | 0\n√64 = 8\n√[[361/64]] = [[√361/√64]] = [[19/8]] = 2 [[3/8]]\n(xii) 131.1025\n131.1025 = [[1311025/10000]]\nNumerator:\n5 | 1311025\n5 | 262205\n229 | 52441\n229 | 229\n  | 1\n1311025 = 5 × 5 × 229 × 229\n√1311025 = √(5 × 5 × 229 × 229)\n= 5 × 229\n= 1145\n1145 × 1145 = 1311025\nDenominator:\n2 | 10000\n2 | 5000\n2 | 2500\n2 | 1250\n5 | 625\n5 | 125\n5 | 25\n5 | 5\n  | 1\n10000 = 2 × 2 × 2 × 2 × 5 × 5 × 5 × 5\n√10000 = √(2 × 2 × 2 × 2 × 5 × 5 × 5 × 5)\n= 2 × 2 × 5 × 5\n= 100\n100 × 100 = 10000\n√131.1025 = [[√1311025/√10000]] = [[1145/100]] = 11.45\nDivision method\n11.45\n______\n1 | 1 31.10 25\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n21 | 31\n+ 1 | 21\n-----\n20 x 0 = 0\n21 x 1 = 21\n22 x 2 = 44\n224 | 1010\n+ 4 | 896\n-----\n223 x 3 = 669\n224 x 4 = 896\n225 x 5 = 1125\n2285 | 11425\n+ 5 | 11425\n-----\n2284 x 4 = 9136\n2285 x 5 = 11425\n2286 x 6 = 13716\n2290 | 0\n√131.1025 = 11.45"
+              },
+              {
+                "q": "6. The area of a square shaped park is 12100 square metres. Find the length of its side.",
+                "a": "Area of the square shaped park = 12100 square metres\nLength of a side = √12100\n12100\n110\n______\n1 | 1 21 00\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n21 | 21\n+ 1 | 21\n-----\n20 x 0 = 0\n21 x 1 = 21\n22 x 2 = 44\n220 | 0\n+ 0 | 0\n-----\n220 x 0 = 0\n221 x 1 = 221\n220 | 0\n√12100 = 110\nLength of a side = 110 m"
+              },
+              {
+                "q": "7. A floor of a square shaped room has an area of 144 square metres. Find the length of the floor.",
+                "a": "Area of the floor = 144 square metres\nLength of the floor = √144\n144\n12\n______\n1 | 1 44\n+ 1 | 1\n-----\n1 x 1 = 1\n2 x 2 = 4\n22 | 44\n+ 2 | 44\n-----\n21 x 1 = 21\n22 x 2 = 44\n23 x 3 = 69\n24 | 0\n√144 = 12\nLength of the floor = 12 m"
+              },
+              {
+                "q": "8. The area of a rectangular field is 7688 square metres. Find the width when length of the field is twice of its width.",
+                "a": "Width = x m\nLength = 2x m\nArea = 2x × x = 2x^2\n2x^2 = 7688\nx^2 = 3844\nx = √3844\n3844\n62\n______\n6 | 38 44\n+ 6 | 36\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n5 x 5 = 25\n6 x 6 = 36\n7 x 7 = 49\n122 | 244\n+ 2 | 244\n-----\n121 x 1 = 121\n122 x 2 = 244\n123 x 3 = 369\n124 | 0\n√3844 = 62\nx = 62\nWidth = 62 m\nLength = 2 × 62 = 124 m"
+              },
+              {
+                "q": "9. The length of a window is thrice its width. Find the length and width of the window when its area is 18.75 square metres.",
+                "a": "Width = x m\nLength = 3x m\nArea = 3x × x = 3x^2\n3x^2 = 18.75\nx^2 = 6.25\nx = √6.25\n6.25\n2.5\n______\n2 | 6.25\n+ 2 | 4\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n45 | 225\n+ 5 | 225\n-----\n44 x 4 = 176\n45 x 5 = 225\n46 x 6 = 276\n50 | 0\n√6.25 = 2.5\nx = 2.5\nWidth = 2.5 m\nLength = 3 × 2.5 = 7.5 m"
+              },
+              {
+                "q": "10. Najeeb spent Rs 900 in the month of June in such a way that he spent as many rupees in a day as the number of days in the month. How many rupees did he spend in a day?",
+                "a": "June has 30 days\nRupees spent in a day = number of days\nRupees spent in a day = √900\n900\n30\n______\n3 | 9 00\n+ 3 | 9\n-----\n1 x 1 = 1\n2 x 2 = 4\n3 x 3 = 9\n4 x 4 = 16\n60 | 0\n+ 0 | 0\n-----\n60 x 0 = 0\n61 x 1 = 61\n60 | 0\n√900 = 30\n30 rupees in a day"
+              }
+            ]
+          }
+        ],
+        "display": "Square Root of Positive Numbers"
+      },
+      {
+        "unit": 6,
+        "title": "Direct and Inverse Variation",
+        "exercises": [
+          {
+            "label": "Exercise 6.1",
+            "items": [
+              {
+                "q": "Find A : B : C if (i) A : B = 2 : 5 and B : C = 5 : 4",
+                "a": "A : B = 2 : 5\nB : C = 5 : 4\nA : B : C = 2 : 5 : 4"
+              },
+              {
+                "q": "Find A : B : C if (ii) A : B = 3 : 7 and B : C = 8 : 9",
+                "a": "A : B = 3 : 7\nB : C = 8 : 9\nA : B = 3 × 8 : 7 × 8 = 24 : 56\nB : C = 8 × 7 : 9 × 7 = 56 : 63\nA : B : C = 24 : 56 : 63"
+              },
+              {
+                "q": "Find A : B : C if (iii) A : B = 10 : 11 and B : C = 20 : 21",
+                "a": "A : B = 10 : 11\nB : C = 20 : 21\nA : B = 10 × 20 : 11 × 20 = 200 : 220\nB : C = 20 × 11 : 21 × 11 = 220 : 231\nA : B : C = 200 : 220 : 231"
+              },
+              {
+                "q": "Find X : Y : Z if (i) X : Y = 3 : 5 and X : Z = 4 : 9",
+                "a": "X : Y = 3 : 5\nX : Z = 4 : 9\nX : Y = 3 × 4 : 5 × 4 = 12 : 20\nX : Z = 4 × 3 : 9 × 3 = 12 : 27\nX : Y : Z = 12 : 20 : 27"
+              },
+              {
+                "q": "Find X : Y : Z if (ii) X : Y = 5 : 7 and X : Z = 11 : 13",
+                "a": "X : Y = 5 : 7\nX : Z = 11 : 13\nX : Y = 5 × 11 : 7 × 11 = 55 : 77\nX : Z = 11 × 5 : 13 × 5 = 55 : 65\nX : Y : Z = 55 : 77 : 65"
+              },
+              {
+                "q": "Find X : Y : Z if (iii) X : Z = 3 : 5 and Y : Z = 7 : 8",
+                "a": "X : Z = 3 : 5\nY : Z = 7 : 8\nX : Z = 3 × 8 : 5 × 8 = 24 : 40\nY : Z = 7 × 5 : 8 × 5 = 35 : 40\nX : Y : Z = 24 : 35 : 40"
+              },
+              {
+                "q": "Find A : B : C : D if (i) A : B = 2 : 3 , B : C = 4 : 5 and C : D = 7 : 10",
+                "a": "A : B = 2 : 3\nB : C = 4 : 5\nA : B = 2 × 4 : 3 × 4 = 8 : 12\nB : C = 4 × 3 : 5 × 3 = 12 : 15\nA : B : C = 8 : 12 : 15\nC : D = 7 : 10\nA : B : C = 8 × 7 : 12 × 7 : 15 × 7 = 56 : 84 : 105\nC : D = 7 × 15 : 10 × 15 = 105 : 150\nA : B : C : D = 56 : 84 : 105 : 150"
+              },
+              {
+                "q": "Find A : B : C : D if (ii) A : B = 4 : 3 , B : C = 5 : 7 and A : D = 7 : 9",
+                "a": "A : B = 4 : 3\nB : C = 5 : 7\nA : B = 4 × 5 : 3 × 5 = 20 : 15\nB : C = 5 × 3 : 7 × 3 = 15 : 21\nA : B : C = 20 : 15 : 21\nA : D = 7 : 9\nA : B : C = 20 × 7 : 15 × 7 : 21 × 7 = 140 : 105 : 147\nA : D = 7 × 20 : 9 × 20 = 140 : 180\nA : B : C : D = 140 : 105 : 147 : 180"
+              },
+              {
+                "q": "Find x if (i) x : 2 = 5 : 6",
+                "a": "x : 2 = 5 : 6\n6 × x = 2 × 5\n6 × x = 10\n[[6 × x/6]] = [[10/6]]\nx = [[5/3]]"
+              },
+              {
+                "q": "Find x if (ii) 3 : x = 9 : 7",
+                "a": "3 : x = 9 : 7\n9 × x = 3 × 7\n9 × x = 21\n[[9 × x/9]] = [[21/9]]\nx = [[7/3]]"
+              },
+              {
+                "q": "Find x if (iii) 4 : 5 = x : 7",
+                "a": "4 : 5 = x : 7\n5 × x = 4 × 7\n5 × x = 28\n[[5 × x/5]] = [[28/5]]\nx = [[28/5]]"
+              },
+              {
+                "q": "The ratio of weights of Shazia and Nazia is 5 : 9 and that of Nazia and Madhia is 8 : 11. Find the continued ratio of their weights.",
+                "a": "Shazia : Nazia = 5 : 9\nNazia : Madhia = 8 : 11\nShazia : Nazia = 5 × 8 : 9 × 8 = 40 : 72\nNazia : Madhia = 8 × 9 : 11 × 9 = 72 : 99\nShazia : Nazia : Madhia = 40 : 72 : 99"
+              },
+              {
+                "q": "Divide 2000 rupees among Saleem, Irfan and Imran in 2 : 3 : 5.",
+                "a": "Saleem : Irfan : Imran = 2 : 3 : 5\n2 + 3 + 5 = 10\nShare of Saleem = [[2 × 2000/10]]\n= 400 rupees\nShare of Irfan = [[3 × 2000/10]]\n= 600 rupees\nShare of Imran = [[5 × 2000/10]]\n= 1000 rupees"
+              },
+              {
+                "q": "The ratio of marks obtained by three friends in an annual examination is as under: Marks of Akhtar and Aziz are in 3 : 4 and Aziz and Anis are in 5 : 7. Find the continued ratio of their marks.",
+                "a": "Akhtar : Aziz = 3 : 4\nAziz : Anis = 5 : 7\nAkhtar : Aziz = 3 × 5 : 4 × 5 = 15 : 20\nAziz : Anis = 5 × 4 : 7 × 4 = 20 : 28\nAkhtar : Aziz : Anis = 15 : 20 : 28"
+              },
+              {
+                "q": "The ratios in the property of a family members are as under: The ratio of property of Father and Mother is 5 : 2, Mother and Daughter is 3 : 4 and Daughter and Son is 6 : 7. Find their continued ratio in property.",
+                "a": "Father : Mother = 5 : 2\nMother : Daughter = 3 : 4\nFather : Mother = 5 × 3 : 2 × 3 = 15 : 6\nMother : Daughter = 3 × 2 : 4 × 2 = 6 : 8\nFather : Mother : Daughter = 15 : 6 : 8\nDaughter : Son = 6 : 7\nFather : Mother : Daughter = 15 × 3 : 6 × 3 : 8 × 3 = 45 : 18 : 24\nDaughter : Son = 6 × 4 : 7 × 4 = 24 : 28\nFather : Mother : Daughter : Son = 45 : 18 : 24 : 28"
+              },
+              {
+                "q": "An amount of Rs 27,400 is used for utility bills of a person; electricity, phone, gas and Water. The ratio among electricity and phone is 5 : 2, phone and gas is 4 : 3 but gas and water is 7:6. Find the actual amount of bills.",
+                "a": "Electricity : Phone = 5 : 2\nPhone : Gas = 4 : 3\nElectricity : Phone = 5 × 2 : 2 × 2 = 10 : 4\nPhone : Gas = 4 : 3\nElectricity : Phone : Gas = 10 : 4 : 3\nGas : Water = 7 : 6\nElectricity : Phone : Gas = 10 × 7 : 4 × 7 : 3 × 7 = 70 : 28 : 21\nGas : Water = 7 × 3 : 6 × 3 = 21 : 18\nElectricity : Phone : Gas : Water = 70 : 28 : 21 : 18\n70 + 28 + 21 + 18 = 137\nElectricity bill = [[70 × 27400/137]]\n= 14000 rupees\nPhone bill = [[28 × 27400/137]]\n= 5600 rupees\nGas bill = [[21 × 27400/137]]\n= 4200 rupees\nWater bill = [[18 × 27400/137]]\n= 3600 rupees"
+              },
+              {
+                "q": "A student purchased a copy of the books of Mathematics, Science, English and Urdu for class VII for an amount of Rs 675. The ratio among the prices of books is as under: English: Urdu is 2:3, Urdu : Science is 2:5 and Science: Mathematics is 3:4. Find the price of each book.",
+                "a": "English : Urdu = 2 : 3\nUrdu : Science = 2 : 5\nEnglish : Urdu = 2 × 2 : 3 × 2 = 4 : 6\nUrdu : Science = 2 × 3 : 5 × 3 = 6 : 15\nEnglish : Urdu : Science = 4 : 6 : 15\nScience : Mathematics = 3 : 4\nScience : Mathematics = 3 × 5 : 4 × 5 = 15 : 20\nEnglish : Urdu : Science : Mathematics = 4 : 6 : 15 : 20\n4 + 6 + 15 + 20 = 45\nPrice of English book = [[4 × 675/45]]\n= 60 rupees\nPrice of Urdu book = [[6 × 675/45]]\n= 90 rupees\nPrice of Science book = [[15 × 675/45]]\n= 225 rupees\nPrice of Maths book = [[20 × 675/45]]\n= 300 rupees"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 6.2",
+            "items": [
+              {
+                "q": "The price of 15 chairs is 4500 rupees. Find the price of such 20 chairs.",
+                "a": "x = cost of 20 chairs (rupees)\nProportion Method\nChairs : Cost (rupees)\n15 : 4500\n20 : x\nDirect Proportion\n15 : 20 = 4500 : x\n15 × x = 20 × 4500\n15 × x = 90000\n[[15 × x/15]] = [[90000/15]]\nx = 6000\n6000 rupees\nUnitary Method\nCost of 15 chairs = 4500 rupees\nCost of 1 chair = [[4500/15]] rupees\n= 300 rupees\nCost of 20 chairs = 20 × 300\n= 6000 rupees"
+              },
+              {
+                "q": "Six identical pipes can fill a water tank in 3 hours. How many such pipes can fill the same tank in 2 hours.",
+                "a": "x = number of pipes\nProportion Method\nPipes : Hours\n6 : 3\nx : 2\nInverse Proportion\n6 : x = 2 : 3\n2 × x = 6 × 3\n2 × x = 18\n[[2 × x/2]] = [[18/2]]\nx = 9\n9 pipes\nUnitary Method\n6 pipes fill the tank in 3 hours\n1 pipe fills the tank in 6 × 3 hours\n= 18 hours\nNumber of pipes = [[6 × 3/2]]\n= [[18/2]]\n= 9\n9 pipes"
+              },
+              {
+                "q": "If 5 persons can consume the food provisions in 8 days. How many persons can consume the same food provisions in 4 days.",
+                "a": "x = number of persons\nProportion Method\nPersons : Days\n5 : 8\nx : 4\nInverse Proportion\n5 : x = 4 : 8\n4 × x = 5 × 8\n4 × x = 40\n[[4 × x/4]] = [[40/4]]\nx = 10\n10 persons\nUnitary Method\n5 persons consume the food provisions in 8 days\n1 person consumes the food provisions in 5 × 8 days\n= 40 days\nNumber of persons = [[5 × 8/4]]\n= [[40/4]]\n= 10\n10 persons"
+              },
+              {
+                "q": "The cost of 4 kilograms of mangoes is 300 rupees. Find the cost of 10 kilograms of mangoes.",
+                "a": "x = cost of 10 kilograms of mangoes (rupees)\nProportion Method\nKilograms : Cost (rupees)\n4 : 300\n10 : x\nDirect Proportion\n4 : 10 = 300 : x\n4 × x = 10 × 300\n4 × x = 3000\n[[4 × x/4]] = [[3000/4]]\nx = 750\n750 rupees\nUnitary Method\nCost of 4 kilograms of mangoes = 300 rupees\nCost of 1 kilogram of mangoes = [[300/4]] rupees\n= 75 rupees\nCost of 10 kilograms of mangoes = 10 × 75\n= 750 rupees"
+              },
+              {
+                "q": "A student reads 30 pages of a book in 4 days. How many pages of same book will he read in 10 days?",
+                "a": "x = number of pages read in 10 days\nProportion Method\nPages : Days\n30 : 4\nx : 10\nDirect Proportion\n30 : x = 4 : 10\n4 × x = 30 × 10\n4 × x = 300\n[[4 × x/4]] = [[300/4]]\nx = 75\n75 pages\nUnitary Method\nPages read in 4 days = 30\nPages read in 1 day = [[30/4]]\n= 7.5\nPages read in 10 days = 10 × 7.5\n= 75\n75 pages"
+              },
+              {
+                "q": "20 soldiers can consume a food stock in 8 days. How many soldiers will consume the same food stock in 5 days?",
+                "a": "x = number of soldiers\nProportion Method\nSoldiers : Days\n20 : 8\nx : 5\nInverse Proportion\n20 : x = 5 : 8\n5 × x = 20 × 8\n5 × x = 160\n[[5 × x/5]] = [[160/5]]\nx = 32\n32 soldiers\nUnitary Method\n20 soldiers consume the food stock in 8 days\n1 soldier consumes the food stock in 20 × 8 days\n= 160 days\nNumber of soldiers = [[20 × 8/5]]\n= [[160/5]]\n= 32\n32 soldiers"
+              },
+              {
+                "q": "If 4 workers complete a job in 8 hours. Find the time in hours to complete the same job by 6 workers.",
+                "a": "x = time in hours for 6 workers\nProportion Method\nWorkers : Hours\n4 : 8\n6 : x\nInverse Proportion\n4 : 6 = x : 8\n6 × x = 4 × 8\n6 × x = 32\n[[6 × x/6]] = [[32/6]]\nx = [[16/3]]\nx = 5 [[1/3]]\n5 [[1/3]] hours\nUnitary Method\n4 workers complete the job in 8 hours\n1 worker completes the job in 4 × 8 hours\n= 32 hours\nTime for 6 workers = [[4 × 8/6]] hours\n= [[32/6]] hours\n= 5 [[1/3]] hours"
+              },
+              {
+                "q": "Find the cost of 18 kg of potatoes if 6 kg of potatoes cost Rs 105.",
+                "a": "x = cost of 18 kg of potatoes (rupees)\nProportion Method\nKilograms : Cost (rupees)\n6 : 105\n18 : x\nDirect Proportion\n6 : 18 = 105 : x\n6 × x = 18 × 105\n6 × x = 1890\n[[6 × x/6]] = [[1890/6]]\nx = 315\n315 rupees\nUnitary Method\nCost of 6 kg of potatoes = 105 rupees\nCost of 1 kg of potatoes = [[105/6]] rupees\n= 17.5 rupees\nCost of 18 kg of potatoes = 18 × 17.5\n= 315 rupees"
+              },
+              {
+                "q": "If [[4/7]] of a piece of metal weighs 28 kg, find the weight of [[8/9]] of the same piece of metal.",
+                "a": "x = weight of [[8/9]] of the piece (kg)\nProportion Method\nPart of piece : Weight (kg)\n[[4/7]] : 28\n[[8/9]] : x\nDirect Proportion\n[[4/7]] : [[8/9]] = 28 : x\n[[8/9]] × 28 = [[4/7]] × x\n[[224/9]] = [[4/7]] × x\nx = [[224/9]] ÷ [[4/7]]\nx = [[224/9]] × [[7/4]]\nx = [[1568/36]]\nx = [[392/9]]\n[[392/9]] kg\nUnitary Method\nWeight of [[4/7]] of the piece = 28 kg\nWeight of the whole piece = 28 ÷ [[4/7]] kg\n= 28 × [[7/4]] kg\n= 49 kg\nWeight of [[8/9]] of the piece = [[8/9]] × 49 kg\n= [[392/9]] kg"
+              },
+              {
+                "q": "The expenses of 35 guests in a party are Rs 5250. Find the expenses of 85 guests.",
+                "a": "x = expenses of 85 guests (rupees)\nProportion Method\nGuests : Expenses (rupees)\n35 : 5250\n85 : x\nDirect Proportion\n35 : 85 = 5250 : x\n35 × x = 85 × 5250\n35 × x = 446250\n[[35 × x/35]] = [[446250/35]]\nx = 12750\n12750 rupees\nUnitary Method\nExpenses of 35 guests = 5250 rupees\nExpenses of 1 guest = [[5250/35]] rupees\n= 150 rupees\nExpenses of 85 guests = 85 × 150\n= 12750 rupees"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 6.3",
+            "items": [
+              {
+                "q": "20 workers can complete half of work in a certain time. How many workers are required to complete three-fourth of the work in the same time?",
+                "a": "x = number of workers\nWorkers : Work\n20 : [[1/2]]\nx : [[3/4]]\nDirect Proportion\n20 : x = [[1/2]] : [[3/4]]\n[[1/2]] × x = 20 × [[3/4]]\n[[x/2]] = [[60/4]]\n4x = 120\n[[4x/4]] = [[120/4]]\nx = 30\n30 workers"
+              },
+              {
+                "q": "If 6 labourers complete a work in 10 days. How many labourers are required to complete the same work in 15 days?",
+                "a": "x = number of labourers\nLabourers : Days\n6 : 10\nx : 15\nInverse Proportion\n6 : x = 15 : 10\n15 × x = 6 × 10\n15 × x = 60\n[[15 × x/15]] = [[60/15]]\nx = 4\n4 labourers"
+              },
+              {
+                "q": "If 5 workers can complete a work in 8 days. How many workers are required to complete the same work in 4 days?",
+                "a": "x = number of workers\nWorkers : Days\n5 : 8\nx : 4\nInverse Proportion\n5 : x = 4 : 8\n4 × x = 5 × 8\n4 × x = 40\n[[4 × x/4]] = [[40/4]]\nx = 10\n10 workers"
+              },
+              {
+                "q": "If three masons construct a wall in four days. In how many days, five such masons can construct the wall.",
+                "a": "x = number of days for 5 masons\nMasons : Days\n3 : 4\n5 : x\nInverse Proportion\n3 : 5 = x : 4\n5 × x = 3 × 4\n5 × x = 12\n[[5 × x/5]] = [[12/5]]\nx = [[12/5]]\nx = 2 [[2/5]]\n2 [[2/5]] days"
+              },
+              {
+                "q": "If 5 men complete one third of a work. How much work will be completed by 7 men in the same time?",
+                "a": "x = work completed by 7 men\nMen : Work\n5 : [[1/3]]\n7 : x\nDirect Proportion\n5 : 7 = [[1/3]] : x\n5 × x = 7 × [[1/3]]\n5 × x = [[7/3]]\n[[5 × x/5]] = [[7/3]] ÷ 5\nx = [[7/15]]\n[[7/15]] of the work"
+              },
+              {
+                "q": "Twelve workers are needed to build a bungalow in 64 days. How many days will 18 workers, working at the same speed, take to build the same bungalow.",
+                "a": "x = number of days for 18 workers\nWorkers : Days\n12 : 64\n18 : x\nInverse Proportion\n12 : 18 = x : 64\n18 × x = 12 × 64\n18 × x = 768\n[[18 × x/18]] = [[768/18]]\nx = [[128/3]]\nx = 42 [[2/3]]\n42 [[2/3]] days"
+              },
+              {
+                "q": "A consignment of fodder lasts for 75 days for 1500 sheep. Given that sheep consume the fodder at a constant rate, find: (i) The number of sheep on equal consignment of fodder lasts for 90 days.",
+                "a": "x = number of sheep\nSheep : Days\n1500 : 75\nx : 90\nInverse Proportion\n1500 : x = 90 : 75\n90 × x = 1500 × 75\n90 × x = 112500\n[[90 × x/90]] = [[112500/90]]\nx = 1250\n1250 sheep"
+              },
+              {
+                "q": "A consignment of fodder lasts for 75 days for 1500 sheep. Given that sheep consume the fodder at a constant rate, find: (ii) The number of days in equal consignment of fodder for 1200 sheep.",
+                "a": "x = number of days for 1200 sheep\nSheep : Days\n1500 : 75\n1200 : x\nInverse Proportion\n1500 : 1200 = x : 75\n1200 × x = 1500 × 75\n1200 × x = 112500\n[[1200 × x/1200]] = [[112500/1200]]\nx = [[375/4]]\nx = 93 [[3/4]]\n93 [[3/4]] days"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 6.4",
+            "items": [
+              {
+                "q": "Convert the following into [[m/s]] (i) 50 [[km/h]]",
+                "a": "50 [[km/h]] = 50 × [[1000/3600]] [[m/s]]\n= [[50000/3600]] [[m/s]]\n= 13.89 [[m/s]]"
+              },
+              {
+                "q": "Convert the following into [[m/s]] (ii) 75 [[km/h]]",
+                "a": "75 [[km/h]] = 75 × [[1000/3600]] [[m/s]]\n= [[75000/3600]] [[m/s]]\n= 20.83 [[m/s]]"
+              },
+              {
+                "q": "Convert the following into [[m/s]] (iii) 80 [[km/h]]",
+                "a": "80 [[km/h]] = 80 × [[1000/3600]] [[m/s]]\n= [[80000/3600]] [[m/s]]\n= 22.22 [[m/s]]"
+              },
+              {
+                "q": "Convert the following into [[m/s]] (iv) 50.5 [[km/h]]",
+                "a": "50.5 [[km/h]] = 50.5 × [[1000/3600]] [[m/s]]\n= [[50500/3600]] [[m/s]]\n= 14.03 [[m/s]]"
+              },
+              {
+                "q": "Convert the following into [[km/h]] (i) 30 [[m/s]]",
+                "a": "30 [[m/s]] = 30 ÷ [[1000/3600]] [[km/h]]\n= 30 × [[3600/1000]] [[km/h]]\n= [[108000/1000]] [[km/h]]\n= 108 [[km/h]]"
+              },
+              {
+                "q": "Convert the following into [[km/h]] (ii) 12 [[m/s]]",
+                "a": "12 [[m/s]] = 12 ÷ [[1000/3600]] [[km/h]]\n= 12 × [[3600/1000]] [[km/h]]\n= [[43200/1000]] [[km/h]]\n= 43.2 [[km/h]]"
+              },
+              {
+                "q": "Convert the following into [[km/h]] (iii) 42 [[m/s]]",
+                "a": "42 [[m/s]] = 42 ÷ [[1000/3600]] [[km/h]]\n= 42 × [[3600/1000]] [[km/h]]\n= [[151200/1000]] [[km/h]]\n= 151.2 [[km/h]]"
+              },
+              {
+                "q": "Convert the following into [[km/h]] (iv) 25.5 [[m/s]]",
+                "a": "25.5 [[m/s]] = 25.5 ÷ [[1000/3600]] [[km/h]]\n= 25.5 × [[3600/1000]] [[km/h]]\n= [[91800/1000]] [[km/h]]\n= 91.8 [[km/h]]"
+              },
+              {
+                "q": "Find the speed of a motor bike which covers a distance of 80 km in 2 hours.",
+                "a": "Speed = [[Distance/Time]]\nSpeed = [[80/2]] [[km/h]]\n= 40 [[km/h]]"
+              },
+              {
+                "q": "How much time will a van take to cover a distance of 180 km with speed of 60 [[km/h]] ?",
+                "a": "Time = [[Distance/Speed]]\nTime = [[180/60]] hours\n= 3 hours"
+              },
+              {
+                "q": "If a cyclist covers a distance of 150 m in 30 seconds. How much distance will he cover in 45 seconds?",
+                "a": "x = distance covered in 45 seconds (m)\nDistance : Time\n150 : 30\nx : 45\nDirect Proportion\n150 : x = 30 : 45\n30 × x = 150 × 45\n30 × x = 6750\n[[30 × x/30]] = [[6750/30]]\nx = 225\n225 m"
+              },
+              {
+                "q": "A bus takes 3 hours to reach its destination if speed is 60 [[km/h]]. In how much time will it cover the same distance with speed of 70 [[km/h]]?",
+                "a": "Distance = Speed × Time\nDistance = 60 × 3\n= 180 km\nTime = [[Distance/Speed]]\nTime = [[180/70]] hours\n= [[18/7]] hours\n= 2 [[4/7]] hours"
+              },
+              {
+                "q": "A vehicle takes 3 hours to complete the distance of 210 km. (i) What is its speed per hours",
+                "a": "Speed = [[Distance/Time]]\nSpeed = [[210/3]] [[km/h]]\n= 70 [[km/h]]"
+              },
+              {
+                "q": "A vehicle takes 3 hours to complete the distance of 210 km. (ii) What is its speed in [[k[[m/minute]]]]?",
+                "a": "Speed = 70 [[km/h]]\nSpeed = [[70/60]] [[km/minute]]\n= [[7/6]] [[km/minute]]\n= 1 [[1/6]] [[km/minute]]"
+              },
+              {
+                "q": "A vehicle takes 3 hours to complete the distance of 210 km. (iii) What is its speed in [[[[m/s]]ec]]",
+                "a": "Speed = 70 [[km/h]]\nSpeed = 70 × [[1000/3600]] [[m/s]]\n= [[70000/3600]] [[m/s]]\n= 19.4 [[m/s]]"
+              },
+              {
+                "q": "A vehicle takes 3 hours to complete the distance of 210 km. (iv) What distance will it cover in 4 [[1/2]] hours; with the speed of 70 [[km/h]]?",
+                "a": "Distance = Speed × Time\nDistance = 70 × 4 [[1/2]] km\n= 70 × [[9/2]] km\n= [[630/2]] km\n= 315 km"
+              },
+              {
+                "q": "A vehicle takes 3 hours to complete the distance of 210 km. (v) What time will it take to complete the distance of 350 km?",
+                "a": "Time = [[Distance/Speed]]\nTime = [[350/70]] hours\n= 5 hours"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "Find x : y : z if x : y = 2 : 5 and x : z = 4 : 7.",
+                "a": "x : y = 2 : 5\nx : z = 4 : 7\nx : y = 2 × 2 : 5 × 2 = 4 : 10\nx : z = 4 : 7\nx : y : z = 4 : 10 : 7"
+              },
+              {
+                "q": "Find P : Q : R : S, if P : Q = 3 : 4, Q : R = 5 : 6 and R : S = 7 : 8.",
+                "a": "P : Q = 3 : 4\nQ : R = 5 : 6\nP : Q = 3 × 5 : 4 × 5 = 15 : 20\nQ : R = 5 × 4 : 6 × 4 = 20 : 24\nP : Q : R = 15 : 20 : 24\nR : S = 7 : 8\nP : Q : R = 15 × 7 : 20 × 7 : 24 × 7 = 105 : 140 : 168\nR : S = 7 × 24 : 8 × 24 = 168 : 192\nP : Q : R : S = 105 : 140 : 168 : 192"
+              },
+              {
+                "q": "The price of ten pens is Rs. 250. Find the price of such 17 pens.",
+                "a": "x = price of 17 pens (rupees)\nPens : Price (rupees)\n10 : 250\n17 : x\nDirect Proportion\n10 : 17 = 250 : x\n10 × x = 17 × 250\n10 × x = 4250\n[[10 × x/10]] = [[4250/10]]\nx = 425\n425 rupees"
+              },
+              {
+                "q": "Ten workers can complete a work in 7 days. How many workers can complete the same work in 5 days.",
+                "a": "x = number of workers\nWorkers : Days\n10 : 7\nx : 5\nInverse Proportion\n10 : x = 5 : 7\n5 × x = 10 × 7\n5 × x = 70\n[[5 × x/5]] = [[70/5]]\nx = 14\n14 workers"
+              },
+              {
+                "q": "Find x if x : 5 = 6 : 15.",
+                "a": "x : 5 = 6 : 15\n15 × x = 5 × 6\n15 × x = 30\n[[15 × x/15]] = [[30/15]]\nx = 2"
+              },
+              {
+                "q": "Find y if 7 : 8 = y : 24",
+                "a": "7 : 8 = y : 24\n8 × y = 7 × 24\n8 × y = 168\n[[8 × y/8]] = [[168/8]]\ny = 21"
+              },
+              {
+                "q": "Covert 60 [[km/h]] into [[m/s]].",
+                "a": "60 [[km/h]] = 60 × [[1000/3600]] [[m/s]]\n= [[60000/3600]] [[m/s]]\n= 16.7 [[m/s]]"
+              },
+              {
+                "q": "Convert 105 [[m/s]] into [[km/h]].",
+                "a": "105 [[m/s]] = 105 ÷ [[1000/3600]] [[km/h]]\n= 105 × [[3600/1000]] [[km/h]]\n= [[378000/1000]] [[km/h]]\n= 378 [[km/h]]"
+              },
+              {
+                "q": "A car covers a distance of 30 km in 25 minutes. How much distance can it cover in 55 minutes? Also find its speed in (i) [[km/h]] (ii) [[k[[m/minute]]]] (iii) [[m/minute]] (iv) [[[[m/s]]ec]]",
+                "a": "x = distance covered in 55 minutes (km)\nDistance : Time\n30 : 25\nx : 55\nDirect Proportion\n30 : x = 25 : 55\n25 × x = 30 × 55\n25 × x = 1650\n[[25 × x/25]] = [[1650/25]]\nx = 66\n66 km\n(i) Speed = 30 ÷ [[25/60]] [[km/h]]\n= 30 × [[60/25]] [[km/h]]\n= [[1800/25]] [[km/h]]\n= 72 [[km/h]]\n(ii) Speed = [[30/25]] [[km/minute]]\n= 1.2 [[km/minute]]\n(iii) Speed = 1.2 × 1000 [[m/minute]]\n= 1200 [[m/minute]]\n(iv) Speed = [[1200/60]] [[m/sec]]\n= 20 [[m/sec]]"
+              },
+              {
+                "q": "Quantity of petrol in the fuel tanks of cars A, B and C is in the ratio 7 : 9 : 11. If total quantity of petrol consumed by these three cars is 162 litres; find the consumption of each car.",
+                "a": "Car A : Car B : Car C = 7 : 9 : 11\n7 + 9 + 11 = 27\nCar A = [[7 × 162/27]] litres\n= 42 litres\nCar B = [[9 × 162/27]] litres\n= 54 litres\nCar C = [[11 × 162/27]] litres\n= 66 litres"
+              },
+              {
+                "q": "The cost of transporting goods is Rs 100 for a distance of 40 km. At the same rate; (i) Find the cost of transporting goods for 150 km.",
+                "a": "x = cost of transporting goods for 150 km (rupees)\nCost : Distance\n100 : 40\nx : 150\nDirect Proportion\n100 : x = 40 : 150\n40 × x = 100 × 150\n40 × x = 15000\n[[40 × x/40]] = [[15000/40]]\nx = 375\n375 rupees"
+              },
+              {
+                "q": "The cost of transporting goods is Rs 100 for a distance of 40 km. At the same rate; (ii) Find the distance if the cost of transporting is Rs 560.",
+                "a": "x = distance for Rs 560 (km)\nCost : Distance\n100 : 40\n560 : x\nDirect Proportion\n100 : 560 = 40 : x\n100 × x = 560 × 40\n100 × x = 22400\n[[100 × x/100]] = [[22400/100]]\nx = 224\n224 km"
+              }
+            ]
+          }
+        ],
+        "display": "Direct and Inverse Variation"
+      },
+      {
+        "unit": 7,
+        "title": "Financial Arithmetic",
+        "exercises": [
+          {
+            "label": "Exercise 7.1",
+            "items": [
+              {
+                "q": "A. Find property tax on the property at the rate mentioned below:\n1. Property worth Rs 286,400, rate = 5%.",
+                "a": "Property tax = 5% of Rs 286,400\n= Rs 286,400 × 0.05\n= Rs 14,320"
+              },
+              {
+                "q": "A. Find property tax on the property at the rate mentioned below:\n2. Property worth Rs 1,657,900, rate = 2%.",
+                "a": "Property tax = 2% of Rs 1,657,900\n= Rs 1,657,900 × 0.02\n= Rs 33,158"
+              },
+              {
+                "q": "A. Find property tax on the property at the rate mentioned below:\n3. Property worth Rs 814,500, rate = 3%.",
+                "a": "Property tax = 3% of Rs 814,500\n= Rs 814,500 × 0.03\n= Rs 24,435"
+              },
+              {
+                "q": "A. Find property tax on the property at the rate mentioned below:\n4. Property worth Rs 234,000, rate = 1.4%.",
+                "a": "Property tax = 1.4% of Rs 234,000\n= Rs 234,000 × 0.014\n234,000 × 14 = 3,276,000\n3,276,000 ÷ 1,000 = 3,276\nProperty tax = Rs 3,276"
+              },
+              {
+                "q": "A. Find property tax on the property at the rate mentioned below:\n5. Property worth Rs 2,050,000, rate = 1.6%.",
+                "a": "Property tax = 1.6% of Rs 2,050,000\n= Rs 2,050,000 × 0.016\n= Rs 32,800"
+              },
+              {
+                "q": "B. Find the worth of the property in the following when:\n1. Tax paid on the property is Rs 25500 at the rate of 2%.",
+                "a": "Worth of property = [[25,500 × 100/2]]\n25,500 × 100 = 2,550,000\n2,550,000 ÷ 2 = 1,275,000\nWorth of property = Rs 1,275,000"
+              },
+              {
+                "q": "B. Find the worth of the property in the following when:\n2. Tax paid on the property is Rs 35900 at the rate of 4%.",
+                "a": "Worth of property = [[35,900 × 100/4]]\n35,900 × 100 = 3,590,000\n3,590,000 ÷ 4 = 897,500\nWorth of property = Rs 897,500"
+              },
+              {
+                "q": "B. Find the worth of the property in the following when:\n3. Tax paid on the property is Rs 4800 at the rate of 5%.",
+                "a": "Worth of property = [[4,800 × 100/5]]\n4,800 × 100 = 480,000\n480,000 ÷ 5 = 96,000\nWorth of property = Rs 96,000"
+              },
+              {
+                "q": "B. Find the worth of the property in the following when:\n4. Tax paid on the property is Rs 8500 at the rate of 3.5%.",
+                "a": "Worth of property = [[8,500 × 100/3.5]]\n8,500 × 100 = 850,000\n850,000 ÷ 3.5 = 242,857.14\nWorth of property = Rs 242,857.14"
+              },
+              {
+                "q": "B. Find the worth of the property in the following when:\n5. Tax paid on the property is Rs 11,700 at the rate 1.5%.",
+                "a": "Worth of property = [[11,700 × 100/1.5]]\n11,700 × 100 = 1,170,000\n1,170,000 ÷ 1.5 = 780,000\nWorth of property = Rs 780,000"
+              },
+              {
+                "q": "C. Find rate percentage of property tax when:\n1. The property tax paid is Rs 30000 and the worth of the property tax paid is Rs 1,800,000.",
+                "a": "Rate = [[30,000/1,800,000]] × 100\n30,000 × 100 = 3,000,000\n3,000,000 ÷ 1,800,000 = 1.67\nRate = 1.67%"
+              },
+              {
+                "q": "C. Find rate percentage of property tax when:\n2. The property tax paid is Rs 33000 and the worth of the property is Rs 3,300,000.",
+                "a": "Rate = [[33,000/3,300,000]] × 100\n33,000 × 100 = 3,300,000\n3,300,000 ÷ 3,300,000 = 1\nRate = 1%"
+              },
+              {
+                "q": "C. Find rate percentage of property tax when:\n3. The property tax paid is Rs 12000 and the worth of the property is Rs 600,000.",
+                "a": "Rate = [[12,000/600,000]] × 100\n12,000 × 100 = 1,200,000\n1,200,000 ÷ 600,000 = 2\nRate = 2%"
+              },
+              {
+                "q": "C. Find rate percentage of property tax when:\n4. The property tax paid is Rs 8676 and the worth of the property is Rs 433,800.",
+                "a": "Rate = [[8,676/433,800]] × 100\n8,676 × 100 = 867,600\n867,600 ÷ 433,800 = 2\nRate = 2%"
+              },
+              {
+                "q": "C. Find rate percentage of property tax when:\n5. The property tax paid is Rs 12000 and the worth of the property is Rs 600,000.",
+                "a": "Rate = [[12,000/600,000]] × 100\n12,000 × 100 = 1,200,000\n1,200,000 ÷ 600,000 = 2\nRate = 2%"
+              },
+              {
+                "q": "D. Answer the following:\n1. What is tax?",
+                "a": "A fee charged (levied) by the government on a product, income or activity is called tax."
+              },
+              {
+                "q": "D. Answer the following:\n2. What is the purpose of taxation?",
+                "a": "The purpose of taxation is to finance government expenditure.\nOne of the most important uses of taxes is to finance public goods and services."
+              },
+              {
+                "q": "D. Answer the following:\n3. Explain property tax.",
+                "a": "Property tax is a levy issued by a government on a person’s real or personal property.\nThe property is assessed to give it a value and that value is taxed.\nProperty tax payments are due annually in most cases.\nIt is generally paid at a flat rate of 2% but the tax rates vary, depending on the province."
+              },
+              {
+                "q": "D. Answer the following:\n4. Mention any four properties which are exempted from property tax.",
+                "a": "1. Government owned properties.\n2. Residential building on land not over 120 square yards.\n3. One residential flat of 600 square feet or less on any floor of a building.\n4. Libraries, parks, playgrounds, place of worship, orphanages, cemeteries, crematorium etc."
+              }
+            ]
+          },
+          {
+            "label": "Exercise 7.2",
+            "items": [
+              {
+                "q": "1. The cost of a parker pen is Rs 875. Find the GST charged on it at the rate of 17%.",
+                "a": "GST = 17% of Rs 875\n= Rs 875 × 0.17\n= Rs 148.75"
+              },
+              {
+                "q": "2. The cost of a mobile is Rs 4,850. Find the GST at the rate of 17%.",
+                "a": "GST = 17% of Rs 4,850\n= Rs 4,850 × 0.17\n= Rs 824.50"
+              },
+              {
+                "q": "3. The total cost of cosmetic items is Rs 14976. If the actual cosmetic item cost is Rs 12,800, find the amount of GST.",
+                "a": "GST = Total Cost − Item Cost\nGST = Rs 14,976 − Rs 12,800\n= Rs 2,176"
+              },
+              {
+                "q": "4. A microwave costs Rs 15200. Rate of GST is 17% charged on it. Find the amount of GST and total cost of the microwave.",
+                "a": "GST = 17% of Rs 15,200\n= Rs 15,200 × 0.17\n= Rs 2,584\nTotal Cost = GST + Item Cost\nTotal Cost = Rs 2,584 + Rs 15,200\n= Rs 17,784"
+              },
+              {
+                "q": "5. Abdullah purchased a three piece suit of cost Rs 7,800. Find the total cost and amount of GST at the rate of 17%.",
+                "a": "GST = 17% of Rs 7,800\n= Rs 7,800 × 0.17\n= Rs 1,326\nTotal Cost = GST + Item Cost\nTotal Cost = Rs 1,326 + Rs 7,800\n= Rs 9,126"
+              },
+              {
+                "q": "6. A refrigerator is sold inclusive of 17% GST for Rs 35,375. Find the actual cost of the refrigerator.",
+                "a": "Item Cost = [[35,375/1.17]]\n35,375 ÷ 1.17 = 30,235.04\nItem Cost = Rs 30,235"
+              },
+              {
+                "q": "7. A person purchased a dishwasher for Rs 61,000 inclusive 17% GST. Find the cost of dishwasher excluding GST. Also find the amount of GST.",
+                "a": "Item Cost = [[61,000/1.17]]\n61,000 ÷ 1.17 = 52,136.75\nItem Cost = Rs 52,137\nGST = Total Cost − Item Cost\nGST = Rs 61,000 − Rs 52,137\n= Rs 8,863"
+              },
+              {
+                "q": "8. Ms. Alia paid Rs 2,720 as GST at the rate of 17% on the purchase of a decoration piece. Find the cost of decoration piece exclusive of GST.",
+                "a": "Cost of decoration piece = [[2,720/0.17]]\n2,720 ÷ 0.17 = 16,000\nCost of decoration piece = Rs 16,000"
+              },
+              {
+                "q": "9. An electric company charges Rs 1547 GST on the consumption of electricity of the cost Rs 9,100. Find the rate of GST.",
+                "a": "Rate of GST = [[GST/Item Cost]]\n= [[1,547/9,100]]\n1,547 ÷ 9,100 = 0.17\nRate of GST = 17%"
+              },
+              {
+                "q": "10. The cost of a shirt excluding tax is Rs 2,560, and the amount of GST on it is Rs 436. Find rate of GST.",
+                "a": "Rate of GST = [[GST/Item Cost]]\n= [[436/2,560]]\n436 ÷ 2,560 = 0.1703\nRate of GST = 17.03%"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 7.3",
+            "items": [
+              {
+                "q": "1. A retailer pays to its whole-saler Rs,1860 for a Helmet and then he sells it to consumer for Rs 2,650. What is the markup rate and his profit.",
+                "a": "Profit = S.P. − C.P.\nProfit = Rs 2,650 − Rs 1,860\n= Rs 790\nMarkup rate = [[Profit/C.P.]] × 100\n= [[790/1,860]] × 100\n790 × 100 = 79,000\n79,000 ÷ 1,860 = 42.47\nMarkup rate = 42.47%\nProfit = Rs 790"
+              },
+              {
+                "q": "2. A Shopkeeper sells a microwave oven for Rs 6700. Find th markup rate and his profit if the cost price of microwave oven is Rs 6250.",
+                "a": "Profit = S.P. − C.P.\nProfit = Rs 6,700 − Rs 6,250\n= Rs 450\nMarkup rate = [[Profit/C.P.]] × 100\n= [[450/6,250]] × 100\n450 × 100 = 45,000\n45,000 ÷ 6,250 = 7.2\nMarkup rate = 7.2%\nProfit = Rs 450"
+              },
+              {
+                "q": "3. A retailer uses markup rate of 65% on the computer accessories. Find the selling price if the cost of a certain accessory is Rs 1520.",
+                "a": "S.P. = C.P. (1 + Markup Rate)\nMarkup Rate = 65% = 0.65\nS.P. = Rs 1,520 (1 + 0.65)\n= Rs 1,520 × 1.65\n= Rs 2,508"
+              },
+              {
+                "q": "4. The cost price of a certain novel is Rs 1,100. Find selling price of the novel at 66% markup rate.",
+                "a": "S.P. = C.P. (1 + Markup Rate)\nMarkup Rate = 66% = 0.66\nS.P. = Rs 1,100 (1 + 0.66)\n= Rs 1,100 × 1.66\n= Rs 1,826"
+              },
+              {
+                "q": "5. A Mobile Phone company uses a markup rate of 55% on the cost of each mobile phones that cost Rs 2,260. Find the selling price of the mobile phone.",
+                "a": "S.P. = C.P. (1 + Markup Rate)\nMarkup Rate = 55% = 0.55\nS.P. = Rs 2,260 (1 + 0.55)\n= Rs 2,260 × 1.55\n= Rs 3,503"
+              },
+              {
+                "q": "6. A mobile phone company uses a 45% markup rate. Find the cost of a unit that sells for Rs 4785.",
+                "a": "C.P. = [[S.P./1 + Markup Rate]]\nC.P. = [[4,785/1.45]]\n4,785 ÷ 1.45 = 3,300\nC.P. = Rs 3,300"
+              },
+              {
+                "q": "7. The markup rate on the selling price of a calculator that is Rs 1,230 is 50%. Find the cost price of the calculator.",
+                "a": "C.P. = [[S.P./1 + Markup Rate]]\nC.P. = [[1,230/1.5]]\n1,230 ÷ 1.5 = 820\nC.P. = Rs 820"
+              },
+              {
+                "q": "8. A stationer uses a markup of 60% on each item that he sells. Rs 144. Find the cost price of the item.",
+                "a": "C.P. = [[S.P./1 + Markup Rate]]\nC.P. = [[144/1.6]]\n144 ÷ 1.6 = 90\nC.P. = Rs 90"
+              },
+              {
+                "q": "9. A home-based small business brings in Rs 25000 a month in sales of baby clothing and accessories. The cost of goods sold including overhead add up to Rs 10550. Calculate the net profit percentage.",
+                "a": "Net Sale = Rs 25,000\nGross Profit = Net Sale − Cost of goods\nGross Profit = Rs 25,000 − Rs 10,550\n= Rs 14,450\nProfit Rate = [[Gross Profit/Net Sale]] × 100\n= [[14,450/25,000]] × 100\n14,450 × 100 = 1,445,000\n1,445,000 ÷ 25,000 = 57.8\nProfit Rate = 57.8%"
+              },
+              {
+                "q": "10. A certain business has Rs 2,500,000 of sales in one month. Sales returns of Rs 15,000. The goods sold were of cost 505,000 and overhead expenses of Rs 580,000. Calculate the profit rate percent.",
+                "a": "Net Sale = Rs 2,500,000 − Rs 15,000\n= Rs 2,485,000\nGross Profit = Rs 2,485,000 − Rs 505,000 − Rs 580,000\n= Rs 1,400,000\nProfit Rate = [[Gross Profit/Net Sale]] × 100\n= [[1,400,000/2,485,000]] × 100\n1,400,000 × 100 = 140,000,000\n140,000,000 ÷ 2,485,000 = 56.34\nProfit Rate = 56.34%"
+              },
+              {
+                "q": "11. A medicine company has 1,850,000 of sales in the previous month. The sale returns of Rs 85,000. The medicines sold were of cost 850,000. The administrative expenses are of Rs 550,000. Calculate the net profit percentage of the company.",
+                "a": "Net Sale = Rs 1,850,000 − Rs 85,000\n= Rs 1,765,000\nGross Profit = Rs 1,765,000 − Rs 850,000 − Rs 550,000\n= Rs 365,000\nProfit Rate = [[Gross Profit/Net Sale]] × 100\n= [[365,000/1,765,000]] × 100\n365,000 × 100 = 36,500,000\n36,500,000 ÷ 1,765,000 = 20.68\nProfit Rate = 20.68%"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 7.4",
+            "items": [
+              {
+                "q": "1. Qasim bought a car is Rs 450,800 from a bank loan on instalments at the markup rate of 12% per annum. Find the sale price of the car, if the time period is 3 years.",
+                "a": "Markup = [[P × R × T/100]]\nMarkup = 450,800 × 12 × 3 ÷ 100\n450,800 × 12 = 5,409,600\n5,409,600 × 3 = 16,228,800\n16,228,800 ÷ 100 = 162,288\nMarkup = Rs 162,288\nSale price = Rs 450,800 + Rs 162,288\n= Rs 613,088"
+              },
+              {
+                "q": "2. Najma bought a golden ornament set for Rs 1,75500, on installments at the markup rate of 10% per annum. Find her sale price of the set if the time period is 9 months.",
+                "a": "T = [[9/12]] year\nT = [[3/4]] year\nMarkup = [[P × R × T/100]]\nMarkup = 175,500 × 10 × [[3/4]] ÷ 100\n175,500 × 10 = 1,755,000\n1,755,000 × 3 = 5,265,000\n5,265,000 ÷ 4 = 1,316,250\n1,316,250 ÷ 100 = 13,162.50\nMarkup = Rs 13,162.50\nSale price = Rs 175,500 + Rs 13,162.50\n= Rs 188,662.50"
+              },
+              {
+                "q": "3. Shazia sold his mobile phone for Rs 16,900 and got 15% markup rate per annum. Find her markup where the period is 219 days.",
+                "a": "T = [[219/365]] year\nT = [[3/5]] year\nMarkup = [[P × R × T/100]]\nMarkup = 16,900 × 15 × [[3/5]] ÷ 100\n16,900 × 15 = 253,500\n253,500 × 3 = 760,500\n760,500 ÷ 5 = 152,100\n152,100 ÷ 100 = 1,521\nMarkup = Rs 1,521"
+              },
+              {
+                "q": "4. If 15% markup on a colour T.v set is 8,500 for 1[[1/2]] years. Find the cost price of the colour T.v set.",
+                "a": "P = [[Markup × 100/R × T]]\nT = 1[[1/2]] years = [[3/2]] years\nR × T = 15 × [[3/2]]\n15 × 3 = 45\n45 ÷ 2 = 22.5\nR × T = 22.5\nP = [[8,500 × 100/22.5]]\n8,500 × 100 = 850,000\n850,000 ÷ 22.5 = 37,777.78\nP = Rs 37,777.78"
+              },
+              {
+                "q": "5. Find the missing quantities by using formula:\n(i) Markup = Rs ___, Principal = Rs 800,000, Time period = 1 year, Markup Rate = 12%\n(ii) Markup = Rs 10000, Principal = Rs 500,000, Time period = ___, Markup Rate = 10%\n(iii) Markup = Rs 6,600, Principal = ___, Time period = 2 years, Markup Rate = 11%\n(iv) Markup = Rs ___, Principal = Rs 200,000, Time period = 1[[1/2]] years, Markup Rate = 8%\n(v) Markup = Rs 800, Principal = Rs 4,000, Time period = 2[[1/2]] years, Markup Rate = ___\n(vi) Markup = Rs 45,000, Principal = ___, Time period = 73 days, Markup Rate = 10%",
+                "a": "(i) Markup = [[P × R × T/100]]\nMarkup = 800,000 × 12 × 1 ÷ 100\n800,000 × 12 = 9,600,000\n9,600,000 × 1 = 9,600,000\n9,600,000 ÷ 100 = 96,000\nMarkup = Rs 96,000\n(ii) T = [[Markup × 100/P × R]]\nT = [[10,000 × 100/500,000 × 10]]\nP × R = 500,000 × 10 = 5,000,000\n10,000 × 100 = 1,000,000\n1,000,000 ÷ 5,000,000 = 0.2\nT = 0.2 years\n(iii) P = [[Markup × 100/R × T]]\nP = [[6,600 × 100/11 × 2]]\nR × T = 11 × 2 = 22\n6,600 × 100 = 660,000\n660,000 ÷ 22 = 30,000\nP = Rs 30,000\n(iv) Markup = [[P × R × T/100]]\nMarkup = 200,000 × 8 × 1[[1/2]] ÷ 100\n200,000 × 8 = 1,600,000\n1,600,000 × 1[[1/2]] = 2,400,000\n2,400,000 ÷ 100 = 24,000\nMarkup = Rs 24,000\n(v) T = 2[[1/2]] years = [[5/2]] years\nR = [[Markup × 100/P × T]]\nP × T = 4,000 × [[5/2]]\n4,000 × 5 = 20,000\n20,000 ÷ 2 = 10,000\nP × T = 10,000\nR = [[800 × 100/10,000]]\n800 × 100 = 80,000\n80,000 ÷ 10,000 = 8\nR = 8%\n(vi) T = [[73/365]] year\nT = [[1/5]] year\nP = [[Markup × 100/R × T]]\nR × T = 10 × [[1/5]]\n10 × 1 = 10\n10 ÷ 5 = 2\nR × T = 2\nP = [[45,000 × 100/2]]\n45,000 × 100 = 4,500,000\n4,500,000 ÷ 2 = 2,250,000\nP = Rs 2,250,000"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 7.5",
+            "items": [
+              {
+                "q": "1. A person holds an amount of Rs 500,000 for the whole year. Is he sahib-e-nisab? If yes, find the amount of Zakat he has to pay.",
+                "a": "Nisab = 7.5 tolas of gold\nValue of Nisab = 7.5 × Rs 47,400\n= Rs 355,500\nRs 500,000 > Rs 355,500\nHe is Sahib-e-Nisab\nZakat = 2.5% of Rs 500,000\n= Rs 500,000 × 0.025\n= Rs 12,500"
+              },
+              {
+                "q": "2. A salaried person possess Rs 200,000 and 3 tolas of pure gold. Find the Zakat to be paid by him. Rate of gold is Rs 47,400 per tola.",
+                "a": "Value of 3 tolas of gold = 3 × Rs 47,400\n= Rs 142,200\nTotal wealth = Rs 200,000 + Rs 142,200\n= Rs 342,200\nNisab = 7.5 tolas of gold\nValue of Nisab = 7.5 × Rs 47,400\n= Rs 355,500\nRs 342,200 < Rs 355,500\nHe is not Sahib-e-Nisab\nZakat = Rs 0"
+              },
+              {
+                "q": "3. A lady doctor possesses ornaments of worth Rs 500,000 and saved Rs 150,000 in the whole year. Find the amount of Zakat due upon her.",
+                "a": "Total amount = Rs 500,000 + Rs 150,000\n= Rs 650,000\nZakat = 2.5% of Rs 650,000\n= Rs 650,000 × 0.025\n= Rs 16,250"
+              },
+              {
+                "q": "4. A business man paid Rs 20,500 as Zakat. Find his saving for the whole year.",
+                "a": "Annual saving = [[20,500/0.025]]\n20,500 ÷ 0.025 = 820,000\nAnnual saving = Rs 820,000"
+              },
+              {
+                "q": "5. A farmer pays Rs 10,000 as Ushr. Find the value of the crop he produced. Rate of Ushr is 5%.",
+                "a": "Value of crop = [[10,000/0.05]]\n10,000 ÷ 0.05 = 200,000\nValue of crop = Rs 200,000"
+              },
+              {
+                "q": "6. A farmer produces 15,000 kg of sugarcane. Find his amount of Ushr at the rate of 5%. The rate of sugarcane is Rs 5.25 per kg.",
+                "a": "Value of 15,000 kg sugarcane = 15,000 × Rs 5.25\n= Rs 78,750\nUshr = 5% of Rs 78,750\n= Rs 78,750 × 0.05\n= Rs 3,937.50"
+              },
+              {
+                "q": "7. Jumman exports oranges of his garden for Rs 5,000,000. Find the amount of Ushr at the rate of 5%.",
+                "a": "Ushr = 5% of Rs 5,000,000\n= Rs 5,000,000 × 0.05\n= Rs 250,000"
+              },
+              {
+                "q": "8. Kamil produces 1,500 kg of wheat on one part of his land and 1,200 kg of rice on the other part of his land. Find the amount of Ushr at the rate of 5%. The rate of wheat is Rs 30 per kg and rate of rice is Rs 65 per kg.",
+                "a": "Value of 1,500 kg wheat = 1,500 × Rs 30\n= Rs 45,000\nValue of 1,200 kg rice = 1,200 × Rs 65\n= Rs 78,000\nTotal value of produce = Rs 45,000 + Rs 78,000\n= Rs 123,000\nUshr = 5% of Rs 123,000\n= Rs 123,000 × 0.05\n= Rs 6,150"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. The cost of a mobile phone is Rs 8,500. The seller charges 17% GST on the cost. Find sales tax levied.",
+                "a": "Sales tax = 17% of Rs 8,500\n= Rs 8,500 × 0.17\n= Rs 1,445"
+              },
+              {
+                "q": "2. An imported LCD TV is sold for Rs 55,800 inclusive of GST. Find the cost of LCD excluding tax. GST rate is 17%.",
+                "a": "Item Cost = [[55,800/1.17]]\n55,800 ÷ 1.17 = 47,692.31\nItem Cost = Rs 47,692.31"
+              },
+              {
+                "q": "3. An electric company charges Rs 16,750 as electric charges from consumer. Find the amount of GST at the rate of 17%, paid by the consumer.",
+                "a": "GST = 17% of Rs 16,750\n= Rs 16,750 × 0.17\n= Rs 2,847.50"
+              },
+              {
+                "q": "4. A person paid Rs 16,989 as GST at the rate of 17% on the purchase of room-set. Find the cost of room set exclusive of GST.",
+                "a": "Cost of room set = [[16,989/0.17]]\n16,989 ÷ 0.17 = 99,935.29\nCost of room set = Rs 99,935.29"
+              },
+              {
+                "q": "5. A business man gets loan of Rs 1,700,000 from a bank at the markup rate of 12.5% per annum. Calculate the markup for a period of 1[[1/2]] years.",
+                "a": "T = 1[[1/2]] years = [[3/2]] years\nMarkup = [[P × R × T/100]]\nMarkup = 1,700,000 × 12.5 × [[3/2]] ÷ 100\n1,700,000 × 12.5 = 21,250,000\n21,250,000 × 3 = 63,750,000\n63,750,000 ÷ 2 = 31,875,000\n31,875,000 ÷ 100 = 318,750\nMarkup = Rs 318,750"
+              },
+              {
+                "q": "6. The markup paid to a bank by a lady doctor is Rs 2850. The period is 6 months and the markup rate is 12%. Find principal amount",
+                "a": "T = [[6/12]] year\nT = [[1/2]] year\nP = [[Markup × 100/R × T]]\nR × T = 12 × [[1/2]]\n12 × 1 = 12\n12 ÷ 2 = 6\nR × T = 6\nP = [[2,850 × 100/6]]\n2,850 × 100 = 285,000\n285,000 ÷ 6 = 47,500\nP = Rs 47,500"
+              },
+              {
+                "q": "7. A senior citizen deposits an amount of Rs 500,000 in a bank. Find the his markup when the markup rate is 10% and the time period is 2[[1/2]] years.",
+                "a": "T = 2[[1/2]] years = [[5/2]] years\nMarkup = [[P × R × T/100]]\nMarkup = 500,000 × 10 × [[5/2]] ÷ 100\n500,000 × 10 = 5,000,000\n5,000,000 × 5 = 25,000,000\n25,000,000 ÷ 2 = 12,500,000\n12,500,000 ÷ 100 = 125,000\nMarkup = Rs 125,000"
+              },
+              {
+                "q": "8. A car dealer uses 35% markup rate on costs. Find the cost of a car that sells for Rs 1,051,000.",
+                "a": "C.P. = [[S.P./1 + Markup Rate]]\nC.P. = [[1,051,000/1.35]]\n1,051,000 ÷ 1.35 = 778,518.52\nC.P. = Rs 778,518.52"
+              },
+              {
+                "q": "9. After a whole year a business man saved Rs 95,000 and has a stock of Rs 500,000. Find the zakat due on him.",
+                "a": "Total saving = Rs 95,000 + Rs 500,000\n= Rs 595,000\nZakat = 2.5% of Rs 595,000\n= Rs 595,000 × 0.025\n= Rs 14,875"
+              },
+              {
+                "q": "10. A lady teacher has gold ornaments of value 400,000 rupees. Her annual is an amount of Rs 45,000. Find the Zakat due upon her.",
+                "a": "Total wealth = Rs 400,000 + Rs 45,000\n= Rs 445,000\nZakat = 2.5% of Rs 445,000\n= Rs 445,000 × 0.025\n= Rs 11,125"
+              },
+              {
+                "q": "11. A gentleman paid an amount of Rs 12,500 az Zakat. Find his amount on which he paid the Zakat.",
+                "a": "Amount = [[12,500/0.025]]\n12,500 ÷ 0.025 = 500,000\nAmount = Rs 500,000"
+              },
+              {
+                "q": "12. A farmer produces 5,000 kg of wheat and vegetables of worth Rs 48,000. Find the amount of Ushr due upon him at the rate of 5%. The rate of wheat is Rs 35 per kg.",
+                "a": "Value of 5,000 kg wheat = 5,000 × Rs 35\n= Rs 175,000\nTotal value of produce = Rs 175,000 + Rs 48,000\n= Rs 223,000\nUshr = 5% of Rs 223,000\n= Rs 223,000 × 0.05\n= Rs 11,150"
+              },
+              {
+                "q": "13. A farmer pays Rs 2,000 as Ushr. Find the value of the crop he produced. Rate of Ushr is 5%.",
+                "a": "Value of crop = [[2,000/0.05]]\n2,000 ÷ 0.05 = 40,000\nValue of crop = Rs 40,000"
+              }
+            ]
+          }
+        ],
+        "display": "Financial Arithmetic"
+      },
+      {
+        "unit": 8,
+        "title": "Algebraic Expressions",
+        "exercises": [
+          {
+            "label": "Exercise 8.1",
+            "items": [
+              {
+                "q": "A. Add the following:\n(1) 5a, 8a\n(2) a, a\n(3) -12x, -2x\n(4) 9ab, -7ab\n(5) 8y, 3y, -4y\n(6) 6x^2 + 2x + 4, 3x^2 + 5x",
+                "a": "(1) 5a + 8a\n= (5 + 8)a\n= 13a\n(2) a + a\n= (1 + 1)a\n= 2a\n(3) -12x + (-2x)\n= (-12 - 2)x\n= -14x\n(4) 9ab + (-7ab)\n= (9 - 7)ab\n= 2ab\n(5) 8y + 3y + (-4y)\n= (8 + 3 - 4)y\n= 7y\n(6) (6x^2 + 2x + 4) + (3x^2 + 5x)\n= 6x^2 + 3x^2 + 2x + 5x + 4\n= (6 + 3)x^2 + (2 + 5)x + 4\n= 9x^2 + 7x + 4"
+              },
+              {
+                "q": "B. Find the sum of:\n(1) 2a + 3b, 6a + 5b\n(2) 3x - 4y, 4x + 6y\n(3) 2a - 3b, 4a + 5b, 5a - 8b\n(4) ab + 4cd + 6ad, 8ab + 5cd + 6ad\n(5) 4.5a + 5.7b + 3.2c, 3.5a + 1.3b + 2.8c\n(6) 1.7a + 3.2b + 4.9c, 4.3a + 3.2b + 3.1c, 6.0a + 9.6b + 3.0c\n(7) 6a + 11b + 10c, 13a + 9b + 5c, 8a + 7b + 12c\n(8) 4a + 6b + 5c, 7a + 5b + 5c, 3a + 7b + 7c\n(9) 2a + 3b + 4c, 6a + 8b + 4c, 3a + 2b + 3c\n(10) 14e - 15f + 10g, 13e + 14f - g, -5e + 3g",
+                "a": "(1) (2a + 3b) + (6a + 5b)\n= 2a + 6a + 3b + 5b\n= (2 + 6)a + (3 + 5)b\n= 8a + 8b\n(2) (3x - 4y) + (4x + 6y)\n= 3x + 4x - 4y + 6y\n= 7x + 2y\n(3) (2a - 3b) + (4a + 5b) + (5a - 8b)\n= 2a + 4a + 5a - 3b + 5b - 8b\n= 11a - 6b\n(4) (ab + 4cd + 6ad) + (8ab + 5cd + 6ad)\n= ab + 8ab + 4cd + 5cd + 6ad + 6ad\n= 9ab + 9cd + 12ad\n(5) (4.5a + 5.7b + 3.2c) + (3.5a + 1.3b + 2.8c)\n= 4.5a + 3.5a + 5.7b + 1.3b + 3.2c + 2.8c\n= 8a + 7b + 6c\n(6) (1.7a + 3.2b + 4.9c) + (4.3a + 3.2b + 3.1c) + (6.0a + 9.6b + 3.0c)\n= 1.7a + 4.3a + 6.0a + 3.2b + 3.2b + 9.6b + 4.9c + 3.1c + 3.0c\n= 12a + 16b + 11c\n(7) (6a + 11b + 10c) + (13a + 9b + 5c) + (8a + 7b + 12c)\n= 6a + 13a + 8a + 11b + 9b + 7b + 10c + 5c + 12c\n= 27a + 27b + 27c\n(8) (4a + 6b + 5c) + (7a + 5b + 5c) + (3a + 7b + 7c)\n= 4a + 7a + 3a + 6b + 5b + 7b + 5c + 5c + 7c\n= 14a + 18b + 17c\n(9) (2a + 3b + 4c) + (6a + 8b + 4c) + (3a + 2b + 3c)\n= 2a + 6a + 3a + 3b + 8b + 2b + 4c + 4c + 3c\n= 11a + 13b + 11c\n(10) (14e - 15f + 10g) + (13e + 14f - g) + (-5e + 3g)\n= 14e + 13e - 5e - 15f + 14f + 10g - g + 3g\n= 22e - f + 12g"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.2",
+            "items": [
+              {
+                "q": "Subtract the second expression from the first expression.\n(1) 8a, 5a\n(2) -7ab, 12ab\n(3) 4a, -8a\n(4) 6a + 7b, 2a + 3b\n(5) 9a + 11b + 15c, 5a + 3b - 6c\n(6) 9c + 8d + 6e, 3e - 5c + 4d\n(7) 18x + 16y + 12z, 10x + 9y + 8z\n(8) 14a + 15b + 16c, 8a + 10b - 2c\n(9) 3x^2 + 25ab + 21bc, 4x^2 + 18ab - 6bc\n(10) 5a + 4ab + 2b, 4a + 3ab + b\n(11) Subtract 10a + 10b + 17c from the sum of 13a + 8b + 12c and 9a + 3b + 5c\n(12) What should be added to 2x + 5y to get 6x + 8y?",
+                "a": "(1) 8a - 5a\n= (8 - 5)a\n= 3a\n(2) -7ab - 12ab\n= (-7 - 12)ab\n= -19ab\n(3) 4a - (-8a)\n= 4a + 8a\n= 12a\n(4) (6a + 7b) - (2a + 3b)\n= 6a + 7b - 2a - 3b\n= 6a - 2a + 7b - 3b\n= 4a + 4b\n(5) (9a + 11b + 15c) - (5a + 3b - 6c)\n= 9a + 11b + 15c - 5a - 3b + 6c\n= 9a - 5a + 11b - 3b + 15c + 6c\n= 4a + 8b + 21c\n(6) (9c + 8d + 6e) - (3e - 5c + 4d)\n= 9c + 8d + 6e - 3e + 5c - 4d\n= 9c + 5c + 8d - 4d + 6e - 3e\n= 14c + 4d + 3e\n(7) (18x + 16y + 12z) - (10x + 9y + 8z)\n= 18x + 16y + 12z - 10x - 9y - 8z\n= 8x + 7y + 4z\n(8) (14a + 15b + 16c) - (8a + 10b - 2c)\n= 14a + 15b + 16c - 8a - 10b + 2c\n= 6a + 5b + 18c\n(9) (3x^2 + 25ab + 21bc) - (4x^2 + 18ab - 6bc)\n= 3x^2 + 25ab + 21bc - 4x^2 - 18ab + 6bc\n= 3x^2 - 4x^2 + 25ab - 18ab + 21bc + 6bc\n= -x^2 + 7ab + 27bc\n(10) (5a + 4ab + 2b) - (4a + 3ab + b)\n= 5a + 4ab + 2b - 4a - 3ab - b\n= 5a - 4a + 4ab - 3ab + 2b - b\n= a + ab + b\n(11) (13a + 8b + 12c) + (9a + 3b + 5c)\n= 22a + 11b + 17c\n(22a + 11b + 17c) - (10a + 10b + 17c)\n= 22a - 10a + 11b - 10b + 17c - 17c\n= 12a + b\n(12) (6x + 8y) - (2x + 5y)\n= 6x + 8y - 2x - 5y\n= 6x - 2x + 8y - 5y\n= 4x + 3y"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.3",
+            "items": [
+              {
+                "q": "I. Find the product of the following expressions: (Monomial with monomial)\n(1) 15a, 8a\n(2) 9a, 6b\n(3) 10a^2, 2a^5\n(4) 4c^5, 8cd^2\n(5) 6a^2 b, -5b^2\n(6) -3a, 2b, -3\n(7) 4m^2, -5m^3, 3m^4\n(8) -6xy, 3x^3 y^2, 2xy",
+                "a": "(1) 15a × 8a\n= 15 × 8 × a × a\n= 120a^2\n(2) 9a × 6b\n= 9 × 6 × a × b\n= 54ab\n(3) 10a^2 × 2a^5\n= 10 × 2 × a^2 × a^5\n= 20a^7\n(4) 4c^5 × 8cd^2\n= 4 × 8 × c^5 × c × d^2\n= 32c^6 d^2\n(5) 6a^2 b × (-5b^2)\n= 6 × (-5) × a^2 × b × b^2\n= -30a^2 b^3\n(6) (-3a) × 2b × (-3)\n= (-3) × 2 × (-3) × a × b\n= 18ab\n(7) 4m^2 × (-5m^3) × 3m^4\n= 4 × (-5) × 3 × m^2 × m^3 × m^4\n= -60m^9\n(8) (-6xy) × 3x^3 y^2 × 2xy\n= (-6) × 3 × 2 × x × x^3 × x × y × y^2 × y\n= -36x^5 y^4"
+              },
+              {
+                "q": "II. Find the product of following expressions: (Monomial with binomial.)\n(1) a + b, 9\n(2) x - y, -4y\n(3) 2m^2 - 3n^3, -5mn\n(4) 3xy + 2xy^2, -6xy^2\n(5) 6lm - 4mn, 3l^2 m^2 n\n(6) -5bc + 3cd, -2bc^2 d",
+                "a": "(1) (a + b) × 9\n= 9 × a + 9 × b\n= 9a + 9b\n(2) (x - y) × (-4y)\n= x × (-4y) - y × (-4y)\n= -4xy + 4y^2\n(3) (2m^2 - 3n^3) × (-5mn)\n= 2m^2 × (-5mn) - 3n^3 × (-5mn)\n= -10m^3 n + 15mn^4\n(4) (3xy + 2xy^2) × (-6xy^2)\n= 3xy × (-6xy^2) + 2xy^2 × (-6xy^2)\n= -18x^2 y^3 - 12x^2 y^4\n(5) (6lm - 4mn) × 3l^2 m^2 n\n= 6lm × 3l^2 m^2 n - 4mn × 3l^2 m^2 n\n= 18l^3 m^3 n - 12l^2 m^3 n^2\n(6) (-5bc + 3cd) × (-2bc^2 d)\n= (-5bc) × (-2bc^2 d) + 3cd × (-2bc^2 d)\n= 10b^2 c^3 d - 6bc^3 d^2"
+              },
+              {
+                "q": "III. Find the product of the following expressions: (Binomial with binomial.)\n(1) 8c + 12d, -3c + 2d\n(2) a + b, a - b\n(3) a^2 + b^2, a^2 - b^2\n(4) 3x - 2y, 2x + 5y\n(5) 2lm + 3mn, -2m + 3n\n(6) 8pq^2 - 3p^2 q, 2pq",
+                "a": "(1) (8c + 12d)(-3c + 2d)\n= 8c × (-3c) + 8c × 2d + 12d × (-3c) + 12d × 2d\n= -24c^2 + 16cd - 36cd + 24d^2\n= -24c^2 - 20cd + 24d^2\n(2) (a + b)(a - b)\n= a × a - a × b + b × a - b × b\n= a^2 - ab + ab - b^2\n= a^2 - b^2\n(3) (a^2 + b^2)(a^2 - b^2)\n= a^2 × a^2 - a^2 × b^2 + b^2 × a^2 - b^2 × b^2\n= a^4 - a^2 b^2 + a^2 b^2 - b^4\n= a^4 - b^4\n(4) (3x - 2y)(2x + 5y)\n= 3x × 2x + 3x × 5y - 2y × 2x - 2y × 5y\n= 6x^2 + 15xy - 4xy - 10y^2\n= 6x^2 + 11xy - 10y^2\n(5) (2lm + 3mn)(-2m + 3n)\n= 2lm × (-2m) + 2lm × 3n + 3mn × (-2m) + 3mn × 3n\n= -4lm^2 + 6lmn - 6m^2 n + 9mn^2\n(6) (8pq^2 - 3p^2 q) × 2pq\n= 8pq^2 × 2pq - 3p^2 q × 2pq\n= 16p^2 q^3 - 6p^3 q^2"
+              },
+              {
+                "q": "IV. Find the product of the following expressions (Monomial with trinomial).\n(1) 2a - 3b + 4c, 2abc\n(2) a^2 + b^2 - c^2, ab\n(3) m^2 n + mn^2 - m^2 n^2, -mn\n(4) x^2 - 6xy + 9y^2, -3xy\n(5) 2p^2 - 3pq + q^2, 4pqr\n(6) xyz + x^2 y^2 - y^2 z^2, xyz",
+                "a": "(1) (2a - 3b + 4c) × 2abc\n= 2a × 2abc - 3b × 2abc + 4c × 2abc\n= 4a^2 bc - 6ab^2 c + 8abc^2\n(2) (a^2 + b^2 - c^2) × ab\n= a^2 × ab + b^2 × ab - c^2 × ab\n= a^3 b + ab^3 - abc^2\n(3) (m^2 n + mn^2 - m^2 n^2) × (-mn)\n= m^2 n × (-mn) + mn^2 × (-mn) - m^2 n^2 × (-mn)\n= -m^3 n^2 - m^2 n^3 + m^3 n^3\n(4) (x^2 - 6xy + 9y^2) × (-3xy)\n= x^2 × (-3xy) - 6xy × (-3xy) + 9y^2 × (-3xy)\n= -3x^3 y + 18x^2 y^2 - 27xy^3\n(5) (2p^2 - 3pq + q^2) × 4pqr\n= 2p^2 × 4pqr - 3pq × 4pqr + q^2 × 4pqr\n= 8p^3 qr - 12p^2 q^2 r + 4pq^3 r\n(6) (xyz + x^2 y^2 - y^2 z^2) × xyz\n= xyz × xyz + x^2 y^2 × xyz - y^2 z^2 × xyz\n= x^2 y^2 z^2 + x^3 y^3 z - xy^3 z^3"
+              },
+              {
+                "q": "V. Find the product of the following expression (Binomial with trinomial).\n(1) 1 + 2x - 3x^2, 1 - x\n(2) 8c + 12d - 6e, c^2 - d^2\n(3) a^2 - ab - b^2, a - b\n(4) x^2 - 5x + 4, 3x - 4\n(5) a^2 - 2a^2 b + b^2, a^2 - b^2\n(6) 3p^2 q + 2pq^2 - q^2 r, p^2 - q^2",
+                "a": "(1) (1 + 2x - 3x^2)(1 - x)\n= 1 × (1 - x) + 2x × (1 - x) - 3x^2 × (1 - x)\n= 1 - x + 2x - 2x^2 - 3x^2 + 3x^3\n= 1 + x - 5x^2 + 3x^3\n(2) (8c + 12d - 6e)(c^2 - d^2)\n= 8c × (c^2 - d^2) + 12d × (c^2 - d^2) - 6e × (c^2 - d^2)\n= 8c^3 - 8cd^2 + 12c^2 d - 12d^3 - 6c^2 e + 6d^2 e\n(3) (a^2 - ab - b^2)(a - b)\n= a^2 × (a - b) - ab × (a - b) - b^2 × (a - b)\n= a^3 - a^2 b - a^2 b + ab^2 - ab^2 + b^3\n= a^3 - 2a^2 b + b^3\n(4) (x^2 - 5x + 4)(3x - 4)\n= x^2 × (3x - 4) - 5x × (3x - 4) + 4 × (3x - 4)\n= 3x^3 - 4x^2 - 15x^2 + 20x + 12x - 16\n= 3x^3 - 19x^2 + 32x - 16\n(5) (a^2 - 2a^2 b + b^2)(a^2 - b^2)\n= a^2 × (a^2 - b^2) - 2a^2 b × (a^2 - b^2) + b^2 × (a^2 - b^2)\n= a^4 - a^2 b^2 - 2a^4 b + 2a^2 b^3 + a^2 b^2 - b^4\n= a^4 - 2a^4 b + 2a^2 b^3 - b^4\n(6) (3p^2 q + 2pq^2 - q^2 r)(p^2 - q^2)\n= 3p^2 q × (p^2 - q^2) + 2pq^2 × (p^2 - q^2) - q^2 r × (p^2 - q^2)\n= 3p^4 q - 3p^2 q^3 + 2p^3 q^2 - 2pq^4 - p^2 q^2 r + q^4 r"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.4",
+            "items": [
+              {
+                "q": "I. Simplify:\n(1) 5a - 2a(3 + 4b)\n(2) 7m - 4m(5 - 6n)\n(3) 6x{2x(3x^2 - 4) - (6x^2 + 8y)}\n(4) 3x - {(2x + y)(2x - y) - (4x^2 + 2y^2)}",
+                "a": "(1) 5a - 2a(3 + 4b)\n= 5a - 2a × 3 - 2a × 4b\n= 5a - 6a - 8ab\n= -a - 8ab\n(2) 7m - 4m(5 - 6n)\n= 7m - 4m × 5 + 4m × 6n\n= 7m - 20m + 24mn\n= -13m + 24mn\n(3) 6x{2x(3x^2 - 4) - (6x^2 + 8y)}\n= 6x{2x × 3x^2 - 2x × 4 - 6x^2 - 8y}\n= 6x{6x^3 - 8x - 6x^2 - 8y}\n= 6x × 6x^3 - 6x × 8x - 6x × 6x^2 - 6x × 8y\n= 36x^4 - 48x^2 - 36x^3 - 48xy\n(4) 3x - {(2x + y)(2x - y) - (4x^2 + 2y^2)}\n= 3x - {(2x) × (2x - y) + y × (2x - y) - 4x^2 - 2y^2}\n= 3x - {4x^2 - 2xy + 2xy - y^2 - 4x^2 - 2y^2}\n= 3x - {-3y^2}\n= 3x + 3y^2"
+              },
+              {
+                "q": "II. Verify the following.\n(1) (x + 3)(x + 4) = x^2 + 7x + 12\n(2) (x + 5)(x + 6) = x^2 + 11x + 30\n(3) (x + 2)(x - 4) = x^2 - 2x - 8\n(4) (x - 3)(x + 4) = x^2 + x - 12\n(5) (x - 5)(x - 4) = x^2 - 9x + 20\n(6) (x - 7)(x + 8) = x^2 + x - 56\n(7) (x - 9)(x + 2) = x^2 - 7x - 18\n(8) (x - 1)(x + 9) = x^2 + 8x - 9\n(9) (x - 2)(x + 5) = x^2 + 3x - 10",
+                "a": "(1) LHS = (x + 3)(x + 4)\n= x^2 + (3 + 4)x + 3 × 4\n= x^2 + 7x + 12\n= RHS\nLHS = RHS\n(2) LHS = (x + 5)(x + 6)\n= x^2 + (5 + 6)x + 5 × 6\n= x^2 + 11x + 30\n= RHS\nLHS = RHS\n(3) LHS = (x + 2)(x - 4)\n= x^2 + (2 - 4)x + 2 × (-4)\n= x^2 - 2x - 8\n= RHS\nLHS = RHS\n(4) LHS = (x - 3)(x + 4)\n= x^2 + (-3 + 4)x + (-3) × 4\n= x^2 + x - 12\n= RHS\nLHS = RHS\n(5) LHS = (x - 5)(x - 4)\n= x^2 + (-5 - 4)x + (-5) × (-4)\n= x^2 - 9x + 20\n= RHS\nLHS = RHS\n(6) LHS = (x - 7)(x + 8)\n= x^2 + (-7 + 8)x + (-7) × 8\n= x^2 + x - 56\n= RHS\nLHS = RHS\n(7) LHS = (x - 9)(x + 2)\n= x^2 + (-9 + 2)x + (-9) × 2\n= x^2 - 7x - 18\n= RHS\nLHS = RHS\n(8) LHS = (x - 1)(x + 9)\n= x^2 + (-1 + 9)x + (-1) × 9\n= x^2 + 8x - 9\n= RHS\nLHS = RHS\n(9) LHS = (x - 2)(x + 5)\n= x^2 + (-2 + 5)x + (-2) × 5\n= x^2 + 3x - 10\n= RHS\nLHS = RHS"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.5",
+            "items": [
+              {
+                "q": "I. Verify the following:\n(1) (a + 7)^2 = a^2 + 14a + 49\n(2) (a + 11)^2 = a^2 + 22a + 121\n(3) (2x + 6)^2 = 4x^2 + 24x + 36\n(4) (3a + 5)^2 = 9a^2 + 30a + 25\n(5) (7x + 3)^2 = 49x^2 + 42x + 9\n(6) (6x + 9)^2 = 36x^2 + 108x + 81\n(7) (5a + 4)^2 = 25a^2 + 40a + 16\n(8) (9x + 10)^2 = 81x^2 + 180x + 100\n(9) (5x + 11)^2 = 25x^2 + 110x + 121\n(10) (6x + 7)^2 = 36x^2 + 84x + 49",
+                "a": "(1) LHS = (a + 7)^2\n= (a + 7)(a + 7)\n= a^2 + 2 × a × 7 + 7^2\n= a^2 + 14a + 49\n= RHS\nLHS = RHS\n(2) LHS = (a + 11)^2\n= a^2 + 2 × a × 11 + 11^2\n= a^2 + 22a + 121\n= RHS\nLHS = RHS\n(3) LHS = (2x + 6)^2\n= (2x)^2 + 2 × 2x × 6 + 6^2\n= 4x^2 + 24x + 36\n= RHS\nLHS = RHS\n(4) LHS = (3a + 5)^2\n= (3a)^2 + 2 × 3a × 5 + 5^2\n= 9a^2 + 30a + 25\n= RHS\nLHS = RHS\n(5) LHS = (7x + 3)^2\n= (7x)^2 + 2 × 7x × 3 + 3^2\n= 49x^2 + 42x + 9\n= RHS\nLHS = RHS\n(6) LHS = (6x + 9)^2\n= (6x)^2 + 2 × 6x × 9 + 9^2\n= 36x^2 + 108x + 81\n= RHS\nLHS = RHS\n(7) LHS = (5a + 4)^2\n= (5a)^2 + 2 × 5a × 4 + 4^2\n= 25a^2 + 40a + 16\n= RHS\nLHS = RHS\n(8) LHS = (9x + 10)^2\n= (9x)^2 + 2 × 9x × 10 + 10^2\n= 81x^2 + 180x + 100\n= RHS\nLHS = RHS\n(9) LHS = (5x + 11)^2\n= (5x)^2 + 2 × 5x × 11 + 11^2\n= 25x^2 + 110x + 121\n= RHS\nLHS = RHS\n(10) LHS = (6x + 7)^2\n= (6x)^2 + 2 × 6x × 7 + 7^2\n= 36x^2 + 84x + 49\n= RHS\nLHS = RHS"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.6",
+            "items": [
+              {
+                "q": "Verify the following:\n(1) (a - 3)^2 = a^2 - 6a + 9\n(2) (a - 7)^2 = a^2 - 14a + 49\n(3) (2a - 5)^2 = 4a^2 - 20a + 25\n(4) (6x - 8)^2 = 36x^2 - 96x + 64\n(5) (4a - 7)^2 = 16a^2 - 56a + 49\n(6) (3a - 8)^2 = 9a^2 - 48a + 64\n(7) (7a - 5)^2 = 49a^2 - 70a + 25\n(8) (9y - 10)^2 = 81y^2 - 180y + 100\n(9) (8a - 9)^2 = 64a^2 - 144a + 81\n(10) (9a - 11)^2 = 81a^2 - 198a + 121",
+                "a": "(1) LHS = (a - 3)^2\n= a^2 - 2 × a × 3 + 3^2\n= a^2 - 6a + 9\n= RHS\nLHS = RHS\n(2) LHS = (a - 7)^2\n= a^2 - 2 × a × 7 + 7^2\n= a^2 - 14a + 49\n= RHS\nLHS = RHS\n(3) LHS = (2a - 5)^2\n= (2a)^2 - 2 × 2a × 5 + 5^2\n= 4a^2 - 20a + 25\n= RHS\nLHS = RHS\n(4) LHS = (6x - 8)^2\n= (6x)^2 - 2 × 6x × 8 + 8^2\n= 36x^2 - 96x + 64\n= RHS\nLHS = RHS\n(5) LHS = (4a - 7)^2\n= (4a)^2 - 2 × 4a × 7 + 7^2\n= 16a^2 - 56a + 49\n= RHS\nLHS = RHS\n(6) LHS = (3a - 8)^2\n= (3a)^2 - 2 × 3a × 8 + 8^2\n= 9a^2 - 48a + 64\n= RHS\nLHS = RHS\n(7) LHS = (7a - 5)^2\n= (7a)^2 - 2 × 7a × 5 + 5^2\n= 49a^2 - 70a + 25\n= RHS\nLHS = RHS\n(8) LHS = (9y - 10)^2\n= (9y)^2 - 2 × 9y × 10 + 10^2\n= 81y^2 - 180y + 100\n= RHS\nLHS = RHS\n(9) LHS = (8a - 9)^2\n= (8a)^2 - 2 × 8a × 9 + 9^2\n= 64a^2 - 144a + 81\n= RHS\nLHS = RHS\n(10) LHS = (9a - 11)^2\n= (9a)^2 - 2 × 9a × 11 + 11^2\n= 81a^2 - 198a + 121\n= RHS\nLHS = RHS"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.7",
+            "items": [
+              {
+                "q": "I. Verify:\n(1) (3x + 2)(3x - 2) = 9x^2 - 4\n(2) (4x + 3)(4x - 3) = 16x^2 - 9\n(3) (5x + 4)(5x - 4) = 25x^2 - 16\n(4) (3x + 7)(3x - 7) = 9x^2 - 49\n(5) (6x + 5)(6x - 5) = 36x^2 - 25\n(6) (7x + 6)(7x - 6) = 49x^2 - 36",
+                "a": "(1) LHS = (3x + 2)(3x - 2)\n= (3x)^2 - 2^2\n= 9x^2 - 4\n= RHS\nLHS = RHS\n(2) LHS = (4x + 3)(4x - 3)\n= (4x)^2 - 3^2\n= 16x^2 - 9\n= RHS\nLHS = RHS\n(3) LHS = (5x + 4)(5x - 4)\n= (5x)^2 - 4^2\n= 25x^2 - 16\n= RHS\nLHS = RHS\n(4) LHS = (3x + 7)(3x - 7)\n= (3x)^2 - 7^2\n= 9x^2 - 49\n= RHS\nLHS = RHS\n(5) LHS = (6x + 5)(6x - 5)\n= (6x)^2 - 5^2\n= 36x^2 - 25\n= RHS\nLHS = RHS\n(6) LHS = (7x + 6)(7x - 6)\n= (7x)^2 - 6^2\n= 49x^2 - 36\n= RHS\nLHS = RHS"
+              },
+              {
+                "q": "II. Verify the following:\n(1) 4a^2 - 9b^2 = (2a + 3b)(2a - 3b)\n(2) 64m^2 - 81 = (8m + 9)(8m - 9)\n(3) 9p^2 - 100q^2 = (3p + 10q)(3p - 10q)\n(4) 100y^2 - 169 = (10y + 13)(10y - 13)",
+                "a": "(1) RHS = (2a + 3b)(2a - 3b)\n= (2a)^2 - (3b)^2\n= 4a^2 - 9b^2\n= LHS\nLHS = RHS\n(2) RHS = (8m + 9)(8m - 9)\n= (8m)^2 - 9^2\n= 64m^2 - 81\n= LHS\nLHS = RHS\n(3) RHS = (3p + 10q)(3p - 10q)\n= (3p)^2 - (10q)^2\n= 9p^2 - 100q^2\n= LHS\nLHS = RHS\n(4) RHS = (10y + 13)(10y - 13)\n= (10y)^2 - 13^2\n= 100y^2 - 169\n= LHS\nLHS = RHS"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.8",
+            "items": [
+              {
+                "q": "I. Factorize the following.\n(1) 5a^2 x - 15a\n(2) m^4 - m^3 + m^2\n(3) 7a^3 + 14a^2 - 7\n(4) mx^2 - m^2 x - mx\n(5) 13n - 26n^3 + 39n^5\n(6) a^2 bc + ab^2 c + abc^2\n(7) 3a(b + c) + 6d(b + c)\n(8) xy(a + b) + y(a + b)^2 + x(a + b)\n(9) 4lm(x - y) + 8mn(x - y)^2 + 12nl(x - y)\n(10) pq(p^2 - q^2)^2 + pr(p^2 - q^2)^2 + qr(p^2 - q^2)^2",
+                "a": "(1) 5a^2 x - 15a\n= 5a × ax - 5a × 3\n= 5a(ax - 3)\n(2) m^4 - m^3 + m^2\n= m^2 × m^2 - m^2 × m + m^2 × 1\n= m^2(m^2 - m + 1)\n(3) 7a^3 + 14a^2 - 7\n= 7 × a^3 + 7 × 2a^2 - 7 × 1\n= 7(a^3 + 2a^2 - 1)\n(4) mx^2 - m^2 x - mx\n= mx × x - mx × m - mx × 1\n= mx(x - m - 1)\n(5) 13n - 26n^3 + 39n^5\n= n × 13 - n × 26n^2 + n × 39n^4\n= n(13 - 26n^2 + 39n^4)\n(6) a^2 bc + ab^2 c + abc^2\n= abc × a + abc × b + abc × c\n= abc(a + b + c)\n(7) 3a(b + c) + 6d(b + c)\n= (b + c) × 3a + (b + c) × 6d\n= (b + c)(3a + 6d)\n(8) xy(a + b) + y(a + b)^2 + x(a + b)\n= (a + b) × xy + (a + b) × y(a + b) + (a + b) × x\n= (a + b)(xy + ay + by + x)\n(9) 4lm(x - y) + 8mn(x - y)^2 + 12nl(x - y)\n= (x - y) × 4lm + (x - y) × 8mn(x - y) + (x - y) × 12nl\n= (x - y)(4lm + 8mnx - 8mny + 12nl)\n(10) pq(p^2 - q^2)^2 + pr(p^2 - q^2)^2 + qr(p^2 - q^2)^2\n= (p^2 - q^2)^2 × pq + (p^2 - q^2)^2 × pr + (p^2 - q^2)^2 × qr\n= (p^2 - q^2)^2(pq + pr + qr)"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.9",
+            "items": [
+              {
+                "q": "Factorize the following.\n(1) x^2 + 12x + 36\n(2) a^2 + 4a + 4\n(3) 4a^2 + 12a + 9\n(4) 9x^2 + 42xy + 49y^2\n(5) 25a^2 + 80ab + 64b^2\n(6) 16b^2 + 40b + 25\n(7) 4x^2 + 2x + [[1/4]]\n(8) 144x^2 - 4x + [[1/36]]\n(9) 18c^2 + 60cd + 50d^2\n(10) 4a^2 + 48a + 144\n(11) 5y^2 + 40y + 80\n(12) 3s^2 - 48st + 192t^2\n(13) 9a^2 t^2 - 42ats + 49s^2\n(14) 4a^4 - 12a^2 + 9\n(15) 50p^2 q^2 - 70pqr + 98r^2",
+                "a": "(1) x^2 + 12x + 36\n= (x)^2 + 2(x)(6) + (6)^2\n= (x + 6)^2\n= (x + 6)(x + 6)\n(2) a^2 + 4a + 4\n= (a)^2 + 2(a)(2) + (2)^2\n= (a + 2)^2\n= (a + 2)(a + 2)\n(3) 4a^2 + 12a + 9\n= (2a)^2 + 2(2a)(3) + (3)^2\n= (2a + 3)^2\n= (2a + 3)(2a + 3)\n(4) 9x^2 + 42xy + 49y^2\n= (3x)^2 + 2(3x)(7y) + (7y)^2\n= (3x + 7y)^2\n= (3x + 7y)(3x + 7y)\n(5) 25a^2 + 80ab + 64b^2\n= (5a)^2 + 2(5a)(8b) + (8b)^2\n= (5a + 8b)^2\n= (5a + 8b)(5a + 8b)\n(6) 16b^2 + 40b + 25\n= (4b)^2 + 2(4b)(5) + (5)^2\n= (4b + 5)^2\n= (4b + 5)(4b + 5)\n(7) 4x^2 + 2x + [[1/4]]\n= (2x)^2 + 2(2x)([[1/2]]) + ([[1/2]])^2\n= (2x + [[1/2]])^2\n= (2x + [[1/2]])(2x + [[1/2]])\n(8) 144x^2 - 4x + [[1/36]]\n= (12x)^2 - 2(12x)([[1/6]]) + ([[1/6]])^2\n= (12x - [[1/6]])^2\n= (12x - [[1/6]])(12x - [[1/6]])\n(9) 18c^2 + 60cd + 50d^2\n= 2(9c^2 + 30cd + 25d^2)\n= 2{(3c)^2 + 2(3c)(5d) + (5d)^2}\n= 2(3c + 5d)^2\n= 2(3c + 5d)(3c + 5d)\n(10) 4a^2 + 48a + 144\n= 4(a^2 + 12a + 36)\n= 4{(a)^2 + 2(a)(6) + (6)^2}\n= 4(a + 6)^2\n= 4(a + 6)(a + 6)\n(11) 5y^2 + 40y + 80\n= 5(y^2 + 8y + 16)\n= 5{(y)^2 + 2(y)(4) + (4)^2}\n= 5(y + 4)^2\n= 5(y + 4)(y + 4)\n(12) 3s^2 - 48st + 192t^2\n= 3(s^2 - 16st + 64t^2)\n= 3{(s)^2 - 2(s)(8t) + (8t)^2}\n= 3(s - 8t)^2\n= 3(s - 8t)(s - 8t)\n(13) 9a^2 t^2 - 42ats + 49s^2\n= (3at)^2 - 2(3at)(7s) + (7s)^2\n= (3at - 7s)^2\n= (3at - 7s)(3at - 7s)\n(14) 4a^4 - 12a^2 + 9\n= (2a^2)^2 - 2(2a^2)(3) + (3)^2\n= (2a^2 - 3)^2\n= (2a^2 - 3)(2a^2 - 3)\n(15) 50p^2 q^2 - 70pqr + 98r^2\n= 2(25p^2 q^2 - 35pqr + 49r^2)\n= 2{(5pq)^2 - 2(5pq)(7r) + (7r)^2}\n= 2(5pq - 7r)^2\n= 2(5pq - 7r)(5pq - 7r)"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.10",
+            "items": [
+              {
+                "q": "Factorize the following.\n(1) b^2 - c^2\n(2) a^2 - 36\n(3) a^2 - 49\n(4) 25 - y^2\n(5) 4x^2 - 9\n(6) 9x^2 - 16y^2\n(7) 6x^2 - 24\n(8) 200 - 18z^2\n(9) 81a^2 - 121b^2\n(10) a^2 c^2 - 16c^2 d^2\n(11) 36 - (3a - 2b)^2\n(12) (2x + 3y)^2 - 100z^2\n(13) 64b^2 - (6b + d)^2\n(14) (3a - 4b)^2 - (3a - b)^2\n(15) 49(2a - 3b)^2 - 16(a + 2b)^2\n(16) 225(p - q)^2 - 49(p + q)^2\n(17) 72(c + d)^2 - 162(c - d)^2\n(18) 48l(m - n)^2 - 75l(p - q)^2",
+                "a": "(1) b^2 - c^2\n= (b)^2 - (c)^2\n= (b + c)(b - c)\n(2) a^2 - 36\n= (a)^2 - (6)^2\n= (a + 6)(a - 6)\n(3) a^2 - 49\n= (a)^2 - (7)^2\n= (a + 7)(a - 7)\n(4) 25 - y^2\n= (5)^2 - (y)^2\n= (5 + y)(5 - y)\n(5) 4x^2 - 9\n= (2x)^2 - (3)^2\n= (2x + 3)(2x - 3)\n(6) 9x^2 - 16y^2\n= (3x)^2 - (4y)^2\n= (3x + 4y)(3x - 4y)\n(7) 6x^2 - 24\n= 6(x^2 - 4)\n= 6{(x)^2 - (2)^2}\n= 6(x + 2)(x - 2)\n(8) 200 - 18z^2\n= 2(100 - 9z^2)\n= 2{(10)^2 - (3z)^2}\n= 2(10 + 3z)(10 - 3z)\n(9) 81a^2 - 121b^2\n= (9a)^2 - (11b)^2\n= (9a + 11b)(9a - 11b)\n(10) a^2 c^2 - 16c^2 d^2\n= c^2(a^2 - 16d^2)\n= c^2{(a)^2 - (4d)^2}\n= c^2(a + 4d)(a - 4d)\n(11) 36 - (3a - 2b)^2\n= (6)^2 - (3a - 2b)^2\n= (6 + 3a - 2b)(6 - 3a + 2b)\n(12) (2x + 3y)^2 - 100z^2\n= (2x + 3y)^2 - (10z)^2\n= (2x + 3y + 10z)(2x + 3y - 10z)\n(13) 64b^2 - (6b + d)^2\n= (8b)^2 - (6b + d)^2\n= (8b + 6b + d)(8b - 6b - d)\n= (14b + d)(2b - d)\n(14) (3a - 4b)^2 - (3a - b)^2\n= {(3a - 4b) + (3a - b)}{(3a - 4b) - (3a - b)}\n= (6a - 5b)(-3b)\n= -3b(6a - 5b)\n(15) 49(2a - 3b)^2 - 16(a + 2b)^2\n= {7(2a - 3b)}^2 - {4(a + 2b)}^2\n= {7(2a - 3b) + 4(a + 2b)}{7(2a - 3b) - 4(a + 2b)}\n= (14a - 21b + 4a + 8b)(14a - 21b - 4a - 8b)\n= (18a - 13b)(10a - 29b)\n(16) 225(p - q)^2 - 49(p + q)^2\n= {15(p - q)}^2 - {7(p + q)}^2\n= {15(p - q) + 7(p + q)}{15(p - q) - 7(p + q)}\n= (15p - 15q + 7p + 7q)(15p - 15q - 7p - 7q)\n= (22p - 8q)(8p - 22q)\n(17) 72(c + d)^2 - 162(c - d)^2\n= 18{4(c + d)^2 - 9(c - d)^2}\n= 18[{2(c + d)}^2 - {3(c - d)}^2]\n= 18{2(c + d) + 3(c - d)}{2(c + d) - 3(c - d)}\n= 18(2c + 2d + 3c - 3d)(2c + 2d - 3c + 3d)\n= 18(5c - d)(-c + 5d)\n(18) 48l(m - n)^2 - 75l(p - q)^2\n= 3l{16(m - n)^2 - 25(p - q)^2}\n= 3l[{4(m - n)}^2 - {5(p - q)}^2]\n= 3l{4(m - n) + 5(p - q)}{4(m - n) - 5(p - q)}\n= 3l(4m - 4n + 5p - 5q)(4m - 4n - 5p + 5q)"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 8.11",
+            "items": [
+              {
+                "q": "I. Factorize:\n(1) 5x^2 + 5x + 4x + 4\n(2) ax + ay + bx + by\n(3) b^2 + 4c^2 + bc^2 + 4b\n(4) p^2 - 6pq - pq + 6q^2\n(5) a^2 + 5b^2 + ab^2 + 5a\n(6) 7x^2 + py + 7x + pyx\n(7) 2c^2 d + 4cd^2 - 2cd - 4d^2\n(8) 2y^2 - 10y + 4y - 20\n(9) x^2 y^2 + 5xy - xy - 5\n(10) p^2 - pq + q - p",
+                "a": "(1) 5x^2 + 5x + 4x + 4\n= (5x^2 + 5x) + (4x + 4)\n= 5x(x + 1) + 4(x + 1)\n= (x + 1)(5x + 4)\n(2) ax + ay + bx + by\n= (ax + ay) + (bx + by)\n= a(x + y) + b(x + y)\n= (x + y)(a + b)\n(3) b^2 + 4c^2 + bc^2 + 4b\n= (b^2 + 4b) + (4c^2 + bc^2)\n= b(b + 4) + c^2(4 + b)\n= (b + 4)(b + c^2)\n(4) p^2 - 6pq - pq + 6q^2\n= (p^2 - 6pq) + (-pq + 6q^2)\n= p(p - 6q) - q(p - 6q)\n= (p - 6q)(p - q)\n(5) a^2 + 5b^2 + ab^2 + 5a\n= (a^2 + 5a) + (5b^2 + ab^2)\n= a(a + 5) + b^2(5 + a)\n= (a + 5)(a + b^2)\n(6) 7x^2 + py + 7x + pyx\n= (7x^2 + 7x) + (py + pyx)\n= 7x(x + 1) + py(1 + x)\n= (x + 1)(7x + py)\n(7) 2c^2 d + 4cd^2 - 2cd - 4d^2\n= (2c^2 d - 2cd) + (4cd^2 - 4d^2)\n= 2cd(c - 1) + 4d^2(c - 1)\n= (c - 1)(2cd + 4d^2)\n= 2d(c - 1)(c + 2d)\n(8) 2y^2 - 10y + 4y - 20\n= (2y^2 - 10y) + (4y - 20)\n= 2y(y - 5) + 4(y - 5)\n= (y - 5)(2y + 4)\n= 2(y - 5)(y + 2)\n(9) x^2 y^2 + 5xy - xy - 5\n= (x^2 y^2 + 5xy) + (-xy - 5)\n= xy(xy + 5) - 1(xy + 5)\n= (xy + 5)(xy - 1)\n(10) p^2 - pq + q - p\n= (p^2 - pq) + (q - p)\n= p(p - q) - 1(p - q)\n= (p - q)(p - 1)"
+              },
+              {
+                "q": "II. Factorize:\n(1) x^2 + 6x + 8\n(2) y^2 + 8y + 12\n(3) a^2 + 7a + 10\n(4) c^2 + 5c + 6\n(5) d^2 + 6d + 5\n(6) p^2 - 4p + 3\n(7) r^2 + 7r + 12\n(8) a^2 + 3a - 10\n(9) m^2 - 5m - 14\n(10) x^2 - 2x - 15\n(11) y^2 + 7y - 18\n(12) x^2 + 10x + 21",
+                "a": "(1) x^2 + 6x + 8\n= x^2 + 2x + 4x + 8\n= (x^2 + 2x) + (4x + 8)\n= x(x + 2) + 4(x + 2)\n= (x + 2)(x + 4)\n(2) y^2 + 8y + 12\n= y^2 + 2y + 6y + 12\n= (y^2 + 2y) + (6y + 12)\n= y(y + 2) + 6(y + 2)\n= (y + 2)(y + 6)\n(3) a^2 + 7a + 10\n= a^2 + 2a + 5a + 10\n= (a^2 + 2a) + (5a + 10)\n= a(a + 2) + 5(a + 2)\n= (a + 2)(a + 5)\n(4) c^2 + 5c + 6\n= c^2 + 2c + 3c + 6\n= (c^2 + 2c) + (3c + 6)\n= c(c + 2) + 3(c + 2)\n= (c + 2)(c + 3)\n(5) d^2 + 6d + 5\n= d^2 + d + 5d + 5\n= (d^2 + d) + (5d + 5)\n= d(d + 1) + 5(d + 1)\n= (d + 1)(d + 5)\n(6) p^2 - 4p + 3\n= p^2 - p - 3p + 3\n= (p^2 - p) + (-3p + 3)\n= p(p - 1) - 3(p - 1)\n= (p - 1)(p - 3)\n(7) r^2 + 7r + 12\n= r^2 + 3r + 4r + 12\n= (r^2 + 3r) + (4r + 12)\n= r(r + 3) + 4(r + 3)\n= (r + 3)(r + 4)\n(8) a^2 + 3a - 10\n= a^2 + 5a - 2a - 10\n= (a^2 + 5a) + (-2a - 10)\n= a(a + 5) - 2(a + 5)\n= (a + 5)(a - 2)\n(9) m^2 - 5m - 14\n= m^2 + 2m - 7m - 14\n= (m^2 + 2m) + (-7m - 14)\n= m(m + 2) - 7(m + 2)\n= (m + 2)(m - 7)\n(10) x^2 - 2x - 15\n= x^2 - 5x + 3x - 15\n= (x^2 - 5x) + (3x - 15)\n= x(x - 5) + 3(x - 5)\n= (x - 5)(x + 3)\n(11) y^2 + 7y - 18\n= y^2 + 9y - 2y - 18\n= (y^2 + 9y) + (-2y - 18)\n= y(y + 9) - 2(y + 9)\n= (y + 9)(y - 2)\n(12) x^2 + 10x + 21\n= x^2 + 3x + 7x + 21\n= (x^2 + 3x) + (7x + 21)\n= x(x + 3) + 7(x + 3)\n= (x + 3)(x + 7)"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. Answer the following questions.\n(i) What is meant by literals? (ii) Define a constant.\n(iii) What is a binomial? (iv) What is an algebraic identity?\n(v) Define the term factorization of an algebraic expression.",
+                "a": "(i) The letters or alphabets that we use to represent unknowns are called literal numbers.\n(ii) A symbol having a fixed numerical value is called a constant.\n(iii) An expression having two terms is called binomial.\n(iv) An algebraic identity is a simplified form consisting of the algebraic terms which provide us with a rule to solve any algebraic expression.\n(v) The process of writing an algebraic expression as the product of two or more expressions which divide it exactly is called factorization."
+              },
+              {
+                "q": "2. Fill in the blanks.\n(i) (a + b)^2 = ___\n(ii) (a - b)^2 = ___\n(iii) (x + a)(x + b) = ___\n(iv) a^2 - b^2 = ___\n(v) A symbol represented by a literal and can take various numerical values is called a ___.\n(vi) A polynomial having only one term is called ___.",
+                "a": "(i) (a + b)^2 = a^2 + 2ab + b^2\n(ii) (a - b)^2 = a^2 - 2ab + b^2\n(iii) (x + a)(x + b) = x^2 + (a + b)x + ab\n(iv) a^2 - b^2 = (a + b)(a - b)\n(v) variable\n(vi) monomial"
+              },
+              {
+                "q": "3. Tick (✓) the correct answer.\n(i) x^2 - x = ?\n(a) x (b) x(x - 1) (c) x^2 (d) x - x^2\n(ii) A polynomial having two terms is called a:\n(a) factorization (b) monomial (c) binomial (d) trinomial\n(iii) A symbol having a fixed fixed value is called a:\n(a) term (b) variable (c) constant (d) literal\n(iv) The factors of a^2 - 9 are:\n(a) (a + 3)(a - 3) (b) (a + 9)(a - 9) (c) (a - 3)(a - 3) (d) (a - 9)(a - 9)\n(v) (x - y)(x - y) = ?\n(a) x^2 - y^2 (b) x^2 + 2xy + y^2 (c) x^2 - 2xy + y^2 (d) x^2 + y^2",
+                "a": "(i) x^2 - x = x(x - 1)\n(b) x(x - 1)\n(ii) (c) binomial\n(iii) (c) constant\n(iv) a^2 - 9 = (a)^2 - (3)^2 = (a + 3)(a - 3)\n(a) (a + 3)(a - 3)\n(v) (x - y)(x - y) = (x - y)^2 = x^2 - 2xy + y^2\n(c) x^2 - 2xy + y^2"
+              },
+              {
+                "q": "4. If A = 2(x^2 + y^2 + z^2), B = -x^2 + 3y^2 + 2z^2 and C = x^2 - y^2 - 3z^2, then find:\n(i) A + B + C (ii) B + C - A (iii) A - B + C\n(iv) A + B - C (v) A - B - C (vi) B - C - A",
+                "a": "(i) A + B + C\n= 2(x^2 + y^2 + z^2) + (-x^2 + 3y^2 + 2z^2) + (x^2 - y^2 - 3z^2)\n= 2x^2 + 2y^2 + 2z^2 - x^2 + 3y^2 + 2z^2 + x^2 - y^2 - 3z^2\n= 2x^2 + 4y^2 + z^2\n(ii) B + C - A\n= (-x^2 + 3y^2 + 2z^2) + (x^2 - y^2 - 3z^2) - 2(x^2 + y^2 + z^2)\n= -x^2 + 3y^2 + 2z^2 + x^2 - y^2 - 3z^2 - 2x^2 - 2y^2 - 2z^2\n= -2x^2 - 3z^2\n(iii) A - B + C\n= 2(x^2 + y^2 + z^2) - (-x^2 + 3y^2 + 2z^2) + (x^2 - y^2 - 3z^2)\n= 2x^2 + 2y^2 + 2z^2 + x^2 - 3y^2 - 2z^2 + x^2 - y^2 - 3z^2\n= 4x^2 - 2y^2 - 3z^2\n(iv) A + B - C\n= 2(x^2 + y^2 + z^2) + (-x^2 + 3y^2 + 2z^2) - (x^2 - y^2 - 3z^2)\n= 2x^2 + 2y^2 + 2z^2 - x^2 + 3y^2 + 2z^2 - x^2 + y^2 + 3z^2\n= 6y^2 + 7z^2\n(v) A - B - C\n= 2(x^2 + y^2 + z^2) - (-x^2 + 3y^2 + 2z^2) - (x^2 - y^2 - 3z^2)\n= 2x^2 + 2y^2 + 2z^2 + x^2 - 3y^2 - 2z^2 - x^2 + y^2 + 3z^2\n= 2x^2 + 3z^2\n(vi) B - C - A\n= (-x^2 + 3y^2 + 2z^2) - (x^2 - y^2 - 3z^2) - 2(x^2 + y^2 + z^2)\n= -x^2 + 3y^2 + 2z^2 - x^2 + y^2 + 3z^2 - 2x^2 - 2y^2 - 2z^2\n= -4x^2 + 2y^2 + 3z^2"
+              },
+              {
+                "q": "5. Simplify the following polynomials.\n(i) (x - 2y)(x + 2y) (ii) (4x^2)(3x + 1)\n(iii) 2x(x + y) - 2y(x - y) (iv) (a^2 b^3)(2a - 3b)\n(v) (a^2 - b^2)(a^2 + b^2) (vi) (a^2 + 1)(a^2 - a - 1)\n(vii) x(y + 1) - y(x + 1) - (x - y)\n(viii) a^2(b^2 - c^2) + b^2(c^2 - a^2) + c^2(a^2 - b^2)",
+                "a": "(i) (x - 2y)(x + 2y)\n= (x)^2 - (2y)^2\n= x^2 - 4y^2\n(ii) (4x^2)(3x + 1)\n= 4x^2 × 3x + 4x^2 × 1\n= 12x^3 + 4x^2\n(iii) 2x(x + y) - 2y(x - y)\n= 2x × x + 2x × y - 2y × x + 2y × y\n= 2x^2 + 2xy - 2xy + 2y^2\n= 2x^2 + 2y^2\n(iv) (a^2 b^3)(2a - 3b)\n= a^2 b^3 × 2a - a^2 b^3 × 3b\n= 2a^3 b^3 - 3a^2 b^4\n(v) (a^2 - b^2)(a^2 + b^2)\n= (a^2)^2 - (b^2)^2\n= a^4 - b^4\n(vi) (a^2 + 1)(a^2 - a - 1)\n= a^2 × (a^2 - a - 1) + 1 × (a^2 - a - 1)\n= a^4 - a^3 - a^2 + a^2 - a - 1\n= a^4 - a^3 - a - 1\n(vii) x(y + 1) - y(x + 1) - (x - y)\n= xy + x - xy - y - x + y\n= 0\n(viii) a^2(b^2 - c^2) + b^2(c^2 - a^2) + c^2(a^2 - b^2)\n= a^2 b^2 - a^2 c^2 + b^2 c^2 - a^2 b^2 + a^2 c^2 - b^2 c^2\n= 0"
+              },
+              {
+                "q": "6. Verify the following.\n(i) (3x - 5)(3x + 5) = 9x^2 - 25 (ii) (2a - 5b)^2 = 4a^2 - 20ab + 25b^2\n(iii) (3x^2 + 4y^2)^2 = 9x^4 + 24x^2 y^2 + 16y^4 (iv) 9x^2 - 25y^2 = (3x - 5y)(3x + 5y)",
+                "a": "(i) LHS = (3x - 5)(3x + 5)\n= (3x)^2 - 5^2\n= 9x^2 - 25\n= RHS\nLHS = RHS\n(ii) LHS = (2a - 5b)^2\n= (2a)^2 - 2 × 2a × 5b + (5b)^2\n= 4a^2 - 20ab + 25b^2\n= RHS\nLHS = RHS\n(iii) LHS = (3x^2 + 4y^2)^2\n= (3x^2)^2 + 2 × 3x^2 × 4y^2 + (4y^2)^2\n= 9x^4 + 24x^2 y^2 + 16y^4\n= RHS\nLHS = RHS\n(iv) RHS = (3x - 5y)(3x + 5y)\n= (3x)^2 - (5y)^2\n= 9x^2 - 25y^2\n= LHS\nLHS = RHS"
+              },
+              {
+                "q": "7. Resolve into factors.\n(i) 10a^2 - 200a^4 b (ii) 36x^3 y^3 z^3 - 27x^2 y^4 z + 63xyz^4\n(iii) 15x^4 y + 21x^3 y^2 - 27x^2 y^2 - 33xy^4 (iv) x(a^2 + 11) - 16(a^2 + 11)\n(v) x^2(ab + c) + xy(ab + c) + z^2(ab + c)",
+                "a": "(i) 10a^2 - 200a^4 b\n= 10a^2 × 1 - 10a^2 × 20a^2 b\n= 10a^2(1 - 20a^2 b)\n(ii) 36x^3 y^3 z^3 - 27x^2 y^4 z + 63xyz^4\n= 9xyz × 4x^2 y^2 z^2 - 9xyz × 3xy^3 + 9xyz × 7z^3\n= 9xyz(4x^2 y^2 z^2 - 3xy^3 + 7z^3)\n(iii) 15x^4 y + 21x^3 y^2 - 27x^2 y^2 - 33xy^4\n= 3xy × 5x^3 + 3xy × 7x^2 y - 3xy × 9xy - 3xy × 11y^3\n= 3xy(5x^3 + 7x^2 y - 9xy - 11y^3)\n(iv) x(a^2 + 11) - 16(a^2 + 11)\n= (a^2 + 11)(x - 16)\n(v) x^2(ab + c) + xy(ab + c) + z^2(ab + c)\n= (ab + c)(x^2 + xy + z^2)"
+              },
+              {
+                "q": "8. Factorize the following.\n(i) a^2 - 26a + 169 (ii) 1 - 6x^2 y^2 z + 9x^4 y^4 z^2 (iii) 7ab^2 - 343a\n(iv) 75 - 3(x - y)^2 (v) 49(x + y)^2 - 16(x - y)^2 (vi) [[9/16]]a^2 + ab + [[4/9]]b^2\n(vii) [[a^2/b^2]]l^2 - [[2ac/bd]]lm + [[c^2/d^2]]m^2 (viii) (a - [[9/5]])^2 - [[36/25]]m^2",
+                "a": "(i) a^2 - 26a + 169\n= (a)^2 - 2(a)(13) + (13)^2\n= (a - 13)^2\n= (a - 13)(a - 13)\n(ii) 1 - 6x^2 y^2 z + 9x^4 y^4 z^2\n= (1)^2 - 2(1)(3x^2 y^2 z) + (3x^2 y^2 z)^2\n= (1 - 3x^2 y^2 z)^2\n= (1 - 3x^2 y^2 z)(1 - 3x^2 y^2 z)\n(iii) 7ab^2 - 343a\n= 7a(b^2 - 49)\n= 7a{(b)^2 - (7)^2}\n= 7a(b + 7)(b - 7)\n(iv) 75 - 3(x - y)^2\n= 3{25 - (x - y)^2}\n= 3{(5)^2 - (x - y)^2}\n= 3(5 + x - y)(5 - x + y)\n(v) 49(x + y)^2 - 16(x - y)^2\n= {7(x + y)}^2 - {4(x - y)}^2\n= {7(x + y) + 4(x - y)}{7(x + y) - 4(x - y)}\n= (11x + 3y)(3x + 11y)\n(vi) [[9/16]]a^2 + ab + [[4/9]]b^2\n= ([[3/4]]a)^2 + 2([[3/4]]a)([[2/3]]b) + ([[2/3]]b)^2\n= ([[3/4]]a + [[2/3]]b)^2\n= ([[3/4]]a + [[2/3]]b)([[3/4]]a + [[2/3]]b)\n(vii) [[a^2/b^2]]l^2 - [[2ac/bd]]lm + [[c^2/d^2]]m^2\n= ([[a/b]]l)^2 - 2([[a/b]]l)([[c/d]]m) + ([[c/d]]m)^2\n= ([[a/b]]l - [[c/d]]m)^2\n= ([[a/b]]l - [[c/d]]m)([[a/b]]l - [[c/d]]m)\n(viii) (a - [[9/5]])^2 - [[36/25]]m^2\n= (a - [[9/5]])^2 - ([[6/5]]m)^2\n= (a - [[9/5]] + [[6/5]]m)(a - [[9/5]] - [[6/5]]m)"
+              }
+            ]
+          }
+        ],
+        "display": "Algebraic Expressions"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "x + 5 = 9\nx + 5 − 5 = 9 − 5\nx = 4",
+                "q": "A. Solve the following equations. (1) x + 5 = 9"
+              },
+              {
+                "a": "12 − x = 7\n12 − 7 = x\n5 = x\nx = 5",
+                "q": "(2) 12 − x = 7"
+              },
+              {
+                "a": "5x = 3\n[[5x/5]] = [[3/5]]\nx = [[3/5]]",
+                "q": "(3) 5x = 3"
+              },
+              {
+                "a": "4x + 10 = 2\n4x = 2 − 10\n4x = −8\n[[4x/4]] = [[−8/4]]\nx = −2",
+                "q": "(4) 4x + 10 = 2"
+              },
+              {
+                "a": "5 − 3x = −4\n5 + 4 = 3x\n9 = 3x\nx = 3",
+                "q": "(5) 5 − 3x = −4"
+              },
+              {
+                "a": "2 + 14x = 30\n14x = 30 − 2\n14x = 28\n[[14x/14]] = [[28/14]]\nx = 2",
+                "q": "(6) 2 + 14x = 30"
+              },
+              {
+                "a": "9 + 5x = 3x + 13\n5x − 3x = 13 − 9\n2x = 4\nx = 2",
+                "q": "(7) 9 + 5x = 3x + 13"
+              },
+              {
+                "a": "4 − 3x = 8 + x\n4 − 8 = x + 3x\n−4 = 4x\nx = −1",
+                "q": "(8) 4 − 3x = 8 + x"
+              },
+              {
+                "a": "4x + [[5/2]] = x + 4 [[1/2]]\n4x − x = 4 [[1/2]] − [[5/2]]\n3x = [[9/2]] − [[5/2]]\n3x = [[4/2]]\n3x = 2\nx = [[2/3]]",
+                "q": "(9) 4x + [[5/2]] = x + 4 [[1/2]]"
+              },
+              {
+                "a": "5 + 3(x − 1) = 5x − 6\n5 + 3x − 3 = 5x − 6\n3x + 2 = 5x − 6\n2 + 6 = 5x − 3x\n8 = 2x\nx = 4",
+                "q": "B. Solve the following equations. (1) 5 + 3(x − 1) = 5x − 6"
+              },
+              {
+                "a": "6 − 4(x + 3) = 2(x − 1)\n6 − 4x − 12 = 2x − 2\n−4x − 6 = 2x − 2\n−6 + 2 = 2x + 4x\n−4 = 6x\nx = −[[4/6]]\nx = −[[2/3]]",
+                "q": "(2) 6 − 4(x + 3) = 2(x − 1)"
+              },
+              {
+                "a": "5(3 − x) − 2(4 − 3x) = 11 − 2(x − 1)\n15 − 5x − 8 + 6x = 11 − 2x + 2\nx + 7 = 13 − 2x\nx + 2x = 13 − 7\n3x = 6\nx = 2",
+                "q": "(3) 5(3 − x) − 2(4 − 3x) = 11 − 2(x − 1)"
+              },
+              {
+                "a": "5(1 − 2x) + 2(3 − x) = 3(x + 4) + 14\n5 − 10x + 6 − 2x = 3x + 12 + 14\n−12x + 11 = 3x + 26\n11 − 26 = 3x + 12x\n−15 = 15x\nx = −1",
+                "q": "(4) 5(1 − 2x) + 2(3 − x) = 3(x + 4) + 14"
+              },
+              {
+                "a": "(x + 2)(x + 3) = (x − 3)(x − 2) + 20\nx^2 + 3x + 2x + 6 = x^2 − 2x − 3x + 6 + 20\nx^2 + 5x + 6 = x^2 − 5x + 26\n5x + 5x = 26 − 6\n10x = 20\nx = 2",
+                "q": "(5) (x + 2)(x + 3) = (x − 3)(x − 2) + 20"
+              },
+              {
+                "a": "6x + 2 = 29 − 3x\n6x + 3x = 29 − 2\n9x = 27\nx = 3",
+                "q": "C. Solve the following equations. (1) 6x + 2 = 29 − 3x"
+              },
+              {
+                "a": "[[1/3]] x + 4 = [[(4x − 1)/5]]\n15([[1/3]] x + 4) = 15[[(4x − 1)/5]]\n5x + 60 = 3(4x − 1)\n5x + 60 = 12x − 3\n60 + 3 = 12x − 5x\n63 = 7x\nx = 9",
+                "q": "(2) [[1/3]] x + 4 = [[(4x − 1)/5]]"
+              },
+              {
+                "a": "[[3x/4]] = [[2/5]]\n3x × 5 = 4 × 2\n15x = 8\nx = [[8/15]]",
+                "q": "(3) [[3x/4]] = [[2/5]]"
+              },
+              {
+                "a": "[[8/x]] = 2\n8 = 2x\n[[8/2]] = x\nx = 4",
+                "q": "(4) [[8/x]] = 2"
+              },
+              {
+                "a": "[[7/(3x)]] = 2\n7 = 2 × 3x\n7 = 6x\nx = [[7/6]]\nx = 1 [[1/6]]",
+                "q": "(5) [[7/(3x)]] = 2"
+              },
+              {
+                "a": "[[3/(x + 1)]] = [[6/(5x − 1)]]\n3(5x − 1) = 6(x + 1)\n15x − 3 = 6x + 6\n15x − 6x = 6 + 3\n9x = 9\nx = 1",
+                "q": "(6) [[3/(x + 1)]] = [[6/(5x − 1)]]"
+              },
+              {
+                "a": "5 + [[x/3]] = 7\n[[x/3]] = 7 − 5\n[[x/3]] = 2\nx = 6",
+                "q": "D. Solve the equations. (1) 5 + [[x/3]] = 7"
+              },
+              {
+                "a": "[[x/2]] − 1 = 5\n[[x/2]] = 5 + 1\n[[x/2]] = 6\nx = 12",
+                "q": "(2) [[x/2]] − 1 = 5"
+              },
+              {
+                "a": "[[3x/4]] − 2 = [[x/3]] + 3\n12 × [[3x/4]] − 12 × 2 = 12 × [[x/3]] + 12 × 3\n9x − 24 = 4x + 36\n9x − 4x = 36 + 24\n5x = 60\nx = 12",
+                "q": "(3) [[3x/4]] − 2 = [[x/3]] + 3"
+              },
+              {
+                "a": "4 − [[2x/3]] = [[(x + 2)/5]]\n15 × 4 − 15 × [[2x/3]] = 15 × [[(x + 2)/5]]\n60 − 10x = 3(x + 2)\n60 − 10x = 3x + 6\n60 − 6 = 3x + 10x\n54 = 13x\nx = [[54/13]]\nx = 4 [[2/13]]",
+                "q": "(4) 4 − [[2x/3]] = [[(x + 2)/5]]"
+              },
+              {
+                "a": "[[(x + 2)/3]] = [[(1 − 2x)/5]]\n5(x + 2) = 3(1 − 2x)\n5x + 10 = 3 − 6x\n5x + 6x = 3 − 10\n11x = −7\nx = −[[7/11]]",
+                "q": "(5) [[(x + 2)/3]] = [[(1 − 2x)/5]]"
+              },
+              {
+                "a": "[[(4x + 3)/3]] = [[(x + 7)/2]]\n2(4x + 3) = 3(x + 7)\n8x + 6 = 3x + 21\n8x − 3x = 21 − 6\n5x = 15\nx = 3",
+                "q": "(6) [[(4x + 3)/3]] = [[(x + 7)/2]]"
+              },
+              {
+                "a": "[[(5x + 1)/2]] − [[(x + 2)/6]] = [[(2x + 4)/3]]\n6 × [[(5x + 1)/2]] − 6 × [[(x + 2)/6]] = 6 × [[(2x + 4)/3]]\n3(5x + 1) − (x + 2) = 2(2x + 4)\n15x + 3 − x − 2 = 4x + 8\n14x + 1 = 4x + 8\n14x − 4x = 8 − 1\n10x = 7\nx = [[7/10]]",
+                "q": "(7) [[(5x + 1)/2]] − [[(x + 2)/6]] = [[(2x + 4)/3]]"
+              },
+              {
+                "a": "[[(x − 3)/3]] − [[7/2]] = [[(4x − 3)/3]] − [[2/3]]\n6 × [[(x − 3)/3]] − 6 × [[7/2]] = 6 × [[(4x − 3)/3]] − 6 × [[2/3]]\n2(x − 3) − 21 = 2(4x − 3) − 4\n2x − 6 − 21 = 8x − 6 − 4\n2x − 27 = 8x − 10\n−27 + 10 = 8x − 2x\n−17 = 6x\nx = −[[17/6]]\nx = −2 [[5/6]]",
+                "q": "(8) [[(x − 3)/3]] − [[7/2]] = [[(4x − 3)/3]] − [[2/3]]"
+              }
+            ],
+            "label": "Exercise 9.1"
+          },
+          {
+            "items": [
+              {
+                "a": "3x + 9 = 18\n3x = 18 − 9\n3x = 9\nx = 3\n3(3) + 9 = 18\n9 + 9 = 18\n18 = 18",
+                "q": "Solve and verify the following equations. (1) 3x + 9 = 18"
+              },
+              {
+                "a": "2x − 5 = 9\n2x = 9 + 5\n2x = 14\nx = 7\n2(7) − 5 = 9\n14 − 5 = 9\n9 = 9",
+                "q": "(2) 2x − 5 = 9"
+              },
+              {
+                "a": "4x − 5 = 11\n4x = 11 + 5\n4x = 16\nx = 4\n4(4) − 5 = 11\n16 − 5 = 11\n11 = 11",
+                "q": "(3) 4x − 5 = 11"
+              },
+              {
+                "a": "5x − 20 = 30\n5x = 30 + 20\n5x = 50\nx = 10\n5(10) − 20 = 30\n50 − 20 = 30\n30 = 30",
+                "q": "(4) 5x − 20 = 30"
+              },
+              {
+                "a": "3x + −17 = 2\n3x = 2 + 17\n3x = 19\nx = [[19/3]]\nx = 6 [[1/3]]\n3 × [[19/3]] + −17 = 2\n19 + −17 = 2\n2 = 2",
+                "q": "(5) 3x + −17 = 2"
+              },
+              {
+                "a": "13 − 3x = −2\n13 + 2 = 3x\n15 = 3x\nx = 5\n13 − 3(5) = −2\n13 − 15 = −2\n−2 = −2",
+                "q": "(6) 13 − 3x = −2"
+              },
+              {
+                "a": "4x + 8 = 2\n4x = 2 − 8\n4x = −6\nx = −[[6/4]]\nx = −1 [[1/2]]\n4(−1 [[1/2]]) + 8 = 2\n−6 + 8 = 2\n2 = 2",
+                "q": "(7) 4x + 8 = 2"
+              },
+              {
+                "a": "[[(x + 3)/(x − 1)]] = [[6/7]]\n7(x + 3) = 6(x − 1)\n7x + 21 = 6x − 6\n7x − 6x = −6 − 21\nx = −27\n[[(−27 + 3)/(−27 − 1)]] = [[6/7]]\n[[−24/−28]] = [[6/7]]\n[[6/7]] = [[6/7]]",
+                "q": "(8) [[(x + 3)/(x − 1)]] = [[6/7]]"
+              },
+              {
+                "a": "5x + 1 = [[6/5]]\n5x = [[6/5]] − 1\n5x = [[1/5]]\nx = [[1/25]]\n5([[1/25]]) + 1 = [[6/5]]\n[[1/5]] + 1 = [[6/5]]\n[[6/5]] = [[6/5]]",
+                "q": "(9) 5x + 1 = [[6/5]]"
+              },
+              {
+                "a": "[[(x − 1)/(x + 2)]] = [[4/3]]\n3(x − 1) = 4(x + 2)\n3x − 3 = 4x + 8\n−3 − 8 = 4x − 3x\n−11 = x\nx = −11\n[[(−11 − 1)/(−11 + 2)]] = [[4/3]]\n[[−12/−9]] = [[4/3]]\n[[4/3]] = [[4/3]]",
+                "q": "(10) [[(x − 1)/(x + 2)]] = [[4/3]]"
+              },
+              {
+                "a": "[[(2x + 3)/(7x + 1)]] = [[7/15]]\n15(2x + 3) = 7(7x + 1)\n30x + 45 = 49x + 7\n45 − 7 = 49x − 30x\n38 = 19x\nx = 2\n[[(2(2) + 3)/(7(2) + 1)]] = [[7/15]]\n[[(4 + 3)/(14 + 1)]] = [[7/15]]\n[[7/15]] = [[7/15]]",
+                "q": "(11) [[(2x + 3)/(7x + 1)]] = [[7/15]]"
+              },
+              {
+                "a": "[[(3x − 8)/(5x + 2)]] = 1\n3x − 8 = 5x + 2\n−8 − 2 = 5x − 3x\n−10 = 2x\nx = −5\n[[(3(−5) − 8)/(5(−5) + 2)]] = 1\n[[(−15 − 8)/(−25 + 2)]] = 1\n[[−23/−23]] = 1\n1 = 1",
+                "q": "(12) [[(3x − 8)/(5x + 2)]] = 1"
+              }
+            ],
+            "label": "Exercise 9.2"
+          },
+          {
+            "items": [
+              {
+                "a": "Price of one pencil = Rs x\n35 − 3x = 5\n3x = 35 − 5\n3x = 30\nx = 10\nPrice of one pencil = Rs 10\nPrice of three pencils = 3 × 10 = Rs 30",
+                "q": "(1) Aslam had Rs 35 in his pocket. He purchased three pencils. Still he has Rs 5 in his pocket. Find the price of pencils."
+              },
+              {
+                "a": "Amount with Ali = Rs x\n3x + 7 = 22\n3x = 22 − 7\n3x = 15\nx = 5\nAmount with Ali = Rs 5",
+                "q": "(2) Ali has some amount of rupees. If Rs 7 is added to thrice of that amount it makes Rs 22. What amount is with him?"
+              },
+              {
+                "a": "Breadth of the room = x m\nLength of the room = (x + 1.5) m\n2(x + 1.5 + x) = 63\n2(2x + 1.5) = 63\n4x + 3 = 63\n4x = 60\nx = 15\nBreadth of the room = 15 m\nLength of the room = 15 + 1.5 = 16.5 m",
+                "q": "(3) The length of a room is 1.5m more than its breadth. If the perimeter of the room is 63m, find the length and breadth of the room."
+              },
+              {
+                "a": "Length of BC = x cm\nLength of AB = (x − 1) cm\nLength of AC = (x + 3) cm\nx + (x − 1) + (x + 3) = 11\n3x + 2 = 11\n3x = 9\nx = 3\nLength of BC = 3 cm\nLength of AB = 3 − 1 = 2 cm\nLength of AC = 3 + 3 = 6 cm",
+                "q": "(4) The perimeter of a triangle ABC is 11 cm. Sides AB and BC differ in length by 1cm and the sides AC and BC differ in length by 3 cm. Find the length of each side."
+              },
+              {
+                "a": "Length of each side = x cm\n4x = 32\nx = 8\nLength of each side = 8 cm",
+                "q": "(5) A 32 cm long wire is bent to form a square. What is the length of each side of the square?"
+              },
+              {
+                "a": "Amount with Asghar = Rs x\nAmount with Hassan = Rs 4x\nx + 4x = 800\n5x = 800\nx = 160\nAmount with Asghar = Rs 160\nAmount with Hassan = 4 × 160 = Rs 640",
+                "q": "(6) Hassan and Asghar had 800 rupees. Hassan had four times as many as Asghar had. How many rupees did each of Hassan and Asghar have?"
+              },
+              {
+                "a": "Number thought of = x\n2(x + 3) − 6 = 2x + 6 − 6 = 2x\n2x ÷ 2 = x\nYes",
+                "q": "(7) Ask your friend to think of a number. Add 3 to it and then multiply by 2. Now subtract 6 from it and then divide the result by 2. What is the number? Did he get the same number that he initially thought of?"
+              },
+              {
+                "a": "First number = x\nSecond number = x + 1\nx + (x + 1) = 43\n2x + 1 = 43\n2x = 42\nx = 21\nFirst number = 21\nSecond number = 21 + 1 = 22",
+                "q": "(8) Which of the two consecutive numbers add up to give 43?"
+              },
+              {
+                "a": "First number = x\nSecond number = x + 1\nThird number = x + 2\nx + (x + 1) + (x + 2) = 48\n3x + 3 = 48\n3x = 45\nx = 15\nFirst number = 15\nSecond number = 15 + 1 = 16\nThird number = 15 + 2 = 17",
+                "q": "(9) What are three consecutive whole numbers, whose sum is 48?"
+              },
+              {
+                "a": "Amount = Rs x\n[[x/3]] + [[x/4]] = 14\n[[4x/12]] + [[3x/12]] = 14\n[[7x/12]] = 14\n7x = 14 × 12\n7x = 168\nx = 24\nAmount = Rs 24",
+                "q": "(10) The sum of one-third and one fourth of an amount is Rs 14. What is the amount?"
+              },
+              {
+                "a": "First number = x\nSecond number = 9 − x\n5x − 4(9 − x) = 9\n5x − 36 + 4x = 9\n9x − 36 = 9\n9x = 45\nx = 5\nSecond number = 9 − 5 = 4\nFirst number = 5\nSecond number = 4",
+                "q": "(11) The sum of two numbers is 9. The difference between five times of the first and four times of the second is 9. What are the numbers?"
+              },
+              {
+                "a": "First odd number = x\nSecond odd number = x + 2\nThird odd number = x + 4\nFourth odd number = x + 6\nx + (x + 2) + (x + 4) + (x + 6) = 120\n4x + 12 = 120\n4x = 108\nx = 27\nFirst number = 27\nSecond number = 27 + 2 = 29\nThird number = 27 + 4 = 31\nFourth number = 27 + 6 = 33",
+                "q": "(12) The sum of four consecutive odd numbers is 120. What are the numbers?"
+              }
+            ],
+            "label": "Exercise 9.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) First even number = x\nx + (x + 2) = 42\n(ii) First odd number = x\nx + (x + 2) + (x + 4) = 21\n(iii) First natural number = x\nx + (x + 1) + (x + 2) + (x + 3) = 46",
+                "q": "1. Write linear equation of the following:\n(i) Sum of two consecutive even numbers is 42.\n(ii) Sum of three consecutive odd numbers is 21.\n(iii) Sum of four consecutive natural numbers is 46."
+              },
+              {
+                "a": "2x + 5 = 11\n3y − 7 = 2\n[[z/4]] + 1 = 6",
+                "q": "2. Write three different linear equations with different variables in different forms."
+              },
+              {
+                "a": "The value of the variable that makes the equation a true sentence is called the solution of the equation.\n2x + 3 = 5\nx = 1\nx + 5 = 9\nx = 4",
+                "q": "3. What is meant by the solution of an equation? Give two examples."
+              },
+              {
+                "a": "(i) one variable\n(ii) root\n(iii) root\n(iv) value",
+                "q": "4. Fill in the blanks.\n(i) The equation which contains a single variable with the degree 1 is called the linear equation in ___.\n(ii) A solution is also called a ___ of the equation.\n(iii) Process of finding the value of a variable is to make a sentence true is called its ___.\n(iv) Addition of the ___ to both sides of linear equation does not affect its equality."
+              },
+              {
+                "a": "(a) one",
+                "q": "5. Tick (√) the correct answer.\n(i) A linear equation consist of polynomial of degree.\n(a) one (b) two (c) three (d) four"
+              },
+              {
+                "a": "1 [[1/2]] x = 1\n[[3x/2]] = 1\nx = [[2/3]]\n(d) [[2/3]]",
+                "q": "(ii) 1 [[1/2]] x = 1, then x = ?\n(a) [[1/2]] (b) [[3/2]] (c) 1 (d) [[2/3]]"
+              },
+              {
+                "a": "(a) 1",
+                "q": "(iii) The equation 2x + 1 = 6 is a linear equation with degree.\n(a) 1 (b) 2 (c) 3 (d) 4"
+              },
+              {
+                "a": "1 + 6x = 7\n6x = 6\nx = 1\n(b) x = 1",
+                "q": "(iv) The solution of 1 + 6x = 7 is:\n(a) x = 0 (b) x = 1 (c) x = 2 (d) x = 3"
+              },
+              {
+                "a": "[[x/2]] − 4 = 2\n[[x/2]] = 6\nx = 12",
+                "q": "6. Solve the following equations.\n(i) [[x/2]] − 4 = 2"
+              },
+              {
+                "a": "[[(x − 7)/4]] = 3\nx − 7 = 12\nx = 19",
+                "q": "(ii) [[(x − 7)/4]] = 3"
+              },
+              {
+                "a": "[[(x − 5)/2]] = −1\nx − 5 = −2\nx = 3",
+                "q": "(iii) [[(x − 5)/2]]"
+              },
+              {
+                "a": "[[(x + 1)/(x − 3)]] = [[5/3]]\n3(x + 1) = 5(x − 3)\n3x + 3 = 5x − 15\n18 = 2x\nx = 9",
+                "q": "(iv) [[(x + 1)/(x − 3)]] = [[5/3]]"
+              },
+              {
+                "a": "[[(x − 2)/(x − 1)]] = [[3/4]]\n4(x − 2) = 3(x − 1)\n4x − 8 = 3x − 3\nx = 5",
+                "q": "(v) [[(x − 2)/(x − 1)]] = [[3/4]]"
+              },
+              {
+                "a": "[[(x + 3)/3]] = [[(x + 6)/2]]\n2(x + 3) = 3(x + 6)\n2x + 6 = 3x + 18\n−12 = x\nx = −12",
+                "q": "(vi) [[(x + 3)/3]] = [[(x + 6)/2]]"
+              },
+              {
+                "a": "Breadth of the rectangle = x cm\nLength of the rectangle = (x + 10) cm\n2(x + 10 + x) = 120\n2(2x + 10) = 120\n4x + 20 = 120\n4x = 100\nx = 25\nBreadth of the rectangle = 25 cm\nLength of the rectangle = 25 + 10 = 35 cm",
+                "q": "7. A 120 cm long wire is given the shape of a rectangle such that its length is 10 cm more than the breadth. Find the length and breadth of the rectangle."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Linear Equations",
+        "unit": 9,
+        "display": "Linear Equations"
+      },
+      {
+        "unit": 10,
+        "title": "Fundamentals of Geometry",
+        "exercises": [
+          {
+            "label": "Exercise 10.1",
+            "items": [
+              {
+                "q": "1. Write the names of all the adjacent angles, shown in Fig. 1.\n[Figure: rays OQ, OR, OS and OP from O, in the order OQ, OR, OP, OS.]",
+                "a": "(∠POS, ∠SOR)\n(∠SOR, ∠QOR)\n(∠POR, ∠QOR)\n(∠POS, ∠QOS)\n(∠POS, ∠POQ)"
+              },
+              {
+                "q": "2. Write pairs of all the supplementary angles from Fig. 2.\n[Figure: AOB is a straight line with O in the middle, OD and OC from O, m∠AOD = 50°, m∠DOC = 90°, m∠COB = 40°.]",
+                "a": "m∠AOD = 50°\nm∠DOC = 90°\nm∠COB = 40°\nm∠BOD = m∠DOC + m∠COB = 90° + 40° = 130°\nm∠AOD + m∠BOD = 50° + 130° = 180°\n(∠AOD, ∠BOD)\nm∠AOC = m∠AOD + m∠DOC = 50° + 90° = 140°\nm∠BOC = 40°\nm∠AOC + m∠BOC = 140° + 40° = 180°\n(∠AOC, ∠BOC)"
+              },
+              {
+                "q": "3. In Fig. 3, m∠MON = 130° and m∠MOP = 50°. Find the measure of adjacent angle ∠PON.\n[Figure: MO is a straight line to the left, ON goes up to the right, OP goes up to the left, m∠MOP = 50°, m∠MON = 130°.]",
+                "a": "m∠MON = 130°\nm∠MOP = 50°\nm∠MON = m∠MOP + m∠PON\n130° = 50° + m∠PON\nm∠PON = 130° − 50° = 80°"
+              },
+              {
+                "q": "4. Write the measures of the complement of the following:\nMeasure of the given angle: 49°, 62°, 54°, 36°, 67°, 81°, 15°\nMeasure of its complement:",
+                "a": "90° − 49° = 41°\n90° − 62° = 28°\n90° − 54° = 36°\n90° − 36° = 54°\n90° − 67° = 23°\n90° − 81° = 9°\n90° − 15° = 75°"
+              },
+              {
+                "q": "5. Write the measure of the supplement of the following supplementary angles.\nMeasure of the given angle: 80°, 132°, 49°, 76°, 125°, 103°, 68°\nMeasure of its supplement:",
+                "a": "180° − 80° = 100°\n180° − 132° = 48°\n180° − 49° = 131°\n180° − 76° = 104°\n180° − 125° = 55°\n180° − 103° = 77°\n180° − 68° = 112°"
+              },
+              {
+                "q": "6. Look at the Fig. 4, write the measures of all the pairs of vertically opposite angles.\n[Figure: lines AD and PC intersect at O, m∠AOP = 55°.]",
+                "a": "m∠AOP = 55°\nm∠COD = m∠AOP = 55° (vertically opposite angles)\nm∠AOC + m∠AOP = 180° (supplementary angles)\nm∠AOC = 180° − 55° = 125°\nm∠POD = m∠AOC = 125° (vertically opposite angles)\n(m∠AOP = m∠COD = 55°, m∠AOC = m∠POD = 125°)"
+              },
+              {
+                "q": "7. Find measurement of the unknown angles in the following triangles.\n(i) [Figure: triangle ABC, right angle at B, BC extended to D, exterior angle m∠ACD = 125°.]\n(ii) [Figure: triangle PQR, m∠QPR = 62°, base TQ extended through R, line PS through R, angle between RT and RS is 38°.]",
+                "a": "(i)\nm∠ACD = 125°\nm∠ACB + m∠ACD = 180° (supplementary angles)\nm∠ACB = 180° − 125° = 55°\nm∠ABC + m∠BAC + m∠ACB = 180° (sum of angles of a triangle is 180°)\n90° + m∠BAC + 55° = 180°\nm∠BAC = 180° − 90° − 55° = 35°\n(ii)\nm∠PRQ = m∠TRS = 38° (vertically opposite angles)\nm∠PRT + m∠PRQ = 180° (supplementary angles)\nm∠PRT = 180° − 38° = 142°\nm∠QRS = m∠PRT = 142° (vertically opposite angles)\nm∠PQR + m∠PRQ + m∠QPR = 180° (sum of angles of a triangle is 180°)\nm∠PQR + 38° + 62° = 180°\nm∠PQR = 180° − 38° − 62° = 80°"
+              },
+              {
+                "q": "8. Choose the correct answer and fill in the blanks.\n(i) If an angle is equal to its complement, then its measure is ___. (90°, 45°, 180°)\n(ii) If an angle is equal to its supplement, then its measure is ___. (45°, 90°, 180°)\n(iii) Supplement of an acute angle is ___ angle. (an acute, a right, an obtuse)\n(iv) If an angle of a pair of supplementary angles is a right angle, then the other is ___ angle. (An acute, a right, an obtuse)\n(v) Each angle of the pair of complementary angles is ___ angle. (acute, obtuse, right)\n(vi) One of four angles formed by two lines intersecting each other is a right angle. Therefore the other angles are ___ angles. (acute, right, obtuse)",
+                "a": "(i) 45°\nx + x = 90°\n2x = 90°\nx = 45°\n(ii) 90°\nx + x = 180°\n2x = 180°\nx = 90°\n(iii) an obtuse angle\n(iv) a right angle\n(v) acute\n(vi) right"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 10.2",
+            "items": [
+              {
+                "q": "1. Write congruent or similar figures in the following.\n(i) [Figure: two triangles of the same size.]\n(ii) [Figure: two squares of different sizes.]\n(iii) [Figure: two rectangles of the same size.]\n(iv) [Figure: two circles of the same size.]\n(v) [Figure: two line segments, 3 cm and 5 cm.]\n(vi) [Figure: two diamonds of different sizes.]\n(vii) [Figure: two trapeziums of the same size.]\n(viii) [Figure: two parallelograms of the same size.]\n(ix) [Figure: two pentagons of the same size.]\n(x) [Figure: two semi-circles of the same size.]",
+                "a": "(i) Same shape, same size (Congruent)\n(ii) Same shape, but not same size (Similar)\n(iii) Same shape, same size (Congruent)\n(iv) Same shape, same size (Congruent)\n(v) Same shape, but not same size (Similar)\n(vi) Same shape, but not same size (Similar)\n(vii) Same shape, same size (Congruent)\n(viii) Same shape, same size (Congruent)\n(ix) Same shape, same size (Congruent)\n(x) Same shape, same size (Congruent)"
+              },
+              {
+                "q": "2. Draw the following geometrical shapes.\n(i) Draw two rectangles of different sizes. Are they similar?\n(ii) Draw two circles of different radii. Are they congruent?\n(iii) Draw two equilateral triangles of same measures. Are they similar?\n(iv) Draw two squares of different size. Are they congruent?\n(v) Draw two rectangles of same size. Are they congruent?",
+                "a": "(i) Yes, similar figures\nTwo rectangles have the same shape\n(ii) No, not congruent\nTwo circles of different radii have different sizes\n(iii) Yes, similar figures\nTwo equilateral triangles of the same measures have the same shape and the same size\n(iv) No, not congruent\nTwo squares of different sizes have different sizes\n(v) Yes, congruent figures\nTwo rectangles of the same size have the same shape and the same size"
+              },
+              {
+                "q": "3. Look at the graph and consider figure P, Q and R and answer the following:\n[Figure: figures P, Q and R on a squared grid; R is an enlarged copy of P, Q is the same size as P.]\n(i) Has figure P the same shape as figure R?\n(ii) Has figure P the same size as figure R?\n(iii) Are they congruent?\n(iv) Are they similar?\n(v) What is the relation for figures P and Q.",
+                "a": "(i) Yes, Fig. P has the same shape as Fig. R\n(ii) No, Fig. P has not the same size as Fig. R\n(iii) No, Fig. P and Fig. R are not congruent\n(iv) Yes, Fig. P and Fig. R are similar\n(v) Fig. P and Fig. Q are congruent"
+              },
+              {
+                "q": "4. Write T for true and F for false.\n(i) The picture of Rs 10 currency note has the same shape as the picture of Rs 100 currency note; so these are similar figures.\n(ii) The picture of Rs 20 currency note has not same size as the picture of Rs 50 currency note; so these are not similar figures.\n(iii) The picture of Rs 500 currency note is congruent to the picture of Rs 1000 currency note.\n(iv) The picture of Rs 100 currency note is not congruent to the picture of Rs 50 currency note.\n(v) The picture of Rs 20 currency note and picture of Rs 500 currency note are similar figures.",
+                "a": "(i) True\n(ii) False\n(iii) False\nNo, they are not congruent, they have only the same shape but not the same size\n(iv) True\nYes, they are not congruent, they have only the same shape and not the same size\n(v) True"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 10.3",
+            "items": [
+              {
+                "q": "1. Decide whether the following figures, given in each pair are congruent or similar or neither similar nor congruent. (First three parts have been solved as under):\n(i) [Figure: two triangles of the same size.] (ii) [Figure: two rectangles of different sizes.] (iii) [Figure: an oval and a circle.]\n(iv) [Figure: two diamonds of the same size.] (v) [Figure: two T-shaped figures of different sizes.] (vi) [Figure: two right angled triangles of the same size.]\n(vii) [Figure: two quadrilaterals of the same size.] (viii) [Figure: two triangles of different shapes.] (ix) [Figure: a circle and a semi-circle.]",
+                "a": "(i) Same shape, same size (Congruent)\n(ii) Same shape, but not same size (Similar)\n(iii) No same shape nor same size (Neither similar nor congruent)\n(iv) Same shape, same size (Congruent)\n(v) Same shape, but not same size (Similar)\n(vi) Same shape, same size (Congruent)\n(vii) Same shape, same size (Congruent)\n(viii) No same shape, nor same size (Neither similar nor congruent)\n(ix) No same shape, nor same size (Neither similar nor congruent)"
+              },
+              {
+                "q": "2. Write in symbols the congruent segments from the following:\nmAB = 3.2 cm, mDE = 5.1 cm, mMN = 4.5 cm, mYZ = 4.8 cm, mRS = 5.4 cm, mYZ = 3.9 cm\nmCD = 4.5 cm, mGH = 4.8 cm, mXZ = 5.1 cm, mPQ = 5.4 cm, mEF = 3.9 cm, mXY = 3.2 cm",
+                "a": "AB ≅ XY\nDE ≅ XZ\nMN ≅ CD\nYZ ≅ GH\nRS ≅ PQ\nYZ ≅ EF"
+              },
+              {
+                "q": "3. Write in symbol the congruent angles from the following.\nm∠ABC = 60°, m∠XYZ = 110°, m∠COD = 45°, m∠AOB = 70°\nm∠DEF = 70°, m∠PQR = 45°, m∠PRQ = 60°, m∠MNS = 110°",
+                "a": "∠ABC ≅ ∠PRQ\n∠XYZ ≅ ∠MNS\n∠COD ≅ ∠PQR\n∠AOB ≅ ∠DEF"
+              },
+              {
+                "q": "4. Fill in the blanks.\n(i) m∠ABC = 100°, ∠ABC ≅ ∠DEF, Therefore m∠DEF = ___\n(ii) m∠PQR = m∠XYZ Therefore ∠PQR ___ ∠XYZ\n(iii) Line segments having equal lengths are called ___ segments.\n(iv) Angles having ___ measures are called congruent angles.\n(v) Two circles are congruent if their ___ are equal.",
+                "a": "(i) m∠DEF = 100°\n(ii) ∠PQR ≅ ∠XYZ\n(iii) Congruent\n(iv) equal\n(v) radii"
+              },
+              {
+                "q": "5. Consider the following pair of similar figures. Find un-known elements x and y in the following:\n(i) [Figure: right angled triangle ABC, AB = 12 cm, BC = 9 cm, AC = x, m∠C = 50°, m∠B = 90°; right angled triangle DEF, DE = y, EF = 3 cm, DF = 5 cm, m∠E = 90°.]\n(ii) [Figure: triangle PQE, PQ = 4 cm, PE = 6 cm, QE = x, m∠P = 90°, m∠E = 40°; triangle XYZ, XY = 8 cm, XZ = y, YZ = 14 cm, m∠X = 90°, m∠Y = 50°.]\n(iii) [Figure: trapezium ABCD, AB = y cm, BC = 10 cm, CD = 12 cm, DA = 10 cm, m∠A = 125°, m∠B = 125°, m∠C = 65°, m∠D = 65°; smaller trapezium, top side 4 cm, sides 5 cm and 5 cm, bottom side x, same angles.]",
+                "a": "(i)\nmBC ÷ mEF = 9 ÷ 3 = 3\nmAC ÷ mDF = x ÷ 5 = 3\nx = 5 × 3 = 15\nmAB ÷ mDE = 12 ÷ y = 3\ny = 12 ÷ 3 = 4\nx = 15\ny = 4\n(ii)\nmPQ ÷ mXY = 4 ÷ 8 = [[1/2]]\nmPE ÷ mXZ = 6 ÷ y = [[1/2]]\ny = 6 × 2 = 12\nmQE ÷ mYZ = x ÷ 14 = [[1/2]]\nx = 14 ÷ 2 = 7\nx = 7\ny = 12\n(iii)\nmBC ÷ 5 = 10 ÷ 5 = 2\nmCD ÷ x = 12 ÷ x = 2\nx = 12 ÷ 2 = 6\nmAB ÷ 4 = y ÷ 4 = 2\ny = 4 × 2 = 8\nx = 6\ny = 8"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 10.4",
+            "items": [
+              {
+                "q": "1. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: triangle ACP and triangle BDP, lines AB and CD intersect at P, AP and BP marked with one tick, CP and DP marked with two ticks.]",
+                "a": "AP ≅ BP\nCP ≅ DP\n∠APC ≅ ∠BPD (vertically opposite angles)\nΔACP ≅ ΔBDP (SAS ≅ SAS)"
+              },
+              {
+                "q": "2. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: right angled triangles PQO and MNO, QO and NO marked with one tick, PO and MO marked with a cross tick, right angles at Q and N.]",
+                "a": "PO ≅ MO\nQO ≅ NO\nm∠PQO = m∠MNO = 90°\nΔPQO ≅ ΔMNO (RHS ≅ RHS)"
+              },
+              {
+                "q": "3. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: triangle PQR and triangle PQS sharing altitude PQ, RQ and SQ marked with one tick, angles at R and S marked equal, right angle at Q.]",
+                "a": "∠PRQ ≅ ∠PSQ\nRQ ≅ SQ\n∠PQR ≅ ∠PQS\nm∠PQR = m∠PQS = 90°\nΔPQR ≅ ΔPQS (ASA ≅ ASA)"
+              },
+              {
+                "q": "4. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: rectangle PQRS with diagonal PR, PQ and SR marked with two ticks, PS and QR marked with one tick.]",
+                "a": "PQ ≅ SR\nQR ≅ PS\nPR ≅ PR\nΔPQR ≅ ΔRSP (SSS ≅ SSS)"
+              },
+              {
+                "q": "5. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: triangle ABC and triangle EDC, lines AE and BD intersect at C, BC and DC marked with one tick, angles at B and D marked equal.]",
+                "a": "∠ABC ≅ ∠EDC\nBC ≅ DC\n∠ACB ≅ ∠ECD (vertically opposite angles)\nΔABC ≅ ΔEDC (ASA ≅ ASA)"
+              },
+              {
+                "q": "6. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: triangle ABC and triangle DEC, lines AE and BD intersect at C, AC and DC marked with one tick, BC and EC marked with two ticks.]",
+                "a": "AC ≅ DC\n∠ACB ≅ ∠DCE (vertically opposite angles)\nBC ≅ EC\nΔABC ≅ ΔDEC (SAS ≅ SAS)"
+              },
+              {
+                "q": "7. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: triangle PQR and triangle POR sharing PR, PQ and PO marked with one tick, QR and OR marked with two ticks, R is a common vertex at the bottom.]",
+                "a": "PQ ≅ PO\nQR ≅ OR\nPR ≅ PR\nΔPQR ≅ ΔPOR (SSS ≅ SSS)"
+              },
+              {
+                "q": "8. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: parallelogram ABCD with diagonal BD, AB and DC marked with two ticks, AD and BC marked with one tick, angles ABD and CDB marked equal, angles ADB and DBC marked equal.]",
+                "a": "∠ABD ≅ ∠CDB\nBD ≅ BD\n∠ADB ≅ ∠DBC\nΔABD ≅ ΔCDB (ASA ≅ ASA)"
+              },
+              {
+                "q": "9. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: right angled triangles PQO and SRO, QO and RO marked with one tick, PO and SO marked with a cross tick, right angles at Q and R.]",
+                "a": "PO ≅ SO\n∠PQO ≅ ∠SRO\nm∠PQO = m∠SRO = 90°\nQO ≅ RO\nΔPQO ≅ ΔSRO (RHS ≅ RHS)"
+              },
+              {
+                "q": "10. In the figures below, the congruent parts of triangles have been indicated by like marking. Write the congruent parts in order and state by which property, the triangles are congruent.\n[Figure: triangles CDE and FED, CD and FE marked with two ticks, CE and FD marked with a cross tick, right angles at D and E.]",
+                "a": "CE ≅ FD\n∠CDE ≅ ∠FED\nm∠CDE = m∠FED = 90°\nCD ≅ FE\nΔCDE ≅ ΔFED (RHS ≅ RHS)"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 10.5",
+            "items": [
+              {
+                "q": "Fill in the blanks with proper words.\n1. The segment joining any two points on the circle is called the ___ of the circle.",
+                "a": "chord"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n2. The distance between the centre of a circle and any point on the circle is called the ___ of the circle.",
+                "a": "radius"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n3. The segment joining the centre of a circle to any point on the circle is called the ___ of the circle.",
+                "a": "radial segment"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n4. All the points on a circle are equidistant from the ___.",
+                "a": "centre"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n5. A chord passing through the centre of a circle is called the ___ of the circle.",
+                "a": "diameter"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n6. The diameter of a circle passes through its ___ and its length is ___ of the length of the radius.",
+                "a": "centre, twice"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n7. The longest chord of a circle is the ___ of the circle.",
+                "a": "diameter"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n8. There are ___ number of radial segments of any given circle and they are ___ in length.",
+                "a": "infinite, equal"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n9. The radius of a circle is ___ of diameter of the circle.",
+                "a": "half"
+              },
+              {
+                "q": "Fill in the blanks with proper words.\n10. There are ___ number of diameters of any given circle and they are ___ in length.",
+                "a": "infinite, equal"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 10.6",
+            "items": [
+              {
+                "q": "1. Draw two semi-circles of different radial segments say, 2.5 cm and 3 cm. Draw an angle in every semi-circle and verify it is a right angle.",
+                "a": "1. A semi-circle of radius 2.5 cm\nCentre O\nDiameter AB through O\nTriangle ABC with C on the circumference\nm∠ACB = 90°\n2. A semi-circle of radius 3 cm\nCentre O\nDiameter AB through O\nTriangle ABC with C on the circumference\nm∠ACB = 90°\nThe angle in a semi-circle is a right angle"
+              },
+              {
+                "q": "2. Draw a semi-circle with radius 3.3 cm. Demonstrate the property of a semi-circle. 'The angle in a semi-circle is of measure 90°.'",
+                "a": "1. A semi-circle of radius 3.3 cm\nCentre O\nDiameter AB through O\nTriangle ABC with C on the circumference\nm∠ACB = 90°\n2. Two more points P and Q on the semi-circle\nTriangles APB and AQB\nm∠APB = m∠AQB = 90°\nThe angle in a semi-circle is a right angle"
+              },
+              {
+                "q": "3. Draw a circle of radius 2.7 cm, demonstrate the property: 'The angles in the same segment of a circle are equal.'",
+                "a": "1. A circle of radius 2.7 cm\nCentre O\nChord AB of the circle, other than diameter\nTwo angles in the same segment, ∠APB and ∠AQB\nm∠APB = m∠AQB\nThe angles in the same segment of a circle are equal"
+              },
+              {
+                "q": "4. Draw a circle of radius 2.8 cm. Draw the angles in the same segment of a circle. Verify that these angles are equal in measure.",
+                "a": "1. A circle of radius 2.8 cm\nCentre O\nChord AB of the circle, other than diameter\nTwo angles in the same segment, ∠APB and ∠AQB\nm∠APB = m∠AQB\nThe angles in the same segment of a circle are equal in measure"
+              },
+              {
+                "q": "5. Draw a circle of radius 3.4 cm. Draw the angles in the same segment of a circle. Then verify that these angles are equal in measure.",
+                "a": "1. A circle of radius 3.4 cm\nCentre O\nChord AB of the circle, other than diameter\nTwo angles in the same segment, ∠APB and ∠AQB\nm∠APB = m∠AQB\nThe angles in the same segment of a circle are equal in measure"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. Define adjacent angles and show the pair of adjacent angles in a figure.",
+                "a": "Two angles with a common vertex and a common arm and no other common point in their interiors are adjacent angles\n[Figure: rays OA, OB and OC from O; ∠AOB and ∠BOC are a pair of adjacent angles]\n(∠AOB, ∠BOC)"
+              },
+              {
+                "q": "2. Define complementary and supplementary angles. Show the pairs of complementary angles and supplementary angles in a figure.",
+                "a": "Two angles whose sum of measures is 90° are complementary angles\nm∠GOI + m∠HOI = 50° + 40° = 90°\n∠GOI and ∠HOI are complementary angles\nTwo angles whose sum of measures is 180° are supplementary angles\nm∠MOK + m∠MOL = 120° + 60° = 180°\n∠MOK and ∠MOL are supplementary angles"
+              },
+              {
+                "q": "3. What is vertically opposite angles. Show two pairs of vertically opposite angles in a figure.",
+                "a": "Vertically opposite angles are the angles opposite the common vertex formed by the intersection of two lines\n[Figure: lines PQ and RS intersect at O]\n(∠POS, ∠QOR)\n(∠POR, ∠QOS)"
+              },
+              {
+                "q": "4. What are similar figures? Show them by drawing the diagram and also show in symbolic form.",
+                "a": "Similar figures have exactly the same shape but not necessarily the same size\n[Figure: two quadrilaterals of the same shape and different sizes]\nQuad. ABCD ~ Quad. DEFG"
+              },
+              {
+                "q": "5. What are congruent figures? Show them by drawing the diagram and also show in symbolic form.",
+                "a": "Congruent figures have exactly the same shape and same size\n[Figure: two triangles of the same shape and same size]\nΔABC ≅ ΔPQR"
+              },
+              {
+                "q": "6. Draw figure of a circle in which show the centre, radius, diameter, chord, minor arc and major arc. Also show semi circle and segment of a circle.",
+                "a": "[Figure: a circle with centre O]\nCentre O\nRadius OA\nDiameter AB\nChord CD\nMinor arc APB\nMajor arc AQB\nSemi-circle PRQ\nSegment bounded by chord AB and arc APB"
+              },
+              {
+                "q": "7. ABCD is a parallelogram in which AC is a diagonal. State the various properties for congruency of the two triangles formed.\n[Figure: parallelogram ABCD with AB and DC marked equal, AD and BC marked equal, diagonal AC, angles BAC and DCA marked equal, angles BCA and DAC marked equal.]",
+                "a": "(1)\nAB ≅ DC\nBC ≅ AD\nAC ≅ AC\nΔABC ≅ ΔCDA (SSS ≅ SSS)\n(2)\nAB ≅ DC\n∠BAC ≅ ∠ACD (alternate angles)\nAC ≅ AC\nΔABC ≅ ΔCDA (SAS ≅ SAS)\n(3)\n∠BAC ≅ ∠ACD (alternate angles)\nAC ≅ AC\n∠BCA ≅ ∠DAC (alternate angles)\nΔABC ≅ ΔCDA (ASA ≅ ASA)"
+              },
+              {
+                "q": "8. Draw a semi-circle of 3.3 cm radius. Demonstrate the property of a semi-circle that the angle in a semi-circle is a right angle.",
+                "a": "1. A semi-circle of radius 3.3 cm\nCentre O\nDiameter AB through O\nTriangle ABC with C on the circumference\nm∠ACB = 90°\n2. Two more points P and Q on the semi-circle\nTriangles APB and AQB\nm∠APB = m∠AQB = 90°\nThe angle in a semi-circle is a right angle"
+              },
+              {
+                "q": "9. Draw a semi-circle with radius 4.4 cm. Draw a ΔABC as shown. Measure three angles of the triangle. Is m∠ACB a right angle?\n[Figure: semi-circle with diameter AB, C on the circumference, triangle ABC.]",
+                "a": "m∠ACB = 90°\nm∠CAB = 45°\nm∠CBA = 45°\nm∠CAB + m∠CBA + m∠ACB = 45° + 45° + 90° = 180°\nYes, m∠ACB is a right angle"
+              },
+              {
+                "q": "10. Draw a circle with radius 3.6 cm. Draw a segment of a circle and demonstrate the property: 'The angles made in the same minor segment of a circle are equal.'",
+                "a": "1. A circle of radius 3.6 cm\nCentre O\nChord AB of the circle, other than diameter\nTwo angles in the minor segment, ∠APB and ∠AQB\nm∠APB = m∠AQB\nThe angles in the same minor segment of a circle are equal"
+              },
+              {
+                "q": "11. Draw a circle with radius 4 cm. Cut the circle along a chord other than diameter. Demonstrate the property that 'The two angles in the major segment of the circle are equal'.",
+                "a": "1. A circle of radius 4 cm\nCentre O\nChord AB of the circle, other than diameter\nTwo angles in the major segment, ∠ASB and ∠ARB\nm∠ASB = m∠ARB\nThe angles in the major segment of a circle are equal"
+              },
+              {
+                "q": "12. Fill in the blanks.\n(i) The angles with common vertex and a common arm are called ___.\n(ii) If sum of two angles is 90°, then these angles are called ___.\n(iii) Two figures are similar, if they are ___ in ___.\n(iv) If two lines intersect each other then ___ angles are always ___ in measure.\n(v) In a right angled triangle the ___ and one side (base or altitude) of a triangle are congruent to the corresponding ___ and one side of the other right angled triangle; then the triangles are ___.",
+                "a": "(i) adjacent angles\n(ii) complementary angles\n(iii) same in shape\n(iv) vertical, equal\n(v) Hypotenuse, Hypotenuse, congruent"
+              }
+            ]
+          }
+        ],
+        "display": "Fundamentals of Geometry"
+      },
+      {
+        "unit": 11,
+        "title": "Practical Geometry",
+        "exercises": [
+          {
+            "label": "Exercise 11.1",
+            "items": [
+              {
+                "q": "1. Divide a line segment of length 6 cm into four equal parts.",
+                "a": "1. AB of length 6 cm\n2. AX making an acute angle of 40° with AB\n3. BY making the same acute angle of 40° with AB, on the opposite side\n4. Four arcs of equal measure cutting AX at C, D, E and F\n5. Four arcs of the same measure cutting BY at G, H, I and J\n6. Join A to J, C to I, D to H, E to G and F to B\n7. AB is cut at K, L and M\n6 ÷ 4 = 1.5\nmAK = mKL = mLM = mMB = 1.5 cm"
+              },
+              {
+                "q": "2. Divide mAB = 7.5 cm in five equal parts.",
+                "a": "1. AB of length 7.5 cm\n2. AX making an acute angle of 40° with AB\n3. BY making the same acute angle of 40° with AB, on the opposite side\n4. Five arcs of equal measure cutting AX\n5. Five arcs of the same measure cutting BY\n6. Join the points on AX to the points on BY in order\n7.5 ÷ 5 = 1.5\nEach of the five parts = 1.5 cm"
+              },
+              {
+                "q": "3. Divide mCD = 9 cm in six equal parts.",
+                "a": "1. CD of length 9 cm\n2. CX making an acute angle of 40° with CD\n3. DY making the same acute angle of 40° with CD, on the opposite side\n4. Six arcs of equal measure cutting CX\n5. Six arcs of the same measure cutting DY\n6. Join the points on CX to the points on DY in order\n9 ÷ 6 = 1.5\nEach of the six parts = 1.5 cm"
+              },
+              {
+                "q": "4. Divide a line segment 5 cm in the ratio of 2:3.",
+                "a": "1. CD of length 5 cm\n2. CE making an acute angle of 40° with CD\n3. DF making the same acute angle of 40° with CD, on the opposite side\n4. Five (2 + 3) arcs of equal measure cutting CE at P, Q, R, S and T\n5. Five arcs of the same measure cutting DF at G, H, I, J and K\n6. R is the 2nd point from C\n7. J is the 3rd point from D\n8. Join R to J, cutting CD at O\n5 ÷ (2 + 3) = 1\nmCO = 2 × 1 = 2 cm\nmOD = 3 × 1 = 3 cm\nmCO : mOD = 2:3"
+              },
+              {
+                "q": "5. Divide a line segment measuring 8.4 cm in the ratio of 1:5.",
+                "a": "1. CD of length 8.4 cm\n2. CE making an acute angle of 40° with CD\n3. DF making the same acute angle of 40° with CD, on the opposite side\n4. Six (1 + 5) arcs of equal measure cutting CE\n5. Six arcs of the same measure cutting DF\n6. The 1st point from C joined to the 5th point from D, cutting CD at O\n8.4 ÷ (1 + 5) = 1.4\nmCO = 1 × 1.4 = 1.4 cm\nmOD = 5 × 1.4 = 7 cm\nmCO : mOD = 1:5"
+              },
+              {
+                "q": "6. Divide mMN = 8 cm in the ratio of 3:5.",
+                "a": "1. MN of length 8 cm\n2. ME making an acute angle of 40° with MN\n3. NF making the same acute angle of 40° with MN, on the opposite side\n4. Eight (3 + 5) arcs of equal measure cutting ME\n5. Eight arcs of the same measure cutting NF\n6. The 3rd point from M joined to the 5th point from N, cutting MN at O\n8 ÷ (3 + 5) = 1\nmMO = 3 × 1 = 3 cm\nmON = 5 × 1 = 5 cm\nmMO : mON = 3:5"
+              },
+              {
+                "q": "7. Divide a line segment measuring 6.6 cm in the ratio of 1:2:3.",
+                "a": "1. XY of length 6.6 cm\n2. XA making an acute angle of 40° with XY\n3. YB making the same acute angle of 40° with XY, on the opposite side\n4. Six (1 + 2 + 3) arcs of equal measure cutting XA at a, b, c, d, e and f\n5. Six arcs of the same measure cutting YB at 6, 5, 4, 3, 2 and 1\n6. Join a with 5 and c with 3, cutting XY at C and D\n6.6 ÷ (1 + 2 + 3) = 1.1\nmXC = 1 × 1.1 = 1.1 cm\nmCD = 2 × 1.1 = 2.2 cm\nmDY = 3 × 1.1 = 3.3 cm\nmXC : mCD : mDY = 1:2:3"
+              },
+              {
+                "q": "8. Divide mXY = 7 cm in the ratio of 2:2:3.",
+                "a": "1. XY of length 7 cm\n2. XA making an acute angle of 40° with XY\n3. YB making the same acute angle of 40° with XY, on the opposite side\n4. Seven (2 + 2 + 3) arcs of equal measure cutting XA at a, b, c, d, e, f and g\n5. Seven arcs of the same measure cutting YB at 7, 6, 5, 4, 3, 2 and 1\n6. Join b with 5 and d with 3, cutting XY at C and D\n7 ÷ (2 + 2 + 3) = 1\nmXC = 2 × 1 = 2 cm\nmCD = 2 × 1 = 2 cm\nmDY = 3 × 1 = 3 cm\nmXC : mCD : mDY = 2:2:3"
+              },
+              {
+                "q": "9. Divide a line segment measuring 8.4 cm in the ratio of 4:2:1.",
+                "a": "1. XY of length 8.4 cm\n2. XA making an acute angle of 40° with XY\n3. YB making the same acute angle of 40° with XY, on the opposite side\n4. Seven (4 + 2 + 1) arcs of equal measure cutting XA at a, b, c, d, e, f and g\n5. Seven arcs of the same measure cutting YB at 7, 6, 5, 4, 3, 2 and 1\n6. Join d with 3 and f with 1, cutting XY at C and D\n8.4 ÷ (4 + 2 + 1) = 1.2\nmXC = 4 × 1.2 = 4.8 cm\nmCD = 2 × 1.2 = 2.4 cm\nmDY = 1 × 1.2 = 1.2 cm\nmXC : mCD : mDY = 4:2:1"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.2",
+            "items": [
+              {
+                "q": "1. A triangle ABC in which the ratio among the sides of the triangle is 1:2:3 and the perimeter is 9.6 cm.",
+                "a": "1. DE of length 9.6 cm (= perimeter of the triangle)\n2. DE divided in the ratio 1:2:3, with division points B and C on DE\nmAB = mDB = 1.6 cm\nmBC = 3.2 cm\nmCA = mCE = 4.8 cm\n9.6 ÷ (1 + 2 + 3) = 1.6\n3. Arc with centre B and radius mDB\n4. Arc with centre C and radius mCE cutting the previous arc at A\n5. Join A to B\n6. Join A to C\nPerimeter = 1.6 + 3.2 + 4.8 = 9.6 cm\nAB : BC : CA = 1:2:3\n1.6 + 3.2 = 4.8"
+              },
+              {
+                "q": "2. The perimeter of a ΔDEF is 8.4 cm and the ratio among sides of the triangle is 2:3:2.",
+                "a": "1. AB of length 8.4 cm (= perimeter of the triangle)\n2. AB divided in the ratio 2:3:2, with division points E and F on AB\nmDE = 2.4 cm\nmEF = 3.6 cm\nmFD = 2.4 cm\n8.4 ÷ (2 + 3 + 2) = 1.2\n3. Arc with centre E and radius 2.4 cm\n4. Arc with centre F and radius 2.4 cm cutting the previous arc at D\n5. Join D to E\n6. Join D to F\nPerimeter = 2.4 + 3.6 + 2.4 = 8.4 cm\nDE : EF : FD = 2:3:2"
+              },
+              {
+                "q": "3. A triangle LMN whose perimeter is 90 mm and the ratio among sides of the triangle is 2:3:4.",
+                "a": "1. AB of length 90 mm (= perimeter of the triangle)\n2. AB divided in the ratio 2:3:4, with division points M and N on AB\nmLM = 20 mm\nmMN = 30 mm\nmNL = 40 mm\n90 ÷ (2 + 3 + 4) = 10\n3. Arc with centre M and radius 20 mm\n4. Arc with centre N and radius 40 mm cutting the previous arc at L\n5. Join L to M\n6. Join L to N\nPerimeter = 20 + 30 + 40 = 90 mm\nLM : MN : NL = 2:3:4"
+              },
+              {
+                "q": "4. A triangle PQR in which ratio among the sides is 5:3:2. The perimeter of the triangle is 10 cm.",
+                "a": "1. AB of length 10 cm (= perimeter of the triangle)\n2. AB divided in the ratio 5:3:2, with division points Q and R on AB\nmPQ = 5 cm\nmQR = 3 cm\nmRP = 2 cm\n10 ÷ (5 + 3 + 2) = 1\n3. Arc with centre Q and radius 5 cm\n4. Arc with centre R and radius 2 cm cutting the previous arc at P\n5. Join P to Q\n6. Join P to R\nPerimeter = 5 + 3 + 2 = 10 cm\nPQ : QR : RP = 5:3:2\n3 + 2 = 5"
+              },
+              {
+                "q": "5. A triangle XYZ in which ratio among the sides of the triangle is 3:3:2 and the perimeter is 88 mm.",
+                "a": "1. AB of length 88 mm (= perimeter of the triangle)\n2. AB divided in the ratio 3:3:2, with division points Y and Z on AB\nmXY = 33 mm\nmYZ = 22 mm\nmZX = 33 mm\n88 ÷ (3 + 3 + 2) = 11\n3. Arc with centre Y and radius 33 mm\n4. Arc with centre Z and radius 33 mm cutting the previous arc at X\n5. Join X to Y\n6. Join X to Z\nPerimeter = 33 + 22 + 33 = 88 mm\nXY : YZ : ZX = 3:3:2"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.3",
+            "items": [
+              {
+                "q": "1. Construct the following equilateral triangles when the measure of base is as follows:\n(i) 2.9 cm (ii) 3.2 cm (iii) 4.1 cm\n(iv) 3.8 cm (v) 2.8 cm (vi) 4.3 cm",
+                "a": "(i)\n1. PQ of length 2.9 cm\n2. Arc with centre P and radius 2.9 cm\n3. Arc with centre Q and the same radius cutting the previous arc at R\n4. Join P to R\n5. Join Q to R\n6. mPQ = mQR = mRP = 2.9 cm\nPQR is the required equilateral triangle\n(ii)\n1. PQ of length 3.2 cm\n2. Arc with centre P and radius 3.2 cm\n3. Arc with centre Q and the same radius cutting the previous arc at R\n4. Join P to R\n5. Join Q to R\n6. mPQ = mQR = mRP = 3.2 cm\nPQR is the required equilateral triangle\n(iii)\n1. PQ of length 4.1 cm\n2. Arc with centre P and radius 4.1 cm\n3. Arc with centre Q and the same radius cutting the previous arc at R\n4. Join P to R\n5. Join Q to R\n6. mPQ = mQR = mRP = 4.1 cm\nPQR is the required equilateral triangle\n(iv)\n1. PQ of length 3.8 cm\n2. Arc with centre P and radius 3.8 cm\n3. Arc with centre Q and the same radius cutting the previous arc at R\n4. Join P to R\n5. Join Q to R\n6. mPQ = mQR = mRP = 3.8 cm\nPQR is the required equilateral triangle\n(v)\n1. PQ of length 2.8 cm\n2. Arc with centre P and radius 2.8 cm\n3. Arc with centre Q and the same radius cutting the previous arc at R\n4. Join P to R\n5. Join Q to R\n6. mPQ = mQR = mRP = 2.8 cm\nPQR is the required equilateral triangle\n(vi)\n1. PQ of length 4.3 cm\n2. Arc with centre P and radius 4.3 cm\n3. Arc with centre Q and the same radius cutting the previous arc at R\n4. Join P to R\n5. Join Q to R\n6. mPQ = mQR = mRP = 4.3 cm\nPQR is the required equilateral triangle"
+              },
+              {
+                "q": "2. Construct the following equilateral triangles, when the measurement of its altitude is as follows:\n(i) 3.6 cm (ii) 3.9 cm (iii) 4.3 cm\n(iv) 4.5 cm (v) 4.7 cm (vi) 4.8 cm",
+                "a": "(i)\n1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 3.6 cm cutting FG at P, PF is the altitude\nm∠P = 60°\nAltitude bisects the angle at the vertex\n5. ∠FPM = 30° and ∠FPN = 30°\n6. PM intersects AB at Q and PN intersects AB at R\n7. PQR is the required equilateral triangle\n(ii)\n1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 3.9 cm cutting FG at P, PF is the altitude\nm∠P = 60°\nAltitude bisects the angle at the vertex\n5. ∠FPM = 30° and ∠FPN = 30°\n6. PM intersects AB at Q and PN intersects AB at R\n7. PQR is the required equilateral triangle\n(iii)\n1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 4.3 cm cutting FG at P, PF is the altitude\nm∠P = 60°\nAltitude bisects the angle at the vertex\n5. ∠FPM = 30° and ∠FPN = 30°\n6. PM intersects AB at Q and PN intersects AB at R\n7. PQR is the required equilateral triangle\n(iv)\n1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 4.5 cm cutting FG at P, PF is the altitude\nm∠P = 60°\nAltitude bisects the angle at the vertex\n5. ∠FPM = 30° and ∠FPN = 30°\n6. PM intersects AB at Q and PN intersects AB at R\n7. PQR is the required equilateral triangle\n(v)\n1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 4.7 cm cutting FG at P, PF is the altitude\nm∠P = 60°\nAltitude bisects the angle at the vertex\n5. ∠FPM = 30° and ∠FPN = 30°\n6. PM intersects AB at Q and PN intersects AB at R\n7. PQR is the required equilateral triangle\n(vi)\n1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 4.8 cm cutting FG at P, PF is the altitude\nm∠P = 60°\nAltitude bisects the angle at the vertex\n5. ∠FPM = 30° and ∠FPN = 30°\n6. PM intersects AB at Q and PN intersects AB at R\n7. PQR is the required equilateral triangle"
+              },
+              {
+                "q": "3. Construct an equilateral triangle PQR in which the measure of its base is 50 mm long.",
+                "a": "1. PQ of length 50 mm\n2. Arc with centre P and radius 50 mm\n3. Arc with centre Q and the same radius cutting the previous arc at R\n4. Join P to R\n5. Join Q to R\n6. mPQ = mQR = mRP = 50 mm\nPQR is the required equilateral triangle"
+              },
+              {
+                "q": "4. Construct an equilateral triangle MNO in which its altitude is 36 mm long.",
+                "a": "1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 36 mm cutting FG at M, MF is the altitude\nm∠M = 60°\nAltitude bisects the angle at the vertex\n5. ∠FMX = 30° and ∠FMY = 30°\n6. MX intersects AB at N and MY intersects AB at O\n7. MNO is the required equilateral triangle"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.4",
+            "items": [
+              {
+                "q": "1. Construct isosceles triangle for following data.\n(i) Base = 4.2 cm, Base angle = 42° (ii) Base = 4.8 cm, Base angle = 48°\n(iii) Base = 38 mm, Base angle = 38° (iv) Base = 45 mm, Base angle = 45°",
+                "a": "(i)\n1. BC of length 4.2 cm\n2. ∠CBM = 42° at B\n3. ∠BCN = 42° at C\n4. Arms of the two angles intersect at A\n5. ABC is the required isosceles triangle\n(ii)\n1. BC of length 4.8 cm\n2. ∠CBM = 48° at B\n3. ∠BCN = 48° at C\n4. Arms of the two angles intersect at A\n5. ABC is the required isosceles triangle\n(iii)\n1. BC of length 38 mm\n2. ∠CBM = 38° at B\n3. ∠BCN = 38° at C\n4. Arms of the two angles intersect at A\n5. ABC is the required isosceles triangle\n(iv)\n1. BC of length 45 mm\n2. ∠CBM = 45° at B\n3. ∠BCN = 45° at C\n4. Arms of the two angles intersect at A\n5. ABC is the required isosceles triangle"
+              },
+              {
+                "q": "2. Construct the following isosceles triangles when the measure of vertical angles and altitude is given.\n(i) Vertical angle = 76°. Altitude = 4 cm\n(ii) Vertical angle = 80°. Altitude = 5 cm\n(iii) Vertical angle = 90°. Altitude = 5.3 cm\n(iv) Vertical angle = 100°, Altitude = 60 mm",
+                "a": "(i)\n1. MN, a line\n2. O, a point on MN\n3. OS ⊥ MN\n4. Arc with centre O and radius 4 cm cutting OS at Q, QO is the altitude\nVertex angle = 76°\nAltitude bisects the vertex angle\n[[76/2]]° = 38°\n5. ∠OQX = 38° and ∠OQY = 38°\n6. QX intersects OM at P and QY intersects ON at R\n7. PQR is the required isosceles triangle\n(ii)\n1. MN, a line\n2. O, a point on MN\n3. OS ⊥ MN\n4. Arc with centre O and radius 5 cm cutting OS at Q, QO is the altitude\nVertex angle = 80°\nAltitude bisects the vertex angle\n[[80/2]]° = 40°\n5. ∠OQX = 40° and ∠OQY = 40°\n6. QX intersects OM at P and QY intersects ON at R\n7. PQR is the required isosceles triangle\n(iii)\n1. MN, a line\n2. O, a point on MN\n3. OS ⊥ MN\n4. Arc with centre O and radius 5.3 cm cutting OS at Q, QO is the altitude\nVertex angle = 90°\nAltitude bisects the vertex angle\n[[90/2]]° = 45°\n5. ∠OQX = 45° and ∠OQY = 45°\n6. QX intersects OM at P and QY intersects ON at R\n7. PQR is the required isosceles triangle\n(iv)\n1. MN, a line\n2. O, a point on MN\n3. OS ⊥ MN\n4. Arc with centre O and radius 60 mm cutting OS at Q, QO is the altitude\nVertex angle = 100°\nAltitude bisects the vertex angle\n[[100/2]]° = 50°\n5. ∠OQX = 50° and ∠OQY = 50°\n6. QX intersects OM at P and QY intersects ON at R\n7. PQR is the required isosceles triangle"
+              },
+              {
+                "q": "3. Construct the following isosceles triangles when the measure of altitude and base angle are given.\n(i) Altitude = 4.5 cm. Base angle = 54°\n(ii) Altitude = 39 mm. Base angle = 65°\n(iii) Altitude = 4.7 cm. Base angle = 70°\n(iv) Altitude = 59 mm. Base anlgle = 75°",
+                "a": "(i)\nVertex angle = 180° − (54° + 54°) = 72°\n1. MN, a line\n2. R, a point on MN\n3. RS ⊥ MN\n4. Arc with centre R and radius 4.5 cm cutting RS at X, XR is the altitude\n5. ∠RXE = [[72/2]]° = 36°\n6. ∠RXF = [[72/2]]° = 36°\n7. XE intersects RM at Y\n8. XF intersects RN at Z\n9. XYZ is the required isosceles triangle\n(ii)\nVertex angle = 180° − (65° + 65°) = 50°\n1. MN, a line\n2. R, a point on MN\n3. RS ⊥ MN\n4. Arc with centre R and radius 39 mm cutting RS at X, XR is the altitude\n5. ∠RXE = [[50/2]]° = 25°\n6. ∠RXF = [[50/2]]° = 25°\n7. XE intersects RM at Y\n8. XF intersects RN at Z\n9. XYZ is the required isosceles triangle\n(iii)\nVertex angle = 180° − (70° + 70°) = 40°\n1. MN, a line\n2. R, a point on MN\n3. RS ⊥ MN\n4. Arc with centre R and radius 4.7 cm cutting RS at X, XR is the altitude\n5. ∠RXE = [[40/2]]° = 20°\n6. ∠RXF = [[40/2]]° = 20°\n7. XE intersects RM at Y\n8. XF intersects RN at Z\n9. XYZ is the required isosceles triangle\n(iv)\nVertex angle = 180° − (75° + 75°) = 30°\n1. MN, a line\n2. R, a point on MN\n3. RS ⊥ MN\n4. Arc with centre R and radius 59 mm cutting RS at X, XR is the altitude\n5. ∠RXE = [[30/2]]° = 15°\n6. ∠RXF = [[30/2]]° = 15°\n7. XE intersects RM at Y\n8. XF intersects RN at Z\n9. XYZ is the required isosceles triangle"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.5",
+            "items": [
+              {
+                "q": "A. Construct the following parallelograms in which the lengths of two adjacent sides and the measurement of their included angle are given as under:\n1. Parallelogram PQRS, mPQ = 5.9 cm, mQR = 4.1 cm, m∠PQR = 65°.",
+                "a": "1. PQ of length 5.9 cm\n2. ∠PQX = 65° at Q\n3. Arc with centre Q and radius 4.1 cm cutting QX at R\n4. Arc with centre R and radius 5.9 cm\n5. Arc with centre P and radius 4.1 cm cutting the previous arc at S\n6. Join P to S\n7. Join R to S\nPQRS is the required parallelogram"
+              },
+              {
+                "q": "A. Construct the following parallelograms in which the lengths of two adjacent sides and the measurement of their included angle are given as under:\n2. Parallelogram CDEF, mCD = 63 mm, mDE = 39 mm, m∠CDE = 70°.",
+                "a": "1. CD of length 63 mm\n2. ∠CDX = 70° at D\n3. Arc with centre D and radius 39 mm cutting DX at E\n4. Arc with centre E and radius 63 mm\n5. Arc with centre C and radius 39 mm cutting the previous arc at F\n6. Join C to F\n7. Join E to F\nCDEF is the required parallelogram"
+              },
+              {
+                "q": "A. Construct the following parallelograms in which the lengths of two adjacent sides and the measurement of their included angle are given as under:\n3. Parallelogram ABCD, mAB = 6.6 cm, mAD = 4 cm, m∠BAD = 50°.",
+                "a": "1. AB of length 6.6 cm\n2. ∠BAX = 50° at A\n3. Arc with centre A and radius 4 cm cutting AX at D\n4. Arc with centre B and radius 4 cm\n5. Arc with centre D and radius 6.6 cm cutting the previous arc at C\n6. Join B to C\n7. Join D to C\nABCD is the required parallelogram"
+              },
+              {
+                "q": "A. Construct the following parallelograms in which the lengths of two adjacent sides and the measurement of their included angle are given as under:\n4. Parallelogram RSTU, mRS = 70 mm, mST = 45 mm, m∠RST = 80°.",
+                "a": "1. RS of length 70 mm\n2. ∠RSX = 80° at S\n3. Arc with centre S and radius 45 mm cutting SX at T\n4. Arc with centre T and radius 70 mm\n5. Arc with centre R and radius 45 mm cutting the previous arc at U\n6. Join R to U\n7. Join T to U\nRSTU is the required parallelogram"
+              },
+              {
+                "q": "A. Construct the following parallelograms in which the lengths of two adjacent sides and the measurement of their included angle are given as under:\n5. Parallelogram ACEG, mAC = 7.5 cm, mCE = 3.4 cm, m∠ACE = 75°.",
+                "a": "1. AC of length 7.5 cm\n2. ∠ACX = 75° at C\n3. Arc with centre C and radius 3.4 cm cutting CX at E\n4. Arc with centre E and radius 7.5 cm\n5. Arc with centre A and radius 3.4 cm cutting the previous arc at G\n6. Join A to G\n7. Join E to G\nACEG is the required parallelogram"
+              },
+              {
+                "q": "A. Construct the following parallelograms in which the lengths of two adjacent sides and the measurement of their included angle are given as under:\n6. Parallelogram LMNO, mON = 6 cm, mMN = 3.5 cm, m∠MNO = 55°",
+                "a": "1. ON of length 6 cm\n2. ∠ONX = 55° at N\n3. Arc with centre N and radius 3.5 cm cutting NX at M\n4. Arc with centre M and radius 6 cm\n5. Arc with centre O and radius 3.5 cm cutting the previous arc at L\n6. Join O to L\n7. Join M to L\nLMNO is the required parallelogram"
+              },
+              {
+                "q": "B. Construct the following parallelograms in which the measurement of two adjacent sides and the length of one diagonal are given as under:\n1. Parallelogram ABCD, mBC = 6 cm, mCD = 4 cm, mBD = 7.3 cm.",
+                "a": "1. BD of length 7.3 cm\n2. Arc with centre D and radius 4 cm on the upper side of BD\n3. Arc with centre B and radius 6 cm on the upper side of BD cutting the previous arc at C\n4. Join D to C\n5. Join B to C\n6. Arc with centre D and radius 6 cm on the lower side of BD\n7. Arc with centre B and radius 4 cm on the lower side of BD cutting the previous arc at A\n8. Join A to D\n9. Join A to B\n10. ABCD is the required parallelogram"
+              },
+              {
+                "q": "B. Construct the following parallelograms in which the measurement of two adjacent sides and the length of one diagonal are given as under:\n2. Parallelogram BDFH, mBD = 50 mm, mBH = 30 mm, mHD = 64 mm.",
+                "a": "1. HD of length 64 mm\n2. Arc with centre D and radius 50 mm on the upper side of HD\n3. Arc with centre H and radius 30 mm on the upper side of HD cutting the previous arc at B\n4. Join D to B\n5. Join H to B\n6. Arc with centre D and radius 30 mm on the lower side of HD\n7. Arc with centre H and radius 50 mm on the lower side of HD cutting the previous arc at F\n8. Join D to F\n9. Join H to F\n10. BDFH is the required parallelogram"
+              },
+              {
+                "q": "B. Construct the following parallelograms in which the measurement of two adjacent sides and the length of one diagonal are given as under:\n3. Parallelogram ACEG, mAC = 6.6 cm, mAG = 3.3 cm, mCG = 7.9 cm.",
+                "a": "1. CG of length 7.9 cm\n2. Arc with centre C and radius 6.6 cm on the upper side of CG\n3. Arc with centre G and radius 3.3 cm on the upper side of CG cutting the previous arc at A\n4. Join C to A\n5. Join G to A\n6. Arc with centre C and radius 3.3 cm on the lower side of CG\n7. Arc with centre G and radius 6.6 cm on the lower side of CG cutting the previous arc at E\n8. Join C to E\n9. Join G to E\n10. ACEG is the required parallelogram"
+              },
+              {
+                "q": "B. Construct the following parallelograms in which the measurement of two adjacent sides and the length of one diagonal are given as under:\n4. Parallelogram PQRS, mRS = 4.8 cm, mRQ = 2.9 cm, mSQ = 7 cm.",
+                "a": "1. SQ of length 7 cm\n2. Arc with centre S and radius 4.8 cm on the upper side of SQ\n3. Arc with centre Q and radius 2.9 cm on the upper side of SQ cutting the previous arc at R\n4. Join S to R\n5. Join Q to R\n6. Arc with centre S and radius 2.9 cm on the lower side of SQ\n7. Arc with centre Q and radius 4.8 cm on the lower side of SQ cutting the previous arc at P\n8. Join S to P\n9. Join Q to P\n10. PQRS is the required parallelogram"
+              },
+              {
+                "q": "B. Construct the following parallelograms in which the measurement of two adjacent sides and the length of one diagonal are given as under:\n5. Parallelogram RSTU, mRS = 59 mm, mST = 36 mm, mTR = 7.5 cm.",
+                "a": "1. TR of length 7.5 cm\n2. Arc with centre R and radius 59 mm on the upper side of TR\n3. Arc with centre T and radius 36 mm on the upper side of TR cutting the previous arc at S\n4. Join R to S\n5. Join T to S\n6. Arc with centre R and radius 36 mm on the lower side of TR\n7. Arc with centre T and radius 59 mm on the lower side of TR cutting the previous arc at U\n8. Join R to U\n9. Join T to U\n10. RSTU is the required parallelogram"
+              },
+              {
+                "q": "B. Construct the following parallelograms in which the measurement of two adjacent sides and the length of one diagonal are given as under:\n6. Parallelogram UVWX, mUX = 7 cm, mUV = 5 cm, mVX = 9 cm",
+                "a": "1. VX of length 9 cm\n2. Arc with centre V and radius 5 cm on the upper side of VX\n3. Arc with centre X and radius 7 cm on the upper side of VX cutting the previous arc at U\n4. Join V to U\n5. Join X to U\n6. Arc with centre V and radius 7 cm on the lower side of VX\n7. Arc with centre X and radius 5 cm on the lower side of VX cutting the previous arc at W\n8. Join V to W\n9. Join X to W\n10. UVWX is the required parallelogram"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.6",
+            "items": [
+              {
+                "q": "I. Verify in the following that the sum of the measures of the angles of a triangle is 180°. Measure three angles of each triangle by protractor. Find their sum.\n1. [Figure: triangle ABC.] 2. [Figure: triangle DEF.] 3. [Figure: triangle MNL, right angled at L.] 4. [Figure: triangle PQR.]",
+                "a": "Angles measured with a protractor\n1. ΔABC: m∠A + m∠B + m∠C = 180°\n2. ΔDEF: m∠D + m∠E + m∠F = 180°\n3. ΔMNL: m∠M + m∠N + m∠L = 180°\n4. ΔPQR: m∠P + m∠Q + m∠R = 180°\nThe sum of the measures of the angles of a triangle is 180°"
+              },
+              {
+                "q": "II. Draw any three different triangles and measure the angles of each triangle. Also verify that the sum of the angles of a triangle is 180°.",
+                "a": "Three different triangles\nAngles measured with a protractor\nm∠1 + m∠2 + m∠3 = 180° in each triangle\nThe sum of the measures of the angles of a triangle is 180°"
+              },
+              {
+                "q": "III. Verify in the following that the sum of the measures of four angles of a quadrilateral is 360°. First we measure the angles with the help of protractor, and then find their sum.\n1. [Figure: quadrilateral ABCD.] 2. [Figure: quadrilateral PQRS.] 3. [Figure: quadrilateral LMNO.]\n4. [Figure: quadrilateral CDEF.] 5. [Figure: quadrilateral TWXY.] 6. [Figure: quadrilateral MQOP.]",
+                "a": "Angles measured with a protractor\n1. ABCD: m∠A + m∠B + m∠C + m∠D = 360°\n2. PQRS: m∠P + m∠Q + m∠R + m∠S = 360°\n3. LMNO: m∠L + m∠M + m∠N + m∠O = 360°\n4. CDEF: m∠C + m∠D + m∠E + m∠F = 360°\n5. TWXY: m∠T + m∠W + m∠X + m∠Y = 360°\n6. MQOP: m∠M + m∠Q + m∠O + m∠P = 360°\nThe sum of the measures of four angles of a quadrilateral is 360°"
+              },
+              {
+                "q": "IV. Draw any two quadrilaterals. Measure all the angles of each and every quadrilateral. Verify that the sum of the angles of a quadrilateral is 360°.",
+                "a": "Two quadrilaterals\nAngles measured with a protractor\nSum of the four angles = 360° in each quadrilateral\nThe sum of the measures of the angles of a quadrilateral is 360°"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "A. Answer the following short questions.\n1. What is a line segment? Describe its properties.",
+                "a": "A line segment is a portion of a line with two end points\nIt has two end points\nIt has a length\nIt can be divided into a given number of equal parts\nIt can be divided internally in a given ratio"
+              },
+              {
+                "q": "A. Answer the following short questions.\n2. What is triangle? Describe its properties.",
+                "a": "A triangle is a polygon with three sides and three angles\nThe sum of the measures of its three angles is 180°\nThree elements are needed to construct a triangle"
+              },
+              {
+                "q": "A. Answer the following short questions.\n3. Name the different kinds of a triangle.",
+                "a": "By sides: equilateral triangle, isosceles triangle, scalene triangle\nBy angles: acute angled triangle, right angled triangle, obtuse angled triangle"
+              },
+              {
+                "q": "A. Answer the following short questions.\n4. When two line segments will be congruent?",
+                "a": "Two line segments are congruent when they are of equal length\nAB ≅ CD when mAB = mCD"
+              },
+              {
+                "q": "A. Answer the following short questions.\n5. What is the sum of the angles of a triangle? Verify it with the help of a protractor.",
+                "a": "The sum of the angles of a triangle is 180°\nBC ∥ EF through D\nm∠BDE = m∠DEF (alternate angles)\nm∠CDF = m∠DFE (alternate angles)\nm∠DEF + m∠EDF + m∠DFE = 180° (angles on a straight line)"
+              },
+              {
+                "q": "A. Answer the following short questions.\n6. What is a quadrilateral describe only the names of different kinds.",
+                "a": "Parallelogram\nRectangle\nSquare\nRhombus\nTrapezium"
+              },
+              {
+                "q": "A. Answer the following short questions.\n7. What are the properties of an equilateral triangle?",
+                "a": "Three congruent sides\nEach angle measures 60°\nAltitude bisects the vertex angle\nAltitude is perpendicular to the base"
+              },
+              {
+                "q": "A. Answer the following short questions.\n8. Is square a rectangle, a parallelogram or a rhombus?",
+                "a": "Yes, a square is a rectangle\nA square is a parallelogram\nA square is a rhombus"
+              },
+              {
+                "q": "A. Answer the following short questions.\n9. What is the sum of the angles of a quadrilateral? Verify it with proof.",
+                "a": "The sum of the angles of a quadrilateral is 360°\nDiagonal PR divides quadrilateral PQRS into ΔPSR and ΔPQR\nSum of the angles of ΔPSR = 180°\nSum of the angles of ΔPQR = 180°\nm∠P + m∠Q + m∠R + m∠S = 180° + 180° = 360°"
+              },
+              {
+                "q": "A. Answer the following short questions.\n10. Define an altitude and vertex angle of a triangle?",
+                "a": "Altitude: a perpendicular segment from a vertex of a triangle to the base\nVertex angle: the angle at the vertex opposite the base, between the two congruent sides of an isosceles triangle"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n1. Divide a line segment of 10.5 cm in the ratio of 3:4.",
+                "a": "1. CD of length 10.5 cm\n2. CE making an acute angle of 40° with CD\n3. DF making the same acute angle of 40° with CD, on the opposite side\n4. Seven (3 + 4) arcs of equal measure cutting CE\n5. Seven arcs of the same measure cutting DF\n6. The 3rd point from C joined to the 4th point from D, cutting CD at O\n10.5 ÷ (3 + 4) = 1.5\nmCO = 3 × 1.5 = 4.5 cm\nmOD = 4 × 1.5 = 6 cm\nmCO : mOD = 3:4"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n2. Divide a line segment 11.9 cm in the ratio of 2:4:2.",
+                "a": "1. XY of length 11.9 cm\n2. XA making an acute angle of 40° with XY\n3. YB making the same acute angle of 40° with XY, on the opposite side\n4. Eight (2 + 4 + 2) arcs of equal measure cutting XA at a, b, c, d, e, f, g and h\n5. Eight arcs of the same measure cutting YB at 8, 7, 6, 5, 4, 3, 2 and 1\n6. Join b with 6 and f with 2, cutting XY at C and D\n11.9 ÷ (2 + 4 + 2) = 1.4875\nmXC = 2 × 1.4875 = 2.975 cm\nmCD = 4 × 1.4875 = 5.95 cm\nmDY = 2 × 1.4875 = 2.975 cm\nmXC : mCD : mDY = 2:4:2"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n3. Construct an isosceles triangle in which base measures 52 mm and measure of base angle is 70°.",
+                "a": "1. BC of length 52 mm\n2. ∠CBM = 70° at B\n3. ∠BCN = 70° at C\n4. Arms of the two angles intersect at A\nVertex angle = 180° − (70° + 70°) = 40°\nABC is the required isosceles triangle"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n4. Construct a parallelogram PQRS in which mSR = 4.1 cm, mQR = 3.1 cm and m∠QRS = 70°.",
+                "a": "1. SR of length 4.1 cm\n2. ∠SRX = 70° at R\n3. Arc with centre R and radius 3.1 cm cutting RX at Q\n4. Arc with centre Q and radius 4.1 cm\n5. Arc with centre S and radius 3.1 cm cutting the previous arc at P\n6. Join S to P\n7. Join Q to P\nPQRS is the required parallelogram"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n5. Construct an equilateral triangle whose altitude is of length 6 cm.",
+                "a": "1. AB, a line of suitable length\n2. F, a point on AB\n3. FG ⊥ AB\n4. Arc with centre F and radius 6 cm cutting FG at P, PF is the altitude\nm∠P = 60°\nAltitude bisects the angle at the vertex\n5. ∠FPM = 30° and ∠FPN = 30°\n6. PM intersects AB at Q and PN intersects AB at R\n7. PQR is the required equilateral triangle"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n6. Construct a triangle whose perimeter is 129 mm. The ratio between the lengths of the sides is 3:4:5.",
+                "a": "1. AB of length 129 mm (= perimeter of the triangle)\n2. AB divided in the ratio 3:4:5, with division points P and Q on AB\nSide 1 = 32.25 mm\nSide 2 = 43 mm\nSide 3 = 53.75 mm\n129 ÷ (3 + 4 + 5) = 10.75\n3. Arc with centre P and radius 32.25 mm\n4. Arc with centre Q and radius 53.75 mm cutting the previous arc at R\n5. Join R to P\n6. Join R to Q\nPerimeter = 32.25 + 43 + 53.75 = 129 mm\nRatio of sides = 3:4:5"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n7. Construct an isosceles triangle in which altitude is 6.2 cm and the vertex angle is 40°.",
+                "a": "1. MN, a line\n2. O, a point on MN\n3. OS ⊥ MN\n4. Arc with centre O and radius 6.2 cm cutting OS at Q, QO is the altitude\nVertex angle = 40°\nAltitude bisects the vertex angle\n[[40/2]]° = 20°\n5. ∠OQX = 20° and ∠OQY = 20°\n6. QX intersects OM at P and QY intersects ON at R\n7. PQR is the required isosceles triangle"
+              },
+              {
+                "q": "B. Construct the following with neat and clean figure.\n8. Construct a parallelogram in which the lengths of two adjacent sides are 43 mm and 32 mm. The length of one of its diagonal is 6.4 cm.",
+                "a": "1. Diagonal of length 6.4 cm\n2. Arc with centre at one end of the diagonal and radius 43 mm on the upper side of the diagonal\n3. Arc with centre at the other end of the diagonal and radius 32 mm on the upper side of the diagonal cutting the previous arc at the third vertex\n4. Join the third vertex to both ends of the diagonal\n5. Arc with centre at one end of the diagonal and radius 32 mm on the lower side of the diagonal\n6. Arc with centre at the other end of the diagonal and radius 43 mm on the lower side of the diagonal cutting the previous arc at the fourth vertex\n7. Join the fourth vertex to both ends of the diagonal\nThe parallelogram is complete"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n1. A polygon with three sides, three vertices with a sum of interior angles 180° is called ___.\n(a) quadrilateral (b) line segment (c) triangle (d) circle",
+                "a": "(c) triangle"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n2. Base angle of an isosceles triangle is ___. When the vertex angle is 56°.\n(a) 67° (b) 70° (c) 60° (d) 90°",
+                "a": "(180° − 56°) ÷ 2 = 62°\nBase angle = 62°\nNone of the given options is correct"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n3. A parallelogram with each of its angle 90° is ___.\n(a) Circle (b) Rectangle (c) Trapezium (d) Triangle",
+                "a": "(b) Rectangle"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n4. Two line segments OP and QR are congruent, if\n(a) mOP = mQR (b) mOP > mQR (c) mOP < mQR\n(d) mOP ≠ mQR.",
+                "a": "(a) mOP = mQR"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n5. The sum of the interior angles of a quadrilateral is ___.\n(a) 90° (b) 180° (c) 270° (d) 360°",
+                "a": "(d) 360°"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n6. A quadrilateral whose opposite sides are congruent and parallel is called ___.\n(a) Trapezium (b) Parallelogram (c) Square (d) Rectangle",
+                "a": "(b) Parallelogram"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n7. In a triangle, the sum of two base angles is 90°. Then the measure of its vertex angle is ___.\n(a) 45° (b) 90° (c) 135° (d) 180°",
+                "a": "180° − 90° = 90°\n(b) 90°"
+              },
+              {
+                "q": "C. Tick (√) the correct answer.\n8. In a quadrilateral the sum of the three angles of a quadrilateral is 270°, then the measure of its fourth angle is ___.\n(a) 90° (b) 180° (c) 270° (d) 360°",
+                "a": "360° − 270° = 90°\n(a) 90°"
+              }
+            ]
+          }
+        ],
+        "display": "Practical Geometry"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "C = πd\nC = [[22/7]] × d\n(1) C = [[22/7]] × 28 cm = 22 × 4 cm = 88 cm\n(2) C = [[22/7]] × 35 cm = 22 × 5 cm = 110 cm\n(3) C = [[22/7]] × 42 mm = 22 × 6 mm = 132 mm\n(4) C = [[22/7]] × 56 mm = 22 × 8 mm = 176 mm",
+                "q": "Find the circumference of the circle when its diameter is:\n(1) d = 28 cm    (2) d = 35 cm    (3) d = 42 mm    (4) d = 56 mm"
+              },
+              {
+                "a": "C = 2πr\nC = 2 × [[22/7]] × r\n(1) C = 2 × [[22/7]] × 10.5 cm = 2 × 22 × 1.5 cm = 66 cm\n(2) C = 2 × [[22/7]] × 28 cm = 2 × 22 × 4 cm = 176 cm\n(3) C = 2 × [[22/7]] × 38.5 cm = 2 × 22 × 5.5 cm = 242 cm\n(4) C = 2 × [[22/7]] × 49 cm = 2 × 22 × 7 cm = 308 cm\n(5) C = 2 × [[22/7]] × 59.5 cm = 2 × 22 × 8.5 cm = 374 cm\n(6) C = 2 × [[22/7]] × 63 cm = 2 × 22 × 9 cm = 396 cm\n(7) C = 2 × [[22/7]] × 80.5 cm = 2 × 22 × 11.5 cm = 506 cm\n(8) C = 2 × [[22/7]] × 77 cm = 2 × 22 × 11 cm = 484 cm",
+                "q": "Find the circumference of the circle when its radius is:\n(1) 10.5 cm    (2) 28 cm    (3) 38.5 cm    (4) 49 cm\n(5) 59.5 cm    (6) 63 cm    (7) 80.5 cm    (8) 77 cm"
+              },
+              {
+                "a": "C = 2πr\nr = C × 7 ÷ 44\n(1) r = 22 × 7 ÷ 44 cm = 3.5 cm\n(2) r = 66 × 7 ÷ 44 cm = 10.5 cm\n(3) r = 88 × 7 ÷ 44 cm = 14 cm\n(4) r = 110 × 7 ÷ 44 cm = 17.5 cm\n(5) r = 132 × 7 ÷ 44 cm = 21 cm\n(6) r = 176 × 7 ÷ 44 cm = 28 cm\n(7) r = 220 × 7 ÷ 44 cm = 35 cm\n(8) r = 198 × 7 ÷ 44 cm = 31.5 cm",
+                "q": "Find the radius of the circle when its circumference is:\n(1) 22 cm    (2) 66 cm    (3) 88 cm    (4) 110 cm\n(5) 132 cm    (6) 176 cm    (7) 220 cm    (8) 198 cm"
+              },
+              {
+                "a": "C = πd\nd = C × 7 ÷ 22\n(1) d = 44 × 7 ÷ 22 cm = 14 cm\n(2) d = 154 × 7 ÷ 22 cm = 49 cm\n(3) d = 242 × 7 ÷ 22 mm = 77 mm\n(4) d = 264 × 7 ÷ 22 mm = 84 mm\n(5) d = 48.4 × 7 ÷ 22 mm = 15.4 mm\n(6) d = 30.8 × 7 ÷ 22 cm = 9.8 cm\n(7) d = 52.8 × 7 ÷ 22 cm = 16.8 cm\n(8) d = 39.6 × 7 ÷ 22 mm = 12.6 mm",
+                "q": "Find the diameter of the circle, when its circumference is:\n(1) 44 cm    (2) 154 cm    (3) 242 mm    (4) 264 mm\n(5) 48.4 mm    (6) 30.8 cm    (7) 52.8 cm    (8) 39.6 mm"
+              },
+              {
+                "a": "Distance = 2πr\nDistance = 2 × [[22/7]] × r\n(1) Distance = 2 × [[22/7]] × 1.4 cm = 2 × 22 × 0.2 cm = 8.8 cm\n(2) Distance = 2 × [[22/7]] × 21 mm = 2 × 22 × 3 mm = 132 mm\n(3) Distance = 2 × [[22/7]] × 35 mm = 2 × 22 × 5 mm = 220 mm\n(4) Distance = 2 × [[22/7]] × 2.8 cm = 2 × 22 × 0.4 cm = 17.6 cm\n(5) Distance = 2 × [[22/7]] × 42 mm = 2 × 22 × 6 mm = 264 mm",
+                "q": "Complete the table. Minute hand completes one round in 1 hour.\nS.No. | Length of minute hand of a clock is r | Find the distance covered by the minute hand\n1. | r = 1.4 cm | (i) Distance = 2πr = 2 × [[22/7]] × 1.4 = 8.8 cm\n2. | r = 21 mm\n3. | r = 35 mm\n4. | r = 2.8 cm\n5. | r = 42 mm"
+              },
+              {
+                "a": "Length of string = Circumference = πd\n(1) Length of string = [[22/7]] × 21 cm = 66 cm\n(2) Length of string = [[22/7]] × 56 cm = 176 cm\n(3) Length of string = [[22/7]] × 1.4 m = 4.4 m",
+                "q": "Find the minimum length of the string required to measure the circular boundary in each of the following:\n(1) [A plate, diameter 21 cm]\n(2) [A tyre, diameter 56 cm]\n(3) [A round table, diameter 1.4 m]"
+              }
+            ],
+            "label": "Exercise 12.1"
+          },
+          {
+            "items": [
+              {
+                "a": "Area = πr^2\nArea = [[22/7]] × r × r\n(1) Area = [[22/7]] × 14 × 14 sq. cm = 22 × 2 × 14 sq. cm = 616 sq. cm\n(2) Area = [[22/7]] × 10.5 × 10.5 sq. cm = 22 × 1.5 × 10.5 sq. cm = 346.5 sq. cm\n(3) Area = [[22/7]] × 21 × 21 sq. cm = 22 × 3 × 21 sq. cm = 1386 sq. cm\n(4) Area = [[22/7]] × 17.5 × 17.5 sq. mm = 22 × 2.5 × 17.5 sq. mm = 962.5 sq. mm\n(5) Area = [[22/7]] × 35 × 35 sq. mm = 22 × 5 × 35 sq. mm = 3850 sq. mm\n(6) Area = [[22/7]] × 24.5 × 24.5 sq. cm = 22 × 3.5 × 24.5 sq. cm = 1886.5 sq. cm\n(7) Area = [[22/7]] × 71.4 × 71.4 sq. cm = 22 × 10.2 × 71.4 sq. cm = 16022.16 sq. cm\n(8) Area = [[22/7]] × 38.5 × 38.5 sq. cm = 22 × 5.5 × 38.5 sq. cm = 4658.5 sq. cm",
+                "q": "Find the area of circular region when its radius is:\n(1) 14 cm    (2) 10.5 cm    (3) 21 cm    (4) 17.5 mm\n(5) 35 mm    (6) 24.5 cm    (7) 71.4 cm    (8) 38.5 cm"
+              },
+              {
+                "a": "Area = πr^2\nr^2 = Area × 7 ÷ 22\n(1) r^2 = 154 × 7 ÷ 22 = 49\nr = √49 = 7 mm\n(2) r^2 = 2464 × 7 ÷ 22 = 784\nr = √784 = 28 cm\n(3) r^2 = 7546 × 7 ÷ 22 = 2401\nr = √2401 = 49 mm\n(4) r^2 = 5544 × 7 ÷ 22 = 1764\nr = √1764 = 42 mm\n(5) r^2 = 6.16 × 7 ÷ 22 = 1.96\nr = √1.96 = 1.4 mm\n(6) r^2 = 962.5 × 7 ÷ 22 = 306.25\nr = √306.25 = 17.5 cm\n(7) r^2 = 38.5 × 7 ÷ 22 = 12.25\nr = √12.25 = 3.5 m\n(8) r^2 = 75.46 × 7 ÷ 22 = 24.01\nr = √24.01 = 4.9 mm\n(9) r^2 = 13.86 × 7 ÷ 22 = 4.41\nr = √4.41 = 2.1 m",
+                "q": "Find the radius of the circular region when its area is:\n(1) 154 sq. mm    (2) 2,464 sq. cm    (3) 7546 sq. mm\n(4) 5,544 sq. mm    (5) 6.16 sq. mm    (6) 962.5 sq. cm\n(7) 38.5 sq. m    (8) 75.46 sq. mm    (9) 13.86 sq. m"
+              },
+              {
+                "a": "r = d ÷ 2\nArea = πr^2\n(1) r = 21 ÷ 2 cm = 10.5 cm, Area = [[22/7]] × 10.5 × 10.5 sq. cm = 346.5 sq. cm\n(2) r = 28 ÷ 2 cm = 14 cm, Area = [[22/7]] × 14 × 14 sq. cm = 616 sq. cm\n(3) r = 42 ÷ 2 cm = 21 cm, Area = [[22/7]] × 21 × 21 sq. cm = 1386 sq. cm\n(4) r = 56 ÷ 2 cm = 28 cm, Area = [[22/7]] × 28 × 28 sq. cm = 2464 sq. cm\n(5) r = 8.4 ÷ 2 cm = 4.2 cm, Area = [[22/7]] × 4.2 × 4.2 sq. cm = 55.44 sq. cm\n(6) r = 9.8 ÷ 2 cm = 4.9 cm, Area = [[22/7]] × 4.9 × 4.9 sq. cm = 75.46 sq. cm\n(7) r = 11.2 ÷ 2 cm = 5.6 cm, Area = [[22/7]] × 5.6 × 5.6 sq. cm = 98.56 sq. cm\n(8) r = 12.6 ÷ 2 cm = 6.3 cm, Area = [[22/7]] × 6.3 × 6.3 sq. cm = 124.74 sq. cm",
+                "q": "Find the area of circular region when its diameter is:\n(1) 21 cm    (2) 28 cm    (3) 42 cm    (4) 56 cm\n(5) 8.4 cm    (6) 9.8 cm    (7) 11.2 cm    (8) 12.6 cm"
+              },
+              {
+                "a": "r^2 = Area × 7 ÷ 22\nd = 2r\n(1) r^2 = 154 × 7 ÷ 22 = 49, r = 7 cm, d = 14 cm\n(2) r^2 = 1386 × 7 ÷ 22 = 441, r = 21 mm, d = 42 mm\n(3) r^2 = 3850 × 7 ÷ 22 = 1225, r = 35 mm, d = 70 mm\n(4) r^2 = 9856 × 7 ÷ 22 = 3136, r = 56 mm, d = 112 mm\n(5) r^2 = 124.74 × 7 ÷ 22 = 39.69, r = 6.3 cm, d = 12.6 cm\n(6) r^2 = 186.34 × 7 ÷ 22 = 59.29, r = 7.7 cm, d = 15.4 cm\n(7) r^2 = 221.76 × 7 ÷ 22 = 70.56, r = 8.4 cm, d = 16.8 cm\n(8) r^2 = 260.26 × 7 ÷ 22 = 82.81, r = 9.1 cm, d = 18.2 cm",
+                "q": "Find the diameter of the circular region when its area is as under:\n(1) 154 cm^2    (2) 1,386 (mm^2)    (3) 3,850 (mm^2)    (4) 9,856 mm^2\n(5) 124.74 cm^2    (6) 186.34 cm^2    (7) 221.76 cm^2    (8) 260.26 cm^2"
+              }
+            ],
+            "label": "Exercise 12.2"
+          },
+          {
+            "items": [
+              {
+                "a": "Total surface area = 2πr(r + h)\n(1) A = 2 × [[22/7]] × 14 × (14 + 26) sq. cm = 2 × 22 × 2 × 40 sq. cm = 3520 sq. cm\n(2) A = 2 × [[22/7]] × 10 × (10 + 18) sq. cm = 2 × 22 × 10 × 4 sq. cm = 1760 sq. cm\n(3) A = 2 × [[22/7]] × 21 × (21 + 29) sq. mm = 2 × 22 × 3 × 50 sq. mm = 6600 sq. mm\n(4) A = 2 × [[22/7]] × 17.5 × (17.5 + 22.5) sq. cm = 2 × 22 × 2.5 × 40 sq. cm = 4400 sq. cm\n(5) A = 2 × [[22/7]] × 30 × (30 + 40) sq. cm = 2 × 22 × 30 × 10 sq. cm = 13200 sq. cm\n(6) A = 2 × [[22/7]] × 25 × (25 + 41.5) sq. mm = 2 × 22 × 25 × 9.5 sq. mm = 10450 sq. mm",
+                "q": "Find the total surface area of the cylindrical region when the radius of the base of cylinder and height of the cylinder are given.\n(1) Radius = 14 cm, height = 26 cm\n(2) Radius = 10 cm, height = 18 cm\n(3) Radius = 21 mm, height = 29 mm\n(4) Radius = 17.5 cm, height = 22.5 cm\n(5) Radius = 30 cm, height = 40 cm\n(6) Radius = 25 mm, height = 41.5 mm"
+              },
+              {
+                "a": "A = 2πr(r + h)\n(1) 1980 = 2 × [[22/7]] × 10.5 × (10.5 + h)\n1980 = 66 × (10.5 + h)\n10.5 + h = 1980 ÷ 66 = 30\nh = 30 − 10.5 = 19.5 cm\n(2) 4400 = 2 × [[22/7]] × 17.5 × (17.5 + h)\n4400 = 110 × (17.5 + h)\n17.5 + h = 4400 ÷ 110 = 40\nh = 40 − 17.5 = 22.5 cm\n(3) 2112 = 2 × [[22/7]] × 12 × (12 + h)\n12 + h = 2112 × 7 ÷ 528 = 28\nh = 28 − 12 = 16 mm\n(4) 3960 = 2 × [[22/7]] × 15 × (15 + h)\n15 + h = 3960 × 7 ÷ 660 = 42\nh = 42 − 15 = 27 cm\n(5) 10560 = 2 × [[22/7]] × 28 × (28 + h)\n10560 = 176 × (28 + h)\n28 + h = 10560 ÷ 176 = 60\nh = 60 − 28 = 32 cm",
+                "q": "Find the height of the cylindrical region when its radius and total surface area are given.\n(1) Radius = 10.5 cm, total surface area = 1980 cm^2\n(2) Radius = 17.5 cm, total surface area = 4400 cm^2\n(3) Radius = 12 mm, total surface area = 2112 mm^2\n(4) Radius = 15 cm, total surface area = 3960 cm^2\n(5) Radius = 28 cm, total surface area = 10560 cm^2"
+              },
+              {
+                "a": "A = 2πr(r + h)\n(1) 1408 = 2 × [[22/7]] × r × 28\n1408 = 176 × r\nr = 1408 ÷ 176 = 8 cm\nh = 28 − 8 = 20 cm\n(2) 3300 = 2 × [[22/7]] × r × 35\n3300 = 220 × r\nr = 3300 ÷ 220 = 15 cm\nh = 35 − 15 = 20 cm\n(3) 5852 = 2 × [[22/7]] × r × 49\n5852 = 308 × r\nr = 5852 ÷ 308 = 19 cm\nh = 49 − 19 = 30 cm\n(4) 6864 = 2 × [[22/7]] × r × 56\n6864 = 352 × r\nr = 6864 ÷ 352 = 19.5 mm\nh = 56 − 19.5 = 36.5 mm",
+                "q": "Solve the following.\n1. Find the value of radius and height of a cylinder. The sum of its radius and height is 28 cm. Also total surface area of the cylinder is 1408 cm^2.\n2. The sum of radius and height of a cylinder is 35 cm. The total area of the cylinder is 3,300 cm^2. Find its radius and height separately.\n3. Find the value of radius and height of a cylinder when sum of its radius and height is 49 cm and total surface area is 5,852 cm^2.\n4. The sum of radius and height of a cylinder is 56 mm. The total surface area is 6,864 (mm)^2. Find the radius and height of the cylinder."
+              }
+            ],
+            "label": "Exercise 12.3"
+          },
+          {
+            "items": [
+              {
+                "a": "V = πr^2 h\n(1) V = [[22/7]] × 14 × 14 × 20 cm^3 = 22 × 2 × 14 × 20 cm^3 = 12320 cm^3\n(2) V = [[22/7]] × 25 × 25 × 35 cm^3 = 22 × 625 × 5 cm^3 = 68750 cm^3\n(3) V = [[22/7]] × 28 × 28 × 40 cm^3 = 22 × 112 × 40 cm^3 = 98560 cm^3\n(4) V = [[22/7]] × 20 × 20 × 28 cm^3 = 22 × 400 × 4 cm^3 = 35200 cm^3\n(5) V = [[22/7]] × 1.05 × 1.05 × 2.5 m^3 = 22 × 0.15 × 1.05 × 2.5 m^3 = 8.6625 m^3\n(6) V = [[22/7]] × 63.5 × 63.5 × 75 cm^3 = [[22/7]] × 4032.25 × 75 cm^3 = 950458.93 cm^3\n(7) r = 70 ÷ 2 mm = 35 mm\nV = [[22/7]] × 35 × 35 × 50 mm^3 = 22 × 5 × 35 × 50 mm^3 = 192500 mm^3\n(8) r = 60 ÷ 2 mm = 30 mm\nV = [[22/7]] × 30 × 30 × 63 mm^3 = 22 × 900 × 9 mm^3 = 178200 mm^3",
+                "q": "In each of the following, the radius of the base of cylinder and its height is given. What is the volume in each case?\n(1) Radius = 14 cm and height = 20 cm\n(2) Radius = 25 cm and height = 35 cm\n(3) Radius = 28 cm and height = 40 cm\n(4) Radius = 20 cm and height = 28 cm\n(5) Radius = 1.05 m and height = 2.5 m\n(6) Radius = 63.5 cm and height = 75 cm\n(7) Diameter = 70 mm and height = 50 mm\n(8) Diameter = 60 mm and height = 63 mm"
+              },
+              {
+                "a": "V = πr^2 h\nh = V ÷ (πr^2)\n(1) h = 15400 ÷ ([[22/7]] × 14 × 14) cm = 15400 ÷ 616 cm = 25 cm\n(2) h = 35200 ÷ ([[22/7]] × 20 × 20) cm = 35200 × 7 ÷ 8800 cm = 28 cm\n(3) h = 82500 ÷ ([[22/7]] × 25 × 25) mm = 82500 × 7 ÷ 13750 mm = 42 mm\n(4) h = 305085 ÷ ([[22/7]] × 21.5 × 21.5) mm = 305085 × 7 ÷ 10169.5 mm = 210 mm\n(5) h = 99000 ÷ ([[22/7]] × 30 × 30) mm = 99000 × 7 ÷ 19800 mm = 35 mm\n(6) h = 98560 ÷ ([[22/7]] × 28 × 28) cm = 98560 ÷ 2464 cm = 40 cm",
+                "q": "In each of the following, the radius of the base of the cylinder and its volume is given. What is the height of cylinder in each case?\n(1) Radius = 14 cm and volume = 15,400 cubic centimetres\n(2) Radius = 20 cm and volume = 35,200 cubic centimetres\n(3) Radius = 25 mm and volume = 82,500 cubic millimetres\n(4) Radius = 21.5 mm and volume = 305,085 cubic millimetres\n(5) Radius = 30 mm and volume = 99,000 cubic millimetres\n(6) Radius = 28 cm and volume = 98,560 cubic centimetres"
+              },
+              {
+                "a": "V = πr^2 h\nr^2 = V × 7 ÷ (22 × h)\n(1) r^2 = 34650 × 7 ÷ (22 × 25) = 441\nr = √441 = 21 cm\n(2) r^2 = 12320 × 7 ÷ (22 × 20) = 196\nr = √196 = 14 m\n(3) r^2 = 35200 × 7 ÷ (22 × 28) = 400\nr = √400 = 20 cm\n(4) r^2 = 118800 × 7 ÷ (22 × 42) = 900\nr = √900 = 30 cm\n(5) r^2 = 281600 × 7 ÷ (22 × 56) = 1600\nr = √1600 = 40 mm\n(6) r^2 = 41580 × 7 ÷ (22 × 30) = 441\nr = √441 = 21 cm",
+                "q": "In each of the following, the height of the cylinder and its volume is given. What is the radius of the base of the cylinder in each case?\n(1) Height = 25 cm and volume = 34,650 cubic centimetres\n(2) Height = 20 m and volume = 12,320 cubic metres\n(3) Height = 28 cm and volume = 35,200 cubic centimetres\n(4) Height = 42 cm and volume = 118,800 cubic centimetres\n(5) Height = 56 mm and volume = 281,600 cubic millimetres\n(6) Height = 30 cm and volume = 41,580 cubic centimetres"
+              }
+            ],
+            "label": "Exercise 12.4"
+          },
+          {
+            "items": [
+              {
+                "a": "d = 70 m\nr = 70 ÷ 2 m = 35 m\nC = 2πr = 2 × [[22/7]] × 35 m = 220 m\nLength of wire for 5 rounds = 5 × 220 m = 1100 m\nCost of wire = 1100 × 10 = Rs 11000",
+                "q": "The diameter of a circular garden is 70 m. The garden has 5 rounds of wire fencing. If the wire costs Rs 10 per metre. Find [the total cost of the wire fencing]."
+              },
+              {
+                "a": "Perimeter of square = 4 × 22 cm = 88 cm\nLength of wire = 88 cm\nCircumference of ring = 88 cm\n2πr = 88\nr = 88 × 7 ÷ 44 cm = 14 cm",
+                "q": "Find the radius of a circular ring prepared from a wire used for a square with side 22 cm."
+              },
+              {
+                "a": "C = 2πr = 2 × [[22/7]] × 42 cm = 264 cm\nDistance for 1000 rotations = 264 × 1000 cm = 264000 cm\n264000 cm = 2640 m = 2.64 km",
+                "q": "The radius of a bicycle wheel is 42 cm. Each wheel completed 1000 rotations when Ahmed travelled from home to school. Find [the distance travelled from home to school]."
+              },
+              {
+                "a": "Length of wire = 3960 ÷ 5 m = 792 m\nCircumference of one round = 792 ÷ 4 m = 198 m\n2πr = 198\nr = 198 × 7 ÷ 44 m = 31.5 m",
+                "q": "The total cost of the wire required for four rounds of a circular fencing is Rs 3,960. If the wire costs Rs 5 per metre; find the [radius of the circular fencing]."
+              },
+              {
+                "a": "Perimeter of triangle = 3 × 13.2 m = 39.6 m\nCircumference of ring = 39.6 m\n2πr = 39.6\nr = 39.6 × 7 ÷ 44 m = 6.3 m",
+                "q": "A piece of wire is bent in the shape of an equilateral triangle, having each side 13.2 m. It is again re-bent to form a circular ring. [Find the radius of the circular ring.]"
+              },
+              {
+                "a": "r = 14 m\nArea = πr^2 = [[22/7]] × 14 × 14 sq. m = 616 sq. m\nCost of gardening = 616 × 20 = Rs 12320",
+                "q": "What is the area of a circular garden and the cost of gardening it at the rate of Rs 20 per sq. metre? When the radius of the [garden is 14 m — the printed question breaks off here; 14 m is the radius given by the book's answer key]."
+              },
+              {
+                "a": "Outer diameter = 49 m, Outer radius R = 49 ÷ 2 m = 24.5 m\nInner diameter = 35 m, Inner radius r = 35 ÷ 2 m = 17.5 m\nArea of outer circle = [[22/7]] × 24.5 × 24.5 sq. m = 1886.5 sq. m\nArea of inner circle = [[22/7]] × 17.5 × 17.5 sq. m = 962.5 sq. m\nArea of road = 1886.5 − 962.5 sq. m = 924 sq. m\nCost of cementing = 924 × 100 = Rs 92400",
+                "q": "There are two circular grounds. The outer circular ground has diameter 49 m. The inner circular ground has diameter 35 m. Find the area of the road and the cost of cementing it at Rs 100 per sq. metre."
+              },
+              {
+                "a": "d = 2.8 m\nr = 2.8 ÷ 2 m = 1.4 m\nArea = πr^2 = [[22/7]] × 1.4 × 1.4 sq. m = 6.16 sq. m\nCost of polishing = 6.16 × 100 = Rs 616",
+                "q": "There is a round wooden table of 2.8 m diameter. Find the area of the surface of the table and the cost of polishing it at the rate [of Rs 100 per sq. m — the rate is missing in print; Rs 100 is taken from the book's answer key]."
+              },
+              {
+                "a": "r = 3.5 m\nArea = πr^2 = [[22/7]] × 3.5 × 3.5 sq. m = 38.5 sq. m\nCost of cementing = 38.5 × 75 = Rs 2887.50",
+                "q": "A circular fountain is built in the centre of crossing. Its radius is 3.5 m. What is the area of the fountain? Also find the cost of [cementing it at Rs 75 per sq. m — the rate is missing in print; Rs 75 is taken from the book's answer key]."
+              },
+              {
+                "a": "d = 3.5 m\nr = 3.5 ÷ 2 m = 1.75 m\nArea = πr^2 = [[22/7]] × 1.75 × 1.75 sq. m = 9.625 sq. m\nCost of table cover = 9.625 × 80 = Rs 770",
+                "q": "A table cover is made to cover a round dinning table. The diameter of the table cover is 3.5 m. What is area of the table cover? Also [find the cost of the table cover at Rs 80 per sq. m — the rate is missing in print; Rs 80 is taken from the book's answer key]."
+              }
+            ],
+            "label": "Exercise 12.5"
+          },
+          {
+            "items": [
+              {
+                "a": "r = 10.5 m, h = 8 m\nArea of floor = πr^2 = [[22/7]] × 10.5 × 10.5 sq. m = 346.5 sq. m\nCurved surface area = 2πrh = 2 × [[22/7]] × 10.5 × 8 sq. m = 528 sq. m\nArea to be cemented = 346.5 + 528 sq. m = 874.5 sq. m\nCost of cementing = 874.5 × 50 = Rs 43725",
+                "q": "The radius of an open pond in a cylindrical shape is 10.5 m and depth is 8 m. Find the cost of cementing its floor and curved [surface at Rs 50 per sq. m — the rate is missing in print; Rs 50 is taken from the book's answer key]."
+              },
+              {
+                "a": "r = 7 m, h = 8.4 m\nTotal surface area = 2πr(r + h) = 2 × [[22/7]] × 7 × (7 + 8.4) sq. m = 44 × 15.4 sq. m = 677.6 sq. m\nCost of tank = 677.6 × 100 = Rs 67760",
+                "q": "Find the total surface area of a cylidrical steel tank 8.4 m long. The radius of its circular base is 7 m. Also find its cost at the rate of Rs 100 per sq. metre."
+              },
+              {
+                "a": "d = 2.8 m\nr = 2.8 ÷ 2 m = 1.4 m, h = 5 m\nArea of base = πr^2 = [[22/7]] × 1.4 × 1.4 sq. m = 6.16 sq. m\nCurved surface area = 2πrh = 2 × [[22/7]] × 1.4 × 5 sq. m = 44 sq. m\nSteel sheet required = 6.16 + 44 sq. m = 50.16 sq. m\nCost of tank = 50.16 × 300 = Rs 15048",
+                "q": "An open cylindrical tank has a base of diametre 2.8 m. The height of the tank is 5m. Find how many square metres of steel sheet are required for the tank. Also find the cost of the tank at [Rs 300 per sq. m — the rate is missing in print; Rs 300 is taken from the book's answer key]."
+              },
+              {
+                "a": "h = 2.8 m, r = 7 cm = 0.07 m\nCurved surface area = 2πrh = 2 × [[22/7]] × 0.07 × 2.8 sq. m = 1.232 sq. m",
+                "q": "The length of a steel pipe is 2.8 m and radius 7 cm. Calculate its [curved surface area]."
+              },
+              {
+                "a": "r = 0.35 m, h = 1.5 m\nTotal surface area = 2πr(r + h) = 2 × [[22/7]] × 0.35 × (0.35 + 1.5) sq. m = 2 × [[22/7]] × 0.35 × 1.85 sq. m = 4.07 sq. m",
+                "q": "Find the total surface area of oil drum whose length is 1.5 m and [radius is 0.35 m — the radius is missing in print; 0.35 m is taken from the book's answer key]."
+              },
+              {
+                "a": "d = 4.2 m = 420 cm\nr = 420 ÷ 2 cm = 210 cm, h = 5 m = 500 cm\nV = πr^2 h = [[22/7]] × 210 × 210 × 500 cm^3 = 69300000 cm^3\nCapacity = 69300000 ÷ 1000 litres = 69300 litres",
+                "q": "Find the capacity of a circular water tank in litres when the height of the tank is 5 m and its diameter is 4.2 m. (Hint: Convert metres into centimetres and 1 litre = 1000 cm^3)."
+              },
+              {
+                "a": "r = 25 cm, h = 63 cm\nV = πr^2 h = [[22/7]] × 25 × 25 × 63 cm^3 = 123750 cm^3\nCapacity = 123750 ÷ 1000 litres = 123.75 litres",
+                "q": "A cylindrical tin can is 63 cm high and its radius is 25 cm. Find [its volume and its capacity in litres]."
+              },
+              {
+                "a": "d = 7 m\nr = 7 ÷ 2 m = 3.5 m, h = 16 m\nV = πr^2 h = [[22/7]] × 3.5 × 3.5 × 16 m^3 = 616 m^3\nSoil dug out = 616 m^3",
+                "q": "A well is 16 m deep and its diameter is 7 m. How much soil is [dug out of the well]?"
+              },
+              {
+                "a": "r = 3.5 cm, h = 10.5 cm\nV = πr^2 h = [[22/7]] × 3.5 × 3.5 × 10.5 cm^3 = 404.25 cm^3\nCapacity = 404.25 ÷ 1000 litres = 0.40425 litres = 0.4 litres (approx)",
+                "q": "A tin pack of a soft drink is 10.5 cm long and the radius of the [tin pack is 3.5 cm — the radius is missing in print; 3.5 cm is taken from the book's answer key. Find its volume and its capacity in litres]."
+              },
+              {
+                "a": "d = 3.5 m\nr = 3.5 ÷ 2 m = 1.75 m, h = 24 m\nV = πr^2 h = [[22/7]] × 1.75 × 1.75 × 24 m^3 = 231 m^3\nCost of digging = 231 × 250 = Rs 57750",
+                "q": "The diameter of a circular well is 3.5 m and its depth is 24 m. What will be the cost of digging it at the rate of Rs 250 per [cubic metre]."
+              },
+              {
+                "a": "V = 11 m^3, h = 3.5 m\nV = πr^2 h\n11 = [[22/7]] × r^2 × 3.5\nr^2 = 11 × 7 ÷ (22 × 3.5) = 1\nr = √1 = 1 m",
+                "q": "Find the radius of an oil drum whose volume is 11 m^3. [The height of the drum is 3.5 m — the height is missing in print; 3.5 m is taken from the book's answer key]."
+              },
+              {
+                "a": "Capacity = 3850 litres\nV = 3850 × 1000 cm^3 = 3850000 cm^3\nr = 70 cm\nV = πr^2 h\n3850000 = [[22/7]] × 70 × 70 × h\n3850000 = 15400 × h\nh = 3850000 ÷ 15400 cm = 250 cm = 2.5 m",
+                "q": "The capacity of an oil drum is 3850 litres. What is its volume in cm^3. Find its height in metres when its radius is 70 cm."
+              },
+              {
+                "a": "d = 28 m\nr = 28 ÷ 2 m = 14 m, h = 8.75 m\nArea of curved walls = 2πrh = 2 × [[22/7]] × 14 × 8.75 sq. m = 770 sq. m\nCost of tiles = 770 × 200 = Rs 154000",
+                "q": "The internal diameter of a round cylindrical shape mosque is 28 m and height of curved walls is 8.75 m. Find the cost of tiles using on the walls only at the rate of Rs 200 per m^2."
+              },
+              {
+                "a": "d = 42 m\nr = 42 ÷ 2 m = 21 m, h = 5 m\nArea of base = πr^2 = [[22/7]] × 21 × 21 sq. m = 1386 sq. m\nArea of curved walls = 2πrh = 2 × [[22/7]] × 21 × 5 sq. m = 660 sq. m\nArea to be tiled = 1386 + 660 sq. m = 2046 sq. m\nCost of tiles = 2046 × 100 = Rs 204600",
+                "q": "The internal diameter of a swimming pool is 42 m. The depth is 5 m. Calculate the cost of tiles using round the wall at the rate of Rs 100 per m^2."
+              }
+            ],
+            "label": "Exercise 12.6"
+          },
+          {
+            "items": [
+              {
+                "a": "(1) Circumference = length of the boundary of a circle\nC = 2πr\nC = πd\n(2) Circumference ÷ Diameter = π\nC = π × d\n(3) Diameter = a line segment through the centre of the circle joining two points on the circle\nd = 2 × r\n(4) Radius = distance from the centre of the circle to a point on the circle\nArea of circle A = πr^2\n(5) Total surface area of cylinder A = 2πr(r + h)\n(6) Volume of cylinder V = πr^2 h\n(7) d = C ÷ π\nd = C × 7 ÷ 22\n(8) r = h\nV = πr^2 h = πr^3",
+                "q": "Answer the following:\n1. What is circumference of a circle. Give formula to find circumference.\n2. What is relation between diameter and circumference?\n3. What is diameter of a circle? Give relation between radius and diameter.\n4. What is radius of a circle? Give formula for finding area of a circle.\n5. Write the formula for total surface area of a cylinder.\n6. What is volume of a cylinder? Express its formula.\n7. What is the formula for finding diameter from circumference of a circle?\n8. In a cylinder when radius = height, what is the formula for finding volume of a cylinder?"
+              },
+              {
+                "a": "(1) 2πrh\n(2) Cylinder\n(3) Cylinder\n(4) m^3\n(5) 3.142",
+                "q": "Fill in the blanks:\n1. The formula for finding curved surface area of the cylinder is ___.\n2. Tin pack of soft drink is an example of ___.\n3. Take ten coins of Rs 5 and stake up a file then ___ type of shape is obtained.\n4. When radius of cylinder is in metres; the unit for volume of cylinder will be ___.\n5. The value of π upto three decimal places is ___."
+              },
+              {
+                "a": "1. C = πd = [[22/7]] × 7 cm = 22 cm — (iv)\n2. A = πr^2 = [[22/7]] × 1 × 1 sq. cm = [[22/7]] sq. cm — (i)\n3. A = πr^2 = [[22/7]] × [[1/22]] sq. cm = [[1/7]] sq. cm — (ii)\n4. Curved surface area = 2πrh = 2 × [[22/7]] × 7 × [[1/22]] sq. cm = 2 sq. cm — (ii)\n5. Total surface area = 2πr(r + h) = 2π × 1 × (1 + 1) sq. cm = 4π sq. cm — (iii)\n6. V = πr^2 h = [[22/7]] × 1 × 1 × 1 cm^3 = [[22/7]] cm^3 — (i)\n7. Area of two bases = 2πr^2 = 2 × [[22/7]] × 1 × 1 sq. cm = [[44/7]] sq. cm — (ii)\n8. V = πr^2 h = [[22/7]] × 1 × 1 × 1 m^3 = [[22/7]] m^3 — (iii)\n9. Distance = 2πr = 2 × [[22/7]] × 3.5 cm = 22 cm — (i)\n10. Area = π(2r)^2 = 4πr^2 — (iii) Four times",
+                "q": "Solve the following mentally and (✓) the correct answer.\n1. The circumference of a circle is ___ cm when its diameter is 7 cm.\n(i) [[22/7]] (ii) [[7/22]] (iii) 7 (iv) 22\n2. The area of a circle is ___ sq. cm when its radius is 1 cm.\n(i) [[22/7]] (ii) [[7/22]] (iii) [[1/7]] (iv) [[1/22]]\n3. The area of circular base of cylinder is ___ sq.cm when the value of r^2 = [[1/22]] sq.cm.\n(i) 7 (ii) [[1/7]] (iii) 22 (iv) [[1/22]]\n4. Area of curved surface of a cylinder is ___ cm^2 when r = 7 cm and h = [[1/22]] cm.\n(i) 1 (ii) 2 (iii) 3 (iv) 4\n5. Total surface area of a cylinder is ___ cm^2 when r = 1 cm and h = 1 cm.\n(i) 2π (ii) 3π (iii) 4π (iv) π\n6. Volume of a cylinder is ___ cm^3 when r = 1 cm and h = 1 cm.\n(i) [[22/7]] (ii) [[7/22]] (iii) 22 (iv) 7\n7. Area of circular upper base and lower base of cylinder is ___ cm^2 when r = 1 cm.\n(i) [[22/7]] (ii) [[44/7]] (iii) [[7/22]] (iv) [[7/44]]\n8. Height of an oil drum is 1 m and radius of the drum is also 1 m. Then its volume is ___ m^3.\n(i) 7 (ii) 22 (iii) [[22/7]] (iv) [[7/22]]\n9. The length of the minute hand of a clock is 3.5 cm. The distance covered in 1 hour is ___ cm.\n(i) 22 cm (ii) 7 cm (iii) 3.5 cm (iv) 2.2 cm\n10. In a circle the radius is increased by twice in length. The area of the circle will be increased by ___.\n(i) Twice (ii) Thrice (iii) Four times (iv) None of these"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Circumference, Area and Volume",
+        "unit": 12,
+        "display": "Circumference, Area and Volume"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "Books sold in ascending order: 21, 22, 24, 25, 27, 28, 30\nGroup | Class Interval | Tally Marks | Frequency\n1st | 21 – 22 | || | 2\n2nd | 23 – 24 | | | 1\n3rd | 25 – 26 | | | 1\n4th | 27 – 28 | || | 2\n5th | 29 – 30 | | | 1\nTotal |  |  | 7",
+                "q": "A book store sold the following number of story books, last week. Construct a frequency distribution table.\nName of Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday\nBbooks sold | 24 | 25 | 27 | 28 | 22 | 30 | 21"
+              },
+              {
+                "a": "Greatest value = 7180\nLowest value = 3560\nSize of class = (7180 − 3560) ÷ 5 = 3620 ÷ 5 = 724\nSize of class = 1000\nGroup | Class Interval | Tally Marks | Frequency\n1st | 3001 – 4000 | | | 1\n2nd | 4001 – 5000 | || | 2\n3rd | 5001 – 6000 | |||| | 4\n4th | 6001 – 7000 | ||| | 3\n5th | 7001 – 8000 | || | 2\nTotal |  |  | 12",
+                "q": "The electricity bills paid by 12 consumers are given below. Make a frequency distribution table of 5 classes of an equal size.\nRs 5100, Rs 7000, Rs 3560, Rs 6030, Rs 4220, Rs 6740, Rs 4810, Rs 5450, Rs 7180, Rs 5920, Rs 6850 and Rs 5690."
+              },
+              {
+                "a": "Group | Class Interval | Tally Marks | Frequency\n1st | 551 – 650 | ||||| | | 6\n2nd | 651 – 750 | ||||| |||| | 9\n3rd | 751 – 850 | ||||| | 5\nTotal |  |  | 20",
+                "q": "In an annual examination, 20 students of a school got the following marks out of 850 marks. Construct a frequency distribution table by taking 100 as a class interval.\n551, 786, 678, 725, 788, 580, 720, 690, 750, 651, 599, 609, 719, 760, 625, 775, 646, 667, 753, 675."
+              },
+              {
+                "a": "Group | Class Interval | Tally Marks | Frequency\n1st | 100 – 120 | ||||| | 5\n2nd | 121 – 140 | ||||| ||| | 8\n3rd | 141 – 160 | ||||| ||| | 8\n4th | 161 – 180 | ||||| | | 6\n5th | 181 – 200 | ||| | 3\nTotal |  |  | 30",
+                "q": "The following data shows the number of children who visited the zoo in last month.\n134, 167, 145, 130, 155, 142, 130, 180, 162, 130, 120, 165, 170, 110, 200, 185, 132, 140, 110, 170, 100, 160, 133, 150, 125, 110, 145, 155, 160, 200.\nConstruct a frequency distribution table by taking 10 as a class interval."
+              },
+              {
+                "a": "Greatest value = 50\nLowest value = 10\nSize of class = (50 − 10) ÷ 5 = 40 ÷ 5 = 8\nGroup | Class Interval | Tally Marks | Frequency\n1st | 10 – 17 | ||||| | | 6\n2nd | 18 – 25 | |||| | 4\n3rd | 26 – 33 | |||| | 4\n4th | 34 – 41 | ||||| || | 7\n5th | 42 – 50 | ||||| |||| | 9\nTotal |  |  | 30",
+                "q": "There are 30 students in class VII who secured following marks in a Mathematics Test.\n45, 19, 49, 17, 37, 10, 25, 28, 50, 46, 43, 34, 25, 50, 48 46, 42, 34, 33, 11, 28, 19, 30, 17, 13, 11, 39, 41, 35, 34.\nMake a frequency distribution table using 5 as a class interval of an equal size."
+              }
+            ],
+            "label": "Exercise 13.1"
+          },
+          {
+            "items": [
+              {
+                "a": "Total students = 80\nAngle for passed = [[60/80]] × 360° = 270°\nAngle for failed = [[20/80]] × 360° = 90°\nPassed = 270°\nFailed = 90°\n270° + 90° = 360°",
+                "q": "In mathematics quiz 80 students appeared. 60 students passed and 20 students failed. Represent it through pie chart."
+              },
+              {
+                "a": "Total students = 36\nAngle = [[Number of students/36]] × 360°\nRed = [[16/36]] × 360° = 160°\nBlue = [[9/36]] × 360° = 90°\nPink = [[7/36]] × 360° = 70°\nWhite = [[4/36]] × 360° = 40°\n160° + 90° + 70° + 40° = 360°",
+                "q": "In class VII there are 36 students. The favourite colour of 16 is red, 9 is blue. 7 students like pink colour and four liked white. Make a pie chart of it."
+              },
+              {
+                "a": "Total fruits = 12 + 24 + 16 + 8 = 60\nAngle = [[Number of fruits/60]] × 360°\nApple = [[12/60]] × 360° = 72°\nBanana = [[24/60]] × 360° = 144°\nMango = [[16/60]] × 360° = 96°\nPeach = [[8/60]] × 360° = 48°\n72° + 144° + 96° + 48° = 360°",
+                "q": "Sara and her friends eat fruits in a week as shown in the table.\nName of fruit | Apple | Banana | Mango | Peach\nNo. of fruits | 12 | 24 | 16 | 8\nBy using the table draw a pie graph."
+              },
+              {
+                "a": "Total quantity = 180 + 124 + 330 + 86 = 720\nAngle = [[Quantity/720]] × 360°\nCold drink = [[180/720]] × 360° = 90°\nSandwich = [[124/720]] × 360° = 62°\nBurger = [[330/720]] × 360° = 165°\nSamosa = [[86/720]] × 360° = 43°\n90° + 62° + 165° + 43° = 360°",
+                "q": "In a party, Mr. Jamal served the guest by following food items.\nFood Items | Cold drink | Sandwich | Burger | Samosa\nQuantity | 180 | 124 | 330 | 86\nUse the table to draw a pie graph."
+              },
+              {
+                "a": "(i) Frequency table\nGreatest value = 92\nLowest value = 9\nSize of class = (92 − 9) ÷ 6 = 83 ÷ 6 = 13.83 = 14\nGroup | Class Interval | Tally Marks | Frequency\n1st | 9 – 22 | || | 2\n2nd | 23 – 36 | |||| | 4\n3rd | 37 – 50 | ||||| | 5\n4th | 51 – 64 | ||| | 3\n5th | 65 – 78 | || | 2\n6th | 79 – 92 | ||||| | | 6\nTotal |  |  | 22\n(ii) Pie chart\nTotal frequency = 22\nAngle = [[Frequency/22]] × 360°\n1st group = 33°\n2nd group = 66°\n3rd group = 81°\n4th group = 49°\n5th group = 33°\n6th group = 98°\n33° + 66° + 81° + 49° + 33° + 98° = 360°",
+                "q": "The following data shows the distance in km that Hooria travelled in last month.\n90, 44, 55, 49, 28, 9, 92, 27, 18, 84, 50, 60, 79, 69, 24, 89, 63, 74, 35, 48, 39, 80.\nConstruct the frequency table using 6 as class interval of an equal size. Also draw its pie chart."
+              },
+              {
+                "a": "(i) Chicken, 90 students\nChicken angle = 180°\nChicken students = [[180/360]] × 180 = 90\n(ii) Vegetables, 20 students\nVegetables angle = 40°\nVegetables students = [[40/360]] × 180 = 20\n(iii) Noodles in pasta students = [[50/360]] × 180 = 25\n(iv) Favourite meals | Frequency | Angle\nChicken | 90 | 180°\nNoodles in pasta | 25 | 50°\nVegetables | 20 | 40°\nFish and Chips | 45 | 90°\nTotal | 180 | 360°",
+                "q": "Hina asked 180 students, about their favourite meal. She drew a pie graph. Read the pie-graph and answer the following:\n(i) What is the most favourite meal? And how many students liked it?\n(ii) Which food is liked by the least number of students? And how many students liked it?\n(iii) How many students liked noodles in pasta?\n(iv) Use the pie graph and complete the table.\n[Pie graph: Chicken 180°, Noodles in Pasta 50°, Vegetables 40°, Fish and Chips 90°]\nFavourite meals | Frequency | Angle\nChicken | 90 | 180°\nNoodles in pasta |  | 50°\nVegetables |  | \nFish and Chips | 40 | \nTotal | 180 | "
+              }
+            ],
+            "label": "Exercise 13.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) data\n(ii) frequency\n(iii) raw\n(iv) lower class limit\n(v) frequency table\n(vi) presentation\n(vii) tallying\n(viii) upper class limit\n(ix) size or length\n(x) pie-graph",
+                "q": "Fill in the blanks.\n(i) Information are called ___ which are normally the results of measurements, observations or experiments.\n(ii) The number of values that occurs in a group of data is called ___.\n(iii) A data is collected in ___ form and it provides us information about individuals.\n(iv) The smallest value of a class interval is called ___.\n(v) The table which shows the frequency of class intervals is called ___.\n(vi) After collection of data, the most important step is ___.\n(vii) The method which is used to record the result is called ___.\n(viii) The greatest value of a class interval is called the ___ limit.\n(ix) The number of values in a class interval is called its ___.\n(x) The representation of a numerical data in the form of sectors of a circle is called a ___."
+              },
+              {
+                "a": "(i) (d) 360°\n(ii) (c) 50\n(iii) (a) 9\n(iv) Size of class = (21 − 3) ÷ 3 = 18 ÷ 3 = 6 — (b) 6",
+                "q": "Tick (✓) the correct answers.\n(i) In pie graph, the measure of central angle is:\n(a) 90° (b) 18° (c) 24° (d) 360°\n(ii) In the class interval (10 – 50), the upper class limit is:\n(a) 11 (b) 10 (c) 50 (d) 51\n(iii) In the class interval (9 – 12), the lower class limit is:\n(a) 9 (b) 7 (c) 13 (d) 14\n(iv) In a grouped data, greatest value = 21, lowest value = 3, and number of interval = 3, then the size of the class is:\n(a) 3 (b) 6 (c) 18 (d) 21"
+              },
+              {
+                "a": "Group | Class Interval | Tally Marks | Frequency\n1st | 1 – 10 | ||||| || | 7\n2nd | 11 – 20 | ||||| ||||| | | 11\n3rd | 21 – 30 | ||||| ||||| | 10\n4th | 31 – 40 | ||||| |||| | 9\n5th | 41 – 50 | ||| | 3\nTotal |  |  | 40",
+                "q": "The ages of visitor in park during a week are given below. Group the data taking 10 as the size of an interval.\n25, 50, 49, 47, 26, 10, 2, 1, 15, 17, 18, 19, 27, 28, 30, 35, 17, 32, 31, 3, 4, 9, 10, 15, 12, 13, 17, 24, 20, 22, 24, 26, 30, 17, 35, 40, 36, 32, 31, 37."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Information Handling",
+        "unit": 13,
+        "display": "Information Handling"
+      }
+    ]
   }
 };
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
@@ -36819,6 +39392,7 @@ function renderSubjectMaterial(cls, subj){
   else if(subj === "English") data = STUDY.shared;
   else if(cls === "ix") data = STUDY.ix;
   else if(cls === "viii") data = STUDY.viii;
+  else if(cls === "vii") data = STUDY.vii;
   matData = data;
   matSubj = subj;
   matCls = cls;
@@ -36835,7 +39409,7 @@ function renderSubjectMaterial(cls, subj){
     return;
   }
   matTabs = [["definitions", "Definitions"], ["notes", "Notes"]];
-  if((cls === "x" || cls === "ix" || cls === "viii") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
+  if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
   matTabs.forEach(function(t){
     html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
   });
@@ -36856,6 +39430,7 @@ function openMatPage(tab, cls, subj){
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
+  else if(c === "vii") data = STUDY.vii;
   if(data) matData = data;
   matExUnit = 0;
   matMathUnit = 0;
@@ -36892,6 +39467,7 @@ function openExUnit(n, cls, subj){
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
+  else if(c === "vii") data = STUDY.vii;
   if(data) matData = data;
   matExUnit = n;
   var h = exUnitHtml(n);
@@ -36972,6 +39548,7 @@ function openMathUnit(n, cls, subj){
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
+  else if(c === "vii") data = STUDY.vii;
   if(data) matData = data;
   matMathUnit = n;
   var h = mathUnitHtml(n);
