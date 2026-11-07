@@ -42877,7 +42877,5305 @@ var STUDY = {
         ],
         "display": "Information Handling"
       }
-    ]
+    ],
+    "exsolutions": [
+      {
+        "reading": "Friends in Trouble",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: I have many friends, but I have three close friends — Ali, Ahmed and Bilal. (Any honest personal answer is acceptable.)",
+                    "q": "How many friends do you have?"
+                  },
+                  {
+                    "a": "No, all friends are not good and helpful. Some friends are sincere and help us in need, while others are selfish and leave us alone in difficult times, as Raheel did in the story.",
+                    "q": "Are all friends that we have good and helpful?"
+                  },
+                  {
+                    "a": "Friends help each other in many ways: they help with homework and studies, they share their things, they guide us when we face difficulties, they comfort us when we are sad, and they stand by us in times of danger and trouble.",
+                    "q": "In what ways do friends help each other?"
+                  },
+                  {
+                    "a": "Model list: A good or ideal friend should be honest, kind, helpful, sincere, sympathetic, trustworthy, patient, faithful and brave. He should never leave his friend alone in danger.",
+                    "q": "Make a list of good qualities that you think a good or an ideal friend should have."
+                  },
+                  {
+                    "a": "Share your list of good qualities with your partner, discuss which qualities are most important, and compare your lists to see which qualities you both chose.",
+                    "q": "Share your list with your partner."
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "c) A friend in need is a friend indeed.",
+                    "q": "If you are asked to select another topic for the story from the following list, which one would you choose? a) Beautiful friends are a blessing b) A beautiful forest c) A friend in need is a friend indeed d) A kind bear"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1 g — sympathetic means kind to someone who is sad or hurt.",
+                    "q": "Match the meaning of the word 'sympathetic' and write the answer in the answer column. Meanings: a. unable to move, b. walked around without any purpose, c. without any success, d. ashamed, e. saying sorry, f. speak very softly, g. kind to someone who is sad or hurt, h. thick, i. those who enjoy nature, j. leave someone because it is dangerous to stay, k. wanted to know."
+                  },
+                  {
+                    "a": "2 i — nature lovers are those who enjoy nature.",
+                    "q": "Match the meaning of the words 'nature lovers' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "3 k — curious means wanted to know.",
+                    "q": "Match the meaning of the word 'curious' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "4 b — wandered means walked around without any purpose.",
+                    "q": "Match the meaning of the word 'wandered' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "5 h — dense means thick.",
+                    "q": "Match the meaning of the word 'dense' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "6 c — in vain means without any success.",
+                    "q": "Match the meaning of the words 'in vain' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "7 j — abandon means leave someone because it is dangerous to stay.",
+                    "q": "Match the meaning of the word 'abandon' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "8 a — paralyzed means unable to move.",
+                    "q": "Match the meaning of the word 'paralyzed' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "9 e — apologising means saying sorry.",
+                    "q": "Match the meaning of the word 'apologising' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "10 f — whisper means speak very softly.",
+                    "q": "Match the meaning of the word 'whisper' and write the answer in the answer column."
+                  },
+                  {
+                    "a": "11 d — embarrassed means ashamed.",
+                    "q": "Match the meaning of the word 'embarrassed' and write the answer in the answer column."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "T — Basit and Raheel studied together in school.",
+                    "q": "Basit and Raheel studied in the same school. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "F — They loved playing cricket in the evening and going to the nearby canal for fishing and to the forest for long walks; they did not play inside the house.",
+                    "q": "They loved playing inside the house. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "F — Basit always helped Raheel with his homework, guided him whenever he faced any difficulty, and even gave him one of his fish when Raheel failed to catch any.",
+                    "q": "Basit never helped Raheel. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "T — Raheel was very good at climbing trees, as he had a tall tree in his house which he had been climbing from an early age.",
+                    "q": "Raheel was good at climbing trees. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "T — Being nature lovers, they went to the forest to enjoy its natural beauty, to listen to the birds chirping, to watch the animals at play and to look at the beautiful flowers.",
+                    "q": "They went to the forest because they enjoyed nature. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "F — The bear came towards them, but it did not attack them. It smelt Basit's body, probably thought he was dead, and walked away without touching him.",
+                    "q": "They were attacked by a bear. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "F — Only Raheel climbed up a tree. Basit did not know how to climb, so he lay flat on the ground and pretended to be dead.",
+                    "q": "Both Basit and Raheel climbed up a tree when they saw a bear. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "T — The bear smelt Basit's body, probably thought he was dead, and did not touch him; soon it just walked away.",
+                    "q": "The bear did not hurt Basit. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "F — Raheel did not save his friend; he abandoned Basit and climbed a tree to save himself. Basit saved himself by lying flat and pretending to be dead.",
+                    "q": "Raheel saved his friend from the bear. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "T — Since Raheel had seen the way out from the top of the tree, both friends quickly got out of the forest and reached their homes.",
+                    "q": "Basit and Raheel reached their homes safely. Write T if the statement is true and F if it is false."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "d. fished — On weekends, they usually went to the nearby canal for fishing.",
+                    "q": "What did both the friends do on the nearby canal on weekends? a. laughed b. joked c. swam d. fished"
+                  },
+                  {
+                    "a": "b. dangerous — Their parents and the villagers had often told them about the dangerous beasts living in the forest.",
+                    "q": "What kind of a place was the forest that they visited? a. safe b. dangerous c. very small d. too dark"
+                  },
+                  {
+                    "a": "c. curious — They were so curious about everything that they just kept on following whatever caught their attention.",
+                    "q": "How did they feel when they visited the forest? a. spellbound b. unhappy c. curious d. depressed"
+                  },
+                  {
+                    "a": "b. because he did not know how to climb a tree — Although Basit was very active and very intelligent, he was not good at climbing trees.",
+                    "q": "Why did Basit not climb tree? a. because he avoided climbing trees b. because he did not know how to climb a tree c. because he was not afraid of animals d. none of these"
+                  },
+                  {
+                    "a": "c. bear — All of a sudden, they saw a huge, black bear coming towards them.",
+                    "q": "What frightened them in the jungle? a. lion b. jackal c. bear d. tiger"
+                  },
+                  {
+                    "a": "d. frightened — They got frightened, and as the bear came nearer, Basit was paralyzed with fear.",
+                    "q": "How did Basit feel when he saw the bear coming towards him? a. happy b. sad c. upset d. frightened"
+                  },
+                  {
+                    "a": "c. It advised him not to trust a friend who leaves his friend at the time of danger.",
+                    "q": "What did Basit say that the animal had whispered in his ear? a. It advised him to trust a friend who leaves his friend at the time of danger. b. It advised him to be honest with a friend who leaves his friend at the time of danger. c. It advised him not to trust a friend who leaves his friend at the time of danger. d. None of these."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Raheel and Basit went for long walks in the forest because they liked listening to the birds chirping, watching the animals at play, and looking at the beautiful flowers.",
+                    "q": "Raheel and Basit went for long walks in the forest because...................."
+                  },
+                  {
+                    "a": "Basit was a kind and helpful boy because his parents had always taught him to be a kind, sympathetic, helpful and sincere person.",
+                    "q": "Basit was a kind and helpful boy because...................."
+                  },
+                  {
+                    "a": "Basit sometimes gave fish to Raheel because Raheel often failed to catch any fish, while Basit often managed to catch more fish than Raheel.",
+                    "q": "Basit sometimes gave fish to Raheel because...................."
+                  },
+                  {
+                    "a": "Raheel was good at climbing trees because he had a tall tree in his house, which he had been climbing from an early age.",
+                    "q": "Raheel was good at climbing trees because...................."
+                  },
+                  {
+                    "a": "They lost their way in the forest because they kept on following whatever caught their attention, not realizing that they had wandered deep into the forest.",
+                    "q": "They lost their way in the forest because...................."
+                  },
+                  {
+                    "a": "When they realized that they were lost, they were worried because their parents and the villagers had often told them about the dangerous beasts living in the forest.",
+                    "q": "When they realized that they were lost, they were worried because...................."
+                  },
+                  {
+                    "a": "When they saw the bear coming, Raheel told Basit to run because Raheel was good at climbing and was going to climb a tree to save himself, and Basit did not know how to climb, so running was his only chance to save his life.",
+                    "q": "When they saw the bear coming, Raheel told Basit to run because...................."
+                  },
+                  {
+                    "a": "Basit was shocked when his friend told him that he was going to climb the tree because he had never expected that his friend would abandon him like this, because he loved and trusted his friend sincerely.",
+                    "q": "Basit was shocked when his friend told him that he was going to climb the tree because...................."
+                  },
+                  {
+                    "a": "Basit laid down on the ground and stopped breathing because, finding no other way to save himself, he pretended to be dead so that the bear would not touch him.",
+                    "q": "Basit laid down on the ground and stopped breathing because...................."
+                  },
+                  {
+                    "a": "They were finally able to get out of the forest quickly because Raheel had seen the way out from the top of the tree.",
+                    "q": "They were finally able to get out of the forest quickly because...................."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The main idea of the story is that a friend in need is a friend indeed. A true friend never leaves his friend alone at the time of danger; Raheel failed this test of friendship, while Basit remained sincere and faithful.",
+                    "q": "What do you think is the main idea of the story?"
+                  },
+                  {
+                    "a": "At the time of danger, Raheel showed his selfish nature. He climbed a tree to save himself and left Basit alone, telling him to run as quickly as he could to save his life.",
+                    "q": "What did Raheel do at the time of danger?"
+                  },
+                  {
+                    "a": "Raheel thought that the bear had whispered something in Basit's ear. From his position high up in the tree, he had seen that the bear had brought its face close to Basit's head and thought that the bear had said something to his friend.",
+                    "q": "What did Raheel think the bear had done?"
+                  },
+                  {
+                    "a": "No, the bear did not actually say anything to Basit. The bear only smelt Basit's body, probably thought he was dead, and walked away. Bears cannot speak, so Basit used the bear's whisper as a clever way to teach Raheel a lesson.",
+                    "q": "Do you think that the bear actually said something to Basit? Why/ why not?"
+                  },
+                  {
+                    "a": "Model answer: If I were Basit, I would do the same as he did — I would lie flat on the ground, stop breathing and pretend to be dead, because that was the only way to save my life. Afterwards, I would tell my friend that a true friend should never leave his friend in danger.",
+                    "q": "What would you do if you were Basit?"
+                  },
+                  {
+                    "a": "Model answer: If I were Raheel, I would not leave my friend alone. I would stay with him and face the danger together, and I would help him climb the tree or hide with him, because a true friend never abandons his friend at the time of danger.",
+                    "q": "What would you do if you were Raheel?"
+                  },
+                  {
+                    "a": "Model answer: After this incident, Raheel felt embarrassed and ashamed, and he did not know what to say. He started to walk away and Basit followed him silently. Both friends got out of the forest and reached their homes safely. Raheel probably learnt his lesson and never left his friend in danger again.",
+                    "q": "What do you think happened after this incident?"
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "1.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Soomar: Hurrah! The final exams are over. How about visiting the Miani forest? Jannat: Oh! It's a great idea! I was also thinking about it. Ayaz: Why not go to a beach? Soomar: A visit to Miani will not only be fun but it will also help us in writing the report for our next year's project work. Ayaz: Oh yes! I remember, the teacher told us about it last week. Jannat: I think going to the Miani forest is a great idea.",
+                    "q": "Work in groups of three and practise the following dialogue at least three times. Change roles every time. (Sample dialogue — making a plan to visit the Miani forest.)"
+                  }
+                ],
+                "label": "Exercise 1 — Making Plans (Miani Forest)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model dialogue — making a plan to visit the museum: Ali: Hurrah! Our exams are over. How about visiting the museum on Sunday? Bilal: Oh! That's a wonderful idea! I have always wanted to see the old coins and swords there. Ahmed: Why not go to the zoo instead? Ali: A visit to the museum will not only be fun but it will also help us in our history project. Bilal: Oh yes! I remember, the teacher told us about the museum last week. Ahmed: I think going to the museum is a great idea. Let us meet at the school gate at 9 o'clock on Sunday morning.",
+                    "q": "Continue working in the same group of three and, based on the above sample, write a dialogue making a plan to visit the museum. After you have developed the dialogue, practise it at least three times. Change roles every time."
+                  }
+                ],
+                "label": "Exercise 2 — Making a Plan to Visit the Museum"
+              }
+            ],
+            "name": "Speaking",
+            "num": "1.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "When I was a child I used to ride a bicycle.",
+                    "q": "Select the correct word from Column B to complete the sentence: When I was a child I used to ___ a bicycle. (Column B: bite, play, take, visit, love, get up, tease, ride)"
+                  },
+                  {
+                    "a": "Essa used to love mangoes.",
+                    "q": "Select the correct word from Column B to complete the sentence: Essa used to ___ mangoes."
+                  },
+                  {
+                    "a": "Seema used to get up early in the morning.",
+                    "q": "Select the correct word from Column B to complete the sentence: Seema used to ___ early in the morning."
+                  },
+                  {
+                    "a": "When I was a child my father used to take care of me.",
+                    "q": "Select the correct word from Column B to complete the sentence: When I was a child my father used to ___ care of me."
+                  },
+                  {
+                    "a": "They used to visit historical places.",
+                    "q": "Select the correct word from Column B to complete the sentence: They used to ___ historical places."
+                  },
+                  {
+                    "a": "Our pet dog used to bite our guests. (This is the only word left in Column B for this sentence; see the flags file.)",
+                    "q": "Select the correct word from Column B to complete the sentence: Our pet dog used to ___ our guests."
+                  },
+                  {
+                    "a": "My grandfather used to play with the children.",
+                    "q": "Select the correct word from Column B to complete the sentence: My grandfather used to ___ with the children."
+                  },
+                  {
+                    "a": "His brother used to tease everyone in the family.",
+                    "q": "Select the correct word from Column B to complete the sentence: His brother used to ___ everyone in the family."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Her brother used to open his shop early in the morning. (Example given in the book.)",
+                    "q": "Use the verb 'open' to make a complete sentence showing a past habitual action."
+                  },
+                  {
+                    "a": "My father used to drive us to school every morning.",
+                    "q": "Use the verb 'drive' to make a complete sentence showing a past habitual action."
+                  },
+                  {
+                    "a": "My mother used to make delicious food for us on Sundays.",
+                    "q": "Use the verb 'make' to make a complete sentence showing a past habitual action."
+                  },
+                  {
+                    "a": "Our teacher used to give us a new story to read every week.",
+                    "q": "Use the verb 'give' to make a complete sentence showing a past habitual action."
+                  },
+                  {
+                    "a": "The old man used to sell vegetables in our street.",
+                    "q": "Use the verb 'sell' to make a complete sentence showing a past habitual action."
+                  },
+                  {
+                    "a": "My grandfather used to call us every evening.",
+                    "q": "Use the verb 'call' to make a complete sentence showing a past habitual action."
+                  },
+                  {
+                    "a": "My uncle used to send us gifts on Eid.",
+                    "q": "Use the verb 'send' to make a complete sentence showing a past habitual action."
+                  },
+                  {
+                    "a": "We used to receive many guests on Eid day.",
+                    "q": "Use the verb 'receive' to make a complete sentence showing a past habitual action."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model list — Good Habits: eat food slowly, do work on time, brush my teeth twice a day, keep my books in order, help my mother in the kitchen. Bad Habits: throw wet towel on the bed, tease younger brother / sister, watch television for a long time, leave my shoes anywhere, talk in the class.",
+                    "q": "When you were in your primary classes which of your habits did your parents like / did not like? Make a list of your good and bad habits in two columns. (Examples given in the book: Good Habits — eat food slowly, do work on time; Bad Habits — throw wet towel on the bed, tease younger brother / sister.)"
+                  },
+                  {
+                    "a": "Model sentences: When I was in class five I used to eat food slowly. When I was in class five I used to do my work on time. When I was in class five I used to throw my wet towel on the bed. When I was in class five I used to tease my younger brother. When I was in class five I used to watch television for a long time.",
+                    "q": "Now use the good and bad habits that you have written in the table to form complete sentences, using 'used to' to talk of past habits. Remember, these should not be habits that you have right now. (Example given in the book: When I was in class five I used to eat food slowly.)"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Please put this book on the table.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: Please put this book ___ the table. (inside, at, on, in)"
+                  },
+                  {
+                    "a": "Her shoes are under the bed.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: Her shoes are ___ the bed. (in, on, under, before)"
+                  },
+                  {
+                    "a": "My teacher is in the class.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: My teacher is ___ the class. (in, at, above, below)"
+                  },
+                  {
+                    "a": "A huge crowd is waiting outside the stadium.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: A huge crowd is waiting ___ the stadium. (on, above, outside, under)"
+                  },
+                  {
+                    "a": "Their house is near their school.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: Their house is ___ their school. (at, near, in, below)"
+                  },
+                  {
+                    "a": "I have put the baby in the cot.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: I have put the baby ___ the cot. (in, at, before, behind)"
+                  },
+                  {
+                    "a": "The train is at the station.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: The train is ___ the station. (in, at, under, above)"
+                  },
+                  {
+                    "a": "Murree is about 7000 ft. above the sea level.",
+                    "q": "Complete the sentence by choosing one word from those given in the brackets: Murree is about 7000 ft. ___ the sea level. (below, behind, on, above)"
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The boys fell in the pond yesterday. (The book's list has no 'into'; see the flags file.)",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier (in, inside, outside, on, under, at, by, beside, near, above, below, behind, among, between): The boys fell ___ the pond yesterday."
+                  },
+                  {
+                    "a": "Let's go inside as it is going to rain.",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier: Let's go ___ as it is going to rain."
+                  },
+                  {
+                    "a": "Many minerals were found below the surface of the earth.",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier: Many minerals were found ___ the surface of the earth."
+                  },
+                  {
+                    "a": "We can get most of the things that we need near our house.",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier: We can get most of the things that we need ___ our house."
+                  },
+                  {
+                    "a": "The old man is resting under the tree as it is very hot.",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier: The old man is resting ___ the tree as it is very hot."
+                  },
+                  {
+                    "a": "I always keep my mobile phone on the top shelf.",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier: I always keep my mobile phone ___ the top shelf."
+                  },
+                  {
+                    "a": "Please go and see who is at the door.",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier: Please go and see who is ___ the door."
+                  },
+                  {
+                    "a": "The mouse is behind the log in the corner.",
+                    "q": "Fill in the blank with a correct preposition from the list given earlier: The mouse is ___ the log in the corner."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model sentences (7 prepositions used — in, on, under, beside, near, among, between): 1. The cat is sitting in the basket. 2. The book is on the table. 3. The ball is under the chair. 4. Ali is standing beside his brother. 5. Our school is near the canal. 6. Sana is sitting among her friends. 7. The shop is between the bank and the post office.",
+                    "q": "Use at least 7 prepositions from the list given earlier (in, inside, outside, on, under, at, by, beside, near, above, below, behind, among, between) in your own sentences."
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "1.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model paragraph: My favourite place is my neighbourhood park. I like it for many reasons. The park is near my house, across the road from our street. To the right of the gate there is a small pond, and to the left there is a children's playground. There are many tall trees in the park, and under the trees there are benches where old people sit and talk. Above the trees, birds sing in the morning. Among the flowers there are roses, jasmine and marigolds. Similarly, there is a walking track around the park where people walk in the evening. I also like the swings and the slides in the park. In short, my neighbourhood park is the most beautiful and peaceful place for me.",
+                    "q": "Write a descriptive paragraph on My Favourite Place in your notebooks, based on the guidelines given below. Use the helping words: above, under, nearby, opposite to, near, across, below, to the right, to the left, similarly, among, also. Topic Sentence (given in the book): My favourite place is my neighbourhood park. I like it for many reasons."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model paragraph on 'My School': My school is a beautiful and well-known school in our town. It is near the main road, opposite the hospital. There are twenty classrooms, a library, a science laboratory and a computer room in my school. To the right of the main gate there is a big playground, and to the left there is a beautiful garden with many flowers. Our teachers are kind, hardworking and helpful. They teach us with love and care. There are about five hundred students in our school. I love my school very much because it gives us knowledge, good manners and a bright future.",
+                    "q": "Work in pairs and develop a mind map on the topic 'My School'. After you have prepared your mind map, work individually and write a paragraph in your notebook, following the guidelines given above."
+                  },
+                  {
+                    "a": "Model paragraph on 'Our Hospital': Our hospital is a big and clean hospital in our city. It is near the main bazaar, across the road from the park. There are many wards, an operation theatre, a laboratory and a pharmacy in the hospital. To the right of the entrance there is a reception, and to the left there is a waiting room for the patients. The doctors and nurses are kind and hardworking. They look after the patients day and night. There is also an ambulance service for emergencies. Our hospital is very useful for the people of our area because it provides them with good treatment and care.",
+                    "q": "Repeat the above process for the second topic 'Our Hospital': develop a mind map in pairs, write the paragraph individually, and then read each other's paragraph."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Writing",
+            "num": "1.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Complete outline — Beginning: b) Greeting. c) To begin with, studying is an exercise for the mind. d) Studying or getting an education is important for a number of reasons. Middle: a) In addition, it can bring a change in your life. f) Finally, studying and getting educated will help in national development. End: e) In other words, I believe that studying is very important for everyone.",
+                    "q": "In your notebook, write the three headings given above (Beginning, Middle, End). Leave three lines after each heading. From the box below, select the sentence(s) according to the section in which they will fall. Now, write down these sentences under the heading where they should be. Sentences: a) In addition, it can bring a change in your life. b) Greeting. c) To begin with, studying is an exercise for the mind. d) Studying or getting an education is important for a number of reasons. e) In other words, I believe that studying is very important for everyone. f) Finally, studying and getting educated will help in national development."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model outline — Title: Why do people study? Beginning: Greeting. To begin with, studying is an exercise for the mind. Studying or getting an education is important for a number of reasons. Middle: In addition, it can bring a change in your life. Studying helps us to get good jobs and to live a better life. Finally, studying and getting educated will help in national development. End: In other words, I believe that studying is very important for everyone.",
+                    "q": "Work with your partner and fill the following template. You will have to present it to a group of your classmates. Title: Why do people study?"
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model outline — Title: Why is school important? Beginning: Greeting. To begin with, school is the place where we learn and grow. School is important for a number of reasons. Middle: In addition, school teaches us knowledge, good manners and discipline. School helps us to make good friends and to become useful citizens. Finally, school prepares us for a good future and helps in national development. End: In other words, I believe that school is very important for every child.",
+                    "q": "Below are 3 titles. Work individually and use ONE of them to develop an outline, based on the pattern you have already practised. You will have to present it in front of the class. 1. Why is sunshine important? 2. Why is rain important? 3. Why is school important?"
+                  }
+                ],
+                "label": "Exercise 3"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "1.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Practise reciting each tongue twister as fast as you can: Six swans swam swiftly southwards. I scream, you scream, we all scream for ice cream. Four furious friends fought for the phone. Never trouble trouble till trouble troubles you. Sheena leads Sheila needs. Double bubble gum bubbles double. The queen in green screamed. Silly sheep, weep and sleep. (The teacher divides the class into two groups — Quaid e Azam and Allama Iqbal — and the student who recites a tongue twister fast and correctly wins one mark for his group.)",
+                    "q": "Recite the following tongue twisters as fast as you can: Six swans swam swiftly southwards. I scream, you scream, we all scream for ice cream. Four furious friends fought for the phone. Never trouble trouble till trouble troubles you. Sheena leads Sheila needs. Double bubble gum bubbles double. The queen in green screamed. Silly sheep, weep and sleep."
+                  }
+                ],
+                "label": "Tongue Twisters"
+              }
+            ],
+            "name": "Fun",
+            "num": "1.6"
+          }
+        ],
+        "title": "FRIENDSHIP AND COOPERATION",
+        "unit": 1,
+        "words": [
+          {
+            "sd": "همدرد",
+            "syn": "kind-hearted",
+            "w": "sympathetic"
+          },
+          {
+            "sd": "فطرت جا عاشق",
+            "syn": "people who love nature",
+            "w": "nature lovers"
+          },
+          {
+            "sd": "تجسس وارو",
+            "syn": "eager to know",
+            "w": "curious"
+          },
+          {
+            "sd": "ڀٽڪيا",
+            "syn": "walked around without any purpose",
+            "w": "wandered"
+          },
+          {
+            "sd": "گهاٽو",
+            "syn": "thick",
+            "w": "dense"
+          },
+          {
+            "sd": "بيڪار",
+            "syn": "without any success",
+            "w": "in vain"
+          },
+          {
+            "sd": "ڇڏي ڏيڻ",
+            "syn": "leave someone behind",
+            "w": "abandon"
+          },
+          {
+            "sd": "سُن ٿي ويل",
+            "syn": "unable to move",
+            "w": "paralyzed"
+          },
+          {
+            "sd": "معافي گهرڻ",
+            "syn": "saying sorry",
+            "w": "apologising"
+          },
+          {
+            "sd": "ڪن ۾ چوڻ",
+            "syn": "speak very softly",
+            "w": "whisper"
+          },
+          {
+            "sd": "شرمسار",
+            "syn": "ashamed",
+            "w": "embarrassed"
+          },
+          {
+            "sd": "مخلص",
+            "syn": "honest and true",
+            "w": "sincere"
+          },
+          {
+            "sd": "چيچاٽ",
+            "syn": "singing of birds",
+            "w": "chirping"
+          },
+          {
+            "sd": "حيران",
+            "syn": "filled with wonder",
+            "w": "spellbound"
+          },
+          {
+            "sd": "شرمندو",
+            "syn": "feeling guilty and embarrassed",
+            "w": "ashamed"
+          },
+          {
+            "sd": "ڊنل",
+            "syn": "afraid",
+            "w": "frightened"
+          },
+          {
+            "sd": "مددگار",
+            "syn": "ready to help",
+            "w": "helpful"
+          },
+          {
+            "sd": "ڀروسو",
+            "syn": "believe in someone",
+            "w": "trust"
+          },
+          {
+            "sd": "خطرو",
+            "syn": "a risky situation",
+            "w": "danger"
+          },
+          {
+            "sd": "صحبت",
+            "syn": "being together with someone",
+            "w": "company"
+          }
+        ],
+        "display": "Friends in Trouble"
+      },
+      {
+        "reading": "My Blessed Beautiful Land",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: Some beautiful places of Pakistan are the mountains of the North (Karakoram and Hindukush), the valleys of Hunza and Swat, the Kharan desert, the fertile plains of the Punjab, the Indus delta and Mohen-jo-Daro. (Any honest personal answer is acceptable.)",
+                    "q": "Can you name some of the beautiful places of Pakistan?"
+                  },
+                  {
+                    "a": "Model answer: Yes, I have visited Keenjhar Lake and the hills of Gorakh. I have also seen the beautiful green fields and the river Indus in our area. (Any honest personal answer is acceptable.)",
+                    "q": "Have you visited any beautiful place in Pakistan?"
+                  },
+                  {
+                    "a": "Model answer: I would like to visit the mountains of the North, especially the Karakoram, because I want to see the snow-capped peaks and the beautiful valleys with my own eyes. (Any honest personal answer is acceptable.)",
+                    "q": "Which place would you like to visit? Why?"
+                  },
+                  {
+                    "a": "iii) The natural beauty of Pakistan — the poem describes the snow-capped mountains, the desert, the fertile plains, the rivers and the Indus delta of Pakistan.",
+                    "q": "The title of the poem you are going to read is 'My blessed beautiful land'. Which of the following things are you going to read about:? i) The crops that we grow in Pakistan ii) The beautiful clothes of Pakistan iii) The natural beauty of Pakistan iv) The beautiful flowers of Pakistan"
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Stanza 2 — The picture shows the sand dunes of a desert, and stanza 2 describes 'The sands of the Kharan desert browned'.",
+                    "q": "Read the poem and decide which stanza the first picture (desert sand dunes with the sun) matches. Write the stanza number."
+                  },
+                  {
+                    "a": "Stanza 3 — The picture shows green fields and a river, and stanza 3 describes 'Fertile plains, fields of grain all around / Where meet five mighty rivers renowned'.",
+                    "q": "Read the poem and decide which stanza the second picture (green fields and a river) matches. Write the stanza number."
+                  },
+                  {
+                    "a": "Stanza 4 — The picture shows a dam with rushing river water, and stanza 4 describes the river Indus and its delta ('The Indus delta spread all around'). (See the flags file — this picture could also be read as stanza 3's rivers.)",
+                    "q": "Read the poem and decide which stanza the third picture (a dam with rushing water) matches. Write the stanza number."
+                  },
+                  {
+                    "a": "Stanza 1 — The picture shows snow-capped mountains, and stanza 1 describes 'Mighty Karakoram that's snow-crowned / With Hindukush beauty all around'.",
+                    "q": "Read the poem and decide which stanza the fourth picture (snow-capped mountains) matches. Write the stanza number."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "spellbinding",
+                    "q": "Stanza 1: Find the word in the poem that means 'holding one's attention completely'."
+                  },
+                  {
+                    "a": "astound",
+                    "q": "Stanza 1: Find the word in the poem that means 'surprise a lot'."
+                  },
+                  {
+                    "a": "mighty",
+                    "q": "Stanza 1: Find the word in the poem that means 'very high'."
+                  },
+                  {
+                    "a": "snow-crowned",
+                    "q": "Stanza 1: Find the word in the poem that means 'peaks covered with snow'."
+                  },
+                  {
+                    "a": "safe and sound",
+                    "q": "Stanza 1: Find the words in the poem that mean 'in good condition'."
+                  },
+                  {
+                    "a": "browned",
+                    "q": "Stanza 2: Find the word in the poem that means 'turned brown in colour'."
+                  },
+                  {
+                    "a": "lofty",
+                    "q": "Stanza 2: Find the word in the poem that means 'very high'."
+                  },
+                  {
+                    "a": "precious",
+                    "q": "Stanza 2: Find the word in the poem that means 'valuable'."
+                  },
+                  {
+                    "a": "fearless",
+                    "q": "Stanza 2: Find the word in the poem that means 'brave'."
+                  },
+                  {
+                    "a": "abound",
+                    "q": "Stanza 2: Find the word in the poem that means 'found in large numbers'."
+                  },
+                  {
+                    "a": "fertile",
+                    "q": "Stanza 3: Find the word in the poem that means 'soil or land in which crops grow well'."
+                  },
+                  {
+                    "a": "plains",
+                    "q": "Stanza 3: Find the word in the poem that means 'a large area of flat land'."
+                  },
+                  {
+                    "a": "renowned",
+                    "q": "Stanza 3: Find the word in the poem that means 'famous'."
+                  },
+                  {
+                    "a": "tales",
+                    "q": "Stanza 3: Find the word in the poem that means 'exciting stories'."
+                  },
+                  {
+                    "a": "legends",
+                    "q": "Stanza 3: Find the word in the poem that means 'old stories that may or may not be true'."
+                  },
+                  {
+                    "a": "profound",
+                    "q": "Stanza 3: Find the word in the poem that means 'having a great effect'."
+                  },
+                  {
+                    "a": "delta",
+                    "q": "Stanza 4: Find the word in the poem that means 'the mouth of a river where it spreads out before entering the sea'."
+                  },
+                  {
+                    "a": "mound",
+                    "q": "Stanza 4: Find the word in the poem that means 'a small hill'."
+                  },
+                  {
+                    "a": "ancient",
+                    "q": "Stanza 4: Find the word in the poem that means 'very old'."
+                  },
+                  {
+                    "a": "echoes",
+                    "q": "Stanza 4: Find the word in the poem that means 'repeated sounds'."
+                  },
+                  {
+                    "a": "resound",
+                    "q": "Stanza 4: Find the word in the poem that means 'loud, deep sound'."
+                  },
+                  {
+                    "a": "resourceful",
+                    "q": "Stanza 4: Find the word in the poem that means 'someone who is good at finding new ways to do things'."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The Karakoram and the Hindukush mountain ranges are mentioned in stanza 1.",
+                    "q": "Which two mountain ranges are mentioned in stanza 1?"
+                  },
+                  {
+                    "a": "The Kharan desert is mentioned in the poem.",
+                    "q": "Name the desert mentioned in the poem."
+                  },
+                  {
+                    "a": "Mohen-jo-Daro is the ancient site mentioned in the poem.",
+                    "q": "Which ancient site is mentioned in the poem?"
+                  },
+                  {
+                    "a": "Six qualities of the people of Pakistan are mentioned in the poem: warm, brave, fearless, simple, sincere and resourceful.",
+                    "q": "How many qualities of the people of Pakistan are mentioned in the poem? List them."
+                  },
+                  {
+                    "a": "The prayer 'Oh my Lord, keep them all safe and sound.' is repeated in each stanza.",
+                    "q": "Which prayer is repeated in each stanza?"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Stanza 1 — Province: Khyber Pakhtoon Khwa and Gilgit Baltistan. Two Main Features: 1. Snow covered mountains, 2. Beautiful scenes. People: Warm and brave. (Example given in the book.)",
+                    "q": "Complete the table: Stanza 1 — Province, Two Main Features, People. (Example given in the book: Khyber Pakhtoon Khwa and Gilgit Baltistan; 1. Snow covered mountains, 2. Beautiful scenes; Warm and brave.)"
+                  },
+                  {
+                    "a": "Stanza 2 — Province: Balochistan. Two Main Features: 1. The brown sands of the Kharan desert, 2. Lofty mountains with precious stones and mines full of minerals underground. People: Fearless.",
+                    "q": "Complete the table: Stanza 2 — Province, Two Main Features, People."
+                  },
+                  {
+                    "a": "Stanza 3 — Province: Punjab. Two Main Features: 1. Fertile plains and fields of grain, 2. Five mighty rivers. People: Simple.",
+                    "q": "Complete the table: Stanza 3 — Province, Two Main Features, People."
+                  },
+                  {
+                    "a": "Stanza 4 — Province: Sindh. Two Main Features: 1. The Indus delta, 2. The ancient site of Mohen-jo-Daro. People: Sincere and resourceful.",
+                    "q": "Complete the table: Stanza 4 — Province, Two Main Features, People."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "In the poem 'My Blessed Beautiful Land', the poet describes the beauty of the various provinces of Pakistan. In stanza 1, the poet describes the spellbinding scenes of the North and the snow-crowned mountains. He mentions the snow-capped mountains of the Karakoram and the beautiful scenes of the Hindukush. The people of this area are warm and brave. In stanza 2, the poet describes the brown sands of the Kharan desert, the lofty mountains with precious stones and the mines full of minerals underground in Balochistan. The people of this area are fearless. In stanza 3, the poet describes the fertile plains and fields of grain of the Punjab, where the five mighty rivers meet. The people of this area are simple and work the year round. In stanza 4, the poet describes the Indus delta and the ancient site of Mohen-jo-Daro in Sindh. The people of this area are sincere and resourceful. The poet thinks that Pakistan is both beautiful and blessed. He prays to Allah to keep the country and its people safe and sound.",
+                    "q": "Now write a summary of the poem using the information you have inserted in the table above. You can begin like this: In the poem 'My Blessed Beautiful Land', the poet describes the beauty of the various provinces of Pakistan. In stanza 1, the poet describes ___ and ___. He/she mentions the snow-capped mountains of the ___ and the beautiful scenes of the ___. The people of this area are ___ and ___. In stanza 2, ... In stanza 3, ... In stanza 4, ... The poet thinks that Pakistan is both beautiful and ___. He/She prays to Allah to keep the country and its people ___ and ___."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Yes, the poet is proud of his/her country. We know this because the poet calls Pakistan 'my blessed beautiful land' and lovingly describes its snow-capped mountains, deserts, fertile plains, rivers and ancient sites in every stanza, and prays to Allah to keep the country and its people safe and sound.",
+                    "q": "Is the poet proud of his/ her country? How do we know that?"
+                  },
+                  {
+                    "a": "We learn that the people of Pakistan are warm, brave, fearless, simple, sincere and resourceful. Two other qualities of the people of Pakistan that are not mentioned in the poem are hospitable and hardworking.",
+                    "q": "What do we learn about the people of Pakistan in this poem? Add at least two other qualities of the people of Pakistan that are not mentioned here."
+                  },
+                  {
+                    "a": "Model paragraph about my province (Sindh): My province is Sindh, the land of the Indus delta and the ancient city of Mohen-jo-Daro. The river Indus flows through Sindh and makes its land fertile, so the farmers grow wheat, rice, cotton and sugarcane. The people of Sindh are sincere, resourceful and hospitable. The cities of Karachi, Hyderabad and Sukkur are famous for their trade, industry and history. The shrines of Shah Abdul Latif Bhittai and Lal Shahbaz Qalandar are visited by thousands of people every year. I am proud of my province because it is rich in culture, history and natural beauty.",
+                    "q": "Write a paragraph about your province. Use the information given in the poem and add some more points."
+                  },
+                  {
+                    "a": "Model paragraph: I would like to visit Gilgit-Baltistan, the province of the mighty Karakoram and the Hindukush. I want to see the snow-capped peaks, the beautiful valleys of Hunza and Skardu, and the clear blue lakes. The people of this area are warm and brave, and I would like to meet them and learn about their simple way of life. I also want to see the glaciers and the high mountain passes. Visiting Gilgit-Baltistan would be a wonderful experience because it is the most beautiful part of our country.",
+                    "q": "Write about one more province of Pakistan that you would like to visit. Support your answer with reasons."
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "2.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Example 1 — Using polite words to disagree: Student A: Javed Miandad was the best player of the last century. Student B: No, I don't think so. I think Zaheer Abbas was better. Student C: I'm afraid, I disagree with both of you. Actually both were fantastic players. Polite words used to disagree: 'No, I don't think so', 'I think', 'I'm afraid, I disagree'.",
+                    "q": "Work in groups of three. Read the following example. Identify the polite words used to disagree with each other and underline them. Practise the example in groups of three at least thrice, with each student taking a different role each time. Example 1 (Using polite words to disagree): Student A: Javed Miandad was the best player of the last century. Student B: No, I don't think so. I think Zaheer Abbas was better. Student C: I'm afraid, I disagree with both of you. Actually both were fantastic players."
+                  },
+                  {
+                    "a": "Example 2 — Using polite words to agree: Student A: Travelling by train is great fun. Student B: I agree with you. One can relax and enjoy the scenery. Student C: That's right! One can also walk about and lie down and sleep properly. Student A: Exactly! We can also go to the dining car and have our meals there. Polite words used to agree: 'I agree with you', 'That's right!', 'Exactly!'.",
+                    "q": "Work in groups of three. Read the following example. Identify the polite words used to agree with each other and underline them. Practise the example in groups of three at least thrice, with each student taking a different role each time. Example 2 (Using polite words to agree): Student A: Travelling by train is great fun. Student B: I agree with you. One can relax and enjoy the scenery. Student C: That's right! One can also walk about and lie down and sleep properly. Student A: Exactly! We can also go to the dining car and have our meals there."
+                  },
+                  {
+                    "a": "Example 3 — Using polite words to disagree / agree: Student A: Books are a thing of the past. The future is in online books. Student B: I beg to differ. A lot of people still prefer to have a book in their hands rather than reading one on a screen. Student C: You are right. But I agree with A (name of student). I think young people like everything that is on a screen. Polite words used: 'I beg to differ' (to disagree), 'You are right', 'I agree with A' (to agree).",
+                    "q": "Work in groups of three. Read the following example. Identify the polite words used to agree or disagree with each other and underline them. Practise the example in groups of three at least thrice, with each student taking a different role each time. Example 3 (Using polite words to disagree / agree): Student A: Books are a thing of the past. The future is in online books. Student B: I beg to differ. A lot of people still prefer to have a book in their hands rather than reading one on a screen. Student C: You are right. But I agree with A (name of student). I think young people like everything that is on a screen."
+                  }
+                ],
+                "label": "Exercise 1 — Agree or Disagree Politely (Examples)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model dialogue — today's weather: Student A: Today's weather is very pleasant. Student B: I agree with you. The cool breeze is blowing and the sun is not hot. Student C: I'm afraid, I disagree. I think it is very hot and humid today.",
+                    "q": "Talk about today's weather. Turn by turn, each student should make a simple statement. One of the others should agree and one should disagree. Then change roles and continue in the same manner."
+                  },
+                  {
+                    "a": "Model dialogue — best food: Student A: I think biryani is the best food. Student B: That's right! Biryani is delicious and everyone likes it. Student C: No, I don't think so. I think daal chawal is the best food because it is light and healthy.",
+                    "q": "Say what kind of food you think is best. Turn by turn, each student should make a simple statement. One of the others should agree and one should disagree. Then change roles and continue in the same manner."
+                  },
+                  {
+                    "a": "Model dialogue — a beautiful place in Pakistan: Student A: In my opinion, Hunza valley is the most beautiful place in Pakistan. Student B: I agree with you. Its mountains, lakes and orchards are spellbinding. Student C: I beg to differ. I think the Thar desert is more beautiful because of its sand dunes and colourful culture.",
+                    "q": "Give an opinion about a beautiful place in Pakistan. Turn by turn, each student should make a simple statement. One of the others should agree and one should disagree. Then change roles and continue in the same manner."
+                  },
+                  {
+                    "a": "Model dialogue — favourite ice cream / biscuits / sweet / fruit: Student A: I think mango is the best fruit because it is sweet and juicy. Student B: Exactly! Mango is the king of fruits. Student C: You are right, but I disagree. I think apples are the best because they are good for health and we can eat them all the year round.",
+                    "q": "Talk about your favourite ice cream / biscuits / sweet/ fruit and say why it is the best. Turn by turn, each student should make a simple statement. One of the others should agree and one should disagree. Then change roles and continue in the same manner."
+                  }
+                ],
+                "label": "Exercise 2 — Discussing Topics (Agree/Disagree)"
+              }
+            ],
+            "name": "Speaking",
+            "num": "2.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "I had studied Japanese before I went to study in Japan. (The action that happened first is: I studied Japanese.)",
+                    "q": "Read the sentence and underline the action that you think happened first: I (study) Japanese before I (go) to study in Japan."
+                  },
+                  {
+                    "a": "We had a lot of trouble at the airport because we had lost our passports. (The action that happened first is: we lost our passports.)",
+                    "q": "Read the sentence and underline the action that you think happened first: We (have) a lot of trouble at the airport because we (lose) our passports."
+                  },
+                  {
+                    "a": "After we had watched TV for a while, we went to sleep. (The action that happened first is: we watched TV.)",
+                    "q": "Read the sentence and underline the action that you think happened first: After we (watch) TV for a while we (go) to sleep."
+                  },
+                  {
+                    "a": "Sachal knew many people at the office because he had worked there some years ago. (The action that happened first is: he worked there.)",
+                    "q": "Read the sentence and underline the action that you think happened first: Sachal (know) many people at the office because he (work) there some years ago."
+                  },
+                  {
+                    "a": "Farah enjoyed the movie because she had read the book. (The action that happened first is: she read the book.)",
+                    "q": "Read the sentence and underline the action that you think happened first: Farah (enjoy) the movie because she (read) the book."
+                  },
+                  {
+                    "a": "My father had been to Syria before the problems started in that country. (The action that happened first is: my father had been to Syria.)",
+                    "q": "Read the sentence and underline the action that you think happened first: My father (be) to Syria before the problems (start) in that country."
+                  },
+                  {
+                    "a": "I played cricket after I had finished my homework. (The action that happened first is: I finished my homework.)",
+                    "q": "Read the sentence and underline the action that you think happened first: I (play) cricket after I (finish) my homework."
+                  },
+                  {
+                    "a": "When I came to your house last night, you had gone to bed. (The action that happened first is: you went to bed.)",
+                    "q": "Read the sentence and underline the action that you think happened first: When I (come) to your house last night you (go) to bed."
+                  },
+                  {
+                    "a": "The train had left the station when we reached because we were late. (The action that happened first is: the train left the station.)",
+                    "q": "Read the sentence and underline the action that you think happened first: The train (leave) the station when we (reach) because we were late."
+                  },
+                  {
+                    "a": "We went out for a walk after it had stopped raining. (The action that happened first is: it stopped raining.)",
+                    "q": "Read the sentence and underline the action that you think happened first: We (go) out for a walk after it (stop) raining."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "I had studied Japanese before I went to study in Japan.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense of the verb given in brackets for the action that happened later and the past perfect tense for the action that happened first: I (study) Japanese before I (go) to study in Japan."
+                  },
+                  {
+                    "a": "We had a lot of trouble at the airport because we had lost our passports.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: We (have) a lot of trouble at the airport because we (lose) our passports."
+                  },
+                  {
+                    "a": "After we had watched TV for a while, we went to sleep.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: After we (watch) TV for a while we (go) to sleep."
+                  },
+                  {
+                    "a": "Sachal knew many people at the office because he had worked there some years ago.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: Sachal (know) many people at the office because he (work) there some years ago."
+                  },
+                  {
+                    "a": "Farah enjoyed the movie because she had read the book.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: Farah (enjoy) the movie because she (read) the book."
+                  },
+                  {
+                    "a": "My father had been to Syria before the problems started in that country.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: My father (be) to Syria before the problems (start) in that country."
+                  },
+                  {
+                    "a": "I played cricket after I had finished my homework.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: I (play) cricket after I (finish) my homework."
+                  },
+                  {
+                    "a": "When I came to your house last night, you had gone to bed.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: When I (come) to your house last night you (go) to bed."
+                  },
+                  {
+                    "a": "The train had left the station when we reached because we were late.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: The train (leave) the station when we (reach) because we were late."
+                  },
+                  {
+                    "a": "We went out for a walk after it had stopped raining.",
+                    "q": "Write the sentence in your notebook. Use the simple past tense for the action that happened later and the past perfect tense for the action that happened first: We (go) out for a walk after it (stop) raining."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Paragraph 1 (completed): Eight small girls were participating in a race. They all stood at the starting line, waiting for the whistle to blow. Their teacher told them not to run until she blew the whistle. When they heard the whistle, they all ran. Suddenly, they stopped; one of their friends was crying. They all turned around and saw that their friend had fallen down. They all went back because she cried for help.",
+                    "q": "Read the following story and fill in the blanks with the correct tense of the verbs given. Paragraph 1 verbs: turn, go, hear, see, stand, cry, stop, fall, tell, run, blow. Story: Eight small girls were participating in a race. They all ___ at the starting line, waiting for the whistle to blow. Their teacher ___ them not to run until she ___ the whistle. When they ___ the whistle, they all ___. Suddenly, they ___; one of their friends was crying. They all ___ around and ___ that their friend ___ down. They all ___ back because she ___ for help."
+                  },
+                  {
+                    "a": "Paragraph 2 (completed): When they reached her, they saw that she had injured herself. She held her knee and she needed their help. They told her not to cry as they waited to help her. Two of the girls picked her up and steadied her till she came to herself. Then they all held hands and ran to the finishing line together. (See the flags file — the verb list does not uniquely fix the last three blanks.)",
+                    "q": "Read the following story and fill in the blanks with the correct tense of the verbs given. Paragraph 2 verbs: tell, reach, wait, pick, injure, hold, come, see, steady, need, hurt. Story: When they ___ her, they ___ that she ___ herself. She ___ her knee and she ___ their help. They ___ her not to cry as they ___ to help her. Two of the girls ___ her up and ___ till she ___ herself. Then they all ___ hands and ran to the finishing line together."
+                  },
+                  {
+                    "a": "Paragraph 3 (completed): Everyone clapped for them. These were mentally challenged girls but they taught everyone a very powerful lesson. They showed to all the people present there that helping others and caring for their feelings is as important as winning a competition.",
+                    "q": "Read the following story and fill in the blanks with the correct tense of the verbs given. Paragraph 3 verbs: teach, is, show, clap. Story: Everyone ___ for them. These were mentally challenged girls but they ___ everyone a very powerful lesson. They ___ to all the people present there that helping others and caring for their feelings ___ as important as winning a competition."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The boy looked left and right before running across the road.",
+                    "q": "Choose the appropriate preposition from the list given above (towards, from, to, up, down, across, through, along, around, into) to complete the statement. You can use each preposition only once: The boy looked left and right before running ___ the road."
+                  },
+                  {
+                    "a": "Many trees have been planted all along the street.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: Many trees have been planted all ___ the street."
+                  },
+                  {
+                    "a": "The fireman climbed up the ladder to rescue the old lady.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: The fireman climbed ___ the ladder to rescue the old lady."
+                  },
+                  {
+                    "a": "My brother is going to Gilgit next week.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: My brother is going ___ Gilgit next week."
+                  },
+                  {
+                    "a": "The boy turned around the corner and stopped.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: The boy turned ___ the corner and stopped."
+                  },
+                  {
+                    "a": "Saleha's aunt has come from Quetta to visit them.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: Saleha's aunt has come ___ Quetta to visit them."
+                  },
+                  {
+                    "a": "The swimmer dived into the water from a height of 100 ft.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: The swimmer dived ___ the water from a height of 100 ft."
+                  },
+                  {
+                    "a": "I was walking towards my friend when I slipped and fell.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: I was walking ___ my friend when I slipped and fell."
+                  },
+                  {
+                    "a": "Walk through this tunnel to get to the other side.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: Walk ___ this tunnel to get to the other side."
+                  },
+                  {
+                    "a": "Rustam fell down the stairs and broke his leg.",
+                    "q": "Choose the appropriate preposition from the list given above to complete the statement: Rustam fell ___ the stairs and broke his leg."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Completed story: As I was walking home from my office, I saw a man coming towards me from the other side. I got scared. I looked around and across the road, and ran to get inside one of the shops. Once inside, I felt safe. But this feeling of safety was short-lived because in the next minute, I saw him walking through the door. I walked along the row of shelves, stepped into the lift and went to the second floor where the offices were. I went to the manager's room and told him the story. The manager called the police who soon came and caught the man. To my embarrassment, he was my uncle who had come from Dubai after ten years! (Prepositions used: from, towards, around, across, through, along, into, to.)",
+                    "q": "Fill the blanks in the story below using the prepositions in exercise 4. You can use each preposition only once. Story: As I was walking home ___ my office, I saw a man coming ___ me from the other side. I got scared. I looked ___ and ___ the road, and ran to get inside one of the shops. Once inside, I felt safe. But this feeling of safety was short-lived because in the next minute, I saw him walking ___ the door. I walked ___ the row of shelves, stepped ___ the lift and went to the second floor where the offices were. I went ___ the manager's room and told him the story. The manager called the police who soon came and caught the man. To my embarrassment, he was my uncle who had come from Dubai after ten years!"
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model narrative paragraph (prepositions used — from, towards, across, through, into, along, down): Yesterday, I was coming home from school when I saw a dog running towards me. I got scared and ran across the road. I went through the gate of a house and hid behind a tree. Then I walked along the street and stepped into a shop. I came down the stairs of the shop and went home safely. I learnt that we should always be careful on the road.",
+                    "q": "Work in pairs and write a narrative paragraph like the one above, using at least 6 of the prepositions (towards, from, to, up, down, across, through, along, around, into)."
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "2.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model application: November 12, 2017. The Principal, Govt. High School, Jamshoro. Respected Sir / Madam, With due respect I want to say that I am a student of class VIII in your school. This is to inform you that my brother is getting married on Monday, and I have to attend the wedding at home. It is to request you to kindly grant me leave for two days, from Monday to Tuesday, and oblige. I shall be very thankful to you for this kindness. Thanking you in anticipation. Yours obediently, Sana Iqbal, Class VIII.",
+                    "q": "Work in pairs. Read application (1) and then write an application to the principal of your school requesting for grant of two days' leave as your brother/ sister is getting married. Follow the given sample and write the application in your notebook. You can use any suitable sentences / phrases from the table given below. (Greeting: Respected Madam/Sir, Dear Sir/ Madam. Opening: This is to state that I (name) / we, ... the student (s) of class ... in your school; With due respect I want to say that I am a student of...; It is to request you...; This is to inform you that... Closure: I shall be much obliged to you; I shall be very thankful to you; Thanking you in anticipation; I shall be thankful for your consideration; I shall be thankful in this regard; Looking forward to your kind consideration. Signature: Yours obediently, Yours sincerely, Yours faithfully.)"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model application: March 25, 2017. The Principal, XYZ School, Karachi. Subject: Request for allowing the Class VIII students to go for a study tour. Respected Madam / Sir, This is to state that we, the students of class VIII in your school, would like to go on a study tour to Mohen-jo-Daro to see the ancient remains and learn about our history. We would like to go on Monday, April 2, at 8 a.m. and will return by 5 p.m. We will follow all the school rules. Four of our teachers have agreed to go with us, if you allow. We request you to please allow us to go and enjoy ourselves and learn many new things before the new term begins. We shall be very thankful to you if you give us permission. Thanking you in anticipation. Yours obediently, Students of Class VIII.",
+                    "q": "Now work individually. Read application (2) and then write an application to the principal of your school requesting for grant of permission for a study tour to your class. Follow the given sample and write an application in your notebook. You can use any suitable sentences / phrases from the table given above."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Writing",
+            "num": "2.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The checklist: I always sit in one place to study or to do my homework. I have a special place to study that is comfortable and quiet. I keep all my study materials in one place including paper, pencils, pens, dictionary, etc. I study at about the same time every day, and know that this is the best time for me. When I sit down to study, I first of all decide what I will do and in which order will I study; maths first or English. I also decide whether I will do all the work at one time or do some work now and some later. I usually have enough time to finish my homework. I can contact at least one person in my class if I have a question about an assignment. I always do some reading for fun and enjoyment. I check my bag every night to see that I have all my books and other things that I will need in class the next day. Put a check mark against each thing that you do most of the time.",
+                    "q": "What kind of study habits do you have? Read the list below, and put a check mark against each thing that you do most of the time: I always sit in one place to study or to do my homework. I have a special place to study that is comfortable and quiet. I keep all my study materials in one place including paper, pencils, pens, dictionary, etc. I study at about the same time every day, and know that this is the best time for me. When I sit down to study, I first of all decide what I will do and in which order will I study; maths first or English. I also decide whether I will do all the work at one time or do some work now and some later. I usually have enough time to finish my homework. I can contact at least one person in my class if I have a question about an assignment. I always do some reading for fun and enjoyment. I check my bag every night to see that I have all my books and other things that I will need in class the next day."
+                  },
+                  {
+                    "a": "Model list of things I should do but don't do, in the order I plan to change them: 1. I should check my bag every night to see that I have all my books and other things that I will need in class the next day. 2. I should keep all my study materials in one place including paper, pencils, pens, dictionary, etc. 3. I should study at about the same time every day. 4. I should decide what I will do and in which order I will study when I sit down to study. 5. I should always do some reading for fun and enjoyment.",
+                    "q": "Now work with your partner and prepare a list of things that you should do but you don't do them. From this list decide which habit you will change first, second, third and so on. Write the number against each of the things in the order that you plan to change those habits."
+                  }
+                ],
+                "label": "Study Skills Checklist"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "2.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model plan: Our group of three will prepare a colourful poster showing what our village looks like. We will show the green fields, the canal, the mosque, the school and the mud houses of our village. We will collect the material we need — pencils, colours, pictures, chart paper and glue. Ali will draw the picture, Sana will write the caption, and I will colour the poster. After everyone has completed their work, we will display our posters in the class and pin a piece of blank paper to each poster. Each student will visit the exhibition and find something to appreciate about each poster. Model appreciative comment: 'Your poster is very beautiful and colourful. I liked the green fields and the canal the most.'",
+                    "q": "Plan to hold an exhibition in your class. For this exhibition all of you should prepare colourful posters showing what your village, town or city looks like. For this activity, do the following: Work in groups of three. Think about what kind of a poster to prepare; what to show in the poster that is nice and colourful. Collect all the material that you will need to make the poster: pencils, colours, pictures, etc. Decide who will do what; draw, write, colour, etc. After everyone has completed their work, display your posters in the class. Pin a piece of blank paper to your poster. Each student must visit the exhibition and find something to appreciate about each poster. Write an appreciative comment for each poster on the blank paper that has been pinned to it."
+                  }
+                ],
+                "label": "Poster Exhibition"
+              }
+            ],
+            "name": "Fun",
+            "num": "2.6"
+          }
+        ],
+        "title": "NATURAL BEAUTY OF PAKISTAN",
+        "unit": 2,
+        "words": [
+          {
+            "sd": "موهيندڙ",
+            "syn": "holding one's attention completely",
+            "w": "spellbinding"
+          },
+          {
+            "sd": "حيران ڪرڻ",
+            "syn": "surprise a lot",
+            "w": "astound"
+          },
+          {
+            "sd": "عظيم",
+            "syn": "very great and strong",
+            "w": "mighty"
+          },
+          {
+            "sd": "برف سان ڍڪيل چوٽيون",
+            "syn": "peaks covered with snow",
+            "w": "snow-crowned"
+          },
+          {
+            "sd": "محفوظ ۽ سلامت",
+            "syn": "in good condition",
+            "w": "safe and sound"
+          },
+          {
+            "sd": "ناسي ٿي ويل",
+            "syn": "turned brown in colour",
+            "w": "browned"
+          },
+          {
+            "sd": "اوچو",
+            "syn": "very high",
+            "w": "lofty"
+          },
+          {
+            "sd": "قيمتي",
+            "syn": "valuable",
+            "w": "precious"
+          },
+          {
+            "sd": "بي ڊپو",
+            "syn": "brave",
+            "w": "fearless"
+          },
+          {
+            "sd": "گهڻائي ۾ هجڻ",
+            "syn": "found in large numbers",
+            "w": "abound"
+          },
+          {
+            "sd": "زرخيز",
+            "syn": "soil in which crops grow well",
+            "w": "fertile"
+          },
+          {
+            "sd": "ميدان",
+            "syn": "a large area of flat land",
+            "w": "plains"
+          },
+          {
+            "sd": "مشهور",
+            "syn": "famous",
+            "w": "renowned"
+          },
+          {
+            "sd": "ڪهاڻيون",
+            "syn": "exciting stories",
+            "w": "tales"
+          },
+          {
+            "sd": "داستان",
+            "syn": "old stories that may or may not be true",
+            "w": "legends"
+          },
+          {
+            "sd": "گهرو اثر",
+            "syn": "having a great effect",
+            "w": "profound"
+          },
+          {
+            "sd": "ڊيلٽا",
+            "syn": "the mouth of a river where it spreads out before entering the sea",
+            "w": "delta"
+          },
+          {
+            "sd": "دڙو",
+            "syn": "a small hill",
+            "w": "mound"
+          },
+          {
+            "sd": "قديم",
+            "syn": "very old",
+            "w": "ancient"
+          },
+          {
+            "sd": "گونج",
+            "syn": "repeated sounds",
+            "w": "echoes"
+          },
+          {
+            "sd": "گونجڻ",
+            "syn": "a loud, deep sound",
+            "w": "resound"
+          },
+          {
+            "sd": "وسيلا ڳولڻ وارو",
+            "syn": "good at finding new ways to do things",
+            "w": "resourceful"
+          }
+        ],
+        "display": "My Blessed Beautiful Land"
+      },
+      {
+        "reading": "Better Be Safe Than Sorry",
+        "sections": [
+          {
+            "name": "Reading Comprehension",
+            "exercises": [
+              {
+                "label": "Pre-reading",
+                "items": [
+                  {
+                    "q": "Look at the picture given below. It shows a busy road. Circle the following items in the picture: a) An over loaded bus",
+                    "a": "The over loaded bus is in the centre of the picture — a bus full of passengers, with people sitting on its roof and hanging on its sides."
+                  },
+                  {
+                    "q": "Look at the picture given below. It shows a busy road. Circle the following items in the picture: b) A child riding a bicycle",
+                    "a": "The child riding a bicycle is on the left side of the picture, wearing a helmet and an orange shirt."
+                  },
+                  {
+                    "q": "Look at the picture given below. It shows a busy road. Circle the following items in the picture: c) A man hanging on the footboard of a bus",
+                    "a": "A man is hanging on the footboard of the over loaded bus in the centre of the picture."
+                  },
+                  {
+                    "q": "Look at the picture given below. It shows a busy road. Circle the following items in the picture: d) A motorcyclist",
+                    "a": "The motorcyclist is in the foreground of the picture, riding a motorcycle towards the camera."
+                  },
+                  {
+                    "q": "Who is in danger on this busy street? Identify 3-5 individuals.",
+                    "a": "The people in danger are: 1. The passengers sitting on the roof of the over loaded bus. 2. The man hanging on the footboard of the bus. 3. The child riding a bicycle on the busy road. 4. The motorcyclist riding without a helmet. 5. The pedestrians crossing the busy road."
+                  },
+                  {
+                    "q": "Work in groups of three and try to find the reasons why the people you identified above are in danger.",
+                    "a": "They are in danger because: the bus is over loaded and the passengers on the roof can fall off; the man hanging on the footboard can slip and fall under the wheels; the child is riding a bicycle on a busy road full of fast vehicles; the motorcyclist is not wearing a helmet, so his head is not protected; the pedestrians are crossing the road without using a zebra crossing."
+                  },
+                  {
+                    "q": "The title of the text you are about to read is Better Be Safe Than Sorry. What do you think the text is about?",
+                    "a": "The text is probably about road safety — the rules that road users should follow to avoid accidents, because it is better to be careful and safe than to feel sorry after an accident."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "The text has __________ paragraphs.",
+                    "a": "The text has 6 paragraphs."
+                  },
+                  {
+                    "q": "The table gives safety tips for __________ types of road users.",
+                    "a": "The table gives safety tips for 4 types of road users — cyclists, pedestrians, users of school and public transport, and motorcycle pillion riders."
+                  },
+                  {
+                    "q": "The table has a total of __________ tips for each type of road user; __________ things that they must do and __________ things that they should not do.",
+                    "a": "The table has a total of 6 tips for each type of road user; 3 things that they must do and 3 things that they should not do."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 2",
+                "items": [
+                  {
+                    "q": "People who display undisciplined behaviour usually (a) make rules (b) break rules (c) maintain rules",
+                    "a": "b) break rules. (given in the book as the example)"
+                  },
+                  {
+                    "q": "Pedestrians are people who use the road for (a) driving (b) walking (c) car racing",
+                    "a": "b) walking."
+                  },
+                  {
+                    "q": "Stunts are actions that are often (a) foolish (b) safe (c) dangerous",
+                    "a": "c) dangerous. (The text calls them 'dangerous stunts'.)"
+                  },
+                  {
+                    "q": "Beggars who can be seen dodging traffic are the ones who (a) stop the traffic (b) walk when the traffic stops (c) walk in and out of moving traffic",
+                    "a": "c) walk in and out of moving traffic."
+                  },
+                  {
+                    "q": "Different strategies can be used means that we can use different (a) programmes (b) ways of doing things (c) thoughts",
+                    "a": "b) ways of doing things."
+                  },
+                  {
+                    "q": "Appealing programmes are the programmes that people (a) always like to watch (b) do not watch (c) watch sometimes",
+                    "a": "a) always like to watch."
+                  },
+                  {
+                    "q": "For driving a car, under-age children are those who are less than (a) 10 years old (b) 14 years old (c) 18 years old",
+                    "a": "c) 18 years old. (In Pakistan, a person must be 18 years old to get a driving licence.)"
+                  },
+                  {
+                    "q": "Teachers impart education to the children means that they (a) provide education (b) support education (c) stop education",
+                    "a": "a) provide education."
+                  },
+                  {
+                    "q": "At night, traffic police often wear jackets with reflectors because when light falls on them they (a) shine (b) turn black (c) show the way",
+                    "a": "a) shine."
+                  },
+                  {
+                    "q": "Pillion riders are those people on a cycle or motorbike who (a) sit behind the driver (b) stand and drive (c) sit on the driver's seat",
+                    "a": "a) sit behind the driver."
+                  },
+                  {
+                    "q": "People who dangle their feet (a) put them on the wheel (b) hang them in the air (c) keep them on the seat",
+                    "a": "b) hang them in the air."
+                  },
+                  {
+                    "q": "Passengers who distract the drivers (a) warn them (b) guide them (c) take away their attention",
+                    "a": "c) take away their attention."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 3",
+                "items": [
+                  {
+                    "q": "Parents must not allow __________ children to drive.",
+                    "a": "Parents must not allow under-age children to drive."
+                  },
+                  {
+                    "q": "Teachers use a number of __________ to help students learn well.",
+                    "a": "Teachers use a number of strategies to help students learn well."
+                  },
+                  {
+                    "q": "If passengers __________ the driver there can be an accident.",
+                    "a": "If passengers distract the driver there can be an accident."
+                  },
+                  {
+                    "q": "The principal was upset with the __________ behaviour of the students.",
+                    "a": "The principal was upset with the undisciplined behaviour of the students."
+                  },
+                  {
+                    "q": "__________ should not ask the drivers to drive fast.",
+                    "a": "Pillion riders should not ask the drivers to drive fast."
+                  },
+                  {
+                    "q": "The __________ should not walk in the middle of the road",
+                    "a": "The pedestrians should not walk in the middle of the road."
+                  },
+                  {
+                    "q": "The motorcyclist was performing __________ when he had an accident.",
+                    "a": "The motorcyclist was performing stunts when he had an accident."
+                  },
+                  {
+                    "q": "People sitting on a moving motorcycle should not __________ their feet.",
+                    "a": "People sitting on a moving motorcycle should not dangle their feet."
+                  },
+                  {
+                    "q": "Companies try to make __________ advertisements to make people buy their products.",
+                    "a": "Companies try to make appealing advertisements to make people buy their products."
+                  },
+                  {
+                    "q": "Our teachers __________ education by telling us interesting stories during the morning assembly, once a week.",
+                    "a": "Our teachers impart education by telling us interesting stories during the morning assembly, once a week."
+                  },
+                  {
+                    "q": "Crossing busy roads by __________ the traffic is dangerous.",
+                    "a": "Crossing busy roads by dodging the traffic is dangerous."
+                  },
+                  {
+                    "q": "My brother has put __________ on his bicycle so that drivers of other vehicles can see him at night.",
+                    "a": "My brother has put reflectors on his bicycle so that drivers of other vehicles can see him at night."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 4",
+                "items": [
+                  {
+                    "q": "Match the main idea with its paragraph number: The role of the media, school and traffic police",
+                    "a": "Paragraph 3. (The media can give road safety instructions through appealing programmes; schools can contact their local police stations to request traffic education; the traffic police need to teach traffic rules to the people who apply for driving licences.)"
+                  },
+                  {
+                    "q": "Match the main idea with its paragraph number: Textbooks and road safety",
+                    "a": "Paragraph 5. (Textbooks are a good source to impart traffic education; the 'Green Cross Code' can be taught to the children through lessons in textbooks.)"
+                  },
+                  {
+                    "q": "Match the main idea with its paragraph number: The role of parents in road safety",
+                    "a": "Paragraph 4. (Parents must understand that safe roads will keep their families safe; they must not allow their children to drive without a licence and should teach them not to play on the roads.)"
+                  },
+                  {
+                    "q": "Match the main idea with its paragraph number: Road accidents happen because people do not follow traffic rules",
+                    "a": "Paragraph 1. (given in the book as the example)"
+                  },
+                  {
+                    "q": "Match the main idea with its paragraph number: Safety tips for road users",
+                    "a": "Paragraph 6. (Some common safety tips are discussed in the table below.)"
+                  },
+                  {
+                    "q": "Match the main idea with its paragraph number: Three types of people are responsible for most accidents",
+                    "a": "Paragraph 2. (The paragraph says that all types of road users, including truck and bus drivers and even pedestrians, are responsible for accidents; it then describes careless pedestrians, motorcyclists, children playing in the streets, beggars and people selling things on the road.)"
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 5",
+                "items": [
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: If we follow the traffic rules, we can prevent deaths and injuries on the road.",
+                    "a": "T (given in the book)"
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Pedestrians are responsible for many of the recorded road accidents.",
+                    "a": "T. Many accidents happen because of careless pedestrians who cross roads without checking for safety."
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Most motorcyclists are very careful and drive slowly.",
+                    "a": "F. Many motorcyclists ride too fast, do not use helmets to protect their heads and perform dangerous stunts."
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Awareness is possible only if we make traffic laws.",
+                    "a": "F. Awareness can also be created through the media, schools, textbooks and parents — not only by making laws."
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: The media can teach people about road safety only through news.",
+                    "a": "F. The media, both radio and television, can give people road safety instructions through appealing programmes."
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Both parents and schools have a duty to teach about road safety.",
+                    "a": "T. Parents must advise their children on road safety, and schools can contact their local police stations to request traffic education for their students."
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Stop, look, listen, think and cross is called the Green Cross Code.",
+                    "a": "T"
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Cyclists do not have to follow any rules.",
+                    "a": "F. The table gives safety rules for cyclists — they must stay on the extreme left, check their brakes and have lights or reflectors on their bikes."
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Bus users must also follow rules.",
+                    "a": "T. The table gives safety rules for the users of school and public transport."
+                  },
+                  {
+                    "q": "Read the statement and write (T) if it is True and (F) if it is False: Zebra crossings are safe points for crossing roads.",
+                    "a": "T. Pedestrians should use zebra crossings to cross the road."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 6",
+                "items": [
+                  {
+                    "q": "Work in pairs and complete the following summary of the text by using the words provided below. You can use one word only once. Paragraph 1 words: helmets, beggars, follow, accidents, carelessly, footpaths, play. Paragraph 2 words: motorcycles, education, interesting, cross, under-age, side, think, television, look, safety, different, walking. Paragraph 3 words: patiently, across, vehicles, extreme, citizens. Many people die or are injured in road __________. This is because people do not __________ the road safety rules. Pedestrians cross roads __________ and do not use the __________. Motorcyclists drive fast and do not wear __________. Children __________ in the streets and __________ and people selling different things walk on the roads. People should be taught road __________ rules. This can be done in __________ ways. Radio and __________ can teach road safety rules through __________ programmes. Schools can have traffic __________ programmes. Parents should not allow __________ children to drive cars or __________. Lessons in textbooks can teach simple rules like the \"Green Cross code\", which is stop, __________, listen, __________ and cross. They can also teach rules about __________ on the footpath or the __________ of the road if there is no footpath. All __________ can remain safe on the roads if they follow rules. Cyclists should stay on the __________ left on the road. Pedestrians should not run __________ the road. They should wait __________ and cross when it is safe. People should not get off moving __________. Motorcyclists should wear helmets.",
+                    "a": "Completed summary: Many people die or are injured in road accidents. This is because people do not follow the road safety rules. Pedestrians cross roads carelessly and do not use the footpaths. Motorcyclists drive fast and do not wear helmets. Children play in the streets and beggars and people selling different things walk on the roads. People should be taught road safety rules. This can be done in different ways. Radio and television can teach road safety rules through interesting programmes. Schools can have traffic education programmes. Parents should not allow under-age children to drive cars or motorcycles. Lessons in textbooks can teach simple rules like the 'Green Cross code', which is stop, look, listen, think and cross. They can also teach rules about walking on the footpath or the side of the road if there is no footpath. All citizens can remain safe on the roads if they follow rules. Cyclists should stay on the extreme left on the road. Pedestrians should not run across the road. They should wait patiently and cross when it is safe. People should not get off moving vehicles. Motorcyclists should wear helmets."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 7",
+                "items": [
+                  {
+                    "q": "Which category of road user do you belong to? You can choose as many categories as you want from the four categories given in the table.",
+                    "a": "Model answer: I belong to the category of pedestrians, because I walk to school every day. I also belong to the category of users of school and public transport, because sometimes I travel by bus. (Your answer will depend on how you travel.)"
+                  },
+                  {
+                    "q": "Are any of the rules from the category that you belong to new for you? Which one(s)?",
+                    "a": "Model answer: Yes, one rule was new for me. I did not know that pedestrians should wait patiently for the right time to cross the road and use the Green Cross Code — stop, look, listen, think and cross. (Your answer will depend on which rules are new for you.)"
+                  },
+                  {
+                    "q": "Many people do not follow all the rules that they already know. Why do you think this happens?",
+                    "a": "Model answer: Many people do not follow the rules because they are in a hurry, they are careless, they think that nothing bad will happen to them, or they think that the rules are not important. Some people also break the rules because they see other people breaking them."
+                  },
+                  {
+                    "q": "As a pillion rider, what two pieces of advice will you give to a motorcyclist?",
+                    "a": "Model answer: 1. Wear a helmet and drive slowly. 2. Do not perform stunts and do not drive too fast."
+                  },
+                  {
+                    "q": "Your brother usually walks home from work. Give him one suggestion that he can easily follow to remain safe from traffic accidents.",
+                    "a": "Model answer: Walk on the footpath, and if there is no footpath, walk on the extreme edge of the road. Always use zebra crossings to cross the road."
+                  }
+                ]
+              }
+            ],
+            "num": "3.1"
+          },
+          {
+            "name": "Speaking",
+            "exercises": [
+              {
+                "label": "Asking for and expressing opinions",
+                "items": [
+                  {
+                    "q": "Work in groups of three and use the expressions given in the model dialogue to write a short dialogue on the following situation: Three friends asking each other's opinion about taking tuitions to pass the exams.",
+                    "a": "Model dialogue: Ahmed: What do you think about taking tuitions to pass the exams? Sameer: It's a good idea! What do you say, Nadeem? Nadeem: I like it, but I think our first responsibility is to study hard at school and at home. Sameer: What is your opinion, Ahmed? Ahmed: Well, I think it is indeed a good way to get help in difficult subjects. But, yes, we must not depend only on tuitions. Nadeem: Yes, that's right. I agree with you."
+                  },
+                  {
+                    "q": "Work in groups of three and use the expressions given in the model dialogue to write a short dialogue on the following situation: Three friends asking each other's opinion about the use of mobile phones in schools.",
+                    "a": "Model dialogue: Ahmed: What do you think about the use of mobile phones in schools? Sameer: It's a bad idea! What do you say, Nadeem? Nadeem: I like it, but I think mobile phones disturb our studies in the classroom. Sameer: What is your opinion, Ahmed? Ahmed: Well, I think it is indeed a good way to contact our parents in an emergency. But, yes, we must not use them in the classroom. Nadeem: Yes, that's right. I agree with you."
+                  }
+                ]
+              }
+            ],
+            "num": "3.2"
+          },
+          {
+            "name": "Language Practice",
+            "exercises": [
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "Here is a list of ten things; students must do five of these and mustn't do five. Put these under the respective headings in the table given below: exercise regularly, behave rudely, shout in class, study hard, obey their teachers, follow the school rules, break the school furniture, miss their classes, do their homework, write on the school wall or furniture",
+                    "a": "MUST DO: 1. exercise regularly 2. study hard 3. obey their teachers 4. follow the school rules 5. do their homework. MUSTN'T DO: 1. behave rudely 2. shout in class 3. break the school furniture 4. miss their classes 5. write on the school wall or furniture."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 2",
+                "items": [
+                  {
+                    "q": "Complete the statement: A good friend must __________",
+                    "a": "Model answer: A good friend must help his friends in need."
+                  },
+                  {
+                    "q": "Complete the statement: A good friend mustn't __________",
+                    "a": "Model answer: A good friend mustn't tell lies to his friends."
+                  },
+                  {
+                    "q": "Complete the statement: A good teacher must __________",
+                    "a": "Model answer: A good teacher must teach his students with love and care."
+                  },
+                  {
+                    "q": "Complete the statement: A good teacher mustn't __________",
+                    "a": "Model answer: A good teacher mustn't punish his students without reason."
+                  },
+                  {
+                    "q": "Complete the statement: A good classmate must __________",
+                    "a": "Model answer: A good classmate must help his classmates in their studies."
+                  },
+                  {
+                    "q": "Complete the statement: A good classmate mustn't __________",
+                    "a": "Model answer: A good classmate mustn't disturb his classmates in the class."
+                  },
+                  {
+                    "q": "Complete the statement: A good brother or sister must __________",
+                    "a": "Model answer: A good brother or sister must love and help his younger brothers and sisters."
+                  },
+                  {
+                    "q": "Complete the statement: A good brother or sister mustn't __________",
+                    "a": "Model answer: A good brother or sister mustn't fight with his brothers and sisters."
+                  },
+                  {
+                    "q": "Complete the statement: A good parent must __________",
+                    "a": "Model answer: A good parent must take good care of his children."
+                  },
+                  {
+                    "q": "Complete the statement: A good parent mustn't __________",
+                    "a": "Model answer: A good parent mustn't beat his children."
+                  },
+                  {
+                    "q": "Complete the statement: A good son or daughter must __________",
+                    "a": "Model answer: A good son or daughter must respect and obey his parents."
+                  },
+                  {
+                    "q": "Complete the statement: A good son or daughter mustn't __________",
+                    "a": "Model answer: A good son or daughter mustn't disobey his parents."
+                  },
+                  {
+                    "q": "Complete the statement: A good neighbour must __________",
+                    "a": "Model answer: A good neighbour must help his neighbours in need."
+                  },
+                  {
+                    "q": "Complete the statement: A good neighbour mustn't __________",
+                    "a": "Model answer: A good neighbour mustn't disturb his neighbours."
+                  },
+                  {
+                    "q": "Complete the statement: A good citizen must __________",
+                    "a": "Model answer: A good citizen must follow the laws of the country."
+                  },
+                  {
+                    "q": "Complete the statement: A good citizen mustn't __________",
+                    "a": "Model answer: A good citizen mustn't break the laws of the country."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 3",
+                "items": [
+                  {
+                    "q": "Work in groups of four. Identify at least three problems in your environment. Next, discuss at least two things that you must do and two things you mustn't do with respect to each problem. Fill the information in the following table. Problem No. 1: Garbage around the house (Must Do 1. Talk to the people to find a solution; Mustn't Do 1. Throw garbage around the house — given in the book). Problem No. 2 and Problem No. 3 are blank.",
+                    "a": "Model completed table: Problem No. 1: Garbage around the house — Must Do: 1. Talk to the people to find a solution (given in the book). 2. Put the garbage in dustbins. Mustn't Do: 1. Throw garbage around the house (given in the book). 2. Burn garbage in the open. Problem No. 2: Dirty water standing on the streets — Must Do: 1. Inform the town committee about the blocked drains. 2. Clean the drains with the help of neighbours. Mustn't Do: 1. Throw garbage into the drains. 2. Let dirty water stand near the houses. Problem No. 3: Noise in the classroom — Must Do: 1. Ask the students to speak softly. 2. Listen to the teacher carefully. Mustn't Do: 1. Shout in the class. 2. Disturb the students who are studying."
+                  },
+                  {
+                    "q": "Next, prepare a short speech to tell your classmates what problems had been identified by your group and what you plan to do about them so that you can contribute in solving the problems that you and your neighbours are facing.",
+                    "a": "Model speech: Dear classmates, our group has found three problems in our environment: garbage around the house, dirty water on the streets, and noise in the classroom. To solve the problem of garbage, we must put it in dustbins and we mustn't throw it around the house. To solve the problem of dirty water, we must clean the drains and we mustn't throw garbage into them. To solve the problem of noise, we must speak softly and listen to the teacher, and we mustn't shout in the class. We all must work together to make our environment clean and peaceful. Thank you."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 4",
+                "items": [
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 1. __________ all the utensils, glasses, dishes etc. to the washing area.",
+                    "a": "1. Take all the utensils, glasses, dishes etc. to the washing area. (given in the book as the example)"
+                  },
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 2. __________ them into different piles.",
+                    "a": "2. Separate them into different piles."
+                  },
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 3. __________ the small things, like spoons, bowls and things made of glass first.",
+                    "a": "3. Wash the small things, like spoons, bowls and things made of glass first."
+                  },
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 4. __________ soap to all the things mentioned above and then rinse them with water.",
+                    "a": "4. Apply soap to all the things mentioned above and then rinse them with water."
+                  },
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 5. __________ all the other utensils properly using the washing powder and soap.",
+                    "a": "5. Scrub all the other utensils properly using the washing powder and soap."
+                  },
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 6. __________ all the scrubbed utensils one by one.",
+                    "a": "6. Rinse all the scrubbed utensils one by one."
+                  },
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 7. __________ them with a clean towel.",
+                    "a": "7. Dry them with a clean towel."
+                  },
+                  {
+                    "q": "Complete the set of instructions using the verbs in the list (scrub, wash, dry, separate, keep, apply, take, rinse — each verb only once): 8. __________ them in their proper place.",
+                    "a": "8. Keep them in their proper place."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 5",
+                "items": [
+                  {
+                    "q": "Look at the pictures and write appropriate sentences in your notebook to instruct your younger brother or sister on how to make tea and serve it to the guests. You may take any word from groups 1 and 2 given in the word bank below or use other words. Take only those words that you need, not all the words. However, use all the words in group 3. Word Bank — Group 1: plate, pan, kettle, cup, mug, spoon, tray, stove. Group 2: biscuits, water, sugar, tea leaves, tea bags, milk. Group 3: boil, pour, stir, add, take, heat, put, serve, fill.",
+                    "a": "Model instructions (using all the verbs in Group 3): 1. Take a pan and pour water into it from the kettle. 2. Put the pan on the stove and heat the water. 3. Add tea leaves to the water with a spoon. 4. Pour milk into the pan. 5. Stir the tea and boil it for 3 minutes. 6. Pour the tea into the cup and fill the cup. 7. Put the teapot and the cups on the tray. 8. Serve the tea to the guests with biscuits."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 6",
+                "items": [
+                  {
+                    "q": "Imagine, your class has a new teacher. He/She wants the class to help her make some rules that all the students must follow. He/She asks you to write the rules. Work in groups of three and prepare a list of 4-6 rules that students must follow in class. One example has been given: Wear neat and clean uniforms.",
+                    "a": "Model list of rules: 1. Wear neat and clean uniforms. (given in the book) 2. Come to school on time. 3. Listen to the teacher carefully. 4. Raise your hand before you speak. 5. Keep the classroom clean. 6. Do your homework regularly."
+                  }
+                ]
+              }
+            ],
+            "num": "3.3"
+          },
+          {
+            "name": "Writing",
+            "exercises": [
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "Work in pairs and write a formal email to the traffic department to arrange a road safety awareness programme in your school. Follow all the steps explained earlier.",
+                    "a": "Model email: To: trafficpolice@sindh.gov.pk. Subject: Request to arrange a road safety awareness programme in our school. Dear Sir, I am a student of Class VIII at Government Boys Lower Secondary School Haseeja Mahar. I am writing to request you to arrange a road safety awareness programme in our school. Many students of our school walk or ride bicycles on busy roads every day, and many of them do not know the traffic rules. Last month, two students of our school were injured in road accidents. We need to learn the traffic rules so that we can remain safe on the roads. I would like to request you to send a team of the traffic police to our school to teach the students the traffic rules, the Green Cross Code and the safety rules for cyclists, pedestrians and pillion riders. The programme can be arranged on any day next week at a time that suits you. I look forward to hearing from you. Thank you for your kind consideration. Yours faithfully, A Student of Class VIII, Government Boys Lower Secondary School Haseeja Mahar. (The email address is a model address.)"
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 2",
+                "items": [
+                  {
+                    "q": "Work individually and write a formal email to the Nazim of the city/town asking him/her to ensure that the people know the Traffic Safety rules before they are given a driving licence. Follow all the steps explained above.",
+                    "a": "Model email: To: nazim@haseeja.gov.pk. Subject: Request to ensure that people know the Traffic Safety rules before they are given a driving licence. Dear Sir, I am a student of Class VIII at Government Boys Lower Secondary School Haseeja Mahar. I am writing to request you to ensure that the people of our town know the traffic safety rules before they are given a driving licence. Many people in our town drive cars and motorcycles without knowing the traffic rules. They do not follow the traffic signals, they drive too fast and they do not wear helmets. This is why so many road accidents happen in our town every year. I would like to request you to make it necessary for every person to pass a test of the traffic safety rules before he is given a driving licence. The traffic police should also teach the traffic rules to the people who apply for a driving licence. I look forward to hearing from you. Thank you for your kind consideration. Yours faithfully, A Student of Class VIII, Government Boys Lower Secondary School Haseeja Mahar. (The email address is a model address.)"
+                  },
+                  {
+                    "q": "Work individually and write a formal email to a news channel to produce some entertaining TV programmes on traffic safety. Follow all the steps explained above.",
+                    "a": "Model email: To: news@channel.com. Subject: Request to produce entertaining TV programmes on traffic safety. Dear Madam, I am a student of Class VIII at Government Boys Lower Secondary School Haseeja Mahar. I am writing to request you to produce some entertaining TV programmes on traffic safety. Every day, many people die or are injured in road accidents in Pakistan. Most of these accidents happen because people do not follow the traffic rules. Television is a very good way to teach people about road safety, because almost every house has a television. I would like to request you to produce some interesting and entertaining programmes, such as short plays, cartoons and songs, to teach the people the traffic rules and the safety rules for cyclists, pedestrians and drivers. Such programmes will help to save many lives on our roads. I look forward to hearing from you. Thank you for your kind consideration. Yours faithfully, A Student of Class VIII, Government Boys Lower Secondary School Haseeja Mahar. (The email address is a model address.)"
+                  }
+                ]
+              }
+            ],
+            "num": "3.4"
+          },
+          {
+            "name": "Study Skills",
+            "exercises": [
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "Work in groups of three. Follow the given guidelines and prepare a presentation outline on the topic: The Importance of Reading. You will then have to give a group presentation in front of the class.",
+                    "a": "Model extended outline — Title: The Importance of Reading. Introduction: A. Greeting — Good morning, respected teachers and dear classmates. B. Introductory statements — Books are our best friends. Reading is one of the best habits a student can have. C. The objective or purpose of the presentation — Today I will tell you why reading is important for us. First main point: Reading increases our knowledge. A. Supporting point 1 + details — We learn about the world, science, history and other countries from books. B. Supporting point 2 + details — Reading helps us in our studies; students who read more get better marks. C. Supporting point 3 + details — For example, reading newspapers keeps us informed about what is happening in the world. Second main point: Reading improves our language. A. Supporting point 1 + details — We learn new words and how to use them correctly. B. Supporting point 2 + details — Reading good books improves our writing and speaking. C. Supporting point 3 + details — For example, students who read story books speak English more fluently. Conclusion: A. Concluding words — To sum up. B. Summary of main points — Reading increases our knowledge and improves our language. C. Suggestions — I suggest that every student should read at least one book every month."
+                  },
+                  {
+                    "q": "Work in groups of three. Follow the given guidelines and prepare a presentation outline on the topic: Three Places in Pakistan that Students Should Visit. You will then have to give a group presentation in front of the class.",
+                    "a": "Model extended outline — Title: Three Places in Pakistan that Students Should Visit. Introduction: A. Greeting — Good morning, respected teachers and dear classmates. B. Introductory statements — Pakistan is a beautiful country with many historical and natural places. C. The objective or purpose of the presentation — Today I will tell you about three places in Pakistan that students should visit. First main point: Mohenjo-daro. A. Supporting point 1 + details — It is one of the oldest cities in the world, built about 4,500 years ago. B. Supporting point 2 + details — We can see the Great Bath, the Great Granary and the well-planned streets of the Indus Valley Civilization. C. Supporting point 3 + details — It is a UNESCO World Heritage Site and the pride of Sindh. Second main point: Lahore. A. Supporting point 1 + details — Lahore is the cultural heart of Pakistan. B. Supporting point 2 + details — We can visit the Badshahi Mosque, the Lahore Fort and the Shalimar Gardens. C. Supporting point 3 + details — The food and the old streets of Lahore are famous all over the world. Conclusion: A. Concluding words — In the end. B. Summary of main points — Mohenjo-daro shows us our ancient history and Lahore shows us our rich culture. C. Suggestions — I suggest that our school should arrange a tour to these places."
+                  },
+                  {
+                    "q": "Work in groups of three. Follow the given guidelines and prepare a presentation outline on the topic: Why Should We Learn English. You will then have to give a group presentation in front of the class.",
+                    "a": "Model extended outline — Title: Why Should We Learn English. Introduction: A. Greeting — Good morning, respected teachers and dear classmates. B. Introductory statements — English is spoken in almost every country of the world. C. The objective or purpose of the presentation — Today I will tell you why we should learn English. First main point: English helps us in our studies and jobs. A. Supporting point 1 + details — Most books on science, medicine and technology are written in English. B. Supporting point 2 + details — People who know English can get better jobs. C. Supporting point 3 + details — For example, doctors, engineers and officers all need English in their work. Second main point: English helps us to communicate with the world. A. Supporting point 1 + details — English is the language of the internet and computers. B. Supporting point 2 + details — We can talk to people from other countries in English. C. Supporting point 3 + details — For example, we can watch English programmes and read English newspapers to learn about the world. Conclusion: A. Concluding words — To sum up. B. Summary of main points — English helps us in our studies, in our jobs and in communicating with the world. C. Suggestions — I suggest that we should speak English in our class every day."
+                  }
+                ]
+              }
+            ],
+            "num": "3.5"
+          },
+          {
+            "name": "Fun",
+            "exercises": [
+              {
+                "label": "Reading the news",
+                "items": [
+                  {
+                    "q": "Read the news item and fill the details in the table: News 1: Express News — Hyderabad, Dec 5: At least five people, including two children, were killed in a car-motorcycle collision during rain in Shahdadkot, in Sindh. (Name of newspaper, City from where reported, Date of reporting, Who is mentioned, What has been reported)",
+                    "a": "Name of newspaper: Express News. City from where reported: Hyderabad. Date of reporting: Dec 5. Who is mentioned: At least five people, including two children. What has been reported: They were killed in a car-motorcycle collision during rain in Shahdadkot, in Sindh."
+                  },
+                  {
+                    "q": "Read the news item and fill the details in the table: News 2: DAWN — Rawalpindi, Jan 21: For the first time, women's transport service has been launched between the twin cities of Rawalpindi and Islamabad. Women will now be able to travel using comfortable, safe and affordable transportation facilities from Monday, February 4, 2014. (Name of newspaper, City from where reported, Date of reporting, Who is mentioned, What has been reported)",
+                    "a": "Name of newspaper: DAWN. City from where reported: Rawalpindi. Date of reporting: Jan 21. Who is mentioned: Women (of Rawalpindi and Islamabad). What has been reported: For the first time, women's transport service has been launched between the twin cities of Rawalpindi and Islamabad; women will now be able to travel using comfortable, safe and affordable transportation facilities from Monday, February 4, 2014."
+                  },
+                  {
+                    "q": "Read the news item and fill the details in the table: News 3: The Nation — Karachi, Aug 5: The Karachi Traffic police authorities have announced that people breaking some of the traffic rules will now be put in prison for up to two years. The punishment will apply to those who break traffic signals, disobey one-way traffic signs, and travel on the rooftop of buses and coaches. (Name of newspaper, City from where reported, Date of reporting, Who is mentioned, What has been reported)",
+                    "a": "Name of newspaper: The Nation. City from where reported: Karachi. Date of reporting: Aug 5. Who is mentioned: The Karachi Traffic police authorities / people breaking the traffic rules. What has been reported: People breaking some of the traffic rules will now be put in prison for up to two years — those who break traffic signals, disobey one-way traffic signs, and travel on the rooftop of buses and coaches."
+                  }
+                ]
+              }
+            ],
+            "num": "3.6"
+          }
+        ],
+        "title": "TRAFFIC EDUCATION",
+        "unit": 3,
+        "words": [
+          {
+            "sd": "بي ضابطو",
+            "syn": "not following rules",
+            "w": "undisciplined"
+          },
+          {
+            "sd": "پيادل",
+            "syn": "a person who walks on the road",
+            "w": "pedestrian"
+          },
+          {
+            "sd": "خطرناڪ ڪرتب",
+            "syn": "a dangerous act",
+            "w": "stunt"
+          },
+          {
+            "sd": "بچي نڪرڻ",
+            "syn": "to move quickly to avoid something",
+            "w": "dodge"
+          },
+          {
+            "sd": "حڪمت عملي",
+            "syn": "a way of doing things",
+            "w": "strategy"
+          },
+          {
+            "sd": "وڻندڙ",
+            "syn": "attractive; liked by people",
+            "w": "appealing"
+          },
+          {
+            "sd": "نابالغ",
+            "syn": "less than the legal age (18 for driving)",
+            "w": "under-age"
+          },
+          {
+            "sd": "ڏيڻ",
+            "syn": "to give (knowledge or education)",
+            "w": "impart"
+          },
+          {
+            "sd": "عڪس ڏيندڙ",
+            "syn": "a thing that shines back light",
+            "w": "reflector"
+          },
+          {
+            "sd": "پوئين سيٽ وارو سوار",
+            "syn": "a person sitting behind the driver",
+            "w": "pillion rider"
+          },
+          {
+            "sd": "لٽڪائڻ",
+            "syn": "to hang loosely in the air",
+            "w": "dangle"
+          },
+          {
+            "sd": "ڌيان هٽائڻ",
+            "syn": "to take away attention",
+            "w": "distract"
+          },
+          {
+            "sd": "فٽ پاٿ",
+            "syn": "a path for people to walk on",
+            "w": "footpath"
+          },
+          {
+            "sd": "زيبرا ڪراسنگ",
+            "syn": "a safe place with white stripes for crossing the road",
+            "w": "zebra crossing"
+          },
+          {
+            "sd": "هيلمٽ",
+            "syn": "a hard hat that protects the head",
+            "w": "helmet"
+          },
+          {
+            "sd": "لاپرواه",
+            "syn": "not careful",
+            "w": "careless"
+          },
+          {
+            "sd": "ڏک",
+            "syn": "great sadness",
+            "w": "grief"
+          },
+          {
+            "sd": "وچان وڃڻ",
+            "syn": "to move in and out of traffic",
+            "w": "weave"
+          },
+          {
+            "sd": "نقصان",
+            "syn": "damage or injury",
+            "w": "harm"
+          },
+          {
+            "sd": "پوئين سيٽ",
+            "syn": "the seat behind the driver",
+            "w": "pillion"
+          }
+        ],
+        "display": "Better Be Safe Than Sorry"
+      },
+      {
+        "reading": "Educational Exhibition",
+        "sections": [
+          {
+            "name": "Reading Comprehension",
+            "exercises": [
+              {
+                "label": "Pre-reading",
+                "items": [
+                  {
+                    "q": "Work in pairs and write down any five professions that you can think of.",
+                    "a": "Model answer: 1. Doctor 2. Teacher 3. Engineer 4. Farmer 5. Bank manager. (Any five professions are acceptable.)"
+                  },
+                  {
+                    "q": "Choose one profession that you would like to take up in the future.",
+                    "a": "Model answer: I would like to become a doctor in the future. (Your answer will depend on your own choice.)"
+                  },
+                  {
+                    "q": "Tell your partner why you want to take up that profession.",
+                    "a": "Model answer: I want to become a doctor because I love serving human beings and I want to cure the sick people of my village. (Your answer will depend on your own reason.)"
+                  },
+                  {
+                    "q": "We are going to read a text titled EDUCATIONAL EXHIBITION. Guess what the text is about.",
+                    "a": "Model answer: The text is probably about an educational exhibition in a school, where students visit different stalls and learn about different professions and educational opportunities."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "There are __________ scenes in the text.",
+                    "a": "There are 5 scenes in the text."
+                  },
+                  {
+                    "q": "List the stalls in the order in which the students visited them.",
+                    "a": "1. Agriculture Stall 2. Commerce Stall 3. Computer Sciences Stall 4. Medical and Engineering Stall 5. Food Stalls."
+                  },
+                  {
+                    "q": "Write the names of all the students mentioned in the text.",
+                    "a": "Juma, Anum, Rehmat, Majid, Sonia, Sudheer, Zainab and Fehmida — 8 students in all."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 2",
+                "items": [
+                  {
+                    "q": "Match the word with its meaning (Scene I): scope. Meanings: a. chances; b. shows; c. increasing the number of animals through birth; d. range of choices; e. stories that many people believe but are not true",
+                    "a": "d) range of choices. (given in the book as the example)"
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene I): opportunities. Meanings: a. chances; b. shows; c. increasing the number of animals through birth; d. range of choices; e. stories that many people believe but are not true",
+                    "a": "a) chances."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene I): myth. Meanings: a. chances; b. shows; c. increasing the number of animals through birth; d. range of choices; e. stories that many people believe but are not true",
+                    "a": "e) stories that many people believe but are not true."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene I): reflects. Meanings: a. chances; b. shows; c. increasing the number of animals through birth; d. range of choices; e. stories that many people believe but are not true",
+                    "a": "b) shows."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene I): breeding. Meanings: a. chances; b. shows; c. increasing the number of animals through birth; d. range of choices; e. stories that many people believe but are not true",
+                    "a": "c) increasing the number of animals through birth."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene II): curiosity. Meanings: f. at the world level; g. wanting to know about everything; h. possible problems and issues; i. shown what something is like",
+                    "a": "g) wanting to know about everything."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene II): exposed. Meanings: f. at the world level; g. wanting to know about everything; h. possible problems and issues; i. shown what something is like",
+                    "a": "i) shown what something is like."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene II): global. Meanings: f. at the world level; g. wanting to know about everything; h. possible problems and issues; i. shown what something is like",
+                    "a": "f) at the world level."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene II): challenges. Meanings: f. at the world level; g. wanting to know about everything; h. possible problems and issues; i. shown what something is like",
+                    "a": "h) possible problems and issues."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene III): valuable. Meanings: j. sudden and great; k. get in touch with or talk to; l. pictures that move; m. quickly; n. useful or important",
+                    "a": "n) useful or important."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene III): rapidly. Meanings: j. sudden and great; k. get in touch with or talk to; l. pictures that move; m. quickly; n. useful or important",
+                    "a": "m) quickly."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene III): communicate. Meanings: j. sudden and great; k. get in touch with or talk to; l. pictures that move; m. quickly; n. useful or important",
+                    "a": "k) get in touch with or talk to."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene III): dramatic. Meanings: j. sudden and great; k. get in touch with or talk to; l. pictures that move; m. quickly; n. useful or important",
+                    "a": "j) sudden and great."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene III): animated. Meanings: j. sudden and great; k. get in touch with or talk to; l. pictures that move; m. quickly; n. useful or important",
+                    "a": "l) pictures that move."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene IV & V): backbone. Meanings: o. try and make someone accept something; p. a feeling that good things will happen; q. related to the teeth; r. the most important part; s. pleasurable; t. at present",
+                    "a": "r) the most important part."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene IV & V): currently. Meanings: o. try and make someone accept something; p. a feeling that good things will happen; q. related to the teeth; r. the most important part; s. pleasurable; t. at present",
+                    "a": "t) at present."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene IV & V): amazing. Meanings: o. try and make someone accept something; p. a feeling that good things will happen; q. related to the teeth; r. the most important part; s. pleasurable; t. at present",
+                    "a": "s) pleasurable. (This is the book's intended match. Note: 'amazing' really means 'very surprising and wonderful', not 'pleasurable' — the book's matching here is loose.)"
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene IV & V): convince. Meanings: o. try and make someone accept something; p. a feeling that good things will happen; q. related to the teeth; r. the most important part; s. pleasurable; t. at present",
+                    "a": "o) try and make someone accept something."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene IV & V): dental. Meanings: o. try and make someone accept something; p. a feeling that good things will happen; q. related to the teeth; r. the most important part; s. pleasurable; t. at present",
+                    "a": "q) related to the teeth."
+                  },
+                  {
+                    "q": "Match the word with its meaning (Scene IV & V): optimism. Meanings: o. try and make someone accept something; p. a feeling that good things will happen; q. related to the teeth; r. the most important part; s. pleasurable; t. at present",
+                    "a": "p) a feeling that good things will happen."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 3",
+                "items": [
+                  {
+                    "q": "Match the branch of agriculture with its description: Agronomy. Descriptions: a) It is basically the breeding and caring of animals for specific purposes, such as for their meat, milk and fur. b) It deals with the business end of farming. c) It deals with the cultivation of fruits, vegetables and flowers. d) It deals with soil management and the growing of crops. e) It involves knowledge of farm machines and equipment. It also deals with developing new systems and practices to address problems facing agriculture.",
+                    "a": "d) It deals with soil management and the growing of crops. (given in the book as the example)"
+                  },
+                  {
+                    "q": "Match the branch of agriculture with its description: Horticulture. Descriptions: a) It is basically the breeding and caring of animals for specific purposes, such as for their meat, milk and fur. b) It deals with the business end of farming. c) It deals with the cultivation of fruits, vegetables and flowers. d) It deals with soil management and the growing of crops. e) It involves knowledge of farm machines and equipment. It also deals with developing new systems and practices to address problems facing agriculture.",
+                    "a": "c) It deals with the cultivation of fruits, vegetables and flowers."
+                  },
+                  {
+                    "q": "Match the branch of agriculture with its description: Agricultural Engineering. Descriptions: a) It is basically the breeding and caring of animals for specific purposes, such as for their meat, milk and fur. b) It deals with the business end of farming. c) It deals with the cultivation of fruits, vegetables and flowers. d) It deals with soil management and the growing of crops. e) It involves knowledge of farm machines and equipment. It also deals with developing new systems and practices to address problems facing agriculture.",
+                    "a": "e) It involves knowledge of farm machines and equipment. It also deals with developing new systems and practices to address problems facing agriculture."
+                  },
+                  {
+                    "q": "Match the branch of agriculture with its description: Agricultural Economics. Descriptions: a) It is basically the breeding and caring of animals for specific purposes, such as for their meat, milk and fur. b) It deals with the business end of farming. c) It deals with the cultivation of fruits, vegetables and flowers. d) It deals with soil management and the growing of crops. e) It involves knowledge of farm machines and equipment. It also deals with developing new systems and practices to address problems facing agriculture.",
+                    "a": "b) It deals with the business end of farming."
+                  },
+                  {
+                    "q": "Match the branch of agriculture with its description: Animal Science. Descriptions: a) It is basically the breeding and caring of animals for specific purposes, such as for their meat, milk and fur. b) It deals with the business end of farming. c) It deals with the cultivation of fruits, vegetables and flowers. d) It deals with soil management and the growing of crops. e) It involves knowledge of farm machines and equipment. It also deals with developing new systems and practices to address problems facing agriculture.",
+                    "a": "a) It is basically the breeding and caring of animals for specific purposes, such as for their meat, milk and fur."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 4",
+                "items": [
+                  {
+                    "q": "Scene I — Read the statement and write (T) if it is True and (F) if it is False: Agriculture is a field for boys.",
+                    "a": "F. The Agricultural Expert said that there are a number of universities in Pakistan where boys and girls are researching on soil, seeds, water, environment, etc., as agricultural experts."
+                  },
+                  {
+                    "q": "Scene I — Read the statement and write (T) if it is True and (F) if it is False: Four branches of agriculture are mentioned in the text.",
+                    "a": "F. Five branches of agriculture are mentioned: Agronomy, Horticulture, Agricultural Engineering, Agricultural Economics and Animal Science."
+                  },
+                  {
+                    "q": "Scene I — Read the statement and write (T) if it is True and (F) if it is False: Horticulture is the field of agriculture which deals with animal sciences.",
+                    "a": "F. Horticulture deals with the cultivation of fruits, vegetables and flowers. Animal Science deals with animals."
+                  },
+                  {
+                    "q": "Scene I — Read the statement and write (T) if it is True and (F) if it is False: Agricultural engineering is the study related to the mechanical side of agriculture.",
+                    "a": "T. Agricultural engineering involves knowledge of farm machines and equipment."
+                  },
+                  {
+                    "q": "Scene II — Read the statement and write (T) if it is True and (F) if it is False: Scene two is about a medical stall.",
+                    "a": "F. Scene II is about the Commerce Stall."
+                  },
+                  {
+                    "q": "Scene II — Read the statement and write (T) if it is True and (F) if it is False: Commerce is a field related to business.",
+                    "a": "T. Commerce is the activity of buying and selling, especially on a large scale."
+                  },
+                  {
+                    "q": "Scene II — Read the statement and write (T) if it is True and (F) if it is False: Rehmat was interested in establishing business in Lahore.",
+                    "a": "F. Rehmat said that commerce would help her in setting up her own business anywhere in the world. Lahore is not mentioned."
+                  },
+                  {
+                    "q": "Scene II — Read the statement and write (T) if it is True and (F) if it is False: Studying commerce means learning about making money.",
+                    "a": "F. Studying commerce means learning about the business world — buying and selling, employment in commerce, finance and business, and establishing one's own business."
+                  },
+                  {
+                    "q": "Scene III — Read the statement and write (T) if it is True and (F) if it is False: The stalls were fully equipped with modern technology.",
+                    "a": "T. The computer stall had well-equipped, high tech, new generation computers."
+                  },
+                  {
+                    "q": "Scene III — Read the statement and write (T) if it is True and (F) if it is False: Communication is easily possible within and outside a country.",
+                    "a": "T. One can communicate with anybody across the world through computers."
+                  },
+                  {
+                    "q": "Scene III — Read the statement and write (T) if it is True and (F) if it is False: IT is slowing down the work in offices.",
+                    "a": "F. The world is progressing rapidly due to IT, and almost all the things are controlled with computers."
+                  },
+                  {
+                    "q": "Scene III — Read the statement and write (T) if it is True and (F) if it is False: Computer science is only about having fun.",
+                    "a": "F. Fun is only one part of computer science — computers are also used for communication, official and unofficial work, and education."
+                  },
+                  {
+                    "q": "Scene IV — Read the statement and write (T) if it is True and (F) if it is False: Doctors serve humanity.",
+                    "a": "T. Doctors cure diseases and solve physical problems, thereby serving humanity."
+                  },
+                  {
+                    "q": "Scene IV — Read the statement and write (T) if it is True and (F) if it is False: Anum's father was a doctor.",
+                    "a": "T. Anum said, 'My father is a doctor but I want to be an engineer.'"
+                  },
+                  {
+                    "q": "Scene IV — Read the statement and write (T) if it is True and (F) if it is False: Anum wanted to be an engineer.",
+                    "a": "T. Anum wanted to be an electronics engineer."
+                  },
+                  {
+                    "q": "Scene IV — Read the statement and write (T) if it is True and (F) if it is False: Mechanical engineers are paid highly.",
+                    "a": "F. The text says that all fields of engineering have almost the same growth and scope, and that civil engineers are often paid more than electrical and electronics engineers. Nothing is said about the pay of mechanical engineers."
+                  },
+                  {
+                    "q": "Scene V — Read the statement and write (T) if it is True and (F) if it is False: Juma planned to be a doctor.",
+                    "a": "F. Juma planned to become a civil engineer."
+                  },
+                  {
+                    "q": "Scene V — Read the statement and write (T) if it is True and (F) if it is False: Majid's father was a farmer.",
+                    "a": "T. Majid said that his father is a farmer and he would like to help him in this field."
+                  },
+                  {
+                    "q": "Scene V — Read the statement and write (T) if it is True and (F) if it is False: Sudheer wanted to be an architect.",
+                    "a": "F. Sudheer wanted to be a male nurse."
+                  },
+                  {
+                    "q": "Scene V — Read the statement and write (T) if it is True and (F) if it is False: Rehmat planned to be a mechanical engineer.",
+                    "a": "F. Rehmat said, 'I have no plans as yet. I will think and discuss with my parents.'"
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 5",
+                "items": [
+                  {
+                    "q": "Q. 1 What benefits can students get from commerce education, as mentioned in scene II?",
+                    "a": "Through commerce education, a student is exposed to the environment of the business world. It prepares students for employment in the commerce, finance and business fields and for establishing their own business anywhere in the world. It also prepares students to meet the global business challenges and compete in the international market, and it can guide young graduates to become successful business people of tomorrow."
+                  },
+                  {
+                    "q": "Q. 2 Why were the students excited about the computer stall in scene III?",
+                    "a": "The students were excited because the computer stall had well-equipped, high tech, new generation computers, and the IT Expert gave them valuable information about their possible future profession in computers — that computers can do anything, from communication and office work to education, games, animated movies and 3D films."
+                  },
+                  {
+                    "q": "Q. 3 What importance of computer science in the modern world is mentioned in scene III?",
+                    "a": "The world is progressing rapidly due to IT and almost all the things are controlled with computers. Anything can be done by the computers. One can communicate with anybody across the world. All our official and unofficial work can be done through computers. Moreover, computers have brought a dramatic change in education."
+                  },
+                  {
+                    "q": "Q. 4 Make a list of the fields in engineering, as discussed in scene IV.",
+                    "a": "Mechanical, Electrical, Civil and Electronics engineering."
+                  },
+                  {
+                    "q": "Q. 5 Write down the medical fields mentioned in scene IV.",
+                    "a": "Doctor, dentist and nurse. (In scene V, Sonia also mentions Bachelors in Dental Surgery — BDS.)"
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 6",
+                "items": [
+                  {
+                    "q": "Carry out a survey to find out the most popular and the least popular professional field among your class fellows. Ask all your classmates which field they would like to take and write only their first names in the given column. Professional fields: Agriculture, Commerce, Computer Science, Engineering, Medical Science, Any Other.",
+                    "a": "Model filled table (the real names and totals will come from your own class survey; this is an example for a class of 30 students): Agriculture — Ali, Ahmed, Bilal — Total 3. Commerce — Sana, Hina, Ayesha, Fatima, Zainab, Maryam — Total 6. Computer Science — Hassan, Usman, Kamran, Noman, Zahid, Waheed, Hamid, Faisal, Tariq — Total 9. Engineering — Majid, Juma, Sudheer, Anum, Fehmida — Total 5. Medical Science — Sonia, Rehmat, Saba, Bano — Total 4. Any Other — Nasir, Imran, Waqas — Total 3."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 7",
+                "items": [
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: i. The most popular professional field in my class is __________.",
+                    "a": "Model answer (using the example survey in Exercise 6): The most popular professional field in my class is Computer Science. (Your answer will depend on your own class survey.)"
+                  },
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: ii. The least popular professional field is __________.",
+                    "a": "Model answer (using the example survey in Exercise 6): The least popular professional field is Agriculture. (Your answer will depend on your own class survey.)"
+                  },
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: iii. __________ students are interested in Agriculture.",
+                    "a": "Model answer (using the example survey in Exercise 6): 3 students are interested in Agriculture. (Your answer will depend on your own class survey.)"
+                  },
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: iv. __________ students want to take Commerce.",
+                    "a": "Model answer (using the example survey in Exercise 6): 6 students want to take Commerce. (Your answer will depend on your own class survey.)"
+                  },
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: v. The number of students interested in Computer Science is __________.",
+                    "a": "Model answer (using the example survey in Exercise 6): The number of students interested in Computer Science is 9. (Your answer will depend on your own class survey.)"
+                  },
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: vi. __________ students are interested in Medical Science.",
+                    "a": "Model answer (using the example survey in Exercise 6): 4 students are interested in Medical Science. (Your answer will depend on your own class survey.)"
+                  },
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: vii. __________ students want to study Engineering.",
+                    "a": "Model answer (using the example survey in Exercise 6): 5 students want to study Engineering. (Your answer will depend on your own class survey.)"
+                  },
+                  {
+                    "q": "After collecting the data, analyze it by putting the information in the sentences given below: viii. While __________ students are interested in other fields.",
+                    "a": "Model answer (using the example survey in Exercise 6): While 3 students are interested in other fields. (Your answer will depend on your own class survey.)"
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 8",
+                "items": [
+                  {
+                    "q": "Which field would you choose for your future and why? Write the answer in your notebook. (Pictures given: waiter, engineer, manager, judge, doctor, photographer, farmer, cook, pilot, worker)",
+                    "a": "Model answer: I would choose to become a doctor in the future. I want to become a doctor because doctors serve humanity — they cure diseases and solve the physical problems of people. My village has no good hospital, and the people have to travel far for treatment. I want to serve the sick people of my village and my country. (Your answer will depend on your own choice.)"
+                  }
+                ]
+              }
+            ],
+            "num": "4.1"
+          },
+          {
+            "name": "Speaking",
+            "exercises": [
+              {
+                "label": "Solving Problems",
+                "items": [
+                  {
+                    "q": "Work in groups of four and speak to each other on the following situation, identifying the problem and proposing solutions (following the model dialogue about children wandering around the streets): i. Children suffering from Malaria",
+                    "a": "Model dialogue: Waheed: Why do you seem worried today? Hamid: In our village, many children are suffering from malaria. Waheed: Oh! That's very sad. They should go to the doctor for treatment. Hamid: But, what can we do in this regard? Noman: We can meet their parents and ask them to use mosquito nets and keep their houses clean. Zahid: Yes. We should also ask the elders of the village to spray medicine to kill the mosquitoes and to remove the standing water. Waheed: Perfect! This is an excellent idea. Let's meet them this evening."
+                  },
+                  {
+                    "q": "Work in groups of four and speak to each other on the following situation, identifying the problem and proposing solutions (following the model dialogue about children wandering around the streets): ii. Lack of public transport",
+                    "a": "Model dialogue: Waheed: Why do you seem cross today? Hamid: On the way to school, I saw many students waiting for a bus for a long time. Waheed: Oh! That's very sad. They should reach school on time. Hamid: But, what can we do in this regard? Noman: We can meet the transport officer and ask him to arrange more buses for the students. Zahid: Yes. We should also meet the elders of the village and ask them to take some steps in this regard. Waheed: Perfect! This is an excellent idea. Let's meet them this evening."
+                  },
+                  {
+                    "q": "Work in groups of four and speak to each other on the following situation, identifying the problem and proposing solutions (following the model dialogue about children wandering around the streets): iii. Cleanliness",
+                    "a": "Model dialogue: Waheed: Why do you seem cross today? Hamid: On the way to school, I saw garbage lying everywhere on the streets. Waheed: Oh! That's very sad. Our streets should be clean. Hamid: But, what can we do in this regard? Noman: We can meet the people of our street and ask them to put the garbage in dustbins. Zahid: Yes. We should also meet the elders of the village and ask them to arrange for the garbage to be collected every day. Waheed: Perfect! This is an excellent idea. Let's meet them this evening."
+                  }
+                ]
+              }
+            ],
+            "num": "4.2"
+          },
+          {
+            "name": "Language Practice",
+            "exercises": [
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "Complete the sentence in the indirect speech: 1. Mujeeb said to him, \"I cannot meet you after school today.\" Mujeeb said to him that he __________ him after school __________.",
+                    "a": "Mujeeb said to him that he could not meet him after school that day."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 2. Seema said, \"The food is very tasty here.\" Seema said that the food __________ very tasty __________.",
+                    "a": "Seema said that the food was very tasty there."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 3. I said to Murad, \"I am going to ride my bike to work from tomorrow.\" I said to Murad that I __________ my bike to work from the __________.",
+                    "a": "I said to Murad that I was going to ride my bike to work from the next day."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 4. My parents said, \"We have been to Lahore several times.\" My parents said that they __________ to Lahore several times.",
+                    "a": "My parents said that they had been to Lahore several times."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 5. Hania said to her, \"I forgot to call my mother this evening.\" Hania said to her that she __________ to call her mother __________.",
+                    "a": "Hania said to her that she had forgotten to call her mother that evening."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 6. We said to the teacher, \"We will complete our work by next week.\" We said to our teacher that we __________ our work by __________.",
+                    "a": "We said to our teacher that we would complete our work by the following week."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 7. Manmohan said, \"I will visit Quetta next year.\" Manmohan said that he __________ Quetta the following year.",
+                    "a": "Manmohan said that he would visit Quetta the following year."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 8. Fahim's boss said to his employees, \"The meeting will start at 2:00 pm today.\" Fahim's boss said to his employees that the meeting __________ at 2:00 pm __________.",
+                    "a": "Fahim's boss said to his employees that the meeting would start at 2:00 pm that day."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 9. All the mechanics said to us, \"We cannot fix your car.\" All the mechanics said to us that they __________ our car.",
+                    "a": "All the mechanics said to us that they could not fix our car."
+                  },
+                  {
+                    "q": "Complete the sentence in the indirect speech: 10. My brother said to him, \"I've already seen this movie.\" My brother said to him that he __________ already __________ __________ movie.",
+                    "a": "My brother said to him that he had already seen that movie."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 2",
+                "items": [
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 1. Shah said, \"I don't like seafood.\"",
+                    "a": "Shah said that he did not like seafood."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 2. I said, \"I was sleeping when you came last night.\"",
+                    "a": "I said that I had been sleeping when he came the previous night."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 3. Mariam said, \"I am planning to go to Turkey next summer.\"",
+                    "a": "Mariam said that she was planning to go to Turkey the next summer."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 4. Deeba said, \"We visited our grandmother last summer.\"",
+                    "a": "Deeba said that they had visited their grandmother the previous summer."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 5. Rashid said, \"We're going to visit my aunt this evening.\"",
+                    "a": "Rashid said that they were going to visit his aunt that evening."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 6. My sister said, \"I have to finish my report by tonight.\"",
+                    "a": "My sister said that she had to finish her report by that night."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 7. The little girl said, \"I can't read Farsi.\"",
+                    "a": "The little girl said that she could not read Farsi."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 8. My classmates said, \"We will come to the presentation tomorrow.\"",
+                    "a": "My classmates said that they would come to the presentation the next day."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 9. Safdar said to me, \"I can meet you today at noon.\"",
+                    "a": "Safdar said to me that he could meet me that day at noon."
+                  },
+                  {
+                    "q": "Change the sentence from Direct speech into Indirect speech: 10. All of us said, \"We will be in college next year.\"",
+                    "a": "All of us said that we would be in college the following year."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 3",
+                "items": [
+                  {
+                    "q": "Work with a partner and change the following dialogue into indirect speech. Write this in your notebook. You may begin like this: Zeenat said that her sister was getting married the next day. Najma replied that... Dialogue: Zeenat: My sister is getting married tomorrow. Najma: I know. My mother told me yesterday. Zeenat: I will wear a blue shalwar kameez and my mother will wear a yellow dress. Mahnoor: This is why you were absent last week. Zeenat: I had to go and invite people for the wedding. Najma: Last night my mother told me that we had been invited to the wedding. Mahnoor: My sister also told me that we will go to the wedding. Zeenat: We have invited all our friends and family to the wedding. It will be great fun.",
+                    "a": "Zeenat said that her sister was getting married the next day. Najma replied that she knew. Her mother had told her the previous day. Zeenat said that she would wear a blue shalwar kameez and her mother would wear a yellow dress. Mahnoor said that that was why she had been absent the previous week. Zeenat said that she had had to go and invite people for the wedding. Najma said that her mother had told her the previous night that they had been invited to the wedding. Mahnoor said that her sister had also told her that they would go to the wedding. Zeenat said that they had invited all their friends and family to the wedding and that it would be great fun."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 4",
+                "items": [
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: glad",
+                    "a": "gladly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: clever",
+                    "a": "cleverly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: poor",
+                    "a": "poorly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: sudden",
+                    "a": "suddenly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: quick",
+                    "a": "quickly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: cheap",
+                    "a": "cheaply"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: patient",
+                    "a": "patiently"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: real",
+                    "a": "really"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: proper",
+                    "a": "properly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: hungry",
+                    "a": "hungrily"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: lazy",
+                    "a": "lazily"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: noisy",
+                    "a": "noisily"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: easy",
+                    "a": "easily"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: angry",
+                    "a": "angrily"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: heavy",
+                    "a": "heavily"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: true",
+                    "a": "truly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: simple",
+                    "a": "simply"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: gentle",
+                    "a": "gently"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: comfortable",
+                    "a": "comfortably"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: possible",
+                    "a": "possibly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: idle",
+                    "a": "idly"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: hopeful",
+                    "a": "hopefully"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: thankful",
+                    "a": "thankfully"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: grateful",
+                    "a": "gratefully"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: careful",
+                    "a": "carefully"
+                  },
+                  {
+                    "q": "Follow the rules for forming adverbs of manner and write the adverb formed from the adjective: peaceful",
+                    "a": "peacefully"
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 5",
+                "items": [
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 1. They were sitting __________ and talking when they heard a loud noise.",
+                    "a": "They were sitting comfortably and talking when they heard a loud noise."
+                  },
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 2. The lights went off __________ so the program had to end.",
+                    "a": "The lights went off suddenly so the program had to end."
+                  },
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 3. All the students were able to do the math paper __________.",
+                    "a": "All the students were able to do the math paper easily."
+                  },
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 4. We should all live __________ with our neighbours.",
+                    "a": "We should all live peacefully with our neighbours."
+                  },
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 5. The chairman left the meeting __________ because his wife was sick.",
+                    "a": "The chairman left the meeting quickly because his wife was sick."
+                  },
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 6. The people had not had food for two days so they ate __________.",
+                    "a": "The people had not had food for two days so they ate hungrily."
+                  },
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 7. The nurse lifted the baby __________ and changed her clothes.",
+                    "a": "The nurse lifted the baby gently and changed her clothes."
+                  },
+                  {
+                    "q": "Complete the sentence by adding one adverb from the table in Exercise 4 (use one adverb only once): 8. The office clerk __________ took the money that his boss gave him",
+                    "a": "The office clerk gratefully took the money that his boss gave him."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 6",
+                "items": [
+                  {
+                    "q": "Work in pairs and complete the following dialogue with suitable adverbs from the table in Exercise 4. Discuss it orally at first and then write the complete dialogue in your notebooks. Kamran: Why did Mariam leave the room __________? Saba: She was upset because although she had done her work __________ she had made a big mistake. Kamran: But she could have __________ explained to us and we would have understood. Saba: I know. __________ she will be alright by lunch time. Bano: Do you __________ believe so? Saba: I think if we __________ wait until she feels alright there will be no problem. Kamran: I __________ don't understand how could a clever girl like Mariam make such a mistake? Saba: People who always do their work __________ get upset when things go wrong. Bano: __________, her mood will get better by lunch time. She is such a jolly person, I don't want her to be sad.",
+                    "a": "Completed dialogue: Kamran: Why did Mariam leave the room suddenly? Saba: She was upset because although she had done her work carefully she had made a big mistake. Kamran: But she could have simply explained to us and we would have understood. Saba: I know. Hopefully she will be alright by lunch time. Bano: Do you really believe so? Saba: I think if we patiently wait until she feels alright there will be no problem. Kamran: I truly don't understand how could a clever girl like Mariam make such a mistake? Saba: People who always do their work properly get upset when things go wrong. Bano: Thankfully, her mood will get better by lunch time. She is such a jolly person, I don't want her to be sad. (Note: the last blank has no fully natural adverb in the table; 'Thankfully' is the best available fit — any sensible adverb is acceptable here.)"
+                  }
+                ]
+              }
+            ],
+            "num": "4.3"
+          },
+          {
+            "name": "Writing",
+            "exercises": [
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "Read the text in section 4.1 again. You can see that Majid visited all the stalls. Write a paragraph to show the order in which he visited the stalls. Use words like first, next, then, after that, and finally, to show the order. You can begin like this: The Government __________ organised an __________ exhibition. All the children and their __________ visited the stalls. Majid first visited the __________ stall. He asked the __________ expert about __________. Next, he __________. He asked __________. Then, he __________. He __________. Finally, __________. He __________. After visiting all the stalls he decided to become __________ so that he could __________.",
+                    "a": "Completed paragraph: The Government High School No. 2 Shikarpur organised an educational exhibition. All the children and their parents visited the stalls. Majid first visited the agriculture stall. He asked the agricultural expert about the scope of agriculture in Pakistan. Next, he visited the commerce stall. He asked the bank manager about commerce education and its benefits. Then, he visited the computer sciences stall. He learned how computers can help in education, communication and work. Finally, he visited the medical and engineering stall. He asked the doctor and the engineer about the medical and engineering fields. After visiting all the stalls he decided to become an agricultural engineer so that he could help his father in farming."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 2",
+                "items": [
+                  {
+                    "q": "Work in pairs and complete the following by writing a short narrative paragraph. Write the complete paragraph in your notebook: Today, when I reached near the school gate................................................................................................................................................................................................................................................................................................................................",
+                    "a": "Model paragraph: Today, when I reached near the school gate, I saw a small boy crying loudly. He was standing near the gate with his school bag in his hand. I went to him quickly and asked him why he was crying. He told me sadly that he had lost his money and he could not buy his lunch. I felt sorry for him, so I gave him some money from my own pocket. Then he smiled happily and thanked me. After that, we walked into the school together. I felt very happy because I had helped a small boy in need."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 3",
+                "items": [
+                  {
+                    "q": "Write an incident from your life with the help of the following instructions: Use the past tense. Use adjectives and adverbs in order to give details. Use appropriate transitional words to show the order of events.",
+                    "a": "Model paragraph: One day, when I was going to school, I saw an old man fall down from his bicycle on the busy road. He fell heavily on the ground and hurt his knee badly. First, I ran quickly towards him and helped him to stand up. Then, I picked up his bicycle carefully and parked it at the side of the road. After that, I took him slowly to a nearby shop and gave him some water to drink. Finally, I called his son on my mobile phone, and his son came soon and took him to the hospital. I felt very happy that day because I had helped an old man in need."
+                  }
+                ]
+              }
+            ],
+            "num": "4.4"
+          },
+          {
+            "name": "Study Skills",
+            "exercises": [
+              {
+                "label": "Exercise 1",
+                "items": [
+                  {
+                    "q": "Look at the flyer. Observe all the details about the event and fill the information given in the flyer in the following card: Event Title __________",
+                    "a": "Event Title: Exhibition — Grow With Tradition (Shikarpur)."
+                  },
+                  {
+                    "q": "Look at the flyer. Observe all the details about the event and fill the information given in the flyer in the following card: Date __________",
+                    "a": "Date: December 17, 2017."
+                  },
+                  {
+                    "q": "Look at the flyer. Observe all the details about the event and fill the information given in the flyer in the following card: Day __________",
+                    "a": "Day: Not given on the flyer. (December 17, 2017 was a Sunday.)"
+                  },
+                  {
+                    "q": "Look at the flyer. Observe all the details about the event and fill the information given in the flyer in the following card: Timing __________",
+                    "a": "Timing: 2 P.M."
+                  },
+                  {
+                    "q": "Look at the flyer. Observe all the details about the event and fill the information given in the flyer in the following card: Venue __________",
+                    "a": "Venue: Playground, Government High School 2, Shikarpur."
+                  },
+                  {
+                    "q": "Look at the flyer. Observe all the details about the event and fill the information given in the flyer in the following card: Activities __________",
+                    "a": "Activities: Enjoy plenty of kids' activities; Sample some tasty food; Educational Opportunities Stall; Talk with Experts; Learning and Fun for Elders; and much more."
+                  }
+                ]
+              },
+              {
+                "label": "Exercise 2",
+                "items": [
+                  {
+                    "q": "Choose any event like Eid Mela, Food Festival, Cultural Day, Book Fair etc. and design a flyer on a paper. First, fill an information card like the one given above. Then develop a colourful flyer.",
+                    "a": "Model information card for a Book Fair — Event Title: Book Fair — Read and Grow. Date: February 10, 2018. Day: Saturday. Timing: 9 A.M. to 4 P.M. Venue: Main Hall, Government Boys Lower Secondary School Haseeja Mahar. Activities: Buy books at low prices; Meet famous writers; Story telling for children; Quiz competition; and much more. Model flyer text: HASEEJA MAHAR — Read and Grow — Join us for BOOK FAIR — Government Boys Lower Secondary School Haseeja Mahar — February 10, 2018, 9 A.M. at Main Hall — Books for Students, Learning and Fun for All — Enjoy story telling, meet famous writers, buy books at low prices, and much more!"
+                  }
+                ]
+              }
+            ],
+            "num": "4.5"
+          },
+          {
+            "name": "Fun",
+            "exercises": [
+              {
+                "label": "Fun with Nouns",
+                "items": [
+                  {
+                    "q": "The whole class should split up into four groups. The groups should be numbered 1, 2, 3, and 4. Group 1 should read the first line of each verse, Group 2 the second line, Group 3 the third line, and Group 4 the fourth line. Recite the poem loudly in groups. Then work in pairs and write all the singular nouns mentioned in the poem in your notebooks; after that write their correct plurals. (Poem: We'll begin with a box, and the plural is boxes, Should the plural of ox be oxes not oxen. One fowl is a goose, but two are called geese, Yet the plural of moose should never be meese. You may find a lone mouse or a nest full of mice, But the plural of house is houses, not hice. If the plural of man is always called men, Why shouldn't the plural of pan be called pen? If I spoke of my foot and showed you my feet, When I give you a boot, would a pair be called beet? If one is a tooth and a whole set are teeth, Why shouldn't the plural of booth be called beeth? If the singular is this, and the plural is these, Why shouldn't the plural of miss be messe? Then one may be that, and three would be those, Yet the plural of hat would never be hose. We speak of a brother and also of brethren, But for more than one mother is it methren? So plurals in English, I think you'll agree, Are indeed very tricky singularly.)",
+                    "a": "Singular nouns in the poem and their correct plurals: box — boxes (correct in the poem); ox — oxen (the poem's 'oxes' is wrong); goose — geese (correct in the poem); moose — moose (the poem's 'meese' is wrong); mouse — mice (correct in the poem); nest — nests; house — houses (the poem's 'hice' is wrong); man — men (correct in the poem); pan — pans (the poem's 'pen' is wrong); foot — feet (correct in the poem); boot — boots (the poem's 'beet' is wrong); tooth — teeth (correct in the poem); booth — booths (the poem's 'beeth' is wrong); this — these (correct in the poem); miss — misses (the poem's 'messe' is wrong); that — those (correct in the poem); hat — hats (the poem's 'hose' is wrong); brother — brothers / brethren (correct in the poem); mother — mothers (the poem's 'methren' is wrong). Plurals given in the poem that are correct: boxes, geese, mice, houses, men, feet, teeth, these, those, brethren. Plurals given in the poem that are wrong: oxes, meese, hice, pen, beet, beeth, messe, hose, methren."
+                  }
+                ]
+              }
+            ],
+            "num": "4.6"
+          }
+        ],
+        "title": "EXPLORING THE EDUCATIONAL OPPORTUNITIES",
+        "unit": 4,
+        "words": [
+          {
+            "sd": "گنجائش",
+            "syn": "range of choices",
+            "w": "scope"
+          },
+          {
+            "sd": "موقعا",
+            "syn": "chances",
+            "w": "opportunities"
+          },
+          {
+            "sd": "ڏند ڪٿا",
+            "syn": "a story many people believe but is not true",
+            "w": "myth"
+          },
+          {
+            "sd": "ظاهر ڪري ٿو",
+            "syn": "shows",
+            "w": "reflects"
+          },
+          {
+            "sd": "پالڻ",
+            "syn": "increasing the number of animals through birth",
+            "w": "breeding"
+          },
+          {
+            "sd": "تجسس",
+            "syn": "wanting to know about everything",
+            "w": "curiosity"
+          },
+          {
+            "sd": "واقف ڪرايو",
+            "syn": "shown what something is like",
+            "w": "exposed"
+          },
+          {
+            "sd": "عالمي",
+            "syn": "at the world level",
+            "w": "global"
+          },
+          {
+            "sd": "مشڪلات",
+            "syn": "possible problems and issues",
+            "w": "challenges"
+          },
+          {
+            "sd": "قيمتي",
+            "syn": "useful or important",
+            "w": "valuable"
+          },
+          {
+            "sd": "تيزي سان",
+            "syn": "quickly",
+            "w": "rapidly"
+          },
+          {
+            "sd": "رابطو ڪرڻ",
+            "syn": "to get in touch with or talk to",
+            "w": "communicate"
+          },
+          {
+            "sd": "اوچتو ۽ وڏو",
+            "syn": "sudden and great",
+            "w": "dramatic"
+          },
+          {
+            "sd": "حرڪت ڪندڙ",
+            "syn": "(pictures) that move",
+            "w": "animated"
+          },
+          {
+            "sd": "بنيادي حصو",
+            "syn": "the most important part",
+            "w": "backbone"
+          },
+          {
+            "sd": "هن وقت",
+            "syn": "at present",
+            "w": "currently"
+          },
+          {
+            "sd": "حيرت انگيز",
+            "syn": "very surprising and wonderful",
+            "w": "amazing"
+          },
+          {
+            "sd": "قائل ڪرڻ",
+            "syn": "to try and make someone accept something",
+            "w": "convince"
+          },
+          {
+            "sd": "ڏندن جو",
+            "syn": "related to the teeth",
+            "w": "dental"
+          },
+          {
+            "sd": "پراميدي",
+            "syn": "a feeling that good things will happen",
+            "w": "optimism"
+          },
+          {
+            "sd": "نمائش",
+            "syn": "a show of things for people to see",
+            "w": "exhibition"
+          },
+          {
+            "sd": "اسٽال",
+            "syn": "a small stand or shop at an exhibition",
+            "w": "stall"
+          },
+          {
+            "sd": "پيشو",
+            "syn": "a job that needs special training",
+            "w": "profession"
+          },
+          {
+            "sd": "زراعت جو علم",
+            "syn": "the science of soil management and growing crops",
+            "w": "agronomy"
+          },
+          {
+            "sd": "باغباني",
+            "syn": "the cultivation of fruits, vegetables and flowers",
+            "w": "horticulture"
+          },
+          {
+            "sd": "واپار",
+            "syn": "the activity of buying and selling",
+            "w": "commerce"
+          }
+        ],
+        "display": "Educational Exhibition"
+      },
+      {
+        "reading": "What shaped Edhi's Life",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "There are more good people in the world than bad people. (Model answer — students may give their own opinion.)",
+                    "q": "Are there more good people in the world or bad people?"
+                  },
+                  {
+                    "a": "I think so because most people help others, work honestly and live peacefully; only a few people do bad things.",
+                    "q": "Why do you think so?"
+                  },
+                  {
+                    "a": "Yes, I know a person who always helps people — for example, a teacher in our school who helps poor students with books and fees. (Model answer — students may name any such person.)",
+                    "q": "Do you know someone who always helps people?"
+                  },
+                  {
+                    "a": "He helps poor students by giving them books, uniforms and fees, and he also helps sick people by taking them to the hospital. (Model answer.)",
+                    "q": "What does he/ she do?"
+                  },
+                  {
+                    "a": "I help people by helping my classmates with their lessons, helping old people cross the road, and giving my old clothes and books to poor children. (Model answer.)",
+                    "q": "What do you do to help people?"
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "c) his mother",
+                    "q": "Who had the most influence in shaping Edhi's life? a) his grandfather b) his father c) his mother d) his friends"
+                  },
+                  {
+                    "a": "b) his mother taught him to be kind and charitable",
+                    "q": "Why did he choose to help people instead of earning money for himself? a) his father told him to do so b) his mother taught him to be kind and charitable c) he had a lot of money so he did not need to work d) he was a lazy person"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "humanitarian work",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: work that helps in making people's lives better."
+                  },
+                  {
+                    "a": "humble",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: low."
+                  },
+                  {
+                    "a": "single-handedly",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: all by himself."
+                  },
+                  {
+                    "a": "charitable",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: helping people who are poor or in need."
+                  },
+                  {
+                    "a": "voluntary",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: work done by people who are not paid."
+                  },
+                  {
+                    "a": "network (given in the book)",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: a group of organizations working together."
+                  },
+                  {
+                    "a": "operate",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: work in a particular way."
+                  },
+                  {
+                    "a": "rehabilitation centres",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: a place where people learn to live a useful life once again."
+                  },
+                  {
+                    "a": "drug-addicts",
+                    "q": "(Paragraph 1) Match the meaning with the correct word: people who regularly use harmful drugs."
+                  },
+                  {
+                    "a": "fondly",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: in a loving way."
+                  },
+                  {
+                    "a": "recalls",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: think back about something."
+                  },
+                  {
+                    "a": "content",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: satisfied."
+                  },
+                  {
+                    "a": "surpluses",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: extra things."
+                  },
+                  {
+                    "a": "conflicts",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: disagreements."
+                  },
+                  {
+                    "a": "moral standards",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: levels of right and wrong behaviour."
+                  },
+                  {
+                    "a": "optimistic",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: always expecting good things to happen."
+                  },
+                  {
+                    "a": "disputes",
+                    "q": "(Paragraphs 2 & 3) Match the meaning with the correct word: fights."
+                  },
+                  {
+                    "a": "curb",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: control."
+                  },
+                  {
+                    "a": "arrogance",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: proud behaviour."
+                  },
+                  {
+                    "a": "distraction",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: something that takes away your attention."
+                  },
+                  {
+                    "a": "humility",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: considering oneself as someone very small."
+                  },
+                  {
+                    "a": "handicapped",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: not able to use a particular part of the body."
+                  },
+                  {
+                    "a": "mentally challenged",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: not able to use their mind properly."
+                  },
+                  {
+                    "a": "mean",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: selfish."
+                  },
+                  {
+                    "a": "appreciated",
+                    "q": "(Paragraphs 4 & 5) Match the meaning with the correct word: recognise something good."
+                  },
+                  {
+                    "a": "fortunate",
+                    "q": "(Paragraphs 6, 7 & 8) Match the meaning with the correct word: lucky."
+                  },
+                  {
+                    "a": "confessed",
+                    "q": "(Paragraphs 6, 7 & 8) Match the meaning with the correct word: admit having done something wrong."
+                  },
+                  {
+                    "a": "disadvantaged",
+                    "q": "(Paragraphs 6, 7 & 8) Match the meaning with the correct word: not having things that one needs for a proper living."
+                  },
+                  {
+                    "a": "priority",
+                    "q": "(Paragraphs 6, 7 & 8) Match the meaning with the correct word: something that is more important than the other."
+                  },
+                  {
+                    "a": "ensured",
+                    "q": "(Paragraphs 6, 7 & 8) Match the meaning with the correct word: made sure."
+                  },
+                  {
+                    "a": "idly",
+                    "q": "(Paragraphs 6, 7 & 8) Match the meaning with the correct word: doing nothing."
+                  },
+                  {
+                    "a": "nurtured",
+                    "q": "(Paragraphs 6, 7 & 8) Match the meaning with the correct word: developed."
+                  },
+                  {
+                    "a": "associate",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: a person whom you work with or spend time with."
+                  },
+                  {
+                    "a": "transformation",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: complete change."
+                  },
+                  {
+                    "a": "insurmountable",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: something that cannot be overcome."
+                  },
+                  {
+                    "a": "challenging",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: difficult."
+                  },
+                  {
+                    "a": "outlook",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: the way one looks at something."
+                  },
+                  {
+                    "a": "integrity",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: honesty."
+                  },
+                  {
+                    "a": "vision",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: ability to think about the future in an intelligent way."
+                  },
+                  {
+                    "a": "regardless",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: not to give importance to something."
+                  },
+                  {
+                    "a": "state funeral",
+                    "q": "(Paragraphs 11 & 12) Match the meaning with the correct word: a burial with honour given to the head of a state."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Abdul Sattar Edhi",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Name:"
+                  },
+                  {
+                    "a": "Haji Abdul Shakoor",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Father's Name:"
+                  },
+                  {
+                    "a": "Dry fruit commission agent in Bombay",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Father's Profession:"
+                  },
+                  {
+                    "a": "Haji Rehmatullah",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Grandfather's Name:"
+                  },
+                  {
+                    "a": "He was a simple, content and patient person who did not believe in surpluses, and he had a reputation in the community for resolving conflicts and settling disputes.",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Reasons for Grandfather's Fame:"
+                  },
+                  {
+                    "a": "Early 1928",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Year of Birth:"
+                  },
+                  {
+                    "a": "Bantva, Gujrat, British India",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Place of Birth:"
+                  },
+                  {
+                    "a": "\"Angel of Mercy\"",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Title given by people:"
+                  },
+                  {
+                    "a": "The ambulance service and the funeral service (for unclaimed human bodies found in the sea, in rivers, in gutters or at the roadside).",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Two services that made him famous:"
+                  },
+                  {
+                    "a": "\"Poor People's Van\"",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Name of first ambulance service:"
+                  },
+                  {
+                    "a": "He did not charge for the ambulance service; it was free.",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Charges for first ambulance service:"
+                  },
+                  {
+                    "a": "July 8, 2016",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Date of death:"
+                  },
+                  {
+                    "a": "Karachi, Pakistan",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Place of death:"
+                  },
+                  {
+                    "a": "The first common citizen of Pakistan, in nearly seventy years of its history, to receive a state funeral.",
+                    "q": "Fill in the Basic Information Form about Abdul Sattar Edhi — Historical honour:"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "4 (given in the book)",
+                    "q": "Write the number of the paragraph that the main idea represents: Shaving of Edhi's head by his father."
+                  },
+                  {
+                    "a": "11",
+                    "q": "Write the number of the paragraph that the main idea represents: His commitment to an honest and simple life."
+                  },
+                  {
+                    "a": "9",
+                    "q": "Write the number of the paragraph that the main idea represents: Edhi's first ambulance."
+                  },
+                  {
+                    "a": "5",
+                    "q": "Write the number of the paragraph that the main idea represents: His mother's role and her appreciation of his good deeds."
+                  },
+                  {
+                    "a": "12",
+                    "q": "Write the number of the paragraph that the main idea represents: The death of a truly national hero."
+                  },
+                  {
+                    "a": "2",
+                    "q": "Write the number of the paragraph that the main idea represents: Edhi's birth and family."
+                  },
+                  {
+                    "a": "10",
+                    "q": "Write the number of the paragraph that the main idea represents: Some information about the funeral service."
+                  },
+                  {
+                    "a": "1",
+                    "q": "Write the number of the paragraph that the main idea represents: Growth of Edhi Foundation activities."
+                  },
+                  {
+                    "a": "6",
+                    "q": "Write the number of the paragraph that the main idea represents: The loving and caring nature of his mother."
+                  },
+                  {
+                    "a": "8",
+                    "q": "Write the number of the paragraph that the main idea represents: The reason why Edhi decided to dedicate his life to serve others."
+                  },
+                  {
+                    "a": "3",
+                    "q": "Write the number of the paragraph that the main idea represents: Some information about his father."
+                  },
+                  {
+                    "a": "7",
+                    "q": "Write the number of the paragraph that the main idea represents: His mother's views regarding use of time."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "his father was mostly away from home. (given in the book)",
+                    "q": "Complete the sentence: Edhi was mainly brought up by his mother because ______."
+                  },
+                  {
+                    "a": "his father shaved his head every time he came back home from one of his trips. (The book does not explain the nickname itself; this is the incident Edhi tells right after mentioning the nickname.)",
+                    "q": "Complete the sentence: In Bantva, Edhi was known as Roti because ______."
+                  },
+                  {
+                    "a": "it is the most effective way to curb pride and prevent arrogance. It makes you work better because appearance is a distraction, and when you don't think about the way you look, you develop humility and truth.",
+                    "q": "Complete the sentence: His father shaved his head because ______."
+                  },
+                  {
+                    "a": "his mother guided him in such a manner. She was a very gentle, sensitive and quiet person who taught him love and care, especially for the old, handicapped and mentally challenged people.",
+                    "q": "Complete the sentence: Edhi grew up to be a kind and sensitive person because ______."
+                  },
+                  {
+                    "a": "He never helps those who do not look after the mazlooms, who do not fulfil Huquq-ul-Ibaad, the rights of other human beings, as this was the first priority in Islam.",
+                    "q": "Complete the sentence: His mother told him to fear Allah because ______."
+                  },
+                  {
+                    "a": "she was the one who taught him love for humanity when he was a child. She planted the seed of social welfare and charitable work in him and taught him how to control his desire for material things and overcome personal greed.",
+                    "q": "Complete the sentence: Edhi dedicated his whole life to the service of humanity after his mother's death because ______."
+                  },
+                  {
+                    "a": "the ambulance service. Soon he was able to increase the reach of his services and because of the ambulance more and more people got to know about Edhi's organization and services.",
+                    "q": "Complete the sentence: More and more people came to know about Edhi's organization and services because of ______."
+                  },
+                  {
+                    "a": "the family members refused to touch them.",
+                    "q": "Complete the sentence: He often picked up bodies himself because ______."
+                  },
+                  {
+                    "a": "there was no other organisation doing this; not even the government.",
+                    "q": "Complete the sentence: Edhi's ambulance and funeral services allowed him to grow all over Pakistan because ______."
+                  },
+                  {
+                    "a": "he had made a commitment to himself that he would never give anybody reason to challenge his integrity or his lifestyle. He changed his life style for his mission, not for himself.",
+                    "q": "Complete the sentence: He never spent time or money on himself or his family because ______."
+                  },
+                  {
+                    "a": "so that people could see how he was living.",
+                    "q": "Complete the sentence: He slept on a wooden bench in his dispensary because ______."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Edhi started his humanitarian work in 1951 by establishing a very small dispensary in Mithadar, Karachi.",
+                    "q": "The following sentence gives wrong information. Write the correct information: Edhi started his humanitarian work in 1977 by establishing an ambulance service."
+                  },
+                  {
+                    "a": "Today, the Edhi Foundation employs more than 7,000 people, both paid and voluntary workers, to manage its huge network.",
+                    "q": "The following sentence gives wrong information. Write the correct information: Today, the Edhi Foundation has less than 300 people working for its small network."
+                  },
+                  {
+                    "a": "His grandfather, Haji Rehmatullah, was a simple, content, and patient person who did not believe in surpluses.",
+                    "q": "The following sentence gives wrong information. Write the correct information: His grandfather was a wealthy, rude and unkind person."
+                  },
+                  {
+                    "a": "When Edhi's family migrated to Pakistan, they got into serious financial trouble.",
+                    "q": "The following sentence gives wrong information. Write the correct information: When Edhi's family migrated to Pakistan, they had a lot of money."
+                  },
+                  {
+                    "a": "His father was a truly optimistic person and always had a positive attitude.",
+                    "q": "The following sentence gives wrong information. Write the correct information: His father was a very pessimistic person who always had a negative attitude."
+                  },
+                  {
+                    "a": "As a boy, when Edhi saw some mean kids making fun of the mentally challenged, he would stop them.",
+                    "q": "The following sentence gives wrong information. Write the correct information: As a boy, when Edhi saw older people making fun of mentally challenged people he would join them."
+                  },
+                  {
+                    "a": "His mother told him that fulfilling Huquq-ul-Ibaad, the rights of other human beings, was the first priority in Islam.",
+                    "q": "The following sentence gives wrong information. Write the correct information: His mother told him that fulfilling one's needs was the first priority in Islam."
+                  },
+                  {
+                    "a": "When he started his ambulance service he did not charge for it; it was free of charge.",
+                    "q": "The following sentence gives wrong information. Write the correct information: When he started his ambulance service he charged people a lot of money."
+                  },
+                  {
+                    "a": "He had only three pairs of clothes, one pair of plastic Chappal, one Jinnah Cap, and he slept on the wooden bench in his dispensary.",
+                    "q": "The following sentence gives wrong information. Write the correct information: He had many sets of clothes, dozens of shoes and beautiful caps."
+                  },
+                  {
+                    "a": "Abdul Sattar Edhi was the first common citizen of Pakistan, in nearly seventy years of its history, to receive a state funeral.",
+                    "q": "The following sentence gives wrong information. Write the correct information: Many common citizens of Pakistan have received a state funeral."
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "His mother taught him love and care, especially for the old, handicapped and mentally challenged people; to give a voice to those who do not have it; to look after the mazlooms (the disadvantaged); to fear Allah and fulfil Huquq-ul-Ibaad, the rights of other human beings; not to waste time but to work and earn a living; to control his desire for material things and overcome personal greed; and love for humanity.",
+                    "q": "What are some of the things that Edhi's mother taught him?"
+                  },
+                  {
+                    "a": "His mission was to serve humanity, regardless of religion, race, and background.",
+                    "q": "What was Edhi's mission in life?"
+                  },
+                  {
+                    "a": "He was given a state funeral because of his lifelong service to humanity. He was the first common citizen of Pakistan, in nearly seventy years of its history, to receive a state funeral.",
+                    "q": "Why was Abdul Sattar Edhi given a state funeral?"
+                  },
+                  {
+                    "a": "In my opinion, his mother shaped Edhi's life most of all — she taught him love, care and service to humanity. His father's lesson of humility and his grandfather's example of simplicity and resolving conflicts also shaped his life. (Model answer — students may give their own opinion.)",
+                    "q": "In your opinion, what shaped Edhi's life?"
+                  },
+                  {
+                    "a": "I would like to help poor children by giving them books and clothes, help old and sick people, keep my neighbourhood clean, and give some of my pocket money to the poor. (Model answer — students may give their own ideas.)",
+                    "q": "What are some of the things that you would like to do to help people?"
+                  }
+                ],
+                "label": "Exercise 7"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "5.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model completion: Brother: I promise you I'll take good care of it. I need it because I have to carry my books to school and my own bag is torn. Sister: Ok, you can take it but please return it today because I need it tomorrow for my school trip. Brother: Thank you. I'll return it in the evening and I will keep it safe.",
+                    "q": "Complete the dialogue between two siblings by expressing needs and requirements and giving reasons. Brother: Can I borrow your bag today? Sister: No, I won't give you my bag. It's a gift from my friend and you will tear it. Brother: I promise you I'll take good care of it. I need it because ______."
+                  }
+                ],
+                "label": "Dialogue"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model points: Student: Sir, may I have three days' leave, please? My elder sister is getting married and the wedding is in our village. I need the leave because I have to attend the wedding and help my family with the arrangements. I will complete my homework before I go and copy the missed lessons when I return. Teacher: You may take the leave, but do your homework on time.",
+                    "q": "Discuss orally: Dialogue between a teacher and a student — a student wants three days' leave for a wedding in the family and explains why taking the leave is important."
+                  },
+                  {
+                    "a": "Model points: Son: Father, I want to buy a bicycle because my school is far from our home and I have to walk a long way every day. A bicycle will save my time and I will reach school on time. It will also keep me healthy. Father: I will buy you a bicycle if you promise to ride it carefully and look after it.",
+                    "q": "Discuss orally: Dialogue between a father and son — the son wants to buy a bicycle and he gives reasons to his father why he needs it."
+                  },
+                  {
+                    "a": "Model points: Neighbour: Please look after our house while we are away for a week because there is no one at home and thieves may enter the house. I have kept the keys with you so that you can water the plants and feed the hens. Neighbour: Do not worry. I will look after your house and inform you if anything happens.",
+                    "q": "Discuss orally: Dialogue between two neighbours — one neighbour wants the other to look after his/her house while the family is away and gives reasons why he wants help from his/her neighbour."
+                  }
+                ],
+                "label": "Discussion"
+              }
+            ],
+            "name": "Speaking",
+            "num": "5.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "My bag isn't under the table, is it?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: My bag isn't under the table, ______?"
+                  },
+                  {
+                    "a": "The children are really enjoying themselves, aren't they?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: The children are really enjoying themselves, ______?"
+                  },
+                  {
+                    "a": "The old man looks very tired, doesn't he?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: The old man looks very tired, ______?"
+                  },
+                  {
+                    "a": "You can't open this lock with your key, can you?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: You can't open this lock with your key, ______?"
+                  },
+                  {
+                    "a": "The goats are busy grazing grass, aren't they?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: The goats are busy grazing grass, ______?"
+                  },
+                  {
+                    "a": "The team has practised a lot today, hasn't it?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: The team has practised a lot today, ______?"
+                  },
+                  {
+                    "a": "The teacher won't take the test today, will he/she?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: The teacher won't take the test today, ______?"
+                  },
+                  {
+                    "a": "This man isn't your uncle, is he?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: This man isn't your uncle, ______?"
+                  },
+                  {
+                    "a": "Your tea is getting cold, isn't it?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: Your tea is getting cold, ______?"
+                  },
+                  {
+                    "a": "We haven't paid our electric bill, have we?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: We haven't paid our electric bill, ______?"
+                  },
+                  {
+                    "a": "My mother cleans the house every day, doesn't she?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: My mother cleans the house every day, ______?"
+                  },
+                  {
+                    "a": "I don't know how to drive a car, do I?",
+                    "q": "Change the statement into a question by adding the appropriate question tag: I don't know how to drive a car, ______?"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The train is late today, isn't it?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: The train is late today."
+                  },
+                  {
+                    "a": "You aren't going to see the match tomorrow, are you?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: You aren't going to see the match tomorrow."
+                  },
+                  {
+                    "a": "They finished their work on time, didn't they?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: They finished their work on time."
+                  },
+                  {
+                    "a": "The school is far from their house, isn't it?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: The school is far from their house."
+                  },
+                  {
+                    "a": "The students should obey the school rules, shouldn't they?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: The students should obey the school rules."
+                  },
+                  {
+                    "a": "The mountain climbers have reached the top, haven't they?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: The mountain climbers have reached the top."
+                  },
+                  {
+                    "a": "Our football team can win this match, can't it?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: Our football team can win this match."
+                  },
+                  {
+                    "a": "The child is not crossing the road properly, is he/she?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: The child is not crossing the road properly."
+                  },
+                  {
+                    "a": "My sister exercises every day, doesn't she?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: My sister exercises every day."
+                  },
+                  {
+                    "a": "I will get good grades in my exams, won't I?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: I will get good grades in my exams."
+                  },
+                  {
+                    "a": "Last night, their dog barked the whole night, didn't it?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: Last night, their dog barked the whole night."
+                  },
+                  {
+                    "a": "They shouldn't talk so loudly when everyone is sleeping, should they?",
+                    "q": "Rewrite the statement as a question by using an appropriate question tag: They shouldn't talk so loudly when everyone is sleeping."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "We are going on a field trip this Saturday, aren't we?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Zaman: We are going on a field trip this Saturday, ______?"
+                  },
+                  {
+                    "a": "Yes. And we'll leave at six o'clock, won't we?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Hamza: Yes. And we'll leave at six o'clock, ______?"
+                  },
+                  {
+                    "a": "Mr. Qureshi is also coming with us, isn't he?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Shoaib: Mr. Qureshi is also coming with us, ______?"
+                  },
+                  {
+                    "a": "But Mr. Mirza won't come, will he?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Zaman: But Mr. Mirza won't come, ______?"
+                  },
+                  {
+                    "a": "I'm sure it will be great fun, won't it?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Hamza: I'm sure it will be great fun, ______?"
+                  },
+                  {
+                    "a": "If we are allowed to swim it will be fun, otherwise we will get bored, won't we?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Shoaib: If we are allowed to swim it will be fun, otherwise we will get bored, ______?"
+                  },
+                  {
+                    "a": "Depends. Hamza and I will enjoy playing cricket, won't we, Hamza?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Zaman: Depends. Hamza and I will enjoy playing cricket ______, Hamza?"
+                  },
+                  {
+                    "a": "Sure. Abid and Haseeb will also play with us, won't they?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Hamza: Sure. Abid and Haseeb will also play with us, ______?"
+                  },
+                  {
+                    "a": "The school management will provide us the bats and balls, won't it?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Shoaib: The school management will provide us the bats and balls, ______?"
+                  },
+                  {
+                    "a": "I think they will, won't they?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Zaman: I think they will, ______?"
+                  },
+                  {
+                    "a": "Well, last time they did and we had a great time, didn't we?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Hamza: Well, last time they did and we had a great time, ______?"
+                  },
+                  {
+                    "a": "We can always catch up on our sleep if there is nothing else to do, can't we?",
+                    "q": "Complete the dialogue by using the appropriate question tags. Shoaib: We can always catch up on our sleep if there is nothing else to do, ______?"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The colour of this dress is nice and I like the colour of the dress that you bought.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: The colour of this dress is nice. I like the colour of the dress that you bought."
+                  },
+                  {
+                    "a": "Our house is big and it has a nice view of the river.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: Our house is big. It has a nice view of the river."
+                  },
+                  {
+                    "a": "My sister wants to go to university because she wants to become an engineer.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: My sister wants to go to university. She wants to become an engineer."
+                  },
+                  {
+                    "a": "His older brother is a pilot and his younger brother also wants to become a pilot.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: His older brother is a pilot. His younger brother also wants to become a pilot."
+                  },
+                  {
+                    "a": "We can reach Gilgit faster by air, but travelling by road is much fun.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: We can reach Gilgit faster by air. Travelling by road is much fun."
+                  },
+                  {
+                    "a": "Growing vegetables at home is good because we can have fresh vegetables to eat.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: Growing vegetables at home is good. We can have fresh vegetables to eat."
+                  },
+                  {
+                    "a": "Playing games is good, but playing all the time and not studying is not good.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: Playing games is good. Playing all the time and not studying is not good."
+                  },
+                  {
+                    "a": "People give money to those who need it and they also give voluntary time.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: People give money to those who need it. They also give voluntary time."
+                  },
+                  {
+                    "a": "We should protect ourselves from mosquitoes because mosquito bites can cause malaria.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: We should protect ourselves from mosquitoes. Mosquito bites can cause malaria."
+                  },
+                  {
+                    "a": "Our school gets over at twelve and I reach home at two O'clock.",
+                    "q": "Join the sentences using 'and', 'but', or 'because', as appropriate: Our school gets over at twelve. I reach home at two O'clock."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "e) I wanted to sleep early. — I decided to have an early dinner because I wanted to sleep early. (given in the book)",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': I decided to have an early dinner."
+                  },
+                  {
+                    "a": "h) they forgot the bag at home. — They wanted to return the bag to the shopkeeper, but they forgot the bag at home.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': They wanted to return the bag to the shopkeeper."
+                  },
+                  {
+                    "a": "j) they missed their train due to a traffic jam. — They left home early to catch the train, but they missed their train due to a traffic jam.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': They left home early to catch the train."
+                  },
+                  {
+                    "a": "b) she also bought a new pair of sandals. — She bought a new dress for Eid and she also bought a new pair of sandals.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': She bought a new dress for Eid."
+                  },
+                  {
+                    "a": "i) they wanted to buy a new one. — Our neighbours sold their old house because they wanted to buy a new one.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': Our neighbours sold their old house."
+                  },
+                  {
+                    "a": "c) many people go to the seaside to have fun. — Many people go to the park on holidays, but many people go to the seaside to have fun.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': Many people go to the park on holidays."
+                  },
+                  {
+                    "a": "a) she had high fever. — His parents took his baby sister to the doctor because she had high fever.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': His parents took his baby sister to the doctor."
+                  },
+                  {
+                    "a": "d) the ball went to the boundary for four runs. — The player tried his best to catch the ball, but the ball went to the boundary for four runs.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': The player tried his best to catch the ball."
+                  },
+                  {
+                    "a": "f) his son is also studying to become a lawyer. — My uncle is a lawyer and his son is also studying to become a lawyer.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': My uncle is a lawyer."
+                  },
+                  {
+                    "a": "g) the food in the restaurant across the street is better. — The food in this restaurant is good, but the food in the restaurant across the street is better.",
+                    "q": "Choose a sentence from Column B that matches with the one in Column A and join the pair to form one sentence by adding 'and', 'but', or 'because': The food in this restaurant is good."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "My friend wants to travel to Karachi and Lahore. (Model completion — students may use any two places.)",
+                    "q": "Complete the sentence: My friend wants to travel to ______ and ______."
+                  },
+                  {
+                    "a": "He decided to wash the dishes because they were dirty. (Model completion.)",
+                    "q": "Complete the sentence: He decided to wash the dishes because ______."
+                  },
+                  {
+                    "a": "Our exams were scheduled for Monday but they were postponed to Wednesday. (Model completion.)",
+                    "q": "Complete the sentence: Our exams were scheduled for Monday but ______."
+                  },
+                  {
+                    "a": "Their father gave them some money because they needed to buy books. (Model completion.)",
+                    "q": "Complete the sentence: Their father gave them some money because ______."
+                  },
+                  {
+                    "a": "The farmers grew some wheat and rice. (Model completion — students may use any two crops.)",
+                    "q": "Complete the sentence: The farmers grew some ______ and ______."
+                  },
+                  {
+                    "a": "My mother told me that the purse was in the cupboard but it was not there. (Model completion.)",
+                    "q": "Complete the sentence: My mother told me that the purse was in the cupboard but ______."
+                  },
+                  {
+                    "a": "The soup is getting cold but we have not eaten it yet. (Model completion.)",
+                    "q": "Complete the sentence: The soup is getting cold but ______."
+                  },
+                  {
+                    "a": "The little girl is crying because she has lost her doll. (Model completion.)",
+                    "q": "Complete the sentence: The little girl is crying because ______."
+                  },
+                  {
+                    "a": "His father is going to Karachi and Hyderabad. (Model completion — students may use any two places.)",
+                    "q": "Complete the sentence: His father is going to ______ and ______."
+                  },
+                  {
+                    "a": "The bus is heavily loaded because many passengers are travelling in it. (Model completion.)",
+                    "q": "Complete the sentence: The bus is heavily loaded because ______."
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "5.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "we will fall sick. (given in the book)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If we don't wash our hands before eating."
+                  },
+                  {
+                    "a": "they will be punished. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If students do not follow the school rules."
+                  },
+                  {
+                    "a": "we will stay healthy and our environment will be clean. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If we keep our village/ city clean."
+                  },
+                  {
+                    "a": "they will fail in their exams. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If students do not study properly."
+                  },
+                  {
+                    "a": "there will be accidents. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If people break the traffic rules."
+                  },
+                  {
+                    "a": "they will face problems in life and their parents will be unhappy. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If children do not obey their parents."
+                  },
+                  {
+                    "a": "we will stay safe from malaria. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If we do protect ourselves from mosquitoes."
+                  },
+                  {
+                    "a": "we will stay healthy. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If we do drink clean water."
+                  },
+                  {
+                    "a": "they will succeed in life and people will respect them. (Model answer.)",
+                    "q": "Discuss what will happen if we carry out or we don't carry out the action: If people work honestly."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model mind map points: Population growth — more people need more food (action: more farming; effect: less land for forests) — more houses are needed (action: more houses are built; effect: cities become crowded) — more schools are needed (action: more schools are opened; effect: more teachers are needed) — more jobs are needed (action: more factories are opened; effect: more people get work) — more traffic (action: more vehicles on the roads; effect: more accidents and pollution).",
+                    "q": "Develop a mind map on the topic 'Population growth and its impact on different things', giving the action and its effect for every point that you write."
+                  },
+                  {
+                    "a": "Model mind map points: Misuse of natural resources — cutting down trees (action: forests are cut; effect: less rain and more floods) — wasting water (action: water is wasted; effect: future generations will have less water) — burning coal and oil (action: more smoke is produced; effect: the air becomes polluted) — hunting animals (action: animals are killed; effect: many animals may disappear) — wasting gas and electricity (action: gas and electricity are wasted; effect: future generations will face shortage).",
+                    "q": "Develop a mind map on the topic 'Misuse of natural resources and its impact on the future generations', giving the action and its effect for every point that you write."
+                  },
+                  {
+                    "a": "Model mind map points: Pollution — smoke from factories (action: factories give out smoke; effect: people get breathing problems) — dirty water (action: dirty water is thrown into rivers; effect: people get stomach diseases) — loud noise (action: vehicles and machines make noise; effect: people cannot sleep and get headaches) — plastic bags and rubbish (action: rubbish is thrown everywhere; effect: streets become dirty and diseases spread). Model paragraph: Pollution is a great danger to the health of people. Smoke from factories and vehicles pollutes the air, and people who breathe this dirty air get breathing problems like asthma. Dirty water thrown into rivers and canals causes stomach diseases. Loud noise from vehicles and machines makes people unable to sleep and gives them headaches. Plastic bags and rubbish thrown everywhere make our streets dirty and spread diseases. If we want to stay healthy, we must stop polluting our air, water and land.",
+                    "q": "Develop a mind map on the topic 'Pollution and its impact on the health of people', giving the action and its effect for every point that you write. Then write a paragraph on this topic."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Writing",
+            "num": "5.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model weekly planner (following Ali's planner): Wake up at 6:00 a.m. and have breakfast at 7:00 a.m. every day. Go to school at 8:00 a.m. and come home at 2:00 p.m. Study from 3:00 p.m. to 5:00 p.m. (with sports or music practice on Monday and Wednesday), do chores at 5:00 p.m. on Tuesday and Thursday, have dinner at 6:00 p.m., study again from 7:00 p.m. to 8:00 p.m. (except Tuesday, Friday and Saturday, when this is free time), and enjoy free time from 8:00 p.m. Keep at least 2-3 hours every day for study and homework, and keep the weekends free for fun with friends and family. (Students should fill in their own planner with their own times.)",
+                    "q": "Plan your week to be an effective student. Make a weekly planner like Ali's: determine when you are in class, playing, doing chores, watching television, etc.; plan the best time each day for study and homework; allow at least 2-3 hours per day for study and homework; and look at all the free time you still have."
+                  }
+                ],
+                "label": "Weekly Planner"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "5.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model personal flag: A flag with 4 sections — (1) a book, because I love reading; (2) a cricket bat and ball, because cricket is my favourite game; (3) a mango, because mango is my favourite fruit; (4) a cat, because a cat is my favourite animal. Background colour: green, my favourite colour. (Students should draw their own flag with 4-6 sections showing their favourite food, hobby, animal, game, etc.)",
+                    "q": "Create a personal flag: Take a sheet of paper and some colour pencils, paint or pictures. Draw a personal flag that describes you. The flag must have 4-6 sections, and in each section there should be a drawing or symbol that shows something about you. You have 20 minutes to draw your personal flag. When you finish, show your flag to your classmates and explain to them what you have drawn and why."
+                  }
+                ],
+                "label": "Creating personal flag"
+              }
+            ],
+            "name": "Fun",
+            "num": "5.6"
+          }
+        ],
+        "title": "HUMANISM",
+        "unit": 5,
+        "words": [
+          {
+            "sd": "انساني خدمت جو ڪم",
+            "syn": "work that helps in making people's lives better",
+            "w": "humanitarian work"
+          },
+          {
+            "sd": "عاجز، نماڻو",
+            "syn": "low, modest",
+            "w": "humble"
+          },
+          {
+            "sd": "اڪيلو، پنهنجي اڪيلي ڪوشش سان",
+            "syn": "all by oneself",
+            "w": "single-handedly"
+          },
+          {
+            "sd": "خيراتي، ڀلائي وارو",
+            "syn": "helping people who are poor or in need",
+            "w": "charitable"
+          },
+          {
+            "sd": "رضاڪاراڻو",
+            "syn": "work done without pay",
+            "w": "voluntary"
+          },
+          {
+            "sd": "نيٽ ورڪ، ڄار",
+            "syn": "a group of organizations working together",
+            "w": "network"
+          },
+          {
+            "sd": "هلائڻ، ڪم ڪرڻ",
+            "syn": "to work in a particular way",
+            "w": "operate"
+          },
+          {
+            "sd": "بحالي مرڪز",
+            "syn": "places where people learn to live a useful life again",
+            "w": "rehabilitation centres"
+          },
+          {
+            "sd": "نشي جا عادي ماڻهو",
+            "syn": "people who regularly use harmful drugs",
+            "w": "drug-addicts"
+          },
+          {
+            "sd": "پيار سان",
+            "syn": "in a loving way",
+            "w": "fondly"
+          },
+          {
+            "sd": "ياد ڪري ٿو",
+            "syn": "thinks back about something",
+            "w": "recalls"
+          },
+          {
+            "sd": "مطمئن",
+            "syn": "satisfied",
+            "w": "content"
+          },
+          {
+            "sd": "واڌو شيون",
+            "syn": "extra things",
+            "w": "surpluses"
+          },
+          {
+            "sd": "تڪرار، جهڳڙا",
+            "syn": "disagreements",
+            "w": "conflicts"
+          },
+          {
+            "sd": "اخلاقي معيار",
+            "syn": "levels of right and wrong behaviour",
+            "w": "moral standards"
+          },
+          {
+            "sd": "پراميد",
+            "syn": "always expecting good things to happen",
+            "w": "optimistic"
+          },
+          {
+            "sd": "جهڳڙا",
+            "syn": "fights",
+            "w": "disputes"
+          },
+          {
+            "sd": "روڪڻ، ضابطو آڻڻ",
+            "syn": "control",
+            "w": "curb"
+          },
+          {
+            "sd": "غرور، تڪبر",
+            "syn": "proud behaviour",
+            "w": "arrogance"
+          },
+          {
+            "sd": "ڌيان ڀٽڪائڻ واري شيءِ",
+            "syn": "something that takes away your attention",
+            "w": "distraction"
+          },
+          {
+            "sd": "عاجزي",
+            "syn": "considering oneself as someone very small",
+            "w": "humility"
+          },
+          {
+            "sd": "معذور",
+            "syn": "not able to use a particular part of the body",
+            "w": "handicapped"
+          },
+          {
+            "sd": "ذهني معذور",
+            "syn": "not able to use their mind properly",
+            "w": "mentally challenged"
+          },
+          {
+            "sd": "ڪنجوس، بداخلاق",
+            "syn": "selfish",
+            "w": "mean"
+          },
+          {
+            "sd": "ساراهيو",
+            "syn": "recognised something good",
+            "w": "appreciated"
+          },
+          {
+            "sd": "خوش قسمت",
+            "syn": "lucky",
+            "w": "fortunate"
+          },
+          {
+            "sd": "اعتراف ڪيو",
+            "syn": "admitted having done something wrong",
+            "w": "confessed"
+          },
+          {
+            "sd": "محروم، پسمانده",
+            "syn": "not having things needed for a proper living",
+            "w": "disadvantaged"
+          },
+          {
+            "sd": "ترجيح",
+            "syn": "something more important than the other",
+            "w": "priority"
+          },
+          {
+            "sd": "يقيني بڻايو",
+            "syn": "made sure",
+            "w": "ensured"
+          },
+          {
+            "sd": "بيڪار، ويٺل",
+            "syn": "doing nothing",
+            "w": "idly"
+          },
+          {
+            "sd": "پرورش ڪئي",
+            "syn": "developed",
+            "w": "nurtured"
+          },
+          {
+            "sd": "ساٿي، رفيق",
+            "syn": "a person whom you work with or spend time with",
+            "w": "associate"
+          },
+          {
+            "sd": "تبديلي",
+            "syn": "complete change",
+            "w": "transformation"
+          },
+          {
+            "sd": "ناقابلِ عبور",
+            "syn": "something that cannot be overcome",
+            "w": "insurmountable"
+          },
+          {
+            "sd": "ڏکيو، چئلينج وارو",
+            "syn": "difficult",
+            "w": "challenging"
+          },
+          {
+            "sd": "نظر، رويو",
+            "syn": "the way one looks at something",
+            "w": "outlook"
+          },
+          {
+            "sd": "ايمانداري",
+            "syn": "honesty",
+            "w": "integrity"
+          },
+          {
+            "sd": "خواب، دورانديشي",
+            "syn": "ability to think about the future in an intelligent way",
+            "w": "vision"
+          },
+          {
+            "sd": "پرواهه کان سواءِ",
+            "syn": "not giving importance to something",
+            "w": "regardless"
+          },
+          {
+            "sd": "سرڪاري جنازو",
+            "syn": "a burial with honour given to the head of a state",
+            "w": "state funeral"
+          }
+        ],
+        "display": "What shaped Edhi's Life"
+      },
+      {
+        "reading": "Sportsmanship",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The picture shows a cricket match. A Pakistani batsman in a green uniform is playing a shot while the Australian wicket keeper in a yellow uniform is standing behind the stumps. It is about cricket.",
+                    "q": "Look at the picture. What is it about?"
+                  },
+                  {
+                    "a": "The text is about sportsmanship in cricket. It tells the story of a cricketer, Rajoo, who became arrogant after his success and then learnt, from the stories of great players, that true greatness lies in sportsmanship.",
+                    "q": "What do you think the text is about?"
+                  },
+                  {
+                    "a": "After discussion, we decided that the text is about sportsmanship. It shows how a good player should behave both on and off the field, and how Rajoo changed his rude behaviour after reading stories of famous sportsmen.",
+                    "q": "Discuss with your partner and decide what your answer is."
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1. It's never too late to change. Rajoo was rude and arrogant, but after reading the scrap book he realised his mistake, apologised to everyone and changed his behaviour.",
+                    "q": "What is the main idea of the text? 1. It's never too late to change 2. Good players are always arrogant 3. All cricketers are liked by the people 4. A great Pakistani cricketer is born"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Broke into applause means clapped very loudly.",
+                    "q": "Broke into applause means clapped very loudly."
+                  },
+                  {
+                    "a": "Went to his head means made him very proud.",
+                    "q": "__________ means made him very proud."
+                  },
+                  {
+                    "a": "Rude means not show/have respect.",
+                    "q": "__________ means not show/have respect."
+                  },
+                  {
+                    "a": "Arrogant means behave in a proud manner.",
+                    "q": "__________ means behave in a proud manner."
+                  },
+                  {
+                    "a": "Irritating means something that makes people a little angry.",
+                    "q": "__________ means something that makes people a little angry."
+                  },
+                  {
+                    "a": "Counselled means advised.",
+                    "q": "__________ means advised."
+                  },
+                  {
+                    "a": "To no avail means it did not have any effect.",
+                    "q": "__________ means it did not have any effect."
+                  },
+                  {
+                    "a": "Resounding means very great.",
+                    "q": "__________ means very great."
+                  },
+                  {
+                    "a": "Well-suited means well dressed.",
+                    "q": "__________ means well dressed."
+                  },
+                  {
+                    "a": "Awe means feeling of respect.",
+                    "q": "__________ means feeling of respect."
+                  },
+                  {
+                    "a": "Renowned means famous.",
+                    "q": "__________ means famous."
+                  },
+                  {
+                    "a": "Chatting means talking in a friendly way.",
+                    "q": "__________ means talking in a friendly way."
+                  },
+                  {
+                    "a": "Pranks means tricks played on someone as a joke.",
+                    "q": "__________ means tricks played on someone as a joke."
+                  },
+                  {
+                    "a": "Scrap-book means a book in which one sticks pictures or newspaper articles.",
+                    "q": "__________ means a book in which one sticks pictures or newspaper articles."
+                  },
+                  {
+                    "a": "Intolerable means unacceptable.",
+                    "q": "__________ means unacceptable."
+                  },
+                  {
+                    "a": "Sportsmanship means fair, generous and polite behaviour.",
+                    "q": "__________ means fair, generous and polite behaviour."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Article 4. At Lahore, the captain of the Pakistan team called the visiting captain back and allowed him to bat again after he had been given out.",
+                    "q": "One captain gave another captain a second chance — write the number of the article that matches this title."
+                  },
+                  {
+                    "a": "Article 1. The Australian captain Mark Taylor did not break Don Bradman's score of 334 or Brian Lara's world record of 375; he chose his team's good over personal glory.",
+                    "q": "Chose team interest over self interest — write the number of the article that matches this title."
+                  },
+                  {
+                    "a": "Article 5. Courtney Walsh did not run out the non-striker on the final ball, and Pakistan won the match by one wicket.",
+                    "q": "Saved the opposite team's player and lost the match — write the number of the article that matches this title."
+                  },
+                  {
+                    "a": "Article 2. Daniel Vettori withdrew the dismissal, saying that it was his own collision with Malcolm Waller which had caused the confusion.",
+                    "q": "Accepted fault in the other player's failure — write the number of the article that matches this title."
+                  },
+                  {
+                    "a": "Article 3. The Sri Lankan skipper Marvan Atapattu called Andrew Symonds back when he had already walked about two-thirds of the way back to the pavilion.",
+                    "q": "Surprised the player by calling him back — write the number of the article that matches this title."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "g. who played for the Ranikot district.",
+                    "q": "Rajoo was a great player — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "i. by both national and international players.",
+                    "q": "His attitude was not liked — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "e. when they came back after winning in Australia.",
+                    "q": "The team received a resounding welcome — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "l. when Rajoo came to Ranikot after he returned from Australia.",
+                    "q": "Nabeel was very excited — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "j. because Rajoo refused to recognize him.",
+                    "q": "Nabeel was shocked by his friend's behaviour — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "a. because the people wanted to hear the stories of his victories.",
+                    "q": "Rajoo was invited to the town hall — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "c. because he remembered how he had counselled and helped him.",
+                    "q": "Rajoo was happy to see his friend in the playground — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "k. he took the book with him that his friend had given.",
+                    "q": "When Rajoo went back to his team — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "b. the board decided to ban Rajoo from the team.",
+                    "q": "Due to his rude attitude — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "f. he realised that greatness lay in sportsmanship.",
+                    "q": "When Rajoo read the scrapbook — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "h. he apologized publicly for his rude behaviour.",
+                    "q": "At a press conference — match it with the correct part from Column B."
+                  },
+                  {
+                    "a": "d. because he was a great player.",
+                    "q": "The cricket board took him back on the team — match it with the correct part from Column B."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Don Bradman had scored 334 runs in 1930.",
+                    "q": "Article 1: Don Bradman had scored __________ runs in __________."
+                  },
+                  {
+                    "a": "The world record of 375 runs was held by Brian Lara.",
+                    "q": "Article 1: The world record of __________ runs was held by __________."
+                  },
+                  {
+                    "a": "The Australian captain, Mark Taylor, wanted his team to win the match against Pakistan.",
+                    "q": "Article 1: The Australian captain, __________, wanted his __________ to win the match against __________."
+                  },
+                  {
+                    "a": "Daniel Vettori received an award in 2012, in New Zealand's match against Zimbabwe.",
+                    "q": "Article 2: Daniel Vettori received an award in __________, in New Zealand's match against __________."
+                  },
+                  {
+                    "a": "Vettori accidentally collided with Malcolm Waller because of which Regis Chakabva got out. (Vettori at once withdrew the dismissal, so Chakabva was not actually given out.)",
+                    "q": "Article 2: Vettori accidentally collided with __________ because of which __________ got out."
+                  },
+                  {
+                    "a": "Vettori withdrew the dismissal. (The text says Vettori withdrew the dismissal himself; the umpire had not yet given a decision.)",
+                    "q": "Article 2: Vettori __________ the umpire's decision."
+                  },
+                  {
+                    "a": "During the match between Sri Lanka and Australia, Andrew Symonds was actually not out.",
+                    "q": "Article 3: During the match between __________ and __________, Andrew Symonds was actually not out."
+                  },
+                  {
+                    "a": "The umpire gave a wrong decision because the Sri Lankans shouted loudly.",
+                    "q": "Article 3: The __________ gave a wrong decision because the __________ shouted loudly."
+                  },
+                  {
+                    "a": "When he was walking back to the pavilion, he was called back by Marvan Atapattu.",
+                    "q": "Article 3: When he was walking back to the __________, he was called back by __________."
+                  },
+                  {
+                    "a": "At Lahore, the visiting cricket team had to face a strong Pakistani bowling attack.",
+                    "q": "Article 4: __________, the visiting cricket team had to face a strong __________ attack."
+                  },
+                  {
+                    "a": "Pakistan had great bowlers like Waqar Younis and Aaqib Javed.",
+                    "q": "Article 4: Pakistan had great bowlers like __________ and __________."
+                  },
+                  {
+                    "a": "The captain was called back after he was given out but Waqar got him out on the next ball.",
+                    "q": "Article 4: The __________ was called back after he was given out but __________ got him out on the next ball."
+                  },
+                  {
+                    "a": "During the 1987 World Cup in Lahore, Courtney Walsh showed great sportsmanship.",
+                    "q": "Article 5: During the __________ World Cup in __________, Courtney Walsh showed great sportsmanship."
+                  },
+                  {
+                    "a": "Two runs were needed by Pakistan and only one ball was left.",
+                    "q": "Article 5: __________ runs were needed by Pakistan and only __________ ball was left."
+                  },
+                  {
+                    "a": "Abdul Qadir scored the needed runs and Pakistan won, thanks to Walsh.",
+                    "q": "Article 5: __________ scored the needed runs and Pakistan won, thanks to __________."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "People did not like Rajoo because his success had gone to his head. He had become very rude and arrogant. He ignored his best friend Nabeel, ignored the town people, and at the town hall he talked only about himself and his own performance. Such behaviour did not suit a world renowned player.",
+                    "q": "Rajoo was a great player but people did not like him. Why?"
+                  },
+                  {
+                    "a": "The people of Ranikot treated Rajoo like a hero. They invited him to the town hall to honour him and to hear the stories of his victories, and they listened to his stories in awe.",
+                    "q": "How did the people of Ranikot treat Rajoo when he came back home after the team returned from Australia?"
+                  },
+                  {
+                    "a": "The scrap book was full of wonderful stories of players and their sportsmanship. It had five articles: Mark Taylor choosing team interest over self interest, Daniel Vettori withdrawing a dismissal, Marvan Atapattu calling Andrew Symonds back, the Pakistan captain giving the visiting captain a second chance, and Courtney Walsh choosing to lose a match rather than run out a batsman unfairly.",
+                    "q": "What was in the scrapbook that Nabeel gave to Rajoo?"
+                  },
+                  {
+                    "a": "Reading the scrap book brought about the change in Rajoo. After reading the stories of great sportsmanship he realised that greatness did not lie in achievements only; it had a great deal to do with sportsmanship. He then decided to apologise to everyone.",
+                    "q": "What brought about a good change in Rajoo?"
+                  },
+                  {
+                    "a": "I would have advised Rajoo to stay humble and polite even after becoming famous. I would have told him that success should not go to his head, that he should respect his friends, his coach and the people who love him, and that a true sportsman is known by his behaviour, not only by his runs.",
+                    "q": "What advice would you have given to Rajoo if he were your friend?"
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "6.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The three students reach a consensus by using polite forms. They agree to make a list of the people they want to invite first, and only then decide how many people to invite and what food to serve, so that they do not spend too much money.",
+                    "q": "Work in groups of three and practise the following dialogue. You will have to practise the dialogue three times, each time taking the role of another student. Student A: I think we should invite all our friends and relatives to the wedding. Student B: I agree, but we have so many relatives and friends and we have a limited amount of money. Student C: So what? Everyone invites a lot of people to weddings. Student A: We can invite a lot of people if we serve only two dishes. Student B: No, it's not only the number of dishes. If we invite many people we will need a big tent, for which we will need plenty of space and a lot of money. Student C: A wedding is fun only when we have a lot of people and a variety of food items. Student A: But, we should also be careful not to spend too much money. Student B: Let's make a list to see who we want to invite. Then we can decide how many people to invite and who to invite. Student C: Yes, once we know for sure how many people we are inviting we can then decide what food to serve."
+                  }
+                ],
+                "label": "Dialogue"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Student A: I think we should go to the beach for our class picnic. Student B: I agree, but we should first decide who will go. I think only students and teachers should go. Student C: That is a good idea, but some of us would like to take our younger brothers and sisters too. Student A: If we take family members, the cost will be higher. We can charge Rs. 200 from each student. Student B: Yes, that is reasonable. We can use the money for transport and food. Student C: Good. So we all agree: we will go to the beach, only students and teachers will go, and each student will pay Rs. 200.",
+                    "q": "Develop a dialogue on the following topic and roleplay it: Having a class picnic (discuss and agree on where you will go, who will go, only students and teachers or family members also, how much money will you charge, etc.)"
+                  },
+                  {
+                    "a": "Student A: I think we should hold the annual function next month, on the first Saturday. Student B: I agree, but what should the programme include? I think we should have speeches, songs and a drama. Student C: That is a good idea. The programme should last about two hours, from 10 in the morning to 12 noon. Student A: Who should we invite as the chief guest? I think we should invite the District Education Officer. Student B: Yes, and we should also invite the parents of all the students. Student C: Good. So we all agree: the function will be held next month, it will have speeches, songs and a drama, it will last two hours, and the District Education Officer will be the chief guest.",
+                    "q": "Develop a dialogue on the following topic and roleplay it: Organising the annual function at school (discuss and agree what will be done, when will the programme be, how long will it be, who will be invited/be the chief guest, etc.)"
+                  }
+                ],
+                "label": "Develop a dialogue"
+              }
+            ],
+            "name": "Speaking",
+            "num": "6.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The faster the train, the sooner we will reach.",
+                    "q": "__________ the train, __________ we will reach. (fast, soon)"
+                  },
+                  {
+                    "a": "The younger the children, the quicker they learn a new language.",
+                    "q": "__________ the children, __________ they learn a new language. (young, quick)"
+                  },
+                  {
+                    "a": "The thinner you are, the easier it is to run.",
+                    "q": "__________ you are, __________ it is to run. (thin, easy)"
+                  },
+                  {
+                    "a": "The healthier your eating habits, the better your health.",
+                    "q": "__________ your eating habits, __________ your health. (healthy, good)"
+                  },
+                  {
+                    "a": "The more careful a driver, the safer the journey.",
+                    "q": "__________ a driver, __________ the journey. (careful, safe)"
+                  },
+                  {
+                    "a": "The simpler one lives, the easier one's life.",
+                    "q": "__________ one lives, __________ ones' life. (simple, easy)"
+                  },
+                  {
+                    "a": "The cleaner a country, the healthier its people.",
+                    "q": "__________ a country, __________ its people. (clean, healthy)"
+                  },
+                  {
+                    "a": "The longer the days, the shorter the nights.",
+                    "q": "__________ the days, __________ the nights. (long, short)"
+                  },
+                  {
+                    "a": "The harder the nut, the more difficult it is to break it.",
+                    "q": "__________ the nut, __________ it is to break it. (hard, difficult)"
+                  },
+                  {
+                    "a": "The busier one gets, the less the time one has for oneself.",
+                    "q": "__________ one gets, __________ the time one has for oneself. (busy, less)"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The better the quality of the material, the higher the cost.",
+                    "q": "__________ the quality of the material, __________ the cost."
+                  },
+                  {
+                    "a": "The older the wood, the more expensive the furniture will be.",
+                    "q": "__________ the wood, __________ expensive the furniture will be."
+                  },
+                  {
+                    "a": "The shadier the place, the cooler it will be for resting.",
+                    "q": "__________ the place, __________ it will be for resting."
+                  },
+                  {
+                    "a": "The hotter the water, the nicer the tea.",
+                    "q": "__________ the water, __________ the tea."
+                  },
+                  {
+                    "a": "The plainer one's style of living, the easier one's life becomes.",
+                    "q": "__________ one's style of living, __________ one's life becomes."
+                  },
+                  {
+                    "a": "The darker the room, the more comfortable I feel.",
+                    "q": "__________ the room, __________ I feel."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The nearer the day of our climbing came, the more excited we got.",
+                    "q": "Mountain Climbers' Trip: __________ the day of our climbing came, __________ we got."
+                  },
+                  {
+                    "a": "The later we tried to leave, the less organized we seemed to get.",
+                    "q": "Mountain Climbers' Trip: Soon the day came. We all got up very early; however, __________ we tried to leave, __________ we seemed to get."
+                  },
+                  {
+                    "a": "The nearer we thought we were, the farther it seemed we were.",
+                    "q": "Mountain Climbers' Trip: The van was waiting outside. __________ we thought we were, __________ it seemed we were."
+                  },
+                  {
+                    "a": "The closer the van drew to the mountain, the brighter the look in everyone's eyes.",
+                    "q": "Mountain Climbers' Trip: Finally, we all piled into the van. __________ the van drew to the mountain, __________ the look in everyone's eyes."
+                  },
+                  {
+                    "a": "The more he guided us, the less we seemed to understand.",
+                    "q": "Mountain Climbers' Trip: Our guide started to give us last minute instructions. __________ he guided us, __________ we seemed to understand."
+                  },
+                  {
+                    "a": "The cooler the mountain air got, the fresher we felt.",
+                    "q": "Mountain Climbers' Trip: At first it was great fun. __________ the mountain air got, __________ we felt."
+                  },
+                  {
+                    "a": "The higher we got, the more difficult it was for us to breathe.",
+                    "q": "Mountain Climbers' Trip: But, as we started climbing, __________ we got, __________ it was for us to breathe."
+                  },
+                  {
+                    "a": "The quicker we tried to climb, the slower we became.",
+                    "q": "Mountain Climbers' Trip: Although the scenery was beautiful, we were feeling too tired to look around. We were just climbing. __________ we tried to climb, __________ we became."
+                  },
+                  {
+                    "a": "The steeper we climbed, the slower our speed became.",
+                    "q": "Mountain Climbers' Trip: And __________ we climbed, __________ our speed became."
+                  },
+                  {
+                    "a": "The nearer the end of the journey, the farther it seemed.",
+                    "q": "Mountain Climbers' Trip: In fact, __________ the end of the journey, __________ it seemed."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The farmer found the goat which had been stolen from his farm.",
+                    "q": "The farmer found the goat — join it with the correct part from part B."
+                  },
+                  {
+                    "a": "One of our neighbours who used to live with us now lives with my uncle.",
+                    "q": "One of our neighbours — join it with the correct part from part B."
+                  },
+                  {
+                    "a": "I want to eat an egg that has two yolks.",
+                    "q": "I want to eat an egg — join it with the correct part from part B."
+                  },
+                  {
+                    "a": "They sold the house that they had bought last year.",
+                    "q": "They sold the house — join it with the correct part from part B."
+                  },
+                  {
+                    "a": "Their new teacher, who sings beautifully, is absent today.",
+                    "q": "Their new teacher, — join it with the correct part from part B."
+                  },
+                  {
+                    "a": "Zameer owns the shop which has five doors.",
+                    "q": "Zameer owns the shop — join it with the correct part from part B."
+                  },
+                  {
+                    "a": "My grandfather who travels a lot has gone to Canada.",
+                    "q": "My grandfather — join it with the correct part from part B."
+                  },
+                  {
+                    "a": "It was our class team that won the volley ball match.",
+                    "q": "It was our class team — join it with the correct part from part B."
+                  }
+                ],
+                "label": "Exercise 1 (Relative Pronouns)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "I know the maid who broke the new tray.",
+                    "q": "I know the maid __________ broke the new tray."
+                  },
+                  {
+                    "a": "The book which has a yellow sticker belongs to Asad.",
+                    "q": "The book __________ has a yellow sticker belongs to Asad."
+                  },
+                  {
+                    "a": "My friend painted the house that we sold yesterday.",
+                    "q": "My friend painted the house __________ we sold yesterday."
+                  },
+                  {
+                    "a": "A gold medal was given to the player who scored the most runs.",
+                    "q": "A gold medal was given to the player __________ scored the most runs."
+                  },
+                  {
+                    "a": "The woman who is wearing a blue shawl is my sister.",
+                    "q": "The woman __________ is wearing a blue shawl is my sister."
+                  },
+                  {
+                    "a": "The computer I like the best is the one that is very old.",
+                    "q": "The computer I like the best is the one __________ is very old."
+                  },
+                  {
+                    "a": "You will find the captain at the table that is near the window.",
+                    "q": "You will find the captain at the table __________ is near the window."
+                  },
+                  {
+                    "a": "Many birds used to nest in the tree which they cut.",
+                    "q": "Many birds used to nest in the tree __________ they cut."
+                  },
+                  {
+                    "a": "The ice-cream which is in this tub is better.",
+                    "q": "The ice-cream __________ is in this tub is better."
+                  },
+                  {
+                    "a": "The child who was running slipped and fell.",
+                    "q": "The child __________ was running slipped and fell."
+                  }
+                ],
+                "label": "Exercise 2 (Relative Pronouns)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Father: Tomorrow is a public holiday. Let's go and visit uncle Jamal who is ill.",
+                    "q": "Father: Tomorrow is a public holiday. Let's go and visit uncle Jamal __________ is ill."
+                  },
+                  {
+                    "a": "Areeb: Yes! Let's go there and then go to the park which is near his house.",
+                    "q": "Areeb: Yes! Let's go there and then go to the park __________ is near his house."
+                  },
+                  {
+                    "a": "Maira: Can we take my friend who lives next door with us?",
+                    "q": "Maira: Can we take my friend __________ lives next door with us?"
+                  },
+                  {
+                    "a": "Father: Sure. We can then have dinner at any small hotel which serves good food.",
+                    "q": "Father: Sure. We can then have dinner at any small hotel __________ serves good food."
+                  },
+                  {
+                    "a": "Areeb: Or we can buy bun kebab and fries from the hawker who stands outside the park.",
+                    "q": "Areeb: Or we can buy bun kebab and fries from the hawker __________ stands outside the park."
+                  },
+                  {
+                    "a": "Areeb: ...and then have ice cream from a shop which sells cone ice cream.",
+                    "q": "Areeb: ...and then have ice cream from a shop __________ sells cone ice cream."
+                  },
+                  {
+                    "a": "Maira: I want to have the ice cream which has chocolate pieces in it.",
+                    "q": "Maira: I want to have the ice cream __________ has chocolate pieces in it."
+                  },
+                  {
+                    "a": "Areeb: Great! The plan that we visit uncle, Jamil who is ill and have ice cream later, is superb! (The book spells the uncle's name 'Jamil' here, but 'Jamal' everywhere else.)",
+                    "q": "Areeb: Great! The plan that we visit uncle, Jamil __________ is ill and have ice cream later, is superb!"
+                  },
+                  {
+                    "a": "Maira: Let's ask mother, who is busy in the kitchen, what she thinks of our plan.",
+                    "q": "Maira: Let's ask mother, __________ is busy in the kitchen, what she thinks of our plan."
+                  },
+                  {
+                    "a": "Father: I've already asked her. She loved the idea that we visit uncle Jamal.",
+                    "q": "Father: I've already asked her. She loved the idea __________ we visit uncle Jamal."
+                  },
+                  {
+                    "a": "Maira: I must go and tell my friend. She loves the bun kebab which is sold near the park.",
+                    "q": "Maira: I must go and tell my friend. She loves the bun kebab __________ is sold near the park."
+                  }
+                ],
+                "label": "Exercise 3 (Relative Pronouns)"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "6.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "7 November 2026\nThe Minister of Sports,\nMinistry of Sports,\nGovernment of Sindh,\nKarachi.\n\nRespected Sir,\n\nI am a student of Class VIII at Government Boys Lower Secondary School, Haseeja Mahar. I am writing this letter to inform you about the great need of a play ground in our area.\n\nOur area has a large number of children and young people, but there is no play ground for them. The children play in the streets, which is dangerous for them and disturbs the traffic. There is no place where they can play cricket, football or hockey, or take part in healthy games. Because of this, many children spend their time sitting at home or wandering in the streets, and their health suffers.\n\nI request you to provide a play ground in our area. A play ground will keep our children healthy and active, and it will also help young players to develop their talent for sports.\n\nI hope you will take quick action on this request.\n\nThanking you,\n\nYours faithfully,\nA student of Class VIII",
+                    "q": "Work in pairs and write a letter to the Minister of Sports informing him/her about the need of a play ground in your area."
+                  }
+                ],
+                "label": "Exercise 1"
+              }
+            ],
+            "name": "Writing",
+            "num": "6.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "One who sings is called a singer.",
+                    "q": "One who sings is called a __________."
+                  },
+                  {
+                    "a": "One who paints is called a painter.",
+                    "q": "One who paints is called a __________."
+                  },
+                  {
+                    "a": "One who acts is called an actor.",
+                    "q": "One who acts is called an __________."
+                  },
+                  {
+                    "a": "One who travels is called a traveller.",
+                    "q": "One who travels is called a __________."
+                  },
+                  {
+                    "a": "One who runs is called a runner.",
+                    "q": "One who runs is called a __________."
+                  },
+                  {
+                    "a": "One who cleans is called a cleaner.",
+                    "q": "One who cleans is called a __________."
+                  },
+                  {
+                    "a": "One who tours is called a tourist.",
+                    "q": "One who tours is called a __________."
+                  },
+                  {
+                    "a": "One who manages is called a manager.",
+                    "q": "One who manages is called a __________."
+                  },
+                  {
+                    "a": "One who kidnaps is called a kidnapper.",
+                    "q": "One who kidnaps is called a __________."
+                  },
+                  {
+                    "a": "One who invents is called an inventor.",
+                    "q": "One who invents is called an __________."
+                  },
+                  {
+                    "a": "One who climbs is called a climber.",
+                    "q": "One who climbs is called a __________."
+                  },
+                  {
+                    "a": "One who writes is called a writer.",
+                    "q": "One who writes is called a __________."
+                  },
+                  {
+                    "a": "One who cycles is called a cyclist.",
+                    "q": "One who cycles is called a __________."
+                  },
+                  {
+                    "a": "One who trains is called a trainer.",
+                    "q": "One who trains is called a __________."
+                  },
+                  {
+                    "a": "One who swims is called a swimmer.",
+                    "q": "One who swims is called a __________."
+                  },
+                  {
+                    "a": "One who creates is called a creator.",
+                    "q": "One who creates is called a __________."
+                  },
+                  {
+                    "a": "One who begs is called a beggar.",
+                    "q": "One who begs is called a __________."
+                  },
+                  {
+                    "a": "One who trades is called a trader.",
+                    "q": "One who trades is called a __________."
+                  },
+                  {
+                    "a": "One who supplies is called a supplier.",
+                    "q": "One who supplies is called a __________."
+                  },
+                  {
+                    "a": "One who drives is called a driver.",
+                    "q": "One who drives is called a __________."
+                  }
+                ],
+                "label": "Exercise"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "6.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model sentences for the boxes: If I were rich, I would help the poor people. If I saw a ghost, I would run away. If I caught a thief, I would hand him over to the police. If I were a genius, I would invent many new things. If I went to China, I would see the Great Wall. If I could fly, I would fly over the mountains. If I failed in my exams, I would work harder next time. If I were 7 ft tall, I would play basketball. If I could see in the dark, I would never need a torch. If I found a bag full of money, I would give it to the police. If I were the Prime Minister of Pakistan, I would build schools in every village. If I got the top position in my exams, I would thank my teachers. If I could study any subject I wanted, I would study medicine. If I got selected for the Olympic games, I would win a gold medal for Pakistan. If I could read people's minds, I would know what they are thinking. If I could see with my eyes closed, I would never be afraid of the dark. If I could be invisible, I would help people secretly. If I could drive a car, I would take my family on a long journey. If I were poor, I would still work hard and be honest. If I received Rs. 5000, I would buy books for myself. If I could eat whatever I wanted, I would eat ice cream every day. If I were the principal of my school, I would make the school beautiful. If I could be a clown, I would make all the children laugh. If I could be really handsome/beautiful, I would become a film star.",
+                    "q": "Play the following game in groups of three. You will need a coin to play this game. Player number 2 will ask player number 1 whether s/he wants head or tail and will then flick the coin. If the player wins the toss s/he will select one item from the boxes given below and say: If I were an astronaut I would go to the moon for a holiday. If I could sing I would be a famous TV star. If the player loses the toss then the player who flicked the coin will select a box and the loser will have to say the sentence beginning with If I... Put a cross over the box that is done so that all the boxes are covered. The game will continue with player 3 flicking the coin and player 2 saying the sentence, then player 1 flicking and player 3 saying and so on until all the boxes have been crossed. Boxes: were rich; saw a ghost; caught a thief; were a genius; went to China; could fly; failed in my exams; were 7 ft tall; could see in the dark; found a bag full of money; were the Prime Minister of Pakistan; got the top position in my exams; could study any subject I wanted; got selected for the Olympic games; could read people's minds; could see with my eyes closed; could be invisible; could drive a car; were poor; received Rs. 5000; could eat whatever I wanted; were the principal of my school; could be a clown; could be really handsome/beautiful."
+                  }
+                ],
+                "label": "If I... game"
+              }
+            ],
+            "name": "Fun",
+            "num": "6.6"
+          }
+        ],
+        "title": "SPORTSMANSHIP",
+        "unit": 6,
+        "words": [
+          {
+            "sd": "تاڙيون، واکاڻ",
+            "syn": "clapping, praise",
+            "w": "applause"
+          },
+          {
+            "sd": "مغرور، تڪبر ڪندڙ",
+            "syn": "proud in a bad way",
+            "w": "arrogant"
+          },
+          {
+            "sd": "بي ادب، گستاخ",
+            "syn": "impolite",
+            "w": "rude"
+          },
+          {
+            "sd": "چڙ ڏياريندڙ، تنگ ڪندڙ",
+            "syn": "annoying",
+            "w": "irritating"
+          },
+          {
+            "sd": "صلاح ڏني",
+            "syn": "advised",
+            "w": "counselled"
+          },
+          {
+            "sd": "زوردار، شاندار",
+            "syn": "very great, loud",
+            "w": "resounding"
+          },
+          {
+            "sd": "مشهور، نامور",
+            "syn": "famous",
+            "w": "renowned"
+          },
+          {
+            "sd": "حيرت ۽ عزت جو احساس",
+            "syn": "feeling of respect and wonder",
+            "w": "awe"
+          },
+          {
+            "sd": "اهڙو ڪتاب جنهن ۾ تصويرون ۽ اخباري ڪٽنگون لڳايون وڃن",
+            "syn": "a book in which pictures and newspaper cuttings are pasted",
+            "w": "scrap-book"
+          },
+          {
+            "sd": "ناقابل برداشت",
+            "syn": "unacceptable",
+            "w": "intolerable"
+          },
+          {
+            "sd": "کهيل ۾ ايمانداري ۽ سٺو رويو",
+            "syn": "fair, generous and polite behaviour in games",
+            "w": "sportsmanship"
+          },
+          {
+            "sd": "شاندار، عاليشان",
+            "syn": "very comfortable and expensive",
+            "w": "luxurious"
+          },
+          {
+            "sd": "آهستي آهستي چيو",
+            "syn": "said in a low voice",
+            "w": "muttered"
+          },
+          {
+            "sd": "دوست، يار",
+            "syn": "friend",
+            "w": "buddy"
+          },
+          {
+            "sd": "اشارو، عمل",
+            "syn": "a movement or action that shows feeling",
+            "w": "gesture"
+          },
+          {
+            "sd": "شان، عظمت",
+            "syn": "fame and honour",
+            "w": "glory"
+          },
+          {
+            "sd": "واپس ورتو",
+            "syn": "took back",
+            "w": "withdrew"
+          },
+          {
+            "sd": "آئوٽ ڪرڻ",
+            "syn": "being given out",
+            "w": "dismissal"
+          },
+          {
+            "sd": "مونجهارو",
+            "syn": "not being able to understand clearly",
+            "w": "confusion"
+          },
+          {
+            "sd": "اپيل",
+            "syn": "a request to the umpire",
+            "w": "appeal"
+          },
+          {
+            "sd": "برقرار رکيو",
+            "syn": "supported, kept",
+            "w": "upheld"
+          },
+          {
+            "sd": "پويلين",
+            "syn": "the building where players sit",
+            "w": "pavilion"
+          },
+          {
+            "sd": "پابندي لڳل",
+            "syn": "not allowed",
+            "w": "banned"
+          },
+          {
+            "sd": "گستاخ، بي ادب",
+            "syn": "rude and disrespectful",
+            "w": "insolent"
+          },
+          {
+            "sd": "معافي گهري",
+            "syn": "said sorry",
+            "w": "apologised"
+          },
+          {
+            "sd": "ڳالهين سان فيصلو ڪرڻ",
+            "syn": "discuss to reach an agreement",
+            "w": "negotiate"
+          },
+          {
+            "sd": "اتفاق راءِ",
+            "syn": "agreement of all",
+            "w": "consensus"
+          }
+        ],
+        "display": "Sportsmanship"
+      },
+      {
+        "reading": "The multiple roles that women play",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The text will describe the many different kinds of work that women do, at home and outside the home.",
+                    "q": "Look at the picture. What do you think the text is about? The text will describe: a. __________"
+                  },
+                  {
+                    "a": "The text will describe how a woman does many jobs at the same time, which is called multi-tasking.",
+                    "q": "The text will describe: b. __________"
+                  },
+                  {
+                    "a": "The text will describe the important role women play in the progress of their families, society and country.",
+                    "q": "The text will describe: c. __________"
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "c. Women are productive members of a society. The whole text shows that women do household work, earn money at home and outside the home, and play a major role in the progress and development of the country.",
+                    "q": "Which of the following statements best describes the main idea. Circle the letter that you have selected. A. Women are useful members of their homes b. Women are brave and intelligent. c. Women are productive members of a society d. Women stay at home, cook and clean"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The four extra words that do not appear in the text are: conference, discussion, community, issue.",
+                    "q": "Most of the following words appear in the text. They are in a jumbled up order. Can you find them? Re-read the text and underline the words. There are four extra words in the list. Circle the four words that you cannot find in the text. Words: economic activity, nation-building, present, conference, weave, hovering, discussion, development sector, pastime, multi-tasking, community, simultaneously, chores, issue, seminar."
+                  },
+                  {
+                    "a": "development sector — a field in which progress and improvement is studied.",
+                    "q": "Write the correct word from the text against the meaning/explanation: a field in which progress and improvement is studied."
+                  },
+                  {
+                    "a": "hovering — stand or move about near someone without any purpose.",
+                    "q": "Write the correct word from the text against the meaning/explanation: stand or move about near someone without any purpose."
+                  },
+                  {
+                    "a": "seminar — a gathering of people for exchanging ideas and discussing.",
+                    "q": "Write the correct word from the text against the meaning/explanation: a gathering of people for exchanging ideas and discussing."
+                  },
+                  {
+                    "a": "present — to share information and thought.",
+                    "q": "Write the correct word from the text against the meaning/explanation: to share information and thought."
+                  },
+                  {
+                    "a": "chores — everyday work.",
+                    "q": "Write the correct word from the text against the meaning/explanation: everyday work."
+                  },
+                  {
+                    "a": "simultaneously — at the same time.",
+                    "q": "Write the correct word from the text against the meaning/explanation: at the same time."
+                  },
+                  {
+                    "a": "multi-tasking — doing two or more things at the same time.",
+                    "q": "Write the correct word from the text against the meaning/explanation: doing two or more things at the same time."
+                  },
+                  {
+                    "a": "economic activity — work that is done to earn some money.",
+                    "q": "Write the correct word from the text against the meaning/explanation: work that is done to earn some money."
+                  },
+                  {
+                    "a": "weave — make cloth with thread.",
+                    "q": "Write the correct word from the text against the meaning/explanation: make cloth with thread."
+                  },
+                  {
+                    "a": "pastime — a thing done for enjoyment.",
+                    "q": "Write the correct word from the text against the meaning/explanation: a thing done for enjoyment."
+                  },
+                  {
+                    "a": "nation-building — developing the country.",
+                    "q": "Write the correct word from the text against the meaning/explanation: developing the country."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "T — Over the last many months Arshad has been touring the province to gather information for a report.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Arshad has done a lot of travelling over the last several months."
+                  },
+                  {
+                    "a": "NS — The text says Arshad has been touring the province, but it never names the place. Tharparkar is not mentioned.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Arshad spent a lot of time in Tharparkar."
+                  },
+                  {
+                    "a": "F — Arshad is writing a report, not poetry, to present at the seminar.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Arshad is writing poetry to present at the seminar."
+                  },
+                  {
+                    "a": "T — Noman's mother hand weaves cloth that is sold, and his grandmother takes orders for embroidery and sells her work, so both earn money.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Noman's mother and grandmother are both economically active."
+                  },
+                  {
+                    "a": "F — The text says education will help women become more productive members of society, not better cooks.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Education will help women become better cooks."
+                  },
+                  {
+                    "a": "T — Women do a lot of things at the same time, which is called multi-tasking.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Women have the ability to do a number of things at the same time."
+                  },
+                  {
+                    "a": "T — No family, no society and no nation can progress unless women participate in economic activity, and a country cannot make progress unless women actively contribute in the economy.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Women are as important as men for the progress and development of a country."
+                  },
+                  {
+                    "a": "F — In cities women work in banks, offices and stores, and many of them work in factories, not only in offices.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: In cities, women work only in offices."
+                  },
+                  {
+                    "a": "NS — The text says some women work as doctors, but it never says how many female doctors Pakistan has.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Pakistan has many female doctors."
+                  },
+                  {
+                    "a": "F — Arshad says women must be encouraged to acquire education so that they can become more productive members of society.",
+                    "q": "Circle T if the statement is true, F if the statement is not true or NS if the information is not stated in the text: Arshad feels that education is not important for women."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Household chores: taking care of the house, cooking, cleaning, looking after the children, shopping for the house. (The picture also shows the woman cooking and carrying her baby while doing other work.)",
+                    "q": "Make a list of all types of work mentioned in the text that women do. Household Chores:"
+                  },
+                  {
+                    "a": "Family income chores at home / field: hand weaving cloth on a loom, embroidery, picking cotton, plucking roses, cutting the crops, milking cows and buffalos to sell the milk, keeping hens and selling their eggs. Other areas of work you can add: stitching clothes, making pickles and jam, rearing goats, growing vegetables.",
+                    "q": "Make a list of all types of work mentioned in the text that women do. Family income Chores at Home / Field:"
+                  },
+                  {
+                    "a": "Work outside the home: teacher, doctor, nurse, working in banks, offices and stores, working in factories, agricultural worker. Other areas of work you can add: policewoman, lawyer, engineer, shopkeeper, beautician, driver.",
+                    "q": "Make a list of all types of work mentioned in the text that women do. Work Outside the Home:"
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Arshad toured the province because he was gathering information for a report he was writing.",
+                    "q": "Complete the following sentence. Remember to use the past tense. Arshad toured the province because..."
+                  },
+                  {
+                    "a": "He thought that the picture was interesting because it showed the kinds of work women do, sometimes all at the same time.",
+                    "q": "Complete the following sentence. Remember to use the past tense. He thought that the picture was interesting because..."
+                  },
+                  {
+                    "a": "The picture showed a woman with many hands because it was meant to show that women do a lot of things at the same time, which is called multi-tasking.",
+                    "q": "Complete the following sentence. Remember to use the past tense. The picture showed a woman with many hands because..."
+                  },
+                  {
+                    "a": "Noman's mother and grandmother were economically active because his mother hand wove cloth that was sent to the city to be made into clothes and sold, and his grandmother took orders for embroidery and sold her work at large stores.",
+                    "q": "Complete the following sentence. Remember to use the past tense. Noman's mother and grandmother were economically active because..."
+                  },
+                  {
+                    "a": "Noman thought his grandmother did embroidery because it was her favourite pastime and she was always at it.",
+                    "q": "Complete the following sentence. Remember to use the past tense. Noman thought his grandmother did embroidery because..."
+                  },
+                  {
+                    "a": "Arshad believed that women must acquire education because then they could become more productive members of the society.",
+                    "q": "Complete the following sentence. Remember to use the past tense. Arshad believed that women must acquire education because..."
+                  },
+                  {
+                    "a": "Noman stated that girls should be encouraged to study because they should adopt different professions if they wanted to do so.",
+                    "q": "Complete the following sentence. Remember to use the past tense. Noman stated that girls should be encouraged to study because..."
+                  },
+                  {
+                    "a": "After the discussion Arshad asked Noman to go away because he wanted to work on his report.",
+                    "q": "Complete the following sentence. Remember to use the past tense. After the discussion Arshad asked Noman to go away because..."
+                  },
+                  {
+                    "a": "Noman wanted to go to the seminar with his father because he wanted to hear more about women and how they contribute to nation-building.",
+                    "q": "Complete the following sentence. Remember to use the past tense. Noman wanted to go to the seminar with his father because..."
+                  },
+                  {
+                    "a": "His father did not promise to take him because he had to ask for permission from the organisers.",
+                    "q": "Complete the following sentence. Remember to use the past tense. His father did not promise to take him because..."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Mind map — The multiple roles of women. 1. Economic activity at home: hand weaving cloth, embroidery, milking cows and buffalos, keeping hens and selling eggs, picking cotton, plucking roses, cutting crops. 2. Importance of education: educated women become doctors and teachers, education makes women more productive members of society, women spend their earnings on the health care and education of their children, girls should be encouraged to study and adopt different professions. 3. Economic activity outside: teacher, doctor, nurse, working in banks, offices and stores, working in factories. 4. Helping other family members to earn more: sharing household work so others can work, looking after children, cooking and cleaning, supporting the family income.",
+                    "q": "Work in groups of three and make a mind map about the role that women can play in society to improve the quality of life of their families and to raise the level of development in the country. Branches: economic activity at home; importance of education; economic activity outside; helping other family members to earn more."
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "7.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Noman: Maleeha, where have you been? It's almost sunset. Maleeha: Oh, I was at Seema's house. Noman: Well, you know, you play with your friends the whole day and you hardly ever do your homework. Maleeha: Oh, come on! I do study sometimes. Noman: To tell you the truth, you never study, and very often you don't even go to school. You get bad grades but you don't care. Maleeha: Well, actually, I don't like studying. Noman: You see, if you study hard now, you can become a doctor or a teacher in the future. Like, look at Mummy — she earns money by weaving cloth, and grandmother sells her embroidery. Basically, women can play a very important and productive role in society, but only if they are educated. Maleeha: Oh, really? Do you think I can become a doctor one day? Noman: Yes, of course! But for that you must go to school every day and do your homework. Maleeha: Ok, I promise. From today I will study every day and do my homework first, and then play.",
+                    "q": "Work in pairs and prepare a dialogue between Noman and his sister, Maleeha. The scene is that Noman's sister, Maleeha, who is 10 years old, plays with her friends the whole day. She hardly ever does her homework and never studies. Very often she doesn't go to school. She gets bad grades but she doesn't care. Noman is trying to persuade her to take her studies more seriously so that in the future she can play an important and productive role in society. Fillers you can use: you know, like, ok, well, basically, literally, actually, oh, really, well, to tell you the truth, you see. You may begin like this: Noman: Maleeha, where have you been? It's almost sunset. Maleeha: Oh, I was at Seema's house."
+                  }
+                ],
+                "label": "Dialogue"
+              }
+            ],
+            "name": "Speaking",
+            "num": "7.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Our new neighbours are better than the older ones.",
+                    "q": "Our new neighbours are __________ the older ones. (good)"
+                  },
+                  {
+                    "a": "His boss is kinder than our boss.",
+                    "q": "His boss is __________ our boss. (kind)"
+                  },
+                  {
+                    "a": "Travelling by train is cheaper than travelling by air.",
+                    "q": "Travelling by train is __________ travelling by air. (cheap)"
+                  },
+                  {
+                    "a": "Your dress is prettier than your friend's dress.",
+                    "q": "Your dress is __________ your friend's dress. (pretty)"
+                  },
+                  {
+                    "a": "Some of the students in this class are more intelligent than the others.",
+                    "q": "Some of the students in this class are __________ the others. (intelligent)"
+                  },
+                  {
+                    "a": "This hospital is cleaner than the hospital near our house.",
+                    "q": "This hospital is __________ the hospital near our house. (clean)"
+                  },
+                  {
+                    "a": "The stars in the village seem brighter than the stars in the city.",
+                    "q": "The stars in the village seem __________ the stars in the city. (bright)"
+                  },
+                  {
+                    "a": "Today the patient's condition is worse than yesterday.",
+                    "q": "Today the patient's condition is __________ yesterday. (bad)"
+                  },
+                  {
+                    "a": "The bag lying downstairs is more useful than the one lying upstairs.",
+                    "q": "The bag lying downstairs is __________ the one lying upstairs. (useful)"
+                  },
+                  {
+                    "a": "This week has been busier than last week.",
+                    "q": "This week has been __________ last week. (busy)"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The bag is more expensive than the purse. The purse is cheaper than the bag. (This is the example given in the book.)",
+                    "q": "Picture pair 1 and 2 (bag — expensive; purse — cheap): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  },
+                  {
+                    "a": "The elephant is bigger than the rabbit. The rabbit is smaller than the elephant.",
+                    "q": "Picture pair 3 and 4 (elephant — big; rabbit — small): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  },
+                  {
+                    "a": "The ice cream is colder than the tea. The tea is warmer than the ice cream.",
+                    "q": "Picture pair 5 and 6 (ice cream — cold; tea — warm): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  },
+                  {
+                    "a": "The shoes are older than the slippers. The slippers are newer than the shoes.",
+                    "q": "Picture pair 7 and 8 (old shoes — old; new slippers — new): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  },
+                  {
+                    "a": "The mango is sweeter than the orange. The orange is more sour than the mango.",
+                    "q": "Picture pair 9 and 10 (mango — sweet; orange — sour): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  },
+                  {
+                    "a": "The crow is uglier than the peacock. The peacock is more beautiful than the crow.",
+                    "q": "Picture pair 11 and 12 (crow — ugly; peacock — beautiful): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  },
+                  {
+                    "a": "The baby is younger than the old man. The old man is older than the baby.",
+                    "q": "Picture pair 13 and 14 (baby — young; old man — old): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  },
+                  {
+                    "a": "The train is slower than the aeroplane. The aeroplane is faster than the train.",
+                    "q": "Picture pair 15 and 16 (train — slow; aeroplane — fast): For each pair, write two sentences using 'than' along with the adjectives provided at the top of each picture."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The Timbo family is smaller than the Chucky family. There are fewer males in the Timbo family than in the Chucky family. There are also fewer females in the Timbo family than in the Chucky family. Mr. Timbo is shorter than Mr. Chucky and younger than him. Mrs. Timbo is taller than Mrs. Chucky and younger than her. The Timbo family has fewer children than the Chucky family. Their house is smaller than the Chucky family's house; it has fewer bedrooms and a smaller kitchen. It is also older than the Chucky family's house, because it was built in 1978 while the Chucky house was built in 1995. The Timbo family's income is less than the Chucky family's income.",
+                    "q": "Write a paragraph describing the Timbo family by comparing it with the Chucky family, using the comparative form of the adjective followed by 'than'. Timbo family: size 4 (2 males, 2 females); Mr. Timbo 5ft 8ins, 30 years; Mrs. Timbo 5ft 8ins, 27 years; 2 children; house 2 bedrooms, 1 living room, small kitchen, built in 1978, colour brown; income Rs 20,000 per month. Chucky family: size 6 (3 males, 3 females); Mr. Chucky 6ft 4ins, 45 years; Mrs. Chucky 5ft 2ins, 40 years; 4 children; house 4 bedrooms, 1 dining room, 1 living room, very large kitchen, built in 1995, colour orange and green; income Rs 80,000 per month."
+                  },
+                  {
+                    "a": "The Chucky family is bigger than the Timbo family. There are more males in the Chucky family than in the Timbo family. There are also more females in the Chucky family than in the Timbo family. Mr. Chucky is taller than Mr. Timbo and older than him. Mrs. Chucky is shorter than Mrs. Timbo and older than her. The Chucky family has more children than the Timbo family. Their house is larger than the Timbo family's house; it has more bedrooms, a dining room and a very large kitchen. It is also newer than the Timbo family's house, because it was built in 1995 while the Timbo house was built in 1978. The Chucky family's income is more than the Timbo family's income.",
+                    "q": "Write a paragraph describing the Chucky family by comparing it with the Timbo family, using the comparative form of the adjective followed by 'than'. (Same table as above.)"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Our neighbours love gardening. They look after their plants themselves.",
+                    "q": "Our neighbours love gardening. __________ look after their plants __________."
+                  },
+                  {
+                    "a": "The principal of our school, Mr. Samad, is a nice man. He himself guides all the teachers.",
+                    "q": "The principal of our school, Mr. Samad, is a nice man. __________ guides all the teachers."
+                  },
+                  {
+                    "a": "My friend gets good marks in all the tests. He does not take tuitions but studies hard himself.",
+                    "q": "My friend gets good marks in all the tests. __________ does not take tuitions but studies hard __________."
+                  },
+                  {
+                    "a": "Our house is always neat and clean. We clean it ourselves.",
+                    "q": "Our house is always neat and clean. __________ clean it __________."
+                  },
+                  {
+                    "a": "All of you are loved by your teachers. This is because you yourselves are good students.",
+                    "q": "All of you are loved by your teachers. This is because __________ are good students."
+                  },
+                  {
+                    "a": "Train your dog well then it itself will then take care of your house.",
+                    "q": "Train your dog well then __________ will then take care of your house."
+                  },
+                  {
+                    "a": "No one is responsible for your actions. Only you yourself are responsible for them.",
+                    "q": "No one is responsible for your actions. Only __________ are responsible for them."
+                  }
+                ],
+                "label": "Exercise 4 (Emphatic Pronouns)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Fatima: I spoke to her last night and she herself told me that she was coming.",
+                    "q": "Fatima: I spoke to her last night and __________ told me that she was coming."
+                  },
+                  {
+                    "a": "Amna: Can you try and contact her yourself to see why she is late?",
+                    "q": "Amna: Can __________ try and contact her __________ to see why she is late?"
+                  },
+                  {
+                    "a": "Shirin: Remember, the teacher told us that we ourselves will be responsible for all our things?",
+                    "q": "Shirin: Remember, the teacher told us that __________ will be responsible for all our things?"
+                  },
+                  {
+                    "a": "Sabah: Yes, I know. I myself typed up all the instructions of our teacher.",
+                    "q": "Sabah: Yes, I know. __________ typed up all the instructions of our teacher."
+                  },
+                  {
+                    "a": "Fatima: Mr. Zameer has arranged for the food. He himself will pick it up from the cook and bring it here.",
+                    "q": "Fatima: Mr. Zameer has arranged for the food. __________ will pick it up from the cook and bring it here."
+                  },
+                  {
+                    "a": "Amna: Can all of you yourselves please check if your bags have been put in the van?",
+                    "q": "Amna: Can all of __________ please check if your bags have been put in the van?"
+                  },
+                  {
+                    "a": "Shirin: Those of you who will not check themselves will be responsible if their bags are left behind.",
+                    "q": "Shirin: Those of you who will not check __________ will be responsible if their bags are left behind."
+                  },
+                  {
+                    "a": "Fatima: Hurrah! My bag is a genius. It itself went inside the van. (The book's words 'My bag is a genius' are odd; the sense is that the bag somehow got into the van by itself.)",
+                    "q": "Fatima: Hurrah! My bag is a genius. __________ went inside the van."
+                  }
+                ],
+                "label": "Exercise 5 (Emphatic Pronouns)"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "7.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Women and the Development of a Nation\n\nWomen play a very important role in the development of a society and a nation. In our country, women do many kinds of work. At home they take care of the house, cook food and look after the children. Many of them also earn money at home by weaving cloth, doing embroidery, milking cows and buffalos and keeping hens. In the fields they pick cotton, pluck roses and cut the crops. Outside the home they work as teachers, doctors and nurses, and in banks, offices, stores and factories.\n\nEducation makes this role even greater. Educated women become doctors, teachers and officers, and they become more productive members of society. When women earn money, they usually spend it more on the health care and education of their children, so the whole family becomes healthier and better educated. This is why we must encourage our girls to study and adopt different professions if they want to do so.\n\nIn short, no family, no society and no nation can progress unless women take an active part in its life and work. A country cannot really make progress unless women actively contribute to the economy. Therefore, we should respect the work of women, give them education and equal chances, and let them play their full part in building our nation.",
+                    "q": "Work in groups of three and write an article for your school magazine. Provide a title. Describe your views on how women play an important role in the development of a society and nation. You may use the mind map that you developed in section 7.1, exercise 6. Write at least four paragraphs: an introductory paragraph, at least two body paragraphs and a concluding paragraph."
+                  }
+                ],
+                "label": "Exercise 1"
+              }
+            ],
+            "name": "Writing",
+            "num": "7.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "ASAP — As Soon as Possible.",
+                    "q": "What is the full form of the abbreviation ASAP?"
+                  },
+                  {
+                    "a": "FYI — For Your Information.",
+                    "q": "What is the full form of the abbreviation FYI?"
+                  },
+                  {
+                    "a": "FAQ — Frequently Asked Questions.",
+                    "q": "What is the full form of the abbreviation FAQ?"
+                  },
+                  {
+                    "a": "ATM — Automated Teller Machine.",
+                    "q": "What is the full form of the abbreviation ATM?"
+                  },
+                  {
+                    "a": "PS — Post Script, usually written at the end of letters.",
+                    "q": "What is the full form of the abbreviation PS?"
+                  },
+                  {
+                    "a": "DIY — Do it Yourself.",
+                    "q": "What is the full form of the abbreviation DIY?"
+                  },
+                  {
+                    "a": "ID — Identification.",
+                    "q": "What is the full form of the abbreviation ID?"
+                  },
+                  {
+                    "a": "CNIC — Computerised National Identity Card.",
+                    "q": "What is the full form of the abbreviation CNIC?"
+                  },
+                  {
+                    "a": "IQ — Intelligence Quotient (as measured by intelligence tests).",
+                    "q": "What is the full form of the abbreviation IQ?"
+                  },
+                  {
+                    "a": "PC — Personal Computer.",
+                    "q": "What is the full form of the abbreviation PC?"
+                  },
+                  {
+                    "a": "PR — Public Relations.",
+                    "q": "What is the full form of the abbreviation PR?"
+                  },
+                  {
+                    "a": "SOS — Save Our Souls (written to get help in an emergency).",
+                    "q": "What is the full form of the abbreviation SOS?"
+                  },
+                  {
+                    "a": "AD — Latin word Anno Domini (after the year 0, like 2016 AD).",
+                    "q": "What is the full form of the abbreviation AD?"
+                  },
+                  {
+                    "a": "CE — Common Era (means the same as AD, 2016 CE). Used in modern English.",
+                    "q": "What is the full form of the abbreviation CE?"
+                  },
+                  {
+                    "a": "BC — Before Christ (before the year 0, like 3000 BC).",
+                    "q": "What is the full form of the abbreviation BC?"
+                  },
+                  {
+                    "a": "BCE — Before Common Era (means the same as BC, 3000 BCE). Used in modern English.",
+                    "q": "What is the full form of the abbreviation BCE?"
+                  },
+                  {
+                    "a": "HR — Human Resources.",
+                    "q": "What is the full form of the abbreviation HR?"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "What was your score on the Intelligence Quotient test?",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. What was your score on the IQ test?"
+                  },
+                  {
+                    "a": "The brochure that we got in class today answers all the Frequently Asked Questions.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. The brochure that we got in class today answers all the FAQs."
+                  },
+                  {
+                    "a": "The Human Resources department asked for detailed information about all the employees.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. The HR department asked for detailed information about all the employees."
+                  },
+                  {
+                    "a": "When the ship began to sink it sent out a Save Our Souls signal.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. When the ship began to sink it sent out an SOS signal."
+                  },
+                  {
+                    "a": "My friend asked his father to send the money As Soon As Possible as he wanted to pay his fees.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. My friend asked his father to send the money ASAP as he wanted to pay his fees."
+                  },
+                  {
+                    "a": "This Personal Computer has a problem; I cannot access my emails on it.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. This PC has a problem; I cannot access my emails on it."
+                  },
+                  {
+                    "a": "The principal asked all students to bring a copy of their father's Computerised National Identity Card.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. The principal asked all students to bring a copy of their father's CNIC."
+                  },
+                  {
+                    "a": "My uncle brought a Do It Yourself house painting kit for me from London.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. My uncle brought a DIY house painting kit for me from London."
+                  },
+                  {
+                    "a": "People often write For Your Information on papers and in emails when they want to share some information with their friends or fellow workers.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. People often write FYI on papers and in emails when they want to share some information with their friends or fellow workers."
+                  },
+                  {
+                    "a": "When they need money they use their Automated Teller Machine card to get it.",
+                    "q": "Use the previous table to write the full form of the abbreviation used in the following sentence. Rewrite the sentence using the full form. When they need money they use their ATM card to get it."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "How to play: First memorise all the abbreviations from the table in Exercise 1. The teacher divides the class into two groups and gives each group a name, choosing any one national hero. The teacher writes the two group names at the top of two columns on the blackboard. The teacher writes numbers on small chits and folds them, and writes all the abbreviations on small chits and folds them and keeps them separately. Then the teacher picks up a number from the number chits, and the students with that number from both groups come out. The teacher picks an abbreviation chit and asks one student to say the full form of it. If the student answers correctly the team gets a point; if not, the student from the other team gets a chance to answer and win an extra point for his/her team. Then the teacher picks another abbreviation chit and asks the second student. If s/he does not answer correctly then the first student gets a chance to win an extra point for his/her team. The game continues until all the abbreviation chits get finished. The team with the most points wins. Full forms to memorise: ASAP — As Soon as Possible; FYI — For Your Information; FAQ — Frequently Asked Questions; ATM — Automated Teller Machine; PS — Post Script; DIY — Do it Yourself; ID — Identification; CNIC — Computerised National Identity Card; IQ — Intelligence Quotient; PC — Personal Computer; PR — Public Relations; SOS — Save Our Souls; AD — Anno Domini; CE — Common Era; BC — Before Christ; BCE — Before Common Era; HR — Human Resources.",
+                    "q": "Play a game with abbreviations. First memorise all the abbreviations given in Exercise 1. The teacher divides the class into two groups, each group numbered from one to fifteen/twenty/twenty two, and writes the numbers and the abbreviations on small chits. The teacher draws two columns on the blackboard and asks each group to suggest a name for their group, selecting any one national hero. Then the game starts as described in the book."
+                  }
+                ],
+                "label": "Exercise 3"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "7.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The 25 professions are hidden in the 20 by 20 letter grid. 23 of them can be found; LAWYER and NURSE do not appear anywhere in the grid (checked in all eight directions: across, down and diagonally, forwards and backwards) — this is a misprint in the book. Positions (row, column; row 1 is the top row, column 1 is the left column): artist — row 1, columns 1–6, across. singer — row 1, columns 12–17, across. pilot — row 2, columns 2–6, across. teacher — column 6, rows 2–8, down. dyer — row 3, columns 4–7, across. carpenter — row 3, columns 20–12, backwards. baker — row 4, columns 7–3, backwards. mechanic — row 4, columns 10–17, across. chef — row 6, columns 7–4, backwards. butcher — row 7, columns 1–7, across. busdriver — row 7, columns 11–19, across. doctor — row 8, columns 15–20, across. tailor — from row 8, column 8 diagonally down-left to row 13, column 3. farmer — row 9, columns 15–10, backwards. gardener — column 10, rows 16–9, upwards. weaver — column 12, rows 10–15, down. poet — row 13, columns 14–17, across. welder — column 2, rows 13–18, down. firefighter — column 9, rows 17–7, upwards. potter — column 17, rows 19–14, upwards. writer — row 15, columns 13–18, across. electrician — row 20, columns 14–4, backwards. actor — row 19, columns 13–9, backwards. The grid also contains other profession words that are not in the list: factory (row 19, columns 14–8, backwards), worker (row 18, columns 7–12, across), crafts (row 18, columns 1–6, across), stylist (row 6, columns 14–20, across). After finding the words, act out a profession in two teams as the teacher's note says: each team takes a turn to select a profession and act it out; if the other team guesses it correctly, they get a point.",
+                    "q": "Work individually and see how many professionals from the list below you can find in the puzzle. The words are arranged either right to left, left to right (backwards) up to down, down to up and diagonally forward and backwards. Words: electrician, pilot, teacher, butcher, lawyer, doctor, nurse, tailor, mechanic, firefighter, singer, artist, actor, busdriver, writer, chef, dyer, welder, carpenter, farmer, gardener, weaver, potter, poet, baker."
+                  }
+                ],
+                "label": "Word search puzzle"
+              }
+            ],
+            "name": "Fun",
+            "num": "7.6"
+          }
+        ],
+        "title": "THE MULTIPLE ROLES THAT WOMEN PLAY",
+        "unit": 7,
+        "words": [
+          {
+            "sd": "سيمينار، وڏي گڏجاڻي",
+            "syn": "a big meeting where reports are presented",
+            "w": "seminar"
+          },
+          {
+            "sd": "چوڌاري ڦرڻ، بي مقصد ويجهو بيهڻ",
+            "syn": "to stand or move about near someone without purpose",
+            "w": "hovering"
+          },
+          {
+            "sd": "هڪ ئي وقت ڪيترائي ڪم ڪرڻ",
+            "syn": "doing two or more things at the same time",
+            "w": "multi-tasking"
+          },
+          {
+            "sd": "هڪ ئي وقت",
+            "syn": "at the same time",
+            "w": "simultaneously"
+          },
+          {
+            "sd": "معاشي سرگرمي، پئسا ڪمائڻ وارو ڪم",
+            "syn": "work done to earn money",
+            "w": "economic activity"
+          },
+          {
+            "sd": "ترقياتي شعبو",
+            "syn": "a field in which progress and improvement is studied",
+            "w": "development sector"
+          },
+          {
+            "sd": "قوم جي تعمير",
+            "syn": "developing the country",
+            "w": "nation-building"
+          },
+          {
+            "sd": "وندر، شوق",
+            "syn": "a thing done for enjoyment",
+            "w": "pastime"
+          },
+          {
+            "sd": "ڪڍائي",
+            "syn": "decorative stitching on cloth",
+            "w": "embroidery"
+          },
+          {
+            "sd": "اڻڻ، ڪپڙو اڻڻ",
+            "syn": "to make cloth with thread",
+            "w": "weave"
+          },
+          {
+            "sd": "کارڙو، اڻڻ واري مشين",
+            "syn": "a machine for weaving cloth",
+            "w": "loom"
+          },
+          {
+            "sd": "گهريلو ڪم",
+            "syn": "everyday work at home",
+            "w": "chores"
+          },
+          {
+            "sd": "پيداواري، فائديمند",
+            "syn": "producing good results",
+            "w": "productive"
+          },
+          {
+            "sd": "حاصل ڪرڻ",
+            "syn": "to get, to gain",
+            "w": "acquire"
+          },
+          {
+            "sd": "منتظمين",
+            "syn": "people who arrange an event",
+            "w": "organisers"
+          },
+          {
+            "sd": "حصو وجهڻ",
+            "syn": "to give or do something to help",
+            "w": "contribute"
+          },
+          {
+            "sd": "زرعي",
+            "syn": "related to farming",
+            "w": "agricultural"
+          },
+          {
+            "sd": "حصو وٺڻ",
+            "syn": "to take part",
+            "w": "participate"
+          },
+          {
+            "sd": "ترقي",
+            "syn": "improvement, advancement",
+            "w": "progress"
+          },
+          {
+            "sd": "همت افزائي ڪرڻ",
+            "syn": "to give courage and support",
+            "w": "encourage"
+          },
+          {
+            "sd": "زور ڏيڻ",
+            "syn": "to stress, to give importance",
+            "w": "emphasise"
+          },
+          {
+            "sd": "ڳالهه ٻولهه ۾ استعمال ٿيندڙ لفظ",
+            "syn": "a word used in natural speech",
+            "w": "filler"
+          },
+          {
+            "sd": "مخفف",
+            "syn": "a short form of a word or phrase",
+            "w": "abbreviation"
+          },
+          {
+            "sd": "پيشو",
+            "syn": "a job, an occupation",
+            "w": "profession"
+          },
+          {
+            "sd": "ڳالهه ٻولهه، مڪالمو",
+            "syn": "a conversation between people",
+            "w": "dialogue"
+          }
+        ],
+        "display": "The multiple roles that women play"
+      }
+    ],
   },
   "vii": {
     "mathsolutions": [
@@ -48737,7 +54035,7 @@ function renderSubjectMaterial(cls, subj){
   else if(cls === "viii") data = STUDY.viii;
   else if(cls === "vii") data = STUDY.vii;
   else if(cls === "vi") data = STUDY.vi;
-  if(subj === "English" && cls === "ix" && STUDY.ix && STUDY.ix.exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY.ix.exsolutions});
+  if(subj === "English" && STUDY[cls] && STUDY[cls].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].exsolutions});
   matData = data;
   matSubj = subj;
   matCls = cls;
@@ -48746,7 +54044,7 @@ function renderSubjectMaterial(cls, subj){
     if(!data){ box.innerHTML = ""; return; }
     matTabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
     if(data.notes) matTabs.push(["notes", "Notes"]);
-    if((cls === "x" || cls === "ix") && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
+    if((cls === "x" || cls === "ix" || cls === "viii") && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
     matTabs.forEach(function(t){
       html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
     });
@@ -48777,7 +54075,7 @@ function openMatPage(tab, cls, subj){
   else if(c === "viii") data = STUDY.viii;
   else if(c === "vii") data = STUDY.vii;
   else if(c === "vi") data = STUDY.vi;
-  if(s === "English" && c === "ix" && STUDY.ix && STUDY.ix.exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY.ix.exsolutions});
+  if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(data) matData = data;
   matExUnit = 0;
   matMathUnit = 0;
@@ -48816,7 +54114,7 @@ function openExUnit(n, cls, subj){
   else if(c === "viii") data = STUDY.viii;
   else if(c === "vii") data = STUDY.vii;
   else if(c === "vi") data = STUDY.vi;
-  if(s === "English" && c === "ix" && STUDY.ix && STUDY.ix.exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY.ix.exsolutions});
+  if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(data) matData = data;
   matExUnit = n;
   var h = exUnitHtml(n);
@@ -48899,7 +54197,7 @@ function openMathUnit(n, cls, subj){
   else if(c === "viii") data = STUDY.viii;
   else if(c === "vii") data = STUDY.vii;
   else if(c === "vi") data = STUDY.vi;
-  if(s === "English" && c === "ix" && STUDY.ix && STUDY.ix.exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY.ix.exsolutions});
+  if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(data) matData = data;
   matMathUnit = n;
   var h = mathUnitHtml(n);
