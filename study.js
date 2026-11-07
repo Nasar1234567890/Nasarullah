@@ -59327,7 +59327,4358 @@ var STUDY = {
         ],
         "display": "Information Handling"
       }
-    ]
+    ],
+    "exsolutions": [
+      {
+        "reading": "A Visit to the Park",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: My favourite public place is the park near my house. I visit it every Sunday with my family. (Any honest personal answer is acceptable.)",
+                    "q": "What is your favourite public place, one that you have visited or would like to visit?"
+                  },
+                  {
+                    "a": "Model answer: I like it because it is green and beautiful, with trees, flowers and swings, and I can play there with my friends. (Any honest personal answer is acceptable.)",
+                    "q": "Why do you like it?"
+                  },
+                  {
+                    "a": "Model answer: Yes, it is neat and clean because the people who visit it throw their rubbish in the dustbins and look after the plants and trees. (Any honest personal answer is acceptable.)",
+                    "q": "Is it neat and clean?"
+                  },
+                  {
+                    "a": "The words grass, ground, trees, slides and gate tell us that the text is about a park.",
+                    "q": "The following text is about a public place. If you hear the following words, which public place do you think the text is about: grass, ground, trees, slides, gate, ticket"
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "iii. Keeping Public Places Clean — the text is about Hamza and Abdullah learning the park rules and deciding to teach people how to keep public places clean.",
+                    "q": "Read the text and choose one suitable title for the text from the ones given below. Circle the most suitable title. i. Two Friends, ii. Beautiful Park, iii. Keeping Public Places Clean, iv. Sunday Outing"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1-E — trash means garbage. (Example given in the book.)",
+                    "q": "Match the word 'trash' (1) with its meaning. Meanings: A) lively and cheerful behaviour or mood, B) talking, C) understand or know something, D) pile, E) garbage, F) a piece of paper or plastic that covers something, like a sweet or a packet of biscuit."
+                  },
+                  {
+                    "a": "2-D — heap means pile.",
+                    "q": "Match the word 'heap' (2) with its meaning."
+                  },
+                  {
+                    "a": "3-A — high spirits means lively and cheerful behaviour or mood.",
+                    "q": "Match the words 'high spirits' (3) with their meaning."
+                  },
+                  {
+                    "a": "4-B — chatting means talking.",
+                    "q": "Match the word 'chatting' (4) with its meaning."
+                  },
+                  {
+                    "a": "5-F — wrapper means a piece of paper or plastic that covers something, like a sweet or a packet of biscuit.",
+                    "q": "Match the word 'wrapper' (5) with its meaning."
+                  },
+                  {
+                    "a": "6-C — realize means understand or know something.",
+                    "q": "Match the word 'realize' (6) with its meaning."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "False — Abdullah and Hamza set out for the park on a bright sunny morning, not on a rainy day. (Example given in the book.)",
+                    "q": "Abdullah and Hamza set out for the park on a rainy day. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "False — Hamza was about to throw his ice cream wrapper (not a biscuit wrapper) on the ground, but Abdullah stopped him, so he did not throw it.",
+                    "q": "Hamza threw a biscuit wrapper on the ground. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "True — The board at the park gate reads 'City Park Rules'.",
+                    "q": "They went to a public park called the 'City Park'. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "False — The park rules say you must not write or draw on the walls, and you must not write on or damage the benches.",
+                    "q": "It was allowed to write on the walls and benches of the park. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "True — Rule 3 of the City Park Rules says: 'You must not cut or harm the plants and trees'.",
+                    "q": "No one must cut or harm the plants and the trees. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "False — The park timings are from 8:00 am to 8:00 pm daily, not from 7:30 am.",
+                    "q": "The park timings were from 7:30 am to 8:00 pm. Write T if the statement is true and F if it is false."
+                  },
+                  {
+                    "a": "True — Abdullah said they would place dustbins all around the park with signs of 'Keep Pakistan Clean' on them.",
+                    "q": "The signs they would put up would say 'Keep Pakistan Clean'. Write T if the statement is true and F if it is false."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "4 — This is the fourth sentence in the text. Abdullah says it after Hamza says that throwing a single wrapper will not make any difference.",
+                    "q": "Read the text and find out which sentence comes first in the text, which comes second, and so on. Write the sentence number in the blank at the end of the sentence. a) If we all throw single pieces of trash it will soon create a rubbish heap in the park."
+                  },
+                  {
+                    "a": "3 — This is the third sentence in the text. Hamza says it when Abdullah tells him not to throw his ice cream wrapper on the ground.",
+                    "q": "b) Throwing a single wrapper will not make any difference."
+                  },
+                  {
+                    "a": "1 — This is the first sentence in the text. (Example given in the book.)",
+                    "q": "c) They stop outside the park to buy some ice cream."
+                  },
+                  {
+                    "a": "5 — This is the fifth sentence in the text. Abdullah says it after telling Hamza that all the single pieces of trash will soon create a rubbish heap in the park.",
+                    "q": "d) Therefore we must follow the par rules here."
+                  },
+                  {
+                    "a": "6 — This is the sixth sentence in the text. Abdullah says it when they reach the board at the park gate.",
+                    "q": "e) Let's read the park rules so that we know what we should do and not do in the park."
+                  },
+                  {
+                    "a": "2 — This is the second sentence in the text. Abdullah says it to Hamza when they enter the park.",
+                    "q": "f) You should not throw your ice cream wrapper on the ground."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The correct order is: 1. They stop outside the park to buy some ice cream. 2. You should not throw your ice cream wrapper on the ground. 3. Throwing a single wrapper will not make any difference. 4. If we all throw single pieces of trash it will soon create a rubbish heap in the park. 5. Therefore we must follow the park rules here. 6. Let's read the park rules so that we know what we should do and not do in the park.",
+                    "q": "Write all the above sentences in the correct order in your notebook."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "No, we should not. We should not write or draw on the walls of the park.",
+                    "q": "Here is a list of eight things; four of these should be done in the park and four should not be done. Write these down in the correct column in the table below. 1. Write or draw on the walls of the park. — Should we do this in the park?"
+                  },
+                  {
+                    "a": "Yes, we should. We should use the provided dustbins.",
+                    "q": "2. Use the provided dustbins. — Should we do this in the park?"
+                  },
+                  {
+                    "a": "Yes, we should. We should follow the park timings.",
+                    "q": "3. Follow the park timings. — Should we do this in the park?"
+                  },
+                  {
+                    "a": "No, we should not. We should not write on or damage the benches.",
+                    "q": "4. Write on or damage the benches. — Should we do this in the park?"
+                  },
+                  {
+                    "a": "No, we should not. We should not throw litter around the park.",
+                    "q": "5. Throw litter around the park. — Should we do this in the park?"
+                  },
+                  {
+                    "a": "Yes, we should. We should keep our parks clean.",
+                    "q": "6. Keep our parks clean. — Should we do this in the park?"
+                  },
+                  {
+                    "a": "No, we should not. We should not cut or harm the plants and trees.",
+                    "q": "7. Cut or harm the plants and trees. — Should we do this in the park?"
+                  },
+                  {
+                    "a": "Yes, we should. We should teach others about how to keep public places clean.",
+                    "q": "8. Teach others about how to keep public places clean. — Should we do this in the park?"
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Abdullah told Hamza not to throw his ice cream wrapper on the ground.",
+                    "q": "Read the text and write the answers to the following questions in your notebook. 1. What did Abdullah tell Hamza not to do?"
+                  },
+                  {
+                    "a": "Hamza wanted to throw the ice cream wrapper on the ground because everyone else throws trash around there, and he thought that throwing a single wrapper would not make any difference.",
+                    "q": "2. Why did Hamza want to throw the ice cream wrapper on the ground?"
+                  },
+                  {
+                    "a": "According to Abdullah, people should try and make Pakistan clean and beautiful: they should follow the park rules, use the dustbins, and protect the public places.",
+                    "q": "3. According to Abdullah what should people do to have a clean and beautiful Pakistan?"
+                  },
+                  {
+                    "a": "The board on which the park rules were written was at the park gate.",
+                    "q": "4. Where was the board on which the park rules were written?"
+                  },
+                  {
+                    "a": "Abdullah and Hamza decided to (1) put up posters telling people how and why to keep the places clean, and (2) place dustbins all around the park with signs of 'Keep Pakistan Clean' on them.",
+                    "q": "5. What were the two things that Abdullah and Hamza decided to do to teach people about keeping the park clean?"
+                  }
+                ],
+                "label": "Exercise 7"
+              },
+              {
+                "items": [
+                  {
+                    "a": "We should take care of public places because they are there for us to use. If we do not take care of them, we will have no place left for fun and enjoyment.",
+                    "q": "Discuss in pairs and then write down the answers to the following questions in your notebook. 1. Why should we take care of public places?"
+                  },
+                  {
+                    "a": "Model answer: parks, playgrounds, schools, hospitals, libraries, mosques, markets, roads, railway stations, bus stops, museums, zoos, gardens and beaches. (Any sensible list is acceptable.)",
+                    "q": "2. List down all the public places that you can think of."
+                  },
+                  {
+                    "a": "Model answer: put up posters telling people how and why to keep public places clean; place dustbins with 'Keep Pakistan Clean' signs; arrange a cleanliness campaign in the neighbourhood; give speeches and present role-plays in the morning assembly; teach younger children to throw rubbish in dustbins. (Any sensible answer is acceptable.)",
+                    "q": "3. Write down some of the things that you can do to create awareness about taking care of public places."
+                  }
+                ],
+                "label": "Exercise 8"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "1.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model dialogue — Seek and respond to permission (Amina and Sadia, about walking safely on the road): Amina: Look at me! See how fast I can run on the main road. Sadia: You must not run on the main road! It's against the law. Amina: How about walking? Sadia: You must not! You must walk on the side where you can see the traffic coming. Amina: Oh! You must not stop me. Let me enjoy myself. Sadia: You must follow these rules for your safety. Amina: Yes, I know. I must obey the rules. Thank you, Sadia. Practise the dialogue in pairs, then reverse the roles and repeat it. Then repeat the same activity with another activity, like walking alone in the dark or walking on a train track.",
+                    "q": "In pairs, practise the following conversation. First, one student should play the role of Amina and the other one should play the role of Sadia. Then, change roles and repeat the dialogue. Amina: Look at me! See how fast I can run on the main road. Sadia: You must not run on the main road! It's against the law. Amina: How about walking? Sadia: You must not! You must walk on the side where you can see the traffic coming. Amina: Oh! You must not stop me. Let me enjoy myself. Sadia: You must follow these rules for your safety. Amina: Yes, I know. I must obey the rules. Thank you, Sadia."
+                  }
+                ],
+                "label": "Dialogue — Seek and respond to permission"
+              }
+            ],
+            "name": "Speaking",
+            "num": "1.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Should/should not statements from the reading text: 1. You should not throw your ice cream wrapper on the ground, Hamza! 2. If we want a clean and beautiful Pakistan, we should try and make it one. 3. We should teach others how to keep the public places clean. 4. You should use it wisely! (This Public Park is for your benefit.)",
+                    "q": "Work in pairs and find out all the statements using should/should not and must/must not from the reading text in section 1.1. Fill them in the table below. Write the statements using should/should not."
+                  },
+                  {
+                    "a": "Must/must not statements from the reading text: 1. We must follow the park rules here and protect our public places. 2. You must not write or draw on the walls of the park. 3. You must not throw trash around the park. Use the provided dustbins. 4. You must not cut or harm the plants and trees. 5. You must not write on/damage the benches. 6. You must follow the park timings: from 8:00 am to 8:00 pm daily. 7. Children must come with an adult.",
+                    "q": "Write the statements using must/must not."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model advice (using should/should not): 1. You should treat animals kindly. (Example given in the book.) 2. You should respect your teachers and elders. 3. You should keep your classroom clean. 4. You should not throw rubbish in the streets. 5. You should help your friends in their studies. 6. You should not waste water. (Any sensible advice is acceptable.)",
+                    "q": "Work in groups of four. In your notebooks, write ADVICE at the top of one page and RULES at the top of another page. Now discuss in your groups and write at least five pieces of advice that you can give to your friends. Write five pieces of advice."
+                  },
+                  {
+                    "a": "Model rules (using must/must not): 1. You must not shout in class. (Example given in the book.) 2. You must come to school on time. 3. You must wear your school uniform. 4. You must not write on the walls of the school. 5. You must listen to your teacher. 6. You must not run in the classroom. (Any sensible rules are acceptable.)",
+                    "q": "Similarly, write five rules that your friends must follow."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model paragraph: All the children are enjoying themselves in the park. Saba is climbing a tree. Rani is sitting on a bench. Asad is eating an ice cream. Rafiq is flying a kite. Beena, John, Kumar and Sita are playing cricket. Zahid is sleeping under a tree. In short, all of them are having a good time in the park.",
+                    "q": "Look at the picture given below and write a paragraph in your notebook about what the children are doing in the park. You can write like this (choose only one phrase from the highlighted ones; choose different phrases for the topic sentence and the concluding sentence): All the children are enjoying themselves/are having a good time/are having fun in the park. Saba is ______. Asad ______. Beena, John, Kumar and Sita ______. Rafiq ______. Rani ______. Zahid ______. In short, all of them are having a good time/are having fun/are enjoying themselves in the park."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model paragraph: Everyone in the class is helping for the Eid Milan party. Ali is decorating the classroom with colourful balloons. Sana is arranging the chairs in a circle. Ahmed, Bilal and Usman are putting sweets and biscuits on the tables. Fatima and Ayesha are making a beautiful chart. Hassan is singing a naat. Our teacher is helping us to arrange everything. In brief, everyone is enjoying the Eid Milan party in the classroom. (Student names and activities will vary.)",
+                    "q": "Imagine your class is having an Eid Milan party. Write a paragraph about what everyone is doing in your classroom. You can begin like this: Everyone in the class is helping for the Eid Milan party. Student 1 (write the name of one student in your class) is ______. Student 2 (name of another student) ______. Student 3, 4 and 5 ______. Student 6 and 7 ______. Student 8 ______. Our teacher ______. In brief, ______."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "We should take care of our parks. We should keep them clean and not throw trash anywhere. We must also not damage any property in our parks. In short, we are all responsible for taking care of our parks.",
+                    "q": "Rewrite the following paragraphs by adding in brief, in short or to sum up at the beginning of the last sentence. Use each phrase only once and remember to use a comma after it. (a) We should take care of our parks. We should keep them clean and not throw trash anywhere. We must also not damage any property in our parks. We are all responsible for taking care of our parks."
+                  },
+                  {
+                    "a": "Teachers usually tell us when to finish our homework. If we do not do our work on time we may lose marks. Our teachers may also get angry and punish us. They may also call our parents and tell them that we are careless. In brief, we should complete our homework on time in order to be good students.",
+                    "q": "(b) Teachers usually tell us when to finish our homework. If we do not do our work on time we may lose marks. Our teachers may also get angry and punish us. They may also call our parents and tell them that we are careless. We should complete our homework on time in order to be good students."
+                  },
+                  {
+                    "a": "Misbehaving with our parents is bad manners. We should never shout at them or become angry at what they say. We should listen to what they say and follow their advice. We should always try to please them and look after their needs. To sum up, we must respect our parents and be kind to them.",
+                    "q": "(c) Misbehaving with our parents is bad manners. We should never shout at them or become angry at what they say. We should listen to what they say and follow their advice. We should always try to please them and look after their needs. We must respect our parents and be kind to them."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model paragraph — My School: My school is a very good school. It is near my house. It has ten classrooms, a library and a big playground. My teachers are kind and hardworking, and they teach us many new things every day. We have a beautiful garden with flowers and trees in front of our school. We play games in the playground during the break. In short, I love my school very much.",
+                    "q": "Write a paragraph about your school. First, do some brainstorming. Then, write a good topic sentence. After that, write the points in detail. Finally, end your paragraph with a concluding sentence. Remember to use in brief, in short or to sum up at the beginning of the last sentence."
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Father said to me, \"Finish your work!\" (Example given in the book.)",
+                    "q": "Work in pairs, and discuss where you need to put the quotation marks, the commas and the capital letters. After you have discussed, write the correct sentences in your notebooks. The first one has been done as an example. i. Father said to me finish your work!"
+                  },
+                  {
+                    "a": "Kamran said, \"Mehnaz wants to play outside.\"",
+                    "q": "ii. Kamran said Mehnaz wants to play outside."
+                  },
+                  {
+                    "a": "\"Which shop do you want to go to?\" asked mother.",
+                    "q": "iii. Which shop do you want to go to? asked mother."
+                  },
+                  {
+                    "a": "Mir said, \"I don't believe you.\"",
+                    "q": "iv. Mir said I don't believe you."
+                  },
+                  {
+                    "a": "I asked, \"Have you seen the movie Spiderman?\"",
+                    "q": "v. I asked have you seen the movie Spiderman?"
+                  },
+                  {
+                    "a": "He said, \"Do you want to stay?\"",
+                    "q": "vi. He said do you want to stay?"
+                  },
+                  {
+                    "a": "\"I'm next,\" she said softly.",
+                    "q": "vii. I'm next she said softly."
+                  },
+                  {
+                    "a": "Nyla told me, \"You are the best!\"",
+                    "q": "viii. Nyla told me you are the best!"
+                  },
+                  {
+                    "a": "\"We should go home,\" said Bilal.",
+                    "q": "ix. We should go home said Bilal."
+                  }
+                ],
+                "label": "Exercise 7"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Corrected story: An old man and his twenty-year-old son were going to Multan from Karachi in a train. The young man had a happy look on his face. \"Look, Abba,\" he said. \"The fields are so beautiful!\" \"Yes, beta,\" he said. \"Look at those flowers! What are they called?\" he asked his father. His father replied, \"They are called roses.\" Sunil and Jamil were sitting on the next seat. Sunil said to Jamil, \"He is mad. He is asking such silly questions.\" The father of the young man heard this and said, \"No, he is not mad. He was blind from birth. Someone in Sri Lanka donated his eyes when he died. My son was given those eyes. He is seeing all this for the first time in his life.\" Sunil said, \"Sorry, I did not know that.\" \"Beta, never judge people when you don't know them,\" said the old man.",
+                    "q": "Read the following story with your partner. Discuss where the quotation marks and commas should be. Also discuss which words should be in capital letters. After you have discussed the whole story, write it down in your notebooks. Use quotation marks, commas and capital letters. An old man and his twenty year old son were going to Multan from Karachi in a train. The young man had a happy look on his face. Look, Abba he said. The fields are so beautiful! Yes, beta he said. Look at those flowers! What are they called? he asked his father. His father replied they are called roses. Sunil and Jamil were sitting on the next seat. Sunil said to Jamil he is mad. He is asking such silly questions. The father of the young man heard this and said no, he is not mad. He was blind from birth. Someone in Sri Lanka donated his eyes when he died. My son was given those eyes. He is seeing all this for the first time in his life. Sunil said sorry, I did not know that. Beta, never judge people when you don't know them said the old man."
+                  }
+                ],
+                "label": "Exercise 8"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "1.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model mind map points — Keeping our city clean: throw rubbish in dustbins; do not throw litter in the streets; plant trees; keep the streets clean; teach others to keep the city clean; follow the city rules. Model dialogue-story — 'Keeping Our City Clean': (Scene: Three friends — Ali, Sana and Bilal — are walking in their street and see rubbish everywhere.) Ali: Look at our street! There is rubbish everywhere. Sana: Yes, we should not throw rubbish in the streets. We should throw it in the dustbins. Bilal: You are right. We must follow the rules of our city. We must not throw litter on the roads. Ali: We should also teach our neighbours to keep the city clean. Sana: Yes! We should put up posters and tell everyone to keep our city clean. Bilal: Let us start today. We must clean our street and plant trees. Ali: Good idea! Let us keep our city clean and teach others to do the same. (Character names and dialogues will vary.)",
+                    "q": "Look at the reading text at the beginning of the Unit. See how the dialogues are written. Now look at this topic: Keeping Our Village/City Clean. Work in groups of three and follow these steps: Discuss how you can keep your village/city clean. In your notebooks draw a mind map like this. In the centre write the topic and from the circle take out as many lines as you need. Note down all the main points on the lines in the mind map. Discuss what your story will be. What will the scene be. How many characters you will have and what their names will be. Discuss how you can put your ideas in dialogues. Write down the dialogues. Remember to use should/should not for advice and must/must not for rules. Give a title to your story. Write the complete dialogue-story in your notebook."
+                  }
+                ],
+                "label": "Writing Dialogues"
+              }
+            ],
+            "name": "Writing",
+            "num": "1.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Self-Created Cloze — how to do it: Step 1: a) Choose a paragraph from the Reading Comprehension section of your English textbook or any other book in English. b) Mark or underline every 8th word. c) Open your notebook. Draw a margin and put the date. d) Copy the paragraph in your best handwriting in your notebook. e) Do not write the marked/underlined word. Draw a blank line where the word is. f) Close the books. Take a break of half an hour. g) Take out your notebook and fill in the blanks without looking at the original paragraph. Step 2 — Check your work: a) Open your notebooks. b) Have you put in a margin? c) Have you put in the date? d) Have you started the paragraph two-finger space away from the margin? e) Does the writing look neat and tidy? f) Open your textbook and check your answers in the blanks. g) Give yourself one mark for each correct answer. Do this activity every day in a separate notebook.",
+                    "q": "Do you want to speak and write good English? Doing this activity everyday can help you. Do this activity even when you go to class VII and VIII. It is called: Self-Created Cloze. You can use your English textbook or any other book in English for this activity. You will also need an extra notebook for this activity. Try to write at least one paragraph every day. Here are the two main steps that you need to follow: Step 1 (choose a paragraph, mark every 8th word, copy it leaving blanks, fill in the blanks after half an hour) and Step 2 (check your work). What are the steps of the Self-Created Cloze?"
+                  }
+                ],
+                "label": "Self-Created Cloze"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "1.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model poster — 'Keeping our park clean': Title: Keep Our Park Clean! Points on the poster: Use the dustbins — do not throw litter on the ground. Do not write on the walls and benches. Do not cut or harm the plants and trees. Follow the park timings. Keep Pakistan Clean! Draw colourful pictures of a clean park, trees, flowers and dustbins, and show the poster in the morning assembly. (Topics and points will vary.)",
+                    "q": "Work in groups of three and make colourful posters on any one of the following topics: 1. Keeping our park clean, 2. Keeping our village/city clean, 3. Keeping our school clean, 4. Keeping our house clean, 5. Keeping the area around our house clean. After you have completed your work: Take turns during assembly to show your posters and give information about them. Present your posters in front of another class. Put them on display around your school."
+                  }
+                ],
+                "label": "Making Colourful Poster"
+              }
+            ],
+            "name": "Fun",
+            "num": "1.6"
+          }
+        ],
+        "title": "Practising Cleanliness",
+        "unit": 1,
+        "words": [
+          {
+            "sd": "ڪچرو",
+            "syn": "garbage",
+            "w": "trash"
+          },
+          {
+            "sd": "ڍير",
+            "syn": "pile",
+            "w": "heap"
+          },
+          {
+            "sd": "خوشي ۽ جوش",
+            "syn": "lively and cheerful behaviour or mood",
+            "w": "high spirits"
+          },
+          {
+            "sd": "ڳالهه ٻولهه ڪرڻ",
+            "syn": "talking",
+            "w": "chatting"
+          },
+          {
+            "sd": "لفافو",
+            "syn": "a piece of paper or plastic that covers something, like a sweet or a packet of biscuit",
+            "w": "wrapper"
+          },
+          {
+            "sd": "سمجھڻ",
+            "syn": "understand or know something",
+            "w": "realize"
+          },
+          {
+            "sd": "ڪچرو",
+            "syn": "waste, garbage",
+            "w": "rubbish"
+          },
+          {
+            "sd": "گند",
+            "syn": "small pieces of rubbish thrown on the ground",
+            "w": "litter"
+          },
+          {
+            "sd": "ڪچري دان",
+            "syn": "a bin for rubbish",
+            "w": "dustbin"
+          },
+          {
+            "sd": "فائدو",
+            "syn": "advantage",
+            "w": "benefit"
+          },
+          {
+            "sd": "عقلمندي سان",
+            "syn": "in a wise way",
+            "w": "wisely"
+          },
+          {
+            "sd": "پاڙو",
+            "syn": "the area around one's home",
+            "w": "neighbourhood"
+          },
+          {
+            "sd": "عوامي جڳهه",
+            "syn": "a place open for everyone to use",
+            "w": "public place"
+          },
+          {
+            "sd": "پوسٽر",
+            "syn": "a large printed notice",
+            "w": "poster"
+          },
+          {
+            "sd": "آگاهي",
+            "syn": "knowing about something",
+            "w": "awareness"
+          },
+          {
+            "sd": "مزو",
+            "syn": "pleasure, fun",
+            "w": "enjoyment"
+          },
+          {
+            "sd": "بچائڻ",
+            "syn": "keep safe from harm",
+            "w": "protect"
+          },
+          {
+            "sd": "قاعدو",
+            "syn": "something you must or must not do",
+            "w": "rule"
+          }
+        ],
+        "display": "A Visit to the Park"
+      },
+      {
+        "reading": "A Dream That Brought a Big Change",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: Yes, I dream almost every night. Sometimes I dream about my school and my friends, and sometimes I dream about travelling to beautiful places. (Any honest personal answer is acceptable.)",
+                    "q": "Do you ever dream?"
+                  },
+                  {
+                    "a": "Model answer: No, I do not remember all my dreams. I remember only some of them, and I forget the others when I wake up. (Any honest personal answer is acceptable.)",
+                    "q": "Do you remember all your dreams?"
+                  },
+                  {
+                    "a": "Model answer: Yes, I would like to share one of my dreams. Once I dreamt that I was flying in the sky like a bird, and I could see my whole village below me. (Any honest personal answer is acceptable.)",
+                    "q": "Would you like to share one of your dreams?"
+                  },
+                  {
+                    "a": "Model answer: I think the person saw something in the dream that changed his life — perhaps he saw that he was weak and unhealthy, and he decided to eat proper food, take exercise and become strong and healthy. (Any sensible guess is acceptable.)",
+                    "q": "The title of the text that you are about to read is 'A Dream That Brought a Big Change'. What do you think the person saw in the dream?"
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "There are four main characters in the story: Kamal, the doctor, Kamal's mother and his classmates. Two of his classmates are named in the story — Yousuf and Ejaz.",
+                    "q": "How many characters are there in the story?"
+                  },
+                  {
+                    "a": "Kamal; the doctor (his name is not given); Kamal's mother (her name is not given); and his classmates Yousuf and Ejaz.",
+                    "q": "What are their names?"
+                  },
+                  {
+                    "a": "Kamal is present both in the dream and after the dream. The doctor and his classmates are only in the dream, and his mother appears only after he wakes up.",
+                    "q": "Which character is present both in the dream and after the dream?"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "laughing — crying",
+                    "q": "All the words in List 1 are in the text. Find them in the text and underline them. All the words in List 2 are the opposites of the words in list 1. In pairs, discuss and match the words in list 1 with their opposites in list 2. Match the word 'laughing' with its opposite in List 2. List 1: laughing, weak, unhealthy, wrong, long, near, go, bad, quickly, always, happy, clean, outside, early, active. List 2: short, sad, inactive, come, crying, inside, good, dirty, right, never, healthy, late, far, slowly, strong."
+                  },
+                  {
+                    "a": "weak — strong",
+                    "q": "Match the word 'weak' with its opposite in List 2."
+                  },
+                  {
+                    "a": "unhealthy — healthy",
+                    "q": "Match the word 'unhealthy' with its opposite in List 2."
+                  },
+                  {
+                    "a": "wrong — right",
+                    "q": "Match the word 'wrong' with its opposite in List 2."
+                  },
+                  {
+                    "a": "long — short",
+                    "q": "Match the word 'long' with its opposite in List 2."
+                  },
+                  {
+                    "a": "near — far",
+                    "q": "Match the word 'near' with its opposite in List 2."
+                  },
+                  {
+                    "a": "go — come",
+                    "q": "Match the word 'go' with its opposite in List 2."
+                  },
+                  {
+                    "a": "bad — good",
+                    "q": "Match the word 'bad' with its opposite in List 2."
+                  },
+                  {
+                    "a": "quickly — slowly",
+                    "q": "Match the word 'quickly' with its opposite in List 2."
+                  },
+                  {
+                    "a": "always — never",
+                    "q": "Match the word 'always' with its opposite in List 2."
+                  },
+                  {
+                    "a": "happy — sad",
+                    "q": "Match the word 'happy' with its opposite in List 2."
+                  },
+                  {
+                    "a": "clean — dirty",
+                    "q": "Match the word 'clean' with its opposite in List 2."
+                  },
+                  {
+                    "a": "outside — inside",
+                    "q": "Match the word 'outside' with its opposite in List 2."
+                  },
+                  {
+                    "a": "early — late",
+                    "q": "Match the word 'early' with its opposite in List 2."
+                  },
+                  {
+                    "a": "active — inactive",
+                    "q": "Match the word 'active' with its opposite in List 2."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "In His Dream — Kamal said this to the doctor in his dream. (Example given in the book.)",
+                    "q": "Which of the following statements did Kamal say in his dream and which ones after he woke up? Put a tick in the correct column. The first one has been done as an example. 1. But, I always walk to school."
+                  },
+                  {
+                    "a": "After Waking — Kamal said this to his mother after he woke up.",
+                    "q": "2. I know that you always tell me to eat proper food but I never listen to you."
+                  },
+                  {
+                    "a": "In His Dream — This was said by the doctor in the dream, not by Kamal.",
+                    "q": "3. Besides, you have a bad cough and sometimes you have fever."
+                  },
+                  {
+                    "a": "In His Dream — Kamal said this to the doctor in his dream.",
+                    "q": "4. Please, tell me what I should do to be well and healthy."
+                  },
+                  {
+                    "a": "In His Dream — Kamal said this to the doctor in his dream.",
+                    "q": "5. Please, let me go to Murree. I will do what you tell me."
+                  },
+                  {
+                    "a": "After Waking — Kamal said this to his mother after he woke up.",
+                    "q": "6. I will not watch too much television but, I will go to bed early."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The doctor at the school had said that Kamal was weak and unhealthy.",
+                    "q": "All the following statements are incorrect. Read the text and write the correct sentences in your notebook. Example: Kamal was standing on the bus stop. (incorrect) — Kamal was standing at the railway station. (correct) 1) The doctor at the school had said that Kamal was strong and healthy."
+                  },
+                  {
+                    "a": "You will not be able to walk long distances and climb hills.",
+                    "q": "2) You will not be able to talk for a long time and sing songs."
+                  },
+                  {
+                    "a": "But why am I weak and sick?",
+                    "q": "3) But why am I bad and naughty?"
+                  },
+                  {
+                    "a": "You should sleep early and wake up early.",
+                    "q": "4) You should sleep late and wake up late."
+                  },
+                  {
+                    "a": "You should not eat too many sweets, or paan, or chhaliya.",
+                    "q": "5) You should not eat too many fruits, or nuts, or vegetables."
+                  },
+                  {
+                    "a": "You should also take a bath daily and wash your hands before every meal.",
+                    "q": "6) You should also take a tablet daily and wash your clothes before every meal."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "You should take proper food. (Example given in the book.)",
+                    "q": "The doctor advised Kamal to do certain things if he wanted to be well and healthy. Read the text and complete the following pieces of advice that the doctor gave to Kamal. Remember to use the full stop at the end of the sentence. The first one has been done as an example. 1) You should take proper food."
+                  },
+                  {
+                    "a": "You should do physical exercise.",
+                    "q": "2) You should do ______."
+                  },
+                  {
+                    "a": "You should sleep early and wake up early.",
+                    "q": "3) You should sleep ______."
+                  },
+                  {
+                    "a": "You should not eat too many sweets, or paan, or chhaliya.",
+                    "q": "4) You should not eat ______."
+                  },
+                  {
+                    "a": "You should eat fruits and vegetables.",
+                    "q": "5) You should eat ______."
+                  },
+                  {
+                    "a": "You should take a bath daily.",
+                    "q": "6) You should take ______."
+                  },
+                  {
+                    "a": "You should wash your hands before every meal.",
+                    "q": "7) You should wash ______."
+                  },
+                  {
+                    "a": "Also, you should wash the fruits and vegetables before you eat them.",
+                    "q": "8) Also, you should wash ______."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1-d — I will have milk, fish, meat, vegetables and fruits because I want to be healthy. (Example given in the book.)",
+                    "q": "Kamal gave reasons to his mother about why he wanted to do different things. Work in pairs and match the reasons with the statements. After discussing orally, write the complete correct sentences in your notebook. 1. I will have milk, fish, meat, vegetables and fruits because ______."
+                  },
+                  {
+                    "a": "2-a — I will not eat too many sweets, paan and chaliya because these things make us sick and unhealthy.",
+                    "q": "2. I will not eat too many sweets, paan and chaliya because ______."
+                  },
+                  {
+                    "a": "3-e — I will also take a bath every day before going to bed because if we remain clean we will not fall sick.",
+                    "q": "3. I will also take a bath every day before going to bed because ______."
+                  },
+                  {
+                    "a": "4-b — I will play outside with my friends after I finish my homework because physical exercise is good for health.",
+                    "q": "4. I will play outside with my friends after I finish my homework because ______."
+                  },
+                  {
+                    "a": "5-c — I will not watch too much television but will go to bed early because I want to be fresh and active when I wake up in the morning.",
+                    "q": "5. I will not watch too much television but will go to bed early because ______."
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "In the dream: Kamal, the doctor and his classmates (Yousuf and Ejaz). Not in the dream: Kamal's mother — she appears only after Kamal wakes up.",
+                    "q": "Which characters were in the dream and which characters were not in the dream?"
+                  },
+                  {
+                    "a": "Yousuf and Ejaz.",
+                    "q": "What are the names of Kamal's friends?"
+                  },
+                  {
+                    "a": "The last thing Kamal said in his dream was: 'Please let me go to Murree. I will do what you tell me. Please let me go. Please, please, please,' cried Kamal.",
+                    "q": "What was the last thing that Kamal said in his dream?"
+                  },
+                  {
+                    "a": "The dream changed Kamal completely. After waking up, he decided to eat proper food — milk, fish, meat, vegetables and fruits — and not to eat too many sweets, paan and chaliya. He decided to take a bath every day, wash his hands and face, play outside with his friends for physical exercise, not watch too much television, and go to bed early, so that he becomes strong and healthy.",
+                    "q": "What effect did the dream have on Kamal?"
+                  }
+                ],
+                "label": "Exercise 7"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "2.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model dialogue — Showing willingness and unwillingness to do something (Zohra and Razia, about Sunday): Zohra: Will you come to my house on Sunday? Razia: No, I will go to my uncle's house. Zohra: Will you do some work there? Razia: Yes, I will do some work but mostly I will play with my cousins. Zohra: Will you watch TV? Razia: No, I will not watch TV. I can watch TV at home. Zohra: What games will you play? Razia: We will mostly play outdoor games; like cricket, skipping, racing, etc. Zohra: Have a good weekend. Enjoy yourself. Razia: I will. Thank you. Practise the dialogue in pairs, then reverse the roles and repeat it. Then repeat the same activity with another activity, like helping with homework or taking part in the annual sports.",
+                    "q": "In pairs, practise the following conversation. First, one student should play the role of Zohra and the other one should play the role of Razia. Then, change roles and repeat the dialogue. Zohra: Will you come to my house on Sunday? Razia: No, I will go to my uncle's house. Zohra: Will you do some work there? Razia: Yes, I will do some work but mostly I will play with my cousins. Zohra: Will you watch TV? Razia: No, I will not watch TV. I can watch TV at home. Zohra: What games will you play? Razia: We will mostly play outdoor games; like cricket, skipping, racing, etc. Zohra: Have a good weekend. Enjoy yourself. Razia: I will. Thank you."
+                  }
+                ],
+                "label": "Dialogue — Showing willingness and unwillingness to do something"
+              }
+            ],
+            "name": "Speaking",
+            "num": "2.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "1-d — Ahmad likes talking to himself. (Example given in the book.)",
+                    "q": "Match the Subjects in Column A with the correct Reflexive Pronouns in Column B to complete the sentences. Column A: 1. Ahmad likes talking to, 2. I did it, 3. Mustafa and Abbas hurt, 4. You must polish your shoes, 5. Ayesha washed her sock, 6. Fatima, Alia and I cleaned it, 7. You must complete the work, 8. The car moved by. Column B: a. themselves, b. herself, c. ourselves, d. himself, e. yourself, f. myself, g. itself, h. Yourselves. 1. Ahmad likes talking to ______."
+                  },
+                  {
+                    "a": "2-f — I did it myself.",
+                    "q": "2. I did it ______."
+                  },
+                  {
+                    "a": "3-a — Mustafa and Abbas hurt themselves.",
+                    "q": "3. Mustafa and Abbas hurt ______."
+                  },
+                  {
+                    "a": "4-e — You must polish your shoes yourself.",
+                    "q": "4. You must polish your shoes ______."
+                  },
+                  {
+                    "a": "5-b — Ayesha washed her sock herself.",
+                    "q": "5. Ayesha washed her sock ______."
+                  },
+                  {
+                    "a": "6-c — Fatima, Alia and I cleaned it ourselves.",
+                    "q": "6. Fatima, Alia and I cleaned it ______."
+                  },
+                  {
+                    "a": "7-h — You must complete the work yourselves.",
+                    "q": "7. You must complete the work ______."
+                  },
+                  {
+                    "a": "8-g — The car moved by itself.",
+                    "q": "8. The car moved by ______."
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "I am teaching myself to play hockey. (Example given in the book.)",
+                    "q": "Fill in the blanks with the correct Reflexive Pronouns. Follow the example. 1) I am teaching myself to play hockey."
+                  },
+                  {
+                    "a": "Be careful with that knife. You might cut yourself.",
+                    "q": "2) Be careful with that knife. You might cut ______. (singular)"
+                  },
+                  {
+                    "a": "Would you two like to get yourselves some milk?",
+                    "q": "3) Would you two like to get ______ some milk? (plural)"
+                  },
+                  {
+                    "a": "We've brought ourselves something to eat.",
+                    "q": "4) We've brought ______ something to eat."
+                  },
+                  {
+                    "a": "I wish the children would behave themselves.",
+                    "q": "5) I wish the children would behave ______."
+                  },
+                  {
+                    "a": "When he opened his eyes he found himself lying by the side of a road.",
+                    "q": "6) When he opened his eyes he found ______ lying by the side of a road."
+                  },
+                  {
+                    "a": "Asifa had to cook for herself.",
+                    "q": "7) Asifa had to cook for ______."
+                  },
+                  {
+                    "a": "The bird was making a nest by itself.",
+                    "q": "8) The bird was making a nest by ______."
+                  }
+                ],
+                "label": "Exercise 7"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Pronoun: He — Refers to: Aslam. (Example given in the book.)",
+                    "q": "Look at the sentences in the following table. Find out the pronoun that is used and put it in the 'Pronoun' column. Who does the pronoun refer to? Find out and write it in the 'Refers to' column. The first two have been done as examples. 1. Aslam is a nice boy. He helps everyone."
+                  },
+                  {
+                    "a": "Pronoun: They — Refers to: The soldiers. (Example given in the book.)",
+                    "q": "2. The soldiers are very brave. They always protect our country."
+                  },
+                  {
+                    "a": "Pronoun: It — Refers to: The train.",
+                    "q": "3. The train came at 6 o'clock. It was on time."
+                  },
+                  {
+                    "a": "Pronoun: They — Refers to: The people.",
+                    "q": "4. The people clapped loudly. They were very happy because their team had won."
+                  },
+                  {
+                    "a": "Pronoun: She — Refers to: My mother.",
+                    "q": "5. My mother was not at home. She had gone to buy some milk."
+                  },
+                  {
+                    "a": "Pronoun: She — Refers to: Zeenat.",
+                    "q": "6. Zeenat was not feeling well. She had fever."
+                  },
+                  {
+                    "a": "Pronoun: He — Refers to: The little boy.",
+                    "q": "7. The little boy was hungry. He wanted some food."
+                  },
+                  {
+                    "a": "Pronoun: It — Refers to: The dog.",
+                    "q": "8. The dog was barking loudly. It had seen a stranger near the door."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model answer: My father was getting ready for work at 7 o'clock in the morning. (Answers will vary.)",
+                    "q": "What were the following people doing at the given times. Write the answers in your notebook. Remember to use 'I' or my mother/father/brother/sister when writing the sentence. Your father at 7 o'clock in the morning — what was he doing?"
+                  },
+                  {
+                    "a": "Model answer: My mother was cooking food when I was in school. (Answers will vary.)",
+                    "q": "Your mother when you were in school — what was she doing?"
+                  },
+                  {
+                    "a": "Model answer: My brother was watching television at 8 o'clock at night. (Answers will vary.)",
+                    "q": "Your brother/sister at 8 o'clock at night — what was he/she doing?"
+                  },
+                  {
+                    "a": "Model answer: I was eating lunch at 1 o'clock in the afternoon. (Answers will vary.)",
+                    "q": "You at 1 o'clock in the afternoon — what were you doing?"
+                  },
+                  {
+                    "a": "Model answer: My father was having lunch when I was having lunch. (Answers will vary.)",
+                    "q": "Your father when you were having lunch — what was he doing?"
+                  },
+                  {
+                    "a": "Model answer: My mother was ironing clothes at 9 o'clock at night. (Answers will vary.)",
+                    "q": "Your mother at 9 o'clock at night — what was she doing?"
+                  },
+                  {
+                    "a": "Model answer: My sister was playing with her friends at 3 o'clock in the afternoon. (Answers will vary.)",
+                    "q": "Your brother/sister at 3 o'clock in the afternoon — what was he/she doing?"
+                  },
+                  {
+                    "a": "Model answer: I was doing my homework when my mother was cooking lunch. (Answers will vary.)",
+                    "q": "You when your mother was cooking lunch — what were you doing?"
+                  },
+                  {
+                    "a": "Model answer: My father was watching the news at 7 o'clock in the evening. (Answers will vary.)",
+                    "q": "Your father at 7 o'clock in the evening — what was he doing?"
+                  },
+                  {
+                    "a": "Model answer: My mother was making tea at 5 o'clock in the evening. (Answers will vary.)",
+                    "q": "Your mother at 5 o'clock in the evening — what was she doing?"
+                  },
+                  {
+                    "a": "Model answer: My brother was playing cricket when I was doing my homework. (Answers will vary.)",
+                    "q": "Your brother/sister when you were doing your homework — what was he/she doing?"
+                  },
+                  {
+                    "a": "Model answer: I was sleeping at 11 o'clock at night. (Answers will vary.)",
+                    "q": "You at 11 o'clock at night — what were you doing?"
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "It was looking down at the water below. (verb: look)",
+                    "q": "Complete the following story by filling the blanks with the past continuous form of the verb. You can choose the verbs from the list below. Paragraph 1: flow, look, try, sit, sink, thank. Paragraph 2: fly, enjoy, eat, go, run. One day a bird was sitting on a tree near a stream. It ______ down at the water below."
+                  },
+                  {
+                    "a": "Suddenly it saw that an ant was sinking in the water. (verb: sink)",
+                    "q": "Suddenly it saw that an ant ______ in the water."
+                  },
+                  {
+                    "a": "It was trying to get out but the water was flowing very fast. (verbs: try, flow)",
+                    "q": "It ______ to get out but the water ______ very fast."
+                  },
+                  {
+                    "a": "The ant climbed on the leaf and looked up as if it was thanking the bird for saving its life. (verb: thank)",
+                    "q": "The ant climbed on the leaf and looked up as if it ______ the bird for saving its life."
+                  },
+                  {
+                    "a": "A few days later, the bird was on another tree and was eating its food. (verb: eat)",
+                    "q": "A few days later, the bird was on another tree and ______ its food."
+                  },
+                  {
+                    "a": "It looked happy as if it was enjoying itself. (verb: enjoy)",
+                    "q": "It looked happy as if it ______ itself."
+                  },
+                  {
+                    "a": "It did not see that a hunter was going to shoot it. (verb: go)",
+                    "q": "It did not see that a hunter ______ to shoot it."
+                  },
+                  {
+                    "a": "As it was flying away it saw that the little ant was running back into its hole in the ground. (verbs: fly, run)",
+                    "q": "The bird flew away. As it ______ away it saw that the little ant ______ back into its hole in the ground."
+                  }
+                ],
+                "label": "Exercise 6 (Past Continuous Tense)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "I often go for long walks on summer evenings. It is peaceful and I can exercise too. (Example given in the book.)",
+                    "q": "Work in pairs and rewrite each of the following as two separate sentences in your notebooks. Use capital letters and full stops where needed. Follow the example. Example: i often go for long walks on summer evenings it is peaceful and i can exercise too."
+                  },
+                  {
+                    "a": "They have a dog, a cat, and two hens. Next year they will buy a goat and a cow.",
+                    "q": "1) they have a dog, a cat, and two hens next year they will buy a goat and a cow"
+                  },
+                  {
+                    "a": "At the Eid fair last Saturday Ali saw a clown. He was wearing a red coat.",
+                    "q": "2) at the eid fair last saturday ali saw a clown he was wearing a red coat"
+                  },
+                  {
+                    "a": "The cock crows loudly all night. We cannot sleep properly.",
+                    "q": "3) the cock crows loudly all night we cannot sleep properly"
+                  },
+                  {
+                    "a": "My sister's parrot can say a few words. I like the way it talks.",
+                    "q": "4) my sister's parrot can say a few words i like the way it talks"
+                  },
+                  {
+                    "a": "One day a zebra escaped from its cage. The zookeeper found it inside the elephant's cage.",
+                    "q": "5) one day a zebra escaped from its cage the zookeeper found it inside the elephant's cage"
+                  }
+                ],
+                "label": "Exercise 7 (Full Stop)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Corrected passage: Imdad and Salim are in class 6. Last Friday they had a fight in class. Their teacher was very angry with them. She told them to stay back after school. When the school bell rang all the other boys went home. The teacher told Imdad and Salim to take out their notebooks and write their full names one thousand times. After a while Salim started crying. The teacher asked him why he was crying. He said, \"My name is Salimuddin Kochriwala and his name is Imdad Khan. He will finish very quickly.\"",
+                    "q": "Read the following passage to understand what the text is about. Work in pairs. Discuss where each sentence starts and finishes and where the capital letters and full stops should be. After discussing, write down the passage, with all the punctuation marks, in your notebook. imdad and salim are in class 6 last friday they had a fight in class their teacher was very angry with them she told them to stay back after school when the school bell rang all the other boys went home the teacher told imdad and salim to take out their notebooks and write their full names one thousand times after a while salim started crying the teacher asked him why he was crying he said \"my name is salimuddin kochriwala and his name is imdad khan he will finish very quickly\""
+                  }
+                ],
+                "label": "Exercise 8"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "2.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "It's a book. (Example given in the book.)",
+                    "q": "Guess the object through the given descriptions. The names of the objects are given in the box below. The first one has been done as an example. Box: pair of scissors, train, mobile phone, clock, rickshaw, book, knife, mango. 1) All students have it. It is made of paper. People read it. It's a book."
+                  },
+                  {
+                    "a": "It's a rickshaw.",
+                    "q": "2) It takes people from place to place. It has wheels and it plies on roads. It makes a lot of noise. It's a ______."
+                  },
+                  {
+                    "a": "It's a knife.",
+                    "q": "3) It is sharp and has a handle. People use it to cut things in the kitchen. Children are not allowed to use it. It's a ______."
+                  },
+                  {
+                    "a": "It is a mango.",
+                    "q": "4) It is sweet and soft. It comes in summer. Sometimes it is orange in colour and sometimes it is yellow. People love to eat it. It grows on trees. It is a ______."
+                  },
+                  {
+                    "a": "It's a mobile phone.",
+                    "q": "5) It is easy to carry. Many people have it these days. People use it to make calls. It's a ______."
+                  },
+                  {
+                    "a": "They're a pair of scissors.",
+                    "q": "6) They are small and large too. They have sharp and pointed ends. They are used to cut wires, paper or cloth. They're a ______."
+                  },
+                  {
+                    "a": "It's a clock.",
+                    "q": "7) Sometimes it is put on a wall. Sometimes it is kept on a table or shelf. We can tell the time by looking at it. It's a ______."
+                  },
+                  {
+                    "a": "It's a train.",
+                    "q": "8) People travel on it. It takes people from one city to another. It runs on rails. It's a ______."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model description — Name of Object: chair; Size: medium; Shape: square; Colour: brown; Smell: wood; Taste: —; Texture (feel): hard and smooth; Use: to sit on. Read your description to the class and let your classmates guess what the object is. (The object and description will vary.)",
+                    "q": "In groups of 3, choose an object in your classroom. Describe the object using the headings below. You don't have to fill all the headings. Follow the example. Example: Name of Object: table; Size: small; Shape: square/rectangle; Colour: brown; Smell: wood; Taste: —; Texture (feel): hard/smooth; Use: put things on. Describe an object in your classroom (for example, a chair)."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model paragraph — My Classroom: My classroom is big and bright. It has thirty desks and thirty chairs for the students. There is a big blackboard on the front wall and a teacher's table and chair near it. There are four windows and two fans in the room. There are charts and pictures on the walls. There are thirty students in my class. I like my classroom very much because it is clean and comfortable. (Numbers and details will vary.)",
+                    "q": "Work in pairs and discuss how you can describe your classroom. Use the model above but add more lines for describing it. For example: number of students/chairs/blackboard, etc. After you have developed your ideas, write a paragraph in your notebook describing your classroom."
+                  }
+                ],
+                "label": "Exercise 3"
+              }
+            ],
+            "name": "Writing",
+            "num": "2.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Self-Created Cloze — how to do it: Step 1: a) Choose a paragraph from the Reading Comprehension section of your English textbook or any other book in English. b) Mark or underline every 8th word. c) Open your notebook. Draw a margin and put the date. d) Copy the paragraph in your best handwriting in your notebook. e) Do not write the marked/underlined word. Draw a blank line where the word is. f) Close the books. Take a break of half an hour. g) Take out your notebook and fill in the blanks without looking at the original paragraph. Step 2 — Check your work: a) Open your notebooks. b) Have you put in a margin? c) Have you put in the date? d) Have you started the paragraph two-finger space away from the margin? e) Does the writing look neat and tidy? f) Open your textbook and check your answers in the blanks. g) Give yourself one mark for each correct answer. Do this activity every day in a separate notebook.",
+                    "q": "Do you want to speak and write good English? Remember to do the Self-Created Cloze every day. The steps are given in Unit 1 section 1.5. You can use your English textbook or any other book in English for this activity. You will also need an extra notebook for this activity. Try to write at least one paragraph every day. What are the steps of the Self-Created Cloze?"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Title: The Wonderful Wizard of Oz. Author: L. Frank Baum. Illustrator: W.W. Denslow. (Given on the book cover.)",
+                    "q": "Look at the following book cover. It has the name (title) of the book, the name of the writer (author) and the name of the person who made the design of the cover (illustrator). What is the title, the author's name and the illustrator's name of the book 'The Wonderful Wizard of Oz'?"
+                  },
+                  {
+                    "a": "Title: Big Red Lollipop. Author: Rukhsana Khan. Illustrator: Sophie Blackall.",
+                    "q": "Now look at the books given below and write their titles, author's name and the name of the illustrator below each book. Book 1: Big Red Lollipop (by Rukhsana Khan, illustrated by Sophie Blackall)."
+                  },
+                  {
+                    "a": "Title: Fantastic Mr Fox. Author: Roald Dahl. Illustrator: Quentin Blake.",
+                    "q": "Book 2: Fantastic Mr Fox (Roald Dahl, illustrated by Quentin Blake)."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "2.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model Get Well card message: Dear friend, Get well soon. We all miss you. I miss you, my friend. Come on, get out of bed, come and play with us. Wish you good health. Health is wealth — take good care of it. Your friend. (Draw or paste colourful pictures on the card. Any message from the list, or your own message, is acceptable.)",
+                    "q": "Your friend is sick. Make a card that says get well soon. Draw or paste colourful pictures. Write a message for your friend. You can choose the wish from the list given below or you can think of any other message that you want to write: Get well soon. We all miss you. Come on. Get out of bed, come and play with us. Wish you good health. I miss you, my friend. Get well soon. This is to wish you a healthy life. Health is wealth. Take good care of it."
+                  }
+                ],
+                "label": "Get Well Card"
+              }
+            ],
+            "name": "Fun",
+            "num": "2.6"
+          }
+        ],
+        "title": "Understanding Physical Well Being",
+        "unit": 2,
+        "words": [
+          {
+            "sd": "خواب",
+            "syn": "pictures and thoughts in sleep",
+            "w": "dream"
+          },
+          {
+            "sd": "کلڻ",
+            "syn": "making sounds of happiness",
+            "w": "laughing"
+          },
+          {
+            "sd": "ڪمزور",
+            "syn": "not strong",
+            "w": "weak"
+          },
+          {
+            "sd": "غير صحتمند",
+            "syn": "not in good health",
+            "w": "unhealthy"
+          },
+          {
+            "sd": "غلط",
+            "syn": "not correct",
+            "w": "wrong"
+          },
+          {
+            "sd": "ڊگهو",
+            "syn": "great in length",
+            "w": "long"
+          },
+          {
+            "sd": "ويجهو",
+            "syn": "close to",
+            "w": "near"
+          },
+          {
+            "sd": "وڃڻ",
+            "syn": "to move from one place to another",
+            "w": "go"
+          },
+          {
+            "sd": "خراب",
+            "syn": "not good",
+            "w": "bad"
+          },
+          {
+            "sd": "جلدي",
+            "syn": "fast",
+            "w": "quickly"
+          },
+          {
+            "sd": "هميشه",
+            "syn": "at all times",
+            "w": "always"
+          },
+          {
+            "sd": "خوش",
+            "syn": "feeling pleasure",
+            "w": "happy"
+          },
+          {
+            "sd": "صاف",
+            "syn": "free from dirt",
+            "w": "clean"
+          },
+          {
+            "sd": "ٻاهر",
+            "syn": "not inside",
+            "w": "outside"
+          },
+          {
+            "sd": "سوير",
+            "syn": "before the usual time",
+            "w": "early"
+          },
+          {
+            "sd": "چست",
+            "syn": "full of energy",
+            "w": "active"
+          },
+          {
+            "sd": "روئڻ",
+            "syn": "shedding tears",
+            "w": "crying"
+          },
+          {
+            "sd": "کنگهه",
+            "syn": "a sudden noisy breath from the throat",
+            "w": "cough"
+          },
+          {
+            "sd": "بخار",
+            "syn": "high body temperature",
+            "w": "fever"
+          },
+          {
+            "sd": "مفاصلو",
+            "syn": "how far one place is from another",
+            "w": "distance"
+          },
+          {
+            "sd": "چڙهڻ",
+            "syn": "to go up",
+            "w": "climb"
+          },
+          {
+            "sd": "مناسب",
+            "syn": "right and suitable",
+            "w": "proper"
+          },
+          {
+            "sd": "ورزش",
+            "syn": "physical activity to keep healthy",
+            "w": "exercise"
+          },
+          {
+            "sd": "مٺائي",
+            "syn": "sugary food",
+            "w": "sweets"
+          },
+          {
+            "sd": "پان",
+            "syn": "betel leaf",
+            "w": "paan"
+          },
+          {
+            "sd": "ڇاليا",
+            "syn": "betel nut",
+            "w": "chhaliya"
+          },
+          {
+            "sd": "غسل",
+            "syn": "washing the body",
+            "w": "bath"
+          },
+          {
+            "sd": "ڀاڄيون",
+            "syn": "plants eaten as food",
+            "w": "vegetables"
+          },
+          {
+            "sd": "ٽيليويزن",
+            "syn": "a machine that shows moving pictures and sound",
+            "w": "television"
+          },
+          {
+            "sd": "تازو",
+            "syn": "clean and full of energy",
+            "w": "fresh"
+          },
+          {
+            "sd": "زندگي گذارڻ جو طريقو",
+            "syn": "the way a person lives",
+            "w": "lifestyle"
+          },
+          {
+            "sd": "صحتمند",
+            "syn": "in good health",
+            "w": "healthy"
+          },
+          {
+            "sd": "مضبوط",
+            "syn": "powerful",
+            "w": "strong"
+          },
+          {
+            "sd": "حيران",
+            "syn": "feeling wonder at something unexpected",
+            "w": "surprised"
+          }
+        ],
+        "display": "A Dream That Brought a Big Change"
+      },
+      {
+        "reading": "Try Again",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: I think the poem is about not giving up — if we fail, we should try again and again until we succeed. (Any sensible guess is acceptable.)",
+                    "q": "The title of the poem that you are about to read is 'Try Again'. What do you think the poem is about?"
+                  },
+                  {
+                    "a": "Model answer: My father/mother tells me to try again when I fail in something — for example, when I cannot solve a sum, when I fall while learning to ride a bicycle, or when I do not get good marks. (Any honest personal answer is acceptable.)",
+                    "q": "When would your father/mother tell you to try again?"
+                  },
+                  {
+                    "a": "Model answer: My teacher tells me to try again when I give a wrong answer, when I cannot read a difficult word, or when my work is not correct. (Any honest personal answer is acceptable.)",
+                    "q": "When would your teacher tell you to try again?"
+                  },
+                  {
+                    "a": "Model answer: My friend tells me to try again when I lose a game, when I cannot catch the ball, or when I give up too soon. (Any honest personal answer is acceptable.)",
+                    "q": "When would your friend tell you to try again?"
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "There are three verses (stanzas) in the poem.",
+                    "q": "Read the poem and answer the following questions: 1) How many verses are there in the poem?"
+                  },
+                  {
+                    "a": "The words 'Try again' are repeated nine times — three times in each of the three verses.",
+                    "q": "2) How many times are the words 'Try again' repeated in the poem?"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1 - d — heed means pay attention to. (Example given in the book.)",
+                    "q": "Some words from the poem are given in Column A and their meanings are given, in a mixed up order, in Column B. Match the words with their meanings and write the answers in the answer column. The first one has been done as an example. Match the word 'heed' (1) with its meaning. Meanings: a) try hard, b) fight and win, c) gift for doing something good, d) pay attention to, e) work, f) remember, g) win, h) something to be ashamed of, i) keep on trying."
+                  },
+                  {
+                    "a": "2 - i — persevere means keep on trying.",
+                    "q": "Match the word 'persevere' (2) with its meaning."
+                  },
+                  {
+                    "a": "3 - b — conquer means fight and win.",
+                    "q": "Match the word 'conquer' (3) with its meaning."
+                  },
+                  {
+                    "a": "4 - g — prevail means win.",
+                    "q": "Match the word 'prevail' (4) with its meaning."
+                  },
+                  {
+                    "a": "5 - a — strive means try hard.",
+                    "q": "Match the word 'strive' (5) with its meaning."
+                  },
+                  {
+                    "a": "6 - h — disgrace means something to be ashamed of.",
+                    "q": "Match the word 'disgrace' (6) with its meaning."
+                  },
+                  {
+                    "a": "7 - e — task means work.",
+                    "q": "Match the word 'task' (7) with its meaning."
+                  },
+                  {
+                    "a": "8 - c — reward means gift for doing something good.",
+                    "q": "Match the word 'reward' (8) with its meaning."
+                  },
+                  {
+                    "a": "9 - f — keep in view means remember.",
+                    "q": "Match the words 'keep in view' (9) with their meaning."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "heed — succeed (from the poem, given in the book); own rhyming word: feed.",
+                    "q": "Fill the following tables with rhyming words from the poem. In the last blank add one more word of your own that rhymes with these words. The first one has been done as an example. 1) Word: heed. Rhyming word from poem: ______ Own rhyming word: ______"
+                  },
+                  {
+                    "a": "fail — prevail (from the poem); own rhyming word: tail.",
+                    "q": "2) Word: fail. Rhyming word from poem: ______ Own rhyming word: ______"
+                  },
+                  {
+                    "a": "hard — reward (from the poem); own rhyming word: card.",
+                    "q": "3) Word: hard. Rhyming word from poem: ______ Own rhyming word: ______"
+                  },
+                  {
+                    "a": "appear — persevere, fear (from the poem); own rhyming word: near.",
+                    "q": "4) Word: appear. Rhyming words from poem: ______ ______ Own rhyming word: ______"
+                  },
+                  {
+                    "a": "disgrace — race (from the poem); own rhyming word: face. (There is only one word in the poem that rhymes with 'disgrace', although the book gives two columns for rhyming words from the poem.)",
+                    "q": "5) Word: disgrace. Rhyming words from poem: ______ ______ Own rhyming word: ______"
+                  },
+                  {
+                    "a": "do — you, view (from the poem); own rhyming word: true.",
+                    "q": "6) Word: do. Rhyming words from poem: ______ ______ Own rhyming word: ______"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Verse 1 (Example given in the book.)",
+                    "q": "Read the poem and write the verse number of the following lines in the blanks provided. The first one has been done as an example. 1) You will conquer, never fear ______"
+                  },
+                  {
+                    "a": "Verse 3",
+                    "q": "2) Time will bring you your reward ______"
+                  },
+                  {
+                    "a": "Verse 2",
+                    "q": "3) If we strive, 'tis no disgrace ______"
+                  },
+                  {
+                    "a": "Verse 3",
+                    "q": "4) Only keep this rule in view ______"
+                  },
+                  {
+                    "a": "Verse 1",
+                    "q": "5) 'Tis a lesson you should heed ______"
+                  },
+                  {
+                    "a": "Verse 2",
+                    "q": "6) Though we do not win the race ______"
+                  },
+                  {
+                    "a": "Verse 1",
+                    "q": "7) For if you will persevere ______"
+                  },
+                  {
+                    "a": "Verse 3",
+                    "q": "8) Why, with patience, may not you? ______"
+                  },
+                  {
+                    "a": "Verse 2",
+                    "q": "9) Once or twice, though you should fail ______"
+                  },
+                  {
+                    "a": "Verse 1",
+                    "q": "10) Then your courage should appear ______"
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Line in the poem: 'If you find your task is hard, Try again;' — Verse 3 (Example given in the book.)",
+                    "q": "In the following table the explanations of some of the lines in the poem are given. Work in pairs and discuss which explanation matches which line in the poem. Write the line in the given column. Also write the verse numbers. The first one has been done as an example. 1) If your work seems to be difficult, try again."
+                  },
+                  {
+                    "a": "Line in the poem: 'Once or twice, though you should fail, Try again;' — Verse 2",
+                    "q": "2) If you fail one or two times, try again."
+                  },
+                  {
+                    "a": "Line in the poem: \"If at first you don't succeed, Try again.\" — Verse 1",
+                    "q": "3) If you do not succeed in the beginning, try again."
+                  },
+                  {
+                    "a": "Line in the poem: 'Though we do not win the race;' — Verse 2",
+                    "q": "4) Even if you do not win a race"
+                  },
+                  {
+                    "a": "Line in the poem: 'Only keep this rule in view, Try again.' — Verse 3",
+                    "q": "5) Always remember the rule of trying again."
+                  },
+                  {
+                    "a": "Line in the poem: \"'Tis a lesson you should heed, Try again.\" — Verse 1",
+                    "q": "6) You should pay attention to the saying, try again."
+                  },
+                  {
+                    "a": "Line in the poem: 'All that other folks can do,' — Verse 3",
+                    "q": "7) All the things that other people can do."
+                  },
+                  {
+                    "a": "Line in the poem: 'For if you will persevere, You will conquer, never fear,' — Verse 1",
+                    "q": "8) If you want to fight and win keep on trying."
+                  },
+                  {
+                    "a": "Line in the poem: 'You will conquer, never fear,' — Verse 1",
+                    "q": "9) Don't be afraid, you will win if you keep on trying."
+                  },
+                  {
+                    "a": "Line in the poem: 'Time will bring you your reward, Try again;' — Verse 3",
+                    "q": "10) You will get your gift after some Time, so keep on trying."
+                  },
+                  {
+                    "a": "Line in the poem: \"If we strive, 'tis no disgrace\" — Verse 2",
+                    "q": "11) If we try hard it is nothing to be ashamed of."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model summary: We should try again and again. If we do not succeed in the beginning, we should try again. If we fail once or twice, we should try again. If our work seems difficult, we should try again. We should pay attention to the lesson, try again. If we want to fight and win, we should keep on trying, and we should not be afraid, because we will win if we keep on trying. If we try hard, it is nothing to be ashamed of, even if we do not win the race. We should always remember the rule of trying again. All the things that other people can do, we can also do with patience. Time will bring us our reward, so we should keep on trying.",
+                    "q": "Write a summary of the poem. You can use the explanations in the exercise above to write the summary. However, instead of 'you' write 'we' and instead of 'your' write 'our'."
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "3.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Practise the dialogue in groups of three, changing roles so that each student plays Nadeem, Sameer and Saleh. After the roleplay, discuss your own village/town/city in the same way, agreeing and disagreeing politely with phrases like 'I think', 'I agree/don't agree', 'You have a point' and 'Yes, but'. In the end, the three friends agree to go to Murree in January this year and in June next year.",
+                    "q": "In groups of three, roleplay the following dialogue. Change roles, and practise the dialogue two more times so that each student gets to play all the three roles. Nadeem: Going to Murree in January is a stupid idea. Sameer: I don't agree with you, Nadeem. I think it's a great idea. Saleh: Why do you think it is a bad idea, Nadeem? Nadeem: I hate the cold weather. If we go there in the summer we can really enjoy ourselves. Sameer: You have a point. If you don't like the cold weather you will not be able to enjoy yourself. Saleh: Yes, but many of us want to see the snow. That's why we want to go in January. Nadeem: I think, playing with a cricket ball is much more fun than playing with snowballs. Sameer: I think different people like different things. We should accept their wishes also. Saleh: Tell you what, this year we can go in January and next year we can go in June."
+                  }
+                ],
+                "label": "Dialogue — Agree/disagree politely"
+              }
+            ],
+            "name": "Speaking",
+            "num": "3.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "sisters",
+                    "q": "Write down the plurals of the nouns given below in your notebook. 1) sister"
+                  },
+                  {
+                    "a": "watches",
+                    "q": "2) watch"
+                  },
+                  {
+                    "a": "shelves",
+                    "q": "3) shelf"
+                  },
+                  {
+                    "a": "foxes",
+                    "q": "4) fox"
+                  },
+                  {
+                    "a": "tomatoes",
+                    "q": "5) tomato"
+                  },
+                  {
+                    "a": "people",
+                    "q": "6) person"
+                  },
+                  {
+                    "a": "hair (the spelling stays the same in singular and plural)",
+                    "q": "7) hair"
+                  },
+                  {
+                    "a": "teeth",
+                    "q": "8) tooth"
+                  },
+                  {
+                    "a": "wives",
+                    "q": "9) wife"
+                  },
+                  {
+                    "a": "dashes",
+                    "q": "10) dash"
+                  },
+                  {
+                    "a": "fairies",
+                    "q": "11) fairy"
+                  },
+                  {
+                    "a": "matches",
+                    "q": "12) match"
+                  },
+                  {
+                    "a": "buffaloes",
+                    "q": "13) buffalo"
+                  },
+                  {
+                    "a": "holidays",
+                    "q": "14) holiday"
+                  },
+                  {
+                    "a": "mosquitoes",
+                    "q": "15) mosquito"
+                  },
+                  {
+                    "a": "berries",
+                    "q": "16) berry"
+                  },
+                  {
+                    "a": "cages",
+                    "q": "17) cage"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "How many people are there in the buses?",
+                    "q": "In pairs, choose the correct noun number in the following sentences. Write the correct answers in your notebook. Follow the example. 1) How many person/people are there in the buses/bus?"
+                  },
+                  {
+                    "a": "Five women opened schools.",
+                    "q": "2) Five woman/women opened a school/schools."
+                  },
+                  {
+                    "a": "Every child enjoys learning through pictures.",
+                    "q": "3) Every child/children enjoys learning through picture/pictures."
+                  },
+                  {
+                    "a": "Most cricket players are more than five feet tall.",
+                    "q": "4) Most cricket player/players are more than five foot/feet tall."
+                  },
+                  {
+                    "a": "Which kind of sheep does your family have?",
+                    "q": "5) Which kind of sheeps/sheep does your family/families have?"
+                  },
+                  {
+                    "a": "I have to buy a watch and a pair of shoes.",
+                    "q": "6) I have to buy a watch/watches and a pair of shoe/shoes."
+                  },
+                  {
+                    "a": "The boys caught ten fish and five crabs.",
+                    "q": "7) The boys caught ten fish/fishes and five crab/crabs."
+                  },
+                  {
+                    "a": "Many men in the field have axes in their hand.",
+                    "q": "8) Many man/men in the field have axe an axes in their hand."
+                  },
+                  {
+                    "a": "The girls were wearing very beautiful dresses.",
+                    "q": "9) The girls/girl were wearing very beautiful dress/dresses."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "I saw oxen in the field.",
+                    "q": "Rewrite the following sentences changing the noun number to plural. Remember to change the verb and pronouns as needed. Follow the example. 1) I saw an ox in the field."
+                  },
+                  {
+                    "a": "The young women put the things on the shelves.",
+                    "q": "2) The young woman put the things on the shelf."
+                  },
+                  {
+                    "a": "Cut the oranges and the mangoes in half.",
+                    "q": "3) Cut the orange and the mango in half."
+                  },
+                  {
+                    "a": "My younger brothers can walk like geese.",
+                    "q": "4) My younger brother can walk like a goose."
+                  },
+                  {
+                    "a": "She needs potatoes and tomatoes.",
+                    "q": "5) She needs a potato and a tomato."
+                  },
+                  {
+                    "a": "There are sheep in the barn.",
+                    "q": "6) There is a sheep in the barn."
+                  },
+                  {
+                    "a": "Please lock the hens here so that the foxes cannot eat them.",
+                    "q": "7) Please lock the hen here so that the fox cannot eat it."
+                  },
+                  {
+                    "a": "Mr Samad has sons and daughters.",
+                    "q": "8) Mr Samad has a son and a daughter."
+                  },
+                  {
+                    "a": "My knives are on the table.",
+                    "q": "9) My knife is on the table."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Unlike Samina, Najma loves driving. (Example given in the book.)",
+                    "q": "Fill in the following sentences, by adding but or unlike in the blanks. The first two have been done as examples. 1) Unlike Samina, Najma loves driving."
+                  },
+                  {
+                    "a": "The colour of my house is nice but I want to change it. (Example given in the book.)",
+                    "q": "2) The colour of my house is nice but, I want to change it."
+                  },
+                  {
+                    "a": "We are late but we will catch the train.",
+                    "q": "3) We are late ______ we will catch the train."
+                  },
+                  {
+                    "a": "Unlike Badin, the weather in Murree is quite cold.",
+                    "q": "4) ______ Badin, the weather in Murree is quite cold."
+                  },
+                  {
+                    "a": "We are having a good time but we miss some of our friends.",
+                    "q": "5) We are having a good time ______ we miss some of our friends."
+                  },
+                  {
+                    "a": "The food here is good, unlike the food we had at the hotel last night.",
+                    "q": "6) The food here is good, ______ the food we had at the hotel last night."
+                  },
+                  {
+                    "a": "Salima has many clothes but she wants to buy a new dress for Eid.",
+                    "q": "7) Salima has many clothes ______ she wants to buy a new dress for Eid."
+                  },
+                  {
+                    "a": "Unlike me, he is studying and also working.",
+                    "q": "8) ______ me, he is studying and also working."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Unlike Hyderabad, Bhambhore has no shopping plazas. (Example given in the book.)",
+                    "q": "Match column A and B to make sentences. Each sentence will either have 'but' or 'unlike'. Write the complete sentences in your notebooks. Follow the example. 1) Unlike Hyderabad — Bhambhore has no shopping plazas."
+                  },
+                  {
+                    "a": "Qurban has three goats but he wants a cow.",
+                    "q": "2) Qurban has three goats — but he wants a cow."
+                  },
+                  {
+                    "a": "Lahore has a river but Karachi has the sea.",
+                    "q": "3) Lahore has a river — but Karachi has the sea."
+                  },
+                  {
+                    "a": "Unlike you, I have six fingers on my right hand.",
+                    "q": "4) Unlike you — I have six fingers on my right hand."
+                  },
+                  {
+                    "a": "I worked hard for the test but I didn't pass.",
+                    "q": "5) I worked hard for the test — but I didn't pass."
+                  },
+                  {
+                    "a": "The peacocks are dying but people are not paying attention.",
+                    "q": "6) The peacocks are dying — but people are not paying attention."
+                  },
+                  {
+                    "a": "Unlike coins, we can fold the paper money.",
+                    "q": "7) Unlike coins — we can fold the paper money."
+                  },
+                  {
+                    "a": "A table has a flat top but you cannot sleep on it.",
+                    "q": "8) A table has a flat top — but you cannot sleep on it."
+                  },
+                  {
+                    "a": "Unlike Aliya, Tasleem is tall.",
+                    "q": "9) Unlike Aliya — Tasleem is tall."
+                  },
+                  {
+                    "a": "I like you but you don't like me.",
+                    "q": "10) I like you — but you don't like me."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Are you ill?",
+                    "q": "In pairs, rewrite the following sentences putting in the missing capital letters and question marks. Follow the example. 1) are you ill"
+                  },
+                  {
+                    "a": "Why are you wearing a sweater in July?",
+                    "q": "2) why are you wearing a sweater in july"
+                  },
+                  {
+                    "a": "May I come in, please?",
+                    "q": "3) may I come in, please"
+                  },
+                  {
+                    "a": "Who is taking Farzana Aunty to the station?",
+                    "q": "4) who is taking farzana aunty to the station"
+                  },
+                  {
+                    "a": "Do you know Arif's address in Quetta?",
+                    "q": "5) do you know arif's address in quetta"
+                  },
+                  {
+                    "a": "Where is the nearest supermarket in the Gulshan area?",
+                    "q": "6) where is the nearest supermarket in the gulshan area"
+                  },
+                  {
+                    "a": "Sadiq, will you help me, please?",
+                    "q": "7) sadiq, will you help me, please"
+                  },
+                  {
+                    "a": "What did you say to Mrs. Chandio on Friday?",
+                    "q": "8) what did you say to Mrs. Chandio on friday"
+                  },
+                  {
+                    "a": "Were they waiting for us or for Yusuf?",
+                    "q": "9) were they waiting for us or for yusuf"
+                  },
+                  {
+                    "a": "Is this the book that you bought from Mr. Shah?",
+                    "q": "10) is this the book that you bought from mr. shah"
+                  }
+                ],
+                "label": "Exercise 6"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "3.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "camel (Example given in the book.)",
+                    "q": "In groups of three, discuss and guess the animal described; underline the name of that animal. Check your answers with another group. The first one has been done as an example. 1) It has a hump on its back. It lives in deserts. It is a (camel, lion, shark)."
+                  },
+                  {
+                    "a": "duck",
+                    "q": "2) It swims in the water. It has feathers. It is a (monkey, duck, fish)."
+                  },
+                  {
+                    "a": "goat",
+                    "q": "3) It is kept as a pet. It eats grass. It is a (whale, tiger, goat)."
+                  },
+                  {
+                    "a": "owl",
+                    "q": "4) It does not sleep at night. It has round eyes. It is an (elephant, owl, cat)."
+                  },
+                  {
+                    "a": "hen",
+                    "q": "5) It has wings but cannot fly. It lays eggs. It is a (crow, bat, hen)."
+                  },
+                  {
+                    "a": "monkey",
+                    "q": "6) It lives in mountains and on trees. It likes to eat bananas. It is a (monkey, eagle, lion)."
+                  },
+                  {
+                    "a": "tiger",
+                    "q": "7) It has four legs and lines on its body. It eats meat. It is a (tiger, butterfly, mouse)."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Fish live in water. Their skin is covered with scales. They swim with the help of fins and breathe through gills. They are found in many different kinds of shapes, colours and sizes. They lay eggs in water and their young are called fry. They eat small plants and worms. Some large fish eat the small fish. The whale-shark is the largest fish found in the seas. (Sample description given in the book.)",
+                    "q": "In groups of three, use the following information in the table to write a short description on each of the animals given in the table below. Follow the sample. 1) Fish — Colour: many colours; Important Body Parts: gills to breathe, fins to swim; Skin Type: scales; Food: plants, small fish, worms; Home: lake, sea, pond; Young: fry."
+                  },
+                  {
+                    "a": "Model description — Elephant: Elephants are very large animals. They are grey, red, brown or black in colour. They have tusks, which are their teeth, a long trunk, which is their nose, and big fan-like ears. Their skin is thick and rough. They eat grass, leaves and fruit. They live in forests, mountains and deserts. Their young are called calves.",
+                    "q": "2) Elephant — Colour: grey, red, brown, black; Important Body Parts: tusks (teeth), trunk (nose), fan-like-ears; Skin Type: thick, rough; Food: grass, leaves, fruit; Home: forests, mountains, deserts; Young: calf."
+                  },
+                  {
+                    "a": "Model description — Lizard: Lizards are small animals of many colours. They have a long tail, a long tongue and four short legs. Their skin is covered with scales and they have no hair. They eat insects. They live in warm places. Their young are called hatchlings.",
+                    "q": "3) Lizard — Colour: many colours; Important Body Parts: long tail, long tongue, four short legs; Skin Type: scales, no hair; Food: insects; Home: warm places; Young: hatchling."
+                  },
+                  {
+                    "a": "Model description — Squirrel: Squirrels are small animals. They are brown, grey, red, black or white in colour. They have cheeks to store food, a long bushy tail, pads on their feet to jump on trees, and sharp teeth. They eat nuts, roots, leaves and plants. They live in tree holes and deserts. Their young one is called a baby.",
+                    "q": "4) Squirrel — Colour: brown, grey, red, black, white; Important Body Parts: cheeks to store food, long bushy tail, pads on feet to jump on trees, sharp teeth; Skin Type: (not given in the book); Food: nuts, roots, leaves, plants; Home: tree holes, deserts; Young: baby."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Writing",
+            "num": "3.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Alphabetical order (leaving out 'The' at the start of a title, as in a library list): 1. Animal Scene, 2. The Enormous Crocodile, 3. Fox in Socks, 4. The Grasshopper Hopped!, 5. Little Kids, 6. National Wildlife, 7. The Polar Bear and the Snow Cloud, 8. Tonga, 9. Unusual Creatures, 10. World of Animals.",
+                    "q": "The following book covers are in a jumbled order. Arrange them in an alphabetical order. Write the names in the correct order in your notebooks. The Grasshopper Hopped!, Fox in Socks, Unusual Creatures, The Enormous Crocodile, Animal Scene, Tonga, National Wildlife, The Polar Bear and the Snow Cloud, Little Kids, World of Animals."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Do the Cloze activity explained in Unit 1.5 every day — read a passage, cover some words, and try to fill them in from the sense of the passage.",
+                    "q": "Remember to do the Cloze activity explained in Unit 1.5, daily."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "3.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model plan for the class newspaper: Name the newspaper (for example, 'The Young Star'). Page 1: a big headline and an international news story, a national news story and a local news story, each in its own box with a picture. Page 2: sports news, today's weather in your area, today's prayer timings, and two interesting advertisements. Write the day and date at the top, keep each article under 100 words, and put the finished newspaper up in the classroom.",
+                    "q": "In groups of 3, on a large sheet, make a two-page newspaper. Your newspaper should cover the following areas: any international news, at least one national news, a local news, sports news, weather for today in your area, prayer timings for today, any two interesting advertisements. Guidelines: Give your newspaper a name. Collect a few newspapers and use them as a guide to make your newspaper. Don't forget to write the headlines. Write the day and date. Draw or paste pictures to make the front page colourful. Write each article in a separate box. Don't write more than 100 words. Once you have written your newspaper, put it up in the classroom."
+                  }
+                ],
+                "label": "Our Newspaper"
+              }
+            ],
+            "name": "Fun",
+            "num": "3.6"
+          }
+        ],
+        "title": "Patience",
+        "unit": 3,
+        "words": [
+          {
+            "sd": "ڌيان ڏيڻ",
+            "syn": "pay attention to",
+            "w": "heed"
+          },
+          {
+            "sd": "لڳاتار ڪوشش ڪرڻ",
+            "syn": "keep on trying",
+            "w": "persevere"
+          },
+          {
+            "sd": "فتح ڪرڻ",
+            "syn": "win, overcome",
+            "w": "conquer"
+          },
+          {
+            "sd": "ڪامياب ٿيڻ",
+            "syn": "win in the end",
+            "w": "prevail"
+          },
+          {
+            "sd": "ڪوشش ڪرڻ",
+            "syn": "try hard",
+            "w": "strive"
+          },
+          {
+            "sd": "شرم",
+            "syn": "something to be ashamed of",
+            "w": "disgrace"
+          },
+          {
+            "sd": "ڪم",
+            "syn": "work, job",
+            "w": "task"
+          },
+          {
+            "sd": "انعام",
+            "syn": "a gift for doing something good",
+            "w": "reward"
+          },
+          {
+            "sd": "همت",
+            "syn": "bravery",
+            "w": "courage"
+          },
+          {
+            "sd": "صبر",
+            "syn": "the ability to wait calmly",
+            "w": "patience"
+          },
+          {
+            "sd": "ظاهر ٿيڻ",
+            "syn": "come into sight",
+            "w": "appear"
+          },
+          {
+            "sd": "ڊپ",
+            "syn": "being afraid",
+            "w": "fear"
+          },
+          {
+            "sd": "ڊوڙ",
+            "syn": "a running competition",
+            "w": "race"
+          },
+          {
+            "sd": "ماڻهو",
+            "syn": "people",
+            "w": "folks"
+          },
+          {
+            "sd": "ياد رکڻ",
+            "syn": "remember",
+            "w": "keep in view"
+          }
+        ],
+        "display": "Try Again"
+      },
+      {
+        "reading": "Diary Entry",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: Yes, a diary is a book in which a person writes about what he or she does, sees and feels every day. (Any sensible answer is acceptable.)",
+                    "q": "Do you know what a diary is?"
+                  },
+                  {
+                    "a": "Model answer: Diaries are used to write down what happens every day, so that we can remember things we might forget, and to improve our writing. We can write about what we or someone else did, how we felt, what we liked or disliked, where we went, and what we saw. (Any sensible answer is acceptable.)",
+                    "q": "What are diaries used for?"
+                  },
+                  {
+                    "a": "Model answer: I will write about what I did during the day — what I studied at school, the games I played, the people I met, and how I felt. (Any honest personal answer is acceptable.)",
+                    "q": "If you have to write something in your diary every day, what will you write?"
+                  }
+                ],
+                "label": "Pre-reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Shahban.",
+                    "q": "1) What is the name of the diary writer?"
+                  },
+                  {
+                    "a": "He wrote it on Monday, 02.02.2017.",
+                    "q": "2) On which day and date did he write his diary page?"
+                  },
+                  {
+                    "a": "He is from Badin, Sindh.",
+                    "q": "3) Where is he from?"
+                  },
+                  {
+                    "a": "He goes to bed at 9:30 at night.",
+                    "q": "4) What time does he go to bed?"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1 - g — morning means evening (its opposite). (Example given in the book.)",
+                    "q": "All the words in column A are in the text. Their opposites are given in column B. Choose the opposites of the given words and write the answers in the answer column, as done for the first one. Match the word 'morning' (1) with its opposite. Opposites: a) sad, b) night, c) dishonestly, d) sell, e) late, f) unable, g) evening, h) busy, i) dirty, j) good."
+                  },
+                  {
+                    "a": "2 - i — clean means dirty (its opposite).",
+                    "q": "Match the word 'clean' (2) with its opposite."
+                  },
+                  {
+                    "a": "3 - h — free means busy (its opposite).",
+                    "q": "Match the word 'free' (3) with its opposite."
+                  },
+                  {
+                    "a": "4 - a — happy means sad (its opposite).",
+                    "q": "Match the word 'happy' (4) with its opposite."
+                  },
+                  {
+                    "a": "5 - j — bad means good (its opposite).",
+                    "q": "Match the word 'bad' (5) with its opposite."
+                  },
+                  {
+                    "a": "6 - c — honestly means dishonestly (its opposite).",
+                    "q": "Match the word 'honestly' (6) with its opposite."
+                  },
+                  {
+                    "a": "7 - e — early means late (its opposite).",
+                    "q": "Match the word 'early' (7) with its opposite."
+                  },
+                  {
+                    "a": "8 - b — day means night (its opposite).",
+                    "q": "Match the word 'day' (8) with its opposite."
+                  },
+                  {
+                    "a": "9 - f — able means unable (its opposite).",
+                    "q": "Match the word 'able' (9) with its opposite."
+                  },
+                  {
+                    "a": "10 - d — buy means sell (its opposite).",
+                    "q": "Match the word 'buy' (10) with its opposite."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "6 — He sleeps at 9:30. (last in the day)",
+                    "q": "Arrange the following sentences about the writer's daily routine in the order that they appear in the text. Write the numbers in the boxes. He sleeps at 9:30."
+                  },
+                  {
+                    "a": "3 — He does his homework.",
+                    "q": "He does his homework."
+                  },
+                  {
+                    "a": "5 — He works at the milk shop for two hours.",
+                    "q": "He works at the milk shop for two hours."
+                  },
+                  {
+                    "a": "2 — He helps his sister clean the house.",
+                    "q": "He helps his sister clean the house."
+                  },
+                  {
+                    "a": "1 — He comes back from school at one O'clock. (first)",
+                    "q": "He comes back from school at one O'clock."
+                  },
+                  {
+                    "a": "4 — He goes to the Quran class.",
+                    "q": "He goes to the Quran class."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Shahban's sister (Example given in the book.)",
+                    "q": "One pronoun has been highlighted in each of the sentences given below. Read the text and write in the blanks to whom the given pronoun is referring to. The first one has been done as an example. (a) She helps me with my homework."
+                  },
+                  {
+                    "a": "Shahban (the diary writer).",
+                    "q": "(b) I say my prayers and then I have lunch."
+                  },
+                  {
+                    "a": "The owner of the Allahwala Milk Shop (Shahban's boss).",
+                    "q": "(c) He agreed to let me work in his shop for two hours every day."
+                  },
+                  {
+                    "a": "Shahban's grandmother. (Note: the exercise says 'nine years old', but the diary on page 62 says Shahban is 'only eleven years old' — the book contradicts itself; the answer follows the diary.)",
+                    "q": "(d) She says I am only nine years old and that I should play more."
+                  },
+                  {
+                    "a": "Shahban.",
+                    "q": "(e) Insha'Allah, one day I will have my own shop!"
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Shahban goes to school in the morning. (Example given in the book.)",
+                    "q": "All the following sentences are wrong the text says something different. Along with your partner, read the text and discuss what the correct answer will be. After you have discussed all the statements, write the correct statements in your notebook. The first one has been done as an example. 1) Shahban goes to school in the afternoon."
+                  },
+                  {
+                    "a": "The shop is near his house.",
+                    "q": "2) The shop is far from his house."
+                  },
+                  {
+                    "a": "He works in a milk shop.",
+                    "q": "3) He works in a medical store."
+                  },
+                  {
+                    "a": "He works for two hours every day.",
+                    "q": "4) He works for seven hours every day."
+                  },
+                  {
+                    "a": "The owner of the milk shop said that young people should also have time to play with their friends.",
+                    "q": "5) The owner of the milk shop said that young people should not play with their friends."
+                  },
+                  {
+                    "a": "He can help his parents in making their lives better by earning some money.",
+                    "q": "6) He cannot help his friends in making their lives better by earning some money."
+                  },
+                  {
+                    "a": "His boss says that if he works hard, he can have a milk-shop of his own when he grows up.",
+                    "q": "7) His father says that if he works hard, he can have his own milk-shop when he grows up."
+                  },
+                  {
+                    "a": "His grandmother is upset with his parents for making him work at such a young age.",
+                    "q": "8) His grandfather is upset with his parents for making him work at such a young age."
+                  },
+                  {
+                    "a": "Shahban's aim in life is to be a computer engineer.",
+                    "q": "9) Shahban's aim of life be a milk shop owner."
+                  },
+                  {
+                    "a": "He hopes to save enough money to buy a computer for himself.",
+                    "q": "10) He hopes to save enough money to buy a car for himself."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Shahban works in the evening, after his Quran classes, for two hours every day.",
+                    "q": "Work in pairs and discuss the following questions. After discussing all the questions, write the complete answers in your notebook. 1) Which part of the day does Shahban work?"
+                  },
+                  {
+                    "a": "The owner agreed because he thinks young people should also have time to play with their friends.",
+                    "q": "2) Why did the owner agree to give him a holiday on Sundays and public holidays?"
+                  },
+                  {
+                    "a": "Shahban's father thinks people should work hard and honestly.",
+                    "q": "3) Shahban's father thinks that people should do two things, what are these two things?"
+                  },
+                  {
+                    "a": "His grandmother is upset with his parents for making him work. She says he is only eleven years old and should play more.",
+                    "q": "4) Why is his grandmother upset?"
+                  },
+                  {
+                    "a": "He says he is learning how to set yoghurt in a clay pot, and he will soon be able to make yoghurt for his family.",
+                    "q": "5) What does he say about the yoghurt?"
+                  },
+                  {
+                    "a": "The writer is happy (glad). He is happy because he can help his parents by earning money, he is learning to make yoghurt, his boss says he can have his own milk shop one day, and he will save enough money to buy a computer.",
+                    "q": "6) Is the writer happy or sad? Why?"
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model answer: 1. I can help my mother clean the house and wash the dishes. This will help my family because my mother will get some rest and our home will stay clean. 2. I can study hard and do my homework on time. This will help my family because I will get good marks and become a good, useful person, and my parents will be happy. (Any two sensible things are acceptable.)",
+                    "q": "Write down two things that you can do to help your family. Also write how doing these things will help your family."
+                  }
+                ],
+                "label": "Exercise 7"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "4.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Practise the dialogue in pairs, changing roles so that each student plays both Kumar and Zaman. Then give different suggestions of your own, for example: 'You can polish your younger brother's shoes' or 'You can read the newspaper for your grandfather'.",
+                    "q": "In pairs, practise the following conversation. First, one student should play the role of Kumar and the other one should play the role of Zaman. Then, change roles and repeat the dialogue. Kumar: Zaman, please tell me some things that I can do at home which will make my mother happy. Zaman: Sure. There are many things that you can do. Kumar: Please, give me some examples. Zaman: You can wash up the dishes after lunch or dinner. Kumar: Yes, I can do that. Zaman: You can help her by hanging out clothes to dry or by feeding the chickens. Kumar: Is there anything else that I can do? Zaman: You can also make your mother happy by keeping your books and clothes in their proper place. Kumar: Thank you, Zaman, for giving me such good ideas."
+                  }
+                ],
+                "label": "Dialogue — Request and respond to requests"
+              }
+            ],
+            "name": "Speaking",
+            "num": "4.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Masculine — Feminine (people): uncle — aunt, king — queen, host — hostess, landlord — landlady, sir — madam, husband — wife, nephew — niece, prince — princess, widower — widow, son — daughter. Two more added: man — woman, brother — sister.",
+                    "q": "Memorize the following Noun Genders. Add two more in each of the group given below. Masculine Gender — Feminine Gender (people): uncle — aunt, king — queen, host — hostess, landlord — landlady, sir — madam, husband — wife, nephew — niece, prince — princess, widower — widow, son — daughter."
+                  },
+                  {
+                    "a": "Masculine — Feminine (animals): billy goat — nanny goat, stag (deer) — doe, bull — cow, drake — duck, peacock — peahen, fox — vixen, tiger — tigress, jack (donkey) — jenny, ram (sheep) — ewe, stallion (horse) — mare. Two more added: lion — lioness, cock — hen.",
+                    "q": "Masculine Gender — Feminine Gender (animals): billy goat — nanny goat, stag (deer) — doe, bull — cow, drake — duck, peacock — peahen, fox — vixen, tiger — tigress, jack (donkey) — jenny, ram (sheep) — ewe, stallion (horse) — mare."
+                  },
+                  {
+                    "a": "Common Gender: baby, child, doctor, friend, neighbour, principal, police officer, parent, singer, teacher. Two more added: student, cousin.",
+                    "q": "Common Gender: baby, child, doctor, friend, neighbour, principal, police officer, parent, singer, teacher."
+                  },
+                  {
+                    "a": "Neuter Gender: apple, book, cup, drum, egg, fan, grass, hammer, pot, train. Two more added: table, door.",
+                    "q": "Neuter Gender: apple, book, cup, drum, egg, fan, grass, hammer, pot, train."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Masculine — Feminine (people): father — mother (given in the book), widower — widow, boy — girl, nephew — niece, host — hostess. Masculine — Feminine (animals): jack — jenny (given in the book), drake — duck (given in the book), ram — ewe, bull — cow, tiger — tigress, peacock — peahen, fox — vixen. Common Gender: principal (given in the book), teacher, neighbour, friend, baby, doctor, cleaner. Neuter Gender: table (given in the book), window, button, box, bus, paper. (Note: the table printed in the book has only five rows in each column, but there are seven animal words and seven common-gender words, so two extra rows are needed in those columns.)",
+                    "q": "Draw columns as given below in your notebook. Put the words given below in the right column according to their gender. Next, for nouns that have a masculine and feminine gender, if masculine is given write feminine, and if feminine is given, write masculine. Some of these have been done as examples. Words: mother, jenny, principal, teacher, table, widower, neighbour, boy, drake, window, ram, friend, button, cow, niece, box, baby, tiger, doctor, bus, peahen, host, cleaner, fox, paper."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "My father bought a nice story book for me. (Example given in the book.)",
+                    "q": "Look at the table that you have just completed. Choose one word from each of the columns in the table and use it in a sentence in your own words. 1) Masculine/Feminine (people) column."
+                  },
+                  {
+                    "a": "The duck is swimming in the lake. (Example given in the book.)",
+                    "q": "2) Masculine/Feminine (animals) column."
+                  },
+                  {
+                    "a": "Our principal is a very nice person. (Example given in the book.)",
+                    "q": "3) Common Gender column."
+                  },
+                  {
+                    "a": "This is an old but beautiful table. (Example given in the book.)",
+                    "q": "4) Neuter Gender column."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A beautiful stag ran about in my garden.",
+                    "q": "In pairs, change the gender of the nouns and rewrite the sentences. Follow the example. 1) A beautiful doe ran about in my garden."
+                  },
+                  {
+                    "a": "The wild stallion broke the ropes and jumped over the fence.",
+                    "q": "2) The wild mare broke the ropes and jumped over the fence."
+                  },
+                  {
+                    "a": "The fox killed a hen.",
+                    "q": "3) The vixen killed a cock."
+                  },
+                  {
+                    "a": "The rich princess sent a peahen as a gift to the queen.",
+                    "q": "4) The rich prince sent a peacock as a gift to the king."
+                  },
+                  {
+                    "a": "Madam, I cannot come to school tomorrow.",
+                    "q": "5) Sir, I cannot come to school tomorrow."
+                  },
+                  {
+                    "a": "The widow had a stallion that died last week.",
+                    "q": "6) The widower had a mare that died last week."
+                  },
+                  {
+                    "a": "The landlord died in a car accident.",
+                    "q": "7) The landlady died in a car accident."
+                  },
+                  {
+                    "a": "My host is a fine teacher.",
+                    "q": "8) My hostess is a fine teacher."
+                  },
+                  {
+                    "a": "Their nephew treats their uncle very nicely.",
+                    "q": "9) Their niece treats their aunt very nicely."
+                  },
+                  {
+                    "a": "They have a bull, two ewes, four billy goats and six hens.",
+                    "q": "10) They have a cow, two rams, four nanny goats and six cocks."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The girl bought fruit for herself. (Example given in the book.)",
+                    "q": "In pairs, discuss the change in the gender of the nouns in the following statements. Remember to change the pronouns, where needed. For birds and animals, the pronoun his, her, or it can be used. After discussing, write the answers in your notebook. Follow the examples given below. Example 1: The boy bought fruit for himself."
+                  },
+                  {
+                    "a": "The teacher asked Aslam to bring his book. (The book's example is misprinted — 'book of his' is not correct English and the pronoun change does not follow from the name change. The corrected pair is: 'The teacher asked Salma to bring her book.' → 'The teacher asked Aslam to bring his book.')",
+                    "q": "Example 2: The teacher asked Salma to bring book of his."
+                  },
+                  {
+                    "a": "All the boys left the classroom except Aslam.",
+                    "q": "1) All the girls left the classroom except Seema."
+                  },
+                  {
+                    "a": "His neighbour likes the cock he bought last week.",
+                    "q": "2) Her neighbour likes the hen she bought last week."
+                  },
+                  {
+                    "a": "My aunt helped me with homework of mine when she came to the house.",
+                    "q": "3) My uncle helped me with homework of mine when he came to house."
+                  },
+                  {
+                    "a": "The tigress killed a stag and ate it.",
+                    "q": "4) The tiger killed a doe and ate it."
+                  },
+                  {
+                    "a": "The princess became the queen when she was just fifteen years old.",
+                    "q": "5) The prince became the king when he was just fifteen years old."
+                  },
+                  {
+                    "a": "The doctor's clinic is always full of people because he is very kind.",
+                    "q": "6) The doctor's clinic is always full of people because she is very kind."
+                  },
+                  {
+                    "a": "Mother of mine wants to sell her stallion and buy a bull.",
+                    "q": "7) Father of mine wants to sell his mare and buy a cow."
+                  },
+                  {
+                    "a": "Everyone likes this singer because he sings well and his voice is beautiful.",
+                    "q": "8) Everyone likes this singer because she sings well and voice of hers beautiful."
+                  },
+                  {
+                    "a": "Aslam is the cricket captain of his school's team.",
+                    "q": "9) Nazia is the cricket captain of her school's team."
+                  },
+                  {
+                    "a": "Our landlord sold two rams of his and one nanny goat because he needed some money.",
+                    "q": "10) Our landlady sold two ewes of hers and one billy goat because she needed some money."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "He is going to leave for Lahore at 5 o'clock. (Example given in the book.)",
+                    "q": "Look at the following table and make ten sentences as done in the following example. Write two sentences each for he, she, I, they, we, and it. Table: He/She — is/is not — going to — leave for Lahore at 5 o'clock, drink tea after this, read the novel after you finish it, visit the flood victims, have dinner after the game. I — am/am not — going to — (same five). They/We — are/are not — going to — (same five). It — is/is not — going to — eat the bone, rain heavily. Make a sentence with 'he'."
+                  },
+                  {
+                    "a": "He is not going to read the novel after you finish it. (Example given in the book.)",
+                    "q": "Make a second sentence with 'he'."
+                  },
+                  {
+                    "a": "She is going to visit the flood victims.",
+                    "q": "Make a sentence with 'she'."
+                  },
+                  {
+                    "a": "She is not going to have dinner after the game.",
+                    "q": "Make a second sentence with 'she'."
+                  },
+                  {
+                    "a": "I am going to read the novel after you finish it.",
+                    "q": "Make a sentence with 'I'."
+                  },
+                  {
+                    "a": "I am not going to drink tea after this.",
+                    "q": "Make a second sentence with 'I'."
+                  },
+                  {
+                    "a": "They are going to have dinner after the game.",
+                    "q": "Make a sentence with 'they'."
+                  },
+                  {
+                    "a": "They are not going to leave for Lahore at 5 o'clock.",
+                    "q": "Make a second sentence with 'they'."
+                  },
+                  {
+                    "a": "We are going to visit the flood victims.",
+                    "q": "Make a sentence with 'we'."
+                  },
+                  {
+                    "a": "We are not going to read the novel after you finish it.",
+                    "q": "Make a second sentence with 'we'."
+                  },
+                  {
+                    "a": "It is going to rain heavily.",
+                    "q": "Make a sentence with 'it'."
+                  },
+                  {
+                    "a": "It is not going to eat the bone.",
+                    "q": "Make a second sentence with 'it'."
+                  }
+                ],
+                "label": "Exercise 1 (Going to)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "My friend is going to come by bus. I am going to pick my friend from the bus station. He is going to stay with me. We are going to swim in the lake. I am going to take him to the fields. We are going to play many games. He is going to teach me English. We are going to enjoy ourselves.",
+                    "q": "Aftab's friend is coming from Quetta to spend a week with him. Complete the following paragraph about his plans using going to. The verbs that you can use are given in the brackets. The first sentence has been done as an example. My friend is going to come (come) by bus. I am ______ (pick) my friend from the bus station. He ______ (stay) with me. We ______ (swim) in the lake. I ______ (take) him to the fields. We ______ (play) many games. He ______ (teach) me English. We ______ (enjoy) ourselves."
+                  },
+                  {
+                    "a": "However, there are some things that we are not going to do. We are not going to sleep late. I am not going to climb trees. He is not going to ride the camel. We are not going to watch the TV. We are not going to go to the fair. In short, we are not going to do anything that we do not want to do.",
+                    "q": "Now, complete the following paragraph using not going to. However, There are some tings that we are not going to do (do). We ______ (sleep) late. I ______ (climb) trees. He ______ (ride) the camel. We ______ (watch) the TV. We ______ (go) to the fair. In short, we ______ (do) anything that we do not want to do."
+                  }
+                ],
+                "label": "Exercise 2 (Going to)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "I like to eat eggs, chapati and tomato chutney for breakfast.",
+                    "q": "In pairs, discuss where to put commas in the following sentences. Write the correct sentences in your notebooks. Follow the examples above. 1) I like to eat eggs chapati and tomato chutney for breakfast."
+                  },
+                  {
+                    "a": "There were plates, spoons, forks and knives on the table.",
+                    "q": "2) There were plates spoons forks and knives on the table."
+                  },
+                  {
+                    "a": "She has dinner, reads a book and prays before she goes to sleep.",
+                    "q": "3) She has dinner reads a book and prays before she goes to sleep."
+                  },
+                  {
+                    "a": "My favourite colours are blue, red, pink and purple.",
+                    "q": "4) My favourite colours are blue red pink and purple."
+                  },
+                  {
+                    "a": "There were winter clothes, old shoes and different types of hats in the cupboard.",
+                    "q": "5) There were winter clothes old shoes and different types of hats in the cupboard."
+                  },
+                  {
+                    "a": "He has to clean his room, do his homework and polish his shoes.",
+                    "q": "6) He has to clean his room do his homework and polish his shoes."
+                  },
+                  {
+                    "a": "I need to visit my mother, wash the dishes, buy some fruit and cook the meal.",
+                    "q": "7) I need to visit my mother wash the dishes buy some fruit and cook the meal."
+                  },
+                  {
+                    "a": "Amna, Bashir, Sultan and I are playing football.",
+                    "q": "8) Amna Bashir Sultan and I are playing football."
+                  },
+                  {
+                    "a": "Karamdad wants to visit France, Italy, Germany and China.",
+                    "q": "9) Karamdad wants to visit France Italy Germany and China."
+                  },
+                  {
+                    "a": "The tree is very beautiful, tall, old and green.",
+                    "q": "10) The tree is very beautiful tall old and green."
+                  }
+                ],
+                "label": "Exercise 9"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "4.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model diary entry: Day: Saturday. Date: 07.02.2017. Name of Person: Ali. Dear Diary, Today was a very happy day for me. I got up early in the morning, said my prayers and had breakfast with my family. Then I went to school with my best friend. In school, my teacher praised me because I got the first position in the English test. I was very happy. After school, I came back home, had lunch and did my homework. In the evening, I played cricket with my friends in the street. We won the match, and I was very glad. At night, I helped my mother wash the dishes and then I went to bed early. I am happy today because my teacher praised me and my parents are proud of me. (Any diary entry following the guidelines is acceptable.)",
+                    "q": "Write a diary entry about one day in your life. Use the following guidelines. Diary Entry: Day: / Date: / Name of Person: / Dear Diary, / 1st Paragraph / 2nd Paragraph / 3rd Paragraph. What to Write: 1) Use the reading text as your guide. 2) Write 3 paragraphs. 3) Start a new paragraph a little away from the margin. 4) Develop a mind map about what you want to write in each paragraph. 5) Start with what happened early in the day and finish with what happened last in the evening. 1) Use Pronouns such as I, we, us, me. 2) Use interesting adjectives. 3) Talk about things that include your family or close friends. 4) Write about your feelings. Explain what made you sad or happy. 5) Exchange your diary page with your partners. Ask them to point out your mistakes by writing (Sp) for spelling mistakes, (G) for grammar and (P) for punctuation. Correct the mistakes with the help of your partners. Rewrite your diary page and submit your work to your teacher."
+                  }
+                ],
+                "label": "Diary Entry"
+              }
+            ],
+            "name": "Writing",
+            "num": "4.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model weekly time table (two to three things for each part of the day): Sunday — Morning: get up late, help mother in the kitchen; Afternoon: do homework, read a story book; Evening: play cricket with friends; Night: watch TV, go to bed early. Monday — Morning: get up early, say prayers, go to school; Afternoon: have lunch, do homework; Evening: go for Quran classes, play with friends; Night: have dinner, read a book, go to bed at 9:30. Tuesday — Morning: get up early, go to school; Afternoon: help mother clean the house; Evening: do homework, practise English; Night: have dinner, go to bed early. Wednesday — Morning: get up early, go to school; Afternoon: have lunch, rest; Evening: play football, visit grandmother; Night: have dinner, read a story, go to bed. Thursday — Morning: get up early, go to school; Afternoon: do homework; Evening: help father in the shop; Night: have dinner, say Isha prayers, go to bed. Friday — Morning: get up early, go to the mosque, have breakfast; Afternoon: have lunch, rest; Evening: play with cousins; Night: have dinner, read the Quran, go to bed. Saturday — Morning: get up late, clean my room; Afternoon: do homework, help mother; Evening: play games, watch TV; Night: have dinner, go to bed early. (Any sensible personal time table is acceptable.)",
+                    "q": "Developing a weekly time table is a good habit. It helps you to plan your time properly and helps you remember all the important things that you have to do on any given day. Draw a time table, as given below, in your notebook. Write down two to three things that you will do in the morning, afternoon, evening and at night, for each day in the week. Days: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday; columns: Morning, Afternoon, Evening, Night."
+                  }
+                ],
+                "label": "Weekly Time Table"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Do the Cloze activity shown in Unit 1.5 regularly — read a passage, cover some words, and try to fill them in from the sense of the passage.",
+                    "q": "Remember to do the Cloze activity as shown in Unit 1.5."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "4.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The 10 differences: 1. The clock shows 6 o'clock in the left picture and about 9:45 in the right picture. 2. The grandmother has a red pin in her hair in the left picture; there is no pin in the right picture. 3. The cupboard door knobs are round in the left picture and heart-shaped in the right picture. 4. On the middle shelf there is a blue glass in the left picture and two small dolls in the right picture. 5. The little girl is barefoot in the left picture and is wearing a white sock in the right picture. 6. There is a small grey spoon beside the cat in the left picture and a round orange ball in the right picture. 7. The plate at the far right is plain in the left picture and has a smiley face in the right picture. 8. The square biscuit on the baking tray is plain in the left picture and has a face in the right picture. 9. The green plant has one pink flower in the left picture and two pink flowers in the right picture. 10. The grandmother has a green ribbon at her neck in the left picture and a plain white collar in the right picture.",
+                    "q": "There are some differences in the two pictures given below. Work in groups of three and find at least 10 differences in these two pictures. When you find one difference draw a line from that point in the picture and write number 1, as shown below. When you find the second difference write number 2 in the same manner. Continue like this until you find at least 10 differences. Once you have completed the task, share your findings with another group. Remember you have to speak in English throughout the activity."
+                  }
+                ],
+                "label": "Spot the Differences"
+              }
+            ],
+            "name": "Fun",
+            "num": "4.6"
+          }
+        ],
+        "title": "The Value of Labour",
+        "unit": 4,
+        "words": [
+          {
+            "sd": "ڊائري",
+            "syn": "a book in which you write what happens every day",
+            "w": "diary"
+          },
+          {
+            "sd": "سکيا وٺندڙ",
+            "syn": "a person who is learning a job",
+            "w": "trainee"
+          },
+          {
+            "sd": "مددگار",
+            "syn": "a person who helps",
+            "w": "helper"
+          },
+          {
+            "sd": "ايمانداري سان",
+            "syn": "in an honest way",
+            "w": "honestly"
+          },
+          {
+            "sd": "ڪمائي",
+            "syn": "money earned by working",
+            "w": "earnings"
+          },
+          {
+            "sd": "ناراض",
+            "syn": "sad or worried",
+            "w": "upset"
+          },
+          {
+            "sd": "سنگت",
+            "syn": "the people you spend time with",
+            "w": "company"
+          },
+          {
+            "sd": "عادتون",
+            "syn": "things you do regularly",
+            "w": "habits"
+          },
+          {
+            "sd": "ڏهي",
+            "syn": "curd",
+            "w": "yoghurt"
+          },
+          {
+            "sd": "مٽي جو ٿانو",
+            "syn": "a pot made of clay",
+            "w": "clay pot"
+          },
+          {
+            "sd": "انجنيئر",
+            "syn": "a person who designs and builds machines",
+            "w": "engineer"
+          },
+          {
+            "sd": "مقامي",
+            "syn": "of the area nearby",
+            "w": "local"
+          },
+          {
+            "sd": "مالک",
+            "syn": "the person who owns something",
+            "w": "owner"
+          },
+          {
+            "sd": "باس",
+            "syn": "the person in charge at work",
+            "w": "boss"
+          },
+          {
+            "sd": "خوابن واري نوکري",
+            "syn": "the job you most want to do",
+            "w": "dream job"
+          },
+          {
+            "sd": "سرڪاري موکلون",
+            "syn": "days when offices and schools are closed",
+            "w": "public holidays"
+          }
+        ],
+        "display": "Diary Entry"
+      },
+      {
+        "reading": "We Are Different but We Are All Children",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: The quote means that although people look different on the outside — different skin colours, different looks — inside we are all the same human beings, with the same feelings, hopes and needs. (Any sensible answer is acceptable.)",
+                    "q": "What do you think is the meaning of the above quote? Quote: 'Beneath our skin and bone and mind, most of our colours are amazingly the same.' -Anonymous"
+                  },
+                  {
+                    "a": "Model answer: Yes, I agree. People have different skin colours, languages and religions, but we are all human beings, so we are the same inside. (Any honest personal answer is acceptable.)",
+                    "q": "Do you agree that although people have different skin colours they are the same?"
+                  },
+                  {
+                    "a": "Model answer: I agree because all people feel happy and sad, all need food, water and love, and all want to live in peace. Our skin colour does not change what we are inside. (Any honest personal answer is acceptable.)",
+                    "q": "Give reasons why you agree/ disagree with this statement."
+                  },
+                  {
+                    "a": "Model answer: The picture shows children from different countries and of different colours standing together on the earth. Its message is that children all over the world are different but they are all children, and we must respect each other's culture and religion. (Any sensible answer is acceptable.)",
+                    "q": "What is the message in the picture?"
+                  }
+                ],
+                "label": "Pre Reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The three children are Ana (from Brazil), Kofi (from Ghana) and Angkul (from Thailand).",
+                    "q": "Write the names of the three children mentioned in the text passages."
+                  },
+                  {
+                    "a": "Rice is common in the food of all the three children. Ana's favourite food Cabidela is cooked with rice and meat, Kofi's favourite food Waakye is cooked with rice and beans, and Angkul's favourite food Khao phat is made of rice and meat.",
+                    "q": "One item is common in the food of all the three children, what is it?"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "famous — meaning: well known; opposite: not known. (Example given in the book.)",
+                    "q": "Fill in the table: the word is 'famous' (text 1). What is its meaning and its opposite? List: least liked, send to another country, private, one who cannot speak, ends, well known, smallest, warm and damp, one with good hearing, most liked, not known, biggest, government-owned, cool and dry, one who cannot hear, starts, one who speaks very well, Get from another country."
+                  },
+                  {
+                    "a": "largest — meaning: biggest; opposite: smallest.",
+                    "q": "Fill in the table: the word is 'largest' (text 1). What is its meaning and its opposite?"
+                  },
+                  {
+                    "a": "favourite — meaning: most liked; opposite: least liked.",
+                    "q": "Fill in the table: the word is 'favourite' (text 1). What is its meaning and its opposite?"
+                  },
+                  {
+                    "a": "deaf — meaning: one who cannot hear; opposite: one with good hearing.",
+                    "q": "Fill in the table: the word is 'deaf' (text 2). What is its meaning and its opposite?"
+                  },
+                  {
+                    "a": "dumb — meaning: one who cannot speak; opposite: one who speaks very well.",
+                    "q": "Fill in the table: the word is 'dumb' (text 2). What is its meaning and its opposite?"
+                  },
+                  {
+                    "a": "export — meaning: send to another country; opposite: Get from another country.",
+                    "q": "Fill in the table: the word is 'export' (text 2). What is its meaning and its opposite?"
+                  },
+                  {
+                    "a": "begins — meaning: starts; opposite: ends.",
+                    "q": "Fill in the table: the word is 'begins' (text 2). What is its meaning and its opposite?"
+                  },
+                  {
+                    "a": "public — meaning: government-owned; opposite: private.",
+                    "q": "Fill in the table: the word is 'public' (text 3). What is its meaning and its opposite?"
+                  },
+                  {
+                    "a": "humid — meaning: warm and damp; opposite: cool and dry.",
+                    "q": "Fill in the table: the word is 'humid' (text 3). What is its meaning and its opposite?"
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Betim. (Example given in the book.)",
+                    "q": "Read the text to find out what the underlined words refer to in the passage. 1) It is a city in Brazil. (text 1) What does the underlined word 'It' refer to?"
+                  },
+                  {
+                    "a": "Brasil Sabor.",
+                    "q": "2) It is the world's largest food festival. (text 1) What does the underlined word 'It' refer to?"
+                  },
+                  {
+                    "a": "Bakatue Festival.",
+                    "q": "3) It is on the first Tuesday in the month of July every year. (text 2) What does the underlined word 'It' refer to?"
+                  },
+                  {
+                    "a": "Waakye.",
+                    "q": "4) It is cooked with rice and beans. (text 2) What does the underlined word 'It' refer to?"
+                  },
+                  {
+                    "a": "Phuket.",
+                    "q": "5) It is famous for its white beaches. (text 3) What does the underlined word 'It' refer to?"
+                  },
+                  {
+                    "a": "Songkran Festival.",
+                    "q": "6) It is also the time to visit and pay respects to elders, family members, friends and neighbours. (text 3) What does the underlined word 'It' refer to?"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Brasil Sabor: 1. Celebrated from May 3 to June 3 (given in the book). 2. Largest food festival in the world (given in the book). 3. More than 2000 types of dishes are prepared in it.",
+                    "q": "In pairs, discuss and write three things about each festival in all the reading passages that makes them different from each other. Do not write full sentences. Brasil Sabor — write three differences."
+                  },
+                  {
+                    "a": "Bakatue Festival: 1. Celebrated for a good fishing year ahead. 2. Celebrated on the first Tuesday in the month of July every year. 3. Once the festival begins, the fishing season starts (and many fishing communities of Ghana do not go to sea on Tuesdays).",
+                    "q": "Bakatue Festival — write three differences."
+                  },
+                  {
+                    "a": "Songkran Festival: 1. Celebrated as the New Year's Day, from 13 to 15 April every year. 2. People go around the streets with water guns for a water fight. 3. People wash their homes just before the festival as this brings good luck and wealth for the New Year.",
+                    "q": "Songkran Festival — write three differences."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "There are 5 Fridays during the Brazil Sabor celebration (May 3 to June 3): May 4, May 11, May 18, May 25 and June 1.",
+                    "q": "Look at the calendar of 2015 below and answer the following questions in your notebooks. (a) Write down the number of Fridays during the Brazil Sabor celebration."
+                  },
+                  {
+                    "a": "In the calendar printed in the book (2018), the first Tuesday of July is 3rd July. (Note: the book asks about the 2017 calendar, but the calendar printed in the book is of 2018. In the 2017 calendar the first Tuesday of July was 4th July.)",
+                    "q": "(b) Bakatue Festival is celebrated on the first Tuesday in the month of July every year. What date is it in the 2017 calendar?"
+                  },
+                  {
+                    "a": "The Songkran Festival (13 to 15 April) falls on Friday, Saturday and Sunday (in the printed 2018 calendar).",
+                    "q": "(c) Which days of the week is the Songkran Festival?"
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Name: Ana | Kofi | Angkul.",
+                    "q": "Read the texts on the 3 children and fill the table with correct information. 1. Name."
+                  },
+                  {
+                    "a": "Age: Ana — 9 years; Kofi — 10 years; Angkul — 10 years.",
+                    "q": "2. Age."
+                  },
+                  {
+                    "a": "Class: Ana — studying at home (given in the book); Kofi — Grade 5; Angkul — Grade 6.",
+                    "q": "3. Class."
+                  },
+                  {
+                    "a": "City: Ana — Betim; Kofi — Tema; Angkul — Phuket.",
+                    "q": "4. City."
+                  },
+                  {
+                    "a": "Country: Ana — Brazil; Kofi — Ghana; Angkul — Thailand.",
+                    "q": "5. Country."
+                  },
+                  {
+                    "a": "Continent: Ana — South America; Kofi — Africa; Angkul — Asia.",
+                    "q": "6. Continent."
+                  },
+                  {
+                    "a": "People called: Ana — Brazilians; Kofi — Ghanans; Angkul — Thais (given in the book).",
+                    "q": "7. People called."
+                  },
+                  {
+                    "a": "Greeting: Ana — Ola (given in the book); Kofi — Sannu; Angkul — Sawatdee Kaa.",
+                    "q": "8. Greeting."
+                  },
+                  {
+                    "a": "Festival: Ana — Brasil Sabor; Kofi — Bakatue Festival; Angkul — Songkran Festival.",
+                    "q": "9. Festival."
+                  },
+                  {
+                    "a": "Favourite food: Ana — Cabidela; Kofi — Waakye; Angkul — Khao phat.",
+                    "q": "10. Favourite food."
+                  },
+                  {
+                    "a": "Food made of: Ana — rice and meat; Kofi — rice and beans; Angkul — rice and meat (with coconut or pineapple).",
+                    "q": "11. Food made of."
+                  },
+                  {
+                    "a": "Hobby: Ana — playing with dolls; Kofi — catching fish (given in the book); Angkul — painting sceneries.",
+                    "q": "12. Hobby."
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model answer: I would like to visit Ana in Brazil. This is because I want to see the largest FIAT car factory in her city Betim. Secondly, I want to taste her favourite food Cabidela and see the Brasil Sabor food festival with more than 2000 types of dishes. Lastly, I want to play with her dolls and learn the Portuguese language. (Any honest personal answer with three reasons is acceptable.)",
+                    "q": "Which one of the 3 children would you like to visit? Give 3 reasons. Write your answer like this: I would like to visit ..... This is because ........ Secondly,...... . Lastly ...... ."
+                  }
+                ],
+                "label": "Exercise 7"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "5.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model dialogue — Zaman: I think all seasons are good in their own way. We should enjoy the hot weather and the mangoes it gives us. (Any sensible dialogue related to the weather is acceptable.)",
+                    "q": "Practise the following dialogue in groups of four. One student should be Zaman, the others Rahul, John and Musa. One dialogue has been left blank for each of the characters. Each one should think of one more dialogue related to the weather and say it; the others can agree or state another view point. Zaman: ______"
+                  },
+                  {
+                    "a": "Model dialogue — Rahul: I agree with Zaman. Hot weather is good for mangoes and other fruits, but we should drink a lot of water in the hot weather. (Any sensible dialogue related to the weather is acceptable.)",
+                    "q": "Rahul: ______"
+                  },
+                  {
+                    "a": "Model dialogue — John: I think we should also remember the cold weather. In winter we can enjoy hot tea and warm clothes. (Any sensible dialogue related to the weather is acceptable.)",
+                    "q": "John: ______"
+                  },
+                  {
+                    "a": "Model dialogue — Musa: You are all right. Every season has its good and bad points, and we should enjoy every season. (Any sensible dialogue related to the weather is acceptable.)",
+                    "q": "Musa: ______"
+                  }
+                ],
+                "label": "Dialogue — Taking into account different view points"
+              }
+            ],
+            "name": "Speaking",
+            "num": "5.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The dishes are washed by me. (Verb in the first sentence: wash.)",
+                    "q": "Change each of the following Active Voice sentence into a Passive voice in Present Simple. Underline the verb in the first sentence. Remember to use the past participle form of the verb in the Passive Voice. Use is, am or are, as needed. 1) I wash the dishes. --> The dishes ______ by me."
+                  },
+                  {
+                    "a": "The cows are fed by my sister. (Verb: feeds.)",
+                    "q": "2) My sister feeds the cows. --> The cows ______ by my sister."
+                  },
+                  {
+                    "a": "The food is cooked by my uncle. (Verb: cooks.)",
+                    "q": "3) My uncle cooks the food. --> The food ______ by my uncle."
+                  },
+                  {
+                    "a": "The kitchen is cleaned by grandmother. (Verb: cleans.)",
+                    "q": "4) Grandmother cleans the kitchen. --> The kitchen ______ by grandmother."
+                  },
+                  {
+                    "a": "The bills are paid by my father. (Verb: pays.)",
+                    "q": "5) My father pays the bills. --> The bills ______ by my father."
+                  },
+                  {
+                    "a": "The bushes are cut by the gardener. (Verb: cuts.)",
+                    "q": "6) The gardener cuts the bushes. --> The bushes ______ by the gardener."
+                  },
+                  {
+                    "a": "Green tea is drunk by my brother. (Verb: drinks.)",
+                    "q": "7) My brother drinks green tea. --> Green tea ______ by my brother."
+                  },
+                  {
+                    "a": "The plants are watered by my aunt. (Verb: waters.)",
+                    "q": "8) My aunt waters the plants. --> The plants ______ by my aunt."
+                  },
+                  {
+                    "a": "The laundry is done by my mother. (Verb: does.)",
+                    "q": "9) My mother does the laundry. --> The laundry ______ by my mother."
+                  },
+                  {
+                    "a": "We are taken to school by my grandfather. (Verb: takes.)",
+                    "q": "10) My grandfather takes us to school. --> We ______ to school by my grandfather."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A — Active Voice. (Example given in the book.)",
+                    "q": "In each of the following pairs of sentences, state which one is in the Active Voice and which in the Passive Voice by writing A and P in the blanks. 1) Our servant reads the newspaper."
+                  },
+                  {
+                    "a": "P — Passive Voice.",
+                    "q": "2) Bread and butter are eaten by Salma."
+                  },
+                  {
+                    "a": "P — Passive Voice.",
+                    "q": "3) Thatta is liked by many people."
+                  },
+                  {
+                    "a": "A — Active Voice.",
+                    "q": "4) My brother polishes my shoes."
+                  },
+                  {
+                    "a": "P — Passive Voice.",
+                    "q": "5) The clouds are blown away by strong winds."
+                  },
+                  {
+                    "a": "A — Active Voice.",
+                    "q": "6) Good teams win matches."
+                  },
+                  {
+                    "a": "A — Active Voice.",
+                    "q": "7) Teachers help students."
+                  },
+                  {
+                    "a": "A — Active Voice.",
+                    "q": "8) Honey bees make honey."
+                  },
+                  {
+                    "a": "P — Passive Voice.",
+                    "q": "9) The tractor is driven by their father."
+                  },
+                  {
+                    "a": "P — Passive Voice.",
+                    "q": "10) I am taught English by my sister."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The newspaper is read by our servant.",
+                    "q": "Change the Voice of all the sentences in Exercise 2 above; change all the Active Voices into Passive and all the Passive ones into Active. 1) Our servant reads the newspaper."
+                  },
+                  {
+                    "a": "Salma eats bread and butter.",
+                    "q": "2) Bread and butter are eaten by Salma."
+                  },
+                  {
+                    "a": "Many people like Thatta.",
+                    "q": "3) Thatta is liked by many people."
+                  },
+                  {
+                    "a": "My shoes are polished by my brother.",
+                    "q": "4) My brother polishes my shoes."
+                  },
+                  {
+                    "a": "Strong winds blow the clouds away.",
+                    "q": "5) The clouds are blown away by strong winds."
+                  },
+                  {
+                    "a": "Matches are won by good teams.",
+                    "q": "6) Good teams win matches."
+                  },
+                  {
+                    "a": "Students are helped by teachers.",
+                    "q": "7) Teachers help students."
+                  },
+                  {
+                    "a": "Honey is made by honey bees.",
+                    "q": "8) Honey bees make honey."
+                  },
+                  {
+                    "a": "Their father drives the tractor.",
+                    "q": "9) The tractor is driven by their father."
+                  },
+                  {
+                    "a": "My sister teaches me English.",
+                    "q": "10) I am taught English by my sister."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "I have no school on Sundays. (on — given in the book.)",
+                    "q": "In pairs, choose the correct Preposition of Time. Write the correct sentences in your notebook. 1) I have no school on/in/at Sundays."
+                  },
+                  {
+                    "a": "My father comes home at lunch time.",
+                    "q": "2) My father comes home at/in/on lunch time."
+                  },
+                  {
+                    "a": "The children like to go to the park in the evening.",
+                    "q": "3) The children like to go to the park in/on/at the evening."
+                  },
+                  {
+                    "a": "Lots of people buy new clothes on Eid.",
+                    "q": "4) Lots of people buy new clothes at/in/on Eid."
+                  },
+                  {
+                    "a": "What are you doing in the evening?",
+                    "q": "5) What are you doing in/on/at the evening?"
+                  },
+                  {
+                    "a": "Mother always tells us a story at bedtime.",
+                    "q": "6) Mother always tells us a story at/in/on bedtime."
+                  },
+                  {
+                    "a": "We finished our homework at the same time.",
+                    "q": "7) We finished our homework on/in/at the same time."
+                  },
+                  {
+                    "a": "There was a loud noise which woke us up at midnight.",
+                    "q": "8) There was a loud noise which woke us up on/at/in midnight."
+                  },
+                  {
+                    "a": "I met my husband in 1998.",
+                    "q": "9) I met my husband on/at/in 1998."
+                  },
+                  {
+                    "a": "The school is opening on Saturday.",
+                    "q": "10) The school is opening in/on/at Saturday."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "on — They wanted to go on December 18.",
+                    "q": "Complete the following paragraph by filling the blanks with correct prepositions. Salma and her brother, Rumi, decided to go to Moenjodaro in the winter holidays. They wanted to go ______ December 18."
+                  },
+                  {
+                    "a": "At — At breakfast time they asked their father if they could go to Moenjodaro.",
+                    "q": "______ breakfast time they asked their father if they could go to Moenjodaro."
+                  },
+                  {
+                    "a": "in — He told them that they would discuss the matter in the evening.",
+                    "q": "He told them that they would discuss the matter ______ the evening."
+                  },
+                  {
+                    "a": "at — He called both of them at 5 o'clock and asked them their plan.",
+                    "q": "He called both of them ______ 5 o'clock and asked them their plan."
+                  },
+                  {
+                    "a": "at — Rumi told him that a train leaves for Moenjodaro at 8:00 am.",
+                    "q": "Rumi told him that a train leaves for Moenjodaro ______ 8:00 am."
+                  },
+                  {
+                    "a": "in — They could take the train in December when they have their winter holidays.",
+                    "q": "They could take the train ______ December when they have their winter holidays."
+                  },
+                  {
+                    "a": "at — They would reach Moenjodaro at noon.",
+                    "q": "They would reach Moenjodaro ______ noon."
+                  },
+                  {
+                    "a": "on — Their father said that they could go on the 23rd of December.",
+                    "q": "Their father said that they could go ______ the 23rd of December."
+                  },
+                  {
+                    "a": "on — They could stay with his friend for two nights and come back on Christmas Day.",
+                    "q": "They could stay with his friend for two nights and come back ______ Christmas Day."
+                  },
+                  {
+                    "a": "at — Salma said to Rumi that they would give the good news to their mother at night.",
+                    "q": "Salma said to Rumi that they would give the good news to their mother ______ night."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model story (8 sentences, with a Preposition of Time in each sentence): 1. On Sunday morning, my family and I went to the seaside. 2. At 7 o'clock, we reached the beach. 3. In the morning, we played in the water and made sandcastles. 4. At noon, we ate our lunch under a big tree. 5. In the afternoon, my father took us for a boat ride. 6. At 4 o'clock, we drank cold lassi and ate ice cream. 7. On our way home in the evening, we saw a beautiful sunset. 8. At night, we reached home tired but very happy.",
+                    "q": "In pairs, write a true or imaginary story of 8 - 10 sentences, using a Preposition of Time in each sentence. Once you have written your story, cut 8 - 10 strips of paper and write one sentence on each strip. Mix up the strips. Exchange your strips with another pair and try and put the story in the correct order."
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Once you finish your science project, I will let you play with your friends. (Example given in the book.)",
+                    "q": "Select sentences from column B to complete the sentences in column A. Write the complete sentences in your notebook. 1. Once you finish your science project,"
+                  },
+                  {
+                    "a": "Once they wash their hands, they will be allowed to eat.",
+                    "q": "2. Once they wash their hands,"
+                  },
+                  {
+                    "a": "Once the team finishes the practice, they can go home.",
+                    "q": "3. Once the team finishes the practice,"
+                  },
+                  {
+                    "a": "Once you finish your food, all of you will get ice cream.",
+                    "q": "4. Once you finish your food,"
+                  },
+                  {
+                    "a": "Once he says sorry, he will be forgiven.",
+                    "q": "5. Once he says sorry,"
+                  },
+                  {
+                    "a": "Once they reach Hyderabad, they can reach Ranikot within an hour.",
+                    "q": "6. Once they reach Hyderabad,"
+                  },
+                  {
+                    "a": "Once she finishes cooking, she should take some rest.",
+                    "q": "7. Once she finishes cooking,"
+                  },
+                  {
+                    "a": "Once the field is ploughed, we can start sowing the seeds.",
+                    "q": "8. Once the field is ploughed,"
+                  },
+                  {
+                    "a": "Once I pass my exams, I will join English classes to improve my English. (Example given in the book.)",
+                    "q": "Complete the following sentence and write it in your notebook. Once you have finished, discuss your work with your partner. You may change your sentence, if you want to, after the discussion. 1) Once I pass my exams, ______."
+                  },
+                  {
+                    "a": "Model answer: Once my sister has completed her homework, she will go out to play with her friends. (Any sensible completion is acceptable.)",
+                    "q": "2) Once my sister has completed her homework, ______."
+                  },
+                  {
+                    "a": "Model answer: Once the people have caught the thief, they will hand him over to the police. (Any sensible completion is acceptable.)",
+                    "q": "3) Once the people have caught the thief, ______."
+                  },
+                  {
+                    "a": "Model answer: Once the monkey is left out of the cage, it will run away into the jungle. (Any sensible completion is acceptable.)",
+                    "q": "4) Once the monkey is left out of the cage, ______."
+                  },
+                  {
+                    "a": "Model answer: Once my money is finished, I will not be able to buy anything. (Any sensible completion is acceptable.)",
+                    "q": "5) Once my money is finished, ______."
+                  },
+                  {
+                    "a": "Model answer: Once you have bought an elephant, you will need a big place to keep it. (Any sensible completion is acceptable.)",
+                    "q": "6) Once you have bought an elephant, ______."
+                  },
+                  {
+                    "a": "Model answer: Once the bell rings, we will go home. (Any sensible completion is acceptable.)",
+                    "q": "7) Once the bell rings, ______."
+                  }
+                ],
+                "label": "Exercise 7"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model sentences (using 'once' as in Exercise 7): 1. Once I finish my homework, I will go out to play. 2. Once the rain stops, we will go to the park. 3. Once I reach home, I will call you. 4. Once the teacher comes, the class will begin. 5. Once we reach the station, we will buy the tickets. (Any 3-5 sentences of your own using 'once' are acceptable.)",
+                    "q": "Work in pairs, and make 3 - 5 sentences of your own using the word 'once' in the same way as done in the last two exercises. Write these sentences in your notebook."
+                  }
+                ],
+                "label": "Exercise 8"
+              },
+              {
+                "items": [
+                  {
+                    "a": "(a) The children's books were left in three places: Mrs Saleem's room, the kitchen and the gardener's cupboard. CORRECT (given in the book).",
+                    "q": "Work in pairs, select the sentences from the following ones in which the colon has been used correctly and write them in your notebook. 1) (a) The children's books were left in three places: Mrs Saleem's room, the kitchen and the gardener's cupboard. (b) The children's books: were left in three places, Mrs Saleem's room, the kitchen and the gardener's cupboard. (c) The children's books were left in three places: Mrs Saleem's room, the kitchen and the gardener's cupboard."
+                  },
+                  {
+                    "a": "(a) My brother has many hobbies: collecting coins from different countries, reading story books, growing fruits and vegetables, and painting natural scenes.",
+                    "q": "2) (a) My brother has many hobbies: collecting coins from different countries, reading story books, growing fruits and vegetables, and painting natural scenes. (b) My brother has: many hobbies collecting coins from different countries, reading story books, growing fruits and vegetables, and painting natural scenes. (c) My brother has many: hobbies collecting coins from different countries, reading story books, growing fruits and vegetables, and painting natural scenes."
+                  },
+                  {
+                    "a": "(b) The basket contained these items: fruit, biscuits, chocolates and sweets.",
+                    "q": "3) (a) The basket contained: fruit, biscuits, chocolates and sweets. (b) The basket contained these items: fruit, biscuits, chocolates and sweets. (c) The basket: contained fruit, biscuits, chocolates and sweets."
+                  },
+                  {
+                    "a": "(c) You can choose any type of book you want: story book, book of jokes or a recipe book or gardening book. (The book prints 'a recipe book gardening book' — the word 'or' is missing; it has been added here.)",
+                    "q": "4) (a) You can choose: any type of book you want story book, book of jokes, recipe book or gardening book. (b) You can choose any type of book: you want story book, book of jokes, recipe book or gardening book. (c) You can choose any type of book you want: story book, book of jokes or a recipe book gardening book."
+                  },
+                  {
+                    "a": "(b) I can see many things from here: the old lighthouse, seagulls catching fish, children playing on the beach, and boats in the sea.",
+                    "q": "5) (a) I can see: many things from here the old lighthouse, seagulls catching fish, children playing on the beach, and boats in the sea. (b) I can see many things from here: the old lighthouse, seagulls catching fish, children playing on the beach, and boats in the sea. (c) I can see many things from here the old lighthouse, seagulls catching fish: children playing on the beach, and boats in the sea."
+                  },
+                  {
+                    "a": "(a) There are many types of trees here: the old neem tree, the mango tree full of fruits, two trees with tiny lemons, and the tree with red apples.",
+                    "q": "6) (a) There are many types of trees here: the old neem tree, the mango tree full of fruits, two trees with tiny lemons, and the tree with red apples. (b) There are many: types of trees here, the old neem tree, the mango tree full of fruits, two trees with tiny lemons, and the tree with red apples. (c) There are many types of trees here, the old neem tree: the mango tree full of fruits, two trees with tiny lemons, and the tree with red apples."
+                  },
+                  {
+                    "a": "(c) In the bag there were the following items: scissors, a hairbrush, some money and her address book.",
+                    "q": "7) (a) In the bag: there were the following items, scissors, a hairbrush, some money and her address book. (b) In the bag there were: the following items, scissors, a hairbrush, some money and her address book. (c) In the bag there were the following items: scissors, a hairbrush, some money and her address book."
+                  }
+                ],
+                "label": "Exercise 9"
+              },
+              {
+                "items": [
+                  {
+                    "a": "There are many advantages of growing trees: pollution free air, shade in the summer, and branches for tying a swing. (Example given in the book.)",
+                    "q": "Write the following sentence in your notebook by adding a colon and the commas in the right place. The first one has been done as an example. 1) There are many advantages of growing trees pollution free air shade in the summer and branches for tying a swing."
+                  },
+                  {
+                    "a": "Please buy these things from the shop: a litre of milk, a loaf of bread, a packet of salt, and a tin of oil.",
+                    "q": "2) Please buy these things from the shop a litre of milk a loaf of bread a packet of salt and a tin of oil."
+                  },
+                  {
+                    "a": "There are too many things in this drawer: pencils, papers, boxes, combs and clips.",
+                    "q": "3) There are too many things in this drawer pencils papers boxes combs and clips."
+                  },
+                  {
+                    "a": "Travelling by train has many advantages: one can easily walk about, there is place to sleep properly, one can enjoy the scenery, and one can make new friends.",
+                    "q": "4) Travelling by train has many advantages one can easily walk about there is place to sleep properly one can enjoy the scenery and one can make new friends."
+                  },
+                  {
+                    "a": "Cut all these fruits and put them in the bowl: a mango, three bananas, an orange, two apples, and a guava.",
+                    "q": "5) Cut all these fruits and put them in the bowl a mango three bananas an orange two apples and a guava."
+                  },
+                  {
+                    "a": "Pack all the things that we need to take with us: all our warm clothes, at least three pairs of shoes, the new camera, some of the medicines, and one or two blankets.",
+                    "q": "6) Pack all the things that we need to take with us all our warm clothes at least three pairs of shoes the new camera some of the medicines and one or two blankets."
+                  },
+                  {
+                    "a": "The girls decided to buy all the things they would need for Eid: dresses, sandals, purses, bangles, earrings and mehndi.",
+                    "q": "7) The girls decided to buy all the things they would need for Eid dresses sandals purses bangles earrings and mehndi."
+                  }
+                ],
+                "label": "Exercise 10"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "5.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model table (fill it with your own information): 1. Name: ALI AHMED. 2. Age: 11 YEARS. 3. Class: 6. 4. City: HYDERABAD. 5. Country: PAKISTAN. 6. Continent: ASIA. 7. People called: PAKISTANIS. 8. Greeting: ASSALAM-O-ALAIKUM. 9. Festival: EID. 10. Favourite food: BIRYANI. 11. Food made of: RICE AND MEAT. 12. Hobby: PLAYING CRICKET.",
+                    "q": "Look at the table in exercise 5, section 5.1. Based on the same pattern, fill the following table about yourself. 1. Name 2. Age 3. Class 4. City 5. Country 6. Continent 7. People called 8. Greeting 9. Festival 10. Favourite food 11. Food made of 12. Hobby"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model paragraphs: Assalam-o-Alaikum! I'm Ali Ahmed. I'm 11 years old and I study in Grade 6 at a local public school in Hyderabad. I live in Hyderabad, a big city in Sindh, Pakistan, in Asia. Our national language is Urdu, but we speak Sindhi at home. My city is famous for its bangles and its old buildings. We are three brothers and one sister. We all go to school. Pakistanis celebrate Eid with great joy. On Eid, we wear new clothes, eat sweets and meet our relatives. My favourite food is biryani. It is cooked with rice and meat. I like to play cricket with my friends in the evening. I also like to read story books. I want to become a teacher when I grow up.",
+                    "q": "Using the information in the above table, write 3-4 paragraphs about yourself. Use the reading text passages in section 5.1 as your sample."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Writing",
+            "num": "5.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Free Writing: This is how you do it. Step 1: a) Spend just 5 minutes on this activity every day. b) Have a separate copy for this work. c) Choose a topic of your choice. It can be a person, place, thing, idea, like, dislike, etc. You can write about a TV programme, a wedding that you attended, a festival you celebrated, or a fight that you had with your brother/sister/friend. d) You can write about anything that is in your mind. Step 2: a) Write without stopping. b) Write anything about the topic in any order you like. c) Or just write whatever you are thinking at the moment. d) Do not worry about the punctuation, spelling, grammar or handwriting. e) If you cannot think of an English word or phrase, write that word or phrase in any other language, but do not stop writing to think about it. However, find out the English word or phrase later on and write it down where it should be written. Sample (from the book, p.102): It was a tree a beautiful green one in my orchard on the top branch was a parrot orange and blue one trying to talk it kept saying ayesha ayesha I think it was a pet because it sang ayesha ayesha it must have flown away or the owners left the cage door open by accident why would it be here on the top branch of a tree apple tree it was hungry it pecked at a red juicy apple but apple fell down. I picked it up and took a bite. Juice ran down my mouth and chin. it was delicious and grainy and so so sweet red sweet apple fresh from the tree not for parrot but me (114 words). How to create a topic? Write A-Z on a page. Next to every letter, write the word that comes to your mind starting with that letter; for example: a = ant; b = biscuit; c = crow.",
+                    "q": "Free Writing: This is how you do it. Do you want to write good English? Do Free Writing. Doing this activity everyday can help you gain confidence in writing. This was taught to you in class VI. It is being repeated here to remind you to do it regularly. Follow the steps and do free writing for 5 minutes every day. Step 1: a) Spend just 5 minutes on this activity every day. b) Have a separate copy for this work. c) Choose a topic of your choice. It can be a person, place, thing, idea, like, dislike, etc. You can write about a TV programme, a wedding that you attended, a festival you celebrated, or a fight that you had with your brother/sister/friend. d) You can write about anything that is in your mind. Step 2: a) Write without stopping. b) Write anything about the topic in any order you like. c) Or just write whatever you are thinking at the moment. d) Do not worry about the punctuation, spelling, grammar or handwriting. e) If you cannot think of an English word or phrase, write that word or phrase in any other language, but do not stop writing to think about it. However, find out the English word or phrase later on and write it down where it should be written."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model cloze (from the first paragraph of Text 1 — Ana): 'I'm Ana. I'm 9 years old. I live in Betim. It is a city in Brazil in the continent of South America. Our national language is Portuguese.' Write the paragraph in your notebook, leaving every 5th word blank, then fill in the blanks from memory and check with the book. (Any paragraph from the unit done the same way is acceptable.)",
+                    "q": "Continue practicing the Self-created Cloze on one of the paragraphs of this text or on any other text. Refer to Unit 1.5 for guidance."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model: Read the paragraph 'We Are Different but We Are All Children' aloud in pairs — one student reads one sentence and the partner reads the next sentence, with correct pauses and intonation. Read it aloud every day.",
+                    "q": "Make sure that you find time to do some loud reading every day. Reading aloud will help you develop spoken language. You can also read the text in pairs. Your friend will read one sentence and you will read the next."
+                  }
+                ],
+                "label": "Exercise 3"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "5.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Present Simple verbs (green): make (given in the book), bring, eat, help, feed, pay, clean, cook, drink, teach.",
+                    "q": "Look at the following table. Colour the Present Simple verbs in green. Colour the Past Participle verbs in red. Which words are Present Simple verbs?"
+                  },
+                  {
+                    "a": "Past Participle verbs (red): driven (given in the book), liked, polished, taught, washed, done, eaten, taken, blown, won. The other words in the table (bird, woman, Peshawar, angry, snake, hungry, tree, zebra, insect, zoo, Karachi, happy, easy, zip, smart, child, hair, farm, fun, late, Kohat, uncle, teeth, house, Attock, man, elephant, star, Pasni) are not verbs.",
+                    "q": "Which words are Past Participle verbs?"
+                  }
+                ],
+                "label": "Fun with Verbs"
+              }
+            ],
+            "name": "Fun",
+            "num": "5.6"
+          }
+        ],
+        "title": "Knowing Children from Other Nations",
+        "unit": 5,
+        "words": [
+          {
+            "sd": "مشهور",
+            "syn": "well known",
+            "w": "famous"
+          },
+          {
+            "sd": "سڀ کان وڏو",
+            "syn": "biggest",
+            "w": "largest"
+          },
+          {
+            "sd": "پسنديده",
+            "syn": "most liked",
+            "w": "favourite"
+          },
+          {
+            "sd": "ٻوڙو",
+            "syn": "one who cannot hear",
+            "w": "deaf"
+          },
+          {
+            "sd": "گونگو",
+            "syn": "one who cannot speak",
+            "w": "dumb"
+          },
+          {
+            "sd": "برآمد ڪرڻ",
+            "syn": "send to another country",
+            "w": "export"
+          },
+          {
+            "sd": "شروع ٿئي ٿو",
+            "syn": "starts",
+            "w": "begins"
+          },
+          {
+            "sd": "سرڪاري",
+            "syn": "government-owned",
+            "w": "public"
+          },
+          {
+            "sd": "گرم ۽ نم",
+            "syn": "warm and damp",
+            "w": "humid"
+          },
+          {
+            "sd": "ميلو",
+            "syn": "a special celebration",
+            "w": "festival"
+          },
+          {
+            "sd": "ملهائڻ",
+            "syn": "to enjoy a special occasion",
+            "w": "celebrate"
+          },
+          {
+            "sd": "کنڊ",
+            "syn": "a very large area of land",
+            "w": "continent"
+          },
+          {
+            "sd": "ثقافت",
+            "syn": "the customs and ways of a people",
+            "w": "culture"
+          },
+          {
+            "sd": "مذهب",
+            "syn": "a belief in God",
+            "w": "religion"
+          },
+          {
+            "sd": "موقعو",
+            "syn": "a special time or event",
+            "w": "occasion"
+          },
+          {
+            "sd": "پاڙو",
+            "syn": "the area around one's home",
+            "w": "neighbourhood"
+          },
+          {
+            "sd": "عزت ڪرڻ",
+            "syn": "to honour someone",
+            "w": "respect"
+          },
+          {
+            "sd": "مختلف",
+            "syn": "not the same",
+            "w": "different"
+          },
+          {
+            "sd": "ٻولي",
+            "syn": "what people speak",
+            "w": "language"
+          },
+          {
+            "sd": "شوق",
+            "syn": "an activity done in free time for fun",
+            "w": "hobby"
+          }
+        ],
+        "display": "We Are Different but We Are All Children"
+      },
+      {
+        "reading": "Yes, You Can",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: 'Yes, You Can' means that if you work hard and believe in yourself, you can achieve your aim — nothing is impossible. (Any sensible guess is acceptable.)",
+                    "q": "The title of the text you are about to read is 'Yes, You Can'. What do you think it means?"
+                  },
+                  {
+                    "a": "Model answer: I want to become a teacher when I grow up. (Any honest personal answer is acceptable.)",
+                    "q": "What do you want to become when you grow up?"
+                  },
+                  {
+                    "a": "Model answer: To achieve my aim, I will have to study hard, work regularly, listen to my teachers and never give up. (Any honest personal answer is acceptable.)",
+                    "q": "What will you have to do to achieve your aim?"
+                  }
+                ],
+                "label": "Pre Reading"
+              },
+              {
+                "items": [
+                  {
+                    "a": "4 times — in questions (3) 'Why did you choose gymnastics?', (5) 'How has gymnastics helped you?', (9) 'How is gymnastics good for us?' and (10) 'Can anybody take up gymnastics if they want to?' (The words 'gymnast' and 'gymnasts' in questions (2) and (6) are not the word 'gymnastics'.)",
+                    "q": "Read the text quickly and find how many times the word 'gymnastics' is said by a) the interviewer."
+                  },
+                  {
+                    "a": "4 times — in answers (5) 'since now I coach children in gymnastics', (8) 'interested in sports and gymnastics' and 'children in gymnastics', and (9) 'Gymnastics is a sport so it is healthy.'",
+                    "q": "Read the text quickly and find how many times the word 'gymnastics' is said by b) Tahir."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Name: Mohammed Tahir.",
+                    "q": "In pairs, complete Tahir's profile in the box below. Identity Card — Name: ______"
+                  },
+                  {
+                    "a": "Date of Birth: January 1st. (The year of birth is not given in the text.)",
+                    "q": "Identity Card — Date of Birth: ______"
+                  },
+                  {
+                    "a": "Place of Birth: Karachi.",
+                    "q": "Identity Card — Place of Birth: ______"
+                  },
+                  {
+                    "a": "Place of Work: a local school in Karachi (sports and gymnastics coach).",
+                    "q": "Identity Card — Place of Work: ______"
+                  },
+                  {
+                    "a": "Hobbies: reading about sports, watching sports, playing table-tennis.",
+                    "q": "Identity Card — Hobbies: ______ ______ ______"
+                  },
+                  {
+                    "a": "Number of Children coached: more than a thousand.",
+                    "q": "Identity Card — Number of Children coached: ______"
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "gymnast (given in the book).",
+                    "q": "Read the interview carefully and find words which have the meanings given in the table below. The dialogue number is given to help you find the word in the text. 1. a person who performs gymnastics, especially in a competition (dialogue 2)."
+                  },
+                  {
+                    "a": "gymnastics.",
+                    "q": "2. physical exercises that develop the body's strength and ability to move and bend easily (dialogue 3)."
+                  },
+                  {
+                    "a": "hobby.",
+                    "q": "3. an activity done regularly in free time for fun (dialogue 3)."
+                  },
+                  {
+                    "a": "self-control.",
+                    "q": "4. the ability to control one's behaviour and feelings (dialogue 5)."
+                  },
+                  {
+                    "a": "coach. (In dialogue 5 the word 'coach' is used as a verb — 'I coach children in gymnastics'; the noun 'coach' is used in the introduction — 'a sports and gymnastics coach'.)",
+                    "q": "5. a person who trains people in sports (dialogue 5)."
+                  },
+                  {
+                    "a": "tolerant.",
+                    "q": "6. able to accept things that one does not like (dialogue 5)."
+                  },
+                  {
+                    "a": "routine.",
+                    "q": "7. something done very regularly, usually on a daily basis (dialogue 6)."
+                  },
+                  {
+                    "a": "stamina.",
+                    "q": "8. physical/mental strength that helps to do something difficult for long periods of time (dialogue 7)."
+                  },
+                  {
+                    "a": "talent.",
+                    "q": "9. natural skill or ability to do something (dialogue 8)."
+                  },
+                  {
+                    "a": "relaxes.",
+                    "q": "10. loosen up (dialogue 9)."
+                  },
+                  {
+                    "a": "stiff.",
+                    "q": "11. hard and painful (dialogue 9)."
+                  },
+                  {
+                    "a": "calms.",
+                    "q": "12. eases (dialogue 9)."
+                  },
+                  {
+                    "a": "stress.",
+                    "q": "13. something that causes worry/tension (dialogue 9)."
+                  },
+                  {
+                    "a": "flexible.",
+                    "q": "14. able to bend easily without breaking (dialogue 10)."
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "True. (Example given in the book.)",
+                    "q": "Work in pairs, read the text carefully, and tick the T column if the statement is true or the F column if it is false. 1. Tahir became a gymnast at the age of six."
+                  },
+                  {
+                    "a": "False — Tahir also likes reading and watching sports, and he is good at table-tennis.",
+                    "q": "2. Gymnastics was Tahir's only hobby."
+                  },
+                  {
+                    "a": "True — it has made him a better sportsman, a good teacher and a physically stronger person.",
+                    "q": "3. Gymnastics has helped him become a better teacher."
+                  },
+                  {
+                    "a": "False — he has already coached more than a thousand children in gymnastics.",
+                    "q": "4. He has recently started coaching children in gymnastics."
+                  },
+                  {
+                    "a": "False — Tahir says that to be successful in any sports, you have to practice very hard.",
+                    "q": "5. All sports do not require hard practice."
+                  },
+                  {
+                    "a": "False — one needs to develop mental and physical stamina.",
+                    "q": "6. One needs only physical stamina to become a good sportsperson."
+                  },
+                  {
+                    "a": "False — spicy and oily foods are harmful.",
+                    "q": "7. All sportspersons should eat spicy food."
+                  },
+                  {
+                    "a": "True — if you smoke, your lungs will become weak.",
+                    "q": "8. People who smoke usually have weak lungs."
+                  },
+                  {
+                    "a": "False — he has coached more than a thousand children.",
+                    "q": "9. Tahir has coached more than one hundred thousand children."
+                  },
+                  {
+                    "a": "True — it relaxes stiff muscles and it calms stress.",
+                    "q": "10. Gymnastics relaxes our muscles."
+                  },
+                  {
+                    "a": "False — Tahir says 'It is fun too!'",
+                    "q": "11. Gymnastics is not for fun."
+                  },
+                  {
+                    "a": "True — it is easier for children because their bones are soft and flexible. (The comparison with adults is implied in the text, not stated directly.)",
+                    "q": "12. Children's bones are softer than those of adults."
+                  },
+                  {
+                    "a": "False — Tahir says anybody can take up gymnastics: 'Why not!'",
+                    "q": "13. Everyone cannot become a gymnast."
+                  },
+                  {
+                    "a": "True — Tahir says to have a daily and weekly time-table.",
+                    "q": "14. We should have a daily and weekly schedule."
+                  },
+                  {
+                    "a": "False — Tahir says 'work, play, and work!' and that sports keep our mind and body active.",
+                    "q": "15. Playing is a waste of time so we should work all the time."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "As a person, gymnastics have helped Tahir in three ways: he has become a better sportsman, a good teacher and a physically stronger person.",
+                    "q": "Read the interview once again and in pairs complete the following statements by writing three things. Example: Tahir has three hobbies: reading about sports, watching sports, and playing table tennis. (Example given in the book.) Read dialogues 3-6 and answer: 1) As a person, gymnastics have helped Tahir in three ways: he has become ______."
+                  },
+                  {
+                    "a": "Three other benefits for Tahir have been: his body balance has become good, he has developed self-control, and he has become very tolerant (since he now coaches children in gymnastics).",
+                    "q": "2) Three other benefits for Tahir have been: ______."
+                  },
+                  {
+                    "a": "He does three things as part of his daily routine: he gets up early, sleeps early and eats on time. (The text lists more things too: he practices every day, keeps fit and jogs daily.)",
+                    "q": "3) He does three things as part of his daily routine: ______."
+                  },
+                  {
+                    "a": "He believes that to be successful in sports one must do these three things: practice very hard, stick to your goal, and be fair.",
+                    "q": "4) He believes that to be successful in sports one must do these three things: ______."
+                  },
+                  {
+                    "a": "In addition, he says that in order to become a successful sportsperson one must do these three things: develop mental and physical stamina, eat healthy food, and keep away from unhealthy habits.",
+                    "q": "Read dialogues 7-11 and answer: 5) In addition, he says that in order to become a successful sportsperson one must do these three things: ______."
+                  },
+                  {
+                    "a": "Tahir says that gymnastics as a sport is good for three reasons: it is healthy, it relaxes stiff muscles and it calms stress. (He also adds: it is fun too.)",
+                    "q": "6) Tahir says that gymnastics as a sport is good for three reasons: ______."
+                  },
+                  {
+                    "a": "Tahir's message to the children of Pakistan is that they should have faith in Allah and have three other qualities: respect your parents, help whenever and wherever you can, and never be selfish.",
+                    "q": "7) Tahir's message to the children of Pakistan is that they should have faith in Allah and have three other qualities: ______."
+                  },
+                  {
+                    "a": "Finally, he asks them to do three things to achieve success: have a daily and weekly time-table, pick up a healthy and positive sport, and work hard.",
+                    "q": "8) Finally, he asks them to do three things to achieve success: ______."
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Tahir chose gymnastics because his father and brothers are gymnasts, and he picked it up as a hobby.",
+                    "q": "Work with your partner, read the text, and answer the following questions in your notebook. 1) Why did Tahir choose gymnastics?"
+                  },
+                  {
+                    "a": "Allah has given Tahir the talent to help children interested in sports and gymnastics — to coach them.",
+                    "q": "2) What kind of talent does Tahir have?"
+                  },
+                  {
+                    "a": "He thinks it is best to start when a child is about five years old.",
+                    "q": "3) What does he think is a good age to start gymnastics?"
+                  },
+                  {
+                    "a": "Spicy and oily foods are bad for us; they are harmful.",
+                    "q": "4) What kind of food is bad for us?"
+                  },
+                  {
+                    "a": "Smoking is a bad habit that can harm us — it makes the lungs weak. Eating paan, chaaliya, tobacco and gutka is also dangerous for everybody, especially for sportspeople.",
+                    "q": "5) What are some of the bad habits that can harm us?"
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model answer (cricket): I would like to take up cricket. 1. Cricket keeps my body fit and active. 2. It teaches me to work as a team. 3. It is fun to play with my friends. 4. I can learn to bat, bowl and field. 5. Watching and playing cricket makes me happy. (Any sport with five things you like about it is acceptable.)",
+                    "q": "Which sport would you like to take up? On a piece of paper, write five things that you like about this sport. Exchange with your partner. Edit each other's work for spelling, punctuation and grammar. Write the corrected work in your notebook."
+                  }
+                ],
+                "label": "Exercise 7"
+              }
+            ],
+            "name": "Reading Comprehension",
+            "num": "6.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model answer: Role play the dialogue as given in the book, changing roles and repeating it. (Note: the book prints 'stich' — the correct spelling is 'stitch'.)",
+                    "q": "Work in pairs and role play the dialogue given below. First one student plays the role of Najma and the other of Zainab. Then they should change roles and repeat. Zainab: Tell me some things that you can do. Najma: I am learning how to cook. I can cook rice. Zainab: That's great! I can make tea. Najma: I can also stich my doll's clothes. Zainab: And I can play table tennis. Najma: I cannot play table tennis but I can play cricket. Zainab: Oh! I've never played cricket. I cannot hold a bat! Najma: It's easy. I can teach you."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model answer: Things I can do: I can ride a bicycle, I can swim, I can cook rice and I can speak Sindhi and Urdu. Things I cannot do: I cannot drive a car, I cannot play the guitar and I cannot speak English fluently. I can teach my friends to ride a bicycle and to swim. Only I can do in my group: I can recite the Holy Quran beautifully and I can make kites. (Any honest list is acceptable.)",
+                    "q": "In groups of four, discuss some of the things that you can do and some things that you cannot do. Offer to teach things that you can do to other students in your group. In your group think of some things that only one or two students of your group can do but which you think nobody else in the class can do. The group that can do the most things, which only students in that group can do, will be the winner."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Speaking",
+            "num": "6.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Why are you so happy? (Example given in the book.)",
+                    "q": "Fill in the blanks with the correct WH-Question from the ones given in brackets. Write the complete answers in your notebook. 1) Why are you so happy? (Why/Who/Whose)"
+                  },
+                  {
+                    "a": "Who is sitting behind you?",
+                    "q": "2) ______ is sitting behind you? (Where/Who/What)"
+                  },
+                  {
+                    "a": "How do you go to school?",
+                    "q": "3) ______ do you go to school? (How/Whose/Which)"
+                  },
+                  {
+                    "a": "When did the first lesson begin?",
+                    "q": "4) ______ did the first lesson begin? (When/How long/Who)"
+                  },
+                  {
+                    "a": "Where is the police-station?",
+                    "q": "5) ______ is the police-station? (What time/Why/Where)"
+                  },
+                  {
+                    "a": "What is the weather like in Nawabshah?",
+                    "q": "6) ______ is the weather like in Nawabshah? (How much/What/Why)"
+                  },
+                  {
+                    "a": "How much did the tickets cost?",
+                    "q": "7) ______ did the tickets cost? (How much/How many/How soon)"
+                  },
+                  {
+                    "a": "How often does she drink milk in a week?",
+                    "q": "8) ______ does she drink milk in a week? (When/How often/Who)"
+                  },
+                  {
+                    "a": "Whose book is that?",
+                    "q": "9) ______ book is that? (Whose/How far/When)"
+                  },
+                  {
+                    "a": "How many books were there?",
+                    "q": "10) ______ books were there? (How many/How much/How far)"
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Who likes lemon juice? (Example given in the book.)",
+                    "q": "Look at the answers given in the Answer column in the table below. In pairs, discuss the possible WH- Question that was asked. Write the answers in your notebook. 1. My little brother likes lemon juice."
+                  },
+                  {
+                    "a": "How many pencils did you have? (Example given in the book.)",
+                    "q": "2. I had seven pencils."
+                  },
+                  {
+                    "a": "When did you return from Quetta?",
+                    "q": "3. I returned from Quetta last night."
+                  },
+                  {
+                    "a": "How far was the airport?",
+                    "q": "4. The airport was about five miles away."
+                  },
+                  {
+                    "a": "What time did the drama serial begin?",
+                    "q": "5. The drama serial began at 8 o'clock."
+                  },
+                  {
+                    "a": "Whose bag is this?",
+                    "q": "6. This is Amina's bag."
+                  },
+                  {
+                    "a": "Where does your aunt live?",
+                    "q": "7. My aunt lives near our house."
+                  },
+                  {
+                    "a": "Who is knocking on the door?",
+                    "q": "8. The servant is knocking on the door."
+                  },
+                  {
+                    "a": "Which book is more interesting?",
+                    "q": "9. This book is more interesting than that one."
+                  },
+                  {
+                    "a": "When did you go to the seaside?",
+                    "q": "10. I went to the seaside yesterday."
+                  },
+                  {
+                    "a": "What is your favourite fruit?",
+                    "q": "11. My favourite fruit is pineapple."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1) Your question: What is your name? Your answer: My name is Ali.",
+                    "q": "Write ten 'Wh' questions that you can ask your friend. Then write the answers that you think your friend will give you. Write complete questions and complete answers in your notebook. 1) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "2) Your question: Where do you live? Your answer: I live in Hyderabad.",
+                    "q": "2) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "3) Your question: When do you go to school? Your answer: I go to school at 8 o'clock.",
+                    "q": "3) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "4) Your question: Who is your best friend? Your answer: Ahmed is my best friend.",
+                    "q": "4) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "5) Your question: Why do you like English? Your answer: I like English because it is a beautiful language.",
+                    "q": "5) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "6) Your question: Which subject do you like most? Your answer: I like English most.",
+                    "q": "6) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "7) Your question: Whose bag is this? Your answer: This is Amina's bag.",
+                    "q": "7) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "8) Your question: How do you go to school? Your answer: I go to school on foot.",
+                    "q": "8) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "9) Your question: How many brothers do you have? Your answer: I have two brothers.",
+                    "q": "9) Your question: ______ Your answer: ______"
+                  },
+                  {
+                    "a": "10) Your question: What time does the school start? Your answer: The school starts at 8 o'clock.",
+                    "q": "10) Your question: ______ Your answer: ______"
+                  }
+                ],
+                "label": "Exercise 3"
+              },
+              {
+                "items": [
+                  {
+                    "a": "If I go out tonight, I will go to the cinema. (Example given in the book.)",
+                    "q": "Complete the following First Conditional sentences using the correct form of the verbs given in the brackets. Write the complete sentences in your notebook. 1) If I go (go) out tonight, I will go (go) to the cinema."
+                  },
+                  {
+                    "a": "If you get back late, I will be angry.",
+                    "q": "2) If you ______ (get) back late, I ______ (be) angry."
+                  },
+                  {
+                    "a": "We will see each other next week if we do not see each other tomorrow.",
+                    "q": "3) We ______ (see) each other next week if we ______ (not/see) each other tomorrow."
+                  },
+                  {
+                    "a": "If he comes, I will be surprised.",
+                    "q": "4) If he ______ (come), I ______ (be) surprised."
+                  },
+                  {
+                    "a": "Anwar will be late if he waits here longer.",
+                    "q": "5) Anwar ______ (be) late if he ______ (wait) here longer."
+                  },
+                  {
+                    "a": "If we go on holiday this summer, we will go to China.",
+                    "q": "6) If we ______ (go) on holiday this summer, we ______ (go) to China."
+                  },
+                  {
+                    "a": "If the weather does not improve, we will not have a picnic.",
+                    "q": "7) If the weather ______ (not/improve), we ______ (not/have) a picnic."
+                  },
+                  {
+                    "a": "They will go to the party if they are invited.",
+                    "q": "8) They ______ (go) to the party if they ______ (be) invited."
+                  },
+                  {
+                    "a": "She will be tired tomorrow if she does not go to bed early.",
+                    "q": "9) She ______ (be) tired tomorrow if she ______ (not/go) to bed early."
+                  },
+                  {
+                    "a": "The children will feel sick if they eat all this cake.",
+                    "q": "10) The children ______ (feel) sick if they ______ (eat) all this cake."
+                  }
+                ],
+                "label": "Exercise 4"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The earth will be a better place if people don't cut trees. (Example given in the book.)",
+                    "q": "Match the sentences in Column A with those in Column B to form meaningful First Conditional sentences. Write the complete sentences in your notebook. (a) The earth will be a better place — ______"
+                  },
+                  {
+                    "a": "If you eat too much chocolate, you will get fat.",
+                    "q": "(b) If you eat too much chocolate, ______"
+                  },
+                  {
+                    "a": "The roads can be clean if people don't throw rubbish on them.",
+                    "q": "(c) The roads can be clean — ______"
+                  },
+                  {
+                    "a": "If we go to bed late, we cannot wake up early.",
+                    "q": "(d) If we go to bed late, ______"
+                  },
+                  {
+                    "a": "If she cooks dinner for him, he may feel happy.",
+                    "q": "(e) If she cooks dinner for him, ______"
+                  },
+                  {
+                    "a": "If mother tells me a story, I will sleep better.",
+                    "q": "(f) If mother tells me a story — ______"
+                  },
+                  {
+                    "a": "I will visit your village if you visit my city.",
+                    "q": "(g) I will visit your village — ______"
+                  },
+                  {
+                    "a": "If you scratch your feet again, I will take you to the doctor.",
+                    "q": "(h) If you scratch your feet again, ______"
+                  },
+                  {
+                    "a": "Fish will not die, if we don't throw trash in seas and rivers.",
+                    "q": "(i) Fish will not die, ______"
+                  },
+                  {
+                    "a": "If father stops eating tobacco, he will get better soon.",
+                    "q": "(j) If father stops eating tobacco, ______"
+                  }
+                ],
+                "label": "Exercise 5"
+              },
+              {
+                "items": [
+                  {
+                    "a": "If I see a snake near me, I will kill it. (Example given in the book.)",
+                    "q": "Use your imagination to answer the following in the First Conditional. 1) What will you do if you see a snake near you?"
+                  },
+                  {
+                    "a": "Model answer: If Tasneem has a free train ticket, she will go to Karachi. (Any sensible answer is acceptable.)",
+                    "q": "2) Where will Tasneem go if she has a free train ticket?"
+                  },
+                  {
+                    "a": "Model answer: If they have an extra mobile phone, they will give it to their friend. (Any sensible answer is acceptable.)",
+                    "q": "3) Whom will they give it to if they have an extra mobile phone?"
+                  },
+                  {
+                    "a": "Model answer: If I send him the card, he will come tomorrow. (Any sensible answer is acceptable.)",
+                    "q": "4) When will he come if I send him the card?"
+                  },
+                  {
+                    "a": "Model answer: If she has a pink dress and a blue one, she will choose the pink one. (Any sensible answer is acceptable.)",
+                    "q": "5) Which will she choose if she has a pink dress and a blue one?"
+                  },
+                  {
+                    "a": "Model answer: If it is hot this evening, we will go to the seaside. (Any sensible answer is acceptable.)",
+                    "q": "6) Where will we go if it is hot this evening?"
+                  },
+                  {
+                    "a": "Model answer: If they give him a gift, he will thank them. (Any sensible answer is acceptable.)",
+                    "q": "7) What will he do if they give him a gift?"
+                  },
+                  {
+                    "a": "Model answer: If we go to the party, we will meet our friends. (Any sensible answer is acceptable.)",
+                    "q": "8) Who will we meet if we go to the party?"
+                  },
+                  {
+                    "a": "Model answer: If we send the car, they will come at 5 o'clock. (Any sensible answer is acceptable.)",
+                    "q": "9) What time will they come if we send the car?"
+                  },
+                  {
+                    "a": "Model answer: If we arrive early, the bus will leave on time. (Any sensible answer is acceptable.)",
+                    "q": "10) When will the bus leave if we arrive early?"
+                  }
+                ],
+                "label": "Exercise 6"
+              },
+              {
+                "items": [
+                  {
+                    "a": "1-d: Saeed will travel to school by bus — His bicycle is at the mechanic's. (Example given in the book.)",
+                    "q": "Match the sentences in column A with those in column B to show the Cause and Effect / Result relationship. Write your answer in column C. 1. Saeed will travel to school by bus. — ______"
+                  },
+                  {
+                    "a": "2-g: Jaleel was soaked from head to toe — He walked in the rain from school.",
+                    "q": "2. Jaleel was soaked from head to toe. — ______"
+                  },
+                  {
+                    "a": "3-j: Daud would like to buy a new watch — His old one fell in the river.",
+                    "q": "3. Daud would like to buy a new watch. — ______"
+                  },
+                  {
+                    "a": "4-h: She was crying — Maria lost her new doll.",
+                    "q": "4. She was crying. — ______"
+                  },
+                  {
+                    "a": "5-c: I have a beautiful garden — Many people come to admire my garden.",
+                    "q": "5. I have a beautiful garden. — ______"
+                  },
+                  {
+                    "a": "6-i: It was a hot summer day — We all decided to have cold lassi.",
+                    "q": "6. It was a hot summer day. — ______"
+                  },
+                  {
+                    "a": "7-a: She was looking after the baby — Mother did not cook last night.",
+                    "q": "7. She was looking after the baby. — ______"
+                  },
+                  {
+                    "a": "8-b: There was a banana peel on the floor — Hajrah slipped and fell down.",
+                    "q": "8. There was a banana peel on the floor. — ______"
+                  },
+                  {
+                    "a": "9-e: The fruit was not washed properly — I got sick when I ate it.",
+                    "q": "9. The fruit was not washed properly. — ______"
+                  },
+                  {
+                    "a": "10-f: It was my sister's wedding — We served biryani for dinner.",
+                    "q": "10. It was my sister's wedding. — ______"
+                  }
+                ],
+                "label": "Exercise 7"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Saeed will travel to school by bus as his bicycle is at the mechanic's. OR As his bicycle is at the mechanic's, Saeed will travel to school by bus. (Example given in the book.)",
+                    "q": "Rewrite the matched sentences in column C by using as and because. 1) Saeed will travel to school by bus. His bicycle is at the mechanic's."
+                  },
+                  {
+                    "a": "Jaleel was soaked from head to toe as he walked in the rain from school. OR Jaleel was soaked from head to toe because he walked in the rain from school.",
+                    "q": "2) Jaleel was soaked from head to toe. He walked in the rain from school."
+                  },
+                  {
+                    "a": "Daud would like to buy a new watch as his old one fell in the river. OR Daud would like to buy a new watch because his old one fell in the river.",
+                    "q": "3) Daud would like to buy a new watch. His old one fell in the river."
+                  },
+                  {
+                    "a": "She was crying as Maria lost her new doll. OR She was crying because Maria lost her new doll.",
+                    "q": "4) She was crying. Maria lost her new doll."
+                  },
+                  {
+                    "a": "I have a beautiful garden as many people come to admire my garden. OR I have a beautiful garden because many people come to admire my garden.",
+                    "q": "5) I have a beautiful garden. Many people come to admire my garden."
+                  },
+                  {
+                    "a": "We all decided to have cold lassi as it was a hot summer day. OR We all decided to have cold lassi because it was a hot summer day.",
+                    "q": "6) It was a hot summer day. We all decided to have cold lassi."
+                  },
+                  {
+                    "a": "Mother did not cook last night as she was looking after the baby. OR Mother did not cook last night because she was looking after the baby.",
+                    "q": "7) She was looking after the baby. Mother did not cook last night."
+                  },
+                  {
+                    "a": "Hajrah slipped and fell down as there was a banana peel on the floor. OR Hajrah slipped and fell down because there was a banana peel on the floor.",
+                    "q": "8) There was a banana peel on the floor. Hajrah slipped and fell down."
+                  },
+                  {
+                    "a": "I got sick as the fruit was not washed properly. OR I got sick because the fruit was not washed properly.",
+                    "q": "9) The fruit was not washed properly. I got sick when I ate it."
+                  },
+                  {
+                    "a": "We served biryani for dinner as it was my sister's wedding. OR We served biryani for dinner because it was my sister's wedding.",
+                    "q": "10) It was my sister's wedding. We served biryani for dinner."
+                  }
+                ],
+                "label": "Exercise 8"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model sentences: 1. I want to learn English because it is an international language. 2. I want to learn English as I want to read English books and newspapers. 3. I want to learn English because I want to talk to people from other countries. (Any three sentences of your own are acceptable.)",
+                    "q": "Write three sentences using as/because to state why you want to learn English."
+                  }
+                ],
+                "label": "Exercise 9"
+              }
+            ],
+            "name": "Language Practice",
+            "num": "6.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model filled form (in CAPITAL LETTERS, as the form asks): Name: AHMED ALI. Father's name: MUHAMMAD ALI. Mother's name: FATIMA. Address: HOUSE NO. 12, STREET 3, HYDERABAD. Phone number: NIL. Number of siblings: 3. Date of birth: 5 MARCH 2014. City/Town/Village of Birth: HYDERABAD. School: GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR. Class: 6. Favourite subject: ENGLISH. Three good habits: I GET UP EARLY, I HELP MY MOTHER, I DO MY HOMEWORK. Three bad habits: I WATCH TOO MUCH TELEVISION, I SOMETIMES FIGHT WITH MY BROTHER, I DO NOT DRINK MILK. Colour of eyes: BROWN. Favourite colour: GREEN. Favourite sport: CRICKET. Favourite food: BIRYANI. One thing you like: READING STORY BOOKS. One thing you dislike: NOISE. Languages you can speak: SINDHI, URDU AND ENGLISH. Message for Pakistani children: WORK HARD AND PLAY WELL. Model WH questions to ask: What is your name? What is your father's name? What is your mother's name? Where do you live? What is your date of birth? Which school do you study in? Which class are you in? What is your favourite subject? What are your good habits? What is your favourite sport? (Any complete WH questions that fill the form are acceptable.)",
+                    "q": "Interview a friend and fill in the personal information form given on the previous page. Follow these guidelines: 1) Work in pairs. 2) Make some WH Questions that you can ask your friend in order to fill the form. 3) Look at the text in section 6.1 about Mohammed Tahir's interview for guidance. 4) Interview one of your classmates; not the partner you worked with. 5) Ask the questions and fill in the form. Use complete questions. 6) After you have finished filling, show the form to your classmate to check if the spellings and information are correct. Rectify your mistakes, if any. 7) Sign the form in the interviewer space. Ask the person you interviewed to sign in the interviewee space. 8) Next, someone else should interview you to fill your form. Follow steps 5 and 6 above. The form (write in CAPITAL LETTERS): Name, Father's name, Mother's name, Address, Phone number (if any — write NIL if no phone number), Number of siblings (brothers and sisters), Date of birth, City/Town/Village of Birth, School, Class, Favourite subject, Three good habits, Three bad habits, Colour of eyes, Favourite colour, Favourite sport, Favourite food, One thing you like, One thing you dislike, Languages you can speak, Message for Pakistani children, Signature of interviewer and Date, Signature of interviewee and Date."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model paragraphs (about Ahmed Ali, from the form in Exercise 1): Paragraph 1 — Personal information: My friend's name is Ahmed Ali. His father's name is Muhammad Ali and his mother's name is Fatima. He was born on 5 March 2014 in Hyderabad. He lives in House No. 12, Street 3, Hyderabad. He has three brothers and sisters. Paragraph 2 — Education related information: Ahmed studies in Class 6 at Government Boys Lower Secondary School Haseeja Mahar. His favourite subject is English. He can speak Sindhi, Urdu and English. Paragraph 3 — Good and bad habits: Ahmed has many good habits. He gets up early, he helps his mother and he does his homework regularly. But he also has some bad habits. He watches too much television, he sometimes fights with his brother and he does not drink milk. Paragraph 4 — Favourite items and likes and dislikes: Ahmed's favourite colour is green and his favourite sport is cricket. His favourite food is biryani. He likes reading story books, but he dislikes noise. His message for Pakistani children is: 'Work hard and play well.'",
+                    "q": "Use the information in the form to write four paragraphs about the classmate you interviewed. After you have written, exchange your work with your partner. Check each other's work for spelling, punctuation and grammar. You can divide the information as follows: Paragraph 1: Personal information. Paragraph 2: Education related information. Paragraph 3: Good and bad habits. Paragraph 4: Favourite items and likes and dislikes."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Writing",
+            "num": "6.4"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Model ranking (the order is personal — any honest order is acceptable): 1. learn different subjects. 2. know about the world. 3. learn discipline. 4. make my parents proud. 5. know about what is good and bad. 6. find out what I am interested in. 7. learn how to work with books. 8. meet other young people. 9. test my smartness. 10. have a good time.",
+                    "q": "My priorities: Why go to school? In the boxes on the left, number the following sentences 1-10 as reasons for going to school in the order that they are important to you. Write No 1 for the most important and No 10 for the least important. Match your list with your friend's. I go to school because I want to: know about the world; meet other young people; know about what is good and bad; learn different subjects; find out what I am interested in; test my smartness; learn how to work with books; have a good time; learn discipline; make my parents proud."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model cloze (from the introduction of section 6.1): 'Mohammed Tahir is a Sindh Gymnast Champion. He has been a member of the Sindh Sports Board since 1993. He has competed for the Sindh Team of Gymnastics in Hyderabad, Islamabad, Karachi, Lahore, Larkana, Quetta and other cities of Sindh.' Write the paragraph in your notebook, leaving every 5th word blank, then fill in the blanks from memory and check with the book. (Any paragraph from the unit done the same way is acceptable.)",
+                    "q": "Remember to do the Cloze activity as shown in Unit 1.5."
+                  }
+                ],
+                "label": "Exercise 2"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model: Do free writing for 5 minutes every day, following the steps in Unit 5.5 — choose a topic, write without stopping, and do not worry about punctuation, spelling, grammar or handwriting. Model free-writing sample (on 'My Hobby', written without stopping): My hobby is playing cricket I play cricket with my friends every evening in the ground near my house I am a good batsman I hit the ball very far my friends clap for me sometimes I bowl too I like to bowl fast the ball goes very fast and the batsman cannot hit it we play till it is dark then we go home tired but happy cricket is my favourite game I want to be a good cricketer when I grow up.",
+                    "q": "Remember to do the Free Writing activity as shown in Unit 5.5."
+                  }
+                ],
+                "label": "Exercise 3"
+              }
+            ],
+            "name": "Study Skills",
+            "num": "6.5"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "play — P(6,3) L(5,4) A(4,5) Y(3,6), diagonally upwards. (Example marked in the book.)",
+                    "q": "Find these words in the square given below. The words can be formed in any direction. Word: play."
+                  },
+                  {
+                    "a": "collect — row 8, C(8,3) O(8,4) L(8,5) L(8,6) E(8,7) C(8,8) T(8,9), left to right.",
+                    "q": "Word: collect."
+                  },
+                  {
+                    "a": "sing — row 10, S(10,4) I(10,5) N(10,6) G(10,7), left to right.",
+                    "q": "Word: sing."
+                  },
+                  {
+                    "a": "sew — row 5, S(5,8) E(5,9) W(5,10), left to right.",
+                    "q": "Word: sew."
+                  },
+                  {
+                    "a": "write — column 7, W(4,7) R(5,7) I(6,7) T(7,7) E(8,7), top to bottom.",
+                    "q": "Word: write."
+                  },
+                  {
+                    "a": "swim — column 10, S(4,10) W(5,10) I(6,10) M(7,10), top to bottom.",
+                    "q": "Word: swim."
+                  },
+                  {
+                    "a": "paint — column 1, P(4,1) A(5,1) I(6,1) N(7,1) T(8,1), top to bottom.",
+                    "q": "Word: paint."
+                  },
+                  {
+                    "a": "log — L(8,6) O(7,5) G(6,4), diagonally upwards to the left.",
+                    "q": "Word: log."
+                  },
+                  {
+                    "a": "skip — row 1, S(1,1) K(1,2) I(1,3) P(1,4), left to right.",
+                    "q": "Word: skip."
+                  },
+                  {
+                    "a": "read — row 9, R(9,7) E(9,8) A(9,9) D(9,10), left to right.",
+                    "q": "Word: read."
+                  },
+                  {
+                    "a": "mew — row 1, M(1,8) E(1,9) W(1,10), left to right.",
+                    "q": "Word: mew."
+                  },
+                  {
+                    "a": "run — row 2, R(2,3) U(2,4) N(2,5), left to right.",
+                    "q": "Word: run."
+                  }
+                ],
+                "label": "Exercise 1"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Model funny sentences: 1. The cat is singing in the bathroom. 2. My little brother is swimming in the bathtub with his shoes on. 3. The dog is reading my English book. (Any funny sentences using two of the words are acceptable.)",
+                    "q": "Now use any two words to form funny sentences. You can use any form of the verbs. Share your funny sentences with your classmates. Examples: I like to collect crows. My sister paints all her dresses orange. The birds are writing with silver pencils."
+                  }
+                ],
+                "label": "Exercise 2"
+              }
+            ],
+            "name": "Fun",
+            "num": "6.6"
+          }
+        ],
+        "title": "Learning Through Personal Interests, Abilities And Hobbies",
+        "unit": 6,
+        "words": [
+          {
+            "sd": "جمناسٽ",
+            "syn": "a person who performs gymnastics",
+            "w": "gymnast"
+          },
+          {
+            "sd": "جمناسٽڪس",
+            "syn": "physical exercises that develop strength and flexibility",
+            "w": "gymnastics"
+          },
+          {
+            "sd": "چيمپيئن",
+            "syn": "a winner in a competition",
+            "w": "champion"
+          },
+          {
+            "sd": "مقابلو ڪرڻ",
+            "syn": "to take part in a contest",
+            "w": "compete"
+          },
+          {
+            "sd": "تمغو",
+            "syn": "a prize made of metal",
+            "w": "medal"
+          },
+          {
+            "sd": "شوق",
+            "syn": "an activity done in free time for fun",
+            "w": "hobby"
+          },
+          {
+            "sd": "پاڻ تي ضابطو",
+            "syn": "the ability to control one's behaviour and feelings",
+            "w": "self-control"
+          },
+          {
+            "sd": "ڪوچ",
+            "syn": "a person who trains people in sports",
+            "w": "coach"
+          },
+          {
+            "sd": "برداشت ڪندڙ",
+            "syn": "able to accept things one does not like",
+            "w": "tolerant"
+          },
+          {
+            "sd": "معمول",
+            "syn": "something done very regularly",
+            "w": "routine"
+          },
+          {
+            "sd": "طاقت",
+            "syn": "strength to do something difficult for a long time",
+            "w": "stamina"
+          },
+          {
+            "sd": "ڏات",
+            "syn": "natural skill or ability",
+            "w": "talent"
+          },
+          {
+            "sd": "آرام ڏئي ٿو",
+            "syn": "loosens up",
+            "w": "relaxes"
+          },
+          {
+            "sd": "سخت",
+            "syn": "hard and painful",
+            "w": "stiff"
+          },
+          {
+            "sd": "پرسکون ڪري ٿو",
+            "syn": "eases",
+            "w": "calms"
+          },
+          {
+            "sd": "دٻاءُ",
+            "syn": "worry or tension",
+            "w": "stress"
+          },
+          {
+            "sd": "لچڪدار",
+            "syn": "able to bend easily without breaking",
+            "w": "flexible"
+          },
+          {
+            "sd": "فائدو",
+            "syn": "a good result",
+            "w": "benefit"
+          },
+          {
+            "sd": "توازن",
+            "syn": "keeping steady",
+            "w": "balance"
+          },
+          {
+            "sd": "فخر",
+            "syn": "feeling pleased about something",
+            "w": "proud"
+          }
+        ],
+        "display": "Yes, You Can"
+      }
+    ],
   }
 };
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
@@ -59471,7 +63822,7 @@ function renderSubjectMaterial(cls, subj){
     if(!data){ box.innerHTML = ""; return; }
     matTabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
     if(data.notes) matTabs.push(["notes", "Notes"]);
-    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii") && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
+    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi") && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
     matTabs.forEach(function(t){
       html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
     });
