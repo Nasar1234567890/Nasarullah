@@ -37575,7 +37575,7 @@ var STUDY = {
                 "a": "Speed = 70 [[km/h]]\nSpeed = [[70/60]] [[km/minute]]\n= [[7/6]] [[km/minute]]\n= 1 [[1/6]] [[km/minute]]"
               },
               {
-                "q": "A vehicle takes 3 hours to complete the distance of 210 km. (iii) What is its speed in [[[[m/s]]ec]]",
+                "q": "A vehicle takes 3 hours to complete the distance of 210 km. (iii) What is its speed in [[m/sec]]",
                 "a": "Speed = 70 [[km/h]]\nSpeed = 70 × [[1000/3600]] [[m/s]]\n= [[70000/3600]] [[m/s]]\n= 19.4 [[m/s]]"
               },
               {
@@ -37624,7 +37624,7 @@ var STUDY = {
                 "a": "105 [[m/s]] = 105 ÷ [[1000/3600]] [[km/h]]\n= 105 × [[3600/1000]] [[km/h]]\n= [[378000/1000]] [[km/h]]\n= 378 [[km/h]]"
               },
               {
-                "q": "A car covers a distance of 30 km in 25 minutes. How much distance can it cover in 55 minutes? Also find its speed in (i) [[km/h]] (ii) [[k[[m/minute]]]] (iii) [[m/minute]] (iv) [[[[m/s]]ec]]",
+                "q": "A car covers a distance of 30 km in 25 minutes. How much distance can it cover in 55 minutes? Also find its speed in (i) [[km/h]] (ii) [[k[[m/minute]]]] (iii) [[m/minute]] (iv) [[m/sec]]",
                 "a": "x = distance covered in 55 minutes (km)\nDistance : Time\n30 : 25\nx : 55\nDirect Proportion\n30 : x = 25 : 55\n25 × x = 30 × 55\n25 × x = 1650\n[[25 × x/25]] = [[1650/25]]\nx = 66\n66 km\n(i) Speed = 30 ÷ [[25/60]] [[km/h]]\n= 30 × [[60/25]] [[km/h]]\n= [[1800/25]] [[km/h]]\n= 72 [[km/h]]\n(ii) Speed = [[30/25]] [[km/minute]]\n= 1.2 [[km/minute]]\n(iii) Speed = 1.2 × 1000 [[m/minute]]\n= 1200 [[m/minute]]\n(iv) Speed = [[1200/60]] [[m/sec]]\n= 20 [[m/sec]]"
               },
               {
@@ -39260,6 +39260,3158 @@ var STUDY = {
         "display": "Information Handling"
       }
     ]
+  },
+  "vi": {
+    "mathsolutions": [
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) Set\n(ii) Set\n(iii) Not a set\n(iv) Not a set\n(v) Not a set\n(vi) Set",
+                "q": "Tick (✓) which of the following are sets?\n(i) Collection of the names of Presidents of Pakistan.\n(ii) Collection of names of captains of hockey teams of Pakistan.\n(iii) Collection of delicious dishes.\n(iv) Collection of intelligent students in your class.\n(v) Collection of greater numbers.\n(vi) Collection of English teachers in your school."
+              },
+              {
+                "a": "(i) 5 ∈ A\n(ii) 9 ∉ A\n(iii) m ∉ A\n(iv) c ∈ B\n(v) b ∈ B\n(vi) 7 ∉ B",
+                "q": "If A = {5, 6, 7, 8} and B = {a, b, c, d}, fill in the blanks with the symbols ∈ or ∉.\n(i) 5 ______ A\n(ii) 9 ______ A\n(iii) m ______ A\n(iv) c ______ B\n(v) b ______ B\n(vi) 7 ______ B"
+              },
+              {
+                "a": "(i) {Karachi, Lahore, Quetta, Peshawar, Gilgit}\n(ii) {50, 51, 52, ..., 69, 70}\n(iii) {2, 4, 6, 8, 10, 12, 14, 16, 18, 20}\n(iv) {p, a, k, i, s, t, n}\n(v) {Names of mathematics teachers in your school}\n(vi) {White, Green}",
+                "q": "Write in tabular form.\n(i) Set of name of capitals of the provinces of Pakistan.\n(ii) Set of natural numbers from 50 to 70.\n(iii) Set of first ten natural numbers exactly divisible by 2.\n(iv) Set of letters in the word “pakistan”.\n(v) Set of mathematics teachers in your school.\n(vi) Set of name of colours of national flag."
+              },
+              {
+                "a": "(i) True\n(ii) True\n(iii) False\n(iv) False\n(v) False\n(vi) True\n(vii) False\n(viii) True",
+                "q": "If P = {a, e, i, o, u} and Q = {1, 2, 3, ..., 10} then which of the following statements are true or false.\n(i) a ∈ P ______\n(ii) 1 ∈ Q ______\n(iii) i ∈ Q ______\n(iv) v ∈ P ______\n(v) y ∈ Q ______\n(vi) e ∈ P ______\n(vii) 3 ∈ P ______\n(viii) 7 ∈ Q ______"
+              }
+            ],
+            "label": "Exercise 1.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) {d, o, o, r}\no is repeated\n(ii) {★, O, ★, Δ}\n★ is repeated\n(iii) {a, f, d, a}\na is repeated\n(iv) {2, 2, 3, 3, 4, 4}\n2, 3 and 4 are repeated\n(v) Set of beautiful birds\nNot well defined\n(vi) Set of good players\nNot well defined",
+                "q": "Give reasons why following collections are not set.\n(i) {d, o, o, r}\n(ii) {★, O, ★, Δ}\n(iii) {a, f, d, a}\n(iv) {2, 2, 3, 3, 4, 4}\n(v) Set of beautiful birds\n(vi) Set of good players"
+              },
+              {
+                "a": "(i) Finite\n(ii) Infinite\n(iii) Infinite\n(iv) Finite\n(v) Finite\n(vi) Infinite\n(vii) Infinite\n(viii) Finite\n(ix) Finite\n(x) Infinite",
+                "q": "Which of the following are finite or infinite sets?\n(i) A = {0, 1, 2, ..., 50}.\n(ii) B = {100, 200, 300, 400, ...}.\n(iii) Set of hair on the body of goat.\n(iv) Set of legs of a cat.\n(v) Set of stars in the sky.\n(vi) Set of lines passing through a point.\n(vii) Set of natural numbers greater than 20.\n(viii) Set of all the cities of Pakistan.\n(ix) Set of all the schools in Sindh.\n(x) Set of all even numbers."
+              },
+              {
+                "a": "(i) Empty set\n(ii) Empty set\n(iii) Not an empty set\n(iv) Empty set\n(v) Empty set\n(vi) Not an empty set\n{6, 8}\n(vii) Not an empty set\n{0}\n(viii) Not an empty set\n{∅}",
+                "q": "Which of the following are empty sets?\n(i) Set of students of your class over 20 years of age.\n(ii) Set of letters after Z in English alphabet.\n(iii) Set of children whose names start with “K” in your locality.\n(iv) Set of name of solar calendar starting with Z.\n(v) Set of fishes which live in sand.\n(vi) Set of even numbers between 4 and 10.\n(vii) {0}\n(viii) {∅}"
+              },
+              {
+                "a": "(i) Equal sets\n(ii) Equal sets\n(iii) Not equal sets\n(iv) Not equal sets\n{x, y, z} ≠ {a, b, c}\n(v) Not equal sets\n{1} ≠ { }",
+                "q": "Which pairs of the following are equal sets?\n(i) {1, 2, 3} and {2, 3, 1}\n(ii) {p, a, t} and {t, a, p}\n(iii) {k, i, t, e} and {b, i, t, e}\n(iv) {x, y, z} and set of first three letters of English alphabet.\n(v) Set of odd numbers less than 2 and { }"
+              },
+              {
+                "a": "(i) Equivalent sets\n4 = 4\n(ii) Equivalent sets\n3 = 3\n(iii) Equivalent sets\n5 = 5\n(iv) Not equivalent sets\n4 ≠ 3",
+                "q": "Which pairs of the following are equivalent sets?\n(i) {m, i, l, e} and {n, i, l, e}\n(ii) {1, 2, 3} and {3, 2, 1}\n(iii) {Δ, ▭, ○, ★, □} and {1, 2, 3, 4, 5}\n(iv) {6, 66, 666, 6666} and {666, 7777, 77}"
+              },
+              {
+                "a": "(i) True\n(ii) False\n(iii) True\n(iv) False\n(v) True",
+                "q": "Which of the following statements are true or false?\n(i) B = {m, o, n} if B is Set of letters of word “MOON”.\n(ii) A ⊆ B if A = {1, 2} and B is {2, 3, 4, 5}\n(iii) If A = {4, 5, 10} and B is {5, 10, 20} then A ~ B.\n(iv) If A = {0, 1, 2, 3, 5} and B is Set of natural numbers less than 6, then A = B.\n(v) If X is equal to Y, then X is equivalent to Y."
+              },
+              {
+                "a": "(i) {10, 20, 30} ⊆ {5, 10, 15, 20, 25, 30}\n(ii) {7, 14, 21, 28, 35, 42, 49} = Set of multiples of 7 less than 50\n(iii) {5, 6, 7, 8, ...} ⊇ {7, 5, 8}\n(iv) {0} ⊇ { }\n(v) {t, e, a} = {a, e, t}\n(vi) {Hyderabad, Karachi, Sukkur} ⊆ Set of all cities of Sindh\n(vii) {a, e, i, o, u} ⊂ Set of letters of English alphabets\n(viii) {11, 22, 33} ⊆ {1, 2, 3, ...}",
+                "q": "Choose appropriate symbol to indicate the relation between sets (=, ⊆, ⊈, ⊇, ~, ⊂)\n(i) {10, 20, 30} ______ {5, 10, 15, 20, 25, 30}\n(ii) {7, 14, 21, 28, 35, 42, 49} ______ Set of multiples of 7 less than 50.\n(iii) {5, 6, 7, 8, ...} ______ {7, 5, 8}\n(iv) {0} ______ { }\n(v) {t, e, a} ______ {a, e, t}\n(vi) {Hyderabad, Karachi, Sukkur} ______ Set of all cities of Sindh.\n(vii) {a, e, i, o, u} ______ Set of letters of English alphabets.\n(viii) {11, 22, 33} ______ {1, 2, 3, ...}"
+              }
+            ],
+            "label": "Exercise 1.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) elements\n(ii) empty\n(iii) finite\n(iv) same",
+                "q": "Fill in the blanks.\n(i) If A = {a, b, c} then a, b, c are ______ of a set A.\n(ii) A set which has no element is called ______ set.\n(iii) A set which has limited number of elements is called a ______ set.\n(iv) If two sets A and B have ______ elements, then they are said to be equal sets."
+              },
+              {
+                "a": "(i) (d) a ∈ B\n(ii) (d) singleton set\n(iii) (d) =\n(iv) (c) A ⊂ B",
+                "q": "Choose the correct answer.\n(i) If B is set of vowels of English alphabet:\n(a) p ∈ B (b) e ∉ B (c) b ∈ B (d) a ∈ B\n(ii) {f} is called:\n(a) null set (b) infinite set (c) subset (d) singleton set\n(iii) If sets A and B are equal, we use symbol\n(a) ∈ (b) ⊂ (c) ~ (d) =\n(iv) If A = {a, b, c} and B = {a, b, c, d, e} then\n(a) A = B (b) A ~ B (c) A ⊂ B (d) B ⊂ A"
+              },
+              {
+                "a": "{1, 2, 3, 4, 5}\n{a, e, i, o, u}",
+                "q": "Write two examples of set."
+              },
+              {
+                "a": "(i) A = {4, 6, 8}\n(ii) B = {1, 3, 5, 7, 9, 11, 13, 15, 17}\n(iii) C = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28}\n(iv) D = {January, June, July}",
+                "q": "Write the following sets in tabular form.\n(i) A is Set of all even numbers between 2 and 10.\n(ii) B is Set of all odd numbers from 1 to 17.\n(iii) C is Set of natural numbers divisible by 2 and less than 30.\n(iv) D is Set of months of a solar calendar beginning with letter “J”."
+              },
+              {
+                "a": "(i) A is a finite set\n(ii) B is an infinite set\n(iii) C is a finite set\n{2, 3, 5}\n(iv) D is an infinite set\n(v) E is a finite set\n{1, 2, 3, 4, 5, 6, 7, 8, 9}",
+                "q": "Which of these sets are finite and which of these are infinite.\n(i) A is Set of members of your family\n(ii) B is Set of all even numbers\n(iii) C is Set of prime factors of 60\n(iv) D is Set of all multiples of 7\n(v) E is Set of one-digit natural numbers"
+              },
+              {
+                "a": "(i) Not an empty set\nL = {Saturday, Sunday}\n(ii) Empty set\n(iii) Empty set\n(iv) Not an empty set\nN = {2}",
+                "q": "Which of the following are empty sets.\n(i) L is Set of the names of days of a week which start with “S”.\n(ii) F is Name of months of a year having 32 days.\n(iii) M is Set of odd numbers exactly divisible by 2.\n(iv) N is Set of prime numbers exactly divisible by 2."
+              },
+              {
+                "a": "(i) True\n(ii) True\n(iii) False\n(iv) True",
+                "q": "If A = {d}, B = {c, d}, C = {a, b, c}, D = {a, b} then which of the following statements are true or false.\n(i) D ⊆ C\n(ii) A ⊈ C\n(iii) B ⊆ D\n(iv) C ⊈ D"
+              },
+              {
+                "a": "(i) False\n(ii) True\n(iii) False\n(iv) False\n(v) True\n(vi) True\n(vii) False\n(viii) False\n(ix) False",
+                "q": "Indicate which of the following statements are true and false?\n(i) The members of any set are always of same kind.\n(ii) The order of the elements of a set does not matter.\n(iii) An object can be included in a set repeatedly.\n(iv) Any collection of objects is called a set.\n(v) The notation “∈” is a symbol to indicate membership of a set.\n(vi) A well-defined collection of distinct objects is called a set.\n(vii) {a, b, c, d} is not a set.\n(viii) The notation “∉” is a symbol to indicate membership of a set.\n(ix) 1, 2, 3, 4 is a set."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Sets",
+        "unit": 1,
+        "display": "Sets"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) 1\n(ii) 0\n(iii) Not possible\n(iv) Not possible",
+                "q": "Write, if possible:\n(i) The smallest natural number\n(ii) The smallest whole number\n(iii) The largest natural number\n(iv) The largest whole number"
+              },
+              {
+                "a": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+                "q": "Write first ten natural numbers."
+              },
+              {
+                "a": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                "q": "Write first ten whole numbers."
+              },
+              {
+                "a": "(i) 9, 10, 11, 12, ...\n(ii) 0, 1, 2, 3, 4, 5, 6, 7\n(iii) 8, 9, 10, 11, 12, ...\n(iv) 0, 1, 2, 3, 4, 5, 6, 7, 8\n(v) 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14\n(vi) 6, 7, 8, 9, 10, 11, 12\n(vii) 4, 5, 6, 7, 8, 9, 10, 11\n(viii) 3, 4, 5, 6, 7, 8\n(ix) 5, 7, 9, 11, ...\n(x) 8, 10, 12, 14",
+                "q": "Represent on number line:\n(i) Whole numbers > 8\n(ii) Whole numbers < 8\n(iii) Whole numbers ≥ 8\n(iv) Whole numbers ≤ 8\n(v) Whole numbers > 3 but < 15\n(vi) Whole numbers > 5 but ≤ 12\n(vii) Whole numbers ≥ 4 but ≤ 11\n(viii) Whole numbers ≥ 3 but < 9\n(ix) Odd whole numbers greater than 3\n(x) Even whole numbers greater than or equal to 8 but less than 16."
+              },
+              {
+                "a": "(i) 0 → 1 → 6\n1 + 5 = 6\n(ii) 0 → 6 → 9\n6 + 3 = 9\n(iii) 0 → 10 → 12\n10 + 2 = 12\n(iv) 0 → 8 → 12\n8 + 4 = 12\n(v) 0 → 2 → 5 → 10\n2 + 3 + 5 = 10\n(vi) 0 → 3 → 5 → 9\n3 + 2 + 4 = 9",
+                "q": "Find sum of the following whole numbers by using number line.\n(i) 1 and 5\n(ii) 6 and 3\n(iii) 10 and 2\n(iv) 8 and 4\n(v) 2, 3 and 5\n(vi) 3, 2 and 4"
+              }
+            ],
+            "label": "Exercise 2.1"
+          },
+          {
+            "items": [
+              {
+                "a": "Largest number of six digits = 999999\nSmallest number of seven digits = 1000000\n999999 + 1000000 = 1999999",
+                "q": "What is the sum of the largest number of six digits and the smallest number of seven digits?"
+              },
+              {
+                "a": "Population = 2700\nMen = 1070\nWomen = 915\n1070 + 915 = 1985\n2700 − 1985 = 715\n715 children",
+                "q": "Population of a village is 2700. If 1070 are men and 915 are women, find the number of children."
+              },
+              {
+                "a": "Deposited = Rs 45800\nWithdrawn = Rs 3500\n45800 − 3500 = 42300\nRs 42300 left in his account",
+                "q": "Arif deposited Rs 45800 in his bank account. After a month he withdrew Rs 3500 from it. How much money was left in his account?"
+              },
+              {
+                "a": "Rs 82000\n82000 − 6500 = 75500\n75500 − 10550 = 64950\n64950 − 15335 = 49615\nRs 49615 left with him",
+                "q": "Kashif had Rs 82000. He gave Rs 6500 to his wife, Rs 10550 to son and Rs 15335 to daughter. How much money was left with him?"
+              },
+              {
+                "a": "(i) 7628 + 39780 = 47408\n39780 + 7628 = 47408\n7628 + 39780 = 39780 + 7628\n(ii) 924981 + 228 = 925209\n228 + 924981 = 925209\n924981 + 228 = 228 + 924981\n(iii) 29000 + 10699 = 39699\n10699 + 29000 = 39699\n29000 + 10699 = 10699 + 29000\n(iv) 50102 + 9019854 = 9069956\n9019854 + 50102 = 9069956\n50102 + 9019854 = 9019854 + 50102",
+                "q": "Verify commutative law under addition for the following.\n(i) 7628 and 39780\n(ii) 924981 and 228\n(iii) 29000 and 10699\n(iv) 50102 and 9019854"
+              },
+              {
+                "a": "(i) (34006 + 2389) + 44380 = 36395 + 44380 = 80775\n34006 + (2389 + 44380) = 34006 + 46769 = 80775\n(34006 + 2389) + 44380 = 34006 + (2389 + 44380)\n(ii) (583031 + 127) + 3405 = 583158 + 3405 = 586563\n583031 + (127 + 3405) = 583031 + 3532 = 586563\n(583031 + 127) + 3405 = 583031 + (127 + 3405)\n(iii) (231 + 6090) + 25996 = 6321 + 25996 = 32317\n231 + (6090 + 25996) = 231 + 32086 = 32317\n(231 + 6090) + 25996 = 231 + (6090 + 25996)\n(iv) (412 + 3007) + 102341 = 3419 + 102341 = 105760\n412 + (3007 + 102341) = 412 + 105348 = 105760\n(412 + 3007) + 102341 = 412 + (3007 + 102341)",
+                "q": "Verify associative law under addition for the following.\n(i) 34006, 2389 and 44380\n(ii) 583031, 127 and 3405\n(iii) 231, 6090 and 25996\n(iv) 412, 3007 and 102341"
+              },
+              {
+                "a": "(i) 849\n(ii) 97864\n(iii) 749, 749\n(iv) 430\n(v) 4946",
+                "q": "Fill in the blanks to make the following statements true.\n(i) 5020 + 849 = ______ + 5020\n(ii) 97864 + 0 = ______\n(iii) 749 + 0 = 0 + ______ = ______\n(iv) 3971 + (430 + 300) = (3971 + ______) + 300\n(v) 4853 + 93 = 93 + 4853 = ______"
+              },
+              {
+                "a": "x = the number thought of\n2x\n2x + 9\n2x + 9 + x = 3x + 9\n(3x + 9) ÷ 3 = x + 3\nx + 3 − 3 = x\nThe number you started with",
+                "q": "Think a number. Double the number and add 9 to it then add the number you started with. Then divide the amount by 3 and also subtract 3 from the quotient. What the number do you get?"
+              }
+            ],
+            "label": "Exercise 2.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 854 × 96\n854 × 6 = 5124\n854 × 90 = 76860\n5124 + 76860 = 81984\n854 × 96 = 81984\n(ii) 736 × 103\n736 × 3 = 2208\n736 × 100 = 73600\n2208 + 73600 = 75808\n736 × 103 = 75808\n(iii) 256 × 1008\n256 × 8 = 2048\n256 × 1000 = 256000\n2048 + 256000 = 258048\n256 × 1008 = 258048\n(iv) 995 × 158\n995 × 8 = 7960\n995 × 50 = 49750\n995 × 100 = 99500\n7960 + 49750 + 99500 = 157210\n995 × 158 = 157210",
+                "q": "Find the following products of whole numbers.\n(i) 854 × 96\n(ii) 736 × 103\n(iii) 256 × 1008\n(iv) 995 × 158"
+              },
+              {
+                "a": "(i) 134\n58 ) 7772\n− 58\n______\n197\n− 174\n______\n232\n− 232\n______\n0\nQuotient = 134\nRemainder = 0\n(ii) 393\n245 ) 96324\n− 735\n______\n2282\n− 2205\n______\n774\n− 735\n______\n39\nQuotient = 393\nRemainder = 39\n(iii) 16\n1000 ) 16025\n− 16000\n______\n25\nQuotient = 16\nRemainder = 25\n(iv) 309\n300 ) 92845\n− 900\n______\n284\n− 0\n______\n2845\n− 2700\n______\n145\nQuotient = 309\nRemainder = 145",
+                "q": "Divide and find the quotient and remainder.\n(i) 7772 ÷ 58\n(ii) 96324 ÷ 245\n(iii) 16025 ÷ 1000\n(iv) 92845 ÷ 300"
+              },
+              {
+                "a": "570 ÷ 19\n30\n19 ) 570\n− 57\n______\n0\n30 trees in each row",
+                "q": "A gardener plans to plant 570 trees in 19 rows. Each row should contain equal number of trees. How many trees will be in each row?"
+              },
+              {
+                "a": "125 × 9820\n9820 × 5 = 49100\n9820 × 20 = 196400\n9820 × 100 = 982000\n49100 + 196400 + 982000 = 1227500\nRs 1227500",
+                "q": "The shopkeeper purchased 125 television sets. If the cost of each set is Rs 9820, find the cost of all sets."
+              },
+              {
+                "a": "Greatest 5 digit number = 99999\n99999 ÷ 75\n1333\n75 ) 99999\n− 75\n______\n249\n− 225\n______\n249\n− 225\n______\n249\n− 225\n______\n24\n99999 − 24 = 99975\n99975",
+                "q": "Find the greatest 5 digit number which is exactly divisible by 75."
+              },
+              {
+                "a": "Greatest number of four digits = 9999\nSmallest number of three digits = 100\n9999 × 100 = 999900",
+                "q": "Multiply the greatest number of four digits with the smallest number of three digits."
+              }
+            ],
+            "label": "Exercise 2.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 0\n(ii) 6\n(iii) 2\n(iv) 4\n(v) 7, 5\n(vi) 964\n(vii) −, 125",
+                "q": "Fill in the blanks.\n(i) 5 × 0 = ______\n(ii) 6 × 1 = ______\n(iii) 2 × 5 = 5 × ______\n(iv) 3 × (1 × 4) = (3 × 1) × ______\n(v) 5 × (______ × 8) = (______ × 7) × 8\n(vi) 541 × (645 + ______) = 541 × 645 + 541 × 964\n(vii) 345 × (650 − 125) = 345 × 650 ______ 345 × ______"
+              },
+              {
+                "a": "(i) False\n545 × 248 = 135160\n545 + 248 = 793\n(ii) False\n67 − (125 − 12) = 67 − 113 = −46\n(67 − 125) − 12 = −58 − 12 = −70\n(iii) True\n64 × (245 − 10) = 64 × 235 = 15040\n64 × 245 − 64 × 10 = 15680 − 640 = 15040\n(iv) False\n95 × (25 × 14) = 95 × 350 = 33250\n(95 × 25) + 14 = 2375 + 14 = 2389",
+                "q": "Write True or False\n(i) 545 × 248 = 545 + 248 ______\n(ii) 67 − (125 − 12) = (67 − 125) − 12 ______\n(iii) 64 × (245 − 10) = 64 × 245 − 64 × 10 ______\n(iv) 95 × (25 × 14) = (95 × 25) + 14 ______"
+              },
+              {
+                "a": "(i) Commutative law under multiplication\n9 × 7 = 63\n7 × 9 = 63\n9 × 7 = 7 × 9\n(ii) Associative law under multiplication\n4 × (6 × 3) = 4 × 18 = 72\n(4 × 6) × 3 = 24 × 3 = 72\n4 × (6 × 3) = (4 × 6) × 3\n(iii) Distributive law of multiplication over subtraction\n5 × (7 − 1) = 5 × 6 = 30\n5 × 7 − 5 × 1 = 35 − 5 = 30\n5 × (7 − 1) = 5 × 7 − 5 × 1\n(iv) Distributive law of multiplication over addition\n2 × (8 + 3) = 2 × 11 = 22\n2 × 8 + 2 × 3 = 16 + 6 = 22\n2 × (8 + 3) = 2 × 8 + 2 × 3",
+                "q": "Name and verify the law used in each of the following.\n(i) 9 × 7 = 7 × 9\n(ii) 4 × (6 × 3) = (4 × 6) × 3\n(iii) 5 × (7 − 1) = 5 × 7 − 5 × 1\n(iv) 2 × (8 + 3) = 2 × 8 + 2 × 3"
+              },
+              {
+                "a": "530 + 750 = 1280\n750 + 530 = 1280\n530 + 750 = 750 + 530",
+                "q": "Verify commutative law under addition for 530 and 750."
+              },
+              {
+                "a": "(240 × 425) × 35 = 102000 × 35 = 3570000\n240 × (425 × 35) = 240 × 14875 = 3570000\n(240 × 425) × 35 = 240 × (425 × 35)",
+                "q": "Verify Associative Law under multiplication for 240, 425 and 35."
+              },
+              {
+                "a": "300 × (615 + 975) = 300 × 1590 = 477000\n300 × 615 + 300 × 975 = 184500 + 292500 = 477000\n300 × (615 + 975) = 300 × 615 + 300 × 975",
+                "q": "Verify distributive law of multiplication over addition for 300, 615 and 975."
+              }
+            ],
+            "label": "Exercise 2.4"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 3, 2\n(ii) 528, 112\n(iii) 8\n(iv) 0, 0\n(v) 9, 9\n(vi) 20, 1\n(vii) 8, 17\n(viii) 32, 32",
+                "q": "Fill in the blanks by using laws under multiplication of whole numbers.\n(i) 2 × ______ = 3 × ______\n(ii) 112 × 528 = ______ × ______\n(iii) 5 × (3 × 8) = (5 × 3) × ______\n(iv) ______ × 7 = 7 × ______ = 0\n(v) 9 × (2 + 16) = ______ × 2 + ______ × 16\n(vi) (20 + 4) × 1 = ______ × 1 + 4 × ______\n(vii) 17 × (8 − 3) = 17 × ______ − ______ × 3\n(viii) (12 − 6) × 32 = 12 × ______ − 6 × ______"
+              },
+              {
+                "a": "(i) 4\n(ii) 15, 6\n(iii) 10\n(iv) 10, 60",
+                "q": "Fill in the blanks.\n(i) 5 × 4 = □ × 5\n(ii) 15 × (10 × 6) = (□ × 10)\n(iii) 10 × (15 + 6) = (10 × 15) + (□ × 6)\n(iv) 10 × (100 + 60) = (□ × 100) + (10 × □)"
+              },
+              {
+                "a": "(i) False\n5 − 3 = 2\n3 − 5 = −2\n(ii) False\n3 × 1 + 7 = 3 + 7 = 10\n3 × 8 = 24\n(iii) True\n2 − (0 − 8) = 2 − (−8) = 10\n(2 − 0) + 8 = 2 + 8 = 10\n(iv) True\n9 + (7 + 5) = 9 + 12 = 21\n(9 + 7) + 5 = 16 + 5 = 21\n(v) True\n4 × (35 × 2) = 4 × 70 = 280\n(4 × 35) × 2 = 140 × 2 = 280\n(vi) False\n24 − (50 − 6) = 24 − 44 = −20\n(24 − 50) − 6 = −26 − 6 = −32\n(vii) False\n14 ÷ 0 is not possible\n(viii) True\n0 ÷ 125 = 0\n(ix) False\n18 ÷ 18 = 1\n(x) True\n75 ÷ 75 = 1",
+                "q": "Write True or False.\n(i) 5 − 3 = 3 − 5\n(ii) 3 × 1 + 7 = 3 × 8\n(iii) 2 − (0 − 8) = (2 − 0) + 8\n(iv) 9 + (7 + 5) = (9 + 7) + 5\n(v) 4 × (35 × 2) = (4 × 35) × 2\n(vi) 24 − (50 − 6) = (24 − 50) − 6\n(vii) 14 ÷ 0 = 14\n(viii) 0 ÷ 125 = 0\n(ix) 18 ÷ 18 = 0\n(x) 75 ÷ 75 = 1"
+              },
+              {
+                "a": "(i) Predecessor = 670\nSuccessor = 672\n(ii) Predecessor = 244\nSuccessor = 246",
+                "q": "Write the predecessor and successor of the following numbers:\n(i) 671\n(ii) 245"
+              },
+              {
+                "a": "(i) (b) 1\n(ii) (a) 0\n(iii) (d) 1000000\n(iv) (b) 999999\n(v) (b) even",
+                "q": "Choose the correct answer:\n(i) The smallest natural number is ______.\n(a) 0 (b) 1 (c) 2 (d) 100\n(ii) The predecessor of 1 in the set of whole numbers is ______.\n(a) 0 (b) 2 (c) 3 (d) none\n(iii) The smallest seven digit number is ______.\n(a) 1234567 (b) 999999 (c) 1111111 (d) 1000000\n(iv) The greatest six digit number is ______.\n(a) 876543 (b) 999999 (c) 111111 (d) 100000\n(v) The numbers divisible by 2 are called ______ numbers.\n(a) prime (b) even (c) odd (d) whole"
+              },
+              {
+                "a": "(i) 0, 1, 3, 9\n(ii) 4, 5, 6, 7, 8, 9, ...\n(iii) 0, 1, 2, 3, 4, 5, 6, 7, 8\n(iv) 6, 7, 8, 9\n(v) 1, 2, 3, 4, 5, 6, 7, 8",
+                "q": "Draw a number line to represent the following whole numbers.\n(i) 0, 1, 3, 9\n(ii) Whole numbers > 3\n(iii) Whole numbers ≤ 8\n(iv) Whole numbers > 5 but < 10\n(v) Whole numbers ≥ 1 but ≤ 8"
+              },
+              {
+                "a": "0 → 4 → 6 → 9 → 14\n4 + 2 + 3 + 5 = 14",
+                "q": "Find the sum of 4, 2, 3 and 5 on number line."
+              },
+              {
+                "a": "(i) 4 + 5 = 9\n(ii) 10 + 14 = 24\n(iii) 15 + 16 = 31",
+                "q": "Find two whole numbers whose sum is:\n(i) 9\n(ii) 24\n(iii) 31"
+              },
+              {
+                "a": "190 + 330 = 520\n330 + 190 = 520\n190 + 330 = 330 + 190\n190 × 330 = 62700\n330 × 190 = 62700\n190 × 330 = 330 × 190",
+                "q": "Verify commutative laws of addition and multiplication for 190 and 330."
+              },
+              {
+                "a": "(20 + 30) + 60 = 50 + 60 = 110\n20 + (30 + 60) = 20 + 90 = 110\n(20 + 30) + 60 = 20 + (30 + 60)\n(20 × 30) × 60 = 600 × 60 = 36000\n20 × (30 × 60) = 20 × 1800 = 36000\n(20 × 30) × 60 = 20 × (30 × 60)",
+                "q": "Verify Associative laws of addition and multiplication for 20, 30 and 60."
+              },
+              {
+                "a": "700 × (500 + 100) = 700 × 600 = 420000\n700 × 500 + 700 × 100 = 350000 + 70000 = 420000\n700 × (500 + 100) = 700 × 500 + 700 × 100\n700 × (500 − 100) = 700 × 400 = 280000\n700 × 500 − 700 × 100 = 350000 − 70000 = 280000\n700 × (500 − 100) = 700 × 500 − 700 × 100",
+                "q": "Verify distributive laws of multiplication over addition and subtraction for 700, 500 and 100."
+              },
+              {
+                "a": "640 × 1 = 640\n640 × 0.50 = 320\n640 + 320 = 960\nRs 960",
+                "q": "What is the cost of 640 photocopies at Rs 1.50 per copy?"
+              },
+              {
+                "a": "Greatest number of 4 digits = 9999\n9999 ÷ 44\n227\n44 ) 9999\n− 88\n______\n119\n− 88\n______\n319\n− 308\n______\n11\n9999 − 11 = 9988\n9988",
+                "q": "Find the greatest number of 4 digits which is exactly divisible by 44."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Whole Numbers",
+        "unit": 2,
+        "display": "Whole Numbers"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(a) 2\n(c) 5\n2 and 5 are the factors of 20\n20 ÷ 2 = 10\n20 ÷ 5 = 4",
+                "q": "Which of the following are the factors of 20.\n(a) 2 (b) 8 (c) 5 (d) 3"
+              },
+              {
+                "a": "(a) 1, 3, 5, 15\n15 = 1 × 15\n15 = 3 × 5\n(b) 1, 2, 3, 5, 6, 10, 15, 30\n30 = 1 × 30\n30 = 2 × 15\n30 = 3 × 10\n30 = 5 × 6\n(c) 1, 2, 5, 10, 25, 50\n50 = 1 × 50\n50 = 2 × 25\n50 = 5 × 10\n(d) 1, 5, 25, 125\n125 = 1 × 125\n125 = 5 × 25\n(e) 1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150\n150 = 1 × 150\n150 = 2 × 75\n150 = 3 × 50\n150 = 5 × 30\n150 = 6 × 25\n150 = 10 × 15",
+                "q": "Write all the factors of each of the following.\n(a) 15 (b) 30 (c) 50 (d) 125 (e) 150"
+              },
+              {
+                "a": "(b) 18\n(c) 96\n18 and 96 are multiples of 6\n18 = 6 × 3\n96 = 6 × 16",
+                "q": "Which of the following are multiples of 6.\n(a) 10 (b) 18 (c) 96 (d) 200"
+              },
+              {
+                "a": "(a) 4, 8, 12, 16, 20, 24, 28\n(b) 7, 14, 21, 28, 35, 42, 49\n(c) 12, 24, 36, 48, 60, 72, 84\n(d) 15, 30, 45, 60, 75, 90, 105\n(e) 20, 40, 60, 80, 100, 120, 140",
+                "q": "Write first seven multiples of:\n(a) 4 (b) 7 (c) 12 (d) 15 (e) 20"
+              },
+              {
+                "a": "(a) 7, 11, 13\n(b) 23, 29, 31, 37\n(c) 61, 67, 71, 73, 79, 83, 89",
+                "q": "Write prime numbers between:\n(a) 6 and 15 (b) 20 and 40 (c) 60 and 95"
+              },
+              {
+                "a": "2",
+                "q": "Write an even prime number."
+              },
+              {
+                "a": "(a) even\n(b) odd\n(c) odd\n(d) odd\n(e) even\n(f) odd",
+                "q": "Which of the following is even or odd?\n(a) 10 (b) 47 (c) 75 (d) 91 (e) 100 (f) 117"
+              },
+              {
+                "a": "22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50",
+                "q": "Write all the even numbers between 21 and 51."
+              },
+              {
+                "a": "11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39",
+                "q": "Write all the odd numbers between 10 and 40."
+              },
+              {
+                "a": "4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 24, 25, 26, 27, 28, 30, 32, 33, 34, 35, 36, 38, 39",
+                "q": "Write all the composite numbers less than 40."
+              },
+              {
+                "a": "72, 74, 75, 76, 77, 78, 80, 81, 82, 84, 85, 86, 87, 88, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100",
+                "q": "Write all the composite numbers between 71 and 101."
+              },
+              {
+                "a": "23, 29, 31, 37, 41, 43, 47, 53, 59",
+                "q": "Write all the prime numbers between 20 and 60."
+              },
+              {
+                "a": "1 has only one factor\n1 has only one factor which is 1 itself",
+                "q": "Why 1 is neither prime nor composite?"
+              }
+            ],
+            "label": "Exercise 3.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 2 + 5 + 1 + 0 + 6 + 1 = 15\n15 is divisible by 3\nYes\n(ii) 48 is divisible by 4\n48 ÷ 4 = 12\nYes\n(iii) 4 + 9 + 2 + 3 + 0 = 18\n18 is divisible by 9\nYes\n(iv) 150 is not divisible by 8\n150 ÷ 8 = 18, remainder 6\nNo\n(v) Digit at units place is 5\nNo\n(vi) 2 + 4 + 1 + 5 + 6 + 6 = 24\n24 is divisible by 3\nYes\n(vii) Digit at units place is 8\nYes\n(viii) 61 is not divisible by 4\n61 ÷ 4 = 15, remainder 1\nNo\n(ix) 864 is divisible by 8\n864 ÷ 8 = 108\nYes\n(x) 4 + 1 + 5 + 8 + 7 + 2 + 0 = 27\n27 is divisible by 9\nYes\n(xi) Digit at units place is 6\nYes\n(xii) 1 + 2 + 3 + 4 + 5 + 6 + 2 = 23\n23 is not divisible by 3\nNo",
+                "q": "Test whether.\n(i) 251061 is exactly divisible by 3\n(ii) 92348 is exactly divisible by 4\n(iii) 49230 is exactly divisible by 9\n(iv) 24150 is exactly divisible by 8\n(v) 10005 is exactly divisible by 2\n(vi) 241566 is exactly divisible by 3\n(vii) 34268 is exactly divisible by 2\n(viii) 241361 is exactly divisible by 4\n(ix) 5123864 is exactly divisible by 8\n(x) 4158720 is exactly divisible by 9\n(xi) 210006 is exactly divisible by 2\n(xii) 1234562 is exactly divisible by 3"
+              },
+              {
+                "a": "(i) 2 + 4 + 5 + 6 = 17\n17 is not divisible by 3\nNo\n(ii) 7 + 1 + 2 + 1 + 7 + 0 + 0 = 18\n18 is divisible by 3\nDigit at units place is 0\nYes\n(iii) 1 + 9 + 2 + 0 + 6 = 18\n18 is divisible by 3\nDigit at units place is 6\nYes\n(ii) and (iii) are exactly divisible by 6",
+                "q": "Which of the following numbers are exactly divisible by 6?\n(i) 2456 (ii) 7121700 (iii) 19206"
+              },
+              {
+                "a": "(i) Digit at units place is 7\nNo\n(ii) Digit at units place is 0\nYes\n(iii) Digit at units place is 5\nYes\n(ii) and (iii) are exactly divisible by 5",
+                "q": "Which of the following numbers are exactly divisible by 5?\n(i) 24567 (ii) 230590 (iii) 111165"
+              },
+              {
+                "a": "(i) Digit at units place is 0\nYes\n(ii) Digit at units place is 0\nYes\n(iii) Digit at units place is 5\nNo\n(i) and (ii) are exactly divisible by 10",
+                "q": "Which of the following numbers are exactly divisible by 10?\n(i) 25670 (ii) 123600 (iii) 14675"
+              },
+              {
+                "a": "(i) (2 + 5 + 6) − (1 + 7 + 2) = 13 − 10 = 3\n3 is not divisible by 11\nNo\n(ii) (0 + 4 + 5 + 2) − (0 + 8 + 9 + 5) = 11 − 22 = −11\n−11 is divisible by 11\nYes\n(iii) (0 + 2 + 5 + 4) − (9 + 7 + 8 + 9) = 11 − 33 = −22\n−22 is divisible by 11\nYes\n(ii) and (iii) are exactly divisible by 11",
+                "q": "Which of the following numbers are exactly divisible by 11?\n(i) 215762 (ii) 52958400 (iii) 94857290"
+              },
+              {
+                "a": "(i) 2 + 4 + 5 + 1 + 6 + 8 = 26\n26 is not divisible by 3\nNo\n(ii) 5 + 1 + 2 + 1 + 0 + 0 = 9\n9 is divisible by 3\n00 is divisible by 4\nYes\n(iii) 2 + 5 + 6 + 1 + 7 + 4 + 2 = 27\n27 is divisible by 3\n42 is not divisible by 4\nNo\n(ii) is exactly divisible by 12",
+                "q": "Which of the following numbers are exactly divisible by 12?\n(i) 245168 (ii) 512100 (iii) 2561742"
+              },
+              {
+                "a": "(i) 5 + 1 + 3 + 0 + 0 = 9\n9 is divisible by 3\nDigit at units place is 0\nYes\n(ii) 5 + 2 + 3 + 4 + 4 + 9 = 27\n27 is divisible by 3\nDigit at units place is 9\nNo\n(iii) 2 + 3 + 6 + 7 + 9 + 0 = 27\n27 is divisible by 3\nDigit at units place is 0\nYes\n(i) and (iii) are exactly divisible by 15",
+                "q": "Which of the following numbers are exactly divisible by 15?\n(i) 51300 (ii) 523449 (iii) 236790"
+              },
+              {
+                "a": "(i) 00 is divisible by 25\nYes\n(ii) 36 is not divisible by 25\nNo\n(iii) 75 is divisible by 25\n75 ÷ 25 = 3\nYes\n(i) and (iii) are exactly divisible by 25",
+                "q": "Which of the following numbers are exactly divisible by 25?\n(i) 2563400 (ii) 341236 (iii) 4102375"
+              },
+              {
+                "a": "(i) Digit at units place is 2\n1 + 4 + 5 + 6 + 2 = 18\n18 is divisible by 3\nYes\n(ii) Digit at units place is 1\nNo\n(iii) Digit at units place is 4\n5 + 1 + 8 + 2 + 1 + 4 = 21\n21 is divisible by 3\nYes\n(i) and (iii) are exactly divisible by 2, 3 and 6",
+                "q": "Which of the following numbers are exactly divisible by 2, 3, and 6?\n(i) 14562 (ii) 1101361 (iii) 518214"
+              },
+              {
+                "a": "(i) 64 is divisible by 4\n864 is divisible by 8\n864 ÷ 8 = 108\nYes\n(ii) 16 is divisible by 4\n116 is not divisible by 8\n116 ÷ 8 = 14, remainder 4\nNo\n(iii) 48 is divisible by 4\n848 is divisible by 8\n848 ÷ 8 = 106\nYes\n(i) and (iii) are exactly divisible by 4 and 8",
+                "q": "Which of the following numbers are exactly divisible by 4 and 8?\n(i) 513864 (ii) 617116 (iii) 2415848"
+              },
+              {
+                "a": "(i) Digit at units place is 0\nYes\n(ii) Digit at units place is 5\nNo\n(iii) Digit at units place is 0\nYes\n(i) and (iii) are exactly divisible by 2, 5 and 10",
+                "q": "Which of the following numbers are exactly divisible by 2, 5 and 10?\n(i) 120340 (ii) 210785 (iii) 412360"
+              }
+            ],
+            "label": "Exercise 3.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 2^3 × 3^2 × 5^1\n(ii) 3^1 × 5^3 × 7^2\n(iii) 2^1 × 3^4 × 7^2",
+                "q": "Write in index notation.\n(i) 2 × 2 × 2 × 3 × 5 × 3\n(ii) 3 × 5 × 5 × 5 × 7 × 7\n(iii) 2 × 3 × 3 × 7 × 7 × 3 × 3"
+              },
+              {
+                "a": "(i) 2 | 24\n2 | 12\n2 | 6\n3 | 3\n  | 1\n24 = 2 × 2 × 2 × 3\n24 = 2^3 × 3^1\n(ii) 2 | 48\n2 | 24\n2 | 12\n2 | 6\n3 | 3\n  | 1\n48 = 2 × 2 × 2 × 2 × 3\n48 = 2^4 × 3^1\n(iii) 2 | 216\n2 | 108\n2 | 54\n3 | 27\n3 | 9\n3 | 3\n  | 1\n216 = 2 × 2 × 2 × 3 × 3 × 3\n216 = 2^3 × 3^3\n(iv) 2 | 250\n5 | 125\n5 | 25\n5 | 5\n  | 1\n250 = 2 × 5 × 5 × 5\n250 = 2^1 × 5^3\n(v) 2 | 468\n2 | 234\n3 | 117\n3 | 39\n13 | 13\n   | 1\n468 = 2 × 2 × 3 × 3 × 13\n468 = 2^2 × 3^2 × 13^1\n(vi) 2 | 540\n2 | 270\n3 | 135\n3 | 45\n3 | 15\n5 | 5\n  | 1\n540 = 2 × 2 × 3 × 3 × 3 × 5\n540 = 2^2 × 3^3 × 5^1\n(vii) 2 | 1024\n2 | 512\n2 | 256\n2 | 128\n2 | 64\n2 | 32\n2 | 16\n2 | 8\n2 | 4\n2 | 2\n  | 1\n1024 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2\n1024 = 2^10\n(viii) 2 | 5000\n2 | 2500\n2 | 1250\n5 | 625\n5 | 125\n5 | 25\n5 | 5\n  | 1\n5000 = 2 × 2 × 2 × 5 × 5 × 5 × 5\n5000 = 2^3 × 5^4",
+                "q": "Find the prime factorization by division method and express in index notation.\n(i) 24 (ii) 48 (iii) 216 (iv) 250 (v) 468 (vi) 540 (vii) 1024 (viii) 5000"
+              },
+              {
+                "a": "Yes\n7 = 7^1\n11 = 11^1",
+                "q": "Can you write factorization of a prime number in index notation."
+              }
+            ],
+            "label": "Exercise 3.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 50 = 2 × 5 × 5\n75 = 3 × 5 × 5\nCommon factors are 5 and 5\nHCF = 5 × 5 = 25\n(ii) 98 = 2 × 7 × 7\n196 = 2 × 2 × 7 × 7\nCommon factors are 2, 7 and 7\nHCF = 2 × 7 × 7 = 98\n(iii) 144 = 2 × 2 × 2 × 2 × 3 × 3\n198 = 2 × 3 × 3 × 11\nCommon factors are 2, 3 and 3\nHCF = 2 × 3 × 3 = 18\n(iv) 120 = 2 × 2 × 2 × 3 × 5\n144 = 2 × 2 × 2 × 2 × 3 × 3\n204 = 2 × 2 × 3 × 17\nCommon factors are 2, 2 and 3\nHCF = 2 × 2 × 3 = 12\n(v) 106 = 2 × 53\n159 = 3 × 53\n265 = 5 × 53\nCommon factor is 53\nHCF = 53\n(vi) 12 = 2 × 2 × 3\n48 = 2 × 2 × 2 × 2 × 3\n36 = 2 × 2 × 3 × 3\n24 = 2 × 2 × 2 × 3\nCommon factors are 2, 2 and 3\nHCF = 2 × 2 × 3 = 12\n(vii) 60 = 2 × 2 × 3 × 5\n70 = 2 × 5 × 7\n420 = 2 × 2 × 3 × 5 × 7\n480 = 2 × 2 × 2 × 2 × 2 × 3 × 5\nCommon factors are 2 and 5\nHCF = 2 × 5 = 10",
+                "q": "Find the HCF of the following numbers by prime factorization method.\n(i) 50, 75 (ii) 98, 196 (iii) 144, 198 (iv) 120, 144, 204 (v) 106, 159, 265 (vi) 12, 48, 36, 24 (vii) 60, 70, 420, 480"
+              },
+              {
+                "a": "(i) 12 ) 20 ( 1\n− 12\n______\n8\n8 ) 12 ( 1\n− 8\n______\n4\n4 ) 8 ( 2\n− 8\n______\n0\nHCF = 4\n(ii) 81 ) 117 ( 1\n− 81\n______\n36\n36 ) 81 ( 2\n− 72\n______\n9\n9 ) 36 ( 4\n− 36\n______\n0\nHCF = 9\n(iii) 935 ) 1320 ( 1\n− 935\n______\n385\n385 ) 935 ( 2\n− 770\n______\n165\n165 ) 385 ( 2\n− 330\n______\n55\n55 ) 165 ( 3\n− 165\n______\n0\nHCF = 55\n(iv) 252 ) 576 ( 2\n− 504\n______\n72\n72 ) 252 ( 3\n− 216\n______\n36\n36 ) 72 ( 2\n− 72\n______\n0\nHCF = 36\n(v) 747 ) 2241 ( 3\n− 2241\n______\n0\nHCF of 2241 and 747 = 747\n747 ) 8217 ( 11\n− 747\n______\n747\n− 747\n______\n0\nHCF = 747\n(vi) 30 ) 120 ( 4\n− 120\n______\n0\nHCF of 30 and 120 = 30\n30 ) 90 ( 3\n− 90\n______\n0\nHCF of 30 and 90 = 30\n30 ) 210 ( 7\n− 210\n______\n0\nHCF = 30",
+                "q": "Find HCF of the following numbers by long division method.\n(i) 12, 20 (ii) 81, 117 (iii) 935, 1320 (iv) 252, 576 (v) 2241, 8217, 747 (vi) 30, 120, 90, 210"
+              },
+              {
+                "a": "3 and 5\nFactors of 3 are 1, 3\nFactors of 5 are 1, 5\nCommon factor is 1\nHCF = 1",
+                "q": "What is the HCF of two prime numbers? (Take any two prime numbers)"
+              }
+            ],
+            "label": "Exercise 3.4"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 12 = 2 × 2 × 3\n25 = 5 × 5\n40 = 2 × 2 × 2 × 5\nCommon factors are 2, 2 and 5\nNon-common factors are 3, 2 and 5\nLCM = 2 × 2 × 5 × 3 × 2 × 5 = 600\n(ii) 21 = 3 × 7\n49 = 7 × 7\n63 = 3 × 3 × 7\nCommon factors are 3 and 7\nNon-common factors are 7 and 3\nLCM = 3 × 7 × 7 × 3 = 441\n(iii) 144 = 2 × 2 × 2 × 2 × 3 × 3\n180 = 2 × 2 × 3 × 3 × 5\n384 = 2 × 2 × 2 × 2 × 2 × 2 × 2 × 3\nCommon factors are 2, 2, 2, 2 and 3\nNon-common factors are 3, 5, 2, 2 and 2\nLCM = 2 × 2 × 2 × 2 × 3 × 3 × 5 × 2 × 2 × 2 = 5760\n(iv) 108 = 2 × 2 × 3 × 3 × 3\n135 = 3 × 3 × 3 × 5\n162 = 2 × 3 × 3 × 3 × 3\nCommon factors are 2, 3, 3 and 3\nNon-common factors are 3 and 5\nLCM = 2 × 3 × 3 × 3 × 3 × 5 = 1620\n(v) 35 = 5 × 7\n65 = 5 × 13\n75 = 3 × 5 × 5\nCommon factor is 5\nNon-common factors are 7, 13, 3 and 5\nLCM = 5 × 7 × 13 × 3 × 5 = 6825\n(vi) 24 = 2 × 2 × 2 × 3\n36 = 2 × 2 × 3 × 3\n48 = 2 × 2 × 2 × 2 × 3\n72 = 2 × 2 × 2 × 3 × 3\nCommon factors are 2, 2, 2 and 3\nNon-common factors are 3 and 2\nLCM = 2 × 2 × 2 × 3 × 3 × 2 = 144",
+                "q": "Using prime factorization, find the LCM of the following numbers.\n(i) 12, 25 and 40 (ii) 21, 49 and 63 (iii) 144, 180 and 384 (iv) 108, 135 and 162 (v) 35, 65 and 75 (vi) 24, 36, 48 and 72"
+              },
+              {
+                "a": "(i) 3 | 45, 55\n3 | 15, 55\n5 | 5, 55\n11 | 1, 11\n   | 1, 1\nLCM = 3 × 3 × 5 × 11 = 495\n(ii) 3 | 21, 35, 70\n7 | 7, 35, 70\n5 | 1, 5, 10\n2 | 1, 1, 2\n  | 1, 1, 1\nLCM = 3 × 7 × 5 × 2 = 210\n(iii) 2 | 24, 40, 60\n2 | 12, 20, 30\n2 | 6, 10, 15\n3 | 3, 5, 15\n5 | 1, 5, 5\n  | 1, 1, 1\nLCM = 2 × 2 × 2 × 3 × 5 = 120\n(iv) 2 | 72, 108, 120\n2 | 36, 54, 60\n2 | 18, 27, 30\n3 | 9, 27, 15\n3 | 3, 9, 5\n3 | 1, 3, 5\n5 | 1, 1, 5\n  | 1, 1, 1\nLCM = 2 × 2 × 2 × 3 × 3 × 3 × 5 = 1080",
+                "q": "Calculate the LCM of the following numbers by division method.\n(i) 45 and 55 (ii) 21, 35 and 70 (iii) 24, 40 and 60 (iv) 72, 108 and 120"
+              },
+              {
+                "a": "Product of two numbers = 360\nHCF = 6\nLCM × HCF = Product of two numbers\nLCM × 6 = 360\nLCM = 360 ÷ 6\nLCM = 60",
+                "q": "The product of two numbers is 360. If their HCF is 6, what is their LCM?"
+              }
+            ],
+            "label": "Exercise 3.5"
+          },
+          {
+            "items": [
+              {
+                "a": "HCF of 540 and 360\n360 ) 540 ( 1\n− 360\n______\n180\n180 ) 360 ( 2\n− 360\n______\n0\nHCF = 180\nGreatest length = 180 cm",
+                "q": "Find the greatest length of a wooden scale which can be used to measure 540 cm and 360 cm exactly."
+              },
+              {
+                "a": "232 − 7 = 225\n305 − 5 = 300\nHCF of 225 and 300\n225 ) 300 ( 1\n− 225\n______\n75\n75 ) 225 ( 3\n− 225\n______\n0\nHCF = 75\nGreatest number = 75",
+                "q": "Find the greatest number which divides 232 and 305 leaving 7 and 5, respectively as remainder."
+              },
+              {
+                "a": "245 − 5 = 240\n1029 − 5 = 1024\nHCF of 240 and 1024\n240 ) 1024 ( 4\n− 960\n______\n64\n64 ) 240 ( 3\n− 192\n______\n48\n48 ) 64 ( 1\n− 48\n______\n16\n16 ) 48 ( 3\n− 48\n______\n0\nHCF = 16\nLargest number = 16",
+                "q": "Find the largest number which divides 245 and 1029 leaving remainder 5 in each case."
+              },
+              {
+                "a": "HCF of 600 and 570\n570 ) 600 ( 1\n− 570\n______\n30\n30 ) 570 ( 19\n− 570\n______\n0\nHCF = 30\nMaximum capacity = 30 litres",
+                "q": "Two tankers contain 600 litres and 570 litres of petrol respectively. Find the maximum capacity of the container which can measure the petrol of either tanker in exact number of times."
+              },
+              {
+                "a": "HCF of 8, 6 and 4\nHCF of 8 and 6 = 2\nHCF of 2 and 4 = 2\nHCF = 2\nLongest tape = 2 m",
+                "q": "The length, breadth and height of a room are 8 m, 6 m and 4 m respectively. Determine the longest tape which can measure the three dimensions of the room exactly."
+              },
+              {
+                "a": "LCM of 5, 10 and 15\n5 | 5, 10, 15\n2 | 1, 2, 3\n3 | 1, 1, 3\n  | 1, 1, 1\nLCM = 5 × 2 × 3 = 30\nBells ring together after 30 minutes\n8 A.M. + 30 minutes = 8.30 A.M.",
+                "q": "Three bells ring at an interval of 5, 10 and 15 minutes respectively. If these started ringing at 8 A.M. Find the time when they will again ring together."
+              },
+              {
+                "a": "LCM of 30, 45 and 60\n2 | 30, 45, 60\n2 | 15, 45, 30\n3 | 15, 45, 15\n3 | 5, 15, 5\n5 | 5, 5, 5\n  | 1, 1, 1\nLCM = 2 × 2 × 3 × 3 × 5 = 180\n180 + 9 = 189\nLeast number = 189",
+                "q": "Find the least number which when divided by 30, 45 and 60 leaves 9 as remainder."
+              },
+              {
+                "a": "LCM of 12, 16 and 24\n2 | 12, 16, 24\n2 | 6, 8, 12\n2 | 3, 4, 6\n2 | 3, 2, 3\n3 | 3, 1, 3\n  | 1, 1, 1\nLCM = 2 × 2 × 2 × 2 × 3 = 48\nLeast quantity = 48 litres",
+                "q": "Find the least quantity of milk which can be exactly measured by buckets of capacity 12 litres, 16 litres and 24 litres."
+              },
+              {
+                "a": "LCM of 48, 72 and 108\n2 | 48, 72, 108\n2 | 24, 36, 54\n2 | 12, 18, 27\n2 | 6, 9, 27\n3 | 3, 9, 27\n3 | 1, 3, 9\n3 | 1, 1, 3\n  | 1, 1, 1\nLCM = 2 × 2 × 2 × 2 × 3 × 3 × 3 = 432\n432 seconds = 7 minutes 12 seconds\nLights change again after 7 minutes 12 seconds",
+                "q": "The traffic lights at three different road-crossings change after every 48 seconds, 72 seconds and 108 seconds respectively. If they change simultaneously at 7 a.m, after what time will they change again simultaneously?"
+              }
+            ],
+            "label": "Exercise 3.6"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60\n(ii) 1, 2, 5, 10, 25, 50, 125, 250",
+                "q": "Write all the factors of (i) 60 (ii) 250"
+              },
+              {
+                "a": "(i) 13, 26, 39, 52, 65\n(ii) 20, 40, 60, 80, 100",
+                "q": "Write first five multiples of (i) 13 (ii) 20"
+              },
+              {
+                "a": "2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47",
+                "q": "Write all prime numbers between 1 and 50."
+              },
+              {
+                "a": "32, 33, 34, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58",
+                "q": "Write all composite numbers between 30 and 60."
+              },
+              {
+                "a": "(i) No\n(ii) Yes\n(iii) Yes\n(iv) Yes\n(ii), (iii) and (iv) are divisible by 2",
+                "q": "Which of the following are divisible by 2:\n(i) 31621 (ii) 7008 (iii) 91130 (iv) 5178"
+              },
+              {
+                "a": "(i) 5 + 1 + 2 + 3 + 7 = 18\n18 is divisible by 3\nYes\n(ii) 3 + 0 + 0 + 0 + 1 = 4\n4 is not divisible by 3\nNo\n(iii) 1 + 0 + 0 + 1 + 0 + 0 + 1 = 3\n3 is divisible by 3\nYes\n(iv) 5 + 6 + 7 + 1 + 2 = 21\n21 is divisible by 3\nYes\n(i), (iii) and (iv) are divisible by 3",
+                "q": "Which of the following are divisible by 3:\n(i) 51237 (ii) 30001 (iii) 1001001 (iv) 56712"
+              },
+              {
+                "a": "(i) 73 is not divisible by 4\nNo\n(ii) 24 is divisible by 4\nYes\n(iii) 11 is not divisible by 4\nNo\n(iv) 48 is divisible by 4\nYes\n(ii) and (iv) are divisible by 4",
+                "q": "Which of the following are divisible by 4:\n(i) 2173 (ii) 41524 (iii) 71611 (iv) 40048"
+              },
+              {
+                "a": "(i) Yes\n(ii) Yes\n(iii) No\n(iv) No\n(i) and (ii) are divisible by 5",
+                "q": "Which of the following are divisible by 5:\n(i) 2010 (ii) 31625 (iii) 7128 (iv) 1001"
+              },
+              {
+                "a": "(i) No\n(ii) Yes\n(iii) Yes\n(iv) No\n(ii) and (iii) are divisible by 10",
+                "q": "Which of the following are divisible by 10:\n(i) 2165 (ii) 71230 (iii) 10000 (iv) 25618"
+              },
+              {
+                "a": "(i) 2 | 450\n3 | 225\n3 | 75\n5 | 25\n5 | 5\n  | 1\n450 = 2 × 3 × 3 × 5 × 5\n450 = 2^1 × 3^2 × 5^2\n(ii) 2 | 720\n2 | 360\n2 | 180\n2 | 90\n3 | 45\n3 | 15\n5 | 5\n  | 1\n720 = 2 × 2 × 2 × 2 × 3 × 3 × 5\n720 = 2^4 × 3^2 × 5^1",
+                "q": "Find prime factors of the following by division method and tree method. Also write in index notation.\n(i) 450 (ii) 720"
+              },
+              {
+                "a": "(i) 18 = 2 × 3 × 3\n24 = 2 × 2 × 2 × 3\nCommon factors are 2 and 3\nHCF = 2 × 3 = 6\nNon-common factors are 3, 2 and 2\nLCM = 2 × 3 × 3 × 2 × 2 = 72\nHCF = 6\nLCM = 72\n(ii) 12 = 2 × 2 × 3\n15 = 3 × 5\n40 = 2 × 2 × 2 × 5\nHCF = 1\nLCM = 2 × 2 × 2 × 3 × 5 = 120\nHCF = 1\nLCM = 120",
+                "q": "Find HCF and LCM by factorization method:\n(i) 18, 24 (ii) 12, 15, 40"
+              },
+              {
+                "a": "(i) HCF\n65 ) 80 ( 1\n− 65\n______\n15\n15 ) 65 ( 4\n− 60\n______\n5\n5 ) 15 ( 3\n− 15\n______\n0\nHCF = 5\nLCM\n5 | 65, 80\n13 | 13, 16\n2 | 1, 16\n2 | 1, 8\n2 | 1, 4\n2 | 1, 2\n  | 1, 1\nLCM = 5 × 13 × 2 × 2 × 2 × 2 = 1040\nHCF = 5\nLCM = 1040\n(ii) HCF\n26 ) 65 ( 2\n− 52\n______\n13\n13 ) 26 ( 2\n− 26\n______\n0\nHCF of 26 and 65 = 13\n13 ) 169 ( 13\n− 169\n______\n0\nHCF = 13\nLCM\n13 | 26, 65, 169\n2 | 2, 5, 13\n5 | 1, 5, 13\n13 | 1, 1, 13\n   | 1, 1, 1\nLCM = 13 × 2 × 5 × 13 = 1690\nHCF = 13\nLCM = 1690",
+                "q": "Find HCF and LCM by division method:\n(i) 65 and 80 (ii) 26, 65, 169"
+              },
+              {
+                "a": "42 − 2 = 40\n51 − 1 = 50\n67 − 7 = 60\nHCF of 40, 50 and 60\nHCF of 40 and 50 = 10\nHCF of 10 and 60 = 10\nGreatest number = 10",
+                "q": "Find the greatest number, that will divide 42, 51 and 67 leaving remainders 2, 1 and 7 respectively."
+              },
+              {
+                "a": "LCM of 20, 30 and 45\n2 | 20, 30, 45\n2 | 10, 15, 45\n3 | 5, 15, 45\n3 | 5, 5, 15\n5 | 5, 5, 5\n  | 1, 1, 1\nLCM = 2 × 2 × 3 × 3 × 5 = 180\n180 + 6 = 186\nLeast number = 186",
+                "q": "Find the least number which when divided by 20, 30 and 45 leaving 6 as remainder in each case."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Factors and Multiples",
+        "unit": 3,
+        "display": "Factors and Multiples"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) −2, −1, 0, +1, +2\n(ii) −3, −2, −1, 0, +1, +2, +3, +4\n(iii) −4, −3, −2, −1, 0, +1, +2\n(iv) −5, −4, −2, +1, +3, +5",
+                "q": "Represent the following integers on a number line.\n(i) −2, −1, 0, +1, +2\n(ii) −3, −2, −1, 0, +1, +2, +3, +4\n(iii) −4, −3, −2, −1, 0, +1, +2\n(iv) +5, −5, −4, +3, +1, −2"
+              },
+              {
+                "a": "(i) +15 > −6\n+15 is greater than −6\n(ii) −8 < 0\n−8 is smaller than 0\n(iii) +16 > 0\n+16 is greater than 0\n(iv) −2 > −8\n−2 is greater than −8\n(v) +7 < +9\n+7 is smaller than +9\n(vi) −4 < −1\n−4 is smaller than −1",
+                "q": "Decide whether first number is greater or smaller.\n(i) +15, −6\n(ii) −8, 0\n(iii) +16, 0\n(iv) −2, −8\n(v) +7, +9\n(vi) −4, −1"
+              },
+              {
+                "a": "(i) Left\n(ii) Right\n(iii) Right\n(iv) Left",
+                "q": "Fill in the blanks from given options.\n(i) −5 is on ______ of + 6 (left, right)\n(ii) +6 is on ______ of −7 (left, right)\n(iii) 0 is on ______ of −15 (left, right)\n(iv) 0 is on ______ of 20 (left, right)"
+              },
+              {
+                "a": "(i) +10 > −20\n(ii) −16 < −4\n(iii) +25 > −100\n(iv) +30 < +50\n(v) −17 < +17\n(vi) 0 > −5",
+                "q": "Fill in the blanks from given options.\n(i) +10 ______ −20 (<, >)\n(ii) −16 ______ −4 (<, >)\n(iii) +25 ______ −100 (<, >)\n(iv) +30 ______ +50 (<, >)\n(v) −17 ______ +17 (<, >)\n(vi) 0 ______ −5 (<, >)"
+              },
+              {
+                "a": "(i) Ascending order: −7, −3, −1, 0, +1, +5\nDescending order: +5, +1, 0, −1, −3, −7\n(ii) Ascending order: −3, −1, 0, +2, +4, +5\nDescending order: +5, +4, +2, 0, −1, −3\n(iii) Ascending order: −5, −4, 0, +4, +5\nDescending order: +5, +4, 0, −4, −5\n(iv) Ascending order: −8, −7, −4, −2, −1\nDescending order: −1, −2, −4, −7, −8",
+                "q": "Arrange the given integers in ascending and descending order.\n(i) +5, −7, +1, 0, −3, −1\n(ii) −3, +4, 0, −1, +2, +5\n(iii) 0, −4, +4, −5, +5\n(iv) −4, −1, −7, −2, −8"
+              },
+              {
+                "a": "(i) |−5| = 5\n(ii) |+20| = 20\n(iii) |0| = 0\n(iv) |−18| = 18\n(v) |+50| = 50",
+                "q": "Write the absolute values of the following.\n(i) −5 (ii) +20 (iii) 0 (iv) −18 (v) +50"
+              },
+              {
+                "a": "(i) |−4| = 4\n|+1| = 1\n|−6| = 6\n|+3| = 3\n|0| = 0\n|+5| = 5\nAscending order: 0, 1, 3, 4, 5, 6\nDescending order: 6, 5, 4, 3, 1, 0\n(ii) |−25| = 25\n|0| = 0\n|+17| = 17\n|−10| = 10\n|+30| = 30\n|−60| = 60\nAscending order: 0, 10, 17, 25, 30, 60\nDescending order: 60, 30, 25, 17, 10, 0\n(iii) |−20| = 20\n|−10| = 10\n|+11| = 11\n|+7| = 7\n|0| = 0\n|−4| = 4\nAscending order: 0, 4, 7, 10, 11, 20\nDescending order: 20, 11, 10, 7, 4, 0\n(iv) |+8| = 8\n|−5| = 5\n|+13| = 13\n|−9| = 9\n|−12| = 12\n|+3| = 3\nAscending order: 3, 5, 8, 9, 12, 13\nDescending order: 13, 12, 9, 8, 5, 3",
+                "q": "Arrange the absolute values of given numbers in ascending and descending orders.\n(i) −4, +1, −6, +3, 0, +5\n(ii) −25, 0, +17, −10, +30, −60\n(iii) −20, −10, +11, +7, 0, −4\n(iv) +8, −5, +13, −9, −12, +3"
+              },
+              {
+                "a": "(i) True\n(ii) False\n(iii) True\n(iv) False\n|−5| = 5\n|+4| = 4\n5 > 4\n(v) False\n−5 > −10\n(vi) True\n−25 > −100\n(vii) True",
+                "q": "Write True or False.\n(i) Positive integer is always greater than negative integer. ( )\n(ii) 0 is a positive integer. ( )\n(iii) Every negative integer is less than zero. ( )\n(iv) Absolute value of −5 is less than absolute of +4. ( )\n(v) −5 is smaller than −10. ( )\n(vi) −25 is greater than −100. ( )\n(vii) Numerical value of a number can never be negative. ( )"
+              }
+            ],
+            "label": "Exercise 4.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 0 → +2 → +9\n(+2) + (+7) = +9\n(ii) 0 → −5 → −11\n(−5) + (−6) = −11\n(iii) 0 → +7 → +3\n(+7) + (−4) = +3\n(iv) 0 → −8 → −6\n(−8) + (+2) = −6\n(v) 0 → +5 → −3\n(+5) + (−8) = −3\n(vi) 0 → +9 → 0\n(+9) + (−9) = 0",
+                "q": "Find the sum using number line.\n(i) (+2) + (+7)\n(ii) (−5) + (−6)\n(iii) (+7) + (−4)\n(iv) (−8) + (+2)\n(v) (+5) + (−8)\n(vi) (+9) + (−9)"
+              },
+              {
+                "a": "(i) 0 → +5 → +7 → +10\n(+5) + (+2) + (+3) = +10\n(ii) 0 → −5 → −8 → −12\n(−5) + (−3) + (−4) = −12\n(iii) 0 → +4 → +9 → +10\n(+4) + (+5) + (+1) = +10\n(iv) 0 → −2 → −8 → −13\n(−2) + (−6) + (−5) = −13",
+                "q": "Find the sum using number line.\n(i) (+5) + (+2) + (+3)\n(ii) (−5) + (−3) + (−4)\n(iii) (+4) + (+5) + (+1)\n(iv) (−2) + (−6) + (−5)"
+              },
+              {
+                "a": "(i) |+10| = 10\n|+20| = 20\n(+10) + (+20) = +(10 + 20) = +30\n(ii) |−15| = 15\n|−25| = 25\n(−15) + (−25) = −(15 + 25) = −40\n(iii) |−20| = 20\n|−7| = 7\n(−20) + (−7) = −(20 + 7) = −27\n(iv) |+5| = 5\n|−14| = 14\n(+5) + (−14) = −(14 − 5) = −9\n(v) |−14| = 14\n|+8| = 8\n(−14) + (+8) = −(14 − 8) = −6\n(vi) |−30| = 30\n|+30| = 30\n(−30) + (+30) = 0",
+                "q": "Solve the following.\n(i) (+10) + (+20)\n(ii) (−15) + (−25)\n(iii) (−20) + (−7)\n(iv) (+5) + (−14)\n(v) (−14) + (+8)\n(vi) (−30) + (+30)"
+              }
+            ],
+            "label": "Exercise 4.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) (+6) − (+4) = (+6) + (−4) = +2\n(ii) (−8) − (−3) = (−8) + (+3) = −5\n(iii) (−9) − (−3) = (−9) + (+3) = −6\n(iv) (−9) − (+5) = (−9) + (−5) = −14\n(v) (+9) − (−2) = (+9) + (+2) = +11\n(vi) (−7) − (+4) = (−7) + (−4) = −11",
+                "q": "Find the difference using number line.\n(i) (+6) − (+4)\n(ii) (−8) − (−3)\n(iii) (−9) − (−3)\n(iv) (−9) − (+5)\n(v) (+9) − (−2)\n(vi) (−7) − (+4)"
+              },
+              {
+                "a": "(i) (−10) − (+6) = (−10) + (−6) = −16\n(ii) (−20) − (−10) = (−20) + (+10) = −10\n(iii) (−7) − (−8) = (−7) + (+8) = +1\n(iv) (+20) − (+15) = (+20) + (−15) = +5\n(v) (+14) − (−6) = (+14) + (+6) = +20\n(vi) (−6) − (−9) = (−6) + (+9) = +3",
+                "q": "Subtract.\n(i) +6 from −10\n(ii) −10 from −20\n(iii) −8 from −7\n(iv) 15 from +20\n(v) −6 from +14\n(vi) −9 from −6"
+              },
+              {
+                "a": "(i) (+25) − (−15) = (+25) + (+15) = +40\n(ii) (−30) − (−25) = (−30) + (+25) = −5\n(iii) (−11) − (+5) = (−11) + (−5) = −16\n(iv) (+40) − (+30) = (+40) + (−30) = +10\n(v) (−16) − (−18) = (−16) + (+18) = +2\n(vi) (+15) − (−20) = (+15) + (+20) = +35\n(vii) (−29) − (+17) = (−29) + (−17) = −46\n(viii) (−20) + (−30) = −(20 + 30) = −50\n(ix) (−27) + (+17) = −(27 − 17) = −10",
+                "q": "Solve the following.\n(i) (+25) − (−15)\n(ii) (−30) − (−25)\n(iii) (−11) − (+5)\n(iv) (+40) − (+30)\n(v) (−16) − (−18)\n(vi) (+15) − (−20)\n(vii) (−29) − (+17)\n(viii) (−20) + (−30)\n(ix) (−27) + (+17)"
+              }
+            ],
+            "label": "Exercise 4.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 15 × 4 = 60\n(+15) × (−4) = −60\n(ii) 20 × 17 = 340\n20 × 10 = 200\n20 × 7 = 140\n200 + 140 = 340\n(+20) × (+17) = +340\n(iii) 16 × 25 = 400\n16 × 20 = 320\n16 × 5 = 80\n320 + 80 = 400\n(−16) × (−25) = +400\n(iv) 36 × 12 = 432\n36 × 10 = 360\n36 × 2 = 72\n360 + 72 = 432\n(−36) × (+12) = −432\n(v) 35 × 14 = 490\n35 × 10 = 350\n35 × 4 = 140\n350 + 140 = 490\n(+35) × (−14) = −490\n(vi) 43 × 16 = 688\n43 × 10 = 430\n43 × 6 = 258\n430 + 258 = 688\n(−43) × (−16) = +688",
+                "q": "Find the product.\n(i) (+15) × (−4)\n(ii) (+20) × (+17)\n(iii) (−16) × (−25)\n(iv) (−36) × (+12)\n(v) (+35) × (−14)\n(vi) (−43) × (−16)"
+              },
+              {
+                "a": "(i) 25 ÷ 5 = 5\n(+25) ÷ (−5) = −5\n(ii) 35 ÷ 7 = 5\n(−35) ÷ (−7) = +5\n(iii) 100 ÷ 4 = 25\n4 ) 100 ( 25\n− 8\n______\n20\n− 20\n______\n0\n(+100) ÷ (+4) = +25\n(iv) 252 ÷ 4 = 63\n4 ) 252 ( 63\n− 24\n______\n12\n− 12\n______\n0\n(−252) ÷ (+4) = −63\n(v) 234 ÷ 3 = 78\n3 ) 234 ( 78\n− 21\n______\n24\n− 24\n______\n0\n(−234) ÷ (+3) = −78\n(vi) 126 ÷ 6 = 21\n6 ) 126 ( 21\n− 12\n______\n06\n− 6\n______\n0\n(−126) ÷ (−6) = +21",
+                "q": "Find the quotient.\n(i) (+25) ÷ (−5)\n(ii) (−35) ÷ (−7)\n(iii) (+100) ÷ (+4)\n(iv) (−252) ÷ (+4)\n(v) (−234) ÷ (+3)\n(vi) (−126) ÷ (−6)"
+              },
+              {
+                "a": "(i) False\n+5 ÷ 0 is not possible\n(ii) True\n0 ÷ +6 = 0\n(iii) False\n+9 × 0 = 0\n(iv) True\n+6 × 0 = 0\n(v) False\n(−10) ÷ (−10) = +1\n(vi) True\n(−20) × (−1) = +20\n(vii) False\n(+5) ÷ (−5) = −1\n(viii) True\n(−18) ÷ (−3) = +6",
+                "q": "Write true or false.\n(i) +5 ÷ 0 = 0 ( )\n(ii) 0 ÷ +6 = 0 ( )\n(iii) +9 × 0 = +9 ( )\n(iv) +6 × 0 = 0 ( )\n(v) (−10) ÷ (−10) = −1 ( )\n(vi) (−20) × (−1) = +20 ( )\n(vii) (+5) ÷ (−5) = 1 ( )\n(viii) (−18) ÷ (−3) = (+6) ( )"
+              }
+            ],
+            "label": "Exercise 4.4"
+          },
+          {
+            "items": [
+              {
+                "a": "−4, −3, −2, −1, 0, +1, +2, +3, +4",
+                "q": "Write all numbers between −5 and + 5."
+              },
+              {
+                "a": "(i) −5, −2, 0, +3, +5\n(ii) −6, −3, −1, +1, +4, +6",
+                "q": "Represent the following integers on a number line.\n(i) −5, −2, 0, +3, +5\n(ii) −6, −3, −1, +1, +4, +6"
+              },
+              {
+                "a": "(i) |−3| = 3\n|+4| = 4\n|−4| = 4\n|+6| = 6\n|0| = 0\n(ii) |+2| = 2\n|−7| = 7\n|+1| = 1\n|0| = 0\n|+4| = 4\n|−2| = 2",
+                "q": "Write the absolute values of:\n(i) −3, +4, −4, +6, 0\n(ii) +2, −7, +1, 0, +4, −2"
+              },
+              {
+                "a": "(i) 0 → +6 → −3\n(+6) + (−9) = −3\n(ii) 0 → −9 → −15\n(−9) + (−6) = −15\n(iii) 0 → +9 → +16 → +11\n(+9) + (+7) + (−5) = +11\n(iv) 0 → −1 → −3 → 0\n(−1) + (−2) + (3) = 0",
+                "q": "Find the sum using number line.\n(i) (+6) + (−9)\n(ii) (−9) + (−6)\n(iii) (+9) + (+7) + (−5)\n(iv) (−1) + (−2) + (3)"
+              },
+              {
+                "a": "(i) (+5) − (+3) = (+5) + (−3) = +2\n(ii) (−7) − (−2) = (−7) + (+2) = −5\n(iii) (+4) − (−3) = (+4) + (+3) = +7",
+                "q": "Find the difference using number line.\n(i) (+5) − (+3)\n(ii) (−7) − (−2)\n(iii) (+4) − (−3)"
+              },
+              {
+                "a": "(i) (+6) + (−10) = −(10 − 6) = −4\n(ii) (−10) + (−4) = −(10 + 4) = −14\n(iii) (−8) + (+5) = −(8 − 5) = −3\n(iv) (+20) − (−10) = (+20) + (+10) = +30\n(v) (−20) − (−15) = (−20) + (+15) = −5\n(vi) (+40) − (+25) = (+40) + (−25) = +15",
+                "q": "Solve the following:\n(i) (+6) + (−10)\n(ii) (−10) + (−4)\n(iii) (−8) + (+5)\n(iv) (+20) − (−10)\n(v) (−20) − (−15)\n(vi) (+40) − (+25)"
+              },
+              {
+                "a": "(i) 10 × 5 = 50\n(+10) × (−5) = −50\n(ii) 6 × 9 = 54\n(−6) × (−9) = +54\n(iii) 20 × 6 = 120\n(+20) × (+6) = +120\n(iv) 15 × 3 = 45\n(−15) × (+3) = −45\n(v) 6 × 0 = 0\n(+6) × 0 = 0\n(vi) 10 × 8 = 80\n(−10) × (−8) = +80",
+                "q": "Solve the following:\n(i) (+10) × (−5)\n(ii) (−6) × (−9)\n(iii) (+20) × (+6)\n(iv) (−15) × (+3)\n(v) (+6) × 0\n(vi) (−10) × (−8)"
+              },
+              {
+                "a": "(i) 20 ÷ 4 = 5\n(+20) ÷ (−4) = −5\n(ii) 15 ÷ 3 = 5\n(−15) ÷ (−3) = +5\n(iii) 36 ÷ 6 = 6\n(−36) ÷ (+6) = −6\n(iv) 40 ÷ 10 = 4\n(+40) ÷ (+10) = +4",
+                "q": "Find the quotient.\n(i) (+20) ÷ (−4)\n(ii) (−15) ÷ (−3)\n(iii) (−36) ÷ (+6)\n(iv) (+40) ÷ (+10)"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Integers",
+        "unit": 4,
+        "display": "Integers"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "[[1/2]] + [[2/5]] = [[5/10]] + [[4/10]] = [[9/10]]\n[[2/5]] ÷ [[4/15]] = [[2/5]] × [[15/4]] = [[30/20]] = [[3/2]]\n[[3/2]] × [[1/2]] = [[3/4]]\n[[3/4]] − [[9/10]] = [[15/20]] − [[18/20]] = −[[3/20]]\n[[1/5]] − (−[[3/20]]) = [[4/20]] + [[3/20]] = [[7/20]]",
+                "q": "[[1/5]] − {[[2/5]] ÷ [[4/15]] × [[1/2]] − ([[1/2]] + [[2/5]])}"
+              },
+              {
+                "a": "[[1/2]] + [[2/3]] = [[3/6]] + [[4/6]] = [[7/6]]\n[[4/3]] − [[7/6]] = [[8/6]] − [[7/6]] = [[1/6]]\n[[1/6]] + [[4/5]] = [[5/30]] + [[24/30]] = [[29/30]]\n[[3/4]] + [[29/30]] = [[45/60]] + [[58/60]] = [[103/60]] = 1 [[43/60]]",
+                "q": "[[3/4]] + ([[4/3]] − ([[1/2]] + [[2/3]]) + [[4/5]])"
+              },
+              {
+                "a": "[[1/2]] + [[1/3]] = [[3/6]] + [[2/6]] = [[5/6]]\n[[5/6]] ÷ [[5/6]] = 1\n[[5/7]] + 1 = [[12/7]]\n[[7/8]] + [[12/7]] = [[49/56]] + [[96/56]] = [[145/56]] = 2 [[33/56]]",
+                "q": "[[7/8]] + {[[5/7]] + ([[1/2]] + [[1/3]]) ÷ [[5/6]]}"
+              },
+              {
+                "a": "[[5/6]] − [[2/3]] = [[5/6]] − [[4/6]] = [[1/6]]\n[[3/5]] + [[6/25]] = [[15/25]] + [[6/25]] = [[21/25]]\n[[5/2]] × [[1/6]] = [[5/12]]\n[[5/12]] ÷ [[2/5]] = [[5/12]] × [[5/2]] = [[25/24]]\n[[25/24]] × [[21/25]] = [[21/24]] = [[7/8]]",
+                "q": "[[5/2]] × ([[5/6]] − [[2/3]]) ÷ [[2/5]] × ([[3/5]] + [[6/25]])"
+              },
+              {
+                "a": "[[2/3]] − [[3/4]] = [[8/12]] − [[9/12]] = −[[1/12]]\n−[[1/12]] × [[1/8]] = −[[1/96]]\n[[3/4]] + [[5/8]] = [[6/8]] + [[5/8]] = [[11/8]]\n[[2/3]] − [[11/8]] = [[16/24]] − [[33/24]] = −[[17/24]]\n−[[1/96]] ÷ (−[[17/24]]) = −[[1/96]] × (−[[24/17]]) = [[1/68]]",
+                "q": "(([[2/3]] − [[3/4]]) × [[1/8]]) ÷ ([[2/3]] − ([[3/4]] + [[5/8]]))"
+              },
+              {
+                "a": "[[1/10]] + [[3/5]] = [[1/10]] + [[6/10]] = [[7/10]]\n[[4/5]] − [[7/10]] = [[8/10]] − [[7/10]] = [[1/10]]\n[[2/5]] ÷ [[1/10]] = [[2/5]] × 10 = 4\n[[1/3]] ÷ 4 = [[1/12]]\n1 [[1/2]] + [[1/12]] = [[18/12]] + [[1/12]] = [[19/12]] = 1 [[7/12]]",
+                "q": "1 [[1/2]] + [ [[1/3]] ÷ {[[2/5]] ÷ ([[4/5]] − ([[1/10]] + [[3/5]]))}]"
+              },
+              {
+                "a": "[[3/4]] ÷ [[9/16]] = [[3/4]] × [[16/9]] = [[4/3]]\n[[4/3]] × 1 [[1/2]] = [[4/3]] × [[3/2]] = 2\n[[1/2]] + 2 = 2 [[1/2]]\n2 [[1/2]] − 2 [[1/4]] = [[10/4]] − [[9/4]] = [[1/4]]",
+                "q": "[ [[1/2]] + {([[3/4]] ÷ [[9/16]]) × 1 [[1/2]]} − 2 [[1/4]]]"
+              },
+              {
+                "a": "10 [[2/5]] − 5 [[1/3]] = [[52/5]] − [[16/3]] = [[156/15]] − [[80/15]] = [[76/15]]\n[[76/15]] ÷ 3 [[2/3]] = [[76/15]] ÷ [[11/3]] = [[76/15]] × [[3/11]] = [[76/55]]\n3 [[1/2]] + [[76/55]] = [[385/110]] + [[152/110]] = [[537/110]]\n[[537/110]] − 1 [[1/5]] = [[537/110]] − [[132/110]] = [[405/110]] = 3 [[15/22]]",
+                "q": "3 [[1/2]] + {(10 [[2/5]] − 5 [[1/3]]) ÷ 3 [[2/3]]} − 1 [[1/5]]"
+              },
+              {
+                "a": "2 [[3/4]] + 1 [[2/6]] = [[11/4]] + [[4/3]] = [[33/12]] + [[16/12]] = [[49/12]]\n1 [[1/5]] ÷ [[2/5]] = [[6/5]] × [[5/2]] = 3\n[[49/12]] × 3 = [[49/4]] = 12 [[1/4]]",
+                "q": "[(2 [[3/4]] + 1 [[2/6]]) × (1 [[1/5]] ÷ [[2/5]])]"
+              },
+              {
+                "a": "[[1/2]] − [[1/3]] = [[3/6]] − [[2/6]] = [[1/6]]\n1 [[2/3]] ÷ [[1/9]] = [[5/3]] × 9 = 15\n[[1/6]] + 15 = [[91/6]]\n[[5/3]] − [[1/6]] = [[10/6]] − [[1/6]] = [[9/6]] = [[3/2]]\n[[3/2]] ÷ [[9/6]] = [[3/2]] × [[6/9]] = 1\n[[91/6]] − 1 = [[85/6]] = 14 [[1/6]]",
+                "q": "{([[1/2]] − [[1/3]]) + (1 [[2/3]] ÷ [[1/9]])} − {([[5/3]] − [[1/6]]) ÷ [[9/6]]}"
+              },
+              {
+                "a": "[[5/3]] − [[1/6]] = [[10/6]] − [[1/6]] = [[9/6]] = [[3/2]]\n3 [[1/3]] − [[1/2]] + [[3/2]] = [[10/3]] − [[1/2]] + [[3/2]] = [[10/3]] + 1 = [[13/3]]\n2 [[1/4]] × [[13/3]] = [[9/4]] × [[13/3]] = [[39/4]]\n[[39/4]] + [[5/6]] = [[117/12]] + [[10/12]] = [[127/12]] = 10 [[7/12]]",
+                "q": "[2 [[1/4]] × {3 [[1/3]] − [[1/2]] + ([[5/3]] − [[1/6]])}] + [[5/6]]"
+              },
+              {
+                "a": "3 [[1/2]] × 5 [[1/3]] = [[7/2]] × [[16/3]] = [[56/3]]\n[[56/3]] − 10 [[2/5]] = [[280/15]] − [[156/15]] = [[124/15]]\n6 [[1/2]] ÷ 2 [[1/6]] = [[13/2]] ÷ [[13/6]] = [[13/2]] × [[6/13]] = 3\n3 [[1/8]] − 3 = [[1/8]]\n[[124/15]] × [[1/8]] = [[31/30]] = 1 [[1/30]]",
+                "q": "(3 [[1/2]] × 5 [[1/3]] − 10 [[2/5]]) × (3 [[1/8]] − 6 [[1/2]] ÷ 2 [[1/6]])"
+              },
+              {
+                "a": "2 [[1/5]] ÷ 3 [[2/25]] = [[11/5]] ÷ [[77/25]] = [[11/5]] × [[25/77]] = [[5/7]]\n[[5/7]] × 4 [[2/5]] = [[5/7]] × [[22/5]] = [[22/7]]\n3 − [[1/5]] = [[14/5]]\n[[22/7]] ÷ [[14/5]] = [[22/7]] × [[5/14]] = [[55/49]] = 1 [[6/49]]",
+                "q": "(2 [[1/5]] ÷ 3 [[2/25]]) × 4 [[2/5]] ÷ (3 − [[1/5]])"
+              },
+              {
+                "a": "2.11 + 3.89 = 6.00\n1.2 × 6.00 = 7.2\n4.02 × 7.2 = 28.944",
+                "q": "4.02 × {1.2 × (2.11 + 3.89)}"
+              },
+              {
+                "a": "1.5 + 2.4 = 3.9\n5.2 × 3.9 = 20.28\n4.093 + 20.28 = 24.373",
+                "q": "4.093 + {5.2 × (1.5 + 2.4)}"
+              },
+              {
+                "a": "1.5 × 2.4 = 3.6\n1.3 × 7.2 = 9.36\n9.36 ÷ 3.6 = 2.6\n6.7 + 2.6 = 9.3\n5.7 × 9.3 = 53.01",
+                "q": "5.7 × {6.7 + (1.3 × 7.2 ÷ (1.5 × 2.4))}"
+              },
+              {
+                "a": "4.5 ÷ 1.5 = 3\n1.2 × 3 = 3.6\n3.7 − 3.6 = 0.1\n0.3 × 2.6 = 0.78\n0.78 + 0.1 = 0.88",
+                "q": "0.3 × 2.6 + {3.7 − (1.2 × (4.5 ÷ 1.5))}"
+              },
+              {
+                "a": "1.05 + 1.5 = 2.55\n3.41 − 2.55 = 0.86\n0.86 × 3.5 = 3.01\n3.01 ÷ 1.25 = 2.408",
+                "q": "{(3.41 − (1.05 + 1.5)) × 3.5} ÷ 1.25"
+              },
+              {
+                "a": "3.5 ÷ 0.7 = 5\n5 × 0.01 = 0.05\n8.95 − 0.05 = 8.9\n6.35 × 8.9 = 56.515\n30.45 + 56.515 = 86.965",
+                "q": "30.45 + [6.35 × {8.95 − (3.5 ÷ 0.7 × 0.01)}]"
+              },
+              {
+                "a": "9 ÷ 0.3 = 30\n0.2 × 30 = 6\n6 − 0.09 = 5.91\n2.297 + 5.91 = 8.207",
+                "q": "2.297 + [0.2 × {9 ÷ 0.3} − 0.09]"
+              },
+              {
+                "a": "2.5 − 2 = 0.5\n0.5 + 1.5 = 2\n2 × 0.5 = 1\n1 − 0.05 = 0.95",
+                "q": "{(2.5 − 2) + 1.5} × 0.5 − 0.05"
+              },
+              {
+                "a": "1.3 × 0.3 = 0.39\n0.39 + 0.6 = 0.99\n2.4 − 0.99 = 1.41\n2.82 ÷ 1.41 = 2\n2.04 + 2 = 4.04",
+                "q": "2.04 + [2.82 ÷ {2.4 − (1.3 × 0.3 + 0.6)}]"
+              },
+              {
+                "a": "7.45 − 1.35 = 6.10\n6.10 + 1.5 = 7.6\n7.6 × 1.25 = 9.5\n9.5 ÷ 2.5 = 3.8",
+                "q": "[{7.45 − 1.35 + 1.5} × 1.25 ÷ 2.5]"
+              }
+            ],
+            "label": "Exercise 5.1"
+          },
+          {
+            "items": [
+              {
+                "a": "Students using own vehicles = [[3/10]] of 640 = [[3/10]] × 640 = 192\nStudents using public transport = [[5/8]] of 640 = [[5/8]] × 640 = 400\nStudents coming on foot = 640 − 192 − 400 = 48",
+                "q": "There are 640 students in total in a school. [[3/10]] of the students use own vehicles, [[5/8]] use public transport and the remaining students come on foot. How many students of the school come on foot?"
+              },
+              {
+                "a": "Oranges sold = [[3/7]] of 140 = [[3/7]] × 140 = 60\nOranges spoilt = [[1/14]] of 140 = [[1/14]] × 140 = 10\nOranges left = 140 − 60 − 10 = 70",
+                "q": "From a box of 140 oranges, [[3/7]] of the oranges were sold and [[1/14]] got spoilt. What is the number of the oranges left in the box?"
+              },
+              {
+                "a": "Part coming by train, bus and own vehicles = [[1/8]] + [[2/7]] + [[1/4]] = [[7/56]] + [[16/56]] + [[14/56]] = [[37/56]]\nPart coming on foot = 1 − [[37/56]] = [[19/56]]",
+                "q": "A crowd of people was gathered for a cricket match. [[1/8]] of crowd had come by train, [[2/7]] by bus, [[1/4]] by own vehicles and the remaining people came on foot. Find the part of people who came on foot."
+              },
+              {
+                "a": "Amount given to mother = [[16/29]] of 58000 = [[16/29]] × 58000 = Rs 32000\nRemainder = 58000 − 32000 = Rs 26000\nAmount given in Zakat fund = [[1/4]] of 26000 = Rs 6500\nAmount left = 58000 − 32000 − 6500 = Rs 19500",
+                "q": "Maira had Rs 58,000. She gave [[16/29]] of it to her mother and [[1/4]] of the remainder in Zakat fund. Find the amount left with her?"
+              },
+              {
+                "a": "Plants survived = 425 − 25 = 400\nFraction survived = [[400/425]] = [[16/17]]",
+                "q": "Aamir planted 425 plants of tomatoes. After some days 25 plants died. What fraction of plants was survived?"
+              },
+              {
+                "a": "Fraction given to daughter and son = [[2/5]] + [[1/7]] = [[14/35]] + [[5/35]] = [[19/35]]\nFraction given to wife = 1 − [[19/35]] = [[16/35]]",
+                "q": "Aijaz gave [[2/5]] of his money to his daughter, [[1/7]] to his son and the remainder to his wife. What fraction of the amount was given to his wife."
+              },
+              {
+                "a": "Cloth left = 26.50 − 5.80 − 11.50 = 9.20 metres\nFraction of total cloth left = [[9.20/26.50]] = [[920/2650]] = [[92/265]]",
+                "q": "Adeel had 26.50 metres of cloth. He used 5.80 metres of cloth for his suit. He gives 11.50 metres of cloth to his brother. How much cloth is left with Adeel in fraction?"
+              },
+              {
+                "a": "Cost of cooking oil = 5 × 121.80 = Rs 609.00\nCost of rice = 3 × 235.50 = Rs 706.50\nCost of flour = 40 × 42.70 = Rs 1708.00\nTotal amount = 609.00 + 706.50 + 1708.00 = Rs 3023.50",
+                "q": "Anum's family purchased 5 packets of cooking oil at the rate of Rs 121.80 per packet, 3 bags of rice at the rate of Rs 235.50 per bag and 40 kg flour at the rate of Rs 42.70 per kg. Find the total amount paid by her."
+              },
+              {
+                "a": "Money spent on Monday, Tuesday and Wednesday = 0.06 + 0.25 + 0.50 = 0.81\nMoney left for Thursday = 1 − 0.81 = 0.19 = [[19/100]]",
+                "q": "Umair spent 0.06 of his pocket money on Monday, 0.25 on Tuesday and 0.50 on Wednesday. Remaining money spent on Thursday. What fraction of his pocket money he had on Thursday?"
+              },
+              {
+                "a": "Cost of bulbs = 2 × 80.95 = Rs 161.90\nCost of stools = 4 × 105.50 = Rs 422.00\nCost of tables = 3 × 530.95 = Rs 1592.85\nCost of chairs = 6 × 458.30 = Rs 2749.80\nTotal amount = 161.90 + 422.00 + 1592.85 + 2749.80 = Rs 4926.55",
+                "q": "Sobia purchased the following items for her home.\n(i) Two electric bulbs at the rate of Rs 80.95 each.\n(ii) Four small stools at the rate of Rs 105.50 each.\n(iii) Three tables at the rate of Rs 530.95 each.\n(iv) Six chairs at the rate of Rs 458.30 each.\nFind the total amount paid by her."
+              }
+            ],
+            "label": "Exercise 5.2"
+          },
+          {
+            "items": [
+              {
+                "a": "1 [[1/4]] − [[2/3]] = [[5/4]] − [[2/3]] = [[15/12]] − [[8/12]] = [[7/12]]\n[[7/12]] × 1 [[1/7]] = [[7/12]] × [[8/7]] = [[2/3]]\n2 [[3/5]] − [[2/3]] = [[13/5]] − [[2/3]] = [[39/15]] − [[10/15]] = [[29/15]]\n1 [[2/5]] ÷ [[29/15]] = [[7/5]] × [[15/29]] = [[21/29]]",
+                "q": "1 [[2/5]] ÷ {2 [[3/5]] − ((1 [[1/4]] − [[2/3]]) × 1 [[1/7]])}"
+              },
+              {
+                "a": "[[1/2]] − [[1/5]] = [[5/10]] − [[2/10]] = [[3/10]]\n[[3/10]] ÷ 1 [[1/2]] = [[3/10]] ÷ [[3/2]] = [[3/10]] × [[2/3]] = [[1/5]]\n[[1/3]] − [[1/5]] = [[5/15]] − [[3/15]] = [[2/15]]\n[[2/3]] ÷ [[2/15]] = [[2/3]] × [[15/2]] = 5\n2 [[1/4]] ÷ 5 = [[9/4]] × [[1/5]] = [[9/20]]",
+                "q": "2 [[1/4]] ÷ [ [[2/3]] ÷ {[[1/3]] − (([[1/2]] − [[1/5]]) ÷ 1 [[1/2]])}]"
+              },
+              {
+                "a": "3.9 × 0.8 = 3.12\n1.3 − 1.2 = 0.1\n0.1 × 2.5 = 0.25\n4.8 ÷ 1.2 = 4\n4 − 0.25 = 3.75\n3.12 − 1.3 + 3.75 = 5.57\n4.3 × 5.57 = 23.951",
+                "q": "4.3 × [3.9 × 0.8 − 1.3 + {4.8 ÷ 1.2 − ((1.3 − 1.2) × 2.5)}]"
+              },
+              {
+                "a": "2.5 + 1.9 = 4.4\n1.04 − 4.4 = −3.36\n1.05 × 1.17 = 1.2285\n1.2285 + (−3.36) = −2.1315\n2.9 − (−2.1315) = 5.0315",
+                "q": "2.9 − [1.05 × 1.17 + (1.04 − (2.5 + 1.9))]"
+              },
+              {
+                "a": "Meat given in charity = [[1/3]] of 13 [[5/7]] = [[1/3]] × [[96/7]] = [[32/7]] kg\nMeat left = 13 [[5/7]] − [[32/7]] = [[96/7]] − [[32/7]] = [[64/7]] kg = 9 [[1/7]] kg",
+                "q": "Bilal sacrifices a goat and get 13 [[5/7]] kg of meat. He gave one third of meat in charity. How much meat is left with him?"
+              },
+              {
+                "a": "Fraction of solved questions = [[15/25]] = [[3/5]]\nFraction of unsolved questions = [[10/25]] = [[2/5]]",
+                "q": "Azhar solved 15 questions out of 25 questions of mathematics. Find the fractions of solved and unsolved questions."
+              },
+              {
+                "a": "Part read on next day = 1 − [[2/5]] = [[3/5]]\nPages read on first day = [[2/5]] of 150 = [[2/5]] × 150 = 60\nPages read on next day = [[3/5]] of 150 = [[3/5]] × 150 = 90",
+                "q": "Fareena read [[2/5]] of the book in one day. Remaining of the book was read on next day. What part of the book was read on next day? If book contains 150 pages, then find the number of pages she read on first day and the next day."
+              },
+              {
+                "a": "Cost of local tiles = 240.34 × 327.34 = Rs 78672.8956\nCost of imported tiles = 105.28 × 539.99 = Rs 56850.1472\nTotal amount = 78672.8956 + 56850.1472 = Rs 135523.0428 = Rs 135523.04",
+                "q": "A contractor purchased tiles of different qualities for a building repair as under:\n(i) Local Tiles 240.34 square metres at the rate of Rs 327.34 per square metre.\n(ii) Imported Tiles 105.28 square metres at the rate of Rs 539.99 per square metre.\nFind the total amount paid by the contractor."
+              },
+              {
+                "a": "False",
+                "q": "(i) The symbol for vinculum is [ ]"
+              },
+              {
+                "a": "False",
+                "q": "(ii) In simplification, if there is a negative sign before a bracket, then the sign inside the bracket remains unchanged, when removing the brackets."
+              },
+              {
+                "a": "True",
+                "q": "(iii) The expression 35 + 2 × 8 is simplified by first multiplying 2 by 8 and then adding 35 to it."
+              },
+              {
+                "a": "Multiplication",
+                "q": "(i) In BODMAS, M stands for ___."
+              },
+              {
+                "a": "Braces or curly brackets",
+                "q": "(ii) The bracket { } is called ___."
+              },
+              {
+                "a": "Parenthesis, braces, square brackets",
+                "q": "(iii) Brackets are simplified in the order as: vinculum, ___, ___ and ___."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Simplifications",
+        "unit": 5,
+        "display": "Simplifications"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "4 : 50 = 2 : 25",
+                "q": "Reduce into lowest equivalent form: (i) 4 : 50"
+              },
+              {
+                "a": "0.8 : 72 = 0.8 × 10 : 72 × 10 = 8 : 720 = 1 : 90",
+                "q": "Reduce into lowest equivalent form: (ii) 0.8 : 72"
+              },
+              {
+                "a": "3.5 : 4.9 = 3.5 × 10 : 4.9 × 10 = 35 : 49 = 5 : 7",
+                "q": "Reduce into lowest equivalent form: (iii) 3.5 : 4.9"
+              },
+              {
+                "a": "[[13/60]] : [[7/15]]\n[[13/60]] × 60 : [[7/15]] × 60 = 13 : 28",
+                "q": "Reduce into lowest equivalent form: (iv) [[13/60]] : [[7/15]]"
+              },
+              {
+                "a": "[[5/6]] : [[3/10]]\n[[5/6]] × 30 : [[3/10]] × 30 = 25 : 9",
+                "q": "Reduce into lowest equivalent form: (v) [[5/6]] : [[3/10]]"
+              },
+              {
+                "a": "[[2/3]] : 5\n[[2/3]] × 3 : 5 × 3 = 2 : 15",
+                "q": "Reduce into lowest equivalent form: (vi) [[2/3]] : 5"
+              },
+              {
+                "a": "2 [[1/2]] : 4 = [[5/2]] : 4\n[[5/2]] × 2 : 4 × 2 = 5 : 8",
+                "q": "Reduce into lowest equivalent form: (vii) 2 [[1/2]] : 4"
+              },
+              {
+                "a": "[[1/3]] : [[1/6]] : [[1/9]]\n[[1/3]] × 18 : [[1/6]] × 18 : [[1/9]] × 18 = 6 : 3 : 2",
+                "q": "Reduce into lowest equivalent form: (viii) [[1/3]] : [[1/6]] : [[1/9]]"
+              },
+              {
+                "a": "1.5 : 5 : 5.8\n1.5 × 10 : 5 × 10 : 5.8 × 10 = 15 : 50 : 58",
+                "q": "Reduce into lowest equivalent form: (ix) 1.5 : 5 : 5.8"
+              },
+              {
+                "a": "3 [[2/5]] : 0.6 : 3.5 = [[17/5]] : [[3/5]] : [[7/2]]\n[[17/5]] × 10 : [[3/5]] × 10 : [[7/2]] × 10 = 34 : 6 : 35",
+                "q": "Reduce into lowest equivalent form: (x) 3 [[2/5]] : 0.6 : 3.5"
+              },
+              {
+                "a": "[[1/5]] : [[1/10]] : [[1/15]]\n[[1/5]] × 30 : [[1/10]] × 30 : [[1/15]] × 30 = 6 : 3 : 2",
+                "q": "Reduce into lowest equivalent form: (xi) [[1/5]] : [[1/10]] : [[1/15]]"
+              },
+              {
+                "a": "[[1/7]] : [[1/14]] : [[1/21]]\n[[1/7]] × 42 : [[1/14]] × 42 : [[1/21]] × 42 = 6 : 3 : 2",
+                "q": "Reduce into lowest equivalent form: (xii) [[1/7]] : [[1/14]] : [[1/21]]"
+              },
+              {
+                "a": "Rs 150 : Rs 180 = 150 : 180 = 5 : 6",
+                "q": "Find ratio and write in lowest form: (i) Rs 150 and Rs 180"
+              },
+              {
+                "a": "250 cm : 1 m\n1 m = 100 cm\n250 : 100 = 5 : 2",
+                "q": "Find ratio and write in lowest form: (ii) 250 cm and 1 m"
+              },
+              {
+                "a": "700 g : 2 kg\n2 kg = 2000 g\n700 : 2000 = 7 : 20",
+                "q": "Find ratio and write in lowest form: (iii) 700 g and 2 kg"
+              },
+              {
+                "a": "3 hours : 210 minutes\n3 hours = 180 minutes\n180 : 210 = 6 : 7",
+                "q": "Find ratio and write in lowest form: (iv) 3 hours and 210 minutes"
+              },
+              {
+                "a": "5 years : 3 months\n5 years = 60 months\n60 : 3 = 20 : 1",
+                "q": "Find ratio and write in lowest form: (v) 5 years and 3 months"
+              },
+              {
+                "a": "15 days : 2 weeks : 1 month\n2 weeks = 14 days\n1 month = 30 days\n15 : 14 : 30",
+                "q": "Find ratio and write in lowest form: (vi) 15 days, 2 weeks and 1 month"
+              },
+              {
+                "a": "[[2/9]] = 2 : 9",
+                "q": "Convert into ratio form: (i) [[2/9]]"
+              },
+              {
+                "a": "[[5/6]] = 5 : 6",
+                "q": "Convert into ratio form: (ii) [[5/6]]"
+              },
+              {
+                "a": "[[1/75]] = 1 : 75",
+                "q": "Convert into ratio form: (iii) [[1/75]]"
+              },
+              {
+                "a": "3 = [[3/1]] = 3 : 1",
+                "q": "Convert into ratio form: (iv) 3"
+              },
+              {
+                "a": "[[p/q]] = p : q",
+                "q": "Convert into ratio form: (v) [[p/q]]"
+              },
+              {
+                "a": "1 : 5 = [[1/5]]",
+                "q": "Represent into fractions: (i) 1 : 5"
+              },
+              {
+                "a": "2 : 19 = [[2/19]]",
+                "q": "Represent into fractions: (ii) 2 : 19"
+              },
+              {
+                "a": "8 : 1 = [[8/1]] = 8",
+                "q": "Represent into fractions: (iii) 8 : 1"
+              },
+              {
+                "a": "75 : 76 = [[75/76]]",
+                "q": "Represent into fractions: (iv) 75 : 76"
+              },
+              {
+                "a": "x : y = [[x/y]]",
+                "q": "Represent into fractions: (v) x : y"
+              },
+              {
+                "a": "Students passed : Total students = 25 : 45 = 5 : 9",
+                "q": "In a Science test, 25 students out of 45 students of class VI were passed. Find the ratio between the passed students and total students."
+              },
+              {
+                "a": "Expenditure = 20000 − 5000 = Rs 15000\nIncome : Expenditure = 20000 : 15000 = 4 : 3",
+                "q": "Arshad earns Rs 20,000 per month. Find the ratio of his monthly income and expenditure if he saves Rs. 5000 per month."
+              },
+              {
+                "a": "Perimeter of first square = 4 × 2 = 8 cm\nPerimeter of second square = 4 × 5 = 20 cm\nRatio of perimeters = 8 : 20 = 2 : 5",
+                "q": "The measures of sides of two squares are 2 cm and 5 cm. Find the ratio of their perimeters."
+              },
+              {
+                "a": "16 kg = 16000 g\n14 kg 400 g = 14400 g\nRatio of weights = 16000 : 14400 = 10 : 9",
+                "q": "Weight of a sack of flour is 16 kg and the weight of another sack is 14kg 400g. Find the ratio among their weights."
+              },
+              {
+                "a": "Ratio of angles = 30 : 60 : 90 = 1 : 2 : 3",
+                "q": "Measures of angles of a triangle are 30°, 60° and 90°. Find the ratio of these angles according to the given order."
+              }
+            ],
+            "label": "Exercise 6.1"
+          },
+          {
+            "items": [
+              {
+                "a": "Means = 5 and 8\nExtremes = 2 and 20",
+                "q": "Identify means and extremes: (i) 2 : 5 = 8 : 20"
+              },
+              {
+                "a": "Means = 4 and 6\nExtremes = 3 and 8",
+                "q": "Identify means and extremes: (ii) 3 : 4 = 6 : 8"
+              },
+              {
+                "a": "Means = b and c\nExtremes = a and d",
+                "q": "Identify means and extremes: (iii) a : b = c : d"
+              },
+              {
+                "a": "18 : 24 = 30 : 40\nProduct of means = 24 × 30 = 720\nProduct of extremes = 18 × 40 = 720\n720 = 720\nIn proportion",
+                "q": "Decide whether in proportion or not: (i) 18, 24, 30 and 40"
+              },
+              {
+                "a": "14 : 19 = 3 : 4\nProduct of means = 19 × 3 = 57\nProduct of extremes = 14 × 4 = 56\n57 ≠ 56\nNot in proportion",
+                "q": "Decide whether in proportion or not: (ii) 14, 19, 3 and 4"
+              },
+              {
+                "a": "6 : 8 = 12 : 16\nProduct of means = 8 × 12 = 96\nProduct of extremes = 6 × 16 = 96\n96 = 96\nIn proportion",
+                "q": "Decide whether in proportion or not: (iii) 6, 8, 12 and 16"
+              },
+              {
+                "a": "15 : 20 = 16 : 21\nProduct of means = 20 × 16 = 320\nProduct of extremes = 15 × 21 = 315\n320 ≠ 315\nNot in proportion",
+                "q": "Decide whether in proportion or not: (iv) 15, 20, 16 and 21"
+              },
+              {
+                "a": "20 : 30 = 40 : 50\nProduct of means = 30 × 40 = 1200\nProduct of extremes = 20 × 50 = 1000\n1200 ≠ 1000\nNot in proportion",
+                "q": "Decide whether in proportion or not: (v) 20, 30, 40 and 50"
+              },
+              {
+                "a": "21 : 57 = 28 : 76\nProduct of means = 57 × 28 = 1596\nProduct of extremes = 21 × 76 = 1596\n1596 = 1596\nIn proportion",
+                "q": "Decide whether in proportion or not: (vi) 21, 57, 28 and 76"
+              },
+              {
+                "a": "2 : x = 3 : 7\n2 × 7 = x × 3\n14 = 3x\nx = [[14/3]] = 4 [[2/3]]",
+                "q": "Find the value of x if the proportion 2 : x = 3 : 7."
+              },
+              {
+                "a": "2 : 3 = 6 : x\n2 × x = 3 × 6\nx = [[18/2]] = 9",
+                "q": "Find the fourth proportional: (i) 2, 3 and 6"
+              },
+              {
+                "a": "[[11/24]] : [[7/15]] = [[5/8]] : x\n[[11/24]] × x = [[7/15]] × [[5/8]]\nx = [[7/15]] × [[5/8]] × [[24/11]]\nx = [[840/1320]] = [[7/11]]",
+                "q": "Find the fourth proportional: (ii) [[11/24]], [[7/15]] and [[5/8]]"
+              },
+              {
+                "a": "16 : 12 = 8 : x\n16 × x = 12 × 8\nx = [[96/16]] = 6",
+                "q": "Find the fourth proportional: (iii) 16, 12 and 8"
+              },
+              {
+                "a": "76 : 28 = 57 : x\n76 × x = 28 × 57\nx = [[1596/76]] = 21",
+                "q": "Find the fourth proportional: (iv) 76, 28 and 57"
+              },
+              {
+                "a": "36 : 45 = 4 : x\n36 × x = 45 × 4\nx = [[180/36]] = 5",
+                "q": "Find the fourth proportional: (v) 36, 45 and 4"
+              },
+              {
+                "a": "40 : 30 = 24 : x\n40 × x = 30 × 24\nx = [[720/40]] = 18",
+                "q": "Find the fourth proportional: (vi) 40, 30 and 24"
+              },
+              {
+                "a": "x^2 = 15 × 60 = 900\nx^2 = 30^2\nx = 30",
+                "q": "Find the mean proportional: (i) 15 and 60"
+              },
+              {
+                "a": "x^2 = 18 × 32 = 576\nx^2 = 24^2\nx = 24",
+                "q": "Find the mean proportional: (ii) 18 and 32"
+              },
+              {
+                "a": "x^2 = 28 × 63 = 1764\nx^2 = 42^2\nx = 42",
+                "q": "Find the mean proportional: (iii) 28 and 63"
+              },
+              {
+                "a": "x^2 = 27 × 12 = 324\nx^2 = 18^2\nx = 18",
+                "q": "Find the mean proportional: (iv) 27 and 12"
+              },
+              {
+                "a": "x^2 = 40 × 90 = 3600\nx^2 = 60^2\nx = 60",
+                "q": "Find the mean proportional: (v) 40 and 90"
+              },
+              {
+                "a": "x^2 = 44 × 99 = 4356\nx^2 = 66^2\nx = 66",
+                "q": "Find the mean proportional: (vi) 44 and 99"
+              }
+            ],
+            "label": "Exercise 6.2"
+          },
+          {
+            "items": [
+              {
+                "a": "60 : 100 = x : 75\n100 × x = 60 × 75\nx = [[4500/100]] = 45 marks",
+                "q": "Ahmed secured 60 marks in a paper of 100 marks. What shall be his score if the paper were of 75 marks?"
+              },
+              {
+                "a": "[[5/9]] of the piece = 35 kg\nWhole piece = 35 ÷ [[5/9]] = 35 × [[9/5]] = 63 kg\n[[2/7]] of 63 kg = [[2/7]] × 63 = 18 kg",
+                "q": "The weight [[5/9]] of a piece of metal is 35 kg. What is the weight [[2/7]] of the piece?"
+              },
+              {
+                "a": "5 cm : 15 cm = 80 km : x\n5 × x = 15 × 80\nx = [[1200/5]] = 240 km",
+                "q": "On a map, 80 km are represented by 5 cm. If the distance between two cities on the map is 15 cm. Find the actual distance between them."
+              },
+              {
+                "a": "12 eggs : 32 eggs = 60 : x\n12 × x = 32 × 60\nx = [[1920/12]] = Rs 160",
+                "q": "If a dozen eggs costs Rs 60, find the cost of 32 eggs."
+              },
+              {
+                "a": "Savings = 42000 − 39800 = Rs 2200\nSavings : Income = 2200 : 42000 = 11 : 210\nExpenditure : Income = 39800 : 42000 = 199 : 210",
+                "q": "Tabassum earns Rs. 42,000 in a month and spends Rs 39,800. Find the ratio of her savings to her income. Also find the ratio of her expenditure to her income."
+              },
+              {
+                "a": "45 pages : 876 pages = 75 minutes : x\n45 × x = 876 × 75\nx = [[65700/45]] = 1460 minutes",
+                "q": "If Naveed can read 45 pages of a book in 75 minutes, find the time he takes to read the book of 876 pages."
+              },
+              {
+                "a": "Total lines = 130 × 24 = 3120\nLines on each page = 3120 ÷ 90 = [[104/3]] = 34 [[2/3]]",
+                "q": "A book covers 130 pages with 24 lines on every page. If we make the same book of 90 pages with increasing number of lines. How many lines would be there on each page?"
+              },
+              {
+                "a": "10 : 80 = 6 : x\n10 × x = 80 × 6\nx = [[480/10]] = 48 days",
+                "q": "If 80 workers complete a work in 6 days. Find the number of days required to complete the same by 10 workers."
+              }
+            ],
+            "label": "Exercise 6.3"
+          },
+          {
+            "items": [
+              {
+                "a": "2 : 3 = 2 × 2 : 3 × 2 = 4 : 6",
+                "q": "Write equivalent ratio for: (i) 2 : 3 = ___"
+              },
+              {
+                "a": "10 : 8 = 10 ÷ 2 : 8 ÷ 2 = 5 : 4",
+                "q": "Write equivalent ratio for: (ii) 10 : 8 = ___"
+              },
+              {
+                "a": "1 : 4 = 1 × 2 : 4 × 2 = 2 : 8",
+                "q": "Write equivalent ratio for: (iii) 1 : 4 = ___"
+              },
+              {
+                "a": "21 : 35 = 21 ÷ 7 : 35 ÷ 7 = 3 : 5",
+                "q": "Write equivalent ratio for: (iv) 21 : 35 = ___"
+              },
+              {
+                "a": "2 : 5 :: x : 10\n5 × x = 2 × 10\nx = [[20/5]] = 4",
+                "q": "Find the value of x: (1) 2 : 5 :: x : 10"
+              },
+              {
+                "a": "5 : x :: 10 : 14\n10 × x = 5 × 14\nx = [[70/10]] = 7",
+                "q": "Find the value of x: (2) 5 : x :: 10 : 14"
+              },
+              {
+                "a": "15 : 30 :: 1 : x\n15 × x = 30 × 1\nx = [[30/15]] = 2",
+                "q": "Find the value of x: (3) 15 : 30 :: 1 : x"
+              },
+              {
+                "a": "x : 12 :: 3 : 4\n4 × x = 12 × 3\nx = [[36/4]] = 9",
+                "q": "Find the value of x: (4) x : 12 :: 3 : 4"
+              },
+              {
+                "a": "x : 200 :: 18 : 25\n25 × x = 200 × 18\nx = [[3600/25]] = 144",
+                "q": "Find the value of x: (5) x : 200 :: 18 : 25"
+              },
+              {
+                "a": "132 : 216 :: 33 : x\n132 × x = 216 × 33\nx = [[7128/132]] = 54",
+                "q": "Find the value of x: (6) 132 : 216 :: 33 : x"
+              },
+              {
+                "a": "Direct proportion",
+                "q": "Which are inverse proportions? (i) The number of copies you buy and their total cost."
+              },
+              {
+                "a": "Inverse proportion",
+                "q": "Which are inverse proportions? (ii) The number of men doing a job and the time taken to finish it."
+              },
+              {
+                "a": "Inverse proportion",
+                "q": "Which are inverse proportions? (iii) The amount of time taken in a journey and speed of the vehicle."
+              },
+              {
+                "a": "Direct proportion",
+                "q": "Which are inverse proportions? (iv) The number of boxes and the number of Pencils packed in them."
+              },
+              {
+                "a": "Girls = 670 − 350 = 320\nBoys : Total students = 350 : 670 = 35 : 67",
+                "q": "Out of 670 students in a school, 350 are boys and rest are girls. Find the ratio of: (i) Boys to total students."
+              },
+              {
+                "a": "Girls = 670 − 350 = 320\nGirls : Total students = 320 : 670 = 32 : 67",
+                "q": "Out of 670 students in a school, 350 are boys and rest are girls. Find the ratio of: (ii) Girls to total students."
+              },
+              {
+                "a": "Girls = 670 − 350 = 320\nGirls : Boys = 320 : 350 = 32 : 35",
+                "q": "Out of 670 students in a school, 350 are boys and rest are girls. Find the ratio of: (iii) Girls to boys of the school."
+              },
+              {
+                "a": "Girls = 670 − 350 = 320\nBoys : Girls = 350 : 320 = 35 : 32",
+                "q": "Out of 670 students in a school, 350 are boys and rest are girls. Find the ratio of: (iv) Boys to girls of the school."
+              },
+              {
+                "a": "26 words : 325 words = 2 minutes : x\n26 × x = 325 × 2\nx = [[650/26]] = 25 minutes",
+                "q": "Rehana can write 26 words in 2 minutes. How much time she will take to write 325 words."
+              },
+              {
+                "a": "12 kg : 13 [[1/2]] kg = 1200 : x\n12 × x = 13 [[1/2]] × 1200\nx = [[16200/12]] = Rs 1350",
+                "q": "12 kg milk costs Rs 1200. What is the cost of 13 [[1/2]] kg milk?"
+              },
+              {
+                "a": "24 m : 18 m = 16 workers : x\n24 × x = 18 × 16\nx = [[288/24]] = 12 workers",
+                "q": "24 metre high wall is made by 16 workers in a perticular time. How many workers will construct a 18 metre high wall in the same time?"
+              },
+              {
+                "a": "x persons : 600 persons = 18 days : 27 days\n27 × x = 600 × 18\nx = [[10800/27]] = 400 persons",
+                "q": "Food was stored for 600 persons for 18 days. How many persons will eat the same food in 27 days?"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Ratio and Proportion",
+        "unit": 6,
+        "display": "Ratio and Proportion"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "Shaded squares = 20 out of 100\n[[20/100]] × 100% = 20%",
+                "q": "What percent of the figure is shaded? (i) A 10 × 10 grid with 20 squares shaded."
+              },
+              {
+                "a": "Shaded squares = 22 out of 100\n[[22/100]] × 100% = 22%",
+                "q": "What percent of the figure is shaded? (ii) A 10 × 10 grid with 22 squares shaded."
+              },
+              {
+                "a": "Shaded parts = 3 out of 4\n[[3/4]] × 100% = 75%",
+                "q": "What percent of the figure is shaded? (iii) A square divided into 4 equal triangles, 3 of them shaded."
+              },
+              {
+                "a": "25% = [[25/100]] = [[1/4]]\n25% = [[25/100]] = 0.25",
+                "q": "Convert into fraction and decimal: (i) 25%"
+              },
+              {
+                "a": "1% = [[1/100]]\n1% = [[1/100]] = 0.01",
+                "q": "Convert into fraction and decimal: (ii) 1%"
+              },
+              {
+                "a": "31% = [[31/100]]\n31% = [[31/100]] = 0.31",
+                "q": "Convert into fraction and decimal: (iii) 31%"
+              },
+              {
+                "a": "15% = [[15/100]] = [[3/20]]\n15% = [[15/100]] = 0.15",
+                "q": "Convert into fraction and decimal: (iv) 15%"
+              },
+              {
+                "a": "8 [[1/2]]% = [[17/2]]% = [[17/2]] × [[1/100]] = [[17/200]]\n8 [[1/2]]% = 0.085",
+                "q": "Convert into fraction and decimal: (v) 8 [[1/2]]%"
+              },
+              {
+                "a": "20.5% = [[20.5/100]] = [[205/1000]] = [[41/200]]\n20.5% = 0.205",
+                "q": "Convert into fraction and decimal: (vi) 20.5%"
+              },
+              {
+                "a": "175% = [[175/100]] = [[7/4]]\n175% = 1.75",
+                "q": "Convert into fraction and decimal: (vii) 175%"
+              },
+              {
+                "a": "115% = [[115/100]] = [[23/20]]\n115% = 1.15",
+                "q": "Convert into fraction and decimal: (viii) 115%"
+              },
+              {
+                "a": "225% = [[225/100]] = [[9/4]]\n225% = 2.25",
+                "q": "Convert into fraction and decimal: (ix) 225%"
+              },
+              {
+                "a": "2 [[1/2]]% = [[5/2]]% = [[5/2]] × [[1/100]] = [[1/40]]\n2 [[1/2]]% = 0.025",
+                "q": "Convert into fraction and decimal: (x) 2 [[1/2]]%"
+              },
+              {
+                "a": "[[1/4]] × 100% = 25%",
+                "q": "Convert into percentage: (i) [[1/4]]"
+              },
+              {
+                "a": "[[7/20]] × 100% = 35%",
+                "q": "Convert into percentage: (ii) [[7/20]]"
+              },
+              {
+                "a": "[[8/25]] × 100% = 32%",
+                "q": "Convert into percentage: (iii) [[8/25]]"
+              },
+              {
+                "a": "[[5/4]] × 100% = 125%",
+                "q": "Convert into percentage: (iv) [[5/4]]"
+              },
+              {
+                "a": "25% = [[25/100]] = 0.25",
+                "q": "Write into decimal: (i) 25%"
+              },
+              {
+                "a": "31% = [[31/100]] = 0.31",
+                "q": "Write into decimal: (ii) 31%"
+              },
+              {
+                "a": "1% = [[1/100]] = 0.01",
+                "q": "Write into decimal: (iii) 1%"
+              },
+              {
+                "a": "2 [[1/2]]% = [[5/2]]% = [[5/200]] = 0.025",
+                "q": "Write into decimal: (iv) 2 [[1/2]]%"
+              },
+              {
+                "a": "6.5% = [[6.5/100]] = 0.065",
+                "q": "Write into decimal: (v) 6.5%"
+              },
+              {
+                "a": "0.025 = [[25/1000]] = 2.5%",
+                "q": "Convert into percentage: (i) 0.025"
+              },
+              {
+                "a": "0.4 = [[4/10]] = [[40/100]] = 40%",
+                "q": "Convert into percentage: (ii) 0.4"
+              },
+              {
+                "a": "0.85 = [[85/100]] = 85%",
+                "q": "Convert into percentage: (iii) 0.85"
+              },
+              {
+                "a": "0.105 = [[105/1000]] = 10.5%",
+                "q": "Convert into percentage: (iv) 0.105"
+              },
+              {
+                "a": "12.5 × 100% = 1250%",
+                "q": "Convert into percentage: (v) 12.5"
+              },
+              {
+                "a": "125.5 × 100% = 12550%",
+                "q": "Convert into percentage: (vi) 125.5"
+              },
+              {
+                "a": "1 metre = 100 cm\n[[70/100]] × 100% = 70%",
+                "q": "What percentage of 1 metre is: (i) 70 cm"
+              },
+              {
+                "a": "1 metre = 100 cm\n[[50/100]] × 100% = 50%",
+                "q": "What percentage of 1 metre is: (ii) 50 cm"
+              },
+              {
+                "a": "1 metre = 100 cm\n[[75/100]] × 100% = 75%",
+                "q": "What percentage of 1 metre is: (iii) 75 cm"
+              },
+              {
+                "a": "1 metre = 100 cm\n[[125/100]] × 100% = 125%",
+                "q": "What percentage of 1 metre is: (iv) 125 cm"
+              },
+              {
+                "a": "1 metre = 100 cm\n[[100/100]] × 100% = 100%",
+                "q": "What percentage of 1 metre is: (v) 100 cm"
+              },
+              {
+                "a": "30% = [[30/100]] = [[3/10]]",
+                "q": "The sale of the books on science on a certain store is 30%, write it in fraction."
+              },
+              {
+                "a": "Percentage = [[96/150]] × 100% = 64%",
+                "q": "Khalida obtained 96 marks out of 150. What percentage of marks has she obtained?"
+              },
+              {
+                "a": "10% of 50 = [[10/100]] × 50 = 5",
+                "q": "Find the percentage: (i) 10% of 50"
+              },
+              {
+                "a": "30% of 70 = [[30/100]] × 70 = 21",
+                "q": "Find the percentage: (ii) 30% of 70"
+              },
+              {
+                "a": "25% of 250 = [[25/100]] × 250 = [[125/2]] = 62.5",
+                "q": "Find the percentage: (iii) 25% of 250"
+              },
+              {
+                "a": "50% of 50 = [[50/100]] × 50 = 25",
+                "q": "Find the percentage: (iv) 50% of 50"
+              },
+              {
+                "a": "75% of 750 = [[75/100]] × 750 = [[1125/2]] = 562.5",
+                "q": "Find the percentage: (v) 75% of 750"
+              },
+              {
+                "a": "125% of 50 cm = [[125/100]] × 50 = 62.5 cm",
+                "q": "Find the percentage: (vi) 125% of 50 cm"
+              },
+              {
+                "a": "60% of 300 litres = [[60/100]] × 300 = 180 litres",
+                "q": "Find the percentage: (vii) 60% of 300 litres"
+              },
+              {
+                "a": "20% of Rs 13.25 = [[20/100]] × 13.25 = Rs 2.65",
+                "q": "Find the percentage: (viii) 20% of Rs 13.25"
+              },
+              {
+                "a": "60.5% of 8 hours = [[60.5/100]] × 8 = 4.84 hours",
+                "q": "Find the percentage: (ix) 60.5% of 8 hours"
+              },
+              {
+                "a": "25% of 172 metres = [[25/100]] × 172 = 43 metres",
+                "q": "Find the percentage: (x) 25% of 172 metres"
+              },
+              {
+                "a": "15% of 210 = [[15/100]] × 210 = [[63/2]] = 31.5",
+                "q": "Find the percentage: (xi) 15% of 210"
+              },
+              {
+                "a": "75% of 1011 = [[75/100]] × 1011 = [[3033/4]] = 758.25",
+                "q": "Find the percentage: (xii) 75% of 1011"
+              },
+              {
+                "a": "65% of 910 = [[65/100]] × 910 = [[1183/2]] = 591.5",
+                "q": "Find the percentage: (xiii) 65% of 910"
+              },
+              {
+                "a": "35% of 301 = [[35/100]] × 301 = [[2107/20]] = 105.35",
+                "q": "Find the percentage: (xiv) 35% of 301"
+              },
+              {
+                "a": "[[2/5]] = [[2/5]] × 100% = 40%\n[[1/4]] = [[1/4]] × 100% = 25%\n[[3/4]] = [[3/4]] × 100% = 75%\nAscending order: [[1/4]], [[2/5]], [[3/4]]\nDescending order: [[3/4]], [[2/5]], [[1/4]]",
+                "q": "Write the following fractions in ascending and descending order using percentage.\n[[2/5]], [[1/4]], [[3/4]]"
+              }
+            ],
+            "label": "Exercise 7.1"
+          },
+          {
+            "items": [
+              {
+                "a": "Percentage = [[60/75]] × 100% = 80%",
+                "q": "I obtained 60 marks out of 75 marks. What is the percentage of my marks?"
+              },
+              {
+                "a": "Percentage of expenditure = [[300/500]] × 100% = 60%",
+                "q": "Saima spent Rs 300 out of Rs 500. Find percentage of her expenditure."
+              },
+              {
+                "a": "Voters who did not cast votes = 34% of 8500 = [[34/100]] × 8500 = 2890\nVoters who cast votes = 8500 − 2890 = 5610",
+                "q": "There were 8500 voters in a village. 34% did not cast their votes. Find the number of voters who cast their votes."
+              },
+              {
+                "a": "Increase = 5% of 15000 = [[5/100]] × 15000 = 750\nPopulation after one year = 15000 + 750 = 15750",
+                "q": "The population of a village is 15000. If the population increases by 5% in a year, find the population after one year."
+              },
+              {
+                "a": "5% of salary = Rs 200\nSalary = 200 ÷ 5% = 200 × [[100/5]] = Rs 4000",
+                "q": "Rahila pays 5% of her salary in charity in a month. If she pays Rs 200, find her monthly salary."
+              },
+              {
+                "a": "18% of distance = 36 km\nDistance = 36 ÷ 18% = 36 × [[100/18]] = 200 km",
+                "q": "The 18% of the distance between two cities is 36 km. Find the distance between two cities."
+              },
+              {
+                "a": "Percentage of expenditure = [[6000/8000]] × 100% = 75%",
+                "q": "Naeem's monthly income is Rs 8000 and he spends Rs 6000 per month. Find the percentage of his expenditure."
+              },
+              {
+                "a": "Students absent = 750 − 600 = 150\nPercentage absent = [[150/750]] × 100% = 20%",
+                "q": "On a rainy day 600 students out of 750 were present in a school. What percentage of the students were absent."
+              },
+              {
+                "a": "30% of 90° = [[30/100]] × 90 = 27°\n70% of 90° = [[70/100]] × 90 = 63°",
+                "q": "If one angle of a triangle is 90°. Find the other two angles if these angles are 30% and 70% of 90° respectively."
+              },
+              {
+                "a": "Area of rectangle = 100 + 10% of 100 = 100 + 10 = 110 sq. cm",
+                "q": "Area of square is 100 sq. cm. Find the area of a rectangle whose area is 10% more than the area of given square."
+              },
+              {
+                "a": "First discount = 10% of 100 = Rs 10\nPrice after first discount = 100 − 10 = Rs 90\nSecond discount = 20% of 90 = Rs 18\nTotal discount = 10 + 18 = Rs 28",
+                "q": "In a shop there is a double discount of 10% and 20% on an article having price of Rs 100. Calculate the total discount."
+              }
+            ],
+            "label": "Exercise 7.2"
+          },
+          {
+            "items": [
+              {
+                "a": "Profit = 130 − 120 = Rs 10\nProfit % = [[10/120]] × 100% = [[25/3]]%",
+                "q": "Find the profit or loss percent: (i) Eggs are purchased at Rs 120 per dozen and are sold out at Rs 130 per dozen."
+              },
+              {
+                "a": "C.P = 25 × 10 = Rs 250\nBreads sold = 25 − 7 = 18\nS.P = 18 × 13 = Rs 234\nLoss = 250 − 234 = Rs 16\nLoss % = [[16/250]] × 100% = [[32/5]]%",
+                "q": "Find the profit or loss percent: (ii) A shopkeeper purchases 25 breads at Rs 10 per bread. He sells breads at Rs 13 per bread as 7 breads are spoiled."
+              },
+              {
+                "a": "Profit = 70 − 60 = Rs 10\nProfit % = [[10/60]] × 100% = [[50/3]]%",
+                "q": "Find the profit or loss percent: (iii) A man purchases pencils at Rs 60 per dozen and sells at Rs 70 per dozen."
+              },
+              {
+                "a": "C.P = 10 × 120 = Rs 1200\nEggs sold = 10 − 3 = 7 dozen\nS.P = 7 × 130 = Rs 910\nLoss = 1200 − 910 = Rs 290\nLoss % = [[290/1200]] × 100% = [[145/6]]%",
+                "q": "Find the profit or loss percent: (iv) A man purchases 10 dozen eggs at the rate of Rs 120 per dozen. 3 dozen eggs are broken. Rest of the eggs are sold at the rate of Rs 130 per dozen."
+              },
+              {
+                "a": "Profit = 80 − 75.50 = Rs 4.50\nProfit % = [[4.50/75.50]] × 100% = 5.96%",
+                "q": "Find the profit or loss percent: (v) A milkman purchases milk at the rate of Rs 75.50 per litre and sells at the rate of Rs 80 per litre."
+              },
+              {
+                "a": "C.P = 20 × 120 = Rs 2400\nS.P = 20 × 125 = Rs 2500\nProfit = 2500 − 2400 = Rs 100\nProfit % = [[100/2400]] × 100% = [[25/6]]%",
+                "q": "A book seller purchases 20 books of Mathematics at Rs. 120 per book and sells at Rs 125 per book. Find his profit and profit percent."
+              },
+              {
+                "a": "C.P = 10 × 120 = Rs 1200\nS.P = 10 × 125 = Rs 1250\nProfit = 1250 − 1200 = Rs 50\nProfit % = [[50/1200]] × 100% = [[25/6]]%",
+                "q": "A grocer purchases 10 kilograms of rice at Rs 120 per kilogram and sells at Rs 125 per kilogram. Find profit percent."
+              },
+              {
+                "a": "Loss = 15% of 1000 = [[15/100]] × 1000 = Rs 150",
+                "q": "A shopkeeper bears 15% loss on the sale of a jacket. If the cost of the jacket is Rs 1000, find his loss."
+              },
+              {
+                "a": "Price paid = 80% of actual price\n52000 = 80% of actual price\nActual price = 52000 ÷ 80% = 52000 × [[100/80]] = Rs 65000",
+                "q": "Umaima bought a dinner set for Rs 52000 at 20% discount. Find the actual price of the dinner set."
+              },
+              {
+                "a": "Discount = 15% of 1500 = [[15/100]] × 1500 = Rs 225\nNet selling price = 1500 − 225 = Rs 1275",
+                "q": "The marked price of ladies purse is Rs 1500 and it is sold at discount of 15%. Find net selling price of the purse."
+              }
+            ],
+            "label": "Exercise 7.3"
+          },
+          {
+            "items": [
+              {
+                "a": "C.P = 50 × 60 = Rs 3000\nPencils = 50 × 12 = 600\nS.P = 600 × 13 = Rs 7800\nProfit = 7800 − 3000 = Rs 4800\nProfit % = [[4800/3000]] × 100% = 160%",
+                "q": "Karim bought 50 dozen of pencils at Rs 60 per dozen. He sold them at Rs 13 per pencil. Find his profit or loss percent."
+              },
+              {
+                "a": "Reduction = 17400 − 13050 = Rs 4350\nPercentage reduction = [[4350/17400]] × 100% = 25%",
+                "q": "A television (T.V) manufacturing company declares that a colour T.V is now available for Rs 13050. Its previous price was Rs 17400. Find the percentage reduction in the price of colour T.V offered by the company."
+              },
+              {
+                "a": "Imran = [[548/800]] × 100% = 68.5%\nSister = [[459/600]] × 100% = 76.5%\n76.5% > 68.5%\nSister",
+                "q": "Imran obtained 548 marks out of 800 and his sister obtained 459 out of 600. Whose performance is better?"
+              },
+              {
+                "a": "C.P = 50 × 60 = Rs 3000\nBananas sold = 50 − 10 = 40 dozen\nS.P = 40 × 70 = Rs 2800\nLoss = 3000 − 2800 = Rs 200\nLoss % = [[200/3000]] × 100% = [[20/3]]%",
+                "q": "A fruit seller purchases 50 dozen bananas at the rate of Rs 60 per dozen. 10 dozen bananas are spoiled. Rest of the bananas are sold at the rate of Rs 70 per dozen. Find his gain or loss percent."
+              },
+              {
+                "a": "Price paid = 97 [[1/2]]% of actual cost\n875000 = 97.5% of actual cost\nActual cost = 875000 ÷ 97.5% = 875000 × [[100/97.5]] = Rs 897435.90",
+                "q": "A car was sold at price of Rs 875,000 with a discount of 2 [[1/2]]%. What is actual cost of the car?"
+              },
+              {
+                "a": "5% = [[5/100]] = 0.05\n0.05 > 0.045\n5%",
+                "q": "Which is greater? (i) 0.045 or 5%"
+              },
+              {
+                "a": "0.64 = 64%\n64% > 62%\n0.64",
+                "q": "Which is greater? (ii) 0.64 or 62%"
+              },
+              {
+                "a": "0.8 = 80%\n80% > 8%\n0.8",
+                "q": "Which is greater? (iii) 0.8 or 8%"
+              },
+              {
+                "a": "19% = 0.19\n0.19 > 0.15\n19%",
+                "q": "Which is greater? (iv) 0.15 or 19%"
+              },
+              {
+                "a": "[[1/2]] = 50%\n50% > 40%\n[[1/2]]",
+                "q": "Which is greater? (v) [[1/2]] or 40%"
+              },
+              {
+                "a": "[[1/5]] = 20%\n25% > 20%\n25%",
+                "q": "Which is greater? (vi) [[1/5]] or 25%"
+              },
+              {
+                "a": "[[3/4]] = 75%\n75% > 70%\n[[3/4]]",
+                "q": "Which is greater? (vii) [[3/4]] or 70%"
+              },
+              {
+                "a": "1 [[1/4]] = 125%\n130% > 125%\n130%",
+                "q": "Which is greater? (viii) 1 [[1/4]] or 130%"
+              },
+              {
+                "a": "[[1/10]] = 10%\n10% > 9%\n[[1/10]]",
+                "q": "Which is greater? (ix) [[1/10]] or 9%"
+              },
+              {
+                "a": "75%",
+                "q": "Fill in the blanks: (i) [[3/4]] = ___%"
+              },
+              {
+                "a": "62.5%",
+                "q": "Fill in the blanks: (ii) [[5/8]] = ___%"
+              },
+              {
+                "a": "[[3/10]]",
+                "q": "Fill in the blanks: (iii) 30% = ___ (fraction)"
+              },
+              {
+                "a": "12.5%",
+                "q": "Fill in the blanks: (iv) 0.125 = ___%"
+              },
+              {
+                "a": "0.38",
+                "q": "Fill in the blanks: (v) 38% = ___ (decimal)"
+              },
+              {
+                "a": "43.2",
+                "q": "Fill in the blanks: (vi) 36% of 120 = ___"
+              },
+              {
+                "a": "C.P",
+                "q": "Fill in the blanks: (vii) S.P + Loss = ___"
+              },
+              {
+                "a": "Profit",
+                "q": "Fill in the blanks: (viii) S.P − C.P = ___"
+              },
+              {
+                "a": "False",
+                "q": "Write true (T) or false (F): (i) If S.P < C.P so, there is gain."
+              },
+              {
+                "a": "True",
+                "q": "Write true (T) or false (F): (ii) If C.P > S.P so, there is loss."
+              },
+              {
+                "a": "True",
+                "q": "Write true (T) or false (F): (iii) Loss = C.P − S.P"
+              },
+              {
+                "a": "False",
+                "q": "Write true (T) or false (F): (iv) S.P + gain = C.P"
+              },
+              {
+                "a": "False",
+                "q": "Write true (T) or false (F): (v) Loss % = [[Loss/S.P]] × 100%"
+              },
+              {
+                "a": "True",
+                "q": "Write true (T) or false (F): (vi) Profit = S.P − C.P"
+              },
+              {
+                "a": "True",
+                "q": "Write true (T) or false (F): (vii) [[Profit × 100%/C.P]] = Profit %"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Financial Arithmetic",
+        "unit": 7,
+        "display": "Financial Arithmetic"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "x + 2 = 8",
+                "q": "Write in symbols: (i) Sum of a number x and two is eight."
+              },
+              {
+                "a": "7y > 2",
+                "q": "Write in symbols: (ii) Product of a number y and seven is greater than two."
+              },
+              {
+                "a": "6 + z < 4",
+                "q": "Write in symbols: (iii) Sum of six and a number z is less than four."
+              },
+              {
+                "a": "5 + 9 = 14\nFalse",
+                "q": "Which are true or false statements? (i) 5 + 9 = 18"
+              },
+              {
+                "a": "8 + 3 = 11\nTrue",
+                "q": "Which are true or false statements? (ii) 8 + 3 = 11"
+              },
+              {
+                "a": "20 + 3 = 23\nFalse",
+                "q": "Which are true or false statements? (iii) 20 + 3 = 26"
+              },
+              {
+                "a": "21 − 8 = 13\nTrue",
+                "q": "Which are true or false statements? (iv) 21 − 8 = 13"
+              },
+              {
+                "a": "18 − 13 = 5\nFalse",
+                "q": "Which are true or false statements? (v) 18 − 13 = 15"
+              },
+              {
+                "a": "16 − 10 = 6\nTrue",
+                "q": "Which are true or false statements? (vi) 16 − 10 = 6"
+              },
+              {
+                "a": "Open statement",
+                "q": "Which are open statements? (i) Δ + 3 = 9"
+              },
+              {
+                "a": "Open statement",
+                "q": "Which are open statements? (ii) 3a + 4 = 8"
+              },
+              {
+                "a": "Not open statement",
+                "q": "Which are open statements? (iii) 9 + 4 = 13"
+              },
+              {
+                "a": "Δ = 9\n6 + 9 = 15",
+                "q": "Find the value of Δ or □ which makes the statement true: (i) 6 + Δ = 15"
+              },
+              {
+                "a": "□ = 3\n3 + 5 = 8",
+                "q": "Find the value of Δ or □ which makes the statement true: (ii) □ + 5 = 8"
+              },
+              {
+                "a": "Δ = 6\n14 − 6 = 8",
+                "q": "Find the value of Δ or □ which makes the statement true: (iii) 14 − Δ = 8"
+              },
+              {
+                "a": "Δ = 4\n24 − 4 = 20",
+                "q": "Find the value of Δ or □ which makes the statement true: (iv) 24 − Δ = 20"
+              },
+              {
+                "a": "□ = 3\n3 × 3 + 1 = 10",
+                "q": "Find the value of Δ or □ which makes the statement true: (v) 3□ + 1 = 10"
+              },
+              {
+                "a": "□ = 6\n35 − 6 = 29",
+                "q": "Find the value of Δ or □ which makes the statement true: (vi) 35 − □ = 29"
+              }
+            ],
+            "label": "Exercise 8.1"
+          },
+          {
+            "items": [
+              {
+                "a": "1",
+                "q": "Write the number of terms: (i) 3 × m × n"
+              },
+              {
+                "a": "1",
+                "q": "Write the number of terms: (ii) p"
+              },
+              {
+                "a": "2",
+                "q": "Write the number of terms: (iii) 2x + 3y"
+              },
+              {
+                "a": "2",
+                "q": "Write the number of terms: (iv) 4y + 7"
+              },
+              {
+                "a": "3",
+                "q": "Write the number of terms: (v) 4l + 3m + 9"
+              },
+              {
+                "a": "3",
+                "q": "Write the number of terms: (vi) 7x + 5 + 8"
+              },
+              {
+                "a": "x",
+                "q": "Write the variables: (i) 8x + 3"
+              },
+              {
+                "a": "x",
+                "q": "Write the variables: (ii) −7x + 1"
+              },
+              {
+                "a": "x, y",
+                "q": "Write the variables: (iii) 6x + y"
+              },
+              {
+                "a": "x, y",
+                "q": "Write the variables: (iv) [[2x/y]]"
+              },
+              {
+                "a": "x, y",
+                "q": "Write the variables: (v) 2xy"
+              },
+              {
+                "a": "y, z",
+                "q": "Write the variables: (vi) 5 ÷ 3yz"
+              },
+              {
+                "a": "x, y, z",
+                "q": "Write the variables: (vii) 3xyz"
+              },
+              {
+                "a": "x, y, z",
+                "q": "Write the variables: (viii) 3xy + 9yz"
+              },
+              {
+                "a": "2",
+                "q": "Write the constants: (i) 2x + 2"
+              },
+              {
+                "a": "−3",
+                "q": "Write the constants: (ii) −3 + x"
+              },
+              {
+                "a": "1",
+                "q": "Write the constants: (iii) xy + 1"
+              },
+              {
+                "a": "[[1/2]]",
+                "q": "Write the constants: (iv) xy + yz + [[1/2]]"
+              },
+              {
+                "a": "9",
+                "q": "Write the constants: (v) 5x + 9"
+              },
+              {
+                "a": "10",
+                "q": "Write the constants: (vi) 2x + 2y + 10"
+              },
+              {
+                "a": "−7",
+                "q": "Write the coefficients of variables: (i) −7x"
+              },
+              {
+                "a": "5",
+                "q": "Write the coefficients of variables: (ii) 5y"
+              },
+              {
+                "a": "2, 3",
+                "q": "Write the coefficients of variables: (iii) 2x + 3y"
+              },
+              {
+                "a": "1, [[1/2]], −[[1/4]]",
+                "q": "Write the coefficients of variables: (iv) x + [[1/2]]y − [[1/4]]z"
+              },
+              {
+                "a": "5",
+                "q": "Write the coefficients of variables: (v) 5x + 9"
+              },
+              {
+                "a": "[[1/4]], 6",
+                "q": "Write the coefficients of variables: (vi) [[1/4]]x + 6y + 1"
+              },
+              {
+                "a": "2xy, 140xy, [[1/5]]xy, [[1/4]]xy, [[1/3]]xy, −2xy, 5xy\n4lm, 5lm\n−7xz, xz\n−9xyz, xyz\n−2p, 46p",
+                "q": "Write like terms in the following.\n2xy, 4lm, −7xz, 140xy, 13mn, xz, [[1/5]]xy, −9xyz, [[1/4]]xy, −2p, [[1/3]]xy, −2xy, 5xy, xyz, 46p, 5lm"
+              }
+            ],
+            "label": "Exercise 8.2"
+          },
+          {
+            "items": [
+              {
+                "a": "2x + x + 4x = 7x",
+                "q": "Add: (i) 2x, x, 4x"
+              },
+              {
+                "a": "2a + 3a + 6a + a = 12a",
+                "q": "Add: (ii) 2a, 3a, 6a, a"
+              },
+              {
+                "a": "8lm + 4lm + lm + 6lm = 19lm",
+                "q": "Add: (iii) 8lm, 4lm, lm, 6lm"
+              },
+              {
+                "a": "2xy + 4xy + xy + 6xy + 3xy = 16xy",
+                "q": "Add: (iv) 2xy, 4xy, xy, 6xy, 3xy"
+              },
+              {
+                "a": "2x + 9x = 11x",
+                "q": "Simplify: (i) 2x + 9x"
+              },
+              {
+                "a": "a + 2a + 3a = 6a",
+                "q": "Simplify: (ii) a + 2a + 3a"
+              },
+              {
+                "a": "x + 3x + 6x + 10x = 20x",
+                "q": "Simplify: (iii) x + 3x + 6x + 10x"
+              },
+              {
+                "a": "2st + 3st + 5st + 7st = 17st",
+                "q": "Simplify: (iv) 2st + 3st + 5st + 7st"
+              },
+              {
+                "a": "(3a + a + 4a) + (2b + b) = 8a + 3b",
+                "q": "Add: (i) 3a + 2b, a + b, 4a"
+              },
+              {
+                "a": "(6x + 2x + 2x) + (5y + 3y + y) + (7z + z) = 10x + 9y + 8z",
+                "q": "Add: (ii) 6x + 5y + 7z, 2x + 3y + z, y + 2x"
+              },
+              {
+                "a": "(pq + 2pq + 3pq) + (qr + qr) + (pr + 4pr + 2pr) = 6pq + 2qr + 7pr",
+                "q": "Add: (iii) pq + qr + pr, qr + 4pr + 2pq, 3pq + 2pr"
+              },
+              {
+                "a": "(3c + 5c) + (4d + 7d) + (5f + 6f) = 8c + 11d + 11f",
+                "q": "Add: (iv) 3c + 4d + 5f, 5c + 7d + 6f"
+              },
+              {
+                "a": "8x − 5x = 3x",
+                "q": "Subtract: (i) 5x from 8x"
+              },
+              {
+                "a": "9y − (−3y) = 9y + 3y = 12y",
+                "q": "Subtract: (ii) −3y from 9y"
+              },
+              {
+                "a": "(6x + 8y) − (2x + 3y) = 6x + 8y − 2x − 3y = 4x + 5y",
+                "q": "Subtract: (iii) 2x + 3y from 6x + 8y"
+              },
+              {
+                "a": "(20 + 10f + 20g) − (−20f + 30g + 40)\n= 20 + 10f + 20g + 20f − 30g − 40\n= 30f − 10g − 20",
+                "q": "Subtract: (iv) Subtract −20f + 30g + 40 from 20 + 10f + 20g."
+              },
+              {
+                "a": "8x + 5x = 13x",
+                "q": "Perform the subtraction: (i) 8x + 5x"
+              },
+              {
+                "a": "12ab − 9ab = 3ab",
+                "q": "Perform the subtraction: (ii) 12ab − 9ab"
+              },
+              {
+                "a": "5z + 3z = 8z",
+                "q": "Perform the subtraction: (iii) 5z + 3z"
+              },
+              {
+                "a": "10xy − 17xy = −7xy",
+                "q": "Perform the subtraction: (iv) 10xy − 17xy"
+              },
+              {
+                "a": "(2x + 7y) − (3x + 5y) = 2x + 7y − 3x − 5y = −x + 2y",
+                "q": "Perform the subtraction: (v) (2x + 7y) − (3x + 5y)"
+              },
+              {
+                "a": "(2x + 15xb + 9y) + (x + 20xb + 3y) = 3x + 35xb + 12y",
+                "q": "Perform the subtraction: (vi) (2x + 15xb + 9y) + (x + 20xb + 3y)"
+              }
+            ],
+            "label": "Exercise 8.3"
+          },
+          {
+            "items": [
+              {
+                "a": "[x + x + (y + y + 2x)]\n= [x + x + y + y + 2x]\n= 4x + 2y",
+                "q": "Simplify: (i) [x + x + (y + y + 2x)]"
+              },
+              {
+                "a": "[5a − {3a + (3b − 6b + 4a)}]\n= [5a − {3a + (4a − 3b)}]\n= [5a − {7a − 3b}]\n= [5a − 7a + 3b]\n= −2a + 3b",
+                "q": "Simplify: (ii) [5a − {3a + (3b − 6b + 4a)}]"
+              },
+              {
+                "a": "[2a − {5b − 3(2a + (b − 3a))}]\n= [2a − {5b − 3(−a + b)}]\n= [2a − {5b + 3a − 3b}]\n= [2a − {3a + 2b}]\n= −a − 2b",
+                "q": "Simplify: (iii) [2a − {5b − 3(2a + (b − 3a))}]"
+              },
+              {
+                "a": "5l − [2 − (3 + 11l + 3m + 8l)]\n= 5l − [2 − (3 + 19l + 3m)]\n= 5l − [−1 − 19l − 3m]\n= 24l + 3m + 1",
+                "q": "Simplify: (iv) 5l − [2 − (3 + 11l + 3m + 8l)]"
+              },
+              {
+                "a": "2(x + y) − 3[4x + {7x + 3y + (5x − 4y)}]\n= 2x + 2y − 3[4x + {12x − y}]\n= 2x + 2y − 3[16x − y]\n= 2x + 2y − 48x + 3y\n= −46x + 5y",
+                "q": "Simplify: (v) 2(x + y) − 3[4x + {7x + 3y + (5x − 4y)}]"
+              },
+              {
+                "a": "3x = 3 × 2 = 6\n−5x = −5 × 2 = −10",
+                "q": "If x = 2, find the values of 3x and −5x"
+              },
+              {
+                "a": "−3y = −3 × (−3) = 9",
+                "q": "If y = −3, find the value of: (a) −3y"
+              },
+              {
+                "a": "5y + 7 = 5 × (−3) + 7 = −15 + 7 = −8",
+                "q": "If y = −3, find the value of: (b) 5y + 7"
+              },
+              {
+                "a": "[[5/3]]y = [[5/3]] × (−3) = −5",
+                "q": "If y = −3, find the value of: (c) [[5/3]]y"
+              },
+              {
+                "a": "[[6/24]]y + 9 = [[1/4]] × (−3) + 9 = −[[3/4]] + 9 = [[33/4]]",
+                "q": "If y = −3, find the value of: (d) [[6/24]]y + 9"
+              },
+              {
+                "a": "a + b + c = (−3) + 5 + (−2) = 0",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (i) a + b + c"
+              },
+              {
+                "a": "2a − 3b + c = 2 × (−3) − 3 × 5 + (−2) = −6 − 15 − 2 = −23",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (ii) 2a − 3b + c"
+              },
+              {
+                "a": "[[a − bc/c]] = [[−3 − 5 × (−2)/−2]] = [[7/−2]] = −[[7/2]]",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (iii) [[a − bc/c]]"
+              },
+              {
+                "a": "[[2a + b + c/abc]] = [[2 × (−3) + 5 + (−2)/(−3) × 5 × (−2)]] = [[−3/30]] = −[[1/10]]",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (iv) [[2a + b + c/abc]]"
+              },
+              {
+                "a": "[[a + b/c]] + [[b + c/a]] = [[−3 + 5/−2]] + [[5 + (−2)/−3]] = −1 + (−1) = −2",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (v) [[a + b/c]] + [[b + c/a]]"
+              },
+              {
+                "a": "[[2a + b − c/a − 3b + c]] = [[2 × (−3) + 5 − (−2)/−3 − 3 × 5 + (−2)]] = [[1/−20]] = −[[1/20]]",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (vi) [[2a + b − c/a − 3b + c]]"
+              },
+              {
+                "a": "[[a(2b + 3c)/3ca]] = [[(−3)(2 × 5 + 3 × (−2))/3 × (−2) × (−3)]] = [[−12/18]] = −[[2/3]]",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (vii) [[a(2b + 3c)/3ca]]"
+              },
+              {
+                "a": "a + 3abc − b + c = (−3) + 3 × (−3) × 5 × (−2) − 5 + (−2) = −3 + 90 − 5 − 2 = 80",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (viii) a + 3abc − b + c"
+              },
+              {
+                "a": "[[3a + 4b + 5c/a + b − c]] = [[3 × (−3) + 4 × 5 + 5 × (−2)/−3 + 5 − (−2)]] = [[1/4]]",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (ix) [[3a + 4b + 5c/a + b − c]]"
+              },
+              {
+                "a": "[[a/b]] − [[b/c]] + [[c/a]] − [[a/c]]\n= [[−3/5]] − [[5/−2]] + [[−2/−3]] − [[−3/−2]]\n= −[[3/5]] + [[5/2]] + [[2/3]] − [[3/2]]\n= −[[3/5]] + 1 + [[2/3]]\n= [[16/15]]",
+                "q": "If a = −3, b = 5 and c = −2, evaluate: (x) [[a/b]] − [[b/c]] + [[c/a]] − [[a/c]]"
+              },
+              {
+                "a": "8x + [3y − {6x + (5 − 4x)}]\n= 16 + [9 − {12 + (5 − 8)}]\n= 16 + [9 − {12 − 3}]\n= 16 + [9 − 9]\n= 16 + 0\n= 16",
+                "q": "If x = 2, y = 3 then evaluate the following expression.\n8x + [3y − {6x + (5 − 4x)}]"
+              },
+              {
+                "a": "Cost of 5 bags = 5 × x = Rs 5x",
+                "q": "Abid purchased 5 bags at the rate of Rs x per bag. After paying he has left Rs 3. (i) Find the cost of 5 bags."
+              },
+              {
+                "a": "Total amount = 5x + 3",
+                "q": "Abid purchased 5 bags at the rate of Rs x per bag. After paying he has left Rs 3. (ii) Write an algebraic expression for paying the cost of 5 bags and Rs 3 left with him."
+              },
+              {
+                "a": "Total amount = 5 × 30 + 3 = 153\nRs 153",
+                "q": "Abid purchased 5 bags at the rate of Rs x per bag. After paying he has left Rs 3. (iii) If x = 30, find the total amount that Abid had."
+              }
+            ],
+            "label": "Exercise 8.4"
+          },
+          {
+            "items": [
+              {
+                "a": "Rs 18x",
+                "q": "Write in symbols: (i) Cost of x books, when price of one book is Rs 18."
+              },
+              {
+                "a": "9b + 5a",
+                "q": "Write in symbols: (ii) 9b plus 5a"
+              },
+              {
+                "a": "3x + 5",
+                "q": "Write in symbols: (iii) 3 times x plus 5"
+              },
+              {
+                "a": "2y − [[2/3]]",
+                "q": "Write in symbols: (iv) Twice of y minus two third"
+              },
+              {
+                "a": "p + 6",
+                "q": "Write in symbols: (v) 6 more than p"
+              },
+              {
+                "a": "Sum of x and 2",
+                "q": "Write in words: (i) x + 2"
+              },
+              {
+                "a": "Three times y minus four",
+                "q": "Write in words: (ii) 3y − 4"
+              },
+              {
+                "a": "Sum of x and 5",
+                "q": "Write in words: (iii) x + 5"
+              },
+              {
+                "a": "Sum of s and twice of t",
+                "q": "Write in words: (iv) s + 2t"
+              },
+              {
+                "a": "Half of difference of x and y",
+                "q": "Write in words: (v) [[x − y/2]]"
+              },
+              {
+                "a": "2",
+                "q": "Write the number of terms: (i) 2a + 5b"
+              },
+              {
+                "a": "1",
+                "q": "Write the number of terms: (ii) 16x"
+              },
+              {
+                "a": "3",
+                "q": "Write the number of terms: (iii) 2bc + 2a − c"
+              },
+              {
+                "a": "4",
+                "q": "Write the number of terms: (iv) 3xy − 8x + 6y − 2"
+              },
+              {
+                "a": "3",
+                "q": "Write the number of terms: (v) 6x ÷ 5y + 2z − 6"
+              },
+              {
+                "a": "5x\n3x + 4\n6x + 5y + 7",
+                "q": "Write three expressions containing one term, two terms and three terms respectively."
+              },
+              {
+                "a": "4xy + 2xy + [[2/3]]xy = (6 + [[2/3]])xy = [[20/3]]xy",
+                "q": "Simplify: (i) 4xy + 2xy + [[2/3]]xy"
+              },
+              {
+                "a": "9ab + 3ab + [[3/5]]ab = (12 + [[3/5]])ab = [[63/5]]ab",
+                "q": "Simplify: (ii) 9ab + 3ab + [[3/5]]ab"
+              },
+              {
+                "a": "(3x + 5x) + (4y + 9y) = 8x + 13y",
+                "q": "Add: (i) 3x + 4y, 5x + 9y"
+              },
+              {
+                "a": "(2d + 5d) + (5c + 7c) + (3b + 9b) = 7d + 12c + 12b",
+                "q": "Add: (ii) 2d + 5c + 3b, 7c + 5d + 9b"
+              },
+              {
+                "a": "(12xy + 8xy) + (3x + 5x) + (4y + 6y) = 20xy + 8x + 10y",
+                "q": "Add: (iii) 12xy + 3x + 4y, 5x + 6y + 8xy"
+              },
+              {
+                "a": "(2x + 7y) − (x + 3y) = 2x + 7y − x − 3y = x + 4y",
+                "q": "Subtract x + 3y from 2x + 7y"
+              },
+              {
+                "a": "(2x − 15y − 9z) − (x + 3y + 5z) = 2x − 15y − 9z − x − 3y − 5z = x − 18y − 14z",
+                "q": "Subtract x + 3y + 5z from 2x − 15y − 9z"
+              },
+              {
+                "a": "13 − 5 = 8\nFalse",
+                "q": "Which are true or false statements? (i) 13 − 5 = 3"
+              },
+              {
+                "a": "13 − 5 = 8\nFalse",
+                "q": "Which are true or false statements? (ii) 13 − 5 = 5"
+              },
+              {
+                "a": "13 − 5 = 8\nTrue",
+                "q": "Which are true or false statements? (iii) 13 − 5 = 8"
+              },
+              {
+                "a": "x = 15 − 6 = 9",
+                "q": "Find the value of variable which makes the statement true: (i) x = 15 − 6"
+              },
+              {
+                "a": "y = 5 + 8 = 13",
+                "q": "Find the value of variable which makes the statement true: (ii) y − 8 = 5"
+              },
+              {
+                "a": "b = 14 − 8 = 6",
+                "q": "Find the value of variable which makes the statement true: (iii) 14 = b + 8"
+              },
+              {
+                "a": "4x = 2 + 10 = 12\nx = 3",
+                "q": "Find the value of variable which makes the statement true: (iv) 4x − 10 = 2"
+              },
+              {
+                "a": "2m = 12 − 8 = 4\nm = 2",
+                "q": "Find the value of variable which makes the statement true: (v) 12 − 2m = 8"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Introduction to Algebra",
+        "unit": 8,
+        "display": "Introduction to Algebra"
+      },
+      {
+        "unit": 9,
+        "title": "Linear Equations",
+        "exercises": [
+          {
+            "label": "Exercise 9.1",
+            "items": [
+              {
+                "q": "Construct the following linear equations.\n(1) The difference of a number and twenty is thirty two.",
+                "a": "x = the number\nx - 20 = 32"
+              },
+              {
+                "q": "(2) The sum of a number and 8 is 15.",
+                "a": "x = the number\nx + 8 = 15"
+              },
+              {
+                "q": "(3) Five multiplied by a number is 35.",
+                "a": "x = the number\n5x = 35"
+              },
+              {
+                "q": "(4) Sixteen divided by four is equal to 4.",
+                "a": "[[16/4]] = 4"
+              },
+              {
+                "q": "(5) A number increased by two is 4.",
+                "a": "x = the number\nx + 2 = 4"
+              },
+              {
+                "q": "(6) Fifteen decreased from a number, the result is 5.",
+                "a": "x = the number\nx - 15 = 5"
+              },
+              {
+                "q": "(7) Twice of a number increased by 4 is 20.",
+                "a": "x = the number\n2x + 4 = 20"
+              },
+              {
+                "q": "(8) My age is 15 years greater than my brother’s age.",
+                "a": "a = my age\nb = brother’s age\na = 15 + b"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 9.2",
+            "items": [
+              {
+                "q": "Solve the following equations.\n(1) x - 7 = 8",
+                "a": "x - 7 = 8\nx - 7 + 7 = 8 + 7\nx = 15\n15 - 7 = 8\n8 = 8"
+              },
+              {
+                "q": "(2) y + 5 = 12",
+                "a": "y + 5 = 12\ny + 5 - 5 = 12 - 5\ny = 7\n7 + 5 = 12\n12 = 12"
+              },
+              {
+                "q": "(3) x + 2 = 8",
+                "a": "x + 2 = 8\nx + 2 - 2 = 8 - 2\nx = 6\n6 + 2 = 8\n8 = 8"
+              },
+              {
+                "q": "(4) 7y = 14",
+                "a": "7y = 14\n[[7y/7]] = [[14/7]]\ny = 2\n7 × 2 = 14\n14 = 14"
+              },
+              {
+                "q": "(5) 3x = 30",
+                "a": "3x = 30\n[[3x/3]] = [[30/3]]\nx = 10\n3 × 10 = 30\n30 = 30"
+              },
+              {
+                "q": "(6) y - 16 = 2",
+                "a": "y - 16 = 2\ny - 16 + 16 = 2 + 16\ny = 18\n18 - 16 = 2\n2 = 2"
+              },
+              {
+                "q": "(7) [[x/4]] = 3",
+                "a": "[[x/4]] = 3\n[[x/4]] × 4 = 3 × 4\nx = 12\n[[12/4]] = 3\n3 = 3"
+              },
+              {
+                "q": "(8) 6x + 1 = 49",
+                "a": "6x + 1 = 49\n6x + 1 - 1 = 49 - 1\n6x = 48\n[[6x/6]] = [[48/6]]\nx = 8\n6 × 8 + 1 = 49\n49 = 49"
+              },
+              {
+                "q": "(9) 8x = 32",
+                "a": "8x = 32\n[[8x/8]] = [[32/8]]\nx = 4\n8 × 4 = 32\n32 = 32"
+              },
+              {
+                "q": "(10) 7y + 2 = 44",
+                "a": "7y + 2 = 44\n7y + 2 - 2 = 44 - 2\n7y = 42\n[[7y/7]] = [[42/7]]\ny = 6\n7 × 6 + 2 = 44\n44 = 44"
+              },
+              {
+                "q": "(11) 6 = x + 9",
+                "a": "6 = x + 9\nx + 9 = 6\nx + 9 - 9 = 6 - 9\nx = -3\n-3 + 9 = 6\n6 = 6"
+              },
+              {
+                "q": "(12) 9x - 21 = 78",
+                "a": "9x - 21 = 78\n9x - 21 + 21 = 78 + 21\n9x = 99\n[[9x/9]] = [[99/9]]\nx = 11\n9 × 11 - 21 = 78\n99 - 21 = 78\n78 = 78"
+              },
+              {
+                "q": "(13) [[6x-4/2x+2]] = 2",
+                "a": "[[6x-4/2x+2]] = 2\n6x - 4 = 2(2x + 2)\n6x - 4 = 4x + 4\n6x - 4x = 4 + 4\n2x = 8\n[[2x/2]] = [[8/2]]\nx = 4\n6 × 4 - 4 = 20\n2 × 4 + 2 = 10\n[[20/10]] = 2\n2 = 2"
+              },
+              {
+                "q": "(14) [[x/2]] + 4 = x - [[1/3]]",
+                "a": "[[x/2]] + 4 = x - [[1/3]]\n6([[x/2]] + 4) = 6(x - [[1/3]])\n3x + 24 = 6x - 2\n24 + 2 = 6x - 3x\n26 = 3x\n3x = 26\nx = [[26/3]]\n[[26/3]] ÷ 2 + 4 = [[13/3]] + 4\n[[13/3]] + 4 = [[25/3]]\n[[26/3]] - [[1/3]] = [[25/3]]\n[[25/3]] = [[25/3]]"
+              },
+              {
+                "q": "(15) [[5x-4/8]] = [[x+6/4]]",
+                "a": "[[5x-4/8]] = [[x+6/4]]\n8([[5x-4/8]]) = 8([[x+6/4]])\n5x - 4 = 2(x + 6)\n5x - 4 = 2x + 12\n5x - 2x = 12 + 4\n3x = 16\nx = [[16/3]]\n5 × [[16/3]] = [[80/3]]\n[[80/3]] - 4 = [[68/3]]\n[[68/3]] ÷ 8 = [[17/6]]\n[[16/3]] + 6 = [[34/3]]\n[[34/3]] ÷ 4 = [[17/6]]\n[[17/6]] = [[17/6]]"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 9.3",
+            "items": [
+              {
+                "q": "1. Sara stitches 44 mirror pieces on a red and green shirt. If 6 more mirror pieces are stitched on red shirt than green shirts, find the mirrors stitched on green shirt.",
+                "a": "Green shirt mirrors = x\nRed shirt mirrors = x + 6\nx + (x + 6) = 44\nx + x + 6 = 44\n2x + 6 = 44\n2x + 6 - 6 = 44 - 6\n2x = 38\n[[2x/2]] = [[38/2]]\nx = 19\n19 mirrors on green shirt"
+              },
+              {
+                "q": "2. In a cricket match Jamil and Saleem enhanced the score of the team by 84 runs. If Jamil scored 12 runs more than Saleem. Find the score of the Saleem.",
+                "a": "Saleem score = x runs\nJamil score = x + 12 runs\nx + (x + 12) = 84\nx + x + 12 = 84\n2x + 12 = 84\n2x + 12 - 12 = 84 - 12\n2x = 72\n[[2x/2]] = [[72/2]]\nx = 36\n36 runs"
+              },
+              {
+                "q": "3. Sum of a number and its double is 9. Find the number.",
+                "a": "x = the number\nx + 2x = 9\n3x = 9\n[[3x/3]] = [[9/3]]\nx = 3"
+              },
+              {
+                "q": "4. The product of 7 and the sum of a number and 6 is 77. Find the number.",
+                "a": "x = the number\n7(x + 6) = 77\n7x + 42 = 77\n7x + 42 - 42 = 77 - 42\n7x = 35\n[[7x/7]] = [[35/7]]\nx = 5"
+              },
+              {
+                "q": "5. The sum of 6 and four times a number is 42. Find the number.",
+                "a": "x = the number\n6 + 4x = 42\n6 + 4x - 6 = 42 - 6\n4x = 36\n[[4x/4]] = [[36/4]]\nx = 9"
+              },
+              {
+                "q": "6. The sum of the ages of mother and her daughter is 22 years. The daughter is 20 years younger than mother. Find the age of her daughter.",
+                "a": "Daughter age = x years\nMother age = x + 20 years\nx + (x + 20) = 22\nx + x + 20 = 22\n2x + 20 = 22\n2x + 20 - 20 = 22 - 20\n2x = 2\n[[2x/2]] = [[2/2]]\nx = 1\n1 year"
+              },
+              {
+                "q": "7. When Dua opens a book there are two pages in front of her. The sum of the page numbers is 155. If one page number is 50, what is the other page number?",
+                "a": "x = the other page number\nx + 50 = 155\nx + 50 - 50 = 155 - 50\nx = 105\nOther page number = 105"
+              },
+              {
+                "q": "8. The price of a toy was decreased by Rs 7. If new price is 25 rupees. Find the original price.",
+                "a": "x = the original price in rupees\nx - 7 = 25\nx - 7 + 7 = 25 + 7\nx = 32\nRs 32"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. Write the algebraic expression of the following:\n(i) Sum of x and 4\n(ii) A number less than 7\n(iii) 9 times a number x\n(iv) A number y divided by 6\n(v) Sum of two numbers x and y\n(vi) Product of a variable x with itself",
+                "a": "(i) x + 4\n(ii) x - 7\n(iii) 9x\n(iv) [[y/6]]\n(v) x + y\n(vi) x^2"
+              },
+              {
+                "q": "2. Write an equation for each of the following:\n(i) A number x decreased by 3 is 10\n(ii) Thrice a number y increased by 5 is 17\n(iii) Twice a number z more 4 is 20\n(iv) Half of a number m subtracted from 7 is 4\n(v) Sum of two consecutive even numbers is 16\n(vi) After 8 years I will be thrice as old as I am now",
+                "a": "(i) x - 3 = 10\n(ii) 3y + 5 = 17\n(iii) 2z + 4 = 20\n(iv) 7 - [[m/2]] = 4\n(v) 2x + 2 = 16\n(vi) x + 8 = 3x"
+              },
+              {
+                "q": "3. Solve the following equations:\n(i) 5x - 3 = 18    (ii) [[y+1/2]] = 5    (iii) [[m-1/3]] = 1\n(iv) 4y - 10 = 1    (v) [[p/7]] - 3 = 2    (vi) [[1/2]]q = 3",
+                "a": "(i) 5x - 3 = 18\n5x - 3 + 3 = 18 + 3\n5x = 21\nx = [[21/5]]\n5 × [[21/5]] - 3 = 18\n21 - 3 = 18\n18 = 18\n(ii) [[y+1/2]] = 5\ny + 1 = 10\ny + 1 - 1 = 10 - 1\ny = 9\n[[9+1/2]] = [[10/2]]\n5 = 5\n(iii) [[m-1/3]] = 1\nm - 1 = 3\nm - 1 + 1 = 3 + 1\nm = 4\n[[4-1/3]] = [[3/3]]\n1 = 1\n(iv) 4y - 10 = 1\n4y - 10 + 10 = 1 + 10\n4y = 11\ny = [[11/4]]\n4 × [[11/4]] - 10 = 1\n11 - 10 = 1\n1 = 1\n(v) [[p/7]] - 3 = 2\n[[p/7]] - 3 + 3 = 2 + 3\n[[p/7]] = 5\np = 35\n[[35/7]] - 3 = 2\n5 - 3 = 2\n2 = 2\n(vi) [[1/2]]q = 3\n[[1/2]]q × 2 = 3 × 2\nq = 6\n[[1/2]] × 6 = 3\n3 = 3"
+              },
+              {
+                "q": "4. A pole x metres long is broken into two parts, one part is 3 metres long and other part is 2x - 17 metres long. Find the original length of the pole.",
+                "a": "x = 3 + (2x - 17)\nx = 2x - 14\nx - 2x = -14\n-x = -14\nx = 14\n14 metres"
+              },
+              {
+                "q": "5. If a number is tripled and the result is increased by 5, we get 44. Find the number.",
+                "a": "x = the number\n3x + 5 = 44\n3x + 5 - 5 = 44 - 5\n3x = 39\n[[3x/3]] = [[39/3]]\nx = 13"
+              },
+              {
+                "q": "6. Twice a number added to half of itself equals 20. Find the number.",
+                "a": "x = the number\n2x + [[x/2]] = 20\n2(2x + [[x/2]]) = 2 × 20\n4x + x = 40\n5x = 40\n[[5x/5]] = [[40/5]]\nx = 8"
+              },
+              {
+                "q": "7. Thrice a number decreased by 5 exceeds the number by a unit. Find the number.",
+                "a": "x = the number\n3x - 5 = x + 1\n3x - 5 + 5 = x + 1 + 5\n3x = x + 6\n3x - x = x + 6 - x\n2x = 6\n[[2x/2]] = [[6/2]]\nx = 3"
+              },
+              {
+                "q": "8. The sum of two consecutive even integers is 34. Find the smallest of them.",
+                "a": "x = the smallest integer\nx + (x + 2) = 34\nx + x + 2 = 34\n2x + 2 = 34\n2x + 2 - 2 = 34 - 2\n2x = 32\n[[2x/2]] = [[32/2]]\nx = 16\n16"
+              }
+            ]
+          }
+        ],
+        "display": "Linear Equations"
+      },
+      {
+        "unit": 10,
+        "title": "Geometry",
+        "exercises": [
+          {
+            "label": "Exercise 10.1",
+            "items": [
+              {
+                "q": "1. Find the sum of measures of the following pairs of line segments geometrically.\n(i) [Figure: PQ = 2 cm, RS = 3 cm]\n(ii) [Figure: AB = 3.6 cm, CD = 4.7 cm]\n(iii) [Figure: EF = 2.3 cm, GH = 4 cm, IJ = 1.5 cm]\n(iv) [Figure: JR = 3.2 cm, LM = 2.5 cm, NO = 4.3 cm]",
+                "a": "(i)\nmPQ + mRS\n= 2 cm + 3 cm\n= 5 cm\n(ii)\nmAB + mCD\n= 3.6 cm + 4.7 cm\n= 8.3 cm\n(iii)\nmEF + mGH + mIJ\n= 2.3 cm + 4 cm + 1.5 cm\n= 7.8 cm\n(iv)\nmJR + mLM + mNO\n= 3.2 cm + 2.5 cm + 4.3 cm\n= 10.0 cm"
+              },
+              {
+                "q": "2. Find the difference of measures of the following line segments geometrically.\n(i) [Figure: LM = 2 cm, OP = 4 cm]\n(ii) [Figure: PQ = 3.5 cm, RS = 5 cm]\n(iii) [Figure: AB = 4.3 cm, CD = 6.4 cm]\n(iv) [Figure: JK = 4 cm, LM = 5.8 cm]\n(v) [Figure: LM = 6.7 cm, LN = 5.2 cm]",
+                "a": "(i)\nmOP - mLM\n= 4 cm - 2 cm\n= 2 cm\n(ii)\nmRS - mPQ\n= 5 cm - 3.5 cm\n= 1.5 cm\n(iii)\nmCD - mAB\n= 6.4 cm - 4.3 cm\n= 2.1 cm\n(iv)\nmLM - mJK\n= 5.8 cm - 4 cm\n= 1.8 cm\n(v)\nmLM - mLN\n= 6.7 cm - 5.2 cm\n= 1.5 cm"
+              },
+              {
+                "q": "3. Draw right bisectors of the line segments of the following measures.\n(i) 5 cm (ii) 6.3 cm (iii) 8 cm",
+                "a": "(i)\nmAB = 5 cm\nCentre A, radius 3 cm, arcs on each side of AB\nCentre B, same radius, arcs to cut at P and Q\nLine PQ through O\nmAO = mOB = 2.5 cm\n(ii)\nmAB = 6.3 cm\nCentre A, radius 3.5 cm, arcs on each side of AB\nCentre B, same radius, arcs to cut at P and Q\nLine PQ through O\nmAO = mOB = 3.15 cm\n(iii)\nmAB = 8 cm\nCentre A, radius 4.5 cm, arcs on each side of AB\nCentre B, same radius, arcs to cut at P and Q\nLine PQ through O\nmAO = mOB = 4 cm"
+              },
+              {
+                "q": "4. Draw perpendicular from given points on the following line segments.\n(i) [Figure: line segment AB with point C on it]\n(ii) [Figure: line segment DE with point F on it]\n(iii) [Figure: line segment IJ with point K on it]",
+                "a": "(i)\nLine AB, point C on AB\nCentre C, arc to cut AB at P and Q\nmPC = mQC\nCentre P and Q, radius more than mPC, arcs to cut at S\nLine CS\nCS ⊥ AB\nm∠ACS = 90°\n(ii)\nLine DE, point F on DE\nCentre F, arc to cut DE at P and Q\nmPF = mQF\nCentre P and Q, radius more than mPF, arcs to cut at S\nLine FS\nFS ⊥ DE\nm∠DFS = 90°\n(iii)\nLine IJ, point K on IJ\nCentre K, arc to cut IJ at P and Q\nmPK = mQK\nCentre P and Q, radius more than mPK, arcs to cut at S\nLine KS\nKS ⊥ IJ\nm∠IKS = 90°"
+              },
+              {
+                "q": "5. Draw perpendiculars from given points outside the following line segments.\n(i) [Figure: line segment AB with point C outside it]\n(ii) [Figure: line segment DE with point F outside it]\n(iii) [Figure: line segment IJ with point K outside it]",
+                "a": "(i)\nLine AB, point C outside AB\nCentre C, arc to cut AB at P and Q\nCentre P and Q, radius more than half of mPQ, arcs to cut at S\nLine CS\nCS ⊥ AB\n(ii)\nLine DE, point F outside DE\nCentre F, arc to cut DE at P and Q\nCentre P and Q, radius more than half of mPQ, arcs to cut at S\nLine FS\nFS ⊥ DE\n(iii)\nLine IJ, point K outside IJ\nCentre K, arc to cut IJ at P and Q\nCentre P and Q, radius more than half of mPQ, arcs to cut at S\nLine KS\nKS ⊥ IJ"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 10.2",
+            "items": [
+              {
+                "q": "1. Bisect the following angles with the help of compasses.\n(i) [Figure: ∠ABC = 80°]\n(ii) [Figure: ∠ABC = 110°]\n(iii) [Figure: ∠ABC = 125°]",
+                "a": "(i)\nm∠ABC = 80°\nCentre B, arc to cut BC and BA at P and Q\nCentre P and Q, arcs to cut at S\nRay BS\nm∠ABS = m∠CBS = 40°\n(ii)\nm∠ABC = 110°\nCentre B, arc to cut BC and BA at P and Q\nCentre P and Q, arcs to cut at S\nRay BS\nm∠ABS = m∠CBS = 55°\n(iii)\nm∠ABC = 125°\nCentre B, arc to cut BC and BA at P and Q\nCentre P and Q, arcs to cut at S\nRay BS\nm∠ABS = m∠CBS = 62 [[1/2]]°"
+              },
+              {
+                "q": "2. Divide the following angles with the help of compasses into four equal angles.\n(i) [Figure: ∠ABC = 95°]\n(ii) [Figure: ∠ABC = 115°]\n(iii) [Figure: ∠ABC = 145°]",
+                "a": "(i)\nm∠ABC = 95°\nCentre B, arc to cut BC and BA at P and Q\nCentre P and Q, arcs to cut at S\nRay BS\nm∠ABS = m∠CBS\nRay BS cuts the arc at O\nCentre O and Q, arcs to cut at T\nRay BT\nCentre O and P, arcs to cut at U\nRay BU\nm∠ABT = m∠TBS = m∠SBU = m∠UBC = 23 [[3/4]]°\n(ii)\nm∠ABC = 115°\nCentre B, arc to cut BC and BA at P and Q\nCentre P and Q, arcs to cut at S\nRay BS\nm∠ABS = m∠CBS\nRay BS cuts the arc at O\nCentre O and Q, arcs to cut at T\nRay BT\nCentre O and P, arcs to cut at U\nRay BU\nm∠ABT = m∠TBS = m∠SBU = m∠UBC = 28 [[3/4]]°\n(iii)\nm∠ABC = 145°\nCentre B, arc to cut BC and BA at P and Q\nCentre P and Q, arcs to cut at S\nRay BS\nm∠ABS = m∠CBS\nRay BS cuts the arc at O\nCentre O and Q, arcs to cut at T\nRay BT\nCentre O and P, arcs to cut at U\nRay BU\nm∠ABT = m∠TBS = m∠SBU = m∠UBC = 36 [[1/4]]°"
+              },
+              {
+                "q": "3. Draw the angle of equal measures and twice of the following angles with the help of pair of compass and ruler. Check your answers with protractor.\n(i) [Figure: ∠ABC]\n(ii) [Figure: ∠EFG]\n(iii) [Figure: ∠RST = 90°]",
+                "a": "(i)\nm∠ABC = 48°\nRay DE\nCentre B, arc to cut BC and BA at P and Q\nCentre D, radius mBP, arc to cut DE at X\nCentre X, same radius, arc to cut at Y\nRay DY\nm∠EDY = m∠ABC = 48°\nCentre Y, same radius, arc to cut at Z\nRay DZ\nm∠EDZ = 2 m∠ABC = 96°\n(ii)\nm∠EFG = 30°\nRay HI\nCentre F, arc to cut FG and FE at P and Q\nCentre H, radius mFP, arc to cut HI at X\nCentre X, same radius, arc to cut at Y\nRay HY\nm∠IHY = m∠EFG = 30°\nCentre Y, same radius, arc to cut at Z\nRay HZ\nm∠IHZ = 2 m∠EFG = 60°\n(iii)\nm∠RST = 90°\nRay DE\nCentre S, arc to cut ST and SR at P and Q\nCentre D, radius mSP, arc to cut DE at X\nCentre X, same radius, arc to cut at Y\nRay DY\nm∠EDY = m∠RST = 90°\nCentre Y, same radius, arc to cut at Z\nRay DZ\nm∠EDZ = 2 m∠RST = 180°"
+              },
+              {
+                "q": "4. Draw the following angles with the help of pair of compasses and ruler.\n(i) 30° (ii) (22 [[1/2]])° (iii) (67 [[1/2]])° (iv) 75°\n(v) 105° (vi) 120° (vii) 135° (viii) 165°",
+                "a": "(i) 30°\n[[60°/2]] = 30°\nRay OP\nCentre O, arc to cut OP at A\nCentre A, same radius, arc to cut at B\nRay OQ through B\nm∠POQ = 60°\nCentre A and B, arcs to cut at R\nRay OR through R\nm∠POR = m∠ROQ = 30°\n(ii) (22 [[1/2]])°\n[[45°/2]] = (22 [[1/2]])°\nRay BA\nCentre B, arc to cut BA at P\nCentre P, same radius, arc to cut at Q\nCentre Q, same radius, arc to cut at R\nCentre Q and R, arcs to cut at C\nRay BC\nm∠ABC = 90°\nCentre B, arc to cut BA and BC at P and S\nCentre S and P, arcs to cut at D\nRay BD\nm∠ABD = m∠CBD = 45°\nRay BD cuts the arc PS at T\nCentre T and P, arcs to cut at E\nRay BE\nm∠ABE = (22 [[1/2]])°\nm∠DBE = (22 [[1/2]])°\n(iii) (67 [[1/2]])°\n75° - (7 [[1/2]])° = (67 [[1/2]])°\nm∠ABD = 75°\nRay BD cuts the arc PR at T\nCentre T and Q, arcs to cut at E\nRay BE\nm∠ABE = (67 [[1/2]])°\nm∠DBE = (7 [[1/2]])°\n(iv) 75°\n90° - 15° = 75°\nm∠ABC = 90°\nRay BC cuts the arc PR at S\nCentre S and Q, arcs to cut at D\nRay BD\nm∠ABD = 75°\n(v) 105°\n90° + 15° = 105°\nm∠ABC = 90°\nRay BC cuts the arc PR at S\nCentre R and S, arcs to cut at D\nRay BD\nm∠ABD = 105°\n(vi) 120°\n60° + 60° = 120°\nRay OP\nCentre O, arc to cut OP at A\nCentre A, same radius, arc to cut at B\nRay OQ through B\nm∠POQ = 60°\nCentre B, same radius, arc to cut the arc AB at C\nRay OR through C\nm∠POR = 120°\n(vii) 135°\n90° + 45° = 135°\nm∠ABC = 90°\nRay BC cuts the arc PR at T\nCentre R, radius of arc QR, arc to cut the base arc at S\nCentre S and T, arcs to cut at D\nRay BD\nm∠ABD = 135°\n(viii) 165°\n150° + 15° = 165°\nm∠AOR = 150°\nRay OR cuts the arc AD at E\nCentre E and D, arcs to cut at S\nRay OS\nm∠POS = 165°"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 10.3",
+            "items": [
+              {
+                "q": "Construct a triangle ABC when:\n1. mAB = 3 cm, mBC = 5 cm and mCA = 7 cm.",
+                "a": "mCA = 7 cm\nCentre A, radius 3 cm, arc\nCentre C, radius 5 cm, arc to cut at B\nJoin A to B\nJoin B to C\nmAB = 3 cm\nmBC = 5 cm\nmCA = 7 cm"
+              },
+              {
+                "q": "Construct a triangle ABC when:\n2. mAB = 2 cm, mBC = 5 cm and mCA = 5 cm.",
+                "a": "mCA = 5 cm\nCentre A, radius 2 cm, arc\nCentre C, radius 5 cm, arc to cut at B\nJoin A to B\nJoin B to C\nmAB = 2 cm\nmBC = 5 cm\nmCA = 5 cm"
+              },
+              {
+                "q": "Construct a triangle ABC when:\n3. mAB = 5 cm, mBC = 7 cm and mCA = 9 cm.",
+                "a": "mCA = 9 cm\nCentre A, radius 5 cm, arc\nCentre C, radius 7 cm, arc to cut at B\nJoin A to B\nJoin B to C\nmAB = 5 cm\nmBC = 7 cm\nmCA = 9 cm"
+              },
+              {
+                "q": "Construct a triangle ABC when:\n4. mAB = 8 cm, mBC = 6 cm and mCA = 10 cm.",
+                "a": "mCA = 10 cm\nCentre A, radius 8 cm, arc\nCentre C, radius 6 cm, arc to cut at B\nJoin A to B\nJoin B to C\nmAB = 8 cm\nmBC = 6 cm\nmCA = 10 cm"
+              },
+              {
+                "q": "Construct a triangle MNO when:\n5. m∠N = 63°, mNO = 3 cm and mMN = 5 cm.",
+                "a": "mNO = 3 cm\nRay NM\nm∠MNO = 63°\nmMN = 5 cm\nJoin M to O"
+              },
+              {
+                "q": "Construct a triangle MNO when:\n6. m∠N = 75°, mNO = 3.4 cm and mMN = 4 cm.",
+                "a": "mNO = 3.4 cm\nRay NM\nm∠MNO = 75°\nmMN = 4 cm\nJoin M to O"
+              },
+              {
+                "q": "Construct a triangle MNO when:\n7. m∠N = 80°, mNO = 3.5 cm and mMN = 4.3 cm.",
+                "a": "mNO = 3.5 cm\nRay NM\nm∠MNO = 80°\nmMN = 4.3 cm\nJoin M to O"
+              },
+              {
+                "q": "Construct a triangle MNO when:\n8. m∠N = 90°, mNO = 4 cm and mMN = 3 cm.",
+                "a": "mNO = 4 cm\nRay NM\nm∠MNO = 90°\nmMN = 3 cm\nJoin M to O"
+              },
+              {
+                "q": "Construct a triangle PQR when:\n9. mPQ = 5 cm, m∠Q = 40°, m∠P = 60°.",
+                "a": "mPQ = 5 cm\nRay PR\nm∠QPR = 60°\nRay QR\nm∠PQR = 40°\nRays PR and QR meet at R"
+              },
+              {
+                "q": "Construct a triangle PQR when:\n10. mPQ = 7 cm, m∠P = 65°, m∠Q = 60°.",
+                "a": "mPQ = 7 cm\nRay PR\nm∠QPR = 65°\nRay QR\nm∠PQR = 60°\nRays PR and QR meet at R"
+              },
+              {
+                "q": "Construct a triangle PQR when:\n11. mQR = 6.5 cm, m∠Q = 45°, m∠R = 30°.",
+                "a": "mQR = 6.5 cm\nRay QP\nm∠RQP = 45°\nRay RP\nm∠QRP = 30°\nRays QP and RP meet at P"
+              },
+              {
+                "q": "Construct a triangle PQR when:\n12. mQR = 7.5 cm, m∠Q = 35°, m∠R = 40°.",
+                "a": "mQR = 7.5 cm\nRay QP\nm∠RQP = 35°\nRay RP\nm∠QRP = 40°\nRays QP and RP meet at P"
+              },
+              {
+                "q": "Construct a right angled triangle XYZ when m∠Z = 90°.\n13. mXY = 7 cm, mXZ = 5 cm.",
+                "a": "Ray ZA\nm∠AZB = 90°\nCentre Z, radius 5 cm, arc to cut ZB at X\nmXZ = 5 cm\nCentre X, radius 7 cm, arc to cut ZA at Y\nmXY = 7 cm\nJoin X to Y\nm∠Z = 90°"
+              },
+              {
+                "q": "Construct a right angled triangle XYZ when m∠Z = 90°.\n14. mXY = 10 cm, mXZ = 6 cm.",
+                "a": "Ray ZA\nm∠AZB = 90°\nCentre Z, radius 6 cm, arc to cut ZB at X\nmXZ = 6 cm\nCentre X, radius 10 cm, arc to cut ZA at Y\nmXY = 10 cm\nJoin X to Y\nm∠Z = 90°"
+              },
+              {
+                "q": "Construct a right angled triangle XYZ when m∠Z = 90°.\n15. mXY = 14 cm, mXZ = 10 cm.",
+                "a": "Ray ZA\nm∠AZB = 90°\nCentre Z, radius 10 cm, arc to cut ZB at X\nmXZ = 10 cm\nCentre X, radius 14 cm, arc to cut ZA at Y\nmXY = 14 cm\nJoin X to Y\nm∠Z = 90°"
+              },
+              {
+                "q": "Construct a right angled triangle XYZ when m∠Z = 90°.\n16. mXY = 8 cm, mXZ = 6.5 cm.",
+                "a": "Ray ZA\nm∠AZB = 90°\nCentre Z, radius 6.5 cm, arc to cut ZB at X\nmXZ = 6.5 cm\nCentre X, radius 8 cm, arc to cut ZA at Y\nmXY = 8 cm\nJoin X to Y\nm∠Z = 90°"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. Give four examples of objects which represent the line segments from your environment.",
+                "a": "Edge of a door\nEdge of a window\nEdge of a desk\nEdge of a ruler"
+              },
+              {
+                "q": "2. If mAB = 4.3 cm, mCD = 3.5 cm and mEF = 2 cm, construct geometrically a line segment whose length is equal to:\n(i) mAB + mCD + mEF\n(ii) mAB - mCD\n(iii) mAB - mEF",
+                "a": "(i)\nmAB + mCD + mEF\n= 4.3 cm + 3.5 cm + 2 cm\n= 9.8 cm\n(ii)\nmAB - mCD\n= 4.3 cm - 3.5 cm\n= 0.8 cm\n(iii)\nmAB - mEF\n= 4.3 cm - 2 cm\n= 2.3 cm"
+              },
+              {
+                "q": "3. Draw a line segment measuring 7.6 cm and draw its right bisector. Then bisect its each part into equal parts.",
+                "a": "mAB = 7.6 cm\nCentre A, radius 4 cm, arcs on each side of AB\nCentre B, same radius, arcs to cut at P and Q\nLine PQ through O\nmAO = mOB = 3.8 cm\nCentre A, radius 2 cm, arcs on each side of AO\nCentre O, same radius, arcs to cut at R and S\nLine RS\nmAR = mRO = 1.9 cm\nCentre O, radius 2 cm, arcs on each side of OB\nCentre B, same radius, arcs to cut at T and U\nLine TU\nmOT = mTB = 1.9 cm\n1.9 cm + 1.9 cm + 1.9 cm + 1.9 cm = 7.6 cm"
+              },
+              {
+                "q": "4. Draw angles of the following measures with the help of compasses and bisect them.\n(i) 30° (ii) 75° (iii) 105°",
+                "a": "(i)\nm∠POQ = 30°\nCentre O, arc to cut OP and OQ at A and B\nCentre A and B, arcs to cut at R\nRay OR\nm∠POR = m∠ROQ = 15°\n(ii)\nm∠POQ = 75°\nCentre O, arc to cut OP and OQ at A and B\nCentre A and B, arcs to cut at R\nRay OR\nm∠POR = m∠ROQ = 37 [[1/2]]°\n(iii)\nm∠POQ = 105°\nCentre O, arc to cut OP and OQ at A and B\nCentre A and B, arcs to cut at R\nRay OR\nm∠POR = m∠ROQ = 52 [[1/2]]°"
+              },
+              {
+                "q": "5. Construct a triangle ABC according to the following conditions and write steps of construction in each case.\n(i) mAB = 8 cm, mAC = 6 cm, m∠A = 65°\n(ii) m∠A = 45°, m∠C = 45°, mAC = 7.5 cm\n(iii) mAB = 5 cm, mAC = 7 cm, m∠B = 90°",
+                "a": "(i)\nmAB = 8 cm\nRay AC\nm∠BAC = 65°\nmAC = 6 cm\nJoin B to C\n(ii)\nmAC = 7.5 cm\nRay AB\nm∠BAC = 45°\nRay CB\nm∠BCA = 45°\nRays AB and CB meet at B\n(iii)\nRay BC\nm∠ABC = 90°\nCentre B, radius 5 cm, arc to cut the vertical ray at A\nmAB = 5 cm\nCentre A, radius 7 cm, arc to cut BC at C\nmAC = 7 cm\nJoin A to C"
+              },
+              {
+                "q": "6. Draw is a line segment and name it.",
+                "a": "PQ"
+              },
+              {
+                "q": "7. Tick the perpendicular bisector of a line AB.\n(i) [Figure: ray CD from point C on AB, slanting]\n(ii) [Figure: line CD perpendicular to AB through its mid point]\n(iii) [Figure: ray CD from point C on AB, slanting]",
+                "a": "(ii)"
+              },
+              {
+                "q": "8. Choose the correct answer.\n(i) Line segment AB is denoted by:\n(a) AB (line) (b) AB (line segment) (c) AB (ray) (d) BA (ray)\n(ii) Bisector divides a line segment into ___ equal parts.\n(a) two (b) three (c) four (d) five\n(iii) In PQ, the right bisector passes through its:\n(a) end point (b) mid point (c) point P (d) point Q\n(iv) An angle is measured by:\n(a) Ruler (b) Compasses (c) Protractor (d) Set squares",
+                "a": "(i) (b) AB\n(ii) (a) two\n(iii) (b) mid point\n(iv) (c) Protractor"
+              },
+              {
+                "q": "9. Write True (T) or False (F) for the following:\n(i) A line has a definite length.\n(ii) A ray has two end points.\n(iii) An angle of 15° is formed by bisecting the angle of 30°.\n(iv) A triangle has 6 elements.\n(v) A triangle is formed when sum of measures of any two sides is less than the third side.",
+                "a": "(i) False\n(ii) False\n(iii) True\n(iv) True\n(v) False"
+              }
+            ]
+          }
+        ],
+        "display": "Geometry"
+      },
+      {
+        "unit": 11,
+        "title": "Perimeter and Area",
+        "exercises": [
+          {
+            "label": "Exercise 11.1",
+            "items": [
+              {
+                "q": "1. Find the perimeter and area of each of the following squares.\n(a) Square ABCD of side 5 cm.",
+                "a": "Side = 5 cm\nPerimeter of square = 4 × side\n= 4 × 5\n= 20 cm\nArea of square = side × side\n= 5 × 5\n= 25 sq. cm"
+              },
+              {
+                "q": "1. Find the perimeter and area of each of the following squares.\n(b) Square EFGH of side 3.5 cm.",
+                "a": "Side = 3.5 cm\nPerimeter of square = 4 × side\n= 4 × 3.5\n= 14 cm\nArea of square = side × side\n= 3.5 × 3.5\n35 × 35 = 1225\n= 12.25 sq. cm"
+              },
+              {
+                "q": "1. Find the perimeter and area of each of the following squares.\n(c) Square POIN of side 6 cm with a rectangular piece 2 cm wide and 3 cm deep cut out from the middle of the bottom side.",
+                "a": "Side of square = 6 cm\nLength of cut out piece = 2 cm\nDepth of cut out piece = 3 cm\nPerimeter of figure = 6 + 6 + 2 + 3 + 2 + 3 + 2 + 6\n= 30 cm\nArea of square = 6 × 6\n= 36 sq. cm\nArea of cut out piece = 2 × 3\n= 6 sq. cm\nArea of figure = 36 − 6\n= 30 sq. cm"
+              },
+              {
+                "q": "2. Find the perimeter and area of the following rectangles.\n(a) Rectangle ORST of length 5 cm and breadth 3 cm.",
+                "a": "Length = 5 cm\nBreadth = 3 cm\nPerimeter of rectangle = 2 (l + b)\n= 2 (5 + 3)\n= 2 (8)\n= 16 cm\nArea of rectangle = length × breadth\n= 5 × 3\n= 15 sq. cm"
+              },
+              {
+                "q": "2. Find the perimeter and area of the following rectangles.\n(b) Rectangle WXYZ of length 6 cm and breadth 2.5 cm.",
+                "a": "Length = 6 cm\nBreadth = 2.5 cm\nPerimeter of rectangle = 2 (l + b)\n= 2 (6 + 2.5)\n= 2 (8.5)\n= 17 cm\nArea of rectangle = length × breadth\n= 6 × 2.5\n= 15 sq. cm"
+              },
+              {
+                "q": "2. Find the perimeter and area of the following rectangles.\n(c) Rectangle AEIO of length 4.8 cm and breadth 2.7 cm.",
+                "a": "Length = 4.8 cm\nBreadth = 2.7 cm\nPerimeter of rectangle = 2 (l + b)\n= 2 (4.8 + 2.7)\n= 2 (7.5)\n= 15 cm\nArea of rectangle = length × breadth\n= 4.8 × 2.7\n48 × 27 = 1296\n= 12.96 sq. cm"
+              },
+              {
+                "q": "2. Find the perimeter and area of the following rectangles.\n(d) Rectangle OLNM of length 10 cm and breadth 2 cm.",
+                "a": "Length = 10 cm\nBreadth = 2 cm\nPerimeter of rectangle = 2 (l + b)\n= 2 (10 + 2)\n= 2 (12)\n= 24 cm\nArea of rectangle = length × breadth\n= 10 × 2\n= 20 sq. cm"
+              },
+              {
+                "q": "3. Find the perimeter and area of:\n(i) Rectangle with sides 5 cm, 2.5 cm, 5 cm and 2.5 cm",
+                "a": "Length = 5 cm\nBreadth = 2.5 cm\nPerimeter of rectangle = 5 + 2.5 + 5 + 2.5\n= 15 cm\nArea of rectangle = length × breadth\n= 5 × 2.5\n= 12.5 sq. cm"
+              },
+              {
+                "q": "3. Find the perimeter and area of:\n(ii) Square with each side 5 cm.",
+                "a": "Side = 5 cm\nPerimeter of square = 4 × side\n= 4 × 5\n= 20 cm\nArea of square = side × side\n= 5 × 5\n= 25 sq. cm"
+              },
+              {
+                "q": "4. Find the side of square whose perimeter is:\n(a) 48 cm",
+                "a": "Perimeter of square = 48 cm\nSide of square = 48 ÷ 4\n= 12 cm"
+              },
+              {
+                "q": "4. Find the side of square whose perimeter is:\n(b) 50 cm",
+                "a": "Perimeter of square = 50 cm\nSide of square = 50 ÷ 4\n= 12.5 cm"
+              },
+              {
+                "q": "5. Find the length of rectangle whose perimeter is 100 m and breadth is 20 m.",
+                "a": "Perimeter of rectangle = 100 m\nBreadth = 20 m\nPerimeter of rectangle = 2 (l + b)\n100 = 2 (l + 20)\n100 ÷ 2 = l + 20\n50 = l + 20\nl = 50 − 20\nl = 30 m"
+              },
+              {
+                "q": "6. Find the area of rectangle whose adjacent sides are 6.2 cm and 8.5 cm long.",
+                "a": "Length = 6.2 cm\nBreadth = 8.5 cm\nArea of rectangle = length × breadth\n= 6.2 × 8.5\n62 × 85 = 5270\n= 52.7 sq. cm"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.2",
+            "items": [
+              {
+                "q": "1. Find the area of shaded portion in the following figures.\n(i) Rectangle 25 cm long and 20 cm wide with a path 5 cm wide all round inside it.",
+                "a": "Length of outer rectangle = 25 cm\nBreadth of outer rectangle = 20 cm\nWidth of path = 5 cm\nLength of inner rectangle = 25 − 5 − 5 = 15 cm\nBreadth of inner rectangle = 20 − 5 − 5 = 10 cm\nArea of outer rectangle = 25 × 20\n= 500 sq. cm\nArea of inner rectangle = 15 × 10\n= 150 sq. cm\nArea of path = Area of outer rectangle − Area of inner rectangle\n= 500 − 150\n= 350 sq. cm"
+              },
+              {
+                "q": "1. Find the area of shaded portion in the following figures.\n(ii) Rectangle 35 cm long and 25 cm wide with a path 10 cm wide all round inside it.",
+                "a": "Length of outer rectangle = 35 cm\nBreadth of outer rectangle = 25 cm\nWidth of path = 10 cm\nLength of inner rectangle = 35 − 10 − 10 = 15 cm\nBreadth of inner rectangle = 25 − 10 − 10 = 5 cm\nArea of outer rectangle = 35 × 25\n= 875 sq. cm\nArea of inner rectangle = 15 × 5\n= 75 sq. cm\nArea of path = Area of outer rectangle − Area of inner rectangle\n= 875 − 75\n= 800 sq. cm"
+              },
+              {
+                "q": "1. Find the area of shaded portion in the following figures.\n(iii) Outer rectangle 50.5 cm long and 40.5 cm wide with an inner rectangle 45.5 cm long and 35.5 cm wide; the portion between them is shaded.",
+                "a": "Length of outer rectangle = 50.5 cm\nBreadth of outer rectangle = 40.5 cm\nLength of inner rectangle = 45.5 cm\nBreadth of inner rectangle = 35.5 cm\nArea of outer rectangle = 50.5 × 40.5\n505 × 405 = 204525\n= 2045.25 sq. cm\nArea of inner rectangle = 45.5 × 35.5\n455 × 355 = 161525\n= 1615.25 sq. cm\nArea of shaded portion = 2045.25 − 1615.25\n= 430 sq. cm"
+              },
+              {
+                "q": "2. A field whose length and breadth are 35 cm and 30 cm respectively. A path 5 cm wide constructed all round inside it. Find the area of the path.",
+                "a": "Length of field = 35 cm\nBreadth of field = 30 cm\nWidth of path = 5 cm\nLength of inner rectangle = 35 − 5 − 5 = 25 cm\nBreadth of inner rectangle = 30 − 5 − 5 = 20 cm\nArea of field = 35 × 30\n= 1050 sq. cm\nArea of inner rectangle = 25 × 20\n= 500 sq. cm\nArea of path = 1050 − 500\n= 550 sq. cm"
+              },
+              {
+                "q": "3. A path of 5 cm wide is constructed all round outside a field with dimension 20 cm and 10 cm. Find the area of the path.",
+                "a": "Length of field = 20 cm\nBreadth of field = 10 cm\nWidth of path = 5 cm\nLength of outer rectangle = 20 + 5 + 5 = 30 cm\nBreadth of outer rectangle = 10 + 5 + 5 = 20 cm\nArea of outer rectangle = 30 × 20\n= 600 sq. cm\nArea of field = 20 × 10\n= 200 sq. cm\nArea of path = 600 − 200\n= 400 sq. cm"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.3",
+            "items": [
+              {
+                "q": "1. Find the cost of fencing a square shaped park of side 250 m at the rate of Rs 30 per metre.",
+                "a": "Side of park = 250 m\nPerimeter of square park = 4 × side\n= 4 × 250\n= 1000 m\nRate of fencing = Rs 30 per metre\nCost of fencing = 1000 × 30\n= 30000 rupees"
+              },
+              {
+                "q": "2. Find the cost of fencing a rectangular park of length 200 m and breadth 150 m at the rate of Rs 30 per metre.",
+                "a": "Length of park = 200 m\nBreadth of park = 150 m\nPerimeter of rectangular park = 2 (l + b)\n= 2 (200 + 150)\n= 2 (350)\n= 700 m\nRate of fencing = Rs 30 per metre\nCost of fencing = 700 × 30\n= 21000 rupees"
+              },
+              {
+                "q": "3. Bismah and Umaima goes for jogging every morning. Bismah covers distance around a square of length 200 m and Umaima goes around a rectangular field with length and breadth of 150 m and 100 m respectively. Who covers more distance.",
+                "a": "Distance covered by Bismah = Perimeter of square\n= 4 × side\n= 4 × 200\n= 800 m\nDistance covered by Umaima = Perimeter of rectangle\n= 2 (l + b)\n= 2 (150 + 100)\n= 2 (250)\n= 500 m\n800 m > 500 m\nBismah covers more distance"
+              },
+              {
+                "q": "4. Find the length of a plot of width 15 m whose area is 615 sq. m.",
+                "a": "Area of plot = 615 sq. m\nWidth of plot = 15 m\nArea of rectangle = length × breadth\n615 = length × 15\nLength = 615 ÷ 15\n= 41 m"
+              },
+              {
+                "q": "5. The length and breadth of a play ground are 35.5 m and 30.5 m respectively. Find the cost of grassing the ground at the rate of 150 sq. m.",
+                "a": "Length of ground = 35.5 m\nBreadth of ground = 30.5 m\nArea of ground = length × breadth\n= 35.5 × 30.5\n355 × 305 = 108275\n= 1082.75 sq. m\nRate of grassing = Rs 150 per sq. m\nCost of grassing = 1082.75 × 150\n= 108275 + 54137.5\n= 162412.5 rupees"
+              },
+              {
+                "q": "6. A garden 120 m long and 8 m wide has a road 3 m wide all around on the garden outside. Find the cost of paving the road at the rate of Rs 200 per sq. m.",
+                "a": "Length of garden = 120 m\nBreadth of garden = 8 m\nWidth of road = 3 m\nLength of outer rectangle = 120 + 3 + 3 = 126 m\nBreadth of outer rectangle = 8 + 3 + 3 = 14 m\nArea of outer rectangle = 126 × 14\n= 1764 sq. m\nArea of garden = 120 × 8\n= 960 sq. m\nArea of road = 1764 − 960\n= 804 sq. m\nRate of paving = Rs 200 per sq. m\nCost of paving the road = 804 × 200\n= 160800 rupees"
+              },
+              {
+                "q": "7. Find the area of the floor of a room which is covered by 650 tiles, each tile has area of 0.5 sq. m.",
+                "a": "Number of tiles = 650\nArea of each tile = 0.5 sq. m\nArea of floor = 650 × 0.5\n= 325 sq. m"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.4",
+            "items": [
+              {
+                "q": "1. Identify altitude with its length in the following figures.\n(a) Triangle ABC with AE perpendicular to BC, AE = 4 cm, AF = 7 cm and AD = 5 cm.",
+                "a": "Altitude = AE\nAE = 4 cm"
+              },
+              {
+                "q": "1. Identify altitude with its length in the following figures.\n(b) Parallelogram LMON with OP perpendicular to LM, OP = 4.5 cm and OM = 7 cm.",
+                "a": "Altitude = OP\nOP = 4.5 cm"
+              },
+              {
+                "q": "1. Identify altitude with its length in the following figures.\n(c) Trapezium PQRS with SZ perpendicular to PR, SZ = 4 cm and SQ = 5 cm.",
+                "a": "Altitude = SZ\nSZ = 4 cm"
+              },
+              {
+                "q": "1. Identify altitude with its length in the following figures.\n(d) Triangle XYZ with YT perpendicular to XT produced, YT = 6 cm and YZ = 8 cm.",
+                "a": "Altitude = YT\nYT = 6 cm"
+              },
+              {
+                "q": "2. Find the area of a parallelogram when its altitude and base are given:\n(i) Base = 10 cm, altitude = 6 cm",
+                "a": "Base = 10 cm\nAltitude = 6 cm\nArea of parallelogram = base × altitude\n= 10 × 6\n= 60 sq. cm"
+              },
+              {
+                "q": "2. Find the area of a parallelogram when its altitude and base are given:\n(ii) Base = 15 cm, altitude = 8 cm",
+                "a": "Base = 15 cm\nAltitude = 8 cm\nArea of parallelogram = base × altitude\n= 15 × 8\n= 120 sq. cm"
+              },
+              {
+                "q": "2. Find the area of a parallelogram when its altitude and base are given:\n(iii) Base = 4.5 cm, altitude = 5.5 cm",
+                "a": "Base = 4.5 cm\nAltitude = 5.5 cm\nArea of parallelogram = base × altitude\n= 4.5 × 5.5\n45 × 55 = 2475\n= 24.75 sq. cm"
+              },
+              {
+                "q": "2. Find the area of a parallelogram when its altitude and base are given:\n(iv) Base = 6.5 cm, altitude = 4.7 cm",
+                "a": "Base = 6.5 cm\nAltitude = 4.7 cm\nArea of parallelogram = base × altitude\n= 6.5 × 4.7\n65 × 47 = 3055\n= 30.55 sq. cm"
+              },
+              {
+                "q": "3. The area of a parallelogram is 192 sq. cm and its altitude is 12 cm. Find its base.",
+                "a": "Area of parallelogram = 192 sq. cm\nAltitude = 12 cm\nArea of parallelogram = base × altitude\n192 = base × 12\nBase = 192 ÷ 12\n= 16 cm"
+              },
+              {
+                "q": "4. The base of parallelogram is 15 m and its area is 180 sq. m. Find its altitude.",
+                "a": "Base of parallelogram = 15 m\nArea of parallelogram = 180 sq. m\nArea of parallelogram = base × altitude\n180 = 15 × altitude\nAltitude = 180 ÷ 15\n= 12 m"
+              },
+              {
+                "q": "5. The altitude of a parallelogram is 1.5 cm and its area is 4.50 sq. cm. Find its base.",
+                "a": "Altitude of parallelogram = 1.5 cm\nArea of parallelogram = 4.50 sq. cm\nArea of parallelogram = base × altitude\n4.50 = base × 1.5\nBase = 4.50 ÷ 1.5\n= 3 cm"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.5",
+            "items": [
+              {
+                "q": "1. Find the area of trapezium when parallel sides and altitude are given as under.\n(i) Parallel sides are of 5 cm and 6 cm where altitude is 4 cm.",
+                "a": "Parallel sides = 5 cm and 6 cm\nAltitude = 4 cm\nArea of trapezium = [[1/2]] × altitude × (sum of parallel sides)\n= [[1/2]] × 4 × (5 + 6)\n= [[1/2]] × 4 × 11\n= 2 × 11\n= 22 sq. cm"
+              },
+              {
+                "q": "1. Find the area of trapezium when parallel sides and altitude are given as under.\n(ii) Parallel sides are of 3.5 cm and 4.5 cm where altitude is 2 cm.",
+                "a": "Parallel sides = 3.5 cm and 4.5 cm\nAltitude = 2 cm\nArea of trapezium = [[1/2]] × altitude × (sum of parallel sides)\n= [[1/2]] × 2 × (3.5 + 4.5)\n= [[1/2]] × 2 × 8\n= 1 × 8\n= 8 sq. cm"
+              },
+              {
+                "q": "1. Find the area of trapezium when parallel sides and altitude are given as under.\n(iii) Parallel sides are of 4.5 cm and 6.5 cm where altitude is 5.5 cm.",
+                "a": "Parallel sides = 4.5 cm and 6.5 cm\nAltitude = 5.5 cm\nArea of trapezium = [[1/2]] × altitude × (sum of parallel sides)\n= [[1/2]] × 5.5 × (4.5 + 6.5)\n= [[1/2]] × 5.5 × 11\n= [[1/2]] × 60.5\n= 30.25 sq. cm"
+              },
+              {
+                "q": "2. The parallel sides of trapezium are 6 cm and 8 cm, its altitude is 5 cm. Find its area.",
+                "a": "Parallel sides = 6 cm and 8 cm\nAltitude = 5 cm\nArea of trapezium = [[1/2]] × altitude × (sum of parallel sides)\n= [[1/2]] × 5 × (6 + 8)\n= [[1/2]] × 5 × 14\n= [[1/2]] × 70\n= 35 sq. cm"
+              },
+              {
+                "q": "3. If the parallel sides of trapezium are 15 cm and 20 cm and its area is 140 sq. cm. Find the altitude.",
+                "a": "Parallel sides = 15 cm and 20 cm\nArea of trapezium = 140 sq. cm\nArea of trapezium = [[1/2]] × altitude × (sum of parallel sides)\n140 = [[1/2]] × altitude × (15 + 20)\n140 = [[1/2]] × altitude × 35\n140 = 17.5 × altitude\nAltitude = 140 ÷ 17.5\n= 8 cm"
+              },
+              {
+                "q": "4. Find the area of triangle when its base and altitude are given as under.\n(i) Base = 8 cm, altitude = 6 cm",
+                "a": "Base = 8 cm\nAltitude = 6 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 8 × 6\n= [[1/2]] × 48\n= 24 sq. cm"
+              },
+              {
+                "q": "4. Find the area of triangle when its base and altitude are given as under.\n(ii) Base = 9 cm, altitude = 5 cm",
+                "a": "Base = 9 cm\nAltitude = 5 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 9 × 5\n= [[1/2]] × 45\n= 22.5 sq. cm"
+              },
+              {
+                "q": "4. Find the area of triangle when its base and altitude are given as under.\n(iii) Base = 7 cm, altitude = 2.5 cm",
+                "a": "Base = 7 cm\nAltitude = 2.5 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 7 × 2.5\n= [[1/2]] × 17.5\n= 8.75 sq. cm"
+              },
+              {
+                "q": "4. Find the area of triangle when its base and altitude are given as under.\n(iv) Base = 6.5 cm, altitude = 3.5 cm",
+                "a": "Base = 6.5 cm\nAltitude = 3.5 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 6.5 × 3.5\n65 × 35 = 2275\n= [[1/2]] × 22.75\n= 11.375 sq. cm"
+              },
+              {
+                "q": "5. Find the area of triangle whose base and altitude are 6 cm and 5.5 cm respectively.",
+                "a": "Base = 6 cm\nAltitude = 5.5 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 6 × 5.5\n= [[1/2]] × 33\n= 16.5 sq. cm"
+              },
+              {
+                "q": "6. The area of triangle with base 5 cm is 40 sq. cm. Find its height.",
+                "a": "Base = 5 cm\nArea of triangle = 40 sq. cm\nArea of triangle = [[1/2]] × base × height\n40 = [[1/2]] × 5 × height\n40 = 2.5 × height\nHeight = 40 ÷ 2.5\n= 16 cm"
+              },
+              {
+                "q": "7. Find the area of parallelogram in the figure if area of shaded triangle is 20 sq. m.",
+                "a": "Area of shaded triangle = 20 sq. m\nArea of shaded triangle = [[1/2]] × Area of parallelogram\n20 = [[1/2]] × Area of parallelogram\nArea of parallelogram = 20 × 2\n= 40 sq. m"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. Find the perimeter and area of the following figures:\n(i) Square of side 5.3 cm.",
+                "a": "Side = 5.3 cm\nPerimeter of square = 4 × side\n= 4 × 5.3\n= 21.2 cm\nArea of square = side × side\n= 5.3 × 5.3\n53 × 53 = 2809\n= 28.09 sq. cm"
+              },
+              {
+                "q": "1. Find the perimeter and area of the following figures:\n(ii) Rectangle 11 cm long and 8 cm wide.",
+                "a": "Length = 11 cm\nBreadth = 8 cm\nPerimeter of rectangle = 2 (l + b)\n= 2 (11 + 8)\n= 2 (19)\n= 38 cm\nArea of rectangle = length × breadth\n= 11 × 8\n= 88 sq. cm"
+              },
+              {
+                "q": "2. Find the area of the following figures:\n(i) Triangle of base 6 cm and altitude 2.5 cm.",
+                "a": "Base = 6 cm\nAltitude = 2.5 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 6 × 2.5\n= [[1/2]] × 15\n= 7.5 sq. cm"
+              },
+              {
+                "q": "2. Find the area of the following figures:\n(ii) Parallelogram of base 8 cm and altitude 6 cm.",
+                "a": "Base = 8 cm\nAltitude = 6 cm\nArea of parallelogram = base × altitude\n= 8 × 6\n= 48 sq. cm"
+              },
+              {
+                "q": "2. Find the area of the following figures:\n(iii) Trapezium of parallel sides 3 cm and 10 cm and altitude 2.5 cm.",
+                "a": "Parallel sides = 3 cm and 10 cm\nAltitude = 2.5 cm\nArea of trapezium = [[1/2]] × altitude × (sum of parallel sides)\n= [[1/2]] × 2.5 × (3 + 10)\n= [[1/2]] × 2.5 × 13\n= [[1/2]] × 32.5\n= 16.25 sq. cm"
+              },
+              {
+                "q": "3. Find area of the shaded portion of the given figure. Outer rectangle 40 m long and 25 m wide with an inner rectangle 36 m long and 21 m wide; the path between them is 2 m wide all round.",
+                "a": "Length of outer rectangle = 40 m\nBreadth of outer rectangle = 25 m\nLength of inner rectangle = 36 m\nBreadth of inner rectangle = 21 m\nArea of outer rectangle = 40 × 25\n= 1000 sq. m\nArea of inner rectangle = 36 × 21\n= 756 sq. m\nArea of shaded portion = 1000 − 756\n= 244 sq. m"
+              },
+              {
+                "q": "4. A tile is a square of side 20 cm. How many such tiles would be required to cover the floor of a square bath-room of side 3 m?",
+                "a": "Side of tile = 20 cm\nArea of one tile = 20 × 20\n= 400 sq. cm\nSide of floor = 3 m = 300 cm\nArea of floor = 300 × 300\n= 90000 sq. cm\nNumber of tiles = 90000 ÷ 400\n= 225"
+              },
+              {
+                "q": "5. The area of a square of side 16 cm is the same as that of a rectangle of length 64 cm. What is the breadth of the rectangle?",
+                "a": "Side of square = 16 cm\nArea of square = 16 × 16\n= 256 sq. cm\nArea of rectangle = 256 sq. cm\nLength of rectangle = 64 cm\nArea of rectangle = length × breadth\n256 = 64 × breadth\nBreadth = 256 ÷ 64\n= 4 cm"
+              },
+              {
+                "q": "6. The area of a triangle is 72 sq. cm. If its height is 8 cm, find its base.",
+                "a": "Area of triangle = 72 sq. cm\nHeight = 8 cm\nArea of triangle = [[1/2]] × base × height\n72 = [[1/2]] × base × 8\n72 = 4 × base\nBase = 72 ÷ 4\n= 18 cm"
+              },
+              {
+                "q": "7. The area of a triangle is 60 sq. cm. If its base is 12 cm, find its altitude.",
+                "a": "Area of triangle = 60 sq. cm\nBase = 12 cm\nArea of triangle = [[1/2]] × base × altitude\n60 = [[1/2]] × 12 × altitude\n60 = 6 × altitude\nAltitude = 60 ÷ 6\n= 10 cm"
+              },
+              {
+                "q": "8. The sides of a right angled triangle forming the right angle are 12 cm and 9 cm respectively. Find the area of that triangle?",
+                "a": "Base = 12 cm\nAltitude = 9 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 12 × 9\n= [[1/2]] × 108\n= 54 sq. cm"
+              },
+              {
+                "q": "9. In ΔABC, CD is perpendicular to AB such that m AB = 18 cm, length of CD = 7.5 cm.\nFind area of the ΔABC.",
+                "a": "Base AB = 18 cm\nAltitude CD = 7.5 cm\nArea of triangle = [[1/2]] × base × altitude\n= [[1/2]] × 18 × 7.5\n= 9 × 7.5\n= 67.5 sq. cm"
+              },
+              {
+                "q": "10. The parallel sides of a trapezium are 9 cm and 7 cm respectively. Its height is 5 cm. Find its area?",
+                "a": "Parallel sides = 9 cm and 7 cm\nHeight = 5 cm\nArea of trapezium = [[1/2]] × height × (sum of parallel sides)\n= [[1/2]] × 5 × (9 + 7)\n= [[1/2]] × 5 × 16\n= [[1/2]] × 80\n= 40 sq. cm"
+              },
+              {
+                "q": "11. If the parallel sides of a trapezium are 20 cm and 30 cm and its area is 200 sq. cm. Find its height.",
+                "a": "Parallel sides = 20 cm and 30 cm\nArea of trapezium = 200 sq. cm\nArea of trapezium = [[1/2]] × height × (sum of parallel sides)\n200 = [[1/2]] × height × (20 + 30)\n200 = [[1/2]] × height × 50\n200 = 25 × height\nHeight = 200 ÷ 25\n= 8 cm"
+              },
+              {
+                "q": "12. Area of a trapezium is 120 sq. cm. If its height is 8 cm and one of the parallel sides is 20 cm, find the length of the other side.",
+                "a": "x = length of the other parallel side\nArea of trapezium = 120 sq. cm\nHeight = 8 cm\nOne parallel side = 20 cm\nArea of trapezium = [[1/2]] × height × (sum of parallel sides)\n120 = [[1/2]] × 8 × (20 + x)\n120 = 4 × (20 + x)\n120 ÷ 4 = 20 + x\n30 = 20 + x\nx = 30 − 20\nx = 10 cm"
+              },
+              {
+                "q": "13. Find the area of shaded portion in the adjacent figure. The figure shows a trapezium with a white right-angled triangle of base 2 cm and height 4 cm on its left; the top side of the trapezium is 6 cm and its height is 4 cm.",
+                "a": "Top parallel side = 6 cm\nHeight = 4 cm\nBase of white triangle = 2 cm\nLower parallel side = 6 − 2 = 4 cm\nArea of trapezium = [[1/2]] × height × (sum of parallel sides)\n= [[1/2]] × 4 × (6 + 4)\n= [[1/2]] × 4 × 10\n= 2 × 10\n= 20 sq. cm"
+              },
+              {
+                "q": "14. Fill in the blanks.\n(i) Area is commonly measured in ___________.",
+                "a": "Area is commonly measured in sq. units."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(ii) Perimeter is commonly measured in ___________.",
+                "a": "Perimeter is commonly measured in Units."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(iii) Area of a rectangle is the ___________ of the length and breadth.",
+                "a": "Area of a rectangle is the product of the length and breadth."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(iv) Perimeter of a rectangle is the ___________ of its 4 sides.",
+                "a": "Perimeter of a rectangle is the sum of its 4 sides."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(v) Area of a square is the product of ___________ and ___________.",
+                "a": "Area of a square is the product of length and breadth."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(vi) Perimeter of a square = ___________ × ___________.",
+                "a": "Perimeter of a square = 4 × length of side."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(vii) Formula for finding the perimeter of a rectangle is ___________.",
+                "a": "Formula for finding the perimeter of a rectangle is Perimeter = 2 (l + b)."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(viii) Formula for finding area of a parallelogram is ___________.",
+                "a": "Formula for finding area of a parallelogram is Area = Base × height."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(ix) Formula for finding area of a triangle is ___________.",
+                "a": "Formula for finding area of a triangle is Area = [[1/2]] (Base × height)."
+              },
+              {
+                "q": "14. Fill in the blanks.\n(x) Area of a trapezium is ___________.",
+                "a": "Area of a trapezium is Area = [[h/2]] (b_1 + b_2)."
+              }
+            ]
+          }
+        ],
+        "display": "Perimeter and Area"
+      },
+      {
+        "unit": 12,
+        "title": "Three Dimensional Solids",
+        "exercises": [
+          {
+            "label": "Exercise 12.1",
+            "items": [
+              {
+                "q": "1. Identify the objects and write the names of the 3D-figures which represent these objects.\n(i) Football\n(ii) Tin of ghee\n(iii) Birthday cap\n(iv) Dice\n(v) Milk carton\n(vi) Match box",
+                "a": "(i) Sphere\n(ii) Cylinder\n(iii) Cone\n(iv) Cube\n(v) Cuboid\n(vi) Cuboid"
+              },
+              {
+                "q": "2. Fill in the blanks for the following figures.\n(i) Cuboid with vertices A, B, C, D, E, F, G, H\n(a) Number of edges = ______\n(b) Number of faces = ______\n(c) Number of vertices = ______\n(ii) Cone with vertex A and circular base BC\n(a) Point A represents ______\n(b) Number of circular faces ______\n(iii) Cube with vertices A, B, C, D, E, F, G, H\n(a) AB represents ______\n(b) Point A represents ______\n(c) Number of faces ______",
+                "a": "(i) (a) Number of edges = 12\n(b) Number of faces = 6\n(c) Number of vertices = 8\n(ii) (a) Point A represents vertex\n(b) Number of circular faces = 1\n(iii) (a) AB represents edge\n(b) Point A represents vertex\n(c) Number of faces = 6"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 12.2",
+            "items": [
+              {
+                "q": "1. Write the units of surface area and volume of the given figures.\n(i) Cuboid of length 6 cm, breadth 5 cm and height 8 cm\nUnit of surface area = ______\nUnit of volume = ______\n(ii) Cuboid of length 3 mm, breadth 4 mm and height 5 mm\nUnit of surface area = ______\nUnit of volume = ______",
+                "a": "(i) Unit of surface area = sq. cm\nUnit of volume = cubic cm\n(ii) Unit of surface area = sq. mm\nUnit of volume = cubic mm"
+              },
+              {
+                "q": "2. Find the surface area and volume of each of the following.\n(i) Cube of each side 2 cm\n(ii) Cuboid of length 6.5 cm, breadth 2.5 cm and height 3 cm\n(iii) Cube of each side 3.5 cm\n(iv) Cuboid of length 2 cm, breadth 1.5 cm and height 6 cm",
+                "a": "(i) l = 2 cm\nSurface area of cube = 6 l^2\n= 6 x (2)^2\n= 6 x 2 x 2\n= 6 x 4\n= 24 sq. cm\nVolume of cube = l^3\n= (2)^3\n= 2 x 2 x 2\n= 8 cubic cm\n(ii) l = 6.5 cm\nb = 2.5 cm\nh = 3 cm\nSurface area of cuboid = 2 (l x b + b x h + h x l)\n= 2 (6.5 x 2.5 + 2.5 x 3 + 3 x 6.5)\n= 2 (16.25 + 7.5 + 19.5)\n= 2 (43.25)\n= 86.5 sq. cm\nVolume of cuboid = l x b x h\n= 6.5 x 2.5 x 3\n= 16.25 x 3\n= 48.75 cubic cm\n(iii) l = 3.5 cm\nSurface area of cube = 6 l^2\n= 6 x (3.5)^2\n= 6 x 3.5 x 3.5\n= 6 x 12.25\n= 73.5 sq. cm\nVolume of cube = l^3\n= (3.5)^3\n= 3.5 x 3.5 x 3.5\n= 12.25 x 3.5\n= 42.875 cubic cm\n(iv) l = 2 cm\nb = 1.5 cm\nh = 6 cm\nSurface area of cuboid = 2 (l x b + b x h + h x l)\n= 2 (2 x 1.5 + 1.5 x 6 + 6 x 2)\n= 2 (3 + 9 + 12)\n= 2 (24)\n= 48 sq. cm\nVolume of cuboid = l x b x h\n= 2 x 1.5 x 6\n= 3 x 6\n= 18 cubic cm"
+              },
+              {
+                "q": "3. Find the volume of the following cubes whose each side is:\n(i) 5 cm\n(ii) 6.2 cm\n(iii) 2.5 m",
+                "a": "(i) l = 5 cm\nVolume of cube = l^3\n= (5)^3\n= 5 x 5 x 5\n= 125 cubic cm\n(ii) l = 6.2 cm\nVolume of cube = l^3\n= (6.2)^3\n= 6.2 x 6.2 x 6.2\n= 38.44 x 6.2\n= 238.328 cubic cm\n(iii) l = 2.5 m\nVolume of cube = l^3\n= (2.5)^3\n= 2.5 x 2.5 x 2.5\n= 6.25 x 2.5\n= 15.625 cubic m"
+              },
+              {
+                "q": "4. Find the volume of each of the following cuboids in which:\n(i) Length = 9 cm, breadth = 6 cm, height = 4 cm\n(ii) Length = 5 cm, breadth = 3.5 cm, height = 4 cm\n(iii) Length = 3.5 cm, breadth = 2 cm, height = 2.5 cm",
+                "a": "(i) l = 9 cm\nb = 6 cm\nh = 4 cm\nVolume of cuboid = l x b x h\n= 9 x 6 x 4\n= 54 x 4\n= 216 cubic cm\n(ii) l = 5 cm\nb = 3.5 cm\nh = 4 cm\nVolume of cuboid = l x b x h\n= 5 x 3.5 x 4\n= 17.5 x 4\n= 70 cubic cm\n(iii) l = 3.5 cm\nb = 2 cm\nh = 2.5 cm\nVolume of cuboid = l x b x h\n= 3.5 x 2 x 2.5\n= 7 x 2.5\n= 17.5 cubic cm"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 12.3",
+            "items": [
+              {
+                "q": "1. Find the cost of polishing cupboard with dimension 3 m, 2 m and 1 m at the rate of Rs 500 per sq. m.",
+                "a": "l = 3 m\nb = 2 m\nh = 1 m\nSurface area of cuboid = 2 (l x b + b x h + h x l)\n= 2 (3 x 2 + 2 x 1 + 1 x 3)\n= 2 (6 + 2 + 3)\n= 2 (11)\n= 22 sq. m\nTotal cost = Surface area x Rate\n= 22 x 500\n= 11000 rupees"
+              },
+              {
+                "q": "2. A tank is 5 m long, 4 m wide and 2.5 m high. Find the capacity of the tank?",
+                "a": "l = 5 m\nb = 4 m\nh = 2.5 m\nVolume of cuboid = l x b x h\n= 5 x 4 x 2.5\n= 20 x 2.5\n= 50 cubic m\nCapacity of the tank = 50 cubic m"
+              },
+              {
+                "q": "3. The dimensions of a brick are 25 cm x 10 cm x 4.5 cm. How much space will be occupied by 1000 such bricks?",
+                "a": "l = 25 cm\nb = 10 cm\nh = 4.5 cm\nVolume of one brick = l x b x h\n= 25 x 10 x 4.5\n= 250 x 4.5\n= 1125 cubic cm\nVolume of 1000 bricks = 1125 x 1000\n= 1125000 cubic cm"
+              },
+              {
+                "q": "4. Find the cost of painting a wooden cubic box with an edge of 2.5 m long at the rate of Rs 50 per sq. m.",
+                "a": "l = 2.5 m\nSurface area of cube = 6 l^2\n= 6 x (2.5)^2\n= 6 x 2.5 x 2.5\n= 6 x 6.25\n= 37.5 sq. m\nTotal cost = Surface area x Rate\n= 37.5 x 50\n= 1875 rupees"
+              },
+              {
+                "q": "5. Find the capacity of cubical oil tank with each side 5 m long.",
+                "a": "l = 5 m\nVolume of cube = l^3\n= (5)^3\n= 5 x 5 x 5\n= 125 cubic m\nCapacity of the tank = 125 cubic m"
+              },
+              {
+                "q": "6. How many boxes of dimensions 15 cm x 10 cm x 5 cm are required to fill a box of dimensions 30 cm x 20 cm x 10 cm.",
+                "a": "Volume of small box = 15 x 10 x 5\n= 150 x 5\n= 750 cubic cm\nVolume of big box = 30 x 20 x 10\n= 600 x 10\n= 6000 cubic cm\nNumber of boxes = 6000 ÷ 750\n= 8"
+              },
+              {
+                "q": "7. If the cost of cake of dimensions 10 cm x 5 cm x 5 cm is Rs 100. What is the cost of the cake with dimensions 20 cm x 15 cm x 15 cm",
+                "a": "Volume of cake = 10 x 5 x 5\n= 50 x 5\n= 250 cubic cm\nCost of 250 cubic cm cake = Rs 100\nCost of 1 cubic cm cake = 100 ÷ 250\n= 0.4 rupees\nVolume of cake = 20 x 15 x 15\n= 300 x 15\n= 4500 cubic cm\nCost of 4500 cubic cm cake = 4500 x 0.4\n= 1800 rupees"
+              },
+              {
+                "q": "8. Find the capacity of milk tank of dimensions 3.5 m x 3.4 m x 5.5 m",
+                "a": "l = 3.5 m\nb = 3.4 m\nh = 5.5 m\nVolume of cuboid = l x b x h\n= 3.5 x 3.4 x 5.5\n= 11.9 x 5.5\n= 65.45 cubic m\nCapacity of milk tank = 65.45 cubic m"
+              },
+              {
+                "q": "9. The dimensions of a tea box are [[20/3]] cm x [[21/4]] cm x [[11/2]] cm. How much space will be occupied by 100 such boxes.",
+                "a": "Volume of one tea box = [[20/3]] x [[21/4]] x [[11/2]] cubic cm\n20 x 21 x 11 = 4620\n3 x 4 x 2 = 24\n= [[4620/24]] cubic cm\n= 192.5 cubic cm\nVolume of 100 boxes = 192.5 x 100\n= 19250 cubic cm"
+              },
+              {
+                "q": "10. Find the cost of painting steel cube of each side 5.2 m long at the rate of Rs 15.5 per square metre.",
+                "a": "l = 5.2 m\nSurface area of cube = 6 l^2\n= 6 x (5.2)^2\n= 6 x 5.2 x 5.2\n= 6 x 27.04\n= 162.24 sq. m\nTotal cost = Surface area x Rate\n= 162.24 x 15.5\n= 162.24 x 15 + 162.24 x 0.5\n= 2433.6 + 81.12\n= 2514.72 rupees"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "1. Fill in the blanks.\n(i) Cube has ______ vertices.\n(ii) Cone has ______ circular face.\n(iii) Cuboid has ______ faces.\n(iv) Cylinder has ______ circular faces.\n(v) Cube has ______ edges.",
+                "a": "(i) Cube has 8 vertices.\n(ii) Cone has 1 circular face.\n(iii) Cuboid has 6 faces.\n(iv) Cylinder has 2 circular faces.\n(v) Cube has 12 edges."
+              },
+              {
+                "q": "2. Give three examples of 3D figures from daily life.",
+                "a": "Tennis ball\nGeometry box\nBrick"
+              },
+              {
+                "q": "3. Find the surface area and volume of the following:\n(i) Cuboid of length 2.5 cm, breadth 2.5 cm and height 2.5 cm\n(ii) Cuboid of length 3.5 cm, breadth 2 cm and height 1.5 cm",
+                "a": "(i) l = 2.5 cm\nb = 2.5 cm\nh = 2.5 cm\nSurface area of cube = 6 l^2\n= 6 x (2.5)^2\n= 6 x 2.5 x 2.5\n= 6 x 6.25\n= 37.5 sq. cm\nVolume of cube = l^3\n= (2.5)^3\n= 2.5 x 2.5 x 2.5\n= 6.25 x 2.5\n= 15.625 cubic cm\n(ii) l = 3.5 cm\nb = 2 cm\nh = 1.5 cm\nSurface area of cuboid = 2 (l x b + b x h + h x l)\n= 2 (3.5 x 2 + 2 x 1.5 + 1.5 x 3.5)\n= 2 (7 + 3 + 5.25)\n= 2 (15.25)\n= 30.5 sq. cm\nVolume of cuboid = l x b x h\n= 3.5 x 2 x 1.5\n= 7 x 1.5\n= 10.5 cubic cm"
+              },
+              {
+                "q": "4. Find the volume and surface area of a cube whose each side is 1.5 cm long.",
+                "a": "l = 1.5 cm\nSurface area of cube = 6 l^2\n= 6 x (1.5)^2\n= 6 x 1.5 x 1.5\n= 6 x 2.25\n= 13.5 sq. cm\nVolume of cube = l^3\n= (1.5)^3\n= 1.5 x 1.5 x 1.5\n= 2.25 x 1.5\n= 3.375 cubic cm"
+              },
+              {
+                "q": "5. Find the cost of painting an iron cuboid with dimensions 5 m, 6 m and 7 m at the rate of Rs 100 per sq. m",
+                "a": "l = 5 m\nb = 6 m\nh = 7 m\nSurface area of cuboid = 2 (l x b + b x h + h x l)\n= 2 (5 x 6 + 6 x 7 + 7 x 5)\n= 2 (30 + 42 + 35)\n= 2 (107)\n= 214 sq. m\nTotal cost = Surface area x Rate\n= 214 x 100\n= 21400 rupees"
+              },
+              {
+                "q": "6. How much milk can be filled in a tank with dimension of 6.5 m 2.7 m and 10 m.",
+                "a": "l = 6.5 m\nb = 2.7 m\nh = 10 m\nVolume of cuboid = l x b x h\n= 6.5 x 2.7 x 10\n= 17.55 x 10\n= 175.5 cubic m"
+              }
+            ]
+          }
+        ],
+        "display": "Three Dimensional Solids"
+      },
+      {
+        "unit": 13,
+        "title": "Information Handling",
+        "exercises": [
+          {
+            "label": "Exercise 13.1",
+            "items": [
+              {
+                "q": "Define data.",
+                "a": "Data is a set of information and facts which is collected in the form of figures by observation and measurement."
+              },
+              {
+                "q": "What is difference between grouped and ungrouped data?",
+                "a": "Ungrouped data: Data which shows the individual information is known ungrouped data.\nGrouped data: If we arrange or classify the data in groups, it is called grouped data."
+              },
+              {
+                "q": "Which table is showing a grouped data?\n(i) Total marks secured by 12 students in an examination.\nNames of Student: Ali, Sana, Sara, Adil, Amir, Asma, Huma, Arif, Babar, Anis, Anil, Umar\nMarks: 581, 786, 678, 725, 788, 580, 690, 780, 599, 509, 619, 560",
+                "a": "Ungrouped data\nMarks of each student are shown separately"
+              },
+              {
+                "q": "Which table is showing a grouped data?\n(ii) Raza Book Store's sale in a month is shown by the table:\nNumber of books sold | Days\n512 – 611 | 8\n612 – 711 | 5\n712 – 811 | 4\n812 – 911 | 9",
+                "a": "Grouped data\nBooks sold are arranged in groups"
+              },
+              {
+                "q": "Which table is showing a grouped data?\n(iii) Visitors in Sindh Museum.\nNumber of visitors | Days\n150 – 199 | 3\n200 – 249 | 4\n250 – 299 | 1\n300 – 349 | 2\n350 – 399 | 3\n400 – 499 | 2",
+                "a": "Grouped data\nVisitors are arranged in groups"
+              },
+              {
+                "q": "Which table is showing a grouped data?\n(iv) Runs scored by players of our school cricket team in one day match.\nPlayer: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11\nRuns: 62, 41, 15, 59, 22, 10, 8, 2, 43, 7, 21",
+                "a": "Ungrouped data\nRuns of each player are shown separately"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 13.2",
+            "items": [
+              {
+                "q": "Draw a vertical bar graph to represent the information given below:\nMonthly Sale of Fans in a Shop\nName of Months | January | February | March | April | May | June\nNo. of Fans | 70 | 50 | 35 | 60 | 90 | 95",
+                "a": "Title: Monthly Sale of Fans in a Shop\nX-axis: Name of Months\nY-axis: No. of Fans\nScale: 1 small square = 5 fans\nJanuary = 70 fans (14 small squares)\nFebruary = 50 fans (10 small squares)\nMarch = 35 fans (7 small squares)\nApril = 60 fans (12 small squares)\nMay = 90 fans (18 small squares)\nJune = 95 fans (19 small squares)"
+              },
+              {
+                "q": "Represent the following information in a vertical bar graph.\nMonthly Expenses of a Akbar's Family\nItems | Food | Education | Rent | Telephone | Electricity | Gas\nExpenses (in rupees) | 6000 | 5000 | 4500 | 1500 | 2000 | 300",
+                "a": "Title: Monthly Expenses of a Akbar's Family\nX-axis: Items\nY-axis: Expenses (in rupees)\nScale: 1 small square = Rs 100\nFood = Rs 6000 (60 small squares)\nEducation = Rs 5000 (50 small squares)\nRent = Rs 4500 (45 small squares)\nTelephone = Rs 1500 (15 small squares)\nElectricity = Rs 2000 (20 small squares)\nGas = Rs 300 (3 small squares)"
+              },
+              {
+                "q": "Represent the following information in a horizontal bar graph.\nSale of Variety Show Ticket\nName of cities | Hyderabad | Sukkur | Larkana | Dadu\nNumber of Tickets sold | 10,000 | 6,000 | 3,000 | 9,000",
+                "a": "Title: Sale of Variety Show Ticket\nX-axis: Number of Tickets sold\nY-axis: Name of cities\nScale: 1 small square = 500 tickets\nHyderabad = 10,000 tickets (20 small squares)\nSukkur = 6,000 tickets (12 small squares)\nLarkana = 3,000 tickets (6 small squares)\nDadu = 9,000 tickets (18 small squares)"
+              },
+              {
+                "q": "Draw a horizontal bar graph showing the marks obtained by Amjad during annual examination.\nSubject | Islamiat | English | Urdu | Maths | S.Studies | Science | Sindhi\nMarks Obtained | 70 | 60 | 65 | 90 | 45 | 55 | 80",
+                "a": "Title: Marks obtained by Amjad during annual examination\nX-axis: Marks Obtained\nY-axis: Subject\nScale: 1 small square = 5 marks\nIslamiat = 70 marks (14 small squares)\nEnglish = 60 marks (12 small squares)\nUrdu = 65 marks (13 small squares)\nMaths = 90 marks (18 small squares)\nS.Studies = 45 marks (9 small squares)\nScience = 55 marks (11 small squares)\nSindhi = 80 marks (16 small squares)"
+              },
+              {
+                "q": "Following pie graph is representing the games played by the students of class VI.\nStudy the pie graph and answer the following questions.\nPie graph: Cricket sector is the largest, Hockey sector is the second largest, Football sector is the third largest, Tennis sector is the smallest.\n(i) Which game is played less?",
+                "a": "Tennis\nTennis sector is the smallest"
+              },
+              {
+                "q": "Following pie graph is representing the games played by the students of class VI.\nStudy the pie graph and answer the following questions.\nPie graph: Cricket sector is the largest, Hockey sector is the second largest, Football sector is the third largest, Tennis sector is the smallest.\n(ii) Which game is played most?",
+                "a": "Cricket\nCricket sector is the largest"
+              },
+              {
+                "q": "Following pie graph is representing the games played by the students of class VI.\nStudy the pie graph and answer the following questions.\nPie graph: Cricket sector is the largest, Hockey sector is the second largest, Football sector is the third largest, Tennis sector is the smallest.\n(iii) Which games are played equally?",
+                "a": "Cricket sector is the largest\nHockey sector is the second largest\nFootball sector is the third largest\nTennis sector is the smallest\nNo two games are played equally"
+              },
+              {
+                "q": "The marks obtained in different subjects by Aftab are shown by the following pie graph.\nStudy the pie graph and answer the following questions.\nPie graph: Science sector is the largest, Maths sector is the second largest, Islamiat sector is the third largest, English sector is the smallest.\n(i) In which subject, Aftab secured highest marks?",
+                "a": "Science\nScience sector is the largest"
+              },
+              {
+                "q": "The marks obtained in different subjects by Aftab are shown by the following pie graph.\nStudy the pie graph and answer the following questions.\nPie graph: Science sector is the largest, Maths sector is the second largest, Islamiat sector is the third largest, English sector is the smallest.\n(ii) In which subject, Aftab secured lowest marks?",
+                "a": "English\nEnglish sector is the smallest"
+              },
+              {
+                "q": "The marks obtained in different subjects by Aftab are shown by the following pie graph.\nStudy the pie graph and answer the following questions.\nPie graph: Science sector is the largest, Maths sector is the second largest, Islamiat sector is the third largest, English sector is the smallest.\n(iii) In which subject, Aftab secured more marks in science or maths?",
+                "a": "Science\nScience sector is larger than the Maths sector"
+              },
+              {
+                "q": "The following pie graph shows the attendance of the students of different classes of a school on Saturday.\nStudy the pie graph and answer the following questions.\nPie graph: Class II sector is the largest, Class III sector is the second largest, Class IV sector is the third largest, Class V sector is the fourth largest, Class I sector is the smallest.\n(i) In which class, attendance was the highest?",
+                "a": "Class II\nClass II sector is the largest"
+              },
+              {
+                "q": "The following pie graph shows the attendance of the students of different classes of a school on Saturday.\nStudy the pie graph and answer the following questions.\nPie graph: Class II sector is the largest, Class III sector is the second largest, Class IV sector is the third largest, Class V sector is the fourth largest, Class I sector is the smallest.\n(ii) In which class, attendance was the lowest?",
+                "a": "Class I\nClass I sector is the smallest"
+              },
+              {
+                "q": "The following pie graph shows the attendance of the students of different classes of a school on Saturday.\nStudy the pie graph and answer the following questions.\nPie graph: Class II sector is the largest, Class III sector is the second largest, Class IV sector is the third largest, Class V sector is the fourth largest, Class I sector is the smallest.\n(iii) Which classes have same number of students?",
+                "a": "Class II sector is the largest\nClass III sector is the second largest\nClass IV sector is the third largest\nClass V sector is the fourth largest\nClass I sector is the smallest\nNo two classes have the same number of students"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "The marks obtained by Saira are shown by a vertical bar graph. Answer the given questions by reading the bar graph.\nGraph represents marks obtained by Saira in different subject.\nBar graph: Sindhi = 50, Urdu = 50, English = 60, Science = 70, Social Studies = 40, Islamiat = 78, Maths = 79\n(i) In which subject Saira obtained highest marks and how many?",
+                "a": "Maths, 79 marks"
+              },
+              {
+                "q": "The marks obtained by Saira are shown by a vertical bar graph. Answer the given questions by reading the bar graph.\nGraph represents marks obtained by Saira in different subject.\nBar graph: Sindhi = 50, Urdu = 50, English = 60, Science = 70, Social Studies = 40, Islamiat = 78, Maths = 79\n(ii) In which subject Saira obtained lowest marks and how many?",
+                "a": "Social Studies, 40 marks"
+              },
+              {
+                "q": "The marks obtained by Saira are shown by a vertical bar graph. Answer the given questions by reading the bar graph.\nGraph represents marks obtained by Saira in different subject.\nBar graph: Sindhi = 50, Urdu = 50, English = 60, Science = 70, Social Studies = 40, Islamiat = 78, Maths = 79\n(iii) In which subjects Saira obtained equal marks and how many?",
+                "a": "Urdu and Sindhi, 50 marks each"
+              },
+              {
+                "q": "The marks obtained by Saira are shown by a vertical bar graph. Answer the given questions by reading the bar graph.\nGraph represents marks obtained by Saira in different subject.\nBar graph: Sindhi = 50, Urdu = 50, English = 60, Science = 70, Social Studies = 40, Islamiat = 78, Maths = 79\n(iv) Prepare a chart which represents the marks in each subject.",
+                "a": "Subject: Sindhi, Urdu, English, Science, Social Studies, Islamiat, Maths\nMarks: 50, 50, 60, 70, 40, 78, 79"
+              },
+              {
+                "q": "Are the following statements true or false?\n(i) The reading of numerical data in pictograph is easy.",
+                "a": "True"
+              },
+              {
+                "q": "Are the following statements true or false?\n(ii) In bar graphs numerical data is represented by the rectangular boxes of uniform width.",
+                "a": "True"
+              },
+              {
+                "q": "Are the following statements true or false?\n(iii) To arrange the data in some order is called ungrouped data.",
+                "a": "False"
+              },
+              {
+                "q": "Are the following statements true or false?\n(iv) A rectangular diagram is called pie chart.",
+                "a": "False"
+              },
+              {
+                "q": "Fill in the blanks.\n(i) To represent numerical data pictorially is called ___ graph.",
+                "a": "Pictograph"
+              },
+              {
+                "q": "Fill in the blanks.\n(ii) Representation through ___ graphs is easier and better than the pictograph.",
+                "a": "Bar"
+              },
+              {
+                "q": "Fill in the blanks.\n(iii) In bar graphs, bars can be drawn either horizontally or ___.",
+                "a": "Vertically"
+              },
+              {
+                "q": "Fill in the blanks.\n(iv) ___ is defined as a set of facts.",
+                "a": "Data"
+              },
+              {
+                "q": "Fill in the blanks.\n(v) Numerical facts which are obtained from field is known as ___.",
+                "a": "Data"
+              }
+            ]
+          }
+        ],
+        "display": "Information Handling"
+      }
+    ]
   }
 };
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
@@ -39393,6 +42545,7 @@ function renderSubjectMaterial(cls, subj){
   else if(cls === "ix") data = STUDY.ix;
   else if(cls === "viii") data = STUDY.viii;
   else if(cls === "vii") data = STUDY.vii;
+  else if(cls === "vi") data = STUDY.vi;
   matData = data;
   matSubj = subj;
   matCls = cls;
@@ -39409,7 +42562,7 @@ function renderSubjectMaterial(cls, subj){
     return;
   }
   matTabs = [["definitions", "Definitions"], ["notes", "Notes"]];
-  if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
+  if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
   matTabs.forEach(function(t){
     html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
   });
@@ -39431,6 +42584,7 @@ function openMatPage(tab, cls, subj){
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
   else if(c === "vii") data = STUDY.vii;
+  else if(c === "vi") data = STUDY.vi;
   if(data) matData = data;
   matExUnit = 0;
   matMathUnit = 0;
@@ -39468,6 +42622,7 @@ function openExUnit(n, cls, subj){
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
   else if(c === "vii") data = STUDY.vii;
+  else if(c === "vi") data = STUDY.vi;
   if(data) matData = data;
   matExUnit = n;
   var h = exUnitHtml(n);
@@ -39549,6 +42704,7 @@ function openMathUnit(n, cls, subj){
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
   else if(c === "vii") data = STUDY.vii;
+  else if(c === "vi") data = STUDY.vi;
   if(data) matData = data;
   matMathUnit = n;
   var h = mathUnitHtml(n);
