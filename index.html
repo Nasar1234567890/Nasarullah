@@ -115,6 +115,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 .exa{color:#1e40af;font-weight:700}
 .exword{color:#14532d;font-weight:700}
 .exsyn{color:#1e40af}
+.exans{white-space:pre-line}
 body.dark .exsec{background:#14532d;color:#fff}
 body.dark .exhead{background:#1e3a8a;color:#dbeafe}
 body.dark .exq{color:#4ade80}
@@ -37969,7 +37970,7 @@ function navShow(state){
     else if(state.view==='timetable'){ showTimetable(); }
     else if(state.view==='myresults'){ showMyResults(); }
     else if(state.view==='install'){ showInstall(); }
-    else if(state.view==='material'){ if(state.cls && state.subj && state.tab){ if(state.unit) openExUnit(state.unit, state.cls, state.subj); else openMatPage(state.tab, state.cls, state.subj); } else navFallback(); }
+    else if(state.view==='material'){ if(state.cls && state.subj && state.tab){ if(state.unit){ if(state.math) openMathUnit(state.unit, state.cls, state.subj); else openExUnit(state.unit, state.cls, state.subj); } else openMatPage(state.tab, state.cls, state.subj); } else navFallback(); }
     else { goHome(); }
   }catch(e){}
   navFromPop=false;
