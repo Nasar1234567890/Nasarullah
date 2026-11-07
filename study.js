@@ -960,7 +960,8 @@ var STUDY = {
                 "q": "Exercise 8: Work in groups of five. Prepare a list of five things that a head of state should do and five things that he/she should not do."
               }
             ],
-            "name": "Reading Comprehension"
+            "name": "Reading Comprehension",
+            "num": "1.1"
           },
           {
             "items": [
@@ -1009,7 +1010,8 @@ var STUDY = {
                 "q": "Exercise 3: Prepare a brief dialogue (two to three dialogues per person) on the topic: All students should study up to the Masters' level."
               }
             ],
-            "name": "Oral Communication"
+            "name": "Oral Communication",
+            "num": "1.2"
           },
           {
             "items": [
@@ -1226,7 +1228,8 @@ var STUDY = {
                 "q": "Exercise 7 (6): Add a prefix and a suffix to the root word 'respect' and write a sentence using each word."
               }
             ],
-            "name": "Language Practice"
+            "name": "Language Practice",
+            "num": "1.3"
           },
           {
             "items": [
@@ -1247,7 +1250,8 @@ var STUDY = {
                 "q": "Exercise 4: Select one of the topics (Pollution, Natural Disasters or Sports), select one of the key areas you discussed and write a paragraph on it."
               }
             ],
-            "name": "Writing"
+            "name": "Writing",
+            "num": "1.4"
           },
           {
             "items": [
@@ -1260,7 +1264,8 @@ var STUDY = {
                 "q": "Exercise 2: Write five problems that students have and three Wh-questions about each problem."
               }
             ],
-            "name": "Study Skills"
+            "name": "Study Skills",
+            "num": "1.5"
           },
           {
             "items": [
@@ -1309,7 +1314,8 @@ var STUDY = {
                 "q": "Fun - Completing a story: Complete the ghost story from Unit 1.3, Exercise 4, using the guiding questions."
               }
             ],
-            "name": "Fun"
+            "name": "Fun",
+            "num": "1.6"
           }
         ],
         "title": "Contributions of Notable Leaders",
@@ -1668,7 +1674,8 @@ var STUDY = {
                 "q": "Exercise 7 (IV): How should students be engaged in chores at school?"
               }
             ],
-            "name": "Reading Comprehension"
+            "name": "Reading Comprehension",
+            "num": "2.1"
           },
           {
             "items": [
@@ -1689,7 +1696,8 @@ var STUDY = {
                 "q": "Exercise 2: In groups of four, write down three problems that many young people face and discuss what advice can be given for each problem. Then prepare a role play with one student as the councillor and three as ordinary citizens."
               }
             ],
-            "name": "Oral Communication"
+            "name": "Oral Communication",
+            "num": "2.2"
           },
           {
             "items": [
@@ -1902,7 +1910,8 @@ var STUDY = {
                 "q": "Exercise 12: Make five compound sentences, using the linking words given earlier in FANBOYS."
               }
             ],
-            "name": "Language Practice"
+            "name": "Language Practice",
+            "num": "2.3"
           },
           {
             "items": [
@@ -1919,7 +1928,8 @@ var STUDY = {
                 "q": "Exercise 3: Work in groups of four to plan and organise a cleanliness drive in your school as part of social service week. Write an email to your principal requesting for permission to conduct this event."
               }
             ],
-            "name": "Writing"
+            "name": "Writing",
+            "num": "2.4"
           },
           {
             "items": [
@@ -1932,7 +1942,8 @@ var STUDY = {
                 "q": "Exercise 2: Work individually and fill in the Admission Form given in the book (First Name, Last Name, D/o or S/o, Date of Birth, Age, Religion, Male/Female, Address, Course). Follow the guidelines given in Exercise 1."
               }
             ],
-            "name": "Study Skills"
+            "name": "Study Skills",
+            "num": "2.5"
           },
           {
             "items": [
@@ -1957,7 +1968,8 @@ var STUDY = {
                 "q": "Fun - Word Game (05): Make a list of as many words as you can from the word 'Destabilising'."
               }
             ],
-            "name": "Fun"
+            "name": "Fun",
+            "num": "2.6"
           }
         ],
         "title": "Labour and People's Rights",
@@ -2310,7 +2322,8 @@ var STUDY = {
                 "q": "Exercise 7: Work in groups of five and prepare a brief role-play on any story with a moral. (Model role-play on King Bruce and the Spider.)",
                 "a": "Title: King Bruce and the Spider. Characters: Narrator, King Bruce, Soldier. Narrator: King Bruce of Scotland was very sad. He had tried many times to free his country, but he had failed every time. One day he sat alone in a cave and decided to give up. King Bruce: I have tried and tried, but I cannot succeed. I will give it all up. Soldier: My King, look! A spider is trying to climb up to its web. Narrator: The spider climbed up, but it slipped and fell down. It tried again and again. It failed nine times, but it did not give up. At last, it reached its home. King Bruce: Bravo! The spider has conquered! If a little spider can succeed by trying again, why should not I? I will try once more! Narrator: And King Bruce tried once more, and this time he did not fail. The moral is: never give up; try, try, try again."
               }
-            ]
+            ],
+            "num": "3.1"
           },
           {
             "name": "Oral Communication",
@@ -2339,7 +2352,8 @@ var STUDY = {
                 "q": "Exercise 2: Develop your own table of needs and reasons, and engage in a dialogue like the one in Exercise 1. (Model table and dialogue.)",
                 "a": "Model table — My needs: 1. buy new books (reason: need them for my studies), 2. learn English (reason: want to get a good job). My partner's needs: 1. join a cricket club (reason: want to play for my school team), 2. save money (reason: want to buy a mobile phone). Model dialogue — Student 1: I need to buy new books. Student 2: Why do you need to buy new books? Student 1: Because I need them for my studies. Student 2: I want to learn English. Student 1: Why do you want to learn English? Student 2: Because I want to get a good job."
               }
-            ]
+            ],
+            "num": "3.2"
           },
           {
             "name": "Language Practice",
@@ -2524,7 +2538,8 @@ var STUDY = {
                 "q": "Exercise 9 (Articles a/an/the): Fill the blanks in the passage about the Khyber Pass with a/an/the where necessary. Put a cross (X) where no article is required. (Full completed passage.)",
                 "a": "Who has not heard of the famous Khyber Pass in X Pakistan? It is a narrow mountain valley in the Khyber Pakhtunkhwa province. We can go to the Khyber Pass from X Peshawar. Many people who want to go to X Afghanistan cross the border from the Khyber Pass. The Khyber Pass has been famous in X history for thousands of years. The Aryans crossed it to reach the sub-continent about four thousand years ago. After them came the Mongols and the Tartars. Moreover, the Khyber Pass is an ancient trade route. It is a route that has been used extensively by X caravans carrying X bales of cotton and silk. Occasionally a caravan would also carry a ton or two of spices. Although it is an old route, the trade is still carried out through this route but now X buses, trucks, and trains carry the goods from one country to another."
               }
-            ]
+            ],
+            "num": "3.3"
           },
           {
             "name": "Writing",
@@ -2537,7 +2552,8 @@ var STUDY = {
                 "q": "Exercise 2: Write a summary of the poem 'The Man Who Wins'. (Model summary.)",
                 "a": "The poem 'The Man Who Wins' is written by an anonymous poet. It explains that success depends on our thoughts and our will. In the first stanza, the poet says that if you think you are beaten, you are. If you think you dare not, you don't. If you like to win but think you can't, it is almost certain you won't. In the second stanza, the poet says that if you think you'll lose, you're lost, for success begins with a fellow's will. It's all in the state of mind. In the third stanza, the poet says that if you think you are outclassed, you are. You've got to think high to rise. You have to be sure of yourself before you can ever win a prize. In the last stanza, the poet says that life's battles don't always go to the stronger or faster man, but sooner or later the man who wins is the man who thinks he can. In all, the poem teaches us that self-confidence and a positive attitude are the keys to success. The man who thinks he can, wins."
               }
-            ]
+            ],
+            "num": "3.4"
           },
           {
             "name": "Study Skills",
@@ -2550,7 +2566,8 @@ var STUDY = {
                 "q": "Exercise 2: Do free writing for seven minutes on the topic: Sports. (Model free writing.)",
                 "a": "Sports are very important for our health. I like cricket the most. I play cricket with my friends every evening in the ground near my house. Cricket makes me active and strong. It also teaches me teamwork and discipline. I also like to watch cricket matches on television. My favourite player is Babar Azam. I think every student should play some game daily to stay healthy and fresh."
               }
-            ]
+            ],
+            "num": "3.5"
           },
           {
             "name": "Fun",
@@ -2619,7 +2636,8 @@ var STUDY = {
                 "q": "Cool Collocations: 16. You can ask: a favour, an answer, the way, a question.",
                 "a": "Odd one out: an answer. (You can ask a favour, ask the way and ask a question, but you give an answer, you do not ask for it.)"
               }
-            ]
+            ],
+            "num": "3.6"
           }
         ],
         "words": [
@@ -3049,7 +3067,8 @@ var STUDY = {
                 "q": "Exercise 8.2: What are the benefits you have gained from the social media? (Model response.)",
                 "a": "I have gained many benefits from social media. I learn new things from educational videos. I can search for information for my homework. I can talk to my cousins in other cities. I can read news and learn about the world. Chart points for 'Benefits of the Social Media': learning from educational videos; information for homework; talking to relatives in other cities; reading news; learning about the world."
               }
-            ]
+            ],
+            "num": "4.1"
           },
           {
             "name": "Oral Communication",
@@ -3074,7 +3093,8 @@ var STUDY = {
                 "q": "Exercise 2: Select a topic of your choice and prepare a presentation. (Model presentation on 'My Aim in Life'.)",
                 "a": "Good morning, everyone. My name is Ahmed, and I am a student of class ten. Today, I would like to talk about my aim in life. The focus of my presentation is why I want to become a teacher. First of all, a teacher is the builder of the nation. Secondly, my own teacher has inspired me; he is kind and hardworking. Thirdly, I love to help other students in their studies. To achieve my aim, I will work hard in my studies. I will get good marks and join a teacher training college. In conclusion, becoming a teacher is my dream, and I will work hard to make it come true. Thank you."
               }
-            ]
+            ],
+            "num": "4.2"
           },
           {
             "name": "Language Practice",
@@ -3355,7 +3375,8 @@ var STUDY = {
                 "q": "Exercise 7: Change the voice in the following passage (b). Our school is organising a contest. (Full passage changed to passive voice.)",
                 "a": "Our school is organising a contest. The event will be organised by the student council members. The administrative and financial support will be provided by the school management. A role will also be played by parents in the activity. Different projects about the environment will be prepared by students. They will also be required to write articles related to the environment. The students will be guided by the teachers in developing the projects. The work of the students will be judged by a team of experts. Two projects and two articles will be selected by them for award of prizes. A set of encyclopaedias and some books have been given by famous publishers to be given as prizes."
               }
-            ]
+            ],
+            "num": "4.3"
           },
           {
             "name": "Writing",
@@ -3424,7 +3445,8 @@ var STUDY = {
                 "q": "Exercise 4: Write a cause and effect essay on 'Migration of people from rural to urban areas'. (Model essay, four paragraphs.)",
                 "a": "Every year, thousands of people leave their villages and move to big cities. This migration from rural to urban areas is increasing day by day. The main cause of this migration is the lack of jobs and facilities in villages. There are no good schools, hospitals or factories in rural areas. People move to cities for better education, health and jobs. As a result, cities have become overcrowded. There is a shortage of houses, water and transport in cities. On the other hand, villages lose their young and able people and remain backward. To solve this problem, the government should provide jobs and facilities in villages. Small industries should be set up in rural areas and villages should have good schools and hospitals. In conclusion, if villages are developed, people will not need to leave them."
               }
-            ]
+            ],
+            "num": "4.4"
           },
           {
             "name": "Study Skills",
@@ -3461,7 +3483,8 @@ var STUDY = {
                 "q": "Exercise 2: Problem 3: Unemployment.",
                 "a": "Why it exists: Growing population; lack of industries; lack of technical training. Solution: Set up new industries, give technical training to young people, and support small businesses with loans."
               }
-            ]
+            ],
+            "num": "4.5"
           },
           {
             "name": "Fun",
@@ -3470,7 +3493,8 @@ var STUDY = {
                 "q": "Me After 10 years: Choose an uncommon profession from the bubbles, and state what you will become, what you will have to do to become that, why you want to become that, and how it will help you in your future life. (Model answer — Marine Biologist.)",
                 "a": "In ten years' time, I see myself becoming a marine biologist. To become a marine biologist, I will have to study biology and get a degree in marine science. I want to become a marine biologist because I love the sea and sea animals. I want to study the life of fish, whales and other sea creatures. This will help me in my future life because I will have an interesting job, I will be able to protect sea life, and I will serve my country by working for the protection of the sea."
               }
-            ]
+            ],
+            "num": "4.6"
           }
         ],
         "words": [
@@ -3775,7 +3799,8 @@ var STUDY = {
                 "q": "Exercise 7. Think of a good dream and develop a short roleplay (group of five)."
               }
             ],
-            "name": "Reading Comprehension"
+            "name": "Reading Comprehension",
+            "num": "5.1"
           },
           {
             "items": [
@@ -3788,7 +3813,8 @@ var STUDY = {
                 "q": "Exercise 2. Evaluate the presentations of your colleagues using the rubric."
               }
             ],
-            "name": "Oral Communication"
+            "name": "Oral Communication",
+            "num": "5.2"
           },
           {
             "items": [
@@ -4073,7 +4099,8 @@ var STUDY = {
                 "q": "Exercise 6 (j). Write a request or advice: You're studying for an exam, but your brother listens to loud music."
               }
             ],
-            "name": "Language Practice"
+            "name": "Language Practice",
+            "num": "5.3"
           },
           {
             "items": [
@@ -4090,7 +4117,8 @@ var STUDY = {
                 "q": "Exercise 2 (b). Write a letter to the Editor on: Unannounced Load-Shedding."
               }
             ],
-            "name": "Writing"
+            "name": "Writing",
+            "num": "5.4"
           },
           {
             "items": [
@@ -4107,7 +4135,8 @@ var STUDY = {
                 "q": "Exercise 3. Develop your normal, daily working day schedule (complete the table)."
               }
             ],
-            "name": "Study Skills"
+            "name": "Study Skills",
+            "num": "5.5"
           },
           {
             "items": [
@@ -4116,7 +4145,8 @@ var STUDY = {
                 "q": "Game (Name, place, animal, thing). Give example rows for the game."
               }
             ],
-            "name": "Fun"
+            "name": "Fun",
+            "num": "5.6"
           }
         ],
         "title": "Respecting Self and Others",
@@ -4386,7 +4416,8 @@ var STUDY = {
                 "q": "Exercise 8. State one thing you will do to give happiness and one thing you will do to avoid hurting people."
               }
             ],
-            "name": "Reading Comprehension"
+            "name": "Reading Comprehension",
+            "num": "6.1"
           },
           {
             "items": [
@@ -4399,7 +4430,8 @@ var STUDY = {
                 "q": "Exercise 2. Prepare a three-minute speech about the importance of a clean environment."
               }
             ],
-            "name": "Oral Communication"
+            "name": "Oral Communication",
+            "num": "6.2"
           },
           {
             "items": [
@@ -4556,7 +4588,8 @@ var STUDY = {
                 "q": "Exercise 8. Rewrite the passage (Nadeem and his boss) in the form of reported speech."
               }
             ],
-            "name": "Language Practice"
+            "name": "Language Practice",
+            "num": "6.3"
           },
           {
             "items": [
@@ -4573,7 +4606,8 @@ var STUDY = {
                 "q": "Exercise 2 (2). Write an expository essay on: Importance of Sports."
               }
             ],
-            "name": "Writing"
+            "name": "Writing",
+            "num": "6.4"
           },
           {
             "items": [
@@ -4586,7 +4620,8 @@ var STUDY = {
                 "q": "Exercise 2. Write down your strengths, weaknesses, opportunities, and challenges with regard to learning the English Language."
               }
             ],
-            "name": "Study Skills"
+            "name": "Study Skills",
+            "num": "6.5"
           },
           {
             "items": [
@@ -4595,7 +4630,8 @@ var STUDY = {
                 "q": "Adventure Game. Choose eight items from the box, rank them from most useful to least useful, and give reasons."
               }
             ],
-            "name": "Fun"
+            "name": "Fun",
+            "num": "6.6"
           }
         ],
         "title": "Character Building",
@@ -4955,7 +4991,8 @@ var STUDY = {
                 "q": "Exercise 8. Work in groups of three and describe a place that you would like to go for a holiday and why do you want to go there?",
                 "a": "Model description: I would like to go to Sea View beach in Karachi for a holiday because it is the most beautiful and peaceful place near my city. The cool sea breeze, the sound of the waves and the golden sunset make it a perfect place to relax. We can walk on the sand, ride horses and camels, and enjoy fresh corn and ice cream. It is a place where the whole family can have fun together, and it is not far from home."
               }
-            ]
+            ],
+            "num": "7.1"
           },
           {
             "name": "Oral Communication",
@@ -4972,7 +5009,8 @@ var STUDY = {
                 "q": "Exercise 3. Situation: The Principal has given your class permission to go for an outing/trip. Some of the students want to go to the beach, some to Makli, others to the Hub dam, while others want to go to Ranikot. Work in groups of four and come to a consensus. You can use some of the phrases given in the box above.",
                 "a": "Model dialogue: A: In my opinion, we should go to the beach because it is near and everyone enjoys the sea. B: I have a different idea. Makli is a historical place, and we can learn a lot there. C: I don't think Makli is a good choice for a picnic. Let's discuss this. The Hub Dam is also a beautiful place. D: I agree with you. The Hub Dam has water, greenery and fresh air. Ranikot is too far for one day. A: Let's see. The beach is the best choice because it is close, safe and fun for everyone. B: This sounds good. We can sort this out. Let's agree on the beach and tell the teacher."
               }
-            ]
+            ],
+            "num": "7.2"
           },
           {
             "name": "Language Practice",
@@ -5241,7 +5279,8 @@ var STUDY = {
                 "q": "Exercise 8.5. Reporter: Anything else that you would like to say? Sheeba: My self-esteem ______ badly affected if I ______ badly.",
                 "a": "Sheeba: My self-esteem would have been badly affected if I had performed badly."
               }
-            ]
+            ],
+            "num": "7.3"
           },
           {
             "name": "Writing",
@@ -5282,7 +5321,8 @@ var STUDY = {
                 "q": "Exercise 2. Write a persuasive essay on one of the following topics: 1. Girls should be educated 2. Sports and games should be made compulsory for all students 3. Students should be encouraged to speak in English in the School 4. Students should be guided and supported to grow some vegetables at home 5. Knowledge about diseases and vaccinations should be made a part of the Curriculum",
                 "a": "Model essay — Girls should be educated. Paragraph 1 (Introduction): Education is the basic right of every child, whether a boy or a girl. Yet, in many parts of our country, girls are still kept away from schools. I strongly believe that girls should be educated, because an educated girl can change her family, her society and her country. Paragraph 2 (Support 1): Firstly, an educated girl becomes a good mother and a good citizen. She can look after the health and education of her children and guide them in the right direction. According to a survey, children of educated mothers are healthier and perform better at school. Paragraph 3 (Support 2): Secondly, girls' education helps the country to progress. When girls are educated, they become teachers, doctors, engineers and leaders. They earn money and support their families, which reduces poverty. Paragraph 4 (Opposite viewpoint): Some people say that girls do not need education because they will only work at home. However, this is wrong. Even at home, an educated girl manages the house better, teaches her children and keeps her family healthy. Education is useful everywhere. Paragraph 5 (Conclusion): In conclusion, girls should be educated because education makes them strong, useful and confident. The government and parents should work together so that no girl is left without education."
               }
-            ]
+            ],
+            "num": "7.4"
           },
           {
             "name": "Study Skills",
@@ -5291,7 +5331,8 @@ var STUDY = {
                 "q": "Activity. Begin diary writing in a notebook set aside for the purpose. Follow the guidelines provided in the unit (think about the topic, write the day and date at the top, write the time, begin with 'Dear diary', use the first person and a narrative style, write with feeling, and write your name at the end).",
                 "a": "Model diary entry: Saturday, 7 November 2026, 9:00 p.m. Dear diary, Today was the happiest day of my life. We went to the Gorakh Hills Station to celebrate my birthday. We started our journey at dawn from Karachi. The bus ride was long, but we enjoyed the views of the Indus, the green fields and the shrine of Lal Shahbaz Qalandar at Sehwan. At the top, we stayed in tents because all the rooms were full. At night we sat around the bonfire and played games. In the morning, my parents surprised me with a huge birthday cake. I will never forget this trip. Asif"
               }
-            ]
+            ],
+            "num": "7.5"
           },
           {
             "name": "Fun",
@@ -5300,7 +5341,8 @@ var STUDY = {
                 "q": "Word Association. Word Association is a vocabulary game. The class is divided into three or four equal groups. Each group selects a name based on any flower. The teacher calls a number and says the name of an animal, and the students have to quickly say the name of an animal, one by one. The game continues with other vocabulary words, e.g., names of more animals, birds, flowers, furniture, vegetables, fruits, crockery, kitchen items, etc.",
                 "a": "Example chains: Animals: lion, tiger, elephant, horse, goat, sheep, dog, cat. Flowers: rose, jasmine, tulip, sunflower, marigold, lily. Fruits: mango, apple, banana, orange, grapes, peach. Birds: sparrow, crow, pigeon, peacock, eagle, parrot. The group that gives the most correct answers within time wins."
               }
-            ]
+            ],
+            "num": "7.6"
           }
         ],
         "words": [
@@ -5718,7 +5760,8 @@ var STUDY = {
                 "q": "Exercise 8.4. Develop a role play: Reporter asking people questions related to seat belts",
                 "a": "Model outline: Reporter: Do you fasten your seat belt while travelling in a car? Passenger 1: Yes, I always fasten it. It is a matter of life and death. Passenger 2: No, I find it uncomfortable. Reporter: Do you know that the seat belt stops your body from going through the windshield if the car stops suddenly? Passenger 2: Now I understand. I will always fasten my seat belt. Reporter: Thank you. The click of a seat belt is an insurance for your life."
               }
-            ]
+            ],
+            "num": "8.1"
           },
           {
             "name": "Oral Communication",
@@ -5735,7 +5778,8 @@ var STUDY = {
                 "q": "Exercise. Debate topic 3: Mobile phones are a source of problems. Prepare points in favour and against the topic.",
                 "a": "In favour: Mobile phones are a source of problems because students waste time on games, health suffers, accidents happen when people use mobiles while driving, and family time is reduced. Against: Mobile phones are not only a source of problems. They help us communicate, learn, get information and stay safe in emergencies. It depends on how we use them."
               }
-            ]
+            ],
+            "num": "8.2"
           },
           {
             "name": "Language Practice",
@@ -5952,7 +5996,8 @@ var STUDY = {
                 "q": "Exercise 7. Change the following dialogue into indirect speech. Teacher: Hurry up, class, we are getting late. Tahira: Uzma, put these books in the cupboard and tidy up the desk. Aliya: Put up that picture on the wall, Shazia, and Umaima, give me the brush. Laila: Saima, take the dustbin out and empty it while you are there. Anjum: Just leave everything and start putting the chairs in order. Anila: Shehla, blow up the balloons and put them on the string. Teacher: Get out of the classroom before the guests come. Farah: Pick up all the extra things before going out. Teacher: Wait outside until all the guests are seated.",
                 "a": "The teacher told the class to hurry up as they were getting late. Tahira told Uzma to put the books in the cupboard and tidy up the desk. Aliya told Shazia to put up that picture on the wall and asked Umaima to give her the brush. Laila told Saima to take the dustbin out and empty it while she was there. Anjum told them just to leave everything and start putting the chairs in order. Anila told Shehla to blow up the balloons and put them on the string. The teacher told them to get out of the classroom before the guests came. Farah told them to pick up all the extra things before going out. The teacher told them to wait outside until all the guests were seated."
               }
-            ]
+            ],
+            "num": "8.3"
           },
           {
             "name": "Writing",
@@ -5965,7 +6010,8 @@ var STUDY = {
                 "q": "Exercise 2. Now, work individually and write an argumentative essay on any one of the above topics but not the one on which you have already written.",
                 "a": "Model essay — Wearing uniforms should not be compulsory in schools. Paragraph 1 (Introduction): Many schools make uniforms compulsory for students. I believe that wearing uniforms should not be compulsory in schools, because students should have the freedom to wear what they like. Paragraph 2 (Argument 1): Firstly, uniforms are expensive for poor families. Parents have to buy new uniforms every year, which is a burden. If students wear their own clothes, families can save money. Paragraph 3 (Argument 2): Secondly, uniforms do not make students equal or disciplined. Discipline comes from good teaching and good manners, not from clothes. Students can be disciplined in their own clothes too. Paragraph 4 (Opposite viewpoint): Some people say that uniforms create unity and remove the difference between rich and poor students. However, students can still see the difference in shoes, bags and watches. Uniforms do not remove this difference. Paragraph 5 (Conclusion): In conclusion, uniforms should not be forced on students. Schools should allow students to wear neat and decent clothes of their own choice."
               }
-            ]
+            ],
+            "num": "8.4"
           },
           {
             "name": "Study Skills",
@@ -6062,7 +6108,8 @@ var STUDY = {
                 "q": "Exercise 4. Work in groups of three. Discuss which option you liked the most and why. Share your choice and the reason why you liked it the most, with the class.",
                 "a": "Model answer: I liked the advice 'Study up to your peak and then stop' the most, because I used to study for long hours without rest and forgot everything. Now I know that after reaching my peak I should do something different and let my mind rest. I also liked the advice about revision, because now I revise only what I know and organise it in my mind instead of learning new material at the last moment."
               }
-            ]
+            ],
+            "num": "8.5"
           },
           {
             "name": "Fun",
@@ -6071,7 +6118,8 @@ var STUDY = {
                 "q": "Poem: 'The Blind Men and the Elephant' by J. G. Saxe. Let's have fun with this meaningful poem. Work in groups of four. The teacher reads out the poem aloud, line by line, and the whole class repeats each line. Each group acts out four verses, as assigned by the teacher.",
                 "a": "The poem tells the story of six blind men who touch different parts of an elephant. The first touches its side and says it is like a wall. The second touches its tusk and says it is like a spear. The third touches its trunk and says it is like a snake. The fourth touches its knee and says it is like a tree. The fifth touches its ear and says it is like a fan. The sixth touches its tail and says it is like a rope. They argue loudly, because each one is partly right and all of them are wrong. Moral: We should listen to others and look at the whole truth before making a judgement. How to act it out: Each student in the group takes the part of one blind man, touches a part of an imaginary elephant, and says his line loudly, then all argue together."
               }
-            ]
+            ],
+            "num": "8.6"
           }
         ],
         "words": [
@@ -7294,7 +7342,7 @@ function openExUnit(n, cls, subj){
   window.scrollTo(0, 0);
   navPush({view:'material', cls:c, subj:s, tab:'exsolutions', unit:n});
 }
-// Full HTML for one exercise-solution unit: all sections, then difficult words.
+// Full HTML for one exercise-solution unit: shortcut links, then all sections, then difficult words.
 function exUnitHtml(n){
   var data = matData;
   var ex = (data && data.exsolutions) || [];
@@ -7303,15 +7351,21 @@ function exUnitHtml(n){
   if(!u) return "<p class=\"note\">Exercise solutions for this unit will be added here.</p>";
   var html = "";
   if(u.reading) html += "<p class=\"note\"><b>Reading:</b> " + escHtml(u.reading) + "</p>";
-  (u.sections || []).forEach(function(sec){
-    html += "<div class=\"review\"><div class=\"qq\"><b>" + escHtml(sec.name) + "</b></div>";
+  html += "<p class=\"note exnav\"><b>Jump to:</b> ";
+  (u.sections || []).forEach(function(sec, i){
+    html += "<button class=\"modebtn\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\">" + escHtml(sec.num) + "</button> ";
+  });
+  if(u.words && u.words.length) html += "<button class=\"modebtn\" onclick=\"jumpExWords(" + n + ")\">Words</button>";
+  html += "</p>";
+  (u.sections || []).forEach(function(sec, i){
+    html += "<div class=\"review\" id=\"ex-" + n + "-" + (i + 1) + "\"><div class=\"qq\"><b><u>" + escHtml(sec.num) + " " + escHtml(sec.name) + "</u></b></div>";
     (sec.items || []).forEach(function(it){
       html += "<p class=\"note\"><b>Q:</b> " + escHtml(it.q) + "</p><p class=\"note\"><b>Ans:</b> " + escHtml(it.a) + "</p>";
     });
     html += "</div>";
   });
   if(u.words && u.words.length){
-    html += "<div class=\"review\"><div class=\"qq\"><b>Difficult Words \u2014 Sindhi Meaning and English Synonym</b></div>";
+    html += "<div class=\"review\" id=\"ex-" + n + "-words\"><div class=\"qq\"><b><u>Difficult Words \u2014 Sindhi Meaning and English Synonym</u></b></div>";
     u.words.forEach(function(w){
       html += "<p class=\"note\"><b>" + escHtml(w.w) + ":</b> " + escHtml(w.sd) + " (" + escHtml(w.syn) + ")</p>";
     });
@@ -7319,6 +7373,9 @@ function exUnitHtml(n){
   }
   return html;
 }
+// Jump to one section of an exercise-solution unit page.
+function jumpEx(n, m){ var el = document.getElementById("ex-" + n + "-" + m); if(el) el.scrollIntoView(); }
+function jumpExWords(n){ var el = document.getElementById("ex-" + n + "-words"); if(el) el.scrollIntoView(); }
 // Back from a material page: from a unit page go to the unit list, else to the subject page.
 function backFromMatPage(){
   if(matExUnit){
@@ -7391,6 +7448,7 @@ function filterMatPage(){
   if(!inp || !box) return;
   var q = inp.value.trim().toLowerCase();
   Array.prototype.forEach.call(box.children, function(ch){
+    if(ch.classList && ch.classList.contains("exnav")){ ch.style.display = ""; return; }
     var show = !q || ch.textContent.toLowerCase().indexOf(q) > -1;
     ch.style.display = show ? "" : "none";
   });
