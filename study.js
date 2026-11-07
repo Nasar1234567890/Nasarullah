@@ -10159,6 +10159,1843 @@ var STUDY = {
         ],
         "s": "Biology"
       }
+    ],
+    "mathsolutions": [
+      {
+        "unit": 1,
+        "title": "Real and Complex Numbers",
+        "exercises": [
+          {
+            "label": "Exercise 1.1",
+            "items": [
+              {
+                "q": "Identify the following numbers as rational and irrational numbers and also write each one in separate column.\n(i) [[1/5]] (ii) [[√2/8]] (iii) [[5/√6]] (iv) [[2/8]] (v) [[1/√3]] (vi) √8\n(vii) 0 (viii) π (ix) √5 (x) [[22/3]] (xi) [[1/π]] (xii) [[11/12]]",
+                "a": "Rational numbers: [[1/5]], [[2/8]], 0, [[22/3]], [[11/12]]\nIrrational numbers: [[√2/8]], [[5/√6]], [[1/√3]], √8, π, √5, [[1/π]]"
+              },
+              {
+                "q": "Convert the following into decimal fractions. Also indicate them as terminating and non-terminating decimal fractions.\n(i) [[5/8]] (ii) [[4/18]] (iii) [[1/15]] (iv) [[49/8]] (v) [[207/15]] (vi) [[50/76]]",
+                "a": "(i) [[5/8]] = 0.625\nTerminating\n(ii) [[4/18]] = 0.222...\nNon-terminating\n(iii) [[1/15]] = 0.0666...\nNon-terminating\n(iv) [[49/8]] = 6.125\nTerminating\n(v) [[207/15]] = 13.8\nTerminating\n(vi) [[50/76]] = 0.65789...\nNon-terminating"
+              },
+              {
+                "q": "Illustrate the following rational numbers on number line.\n(i) [[8/10]] (ii) -[[8/10]] (iii) 1[[1/4]] (iv) -1[[1/4]] (v) [[2/3]] (vi) -[[2/3]]",
+                "a": "(i) [[8/10]] = 0.8\n(ii) -[[8/10]] = -0.8\n(iii) 1[[1/4]] = 1.25\n(iv) -1[[1/4]] = -1.25\n(v) [[2/3]] = 0.666...\n(vi) -[[2/3]] = -0.666..."
+              },
+              {
+                "q": "Can you make a list of all real numbers between 1 and 2?",
+                "a": "1 < x < 2\nx ∈ R\nNot possible"
+              },
+              {
+                "q": "Give reason, why pi (π) is an irrational number?",
+                "a": "π = 3.1415926535...\nNon-terminating and non-recurring decimal\nIrrational number"
+              },
+              {
+                "q": "Tick (✓) the correct statements.\n(i) [[5/7]] is an example of irrational number.\n(ii) π is an irrational number.\n(iii) 0.31591... is an example of non-terminating and non-recurring decimal fraction.\n(iv) 0.123̄ is an example of recurring decimal fraction.\n(v) [[1/3]], [[2/3]] are lying between 0 and 1.\n(vi) [[1/√3]] is an example of rational number.",
+                "a": "(i) False\n(ii) True\n(iii) True\n(iv) True\n(v) True\n(vi) False"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 1.2",
+            "items": [
+              {
+                "q": "Recognize the properties of real numbers used in the following:\n(i) [[1/2]] + [[2/3]] = [[2/3]] + [[1/2]]\n(ii) [[4/3]] + (1[[1/3]] + [[2/3]]) = ([[4/3]] + 1[[1/3]]) + [[2/3]]\n(iii) 9 × ([[10/9]] + [[20/9]]) = (9 × [[10/9]]) + (9 × [[20/9]])\n(iv) ([[4/5]] + [[5/7]]) × [[7/8]] = ([[4/5]] × [[7/8]]) + ([[5/7]] × [[7/8]])\n(v) ([[7/5]] - [[3/5]]) × [[10/15]] = ([[7/5]] × [[10/15]]) - ([[3/5]] × [[10/15]])\n(vi) [[d/c]] × [[e/f]] = [[e/f]] × [[d/c]]\n(vii) 11 × (15 × 21) = (11 × 15) × 21\n(viii) [[2/11]] × [[11/2]] = [[11/2]] × [[2/11]] = 1\n(ix) [[3/5]] + (-[[3/5]]) = (-[[3/5]]) + [[3/5]] = 0\n(x) [[a/b]] × [[b/a]] = [[b/a]] × [[a/b]] = 1\n(xi) [[15/10]] × ([[8/5]] - [[4/10]]) = ([[15/10]] × [[8/5]]) - ([[15/10]] × [[4/10]])\n(xii) [[√2/3]] × [[3/√2]] = [[3/√2]] × [[√2/3]] = 1",
+                "a": "(i) Commutative property of addition\n(ii) Associative property of addition\n(iii) Left distributive property of multiplication over addition\n(iv) Right distributive property of multiplication over addition\n(v) Right distributive property of multiplication over subtraction\n(vi) Commutative property of multiplication\n(vii) Associative property of multiplication\n(viii) Multiplicative inverse\n(ix) Additive inverse\n(x) Multiplicative inverse\n(xi) Left distributive property of multiplication over subtraction\n(xii) Multiplicative inverse"
+              },
+              {
+                "q": "Fill the correct real number in the following to make the properties of real numbers correct.\n(i) [[√2/5]] + [[3/√6]] = [[□/√6]] + [[√2/□]]\n(ii) [[7/10]] + ([[70/□]] + [[16/33]]) = ([[7/□]] + [[□/10]]) + [[16/□]]\n(iii) [[99/50]] × [[50/99]] = □\n(iv) ([[59/95]]) × ([[95/59]]) = □\n(v) (-21) + (□) = 0\n(vi) [[5/8]] × ([[2/3]] + [[5/7]]) = ([[□/□]] × [[2/3]]) + ([[5/8]] × [[□/□]])",
+                "a": "(i) [[√2/5]] + [[3/√6]] = [[3/√6]] + [[√2/5]]\n(ii) [[7/10]] + ([[70/10]] + [[16/33]]) = ([[7/10]] + [[70/10]]) + [[16/33]]\n(iii) 1\n(iv) 1\n(v) 21\n(vi) [[5/8]] × ([[2/3]] + [[5/7]]) = ([[5/8]] × [[2/3]]) + ([[5/8]] × [[5/7]])"
+              },
+              {
+                "q": "Fill the following blanks to make the property correct or true.\n(i) 5 < 8 and 8 < 10 ⇒ ___ < ___\n(ii) 10 > 8 and 8 > 5 ⇒ ___ < ___\n(iii) 3 < 6 ⇒ 3 + 9 < ___ + ___\n(iv) 4 < 6 ⇒ 4 + 8 < ___ + ___\n(v) 8 > 6 ⇒ 6 + 8 > ___ + ___",
+                "a": "(i) 5 < 10\n(ii) 5 < 10\n(iii) 3 + 9 < 6 + 9\n(iv) 4 + 8 < 6 + 8\n(v) 6 + 8 > 6 + 6"
+              },
+              {
+                "q": "Fill the following blanks which make the property correct or true:\n(i) 5 < 7 ⇒ 5 × 12 < ___ × ___\n(ii) 7 > 5 ⇒ 7 × 12 > ___ × ___\n(iii) 6 > 4 ⇒ 6 × (-7) ___ 4 × (-7)\n(iv) 2 < 8 ⇒ 2 × (-4) ___ 8 × (-4)",
+                "a": "(i) 5 × 12 < 7 × 12\n(ii) 7 × 12 > 5 × 12\n(iii) 6 × (-7) < 4 × (-7)\n(iv) 2 × (-4) > 8 × (-4)"
+              },
+              {
+                "q": "Find the additive and multiplicative inverse of the following real numbers.\n(i) 3 (ii) -7 (iii) 0.3 (iv) -[[√5/5]] (v) [[9/√12]] (vi) 0",
+                "a": "(i) Additive inverse = -3\nMultiplicative inverse = [[1/3]]\n(ii) Additive inverse = 7\nMultiplicative inverse = [[-1/7]]\n(iii) Additive inverse = -0.3\nMultiplicative inverse = [[1/0.3]]\n(iv) Additive inverse = [[√5/5]]\nMultiplicative inverse = [[-5/√5]]\n(v) Additive inverse = [[-9/√12]]\nMultiplicative inverse = [[√12/9]]\n(vi) Additive inverse = 0\nMultiplicative inverse does not exist"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 1.3",
+            "items": [
+              {
+                "q": "Identify radicand and index in the following:\n(i) ³√5 (ii) ⁴√([[x/y]]) (iii) ⁵√(x^2yz) (iv) √(ab) (v) ⁿ√([[pq/r]])",
+                "a": "(i) Radicand = 5, Index = 3\n(ii) Radicand = [[x/y]], Index = 4\n(iii) Radicand = x^2yz, Index = 5\n(iv) Radicand = ab, Index = 2\n(v) Radicand = [[pq/r]], Index = n"
+              },
+              {
+                "q": "Transform the following into exponential forms.\n(i) √([[3/4]]) (ii) √([[x/y]]^5) (iii) ³√([[y/x]]^-5) (iv) ³√((yz)^7) (v) ⁹√27 (vi) ³√((-64)^2) (vii) ³√([[1/2]]^m) (viii) ⁵√((xy)^3) (ix) ³√(√([[4/3]]))",
+                "a": "(i) ([[3/4]])^[[1/2]]\n(ii) ([[x/y]])^[[5/2]]\n(iii) ([[y/x]]^-5)^[[1/3]]\n= ([[x/y]])^[[5/3]]\n(iv) (yz)^[[7/3]]\n(v) 27^[[1/9]]\n(vi) (-64)^[[2/3]]\n(vii) ([[1/2]])^[[m/3]]\n(viii) (xy)^[[3/5]]\n(ix) (([[4/3]])^[[1/2]])^[[1/3]]\n= ([[4/3]])^[[1/6]]"
+              },
+              {
+                "q": "Transform the following into radical forms.\n(i) (5^3)^[[1/7]] (ii) (ab^-2)^[[1/3]] (iii) [[(5/7)^3]]^[[5/7]] (iv) ([[b/a]])^[[-m/2]] (v) ([[11/13]] × [[12/13]])^[[1/5]]",
+                "a": "(i) ⁷√(5^3)\n(ii) ³√([[a/b^2]])\n(iii) ([[5/7]])^[[15/7]]\n= ⁷√([[5/7]]^15)\n(iv) ([[a/b]])^[[m/2]]\n= √([[a/b]]^m)\n(v) ⁵√([[11/13]] × [[12/13]])"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 1.4",
+            "items": [
+              {
+                "q": "Simplify the following:\n(i) [[3^5/3^2]] (ii) [[2^4 × 5^3/10^2]] (iii) [[(a+b)^2 × (c+d)^3/(a+b) × (c+d)^2]]",
+                "a": "(i) [[3^5/3^2]]\n= 3^(5-2)\n= 3^3\n= 27\n(ii) [[2^4 × 5^3/10^2]]\n= [[16 × 125/100]]\n= [[2000/100]]\n= 20\n(iii) [[(a+b)^2 × (c+d)^3/(a+b) × (c+d)^2]]\n= (a+b)^(2-1) × (c+d)^(3-2)\n= (a+b)(c+d)"
+              },
+              {
+                "q": "Simplify using law of exponent:\n(i) ([[1/3]])^4 × ([[1/3]])^5 (ii) ([[3/4]])^5 × ([[3/4]])^2 (iii) ([[-4/5]])^3 × ([[-4/5]])^5 (iv) (-3 × 5^2)^3 (v) [3 × (-4)^2]^3 (vi) ([[-a/bc]])^5 × ([[-a/bc]])^4 (vii) ([[-c/d]])^2([[-c/d]])^3([[-c/d]])^5 (viii) mn^2t^4n^3m^5t^7 (ix) a^2c^5b^2a^3c^3b^4a^4",
+                "a": "(i) ([[1/3]])^4 × ([[1/3]])^5\n= ([[1/3]])^(4+5)\n= ([[1/3]])^9\n(ii) ([[3/4]])^5 × ([[3/4]])^2\n= ([[3/4]])^(5+2)\n= ([[3/4]])^7\n(iii) ([[-4/5]])^3 × ([[-4/5]])^5\n= ([[-4/5]])^(3+5)\n= ([[-4/5]])^8\n= ([[4/5]])^8\n(iv) (-3 × 5^2)^3\n= (-3)^3 × (5^2)^3\n= -3^3 × 5^6\n(v) [3 × (-4)^2]^3\n= 3^3 × ((-4)^2)^3\n= 3^3 × (-4)^6\n= 3^3 × 4^6\n(vi) ([[-a/bc]])^5 × ([[-a/bc]])^4\n= ([[-a/bc]])^9\n= -[[a^9/b^9 c^9]]\n(vii) ([[-c/d]])^2([[-c/d]])^3([[-c/d]])^5\n= ([[-c/d]])^(2+3+5)\n= ([[-c/d]])^10\n= [[c^10/d^10]]\n(viii) mn^2t^4n^3m^5t^7\n= m^(1+5)n^(2+3)t^(4+7)\n= m^6n^5t^11\n(ix) a^2c^5b^2a^3c^3b^4a^4\n= a^(2+3+4)b^(2+4)c^(5+3)\n= a^9b^6c^8"
+              },
+              {
+                "q": "Simplify using the law of exponent:\n(i) (5^2)^3 (ii) {(xy)^3}^5 (iii) {(-4)^2}^5 (iv) {(-3)^3(-4)^2}^3 (v) ([[b^2/5]])^3 (vi) {([[-4/9]])^2}^3 (vii) {(z^3)^2}^4 (viii) {(mm^2m^3m^4)^2}^5 (ix) -[(-0.1)^2(-0.1)^3(-0.1)^4]^2",
+                "a": "(i) (5^2)^3\n= 5^(2×3)\n= 5^6\n(ii) {(xy)^3}^5\n= (xy)^(3×5)\n= (xy)^15\n= x^15y^15\n(iii) {(-4)^2}^5\n= (-4)^(2×5)\n= (-4)^10\n= 4^10\n(iv) {(-3)^3(-4)^2}^3\n= (-3)^(3×3) × (-4)^(2×3)\n= (-3)^9 × (-4)^6\n= -3^9 × 4^6\n(v) ([[b^2/5]])^3\n= [[b^6/5^3]]\n(vi) {([[-4/9]])^2}^3\n= ([[-4/9]])^(2×3)\n= ([[-4/9]])^6\n= [[4^6/9^6]]\n(vii) {(z^3)^2}^4\n= z^(3×2×4)\n= z^24\n(viii) {(mm^2m^3m^4)^2}^5\n= (m^(1+2+3+4))^10\n= (m^10)^10\n= m^100\n(ix) -[(-0.1)^2(-0.1)^3(-0.1)^4]^2\n= -[(-0.1)^(2+3+4)]^2\n= -[(-0.1)^9]^2\n= -(-0.1)^18\n= -(0.1)^18"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 1.5",
+            "items": [
+              {
+                "q": "Write the following complex numbers in the form of a+ib.\n(i) (1, 2) (ii) (2, 2) (iii) (0, 4)\n(iv) (-1, 1) (v) (-2, 0) (vi) (-3, 4)",
+                "a": "(i) 1 + 2i\n(ii) 2 + 2i\n(iii) 0 + 4i\n= 4i\n(iv) -1 + 1i\n(v) -2 + 0i\n= -2\n(vi) -3 + 4i"
+              },
+              {
+                "q": "Identify real and imaginary parts for the following complex numbers.\n(i) 1 + 2i (ii) 9i + 4 (iii) (-5, 6)\n(iv) -1 - i (v) ([[-3/4]]) - ([[-4/5]])i (vi) 2i - 1",
+                "a": "(i) Re(z) = 1, Im(z) = 2\n(ii) Re(z) = 4, Im(z) = 9\n(iii) Re(z) = -5, Im(z) = 6\n(iv) Re(z) = -1, Im(z) = -1\n(v) Re(z) = [[-3/4]], Im(z) = [[4/5]]\n(vi) Re(z) = -1, Im(z) = 2"
+              },
+              {
+                "q": "Find the conjugate of the following complex numbers.\n(i) 3 + 2i (ii) (0, -7) (iii) (-1, 0)\n(iv) 1 - i (v) ([[-3/4]]) + ([[-4/5]])i (vi) 3i + 1",
+                "a": "(i) z̄ = 3 - 2i\n(ii) z̄ = (0, 7)\n(iii) z̄ = (-1, 0)\n(iv) z̄ = 1 + i\n(v) z̄ = [[-3/4]] + [[4/5]]i\n(vi) z̄ = 1 - 3i"
+              },
+              {
+                "q": "Verify that (z̄)̄ = z, for the following complex numbers.\n(i) ([[4/7]]) + ([[9/10]])i (ii) ([[-9/11]]) + ([[10/9]])i (iii) [[1/2]] - 3i\n(iv) 2 + 3i (v) -2 - 3([[-10/9]])i (vi) 4x + 3iy",
+                "a": "(i) z = [[4/7]] + [[9/10]]i\nz̄ = [[4/7]] - [[9/10]]i\n(z̄)̄ = [[4/7]] + [[9/10]]i\n(z̄)̄ = z\n(ii) z = [[-9/11]] + [[10/9]]i\nz̄ = [[-9/11]] - [[10/9]]i\n(z̄)̄ = [[-9/11]] + [[10/9]]i\n(z̄)̄ = z\n(iii) z = [[1/2]] - 3i\nz̄ = [[1/2]] + 3i\n(z̄)̄ = [[1/2]] - 3i\n(z̄)̄ = z\n(iv) z = 2 + 3i\nz̄ = 2 - 3i\n(z̄)̄ = 2 + 3i\n(z̄)̄ = z\n(v) z = -2 - 3([[-10/9]])i\n= -2 + [[10/3]]i\nz̄ = -2 - [[10/3]]i\n(z̄)̄ = -2 + [[10/3]]i\n(z̄)̄ = z\n(vi) z = 4x + 3iy\nz̄ = 4x - 3iy\n(z̄)̄ = 4x + 3iy\n(z̄)̄ = z"
+              },
+              {
+                "q": "Find the values of x and y, when\n(i) x + yi = -5 + 5i (ii) x^2 + iy^2 = [[16/9]] + [[9/25]]i\n(iii) y^2 + [[x/3]]i = 121 - [[9/5]]i (iv) [[√5/3]]x - [[3/√2]]yi = [[6√3/√2]] + [[2√2/9]]i",
+                "a": "(i) x = -5\ny = 5\n(ii) x^2 = [[16/9]]\ny^2 = [[9/25]]\nx = ±[[4/3]]\ny = ±[[3/5]]\n(iii) y^2 = 121\n[[x/3]] = [[-9/5]]\ny = ±11\nx = [[-27/5]]\n(iv) [[√5/3]]x = [[6√3/√2]]\n[[√5/3]]x = 3√6\nx = 3√6 × [[3/√5]]\nx = [[9√30/5]]\n-[[3/√2]]y = [[2√2/9]]\ny = -[[2√2/9]] × [[√2/3]]\ny = [[-4/27]]"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 1.6",
+            "items": [
+              {
+                "q": "Perform the indicated operations of the following complex numbers.\n(i) (3, 2) + (9, 3) (ii) ([[3/2]], [[2/3]]) + ([[2/3]], [[3/2]])\n(iii) (15, 12) - (10, -9) (iv) ([[4/5]], [[8/15]]) - ([[4/5]], [[6/10]])\n(v) (1, 2)(1, -2) (vi) (4, -5)(5, -4)\n(vii) (3, -7) ÷ (3, 2) (viii) (4, 5) ÷ (2, -3)",
+                "a": "(i) (3 + 9, 2 + 3)\n= (12, 5)\n(ii) ([[3/2]] + [[2/3]], [[2/3]] + [[3/2]])\n= ([[13/6]], [[13/6]])\n(iii) (15 - 10, 12 - (-9))\n= (5, 21)\n(iv) ([[4/5]] - [[4/5]], [[8/15]] - [[6/10]])\n= (0, [[-1/15]])\n(v) (1 × 1 - 2 × (-2), 1 × (-2) + 2 × 1)\n= (1 + 4, -2 + 2)\n= (5, 0)\n(vi) (4 × 5 - (-5) × (-4), 4 × (-4) + (-5) × 5)\n= (20 - 20, -16 - 25)\n= (0, -41)\n(vii) ((3 × 3 + (-7) × 2) ÷ (3^2 + 2^2), ((-7) × 3 - 3 × 2) ÷ (3^2 + 2^2))\n= ((-5) ÷ 13, (-27) ÷ 13)\n= ([[-5/13]], [[-27/13]])\n(viii) ((4 × 2 + 5 × (-3)) ÷ (2^2 + (-3)^2), (5 × 2 - 4 × (-3)) ÷ (2^2 + (-3)^2))\n= ((-7) ÷ 13, 22 ÷ 13)\n= ([[-7/13]], [[22/13]])"
+              },
+              {
+                "q": "Simplify and write your answer in form of a + ib\n(i) -[[1/1+i]] (ii) (1 + i)^4 (iii) ([[1/1+i]])^2 (iv) (1 + i)^8",
+                "a": "(i) -[[1/1+i]]\n= -[[1/1+i]] × [[1-i/1-i]]\n= -[[1-i/2]]\n= [[-1/2]] + [[1/2]]i\n(ii) (1 + i)^4\n= ((1 + i)^2)^2\n= (1 + 2i + i^2)^2\n= (2i)^2\n= 4i^2\n= -4\n(iii) ([[1/1+i]])^2\n= ([[1-i/2]])^2\n= [[-2i/4]]\n= -[[1/2]]i\n(iv) (1 + i)^8\n= ((1 + i)^4)^2\n= (-4)^2\n= 16"
+              },
+              {
+                "q": "If z1 = -4 + 6i and z2 = 2[[1/2]] - 2i, verify that\n(i) (z1 + z2)̄ = z̄1 + z̄2 (ii) (z1 - z2)̄ = z̄1 - z̄2",
+                "a": "(i) z1 + z2 = -4 + 6i + [[5/2]] - 2i\n= [[-3/2]] + 4i\n(z1 + z2)̄ = [[-3/2]] - 4i\nz̄1 + z̄2 = (-4 - 6i) + ([[5/2]] + 2i)\n= [[-3/2]] - 4i\n(z1 + z2)̄ = z̄1 + z̄2\n(ii) z1 - z2 = -4 + 6i - [[5/2]] + 2i\n= [[-13/2]] + 8i\n(z1 - z2)̄ = [[-13/2]] - 8i\nz̄1 - z̄2 = (-4 - 6i) - ([[5/2]] + 2i)\n= [[-13/2]] - 8i\n(z1 - z2)̄ = z̄1 - z̄2"
+              },
+              {
+                "q": "If z1 = 1 + i and z2 = 1 - i, verify that\n(i) (z1z2)̄ = z̄1 · z̄2 (ii) (z1 ÷ z2)̄ = z̄1 ÷ z̄2",
+                "a": "(i) z1z2 = (1 + i)(1 - i)\n= 1 - i^2\n= 2\n(z1z2)̄ = 2\nz̄1 · z̄2 = (1 - i)(1 + i)\n= 1 - i^2\n= 2\n(z1z2)̄ = z̄1 · z̄2\n(ii) z1 ÷ z2 = [[1+i/1-i]]\n= [[(1+i)^2/2]]\n= [[2i/2]]\n= i\n(z1 ÷ z2)̄ = -i\nz̄1 ÷ z̄2 = [[1-i/1+i]]\n= [[(1-i)^2/2]]\n= [[-2i/2]]\n= -i\n(z1 ÷ z2)̄ = z̄1 ÷ z̄2"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "Fill in the blanks.\n(i) Multiplicative inverse of √5 is ______.\n(ii) Q ∪ Q' = ______.\n(iii) The additive identity in R is ______.\n(iv) 5 + (6 + 7) = (5 + 6) + ______.\n(v) 3 + (-3) = ______.\n(vi) π is a ______ number.\n(vii) [[22/7]] is a ______ number.\n(viii) The conjugate of -3 + 5i is ______.\n(ix) In 2i(3 - i), the real part is ______.\n(x) The product of two complex numbers (a, b) and (c, d) i.e. (a, b).(c, d) = ______.",
+                "a": "(i) [[1/√5]]\n(ii) R\n(iii) 0\n(iv) 7\n(v) 0\n(vi) Irrational\n(vii) rational\n(viii) -3 - 5i\n(ix) 2\n(x) (ac - bd, ad + bc)"
+              },
+              {
+                "q": "Read the following sentences carefully and encircle 'T' in case of true and 'F' in case of false statement.\n(i) R is closed under multiplication. T or F\n(ii) if x < y ∧ y < z ⇒ x < z. T or F\n(iii) ∀x, y, z ∈ R, x(y - z) = xy - xz T or F\n(iv) The product of every two imaginary numbers is real. T or F\n(v) The sum of two real numbers is a real number. T or F",
+                "a": "(i) True\n(ii) True\n(iii) True\n(iv) True\n(v) True"
+              },
+              {
+                "q": "Tick (✓) the correct answer.\n(i) The additive inverse of √5 is\n(a) -√5 (b) [[1/√5]] (c) √-5 (d) -5\n(ii) (5i).(-2i) =\n(a) -10 (b) 10 (c) -10i (d) 10i\n(iii) 3(5+7) = 3.5+3.7, name the property used\n(a) Commutative (b) Associative (c) Distributive (d) Closure\n(iv) √-2 × √-2 =\n(a) 2 (b) -2 (c) 2i (d) -2i",
+                "a": "(i) (a) -√5\n(ii) (b) 10\n(iii) (c) Distributive\n(iv) (b) -2"
+              },
+              {
+                "q": "Simplify (i) 2^(3^2) ÷ 2^(2^3) (ii) 3^(2^3) ÷ 3^(3^2)",
+                "a": "(i) 2^(3^2) ÷ 2^(2^3)\n= 2^9 ÷ 2^8\n= 2^(9-8)\n= 2\n(ii) 3^(2^3) ÷ 3^(3^2)\n= 3^8 ÷ 3^9\n= 3^(8-9)\n= 3^-1\n= [[1/3]]"
+              },
+              {
+                "q": "Simplify (i) 3^20 + 3^20 + 3^20 (ii) 2^35 + 2^35",
+                "a": "(i) 3^20 + 3^20 + 3^20\n= 3 × 3^20\n= 3^21\n(ii) 2^35 + 2^35\n= 2 × 2^35\n= 2^36"
+              },
+              {
+                "q": "Let z = 7 - i, find\n(i) Re(z̄) (ii) Im(z) (iii) z̄ (iv) |z̄|\n(v) z^-1 (vi) |z|^-1 (vii) iz (viii) iz̄",
+                "a": "(i) Re(z̄) = 7\n(ii) Im(z) = -1\n(iii) z̄ = 7 + i\n(iv) |z̄| = |7 + i|\n= √(7^2 + 1^2)\n= √50\n= 5√2\n(v) z^-1 = [[1/7-i]]\n= [[1/7-i]] × [[7+i/7+i]]\n= [[7+i/50]]\n= [[7/50]] + [[1/50]]i\n(vi) |z|^-1 = [[1/5√2]]\n(vii) iz = i(7 - i)\n= 7i - i^2\n= 1 + 7i\n(viii) iz̄ = i(7 + i)\n= 7i + i^2\n= -1 + 7i"
+              }
+            ]
+          }
+        ],
+        "display": "Real and Complex Numbers"
+      },
+      {
+        "unit": 2,
+        "title": "Logarithms",
+        "exercises": [
+          {
+            "label": "Exercise 2.1",
+            "items": [
+              {
+                "q": "Express each of the following numbers in scientific notation.\n(i) 9700 (ii) 4,980,000 (iii) 96,000,000\n(iv) 4169 (v) 84,000 (vi) 0.718\n(vii) 0.00643 (viii) 0.0074 (ix) 0.21005",
+                "a": "(i) 9700 = 9.7 × 10^3\n(ii) 4,980,000 = 4.98 × 10^6\n(iii) 96,000,000 = 9.6 × 10^7\n(iv) 4169 = 4.169 × 10^3\n(v) 84,000 = 8.4 × 10^4\n(vi) 0.718 = 7.18 × 10^-1\n(vii) 0.00643 = 6.43 × 10^-3\n(viii) 0.0074 = 7.4 × 10^-3\n(ix) 0.21005 = 2.1005 × 10^-1"
+              },
+              {
+                "q": "Express the following numbers in ordinary notation (Standard notation).\n(i) 7 × 10^4 (ii) 8.072 × 10^-10 (iii) 6.018 × 10^6\n(iv) 7.865 × 10^8 (v) 2.05 × 10^-4 (vi) 7.25 × 10^10\n(vii) 4.502 × 10^6 (viii) 2.865 × 10^-8 (ix) 3.056 × 10^6",
+                "a": "(i) 7 × 10^4 = 70000\n(ii) 8.072 × 10^-10 = 0.0000000008072\n(iii) 6.018 × 10^6 = 6018000\n(iv) 7.865 × 10^8 = 786500000\n(v) 2.05 × 10^-4 = 0.000205\n(vi) 7.25 × 10^10 = 72500000000\n(vii) 4.502 × 10^6 = 4502000\n(viii) 2.865 × 10^-8 = 0.00000002865\n(ix) 3.056 × 10^6 = 3056000"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 2.2",
+            "items": [
+              {
+                "q": "Write the following in logarithmic form.\n(i) 7^3 = 343 (ii) 3^-4 = [[1/81]]\n(iii) 10^-3 = 0.001 (iv) ∛(8^2) = 4",
+                "a": "(i) log₇ 343 = 3\n(ii) log₃ [[1/81]] = -4\n(iii) log₁₀(0.001) = -3\n(iv) log₈(4) = [[2/3]]"
+              },
+              {
+                "q": "Write the following in exponential form.\n(i) log₂₇ 81 = [[4/3]] (ii) log₂ [[1/8]] = -3\n(iii) log₁₀ 1 = 0 (iv) log₁₀(0.01) = -2",
+                "a": "(i) (27)^[[4/3]] = 81\n(ii) (2)^-3 = [[1/8]]\n(iii) 10^0 = 1\n(iv) (10)^-2 = 0.01"
+              },
+              {
+                "q": "Find the value of unknown in the following.\n(i) log₃₂ x = [[1/2]] (ii) log_a 3 = [[1/2]] (iii) log√₅ 25 = y\n(iv) log₄ x = [[3/2]] (v) log₁₀ 100 = y (vi) log_a 64 = 3\n(vii) log_a 1 = 0 (viii) log₅₅ 55 = y (ix) log₆₄ 8 = [[x/2]]",
+                "a": "(i) log₃₂ x = [[1/2]]\nx = 32^[[1/2]]\nx = √32\nx = 4√2\n(ii) log_a 3 = [[1/2]]\na^[[1/2]] = 3\na = 3^2\na = 9\n(iii) log√₅ 25 = y\n(√5)^y = 25\n5^[[y/2]] = 5^2\n[[y/2]] = 2\ny = 4\n(iv) log₄ x = [[3/2]]\nx = 4^[[3/2]]\nx = (√4)^3\nx = 2^3\nx = 8\n(v) log₁₀ 100 = y\n100 = 10^2\ny = 2\n(vi) log_a 64 = 3\na^3 = 64\na^3 = 4^3\na = 4\n(vii) log_a 1 = 0\n1 = a^0\na > 0\na ≠ 1\n(viii) log₅₅ 55 = y\n55 = 55^1\ny = 1\n(ix) log₆₄ 8 = [[x/2]]\n64^[[x/2]] = 8\n(2^6)^[[x/2]] = 2^3\n2^(3x) = 2^3\n3x = 3\nx = 1"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 2.3",
+            "items": [
+              {
+                "q": "Find the characteristics and mantissa of the following Logarithm.\n(i) 8 (ii) 5054 (iii) 9.992\n(iv) 765.3 (v) 0.00329 (vi) 0.0000300",
+                "a": "(i) Characteristic = 0\nMantissa = 0.9031\n(ii) Characteristic = 3\nMantissa = 0.7036\n(iii) Characteristic = 0\nMantissa = 0.9997\n(iv) Characteristic = 2\nMantissa = 0.8839\n(v) Characteristic = 3̅\nMantissa = 0.5172\n(vi) Characteristic = 5̅\nMantissa = 0.4771"
+              },
+              {
+                "q": "Find the logarithms of the following numbers.\n(i) 9 (ii) 55.56 (iii) 29.592\n(iv) 405.3 (v) 0.00469 (vi) 0.000076",
+                "a": "(i) Characteristic = 0\nMantissa = 0.9542\nlog 9 = 0.9542\n(ii) Characteristic = 1\nMantissa = 0.7448\nlog 55.56 = 1.7448\n(iii) Characteristic = 1\nMantissa = 0.4711\nlog 29.592 = 1.4711\n(iv) Characteristic = 2\nMantissa = 0.6078\nlog 405.3 = 2.6078\n(v) Characteristic = 3̅\nMantissa = 0.6712\nlog 0.00469 = 3̅.6712\n(vi) Characteristic = 5̅\nMantissa = 0.8808\nlog 0.000076 = 5̅.8808"
+              },
+              {
+                "q": "If log 31.09 = 1.4926, find the value of the following without using log table.\n(i) log 3.109 (ii) log 310.9 (iii) log 0.003109\n(iv) log 3109 (v) log 310.942 (vi) log 310926",
+                "a": "(i) log 3.109 = 0.4926\n(ii) log 310.9 = 2.4926\n(iii) log 0.003109 = 3̅.4926\n(iv) log 3109 = 3.4926\n(v) log 310.942 = 2.4926\n(vi) log 310926 = 5.4926"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 2.4",
+            "items": [
+              {
+                "q": "By using table, find the numbers whose common logarithms are.\n(i) 3.56721 (ii) 1̅.7427 (iii) 0.35749\n(iv) 5.8196 (v) 4̅.3847 (vi) 0.9187",
+                "a": "(i) x = antilog 3.56721\nx = 3692\n(ii) x = antilog 1̅.7427\nx = 0.5530\n(iii) x = antilog 0.35749\nx = 2.278\n(iv) x = antilog 5.8196\nx = 660300\n(v) x = antilog 4̅.3847\nx = 0.0002425\n(vi) x = antilog 0.9187\nx = 8.292"
+              },
+              {
+                "q": "Find the Logarithm of the following numbers by using calculator.\n(i) 900 (ii) 45.54 (iii) 36582\n(iv) 826.3 (v) 0.00851 (vi) 0.000097",
+                "a": "(i) log 900 = 2.954242509\n(ii) log 45.54 = 1.658393026\n(iii) log 36582 = 4.563267445\n(iv) log 826.3 = 2.917137753\n(v) log 0.00851 = -2.07007044\n(vi) log 0.000097 = -4.013228266"
+              },
+              {
+                "q": "Find the value of x from the following, using calculator.\n(i) log x = 1.7505 (ii) log x = 0.6609 (iii) log x = 1̅.6132\n(iv) log x = 3.4800 (v) log x = 7̅.0038 (vi) log x = 0.2665",
+                "a": "(i) log x = 1.7505\nx = antilog 1.7505\nx = 56.2989\n(ii) log x = 0.6609\nx = antilog 0.6609\nx = 4.5804\n(iii) log x = 1̅.6132\nx = antilog 1̅.6132\nx = 0.4105\n(iv) log x = 3.4800\nx = antilog 3.4800\nx = 3019.95\n(v) log x = 7̅.0038\nx = antilog 7̅.0038\nx = 0.0000001009\n(vi) log x = 0.2665\nx = antilog 0.2665\nx = 1.8471"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 2.5",
+            "items": [
+              {
+                "q": "Express the following logarithm in terms of log_a x, log_a y and log_a z.\n(i) log_a (xyz) (ii) log_a (x^2 y) (iii) log_a [[xy/z]]\n(iv) log_a √(xy) (v) log_a [[1/√(xyz)]] (vi) log_a [[x^3 y/z^2]]\n(vii) log_a √(x y^2 z) (viii) log_a (∛(x^-1√(y^3)) ÷ √(y^3√x))\n(xi) log_a [[x√(y^3)/∛(z^2 x^5)]]",
+                "a": "(i) log_a (xyz) = log_a x + log_a y + log_a z\n(ii) log_a (x^2 y) = log_a x^2 + log_a y\n= 2 log_a x + log_a y\n(iii) log_a [[xy/z]] = log_a (xy) - log_a z\n= log_a x + log_a y - log_a z\n(iv) log_a √(xy) = [[1/2]] log_a (xy)\n= [[1/2]] log_a x + [[1/2]] log_a y\n(v) log_a [[1/√(xyz)]] = -[[1/2]] log_a (xyz)\n= -[[1/2]] log_a x - [[1/2]] log_a y - [[1/2]] log_a z\n(vi) log_a [[x^3 y/z^2]] = log_a (x^3 y) - log_a z^2\n= 3 log_a x + log_a y - 2 log_a z\n(vii) log_a √(x y^2 z) = [[1/2]] log_a (x y^2 z)\n= [[1/2]] log_a x + log_a y + [[1/2]] log_a z\n(viii) log_a (∛(x^-1√(y^3)) ÷ √(y^3√x)) = [[1/3]] log_a (x^-1 y^[[3/2]]) - [[1/2]] log_a (y^3 x^[[1/2]])\n= -[[1/3]] log_a x + [[1/2]] log_a y - [[3/2]] log_a y - [[1/4]] log_a x\n= -[[7/12]] log_a x - log_a y\n(xi) log_a [[x√(y^3)/∛(z^2 x^5)]] = log_a (x y^[[3/2]]) - log_a (z^[[2/3]] x^[[5/3]])\n= log_a x + [[3/2]] log_a y - [[2/3]] log_a z - [[5/3]] log_a x\n= -[[2/3]] log_a x + [[3/2]] log_a y - [[2/3]] log_a z"
+              },
+              {
+                "q": "Reduce each of the following into a single term.\n(i) log_a 20 - log_a 15 + [[1/2]] log_a [[9/2]]\n(ii) [[1/3]] log_a (x-1)^3 + [[10/9]] log_a (x+1) - [[1/9]] log_a (x+1)\n(iii) log x - 2 log x + 3 log(x+1) - log(x^2-1)",
+                "a": "(i) log_a 20 - log_a 15 + [[1/2]] log_a [[9/2]] = log_a [[20/15]] + log_a ([[9/2]])^[[1/2]]\n= log_a [[4/3]] + log_a [[3/√2]]\n= log_a (2√2)\n(ii) [[1/3]] log_a (x-1)^3 + [[10/9]] log_a (x+1) - [[1/9]] log_a (x+1) = log_a (x-1) + [[10/9]] log_a (x+1) - [[1/9]] log_a (x+1)\n= log_a (x-1) + log_a (x+1)\n= log_a (x^2 - 1)\n(iii) log x - 2 log x + 3 log(x+1) - log(x^2-1) = -log x + 3 log(x+1) - log(x-1) - log(x+1)\n= -log x + 2 log(x+1) - log(x-1)\n= log [[(x+1)^2/(x(x-1))]]"
+              },
+              {
+                "q": "If log 2 = 0.3010, log 3 = 0.4771 and log 5 = 0.6990, then find the values of the following without using table.\n(i) log 15 (ii) log 64 (iii) log √(5 × 2) (iv) log 48\n(v) log √18 (vi) log 30 (vii) log [[8/3]] (viii) log [[5/√3]]",
+                "a": "(i) log 15 = log 3 + log 5\n= 0.4771 + 0.6990\n= 1.1761\n(ii) log 64 = 6 log 2\n= 6(0.3010)\n= 1.8060\n(iii) log √(5 × 2) = [[1/2]] (log 5 + log 2)\n= [[1/2]] (0.6990 + 0.3010)\n= [[1/2]] (1.0000)\n= 0.5\n(iv) log 48 = 4 log 2 + log 3\n= 4(0.3010) + 0.4771\n= 1.2040 + 0.4771\n= 1.6811\n(v) log √18 = [[1/2]] (log 2 + 2 log 3)\n= [[1/2]] (0.3010 + 0.9542)\n= [[1/2]] (1.2552)\n= 0.6276\n(vi) log 30 = log 2 + log 3 + log 5\n= 0.3010 + 0.4771 + 0.6990\n= 1.4771\n(vii) log [[8/3]] = 3 log 2 - log 3\n= 0.9030 - 0.4771\n= 0.4259\n(viii) log [[5/√3]] = log 5 - [[1/2]] log 3\n= 0.6990 - 0.2386\n= 0.4604"
+              },
+              {
+                "q": "Prove the following:\n(i) log_b m × log_m a = log_b a (ii) log_a b × log_c a = log_c b\n(iii) log_b a · log_c b · [[1/log_c a]] = 1 (iv) log_a b = [[1/log_b a]]",
+                "a": "(i) log_b m × log_m a = [[log m/log b]] × [[log a/log m]]\n= [[log a/log b]]\n= log_b a\n(ii) log_a b × log_c a = [[log b/log a]] × [[log a/log c]]\n= [[log b/log c]]\n= log_c b\n(iii) log_b a × log_c b × [[1/log_c a]] = [[log a/log b]] × [[log b/log c]] × [[log c/log a]]\n= 1\n(iv) log_a b = [[log b/log a]]\n[[1/log_b a]] = 1 ÷ [[log a/log b]]\n= [[log b/log a]]\nlog_a b = [[1/log_b a]]"
+              },
+              {
+                "q": "Verify the following:\n(i) log₅ 7 × log₇ 25 = 2 (ii) log₃ 2 × log₂ 81 = 4\n(iii) log₅ 343 × log₇ 25 = 6 (iv) log₆ 16 × log₂ 216 = 12",
+                "a": "(i) log₅ 7 × log₇ 25 = [[log 7/log 5]] × [[log 25/log 7]]\n= [[log 25/log 5]]\n= log₅ 25\n= 2\n(ii) log₃ 2 × log₂ 81 = [[log 2/log 3]] × [[log 81/log 2]]\n= [[log 81/log 3]]\n= log₃ 81\n= 4\n(iii) log₅ 343 × log₇ 25 = [[log 343/log 5]] × [[log 25/log 7]]\n= [[3 log 7/log 5]] × [[2 log 5/log 7]]\n= 6\n(iv) log₆ 16 × log₂ 216 = [[log 16/log 6]] × [[log 216/log 2]]\n= [[4 log 2/log 6]] × [[log 216/log 2]]\n= [[4 log 216/log 6]]\n= 4 log₆ 216\n= 4 × 3\n= 12"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 2.6",
+            "items": [
+              {
+                "q": "Find the values of the following by using logarithms.\n(i) 57.86 × 4.385 (ii) 25.753 × 0.5341 × 490.8\n(iii) [[25.753/0.5341]] (iv) [[(790.6 × 30.32)/25.753]]\n(v) [[99.87/((8.369) × (0.785))]] (vi) ⁵√2.709 × ⁷√1.239\n(vii) (26.62)^[[1/2]] × (87.19)^3 ÷ √69.53 (viii) (4308)^3 × √80.06 ÷ (0.3387)^3",
+                "a": "(i) x = 57.86 × 4.385\nlog x = log 57.86 + log 4.385\nlog 57.86 = 1.7623\nlog 4.385 = 0.6420\nlog x = 1.7623 + 0.6420\nlog x = 2.4043\nx = antilog 2.4043\nx = 253.688\n(ii) x = 25.753 × 0.5341 × 490.8\nlog x = log 25.753 + log 0.5341 + log 490.8\nlog 25.753 = 1.4108\nlog 0.5341 = 1̅.7276\nlog 490.8 = 2.6909\nlog x = 1.4108 - 0.2724 + 2.6909\nlog x = 3.8293\nx = antilog 3.8293\nx = 6750\n(iii) x = [[25.753/0.5341]]\nlog x = log 25.753 - log 0.5341\nlog 25.753 = 1.4108\nlog 0.5341 = 1̅.7276\nlog x = 1.4108 + 0.2724\nlog x = 1.6832\nx = antilog 1.6832\nx = 48.2176\n(iv) x = [[(790.6 × 30.32)/25.753]]\nlog x = log 790.6 + log 30.32 - log 25.753\nlog 790.6 = 2.8979\nlog 30.32 = 1.4817\nlog 25.753 = 1.4108\nlog x = 2.8979 + 1.4817 - 1.4108\nlog x = 2.9688\nx = antilog 2.9688\nx = 930.80\n(v) x = [[99.87/((8.369) × (0.785))]]\nlog x = log 99.87 - log 8.369 - log 0.785\nlog 99.87 = 1.9994\nlog 8.369 = 0.9227\nlog 0.785 = 1̅.8949\nlog x = 1.9994 - 0.9227 + 0.1051\nlog x = 1.1818\nx = antilog 1.1818\nx = 15.20\n(vi) x = ⁵√2.709 × ⁷√1.239\nlog x = [[1/5]] log 2.709 + [[1/7]] log 1.239\nlog 2.709 = 0.4328\nlog 1.239 = 0.0930\nlog x = [[1/5]] (0.4328) + [[1/7]] (0.0930)\n= 0.0866 + 0.0133\nlog x = 0.0999\nx = antilog 0.0999\nx = 1.2585\n(vii) x = (26.62)^[[1/2]] × (87.19)^3 ÷ √69.53\nlog x = [[1/2]] log 26.62 + 3 log 87.19 - [[1/2]] log 69.53\nlog 26.62 = 1.4252\nlog 87.19 = 1.9404\nlog 69.53 = 1.8422\nlog x = [[1/2]] (1.4252) + 3(1.9404) - [[1/2]] (1.8422)\n= 0.7126 + 5.8212 - 0.9211\nlog x = 5.6127\nx = antilog 5.6127\nx = 410130\n(viii) x = (4308)^3 × √80.06 ÷ (0.3387)^3\nlog x = 3 log 4308 + [[1/2]] log 80.06 - 3 log 0.3387\nlog 4308 = 3.6343\nlog 80.06 = 1.9034\nlog 0.3387 = 1̅.5298\nlog x = 3(3.6343) + [[1/2]] (1.9034) - 3(-0.4702)\n= 10.9029 + 0.9517 + 1.4106\nlog x = 13.2652\nx = antilog 13.2652\nx = 1.84077 × 10^13"
+              },
+              {
+                "q": "Find the number of digits in the following.\n(i) 4^12 (ii) 7^25 (iii) 3^30 (iv) 5^20 (v) 9^30",
+                "a": "(i) n = 4^12\nlog n = 12 log 4\nlog 4 = 0.6021\nlog n = 12(0.6021)\nlog n = 7.2252\nDigits = 7 + 1\nDigits = 8\n(ii) n = 7^25\nlog n = 25 log 7\nlog 7 = 0.8451\nlog n = 25(0.8451)\nlog n = 21.1275\nDigits = 21 + 1\nDigits = 22\n(iii) n = 3^30\nlog n = 30 log 3\nlog 3 = 0.4771\nlog n = 30(0.4771)\nlog n = 14.3130\nDigits = 14 + 1\nDigits = 15\n(iv) n = 5^20\nlog n = 20 log 5\nlog 5 = 0.6990\nlog n = 20(0.6990)\nlog n = 13.9800\nDigits = 13 + 1\nDigits = 14\n(v) n = 9^30\nlog n = 30 log 9\nlog 9 = 0.9542\nlog n = 30(0.9542)\nlog n = 28.6260\nDigits = 28 + 1\nDigits = 29"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "Read the following sentences carefully and encircle “T” in case of True and “F” in case of False statement.\n(i) 0.025 can be written in scientific notation as 2.5 × 10^3\n(ii) Logarithm was invented by Al-Beruni.\n(iii) Integral part in the logarithm of a number is called its characteristic.\n(iv) Mantissa in the logarithm of a number can be negative.\n(v) log_a x = y ⇔ a^y = x.",
+                "a": "(i) False\n(ii) False\n(iii) True\n(iv) False\n(v) True"
+              },
+              {
+                "q": "Fill in the blanks.\n(i) Logarithms having base 10 is called ____.\n(ii) Log 1 = ____.\n(iii) Fractional part of logarithm is called ____.\n(iv) log₂ 512 = ____.\n(v) log_a m × log_m n = ____.\n(vi) The exponential form of x = log_a y is ____.\n(vii) The logarithmic form of a^10 = y is ____.\n(viii) log_b a × log_a b = ____.\n(ix) log_a [[m/n]] = ____.\n(x) log(10 × 10) = ____.\n(xi) If b > 0 then log_b 1 = ____.\n(xii) Suppose log_b x = 5̅.2374 then its characteristic is ____.",
+                "a": "(i) Common logarithm\n(ii) 0\n(iii) Mantissa\n(iv) 9\n(v) log_a n\n(vi) a^x = y\n(vii) log_a y = 10\n(viii) 1\n(ix) log_a m - log_a n\n(x) 2\n(xi) 0\n(xii) 5̅"
+              },
+              {
+                "q": "Tick (✓) the correct answers.\n(i) If log₁₀ x = 4, then x = ____.\n(a) 500 (b) 100 (c) 1000 (d) 10000\n(ii) The characteristic of log 54.58 is ____.\n(a) 0 (b) 1 (c) 2 (d) 4\n(iii) The base of common logarithm is ____.\n(a) 5 (b) 10 (c) e (d) 100\n(iv) log xyz = ____.\n(a) log x log y log z (b) log x + log y + log z (c) log(xy)^z (d) log x - log y - log z\n(v) Scientific notation of 0.00789 is ____.\n(a) 7.89 × 10^-3 (b) 7.89 × 10^3 (c) 0.789 × 10^-2 (d) 78.9 × 10^-4\n(vi) If log x = 2 then x = ____.\n(a) 200 (b) 1000 (c) 100 (d) [[2/10]]\n(vii) If log₂ 8 = x then x = ____.\n(a) 64 (b) 3^2 (c) 3 (d) 2^8\n(viii) Base in the Natural logarithm is ____.\n(a) 10 (b) e (c) π (d) 5\n(ix) 3^5 = 243, can be written in logarithmic form as ____.\n(a) log₃ 5 = 243 (b) log₃ 243 = 5 (c) log₅ 243 = 12 (d) log₅ 3 = 243\n(x) If b > 0 and b ≠ 1 then log_b √b = ____.\n(a) 0 (b) 1 (c) [[1/2]] (d) 2",
+                "a": "(i) (d) 10000\n(ii) (b) 1\n(iii) (b) 10\n(iv) (b) log x + log y + log z\n(v) (a) 7.89 × 10^-3\n(vi) (c) 100\n(vii) (c) 3\n(viii) (b) e\n(ix) (b) log₃ 243 = 5\n(x) (c) [[1/2]]"
+              }
+            ]
+          }
+        ],
+        "display": "Logarithms"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) Polynomial\n(ii) Not a polynomial\n(iii) Polynomial\n(iv) Not a polynomial\n(v) Not a polynomial\n(vi) Not a polynomial",
+                "q": "Examine whether the following algebraic expressions are polynomials or not.\n(i) 2xy^2 - 3x^2 + 5y^3 - 6 (ii) 3xy^-2\n(iii) 6x^2 - 10x + 7 - √45 (iv) 5√x - x + 5x^2\n(v) [[2/(x+2)]] (vi) [[2/x]] + x^3 - 2"
+              },
+              {
+                "a": "(i) Rational\n(ii) Not a rational\n(iii) Rational\n(iv) Not a rational\n(v) Rational\n(vi) Not a rational",
+                "q": "Examine whether the following algebraic expressions are rational or not\n(i) [[(x^2+2x+3)/(x-4)]] (ii) [[(x^2+5√x-2x)/(3x^2+5x+4)]] (iii) [[(13x^2-9x+4)/(x^2+5x+√7)]]\n(iv) [[(√x-√y)/(√x+√y)]] (v) [[7/(x+7)]] (vi) 5√x - x + 5x^2"
+              },
+              {
+                "a": "(i) [[(p^2-100)/(p+10)]]\n= [[((p-10)(p+10))/(p+10)]]\n= p - 10\n(ii) [[(3a^2+3ab)/(3a^2+6ab+3b^2)]]\n= [[(3a(a+b))/(3(a+b)^2)]]\n= [[a/(a+b)]]\n(iii) [[(a-b)/(a+b)]] × [[(a^2+ab)/(2a^2-2b^2)]]\n= [[(a-b)/(a+b)]] × [[(a(a+b))/(2(a-b)(a+b))]]\n= [[a/(2(a+b))]]\n(iv) [[((x+y)^2-z^2)/(x+y+z)]]\n= [[((x+y-z)(x+y+z))/(x+y+z)]]\n= x + y - z\n(v) [[((m^2-6m)(3m+15))/(2m-12)]]\n= [[(m(m-6) × 3(m+5))/(2(m-6))]]\n= [[(3m(m+5))/2]]\n(vi) [[(x^2-2x-3)/(x^2-x-2)]]\n= [[((x-3)(x+1))/((x-2)(x+1))]]\n= [[(x-3)/(x-2)]]",
+                "q": "Reduce the following into their lowest form.\n(i) [[(p^2-100)/(p+10)]] (ii) [[(3a^2+3ab)/(3a^2+6ab+3b^2)]] (iii) [[(a-b)/(a+b)]] × [[(a^2+ab)/(2a^2-2b^2)]]\n(iv) [[((x+y)^2-z^2)/(x+y+z)]] (v) [[((m^2-6m)(3m+15))/(2m-12)]] (vi) [[(x^2-2x-3)/(x^2-x-2)]]"
+              },
+              {
+                "a": "(i) [[(4x-1)/(2x-2)]] + [[(4x+1)/(2x+2)]]\n= [[(4x-1)/(2(x-1))]] + [[(4x+1)/(2(x+1))]]\n= [[((4x-1)(x+1) + (4x+1)(x-1))/(2(x-1)(x+1))]]\n= [[((4x^2+3x-1) + (4x^2-3x-1))/(2(x^2-1))]]\n= [[(8x^2-2)/(2(x^2-1))]]\n= [[(4x^2-1)/(x^2-1)]]\n(ii) [[1/(x+2)]] + [[2/(x+3)]]\n= [[((x+3) + 2(x+2))/((x+2)(x+3))]]\n= [[(3x+7)/((x+2)(x+3))]]\n(iii) [[xy/(xy+1)]] + [[(xy+1)/(xy-1)]]\n= [[(xy(xy-1) + (xy+1)^2)/((xy+1)(xy-1))]]\n= [[((x^2y^2-xy) + (x^2y^2+2xy+1))/((xy+1)(xy-1))]]\n= [[(2x^2y^2+xy+1)/((xy+1)(xy-1))]]\n(iv) [[(x-2)/(x+3)]] - [[(x+1)/(x+6)]]\n= [[((x-2)(x+6) - (x+1)(x+3))/((x+3)(x+6))]]\n= [[((x^2+4x-12) - (x^2+4x+3))/((x+3)(x+6))]]\n= [[-15/((x+3)(x+6))]]\n(v) [[1/(a+b)]] - [[1/(a-b)]]\n= [[((a-b) - (a+b))/((a+b)(a-b))]]\n= [[(-2b)/(a^2-b^2)]]\n(vi) [[4y/(y^2-1)]] - [[(y+1)/(y-1)]]\n= [[4y/((y-1)(y+1))]] - [[(y+1)/(y-1)]]\n= [[(4y - (y+1)^2)/((y-1)(y+1))]]\n= [[((4y - y^2-2y-1))/((y-1)(y+1))]]\n= [[(-(y-1)^2)/((y-1)(y+1))]]\n= [[-(y-1)/(y+1)]]",
+                "q": "Simplify:\n(i) [[(4x-1)/(2x-2)]] + [[(4x+1)/(2x+2)]] (ii) [[1/(x+2)]] + [[2/(x+3)]] (iii) [[xy/(xy+1)]] + [[(xy+1)/(xy-1)]]\n(iv) [[(x-2)/(x+3)]] - [[(x+1)/(x+6)]] (v) [[1/(a+b)]] - [[1/(a-b)]] (vi) [[4y/(y^2-1)]] - [[(y+1)/(y-1)]]"
+              },
+              {
+                "a": "(i) ([[x^2/(4y^2-x^2)]] + 1) ÷ (1 - [[x/(2y)]])\n= [[(x^2+4y^2-x^2)/(4y^2-x^2)]] ÷ [[(2y-x)/(2y)]]\n= [[4y^2/((2y-x)(2y+x))]] ÷ [[(2y-x)/(2y)]]\n= [[4y^2/((2y-x)(2y+x))]] × [[2y/(2y-x)]]\n= [[8y^3/((2y-x)^2(2y+x))]]\n(ii) [[(x+3)/(3y-2x)]] × [[(4x^2-9y^2)/(xy+3y)]]\n= [[(x+3)/(3y-2x)]] × [[((2x-3y)(2x+3y))/(y(x+3))]]\n= [[(x+3)/(3y-2x)]] × [[(-(3y-2x)(2x+3y))/(y(x+3))]]\n= [[-(2x+3y)/y]]\n(iii) ([[(x^2-1)/(x^2+2x+1)]] × [[(x+1)/(x-1)]])\n= [[((x-1)(x+1))/(x+1)^2]] × [[(x+1)/(x-1)]]\n= 1\n(iv) [[8(y+3)/9]] × [[12(y+1)/(4(y+3))]] ÷ [[8(y+1)/5]]\n= [[8(y+3)/9]] × [[12(y+1)/(4(y+3))]] × [[5/(8(y+1))]]\n= [[480/288]]\n= [[5/3]]\n(v) [[(q^2-25)/(q^2-3q)]] ÷ [[(q^2+5q)/(q^2-9)]]\n= [[((q-5)(q+5))/(q(q-3))]] × [[(q^2-9)/(q^2+5q)]]\n= [[((q-5)(q+5))/(q(q-3))]] × [[((q-3)(q+3))/(q(q+5))]]\n= [[((q-5)(q+3))/q^2]]\n(vi) [[4/(z^2-4z-5)]] ÷ [[2/(4z^2-4)]]\n= [[4/((z-5)(z+1))]] × [[(4z^2-4)/2]]\n= [[4/((z-5)(z+1))]] × [[(4(z-1)(z+1))/2]]\n= [[(8(z-1))/(z-5)]]",
+                "q": "Simplify into lowest form.\n(i) ([[x^2/(4y^2-x^2)]] + 1) ÷ (1 - [[x/(2y)]]) (ii) [[(x+3)/(3y-2x)]] × [[(4x^2-9y^2)/(xy+3y)]]\n(iii) ([[(x^2-1)/(x^2+2x+1)]] × [[(x+1)/(x-1)]]) (iv) [[8(y+3)/9]] × [[12(y+1)/(4(y+3))]] ÷ [[8(y+1)/5]]\n(v) [[(q^2-25)/(q^2-3q)]] ÷ [[(q^2+5q)/(q^2-9)]] (vi) [[4/(z^2-4z-5)]] ÷ [[2/(4z^2-4)]]"
+              },
+              {
+                "a": "t = [[(x-y)/(x+y)]]\n[[1/t]] = [[(x+y)/(x-y)]]\nt + [[1/t]] = [[(x-y)/(x+y)]] + [[(x+y)/(x-y)]]\n= [[((x-y)^2+(x+y)^2)/((x+y)(x-y))]]\n= [[(2x^2+2y^2)/(x^2-y^2)]]\n= [[(2(x^2+y^2))/(x^2-y^2)]]",
+                "q": "Find the value of t + [[1/t]], when t = [[(x-y)/(x+y)]]"
+              },
+              {
+                "a": "(i) [[(5(x+y))/(3x^2√y+6)]]\nx = -4, y = 9\n= [[(5(-4+9))/(3(-4)^2√9+6)]]\n= [[25/(3×16×3+6)]]\n= [[25/150]]\n= [[1/6]]\n(ii) [[(42ab^2c^3)/(3a^2b+1)]]\na = 3, b = 2, c = 1\n= [[(42×3×2^2×1^3)/(3×3^2×2+1)]]\n= [[504/55]]\n= 9[[9/55]]\n(iii) [[((x+y)^3-z^2)/(x^2y^2+z^2)]]\nx = 2, y = -4, z = 3\n= [[((2-4)^3-3^2)/(2^2×(-4)^2+3^2)]]\n= [[(-8-9)/(64+9)]]\n= [[-17/73]]\n(iv) [[3x^2y/z]] - [[bc/(x+1)]]\nx = 2, y = -1, z = 3, b = 4, c = [[1/3]]\n= [[(3×2^2×(-1))/3]] - ([[4/3]] ÷ 3)\n= -4 - [[4/9]]\n= -4[[4/9]]\n(v) [[(ab^2-c)/(a+cd^2)]] × [[(c+d)/(a^2b-d)]]\na = 1, b = 3, c = -3, d = 2\n= [[((1×3^2-(-3)))/(1+(-3)×2^2)]] × [[((-3+2))/((1^2×3-2))]]\n= [[12/(-11)]] × [[(-1)/1]]\n= [[12/11]]\n= 1[[1/11]]",
+                "q": "Find the values of\n(i) [[(5(x+y))/(3x^2√y+6)]], if x = -4, y = 9 (ii) [[(42ab^2c^3)/(3a^2b+1)]], if a = 3, b = 2 and c = 1\n(iii) [[((x+y)^3-z^2)/(x^2y^2+z^2)]], if x = 2, y = -4 and z = 3\n(iv) [[3x^2y/z]] - [[bc/(x+1)]], if x = 2, y = -1, z = 3, b = 4, c = [[1/3]]\n(v) [[(ab^2-c)/(a+cd^2)]] × [[(c+d)/(a^2b-d)]], if a = 1, b = 3, c = -3 and d = 2"
+              }
+            ],
+            "label": "Exercise 3.1"
+          },
+          {
+            "items": [
+              {
+                "a": "a + b = 8, a - b = 6\n(a + b)^2 + (a - b)^2 = 2(a^2 + b^2)\n(8)^2 + (6)^2 = 2(a^2 + b^2)\n64 + 36 = 2(a^2 + b^2)\n100 = 2(a^2 + b^2)\na^2 + b^2 = 50\n(a + b)^2 - (a - b)^2 = 4ab\n(8)^2 - (6)^2 = 4ab\n64 - 36 = 4ab\n28 = 4ab\nab = 7",
+                "q": "Find the value of a^2 + b^2 and ab, when a + b = 8 and a - b = 6."
+              },
+              {
+                "a": "a + b = 5, a - b = 3\n(a + b)^2 + (a - b)^2 = 2(a^2 + b^2)\n(5)^2 + (3)^2 = 2(a^2 + b^2)\n25 + 9 = 2(a^2 + b^2)\n34 = 2(a^2 + b^2)\na^2 + b^2 = 17\n(a + b)^2 - (a - b)^2 = 4ab\n(5)^2 - (3)^2 = 4ab\n25 - 9 = 4ab\n16 = 4ab\nab = 4",
+                "q": "Find the value of a^2 + b^2 and ab, when a + b = 5 and a - b = 3."
+              },
+              {
+                "a": "a + b + c = 9, ab + bc + ac = 13\n(a + b + c)^2 = a^2 + b^2 + c^2 + 2(ab + bc + ac)\n(9)^2 = a^2 + b^2 + c^2 + 2(13)\n81 = a^2 + b^2 + c^2 + 26\na^2 + b^2 + c^2 = 55",
+                "q": "Find the value of a^2 + b^2 + c^2, when a + b + c = 9 and ab + bc + ac = 13."
+              },
+              {
+                "a": "a + b + c = [[1/3]], ab + bc + ac = [[-2/9]]\n(a + b + c)^2 = a^2 + b^2 + c^2 + 2(ab + bc + ac)\n([[1/3]])^2 = a^2 + b^2 + c^2 + 2([[-2/9]])\n[[1/9]] = a^2 + b^2 + c^2 - [[4/9]]\na^2 + b^2 + c^2 = [[5/9]]",
+                "q": "Find the value of a^2 + b^2 + c^2, when a + b + c = [[1/3]] and ab + bc + ac = [[-2/9]]."
+              },
+              {
+                "a": "a^2 + b^2 + c^2 = 29, ab + bc + ac = 10\n(a + b + c)^2 = a^2 + b^2 + c^2 + 2(ab + bc + ac)\n(a + b + c)^2 = 29 + 2(10)\n(a + b + c)^2 = 49\na + b + c = ±7",
+                "q": "Find the value of a + b + c, when a^2 + b^2 + c^2 = 29 and ab + bc + ac = 10."
+              },
+              {
+                "a": "a^2 + b^2 + c^2 = 0.9, ab + bc + ac = 0.8\n(a + b + c)^2 = a^2 + b^2 + c^2 + 2(ab + bc + ac)\n(a + b + c)^2 = 0.9 + 2(0.8)\n(a + b + c)^2 = 2.5\na + b + c = ±√2.5",
+                "q": "Find the value of a + b + c, when a^2 + b^2 + c^2 = 0.9 and ab + bc + ac = 0.8."
+              },
+              {
+                "a": "a + b + c = 10, a^2 + b^2 + c^2 = 20\n(a + b + c)^2 = a^2 + b^2 + c^2 + 2(ab + bc + ac)\n(10)^2 = 20 + 2(ab + bc + ac)\n100 - 20 = 2(ab + bc + ac)\nab + bc + ac = 40",
+                "q": "Find the value of ab + bc + ac, when a + b + c = 10 and a^2 + b^2 + c^2 = 20."
+              },
+              {
+                "a": "a + b = 4, ab = 3\n(a + b)^3 = a^3 + b^3 + 3ab(a + b)\n(4)^3 = a^3 + b^3 + 3(3)(4)\n64 = a^3 + b^3 + 36\na^3 + b^3 = 28",
+                "q": "Find the value of a^3 + b^3, when a + b = 4 and ab = 3."
+              },
+              {
+                "a": "a^3 - b^3 = 5, a - b = 5\n(a - b)^3 = a^3 - b^3 - 3ab(a - b)\n(5)^3 = 5 - 3ab(5)\n125 = 5 - 15ab\n120 = -15ab\nab = -8",
+                "q": "Find the value of ab, when a^3 - b^3 = 5 and a - b = 5."
+              },
+              {
+                "a": "a^3 - b^3 = 16, a - b = 4\n(a - b)^3 = a^3 - b^3 - 3ab(a - b)\n(4)^3 = 16 - 3ab(4)\n64 = 16 - 12ab\n48 = -12ab\nab = -4",
+                "q": "Find the value of ab, when a^3 - b^3 = 16 and a - b = 4."
+              },
+              {
+                "a": "a - b = 5, ab = 7\n(a - b)^3 = a^3 - b^3 - 3ab(a - b)\n(5)^3 = a^3 - b^3 - 3(7)(5)\n125 = a^3 - b^3 - 105\na^3 - b^3 = 230",
+                "q": "Find the value of a^3 - b^3, when a - b = 5 and ab = 7."
+              },
+              {
+                "a": "5x + y = 13, xy = 10\n(5x + y)^3 = 125x^3 + y^3 + 3(5x)(y)(5x + y)\n(13)^3 = 125x^3 + y^3 + 15xy(13)\n2197 = 125x^3 + y^3 + 15(10)(13)\n2197 = 125x^3 + y^3 + 1950\n125x^3 + y^3 = 247",
+                "q": "Find the value of 125x^3 + y^3 when 5x + y = 13 and xy = 10."
+              },
+              {
+                "a": "6a - 7b = 11, ab = 8\n(6a - 7b)^3 = 216a^3 - 343b^3 - 3(6a)(7b)(6a - 7b)\n(11)^3 = 216a^3 - 343b^3 - 126ab(11)\n1331 = 216a^3 - 343b^3 - 126(8)(11)\n1331 = 216a^3 - 343b^3 - 11088\n216a^3 - 343b^3 = 12419",
+                "q": "Find the value of 216a^3 - 343b^3, when 6a - 7b = 11 and ab = 8."
+              },
+              {
+                "a": "x + [[1/x]] = 7\n(x + [[1/x]])^3 = (7)^3\nx^3 + [[1/x^3]] + 3(x + [[1/x]]) = 343\nx^3 + [[1/x^3]] + 3(7) = 343\nx^3 + [[1/x^3]] = 322",
+                "q": "Find the value of x^3 + [[1/x^3]], when x + [[1/x]] = 7."
+              },
+              {
+                "a": "x - [[1/x]] = 11\n(x - [[1/x]])^3 = (11)^3\nx^3 - [[1/x^3]] - 3(x - [[1/x]]) = 1331\nx^3 - [[1/x^3]] - 3(11) = 1331\nx^3 - [[1/x^3]] = 1364",
+                "q": "Find the value of x^3 - [[1/x^3]], when x - [[1/x]] = 11."
+              },
+              {
+                "a": "(i) ([[3/2]]b + [[2/(3b)]])([[(9b^2)/4]] + [[4/(9b^2)]] - 1)\n= ([[3b/2]] + [[2/(3b)]])([[(3b/2)^2]] - [[3b/2]] × [[2/(3b)]] + [[(2/(3b))^2]])\n= ([[3b/2]])^3 + ([[2/(3b)]])^3\n= [[27b^3/8]] + [[8/(27b^3)]]\n(ii) ([[7y^2/9]] + [[9/(7y^2)]])([[49y^4/81]] + [[81/(49y^4)]] - 1)\n= ([[7y^2/9]] + [[9/(7y^2)]])([[(7y^2/9)^2]] - [[7y^2/9]] × [[9/(7y^2)]] + [[(9/(7y^2))^2]])\n= ([[7y^2/9]])^3 + ([[9/(7y^2)]])^3\n= [[343y^6/729]] + [[729/(343y^6)]]\n(iii) ([[x^4/12]] - [[12/x^4]])([[x^8/144]] + [[144/x^8]] + 1)\n= ([[x^4/12]] - [[12/x^4]])([[(x^4/12)^2]] + [[x^4/12]] × [[12/x^4]] + [[(12/x^4)^2]])\n= ([[x^4/12]])^3 - ([[12/x^4]])^3\n= [[x^12/1728]] - [[1728/x^12]]\n(iv) (c^2 - [[1/c^2]])(c^4 + [[1/c^4]] + 1)\n= (c^2 - [[1/c^2]])((c^2)^2 + c^2 × [[1/c^2]] + ([[1/c^2]])^2)\n= (c^2)^3 - ([[1/c^2]])^3\n= c^6 - [[1/c^6]]",
+                "q": "Find product of\n(i) ([[3/2]]b + [[2/(3b)]])([[(9b^2)/4]] + [[4/(9b^2)]] - 1) (ii) ([[7y^2/9]] + [[9/(7y^2)]])([[49y^4/81]] + [[81/(49y^4)]] - 1)\n(iii) ([[x^4/12]] + [[12/x^4]])([[x^8/144]] + [[144/x^8]] + 1) (iv) (c^2 - [[1/c^2]])(c^4 + [[1/c^4]] + 1)"
+              },
+              {
+                "a": "(i) (2x^2 + 3y^2)(4x^4 - 6x^2y^2 + 9y^4)\n= (2x^2 + 3y^2)((2x^2)^2 - (2x^2)(3y^2) + (3y^2)^2)\n= (2x^2)^3 + (3y^2)^3\n= 8x^6 + 27y^6\n(ii) (2x^2 - 3y^2)(4x^4 + 6x^2y^2 + 9y^4)\n= (2x^2 - 3y^2)((2x^2)^2 + (2x^2)(3y^2) + (3y^2)^2)\n= (2x^2)^3 - (3y^2)^3\n= 8x^6 - 27y^6\n(iii) (x - y)(x + y)(x^2 + y^2)(x^2 + xy + y^2)(x^2 - xy + y^2)(x^4 - x^2y^2 + y^4)\n= (x^3 - y^3)(x^3 + y^3)(x^6 + y^6)\n= (x^6 - y^6)(x^6 + y^6)\n= x^12 - y^12\n(iv) (2x + 3y)(2x - 3y)(4x^2 + 9y^2)(16x^4 + 81y^4)\n= (4x^2 - 9y^2)(4x^2 + 9y^2)(16x^4 + 81y^4)\n= (16x^4 - 81y^4)(16x^4 + 81y^4)\n= 256x^8 - 6561y^8",
+                "q": "Find the continued product by using the relevant formulas.\n(i) (2x^2 + 3y^2)(4x^4 - 6x^2y^2 + 9y^4)\n(ii) (2x^2 - 3y^2)(4x^4 + 6x^2y^2 + 9y^4)\n(iii) (x - y)(x + y)(x^2 + y^2)(x^2 + xy + y^2)(x^2 - xy + y^2)(x^4 - x^2y^2 + y^4)\n(iv) (2x + 3y)(2x - 3y)(4x^2 + 9y^2)(16x^4 + 81y^4)"
+              }
+            ],
+            "label": "Exercise 3.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) ⁴√(81x^-8z^4)\n= ⁴√81 × ⁴√(x^-8) × ⁴√(z^4)\n= 3 × [[1/x^2]] × z\n= [[3z/x^2]]\n(ii) ³√(256a^6b^12c^9)\n= ³√256 × ³√(a^6) × ³√(b^12) × ³√(c^9)\n= ³√(64 × 4) × a^2 × b^4 × c^3\n= 4 × ³√4 × a^2b^4c^3\n= 4³√4a^2b^4c^3\n(iii) ⁷√128\n= ⁷√(2^7)\n= 2\n(iv) √7776\n= √(1296 × 6)\n= 36√6\n(v) [[(³√((125)^2 × 8))/(√((2×32)^2))]]\n= [[(³√125000)/64]]\n= [[50/64]]\n= [[25/32]]\n(vi) [[(√21 × √28)/√121]]\n= [[√588/11]]\n= [[(14√3)/11]]\n(vii) √((216)^[[2/3]] × (125)^2 ÷ (0.04)^-3)\n= √((6^3)^[[2/3]] × 15625 ÷ 15625)\n= √(36 × 15625 ÷ 15625)\n= √36\n= 6\n(viii) [[(⁶√4 × ³√27 × √60)/(√180 × ³√0.25 × ⁴√9)]]\n= [[(⁶√4 × 3 × 2√15)/(6√5 × ³√0.25 × √3)]]\n= [[(6√15 × ⁶√4)/(6√15 × ³√0.25)]]\n= [[(⁶√4)/(³√0.25)]]\n= ³√2 ÷ ³√[[1/4]]\n= ³√8\n= 2",
+                "q": "Simplify\n(i) ⁴√(81x^-8z^4) (ii) ³√(256a^6b^12c^9) (iii) ⁷√128 (iv) √7776\n(v) [[(³√((125)^2 × 8))/(√((2×32)^2))]] (vi) [[(√21 × √28)/√121]] (vii) √((216)^[[2/3]] × (125)^2 ÷ (0.04)^-3)\n(viii) [[(⁶√4 × ³√27 × √60)/(√180 × ³√0.25 × ⁴√9)]]"
+              },
+              {
+                "a": "(i) 8 + 4√3\n(ii) 6√6 - 2√3\n(iii) 8√12 - √8\n(iv) 2 + √3",
+                "q": "Find the conjugate of\n(i) (8 - 4√3) (ii) (6√6 + 2√3) (iii) (8√12 + √8)\n(iv) (2 - √3)"
+              },
+              {
+                "a": "(i) (6√2 + 4√2 + 7√128)\n= 6√2 + 4√2 + 7 × 8√2\n= 6√2 + 4√2 + 56√2\n= 66√2\n(ii) √5 + √125 + 7√5\n= √5 + 5√5 + 7√5\n= 13√5\n(iii) (13 + 15√3) + (7 - 6√3)\n= 13 + 7 + 15√3 - 6√3\n= 20 + 9√3\n(iv) √250 + √490 + 3√10\n= 5√10 + 7√10 + 3√10\n= 15√10\n(v) √245 + √625 - √45\n= 7√5 + 25 - 3√5\n= 4√5 + 25\n(vi) 10√11 - √396 - 3√11\n= 10√11 - 6√11 - 3√11\n= √11\n(vii) √17(10√17 - 2√17)\n= √17 × 8√17\n= 8 × 17\n= 136\n(viii) [[3/2]](√18 + √32 - √50)\n= [[3/2]](3√2 + 4√2 - 5√2)\n= [[3/2]](2√2)\n= 3√2\n(ix) ([[√2/√3]] + [[1/√3]])([[√2/√3]] - [[1/√3]])\n= ([[√2/√3]])^2 - ([[1/√3]])^2\n= [[2/3]] - [[1/3]]\n= [[1/3]]\n(x) (√13 + √11)(√13 - √11)\n= (√13)^2 - (√11)^2\n= 13 - 11\n= 2\n(xi) (3√6 - 4√5)^2\n= (3√6)^2 - 2(3√6)(4√5) + (4√5)^2\n= 54 - 24√30 + 80\n= 134 - 24√30\n(xii) (2√3 + 3√2)^2\n= (2√3)^2 + 2(2√3)(3√2) + (3√2)^2\n= 12 + 12√6 + 18\n= 30 + 12√6",
+                "q": "Simplify\n(i) (6√2 + 4√2 + 7√128) (ii) √5 + √125 + 7√5\n(iii) (13 + 15√3) + (7 - 6√3) (iv) √250 + √490 + 3√10\n(v) √245 + √625 - √45 (vi) 10√11 - √396 - 3√11\n(vii) √17(10√17 - 2√17) (viii) [[3/2]](√18 + √32 - √50)\n(ix) ([[√2/√3]] + [[1/√3]])([[√2/√3]] - [[1/√3]]) (x) (√13 + √11)(√13 - √11)\n(xi) (3√6 - 4√5)^2 (xii) (2√3 + 3√2)^2"
+              }
+            ],
+            "label": "Exercise 3.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) [[1/(2+√3)]]\n= [[1/(2+√3)]] × [[(2-√3)/(2-√3)]]\n= [[(2-√3)/((2)^2-(√3)^2)]]\n= [[(2-√3)/(4-3)]]\n= 2 - √3\n(ii) [[1/(3+2√2)]]\n= [[1/(3+2√2)]] × [[(3-2√2)/(3-2√2)]]\n= [[(3-2√2)/((3)^2-(2√2)^2)]]\n= [[(3-2√2)/(9-8)]]\n= 3 - 2√2\n(iii) [[1/(4√3-5√2)]]\n= [[1/(4√3-5√2)]] × [[(4√3+5√2)/(4√3+5√2)]]\n= [[(4√3+5√2)/((4√3)^2-(5√2)^2)]]\n= [[(4√3+5√2)/(48-50)]]\n= [[(4√3+5√2)/(-2)]]\n= -[[(5√2+4√3)/2]]\n(iv) [[16/(2√3+√11)]]\n= [[16/(2√3+√11)]] × [[(2√3-√11)/(2√3-√11)]]\n= [[(16(2√3-√11))/((2√3)^2-(√11)^2)]]\n= [[(16(2√3-√11))/(12-11)]]\n= 16(2√3 - √11)\n(v) [[(9-√2)/(9+√2)]]\n= [[(9-√2)/(9+√2)]] × [[(9-√2)/(9-√2)]]\n= [[((9-√2)^2)/((9)^2-(√2)^2)]]\n= [[((81+2-18√2))/(81-2)]]\n= [[(83-18√2)/79]]\n(vi) [[(√13+3)/(√13-3)]]\n= [[(√13+3)/(√13-3)]] × [[(√13+3)/(√13+3)]]\n= [[((√13+3)^2)/((√13)^2-(3)^2)]]\n= [[((13+9+6√3))/(13-9)]]\n= [[(22+6√3)/4]]\n= [[(11+3√3)/2]]",
+                "q": "Rationalize the denominator of the following.\n(i) [[1/(2+√3)]] (ii) [[1/(3+2√2)]] (iii) [[1/(4√3-5√2)]]\n(iv) [[16/(2√3+√11)]] (v) [[(9-√2)/(9+√2)]] (vi) [[(√13+3)/(√13-3)]]"
+              },
+              {
+                "a": "(i) x = 8 - 3√7\n[[1/x]] = [[1/(8-3√7)]]\n= [[1/(8-3√7)]] × [[(8+3√7)/(8+3√7)]]\n= [[(8+3√7)/((8)^2-(3√7)^2)]]\n= [[(8+3√7)/(64-63)]]\n= 8 + 3√7\nx + [[1/x]] = 16\n(x + [[1/x]])^2 = 256\n(ii) [[1/x]] = 2√28 - 11\n[[1/x]] = 4√7 - 11\nx = [[1/(4√7-11)]]\n= [[1/(4√7-11)]] × [[(4√7+11)/(4√7+11)]]\n= [[(4√7+11)/((4√7)^2-(11)^2)]]\n= [[(4√7+11)/(112-121)]]\n= [[(4√7+11)/(-9)]]\n= -[[(4√7+11)/9]]\n(iii) x = 3 - 2√2\n[[1/x]] = [[1/(3-2√2)]]\n= [[1/(3-2√2)]] × [[(3+2√2)/(3+2√2)]]\n= [[(3+2√2)/((3)^2-(2√2)^2)]]\n= 3 + 2√2\nx + [[1/x]] = 6\nx - [[1/x]] = -4√2\nx^2 + [[1/x^2]] = (x + [[1/x]])^2 - 2\n= (6)^2 - 2\n= 34\nx^2 - [[1/x^2]] = (x + [[1/x]])(x - [[1/x]])\n= 6(-4√2)\n= -24√2\nx^4 + [[1/x^4]] = (x^2 + [[1/x^2]])^2 - 2\n= (34)^2 - 2\n= 1154",
+                "q": "(i) If x = 8 - 3√7, find the value of (x + [[1/x]])^2\n(ii) If [[1/x]] = 2√28 - 11, find the value of x.\n(iii) If x = 3 - 2√2 find the value of: x + [[1/x]], x - [[1/x]], x^2 + [[1/x^2]], x^2 - [[1/x^2]] and x^4 + [[1/x^4]]"
+              },
+              {
+                "a": "x = √5 + 2\n[[1/x]] = [[1/(√5+2)]]\n= [[1/(√5+2)]] × [[(√5-2)/(√5-2)]]\n= [[(√5-2)/((√5)^2-(2)^2)]]\n= √5 - 2\nx + [[1/x]] = 2√5\nx^2 + [[1/x^2]] = (x + [[1/x]])^2 - 2\n= (2√5)^2 - 2\n= 18\nx^4 + [[1/x^4]] = (x^2 + [[1/x^2]])^2 - 2\n= (18)^2 - 2\n= 322",
+                "q": "If x = √5 + 2, find the value of x^4 + [[1/x^4]]."
+              },
+              {
+                "a": "[[1/y]] = 2 + √3\ny = [[1/(2+√3)]]\n= [[1/(2+√3)]] × [[(2-√3)/(2-√3)]]\n= 2 - √3\ny + [[1/y]] = 4\ny^2 + [[1/y^2]] = (y + [[1/y]])^2 - 2\n= (4)^2 - 2\n= 14\ny^4 + [[1/y^4]] = (y^2 + [[1/y^2]])^2 - 2\n= (14)^2 - 2\n= 194",
+                "q": "If [[1/y]] = 2 + √3, find the value of y^4 + [[1/y^4]]."
+              },
+              {
+                "a": "[[1/z]] = 7 - 4√3\nz = [[1/(7-4√3)]]\n= [[1/(7-4√3)]] × [[(7+4√3)/(7+4√3)]]\n= [[(7+4√3)/((7)^2-(4√3)^2)]]\n= 7 + 4√3\nz^2 - z^-2 = (z + [[1/z]])(z - [[1/z]])\n= (7 + 4√3 + 7 - 4√3)(7 + 4√3 - 7 + 4√3)\n= (14)(8√3)\n= 112√3",
+                "q": "If [[1/z]] = 7 - 4√3, find the value of z^2 - z^-2."
+              }
+            ],
+            "label": "Exercise 3.4"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) (b) a rational expression\n(ii) (b) Binomial surd\n(iii) (a) Expression\n(iv) (a) 4\n(v) (a) Monomial surd\n(vi) (a) Rational expression\n(vii) (b) [[2y/(x^2-y^2)]]\n(viii) (a) 2 + √3\n(ix) (a) (a - b)^3\n(x) (a) 4\n(xi) (a) 10\n(xii) (b) (a + b + c)^2",
+                "q": "Encircle the correct answer.\n(i) Every polynomial is:\n(a) an irrational expression (b) a rational expression\n(c) a sentence (d) none of these\n(ii) A surd which contains sum of two monomial surds is called\n(a) Trinomial surd (b) Binomial surd\n(c) Conjugate surd (d) Monomial surd\n(iii) 3x + 2y - 3 is an algebraic\n(a) Expression (b) Equation\n(c) Sentence (d) In-equation\n(iv) The degree of the 3x^2y + 5y^4 - 10 is\n(a) 4 (b) 5 (c) 6 (d) 3\n(v) √7 is an example of\n(a) Monomial surd (b) Trinomial surd\n(c) Binomial surd (d) Conjugate surd\n(vi) Quotient [[(p(x))/(q(x))]] of two polynomials p(x) and q(x), where q(x) ≠ 0 is called\n(a) Rational expression (b) Irrational expression\n(c) Polynomial (d) Conjugate\n(vii) [[1/(x-y)]] - [[1/(x+y)]] is equal to\n(a) [[2x/(x^2-y^2)]] (b) [[2y/(x^2-y^2)]] (c) [[-2x/(x^2-y^2)]] (d) [[-2y/(x^2-y^2)]]\n(viii) Conjugate of 2 - √3 is\n(a) 2 + √3 (b) -2 - √3 (c) √2 + 3 (d) √3 - 4\n(ix) a^3 - 3ab(a - b) - b^3 is equal to\n(a) (a - b)^3 (b) (a + b)^3 (c) a^3 + b^3 (d) a^3 - b^3\n(x) If a + b = 5 and a - b = 3, then the value of ab is\n(a) 4 (b) 5 (c) 3 (d) 6\n(xi) (5 + √15)(5 - √15) is equal to\n(a) 10 (b) 15 (c) 25 (d) 30\n(xii) a^2 + b^2 + c^2 + 2ab + 2bc + 2ca is equal to\n(a) (a + b - c)^2 (b) (a + b + c)^2\n(c) (a - b + c)^2 (d) (a + b + c)^3"
+              },
+              {
+                "a": "(i) Highest power or exponent on the variable\n(ii) 2 + √3\n(iii) 4\n(iv) Irrational expression\n(v) x^4 - y^4",
+                "q": "Fill in the blanks.\n(i) Degree of any polynomial is ______.\n(ii) Conjugate of surd 2 - √3 is ______.\n(iii) Degree of polynomial 2x^3 + x^2 - 4x^4 + 7x - 9 is ______.\n(iv) [[√x/(3x+5)]] is a ______ expression.\n(v) (x - y)(x + y)(x^2 + y^2) = ______."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Algebraic Expression and Formulas",
+        "unit": 3,
+        "display": "Algebraic Expression and Formulas"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) 4x + 16y + 24z\n= 4(x + 4y + 6z)\n(ii) x² + 3x²y + 4x²y²z\n= x²(1 + 3y + 4y²z)\n(iii) 3pqr + 6pqt + 3pqs\n= 3pq(r + 2t + s)\n(iv) 9qr(s² + t²) + 18q²r²(s² + t²)\n= 9qr(s² + t²)(1 + 2qr)\n(v) [[z²x/16]] − [[x²z²/8]] + [[x²z³/12]]\n= [[xz²/4]]([[1/4]] − [[x/2]] + [[xz/3]])\n(vi) a(x − y) − a²b(x − y) + a²b²(x − y)\n= a(x − y)(1 − ab + ab²)",
+                "q": "Factorize the following:\n(i) 4x + 16y + 24z\n(ii) x² + 3x²y + 4x²y²z\n(iii) 3pqr + 6pqt + 3pqs\n(iv) 9qr(s² + t²) + 18q²r²(s² + t²)\n(v) [[z²x/16]] − [[x²z²/8]] + [[x²z³/12]]\n(vi) a(x − y) − a²b(x − y) + a²b²(x − y)"
+              },
+              {
+                "a": "(i) 7x + xz + 7z + z²\n= x(7 + z) + z(7 + z)\n= (7 + z)(x + z)\n(ii) 9a²b + 18ab² − 6ac − 12bc\n= 3(3a²b + 6ab² − 2ac − 4bc)\n= 3(3ab − 2c)(a + 2b)\n(iii) 6t − 12p + 4tq − 8pq\n= 2(3t − 6p + 2tq − 4pq)\n= 2(t − 2p)(3 + 2q)\n(iv) r² + 9rs − 7rs − 63s²\n= r² + 2rs − 63s²\n= (r + 9s)(r − 7s)\n(v) [[y²/4]] − [[y²z/4]] − [[z²t/9]] + [[z³t/9]]\n= (1 − z)([[y²/4]] − [[z²t/9]])\n(vi) [[10xy/11]] + [[5xz/11]] − [[14y²/11]] − [[7yz/11]]\n= [[1/11]](10xy + 5xz − 14y² − 7yz)\n= [[1/11]](2y + z)(5x − 7y)",
+                "q": "Factorize the following:\n(i) 7x + xz + 7z + z²\n(ii) 9a²b + 18ab² − 6ac − 12bc\n(iii) 6t − 12p + 4tq − 8pq\n(iv) r² + 9rs − 7rs − 63s²\n(v) [[y²/4]] − [[y²z/4]] − [[z²t/9]] + [[z³t/9]]\n(vi) [[10xy/11]] + [[5xz/11]] − [[14y²/11]] − [[7yz/11]]"
+              },
+              {
+                "a": "(i) 4a² + 12ab + 9b²\n= (2a)² + 2(2a)(3b) + (3b)²\n= (2a + 3b)²\n(ii) 36x⁴ + 12x² + 1\n= (6x²)² + 2(6x²)(1) + (1)²\n= (6x² + 1)²\n(iii) x² + 1 + [[1/4x²]]\n= (x)² + 2(x)([[1/2x]]) + ([[1/2x]])²\n= (x + [[1/2x]])²\n(iv) 81y² + 144yz + 64z²\n= (9y)² + 2(9y)(8z) + (8z)²\n= (9y + 8z)²\n(v) 625 + 50a²b + a⁴b²\n= (25)² + 2(25)(a²b) + (a²b)²\n= (25 + a²b)²\n(vi) a² + 0.4a + 0.04\n= (a)² + 2(a)(0.2) + (0.2)²\n= (a + 0.2)²",
+                "q": "Factorize:\n(i) 4a² + 12ab + 9b²\n(ii) 36x⁴ + 12x² + 1\n(iii) x² + 1 + [[1/4x²]]\n(iv) 81y² + 144yz + 64z²\n(v) 625 + 50a²b + a⁴b²\n(vi) a² + 0.4a + 0.04"
+              },
+              {
+                "a": "(i) b⁴ − 4b²c² + 4c⁴\n= (b²)² − 2(b²)(2c²) + (2c²)²\n= (b² − 2c²)²\n(ii) [[9/4]]x⁴ − 2 + [[4/9x⁴]]\n= ([[3x²/2]])² − 2([[3x²/2]])([[2/3x²]]) + ([[2/3x²]])²\n= ([[3x²/2]] − [[2/3x²]])²\n(iii) 2a³b³ − 16a²b⁴ + 32ab⁵\n= 2ab³(a² − 8ab + 16b²)\n= 2ab³(a − 4b)²\n(iv) 9(p + q)² − 6(p + q)r² + r⁴\n= (3p + 3q)² − 2(3p + 3q)(r²) + (r²)²\n= (3p + 3q − r²)²\n(v) x²y² − 0.1xy + 0.0025\n= (xy)² − 2(xy)(0.05) + (0.05)²\n= (xy − 0.05)²\n(vi) (a − b)² − 18(a − b) + 81\n= (a − b)² − 2(a − b)(9) + (9)²\n= (a − b − 9)²",
+                "q": "Factorize:\n(i) b⁴ − 4b²c² + 4c⁴\n(ii) [[9/4]]x⁴ − 2 + [[4/9x⁴]]\n(iii) 2a³b³ − 16a²b⁴ + 32ab⁵\n(iv) 9(p + q)² − 6(p + q)r² + r⁴\n(v) x²y² − 0.1xy + 0.0025\n(vi) (a − b)² − 18(a − b) + 81"
+              },
+              {
+                "a": "(i) 4a² − 9b²\n= (2a)² − (3b)²\n= (2a − 3b)(2a + 3b)\n(ii) 16x² − 25y²\n= (4x)² − (5y)²\n= (4x − 5y)(4x + 5y)\n(iii) 100x²z² − y⁴\n= (10xz)² − (y²)²\n= (10xz − y²)(10xz + y²)\n(iv) [[1/100]]x⁴ − 100y⁴\n= ([[x²/10]])² − (10y²)²\n= ([[x²/10]] − 10y²)([[x²/10]] + 10y²)\n(v) [[64/81]]f² − [[81/64]]g⁴\n= ([[8f/9]])² − ([[9g²/8]])²\n= ([[8f/9]] − [[9g²/8]])([[8f/9]] + [[9g²/8]])\n(vi) [[x⁴/121]] − 121y²\n= ([[x²/11]])² − (11y)²\n= ([[x²/11]] − 11y)([[x²/11]] + 11y)",
+                "q": "Factorize:\n(i) 4a² − 9b²\n(ii) 16x² − 25y²\n(iii) 100x²z² − y⁴\n(iv) [[1/100]]x⁴ − 100y⁴\n(v) [[64/81]]f² − [[81/64]]g⁴\n(vi) [[x⁴/121]] − 121y²"
+              },
+              {
+                "a": "(i) (2x + z)² − (2x − z)²\n= (2x + z − 2x + z)(2x + z + 2x − z)\n= (2z)(4x)\n= 8xz\n(ii) (4a − 9b)² − (2a + 5b)²\n= (4a − 9b − 2a − 5b)(4a − 9b + 2a + 5b)\n= (2a − 14b)(6a − 4b)\n= 4(3a − 2b)(a − 7b)\n(iii) 169x⁴ − (3t + 4)²\n= (13x²)² − (3t + 4)²\n= (13x² − 3t − 4)(13x² + 3t + 4)\n(iv) (9x² − 4y²)² − (4x² − y²)²\n= (9x² − 4y² − 4x² + y²)(9x² − 4y² + 4x² − y²)\n= (5x² − 3y²)(13x² − 5y²)\n(v) (a² + 2 + [[1/a²]]) − (b² − 2 + [[1/b²]])\n= (a + [[1/a]])² − (b − [[1/b]])²\n= (a + [[1/a]] − b + [[1/b]])(a + [[1/a]] + b − [[1/b]])\n(vi) 9x² + [[1/9x²]] − 4y² − [[1/4y²]] + 4\n= (3x + [[1/3x]])² − (2y − [[1/2y]])²\n= (3x + [[1/3x]] − 2y + [[1/2y]])(3x + [[1/3x]] + 2y − [[1/2y]])",
+                "q": "Factorize:\n(i) (2x + z)² − (2x − z)²\n(ii) (4a − 9b)² − (2a + 5b)²\n(iii) 169x⁴ − (3t + 4)²\n(iv) (9x² − 4y²)² − (4x² − y²)²\n(v) (a² + 2 + [[1/a²]]) − (b² − 2 + [[1/b²]])\n(vi) 9x² + [[1/9x²]] − 4y² − [[1/4y²]] + 4"
+              },
+              {
+                "a": "(i) (x² + 2xy + y²) − 9z⁴\n= (x + y)² − (3z²)²\n= (x + y − 3z²)(x + y + 3z²)\n(ii) (4a² + 8ab² + 4b⁴) − 9c²\n= (2a + 2b²)² − (3c)²\n= (2a + 2b² − 3c)(2a + 2b² + 3c)\n(iii) 16d⁴ − (c⁴ − 2c²d + d²)\n= (4d²)² − (c² − d)²\n= (4d² − c² + d)(4d² + c² − d)\n(iv) 4(x² + 2xy² + y⁴) − 9y⁶\n= (2x + 2y²)² − (3y³)²\n= (2x + 2y² − 3y³)(2x + 2y² + 3y³)\n(v) x² − y² − 4x − 2y + 3\n= (x² − 4x + 4) − (y² + 2y + 1)\n= (x − 2)² − (y + 1)²\n= (x − 2 − y − 1)(x − 2 + y + 1)\n= (x − y − 3)(x + y − 1)\n(vi) 4x² − y² − 2y − 1\n= (2x)² − (y + 1)²\n= (2x − y − 1)(2x + y + 1)",
+                "q": "Factorize:\n(i) (x² + 2xy + y²) − 9z⁴\n(ii) (4a² + 8ab² + 4b⁴) − 9c²\n(iii) 16d⁴ − (c⁴ − 2c²d + d²)\n(iv) 4(x² + 2xy² + y⁴) − 9y⁶\n(v) x² − y² − 4x − 2y + 3\n(vi) 4x² − y² − 2y − 1"
+              },
+              {
+                "a": "(i) (√(ab))² − (√c)²\n= (√(ab) − √c)(√(ab) + √c)\n(ii) (√(4x))² − (√(9y))²\n= (2√x − 3√y)(2√x + 3√y)\n(iii) (√(yz))² − ([[1/√(yz)]])²\n= (√(yz) − [[1/√(yz)]])(√(yz) + [[1/√(yz)]])\n(iv) xzt − [[1/t]]\n= (√(xzt))² − ([[1/√t]])²\n= (√(xzt) − [[1/√t]])(√(xzt) + [[1/√t]])",
+                "q": "Factorize:\n(i) (√(ab))² − (√c)²\n(ii) (√(4x))² − (√(9y))²\n(iii) (√(yz))² − ([[1/√(yz)]])²\n(iv) xzt − [[1/t]]"
+              }
+            ],
+            "label": "Exercise 4.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) a⁴ + a²x² + x⁴\n= (a² + x²)² − 2a²x² + a²x²\n= (a² + x²)² − (ax)²\n= (a² + x² − ax)(a² + x² + ax)\n(ii) b⁴ + b² + 1\n= (b² + 1)² − 2b² + b²\n= (b² + 1)² − (b)²\n= (b² − b + 1)(b² + b + 1)\n(iii) a⁸ + a⁴x⁴ + x⁸\n= (a⁴ + x⁴)² − (a²x²)²\n= (a⁴ + x⁴ − a²x²)(a⁴ + x⁴ + a²x²)\n= (a⁴ + x⁴ − a²x²)(a² + x² − ax)(a² + x² + ax)\n(iv) z⁸ + z⁴ + 1\n= (z⁴ + 1)² − (z²)²\n= (z⁴ − z² + 1)(z⁴ + z² + 1)\n= (z⁴ − z² + 1)(z² − z + 1)(z² + z + 1)",
+                "q": "Factorize the following:\n(i) a⁴ + a²x² + x⁴\n(ii) b⁴ + b² + 1\n(iii) a⁸ + a⁴x⁴ + x⁸\n(iv) z⁸ + z⁴ + 1"
+              },
+              {
+                "a": "(i) x⁴ + 4y⁴\n= (x² + 2y²)² − (2xy)²\n= (x² − 2xy + 2y²)(x² + 2xy + 2y²)\n(ii) 36x⁴z⁴ + 9y⁴\n= 9(4x⁴z⁴ + y⁴)\n= 9[(2x²z² + y²)² − (2xyz)²]\n= 9(2x²z² − 2xyz + y²)(2x²z² + 2xyz + y²)\n(iii) 4t⁴ + 625\n= (2t² + 25)² − (10t)²\n= (2t² − 10t + 25)(2t² + 10t + 25)\n(iv) 4t⁴ + 1\n= (2t² + 1)² − (2t)²\n= (2t² − 2t + 1)(2t² + 2t + 1)",
+                "q": "Factorize:\n(i) x⁴ + 4y⁴\n(ii) 36x⁴z⁴ + 9y⁴\n(iii) 4t⁴ + 625\n(iv) 4t⁴ + 1"
+              },
+              {
+                "a": "(i) x² + 3x − 10\n= x² + 5x − 2x − 10\n= x(x + 5) − 2(x + 5)\n= (x + 5)(x − 2)\n(ii) a²b² − 3ab − 10\n= (ab)² − 3(ab) − 10\n= (ab + 2)(ab − 5)\n(iii) y² + 7y − 98\n= y² + 14y − 7y − 98\n= y(y + 14) − 7(y + 14)\n= (y + 14)(y − 7)\n(iv) x²y²z² + 2xyz − 24\n= (xyz)² + 2(xyz) − 24\n= (xyz + 6)(xyz − 4)",
+                "q": "Resolve into factors:\n(i) x² + 3x − 10\n(ii) a²b² − 3ab − 10\n(iii) y² + 7y − 98\n(iv) x²y²z² + 2xyz − 24"
+              },
+              {
+                "a": "(i) 9y² + 21yz − 8z²\n= 9y² + 24yz − 3yz − 8z²\n= 3y(3y + 8z) − z(3y + 8z)\n= (3y + 8z)(3y − z)\n(ii) 42x² − 8x − 2\n= 2(21x² − 4x − 1)\n= 2(21x² − 7x + 3x − 1)\n= 2[7x(3x − 1) + 1(3x − 1)]\n= 2(3x − 1)(7x + 1)\n(iii) 4x² + 12x + 5\n= 4x² + 10x + 2x + 5\n= 2x(2x + 5) + 1(2x + 5)\n= (2x + 5)(2x + 1)\n(iv) 3x² − 38xy − 13y²\n= 3x² − 39xy + xy − 13y²\n= 3x(x − 13y) + y(x − 13y)\n= (x − 13y)(3x + y)",
+                "q": "Resolve into factors:\n(i) 9y² + 21yz − 8z²\n(ii) 42x² − 8x − 2\n(iii) 4x² + 12x + 5\n(iv) 3x² − 38xy − 13y²"
+              }
+            ],
+            "label": "Exercise 4.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) x² − 4x = t\n(t − 5)(t − 12) − 144\n= t² − 17t + 60 − 144\n= t² − 17t − 84\n= (t − 21)(t + 4)\n= (x² − 4x − 21)(x² − 4x + 4)\n= (x − 7)(x + 3)(x − 2)²\n(ii) x² + 5x = t\n(t + 6)(t + 4) − 3\n= t² + 10t + 24 − 3\n= t² + 10t + 21\n= (t + 3)(t + 7)\n= (x² + 5x + 3)(x² + 5x + 7)\n(iii) x² − 2x = t\n(t + 3)(t + 4) − 42\n= t² + 7t + 12 − 42\n= t² + 7t − 30\n= (t + 10)(t − 3)\n= (x² − 2x + 10)(x² − 2x − 3)\n= (x² − 2x + 10)(x − 3)(x + 1)\n(iv) x² − 8x = t\n(t + 4)(t − 4) + 15\n= t² − 16 + 15\n= t² − 1\n= (t + 1)(t − 1)\n= (x² − 8x + 1)(x² − 8x − 1)\n(v) x² + 9x = t\n(t − 1)(t + 5) − 7\n= t² + 4t − 5 − 7\n= t² + 4t − 12\n= (t − 2)(t + 6)\n= (x² + 9x − 2)(x² + 9x + 6)\n(vi) x² − 5x = t\n(t + 4)(t + 6) − 120\n= t² + 10t + 24 − 120\n= t² + 10t − 96\n= (t − 6)(t + 16)\n= (x² − 5x − 6)(x² − 5x + 16)\n= (x − 6)(x + 1)(x² − 5x + 16)",
+                "q": "Factorize the following:\n(i) (x² − 4x − 5)(x² − 4x − 12) − 144\n(ii) (x² + 5x + 6)(x² + 5x + 4) − 3\n(iii) (x² − 2x + 3)(x² − 2x + 4) − 42\n(iv) (x² − 8x + 4)(x² − 8x − 4) + 15\n(v) (x² + 9x − 1)(x² + 9x + 5) − 7\n(vi) (x² − 5x + 4)(x² − 5x + 6) − 120"
+              },
+              {
+                "a": "(i) (x + 1)(x + 2)(x + 3)(x + 4) − 48\n= (x² + 5x + 4)(x² + 5x + 6) − 48\nx² + 5x = t\n(t + 4)(t + 6) − 48\n= t² + 10t + 24 − 48\n= t² + 10t − 24\n= (t − 2)(t + 12)\n= (x² + 5x − 2)(x² + 5x + 12)\n(ii) (x + 2)(x + 3)(x + 4)(x + 5) − 24\n= (x² + 7x + 10)(x² + 7x + 12) − 24\nx² + 7x = t\n(t + 10)(t + 12) − 24\n= t² + 22t + 120 − 24\n= t² + 22t + 96\n= (t + 16)(t + 6)\n= (x² + 7x + 16)(x² + 7x + 6)\n= (x² + 7x + 16)(x + 6)(x + 1)\n(iii) (x − 1)(x − 2)(x − 3)(x − 4) − 99\n= (x² − 5x + 4)(x² − 5x + 6) − 99\nx² − 5x = t\n(t + 4)(t + 6) − 99\n= t² + 10t + 24 − 99\n= t² + 10t − 75\n= (t + 15)(t − 5)\n= (x² − 5x + 15)(x² − 5x − 5)\n(iv) (x − 3)(x − 5)(x − 7)(x − 9) + 15\n= (x² − 12x + 27)(x² − 12x + 35) + 15\nx² − 12x = t\n(t + 27)(t + 35) + 15\n= t² + 62t + 945 + 15\n= t² + 62t + 960\n= (t + 30)(t + 32)\n= (x² − 12x + 30)(x² − 12x + 32)\n= (x² − 12x + 30)(x − 8)(x − 4)\n(v) (x − 1)(x − 2)(x − 3)(x − 4) − 224\n= (x² − 5x + 4)(x² − 5x + 6) − 224\nx² − 5x = t\n(t + 4)(t + 6) − 224\n= t² + 10t + 24 − 224\n= t² + 10t − 200\n= (t − 10)(t + 20)\n= (x² − 5x − 10)(x² − 5x + 20)\n(vi) (x − 2)(x − 3)(x − 4)(x − 5) − 255\n= (x² − 7x + 10)(x² − 7x + 12) − 255\nx² − 7x = t\n(t + 10)(t + 12) − 255\n= t² + 22t + 120 − 255\n= t² + 22t − 135\n= (t + 27)(t − 5)\n= (x² − 7x + 27)(x² − 7x − 5)",
+                "q": "Factorize:\n(i) (x + 1)(x + 2)(x + 3)(x + 4) − 48\n(ii) (x + 2)(x + 3)(x + 4)(x + 5) − 24\n(iii) (x − 1)(x − 2)(x − 3)(x − 4) − 99\n(iv) (x − 3)(x − 5)(x − 7)(x − 9) + 15\n(v) (x − 1)(x − 2)(x − 3)(x − 4) − 224\n(vi) (x − 2)(x − 3)(x − 4)(x − 5) − 255"
+              },
+              {
+                "a": "(i) (x − 2)(x − 3)(x + 2)(x + 3) − 2x²\n= (x² − 4)(x² − 9) − 2x²\n= x⁴ − 13x² + 36 − 2x²\n= x⁴ − 15x² + 36\n= (x² − 3)(x² − 12)\n= (x − √3)(x + √3)(x − 2√3)(x + 2√3)\n(ii) (x − 1)(x + 1)(x + 3)(x − 3) − 3x² − 23\n= (x² − 1)(x² − 9) − 3x² − 23\n= x⁴ − 10x² + 9 − 3x² − 23\n= x⁴ − 13x² − 14\n= (x² + 1)(x² − 14)\n= (x² + 1)(x − √14)(x + √14)\n(iii) (x − 1)(x + 1)(x − 3)(x + 3) + 4x²\n= (x² − 1)(x² − 9) + 4x²\n= x⁴ − 10x² + 9 + 4x²\n= x⁴ − 6x² + 9\n= (x² − 3)²\n= (x − √3)²(x + √3)²\n(iv) (x − 2)(x + 2)(x − 4)(x + 4) − 14x²\n= (x² − 4)(x² − 16) − 14x²\n= x⁴ − 20x² + 64 − 14x²\n= x⁴ − 34x² + 64\n= (x² − 2)(x² − 32)\n= (x − √2)(x + √2)(x − 4√2)(x + 4√2)\n(v) (x + 5)(x + 2)(x − 5)(x − 2) + 4x²\n= (x² − 25)(x² − 4) + 4x²\n= x⁴ − 29x² + 100 + 4x²\n= x⁴ − 25x² + 100\n= (x² − 5)(x² − 20)\n= (x − √5)(x + √5)(x − 2√5)(x + 2√5)\n(vi) (x² − x − 12)(x² − x − 12) − x²\nx² − x − 12 = t\nt² − x²\n= (t − x)(t + x)\n= (x² − 2x − 12)(x² − 12)\n= (x² − 2x − 12)(x − 2√3)(x + 2√3)",
+                "q": "Factorize:\n(i) (x − 2)(x − 3)(x + 2)(x + 3) − 2x²\n(ii) (x − 1)(x + 1)(x + 3)(x − 3) − 3x² − 23\n(iii) (x − 1)(x + 1)(x − 3)(x + 3) + 4x²\n(iv) (x − 2)(x + 2)(x − 4)(x + 4) − 14x²\n(v) (x + 5)(x + 2)(x − 5)(x − 2) + 4x²\n(vi) (x² − x − 12)(x² − x − 12) − x²"
+              }
+            ],
+            "label": "Exercise 4.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) b³ + 3b²c + 3bc² + c³\n= (b)³ + 3(b)²(c) + 3(b)(c)² + (c)³\n= (b + c)³\n(ii) 8x³ + 12x²y + 6xy² + y³\n= (2x)³ + 3(2x)²(y) + 3(2x)(y)² + (y)³\n= (2x + y)³\n(iii) 64x³ + 12x² + [[3x/4]] + [[1/64]]\n= (4x)³ + 3(4x)²([[1/4]]) + 3(4x)([[1/4]])² + ([[1/4]])³\n= (4x + [[1/4]])³\n(iv) 8x³ + 36x² + 54x + 27\n= (2x)³ + 3(2x)²(3) + 3(2x)(3)² + (3)³\n= (2x + 3)³\n(v) [[1/27]] + [[1/3]]y² + y⁴ + y⁶\n= ([[1/3]])³ + 3([[1/3]])²(y²) + 3([[1/3]])(y²)² + (y²)³\n= ([[1/3]] + y²)³\n(vi) [[8/27]]x³ + 2x²y + [[9/2]]xy² + [[27/8]]y³\n= ([[2/3]]x)³ + 3([[2/3]]x)²([[3/2]]y) + 3([[2/3]]x)([[3/2]]y)² + ([[3/2]]y)³\n= ([[2/3]]x + [[3/2]]y)³\n(vii) [[64/27]] + [[16/3]]x + 4x² + x³\n= ([[4/3]])³ + 3([[4/3]])²(x) + 3([[4/3]])(x)² + (x)³\n= ([[4/3]] + x)³\n(viii) [[z³/8]] + [[z²y/4]] + [[zy²/6]] + [[y³/27]]\n= ([[z/2]])³ + 3([[z/2]])²([[y/3]]) + 3([[z/2]])([[y/3]])² + ([[y/3]])³\n= ([[z/2]] + [[y/3]])³",
+                "q": "Factorize the following:\n(i) b³ + 3b²c + 3bc² + c³\n(ii) 8x³ + 12x²y + 6xy² + y³\n(iii) 64x³ + 12x² + [[3x/4]] + [[1/64]]\n(iv) 8x³ + 36x² + 54x + 27\n(v) [[1/27]] + [[1/3]]y² + y⁴ + y⁶\n(vi) [[8/27]]x³ + 2x²y + [[9/2]]xy² + [[27/8]]y³\n(vii) [[64/27]] + [[16/3]]x + 4x² + x³\n(viii) [[z³/8]] + [[z²y/4]] + [[zy²/6]] + [[y³/27]]"
+              },
+              {
+                "a": "(i) d³ − 6d²c + 12dc² − 8c³\n= (d)³ − 3(d)²(2c) + 3(d)(2c)² − (2c)³\n= (d − 2c)³\n(ii) x⁶ + [[16/3]]x² − 4x⁴ − [[64/27]]\n= (x²)³ − 3(x²)²([[4/3]]) + 3(x²)([[4/3]])² − ([[4/3]])³\n= (x² − [[4/3]])³\n(iii) [[x³/125]] − [[3/25]]x²y + [[3/5]]xy² − y³\n= ([[x/5]])³ − 3([[x/5]])²(y) + 3([[x/5]])(y)² − (y)³\n= ([[x/5]] − y)³\n(iv) 125z³ − 75z²y² + 15zy⁴ − y⁶\n= (5z)³ − 3(5z)²(y²) + 3(5z)(y²)² − (y²)³\n= (5z − y²)³\n(v) [[z³/27]] − 2z²y + 36zy² − 216y³\n= ([[z/3]])³ − 3([[z/3]])²(6y) + 3([[z/3]])(6y)² − (6y)³\n= ([[z/3]] − 6y)³\n(vi) [[b⁶/27]] − [[b⁴c²/6]] + [[b²c⁴/4]] − [[c⁶/8]]\n= ([[b²/3]])³ − 3([[b²/3]])²([[c²/2]]) + 3([[b²/3]])([[c²/2]])² − ([[c²/2]])³\n= ([[b²/3]] − [[c²/2]])³\n(vii) 216 + [[9z²/2]] − 54z − [[z³/8]]\n= (6)³ − 3(6)²([[z/2]]) + 3(6)([[z/2]])² − ([[z/2]])³\n= (6 − [[z/2]])³\n(viii) [[8/27]]x³ − 2x²y + [[9/2]]xy² − [[27/8]]y³\n= ([[2/3]]x)³ − 3([[2/3]]x)²([[3/2]]y) + 3([[2/3]]x)([[3/2]]y)² − ([[3/2]]y)³\n= ([[2/3]]x − [[3/2]]y)³",
+                "q": "Factorize:\n(i) d³ − 6d²c + 12dc² − 8c³\n(ii) x⁶ + [[16/3]]x² − 4x⁴ − [[64/27]]\n(iii) [[x³/125]] − [[3/25]]x²y + [[3/5]]xy² − y³\n(iv) 125z³ − 75z²y² + 15zy⁴ − y⁶\n(v) [[z³/27]] − 2z²y + 36zy² − 216y³\n(vi) [[b⁶/27]] − [[b⁴c²/6]] + [[b²c⁴/4]] − [[c⁶/8]]\n(vii) 216 + [[9z²/2]] − 54z − [[z³/8]]\n(viii) [[8/27]]x³ − 2x²y + [[9/2]]xy² − [[27/8]]y³"
+              }
+            ],
+            "label": "Exercise 4.4"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) x³ + 8y³\n= (x)³ + (2y)³\n= (x + 2y)(x² − 2xy + 4y²)\n(ii) a¹¹ + a²b⁹\n= a²(a⁹ + b⁹)\n= a²[(a³)³ + (b³)³]\n= a²(a³ + b³)(a⁶ − a³b³ + b⁶)\n= a²(a + b)(a² − ab + b²)(a⁶ − a³b³ + b⁶)\n(iii) a⁶ + 1\n= (a²)³ + (1)³\n= (a² + 1)(a⁴ − a² + 1)\n(iv) a³b³ + 512\n= (ab)³ + (8)³\n= (ab + 8)(a²b² − 8ab + 64)\n(v) a³b³ + 27b⁶\n= b³(a³ + 27b³)\n= b³(a + 3b)(a² − 3ab + 9b²)\n(vi) [[x³/125]] + [[125/x³]]\n= ([[x/5]])³ + ([[5/x]])³\n= ([[x/5]] + [[5/x]])([[x²/25]] − 1 + [[25/x²]])\n(vii) x⁹ + x³y⁶z⁹\n= x³(x⁶ + y⁶z⁹)\n= x³[(x²)³ + (y²z³)³]\n= x³(x² + y²z³)(x⁴ − x²y²z³ + y⁴z⁶)\n(viii) [[x⁶/27]] + [[8/x³]]\n= ([[x²/3]])³ + ([[2/x]])³\n= ([[x²/3]] + [[2/x]])([[x⁴/9]] − [[2x/3]] + [[4/x²]])",
+                "q": "Factorize the following:\n(i) x³ + 8y³\n(ii) a¹¹ + a²b⁹\n(iii) a⁶ + 1\n(iv) a³b³ + 512\n(v) a³b³ + 27b⁶\n(vi) [[x³/125]] + [[125/x³]]\n(vii) x⁹ + x³y⁶z⁹\n(viii) [[x⁶/27]] + [[8/x³]]"
+              },
+              {
+                "a": "(i) x³ − 8y³\n= (x)³ − (2y)³\n= (x − 2y)(x² + 2xy + 4y²)\n(ii) x⁹ − 8y⁹\n= (x³)³ − (2y³)³\n= (x³ − 2y³)(x⁶ + 2x³y³ + 4y⁶)\n(iii) 1000 − [[x³y³/125]]\n= (10)³ − ([[xy/5]])³\n= (10 − [[xy/5]])(100 + 2xy + [[x²y²/25]])\n(iv) a⁶ − b⁶\n= (a³)² − (b³)²\n= (a³ − b³)(a³ + b³)\n= (a − b)(a² + ab + b²)(a + b)(a² − ab + b²)\n(v) [[x⁶/64]] − [[64/x¹²]]\n= ([[x²/4]])³ − ([[4/x⁴]])³\n= ([[x²/4]] − [[4/x⁴]])([[x⁴/16]] + [[1/x²]] + [[16/x⁸]])\n= ([[x/2]] − [[2/x²]])([[x/2]] + [[2/x²]])([[x²/4]] − [[1/x]] + [[4/x⁴]])([[x²/4]] + [[1/x]] + [[4/x⁴]])\n(vi) x¹² − y¹²\n= (x⁶)² − (y⁶)²\n= (x⁶ − y⁶)(x⁶ + y⁶)\n= (x³ − y³)(x³ + y³)(x² + y²)(x⁴ − x²y² + y⁴)\n= (x − y)(x² + xy + y²)(x + y)(x² − xy + y²)(x² + y²)(x⁴ − x²y² + y⁴)\n(vii) [[27/x³]] − 8y⁶\n= ([[3/x]])³ − (2y²)³\n= ([[3/x]] − 2y²)([[9/x²]] + [[6y²/x]] + 4y⁴)\n(viii) 8x⁶ − [[1/729]]\n= (2x²)³ − ([[1/9]])³\n= (2x² − [[1/9]])(4x⁴ + [[2x²/9]] + [[1/81]])",
+                "q": "Factorize:\n(i) x³ − 8y³\n(ii) x⁹ − 8y⁹\n(iii) 1000 − [[x³y³/125]]\n(iv) a⁶ − b⁶\n(v) [[x⁶/64]] − [[64/x¹²]]\n(vi) x¹² − y¹²\n(vii) [[27/x³]] − 8y⁶\n(viii) 8x⁶ − [[1/729]]"
+              }
+            ],
+            "label": "Exercise 4.5"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) p(x) = x³ − 6x² + 11x − 8\nx − 1 = 0\nx = 1\np(1) = (1)³ − 6(1)² + 11(1) − 8\n= 1 − 6 + 11 − 8\n= −2\nR = −2\n(ii) p(x) = x³ + 6x² + 11x + 8\nx + 1 = 0\nx = −1\np(−1) = (−1)³ + 6(−1)² + 11(−1) + 8\n= −1 + 6 − 11 + 8\n= 2\nR = 2\n(iii) p(x) = x³ − x² + 14\nx − 2 = 0\nx = 2\np(2) = (2)³ − (2)² + 14\n= 8 − 4 + 14\n= 18\nR = 18\n(iv) p(x) = x³ − 3x² + 4x − 14\nx + 2 = 0\nx = −2\np(−2) = (−2)³ − 3(−2)² + 4(−2) − 14\n= −8 − 12 − 8 − 14\n= −42\nR = −42\n(v) p(y) = (2y − 1)³ + 6(3 + 4y) − 9\n2y + 1 = 0\ny = −[[1/2]]\np(−[[1/2]]) = (2(−[[1/2]]) − 1)³ + 6(3 + 4(−[[1/2]])) − 9\n= (−2)³ + 6(1) − 9\n= −8 + 6 − 9\n= −11\nR = −11\n(vi) p(y) = 4y³ − 4y + 3\n2y − 1 = 0\ny = [[1/2]]\np([[1/2]]) = 4([[1/2]])³ − 4([[1/2]]) + 3\n= [[1/2]] − 2 + 3\n= [[3/2]]\nR = [[3/2]]\n(vii) p(y) = (2y + 1)³ − 6(3 − 4y) − 10\n2y − 1 = 0\ny = [[1/2]]\np([[1/2]]) = (2([[1/2]]) + 1)³ − 6(3 − 4([[1/2]])) − 10\n= (2)³ − 6(1) − 10\n= 8 − 6 − 10\n= −8\nR = −8\n(viii) p(x) = x⁴ + x²y² + y⁴\nx − y = 0\nx = y\np(y) = (y)⁴ + (y)²y² + y⁴\n= y⁴ + y⁴ + y⁴\n= 3y⁴\nR = 3y⁴",
+                "q": "Find the remainder by using the remainder theorem when\n(i) x³ − 6x² + 11x − 8 is divided by (x − 1)\n(ii) x³ + 6x² + 11x + 8 is divided by (x + 1)\n(iii) x³ − x² + 14 is divided by (x − 2)\n(iv) x³ − 3x² + 4x − 14 is divided by (x + 2)\n(v) (2y − 1)³ + 6(3 + 4y) − 9 is divided by (2y + 1)\n(vi) 4y³ − 4y + 3 is divided by (2y − 1)\n(vii) (2y + 1)³ − 6(3 − 4y) − 10 is divided by (2y − 1)\n(viii) x⁴ + x²y² + y⁴ is divided by (x − y)"
+              },
+              {
+                "a": "p(y) = my³ + 4y² + 3y − 4\nq(y) = y³ − 4y + m\ny − 3 = 0\ny = 3\np(3) = m(3)³ + 4(3)² + 3(3) − 4\n= 27m + 36 + 9 − 4\n= 27m + 41\nq(3) = (3)³ − 4(3) + m\n= 27 − 12 + m\n= 15 + m\np(3) = q(3)\n27m + 41 = 15 + m\n26m = −26\nm = −1",
+                "q": "Find the value of m, if p(y) = my³ + 4y² + 3y − 4 and q(y) = y³ − 4y + m leaves the same remainder when divided by (y − 3)."
+              },
+              {
+                "a": "p(x) = 4x³ − 7x² + 6x − 3k\nx + 2 = 0\nx = −2\np(−2) = 4(−2)³ − 7(−2)² + 6(−2) − 3k\n= −32 − 28 − 12 − 3k\n= −72 − 3k\np(−2) = 0\n−72 − 3k = 0\n3k = −72\nk = −24",
+                "q": "If the polynomial 4x³ − 7x² + 6x − 3k is exactly divisible by (x + 2), find the value of k."
+              },
+              {
+                "a": "p(y) = 3y² − 4ry − 4r²\ny + 2 = 0\ny = −2\np(−2) = 3(−2)² − 4r(−2) − 4r²\n= 12 + 8r − 4r²\np(−2) = 0\n12 + 8r − 4r² = 0\nr² − 2r − 3 = 0\n(r − 3)(r + 1) = 0\nr = 3, −1",
+                "q": "Find the value of r, if (y + 2) is a factor of the polynomial 3y² − 4ry − 4r²."
+              }
+            ],
+            "label": "Exercise 4.6"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) p(x) = x³ − x² + x − 1\n1 | 1  −1  1  −1\n    1  0  1\n    1  0  1 | 0\nq(x) = x² + 1\nR = 0\n(ii) p(x) = x³ − x² − x − 1\n−1 | 1  −1  −1  −1\n    −1  2  −1\n    1  −2  1 | −2\nq(x) = x² − 2x + 1\nR = −2\n(iii) p(x) = x³ − 6x² + 11x − 6\n−2 | 1  −6  11  −6\n    −2  16  −54\n    1  −8  27 | −60\nq(x) = x² − 8x + 27\nR = −60\n(iv) p(x) = x³ + 6x² − 11x − 6\n2 | 1  6  −11  −6\n    2  16  10\n    1  8  5 | 4\nq(x) = x² + 8x + 5\nR = 4\n(v) p(x) = x⁴ − x³ + x² − x − 1\n−2 | 1  −1  1  −1  −1\n    −2  6  −14  30\n    1  −3  7  −15 | 29\nq(x) = x³ − 3x² + 7x − 15\nR = 29\n(vi) p(x) = x⁴ + x³ − x² + x − 1\n1 | 1  1  −1  1  −1\n    1  2  1  2\n    1  2  1  2 | 1\nq(x) = x³ + 2x² + x + 2\nR = 1\n(vii) p(x) = x⁵ + x³ − 2x² − 3\n−3 | 1  0  1  −2  0  −3\n    −3  9  −30  96  −288\n    1  −3  10  −32  96 | −291\nq(x) = x⁴ − 3x³ + 10x² − 32x + 96\nR = −291\n(viii) p(x) = x⁵ − x⁴ + x³ − 3x² + 6x − 6\n3 | 1  −1  1  −3  6  −6\n    3  6  21  54  180\n    1  2  7  18  60 | 174\nq(x) = x⁴ + 2x³ + 7x² + 18x + 60\nR = 174\n(ix) p(x) = 2x⁴ − 2x³ + 100x² − 168x + 95\n2 | 2  −2  100  −168  95\n    4  4  208  80\n    2  2  104  40 | 175\nq(x) = 2x³ + 2x² + 104x + 40\nR = 175\n(x) p(x) = 6x⁴ − 72x³ + 300x² − 564x + 270\n5 | 6  −72  300  −564  270\n    30  −210  450  −570\n    6  −42  90  −114 | −300\nq(x) = 6x³ − 42x² + 90x − 114\nR = −300",
+                "q": "By using synthetic division method to divide the following polynomials and also find their quotient and remainder.\n(i) p(x) = x³ − x² + x − 1 by x − 1\n(ii) p(x) = x³ − x² − x − 1 by x + 1\n(iii) p(x) = x³ − 6x² + 11x − 6 by x + 2\n(iv) p(x) = x³ + 6x² − 11x − 6 by x − 2\n(v) p(x) = x⁴ − x³ + x² − x − 1 by x + 2\n(vi) p(x) = x⁴ + x³ − x² + x − 1 by x − 1\n(vii) p(x) = x⁵ + x³ − 2x² − 3 by x + 3\n(viii) p(x) = x⁵ − x⁴ + x³ − 3x² + 6x − 6 by x − 3\n(ix) p(x) = 2x⁴ − 2x³ + 100x² − 168x + 95 by x − 2\n(x) p(x) = 6x⁴ − 72x³ + 300x² − 564x + 270 by x − 5"
+              },
+              {
+                "a": "p(x) = x³ + x² − 14x − k\np(−2) = (−2)³ + (−2)² − 14(−2) − k\n= −8 + 4 + 28 − k\n= 24 − k\np(−2) = 0\n24 − k = 0\nk = 24",
+                "q": "For what value of k, −2 is zero of the polynomial p(x) = x³ + x² − 14x − k"
+              },
+              {
+                "a": "p(x) = x³ + mx² − 7x − 10\np(2) = (2)³ + m(2)² − 7(2) − 10\n= 8 + 4m − 14 − 10\n= 4m − 16\np(2) = 0\n4m − 16 = 0\nm = 4",
+                "q": "For what value of m, (x − 2) be factor of x³ + mx² − 7x − 10"
+              },
+              {
+                "a": "p(x) = 4x³ − 7x² + 6x − 3m\np(−2) = 4(−2)³ − 7(−2)² + 6(−2) − 3m\n= −32 − 28 − 12 − 3m\n= −72 − 3m\np(−2) = 0\n−72 − 3m = 0\nm = −24",
+                "q": "For what value of m, (x + 2) is factor of 4x³ − 7x² + 6x − 3m"
+              },
+              {
+                "a": "p(x) = 2x³ − 4mx² + x − 1\np(−1) = 2(−1)³ − 4m(−1)² + (−1) − 1\n= −2 − 4m − 1 − 1\n= −4 − 4m\np(−1) = 0\n−4 − 4m = 0\nm = −1",
+                "q": "For what value of m, −1 is a zero of the polynomial, p(x) = 2x³ − 4mx² + x − 1"
+              }
+            ],
+            "label": "Exercise 4.7"
+          },
+          {
+            "items": [
+              {
+                "a": "p(x) = x³ − x² + x − 1\np(1) = (1)³ − (1)² + (1) − 1\n= 1 − 1 + 1 − 1\n= 0\nx − 1\n1 | 1  −1  1  −1\n    1  0  1\n    1  0  1 | 0\np(x) = (x − 1)(x² + 1)",
+                "q": "Factorize by using factor theorem\n1. x³ − x² + x − 1"
+              },
+              {
+                "a": "p(x) = x³ + x² − x − 1\np(−1) = (−1)³ + (−1)² − (−1) − 1\n= −1 + 1 + 1 − 1\n= 0\nx + 1\n−1 | 1  1  −1  −1\n    −1  0  1\n    1  0  −1 | 0\np(x) = (x + 1)(x² − 1)\n= (x + 1)(x + 1)(x − 1)",
+                "q": "2. x³ + x² − x − 1"
+              },
+              {
+                "a": "p(x) = x³ − 6x² + 11x − 6\np(1) = (1)³ − 6(1)² + 11(1) − 6\n= 1 − 6 + 11 − 6\n= 0\nx − 1\n1 | 1  −6  11  −6\n    1  −5  6\n    1  −5  6 | 0\np(x) = (x − 1)(x² − 5x + 6)\n= (x − 1)(x − 2)(x − 3)",
+                "q": "3. x³ − 6x² + 11x − 6"
+              },
+              {
+                "a": "p(x) = x³ + 5x² − 4x − 20\np(−2) = (−2)³ + 5(−2)² − 4(−2) − 20\n= −8 + 20 + 8 − 20\n= 0\nx + 2\n−2 | 1  5  −4  −20\n    −2  −6  20\n    1  3  −10 | 0\np(x) = (x + 2)(x² + 3x − 10)\n= (x + 2)(x + 5)(x − 2)",
+                "q": "4. x³ + 5x² − 4x − 20"
+              },
+              {
+                "a": "p(x) = x³ − 2x² + 9x − 18\np(2) = (2)³ − 2(2)² + 9(2) − 18\n= 8 − 8 + 18 − 18\n= 0\nx − 2\n2 | 1  −2  9  −18\n    2  0  18\n    1  0  9 | 0\np(x) = (x − 2)(x² + 9)",
+                "q": "5. x³ − 2x² + 9x − 18"
+              },
+              {
+                "a": "p(x) = 6x³ + 7x² − x − 2\np(−1) = 6(−1)³ + 7(−1)² − (−1) − 2\n= −6 + 7 + 1 − 2\n= 0\nx + 1\n−1 | 6  7  −1  −2\n    −6  −1  2\n    6  1  −2 | 0\np(x) = (x + 1)(6x² + x − 2)\n= (x + 1)(2x − 1)(3x + 2)",
+                "q": "6. 6x³ + 7x² − x − 2"
+              },
+              {
+                "a": "p(x) = x³ + 8x² + 19x + 12\np(−1) = (−1)³ + 8(−1)² + 19(−1) + 12\n= −1 + 8 − 19 + 12\n= 0\nx + 1\n−1 | 1  8  19  12\n    −1  −7  −12\n    1  7  12 | 0\np(x) = (x + 1)(x² + 7x + 12)\n= (x + 1)(x + 3)(x + 4)",
+                "q": "7. x³ + 8x² + 19x + 12"
+              },
+              {
+                "a": "p(x) = 2x³ + 9x² + 10x + 3\np(−1) = 2(−1)³ + 9(−1)² + 10(−1) + 3\n= −2 + 9 − 10 + 3\n= 0\nx + 1\n−1 | 2  9  10  3\n    −2  −7  −3\n    2  7  3 | 0\np(x) = (x + 1)(2x² + 7x + 3)\n= (x + 1)(2x + 1)(x + 3)",
+                "q": "8. 2x³ + 9x² + 10x + 3"
+              },
+              {
+                "a": "p(x) = x³ + 12x² + 44x + 48\np(−2) = (−2)³ + 12(−2)² + 44(−2) + 48\n= −8 + 48 − 88 + 48\n= 0\nx + 2\n−2 | 1  12  44  48\n    −2  −20  −48\n    1  10  24 | 0\np(x) = (x + 2)(x² + 10x + 24)\n= (x + 2)(x + 4)(x + 6)",
+                "q": "9. x³ + 12x² + 44x + 48"
+              }
+            ],
+            "label": "Exercise 4.8"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) True\n(ii) True\n(iii) True\n(iv) False\n(v) False\n(vi) False",
+                "q": "True and false questions\nRead the following sentences carefully and encircle 'T' in case of true and 'F' in case of false statement.\n(i) x² + x − 6 = (x + 3)(x − 2)\n(ii) a³ + 27 = (a + 3)(a² − 3a + 9)\n(iii) b³ − 8 = (b − 2)(b² + 2b + 4)\n(iv) a⁴ − b⁴ = (a − b)(a + b)(a + b)²\n(v) a⁶ + b⁶ = (a³ + b³)(a³ − b³)\n(vi) a⁵ + b⁵ = (a + b)⁵"
+              },
+              {
+                "a": "(i) (4x + y²)\n(ii) (x² + 4xy + 16y²)\n(iii) (x + 3)\n(iv) + 2xy\n(v) (a² − 3ab + 9b²)",
+                "q": "Complete the following sentences\n(i) 16x² − y⁴ = (4x − y²) ______\n(ii) x³ − 64y³ = (x − 4y) ______\n(iii) x² + 5x + 6 = (x + 2) ______\n(iv) x² + y² = (x − y)² ______\n(v) a³ + 27b³ = (a + 3b) ______"
+              },
+              {
+                "a": "(i) (b) a − 4, a + 6\n(ii) (c) (a + b + c)(a + b − c)\n(iii) (d) (x + y)(x² − xy + y²)\n(iv) (a) y − 3z, y² + 3yz + 9z²\n(v) (b) [[x/x²−y²]]\n(vi) (c) 4",
+                "q": "Tick (✓) the correct answers\n(i) Factors of a² + 2a − 24 are:\n(a) a + 4, a − 6 (b) a − 4, a + 6 (c) a + 3, a − 8 (d) a + 8, a − 3\n(ii) Factors of a² + 2ab + b² − c² is:\n(a) (a − b + c)(x − b − c) (b) (a + b + c)(a − b − c) (c) (a + b + c)(a + b − c) (d) (a + b + c)(a − b − c)\n(iii) Factors of x³ + y³ is:\n(a) (x − y)(x² + xy + y²) (b) (x + y)(x² + xy + y²) (c) (x + y)(x² + xy − y²) (d) (x + y)(x² − xy + y²)\n(iv) Factors of y³ − 27z³ are:\n(a) y − 3z, y² + 3yz + 9z² (b) y − 3z, y + 3z + 9z² (c) y − 3z, y² − 3yz + 9z² (d) y + 3z, y² − 3yz + 9z²\n(v) In simplified form [[1/x+y]] + [[y/x²−y²]] =\n(a) [[y+1/x²−y²]] (b) [[x/x²−y²]] (c) [[y/x²−y²]] (d) [[y−1/x²−y²]]\n(vi) Find m, so that x² + 4x + m is a complete square\n(a) 16 (b) −16 (c) 4 (d) −4"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Factorization",
+        "unit": 4,
+        "display": "Factorization"
+      },
+      {
+        "unit": 5,
+        "title": "Algebraic Manipulation",
+        "exercises": [
+          {
+            "label": "Exercise 5.1",
+            "items": [
+              {
+                "q": "Find the HCF of the following expressions by factorization method:\n(i) 72x^4y^5z^2 and 120x^3y^6z^8\n(ii) 18r^3s^4t^5, 120r^4s^3t^8 and 210r^7s^7t^3\n(iii) x^2-3x-18 and x^2+5x+6\n(iv) 4x^2-9 and 2x^2-5x+3\n(v) (2a^2-8b^2), (4a^2+4ab-24b^2) and (2a^2-12ab+16b^2)\n(vi) x^3+x^2+x+1 and x^3+3x^2+3x+1",
+                "a": "(i) 72x^4y^5z^2 = 2^3 × 3^2 × x^4y^5z^2\n120x^3y^6z^8 = 2^3 × 3 × 5 × x^3y^6z^8\nHCF = 24x^3y^5z^2\n(ii) 18r^3s^4t^5 = 2 × 3^2 × r^3s^4t^5\n120r^4s^3t^8 = 2^3 × 3 × 5 × r^4s^3t^8\n210r^7s^7t^3 = 2 × 3 × 5 × 7 × r^7s^7t^3\nHCF = 6r^3s^3t^3\n(iii) x^2-3x-18 = (x-6)(x+3)\nx^2+5x+6 = (x+2)(x+3)\nHCF = (x+3)\n(iv) 4x^2-9 = (2x-3)(2x+3)\n2x^2-5x+3 = (2x-3)(x-1)\nHCF = (2x-3)\n(v) 2a^2-8b^2 = 2(a-2b)(a+2b)\n4a^2+4ab-24b^2 = 4(a-2b)(a+3b)\n2a^2-12ab+16b^2 = 2(a-2b)(a-4b)\nHCF = 2(a-2b)\n(vi) x^3+x^2+x+1 = (x+1)(x^2+1)\nx^3+3x^2+3x+1 = (x+1)^3\nHCF = (x+1)"
+              },
+              {
+                "q": "Find the HCF of the following expressions by division method:\n(i) x^2+3x+2 and 3x^2-3x-6\n(ii) 2x^3+15x^2+31x+12 and 6x^3+46x^2+100x+48\n(iii) x^3-5x^2+10x-8, x^3-4x^2+7x-6\n(iv) x^4+3x^3+2x^2+3x+1, x^3+4x^2+4x+1 and x^3+5x^2+7x+2",
+                "a": "(i) 3x^2-3x-6 = 3(x^2+3x+2) - 12x - 12\n12x+12 = 12(x+1)\nx^2+3x+2 = (x+1)(x+2)\nHCF = (x+1)\n(ii) 6x^3+46x^2+100x+48 = 3(2x^3+15x^2+31x+12) + (x^2+7x+12)\n2x^3+15x^2+31x+12 = (2x+1)(x^2+7x+12)\nHCF = x^2+7x+12\n(iii) x^3-5x^2+10x-8 = (x^3-4x^2+7x-6) - (x^2-3x+2)\nx^2-3x+2 = (x-1)(x-2)\nx^3-4x^2+7x-6 = (x-2)(x^2-2x+3)\nHCF = (x-2)\n(iv) x^3+4x^2+4x+1 = (x^3+5x^2+7x+2) - (x^2+3x+1)\nx^4+3x^3+2x^2+3x+1 = (x^2+3x+1)(x^2+1)\nx^3+4x^2+4x+1 = (x^2+3x+1)(x+1)\nx^3+5x^2+7x+2 = (x^2+3x+1)(x+2)\nHCF = x^2+3x+1"
+              },
+              {
+                "q": "Find the LCM of the following expressions by factorization method:\n(i) 27a^4b^5c^2 and 81ab^2c^8\n(ii) 24p^2q^3r^4, 100p^5q^4r^5 and 300p^3qr^8\n(iii) 21x^2-14x and 3x^2-5x+2\n(iv) x^2+11x+28 and x^2+x-12\n(v) 6x^2+11x+3, 3x^2-2x-1 and 3x^2-2x-1\n(vi) x^2-y^2, x^3-y^3 and x^4+x^2y^2+y^4",
+                "a": "(i) 27 = 3^3\n81 = 3^4\nLCM = 81a^4b^5c^8\n(ii) 24 = 2^3 × 3\n100 = 2^2 × 5^2\n300 = 2^2 × 3 × 5^2\nLCM = 600p^5q^4r^8\n(iii) 21x^2-14x = 7x(3x-2)\n3x^2-5x+2 = (3x-2)(x-1)\nLCM = 7x(x-1)(3x-2)\n(iv) x^2+11x+28 = (x+4)(x+7)\nx^2+x-12 = (x+4)(x-3)\nLCM = (x+4)(x+7)(x-3)\n(v) 6x^2+11x+3 = (3x+1)(2x+3)\n3x^2-2x-1 = (3x+1)(x-1)\nLCM = (3x+1)(x-1)(2x+3)\n(vi) x^2-y^2 = (x-y)(x+y)\nx^3-y^3 = (x-y)(x^2+xy+y^2)\nx^4+x^2y^2+y^4 = (x^2+xy+y^2)(x^2-xy+y^2)\nLCM = (x+y)(x-y)(x^2+xy+y^2)(x^2-xy+y^2)"
+              },
+              {
+                "q": "Find the LCM by Division method:\n(i) x^2-25x+100 and x^2-x-20\n(ii) 3x^2+14x+8 and 6x^2+x-2\n(iii) x^2-y^2-z^2-2yz and y^2-z^2-x^2-2xz\n(iv) 3x^3+9x^2-84x and 4x^4-24x^3+32x^2",
+                "a": "(i) x^2-25x+100 = (x-20)(x-5)\nx^2-x-20 = (x-5)(x+4)\nHCF = (x-5)\nLCM = [[(x^2-25x+100)(x^2-x-20)/(x-5)]]\nLCM = (x-20)(x-5)(x+4)\n(ii) 3x^2+14x+8 = (3x+2)(x+4)\n6x^2+x-2 = (3x+2)(2x-1)\nHCF = (3x+2)\nLCM = [[(3x^2+14x+8)(6x^2+x-2)/(3x+2)]]\nLCM = (3x+2)(x+4)(2x-1)\n(iii) x^2-y^2-z^2-2yz = (x-y-z)(x+y+z)\ny^2-z^2-x^2-2xz = (y-x-z)(y+x+z)\nHCF = (x+y+z)\nLCM = (x+y+z)(x-y-z)(y-z-x)\n(iv) 3x^3+9x^2-84x = 3x(x+7)(x-4)\n4x^4-24x^3+32x^2 = 4x^2(x-4)(x-2)\nHCF = x(x-4)\nLCM = [[(3x^3+9x^2-84x)(4x^4-24x^3+32x^2)/(x(x-4))]]\nLCM = 12x^2(x-4)(x+7)(x-2)"
+              },
+              {
+                "q": "If the HCF of the x^2-11x+24 and x^2-6x+6 is (x-3). Find the LCM.",
+                "a": "x^2-11x+24 = (x-3)(x-8)\nLCM = [[(x^2-11x+24)(x^2-6x+6)/(x-3)]]\nLCM = (x-8)(x^2-6x+6)"
+              },
+              {
+                "q": "The HCF and LCM of two expressions are (x+3) and (x^3+7x^2+7x-15), respectively. If one expression is x^2+8x+15. Find the second expression.",
+                "a": "HCF × LCM = p(x) × q(x)\nq(x) = [[(x+3)(x^3+7x^2+7x-15)/(x^2+8x+15)]]\nx^2+8x+15 = (x+3)(x+5)\nx^3+7x^2+7x-15 = (x+5)(x^2+2x-3)\nq(x) = x^2+2x-3"
+              },
+              {
+                "q": "The HCF and LCM of two polynomial of the second degree are 3x-2 and 3x^3+7x^2-4 respectively. Find the product of two polynomial.",
+                "a": "HCF × LCM = p(x) × q(x)\np(x) × q(x) = (3x-2)(3x^3+7x^2-4)\np(x) × q(x) = 9x^4+15x^3-14x^2-12x+8"
+              },
+              {
+                "q": "Verify the relationship between HCF and LCM. i.e. (HCF×LCM = p(x)q(x)) for the polynomial p(x) = x^2-8x-20 and q(x) = x^2-15x+50",
+                "a": "p(x) = x^2-8x-20 = (x-10)(x+2)\nq(x) = x^2-15x+50 = (x-10)(x-5)\nHCF = (x-10)\nLCM = (x-10)(x+2)(x-5)\nHCF × LCM = (x-10)^2(x+2)(x-5)\np(x) × q(x) = (x-10)(x+2)(x-10)(x-5)\nHCF × LCM = p(x) × q(x)"
+              },
+              {
+                "q": "A carpenter got some free wooden planks. Some are 12cm long and some are 18cm. He wants to cut them so that he has equal size planks to make using them easier. What size planks should he cut them into to avoid wasting any wood?",
+                "a": "12 = 2 × 2 × 3\n18 = 2 × 3 × 3\nHCF = 2 × 3\nHCF = 6 cm"
+              },
+              {
+                "q": "Train A and train B stops at Hyderabad as 10:30am. Train A stops every 12 minutes and train B stops every 14 minutes. when do they both stop together?",
+                "a": "12 = 2 × 2 × 3\n14 = 2 × 7\nLCM = 2 × 2 × 3 × 7\nLCM = 84\n10:30 + 84 min\n11:54 am"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 5.2",
+            "items": [
+              {
+                "q": "Simplify the following\n(i) [[4x/(x^2+2x+1)]] + [[3/(x+1)]]\n(ii) [[3/(x(2x+1))]] + [[(6x+7)/(3x(x+1))]]\n(iii) [[(3x-1)/(x^2+2x+1)]] - [[(4x^2-1)/(x^2-2x-3)]]\n(iv) [[1/(x+1)]] - [[2/(x+2)]] + [[3/(x+3)]]\n(v) [[(x^2+4x+3)/5]] × [[10/(x+1)]]\n(vi) [[(x^2-4x-21)/(x^2-6x-7)]] ÷ [[(x+9)/(x+1)]]\n(vii) [ [[3/(x+1)]] + [[1/(x+2)]] ] ÷ [ [[2/(x+3)]] - 1 ]\n(viii) ( [[1/(x^2-9)]] ) ÷ ( [[1/(x+3)]] ) - [[3/(x-2)]]\n(ix) [[1/(x^2+8x+15)]] + [[1/(x^2+7x+12)]] - [[1/(x^2+x-12)]]\n(x) 2( [[(x^2+7x+12)/(x^2-16)]] + [[(x^2+x-2)/(x^2+4x+4)]] ) × [[(x^2-2x-8)/(8x^2+2x+4)]]",
+                "a": "(i) [[4x/(x+1)^2]] + [[3/(x+1)]]\n[[(4x+3(x+1))/(x+1)^2]]\n[[(7x+3)/(x+1)^2]]\n(ii) [[(9(x+1)+(6x+7)(2x+1))/(3x(2x+1)(x+1))]]\n[[(9x+9+12x^2+20x+7)/(3x(2x+1)(x+1))]]\n[[(12x^2+29x+16)/(3x(2x+1)(x+1))]]\n(iii) [[(3x-1)/(x+1)^2]] - [[((2x-1)(2x+1))/((x-3)(x+1))]]\n[[((3x-1)(x-3)-(4x^2-1)(x+1))/((x+1)^2(x-3))]]\n[[(-4x^3-x^2-9x+4)/((x+1)^2(x-3))]]\n(iv) [[(-x)/((x+1)(x+2))]] + [[3/(x+3)]]\n[[(-x(x+3)+3(x+1)(x+2))/((x+1)(x+2)(x+3))]]\n[[(2(x^2+3x+3))/((x+1)(x+2)(x+3))]]\n(v) [[((x+1)(x+3))/5]] × [[10/(x+1)]]\n2(x+3)\n2x+6\n(vi) [[(x^2-4x-21)/(x^2-6x-7)]] ÷ [[(x+9)/(x+1)]]\n[[((x-7)(x+3))/((x-7)(x+1))]] × [[(x+1)/(x+9)]]\n[[(x+3)/(x+9)]]\n(vii) [[(4x+7)/((x+1)(x+2))]] ÷ [[(-(x+1))/(x+3)]]\n[[(4x+7)/((x+1)(x+2))]] × [[(x+3)/(-(x+1))]]\n-[[((x+3)(4x+7))/((x+1)^2(x+2))]]\n(viii) [[1/(x-3)]] - [[3/(x-2)]]\n[[((x-2)-3(x-3))/((x-3)(x-2))]]\n[[(-2x+7)/((x-2)(x-3))]]\n(ix) [[1/((x+3)(x+5))]] + [[1/((x+3)(x+4))]] - [[1/((x+4)(x-3))]]\n[[((x+4)(x-3)+(x+5)(x-3)-(x+3)(x+5))/((x-3)(x+3)(x+4)(x+5))]]\n[[(x^2-5x-42)/((x^2-9)(x+4)(x+5))]]\n(x) 2( [[(x+3)/(x-4)]] + [[(x-1)/(x+2)]] ) × [[(x^2-2x-8)/(8x^2+2x+4)]]\n2 × [[(2(x^2+5))/((x-4)(x+2))]] × [[((x-4)(x+2))/(2(4x^2+x+2))]]\n[[(2(x^2+5))/(4x^2+x+2)]]"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 5.3",
+            "items": [
+              {
+                "q": "Find the square root of the following algebraic expressions by factorization method.\n(i) 36x^2-60xy+25y^2\n(ii) 9x^2+[[1/(x^2)]]+6\n(iii) 4x^4y^4-[[(12x^3y^3)/(z^2)]]+[[(9x^2y^2)/(z^4)]]\n(iv) 36(3-2x)^2-48(3-2x)y+16y^2\n(v) (x^2+[[1/(x^2)]])+2(x+[[1/x]])+3\n(vi) (4x^2-4x+1)(9x^2-54x+81)\n(vii) (x^2-2x+1)(x^2-6x+9)\n(viii) (x^2+8x+15)(x^2+7x+10)(x^2+5x+6)",
+                "a": "(i) 36x^2-60xy+25y^2 = (6x-5y)^2\n√(36x^2-60xy+25y^2) = 6x-5y\n(ii) 9x^2+[[1/(x^2)]]+6 = (3x+[[1/x]])^2\n3x+[[1/x]]\n(iii) 4x^4y^4-[[(12x^3y^3)/(z^2)]]+[[(9x^2y^2)/(z^4)]] = (2x^2y^2-[[(3xy)/(z^2)]])^2\n2x^2y^2-[[(3xy)/(z^2)]]\n(iv) 36(3-2x)^2-48(3-2x)y+16y^2 = (6(3-2x)-4y)^2\n18-12x-4y\n(v) (x^2+[[1/(x^2)]])+2(x+[[1/x]])+3 = (x+[[1/x]])^2+2(x+[[1/x]])+1\n= (x+[[1/x]]+1)^2\nx+[[1/x]]+1\n(vi) (4x^2-4x+1)(9x^2-54x+81) = (2x-1)^2(3x-9)^2\n3(2x-1)(x-3)\n(vii) (x^2-2x+1)(x^2-6x+9) = (x-1)^2(x-3)^2\n(x-1)(x-3)\n(viii) (x^2+8x+15)(x^2+7x+10)(x^2+5x+6) = [(x+2)(x+3)(x+5)]^2\n(x+2)(x+3)(x+5)"
+              },
+              {
+                "q": "Find the square root of the following algebraic expressions by division method.\n(i) x^4+2x^3+3x^2+2x+1\n(ii) 25x^4+40x^3+26x^2+8x+1\n(iii) 4x^4+8x^3+20x^2+16x+16\n(iv) [[x^2/(y^2)]]+[[y^2/(x^2)]]+47-[[(14y)/x]]+[[(14x)/y]]\n(v) x^2-2x+3-[[2/x]]+[[1/(x^2)]]\n(vi) x^2+[[(y^2)/9]]+9z^2+[[(2xy)/3]]+2yz+6xz\n(vii) (x^2+[[1/(x^2)]])^2-8(x^2+[[1/(x^2)]])+16\n(viii) x^6+[[1/(x^6)]]-4(x^3+[[1/(x^3)]])+6, x ≠ 0",
+                "a": "(i) x^4+2x^3+3x^2+2x+1 = (x^2+x+1)^2\n√(x^4+2x^3+3x^2+2x+1) = x^2+x+1\n(ii) 25x^4+40x^3+26x^2+8x+1 = (5x^2+4x+1)^2\n√(25x^4+40x^3+26x^2+8x+1) = 5x^2+4x+1\n(iii) 4x^4+8x^3+20x^2+16x+16 = (2x^2+2x+4)^2\n√(4x^4+8x^3+20x^2+16x+16) = 2x^2+2x+4\n(iv) ([[x/y]]-[[y/x]]+7)^2 = [[x^2/(y^2)]]+[[y^2/(x^2)]]+47-[[(14y)/x]]+[[(14x)/y]]\n[[x/y]]-[[y/x]]+7\n(v) x^2-2x+3-[[2/x]]+[[1/(x^2)]] = (x-1+[[1/x]])^2\nx-1+[[1/x]]\n(vi) x^2+[[(y^2)/9]]+9z^2+[[(2xy)/3]]+2yz+6xz = (x+[[y/3]]+3z)^2\nx+[[y/3]]+3z\n(vii) (x^2+[[1/(x^2)]])^2-8(x^2+[[1/(x^2)]])+16 = (x^2+[[1/(x^2)]]-4)^2\nx^2-4+[[1/(x^2)]]\n(viii) x^6+[[1/(x^6)]]-4(x^3+[[1/(x^3)]])+6 = (x^3+[[1/(x^3)]]-2)^2\nx^3-2+[[1/(x^3)]]"
+              },
+              {
+                "q": "What should be added to 4x^4+4x^3+17x^2+8x+9 to make it perfect square?",
+                "a": "4x^4+4x^3+17x^2+8x+9+7 = 4x^4+4x^3+17x^2+8x+16\n= (2x^2+x+4)^2\n7"
+              },
+              {
+                "q": "What should be subtracted from 9x^6-12x^5+4x^4-18x^3-12x^2+18 to make it a perfect square?",
+                "a": "9x^6-12x^5+4x^4-18x^3-12x^2+18-(-24x^2+9) = 9x^6-12x^5+4x^4-18x^3+12x^2+9\n= (3x^3-2x^2-3)^2\n-24x^2+9"
+              },
+              {
+                "q": "For what value of 'm', 9x^4+12x^3+34x^2+mx+25 will be the perfect square?",
+                "a": "9x^4+12x^3+34x^2+mx+25 = (3x^2+2x+5)^2\n9x^4+12x^3+34x^2+20x+25\nm = 20"
+              },
+              {
+                "q": "For what value of 'p' and 'q', the expression x^4+8x^3+30x^2+px+q will be the perfect square?",
+                "a": "x^4+8x^3+30x^2+px+q = (x^2+4x+7)^2\nx^4+8x^3+30x^2+56x+49\np = 56\nq = 49"
+              },
+              {
+                "q": "For what values of 'a' and 'b', x^4+4x^3+10x^2+ax+b will be the perfect square?",
+                "a": "x^4+4x^3+10x^2+ax+b = (x^2+2x+3)^2\nx^4+4x^3+10x^2+12x+9\na = 12\nb = 9"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "True and false questions\nRead the following sentences carefully and encircle 'T' in case of true and 'F' in case of false statement.\n(i) HCF of y^2-4 and y-2 is y-2. (T or F)\n(ii) HCF of a^3-1 and a^2-1 is a+1. (T or F)\n(iii) LCM of x^3+1 and x+1 is x^3+1. (T or F)\n(iv) LCM of x^4-y^4 and x^2-y^2 is x^2+y^2. (T or F)\n(v) HCF of a^2+4a+3 and a^2+5a+6 is a+3. (T or F)",
+                "a": "(i) True\n(ii) False\na-1\n(iii) True\n(iv) False\nx^4-y^4\n(v) True"
+              },
+              {
+                "q": "Fill in the blanks.\n(i) There are ______ methods for finding the HCF of polynomials.\n(ii) LCM × HCF of two polynomials p(x) and q(x) = ______.\n(iii) HCF of y^2-5y, y+6 and y-2 is ______.\n(iv) LCM of y^2+3y+2 and y^2+5y+6 is ______.\n(v) HCF of y^2-[[1/(y^2)]] and y+[[1/y]] is ______.",
+                "a": "(i) two\n(ii) p(x) × q(x)\n(iii) 1\n(iv) (y+1)(y+2)(y+3)\n(v) y+[[1/y]]"
+              },
+              {
+                "q": "Tick (✓) the correct answers\n(i) HCF of x^3-8y^3 and x^2-4xy+4y^2 is:\n(a) x-4y (b) x^2+2xy+y^2 (c) x+2y (d) x-2y\n(ii) LCM of (2y+3z)^5 and (2y+3z)^3 is:\n(a) (2y+3z)^8 (b) (2y+3z)^3 (c) (2y+3z)^2 (d) (2y+3z)^5\n(iii) HCF of x^3-y^3 and x^2+xy+y^2 is:\n(a) x+y (b) x^2+xy+y^2 (c) x-y (d) (x-y)^2\n(iv) LCM of (x-y)^4 and (x-y)^3 is:\n(a) (x-y) (b) (x-y)^3 (c) (x-y)^4 (d) (x-y)^7\n(v) Simplified form of [[1/(x+y)]] + [[y/(x^2-y^2)]] is:\n(a) [[(y+1)/(x^2-y^2)]] (b) [[x/(x^2-y^2)]] (c) [[y/(x^2-y^2)]] (d) [[(x+y)/(x^2-y^2)]]\n(vi) Simplified form of [[y/(25x^2-y^2)]] - [[1/(5x-y)]] is:\n(a) [[(5x)/(25x^2-y^2)]] (b) [[(5x)/(5x-y)]] (c) [[(-5x)/(5x+y)]] (d) [[(-5x)/(25x-y^2)]]\n(vii) [[(a^3x^3+a^3y^3)/(a^2(x+y))]] = ______:\n(a) ax^2+ay^2 (b) x^2+y^2 (c) a(x^2-xy+y^2) (d) a(x^2+xy+y^2)\n(viii) [[a/(a-b)]] - [[b/(a+b)]] = ______:\n(a) [[(a^2+b^2)/(a-b)]] (b) [[(a^2+b^2)/(a^2-b^2)]] (c) [[(a+b)/(a^2-b^2)]] (d) [[(a-b)/(a^2-b^2)]]\n(ix) LCM = ______, given that p and q are any two polynomials.\n(a) [[(HCF)/(p×q)]] (b) [[(p×q)/(HCF)]] (c) [[p/(HCF)]] (d) [[q/(HCF)]]\n(x) LCM of x^2-x+1 and x^3+1 is:\n(a) x+1 (b) x^2-x+1 (c) x^3+1 (d) x^2+x+1",
+                "a": "(i) (d) x-2y\n(ii) (d) (2y+3z)^5\n(iii) (b) x^2+xy+y^2\n(iv) (c) (x-y)^4\n(v) (b) [[x/(x^2-y^2)]]\n(vi) (d) [[(-5x)/(25x^2-y^2)]]\n(vii) (c) a(x^2-xy+y^2)\n(viii) (b) [[(a^2+b^2)/(a^2-b^2)]]\n(ix) (b) [[(p×q)/(HCF)]]\n(x) (c) x^3+1"
+              }
+            ]
+          }
+        ],
+        "display": "Algebraic Manipulation"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) [[1/4]]x = 5\nx = 5 × 4\nx = 20\n(ii) [[x/4]] = -3\nx = -3 × 4\nx = -12\n(iii) -5 = -[[x/6]]\n-5 × 6 = -x\n-30 = -x\nx = 30\n(iv) -[[x/8]] = -5\n-x = -40\nx = 40\n(v) y - [[2/5]] = -[[1/3]]\ny = [[2/5]] - [[1/3]]\ny = [[1/15]]\n(vi) 2y - [[3/5]] = [[1/2]]\n2y = [[1/2]] + [[3/5]]\n2y = [[11/10]]\ny = [[11/20]]\n(vii) [[(2x-4)/5]] = [[(5x-12)/4]]\n4(2x - 4) = 5(5x - 12)\n8x - 16 = 25x - 60\n44 = 17x\nx = [[44/17]]\n(viii) [[3x/5]] + 7 = [[2x/3]]\n9x + 105 = 10x\n105 = x\nx = 105\n(ix) [[3x/5]] + 7 = [[2x/3]] + [[4x/5]]\n9x + 105 = 10x + 12x\n105 = 13x\nx = [[105/13]]\n(x) [[6/(2x-5)]] - [[4/(x-3)]] = 0\n[[6/(2x-5)]] = [[4/(x-3)]]\n6(x - 3) = 4(2x - 5)\n6x - 18 = 8x - 20\n2 = 2x\nx = 1\n(xi) [[(7x-4)/15]] = [[(7x+4)/10]]\n10(7x - 4) = 15(7x + 4)\n70x - 40 = 105x + 60\n-100 = 35x\nx = -[[20/7]]\n(xii) [[(3x-2)/10]] = [[(7x-3)/15]] - 2\n3(3x - 2) = 2(7x - 3) - 60\n9x - 6 = 14x - 66\n60 = 5x\nx = 12\n(xiii) [[(12x-3)/12]] = [[(12x+3)/8]]\n8(12x - 3) = 12(12x + 3)\n96x - 24 = 144x + 36\n-60 = 48x\nx = -[[5/4]]\n(xiv) [[1/4]]x + x = -3 + [[1/2]]x\n[[5/4]]x - [[1/2]]x = -3\n[[3/4]]x = -3\nx = -4\n(xv) [[1/3]] + 2m = m - [[3/2]]\n2m - m = -[[3/2]] - [[1/3]]\nm = -[[11/6]]",
+                "q": "Solve the following equations\n(i) [[1/4]]x = 5\n(ii) [[x/4]] = -3\n(iii) -5 = -[[x/6]]\n(iv) -[[x/8]] = -5\n(v) y - [[2/5]] = -[[1/3]]\n(vi) 2y - [[3/5]] = [[1/2]]\n(vii) [[(2x-4)/5]] = [[(5x-12)/4]]\n(viii) [[3x/5]] + 7 = [[2x/3]]\n(ix) [[3x/5]] + 7 = [[2x/3]] + [[4x/5]]\n(x) [[6/(2x-5)]] - [[4/(x-3)]] = 0\n(xi) [[(7x-4)/15]] = [[(7x+4)/10]]\n(xii) [[(3x-2)/10]] = [[(7x-3)/15]] - 2\n(xiii) [[(12x-3)/12]] = [[(12x+3)/8]]\n(xiv) [[1/4]]x + x = -3 + [[1/2]]x\n(xv) [[1/3]] + 2m = m - [[3/2]]"
+              },
+              {
+                "a": "[[(x+25)/2]] = 3x\nx + 25 = 6x\n25 = 5x\nx = 5",
+                "q": "When 25 added to a number, the result is halved; the answer is 3 times the original number. What is the number?"
+              },
+              {
+                "a": "x + 4 = 3x - 10\n14 = 2x\nx = 7",
+                "q": "When a number is added to 4, the result is equal to subtracting 10 from 3 times of it. What is the number?"
+              },
+              {
+                "a": "(x + 5) + (x + 6 + 5) = 40\n2x + 16 = 40\n2x = 24\nx = 12\nAli = 12 years\nBilal = 18 years",
+                "q": "Bilal is 6 year older than Ali, Five years from now the sum of their age will be 40. How old are both of them."
+              },
+              {
+                "a": "(i) 6 + √x = 7\n√x = 1\nx = 1\n6 + √1 = 7\n{1}\n(ii) √(x - 9) = 1\nx - 9 = 1\nx = 10\n√(10 - 9) = 1\n{10}\n(iii) √[[y/4]] - 2 = 3\n√[[y/4]] = 5\n[[y/4]] = 25\ny = 100\n√[[100/4]] - 2 = 3\n{100}\n(iv) √(4x + 5) = √(3x - 7)\n(√(4x + 5))^2 = (√(3x - 7))^2\n4x + 5 = 3x - 7\nx = -12\n4(-12) + 5 = -43\n-43 < 0\n√(-43) ∉ R\n{}\n(v) [[√(3y+12)/7]] = 3\n√(3y + 12) = 21\n3y + 12 = 441\n3y = 429\ny = 143\n[[√(3(143)+12)/7]] = 3\n{143}\n(vi) √x + 9 = 7\n√x = -2\n√x ≥ 0\n{}\n(vii) √(25y - 50) = √(y - 2)\n(√(25y - 50))^2 = (√(y - 2))^2\n25y - 50 = y - 2\n24y = 48\ny = 2\n√(25(2) - 50) = √(2 - 2)\n√0 = √0\n{2}\n(viii) √x - 8 = 1\n√x = 9\nx = 81\n√81 - 8 = 1\n{81}\n(ix) 10√(x + 20) = 100\n√(x + 20) = 10\nx + 20 = 100\nx = 80\n10√(80 + 20) = 100\n{80}",
+                "q": "Find the Solution set of the following equations and also verify the answer:\n(i) 6 + √x = 7\n(ii) √(x - 9) = 1\n(iii) √[[y/4]] - 2 = 3\n(iv) √(4x + 5) = √(3x - 7)\n(v) [[√(3y+12)/7]] = 3\n(vi) √x + 9 = 7\n(vii) √(25y - 50) = √(y - 2)\n(viii) √x - 8 = 1\n(ix) 10√(x + 20) = 100"
+              }
+            ],
+            "label": "Exercise 6.1"
+          },
+          {
+            "items": [
+              {
+                "a": "1. |2x + 1| = 6\n2x + 1 = 6 or 2x + 1 = -6\n2x = 5 or 2x = -7\nx = [[5/2]] or x = -[[7/2]]\n{- [[7/2]], [[5/2]]}\n2. |5x - 12| = 7, x∈W\n5x - 12 = 7 or 5x - 12 = -7\n5x = 19 or 5x = 5\nx = [[19/5]] or x = 1\n[[19/5]] ∉ W\n{1}\n3. |[[2x/7]]| = 12\n[[2x/7]] = 12 or [[2x/7]] = -12\n2x = 84 or 2x = -84\nx = 42 or x = -42\n{-42, 42}\n4. |[[(2x+1)/3]]| = 8\n[[(2x+1)/3]] = 8 or [[(2x+1)/3]] = -8\n2x + 1 = 24 or 2x + 1 = -24\n2x = 23 or 2x = -25\nx = [[23/2]] or x = -[[25/2]]\n{- [[25/2]], [[23/2]]}\n5. |5x - 3| - 8 = 4, x∈N\n|5x - 3| = 12\n5x - 3 = 12 or 5x - 3 = -12\n5x = 15 or 5x = -9\nx = 3 or x = -[[9/5]]\n-[[9/5]] ∉ N\n{3}\n6. |[[(5x+1)/7]]| - 3 = 8\n|[[(5x+1)/7]]| = 11\n[[(5x+1)/7]] = 11 or [[(5x+1)/7]] = -11\n5x + 1 = 77 or 5x + 1 = -77\n5x = 76 or 5x = -78\nx = [[76/5]] or x = -[[78/5]]\n{- [[78/5]], [[76/5]]}\n7. |[[(2x+3)/4]]| + 2 = 7\n|[[(2x+3)/4]]| = 5\n[[(2x+3)/4]] = 5 or [[(2x+3)/4]] = -5\n2x + 3 = 20 or 2x + 3 = -20\n2x = 17 or 2x = -23\nx = [[17/2]] or x = -[[23/2]]\n{- [[23/2]], [[17/2]]}\n8. |[[(3x+6)/12]]| + 1 = 3, x∈Z\n|[[(3x+6)/12]]| = 2\n[[(3x+6)/12]] = 2 or [[(3x+6)/12]] = -2\n3x + 6 = 24 or 3x + 6 = -24\n3x = 18 or 3x = -30\nx = 6 or x = -10\n{-10, 6}\n9. [[3/2]] = |7x + 8|\n7x + 8 = [[3/2]] or 7x + 8 = -[[3/2]]\n7x = -[[13/2]] or 7x = -[[19/2]]\nx = -[[13/14]] or x = -[[19/14]]\n{- [[19/14]], -[[13/14]]}\n10. |[[(2x-3)/5]]| - 12 = 5\n|[[(2x-3)/5]]| = 17\n[[(2x-3)/5]] = 17 or [[(2x-3)/5]] = -17\n2x - 3 = 85 or 2x - 3 = -85\n2x = 88 or 2x = -82\nx = 44 or x = -41\n{-41, 44}\n11. |3x + 1| + 1 = [[3/4]]\n|3x + 1| = -[[1/4]]\n-[[1/4]] < 0\n{}\n12. |[[(2x+1)/7]]| = 1\n[[(2x+1)/7]] = 1 or [[(2x+1)/7]] = -1\n2x + 1 = 7 or 2x + 1 = -7\n2x = 6 or 2x = -8\nx = 3 or x = -4\n{-4, 3}",
+                "q": "Find the solution set of the following equations.\n1. |2x + 1| = 6\n2. |5x - 12| = 7, where x∈W\n3. |[[2x/7]]| = 12\n4. |[[(2x+1)/3]]| = 8\n5. |5x - 3| - 8 = 4, where x∈N\n6. |[[(5x+1)/7]]| - 3 = 8\n7. |[[(2x+3)/4]]| + 2 = 7\n8. |[[(3x+6)/12]]| + 1 = 3, where x∈Z\n9. [[3/2]] = |7x + 8|\n10. |[[(2x-3)/5]]| - 12 = 5\n11. |3x + 1| + 1 = [[3/4]]\n12. |[[(2x+1)/7]]| = 1"
+              }
+            ],
+            "label": "Exercise 6.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 2x - 7 > 6 + x, ∀x∈N\nx > 13\n{x | x∈N ∧ x > 13}\n{14, 15, 16, ...}\nNumber line: ○ at 13, ray to the right\n(ii) 7x - 6 > 3x + 10, ∀x∈R\n4x > 16\nx > 4\n{x | x∈R ∧ x > 4}\nNumber line: ○ at 4, ray to the right\n(iii) [[(y+5)/20]] < [[(25-4y)/10]], ∀y∈N\ny + 5 < 2(25 - 4y)\ny + 5 < 50 - 8y\n9y < 45\ny < 5\n{y | y∈N ∧ y < 5}\n{1, 2, 3, 4}\nNumber line: ● at 1, 2, 3, 4\n(iv) |2x + 3| < x + 2, ∀x∈Z\n-(x + 2) < 2x + 3 < x + 2\n2x + 3 < x + 2\nx < -1\n-(x + 2) < 2x + 3\n-x - 2 < 2x + 3\n-5 < 3x\n-[[5/3]] < x\n-[[5/3]] < x < -1\n{}\nNumber line: nothing marked\n(v) |2y + 8| < 11, ∀y∈R\n-11 < 2y + 8 < 11\n-19 < 2y < 3\n-[[19/2]] < y < [[3/2]]\n{y | y∈R ∧ -[[19/2]] < y < [[3/2]]}\nNumber line: ○ at -[[19/2]], ○ at [[3/2]], line between\n(vi) 5(2y - 3) > 6(y - 8), ∀y∈R\n10y - 15 > 6y - 48\n4y > -33\ny > -[[33/4]]\n{y | y∈R ∧ y > -[[33/4]]}\nNumber line: ○ at -[[33/4]], ray to the right",
+                "q": "Find the solution sets of the following inequalities and also illustrate the solution on the number line.\n(i) 2x - 7 > 6 + x ∀x∈N\n(ii) 7x - 6 > 3x + 10, ∀x∈R\n(iii) [[(y+5)/20]] < [[(25-4y)/10]], ∀y∈N\n(iv) |2x + 3| < x + 2, ∀x∈Z\n(v) |2y + 8| < 11, ∀y∈R\n(vi) 5(2y - 3) > 6(y - 8), ∀y∈R"
+              },
+              {
+                "a": "[[(66 + 72 + x)/3]] ≥ 75\n66 + 72 + x ≥ 225\n138 + x ≥ 225\nx ≥ 87",
+                "q": "Ali scored 66 and 72 marks respectively. For his two Tests, what is the lowest mark he must have scored for his third test If an average score of at least 75 is required to qualify for a bonus prize"
+              },
+              {
+                "a": "3(x + 5) - 7 ≥ 10\n3x + 15 - 7 ≥ 10\n3x + 8 ≥ 10\n3x ≥ 2\nx ≥ [[2/3]]\n{x | x∈R ∧ x ≥ [[2/3]]}",
+                "q": "Seven less than three times the sum of a number and 5 is at least 10, Find all the number that satisfy this condition."
+              }
+            ],
+            "label": "Exercise 6.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) a = 0\nay + b = 0\nb = 0\n(i) F\n(ii) 3y - 2 < 7, y∈N\n3y < 9\ny < 3\n{1, 2}\n(ii) F\n(iii) √y + 1 = 3\n√y = 2\ny = 4\n{4}\n(iii) T\n(iv) |4y| = 8\n4y = 8 or 4y = -8\ny = 2 or y = -2\n{2, -2}\n(iv) T\n(v) -2 ≤ x ≤ 2, x∈Z\n{-2, -1, 0, 1, 2}\n(v) F",
+                "q": "True and false questions\nRead the following sentences carefully and encircle 'T' in case of true and 'F' in case of false statement.\n(i) ay + b = 0, where a = 0 is a linear equation T or F\n(ii) The solution set of 3y - 2 < 7, y∈N is {4, 5, 6, ...} T or F\n(iii) The solution set of √y + 1 = 3 is {4}. T or F\n(iv) The solution set of |4y| = 8 is {2, -2}. T or F\n(v) The solution set of -2 ≤ x ≤ 2, x∈Z is {-2, 0, 2}. T or F"
+              },
+              {
+                "a": "(i) 2y = -y\n3y = 0\ny = 0\n(i) {0}\n(ii) √(y + 5) = 5\ny + 5 = 25\ny = 20\n(ii) {20}\n(iii) |x| - 4 = 0\n|x| = 4\nx = 4 or x = -4\n(iii) {4, -4}\n(iv) √(x + 5) + 2 = 4\n√(x + 5) = 2\nx + 5 = 4\nx = -1\n(iv) {-1}\n(v) 0 < y + 2 < 5, y∈R\n-2 < y < 3\n(v) {y | y∈R ∧ -2 < y < 3}",
+                "q": "Fill in the blanks.\n(i) The solution set of 2y = -y is ______.\n(ii) The solution set of √(y + 5) = 5 is ______.\n(iii) The solution set of |x| - 4 = 0 is ______.\n(iv) The solution set of √(x + 5) + 2 = 4 is ______.\n(v) The solution set of 0 < y + 2 < 5 when y∈R is ______."
+              },
+              {
+                "a": "(i) (a) One solution\n(ii) (a) = 20\n(iii) (c) x < 4 or x = 4\n(iv) (a) {100}\n(v) (b) Radical equation\n(vi) (c) {4}\n(vii) (c) {4}\n(viii) (c) {3, -3}\n(ix) (c) {0}\n(x) (a) x < y",
+                "q": "Tick (✓) the correct answer\n(i) The solution set of linear equation in one variable has\n(a) One solution (b) Two solutions\n(c) Three solutions (d) More than one solutions\n(ii) |-20|\n(a) = 20 (b) < 20\n(c) = -20 (d) > 20\n(iii) x ≤ 4 means\n(a) x < 4 (b) x = 4\n(c) x < 4 or x = 4 (d) x > 4 or x = 4\n(iv) The solution set of √y = 10 is\n(a) {100} (b) {10}\n(c) {-10} (d) {-10, 10}\n(v) √(y + 4) + 2 = 8 is a\n(a) Linear equation (b) Radical equation\n(c) Cubic equation (d) Quadratic equation\n(vi) The solution set of 5 - 3y = -7 is\n(a) {-4} (b) {1, 4}\n(c) {4} (d) {12}\n(vii) The solution set of √(5y + 5) + 5 = 10 is\n(a) {±4} (b) {5}\n(c) {4} (d) {-4}\n(viii) The solution set of |[[5y/3]]| = 5 is\n(a) {3} (b) {-5, 5}\n(c) {3, -3} (d) {-3}\n(ix) The solution set of |-y| = 0 is\n(a) {1} (b) {-1}\n(c) {0} (d) {}\n(x) If x > 0, y > 0 and x - y < 0, then which of the following relation holds good?\n(a) x < y (b) x + y < 0\n(c) x > y (d) y - x < 0"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Linear Equation and Inequalities",
+        "unit": 6,
+        "display": "Linear Equation and Inequalities"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) Abscissa = -2, ordinate = 2\n(ii) Abscissa = 5, ordinate = -1\n(iii) Abscissa = 4, ordinate = 0\n(iv) Abscissa = -5, ordinate = -6\n(v) Abscissa = 3, ordinate = 4\n(vi) Abscissa = -√8, ordinate = √8",
+                "q": "Determine x and y co-ordinate in the following points:\n(i) A(-2, 2) (ii) B(5, -1) (iii) C(4, 0)\n(iv) D(-5, -6) (v) E(3, 4) (vi) F(-√8, √8)"
+              },
+              {
+                "a": "(i) Quadrant IV\n(ii) Quadrant II\n(iii) Quadrant IV\n(iv) Quadrant III\n(v) Quadrant I\n(vi) Quadrant I",
+                "q": "Mention the quadrant in which each of the following point lies.\n(i) A(2, -1) (ii) B(-3, 3) (iii) C(2√2, -2√2)\n(iv) D(-2, -4) (v) E(5, 4) (vi) F([[3/2]], [[5/2]])"
+              },
+              {
+                "a": "(i) A(2, 1), B(3, 2), C(-3, 4), D(-4, -5)\n(ii) A(2, 0), B(0, 2), C(3, -3), D(-3, 3)\n(iii) A(0, 0), B(-3, -3), C(5, -6), D(-6, 5)",
+                "q": "Plot the following points A, B, C and D in the xy-plane.\n(i) A(2, 1), B(3, 2), C(-3, 4), D(-4, -5)\n(ii) A(2, 0), B(0, 2), C(3, -3), D(-3, 3)\n(iii) A(0, 0), B(-3, -3), C(5, -6), D(-6, 5)"
+              },
+              {
+                "a": "A(4, 6), B(-6, 8)",
+                "q": "Draw a line segment AB by joining the points A(4, 6) and B(-6, 8)."
+              },
+              {
+                "a": "A(-1, 4), B(-3, -6), C(3, -2)",
+                "q": "Draw a triangle ABC by joining the points A(-1, 4), B(-3, -6) and C(3, -2)."
+              },
+              {
+                "a": "A(0, -1), B(0, 5), C(7, -1), D(7, 5)\nA(0, -1), B(0, 5), D(7, 5), C(7, -1)",
+                "q": "Draw a rectangle ABCD by joining the points A(0, -1), B(0, 5), C(7, -1) and D(7, 5)."
+              },
+              {
+                "a": "O(0, 0), A(5, 0), B(5, 5), C(0, 5)",
+                "q": "Draw a square OABC by joining the points O(0, 0), A(5, 0), B(5, 5) and C(0, 5)."
+              },
+              {
+                "a": "O(0, 0), A(2, 4), B(4, 0), C(6, 4)\nO(0, 0), B(4, 0), C(6, 4), A(2, 4)",
+                "q": "Draw a parallelogram OABC whose vertices are O(0, 0), A(2, 4), B(0, 5) and C(6, 4)."
+              },
+              {
+                "a": "(i) y = 2 - x\nx: -3, -2, -1, 0, 1, 2, 3\ny: 5, 4, 3, 2, 1, 0, -1\n(ii) y = 2x - 6\nx: -3, -2, -1, 0, 1, 2, 3\ny: -12, -10, -8, -6, -4, -2, 0\n(iii) x = 12 - 2y\ny: -3, -2, -1, 0, 1, 2, 3\nx: 18, 16, 14, 12, 10, 8, 6\n(iv) x = 2y - 3\ny: -3, -2, -1, 0, 1, 2, 3\nx: -9, -7, -5, -3, -1, 1, 3",
+                "q": "Construct the table for some values of x and y of the following linear equations.\n(i) x + y - 2 = 0 (ii) 2x - y - 2 = 4\n(iii) [[1/2]](x + 2y) - 6 = 0 (iv) [[2/3]](x - 2y) = -2"
+              }
+            ],
+            "label": "Exercise 7.1"
+          },
+          {
+            "items": [
+              {
+                "a": "y = 6 - x\nx: -3, -2, -1, 0, 1, 2, 3\ny: 9, 8, 7, 6, 5, 4, 3",
+                "q": "Construct a table for the equation given below, satisfying the pair of values: x + y = 6"
+              },
+              {
+                "a": "(0, 2), (-1, 4), (4, 5), (-4, -5)",
+                "q": "Draw the graph from the table given below, using suitable scale.\nx: 0, -1, 4, -4\ny: 2, 4, 5, -5"
+              },
+              {
+                "a": "(i) y = 3\nx: -3, -2, -1, 0, 1, 2, 3\ny: 3, 3, 3, 3, 3, 3, 3\nParallel to x-axis\n(ii) x = 3\nx: 3, 3, 3, 3, 3, 3, 3\ny: -3, -2, -1, 0, 1, 2, 3\nParallel to y-axis\n(iii) y = 0\nx: -3, -2, -1, 0, 1, 2, 3\ny: 0, 0, 0, 0, 0, 0, 0\nx-axis\n(iv) y = 2x + 3\nx: -3, -2, -1, 0, 1, 2, 3\ny: -3, -1, 1, 3, 5, 7, 9\ny-intercept = 3\n(v) x = 3.5\nx: 3.5, 3.5, 3.5, 3.5, 3.5, 3.5, 3.5\ny: -3, -2, -1, 0, 1, 2, 3\nParallel to y-axis\n(vi) y = -2x\nx: -3, -2, -1, 0, 1, 2, 3\ny: 6, 4, 2, 0, -2, -4, -6\n(0, 0)",
+                "q": "Plot the graph of:\n(i) y = 3 (ii) x = 3 (iii) y = 0\n(iv) y = 2x + 3 (v) x = 3.5 (vi) -y = 2x"
+              },
+              {
+                "a": "(i) y = [[1/2]]x\n(0, 0), (4, 2)\n(ii) x = [[2/3]]y\n(1, [[3/2]]), (1, [[3/2]])\n(iii) 2x + 4y = 8\n(0, 2), ([[7/2]], [[1/4]])\n(iv) 2x + y = 6\n(1, 4), (3, 0)\n(v) x - y = 2\n(2, 0), (1, -1)\n(vi) x - 3y = 6\n(3, -1), (3, -1)",
+                "q": "Find the missing coordinates in the table given below.\n(i) y = [[1/2]]x: (x, y) = (?, 0), (4, ?)\n(ii) x = [[2/3]]y: (x, y) = (1, ?), (?, [[3/2]])\n(iii) 2x + 4y = 8: (x, y) = (0, ?), (?, [[1/4]])\n(iv) 2x + y = 6: (x, y) = (1, ?), (?, 0)\n(v) x - y = 2: (x, y) = (?, 0), (1, ?)\n(vi) x - 3y = 6: (x, y) = (3, ?), (?, -1)"
+              },
+              {
+                "a": "y = 2x\nx: 0, 5, 10, 15, 20, 25, 30\ny: 0, 10, 20, 30, 40, 50, 60",
+                "q": "The weight (y) in kg and age (x) in years of a person expressed by the equation y = 2x. Draw the Age - Weight graph."
+              },
+              {
+                "a": "d = 20t\nt: 0, 1, 2, 3, 4, 5\nd: 0, 20, 40, 60, 80, 100\n(a) d = 100, t = 5 hours\n(b) t = 3, d = 60 km",
+                "q": "Ayesha can drive a two-wheeler continuously at the speed of 20 km per hour. Construct a distance-time graph for this situation. Through the linear graph calculate:\na) The time taken by Ayesha to ride 100 km.\nb) The total distance covered by Ayesha in 3 hours."
+              }
+            ],
+            "label": "Exercise 7.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 1 mile ≅ 1.6 kilometers\n(ii) 3 miles ≅ 4.8 kilometers\n(iii) 2 kilometers ≅ 1.2 miles\n(iv) 8 kilometers ≅ 4.9 miles",
+                "q": "Read the given conversion graph between miles and kilometer to approximately convert:\n(i) 1 miles to kilometers (ii) 3 miles to kilometers\n(iii) 2 kilometers to miles (iv) 8 kilometers to miles\nBy using given scales.\nConversion graph between miles and kilometer\nScale: 5 small squares = 1 mile along x-axis\n5 small squares = 1 kilometer along y-axis"
+              },
+              {
+                "a": "(i) 2 hectares ≅ 5 acres\n(ii) 5 hectares ≅ 12 acres\n(iii) 5 acres ≅ 2 hectares\n(iv) 15 acres ≅ 6 hectares",
+                "q": "Read the given conversion graph between Hectares and Acres to approximately convert:\n(i) 2 hectares to acres (ii) 5 hectares to acres\n(iii) 5 acres to hectares (iv) 15 acres to hectares\nBy using given scales.\nConversion graph between hectares and acres\nScale: 5 small squares = 1 hectares along x-axis\n2 small squares = 1 acres along y-axis"
+              },
+              {
+                "a": "(i) 2° Celsius ≅ 35.6° Fahrenheit\n(ii) 1.80° Celsius ≅ 35.2° Fahrenheit\n(iii) 32° Fahrenheit ≅ 0° Celsius\n(iv) 36.4° Fahrenheit ≅ 2.4° Celsius",
+                "q": "Read the given conversion graph between Celsius and Fahrenheit to approximately convert:\n(i) 2° Celsius to Fahrenheit (ii) 1.80° Celsius to Fahrenheit\n(iii) 32° Fahrenheit to Celsius (iv) 36.4° Fahrenheit to Celsius\nBy using given scales.\nConversion graph between Celsius and Fahrenheit\nScale: 5 small squares = 1 Celsius along x-axis\n5 small squares = 1 Fahrenheit along y-axis"
+              },
+              {
+                "a": "(i) 3 Saudi riyal ≅ Rs 90\n(ii) 5.2 Saudi riyal ≅ Rs 156\n(iii) 150 Rs ≅ 5 Saudi riyal\n(iv) 78 Rs ≅ 2.6 Saudi riyal",
+                "q": "Read the given conversion graph Saudi Riyal and Pakistani rupees (Rs) to approximately convert:\n(i) 3 Saudi riyal to Rs (ii) 5.2 Saudi riyal to Rs\n(iii) 150 Rs to Saudi riyal (iv) 78 Rs to Saudi riyal\nBy using given scales.\nConversion graph between Saudi Riyal to Pakistani rupees (Rs)\nScale: 5 small squares = 1 Saudi riyal along x-axis\n5 small squares = 30 Rs along y-axis"
+              },
+              {
+                "a": "(i) y = 3x - 11\nx - 3y = 9\nx - 3(3x - 11) = 9\nx = 3\ny = -2\n{(3, -2)}\n(ii) y = 4 - x\n2x - 1 = 5y\n2x - 1 = 5(4 - x)\nx = 3\ny = 1\n{(3, 1)}\n(iii) y = 2x - 5\nx = 2y + 1\nx = 2(2x - 5) + 1\nx = 3\ny = 1\n{(3, 1)}\n(iv) y = 3x - 5\nx + y = 11\nx + 3x - 5 = 11\nx = 4\ny = 7\n{(4, 7)}\n(v) y = x\n2x + y = 3\n3x = 3\nx = 1\ny = 1\n{(1, 1)}\n(vi) y = 2x + 2\ny = x - 1\n2x + 2 = x - 1\nx = -3\ny = -4\n{(-3, -4)}\n(vii) x = 5 - 4y\n2x + 3y = 0\n2(5 - 4y) + 3y = 0\ny = 2\nx = -3\n{(-3, 2)}\n(viii) 3x = 5y - 2\n3x + 5y = 8\n5y - 2 + 5y = 8\ny = 1\nx = 1\n{(1, 1)}\n(ix) y = 2x - 12\n[[(x + 2)/5]] + y = 6\n[[(x + 2)/5]] + 2x - 12 = 6\nx = 8\ny = 4\n{(8, 4)}\n(x) 3x - 2y = 13\n2x + 3y = 13\n9x - 6y = 39\n4x + 6y = 26\nx = 5\ny = 1\n{(5, 1)}",
+                "q": "Solve the following simultaneous equations by graphical method.\n(i) 3x - 11 = y; x - 3y = 9 (ii) x + y = 4; 2x - 1 = 5y\n(iii) 2x = y + 5; x = 2y + 1 (iv) y = 3x - 5; x + y = 11\n(v) 2x + y = 3; x - y = 0 (vi) 2x + 2 = y; y = x - 1\n(vii) 5 = x + 4y; 2x + 3y = 0 (viii) 3x = 5y - 2; 3x + 5y = 8\n(ix) [[(x + 2)/5]] + y = 6; y = 2x - 12 (x) 3x - 2y = 13; 2x + 3y = 13"
+              }
+            ],
+            "label": "Exercise 7.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) T\n(ii) F\n(iii) F\n(iv) F",
+                "q": "True and false question\nRead the following sentences carefully and encircle T or F whichever is.\n(i) The Cartesian plane is also called xy-plane. T or F\n(ii) In 2nd quadrant both x and y coordinates are positive. T or F\n(iii) The point (1, -2) lies in 1st quadrant. T or F\n(iv) The (-3, -4) lies in the 4th quadrant. T or F"
+              },
+              {
+                "a": "(i) (c) 3rd quadrant\n(ii) (b) 90°\n(iii) (a) x-axis\n(iv) (b) y-axis\n(v) (c) (-5, 0)\n(vi) (d) { }\n(vii) (a) Perpendicular",
+                "q": "Tick (✓) the correct answer in the following:\n(i) The point (-3, -4) is located in\n(a) 1st quadrant (b) 2nd quadrant (c) 3rd quadrant (d) 4th quadrant\n(ii) The two coordinates axes intersect at an angle of\n(a) 45° (b) 90° (c) 180° (d) 270°\n(iii) The line y = 4 is parallel to\n(a) x-axis (b) y-axis (c) Both axes (d) None\n(iv) The line x = -5 is parallel to\n(a) x-axis (b) y-axis (c) Both axis (d) None\n(v) The line x = -5 has a point on x-axis\n(a) (-5, 5) (b) (0, -5) (c) (-5, 0) (d) (5, 0)\n(vi) The solution set of the line x = 2 and x = 5\n(a) {(2, 5)} (b) {2, 5} (c) {(0, 5)} (d) { }\n(vii) The co-ordinate axes are mutually\n(a) Perpendicular (b) Parallel (c) Intersecting at 30° (d) Intersecting at 45°"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Linear Graphs and their Applications",
+        "unit": 7,
+        "display": "Linear Graphs and their Applications"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) x² + 5x + 6 = 0\n(x + 2)(x + 3) = 0\nx = −2 or x = −3\nS.S = {−2, −3}\n(ii) 6x² − x − 1 = 0\n(3x + 1)(2x − 1) = 0\nx = [[1/2]] or x = [[−1/3]]\nS.S = {[[1/2]], [[−1/3]]}\n(iii) x² − 11x + 30 = 0\n(x − 5)(x − 6) = 0\nx = 5 or x = 6\nS.S = {5, 6}\n(iv) x² − 2x = 0\nx(x − 2) = 0\nx = 0 or x = 2\nS.S = {0, 2}\n(v) x² − 2x − 15 = 0\n(x − 5)(x + 3) = 0\nx = 5 or x = −3\nS.S = {5, −3}\n(vi) 12x² − 41x + 24 = 0\n12x² − 32x − 9x + 24 = 0\n4x(3x − 8) − 3(3x − 8) = 0\n(3x − 8)(4x − 3) = 0\nx = [[8/3]] or x = [[3/4]]\nS.S = {[[8/3]], [[3/4]]}\n(vii) (x − 5)² − 9 = 0\n(x − 5)² = 9\nx − 5 = ±3\nx = 8 or x = 2\nS.S = {8, 2}\n(viii) (3x + 4)² − 16 = 0\n(3x + 4)² = 16\n3x + 4 = ±4\nx = 0 or x = [[−8/3]]\nS.S = {0, [[−8/3]]}",
+                "q": "Solve the following quadratic equations by factorization method:\n(i) x² + 5x + 6 = 0 (ii) 6x² − x − 1 = 0 (iii) x² − 11x + 30 = 0 (iv) x² − 2x = 0 (v) x² − 2x − 15 = 0 (vi) 12x² − 41x + 24 = 0 (vii) (x − 5)² − 9 = 0 (viii) (3x + 4)² − 16 = 0"
+              },
+              {
+                "a": "(i) x² + 6x + 1 = 0\nx² + 6x = −1\nx² + 6x + 9 = 8\n(x + 3)² = 8\nx + 3 = ±2√2\nx = −3 ± 2√2\nS.S = {−3 + 2√2, −3 − 2√2}\n(ii) (3x + 2)(x + 2) = 6 − 2(x + 1)\n3x² + 8x + 4 = 4 − 2x\n3x² + 10x = 0\nx(3x + 10) = 0\nx = 0 or x = [[−10/3]]\nS.S = {0, [[−10/3]]}\n(iii) 3x² − 8x = −1\nx² − [[8/3]]x = [[−1/3]]\nx² − [[8/3]]x + [[16/9]] = [[13/9]]\n(x − [[4/3]])² = [[13/9]]\nx − [[4/3]] = ±[[√13/3]]\nx = [[(4 ± √13)/3]]\nS.S = {[[(4+√13)/3]], [[(4−√13)/3]]}\n(iv) 24x² = −10x + 21\nx² + [[5/12]]x = [[7/8]]\nx² + [[5/12]]x + [[25/576]] = [[529/576]]\n(x + [[5/24]])² = [[529/576]]\nx + [[5/24]] = ±[[23/24]]\nx = [[3/4]] or x = [[−7/6]]\nS.S = {[[3/4]], [[−7/6]]}\n(v) 2(x² − 3) − 3x = 2(x + 3)\n2x² − 3x − 6 = 2x + 6\n2x² − 5x − 12 = 0\n(2x + 3)(x − 4) = 0\nx = 4 or x = [[−3/2]]\nS.S = {4, [[−3/2]]}\n(vi) 2x² + 4x − 1 = 0\nx² + 2x = [[1/2]]\nx² + 2x + 1 = [[3/2]]\n(x + 1)² = [[3/2]]\nx + 1 = ±[[√6/2]]\nx = [[(−2 ± √6)/2]]\nS.S = {[[(−2+√6)/2]], [[(−2−√6)/2]]}",
+                "q": "Solve each of the following by completing the square method:\n(i) x² + 6x + 1 = 0 (ii) (3x + 2)(x + 2) = 6 − 2(x + 1) (iii) 3x² − 8x = −1 (iv) 24x² = −10x + 21 (v) 2(x² − 3) − 3x = 2(x + 3) (vi) 2x² + 4x − 1 = 0"
+              },
+              {
+                "a": "(i) 3x² + bx − 8 = 0\nx = 2\n3(2)² + b(2) − 8 = 0\n12 + 2b − 8 = 0\n2b = −4\nb = −2\n(ii) 3x² − 2x − 8 = 0\n(3x + 4)(x − 2) = 0\nx = 2 or x = [[−4/3]]\nx = [[−4/3]]",
+                "q": "The equation 3x² + bx − 8 = 0 has 2 as one of its roots.\n(i) What is the value of b?\n(ii) What is the other root of the equation?"
+              }
+            ],
+            "label": "Exercise 8.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) x² − 2x = 15\nx² − 2x − 15 = 0\na = 1, b = −2, c = −15\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(2 ± √(4 + 60))/2]]\nx = [[(2 ± 8)/2]]\nx = 5 or x = −3\nS.S = {5, −3}\n(ii) 10x² + 19x − 15 = 0\na = 10, b = 19, c = −15\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(−19 ± √(361 + 600))/20]]\nx = [[(−19 ± 31)/20]]\nx = [[3/5]] or x = [[−5/2]]\nS.S = {[[3/5]], [[−5/2]]}\n(iii) x² = −x + 1\nx² + x − 1 = 0\na = 1, b = 1, c = −1\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(−1 ± √(1 + 4))/2]]\nx = [[(−1 ± √5)/2]]\nS.S = {[[(−1+√5)/2]], [[(−1−√5)/2]]}\n(iv) 2x = 9 − 3x²\n3x² + 2x − 9 = 0\na = 3, b = 2, c = −9\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(−2 ± √(4 + 108))/6]]\nx = [[(−2 ± 4√7)/6]]\nx = [[(−1 ± 2√7)/3]]\nS.S = {[[(−1+2√7)/3]], [[(−1−2√7)/3]]}\n(v) 9x² = 12x − 49\n9x² − 12x + 49 = 0\na = 9, b = −12, c = 49\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(12 ± √(144 − 1764))/18]]\nx = [[(12 ± √(−1620))/18]]\nx = [[(12 ± 18i√5)/18]]\nx = [[(2 ± 3i√5)/3]]\nS.S = {[[(2+3i√5)/3]], [[(2−3i√5)/3]]}\n(vi) [[1/2]]x² + [[3/4]]x − 1 = 0\n2x² + 3x − 4 = 0\na = 2, b = 3, c = −4\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(−3 ± √(9 + 32))/4]]\nx = [[(−3 ± √41)/4]]\nS.S = {[[(−3+√41)/4]], [[(−3−√41)/4]]}\n(vii) 3x² − 2x + 2 = 0\na = 3, b = −2, c = 2\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(2 ± √(4 − 24))/6]]\nx = [[(2 ± 2i√5)/6]]\nx = [[(1 ± i√5)/3]]\nS.S = {[[(1+i√5)/3]], [[(1−i√5)/3]]}\n(viii) 6x² − x − 1 = 0\na = 6, b = −1, c = −1\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(1 ± √(1 + 24))/12]]\nx = [[(1 ± 5)/12]]\nx = [[1/2]] or x = [[−1/3]]\nS.S = {[[1/2]], [[−1/3]]}\n(ix) 4x² − 10x = 0\na = 4, b = −10, c = 0\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(10 ± √100)/8]]\nx = [[(10 ± 10)/8]]\nx = [[5/2]] or x = 0\nS.S = {[[5/2]], 0}\n(x) x² − 1 = 0\na = 1, b = 0, c = −1\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(0 ± √4)/2]]\nx = [[(0 ± 2)/2]]\nx = 1 or x = −1\nS.S = {1, −1}\n(xi) x² − 6x + 9 = 0\na = 1, b = −6, c = 9\nx = [[(−b ± √(b² − 4ac))/2a]]\nx = [[(6 ± √(36 − 36))/2]]\nx = [[(6 ± 0)/2]]\nx = 3\nS.S = {3}\n(xii) [[1/(x+4)]] − [[1/(x−4)]] = 4\n[[−8/(x²−16)]] = 4\nx² − 16 = −2\nx² = 14\nx = ±√14\nS.S = {√14, −√14}",
+                "q": "Solve the following equations by using the Quadratic Formula:\n(i) x² − 2x = 15 (ii) 10x² + 19x − 15 = 0 (iii) x² = −x + 1 (iv) 2x = 9 − 3x² (v) 9x² = 12x − 49 (vi) [[1/2]]x² + [[3/4]]x − 1 = 0 (vii) 3x² − 2x + 2 = 0 (viii) 6x² − x − 1 = 0 (ix) 4x² − 10x = 0 (x) x² − 1 = 0 (xi) x² − 6x + 9 = 0 (xii) [[1/(x+4)]] − [[1/(x−4)]] = 4"
+              }
+            ],
+            "label": "Exercise 8.2"
+          },
+          {
+            "items": [
+              {
+                "a": "x⁴ − 8x² − 9 = 0\ny = x²\ny² − 8y − 9 = 0\n(y − 9)(y + 1) = 0\ny = 9 or y = −1\nx² = 9\nx = ±3\nx² = −1\nx = ±i\nS.S = {±3, ±i}",
+                "q": "x⁴ − 8x² − 9 = 0"
+              },
+              {
+                "a": "x⁴ − 3x² − 4 = 0\ny = x²\ny² − 3y − 4 = 0\n(y − 4)(y + 1) = 0\ny = 4 or y = −1\nx² = 4\nx = ±2\nx² = −1\nx = ±i\nS.S = {±2, ±i}",
+                "q": "x⁴ − 3x² − 4 = 0"
+              },
+              {
+                "a": "12x⁴ − 11x² + 2 = 0\ny = x²\n12y² − 11y + 2 = 0\n(4y − 1)(3y − 2) = 0\ny = [[1/4]] or y = [[2/3]]\nx² = [[1/4]]\nx = ±[[1/2]]\nx² = [[2/3]]\nx = ±[[√6/3]]\nS.S = {±[[1/2]], ±[[√6/3]]}",
+                "q": "12x⁴ − 11x² + 2 = 0"
+              },
+              {
+                "a": "[[(2x+3)/(x+1)]] + 6[[(x+1)/(2x+3)]] = 7\ny = [[(2x+3)/(x+1)]]\ny + [[6/y]] = 7\ny² − 7y + 6 = 0\n(y − 6)(y − 1) = 0\ny = 6 or y = 1\n[[(2x+3)/(x+1)]] = 6\n2x + 3 = 6x + 6\nx = [[−3/4]]\n[[(2x+3)/(x+1)]] = 1\n2x + 3 = x + 1\nx = −2\nS.S = {[[−3/4]], −2}",
+                "q": "[[(2x+3)/(x+1)]] + 6[[(x+1)/(2x+3)]] = 7"
+              },
+              {
+                "a": "√[[(2x²+1)/(x²+1)]] + 6√[[(x²+1)/(2x²+1)]] = 5\ny = √[[(2x²+1)/(x²+1)]]\ny + [[6/y]] = 5\ny² − 5y + 6 = 0\n(y − 2)(y − 3) = 0\ny = 2 or y = 3\n√[[(2x²+1)/(x²+1)]] = 2\n[[(2x²+1)/(x²+1)]] = 4\n2x² + 1 = 4x² + 4\nx² = [[−3/2]]\nx = ±[[√6/2]]i\n√[[(2x²+1)/(x²+1)]] = 3\n[[(2x²+1)/(x²+1)]] = 9\n2x² + 1 = 9x² + 9\nx² = [[−8/7]]\nx = ±[[2√14/7]]i\nS.S = {±[[√6/2]]i, ±[[2√14/7]]i}",
+                "q": "√[[(2x²+1)/(x²+1)]] + 6√[[(x²+1)/(2x²+1)]] = 5"
+              },
+              {
+                "a": "5^(x+1) + 5^(2−x) = 5³ + 1\n5 × 5^x + [[25/5^x]] = 126\ny = 5^x\n5y + [[25/y]] = 126\n5y² − 126y + 25 = 0\n(5y − 1)(y − 25) = 0\ny = [[1/5]] or y = 25\n5^x = [[1/5]]\nx = −1\n5^x = 25\nx = 2\nS.S = {−1, 2}",
+                "q": "5^(x+1) + 5^(2−x) = 5³ + 1"
+              },
+              {
+                "a": "2^x + [[16/2^x]] = 8\ny = 2^x\ny + [[16/y]] = 8\ny² − 8y + 16 = 0\n(y − 4)² = 0\ny = 4\n2^x = 4\nx = 2\nS.S = {2}",
+                "q": "2^x + [[16/2^x]] = 8"
+              },
+              {
+                "a": "2([[x/(x+1)]])² − 5([[x/(x+1)]]) + 2 = 0\ny = [[x/(x+1)]]\n2y² − 5y + 2 = 0\n(2y − 1)(y − 2) = 0\ny = [[1/2]] or y = 2\n[[x/(x+1)]] = [[1/2]]\n2x = x + 1\nx = 1\n[[x/(x+1)]] = 2\nx = 2x + 2\nx = −2\nS.S = {−2, 1}",
+                "q": "2([[x/(x+1)]])² − 5([[x/(x+1)]]) + 2 = 0"
+              },
+              {
+                "a": "4([[x/(x−1)]])² − 4([[x/(x−1)]]) + 1 = 0\ny = [[x/(x−1)]]\n4y² − 4y + 1 = 0\n(2y − 1)² = 0\ny = [[1/2]]\n[[x/(x−1)]] = [[1/2]]\n2x = x − 1\nx = −1\nS.S = {−1}",
+                "q": "4([[x/(x−1)]])² − 4([[x/(x−1)]]) + 1 = 0"
+              },
+              {
+                "a": "9^(x+2) − 6·3^(x+1) + 1 = 0\n81·9^x − 18·3^x + 1 = 0\ny = 3^x\n81y² − 18y + 1 = 0\n(9y − 1)² = 0\ny = [[1/9]]\n3^x = [[1/9]]\nx = −2\nS.S = {−2}",
+                "q": "9^(x+2) − 6·3^(x+1) + 1 = 0"
+              },
+              {
+                "a": "2^x + 2^(−x+6) − 20 = 0\n2^x + [[64/2^x]] − 20 = 0\ny = 2^x\ny + [[64/y]] − 20 = 0\ny² − 20y + 64 = 0\n(y − 16)(y − 4) = 0\ny = 16 or y = 4\n2^x = 16\nx = 4\n2^x = 4\nx = 2\nS.S = {2, 4}",
+                "q": "2^x + 2^(−x+6) − 20 = 0"
+              },
+              {
+                "a": "(x − 1)(x + 5)(x + 8)(x + 2) = 880\n(x² + 7x − 8)(x² + 7x + 10) = 880\nt = x² + 7x\n(t − 8)(t + 10) = 880\nt² + 2t − 960 = 0\n(t + 32)(t − 30) = 0\nt = −32 or t = 30\nx² + 7x = −32\nx² + 7x + 32 = 0\nx = [[(−7 ± √79 i)/2]]\nx² + 7x = 30\nx² + 7x − 30 = 0\n(x + 10)(x − 3) = 0\nx = −10 or x = 3\nS.S = {3, −10, [[(−7+√79 i)/2]], [[(−7−√79 i)/2]]}",
+                "q": "(x − 1)(x + 5)(x + 8)(x + 2) = 880"
+              },
+              {
+                "a": "(x + 1)(x + 2)(x + 3)(x + 4) = 120\n(x² + 5x + 4)(x² + 5x + 6) = 120\nt = x² + 5x\n(t + 4)(t + 6) = 120\nt² + 10t − 96 = 0\n(t + 16)(t − 6) = 0\nt = −16 or t = 6\nx² + 5x = −16\nx² + 5x + 16 = 0\nx = [[(−5 ± √39 i)/2]]\nx² + 5x = 6\nx² + 5x − 6 = 0\n(x + 6)(x − 1) = 0\nx = −6 or x = 1\nS.S = {−6, 1, [[(−5+√39 i)/2]], [[(−5−√39 i)/2]]}",
+                "q": "(x + 1)(x + 2)(x + 3)(x + 4) = 120"
+              },
+              {
+                "a": "(x − 2)(x + 1)(x + 3)(x − 4) = 24\n(x² − x − 2)(x² − x − 12) = 24\nt = x² − x\n(t − 2)(t − 12) = 24\nt² − 14t = 0\nt(t − 14) = 0\nt = 0 or t = 14\nx² − x = 0\nx(x − 1) = 0\nx = 0 or x = 1\nx² − x = 14\nx² − x − 14 = 0\nx = [[(1 ± √57)/2]]\nS.S = {0, 1, [[(1+√57)/2]], [[(1−√57)/2]]}",
+                "q": "(x − 2)(x + 1)(x + 3)(x − 4) = 24"
+              }
+            ],
+            "label": "Exercise 8.3"
+          },
+          {
+            "items": [
+              {
+                "a": "x + √(x+5) = 7\n√(x+5) = 7 − x\nx + 5 = 49 − 14x + x²\nx² − 15x + 44 = 0\n(x − 11)(x − 4) = 0\nx = 11 or x = 4\nx = 11\n11 + √16 = 15\n15 ≠ 7\nx = 4\n4 + √9 = 7\n7 = 7\nS.S = {4}",
+                "q": "x + √(x+5) = 7"
+              },
+              {
+                "a": "√(x−2) = 8 − x\nx − 2 = 64 − 16x + x²\nx² − 17x + 66 = 0\n(x − 11)(x − 6) = 0\nx = 11 or x = 6\nx = 11\n√9 = 3\n8 − 11 = −3\n3 ≠ −3\nx = 6\n√4 = 2\n8 − 6 = 2\n2 = 2\nS.S = {6}",
+                "q": "√(x−2) = 8 − x"
+              },
+              {
+                "a": "√(7−5x) + √(13−5x) = 3√(4−2x)\n(√(7−5x) + √(13−5x))² = (3√(4−2x))²\n20 − 10x + 2√(25x² − 100x + 91) = 36 − 18x\n√(25x² − 100x + 91) = 8 − 4x\n25x² − 100x + 91 = 16x² − 64x + 64\n9x² − 36x + 27 = 0\nx² − 4x + 3 = 0\n(x − 1)(x − 3) = 0\nx = 1 or x = 3\nx = 1\n√2 + √8 = 3√2\n3√2 = 3√2\nx = 3\n√(7 − 5(3)) = √(−8)\nS.S = {1}",
+                "q": "√(7−5x) + √(13−5x) = 3√(4−2x)"
+              },
+              {
+                "a": "√(x+2) + √(x+7) = √(6x+13)\n(√(x+2) + √(x+7))² = (√(6x+13))²\n2x + 9 + 2√(x² + 9x + 14) = 6x + 13\n√(x² + 9x + 14) = 2x + 2\nx² + 9x + 14 = 4x² + 8x + 4\n3x² − x − 10 = 0\n(x − 2)(3x + 5) = 0\nx = 2 or x = [[−5/3]]\nx = [[−5/3]]\n√[[1/3]] + √[[16/3]] = √3\n[[5/√3]] ≠ √3\nx = 2\n√9 + √4 = √25\n3 + 2 = 5\n5 = 5\nS.S = {2}",
+                "q": "√(x+2) + √(x+7) = √(6x+13)"
+              },
+              {
+                "a": "√(2x²+3x+4) + √(2x²+3x+9) = 5\nt = 2x² + 3x\n√(t+4) + √(t+9) = 5\n(√(t+4) + √(t+9))² = 25\n2t + 13 + 2√(t² + 13t + 36) = 25\n√(t² + 13t + 36) = 6 − t\nt² + 13t + 36 = 36 − 12t + t²\nt = 0\n2x² + 3x = 0\nx(2x + 3) = 0\nx = 0 or x = [[−3/2]]\nS.S = {0, [[−3/2]]}",
+                "q": "√(2x²+3x+4) + √(2x²+3x+9) = 5"
+              },
+              {
+                "a": "√(y²−3y+9) − √(y²−3y+36) + 3 = 0\n√(y²−3y+36) − √(y²−3y+9) = 3\nt = y² − 3y\n√(t+36) − √(t+9) = 3\n(√(t+36) − √(t+9))² = 9\n2t + 45 − 2√(t² + 45t + 324) = 9\n√(t² + 45t + 324) = t + 18\nt² + 45t + 324 = t² + 36t + 324\nt = 0\ny² − 3y = 0\ny(y − 3) = 0\ny = 0 or y = 3\nS.S = {0, 3}",
+                "q": "√(y²−3y+9) − √(y²−3y+36) + 3 = 0"
+              }
+            ],
+            "label": "Exercise 8.4"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) 2\n(ii) ax² + bx + c = 0, a ≠ 0\n(iii) Exponential\n(iv) x = 2\n(v) x = [[(−b ± √(b² − 4ac))/2a]]",
+                "q": "Fill in the blanks:\n(i) A polynomial equation in which degree of variable is ______ called quadratic equation.\n(ii) Standard form of quadratic equation is ______.\n(iii) 3^x + 3^(2x) = 1 is called ______ equation.\n(iv) Solution of 3^x = 9 is ______.\n(v) Solution of ax² + bx + c = 0 is ______."
+              },
+              {
+                "a": "(i) (b) 2\n(ii) (a) ax² + bx + c = 0, a ≠ 0\n(iii) (c) [[(−b ± √(b² − 4ac))/2a]]\n(iv) (a) {−6, −4}\n(v) (a) 2\n(vi) (c) (x − 7) and (x − 8)\n(vii) (b) Reciprocal equation\n(viii) (a) Exponential equation\n(ix) (c) {±2}\n(x) (a) Reciprocal equation",
+                "q": "Tick the correct answer:\n(i) Degree of quadratic equation is\n(a) 1 (b) 2 (c) 3 (d) 4\n(ii) Standard form of quadratic equation is\n(a) ax² + bx + c = 0, a ≠ 0 (b) ax² + c = 0, a ≠ 0 (c) ax² + bx = 0, a ≠ 0 (d) ax³ + bx² + c = 0, a ≠ 0\n(iii) The Quadratic Formula for ax² + bx + c = 0, a ≠ 0 is\n(a) x = [[(−b − √(b² − 4ac))/2]] (b) x = [[(b ± √(b² − 4ac))/2a]] (c) x = [[(−b ± √(b² − 4ac))/2a]] (d) x = [[(−b ± √(b² + 4ac))/2a]]\n(iv) Solution set of x² + 10x + 24 = 0 is\n(a) {−6, −4} (b) {−6, 4} (c) {6, 4} (d) {6, −4}\n(v) How many maximum roots of quadratic equation are\n(a) 2 (b) 3 (c) 1 (d) 4\n(vi) Two linear factors of x² − 15x + 56 are\n(a) (x − 7) and (x + 8) (b) (x + 7) and (x − 8) (c) (x − 7) and (x − 8) (d) (x + 7) and (x + 8)\n(vii) Polynomial equation, which remains unchanged when x is replaced by [[1/x]] is called a or an\n(a) Exponential equation (b) Reciprocal equation (c) Radical equation (d) none of these\n(viii) An equation of the type of 3^x + 3^(2−x) + 6 = 0 is a or an\n(a) Exponential equation (b) Radical equation (c) Reciprocal equation (d) none of these\n(ix) The solution set of equation 4x² − 16 = 0 is\n(a) {±4} (b) {4} (c) {±2} (d) none of these\n(x) An equation of the form 2x⁴ − 3x³ + 7x² − 3x + 2 = 0 is called a or an\n(a) Reciprocal equation (b) Radical equation (c) Exponential equation (d) none of these"
+              },
+              {
+                "a": "(i) False\n(ii) False\n(iii) False\n(iv) False\n(v) False\n(vi) True\n(vii) True",
+                "q": "True and false questions:\n(i) Every quadratic equation can be solved by factorization.\n(ii) Every Quartic equation has two roots.\n(iii) Every Quadratic equation can have no solution.\n(iv) ax² + bx + c = 0 is called the quadratic equation in x if a = 0 and b, c are real numbers.\n(v) Extraneous root satisfy the equation.\n(vi) Extraneous roots do not satisfy the equation.\n(vii) In the quadratic equation the highest exponent of the variable is two."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Quadratic Equations",
+        "unit": 8,
+        "display": "Quadratic Equations"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "AB = CB\n∠A = ∠C\n∠ABD = ∠CBE\n△ABD ≅ △CBE",
+                "q": "In the adjacent figure, mAB = mCB and ∠A ≅ ∠C, prove that △ABD ≅ △CBE\n(In the figure, AC and ED intersect at B.)"
+              },
+              {
+                "a": "∠QSP = ∠RSP\n∠SQP = ∠SRP = 90°\nSP = SP\n△SQP ≅ △SRP\nPQ = PR",
+                "q": "From a point on the line bisector of an angle, perpendiculars are drawn to the arms of the angle S. Prove that these perpendiculars are equal in measure.\n(In the figure, S is the vertex of the angle, P is the point on the bisector, and PQ and PR are the perpendiculars to the two arms, Q and R being the feet.)"
+              },
+              {
+                "a": "∠A = ∠B\n3x + 1 = x + 35\n2x = 34\nx = 17\n∠AEC = ∠DEB\n3y − 2 = y + 8\n2y = 10\ny = 5",
+                "q": "In the given figure, we have, △ACE ≅ △BDE, such that m∠A = (3x + 1)°, m∠B = (x + 35)°, m∠AEC = (3y − 2)° and m∠DEB = (y + 8)°. Find the values of x and y."
+              },
+              {
+                "a": "DE = PQ\n6x + 1 = 10x − 19\n4x = 20\nx = 5\nEF = RQ\n8 = 5y − 7\n5y = 15\ny = 3",
+                "q": "In the given figure, △DEF ≅ △PQR, such that: mDE = (6x + 1)cm, mEF = 8cm, and mRQ = (5y − 7)cm and mPQ = (10x − 19)cm. Find the values of x and y."
+              }
+            ],
+            "label": "Exercise 9.1"
+          },
+          {
+            "items": [
+              {
+                "a": "∠C = 180° − 35° − 100°\n∠C = 45°\n∠BDC = 90°\n∠DBC = 180° − 90° − 45°\n∠DBC = 45°\n∠DBC = ∠C\nBD = DC\n△BDC is isosceles",
+                "q": "ABC is a triangle in which m∠A = 35° and m∠B = 100°, BD ⊥ AC. Prove that △BDC is an isosceles triangle.\n(D is the foot of the perpendicular from B on AC.)"
+              },
+              {
+                "a": "∠BAD = ∠CAD\nAD = AD\n∠ADB = ∠ADC = 90°\n△ABD ≅ △ACD\nAB = AC\n△ABC is isosceles",
+                "q": "If the bisector of an angle of a triangle is perpendicular to its opposite side, then prove that triangle is an isosceles triangle.\n(AD bisects ∠A of △ABC and meets BC at D, AD ⊥ BC.)"
+              },
+              {
+                "a": "∠CDB = 90°\n∠DCB = 180° − 90° − 45°\n∠DCB = 45°\n∠DCB = ∠DBC\nDB = DC\n△DBC is isosceles",
+                "q": "ABC is a triangle in which m∠B = 45° and CD ⊥ AB. Prove that △DBC is an isosceles △.\n(D is the foot of the perpendicular from C on AB.)"
+              }
+            ],
+            "label": "Exercise 9.2"
+          },
+          {
+            "items": [
+              {
+                "a": "AB = AC\nBD = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nAD bisects ∠A\n∠ADB = ∠ADC\n∠ADB + ∠ADC = 180°\n∠ADB = 90°\nAD ⊥ BC",
+                "q": "ABC is an isosceles triangle. D is the mid-point of base BC. Prove that AD bisects ∠A and AD ⊥ BC."
+              },
+              {
+                "a": "AB = AC\nBD = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nM = AD ∩ BC\nAB = AC\n∠BAM = ∠CAM\nAM = AM\n△ABM ≅ △ACM\nBM = CM\n∠AMB = ∠AMC\n∠AMB + ∠AMC = 180°\n∠AMB = 90°\nAD is the right bisector of BC",
+                "q": "ABC and DBC are two isosceles triangles on the same side of a common base BC. Prove that AD is the right bisector of BC.\n(AB = AC, DB = DC; the line AD meets BC at M.)"
+              },
+              {
+                "a": "PQ = SR\n∠Q = ∠R = 90°\nQY = RY\n△PQY ≅ △SRY\nPY = SY\nPX = [[1/2]]PQ\nSZ = [[1/2]]RS\nPX = SZ\n∠P = ∠S = 90°\nPY = SY\n△PXY ≅ △SZY",
+                "q": "PQRS is a square. X, Y and Z are the mid-points of PQ, QR and RS respectively. Prove that △PXY ≅ △SZY."
+              },
+              {
+                "a": "AB = BC = AC\n∠A = ∠B = ∠C = 60°\nBD = [[1/2]]BC\nAE = [[1/2]]AC\nBD = AE\nAB = BA\n∠ABD = ∠BAE = 60°\n△ABD ≅ △BAE\nAD = BE",
+                "q": "Prove that, in an equilateral triangle any two medians are congruent.\n(AD and BE are two medians of equilateral △ABC, D on BC, E on AC.)"
+              }
+            ],
+            "label": "Exercise 9.3"
+          },
+          {
+            "items": [
+              {
+                "a": "∠EBC = ∠FCB\n∠BEC = ∠CFB = 90°\nBC = CB\n△BEC ≅ △CFB\nBE = CF",
+                "q": "Prove that: The perpendiculars from the vertices of the base to opposite sides of an isosceles triangle are congruent. (Hint: Medians and altitudes of the triangle are congruent)\n(△ABC is isosceles with AB = AC and base BC; BE ⊥ AC with E on AC, CF ⊥ AB with F on AB.)"
+              },
+              {
+                "a": "AD produced to E\nAD = DE\n∠ADB = ∠EDC\nBD = DC\n△ABD ≅ △ECD\nAB = CE\n∠BAD = ∠CED\n∠BAD = ∠CAD\n∠CED = ∠CAD\nAC = CE\nAB = AC\n△ABC is isosceles",
+                "q": "Prove that, if the bisector of an angle of a triangle bisects its opposite side, then the triangle will be an isosceles triangle.\n(AD bisects ∠A of △ABC and D is the mid-point of BC.)"
+              },
+              {
+                "a": "AB = AC\nBD = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nAD bisects ∠A\n∠ADB = ∠ADC\n∠ADB + ∠ADC = 180°\n∠ADB = 90°\nAD ⊥ BC",
+                "q": "Prove that the median bisecting the base of an isosceles triangle bisects the vertical angle and is perpendicular to the base.\n(AD is the median of isosceles △ABC to base BC, D the mid-point of BC, AB = AC.)"
+              },
+              {
+                "a": "AD = BE = CF\nAB = BA\n∠ADB = ∠BEA = 90°\nAD = BE\n△ABD ≅ △BAE\n∠B = ∠A\nAC = BC\nBC = CB\n∠BEC = ∠CFB = 90°\nBE = CF\n△BEC ≅ △CFB\n∠B = ∠C\nAB = AC\nAB = BC = AC\n△ABC is equilateral",
+                "q": "Prove that if three altitudes of a triangle are congruent, then the triangle is equilateral.\n(AD, BE and CF are the altitudes of △ABC, D on BC, E on AC, F on AB, AD = BE = CF.)"
+              }
+            ],
+            "label": "Exercise 9.4"
+          },
+          {
+            "items": [
+              {
+                "a": "m∠C = 180° − 120° − 30°\nm∠C = 30°\n∠F = ∠C\nm∠F = 30°\n(C) 30°",
+                "q": "If △ABC ≅ △DEF, m∠F is equal to\nA. 90°\nB. 60°\nC. 30°\nD. 20°\n(In the figure, m∠A = 120° and m∠B = 30° in △ABC, and m∠D = 120° in △DEF.)"
+              },
+              {
+                "a": "(i) True\n(ii) False\n(iii) True\n(iv) False\n(v) False",
+                "q": "Identify true and false statement in the following:\n(i) The sum of the measure of all angles in a quadrilateral is 360°.\n(ii) The sum of the measure of all angles in a triangle is 270°.\n(iii) In an equilateral triangle, angles are of the same measurement.\n(iv) There are two right angles in a triangle.\n(v) In an isosceles triangle, corresponding angles and corresponding sides are equal in measure."
+              },
+              {
+                "a": "(i) DF\n(ii) ∠RPQ\n(iii) Congruent\n(iv) equilateral\n(v) Hypotenuse\n(vi) 90°",
+                "q": "Fill in the blanks to make the sentences true sentences:\n(i) In △ABC ↔ △DEF, then AC corresponds to __________.\n(ii) In △KLM ↔ △PQR, then ∠MKL corresponds to __________\n(iii) In an isosceles triangle, the base angles are __________.\n(iv) If the measure of each of the angles of a triangle is 60°, then the triangle is __________.\n(v) In a right-angled triangle, side opposite to right angle is called __________.\n(vi) The sum of the measures of acute angle of a right triangle is __________."
+              },
+              {
+                "a": "(i) (d) A.A.A ≅ A.A.A\n(ii) (c) ∠C\n(iii) (b) Trapezium\n(iv) (c) 3",
+                "q": "Encircle the corresponding letters a,b,c or d for correct answer:\n(i) Which of the following is not a sufficient condition for congruence of two triangles?\n(a) A.S.A ≅ A.S.A (b) H.S ≅ H.S\n(c) S.A.A ≅ S.A.A (d) A.A.A ≅ A.A.A\n(ii) In △ABC, if ∠A ≅ ∠B, then the bisector of ____ angle divides the triangle into congruent triangles:\n(a) ∠A (b) ∠B\n(c) ∠C (d) any one of its angles.\n(iii) The diagonal of ____ does not divide it into two congruent triangles:\n(a) Rectangle (b) Trapezium\n(c) Parallelogram (d) Square\n(iv) How many acute angles are there in an acute angled triangle?\n(a) 1 (b) 2\n(c) 3 (d) not more than 2."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Congruent Triangles",
+        "unit": 9,
+        "display": "Congruent Triangles"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "ABCD is a parallelogram\nE is the mid-point of AB\nF is the mid-point of DC\nAE = [[1/2]]AB\nDF = [[1/2]]DC\nAB = DC\nAE = DF\nAE ∥ DF\nAEFD is a parallelogram\nEF ∥ AD\nEB = [[1/2]]AB\nFC = [[1/2]]DC\nEB = FC\nEB ∥ FC\nEBCF is a parallelogram\nEF ∥ BC",
+                "q": "The line joining the mid-points of two opposite sides of parallelogram is parallel to the other sides."
+              },
+              {
+                "a": "ABCD is a parallelogram\nAB ∥ DC\n∠A + ∠D = 180°\n∠B + ∠C = 180°\nAD ∥ BC\n∠A + ∠B = 180°\n∠C + ∠D = 180°",
+                "q": "Interior angles on any side of a parallelogram are supplementary."
+              },
+              {
+                "a": "ABCD is a parallelogram\n∠A + ∠B = 180°\nAE bisects ∠A\nBE bisects ∠B\n∠EAB = [[1/2]]∠A\n∠EBA = [[1/2]]∠B\n∠EAB + ∠EBA = [[1/2]](∠A + ∠B)\n= [[1/2]](180°)\n= 90°\n∠AEB = 180° − (∠EAB + ∠EBA)\n= 180° − 90°\n= 90°",
+                "q": "Prove that the bisectors of two angles on same side of a parallelogram cut each other at right angle."
+              },
+              {
+                "a": "ABCD is a quadrilateral\nAC and BD intersect at O\nAO = OC\nBO = OD\nIn △AOB and △COD:\nAO = OC\n∠AOB = ∠COD\nBO = OD\n△AOB ≅ △COD\n∠OAB = ∠OCD\nAB ∥ CD\nIn △AOD and △COB:\nAO = OC\n∠AOD = ∠COB\nDO = OB\n△AOD ≅ △COB\n∠OAD = ∠OCB\nAD ∥ BC\nABCD is a parallelogram",
+                "q": "If the diagonals of a quadrilateral bisect each other, then it is a parallelogram."
+              },
+              {
+                "a": "ABCD is a parallelogram\nAC is a diagonal\nAB ∥ DC\n∠BAC = ∠DCA\nAD ∥ BC\n∠DAC = ∠BCA\n∠A = ∠BAC + ∠DAC\n∠C = ∠DCA + ∠BCA\n∠A = ∠C\nBD is a diagonal\n∠ABD = ∠CDB\n∠ADB = ∠CBD\n∠B = ∠ABD + ∠DBC\n∠D = ∠ADB + ∠CDB\n∠B = ∠D",
+                "q": "In parallelogram opposite angles are congruent."
+              }
+            ],
+            "label": "Exercise 10.1"
+          },
+          {
+            "items": [
+              {
+                "a": "ABCD is a quadrilateral\n∠A = ∠C\n∠B = ∠D\n∠A + ∠B + ∠C + ∠D = 360°\n2∠A + 2∠B = 360°\n∠A + ∠B = 180°\nAD ∥ BC\n2∠A + 2∠D = 360°\n∠A + ∠D = 180°\nAB ∥ DC\nABCD is a parallelogram",
+                "q": "Prove that a quadrilateral is a parallelogram, if its opposite angles are congruent"
+              },
+              {
+                "a": "ABCD is a quadrilateral\nAC and BD intersect at O\nAO = OC\nBO = OD\nIn △AOB and △COD:\nAO = OC\n∠AOB = ∠COD\nBO = OD\n△AOB ≅ △COD\n∠OAB = ∠OCD\nAB ∥ CD\nIn △AOD and △COB:\nAO = OC\n∠AOD = ∠COB\nDO = OB\n△AOD ≅ △COB\n∠OAD = ∠OCB\nAD ∥ BC\nABCD is a parallelogram",
+                "q": "Prove that a quadrilateral is a parallelogram, if its diagonals bisect each other."
+              },
+              {
+                "a": "ABCD is a quadrilateral\nAB = CD\nAD = CB\nBD is a diagonal\nIn △ABD and △CDB:\nAB = CD\nAD = CB\nBD = BD\n△ABD ≅ △CDB\n∠ABD = ∠CDB\nAB ∥ CD\n∠ADB = ∠CBD\nAD ∥ BC\nABCD is a parallelogram",
+                "q": "If both pairs of opposite sides of a quadrilateral are congruent, then the quadrilateral is a parallelogram."
+              },
+              {
+                "a": "ABCD is a parallelogram\nAC is a diagonal\nAB = CD\nBC = DA\nAC = AC\n△ABC ≅ △CDA\nBD is a diagonal\nAB = CD\nAD = CB\nBD = BD\n△ABD ≅ △CDB",
+                "q": "If a quadrilateral is a parallelogram, it has diagonals which form two congruent triangles."
+              },
+              {
+                "a": "ABCD is a quadrilateral\n∠A + ∠B = 180°\n∠B + ∠C = 180°\n∠C + ∠D = 180°\n∠D + ∠A = 180°\nAD ∥ BC\nAB ∥ DC\nABCD is a parallelogram",
+                "q": "If the angles formed with every side of a quadrilateral are supplementary, it is a parallelogram."
+              }
+            ],
+            "label": "Exercise 10.2"
+          },
+          {
+            "items": [
+              {
+                "a": "mPQ = [[1/2]]mBC\n4 = [[1/2]]mBC\nmBC = 2 × 4\nmBC = 8 cm",
+                "q": "If the line segments joining the mid-points of two sides of a triangle, is parallel to the third side and its length is 4 cm. What is the length of third side."
+              },
+              {
+                "a": "ABCD is a quadrilateral\nE is the mid-point of AB\nF is the mid-point of CD\nG is the mid-point of BC\nH is the mid-point of DA\nAC is a diagonal\nIn △ABC:\nEG ∥ AC\nEG = [[1/2]]AC\nIn △ADC:\nHF ∥ AC\nHF = [[1/2]]AC\nEG ∥ HF\nEG = HF\nEGFH is a parallelogram\nEF and GH bisect each other",
+                "q": "Prove that the line-segment joining the mid-points of the opposite sides of a quadrilateral bisect each other."
+              },
+              {
+                "a": "ABCD is a quadrilateral\nP is the mid-point of AB\nQ is the mid-point of BC\nR is the mid-point of CD\nS is the mid-point of DA\nAC is a diagonal\nIn △ABC:\nPQ ∥ AC\nPQ = [[1/2]]AC\nIn △ADC:\nSR ∥ AC\nSR = [[1/2]]AC\nPQ ∥ SR\nPQ = SR\nPQRS is a parallelogram",
+                "q": "The line segments, joining the mid-points of the sides of a quadrilateral, taken in order, form a parallelogram."
+              },
+              {
+                "a": "△ABC\nD is the mid-point of AB\nDE ∥ BC\nE is on AC\nEF ∥ AB\nF is on BC\nDBFE is a parallelogram\nDB = EF\nAD = DB\nAD = EF\n∠A = ∠FEC\n∠ADE = ∠EFC\n△ADE ≅ △EFC\nAE = EC\nE is the mid-point of AC",
+                "q": "Prove that the line segment passing through the mid-point of one side and parallel to another side of a triangle also bisect the third side."
+              },
+              {
+                "a": "△ABC\nD is the mid-point of AB\nE is the mid-point of BC\nF is the mid-point of AC\nDE = [[1/2]]AC\nEF = [[1/2]]AB\nFD = [[1/2]]BC\nAD = [[1/2]]AB\nDB = [[1/2]]AB\nBE = [[1/2]]BC\nEC = [[1/2]]BC\nAF = [[1/2]]AC\nFC = [[1/2]]AC\n△ADF ≅ △DBE\n△DBE ≅ △FEC\n△ADF ≅ △DBE ≅ △FEC ≅ △DEF",
+                "q": "Prove that four triangles obtained by joining the mid-points of the three sides of a triangle are all congruent to each other."
+              }
+            ],
+            "label": "Exercise 10.3"
+          },
+          {
+            "items": [
+              {
+                "a": "△ABC\nAD, BE, CF are medians\nAD = BE = CF\nAD, BE, CF meet at G\nAG = [[2/3]]AD\nBG = [[2/3]]BE\nCG = [[2/3]]CF\nAG = BG = CG\nGD = [[1/3]]AD\nGE = [[1/3]]BE\nGD = GE\nIn △AGE and △BGD:\nAG = BG\n∠AGE = ∠BGD\nGE = GD\n△AGE ≅ △BGD\nAE = BD\nAE = [[1/2]]AC\nBD = [[1/2]]BC\nAC = BC\nGF = [[1/3]]CF\nGD = [[1/3]]AD\nGF = GD\nIn △AGF and △CGD:\nAG = CG\n∠AGF = ∠CGD\nGF = GD\n△AGF ≅ △CGD\nAF = CD\nAF = [[1/2]]AB\nCD = [[1/2]]BC\nAB = BC\nAB = BC = CA\n△ABC is equilateral",
+                "q": "If three medians of a triangle are congruent, prove that the triangle is an equilateral."
+              },
+              {
+                "a": "△PQR\nPB, QC, RA are medians\nB is the mid-point of QR\nC is the mid-point of PR\nA is the mid-point of PQ\nPB and QC meet at G\nQH ∥ PB\nH is on RA produced\nIn △RQH:\nBG ∥ QH\nG is the mid-point of RH\nRG = GH\nIn △RPH:\nCG ∥ PH\nPG ∥ QH\nQG ∥ PH\nPGQH is a parallelogram\nGA = AH\nRG = GH = 2GA\nPG = 2GB\nQG = 2GC\nG is the centroid of △PQR",
+                "q": "The medians PB, QC and RA of ΔPQR meet in point G, show that G is the centroid of ΔPQR."
+              },
+              {
+                "a": "G is the centroid of △KFQ\nAG = [[1/2]]GR\nAG = [[1/2]] × 2 cm\nAG = 1 cm",
+                "q": "In the given figure, the length GR is of 2cm then find the length of AG.\nThe figure shows △KFQ with medians KA, FB and QC meeting at G."
+              }
+            ],
+            "label": "Exercise 10.4"
+          },
+          {
+            "items": [
+              {
+                "a": "△ABC\nD, E, F are the mid-points of BC, CA, AB\n△ADF ≅ △DBE ≅ △FEC ≅ △DEF\narea(△ADF) = area(△DBE) = area(△FEC) = area(△DEF)\narea(△ABC) = 4 × area(△DEF)\narea(△DEF) = [[1/4]]area(△ABC)\nDE = [[1/2]]AB\nEF = [[1/2]]BC\nFD = [[1/2]]CA\n△DEF ~ △ABC",
+                "q": "The triangle formed by joining the mid-points of the sides of a triangle is equivalent to the original triangle."
+              },
+              {
+                "a": "ABCD is a trapezium\nAB ∥ DC\nE is the mid-point of AD\nF is the mid-point of BC\nAF meets DC produced at G\nIn △ABF and △GCF:\n∠AFB = ∠GFC\nBF = FC\n∠ABF = ∠GCF\n△ABF ≅ △GCF\nAF = FG\nAB = CG\nIn △ADG:\nEF ∥ DG\nEF = [[1/2]]DG\nDG = DC + CG\nEF = [[1/2]](AB + DC)\nEF ∥ AB\nEF ∥ DC",
+                "q": "The line segment joining the mid-points of the non-parallel sides of a trapezium is parallel to the parallel sides and is equal to half their sum."
+              },
+              {
+                "a": "△ABC\nD is the mid-point of AB\nE is the mid-point of AC\nDE ∥ BC\nAX meets DE at Y\nX is on BC\nIn △ABX:\nDY ∥ BX\nAY = YX\nY bisects AX",
+                "q": "Every line segment drawn from the vertex to the base of a triangle is bisected by the line joining the mid-point of the other two sides."
+              }
+            ],
+            "label": "Exercise 10.5"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) Congruent\n(ii) Congruent\n(iii) Concurrent\n(iv) Bisect\n(v) Equal\n(vi) 360°",
+                "q": "Fill in the blanks:\n(i) In a parallelogram, opposite sides are __________.\n(ii) In a parallelogram, opposite angles are __________.\n(iii) In a triangle, medians are __________.\n(iv) In a parallelogram, the diagonals __________ each other.\n(v) In a parallelogram, corresponding angles are __________.\n(vi) Sum of the measures of interior angles of a quadrilateral is equal to __."
+              },
+              {
+                "a": "(i) (d) Both 'a' and 'c'\n(ii) (b) 4 right angles\n(iii) (d) 7cm\n(iv) (c) 3.4cm\n(v) (b) 115°\n(vi) (b) Parallelogram\n(vii) (a) Medians of a triangle\n(viii) (d) none of these",
+                "q": "Tick (✓) the correct answer.\n(i) Diagonals of a square are __________ to each other.\n(a) Perpendicular (b) Non congruent (c) Congruent (d) Both 'a' and 'c'\n(ii) Sum of the measures of interior angles of a quadrilateral is\n(a) 2 right angles (b) 4 right angles (c) 3 right angles (d) none of these\n(iii) Measure of a line segment joining the mid points of AB and AC of ΔABC is 3.5cm, then mBC =\n(a) 4.5cm (b) 5.5cm (c) 6cm (d) 7cm\n(iv) Two medians AD and BE of ΔABC intersect each other at G. If mGD = 1.7cm, then mAG =\n(a) 2.7cm (b) 8.85cm (c) 3.4cm (d) 5.1cm\n(v) If sum of the measures of ∠A and ∠C of a parallelogram ABCD is 130°, then m∠B =\n(a) 25° (b) 115° (c) 65° (d) none of these\n(vi) If opposite angles of a quadrilateral are equal in measures and none of them is a right angle, then the quadrilateral is a\n(a) Square (b) Parallelogram (c) Trapezium (d) Rectangle\n(vii) Centroid is the common point of intersection of\n(a) Medians of a triangle (b) Diagonals of a parallelogram (c) Angle bisectors of a triangle (d) Perpendicular bisectors of a triangle\n(viii) A point on median of a triangle is\n(a) equidistant from its vertices (b) equidistant from the mid points of its sides (c) equidistant from its altitudes (d) none of these"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Parallelograms and Triangles",
+        "unit": 10,
+        "display": "Parallelograms and Triangles"
+      },
+      {
+        "unit": 11,
+        "title": "Line Bisectors and Angles Bisectors",
+        "exercises": [
+          {
+            "label": "Exercise 11.1",
+            "items": [
+              {
+                "q": "Prove that the point of intersection of the right bisector of any two sides of a triangle is equidistance from all the vertices of the triangle.",
+                "a": "△ABC\nl = right bisector of AB\nm = right bisector of AC\nO = l ∩ m\nO ∈ l\nOA ≅ OB\nO ∈ m\nOA ≅ OC\nOB ≅ OC\nOA = OB = OC"
+              },
+              {
+                "q": "Prove that the centre of the circle is on the right bisectors of each of its chords.",
+                "a": "O = centre\nAB = chord\nOA = OB\nO on right bisector of AB"
+              },
+              {
+                "q": "Where will be the centre of a circle passing through three non-collinear points and why?",
+                "a": "A, B, C non-collinear\nl = right bisector of AB\nm = right bisector of BC\nO = l ∩ m\nO ∈ l\nOA = OB\nO ∈ m\nOB = OC\nOA = OB = OC\nO = centre\nOA = OB = OC = radius"
+              },
+              {
+                "q": "If two circles intersect each other at points A and B then prove that the line passing through their centres will be the right bisector of AB.",
+                "a": "O, O' = centres\nOA = OB\nO'A = O'B\nO on right bisector of AB\nO' on right bisector of AB\nOO' = right bisector of AB"
+              },
+              {
+                "q": "Three markets A, B and C are not on the same line. The business men of these markets want to construct a Masjid at such a place which is equidistant from these markets. After deciding the place of Masjid, prove that this place is equidistant from all the three markets.",
+                "a": "A, B, C non-collinear\nM = Masjid\nl = right bisector of AB\nm = right bisector of AC\nM = l ∩ m\nM ∈ l\nMA = MB\nM ∈ m\nMA = MC\nMA = MB = MC"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.2",
+            "items": [
+              {
+                "q": "Prove that in an acute triangle the circumcenter falls in the interior of the triangle.",
+                "a": "△ABC acute\n∠A < 90°\n∠B < 90°\n∠C < 90°\nO = circumcentre\nOA = OB = OC\n∠OAB = ∠OBA\n∠OBC = ∠OCB\n∠OCA = ∠OAC\nO outside △ABC\nO, B opposite sides of AC\n∠B = ∠ABO + ∠OBC\n∠AOB = 180° − 2∠OAB\n∠BOC = 180° − 2∠OBC\n∠COA = 180° − 2∠OCA\n∠COA = ∠AOB + ∠BOC\n∠OAB + ∠OBC = 90° + ∠OCA\n∠B = 90° + ∠OCA\n∠B > 90°\n∠B < 90°\nO inside △ABC"
+              },
+              {
+                "q": "Prove that the right bisectors of the four sides of an isosceles trapezium are concurrent.",
+                "a": "ABCD isosceles trapezium\nAB ∥ CD\nAD = BC\nl = right bisector of AB\nl ⊥ AB\nl ⊥ CD\nN = mid-point of CD\nN ∈ l\nl = right bisector of CD\nm = right bisector of AD\nn = right bisector of BC\nO = m ∩ l\nOA = OD\nOA = OB\nOC = OD\nOA = OB = OC = OD\nOB = OC\nO ∈ n\nl, m, n meet at O"
+              },
+              {
+                "q": "Prove that the altitudes of a triangle are concurrent.",
+                "a": "△ABC\na ∥ BC through A\nb ∥ AC through B\nc ∥ AB through C\nP = b ∩ c\nQ = c ∩ a\nR = a ∩ b\nABCQ parallelogram\nAQ = BC\nARBC parallelogram\nAR = BC\nAQ = AR\nA = mid-point of QR\nABPC parallelogram\nBP = AC\nBR = AC\nBP = BR\nB = mid-point of RP\nPC = AB\nCQ = AB\nPC = CQ\nC = mid-point of PQ\nAltitude from A ⊥ BC\nBC ∥ QR\nAltitude from A ⊥ QR\nAltitude from A = right bisector of QR\nAltitude from B = right bisector of RP\nAltitude from C = right bisector of PQ\nAltitudes concurrent"
+              }
+            ]
+          },
+          {
+            "label": "Exercise 11.3",
+            "items": [
+              {
+                "q": "Two isosceles triangles have a common base, prove that the line joining vertices bisects the common base at right angle.",
+                "a": "AD ∩ BC = M\nAB = AC\nDB = DC\nAD = AD\n△ABD ≅ △ACD\n∠BAD = ∠CAD\nAB = AC\n∠BAM = ∠CAM\nAM = AM\n△ABM ≅ △ACM\nBM = CM\n∠AMB = ∠AMC\n∠AMB + ∠AMC = 180°\n∠AMB = ∠AMC = 90°\nAD ⊥ BC\nM = mid-point of BC"
+              },
+              {
+                "q": "If the bisector of an angle of a triangle bisects the opposite side, prove that triangle is an isosceles.",
+                "a": "D ∈ BC\nE on AD extended\nAD = DE\nEC\nAD = DE\nBD = DC\n∠ADB = ∠EDC\n△ABD ≅ △ECD\nAB = EC\n∠BAD = ∠CED\n∠BAD = ∠CAD\n∠CAD = ∠CED\nAC = EC\nAB = AC"
+              },
+              {
+                "q": "In an isosceles △ABC, mAB = mAC. Prove that the perpendiculars from the vertices B and C to their opposite sides are equal.",
+                "a": "△ABC isosceles\nAB = AC\n∠ABC = ∠ACB\nBE ⊥ AC\nCF ⊥ AB\n∠BEC = 90°\n∠CFB = 90°\n∠EBC = ∠FCB\nBC = BC\n△BEC ≅ △CFB\nBE = CF"
+              }
+            ]
+          },
+          {
+            "label": "Review Exercise",
+            "items": [
+              {
+                "q": "Prove that, if two altitudes of a triangle are congruent, the triangle is an isosceles.",
+                "a": "△ABC\nBE ⊥ AC\nCF ⊥ AB\nBE = CF\n∠BEC = 90°\n∠CFB = 90°\nBC = BC\n△BEC ≅ △CFB\n∠EBC = ∠FCB\n∠ABC = ∠ACB\nAB = AC"
+              },
+              {
+                "q": "Prove that, a point in the interior of a triangle is an equidistant from all the three sides' lies on the bisector of all the three angles of the triangle.",
+                "a": "P inside △ABC\nPD ⊥ BC\nPE ⊥ CA\nPF ⊥ AB\nPD = PE = PF\nPE = PF\nP on bisector of ∠A\nPD = PF\nP on bisector of ∠B\nPD = PE\nP on bisector of ∠C"
+              },
+              {
+                "q": "Write 'T' for True and 'F' for False in front of each of the following statements\n(i) Bisector of side means, we divide the given side into two equal parts.\n(ii) In a right angled isosceles triangle each angle on the base is of 45°.\n(iii) Triangle of congruent sides has congruent angles.",
+                "a": "(i) True\n(ii) True\n(iii) True"
+              },
+              {
+                "q": "Choose the correct option:\n(i) There are __________ acute angles in an acute angled triangle.\n(a) One (b) Two (c) Three (d) None\n(ii) An point equidistant from the end points of a line segment is on the __________ of it.\n(a) Right bisector (b) Perpendicular (c) Centre (d) Mid-point\n(iii) __________ of the sides of an acute angled triangle intersect each other inside the triangle\n(a) Perpendicular (b) The right bisector (c) Obtuse (d) Acute\n(v) The bisector of the angles of a triangle are __________.\n(a) Concurrent (b) Collinear (c) Do not interest (d) Unequal",
+                "a": "(i) (c) Three\n(ii) (a) Right bisector\n(iii) (b) The right bisector\n(v) (a) Concurrent"
+              }
+            ]
+          }
+        ],
+        "display": "Line Bisectors and Angles Bisectors"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "△OAB:\nm OA + m OB > m AB ... (i)\n△OBC:\nm OB + m OC > m BC ... (ii)\n△OCA:\nm OC + m OA > m CA ... (iii)\n(i) + (ii) + (iii):\n2(m OA + m OB + m OC) > m AB + m BC + m CA\nm OA + m OB + m OC > [[1/2]](m AB + m BC + m CA)",
+                "q": "O is an interior point of the △ABC.\nShow that: m OA + m OB + m OC > [[1/2]](m AB + m BC + m CA)."
+              },
+              {
+                "a": "m∠A + m∠B + m∠C = 180°\nm∠A + 70° + 45° = 180°\nm∠A = 65°\nm∠B > m∠A > m∠C\nm AC > m BC > m AB\nAC is longest",
+                "q": "In △ABC, m∠B = 70° and m∠C = 45°. Which of the sides of the triangle is longest?"
+              },
+              {
+                "a": "m∠A + m∠B + m∠C = 180°\n55° + 65° + m∠C = 180°\nm∠C = 60°\nm∠B > m∠C > m∠A\nm AC > m AB > m BC\nBC is smallest",
+                "q": "In △ABC, m∠A = 55° and m∠B = 65°, which of the side of the triangle is smallest?"
+              }
+            ],
+            "label": "Exercise 12.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) True\n(ii) False\n(iii) False\n(iv) False\n(v) True",
+                "q": "Tick (✓) True or False from the following statements.\n(i) Sum of the two sides of a triangle is greater than the third side.\n(ii) The difference of two sides of a triangle is larger than the third side.\n(iii) Perpendicular distance from a point to line is the longest distance between them.\n(iv) In a right angled triangle the largest angle is of 100°.\n(v) A perpendicular on a line always makes an angle of 90°."
+              },
+              {
+                "a": "(i) Hypotenuse\n(ii) Greater\n(iii) m∠A + m∠B + m∠C = 180°\n50° + 30° + m∠C = 180°\nm∠C = 100°\nAB\n(iv) Less",
+                "q": "Fill in the blanks to make the sentences true sentences.\n(i) In any right angled triangle, ______ is the longest side of the triangle.\n(ii) In a right angled triangle, sum of the measures of the sides containing right angles is ______ than the measure of the hypotenuse.\n(iii) In △ABC, m∠A = 50° and m∠B = 30°. Side ______ will be longer than its other sides.\n(iv) Length of diagonal of any quadrilateral is ______ than the sum of the measures of its two adjacent sides."
+              },
+              {
+                "a": "(i) (a) less than\n(ii) (c) less than",
+                "q": "Tick (✓) the correct answer.\n(i) Measure of one side of an equilateral triangle is 6 cm, then the length of its median is ______ 9 cm.\n(a) less than (b) greater than (c) equal to (d) none of the above\n(ii) Perimeter of a rectangle is 22 cm, then the length of its diagonal is ______ 11 cm.\n(a) equal to (b) greater than (c) less than (d) none of the above"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Sides and Angles of a Triangle",
+        "unit": 12,
+        "display": "Sides and Angles of a Triangle"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "PQ = 4.6 cm\n∠PQX = 35°\nQR = 4.6 cm\nPR\n△PQR",
+                "q": "1. Construct △PQR such that, mPQ = mQR = 4.6 cm and m∠Q = 35°"
+              },
+              {
+                "a": "AB = 5.1 cm\n∠BAX = 65°\nAC = 5.1 cm\nBC\n△ABC",
+                "q": "2. Construct △ABC such that, mAB = mAC = 5.1 cm and m∠A = 65°"
+              },
+              {
+                "a": "LM = 3.7 cm\n∠LMX = 50°\nMN = 2.5 cm\nLN\n△LMN",
+                "q": "3. Construct △LMN such that, mLM = 3.7 cm, mMN = 2.5 cm and ∠M = 50°"
+              },
+              {
+                "a": "AB = 3.5 cm\n∠ABX = 110°\nBC = 2.7 cm\nAC\n△ABC",
+                "q": "4. Construct △ABC such that, mAB = 3.5 cm, mBC = 2.7 cm and ∠B = 110°"
+              },
+              {
+                "a": "YZ = 5 cm\n∠YZX = 80°\narc: centre Y, radius 4.1 cm\narc ∩ ZX = X\nXY\n△XYZ",
+                "q": "5. Construct △XYZ such that, mXY = 4.1 cm, mYZ = 5 cm and ∠Z = 80°"
+              },
+              {
+                "a": "(i) DE = 5 cm\n∠D = 45°\n∠E = 60°\n∠F = 180° − 45° − 60° = 75°\n(ii) LM = 6 cm\n∠L = 75°\n∠M = 45°\n∠N = 180° − 75° − 45° = 60°\n(iii) BC = 5.8 cm\n∠B = 45°\n∠A = 30°\n∠C = 180° − 30° − 45° = 105°",
+                "q": "6. Construct the △DEF, △LMN and △ABC in the following.\n(i) mDE = 5cm, m∠D = 45° and, m∠E = 60°\n(ii) mLM = 6cm, m∠L = 75° and, m∠M = 45°\n(iii) mBC = 5.8cm, m∠A = 30° and, m∠B = 45°"
+              },
+              {
+                "a": "(i) BC = 4.1 cm\n∠CBX = 75°\narc: centre C, radius 4.5 cm\narc ∩ BX = A\nAC\n△ABC\n(ii) BC = 5 cm\n∠BCX = 70°\narc: centre B, radius 5.5 cm\narc ∩ CX = A\nAB\n△ABC\n(iii) AB = 5 cm\n∠BAX = 45°\narc: centre B, radius 5.5 cm\narc ∩ AX = C\nBC\n△ABC",
+                "q": "7. Construct a △ABC, when lengths of two of its sides and measure of an angle opposite one of the side is given as under:\n(i) mAC = 4.5cm, mBC = 4.1cm and m∠B = 75°\n(ii) mBC = 5cm, mAB = 5.5 cm and m∠C = 70°\n(iii) mAB = 5cm, mBC = 5.5cm and m∠A = 45°"
+              }
+            ],
+            "label": "Exercise 13.1"
+          },
+          {
+            "items": [
+              {
+                "a": "△ABC\nD, E, F: mid-points of AB, BC, CA\nAE, BF, CD\nAE ∩ BF ∩ CD = G\n[[AG/GE]] = [[BG/GF]] = [[CG/GD]] = [[2/1]]\nAE, BF, CD: concurrent",
+                "q": "1. Take a △ and draw the medians and prove that they are concurrent."
+              },
+              {
+                "a": "△ABC\nAP ⊥ BC\nBQ ⊥ CA\nCR ⊥ AB\nAP ∩ BQ ∩ CR = O\nO = orthocentre\nAP, BQ, CR: concurrent",
+                "q": "2. Take a △ and draw the altitudes and prove that they are concurrent."
+              },
+              {
+                "a": "△ABC\nBP: bisector of ∠B\nCQ: bisector of ∠C\nAR: bisector of ∠A\nBP ∩ CQ ∩ AR = I\nI = in-centre\nBP, CQ, AR: concurrent",
+                "q": "3. Take a △ and draw the internal bisectors of angles and prove that they are concurrent."
+              },
+              {
+                "a": "BC = 6 cm\nCA = 4 cm\nAB = 5 cm\n△ABC\nAX: bisector of ∠A\nBY: bisector of ∠B\nAX ∩ BY = I",
+                "q": "4. Construct a triangle ABC in which mBC = 6 cm, mCA = 4 cm and mAB = 5 cm, draw the bisectors of angles A and B."
+              },
+              {
+                "a": "PQ = 5.7 cm\nQR = 6.4 cm\nPR = 4.4 cm\n△PQR\nRX ⊥ PQ\nQY ⊥ PR\nRX, QY: altitudes",
+                "q": "5. Construct a triangle PQR in which mPQ = 5.7cm, mQR = 6.4cm and mPR = 4.4 cm, draw the altitudes from vertex R and vertex Q."
+              },
+              {
+                "a": "TU = 7 cm\n∠T = 60°\n∠U = 30°\n∠S = 180° − 60° − 30° = 90°\n△STU\nPQ: right bisector of ST\nRS: right bisector of TU\nXY: right bisector of SU\nPQ ∩ RS ∩ XY = O\nO = mid-point of TU\nO = circum-centre\nPQ, RS, XY: concurrent",
+                "q": "6. Construct a triangle STU in which ∠T = 60°, ∠U = 30° and mTU = 7 cm. Find the perpendicular bisectors of the sides of triangle and prove that they are concurrent."
+              },
+              {
+                "a": "CB = 5 cm\n∠C = 90°\n∠B = 45°\n∠A = 180° − 90° − 45° = 45°\n△ABC\nD, E, F: mid-points of BC, CA, AB\nAD, BE, CF\nAD, BE, CF: medians",
+                "q": "7. Construct a right triangle ABC in which ∠C = 90°, ∠B = 45° and mCB = 5 cm. Draw the medians of the triangle."
+              },
+              {
+                "a": "(i) YZ = 4.4 cm\n∠Y = 45°\n∠Z = 75°\n∠X = 180° − 45° − 75° = 60°\n△XYZ\n(ii) XY = 4.6 cm\nXZ = 4.6 cm\n∠Y = 60°\n∠Z = 60°\n∠X = 180° − 60° − 60° = 60°\n△XYZ\nD, E, F: mid-points of YZ, ZX, XY\nXD, YE, ZF\nXD ∩ YE ∩ ZF = G\nXD, YE, ZF: concurrent",
+                "q": "8. Construct the following △XYZ. Draw their three medians and show that they are concurrent.\n(i) mYZ=4.4cm, m∠Y = 45° and m∠Z = 75°\n(ii) mXY=4.6cm, mXZ = 4.6cm and m∠Y = 60°"
+              },
+              {
+                "a": "KL = 4.8 cm\nLM = 5.2 cm\nMK = 4.5 cm\n△KLM\nKP ⊥ LM\nLQ ⊥ MK\nMR ⊥ KL\nKP ∩ LQ ∩ MR = O\nKP, LQ, MR: concurrent",
+                "q": "9. Construct the △KLM, in which mKL =4.8cm, mLM = 5.2cm and mMK=4.5cm, draw their altitudes and verify their concurrency."
+              },
+              {
+                "a": "PQ = 7 cm\nQR = 6.5 cm\nPR = 5.8 cm\n△PQR\nLM: right bisector of PQ\nNO: right bisector of QR\nST: right bisector of PR\nLM ∩ NO ∩ ST = O\nLM, NO, ST: concurrent",
+                "q": "10. Construct the △PQR, in which mPQ =7cm, mQR = 6.5cm and mPR =5.8cm, find their perpendicular bisectors and verify their concurrency."
+              }
+            ],
+            "label": "Exercise 13.2"
+          },
+          {
+            "items": [
+              {
+                "a": "ABCD: rectangle, AD = 5 cm, CD = 2.5 cm\narea ABCD = 5 × 2.5 = 12.5 cm²\nAD produced to E, DE = CD = 2.5 cm\nAE = 7.5 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE = 5 × 2.5 = 12.5\nDF = √12.5 cm\nDFQP: square on DF\narea DFQP = 12.5 cm² = area ABCD",
+                "q": "1. Construct a rectangle whose adjacent sides are 2.5 cm and 5 cm respectively. Construct a square having area equal to the given rectangle."
+              },
+              {
+                "a": "ABCD: rectangle, AD = 4.5 cm, CD = 2.2 cm\narea ABCD = 4.5 × 2.2 = 9.9 cm²\nAD produced to E, DE = CD = 2.2 cm\nAE = 6.7 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE = 4.5 × 2.2 = 9.9\nDF = √9.9 cm ≈ 3.15 cm\nDFQP: square on DF\narea DFQP = 9.9 cm² = area ABCD\nperimeter DFQP = 4 × 3.15 = 12.6 cm\nperimeter ABCD = 2 × (4.5 + 2.2) = 13.4 cm\n12.6 cm < 13.4 cm",
+                "q": "2. Construct a square equal in area to a rectangle whose adjacent sides are 4.5 cm and 2.2 cm respectively. Measure the sides of the square and find its area and compare with the area of the rectangle. Also verify by measurement that the perimeter of the square is less than that of the rectangle."
+              },
+              {
+                "a": "AB = 4 cm\nAC = 3.6 cm\nBC = 3.8 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD = [[1/2]] × BC × PD = area △ABC",
+                "q": "3. Construct a triangle having base 4 cm and other two sides equal to 3.6cm and 3.8 cm each. Transform it into a rectangle with equal Area."
+              },
+              {
+                "a": "AB = 6 cm\nAC = 5 cm\nBC = 6 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD = [[1/2]] × BC × PD = area △ABC",
+                "q": "4. Construct a triangle having base 6cm and other sides equal to 5cm and 6cm each. Construct a rectangle equal in area to given △."
+              }
+            ],
+            "label": "Exercise 13.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) Hypotenuse\n(ii) Altitude\n(iii) Median\n(iv) Concurrent\n(v) Equal",
+                "q": "1. Fill in the blanks.\n(i) The side of a right triangle opposite to the right angle is __________\n(ii) The line segment joining a vertex of a triangle and perpendicular to its opposite side is called an__________\n(iii) A line segment drawn from a vertex of a triangle and meeting the mid-point of its opposite side is called a __________\n(iv) The perpendicular bisectors of the sides of a triangle are __________\n(v) Two or more than two triangles are said to be congruent if they are equiangular and measures of their corresponding sides are __________"
+              },
+              {
+                "a": "(i) (c) equilateral\n(ii) (d) square\n(iii) (c) concurrent\n(iv) (b) three\n(v) (a) bisect\n(vi) (d) Medians\n(vii) (c) 90°\n(viii) (b) equilateral\n(ix) (d) sides",
+                "q": "2. Tick (✓) the correct answer.\n(i) A triangle having all the three sides congruent is called __________ triangle.\n(a) scalene (b) right angled (c) equilateral (d) isosceles\n(ii) A quadrilateral having each angle equal to 90° and all the sides are congruent is called __________\n(a) parallelogram (b) rectangle (c) trapezium (d) square\n(iii) The medians of a triangle are __________\n(a) collinear (b) congruent (c) concurrent (d) parallel\n(iv) The __________ altitudes of an equilateral triangle are congruent.\n(a) two (b) three (c) four (d) none\n(v) The diagonals of a rectangle __________ each other.\n(a) bisect (b) trisect (c) bisect at right angle (d) none of these\n(vi) The __________ of a triangle cut each other in the ratio 2:1.\n(a) Altitudes (b) Angle bisectors (c) Right bisectors (d) Medians\n(vii) If each angle on the base of an isosceles triangle is 45°, then the measure of the third angle is __________\n(a) 30° (b) 60° (c) 90° (d) 120°\n(viii) If the three medians of a triangle are congruent then the triangle is __________\n(a) Right angled (b) equilateral (c) Isosceles (d) acute angled\n(ix) If two __________ of a triangle are congruent, then the triangle will be isosceles.\n(a) Altitudes (b) Medians (c) Right bisectors (d) sides"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Practical Geometry - Triangles",
+        "unit": 13,
+        "display": "Practical Geometry - Triangles"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) DC: common base\nAL: common altitude\n▱ABCD = ▱EFCD\n(ii) ▱EFCD = DC × FC\nFC = AL\n▱ABCD = DC × AL",
+                "q": "1. In the given figure, ABCD is a parallelogram and EFCD is a rectangle, also AL ⊥ DC. Prove that\n(i) ▱ABCD = ▱EFCD\n(ii) ▱ABCD = mDC × mAL."
+              },
+              {
+                "a": "AC ∩ BD = O\n△OAB = △OBC = △OCD = △ODA\n△OAB = △OBC\nOA = OC\n△OAB = △ODA\nOB = OD\nAC, BD: bisect each other\nABCD: parallelogram",
+                "q": "2. In the given figure, if the diagonals of a quadrilateral separate it into four triangles of equal area, show that it is a parallelogram."
+              },
+              {
+                "a": "AB² + BC² = AC²\nAB² = 11² − 7² = 121 − 49 = 72\nAB = √72 = 6√2 cm\narea △ABC = [[1/2]] × 7 × 6√2 = 21√2 cm²\n△ABC = △BCD\narea △BCD = 21√2 cm²",
+                "q": "3. In the given figure BC ∥ AD. ABC is a right-angled at vertex B with mBC = 7 cm and mAC = 11 cm, also △ABC and △BCD are on the same base BC. Find the area of △BCD."
+              },
+              {
+                "a": "△ABC, AD: median\nD: mid-point of BC\nBD = DC\n△ABD, △ACD: same altitude from A\narea △ABD = [[1/2]] × BD × h\narea △ACD = [[1/2]] × DC × h\nBD = DC\n△ABD = △ACD",
+                "q": "4. Show that a median of a triangle divides it into two triangles of equal area."
+              },
+              {
+                "a": "ABCD: rectangle\nE, F: mid-points of AB, CD\nAE = EB\nDF = FC\nAEFD: rectangle\nEBCF: rectangle\nAEFD = EBCF",
+                "q": "5. Show that the line segment joining the mid-points of the opposite sides of a rectangle, divides it into two equal rectangles."
+              },
+              {
+                "a": "▱ABCD, ▱EFGH\n▱ABCD = ▱EFGH\nBC = FG\narea ▱ABCD = BC × h₁\narea ▱EFGH = FG × h₂\nBC × h₁ = FG × h₂\nBC = FG\nh₁ = h₂",
+                "q": "6. If two parallelograms of equal areas have the same or equal bases, their altitudes are equal."
+              },
+              {
+                "a": "△ABC: equilateral\nAB = AC\nAD: bisector of ∠A\nD: mid-point of BC\nBD = DC\n△ABD, △ACD: same altitude from A\n△ABD = △ACD",
+                "q": "7. Show that an angle bisector of an equilateral triangle divides it into two triangles of equal areas."
+              },
+              {
+                "a": "ABCD: rhombus\nAC ∩ BD = O\nOA = OC\nOB = OD\n∠AOB = ∠BOC = ∠COD = ∠DOA = 90°\n△AOB ≅ △BOC ≅ △COD ≅ △DOA\n△AOB = △BOC = △COD = △DOA",
+                "q": "8. Prove that a rhombus is divided by its diagonals into four triangles of equal areas."
+              }
+            ],
+            "label": "Exercise 14.1"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) T\n(ii) T\n(iii) F\n(iv) T\n(v) F\n(vi) F\n(vii) F\n(viii) T",
+                "q": "1. Mark 'T' for True and 'F' for False in front of each given below:\n(i) Area of a closed figure means region enclosed by bounding lines of the figure. T or F\n(ii) A diagonal of rectangle divides it into two congruent triangles. T or F\n(iii) Congruent figures have different areas. T or F\n(iv) The area of parallelogram is equal to the product of base and height. T or F\n(v) Median of a triangle means perpendicular from a vertex to the opposite side (base). T or F\n(vi) Perpendicular distance between two parallel lines can sometimes be different. T or F\n(vii) An altitude drawn from a vertex always bisects the opposite side. T or F\n(viii) Two triangles are equal in areas, if they have the same base and equal altitude. T or F"
+              },
+              {
+                "a": "(i) (b) Parallel to each other\n(ii) (a) Not necessarily\n(iii) (c) Altitude\n(iv) (b) Equal in areas\n(v) (d) All of these\n(vi) (a) Equal in area",
+                "q": "2. Tick (✓) the correct answer.\n(i) If perpendicular distance between two lines is the same. The lines are __________\n(a) Perpendicular to each other (b) Parallel to each other (c) Intersecting to each other (d) None of these.\n(ii) If two triangles have equal areas then they will __________ be congruent as well.\n(a) Not necessarily (b) Necessarily (c) Definitely (d) None of these.\n(iii) Perpendicular from a vertex of a triangle to its opposite side is called __________.\n(a) Median (b) Perpendicular bisector (c) Altitude (d) Angle bisector\n(iv) Parallelograms having same base and same altitude are __________.\n(a) Congruent (b) Equal in areas (c) Similar (d) All of these.\n(v) Two parallelograms have equal bases. They will be having the same area, if __________.\n(a) Their altitudes are equal (b) Their altitude is the same (c) They lies between the same parallel lines (d) All of these.\n(vi) △ABC and △DEF have equal bases and equal altitudes, then triangles are__________.\n(a) Equal in area (b) Congruent (c) Similar (d) None of these."
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Theorems Related with Area",
+        "unit": 14,
+        "display": "Theorems Related with Area"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 cm\nmAD = mAC + mCD = 3 + 3 = 6 cm\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 cm\narea △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 3 × 3√3 = [[9√3/2]] cm²\n(ii) mCD = mBC cos(180° − 120°) = 80 × [[1/2]] = 40 mm\nmAD = mAC + mCD = 40 + 40 = 80 mm\nmBD² = mBC² − mCD² = 6400 − 1600 = 4800\nmAB² = mAD² + mBD² = 6400 + 4800 = 11200\nmAB = √11200 = 40√7 mm = 4√7 cm\narea △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 40 × 40√3 = 800√3 mm² = 8√3 cm²",
+                "q": "1. Find the length of AB and area of the triangle ABC, when\n(i) mAC = 3cm, mBC = 6 cm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\n(ii) mAC = 40 mm, mBC = 80 mm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\nHint: (mBC)² = (mAC)² + (mAB)² + 2(mAB)(mAD)"
+              },
+              {
+                "a": "mCD = mBC cos(180° − 135°) = 6 × [[√2/2]] = 3√2 cm\nmBD = mCD = 3√2 cm\nmAD = mAB + mBD = 4√2 + 3√2 = 7√2 cm\nmAC² = mAD² + mCD² = 98 + 18 = 116\nmAC = √116 cm\narea △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 4√2 × 3√2 = 12 cm²",
+                "q": "2. Find the length of mAC in the △ABC when mBC = 6cm, mAB = 4√2 cm and m∠ABC = 135°. If possible, find the area of the △ABC."
+              },
+              {
+                "a": "mCD = mBC cos(180° − 135°) = 6√2 × [[√2/2]] = 6 cm\nmBD = mCD = 6 cm\nmAD = mAB + mBD = 8 + 6 = 14 cm\nmAC² = mAD² + mCD² = 196 + 36 = 232\nmAC = √232 cm\narea △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 8 × 6 = 24 cm²",
+                "q": "3. Find the length of mAC in the △ABC when mBC = 6√2 cm, mAB = 8 cm and m∠ABC = 135°. If possible, find the area of the △ABC."
+              }
+            ],
+            "label": "Exercise 15.1"
+          },
+          {
+            "items": [
+              {
+                "a": "mAD = mAC cos30° = mAC × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAC) × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)",
+                "q": "1. In △ABC, m∠A = 30°, prove that (mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)."
+              },
+              {
+                "a": "mAD = mAC cos60° = 5 × [[1/2]] = 2.5 cm\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = 25 + 36 − 2 × 6 × 2.5 = 61 − 30 = 31\nmBC = √31 cm",
+                "q": "2. In a △ABC, calculate mBC when mAB = 6cm, mAC = 5cm, and m∠A = 60°"
+              },
+              {
+                "a": "3² + 4² = 9 + 16 = 25\n5² = 25\n3² + 4² = 5²\nright angled triangle",
+                "q": "3. Whether the triangle with sides 3cm, 4cm and 5cm is acute, obtuse or right angled."
+              },
+              {
+                "a": "mBD = [[mBC/2]] = 3 cm\n(mAB)² + (mAC)² = 2(mBD)² + 2(mAD)²\n16 + 9 = 2 × 9 + 2(mAD)²\n25 = 18 + 2(mAD)²\n2(mAD)² = 7\n(mAD)² = [[7/2]]\nmAD = √[[7/2]] cm",
+                "q": "4. Find the length of the median of side BC of a △ABC where mAB = 4cm, mAC = 3cm and mBC = 6cm."
+              }
+            ],
+            "label": "Exercise 15.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) (mBC)²\n(ii) Isosceles\n(iii) (mAC)²\n(iv) right-angled triangle",
+                "q": "1. Fill in the blanks.\n(i) In rt. △ABC, (mAB)² + __________ = (mAC)²,\n(ii) In △ABC, two sides are equal to 4cm it is called __________ triangle.\n(iii) In △ABC, with m∠B = 90° then (mAB)² + (mBC)² = __________\n(iv) 8cm, 15cm and 17 cm are the sides of __________"
+              },
+              {
+                "a": "mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 cm\nmAD = mAC + mCD = 3 + 3 = 6 cm\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 cm",
+                "q": "2. In △ABC, mAC = 3cm, mBC = 6cm and m∠C = 120°. Compute mAB"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Projection of a side of a Triangle",
+        "unit": 15,
+        "display": "Projection of a side of a Triangle"
+      },
+      {
+        "exercises": [
+          {
+            "items": [
+              {
+                "a": "(i) d = √((6 − (−4))² + (6 − 5)²) = √(100 + 1) = √101\n(ii) d = √((2 − 2)² + (3 − 2)²) = √(0 + 1) = 1\n(iii) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2\n(iv) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2",
+                "q": "1. Using distance formula find the distance between the following pairs of points.\n(i) (−4,5) and (6,6) (ii) (2,2) and (2,3)\n(iii) (0,1) and (2,3) (iv) (0,1) and (2,3)"
+              },
+              {
+                "a": "|AB| = √(a² + b²)\n(i) |AB| = √((−3)² + (−4)²) = √(9 + 16) = √25 = 5\n(ii) |AB| = √((−9)² + 6²) = √(81 + 36) = √117\n(iii) |AB| = √(3² + 4²) = √(9 + 16) = √25 = 5\n(iv) |AB| = √((√2)² + (−2√2)²) = √(2 + 8) = √10",
+                "q": "2. A(a,0) and B(0,b) be the points on the axes, find the distance between A and B, when\n(i) a = −3, b = −4 (ii) a = −9, b = 6\n(iii) a = 3, b = 4 (iv) a = √2, b = −2√2"
+              },
+              {
+                "a": "|AB| = √((4 − 0)² + (0 − 0)²) = 4\n|BC| = √((2 − 4)² + (2√3 − 0)²) = √(4 + 12) = 4\n|AC| = √((2 − 0)² + (2√3 − 0)²) = √(4 + 12) = 4\nP = 4 + 4 + 4 = 12",
+                "q": "3. Find the perimeter of the triangle formed by the points. A(0,0), B(4,0) and C(2,2√3)."
+              }
+            ],
+            "label": "Exercise 16.1"
+          },
+          {
+            "items": [
+              {
+                "a": "|PQ| = √((2 + 3)² + (6 + 4)²) = √(25 + 100) = √125 = 5√5\n|QR| = √((0 − 2)² + (2 − 6)²) = √(4 + 16) = √20 = 2√5\n|PR| = √((0 + 3)² + (2 + 4)²) = √(9 + 36) = √45 = 3√5\n|PR| + |QR| = 3√5 + 2√5 = 5√5 = |PQ|\nP, Q, R: collinear",
+                "q": "1. Show that the points P (−3, −4), Q (2, 6) and R (0, 2) are collinear."
+              },
+              {
+                "a": "|AB| = 2\n|BC| = √((0 − 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AC| = √((0 + 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AB| + |BC| = 4 ≠ |AC|\n|AB| + |AC| = 4 ≠ |BC|\n|BC| + |AC| = 4 ≠ |AB|\nA, B, C: non-collinear",
+                "q": "2. Show that the points A (−1, 0), B (1, 0) and C (0, √3) are not collinear."
+              },
+              {
+                "a": "|LM| = √((−1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|MN| = 2\n|LN| = √((1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|LM| = |MN| = |LN| = 2\nL, M, N: equilateral triangle",
+                "q": "3. Show that L (0, √3), M (−1, 0) and N (1, 0) form an equilateral triangle."
+              },
+              {
+                "a": "|AB| = √((8 − 2)² + (11 − 3)²) = √(36 + 64) = 10\n|BC| = √((0 − 8)² + (17 − 11)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|AB| = |BC| = 10\nA, B, C: isosceles triangle",
+                "q": "4. Whether or not the points A (2, 3), B (8, 11) and C (0, 17) form an isosceles triangle."
+              },
+              {
+                "a": "|AB|² = (7 + 1)² + (5 − 2)² = 64 + 9 = 73\n|BC|² = (2 − 7)² + (−6 − 5)² = 25 + 121 = 146\n|AC|² = (2 + 1)² + (−6 − 2)² = 9 + 64 = 73\n|AB|² + |AC|² = 73 + 73 = 146 = |BC|²\nA, B, C: right angled triangle",
+                "q": "5. Do the points A (−1, 2), B (7, 5) and C (2, −6) form a right angled triangle."
+              },
+              {
+                "a": "|AB| = 6\n|AC|² = (6 − 3)² + (k − 1)² = 9 + (k − 1)²\n|AC| = 6\n9 + (k − 1)² = 36\n(k − 1)² = 27\nk − 1 = ±3√3\nk = 1 ± 3√3",
+                "q": "6. If the points A (3, 1), B (9, 1) and C (6, k) determine an equilateral triangle, find the values of k."
+              },
+              {
+                "a": "|PQ| = √((3 − 1)² + (4 − 2)²) = √(4 + 4) = √8 = 2√2\n|QR| = √((0 − 3)² + (−1 − 4)²) = √(9 + 25) = √34\n|PR| = √((0 − 1)² + (−1 − 2)²) = √(1 + 9) = √10\n|PQ| ≠ |QR| ≠ |PR|\nP, Q, R: scalene triangle",
+                "q": "7. Show that the points P (1, 2), Q (3, 4) and R (0, −1) are the vertices of a scalene triangle."
+              },
+              {
+                "a": "|AB| = 10\n|BC| = 10\n|CD| = √((−6 − 0)² + (9 − 17)²) = √(36 + 64) = 10\n|DA| = √((2 + 6)² + (3 − 9)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|BD| = √((−6 − 8)² + (9 − 11)²) = √(196 + 4) = √200 = 10√2\n|AB| = |BC| = |CD| = |DA| = 10\n|AC| = |BD| = 10√2\nA, B, C, D: square",
+                "q": "8. Show that the points A (2, 3), B (8, 11), C (0, 17) and D (−6, 9) are vertices of a square."
+              },
+              {
+                "a": "|AB| = √((0 + 2)² + (−3 − 0)²) = √(4 + 9) = √13\n|BC| = √((2 − 0)² + (0 + 3)²) = √(4 + 9) = √13\n|CD| = √((0 − 2)² + (3 − 0)²) = √(4 + 9) = √13\n|DA| = √((−2 − 0)² + (0 − 3)²) = √(4 + 9) = √13\n|AC| = 4\n|BD| = 6\n|AC| ≠ |BD|\nA, B, C, D: rhombus, not a square",
+                "q": "9. Explain why the points A (−2, 0), B (0, −3), C (2, 0) and D (0, 3) do determine a square?"
+              },
+              {
+                "a": "|AB| = √((4 − 3)² + (1 − 2)²) = √(1 + 1) = √2\n|BC| = √((5 − 4)² + (4 − 1)²) = √(1 + 9) = √10\n|CD| = √((6 − 5)² + (3 − 4)²) = √(1 + 1) = √2\n|DA| = √((3 − 6)² + (2 − 3)²) = √(9 + 1) = √10\n|AC| = √((5 − 3)² + (4 − 2)²) = √(4 + 4) = 2√2\n|BD| = √((6 − 4)² + (3 − 1)²) = √(4 + 4) = 2√2\n|AB| = |CD| = √2\n|BC| = |DA| = √10\n|AC| = |BD| = 2√2\nA, B, C, D: rectangle",
+                "q": "10. Show that the points A (3, 2), B (4, 1), C (5, 4) and D (6, 3) are the vertices of a rectangle."
+              },
+              {
+                "a": "|OA| = 3\n|AB| = √((5 − 3)² + (2 − 0)²) = √(4 + 4) = 2√2\n|BC| = √((2 − 5)² + (2 − 2)²) = 3\n|CO| = √((0 − 2)² + (0 − 2)²) = √(4 + 4) = 2√2\n|OA| = |BC| = 3\n|AB| = |CO| = 2√2\nO, A, B, C: parallelogram",
+                "q": "11. Use distance formula to show that the points O (0, 0), A (3, 0), B (5, 2) and C (2, 2) form the vertices of a parallelogram."
+              }
+            ],
+            "label": "Exercise 16.2"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) ([[(2−4)/2]], [[(6+8)/2]]) = (−1, 7)\n(ii) ([[(−3+5)/2]], [[(−1+2)/2]]) = (1, [[1/2]])\n(iii) ([[(0−8)/2]], [[(6+0)/2]]) = (−4, 3)\n(iv) ([[2√3/2]], [[4√3/2]]) = (√3, 2√3)",
+                "q": "1. Find the mid-points between the following pair of points using mid-point formula.\n(i) A (2, 6) and B (−4, 8) (ii) P (−3, −1) and Q (5, 2)\n(iii) L (0, 6) and M (−8, 0) (iv) C (0, 0) and D (2√3, 4√3)."
+              },
+              {
+                "a": "centre = mid-point of AB\n([[(−5+3)/2]], [[(6−4)/2]]) = (−1, 1)",
+                "q": "2. Find the centre of a circle whose end points of a diameter are A (−5, 6) and B (3, −4)."
+              },
+              {
+                "a": "B = (x, y)\n[[(4+x)/2]] = 3\n[[(6+y)/2]] = 4\n4 + x = 6\n6 + y = 8\nx = 2\ny = 2\nB = (2, 2)",
+                "q": "3. The centre of a circle is (3, 4) and one of its end point of a diameter is (4, 6), find the point of other end."
+              },
+              {
+                "a": "centre = mid-point of AB\n([[(−3+11)/2]], [[(4+6)/2]]) = (4, 5)\n|AB| = √((11 + 3)² + (6 − 4)²) = √(196 + 4) = √200 = 10√2\nradius = [[(10√2)/2]] = 5√2",
+                "q": "4. A circle has a diameter between the points A (−3, 4) and B (11, 6). Find the centre and radius of the circle."
+              },
+              {
+                "a": "a = BC, b = CA, c = AB\nm_a² = [[(2b² + 2c² − a²)/4]]\nm_b² = [[(2a² + 2c² − b²)/4]]\nm_a = m_b ⇒ 2b² + 2c² − a² = 2a² + 2c² − b² ⇒ 3b² = 3a² ⇒ b = a\na = b ⇒ m_a = m_b",
+                "q": "5. Prove that a triangle is an isosceles triangle if and only if it has two equal medians."
+              },
+              {
+                "a": "A = (0, 0), B = (a, 0), D = (b, c), C = (a + b, c)\nmid-point of AC = ([[(a+b)/2]], [[c/2]])\nmid-point of BD = ([[(a+b)/2]], [[c/2]])\nAC, BD: same mid-point",
+                "q": "6. Prove that the diagonals of a parallelogram bisect each other."
+              }
+            ],
+            "label": "Exercise 16.3"
+          },
+          {
+            "items": [
+              {
+                "a": "(i) F\n(ii) F\n(iii) F\n(iv) F\n(v) T\n(vi) T\n(vii) T\n(viii) T\n(ix) F",
+                "q": "1. Read the following sentences carefully and encircle \"T\" in case of True and \"F\" in case of False statement.\n(i) R is the mid-point of PQ, if R is lying between P and Q T or F\n(ii) In scalene triangle all sides are equal T or F\n(iii) Perpendicular lines meet at an angle of 135°. T or F\n(iv) Collinear points may form a triangle. T or F\n(v) Non-collinear points form a triangle. T or F\n(vi) In an isosceles triangle, two sides angles are equal. T or F\n(vii) All the points that lie on the y-axis are collinear T or F\n(viii) Intersection of x-axis and y-axis is (0,0) T or F\n(ix) The distance from origin to (6,0) is 36 unit. T or F"
+              },
+              {
+                "a": "(i) √((x₂ − x₁)² + (y₂ − y₁)²)\n(ii) line\n(iii) y < 0",
+                "q": "2. Fill in the blanks.\n(i) If A(x₁, y₁) and B(x₂, y₂) be the any two points on the line, then |AB| = __________\n(ii) Collinear points lies on the same __________\n(iii) In 4th quadrant x>0 and y __________"
+              },
+              {
+                "a": "(i) (c) 90°\n(ii) (a) Mid-point formula\n(iii) (d) 3√2 unit\n(iv) (a) mAB = mBC + mAC",
+                "q": "3. Tick (✓) the correct answer.\n(i) Two perpendicular lines meet at an angle of:\n(a) 45° (b) 60° (c) 90° (d) 180°\n(ii) ([[(x₁+x₂)/2]], [[(y₁+y₂)/2]]) is called:\n(a) Mid-point formula (b) Distance formula (c) Division formula (d) Ratio formula\n(iii) A(3, 0) and B(0, 3) are any two points in the plane then |AB| =\n(a) 6 unit (b) 6√2 unit (c) 3√2 unit (d) 3√2 unit\n(iv) Three points A,B and C are collinear if\n(a) mAB = mBC + mAC (b) (mAB)² = (mBC)² + (mAC)² (c) both a and b (d) (mAB) ≠ mBC + mAC"
+              }
+            ],
+            "label": "Review Exercise"
+          }
+        ],
+        "title": "Introduction to Coordinate Geometry/ Analytical Geometry",
+        "unit": 16,
+        "display": "Introduction to Coordinate Geometry/ Analytical Geometry"
+      }
     ]
   }
 };
@@ -10307,7 +12144,7 @@ function renderSubjectMaterial(cls, subj){
     return;
   }
   matTabs = [["definitions", "Definitions"], ["notes", "Notes"]];
-  if(cls === "x" && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
+  if((cls === "x" || cls === "ix") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
   matTabs.forEach(function(t){
     html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
   });
