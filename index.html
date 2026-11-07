@@ -15,7 +15,10 @@
 <style>
 @font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Regular.ttf') format('truetype');font-weight:400;font-display:swap}
 @font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Bold.ttf') format('truetype');font-weight:700;font-display:swap}
+@font-face{font-family:'Noto Nastaliq Urdu';src:url('fonts/NotoNastaliqUrdu-Regular.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:'Noto Nastaliq Urdu';src:url('fonts/NotoNastaliqUrdu-Regular.woff2') format('woff2');font-weight:700;font-display:swap}
 *{box-sizing:border-box}
+#test.urdu,#test.urdu *{font-family:'Noto Nastaliq Urdu','Noto Naskh Arabic',sans-serif;line-height:2}
 body{margin:0;font-family:'Noto Naskh Arabic','Noto Nastaliq Urdu',system-ui,sans-serif;background:#f2f4f7;color:#111}
 header{background:#14532d;color:#fff;text-align:center;padding:18px 14px 14px}
 header h1{margin:0;font-size:19px;line-height:1.35}
@@ -37987,6 +37990,7 @@ function savePausedState(){
   refreshPausedButton();
   return true;
 }
+function isUrduTest(k){ if(!k) return false; if(k.indexOf('urdu')!==-1) return true; var s=(typeof TEST_SUBJECT!=='undefined')?TEST_SUBJECT[k]:null; if(s==='Asan Urdu'||s==='Urdu Salees') return true; if(typeof CHAPTERS!=='undefined'&&CHAPTERS[k]){ var p=CHAPTERS[k].parent; if(p&&p.indexOf('urdu')!==-1) return true; var ps=TEST_SUBJECT[p]; if(ps==='Asan Urdu'||ps==='Urdu Salees') return true; } return false; }
 function startTest(key){
   const _nm=document.getElementById("studentName"); if(!_nm || !_nm.value.trim()){ alert(tr('nameAlert')); document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden'); document.getElementById('home').classList.remove('hidden'); if(_nm) _nm.focus(); return; } studentName=_nm.value.trim(); try{localStorage.setItem("mcqStudentName", studentName);}catch(e){} testKey=key; var _ti=(typeof CHAPTERS!=='undefined'&&CHAPTERS[key])?CHAPTERS[key]:QUESTIONS[key]; idx=0; submitted=false; testLearn=learnMode; activeQs=buildShuffled(key); clearPaused();
@@ -38000,15 +38004,21 @@ function startTest(key){
   document.getElementById('result').classList.add('hidden');
   const t=document.getElementById('test'); t.classList.remove('hidden');
   document.getElementById('testtitle').textContent=_ti.title+(testLearn?' — Learn mode':'');
-  document.getElementById('test').dir=_ti.dir;
+  document.getElementById('test').dir=_ti.dir; document.getElementById('test').classList.toggle('urdu', isUrduTest(key));
   render(); initTargetRow(key, activeQs.length); updateCalc();
   clearInterval(timerId);
   if(testLearn){ document.getElementById('timer').textContent=tr('learnModeLabel'); }
   else { timerId=setInterval(tick,1000); }
   navPush({view:'test', testKey:testKey});
 }
+var PRINT_PASSWORD_HASH='c99dfbd920a1d63258c99efba6d1936da00437c12e6574fa689f2ff5d64e55bd';
+function sha256Hex(str){ function rr(v,a){ return (v>>>a)|(v<<(32-a)); } var maxWord=Math.pow(2,32), result='', words=[]; var asciiBitLength=str.length*8; var hash=[], k=[], primeCounter=0, isComposite={}; for(var candidate=2; primeCounter<64; candidate++){ if(!isComposite[candidate]){ for(var i=0;i<313;i+=candidate){ isComposite[i]=candidate; } hash[primeCounter]=(Math.pow(candidate,0.5)*maxWord)|0; k[primeCounter++]=(Math.pow(candidate,1/3)*maxWord)|0; } } str+='\x80'; while(str.length%64!==56) str+='\x00'; for(var i=0;i<str.length;i++){ var j=str.charCodeAt(i); if(j>>8) return null; words[i>>2]|=j<<((3-i)%4)*8; } words[words.length]=(asciiBitLength/maxWord)|0; words[words.length]=asciiBitLength; for(var j=0;j<words.length;){ var w=words.slice(j,j+=16), oldHash=hash; hash=hash.slice(0,8); for(var i=0;i<64;i++){ var w15=w[i-15], w2=w[i-2], a=hash[0], e=hash[4]; var temp1=hash[7]+(rr(e,6)^rr(e,11)^rr(e,25))+((e&hash[5])^((~e)&hash[6]))+k[i] +(w[i]=(i<16)?w[i]:(w[i-16]+(rr(w15,7)^rr(w15,18)^(w15>>>3))+w[i-7]+(rr(w2,17)^rr(w2,19)^(w2>>>10)))|0); var temp2=(rr(a,2)^rr(a,13)^rr(a,22))+((a&hash[1])^(a&hash[2])^(hash[1]&hash[2])); hash=[(temp1+temp2)|0].concat(hash); hash[4]=(hash[4]+temp1)|0; } for(var i=0;i<8;i++){ hash[i]=(hash[i]+oldHash[i])|0; } } for(var i=0;i<8;i++) for(var j=3;j+1;j--){ var b=(hash[i]>>(j*8))&255; result+=((b<16)?'0':'')+b.toString(16); } return result; }
 function printTest(){
   if(!testKey||!activeQs) return;
+  var pw=prompt('Enter the teacher password to print this test:');
+  if(pw===null||pw==='') return;
+  var hash=sha256Hex(pw);
+  if(!hash||hash!==PRINT_PASSWORD_HASH){ alert('Wrong password. Only teachers can print tests.'); return; }
   var w=window.open('', '_blank'); if(!w) return;
   var h='<html><head><meta charset="utf-8"><title>'+escHtml(testInfo().title)+'</title></head><body dir="'+testInfo().dir+'"><h2 style="text-align:center">GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h2><h3 style="text-align:center">'+escHtml(testInfo().title)+'</h3><p>Name: ______________________ &nbsp; Date: ____________</p>';
   activeQs.forEach(function(q,i){ h+='<p><b>'+(i+1)+'. '+escHtml(q.q)+'</b></p><p>'+q.options.map(function(o,j){ return ' ('+letters[j]+') '+escHtml(o); }).join(' &nbsp; ')+'</p>'; });
@@ -38017,7 +38027,7 @@ function printTest(){
 }
 function shareTest(k){
   var t=(typeof CHAPTERS!=='undefined'&&CHAPTERS[k])?CHAPTERS[k]:QUESTIONS[k]; if(!t) return;
-  var msg=t.title+' \u2014 practice test on Haseeja Mahar MCQ Tests: https://Nasar1234567890.github.io/Nasarullah/';
+  var msg=t.title+' \u2014 practice test on Haseeja Mahar MCQ Tests: https://nasar1234567890.github.io/Nasarullah/?test='+encodeURIComponent(k);
   window.open('https://wa.me/?text='+encodeURIComponent(msg), '_blank');
 }
 function startRetry(){
@@ -38622,6 +38632,7 @@ function renderExamCountdown(){
   var el=document.getElementById('examCountdown'); if(!el) return;
   el.textContent='';
 }
+function handleDeepLink(){ var q=null; try{ q=new URLSearchParams(window.location.search).get('test'); }catch(e){} if(!q) return; var key=q; var isMain=(typeof QUESTIONS!=='undefined'&&QUESTIONS[key]); var isChap=(typeof CHAPTERS!=='undefined'&&CHAPTERS[key]); if(!isMain&&!isChap) return; var nm=document.getElementById('studentName'); if(nm&&nm.value.trim()){ startTest(key); return; } var parentKey=isChap?CHAPTERS[key].parent:key; var subj=(typeof TEST_SUBJECT!=='undefined')?TEST_SUBJECT[parentKey]:null; if(!subj) return; var cls=null; if(typeof CLASS_TESTS!=='undefined'){ Object.keys(CLASS_TESTS).forEach(function(c){ if(CLASS_TESTS[c].indexOf(parentKey)!==-1) cls=c; }); } if(!cls) return; showClass(cls); showSubject(cls, subj); }
 try{ var _savedName=localStorage.getItem('mcqStudentName'); if(_savedName){ var _inp=document.getElementById('studentName'); if(_inp) _inp.value=_savedName; } }catch(e){}
 applySavedFontSize();
 applySavedNightMode();
@@ -38634,6 +38645,7 @@ renderWeak();
 renderStreak(); renderGoal(); renderCalendar(); updateOfflineBanner();
 tidyExamBits();
 showFirstGuideIfNeeded();
+handleDeepLink();
 // ---- Phone back button: one step back per press ----
 try{ if(window.history && history.replaceState){ history.replaceState({view:'home'}, ''); } }catch(e){}
 window.addEventListener('popstate', function(e){ navShow(e.state); });
