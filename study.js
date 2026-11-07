@@ -10307,7 +10307,7 @@ function renderSubjectMaterial(cls, subj){
     return;
   }
   matTabs = [["definitions", "Definitions"], ["notes", "Notes"]];
-  if(cls === "x" && subj === "Mathematics" && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
+  if(cls === "x" && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
   matTabs.forEach(function(t){
     html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
   });
@@ -10449,7 +10449,7 @@ function openMathUnit(n, cls, subj){
   var mx = (data && data.mathsolutions) || [];
   var u = null;
   mx.forEach(function(x){ if(x.unit === n) u = x; });
-  document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + "Unit " + n + (u ? " \u2014 " + (u.display || u.title) : "");
+  document.getElementById("mattitle").textContent = "Mathematics \u2014 Unit " + n + (u ? " \u2014 " + (u.display || u.title) : "");
   var si = document.getElementById("matSearchPage");
   if(si){ si.value = ""; try{ si.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
   document.getElementById("matcontent").innerHTML = h;
@@ -10515,7 +10515,7 @@ function matSectionHtml(tab){
     }
     return matTabHtml(tab);
   }
-  if(tab === "exsolutions" && matSubj === "Mathematics"){
+  if(tab === "exsolutions" && (matSubj || "").indexOf("Mathematics") === 0){
     var mx = data.mathsolutions || [];
     if(mx.length){
       mx.forEach(function(u){
