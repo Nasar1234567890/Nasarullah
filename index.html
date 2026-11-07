@@ -234,7 +234,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <h2 id="mattitle">Study Material</h2>
 <p class="note"><input id="matSearchPage" type="text" oninput="filterMatPage()" placeholder="Search"></p>
 <div id="matcontent"></div>
-<button class="homebtn" onclick="backToSubject()">Back</button>
+<button class="homebtn" onclick="backFromMatPage()">Back</button>
 </section>
 
 <section id="myresults" class="card hidden">
@@ -37956,7 +37956,7 @@ function navShow(state){
     else if(state.view==='timetable'){ showTimetable(); }
     else if(state.view==='myresults'){ showMyResults(); }
     else if(state.view==='install'){ showInstall(); }
-    else if(state.view==='material'){ if(state.cls && state.subj && state.tab) openMatPage(state.tab, state.cls, state.subj); else navFallback(); }
+    else if(state.view==='material'){ if(state.cls && state.subj && state.tab){ if(state.unit) openExUnit(state.unit, state.cls, state.subj); else openMatPage(state.tab, state.cls, state.subj); } else navFallback(); }
     else { goHome(); }
   }catch(e){}
   navFromPop=false;
