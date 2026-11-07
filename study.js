@@ -1581,7 +1581,8 @@ var STUDY = {
             "syn": "unable to walk properly",
             "w": "lame"
           }
-        ]
+        ],
+        "display": "The Voice of God & The Wise Caliph"
       },
       {
         "reading": "Dignity of Work",
@@ -2370,7 +2371,8 @@ var STUDY = {
             "sd": "آزاد، خودمختيار",
             "syn": "free, self-reliant"
           }
-        ]
+        ],
+        "display": "Dignity of Work"
       },
       {
         "unit": 3,
@@ -3131,7 +3133,8 @@ var STUDY = {
             "sd": "فتح ڪرڻ",
             "syn": "win"
           }
-        ]
+        ],
+        "display": "King Bruce and the Spider"
       },
       {
         "unit": 4,
@@ -4118,7 +4121,8 @@ var STUDY = {
             "sd": "هوشيار، سمجھدار",
             "syn": "careful"
           }
-        ]
+        ],
+        "display": "Social Media"
       },
       {
         "reading": "A bad dream",
@@ -4897,7 +4901,8 @@ var STUDY = {
             "syn": "horrible",
             "w": "horrific"
           }
-        ]
+        ],
+        "display": "A bad dream"
       },
       {
         "reading": "Speak Gently",
@@ -5482,7 +5487,8 @@ var STUDY = {
             "syn": "effect",
             "w": "impact"
           }
-        ]
+        ],
+        "display": "Speak Gently"
       },
       {
         "unit": 7,
@@ -6331,7 +6337,8 @@ var STUDY = {
             "sd": "خوشبو",
             "syn": "sweet smell"
           }
-        ]
+        ],
+        "display": "My Travel Diary: Journey to the Gorakh Hills Station"
       },
       {
         "unit": 8,
@@ -7228,7 +7235,8 @@ var STUDY = {
             "sd": "فائديمند",
             "syn": "useful"
           }
-        ]
+        ],
+        "display": "Safety Measures That Can Save Your Life"
       }
     ],
   },
@@ -8318,7 +8326,7 @@ function openExUnit(n, cls, subj){
   var ex = (data && data.exsolutions) || [];
   var u = null;
   ex.forEach(function(x){ if(x.unit === n) u = x; });
-  document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + "Unit " + n + (u ? " \u2014 " + u.title : "");
+  document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + "Unit " + n + (u ? " \u2014 " + (u.display || u.title) : "");
   var si = document.getElementById("matSearchPage");
   if(si){ si.value = ""; try{ si.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
   document.getElementById("matcontent").innerHTML = h;
@@ -8335,7 +8343,6 @@ function exUnitHtml(n){
   ex.forEach(function(x){ if(x.unit === n) u = x; });
   if(!u) return "<p class=\"note\">Exercise solutions for this unit will be added here.</p>";
   var html = "";
-  if(u.reading) html += "<p class=\"note\"><b>Reading:</b> " + escHtml(u.reading) + "</p>";
   html += "<p class=\"note exnav\"><b>Jump to:</b> ";
   (u.sections || []).forEach(function(sec, i){
     html += "<button class=\"modebtn\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\">" + escHtml(sec.num) + "</button> ";
@@ -8396,7 +8403,7 @@ function matSectionHtml(tab){
       var ex = data.exsolutions || [];
       if(ex.length){
         ex.forEach(function(u){
-          html += "<p><button class=\"modebtn\" onclick=\"openExUnit(" + u.unit + ")\">Unit " + u.unit + " \u2014 " + escHtml(u.title) + "</button></p>";
+          html += "<p><button class=\"modebtn\" onclick=\"openExUnit(" + u.unit + ")\">Unit " + u.unit + " \u2014 " + escHtml(u.display) + "</button></p>";
         });
       } else {
         html = "<p class=\"note\">Exercise solutions for this subject will be added here.</p>";
