@@ -230,6 +230,12 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 <div id="mynotes"></div>
 <button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
 </section>
+<section id="matpage" class="card hidden">
+<h2 id="mattitle">Study Material</h2>
+<p class="note"><input id="matSearchPage" type="text" oninput="filterMatPage()" placeholder="Search"></p>
+<div id="matcontent"></div>
+<button class="homebtn" onclick="backToSubject()">Back</button>
+</section>
 
 <section id="myresults" class="card hidden">
 <h2>My results</h2>
@@ -37867,6 +37873,7 @@ function showClass(cls){
   document.getElementById('test').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden');
+  var _mp3=document.getElementById('matpage'); if(_mp3) _mp3.classList.add('hidden');
   document.getElementById('classpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'class', cls:cls});
@@ -37895,6 +37902,7 @@ function renderTestList(cls, title, keys){
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
+  var _mp2=document.getElementById('matpage'); if(_mp2) _mp2.classList.add('hidden');
   document.getElementById('subjectpage').classList.remove('hidden');
   window.scrollTo(0,0);
 }
@@ -37948,6 +37956,7 @@ function navShow(state){
     else if(state.view==='timetable'){ showTimetable(); }
     else if(state.view==='myresults'){ showMyResults(); }
     else if(state.view==='install'){ showInstall(); }
+    else if(state.view==='material'){ if(state.cls && state.subj && state.tab) openMatPage(state.tab, state.cls, state.subj); else navFallback(); }
     else { goHome(); }
   }catch(e){}
   navFromPop=false;
@@ -38190,6 +38199,7 @@ function goHome(){
   document.getElementById('test').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden');
+  var _mp=document.getElementById('matpage'); if(_mp) _mp.classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
   var _fl=document.getElementById('flashcards'); if(_fl) _fl.classList.add('hidden');
   var _tt=document.getElementById('timetable'); if(_tt) _tt.classList.add('hidden');
