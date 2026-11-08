@@ -12853,7 +12853,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "mAB = mCD\nmAE = [[1/2]] mAB\nmCF = [[1/2]] mCD\nmAE = mCF\nmOA = mO'C = r\n△OEA ≅ △O'FC\nmOE = mO'F",
+                "a": "mAB = mCD\nmAE = [[1/2]] mAB\nmCF = [[1/2]] mCD\nmAE = mCF\nmOA = mO'C = r\nm∠OEA = m∠O'FC = 90°\n△OEA ≅ △O'FC\nmOE = mO'F",
                 "dq": {
                   "els": [
                     {
@@ -12952,7 +12952,7 @@ var STUDY = {
                 "q": "Prove that two congruent chords of two congruent circles are equidistant from their centres."
               },
               {
-                "a": "mOE = mO'F\nmOA = mO'C = r\n△OEA ≅ △O'FC\nmAE = mCF\nmAB = 2 × mAE\nmCD = 2 × mCF\nmAB = mCD",
+                "a": "mOE = mO'F\nmOA = mO'C = r\nm∠OEA = m∠O'FC = 90°\n△OEA ≅ △O'FC\nmAE = mCF\nmAB = 2 × mAE\nmCD = 2 × mCF\nmAB = mCD",
                 "dq": {
                   "els": [
                     {
@@ -13692,7 +13692,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "PA = PB\n∠PAB = ∠PBA",
+                "a": "OA, OB, OP\nOA ⊥ PA\nm∠OAP = 90°\nOB ⊥ PB\nm∠OBP = 90°\nOP = OP\nOA = OB\n△OAP ≅ △OBP\nPA = PB\n∠PAB = ∠PBA",
                 "dq": {
                   "els": [
                     {
@@ -13770,7 +13770,7 @@ var STUDY = {
                 "q": "Show that the tangents drawn at the ends of a chord in a circle make equal angles with the chord."
               },
               {
-                "a": "OA ⊥ tangent at A\nOB ⊥ tangent at B\nA, O, B collinear\nAB = diameter",
+                "a": "l, m: tangents at A, B\nl ∥ m\nOA ⊥ l\nOB ⊥ m\nOA ⊥ m\nA, O, B collinear\nAB = diameter",
                 "dq": {
                   "els": [
                     {
@@ -13826,7 +13826,7 @@ var STUDY = {
                 "q": "Show that if two tangents to a circle are parallel, then the points of tangency are the end points of a diameter of the circle."
               },
               {
-                "a": "A, B: points on the circle\nAB = chord",
+                "a": "l, m: tangents at A, B\nl ∩ m = P\nA, B: points on the circle\nAB = chord",
                 "dq": {
                   "els": [
                     {
@@ -14491,7 +14491,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "EF ⊥ AB\nEF ⊥ CD\narc AE = arc EB\narc CF = arc FD\narc AC = arc BD",
+                "a": "AB ∥ CD\nAB = CD\nEF ⊥ AB\nEF ⊥ CD\narc AE = arc EB\narc CF = arc FD\narc AB = arc CD\nm∠AOB = m∠COD\nm∠AOE = m∠COF\nm∠EOC = m∠EOD\nm∠AOC = m∠BOD\narc AC = arc BD",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -18260,7 +18260,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) R.H.S. = (sec²θ − 1)cos²θ\nsec²θ − 1 = tan²θ\nR.H.S. = tan²θ · cos²θ = ([[sin²θ/cos²θ]]) · cos²θ = sin²θ = L.H.S.\n(ii) R.H.S. = tanθ + secθ = [[sinθ/cosθ]] + [[1/cosθ]] = [[(sinθ + 1)/cosθ]] = [[(1 + sinθ)/cosθ]] = L.H.S.\n(iii) R.H.S. = sinθ√(1 + tan²θ)\n1 + tan²θ = sec²θ\n√(1 + tan²θ) = secθ\nR.H.S. = sinθ · secθ = [[sinθ/cosθ]] = tanθ = L.H.S.\n(iv) L.H.S. = cos⁴θ − sin⁴θ = (cos²θ)² − (sin²θ)² = (cos²θ − sin²θ)(cos²θ + sin²θ) = (cos²θ − sin²θ)(1) = cos²θ − sin²θ = R.H.S.\n(v) R.H.S. = sinθ − sinθ cos²θ = sinθ(1 − cos²θ) = sinθ · sin²θ = sin³θ = L.H.S.\n(vi) L.H.S. = √([[(1 + cosθ)/(1 − cosθ)]])\n= √([[(1 + cosθ)²/((1 − cosθ)(1 + cosθ))]]) = √([[(1 + cosθ)²/(1 − cos²θ)]]) = √([[(1 + cosθ)²/sin²θ]]) = [[(1 + cosθ)/sinθ]]\nR.H.S. = [[sinθ/(1 − cosθ)]] = sinθ[[(1 + cosθ)/((1 − cosθ)(1 + cosθ))]] = sinθ[[(1 + cosθ)/sin²θ]] = [[(1 + cosθ)/sinθ]]\nL.H.S. = R.H.S.\n(vii) L.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nR.H.S.² = ([[(secθ + 1)/tanθ]])² = [[(secθ + 1)²/tan²θ]]\ntan²θ = sec²θ − 1 = (secθ − 1)(secθ + 1)\nR.H.S.² = [[(secθ + 1)²/((secθ − 1)(secθ + 1))]] = [[(secθ + 1)/(secθ − 1)]]\nL.H.S. = R.H.S.\n(viii) L.H.S. = [[sin²θ/cosθ]] + cosθ = [[(sin²θ + cos²θ)/cosθ]] = [[1/cosθ]] = secθ = R.H.S.\n(ix) cotθ + cosecθ = [[cosθ/sinθ]] + [[1/sinθ]] = [[(1 + cosθ)/sinθ]]\nsinθ + tanθ = sinθ + [[sinθ/cosθ]] = sinθ(1 + [[1/cosθ]]) = sinθ[[(cosθ + 1)/cosθ]]\nL.H.S. = ([[(1 + cosθ)/sinθ]]) ÷ (sinθ[[(1 + cosθ)/cosθ]]) = [[cosθ/sin²θ]] = ([[1/sinθ]])([[cosθ/sinθ]]) = cosecθ cotθ = R.H.S.\n(x) R.H.S. = [[tan²θ/(1 + tan²θ)]] = [[tan²θ/sec²θ]] = ([[sin²θ/cos²θ]]) ÷ ([[1/cos²θ]]) = sin²θ = L.H.S.\n(xi) R.H.S. = [[cot²θ/(1 + cot²θ)]] = [[cot²θ/cosec²θ]] = ([[cos²θ/sin²θ]]) ÷ ([[1/sin²θ]]) = cos²θ = L.H.S.\n(xii) L.H.S. = sinθ cosθ tanθ + sinθ cosθ cotθ = sinθ cosθ ([[sinθ/cosθ]]) + sinθ cosθ ([[cosθ/sinθ]]) = sin²θ + cos²θ = 1 = R.H.S.",
+                "a": "(i) R.H.S. = (sec²θ − 1)cos²θ\nsec²θ − 1 = tan²θ\nR.H.S. = tan²θ · cos²θ = ([[sin²θ/cos²θ]]) · cos²θ = sin²θ = L.H.S.\n(ii) R.H.S. = tanθ + secθ = [[sinθ/cosθ]] + [[1/cosθ]] = [[(sinθ + 1)/cosθ]] = [[(1 + sinθ)/cosθ]] = L.H.S.\n(iii) R.H.S. = sinθ√(1 + tan²θ)\n1 + tan²θ = sec²θ\n√(sec^2θ) = |secθ|\n√(1 + tan²θ) = secθ\nR.H.S. = sinθ · secθ = [[sinθ/cosθ]] = tanθ = L.H.S.\n(iv) L.H.S. = cos⁴θ − sin⁴θ = (cos²θ)² − (sin²θ)² = (cos²θ − sin²θ)(cos²θ + sin²θ) = (cos²θ − sin²θ)(1) = cos²θ − sin²θ = R.H.S.\n(v) R.H.S. = sinθ − sinθ cos²θ = sinθ(1 − cos²θ) = sinθ · sin²θ = sin³θ = L.H.S.\n(vi) L.H.S. = √([[(1 + cosθ)/(1 − cosθ)]])\n= √([[(1 + cosθ)²/((1 − cosθ)(1 + cosθ))]]) = √([[(1 + cosθ)²/(1 − cos²θ)]]) = √([[(1 + cosθ)²/sin²θ]]) = [[(1 + cosθ)/sinθ]]\nR.H.S. = [[sinθ/(1 − cosθ)]] = sinθ[[(1 + cosθ)/((1 − cosθ)(1 + cosθ))]] = sinθ[[(1 + cosθ)/sin²θ]] = [[(1 + cosθ)/sinθ]]\nL.H.S. = R.H.S.\n(vii) L.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nR.H.S.² = ([[(secθ + 1)/tanθ]])² = [[(secθ + 1)²/tan²θ]]\ntan²θ = sec²θ − 1 = (secθ − 1)(secθ + 1)\nR.H.S.² = [[(secθ + 1)²/((secθ − 1)(secθ + 1))]] = [[(secθ + 1)/(secθ − 1)]]\nL.H.S. = R.H.S.\n(viii) L.H.S. = [[sin²θ/cosθ]] + cosθ = [[(sin²θ + cos²θ)/cosθ]] = [[1/cosθ]] = secθ = R.H.S.\n(ix) cotθ + cosecθ = [[cosθ/sinθ]] + [[1/sinθ]] = [[(1 + cosθ)/sinθ]]\nsinθ + tanθ = sinθ + [[sinθ/cosθ]] = sinθ(1 + [[1/cosθ]]) = sinθ[[(cosθ + 1)/cosθ]]\nL.H.S. = ([[(1 + cosθ)/sinθ]]) ÷ (sinθ[[(1 + cosθ)/cosθ]]) = [[cosθ/sin²θ]] = ([[1/sinθ]])([[cosθ/sinθ]]) = cosecθ cotθ = R.H.S.\n(x) R.H.S. = [[tan²θ/(1 + tan²θ)]] = [[tan²θ/sec²θ]] = ([[sin²θ/cos²θ]]) ÷ ([[1/cos²θ]]) = sin²θ = L.H.S.\n(xi) R.H.S. = [[cot²θ/(1 + cot²θ)]] = [[cot²θ/cosec²θ]] = ([[cos²θ/sin²θ]]) ÷ ([[1/sin²θ]]) = cos²θ = L.H.S.\n(xii) L.H.S. = sinθ cosθ tanθ + sinθ cosθ cotθ = sinθ cosθ ([[sinθ/cosθ]]) + sinθ cosθ ([[cosθ/sinθ]]) = sin²θ + cos²θ = 1 = R.H.S.",
                 "q": "1. Prove the following trigonometric identities:\n(i) sin²θ = (sec²θ − 1)cos²θ (cosθ ≠ 0) (ii) [[(1 + sinθ)/cosθ]] = tanθ + secθ (cosθ ≠ 0) (iii) tanθ = sinθ√(1 + tan²θ) (cosθ ≠ 0) (iv) cos⁴θ − sin⁴θ = cos²θ − sin²θ (v) sin³θ = sinθ − sinθ cos²θ (vi) √([[(1 + cosθ)/(1 − cosθ)]]) = [[sinθ/(1 − cosθ)]] (cosθ ≠ 1) (vii) √([[(secθ + 1)/(secθ − 1)]]) = [[(secθ + 1)/tanθ]] (tanθ ≠ 0) (viii) [[sin²θ/cosθ]] + cosθ = secθ (tanθ ≠ 0) (ix) [[(cotθ + cosecθ)/(sinθ + tanθ)]] = cosecθ cotθ (sinθ ≠ 0) (x) sin²θ = [[tan²θ/(1 + tan²θ)]] (cosθ ≠ 0) (xi) cos²θ = [[cot²θ/(1 + cot²θ)]] (sinθ ≠ 0) (xii) sinθ cosθ tanθ + sinθ cosθ cotθ = 1 (sinθ ≠ 0 and cosθ ≠ 0)"
               },
               {
@@ -25598,7 +25598,7 @@ var STUDY = {
               },
               {
                 "q": "Find the HCF of the following expressions by division method:\n(i) x^2+3x+2 and 3x^2-3x-6\n(ii) 2x^3+15x^2+31x+12 and 6x^3+46x^2+100x+48\n(iii) x^3-5x^2+10x-8, x^3-4x^2+7x-6\n(iv) x^4+3x^3+2x^2+3x+1, x^3+4x^2+4x+1 and x^3+5x^2+7x+2",
-                "a": "(i) 3x^2-3x-6 = 3(x^2+3x+2) - 12x - 12\n12x+12 = 12(x+1)\nx^2+3x+2 = (x+1)(x+2)\nHCF = (x+1)\n(ii) 6x^3+46x^2+100x+48 = 3(2x^3+15x^2+31x+12) + (x^2+7x+12)\n2x^3+15x^2+31x+12 = (2x+1)(x^2+7x+12)\nHCF = x^2+7x+12\n(iii) x^3-5x^2+10x-8 = (x^3-4x^2+7x-6) - (x^2-3x+2)\nx^2-3x+2 = (x-1)(x-2)\nx^3-4x^2+7x-6 = (x-2)(x^2-2x+3)\nHCF = (x-2)\n(iv) x^3+4x^2+4x+1 = (x^3+5x^2+7x+2) - (x^2+3x+1)\nx^4+3x^3+2x^2+3x+1 = (x^2+3x+1)(x^2+1)\nx^3+4x^2+4x+1 = (x^2+3x+1)(x+1)\nx^3+5x^2+7x+2 = (x^2+3x+1)(x+2)\nHCF = x^2+3x+1"
+                "a": "(i)\n3\n__________\nx^2+3x+2 | 3x^2-3x-6\n3x^2+9x+6\n------\n-12x-12\n-12x-12 = -12(x+1)\nx+2\n__________\nx+1 | x^2+3x+2\nx^2+x\n------\n2x+2\n2x+2\n------\n0\nHCF = (x+1)\n(ii)\n3\n__________\n2x^3+15x^2+31x+12 | 6x^3+46x^2+100x+48\n6x^3+45x^2+93x+36\n------\nx^2+7x+12\n2x+1\n__________\nx^2+7x+12 | 2x^3+15x^2+31x+12\n2x^3+14x^2+24x\n------\nx^2+7x+12\nx^2+7x+12\n------\n0\nHCF = x^2+7x+12\n(iii)\n1\n__________\nx^3-4x^2+7x-6 | x^3-5x^2+10x-8\nx^3-4x^2+7x-6\n------\n-x^2+3x-2\n-x^2+3x-2 = -(x^2-3x+2)\nx-1\n__________\nx^2-3x+2 | x^3-4x^2+7x-6\nx^3-3x^2+2x\n------\n-x^2+5x-6\n-x^2+3x-2\n------\n2x-4\n2x-4 = 2(x-2)\nx-1\n__________\nx-2 | x^2-3x+2\nx^2-2x\n------\n-x+2\n-x+2\n------\n0\nHCF = (x-2)\n(iv)\n1\n__________\nx^3+4x^2+4x+1 | x^3+5x^2+7x+2\nx^3+4x^2+4x+1\n------\nx^2+3x+1\nx+1\n__________\nx^2+3x+1 | x^3+4x^2+4x+1\nx^3+3x^2+x\n------\nx^2+3x+1\nx^2+3x+1\n------\n0\nx^2+1\n__________\nx^2+3x+1 | x^4+3x^3+2x^2+3x+1\nx^4+3x^3+x^2\n------\nx^2+3x+1\nx^2+3x+1\n------\n0\nHCF = x^2+3x+1"
               },
               {
                 "q": "Find the LCM of the following expressions by factorization method:\n(i) 27a^4b^5c^2 and 81ab^2c^8\n(ii) 24p^2q^3r^4, 100p^5q^4r^5 and 300p^3qr^8\n(iii) 21x^2-14x and 3x^2-5x+2\n(iv) x^2+11x+28 and x^2+x-12\n(v) 6x^2+11x+3, 3x^2-2x-1 and 3x^2-2x-1\n(vi) x^2-y^2, x^3-y^3 and x^4+x^2y^2+y^4",
@@ -25652,7 +25652,7 @@ var STUDY = {
               },
               {
                 "q": "Find the square root of the following algebraic expressions by division method.\n(i) x^4+2x^3+3x^2+2x+1\n(ii) 25x^4+40x^3+26x^2+8x+1\n(iii) 4x^4+8x^3+20x^2+16x+16\n(iv) [[x^2/(y^2)]]+[[y^2/(x^2)]]+47-[[(14y)/x]]+[[(14x)/y]]\n(v) x^2-2x+3-[[2/x]]+[[1/(x^2)]]\n(vi) x^2+[[(y^2)/9]]+9z^2+[[(2xy)/3]]+2yz+6xz\n(vii) (x^2+[[1/(x^2)]])^2-8(x^2+[[1/(x^2)]])+16\n(viii) x^6+[[1/(x^6)]]-4(x^3+[[1/(x^3)]])+6, x ≠ 0",
-                "a": "(i) x^4+2x^3+3x^2+2x+1 = (x^2+x+1)^2\n√(x^4+2x^3+3x^2+2x+1) = x^2+x+1\n(ii) 25x^4+40x^3+26x^2+8x+1 = (5x^2+4x+1)^2\n√(25x^4+40x^3+26x^2+8x+1) = 5x^2+4x+1\n(iii) 4x^4+8x^3+20x^2+16x+16 = (2x^2+2x+4)^2\n√(4x^4+8x^3+20x^2+16x+16) = 2x^2+2x+4\n(iv) ([[x/y]]-[[y/x]]+7)^2 = [[x^2/(y^2)]]+[[y^2/(x^2)]]+47-[[(14y)/x]]+[[(14x)/y]]\n[[x/y]]-[[y/x]]+7\n(v) x^2-2x+3-[[2/x]]+[[1/(x^2)]] = (x-1+[[1/x]])^2\nx-1+[[1/x]]\n(vi) x^2+[[(y^2)/9]]+9z^2+[[(2xy)/3]]+2yz+6xz = (x+[[y/3]]+3z)^2\nx+[[y/3]]+3z\n(vii) (x^2+[[1/(x^2)]])^2-8(x^2+[[1/(x^2)]])+16 = (x^2+[[1/(x^2)]]-4)^2\nx^2-4+[[1/(x^2)]]\n(viii) x^6+[[1/(x^6)]]-4(x^3+[[1/(x^3)]])+6 = (x^3+[[1/(x^3)]]-2)^2\nx^3-2+[[1/(x^3)]]"
+                "a": "(i)\nx^2+x+1\n__________\nx^2 | x^4+2x^3+3x^2+2x+1\n+x^2 | x^4\n------\n2x^2+x | 2x^3+3x^2+2x+1\n+x | 2x^3+x^2\n------\n2x^2+2x+1 | 2x^2+2x+1\n+1 | 2x^2+2x+1\n------\n2x^2+2x+2 | 0\n√(x^4+2x^3+3x^2+2x+1) = x^2+x+1\n(ii)\n5x^2+4x+1\n__________\n5x^2 | 25x^4+40x^3+26x^2+8x+1\n+5x^2 | 25x^4\n------\n10x^2+4x | 40x^3+26x^2+8x+1\n+4x | 40x^3+16x^2\n------\n10x^2+8x+1 | 10x^2+8x+1\n+1 | 10x^2+8x+1\n------\n10x^2+8x+2 | 0\n√(25x^4+40x^3+26x^2+8x+1) = 5x^2+4x+1\n(iii)\n2x^2+2x+4\n__________\n2x^2 | 4x^4+8x^3+20x^2+16x+16\n+2x^2 | 4x^4\n------\n4x^2+2x | 8x^3+20x^2+16x+16\n+2x | 8x^3+4x^2\n------\n4x^2+4x+4 | 16x^2+16x+16\n+4 | 16x^2+16x+16\n------\n4x^2+4x+8 | 0\n√(4x^4+8x^3+20x^2+16x+16) = 2x^2+2x+4\n(iv)\n[[x/y]]-[[y/x]]+7\n__________\n[[x/y]] | [[x^2/(y^2)]]+[[(14x)/y]]+47-[[(14y)/x]]+[[y^2/(x^2)]]\n+[[x/y]] | [[x^2/(y^2)]]\n------\n[[(2x)/y]]+7 | [[(14x)/y]]+47-[[(14y)/x]]+[[y^2/(x^2)]]\n+7 | [[(14x)/y]]+49\n------\n[[(2x)/y]]+14-[[y/x]] | -2-[[(14y)/x]]+[[y^2/(x^2)]]\n-[[y/x]] | -2-[[(14y)/x]]+[[y^2/(x^2)]]\n------\n[[(2x)/y]]+14-[[(2y)/x]] | 0\n√([[x^2/(y^2)]]+[[y^2/(x^2)]]+47-[[(14y)/x]]+[[(14x)/y]]) = [[x/y]]-[[y/x]]+7\n(v)\nx-1+[[1/x]]\n__________\nx | x^2-2x+3-[[2/x]]+[[1/(x^2)]]\n+x | x^2\n------\n2x-1 | -2x+3-[[2/x]]+[[1/(x^2)]]\n-1 | -2x+1\n------\n2x-2+[[1/x]] | 2-[[2/x]]+[[1/(x^2)]]\n+[[1/x]] | 2-[[2/x]]+[[1/(x^2)]]\n------\n2x-2+[[2/x]] | 0\n√(x^2-2x+3-[[2/x]]+[[1/(x^2)]]) = x-1+[[1/x]]\n(vi)\nx+[[y/3]]+3z\n__________\nx | x^2+[[(2xy)/3]]+6xz+[[(y^2)/9]]+2yz+9z^2\n+x | x^2\n------\n2x+[[y/3]] | [[(2xy)/3]]+6xz+[[(y^2)/9]]+2yz+9z^2\n+[[y/3]] | [[(2xy)/3]]+[[(y^2)/9]]\n------\n2x+[[(2y)/3]]+3z | 6xz+2yz+9z^2\n+3z | 6xz+2yz+9z^2\n------\n2x+[[(2y)/3]]+6z | 0\n√(x^2+[[(y^2)/9]]+9z^2+[[(2xy)/3]]+2yz+6xz) = x+[[y/3]]+3z\n(vii)\nx^2-4+[[1/(x^2)]]\n__________\nx^2 | x^4-8x^2+18-[[8/(x^2)]]+[[1/(x^4)]]\n+x^2 | x^4\n------\n2x^2-4 | -8x^2+18-[[8/(x^2)]]+[[1/(x^4)]]\n-4 | -8x^2+16\n------\n2x^2-8+[[1/(x^2)]] | 2-[[8/(x^2)]]+[[1/(x^4)]]\n+[[1/(x^2)]] | 2-[[8/(x^2)]]+[[1/(x^4)]]\n------\n2x^2-8+[[2/(x^2)]] | 0\n√((x^2+[[1/(x^2)]])^2-8(x^2+[[1/(x^2)]])+16) = x^2-4+[[1/(x^2)]]\n(viii)\nx^3-2+[[1/(x^3)]]\n__________\nx^3 | x^6-4x^3+6-[[4/(x^3)]]+[[1/(x^6)]]\n+x^3 | x^6\n------\n2x^3-2 | -4x^3+6-[[4/(x^3)]]+[[1/(x^6)]]\n-2 | -4x^3+4\n------\n2x^3-4+[[1/(x^3)]] | 2-[[4/(x^3)]]+[[1/(x^6)]]\n+[[1/(x^3)]] | 2-[[4/(x^3)]]+[[1/(x^6)]]\n------\n2x^3-4+[[2/(x^3)]] | 0\n√(x^6+[[1/(x^6)]]-4(x^3+[[1/(x^3)]])+6) = x^3-2+[[1/(x^3)]]"
               },
               {
                 "q": "What should be added to 4x^4+4x^3+17x^2+8x+9 to make it perfect square?",
