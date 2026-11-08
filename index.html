@@ -7,12 +7,13 @@
 <link rel="icon" type="image/svg+xml" href="icon.svg">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#123a5c">
+<meta name="theme-color" content="#0d2f4a">
 <meta name="description" content="Free MCQ practice tests for Classes VI to X — Government Boys Lower Secondary School Haseeja Mahar. No login needed.">
 <meta property="og:title" content="MCQ Tests — GB Lower Secondary School Haseeja Mahar">
 <meta property="og:description" content="Free MCQ practice tests for Classes VI to X. No login needed.">
 <title>MCQ Tests — GB Lower Secondary School Haseeja Mahar</title>
 <style>
+:root{--primary:#0b5563;--primary-deep:#083f4d;--navy:#0d2f4a;--accent:#f59e0b;--bg:#f2f6f7;--ink:#12232b;--muted:#5b6b7a;--line:#d7e3e6}
 @font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Regular.ttf') format('truetype');font-weight:400;font-display:swap}
 @font-face{font-family:'Noto Naskh Arabic';src:url('fonts/NotoNaskhArabic-Bold.ttf') format('truetype');font-weight:700;font-display:swap}
 @font-face{font-family:'Noto Nastaliq Urdu';src:url('fonts/NotoNastaliqUrdu-Regular.woff2') format('woff2');font-weight:400;font-display:swap}
@@ -20,35 +21,57 @@
 *{box-sizing:border-box}
 #test.urdu,#test.urdu *{font-family:'Noto Nastaliq Urdu','Noto Naskh Arabic',sans-serif;line-height:2}
 #matcontent.urdu-mat,#matcontent.urdu-mat *{font-family:'Noto Nastaliq Urdu','Noto Naskh Arabic',sans-serif;line-height:2}
-body{margin:0;font-family:'Noto Naskh Arabic','Noto Nastaliq Urdu',system-ui,sans-serif;background:#eef2f7;color:#111}
-header{background:linear-gradient(135deg,#0d2b4d 0%,#123a5c 55%,#0e6b6b 100%);color:#fff;text-align:center;padding:22px 14px 16px;position:relative;overflow:hidden}
-header::after{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.09) 1.5px,transparent 1.5px);background-size:22px 22px;pointer-events:none}
+body{margin:0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Noto Naskh Arabic','Noto Nastaliq Urdu';background:var(--bg);color:var(--ink)}
+header{background:linear-gradient(135deg,#0d2f4a 0%,#083f4d 55%,#0b5563 100%);color:#fff;text-align:center;padding-block:28px 22px;padding-inline:16px;position:relative;overflow:hidden}
+header::before{content:"";position:absolute;inset:0;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='56' viewBox='0 0 56 56'%3E%3Cpath d='M28 8 L44 28 L28 48 L12 28 Z' fill='none' stroke='%23ffffff' stroke-opacity='0.10' stroke-width='1.2'/%3E%3Ccircle cx='28' cy='28' r='3' fill='%23ffffff' fill-opacity='0.08'/%3E%3C/svg%3E");pointer-events:none}
 header>*{position:relative;z-index:1}
-header h1{margin:0;font-size:28px;line-height:1.25;letter-spacing:.5px}
-header p{margin:6px 0 0;font-size:14px;opacity:.92}
-.hero-badge{font-size:34px;line-height:1.1}
+header h1{margin-block-start:10px;margin-block-end:0;font-size:32px;line-height:1.2;letter-spacing:.5px;font-weight:800}
+header p{margin-block-start:6px;margin-block-end:0;font-size:14px;opacity:.92}
+.schoollogo{width:64px;height:64px;border-radius:14px;background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.35);padding:6px;object-fit:contain;margin-inline:auto;display:block}
 .hero-full{font-size:14px;opacity:.9}
-.hero-credit{font-size:13px;opacity:.85;margin-top:10px}
-main{max-width:680px;margin:0 auto;padding:16px}
-.card{background:#fff;border-radius:12px;padding:18px;box-shadow:0 2px 10px rgba(18,58,92,.12)}
+.hero-tag{font-size:16px;font-weight:700;margin-block-start:12px}
+.hero-tag-sd{font-size:16px;opacity:.92}
+.hero-credit{font-size:13px;opacity:.85;margin-block-start:12px}
+.nightpill{display:inline-flex;align-items:center;gap:6px;margin-block-start:14px;padding-block:8px;padding-inline:16px;border-radius:999px;border:1.5px solid rgba(255,255,255,.55);background:rgba(255,255,255,.12);color:#fff;font-size:14px;font-weight:700}
+.nightpill svg{vertical-align:-2px}
+.nightpill:active{transform:scale(0.97)}
+main{max-width:1060px;margin:0 auto;padding:16px}
+.card{background:#fff;border-radius:14px;padding:18px;box-shadow:0 2px 10px rgba(13,47,74,.10)}
 h2{margin-top:0}
 button{font:inherit;cursor:pointer}
-.testbtn{display:block;width:100%;text-align:right;padding:16px;margin:10px 0;border:2px solid #123a5c;border-radius:12px;background:#e8eef5;font-size:19px;font-weight:700;color:#123a5c;box-shadow:0 2px 6px rgba(18,58,92,.10);transition:transform .08s ease,background .12s ease}
+.testbtn{display:block;width:100%;text-align:right;padding:16px;margin:10px 0;border:2px solid var(--line);border-radius:12px;background:#fff;font-size:19px;font-weight:700;color:var(--navy);box-shadow:0 2px 6px rgba(13,47,74,.06);transition:transform .08s ease,background .12s ease}
 .testbtn small{display:block;font-size:14px;font-weight:400;color:#333;margin-top:4px}
 .testbtn.en{text-align:left}
 .testbtn:active{transform:scale(0.98)}
-.classgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin:14px 0}
-.classgrid .testbtn{margin:0;text-align:center;padding:22px 12px}
-.classgrid .testbtn small{margin-top:6px}
-.subjgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin:14px 0}
-.subjcard{margin:0 !important;text-align:center !important;padding:18px 10px !important}
-.subjicon{display:block;font-size:36px;line-height:1.2;margin-bottom:8px}
+.chiprow{display:flex;flex-wrap:wrap;gap:10px;margin-block-start:6px;margin-block-end:16px;margin-inline:0}
+.classchip{flex:1 1 auto;min-width:92px;padding-block:12px;padding-inline:10px;border:2px solid var(--primary);border-radius:14px;background:#fff;color:var(--primary);font-size:19px;font-weight:800;text-align:center}
+.classchip small{display:block;font-size:12px;font-weight:600;color:var(--muted);margin-block-start:2px}
+.classchip.sel{background:var(--primary);color:#fff}
+.classchip.sel small{color:rgba(255,255,255,.85)}
+.classchip:active{transform:scale(0.97)}
+.namecard{margin-block-end:16px}
+.namecard p{margin:0}
+.subjgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-block:14px;margin-inline:0}
+.subjcard{display:flex;flex-direction:column;align-items:center;gap:2px;margin:0;text-align:center;padding-block:18px 14px;padding-inline:10px;border:2px solid var(--line);border-radius:14px;background:#fff;box-shadow:0 2px 8px rgba(13,47,74,.08);transition:transform .08s ease}
+.subjcard:active{transform:scale(0.98)}
+.subjicon-tile{width:58px;height:58px;border-radius:14px;display:flex;align-items:center;justify-content:center;margin-block-end:8px;font-size:30px;line-height:1}
+.t-teal{background:#dff3f2;color:#0b5563}
+.t-blue{background:#dbeafe;color:#1d4ed8}
+.t-amber{background:#fef3c7;color:#b45309}
+.t-rose{background:#ffe4e6;color:#be123c}
+.t-green{background:#dcfce7;color:#15803d}
+.t-plum{background:#f3e8ff;color:#7e22ce}
+.t-slate{background:#e2e8f0;color:#475569}
+.t-coral{background:#ffedd5;color:#c2410c}
+.subjname{font-size:16px;font-weight:700;color:var(--navy);line-height:1.3}
+.subjsd{font-size:15px;color:var(--muted);line-height:1.6}
+.subjmeta{font-size:12px;font-weight:800;letter-spacing:.4px;color:var(--primary);margin-block-start:6px}
 .note{font-size:15px;line-height:1.6;color:#333}
 .topbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
-#timer{font-size:20px;font-weight:700;color:#b91c1c}
-#timer.warn{color:#fff;background:#b91c1c;padding:2px 10px;border-radius:8px}
+#timer{font-size:16px;font-weight:800;color:#fff;background:var(--primary);padding-block:6px;padding-inline:14px;border-radius:999px}
+#timer.warn{color:#fff;background:#b91c1c;padding-block:6px;padding-inline:14px;border-radius:999px}
 #progress{height:10px;background:#e5e7eb;border-radius:6px;margin:12px 0;overflow:hidden}
-#bar{height:100%;width:0;background:#123a5c}
+#bar{height:100%;width:0;background:var(--primary)}
 #qtext{font-size:21px;line-height:1.9;min-height:90px}
 .qmain{font-weight:700}
 .qinstr{font-weight:400;font-size:0.85em}
@@ -56,23 +79,24 @@ button{font:inherit;cursor:pointer}
 #qtext .m, .opt .m{direction:ltr;unicode-bidi:embed;font-family:Georgia,serif}
 .opt{display:block;width:100%;text-align:right;padding:14px 16px;margin:16px 0;border:2px solid #cbd5e1;border-radius:10px;background:#fff;font-size:19px;transition:transform .08s ease,background .12s ease,border-color .12s ease}
 .opt.en{text-align:left}
-.opt.sel{border-color:#123a5c;background:#dbe7f5;font-weight:700}
+.opt.sel{border-color:var(--primary);background:#dff3f2;font-weight:700}
 .opt:active{transform:scale(0.98);background:#eef2f7}
+.optkey{display:inline-flex;align-items:center;justify-content:center;min-width:28px;height:28px;padding:0 6px;border-radius:8px;background:#dff3f2;color:#0b5563;font-size:15px;font-weight:800;margin-inline-end:10px;vertical-align:middle}
+.opt.sel .optkey{background:var(--primary);color:#fff}
 .nav{display:flex;gap:10px;margin-top:16px}
 .nav button,.submitbtn,.homebtn{flex:1;padding:14px;border-radius:10px;border:0;font-size:18px;font-weight:700}
 .nav button{background:#e5e7eb}
 .nav button:active{transform:scale(0.98)}
 .submitbtn{background:#f59e0b;color:#1f2937;width:100%;margin-top:12px}
 .submitbtn:active{transform:scale(0.98)}
-.homebtn{background:#123a5c;color:#fff;margin-top:12px;width:100%}
+.homebtn{background:var(--primary);color:#fff;margin-top:12px;width:100%}
 .homebtn:active{transform:scale(0.98)}
-.score{font-size:42px;font-weight:700;text-align:center;margin:8px 0}
 .ringwrap{display:flex;justify-content:center;margin:10px 0}
-.scorering{width:170px;height:170px}
-.ringbg{fill:none;stroke:#e5e7eb;stroke-width:11}
-.ringfg{fill:none;stroke:#16a34a;stroke-width:11;stroke-linecap:round;transform:rotate(-90deg);transform-origin:60px 60px;transition:stroke-dashoffset 1s ease}
-#ringpct{font-size:26px;font-weight:700;fill:#111}
-#ringscore{font-size:15px;font-weight:700;fill:#555}
+.scorering{width:190px;height:190px}
+.ringbg{fill:none;stroke:#e5e7eb;stroke-width:12}
+.ringfg{fill:none;stroke:#1d9e62;stroke-width:12;stroke-linecap:round;transform:rotate(-90deg);transform-origin:100px 100px;transition:stroke-dashoffset 1s ease}
+#ringpct{font-size:34px;font-weight:800;fill:#12232b}
+#ringscore{font-size:17px;font-weight:700;fill:#5b6b7a}
 #confetti{position:relative;height:0;overflow:visible;pointer-events:none}
 .confetti-bit{position:absolute;top:-12px;width:9px;height:14px;border-radius:2px;animation:confetti-fall 3s ease-in forwards;pointer-events:none}
 @keyframes confetti-fall{to{transform:translateY(340px) rotate(720deg);opacity:0}}
@@ -80,9 +104,13 @@ button{font:inherit;cursor:pointer}
 .review .qq{font-size:18px;line-height:1.8}
 .correct{color:#15803d;font-weight:700}
 .wrong{color:#b91c1c;font-weight:700}
-.modebtn{padding:8px 16px;border:2px solid #123a5c;border-radius:10px;background:#e8eef5;font-size:16px;font-weight:700;color:#123a5c;margin:4px 4px 4px 0}
-.modebtn.sel{background:#123a5c;color:#fff}
+.modebtn{padding:8px 16px;border:2px solid var(--primary);border-radius:10px;background:#eef6f7;font-size:16px;font-weight:700;color:var(--primary);margin:4px 4px 4px 0}
+.modebtn.sel{background:var(--primary);color:#fff}
 .modebtn:active{transform:scale(0.97)}
+#subjectguide{margin:12px 0}
+#subjectguide p{margin:0}
+#subjectguide .modebtn{display:block;width:100%;text-align:center;padding-block:14px;padding-inline:14px;border:0;border-radius:12px;background:#dff3f2;color:#0b5563;font-size:17px;font-weight:800;margin:0}
+#subjectguide .modebtn:active{transform:scale(0.98)}
 .matsec{margin:10px 0}
 .matsec>.modebtn{display:block;width:100%;text-align:left;margin:0}
 .matpanel{padding:4px 2px 2px}
@@ -98,32 +126,45 @@ body.xlarge .opt{font-size:27px}
 body.xlarge .review .qq{font-size:24px}
 body.xlarge .note{font-size:19px}
 body.xlarge .flashfront{font-size:29px}
-.flashcard{border:2px solid #123a5c;border-radius:12px;padding:20px;margin:12px 0;text-align:center;background:#e8eef5}
+.flashcard{border:2px solid var(--primary);border-radius:12px;padding:20px;margin:12px 0;text-align:center;background:#eef6f7}
 body.dark .flashcard{background:#123a5c;border-color:#f59e0b}
 .flashfront{font-size:24px;font-weight:700;line-height:1.6;min-height:60px}
 .flashback{font-size:20px;line-height:1.6;min-height:60px}
 .hidden{display:none}
 #palette{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
 .palbtn{min-width:38px;padding:8px 4px;border:2px solid #cbd5e1;border-radius:8px;background:#fff;font-size:15px;font-weight:700}
-.palbtn.ans{background:#dbe7f5;border-color:#123a5c}
-.palbtn.cur{background:#123a5c;color:#fff;border-color:#123a5c}
+.palbtn.ans{background:#dff3f2;border-color:var(--primary)}
+.palbtn.cur{background:var(--primary);color:#fff;border-color:var(--primary)}
 .palbtn.flag{outline:3px solid #b91c1c;outline-offset:1px}
-.explain{border:2px solid #123a5c;background:#e8eef5;border-radius:10px;padding:12px 14px}
+.explain{border:2px solid var(--primary);background:#eef6f7;border-radius:10px;padding:12px 14px}
 .sitefooter{text-align:center;font-size:13px;color:#5b6b7a;padding:18px 10px 8px;line-height:1.7}
 body.dark{background:#121212;color:#E0E0E0}
 body.dark header{background:#0d1b2a}
 body.dark .card{background:#1E1E1E;color:#E0E0E0;box-shadow:0 2px 10px rgba(0,0,0,.5)}
 body.dark .note{color:#c9c9c9}
-body.dark .testbtn{background:#123a5c;color:#E0E0E0;border-color:#2c5a85}
+body.dark .testbtn{background:#1E1E1E;color:#E0E0E0;border-color:#2c5a85}
 body.dark .testbtn small{color:#c9c9c9}
+body.dark .classchip{background:#1E1E1E;color:#7fd4de;border-color:#0b5563}
+body.dark .classchip small{color:#9a9a9a}
+body.dark .classchip.sel{background:#0b5563;color:#fff}
+body.dark .classchip.sel small{color:rgba(255,255,255,.85)}
+body.dark .subjcard{background:#1E1E1E;border-color:#333}
+body.dark .subjname{color:#E0E0E0}
+body.dark .subjsd{color:#9a9a9a}
+body.dark .subjmeta{color:#7fd4de}
+body.dark .subjicon-tile{filter:brightness(.92)}
 body.dark .opt{background:#1E1E1E;color:#E0E0E0;border-color:#444}
 body.dark .opt.sel{background:#123a5c;border-color:#f59e0b}
+body.dark .optkey{background:#0b5563;color:#fff}
+body.dark .opt.sel .optkey{background:#f59e0b;color:#1f2937}
 body.dark .opt.learn-correct{background:#123a5c;border-color:#4ade80}
 body.dark .opt.learn-wrong{background:#7f1d1d;border-color:#f87171}
 body.dark .opt:active{background:#2a2a2a}
 body.dark .nav button{background:#2a2a2a;color:#E0E0E0}
 body.dark #progress{background:#333}
 body.dark #bar{background:#f59e0b}
+body.dark #timer{background:#0b5563}
+body.dark #timer.warn{background:#b91c1c;color:#fff}
 body.dark .review{border-color:#333}
 body.dark .palbtn{background:#1E1E1E;color:#E0E0E0;border-color:#444}
 body.dark .palbtn.ans{background:#123a5c;border-color:#f59e0b}
@@ -131,22 +172,29 @@ body.dark .palbtn.cur{background:#f59e0b;color:#1f2937;border-color:#f59e0b}
 body.dark .explain{background:#123a5c;border-color:#2c5a85}
 body.dark .modebtn{background:#1E1E1E;color:#E0E0E0;border-color:#f59e0b}
 body.dark .modebtn.sel{background:#f59e0b;color:#1f2937}
+body.dark #subjectguide .modebtn{background:#0b5563;color:#fff}
 body.dark .correct{color:#4ade80}
 body.dark .wrong{color:#f87171}
 body.dark input{background:#1E1E1E;color:#E0E0E0}
-body.dark #timer{color:#f87171}
-body.dark #timer.warn{background:#b91c1c;color:#fff}
 body.dark .sitefooter{color:#9a9a9a}
+/* RTL: new components mirror via logical properties; Latin labels stay LTR, Sindhi stays RTL */
+[dir="rtl"] .hero-tag{direction:ltr}
+[dir="rtl"] .hero-tag-sd{direction:rtl}
+[dir="rtl"] .classchip{direction:ltr}
+[dir="rtl"] .subjname{direction:ltr}
+[dir="rtl"] .subjsd{direction:rtl}
+[dir="rtl"] .subjmeta{direction:ltr}
+[dir="rtl"] .nightpill{direction:ltr}
 body.dark #ringpct{fill:#E0E0E0}
 body.dark #ringscore{fill:#c9c9c9}
 body.dark .ringbg{stroke:#333}
 
-.exsec{background:#123a5c;color:#fff;padding:8px 10px;border-radius:8px}
+.exsec{background:var(--primary);color:#fff;padding:8px 10px;border-radius:8px}
 .exsec u{text-decoration-color:#fde68a}
 .exhead{background:#dbeafe;color:#1e40af;padding:6px 10px;border-radius:6px;margin:12px 0 4px}
-.exq{color:#123a5c;font-weight:700}
+.exq{color:var(--primary);font-weight:700}
 .exa{color:#1e40af;font-weight:700}
-.exword{color:#123a5c;font-weight:700}
+.exword{color:var(--primary);font-weight:700}
 .exsyn{color:#1e40af}
 .exans{white-space:pre-line}
 .frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 2px}
@@ -185,46 +233,52 @@ body.dark .exsyn{color:#93c5fd}
 <body>
 <div id="offlinebanner" style="display:none;background:#b91c1c;color:#fff;text-align:center;padding:8px;font-weight:700">You are offline — results will be sent later once you are back online.</div>
 <header>
-<div class="hero-badge">🏫</div>
+<img class="schoollogo" src="school-logo.png" alt="Government Boys Lower Secondary School Haseeja Mahar">
 <h1>GBLSS Haseeja Mahar</h1>
 <p class="hero-full">Government Boys Lower Secondary School Haseeja Mahar</p>
-<p id="examNotice" style="background:#fef3c7;color:#123a5c;padding:8px 12px;border-radius:8px;font-weight:700">Mid-Term Examination 2026-27 finished on Friday 6 November 2026. Results will be shared soon.</p>
+<p class="hero-tag">MCQ Tests &amp; Complete Guides for Classes VI–X</p>
+<p class="hero-tag-sd" dir="rtl">ڪلاس ڇهين کان ڏهين تائين MCQ ٽيسٽ ۽ مڪمل گائيڊ</p>
+<p id="examNotice" style="background:#fef3c7;color:#0d2f4a;padding:8px 12px;border-radius:8px;font-weight:700">Mid-Term Examination 2026-27 finished on Friday 6 November 2026. Results will be shared soon.</p>
 <p id="examCountdown" style="font-weight:700"></p>
+<button class="nightpill" id="heroNightBtn" onclick="toggleNight()">🌙 Night mode</button>
 <p class="hero-credit">Website developed by Sir Nasarullah Memon</p>
-<p>MCQ Tests — Practice Tests</p>
 </header>
 <main>
-<section id="home" class="card">
+<section id="home">
+<div class="card namecard">
+<p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #0b5563;border-radius:10px;margin-top:6px"></label></p>
+</div>
+<div class="chiprow" id="classChips">
+<button class="classchip sel" data-cls="vi" onclick="selectClassChip('vi')">VI<small>Std. 6</small></button>
+<button class="classchip" data-cls="vii" onclick="selectClassChip('vii')">VII<small>Std. 7</small></button>
+<button class="classchip" data-cls="viii" onclick="selectClassChip('viii')">VIII<small>Std. 8</small></button>
+<button class="classchip" data-cls="ix" onclick="selectClassChip('ix')">IX<small>Std. 9</small></button>
+<button class="classchip" data-cls="x" onclick="selectClassChip('x')">X<small>Std. 10</small></button>
+<button class="classchip" data-cls="gk" onclick="selectClassChip('gk')">GK<small>General Knowledge</small></button>
+</div>
+<div id="homeSubjects" class="subjgrid"></div>
+<div class="homepanel">
 <h2 data-i18n="homeHeading">Choose your class or section</h2>
 <p class="note" data-i18n="homeNote">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
 <p id="streakbox" class="note" style="font-weight:700"></p>
 <div id="goalbox" class="note"></div>
 <div id="calbox" class="note"></div>
-<p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #123a5c;border-radius:10px;margin-top:6px"></label></p>
-<div class="classgrid">
-<button class="testbtn en" onclick="showClass('vi')">Class VI<small>11 tests &middot; 10 subjects</small></button>
-<button class="testbtn en" onclick="showClass('vii')">Class VII<small>11 tests &middot; 10 subjects</small></button>
-<button class="testbtn en" onclick="showClass('viii')">Class VIII<small>11 tests &middot; 10 subjects</small></button>
-<button class="testbtn en" onclick="showClass('ix')">Class IX<small>47 tests &middot; 14 subjects</small></button>
-<button class="testbtn en" onclick="showClass('x')">Class X<small>49 tests &middot; 16 subjects &middot; Study Material</small></button>
-<button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>2 versions &middot; Sindhi Version (12 tests) &middot; English Version (11 tests)</small></button>
-</div>
 <p class="note" data-i18n="tip">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
+<p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
 <p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <button class="modebtn" id="fontXLargeBtn" onclick="setFontSize('xlarge')" data-i18n="xlarge">Extra Large</button></p>
 <p class="note"><span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button></p>
 <p class="note"><span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button> <button class="modebtn" id="langUrBtn" onclick="setLang('ur')">اردو</button></p>
-<p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
+<h2 style="margin-top:18px" data-i18n="qotdHeading">Question of the Day</h2>
+<div id="qotdbox"></div>
+<p class="note"><label><b data-i18n="searchLabel">Search tests:</b> <input id="testSearch" type="text" placeholder="Type a test or topic" oninput="renderSearch()" style="width:100%;padding:12px;font-size:18px;border:2px solid #0b5563;border-radius:10px;margin-top:6px"></label></p>
+<div id="searchResults"></div>
+<div id="weakbox"></div>
+<div id="resumebox" class="hidden"><button class="homebtn" onclick="resumePaused()" data-i18n="resumeBtn">Resume your test</button></div>
 <a class="homebtn" style="display:block;text-align:center;text-decoration:none" href="https://wa.me/?text=Try%20our%20school%20MCQ%20practice%20tests%3A%20https%3A%2F%2FNasar1234567890.github.io%2FNasarullah%2F%20-%20GOVERNMENT%20BOYS%20LOWER%20SECONDARY%20SCHOOL%20HASEEJA%20MAHAR" data-i18n="shareHome">Share on WhatsApp</a>
 <button class="homebtn" onclick="showInstall()" data-i18n="installBtn">How to install the app</button>
 <button class="homebtn" onclick="showInstallPrompt()">Add to home screen</button>
 <button class="homebtn" onclick="showMyResults()">My results</button>
 <div id="installcard" style="display:none"></div>
-<h2 style="margin-top:18px" data-i18n="qotdHeading">Question of the Day</h2>
-<div id="qotdbox"></div>
-<p class="note"><label><b data-i18n="searchLabel">Search tests:</b> <input id="testSearch" type="text" placeholder="Type a test or topic" oninput="renderSearch()" style="width:100%;padding:12px;font-size:18px;border:2px solid #123a5c;border-radius:10px;margin-top:6px"></label></p>
-<div id="searchResults"></div>
-<div id="weakbox"></div>
-<div id="resumebox" class="hidden"><button class="homebtn" onclick="resumePaused()" data-i18n="resumeBtn">Resume your test</button></div>
 <button class="homebtn" onclick="showFlashcards()" data-i18n="flashcardsBtn">Flashcards</button>
 <button class="homebtn" onclick="startDemo()" data-i18n="demoBtn">Try a demo (3 questions)</button>
 <button class="homebtn" onclick="startWeakTest()">Weak-topics test (from your lowest scores)</button>
@@ -249,6 +303,7 @@ body.dark .exsyn{color:#93c5fd}
 </ol>
 <p class="note">هر ٽيسٽ ۾ سوالن جو تعداد ۽ وقت مختلف ٿي سگهي ٿو. جواب جمع ڪرائڻ کان پوءِ توهان جو نتيجو ۽ صحيح جواب ڏيکاريا ويندا.</p>
 </section>
+</div>
 </section>
 
 <section id="flashcards" class="card hidden">
@@ -339,7 +394,7 @@ body.dark .exsyn{color:#93c5fd}
 <button class="modebtn" id="flagbtn" onclick="toggleFlag()">Flag this question</button>
 <button class="modebtn" id="speakbtn" onclick="speakQuestion()">🔊 Read question</button> <button class="modebtn" id="printtestbtn" onclick="printTest()" data-i18n="printTest">Print this test</button>
 <div id="calcbox" style="display:none;margin-top:10px">
-<input id="calcDisplay" type="text" readonly style="width:100%;padding:10px;font-size:18px;border:2px solid #123a5c;border-radius:10px;text-align:right">
+<input id="calcDisplay" type="text" readonly style="width:100%;padding:10px;font-size:18px;border:2px solid #0b5563;border-radius:10px;text-align:right">
 <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:6px">
 <button class="modebtn" onclick="calcAppend('7')">7</button><button class="modebtn" onclick="calcAppend('8')">8</button><button class="modebtn" onclick="calcAppend('9')">9</button><button class="modebtn" onclick="calcAppend('/')">÷</button>
 <button class="modebtn" onclick="calcAppend('4')">4</button><button class="modebtn" onclick="calcAppend('5')">5</button><button class="modebtn" onclick="calcAppend('6')">6</button><button class="modebtn" onclick="calcAppend('*')">×</button>
@@ -360,7 +415,7 @@ body.dark .exsyn{color:#93c5fd}
 <section id="result" class="card hidden">
 <h2 data-i18n="resultHeading">Result</h2>
 <p id="resultname" style="text-align:center;font-size:18px;font-weight:700"></p>
-<div class="ringwrap"><svg class="scorering" viewBox="0 0 120 120"><circle class="ringbg" cx="60" cy="60" r="52"></circle><circle class="ringfg" id="ringfg" cx="60" cy="60" r="52"></circle><text id="ringpct" x="60" y="58" text-anchor="middle">0%</text><text id="ringscore" x="60" y="78" text-anchor="middle">0 / 0</text></svg></div>
+<div class="ringwrap"><svg class="scorering" viewBox="0 0 200 200"><circle class="ringbg" cx="100" cy="100" r="82"></circle><circle class="ringfg" id="ringfg" cx="100" cy="100" r="82"></circle><text id="ringpct" x="100" y="97" text-anchor="middle">0%</text><text id="ringscore" x="100" y="122" text-anchor="middle">0 / 0</text></svg></div>
 <div id="confetti"></div>
 <p id="scorenote" style="text-align:center"></p>
 <p id="newbest" class="note hidden" style="text-align:center;font-weight:700;color:#15803d">🎉 New best!</p>
@@ -37895,9 +37950,9 @@ const UI_SD={homeHeading:'\u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u062
 const UI_UR={"homeHeading": "اپنی کلاس یا سیکشن منتخب کریں", "homeNote": "لاگ ان کی ضرورت نہیں۔ ہر ٹیسٹ میں سوالات کی تعداد اور وقت الگ بتایا گیا ہے۔ آپ کے جوابات جمع کرانے کے بعد ہی دکھائے جاتے ہیں۔", "nameLabel": "آپ کا نام:", "namePlaceholder": "اپنا پورا نام لکھیں", "tip": "مشورہ: پہلے اپنی کلاس، پھر مضمون، پھر ٹیسٹ منتخب کریں۔ پہلے اپنا نام لکھیں — جمع کرانے پر یہ آپ کے نتیجے کے ساتھ بھیجا جاتا ہے۔", "textSize": "متن کا سائز:", "normal": "عام", "large": "بڑا", "xlarge": "بہت بڑا", "nightLabel": "نائٹ موڈ:", "nightOff": "بند", "nightOn": "چالو", "langLabel": "زبان:", "shareHome": "واٹس ایپ پر شیئر کریں", "installBtn": "ایپ کیسے انسٹال کریں", "qotdHeading": "آج کا سوال", "installHeading": "ایپ کیسے انسٹال کریں", installStep1:'اپنے فون کے براؤزر میں یہ سائٹ کھولیں (Android پر Chrome، iPhone پر Safari)۔', installStep2:'Android پر، براؤزر مینیو (تین نقطے) پر ٹیپ کریں، پھر “Add to Home Screen” یا “Install app” پر ٹیپ کریں۔', installStep3:'iPhone پر، Share پر ٹیپ کریں، پھر “Add to Home Screen” پر ٹیپ کریں۔', installStep4:'ہوم اسکرین سے “Haseeja Mahar MCQ Tests” کھولیں اور مشق شروع کریں۔ APK ڈاؤن لوڈ کرنے کی ضرورت نہیں۔', "backHome": "ہوم پر واپس", "classNote": "ایک مضمون منتخب کریں، پھر ٹیسٹ چنیں۔", "backClasses": "کلاسوں پر واپس", "subjectNote": "ایک ٹیسٹ چنیں۔ ہر ٹیسٹ میں سوالات کی تعداد اور وقت الگ بتایا گیا ہے۔", "modeLabel": "موڈ:", "modeTest": "ٹیسٹ", "modeLearn": "سیکھیں", "backSubjects": "مضامین پر واپس", "noTests": "اس مضمون کے لیے ابھی کوئی ٹیسٹ نہیں ہے — مزید ٹیسٹ جلد یہاں شامل کیے جائیں گے۔", "noTestsYet": "ابھی کوئی ٹیسٹ نہیں", "chooseSubject": "مضمون منتخب کریں", "chooseTest": "ٹیسٹ منتخب کریں", "prev": "پچھلا", "next": "اگلا", "submit": "ٹیسٹ جمع کریں", "flag": "اس سوال کو نشان زد کریں", "unflag": "نشان ہٹائیں", "resultHeading": "نتیجہ", "retry": "غلط سوالات دوبارہ کریں", "shareResult": "نتیجہ واٹس ایپ پر شیئر کریں", "report": "اس ٹیسٹ میں غلطی بتائیں", "learnModeLabel": "سیکھنے کا موڈ", "retryLabel": "مشقی اعادہ — ریکارڈ نہیں ہوگا", "retryNote": "مشقی اعادہ — ریکارڈ نہیں ہوگا۔ ", "learnNote": "سیکھنے کا موڈ۔ ", "timeUpNote": "وقت ختم — خود بخود جمع ہوگیا۔ ", "pctCorrect": "درست۔", "qotdCorrect": "درست!", "qotdWrong": "بالکل نہیں — درست جواب ہے", "nameAlert": "ٹیسٹ شروع کرنے سے پہلے اپنا نام لکھیں۔", "mockNote": "موڈ ٹیسٹ/سیکھیں کی ترتیب کے مطابق چلے گا (ڈیفالٹ ٹیسٹ)۔ اسے کسی بھی مضمون کے صفحے پر بدلا جا سکتا ہے۔", "howToHeading": "ٹیسٹ کیسے دیں", "howToStep1": "اپنا نام لکھیں، اپنی کلاس، پھر مضمون، پھر ٹیسٹ منتخب کریں۔ (جنرل نالج میں پہلے سندھی اور انگریزی ورژن کھلتے ہیں۔)", "howToStep2": "جواب منتخب کرنے کے لیے کسی آپشن (A، B، C یا D) پر ٹیپ کریں۔", "howToStep3": "سوالات میں آگے پیچھے جانے کے لیے اگلا اور پچھلا استعمال کریں۔", "howToStep4": "ہر ٹیسٹ کا اپنا وقت ہے (زیادہ تر ٹیسٹوں کے لیے 10 منٹ، GK پہلے ٹیسٹ کے لیے 60 منٹ)۔ وقت ختم ہونے پر ٹیسٹ خود بخود جمع ہوجاتا ہے۔", "howToStep5": "جب تیار ہوں تو ٹیسٹ جمع کریں دبائیں۔ آپ کا نمبر فوراً ظاہر ہوگا، ہر سوال کے جائزے کے ساتھ۔", "howToStep6": "ٹیسٹ موڈ میں درست جوابات صرف جمع کرانے کے بعد دکھائے جاتے ہیں — ٹیسٹ کے دوران نہیں۔ سیکھنے کے موڈ میں درست جواب ہر سوال کے فوراً بعد دکھایا جاتا ہے۔", "searchLabel": "ٹیسٹ تلاش کریں:", "searchPlaceholder": "ٹیسٹ یا موضوع لکھیں", "weakHeading": "اپنے کمزور موضوعات دوبارہ پڑھیں", "flashcardsBtn": "فلیش کارڈز", "flashcardsHeading": "فلیش کارڈز", "flashAll": "سب", "flashSyn": "ہم معنی الفاظ", "flashVerb": "فعل کی صورتیں", "flashDef": "تعریفیں", "showAnswer": "جواب دکھائیں", "nextCard": "اگلا کارڈ", "shuffleCards": "کارڈز ملائیں", "demoBtn": "ڈیمو آزمائیں (3 سوالات)", "resumeBtn": "اپنا ٹیسٹ دوبارہ شروع کریں", "pauseBtn": "ٹیسٹ روکیں", "demoNote": "ڈیمو — ریکارڈ نہیں ہوگا", "searchNoMatch": "کوئی ٹیسٹ نہیں ملا۔", "flagRev": "نشاندہ سوالات دوبارہ پڑھیں", "flagRevLabel": "نشاندہ سوالات — ریکارڈ نہیں ہوں گے", "flagRevNote": "نشاندہ سوالات — ریکارڈ نہیں ہوں گے۔ ", "printTest": "اس ٹیسٹ کو پرنٹ کریں", "shareTest": "اس ٹیسٹ کو واٹس ایپ پر شیئر کریں", "matSearchLabel": "مطالعاتی مواد میں تلاش کریں:", "matSearchPlaceholder": "مواد کا کوئی لفظ لکھیں","contactHeading": "استاد سے رابطہ", "contactEmail": "ای میل:", "contactPhone": "فون:", "contactWhatsApp": "واٹس ایپ:"};
 let uiLang='en';
 function tr(k){ if(uiLang==='sd' && UI_SD[k]) return UI_SD[k]; if(uiLang==='ur' && UI_UR[k]) return UI_UR[k]; return UI_EN[k]||k; }
-function setNightMode(on){ try{localStorage.setItem('mcqNight', on?'dark':'light');}catch(e){} document.body.classList.toggle('dark', !!on); var ob=document.getElementById('nightOffBtn'), nb=document.getElementById('nightOnBtn'); if(ob) ob.className='modebtn'+(on?'':' sel'); if(nb) nb.className='modebtn'+(on?' sel':''); }
+function setNightMode(on){ try{localStorage.setItem('mcqNight', on?'dark':'light');}catch(e){} document.body.classList.toggle('dark', !!on); var ob=document.getElementById('nightOffBtn'), nb=document.getElementById('nightOnBtn'); if(ob) ob.className='modebtn'+(on?'':' sel'); if(nb) nb.className='modebtn'+(on?' sel':''); var _hp=document.getElementById('heroNightBtn'); if(_hp) _hp.textContent=on?'\u2600\uFE0F Day mode':'\uD83C\uDF19 Night mode'; }
 function applySavedNightMode(){ var v='light'; try{ v=localStorage.getItem('mcqNight')||'light'; }catch(e){} setNightMode(v==='dark'); }
-function setLang(lang){ uiLang=(lang==='sd'?'sd':lang==='ur'?'ur':'en'); try{localStorage.setItem('mcqLang', uiLang);}catch(e){} document.querySelectorAll('[data-i18n]').forEach(function(el){ var v=tr(el.getAttribute('data-i18n')); if(v) el.textContent=v; }); var inp=document.getElementById('studentName'); if(inp) inp.placeholder=tr('namePlaceholder'); var sinp=document.getElementById('testSearch'); if(sinp) sinp.placeholder=tr('searchPlaceholder'); var minp=document.getElementById('matSearch'); if(minp) minp.placeholder=tr('matSearchPlaceholder'); var eb=document.getElementById('langEnBtn'), sb=document.getElementById('langSdBtn'), ub=document.getElementById('langUrBtn'); if(eb) eb.className='modebtn'+(uiLang==='en'?' sel':''); if(sb) sb.className='modebtn'+(uiLang==='sd'?' sel':''); if(ub) ub.className='modebtn'+(uiLang==='ur'?' sel':''); }
+function setLang(lang){ uiLang=(lang==='sd'?'sd':lang==='ur'?'ur':'en'); try{localStorage.setItem('mcqLang', uiLang);}catch(e){} var _hm=document.getElementById('home'); if(_hm) _hm.dir=(uiLang==='sd'?'rtl':'ltr'); document.querySelectorAll('[data-i18n]').forEach(function(el){ var v=tr(el.getAttribute('data-i18n')); if(v) el.textContent=v; }); var inp=document.getElementById('studentName'); if(inp) inp.placeholder=tr('namePlaceholder'); var sinp=document.getElementById('testSearch'); if(sinp) sinp.placeholder=tr('searchPlaceholder'); var minp=document.getElementById('matSearch'); if(minp) minp.placeholder=tr('matSearchPlaceholder'); var eb=document.getElementById('langEnBtn'), sb=document.getElementById('langSdBtn'), ub=document.getElementById('langUrBtn'); if(eb) eb.className='modebtn'+(uiLang==='en'?' sel':''); if(sb) sb.className='modebtn'+(uiLang==='sd'?' sel':''); if(ub) ub.className='modebtn'+(uiLang==='ur'?' sel':''); }
 function applySavedLang(){ var l='en'; try{ l=localStorage.getItem('mcqLang')||'en'; }catch(e){} setLang(l); }
 const CLASS_NAMES_SD={'vi':'\u06aa\u0644\u0627\u0633 VI','vii':'\u06aa\u0644\u0627\u0633 VII','viii':'\u06aa\u0644\u0627\u0633 VIII','ix':'\u06aa\u0644\u0627\u0633 IX','x':'\u06aa\u0644\u0627\u0633 X','gk':'\u062c\u0646\u0631\u0644 \u0646\u0627\u0644\u062c'};
 const MOCKS={
@@ -37940,6 +37995,26 @@ function reportMistake(){ if(!testKey) return; var msg='I found a mistake in the
 
 var currentClass=null; var currentSubject=null;
 function subjectTestCount(cls, subj){ var ks=CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===subj; }); var n=ks.length; if(typeof CHAPTERS!=='undefined'){ Object.keys(CHAPTERS).forEach(function(ck){ if(ks.indexOf(CHAPTERS[ck].parent)!==-1) n++; }); } return n; }
+var SUBJ_SD={'Science':'سائنس','Mathematics':'رياضي','English':'انگريزي','Urdu':'اردو','Islamiat':'اسلاميات','Sindhi':'سنڌي','Social Studies':'سماجي اڀياس','Computer':'ڪمپيوٽر','Computer Science':'ڪمپيوٽر','Chemistry':'ڪيمسٽري','Physics':'فزڪس','Biology':'حياتيات','Pakistan Studies':'پاڪستان اڀياس','General Knowledge':'عام ڄاڻ','Drawing':'ڊرائنگ'};
+function subjBase(s){
+  var b=String(s||'').split(' \u2014 ')[0];
+  if(b==='Urdu Salees'||b==='Asan Urdu') return 'Urdu';
+  if(b==='Sindhi Version') return 'Sindhi';
+  if(b==='English Version') return 'English';
+  return b;
+}
+function subjTint(s){
+  var b=subjBase(s);
+  if(b==='Science'||b==='Chemistry') return 't-teal';
+  if(b==='Mathematics'||b==='Physics') return 't-blue';
+  if(b==='English'||b==='General Knowledge') return 't-amber';
+  if(b==='Urdu') return 't-plum';
+  if(b==='Islamiat'||b==='Biology') return 't-green';
+  if(b==='Sindhi') return 't-rose';
+  if(b==='Social Studies'||b==='Pakistan Studies') return 't-slate';
+  if(b==='Computer'||b==='Computer Science'||b==='Drawing') return 't-coral';
+  return 't-teal';
+}
 function subjIcon(s){
   if(s.indexOf('Chemistry')===0) return '\u2697\uFE0F';
   if(s.indexOf('Physics')===0) return '\u269B\uFE0F';
@@ -37955,10 +38030,58 @@ function subjIcon(s){
   if(s==='English'||s==='English Version') return '\uD83D\uDCD6';
   return '\uD83D\uDCDA';
 }
+function subjectHasGuide(cls, subj){
+  try{
+    if(typeof STUDY==='undefined') return false;
+    var data=null;
+    if(cls==='x') data=STUDY.x;
+    else if(subj==='English') data=STUDY.shared;
+    else if(cls==='ix') data=STUDY.ix;
+    else if(cls==='viii') data=STUDY.viii;
+    else if(cls==='vii') data=STUDY.vii;
+    else if(cls==='vi') data=STUDY.vi;
+    if(!data) return false;
+    if(subj==='English' && STUDY[cls] && STUDY[cls].exsolutions) data=Object.assign({}, data, {exsolutions: STUDY[cls].exsolutions});
+    if(subj==='Sindhi' && STUDY[cls] && STUDY[cls].sindhiExsolutions) data=Object.assign({}, data, {exsolutions: STUDY[cls].sindhiExsolutions});
+    if((subj==='Asan Urdu'||subj==='Urdu Salees') && STUDY[cls] && STUDY[cls].urduExsolutions) data=Object.assign({}, data, {exsolutions: STUDY[cls].urduExsolutions});
+    if((subj||'').indexOf('Science')===0 && (subj||'').indexOf('Sindhi')>=0 && STUDY[cls] && STUDY[cls].sciExsolutions) data=Object.assign({}, data, {exsolutions: STUDY[cls].sciExsolutions});
+    if(subj==='English') return !!data.exsolutions;
+    if((subj||'').indexOf('Mathematics')===0 && data.mathsolutions) return true;
+    if((subj||'').indexOf('Sindhi')===0 && data.exsolutions) return true;
+    if((subj==='Asan Urdu'||subj==='Urdu Salees') && data.exsolutions) return true;
+    if((subj||'').indexOf('Science')===0 && (subj||'').indexOf('Sindhi')>=0 && data.exsolutions) return true;
+    return false;
+  }catch(e){ return false; }
+}
+function subjectCardHtml(cls, s){
+  var n=subjectTestCount(cls,s);
+  var g=subjectHasGuide(cls,s);
+  var meta=g?(n>0?n+' TESTS \u00b7 GUIDE':'GUIDE'):(n>0?n+' TESTS':'Study material');
+  var sd=SUBJ_SD[subjBase(s)]||'';
+  return '<button class="subjcard" onclick="showSubject(\''+cls+'\',\''+s+'\')"><span class="subjicon-tile '+subjTint(s)+'">'+subjIcon(s)+'</span><span class="subjname">'+s+'</span>'+(sd?'<span class="subjsd">'+sd+'</span>':'')+'<span class="subjmeta">'+meta+'</span></button>';
+}
+function subjectCardsGridHtml(cls){
+  return '<div class="subjgrid">'+CLASS_SUBJECTS[cls].filter(function(s){
+    var n=subjectTestCount(cls,s);
+    return n>0 || s==='English';
+  }).map(function(s){ return subjectCardHtml(cls, s); }).join('')+'</div>';
+}
+var homeClass='vi';
+function renderHomeSubjects(){
+  var box=document.getElementById('homeSubjects'); if(!box) return;
+  box.innerHTML=subjectCardsGridHtml(homeClass);
+}
+function selectClassChip(cls){
+  homeClass=cls;
+  var chips=document.querySelectorAll('#classChips .classchip');
+  for(var i=0;i<chips.length;i++){ chips[i].classList.toggle('sel', chips[i].getAttribute('data-cls')===cls); }
+  renderHomeSubjects();
+}
+function toggleNight(){ setNightMode(!document.body.classList.contains('dark')); }
 function showScoreRing(score, total){
   var pct=total?Math.round(score/total*100):0;
-  var col=pct>=80?'#16a34a':(pct>=50?'#f59e0b':'#dc2626');
-  var C=2*Math.PI*52;
+  var col=pct>=70?'#1d9e62':(pct>=40?'#e07f13':'#d64545');
+  var C=2*Math.PI*82;
   var ring=document.getElementById('ringfg');
   if(ring){ ring.style.stroke=col; ring.style.strokeDasharray=C; ring.style.strokeDashoffset=C;
     var setOff=function(){ ring.style.strokeDashoffset=C*(1-pct/100); };
@@ -37968,8 +38091,8 @@ function showScoreRing(score, total){
 }
 function launchConfetti(){
   var box=document.getElementById('confetti'); if(!box) return;
-  var colors=['#f59e0b','#123a5c','#16a34a','#ef4444','#3b82f6','#ec4899'];
-  for(var i=0;i<70;i++){
+  var colors=['#f59e0b','#0b5563','#1d9e62','#d64545','#3b82f6','#ec4899'];
+  for(var i=0;i<140;i++){
     var d=document.createElement('div'); d.className='confetti-bit';
     d.style.left=(Math.random()*100)+'%';
     d.style.background=colors[i%colors.length];
@@ -37982,13 +38105,7 @@ function showClass(cls){
   currentClass=cls; currentSubject=null;
   var _cn=uiLang==='sd' ? CLASS_NAMES_SD[cls] : CLASS_NAMES[cls];
   document.getElementById('classtitle').textContent=_cn+' \u2014 '+tr('chooseSubject');
-  document.getElementById('classtests').innerHTML='<div class="subjgrid">'+CLASS_SUBJECTS[cls].filter(function(s){
-    var n=subjectTestCount(cls,s);
-    return n>0 || s==='English';
-  }).map(function(s){
-    var n=subjectTestCount(cls,s);
-    return '<button class="testbtn en subjcard" onclick="showSubject(\''+cls+'\',\''+s+'\')"><span class="subjicon">'+subjIcon(s)+'</span>'+s+'<small>'+(n===0?'Study material':((uiLang==='sd'||uiLang==='ur')?n+' \u0679\u064a\u0633\u067d':n+(n===1?' test':' tests')))+'</small></button>';
-  }).join('')+'</div>'+'<p class="note">Only subjects with a test or study material are shown — more subjects will be added soon.</p>';
+  document.getElementById('classtests').innerHTML=subjectCardsGridHtml(cls)+'<p class="note">Only subjects with a test or study material are shown — more subjects will be added soon.</p>';
   if(MOCKS[cls]){ var _mc=MOCKS[cls]; document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="startMockTest(\''+cls+'\')">'+_mc.title+'<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small><small>'+_mc.topic+'</small>'+lastTakenHtml('mock'+cls)+'</button><p class="note">'+tr('mockNote')+'</p>'; }
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
@@ -38045,6 +38162,7 @@ function backToClasses(){
   document.getElementById('result').classList.add('hidden');
   document.getElementById('install').classList.add('hidden');
   document.getElementById('home').classList.remove('hidden');
+  selectClassChip(currentClass||homeClass);
   window.scrollTo(0,0);
   navPush({view:'home'});
 }
@@ -38222,7 +38340,7 @@ function render(){
       if(answers[idx]===i&&i!==qs[idx].answer) cls+=' learn-wrong';
     }
     b.className=cls;
-    b.innerHTML='('+letters[i]+') '+optHtml(o);
+    b.innerHTML='<span class="optkey">'+letters[i]+'</span> '+optHtml(o);
     b.onclick=()=>{ if(testLearn&&answers[idx]!==null) return; answers[idx]=i; render(); };
     box.appendChild(b);
   });
@@ -38290,13 +38408,13 @@ function saveMyNotes(){
   var ta=document.getElementById('mynotestext'); if(!ta || !currentClass || !currentSubject) return;
   try{ localStorage.setItem(notesKey(currentClass, currentSubject), ta.value); }catch(e){}
 }
-function isNewBest(prev, score){ return prev!==null && score>prev; }
+function isNewBest(prev, score){ return prev===null || score>prev; }
 function downloadScoreCard(){
   if(!testKey||!lastTotal) return;
   var pct=Math.round(lastScore/lastTotal*100);
   var cv=document.createElement('canvas'); cv.width=900; cv.height=540;
   var ctx=cv.getContext('2d'); ctx.fillStyle='#ffffff'; ctx.fillRect(0,0,900,540);
-  ctx.fillStyle='#123a5c'; ctx.fillRect(0,0,900,110);
+  ctx.fillStyle='#0d2f4a'; ctx.fillRect(0,0,900,110);
   ctx.fillStyle='#ffffff'; ctx.font='700 34px sans-serif'; ctx.textAlign='center';
   ctx.fillText('GOVERNMENT BOYS LOWER SECONDARY SCHOOL', 450, 48);
   ctx.fillText('HASEEJA MAHAR', 450, 88);
@@ -38306,7 +38424,7 @@ function downloadScoreCard(){
   if(cur) lines.push(cur);
   var y=160; lines.forEach(function(l){ ctx.fillText(l, 450, y); y+=38; });
   ctx.font='26px sans-serif'; ctx.fillText(studentName, 450, y+20);
-  ctx.font='700 72px sans-serif'; ctx.fillStyle='#123a5c';
+  ctx.font='700 72px sans-serif'; ctx.fillStyle='#0d2f4a';
   ctx.fillText(lastScore+' / '+lastTotal, 450, y+110);
   ctx.font='30px sans-serif'; ctx.fillStyle='#222222';
   ctx.fillText(pct+'% correct', 450, y+160);
@@ -38329,6 +38447,7 @@ function goHome(){
   var _mr=document.getElementById('myresults'); if(_mr) _mr.classList.add('hidden');
   var _ic=document.getElementById('installcard'); if(_ic) _ic.style.display='none';
   document.getElementById('home').classList.remove('hidden');
+  selectClassChip(currentClass||homeClass);
   navPush({view:'home'});
 }
 function goHomeFromTest(){
@@ -38337,7 +38456,7 @@ function goHomeFromTest(){
 }
 function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
 function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n.getMonth(), n.getDate()); }
-function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+formatQuestion(pick.q.q)+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')">('+letters[i]+') '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
+function renderQotd(){ var box=document.getElementById('qotdbox'); if(!box) return; var pick=qotdPick(); var t=QUESTIONS[pick.k]; var html='<p class="note"><b>'+t.title.replace(' Practice Test','')+'</b></p><p class="note">'+formatQuestion(pick.q.q)+'</p>'; pick.q.options.forEach(function(o,i){ html+='<button class="opt'+(t.dir==='ltr'?' en':'')+'" onclick="qotdAnswer(this,'+i+','+pick.q.answer+')"><span class="optkey">'+letters[i]+'</span> '+optHtml(o)+'</button>'; }); html+='<p class="note" id="qotdnote"></p>'; box.innerHTML=html; box.dir=t.dir; }
 function qotdAnswer(btn,i,ans){ var note=document.getElementById('qotdnote'); if(!note) return; if(i===ans){ btn.classList.add('learn-correct'); note.innerHTML='<span class="correct">'+tr('qotdCorrect')+'</span>'; } else { btn.classList.add('learn-wrong'); note.innerHTML='<span class="wrong">'+tr('qotdWrong')+' ('+letters[ans]+').</span>'; } }
 
 
@@ -38412,7 +38531,7 @@ function renderCalendar(){
   for(var d=1; d<=dim; d++){
     var ds=y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
     var practiced=!!days[ds];
-    cells+='<span style="display:inline-block;width:13%;text-align:center;border-radius:6px;'+(practiced?'background:#123a5c;color:#fff;font-weight:700;':'')+(ds===today?'border:2px solid #123a5c;':'')+'">'+d+'</span>';
+    cells+='<span style="display:inline-block;width:13%;text-align:center;border-radius:6px;'+(practiced?'background:#0b5563;color:#fff;font-weight:700;':'')+(ds===today?'border:2px solid #0b5563;':'')+'">'+d+'</span>';
   }
   box.innerHTML='<b>\uD83D\uDCC5 Practice calendar \u2014 '+months[m]+' '+y+'</b><div style="margin-top:6px">'+cells+'</div><p class="note" style="margin:4px 0 0">Green days = you practiced.</p>';
 }
@@ -38487,7 +38606,7 @@ function shareStreak(){
 // ---- Suggestions 4, 5, 6: progress bars, offline notice, weekly goal ----
 function scoreBars(h){
   return h.map(function(r){
-    return '<p class="note" style="margin:2px 0">'+r.d+': '+r.s+'/'+r.t+' ('+r.p+'%)</p><div style="background:#e5e7eb;border-radius:6px;height:12px;margin:2px 0 10px"><div style="background:#123a5c;height:12px;border-radius:6px;width:'+r.p+'%"></div></div>';
+    return '<p class="note" style="margin:2px 0">'+r.d+': '+r.s+'/'+r.t+' ('+r.p+'%)</p><div style="background:#e5e7eb;border-radius:6px;height:12px;margin:2px 0 10px"><div style="background:#0d2f4a;height:12px;border-radius:6px;width:'+r.p+'%"></div></div>';
   }).join('');
 }
 function updateOfflineBanner(){
@@ -38526,7 +38645,7 @@ function renderGoal(){
   var box=document.getElementById('goalbox'); if(!box) return;
   var goal=getWeeklyGoal(); var done=countWeekTests();
   var pct=goal>0?Math.min(100, Math.round(done/goal*100)):0;
-  box.innerHTML='<b>\uD83C\uDFAF Weekly goal:</b> '+done+' / '+goal+' tests this week <input type="number" min="1" max="21" value="'+goal+'" onchange="setWeeklyGoal(this.value)" style="width:60px;padding:4px"> <div style="background:#e5e7eb;border-radius:6px;height:12px;margin-top:6px"><div style="background:#123a5c;height:12px;border-radius:6px;width:'+pct+'%"></div></div>';
+  box.innerHTML='<b>\uD83C\uDFAF Weekly goal:</b> '+done+' / '+goal+' tests this week <input type="number" min="1" max="21" value="'+goal+'" onchange="setWeeklyGoal(this.value)" style="width:60px;padding:4px"> <div style="background:#e5e7eb;border-radius:6px;height:12px;margin-top:6px"><div style="background:#0d2f4a;height:12px;border-radius:6px;width:'+pct+'%"></div></div>';
 }
 
 // ---- Batch 6: streak, my results, install prompt, first guide, exam tidy-up ----
@@ -38775,6 +38894,7 @@ applySavedFontSize();
 applySavedNightMode();
 applySavedLang();
 renderQotd();
+renderHomeSubjects();
 renderExamCountdown();
 flushResultQueue();
 refreshPausedButton();
