@@ -7,7 +7,7 @@
 <link rel="icon" type="image/svg+xml" href="icon.svg">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#14532d">
+<meta name="theme-color" content="#123a5c">
 <meta name="description" content="Free MCQ practice tests for Classes VI to X — Government Boys Lower Secondary School Haseeja Mahar. No login needed.">
 <meta property="og:title" content="MCQ Tests — GB Lower Secondary School Haseeja Mahar">
 <meta property="og:description" content="Free MCQ practice tests for Classes VI to X. No login needed.">
@@ -20,43 +20,69 @@
 *{box-sizing:border-box}
 #test.urdu,#test.urdu *{font-family:'Noto Nastaliq Urdu','Noto Naskh Arabic',sans-serif;line-height:2}
 #matcontent.urdu-mat,#matcontent.urdu-mat *{font-family:'Noto Nastaliq Urdu','Noto Naskh Arabic',sans-serif;line-height:2}
-body{margin:0;font-family:'Noto Naskh Arabic','Noto Nastaliq Urdu',system-ui,sans-serif;background:#f2f4f7;color:#111}
-header{background:#14532d;color:#fff;text-align:center;padding:18px 14px 14px}
-header h1{margin:0;font-size:19px;line-height:1.35}
+body{margin:0;font-family:'Noto Naskh Arabic','Noto Nastaliq Urdu',system-ui,sans-serif;background:#eef2f7;color:#111}
+header{background:linear-gradient(135deg,#0d2b4d 0%,#123a5c 55%,#0e6b6b 100%);color:#fff;text-align:center;padding:22px 14px 16px;position:relative;overflow:hidden}
+header::after{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.09) 1.5px,transparent 1.5px);background-size:22px 22px;pointer-events:none}
+header>*{position:relative;z-index:1}
+header h1{margin:0;font-size:28px;line-height:1.25;letter-spacing:.5px}
 header p{margin:6px 0 0;font-size:14px;opacity:.92}
+.hero-badge{font-size:34px;line-height:1.1}
+.hero-full{font-size:14px;opacity:.9}
+.hero-credit{font-size:13px;opacity:.85;margin-top:10px}
 main{max-width:680px;margin:0 auto;padding:16px}
-.card{background:#fff;border-radius:12px;padding:18px;box-shadow:0 1px 4px rgba(0,0,0,.12)}
+.card{background:#fff;border-radius:12px;padding:18px;box-shadow:0 2px 10px rgba(18,58,92,.12)}
 h2{margin-top:0}
 button{font:inherit;cursor:pointer}
-.testbtn{display:block;width:100%;text-align:right;padding:16px;margin:10px 0;border:2px solid #14532d;border-radius:10px;background:#eaf5ee;font-size:19px;font-weight:700;color:#14532d}
+.testbtn{display:block;width:100%;text-align:right;padding:16px;margin:10px 0;border:2px solid #123a5c;border-radius:12px;background:#e8eef5;font-size:19px;font-weight:700;color:#123a5c;box-shadow:0 2px 6px rgba(18,58,92,.10);transition:transform .08s ease,background .12s ease}
 .testbtn small{display:block;font-size:14px;font-weight:400;color:#333;margin-top:4px}
 .testbtn.en{text-align:left}
+.testbtn:active{transform:scale(0.98)}
+.classgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin:14px 0}
+.classgrid .testbtn{margin:0;text-align:center;padding:22px 12px}
+.classgrid .testbtn small{margin-top:6px}
+.subjgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin:14px 0}
+.subjcard{margin:0 !important;text-align:center !important;padding:18px 10px !important}
+.subjicon{display:block;font-size:36px;line-height:1.2;margin-bottom:8px}
 .note{font-size:15px;line-height:1.6;color:#333}
 .topbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
 #timer{font-size:20px;font-weight:700;color:#b91c1c}
 #timer.warn{color:#fff;background:#b91c1c;padding:2px 10px;border-radius:8px}
 #progress{height:10px;background:#e5e7eb;border-radius:6px;margin:12px 0;overflow:hidden}
-#bar{height:100%;width:0;background:#14532d}
+#bar{height:100%;width:0;background:#123a5c}
 #qtext{font-size:21px;line-height:1.9;min-height:90px}
 .qmain{font-weight:700}
 .qinstr{font-weight:400;font-size:0.85em}
 
 #qtext .m, .opt .m{direction:ltr;unicode-bidi:embed;font-family:Georgia,serif}
-.opt{display:block;width:100%;text-align:right;padding:14px 16px;margin:9px 0;border:2px solid #cbd5e1;border-radius:10px;background:#fff;font-size:19px}
+.opt{display:block;width:100%;text-align:right;padding:14px 16px;margin:16px 0;border:2px solid #cbd5e1;border-radius:10px;background:#fff;font-size:19px;transition:transform .08s ease,background .12s ease,border-color .12s ease}
 .opt.en{text-align:left}
-.opt.sel{border-color:#14532d;background:#dcfce7;font-weight:700}
+.opt.sel{border-color:#123a5c;background:#dbe7f5;font-weight:700}
+.opt:active{transform:scale(0.98);background:#eef2f7}
 .nav{display:flex;gap:10px;margin-top:16px}
 .nav button,.submitbtn,.homebtn{flex:1;padding:14px;border-radius:10px;border:0;font-size:18px;font-weight:700}
 .nav button{background:#e5e7eb}
-.submitbtn{background:#14532d;color:#fff;width:100%;margin-top:12px}
-.homebtn{background:#14532d;color:#fff;margin-top:12px;width:100%}
+.nav button:active{transform:scale(0.98)}
+.submitbtn{background:#f59e0b;color:#1f2937;width:100%;margin-top:12px}
+.submitbtn:active{transform:scale(0.98)}
+.homebtn{background:#123a5c;color:#fff;margin-top:12px;width:100%}
+.homebtn:active{transform:scale(0.98)}
 .score{font-size:42px;font-weight:700;text-align:center;margin:8px 0}
+.ringwrap{display:flex;justify-content:center;margin:10px 0}
+.scorering{width:170px;height:170px}
+.ringbg{fill:none;stroke:#e5e7eb;stroke-width:11}
+.ringfg{fill:none;stroke:#16a34a;stroke-width:11;stroke-linecap:round;transform:rotate(-90deg);transform-origin:60px 60px;transition:stroke-dashoffset 1s ease}
+#ringpct{font-size:26px;font-weight:700;fill:#111}
+#ringscore{font-size:15px;font-weight:700;fill:#555}
+#confetti{position:relative;height:0;overflow:visible;pointer-events:none}
+.confetti-bit{position:absolute;top:-12px;width:9px;height:14px;border-radius:2px;animation:confetti-fall 3s ease-in forwards;pointer-events:none}
+@keyframes confetti-fall{to{transform:translateY(340px) rotate(720deg);opacity:0}}
 .review{border-top:1px solid #ddd;padding:12px 0}
 .review .qq{font-size:18px;line-height:1.8}
 .correct{color:#15803d;font-weight:700}
 .wrong{color:#b91c1c;font-weight:700}
-.modebtn{padding:8px 16px;border:2px solid #14532d;border-radius:10px;background:#eaf5ee;font-size:16px;font-weight:700;color:#14532d;margin:4px 4px 4px 0}
-.modebtn.sel{background:#14532d;color:#fff}
+.modebtn{padding:8px 16px;border:2px solid #123a5c;border-radius:10px;background:#e8eef5;font-size:16px;font-weight:700;color:#123a5c;margin:4px 4px 4px 0}
+.modebtn.sel{background:#123a5c;color:#fff}
+.modebtn:active{transform:scale(0.97)}
 .matsec{margin:10px 0}
 .matsec>.modebtn{display:block;width:100%;text-align:left;margin:0}
 .matpanel{padding:4px 2px 2px}
@@ -72,49 +98,55 @@ body.xlarge .opt{font-size:27px}
 body.xlarge .review .qq{font-size:24px}
 body.xlarge .note{font-size:19px}
 body.xlarge .flashfront{font-size:29px}
-.flashcard{border:2px solid #14532d;border-radius:12px;padding:20px;margin:12px 0;text-align:center;background:#eaf5ee}
-body.dark .flashcard{background:#14532d;border-color:#22c55e}
+.flashcard{border:2px solid #123a5c;border-radius:12px;padding:20px;margin:12px 0;text-align:center;background:#e8eef5}
+body.dark .flashcard{background:#123a5c;border-color:#f59e0b}
 .flashfront{font-size:24px;font-weight:700;line-height:1.6;min-height:60px}
 .flashback{font-size:20px;line-height:1.6;min-height:60px}
 .hidden{display:none}
 #palette{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
 .palbtn{min-width:38px;padding:8px 4px;border:2px solid #cbd5e1;border-radius:8px;background:#fff;font-size:15px;font-weight:700}
-.palbtn.ans{background:#dcfce7;border-color:#14532d}
-.palbtn.cur{background:#14532d;color:#fff;border-color:#14532d}
+.palbtn.ans{background:#dbe7f5;border-color:#123a5c}
+.palbtn.cur{background:#123a5c;color:#fff;border-color:#123a5c}
 .palbtn.flag{outline:3px solid #b91c1c;outline-offset:1px}
-.explain{border:2px solid #14532d;background:#eaf5ee;border-radius:10px;padding:12px 14px}
-body.dark{background:#0f172a;color:#e2e8f0}
-body.dark header{background:#052e16}
-body.dark .card{background:#1e293b;color:#e2e8f0;box-shadow:0 1px 4px rgba(0,0,0,.4)}
-body.dark .note{color:#cbd5e1}
-body.dark .testbtn{background:#14532d;color:#e2e8f0;border-color:#22c55e}
-body.dark .testbtn small{color:#cbd5e1}
-body.dark .opt{background:#1e293b;color:#e2e8f0;border-color:#475569}
-body.dark .opt.sel{background:#14532d;border-color:#22c55e}
-body.dark .opt.learn-correct{background:#14532d;border-color:#22c55e}
+.explain{border:2px solid #123a5c;background:#e8eef5;border-radius:10px;padding:12px 14px}
+.sitefooter{text-align:center;font-size:13px;color:#5b6b7a;padding:18px 10px 8px;line-height:1.7}
+body.dark{background:#121212;color:#E0E0E0}
+body.dark header{background:#0d1b2a}
+body.dark .card{background:#1E1E1E;color:#E0E0E0;box-shadow:0 2px 10px rgba(0,0,0,.5)}
+body.dark .note{color:#c9c9c9}
+body.dark .testbtn{background:#123a5c;color:#E0E0E0;border-color:#2c5a85}
+body.dark .testbtn small{color:#c9c9c9}
+body.dark .opt{background:#1E1E1E;color:#E0E0E0;border-color:#444}
+body.dark .opt.sel{background:#123a5c;border-color:#f59e0b}
+body.dark .opt.learn-correct{background:#123a5c;border-color:#4ade80}
 body.dark .opt.learn-wrong{background:#7f1d1d;border-color:#f87171}
-body.dark .nav button{background:#334155;color:#e2e8f0}
-body.dark #progress{background:#334155}
-body.dark #bar{background:#22c55e}
-body.dark .review{border-color:#334155}
-body.dark .palbtn{background:#1e293b;color:#e2e8f0;border-color:#475569}
-body.dark .palbtn.ans{background:#14532d;border-color:#22c55e}
-body.dark .palbtn.cur{background:#22c55e;color:#052e16;border-color:#22c55e}
-body.dark .explain{background:#14532d;border-color:#22c55e}
-body.dark .modebtn{background:#1e293b;color:#e2e8f0;border-color:#22c55e}
-body.dark .modebtn.sel{background:#22c55e;color:#052e16}
+body.dark .opt:active{background:#2a2a2a}
+body.dark .nav button{background:#2a2a2a;color:#E0E0E0}
+body.dark #progress{background:#333}
+body.dark #bar{background:#f59e0b}
+body.dark .review{border-color:#333}
+body.dark .palbtn{background:#1E1E1E;color:#E0E0E0;border-color:#444}
+body.dark .palbtn.ans{background:#123a5c;border-color:#f59e0b}
+body.dark .palbtn.cur{background:#f59e0b;color:#1f2937;border-color:#f59e0b}
+body.dark .explain{background:#123a5c;border-color:#2c5a85}
+body.dark .modebtn{background:#1E1E1E;color:#E0E0E0;border-color:#f59e0b}
+body.dark .modebtn.sel{background:#f59e0b;color:#1f2937}
 body.dark .correct{color:#4ade80}
 body.dark .wrong{color:#f87171}
-body.dark input{background:#0f172a;color:#e2e8f0}
+body.dark input{background:#1E1E1E;color:#E0E0E0}
 body.dark #timer{color:#f87171}
 body.dark #timer.warn{background:#b91c1c;color:#fff}
+body.dark .sitefooter{color:#9a9a9a}
+body.dark #ringpct{fill:#E0E0E0}
+body.dark #ringscore{fill:#c9c9c9}
+body.dark .ringbg{stroke:#333}
 
-.exsec{background:#14532d;color:#fff;padding:8px 10px;border-radius:8px}
+.exsec{background:#123a5c;color:#fff;padding:8px 10px;border-radius:8px}
 .exsec u{text-decoration-color:#fde68a}
 .exhead{background:#dbeafe;color:#1e40af;padding:6px 10px;border-radius:6px;margin:12px 0 4px}
-.exq{color:#14532d;font-weight:700}
+.exq{color:#123a5c;font-weight:700}
 .exa{color:#1e40af;font-weight:700}
-.exword{color:#14532d;font-weight:700}
+.exword{color:#123a5c;font-weight:700}
 .exsyn{color:#1e40af}
 .exans{white-space:pre-line}
 .frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 2px}
@@ -134,7 +166,7 @@ body.dark #timer.warn{background:#b91c1c;color:#fff}
 .dg-open{fill:#fff;stroke:#1d4ed8;stroke-width:2}
 .dg-ray{stroke:#1d4ed8;stroke-width:2}
 .dg-rayf{fill:#1d4ed8}
-body.dark .exsec{background:#14532d;color:#fff}
+body.dark .exsec{background:#123a5c;color:#fff}
 body.dark .exhead{background:#1e3a8a;color:#dbeafe}
 body.dark .exq{color:#4ade80}
 body.dark .exa{color:#93c5fd}
@@ -153,10 +185,12 @@ body.dark .exsyn{color:#93c5fd}
 <body>
 <div id="offlinebanner" style="display:none;background:#b91c1c;color:#fff;text-align:center;padding:8px;font-weight:700">You are offline — results will be sent later once you are back online.</div>
 <header>
-<h1>GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h1>
-<p id="examNotice" style="background:#fef3c7;color:#14532d;padding:8px 12px;border-radius:8px;font-weight:700">Mid-Term Examination 2026-27 finished on Friday 6 November 2026. Results will be shared soon.</p>
+<div class="hero-badge">🏫</div>
+<h1>GBLSS Haseeja Mahar</h1>
+<p class="hero-full">Government Boys Lower Secondary School Haseeja Mahar</p>
+<p id="examNotice" style="background:#fef3c7;color:#123a5c;padding:8px 12px;border-radius:8px;font-weight:700">Mid-Term Examination 2026-27 finished on Friday 6 November 2026. Results will be shared soon.</p>
 <p id="examCountdown" style="font-weight:700"></p>
-<p>WEBSITE MADE BY: NASARULLAH MEMON</p>
+<p class="hero-credit">Website developed by Sir Nasarullah Memon</p>
 <p>MCQ Tests — Practice Tests</p>
 </header>
 <main>
@@ -166,13 +200,15 @@ body.dark .exsyn{color:#93c5fd}
 <p id="streakbox" class="note" style="font-weight:700"></p>
 <div id="goalbox" class="note"></div>
 <div id="calbox" class="note"></div>
-<p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
+<p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #123a5c;border-radius:10px;margin-top:6px"></label></p>
+<div class="classgrid">
 <button class="testbtn en" onclick="showClass('vi')">Class VI<small>11 tests &middot; 10 subjects</small></button>
 <button class="testbtn en" onclick="showClass('vii')">Class VII<small>11 tests &middot; 10 subjects</small></button>
 <button class="testbtn en" onclick="showClass('viii')">Class VIII<small>11 tests &middot; 10 subjects</small></button>
 <button class="testbtn en" onclick="showClass('ix')">Class IX<small>47 tests &middot; 14 subjects</small></button>
 <button class="testbtn en" onclick="showClass('x')">Class X<small>49 tests &middot; 16 subjects &middot; Study Material</small></button>
 <button class="testbtn en" onclick="showClass('gk')">General Knowledge<small>2 versions &middot; Sindhi Version (12 tests) &middot; English Version (11 tests)</small></button>
+</div>
 <p class="note" data-i18n="tip">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
 <p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <button class="modebtn" id="fontXLargeBtn" onclick="setFontSize('xlarge')" data-i18n="xlarge">Extra Large</button></p>
 <p class="note"><span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button></p>
@@ -185,7 +221,7 @@ body.dark .exsyn{color:#93c5fd}
 <div id="installcard" style="display:none"></div>
 <h2 style="margin-top:18px" data-i18n="qotdHeading">Question of the Day</h2>
 <div id="qotdbox"></div>
-<p class="note"><label><b data-i18n="searchLabel">Search tests:</b> <input id="testSearch" type="text" placeholder="Type a test or topic" oninput="renderSearch()" style="width:100%;padding:12px;font-size:18px;border:2px solid #14532d;border-radius:10px;margin-top:6px"></label></p>
+<p class="note"><label><b data-i18n="searchLabel">Search tests:</b> <input id="testSearch" type="text" placeholder="Type a test or topic" oninput="renderSearch()" style="width:100%;padding:12px;font-size:18px;border:2px solid #123a5c;border-radius:10px;margin-top:6px"></label></p>
 <div id="searchResults"></div>
 <div id="weakbox"></div>
 <div id="resumebox" class="hidden"><button class="homebtn" onclick="resumePaused()" data-i18n="resumeBtn">Resume your test</button></div>
@@ -303,7 +339,7 @@ body.dark .exsyn{color:#93c5fd}
 <button class="modebtn" id="flagbtn" onclick="toggleFlag()">Flag this question</button>
 <button class="modebtn" id="speakbtn" onclick="speakQuestion()">🔊 Read question</button> <button class="modebtn" id="printtestbtn" onclick="printTest()" data-i18n="printTest">Print this test</button>
 <div id="calcbox" style="display:none;margin-top:10px">
-<input id="calcDisplay" type="text" readonly style="width:100%;padding:10px;font-size:18px;border:2px solid #14532d;border-radius:10px;text-align:right">
+<input id="calcDisplay" type="text" readonly style="width:100%;padding:10px;font-size:18px;border:2px solid #123a5c;border-radius:10px;text-align:right">
 <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:6px">
 <button class="modebtn" onclick="calcAppend('7')">7</button><button class="modebtn" onclick="calcAppend('8')">8</button><button class="modebtn" onclick="calcAppend('9')">9</button><button class="modebtn" onclick="calcAppend('/')">÷</button>
 <button class="modebtn" onclick="calcAppend('4')">4</button><button class="modebtn" onclick="calcAppend('5')">5</button><button class="modebtn" onclick="calcAppend('6')">6</button><button class="modebtn" onclick="calcAppend('*')">×</button>
@@ -324,9 +360,10 @@ body.dark .exsyn{color:#93c5fd}
 <section id="result" class="card hidden">
 <h2 data-i18n="resultHeading">Result</h2>
 <p id="resultname" style="text-align:center;font-size:18px;font-weight:700"></p>
-<div class="score" id="score"></div>
+<div class="ringwrap"><svg class="scorering" viewBox="0 0 120 120"><circle class="ringbg" cx="60" cy="60" r="52"></circle><circle class="ringfg" id="ringfg" cx="60" cy="60" r="52"></circle><text id="ringpct" x="60" y="58" text-anchor="middle">0%</text><text id="ringscore" x="60" y="78" text-anchor="middle">0 / 0</text></svg></div>
+<div id="confetti"></div>
 <p id="scorenote" style="text-align:center"></p>
-<p id="newbest" class="note hidden" style="text-align:center;font-weight:700;color:#14532d">🎉 New best!</p>
+<p id="newbest" class="note hidden" style="text-align:center;font-weight:700;color:#15803d">🎉 New best!</p>
 <p id="targetnote" class="note hidden" style="text-align:center;font-weight:700"></p>
 <div id="review"></div>
 <button class="homebtn" id="retrybtn" onclick="startRetry()" data-i18n="retry">Retry wrong questions</button>
@@ -336,6 +373,7 @@ body.dark .exsyn{color:#93c5fd}
 <button class="homebtn" id="reportbtn" onclick="reportMistake()" data-i18n="report">Report a mistake in this test</button>
 <button class="homebtn" onclick="goHome()" data-i18n="backHome">Back to Home</button>
 </section>
+<footer class="sitefooter">Developed by Sir Nasarullah Memon<br>Government Boys Lower Secondary School Haseeja Mahar</footer>
 </main>
 <div id="firstguide" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.55);z-index:99;align-items:center;justify-content:center"><div style="background:#fff;border-radius:14px;padding:20px;max-width:420px;margin:20px"><h2>Welcome! How to use this site</h2><ol class="note" style="line-height:1.8"><li>Type your name first.</li><li>Tap your class, then a subject, then a test.</li><li>Test mode has a timer and your score is sent to your teacher. Learn mode has no timer and is not recorded.</li><li>Your best score for each test is saved on this phone.</li></ol><button class="homebtn" onclick="dismissFirstGuide()">Got it</button></div></div>
 <script>
@@ -37902,17 +37940,55 @@ function reportMistake(){ if(!testKey) return; var msg='I found a mistake in the
 
 var currentClass=null; var currentSubject=null;
 function subjectTestCount(cls, subj){ var ks=CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===subj; }); var n=ks.length; if(typeof CHAPTERS!=='undefined'){ Object.keys(CHAPTERS).forEach(function(ck){ if(ks.indexOf(CHAPTERS[ck].parent)!==-1) n++; }); } return n; }
+function subjIcon(s){
+  if(s.indexOf('Chemistry')===0) return '\u2697\uFE0F';
+  if(s.indexOf('Physics')===0) return '\u269B\uFE0F';
+  if(s.indexOf('Biology')===0) return '\uD83E\uDDEC';
+  if(s.indexOf('Computer')===0) return '\uD83D\uDCBB';
+  if(s.indexOf('Mathematics')===0) return '\uD83D\uDCD0';
+  if(s.indexOf('Science')===0) return '\uD83E\uDDEA';
+  if(s.indexOf('Social')===0) return '\uD83C\uDF0D';
+  if(s.indexOf('Islamiat')===0) return '\uD83D\uDD4C';
+  if(s.indexOf('Urdu')===0) return '\u2712\uFE0F';
+  if(s.indexOf('Pakistan')===0) return '\uD83C\uDDF5\uD83C\uDDF0';
+  if(s==='Sindhi'||s==='Sindhi Version') return '\uD83D\uDCDC';
+  if(s==='English'||s==='English Version') return '\uD83D\uDCD6';
+  return '\uD83D\uDCDA';
+}
+function showScoreRing(score, total){
+  var pct=total?Math.round(score/total*100):0;
+  var col=pct>=80?'#16a34a':(pct>=50?'#f59e0b':'#dc2626');
+  var C=2*Math.PI*52;
+  var ring=document.getElementById('ringfg');
+  if(ring){ ring.style.stroke=col; ring.style.strokeDasharray=C; ring.style.strokeDashoffset=C;
+    var setOff=function(){ ring.style.strokeDashoffset=C*(1-pct/100); };
+    if(window.requestAnimationFrame) requestAnimationFrame(setOff); else setOff(); }
+  var rp=document.getElementById('ringpct'); if(rp) rp.textContent=pct+'%';
+  var rs=document.getElementById('ringscore'); if(rs) rs.textContent=score+' / '+total;
+}
+function launchConfetti(){
+  var box=document.getElementById('confetti'); if(!box) return;
+  var colors=['#f59e0b','#123a5c','#16a34a','#ef4444','#3b82f6','#ec4899'];
+  for(var i=0;i<70;i++){
+    var d=document.createElement('div'); d.className='confetti-bit';
+    d.style.left=(Math.random()*100)+'%';
+    d.style.background=colors[i%colors.length];
+    d.style.animationDelay=(Math.random()*0.6)+'s';
+    box.appendChild(d);
+  }
+  setTimeout(function(){ box.innerHTML=''; }, 3800);
+}
 function showClass(cls){
   currentClass=cls; currentSubject=null;
   var _cn=uiLang==='sd' ? CLASS_NAMES_SD[cls] : CLASS_NAMES[cls];
   document.getElementById('classtitle').textContent=_cn+' \u2014 '+tr('chooseSubject');
-  document.getElementById('classtests').innerHTML=CLASS_SUBJECTS[cls].filter(function(s){
+  document.getElementById('classtests').innerHTML='<div class="subjgrid">'+CLASS_SUBJECTS[cls].filter(function(s){
     var n=subjectTestCount(cls,s);
     return n>0 || s==='English';
   }).map(function(s){
     var n=subjectTestCount(cls,s);
-    return '<button class="testbtn en" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+s+'<small>'+(n===0?'Study material':((uiLang==='sd'||uiLang==='ur')?n+' \u0679\u064a\u0633\u067d':n+(n===1?' test':' tests')))+'</small></button>';
-  }).join('')+'<p class="note">Only subjects with a test or study material are shown — more subjects will be added soon.</p>';
+    return '<button class="testbtn en subjcard" onclick="showSubject(\''+cls+'\',\''+s+'\')"><span class="subjicon">'+subjIcon(s)+'</span>'+s+'<small>'+(n===0?'Study material':((uiLang==='sd'||uiLang==='ur')?n+' \u0679\u064a\u0633\u067d':n+(n===1?' test':' tests')))+'</small></button>';
+  }).join('')+'</div>'+'<p class="note">Only subjects with a test or study material are shown — more subjects will be added soon.</p>';
   if(MOCKS[cls]){ var _mc=MOCKS[cls]; document.getElementById('classtests').innerHTML+='<button class="testbtn en" onclick="startMockTest(\''+cls+'\')">'+_mc.title+'<small>20 MCQs &middot; 10 minutes &middot; Practice Test</small><small>'+_mc.topic+'</small>'+lastTakenHtml('mock'+cls)+'</button><p class="note">'+tr('mockNote')+'</p>'; }
   document.getElementById('home').classList.add('hidden');
   document.getElementById('result').classList.add('hidden');
@@ -38180,7 +38256,7 @@ function submitTest(auto){
   const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=testInfo().dir;
   lastScore=score; lastTotal=qs.length;
   if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
-  document.getElementById('score').textContent=score+' / '+qs.length; const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); recordWeekTest(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)) _nb.classList.remove('hidden'); }
+  showScoreRing(score, qs.length); const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); recordWeekTest(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)){ _nb.classList.remove('hidden'); launchConfetti(); } }
   applyTargetOnSubmit(score, qs.length, testKey);
   document.getElementById('scorenote').textContent=(demoMode?tr('demoNote')+' ':(retryMode?(flagRevMode?tr('flagRevNote'):tr('retryNote')):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):''))))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(demoMode||retryMode||lastWrong.length===0)?'none':'block';
@@ -38220,7 +38296,7 @@ function downloadScoreCard(){
   var pct=Math.round(lastScore/lastTotal*100);
   var cv=document.createElement('canvas'); cv.width=900; cv.height=540;
   var ctx=cv.getContext('2d'); ctx.fillStyle='#ffffff'; ctx.fillRect(0,0,900,540);
-  ctx.fillStyle='#1a4d2e'; ctx.fillRect(0,0,900,110);
+  ctx.fillStyle='#123a5c'; ctx.fillRect(0,0,900,110);
   ctx.fillStyle='#ffffff'; ctx.font='700 34px sans-serif'; ctx.textAlign='center';
   ctx.fillText('GOVERNMENT BOYS LOWER SECONDARY SCHOOL', 450, 48);
   ctx.fillText('HASEEJA MAHAR', 450, 88);
@@ -38230,7 +38306,7 @@ function downloadScoreCard(){
   if(cur) lines.push(cur);
   var y=160; lines.forEach(function(l){ ctx.fillText(l, 450, y); y+=38; });
   ctx.font='26px sans-serif'; ctx.fillText(studentName, 450, y+20);
-  ctx.font='700 72px sans-serif'; ctx.fillStyle='#1a4d2e';
+  ctx.font='700 72px sans-serif'; ctx.fillStyle='#123a5c';
   ctx.fillText(lastScore+' / '+lastTotal, 450, y+110);
   ctx.font='30px sans-serif'; ctx.fillStyle='#222222';
   ctx.fillText(pct+'% correct', 450, y+160);
@@ -38336,7 +38412,7 @@ function renderCalendar(){
   for(var d=1; d<=dim; d++){
     var ds=y+'-'+String(m+1).padStart(2,'0')+'-'+String(d).padStart(2,'0');
     var practiced=!!days[ds];
-    cells+='<span style="display:inline-block;width:13%;text-align:center;border-radius:6px;'+(practiced?'background:#14532d;color:#fff;font-weight:700;':'')+(ds===today?'border:2px solid #14532d;':'')+'">'+d+'</span>';
+    cells+='<span style="display:inline-block;width:13%;text-align:center;border-radius:6px;'+(practiced?'background:#123a5c;color:#fff;font-weight:700;':'')+(ds===today?'border:2px solid #123a5c;':'')+'">'+d+'</span>';
   }
   box.innerHTML='<b>\uD83D\uDCC5 Practice calendar \u2014 '+months[m]+' '+y+'</b><div style="margin-top:6px">'+cells+'</div><p class="note" style="margin:4px 0 0">Green days = you practiced.</p>';
 }
@@ -38411,7 +38487,7 @@ function shareStreak(){
 // ---- Suggestions 4, 5, 6: progress bars, offline notice, weekly goal ----
 function scoreBars(h){
   return h.map(function(r){
-    return '<p class="note" style="margin:2px 0">'+r.d+': '+r.s+'/'+r.t+' ('+r.p+'%)</p><div style="background:#e5e7eb;border-radius:6px;height:12px;margin:2px 0 10px"><div style="background:#14532d;height:12px;border-radius:6px;width:'+r.p+'%"></div></div>';
+    return '<p class="note" style="margin:2px 0">'+r.d+': '+r.s+'/'+r.t+' ('+r.p+'%)</p><div style="background:#e5e7eb;border-radius:6px;height:12px;margin:2px 0 10px"><div style="background:#123a5c;height:12px;border-radius:6px;width:'+r.p+'%"></div></div>';
   }).join('');
 }
 function updateOfflineBanner(){
@@ -38450,7 +38526,7 @@ function renderGoal(){
   var box=document.getElementById('goalbox'); if(!box) return;
   var goal=getWeeklyGoal(); var done=countWeekTests();
   var pct=goal>0?Math.min(100, Math.round(done/goal*100)):0;
-  box.innerHTML='<b>\uD83C\uDFAF Weekly goal:</b> '+done+' / '+goal+' tests this week <input type="number" min="1" max="21" value="'+goal+'" onchange="setWeeklyGoal(this.value)" style="width:60px;padding:4px"> <div style="background:#e5e7eb;border-radius:6px;height:12px;margin-top:6px"><div style="background:#14532d;height:12px;border-radius:6px;width:'+pct+'%"></div></div>';
+  box.innerHTML='<b>\uD83C\uDFAF Weekly goal:</b> '+done+' / '+goal+' tests this week <input type="number" min="1" max="21" value="'+goal+'" onchange="setWeeklyGoal(this.value)" style="width:60px;padding:4px"> <div style="background:#e5e7eb;border-radius:6px;height:12px;margin-top:6px"><div style="background:#123a5c;height:12px;border-radius:6px;width:'+pct+'%"></div></div>';
 }
 
 // ---- Batch 6: streak, my results, install prompt, first guide, exam tidy-up ----
