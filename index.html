@@ -258,22 +258,26 @@ body.dark .exsyn{color:#93c5fd}
 <p class="note" data-i18n="classNote">Choose a subject, then pick a test.</p>
 <div id="classtests"></div>
 <button class="homebtn" onclick="backToClasses()" data-i18n="backClasses">Back to Classes</button>
+<button class="homebtn" onclick="goHome()">Homepage</button>
 </section>
 
 <section id="subjectpage" class="card hidden">
 <h2 id="subjecttitle">Choose a test</h2>
 <p class="note" data-i18n="subjectNote">Choose a test. Each test shows its own number of questions and timer.</p>
 <p class="note"><span data-i18n="modeLabel">Mode:</span> <button class="modebtn sel" id="modeTestBtn" onclick="setMode('test')" data-i18n="modeTest">Test</button> <button class="modebtn" id="modeLearnBtn" onclick="setMode('learn')" data-i18n="modeLearn">Learn</button></p>
+<div id="subjectguide"></div>
 <div id="subjecttests"></div>
 <div id="subjectmaterial"></div>
 <div id="mynotes"></div>
 <button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
+<button class="homebtn" onclick="goHome()">Homepage</button>
 </section>
 <section id="matpage" class="card hidden">
 <h2 id="mattitle">Study Material</h2>
 <p class="note"><input id="matSearchPage" type="text" oninput="filterMatPage()" placeholder="Search"></p>
 <div id="matcontent"></div>
 <button class="homebtn" onclick="backFromMatPage()">Back</button>
+<button class="homebtn" onclick="goHome()">Homepage</button>
 </section>
 
 <section id="myresults" class="card hidden">
@@ -312,6 +316,7 @@ body.dark .exsyn{color:#93c5fd}
 <button onclick="move(1)" data-i18n="next">Next</button>
 </div>
 <button class="submitbtn" onclick="submitTest(false)" data-i18n="submit">Submit Test</button>
+<button class="homebtn" onclick="goHomeFromTest()">Homepage</button>
 </section>
 
 <section id="result" class="card hidden">
@@ -37927,6 +37932,7 @@ function showSubject(cls, subj){
 }
 function renderTestList(cls, title, keys){
   var _sm=document.getElementById('subjectmaterial'); if(_sm) _sm.innerHTML='';
+  var _sg=document.getElementById('subjectguide'); if(_sg) _sg.innerHTML='';
   document.getElementById('subjecttitle').textContent=title+' \u2014 '+tr('chooseTest');
   document.getElementById('subjectback').textContent=tr('backSubjects');
   document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':keys.map(function(k){
@@ -38246,6 +38252,10 @@ function goHome(){
   var _ic=document.getElementById('installcard'); if(_ic) _ic.style.display='none';
   document.getElementById('home').classList.remove('hidden');
   navPush({view:'home'});
+}
+function goHomeFromTest(){
+  try{ savePausedState(); }catch(e){}
+  goHome();
 }
 function qotdPickForDate(y,m,d){ var all=[]; Object.keys(QUESTIONS).forEach(function(k){ QUESTIONS[k].questions.forEach(function(q,qi){ all.push({k:k, qi:qi, q:q}); }); }); var dayNum=Math.floor(new Date(y, m, d).getTime()/86400000); var pick=all[((dayNum % all.length)+all.length) % all.length]; return pick; }
 function qotdPick(){ var n=new Date(); return qotdPickForDate(n.getFullYear(), n.getMonth(), n.getDate()); }
@@ -38696,8 +38706,16 @@ tidyExamBits();
 showFirstGuideIfNeeded();
 handleDeepLink();
 // ---- Phone back button: one step back per press ----
-try{ if(window.history && history.replaceState){ history.replaceState({view:'home'}, ''); } }catch(e){}
 window.addEventListener('popstate', function(e){ navShow(e.state); });
+// Save an unfinished test when the page is closed or refreshed, so it can be resumed.
+window.addEventListener('beforeunload', function(){ try{ savePausedState(); }catch(e){} });
+// Stay on the same page after a refresh: the last navigation state survives a reload in this tab.
+try{
+  var _st = window.history && history.state;
+  var _dl = null; try{ _dl = new URLSearchParams(window.location.search).get('test'); }catch(e){}
+  if(_st && _st.view && _st.view !== 'home' && !_dl){ navShow(_st); }
+  else if(window.history && history.replaceState){ history.replaceState({view:'home'}, ''); }
+}catch(e){}
 </script>
 <script>
 if('serviceWorker' in navigator){ window.addEventListener('load', function(){ navigator.serviceWorker.register('sw.js').catch(function(){}); }); }

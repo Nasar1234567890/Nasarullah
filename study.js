@@ -112575,6 +112575,10 @@ function showNoteUnit(i){
   }
   filterMaterial();
 }
+function guideLabel(subj){
+  var base = String(subj || "").split(" \u2014 ")[0];
+  return "Guide / Complete Notes of " + base;
+}
 function renderSubjectMaterial(cls, subj){
   var box = document.getElementById("subjectmaterial");
   if(!box) return;
@@ -112592,12 +112596,22 @@ if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 
   matData = data;
   matSubj = subj;
   matCls = cls;
+  var _guideTab = null;
+  if(subj === "English"){
+    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+  } else {
+    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+    if((subj || "").indexOf("Sindhi") === 0 && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+    if(((subj || "") === "Asan Urdu" || (subj || "") === "Urdu Salees") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+    if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+  }
+  var _gb = document.getElementById("subjectguide");
+  if(_gb) _gb.innerHTML = _guideTab ? "<p><button class=\"modebtn\" onclick=\"openMatPage('exsolutions')\">" + escHtml(_guideTab[1]) + "</button></p>" : "";
   var html = "<h3>Study Material</h3>";
   if(subj === "English"){
     if(!data){ box.innerHTML = ""; return; }
     matTabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
     if(data.notes) matTabs.push(["notes", "Notes"]);
-    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi") && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
     matTabs.forEach(function(t){
       html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
     });
@@ -112605,10 +112619,6 @@ if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 
     return;
   }
   matTabs = [["definitions", "Definitions"], ["notes", "Notes"]];
-  if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
-  if((subj || "").indexOf("Sindhi") === 0 && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
-  if(((subj || "") === "Asan Urdu" || (subj || "") === "Urdu Salees") && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
-if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && data.exsolutions) matTabs.push(["exsolutions", "Exercise Solutions"]);
   matTabs.forEach(function(t){
     html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
   });
@@ -112639,7 +112649,8 @@ if((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0 && STU
   matExUnit = 0;
   matMathUnit = 0;
   var title = tab;
-  matTabs.forEach(function(t){ if(t[0] === tab) title = t[1]; });
+  if(tab === "exsolutions") title = guideLabel(s);
+  else matTabs.forEach(function(t){ if(t[0] === tab) title = t[1]; });
   var h = matSectionHtml(tab);
   var mp = document.getElementById("matpage");
   if(!mp) return;
