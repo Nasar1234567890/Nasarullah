@@ -177461,7 +177461,7 @@ if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0
   document.getElementById("matcontent").innerHTML = h;
   document.getElementById("matcontent").dir = (((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0)) && tab === "exsolutions") ? "rtl" : "ltr";
   document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees"));
-  document.getElementById("matcontent").classList.toggle("eng-guide", (s === "English" && tab === "exsolutions"));
+  document.getElementById("matcontent").classList.toggle("pro-guide", tab === "exsolutions");
   document.getElementById("subjectpage").classList.add("hidden");
   mp.classList.remove("hidden");
   window.scrollTo(0, 0);
@@ -177513,7 +177513,7 @@ if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0
   document.getElementById("matcontent").innerHTML = h;
   document.getElementById("matcontent").dir = ((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0)) ? "rtl" : "ltr";
   document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees"));
-  document.getElementById("matcontent").classList.toggle("eng-guide", s === "English");
+  document.getElementById("matcontent").classList.toggle("pro-guide", true);
   document.getElementById("subjectpage").classList.add("hidden");
   mp.classList.remove("hidden");
   window.scrollTo(0, 0);
@@ -177528,30 +177528,20 @@ function exUnitHtml(n){
   if(!u) return "<p class=\"note\">Exercise solutions for this unit will be added here.</p>";
   var html = "";
   var _sci = (((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0) && (matSubj || "").indexOf("Sindhi") >= 0);
-  var _eng = (matSubj === "English");
-  if(_eng && u.display) html += "<p class=\"eng-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
-  if(_eng){
-    html += "<div class=\"eng-toc\"><div class=\"eng-toc-title\">In this unit</div>";
-    (u.sections || []).forEach(function(sec, i){
-      var _cnt = 0; (sec.exercises || []).forEach(function(g){ _cnt += (g.items || []).length; });
-      html += "<button class=\"eng-toc-row\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\"><b>" + escHtml(sec.num) + "</b> " + escHtml(sec.name) + " \u2014 " + _cnt + " questions</button>";
-    });
-    if(u.words && u.words.length) html += "<button class=\"eng-toc-row\" onclick=\"jumpExWords(" + n + ")\"><b>Words</b> Difficult Words \u2014 " + u.words.length + " words</button>";
-    html += "</div>";
-  } else {
-    html += "<p class=\"note exnav\"><b>Jump to:</b> ";
-    (u.sections || []).forEach(function(sec, i){
-      html += "<button class=\"modebtn\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\">" + escHtml(sec.num) + "</button> ";
-    });
-    if(u.words && u.words.length) html += "<button class=\"modebtn\" onclick=\"jumpExWords(" + n + ")\">Words</button>";
-    html += "</p>";
-  }
+  if(matSubj === "English" && u.display) html += "<p class=\"pro-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
+  html += "<div class=\"pro-toc\"><div class=\"pro-toc-title\">In this unit</div>";
+  (u.sections || []).forEach(function(sec, i){
+    var _cnt = 0; (sec.exercises || []).forEach(function(g){ _cnt += (g.items || []).length; });
+    html += "<button class=\"pro-toc-row\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\"><b>" + escHtml(sec.num) + "</b> " + escHtml(sec.name) + " \u2014 " + _cnt + " questions</button>";
+  });
+  if(u.words && u.words.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExWords(" + n + ")\"><b>Words</b> Difficult Words \u2014 " + u.words.length + " words</button>";
+  html += "</div>";
   (u.sections || []).forEach(function(sec, i){
     html += "<div class=\"review\" id=\"ex-" + n + "-" + (i + 1) + "\"><div class=\"qq exsec\"><b><u>" + escHtml(sec.num) + " " + escHtml(sec.name) + "</u></b></div>";
     (sec.exercises || []).forEach(function(g){
       html += "<div class=\"exhead\"><b>" + escHtml(g.label) + "</b></div>";
       (g.items || []).forEach(function(it, qi){
-        html += "<p class=\"note" + (_eng ? " eng-q" : "") + "\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + (_sci ? chemHtml(it.q) : escHtml(it.q)) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note" + (_eng ? " eng-a" : "") + "\"><span class=\"exa\">Ans:</span> " + (_sci ? chemHtml(it.a) : escHtml(it.a)) + "</p>" + (it.da ? diagramSvg(it.da) : "");
+        html += "<p class=\"note pro-q\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + (_sci ? chemHtml(it.q) : escHtml(it.q)) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note pro-a\"><span class=\"exa\">Ans:</span> " + (_sci ? chemHtml(it.a) : escHtml(it.a)) + "</p>" + (it.da ? diagramSvg(it.da) : "");
       });
     });
     html += "</div>";
@@ -177559,17 +177549,15 @@ function exUnitHtml(n){
   if(u.words && u.words.length){
     var wordsTitle = ((matSubj || "").indexOf("Sindhi") === 0) ? "Difficult Words \u2014 Sindhi Meaning and Synonym" : (((matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees") ? "Difficult Words \u2014 Urdu Meaning and Synonym" : "Difficult Words \u2014 Sindhi Meaning and English Synonym");
     html += "<div class=\"review\" id=\"ex-" + n + "-words\"><div class=\"qq exsec\"><b><u>" + wordsTitle + "</u></b></div>";
-    if(_eng){
-      html += "<table class=\"eng-words\"><thead><tr><th>Word</th><th>Meaning</th><th>Sindhi meaning</th></tr></thead><tbody>";
-      u.words.forEach(function(w){
-        html += "<tr><td><b>" + escHtml(w.w) + "</b></td><td>" + escHtml(w.syn) + "</td><td class=\"sd\">" + escHtml(w.sd) + "</td></tr>";
-      });
-      html += "</tbody></table>";
-    } else {
-      u.words.forEach(function(w){
-        html += "<p class=\"note\"><span class=\"exword\">" + (_sci ? chemHtml(w.w) : escHtml(w.w)) + ":</span> " + (_sci ? chemHtml(w.sd) : escHtml(w.sd)) + " (<span class=\"exsyn\">" + (_sci ? chemHtml(w.syn) : escHtml(w.syn)) + "</span>)</p>";
-      });
-    }
+    var _enW = (matSubj === "English");
+    var _urduW = (matSubj === "Asan Urdu" || matSubj === "Urdu Salees");
+    var _h3 = _enW ? "Sindhi meaning" : ((_urduW || matSubj === "Sindhi") ? "Synonym" : "English");
+    html += "<table class=\"pro-words\"><thead><tr><th>Word</th><th>Meaning</th><th>" + _h3 + "</th></tr></thead><tbody>";
+    u.words.forEach(function(w){
+      var _m = _enW ? w.syn : w.sd, _x = _enW ? w.sd : w.syn;
+      html += "<tr><td><b>" + (_sci ? chemHtml(w.w) : escHtml(w.w)) + "</b></td><td>" + (_sci ? chemHtml(_m) : escHtml(_m)) + "</td><td" + (_enW ? " class=\"sd\"" : "") + ">" + (_sci ? chemHtml(_x) : escHtml(_x)) + "</td></tr>";
+    });
+    html += "</tbody></table>";
     html += "</div>";
   }
   return html;
@@ -177628,6 +177616,8 @@ if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0
   var si = document.getElementById("matSearchPage");
   if(si){ si.value = ""; try{ si.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
   document.getElementById("matcontent").innerHTML = h;
+  document.getElementById("matcontent").dir = "ltr";
+  document.getElementById("matcontent").classList.toggle("pro-guide", true);
   document.getElementById("subjectpage").classList.add("hidden");
   mp.classList.remove("hidden");
   window.scrollTo(0, 0);
@@ -178031,16 +178021,15 @@ function mathUnitHtml(n){
   mx.forEach(function(x){ if(x.unit === n) u = x; });
   if(!u) return "<p class=\"note\">Exercise solutions for this unit will be added here.</p>";
   var html = "";
-  html += "<p class=\"note exnav\"><b>Jump to:</b> ";
+  html += "<div class=\"pro-toc\"><div class=\"pro-toc-title\">In this unit</div>";
   (u.exercises || []).forEach(function(g, i){
-    var short = g.label.replace(/^Exercise\s+/, "").replace(/^Review Exercise$/, "Review");
-    html += "<button class=\"modebtn\" onclick=\"jumpMathEx(" + n + "," + (i + 1) + ")\">" + escHtml(short) + "</button> ";
+    html += "<button class=\"pro-toc-row\" onclick=\"jumpMathEx(" + n + "," + (i + 1) + ")\"><b>" + escHtml(g.label.replace(/^Exercise\s+/, "").replace(/^Review Exercise$/, "Review")) + "</b> \u2014 " + (g.items || []).length + " questions</button>";
   });
-  html += "</p>";
+  html += "</div>";
   (u.exercises || []).forEach(function(g, i){
     html += "<div class=\"review\" id=\"mx-" + n + "-" + (i + 1) + "\"><div class=\"exhead\"><b>" + escHtml(g.label) + "</b></div>";
     (g.items || []).forEach(function(it, qi){
-      html += "<p class=\"note\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + mathHtml(it.q) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note exans\"><span class=\"exa\">Ans:</span> " + mathHtml(it.a) + "</p>" + (it.da ? diagramSvg(it.da) : "");
+      html += "<p class=\"note pro-q\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + mathHtml(it.q) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note exans pro-a\"><span class=\"exa\">Ans:</span> " + mathHtml(it.a) + "</p>" + (it.da ? diagramSvg(it.da) : "");
     });
     html += "</div>";
   });
@@ -178134,7 +178123,7 @@ function filterMatPage(){
   if(!inp || !box) return;
   var q = inp.value.trim().toLowerCase();
   Array.prototype.forEach.call(box.children, function(ch){
-    if(ch.classList && (ch.classList.contains("exnav") || ch.classList.contains("eng-toc"))){ ch.style.display = ""; return; }
+    if(ch.classList && ch.classList.contains("pro-toc")){ ch.style.display = ""; return; }
     var show = !q || ch.textContent.toLowerCase().indexOf(q) > -1;
     ch.style.display = show ? "" : "none";
   });
