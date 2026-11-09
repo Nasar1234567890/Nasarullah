@@ -80,6 +80,9 @@ button{font:inherit;cursor:pointer}
 .calcfab.show{display:flex}
 .calcfab:active{transform:scale(0.97)}
 #test.hascalc{padding-bottom:84px}
+#topbtn{position:fixed;left:16px;bottom:16px;z-index:50;display:none;align-items:center;gap:6px;background:var(--navy);color:#fff;border:0;border-radius:999px;padding:12px 16px;font-size:15px;font-weight:800;box-shadow:0 4px 14px rgba(13,47,74,.35)}
+#topbtn.show{display:flex}
+#topbtn:active{transform:scale(0.97)}
 #qtext{font-size:21px;line-height:1.9;min-height:90px}
 .qmain{font-weight:700}
 .qinstr{font-weight:400;font-size:0.85em}
@@ -450,6 +453,7 @@ body.dark .exsyn{color:#93c5fd}
 <footer class="sitefooter">Developed by Sir Nasarullah Memon<br>Government Boys Lower Secondary School Haseeja Mahar</footer>
 </main>
 <div id="firstguide" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.55);z-index:99;align-items:center;justify-content:center"><div style="background:#fff;border-radius:14px;padding:20px;max-width:420px;margin:20px"><h2>Welcome! How to use this site</h2><ol class="note" style="line-height:1.8"><li>Type your name first.</li><li>Tap your class, then a subject, then a test.</li><li>Test mode has a timer and your score is sent to your teacher. Learn mode has no timer and is not recorded.</li><li>Your best score for each test is saved on this phone.</li></ol><button class="homebtn" onclick="dismissFirstGuide()">Got it</button></div></div>
+<button id="topbtn" onclick="scrollToTop()">↑ Top</button>
 <script>
 const QUESTIONS = {
  "viii": {
@@ -38196,6 +38200,8 @@ function updateCalc(){
 }
 function toggleCalc(){ var c=document.getElementById('calcbox'); var b=document.getElementById('calcbackdrop'); if(!c) return; var open=c.classList.toggle('open'); if(b) b.classList.toggle('open', open); }
 function closeCalc(){ var c=document.getElementById('calcbox'); var b=document.getElementById('calcbackdrop'); if(c) c.classList.remove('open'); if(b) b.classList.remove('open'); }
+function scrollToTop(){ window.scrollTo({top:0, behavior:'smooth'}); }
+window.addEventListener('scroll', function(){ var b=document.getElementById('topbtn'); if(!b) return; b.classList.toggle('show', window.scrollY>300); });
 function calcAppend(v){ var d=document.getElementById('calcDisplay'); if(!d) return; if(d.value==='Error') d.value=''; d.value+=v; }
 function calcClear(){ var d=document.getElementById('calcDisplay'); if(d) d.value=''; }
 function calcBack(){ var d=document.getElementById('calcDisplay'); if(d) d.value=d.value.slice(0,-1); }
