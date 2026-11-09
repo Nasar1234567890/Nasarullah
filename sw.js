@@ -1,3 +1,4 @@
+// v86 deploy trigger — English guides + Sindhi Maths
 /* Service worker for MCQ Tests — GB Lower Secondary School Haseeja Mahar.
    Lets students open and take tests offline once they have visited the site.
    Cache-first with background refresh for same-origin GET requests only;
