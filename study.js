@@ -177461,6 +177461,7 @@ if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0
   document.getElementById("matcontent").innerHTML = h;
   document.getElementById("matcontent").dir = (((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0)) && tab === "exsolutions") ? "rtl" : "ltr";
   document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees"));
+  document.getElementById("matcontent").classList.toggle("eng-guide", (s === "English" && tab === "exsolutions"));
   document.getElementById("subjectpage").classList.add("hidden");
   mp.classList.remove("hidden");
   window.scrollTo(0, 0);
@@ -177505,12 +177506,14 @@ if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0
   var ex = (data && data.exsolutions) || [];
   var u = null;
   ex.forEach(function(x){ if(x.unit === n) u = x; });
-  document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + "Unit " + n + (u ? " \u2014 " + (u.display || u.title) : "");
+  var _ut = u ? ((s === "English" && u.title) ? u.title : (u.display || u.title)) : "";
+  document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + "Unit " + n + (u ? " \u2014 " + _ut : "");
   var si = document.getElementById("matSearchPage");
   if(si){ si.value = ""; try{ si.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
   document.getElementById("matcontent").innerHTML = h;
   document.getElementById("matcontent").dir = ((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0)) ? "rtl" : "ltr";
   document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees"));
+  document.getElementById("matcontent").classList.toggle("eng-guide", s === "English");
   document.getElementById("subjectpage").classList.add("hidden");
   mp.classList.remove("hidden");
   window.scrollTo(0, 0);
@@ -177525,18 +177528,30 @@ function exUnitHtml(n){
   if(!u) return "<p class=\"note\">Exercise solutions for this unit will be added here.</p>";
   var html = "";
   var _sci = (((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0) && (matSubj || "").indexOf("Sindhi") >= 0);
-  html += "<p class=\"note exnav\"><b>Jump to:</b> ";
-  (u.sections || []).forEach(function(sec, i){
-    html += "<button class=\"modebtn\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\">" + escHtml(sec.num) + "</button> ";
-  });
-  if(u.words && u.words.length) html += "<button class=\"modebtn\" onclick=\"jumpExWords(" + n + ")\">Words</button>";
-  html += "</p>";
+  var _eng = (matSubj === "English");
+  if(_eng && u.display) html += "<p class=\"eng-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
+  if(_eng){
+    html += "<div class=\"eng-toc\"><div class=\"eng-toc-title\">In this unit</div>";
+    (u.sections || []).forEach(function(sec, i){
+      var _cnt = 0; (sec.exercises || []).forEach(function(g){ _cnt += (g.items || []).length; });
+      html += "<button class=\"eng-toc-row\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\"><b>" + escHtml(sec.num) + "</b> " + escHtml(sec.name) + " \u2014 " + _cnt + " questions</button>";
+    });
+    if(u.words && u.words.length) html += "<button class=\"eng-toc-row\" onclick=\"jumpExWords(" + n + ")\"><b>Words</b> Difficult Words \u2014 " + u.words.length + " words</button>";
+    html += "</div>";
+  } else {
+    html += "<p class=\"note exnav\"><b>Jump to:</b> ";
+    (u.sections || []).forEach(function(sec, i){
+      html += "<button class=\"modebtn\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\">" + escHtml(sec.num) + "</button> ";
+    });
+    if(u.words && u.words.length) html += "<button class=\"modebtn\" onclick=\"jumpExWords(" + n + ")\">Words</button>";
+    html += "</p>";
+  }
   (u.sections || []).forEach(function(sec, i){
     html += "<div class=\"review\" id=\"ex-" + n + "-" + (i + 1) + "\"><div class=\"qq exsec\"><b><u>" + escHtml(sec.num) + " " + escHtml(sec.name) + "</u></b></div>";
     (sec.exercises || []).forEach(function(g){
       html += "<div class=\"exhead\"><b>" + escHtml(g.label) + "</b></div>";
       (g.items || []).forEach(function(it, qi){
-        html += "<p class=\"note\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + (_sci ? chemHtml(it.q) : escHtml(it.q)) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note\"><span class=\"exa\">Ans:</span> " + (_sci ? chemHtml(it.a) : escHtml(it.a)) + "</p>" + (it.da ? diagramSvg(it.da) : "");
+        html += "<p class=\"note" + (_eng ? " eng-q" : "") + "\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + (_sci ? chemHtml(it.q) : escHtml(it.q)) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note" + (_eng ? " eng-a" : "") + "\"><span class=\"exa\">Ans:</span> " + (_sci ? chemHtml(it.a) : escHtml(it.a)) + "</p>" + (it.da ? diagramSvg(it.da) : "");
       });
     });
     html += "</div>";
@@ -177544,9 +177559,17 @@ function exUnitHtml(n){
   if(u.words && u.words.length){
     var wordsTitle = ((matSubj || "").indexOf("Sindhi") === 0) ? "Difficult Words \u2014 Sindhi Meaning and Synonym" : (((matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees") ? "Difficult Words \u2014 Urdu Meaning and Synonym" : "Difficult Words \u2014 Sindhi Meaning and English Synonym");
     html += "<div class=\"review\" id=\"ex-" + n + "-words\"><div class=\"qq exsec\"><b><u>" + wordsTitle + "</u></b></div>";
-    u.words.forEach(function(w){
-      html += "<p class=\"note\"><span class=\"exword\">" + (_sci ? chemHtml(w.w) : escHtml(w.w)) + ":</span> " + (_sci ? chemHtml(w.sd) : escHtml(w.sd)) + " (<span class=\"exsyn\">" + (_sci ? chemHtml(w.syn) : escHtml(w.syn)) + "</span>)</p>";
-    });
+    if(_eng){
+      html += "<table class=\"eng-words\"><thead><tr><th>Word</th><th>Meaning</th><th>Sindhi meaning</th></tr></thead><tbody>";
+      u.words.forEach(function(w){
+        html += "<tr><td><b>" + escHtml(w.w) + "</b></td><td>" + escHtml(w.syn) + "</td><td class=\"sd\">" + escHtml(w.sd) + "</td></tr>";
+      });
+      html += "</tbody></table>";
+    } else {
+      u.words.forEach(function(w){
+        html += "<p class=\"note\"><span class=\"exword\">" + (_sci ? chemHtml(w.w) : escHtml(w.w)) + ":</span> " + (_sci ? chemHtml(w.sd) : escHtml(w.sd)) + " (<span class=\"exsyn\">" + (_sci ? chemHtml(w.syn) : escHtml(w.syn)) + "</span>)</p>";
+      });
+    }
     html += "</div>";
   }
   return html;
@@ -178048,7 +178071,8 @@ function matSectionHtml(tab){
       var ex = data.exsolutions || [];
       if(ex.length){
         ex.forEach(function(u){
-          html += "<p><button class=\"modebtn\" onclick=\"openExUnit(" + (typeof u.unit === "string" ? "'" + u.unit + "'" : u.unit) + ")\">Unit " + u.unit + " \u2014 " + escHtml(u.display) + "</button></p>";
+          var _t = u.title || u.display, _d = u.display || "";
+          html += "<p><button class=\"modebtn\" onclick=\"openExUnit(" + (typeof u.unit === "string" ? "'" + u.unit + "'" : u.unit) + ")\">Unit " + u.unit + " \u2014 " + escHtml(_t) + ((_d && _d !== _t) ? "<br><small>" + escHtml(_d) + "</small>" : "") + "</button></p>";
         });
       } else {
         html = "<p class=\"note\">Exercise solutions for this subject will be added here.</p>";
@@ -178110,7 +178134,7 @@ function filterMatPage(){
   if(!inp || !box) return;
   var q = inp.value.trim().toLowerCase();
   Array.prototype.forEach.call(box.children, function(ch){
-    if(ch.classList && ch.classList.contains("exnav")){ ch.style.display = ""; return; }
+    if(ch.classList && (ch.classList.contains("exnav") || ch.classList.contains("eng-toc"))){ ch.style.display = ""; return; }
     var show = !q || ch.textContent.toLowerCase().indexOf(q) > -1;
     ch.style.display = show ? "" : "none";
   });
