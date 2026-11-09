@@ -36057,6 +36057,2090 @@ var STUDY = {
         "display": "دواسازي"
       }
     ],
+    "csExsolutions": [
+      {
+        "reading": "Problem Solving and Algorithm Designing",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(c) algorithm ✓ — Baking a cake follows a set of step-by-step instructions (a recipe), and a recipe is an algorithm.",
+                    "q": "To \"bake a cake\" is an example of: (a) problem (b) strategy (c) algorithm (d) solution"
+                  },
+                  {
+                    "a": "(d) identify and analyze the problem ✓ — The first step of the problem solving process is to define (identify) the problem.",
+                    "q": "To find a feasible solution to a problem, the first step is to: (a) establish starting point (b) find available solutions (c) create a strategy (d) identify and analyze the problem"
+                  },
+                  {
+                    "a": "(b) Algorithm ✓ — An algorithm is a set of instructions/steps/rules that are followed to solve a problem.",
+                    "q": "Step by step solution of a problem in simple language is called: (a) Problem Solving (b) Algorithm (c) Flowchart (d) Data Structure"
+                  },
+                  {
+                    "a": "(d) Flowchart ✓ — A flowchart is the physical (graphical) representation of the problem solving process.",
+                    "q": "__________ shows the logic of program graphically. (a) Data Structure (b) Graph (c) Algorithm (d) Flowchart"
+                  },
+                  {
+                    "a": "(c) Parallelogram ✓ — The parallelogram shape shows the input or output process.",
+                    "q": "__________ Symbol is used for input/output in flowchart. (a) Triangle (b) Square (c) Parallelogram (d) Oval"
+                  },
+                  {
+                    "a": "(b) Graph ✓ — The elements of a non-linear data structure like a graph are not connected in a sequence.",
+                    "q": "Elements of __________ data structure are not connected sequentially. (a) Array (b) Graph (c) Queue (d) Stack"
+                  },
+                  {
+                    "a": "(d) Tree ✓ — A tree represents data containing a hierarchical relationship between elements.",
+                    "q": "__________ stores data in hierarchal manner. (a) Stack (b) Queue (c) Array (d) Tree"
+                  },
+                  {
+                    "a": "(a) inserted ✓ — The term push is used to insert a new element into the stack.",
+                    "q": "When that data is Pushed in stack, it means that data is: (a) inserted (b) deleted (c) sorted (d) edited"
+                  },
+                  {
+                    "a": "(b) two nodes ✓ — In a binary tree each node can have a maximum of two children.",
+                    "q": "In binary tree, each child can have maximum: (a) one node (b) two nodes (c) three nodes (d) four nodes"
+                  },
+                  {
+                    "a": "(d) each and every element of the array ✓ — Traversal means accessing each and every element of the array.",
+                    "q": "Traversing an array means accessing: (a) first element (b) last element (c) any specific element (d) each and every element of the array"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "1.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Problem solving is a step-by-step process. There are four basic steps involved in finding a solution for a problem:\n1. Define the problem — define or identify the problem; it is the most difficult and the most important of all the steps. It involves diagnosing the situation so that the focus should be on the real problem and not on its symptoms.\n2. Generate alternative solutions — for any problem there are more solutions than the one thought of first; postpone the selection of one solution until several alternatives have been proposed.\n3. Evaluate and select an alternative — many alternative solutions should be generated before final evaluation; then the best one is selected.\n4. Implement and follow up on the solution — implement the best solution, track and measure the results and learn from the implementation.",
+                    "q": "Describe the steps involved in problem solving."
+                  },
+                  {
+                    "a": "The advantage of using an algorithm to solve a problem or make a decision is that it produces the best possible answer every time. This is useful in solutions where accuracy is required or where similar problems need to be solved more often. In many cases, computer programs can be developed with the help of this process; then data is entered in that program so that the algorithm can be executed to come up with the required solution. Algorithms also enable breaking down of problems and conceptualize solutions step-by-step, and they are defined as generic steps of instructions so they can be written in any programming language.",
+                    "q": "What are the advantages of developing algorithms?"
+                  },
+                  {
+                    "a": "Three advantages of designing flowcharts are:\n1. Flowcharts help in communicating the logic of a program to all others and make it easy to understand.\n2. It is a useful program document that is needed for various purposes like to know about program quickly or to modify program logic.\n3. The flowcharts act as a guide or blueprint during the coding of program.\n(Other advantages: a flowchart visualizes operations and the sequence of steps to perform them; it illustrates the logic to solve a problem before writing the full computer program; it shows all steps visually or graphically which is easy to understand in one look.)",
+                    "q": "List any three advantages of designing flowcharts."
+                  },
+                  {
+                    "a": "[[T]]S.No.|Tree|Graph;;1|Tree is a non-linear data structure used to represent data containing a hierarchical relationship between elements.|Graph is a non-linear data structure consisting of data elements (finite set) called nodes/vertices and edges that are lines that connect any two nodes in that graph.;;2|Tree represents its elements as nodes connected to each other by edges, with one root node which is the very first node in the tree.|In a graph each node can have any number of edges and there is no root or child node.;;3|If a node is connected to another node element, it is called a parent node and the connected node is called its child node.|In a graph a cycle can also be formed.;;4|A binary tree is a special data structure in which each node can have a maximum of two children.|Graphs are used to solve network problems, for example telephone networks and social networks like Facebook.[[/T]]",
+                    "q": "What is the difference between tree and graph data structure?"
+                  },
+                  {
+                    "a": "[[T]]S.No.|Stack|Queue;;1|Stack is a linear data structure which follows LIFO (Last In First Out) or FILO (First In Last Out) order.|Queue is a linear data structure which follows FIFO (First In First Out) method.;;2|Items may be added or removed only at the top of stack.|The element inserted first will be removed first.;;3|The term push is used to insert a new element into the stack and pop is used to remove an element from the stack.|The process to add an element into queue is called Enqueue and the process to remove an element from queue is called Dequeue.;;4|Insertion and removal can be done at one end called top. Stack is in overflow state when it is completely full and in underflow state if it is completely empty.|Deletions take place at one end called front or head and insertions take place only at the other end called rear or tail.;;5|Example: plates stacked in the canteen — the plate at the top most is the first one to be removed.|Example: any queue of students in school or people in cinema where one who comes first gets the ticket first.[[/T]]",
+                    "q": "What is the difference between queue and stack data structure?"
+                  },
+                  {
+                    "a": "Each location of an element in an array has a numerical value called index, which is used to identify the element. The set of indexes in an array are consecutive numbers. For example, in Fig. 1.5 the array U B F D A E C has indexes 0 1 2 3 4 5 6, so the element at index 3 is D and the element at index 0 is U.",
+                    "q": "What is the need of index in an array?"
+                  },
+                  {
+                    "a": "Push: the term push is used to insert a new element into the stack. Insertion can be done only at one end called top (see Fig. 1.3: Stack (Push-Pop)).\nPop: the term pop is used to remove an element from the stack. Removal can also be done only at the top.\nOverflow: stack is in overflow state when it is completely full. In overflow state we cannot add an item.\n(Underflow: stack is in underflow state if it is completely empty; in underflow state we cannot remove an item from it.)\nEnqueue: the process to add an element into queue is called Enqueue. Insertions take place only at the end called rear or tail (see Fig. 1.4: Queue).\nDequeue: the process to remove an element from queue is called Dequeue. Deletions take place at the end called front or head.\n(Sketch: a stack is drawn as a column of boxes with an arrow pushing a box in at the top and an arrow popping a box out at the top; a queue is drawn as a row of boxes with Enqueue at the back and Dequeue at the front.)",
+                    "q": "With the help of a sketch define: Push, Pop, Overflow and Enqueue, Dequeue."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "1.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Problem solving is the process of finding solutions of difficult or complex issues. It is the process by which any kind of problem is solved.",
+                    "q": "Define problem solving."
+                  },
+                  {
+                    "a": "A problem is a situation preventing something from being achieved. In simple language, a problem is a question which requires an answer or a solution. In any case, a problem is considered to be a matter which is difficult to solve or settle, a doubtful case, or a complex task involving doubt and uncertainty.",
+                    "q": "What is a problem?"
+                  },
+                  {
+                    "a": "No. A computer is not intelligent. It cannot analyze a problem and come up with a solution. A human (the programmer) must analyze the problem, develop the instructions for solving the problem, and then make the computer carry out the instructions.",
+                    "q": "Can a computer analyse a problem and come up with a solution by itself?"
+                  },
+                  {
+                    "a": "They should first understand how a human solves a problem, then understand how to translate this solution into something a computer can understand, and finally how to \"write\" the specific steps to get the job done.",
+                    "q": "What should computer science students first understand before solving problems with computers?"
+                  }
+                ],
+                "label": "Problem Solving"
+              },
+              {
+                "items": [
+                  {
+                    "a": "There are four basic steps: 1. Define the problem. 2. Generate alternative solutions. 3. Evaluate and select an alternative. 4. Implement and follow up on the solution.",
+                    "q": "How many basic steps are involved in finding a solution for a problem? Name them."
+                  },
+                  {
+                    "a": "Defining or identifying the problem — the first step — is the most difficult and the most important of all the steps.",
+                    "q": "Which step of problem solving is the most difficult and the most important?"
+                  },
+                  {
+                    "a": "The selection of one solution should be postponed until several problem-solving alternatives have been proposed. It is best to develop a list of all feasible solutions that can be assessed and decide which one will be the best for the particular problem.",
+                    "q": "What should be done before selecting one solution to a problem?"
+                  },
+                  {
+                    "a": "Alternatives are evaluated as they are proposed, so the first acceptable solution is chosen, even if it is not the best solution. If we just focus on trying to get the results we want, we can miss the chances for learning something new which is required for real improvement in the problem-solving process.",
+                    "q": "What is a common mistake in problem solving?"
+                  }
+                ],
+                "label": "Problem Solving Process"
+              },
+              {
+                "items": [
+                  {
+                    "a": "An algorithm is a set of instructions/steps/rules that are followed to solve a problem. It is a tool for solving a well-specified computational problem.",
+                    "q": "Define an algorithm."
+                  },
+                  {
+                    "a": "It takes search strings of keywords and operators as input, searches its associated database for relevant web pages, and returns results.",
+                    "q": "How does a search engine algorithm work?"
+                  },
+                  {
+                    "a": "We follow a daily routine after waking up in the morning; we follow a set of instructions while driving a car; we follow recipes in cooking food or making tea.",
+                    "q": "Give three examples of algorithms we follow in daily life."
+                  },
+                  {
+                    "a": "Pseudocode and flowcharts.",
+                    "q": "What are the two common methods to express algorithm designs?"
+                  },
+                  {
+                    "a": "Input and output should be defined precisely; each step in the algorithm should be clear and unambiguous; algorithms are supposed to be most effective among many different ways to solve a problem; an algorithm should not include computer code — instead it should be written in such a way that it can be used in different programming languages.",
+                    "q": "State any two qualities of a good algorithm."
+                  },
+                  {
+                    "a": "Algorithm 1: Making a cup of tea\nStep 1: Start\nStep 2: Place the fresh water in a pot or a kettle.\nStep 3: Boil the water.\nStep 4: Put the black tea leaves in that pot.\nStep 5: After that add some milk into that pot.\nStep 6: Add some sugar.\nStep 7: Boil for some time.\nStep 8: Stop",
+                    "q": "Write the algorithm for making a cup of tea."
+                  }
+                ],
+                "label": "Algorithm"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Algorithm 2: Sum of two numbers\nStep 1: Start\nStep 2: Declare variables num1, num2 and sum.\nStep 3: Read values num1 and num2.\nStep 4: Add num1 and num2 and assign the result to sum.\nsum = num1 + num2\nStep 5: Display sum\nStep 6: Stop",
+                    "q": "Write the algorithm to find the sum of two numbers."
+                  },
+                  {
+                    "a": "Algorithm 3: Average of three numbers\nStep 1: Start\nStep 2: Declare variables num1, num2, num3 and avg.\nStep 3: Read values num1, num2 and num3.\nStep 4: Apply formula {Average = Sum / No. of values}\navg = (num1 + num2 + num3) / 3\nStep 5: Display avg\nStep 6: Stop",
+                    "q": "Write the algorithm to find the average of three numbers."
+                  },
+                  {
+                    "a": "Algorithm 4: Volume of a box\nStep 1: Start\nStep 2: Declare variables length, width, height and volume.\nStep 3: Read values length, width and height.\nStep 4: Apply formula {Volume = length x width x height}\nvolume = length x width x height\nStep 5: Display volume\nStep 6: Stop",
+                    "q": "Write the algorithm to find the volume of a box."
+                  },
+                  {
+                    "a": "Algorithm 5: Percent Calculate\nStep 1: Start\nStep 2: Declare variables part, total and percentage.\nStep 3: Read values part and total.\nStep 4: Apply formula {Percentage = (part / total) x 100}\npercentage = (part / total) x 100\nStep 5: Display percentage\nStep 6: Stop",
+                    "q": "Write the algorithm to calculate percentage."
+                  }
+                ],
+                "label": "Algorithm Examples"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The flowchart is the physical representation of problem solving process. It is used to show the sequence of steps and logic of solution for a problem, before writing the full computer program. It also helps in communicating the steps of the solution to others by using different symbols.",
+                    "q": "Define a flowchart."
+                  },
+                  {
+                    "a": "The oval shape. It is used to show the start and end of a program or flowchart sequence.",
+                    "q": "Which flowchart symbol is used for Start/Stop? Describe it."
+                  },
+                  {
+                    "a": "The arrow shape. It shows direction of flow from one step or box to another.",
+                    "q": "Which flowchart symbol shows the direction of flow?"
+                  },
+                  {
+                    "a": "The rectangle shape. This rectangle shape indicates any type of internal operation or process, usually one step. The step is written inside the box. Only one arrow goes out of the box.",
+                    "q": "Which flowchart symbol is used for a process? Describe it."
+                  },
+                  {
+                    "a": "The parallelogram shape. It shows the input or output process. It is used for any Input / Output (I/O) operation and indicates that the computer is to obtain data or output results.",
+                    "q": "Which flowchart symbol is used for input/output? Describe it."
+                  }
+                ],
+                "label": "Flowchart"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The diamond shape. It shows decision based on a condition written in the diamond. Two arrows go out of the diamond. One directs toward path if condition is true and other for false. We can also use yes/no in place of true/false.",
+                    "q": "Which flowchart symbol is used for a decision/condition? Describe it."
+                  },
+                  {
+                    "a": "It takes three numbers as input, calculates sum and percentage. If percentage is above 70 then prints \"Well done\", otherwise \"Work hard\".\nStart → Input x,y,z → Sum = x+y+z → Percent = Sum/300 * 100 → If percent > 70? Yes → Print \"Well done\"; No → Print \"Work hard\" → Stop.",
+                    "q": "Describe the sample flowchart given in Fig. 1.2."
+                  },
+                  {
+                    "a": "Main use of a flowchart is to visualize operations and sequence of steps to perform them. It illustrates the logic to solve a problem, before writing the full computer program. It shows all steps visually or graphically which is easy to understand in one look and also helps to describe program flow to others. It also helps programmers when we modify or extend program.",
+                    "q": "State the importance of a flowchart for solving a problem."
+                  }
+                ],
+                "label": "Flowchart Symbols and Importance"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Algorithm is step by step solution of a problem; in algorithm text is used. Flowchart is a diagram of different shapes which shows flow of data through processing system; in flowchart, symbols or shapes are used.",
+                    "q": "How do an algorithm and a flowchart differ in the way they represent a solution?"
+                  },
+                  {
+                    "a": "Algorithm is easy to debug; flowchart is difficult to debug. Flowchart is easy to construct and understand; algorithm is difficult to write and understand.",
+                    "q": "Which is easy to debug — algorithm or flowchart? Which is easy to construct and understand?"
+                  },
+                  {
+                    "a": "Flowchart follows rules for its construction; algorithm does not follow any rules. Algorithm is the pseudo code of the program; flowchart is just graphical or visual representation of program logic.",
+                    "q": "Which of algorithm and flowchart follows rules for its construction? What is an algorithm called in relation to a program?"
+                  }
+                ],
+                "label": "Algorithm vs Flowchart"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A data structure is a particular way of organizing data in a computer to use it effectively. For example, array data structure is used to store a list of items having the same data-type.",
+                    "q": "Define a data structure."
+                  },
+                  {
+                    "a": "In Linear Data Structure data elements are arranged in sequential order and each of the elements is connected to its previous and next element. This structure helps to convert a linear data structure in a single level and in single run. They are easy to implement as computer memory is also in a sequential form. Linear data structures are not efficient in memory utilization. Examples of linear data structures are Stack, Queue, Array etc.",
+                    "q": "What is a linear data structure? Give examples."
+                  },
+                  {
+                    "a": "The elements of a non-linear data structure are not connected in a sequence. Each element can have multiple paths to connect to other elements. They support multi-level storage and often cannot be traversed in single run. Such data structures are difficult to implement but are more efficient in utilizing computer memory. Examples of non-linear data structures are Tree, Graphs etc.",
+                    "q": "What is a non-linear data structure? Give examples."
+                  }
+                ],
+                "label": "Data Structure"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Stack is a linear data structure which follows a particular order to perform different operations. Items may be added or removed only at the top of stack. The order may be LIFO (Last In First Out) or FILO (First In Last Out). The data which is placed first is removed in last and which is placed last is removed first.",
+                    "q": "Define a stack. What do LIFO and FILO stand for?"
+                  },
+                  {
+                    "a": "Push is used to insert a new element into the stack and pop is used to remove an element from the stack. Insertion and removal can be done at one end called top. Stack is in overflow state when it is completely full and is in underflow state if it is completely empty. In overflow state we cannot add an item and in underflow state we cannot remove an item from it.",
+                    "q": "What are push, pop, overflow and underflow in a stack?"
+                  },
+                  {
+                    "a": "A Queue is a linear data structure which follows a particular order in which operations are performed in FIFO (First In First Out) method, which means that element inserted first will be removed first.",
+                    "q": "Define a queue. What does FIFO stand for?"
+                  },
+                  {
+                    "a": "Example of a queue is any queue of students in school or people in cinema where one who comes first gets the ticket first. Deletions take place at one end called front or head and insertions take place only at the other end called rear or tail.",
+                    "q": "Give an example of a queue. At which ends do insertion and deletion take place in a queue?"
+                  },
+                  {
+                    "a": "Array is a linear data structure, which holds a list of finite data elements of same data type. Each element of array is referenced by a set of index of consecutive numbers. The elements of array are stored in successive memory locations. Element: each item stored in an array is called an element. Index: each location of an element in an array has a numerical value called index, which is used to identify the element.",
+                    "q": "Define an array. What is an element and what is an index?"
+                  }
+                ],
+                "label": "Stack, Queue and Array"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Tree is a non-linear data structure used to represent data containing a hierarchical relationship between elements. Tree represents its elements as the nodes connected to each other by edges. In each tree collection, we have one root node, which is the very first node in our tree. If a node is connected to another node element, it is called a parent node and the connected node is called its child node. A binary tree (or binary search tree) is a special data structure used to store data in which each node can have a maximum of two children.",
+                    "q": "Define a tree data structure. What is a binary tree?"
+                  },
+                  {
+                    "a": "A graph is a non-linear data structure consisting of data elements (finite set) called nodes/vertices and edges that are lines that connect any two nodes in that graph. Each element or node can contain information like roll number, name of student, marks, etc. In graph each node can have any number of edges, there is no any node called root or child. A cycle can also be formed.",
+                    "q": "Define a graph data structure."
+                  },
+                  {
+                    "a": "1. Undirected Graph: In an undirected graph, nodes are connected by edges that are all bidirectional. For example if an edge connects node 1 and 2, we can traverse from node 1 to node 2, and from node 2 to 1.\n2. Directed Graph: In a directed graph, nodes are connected by directed edges — they only go in one direction. For example, if an edge connects node 1 and 2, but the arrow head points towards 2, we can only traverse from node 1 to node 2 — not in the opposite direction.",
+                    "q": "Name the two types of graphs and define each."
+                  }
+                ],
+                "label": "Tree and Graph"
+              }
+            ],
+            "name": "Additional Questions",
+            "num": "1.3"
+          }
+        ],
+        "title": "Problem Solving and Algorithm Designing",
+        "unit": 1,
+        "words": [],
+        "display": "Problem Solving and Algorithm Designing"
+      },
+      {
+        "reading": "Basics of Programming in C++",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(b) Instructions ✓ — A computer program is a collection of instructions that can be executed by a computer to perform a specific task.",
+                    "q": "A computer program is a collection of: a. Tasks b. Instructions c. Computers d. Programmers"
+                  },
+                  {
+                    "a": "(a) Easily readable by humans ✓ — High-level languages are closer to human languages than machine-level languages.",
+                    "q": "High-level languages have syntax that is: a. Easily readable by humans b. Easily readable by machines c. Easily readable by both d. None of the above"
+                  },
+                  {
+                    "a": "(b) Easily readable by machines ✓ — Low-level languages are easy for machines to read and hard for humans.",
+                    "q": "Low-level languages have syntax that is: a. Easily readable by humans b. Easily readable by machines c. Easily readable by both d. None of the above"
+                  },
+                  {
+                    "a": "(d) Translate codes all at once ✓ — A compiler translates high-level code to lower-level code all at once and creates an executable file.",
+                    "q": "The primary characteristic of a compiler is to: a. Translate codes line-by-line b. Translate low-level code to machine language c. Detect logical errors d. Translate codes all at once"
+                  },
+                  {
+                    "a": "(a) Translate codes line-by-line ✓ — An interpreter translates the code line by line and reports the error as soon as it is encountered.",
+                    "q": "The primary characteristic of an interpreter is to: a. Translate codes line-by-line b. Translate low-level code to machine language c. Detect logical errors d. Translate codes all at once"
+                  },
+                  {
+                    "a": "(d) All of the above ✓ — An IDE facilitates a programmer to edit source code, complete and highlight syntaxes, and debug and compile codes.",
+                    "q": "An Integrated Development Environment facilitates a programmer to: a. Edit source code b. Complete and highlight syntaxes c. Debug and compile codes d. All of the above"
+                  },
+                  {
+                    "a": "(d) Logical Errors ✓ — Logical errors provide incorrect output but appear to be error free, so they are noticed (detected) by the user when the result is wrong; syntax errors are caught by the compiler/IDE and run-time errors crash the program.",
+                    "q": "All errors, detected by users are typically: a. Syntax Errors b. Semantic Errors c. Run- Time Errors d. Logical Errors"
+                  },
+                  {
+                    "a": "(c) Can contain letters, digits and underscores ✓ — Names can contain letters, digits and underscores and must begin with a letter or an underscore.",
+                    "q": "Allowed names for declaring a variable: a. Can contain whitespaces b. Can be one of the reserved words c. Can contain letters, digits and underscores d. Can be the same as its data type"
+                  },
+                  {
+                    "a": "(c) True or false ✓ — A bool data type stores 0 (false) or 1 (true). (Note: in the book the last option is misprinted as \"c.\" again instead of \"d.\")",
+                    "q": "A bool data can store following type of value: a. Numbers b. Strings c. Fractional numbers c. True or false"
+                  },
+                  {
+                    "a": "(d) Double floating point ✓ — double is 8 bytes, the largest of the basic types in the table (bool 1 byte, char 1 byte, int 4 bytes, float 4 bytes).",
+                    "q": "Which data type occupies the most space in memory? a. Character b. Integer c. Floating point d. Double floating point"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "2.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "A computer program is a set of instructions that is understood by a computer to perform tasks. It is a collection of instructions that can be executed by a computer to perform a specific task. A person who writes computer programs is known as a programmer.",
+                    "q": "What is computer program?"
+                  },
+                  {
+                    "a": "Five high-level languages named in this unit are:\n1. C++ — a general-purpose high-level programming language, developed as an enhancement of the C language to include object-oriented concept; it is used for low-level programming (drivers, kernels) and even higher-level applications (games, GUI, desktop apps etc.).\n2. Java — a language like C++ used to communicate with computers to perform a set of specific tasks.\n3. Python — a language like C++ used to communicate with computers to perform a set of specific tasks.\n4. C — the language of which C++ is an enhancement; the basic syntax and code structure of both C and C++ are the same.\n5. PHP — one of the languages supported by multiple-language IDEs such as Eclipse and Visual Studio Code.\n(Note: the book names these languages but does not describe the purpose of each of them in detail.)",
+                    "q": "List five common high-level languages used and describe their purpose."
+                  },
+                  {
+                    "a": "Ten meaningful and valid variable names (following the rules: begin with a letter or an underscore, contain only letters, digits and underscores, are case sensitive, are not reserved words, and are not longer than 32 characters):\n1. studentName\n2. totalMarks\n3. firstName\n4. lastName\n5. average\n6. myVar\n7. age\n8. _count\n9. marks1\n10. price2",
+                    "q": "Using the rules of naming variable, develop ten meaningful and valid variable names."
+                  },
+                  {
+                    "a": "[[T]]S.No.|Machine Language|Assembly Language;;1|Machine-level language comes at the lowest level in the hierarchy, so it has direct access to the hardware.|Assembly language comes above the machine language, so it has lesser access to hardware.;;2|It is written in binary digits, i.e., 0 and 1, and cannot be easily understood by humans.|It is written in simple English language, so it is easily understandable by the users and is easy to read, write, and maintain by humans.;;3|It does not require any translator as the machine code is directly executed by the computer.|In assembly language, the assembler is required to convert the assembly code into machine code.;;4|Machine language is the first-generation programming language.|Assembly language is a second-generation programming language.[[/T]]",
+                    "q": "Write any two differences between machine and assembly language."
+                  },
+                  {
+                    "a": "Variables that can store non-numerical values that are longer than one single character are known as strings. The C++ language library provides support for strings through the standard string class. This is not a fundamental type, but it behaves in a similar way as fundamental types do in its most basic usage. Strings can be declared without an initial value and can be assigned values during execution.",
+                    "q": "What are Strings in C++?"
+                  },
+                  {
+                    "a": "Declaring a variable: a variable declaration tells the compiler where and how much storage to create for the variable. It specifies a data type and name for that variable. Syntax: data_type variable_name;\nInitializing a variable: variables can be initialized (assigned an initial value) in their declaration. The initializer consists of an equal sign followed by a constant expression. Syntax: data_type variable_name = value; The equal sign is used to assign values to the variable. (Variables do not require to be assigned initial values; they may be assigned a value within the instructions of the program.)",
+                    "q": "What is the difference between declaring and initializing a variable?"
+                  },
+                  {
+                    "a": "Source code is a program written in any language (high-level or low-level). To convert the source code into machine code, translators are needed. The translator takes a program written in source language as input and converts it into a program in target machine language as output. So the machine code produced by the translator — the form the computer can directly execute — is the object code. (Note: the book uses the term \"machine code\" for this; it does not use the term \"object code\".)",
+                    "q": "What is the difference between source code and object code?"
+                  },
+                  {
+                    "a": "Four advantages (key benefits) of using an IDE are:\n1. It serves as a single environment for most of a developer's needs such as compilation, linking, loading, and debugging tools.\n2. Code completion capabilities improve programming workflow.\n3. It automatically checks for errors to ensure top quality code.\n4. Refactoring capabilities allow developers to make comprehensive and mistake-free renaming changes.\n(Other benefits: IDEs provide interfaces to write code, organize text groups, and automate programming tools; most IDEs come with built-in translators; if any bugs or errors are found, users are shown which parts of code have problems.)",
+                    "q": "List any four advantages of using an IDE."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "2.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "A computer program is a set of instructions that is understood by a computer to perform tasks. A person who writes computer programs is known as a programmer.",
+                    "q": "Define a computer program. Who is called a programmer?"
+                  },
+                  {
+                    "a": "Syntax tells the computer how to read a set of code. It is essentially a set of keywords and characters that a computer can read, interpret, and convert into tasks needed.",
+                    "q": "What is syntax in a programming language?"
+                  },
+                  {
+                    "a": "cout << \"Hello World\"; — In C++, this syntax displays the message \"Hello World\" on the screen.",
+                    "q": "Give an example of C++ syntax and state what it does."
+                  },
+                  {
+                    "a": "Syntax plays an important role in the execution of programs in text-based programming languages and can even cause syntax errors if a programmer tries to run a program without using proper syntax. It is very common for new programmers to make syntax-based mistakes.",
+                    "q": "What happens if a programmer runs a program without using proper syntax?"
+                  },
+                  {
+                    "a": "Text-based computer languages are based on sequences of characters, while visual programming languages like Visual Basic are based on the layout and connections between symbols (which may be textual or graphical).",
+                    "q": "What is the difference between text-based and visual programming languages?"
+                  }
+                ],
+                "label": "Computer Program and Syntax"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Based on the accessibility of hardware, programming languages can be classified into three categories: 1. Low-level language 2. Middle-level language 3. High-level language.",
+                    "q": "Into how many categories can programming languages be classified? Name them."
+                  },
+                  {
+                    "a": "The low-level language is a programming language that can directly access and communicate with the hardware, and it is represented in 0 or 1 forms, which are the machine instructions. The languages that come under this category are the Machine level language and Assembly language.",
+                    "q": "What is a low-level language? Which languages come under this category?"
+                  },
+                  {
+                    "a": "The machine-level language comes at the lowest level in the hierarchy, so it has direct access to the hardware. It cannot be easily understood by humans. It is written in binary digits, i.e., 0 and 1. It does not require any translator as the machine code is directly executed by the computer. Machine language is the first-generation programming language.",
+                    "q": "Describe the machine-level language."
+                  },
+                  {
+                    "a": "The assembly language comes above the machine language, which means that it has lesser access to hardware. It is easy to read, write, and maintain by humans. It is written in simple English language, so it is easily understandable by the users. In assembly language, the assembler is required to convert the assembly code into machine code. It is a second-generation programming language.",
+                    "q": "Describe the assembly language."
+                  },
+                  {
+                    "a": "The high-level languages brought revolution in programming world. They allow a programmer to write the programs which are independent of a particular type of computer. These languages are closer to human languages than machine-level languages. They do not have direct access to the hardware, therefore a translator (compiler or interpreter) is required to translate a high-level language into a low-level language.",
+                    "q": "Describe a high-level language."
+                  }
+                ],
+                "label": "Classification of Programming Languages"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Advantages of high-level languages: 1. The high-level language is easy to read, write, and maintain as it is written in English like words. 2. The high-level language is portable as opposed to low-level languages; i.e., these languages are not dependent on the machine.",
+                    "q": "State two advantages of high-level languages."
+                  },
+                  {
+                    "a": "[[T]]Low-level language|High-level language;;It is a machine-friendly language, i.e., the computer understands the machine language, which is represented in 0 or 1.|It is a user-friendly language as this language is written in simple English words, which can be easily understood by humans.;;It requires the assembler to convert the assembly code into machine code.|It requires the compiler or interpreter to convert the high-level language instructions into machine code.;;One type of machine code cannot run on all machines, so it is not a portable language.|The high-level code can be translated to required machine-code, so it is a portable language.;;It has direct access to memory.|It is less memory efficient.;;Coding and maintenance are not easy in a low-level language.|Coding and maintenance are easier in a high-level language.[[/T]]",
+                    "q": "Write the differences between low-level language and high-level language."
+                  }
+                ],
+                "label": "Low-Level vs High-Level Languages"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Computers only understand machine code (binary). A program written in any language is called as source code. To convert the source code into machine code, translators are needed.",
+                    "q": "What is source code? Why are translators needed?"
+                  },
+                  {
+                    "a": "A translator takes a program written in source language as input and converts it into a program in target machine language as output. It also detects and reports the error during translation.",
+                    "q": "What does a translator do?"
+                  },
+                  {
+                    "a": "Roles of translator are: 1. Translating the program input into an equivalent machine language program. 2. Providing alert messages wherever the programmer does not follow the rules of syntax of source language.",
+                    "q": "What are the roles of a translator?"
+                  },
+                  {
+                    "a": "A compiler is a translator used to convert high-level programming language to low-level programming language. Compiler takes time to do its work as it translates high-level code to lower-level code all at once and creates an executable file. This translated program can be used again and again without the need for recompilation from source code. It converts the whole program in one session and reports errors detected after the conversion.",
+                    "q": "What is a compiler?"
+                  },
+                  {
+                    "a": "Interpreter is also a translator used to convert high-level programming language to low-level programming language. However, interpreter translates the code line by line and reports the error as soon as it is encountered during the translation process. With interpreter, it is easier to detect errors in source code than in a compiler. An interpreter is faster than a compiler as it immediately executes the code upon reading the code. Interpreters do not create an executable file, so the interpreter translates the source code from the beginning every time it is executed.",
+                    "q": "What is an interpreter?"
+                  },
+                  {
+                    "a": "An assembler is a translator used to translate assembly language to machine language. It is like a compiler for the assembly language but interactive like an interpreter. An assembler translates assembly language code to an even lower-level language, which is the machine code. The machine code can be directly understood by the CPU.",
+                    "q": "What is an assembler?"
+                  }
+                ],
+                "label": "Translators"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Errors are the problems or the faults that occur in the program which cause the program to behave abnormally. Programming errors often remain undetected until the program is compiled or executed. Some of the errors prohibit the program from getting compiled or executed. Thus, errors should be removed before compiling and executing.",
+                    "q": "What are errors in a program?"
+                  },
+                  {
+                    "a": "Syntax error occurs when the code does not follow the syntax rules of the programming language. These can be mistakes such as misspelled keywords, a missing punctuation character, a missing bracket, or a missing closing parenthesis. If you try to execute a program that includes syntax errors, you will get error messages on your screen and the program will not be executed.",
+                    "q": "What is a syntax error? Give examples."
+                  },
+                  {
+                    "a": "Errors which occur during program execution (run-time) after successful compilation are called run-time errors. A run-time error occurs when a program is asked to do something that it cannot perform, resulting in a 'crash'. The widely used example of a run time error is asking a program to divide by 0.",
+                    "q": "What is a run-time error? Give an example."
+                  },
+                  {
+                    "a": "Logic errors are those errors that prevent your program from doing what you expected it to do. On compilation and execution of a program, desired output is not obtained when certain input values are given. These types of errors which provide incorrect output but appear to be error free are called logical errors. These are one of the most common errors done by beginner programmers.",
+                    "q": "What is a logic error? Give an example."
+                  },
+                  {
+                    "a": "For example, consider a program that prompts the user to enter three numbers, and then calculates and displays their average value. The programmer, however, made a logic error; one of its statements divides the sum of the three numbers by 5, and not by 3 as it should. The program will execute as usual, without any error messages, prompting the user to enter three numbers and displaying a result, but not the correct one.",
+                    "q": "Explain a logic error with an example."
+                  }
+                ],
+                "label": "Types of Errors"
+              },
+              {
+                "items": [
+                  {
+                    "a": "An IDE (Integrated Development Environment) is a program that facilitates writing, compiling and executing codes. On a more basic level, IDEs provide interfaces for users to write code, organize text groups, and automate programming tools. Instead of a simple plain-text editor, IDEs combine the functionality of multiple programming processes into one. Most IDEs come with built-in translators.",
+                    "q": "What is an IDE?"
+                  },
+                  {
+                    "a": "Some IDEs are dedicated to a specific programming language or set of languages. For instance, Dev-C++ is used for making programs in C++ language. Multiple-language IDEs include Eclipse (C, C++, Python, Perl, PHP, Java, Ruby and more) and Visual Studio Code (Java, JavaScript, PHP, Python, Ruby, C, C++ and more).",
+                    "q": "Give examples of IDEs. Which IDE is used for C++?"
+                  },
+                  {
+                    "a": "One of the most commonly used IDE for coding programs in C++ is Dev-C++. It is a graphical IDE that has an integrated compiler system to create applications for Windows as well as console. Dev-C++ is a fully featured IDE supporting features like debugging, auto completion, localization, syntax highlighting, class and variable browsing, project management, package manager and others.",
+                    "q": "What is Dev-C++? List its features."
+                  },
+                  {
+                    "a": "Editing Source Code: This feature is a text editor designed for writing and editing source code. Source code editors are distinguished from text editors because they enhance or simplify the writing and editing of code. IDEs facilitate this process with features like syntax highlighting and autocomplete.\nSyntax Highlighting: An IDE that knows the syntax of your language can provide visual cues. Keywords, words that have special meaning like class in C++, are highlighted with different colors. Syntax highlighting makes code easier to read by visually clarifying different elements of language syntax.\nCode completion: When the IDE knows your programming language, it can anticipate what you're going to type next. Code completion features assist programmers by intelligently identifying and inserting common code components. These features save developers time writing code and reduce the chances of errors.",
+                    "q": "Describe the IDE components: editing source code, syntax highlighting and code completion."
+                  },
+                  {
+                    "a": "Compiler: Compilers are components that translate programming language into a form machines can process, such as binary code. IDEs provide automated build processes for languages, so the act of compiling and executing code is done automatically.\nLinker: The linker opens the compiled program file and links it with the referenced library files as needed. Unless all linker items are resolved, the process stops and returns the user to the source code file within the text editor with an error message. If no problems encountered, it saves the linked objects as an executable file.\nLoader: The IDE directs the operating system's program called the loader to load the executable file into the computer's memory and have the Central Processing Unit (CPU) start processing the instructions.\nDebugging: No programmer can write programs without errors. When a program does not run correctly, IDEs provide debugging tools that allow programmers to examine different variables and inspect their code step by step. IDEs also provide hints while coding to prevent errors before compilation.",
+                    "q": "Describe the IDE components: compiler, linker, loader and debugging."
+                  }
+                ],
+                "label": "Integrated Development Environment (IDE)"
+              },
+              {
+                "items": [
+                  {
+                    "a": "C++ is a general-purpose programming language that was developed as an enhancement of the C language to include object-oriented concept. It was created by Bjarne Stroustrup and its main purpose was to make writing programs easier and more pleasant for the individual programmer. C++ is a high-level language with an advantage of programming low-level (drivers, kernels) and even higher-level applications (games, GUI, desktop apps etc.). The basic syntax and code structure of both C and C++ are the same.",
+                    "q": "What is C++? Who created it?"
+                  },
+                  {
+                    "a": "A reserved word in C++ is a word whose meaning is already defined by the compiler. A reserved word cannot be used as an identifier, such as the name of a variable, function, or label — it is \"reserved from use in C++\". A reserved word is part of syntax and may not have any specific meaning in English language.",
+                    "q": "What is a reserved word in C++?"
+                  },
+                  {
+                    "a": "There is a total of 95 reserved words in C++. The reserved words of C++ may be conveniently placed into several groups. In the first group, we put those that were also present in the C programming language and have been carried over into C++. There are 32 of these. There are another 30 reserved words that were not in C, are therefore new to C++ programming language.",
+                    "q": "How many reserved words are there in C++? How are they grouped?"
+                  }
+                ],
+                "label": "C++ Language and Reserved Words"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Data types are the formats and sizes of information (like character, integer, floating point, double floating point, boolean etc.) that can be stored. Based on the data type of a storage, the operating system allocates memory and decides what kind of data can be stored in that allocated memory. C++ offers the programmer various types of built-in as well as user defined data types.",
+                    "q": "What is a data type in C++?"
+                  },
+                  {
+                    "a": "[[T]]Type|Keyword|Size|Range;;Boolean|bool|1 byte|0 (false), 1 (true);;Character|char|1 byte|-127 to 127 or 0 to 255;;Integer|int|4 bytes|-2147483648 to 2147483647;;Floating point|float|4 bytes|1.5 x 10^-45 to 3.4 x 10^38. Stores fractional numbers. Sufficient for storing 7 decimal digits;;Double floating point|double|8 bytes|5.0 x 10^-345 to 1.7 x 10^308. Stores fractional numbers. Sufficient for storing 15 decimal digits[[/T]]",
+                    "q": "Write the basic C++ data types with their keyword, size and range."
+                  },
+                  {
+                    "a": "Variables that can store non-numerical values that are longer than one single character are known as strings. The C++ language library provides support for strings through the standard string class. This is not a fundamental type, but it behaves in a similar way as fundamental types do in its most basic usage. Strings can be declared without an initial value and can be assigned values during execution.",
+                    "q": "What are strings in C++?"
+                  }
+                ],
+                "label": "C++ Data Types and Strings"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A constant is a value that cannot be altered by the program during execution, i.e., the value is constant. When associated with an identifier, a constant is said to be \"named\", although the terms \"constant\" and \"named constant\" are often used interchangeably. This is contrasted with a variable, which is an identifier with a value that can be changed during execution.",
+                    "q": "Define a constant. How is it different from a variable?"
+                  },
+                  {
+                    "a": "Constants are used in two ways: 1. literal constant 2. defined constant. A literal constant is a value you type into your program wherever it is needed. Examples: 21, 12.34, 'A', \"Hello world!\", false, null. A defined (named/symbolic) constant is a constant represented by name. The const keyword and #define preprocessor are used to define a constant, e.g. const float PI = 3.14159; OR #define PI 3.14159. Many programming languages use ALL CAPS to define named constants.",
+                    "q": "What are the two ways constants are used? Give examples."
+                  },
+                  {
+                    "a": "A variable is the memory location that can hold a value. This value can change during the program's execution. It does not remain constant. For example, a classroom with a capacity of 20 students is a fixed place or constant but the subjects taught, teachers and students will vary with each class and subject and are variables.",
+                    "q": "Define a variable. Give an example."
+                  },
+                  {
+                    "a": "[[T]]Constant|Variable;;A constant does not change its value during program execution.|A variable, on the other hand, changes its value depending on instructions.;;Constants are usually written in numbers and may be defined in identifiers.|Variables are always written in letters or symbols.;;Constants usually represent the known values in an equation, expression or in line of programming.|Variables, on the other hand, represent the unknown values.[[/T]]",
+                    "q": "Write the differences between a constant and a variable."
+                  },
+                  {
+                    "a": "The general rules for constructing names for variables (unique identifiers) are:\n- Names can contain letters, digits and underscores\n- Names must begin with a letter or an underscore (_)\n- Names are case sensitive (myVar and myvar are different variables)\n- Names cannot contain whitespaces or special characters like !, #, %, etc.\n- Reserved words (like C++ keywords, such as int) cannot be used as names\n- Names cannot be longer than 32 characters in C++ by default.",
+                    "q": "State the rules for naming variables in C++."
+                  },
+                  {
+                    "a": "A variable declaration tells the compiler where and how much storage to create for the variable. A variable declaration specifies a data type and name for that variable. Syntax: data_type variable_name; where type is one of C++ data types (such as int), and variable_name is the name of the variable (such as x or myName). Variables can be initialized (assigned an initial value) in their declaration. Syntax: data_type variable_name = value; The equal sign is used to assign values to the variable.",
+                    "q": "How is a variable declared and initialized in C++? Write the syntax."
+                  }
+                ],
+                "label": "Constants and Variables"
+              }
+            ],
+            "name": "Additional Questions",
+            "num": "2.3"
+          }
+        ],
+        "title": "Basics of Programming in C++",
+        "unit": 2,
+        "words": [],
+        "display": "Basics of Programming in C++"
+      },
+      {
+        "reading": "Input/Output Handling in C++",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(b) <iostream> ✓ — In C++, Input and Output streams perform Input/Output (I/O) operation and these I/O stream are stored in header file, such as <iostream>.",
+                    "q": "The C++ header file ____________ contains function prototype for the standard Input and Output functions. a. <iomain.h> b. <iostream> c. <fstream.h> d. <cstdio.h>"
+                  },
+                  {
+                    "a": "(c) >> ✓ — cin is a predefined object that reads data from the keyboard with the extraction operator (>>).",
+                    "q": "Which operator is used for input stream? a. > b. << c. >> d. <"
+                  },
+                  {
+                    "a": "(b) get string ✓ — gets stands for get string; it reads characters from stdin and stores them until a newline character found.",
+                    "q": "gets stands for ____________. a. get stream b. get string c. get str d. get std."
+                  },
+                  {
+                    "a": "(b) <conio.h> ✓ — getch() is defined in conio.h (Console Input and Output header file); getche() is also a predefined function in \"conio.h\" header file.",
+                    "q": "getch() and getche() are included in ____________ header file. a. <cstdio.h> b. <conio.h> c. <stdlib.h> d. <stdio.h>"
+                  },
+                  {
+                    "a": "(b) && ✓ — && is called AND. The condition will be true if both expressions are true.",
+                    "q": "Which operator is used for logical AND operation? a. & b. && c. || d. !"
+                  },
+                  {
+                    "a": "(d) both b and c ✓ — Both <= (less than or equal to) and == (equal to) are relational (comparison) operators used to compare two values.",
+                    "q": "Which of the following operator is correct to compare two values of variables? a. = b. <= c. == d. both b and c"
+                  },
+                  {
+                    "a": "(c) getchar() ✓ — The getchar() function in C++ reads the character from standard input stream. It is defined in <stdio.h> header file. It needs to press Enter Key after entering the character. (Note: gets() also reads until a newline is entered, so it too needs the Enter key; the book's description of getchar() is the one that mentions pressing Enter explicitly.)",
+                    "q": "Which of the following needs pressing Enter Key from the keyboard? a. getch() b. getche() c. getchar() d. gets()"
+                  },
+                  {
+                    "a": "(a) Relational ✓ — != is a relational operator (Not equal to); relational operators are also known as Comparison Operators.",
+                    "q": "!= operator belong to which type of operator. a. Relational b. Logical c. Arithmetic d. None of these"
+                  },
+                  {
+                    "a": "(b) += ✓ — += (Addition-assignment) adds the right operand to the left operand and assigns the result to the left operand. Example: a+=2 means a=a+2.",
+                    "q": "Which operator add the first operand to the second operand and gives the result to first operand. a. *= b. += c. ++ d. +"
+                  },
+                  {
+                    "a": "(c) 9 ✓ — Division is performed first: 6/2 = 3, then 12 - 3 = 9. (Note: in the book the options are misprinted with two \"c.\" labels; the correct option 9 is the second \"c.\")",
+                    "q": "cout << 12-6/2; What will be the result on screen? a. 3 c. 6 c. 9 d. 12"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "3.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "#include<iostream>\nusing namespace std;\nint main( )\n{\ncout << \"\\a\";\ncout << \"\\r\";\nreturn 0;\n}\n\\a means Alert or alarm. It causes a beep sound in the computer. Example: cout <<\"\\a\";\n\\r means Carriage Return. It is used to position the cursor to the beginning of the current line. Example: cout << \"\\r\";",
+                    "q": "Use \\a and \\r both escape sequences in a program."
+                  },
+                  {
+                    "a": "In C++, there are two types of comment statements: 1. Single Line Comment 2. Multi Line Comment.",
+                    "q": "How many types of comment statements are used in C++?"
+                  },
+                  {
+                    "a": "[[T]]Arithmetic Operators|Relational Operators;;Arithmetic operators are used to perform an arithmetic operation. In Arithmetic operators, five different operators are used: Addition (+), Subtraction (-), Multiplication (*), Division (/), Remainder/Modulus (%).|Relational operators are used to test the relation between two values. The relational operators are: Equal to (==), Not equal to (!=), Greater than (>), Less than (<), Greater than or equal to (>=), Less than or equal to (<=).;;All operators except Remainder or Modulus operator can be used in integer and float data type. Remainder operator is used only with integral data types.|All relational operators are binary operators. These operators must require two operands. The result of the comparison is True (1) or False (0).;;Arithmetic operators perform mathematical operations on operands. For example: x + y. Here \"x\" and \"y\" are operands and \"+\" is the operator.|Relational operators are also known as Comparison Operators.[[/T]]",
+                    "q": "Differentiate between Arithmetic operators and Relational operators."
+                  },
+                  {
+                    "a": "#include<iostream>\nusing namespace std;\nint main( )\n{\nint a = 10;\ncout << \"\\n \\t a = \" << a;\na += 2;\ncout << \"\\n \\t a += 2 is \" << a;\na -= 3;\ncout << \"\\n \\t a -= 3 is \" << a;\na *= 4;\ncout << \"\\n \\t a *= 4 is \" << a;\na /= 4;\ncout << \"\\n \\t a /= 4 is \" << a;\nreturn 0;\n}\nOutput:\na = 10\na += 2 is 12\na -= 3 is 9\na *= 4 is 36\na /= 4 is 9",
+                    "q": "Write a program in C++ and use all arithmetic assignment operators."
+                  },
+                  {
+                    "a": "[[T]]Assignment operator (=)|Equal to operator (==);;The assignment operator (=) is used for assigning a variable to a value.|The equal to (==) operator is used to check the equality of two operands values.;;This operator assigns the value of right-side expression to left-side variable. Such as x=10;|This operator compares value of the left side and right-side expression. Such as x=10 and y=10 than x==y. If condition true otherwise false.[[/T]]",
+                    "q": "What is basic difference between Assignment operator and Equal to operator."
+                  },
+                  {
+                    "a": "\\n stands for New line or line feed. It inserts a new line and cursor moves to the beginning of the next line. Example: cout << \"\\n\";\n\\t stands for Horizontal tab. It is used to shift the cursor to a couple of spaces to the right in the same line. Example: cout << \"\\t\";",
+                    "q": "What is the basic difference between \\n and \\t ?"
+                  },
+                  {
+                    "a": "Tracing the program step by step:\n- int a = 27; so a is 27.\n- cout << \"a is \" << a << endl; prints: a is 27\n- cout << \"a is now\" << a++ << endl; prints the old value 27 (postfix increment adds 1 after printing), so a becomes 28. Prints: a is now27\n- cout << \"a is now \" << a << endl; prints: a is now 28\n- cout << \"a is now \" << --a << endl; prefix decrement subtracts 1 before printing, so a becomes 27. Prints: a is now 27\n- cout << \"a is now \" << a << endl; prints: a is now 27\nOutput:\na is 27\na is now27\na is now 28\na is now 27\na is now 27",
+                    "q": "Get the output of following program.\n#include <iostream>\nusing namespace std;\nint main ( )\n{\nint a = 27;\ncout << \"a is \" << a << endl;\ncout << \"a is now\" << a++ << endl;\ncout << \"a is now \" << a << endl;\ncout << \"a is now \" << --a << endl;\ncout << \"a is now \" << a << endl;\nreturn 0;\n}"
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "3.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "In C++ program is divided into three parts: 1. Preprocessor Directives 2. Main Function Header 3. Body of Program / Function.",
+                    "q": "Into how many parts is a C++ program divided? Name them."
+                  },
+                  {
+                    "a": "The # symbol is called Preprocessor Directives. #include is used to link the external header files/libraries which may be required in program. #define is used define constants in program. Example: #include<iostream>",
+                    "q": "What are preprocessor directives? What are #include and #define used for?"
+                  },
+                  {
+                    "a": "This instruction tells the compiler to use standard namespace. The Namespace is the collection of identifiers. It is used for variables, class, functions, and objects. All these elements of the Standard Library of C++ are declared within standard \"std\".",
+                    "q": "What is \"using namespace std;\"? What is a namespace?"
+                  },
+                  {
+                    "a": "int main( ) function is used for execution of C++ program. int main( ) return value zero.",
+                    "q": "What is the purpose of int main( )?"
+                  },
+                  {
+                    "a": "{ indicates the beginning of the main function. It is also known as Opening Curly braces. } indicates the ending of the main function. It is also known as Closing Curly braces. The body of the function is enclosed between curly braces. All instructions are executed within opening \"{\" and closing \"}\" curly braces.",
+                    "q": "What do the { and } symbols indicate in a C++ program?"
+                  },
+                  {
+                    "a": "Instructions that perform a particular task is called a statement. Statement terminator (;) used to the end of statements. This symbol also known as semi colon. For example: cout << \"Pakistan Zindabad\"; The output of the given example is that \"Pakistan Zindabad\" will print on the screen.",
+                    "q": "What is a statement in C++? What is the statement terminator?"
+                  }
+                ],
+                "label": "Basic Structure of C++"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The comment statement are those statements that are ignored by the compiler. These statements do not execute. Through comments, the programmers give special remarks to the statements for their convenience.",
+                    "q": "What is a comment statement in C++?"
+                  },
+                  {
+                    "a": "In C++, there are two types of comment statements: 1. Single Line Comment 2. Multi Line Comment.",
+                    "q": "How many types of comment statements are there in C++?"
+                  },
+                  {
+                    "a": "Single line comment is used to a single-line explanation with the help of a double slash (//) symbol. If the programmer wants to use a single line comment on more than one line, this may need to put a double slash on each line at the start. Example: // Single line comment\n// This is my first program",
+                    "q": "What is a single line comment? Give an example."
+                  },
+                  {
+                    "a": "Multi line comment is used for multiple-line explanations. Symbols (/* and */) are needed at the start and end of the statements. Example: /* Multi line comment\nThis is my first program */",
+                    "q": "What is a multi line comment? Give an example."
+                  },
+                  {
+                    "a": "Both types of comments are ignored by the compiler, which means comments are not executable.",
+                    "q": "Are comments executed by the compiler?"
+                  }
+                ],
+                "label": "Comment Statements in C++"
+              },
+              {
+                "items": [
+                  {
+                    "a": "In C++ Input and Output streams perform Input/ Output (I/O) operation and these I/O stream are stored in header file. Such as <iostream>. These header files must be mentioned at the beginning of the program. I/O streaming uses multiple input/output channels.",
+                    "q": "What are input/output streams in C++? Where are they stored?"
+                  },
+                  {
+                    "a": "cout is a predefined object in C++. It is used to display the output to the standard output device i.e. monitor. \"cout\" uses insertion operator (<<). \"cout\" stands for \"Character Output\". Here C means character and Out means output. Syntax: cout << variable or cout <<exp./string << variable. Example: cout << \"MY FIRST PROGRAM\";",
+                    "q": "What is cout? What operator does it use? What does cout stand for?"
+                  },
+                  {
+                    "a": "puts() is used to print the string to the output stream. The new line is automatically inserted after printing the string. Syntax: int puts(const char * str); puts( ) is defined in <cstdio> header file. This file must be included at the beginning of the program.",
+                    "q": "What is puts()? In which header file is it defined?"
+                  },
+                  {
+                    "a": "cin is a predefined object that reads data from the keyboard with the extraction operator (>>). This operator allows you to accept data from standard input device. Syntax: cin >> variable; Example: int a; cin >> a; //cin takes input in \"a\" variable",
+                    "q": "What is cin? What operator does it use?"
+                  },
+                  {
+                    "a": "getch( ) is predefined function. This function is defined in conio.h (Console Input and Output header file. It is used to get a single character from keyboard during execution of program. The entered character is not printed on the screen. It is used to hold the output screen until the user press any key from the keyboard.",
+                    "q": "What is getch()? What is it used for?"
+                  },
+                  {
+                    "a": "The function of \"getche( )\" is similar to getch() function. The \"getche( )\" stands for get character echo. This function displays the character that entered by the user. It is also predefined function in \"conio.h\" header file. Syntax: character variable = getche();",
+                    "q": "What is getche()? How is it different from getch()?"
+                  }
+                ],
+                "label": "Input/Output Functions"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The getchar( ) function in C++ reads the character from standard input stream. It is defined in <stdio.h> header file. It needs to press Enter Key after entering the character.",
+                    "q": "What is getchar()? Which header file is it defined in?"
+                  },
+                  {
+                    "a": "gets() is a predefined function in C++ and it reads characters from stdin and stores them until a newline character found. It is defined in <cstdio> header file. Syntax: gets(variable); Example: char ch[20]; gets(ch);",
+                    "q": "What is gets()? What does it do?"
+                  },
+                  {
+                    "a": "getc() is a function in C++ (the teacher is supposed to inform students about the function of getc() in C++ program). It reads a single character from a given input stream.",
+                    "q": "What is getc() in C++?"
+                  },
+                  {
+                    "a": "putc() is a function in C++ (the teacher is supposed to orient students about the function of putc() in C++ program). It writes a single character to a given output stream.",
+                    "q": "What is putc() in C++?"
+                  }
+                ],
+                "label": "More Input Functions"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Every statement in C++ must be terminated with semi colon (;). It indicates the end of the statement and it is also called Statement terminator. If the terminator is missing an error message will occur.",
+                    "q": "What is the statement terminator in C++? What happens if it is missing?"
+                  },
+                  {
+                    "a": "The escape sequences are special non-printing characters. They can be used with the \"cout\" in C++. An escape sequence starts with a backslash (\\) and a code character.",
+                    "q": "What are escape sequences in C++?"
+                  },
+                  {
+                    "a": "\\a means Alert or alarm. It causes a beep sound in the computer. Example: cout <<\"\\a\";\n\\b stands for backspace. It moves the cursor backspace. Example: cout << \"\\b\";\n\\t stands for Horizontal tab. It is used to shift the cursor to a couple of spaces to the right in the same line. Example: cout << \"\\t\";\n\\n stands for New line or line feed. It inserts a new line and cursor moves to the beginning of the next line. Example: cout << \"\\n\";",
+                    "q": "Explain the escape sequences \\a, \\b, \\t and \\n with examples."
+                  },
+                  {
+                    "a": "Carriage Return \"\\r\". It is used to position the cursor to the beginning of the current line. Example: cout << \"\\r\";\n\"\\\\ backslash\" It is used to print the backslash character. Example: cout << \"\\\\\";\n\"Single quotation\" It is used to print the \"apostrophe (') sign or character. Example: cout << \"\\'\";\n\"Double quotation\" It is used to print the quotation mark. Example: cout <<\"\\\" \";",
+                    "q": "Explain the escape sequences \\r, \\\\, \\' and \\\" with examples."
+                  }
+                ],
+                "label": "Statement Terminator and Escape Sequences"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Operators are special symbols used for specific purposes. Operators perform mathematical operations on Operands. For example: x + y. Here \"x\" and \"y\" are operand and \"+\" operator. There are seven types of operators that are used in C++ programming: 1. Arithmetic Operators 2. Increment Operators 3. Decrement Operators 4. Relational Operators 5. Logical Operators 6. Assignment Operators 7. Arithmetic Assignment Operators.",
+                    "q": "What are operators in C++? Name the seven types of operators."
+                  },
+                  {
+                    "a": "In Arithmetic operators, five different operators are used to perform an arithmetic operation: Addition (+), Subtraction (-), Multiplication (*), Division (/), Remainder / Modulus (%). All operators except Remainder or Modulus operator can be used in integer and float data type. Remainder operator is used only with integral data types.",
+                    "q": "Name the five arithmetic operators. Which one can be used only with integral data types?"
+                  },
+                  {
+                    "a": "Addition (+): It is used to perform arithmetic addition. Example: a + b;\nSubtraction (-): It is used to perform arithmetic subtraction. Example: a - b;\nMultiplication (*): It is used to perform arithmetic multiplication. Example: a * b;\nDivision (/): It performs the arithmetic division of two numbers. Example: a / b.\nRemainder / Modulus (%): It is used to find remainder of a division. It returns the remainder of an integer value. Remainder operator is also known as Modulus operator. Example: 5/2 = 2 and 1 is remainder. We can write in this form 5%2",
+                    "q": "Describe each arithmetic operator with an example."
+                  },
+                  {
+                    "a": "In the division of integers, numbers show only whole numbers in result. For example, in the calculator program, Division of 15 and 10 is 1 (15/10 = 1, not 1.5) because a and b are integers.",
+                    "q": "What is the result of dividing two integers in C++? Give an example."
+                  }
+                ],
+                "label": "Arithmetic Operators"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The increment operator can be used with any type of variable. It is used to add 1 to the value of a variable. Increment operator represented by ++ (double plus sign). This operator can be applied only to a single variable. There are two ways to use increment operator: Prefix Increment Operator and Postfix Increment Operator.",
+                    "q": "What is the increment operator? What are its two ways of use?"
+                  },
+                  {
+                    "a": "Prefix Increment Operator: You can apply this operator before the variable name. It can be written like ++a. i.e. x=++a; In prefix increment operation value of a is printed as 11 because 1 is added in 'a' before printing (a was 10). Postfix Increment Operator: If the increment operator is applied after the variable name, it is known as Postfix Increment operator. It is written like a++. In Postfix increment operation value of a is printed as 10 because 1 is added in 'a' after printing. So the value of 'a' will change to 11 after printing.",
+                    "q": "Differentiate between prefix and postfix increment operators with examples."
+                  },
+                  {
+                    "a": "The decrement operator is same as increment operator but it subtracts 1 from the value of a variable. It is represented by -- (double minus sign). It can also be used as prefix and postfix.",
+                    "q": "What is the decrement operator?"
+                  },
+                  {
+                    "a": "The relational operators are used to test the relation between two values. All relational operators are binary operators. These operators must require two operands. The result of the comparison is True (1) or False (0). The relational operators are also known as Comparison Operators. The relational operators are: == Equal to, != Not equal to, > Greater than, < Less than, >= Greater than or equal to, <= Less than or equal to.",
+                    "q": "What are relational operators? List them."
+                  }
+                ],
+                "label": "Increment, Decrement and Relational Operators"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Logical operators are used to determine two relational expression. These operators can be used in many conditional and relational expressions. There are three logical operators that are used in C++ programming: && AND, || OR, ! NOT. && : This operator is called AND. The condition will be true if both expressions are true. Example: x=10, y=5, z=12; x>y && x<z. || : It is known as OR operator. The condition will be true if any one of the expressions is true. Example: x=10, y=5, z=12; x>y || x>z. ! : This operator is called NOT. The condition will be inverted, false becomes true and true becomes false. Example: x=10, y=5; !(x<y);",
+                    "q": "What are logical operators? Describe the three logical operators with examples."
+                  },
+                  {
+                    "a": "Relational Operator: These operators are used to perform logical operations on two given variables. The relational operators are used to compare any two values.\nLogical Operator: These operators are used to compare the two relational statements. The logical operators are used to combine one and more than one relational expression. Like relational operators they also give True (1) or False (0) results.",
+                    "q": "Differentiate between relational and logical operators."
+                  },
+                  {
+                    "a": "The assignment operator (=) is used for assigning a variable to a value. This operator assigns the value of right-side expression to left-side variable. Such as x=10; The equal to (==) operator is used to check the equality of two operands values. This operator compares value of the left side and right-side expression. Such as x=10 and y=10 than x==y. If condition true otherwise false.",
+                    "q": "What is the difference between the assignment operator (=) and the equal to operator (==)?"
+                  },
+                  {
+                    "a": "In arithmetic assignment operators, the arithmetic operator is combined with the assignment operator. The assignment operator comes to the right of an arithmetic operator. This operator is also known as Compound Assignment Operator. += (Addition-assignment): It adds the right operand to the left operand and assigns the result to the left operand. Example: a+=2 means a=a+2. -= (Subtraction-assignment): It subtracts the right operand from the left operand and assigns the result to the left operand. Example: a -=3 means a=a-3. *= (Multiplication-assignment): It multiplies right operand with the left operand and assigns the result to the left operand. Example: a *=4 means a=a*4. /= (Division-assignment): It divides left operand with the right operand and assigns the result to the left operand. Example: a /=4 means a=a /4",
+                    "q": "What are arithmetic assignment (compound assignment) operators? Explain each with an example."
+                  }
+                ],
+                "label": "Logical and Assignment Operators"
+              }
+            ],
+            "name": "Additional Questions",
+            "num": "3.3"
+          }
+        ],
+        "title": "Input/Output Handling in C++",
+        "unit": 3,
+        "words": [],
+        "display": "Input/Output Handling in C++"
+      },
+      {
+        "reading": "Control Structure",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(d) nested ✓ — If a loop exists in the body of another loop then it is called nested loop.",
+                    "q": "Loop within a loop is called ____________ loop. a. inner b. outer c. enclosed d. nested"
+                  },
+                  {
+                    "a": "(b) default ✓ — The block contains one or more case statement each followed by integer or character constant and then colon; if switch variable does not match with any of the case constants control goes to keyword \"default\" (if it is present).",
+                    "q": "\"case\" and ____________ are also part of \"switch\" statement. a. have b. default c. for d. if"
+                  },
+                  {
+                    "a": "(c) three ✓ — Loop expression has three parts separated by semicolon: first part is initialization, second part is test expression, third part is increment or decrement in loop variable.",
+                    "q": "\"for\" Loop expression has ____________ parts. a. one b. two c. three d. four"
+                  },
+                  {
+                    "a": "(c) close program ✓ — The exit() is used to terminate a C++ program and closes program whenever executed.",
+                    "q": "exit() function is used to ____________. a. close function b. close loop c. close program d. close switch"
+                  },
+                  {
+                    "a": "(a) top of loop ✓ — It causes the loop to skip the remaining statements of its body and immediately transfers control to the top of the loop i.e. first statement.",
+                    "q": "\"continue\" statement takes control to the ____________. a. top of loop b. end of loop c. top of function d. end of function"
+                  },
+                  {
+                    "a": "(a) colon (:) ✓ — A labeled statement is any identifier followed by a colon (:). Example: warning: cout<<\" Need very hard work in examination\";",
+                    "q": "In \"goto\" statement label is followed by ____________ character. a. colon (:) b. semi colon (;) c. single quote (') d. double quote (\")"
+                  },
+                  {
+                    "a": "(b) return ✓ — It terminates the execution of a function and transfers program control to the statement just after the function call statement in the calling function. It can also return a value from the current function, if return type is not \"void\".",
+                    "q": "To send value to the calling function we use ____________ statement. a. throw b. return c. send d. back"
+                  },
+                  {
+                    "a": "(b) switch ✓ — \"break\" terminates the loop or switch statement and transfers control to the statement immediately following the loop or switch statement. (Note: break is also used with for and while loops, so options (c) for and (d) while are also correct uses; only (a) if is wrong. The book's likely intended answer is (b) switch.)",
+                    "q": "\"break\" statement is used with ____________. a. if b. switch c. for d. while"
+                  },
+                  {
+                    "a": "(d) optional ✓ — The structure of if-else contains 'if' keyword followed by a conditional expression and then its body, then 'else' keyword and its body. Using \"else\" is not compulsory; an 'if' statement can stand alone.",
+                    "q": "Using \"else\" is ____________ with \"if\" statement. a. prohibited b. advised c. compulsory d. optional"
+                  },
+                  {
+                    "a": "(b) relational ✓ — 'if' statement checks a condition using relational and other operators; loop expressions also test conditions with relational operators.",
+                    "q": "\"if\" and loop expressions use ____________ operators to test condition. a. arithmetic b. relational c. insertion d. bitwise"
+                  }
+                ],
+                "label": "1"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "4.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "If switch variable does not match with any of the case constants control goes to keyword \"default\" (if it is present). It acts as \"else\". \"break\" and \"default\" keywords are optional.",
+                    "q": "What is the purpose of \"default\" statement in C++?"
+                  },
+                  {
+                    "a": "Yes, we can use a \"while\" loop in place of a \"for\" loop. A \"for\" loop has three parts in one line: initialization; condition testing; increment/decrement. In a \"while\" loop, initialization is done before the loop, only the condition is written in the while( ) header, and increment or decrement is done in the loop body. Example:\nfor loop:\nfor(i=1; i<=10; i++)\n{\ncout<<i;\n}\nSame work with while loop:\nint i=1;\nwhile(i<=10)\n{\ncout<<i;\ni++;\n}",
+                    "q": "Can we use \"while\" loop in place of \"for\" loop, if yes then how?"
+                  },
+                  {
+                    "a": "The main difference is when the condition is tested: \"while\" loop is a pre-test loop. It tests the condition at the start of loop before executing the body of loop, so the body may not execute at all. \"do while\" loop is a post-test loop. It tests the condition at the end of the loop body and so its statements block is executed at least once.",
+                    "q": "What is the main difference between while and do while loops?"
+                  },
+                  {
+                    "a": "The \"for\" loop executes a sequence of statements multiple times. It is usually used in situations where at the start of loop we know that how many times loop block will execute. It is a pre-test loop as condition is tested at the start of loop. It starts with keyword \"for\" followed by loop expression in parenthesis. Loop expression has three parts separated by semicolon: first part is initialization, second part is test expression and third part is increment or decrement in loop variable. It is also called counter controlled loop or definite repetition loop since the number of iterations is known before loop execution. Syntax:\nfor (initialization; condition testing; increment/decrement)\n{\nstatement(s);\n}",
+                    "q": "Write the function of for loop."
+                  },
+                  {
+                    "a": "A group or block is made by enclosing statements in braces. If there are more than one statement in an \"if\" block or body (or in a loop body) we enclose all of them in braces, so that all the statements are treated as one block and are executed together.",
+                    "q": "Why we make block of statements using braces?"
+                  },
+                  {
+                    "a": "It only matches character and integer data type variables. It checks switch variable value only with case constants not with any variable and it also cannot use relational operators like less than (<) or greater than (>) and exactly matches value with case constants.",
+                    "q": "Which data type variables can be used in \"switch\" statement?"
+                  },
+                  {
+                    "a": "Jump statements change execution of program from its normal sequence. The jump statements used in C++ are: 1. break 2. continue 3. goto 4. return 5. exit().",
+                    "q": "What is the purpose of jump statements?"
+                  },
+                  {
+                    "a": "a. else if — In \"if\" statement if we use nesting deeply, i.e. one if is nested to other and other is nested in another and so on, then in indentation we see a ladder like structure which is difficult to understand. To make the program look simpler and more understandable, we design it in another format by using \"else-if\" statement. This format only increases the readability of program while there is no any change for compiler.\nb. switch — The switch statement checks 'switch' variable value equal to constant that follows case statement. If it matches to any of them then control is transferred to that \"case\" and all statements after colon are executed and switch is broken with \"break\" statement.\nc. goto — A \"goto\" statement jumps or transfers control unconditionally from the \"goto\" to a labeled statement in the same function.\nd. exit — The exit() is used to terminate a C++ program and closes program whenever executed. It is defined under \"stdlib.h\" header file. Syntax: void exit (int);",
+                    "q": "Write the purpose of following statements: a. else if b. switch c. goto d. exit"
+                  }
+                ],
+                "label": "2"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "4.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "[[T]]A|B;;(a) if|(vi) else;;(b) loop|(v) iteration;;(c) Conditional expression|(i) Relational operators;;(d) Loops and switch|(ii) break;;(e) do|(vii) while;;(f) >>|(iv) operator;;(g) case|(iii) switch[[/T]]",
+                    "q": "Match the column:\nA: (a) if (b) loop (c) Conditional expression (d) Loops and switch (e) do (f) >> (g) case\nB: (i) Relational operators (ii) break (iii) switch (iv) operator (v) iteration (vi) else (vii) while"
+                  }
+                ],
+                "label": "3"
+              }
+            ],
+            "name": "Matching",
+            "num": "4.3"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "A computer program is the set of instructions in sequential form. These instructions execute from top to bottom. We can control the flow of program with the help of Control Statements. Control Statements are used to control the direction of program by repeating any block of code, making a choice or simply transfer the control to any specific block of program. These statements help programmers to decide which part of code is executed at certain time.",
+                    "q": "What are control statements? What do they do?"
+                  },
+                  {
+                    "a": "C++ has three types of control statements: 1. Selection/Decision Making Structure 2. Iteration / Loops 3. Jump.",
+                    "q": "Name the three types of control statements in C++."
+                  },
+                  {
+                    "a": "Selection/Decision Making Structures are used to decide whether a certain part of code is executed or not. C++ has three decision making structures: 1. 'if' statement 2. 'if- else' statement 3. 'switch' statement.",
+                    "q": "What are selection/decision making structures? Name the three decision making structures in C++."
+                  },
+                  {
+                    "a": "'if' is the basic decision statement. The structure contains \"if\" keyword followed by a conditional expression in parenthesis and then its body of statements(s) also called if block. If there are more than one statement in \"if\" block or body we enclose all of them in braces.",
+                    "q": "Describe the 'if' statement."
+                  },
+                  {
+                    "a": "If statement checks a condition, if the condition is true the statements in \"if\" block are executed and if condition is false it leaves the statements in \"if\" block and starts executing statements after \"if\" block. Syntax:\nif (test condition)\n{\nStatement(s);\n}",
+                    "q": "How does an 'if' statement work? Write its syntax."
+                  },
+                  {
+                    "q": "What will Program 1 print if the marks entered are 75? What if the marks are 50?",
+                    "a": "Program 1 takes marks as input. If marks are greater than 60 then it adds word \"good\" between \"you are a\" and \"student of this class\". If marks are 75, it prints: \"You are a good Student of this class\". If marks are 50, the if condition is false, so it prints: \"You are a Student of this class\"."
+                  }
+                ],
+                "label": "Control Statements and Decision Making"
+              },
+              {
+                "items": [
+                  {
+                    "a": "An 'if' statement which is part of block of another 'if' statement is called nested 'if'. The inner 'if' statement will only be tested if the outer 'if' is true. Example: Program 2 takes marks and age as input. First condition checks marks, if they are greater than or equal to 60 then next condition checks age. If age is also greater than 18 then it prints message \"you got the job\". \"Good Luck\" is always printed.",
+                    "q": "What is a nested 'if' statement? Explain with an example."
+                  },
+                  {
+                    "a": "The structure of if-else contains 'if' keyword followed by a conditional expression in parenthesis and then its body of statements(s) then 'else' keyword and its body of statements. It checks the condition, if the condition is true the statements in if block are executed and in case of false condition, it executes statements in 'else' block. It means either 'if' block statements or 'else' block statements must execute. Syntax:\nif (test condition)\n{\nStatement(s);\n}\nElse\n{\nStatement(s);\n}",
+                    "q": "Describe the 'if-else' statement and write its syntax."
+                  },
+                  {
+                    "a": "Program 3 takes marks as input and decides pass or fail on the basis of marks. If greater than or equal to 40 then pass otherwise fail.\n/* Program 3. \"if-else\" statement example */\n// shows pass or fail on the basis of marks\n#include <iostream>\nusing namespace std;\nint main ( )\n{\nint marks;\ncout<<\"\\nEnter your Marks \";\ncin>>marks;\nif(marks>=40)\ncout<<\"You are pass\";\nelse\ncout<<\" You are fail\";\nreturn 0;\n}",
+                    "q": "Write a program that takes marks as input and prints \"You are pass\" if marks are 40 or more, otherwise \"You are fail\"."
+                  },
+                  {
+                    "a": "In \"if\" statement if we use nesting deeply, i.e. one if is nested to other and other is nested in another and so on, then in indentation we see a ladder like structure which is difficult to understand. To make this program look simpler and more understandable, we may design it in another format by using \"else-if\" statement. This format only increases the readability of program while there is no any change for compiler. \"else-if\" statement for the grade program is shown in the next program where all \"else\" are in a single column.",
+                    "q": "What is an 'else-if' statement? Why is it used?"
+                  },
+                  {
+                    "a": "Program 4 takes marks as input and then determines the grade by applying if condition multiple times: marks >= 80 → \"Grade is A1\"; marks >= 70 → \"Grade is A\"; marks >= 60 → \"Grade is B\"; marks >= 50 → \"Grade is C\"; otherwise → \"Fail\".\n/* Program 4. \"else-if\" statement example */\n// shows Grade on the basis of marks\n#include <iostream>\nusing namespace std;\nint main ( )\n{\nint marks;\ncout<<\"\\nEnter your Marks \";\ncin>>marks;\nif(marks>=80)\ncout<<\"Grade is A1\";\nelse if(marks>=70)\ncout<<\" Grade is A\";\nelse if(marks>=60)\ncout<<\" Grade is B\";\nelse if(marks>=50)\ncout<<\" Grade is C\";\nelse\ncout<<\" Fail\";\nreturn 0;\n}",
+                    "q": "Write a program that takes marks as input and prints the grade: A1 for 80 or above, A for 70 or above, B for 60 or above, C for 50 or above, otherwise Fail."
+                  },
+                  {
+                    "q": "What will Program 3 print if the marks entered are 35? What will Program 4 print if the marks entered are 65?",
+                    "a": "Program 3: marks 35 is less than 40, so the else part executes and it prints \"You are fail\". Program 4: marks 65 is less than 80 and less than 70 but greater than or equal to 60, so it prints \"Grade is B\"."
+                  }
+                ],
+                "label": "if, if-else and else-if Statements"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The switch statement starts with \"switch\" keyword followed by a variable or expression in parenthesis, then a block of switch statement in braces. The block contains one or more case statement each followed by integer or character constant and then colon. After colon there may be many statements followed by \"break\" statement in the end. The switch variable or expression checks its value equal to these constants that follow case statement. If it matches to any of them then control is transferred to that \"case\" and all statements after colon are executed and switch is broken with \"break\" statement and control transfers to the next statement after switch. If switch variable does not match with any of the case constants control goes to keyword \"default\" (if it is present). It acts as \"else\". \"break\" and \"default\" keywords are optional.",
+                    "q": "Describe the 'switch' statement. What are 'break' and 'default' in it?"
+                  },
+                  {
+                    "a": "Syntax:\nswitch(expression)\n{\ncase constant 1:\nstatement(s)\nbreak;\ncase constant 2:\nstatement(s)\nbreak;\n. . .\ndefault:\nstatement(s)\n}",
+                    "q": "Write the syntax of the 'switch' statement."
+                  },
+                  {
+                    "a": "Program 5 takes number of the day of week (from 1 to 7) as input and on the basis of case matching prints the name of the day. If other number is given then invalid day message is shown through default statement.\n/* Program 5. \"switch\" statement example */\n// prints name of day checking day number\n#include <iostream>\nusing namespace std;\nint main ( )\n{\nint day;\ncout<<\"\\nEnter number of weekday 1 to 7 \";\ncin>>day;\nswitch(day)\n{\ncase 1: cout<<\"Sunday\"; break;\ncase 2: cout<<\"Monday\"; break;\ncase 3: cout<<\"Tuesday\"; break;\ncase 4: cout<<\"Wednesday\"; break;\ncase 5: cout<<\"Thursday\"; break;\ncase 6: cout<<\"Friday\"; break;\ncase 7: cout<<\"Saturday\"; break;\ndefault: cout<<\"Invalid day number\";\n}\nreturn 0;\n}",
+                    "q": "Write a program using switch that takes the number of the day of the week (1 to 7) and prints the name of the day; print \"Invalid day number\" for any other number."
+                  },
+                  {
+                    "a": "[[T]]\"if\"|\"if-else\"|\"switch\";;\"if\" statement checks a condition using relational and other operators, if the condition is true the statements in if block execute. If condition is false, it leaves the statements in \"if\" block and starts executing statements after \"if\" block.|\"if-else\" statement checks a condition using relational and other operators, if the condition is true the statements in \"if\" block are executed and in case of false condition it executes statements in 'else' block. It means either \"if\" block statements will execute or \"else\" block statements.|\"switch\" statement checks 'switch' variable value equal to constant that follows case statement. If it matches to any of them then control is transferred to that case and all statement after colon are executed and switch is broken with \"break\" statement. Otherwise, control is transferred to \"default\" statement. It has some limitations. It only matches character and integer data type variables, it checks switch variable value only with case constants not with any variable and it also cannot use relational operators like less than (<) or greater than (>) and exactly matches value with case constants.[[/T]]",
+                    "q": "Write the differences between If, If-Else and switch decision making structures."
+                  },
+                  {
+                    "q": "What will Program 5 print if the day number entered is 4? What if it is 9?",
+                    "a": "If day is 4, case 4 matches and it prints \"Wednesday\". If day is 9, no case matches, so control goes to default and it prints \"Invalid day number\"."
+                  }
+                ],
+                "label": "switch Statement"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Normally statements are executed sequentially, one after the other. In some situations, we need to execute a block of statements several number of times. Loops allow us to execute a statement or a group of statements several numbers of times. A group or block is made by enclosing statements in braces. There are three types of loops in C++: 1. for 2. while 3. do- while.",
+                    "q": "What is a loop? Name the three types of loops in C++."
+                  },
+                  {
+                    "a": "This loop executes a sequence of statements multiple times. It is usually used in situations where at the start of loop we know that how many times loop block will execute. It is a pre-test loop as condition is tested at the start of loop. It starts with keyword \"for\" followed by loop expression in parenthesis. Loop expression has three parts separated by semicolon. First part is initialization which initializes loop variable; second part is test expression which tests loops variable and third part in increment or decrement in loop variable. Then comes the body of the loop which may have one or more statements. If there are more than one statements then they are enclosed in braces. When loop starts, first part is executed, only one time. Then second part tests the condition, if it is true it enters the loop otherwise transfers control to statement after loop. If it enters in loop then after executing all statements in loop block, third part is executed and again condition is tested. It is also called counter controlled loop or definite repetition loop since the number of iterations is known before loop execution.",
+                    "q": "Describe the 'for' loop."
+                  },
+                  {
+                    "a": "Syntax:\nfor (initialization; condition testing; increment/decrement)\n{\nstatement(s);\n}",
+                    "q": "Write the syntax of the 'for' loop."
+                  },
+                  {
+                    "a": "Program 6 shows even numbers from two to twenty. It initializes loop variable count with two and then print numbers by adding two each time to this variable until count variable remains less than twenty.\n/* Program 6. \"for\" loop example */\n// shows even numbers from 1 to 20\n#include <iostream>\nusing namespace std;\nint main ( )\n{\nint count;\nfor(count=2;count<=20;count=count+2)\n{\ncout<<\"\\n Number= \";\ncout<<count;\n}\nreturn 0;\n}\nOutput: Number= 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 (each on a new line).",
+                    "q": "Write a program using a for loop to print even numbers from 2 to 20."
+                  },
+                  {
+                    "q": "How many numbers does Program 6 print? List them.",
+                    "a": "Program 6 prints 10 even numbers: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20. It starts count at 2, prints while count <= 20, and adds 2 each time."
+                  }
+                ],
+                "label": "Loops — for Loop"
+              },
+              {
+                "items": [
+                  {
+                    "a": "It is a pre-test loop. It tests the condition at the start of loop before executing the body of loop. It is usually used in situations where we do not know at the start of loop, how many times loop block will execute. So, it is also called indefinite repetition loop. It starts with keyword \"while\" followed by a conditional expression like if statement in parenthesis. Then comes the body of the loop which may have one or more statements in braces. When loop starts, it tests a condition, if it is true it enters in the loop otherwise transfers control to statement after loop. If it enters in loop then after executing all statements in loop block again condition is tested. Syntax:\nwhile (condition)\n{\nstatement(s);\n}",
+                    "q": "Describe the 'while' loop and write its syntax."
+                  },
+                  {
+                    "a": "Program 7 takes characters as input through getche() in loop. When user presses enter key equal to '\\r' in C++ loop condition is false and it shows total number of typed characters.\n/* Program 7. \"while\" loop example */\n// counts number of characters typed\n#include <iostream>\n#include<conio.h>\nusing namespace std;\nint main ( )\n{\nint num=0;\nchar ch;\ncout<<\"Type any word or text, Press enter to terminate -> \";\nch=getche();\nwhile(ch!='\\r')\n{\nnum++;\nch=getche();\n}\ncout<<\"\\n Total number of characters typed \"<<num;\nreturn 0;\n}",
+                    "q": "Write a program using a while loop that counts the number of characters typed by the user (press Enter to stop)."
+                  },
+                  {
+                    "a": "It is similar to while loop, except that it tests the condition at the end of the loop body and so it is also called post-test loop. Its statements block is executed at least once. For second time condition is tested. It starts with keyword \"do\" followed by a body of loop which may have one or more statements in braces. Then \"while\" keyword and conditional expression in parenthesis. It must be terminated with semi colon. When loop starts it executes all statement in block once and then tests the condition, after \"while\" keyword. If it is true it enters the loop again otherwise transfers control to the next statement after loop. It is also indefinite repetition loop. Syntax:\ndo\n{\nStatement 1;\nStatement 2;\nStatement 3;\n.\n.\n}\nwhile( condition );",
+                    "q": "Describe the 'do-while' loop and write its syntax."
+                  },
+                  {
+                    "a": "Program 8 takes salaries of employees as input in a loop. We press y to take more salaries as input, any other character to end. Finally it shows total salary paid to all employees.\n/* Program 8. \"do-while\" loop example */\n// calculates total salary paid to all employees\n#include <iostream>\n#include <conio.h>\nusing namespace std;\nint main ( )\n{\nlong count=1;\nfloat tot_sal=0,salary;\nchar ch;\ndo\n{\ncout<<\"\\n Enter salary of employee e\"<<count<<\"->\";\ncin>>salary;\ntot_sal=tot_sal+salary;\ncout<<\" Press Y to enter more salaries \";\nch=getche();\ncount++;\n}\nwhile (ch== 'y' || ch== 'Y');\ncout<<\"\\n Total salary paid is \"<<tot_sal;\nreturn 0;\n}",
+                    "q": "Write a program using a do-while loop that takes salaries of employees as input and shows the total salary paid (press y to enter more salaries)."
+                  },
+                  {
+                    "q": "How many times does a do-while loop execute at minimum? Why?",
+                    "a": "A do-while loop executes at least once, because it is a post-test loop: it executes all statements in the block once and then tests the condition after the \"while\" keyword."
+                  }
+                ],
+                "label": "Loops — while and do-while"
+              },
+              {
+                "items": [
+                  {
+                    "a": "You can use one or more loop inside any another 'for', 'while' or 'do while' loop. If a loop exists in the body of another loop then it is called nested loop. The inner nested loop is completely executed every time for each repetition of outer loop.",
+                    "q": "What is a nested loop?"
+                  },
+                  {
+                    "a": "Program 9 prints numbers from 1 to 10 in five rows. The outer loop shows row number, then inner loop prints numbers from 1 to 10 in one row then outer loop changes the row using '\\n'. The outer loop runs five times, so inner loop which prints 1 to 10 numbers will run five times and prints numbers in five rows.\n/* Program 9. nested loops example */\n// prints numbers from 1 to 10 in five rows\n#include <iostream>\nusing namespace std;\nint main ( )\n{\nint i,j;\nfor(i=1;i<=5;i++)\n{\ncout <<\" Row no. \"<<i<<\" -> \";\nfor(j=1;j<=10;j++)\ncout<<j<<\" \";\ncout<<\"\\n\";\n}\nreturn 0;\n}\nOutput:\nRow no. 1 -> 1 2 3 4 5 6 7 8 9 10\nRow no. 2 -> 1 2 3 4 5 6 7 8 9 10\nRow no. 3 -> 1 2 3 4 5 6 7 8 9 10\nRow no. 4 -> 1 2 3 4 5 6 7 8 9 10\nRow no. 5 -> 1 2 3 4 5 6 7 8 9 10",
+                    "q": "Write a program using nested for loops to print numbers 1 to 10 in five rows."
+                  },
+                  {
+                    "a": "[[T]]\"for\" Loop|\"while\" Loop|\"do while\" Loop;;\"for\" loop is usually used in situations where we know at the start of loop that how many times loop block will execute. It is also called definite repetition loop.|It is usually used in situations where we do not know at the start of loop that how many times loop block will execute. It is also called indefinite repetition loop.|It is usually used in situations where we do not know at the start of loop that how many times loop block will execute. It is also called indefinite repetition loop.;;It is called counter controlled loop as loop is controlled by a counter value, at each iteration counter value will increase or decrease.|It does not need a counter value for its execution.|It does not need a counter value for its execution.;;It has three parts first initialization, second condition testing and third increment or decrement.|It has only one part which is condition testing. If needed initialization is done before loop and increment or decrement is done in loop body.|It has only one part which is condition testing. If needed initialization is done before loop and increment or decrement is done in loop body.;;It is pre-test loop as condition is tested at start of loop.|It is pre-test loop as condition is tested at start of loop.|It is post-test loop as condition is tested at the end of loop. So this loop executes at least once.[[/T]]",
+                    "q": "Write the differences between for, while and do-while loop structures."
+                  }
+                ],
+                "label": "Nested Loops and Loop Differences"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Jump statements change execution of program from its normal sequence. The jump statements used in C++ are: 1. break 2. continue 3. goto 4. return 5. exit().",
+                    "q": "What are jump statements? Name the five jump statements in C++."
+                  },
+                  {
+                    "a": "It terminates the loop or switch statement and transfers control to the statement immediately following the loop or switch statement. Example: Program 10 adds five numbers; if 0 is given it ends the program. In the while loop, if num==0 it prints \"Ending program\" and break ends the loop.",
+                    "q": "What is the 'break' statement? Give an example."
+                  },
+                  {
+                    "a": "It causes the loop to skip the remaining statements of its body and immediately transfers control to the top of the loop i.e. first statement. Example: Program 11 adds five positive numbers. It does not take -ve numbers. If num<=0 it prints \"Enter positive number\" and continue skips the rest of the loop body and goes back to the top of the loop.",
+                    "q": "What is the 'continue' statement? Give an example."
+                  },
+                  {
+                    "a": "A \"goto\" statement jumps or transfers control unconditionally from the \"goto\" to a labeled statement in the same function. A labeled statement is any identifier followed by a colon (:). It is not advised to use \"goto\" statements in programs. Example:\nIf ( marks<20)\ngoto warning; // warning is label\n....\nwarning: cout<<\" Need very hard work in examination\";",
+                    "q": "What is the 'goto' statement? Give an example."
+                  },
+                  {
+                    "a": "It terminates the execution of a function and transfers program control to the statement just after the function call statement in the calling function (or to the operating system if you transfer control from the main function). It can also return a value from the current function, if return type is not \"void\". Syntax: return [expression/value]; The value of the expression clause is returned to the calling function.",
+                    "q": "What is the 'return' statement?"
+                  },
+                  {
+                    "a": "The exit() is used to terminate a C++ program and closes program whenever executed. It is defined under \"stdlib.h\" header file. Syntax: void exit (int);",
+                    "q": "What is the exit() function? In which header file is it defined?"
+                  },
+                  {
+                    "q": "What is the difference between 'break' and 'continue' statements?",
+                    "a": "break terminates the loop or switch statement and transfers control to the statement immediately following the loop or switch statement. continue causes the loop to skip the remaining statements of its body and immediately transfers control to the top of the loop."
+                  }
+                ],
+                "label": "Jump Statements"
+              }
+            ],
+            "name": "Additional Questions",
+            "num": "4.4"
+          }
+        ],
+        "title": "Control Structure",
+        "unit": 4,
+        "words": [],
+        "display": "Control Structure"
+      },
+      {
+        "reading": "Functions",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(b) User-defined-function ✓ — Programmer can also write their own functions to perform specific task. They are called user-define-functions.",
+                    "q": "The functions that are defined by the programmer are called: a. Built-In function b. User-defined-function c. Subfunction d. Function"
+                  },
+                  {
+                    "a": "(c) .cpp ✓ — A C++ function is written in a C++ source file, which is saved with the .cpp extension. (Note: the book does not discuss file extensions for functions anywhere in this unit.)",
+                    "q": "A programmer creates a function for a particular task and the programmer wants to include that function in program. Which extension is required to save that function? a. .obj b. .h c. .cpp d. .exe"
+                  },
+                  {
+                    "a": "(b) int ✓ — By default, main( ) in C++ returns an int integer data type value to the operating system.",
+                    "q": "In C++, int main() returns which data type value by default? a. float b. int c. char d. double"
+                  },
+                  {
+                    "a": "(a) formal parameters ✓ — Passing actual values to function as arguments with function call statement are known as actual parameters. These values are received in variables of the header of function definition. These receiving variables are called the formal parameters of the function.",
+                    "q": "The parameters specified is the function header are called: a. formal parameters b. actual parameters c. default parameters d. command line parameters"
+                  },
+                  {
+                    "a": "(a) Declaration ✓ — A function without its definition (code block) is known as a function declaration or function prototype.",
+                    "q": "The word \"prototype\" means: a. Declaration b. Calling c. Definition d. Both a & b"
+                  },
+                  {
+                    "a": "(d) All of these ✓ — A function declaration tells the compiler about the function's name, return data types, and arguments/parameter data types.",
+                    "q": "The function prototype consists of: a. Name of function b. the parameters are passed to the function c. The value return from function d. All of these"
+                  },
+                  {
+                    "a": "(a) Local variable ✓ — Local variables are declared inside any function. The variables declared in the header of the function definition are also known as Local variable.",
+                    "q": "All variables declared in function definition are called a. Local variable b. Instance variable c. Global variable d. Static variable"
+                  },
+                  {
+                    "a": "None of the options is correct — all four are built-in (library) functions: sqrt(), exp() and sin() are pre-defined functions of the <cmath> library and time() is a pre-defined function of the <ctime> library. The book names sqrt() as a pre-defined function (with strcpy(), toupper() and pow()); it does not mention time(), exp() or sin() anywhere in this unit, so this question has no correct option as printed.",
+                    "q": "Which are not the built-In function? a. sqrt() b. time() c. exp() d. sin()"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "5.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "[[T]]Function Declaration|Function Definition;;A function without its definition (code block) is known as a function declaration or function prototype. It is declared before the main() function.|Function definition is function itself. It has a function header and a body or code block. Function definition may be defined before or after the main function.;;A function declaration tells the compiler about the function's name, return data types, and arguments/parameter data types and it ends with statement terminator (;).|Header has three parts; return value data type, function name and list of arguments with datatypes in parenthesis. Body of the function includes statements in braces.;;Syntax: float avg (int val1, int val2, int val3);|Example: int add (int a, int b)\n{\nint c;\nc = a + b;\nreturn c;\n}[[/T]]",
+                    "q": "Differentiate between function declaration and function definition."
+                  },
+                  {
+                    "a": "The keyword \"void\" is used in two places in a function:\n1. As return data type: If no value is returned by the function in that case keyword \"void\" is used. It shows that the function returns no value.\n2. As parameter list: If there is no parameter in function, programmer uses keyword \"void\", e.g. void function name(void); — it means the function takes no arguments.",
+                    "q": "What is the purpose of keyword \"void\" in function?"
+                  },
+                  {
+                    "a": "Pre-defined functions are declared in header files. Many pre-define functions need proper header file by using #include pre-processor directive. For example, the definitions of many common functions are found in the cmath and cstdlib libraries, so #include<cmath.h> is used to use sqrt(). Similarly, #include is used to link the external header files/libraries which may be required in program.",
+                    "q": "Why we use header files?"
+                  },
+                  {
+                    "a": "Passing argument: An argument is a part of data passed to the function. When function is called for execution, the actual values as parameters are also given with function call statement. Passing actual values to function as arguments with function call statement are known as actual parameters. Actual parameters may be variables or constants. They are placed in paratheses after the function name. These values are received in variables of the header of function definition. These receiving variables are called the formal parameters of the function.\nReturn the value from function: In C++, the return keyword allows a function to return a value. When a function completes its execution, it can return a single value to calling function. Return data type must be specified with the function header in the function definition as well as function declaration. It is written before function name. Example: x=add (y, z); — the returned value is stored in variable x in the calling function.",
+                    "q": "Differentiate between passing argument and return the value from function."
+                  },
+                  {
+                    "a": "[[T]]External (Global) Variables|Function Local Variables;;Global variables are declared outside of the main function. It is also known as external variable.|Local variables are declared inside any function. The variables declared in the header of the function definition are also known as Local variable.;;It holds the value of variable during the entire execution of the program.|A local variable is only accessible within a specific part of a program.;;The value of global variables can be shared with different functions.|A local variable cannot be shared with other functions; it acts as a local variable inside the function in which it is used.[[/T]]",
+                    "q": "What is the difference between external variables and function local variables?"
+                  },
+                  {
+                    "a": "Five standard built-in (pre-defined) functions named in this unit, with examples:\n1. sqrt() — returns the square root of a number. Example: cout << \"\\n The square root of a is......\" << sqrt(a);\n2. pow() — a pre-defined function used for power. Example: pow(a, b);\n3. strcpy() — a pre-defined function used to copy a string.\n4. toupper() — a pre-defined function used to convert a character to upper case.\n5. getch() — a pre-defined function defined in conio.h, used to get a single character from the keyboard. Example: char ch = getch();",
+                    "q": "List the five standard built-In functions with examples."
+                  },
+                  {
+                    "a": "Advantages of user-defined functions (from this unit):\n1. Function in C++ helps the programmer to manage the code of the large program.\n2. In structured programming, the complicated and large program coding is broken down into smaller modules which are called subprograms (functions), so each small part performs one specific task.\n3. A user-defined function can be called from any part of the program, so the same code can be used again and again without writing it again.\n4. The programmer can write his/her own functions (like multiply(), sum(), average()) to perform a specific task in the way he/she wants, and can modify them.\n(Note: the book does not give a separate list of advantages of user-defined functions; the points above are taken from the introduction and summary of this unit.)",
+                    "q": "Write down the advantages of User-define functions in C++."
+                  },
+                  {
+                    "a": "Errors in the program: The comment on the prototype line is written with double backslash (\\) instead of double slash (//). In C++ a comment starts with //, so \"\\ Function prototype\" is an error and the program will not compile. The rest of the program is correct: the prototype void Table(void); is declared before main(), the definition is given after it, and Table() is called from main().\nCorrected line: void Table(void); // Function prototype\nOutput (for m = 5, as an example):\nThe value of m........5\n\t5*1=5\n\t5*2=10\n\t5*3=15\n\t5*4=20\n\t5*5=25\n\t5*6=30\n\t5*7=35\n\t5*8=40\n\t5*9=45\n\t5*10=50",
+                    "q": "Get the output and highlight the errors from the following program.\n#include<iostream>\nvoid Table(void); \\\\ Function prototype\nvoid Table(void)\n{\nint m,n;\ncout << \"\\n The value of m........\";\ncin >> m;\nfor(n=1; n<=10; ++n)\n{\ncout <<\"\\t \"<<m<<\"*\"<<n<<\"=\"<<m*n<<\"\\n\";\n}\n}\nint main ( )\n{\nTable();\nreturn 0;\n}"
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "5.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "A set of statements written to perform a specific task and having a unique name is called a function. In structured programming, the complicated and large program coding is broken down into smaller modules which are called subprograms. In C++, subprograms are called functions. Every program has at least one main() function in C++. When the program starts, the main() function is called for execution.",
+                    "q": "Define a function. What are subprograms called in C++?"
+                  },
+                  {
+                    "a": "Function in C++ helps the programmer to manage the code of the large program. Functions are divided into three sections: 1. Function declaration 2. Function definition 3. Function calling.",
+                    "q": "How does a function help the programmer? Into how many sections are functions divided?"
+                  },
+                  {
+                    "a": "There are two types of functions: 1. Pre-defined Functions 2. User-defined Functions.",
+                    "q": "Name the two types of functions in C++."
+                  },
+                  {
+                    "a": "The pre-define functions are the part of every high-level programming language. It can be used for different purposes. Predefined functions are also known as System-defined or library functions. These functions do not need to be declared and defined. Pre-define functions are declared in header file. All predefined functions can be used simply by calling the function like sqrt(), strcpy(), toupper(), pow() etc.",
+                    "q": "What are pre-defined functions? Give examples."
+                  },
+                  {
+                    "a": "Many pre-define functions need proper header file by using #include pre-processor directive. The definitions of many common functions are found in the cmath and cstdlib libraries. Example: to use sqrt(), #include<cmath.h> must be included at the beginning of the program.",
+                    "q": "Why do pre-defined functions need header files? Give an example."
+                  },
+                  {
+                    "a": "A programmer can write his/her own functions to perform specific task. They are called user-define-functions. These functions need declaration and definition. When the user-defined function is called from any part of the program, it will execute the code defined inside the body of the function. multiply(), sum(), average() may be the example of User-define functions. A user-define function is based on two parts: 1. Function declaration or prototype 2. Function definition.",
+                    "q": "What are user-defined functions? What are the two parts of a user-defined function?"
+                  },
+                  {
+                    "q": "When is the main() function called?",
+                    "a": "When the program starts, the main() function is called for execution. Every program has at least one main() function in C++."
+                  }
+                ],
+                "label": "Introduction to Functions"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A function without its definition (code block) is known as a function declaration or function prototype. It is declared before the main() function. A function declaration tells the compiler about the function's name, return data types, and arguments/parameter data types and it ends with statement terminator (;). Example: float avg (int val1, int val2, int val3);",
+                    "q": "What is a function declaration (prototype)? Give an example."
+                  },
+                  {
+                    "a": "The four parts of a function declaration are:\na. Return Data Type: It shows the data type of value returned by function. It may be int, float, double and char data type. If no value is returned by the function in that case keyword \"void\" is used.\nb. Function Name: It specifies the name of function. It is recommended that meaningful and understandable names are given to the function.\nc. Parameters: It define the list of data types of function parameters that are to be passed to the function. Parameters are separated by commas. Parameters are also known as arguments. If there is no parameter in function, programmer uses keyword \"void\". Variable names are optional in prototype parameters/arguments.\nd. Statement Terminator: In function declaration, statement terminator must be used at the end.",
+                    "q": "What are the four parts of a function declaration? Describe each."
+                  },
+                  {
+                    "a": "Function definition is function itself. It has a function header and a body or code block. Header has three parts; return value data type, function name and list of arguments with datatypes in parenthesis. Body of the function includes statements in braces. Function definition may be defined before or after the main function. Example:\nint add (int a, int b)\n{\nint c;\nc = a + b;\nreturn c;\n}",
+                    "q": "What is a function definition? Give an example."
+                  },
+                  {
+                    "a": "To use the function code, we have to call or invoke that function with its name. It is called function call. When function is called for execution, control will transfer to the function definition and all statements of function definition will execute and after executing the statements the control will transfer back to the calling function (statement after function call). Syntax: function_name (); Example: add(); If function returns a value, then we can store return value to a variable in the calling function. Example: x=add (y, z);",
+                    "q": "What is a function call? How is a returned value stored?"
+                  },
+                  {
+                    "a": "Function definition and function call can be differentiated on the basis of following criteria.\n[[T]]Function definition|Function call;;The function definition is function itself. It has header and body with statements. Function definition may appears before or after the main () function.|Function call is to invoke the code of function by its name. As the function is called, control is transferred to the called function.;;Syntax: data_type function_name (parameters list)\n{\nstatements;\n}|Syntax: variable_name= function_name (parameter list);;;Example: int sum(int p, int q)\n{int z;\nz= p + q;\nreturn z;\n}|Example: a=sum (x, y);[[/T]]",
+                    "q": "Differentiate between function definition and function call."
+                  },
+                  {
+                    "q": "Where is a function declaration written? Can a function definition be written before the main() function?",
+                    "a": "A function declaration is declared before the main() function. A function definition may be defined before or after the main function."
+                  }
+                ],
+                "label": "Function Declaration, Definition and Call"
+              },
+              {
+                "items": [
+                  {
+                    "a": "An argument is a part of data passed to the function. When function is called for execution, the actual values as parameters are also given with function call statement. Passing actual values to function as arguments with function call statement are known as actual parameters. Actual parameters may be variables or constants. They are placed in paratheses after the function name.",
+                    "q": "What are actual parameters (arguments)?"
+                  },
+                  {
+                    "a": "These values are received in variables of the header of function definition. These receiving variables are called the formal parameters of the function. It acts as a local variable inside the function in which they are used.",
+                    "q": "What are formal parameters?"
+                  },
+                  {
+                    "a": "In C++, the return keyword allows a function to return a value. When a function completes its execution, it can return a single value to calling function. Return data type must be specified with the function header in the function definition as well as function declaration. It is written before function name. Syntax: int function name();",
+                    "q": "How does a function return a value? Write the syntax."
+                  },
+                  {
+                    "a": "There are four different methods in C++ based on passing parameters to the function and return values from the functions:\n1. No return value and No passing arguments/parameters: void function name(void);\n2. Return value but No passing arguments/parameters: int/float/char function name(void);\n3. No return value but Passing arguments/parameters: void function name(int, float, char);\n4. Return value and Passing arguments/parameters: int/float/char function name(int, float, char);",
+                    "q": "What are the four different ways to use a user-defined function based on arguments/parameters and return type?"
+                  },
+                  {
+                    "a": "Example of using a pre-defined function (sqrt) in a program:\n//Using Square Root formula in program\n#include<iostream>\n#include<cmath.h>\nusing namespace std;\nint main ( )\n{\nint a;\ncout << \"\\n Enter the value of a........\";\ncin >> a;\ncout << \"\\n The square root of a is......\" << sqrt(a); // Pre-defined function\nreturn 0;\n}\nOutput (as printed in the book): Enter the value of a.......4 / The square root of a is....16. (Note: this output is wrong — the square root of 4 is 2, not 16; 16 is 4 squared. The correct output is: The square root of a is....2.)",
+                    "q": "Write a program using the pre-defined function sqrt() to find the square root of a number."
+                  },
+                  {
+                    "a": "The average program as printed in the book is:\n/* Program of an average of two numbers by using User-define function */\n#include<iostream>\nusing namespace std;\nflaot average(int x, int y); // Function prototype\nint main ( )\n{\nint x,y;\ncout << \"\\n \\t Enter the value of x..........:\" ;\ncin << x;\ncout << \"Enter the value of y..........:\" ;\ncin << y;\naverage(x,y);\ncout << \"\\n The average of two number is .....\" << avg;\nreturn 0;\n}\nfloat average(int x, int y)\n{\nfloat avg;\navg = (x+y) / 2;\nreturn avg;\n}\nOutput (as printed in the book): Enter the value of x.......24 / Enter the value of y.......34 / The average of two number is.....29.\n(Note: this program as printed has three errors: 1. \"flaot\" is misspelled — it should be \"float\". 2. \"cin << x;\" and \"cin << y;\" should be \"cin >> x;\" and \"cin >> y;\" (the extraction operator >> is used with cin). 3. \"avg\" is not defined in main(); the returned value is not stored — it should be: float avg; avg = average(x,y); and then cout << avg;)",
+                    "q": "Write the book's program to find the average of two numbers using a user-defined function. (Note the errors in it.)"
+                  },
+                  {
+                    "q": "How many values can a function return to the calling function?",
+                    "a": "When a function completes its execution, it can return a single value to calling function."
+                  }
+                ],
+                "label": "Function Call, Arguments and Return Value"
+              },
+              {
+                "items": [
+                  {
+                    "a": "[[T]]Pre-define function/System Define|User-define function;;These are the library functions.|These functions are created by the programmer.;;It cannot be modified.|It can be modified by the programmer.;;No need for function definition as that is part of C++ compiler.|Their declaration and definition are needed in the program.;;Example: gets(), putchar(), getch(), sqrt(), etc.|Example: add(), int sum(); float avg(float a, float b) etc.[[/T]]",
+                    "q": "Differentiate between pre-defined and user-defined functions."
+                  },
+                  {
+                    "a": "Pre-defined functions: they are the part of every high-level programming language, are also known as System-defined or library functions, do not need to be declared and defined by the programmer, and are declared in header files. Examples: sqrt(), strcpy(), toupper(), pow().\nUser-defined functions: written by the programmer to perform a specific task, need declaration and definition, and are called from any part of the program. Examples: multiply(), sum(), average().",
+                    "q": "Give two examples each of pre-defined and user-defined functions."
+                  },
+                  {
+                    "a": "In structured programming, the complicated and large program coding is broken down into smaller modules which are called subprograms. In C++, subprograms are called functions. Every program has at least one main() function in C++. When the program starts, the main() function is called for execution.",
+                    "q": "What is structured programming? Which function does every C++ program have?"
+                  },
+                  {
+                    "a": "A user-define function is based on two parts: 1. Function declaration or prototype 2. Function definition. A function declaration tells the compiler about the function's name, return data types, and arguments/parameter data types. A function definition is the function itself, with a header and a body of statements in braces.",
+                    "q": "What are the two parts of a user-defined function?"
+                  },
+                  {
+                    "q": "Which header file must be included to use the pre-defined function sqrt()?",
+                    "a": "The definitions of many common functions are found in the cmath and cstdlib libraries, so #include<cmath.h> must be included at the beginning of the program to use sqrt()."
+                  }
+                ],
+                "label": "Pre-defined vs User-defined Functions"
+              },
+              {
+                "items": [
+                  {
+                    "a": "In structured programming, generally two types of variables are used: 1. Local Variables 2. Global Variables.",
+                    "q": "Name the two types of variables used in structured programming."
+                  },
+                  {
+                    "a": "Local variables are declared inside any function. A local variable is only accessible within a specific part of a program. Example:\n#include<iostream>\nusing namespace std;\nint main ( )\n{\nint a=10; // Local Variable\ncout << \"\\n The value of a......\" << a;\nreturn 0;\n}",
+                    "q": "What are local variables? Give an example."
+                  },
+                  {
+                    "a": "Global variables are declared outside of the main function. It is also known as external variable. It holds the value of variable during the entire execution of the program. The value of global variables can be shared with different functions. Example: int a=20; // Global Variable (declared outside main, before it).",
+                    "q": "What are global variables? Give an example."
+                  },
+                  {
+                    "a": "In the book's example, 'a' is a global variable (int a=20; declared outside main) and 'x' and 'b' are local variables. Receiving arguments are also local variable as 'c' variable in this program. The function add(int c) adds the global a and the passed value c into local b, prints the addition, and main() then prints the value of a.",
+                    "q": "In the book's global variable example, which variables are global and which are local?"
+                  },
+                  {
+                    "a": "The variables declared in the header of the function definition are also known as Local variable. For example, in int add (int a, int b), a and b are local variables of the function add.",
+                    "q": "Are the parameters in a function header local variables?"
+                  },
+                  {
+                    "q": "Can a local variable be used in another function? Why not?",
+                    "a": "No. A local variable is only accessible within a specific part of a program (inside the function in which it is declared). Only the value of global variables can be shared with different functions."
+                  }
+                ],
+                "label": "Local and Global Variables"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Program: a function with no return value and no passing parameters that prints the series 0, 5, 10, 15, 20, 25, 30, 35 using a for loop:\n#include<iostream>\nusing namespace std;\nvoid series(void);\nint main ( )\n{\nseries();\nreturn 0;\n}\nvoid series(void)\n{\nfor(int i=0; i<=35; i=i+5)\n{\ncout << i << \" \";\n}\n}\nOutput: 0 5 10 15 20 25 30 35",
+                    "q": "Write a program using a function (no return value and no passing parameters) that prints the series 0, 5, 10, 15, 20, 25, 30, 35 using a for loop."
+                  },
+                  {
+                    "a": "Program: a function with return value and passing parameters that checks whether a number is even or odd:\n#include<iostream>\nusing namespace std;\nint check(int n);\nint main ( )\n{\nint num, result;\ncout << \"\\n Enter a number \";\ncin >> num;\nresult = check(num);\nif(result == 0)\ncout << \"\\n The number is Even\";\nelse\ncout << \"\\n The number is Odd\";\nreturn 0;\n}\nint check(int n)\n{\nreturn n % 2;\n}",
+                    "q": "Write a program using a function (return value and passing parameters) that takes a number from the keyboard and checks whether it is even or odd."
+                  },
+                  {
+                    "a": "Program: a function that takes value in kilogram as parameter and returns value in grams (1 kg = 1000 g):\n#include<iostream>\nusing namespace std;\nfloat toGrams(float kg);\nint main ( )\n{\nfloat kg, grams;\ncout << \"\\n Enter weight in kilogram \";\ncin >> kg;\ngrams = toGrams(kg);\ncout << \"\\n Weight in grams is \" << grams;\nreturn 0;\n}\nfloat toGrams(float kg)\n{\nreturn kg * 1000;\n}",
+                    "q": "Write a program to convert kilogram into grams using a function that takes the value in kilogram as parameter and returns the value in grams."
+                  },
+                  {
+                    "q": "Write a function that returns the factorial of a given number.",
+                    "a": "Program:\n#include<iostream>\nusing namespace std;\nint factorial(int n);\nint main ( )\n{\nint num;\ncout << \"\\n Enter a number \";\ncin >> num;\ncout << \"\\n Factorial of \" << num << \" is \" << factorial(num);\nreturn 0;\n}\nint factorial(int n)\n{\nint f = 1;\nfor(int i = 1; i <= n; i++)\n{\nf = f * i;\n}\nreturn f;\n}"
+                  },
+                  {
+                    "q": "Write a function to find the area of a rectangle (area = length x width).",
+                    "a": "Program:\n#include<iostream>\nusing namespace std;\nfloat areaRect(float l, float w);\nint main ( )\n{\nfloat length, width;\ncout << \"\\n Enter length and width \";\ncin >> length >> width;\ncout << \"\\n Area of Rectangle is \" << areaRect(length, width);\nreturn 0;\n}\nfloat areaRect(float l, float w)\n{\nreturn l * w;\n}"
+                  },
+                  {
+                    "q": "Write a function to find the area of a circle (area = pi x radius x radius, pi = 3.14).",
+                    "a": "Program:\n#include<iostream>\nusing namespace std;\nfloat areaCircle(float r);\nint main ( )\n{\nfloat radius;\ncout << \"\\n Enter radius \";\ncin >> radius;\ncout << \"\\n Area of Circle is \" << areaCircle(radius);\nreturn 0;\n}\nfloat areaCircle(float r)\n{\nreturn 3.14 * r * r;\n}"
+                  }
+                ],
+                "label": "Using Functions in Programs"
+              }
+            ],
+            "name": "Additional Questions",
+            "num": "5.3"
+          }
+        ],
+        "title": "Functions",
+        "unit": 5,
+        "words": [],
+        "display": "Functions"
+      },
+      {
+        "reading": "Digital Logic and Design",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(a) NAND Gate ✓ — The NOR gate and NAND gate are universal gates. (NOR is also universal, but it is not given as an option.)",
+                    "q": "The universal gate is _______________. a. NAND Gate b. AND Gate c. OR Gate d. None of these"
+                  },
+                  {
+                    "a": "(c) NOT ✓ — A NOT gate is a digital circuit that has a single input and a single output. It is also known as an INVERTER.",
+                    "q": "The _______________ is Inverter. a. AND b. OR Gate c. NOT d. None of these"
+                  },
+                  {
+                    "a": "(c) NOT Operation ✓ — The output of NOT gate is the logical inversion of input. It is symbolically represented by complement sign (') or bar (-) sign on top of the variable.",
+                    "q": "In Boolean Algebra, the bar sign (-) indicates _______________. a. OR Operation b. NOR Operation c. NOT Operation d. Both b and c"
+                  },
+                  {
+                    "a": "(c) Simplify the Boolean expression ✓ — The Boolean arithmetic rules are pre-defined rules that help to simplify the logical expression. To reduce the number of logic gates needed to perform a particular logic operation we can apply a set of rules.",
+                    "q": "The Boolean Algebra is used for _______________. a. Creating Circuits b. Apply 12 rules of Boolean c. Simplify the Boolean expression d. Differentiate the gates"
+                  },
+                  {
+                    "a": "(c) Eight ✓ — With three variables A, B and C there are 2 x 2 x 2 = 8 combinations of values (000, 001, 010, 011, 100, 101, 110, 111), so the truth table has eight rows.",
+                    "q": "With the combination of three variables, how many outputs are expected altogether? a. Three b. Six c. Eight d. Nine"
+                  },
+                  {
+                    "a": "(c) 5th ✓ — Rule 5 of the Boolean algebra rules table is: A + A = A.",
+                    "q": "A+A=A is a _______________ rule of Boolean Algebra. a. 3rd b. 6th c. 5th d. 7th"
+                  },
+                  {
+                    "a": "(b) 8th ✓ — Rule 8 of the Boolean algebra rules table is: A . A̅ = 0.",
+                    "q": "A.A̅=0 is a _______________ rule of Boolean Algebra. a. 1st b. 8th c. 6th d. 10th"
+                  },
+                  {
+                    "a": "(b) B ✓ — Simplification: ABC + ABC̅ + A̅B = AB(C + C̅) + A̅B = AB(1) + A̅B = AB + A̅B = B(A + A̅) = B(1) = B. (By Rule 6: A + A̅ = 1.)",
+                    "q": "Simply form of Boolean expression of ABC + ABC̅ + A̅B is _______________. a. A b. B c. C d. B̅"
+                  },
+                  {
+                    "a": "(b) BC ✓ — Simplification: ABC + A̅BC = BC(A + A̅) = BC(1) = BC. (By Rule 6: A + A̅ = 1.)",
+                    "q": "Simplify form of Boolean expression of ABC+A̅BC is _______________. a. AC b. BC c. B d. A̅"
+                  },
+                  {
+                    "a": "(d) A̅.B̅ ✓ — The circuit is an AND gate (output A.B) followed by a NOT gate (inverter), so the output is the inversion of A.B, i.e. Y = (A.B)' or Y = A̅.B̅. This is a NAND gate.",
+                    "q": "Boolean expression of the given circuit is _______________. (Circuit: A and B into an AND gate, whose output goes through a NOT gate.) a. A̅ + B̅ b. B.A c. A.B d. A̅.B̅"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "6.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The three basic logic gates are AND, OR and NOT. These logical gates perform AND, OR, and NOT operations in the digital system.\n1. AND GATE: An AND gate is a digital circuit that has two or more inputs and a single output. AND gate operates on logical multiplication rules. AND operation using variables A and B is represented \"A.B\", here (.) dot is a logical multiplication sign. Boolean Expression of AND gate: Y=A.B. If any input is 0, then output Y becomes 0. If all inputs are 1 then output Y becomes 1.\n[[T]]A|B|Y = A . B;;0|0|0;;0|1|0;;1|0|0;;1|1|1[[/T]]\n2. OR GATE: An OR gate is a digital circuit that has two or more inputs and a single output. OR gate operates on logical Addition rules. Logical OR operation using variables A and B is represented as \"A+B\", here (+) is a logical Addition sign. Boolean Expression of OR gate is Y=A+B. If any input is 1 then output Y becomes 1 and if all inputs are 0 then output Y becomes 0.\n[[T]]A|B|Y = A + B;;0|0|0;;0|1|1;;1|0|1;;1|1|1[[/T]]\n3. NOT GATE: A NOT gate is a digital circuit that has a single input and a single output. It is also known as an INVERTER. The output of NOT gate is the logical inversion of input. Boolean expression of NOT gate is Y = A' or Y = A̅.\n[[T]]A|Y = A̅;;0|1;;1|0[[/T]]",
+                    "q": "Explain all basic logic gates and their operations."
+                  },
+                  {
+                    "a": "[[T]]NAND Gate|NOR Gate;;The NAND gate or \"Not AND\" gate is the collection of two basic logic gates, the AND gate and the NOT gate connected in series.|A NOR Gate is the collection of OR Gate NOT Gate. The output of NOR gate is inverter OR.;;Boolean expression of NAND gate is Y= (A.B)' or Y = A̅.B̅.|Boolean expression of NOR gate is Y = (A+B)' or Y = A̅+B̅.;;Truth table: When all inputs are \"1\", the output, Y is \"0\". If any one of the inputs is \"0\", then the output Y is \"1\".|Truth table: If both inputs are \"0\", then the output, Y is \"1\". If any one of the inputs is \"1\", then the output Y is \"0\".;;Both NAND and NOR are universal gates.|Both NAND and NOR are universal gates.[[/T]]\nTruth table of NAND gate:\n[[T]]A|B|Y = A̅.B̅;;0|0|1;;0|1|1;;1|0|1;;1|1|0[[/T]]\nTruth table of NOR gate:\n[[T]]A|B|Y = A̅+B̅;;0|0|1;;0|1|0;;1|0|0;;1|1|0[[/T]]",
+                    "q": "Differentiate between NAND and NOR gates."
+                  },
+                  {
+                    "a": "Boolean algebra was invented by George Boole in 1954. It is a branch of mathematics and it can be used to describe the logical operations and processing binary information. It is based on true or false input values to produce a true or false output value. The Boolean arithmetic rules are pre-defined rules that help to simplify the logical expression. There are 12 basic rules which are invented to simplify the gates. To reduce the number of logic gates needed to perform a particular logic operation we can apply a set of rules. These rules are commonly known as the Laws of Boolean Algebra Expressions. (Note: the year printed in the book is 1954; George Boole's work on Boolean algebra was published in 1854.)",
+                    "q": "Why do we use Boolean Algebra?"
+                  },
+                  {
+                    "a": "A NOT gate is also known as an INVERTER. It is a digital circuit that has a single input and a single output. The output of NOT gate is the logical inversion of input: if the input is 0, the output is 1; if the input is 1, the output is 0. It is symbolically represented by complement sign (') or bar (-) sign on top of the input variable. Boolean expression of NOT gate is Y = A' or Y = A̅.",
+                    "q": "Explain the function of Inverter."
+                  },
+                  {
+                    "a": "A truth table is a tabular representation of all the combinations of values for inputs and their corresponding outputs. It shows, for every possible combination of input values (0 and 1), what the output of a gate or a Boolean expression will be. For example, the truth table of an AND gate using two input variables A, B and output Y shows that Y is 1 only when both A and B are 1.",
+                    "q": "Explain the purpose of Truth table."
+                  },
+                  {
+                    "a": "Simplify Z = AB + A(B + C) + B(B + C)\n[[E]]Z = AB + A(B + C) + B(B + C)[[/E]]\n[[S]]Expand the brackets: Z = AB + AB + AC + BB + BC\nApply Rule 7th of Boolean Algebra i.e. A.A = A, so BB = B: Z = AB + AB + AC + B + BC\nApply Rule 5th of Boolean Algebra i.e. A + A = A, so AB + AB = AB: Z = AB + AC + B + BC\nApply Rule 10th of Boolean Algebra i.e. A + A.B = A: B + AB = B and B + BC = B: Z = B + AC[[/S]]\n[[A]]Z = B + AC[[/A]]",
+                    "q": "Simplify the following Boolean expression. Z = AB + A(B + C) + B(B + C)"
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "6.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Data Representation refers to the form in which data is stored, processed, and transmitted. Digital devices such as smartphones, iPads, and computers store data in digital formats that can be handled by electronic circuitry. These circuits work on two logical binary states i.e., Low and High (1 & 0) pulses.",
+                    "q": "What is Data Representation in a computer?"
+                  },
+                  {
+                    "a": "Logic gates are the electronic circuits in a digital system. Logical gates perform logical operations like AND, OR, NOT, NAND, NOR etc.",
+                    "q": "What are logic gates? Name the logical operations they perform."
+                  },
+                  {
+                    "a": "The Binary logic consists of binary variables and logical operations. The variables are denoted by letters of alphabets such as A, B, C,... ,Z, a,b,c,...z, e.g., with each variable having only two distinct possible logical values 1 and 0, these two values of variables may also be identified by different names (e.g., true and false, Yes or No).",
+                    "q": "What is binary logic? What are the two possible values of a binary variable?"
+                  },
+                  {
+                    "a": "A truth table is a tabular representation of all the combinations of values for inputs and their corresponding outputs.",
+                    "q": "Define a truth table."
+                  }
+                ],
+                "label": "Data Representation in a Computer"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Logic gates are divided into two categories: 6.2.1 Basic Logic Gates and 6.2.2 Universal Logic Gates.",
+                    "q": "Into how many categories are logic gates divided? Name them."
+                  },
+                  {
+                    "a": "The three basic gates are AND, OR, and NOT. These logical gates perform AND, OR, and NOT operations in the digital system.",
+                    "q": "Name the three basic logic gates."
+                  },
+                  {
+                    "a": "The logic gate is the basic unit of digital logic circuits. There are mainly three basic gates AND, OR, and NOT.",
+                    "q": "What is the basic unit of digital logic circuits?"
+                  },
+                  {
+                    "a": "A universal gate is a logic gate which can implement any Boolean function without the need to use any other type of basic gates. The NOR gate and NAND gate are universal gates.",
+                    "q": "What is a universal gate? Name the universal gates."
+                  },
+                  {
+                    "a": "AND, OR, and NOT gates are the most basic logic gates. By using this set of logic gates, it is possible to implement all the possible Boolean Expressions by using these three gates. Individual logic gates can be connected to form a variety of different combinational logic circuits.",
+                    "q": "What are basic logic gates? What can be done by using them?"
+                  }
+                ],
+                "label": "Logic Gates and Truth Tables"
+              },
+              {
+                "items": [
+                  {
+                    "a": "An AND gate is a digital circuit that has two or more inputs and a single output. AND gate operates on logical multiplication rules. AND operation using variables A and B is represented \"A.B\", here (.) dot is a logical multiplication sign. Boolean Expression of AND gate: Y=A.B.",
+                    "q": "What is an AND gate? Write its Boolean expression."
+                  },
+                  {
+                    "a": "[[T]]A|B|Y = A . B;;0|0|0;;0|1|0;;1|0|0;;1|1|1[[/T]]\nIf any input is 0, then output Y becomes 0. If all inputs are 1 then output Y becomes 1.",
+                    "q": "Draw the truth table of an AND gate using two input variables."
+                  },
+                  {
+                    "a": "[[T]]A|B|C|Y = A.B.C;;0|0|0|0;;0|0|1|0;;0|1|0|0;;0|1|1|0;;1|0|0|0;;1|0|1|0;;1|1|0|0;;1|1|1|1[[/T]]\nAND gate using three input variables A, B, C, and output is Y. If any input is 0, then output Y becomes 0. If all inputs are 1 then output Y becomes 1.",
+                    "q": "Draw the truth table of an AND gate using three input variables."
+                  },
+                  {
+                    "a": "An OR gate is a digital circuit that has two or more inputs and a single output. OR gate operates on logical Addition rules. Logical OR operation using variables A and B is represented as \"A+B\", here (+) is a logical Addition sign. Boolean Expression of OR gate is Y=A+B.",
+                    "q": "What is an OR gate? Write its Boolean expression."
+                  },
+                  {
+                    "a": "[[T]]A|B|Y = A + B;;0|0|0;;0|1|1;;1|0|1;;1|1|1[[/T]]\nIf any input is 1 then output Y becomes 1 and if all inputs are 0 then output Y becomes 0.",
+                    "q": "Draw the truth table of an OR gate using two input variables."
+                  },
+                  {
+                    "a": "[[T]]A|B|C|Y = A+B+C;;0|0|0|0;;0|0|1|1;;0|1|0|1;;0|1|1|1;;1|0|0|1;;1|0|1|1;;1|1|0|1;;1|1|1|1[[/T]]\nIf any input is 1 then output Y becomes 1 and if all inputs are 0 then output Y becomes 0.",
+                    "q": "Draw the truth table of an OR gate using three input variables."
+                  },
+                  {
+                    "a": "A NOT gate is a digital circuit that has a single input and a single output. It is also known as an INVERTER. The output of NOT gate is the logical inversion of input. It is symbolically represented by complement sign (') or bar (-) sign on top of the input variable. Boolean expression of NOT gate is Y = A' or Y = A̅.\n[[T]]A|Y = A̅;;0|1;;1|0[[/T]]\n(Note: the book's truth table heading wrongly says \"using two input variables\" — a NOT gate has only one input, A.)",
+                    "q": "What is a NOT gate? Draw its truth table."
+                  }
+                ],
+                "label": "AND, OR and NOT Gates"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The NAND gate or \"Not AND\" gate is the collection of two basic logic gates, the AND gate and the NOT gate connected in series. Boolean expression of NAND gate is Y= (A.B)' or Y = A̅.B̅.",
+                    "q": "What is a NAND gate? Write its Boolean expression."
+                  },
+                  {
+                    "a": "[[T]]A|B|Y = A̅.B̅;;0|0|1;;0|1|1;;1|0|1;;1|1|0[[/T]]\nWhen all inputs are \"1\", the output, Y is \"0\". If any one of the inputs is \"0\", then the output Y is \"1\".",
+                    "q": "Draw the truth table of a NAND gate using two input variables."
+                  },
+                  {
+                    "a": "A NOR Gate is the collection of OR Gate NOT Gate. The output of NOR gate is inverter OR. The Boolean expression of NOR gate is Y = (A+B)' or Y = A̅+B̅.",
+                    "q": "What is a NOR gate? Write its Boolean expression."
+                  },
+                  {
+                    "a": "[[T]]A|B|Y = A̅+B̅;;0|0|1;;0|1|0;;1|0|0;;1|1|0[[/T]]\nIf both inputs are \"0\", then the output, Y is \"1\". If any one of the inputs is \"1\", then the output Y is \"0\".",
+                    "q": "Draw the truth table of a NOR gate using two input variables."
+                  },
+                  {
+                    "a": "A NAND Gate could be construct by connecting a NOT Gate at the Output terminal of the AND Gate. A NOR Gate could construct by connecting a NOT Gate at the output terminal of the OR Gate. (Book's summary wording.)",
+                    "q": "How can NAND and NOR gates be constructed from basic gates?"
+                  }
+                ],
+                "label": "NAND and NOR Gates"
+              },
+              {
+                "items": [
+                  {
+                    "a": "[[T]]Basic logic gates|Universal logic gates;;AND, OR, and NOT gates are the most basic logic gates. By using this set of logic gates, it is possible to implement all the possible Boolean Expressions by using these three gates.|The NAND gate and NOR gate can be called the universal gates, the collection of NAND & NOR gates can be used to achieve any of the basic AND, OR and NOT operations.;;Individual logic gates can be connected to form a variety of different combinational logic circuits.|A universal gate is a gate which can implement any Boolean expression without using other type of gate.[[/T]]",
+                    "q": "Differentiate between basic and universal logic gates."
+                  },
+                  {
+                    "a": "Basic logic gates: AND, OR and NOT. Universal logic gates: NAND and NOR.",
+                    "q": "Which gates are basic and which are universal?"
+                  },
+                  {
+                    "a": "The NAND gate and NOR gate can be called the universal gates, because the collection of NAND & NOR gates can be used to achieve any of the basic AND, OR and NOT operations — a universal gate can implement any Boolean expression without using other type of gate.",
+                    "q": "Why are NAND and NOR gates called universal gates?"
+                  }
+                ],
+                "label": "Basic vs Universal Gates"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Boolean algebra was invented by George Boole in 1954. It is a branch of mathematics and it can be used to describe the logical operations and processing binary information. It is based on true or false input values to produce a true or false output value. (Note: the year printed in the book is 1954; George Boole's work on Boolean algebra was published in 1854.)",
+                    "q": "What is Boolean algebra? Who invented it?"
+                  },
+                  {
+                    "a": "The Boolean arithmetic rules are pre-defined rules that help to simplify the logical expression. There are 12 basic rules which are invented to simplify the gates. To reduce the number of logic gates needed to perform a particular logic operation we can apply a set of rules. These rules are commonly known as the Laws of Boolean Algebra Expressions.",
+                    "q": "What are the rules of Boolean algebra? Why are they used?"
+                  },
+                  {
+                    "a": "The 12 rules are: 1. A + 0 = A; 2. A + 1 = 1; 3. A . 0 = 0; 4. A . 1 = A; 5. A + A = A; 6. A + A̅ = 1; 7. A . A = A; 8. A . A̅ = 0; 9. A̿ = A (double complement); 10. A + A . B = A; 11. A + A̅ . B = A + B; 12. (A+B) (A+C) = A + BC.",
+                    "q": "List the 12 rules of Boolean algebra."
+                  },
+                  {
+                    "a": "Rule 1: A + 0 = A. Proof: If A=0 → 0+0=0; If A=1 → 1+0=1. Rule 2: A + 1 = 1. Proof: If A=0 → 0+1=1; If A=1 → 1+1=1. Rule 4: A . 1 = A. Proof: If A=0 → 0.1=0; If A=1 → 1.1=1. Rule 5: A + A = A. Proof: If A=0 → 0+0=0; If A=1 → 1+1=1.",
+                    "q": "Prove rules 1, 2, 4 and 5 of Boolean algebra with values."
+                  },
+                  {
+                    "a": "Rule 6: A + A̅ = 1. Proof: If A=0 → 0+(0̅) → 0+1=1; If A=1 → 1+(1̅) → 1+0=1. Rule 8: A . A̅ = 0. Proof: If A=0 → 0.(0̅) → 0.1=0; If A=1 → 1.(1̅) → 1.0=0. Rule 9: A̿ = A. Proof: If A=0 → (0̅) = 1 → (1̅) = 0 so, A̿ = 0; If A=1 → (1̅) = 0 → (0̅) = 1 so, A̿ = 1.",
+                    "q": "Prove rules 6, 8 and 9 of Boolean algebra with values."
+                  },
+                  {
+                    "a": "Rule 3: A . 0 = 0. Proof: If A=0 → 0.0=0; If A=1 → 1.0=0. (Note: the book prints \"If A=1 → 1.0=1\" for this rule, which is wrong — 1 AND 0 is 0, not 1. The rule itself, A . 0 = 0, is correct.) Rule 7: A . A = A. Proof: If A=0 → 0.0=0; If A=1 → 1.1=1.",
+                    "q": "Prove rules 3 and 7 of Boolean algebra with values."
+                  }
+                ],
+                "label": "Boolean Algebra and Its Rules"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Prove AB + AB̅ = A\n[[E]]AB + AB̅ = A[[/E]]\n[[S]]Take L.H.S\nHere take common variable A\nA(B + B̅)\nAccording to 6th Rule of Boolean Algebra is A + A̅ = 1 so, B + B̅ = 1\nA . (1) Or A.1 — According to 4th Rule of Boolean Algebra i.e. A.1 = A\nA .1 = A\nA = A\nHence L.H.S = R.H.S[[/S]]\n[[A]]A = A Proved[[/A]]",
+                    "q": "Prove AB + AB̅ = A using Boolean rules."
+                  },
+                  {
+                    "a": "Prove (A+B)(A+B̅) = A\n[[E]](A+B)(A+B̅) = A[[/E]]\n[[S]]Take L.H.S\n(A+B)(A+B̅)\nANDing (Multiplication) of both expressions\nAA + AB̅ + BA + BB̅\nApply Rule 7th of Boolean Algebra i.e. A.A = A and Rule 8th of Boolean Algebra i.e. A.A̅ = 0 or BB̅ = 0\nA + AB̅ + BA + 0\nTake common variable A from A + AB̅ + BA expression\nA + A(B + B̅) + 0\nApply Rule 6th of Boolean Algebra i.e. A + A̅ = 1 or B + B̅ = 1\nA + A(1) + 0 = A + A + 0\nApply Rule 5th of Boolean Algebra i.e. A + A = A\nA + 0 = A\nHence L.H.S = R.H.S[[/S]]\n[[A]]A = A Proved[[/A]]\n(Note: the book's heading prints (A+B)+(A+B̅)=A with a + between the brackets, but the working ANDs (multiplies) the two expressions, so the correct statement is (A+B)(A+B̅)=A.)",
+                    "q": "Prove (A+B)(A+B̅) = A using Boolean rules."
+                  },
+                  {
+                    "a": "Rule 10: A + A . B = A. Proof: If A=0, B=0 → 0+(0.0) → 0+0 = 0; If A=1, B=1 → 1+(1.1) → 1+1 = 1. Rule 11: A + A̅ . B = A + B. Proof: If A & B=0 → 0+0̅.0=0+0 → 0+1.0=0+0 → 0+0 = 0+0 Hence 0=0; If A & B=1 → 1+1̅.1=1+1 → 1+0.1=1+1 → 1+0=1+1 Hence 1=1. Rule 12: (A+B) (A+C) = A + BC. Proof: If A,B & C=1 → (1+1)(1+1)=1+(1.1) → (1)(1) = 1+(1) → 1.1=1+1 → 1=1; If A, B=0 and C=1 → (0+0) (0+1)=0+0.1 → (0).(1)=0+0 → 0.1=0 → 0=0 Hence 0 = 0.",
+                    "q": "Prove rules 10, 11 and 12 of Boolean algebra with values."
+                  },
+                  {
+                    "a": "Z = (A̅+B̅) (A+B). Truth table:\n[[T]]A|B|A+B|A̅+B̅|(A̅+B̅).(A+B);;0|0|0|1|0;;0|1|1|0|0;;1|0|1|0|0;;1|1|1|0|0[[/T]]\nZ is 0 for every combination of A and B, because (A+B) and its complement (A̅+B̅) can never both be 1 at the same time.",
+                    "q": "Derive the Boolean expression from the given circuit and make its truth table. (Circuit: A and B into an OR gate, then a NOT gate gives A̅+B̅; A and B into another OR gate gives A+B; both go into an AND gate.)"
+                  }
+                ],
+                "label": "Simplifying Boolean Expressions"
+              },
+              {
+                "items": [
+                  {
+                    "a": "To draw the logic circuit of Y = A̅BC (A+D)̅: A goes through a NOT gate to give A̅; A̅, B and C go into an AND gate to give A̅BC; A and D go into an OR gate to give A+D, which goes through a NOT gate to give (A+D)̅; finally A̅BC and (A+D)̅ go into an AND gate to give Y. The circuit consists of AND, OR and NOR gates.",
+                    "q": "Draw the logic circuit of the Boolean expression Y = A̅BC (A+D)̅. Explain it."
+                  },
+                  {
+                    "a": "To draw the logic circuit of X = AB(C+D)̅: C and D go into an OR gate to give C+D, which goes through a NOT gate to give (C+D)̅; A, B and (C+D)̅ go into an AND gate to give AB(C+D)̅; then a NOT gate at the output gives X = AB(C+D)̅̅ (the whole expression under one bar).",
+                    "q": "Draw the logic circuit of the Boolean expression X = AB(C+D)̅. Explain it."
+                  },
+                  {
+                    "a": "Let Q = (A.B) + (A+B)̅: A and B go into an AND gate to give A.B; A and B go into an OR gate and then a NOT gate (a NOR gate) to give (A+B)̅; both go into an OR gate to give Q = (A.B) + (A+B)̅. (Note: the book's figure caption for this circuit wrongly says \"Fig. 6.1\" — it should be Fig. 6.12.)",
+                    "q": "Draw the logic circuit of Q = (A.B) + (A+B)̅."
+                  }
+                ],
+                "label": "Logic Circuits"
+              }
+            ],
+            "name": "Additional Questions",
+            "num": "6.3"
+          }
+        ],
+        "title": "Digital Logic and Design",
+        "unit": 6,
+        "words": [],
+        "display": "Digital Logic and Design"
+      },
+      {
+        "reading": "Introduction to Scratch",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(d) All of above ✓ — Scratch is a visual language, it is free to use and distribute and will remain free forever, and it does not require memorizing of code syntaxes.",
+                    "q": "The feature of Scratch is _______________. a. It is a visual b. Its free forever c. No need to remember codes d. All of above"
+                  },
+                  {
+                    "a": "(a) Sprite ✓ — The sprites are the images of cartoons, characters or objects that we add in our project.",
+                    "q": "In Scratch, the character which moves on the Stage is called a _______. a. Sprite b. Command c. Script d. Event"
+                  },
+                  {
+                    "a": "(b) Control ✓ — Repeat 10, forever and if ... then are Control blocks: these codes control the actions on the stage.",
+                    "q": "Repeat 10, forever and if ... then codes are available in _______________. a. Motion b. Control c. Look d. Sensing"
+                  },
+                  {
+                    "a": "(b) Costume Tab ✓ — You can change the costume of a sprite clicking on \"Costumes\" tab and clicking on the desired costume of choice, or by using blocks to select the sprite's costume.",
+                    "q": "The Looks of Sprite can be changed by using _______________. a. Backdrop Tab b. Costume Tab c. Script Tab d. Control Tab"
+                  },
+                  {
+                    "a": "(b) One Sprite and Code ✓ — At least one sprite is always needed for the project, and most of the Scratch Programs contain Sprites, Backdrops and Code Blocks. A program needs at least one sprite and its code (script).",
+                    "q": "A Scratch Program is at least made up with _______________. a. Many Sprites b. One Sprite and Code c. One Sprite d. One Sprite and Backdrop"
+                  },
+                  {
+                    "a": "(a) Coordinates ✓ — Scratch has a two-dimensional (2D) coordinate system; \"X position\" and \"Y position\" to determine the location of a sprite on the stage.",
+                    "q": "To change the position of Sprite on screen, we use _______________. a. Coordinates b. Stage Information c. Command Pallets d. Costume Tab"
+                  },
+                  {
+                    "a": "(b) Motion ✓ — Move, Turn, go to x,y, if on edge bounce are Motion blocks: these codes are used to move the Sprite on the stage.",
+                    "q": "[move 10 steps] can be found under _______________. a. Look b. Motion c. Sound d. Control"
+                  },
+                  {
+                    "a": "Degree ✓ — Turn command turns Sprite to specified degree. (Note: the option labels in the book are misprinted — \"Coordinate\" and \"Degree\" have no letters, and the options are listed as Coordinate, Steps, Degree, Seconds.)",
+                    "q": "Turn command, turns Sprite to specified: a. Coordinate b. Degree c. Steps d. Seconds"
+                  },
+                  {
+                    "a": "(b) Control ✓ — repeat 10 is a Control block: it repeats the following code blocks for specified number of times. (Note: the option labels in the book are misprinted — \"Control\" and \"Motion\" are both labelled \"c.\")",
+                    "q": "This [repeat 10] command is available in _______________. a. Event b. Control c. Motion d. Looks"
+                  },
+                  {
+                    "a": "(a) x=100, y=-100 ✓ — In the picture Point A is in the lower-right part of the stage (to the right of the Y axis and below the X axis), so its X position is positive (100) and its Y position is negative (-100).",
+                    "q": "In the given picture identify the x and y coordinates (positions) of Point - A. a. x=100, y=-100 b. x=-100, y=100 c. x=100, y=100 d. x=-100, y=-100"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "7.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "i. Script: To create a game, interactive story, animation or artwork in Scratch, you must add visual instructions to tell a sprite exactly what to do. The scripts are instructions that make sprites perform a task. Script is the set of step wise instructions that you give to the Sprite to do a particular task. Each sprite in a Scratch project has an area for scripts through which it is programmed. Clicking on a sprite's thumbnail in the sprite pane will bring up the script area of that sprite.\nii. Sprite: The sprites are the images of cartoons, characters or objects that we add in our project. We can have multiple sprites in our project but at least one sprite is always needed for the project. Cat is the default sprite in the Scratch.\niii. Backdrop: A backdrop is the background that we can add on our stage. By default, there is no backdrop is added in a project. You may change how your stage looks by adding new backdrops. Backdrop is the background of stage.",
+                    "q": "Explain the following: i. Script ii. Sprite iii. Backdrop"
+                  },
+                  {
+                    "a": "[[T]]repeat 10|forever;;Repeats the following code blocks for specified number of times.|Keeps repeating the following code blocks for infinite times.;;Example: repeat 10 — the blocks inside it run 10 times and then stop.|Example: forever — the blocks inside it keep repeating forever, until the Red Stop icon is clicked.[[/T]]",
+                    "q": "State the difference between repeat 10 and forever commands."
+                  },
+                  {
+                    "a": "forever: Keeps repeating the following code blocks for infinite times.\nwait: Waits for specified seconds. Example: wait 1 secs.\nsay: Says the given phrase. Example: say Hello! — or say Hello! for 2 secs (says the given words for specified seconds).\nplay sound: Plays the specified sound. Example: play sound meow.\ngo to x, y: Sends Sprite to specified x, y coordinates (position on stage). Example: go to x: 0 y: 0.",
+                    "q": "Write the use of the following codes: forever, wait, say, play sound, go to x, y"
+                  },
+                  {
+                    "a": "Scratch online: Scratch can also be used online by simply loading its editor in our web-browser which is available at: https://scratch.mit.edu/projects/editor. After loading the editor, it will function just like the offline editor. We can also create our account on Scratch. This will enable us to save our projects online.\nScratch offline: You can download and install Scratch on a computer or an android device to work offline. The latest version of scratch can be downloaded for Windows 10 or Android 6 or later versions. Scratch 2.0 can be downloaded from https://scratch.mit.edu/download/scratch2. To begin, Scratch Offline Editor for Windows needs to be installed on to your computer: run the executable (exe) file, choose the location, continue with default options for shortcuts, and after installation Scratch will be ready to use.\nDifference: online Scratch needs a web browser and (to save projects online) an account, and works without installation; offline Scratch is installed on the computer or android device and works without internet.",
+                    "q": "What is the difference between using Scratch online and offline?"
+                  },
+                  {
+                    "a": "Each block has an associated color that differentiates different commands. Colors will help you to find the option. The colors of the block palettes (as shown in the book's figures) are:\nMotion — blue; Events — brown/orange; Control — yellow/gold; Sound — pink/magenta; Looks — purple; Sensing — light blue; Data — orange; Pen — green (given in the question); Operators — green.\nThese colors are helpful for the user because the commands regarding specific tasks are joined together in different blocks, and each block has an associated color that differentiates different commands — so the user can find the command he/she wants quickly by its color. (Note: the book does not list the palette colors in the text; the colors above are taken from the colored block figures in this unit.)",
+                    "q": "In your notebook mark the color of each pallet in Script Tab. One is done for you. [green] Pen. How are these colors helpful for the user?"
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "7.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Since the emergence of FORTRAN in 1950s, computer languages have evolved enormously. Programming languages are used to create instructions for computers. Using these limited instructions, we can instruct the computer to perform a desired activity. Nowadays, programming languages have become very user-friendly and easy to learn and program. Now, there are some visual languages which do not require memorizing of code syntaxes. Instead, a program is developed by simply dragging and dropping some components of that language and entering their values. (Note: the book prints \"FORTAN\" — it should be FORTRAN.)",
+                    "q": "What is a visual programming language? How is a program developed in it?"
+                  },
+                  {
+                    "a": "Scratch is one of such programming languages. It is very easy to create programs in Scratch which include games and animations. Interactive stories, games, animation, music, art, and presentations can be created by simply dragging and dropping colored blocks. This programming tool was developed by Massachusetts Institute of Technology-(MIT) Media Lab. Scratch is free to use and distribute and will remain free forever.",
+                    "q": "What is Scratch? Who developed it?"
+                  },
+                  {
+                    "a": "When students create programs, they learn important mathematical and computing concepts that improve their creative thinking, logical reasoning, problem solving, and collaboration skills. Scratch can be used for multiple purposes. Kids can make animations, teens can develop game and even teachers and students can use it to create effective education tools such as math quiz, science simulation, and educational videos. Scratch is so easy that anyone can master using it within very short period.",
+                    "q": "What do students learn when they create programs in Scratch? What can Scratch be used for?"
+                  },
+                  {
+                    "a": "Scratch can either be downloaded from MIT website for offline use or used online directly in the web browser.",
+                    "q": "What are the two ways of using Scratch?"
+                  },
+                  {
+                    "a": "Interactive stories, games, animation, music, art, and presentations can be created by simply dragging and dropping colored blocks.",
+                    "q": "What can be created in Scratch?"
+                  }
+                ],
+                "label": "Introduction to Scratch"
+              },
+              {
+                "items": [
+                  {
+                    "a": "You can download and install Scratch on a computer or an android device to work offline. The latest version of scratch can be downloaded for Windows 10 or Android 6 or later versions. However, Scratch 2.0 is a good version that works on most of the computers. Scratch 2.0 can be downloaded from this website: https://scratch.mit.edu/download/scratch2. The instructions in this unit are based on Scratch 2.0. However, teachers and students can use the latest version as well.",
+                    "q": "How can Scratch be downloaded for offline use? Which version is used in this unit?"
+                  },
+                  {
+                    "a": "To begin, Scratch Offline Editor for Windows needs to be installed on to your computer. Installation of Scratch is very easy.\n1. After downloading we need to just run the executable (exe) file.\n2. The first screen will appear which will ask the location where we want to install the Scratch.\n3. It will also ask about the shortcuts to create. You need to just continue with default options.\n4. This will initiate the installation process and after installation, Scratch will be ready to use.",
+                    "q": "What are the steps to install Scratch Offline Editor for Windows?"
+                  },
+                  {
+                    "a": "Scratch can also be used online by simply loading its editor in our web-browser which is available at: https://scratch.mit.edu/projects/editor. After loading the editor, it will function just like the offline editor. We can also create our account on Scratch. This will enable us to save our projects online.",
+                    "q": "How can Scratch be used online? What is the advantage of creating an account?"
+                  },
+                  {
+                    "a": "The latest version of scratch can be downloaded for Windows 10 or Android 6 or later versions. However, Scratch 2.0 is a good version that works on most of the computers.",
+                    "q": "For which operating systems can the latest version of Scratch be downloaded?"
+                  },
+                  {
+                    "a": "Scratch is free to use and distribute and will remain free forever.",
+                    "q": "Is Scratch free to use?"
+                  }
+                ],
+                "label": "Downloading, Installing and Scratch Online"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The sprites are the images of cartoons, characters or objects that we add in our project. We can have multiple sprites in our project but at least one sprite is always needed for the project. Cat is the default sprite in the Scratch.",
+                    "q": "What are sprites? Which sprite is the default sprite?"
+                  },
+                  {
+                    "a": "To create a game, interactive story, animation or artwork in Scratch, you must add visual instructions to tell a sprite exactly what to do. The scripts are instructions that make sprites perform a task. Script is the set of step wise instructions that you give to the Sprite to do a particular task.",
+                    "q": "What are scripts?"
+                  },
+                  {
+                    "a": "Each sprite in a Scratch project has an area for scripts through which it is programmed. Clicking on a sprite's thumbnail in the sprite pane will bring up the script area of that sprite. Each Sprite has its own Script Area.",
+                    "q": "How do you open the script area of a sprite?"
+                  },
+                  {
+                    "a": "A backdrop is the background that we can add on our stage. By default, there is no backdrop is added in a project. You may change how your stage looks by adding new backdrops.",
+                    "q": "What is a backdrop?"
+                  },
+                  {
+                    "a": "The two basic components of a Scratch program are Sprite and Script.",
+                    "q": "What are the two basic components of a Scratch program?"
+                  }
+                ],
+                "label": "Sprites and Scripts"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Stage or Stage Preview Window: This is where you can immediately see the output of your codes. The project runs physically in this window. It is the main working area where the sprite moves and performs actions according to the given instructions. It is divided into x (horizontal) and y (vertical) coordinates. The coordinates are displayed at the bottom right corner of the stage. These coordinates indicate the position of the sprite on the stage.",
+                    "q": "What is the Stage (Stage Preview Window) in Scratch?"
+                  },
+                  {
+                    "a": "Script Area: This shows your code or program. You can drag blocks from the palette to this area and create scripts by placing them together. Script is the set of step wise instructions that you give to the Sprite to do a particular task. Each Sprite has its own Script Area.",
+                    "q": "What is the Script Area?"
+                  },
+                  {
+                    "a": "Sprite List: It displays the thumbnails of all the sprites available in a project. You can click the blue information icon on any sprite to change its name and behavior.",
+                    "q": "What is the Sprite List?"
+                  },
+                  {
+                    "a": "A backdrop is the background that we can add on our stage. By default, there is no backdrop is added in a project. You may change how your stage looks by adding new backdrops. There are four ways to add a backdrop: Choose a backdrop from library, Paint New backdrop, Upload backdrop from file, and New backdrop from Camera (capture a picture through webcam and use it as backdrop).",
+                    "q": "What is a backdrop? Name the four ways to add a backdrop."
+                  },
+                  {
+                    "a": "Script Area has three different Tabs: Script Tab (Code Tab in Scratch 3), Costume Tab and Sound Tab. A Tab is a small form or area that contains similar command or options.",
+                    "q": "How many tabs does the Script Area have? Name them."
+                  }
+                ],
+                "label": "Scratch Editor — Stage, Script Area, Sprite List, Backdrop"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Script Tab (Code Tab in Scratch 3): You can think of this area as your toolbox. When you click on this Tab, the block palette will open. You tell the Sprites exactly what to do by giving them commands. A command is an instruction to do a particular task. In Scratch these commands are shown in the form of Code Blocks in the Blocks Palette. The block palette consists of every block of instruction that is built into Scratch. The commands regarding specific tasks are joined together in different blocks like Motion, Looks and Sensing. Each block has an associated color that differentiates different commands.",
+                    "q": "What is the Script Tab (Code Tab)?"
+                  },
+                  {
+                    "a": "Costume Tab: The appearance of a sprite can also be changed. You can change the costume of a sprite clicking on \"Costumes\" tab and clicking on the desired costume of choice, or by using blocks to select the sprite's costume. New costumes for the sprite can be Imported, Created, and Edited in the Scratch Paint Editor.",
+                    "q": "What is the Costume Tab? How can a sprite's costume be changed?"
+                  },
+                  {
+                    "a": "Sound Tab: Some sprites additionally have at least one sound. Unlike costumes, sounds are an optional field, so you can have a sprite with no sounds. The sounds tab allows you to add, delete, and edit sounds. Sounds can be played in the sound editor or with blocks that play a specific sound.",
+                    "q": "What is the Sound Tab?"
+                  },
+                  {
+                    "a": "Cursor Tool: You can find Cursor Tool on the right top of the editor. It includes five options; Duplicate, Delete, Grow, Shrink and Help. To Duplicate a sprite, just click on the stamp and then on the Sprite. Same is applicable on Delete, Grow and Shrink.",
+                    "q": "What is the Cursor Tool? Name its five options."
+                  },
+                  {
+                    "a": "Most of the Scratch Programs contain Sprites, Backdrops and Code Blocks. Every Sprite in a program has a separate Code Block which controls its actions. You can develop programs for different logics like storytelling, sprite animation, simple game and others.",
+                    "q": "What points should be kept in mind before developing a project in Scratch?"
+                  }
+                ],
+                "label": "Code, Costume and Sound Tabs"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Motion: These codes are used to move the Sprite on the stage. Examples: Move; Turn; go to x,y; if on edge, bounce.\nEvents: Events trigger specific code at a particular time or action. Examples: when flag is clicked; when space key is pressed, when backdrop switches to.\nSound: This is used to play sound. Examples: Play sound; play drum 1 for 0.25 beats, play note 60 for 0.5 beats.\nLooks: These codes are used to change the appearance of the Sprite and Backdrop. Examples: Say, Think, Switch Costume to and Switch Backdrop to are some commonly used codes.\nControl: These codes control the actions on the stage. Examples: wait 1 sec, repeat 10, forever, if then.",
+                    "q": "Describe the Motion, Events, Sound, Looks and Control blocks with examples."
+                  },
+                  {
+                    "a": "Sensing: These codes sense any specific happening. Examples: touching mouse pointer, touching color, ask and wait.\nData: These are used to initialize variables and list. Examples: variable and lists.\nPen: This used to draw lines, rectangles and other shapes. Examples: pen up, pen down, pen color.\nOperators: This shows the available arithmetic, logical and relational operators. Examples: +; -; *; /; <; >; =",
+                    "q": "Describe the Sensing, Data, Pen and Operators blocks with examples."
+                  },
+                  {
+                    "a": "when flag clicked: It triggers the following code blocks when the green flag is clicked. when space key pressed: It triggers the following code blocks when a specific key is pressed.",
+                    "q": "What do the 'when flag clicked' and 'when space key pressed' commands do?"
+                  },
+                  {
+                    "a": "move 10 steps: Moves the sprite in current direction for specified steps. turn 15 degrees: Turns Sprite to specified degree. go to x: 0 y: 0: Sends Sprite to specified x, y coordinates (position on stage). glide 1 secs to x: 0 y: 0: Sprite glides to specified x, y coordinates (position on stage).",
+                    "q": "What do the move, turn, go to and glide commands do?"
+                  },
+                  {
+                    "a": "wait 1 secs: Waits for specified seconds. repeat 10: Repeats the following code blocks for specified number of times. forever: Keeps repeating the following code blocks for infinite times. if then: Executes the block when given condition is true.",
+                    "q": "What do the wait, repeat, forever and if-then commands do?"
+                  }
+                ],
+                "label": "Important Commands in Scratch"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Steps to develop a simple program in Scratch:\nFrom Events Option in Script, drag and drop \"when green flag clicked\" on script area.\nFrom Control Option, drag \"forever\" and drop on script area. Inside the forever block, drag and drop the illustrated commands and change values accordingly: move 20 steps, wait 0.5 secs, if on edge, bounce, set rotation style left-right. Colors will help you to find the option.\nAfter completing the codes blocks, Play (Run) and Stop the program.\nExplanation: \"when flag clicked\" is an event. It runs the program when the Flag is clicked. The forever block keeps repeating the commands for infinite time. It moves the Sprite 20 steps forward, makes the Sprite wait for half (0.5) seconds, when the Sprite touches the corner, it returns back, and set rotation style keeps turning the direction left-right.",
+                    "q": "Explain the sample program (Fig. 7.8) that moves a sprite forever. What does each block do?"
+                  },
+                  {
+                    "a": "To start your program or to test your code click the Green Flag icon located above the Stage panel. To stop your program, click the Red Stop icon.",
+                    "q": "How do you play (run) and stop a program in Scratch?"
+                  },
+                  {
+                    "a": "Changing the Costume program: With this small set of code blocks (Fig. 7.12), the costume of the Sprite changes and it looks as if the Sprite is moving. The program switches the costume between costume1 and costume2 again and again (with waits in between), inside a forever loop, so the sprite looks as if it is walking or moving.",
+                    "q": "Explain the 'Changing the Costume' program. Why does the sprite look as if it is moving?"
+                  },
+                  {
+                    "a": "Adding and Moving Sprite program: Delete the Cat sprite, click on \"Choose sprite from library\" and select Beetle, and move the Beetle to the Upper-left corner. The program is: when green flag clicked; forever; move 20 steps; wait 0.5 secs; (move 20 steps and wait 0.5 secs repeated six times); turn 90 degrees (clockwise); play drum 1 for 0.25 beats; play note 60 for 0.5 beats.\nOutput: The beetle is moving clock-wise in rectangular shape.\nLogic: the beetle moves forward in small steps, then turns 90 degrees clockwise and moves forward again, so it walks around a rectangle, again and again, playing a drum and a note at each corner.\nTo change its movement to anti-clock-wise, turn the sprite 90 degrees anti-clockwise (turn -90 degrees) instead of clockwise.",
+                    "q": "Explain the 'Adding and Moving Sprite' (Beetle) program. What is its output? How can its movement be changed to anti-clockwise?"
+                  }
+                ],
+                "label": "Developing Programs in Scratch"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Scratch has a two-dimensional (2D) coordinate system; \"X position\" and \"Y position\" to determine the location of a sprite on the stage. The \"X position\" value determines the horizontal location of the sprite and the \"Y position\" value determines the vertical location. As shown in figure 7.11, the screen in Scratch is a 480 x 360 rectangle. The X position can range from -240 to 240, where -240 is the leftmost a sprite can be and 240 is the rightmost, and the Y position can range from 180 to -180, where 180 is the topmost it can be and -180 is the bottommost it can be. (Note: the text says \"figure 7.15\" but the figure is captioned \"Fig 7.11 Coordinate Stage\".)",
+                    "q": "Explain the coordinates on the Scratch stage. What is the size of the stage and the range of X and Y positions?"
+                  },
+                  {
+                    "a": "Playing Sound in Scratch: We can add sounds in our projects. It is very simple and easy. We can play different sounds like beat the drum or play different notes. You can use these sounds to make any animation, game or even just creating music. You can find complete list of notes and beats on https://en.scratch-wiki.info/.\nSample program (Fig. 7.14): when space key pressed; say \"I can play music\"; repeat 2: play note 65 for 0.5 beats, play note 69 for 0.5 beats, play note 67 for 0.5 beats, play note 59 for 0.5 beats, play note 72 for 0.5 beats, play note 71 for 0.5 beats; say \"Happy Birthday!\"; repeat 1: play drum 1 for 0.25 beats, play drum 2 for 0.25 beats, play drum 3 for 0.25 beats, play drum 4 for 0.25 beats.\nOutput: When the space key is pressed, the sprite says \"I can play music\", then plays the six notes twice (the music of the song), then says \"Happy Birthday!\", then plays the four drum sounds once each. (Note: the note numbers in Fig. 7.14 are printed very small; the values above are as read from the figure.)",
+                    "q": "Explain the 'Playing Sound in Scratch' program and its output."
+                  },
+                  {
+                    "a": "Taking Input program (Fig. 7.18): when green flag clicked; ask \"What's your name?\" and wait; say join \"hello \" answer; wait 2 secs; say \"How are you?\".\nThe input that you take in ask is stored in answer and it is displayed using say. The ask and wait commands are found in Sensing Block. You can find set-to command in Data block. For creating a variable click on \"Make a Variable\" button, enter a name to create the variable (for example \"Obtained Marks\"), drag set command and set variable names, and add answer from Sensing Block. This line will store the value given by the user into variable called \"Obtained Marks\".\nPercentage program (Fig. 7.19): ask \"Enter Obtained Marks\" and wait; set Obtained Marks to answer; ask \"Enter Total Marks\" and wait; set Total Marks to answer; say the percentage, calculated as (Obtained Marks / Total Marks) * 100, using the multiplication and division operators from the Operator Block. (Note: the text in Fig. 7.19 is printed very small; the steps above follow the book's written instructions on pages 142-143.)",
+                    "q": "How do you take input from the user in Scratch? Explain the percentage program."
+                  }
+                ],
+                "label": "Coordinates and Taking Input"
+              }
+            ],
+            "name": "Additional Questions",
+            "num": "7.3"
+          }
+        ],
+        "title": "Introduction to Scratch",
+        "unit": 7,
+        "words": [],
+        "display": "Introduction to Scratch"
+      }
+    ]
   },
   "shared": {
     "essays": [
@@ -75637,6 +77721,2176 @@ var STUDY = {
         "display": "مادي جون حرارتي خاصيتون"
       }
     ],
+    "csExsolutions": [
+      {
+        "unit": 1,
+        "title": "Fundamentals of Computer",
+        "reading": "Fundamentals of Computer",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(c) scanner ✓",
+                    "q": "The device that converts hard copy into soft copy is: (a) printer (b) plotter (c) scanner (d) barcode reader"
+                  },
+                  {
+                    "a": "(b) loses contents as the power is disconnected ✓",
+                    "q": "The volatile memory: (a) is permanent (b) loses contents as the power is disconnected (c) possesses large storage (d) manages hardware resources"
+                  },
+                  {
+                    "a": "(c) entertainment software ✓",
+                    "q": "Media players are: (a) business software (b) education software (c) entertainment software (d) productivity software"
+                  },
+                  {
+                    "a": "(b) utility program ✓",
+                    "q": "The programs that are generally installed to manage and maintain overall computer resources is: (a) operating system (b) utility program (c) language translator (d) device driver"
+                  },
+                  {
+                    "a": "(a) compiler ✓",
+                    "q": "Modern languages use: (a) compiler (b) interpreter (c) convertor (d) assembler"
+                  },
+                  {
+                    "a": "(c) address bus ✓",
+                    "q": "A collection of wires connecting the CPU with main memory that is used to identify particular locations is: (a) control bus (b) data bus (c) address bus (d) memory bus"
+                  },
+                  {
+                    "a": "(d) microcomputer ✓",
+                    "q": "The inexpensive and most commonly used computers are: (a) super computer (b) mainframe computer (c) minicomputer (d) microcomputer"
+                  },
+                  {
+                    "a": "(a) operating system ✓",
+                    "q": "Computer cannot start without: (a) operating system (b) utility program (c) device drivers (d) business software"
+                  },
+                  {
+                    "a": "(b) fourth generation ✓",
+                    "q": "Graphical User Interface (GUI) was developed in: (a) second generation (b) fourth generation (c) mechanical era (d) electro-mechanical era"
+                  },
+                  {
+                    "a": "(c) software engineer ✓",
+                    "q": "A person who uses different programming languages to develop programs is: (a) database administrator (b) web designer (c) software engineer (d) graphic designer"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "1.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Computers are used in manufacturing, ecommerce, education, medical, banking, communication, entertainment, engineering, agriculture, architecture, business, defense and sports. For example, in education computers are used for teaching and learning and in school, library and hospital management; in banking they are used for money transfer and online banking; in the medical field they are used in radiology and in healthcare. In business they are used for word processing, payrolls, accounts and inventory control.",
+                    "q": "Discuss the use of computer in any two fields of life."
+                  },
+                  {
+                    "a": "[[T]]Compiler|Assembler;;It translates the entire high-level language program at once into machine language before it is executed.|It translates the program written in assembly language into machine language instructions for execution.;;Modern languages use a compiler.|Assembly language programs are translated by an assembler.[[/T]]",
+                    "q": "Differentiate Compiler and Assembler."
+                  },
+                  {
+                    "a": "[[T]]System Software|Application Software;;System software is a computer program that coordinates all activities and functions of a computer and controls all the operations of the computer hardware. It includes operating systems, device drivers, utility programs and language translators.|Application software is used to complete specific tasks, such as creating documents, databases, spreadsheets and presentations. Computer games, media players and web browsers are also examples of application software.;;System software is needed to run the computer itself.|Application software is installed separately by the user to accomplish a specific task, and it is not pre-installed on the operating system.[[/T]]",
+                    "q": "Differentiate System and Application software."
+                  },
+                  {
+                    "a": "Artificial Intelligence (AI) is based on simulating human intelligence in machines that can easily mimic and execute tasks from simple to more complex operations. The term A.I. may also be referred to any machine that displays qualities associated with a human brain such as learning, reasoning and problem solving. A.I. is also used for Machine Learning. It learns from our daily routines and suggests us different options. Like google maps suggest the best ways for our daily commute. A.I. is vastly used in scientific experiment, healthcare and space technologies. Examples: google maps suggesting the best route, robots, machine learning and expert systems.",
+                    "q": "Describe artificial intelligence with examples."
+                  },
+                  {
+                    "a": "Printers usually give output on paper and can print both text and graphics. There are two types of printers: Impact and Non-Impact. The book names the two types but does not describe them further.",
+                    "q": "Discuss Impact and Non-Impact Printers with examples."
+                  },
+                  {
+                    "a": "Hard Disk: A secondary storage device with a larger storage capacity; it stores data permanently. Users save their data on it. USB Flash Disk: A secondary storage device used to store data permanently; it is portable and used to save and carry data. SD Card: A secondary storage device used to store data permanently; it is used in cameras, mobile phones and other devices to save data.",
+                    "q": "Write the use of these storage devices: Hard Disk, USB Flash Disk, SD Card."
+                  },
+                  {
+                    "a": "A Flat Panel Display (FPD) is preferable in school. Monitors are of two types: Cathode Ray Tube (CRT) and Flat Panel Display (FPD). An FPD is slim, light and takes up less space than a bulky CRT monitor, so it is more suitable for a school computer lab.",
+                    "q": "Which monitor will you prefer in your school; CRT or FPD? Why?"
+                  },
+                  {
+                    "a": "Five components present on the motherboard are: Microprocessor (CPU), Slots, Ports, Buses and RAM (other components on the motherboard are ROM, resistors, capacitors, diodes, transistors and jumpers).",
+                    "q": "List any five components present on motherboard."
+                  },
+                  {
+                    "a": "[[T]]Generation|Period|Technology|Example of Machines;;First|1940 to 1956|Vacuum Tubes|Electronic Numerical Integrator and Calculator (ENIAC), Universal Automatic Computer (UNIVAC);;Second|1956 to 1963|Transistors|IBM 7094, IBM 1401;;Third|1964 to 1971|Integrated Circuits (ICs)|IBM 360, IBM 370;;Fourth|1971 to Present|Microprocessors|Apple Macintosh, IBM PC;;Fifth|Present and Beyond|Artificial Intelligence Technology|Robots, humanoid robots[[/T]]",
+                    "q": "Prepare a table of generations."
+                  },
+                  {
+                    "a": "[[T]]S.No.|Business|Education|Entertainment|Productivity;;(i)|Billing|Teaching and learning software|Video games|MS Office for Windows (documents);;(ii)|Database management|School management software|Media players|Spreadsheets (MS Excel);;(iii)|Inventory management|Library management software|Photo, sound and video editor software|Presentations and databases[[/T]]",
+                    "q": "Give examples of business, education, entertainment and productivity software."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "1.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(i) ALU — (d) Perform arithmetic and logical operations; (ii) Input Devices — (g) Hardware device that sends data into a computer; (iii) Secondary Storage Devices — (f) Large storage capacity, store data permanently; (iv) Productivity Software — (e) Helps to produce spreadsheets, database etc; (v) Mechanical Era — (a) Period of manually operated machines; (vi) Digital Computers — (c) Process information using binary number system; (vii) Microcomputer — (b) PC",
+                    "q": "Match the columns: [[T]]Column A|Column B;;(i) ALU|(a) Period of manually operated machines;;(ii) Input Devices|(b) PC;;(iii) Secondary Storage Devices|(c) Process information using binary number system;;(iv) Productivity Software|(d) Perform arithmetic and logical operations;;(v) Mechanical Era|(e) Helps to produce spreadsheets, database etc;;(vi) Digital Computers|(f) Large storage capacity, store data permanently;;(vii) Microcomputer|(g) Hardware device that sends data into a computer[[/T]]"
+                  }
+                ],
+                "label": "C"
+              }
+            ],
+            "name": "Matching",
+            "num": "1.3"
+          },
+          {
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "A computer is an electronic data processing machine or device that performs processes, calculations and operations based on instructions provided by a program.",
+                    "q": "Define a computer."
+                  },
+                  {
+                    "a": "Business, industry, education, banking, transportation, research, explorations, media and entertainment.",
+                    "q": "Name any four fields in which computers are used."
+                  },
+                  {
+                    "a": "The evolution of computers is generally divided into three eras: Mechanical Era (Dark Age), Electro-Mechanical Era (Middle Age) and Electronic Era (Modern Age).",
+                    "q": "Into how many eras is the evolution of computers divided? Name them."
+                  },
+                  {
+                    "a": "Abacus (3000 B.C.), Napier's Bones (1612 A.D.), Slide Rule (1622 A.D.), Pascaline or Pascal's Calculator (1642 A.D.), Leibniz's Calculator (1694 A.D.) and Babbage's Difference and Analytical Engines (1822 and 1837 A.D.).",
+                    "q": "Name any four machines of the Mechanical Era."
+                  },
+                  {
+                    "a": "Abacus was invented about 5000 years ago. It is also known as counting frame. Abacus is considered as first computer prototype.",
+                    "q": "What is Abacus? Why is it considered the first computer prototype?"
+                  }
+                ],
+                "label": "Introduction and Evolution of Computers"
+              },
+              {
+                "items": [
+                  {
+                    "a": "First Generation (1940 to 1956) — Vacuum Tubes; Second Generation (1956 to 1963) — Transistors; Third Generation (1964 to 1971) — Integrated Circuits (ICs); Fourth Generation (1971 to Present) — Microprocessors; Fifth Generation (Present and Beyond) — Artificial Intelligence Technology.",
+                    "q": "Name the five generations of computers along with the technology used in each."
+                  },
+                  {
+                    "a": "First generation computers were very large in size, used machine language (1's and 0's), magnetic drums as primary internal storage and punched cards for input. Examples: ENIAC and UNIVAC.",
+                    "q": "What were the main features of first generation computers? Give two examples."
+                  },
+                  {
+                    "a": "Second generation computers became smaller, faster, cheaper and more efficient because of transistors. Assembly language and FORTRAN were introduced. Examples: IBM 7094 and IBM 1401.",
+                    "q": "Why did second generation computers become smaller and faster? Give two examples."
+                  },
+                  {
+                    "a": "Use of ICs further decreased the size of computers and increased the speed and efficiency. High level programming languages such as Pascal and COBOL were used. Examples: IBM 360 and IBM 370.",
+                    "q": "What were the main features of third generation computers? Give two examples."
+                  }
+                ],
+                "label": "Generations of Computers"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Computers can be classified in three ways: according to Technology/Type of Data Handled, according to Size and according to Purpose.",
+                    "q": "In how many ways can computers be classified? Name them."
+                  },
+                  {
+                    "a": "Analog Computers, Digital Computers and Hybrid Computers.",
+                    "q": "Name the three types of computers according to technology."
+                  },
+                  {
+                    "a": "Analog computers are used to process analog data, which is in the form of continuously varying physical quantities like pressure, temperature, voltage, speed and weight. Examples: speedometer of a car and voltmeter.",
+                    "q": "What are analog computers? Give two examples."
+                  },
+                  {
+                    "a": "Digital computers process information with quantities using the binary number system (0's and 1's). They are the most commonly used type of computers.",
+                    "q": "What are digital computers?"
+                  },
+                  {
+                    "a": "Hybrid computers are the combination of Analog and Digital Computer system. A Hybrid Computer uses analog to digital and digital to analog conversion. It may input or output either digital or analog data.",
+                    "q": "What are hybrid computers?"
+                  }
+                ],
+                "label": "Classification of Computers"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Computers are largely used in manufacturing, ecommerce, education, medical, banking, communication, entertainment, engineering, agriculture, architecture, business, defense and sports.",
+                    "q": "Name any six fields of life in which computers are used."
+                  },
+                  {
+                    "a": "Artificial Intelligence is based on simulating human intelligence in machines. It is used in scientific experiment, healthcare and space technologies.",
+                    "q": "What is Artificial Intelligence? Where is it used?"
+                  },
+                  {
+                    "a": "Robots are the machines that can be controlled by a computer and are capable of carrying out a complex series of actions automatically. Robots are commonly used in manufacturing, industry, science, medicine and education.",
+                    "q": "What are robots? Where are they commonly used?"
+                  },
+                  {
+                    "a": "Wireless communication technology transmits information using electromagnetic waves like IR (Infrared), RF (Radio Frequency), satellite, etc. Global Positioning System (GPS) is now used to find real time location of people and objects.",
+                    "q": "What is wireless communication? Give one example of its use."
+                  },
+                  {
+                    "a": "Virtual Reality is an artificial environment that is created with software and presented to the user in a way that the user feels it as a real environment. It can be used for the simulation of a real environment for training and education and for the development of an imagined environment for a game or interactive story.",
+                    "q": "What is virtual reality? What is it used for?"
+                  }
+                ],
+                "label": "Role of Computer and Careers in IT"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Software is the programs and applications that run on a computer. Hardware is the physical parts of the computer that run programs and applications. Hardware can be seen and touched while software cannot.",
+                    "q": "Differentiate between hardware and software."
+                  },
+                  {
+                    "a": "A System Unit is the part of a computer that contains the primary devices. It includes the motherboard, CPU, RAM and other components, as well as the case in which these devices are enclosed.",
+                    "q": "What is a System Unit? What does it include?"
+                  },
+                  {
+                    "a": "The motherboard is the main board which connects different parts of computer. It includes Microprocessor (CPU), Slots, Ports, Buses, RAM, ROM and other electronic components for example resistors, capacitors, diodes, transistors and jumpers.",
+                    "q": "What is a motherboard? Name its general components."
+                  },
+                  {
+                    "a": "CPU or microprocessor is the brain of computer. It is a chip containing millions of tiny transistors. It fetches, decodes, executes and stores all the instructions given by the user or any other device. The speed of computer mainly depends upon the speed of microprocessor.",
+                    "q": "What is a microprocessor? Why is it called the brain of computer?"
+                  },
+                  {
+                    "a": "Arithmetic Logic Unit (ALU), Control Unit (CU), Clock, Registers and Cache.",
+                    "q": "Name the five components of a microprocessor."
+                  },
+                  {
+                    "a": "ALU performs all the actual calculations like arithmetic operations and logical comparisons. Arithmetic operations include addition, subtraction, multiplication and division while logical comparisons include comparing, selecting and matching of data.",
+                    "q": "What is the function of the ALU?"
+                  }
+                ],
+                "label": "Computer Hardware — System Unit"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Input devices are used to enter data into computers. These devices can be categorized into Text Entering, Pointing and Image Scanning Devices.",
+                    "q": "What are input devices? Into which categories can they be divided?"
+                  },
+                  {
+                    "a": "Keyboard is the most common text entering device, used to enter data usually in text format or to perform other controlling functions. When a key is pressed, the keyboard controller chip sends its corresponding code in the keyboard buffer called scan code, which is then processed by CPU.",
+                    "q": "What is a keyboard? What is a scan code?"
+                  },
+                  {
+                    "a": "Pointing devices are used for the quick movement of cursor on screen, usually in graphic mode. They include mouse, joy stick, track ball and track pad.",
+                    "q": "What are pointing devices? Name them."
+                  },
+                  {
+                    "a": "Scanners convert image into electronic format understandable by computers through light sensing. Image scanners include Optical Mark Recognition (OMR), Optical Barcode Reader (OBR) and Optical Character Recognition (OCR).",
+                    "q": "What are image scanners? Name their types."
+                  },
+                  {
+                    "a": "Microphones are used to accept sound input and convert it in digital audio format. Touch Screen accepts input directly on monitor by touching finger or any object on the screen. Magnetic Ink Character Recognition (MICR) and Magnetic Strip Reader are also used for input.",
+                    "q": "Name three other types of input devices and their uses."
+                  }
+                ],
+                "label": "Input and Output Devices"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A storage device refers to a hardware used to store information. There are two types of storage devices: Primary and Secondary.",
+                    "q": "What is a storage device? Name its two types."
+                  },
+                  {
+                    "a": "Primary storage devices are used by computer during processing. They are quite smaller in storage capacity, are found inside the computer, and have the fastest access to data. Primary devices include RAM and ROM.",
+                    "q": "What are primary storage devices? Give examples."
+                  },
+                  {
+                    "a": "ROM is the Read Only Memory. It is permanent memory. ROM is quite small in capacity. It stores the major setting of computer permanently.",
+                    "q": "What is ROM?"
+                  }
+                ],
+                "label": "Storage Devices"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A computer performs four basic operations: input, processing, output and storage.",
+                    "q": "Name the four basic operations of a computer."
+                  },
+                  {
+                    "a": "Processing is done inside the computer by CPU. Processing is the conversion of input into output. After processing, data is turned into meaningful information. This is carried out with the help of arithmetic and logical operations.",
+                    "q": "What is processing?"
+                  }
+                ],
+                "label": "Basic Operations of a Computer"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Software is a set of instructions that a computer uses to perform a task. It is a general term for a computer program. There are two main types of software: System Software and Application Software.",
+                    "q": "What is software? Name its two main types."
+                  },
+                  {
+                    "a": "System software is a computer program that coordinates all activities and functions of a computer. It also controls all the operations of the computer hardware. It includes operating systems, device drivers, utility programs and language translators.",
+                    "q": "What is system software? What does it include?"
+                  },
+                  {
+                    "a": "Operating system is the master control program that manages all the system resources. It creates an interface between computer system and user. Windows and Linux are commonly used operating systems.",
+                    "q": "What is an operating system? Give two examples."
+                  },
+                  {
+                    "a": "Device drivers are computer programs that control a particular device when it is connected to a computer. Any hardware that we have in our computer must have a device driver to communicate with operating system. A device driver is a translator between the operating system and the hardware device.",
+                    "q": "What are device drivers?"
+                  }
+                ],
+                "label": "Computer Software"
+              }
+            ],
+            "num": "1.4"
+          }
+        ],
+        "words": [],
+        "display": "Fundamentals of Computer"
+      },
+      {
+        "reading": "Fundamentals of Operating System",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(c) operating system ✓",
+                    "q": "The software which performs all basic tasks is: (a) antivirus (b) start menu (c) operating system (d) office automation"
+                  },
+                  {
+                    "a": "(d) interface ✓",
+                    "q": "A program that enables user to interact with computer is called: (a) my document (b) start menu (c) desktop (d) interface"
+                  },
+                  {
+                    "a": "(b) booting ✓",
+                    "q": "The process of checking computer, starting operating system and making it ready to work is referred to as: (a) resource management (b) booting (c) error checking (d) file management"
+                  },
+                  {
+                    "a": "(c) many ✓",
+                    "q": "The number of user(s) that can access the resources simultaneously on a Multiuser OS is / are: (a) one (b) two (c) many (d) only administrators"
+                  },
+                  {
+                    "a": "(a) Resource ✓",
+                    "q": "Which management controls the dynamic allocation and de-allocation of processor, memory, etc? (a) Resource (b) File (c) I/O (d) User"
+                  },
+                  {
+                    "a": "(a) Batch Processing ✓",
+                    "q": "In which operating system jobs are executed in groups? (a) Batch Processing (b) Time Sharing (c) Single User (d) Real Time"
+                  },
+                  {
+                    "a": "(b) Hard Real Time ✓",
+                    "q": "The system that guarantees that critical tasks should be completed without shortest delay is: (a) Batch Processing (b) Hard Real Time (c) Soft Real Time (d) Time Sharing"
+                  },
+                  {
+                    "a": "(c) Single User OS ✓",
+                    "q": "DOS is an example of: (a) Real Time Processing OS (b) Multi Processing OS (c) Single User OS (d) Multi User OS"
+                  },
+                  {
+                    "a": "(d) office automation ✓",
+                    "q": "The group of programs that helps office workers to do a number of routine tasks easily and efficiently is called: (a) operating system (b) e-mail (c) anti-virus (d) office automation"
+                  },
+                  {
+                    "a": "(d) Time Sharing ✓",
+                    "q": "The operating system that allows frequent switching from one task to another is: (a) Batch Processing (b) Real Time Processing (c) Single User (d) Time Sharing"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "2.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "An Operating System is a software which performs all the basic tasks like booting the computer, file management, memory management, process management, and controlling peripheral devices such as hard disk, printer, etc. It manages computer resources efficiently. Three examples of operating systems are: DOS, Windows and Linux (other examples: Android, Mac OS and iOS).",
+                    "q": "Define Operating System. Give three examples of operating systems."
+                  },
+                  {
+                    "a": "Operating System performs the following functions: Booting, Resource Management, User Interface or Command Interpreter, Memory Management, Input / Output Management, File Management, Process Management and User Management. (i) Booting: Booting is a process of starting the computer operating system. It checks the computer resources and makes it ready to perform different tasks. (ii) Resource Management: Operating system manages all the hardware and software resources. This includes allocation and de-allocation of processor, memory, access to shared cache memory and access to network resources.",
+                    "q": "List the functions of an OS? Write briefly about any two."
+                  },
+                  {
+                    "a": "[[T]]CLI|GUI;;A Command Line Interface (CLI) is a screen or text based representation in which the user types the commands on a place called prompt to operate the computer.|A GUI provides a user friendly environment where user can interact with computers through graphical objects such as menus, icons, buttons and other graphical objects.;;CLI is difficult to use because the user has to remember the commands and their syntaxes.|GUI is easy to use as users are supposed to just click on a picture to run commands without memorizing them.;;CLI is fast in use because text mode takes less resources.|GUI is slower than CLI as graphical mode takes more memory and resources.;;Examples: MS-DOS and Apple DOS.|Examples: Windows and iOS.[[/T]]",
+                    "q": "Differentiate between CLI and GUI. Write any two benefits of each."
+                  },
+                  {
+                    "a": "Resource Management manages all the hardware and software resources. This includes allocation and de-allocation of processor, memory, access to shared cache memory and access to network resources.",
+                    "q": "Which resources are managed by Resource Management function of OS?"
+                  },
+                  {
+                    "a": "In a Single User Operating System, a single user can access the computer system at a time. A Multi-User Operating System allows multiple users to access the computer at same time. The operating system manages the memory and resources among the various users according to the requirement. As a manager of a large organization, I will prefer a Multi-User Operating System because: (1) multiple users can access the computer at the same time, and (2) the operating system manages the memory and resources among the various users according to the requirement. Examples of multi-user operating systems are Linux and UNIX.",
+                    "q": "What is the difference between single user and multi user OS? If you are a manager of a large organization which type of OS will you prefer? Justify your answer with any two reasons."
+                  },
+                  {
+                    "a": "Office automation software is a group of computer programs that help users in their daily work. It is the most common software package that we install on our computers. It helps office workers to do a number of routine tasks easily and efficiently. For example, MS Office contains word processor (MS Word) for creating documents, spreadsheet (MS Excel) for calculations and data, multimedia presentation (MS PowerPoint) for presentations, database management system (MS Access) for managing data and email application (MS Outlook) for sending and receiving emails. In this way office automation makes employees productive and efficient.",
+                    "q": "What is the purpose of office automation software? With examples, explain how can office automation help employees to be productive and efficient?"
+                  },
+                  {
+                    "a": "MS Office contains: MS Word — word processor, used for creating and editing documents; MS Excel — spreadsheet, used for calculations and managing data in tables; MS PowerPoint — multimedia presentation, used for making presentations; MS Access — database management system, used for managing databases; MS Outlook — email application, used for sending and receiving emails.",
+                    "q": "List the programs available in MS Office and write why each program is used?"
+                  },
+                  {
+                    "a": "A Hard Real Time System guarantees that critical tasks complete on time, even the shortest delay or urgency is not acceptable; the system should meet the deadline. In a Soft Real Time System the time constraint is less strict: the meeting of deadline is not compulsory for each task, every time, and it does not guarantee that the task will be completed in defined time. Examples of Hard Real Time System: Missile systems and Air Traffic Control System. Examples of Soft Real Time System: Online Transaction System and Airline Ticket Reservation.",
+                    "q": "What is the major difference between Soft Real Time and Hard Real Time systems?"
+                  },
+                  {
+                    "a": "To keep our computer secure and free from viruses, we need to install an antivirus software. The most important component of an antivirus software is the virus database which antivirus software updates time to time. We must update our virus database for preventing virus threats.",
+                    "q": "Why it is important to install an antivirus?"
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "2.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(i) CLI — (f) Interface; (ii) Windows — (d) Operating system; (iii) Process — (e) A job to be performed by the system; (iv) Ms Excel — (b) Office automation; (v) Real time processing operating system — (a) Time bond operating system; (vi) Input / Output Management — (c) Function of operating system",
+                    "q": "Match the columns: [[T]]Column A|Column B;;(i) CLI|(a) Time bond operating system;;(ii) Windows|(b) Office automation;;(iii) Process|(c) Function of operating system;;(iv) Ms Excel|(d) Operating system;;(v) Real time processing operating system|(e) A job to be performed by the system;;(vi) Input / Output Management|(f) Interface[[/T]]"
+                  }
+                ],
+                "label": "C"
+              }
+            ],
+            "name": "Matching",
+            "num": "2.3"
+          },
+          {
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "An Operating System is a software which performs all the basic tasks like booting the computer, file management, memory management, process management, and controlling peripheral devices such as hard disk, printer, etc.",
+                    "q": "Define an operating system."
+                  },
+                  {
+                    "a": "DOS, Windows, Linux, Android, Mac OS and iOS.",
+                    "q": "Name any four common operating systems."
+                  },
+                  {
+                    "a": "An interface is a program that allows a user to interact with the computer or another computer over a network. A User Interface (UI) is the part of operating system, program, or devices that allows a user to enter and receive information.",
+                    "q": "What is an interface? What is a User Interface (UI)?"
+                  },
+                  {
+                    "a": "Booting is a process of starting the computer operating system. It checks the computer resources and makes it ready to perform different tasks.",
+                    "q": "What is booting?"
+                  },
+                  {
+                    "a": "Command interpreter is one of the parts of operating system which reads the commands from user, interprets them and translates them into machine language instructions that the computer hardware can understand.",
+                    "q": "What is a command interpreter?"
+                  },
+                  {
+                    "a": "A process is a job or activity to be performed by the system. The term process refers here to program code that has been loaded into a computer's memory for execution by the central processing unit (CPU).",
+                    "q": "What is a process?"
+                  }
+                ],
+                "label": "Introduction to Operating System"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Booting, Resource Management, User Interface or Command Interpreter, Memory Management, Input / Output Management, File Management, Process Management and User Management.",
+                    "q": "List the eight functions of an operating system."
+                  },
+                  {
+                    "a": "Operating system manages all the hardware and software resources. This includes allocation and de-allocation of processor, memory, access to shared cache memory and access to network resources.",
+                    "q": "What is resource management?"
+                  },
+                  {
+                    "a": "Memory management module performs the task of allocation and de-allocation of memory space to programs and data in need of these resources.",
+                    "q": "What is memory management?"
+                  },
+                  {
+                    "a": "An Operating System provides the device driver to facilitate I/O functions involving I/O devices. These device drivers are software that control I/O devices through their controllers.",
+                    "q": "What is Input / Output (I/O) management?"
+                  },
+                  {
+                    "a": "File management manages all the file-related activities such as organization, storage, retrieval, naming, sharing, and protection of files.",
+                    "q": "What is file management?"
+                  },
+                  {
+                    "a": "Process management manages creation, deletion, suspension and resumption of processes. The OS must ensure that each process gets a fair share of the CPU's time. The OS decides the order in which processes have access to the processor, and how much processing time each process should get. This function of OS is called process scheduling.",
+                    "q": "What is process management? What is process scheduling?"
+                  },
+                  {
+                    "a": "In modern operating systems, user management describes the ability of administrators to control user access to various computer resources like software, I/O devices, storage system, networks, etc.",
+                    "q": "What is user management?"
+                  },
+                  {
+                    "a": "Task Manager shows the processes running on the computer, such as Apps (Microsoft Excel, Microsoft Word, Task Manager, Windows Explorer) and Background processes, along with their CPU, Memory, Disk and Network usage.",
+                    "q": "What does the Task Manager show?"
+                  }
+                ],
+                "label": "Functions of Operating System"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The two most common user interfaces are Command Line Interface (CLI) and Graphical User Interface (GUI).",
+                    "q": "Name the two most common types of user interfaces."
+                  },
+                  {
+                    "a": "A Command Line Interface (CLI) is a screen or text based representation in which the user types the commands on a place called prompt to operate the computer. Command contains string of characters. It was primarily provided to users by computer terminals on UNIX, and personal computers including MS-DOS and Apple DOS.",
+                    "q": "What is a Command Line Interface (CLI)?"
+                  },
+                  {
+                    "a": "CLI is difficult to use because the user has to remember the commands and their syntaxes, but it is fast in use because text mode takes less resources.",
+                    "q": "What are the advantages and disadvantages of CLI?"
+                  },
+                  {
+                    "a": "A GUI provides a user friendly environment where user can interact with computers through graphical objects such as menus, icons, buttons and other graphical objects. It is easy to use as users are supposed to just click on a picture to run commands without memorizing them. Windows and iOS are examples of GUI.",
+                    "q": "What is a Graphical User Interface (GUI)? Give two examples."
+                  },
+                  {
+                    "a": "GUI is slower than CLI as graphical mode takes more memory and resources.",
+                    "q": "Why is GUI slower than CLI?"
+                  }
+                ],
+                "label": "Types of Interface"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The Operating System can be categorized as: Single User and Multi-User OS, Batch Processing OS, Time Sharing OS and Real Time Processing OS.",
+                    "q": "Into which types can operating systems be categorized?"
+                  },
+                  {
+                    "a": "In a Single User Operating System, a single user can access the computer system at a time. DOS for PCs and Windows 98 for PCs are examples of single user operating system.",
+                    "q": "What is a single user operating system? Give two examples."
+                  },
+                  {
+                    "a": "A Multi-User Operating System allows multiple users to access the computer at same time. The operating system manages the memory and resources among the various users according to the requirement. Linux and UNIX are the most common examples of the multi-user operating system.",
+                    "q": "What is a multi-user operating system? Give two examples."
+                  },
+                  {
+                    "a": "Batch Processing is used for programs that are executed with minimum human interaction. Each user prepares his job and submits it to the computer operator. To speed up processing, jobs with similar needs are batched together and run as a group by an operator. The main function of a batch processing system is to automatically keep executing the jobs in a batch.",
+                    "q": "What is a batch processing operating system?"
+                  },
+                  {
+                    "a": "Batch systems can be shared by multiple users; the idle time for batch system is very less; and the next job starts just after the current one.",
+                    "q": "What are the benefits of batch processing?"
+                  },
+                  {
+                    "a": "Time sharing is a method that allows multiple users to share resources simultaneously. Multiple users can use a specific computer at the same time in different places. As the system switches rapidly from one task or user to the other, a short time slot is given to each task or user for their executions and all feel that the system is not shared. These systems are also known as Multitasking Systems.",
+                    "q": "What is a time sharing operating system? What is it also known as?"
+                  },
+                  {
+                    "a": "The time that each task gets to execute is called quantum. After this time interval is over OS switches over to next task.",
+                    "q": "What is a quantum in a time sharing operating system?"
+                  },
+                  {
+                    "a": "A Real Time Processing Operating System is a time bound operating system which has fixed time limit. Processing has to be done within the defined time limit otherwise system will be failed. It is classified into Hard Real Time System and Soft Real Time System.",
+                    "q": "What is a real time processing operating system? Into which two parts is it classified?"
+                  }
+                ],
+                "label": "Types of Operating System"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Software installation is the process of making programs ready for execution. Software installation or installer is a computer program that installs files, such as applications, drivers, or other software, onto a computer. Software can be downloaded from the internet, or installed from an installation CD or DVD or from a USB flash drive.",
+                    "q": "What is software installation? From where can software be installed?"
+                  },
+                  {
+                    "a": "For installing Windows 10, we need at least: Processor 1GHz, Memory 1GB for 32-bit or 2GB for 64-bit, Storage 32GB, Graphics card DirectX 9 or later with WDDM 1.0 driver, and Display 800x600.",
+                    "q": "What is the minimum hardware requirement for installing Windows 10?"
+                  },
+                  {
+                    "a": "Insert the Windows Installation DVD/Flash Drive; Restart your Computer; Wait for the first startup screen; Press or hold Del or F2 to enter the BIOS screen; Locate the Boot order / Boot sequence; Select Boot order / Boot sequence as per your installation source (USB Flash/USB Hard Disk, USB CD/DVD ROM, or Internal CD/DVD ROM); Select any option: Upgrade or Customize Installation (Advance); Select any drive for installing your operating system; Follow the on screen instructions.",
+                    "q": "List the major steps for installing Windows."
+                  },
+                  {
+                    "a": "To install MS-Office package: Run the MS-Office setup from USB, DVD or Hard Disk backup; Check the box marked 'I accept the terms of this agreement' and click on 'Continue'; Enter Product Key; Click on Install Now or Customize procedure; Select the package which you want to install and click on 'Install Now'; then installation begins and MS Office installer will notify automatically after finishing the installation.",
+                    "q": "What are the steps to install MS Office?"
+                  },
+                  {
+                    "a": "For MS-Office 2013 the minimum requirements are: 1.6 GHz processor, 1 GB RAM, 3 GB hard disk free space, minimum Windows 7 operating system and graphics driver.",
+                    "q": "What are the minimum requirements for installing MS Office 2013?"
+                  },
+                  {
+                    "a": "MS Office contains word processor (MS Word), spreadsheet (MS Excel), multimedia presentation (MS PowerPoint), database management system (MS Access) and email application (MS Outlook). In class 9, we will use MS-Word, MS Excel and MS-Access.",
+                    "q": "Which programs does MS Office contain? Which three will be used in class 9?"
+                  },
+                  {
+                    "a": "Choosing an operating system depends upon the hardware that we have. To maintain compatibility between hardware and software, the operating system vendor specifies the minimum hardware requirement.",
+                    "q": "Why does the operating system vendor specify the minimum hardware requirement?"
+                  }
+                ],
+                "label": "Software Installation"
+              },
+              {
+                "items": [
+                  {
+                    "a": "To keep our computer secure and free from viruses, we need to install an antivirus software. A number of free antivirus software are available online. AVG, Avast, Avira and Kaspersky are some of the free antivirus software.",
+                    "q": "Why do we install an antivirus? Name any four free antivirus software."
+                  },
+                  {
+                    "a": "We need to download the installation file from the respective antivirus software and run it, but make sure that the computer has the access of internet. After running the installation file, antivirus software will be automatically installed on our computer.",
+                    "q": "How is an antivirus installed?"
+                  },
+                  {
+                    "a": "The most important component of an antivirus software is the virus database which antivirus software updates time to time. We must update our virus database for preventing virus threats.",
+                    "q": "What is the most important component of an antivirus software? Why must it be updated?"
+                  }
+                ],
+                "label": "Installing Antivirus"
+              }
+            ],
+            "num": "2.4"
+          }
+        ],
+        "title": "Fundamentals of Operating System",
+        "unit": 2,
+        "words": [],
+        "display": "Fundamentals of Operating System"
+      },
+      {
+        "reading": "Office Automation",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(d) Pie chart ✓ — shown as a circle divided into parts",
+                    "q": "Which chart will be suitable to show the share of three partners in a business? (a) Line chart (b) Bar chart (c) Area chart (d) Pie chart"
+                  },
+                  {
+                    "a": "(b) MS Excel ✓",
+                    "q": "The software that is used for accounting purpose is: (a) MS Word (b) MS Excel (c) MS Power point (d) MS Access"
+                  },
+                  {
+                    "a": "(a) MS Word ✓",
+                    "q": "The software that is used to format a document is: (a) MS Word (b) MS Excel (c) MS Power point (d) MS Access"
+                  },
+                  {
+                    "a": "(b) = ✓",
+                    "q": "The special character that initiates the formula mode in a cell is: (a) / (b) = (c) - (d) *"
+                  },
+                  {
+                    "a": "(b) Sorting ✓",
+                    "q": "The function which is used to re-arrange data according to specific criteria is called: (a) Filtering (b) Sorting (c) Organizing (d) Grouping"
+                  },
+                  {
+                    "a": "(a) themes ✓",
+                    "q": "If we want to change the overall design of a word document, we should use: (a) themes (b) page layout (c) watermark (d) margins"
+                  },
+                  {
+                    "a": "(a) = B2 + C2 + D2 + E2 ✓",
+                    "q": "The correct formula to calculate the total in the given table is: (a) = B2 + C2 + D2 + E2 (b) = B2 + E2 (c) = sum (B2 to E2) (d) = sum (B2 from E2)"
+                  },
+                  {
+                    "a": "(c) =(B2 + C2 + D2 + E2) / 400 * 100 ✓",
+                    "q": "The correct formula to calculate the percentage in the given table is: (a) =B2 + C2 + D2 + E2 / 400 * 100 (b) =B2 + C2 + D2 + E2 * 100 (c) =(B2 + C2 + D2 + E2) / 400 * 100 (d) =(B2 + C2 + D2 + E2) / 100 * 400"
+                  },
+                  {
+                    "a": "(d) show the quantities and their relationships graphically ✓",
+                    "q": "Charts are basically used to: (a) design tables (b) organize data in tables (c) Sort data in different columns (d) show the quantities and their relationships graphically"
+                  },
+                  {
+                    "a": "(a) levels of heading ✓",
+                    "q": "To apply the table of contents automatically, the most important task is to properly define the: (a) levels of heading (b) page numbering (c) page layout (d) themes"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "3.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Microsoft Word (MS Word) is one of the most famous word-processing software. It allows its user to type text and manipulate it. MS Word first introduced the concept of WYSIWYG (What You See Is What You Get) by introducing text formatting and document preview exactly as we would get it on a paper. Three applications of a word processor are: writing letters, applications and CVs (other applications: question papers and books).",
+                    "q": "What is a word processor? Write any three applications of a word processor."
+                  },
+                  {
+                    "a": "Margins: A margin is the area or space between the main content of a page and the page edges. The Margins button is used to change the margins of the entire document or selected section. Paper Size: The Size button is used to choose the size of the paper for current section or entire document.",
+                    "q": "Discuss the Margins and Paper Size options in the Page Setup group."
+                  },
+                  {
+                    "a": "Orientation: Page orientation or print orientation is the placement of contents on a page. The Orientation button sets the contents of the page or section in portrait (Vertical) or landscape (Horizontal) layouts. The two options in Orientation are Portrait (Vertical) and Landscape (Horizontal).",
+                    "q": "Name and describe two options in Orientation."
+                  },
+                  {
+                    "a": "To apply Margins in a document, go to the Page Layout Tab, Page Setup group, and click the Margins button (HOTKEY: ALT+P+M). The Margins button is used to change the margins of the entire document or selected section.",
+                    "q": "How can we apply Margins in a document?"
+                  },
+                  {
+                    "a": "The Breaks button (HOTKEY: ALT+P+B) is used to insert page, section or column breaks in the document. The three types of breaks in MS Word are: Page break, Section break and Column break.",
+                    "q": "Describe the different types of breaks in MS Word."
+                  },
+                  {
+                    "a": "[[T]]Bring Forward|Send Backward;;Bring Forward brings a selected object in front of all other objects.|Send Backward sends a selected object behind all other objects.;;For example, if a picture is placed behind a shape, Bring Forward will bring the picture in front of the shape.|For example, if a picture is placed in front of a shape, Send Backward will send the picture behind the shape.[[/T]]",
+                    "q": "Differentiate “Bring Forward” and “Send Backward” options in the Arrange group with example."
+                  },
+                  {
+                    "a": "The Columns button (HOTKEY: ALT+P+J) is used to split the text into two or more vertical columns.",
+                    "q": "Explain the “Columns” option in the Page Setup group."
+                  },
+                  {
+                    "a": "Position: Position is used to place an object (picture or shape) on the page wherever you want. Wrap Text: Text wrapping is used to arrange the text around an object like an image.",
+                    "q": "List and define Position and Wrap Text option in Arrange Group."
+                  },
+                  {
+                    "a": "A Table of Contents (ToC) is an organized listing of the sections, groups and headings of content in a document and identified by page numbers where they are placed. It provides an overview of the document and allows readers to go directly to specific section or content in the document. ToC usually appears after the Title Page in a document.",
+                    "q": "In what way does a ToC help book reader?"
+                  },
+                  {
+                    "a": "To multiply 37 by 15 using the formula bar in MS Excel: 1. Select a cell. 2. Type = (equal sign). 3. Type 37. 4. Type *. 5. Type 15. 6. Press Enter. The answer (555) will be calculated by MS Excel and displayed in the selected cell. [[E]]37 * 15 = 555[[/E]]",
+                    "q": "Write steps that will multiply 37 by 15 using the formula bar in MS Excel."
+                  },
+                  {
+                    "a": "A watermark is a faded background image that displays behind the text in a document. The Watermark button is used to insert logos, images or text behind the contents of a page. Watermarks are used in special documents such as certificates, invitations and brochures, for example to show a company logo or text behind the contents of the page.",
+                    "q": "Why do we use Watermark in a document? Give some examples of Watermarks."
+                  },
+                  {
+                    "a": "Four uses of spreadsheets in business are: (1) to organize, display, format and calculate data; (2) to keep records of data and present them as tables and graphs; (3) to perform calculations using formulas; (4) to visualize data in graphs and create pivot tables.",
+                    "q": "List four uses of spreadsheets in business."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "3.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(i) Wrap Text — (b) allows to arrange text around an image; (ii) Automatic Table of Contents — (d) is created based on heading; (iii) Page Setup Group sets — (e) margins, orientation and size; (iv) Excel is used to — (f) organize, display, format and calculate data; (v) Charts — (c) Show data graphically; (vi) Ms Word is widely used for — (a) documentation",
+                    "q": "Match the columns: [[T]]Column A|Column B;;(i) Wrap Text|(a) documentation;;(ii) Automatic Table of Contents|(b) allows to arrange text around an image;;(iii) Page Setup Group sets|(c) Show data graphically;;(iv) Excel is used to|(d) is created based on heading;;(v) Charts|(e) margins, orientation and size;;(vi) Ms Word is widely used for|(f) organize, display, format and calculate data[[/T]]"
+                  }
+                ],
+                "label": "C"
+              }
+            ],
+            "name": "Matching",
+            "num": "3.3"
+          },
+          {
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Microsoft Word (MS Word) is one of the most famous word-processing software. It was first released and made public in early 1980s by Microsoft. It allows its user to type text and manipulate it. We will be using MS Word 2010 version in this chapter.",
+                    "q": "What is MS Word? When was it first released? Which version is used in this chapter?"
+                  },
+                  {
+                    "a": "MS Word first introduced the concept of WYSIWYG (What You See Is What You Get) by introducing text formatting and document preview exactly as we would get it on a paper.",
+                    "q": "What is WYSIWYG? What did MS Word introduce with it?"
+                  },
+                  {
+                    "a": "The Page Layout Tab allows user to control the look and feel of his or her document. User can set margins, apply themes, control page orientation and size, add sections and line breaks, display line numbers, and set paragraph indentation and lines.",
+                    "q": "What does the Page Layout Tab allow the user to do?"
+                  },
+                  {
+                    "a": "The Page Layout tab has five groups of related commands namely Themes, Page Setup, Page Background, Paragraph and Arrange.",
+                    "q": "Name the five groups of the Page Layout Tab."
+                  },
+                  {
+                    "a": "A theme is a predefined set of formatting, colors and settings that changes the overall design and look of the entire document. Applying themes to our work gives it a professional look.",
+                    "q": "What is a theme? What is the benefit of applying a theme?"
+                  },
+                  {
+                    "a": "Page Setup settings help us set the page layout properties such as margins, orientation and size. The settings in this section are often applied throughout the document. The Page Setup group contains Margins, Orientation, Size, Columns, Breaks, Line Numbers and Hyphenation.",
+                    "q": "What is the Page Setup group? Name the buttons in it."
+                  },
+                  {
+                    "a": "A margin is the area or space between the main content of a page and the page edges. The Margins button is used to change the margins of the entire document or selected section.",
+                    "q": "What is a margin? What is the Margins button used for?"
+                  },
+                  {
+                    "a": "Page orientation or print orientation is the placement of contents on a page. This button sets the contents of the page or section in portrait (Vertical) or landscape (Horizontal) layouts.",
+                    "q": "What is page orientation?"
+                  }
+                ],
+                "label": "MS Word and Page Layout Tab"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Page Background settings are used mostly for special documents such as certificates, invitations, brochures, essays, etc. It consists of 3 buttons namely, Watermark, Page Color and Page Borders.",
+                    "q": "What is the Page Background group? Name its three buttons."
+                  },
+                  {
+                    "a": "A watermark is a faded background image that displays behind the text in a document. This button is used to insert logos, images or text behind the contents of a page.",
+                    "q": "What is a watermark?"
+                  },
+                  {
+                    "a": "The Page Color button is used when user wants to apply a color for the background of the page.",
+                    "q": "What is the Page Color button used for?"
+                  },
+                  {
+                    "a": "Page Border button is used to put a border around the page.",
+                    "q": "What is the Page Border button used for?"
+                  },
+                  {
+                    "a": "The Paragraph Group is where we can modify all the settings of the paragraphs that appear in our document. This allows us to set a few basic paragraph styles and also adjust the indents and spacings.",
+                    "q": "What is the Paragraph group used for?"
+                  },
+                  {
+                    "a": "Indent Left is used to define amount of blank space (in centimeters) used to separate a paragraph from left margin. Indent Right is used to define amount of blank space (in centimeters) used to separate a paragraph from right margin.",
+                    "q": "What are Indent Left and Indent Right used for?"
+                  },
+                  {
+                    "a": "Space Before is used to indicate how much space (in points) is added before the selected paragraph. Space After is used to indicate how much space (in points) is added after the selected paragraph.",
+                    "q": "What are Space Before and Space After used for?"
+                  },
+                  {
+                    "a": "The buttons in Arrange Group help the users to quickly arrange graphical and other elements of the document in relation to the main textual content. The Arrange group contains Position, Wrap Text, Bring Forward, Send Backward, Selection Pane, Align, Group and Rotate.",
+                    "q": "What is the Arrange group? Name the buttons in it."
+                  },
+                  {
+                    "a": "Bring Forward brings a selected object in front of all other objects. Send Backward sends a selected object behind all other objects.",
+                    "q": "What do Bring Forward and Send Backward do?"
+                  },
+                  {
+                    "a": "Selection Pane is used to select, show, hide and change the order of objects in the document. Align is used to place objects like pictures, shapes, icons, etc. in alignment with margins, edge, or relative to another object in the document.",
+                    "q": "What are Selection Pane and Align used for?"
+                  },
+                  {
+                    "a": "Group is used to combine two or more objects together so that they can be treated as a single object. Rotate is used to rotate or flip the selected object.",
+                    "q": "What are Group and Rotate used for?"
+                  }
+                ],
+                "label": "Page Background, Paragraph and Arrange Groups"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A Table of Contents (ToC) is an organized listing of the sections, groups and headings of content in a document and identified by page numbers where they are placed. It provides an overview of the document and allows readers to go directly to specific section or content in the document. ToC usually appears after the Title Page in a document.",
+                    "q": "What is a Table of Contents (ToC)? Where does it usually appear?"
+                  },
+                  {
+                    "a": "To create a Table of Contents in MS Word document, go to the References Tab where Table of Contents button appears as the first option of that tab. MS Word provides several options of creating a ToC that include Automatic Table creation, Manual Table creation or the user can even create a Customized Table of Contents based on the requirements of the document.",
+                    "q": "How is a Table of Contents created in MS Word? What options are available?"
+                  },
+                  {
+                    "a": "Automatic Table creates a Table of Contents automatically based on the content used as Heading presets of MS Word. Based on the type of Heading, Automatic Table of Contents will create the appropriate levels and show page numbers where those Headings are placed. The only difference between Automatic Table 1 and Automatic Table 2 is the title of the table that is “Contents” or “Table of Contents”.",
+                    "q": "What is an Automatic Table of Contents? What is the difference between Automatic Table 1 and Automatic Table 2?"
+                  },
+                  {
+                    "a": "Choosing Manual Table from the Table of Contents menu will create a template of a generic table of contents. This table will need to be edited and defined manually by providing all the headings, sub-headings and page numbers. To extend the table, simply copy and paste the template lines and edit them to preserve proper formatting.",
+                    "q": "What is a Manual Table of Contents?"
+                  },
+                  {
+                    "a": "MS Word 2010 also supports typing text in various other languages like Urdu and Sindhi. To be able to write in other languages, the keyboards for those languages have to be installed in Microsoft Windows.",
+                    "q": "Does MS Word 2010 support typing in Urdu and Sindhi? What is needed to write in other languages?"
+                  },
+                  {
+                    "a": "To change the default language, go to the File menu and select Options. From the Word Options dialog box, select Language tab. Now choose one of the available languages as the default language for MS Word 2010.",
+                    "q": "How can the default language of MS Word be changed?"
+                  }
+                ],
+                "label": "Table of Contents and Typing in Urdu and Sindhi"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Microsoft Excel (MS Excel) is a software that uses spreadsheet system to organize, display, format and calculate data using advanced features and formulas. MS Excel is a part of Microsoft Office Suite and integrates with other applications in the Office Suite. It is the most widely used spreadsheet system.",
+                    "q": "What is MS Excel?"
+                  },
+                  {
+                    "a": "The elements of the MS Excel User Interface shown in the book are: File Tab, Quick Access Toolbar, Ribbon, Title Bar, Help Icon, Column Header, Row Indicators, Worksheet Area, View Buttons, Zoom Slider and Status Bar.",
+                    "q": "Name the elements of the MS Excel User Interface."
+                  },
+                  {
+                    "a": "Sorting is the process of rearranging or reordering data based on different criteria like size, quality, value and quantity. MS Excel has the ability to sort data according to the needs of the user.",
+                    "q": "What is sorting?"
+                  },
+                  {
+                    "a": "To sort a list of products in alphabetical order based on the names of the products: first select all the rows and columns which make up this product list, then go to the Data tab and select the Sort option. In the Sort dialog box, choose Product from the Sort by dropdown list and make sure that in the Order dropdown list, A to Z is selected. The data will be rearranged and sorted alphabetically based on the values in Product column.",
+                    "q": "How can a list of products be sorted alphabetically in MS Excel?"
+                  },
+                  {
+                    "a": "Formulas tell MS Excel what calculation needs to be performed on the data. Formulas always start with an equal sign (=). They are defined in the Formula Bar. Common calculations include addition, subtraction, multiplication and division. Comparison of two numbers and finding their average is also possible.",
+                    "q": "What are formulas in MS Excel? With which sign do they always start? Where are they defined?"
+                  },
+                  {
+                    "a": "To add 220 and 87 placed in cells A2 and B2: 1. Select cell C2. 2. Type = (equal sign). 3. Select cell A2 in the worksheet by using the mouse or the keyboard. 4. Type +. 5. Select cell B2 in the worksheet. 6. Press Enter. 7. The answer (307) will be calculated by MS Excel and displayed in the selected cell (C2). [[E]]= A2 + B2[[/E]] [[S]]= 220 + 87[[/S]] [[A]]307[[/A]]",
+                    "q": "Write the steps to add 220 and 87 placed in cells A2 and B2 using an MS Excel formula. What is the answer?"
+                  },
+                  {
+                    "a": "Charts are also known as graphs. They include diagrams and tables. Charts feature in MS Excel allows the users to present a set of data visually. A huge set of data may not succeed in presenting its meaning to the reader whereas visual information helps better understand those data values at a glance.",
+                    "q": "What are charts? Why are they used?"
+                  },
+                  {
+                    "a": "The four most common types of chart used are: Bar Charts, Column Charts, Line Charts and Pie Charts. A Pie Chart is suitable to show the share of three partners in a business.",
+                    "q": "Name the four most common types of charts. Which chart shows the share of partners in a business?"
+                  },
+                  {
+                    "a": "From the bar chart of the average monthly temperature for Larkana in 2018, we can easily derive the hottest and the coldest months and compare them with each other. The hottest month is June (44°C) and the coldest month is January (23°C).",
+                    "q": "From the Larkana temperature chart, which are the hottest and the coldest months? What are their temperatures?"
+                  }
+                ],
+                "label": "MS Excel, Sorting, Formulas and Charts"
+              }
+            ],
+            "num": "3.4"
+          }
+        ],
+        "title": "Office Automation",
+        "unit": 3,
+        "words": [],
+        "display": "Office Automation"
+      },
+      {
+        "reading": "Data Communication and Computer Networks",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(c) guided media ✓",
+                    "q": "Wired Media is also called: (a) targeted media (b) directed media (c) guided media (d) unguided media"
+                  },
+                  {
+                    "a": "(c) five components ✓",
+                    "q": "Communication system is made up of: (a) three components (b) four components (c) five components (d) six components"
+                  },
+                  {
+                    "a": "(b) unique ✓",
+                    "q": "Both Physical and Logical addresses are: (a) different (b) unique (c) permanent (d) temporary"
+                  },
+                  {
+                    "a": "(a) IEEE ✓",
+                    "q": "If you are an electrical or electronic engineer, you should join: (a) IEEE (b) IETF (c) ITU (d) ANSI"
+                  },
+                  {
+                    "a": "(b) Star ✓",
+                    "q": "The topology in which all computers are connected to a central device called hub is: (a) Bus (b) Star (c) Ring (d) Tree"
+                  },
+                  {
+                    "a": "(d) distortion ✓",
+                    "q": "Change in the shape of signal between sender and receiver is called: (a) attenuation (b) interruption (c) noise (d) distortion"
+                  },
+                  {
+                    "a": "(d) optimal ✓",
+                    "q": "Router determines data path to transfer data packets which is the: (a) shortest (b) longest (c) cheapest (d) optimal"
+                  },
+                  {
+                    "a": "(a) modulation ✓",
+                    "q": "Converting digital signal to analog is called: (a) modulation (b) modification (c) bandwidth (d) multiplexing"
+                  },
+                  {
+                    "a": "(b) 32 ✓",
+                    "q": "The number of bits used in an IPV4 address are: (a) 16 (b) 32 (c) 64 (d) 128"
+                  },
+                  {
+                    "a": "(a) Attenuation ✓",
+                    "q": "The loss of energy in transmission signal refers to: (a) Attenuation (b) Distortion (c) Noise (d) Jitter"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "4.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "The effectiveness of a data communications system depends on the fundamental characteristics which include delivery, accuracy and timeliness. (1) Delivery: Making sure that the data is delivered is the first fundamental characteristic of any communication network. The system must be able to deliver data in correct order to the correct destination. (2) Accuracy: The system must deliver the data accurately. Data that has been altered during transmission and left uncorrected is not useful. (3) Timeliness: The data must be delivered in a timely manner. Late delivered data is useless.",
+                    "q": "List the properties of a good communication system. Explain any one."
+                  },
+                  {
+                    "a": "A Communication system has five components: message, sender, receiver, medium and protocol. For example, sending an email: the Message is the email (text, numbers, pictures, audio or video) to be communicated; the Sender is the computer that generates and sends the message; the Receiver is the computer that receives the data; the Medium is the channel or path (for example a twisted-pair cable or radio waves) through which the message is carried from sender to receiver; and the Protocol is the set of rules and procedures (for example TCP/IP) that the sender and receiver both follow to communicate with each other.",
+                    "q": "Explain components of communication using single example."
+                  },
+                  {
+                    "a": "Amplifiers: Amplifiers are used to overcome attenuation and make signal stronger again. Routers: A Router is a device that connects two or more networks. The main function of a router is to determine the optimal data path and transfer the information through that path; it is also known as network traffic controller. Switch: A switch or network switch is a networking device that connects computers and other devices like printers, scanners and cameras on a network. Data cables from all computers and other devices of network are plugged into the switch to enable communication between them. Hub: In a star topology, all the computers are connected to a central device called hub or switch. To communicate with any computer, the sender must send information to the hub. Then the hub transmits that information to the destination.",
+                    "q": "Write the function of following network devices. Amplifiers, Routers, Switch, Hub"
+                  },
+                  {
+                    "a": "Transmission impairments are those defects that occur when data is transmitted. There are three causes of impairment i.e. attenuation, distortion and noise. Attenuation: Attenuation means loss of energy. A signal loses its energy due to the resistance of medium while it is transmitted. Its strength decreases with increase in distance. Amplifiers are used to overcome attenuation and make signal stronger again. It is measured in decibels.",
+                    "q": "List the causes of signal impairments. Explain any one."
+                  },
+                  {
+                    "a": "[[T]]Radio Waves|Microwaves;;Radio waves are also called electromagnetic waves. These are easy to generate and can penetrate through buildings.|Microwave transmission is a line of sight transmission i.e. the sending and receiving antennas need to be properly aligned with each other.;;Radio waves are omnidirectional and propagated in all directions. It means that sending and receiving antennas do not need to be aligned.|The distance covered by the signal is directly proportional to the height of the antenna.;;FM, AM radios, television and cordless phones use radio waves for transmission.|These are mostly used for mobile phone communications tower and television broadcast. Terrestrial and Satellite are two types of microwave transmissions.[[/T]]",
+                    "q": "What is the difference between radio wave and microwave?"
+                  },
+                  {
+                    "a": "The Open Systems Interconnection model is a conceptual model developed by ISO. It characterizes and standardizes the communication functions of a telecommunication and computing network. Its goal is the interoperability of different communication systems with standard communication protocols. This model divides a communication system into seven abstraction layers, so that each layer performs a specific communication function.",
+                    "q": "Why OSI model is broken up in layers?"
+                  },
+                  {
+                    "a": "A Standard Organization develops, coordinates, revises, amends and reissues technical standards. These standards are intended to address the requirements of a group of concerned devices. Network standards define rules of communications among computing devices. This ensures that companies (i.e. Cisco and IBM) that manufacture computing and networking products follow these uniform standards. By following standards, all hardware become compatible in the network, allowing efficient networking to take place.",
+                    "q": "Explain the purpose of Standard Organization."
+                  },
+                  {
+                    "a": "[[T]]Topology|Merit|Demerit;;Bus|Simplicity, low cost and easy expansion of the network.|A breakdown in the bus cable brings the entire network down.;;Ring|Each computer acts like a repeater to send the message to the next computer; the signal travels around the loop in one direction and passes through each computer.|The failure of a link or a computer can make the entire network non-functional.;;Star|Easy to set up and easy expansion of the network. If one link to the hub breaks, only the station using that link is affected, not the whole network.|The book does not state a demerit of star topology.[[/T]]",
+                    "q": "List one merit and one demerit of each topology."
+                  },
+                  {
+                    "a": "LAN: A school, laboratory, home or office building network, where computers and peripheral devices are connected in a limited area. MAN: A network spread across an entire city, college campus, or a small region. WAN: A network that covers a larger geographical area and connects cities, provinces or even countries, using satellites, microwaves or telecommunication links.",
+                    "q": "Give one example of LAN, WAN and MAN."
+                  },
+                  {
+                    "a": "Bit rate is the number of bits (0's and 1's) transmitted per second. Baud rate is the number of signal units transmitted per second. They are related by the formulas: [[E]]Bit rate = baud rate x the number of bits per signal unit[[/E]] [[E]]Baud rate = bit rate / the number of bits per signal unit[[/E]] Example: if a signal changes 1200 times in one second, it would be measured at 1200 baud. Data rate is normally measured in bits per second, ranging from bps (bits per second) for smaller values to kbps (kilo bits per second) and mbps (megabits per second).",
+                    "q": "How can we measure bit rate and baud rate? Give an example of each."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "4.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(i) Parts of an IPV4 address — (b) Network and Host; (ii) Physical address — (e) Cannot be changed; (iii) Change in shape of signals — (f) Distortion; (iv) A networking connecting two continents — (a) WAN; (v) TCP and UDP are used at — (c) Transport layer; (vi) In OSI model the layer responsible to decide the format of data — (d) Data link layer (as printed; see flag — the book says the Presentation layer converts data to uniform network format, but Presentation layer is not listed in Column B)",
+                    "q": "Match the columns: [[T]]Column A|Column B;;(i) Parts of an IPV4 address|(a) WAN;;(ii) Physical address|(b) Network and Host;;(iii) Change in shape of signals|(c) Transport layer;;(iv) A networking connecting two continents|(d) Data link layer;;(v) TCP and UDP are used at|(e) Cannot be changed;;(vi) In OSI model the layer responsible to decide the format of data|(f) Distortion[[/T]]"
+                  }
+                ],
+                "label": "C"
+              }
+            ],
+            "name": "Matching",
+            "num": "4.3"
+          },
+          {
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Communication is the process of sharing a message. A conversation between two people is an example of communication. Data communications refers to the sharing of a virtual message. Electronic communications, like emails and instant messages and phone calls are examples of data communications.",
+                    "q": "What is communication? What is data communication?"
+                  },
+                  {
+                    "a": "Data communication is the exchange of digital messages between two devices. It involves a sender and a receiver which communicate via some form of transmission medium such as a cable.",
+                    "q": "Define data communication."
+                  },
+                  {
+                    "a": "Collection of raw facts and figures is called data. The word data is derived from Latin language and it is plural of Datum. The text, numbers, symbols, images, voice and video which are processed by computers and digital devices are called data. Data can be considered as unprocessed information.",
+                    "q": "What is data?"
+                  },
+                  {
+                    "a": "Data Communication is the process of transferring data electrically from one place to another. It is the process of exchange of data and information between two parties such as human and electronic or computing device.",
+                    "q": "Define data communication (as a process of transferring data)."
+                  },
+                  {
+                    "a": "The data transmission means emission of data in any direction via wireless or wired medium. Transmission may occur between source and destination.",
+                    "q": "What is data transmission?"
+                  }
+                ],
+                "label": "Basics of Data Communication"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Data rate is the rate at which data is transferred. It is normally measured in bits per second. Bit is the actual binary digit which is the basic unit of data transmission. Bit can hold either 0 or 1. Data rate can be ranging from bps (bits per second) for smaller values to kbps (kilo bits per second) and mbps (megabits per second). It is also called bit rate. Data rate becomes faster when more bits are transferred in one second.",
+                    "q": "What is data rate / bit rate? In which units is it measured?"
+                  },
+                  {
+                    "a": "The baud rate is the number of signals transmitted per second and one signal can represent one or more bits. It is used to describe the maximum change in an electronic signal. For example, if a signal changes 1200 times in one second, it would be measured at 1200 baud.",
+                    "q": "What is baud rate? Give an example."
+                  },
+                  {
+                    "a": "[[T]]Data Rate or Bit Rate|Baud Rate;;Bit rate tells the number of bits transmitted per unit of time (Second).|Baud rate is used when we want to know the number of signal units transmitted per unit of time (Second).;;Bit rate is the number bits (0's and 1's) transmitted per second.|Baud rate is the number of times a signal is traveling comprised of bits. One signal can represent more than one bit.;;Bit rate = baud rate x the number of bits per signal unit|Baud rate = bit rate / the number of bits per signal unit[[/T]]",
+                    "q": "Differentiate between data rate and baud rate."
+                  },
+                  {
+                    "a": "Signal-to-noise ratio (abbreviated SNR or S/N) is a measure used in engineering that compares the level of a desired signal and the level of background noise. It is defined as the ratio of signal power to the noise power, often expressed in decibels.",
+                    "q": "What is signal to noise ratio (SNR)?"
+                  }
+                ],
+                "label": "Data Rate, Baud Rate and Components of a Communication System"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Transmission Medium or Communication Channel is a wireless or physical path between the sender and receiver through which data is sent and received from one place to another. Data is transmitted normally by electromagnetic or electrical signals through different types of wires, atmosphere or vacuum. Transmission media is broadly classified into two groups: guided and unguided.",
+                    "q": "What is a transmission medium? Into which two groups is it classified?"
+                  },
+                  {
+                    "a": "In guided media signals are transmitted in a narrow pathway by using physical links. It is also called Wired or Bounded transmission media. The physical links are the cables that are tangible or have physical existence. There are three common types of guided media: Twisted Pair Cable, Coaxial Cable and Fiber-Optic Cable.",
+                    "q": "What is guided media? Name its three common types."
+                  },
+                  {
+                    "a": "Twisted pair cable is made by two separate wires twisted together. A twisted pair cable is made up of insulated copper wires. The insulation and twisting of wires prevent external interference. Each pair of wires has unique color code. There are two types of twisted pair cables: (a) Unshielded Twisted Pair (UTP) (b) Shielded Twisted Pair (STP).",
+                    "q": "What is a twisted pair cable? Name its two types."
+                  },
+                  {
+                    "a": "Unshielded Twisted Pair (UTP): This type of cable can block interference but it is vulnerable to external interference. It is mostly used for telephonic applications. It is less expensive and easy to install. Shielded Twisted Pair (STP): This type of cable consists of a special coating to block external interference. It is used in fast-data-rate ethernet and also in voice and data channels of telephone lines.",
+                    "q": "Differentiate between UTP and STP."
+                  },
+                  {
+                    "a": "Coaxial cable is also known as coax. It has an outer plastic covering containing two parallel conductors each having a separate insulated protection cover. Cable TVs and analog television networks widely use coaxial cables.",
+                    "q": "What is a coaxial cable? Where is it used?"
+                  }
+                ],
+                "label": "Transmission Medium"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Sometimes, signals traveling through transmission media lose their quality. This means that received signal is not same as the signal that was sent. This phenomenon is called transmission impairments. Transmission impairments are those defects that occur when data is transmitted. There are three causes of impairment i.e. attenuation, distortion and noise.",
+                    "q": "What are transmission impairments? Name their three causes."
+                  },
+                  {
+                    "a": "Attenuation means loss of energy. A signal loses its energy due to the resistance of medium while it is transmitted. Its strength decreases with increase in distance. Amplifiers are used to overcome attenuation and make signal stronger again. It is measured in decibels.",
+                    "q": "What is attenuation? How is it overcome?"
+                  },
+                  {
+                    "a": "Distortion means change in the shape of the signal. A composite signal has several frequencies. When it travels through a medium different component of signal may reach at different time at destination because each component has different speed in that medium. This is called distortion. They have different phases at sender and receiver ends.",
+                    "q": "What is distortion?"
+                  }
+                ],
+                "label": "Transmission Impairments"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A communication device is any type of hardware capable of transmitting and receiving data, instructions and information.",
+                    "q": "What is a communication device?"
+                  },
+                  {
+                    "a": "A switch or network switch is a networking device that connects computers and other devices like printers, scanners and cameras on a network. Data cables from all computers and other devices of network are plugged into the switch to enable communication between them.",
+                    "q": "What is a switch?"
+                  },
+                  {
+                    "a": "A Router is a device that connects two or more networks. Routers are a combination of hardware and software. The main function of a router is to determine the optimal data path and transfer the information through that path, also known as network traffic controller.",
+                    "q": "What is a router? What is its main function?"
+                  },
+                  {
+                    "a": "Modem is short for Modulator and Demodulator. Modulation is the process of converting digital signals into analog signals. Demodulation is quite opposite; it converts analog signals into digital signals. Modem has the ability of sending and receiving signals that allows computers to share information with each other. This sharing of information is possible over phone lines, cables or satellite connections.",
+                    "q": "What is a modem? What are modulation and demodulation?"
+                  }
+                ],
+                "label": "Communication Devices"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Computer networks are just like a highway on which data can travel. A computer network connects parts of distributed system including hardware and software. It shares common functions and features like data and devices which is very important nowadays.",
+                    "q": "What is a computer network?"
+                  },
+                  {
+                    "a": "A computer network is a group of computers and related equipment connected by a communication links to share data and other resources. The related equipment may be printer, scanners, fax machines, server, etc. The resources may include a file server, internet connection, etc.",
+                    "q": "Define a computer network."
+                  },
+                  {
+                    "a": "Networking is the act of joining computers and its accessories so that exchange of information and sharing of resources take place. In today's world, networking plays a vital role in computers and telecommunication fields.",
+                    "q": "What is networking?"
+                  },
+                  {
+                    "a": "Computer networks can be categorized by their size as well as their purpose. There are three types of computer networks: Local Area Network (LAN), Metropolitan Area Network (MAN) and Wide Area Network (WAN).",
+                    "q": "Name the three types of computer networks."
+                  },
+                  {
+                    "a": "LAN is a group of computer and peripheral devices which are connected in a limited area such as school, laboratory, home and office building. Useful resources like internet access, storage space and printers can be shared through LAN. It can be built with inexpensive hardware such as hubs, switches, network adapters and network cables. MAN: In MAN, computer network can spread across an entire city, college campus, or a small region. It can cover the area of several miles and may include multiple small networks or LANs. MANs offer very fast communication but they are expensive to establish. WAN: A Wide Area Network is used for long distance transmission of data. WAN helps to cover a larger geographical area and connect cities, provinces or even countries. Using WAN technology, computers may be linked together in different countries using satellites, microwaves or telecommunication links. A WAN may include multiple MANs and LANs.",
+                    "q": "Differentiate between LAN, MAN and WAN."
+                  }
+                ],
+                "label": "Computer Networks and Topologies"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Standards are rules that define the appearance, functionality, or protocols of some equipment. They are essential for network communication. Network standards define rules of communications among computing devices. A Standard Organization develops, coordinates, revises, amends and reissues technical standards.",
+                    "q": "What are standards? What does a standard organization do?"
+                  },
+                  {
+                    "a": "The five standard organizations named in the book are: ISO (International Organization for Standardization), IEEE (Institute of Electrical and Electronic Engineering), IETF (International Engineering Task Force), ITU (International Telecommunication Union) and ANSI (American National Standards Institute).",
+                    "q": "Name the five standard organizations in the book."
+                  },
+                  {
+                    "a": "ISO: It covers a wide range of fields. The ISO has members from the standards committees of various governments across the world. It is also responsible for endorsing and coordinating the functions of the other standards organizations. IEEE: It is an international professional non-profit organization. Electronics, computer and communication engineers, researchers, scientists and students are the members of IEEE. This organization develops communication and information processing standards for all fields related to electrical and computer engineering. IETF: It is a large international community of network designers, operators, vendors and researchers concerned with the development of internet architecture and smooth operation of the internet. ITU: This organization is a specialized agency that is responsible for resolving the issues that concern with information and communication technologies. ANSI: It is the official standards agency for the United States. ANSI is a completely private, non-profit organization comprised of equipment manufacturers and users of data processing equipment and services.",
+                    "q": "Describe the five standard organizations briefly."
+                  },
+                  {
+                    "a": "The Open Systems Interconnection model is a conceptual model developed by ISO. It characterizes and standardizes the communication functions of a telecommunication and computing network. Its goal is the interoperability of different communication systems with standard communication protocols. This model divides a communication system into seven abstraction layers. The seven layers are: 7. Application, 6. Presentation, 5. Session, 4. Transport, 3. Network, 2. Data link, 1. Physical.",
+                    "q": "What is the OSI model? Name its seven layers."
+                  },
+                  {
+                    "a": "[[T]]No.|Layers|Functions;;7|Application|This layer enables users to access the network with applications such as email, file transfer, etc. These applications produce the data, which is transferred over the network.;;6|Presentation|It receives information from the application layer and converts it to uniform network format (ASCII or Unicode) which is acceptable by rest of OSI model and destination. Encryption and decryption are also the responsibility of this layer. This layer also reduces number of transfer bits by compression.;;5|Session|This layer establishes, maintains and ends a session or logical connection between applications on two computers. It manages who can transmit data at a certain time and for how long. This layer adds checkpoints. If session fails only data after the most recent checkpoint need to be transmitted.;;4|Transport|It ensures the reliable transmission of data. Transport layer manages error control, flow control and quality of the service. If the data is not properly transmitted it requests to resend.;;3|Network|The function of this layer is the selection of the shortest and suitable path from source to destination, from the number of routes available. It is also responsible to convert logical address (IP address) to physical address (MAC address).;;2|Data link|This layer is responsible to transmit data using physical addresses. Data Link Layer ensures error free transmission of packets. Packet in this layer is referred as Frame.;;1|Physical|It is responsible for converting electrical signals into bits. It also defines the cable types to be used as transmission media, cards, topology and other physical aspects.[[/T]]",
+                    "q": "List the seven layers of the OSI model with the function of each."
+                  },
+                  {
+                    "a": "TCP/IP is a suite of communication protocols used to interconnect network devices on the internet. These are set of rules and procedures. TCP/IP specifies how data is exchanged over the internet by providing end-to-end communications. It also identifies how data should be broken into packets, addressed, transmitted, routed and received at the destination. The TCP/IP model has four layers: Application Layer (covers OSI Application, Presentation and Session), Transport Layer, Internet Layer and Network Access Layer (covers OSI Data link and Physical).",
+                    "q": "What is the TCP/IP model? Name its four layers."
+                  }
+                ],
+                "label": "Standard Organizations and Network Architecture"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Network addresses are like our house addresses. They must be unique and distinctive. A network address is any Logical or Physical Address that uniquely identifies it from others. This address is needed to distinguish a network node or device on a computer network. It is a numeric or symbolic number or address that is assigned to any device that seeks access to network or is the part of a network.",
+                    "q": "What is a network address? Why must it be unique?"
+                  },
+                  {
+                    "a": "[[T]]Physical Address|Logical Address;;Physical address is attached with ROM of the NIC card.|Logical address is assigned to a device.;;Physical Addressing means MAC (Media Access Control) provided by manufacture and attached address of the NIC. The card which is used to connect your machine to the internet.|Logical addressing means IP addressing that is provided by your Internet Service Provider (ISP) or set by network administrator.;;Physical addressing cannot be changed. They are also called hardware address.|Logical Address can be changed.;;Physical address is a 48 bit mac address.|Logical address is a 32 bit IP Address.;;It is globally Unique and permanent.|It is unique in one network and temporary.[[/T]]",
+                    "q": "Differentiate between physical address and logical address."
+                  },
+                  {
+                    "a": "An IP address is a unique number or address used to identify a device on a network. The device could be a computer, printer, smart phone, tablet, etc. Every device connected to the internet must have an IP address to communicate with other devices. IP address acts as a telephone number or a car registration number. It shows ownership and location.",
+                    "q": "What is an IP address?"
+                  },
+                  {
+                    "a": "IPV4 stands for Internet Protocol version 4. An IPV4 address is made up of 32 binary bits, which is divided into two parts, network and host. The network portion of the address mentions the computer network and the host portion identifies the computer or any other computing device. IP version 4 (IPV4) addresses are comprised of four number segments separated by dots. Example of an IP address is 192.168.108.105.",
+                    "q": "What is IPV4? How many bits does an IPV4 address have? What are its two parts? Give an example."
+                  },
+                  {
+                    "a": "An IPV4 address is made up of 32 binary bits, which is divided into two parts, network and host. Thirty-two bits (4 x 8), or 4 bytes: each of the four number segments is one byte (eight bits). For example, 172.16.254.1 in binary is 10101100.00010000.11111110.00000001.",
+                    "q": "How is an IPV4 address written in dotted-decimal notation and in binary? Give an example."
+                  }
+                ],
+                "label": "Network Addressing"
+              }
+            ],
+            "num": "4.4"
+          }
+        ],
+        "title": "Data Communication and Computer Networks",
+        "unit": 4,
+        "words": [],
+        "display": "Data Communication and Computer Networks"
+      },
+      {
+        "reading": "Computer Security and Ethics",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(b) Malware ✓",
+                    "q": "The broad term that encompasses different harmful software is: (a) Virus (b) Malware (c) Adware (d) Spyware"
+                  },
+                  {
+                    "a": "(c) Biometric ✓",
+                    "q": "The authentication mechanism that only allows the real person to access data or device is: (a) Username and Password (b) PIN (c) Biometric (d) Scan Code"
+                  },
+                  {
+                    "a": "(b) Copyrights ✓",
+                    "q": "Software are mostly protected under: (a) Patents (b) Copyrights (c) Trademarks (d) Logos"
+                  },
+                  {
+                    "a": "(d) It creates healthy and positive work environment ✓",
+                    "q": "The professional ethics in computer field is important because: (a) It is necessary by law. (b) Violation can cause serious penalties. (c) It is useful for financial benefits. (d) It creates healthy and positive work environment."
+                  },
+                  {
+                    "a": "(b) Offer only limited service ✓",
+                    "q": "Free Antivirus Software often: (a) Expire after sometimes (b) Offer only limited service (c) Cannot be updated (d) Cannot be purchased"
+                  },
+                  {
+                    "a": "(a) Plagiarism ✓",
+                    "q": "Copying and pasting some texts from internet without acknowledging the real author is an example of: (a) Plagiarism (b) Illegal use of patent (c) Information Piracy (d) Copyright Violation"
+                  },
+                  {
+                    "a": "(b) Adware ✓",
+                    "q": "Since it does not harm or steal data, the least harmful malware is: (a) Virus (b) Adware (c) Spyware (d) Trojan"
+                  },
+                  {
+                    "a": "(d) Worm ✓",
+                    "q": "The malware that replicates itself and doesn't need to attach with any files is: (a) Virus (b) Adware (c) Spyware (d) Worm"
+                  },
+                  {
+                    "a": "(d) All of them ✓",
+                    "q": "Through which virus spreads? (a) Email Attachments (b) Internet Downloads (c) Flash Disks and Cds (d) All of them"
+                  },
+                  {
+                    "a": "(c) Clickjacking ✓",
+                    "q": "\"Click this link and win a $5 voucher at McDonald's\". This is an example of: (a) Scam (b) Phishing (c) Clickjacking (d) Hacking"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "5.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Computer security is important for our computer's overall health. (1) It keeps our information protected and helps prevent viruses and malware, which allows programs to run quicker and smoother. (2) It safeguards confidential and sensitive information, such as our passwords, banking details, contacts and pictures, that we do not want to share with others. (3) Computer Security is important as it enables people to perform their work in safe environments and helps in the execution of essential business processes.",
+                    "q": "Why is computer security important? Write any three reasons."
+                  },
+                  {
+                    "a": "Electronic means like a computer, mobile phone or internet are also used for online bullying or harassment. Harmful bullying behavior can include posting rumors, threats, passing inappropriate remarks, leaking personal information, blackmailing and committing hate speech. The perpetrator does it with the intent to cause harm to the victim. Victims may experience lower self-esteem, intent to commit suicide and a variety of negative emotional responses, including being scared, frustrated, angry and depressed. Example: posting rumors or threats about a classmate on social media, or leaking someone's personal information online.",
+                    "q": "Explain Cyber Bullying with an example."
+                  },
+                  {
+                    "a": "The information accuracy is the type of measurement that assures the information is correct and true. It is also necessary that the information should not be generated from the malicious data. For information accuracy, the data must be from reputable sources. In the era of information explosion, we need to be more careful while using or disseminating information. The use of unreliable sources results in inaccurate information. Especially, the accuracy of information shared on social media is often questionable.",
+                    "q": "Why is information accuracy important?"
+                  },
+                  {
+                    "a": "Ethical hacking is when a hacker uses his or her extensive skills to identify and overcome a network loophole and help to improve the data and network security. Hackers are generally considered as bad people however, hackers can also help us to improve the data and network security. Government and business organizations are now hiring ethical hackers, also known as white hat hackers, to prevent data theft.",
+                    "q": "What is Ethical Hacking?"
+                  },
+                  {
+                    "a": "Two advices: (1) First thing is to report such incidents to the trusted people that are highly likely parents and teachers. The perpetrator of cyber crime always asks to keep his or her contact secret otherwise the victim may face heavy loss, so the victim should not keep it secret. (2) The government has also taken measures to curb cybercrimes especially cyber bullying and harassment. In Pakistan, the National Response Centre for Cyber Crimes has been set up to help the victims of cybercrimes. An online complaint can be launched through the form available on the website or help may be sought by calling helpline 9911 which is available 24/7.",
+                    "q": "Your friend has become a victim of cyber harassment. What two advices will you give him or her?"
+                  },
+                  {
+                    "a": "Two measures: (1) Keep your password secret and do not share it with anyone; do not open email attachments or click on hyperlinks from unknown senders. (2) Users must check the origin of the email before opening the attached files or clicking any link that is given in the email. Especially spam mails must be checked carefully before clicking on its attachment.",
+                    "q": "Write any two measures to avoid email account hacking."
+                  },
+                  {
+                    "a": "Software piracy is a huge threat to the software industry. It causes a significant loss of revenue for developers and vendors. Because of piracy, vendors have fewer resources to devote to research and development of new products. Since they earn less profit, they are forced to pass these costs on to their customers.",
+                    "q": "How is software piracy harmful for software developers?"
+                  },
+                  {
+                    "a": "Two examples of phishing: (1) Perpetrators contact the target person through email, telephone or text message and pose as a legitimate and trusted individual, and ask the target to provide sensitive data such as personally identifiable information, banking and credit card details and passwords. (2) Phishing uses false e-mails and websites to try to gather personal information; the information is then used to access different accounts and can result in identity theft and financial loss.",
+                    "q": "Give two examples of phishing."
+                  },
+                  {
+                    "a": "When any person develops software, writes a book or research paper or invents any method or the machine, it becomes the intellectual property of that person. Intellectual property is intangible creations of the human intellect. To prevent theft or illegal use or spread of intellectual property, Intellectual Property Right is exercised. Through these rights, intellectual property is protected with the help of copyrights, patents, and trademarks. They allow creators or owners of patents, trademarks or copyrighted works to benefit from their work or investment. Under these rights, no other person or organization can copy or reproduce any other's intellectual property.",
+                    "q": "What is an Intellectual Property Right?"
+                  },
+                  {
+                    "a": "[[T]]Criteria|Virus|Worm|Adware|Spyware;;Level of danger|Harmful. They can range from displaying irritating messages to make all the documents inaccessible or even delete them.|Dangerous. It can do several malicious tasks, such as dropping other malware, deleting files, and consuming internal storage and memory resources.|Least harmful. Normally, these are not as dangerous as other malware. However, Adware annoys the user and slows down the processing.|Harmful. It monitors a device and steals important information about a person or organization without their consent.;;How is it initiated?|Viruses generally latch on a host file and when they execute they infect other files or programs.|A worm can replicate itself without any human interaction. It does not need to attach itself to a file or program to cause damage.|Adware programs include games, desktop toolbars or utilities. Commonly, adware is web-based and collects web browser data to target advertisements, especially pop-ups.|Spyware can come through cookies or even when we install software without reading its terms and conditions.;;Damage that can be done to data and hardware|It can modify other computer programs, insert its own code and change computer settings. It can make all the documents inaccessible or even delete them.|It can drop other malware, copy itself onto devices physically attached to the affected system, delete files, and consume internal storage and memory resources.|They present endless ads and pop-up windows that could potentially consume memory and processing resources. Adware can also change the different settings of internet browsers like homepage and default search engine.|They capture information like web browsing history, e-mail messages, usernames and passwords and online payment information.;;Effect on computer speed|Not stated in the book.|It consumes internal storage and memory resources.|It slows down the processing.|Not stated in the book.;;Means to spread|USB Flash Disks and CDs, Internet Downloads, Computer Networks and Email Attachments.|It spreads copies of itself from computer to computer, and can copy itself onto devices physically attached to the affected system.|Commonly web-based; advertisements are sometimes in the form of a pop-up or sometimes in little windows that may not be closed.|It can come through cookies or when we install software without reading its terms and conditions.[[/T]]",
+                    "q": "Differentiate the following on the given criteria. Criteria: Level of danger; How is it initiated?; Damage that can be done to data and hardware; Effect on computer speed; Means to spread. Types: Virus, Worm, Adware, Spyware."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "5.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(i) Presenting someone's ideas as your own without acknowledging the author — (f) Plagiarism; (ii) An advertising software that presents ads & pop-up windows to spread virus — (a) Adware; (iii) Crime that is committed through a computer system — (e) Cybercrime; (iv) A secretive security code that verifies user's identity — (c) PIN; (v) A person that gains unauthorized access to other computers by bypassing passwords — (b) Cracker; (vi) A utility software that prevents threats and data loss from a computer — (d) Antivirus",
+                    "q": "Match the columns: [[T]]Column A|Column B;;(i) Presenting someone's ideas as your own without acknowledging the author.|(a) Adware;;(ii) An advertising software that presents ads & pop-up windows to spread virus.|(b) Cracker;;(iii) Crime that is committed through a computer system.|(c) PIN;;(iv) A secretive security code that verifies user's identity.|(d) Antivirus;;(v) A person that gains unauthorized access to other computers by bypassing passwords.|(f) Plagiarism;;(vi) A utility software that prevents threats and data loss from a computer.|(e) Cybercrime[[/T]]"
+                  }
+                ],
+                "label": "C"
+              }
+            ],
+            "name": "Matching",
+            "num": "5.3"
+          },
+          {
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Computer security is the protection against theft or damage to our computer hardware, software and information present on it. The computer has become an important part of our life. We store important data on our computers in the shape of documents, pictures, programs, etc. Therefore, we expect that all our information must remain safe and our computer runs properly without any problem. Few threats can cause problems for our computers. These threats may be different types of viruses or unauthorized use of a computer.",
+                    "q": "What is computer security? Why do we need it?"
+                  },
+                  {
+                    "a": "Computer security is important for our computer's overall health. It keeps our information protected and helps prevent viruses and malware, which allows programs to run quicker and smoother. It safeguards confidential and sensitive information. Computer Security is important as it enables people to perform their work in safe environments. It helps in the execution of essential business processes.",
+                    "q": "Why is computer security important?"
+                  },
+                  {
+                    "a": "Cybercrime is the crime that is committed through a computer and network. Cybercriminal uses devices to gain unauthorized access to important information. Stealing passwords and important information, hacking social media accounts, accessing anyone else's account and making transactions, committing online frauds are some of the examples of cybercrime. Cybercrime is illegal and also punishable. According to Pakistan's Cybercrime Law, any offender who interrupts the privacy of a person or organization and harms their repute may be sent to jail for three to five years including a heavy fine.",
+                    "q": "What is cybercrime? Give examples. What punishment does Pakistan's Cybercrime Law give?"
+                  },
+                  {
+                    "a": "Hacker can be a person who has in-depth knowledge of computer systems, networks, and programs. Hacker maybe someone who uses his or her extensive skills to identify and overcome a network loophole. Hackers constantly seek further knowledge and freely share what they have discovered. Hackers are generally considered as bad people however, hackers can also help us to improve the data and network security. Government and business organizations are now hiring ethical hackers, also known as white hat hackers, to prevent data theft.",
+                    "q": "Who is a hacker? Are all hackers bad?"
+                  },
+                  {
+                    "a": "Crackers are persons who gain unauthorized access to another system. They bypass passwords or licenses of computer programs, change source code or intentionally breach computer security. They do it with negative intentions. Crackers can also make targeted system unavailable or non-functional. They commit these activities generally for money but they may do it for fame or just for challenge or fun.",
+                    "q": "Who are crackers? How are they different from hackers?"
+                  },
+                  {
+                    "a": "Hacking is perhaps the most common crime in the computer world. Hackers can steal our WiFi, email or social media accounts' passwords. Hackers also attack a website and take it down. However, the scope of hacking is much wider. The hackers can also steal sensitive information from government and business organizations, make fraudulent transactions and erase data on the cloud or network computers.",
+                    "q": "What is hacking?"
+                  }
+                ],
+                "label": "Computer Security and Cybercrime"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Phishing is a method of trying to gather personal information using false e-mails and websites. In Phishing, perpetrators contact the target person through email, telephone or text message and pose as a legitimate and trusted individual. He or she asks the target to provide sensitive data such as personally identifiable information, banking and credit card details and passwords for different reasons. The information is then used to access different accounts and can result in identity theft and financial loss.",
+                    "q": "What is phishing?"
+                  },
+                  {
+                    "a": "Have you ever seen any video tagged as \"OMG? You won't believe what this boy has done!\" or did you find a button on a website that asked to click to claim a reward you had never applied for? This is a kind of fraud which is called Clickjacking. Usually, culprits target children or novice internet users to click on a link containing malware or trick them into sharing private information via social media sites.",
+                    "q": "What is clickjacking? Give an example."
+                  },
+                  {
+                    "a": "Electronic means like a computer, mobile phone or internet are also used for online bullying or harassment. Harmful bullying behavior can include posting rumors, threats, passing inappropriate remarks, leaking personal information, blackmailing and committing hate speech. The perpetrator does it with the intent to cause harm to the victim. Victims may experience lower self-esteem, intent to commit suicide and a variety of negative emotional responses, including being scared, frustrated, angry and depressed.",
+                    "q": "What is cyber bullying or harassment? What effects can it have on victims?"
+                  },
+                  {
+                    "a": "Cyber-attacks occur when a cybercriminal uses computer or any device to launch attacks to other single or multiple computer networks. The culprit tries to enter in a computer system and network through cracking, scam links, phishing or any other method. Generally cyber-attacks are committed for getting any benefit or causing harm to victim computer, network or websites. A cyber-attack either disables the targeted computer, deletes information or knocks it offline. It may also steal information from the computer or network.",
+                    "q": "What is a cyber attack? What can it do to the victim's computer?"
+                  },
+                  {
+                    "a": "First thing is to report such incidents to the trusted people that are highly likely parents and teachers. The government has also taken measures to curb cybercrimes especially cyber bullying and harassment. In Pakistan, the National Response Centre for Cyber Crimes has been set up to help the victims of cybercrimes. An online complaint can be launched through the form available on the website or help may be sought by calling helpline 9911 which is available 24/7.",
+                    "q": "What should a victim of cybercrime, bullying or harassment do?"
+                  },
+                  {
+                    "a": "In 2013, hackers managed to hack 1 billion email accounts of the users. Likewise, in 2017, the WannaCry virus attacked the National Health Service in the United Kingdom which made the whole system non-functional for several days. As far as personal offenses are concerned, hacking the social media and mail accounts are so common.",
+                    "q": "Give two real-life examples of computer crime from the book."
+                  }
+                ],
+                "label": "Computer Crime in Real Life and Cyber Attacks"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The term malware is the contraction of malicious software. Malware is a broad term that encompasses computer viruses, worms, spyware, adware and others. Malware is a program that is written generally to cause a mess. They can be so dangerous that they can also damage devices. However commonly malware encrypt, steal or delete data, hijack core functions of computing and disturb different activities.",
+                    "q": "What is malware?"
+                  },
+                  {
+                    "a": "A computer virus is a computer program that can spread across computers and networks by making copies of itself, usually without the user's knowledge. It can also modify other computer programs, insert its own code and change computer settings. Viruses are harmful. They can range from displaying irritating messages to make all the documents inaccessible or even delete them. Viruses generally latch on a host file and when they execute they infect other files or programs. Boot Sector, Resident, Macro Viruses and File Infector are some examples of viruses.",
+                    "q": "What is a computer virus? Name some examples of viruses."
+                  },
+                  {
+                    "a": "A computer worm spreads copies of itself from computer to computer. A worm can replicate itself without any human interaction. It does not need to attach itself to a file or program to cause damage. It can do several malicious tasks, such as dropping other malware, copying itself onto devices physically attached to the affected system, deleting files, and consuming internal storage and memory resources.",
+                    "q": "What is a worm? How is it different from a virus?"
+                  },
+                  {
+                    "a": "Adware is advertising-supported software. They present endless ads and pop-up windows that could potentially consume memory and processing resources. Adware can also change the different settings of internet browsers like homepage and default search engine. Normally, these are not as dangerous as other malware. However, Adware annoys the user and slows down the processing. Adware programs include games, desktop toolbars or utilities. Commonly, adware is web-based and collects web browser data to target advertisements, especially pop-ups.",
+                    "q": "What is adware? Is it dangerous?"
+                  },
+                  {
+                    "a": "Spyware is a malware that monitors a device and steals important information about a person or organization without their consent and sends such information to another person or organization. Spyware takes control over a mobile phone or computer without the user's knowledge. They capture information like web browsing history, e-mail messages, usernames and passwords and online payment information. Spyware can come through cookies or even when we install software without reading its terms and conditions. System monitors, cookies trackers, rootkits and key-loggers are few examples of Spyware.",
+                    "q": "What is spyware? Give examples."
+                  },
+                  {
+                    "a": "A computer virus is just like a flu virus. It is designed to spread from one device to another device and can replicate itself. Any device that is infected from a virus can infect other devices. It means that viruses come from outside. The four ways viruses spread are: (i) USB Flash Disk and CDs (ii) Internet Downloads (iii) Computer Network (iv) Email Attachments.",
+                    "q": "How do viruses spread? Name the four ways."
+                  },
+                  {
+                    "a": "USB Flash Disks are the most common media to transfer files. An infected computer can spread a virus to a clean USB flash disk that is inserted and likewise, an infected USB can transmit the virus onto a clean computer. The AutoRun function in Windows OS launches installers and other programs automatically when a flash drive or CD is inserted. This action can initiate a virus spreading process onto the computer. Copying infected files from the USB or CD can also infect the computer.",
+                    "q": "How do viruses spread through USB flash disks and CDs?"
+                  },
+                  {
+                    "a": "Computer viruses also spread through files or software downloads from the Internet. They can be attached to software or files that we download. The viruses come from the internet can also make our computer accessible to hackers. Though, almost every antivirus software provides a shield against malicious downloads, it is highly recommended that the software and files must be downloaded from trusted sources.",
+                    "q": "How do viruses spread through internet downloads?"
+                  }
+                ],
+                "label": "Malware and Viruses"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Antiviruses are utility software designed to protect computers from any potential threats of data or hardware loss. Antivirus software works in the background and monitors every software that is running and the emails or data coming from the internet. In case of any suspicious activity, antivirus alerts the user and asks for action. Normally, antivirus tries to clean the files and if not succeeded it quarantines the infected file. It is highly recommended that the user should update the antivirus regularly.",
+                    "q": "What is an antivirus? How does it work?"
+                  },
+                  {
+                    "a": "Avast: Avast is one of the largest security companies in the world. Avast's management claims that they are using next-gen technologies to fight cyber-attacks in real-time. Norton: Norton antivirus has been a popular antivirus utility since 1991. This is a part of a large family of security and other utility software by Symantec Corporation. Norton Antivirus is easy to use, has the configuration options that experts need, comes highly rated by the testing labs and is exactly designed to have the least possible impact on your system performance. McAfee: McAfee claims that it provides a combination of antivirus, privacy and identity tools and features. This enables users to stay protected against the latest virus, malware, ransomware and spyware attacks while keeping their identity and privacy protected and personal.",
+                    "q": "Name the three most common antiviruses in the book and describe each briefly."
+                  },
+                  {
+                    "a": "Keeping ourselves safe from malware and viruses is mostly in our hands. More than 90% of computers are infected due to the user's mistake. Our computers have caught a virus if they start slowing down, behave unusually, crash during processes or restart several times, show annoying messages and some of our documents disappear or become inaccessible. Some simple measures can prevent our system from malware and viruses: Install anti-virus software and keep it updated. Run scheduled scans regularly with your anti-virus software. Keep your operating system updated. Do not click on internet links which have unusual labels, images or captions. Do not open email attachments or click on hyperlinks from unknown senders. Scan USB flash drive, SD cards and mobile phones before opening. Use your spam blocking or filtering tools to block unsolicited emails, instant messages and pop-ups. Only download files and programs from trusted sources on the internet. Never use an open WiFi.",
+                    "q": "How can we safeguard against malware? List the measures from the book."
+                  },
+                  {
+                    "a": "Besides this, we should also take some measures to recover data from any potential loss. Some steps in this regard are: Create a system restore point regularly and check if it is not disabled. Write important data on CDs or DVDs. Since they are write-protected, they do not catch viruses. Have the back-up of important files at more than one place. You can also save documents on cloud storage like Google Drive and Microsoft OneDrive.",
+                    "q": "How can we keep the backup of data? List the steps from the book."
+                  },
+                  {
+                    "a": "Many antivirus software can be found on the internet and most of them are generally free. However, in the free version of antivirus, some advanced features are not available. Paid customers are called premier users and they get advance security features.",
+                    "q": "What is the difference between free and paid antivirus software?"
+                  },
+                  {
+                    "a": "More than 90% of computers are infected due to the user's mistake. Our computers have caught a virus if they start slowing down, behave unusually, crash during processes or restart several times, show annoying messages and some of our documents disappear or become inaccessible.",
+                    "q": "How can you tell that your computer has caught a virus?"
+                  }
+                ],
+                "label": "Antivirus, Safeguards and Backup"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The authentication mechanism is the hardware or software-based mechanism that forces users to prove their identity before accessing data on a device. The process makes sure the only authenticated user gets access to data or devices.",
+                    "q": "What is an authentication mechanism?"
+                  },
+                  {
+                    "a": "There are many ways a computer security system may authenticate a user. Some of them are: (i) Username and Password (ii) Personal Identification Number (iii) Biometric Verification.",
+                    "q": "Name the three types of security (authentication) mechanisms in the book."
+                  },
+                  {
+                    "a": "A username and password are the pair of keywords known by the user. They are presented to the computer to authenticate the user. Usernames and passwords are the default authentication mechanism on the web today. However, recent large scale computer attacks have made usernames and passwords an unacceptable authentication mechanism. Additional authentication mechanisms are needed to fully authenticate.",
+                    "q": "What are username and password? What is their weakness according to the book?"
+                  },
+                  {
+                    "a": "PIN stands for Personal Identification Number. It is a security code for verifying your identity. Similar to a password, your PIN should be kept secret because it allows access to important services such as financial transactions and confidential emails. The PIN provides security when a credit/debit card is lost or stolen because the PIN must be known before making money withdrawal or transfer.",
+                    "q": "What is a PIN? Why should it be kept secret?"
+                  },
+                  {
+                    "a": "Unlike authentication processes, biometrics verification makes sure that the real person gets access to the data or device. Biometric authentication relies on the unique biological characteristics of a person. Biometric authentication systems captures data in real-time and compare it with existing data in database. If both samples of the biometric data match, authentication is confirmed. Scanning fingerprints are the most common way of biometric. However, some other advance ways include retinal scans and iris, facial and voice recognitions.",
+                    "q": "What is biometric verification? Name its common ways."
+                  },
+                  {
+                    "a": "[[T]]Username and Password|Personal Identification Number (PIN)|Biometric Verification;;A pair of keywords known by the user, presented to the computer to authenticate the user. Default authentication mechanism on the web today.|A security code for verifying your identity, used for financial transactions and confidential emails.|Relies on the unique biological characteristics of a person; captures data in real-time and compares it with existing data in database.;;Recent large scale computer attacks have made it an unacceptable authentication mechanism alone; additional mechanisms are needed.|Must be kept secret; provides security when a credit/debit card is lost or stolen because the PIN must be known before making money withdrawal or transfer.|Makes sure that the real person gets access to the data or device. Scanning fingerprints is the most common way; other ways include retinal scans and iris, facial and voice recognitions.[[/T]]",
+                    "q": "Differentiate between username and password, PIN and biometric verification."
+                  }
+                ],
+                "label": "Authentication Mechanism"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Professional ethics involve the personal and corporate principles and rules that guide behavior within the context of a profession. The role of a professional code of ethics is to clarify values and rules and can be used as a framework for discipline. Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good.",
+                    "q": "What are professional ethics? What is the role of a professional code of ethics?"
+                  },
+                  {
+                    "a": "The guiding principles of professional ethics in the book are: Contribute to society and human well-being, acknowledging that all people are stakeholders in computing. Be honest and trustworthy. Respect the equipment. Avoid causing any harm. Be fair and act not to discriminate, bully or harass. Respect the work required to produce new ideas, inventions, creative works, and computing artifacts. Respect privacy and maintain confidentiality. Maintain high standards of professional competence, conduct, and ethical practice. Create opportunities for other individuals or groups to grow as professionals. Manage personnel and resources to enhance the quality of work life. Ensure that the public good is the central concern during all professional computing work. Access computing and communication resources only when authorized. Foster public awareness and understanding of computing, related technologies and their consequences.",
+                    "q": "List the guiding principles of professional ethics in the computer field."
+                  },
+                  {
+                    "a": "The information accuracy is the type of measurement that assures the information is correct and true. It is also necessary that the information should not be generated from the malicious data. For information accuracy, the data must be from reputable sources. In the era of information explosion, we need to be more careful while using or disseminating information. The use of unreliable sources results in inaccurate information. Especially, the accuracy of information shared on social media is often questionable.",
+                    "q": "What is information accuracy?"
+                  },
+                  {
+                    "a": "When any person develops software, writes a book or research paper or invents any method or the machine, it becomes the intellectual property of that person. Intellectual property is intangible creations of the human intellect. Just like other property the intellectual property can be stolen. To prevent theft or illegal use or spread of intellectual property, Intellectual Property Right is exercised. Through these rights, intellectual property is protected with the help of copyrights, patents, and trademarks. In Pakistan, Intellectual Property Organization (IPO) regulates the matters regarding intellectual property rights.",
+                    "q": "What is intellectual property? How is it protected? Which organization regulates it in Pakistan?"
+                  },
+                  {
+                    "a": "A patent is a grant of exclusive rights for an invention to make, use and sell the invention for a limited period, in Pakistan 20 years. Owning a patent gives the patent holder the right to stop someone else from making, using or selling his or her invention without permission. To protect students and scholars, the Higher Education Commission also offers support to get patents registered with Intellectual Property Organization (IPO). The patentable process or invention must be novel, possess inventive steps and can be used in industries. Copyright is a legal instrument that provides legal rights to the creator of artwork, literature, or a work that conveys information or ideas. In simple words, copyright is the right of copying. Copyright gives control over how the work is used. Copyright intends to advance the progress of knowledge by giving an author of a work an economic incentive to create new works. The © sign is also often displayed on copyrighted objects. Trademark identifies a product or service and distinguishes it from other products and services. Trademarks are protected by intellectual property rights which identifies that the product or service belongs to a specific organization. It can be an easily recognizable word, phrase, logo, or symbol and often mentioned as TM (Trade Mark).",
+                    "q": "Define patent, copyright and trademark."
+                  },
+                  {
+                    "a": "Software piracy is referred to the illegal use, copying or distribution of copyrighted software. Software piracy is a huge threat to the software industry. It causes a significant loss of revenue for developers and vendors. Because of piracy, vendors have fewer resources to devote to research and development of new products. Software companies have tried various techniques to stop software piracy but most of them have remained unsuccessful. They applied for copy-protection which demands the user to enter certain keys or credentials. Today, most software require registration which is mainly online. However, these measures could not stop software piracy. Using pirated software is also risky for users: pirated software may not work properly or stop working at any time, and users cannot access customer support, upgrades, technical documentation, training, and bug fixes.",
+                    "q": "What is software piracy? Why is it harmful and risky?"
+                  }
+                ],
+                "label": "Professional Ethics and Intellectual Property"
+              }
+            ],
+            "num": "5.4"
+          }
+        ],
+        "title": "Computer Security and Ethics",
+        "unit": 5,
+        "words": [],
+        "display": "Computer Security and Ethics"
+      },
+      {
+        "reading": "Web Development",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(b) Web Hosting ✓",
+                    "q": "The service that is responsible for making websites publicly accessible through the internet is called: (a) Web Server (b) Web Hosting (c) Web Site (d) Web Browser"
+                  },
+                  {
+                    "a": "(c) Forums site ✓",
+                    "q": "The type of special website where different users can ask questions and give answers or discuss on various topics is called: (a) Social site (b) Blogs site (c) Forums site (d) Informational site"
+                  },
+                  {
+                    "a": "(d) Content like videos, images and games for entertainment ✓",
+                    "q": "Entertainment site specializes in delivering: (a) News, weather and current affairs (b) Information about products and services of a business (c) Personal information of a particular person (d) Content like videos, images and games for entertainment"
+                  },
+                  {
+                    "a": "(a) .html ✓",
+                    "q": "A web browser will translate the codes in a web page if the extension of the document is: (a) .html (b) .txt (c) .doc (d) .pdf"
+                  },
+                  {
+                    "a": "(c) <p> ✓",
+                    "q": "The tag used to automatically add line space before and after the containing text is: (a) <br> (b) <hr> (c) <p> (d) <pre>"
+                  },
+                  {
+                    "a": "(c) Ordered List ✓",
+                    "q": "The type of list which shows its items in a numerically ordered sequence is: (a) Nested List (b) Unordered List (c) Ordered List (d) Description List"
+                  },
+                  {
+                    "a": "(d) <a> tag ✓",
+                    "q": "To create a clickable text which navigates to another page or section, we use: (a) <input> tag (b) <li> tag (c) <b> tag (d) <a> tag"
+                  },
+                  {
+                    "a": "(a) <th> tag ✓",
+                    "q": "To differentiate the heading cells from rest of the data in a table, we use: (a) <th> tag (b) <tr> tag (c) <td> tag (d) <dt> tag"
+                  },
+                  {
+                    "a": "(c) <title> ✓",
+                    "q": "The tag used to define the title caption of the web browser is: (a) <thead> (b) <head> (c) <title> (d) <h1>"
+                  },
+                  {
+                    "a": "(c) src ✓",
+                    "q": "The attribute used to define the URL for reference of image in <img> tag is: (a) target (b) name (c) src (d) href"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "6.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "[[T]]Web Hosting|Web Server;;Web Hosting is a service that allows a web developer to make a website publicly accessible through the internet.|A web server is the computer that is responsible for serving a website and all of its content including text and media to a user.[[/T]]",
+                    "q": "Differentiate between web hosting and web server."
+                  },
+                  {
+                    "a": "Creating a simple web page using HTML is very easy. It requires a text editor, a file with .html extension and a web browser to view that page. Step 1: Text Editor — Start by simply creating a new blank file in a text editor of your choice. A simple text editor like notepad can be used to start coding HTML for a web page. Step 2: Write HTML code in Text Editor — Write the HTML code, for example: <html> <head> <title>My Website</title> </head> <body> Welcome to my first web page. </body> </html> Step 3: Save HTML Page — Go to File menu and click on Save. Make sure to provide .htm or .html extension for the file being saved. This will save the document as a web page instead of a plain text file. Step 4: View HTML Page in Browser — Open the saved HTML file in your default web browser. The web browser will automatically translate HTML codes to correctly display the web page. A complete web application may consist of a User Interface, Back-End Server Codes and a Database.",
+                    "q": "What are the steps involved in creating a complete website?"
+                  },
+                  {
+                    "a": "[[T]]Tag|Description;;<head>|It is used to define additional information about the web page. It contains a set of tags such as <title>, <meta>, <style>, <script>, etc.;;<title>|It defines the title of a web page. Titles are very important as they appear on top of the browser window and displayed on search engine result pages.;;<h1> - <h6>|It is used to define six levels of HTML headings (h1, h2, h3, h4, h5 and h6) with <h1> being heaviest heading and <h6> being the lightest heading.[[/T]]",
+                    "q": "Differentiate between <head>, <title> and <h1> to <h6> tags."
+                  },
+                  {
+                    "a": "Some most commonly used HTML tags which change the looks of the web page are: [[T]]Tag|Description;;<b>, <i>, <u>|These tags are used to bold, italicize and underline text respectively.;;<pre>|It is used to define a preformatted text. The web browser displays such text with spaces and line breaks as defined in HTML codes.;;<font>|It is used to define the font, size and color of its text. This tag can be composed with three attributes: size, color and face. This tag is supported till version 4.1 of HTML.;;<center>|It is used to align its text to the horizontal center of the web page. This tag is supported till version 4.1 of HTML.;;<sub>|It defines subscript text which is under the baseline of other text and has a smaller size. e.g. H_2O;;<sup>|It defines superscript text which is slightly above the normal line of other text and has a smaller size. e.g. E=mc^2[[/T]]",
+                    "q": "Identify and explain some HTML tags used for formatting of the content."
+                  },
+                  {
+                    "a": "[[T]]Unordered List|Ordered List;;An unordered list is a list of related items in which the order of items is irrelevant. It is defined by <ul> tag and each of its list item is defined by <li> tag. The web browser will display these list items as bullet points.|An ordered list also displays a list of related items. It is used where the order of the list is important e.g. names of students in order of their exam ranks. It is defined by <ol> tag and each of its list item is defined by <li> tag. The web browser will display these list items with numbers starting from 1 instead of bullet points. Ordered lists can also be defined with two of its attributes: start and reversed. Start attribute defines the starting number of first list item. Reversed attribute is used to display the list in descending order. The list items for ordered list can also be defined with a value attribute which is used to place that item at a specific position or number in the list.[[/T]]",
+                    "q": "Differentiate between ordered and unordered lists."
+                  },
+                  {
+                    "a": "Images can be inserted in an HTML document by using <img> tag. This does not create a copy of image. Instead, it only creates a reference to original image placed somewhere in the computer's storage. The <img> tag is an empty tag which means that it does not require a closing </img> tag. It contains five attributes out of which two are required and three are optional. src (URL) defines the source or reference of the image file. alt (text) defines alternate text for the image. width (pixels) defines the display width of the image. height (pixels) defines the display height of the image. border (pixels) defines the width of the border to be displayed around the image. Example: <img src=\"bridge.jpg\" alt=\"Bridge\" width=\"600\">",
+                    "q": "How are images displayed in an HTML page?"
+                  },
+                  {
+                    "a": "A user can be redirected to another web page through a hyperlink. A hyperlink in HTML is defined by <a> tag and its href attribute. The value of href is the reference of another web page or a different section within the same page. Links to external document: To send a user to any other web page, use the URL of that page as the value for href attribute. e.g. <a href=\"http://www.google.com\">Goto Google</a> Links within the same document: Setting the link within the same page requires two steps: 1. Use id attribute of any HTML tag to give a name to the section of the page, where a user should reach after clicking on the link. 2. Create a hyperlink and set the above name as href attribute of this link, starting with hash (#) symbol. e.g. <p id=\"navigate\">Send user here on click</p> <a href=\"#navigate\">Go to the linked paragraph</a>",
+                    "q": "How can a user be redirected to another web page?"
+                  },
+                  {
+                    "a": "Tables allow displaying the content (like text, image, links) in the form of rows and columns. The coordinating place of a row with a column is called a cell. In HTML, a table is defined by <table> tag. A row is the collection of all horizontal cells of a table. It is defined by <tr> tag which is placed inside the <table> tag. A column is the collection of all vertical cells of a table. It is defined by <td> tag which is placed inside the <tr> row tag. A header cell is defined by <th> tag and is placed inside a <tr> row tag. Table Attributes: align (left : center : right) specifies the alignment of a table according to surrounding text; width (pixels : %) specifies the width of a table; border (1 or 0) enables or disables the border around the table; cellpadding (pixels) specifies the space between the edge of cell and the content inside; cellspacing (pixels) specifies the space between cells. Cell Attributes: align (left : center : right) specifies the alignment of the content inside the cell; valign (top : middle : bottom : baseline) vertically aligns the content in a cell; colspan (number) specifies the number of columns a cell should merge into; rowspan (number) sets the number of rows a cell should merge into. All the above attributes are supported till version 4.1 of HTML.",
+                    "q": "What kind of HTML elements are used to display data in rows and columns? Discuss some of its formatting features."
+                  },
+                  {
+                    "a": "Yes. HTML frames are powerful elements which allow displaying the contents of another HTML document within a web page. A web page can be divided into multiple sections and each section can display all contents from a different web page by using frames. It is defined by <frame> tag. The src attribute is used to provide the reference URL of another web page to be displayed in this frame. Framesets define how a web page is divided into rows and columns to display multiple frames on that web page. It is defined by <frameset> tag and contains one or more <frame> tags. HTML frames and framesets are supported till version 4.1 of HTML.",
+                    "q": "Is it possible to display the entire contents of another web page in our HTML page? How?"
+                  },
+                  {
+                    "a": "A simple text editor like notepad can be used to start coding HTML for a web page. Following is the list of some of the tools that help in designing and developing a website: Microsoft FrontPage, Coral Draw, Adobe Dreamweaver, Wordpress, Microsoft Visual Studio, Wix, Figma, CoffeeCup HTML Editor and Adobe XD.",
+                    "q": "List some popular text editors and other tools which help in designing and development of websites."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "6.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(i) E-Commerce — (e) Business website; (ii) <head> — (d) Contains additional information and styling features of the web page; (iii) <ul><ol><dl> — (b) Organize information as list points; (iv) <tables> — (c) Organize information in rows and columns; (v) <img> — (f) Add images and infographics to the web page; (vi) Hyperlinks — (a) Add navigation support to web pages",
+                    "q": "Match the columns: [[T]]Column A|Column B;;(i) E-Commerce|(a) Add navigation support to web pages;;(ii) <head>|(b) Organize information as list points;;(iii) <ul><ol><dl>|(c) Organize information in rows and columns;;(iv) <tables>|(d) Contains additional information and styling features of the web page;;(v) <img>|(e) Business website;;(vi) Hyperlinks|(f) Add images and infographics to the web page[[/T]]"
+                  }
+                ],
+                "label": "C"
+              }
+            ],
+            "name": "Matching",
+            "num": "6.3"
+          },
+          {
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "Development of web sites and online applications is called web development. This is done by coding in different languages and by using several web development tools and frameworks. A complete web application may consist of a User Interface, Back-End Server Codes and a Database.",
+                    "q": "What is web development? What may a complete web application consist of?"
+                  },
+                  {
+                    "a": "The word world wide web (www) is commonly known as the web. The Web is a collection of computers connected through a network to provide publicly accessible information.",
+                    "q": "What is the World Wide Web (WWW)?"
+                  },
+                  {
+                    "a": "A webpage is a document commonly written in HTML that is accessible through internet by using internet browser.",
+                    "q": "What is a web page?"
+                  },
+                  {
+                    "a": "A website is a collection of web pages containing text, images, and all types of multimedia related to a specific set of information. A website can be accessed through a Uniform Resource Locator (URL).",
+                    "q": "What is a website?"
+                  },
+                  {
+                    "a": "A web browser is a software application for accessing websites on the world wide web. Most common web browsers include Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, and Safari.",
+                    "q": "What is a web browser? Name the most common web browsers."
+                  },
+                  {
+                    "a": "It is the address of a resource on the internet (e.g. https://www.google.com). It includes the following two components: The protocol used to access the resource (https://) and The location of the server. (www.google.com)",
+                    "q": "What is a Uniform Resource Locator (URL)? What are its two components?"
+                  },
+                  {
+                    "a": "A Search Engine is a web-based tool that enables a user to locate information on the web. Most popular search engines are Google, Yahoo, and Bing.",
+                    "q": "What is a search engine? Name the most popular search engines."
+                  },
+                  {
+                    "a": "A home page (also known as landing page) is a web page that serves as the starting point of the website.",
+                    "q": "What is a home page?"
+                  },
+                  {
+                    "a": "Web Hosting is a service that allows a web developer to make a website publicly accessible through the internet. A web server is the computer that is responsible for serving a website and all of its content including text and media to a user.",
+                    "q": "What are web hosting and web server?"
+                  }
+                ],
+                "label": "Basic Terminology of Web Development"
+              },
+              {
+                "items": [
+                  {
+                    "a": "A web portal is a website that provides a single access point of information for all of its users. It collects information from different sources like emails, forums, search engines and presents it to the user in a uniform way. Yahoo and MSN are common examples of web portal.",
+                    "q": "What is a portal website? Give examples."
+                  },
+                  {
+                    "a": "A news website is the modern-day alternative for newspapers. Such websites contain everyday information related to current affairs, sports, politics, weather, health, technology, entertainment, etc.",
+                    "q": "What is a news website?"
+                  },
+                  {
+                    "a": "Informational websites provide detailed information of any field. There are many dedicated informational websites for science, arts, sports, online trainings, research, etc.",
+                    "q": "What is an informational website?"
+                  },
+                  {
+                    "a": "Educational websites are purely designed to deliver educational material for both, teachers and students such as sabaq.pk, khan academy.org, etc.",
+                    "q": "What is an educational website? Give examples."
+                  },
+                  {
+                    "a": "A person can share about his or her biography or achievements in a custom developed website.",
+                    "q": "What is a personal website?"
+                  },
+                  {
+                    "a": "A business website is the best way for any organization to market their products and services. It also tells about the teams, policies and procedures of that business. For instance, www.psx.com.pk is the website of Pakistan Stock Exchange.",
+                    "q": "What is a business website? Give an example."
+                  },
+                  {
+                    "a": "A blog is a special type of website that is composed of articles and posts. These articles are organized into categories and sorted by the time when they were published. Wordpress is a popular blog site.",
+                    "q": "What is a blog? Give an example of a blog site."
+                  },
+                  {
+                    "a": "A forum is an online place where different users can discuss about any topic. These topics can be categorized so that users can easily locate topics of their interest.",
+                    "q": "What is a forum website?"
+                  },
+                  {
+                    "a": "An entertainment website serves content like videos or games purely for the purpose of entertainment. Youtube is widely used for entertainment.",
+                    "q": "What is an entertainment website? Give an example."
+                  },
+                  {
+                    "a": "Social website is a platform where different people get together and socialize with each other. They can also share their ideas, opinions and media. Facebook and Twitter are instances of social networking websites.",
+                    "q": "What is a social website? Give examples."
+                  }
+                ],
+                "label": "Types of Websites"
+              },
+              {
+                "items": [
+                  {
+                    "a": "HTML stands for Hypertext Markup Language. HTML is used to create web pages that are displayed by web browsers mainly on internet. It is standard markup language for text documents. It allows the user to create structured content by adding headings, paragraphs, links, blockquotes and other media. It takes advantage of simple code structures called tags and attributes to achieve formatting, graphic and navigation effects on web pages.",
+                    "q": "What is HTML?"
+                  },
+                  {
+                    "a": "Creating a simple web page using HTML is very easy. It requires a text editor, a file with .html extension and a web browser to view that page. The four steps are: Step 1: Text Editor — create a new blank file in a text editor like notepad. Step 2: Write HTML code in Text Editor. Step 3: Save HTML Page — Go to File menu and click on Save, with .htm or .html extension. Step 4: View HTML Page in Browser — open the saved HTML file in the default web browser.",
+                    "q": "What are the four steps involved in creating a web page in HTML?"
+                  },
+                  {
+                    "a": "HTML elements are the building blocks of HTML pages. These elements are defined by placing HTML tags in our document. These tags are placed inside angular brackets (<>). Some tags also allow further customization by adding attributes to them. Simple Tag: <tag-name>content</tag-name> Tag with Attribute: <tag-name attribute-name= \"attribute value\">content</tag-name> Most of HTML tags always require a closing tag while some HTML tags such as <br> are empty tags which means that they don't require a closing tag.",
+                    "q": "What is an HTML tag? What is the structure of a simple tag and a tag with attribute? What is an empty tag?"
+                  },
+                  {
+                    "a": "All HTML documents must start with <!DOCTYPE html> tag. It specifies the HTML version used so the web browsers can show the web page according to HTML standards. All HTML documents start with <html> tag and end with </html> tag. <head> is used to define additional information about the web page; it contains tags such as <title>, <meta>, <style>, <script>, etc. The main content of the web page is contained between <body> and </body>.",
+                    "q": "What is the basic structure of an HTML document? Describe <!DOCTYPE html>, <html>, <head> and <body>."
+                  }
+                ],
+                "label": "Introduction to HTML and Creating a Web Page"
+              },
+              {
+                "items": [
+                  {
+                    "a": "<title> defines the title of a web page. Titles are very important as they appear on top of the browser window and displayed on search engine result pages. <footer> defines the footer for a web page. e.g. \"Copyright 2020. All rights reserved.\"",
+                    "q": "What are the <title> and <footer> tags used for?"
+                  },
+                  {
+                    "a": "<p> defines a paragraph of text in a webpage. It always starts from a new line and adds space before and after its text. <br> defines a line break and starts the following content from a new line. Unlike <p> tag, it does not add space before or after the break. <hr> draws a horizontal line where it is defined. It is used to differentiate between sections of the page.",
+                    "q": "Describe the <p>, <br> and <hr> tags."
+                  },
+                  {
+                    "a": "<h1> - <h6> is used to define six levels of HTML headings (h1, h2, h3, h4, h5 and h6) with <h1> being heaviest heading and <h6> being the lightest heading.",
+                    "q": "What are heading tags <h1> to <h6>?"
+                  },
+                  {
+                    "a": "<b>, <i>, <u> are used to bold, italicize and underline text respectively. <pre> is used to define a preformatted text. The web browser displays such text with spaces and line breaks as defined in HTML codes. <font> is used to define the font, size and color of its text. This tag can be composed with three attributes: size, color and face. This tag is supported till version 4.1 of HTML. <center> is used to align its text to the horizontal center of the web page. This tag is supported till version 4.1 of HTML. <sub> defines subscript text which is under the baseline of other text and has a smaller size. e.g. H_2O <sup> defines superscript text which is slightly above the normal line of other text and has a smaller size. e.g. E=mc^2",
+                    "q": "Describe the text formatting tags <b>, <i>, <u>, <pre>, <font>, <center>, <sub> and <sup>."
+                  }
+                ],
+                "label": "Designing and Formatting"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Lists are very useful in displaying point by point information such as to-do list, list of ingredients for a recipe, list of categories, etc. HTML provides three different types of list elements namely Unordered Lists, Ordered Lists and Description Lists. The web browsers automatically add indents, spaces and markers to HTML lists.",
+                    "q": "What are lists in HTML? Name the three types of HTML lists."
+                  },
+                  {
+                    "a": "An unordered list is a list of related items in which the order of items is irrelevant. It is defined by <ul> tag and each of its list item is defined by <li> tag. The web browser will display these list items as bullet points. Example: <h5>Commonly used components of Microsoft Office</h5> <ul> <li>Word</li> <li>Excel</li> <li>PowerPoint</li> <li>Access</li> </ul>",
+                    "q": "What is an unordered list? Give an example."
+                  },
+                  {
+                    "a": "An ordered list also displays a list of related items. It is used where the order of the list is important e.g. names of students in order of their exam ranks. It is defined by <ol> tag and each of its list item is defined by <li> tag. The web browser will display these list items with numbers starting from 1 instead of bullet points. Ordered lists can also be defined with two of its attributes: start and reversed. Start attribute defines the starting number of first list item. Reversed attribute is used to display the list in descending order. The list items for ordered list can also be defined with a value attribute which is used to place that item at a specific position or number in the list.",
+                    "q": "What is an ordered list? What are the start, reversed and value attributes?"
+                  },
+                  {
+                    "a": "Description lists are used to display different terms and their descriptions just like in a dictionary or glossary. It is defined by <dl> tag and each of its list items is composed of two elements: term and description. Term is defined by <dt> tag and its description is defined by <dd> tag. In description lists, a term can have one or more descriptions and a description can have one or more terms.",
+                    "q": "What is a description list? Which tags define its term and description?"
+                  },
+                  {
+                    "a": "A very powerful feature of HTML lists is their ability to nest one into another. Any of the list type can contain any other list type as its list item. It is defined by placing the new list tag inside the <li> tag of previous list. Web browsers automatically indent nested lists and assign appropriate marker to those nested list items as well. Example: Guided Media as an unordered list with Twisted Pair Cable containing a nested unordered list (Unshielded Twisted Pair, Shielded Twisted Pair), Coaxial Cable and Fiber Optical Cable.",
+                    "q": "What are nested lists? How are they defined?"
+                  }
+                ],
+                "label": "Creating Lists"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Images can be inserted in an HTML document by using <img> tag. This does not create a copy of image. Instead, it only creates a reference to original image placed somewhere in the computer's storage. The <img> tag is an empty tag which means that it does not require a closing </img> tag. It contains five attributes out of which two are required and three are optional.",
+                    "q": "How are images inserted in an HTML document? Is <img> an empty tag?"
+                  },
+                  {
+                    "a": "[[T]]Attribute|Value|Description;;src|URL|Defines the source or reference of the image file. Syntax: <img src=\"image.jpg\">;;alt|text|Defines alternate text for the image. Syntax: <img src=\"image.jpg\" alt=\"Introduction\">;;width|pixels|Defines the display width of the image. Syntax: <img src=\"image.jpg\" width=\"300\">;;height|pixels|Defines the display height of the image. Syntax: <img src=\"image.jpg\" height=\"120\">;;border|pixels|Defines the width of the border to be displayed around the image. (This border attribute is supported till version 4.1 of HTML). Syntax: <img src=\"image.jpg\" border=\"2\">[[/T]]",
+                    "q": "List the five attributes of the <img> tag with their values and descriptions."
+                  },
+                  {
+                    "a": "The web browsers display an HTML document with white background by default. However, this can easily be changed to a different color or even an image with the help of bgcolor and background attributes of the <body> tag. bgcolor: This attribute is used to change the color of the entire web page. Its color value can be defined as RGB code, hexadecimal code or by color name. For instance, to set the background color of the web page to green we can use any one of these values: rgb(0,255,0) : #00FF00 : green. e.g. <body bgcolor=\"green\"> background: This attribute is used to display an image as the background of the web page. Its value will be the reference or URL of the background image. e.g. <body background=\"image.jpg\"> Both of these attributes are supported till version 4.1 of HTML.",
+                    "q": "How can the background of a web page be changed? Describe the bgcolor and background attributes."
+                  },
+                  {
+                    "a": "Hyperlinks allow a user to navigate from one web page to another. It also enables users to navigate to different sections within the same web page. Hyperlinks convert text or other media into clickable objects. A hyperlink in HTML is defined by <a> tag and its href attribute. The value of href is the reference of another web page or a different section within the same page. Example: <a href=\"http://www.google.com\">Goto Google</a>",
+                    "q": "What are hyperlinks? How is a hyperlink defined in HTML?"
+                  },
+                  {
+                    "a": "[[T]]Attribute|Value|Description;;href|URL|Specifies the URL or section id of the page the link goes to.;;name|Section Name|Specifies the name of an anchor. This attribute works till version 4.1 of HTML.;;target|_blank : _parent : _self : _top : framename|Specifies where to open the linked document.[[/T]]",
+                    "q": "List the attributes of the anchor <a> tag with their values and descriptions."
+                  },
+                  {
+                    "a": "Tables allow displaying the content (like text, image, links) in the form of rows and columns. The coordinating place of a row with a column is called a cell. In HTML, a table is defined by <table> tag. A row is the collection of all horizontal cells of a table, defined by <tr> tag. A column is the collection of all vertical cells of a table, defined by <td> tag. A header cell is defined by <th> tag. Table attributes: align (left : center : right), width (pixels : %), border (1 or 0), cellpadding (pixels), cellspacing (pixels). Cell attributes: align (left : center : right), valign (top : middle : bottom : baseline), colspan (number), rowspan (number). All the above attributes are supported till version 4.1 of HTML.",
+                    "q": "What are tables in HTML? Name the tags and attributes used to create and format a table."
+                  },
+                  {
+                    "a": "HTML frames are powerful elements which allow displaying the contents of another HTML document within a web page. A web page can be divided into multiple sections and each section can display all contents from a different web page by using frames. It is defined by <frame> tag. The src attribute is used to provide the reference URL of another web page to be displayed in this frame. Frame attributes: src (URL), marginheight (pixels) defines top and bottom spaces of a frame, marginwidth (pixels) defines left and right spaces of a frame, noresize (noresize) defines if the user can change the frame size or not, scrolling (yes : no : auto) defines if the scroll bar should be displayed within the frame or not. HTML frames and framesets are supported till version 4.1 of HTML.",
+                    "q": "What are HTML frames? List the attributes of the <frame> tag."
+                  },
+                  {
+                    "a": "Framesets define how a web page is divided into rows and columns to display multiple frames on that web page. It is defined by <frameset> tag and contains one or more <frame> tags. Frameset attributes: cols (pixels : %) defines the number and the size of frame columns; rows (pixels : %) defines the number and the size of frame rows.",
+                    "q": "What are framesets? How do they divide a web page?"
+                  }
+                ],
+                "label": "Images, Backgrounds, Hyperlinks, Tables, Frames and Tools"
+              }
+            ],
+            "num": "6.4"
+          }
+        ],
+        "title": "Web Development",
+        "unit": 6,
+        "words": [],
+        "display": "Web Development"
+      },
+      {
+        "reading": "Introduction to Database System",
+        "sections": [
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(d) MS-Access ✓",
+                    "q": "Which of the following Microsoft Office packages is a DBMS? (a) MS-Word (b) MS-Excel (c) MS-Power Point (d) MS-Access"
+                  },
+                  {
+                    "a": "(b) It stores data in a single file ✓",
+                    "q": "The basic limitation of a flat file database is that: (a) It is complicated (b) It stores data in a single file (c) It is very heavy (d) It is not supported on internet"
+                  },
+                  {
+                    "a": "(b) Field ✓",
+                    "q": "In a database table of \"Students\", the address of the student will be a: (a) Record (b) Field (c) Entity (d) Data type"
+                  },
+                  {
+                    "a": "(a) Record ✓",
+                    "q": "In a database table of \"Students\", the particulars of a single student will be a: (a) Record (b) Field (c) Entity (d) Data type"
+                  },
+                  {
+                    "a": "(d) Relationship ✓",
+                    "q": "In a relational database, keys are used to create a: (a) Table (b) Fields (c) Records (d) Relationship"
+                  },
+                  {
+                    "a": "(c) String ✓",
+                    "q": "A field that stores the names of students should be defined as: (a) Integer (b) Float (c) String (d) Boolean"
+                  },
+                  {
+                    "a": "(a) Primary Key ✓",
+                    "q": "A key that allows only unique entries in a field is called: (a) Primary Key (b) Secondary Key (c) Foreign Key (d) Super Key"
+                  },
+                  {
+                    "a": "(a) Duplication of Data ✓",
+                    "q": "Data Redundancy means: (a) Duplication of Data (b) Variety of Data (c) Size of Data (d) Data Type"
+                  },
+                  {
+                    "a": "(a) One-to-One relationship ✓",
+                    "q": "The relationship that matches one record of an entity with only one record of another entity is called: (a) One-to-One relationship (b) One-to-Many relationship (c) Many-to-One relationship (d) Many-to-Many relationship"
+                  },
+                  {
+                    "a": "(d) An ellipse ✓",
+                    "q": "The shape that is used to represent an attribute in an ERD is: (a) A diamond (b) An octagon (c) A rectangle (d) An ellipse"
+                  }
+                ],
+                "label": "A"
+              }
+            ],
+            "name": "Multiple Choice Questions",
+            "num": "7.1"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "A Database Management System is preferred over Flat File System because: [[T]]DBMS|Flat File System;;Multiple users can access data simultaneously|Only one user can access at a time;;Capable of handling huge sets of data|Suitable only for smaller sets of data;;Allows non-duplication and integrity|Increases duplicate and redundant data;;Supports online access|Does not support remote connections;;Good for small, medium and large businesses|Limited only to smaller data management needs[[/T]] A DBMS is a modern version of database designing, organization and manipulation. A DBMS offers tools like Queries, Views and Forms which help users to manipulate data easily and more efficiently. A DBMS is more secure and reliable. DBMS allows distribution of data in multiple tables by making use of features like keys and relationships between fields of those tables. This allows lesser duplication of data and results in lesser redundancy. Preparing backups and providing limited permissions to the users are features of DBMS. DBMS can handle large and complex data more conveniently. Therefore, it is preferred by the medium and large organizations.",
+                    "q": "Why Database Management System is preferred over Flat File System?"
+                  },
+                  {
+                    "a": "A database is playing a leading role to enhance the efficiency and performance of any organization. The goal of database is to minimize the loss and increase the productivity and efficiency of any organization in the age of information technology. For example, a general store database may include tables for purchase, sales and stock records. Each of these tables has different fields that are relevant to the information stored in the table. Databases can be seen in every field of life, for example in industries, health, agriculture, schooling, business and banking. Databases can be small in size with a few records or very large like NADRA (National Database Registration Authority) databases which keep the multi millions of records.",
+                    "q": "Discuss the use of databases in business with example."
+                  },
+                  {
+                    "a": "Design View is used to create a table in MS Access: To create tables in Access using \"Design View,\" click on the Create tab and click on the Table icon. Then pull down the View menu and choose Design View. A new table then appears in the Table Design View. Note that the default name assigned to the table is Table1. Type the name of a field into the \"Field Name\" column. Then use the drop-down menu in the \"Data Type\" column to assign the field a data type. If desired, type a description of the data stored in this field. Datasheet View is the view in which the table's data is shown as rows and columns (records) for viewing and entering data; the View menu offers Datasheet View, PivotTable View, PivotChart View and Design View. (Note: the book does not give a separate definition of Datasheet View; this answer is drawn from the Create-table steps and the View menu.)",
+                    "q": "What is the difference between Design View and Datasheet View?"
+                  },
+                  {
+                    "a": "All fields in a table must have some data type. Data type is a data storage format that can contain a specific type or range of values. The data type of a field is a property that tells what kind of data that field can hold. Different DBMSs offer different range of data types to be stored. For example, MS Access allows a range of whole numbers from -32768 to 32767 for an \"Integer\". In modern DBMS, choosing proper data type is important to make sure that database runs faster.",
+                    "q": "Why is it important to carefully decide the data type for each field?"
+                  },
+                  {
+                    "a": "[[T]]Table|View;;In a database the data is stored in tables.|We can see that data through views. Views do not store data and just show the information virtually.;;A table is a collection of data elements organized in shape of rows and columns.|Views have the ability to fetch data from different tables.;;Tables store the actual data.|Views maintain the security of data and ensure that no changes occur in the original data.;;The result set of a query looks like a table.|This result set is a reflection of data from the selected fields of the tables. It is also known as a view.[[/T]]",
+                    "q": "What is the difference between table and view?"
+                  },
+                  {
+                    "a": "Entity: In literal sense, an entity is any individual object which has its own qualities and properties. In database terms, an entity is an independent table and its fields are known as attributes. As an example, a Payroll database will contain an entity named Employees. The Employees entity will contain various attributes like EmployeeID, Name, Designation, Salary, etc. Attribute: The fields of an entity are known as attributes. For example, in the Employees entity the attributes are EmployeeID, Name, Designation and Salary. Relationship: A relationship defines the connection between two tables. It creates a connection from an attribute of one entity with an attribute of another entity. For example, the Students table has a ClassId field to set up a One-to-One foreign key relationship with the Class table.",
+                    "q": "Explain entities, attributes and relationships with one example of each."
+                  },
+                  {
+                    "a": "Primary Key: A primary key is used to uniquely identify a record in an entity. When a primary key is applied to any attribute in an entity, it forces the rules of Primary Key onto that attribute. These rules are: (1) The attribute (field) must contain a unique value to identify a record. A unique value means that two records in the same entity cannot have the same value stored in this attribute where Primary Key is applied. (2) The value of the attribute where Primary Key is applied, cannot be null. Foreign Key: A foreign key is used to define the connection or relation between two entities. The foreign key of one entity is configured to be connected to the primary key of another entity. When a foreign key is applied on an attribute, it enforces that the value for that attribute should match any record in the related entity having a primary key.",
+                    "q": "List the major characteristics of primary and foreign keys."
+                  },
+                  {
+                    "a": "Three benefits of using relationships in the database are: (1) Relationships connect data entities instead of repeating the same data in multiple tables, so there is lesser duplication of data and lesser redundancy. (2) DBMS allows distribution of data in multiple tables by making use of features like keys and relationships between fields of those tables. (3) Related information can be fetched from different tables through foreign key relationships; for example, Teachers and Class tables use their TeachersClassId field's foreign key relationship to fetch the related information from the TeachersClass junction table.",
+                    "q": "Write three benefits of using relationships in the database."
+                  },
+                  {
+                    "a": "Entity Relationship Model (ERM) or Entity Relationship Diagram (ERD) describes the entities, attributes and relationships with their types in a simplified diagram. This model or diagram can itself be used as the reference for designing an actual database. It can even be used as a backup for the structure of a database. The ERD can be used in two ways: (1) When the database has not been created yet. The ERD helps in creating a clear representation of the entire database based on user requirements. (2) When an existing database needs to be documented. The Database development tool features automatic creation of ERD based on existing database which facilitates documentation. Data modeling helps to identify the most important fields and remove the irrelevant data. Data models can be used by database developers to create a physical database. This saves a lot of time and efforts of developers.",
+                    "q": "Discuss the importance of ERD in business"
+                  },
+                  {
+                    "a": "Two statements from the ER Diagram are: (1) One company releases many advertisements. (2) One company takes many interviews. (The entities in the diagram are Company, Advertisement, Interview and Candidate; the relationships are Releases, Takes, Applies for and Faces. The cardinalities are read from the crow's foot symbols: the \"1\" end is at the Company side and the crow's foot \"many\" end is at the Advertisement and Interview sides.)",
+                    "q": "Write any two statements from the following ER Diagram. Entities: Company, Advertisement, Interview, Candidate. Relationships: Releases, Takes, Applies for, Faces."
+                  }
+                ],
+                "label": "B"
+              }
+            ],
+            "name": "Short Questions",
+            "num": "7.2"
+          },
+          {
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "(i) Primary Key — (b) Always unique value in field; (ii) Integer data — (d) Number without decimal point; (iii) Relationship — (e) Connection between two tables; (iv) Field — (a) Attributes; (v) View — (f) Shows virtual data; (vi) Flat file system — (c) Data in plain text form; (vii) Entity — (g) Table with its own attributes",
+                    "q": "Match the columns: [[T]]Column A|Column B;;(i) Primary Key|(a) Attributes;;(ii) Integer data|(b) Always unique value in field;;(iii) Relationship|(c) Data in plain text form;;(iv) Field|(d) Number without decimal point;;(v) View|(e) Connection between two tables;;(vi) Flat file system|(f) Shows virtual data;;(vii) Entity|(g) Table with its own attributes[[/T]]"
+                  }
+                ],
+                "label": "C"
+              }
+            ],
+            "name": "Matching",
+            "num": "7.3"
+          },
+          {
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "items": [
+                  {
+                    "a": "A database stores data in organized form. A database is composed of tables which contain rows and columns. These rows and columns are called records and fields respectively. Most databases contain multiple tables. For example, a general store database may include tables for purchase, sales and stock records. Each of these tables has different fields that are relevant to the information stored in the table. Generally, a database is an electronic system that facilitates easy access, manipulation and updating of data.",
+                    "q": "What is a database? What are tables, rows and columns called in a database?"
+                  },
+                  {
+                    "a": "Nowadays, everyone is familiar with term database, it is mathematically developed data structure which converts raw input data into meaningful information for a particular organization. These days, database can be seen in every field of life, for example in industries, health, agriculture, schooling, business and banking. A database is playing a leading role to enhance the efficiency and performance of any organization. The goal of database is to minimize the loss and increase the productivity and efficiency of any organization in the age of information technology.",
+                    "q": "What is the use of a database? In which fields of life can databases be seen?"
+                  },
+                  {
+                    "a": "Databases are usually developed, maintained and controlled by the Database Management System (DBMS). The DBMS essentially serves as an interface between databases and end users or application programs, ensuring that data is consistently organized and remains easily accessible. Some examples of popular DBMSs used these days are: MySql, Oracle, Microsoft SQL Server, MongoDB, Visual Foxpro, IBM Db2 and PostgreSQL.",
+                    "q": "What is a Database Management System (DBMS)? Name some popular DBMSs."
+                  },
+                  {
+                    "a": "Early databases were relatively \"flat\", which means they were limited to simple rows and columns, like a spreadsheet. A flat file is the older version of database. It stores data in a single table structure. Flat file databases are usually in plain text format, with only one record per line. The fields included in the record are separated using delimiters such as tabs or commas.",
+                    "q": "What is a flat file system?"
+                  },
+                  {
+                    "a": "[[T]]DBMS|Flat File System;;Multiple users can access data simultaneously|Only one user can access at a time;;Capable of handling huge sets of data|Suitable only for smaller sets of data;;Allows non-duplication and integrity|Increases duplicate and redundant data;;Supports online access|Does not support remote connections;;Good for small, medium and large businesses|Limited only to smaller data management needs[[/T]]",
+                    "q": "Differentiate between DBMS and flat file system."
+                  },
+                  {
+                    "a": "A DBMS is modern version of database designing, organization and manipulation. This mainly offers the solutions which a flat file system could not provide. The DBMS has many characteristics. Some of them are: Multiple users can access DBMS and can view, add, edit and delete records. A DBMS offers tools like Queries, Views and Forms which help users to manipulate data easily and more efficiently. A DBMS is more secure and reliable. DBMS allows distribution of data in multiple tables by making use of features like keys and relationships between fields of those tables. This allows lesser duplication of data and results in lesser redundancy. Preparing backups and providing limited permissions to the users are features of DBMS. DBMS can handle large and complex data more conveniently. Therefore, it is preferred by the medium and large organizations.",
+                    "q": "List the characteristics of a Database Management System."
+                  }
+                ],
+                "label": "Database and Database Management System"
+              },
+              {
+                "items": [
+                  {
+                    "a": "It is a collection of data elements organized in shape of rows and columns. A contact list may be one of the simplest examples of a table. The marks record prepared by a class teacher is also an example of a table.",
+                    "q": "What is a table in a database? Give two examples."
+                  },
+                  {
+                    "a": "It is the smallest component in a database. It is where the actual data is stored during data entry. All data fields in the same table, have unique names. Fields are also called attributes or columns. Multiple fields make up a data record, several data records make up a data table, and several data tables make up a database.",
+                    "q": "What is a field? What are fields also called?"
+                  },
+                  {
+                    "a": "A single entry in a table is called a record. Records are also referred as tuples or rows. A record is made up of two or several data items which are also called tuples in a table representing a set of related data. For example, the illustrated Student table (Fig: 7.2) has 4 tuples /records/rows: (1) Rameez, Tariq, IX (2) Anam, Sohail, IX (3) Sheldon, David, IX (4) Nawal, Tufail, IX.",
+                    "q": "What is a record? How many records does the Student table in Fig 7.2 have?"
+                  },
+                  {
+                    "a": "All fields in a table must have some data type. Data type is a data storage format that can contain a specific type or range of values. The data type of a field is a property that tells what kind of data that field can hold.",
+                    "q": "What is a data type?"
+                  },
+                  {
+                    "a": "[[T]]Data Type|Description|Examples;;Integer|Holds only whole numbers.|145, -35, 74586;;Floating Point|Holds numbers with decimal points.|5.6, 3.14, 554.9;;Character|Stores only one character.|A, B, c, d;;String|Can store a combination of numbers, letters and special characters.|Pakistan, Computer, @admin;;Boolean|Can hold only Boolean values i.e. true or false.|1, 0;;Date & Time|Stores date and time in specified format.|01-01-2020 11:30[[/T]]",
+                    "q": "List the six basic data types with their descriptions and examples."
+                  },
+                  {
+                    "a": "Different DBMSs offer different range of data types to be stored. For example, MS Access allows a range of whole numbers from -32768 to 32767 for an \"Integer\". In modern DBMS, choosing proper data type is important to make sure that database runs faster.",
+                    "q": "Give an example of how the range of a data type differs between DBMSs."
+                  },
+                  {
+                    "a": "In a database the data is stored in tables. However, we can see that data through views. Views do not store data and just show the information virtually. They have the ability to fetch data from different tables. Views maintain the security of data and ensure that no changes occur in the original data.",
+                    "q": "What is a view? How is it different from a table?"
+                  },
+                  {
+                    "a": "A table is also called an entity, a record is also called row or tuple and a field is also called an attribute or column.",
+                    "q": "What are the other names of table, record and field?"
+                  }
+                ],
+                "label": "Basic Components of DBMS"
+              },
+              {
+                "items": [
+                  {
+                    "a": "To create tables in Access using \"Design View,\" click on the Create tab and click on the Table icon. Then pull down the View menu and choose Design View. A new table then appears in the Table Design View. Note that the default name assigned to the table is Table1. Type the name of a field into the \"Field Name\" column. Then use the drop-down menu in the \"Data Type\" column to assign the field a data type. If desired, type a description of the data stored in this field. Repeat steps 4 and 5 until you have created all of the necessary table fields. Click the \"Save\" button in the Quick Access toolbar. Then type a name for the newly created table and click \"OK\".",
+                    "q": "What are the steps for creating a table using Design View in MS Access?"
+                  },
+                  {
+                    "a": "An example of a Table is the customer Table that has following entries: [[T]]Field Name|Data Type|Description;;Customer ID|Number|The Unique Identifier for a customer;;First Name|Text|The First Name of the customer;;Last Name|Text|The Last Name of the customer;;Address|Text|The Address of the customer[[/T]]",
+                    "q": "Give an example of a customer table created in MS Access Design View."
+                  },
+                  {
+                    "a": "To make a query in design view, click on the \"Create\" tab in the Ribbon and pull down the \"Queries\" group and click on \"Query Design\" button. In the \"Show Table\" dialog box, add the table or tables that you want to add to query design view. Next, add the fields from these tables that you want to view in your query results or view. If you want to add all of the fields of a table into your result set, you can click and drag the first field in the table, shown as an asterisk. Once you have added all the necessary tables and fields to the query or view, click the \"Close\" button in the \"Show Table\" dialog box to close it and display the query design view. To run a query and view the result set, you can click the \"Run\" button in the \"Results\" group of the \"Design\" tab in the \"Query Tools\" contextual tab on the office Ribbon. The result set looks like a table. This result set is a reflection of data from the selected fields of the tables. It is also known as a view. Click the \"Save\" button in the Quick Access toolbar. Type a name for your view and click \"OK\" to save the query.",
+                    "q": "What are the steps for creating a query or view using Design View in MS Access?"
+                  },
+                  {
+                    "a": "A field name can be up to 64 characters long, including spaces. (Shown in the Field Properties help text in the Design View screenshot.)",
+                    "q": "What is the maximum length of a field name in MS Access according to the book?"
+                  }
+                ],
+                "label": "Creating Tables and Views in MS Access"
+              },
+              {
+                "items": [
+                  {
+                    "a": "Data modeling is a process of developing conceptual representation of data objects and their relations. Data models are used to express how the information will be stored in database. This helps to identify the most important fields and remove the irrelevant data. Data models can be used by database developers to create a physical database. This saves a lot of time and efforts of developers. There are three most important components of data models: (i) Entity (ii) Relationship (iii) Referential Keys.",
+                    "q": "What is data modeling? Name its three most important components."
+                  },
+                  {
+                    "a": "In literal sense, an entity is any individual object which has its own qualities and properties. In database terms, an entity is an independent table and its fields are known as attributes. As an example, a Payroll database will contain an entity named Employees. The Employees entity will contain various attributes like EmployeeID, Name, Designation, Salary, etc.",
+                    "q": "What is an entity? Give an example."
+                  },
+                  {
+                    "a": "When the database structures grew and became more complex, a lot of data started to become redundant which means that data was being unnecessarily duplicated. This created a need to connect data entities instead of repeating same data in multiple tables. This resulted in the creation of relationships and Relational Database Management Systems (RDBMS). A relationship defines the connection between two tables. It creates a connection from an attribute of one entity with an attribute of another entity. Three types of relationships can be defined between entities: One to One, One to Many and Many to Many.",
+                    "q": "What is a relationship? Why are relationships needed? Name the three types."
+                  },
+                  {
+                    "a": "One to One Relationship: This type of relationship defines that a record in one entity can be connected to only one record in another entity. This is not a very common type of relationship because the data from related entities can directly be placed in a single entity. However, this type of relationship is used to divide larger entities into smaller ones. One to Many Relationship: This type of relationship defines that a record in one entity can be connected to many records in another entity. This is the most common type of relationship used in relational databases. This relationship can also be seen as Many to One Relationship. Many to Many Relationship: In this type of relationship, one or more records of one entity are connected to one or more records of another entity. Usually, a third entity known as \"junction table\" is used to create the many-to-many relationship between two related entities.",
+                    "q": "Describe the three types of relationships between entities."
+                  },
+                  {
+                    "a": "Students table is used to store personal information of individual student. It has an Id field set as a Primary Key. It also has a ClassId field to setup a One-to-One foreign key relationship with the Class table. Class table is used to store information about classrooms in a school. It has an Id field set as a Primary Key. A student can be enrolled in only one class; hence, Students table has a One-to-One relationship with Class table. However, many teachers can be associated with many classes. This requires a Many-to-Many relationship between Class and Teachers tables. Teachers table is used to store personal information about a teacher. It has an Id field set as a Primary Key. Many classes can be taught by many teachers. This requires a Many-to-Many relationship between Teachers and Class tables. TeachersClass table is used as a junction table to facilitate the Many-to-Many relationship between Teacher and Class tables. It also contains an Id field set as Primary Key. The other two fields are used to define which teachers are associated with which classes. It creates a One-to-Many relationship with each of the two connected tables. Teachers and Class tables use their TeachersClassId field's foreign key relationship to fetch the related information from this table.",
+                    "q": "Explain the four tables in Fig 7.3 (Students, Class, Teachers, TeachersClass) and their relationships."
+                  }
+                ],
+                "label": "Data Modeling, Entities and Relationships"
+              },
+              {
+                "items": [
+                  {
+                    "a": "The relationships are configured by using referential keys on entities. The keys determine a certain set of rules that must be followed by the data stored in a field of an entity. In larger databases, keys are very important to uniquely identify a specific record. Two types of keys are most commonly used in RDBMSs: Primary Key and Foreign Key.",
+                    "q": "What are referential keys? Which two types are most commonly used in RDBMSs?"
+                  },
+                  {
+                    "a": "A primary key is used to uniquely identify a record in an entity. When a primary key is applied to any attribute in an entity, it forces the rules of Primary Key onto that attribute. These rules are: The attribute (field) must contain a unique value to identify a record. A unique value means that two records in the same entity cannot have the same value stored in this attribute where Primary Key is applied. The value of the attribute where Primary Key is applied, cannot be null.",
+                    "q": "What is a primary key? What are its two rules?"
+                  },
+                  {
+                    "a": "A foreign key is used to define the connection or relation between two entities. The foreign key of one entity is configured to be connected to the primary key of another entity. When a foreign key is applied on an attribute, it enforces that the value for that attribute should match any record in the related entity having a primary key.",
+                    "q": "What is a foreign key?"
+                  },
+                  {
+                    "a": "[[T]]Primary Key|Foreign Key;;A primary key is used to uniquely identify a record in an entity.|A foreign key is used to define the connection or relation between two entities.;;The attribute must contain a unique value; two records in the same entity cannot have the same value in this attribute.|The foreign key of one entity is configured to be connected to the primary key of another entity.;;The value of the attribute where Primary Key is applied, cannot be null.|When a foreign key is applied on an attribute, it enforces that the value for that attribute should match any record in the related entity having a primary key.[[/T]]",
+                    "q": "Differentiate between primary key and foreign key."
+                  },
+                  {
+                    "a": "Entity Relationship Model (ERM) or Entity Relationship Diagram (ERD) describes the entities, attributes and relationships with their types in a simplified diagram. This model or diagram can itself be used as the reference for designing an actual database. It can even be used as a backup for the structure of a database. The ERD can be used in two ways: When the database has not been created yet. The ERD helps in creating a clear representation of the entire database based on user requirements. When an existing database needs to be documented. The Database development tool features automatic creation of ERD based on existing database which facilitates documentation.",
+                    "q": "What is the Entity Relationship Model (ERM) or ERD? In which two ways can it be used?"
+                  },
+                  {
+                    "a": "ER Design is made up of different components like Attributes, Relationships, etc. There are defined symbols and shapes to represent each one of them. A rectangle is used to define an entity. This can be any real-world object like Student, Teacher, Class, etc. An ellipse defines an attribute of an entity. One entity may contain multiple attributes and are defined by multiple ellipses. Relationships are symbolically represented by diamond shape. It simply states the type of relationship between two entities. Connecting lines show the type of relationship between two entities. These lines are annotated by 1 or M (stands for Many) at their ends to describe the type of relationship.",
+                    "q": "What are the components of an ER diagram? Which shapes represent entity, attribute and relationship?"
+                  },
+                  {
+                    "a": "Steps to design ER Model: 1. Identify and design the entities based on the requirements of its users. 2. Identify and design the attributes within the required entities. 3. Identify the relationships required between entities. 4. Define Primary Keys in interrelated entities. 5. Design Foreign Key relationships based on requirements and bind them to previously created Primary Keys. 6. Generate an automated Entity Relationship Diagram. For example a sample ERD for the statement \"A writer creates a novel and consumer buys novel\" is: Entities are in rectangular Box: 1. Writer 2. Consumer 3. Novel. Relationships are in Diamond Shape: 1. Create 2. Buys. The Writer is connected to the Creates relationship, which is connected to the Novel; the Consumer is connected to the Buys relationship, which is connected to the Novel.",
+                    "q": "What are the steps to design an ER model? Describe the sample ERD for \"A writer creates a novel and consumer buys novel\"."
+                  }
+                ],
+                "label": "Referential Keys and ER Model"
+              }
+            ],
+            "num": "7.4"
+          }
+        ],
+        "title": "Introduction to Database System",
+        "unit": 7,
+        "words": [],
+        "display": "Introduction to Database System"
+      }
+    ]
   },
   "viii": {
     "mathsolutions": [
@@ -177381,6 +181635,7 @@ if((subj || "").indexOf("Pakistan Studies") === 0 && (subj || "").indexOf("Sindh
 if((subj || "").indexOf("Chemistry") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].chemExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].chemExsolutions});
 if((subj || "").indexOf("Physics") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].phyExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].phyExsolutions});
 if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].bioExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].bioExsolutions});
+if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].csExsolutions});
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutions});
   matData = data;
   matSubj = subj;
@@ -177398,6 +181653,7 @@ if((subj || "").indexOf("Pakistan Studies") === 0 && (subj || "").indexOf("Sindh
 if((subj || "").indexOf("Chemistry") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].chemExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Physics") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].phyExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].bioExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].csExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].socExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
   }
   var _gb = document.getElementById("subjectguide");
@@ -177445,6 +181701,7 @@ if((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >=
 if((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].chemExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].chemExsolutions});
 if((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].phyExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].phyExsolutions});
 if((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].bioExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].bioExsolutions});
+if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
   if(data) matData = data;
   matExUnit = 0;
@@ -177497,6 +181754,7 @@ if((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >=
 if((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].chemExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].chemExsolutions});
 if((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].phyExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].phyExsolutions});
 if((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].bioExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].bioExsolutions});
+if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
   if(data) matData = data;
   matExUnit = n;
@@ -177527,7 +181785,7 @@ function exUnitHtml(n){
   ex.forEach(function(x){ if(x.unit === n) u = x; });
   if(!u) return "<p class=\"note\">Exercise solutions for this unit will be added here.</p>";
   var html = "";
-  var _sci = (((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0) && (matSubj || "").indexOf("Sindhi") >= 0);
+  var _sci = ((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0 || (matSubj || "").indexOf("Computer Science") === 0);
   if(matSubj === "English" && u.display) html += "<p class=\"pro-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
   html += "<div class=\"pro-toc\"><div class=\"pro-toc-title\">In this unit</div>";
   (u.sections || []).forEach(function(sec, i){
@@ -177538,10 +181796,15 @@ function exUnitHtml(n){
   html += "</div>";
   (u.sections || []).forEach(function(sec, i){
     html += "<div class=\"review\" id=\"ex-" + n + "-" + (i + 1) + "\"><div class=\"qq exsec\"><b><u>" + escHtml(sec.num) + " " + escHtml(sec.name) + "</u></b></div>";
+    var _isExtras = /additional|وڌيڪ/i.test(sec.name || "");
     (sec.exercises || []).forEach(function(g){
-      html += "<div class=\"exhead\"><b>" + escHtml(g.label) + "</b></div>";
+      html += "<div class=\"exhead" + (_isExtras ? " extopic" : "") + "\"><b>" + escHtml(g.label) + "</b></div>";
       (g.items || []).forEach(function(it, qi){
-        html += "<p class=\"note pro-q\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + (_sci ? chemHtml(it.q) : escHtml(it.q)) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note pro-a\"><span class=\"exa\">Ans:</span> " + (_sci ? chemHtml(it.a) : escHtml(it.a)) + "</p>" + (it.da ? diagramSvg(it.da) : "");
+        var _q = tableHtml(_sci ? chemHtml(it.q) : escHtml(it.q));
+        var _a = tableHtml(_sci ? chemHtml(it.a) : escHtml(it.a));
+        var _qTag = (_q.indexOf('<table') !== -1) ? 'div' : 'p';
+        var _aTag = (_a.indexOf('<table') !== -1) ? 'div' : 'p';
+        html += "<" + _qTag + " class=\"note pro-q\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + _q + "</" + _qTag + ">" + (it.dq ? diagramSvg(it.dq) : "") + "<" + _aTag + " class=\"note pro-a\"><span class=\"exa\">Ans:</span> " + _a + "</" + _aTag + ">" + (it.da ? diagramSvg(it.da) : "");
       });
     });
     html += "</div>";
@@ -177549,7 +181812,7 @@ function exUnitHtml(n){
   if(u.words && u.words.length){
     var wordsTitle = ((matSubj || "").indexOf("Sindhi") === 0) ? "Difficult Words \u2014 Sindhi Meaning and Synonym" : (((matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees") ? "Difficult Words \u2014 Urdu Meaning and Synonym" : "Difficult Words \u2014 Sindhi Meaning and English Synonym");
     html += "<div class=\"review\" id=\"ex-" + n + "-words\"><div class=\"qq exsec\"><b><u>" + wordsTitle + "</u></b></div>";
-    var _enW = (matSubj === "English");
+    var _enW = (matSubj === "English" || (matSubj || "").indexOf("English Version") >= 0);
     var _urduW = (matSubj === "Asan Urdu" || matSubj === "Urdu Salees");
     var _h3 = _enW ? "Sindhi meaning" : ((_urduW || matSubj === "Sindhi") ? "Synonym" : "English");
     html += "<table class=\"pro-words\"><thead><tr><th>Word</th><th>Meaning</th><th>" + _h3 + "</th></tr></thead><tbody>";
@@ -177603,6 +181866,7 @@ if((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >=
 if((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].chemExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].chemExsolutions});
 if((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].phyExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].phyExsolutions});
 if((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].bioExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].bioExsolutions});
+if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
   if(data) matData = data;
   matMathUnit = n;
@@ -177715,6 +181979,24 @@ function chemHtml(s){
   h = h.replace(/\[\[S\]\]([\s\S]*?)\[\[\/S\]\]/g, '<span class="eq-step">$1</span>');
   h = h.replace(/\[\[A\]\]([\s\S]*?)\[\[\/A\]\]/g, '<span class="eq-ans">$1</span>');
   return h;
+}
+// Tables in guide text: [[T]]Header 1|Header 2;;Row 1a|Row 1b;;Row 2a|Row 2b[[/T]]
+// First row is the header; rows split by ;;, cells by |. Cells must not contain | or ;;.
+// Applied AFTER escHtml/chemHtml, so fractions and raised powers work inside cells.
+function tableHtml(h){
+  return h.replace(/\[\[T\]\]([\s\S]*?)\[\[\/T\]\]/g, function(m, body){
+    var rows = body.split(';;').map(function(r){ return r.trim(); }).filter(function(r){ return r.length > 0; });
+    if(!rows.length) return '';
+    var out = '<table class="pro-table"><thead><tr>';
+    rows[0].split('|').forEach(function(c){ out += '<th>' + c.trim() + '</th>'; });
+    out += '</tr></thead><tbody>';
+    rows.slice(1).forEach(function(r){
+      out += '<tr>';
+      r.split('|').forEach(function(c){ out += '<td>' + c.trim() + '</td>'; });
+      out += '</tr>';
+    });
+    return out + '</tbody></table>';
+  });
 }
 // Full HTML for one Maths exercise-solution unit: shortcut links, then each exercise.
 function diagramSvg(d){
@@ -178070,7 +182352,7 @@ function matSectionHtml(tab){
     }
     return matTabHtml(tab);
   }
-  if(tab === "exsolutions" && ((matSubj || "").indexOf("Sindhi") === 0 || (matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || ((matSubj || "").indexOf("Science") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Social Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Islamiat") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Pakistan Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Chemistry") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Physics") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Biology") === 0 && (matSubj || "").indexOf("Sindhi") >= 0))){
+  if(tab === "exsolutions" && ((matSubj || "").indexOf("Sindhi") === 0 || (matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || ((matSubj || "").indexOf("Science") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Social Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Islamiat") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Pakistan Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Chemistry") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Physics") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Biology") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Computer Science") === 0 && (matSubj || "").indexOf("English") >= 0))){
     var sx = data.exsolutions || [];
     if(sx.length){
       sx.forEach(function(u){
