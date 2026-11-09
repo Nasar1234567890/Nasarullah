@@ -391,6 +391,13 @@ body.dark .exsyn{color:#93c5fd}
 <button class="homebtn" onclick="goHome()">Homepage</button>
 </section>
 
+<section id="guidespage" class="card hidden">
+<h2 id="guidestitle">Guides</h2>
+<p class="note">All complete guides in one place. Choose a class, then a subject guide.</p>
+<div id="guidesbody"></div>
+<button class="homebtn" onclick="goHome()">Homepage</button>
+</section>
+
 <section id="subjectpage" class="card hidden">
 <h2 id="subjecttitle">Choose a test</h2>
 <p class="note" data-i18n="subjectNote">Choose a test. Each test shows its own number of questions and timer.</p>
@@ -483,6 +490,7 @@ body.dark .exsyn{color:#93c5fd}
 <button class="menulink" onclick="menuNav('ix')">Class IX<small>Std. 9</small></button>
 <button class="menulink" onclick="menuNav('x')">Class X<small>Std. 10</small></button>
 <button class="menulink" onclick="menuNav('gk')">General Knowledge<small>GK Tests</small></button>
+<button class="menulink" onclick="menuNav('guides')">📖 Guides<small>All complete guides in one place</small></button>
 <button class="menulink" onclick="menuNav('results')">📊 My Results</button>
 <button class="menulink" onclick="menuNav('timetable')">🗓️ Timetable<small>Mid-Term Examination 2026-27</small></button>
 <button class="menulink" onclick="menuNav('flashcards')">🃏 Flashcards</button>
@@ -37836,6 +37844,8 @@ function navShow(state){
     else if(state.view==='flashcards'){ showFlashcards(); }
     else if(state.view==='timetable'){ showTimetable(); }
     else if(state.view==='myresults'){ showMyResults(); }
+    else if(state.view==='guides'){ showGuides(); }
+    else if(state.view==='guidesclass'){ if(state.cls) showGuidesClass(state.cls); else showGuides(); }
     else if(state.view==='install'){ showInstall(); }
     else if(state.view==='material'){ if(state.cls && state.subj && state.tab){ if(state.unit){ if(state.math) openMathUnit(state.unit, state.cls, state.subj); else openExUnit(state.unit, state.cls, state.subj); } else openMatPage(state.tab, state.cls, state.subj); } else navFallback(); }
     else { goHome(); }
@@ -38085,6 +38095,7 @@ function goHome(){
   var _fl=document.getElementById('flashcards'); if(_fl) _fl.classList.add('hidden');
   var _tt=document.getElementById('timetable'); if(_tt) _tt.classList.add('hidden');
   var _mr=document.getElementById('myresults'); if(_mr) _mr.classList.add('hidden');
+  var _gp=document.getElementById('guidespage'); if(_gp) _gp.classList.add('hidden');
   var _ic=document.getElementById('installcard'); if(_ic) _ic.style.display='none';
   document.getElementById('home').classList.remove('hidden');
   selectClassChip(currentClass||homeClass);
@@ -38238,14 +38249,78 @@ function closeMenu(){ var d=document.getElementById('menudrawer'); var b=documen
 function menuNav(dest){
   closeMenu();
   if(dest==='night'){ toggleNight(); return; }
-  ['home','classpage','subjectpage','test','result','install','flashcards','timetable','myresults'].forEach(function(id){ var el=document.getElementById(id); if(el) el.classList.add('hidden'); });
+  ['home','classpage','subjectpage','test','result','install','flashcards','timetable','myresults','guidespage'].forEach(function(id){ var el=document.getElementById(id); if(el) el.classList.add('hidden'); });
   var _mp=document.getElementById('matpage'); if(_mp) _mp.classList.add('hidden');
   if(dest==='home'){ goHome(); }
+  else if(dest==='guides'){ showGuides(); }
   else if(dest==='results'){ showMyResults(); }
   else if(dest==='timetable'){ showTimetable(); }
   else if(dest==='flashcards'){ showFlashcards(); }
   else if(dest==='contact'){ goHome(); setTimeout(function(){ var f=document.querySelector('.sitefooter'); if(f) f.scrollIntoView({behavior:'smooth'}); }, 60); }
   else { showClass(dest); }
+}
+// ---- Guides hub ----
+// A second door to the same guides: Guides -> class -> guide subjects -> the same guide pages.
+// Mirrors the guide-tab conditions in renderSubjectMaterial (study.js), so the hub always lists
+// exactly the subjects that have a guide. The Computer Science branch picks up the midnight
+// CS guides automatically once STUDY[cls].csExsolutions exists.
+function hasGuideFor(cls, s){
+  try{
+    if(typeof STUDY==='undefined') return false;
+    var st=STUDY[cls]; if(!st) return false;
+    if(s==='English') return !!st.exsolutions;
+    if((s||'').indexOf('Mathematics')===0) return !!st.mathsolutions;
+    if((s||'').indexOf('Sindhi')===0) return !!st.sindhiExsolutions;
+    if(s==='Asan Urdu'||s==='Urdu Salees') return !!st.urduExsolutions;
+    if((s||'').indexOf('Science')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.sciExsolutions;
+    if((s||'').indexOf('Islamiat')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.islExsolutions;
+    if((s||'').indexOf('Pakistan Studies')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.pakExsolutions;
+    if((s||'').indexOf('Chemistry')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.chemExsolutions;
+    if((s||'').indexOf('Physics')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.phyExsolutions;
+    if((s||'').indexOf('Biology')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.bioExsolutions;
+    if((s||'').indexOf('Social Studies')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.socExsolutions;
+    if((s||'').indexOf('Computer Science')===0 && (s||'').indexOf('English')>=0) return !!st.csExsolutions;
+    return false;
+  }catch(e){ return false; }
+}
+function guideSubjectsFor(cls){
+  return (CLASS_SUBJECTS[cls]||[]).filter(function(s){ return hasGuideFor(cls, s); });
+}
+function guideCardHtml(cls, s){
+  var sd=SUBJ_SD[subjBase(s)]||'';
+  return '<button class="subjcard" onclick="openGuide(\''+cls+'\',\''+s+'\')"><span class="subjicon-tile '+subjTint(s)+'">'+subjIcon(s)+'</span><span class="subjname">'+s+'</span>'+(sd?'<span class="subjsd">'+sd+'</span>':'')+'<span class="subjmeta">GUIDE</span></button>';
+}
+function hideAllSections(){
+  ['home','classpage','subjectpage','test','result','install','flashcards','timetable','myresults','guidespage'].forEach(function(id){ var el=document.getElementById(id); if(el) el.classList.add('hidden'); });
+  var _mp=document.getElementById('matpage'); if(_mp) _mp.classList.add('hidden');
+}
+function showGuides(){
+  hideAllSections();
+  document.getElementById('guidestitle').textContent='Guides';
+  var _chips=[['vi','VI','Std. 6'],['vii','VII','Std. 7'],['viii','VIII','Std. 8'],['ix','IX','Std. 9'],['x','X','Std. 10']];
+  document.getElementById('guidesbody').innerHTML='<div class="chiprow">'+_chips.map(function(c){ return '<button class="classchip" onclick="showGuidesClass(\''+c[0]+'\')">'+c[1]+'<small>'+c[2]+'</small></button>'; }).join('')+'</div>';
+  document.getElementById('guidespage').classList.remove('hidden');
+  window.scrollTo(0, 0);
+  navPush({view:'guides'});
+}
+function showGuidesClass(cls){
+  hideAllSections();
+  var _cn=uiLang==='sd' ? CLASS_NAMES_SD[cls] : CLASS_NAMES[cls];
+  document.getElementById('guidestitle').textContent=_cn+' \u2014 Guides';
+  var list=guideSubjectsFor(cls);
+  var h='<div class="subjgrid">'+list.map(function(s){ return guideCardHtml(cls, s); }).join('')+'</div>';
+  h+='<p class="note">'+list.length+' guides for '+_cn+'.</p>';
+  h+='<button class="homebtn" onclick="showGuides()">Back to Classes</button>';
+  document.getElementById('guidesbody').innerHTML=h;
+  document.getElementById('guidespage').classList.remove('hidden');
+  window.scrollTo(0, 0);
+  navPush({view:'guidesclass', cls:cls});
+}
+// Open a guide from the hub: the exact same guide page as the subject page's Guide button.
+function openGuide(cls, subj){
+  var gp=document.getElementById('guidespage'); if(gp) gp.classList.add('hidden');
+  currentClass=cls; currentSubject=subj;
+  openMatPage('exsolutions', cls, subj);
 }
 window.addEventListener('keydown', function(e){ if(e.key==='Escape') closeMenu(); });
 function calcAppend(v){ var d=document.getElementById('calcDisplay'); if(!d) return; if(d.value==='Error') d.value=''; d.value+=v; }
