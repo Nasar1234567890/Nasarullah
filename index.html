@@ -83,6 +83,24 @@ button{font:inherit;cursor:pointer}
 #topbtn{position:fixed;left:16px;bottom:16px;z-index:50;display:none;align-items:center;gap:6px;background:var(--navy);color:#fff;border:0;border-radius:999px;padding:12px 16px;font-size:15px;font-weight:800;box-shadow:0 4px 14px rgba(13,47,74,.35)}
 #topbtn.show{display:flex}
 #topbtn:active{transform:scale(0.97)}
+.menubtn{position:absolute;top:14px;left:14px;z-index:5;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:12px;border:1.5px solid rgba(255,255,255,.55);background:rgba(255,255,255,.12);color:#fff;font-size:22px;font-weight:800}
+.menubtn:active{transform:scale(0.95)}
+#menubackdrop{position:fixed;inset:0;background:rgba(13,47,74,.45);z-index:65;display:none}
+#menubackdrop.open{display:block}
+#menudrawer{position:fixed;top:0;left:0;bottom:0;z-index:70;width:min(320px,85vw);background:#fff;box-shadow:4px 0 30px rgba(0,0,0,.3);transform:translateX(-105%);transition:transform .25s ease;display:flex;flex-direction:column}
+#menudrawer.open{transform:translateX(0)}
+.menudrawer-head{flex-shrink:0;display:flex;align-items:center;gap:10px;background:#0d2f4a;color:#fff;padding:16px}
+.menudrawer-head img{width:36px;height:36px;border-radius:8px;background:rgba(255,255,255,.14);padding:3px;object-fit:contain}
+.menudrawer-head strong{flex:1;font-size:16px;line-height:1.3}
+.menuclose{flex-shrink:0;width:36px;height:36px;border-radius:10px;border:1.5px solid rgba(255,255,255,.55);background:rgba(255,255,255,.12);color:#fff;font-size:18px;font-weight:800}
+.menulinks{overflow-y:auto;padding-block:6px}
+.menulink{display:block;width:100%;text-align:start;background:none;border:0;border-bottom:1px solid var(--line);padding:14px 18px;font-size:17px;font-weight:700;color:var(--navy)}
+.menulink:active{background:#eef2f7}
+.menulink small{display:block;font-size:13px;font-weight:400;color:var(--muted);margin-top:2px}
+body.dark #menudrawer{background:#1E1E1E}
+body.dark .menulink{color:#E0E0E0;border-bottom-color:#333}
+body.dark .menulink:active{background:#2a2a2a}
+body.dark .menulink small{color:#9a9a9a}
 #qtext{font-size:21px;line-height:1.9;min-height:90px}
 .qmain{font-weight:700}
 .qinstr{font-weight:400;font-size:0.85em}
@@ -252,6 +270,7 @@ body.dark .exsyn{color:#93c5fd}
 <body>
 <div id="offlinebanner" style="display:none;background:#b91c1c;color:#fff;text-align:center;padding:8px;font-weight:700">You are offline — results will be sent later once you are back online.</div>
 <header>
+<button class="menubtn" onclick="openMenu()" aria-label="Menu">☰</button>
 <img class="schoollogo" src="school-logo.png" alt="Government Boys Lower Secondary School Haseeja Mahar">
 <h1>GBLSS Haseeja Mahar</h1>
 <p class="hero-full">Government Boys Lower Secondary School Haseeja Mahar</p>
@@ -268,14 +287,13 @@ body.dark .exsyn{color:#93c5fd}
 <p class="note"><label><b data-i18n="nameLabel">Your name:</b> <input id="studentName" type="text" placeholder="Type your full name" style="width:100%;padding:12px;font-size:18px;border:2px solid #0b5563;border-radius:10px;margin-top:6px"></label></p>
 </div>
 <div class="chiprow" id="classChips">
-<button class="classchip sel" data-cls="vi" onclick="selectClassChip('vi')">VI<small>Std. 6</small></button>
-<button class="classchip" data-cls="vii" onclick="selectClassChip('vii')">VII<small>Std. 7</small></button>
-<button class="classchip" data-cls="viii" onclick="selectClassChip('viii')">VIII<small>Std. 8</small></button>
-<button class="classchip" data-cls="ix" onclick="selectClassChip('ix')">IX<small>Std. 9</small></button>
-<button class="classchip" data-cls="x" onclick="selectClassChip('x')">X<small>Std. 10</small></button>
-<button class="classchip" data-cls="gk" onclick="selectClassChip('gk')">GK<small>General Knowledge</small></button>
+<button class="classchip sel" data-cls="vi" onclick="showClass('vi')">VI<small>Std. 6</small></button>
+<button class="classchip" data-cls="vii" onclick="showClass('vii')">VII<small>Std. 7</small></button>
+<button class="classchip" data-cls="viii" onclick="showClass('viii')">VIII<small>Std. 8</small></button>
+<button class="classchip" data-cls="ix" onclick="showClass('ix')">IX<small>Std. 9</small></button>
+<button class="classchip" data-cls="x" onclick="showClass('x')">X<small>Std. 10</small></button>
+<button class="classchip" data-cls="gk" onclick="showClass('gk')">GK<small>General Knowledge</small></button>
 </div>
-<div id="homeSubjects" class="subjgrid"></div>
 <div class="homepanel">
 <h2 data-i18n="homeHeading">Choose your class or section</h2>
 <p class="note" data-i18n="homeNote">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
@@ -454,6 +472,24 @@ body.dark .exsyn{color:#93c5fd}
 </main>
 <div id="firstguide" style="display:none;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.55);z-index:99;align-items:center;justify-content:center"><div style="background:#fff;border-radius:14px;padding:20px;max-width:420px;margin:20px"><h2>Welcome! How to use this site</h2><ol class="note" style="line-height:1.8"><li>Type your name first.</li><li>Tap your class, then a subject, then a test.</li><li>Test mode has a timer and your score is sent to your teacher. Learn mode has no timer and is not recorded.</li><li>Your best score for each test is saved on this phone.</li></ol><button class="homebtn" onclick="dismissFirstGuide()">Got it</button></div></div>
 <button id="topbtn" onclick="scrollToTop()">↑ Top</button>
+<div id="menubackdrop" onclick="closeMenu()"></div>
+<nav id="menudrawer" aria-label="Menu">
+<div class="menudrawer-head"><img src="school-logo.png" alt=""><strong>GBLSS Haseeja Mahar</strong><button class="menuclose" onclick="closeMenu()" aria-label="Close menu">✕</button></div>
+<div class="menulinks">
+<button class="menulink" onclick="menuNav('home')">🏠 Home</button>
+<button class="menulink" onclick="menuNav('vi')">Class VI<small>Std. 6</small></button>
+<button class="menulink" onclick="menuNav('vii')">Class VII<small>Std. 7</small></button>
+<button class="menulink" onclick="menuNav('viii')">Class VIII<small>Std. 8</small></button>
+<button class="menulink" onclick="menuNav('ix')">Class IX<small>Std. 9</small></button>
+<button class="menulink" onclick="menuNav('x')">Class X<small>Std. 10</small></button>
+<button class="menulink" onclick="menuNav('gk')">General Knowledge<small>GK Tests</small></button>
+<button class="menulink" onclick="menuNav('results')">📊 My Results</button>
+<button class="menulink" onclick="menuNav('timetable')">🗓️ Timetable<small>Mid-Term Examination 2026-27</small></button>
+<button class="menulink" onclick="menuNav('flashcards')">🃏 Flashcards</button>
+<button class="menulink" onclick="menuNav('night')">🌙 Night mode</button>
+<button class="menulink" onclick="menuNav('contact')">✉️ Contact<small>memonnasa01@gmail.com · 0316-3475767</small></button>
+</div>
+</nav>
 <script>
 const QUESTIONS = {
  "viii": {
@@ -37676,15 +37712,10 @@ function subjectCardsGridHtml(cls){
   }).map(function(s){ return subjectCardHtml(cls, s); }).join('')+'</div>';
 }
 var homeClass='vi';
-function renderHomeSubjects(){
-  var box=document.getElementById('homeSubjects'); if(!box) return;
-  box.innerHTML=subjectCardsGridHtml(homeClass);
-}
 function selectClassChip(cls){
   homeClass=cls;
   var chips=document.querySelectorAll('#classChips .classchip');
   for(var i=0;i<chips.length;i++){ chips[i].classList.toggle('sel', chips[i].getAttribute('data-cls')===cls); }
-  renderHomeSubjects();
 }
 function toggleNight(){ setNightMode(!document.body.classList.contains('dark')); }
 function showScoreRing(score, total){
@@ -38202,6 +38233,21 @@ function toggleCalc(){ var c=document.getElementById('calcbox'); var b=document.
 function closeCalc(){ var c=document.getElementById('calcbox'); var b=document.getElementById('calcbackdrop'); if(c) c.classList.remove('open'); if(b) b.classList.remove('open'); }
 function scrollToTop(){ window.scrollTo({top:0, behavior:'smooth'}); }
 window.addEventListener('scroll', function(){ var b=document.getElementById('topbtn'); if(!b) return; b.classList.toggle('show', window.scrollY>300); });
+function openMenu(){ var d=document.getElementById('menudrawer'); var b=document.getElementById('menubackdrop'); if(!d) return; d.classList.add('open'); if(b) b.classList.add('open'); }
+function closeMenu(){ var d=document.getElementById('menudrawer'); var b=document.getElementById('menubackdrop'); if(d) d.classList.remove('open'); if(b) b.classList.remove('open'); }
+function menuNav(dest){
+  closeMenu();
+  if(dest==='night'){ toggleNight(); return; }
+  ['home','classpage','subjectpage','test','result','install','flashcards','timetable','myresults'].forEach(function(id){ var el=document.getElementById(id); if(el) el.classList.add('hidden'); });
+  var _mp=document.getElementById('matpage'); if(_mp) _mp.classList.add('hidden');
+  if(dest==='home'){ goHome(); }
+  else if(dest==='results'){ showMyResults(); }
+  else if(dest==='timetable'){ showTimetable(); }
+  else if(dest==='flashcards'){ showFlashcards(); }
+  else if(dest==='contact'){ goHome(); setTimeout(function(){ var f=document.querySelector('.sitefooter'); if(f) f.scrollIntoView({behavior:'smooth'}); }, 60); }
+  else { showClass(dest); }
+}
+window.addEventListener('keydown', function(e){ if(e.key==='Escape') closeMenu(); });
 function calcAppend(v){ var d=document.getElementById('calcDisplay'); if(!d) return; if(d.value==='Error') d.value=''; d.value+=v; }
 function calcClear(){ var d=document.getElementById('calcDisplay'); if(d) d.value=''; }
 function calcBack(){ var d=document.getElementById('calcDisplay'); if(d) d.value=d.value.slice(0,-1); }
@@ -38510,7 +38556,6 @@ applySavedFontSize();
 applySavedNightMode();
 applySavedLang();
 renderQotd();
-renderHomeSubjects();
 renderExamCountdown();
 flushResultQueue();
 refreshPausedButton();
