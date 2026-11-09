@@ -67,11 +67,19 @@ button{font:inherit;cursor:pointer}
 .subjsd{font-size:15px;color:var(--muted);line-height:1.6}
 .subjmeta{font-size:12px;font-weight:800;letter-spacing:.4px;color:var(--primary);margin-block-start:6px}
 .note{font-size:15px;line-height:1.6;color:#333}
-.topbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+.topbar{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;position:sticky;top:0;z-index:20;background:#fff;padding-block:10px}
 #timer{font-size:16px;font-weight:800;color:#fff;background:var(--primary);padding-block:6px;padding-inline:14px;border-radius:999px}
 #timer.warn{color:#fff;background:#b91c1c;padding-block:6px;padding-inline:14px;border-radius:999px}
 #progress{height:10px;background:#e5e7eb;border-radius:6px;margin:12px 0;overflow:hidden}
 #bar{height:100%;width:0;background:var(--primary)}
+#calcbox{position:fixed;left:0;right:0;bottom:0;z-index:60;max-width:520px;margin:0 auto;background:#fff;border-radius:16px 16px 0 0;box-shadow:0 -8px 30px rgba(0,0,0,.28);padding:14px 14px calc(16px + env(safe-area-inset-bottom));transform:translateY(110%);transition:transform .25s ease}
+#calcbox.open{transform:translateY(0)}
+#calcbackdrop{position:fixed;inset:0;background:rgba(13,47,74,.45);z-index:55;display:none}
+#calcbackdrop.open{display:block}
+.calcfab{position:fixed;right:16px;bottom:16px;z-index:50;display:none;align-items:center;gap:8px;background:var(--primary);color:#fff;border:0;border-radius:999px;padding:13px 18px;font-size:16px;font-weight:800;box-shadow:0 4px 14px rgba(13,47,74,.35)}
+.calcfab.show{display:flex}
+.calcfab:active{transform:scale(0.97)}
+#test.hascalc{padding-bottom:84px}
 #qtext{font-size:21px;line-height:1.9;min-height:90px}
 .qmain{font-weight:700}
 .qinstr{font-weight:400;font-size:0.85em}
@@ -165,6 +173,8 @@ body.dark #progress{background:#333}
 body.dark #bar{background:#f59e0b}
 body.dark #timer{background:#0b5563}
 body.dark #timer.warn{background:#b91c1c;color:#fff}
+body.dark .topbar{background:#1E1E1E}
+body.dark #calcbox{background:#1E1E1E}
 body.dark .review{border-color:#333}
 body.dark .palbtn{background:#1E1E1E;color:#E0E0E0;border-color:#444}
 body.dark .palbtn.ans{background:#123a5c;border-color:#f59e0b}
@@ -399,7 +409,10 @@ body.dark .exsyn{color:#93c5fd}
 <div id="palette"></div>
 <button class="modebtn" id="flagbtn" onclick="toggleFlag()">Flag this question</button>
 <button class="modebtn" id="speakbtn" onclick="speakQuestion()">🔊 Read question</button> <button class="modebtn" id="printtestbtn" onclick="printTest()" data-i18n="printTest">Print this test</button>
-<div id="calcbox" style="display:none;margin-top:10px">
+<div id="calcbackdrop" onclick="closeCalc()"></div>
+<button class="calcfab" id="calcfab" onclick="toggleCalc()">🧮 Show Calculator</button>
+<div id="calcbox">
+<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><strong>Calculator</strong><button class="modebtn" onclick="closeCalc()">Close ✕</button></div>
 <input id="calcDisplay" type="text" readonly style="width:100%;padding:10px;font-size:18px;border:2px solid #0b5563;border-radius:10px;text-align:right">
 <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:6px">
 <button class="modebtn" onclick="calcAppend('7')">7</button><button class="modebtn" onclick="calcAppend('8')">8</button><button class="modebtn" onclick="calcAppend('9')">9</button><button class="modebtn" onclick="calcAppend('/')">÷</button>
@@ -38175,9 +38188,14 @@ function startWeakTest(){
 }
 var MATH_KEYS=['viii','ix','x'];
 function updateCalc(){
-  var c=document.getElementById('calcbox'); if(!c) return;
-  c.style.display=(MATH_KEYS.indexOf(testKey)>=0)?'block':'none';
+  var f=document.getElementById('calcfab'); if(!f) return;
+  var show=MATH_KEYS.indexOf(testKey)>=0;
+  f.classList.toggle('show', show);
+  var t=document.getElementById('test'); if(t) t.classList.toggle('hascalc', show);
+  closeCalc();
 }
+function toggleCalc(){ var c=document.getElementById('calcbox'); var b=document.getElementById('calcbackdrop'); if(!c) return; var open=c.classList.toggle('open'); if(b) b.classList.toggle('open', open); }
+function closeCalc(){ var c=document.getElementById('calcbox'); var b=document.getElementById('calcbackdrop'); if(c) c.classList.remove('open'); if(b) b.classList.remove('open'); }
 function calcAppend(v){ var d=document.getElementById('calcDisplay'); if(!d) return; if(d.value==='Error') d.value=''; d.value+=v; }
 function calcClear(){ var d=document.getElementById('calcDisplay'); if(d) d.value=''; }
 function calcBack(){ var d=document.getElementById('calcDisplay'); if(d) d.value=d.value.slice(0,-1); }
