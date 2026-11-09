@@ -134,6 +134,7 @@ body.dark .menulink small{color:#9a9a9a}
 .correct{color:#15803d;font-weight:700}
 .wrong{color:#b91c1c;font-weight:700}
 .modebtn{padding:8px 16px;border:2px solid var(--primary);border-radius:10px;background:#eef6f7;font-size:16px;font-weight:700;color:var(--primary);margin:4px 4px 4px 0}
+.setrow .modebtn{padding:4px 10px;font-size:14px;border-radius:8px;margin:2px 4px 2px 0}
 .modebtn.sel{background:var(--primary);color:#fff}
 .modebtn:active{transform:scale(0.97)}
 #subjectguide{margin:12px 0}
@@ -302,9 +303,9 @@ body.dark .exsyn{color:#93c5fd}
 <div id="calbox" class="note"></div>
 <p class="note" data-i18n="tip">Tip: tap your class, then a subject, then a test. Type your name first — it is sent with your result when you submit.</p>
 <p class="note" dir="rtl" style="text-align:right">پهريان پنهنجو نالو لکو، پوءِ پنهنجو ڪلاس چونڊيو، پوءِ ٽيسٽ چونڊيو ۽ مقرر وقت اندر جواب ڏيو.</p>
-<p class="note"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <button class="modebtn" id="fontXLargeBtn" onclick="setFontSize('xlarge')" data-i18n="xlarge">Extra Large</button></p>
-<p class="note"><span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button></p>
-<p class="note"><span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button> <button class="modebtn" id="langUrBtn" onclick="setLang('ur')">اردو</button></p>
+<p class="note setrow"><span data-i18n="textSize">Text size:</span> <button class="modebtn sel" id="fontNormalBtn" onclick="setFontSize('normal')" data-i18n="normal">Normal</button> <button class="modebtn" id="fontLargeBtn" onclick="setFontSize('large')" data-i18n="large">Large</button> <button class="modebtn" id="fontXLargeBtn" onclick="setFontSize('xlarge')" data-i18n="xlarge">Extra Large</button></p>
+<p class="note setrow"><span data-i18n="nightLabel">Night mode:</span> <button class="modebtn sel" id="nightOffBtn" onclick="setNightMode(false)" data-i18n="nightOff">Off</button> <button class="modebtn" id="nightOnBtn" onclick="setNightMode(true)" data-i18n="nightOn">On</button></p>
+<p class="note setrow"><span data-i18n="langLabel">Language:</span> <button class="modebtn sel" id="langEnBtn" onclick="setLang('en')">English</button> <button class="modebtn" id="langSdBtn" onclick="setLang('sd')">سنڌي</button> <button class="modebtn" id="langUrBtn" onclick="setLang('ur')">اردو</button></p>
 <h2 style="margin-top:18px" data-i18n="qotdHeading">Question of the Day</h2>
 <div id="qotdbox"></div>
 <p class="note"><label><b data-i18n="searchLabel">Search tests:</b> <input id="testSearch" type="text" placeholder="Type a test or topic" oninput="renderSearch()" style="width:100%;padding:12px;font-size:18px;border:2px solid #0b5563;border-radius:10px;margin-top:6px"></label></p>
