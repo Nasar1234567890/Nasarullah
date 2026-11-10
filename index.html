@@ -37958,7 +37958,7 @@ function printTest(){
   if(!hash||hash!==PRINT_PASSWORD_HASH){ alert('Wrong password. Only teachers can print tests.'); return; }
   var w=window.open('', '_blank'); if(!w) return;
   var h='<html><head><meta charset="utf-8"><title>'+escHtml(testInfo().title)+'</title></head><body dir="'+testInfo().dir+'"><h2 style="text-align:center">GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h2><h3 style="text-align:center">'+escHtml(testInfo().title)+'</h3><p>Name: ______________________ &nbsp; Date: ____________</p>';
-  activeQs.forEach(function(q,i){ h+='<p><b>'+(i+1)+'. '+escHtml(q.q)+'</b></p><p>'+q.options.map(function(o,j){ return ' ('+letters[j]+') '+escHtml(o); }).join(' &nbsp; ')+'</p>'; });
+  activeQs.forEach(function(q,i){ h+='<p><b>'+(i+1)+'. '+testMathHtml(q.q)+'</b></p><p>'+q.options.map(function(o,j){ return ' ('+letters[j]+') '+testMathHtml(o); }).join(' &nbsp; ')+'</p>'; });
   h+='</body></html>';
   w.document.write(h); w.document.close(); w.focus(); w.print();
 }
@@ -38004,8 +38004,10 @@ function tick(){
   var _tw=document.getElementById('timewarn'); if(_tw && secondsLeft<=120) _tw.classList.remove('hidden');
   if(secondsLeft<=0){ clearInterval(timerId); submitTest(true); }
 }
-function optHtml(o){ return /[\u0600-\u06FF]/.test(o)?o:'<span class="m">'+o+'</span>'; }
+function testMathHtml(s){ if(s===null||s===undefined) return s; if(typeof supConvert!=='function'||typeof subConvert!=='function'||typeof SUP_OPEN==='undefined') return s; var tags=[]; var h=String(s).replace(/<\/?(?:sup|sub|span)(?:\s[^>]*)?>/g,function(m){ tags.push(m); return '\u0005'+(tags.length-1)+'\u0006'; }); h=subConvert(h); h=supConvert(h); h=h.split(SUP_OPEN).join('<sup>').split(SUP_CLOSE).join('</sup>').split(SUB_OPEN).join('<sub>').split(SUB_CLOSE).join('</sub>'); return h.replace(/\u0005(\d+)\u0006/g,function(m,n){ return tags[+n]; }); }
+function optHtml(o){ o=testMathHtml(o); return /[\u0600-\u06FF]/.test(o)?o:'<span class="m">'+o+'</span>'; }
 function formatQuestion(txt){
+  txt=testMathHtml(txt);
   var m=txt.match(/^(Choose|Fill|Complete|Change|Select|Identify|Write)\b[^:]*: /);
   if(m && m[0].length<70 && txt.length>m[0].length){
     return '<span class="qinstr">'+m[0].slice(0,-1)+'</span> <span class="qmain">'+txt.slice(m[0].length)+'</span>';
@@ -38040,7 +38042,7 @@ function renderPaletteExplain(){
   if(pal){ pal.innerHTML=''; qs.forEach(function(q,i){ var b=document.createElement('button'); b.className='palbtn'+(answers[i]!==null?' ans':'')+(i===idx?' cur':'')+(flagged[i]?' flag':''); b.textContent=(flagged[i]?'\u2691 ':'')+(i+1); b.onclick=(function(j){ return function(){ idx=j; render(); }; })(i); pal.appendChild(b); }); }
   var fb=document.getElementById('flagbtn'); if(fb) fb.textContent=(flagged[idx]?tr('unflag'):tr('flag'));
   var eb=document.getElementById('explainbox');
-  if(eb){ var _expl=null; if(testLearn && answers[idx]!==null && activeQs && activeQs[idx]){ var _aq=activeQs[idx]; if(_aq.explain){ _expl=_aq.explain; } else if(testKey && (testKey.slice(0,4)==='mock' || testKey==='weaktest' || (typeof CHAPTERS!=='undefined' && CHAPTERS[testKey])) && _aq.srcKey && EXPLAIN[_aq.srcKey] && typeof _aq.srcOrig==='number'){ _expl=EXPLAIN[_aq.srcKey][_aq.srcOrig]; } else if(EXPLAIN[testKey] && typeof _aq.orig==='number'){ _expl=EXPLAIN[testKey][_aq.orig]; } } if(_expl){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+_expl; } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
+  if(eb){ var _expl=null; if(testLearn && answers[idx]!==null && activeQs && activeQs[idx]){ var _aq=activeQs[idx]; if(_aq.explain){ _expl=_aq.explain; } else if(testKey && (testKey.slice(0,4)==='mock' || testKey==='weaktest' || (typeof CHAPTERS!=='undefined' && CHAPTERS[testKey])) && _aq.srcKey && EXPLAIN[_aq.srcKey] && typeof _aq.srcOrig==='number'){ _expl=EXPLAIN[_aq.srcKey][_aq.srcOrig]; } else if(EXPLAIN[testKey] && typeof _aq.orig==='number'){ _expl=EXPLAIN[testKey][_aq.orig]; } } if(_expl){ eb.classList.remove('hidden'); eb.innerHTML='<b>Why:</b> '+testMathHtml(_expl); } else { eb.classList.add('hidden'); eb.innerHTML=''; } }
 }
 function toggleFlag(){ if(!testKey||!activeQs) return; flagged[idx]=!flagged[idx]; render(); }
 function move(d){
