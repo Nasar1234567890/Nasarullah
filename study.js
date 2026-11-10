@@ -311801,7 +311801,7 @@ function mathUnitHtml(n){
   });
   html += "</div>";
   (u.exercises || []).forEach(function(g, i){
-    html += "<div class=\"review\" id=\"mx-" + n + "-" + (i + 1) + "\"><div class=\"exhead\"><b>" + escHtml(g.label) + "</b></div>";
+    html += "<div class=\"review\" id=\"mx-" + n + "-" + (i + 1) + "\"><div class=\"exhead mathex\"><b>" + escHtml(g.label) + "</b></div>";
     (g.items || []).forEach(function(it, qi){
       html += "<p class=\"note pro-q\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + tableHtml(mathHtml(it.q)) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note exans pro-a\"><span class=\"exa\">Ans:</span> " + tableHtml(mathHtml(it.a)) + "</p>" + (it.da ? diagramSvg(it.da) : "");
     });
