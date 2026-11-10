@@ -310943,6 +310943,12987 @@ var STUDY = {
         "words": []
       }
     ],
+    "sciExsolutionsEn": [
+      {
+        "unit": 1,
+        "title": "Cellular Organization of Plants and Animals",
+        "display": "Cellular Organization of Plants and Animals",
+        "sections": [
+          {
+            "name": "Circle T for True and F for False statements",
+            "num": "1.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "(a) Waste and useless substances are removed from the body of animals through the nervous system.",
+                    "a": "False — Waste and useless substances are removed from the body of animals through the excretory system, not the nervous system."
+                  },
+                  {
+                    "q": "(b) Hydra is a unicellular animal.",
+                    "a": "False — Hydra is a multicellular animal."
+                  },
+                  {
+                    "q": "(c) The objective lens is used for focusing to see the magnified image of the body.",
+                    "a": "False — The objective lens makes the magnified image of the body; the adjustment knobs are used to focus the microscope."
+                  },
+                  {
+                    "q": "(d) Chromosomes are transferred from parents to their offspring.",
+                    "a": "True — Chromosomes carry the instructions that are transferred from parents to their offspring."
+                  },
+                  {
+                    "q": "(e) A system contains a group of tissues that work together to perform the same kind of work.",
+                    "a": "False — A group of cells of the same kind working together to do the same kind of work is called a tissue; a system is a group of many organs that work together to perform a particular function."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Circle the correct answer",
+            "num": "1.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Which of the following absorbs sunlight? (a) Cellulose (b) Chlorophyll (c) Cytoplasm (d) Cell sap",
+                    "a": "(b) Chlorophyll — Chlorophyll absorbs sunlight and is necessary for photosynthesis."
+                  },
+                  {
+                    "q": "Which row shows the wrong difference between the parts of plant and animal cells? [[T]] |Animal Cell|Plant Cell;;(a)|It has no chloroplast.|It has chloroplast.;;(b)|It has many vacuoles.|It has a very large vacuole.;;(c)|It has a thin layer of cytoplasm.|Its space is filled with cytoplasm.;;(d)|It has only one layer or membrane (Cell membrane).|It has two layers from the outside: a hard outer wall (Cell wall) and inside it a thin membrane (Cell membrane).[[/T]]",
+                    "a": "(c) — This is the wrong difference. In a plant cell, because of the large vacuole, the cytoplasm is a thin layer lying against the outer wall, while in an animal cell the cytoplasm fills the whole cell; in row (c) this is written the other way round."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Give short answers to the following questions",
+            "num": "1.3",
+            "exercises": [
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "(i) Why do scientists use the microscope?",
+                    "a": "Scientists use the microscope because cells and other small things are so tiny that they cannot be seen with the naked eye; with the help of the microscope they can be seen magnified."
+                  },
+                  {
+                    "q": "(ii) Define the following and give examples: (a) Multicellular organisms (b) Organs",
+                    "a": "(a) Multicellular organisms: organisms whose body is made of many cells are called multicellular organisms. Examples: human, fish, eagle, fern, coconut plant and Hydra. (b) Organs: when different tissues work together to perform a particular function, they form an organ. Examples: heart, stomach, liver, lungs, kidneys and brain; in a plant, leaf, roots and flower."
+                  },
+                  {
+                    "q": "(iii) Why are cells called the building blocks or units of life?",
+                    "a": "Cells are called the building blocks or units of life because the body of every living thing is made of cells; the cell is the basic unit and the smallest part of a living thing, and all the functions of life take place inside the cell."
+                  },
+                  {
+                    "q": "(iv) Draw a chart to show the hierarchy from the cell to the organ and the system, such as the order of the digestive system of a human.",
+                    "a": "Order: Cell → Tissue → Organ → System → Organism. In the human digestive system: cells join to form tissues; different tissues join to form organs, such as the mouth, stomach, small intestine, large intestine and liver; these organs join to form the digestive system; and systems join to form the complete human (organism).",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              90,
+                              16
+                            ],
+                            [
+                              250,
+                              16
+                            ],
+                            [
+                              250,
+                              52
+                            ],
+                            [
+                              90,
+                              52
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              90,
+                              64
+                            ],
+                            [
+                              250,
+                              64
+                            ],
+                            [
+                              250,
+                              100
+                            ],
+                            [
+                              90,
+                              100
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              90,
+                              112
+                            ],
+                            [
+                              250,
+                              112
+                            ],
+                            [
+                              250,
+                              148
+                            ],
+                            [
+                              90,
+                              148
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              90,
+                              160
+                            ],
+                            [
+                              250,
+                              160
+                            ],
+                            [
+                              250,
+                              196
+                            ],
+                            [
+                              90,
+                              196
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              90,
+                              208
+                            ],
+                            [
+                              250,
+                              208
+                            ],
+                            [
+                              250,
+                              244
+                            ],
+                            [
+                              90,
+                              244
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 52,
+                          "x2": 170,
+                          "y2": 62
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              170,
+                              64
+                            ],
+                            [
+                              164,
+                              58
+                            ],
+                            [
+                              176,
+                              58
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 100,
+                          "x2": 170,
+                          "y2": 110
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              170,
+                              112
+                            ],
+                            [
+                              164,
+                              106
+                            ],
+                            [
+                              176,
+                              106
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 148,
+                          "x2": 170,
+                          "y2": 158
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              170,
+                              160
+                            ],
+                            [
+                              164,
+                              154
+                            ],
+                            [
+                              176,
+                              154
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 196,
+                          "x2": 170,
+                          "y2": 206
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              170,
+                              208
+                            ],
+                            [
+                              164,
+                              202
+                            ],
+                            [
+                              176,
+                              202
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 31,
+                          "s": "Cell"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 47,
+                          "s": "Digestive cells"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 79,
+                          "s": "Tissue"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 95,
+                          "s": "Digestive tissues"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 127,
+                          "s": "Organ"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 143,
+                          "s": "Mouth, stomach, intestines"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 175,
+                          "s": "System"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 191,
+                          "s": "Digestive system"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 223,
+                          "s": "Organism"
+                        },
+                        {
+                          "t": "text",
+                          "x": 235,
+                          "y": 239,
+                          "s": "Human"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "1.4",
+            "exercises": [
+              {
+                "label": "The Cell and the Microscope",
+                "items": [
+                  {
+                    "q": "What is a cell?",
+                    "a": "The cell is the basic unit and the smallest part of a living thing; the body of every living thing is made of cells."
+                  },
+                  {
+                    "q": "Who first saw a cell, and when?",
+                    "a": "Robert Hooke was the first scientist who observed a cell in the cork of a plant in 1665."
+                  },
+                  {
+                    "q": "Where is the word 'cell' taken from?",
+                    "a": "The word 'cell' is taken from the small cells present in a honeycomb."
+                  },
+                  {
+                    "q": "What things can be seen with the help of a microscope?",
+                    "a": "With the help of a microscope, tiny things that cannot be seen with the naked eye can be seen, such as cells."
+                  },
+                  {
+                    "q": "What does the eyepiece of a microscope do?",
+                    "a": "The eyepiece contains the lens through which the magnified image of an object is seen.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 280,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              140,
+                              52
+                            ],
+                            [
+                              156,
+                              42
+                            ],
+                            [
+                              198,
+                              102
+                            ],
+                            [
+                              186,
+                              112
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              136,
+                              56
+                            ],
+                            [
+                              150,
+                              44
+                            ],
+                            [
+                              158,
+                              50
+                            ],
+                            [
+                              146,
+                              62
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              180,
+                              104
+                            ],
+                            [
+                              200,
+                              104
+                            ],
+                            [
+                              196,
+                              126
+                            ],
+                            [
+                              184,
+                              126
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              186,
+                              126
+                            ],
+                            [
+                              194,
+                              126
+                            ],
+                            [
+                              192,
+                              142
+                            ],
+                            [
+                              188,
+                              142
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              214,
+                              112
+                            ],
+                            [
+                              232,
+                              112
+                            ],
+                            [
+                              232,
+                              228
+                            ],
+                            [
+                              214,
+                              228
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              95,
+                              182
+                            ],
+                            [
+                              216,
+                              182
+                            ],
+                            [
+                              216,
+                              192
+                            ],
+                            [
+                              95,
+                              192
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              140,
+                              174
+                            ],
+                            [
+                              178,
+                              174
+                            ],
+                            [
+                              178,
+                              182
+                            ],
+                            [
+                              140,
+                              182
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              105,
+                              252
+                            ],
+                            [
+                              245,
+                              252
+                            ],
+                            [
+                              236,
+                              230
+                            ],
+                            [
+                              114,
+                              230
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 88,
+                          "cy": 212,
+                          "r": 9
+                        },
+                        {
+                          "t": "line",
+                          "x1": 97,
+                          "y1": 212,
+                          "x2": 214,
+                          "y2": 212
+                        },
+                        {
+                          "t": "text",
+                          "x": 130,
+                          "y": 26,
+                          "s": "Eyepiece"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 128,
+                          "y1": 24,
+                          "x2": 146,
+                          "y2": 52
+                        },
+                        {
+                          "t": "text",
+                          "x": 100,
+                          "y": 118,
+                          "s": "Nosepiece"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 100,
+                          "y1": 116,
+                          "x2": 182,
+                          "y2": 114
+                        },
+                        {
+                          "t": "text",
+                          "x": 120,
+                          "y": 152,
+                          "s": "Objective lens"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 120,
+                          "y1": 150,
+                          "x2": 186,
+                          "y2": 134
+                        },
+                        {
+                          "t": "text",
+                          "x": 92,
+                          "y": 200,
+                          "s": "Stage"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 90,
+                          "y1": 198,
+                          "x2": 96,
+                          "y2": 186
+                        },
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 272,
+                          "s": "Adjustment knobs"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 88,
+                          "y1": 258,
+                          "x2": 88,
+                          "y2": 222
+                        },
+                        {
+                          "t": "text",
+                          "x": 310,
+                          "y": 272,
+                          "s": "Base"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 286,
+                          "y1": 270,
+                          "x2": 242,
+                          "y2": 246
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Where is the objective lens, and what is its function?",
+                    "a": "The objective lens is near the body (object) and makes the magnified image of the body."
+                  },
+                  {
+                    "q": "Which part is used to focus the microscope?",
+                    "a": "The adjustment knobs are used to focus the microscope."
+                  },
+                  {
+                    "q": "What is the function of the base of a microscope?",
+                    "a": "The base helps to keep the microscope standing in one place."
+                  }
+                ]
+              },
+              {
+                "label": "Plant and Animal Cells",
+                "items": [
+                  {
+                    "q": "What are the main parts of an animal cell?",
+                    "a": "Cell membrane, cytoplasm, vacuoles, nucleus and chromosomes."
+                  },
+                  {
+                    "q": "What does the cell membrane do?",
+                    "a": "The cell membrane is semi-permeable; some things can pass through it but others cannot."
+                  },
+                  {
+                    "q": "What is cytoplasm?",
+                    "a": "Cytoplasm is a jelly-like substance in which many chemical substances are present and in which many chemical processes keep taking place."
+                  },
+                  {
+                    "q": "Which function of the cell does the nucleus control?",
+                    "a": "The nucleus controls all the chemical processes that take place inside the cell."
+                  },
+                  {
+                    "q": "Where are chromosomes found, and what is their function?",
+                    "a": "Chromosomes are present in the nucleus; they carry the instructions that are transferred from parents to their offspring."
+                  },
+                  {
+                    "q": "What are the three parts of a plant cell that are not present in an animal cell?",
+                    "a": "Chloroplast, large vacuole and the outer wall of the cell (Cell Wall).",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              90,
+                              35
+                            ],
+                            [
+                              250,
+                              35
+                            ],
+                            [
+                              250,
+                              225
+                            ],
+                            [
+                              90,
+                              225
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              98,
+                              43
+                            ],
+                            [
+                              242,
+                              43
+                            ],
+                            [
+                              242,
+                              217
+                            ],
+                            [
+                              98,
+                              217
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 170,
+                          "cy": 72,
+                          "r": 14
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 170,
+                          "cy": 72,
+                          "r": 4
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              225,
+                              155
+                            ],
+                            [
+                              218,
+                              176
+                            ],
+                            [
+                              197,
+                              191
+                            ],
+                            [
+                              170,
+                              197
+                            ],
+                            [
+                              143,
+                              191
+                            ],
+                            [
+                              122,
+                              176
+                            ],
+                            [
+                              115,
+                              155
+                            ],
+                            [
+                              122,
+                              134
+                            ],
+                            [
+                              143,
+                              119
+                            ],
+                            [
+                              170,
+                              113
+                            ],
+                            [
+                              197,
+                              119
+                            ],
+                            [
+                              218,
+                              134
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              110,
+                              82
+                            ],
+                            [
+                              114,
+                              75
+                            ],
+                            [
+                              126,
+                              75
+                            ],
+                            [
+                              130,
+                              82
+                            ],
+                            [
+                              126,
+                              89
+                            ],
+                            [
+                              114,
+                              89
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 113,
+                          "y1": 82,
+                          "x2": 127,
+                          "y2": 82
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              205,
+                              82
+                            ],
+                            [
+                              209,
+                              75
+                            ],
+                            [
+                              221,
+                              75
+                            ],
+                            [
+                              225,
+                              82
+                            ],
+                            [
+                              221,
+                              89
+                            ],
+                            [
+                              209,
+                              89
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 208,
+                          "y1": 82,
+                          "x2": 222,
+                          "y2": 82
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              205,
+                              207
+                            ],
+                            [
+                              209,
+                              200
+                            ],
+                            [
+                              221,
+                              200
+                            ],
+                            [
+                              225,
+                              207
+                            ],
+                            [
+                              221,
+                              214
+                            ],
+                            [
+                              209,
+                              214
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 208,
+                          "y1": 207,
+                          "x2": 222,
+                          "y2": 207
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              112,
+                              207
+                            ],
+                            [
+                              116,
+                              200
+                            ],
+                            [
+                              126,
+                              202
+                            ],
+                            [
+                              128,
+                              210
+                            ],
+                            [
+                              120,
+                              214
+                            ],
+                            [
+                              113,
+                              212
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              228,
+                              113
+                            ],
+                            [
+                              236,
+                              113
+                            ],
+                            [
+                              238,
+                              127
+                            ],
+                            [
+                              230,
+                              129
+                            ],
+                            [
+                              226,
+                              120
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 96,
+                          "y": 55,
+                          "s": "Cell wall"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 96,
+                          "y1": 53,
+                          "x2": 90,
+                          "y2": 45
+                        },
+                        {
+                          "t": "text",
+                          "x": 96,
+                          "y": 100,
+                          "s": "Chloroplast"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 96,
+                          "y1": 98,
+                          "x2": 112,
+                          "y2": 88
+                        },
+                        {
+                          "t": "text",
+                          "x": 96,
+                          "y": 155,
+                          "s": "Large vacuole"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 96,
+                          "y1": 153,
+                          "x2": 116,
+                          "y2": 155
+                        },
+                        {
+                          "t": "text",
+                          "x": 96,
+                          "y": 210,
+                          "s": "Cell membrane"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 96,
+                          "y1": 208,
+                          "x2": 98,
+                          "y2": 210
+                        },
+                        {
+                          "t": "text",
+                          "x": 305,
+                          "y": 55,
+                          "s": "Nucleus"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 275,
+                          "y1": 53,
+                          "x2": 180,
+                          "y2": 64
+                        },
+                        {
+                          "t": "text",
+                          "x": 120,
+                          "y": 250,
+                          "s": "Mitochondria"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 115,
+                          "y1": 246,
+                          "x2": 121,
+                          "y2": 212
+                        },
+                        {
+                          "t": "text",
+                          "x": 249,
+                          "y": 250,
+                          "s": "Cytoplasm"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 248,
+                          "x2": 168,
+                          "y2": 210
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Why is the colour of the chloroplast green?",
+                    "a": "The chloroplast contains chlorophyll, which is why its colour is green; chlorophyll absorbs sunlight and helps in photosynthesis."
+                  },
+                  {
+                    "q": "What is the outer wall (Cell Wall) of a plant cell made of, and what is its function?",
+                    "a": "The outer wall is made of cellulose; it is porous and gives the cell a fixed shape and support."
+                  }
+                ]
+              },
+              {
+                "label": "Tissues, Organs and Systems",
+                "items": [
+                  {
+                    "q": "What is a unicellular organism? Give examples.",
+                    "a": "An organism whose body is made of only one cell is called a unicellular organism. Examples: Amoeba, Paramecium, Euglena and Chlamydomonas."
+                  },
+                  {
+                    "q": "Where do unicellular organisms mostly live?",
+                    "a": "Unicellular organisms mostly live in water, such as in lakes, ponds, rivers and seas."
+                  },
+                  {
+                    "q": "What is a tissue?",
+                    "a": "When cells of the same kind join together to perform the same kind of work, they are called a tissue."
+                  },
+                  {
+                    "q": "Give two examples of animal tissues and state their functions.",
+                    "a": "Epithelial tissue protects the structure under the skin; muscle tissue produces movement in the body of the animal."
+                  },
+                  {
+                    "q": "What is an organ?",
+                    "a": "When different tissues work together to perform a particular function, they form an organ."
+                  },
+                  {
+                    "q": "Name the five systems of the human body.",
+                    "a": "Digestive system, respiratory system, circulatory system, nervous system and excretory system."
+                  },
+                  {
+                    "q": "What are the two main systems of a plant, and what are their functions?",
+                    "a": "The root system and the shoot system. The root system absorbs water and dissolved minerals from the soil; the shoot system contains the leaves, stems or branches, flowers and fruits, and its different parts carry water, minerals and food."
+                  },
+                  {
+                    "q": "State the order from the cell to the organism.",
+                    "a": "Cell → Tissue → Organ → System → Organism."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Cell",
+            "sd": "جاندار شيءِ جو بنيادي ايڪو",
+            "syn": "the basic unit of a living thing"
+          },
+          {
+            "w": "Microscope",
+            "sd": "باريک شيون ڏسڻ وارو اوزار",
+            "syn": "an instrument for seeing tiny things"
+          },
+          {
+            "w": "Nucleus",
+            "sd": "گھرڙي جي ڪمن کي ضابطي ۾ رکندڙ حصو",
+            "syn": "the part that controls the functions of the cell"
+          },
+          {
+            "w": "Chromosomes",
+            "sd": "مرڪز ۾ موجود وراثتي اشارا",
+            "syn": "the hereditary instructions present in the nucleus"
+          },
+          {
+            "w": "Cytoplasm",
+            "sd": "گھرڙي جي اندر جيليءَ جهڙو مادو",
+            "syn": "the jelly-like substance inside the cell"
+          },
+          {
+            "w": "Vacuole",
+            "sd": "گھرڙي جي اندر خالي جاءِ",
+            "syn": "the empty space inside the cell"
+          },
+          {
+            "w": "Chloroplast",
+            "sd": "سائي رنگ وارو حصو جنهن ۾ ڪلوروفل هوندو آهي",
+            "syn": "the green part that contains chlorophyll"
+          },
+          {
+            "w": "Chlorophyll",
+            "sd": "سج جي روشنيءَ کي جذب ڪندڙ سائو مادو",
+            "syn": "the green substance that absorbs sunlight"
+          },
+          {
+            "w": "Cellulose",
+            "sd": "ٻاهرين پردي کي ٺاهيندڙ سخت مادو",
+            "syn": "the hard substance that makes the outer wall"
+          },
+          {
+            "w": "Cell Membrane",
+            "sd": "گھرڙي جي چوڌاري نيم سوراخدار پردو",
+            "syn": "the semi-permeable membrane around the cell"
+          },
+          {
+            "w": "Cell Wall",
+            "sd": "ٻوٽي جي گھرڙي جو سخت ٻاهريون تهه",
+            "syn": "the hard outer layer of the plant cell"
+          },
+          {
+            "w": "Photosynthesis",
+            "sd": "سج جي روشنيءَ سان خوراڪ تيار ڪرڻ جو عمل",
+            "syn": "the process of making food with sunlight"
+          },
+          {
+            "w": "Tissue",
+            "sd": "هڪ ئي قسم جي گھرڙن جو گروهه",
+            "syn": "a group of cells of the same kind"
+          },
+          {
+            "w": "Organ",
+            "sd": "مختلف اوجن مان ٺهيل جسم جو حصو",
+            "syn": "a part of the body made of different tissues"
+          },
+          {
+            "w": "System",
+            "sd": "گڏجي ڪم ڪندڙ عضون جو گروهه",
+            "syn": "a group of organs working together"
+          },
+          {
+            "w": "Unicellular Organism",
+            "sd": "فقط هڪ گھرڙي مان ٺهيل جاندار",
+            "syn": "an organism made of only one cell"
+          },
+          {
+            "w": "Multicellular Organism",
+            "sd": "ڪيترن ئي گھرڙن مان ٺهيل جاندار",
+            "syn": "an organism made of many cells"
+          },
+          {
+            "w": "Nervous System",
+            "sd": "دماغ ۽ تنتن وارو سرشتو",
+            "syn": "the system of the brain and nerves"
+          }
+        ]
+      },
+      {
+        "unit": 2,
+        "title": "Sense Organs",
+        "display": "Sense Organs",
+        "sections": [
+          {
+            "name": "Fill in the blanks",
+            "num": "2.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "The ability of living things to detect any stimulus is called ____________.",
+                    "a": "Sense."
+                  },
+                  {
+                    "q": "Cells that sense a particular kind of stimulus are called ____________.",
+                    "a": "Receptors."
+                  },
+                  {
+                    "q": "A change felt in the environment of an organism is called ____________.",
+                    "a": "Stimulus."
+                  },
+                  {
+                    "q": "The tongue of a human can sense four kinds of tastes: ____________, ____________, ____________ and ____________.",
+                    "a": "Salty, sweet, sour and bitter."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "State whether the following statements are true or false",
+            "num": "2.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Taste receptors are present in the upper part of the mouth besides the tongue.",
+                    "a": "True — Taste receptors are also present in the upper parts inside the mouth."
+                  },
+                  {
+                    "q": "Light-sensitive receptors are present in the cornea of the eye.",
+                    "a": "False — Light-sensitive receptors (Photo receptors) are present on the retina, not on the cornea."
+                  },
+                  {
+                    "q": "The part of the brain in which smell is sensed is called the olfactory bulb.",
+                    "a": "True — The olfactory bulb is a part of the brain that keeps receiving electrical signals from the smell receptors."
+                  },
+                  {
+                    "q": "The eye is the sense of seeing (sight) and maintaining balance.",
+                    "a": "False — The eye is only the sense of seeing; maintaining balance is the function of the semicircular canals in the inner ear."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "The following stimuli are given",
+            "num": "2.3",
+            "exercises": [
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "The following stimuli are given: a pin prick, a hot blast of air, your teacher's voice, the fragrance of perfume, shaking hands. (a) Which of the above stimuli is a pain stimulus? And which sense organ can detect or sense it?",
+                    "a": "A pin prick is a pain stimulus; the skin senses it."
+                  },
+                  {
+                    "q": "(b) Which of the above stimuli is a temperature stimulus? And which sense senses it?",
+                    "a": "A hot blast of air is a temperature stimulus; the skin senses it."
+                  },
+                  {
+                    "q": "(c) Which of the above stimuli is a smell stimulus? And which sense or organ senses it?",
+                    "a": "The fragrance of perfume is a smell stimulus; the nose senses it."
+                  },
+                  {
+                    "q": "(d) Which of the above stimuli is a sound stimulus? And which sense or organ senses it?",
+                    "a": "Your teacher's voice is a sound stimulus; the ear senses it."
+                  },
+                  {
+                    "q": "(e) Which of the above stimuli is a touch stimulus? And which sense or organ senses it?",
+                    "a": "Shaking hands is a touch stimulus; the skin senses it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Flow chart and diagram",
+            "num": "2.4",
+            "exercises": [
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "(a) Draw a flow chart and explain clearly the stages through which a sound stimulus passes in reaching the brain from the air?",
+                    "a": "Outer ear or pinna → Ear canal → Ear drum → Malleus → Incus → Stapes → Cochlea → Fine hair-like structures of the cochlea → Brain (electrical signals).",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 330,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              12
+                            ],
+                            [
+                              285,
+                              12
+                            ],
+                            [
+                              285,
+                              34
+                            ],
+                            [
+                              55,
+                              34
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 182,
+                          "y": 28,
+                          "s": "Pinna"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 34,
+                          "x2": 170,
+                          "y2": 44
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              38
+                            ],
+                            [
+                              174,
+                              38
+                            ],
+                            [
+                              170,
+                              44
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              44
+                            ],
+                            [
+                              285,
+                              44
+                            ],
+                            [
+                              285,
+                              66
+                            ],
+                            [
+                              55,
+                              66
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 206,
+                          "y": 60,
+                          "s": "Ear canal"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 66,
+                          "x2": 170,
+                          "y2": 76
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              70
+                            ],
+                            [
+                              174,
+                              70
+                            ],
+                            [
+                              170,
+                              76
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              76
+                            ],
+                            [
+                              285,
+                              76
+                            ],
+                            [
+                              285,
+                              98
+                            ],
+                            [
+                              55,
+                              98
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 209,
+                          "y": 92,
+                          "s": "Ear drum"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 98,
+                          "x2": 170,
+                          "y2": 108
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              102
+                            ],
+                            [
+                              174,
+                              102
+                            ],
+                            [
+                              170,
+                              108
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              108
+                            ],
+                            [
+                              285,
+                              108
+                            ],
+                            [
+                              285,
+                              130
+                            ],
+                            [
+                              55,
+                              130
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 188,
+                          "y": 124,
+                          "s": "Malleus"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 130,
+                          "x2": 170,
+                          "y2": 140
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              134
+                            ],
+                            [
+                              174,
+                              134
+                            ],
+                            [
+                              170,
+                              140
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              140
+                            ],
+                            [
+                              285,
+                              140
+                            ],
+                            [
+                              285,
+                              162
+                            ],
+                            [
+                              55,
+                              162
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 182,
+                          "y": 156,
+                          "s": "Incus"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 162,
+                          "x2": 170,
+                          "y2": 172
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              166
+                            ],
+                            [
+                              174,
+                              166
+                            ],
+                            [
+                              170,
+                              172
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              172
+                            ],
+                            [
+                              285,
+                              172
+                            ],
+                            [
+                              285,
+                              194
+                            ],
+                            [
+                              55,
+                              194
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 188,
+                          "y": 188,
+                          "s": "Stapes"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 194,
+                          "x2": 170,
+                          "y2": 204
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              198
+                            ],
+                            [
+                              174,
+                              198
+                            ],
+                            [
+                              170,
+                              204
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              204
+                            ],
+                            [
+                              285,
+                              204
+                            ],
+                            [
+                              285,
+                              226
+                            ],
+                            [
+                              55,
+                              226
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 188,
+                          "y": 220,
+                          "s": "Cochlea"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 226,
+                          "x2": 170,
+                          "y2": 236
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              230
+                            ],
+                            [
+                              174,
+                              230
+                            ],
+                            [
+                              170,
+                              236
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              236
+                            ],
+                            [
+                              285,
+                              236
+                            ],
+                            [
+                              285,
+                              258
+                            ],
+                            [
+                              55,
+                              258
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 215,
+                          "y": 252,
+                          "s": "Fine hair-like structures"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 258,
+                          "x2": 170,
+                          "y2": 268
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              262
+                            ],
+                            [
+                              174,
+                              262
+                            ],
+                            [
+                              170,
+                              268
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              268
+                            ],
+                            [
+                              285,
+                              268
+                            ],
+                            [
+                              285,
+                              290
+                            ],
+                            [
+                              55,
+                              290
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 182,
+                          "y": 284,
+                          "s": "Brain"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 290,
+                          "x2": 170,
+                          "y2": 300
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              166,
+                              294
+                            ],
+                            [
+                              174,
+                              294
+                            ],
+                            [
+                              170,
+                              300
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              300
+                            ],
+                            [
+                              285,
+                              300
+                            ],
+                            [
+                              285,
+                              322
+                            ],
+                            [
+                              55,
+                              322
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 316,
+                          "s": "Electrical signals"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "(b) Draw a neat diagram of the human ear and label its different parts.",
+                    "a": "The diagram should show these parts with their names: outer ear (pinna), ear canal, ear drum, malleus, incus, stapes, cochlea, cochlear nerve and semicircular canals. The sound wave first enters the outer ear and finally reaches the brain through the cochlear nerve.",
+                    "da": {
+                      "type": "draw",
+                      "w": 400,
+                      "h": 300,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              42,
+                              66
+                            ],
+                            [
+                              32,
+                              92
+                            ],
+                            [
+                              36,
+                              128
+                            ],
+                            [
+                              50,
+                              158
+                            ],
+                            [
+                              68,
+                              170
+                            ],
+                            [
+                              80,
+                              162
+                            ],
+                            [
+                              74,
+                              142
+                            ],
+                            [
+                              60,
+                              134
+                            ],
+                            [
+                              54,
+                              112
+                            ],
+                            [
+                              58,
+                              88
+                            ],
+                            [
+                              68,
+                              72
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 54,
+                          "y1": 84,
+                          "x2": 48,
+                          "y2": 106
+                        },
+                        {
+                          "t": "line",
+                          "x1": 48,
+                          "y1": 106,
+                          "x2": 52,
+                          "y2": 130
+                        },
+                        {
+                          "t": "line",
+                          "x1": 52,
+                          "y1": 130,
+                          "x2": 64,
+                          "y2": 148
+                        },
+                        {
+                          "t": "line",
+                          "x1": 74,
+                          "y1": 100,
+                          "x2": 170,
+                          "y2": 100
+                        },
+                        {
+                          "t": "line",
+                          "x1": 74,
+                          "y1": 132,
+                          "x2": 170,
+                          "y2": 132
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 98,
+                          "x2": 178,
+                          "y2": 134
+                        },
+                        {
+                          "t": "line",
+                          "x1": 177,
+                          "y1": 110,
+                          "x2": 188,
+                          "y2": 108
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 194,
+                          "cy": 106,
+                          "r": 6
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 210,
+                          "cy": 113,
+                          "r": 6
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 226,
+                          "cy": 120,
+                          "r": 6
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 109,
+                          "x2": 204,
+                          "y2": 111
+                        },
+                        {
+                          "t": "line",
+                          "x1": 216,
+                          "y1": 116,
+                          "x2": 220,
+                          "y2": 118
+                        },
+                        {
+                          "t": "line",
+                          "x1": 232,
+                          "y1": 122,
+                          "x2": 261,
+                          "y2": 140
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 282,
+                          "cy": 152,
+                          "r": 24
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 282,
+                          "cy": 152,
+                          "r": 12,
+                          "a1": 20,
+                          "a2": 300
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 262,
+                          "cy": 120,
+                          "r": 15,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 282,
+                          "cy": 112,
+                          "r": 13,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 300,
+                          "cy": 120,
+                          "r": 12,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              276,
+                              172
+                            ],
+                            [
+                              288,
+                              176
+                            ],
+                            [
+                              300,
+                              232
+                            ],
+                            [
+                              290,
+                              236
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 70,
+                          "y": 26,
+                          "s": "Pinna"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 66,
+                          "y1": 30,
+                          "x2": 42,
+                          "y2": 66
+                        },
+                        {
+                          "t": "text",
+                          "x": 240,
+                          "y": 52,
+                          "s": "Semicircular canals"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 240,
+                          "y1": 56,
+                          "x2": 262,
+                          "y2": 105
+                        },
+                        {
+                          "t": "text",
+                          "x": 205,
+                          "y": 78,
+                          "s": "Ear drum"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 82,
+                          "x2": 170,
+                          "y2": 98
+                        },
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 178,
+                          "s": "Ear canal"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 145,
+                          "y1": 174,
+                          "x2": 125,
+                          "y2": 132
+                        },
+                        {
+                          "t": "text",
+                          "x": 330,
+                          "y": 165,
+                          "s": "Cochlea"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 290,
+                          "y1": 162,
+                          "x2": 299,
+                          "y2": 135
+                        },
+                        {
+                          "t": "text",
+                          "x": 295,
+                          "y": 292,
+                          "s": "Cochlear nerve"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 292,
+                          "y1": 288,
+                          "x2": 293,
+                          "y2": 235
+                        },
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 268,
+                          "s": "Malleus"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 148,
+                          "y1": 264,
+                          "x2": 194,
+                          "y2": 112
+                        },
+                        {
+                          "t": "text",
+                          "x": 215,
+                          "y": 268,
+                          "s": "Incus"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 212,
+                          "y1": 264,
+                          "x2": 210,
+                          "y2": 119
+                        },
+                        {
+                          "t": "text",
+                          "x": 280,
+                          "y": 268,
+                          "s": "Stapes"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 278,
+                          "y1": 264,
+                          "x2": 226,
+                          "y2": 126
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "To which sense organ do the following structures belong?",
+            "num": "2.5",
+            "exercises": [
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "To which organ does the cochlea belong?",
+                    "a": "The cochlea belongs to the ear (inner ear)."
+                  },
+                  {
+                    "q": "To which organ does the retina belong?",
+                    "a": "The retina belongs to the eye; it is the nervous layer of the eye."
+                  },
+                  {
+                    "q": "To which organ does the lens belong?",
+                    "a": "The lens belongs to the eye; it lies behind the pupil."
+                  },
+                  {
+                    "q": "To which organ does the malleus belong?",
+                    "a": "The malleus belongs to the ear (middle ear); it is one of the three small bones of the middle ear."
+                  },
+                  {
+                    "q": "To which organ does smelling or smell belong?",
+                    "a": "Smelling or smell belongs to the nose; the nose is the sense of smelling."
+                  },
+                  {
+                    "q": "To which organ does the tactile corpuscle belong?",
+                    "a": "The tactile corpuscle belongs to the skin; it is the structure in the skin that senses touch."
+                  },
+                  {
+                    "q": "To which organ does the dermis belong?",
+                    "a": "The dermis belongs to the skin; it is the middle layer of the skin."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "In which part of the body are the following structures found, and what are their functions?",
+            "num": "2.6",
+            "exercises": [
+              {
+                "label": "6",
+                "items": [
+                  {
+                    "q": "In which part of the body is the pinna found, and what is its function?",
+                    "a": "The pinna is found in the outer ear; its function is to collect sound waves and send them towards the ear canal."
+                  },
+                  {
+                    "q": "In which part of the body is the lens found, and what is its function?",
+                    "a": "The lens is found in the eye; its function is to bend light and focus it on one point to form an image on the retina."
+                  },
+                  {
+                    "q": "In which part of the body is the ear drum found, and what is its function?",
+                    "a": "The ear drum is found in the middle ear; when sound waves strike it, vibration is produced in it, which reaches the three small bones."
+                  },
+                  {
+                    "q": "In which part of the body are the smell receptors found, and what is their function?",
+                    "a": "The smell receptors are found in the upper part inside the nose (in the inner cavity of the nose); their function is to sense the smell molecules."
+                  },
+                  {
+                    "q": "In which part of the body are the taste buds found, and what is their function?",
+                    "a": "The taste buds are found on the tongue; their function is to sense taste from the chemical substances present in food."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Answer the following questions",
+            "num": "2.7",
+            "exercises": [
+              {
+                "label": "7",
+                "items": [
+                  {
+                    "q": "Tell in your own words how any sense organ of the body works.",
+                    "a": "Every sense organ works in this way: first a stimulus reaches the organ, the special receptors present in the organ sense the stimulus, the receptors change the stimulus into electrical signals, these electrical signals reach the brain through the nerve, and the brain understands these signals and makes their correct interpretation and image, so that we can sense that thing. For example, in the eye: light passes through the cornea and the lens and forms an image on the retina, the receptors of the retina change the light into electrical signals, the optic nerve carries these signals to the brain, and the brain turns them into seeing."
+                  }
+                ]
+              },
+              {
+                "label": "8",
+                "items": [
+                  {
+                    "q": "Write about the structure of the human eye and its function, showing that it is also a kind of sense.",
+                    "a": "The eye is the sense organ or sense of seeing, because it contains light-sensitive receptors. Structure and function of the eye: the cornea is the clear front part of the eye which bends light and sends it inside the eye; the iris is the coloured part of the eye and in its middle is the central hole (Pupil) through which light passes and enters the eye; the lens bends light and focuses it on one point to form an image on the retina; on the retina are light-sensitive receptors (Photo receptors) which change light into electrical signals; the optic nerve carries these electrical signals to the brain, where their correct interpretation and image are formed. In this way the eye senses the light stimulus, so it is a kind of sense.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 175,
+                          "cy": 125,
+                          "r": 70
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              105,
+                              109
+                            ],
+                            [
+                              97,
+                              117
+                            ],
+                            [
+                              95,
+                              125
+                            ],
+                            [
+                              97,
+                              133
+                            ],
+                            [
+                              105,
+                              141
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 120,
+                          "cy": 125,
+                          "r": 13
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 116,
+                          "cy": 125,
+                          "r": 5
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              134,
+                              104
+                            ],
+                            [
+                              146,
+                              125
+                            ],
+                            [
+                              134,
+                              146
+                            ],
+                            [
+                              124,
+                              125
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 175,
+                          "cy": 125,
+                          "r": 58,
+                          "a1": -55,
+                          "a2": 55
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              240,
+                              112
+                            ],
+                            [
+                              292,
+                              100
+                            ],
+                            [
+                              292,
+                              150
+                            ],
+                            [
+                              240,
+                              138
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 15,
+                          "y1": 100,
+                          "x2": 135,
+                          "y2": 113
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 113,
+                          "x2": 230,
+                          "y2": 125
+                        },
+                        {
+                          "t": "line",
+                          "x1": 15,
+                          "y1": 125,
+                          "x2": 230,
+                          "y2": 125
+                        },
+                        {
+                          "t": "line",
+                          "x1": 15,
+                          "y1": 150,
+                          "x2": 135,
+                          "y2": 137
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 137,
+                          "x2": 230,
+                          "y2": 125
+                        },
+                        {
+                          "t": "point",
+                          "x": 230,
+                          "y": 125,
+                          "label": ""
+                        },
+                        {
+                          "t": "text",
+                          "x": 85,
+                          "y": 45,
+                          "s": "Cornea"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 85,
+                          "y1": 49,
+                          "x2": 97,
+                          "y2": 117
+                        },
+                        {
+                          "t": "text",
+                          "x": 170,
+                          "y": 30,
+                          "s": "Lens"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 168,
+                          "y1": 34,
+                          "x2": 134,
+                          "y2": 104
+                        },
+                        {
+                          "t": "text",
+                          "x": 275,
+                          "y": 45,
+                          "s": "Retina"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 222,
+                          "y1": 48,
+                          "x2": 219,
+                          "y2": 88
+                        },
+                        {
+                          "t": "text",
+                          "x": 80,
+                          "y": 215,
+                          "s": "Iris"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 80,
+                          "y1": 211,
+                          "x2": 111,
+                          "y2": 134
+                        },
+                        {
+                          "t": "text",
+                          "x": 170,
+                          "y": 240,
+                          "s": "Pupil"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 168,
+                          "y1": 236,
+                          "x2": 116,
+                          "y2": 130
+                        },
+                        {
+                          "t": "text",
+                          "x": 249,
+                          "y": 215,
+                          "s": "Optic nerve"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 249,
+                          "y1": 211,
+                          "x2": 281,
+                          "y2": 147
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "2.8",
+            "exercises": [
+              {
+                "label": "The Eye and Seeing",
+                "items": [
+                  {
+                    "q": "Which stimulus does the eye sense?",
+                    "a": "The eye senses light (Light Stimulus)."
+                  },
+                  {
+                    "q": "What is the cornea, and what is its function?",
+                    "a": "The cornea is the clear front part of the eye; its function is to bend light and send it inside the eye."
+                  },
+                  {
+                    "q": "What are the iris and the pupil?",
+                    "a": "The iris is the coloured part of the eye; in its middle is a hole through which light passes and enters the eye, which is called the pupil."
+                  },
+                  {
+                    "q": "What is the function of the lens?",
+                    "a": "The function of the lens is to bend light and focus it on one point, so that an image is formed on the retina; this process is called focusing."
+                  },
+                  {
+                    "q": "Which receptors are present on the retina?",
+                    "a": "On the retina are light-sensitive receptors (Photo receptors); the rod-like receptors among them are very sensitive and can sense even very little light."
+                  },
+                  {
+                    "q": "What is the optic nerve, and what is its function?",
+                    "a": "The optic nerve carries the information of seeing from the retina to the brain; it is made of thousands of sensitive nerve cells (Neurons)."
+                  },
+                  {
+                    "q": "When light reaches the retina, what process takes place then?",
+                    "a": "When light reaches the retina, the receptors change it into electrical signals, the optic nerve carries these signals to the brain, and the brain turns these signals into the form of an image."
+                  },
+                  {
+                    "q": "How is a defect of sight corrected?",
+                    "a": "A defect of sight is corrected with the use of spectacles; with contact lenses too, the image of an object can be brought correctly onto the retina; in modern technology, defects of sight can be removed with the use of laser rays."
+                  }
+                ]
+              },
+              {
+                "label": "The Ear and Hearing",
+                "items": [
+                  {
+                    "q": "What are the three parts of the ear?",
+                    "a": "The three parts of the ear are: the outer ear, the middle ear and the inner ear."
+                  },
+                  {
+                    "q": "What is the function of the outer ear (pinna)?",
+                    "a": "The outer ear (pinna) collects sound waves and carries the sound through the ear canal to the middle ear."
+                  },
+                  {
+                    "q": "What is the ear drum?",
+                    "a": "The ear drum is a small membrane in the middle ear; when sound waves strike it, vibration is produced in it."
+                  },
+                  {
+                    "q": "What are the three small bones of the middle ear?",
+                    "a": "The three small bones of the middle ear are: malleus, incus and stapes."
+                  },
+                  {
+                    "q": "What is the cochlea?",
+                    "a": "The cochlea is a special structure in the inner ear; it contains very fine hair-like structures."
+                  },
+                  {
+                    "q": "What is the function of the cochlear nerve?",
+                    "a": "The cochlear nerve carries the information of sound from the cochlea directly to the brain."
+                  },
+                  {
+                    "q": "How does the ear work?",
+                    "a": "The vibration of the ear drum produces vibration in the three small bones, this vibration produces movement in the liquid present in the cochlea, vibration is produced in the hair-like structures and electrical signals are formed, and the cochlear nerve carries these signals to the brain."
+                  },
+                  {
+                    "q": "How does our body remain in balance?",
+                    "a": "In the inner ear there are semicircular canals which help to keep our body in balance."
+                  }
+                ]
+              },
+              {
+                "label": "The Nose, the Tongue and the Skin",
+                "items": [
+                  {
+                    "q": "What are the five sense organs of a human?",
+                    "a": "The five sense organs of a human are: eyes, ears, tongue, nose and skin."
+                  },
+                  {
+                    "q": "Which stimulus does the nose sense?",
+                    "a": "The nose senses the chemical substances (smell) present in the air; the nose has receptors which sense the chemical substances present in the form of vapours."
+                  },
+                  {
+                    "q": "What is the olfactory bulb?",
+                    "a": "The olfactory bulb is a part of the brain that keeps receiving electrical signals from the smell receptors."
+                  },
+                  {
+                    "q": "What are the four basic tastes of the tongue?",
+                    "a": "The four basic tastes of the tongue are: salty, sweet, sour and bitter."
+                  },
+                  {
+                    "q": "What are taste buds?",
+                    "a": "Taste buds are round structures on the tongue that sense taste; they contain taste receptors."
+                  },
+                  {
+                    "q": "What is special about the catfish?",
+                    "a": "The whole body of the catfish has taste receptors which help it to sense its prey."
+                  },
+                  {
+                    "q": "Which stimuli does the skin sense?",
+                    "a": "The skin senses touch, temperature, pain and pressure; the skin can sense heat, cold, pain and touch."
+                  },
+                  {
+                    "q": "What are the three layers of the skin?",
+                    "a": "The three layers of the skin are: epidermis (the outer thin layer), dermis (the middle layer) and hypodermis (the lower layer)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Sense",
+            "sd": "جاندار جي تحرڪ محسوس ڪرڻ جي صلاحيت",
+            "syn": "the ability to detect a stimulus"
+          },
+          {
+            "w": "Receptors",
+            "sd": "تحرڪ محسوس ڪندڙ خاص گھرڙا",
+            "syn": "special cells that sense a stimulus"
+          },
+          {
+            "w": "Stimulus",
+            "sd": "ماحول ۾ محسوس ٿيندڙ تبديلي",
+            "syn": "a change felt in the environment"
+          },
+          {
+            "w": "Cornea",
+            "sd": "اک جو ظاهري ايئرل حصو",
+            "syn": "the clear front part of the eye"
+          },
+          {
+            "w": "Iris",
+            "sd": "اک جو رنگين حصو",
+            "syn": "the coloured part of the eye"
+          },
+          {
+            "w": "Pupil",
+            "sd": "مائٽڪيءَ جي وچ ۾ سوراخ",
+            "syn": "the hole in the middle of the iris"
+          },
+          {
+            "w": "Lens",
+            "sd": "اک جو شفاف لينس",
+            "syn": "the transparent lens of the eye"
+          },
+          {
+            "w": "Retina",
+            "sd": "اک جو پردو جنهن تي عڪس ٺهي ٿو",
+            "syn": "the layer of the eye on which the image is formed"
+          },
+          {
+            "w": "Optic nerve",
+            "sd": "ڏسڻ جي معلومات دماغ تائين پھچائيندڙ نس",
+            "syn": "the nerve that carries the information of seeing to the brain"
+          },
+          {
+            "w": "Pinna",
+            "sd": "ٻاهريون ڪن",
+            "syn": "the outer ear"
+          },
+          {
+            "w": "Ear Drum",
+            "sd": "ڪن واري ننڍڙي ڍل",
+            "syn": "the small membrane of the ear"
+          },
+          {
+            "w": "Malleus",
+            "sd": "وچيين ڪن جو هڪ ننڍڙو هڏو",
+            "syn": "a small bone of the middle ear"
+          },
+          {
+            "w": "Cochlea",
+            "sd": "اندرئين ڪن جي خاص بناوت",
+            "syn": "the special structure of the inner ear"
+          },
+          {
+            "w": "Olfactory bulb",
+            "sd": "بوءِ وارا اشارا وصول ڪندڙ دماغ جو حصو",
+            "syn": "the part of the brain that receives smell signals"
+          },
+          {
+            "w": "Taste buds",
+            "sd": "زبان تي ذائقو محسوس ڪندڙ گولڙهيون",
+            "syn": "the round structures on the tongue that sense taste"
+          },
+          {
+            "w": "Epidermis",
+            "sd": "چمڙيءَ جو ٻاهريون سنهڙو تهه",
+            "syn": "the outer thin layer of the skin"
+          },
+          {
+            "w": "Dermis",
+            "sd": "چمڙيءَ جو وچون تهه",
+            "syn": "the middle layer of the skin"
+          },
+          {
+            "w": "Neurons",
+            "sd": "حساس تنتي گھرڙا",
+            "syn": "sensitive nerve cells"
+          }
+        ]
+      },
+      {
+        "unit": 3,
+        "title": "Photosynthesis and Respiration in Plants",
+        "display": "Photosynthesis and Respiration in Plants",
+        "sections": [
+          {
+            "name": "Circle the correct answer",
+            "num": "3.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "What are the tiny pores or stomata in the leaf of a plant for? (a) For transpiration (b) For absorption (c) For transport",
+                    "a": "(a) For transpiration — Of the given answers this is the closest, because water is also transpired from the leaf through the stomata; according to the book (p. 33), the main function of the stomata is the exchange of gases, which is not given among the answers."
+                  },
+                  {
+                    "q": "What is the green-coloured substance present in the leaf? (a) Chlorophyll (b) Chloroplast (c) Chromoplast",
+                    "a": "(a) Chlorophyll — The green chemical substance present in the chloroplast is chlorophyll."
+                  },
+                  {
+                    "q": "Which things are needed for photosynthesis to take place in plants? (a) Water and oxygen (b) Water and carbon dioxide (c) Water and sunlight",
+                    "a": "(b) Water and carbon dioxide — According to the chemical equation of photosynthesis, carbon dioxide and water are needed: 6CO2 + 6H2O → C6H12O6 + 6O2; sunlight and chlorophyll are also needed (p. 37)."
+                  },
+                  {
+                    "q": "Photosynthesis takes place during the daytime because it depends on: (a) the activities of the day (b) the light of the day (c) sunlight.",
+                    "a": "(c) Sunlight — The process of photosynthesis takes place with the energy of sunlight, which is received during the daytime."
+                  },
+                  {
+                    "q": "What do plants give out at night? (a) Carbon dioxide (b) Oxygen (c) Water",
+                    "a": "(a) Carbon dioxide — At night the process of photosynthesis stops and the process of respiration continues, so plants give out carbon dioxide."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Answer the following questions",
+            "num": "3.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Which part of the plant is involved in the process of making food?",
+                    "a": "The leaf of the plant — the process of photosynthesis takes place in the leaf of the plant, where the chlorophyll present in the chloroplast absorbs sunlight."
+                  },
+                  {
+                    "q": "What are the functions of the pores (Stomata) in the leaf?",
+                    "a": "The tiny pores (stomata) on the lower side of the leaf do the work of exchange of gases: carbon dioxide enters the leaf and oxygen is given out of the leaf; water is also transpired through them."
+                  },
+                  {
+                    "q": "What is the process of photosynthesis?",
+                    "a": "Photosynthesis is the chemical process by which green plants, with the help of the energy of sunlight and chlorophyll, prepare glucose and oxygen from carbon dioxide and water: 6CO2 + 6H2O → C6H12O6 + 6O2."
+                  },
+                  {
+                    "q": "Tell why the process of photosynthesis is also very useful for animals.",
+                    "a": "The process of photosynthesis is very useful for animals because all living things need food for growth and to stay alive, and plants are the only producers that prepare food for all living things; besides this, oxygen gas is given out in this process, which all living things need for breathing."
+                  },
+                  {
+                    "q": "Name the two gases that take part in the process of photosynthesis.",
+                    "a": "Carbon dioxide and oxygen — carbon dioxide enters the leaf and oxygen is given out of the leaf."
+                  },
+                  {
+                    "q": "What is the function of chlorophyll?",
+                    "a": "Chlorophyll absorbs energy from sunlight; with the help of this energy the process of photosynthesis takes place and glucose is prepared. It is because of chlorophyll that the colour of the leaf is green."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Match the following with their functions",
+            "num": "3.3",
+            "exercises": [
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "[Match the following with their functions. [[T]]Column A|Column B;;(i) Broad structure of the leaf|(a) Absorb water and mineral salts from the soil.;;(ii) Tiny pores|(b) They have solar panels.;;(iii) Root hairs|(c) Absorb solar energy.;;(iv) Leaf cells|(d) Take in carbon dioxide and give out oxygen.;;(v) Chlorophyll|(e) They have fine tiny pores, i.e. stomata.[[/T]] (i) Broad structure of the leaf",
+                    "a": "(b) They have solar panels — because of the broad and flat structure of the leaf it can absorb more sunlight and carbon dioxide."
+                  },
+                  {
+                    "q": "(ii) Tiny pores",
+                    "a": "(d) Take in carbon dioxide and give out oxygen — through the tiny pores (stomata) gases enter the leaf and are given out of it."
+                  },
+                  {
+                    "q": "(iii) Root hairs",
+                    "a": "(a) Absorb water and mineral salts from the soil."
+                  },
+                  {
+                    "q": "(iv) Leaf cells",
+                    "a": "(e) They have fine tiny pores, i.e. stomata."
+                  },
+                  {
+                    "q": "(v) Chlorophyll",
+                    "a": "(c) Absorb solar energy — chlorophyll absorbs energy from sunlight."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Match each of the following with the function of the leaf",
+            "num": "3.4",
+            "exercises": [
+              {
+                "label": "Structure of the Leaf",
+                "items": [
+                  {
+                    "q": "[Match each of the following with the function of the leaf. [[T]]Column A|Column B;;(i) Broad and flat|(a) For the entry and exit of gases.;;(ii) Thin|(b) To absorb more sunlight and carbon dioxide.;;(iii) Tiny pores|(c) To carry water to the cell and to remove the extra glucose.;;(iv) Veins|(d) To make it easy for gases to reach.[[/T]] (i) Broad and flat",
+                    "a": "(b) To absorb more sunlight and carbon dioxide."
+                  },
+                  {
+                    "q": "(ii) Thin",
+                    "a": "(d) To make it easy for gases to reach."
+                  },
+                  {
+                    "q": "(iii) Tiny pores",
+                    "a": "(a) For the entry and exit of gases."
+                  },
+                  {
+                    "q": "(iv) Veins",
+                    "a": "(c) To carry water to the cell and to remove the extra glucose."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "3.5",
+            "exercises": [
+              {
+                "label": "Structure of the Leaf of a Plant",
+                "items": [
+                  {
+                    "q": "What is the upper layer of the leaf of a plant like, and what does it do?",
+                    "a": "The upper layer of the leaf is waterproof; it protects the leaf from losing too much water.",
+                    "da": {
+                      "type": "draw",
+                      "w": 420,
+                      "h": 280,
+                      "els": [
+                        {
+                          "t": "line",
+                          "x1": 90,
+                          "y1": 70,
+                          "x2": 240,
+                          "y2": 70
+                        },
+                        {
+                          "t": "line",
+                          "x1": 90,
+                          "y1": 70,
+                          "x2": 90,
+                          "y2": 170
+                        },
+                        {
+                          "t": "line",
+                          "x1": 240,
+                          "y1": 70,
+                          "x2": 240,
+                          "y2": 170
+                        },
+                        {
+                          "t": "line",
+                          "x1": 90,
+                          "y1": 170,
+                          "x2": 160,
+                          "y2": 170
+                        },
+                        {
+                          "t": "line",
+                          "x1": 188,
+                          "y1": 170,
+                          "x2": 240,
+                          "y2": 170
+                        },
+                        {
+                          "t": "line",
+                          "x1": 90,
+                          "y1": 86,
+                          "x2": 240,
+                          "y2": 86
+                        },
+                        {
+                          "t": "line",
+                          "x1": 90,
+                          "y1": 154,
+                          "x2": 160,
+                          "y2": 154
+                        },
+                        {
+                          "t": "line",
+                          "x1": 188,
+                          "y1": 154,
+                          "x2": 240,
+                          "y2": 154
+                        },
+                        {
+                          "t": "line",
+                          "x1": 120,
+                          "y1": 86,
+                          "x2": 120,
+                          "y2": 154
+                        },
+                        {
+                          "t": "line",
+                          "x1": 145,
+                          "y1": 86,
+                          "x2": 145,
+                          "y2": 154
+                        },
+                        {
+                          "t": "line",
+                          "x1": 205,
+                          "y1": 86,
+                          "x2": 205,
+                          "y2": 154
+                        },
+                        {
+                          "t": "line",
+                          "x1": 225,
+                          "y1": 86,
+                          "x2": 225,
+                          "y2": 154
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 115,
+                          "cy": 110,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 155,
+                          "cy": 125,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 195,
+                          "cy": 108,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 230,
+                          "cy": 130,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 125,
+                          "cy": 200,
+                          "r": 13
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 125,
+                          "cy": 200,
+                          "r": 4
+                        },
+                        {
+                          "t": "line",
+                          "x1": 125,
+                          "y1": 170,
+                          "x2": 125,
+                          "y2": 187
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 168,
+                          "cy": 162,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 180,
+                          "cy": 162,
+                          "r": 4
+                        },
+                        {
+                          "t": "text",
+                          "x": 140,
+                          "y": 45,
+                          "s": "Upper layer"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 142,
+                          "y1": 48,
+                          "x2": 125,
+                          "y2": 70
+                        },
+                        {
+                          "t": "text",
+                          "x": 320,
+                          "y": 100,
+                          "s": "Chloroplast"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 252,
+                          "y1": 102,
+                          "x2": 226,
+                          "y2": 130
+                        },
+                        {
+                          "t": "text",
+                          "x": 95,
+                          "y": 235,
+                          "s": "Vein"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 97,
+                          "y1": 232,
+                          "x2": 112,
+                          "y2": 200
+                        },
+                        {
+                          "t": "text",
+                          "x": 305,
+                          "y": 240,
+                          "s": "Stomata"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 215,
+                          "y1": 238,
+                          "x2": 174,
+                          "y2": 170
+                        },
+                        {
+                          "t": "text",
+                          "x": 180,
+                          "y": 272,
+                          "s": "Lower layer of the leaf"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 182,
+                          "y1": 269,
+                          "x2": 145,
+                          "y2": 170
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Which part is present in the leaf that contains chlorophyll?",
+                    "a": "The chloroplast — chlorophyll is actually present in the cells that contain the chloroplast."
+                  },
+                  {
+                    "q": "What are the tiny pores on the lower side of the leaf called?",
+                    "a": "Stomata."
+                  },
+                  {
+                    "q": "What do the tubes present in the veins of the leaf do?",
+                    "a": "These tubes carry water and food to the leaf."
+                  },
+                  {
+                    "q": "What are the leaves of many plants like?",
+                    "a": "Green and broad.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              170,
+                              28
+                            ],
+                            [
+                              215,
+                              70
+                            ],
+                            [
+                              225,
+                              125
+                            ],
+                            [
+                              200,
+                              180
+                            ],
+                            [
+                              170,
+                              215
+                            ],
+                            [
+                              140,
+                              180
+                            ],
+                            [
+                              115,
+                              125
+                            ],
+                            [
+                              125,
+                              70
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 29,
+                          "x2": 170,
+                          "y2": 214
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 215,
+                          "x2": 170,
+                          "y2": 245
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 70,
+                          "x2": 219,
+                          "y2": 95
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 70,
+                          "x2": 121,
+                          "y2": 95
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 110,
+                          "x2": 221,
+                          "y2": 132
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 110,
+                          "x2": 119,
+                          "y2": 132
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 150,
+                          "x2": 205,
+                          "y2": 168
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 150,
+                          "x2": 135,
+                          "y2": 168
+                        },
+                        {
+                          "t": "text",
+                          "x": 262,
+                          "y": 40,
+                          "s": "Midrib"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 44,
+                          "x2": 170,
+                          "y2": 58
+                        },
+                        {
+                          "t": "text",
+                          "x": 95,
+                          "y": 95,
+                          "s": "Vein"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 97,
+                          "y1": 93,
+                          "x2": 121,
+                          "y2": 95
+                        },
+                        {
+                          "t": "text",
+                          "x": 130,
+                          "y": 245,
+                          "s": "Broad part of the leaf"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 132,
+                          "y1": 242,
+                          "x2": 142,
+                          "y2": 182
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What benefit does the leaf get from the increase in its surface area?",
+                    "a": "The leaf can absorb as much light as possible."
+                  },
+                  {
+                    "q": "Why are leaves broad?",
+                    "a": "So that gases can reach them easily."
+                  },
+                  {
+                    "q": "Which substance gives the green colour to the leaf?",
+                    "a": "Because of chlorophyll — chlorophyll is the green chemical substance present in the chloroplast."
+                  }
+                ]
+              },
+              {
+                "label": "The Process of Photosynthesis",
+                "items": [
+                  {
+                    "q": "Why is the leaf of a plant called the most useful solar panel on this earth?",
+                    "a": "Because with the help of the chlorophyll present in the leaf, sunlight is absorbed and the process of photosynthesis starts."
+                  },
+                  {
+                    "q": "From which two words is the word 'photosynthesis' made, and what do they mean?",
+                    "a": "'Photosynthesis' is a Latin (Roman) word made of two words: 'photo' meaning light, and 'synthesis' meaning to put together; so its meaning is: to put together with light."
+                  },
+                  {
+                    "q": "What are the things needed for the process of photosynthesis?",
+                    "a": "Water, carbon dioxide, sunlight, chlorophyll and a suitable temperature.",
+                    "da": {
+                      "type": "draw",
+                      "w": 380,
+                      "h": 280,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 70,
+                          "cy": 55,
+                          "r": 22
+                        },
+                        {
+                          "t": "line",
+                          "x1": 92,
+                          "y1": 55,
+                          "x2": 110,
+                          "y2": 60
+                        },
+                        {
+                          "t": "line",
+                          "x1": 80,
+                          "y1": 76,
+                          "x2": 90,
+                          "y2": 94
+                        },
+                        {
+                          "t": "line",
+                          "x1": 88,
+                          "y1": 68,
+                          "x2": 174,
+                          "y2": 120
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              174,
+                              120
+                            ],
+                            [
+                              161,
+                              118
+                            ],
+                            [
+                              166,
+                              109
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              200,
+                              90
+                            ],
+                            [
+                              235,
+                              130
+                            ],
+                            [
+                              240,
+                              170
+                            ],
+                            [
+                              215,
+                              205
+                            ],
+                            [
+                              200,
+                              225
+                            ],
+                            [
+                              180,
+                              205
+                            ],
+                            [
+                              160,
+                              170
+                            ],
+                            [
+                              165,
+                              130
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 93,
+                          "x2": 200,
+                          "y2": 223
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 225,
+                          "x2": 200,
+                          "y2": 245
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 120,
+                          "x2": 236,
+                          "y2": 140
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 120,
+                          "x2": 164,
+                          "y2": 140
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 155,
+                          "x2": 239,
+                          "y2": 170
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 155,
+                          "x2": 161,
+                          "y2": 170
+                        },
+                        {
+                          "t": "line",
+                          "x1": 55,
+                          "y1": 185,
+                          "x2": 170,
+                          "y2": 185
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              170,
+                              185
+                            ],
+                            [
+                              158,
+                              180
+                            ],
+                            [
+                              158,
+                              190
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 275,
+                          "x2": 200,
+                          "y2": 245
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              200,
+                              245
+                            ],
+                            [
+                              195,
+                              255
+                            ],
+                            [
+                              205,
+                              255
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 238,
+                          "y1": 150,
+                          "x2": 300,
+                          "y2": 140
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              300,
+                              140
+                            ],
+                            [
+                              289,
+                              147
+                            ],
+                            [
+                              287,
+                              137
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 212,
+                          "y1": 209,
+                          "x2": 250,
+                          "y2": 225
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              250,
+                              225
+                            ],
+                            [
+                              239,
+                              225
+                            ],
+                            [
+                              242,
+                              217
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 30,
+                          "s": "Sunlight"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 118,
+                          "y1": 32,
+                          "x2": 89,
+                          "y2": 44
+                        },
+                        {
+                          "t": "text",
+                          "x": 140,
+                          "y": 160,
+                          "s": "Carbon dioxide"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 132,
+                          "y1": 162,
+                          "x2": 120,
+                          "y2": 185
+                        },
+                        {
+                          "t": "text",
+                          "x": 330,
+                          "y": 120,
+                          "s": "Oxygen"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 290,
+                          "y1": 124,
+                          "x2": 285,
+                          "y2": 142
+                        },
+                        {
+                          "t": "text",
+                          "x": 330,
+                          "y": 250,
+                          "s": "Glucose"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 290,
+                          "y1": 253,
+                          "x2": 250,
+                          "y2": 225
+                        },
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 272,
+                          "s": "Water"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 152,
+                          "y1": 275,
+                          "x2": 200,
+                          "y2": 268
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Write the chemical equation of the process of photosynthesis.",
+                    "a": "6CO2 + 6H2O → C6H12O6 + 6O2 (in the presence of sunlight and chlorophyll) — Carbon dioxide + Water → Glucose + Oxygen."
+                  },
+                  {
+                    "q": "In what form do plants store the extra glucose?",
+                    "a": "Plants change the extra glucose into starch and store it for future food."
+                  },
+                  {
+                    "q": "From where is the oxygen prepared in the process of photosynthesis given out?",
+                    "a": "The oxygen gas is given out from the leaf of the plant into the air."
+                  },
+                  {
+                    "q": "Why are plants called producers?",
+                    "a": "Because plants keep providing food for all living things; green plants are the only living things that prepare food for themselves."
+                  },
+                  {
+                    "q": "What effect does an increase in the amount of light have on the process of photosynthesis?",
+                    "a": "With an increase in the amount of light, the process of photosynthesis also increases."
+                  },
+                  {
+                    "q": "What effect does a very low temperature have on the process of photosynthesis?",
+                    "a": "The process becomes very slow and decreases."
+                  }
+                ]
+              },
+              {
+                "label": "The Process of Respiration",
+                "items": [
+                  {
+                    "q": "What is the process of respiration in plants?",
+                    "a": "In the process of respiration, plants use the starch, i.e. sugar (glucose), prepared by them to release energy; in it oxygen is used and carbon dioxide and water are given out."
+                  },
+                  {
+                    "q": "Write the chemical equation of the process of respiration.",
+                    "a": "C6H12O6 + 6O2 → 6CO2 + 6H2O — Glucose + Oxygen → Carbon dioxide + Water (+ Energy)."
+                  },
+                  {
+                    "q": "How are the process of photosynthesis and the process of respiration related to each other?",
+                    "a": "The two processes are interlinked: in photosynthesis carbon dioxide is used and oxygen is given out, while in respiration oxygen is used and carbon dioxide is given out."
+                  },
+                  {
+                    "q": "During the daytime, what amount of carbon dioxide do plants absorb?",
+                    "a": "During the daytime plants absorb a greater amount of carbon dioxide than the amount they give out."
+                  },
+                  {
+                    "q": "Why do plants give out carbon dioxide at night?",
+                    "a": "Because at night the process of photosynthesis stops and the process of respiration continues, so a greater amount of carbon dioxide is given out."
+                  },
+                  {
+                    "q": "In which living things does the process of respiration take place?",
+                    "a": "The process of respiration takes place in all living things."
+                  },
+                  {
+                    "q": "What is the difference between the process of photosynthesis and the process of respiration in terms of energy?",
+                    "a": "In the process of photosynthesis energy is needed (energy is absorbed), while in the process of respiration energy is released."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Photosynthesis",
+            "sd": "سج جي روشنيءَ سان خوراڪ تيار ڪرڻ وارو عمل",
+            "syn": "the process of making food with sunlight"
+          },
+          {
+            "w": "Respiration",
+            "sd": "گلوڪوز مان توانائي حاصل ڪرڻ وارو عمل",
+            "syn": "the process of getting energy from glucose"
+          },
+          {
+            "w": "Chlorophyll",
+            "sd": "پن ۾ موجود سائي رنگ وارو مادو",
+            "syn": "the green substance that absorbs sunlight"
+          },
+          {
+            "w": "Chloroplast",
+            "sd": "ڪل جو اهو حصو جنهن ۾ ڪلوروفل هوندو آهي",
+            "syn": "the green part that contains chlorophyll"
+          },
+          {
+            "w": "Stomata",
+            "sd": "پن جا سنھڙا سوراخ",
+            "syn": "the tiny pores of the leaf"
+          },
+          {
+            "w": "Glucose",
+            "sd": "ٻوٽي جي تيار ڪيل کنڊ",
+            "syn": "the sugar prepared by the plant"
+          },
+          {
+            "w": "Starch",
+            "sd": "بچيل گلوڪوز جي شڪل",
+            "syn": "the form in which extra glucose is stored"
+          },
+          {
+            "w": "Producers",
+            "sd": "خوراڪ تيار ڪندڙ جاندار",
+            "syn": "living things that prepare food"
+          },
+          {
+            "w": "Carbon dioxide",
+            "sd": "هوا ۾ موجود گئس جيڪا ٻوٽا جذب ڪندا آهن",
+            "syn": "the gas in the air that plants absorb"
+          },
+          {
+            "w": "Oxygen",
+            "sd": "ساهه کڻڻ لاءِ گھربل گئس",
+            "syn": "the gas needed for breathing"
+          },
+          {
+            "w": "Veins",
+            "sd": "پن ۾ پاڻي ۽ خوراڪ پھچائيندڙ نليون",
+            "syn": "the tubes that carry water and food in the leaf"
+          },
+          {
+            "w": "Solar panel",
+            "sd": "سج جي روشنيءَ مان توانائي وٺندڙ پينل",
+            "syn": "a panel that takes energy from sunlight"
+          },
+          {
+            "w": "Transpiration",
+            "sd": "پن مان پاڻيءَ جو ٻاهر نڪرڻ",
+            "syn": "the giving out of water from the leaf"
+          },
+          {
+            "w": "Exchange",
+            "sd": "هڪ شيءِ ڏئي ٻي شيءِ وٺڻ",
+            "syn": "giving one thing and taking another"
+          },
+          {
+            "w": "Interlinked",
+            "sd": "هڪ ٻئي سان ڳنڍيل",
+            "syn": "connected with each other"
+          },
+          {
+            "w": "Chemical reaction",
+            "sd": "ڪيميائي تبديلي وارو عمل",
+            "syn": "a process of chemical change"
+          },
+          {
+            "w": "Iodine",
+            "sd": "نشاستي جي جاچ لاءِ استعمال ٿيندڙ گار",
+            "syn": "a solution used to test for starch"
+          },
+          {
+            "w": "Sunlight",
+            "sd": "سج مان ايندڙ روشني",
+            "syn": "light coming from the sun"
+          }
+        ]
+      },
+      {
+        "unit": 4,
+        "title": "Environment and Interaction",
+        "display": "Environment and Interaction",
+        "sections": [
+          {
+            "name": "Review Questions",
+            "num": "4.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "Which of the following is an abiotic part of an ecosystem? (a) Micro (microscopic) bacteria (b) Fungi (c) Mineral components (d) Decayed layers",
+                    "a": "(c) Mineral components — Mineral components are abiotic parts of the environment; bacteria and fungi are living and are decomposers."
+                  }
+                ]
+              },
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Which of the following is a biotic part of an ecosystem? (a) Bacteria present on your skin (b) Minerals present in the soil (c) Water of the pond (d) Temperature of your surroundings",
+                    "a": "(a) Bacteria present on your skin — Bacteria are living; minerals, water and temperature are abiotic parts."
+                  }
+                ]
+              },
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "A tapeworm which lives inside the body of an organism and lives on the food of that organism is: (a) An example of a mutual relationship. (b) An example of a parasitic relationship. (c) An example of a predator and prey relationship. (d) An example of carnivorous feeding.",
+                    "a": "(b) An example of a parasitic relationship — The tapeworm lives inside the host's body, lives on the host's food and harms the host."
+                  }
+                ]
+              },
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "In any ecosystem, organisms can be divided into producers or consumers (Producers) (Consumers). Producers provide food for consumers. Name an organism that makes producers and other consumers its food. (a) Herbivores (b) Omnivores (c) Carnivores (d) Prey",
+                    "a": "(b) Omnivores — Omnivores eat plants as well as other animals."
+                  }
+                ]
+              },
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "Carbon is an essential component of the ecosystem. It keeps circulating through the whole ecosystem, being used and reused again and again. Carbon is very necessary to sustain life. Name the process in which carbon dioxide is used. (a) Respiration (b) Photosynthesis (c) Evaporation (d) Decomposition",
+                    "a": "(b) Photosynthesis — Plants use carbon dioxide in photosynthesis to prepare food."
+                  }
+                ]
+              },
+              {
+                "label": "6",
+                "items": [
+                  {
+                    "q": "Photosynthesis is the chemical process that takes place in the leaves of a plant. But it needs a special kind of gas which is also an abiotic factor of the environment. Tell which gas it is. (a) Carbon dioxide (b) Chlorophyll (c) Solar energy (d) Oxygen",
+                    "a": "(a) Carbon dioxide — Carbon dioxide gas is needed for photosynthesis; chlorophyll is a pigment and solar energy is energy, not a gas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Chart showing the interrelationship of biotic and abiotic factors",
+            "num": "4.2",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "Chart showing the interrelationship of biotic and abiotic factors: Keep a record of the transport (Transportation) used by your family for one week and fill in the given table. How much waste is produced by each type of transport?",
+                    "a": "Keep a record of each type of transport for one week and write it in the table. As in the example given in the book: Walking — 0, Cycling — 0, Travelling by car — 200. Walking and cycling produce no waste, while travelling by car produces waste. Your own answer will depend on your family's actual use."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "4.3",
+            "exercises": [
+              {
+                "label": "Components of the Environment",
+                "items": [
+                  {
+                    "q": "What is environment?",
+                    "a": "All things around an organism — living and non-living parts — together make the environment."
+                  },
+                  {
+                    "q": "What are the living parts of the environment?",
+                    "a": "Producers, consumers and decomposers."
+                  },
+                  {
+                    "q": "What are the non-living parts of the environment?",
+                    "a": "Light, air, soil, temperature and water."
+                  },
+                  {
+                    "q": "What are producers?",
+                    "a": "Green plants, algae and some bacteria that prepare food from sunlight, water and carbon dioxide."
+                  },
+                  {
+                    "q": "What are the types of consumers?",
+                    "a": "Primary consumers (herbivores), secondary consumers and tertiary consumers."
+                  },
+                  {
+                    "q": "Who are primary consumers? Give examples.",
+                    "a": "Herbivorous animals such as goat and rabbit."
+                  },
+                  {
+                    "q": "What are decomposers?",
+                    "a": "Fungi, bacteria and worms that decompose dead organisms and decayed matter of plants into simple components."
+                  },
+                  {
+                    "q": "What is an ecosystem?",
+                    "a": "The interrelationship of the biotic and abiotic parts of the environment and their mutual connection for survival is called an ecosystem.",
+                    "da": {
+                      "type": "draw",
+                      "w": 380,
+                      "h": 300,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 180,
+                          "cy": 30,
+                          "r": 14
+                        },
+                        {
+                          "t": "text",
+                          "x": 155,
+                          "y": 34,
+                          "s": "Sun"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 160,
+                          "y1": 32,
+                          "x2": 166,
+                          "y2": 30
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              125,
+                              58
+                            ],
+                            [
+                              235,
+                              58
+                            ],
+                            [
+                              235,
+                              92
+                            ],
+                            [
+                              125,
+                              92
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 225,
+                          "y": 82,
+                          "s": "Producers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              250,
+                              140
+                            ],
+                            [
+                              340,
+                              140
+                            ],
+                            [
+                              340,
+                              174
+                            ],
+                            [
+                              250,
+                              174
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 311,
+                          "y": 164,
+                          "s": "Consumers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              125,
+                              222
+                            ],
+                            [
+                              235,
+                              222
+                            ],
+                            [
+                              235,
+                              256
+                            ],
+                            [
+                              125,
+                              256
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 222,
+                          "y": 246,
+                          "s": "Decomposers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              20,
+                              140
+                            ],
+                            [
+                              110,
+                              140
+                            ],
+                            [
+                              110,
+                              174
+                            ],
+                            [
+                              20,
+                              174
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 100,
+                          "y": 164,
+                          "s": "Nutrients"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 180,
+                          "y1": 44,
+                          "x2": 180,
+                          "y2": 47
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              180,
+                              58
+                            ],
+                            [
+                              174.5,
+                              47
+                            ],
+                            [
+                              185.5,
+                              47
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 235,
+                          "y1": 78,
+                          "x2": 287.4,
+                          "y2": 132.1
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              295,
+                              140
+                            ],
+                            [
+                              283.4,
+                              135.9
+                            ],
+                            [
+                              291.3,
+                              128.3
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 292,
+                          "y1": 174,
+                          "x2": 242.3,
+                          "y2": 230.7
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              235,
+                              239
+                            ],
+                            [
+                              238.1,
+                              227.1
+                            ],
+                            [
+                              246.4,
+                              234.4
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 125,
+                          "y1": 236,
+                          "x2": 72.6,
+                          "y2": 181.9
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              65,
+                              174
+                            ],
+                            [
+                              76.6,
+                              178.1
+                            ],
+                            [
+                              68.7,
+                              185.7
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 68,
+                          "y1": 140,
+                          "x2": 117.7,
+                          "y2": 83.3
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              125,
+                              75
+                            ],
+                            [
+                              121.9,
+                              86.9
+                            ],
+                            [
+                              113.6,
+                              79.6
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 239,
+                          "y": 278,
+                          "s": "Abiotic parts:"
+                        },
+                        {
+                          "t": "text",
+                          "x": 240,
+                          "y": 294,
+                          "s": "Air, water, mineral components"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What are the types of ecosystem?",
+                    "a": "Freshwater ecosystem, land ecosystem and marine ecosystem."
+                  },
+                  {
+                    "q": "What are the characteristics of the desert environment?",
+                    "a": "A desert is very hot and dry; there is very little rainfall there; days are hot and nights are cold; very few plants and animals live there."
+                  },
+                  {
+                    "q": "What are the characteristics of the rainforest environment?",
+                    "a": "A rainforest is very hot and humid; there is very heavy rainfall there; dense trees, wild plants and different kinds of animals live there."
+                  }
+                ]
+              },
+              {
+                "label": "Interrelationships Among Organisms",
+                "items": [
+                  {
+                    "q": "What are the types of interrelationships among organisms?",
+                    "a": "Predator and prey relationship, parasitism and mutual relationship.",
+                    "da": {
+                      "type": "draw",
+                      "w": 360,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              110,
+                              75
+                            ],
+                            [
+                              107.6,
+                              83.7
+                            ],
+                            [
+                              100.5,
+                              91.5
+                            ],
+                            [
+                              89.4,
+                              97.7
+                            ],
+                            [
+                              75.5,
+                              101.6
+                            ],
+                            [
+                              60,
+                              103
+                            ],
+                            [
+                              44.5,
+                              101.6
+                            ],
+                            [
+                              30.6,
+                              97.7
+                            ],
+                            [
+                              19.5,
+                              91.5
+                            ],
+                            [
+                              12.4,
+                              83.7
+                            ],
+                            [
+                              10,
+                              75
+                            ],
+                            [
+                              12.4,
+                              66.3
+                            ],
+                            [
+                              19.5,
+                              58.5
+                            ],
+                            [
+                              30.6,
+                              52.3
+                            ],
+                            [
+                              44.5,
+                              48.4
+                            ],
+                            [
+                              60,
+                              47
+                            ],
+                            [
+                              75.5,
+                              48.4
+                            ],
+                            [
+                              89.4,
+                              52.3
+                            ],
+                            [
+                              100.5,
+                              58.5
+                            ],
+                            [
+                              107.6,
+                              66.3
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 88,
+                          "y": 79,
+                          "s": "Mutual relationship"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              230,
+                              75
+                            ],
+                            [
+                              227.6,
+                              83.7
+                            ],
+                            [
+                              220.5,
+                              91.5
+                            ],
+                            [
+                              209.4,
+                              97.7
+                            ],
+                            [
+                              195.5,
+                              101.6
+                            ],
+                            [
+                              180,
+                              103
+                            ],
+                            [
+                              164.5,
+                              101.6
+                            ],
+                            [
+                              150.6,
+                              97.7
+                            ],
+                            [
+                              139.5,
+                              91.5
+                            ],
+                            [
+                              132.4,
+                              83.7
+                            ],
+                            [
+                              130,
+                              75
+                            ],
+                            [
+                              132.4,
+                              66.3
+                            ],
+                            [
+                              139.5,
+                              58.5
+                            ],
+                            [
+                              150.6,
+                              52.3
+                            ],
+                            [
+                              164.5,
+                              48.4
+                            ],
+                            [
+                              180,
+                              47
+                            ],
+                            [
+                              195.5,
+                              48.4
+                            ],
+                            [
+                              209.4,
+                              52.3
+                            ],
+                            [
+                              220.5,
+                              58.5
+                            ],
+                            [
+                              227.6,
+                              66.3
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 225,
+                          "y": 79,
+                          "s": "Predator and prey"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              350,
+                              75
+                            ],
+                            [
+                              347.6,
+                              83.7
+                            ],
+                            [
+                              340.5,
+                              91.5
+                            ],
+                            [
+                              329.4,
+                              97.7
+                            ],
+                            [
+                              315.5,
+                              101.6
+                            ],
+                            [
+                              300,
+                              103
+                            ],
+                            [
+                              284.5,
+                              101.6
+                            ],
+                            [
+                              270.6,
+                              97.7
+                            ],
+                            [
+                              259.5,
+                              91.5
+                            ],
+                            [
+                              252.4,
+                              83.7
+                            ],
+                            [
+                              250,
+                              75
+                            ],
+                            [
+                              252.4,
+                              66.3
+                            ],
+                            [
+                              259.5,
+                              58.5
+                            ],
+                            [
+                              270.6,
+                              52.3
+                            ],
+                            [
+                              284.5,
+                              48.4
+                            ],
+                            [
+                              300,
+                              47
+                            ],
+                            [
+                              315.5,
+                              48.4
+                            ],
+                            [
+                              329.4,
+                              52.3
+                            ],
+                            [
+                              340.5,
+                              58.5
+                            ],
+                            [
+                              347.6,
+                              66.3
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 311,
+                          "y": 79,
+                          "s": "Parasitism"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              100,
+                              190
+                            ],
+                            [
+                              260,
+                              190
+                            ],
+                            [
+                              260,
+                              242
+                            ],
+                            [
+                              100,
+                              242
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 215,
+                          "y": 212,
+                          "s": "Interrelationships"
+                        },
+                        {
+                          "t": "text",
+                          "x": 222,
+                          "y": 232,
+                          "s": "among organisms"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 118,
+                          "y1": 190,
+                          "x2": 66.1,
+                          "y2": 112.2
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              60,
+                              103
+                            ],
+                            [
+                              70.7,
+                              109.1
+                            ],
+                            [
+                              61.5,
+                              115.2
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 180,
+                          "y1": 190,
+                          "x2": 180,
+                          "y2": 114
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              180,
+                              103
+                            ],
+                            [
+                              185.5,
+                              114
+                            ],
+                            [
+                              174.5,
+                              114
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 245,
+                          "y1": 190,
+                          "x2": 294.1,
+                          "y2": 112.3
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              300,
+                              103
+                            ],
+                            [
+                              298.8,
+                              115.2
+                            ],
+                            [
+                              289.5,
+                              109.4
+                            ]
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What is a predator and prey relationship? Give an example.",
+                    "a": "When one organism eats another organism; for example, a lion eats a deer."
+                  },
+                  {
+                    "q": "In a predator and prey relationship, who benefits and who is harmed?",
+                    "a": "The predator benefits and the prey is harmed."
+                  },
+                  {
+                    "q": "What is parasitism? Give an example.",
+                    "a": "When one organism lives inside or on the body of another organism and lives on its food; for example, a mosquito sucks blood and a tapeworm lives inside the host's body."
+                  },
+                  {
+                    "q": "What is the difference between a parasite and a host?",
+                    "a": "A parasite is the organism that lives on another organism; a host is the organism on which the parasite lives and which is harmed."
+                  },
+                  {
+                    "q": "What is a mutual relationship? Give an example.",
+                    "a": "When two organisms benefit from each other; for example, a honey bee sucks nectar from a flower and pollinates the flower."
+                  },
+                  {
+                    "q": "What is the relationship between a buffalo and birds?",
+                    "a": "A mutual relationship; birds sit on the buffalo's body and eat parasites, and protect the buffalo from parasites."
+                  },
+                  {
+                    "q": "What is a food chain?",
+                    "a": "The food relationship between plants and animals; Plant → Herbivore → Carnivore.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 380,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              12
+                            ],
+                            [
+                              200,
+                              12
+                            ],
+                            [
+                              200,
+                              64
+                            ],
+                            [
+                              15,
+                              64
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 33,
+                          "s": "Plant"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 52,
+                          "s": "Producers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              88
+                            ],
+                            [
+                              200,
+                              88
+                            ],
+                            [
+                              200,
+                              140
+                            ],
+                            [
+                              15,
+                              140
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 109,
+                          "s": "Rabbit"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 128,
+                          "s": "Primary consumers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              164
+                            ],
+                            [
+                              200,
+                              164
+                            ],
+                            [
+                              200,
+                              216
+                            ],
+                            [
+                              15,
+                              216
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 185,
+                          "s": "Cat"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 204,
+                          "s": "Secondary consumers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              240
+                            ],
+                            [
+                              200,
+                              240
+                            ],
+                            [
+                              200,
+                              292
+                            ],
+                            [
+                              15,
+                              292
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 261,
+                          "s": "Wolf"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 280,
+                          "s": "Tertiary consumers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              316
+                            ],
+                            [
+                              200,
+                              316
+                            ],
+                            [
+                              200,
+                              368
+                            ],
+                            [
+                              15,
+                              368
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 337,
+                          "s": "Fungi and bacteria"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 356,
+                          "s": "Decomposers"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 64,
+                          "x2": 107,
+                          "y2": 77
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              88
+                            ],
+                            [
+                              101.5,
+                              77
+                            ],
+                            [
+                              112.5,
+                              77
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 140,
+                          "x2": 107,
+                          "y2": 153
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              164
+                            ],
+                            [
+                              101.5,
+                              153
+                            ],
+                            [
+                              112.5,
+                              153
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 216,
+                          "x2": 107,
+                          "y2": 229
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              240
+                            ],
+                            [
+                              101.5,
+                              229
+                            ],
+                            [
+                              112.5,
+                              229
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 292,
+                          "x2": 107,
+                          "y2": 305
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              316
+                            ],
+                            [
+                              101.5,
+                              305
+                            ],
+                            [
+                              112.5,
+                              305
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 342,
+                          "x2": 285,
+                          "y2": 342
+                        },
+                        {
+                          "t": "line",
+                          "x1": 285,
+                          "y1": 342,
+                          "x2": 285,
+                          "y2": 38
+                        },
+                        {
+                          "t": "line",
+                          "x1": 285,
+                          "y1": 38,
+                          "x2": 208,
+                          "y2": 38
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              200,
+                              38
+                            ],
+                            [
+                              208,
+                              32
+                            ],
+                            [
+                              208,
+                              44
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 277,
+                          "y": 152,
+                          "s": "Nitrogen"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Why is a food chain very delicate?",
+                    "a": "If even one link of the chain ends, the whole chain is affected; for example, if plants end, herbivores and carnivores will also end.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 380,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              12
+                            ],
+                            [
+                              200,
+                              12
+                            ],
+                            [
+                              200,
+                              64
+                            ],
+                            [
+                              15,
+                              64
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 33,
+                          "s": "Plant"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 52,
+                          "s": "Producers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              88
+                            ],
+                            [
+                              200,
+                              88
+                            ],
+                            [
+                              200,
+                              140
+                            ],
+                            [
+                              15,
+                              140
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 109,
+                          "s": "Rabbit"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 128,
+                          "s": "Primary consumers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              164
+                            ],
+                            [
+                              200,
+                              164
+                            ],
+                            [
+                              200,
+                              216
+                            ],
+                            [
+                              15,
+                              216
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 185,
+                          "s": "Cat"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 204,
+                          "s": "Secondary consumers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              240
+                            ],
+                            [
+                              200,
+                              240
+                            ],
+                            [
+                              200,
+                              292
+                            ],
+                            [
+                              15,
+                              292
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 261,
+                          "s": "Wolf"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 280,
+                          "s": "Tertiary consumers"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              15,
+                              316
+                            ],
+                            [
+                              200,
+                              316
+                            ],
+                            [
+                              200,
+                              368
+                            ],
+                            [
+                              15,
+                              368
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 337,
+                          "s": "Fungi and bacteria"
+                        },
+                        {
+                          "t": "text",
+                          "x": 193,
+                          "y": 356,
+                          "s": "Decomposers"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 64,
+                          "x2": 107,
+                          "y2": 77
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              88
+                            ],
+                            [
+                              101.5,
+                              77
+                            ],
+                            [
+                              112.5,
+                              77
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 140,
+                          "x2": 107,
+                          "y2": 153
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              164
+                            ],
+                            [
+                              101.5,
+                              153
+                            ],
+                            [
+                              112.5,
+                              153
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 216,
+                          "x2": 107,
+                          "y2": 229
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              240
+                            ],
+                            [
+                              101.5,
+                              229
+                            ],
+                            [
+                              112.5,
+                              229
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 107,
+                          "y1": 292,
+                          "x2": 107,
+                          "y2": 305
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              316
+                            ],
+                            [
+                              101.5,
+                              305
+                            ],
+                            [
+                              112.5,
+                              305
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 342,
+                          "x2": 285,
+                          "y2": 342
+                        },
+                        {
+                          "t": "line",
+                          "x1": 285,
+                          "y1": 342,
+                          "x2": 285,
+                          "y2": 38
+                        },
+                        {
+                          "t": "line",
+                          "x1": 285,
+                          "y1": 38,
+                          "x2": 208,
+                          "y2": 38
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              200,
+                              38
+                            ],
+                            [
+                              208,
+                              32
+                            ],
+                            [
+                              208,
+                              44
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 277,
+                          "y": 152,
+                          "s": "Nitrogen"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What is ecology?",
+                    "a": "The study of the interrelationships between the biotic and abiotic parts of the environment is called ecology."
+                  },
+                  {
+                    "q": "What effect does a decrease or increase in abiotic factors have on living things in the environment?",
+                    "a": "The life of living things is affected by a decrease or increase in abiotic factors such as water, light and temperature; for example, plants dry up with a shortage of water."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Environment",
+            "sd": "جاندار جي چوڌاري موجود سڀ شيون",
+            "syn": "all things around a living organism, living and non-living"
+          },
+          {
+            "w": "Ecosystem",
+            "sd": "جاندار ۽ غير جاندار حصن جو باهمي ردعمل وارو سرشتو",
+            "syn": "a system of living and non-living parts that interact with each other"
+          },
+          {
+            "w": "Biotic",
+            "sd": "جاندار حصا",
+            "syn": "the living parts of the environment"
+          },
+          {
+            "w": "Abiotic",
+            "sd": "غير جاندار حصا",
+            "syn": "the non-living parts of the environment"
+          },
+          {
+            "w": "Producers",
+            "sd": "خوراڪ تيار ڪندڙ جاندار، جهڙوڪ ساوا ٻوٽا",
+            "syn": "organisms, such as green plants, that prepare food"
+          },
+          {
+            "w": "Consumers",
+            "sd": "خوراڪ کائيندڙ جاندار",
+            "syn": "organisms that eat food made by producers"
+          },
+          {
+            "w": "Decomposers",
+            "sd": "مئل مادي کي تحليل ڪندڙ جاندار",
+            "syn": "organisms that break down dead matter into simple components"
+          },
+          {
+            "w": "Desert",
+            "sd": "تمام گرم ۽ خشڪ علائقو",
+            "syn": "a very hot and dry area with very little rainfall"
+          },
+          {
+            "w": "Rainforest",
+            "sd": "تمام گهڻي برسات وارو گهاٽو ٻيلو",
+            "syn": "a dense forest with very heavy rainfall"
+          },
+          {
+            "w": "Grassland",
+            "sd": "گاهه وارو ميدان",
+            "syn": "a wide open area covered with grass"
+          },
+          {
+            "w": "Ecology",
+            "sd": "جاندارن ۽ ماحول جي باهمي تعلقات جو مطالعو",
+            "syn": "the study of the relationships between organisms and their environment"
+          },
+          {
+            "w": "Predator",
+            "sd": "شڪار ڪندڙ جاندار",
+            "syn": "an organism that hunts and eats another organism"
+          },
+          {
+            "w": "Prey",
+            "sd": "شڪار ٿيندڙ جاندار",
+            "syn": "an organism that is hunted and eaten"
+          },
+          {
+            "w": "Parasite",
+            "sd": "ٻئي جاندار تي گذران ڪندڙ جاندار",
+            "syn": "an organism that lives on another organism and harms it"
+          },
+          {
+            "w": "Host",
+            "sd": "اهو جاندار جنهن تي طفيلي رهي ٿو",
+            "syn": "the organism on which a parasite lives"
+          },
+          {
+            "w": "Mutualism",
+            "sd": "ٻن جاندارن جو هڪ ٻئي کي فائدو ڏيندڙ تعلق",
+            "syn": "a relationship in which two organisms benefit each other"
+          },
+          {
+            "w": "Food chain",
+            "sd": "خوراڪ جي منتقلي جو سلسلو",
+            "syn": "the series through which food passes from one organism to another"
+          },
+          {
+            "w": "Photosynthesis",
+            "sd": "ٻوٽن جو روشنيءَ سان خوراڪ تيار ڪرڻ جو عمل",
+            "syn": "the process by which plants prepare food using light"
+          }
+        ]
+      },
+      {
+        "unit": 5,
+        "title": "Atoms, Molecules, Mixtures and Compounds",
+        "display": "Atoms, Molecules, Mixtures and Compounds",
+        "sections": [
+          {
+            "name": "Review Questions",
+            "num": "5.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "Which of the following particles has a positive electric charge? (a) Proton (b) Neutron (c) Electron (d) Atom",
+                    "a": "(a) Proton — A proton has a positive electric charge; an electron has a negative charge and a neutron has no charge."
+                  }
+                ]
+              },
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "What is the chemical symbol for manganese (Manganese)? (a) Mn (b) Mo (c) Ma (d) Mg",
+                    "a": "(a) Mn — The chemical symbol of manganese is Mn; Mo is the symbol of molybdenum and Mg is the symbol of magnesium."
+                  }
+                ]
+              },
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "Write the name of the element with the chemical symbol Na.",
+                    "a": "Sodium."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol Al.",
+                    "a": "Aluminium."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol C.",
+                    "a": "Carbon."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol Cl.",
+                    "a": "Chlorine."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol O.",
+                    "a": "Oxygen."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol H.",
+                    "a": "Hydrogen."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol Ne.",
+                    "a": "Neon."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol F.",
+                    "a": "Fluorine."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol Ca.",
+                    "a": "Calcium."
+                  },
+                  {
+                    "q": "Write the name of the element with the chemical symbol N.",
+                    "a": "Nitrogen."
+                  }
+                ]
+              },
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "Give two main differences between a metal (Metal) and a non-metal (Non-Metal).",
+                    "a": "(1) Metals are generally good conductors of heat and electricity, while non-metals are poor conductors of heat and electricity. (2) Metals can be beaten into sheets or drawn into wires, while non-metals are brittle and soft and cannot be beaten into sheets or drawn into wires."
+                  },
+                  {
+                    "q": "Give two main differences between a mixture (Mixture) and a compound (Compound).",
+                    "a": "(1) In a mixture the substances do not combine chemically and their properties remain, while in a compound the elements combine chemically and the properties of the compound are quite different from those of the elements. (2) The components of a mixture can be separated easily, while the components of a compound can be separated only by a chemical method."
+                  },
+                  {
+                    "q": "Give two main differences between an atom (Atom) and a molecule (Molecule).",
+                    "a": "(1) An atom is the smallest particle of any element, while a molecule is formed by the combination of two or more atoms. (2) An atom can exist alone, while a molecule has at least two atoms."
+                  }
+                ]
+              },
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "(a) Which method would you use to separate a mixture of sugar and water into its separate components? Describe in detail.",
+                    "a": "The method of crystallization (Crystallization) is used. The mixture of sugar and water is heated so that the water evaporates; then crystals of sugar remain. Sugar cannot be separated from water by filtration because sugar dissolves in water."
+                  },
+                  {
+                    "q": "(b) Which method would you use to separate a solution of water and salt into its separate components? Describe in detail.",
+                    "a": "The method of crystallization is used. The solution of salt and water is heated so that the water evaporates and crystals of salt are obtained. If pure water is also needed, the method of distillation (Distillation) is used."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "5.2",
+            "exercises": [
+              {
+                "label": "Atoms and Molecules",
+                "items": [
+                  {
+                    "q": "What is an atom?",
+                    "a": "The smallest particle of any element in which all the properties of the element are present."
+                  },
+                  {
+                    "q": "Which fine particles are present inside an atom?",
+                    "a": "Electrons, protons and neutrons."
+                  },
+                  {
+                    "q": "Who prepared the model of the atom?",
+                    "a": "Rutherford was the first person who prepared the model of the atom; in it, electrons were shown revolving around the nucleus (Nucleus).",
+                    "da": {
+                      "type": "draw",
+                      "w": 300,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              262,
+                              135
+                            ],
+                            [
+                              259.2,
+                              143.9
+                            ],
+                            [
+                              250.9,
+                              152.4
+                            ],
+                            [
+                              237.6,
+                              159.9
+                            ],
+                            [
+                              219.8,
+                              166.3
+                            ],
+                            [
+                              198.6,
+                              171
+                            ],
+                            [
+                              174.9,
+                              174
+                            ],
+                            [
+                              150,
+                              175
+                            ],
+                            [
+                              125.1,
+                              174
+                            ],
+                            [
+                              101.4,
+                              171
+                            ],
+                            [
+                              80.2,
+                              166.3
+                            ],
+                            [
+                              62.4,
+                              159.9
+                            ],
+                            [
+                              49.1,
+                              152.4
+                            ],
+                            [
+                              40.8,
+                              143.9
+                            ],
+                            [
+                              38,
+                              135
+                            ],
+                            [
+                              40.8,
+                              126.1
+                            ],
+                            [
+                              49.1,
+                              117.6
+                            ],
+                            [
+                              62.4,
+                              110.1
+                            ],
+                            [
+                              80.2,
+                              103.7
+                            ],
+                            [
+                              101.4,
+                              99
+                            ],
+                            [
+                              125.1,
+                              96
+                            ],
+                            [
+                              150,
+                              95
+                            ],
+                            [
+                              174.9,
+                              96
+                            ],
+                            [
+                              198.6,
+                              99
+                            ],
+                            [
+                              219.8,
+                              103.7
+                            ],
+                            [
+                              237.6,
+                              110.1
+                            ],
+                            [
+                              250.9,
+                              117.6
+                            ],
+                            [
+                              259.2,
+                              126.1
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              206,
+                              232
+                            ],
+                            [
+                              196.9,
+                              234
+                            ],
+                            [
+                              185.4,
+                              231.1
+                            ],
+                            [
+                              172.2,
+                              223.3
+                            ],
+                            [
+                              157.8,
+                              211.1
+                            ],
+                            [
+                              143.1,
+                              195.1
+                            ],
+                            [
+                              128.7,
+                              176.1
+                            ],
+                            [
+                              115.4,
+                              155
+                            ],
+                            [
+                              103.8,
+                              132.9
+                            ],
+                            [
+                              94.5,
+                              110.9
+                            ],
+                            [
+                              88,
+                              90.2
+                            ],
+                            [
+                              84.6,
+                              71.6
+                            ],
+                            [
+                              84.5,
+                              56.3
+                            ],
+                            [
+                              87.7,
+                              44.9
+                            ],
+                            [
+                              94,
+                              38
+                            ],
+                            [
+                              103.1,
+                              36
+                            ],
+                            [
+                              114.6,
+                              38.9
+                            ],
+                            [
+                              127.8,
+                              46.7
+                            ],
+                            [
+                              142.2,
+                              58.9
+                            ],
+                            [
+                              156.9,
+                              74.9
+                            ],
+                            [
+                              171.3,
+                              93.9
+                            ],
+                            [
+                              184.6,
+                              115
+                            ],
+                            [
+                              196.2,
+                              137.1
+                            ],
+                            [
+                              205.5,
+                              159.1
+                            ],
+                            [
+                              212,
+                              179.8
+                            ],
+                            [
+                              215.4,
+                              198.4
+                            ],
+                            [
+                              215.5,
+                              213.7
+                            ],
+                            [
+                              212.3,
+                              225.1
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              206,
+                              38
+                            ],
+                            [
+                              212.3,
+                              44.9
+                            ],
+                            [
+                              215.5,
+                              56.3
+                            ],
+                            [
+                              215.4,
+                              71.6
+                            ],
+                            [
+                              212,
+                              90.2
+                            ],
+                            [
+                              205.5,
+                              110.9
+                            ],
+                            [
+                              196.2,
+                              132.9
+                            ],
+                            [
+                              184.6,
+                              155
+                            ],
+                            [
+                              171.3,
+                              176.1
+                            ],
+                            [
+                              156.9,
+                              195.1
+                            ],
+                            [
+                              142.2,
+                              211.1
+                            ],
+                            [
+                              127.8,
+                              223.3
+                            ],
+                            [
+                              114.6,
+                              231.1
+                            ],
+                            [
+                              103.1,
+                              234
+                            ],
+                            [
+                              94,
+                              232
+                            ],
+                            [
+                              87.7,
+                              225.1
+                            ],
+                            [
+                              84.5,
+                              213.7
+                            ],
+                            [
+                              84.6,
+                              198.4
+                            ],
+                            [
+                              88,
+                              179.8
+                            ],
+                            [
+                              94.5,
+                              159.1
+                            ],
+                            [
+                              103.8,
+                              137.1
+                            ],
+                            [
+                              115.4,
+                              115
+                            ],
+                            [
+                              128.7,
+                              93.9
+                            ],
+                            [
+                              143.1,
+                              74.9
+                            ],
+                            [
+                              157.8,
+                              58.9
+                            ],
+                            [
+                              172.2,
+                              46.7
+                            ],
+                            [
+                              185.4,
+                              38.9
+                            ],
+                            [
+                              196.9,
+                              36
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 150,
+                          "cy": 135,
+                          "r": 18
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 262,
+                          "cy": 135,
+                          "r": 6
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 84.2,
+                          "cy": 61,
+                          "r": 6
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 84.2,
+                          "cy": 209,
+                          "r": 6
+                        },
+                        {
+                          "t": "line",
+                          "x1": 88,
+                          "y1": 30,
+                          "x2": 140.8,
+                          "y2": 119.5
+                        },
+                        {
+                          "t": "text",
+                          "x": 92,
+                          "y": 26,
+                          "s": "Nucleus"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 238,
+                          "y1": 30,
+                          "x2": 260.7,
+                          "y2": 129.2
+                        },
+                        {
+                          "t": "text",
+                          "x": 242,
+                          "y": 26,
+                          "s": "Electron"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 238,
+                          "x2": 150,
+                          "y2": 153.5
+                        },
+                        {
+                          "t": "text",
+                          "x": 188,
+                          "y": 252,
+                          "s": "Protons and neutrons"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What is a molecule?",
+                    "a": "When two or more atoms join together, a molecule is formed."
+                  },
+                  {
+                    "q": "Which atoms is a water molecule made of?",
+                    "a": "Of two hydrogen atoms and one oxygen atom; its formula is H2O.",
+                    "da": {
+                      "type": "draw",
+                      "w": 300,
+                      "h": 240,
+                      "els": [
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115.5,
+                          "x2": 107.3,
+                          "y2": 146.9
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 115.5,
+                          "x2": 192.7,
+                          "y2": 146.9
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 150,
+                          "cy": 88,
+                          "r": 34
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 92,
+                          "cy": 168,
+                          "r": 26
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 208,
+                          "cy": 168,
+                          "r": 26
+                        },
+                        {
+                          "t": "text",
+                          "x": 154,
+                          "y": 95,
+                          "s": "O"
+                        },
+                        {
+                          "t": "text",
+                          "x": 96,
+                          "y": 175,
+                          "s": "H"
+                        },
+                        {
+                          "t": "text",
+                          "x": 212,
+                          "y": 175,
+                          "s": "H"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 102,
+                          "y1": 32,
+                          "x2": 127.9,
+                          "y2": 62.2
+                        },
+                        {
+                          "t": "text",
+                          "x": 108,
+                          "y": 28,
+                          "s": "Oxygen atom"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 196,
+                          "y1": 214,
+                          "x2": 202.4,
+                          "y2": 193.4
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 228,
+                          "s": "Hydrogen atom"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "How is an oxygen molecule formed?",
+                    "a": "Two oxygen atoms join together to form a molecule of O2.",
+                    "da": {
+                      "type": "draw",
+                      "w": 300,
+                      "h": 200,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 122,
+                          "cy": 110,
+                          "r": 30
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 178,
+                          "cy": 110,
+                          "r": 30
+                        },
+                        {
+                          "t": "line",
+                          "x1": 110,
+                          "y1": 36,
+                          "x2": 117.2,
+                          "y2": 80.4
+                        },
+                        {
+                          "t": "text",
+                          "x": 115,
+                          "y": 32,
+                          "s": "Oxygen atom"
+                        },
+                        {
+                          "t": "text",
+                          "x": 170,
+                          "y": 185,
+                          "s": "Oxygen molecule"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What is an element?",
+                    "a": "A pure substance made of only one kind of atoms and which cannot be divided into simpler substances."
+                  },
+                  {
+                    "q": "How many elements have been discovered so far?",
+                    "a": "About 120 elements have been discovered."
+                  },
+                  {
+                    "q": "What is the chemical symbol of hydrogen?",
+                    "a": "H."
+                  },
+                  {
+                    "q": "What is the chemical symbol of iron?",
+                    "a": "Fe."
+                  },
+                  {
+                    "q": "What is the basic difference between a metal and a non-metal?",
+                    "a": "Metals are good conductors of heat and electricity, shiny and strong; non-metals are generally poor conductors of heat and electricity and soft or brittle."
+                  }
+                ]
+              },
+              {
+                "label": "Compounds and Mixtures",
+                "items": [
+                  {
+                    "q": "What is a compound?",
+                    "a": "When two or more elements combine chemically in a fixed proportion, a compound is formed."
+                  },
+                  {
+                    "q": "What is the chemical formula of common salt?",
+                    "a": "NaCl."
+                  },
+                  {
+                    "q": "What is the chemical formula of washing soda?",
+                    "a": "Na2CO3."
+                  },
+                  {
+                    "q": "What is a mixture?",
+                    "a": "When two or more substances do not combine chemically but are mixed physically, a mixture is formed."
+                  },
+                  {
+                    "q": "Air is an example of what?",
+                    "a": "Air is a mixture of gases; it has nitrogen 78%, oxygen 21%, other gases 0.9% and carbon dioxide 0.037%."
+                  },
+                  {
+                    "q": "Give one difference between a mixture and a compound.",
+                    "a": "The components of a mixture can be separated easily; the components of a compound can be separated only by a chemical method."
+                  },
+                  {
+                    "q": "Where is the method of filtration used?",
+                    "a": "When an undissolved solid has to be separated from a mixture, such as separating sand from a mixture of sand and water."
+                  },
+                  {
+                    "q": "Where is the method of crystallization used?",
+                    "a": "When crystals of a pure solid have to be obtained from a solution, such as crystals of salt from a solution of salt and water."
+                  },
+                  {
+                    "q": "Where is the method of distillation used?",
+                    "a": "When a pure liquid has to be obtained from a mixture, such as obtaining pure water (distilled water) from sea water."
+                  },
+                  {
+                    "q": "Give an example of sublimation.",
+                    "a": "Camphor and iodine are such substances which on heating change directly from the solid state into the vapour state."
+                  },
+                  {
+                    "q": "What are the sources of carbon dioxide?",
+                    "a": "The burning of fossil fuels (coal, oil, gas), the respiration of living things and the smoke from motor vehicles."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Atom",
+            "sd": "ڪنهن به عنصر جو ننڍو ذرو",
+            "syn": "the smallest particle of an element"
+          },
+          {
+            "w": "Molecule",
+            "sd": "ٻن يا وڌيڪ ائٽمن جو ميلاپ",
+            "syn": "two or more atoms joined together"
+          },
+          {
+            "w": "Element",
+            "sd": "هڪ ئي قسم جي ائٽمن مان ٺهيل خالص مادو",
+            "syn": "a pure substance made of only one kind of atoms"
+          },
+          {
+            "w": "Compound",
+            "sd": "ٻن يا وڌيڪ عنصرن جو ڪيميائي ميلاپ",
+            "syn": "a substance formed by the chemical combination of two or more elements"
+          },
+          {
+            "w": "Mixture",
+            "sd": "ٻن يا وڌيڪ شين جو جسماني ميلاپ",
+            "syn": "two or more substances mixed physically, not chemically"
+          },
+          {
+            "w": "Electron",
+            "sd": "ائٽم جي اندر منفي چارج وارو ذرو",
+            "syn": "a negatively charged particle inside an atom"
+          },
+          {
+            "w": "Proton",
+            "sd": "ائٽم جي اندر مثبت چارج وارو ذرو",
+            "syn": "a positively charged particle inside an atom"
+          },
+          {
+            "w": "Neutron",
+            "sd": "ائٽم جي اندر بنا چارج وارو ذرو",
+            "syn": "a particle inside an atom with no charge"
+          },
+          {
+            "w": "Metal",
+            "sd": "گرمي ۽ بجليءَ جو سٺو موصل، جهڙوڪ لوهه",
+            "syn": "a good conductor of heat and electricity, such as iron"
+          },
+          {
+            "w": "Non-metal",
+            "sd": "گرمي ۽ بجليءَ جو خراب موصل، جهڙوڪ ڪوئلو",
+            "syn": "a poor conductor of heat and electricity, such as coal"
+          },
+          {
+            "w": "Symbol",
+            "sd": "عنصر جي مختصر علامت",
+            "syn": "the short sign used for an element"
+          },
+          {
+            "w": "Filtration",
+            "sd": "فلٽر پيپر سان ٺوس شيءِ کي الڳ ڪرڻ جو طريقو",
+            "syn": "separating an undissolved solid from a liquid with filter paper"
+          },
+          {
+            "w": "Crystallization",
+            "sd": "محلول مان قلم حاصل ڪرڻ جو طريقو",
+            "syn": "getting crystals of a pure solid from a solution"
+          },
+          {
+            "w": "Distillation",
+            "sd": "بخارات کي ٿڌو ڪري خالص پاٽياٺو شيءِ حاصل ڪرڻ جو طريقو",
+            "syn": "getting a pure liquid by cooling its vapour"
+          },
+          {
+            "w": "Sublimation",
+            "sd": "ٺوس شيءِ جو سڌو بخارات ۾ تبديل ٿيڻ",
+            "syn": "the direct change of a solid into vapour"
+          },
+          {
+            "w": "Chromatography",
+            "sd": "رنگين شين کي الڳ ڪرڻ جو طريقو",
+            "syn": "a method of separating coloured substances"
+          },
+          {
+            "w": "Green House Effect",
+            "sd": "ڪاربان ڊاءِ آڪسائيڊ جو گرمي کي روڪي زمين کي گرم رکڻ",
+            "syn": "the warming of the earth by carbon dioxide trapping heat"
+          },
+          {
+            "w": "Fossil fuels",
+            "sd": "ڪوئلو، تيل ۽ گئس جهڙا ٻارڻ",
+            "syn": "fuels such as coal, oil and gas"
+          }
+        ]
+      },
+      {
+        "unit": 6,
+        "title": "Air",
+        "display": "Air",
+        "sections": [
+          {
+            "name": "Review Questions",
+            "num": "6.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "There are many gases present in the air. Of all these gases, which gas is present in the largest amount? (a) Nitrogen (b) Oxygen (c) Carbon dioxide (d) Hydrogen",
+                    "a": "(a) Nitrogen — The amount of nitrogen in the air is the largest, about 78%.",
+                    "da": {
+                      "type": "draw",
+                      "w": 300,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 22,
+                          "s": "Composition of air"
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 150,
+                          "cy": 140,
+                          "r": 70
+                        },
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 140,
+                          "x2": 150,
+                          "y2": 70
+                        },
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 140,
+                          "x2": 81.2,
+                          "y2": 126.9
+                        },
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 140,
+                          "x2": 145.6,
+                          "y2": 70.1
+                        },
+                        {
+                          "t": "text",
+                          "x": 195,
+                          "y": 168,
+                          "s": "Nitrogen"
+                        },
+                        {
+                          "t": "text",
+                          "x": 185,
+                          "y": 186,
+                          "s": "78%"
+                        },
+                        {
+                          "t": "text",
+                          "x": 140,
+                          "y": 106,
+                          "s": "Oxygen"
+                        },
+                        {
+                          "t": "text",
+                          "x": 135,
+                          "y": 124,
+                          "s": "21%"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 148,
+                          "y1": 70,
+                          "x2": 210,
+                          "y2": 38
+                        },
+                        {
+                          "t": "text",
+                          "x": 230,
+                          "y": 34,
+                          "s": "Other gases"
+                        },
+                        {
+                          "t": "text",
+                          "x": 230,
+                          "y": 52,
+                          "s": "1%"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "What percentage of oxygen is present in the air? (a) 90% (b) 50% (c) 21% (d) 1%",
+                    "a": "(c) 21% — The amount of oxygen in the air is about 21%."
+                  }
+                ]
+              },
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "Which gas stops the excess heat coming from the sun? (a) Nitrogen (b) Oxygen (c) Ozone (d) Carbon dioxide",
+                    "a": "(c) Ozone — Ozone in the air protects us from the ultraviolet rays coming from the sun."
+                  }
+                ]
+              },
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "What happens when oil burns? (a) Carbon dioxide and energy are given out. (b) Carbon dioxide and energy are absorbed. (c) Carbon dioxide and energy are neither given out nor absorbed. (d) Carbon dioxide and energy are sometimes given out and sometimes absorbed.",
+                    "a": "(a) Carbon dioxide and energy are given out — Burning oil produces carbon dioxide, water and energy."
+                  }
+                ]
+              },
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "Give two main uses of oxygen.",
+                    "a": "(1) It is necessary for breathing — all living things use oxygen for breathing. (2) It is necessary for the burning of things — no thing can burn without oxygen."
+                  },
+                  {
+                    "q": "Give two main uses of carbon dioxide.",
+                    "a": "(1) Plants use carbon dioxide in photosynthesis to prepare food. (2) Carbon dioxide is a greenhouse gas — it helps in maintaining the temperature of the earth."
+                  },
+                  {
+                    "q": "Give two main uses of nitrogen.",
+                    "a": "(1) Plants make nitrates from nitrogen and prepare proteins, which are necessary for the growth of living things. (2) Nitrogen is an inactive gas and is present in the air in the largest amount (78%)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "6.2",
+            "exercises": [
+              {
+                "label": "Composition and Importance of Air",
+                "items": [
+                  {
+                    "q": "What is air?",
+                    "a": "Air is a mixture of different gases present around the earth."
+                  },
+                  {
+                    "q": "Up to what height is air present around the earth?",
+                    "a": "Air is present around the earth up to a height of about 480 kilometres."
+                  },
+                  {
+                    "q": "What is the atmosphere?",
+                    "a": "The region of air around the earth is called the atmosphere (Atmosphere)."
+                  },
+                  {
+                    "q": "Which gases are present in the air?",
+                    "a": "Nitrogen, oxygen, argon, carbon dioxide and other gases."
+                  },
+                  {
+                    "q": "What is the amount of nitrogen in the air?",
+                    "a": "About 78%."
+                  },
+                  {
+                    "q": "What is the amount of oxygen in the air?",
+                    "a": "About 21%."
+                  },
+                  {
+                    "q": "What is the amount of carbon dioxide in the air?",
+                    "a": "About 0.04%."
+                  },
+                  {
+                    "q": "What is the amount of water vapour in the air?",
+                    "a": "It is from 0 to 2%."
+                  },
+                  {
+                    "q": "Why is air necessary for life?",
+                    "a": "No living thing can live without air; living things use oxygen for breathing and plants use carbon dioxide for photosynthesis.",
+                    "da": {
+                      "type": "draw",
+                      "w": 300,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "text",
+                          "x": 110,
+                          "y": 25,
+                          "s": "Day"
+                        },
+                        {
+                          "t": "text",
+                          "x": 275,
+                          "y": 25,
+                          "s": "Night"
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 50,
+                          "cy": 55,
+                          "r": 16
+                        },
+                        {
+                          "t": "line",
+                          "x1": 50,
+                          "y1": 32,
+                          "x2": 50,
+                          "y2": 24
+                        },
+                        {
+                          "t": "line",
+                          "x1": 50,
+                          "y1": 78,
+                          "x2": 50,
+                          "y2": 86
+                        },
+                        {
+                          "t": "line",
+                          "x1": 27,
+                          "y1": 55,
+                          "x2": 19,
+                          "y2": 55
+                        },
+                        {
+                          "t": "line",
+                          "x1": 73,
+                          "y1": 55,
+                          "x2": 81,
+                          "y2": 55
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 252,
+                          "cy": 55,
+                          "r": 14
+                        },
+                        {
+                          "t": "line",
+                          "x1": 20,
+                          "y1": 210,
+                          "x2": 280,
+                          "y2": 210
+                        },
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 210,
+                          "x2": 150,
+                          "y2": 135
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 150,
+                          "cy": 105,
+                          "r": 35
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 122,
+                          "cy": 128,
+                          "r": 20
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 178,
+                          "cy": 128,
+                          "r": 20
+                        },
+                        {
+                          "t": "line",
+                          "x1": 40,
+                          "y1": 165,
+                          "x2": 100,
+                          "y2": 148
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              100,
+                              148
+                            ],
+                            [
+                              92,
+                              156
+                            ],
+                            [
+                              89,
+                              146
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 70,
+                          "y": 138,
+                          "s": "CO2"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 120,
+                          "y1": 105,
+                          "x2": 68,
+                          "y2": 78
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              68,
+                              78
+                            ],
+                            [
+                              79,
+                              78
+                            ],
+                            [
+                              75,
+                              87
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 90,
+                          "y": 70,
+                          "s": "O2"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 185,
+                          "y1": 140,
+                          "x2": 240,
+                          "y2": 155
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              240,
+                              155
+                            ],
+                            [
+                              229,
+                              157
+                            ],
+                            [
+                              232,
+                              148
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 255,
+                          "y": 150,
+                          "s": "CO2"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What is moving air called and what is its benefit?",
+                    "a": "Moving air is called wind (Wind); it has force and energy, by which windmills run and seeds spread."
+                  },
+                  {
+                    "q": "Where is compressed air used?",
+                    "a": "It is used in machines, such as the dentist's machine and in filling air in tyres."
+                  }
+                ]
+              },
+              {
+                "label": "Gases of Air and Their Uses",
+                "items": [
+                  {
+                    "q": "Who discovered oxygen?",
+                    "a": "Joseph Priestley discovered oxygen in 1774."
+                  },
+                  {
+                    "q": "Write the equation of the respiration process.",
+                    "a": "Sugar + Oxygen → Carbon dioxide + Water + Energy."
+                  },
+                  {
+                    "q": "Write the equation of the burning process.",
+                    "a": "Wax + Oxygen → Carbon dioxide + Water + Energy."
+                  },
+                  {
+                    "q": "What is the function of ozone?",
+                    "a": "Ozone protects us from the ultraviolet rays coming from the sun."
+                  },
+                  {
+                    "q": "Why was nitrogen called azote?",
+                    "a": "Because the meaning of azote is \"without life\"; nitrogen is an inactive gas."
+                  },
+                  {
+                    "q": "What is the nitrogen cycle?",
+                    "a": "The process by which the nitrogen gas of the atmosphere changes into plants and animals and returns again into the atmosphere.",
+                    "da": {
+                      "type": "draw",
+                      "w": 300,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              55,
+                              12
+                            ],
+                            [
+                              245,
+                              12
+                            ],
+                            [
+                              245,
+                              42
+                            ],
+                            [
+                              55,
+                              42
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 34,
+                          "s": "Atmospheric nitrogen"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              185,
+                              100
+                            ],
+                            [
+                              250,
+                              100
+                            ],
+                            [
+                              250,
+                              130
+                            ],
+                            [
+                              185,
+                              130
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 244,
+                          "y": 120,
+                          "s": "Nitrates"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              95,
+                              218
+                            ],
+                            [
+                              210,
+                              218
+                            ],
+                            [
+                              210,
+                              248
+                            ],
+                            [
+                              95,
+                              248
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 238,
+                          "s": "Plants and animals"
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              5,
+                              95
+                            ],
+                            [
+                              100,
+                              95
+                            ],
+                            [
+                              100,
+                              140
+                            ],
+                            [
+                              5,
+                              140
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 95,
+                          "y": 114,
+                          "s": "Ammonium"
+                        },
+                        {
+                          "t": "text",
+                          "x": 95,
+                          "y": 134,
+                          "s": "Nitrites"
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 62,
+                          "s": "Nitrogen fixing"
+                        },
+                        {
+                          "t": "text",
+                          "x": 170,
+                          "y": 78,
+                          "s": "Bacteria"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 200,
+                          "y1": 42,
+                          "x2": 220,
+                          "y2": 99
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              220,
+                              99
+                            ],
+                            [
+                              212,
+                              91
+                            ],
+                            [
+                              221,
+                              88
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 215,
+                          "y1": 130,
+                          "x2": 202,
+                          "y2": 218
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              202,
+                              218
+                            ],
+                            [
+                              199,
+                              207
+                            ],
+                            [
+                              208,
+                              209
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 95,
+                          "y1": 233,
+                          "x2": 58,
+                          "y2": 141
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              58,
+                              141
+                            ],
+                            [
+                              66,
+                              148
+                            ],
+                            [
+                              57,
+                              152
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 55,
+                          "y1": 95,
+                          "x2": 107,
+                          "y2": 43
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              107,
+                              43
+                            ],
+                            [
+                              103,
+                              54
+                            ],
+                            [
+                              96,
+                              47
+                            ]
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What is nitrogen fixing?",
+                    "a": "The process by which nitrogen-fixing bacteria present in the roots of plants change the nitrogen gas of the air into nitrates."
+                  },
+                  {
+                    "q": "In the roots of which plants are nitrogen-fixing bacteria present?",
+                    "a": "In the roots of leguminous plants, such as gram and peas."
+                  },
+                  {
+                    "q": "What are the sources of carbon dioxide?",
+                    "a": "The burning of fossil fuels and the respiration of living things."
+                  },
+                  {
+                    "q": "What is a greenhouse gas?",
+                    "a": "Carbon dioxide is a greenhouse gas; it absorbs the heat given out from the earth, by which the temperature of the earth is maintained."
+                  },
+                  {
+                    "q": "What harm is caused by an increase in the amount of carbon dioxide in the air?",
+                    "a": "An increase in the amount of carbon dioxide in the air increases global warming (Global warming)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Air",
+            "sd": "زمين جي چوڌاري گئسن جي ملاوٽ",
+            "syn": "a mixture of gases around the earth"
+          },
+          {
+            "w": "Atmosphere",
+            "sd": "زمين جي چوڌاري هوا جو خطو",
+            "syn": "the region of air around the earth"
+          },
+          {
+            "w": "Oxygen",
+            "sd": "ساهه کڻڻ ۽ ٻرڻ لاءِ ضروري گئس",
+            "syn": "the gas needed for breathing and burning"
+          },
+          {
+            "w": "Nitrogen",
+            "sd": "هوا ۾ سڀ کان وڌيڪ مقدار ۾ موجود گئس",
+            "syn": "the gas present in air in the largest amount"
+          },
+          {
+            "w": "Carbon dioxide",
+            "sd": "ٻوٽن جي روشنائي ترڪيب لاءِ ضروري گئس",
+            "syn": "the gas needed by plants for photosynthesis"
+          },
+          {
+            "w": "Ozone",
+            "sd": "الٽرا وايوليٽ شعاعن کان بچائيندڙ گئس",
+            "syn": "the gas that protects us from ultraviolet rays"
+          },
+          {
+            "w": "Respiration",
+            "sd": "آڪسيجن وٺڻ ۽ ڪاربان ڊاءِ آڪسائيڊ خارج ڪرڻ جو عمل",
+            "syn": "taking in oxygen and giving out carbon dioxide"
+          },
+          {
+            "w": "Photosynthesis",
+            "sd": "ٻوٽن جو روشنيءَ سان خوراڪ تيار ڪرڻ جو عمل",
+            "syn": "the process by which plants prepare food using light"
+          },
+          {
+            "w": "Combustion",
+            "sd": "آڪسيجن سان شين جو سڙڻ وارو عمل",
+            "syn": "the process of burning things in oxygen"
+          },
+          {
+            "w": "Nitrogen Cycle",
+            "sd": "نائٽروجن جو ماحول ۽ جاندارن وچ ۾ گردش ڪرڻ",
+            "syn": "the circulation of nitrogen between the atmosphere and living things"
+          },
+          {
+            "w": "Nitrogen Fixing",
+            "sd": "هوا جي نائٽروجن کي نائٽريٽس ۾ تبديل ڪرڻ",
+            "syn": "changing the nitrogen of the air into nitrates"
+          },
+          {
+            "w": "Nitrates",
+            "sd": "نائٽروجن جا مرڪب جيڪي ٻوٽا استعمال ڪندا آهن",
+            "syn": "compounds of nitrogen used by plants"
+          },
+          {
+            "w": "Proteins",
+            "sd": "جاندارن جي واڌ ويجهه لاءِ ضروري مادو",
+            "syn": "substances needed for the growth of living things"
+          },
+          {
+            "w": "Green House Gas",
+            "sd": "گرمي کي روڪي زمين کي گرم رکندڙ گئس",
+            "syn": "a gas that traps heat and keeps the earth warm"
+          },
+          {
+            "w": "Global Warming",
+            "sd": "زمين جي گرمي پد ۾ واڌ",
+            "syn": "the rise in the temperature of the earth"
+          },
+          {
+            "w": "Wind",
+            "sd": "هلندڙ هوا",
+            "syn": "moving air"
+          },
+          {
+            "w": "Compressed Air",
+            "sd": "دٻاءَ سان ڀريل هوا",
+            "syn": "air filled under pressure"
+          },
+          {
+            "w": "Water Vapour",
+            "sd": "هوا ۾ موجود پاڻيءَ جا بخارات",
+            "syn": "water vapour present in the air"
+          }
+        ]
+      },
+      {
+        "unit": 7,
+        "title": "Solutions and Suspensions",
+        "display": "Solutions and Suspensions",
+        "sections": [
+          {
+            "name": "Circle the correct answer",
+            "num": "7.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "When a substance dissolves in a liquid and no new substance is formed, what are these substances called? (a) Solute (b) Solution (c) Compound",
+                    "a": "(b) Solution — When a substance dissolves in a liquid and no new substance is formed, the substances are called a solution."
+                  },
+                  {
+                    "q": "The name of the substance that dissolves is: (a) Solvent (b) Solution (c) Solute",
+                    "a": "(c) Solute — The component of a solution that dissolves is called the solute."
+                  },
+                  {
+                    "q": "The substance in which a substance dissolves is called: (a) Solvent (b) Solution (c) Solute",
+                    "a": "(a) Solvent — The component of a solution in which the solute dissolves is called the solvent."
+                  },
+                  {
+                    "q": "An example of a solution is: (a) Cement and water (b) Sugar and water (c) Sand and water",
+                    "a": "(b) Sugar and water — Sugar dissolves in water and a solution is formed."
+                  },
+                  {
+                    "q": "What is the property of a suspension that makes it different from a solution? (a) A suspension is colourless. (b) A suspension is transparent. (c) A suspension contains suspended particles.",
+                    "a": "(c) A suspension contains suspended particles."
+                  },
+                  {
+                    "q": "A solution in which no more solute can dissolve at room temperature is called: (a) A weak solution (b) A saturated solution (c) A concentrated solution",
+                    "a": "(b) A saturated solution — A solution in which no more solute can dissolve at a given temperature is called a saturated solution."
+                  },
+                  {
+                    "q": "The solubility of a solute increases: (a) As the solution cools. (b) As the solution is heated. (c) If the solution is at room temperature.",
+                    "a": "(b) As the solution is heated — Solubility increases as the temperature rises."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Give short answers to the following questions",
+            "num": "7.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Give the difference and one example of each: (i) Solution and suspension.",
+                    "a": "Solution: a homogeneous mixture; its components are not visible and it is transparent; example: sugar and water. Suspension: a heterogeneous mixture; the solute particles are large and remain suspended in the solvent, and it is translucent or opaque; example: sand and water."
+                  },
+                  {
+                    "q": "(ii) Saturated and unsaturated solution.",
+                    "a": "Saturated solution: a solution in which no more solute can dissolve at a given temperature; example: dissolving so much salt in water that no more salt dissolves. Unsaturated solution: a solution in which more solute can dissolve at a given temperature; example: a solution with a little salt dissolved in water."
+                  },
+                  {
+                    "q": "(iii) Concentrated and dilute solution.",
+                    "a": "Concentrated solution: one in which the amount of solute is greater than that of the solvent; example: 4 spoonfuls of salt in water. Dilute solution: one in which the amount of solute is less than that of the solvent; example: 1 spoonful of salt in water."
+                  },
+                  {
+                    "q": "How are solutions formed? Explain with the particle model.",
+                    "a": "When a solute is mixed with a solvent, the particles of both spread evenly through each other and a homogeneous mixture is formed. The solute particles spread between the particles of the solvent, so the solution looks clear and transparent; for example, salt particles spread among water particles to form a salt solution.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 230,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              35,
+                              170
+                            ],
+                            [
+                              70,
+                              118
+                            ],
+                            [
+                              105,
+                              170
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "point",
+                          "x": 55,
+                          "y": 155,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 70,
+                          "y": 145,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 85,
+                          "y": 155,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 62,
+                          "y": 168,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 78,
+                          "y": 168,
+                          "label": ""
+                        },
+                        {
+                          "t": "text",
+                          "x": 122,
+                          "y": 150,
+                          "s": "+"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 80,
+                          "x2": 135,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 180,
+                          "x2": 205,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 205,
+                          "y1": 80,
+                          "x2": 205,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 115,
+                          "x2": 205,
+                          "y2": 115
+                        },
+                        {
+                          "t": "point",
+                          "x": 150,
+                          "y": 135,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 170,
+                          "y": 150,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 190,
+                          "y": 135,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 160,
+                          "y": 165,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 185,
+                          "y": 165,
+                          "label": ""
+                        },
+                        {
+                          "t": "line",
+                          "x1": 212,
+                          "y1": 140,
+                          "x2": 248,
+                          "y2": 140
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              258,
+                              140
+                            ],
+                            [
+                              248,
+                              134
+                            ],
+                            [
+                              248,
+                              146
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 258,
+                          "y1": 80,
+                          "x2": 258,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 258,
+                          "y1": 180,
+                          "x2": 332,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 332,
+                          "y1": 80,
+                          "x2": 332,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 258,
+                          "y1": 115,
+                          "x2": 332,
+                          "y2": 115
+                        },
+                        {
+                          "t": "point",
+                          "x": 270,
+                          "y": 130,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 290,
+                          "y": 145,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 312,
+                          "y": 130,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 280,
+                          "y": 160,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 305,
+                          "y": 165,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 320,
+                          "y": 150,
+                          "label": ""
+                        },
+                        {
+                          "t": "text",
+                          "x": 100,
+                          "y": 205,
+                          "s": "Solute"
+                        },
+                        {
+                          "t": "text",
+                          "x": 205,
+                          "y": 205,
+                          "s": "Solvent"
+                        },
+                        {
+                          "t": "text",
+                          "x": 319,
+                          "y": 205,
+                          "s": "Solution"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "7.3",
+            "exercises": [
+              {
+                "label": "Solutions and Their Components",
+                "items": [
+                  {
+                    "q": "What is a solution?",
+                    "a": "A solution is a mixture in which two components are spread evenly through each other."
+                  },
+                  {
+                    "q": "What are the two components of a solution?",
+                    "a": "Solute and solvent."
+                  },
+                  {
+                    "q": "What is a solute?",
+                    "a": "The component of a solution that dissolves, such as sugar."
+                  },
+                  {
+                    "q": "What is a solvent?",
+                    "a": "The component of a solution in which the solute dissolves, such as water."
+                  },
+                  {
+                    "q": "What does a solution always look like?",
+                    "a": "Transparent."
+                  },
+                  {
+                    "q": "What is an aqueous solution?",
+                    "a": "A solution in which the solvent is water.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              12,
+                              47
+                            ],
+                            [
+                              56,
+                              47
+                            ],
+                            [
+                              50,
+                              83
+                            ],
+                            [
+                              18,
+                              83
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 16,
+                          "y1": 60,
+                          "x2": 52,
+                          "y2": 60
+                        },
+                        {
+                          "t": "point",
+                          "x": 24,
+                          "y": 75,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 36,
+                          "y": 78,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 44,
+                          "y": 74,
+                          "label": ""
+                        },
+                        {
+                          "t": "text",
+                          "x": 263,
+                          "y": 68,
+                          "s": "Salt and water"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 184,
+                          "y1": 65,
+                          "x2": 54,
+                          "y2": 64
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              12,
+                              117
+                            ],
+                            [
+                              56,
+                              117
+                            ],
+                            [
+                              50,
+                              153
+                            ],
+                            [
+                              18,
+                              153
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 16,
+                          "y1": 130,
+                          "x2": 52,
+                          "y2": 130
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 34,
+                          "cy": 112,
+                          "r": 9
+                        },
+                        {
+                          "t": "text",
+                          "x": 249,
+                          "y": 138,
+                          "s": "Lemon and water"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 156,
+                          "y1": 135,
+                          "x2": 54,
+                          "y2": 134
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              12,
+                              187
+                            ],
+                            [
+                              56,
+                              187
+                            ],
+                            [
+                              50,
+                              223
+                            ],
+                            [
+                              18,
+                              223
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 16,
+                          "y1": 200,
+                          "x2": 52,
+                          "y2": 200
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 29,
+                          "cy": 214,
+                          "r": 3
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 42,
+                          "cy": 206,
+                          "r": 3
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 34,
+                          "cy": 196,
+                          "r": 3
+                        },
+                        {
+                          "t": "point",
+                          "x": 24,
+                          "y": 200,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 44,
+                          "y": 216,
+                          "label": ""
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 200,
+                          "s": "Carbon dioxide"
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 220,
+                          "s": "and water"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Why is water called the universal solvent?",
+                    "a": "Because most substances dissolve in water."
+                  },
+                  {
+                    "q": "Which is the solute in a carbon dioxide solution?",
+                    "a": "Carbon dioxide gas."
+                  },
+                  {
+                    "q": "Which is the solvent in a salt and water solution?",
+                    "a": "Water."
+                  },
+                  {
+                    "q": "Do the components of a solution keep their own properties?",
+                    "a": "Yes, and they can be separated by physical methods."
+                  }
+                ]
+              },
+              {
+                "label": "Concentrated, Dilute, Saturated and Unsaturated Solutions",
+                "items": [
+                  {
+                    "q": "What is a concentrated solution?",
+                    "a": "One in which the amount of solute is greater than that of the solvent."
+                  },
+                  {
+                    "q": "What is a dilute solution?",
+                    "a": "One in which the amount of solute is less than that of the solvent."
+                  },
+                  {
+                    "q": "What is a saturated solution?",
+                    "a": "One in which no more solute can dissolve at a given temperature."
+                  },
+                  {
+                    "q": "What is an unsaturated solution?",
+                    "a": "One in which more solute can dissolve at a given temperature."
+                  },
+                  {
+                    "q": "What is solubility?",
+                    "a": "Solubility is the maximum amount of solute that can dissolve in 100 grams of water at a particular temperature."
+                  },
+                  {
+                    "q": "Which two factors affect solubility?",
+                    "a": "The type of solute and the temperature of the solvent."
+                  },
+                  {
+                    "q": "Why does sugar dissolve more in hot water than in cold water?",
+                    "a": "Because solubility increases as the temperature rises."
+                  }
+                ]
+              },
+              {
+                "label": "Suspensions and Everyday Uses",
+                "items": [
+                  {
+                    "q": "What is a suspension?",
+                    "a": "A mixture in which the solute particles are large and remain suspended in the solvent."
+                  },
+                  {
+                    "q": "Sand and water is an example of which mixture?",
+                    "a": "A suspension."
+                  },
+                  {
+                    "q": "What is the main difference between a solution and a suspension?",
+                    "a": "A solution is homogeneous and transparent, while a suspension is heterogeneous and translucent or opaque.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 230,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              60,
+                              70
+                            ],
+                            [
+                              130,
+                              70
+                            ],
+                            [
+                              124,
+                              170
+                            ],
+                            [
+                              66,
+                              170
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 66,
+                          "y1": 100,
+                          "x2": 124,
+                          "y2": 100
+                        },
+                        {
+                          "t": "point",
+                          "x": 80,
+                          "y": 120,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 100,
+                          "y": 135,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 115,
+                          "y": 115,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 90,
+                          "y": 150,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 110,
+                          "y": 155,
+                          "label": ""
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              210,
+                              70
+                            ],
+                            [
+                              280,
+                              70
+                            ],
+                            [
+                              274,
+                              170
+                            ],
+                            [
+                              216,
+                              170
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 216,
+                          "y1": 100,
+                          "x2": 274,
+                          "y2": 100
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 228,
+                          "cy": 160,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 248,
+                          "cy": 165,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 264,
+                          "cy": 158,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 232,
+                          "cy": 125,
+                          "r": 3
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 256,
+                          "cy": 140,
+                          "r": 3
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 242,
+                          "cy": 115,
+                          "r": 3
+                        },
+                        {
+                          "t": "text",
+                          "x": 140,
+                          "y": 198,
+                          "s": "Solution — Transparent"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 95,
+                          "y1": 193,
+                          "x2": 95,
+                          "y2": 170
+                        },
+                        {
+                          "t": "text",
+                          "x": 140,
+                          "y": 220,
+                          "s": "Homogeneous"
+                        },
+                        {
+                          "t": "text",
+                          "x": 291,
+                          "y": 198,
+                          "s": "Suspension"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 240,
+                          "y1": 195,
+                          "x2": 245,
+                          "y2": 170
+                        },
+                        {
+                          "t": "text",
+                          "x": 256,
+                          "y": 220,
+                          "s": "Heterogeneous"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Calamine lotion is an example of which mixture?",
+                    "a": "A suspension."
+                  },
+                  {
+                    "q": "In what form do plants take nutrients from the soil?",
+                    "a": "In the form of a solution."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Solution",
+            "sd": "ٻن يا وڌيڪ شين جي هڪجهڙي آميزش",
+            "syn": "a uniform mixture of two or more substances"
+          },
+          {
+            "w": "Solute",
+            "sd": "ڳار جو اهو جزو جيڪو گھلجي وڃي ٿو",
+            "syn": "the part of a solution that dissolves"
+          },
+          {
+            "w": "Solvent",
+            "sd": "ڳار جو اهو جزو جنهن ۾ گھلجندڙ گھلجي ٿو",
+            "syn": "the part of a solution in which the solute dissolves"
+          },
+          {
+            "w": "Suspension",
+            "sd": "اها آميزش جنهن ۾ ذرڙا معلق رهن ٿا",
+            "syn": "a mixture in which particles remain suspended"
+          },
+          {
+            "w": "Solubility",
+            "sd": "گھلجندڙ جي گھلجڻ جي وڌ ۾ وڌ مقدار",
+            "syn": "the maximum amount of solute that can dissolve"
+          },
+          {
+            "w": "Saturated",
+            "sd": "جنهن ۾ وڌيڪ گھلجندڙ نه گھلجي سگهي",
+            "syn": "holding as much solute as it can at a given temperature"
+          },
+          {
+            "w": "Unsaturated",
+            "sd": "جنهن ۾ وڌيڪ گھلجندڙ گھلجي سگهي",
+            "syn": "able to dissolve more solute at a given temperature"
+          },
+          {
+            "w": "Concentrated",
+            "sd": "جنهن ۾ گھلجندڙ جي مقدار وڌيڪ هجي",
+            "syn": "containing a large amount of solute"
+          },
+          {
+            "w": "Dilute",
+            "sd": "جنهن ۾ گھلجندڙ جي مقدار گھٽ هجي",
+            "syn": "containing a small amount of solute"
+          },
+          {
+            "w": "Mixture",
+            "sd": "ٻن يا وڌيڪ شين جو ملاپ",
+            "syn": "a combination of two or more substances"
+          },
+          {
+            "w": "Homogeneous",
+            "sd": "جنهن جا سڀ حصا هڪجهڙا هجن",
+            "syn": "having the same composition throughout"
+          },
+          {
+            "w": "Heterogeneous",
+            "sd": "جنهن جا حصا هڪجهڙا نه هجن",
+            "syn": "not having the same composition throughout"
+          },
+          {
+            "w": "Suspended",
+            "sd": "مائع ۾ لٽڪيل يا ترندڙ",
+            "syn": "floating in a liquid"
+          },
+          {
+            "w": "Aqueous",
+            "sd": "پاڻي سان واسطو رکندڙ",
+            "syn": "relating to water; with water as the solvent"
+          },
+          {
+            "w": "Universal",
+            "sd": "سڀني هنڌن تي ڪم ايندڙ",
+            "syn": "working everywhere; applying to all cases"
+          },
+          {
+            "w": "Transparent",
+            "sd": "جنهن مان آر پار ڏسي سگهجي",
+            "syn": "letting light pass so things can be seen through it"
+          },
+          {
+            "w": "Particle",
+            "sd": "مادي جو ننڍڙو کان ننڍڙو حصو",
+            "syn": "the smallest part of matter"
+          },
+          {
+            "w": "Temperature",
+            "sd": "گرمي يا ٿڌ جي ماپ",
+            "syn": "a measure of how hot or cold something is"
+          },
+          {
+            "w": "Concentration",
+            "sd": "ڳار ۾ گھلجندڙ جي مقدار",
+            "syn": "the amount of solute in a solution"
+          }
+        ]
+      },
+      {
+        "unit": 8,
+        "title": "Energy and Its Types",
+        "display": "Energy and Its Types",
+        "sections": [
+          {
+            "name": "Circle the correct answer",
+            "num": "8.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "Which of the following is an example of kinetic energy? (a) A moving motor car (b) A person reading a book (c) A coiled spring",
+                    "a": "(a) A moving motor car — A moving motor car is in motion, so it has kinetic energy."
+                  },
+                  {
+                    "q": "Which is an example of potential energy? (a) A moving motor car (b) A coiled spring (c) A person reading a book",
+                    "a": "(b) A coiled spring — A coiled spring has energy stored in it, so it has potential energy."
+                  },
+                  {
+                    "q": "A toy motor car can move, it can also produce sound and it runs on batteries or cells. Tell which type of energy is in the batteries or cells? (a) Chemical energy (b) Kinetic energy (c) Thermal energy",
+                    "a": "(a) Chemical energy — Chemical energy is stored in a battery or a cell."
+                  },
+                  {
+                    "q": "Imran and Ayesha are making a picture frame. Imran hammers a nail into the wall with a hammer. Tell which type of energy is NOT used in this work? (a) Electrical energy (b) Kinetic energy (c) Sound energy",
+                    "a": "(a) Electrical energy — Kinetic energy and sound energy are used in this work, but electrical energy is not."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Give short answers to the following questions",
+            "num": "8.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "State the brief advantages of “renewable” sources of energy.",
+                    "a": "Renewable sources of energy (the Sun, wind and water) are unlimited and never run out. No waste or poisonous substances are produced from them, so the environment is not polluted. These sources are cheap and can be used easily."
+                  },
+                  {
+                    "q": "Write any three differences between kinetic and potential energy in the table below.",
+                    "a": "Kinetic energy: (1) It is obtained from motion. (2) It depends on the mass of the body and the speed of its motion. (3) Examples: a moving motor car, a running man. Potential energy: (1) It is the energy stored in a body. (2) It depends on the mass of the body and its height above the ground. (3) Examples: a stone placed at a height, a coiled spring.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              20,
+                              120
+                            ],
+                            [
+                              150,
+                              120
+                            ],
+                            [
+                              150,
+                              230
+                            ],
+                            [
+                              130,
+                              230
+                            ],
+                            [
+                              130,
+                              135
+                            ],
+                            [
+                              20,
+                              135
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 20,
+                          "y1": 230,
+                          "x2": 310,
+                          "y2": 230
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 135,
+                          "cy": 110,
+                          "r": 10
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 138,
+                          "x2": 135,
+                          "y2": 168
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              135,
+                              180
+                            ],
+                            [
+                              129,
+                              168
+                            ],
+                            [
+                              141,
+                              168
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 135,
+                          "cy": 190,
+                          "r": 10
+                        },
+                        {
+                          "t": "text",
+                          "x": 256,
+                          "y": 60,
+                          "s": "Potential energy"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 57,
+                          "x2": 135,
+                          "y2": 100
+                        },
+                        {
+                          "t": "text",
+                          "x": 249,
+                          "y": 200,
+                          "s": "Kinetic energy"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 156,
+                          "y1": 197,
+                          "x2": 145,
+                          "y2": 190
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "8.3",
+            "exercises": [
+              {
+                "label": "Energy and Its Types",
+                "items": [
+                  {
+                    "q": "What is energy?",
+                    "a": "Energy is the ability to do work."
+                  },
+                  {
+                    "q": "What is the unit for measuring energy?",
+                    "a": "Joule (J)."
+                  },
+                  {
+                    "q": "What is kinetic energy?",
+                    "a": "The energy present in every moving body."
+                  },
+                  {
+                    "q": "What is potential energy?",
+                    "a": "The energy stored in a body."
+                  },
+                  {
+                    "q": "What energy does a moving motor car have?",
+                    "a": "Kinetic energy."
+                  },
+                  {
+                    "q": "What energy does a stone placed above have?",
+                    "a": "Potential energy."
+                  },
+                  {
+                    "q": "What is the natural source of heat energy?",
+                    "a": "The Sun."
+                  },
+                  {
+                    "q": "How is sound produced?",
+                    "a": "By vibrations produced in the particles of things."
+                  },
+                  {
+                    "q": "What does sound need to travel through?",
+                    "a": "A medium (matter); sound cannot pass through a vacuum."
+                  },
+                  {
+                    "q": "What is electrical energy?",
+                    "a": "The flow of charged electrons in an electric circuit."
+                  },
+                  {
+                    "q": "Where is chemical energy found?",
+                    "a": "In fuel and in food."
+                  },
+                  {
+                    "q": "What are the six types of energy?",
+                    "a": "Potential energy, kinetic energy, electrical energy, chemical energy, thermal energy and sound energy."
+                  }
+                ]
+              },
+              {
+                "label": "Energy Conversion and Conservation",
+                "items": [
+                  {
+                    "q": "Into which energies does electrical energy change in a bulb?",
+                    "a": "Into light and heat.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 240,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 170,
+                          "cy": 105,
+                          "r": 55
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              150,
+                              155
+                            ],
+                            [
+                              190,
+                              155
+                            ],
+                            [
+                              190,
+                              185
+                            ],
+                            [
+                              150,
+                              185
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              158,
+                              142
+                            ],
+                            [
+                              168,
+                              128
+                            ],
+                            [
+                              178,
+                              142
+                            ],
+                            [
+                              186,
+                              130
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 60,
+                          "y1": 140,
+                          "x2": 118,
+                          "y2": 140
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              128,
+                              140
+                            ],
+                            [
+                              118,
+                              134
+                            ],
+                            [
+                              118,
+                              146
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 105,
+                          "y": 128,
+                          "s": "Electricity"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 209,
+                          "y1": 66,
+                          "x2": 245,
+                          "y2": 40
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              252,
+                              36
+                            ],
+                            [
+                              240,
+                              34
+                            ],
+                            [
+                              244,
+                              46
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 298,
+                          "y": 30,
+                          "s": "Light"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 254,
+                          "y1": 28,
+                          "x2": 252,
+                          "y2": 36
+                        },
+                        {
+                          "t": "line",
+                          "x1": 131,
+                          "y1": 66,
+                          "x2": 95,
+                          "y2": 40
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              88,
+                              36
+                            ],
+                            [
+                              100,
+                              34
+                            ],
+                            [
+                              96,
+                              46
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 70,
+                          "y": 30,
+                          "s": "Heat"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 72,
+                          "y1": 27,
+                          "x2": 88,
+                          "y2": 36
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Into which energy does the chemical energy of fuel change in a motor car?",
+                    "a": "Into kinetic energy (and some part into heat and sound)."
+                  },
+                  {
+                    "q": "Into which energies does a TV change electrical energy?",
+                    "a": "Into light, sound and heat."
+                  },
+                  {
+                    "q": "What is the law of conservation of energy?",
+                    "a": "Energy can neither be created nor destroyed; it can only be changed from one form into another."
+                  },
+                  {
+                    "q": "Into which energy does a washing machine change electrical energy?",
+                    "a": "Into kinetic energy (and some into sound and heat)."
+                  },
+                  {
+                    "q": "What is an energy converter?",
+                    "a": "A machine that changes energy from one form into another, such as a bulb and a washing machine."
+                  },
+                  {
+                    "q": "Why does a bulb become hot when it is lit?",
+                    "a": "Because a large part of the electrical energy changes into heat."
+                  }
+                ]
+              },
+              {
+                "label": "Renewable Sources and Our Life",
+                "items": [
+                  {
+                    "q": "What is a fossil fuel?",
+                    "a": "Fuel formed from the decay and rotting of plants and animals thousands of millions of years ago inside the Earth."
+                  },
+                  {
+                    "q": "Give three examples of fossil fuels.",
+                    "a": "Coal, crude oil and gas."
+                  },
+                  {
+                    "q": "What are the three main sources of renewable energy?",
+                    "a": "The Sun, wind and water."
+                  },
+                  {
+                    "q": "What machine is our body like?",
+                    "a": "Like an energy-converting machine; it changes the chemical energy of food into kinetic, heat and sound energy."
+                  },
+                  {
+                    "q": "Of 100 units of energy in coal, how many units reach the home?",
+                    "a": "36 units; 62 units are wasted at the power plant and 2 units in transmission.",
+                    "da": {
+                      "type": "draw",
+                      "w": 380,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              20,
+                              90
+                            ],
+                            [
+                              100,
+                              90
+                            ],
+                            [
+                              100,
+                              150
+                            ],
+                            [
+                              20,
+                              150
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 95,
+                          "y": 115,
+                          "s": "Coal"
+                        },
+                        {
+                          "t": "text",
+                          "x": 95,
+                          "y": 138,
+                          "s": "100 units"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 100,
+                          "y1": 120,
+                          "x2": 135,
+                          "y2": 120
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              145,
+                              120
+                            ],
+                            [
+                              135,
+                              114
+                            ],
+                            [
+                              135,
+                              126
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              145,
+                              90
+                            ],
+                            [
+                              235,
+                              90
+                            ],
+                            [
+                              235,
+                              150
+                            ],
+                            [
+                              145,
+                              150
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 230,
+                          "y": 115,
+                          "s": "Power plant"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 215,
+                          "y1": 90,
+                          "x2": 215,
+                          "y2": 62
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              215,
+                              53
+                            ],
+                            [
+                              209,
+                              43
+                            ],
+                            [
+                              221,
+                              43
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 290,
+                          "y": 45,
+                          "s": "62 units"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 239,
+                          "y1": 42,
+                          "x2": 215,
+                          "y2": 53
+                        },
+                        {
+                          "t": "text",
+                          "x": 290,
+                          "y": 63,
+                          "s": "wasted"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 235,
+                          "y1": 120,
+                          "x2": 270,
+                          "y2": 120
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              280,
+                              120
+                            ],
+                            [
+                              270,
+                              114
+                            ],
+                            [
+                              270,
+                              126
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              280,
+                              90
+                            ],
+                            [
+                              335,
+                              90
+                            ],
+                            [
+                              335,
+                              150
+                            ],
+                            [
+                              280,
+                              150
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 330,
+                          "y": 115,
+                          "s": "Home"
+                        },
+                        {
+                          "t": "text",
+                          "x": 330,
+                          "y": 138,
+                          "s": "36 units"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 307,
+                          "y1": 150,
+                          "x2": 307,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 262,
+                          "y1": 180,
+                          "x2": 322,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 262,
+                          "y1": 180,
+                          "x2": 262,
+                          "y2": 198
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              262,
+                              208
+                            ],
+                            [
+                              256,
+                              198
+                            ],
+                            [
+                              268,
+                              198
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 322,
+                          "y1": 180,
+                          "x2": 322,
+                          "y2": 198
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              322,
+                              208
+                            ],
+                            [
+                              316,
+                              198
+                            ],
+                            [
+                              328,
+                              198
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 255,
+                          "y": 222,
+                          "s": "Light"
+                        },
+                        {
+                          "t": "text",
+                          "x": 255,
+                          "y": 240,
+                          "s": "2 units"
+                        },
+                        {
+                          "t": "text",
+                          "x": 331,
+                          "y": 222,
+                          "s": "Heat"
+                        },
+                        {
+                          "t": "text",
+                          "x": 331,
+                          "y": 240,
+                          "s": "34 units"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Energy",
+            "sd": "ڪم ڪرڻ جي صلاحيت",
+            "syn": "the ability to do work"
+          },
+          {
+            "w": "Kinetic Energy",
+            "sd": "چرپر ڪندڙ جسم جي توانائي",
+            "syn": "the energy of a moving body"
+          },
+          {
+            "w": "Potential Energy",
+            "sd": "جسم ۾ گڏ ٿيل توانائي",
+            "syn": "the energy stored in a body"
+          },
+          {
+            "w": "Thermal Energy",
+            "sd": "گرميءَ واري توانائي",
+            "syn": "energy in the form of heat"
+          },
+          {
+            "w": "Sound Energy",
+            "sd": "لرزش سان پيدا ٿيندڙ توانائي",
+            "syn": "energy produced by vibration"
+          },
+          {
+            "w": "Electrical Energy",
+            "sd": "اليڪٽرانن جي وهڪري واري توانائي",
+            "syn": "energy from the flow of electrons"
+          },
+          {
+            "w": "Chemical Energy",
+            "sd": "مادي جي ڪيميائي بناوٽ ۾ گڏ ٿيل توانائي",
+            "syn": "energy stored in the chemical structure of matter"
+          },
+          {
+            "w": "Vibration",
+            "sd": "ذرڙن جو اڳتي پوئتي هلڻ",
+            "syn": "the to-and-fro movement of particles"
+          },
+          {
+            "w": "Medium",
+            "sd": "اهو مادو جنهن مان آواز گذري ٿو",
+            "syn": "the matter through which sound passes"
+          },
+          {
+            "w": "Joule",
+            "sd": "توانائي کي ماپڻ جو يونٽ",
+            "syn": "the unit for measuring energy"
+          },
+          {
+            "w": "Conservation",
+            "sd": "توانائي جو نه پيدا ٿيڻ ۽ نه ختم ٿيڻ",
+            "syn": "energy neither being created nor destroyed"
+          },
+          {
+            "w": "Converter",
+            "sd": "هڪ صورت کي ٻي صورت ۾ بدلائيندڙ شيءِ",
+            "syn": "a thing that changes one form into another"
+          },
+          {
+            "w": "Renewable",
+            "sd": "جيڪو وري وري استعمال ڪري سگهجي",
+            "syn": "able to be used again and again"
+          },
+          {
+            "w": "Fossil Fuel",
+            "sd": "زمين مان ملندڙ پارو، جهڙوڪ ڪوئلو ۽ تيل",
+            "syn": "fuel from the Earth, such as coal and oil"
+          },
+          {
+            "w": "Crude Oil",
+            "sd": "زمين مان نڪتل اڻ سڌريل تيل",
+            "syn": "unrefined oil from the Earth"
+          },
+          {
+            "w": "Coal",
+            "sd": "زمين مان ملندڙ ڪارو ٻارڻ",
+            "syn": "a black fuel found in the Earth"
+          },
+          {
+            "w": "Solar",
+            "sd": "سج سان واسطو رکندڙ",
+            "syn": "relating to the Sun"
+          },
+          {
+            "w": "Mass",
+            "sd": "جسم ۾ مادي جي مقدار",
+            "syn": "the amount of matter in a body"
+          }
+        ]
+      },
+      {
+        "unit": 9,
+        "title": "Force and Machines",
+        "display": "Force and Machines",
+        "sections": [
+          {
+            "name": "Circle the correct answer",
+            "num": "9.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "Which of the following simple machines is a wheel and axle? (a) A knife (b) The steering of a motor car (c) A fan (d) A bottle opener",
+                    "a": "(b) The steering of a motor car — The steering of a motor car is an example of a wheel and axle."
+                  },
+                  {
+                    "q": "Gears do all of the following EXCEPT which one? (a) Change the speed (b) Change the direction (c) Change the fulcrum (d) Change the amount of force",
+                    "a": "(c) Change the fulcrum — Gears can change the speed, direction and amount of force, but not the fulcrum."
+                  },
+                  {
+                    "q": "What can a movable pulley do? (a) Increase the effort applied (b) Decrease the effort applied (c) Change the direction of the force (d) Change the speed of the force",
+                    "a": "(b) Decrease the effort applied — Less effort is needed to lift a load with a movable pulley."
+                  },
+                  {
+                    "q": "In which of the following is a movable pulley used? (a) In flags (b) On wells (c) In cranes (d) In bicycles",
+                    "a": "(c) In cranes — Movable pulleys are used in cranes to lift heavy weights."
+                  },
+                  {
+                    "q": "Which simple machine is shown in the picture? (a) Screw (b) Pulley (c) Inclined plane (d) Wheel and axle",
+                    "a": "(d) Wheel and axle — The wheels and axle of the cart (wagon) shown in the picture are a wheel and axle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Give short answers to the following questions",
+            "num": "9.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Write the names of the machines that work in a bicycle.",
+                    "a": "Wheel and axle, gears and the pulley system (the chain system) work in a bicycle."
+                  },
+                  {
+                    "q": "A wheel and axle is a type of lever. Explain.",
+                    "a": "A wheel and axle is a special type of lever in which the centre of the wheel acts as the fulcrum. The wheel and axle work together to turn or rotate a weight.",
+                    "da": {
+                      "type": "draw",
+                      "w": 320,
+                      "h": 230,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 130,
+                          "cy": 115,
+                          "r": 65
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 130,
+                          "cy": 115,
+                          "r": 10
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 130,
+                          "y2": 50
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 130,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 65,
+                          "y2": 115
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 195,
+                          "y2": 115
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 84,
+                          "y2": 69
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 176,
+                          "y2": 161
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 176,
+                          "y2": 69
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 84,
+                          "y2": 161
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 115,
+                          "x2": 235,
+                          "y2": 115
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 235,
+                          "cy": 115,
+                          "r": 4
+                        },
+                        {
+                          "t": "text",
+                          "x": 275,
+                          "y": 28,
+                          "s": "Wheel"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 238,
+                          "y1": 30,
+                          "x2": 176,
+                          "y2": 69
+                        },
+                        {
+                          "t": "text",
+                          "x": 285,
+                          "y": 150,
+                          "s": "Axle"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 248,
+                          "y1": 146,
+                          "x2": 235,
+                          "y2": 115
+                        },
+                        {
+                          "t": "text",
+                          "x": 105,
+                          "y": 215,
+                          "s": "Fulcrum"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 104,
+                          "y1": 206,
+                          "x2": 128,
+                          "y2": 124
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "State two differences each between fixed and movable pulleys.",
+                    "a": "Fixed pulley: (1) It stays fixed at one place and does not move up and down with the rope. (2) It only changes the direction of the force; for a 100N weight, 100N effort is needed. Movable pulley: (1) It moves up and down with the load. (2) Less effort is needed; for a 100N weight, only 50N effort is needed.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "line",
+                          "x1": 15,
+                          "y1": 30,
+                          "x2": 155,
+                          "y2": 30
+                        },
+                        {
+                          "t": "line",
+                          "x1": 85,
+                          "y1": 30,
+                          "x2": 85,
+                          "y2": 44
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 85,
+                          "cy": 72,
+                          "r": 26
+                        },
+                        {
+                          "t": "line",
+                          "x1": 59,
+                          "y1": 72,
+                          "x2": 59,
+                          "y2": 177
+                        },
+                        {
+                          "t": "line",
+                          "x1": 111,
+                          "y1": 72,
+                          "x2": 111,
+                          "y2": 145
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              111,
+                              160
+                            ],
+                            [
+                              104,
+                              146
+                            ],
+                            [
+                              118,
+                              146
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              42,
+                              177
+                            ],
+                            [
+                              108,
+                              177
+                            ],
+                            [
+                              108,
+                              205
+                            ],
+                            [
+                              42,
+                              205
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 140,
+                          "y": 18,
+                          "s": "Fixed"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 115,
+                          "y1": 22,
+                          "x2": 90,
+                          "y2": 46
+                        },
+                        {
+                          "t": "text",
+                          "x": 168,
+                          "y": 120,
+                          "s": "Effort 100N"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 112,
+                          "y1": 118,
+                          "x2": 111,
+                          "y2": 138
+                        },
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 228,
+                          "s": "Weight 100N"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 96,
+                          "y1": 222,
+                          "x2": 80,
+                          "y2": 206
+                        },
+                        {
+                          "t": "line",
+                          "x1": 195,
+                          "y1": 30,
+                          "x2": 335,
+                          "y2": 30
+                        },
+                        {
+                          "t": "line",
+                          "x1": 232,
+                          "y1": 30,
+                          "x2": 232,
+                          "y2": 108
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 258,
+                          "cy": 108,
+                          "r": 26,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 258,
+                          "cy": 108,
+                          "r": 26
+                        },
+                        {
+                          "t": "line",
+                          "x1": 284,
+                          "y1": 108,
+                          "x2": 284,
+                          "y2": 66
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              284,
+                              52
+                            ],
+                            [
+                              277,
+                              66
+                            ],
+                            [
+                              291,
+                              66
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 258,
+                          "y1": 134,
+                          "x2": 258,
+                          "y2": 167
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              228,
+                              167
+                            ],
+                            [
+                              288,
+                              167
+                            ],
+                            [
+                              288,
+                              195
+                            ],
+                            [
+                              228,
+                              195
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 295,
+                          "y": 18,
+                          "s": "Movable"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 268,
+                          "y1": 22,
+                          "x2": 258,
+                          "y2": 82
+                        },
+                        {
+                          "t": "text",
+                          "x": 222,
+                          "y": 58,
+                          "s": "Effort 50N"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 220,
+                          "y1": 54,
+                          "x2": 228,
+                          "y2": 46
+                        },
+                        {
+                          "t": "text",
+                          "x": 284,
+                          "y": 225,
+                          "s": "Weight 100N"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 252,
+                          "y1": 218,
+                          "x2": 254,
+                          "y2": 195
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Look at the diagram of gears given below. Gear (a) turns clockwise. Show with arrows the direction of turning of the other gears in the diagram and tell.",
+                    "a": "When one gear meshes with another, the other gear turns in the opposite direction. In the diagram, gear A meshes with D, D meshes with E and C, E meshes with F and C meshes with B. Gear A turns clockwise, so gear B turns anti-clockwise, gear C clockwise, gear D anti-clockwise, gear E clockwise and gear F anti-clockwise.",
+                    "dq": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              95,
+                              34
+                            ],
+                            [
+                              102,
+                              43.9
+                            ],
+                            [
+                              113,
+                              38.8
+                            ],
+                            [
+                              114.1,
+                              50.9
+                            ],
+                            [
+                              126.2,
+                              52
+                            ],
+                            [
+                              121.1,
+                              63
+                            ],
+                            [
+                              131,
+                              70
+                            ],
+                            [
+                              121.1,
+                              77
+                            ],
+                            [
+                              126.2,
+                              88
+                            ],
+                            [
+                              114.1,
+                              89.1
+                            ],
+                            [
+                              113,
+                              101.2
+                            ],
+                            [
+                              102,
+                              96.1
+                            ],
+                            [
+                              95,
+                              106
+                            ],
+                            [
+                              88,
+                              96.1
+                            ],
+                            [
+                              77,
+                              101.2
+                            ],
+                            [
+                              75.9,
+                              89.1
+                            ],
+                            [
+                              63.8,
+                              88
+                            ],
+                            [
+                              68.9,
+                              77
+                            ],
+                            [
+                              59,
+                              70
+                            ],
+                            [
+                              68.9,
+                              63
+                            ],
+                            [
+                              63.8,
+                              52
+                            ],
+                            [
+                              75.9,
+                              50.9
+                            ],
+                            [
+                              77,
+                              38.8
+                            ],
+                            [
+                              88,
+                              43.9
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              160,
+                              64
+                            ],
+                            [
+                              167,
+                              73.9
+                            ],
+                            [
+                              178,
+                              68.8
+                            ],
+                            [
+                              179.1,
+                              80.9
+                            ],
+                            [
+                              191.2,
+                              82
+                            ],
+                            [
+                              186.1,
+                              93
+                            ],
+                            [
+                              196,
+                              100
+                            ],
+                            [
+                              186.1,
+                              107
+                            ],
+                            [
+                              191.2,
+                              118
+                            ],
+                            [
+                              179.1,
+                              119.1
+                            ],
+                            [
+                              178,
+                              131.2
+                            ],
+                            [
+                              167,
+                              126.1
+                            ],
+                            [
+                              160,
+                              136
+                            ],
+                            [
+                              153,
+                              126.1
+                            ],
+                            [
+                              142,
+                              131.2
+                            ],
+                            [
+                              140.9,
+                              119.1
+                            ],
+                            [
+                              128.8,
+                              118
+                            ],
+                            [
+                              133.9,
+                              107
+                            ],
+                            [
+                              124,
+                              100
+                            ],
+                            [
+                              133.9,
+                              93
+                            ],
+                            [
+                              128.8,
+                              82
+                            ],
+                            [
+                              140.9,
+                              80.9
+                            ],
+                            [
+                              142,
+                              68.8
+                            ],
+                            [
+                              153,
+                              73.9
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              228,
+                              64
+                            ],
+                            [
+                              235,
+                              73.9
+                            ],
+                            [
+                              246,
+                              68.8
+                            ],
+                            [
+                              247.1,
+                              80.9
+                            ],
+                            [
+                              259.2,
+                              82
+                            ],
+                            [
+                              254.1,
+                              93
+                            ],
+                            [
+                              264,
+                              100
+                            ],
+                            [
+                              254.1,
+                              107
+                            ],
+                            [
+                              259.2,
+                              118
+                            ],
+                            [
+                              247.1,
+                              119.1
+                            ],
+                            [
+                              246,
+                              131.2
+                            ],
+                            [
+                              235,
+                              126.1
+                            ],
+                            [
+                              228,
+                              136
+                            ],
+                            [
+                              221,
+                              126.1
+                            ],
+                            [
+                              210,
+                              131.2
+                            ],
+                            [
+                              208.9,
+                              119.1
+                            ],
+                            [
+                              196.8,
+                              118
+                            ],
+                            [
+                              201.9,
+                              107
+                            ],
+                            [
+                              192,
+                              100
+                            ],
+                            [
+                              201.9,
+                              93
+                            ],
+                            [
+                              196.8,
+                              82
+                            ],
+                            [
+                              208.9,
+                              80.9
+                            ],
+                            [
+                              210,
+                              68.8
+                            ],
+                            [
+                              221,
+                              73.9
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              278,
+                              22
+                            ],
+                            [
+                              284.5,
+                              31.9
+                            ],
+                            [
+                              295,
+                              26.6
+                            ],
+                            [
+                              295.7,
+                              38.3
+                            ],
+                            [
+                              307.4,
+                              39
+                            ],
+                            [
+                              302.1,
+                              49.5
+                            ],
+                            [
+                              312,
+                              56
+                            ],
+                            [
+                              302.1,
+                              62.5
+                            ],
+                            [
+                              307.4,
+                              73
+                            ],
+                            [
+                              295.7,
+                              73.7
+                            ],
+                            [
+                              295,
+                              85.4
+                            ],
+                            [
+                              284.5,
+                              80.1
+                            ],
+                            [
+                              278,
+                              90
+                            ],
+                            [
+                              271.5,
+                              80.1
+                            ],
+                            [
+                              261,
+                              85.4
+                            ],
+                            [
+                              260.3,
+                              73.7
+                            ],
+                            [
+                              248.6,
+                              73
+                            ],
+                            [
+                              253.9,
+                              62.5
+                            ],
+                            [
+                              244,
+                              56
+                            ],
+                            [
+                              253.9,
+                              49.5
+                            ],
+                            [
+                              248.6,
+                              39
+                            ],
+                            [
+                              260.3,
+                              38.3
+                            ],
+                            [
+                              261,
+                              26.6
+                            ],
+                            [
+                              271.5,
+                              31.9
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              143,
+                              134
+                            ],
+                            [
+                              150.5,
+                              144
+                            ],
+                            [
+                              162,
+                              139.1
+                            ],
+                            [
+                              163.5,
+                              151.5
+                            ],
+                            [
+                              175.9,
+                              153
+                            ],
+                            [
+                              171,
+                              164.5
+                            ],
+                            [
+                              181,
+                              172
+                            ],
+                            [
+                              171,
+                              179.5
+                            ],
+                            [
+                              175.9,
+                              191
+                            ],
+                            [
+                              163.5,
+                              192.5
+                            ],
+                            [
+                              162,
+                              204.9
+                            ],
+                            [
+                              150.5,
+                              200
+                            ],
+                            [
+                              143,
+                              210
+                            ],
+                            [
+                              135.5,
+                              200
+                            ],
+                            [
+                              124,
+                              204.9
+                            ],
+                            [
+                              122.5,
+                              192.5
+                            ],
+                            [
+                              110.1,
+                              191
+                            ],
+                            [
+                              115,
+                              179.5
+                            ],
+                            [
+                              105,
+                              172
+                            ],
+                            [
+                              115,
+                              164.5
+                            ],
+                            [
+                              110.1,
+                              153
+                            ],
+                            [
+                              122.5,
+                              151.5
+                            ],
+                            [
+                              124,
+                              139.1
+                            ],
+                            [
+                              135.5,
+                              144
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              80,
+                              162
+                            ],
+                            [
+                              84.9,
+                              171.6
+                            ],
+                            [
+                              94,
+                              165.8
+                            ],
+                            [
+                              93.4,
+                              176.6
+                            ],
+                            [
+                              104.2,
+                              176
+                            ],
+                            [
+                              98.4,
+                              185.1
+                            ],
+                            [
+                              108,
+                              190
+                            ],
+                            [
+                              98.4,
+                              194.9
+                            ],
+                            [
+                              104.2,
+                              204
+                            ],
+                            [
+                              93.4,
+                              203.4
+                            ],
+                            [
+                              94,
+                              214.2
+                            ],
+                            [
+                              84.9,
+                              208.4
+                            ],
+                            [
+                              80,
+                              218
+                            ],
+                            [
+                              75.1,
+                              208.4
+                            ],
+                            [
+                              66,
+                              214.2
+                            ],
+                            [
+                              66.6,
+                              203.4
+                            ],
+                            [
+                              55.8,
+                              204
+                            ],
+                            [
+                              61.6,
+                              194.9
+                            ],
+                            [
+                              52,
+                              190
+                            ],
+                            [
+                              61.6,
+                              185.1
+                            ],
+                            [
+                              55.8,
+                              176
+                            ],
+                            [
+                              66.6,
+                              176.6
+                            ],
+                            [
+                              66,
+                              165.8
+                            ],
+                            [
+                              75.1,
+                              171.6
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "point",
+                          "x": 95,
+                          "y": 70,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 160,
+                          "y": 100,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 228,
+                          "y": 100,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 278,
+                          "y": 56,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 143,
+                          "y": 172,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 80,
+                          "y": 190,
+                          "label": ""
+                        },
+                        {
+                          "t": "text",
+                          "x": 99,
+                          "y": 75,
+                          "s": "A"
+                        },
+                        {
+                          "t": "text",
+                          "x": 164,
+                          "y": 105,
+                          "s": "D"
+                        },
+                        {
+                          "t": "text",
+                          "x": 232,
+                          "y": 105,
+                          "s": "E"
+                        },
+                        {
+                          "t": "text",
+                          "x": 282,
+                          "y": 61,
+                          "s": "F"
+                        },
+                        {
+                          "t": "text",
+                          "x": 147,
+                          "y": 177,
+                          "s": "C"
+                        },
+                        {
+                          "t": "text",
+                          "x": 84,
+                          "y": 195,
+                          "s": "B"
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 95,
+                          "cy": 70,
+                          "r": 44,
+                          "a1": 195,
+                          "a2": 325
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              136,
+                              50
+                            ],
+                            [
+                              123,
+                              43
+                            ],
+                            [
+                              129,
+                              56
+                            ]
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Describe the working of a bicycle.",
+                    "a": "When you turn the pedals, the front gear turns and moves the chain. The chain turns the rear gear, and the rear gear is joined to the rear wheel, so the rear wheel turns and the bicycle moves forward. The handlebars help to turn the bicycle in every direction."
+                  },
+                  {
+                    "q": "Explain the work of the following simple machines. (1) Pulley (2) Gear (3) Wheel and axle",
+                    "a": "(1) Pulley: it lifts a weight up and lowers it down; a fixed pulley changes the direction of the force and a movable pulley reduces the effort. (2) Gear: it increases the amount of force, increases or decreases the speed and changes the direction. (3) Wheel and axle: it turns and rotates things easily and helps to cover large distances with little effort."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "9.3",
+            "exercises": [
+              {
+                "label": "Wheel and Axle",
+                "items": [
+                  {
+                    "q": "What is a simple machine?",
+                    "a": "A machine that makes work easier."
+                  },
+                  {
+                    "q": "What is a wheel and axle?",
+                    "a": "A wheel and axle; a special type of lever in which the centre of the wheel acts as the fulcrum."
+                  },
+                  {
+                    "q": "What is a wheel?",
+                    "a": "A round track along which the force acts."
+                  },
+                  {
+                    "q": "What is an axle?",
+                    "a": "A long rod that passes through the centre of the wheel."
+                  },
+                  {
+                    "q": "What is a fulcrum?",
+                    "a": "The point on which a lever turns; in a wheel and axle, the centre of the wheel is the fulcrum."
+                  },
+                  {
+                    "q": "Give two examples of wheel and axle in everyday life.",
+                    "a": "A bicycle and an electric fan."
+                  },
+                  {
+                    "q": "What is the benefit of a wheel and axle?",
+                    "a": "Large distances can be covered with little effort."
+                  },
+                  {
+                    "q": "What type of machine is a jeep?",
+                    "a": "A compound and complex machine."
+                  }
+                ]
+              },
+              {
+                "label": "Pulleys",
+                "items": [
+                  {
+                    "q": "What is a pulley?",
+                    "a": "A simple machine of a grooved wheel and a rope."
+                  },
+                  {
+                    "q": "What is a fixed pulley?",
+                    "a": "A pulley that stays fixed at one place and only changes the direction of the force."
+                  },
+                  {
+                    "q": "What is a movable pulley?",
+                    "a": "A pulley that moves up and down with the load and needs less effort."
+                  },
+                  {
+                    "q": "How much effort is needed to lift a 100N weight with a fixed pulley?",
+                    "a": "100N."
+                  },
+                  {
+                    "q": "How much effort is needed to lift a 100N weight with a movable pulley?",
+                    "a": "50N."
+                  },
+                  {
+                    "q": "How many pulleys are there in a double pulley system?",
+                    "a": "Two."
+                  },
+                  {
+                    "q": "Where was the oldest use of pulleys?",
+                    "a": "In the Middle East, for drawing water, about 1500 BC."
+                  },
+                  {
+                    "q": "What is a block and tackle?",
+                    "a": "A combination of fixed and movable pulleys."
+                  }
+                ]
+              },
+              {
+                "label": "Gears and the Bicycle",
+                "items": [
+                  {
+                    "q": "What is a gear?",
+                    "a": "A toothed wheel."
+                  },
+                  {
+                    "q": "What are the three works of a gear?",
+                    "a": "Increasing the amount of force, increasing or decreasing the speed, and changing the direction."
+                  },
+                  {
+                    "q": "When two gears are meshed and turned, in which direction does the second gear turn?",
+                    "a": "In the opposite direction to the first."
+                  },
+                  {
+                    "q": "What is gearing up?",
+                    "a": "The process of increasing the speed by meshing a small gear with a large gear."
+                  },
+                  {
+                    "q": "What is gearing down?",
+                    "a": "The process of decreasing the speed by meshing a large gear with a small gear."
+                  },
+                  {
+                    "q": "How does the effort of the pedals reach the rear wheel in a bicycle?",
+                    "a": "Through the chain; the front gear moves the chain, the chain turns the rear gear and the rear gear turns the rear wheel."
+                  },
+                  {
+                    "q": "How many parts are there in a bicycle?",
+                    "a": "More than a hundred."
+                  },
+                  {
+                    "q": "Why does a cyclist turn the pedals fast when climbing a hill?",
+                    "a": "Because more effort is needed on a climb, and turning the pedals fast covers the distance in the given time."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Wheel",
+            "sd": "ڦيٿو يا گول چڪر",
+            "syn": "a round disc that turns on an axle"
+          },
+          {
+            "w": "Axle",
+            "sd": "ويل جي مرڪز مان گذرندڙ ڊگهي لٺ",
+            "syn": "the long rod passing through the centre of a wheel"
+          },
+          {
+            "w": "Lever",
+            "sd": "اهو اوزار جيڪو فلڪرم تي ڦري وزن کڻي ٿو",
+            "syn": "a tool that turns on a fulcrum to lift a weight"
+          },
+          {
+            "w": "Fulcrum",
+            "sd": "اهو نقطو جنهن تي ليور ڦري ٿو",
+            "syn": "the point on which a lever turns"
+          },
+          {
+            "w": "Pulley",
+            "sd": "ڪانچي دار ويل ۽ رسيءَ واري مشين",
+            "syn": "a machine of a grooved wheel and a rope"
+          },
+          {
+            "w": "Fixed Pulley",
+            "sd": "هڪ هند تي بيٺل رهندڙ چرخي",
+            "syn": "a pulley that stays fixed at one place"
+          },
+          {
+            "w": "Movable Pulley",
+            "sd": "لوڊ سان گڏ چرندڙ چرخي",
+            "syn": "a pulley that moves with the load"
+          },
+          {
+            "w": "Gear",
+            "sd": "ڏندن وارو ويل",
+            "syn": "a toothed wheel"
+          },
+          {
+            "w": "Cog",
+            "sd": "گيئر جي ڪناري تي اڀريل حصو",
+            "syn": "a raised part on the edge of a gear"
+          },
+          {
+            "w": "Load",
+            "sd": "اهو وزن جيڪو کڻڻو هجي",
+            "syn": "the weight to be lifted"
+          },
+          {
+            "w": "Effort / Force",
+            "sd": "ڪم ڪرڻ لاءِ لڳايل قوت",
+            "syn": "the force applied to do work"
+          },
+          {
+            "w": "Rope",
+            "sd": "ڊگهو ۽ مضبوط ڌاڳو",
+            "syn": "a long, strong cord"
+          },
+          {
+            "w": "Groove",
+            "sd": "ويل ۾ رسي ويهڻ واري نالي",
+            "syn": "the channel in a wheel where the rope sits"
+          },
+          {
+            "w": "Pedal",
+            "sd": "سائيڪل کي هلائڻ لاءِ پير سان دٻائڻ وارو حصو",
+            "syn": "the part pressed with the foot to drive a bicycle"
+          },
+          {
+            "w": "Chain",
+            "sd": "هڪٻئي ۾ ڳنڍيل ڪڙين جي قطار",
+            "syn": "a row of links joined to each other"
+          },
+          {
+            "w": "Simple Machine",
+            "sd": "ڪم ۾ آساني پيدا ڪندڙ سادو اوزار",
+            "syn": "a simple tool that makes work easier"
+          },
+          {
+            "w": "Compound Machine",
+            "sd": "ڪيترين سادي مشينن جي ملاوٽ سان ٺهيل مشين",
+            "syn": "a machine made by combining several simple machines"
+          },
+          {
+            "w": "Direction",
+            "sd": "ڪنهن شيءِ جي هلڻ يا ڪرڻ جي سمت",
+            "syn": "the way in which something moves or turns"
+          }
+        ]
+      },
+      {
+        "unit": 10,
+        "title": "Properties of Light",
+        "display": "Properties of Light",
+        "sections": [
+          {
+            "name": "Review Questions",
+            "num": "10.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "(a) Light travelling in a straight line, when it strikes another medium, ____________.",
+                    "a": "Returns back."
+                  },
+                  {
+                    "q": "(b) The image formed by a plane mirror is ____________ as the object is from the mirror.",
+                    "a": "As far behind the mirror."
+                  },
+                  {
+                    "q": "(c) ____________ type of mirrors are used for shaving and make-up.",
+                    "a": "Concave."
+                  },
+                  {
+                    "q": "(d) In submarines, a ____________ is used to see objects on the surface of the sea.",
+                    "a": "Periscope."
+                  },
+                  {
+                    "q": "(e) In commercial and business centres, ____________ mirrors are used as security mirrors.",
+                    "a": "Convex."
+                  }
+                ]
+              },
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Divide the following into two groups — “Light-giving sources” and “Non-light-giving sources”: stars, Moon, Sun, mirror, torch, diamond, table lamp, chowkro, burning candle, wich or kanoth, table, television (switched on).",
+                    "a": "Light-giving sources: stars, Sun, torch, table lamp, burning candle, television (switched on). Non-light-giving sources: Moon, mirror, diamond, chowkro, wich or kanoth, table. The Moon gives no light of its own; it reflects sunlight. A mirror and a diamond also only reflect light; they give no light themselves."
+                  }
+                ]
+              },
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "What are absorption of light and reflection of light?",
+                    "a": "Absorption of light: when light falls on an object, some of it is absorbed by the object, and the absorbed light changes into heat, so the object becomes warm. Reflection of light: when light strikes a surface, it returns back."
+                  }
+                ]
+              },
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "Which of the following surfaces: (a) show regular reflection of light (b) show irregular reflection of light?",
+                    "a": "No list of surfaces is given in the book. According to the chapter: (a) Regular reflection — smooth and shiny surfaces, such as a plane mirror, smooth water and shiny metal. (b) Irregular reflection — rough surfaces, such as paper, cloth, a wall and wood."
+                  }
+                ]
+              },
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "Tell the uses of convex and concave mirrors.",
+                    "a": "Concave mirror: used in the headlights of vehicles, for shaving and make-up (cosmetic mirror), by a dentist to see the teeth, and in a telescope. Convex mirror: used in motor cars to see the view behind, as a security mirror in shops and commercial centres, and as a mirror fixed at dangerous turns."
+                  }
+                ]
+              },
+              {
+                "label": "6",
+                "items": [
+                  {
+                    "q": "State the characteristics and important points of the images formed by a plane mirror.",
+                    "a": "Characteristics of the image formed by a plane mirror: (1) The image is virtual. (2) The image is upright. (3) The image is the same size as the object. (4) The image is as far behind the mirror as the object is in front of the mirror. (5) In the image the left side appears on the right and the right side on the left — that is why the word AMBULANCE is written reversed on an ambulance.",
+                    "da": {
+                      "type": "draw",
+                      "w": 320,
+                      "h": 240,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              160,
+                              30
+                            ],
+                            [
+                              166,
+                              30
+                            ],
+                            [
+                              166,
+                              210
+                            ],
+                            [
+                              160,
+                              210
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 110,
+                          "y1": 180,
+                          "x2": 110,
+                          "y2": 90
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              110,
+                              78
+                            ],
+                            [
+                              102,
+                              94
+                            ],
+                            [
+                              118,
+                              94
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 95,
+                          "y1": 180,
+                          "x2": 125,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 216,
+                          "y1": 180,
+                          "x2": 216,
+                          "y2": 90
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              216,
+                              78
+                            ],
+                            [
+                              208,
+                              94
+                            ],
+                            [
+                              224,
+                              94
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 201,
+                          "y1": 180,
+                          "x2": 231,
+                          "y2": 180
+                        },
+                        {
+                          "t": "line",
+                          "x1": 110,
+                          "y1": 200,
+                          "x2": 160,
+                          "y2": 200
+                        },
+                        {
+                          "t": "line",
+                          "x1": 166,
+                          "y1": 200,
+                          "x2": 216,
+                          "y2": 200
+                        },
+                        {
+                          "t": "text",
+                          "x": 140,
+                          "y": 70,
+                          "s": "Object"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 122,
+                          "y1": 74,
+                          "x2": 110,
+                          "y2": 90
+                        },
+                        {
+                          "t": "text",
+                          "x": 255,
+                          "y": 70,
+                          "s": "Virtual image"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 228,
+                          "y1": 74,
+                          "x2": 216,
+                          "y2": 90
+                        },
+                        {
+                          "t": "text",
+                          "x": 210,
+                          "y": 235,
+                          "s": "Mirror"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 180,
+                          "y1": 230,
+                          "x2": 166,
+                          "y2": 210
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "label": "7",
+                "items": [
+                  {
+                    "q": "When light is reflected from a plane mirror, what is the important point about the angle of the incident ray towards the mirror and the angle of the reflected ray from the mirror?",
+                    "a": "According to the law of reflection, the angle of incidence (i) and the angle of reflection (r) are equal, i.e. i = r.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 240,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              40,
+                              190
+                            ],
+                            [
+                              300,
+                              190
+                            ],
+                            [
+                              300,
+                              198
+                            ],
+                            [
+                              40,
+                              198
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 90,
+                          "x2": 170,
+                          "y2": 190
+                        },
+                        {
+                          "t": "line",
+                          "x1": 80,
+                          "y1": 95,
+                          "x2": 170,
+                          "y2": 190
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 190,
+                          "x2": 260,
+                          "y2": 95
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              170,
+                              190
+                            ],
+                            [
+                              158,
+                              185
+                            ],
+                            [
+                              165,
+                              178
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              260,
+                              95
+                            ],
+                            [
+                              255,
+                              107
+                            ],
+                            [
+                              248,
+                              101
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 170,
+                          "cy": 190,
+                          "r": 30,
+                          "a1": 226,
+                          "a2": 270
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 170,
+                          "cy": 190,
+                          "r": 30,
+                          "a1": 270,
+                          "a2": 314
+                        },
+                        {
+                          "t": "text",
+                          "x": 156,
+                          "y": 152,
+                          "s": "i"
+                        },
+                        {
+                          "t": "text",
+                          "x": 190,
+                          "y": 152,
+                          "s": "r"
+                        },
+                        {
+                          "t": "text",
+                          "x": 120,
+                          "y": 80,
+                          "s": "Incident ray"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 80,
+                          "y1": 84,
+                          "x2": 96,
+                          "y2": 112
+                        },
+                        {
+                          "t": "text",
+                          "x": 220,
+                          "y": 55,
+                          "s": "Reflected"
+                        },
+                        {
+                          "t": "text",
+                          "x": 220,
+                          "y": 72,
+                          "s": "ray"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 217,
+                          "y1": 74,
+                          "x2": 240,
+                          "y2": 116
+                        },
+                        {
+                          "t": "text",
+                          "x": 163,
+                          "y": 105,
+                          "s": "Normal"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 164,
+                          "y1": 108,
+                          "x2": 169,
+                          "y2": 118
+                        },
+                        {
+                          "t": "text",
+                          "x": 90,
+                          "y": 225,
+                          "s": "Mirror"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 84,
+                          "y1": 218,
+                          "x2": 80,
+                          "y2": 199
+                        },
+                        {
+                          "t": "text",
+                          "x": 300,
+                          "y": 225,
+                          "s": "i = r"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "label": "8",
+                "items": [
+                  {
+                    "q": "Why do diamonds appear to sparkle in many colours from many directions?",
+                    "a": "Inside a diamond, light is reflected many times (multiple reflection) and comes out in different directions, so the diamond appears to sparkle in many colours from many directions."
+                  }
+                ]
+              },
+              {
+                "label": "9",
+                "items": [
+                  {
+                    "q": "Why would you not use a concave mirror to see the view behind in a motor car?",
+                    "a": "A concave mirror is not suitable for seeing the view behind, because it shows a magnified image of nearby objects and only a small part of the road can be seen in it. A convex mirror, on the other hand, shows a small and upright image and a wide view behind can be seen in it, so a convex mirror is used in motor cars for the view behind."
+                  }
+                ]
+              },
+              {
+                "label": "10",
+                "items": [
+                  {
+                    "q": "If a driver uses a plane mirror and a convex rear-view mirror in his vehicle, how do the images formed in the two mirrors differ from each other?",
+                    "a": "The image in the plane mirror is the same size as the object, upright and virtual, and is as far behind the mirror as the object is in front of the mirror. The image in the convex mirror is smaller than the object, upright and virtual, but a much wider view behind can be seen in it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "10.2",
+            "exercises": [
+              {
+                "label": "Light, its absorption and reflection",
+                "items": [
+                  {
+                    "q": "On which path does light travel?",
+                    "a": "Light travels in a straight line."
+                  },
+                  {
+                    "q": "Why do black clothes become warmer in sunlight?",
+                    "a": "Black colour absorbs more light, and the absorbed light changes into heat, so black clothes become warmer."
+                  },
+                  {
+                    "q": "Why do white clothes become less warm than black clothes?",
+                    "a": "White colour absorbs less light and reflects more of it, so white clothes become less warm."
+                  },
+                  {
+                    "q": "What is transmission of light?",
+                    "a": "When light passes through a transparent body without any change, it is called transmission of light."
+                  },
+                  {
+                    "q": "What is a transparent body?",
+                    "a": "A body through which light can pass, such as glass."
+                  },
+                  {
+                    "q": "Which light does ordinary glass not allow to pass through it?",
+                    "a": "Ordinary glass does not allow ultraviolet light to pass through it."
+                  },
+                  {
+                    "q": "When does regular reflection take place?",
+                    "a": "Regular reflection takes place when light strikes a smooth surface."
+                  },
+                  {
+                    "q": "When does irregular reflection take place?",
+                    "a": "Irregular reflection takes place when light strikes a rough surface."
+                  },
+                  {
+                    "q": "Why is it difficult to drive on a metalled road after rain?",
+                    "a": "After rain the road becomes smooth with water, and the light of the headlights of oncoming vehicles is regularly reflected into the eyes, producing glare, so driving becomes difficult."
+                  }
+                ]
+              },
+              {
+                "label": "Plane mirror and its image",
+                "items": [
+                  {
+                    "q": "What is a plane mirror?",
+                    "a": "A smooth and shiny surface that reflects light back; in a plane mirror, regular reflection of light takes place."
+                  },
+                  {
+                    "q": "Of what kind is the image formed in a plane mirror?",
+                    "a": "Virtual."
+                  },
+                  {
+                    "q": "How far behind the mirror is the image in a plane mirror?",
+                    "a": "As far behind the mirror as the object is in front of the mirror."
+                  },
+                  {
+                    "q": "Is the image in a plane mirror the same size as the object, or bigger?",
+                    "a": "The image in a plane mirror is the same size as the object."
+                  },
+                  {
+                    "q": "Why is the word AMBULANCE written reversed on an ambulance?",
+                    "a": "So that the driver of the vehicle in front can read the word the right way in his mirror."
+                  },
+                  {
+                    "q": "Of what kind is the image formed in a pinhole camera?",
+                    "a": "Real."
+                  },
+                  {
+                    "q": "Is the image in a pinhole camera usually smaller or bigger than the object?",
+                    "a": "Usually smaller than the object."
+                  },
+                  {
+                    "q": "State one difference between the images of a plane mirror and a pinhole camera.",
+                    "a": "In a plane mirror the image is virtual, whereas in a pinhole camera the image is real."
+                  }
+                ]
+              },
+              {
+                "label": "Concave and convex mirrors, periscope and kaleidoscope",
+                "items": [
+                  {
+                    "q": "How many mirrors are used in a periscope?",
+                    "a": "Two plane mirrors are used."
+                  },
+                  {
+                    "q": "At what angle are the mirrors placed in a periscope?",
+                    "a": "At an angle of 45°.",
+                    "da": {
+                      "type": "draw",
+                      "w": 300,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "line",
+                          "x1": 60,
+                          "y1": 60,
+                          "x2": 130,
+                          "y2": 60
+                        },
+                        {
+                          "t": "line",
+                          "x1": 60,
+                          "y1": 95,
+                          "x2": 130,
+                          "y2": 95
+                        },
+                        {
+                          "t": "line",
+                          "x1": 60,
+                          "y1": 60,
+                          "x2": 60,
+                          "y2": 95
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 60,
+                          "x2": 170,
+                          "y2": 60
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 95,
+                          "x2": 130,
+                          "y2": 210
+                        },
+                        {
+                          "t": "line",
+                          "x1": 130,
+                          "y1": 210,
+                          "x2": 170,
+                          "y2": 210
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 60,
+                          "x2": 170,
+                          "y2": 175
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 175,
+                          "x2": 240,
+                          "y2": 175
+                        },
+                        {
+                          "t": "line",
+                          "x1": 170,
+                          "y1": 210,
+                          "x2": 240,
+                          "y2": 210
+                        },
+                        {
+                          "t": "line",
+                          "x1": 240,
+                          "y1": 175,
+                          "x2": 240,
+                          "y2": 210
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 62,
+                          "x2": 165,
+                          "y2": 92
+                        },
+                        {
+                          "t": "line",
+                          "x1": 135,
+                          "y1": 180,
+                          "x2": 165,
+                          "y2": 210
+                        },
+                        {
+                          "t": "line",
+                          "x1": 60,
+                          "y1": 77,
+                          "x2": 150,
+                          "y2": 77
+                        },
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 77,
+                          "x2": 150,
+                          "y2": 195
+                        },
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 195,
+                          "x2": 240,
+                          "y2": 195
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              85,
+                              77
+                            ],
+                            [
+                              73,
+                              71
+                            ],
+                            [
+                              73,
+                              83
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              240,
+                              195
+                            ],
+                            [
+                              228,
+                              189
+                            ],
+                            [
+                              228,
+                              201
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 110,
+                          "y": 40,
+                          "s": "Light"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 92,
+                          "y1": 46,
+                          "x2": 76,
+                          "y2": 77
+                        },
+                        {
+                          "t": "text",
+                          "x": 170,
+                          "y": 50,
+                          "s": "Mirror"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 152,
+                          "y1": 54,
+                          "x2": 156,
+                          "y2": 83
+                        },
+                        {
+                          "t": "text",
+                          "x": 170,
+                          "y": 245,
+                          "s": "Mirror"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 152,
+                          "y1": 238,
+                          "x2": 158,
+                          "y2": 203
+                        },
+                        {
+                          "t": "text",
+                          "x": 205,
+                          "y": 120,
+                          "s": "45°"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 186,
+                          "y1": 114,
+                          "x2": 165,
+                          "y2": 92
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "Where is a periscope used?",
+                    "a": "It is used in submarines to see objects on the surface of the water."
+                  },
+                  {
+                    "q": "At what angle are the mirrors placed in a kaleidoscope?",
+                    "a": "At an angle of 60°."
+                  },
+                  {
+                    "q": "What is the cause of the many coloured images in a kaleidoscope?",
+                    "a": "Multiple reflection is the cause."
+                  },
+                  {
+                    "q": "Which side of a spoon is a concave mirror?",
+                    "a": "The front (inner) side of a spoon is a concave mirror."
+                  },
+                  {
+                    "q": "What is the image when an object is placed close to a concave mirror?",
+                    "a": "The image is virtual, upright and bigger than the real object."
+                  },
+                  {
+                    "q": "Where is a convex mirror used?",
+                    "a": "As a security mirror in shops and commercial centres, in motor cars to see the view behind, and as a mirror fixed at dangerous turns."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Light",
+            "sd": "اها توانائي جنهن سان شيون ڏسي سگهجن ٿيون",
+            "syn": "the energy by which objects can be seen"
+          },
+          {
+            "w": "Absorption",
+            "sd": "روشني جو ڪنهن شيءِ ۾ جذب ٿي وڃڻ",
+            "syn": "the taking in of light by an object"
+          },
+          {
+            "w": "Reflection",
+            "sd": "روشني جو مٿاڇري سان ٽڪرائجي واپس موٽڻ",
+            "syn": "the returning of light after striking a surface"
+          },
+          {
+            "w": "Transmission",
+            "sd": "روشني جو ڪنهن جسم مان گذري وڃڻ",
+            "syn": "the passing of light through a body"
+          },
+          {
+            "w": "Transparent",
+            "sd": "اهو جسم جنهن مان روشني گذري سگهندي آهي",
+            "syn": "allowing light to pass through"
+          },
+          {
+            "w": "Mirror",
+            "sd": "چمڪدار مٿاڇرو جيڪو روشني کي واپس موٽائي ٿو",
+            "syn": "a smooth shiny surface that reflects light"
+          },
+          {
+            "w": "Plane mirror",
+            "sd": "سڌي مٿاڇري وارو آئينو",
+            "syn": "a mirror with a flat surface"
+          },
+          {
+            "w": "Concave mirror",
+            "sd": "اندرئين پاسي کان چمڪدار آئينو",
+            "syn": "a mirror that is shiny on its inner side"
+          },
+          {
+            "w": "Convex mirror",
+            "sd": "ٻاهرئين پاسي کان چمڪدار آئينو",
+            "syn": "a mirror that is shiny on its outer side"
+          },
+          {
+            "w": "Image",
+            "sd": "آئيني ۾ نظر ايندڙ جسم جي تصوير",
+            "syn": "the picture of an object seen in a mirror"
+          },
+          {
+            "w": "Virtual image",
+            "sd": "اهو عکس جيڪو آئيني جي پٺيان ٺهيل لڳي، پر حقيقت ۾ نه هجي",
+            "syn": "an image that appears to be behind the mirror but is not really there"
+          },
+          {
+            "w": "Real image",
+            "sd": "اهو عکس جيڪو پردي تي حاصل ڪري سگهجي",
+            "syn": "an image that can be obtained on a screen"
+          },
+          {
+            "w": "Incident ray",
+            "sd": "آئيني ڏانهن ايندڙ روشني جي ڪرڻي",
+            "syn": "a ray of light coming towards a mirror"
+          },
+          {
+            "w": "Reflected ray",
+            "sd": "آئيني کان واپس موٽندڙ روشني جي ڪرڻي",
+            "syn": "a ray of light returning from a mirror"
+          },
+          {
+            "w": "Normal",
+            "sd": "آئيني تي ٽڪرائجڻ واري نقطي تي سڌي ليڪ",
+            "syn": "the line drawn perpendicular to the mirror at the point of incidence"
+          },
+          {
+            "w": "Regular reflection",
+            "sd": "هموار مٿاڇري تان روشني جو هڪ ئي رخ ۾ موٽڻ",
+            "syn": "reflection of light in one direction from a smooth surface"
+          },
+          {
+            "w": "Irregular (diffused) reflection",
+            "sd": "ناهموار مٿاڇري تان روشني جو مختلف رخن ۾ موٽڻ",
+            "syn": "reflection of light in different directions from a rough surface"
+          },
+          {
+            "w": "Periscope",
+            "sd": "ٻن آئينن وارو اوزار جيڪو لڪيل شين کي ڏسڻ لاءِ استعمال ٿئي ٿو",
+            "syn": "an instrument with two mirrors used to see hidden objects"
+          },
+          {
+            "w": "Kaleidoscope",
+            "sd": "ڪثير موٽ ڪاڻ سان رنگين نمونا ٺاهيندڙ اوزار",
+            "syn": "an instrument that makes coloured patterns by multiple reflection"
+          },
+          {
+            "w": "Multiple reflections",
+            "sd": "روشني جو ڪيترائي ڀيرا موٽ کائڻ",
+            "syn": "light being reflected many times"
+          }
+        ]
+      },
+      {
+        "unit": 11,
+        "title": "About Sound",
+        "display": "About Sound",
+        "sections": [
+          {
+            "name": "Mark the correct answer",
+            "num": "11.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "(i) Through which of the following things does sound travel fastest? (a) Sea water (b) Air (c) Gold (d) Vacuum",
+                    "a": "(c) Gold — Sound travels fastest through gold among the given options."
+                  },
+                  {
+                    "q": "(ii) When sound travels through air, the particles of air: (a) vibrate together with the travelling sound waves. (b) do not vibrate in any fixed direction. (c) vibrate in a direction perpendicular to the waves. (d) keep vibrating in straight lines.",
+                    "a": "(a) The particles of air vibrate together with the travelling sound waves."
+                  },
+                  {
+                    "q": "(iii) Sound waves first enter into what? (a) The eardrum (b) The long canal of the ear (c) The cochlea (d) The stirrup",
+                    "a": "(b) The long canal of the ear — Sound waves first enter the ear canal and then reach the eardrum."
+                  },
+                  {
+                    "q": "(iv) What is the speed of sound in air? (a) 345 metres per second (b) 333 metres per second (c) 332 metres per second (d) 354 metres per second",
+                    "a": "(c) 332 metres per second."
+                  },
+                  {
+                    "q": "(v) When sound waves reach the eardrum: (a) sound is felt by the brain. (b) The tiny hair cells in the cochlea can understand the vibration coming from the eardrum. (c) The hearing nerve feels the vibration and sends it to the brain. (d) The tiny bones behind the eardrum carry the vibration to the fluids of the inner ear.",
+                    "a": "(d) The tiny bones behind the eardrum carry the vibration to the fluids of the inner ear."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Complete the diagram",
+            "num": "11.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Complete the flow chart below showing the path of sound waves from the ear canal to the brain. Ear canal → ____________ → ____________ → ____________ → ____________ → Brain",
+                    "a": "Ear canal → Eardrum → Three small bones → Cochlea → Auditory nerve → Brain.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 230,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 48,
+                          "cy": 105,
+                          "r": 26
+                        },
+                        {
+                          "t": "line",
+                          "x1": 72,
+                          "y1": 95,
+                          "x2": 130,
+                          "y2": 95
+                        },
+                        {
+                          "t": "line",
+                          "x1": 72,
+                          "y1": 115,
+                          "x2": 130,
+                          "y2": 115
+                        },
+                        {
+                          "t": "line",
+                          "x1": 132,
+                          "y1": 93,
+                          "x2": 128,
+                          "y2": 117
+                        },
+                        {
+                          "t": "line",
+                          "x1": 133,
+                          "y1": 105,
+                          "x2": 141,
+                          "y2": 105
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 146,
+                          "cy": 105,
+                          "r": 5
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 158,
+                          "cy": 101,
+                          "r": 4
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 170,
+                          "cy": 105,
+                          "r": 5
+                        },
+                        {
+                          "t": "line",
+                          "x1": 151,
+                          "y1": 103,
+                          "x2": 154,
+                          "y2": 102
+                        },
+                        {
+                          "t": "line",
+                          "x1": 162,
+                          "y1": 103,
+                          "x2": 165,
+                          "y2": 104
+                        },
+                        {
+                          "t": "line",
+                          "x1": 175,
+                          "y1": 105,
+                          "x2": 181,
+                          "y2": 105
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 198,
+                          "cy": 105,
+                          "r": 17
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 198,
+                          "cy": 105,
+                          "r": 8,
+                          "a1": 20,
+                          "a2": 300
+                        },
+                        {
+                          "t": "line",
+                          "x1": 214,
+                          "y1": 105,
+                          "x2": 257,
+                          "y2": 90
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              252,
+                              72
+                            ],
+                            [
+                              268,
+                              62
+                            ],
+                            [
+                              290,
+                              66
+                            ],
+                            [
+                              298,
+                              82
+                            ],
+                            [
+                              292,
+                              98
+                            ],
+                            [
+                              272,
+                              102
+                            ],
+                            [
+                              256,
+                              94
+                            ],
+                            [
+                              250,
+                              82
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 130,
+                          "y": 32,
+                          "s": "Ear canal"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 100,
+                          "y1": 36,
+                          "x2": 100,
+                          "y2": 95
+                        },
+                        {
+                          "t": "text",
+                          "x": 162,
+                          "y": 32,
+                          "s": "Eardrum"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 140,
+                          "y1": 36,
+                          "x2": 131,
+                          "y2": 92
+                        },
+                        {
+                          "t": "text",
+                          "x": 245,
+                          "y": 32,
+                          "s": "Cochlea"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 216,
+                          "y1": 36,
+                          "x2": 205,
+                          "y2": 89
+                        },
+                        {
+                          "t": "text",
+                          "x": 305,
+                          "y": 42,
+                          "s": "Brain"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 296,
+                          "y1": 46,
+                          "x2": 290,
+                          "y2": 65
+                        },
+                        {
+                          "t": "text",
+                          "x": 80,
+                          "y": 180,
+                          "s": "Outer ear"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 55,
+                          "y1": 176,
+                          "x2": 52,
+                          "y2": 132
+                        },
+                        {
+                          "t": "text",
+                          "x": 190,
+                          "y": 200,
+                          "s": "Three small bones"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 160,
+                          "y1": 196,
+                          "x2": 159,
+                          "y2": 105
+                        },
+                        {
+                          "t": "text",
+                          "x": 263,
+                          "y": 200,
+                          "s": "Auditory nerve"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 240,
+                          "y1": 196,
+                          "x2": 238,
+                          "y2": 97
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Vibrating parts",
+            "num": "11.3",
+            "exercises": [
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "In which part of a guitar is vibration produced?",
+                    "a": "Vibration is produced in the strings of a guitar."
+                  },
+                  {
+                    "q": "In which part of a loudspeaker is vibration produced?",
+                    "a": "Vibration is produced in the diaphragm of a loudspeaker."
+                  },
+                  {
+                    "q": "In which part of a drum is vibration produced?",
+                    "a": "Vibration is produced in the skin (diaphragm) of a drum."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Answer the following questions",
+            "num": "11.4",
+            "exercises": [
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "(a) Tell what sound is and how it is produced?",
+                    "a": "Sound is a form of energy. Sound is produced by vibrating bodies: when a body vibrates, the particles of the air around it also start vibrating, and in this way sound is produced."
+                  },
+                  {
+                    "q": "(b) With the help of a diagram, explain clearly how the compressed and rarefied waves of sound are produced through a medium?",
+                    "a": "When the diaphragm of a loudspeaker vibrates, it pushes the particles of air around it. When the diaphragm moves forward, the particles of air come close to one another and a compression is produced, and when the diaphragm moves back, the particles of air move away from one another and a rarefaction is produced. This series of compressions and rarefactions keeps moving forward through the air, and in this way sound waves pass through the medium.",
+                    "da": {
+                      "type": "draw",
+                      "w": 320,
+                      "h": 250,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              10,
+                              94
+                            ],
+                            [
+                              18,
+                              94
+                            ],
+                            [
+                              18,
+                              126
+                            ],
+                            [
+                              10,
+                              126
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              18,
+                              98
+                            ],
+                            [
+                              34,
+                              90
+                            ],
+                            [
+                              34,
+                              130
+                            ],
+                            [
+                              18,
+                              122
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "point",
+                          "x": 52,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 60,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 68,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 76,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 84,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 100,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 120,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 140,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 160,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 168,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 176,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 184,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 192,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 208,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 228,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 248,
+                          "y": 96,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 52,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 60,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 68,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 76,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 84,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 100,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 120,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 140,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 160,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 168,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 176,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 184,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 192,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 208,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 228,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 248,
+                          "y": 110,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 52,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 60,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 68,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 76,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 84,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 100,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 120,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 140,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 160,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 168,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 176,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 184,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 192,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 208,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 228,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "point",
+                          "x": 248,
+                          "y": 124,
+                          "label": ""
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 64,
+                          "cy": 185,
+                          "r": 20,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 144,
+                          "cy": 185,
+                          "r": 20,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 224,
+                          "cy": 185,
+                          "r": 20,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 104,
+                          "cy": 185,
+                          "r": 20,
+                          "a1": 0,
+                          "a2": 180
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 184,
+                          "cy": 185,
+                          "r": 20,
+                          "a1": 0,
+                          "a2": 180
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 264,
+                          "cy": 185,
+                          "r": 20,
+                          "a1": 0,
+                          "a2": 180
+                        },
+                        {
+                          "t": "text",
+                          "x": 70,
+                          "y": 72,
+                          "s": "Diaphragm"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 55,
+                          "y1": 76,
+                          "x2": 31,
+                          "y2": 92
+                        },
+                        {
+                          "t": "text",
+                          "x": 112,
+                          "y": 80,
+                          "s": "Compression"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 88,
+                          "y1": 84,
+                          "x2": 84,
+                          "y2": 93
+                        },
+                        {
+                          "t": "text",
+                          "x": 176,
+                          "y": 80,
+                          "s": "Rarefaction"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 140,
+                          "y1": 84,
+                          "x2": 140,
+                          "y2": 93
+                        },
+                        {
+                          "t": "text",
+                          "x": 220,
+                          "y": 240,
+                          "s": "Sound waves"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 190,
+                          "y1": 236,
+                          "x2": 184,
+                          "y2": 206
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Answer in one word",
+            "num": "11.5",
+            "exercises": [
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "(a) The very fast to-and-fro movement of an object is ____________.",
+                    "a": "Vibration."
+                  },
+                  {
+                    "q": "(b) In a longitudinal wave of sound, the place where the particles are very close to one another is ____________.",
+                    "a": "Compression."
+                  },
+                  {
+                    "q": "(c) In a longitudinal wave of sound, the place where the particles are very far from one another is ____________.",
+                    "a": "Rarefaction."
+                  },
+                  {
+                    "q": "(d) What is the name of the last of the three small bones inside the ear?",
+                    "a": "Stirrup."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Activity",
+            "num": "11.6",
+            "exercises": [
+              {
+                "label": "6",
+                "items": [
+                  {
+                    "q": "Can sound make a spot of light dance?",
+                    "a": "Yes, sound can make a spot of light dance. Stretch a rubber sheet over an empty box and fix a small mirror on it, and place a source of light on the mirror in such a way that the beam of light falls on the mirror and, after reflection, reaches the wall. When someone speaks loudly or shouts from the other side of the box, the sound waves set the rubber sheet and the mirror vibrating, so the spot of light on the wall starts dancing. This activity shows that sound is produced by vibration and that vibration can be transferred from one thing to another."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "11.7",
+            "exercises": [
+              {
+                "label": "Sound and its waves",
+                "items": [
+                  {
+                    "q": "What is sound?",
+                    "a": "Sound is a form of energy."
+                  },
+                  {
+                    "q": "How is sound produced?",
+                    "a": "It is produced by vibrating bodies."
+                  },
+                  {
+                    "q": "In what form does sound travel?",
+                    "a": "In the form of waves."
+                  },
+                  {
+                    "q": "What kind of waves are sound waves?",
+                    "a": "Longitudinal waves."
+                  },
+                  {
+                    "q": "What is compression?",
+                    "a": "The place where the particles of air are very close to one another."
+                  },
+                  {
+                    "q": "What is rarefaction?",
+                    "a": "The place where the particles of air are very far from one another."
+                  },
+                  {
+                    "q": "What happens when a tuning fork is dipped in water?",
+                    "a": "Waves are produced in the water.",
+                    "da": {
+                      "type": "draw",
+                      "w": 320,
+                      "h": 230,
+                      "els": [
+                        {
+                          "t": "line",
+                          "x1": 150,
+                          "y1": 28,
+                          "x2": 150,
+                          "y2": 52
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 150,
+                          "cy": 60,
+                          "r": 8,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "line",
+                          "x1": 142,
+                          "y1": 60,
+                          "x2": 142,
+                          "y2": 125
+                        },
+                        {
+                          "t": "line",
+                          "x1": 158,
+                          "y1": 60,
+                          "x2": 158,
+                          "y2": 125
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              105,
+                              95
+                            ],
+                            [
+                              195,
+                              95
+                            ],
+                            [
+                              186,
+                              195
+                            ],
+                            [
+                              114,
+                              195
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 108,
+                          "y1": 125,
+                          "x2": 192,
+                          "y2": 125
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 142,
+                          "cy": 125,
+                          "r": 10,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 158,
+                          "cy": 125,
+                          "r": 10,
+                          "a1": 180,
+                          "a2": 360
+                        },
+                        {
+                          "t": "text",
+                          "x": 243,
+                          "y": 60,
+                          "s": "Tuning fork"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 180,
+                          "y1": 60,
+                          "x2": 158,
+                          "y2": 60
+                        },
+                        {
+                          "t": "text",
+                          "x": 275,
+                          "y": 150,
+                          "s": "Water"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 246,
+                          "y1": 148,
+                          "x2": 191,
+                          "y2": 125
+                        },
+                        {
+                          "t": "text",
+                          "x": 95,
+                          "y": 218,
+                          "s": "Glass"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 92,
+                          "y1": 214,
+                          "x2": 114,
+                          "y2": 195
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What does a microphone do?",
+                    "a": "It converts sound into electrical signals."
+                  }
+                ]
+              },
+              {
+                "label": "Speed of sound and media",
+                "items": [
+                  {
+                    "q": "What is the speed of sound in air?",
+                    "a": "332 metres per second."
+                  },
+                  {
+                    "q": "At what speed does sound travel in sea water?",
+                    "a": "1530 metres per second."
+                  },
+                  {
+                    "q": "Through which thing does sound travel fastest?",
+                    "a": "Through aluminium (6420 metres per second)."
+                  },
+                  {
+                    "q": "Can sound travel through a vacuum?",
+                    "a": "No, sound cannot travel through a vacuum."
+                  },
+                  {
+                    "q": "What does sound need to travel through?",
+                    "a": "A medium."
+                  },
+                  {
+                    "q": "On what things does the speed of sound depend?",
+                    "a": "On the density of the medium and the temperature."
+                  },
+                  {
+                    "q": "What is the speed of light?",
+                    "a": "300,000 kilometres per second."
+                  },
+                  {
+                    "q": "Why is the flash of lightning seen first and the sound of thunder heard afterwards?",
+                    "a": "Because the speed of light is much greater than the speed of sound."
+                  },
+                  {
+                    "q": "Who first found the speed of sound in air?",
+                    "a": "Marin Mersenne, who found the speed of sound in air in 1640."
+                  }
+                ]
+              },
+              {
+                "label": "Ear, hearing and noise",
+                "items": [
+                  {
+                    "q": "How many parts does the ear have?",
+                    "a": "Three: the outer ear, the middle ear and the inner ear."
+                  },
+                  {
+                    "q": "What does the eardrum do?",
+                    "a": "It vibrates with the sound waves."
+                  },
+                  {
+                    "q": "How many small bones are there in the middle ear?",
+                    "a": "Three."
+                  },
+                  {
+                    "q": "Which cells are there in the cochlea?",
+                    "a": "Hair cells."
+                  },
+                  {
+                    "q": "Who carries the message of sound to the brain?",
+                    "a": "The auditory nerve."
+                  },
+                  {
+                    "q": "What is noise?",
+                    "a": "A loud or unpleasant sound that causes discomfort."
+                  },
+                  {
+                    "q": "In which unit is the loudness of sound measured?",
+                    "a": "In decibels."
+                  },
+                  {
+                    "q": "What level of noise damages the ear?",
+                    "a": "More than 85 decibels."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Sound",
+            "sd": "لرزش مان پيدا ٿيندڙ توانائي",
+            "syn": "energy produced by vibration"
+          },
+          {
+            "w": "Vibration",
+            "sd": "تمام تيز اڳتي ۽ پوئتي چرپر",
+            "syn": "very fast to-and-fro movement"
+          },
+          {
+            "w": "Wave",
+            "sd": "توانائيءَ جي هڪ هنڌ کان ٻئي هنڌ تائين پهچڻ واري صورت",
+            "syn": "the form in which energy travels from one place to another"
+          },
+          {
+            "w": "Compression",
+            "sd": "اهو هنڌ جتي ذرڙا هڪ ٻئي جي تمام ويجھو هوندا آهن",
+            "syn": "the place where particles are very close to one another"
+          },
+          {
+            "w": "Rarefaction",
+            "sd": "اهو هنڌ جتي ذرڙا هڪ ٻئي کان تمام پري هوندا آهن",
+            "syn": "the place where particles are very far from one another"
+          },
+          {
+            "w": "Medium",
+            "sd": "اهو مادو جنهن مان آواز گذري ٿو",
+            "syn": "the substance through which sound travels"
+          },
+          {
+            "w": "Speed",
+            "sd": "هلڻ جي تيزي",
+            "syn": "how fast something moves"
+          },
+          {
+            "w": "Vacuum",
+            "sd": "خالي جاءِ جتي هوا يا ڪو مادو نه هجي",
+            "syn": "empty space with no air or matter in it"
+          },
+          {
+            "w": "Density",
+            "sd": "هڪ اڪائي حجم ۾ مادي جي مقدار",
+            "syn": "the amount of matter in a unit volume"
+          },
+          {
+            "w": "Eardrum",
+            "sd": "ڪن جو پردو جيڪو آواز جي لهرن سان لرزش ڪري ٿو",
+            "syn": "the membrane of the ear that vibrates with sound waves"
+          },
+          {
+            "w": "Cochlea",
+            "sd": "اندرين ڪن جو حصو جنهن ۾ باريڪ وارن وارا گهرڙا هوندا آهن",
+            "syn": "the part of the inner ear containing hair cells"
+          },
+          {
+            "w": "Stirrup",
+            "sd": "وچئين ڪن جي تن ننڍين هڏين مان آخري هڏي",
+            "syn": "the last of the three small bones of the middle ear"
+          },
+          {
+            "w": "Noise",
+            "sd": "زوردار يا اڻ وڻندڙ آواز",
+            "syn": "a loud or unpleasant sound"
+          },
+          {
+            "w": "Decibel",
+            "sd": "آواز جي شدت ماپڻ جي اڪائي",
+            "syn": "the unit for measuring the loudness of sound"
+          },
+          {
+            "w": "Microphone",
+            "sd": "آواز کي بجليءَ جي سگنلن ۾ تبديل ڪندڙ اوزار",
+            "syn": "an instrument that converts sound into electrical signals"
+          },
+          {
+            "w": "Loudspeaker",
+            "sd": "آواز کي زور سان ٻڌائڻ وارو اوزار",
+            "syn": "an instrument that makes sound heard loudly"
+          },
+          {
+            "w": "Tuning Fork",
+            "sd": "هڪ خاص آواز پيدا ڪندڙ ڌاتوءَ جو اوزار",
+            "syn": "a metal instrument that produces a particular sound"
+          },
+          {
+            "w": "Thunder",
+            "sd": "بجليءَ جي چمڪاٽ کان پوءِ ٻڌجندڙ زوردار آواز",
+            "syn": "the loud sound heard after a flash of lightning"
+          }
+        ]
+      },
+      {
+        "unit": 12,
+        "title": "Space and Satellites",
+        "display": "Space and Satellites",
+        "sections": [
+          {
+            "name": "Complete the following sentences with the help of the given words",
+            "num": "12.1",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "Given words: Natural, Asteroids, Belt, Geostationary, Meteors, Navigation, Sun, Global, Photographs, Sputnik-1. The Moon is the ____________ satellite of the Earth.",
+                    "a": "Natural."
+                  },
+                  {
+                    "q": "In the solar system there are many ____________ in the orbits of ____________ and they form a ____________ between Mars and Jupiter.",
+                    "a": "Asteroids, Sun, Belt. (The printed sentence is garbled.)"
+                  },
+                  {
+                    "q": "The time of revolution of 24 hours is that of ____________.",
+                    "a": "Geostationary."
+                  },
+                  {
+                    "q": "A shooting star is called ____________.",
+                    "a": "Meteors."
+                  },
+                  {
+                    "q": "____________ type of satellites are used to find the location of ships, aeroplanes and motor vehicles.",
+                    "a": "Navigation."
+                  },
+                  {
+                    "q": "A comet is seen when it passes near ____________.",
+                    "a": "The Sun."
+                  },
+                  {
+                    "q": "In the word GPS, G stands for ____________.",
+                    "a": "Global."
+                  },
+                  {
+                    "q": "To observe the Earth, ____________ of the Earth are taken with the help of satellites.",
+                    "a": "Photographs."
+                  },
+                  {
+                    "q": "The first artificial space satellite ____________ was sent into space.",
+                    "a": "Sputnik-1."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mark 'T' for true and 'F' for false against the following sentences",
+            "num": "12.2",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "Navigation satellites are used to broadcast T.V. signals.",
+                    "a": "False — Navigation satellites are used to find locations; T.V. signals are sent by communication satellites."
+                  },
+                  {
+                    "q": "Artificial satellites are made by man.",
+                    "a": "True — Artificial satellites are made by man."
+                  },
+                  {
+                    "q": "Only the Moon is the natural satellite of our solar system.",
+                    "a": "False — So far 173 natural satellites have been discovered, not only the Moon."
+                  },
+                  {
+                    "q": "Meteors and small asteroids are made of rocks.",
+                    "a": "True — Meteors are rocky pieces and small asteroids are made of rock or metal."
+                  },
+                  {
+                    "q": "Natural satellites are not heavenly bodies.",
+                    "a": "False — Natural satellites are heavenly bodies."
+                  },
+                  {
+                    "q": "Small asteroids (Asteroids) are called minor planets (Minor-Planets).",
+                    "a": "True — Small asteroids are called minor planets."
+                  },
+                  {
+                    "q": "The satellite named Landsat was sent by Pakistan.",
+                    "a": "False — Landsat is a satellite of America; Pakistan's communication satellite is PAKSAT-1R."
+                  },
+                  {
+                    "q": "Comets appear in the sky like a streak of light.",
+                    "a": "True — Comets appear in the sky like a streak of light."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Give short answers to the following questions",
+            "num": "12.3",
+            "exercises": [
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "State the meaning of a satellite and also tell its types.",
+                    "a": "A satellite is a heavenly body or object that revolves around a bigger heavenly body (a planet or a star). There are two types of satellites: (1) natural satellite and (2) artificial satellite."
+                  },
+                  {
+                    "q": "Tell the names of the natural satellites of the Sun.",
+                    "a": "The eight planets revolving around the Sun are the natural satellites of the Sun, including the Earth, Mercury, Mars and Jupiter; Pluto is a minor planet."
+                  },
+                  {
+                    "q": "What is a comet, and how is it different from a small asteroid?",
+                    "a": "A comet is in fact a snowball made of ice and dust, with three parts: the nucleus, the coma and the tail. When it comes near the Sun, its tail can be seen, and it revolves around the Sun in an elliptical orbit. An asteroid is a body made of rock or metal, which has no tail and mostly forms a belt between Mars and Jupiter and revolves around the Sun."
+                  },
+                  {
+                    "q": "How do we find the location of a thing on the Earth with the help of an artificial satellite?",
+                    "a": "The location of a thing is found by the Global Positioning System (GPS) with the help of an artificial satellite. Satellites send signals, a receiver on the Earth receives the signals of several satellites and calculates the exact location of the thing, and ground stations help in this."
+                  },
+                  {
+                    "q": "Into how many types can artificial satellites be divided according to their work? Tell only their names.",
+                    "a": "Artificial satellites can be divided into five types according to their work: (1) meteorological satellites, (2) communication satellites, (3) Earth-observation satellites, (4) navigation and sea-travel satellites, (5) scientific satellites."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Identify the marked parts in the picture below and write them in the answer box using the given words",
+            "num": "12.4",
+            "exercises": [
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "The thing marked with number 1 in the picture",
+                    "a": "Asteroid belt.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 320,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 60,
+                          "cy": 320,
+                          "r": 140
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 60,
+                          "cy": 320,
+                          "r": 100
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              268,
+                              42
+                            ],
+                            [
+                              282,
+                              38
+                            ],
+                            [
+                              290,
+                              48
+                            ],
+                            [
+                              280,
+                              56
+                            ],
+                            [
+                              268,
+                              52
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              292,
+                              60
+                            ],
+                            [
+                              306,
+                              56
+                            ],
+                            [
+                              314,
+                              66
+                            ],
+                            [
+                              304,
+                              74
+                            ],
+                            [
+                              292,
+                              70
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              262,
+                              66
+                            ],
+                            [
+                              274,
+                              62
+                            ],
+                            [
+                              282,
+                              72
+                            ],
+                            [
+                              272,
+                              80
+                            ],
+                            [
+                              260,
+                              74
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              310,
+                              40
+                            ],
+                            [
+                              322,
+                              36
+                            ],
+                            [
+                              330,
+                              46
+                            ],
+                            [
+                              320,
+                              54
+                            ],
+                            [
+                              308,
+                              48
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              286,
+                              84
+                            ],
+                            [
+                              298,
+                              80
+                            ],
+                            [
+                              306,
+                              90
+                            ],
+                            [
+                              296,
+                              96
+                            ],
+                            [
+                              284,
+                              90
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              318,
+                              72
+                            ],
+                            [
+                              330,
+                              68
+                            ],
+                            [
+                              336,
+                              78
+                            ],
+                            [
+                              326,
+                              86
+                            ],
+                            [
+                              314,
+                              80
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              190,
+                              80
+                            ],
+                            [
+                              210,
+                              78
+                            ],
+                            [
+                              220,
+                              90
+                            ],
+                            [
+                              212,
+                              104
+                            ],
+                            [
+                              194,
+                              102
+                            ],
+                            [
+                              186,
+                              90
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              100,
+                              196
+                            ],
+                            [
+                              140,
+                              194
+                            ],
+                            [
+                              146,
+                              208
+                            ],
+                            [
+                              136,
+                              220
+                            ],
+                            [
+                              104,
+                              218
+                            ],
+                            [
+                              96,
+                              206
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              108,
+                              196
+                            ],
+                            [
+                              114,
+                              176
+                            ],
+                            [
+                              120,
+                              190
+                            ],
+                            [
+                              126,
+                              172
+                            ],
+                            [
+                              132,
+                              192
+                            ],
+                            [
+                              124,
+                              198
+                            ],
+                            [
+                              114,
+                              198
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              58,
+                              222
+                            ],
+                            [
+                              84,
+                              218
+                            ],
+                            [
+                              94,
+                              230
+                            ],
+                            [
+                              82,
+                              242
+                            ],
+                            [
+                              58,
+                              240
+                            ],
+                            [
+                              50,
+                              228
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 258,
+                          "y1": 72,
+                          "x2": 226,
+                          "y2": 84
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              226,
+                              84
+                            ],
+                            [
+                              234.54400374531753,
+                              75.45599625468247
+                            ],
+                            [
+                              238.05523816120143,
+                              84.81928803037292
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 184,
+                          "y1": 118,
+                          "x2": 144,
+                          "y2": 196
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              144,
+                              196
+                            ],
+                            [
+                              144.57039580949535,
+                              183.93042467107853
+                            ],
+                            [
+                              153.46857043762273,
+                              188.4935911470413
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 330,
+                          "y": 35,
+                          "s": "1"
+                        },
+                        {
+                          "t": "text",
+                          "x": 228,
+                          "y": 88,
+                          "s": "2"
+                        },
+                        {
+                          "t": "text",
+                          "x": 162,
+                          "y": 204,
+                          "s": "3"
+                        },
+                        {
+                          "t": "text",
+                          "x": 102,
+                          "y": 240,
+                          "s": "4"
+                        },
+                        {
+                          "t": "text",
+                          "x": 90,
+                          "y": 28,
+                          "s": "Space"
+                        },
+                        {
+                          "t": "text",
+                          "x": 250,
+                          "y": 18,
+                          "s": "Asteroid"
+                        },
+                        {
+                          "t": "text",
+                          "x": 250,
+                          "y": 36,
+                          "s": "belt"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 242,
+                          "y1": 40,
+                          "x2": 270,
+                          "y2": 42
+                        },
+                        {
+                          "t": "text",
+                          "x": 205,
+                          "y": 62,
+                          "s": "Meteoroid"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 196,
+                          "y1": 66,
+                          "x2": 200,
+                          "y2": 79
+                        },
+                        {
+                          "t": "text",
+                          "x": 80,
+                          "y": 150,
+                          "s": "Meteor"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 76,
+                          "y1": 154,
+                          "x2": 112,
+                          "y2": 182
+                        },
+                        {
+                          "t": "text",
+                          "x": 62,
+                          "y": 178,
+                          "s": "Atmosphere"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 45,
+                          "y1": 182,
+                          "x2": 35,
+                          "y2": 183
+                        },
+                        {
+                          "t": "text",
+                          "x": 170,
+                          "y": 272,
+                          "s": "Meteorite"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 128,
+                          "y1": 268,
+                          "x2": 86,
+                          "y2": 238
+                        },
+                        {
+                          "t": "text",
+                          "x": 205,
+                          "y": 300,
+                          "s": "Earth"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "The thing marked with number 2 in the picture",
+                    "a": "Meteoroid — a rocky piece floating in space."
+                  },
+                  {
+                    "q": "The thing marked with number 3 in the picture",
+                    "a": "Meteor — seen as a streak of light as it burns in the atmosphere."
+                  },
+                  {
+                    "q": "The thing marked with number 4 in the picture",
+                    "a": "Meteorite — a rock fallen on the Earth."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Circle the correct answer",
+            "num": "12.5",
+            "exercises": [
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "(i) Which of the following is not a natural satellite? (a) Moon (b) Sputnik-1 (c) Saturn (d) Comet",
+                    "a": "(b) Sputnik-1 — Sputnik-1 is a man-made satellite."
+                  },
+                  {
+                    "q": "(ii) What are Earth-observation satellites used for? (a) For broadcasting signals (b) For preparing maps (c) For communication (d) For space research",
+                    "a": "(b) For preparing maps."
+                  },
+                  {
+                    "q": "(iii) What is the Global Positioning System (GPS) used for? (a) For sending artificial satellites into space (b) For forecasting the weather (c) For finding the location of things on the Earth (d) For getting information about the Sun and other planets",
+                    "a": "(c) For finding the location of things on the Earth."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Tick (✓) in the correct boxes to show the characteristics of asteroids, comets and meteors",
+            "num": "12.6",
+            "exercises": [
+              {
+                "label": "6",
+                "items": [
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It is seen in the sky like a streak of light.| | | [[/T]]",
+                    "a": "Meteor ✓ — A meteor appears in the sky as a streak of light."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It is a snowball like a frozen ball of dust.| | | [[/T]]",
+                    "a": "Comet ✓ — A comet is a snowball of ice and dust."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It is also seen in the sky without the help of any instrument.| | | [[/T]]",
+                    "a": "Comet ✓ — A comet can be seen in the sky with the naked eye."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It is made of a rocky body.| | | [[/T]]",
+                    "a": "Asteroid ✓ — An asteroid is a rocky body."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It looks like a star with long hair.| | | [[/T]]",
+                    "a": "Comet ✓ — A comet with its tail looks like a star with long hair."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It keeps revolving around the Sun.| | | [[/T]]",
+                    "a": "Comet ✓ — A comet revolves around the Sun in an elliptical orbit."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;Halley's comet is an example of it.| | | [[/T]]",
+                    "a": "Comet ✓ — Halley's comet is a comet."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;They are the leftover, useless and broken particles of planets.| | | [[/T]]",
+                    "a": "Asteroid ✓ — Asteroids are the leftover, broken pieces of planets."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It is commonly called a shooting star.| | | [[/T]]",
+                    "a": "Meteor ✓ — A meteor is commonly called a shooting star."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It mostly burns up on entering the Earth's atmosphere.| | | [[/T]]",
+                    "a": "Meteor ✓ — A meteor mostly burns up when it enters the Earth's atmosphere."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;Its tail is seen when it comes near the Sun.| | | [[/T]]",
+                    "a": "Comet ✓ — The tail of a comet is seen when it comes near the Sun."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;They are mostly found in the orbits of Mars and Jupiter.| | | [[/T]]",
+                    "a": "Asteroid ✓ — Asteroids are mostly found in the belt between Mars and Jupiter."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It is sometimes seen in the sky in the shape of an arc.| | | [[/T]]",
+                    "a": "Comet ✓ — A comet's curved tail is sometimes seen in the sky."
+                  },
+                  {
+                    "q": "[[T]]Characteristic|Asteroid|Comet|Meteor;;It takes many years to complete one orbit around the Sun.| | | [[/T]]",
+                    "a": "Comet ✓ — A comet takes many years to complete one orbit around the Sun; Halley's comet returns after 76 years."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Look at the pictures below carefully and label them with their names",
+            "num": "12.7",
+            "exercises": [
+              {
+                "label": "7",
+                "items": [
+                  {
+                    "q": "The picture on the top left",
+                    "a": "Artificial satellite."
+                  },
+                  {
+                    "q": "The picture on the top right",
+                    "a": "Astronaut."
+                  },
+                  {
+                    "q": "The picture on the bottom left",
+                    "a": "Geostationary satellite (it completes one orbit around the Earth in 24 hours)."
+                  },
+                  {
+                    "q": "The picture on the bottom right",
+                    "a": "Rocket."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Additional Questions",
+            "num": "12.8",
+            "exercises": [
+              {
+                "label": "Space and natural satellites",
+                "items": [
+                  {
+                    "q": "What is space?",
+                    "a": "It is the empty space that exists between the bodies of the universe."
+                  },
+                  {
+                    "q": "What is astronomy?",
+                    "a": "Astronomy is that branch of science by which we get information about the heavenly bodies in the universe, such as stars, planets, satellites, the Moon, comets, meteors and galaxies."
+                  },
+                  {
+                    "q": "Which satellite of the Earth is the Moon?",
+                    "a": "The Moon is the natural satellite of the Earth."
+                  },
+                  {
+                    "q": "Who first stepped on the Moon, and when?",
+                    "a": "Neil Armstrong first stepped on the Moon in 1969."
+                  },
+                  {
+                    "q": "How big is the Moon compared with the Earth?",
+                    "a": "The Moon is about 27% (a quarter) of the Earth."
+                  },
+                  {
+                    "q": "How many natural satellites have been discovered so far?",
+                    "a": "So far 173 natural satellites have been discovered."
+                  },
+                  {
+                    "q": "How many planets are there in the solar system? Tell the names of some.",
+                    "a": "There are eight planets, including the Earth, Mercury, Mars and Jupiter; Pluto is a minor planet."
+                  },
+                  {
+                    "q": "Why does the Moon have no light of its own?",
+                    "a": "The Moon has no light of its own; it shines by reflecting the light of the Sun."
+                  }
+                ]
+              },
+              {
+                "label": "Comets, asteroids and meteors",
+                "items": [
+                  {
+                    "q": "Of what is a comet made?",
+                    "a": "It is made of ice and dust, and it is called a snowball."
+                  },
+                  {
+                    "q": "What are the three parts of a comet?",
+                    "a": "Nucleus, coma and tail.",
+                    "da": {
+                      "type": "draw",
+                      "w": 320,
+                      "h": 200,
+                      "els": [
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              118,
+                              80
+                            ],
+                            [
+                              292,
+                              52
+                            ],
+                            [
+                              306,
+                              100
+                            ],
+                            [
+                              292,
+                              148
+                            ],
+                            [
+                              118,
+                              120
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 95,
+                          "cy": 100,
+                          "r": 30
+                        },
+                        {
+                          "t": "circle",
+                          "cx": 95,
+                          "cy": 100,
+                          "r": 9
+                        },
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 58,
+                          "s": "Nucleus"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 128,
+                          "y1": 62,
+                          "x2": 101,
+                          "y2": 93
+                        },
+                        {
+                          "t": "text",
+                          "x": 150,
+                          "y": 168,
+                          "s": "Coma"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 134,
+                          "y1": 164,
+                          "x2": 114,
+                          "y2": 123
+                        },
+                        {
+                          "t": "text",
+                          "x": 282,
+                          "y": 38,
+                          "s": "Tail"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 274,
+                          "y1": 42,
+                          "x2": 252,
+                          "y2": 58
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "In which direction is the tail of a comet always?",
+                    "a": "Always away from the Sun."
+                  },
+                  {
+                    "q": "After how many years is Halley's comet seen?",
+                    "a": "After every 76 years; it was last seen in 1986 and will be seen again in 2062."
+                  },
+                  {
+                    "q": "Where are small asteroids mostly found?",
+                    "a": "They are mostly found forming a belt between Mars and Jupiter."
+                  },
+                  {
+                    "q": "What is a meteoroid?",
+                    "a": "They are in fact rocky particles and pieces, which are seen floating in outer space."
+                  },
+                  {
+                    "q": "What is called a meteorite?",
+                    "a": "A meteoroid that is not completely burnt up in the Earth's atmosphere and falls on the Earth is called a meteorite."
+                  }
+                ]
+              },
+              {
+                "label": "Artificial satellites and their uses",
+                "items": [
+                  {
+                    "q": "What is an artificial satellite?",
+                    "a": "An artificial satellite is a man-made body that revolves around a heavenly body."
+                  },
+                  {
+                    "q": "How is an artificial satellite sent into space?",
+                    "a": "An artificial satellite is sent into orbit by means of a rocket."
+                  },
+                  {
+                    "q": "From where does an artificial satellite get energy?",
+                    "a": "It gets energy from the light of the Sun through solar panels."
+                  },
+                  {
+                    "q": "What is PAKSAT-1R?",
+                    "a": "It is the first communication satellite of Pakistan, which SUPARCO sent into space in 2011."
+                  },
+                  {
+                    "q": "What is a ground station?",
+                    "a": "They are special centres on the Earth, through which satellites are guided and contacted.",
+                    "da": {
+                      "type": "draw",
+                      "w": 340,
+                      "h": 260,
+                      "els": [
+                        {
+                          "t": "circle",
+                          "cx": 170,
+                          "cy": 380,
+                          "r": 150
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              150,
+                              60
+                            ],
+                            [
+                              185,
+                              60
+                            ],
+                            [
+                              185,
+                              90
+                            ],
+                            [
+                              150,
+                              90
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              110,
+                              68
+                            ],
+                            [
+                              150,
+                              68
+                            ],
+                            [
+                              150,
+                              82
+                            ],
+                            [
+                              110,
+                              82
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              185,
+                              68
+                            ],
+                            [
+                              225,
+                              68
+                            ],
+                            [
+                              225,
+                              82
+                            ],
+                            [
+                              185,
+                              82
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 167,
+                          "y1": 90,
+                          "x2": 167,
+                          "y2": 96
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 167,
+                          "cy": 96,
+                          "r": 8,
+                          "a1": 0,
+                          "a2": 180
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 110,
+                          "cy": 242,
+                          "r": 14,
+                          "a1": 200,
+                          "a2": 340
+                        },
+                        {
+                          "t": "line",
+                          "x1": 110,
+                          "y1": 242,
+                          "x2": 110,
+                          "y2": 252
+                        },
+                        {
+                          "t": "arc",
+                          "cx": 230,
+                          "cy": 242,
+                          "r": 14,
+                          "a1": 200,
+                          "a2": 340
+                        },
+                        {
+                          "t": "line",
+                          "x1": 230,
+                          "y1": 242,
+                          "x2": 230,
+                          "y2": 252
+                        },
+                        {
+                          "t": "line",
+                          "x1": 160,
+                          "y1": 100,
+                          "x2": 116,
+                          "y2": 232
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              116,
+                              232
+                            ],
+                            [
+                              114.73508893593265,
+                              219.98334489136016
+                            ],
+                            [
+                              124.2219219164378,
+                              223.14562255152856
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "line",
+                          "x1": 175,
+                          "y1": 100,
+                          "x2": 224,
+                          "y2": 232
+                        },
+                        {
+                          "t": "poly",
+                          "pts": [
+                            [
+                              224,
+                              232
+                            ],
+                            [
+                              215.48445231750108,
+                              223.42763465156278
+                            ],
+                            [
+                              224.8593671973164,
+                              219.94755261284345
+                            ]
+                          ]
+                        },
+                        {
+                          "t": "text",
+                          "x": 200,
+                          "y": 35,
+                          "s": "Satellite"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 178,
+                          "y1": 39,
+                          "x2": 172,
+                          "y2": 59
+                        },
+                        {
+                          "t": "text",
+                          "x": 110,
+                          "y": 212,
+                          "s": "Ground station"
+                        },
+                        {
+                          "t": "line",
+                          "x1": 102,
+                          "y1": 216,
+                          "x2": 108,
+                          "y2": 228
+                        },
+                        {
+                          "t": "text",
+                          "x": 205,
+                          "y": 255,
+                          "s": "Earth"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "q": "What are the three important parts of GPS?",
+                    "a": "Satellite, receiver and ground station."
+                  },
+                  {
+                    "q": "Who is called an astronaut?",
+                    "a": "A person who travels into space to do research is called an astronaut. Neil Armstrong is a famous astronaut."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Space",
+            "sd": "خالي جاءِ",
+            "syn": "empty space"
+          },
+          {
+            "w": "Satellite",
+            "sd": "چوڌاري گردش ڪندڙ جسم",
+            "syn": "a body revolving around another body"
+          },
+          {
+            "w": "Natural",
+            "sd": "فطرت جو ٺهيل",
+            "syn": "made by nature"
+          },
+          {
+            "w": "Artificial",
+            "sd": "انسان جو ٺهيل",
+            "syn": "made by man"
+          },
+          {
+            "w": "Astronomy",
+            "sd": "آسماني جسمن جو علم",
+            "syn": "the science of heavenly bodies"
+          },
+          {
+            "w": "Orbit",
+            "sd": "گردش ڪرڻ جو رستو",
+            "syn": "the path of revolution"
+          },
+          {
+            "w": "Planet",
+            "sd": "سج جي چوڌاري گردش ڪندڙ وڏو جسم",
+            "syn": "a big body revolving around the Sun"
+          },
+          {
+            "w": "Comet",
+            "sd": "برف ۽ دز جو ٺهيل آسماني جسم",
+            "syn": "a heavenly body made of ice and dust"
+          },
+          {
+            "w": "Asteroid",
+            "sd": "ننڍڙو پٿريلو جسم",
+            "syn": "a small rocky body"
+          },
+          {
+            "w": "Meteoroid / Meteor",
+            "sd": "خلا ۾ ترندڙ پٿريلو ٽڪرو",
+            "syn": "a rocky piece floating in space"
+          },
+          {
+            "w": "Meteorite",
+            "sd": "زمين تي ڪريل پٿر",
+            "syn": "a rock fallen on the Earth"
+          },
+          {
+            "w": "Geostationary",
+            "sd": "زمين جي مقابلي ۾ بيٺل",
+            "syn": "standing still relative to the Earth"
+          },
+          {
+            "w": "Rocket",
+            "sd": "سياري کي خلا ۾ موڪليندڙ گاڏي",
+            "syn": "the vehicle that sends a satellite into space"
+          },
+          {
+            "w": "Astronaut",
+            "sd": "خلا ۾ سفر ڪندڙ ماڻهو",
+            "syn": "a person who travels in space"
+          },
+          {
+            "w": "Ground Station",
+            "sd": "زمين تي رابطي جو مرڪز",
+            "syn": "a centre of contact on the Earth"
+          },
+          {
+            "w": "Navigation",
+            "sd": "هنڌ معلوم ڪرڻ",
+            "syn": "finding a location"
+          },
+          {
+            "w": "Communication",
+            "sd": "پيغام پهچائڻ",
+            "syn": "conveying a message"
+          },
+          {
+            "w": "Meteorological",
+            "sd": "موسم سان واسطو رکندڙ",
+            "syn": "related to weather"
+          }
+        ]
+      }
+    ],
   }
 };
 function escHtml(s){ return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
