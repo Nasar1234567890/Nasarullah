@@ -266,6 +266,13 @@ body.dark .ringbg{stroke:#333}
 .eq-line{display:block;color:#0b5563;font-weight:700}
 .eq-step{display:block;color:#1e40af}
 .eq-ans{display:block;color:#15803d;font-weight:700}
+/* LTR equations/sums (v95): guide renderers mark a pure equation/sum block with
+   dir="ltr" (chemHtml eq-blocks with no Arabic script; ltrGuideLines wraps
+   pure-Latin sum lines in .sum-line). Those align left; every line containing
+   Sindhi/Urdu text carries no dir="ltr" and stays RTL exactly as before.
+   English guides are already LTR, so these rules are a no-op for them. */
+.eq-line[dir="ltr"],.eq-step[dir="ltr"],.eq-ans[dir="ltr"]{text-align:left}
+.sum-line{display:block;text-align:left}
 .frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 2px}
 .frac .num{display:block;border-bottom:1px solid currentColor;padding:0 3px;line-height:1.3}
 .frac .den{display:block;padding:0 3px;line-height:1.3}
@@ -37987,8 +37994,8 @@ function printTest(){
   var hash=sha256Hex(pw);
   if(!hash||hash!==PRINT_PASSWORD_HASH){ alert('Wrong password. Only teachers can print tests.'); return; }
   var w=window.open('', '_blank'); if(!w) return;
-  var h='<html><head><meta charset="utf-8"><title>'+escHtml(testInfo().title)+'</title></head><body dir="'+testInfo().dir+'"><h2 style="text-align:center">GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h2><h3 style="text-align:center">'+escHtml(testInfo().title)+'</h3><p>Name: ______________________ &nbsp; Date: ____________</p>';
-  activeQs.forEach(function(q,i){ h+='<p><b>'+(i+1)+'. '+testMathHtml(q.q)+'</b></p><p>'+q.options.map(function(o,j){ return ' ('+letters[j]+') '+testMathHtml(o); }).join(' &nbsp; ')+'</p>'; });
+  var h='<html><head><meta charset="utf-8"><title>'+escHtml(testInfo().title)+'</title><style>.m{direction:ltr;unicode-bidi:embed}</style></head><body dir="'+testInfo().dir+'"><h2 style="text-align:center">GOVERNMENT BOYS LOWER SECONDARY SCHOOL HASEEJA MAHAR</h2><h3 style="text-align:center">'+escHtml(testInfo().title)+'</h3><p>Name: ______________________ &nbsp; Date: ____________</p>';
+  activeQs.forEach(function(q,i){ var _qd=/[\u0600-\u06FF]/.test(q.q||'')?'':' dir="ltr"'; h+='<p'+_qd+'><b>'+(i+1)+'. '+testMathHtml(q.q)+'</b></p><p>'+q.options.map(function(o,j){ return ' ('+letters[j]+') '+optHtml(o); }).join(' &nbsp; ')+'</p>'; });
   h+='</body></html>';
   w.document.write(h); w.document.close(); w.focus(); w.print();
 }
@@ -38050,6 +38057,10 @@ function render(){
   document.getElementById('counter').textContent='Question '+(idx+1)+' of '+qs.length;
   document.getElementById('bar').style.width=((idx+1)/qs.length*100)+'%';
   document.getElementById('qtext').innerHTML=formatQuestion(qs[idx].q);
+  /* LTR question: a question with no Arabic script (a maths sum / equation or
+     English question) renders left-to-right; a Sindhi question keeps the
+     inherited RTL direction of #test. Same content rule as optHtml uses. */
+  document.getElementById('qtext').style.direction=/[\u0600-\u06FF]/.test(qs[idx].q||'')?'':'ltr';
   const box=document.getElementById('opts'); box.innerHTML='';
   qs[idx].options.forEach((o,i)=>{
     const b=document.createElement('button');
@@ -38106,7 +38117,7 @@ function submitTest(auto){
     const yours=answers[i]===null?'Not answered':('('+letters[answers[i]]+') '+optHtml(q.options[answers[i]]));
     const corr='('+letters[q.answer]+') '+optHtml(q.options[q.answer]);
     const ok=answers[i]===q.answer;
-    html+='<div class="review"><div class="qq"><b>Q'+(i+1)+'.</b> '+formatQuestion(q.q)+'</div>'
+    html+='<div class="review"><div class="qq"'+(/[\u0600-\u06FF]/.test(q.q||'')?'':' dir="ltr"')+'><b>Q'+(i+1)+'.</b> '+formatQuestion(q.q)+'</div>'
       +'<div>Your answer: <span class="'+(ok?'correct':'wrong')+'">'+yours+'</span></div>'
       +'<div>Correct answer: <span class="correct">'+corr+'</span></div></div>';
   });
