@@ -322735,12 +322735,12 @@ var STUDY = {
                 "label": "1",
                 "items": [
                   {
-                    "q": "Given words: Natural, Asteroids, Belt, Geostationary, Meteors, Navigation, Sun, Global, Photographs, Sputnik-1. The Moon is the ____________ satellite of the Earth.",
+                    "q": "Given words: Natural, Asteroids, Mars, Jupiters, Geostationary, Meteors, Navigation, Sun, Global, Photographs. The Moon is the ____________ satellite of the Earth.",
                     "a": "Natural."
                   },
                   {
                     "q": "In the solar system there are many ____________ in the orbits of ____________ and they form a ____________ between Mars and Jupiter.",
-                    "a": "Asteroids, Sun, Belt. (The printed sentence is garbled.)"
+                    "a": "Asteroids, Mars, Jupiters. (The printed sentence is garbled.)"
                   },
                   {
                     "q": "The time of revolution of 24 hours is that of ____________.",
@@ -322768,7 +322768,7 @@ var STUDY = {
                   },
                   {
                     "q": "The first artificial space satellite ____________ was sent into space.",
-                    "a": "Sputnik-1."
+                    "a": "Sputnik-1. (Not in the printed word bank.)"
                   }
                 ]
               }
