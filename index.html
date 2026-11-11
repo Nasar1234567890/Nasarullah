@@ -536,7 +536,7 @@ body.dark #matcontent.pro-guide table.pro-table td{border-color:#23414c}
 <div id="review"></div>
 <button class="homebtn" id="retrybtn" onclick="startRetry()" data-i18n="retry">Retry wrong questions</button>
 <button class="homebtn" id="flagrevbtn" onclick="startFlagRev()" data-i18n="flagRev">Revise flagged questions</button>
-<button class="homebtn" id="sharebtn" onclick="shareResult()" data-i18n="shareResult">Share result on WhatsApp</button>
+<button class="homebtn" id="sharebtn" style="display:none" onclick="shareResult()" data-i18n="shareResult">Share result on WhatsApp</button>
 <button class="homebtn" id="cardbtn" onclick="downloadScoreCard()">Download score card</button>
 <button class="homebtn" id="reportbtn" onclick="reportMistake()" data-i18n="report">Report a mistake in this test</button>
 <button class="homebtn" onclick="goHome()" data-i18n="backHome">Back to Home</button>
@@ -37858,8 +37858,8 @@ function renderTestList(cls, title, keys){
   document.getElementById('subjectback').textContent=tr('backSubjects');
   document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':keys.map(function(k){
     var t=QUESTIONS[k];
-    var _h='<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'||k==='gk4'||k==='gk5'||k==='gk6'||k==='gk7'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button><button class="modebtn" onclick="shareTest(\''+k+'\')">\u2197 '+tr('shareTest')+'</button>';
-    if(typeof CHAPTERS!=='undefined'){ Object.keys(CHAPTERS).forEach(function(ck){ var ch=CHAPTERS[ck]; if(ch.parent!==k) return; var cb=getBest(ck); _h+='<button class="testbtn'+(ch.dir==='ltr'?' en':'')+'" onclick="startTest(\''+ck+'\')">'+ch.title+'<small>'+chapterCount(ck)+' MCQs &middot; '+ch.minutes+' minutes &middot; Chapter test</small><small>'+(cb===null?'':'Best: '+cb+'/'+chapterCount(ck))+'</small>'+lastTakenHtml(ck)+histHtml(ck)+'</button><button class="modebtn" onclick="shareTest(\''+ck+'\')">\u2197 '+tr('shareTest')+'</button>'; }); }
+    var _h='<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'||k==='gk4'||k==='gk5'||k==='gk6'||k==='gk7'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button><button class="modebtn" style="display:none" onclick="shareTest(\''+k+'\')">\u2197 '+tr('shareTest')+'</button>';
+    if(typeof CHAPTERS!=='undefined'){ Object.keys(CHAPTERS).forEach(function(ck){ var ch=CHAPTERS[ck]; if(ch.parent!==k) return; var cb=getBest(ck); _h+='<button class="testbtn'+(ch.dir==='ltr'?' en':'')+'" onclick="startTest(\''+ck+'\')">'+ch.title+'<small>'+chapterCount(ck)+' MCQs &middot; '+ch.minutes+' minutes &middot; Chapter test</small><small>'+(cb===null?'':'Best: '+cb+'/'+chapterCount(ck))+'</small>'+lastTakenHtml(ck)+histHtml(ck)+'</button><button class="modebtn" style="display:none" onclick="shareTest(\''+ck+'\')">\u2197 '+tr('shareTest')+'</button>'; }); }
     return _h;
   }).join('');
   document.getElementById('home').classList.add('hidden');
@@ -38113,7 +38113,7 @@ function submitTest(auto){
   applyTargetOnSubmit(score, qs.length, testKey);
   document.getElementById('scorenote').textContent=(demoMode?tr('demoNote')+' ':(retryMode?(flagRevMode?tr('flagRevNote'):tr('retryNote')):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):''))))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(demoMode||retryMode||lastWrong.length===0)?'none':'block';
-  var _sb=document.getElementById('sharebtn'); if(_sb) _sb.style.display=demoMode?'none':'block';
+  var _sb=document.getElementById('sharebtn'); if(_sb) _sb.style.display='none'; // hidden 2026-11-11 at user request - restore: demoMode?'none':'block'
   var _cb=document.getElementById('cardbtn'); if(_cb) _cb.style.display=demoMode?'none':'block';
   var _pb2=document.getElementById('reportbtn'); if(_pb2) _pb2.style.display=demoMode?'none':'block';
   var _fb2=document.getElementById('flagrevbtn'); if(_fb2) _fb2.style.display=(demoMode||retryMode||!flagged||!flagged.some(function(f){return f;}))?'none':'block';
