@@ -266,11 +266,16 @@ body.dark .ringbg{stroke:#333}
 .eq-line{display:block;color:#0b5563;font-weight:700}
 .eq-step{display:block;color:#1e40af}
 .eq-ans{display:block;color:#15803d;font-weight:700}
-/* LTR equations/sums (v95): guide renderers mark a pure equation/sum block with
-   dir="ltr" (chemHtml eq-blocks with no Arabic script; ltrGuideLines wraps
-   pure-Latin sum lines in .sum-line). Those align left; every line containing
-   Sindhi/Urdu text carries no dir="ltr" and stays RTL exactly as before.
-   English guides are already LTR, so these rules are a no-op for them. */
+/* LTR equations/sums (v95, extended for Sindhi equation headers): guide
+   renderers mark a pure equation/sum block with dir="ltr" (chemHtml eq-blocks
+   with no Arabic script; ltrGuideLines wraps pure-Latin sum lines in
+   .sum-line, and also pure-maths lines joined only by the Sindhi conjunction
+   '۽' — isEqLine in study.js — so a header such as "2. 2x + y = 4 ۽
+   x² - 2x + y² = 0" reads left-to-right with its number first, "Qn:" included
+   inside the same LTR block by proQHtml). Those align left; every line
+   containing other Sindhi/Urdu text carries no dir="ltr" and stays RTL
+   exactly as before. English guides are already LTR, so these rules are a
+   no-op for them. */
 .eq-line[dir="ltr"],.eq-step[dir="ltr"],.eq-ans[dir="ltr"]{text-align:left}
 .sum-line{display:block;text-align:left}
 .frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 2px}

@@ -7455,7 +7455,7 @@ var STUDY = {
                 "q": "Find the values of x and y if:\n(i) (x - 5, 10) = (11, y - 7)\n(ii) (5x + 8, 5y - 4) = (3x + 10, 2y + 2)\n(iii) (2x - 3y, 5x + y) = (3, 16)"
               },
               {
-                "a": "n(P × Q) = 10 × 15 = 150\nn(Q × P) = 15 × 10 = 150\nn(P × P) = 10 × 10 = 100\nn(Q × Q) = 15 × 15 = 225",
+                "a": "n(P × Q) = 10 × 15\nn(P × Q) = 150\nn(Q × P) = 15 × 10\nn(Q × P) = 150\nn(P × P) = 10 × 10\nn(P × P) = 100\nn(Q × Q) = 15 × 15\nn(Q × Q) = 225",
                 "q": "If set P has 10 elements and Q has 15 elements. Find the number of elements of P × Q, Q × P, P × P and Q × Q."
               },
               {
@@ -7467,7 +7467,7 @@ var STUDY = {
                 "q": "If A = {5, 6} and B = {1, 2, 3} then find:\n(i) Three relations in A × B (ii) Four relations in B × A (iii) Five relations in B (iv) All relations in A"
               },
               {
-                "a": "O(A × B) = 3 × 4 = 12\n2^12 = 4096",
+                "a": "O(A × B) = 3 × 4\nO(A × B) = 12\n2^12 = 4096",
                 "q": "For two sets A and B, if O(A) = 3 and O(B) = 4, then find number of all binary relations in A × B."
               },
               {
@@ -7558,11 +7558,11 @@ var STUDY = {
             "items": [
               {
                 "q": "Find the ratio of the following.\n(i) 70kg and 28kg (ii) 60cm and 1m (iii) 40sec, 3min (iv) 200 ml and 2l (v) 135° and 360° (vi) 3.5kg, 5kg 200gm",
-                "a": "(i) 70kg : 28kg = 70 : 28 = 5 : 2\n(ii) 60cm : 1m = 60cm : 100cm = 60 : 100 = 3 : 5\n(iii) 40sec : 3min = 40sec : 180sec = 40 : 180 = 2 : 9\n(iv) 200 ml : 2l = 200 ml : 2000 ml = 200 : 2000 = 1 : 10\n(v) 135° : 360° = 135 : 360 = 3 : 8\n(vi) 3.5kg : 5kg 200gm = 3500gm : 5200gm = 3500 : 5200 = 35 : 52"
+                "a": "(i) 70kg : 28kg = 70 : 28\n70kg : 28kg = 5 : 2\n(ii) 60cm : 1m = 60cm : 100cm\n60cm : 1m = 60 : 100\n60cm : 1m = 3 : 5\n(iii) 40sec : 3min = 40sec : 180sec\n40sec : 3min = 40 : 180\n40sec : 3min = 2 : 9\n(iv) 200 ml : 2l = 200 ml : 2000 ml\n200 ml : 2l = 200 : 2000\n200 ml : 2l = 1 : 10\n(v) 135° : 360° = 135 : 360\n135° : 360° = 3 : 8\n(vi) 3.5kg : 5kg 200gm = 3500gm : 5200gm\n3.5kg : 5kg 200gm = 3500 : 5200\n3.5kg : 5kg 200gm = 35 : 52"
               },
               {
                 "q": "In a factory, there are 120 workers in which 45 are women and remaining are men. Find the ratio of\n(i) men to women (ii) women to men (iii) women to total worker (iv) men to total workers",
-                "a": "Total workers = 120\nWomen = 45\nMen = 120 − 45 = 75\n(i) Men to women = 75 : 45 = 5 : 3\n(ii) Women to men = 45 : 75 = 3 : 5\n(iii) Women to total workers = 45 : 120 = 3 : 8\n(iv) Men to total workers = 75 : 120 = 5 : 8"
+                "a": "Total workers = 120\nWomen = 45\nMen = 120 − 45\nMen = 75\n(i) Men to women = 75 : 45\nMen to women = 5 : 3\n(ii) Women to men = 45 : 75\nWomen to men = 3 : 5\n(iii) Women to total workers = 45 : 120\nWomen to total workers = 3 : 8\n(iv) Men to total workers = 75 : 120\nMen to total workers = 5 : 8"
               },
               {
                 "q": "If 5(4x − 2y) = 3x − 4y, find x : y",
@@ -7582,7 +7582,7 @@ var STUDY = {
               },
               {
                 "q": "Find the value of x in the following.\n(i) 2x + 5 : 5 :: 3x − 2 : 7\n(ii) [[(4x − 3)/5]] : [[3/4]] :: [[4x/3]] : [[7/2]]\n(iii) [[(x − 3)/2]] : [[5/(x − 1)]] :: [[(x − 1)/3]] : [[4/(x + 4)]]\n(iv) (a² − ab + b²) : x :: [[(a³ + b³)/(a − b)]] : (a + b)²\n(v) 11 − x : 8 − x :: 25 − x : 16 − x",
-                "a": "(i) 2x + 5 : 5 :: 3x − 2 : 7\n(2x + 5)(7) = 5(3x − 2)\n14x + 35 = 15x − 10\n35 + 10 = 15x − 14x\nx = 45\n(ii) [[(4x − 3)/5]] : [[3/4]] :: [[4x/3]] : [[7/2]]\n([[(4x − 3)/5]]) ÷ ([[3/4]]) = ([[4x/3]]) ÷ ([[7/2]])\n[[(4x − 3)/5]] × [[4/3]] = [[4x/3]] × [[2/7]]\n[[(16x − 12)/15]] = [[8x/21]]\n21(16x − 12) = 15(8x)\n336x − 252 = 120x\n216x = 252\nx = [[252/216]] = [[7/6]]\n(iii) [[(x − 3)/2]] : [[5/(x − 1)]] :: [[(x − 1)/3]] : [[4/(x + 4)]]\n([[(x − 3)/2]]) ÷ ([[5/(x − 1)]]) = ([[(x − 1)/3]]) ÷ ([[4/(x + 4)]])\n(x − 3)[[(x − 1)/10]] = (x − 1)[[(x + 4)/12]]\n[[(x − 3)/10]] = [[(x + 4)/12]]\nx ≠ 1\n12(x − 3) = 10(x + 4)\n12x − 36 = 10x + 40\n2x = 76\nx = 38\n(iv) (a² − ab + b²) : x :: [[(a³ + b³)/(a − b)]] : (a + b)²\n(a² − ab + b²)(a + b)² = [[x(a³ + b³)/(a − b)]]\nx = (a² − ab + b²)[[(a + b)²(a − b)/(a³ + b³)]]\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a² − ab + b²)[[(a + b)²(a − b)/((a + b)(a² − ab + b²))]]\nx = (a + b)(a − b) = a² − b²\n(v) 11 − x : 8 − x :: 25 − x : 16 − x\n(11 − x)(16 − x) = (8 − x)(25 − x)\n176 − 11x − 16x + x² = 200 − 8x − 25x + x²\n176 − 27x = 200 − 33x\n33x − 27x = 200 − 176\n6x = 24\nx = 4"
+                "a": "(i) 2x + 5 : 5 :: 3x − 2 : 7\n(2x + 5)(7) = 5(3x − 2)\n14x + 35 = 15x − 10\n35 + 10 = 15x − 14x\nx = 45\n(ii) [[(4x − 3)/5]] : [[3/4]] :: [[4x/3]] : [[7/2]]\n([[(4x − 3)/5]]) ÷ ([[3/4]]) = ([[4x/3]]) ÷ ([[7/2]])\n[[(4x − 3)/5]] × [[4/3]] = [[4x/3]] × [[2/7]]\n[[(16x − 12)/15]] = [[8x/21]]\n21(16x − 12) = 15(8x)\n336x − 252 = 120x\n216x = 252\nx = [[252/216]]\nx = [[7/6]]\n(iii) [[(x − 3)/2]] : [[5/(x − 1)]] :: [[(x − 1)/3]] : [[4/(x + 4)]]\n([[(x − 3)/2]]) ÷ ([[5/(x − 1)]]) = ([[(x − 1)/3]]) ÷ ([[4/(x + 4)]])\n(x − 3)[[(x − 1)/10]] = (x − 1)[[(x + 4)/12]]\n[[(x − 3)/10]] = [[(x + 4)/12]]\nx ≠ 1\n12(x − 3) = 10(x + 4)\n12x − 36 = 10x + 40\n2x = 76\nx = 38\n(iv) (a² − ab + b²) : x :: [[(a³ + b³)/(a − b)]] : (a + b)²\n(a² − ab + b²)(a + b)² = [[x(a³ + b³)/(a − b)]]\nx = (a² − ab + b²)[[(a + b)²(a − b)/(a³ + b³)]]\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a² − ab + b²)[[(a + b)²(a − b)/((a + b)(a² − ab + b²))]]\nx = (a + b)(a − b)\nx = a² − b²\n(v) 11 − x : 8 − x :: 25 − x : 16 − x\n(11 − x)(16 − x) = (8 − x)(25 − x)\n176 − 11x − 16x + x² = 200 − 8x − 25x + x²\n176 − 27x = 200 − 33x\n33x − 27x = 200 − 176\n6x = 24\nx = 4"
               }
             ]
           },
@@ -7591,43 +7591,43 @@ var STUDY = {
             "items": [
               {
                 "q": "If y varies directly as x, and y = 10 when x = 3, find\n(i) y in terms of x (ii) y when x = 6 (iii) x when y = 15",
-                "a": "y ∝ x\ny = kx ... (i)\nx = 3\ny = 10\n10 = 3k\nk = [[10/3]]\n(i) y = ([[10/3]])x\n(ii) x = 6\ny = ([[10/3]])(6) = 20\n(iii) y = 15\n15 = ([[10/3]])x\nx = [[45/10]] = [[9/2]]"
+                "a": "y ∝ x\ny = kx ... (i)\nx = 3\ny = 10\n10 = 3k\nk = [[10/3]]\n(i) y = ([[10/3]])x\n(ii) x = 6\ny = ([[10/3]])(6)\ny = 20\n(iii) y = 15\n15 = ([[10/3]])x\nx = [[45/10]]\nx = [[9/2]]"
               },
               {
                 "q": "If V ∝ T and V = 15 when T = 24, find\n(i) The equation connecting V and T. (ii) V when T = 30 (iii) T when V = 10",
-                "a": "V = kT ... (i)\nV = 15\nT = 24\n15 = 24k\nk = [[15/24]] = [[5/8]]\n(i) V = ([[5/8]])T\n(ii) T = 30\nV = ([[5/8]])(30) = [[150/8]] = [[75/4]]\n(iii) V = 10\n10 = ([[5/8]])T\nT = [[80/5]] = 16"
+                "a": "V = kT ... (i)\nV = 15\nT = 24\n15 = 24k\nk = [[15/24]]\nk = [[5/8]]\n(i) V = ([[5/8]])T\n(ii) T = 30\nV = ([[5/8]])(30)\nV = [[150/8]]\nV = [[75/4]]\n(iii) V = 10\n10 = ([[5/8]])T\nT = [[80/5]]\nT = 16"
               },
               {
                 "q": "If u ∝ ∛v and u = 4 when v = 64, find the value of u when v = 216 and the value of v when u = 5",
-                "a": "u = k∛v ... (i)\nu = 4\nv = 64\n4 = k∛64 = k(4)\nk = 1\nu = ∛v ... (ii)\nv = 216\nu = ∛216 = 6\nu = 5\n5 = ∛v\nv = 5³ = 125"
+                "a": "u = k∛v ... (i)\nu = 4\nv = 64\n4 = k∛64\n4 = k(4)\nk = 1\nu = ∛v ... (ii)\nv = 216\nu = ∛216\nu = 6\nu = 5\n5 = ∛v\nv = 5³\nv = 125"
               },
               {
                 "q": "If F varies directly as m³ when m = 3 and F = 81, find F when m = 5.",
-                "a": "F ∝ m³\nF = km³ ... (i)\nm = 3\nF = 81\n81 = k(3)³ = 27k\nk = [[81/27]] = 3\nF = 3m³ ... (ii)\nm = 5\nF = 3(5)³ = 3(125) = 375"
+                "a": "F ∝ m³\nF = km³ ... (i)\nm = 3\nF = 81\n81 = k(3)³\n81 = 27k\nk = [[81/27]]\nk = 3\nF = 3m³ ... (ii)\nm = 5\nF = 3(5)³\nF = 3(125)\nF = 375"
               },
               {
                 "q": "If y varies inversely as x and y = 10 when x = 3, find y when x = 10.",
-                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 10\nx = 3\n10 = [[k/3]]\nk = 30\ny = [[30/x]] ... (ii)\nx = 10\ny = [[30/10]] = 3"
+                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 10\nx = 3\n10 = [[k/3]]\nk = 30\ny = [[30/x]] ... (ii)\nx = 10\ny = [[30/10]]\ny = 3"
               },
               {
                 "q": "The volume V of a gas varies inversely as square root of the pressure P of the gas, if V = 12 when P = 9, find P when V = 4",
-                "a": "V ∝ [[1/√P]]\nV = [[k/√P]] ... (i)\nV = 12\nP = 9\n12 = [[k/√9]] = [[k/3]]\nk = 36\nV = [[36/√P]] ... (ii)\nV = 4\n4 = [[36/√P]]\n√P = [[36/4]] = 9\nP = 9² = 81"
+                "a": "V ∝ [[1/√P]]\nV = [[k/√P]] ... (i)\nV = 12\nP = 9\n12 = [[k/√9]]\n12 = [[k/3]]\nk = 36\nV = [[36/√P]] ... (ii)\nV = 4\n4 = [[36/√P]]\n√P = [[36/4]]\n√P = 9\nP = 9²\nP = 81"
               },
               {
                 "q": "If F ∝ [[1/r²]] and F = 8 when r = 2 then find:\n(i) F when r = 5 (ii) r when F = 24",
-                "a": "F = [[k/r²]] ... (i)\nF = 8\nr = 2\n8 = [[k/(2)²]] = [[k/4]]\nk = 32\nF = [[32/r²]] ... (ii)\n(i) r = 5\nF = [[32/25]]\n(ii) F = 24\n24 = [[32/r²]]\nr² = [[32/24]] = [[4/3]]\nr = [[2/√3]]"
+                "a": "F = [[k/r²]] ... (i)\nF = 8\nr = 2\n8 = [[k/(2)²]]\n8 = [[k/4]]\nk = 32\nF = [[32/r²]] ... (ii)\n(i) r = 5\nF = [[32/25]]\n(ii) F = 24\n24 = [[32/r²]]\nr² = [[32/24]]\nr² = [[4/3]]\nr = [[2/√3]]"
               },
               {
                 "q": "The cube root of x varies as the square of y if x = 8 when y = 3 find x when y = [[3/2]]",
-                "a": "∛x ∝ y²\n∛x = ky² ... (i)\nx = 8\ny = 3\n∛8 = k(3)²\n2 = 9k\nk = [[2/9]]\n∛x = ([[2/9]])y² ... (ii)\ny = [[3/2]]\n∛x = ([[2/9]])([[3/2]])² = ([[2/9]])([[9/4]]) = [[1/2]]\nx = ([[1/2]])³ = [[1/8]]"
+                "a": "∛x ∝ y²\n∛x = ky² ... (i)\nx = 8\ny = 3\n∛8 = k(3)²\n2 = 9k\nk = [[2/9]]\n∛x = ([[2/9]])y² ... (ii)\ny = [[3/2]]\n∛x = ([[2/9]])([[3/2]])²\n∛x = ([[2/9]])([[9/4]])\n∛x = [[1/2]]\nx = ([[1/2]])³\nx = [[1/8]]"
               },
               {
                 "q": "The force F between two bodies is inversely proportional to the square of the distance between their centers. If F = 2 and d = 3 then find d when F = 72",
-                "a": "F ∝ [[1/d²]]\nF = [[k/d²]] ... (i)\nF = 2\nd = 3\n2 = [[k/(3)²]] = [[k/9]]\nk = 18\nF = [[18/d²]] ... (ii)\nF = 72\n72 = [[18/d²]]\nd² = [[18/72]] = [[1/4]]\nd = [[1/2]]"
+                "a": "F ∝ [[1/d²]]\nF = [[k/d²]] ... (i)\nF = 2\nd = 3\n2 = [[k/(3)²]]\n2 = [[k/9]]\nk = 18\nF = [[18/d²]] ... (ii)\nF = 72\n72 = [[18/d²]]\nd² = [[18/72]]\nd² = [[1/4]]\nd = [[1/2]]"
               },
               {
                 "q": "If y varies inversely as (x − 5) when y = 6 and x = 8, find y when x = 10",
-                "a": "y ∝ [[1/(x − 5)]]\ny = [[k/(x − 5)]] ... (i)\ny = 6\nx = 8\n6 = [[k/(8 − 5)]] = [[k/3]]\nk = 18\ny = [[18/(x − 5)]] ... (ii)\nx = 10\ny = [[18/(10 − 5)]] = [[18/5]]"
+                "a": "y ∝ [[1/(x − 5)]]\ny = [[k/(x − 5)]] ... (i)\ny = 6\nx = 8\n6 = [[k/(8 − 5)]]\n6 = [[k/3]]\nk = 18\ny = [[18/(x − 5)]] ... (ii)\nx = 10\ny = [[18/(10 − 5)]]\ny = [[18/5]]"
               }
             ]
           },
@@ -7636,19 +7636,19 @@ var STUDY = {
             "items": [
               {
                 "q": "Find the third proportional if first, second and fourth proportional are\n(i) 6, 18 and 54 (ii) a² − b², a + b and a − b (iii) (x + y)², x³ + y³ and x + y (iv) [[(a³ + b³)/(a² − b²)]], [[(a² − ab + b²)/(a − b)]] and a + b",
-                "a": "(i) 6 : 18 :: x : 54\n18x = 6 × 54\n18x = 324\nx = 18\n(ii) (a² − b²) : (a + b) :: x : (a − b)\n(a + b)x = (a² − b²)(a − b)\nx = (a² − b²)[[(a − b)/(a + b)]]\na² − b² = (a − b)(a + b)\nx = (a − b)(a + b)[[(a − b)/(a + b)]] = (a − b)²\n(iii) (x + y)² : (x³ + y³) :: x : (x + y)\n(x³ + y³)x = (x + y)²(x + y) = (x + y)³\nx = [[(x + y)³/(x³ + y³)]]\nx³ + y³ = (x + y)(x² − xy + y²)\nx = [[(x + y)³/((x + y)(x² − xy + y²))]] = [[(x + y)²/(x² − xy + y²)]]\n(iv) [[(a³ + b³)/(a² − b²)]] : [[(a² − ab + b²)/(a − b)]] :: x : (a + b)\n[[(a³ + b³)/(a² − b²)]] = (a + b)[[(a² − ab + b²)/((a − b)(a + b))]] = [[(a² − ab + b²)/(a − b)]]\nx = a + b"
+                "a": "(i) 6 : 18 :: x : 54\n18x = 6 × 54\n18x = 324\nx = 18\n(ii) (a² − b²) : (a + b) :: x : (a − b)\n(a + b)x = (a² − b²)(a − b)\nx = (a² − b²)[[(a − b)/(a + b)]]\na² − b² = (a − b)(a + b)\nx = (a − b)(a + b)[[(a − b)/(a + b)]]\nx = (a − b)²\n(iii) (x + y)² : (x³ + y³) :: x : (x + y)\n(x³ + y³)x = (x + y)²(x + y)\n(x³ + y³)x = (x + y)³\nx = [[(x + y)³/(x³ + y³)]]\nx³ + y³ = (x + y)(x² − xy + y²)\nx = [[(x + y)³/((x + y)(x² − xy + y²))]]\nx = [[(x + y)²/(x² − xy + y²)]]\n(iv) [[(a³ + b³)/(a² − b²)]] : [[(a² − ab + b²)/(a − b)]] :: x : (a + b)\n[[(a³ + b³)/(a² − b²)]] = (a + b)[[(a² − ab + b²)/((a − b)(a + b))]]\n[[(a³ + b³)/(a² − b²)]] = [[(a² − ab + b²)/(a − b)]]\nx = a + b"
               },
               {
                 "q": "Find the fourth proportional to\n(i) 8, 4, 2 (ii) a³ + b³, a² − b², a² − ab + b² (iii) a² − 8a + 12, a − 2, 2a³ − 12a² (iv) (a² − b²)(a² − ab + b²), a³ + b³, a³ − b³",
-                "a": "(i) 8 : 4 :: 2 : x\n8x = 4 × 2 = 8\nx = 1\n(ii) (a³ + b³) : (a² − b²) :: (a² − ab + b²) : x\nx(a³ + b³) = (a² − b²)(a² − ab + b²)\nx = (a² − b²)[[(a² − ab + b²)/(a³ + b³)]]\na² − b² = (a − b)(a + b)\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a − b)(a + b)[[(a² − ab + b²)/((a + b)(a² − ab + b²))]] = a − b\n(iii) (a² − 8a + 12) : (a − 2) :: (2a³ − 12a²) : x\nx(a² − 8a + 12) = (a − 2)(2a³ − 12a²)\nx = (a − 2)[[(2a³ − 12a²)/(a² − 8a + 12)]]\na² − 8a + 12 = (a − 2)(a − 6)\n2a³ − 12a² = 2a²(a − 6)\nx = (a − 2)(2a²)[[(a − 6)/((a − 2)(a − 6))]] = 2a²\n(iv) (a² − b²)(a² − ab + b²) : (a³ + b³) :: (a³ − b³) : x\nx(a² − b²)(a² − ab + b²) = (a³ + b³)(a³ − b³)\nx = (a³ + b³)[[(a³ − b³)/((a² − b²)(a² − ab + b²))]]\na³ + b³ = (a + b)(a² − ab + b²), a³ − b³ = (a − b)(a² + ab + b²)\na² − b² = (a − b)(a + b)\nx = (a + b)(a² − ab + b²)(a − b)[[(a² + ab + b²)/((a − b)(a + b)(a² − ab + b²))]] = a² + ab + b²"
+                "a": "(i) 8 : 4 :: 2 : x\n8x = 4 × 2\n8x = 8\nx = 1\n(ii) (a³ + b³) : (a² − b²) :: (a² − ab + b²) : x\nx(a³ + b³) = (a² − b²)(a² − ab + b²)\nx = (a² − b²)[[(a² − ab + b²)/(a³ + b³)]]\na² − b² = (a − b)(a + b)\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a − b)(a + b)[[(a² − ab + b²)/((a + b)(a² − ab + b²))]]\nx = a − b\n(iii) (a² − 8a + 12) : (a − 2) :: (2a³ − 12a²) : x\nx(a² − 8a + 12) = (a − 2)(2a³ − 12a²)\nx = (a − 2)[[(2a³ − 12a²)/(a² − 8a + 12)]]\na² − 8a + 12 = (a − 2)(a − 6)\n2a³ − 12a² = 2a²(a − 6)\nx = (a − 2)(2a²)[[(a − 6)/((a − 2)(a − 6))]]\nx = 2a²\n(iv) (a² − b²)(a² − ab + b²) : (a³ + b³) :: (a³ − b³) : x\nx(a² − b²)(a² − ab + b²) = (a³ + b³)(a³ − b³)\nx = (a³ + b³)[[(a³ − b³)/((a² − b²)(a² − ab + b²))]]\na³ + b³ = (a + b)(a² − ab + b²), a³ − b³ = (a − b)(a² + ab + b²)\na² − b² = (a − b)(a + b)\nx = (a + b)(a² − ab + b²)(a − b)[[(a² + ab + b²)/((a − b)(a + b)(a² − ab + b²))]]\nx = a² + ab + b²"
               },
               {
                 "q": "Find the mean proportional to\n(i) 8, 18 (ii) 5ab², 20a³b² (iii) a⁴ − b⁴, [[(a² − b²)/(a² + b²)]] (iv) a³ − b³, [[(a − b)/(a² + ab + b²)]]",
-                "a": "(i) Mean proportional = √(8 × 18) = √144 = 12\n(ii) Mean proportional = √(5ab² × 20a³b²) = √(100a⁴b⁴) = 10a²b²\n(iii) Mean proportional = √((a⁴ − b⁴) × [[(a² − b²)/(a² + b²)]])\na⁴ − b⁴ = (a² − b²)(a² + b²)\n= √((a² − b²)(a² + b²)[[(a² − b²)/(a² + b²)]]) = √((a² − b²)²) = a² − b²\n(iv) Mean proportional = √((a³ − b³) × [[(a − b)/(a² + ab + b²)]])\na³ − b³ = (a − b)(a² + ab + b²)\n= √((a − b)(a² + ab + b²)[[(a − b)/(a² + ab + b²)]]) = √((a − b)²) = a − b"
+                "a": "(i) Mean proportional = √(8 × 18)\nMean proportional = √144\nMean proportional = 12\n(ii) Mean proportional = √(5ab² × 20a³b²)\nMean proportional = √(100a⁴b⁴)\nMean proportional = 10a²b²\n(iii) Mean proportional = √((a⁴ − b⁴) × [[(a² − b²)/(a² + b²)]])\na⁴ − b⁴ = (a² − b²)(a² + b²)\nMean proportional = √((a² − b²)(a² + b²)[[(a² − b²)/(a² + b²)]])\nMean proportional = √((a² − b²)²)\nMean proportional = a² − b²\n(iv) Mean proportional = √((a³ − b³) × [[(a − b)/(a² + ab + b²)]])\na³ − b³ = (a − b)(a² + ab + b²)\nMean proportional = √((a − b)(a² + ab + b²)[[(a − b)/(a² + ab + b²)]])\nMean proportional = √((a − b)²)\nMean proportional = a − b"
               },
               {
                 "q": "Find the value of x in the following continued proportions.\n(i) 45, x, 5 (ii) 16, x, 9 (iii) 12, 3x − 6, 27 (iv) 7, x − 3, 112",
-                "a": "(i) 45, x, 5 are in continued proportion\nx² = 45 × 5 = 225\nx = 15\n(ii) 16, x, 9 are in continued proportion\nx² = 16 × 9 = 144\nx = 12\n(iii) 12, 3x − 6, 27 are in continued proportion\n(3x − 6)² = 12 × 27 = 324\n3x − 6 = 18\n3x = 24\nx = 8\n(iv) 7, x − 3, 112 are in continued proportion\n(x − 3)² = 7 × 112 = 784\nx − 3 = 28\nx = 31"
+                "a": "(i) 45, x, 5 are in continued proportion\nx² = 45 × 5\nx² = 225\nx = 15\n(ii) 16, x, 9 are in continued proportion\nx² = 16 × 9\nx² = 144\nx = 12\n(iii) 12, 3x − 6, 27 are in continued proportion\n(3x − 6)² = 12 × 27\n(3x − 6)² = 324\n3x − 6 = 18\n3x = 24\nx = 8\n(iv) 7, x − 3, 112 are in continued proportion\n(x − 3)² = 7 × 112\n(x − 3)² = 784\nx − 3 = 28\nx = 31"
               }
             ]
           },
@@ -7657,15 +7657,15 @@ var STUDY = {
             "items": [
               {
                 "q": "If x : y = z : w then prove that\n(i) [[(4x + 3y)/(4x − 3y)]] = [[(4z + 3w)/(4z − 3w)]]\n(ii) [[(5x − 3y)/(5x + 3y)]] = [[(5z − 3w)/(5z + 3w)]]\n(iii) [[(x³ + y³)/(x³ − y³)]] = [[(z³ + w³)/(z³ − w³)]]\n(iv) [[(3x + 2y)/(3x − 2y)]] = [[(3z + 2w)/(3z − 2w)]]\n(v) [[(2x + 3y + 2z + 3w)/(2x + 3y − 2z − 3w)]] = [[(2x − 3y + 2z − 3w)/(2x − 3y − 2z + 3w)]]",
-                "a": "x = yk\nz = wk\n(i) L.H.S. = [[(4x + 3y)/(4x − 3y)]] = [[(4yk + 3y)/(4yk − 3y)]] = [[y(4k + 3)/y(4k − 3)]] = [[(4k + 3)/(4k − 3)]]\nR.H.S. = [[(4z + 3w)/(4z − 3w)]] = [[(4wk + 3w)/(4wk − 3w)]] = [[w(4k + 3)/w(4k − 3)]] = [[(4k + 3)/(4k − 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(5x − 3y)/(5x + 3y)]] = [[(5yk − 3y)/(5yk + 3y)]] = [[(5k − 3)/(5k + 3)]]\nR.H.S. = [[(5z − 3w)/(5z + 3w)]] = [[(5wk − 3w)/(5wk + 3w)]] = [[(5k − 3)/(5k + 3)]]\nL.H.S. = R.H.S\n(iii) L.H.S. = [[(x³ + y³)/(x³ − y³)]] = [[(y³k³ + y³)/(y³k³ − y³)]] = [[y³(k³ + 1)/y³(k³ − 1)]] = [[(k³ + 1)/(k³ − 1)]]\nR.H.S. = [[(z³ + w³)/(z³ − w³)]] = [[(w³k³ + w³)/(w³k³ − w³)]] = [[(k³ + 1)/(k³ − 1)]]\nL.H.S. = R.H.S\n(iv) L.H.S. = [[(3x + 2y)/(3x − 2y)]] = [[(3yk + 2y)/(3yk − 2y)]] = [[(3k + 2)/(3k − 2)]]\nR.H.S. = [[(3z + 2w)/(3z − 2w)]] = [[(3wk + 2w)/(3wk − 2w)]] = [[(3k + 2)/(3k − 2)]]\nL.H.S. = R.H.S\n(v) L.H.S. = [[(2x + 3y + 2z + 3w)/(2x + 3y − 2z − 3w)]]\nNumerator: 2x + 3y = 2yk + 3y = y(2k + 3)\n2z + 3w = 2wk + 3w = w(2k + 3)\nnumerator = (2k + 3)(y + w)\nDenominator: (2x + 3y) − (2z + 3w) = y(2k + 3) − w(2k + 3) = (2k + 3)(y − w)\nL.H.S. = [[(y + w)/(y − w)]]\nR.H.S. = [[(2x − 3y + 2z − 3w)/(2x − 3y − 2z + 3w)]]\nNumerator: 2x − 3y = y(2k − 3)\n2z − 3w = w(2k − 3)\nnumerator = (2k − 3)(y + w)\nDenominator: (2x − 3y) − (2z − 3w) = y(2k − 3) − w(2k − 3) = (2k − 3)(y − w)\nR.H.S. = [[(y + w)/(y − w)]]\nL.H.S. = R.H.S"
+                "a": "x = yk\nz = wk\n(i) L.H.S. = [[(4x + 3y)/(4x − 3y)]]\nL.H.S. = [[(4yk + 3y)/(4yk − 3y)]]\nL.H.S. = [[y(4k + 3)/y(4k − 3)]]\nL.H.S. = [[(4k + 3)/(4k − 3)]]\nR.H.S. = [[(4z + 3w)/(4z − 3w)]]\nR.H.S. = [[(4wk + 3w)/(4wk − 3w)]]\nR.H.S. = [[w(4k + 3)/w(4k − 3)]]\nR.H.S. = [[(4k + 3)/(4k − 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(5x − 3y)/(5x + 3y)]]\nL.H.S. = [[(5yk − 3y)/(5yk + 3y)]]\nL.H.S. = [[(5k − 3)/(5k + 3)]]\nR.H.S. = [[(5z − 3w)/(5z + 3w)]]\nR.H.S. = [[(5wk − 3w)/(5wk + 3w)]]\nR.H.S. = [[(5k − 3)/(5k + 3)]]\nL.H.S. = R.H.S\n(iii) L.H.S. = [[(x³ + y³)/(x³ − y³)]]\nL.H.S. = [[(y³k³ + y³)/(y³k³ − y³)]]\nL.H.S. = [[y³(k³ + 1)/y³(k³ − 1)]]\nL.H.S. = [[(k³ + 1)/(k³ − 1)]]\nR.H.S. = [[(z³ + w³)/(z³ − w³)]]\nR.H.S. = [[(w³k³ + w³)/(w³k³ − w³)]]\nR.H.S. = [[(k³ + 1)/(k³ − 1)]]\nL.H.S. = R.H.S\n(iv) L.H.S. = [[(3x + 2y)/(3x − 2y)]]\nL.H.S. = [[(3yk + 2y)/(3yk − 2y)]]\nL.H.S. = [[(3k + 2)/(3k − 2)]]\nR.H.S. = [[(3z + 2w)/(3z − 2w)]]\nR.H.S. = [[(3wk + 2w)/(3wk − 2w)]]\nR.H.S. = [[(3k + 2)/(3k − 2)]]\nL.H.S. = R.H.S\n(v) L.H.S. = [[(2x + 3y + 2z + 3w)/(2x + 3y − 2z − 3w)]]\nNumerator: 2x + 3y = 2yk + 3y\n2x + 3y = y(2k + 3)\n2z + 3w = 2wk + 3w\n2z + 3w = w(2k + 3)\nnumerator = (2k + 3)(y + w)\nDenominator: (2x + 3y) − (2z + 3w) = y(2k + 3) − w(2k + 3)\n(2x + 3y) − (2z + 3w) = (2k + 3)(y − w)\nL.H.S. = [[(y + w)/(y − w)]]\nR.H.S. = [[(2x − 3y + 2z − 3w)/(2x − 3y − 2z + 3w)]]\nNumerator: 2x − 3y = y(2k − 3)\n2z − 3w = w(2k − 3)\nnumerator = (2k − 3)(y + w)\nDenominator: (2x − 3y) − (2z − 3w) = y(2k − 3) − w(2k − 3)\n(2x − 3y) − (2z − 3w) = (2k − 3)(y − w)\nR.H.S. = [[(y + w)/(y − w)]]\nL.H.S. = R.H.S"
               },
               {
                 "q": "Prove that a : b = c : d if\n(i) a² − b² : a² + b² = ac − bd : ac + bd\n(ii) [[(a + b + c + d)/(a + b − c − d)]] = [[(a − b + c − d)/(a − b − c + d)]]",
-                "a": "(i) [[(a² − b²)/(a² + b²)]] = [[(ac − bd)/(ac + bd)]]\n[[((a² − b²) + (a² + b²))/((a² − b²) − (a² + b²))]] = [[((ac − bd) + (ac + bd))/((ac − bd) − (ac + bd))]]\n[[2a²/(−2b²)]] = [[2ac/(−2bd)]]\n[[a²/b²]] = [[ac/bd]]\na²bd = acb²\nad = bc\n[[a/b]] = [[c/d]]\na : b = c : d\n(ii) a : b = c : d\n[[a/b]] = [[c/d]] = k\na = bk\nc = dk\nL.H.S. = [[(a + b + c + d)/(a + b − c − d)]]\nNumerator: a + b + c + d = bk + b + dk + d = (b + d)(k + 1)\nDenominator: a + b − c − d = bk + b − dk − d = (b − d)(k + 1)\nL.H.S. = [[(b + d)/(b − d)]]\nR.H.S. = [[(a − b + c − d)/(a − b − c + d)]]\nNumerator: a − b + c − d = bk − b + dk − d = (b + d)(k − 1)\nDenominator: a − b − c + d = bk − b − dk + d = (b − d)(k − 1)\nR.H.S. = [[(b + d)/(b − d)]]\nL.H.S. = R.H.S\n[[(a + b + c + d)/(a + b − c − d)]] = [[(a − b + c − d)/(a − b − c + d)]]"
+                "a": "(i) [[(a² − b²)/(a² + b²)]] = [[(ac − bd)/(ac + bd)]]\n[[((a² − b²) + (a² + b²))/((a² − b²) − (a² + b²))]] = [[((ac − bd) + (ac + bd))/((ac − bd) − (ac + bd))]]\n[[2a²/(−2b²)]] = [[2ac/(−2bd)]]\n[[a²/b²]] = [[ac/bd]]\na²bd = acb²\nad = bc\n[[a/b]] = [[c/d]]\na : b = c : d\n(ii) a : b = c : d\n[[a/b]] = [[c/d]]\n[[a/b]] = k\na = bk\nc = dk\nL.H.S. = [[(a + b + c + d)/(a + b − c − d)]]\nNumerator: a + b + c + d = bk + b + dk + d\na + b + c + d = (b + d)(k + 1)\nDenominator: a + b − c − d = bk + b − dk − d\na + b − c − d = (b − d)(k + 1)\nL.H.S. = [[(b + d)/(b − d)]]\nR.H.S. = [[(a − b + c − d)/(a − b − c + d)]]\nNumerator: a − b + c − d = bk − b + dk − d\na − b + c − d = (b + d)(k − 1)\nDenominator: a − b − c + d = bk − b − dk + d\na − b − c + d = (b − d)(k − 1)\nR.H.S. = [[(b + d)/(b − d)]]\nL.H.S. = R.H.S\n[[(a + b + c + d)/(a + b − c − d)]] = [[(a − b + c − d)/(a − b − c + d)]]"
               },
               {
                 "q": "Solve the following equation by using componendo − dividendo theorem\n(i) [[((x + 3)² − (x − 5)²)/((x + 3)² + (x − 5)²)]] = [[4/5]]\n(ii) [[(√(x + 1) + √(x − 1))/(√(x + 1) − √(x − 1))]] = [[1/2]]\n(iii) [[(√(x + 5) − √(x − 5))/(√(x + 5) + √(x − 5))]] = [[1/10]]\n(iv) [[((x − 4)³ − (x − 3)³)/((x − 4)³ + (x − 3)³)]] = [[63/65]]",
-                "a": "(i) [[((x + 3)² − (x − 5)²)/((x + 3)² + (x − 5)²)]] = [[4/5]]\n[[((x + 3)² − (x − 5)² + (x + 3)² + (x − 5)²)/((x + 3)² − (x − 5)² − (x + 3)² − (x − 5)²)]] = [[(4 + 5)/(4 − 5)]]\n[[2(x + 3)²/(−2(x − 5)²)]] = [[9/(−1)]]\n[[(x + 3)²/(x − 5)²]] = 9\n[[(x + 3)/(x − 5)]] = ±3\n[[(x + 3)/(x − 5)]] = 3\nx + 3 = 3x − 15\n2x = 18\nx = 9\n[[(x + 3)/(x − 5)]] = −3\nx + 3 = −3x + 15\n4x = 12\nx = 3\nS.S. = {3, 9}\n(ii) [[(√(x + 1) + √(x − 1))/(√(x + 1) − √(x − 1))]] = [[1/2]]\n[[(2√(x + 1))/(2√(x − 1))]] = [[(1 + 2)/(1 − 2)]]\n[[√(x + 1)/√(x − 1)]] = [[3/(−1)]] = −3\n[[√(x + 1)/√(x − 1)]] ≥ 0\n−3 < 0\nS.S. = {}\n(iii) [[(√(x + 5) − √(x − 5))/(√(x + 5) + √(x − 5))]] = [[1/10]]\n[[(2√(x + 5))/(−2√(x − 5))]] = [[(1 + 10)/(1 − 10)]]\n[[√(x + 5)/√(x − 5)]] = [[11/9]]\n[[(x + 5)/(x − 5)]] = [[121/81]]\n81(x + 5) = 121(x − 5)\n81x + 405 = 121x − 605\n40x = 1010\nx = [[101/4]]\nS.S. = {[[101/4]]}\n(iv) [[((x − 4)³ − (x − 3)³)/((x − 4)³ + (x − 3)³)]] = [[63/65]]\n[[(2(x − 4)³)/(−2(x − 3)³)]] = [[(63 + 65)/(63 − 65)]]\n[[(x − 4)³/(x − 3)³]] = [[128/2]] = 64\n[[(x − 4)/(x − 3)]] = 4\nx − 4 = 4x − 12\n3x = 8\nx = [[8/3]]\nS.S. = {[[8/3]]}"
+                "a": "(i) [[((x + 3)² − (x − 5)²)/((x + 3)² + (x − 5)²)]] = [[4/5]]\n[[((x + 3)² − (x − 5)² + (x + 3)² + (x − 5)²)/((x + 3)² − (x − 5)² − (x + 3)² − (x − 5)²)]] = [[(4 + 5)/(4 − 5)]]\n[[2(x + 3)²/(−2(x − 5)²)]] = [[9/(−1)]]\n[[(x + 3)²/(x − 5)²]] = 9\n[[(x + 3)/(x − 5)]] = ±3\n[[(x + 3)/(x − 5)]] = 3\nx + 3 = 3x − 15\n2x = 18\nx = 9\n[[(x + 3)/(x − 5)]] = −3\nx + 3 = −3x + 15\n4x = 12\nx = 3\nS.S. = {3, 9}\n(ii) [[(√(x + 1) + √(x − 1))/(√(x + 1) − √(x − 1))]] = [[1/2]]\n[[(2√(x + 1))/(2√(x − 1))]] = [[(1 + 2)/(1 − 2)]]\n[[√(x + 1)/√(x − 1)]] = [[3/(−1)]]\n[[√(x + 1)/√(x − 1)]] = −3\n[[√(x + 1)/√(x − 1)]] ≥ 0\n−3 < 0\nS.S. = {}\n(iii) [[(√(x + 5) − √(x − 5))/(√(x + 5) + √(x − 5))]] = [[1/10]]\n[[(2√(x + 5))/(−2√(x − 5))]] = [[(1 + 10)/(1 − 10)]]\n[[√(x + 5)/√(x − 5)]] = [[11/9]]\n[[(x + 5)/(x − 5)]] = [[121/81]]\n81(x + 5) = 121(x − 5)\n81x + 405 = 121x − 605\n40x = 1010\nx = [[101/4]]\nS.S. = {[[101/4]]}\n(iv) [[((x − 4)³ − (x − 3)³)/((x − 4)³ + (x − 3)³)]] = [[63/65]]\n[[(2(x − 4)³)/(−2(x − 3)³)]] = [[(63 + 65)/(63 − 65)]]\n[[(x − 4)³/(x − 3)³]] = [[128/2]]\n[[(x − 4)³/(x − 3)³]] = 64\n[[(x − 4)/(x − 3)]] = 4\nx − 4 = 4x − 12\n3x = 8\nx = [[8/3]]\nS.S. = {[[8/3]]}"
               }
             ]
           },
@@ -7674,23 +7674,23 @@ var STUDY = {
             "items": [
               {
                 "q": "If y varies directly as x² and z and y = 6 when x = 4, z = 9. Write y as a function of x and z and determine the value of y when x = −8 and z = 12",
-                "a": "y ∝ x²z\ny = kx²z ... (i)\ny = 6, x = 4\nz = 9\n6 = k(4)²(9) = 144k\nk = [[6/144]] = [[1/24]]\ny = [[x²z/24]]\nx = −8\nz = 12\ny = [[(−8)²(12)/24]] = 64 × [[12/24]] = 32"
+                "a": "y ∝ x²z\ny = kx²z ... (i)\ny = 6, x = 4\nz = 9\n6 = k(4)²(9)\n6 = 144k\nk = [[6/144]]\nk = [[1/24]]\ny = [[x²z/24]]\nx = −8\nz = 12\ny = [[(−8)²(12)/24]]\ny = 64 × [[12/24]]\ny = 32"
               },
               {
                 "q": "If y varies directly as x and u² and inversely as v and t. y = 40 when x = 8, u = 5, v = 3 and t = 2 find y in terms of x, u, v and t. Also find the value of y when x = −2, u = 4, v = 3, t = −1.",
-                "a": "y ∝ [[xu²/(vt)]]\ny = [[kxu²/(vt)]] ... (i)\ny = 40, x = 8, u = 5, v = 3\nt = 2\n40 = k(8)[[(5)²/((3)(2))]] = [[k(200)/6]]\nk = 40 × [[6/200]] = [[6/5]]\ny = [[6xu²/(5vt)]]\nx = −2, u = 4, v = 3\nt = −1\ny = 6(−2)[[(4)²/(5(3)(−1))]] = 6(−2)[[(16)/(−15)]] = [[192/15]] = [[64/5]]"
+                "a": "y ∝ [[xu²/(vt)]]\ny = [[kxu²/(vt)]] ... (i)\ny = 40, x = 8, u = 5, v = 3\nt = 2\n40 = k(8)[[(5)²/((3)(2))]]\n40 = [[k(200)/6]]\nk = 40 × [[6/200]]\nk = [[6/5]]\ny = [[6xu²/(5vt)]]\nx = −2, u = 4, v = 3\nt = −1\ny = 6(−2)[[(4)²/(5(3)(−1))]]\ny = 6(−2)[[(16)/(−15)]]\ny = [[192/15]]\ny = [[64/5]]"
               },
               {
                 "q": "If w varies directly as u² and inversely as cubic root of v and w = 216 when u = 6 and v = 27. Find the value of w when u = 10 and v = 125.",
-                "a": "w ∝ [[u²/∛v]]\nw = [[ku²/∛v]] ... (i)\nw = 216, u = 6\nv = 27\n216 = [[k(6)²/∛27]] = [[k(36)/3]] = 12k\nk = [[216/12]] = 18\nw = [[18u²/∛v]] ... (ii)\nu = 10\nv = 125\nw = [[18(10)²/∛125]] = [[18(100)/5]] = [[1800/5]] = 360"
+                "a": "w ∝ [[u²/∛v]]\nw = [[ku²/∛v]] ... (i)\nw = 216, u = 6\nv = 27\n216 = [[k(6)²/∛27]]\n216 = [[k(36)/3]]\n216 = 12k\nk = [[216/12]]\nk = 18\nw = [[18u²/∛v]] ... (ii)\nu = 10\nv = 125\nw = [[18(10)²/∛125]]\nw = [[18(100)/5]]\nw = [[1800/5]]\nw = 360"
               },
               {
                 "q": "If the time period T of simple pendulum is directly proportional to the square root of its length L and inversely proportional to the square root of acceleration due to gravity 'g' if T = 2sec L = 100cm and g = [[9.8m/s]]. Find time period of simple pendulum when L = 200m and g = 7.6 at a particular height.",
-                "a": "T ∝ √([[L/g]])\nT = k√([[L/g]]) ... (i)\nT = 2, L = 100\ng = 9.8\n2 = k√([[100/9.8]])\nk = 2 ÷ √([[100/9.8]]) = [[2√9.8/10]] = [[√9.8/5]]\nT = ([[√9.8/5]])√([[L/g]]) ... (ii)\nL = 200\ng = 7.6\nT = ([[√9.8/5]])√([[200/7.6]]) = ([[1/5]])√(9.8 × [[200/7.6]]) = ([[1/5]])√([[1960/7.6]]) = ([[1/5]])(16.06) = 3.21 sec (approx.)\nL = 200cm\nL = 200m is taken literally, the time period would be 32.1 sec"
+                "a": "T ∝ √([[L/g]])\nT = k√([[L/g]]) ... (i)\nT = 2, L = 100\ng = 9.8\n2 = k√([[100/9.8]])\nk = 2 ÷ √([[100/9.8]])\nk = [[2√9.8/10]]\nk = [[√9.8/5]]\nT = ([[√9.8/5]])√([[L/g]]) ... (ii)\nL = 200\ng = 7.6\nT = ([[√9.8/5]])√([[200/7.6]])\nT = ([[1/5]])√(9.8 × [[200/7.6]])\nT = ([[1/5]])√([[1960/7.6]])\nT = ([[1/5]])(16.06)\nT = 3.21 sec (approx.)\nL = 200cm\nL = 200m is taken literally, the time period would be 32.1 sec"
               },
               {
                 "q": "The volume V of a particular gas is directly proportional to the temperature T and inversely proportional to the square root of pressure. If V = 100, T = 30 and P = 64. Find the value of V when T = 60 and P = 81.",
-                "a": "V ∝ [[T/√P]]\nV = [[kT/√P]] ... (i)\nV = 100, T = 30\nP = 64\n100 = [[k(30)/√64]] = [[30k/8]]\nk = 100 × [[8/30]] = [[80/3]]\nV = ([[80/3]])([[T/√P]]) ... (ii)\nT = 60\nP = 81\nV = ([[80/3]])([[60/√81]]) = ([[80/3]])([[60/9]]) = [[4800/27]] = [[1600/9]] = 177.78"
+                "a": "V ∝ [[T/√P]]\nV = [[kT/√P]] ... (i)\nV = 100, T = 30\nP = 64\n100 = [[k(30)/√64]]\n100 = [[30k/8]]\nk = 100 × [[8/30]]\nk = [[80/3]]\nV = ([[80/3]])([[T/√P]]) ... (ii)\nT = 60\nP = 81\nV = ([[80/3]])([[60/√81]])\nV = ([[80/3]])([[60/9]])\nV = [[4800/27]]\nV = [[1600/9]]\nV = 177.78"
               }
             ]
           },
@@ -7699,11 +7699,11 @@ var STUDY = {
             "items": [
               {
                 "q": "If p : q = r : s then show that\n(i) [[(8p − 3q)/(8p + 3q)]] = [[(8r − 3s)/(8r + 3s)]]\n(ii) ∛([[(p³ + r³)/(q³ + s³)]]) = [[p/q]]\n(iii) (p² + q²) : [[p³/(p + q)]] = (r² + s²) : [[r³/(r + s)]]\n(iv) p⁵ + r⁵ : q⁵ + s⁵ = p³r² : q³s²\n(v) [[(p − q)/p]] : [[q/(p + q)]] = [[(r − s)/r]] : [[s/(r + s)]]",
-                "a": "p = qk\nr = sk\n(i) L.H.S. = [[(8p − 3q)/(8p + 3q)]] = [[(8qk − 3q)/(8qk + 3q)]] = [[q(8k − 3)/q(8k + 3)]] = [[(8k − 3)/(8k + 3)]]\nR.H.S. = [[(8r − 3s)/(8r + 3s)]] = [[(8sk − 3s)/(8sk + 3s)]] = [[(8k − 3)/(8k + 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = ∛([[(p³ + r³)/(q³ + s³)]]) = ∛([[(q³k³ + s³k³)/(q³ + s³)]]) = ∛([[k³(q³ + s³)/(q³ + s³)]]) = ∛(k³) = k\nR.H.S. = [[p/q]] = k\nL.H.S. = R.H.S\n(iii) L.H.S. = (p² + q²) ÷ ([[p³/(p + q)]]) = (p² + q²)[[(p + q)/p³]]\n= (q²k² + q²)[[(qk + q)/(q³k³)]] = q²(k² + 1) × [[q(k + 1)/(q³k³)]] = (k² + 1)[[(k + 1)/k³]]\nR.H.S. = (r² + s²) ÷ ([[r³/(r + s)]]) = (r² + s²)[[(r + s)/r³]]\n= (s²k² + s²)[[(sk + s)/(s³k³)]] = (k² + 1)[[(k + 1)/k³]]\nL.H.S. = R.H.S\n(p² + q²) : [[p³/(p + q)]] = (r² + s²) : [[r³/(r + s)]]\n(iv) L.H.S. = [[(p⁵ + r⁵)/(q⁵ + s⁵)]] = [[(q⁵k⁵ + s⁵k⁵)/(q⁵ + s⁵)]] = [[k⁵(q⁵ + s⁵)/(q⁵ + s⁵)]] = k⁵\nR.H.S. = [[p³r²/(q³s²)]] = (q³k³)[[(s²k²)/(q³s²)]] = k⁵\nL.H.S. = R.H.S\np⁵ + r⁵ : q⁵ + s⁵ = p³r² : q³s²\n(v) L.H.S. = ([[(p − q)/p]]) ÷ ([[q/(p + q)]]) = (p − q)[[(p + q)/(pq)]] = [[(p² − q²)/(pq)]]\n= [[(q²k² − q²)/(q²k)]] = [[(k² − 1)/k]]\nR.H.S. = ([[(r − s)/r]]) ÷ ([[s/(r + s)]]) = [[(r² − s²)/(rs)]]\n= [[(s²k² − s²)/(s²k)]] = [[(k² − 1)/k]]\nL.H.S. = R.H.S\n[[(p − q)/p]] : [[q/(p + q)]] = [[(r − s)/r]] : [[s/(r + s)]]"
+                "a": "p = qk\nr = sk\n(i) L.H.S. = [[(8p − 3q)/(8p + 3q)]]\nL.H.S. = [[(8qk − 3q)/(8qk + 3q)]]\nL.H.S. = [[q(8k − 3)/q(8k + 3)]]\nL.H.S. = [[(8k − 3)/(8k + 3)]]\nR.H.S. = [[(8r − 3s)/(8r + 3s)]]\nR.H.S. = [[(8sk − 3s)/(8sk + 3s)]]\nR.H.S. = [[(8k − 3)/(8k + 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = ∛([[(p³ + r³)/(q³ + s³)]])\nL.H.S. = ∛([[(q³k³ + s³k³)/(q³ + s³)]])\nL.H.S. = ∛([[k³(q³ + s³)/(q³ + s³)]])\nL.H.S. = ∛(k³)\nL.H.S. = k\nR.H.S. = [[p/q]]\nR.H.S. = k\nL.H.S. = R.H.S\n(iii) L.H.S. = (p² + q²) ÷ ([[p³/(p + q)]])\nL.H.S. = (p² + q²)[[(p + q)/p³]]\nL.H.S. = (q²k² + q²)[[(qk + q)/(q³k³)]]\nL.H.S. = q²(k² + 1) × [[q(k + 1)/(q³k³)]]\nL.H.S. = (k² + 1)[[(k + 1)/k³]]\nR.H.S. = (r² + s²) ÷ ([[r³/(r + s)]])\nR.H.S. = (r² + s²)[[(r + s)/r³]]\nR.H.S. = (s²k² + s²)[[(sk + s)/(s³k³)]]\nR.H.S. = (k² + 1)[[(k + 1)/k³]]\nL.H.S. = R.H.S\n(p² + q²) : [[p³/(p + q)]] = (r² + s²) : [[r³/(r + s)]]\n(iv) L.H.S. = [[(p⁵ + r⁵)/(q⁵ + s⁵)]]\nL.H.S. = [[(q⁵k⁵ + s⁵k⁵)/(q⁵ + s⁵)]]\nL.H.S. = [[k⁵(q⁵ + s⁵)/(q⁵ + s⁵)]]\nL.H.S. = k⁵\nR.H.S. = [[p³r²/(q³s²)]]\nR.H.S. = (q³k³)[[(s²k²)/(q³s²)]]\nR.H.S. = k⁵\nL.H.S. = R.H.S\np⁵ + r⁵ : q⁵ + s⁵ = p³r² : q³s²\n(v) L.H.S. = ([[(p − q)/p]]) ÷ ([[q/(p + q)]])\nL.H.S. = (p − q)[[(p + q)/(pq)]]\nL.H.S. = [[(p² − q²)/(pq)]]\nL.H.S. = [[(q²k² − q²)/(q²k)]]\nL.H.S. = [[(k² − 1)/k]]\nR.H.S. = ([[(r − s)/r]]) ÷ ([[s/(r + s)]])\nR.H.S. = [[(r² − s²)/(rs)]]\nR.H.S. = [[(s²k² − s²)/(s²k)]]\nR.H.S. = [[(k² − 1)/k]]\nL.H.S. = R.H.S\n[[(p − q)/p]] : [[q/(p + q)]] = [[(r − s)/r]] : [[s/(r + s)]]"
               },
               {
                 "q": "If a : b = c : d = e : f then show that\n(i) [[(a⁴b² + a²e² − e⁴f)/(b⁶ + b²f² − f⁵)]] = [[a⁴/b⁴]]\n(ii) [[(a²b + c²d + e²f)/(ab² + cd² + ef²)]] = [[(a + c + e)/(b + d + f)]]\n(iii) [[ac/(bd)]] + [[ce/(df)]] + [[ea/(fb)]] = [[a²/b²]] + [[c²/d²]] + [[e²/f²]]",
-                "a": "a = bk, c = dk\ne = fk\n(i) L.H.S. = [[(a⁴b² + a²e² − e⁴f)/(b⁶ + b²f² − f⁵)]]\nNumerator: a⁴b² = (bk)⁴b² = b⁶k⁴; a²e² = (bk)²(fk)² = b²f²k⁴; e⁴f = (fk)⁴f = f⁵k⁴\nnumerator = k⁴(b⁶ + b²f² − f⁵)\nL.H.S. = [[k⁴(b⁶ + b²f² − f⁵)/(b⁶ + b²f² − f⁵)]] = k⁴\nR.H.S. = [[a⁴/b⁴]] = [[(bk)⁴/b⁴]] = k⁴\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(a²b + c²d + e²f)/(ab² + cd² + ef²)]]\nNumerator: a²b = (bk)²b = b³k²; c²d = (dk)²d = d³k²; e²f = (fk)²f = f³k²\nnumerator = k²(b³ + d³ + f³)\nDenominator: ab² = (bk)b² = b³k; cd² = (dk)d² = d³k; ef² = (fk)f² = f³k\ndenominator = k(b³ + d³ + f³)\nL.H.S. = [[k²(b³ + d³ + f³)/(k(b³ + d³ + f³))]] = k\nR.H.S. = [[(a + c + e)/(b + d + f)]] = [[(bk + dk + fk)/(b + d + f)]] = [[k(b + d + f)/(b + d + f)]] = k\nL.H.S. = R.H.S\n(iii) L.H.S. = [[ac/(bd)]] + [[ce/(df)]] + [[ea/(fb)]]\n[[ac/(bd)]] = (bk)[[(dk)/(bd)]] = k²\n[[ce/(df)]] = (dk)[[(fk)/(df)]] = k²\n[[ea/(fb)]] = (fk)[[(bk)/(fb)]] = k²\nL.H.S. = k² + k² + k² = 3k²\nR.H.S. = [[a²/b²]] + [[c²/d²]] + [[e²/f²]] = k² + k² + k² = 3k²\nL.H.S. = R.H.S"
+                "a": "a = bk, c = dk\ne = fk\n(i) L.H.S. = [[(a⁴b² + a²e² − e⁴f)/(b⁶ + b²f² − f⁵)]]\nNumerator: a⁴b² = (bk)⁴b²\na⁴b² = b⁶k⁴\na²e² = (bk)²(fk)²\na²e² = b²f²k⁴\ne⁴f = (fk)⁴f\ne⁴f = f⁵k⁴\nnumerator = k⁴(b⁶ + b²f² − f⁵)\nL.H.S. = [[k⁴(b⁶ + b²f² − f⁵)/(b⁶ + b²f² − f⁵)]]\nL.H.S. = k⁴\nR.H.S. = [[a⁴/b⁴]]\nR.H.S. = [[(bk)⁴/b⁴]]\nR.H.S. = k⁴\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(a²b + c²d + e²f)/(ab² + cd² + ef²)]]\nNumerator: a²b = (bk)²b\na²b = b³k²\nc²d = (dk)²d\nc²d = d³k²\ne²f = (fk)²f\ne²f = f³k²\nnumerator = k²(b³ + d³ + f³)\nDenominator: ab² = (bk)b²\nab² = b³k\ncd² = (dk)d²\ncd² = d³k\nef² = (fk)f²\nef² = f³k\ndenominator = k(b³ + d³ + f³)\nL.H.S. = [[k²(b³ + d³ + f³)/(k(b³ + d³ + f³))]]\nL.H.S. = k\nR.H.S. = [[(a + c + e)/(b + d + f)]]\nR.H.S. = [[(bk + dk + fk)/(b + d + f)]]\nR.H.S. = [[k(b + d + f)/(b + d + f)]]\nR.H.S. = k\nL.H.S. = R.H.S\n(iii) L.H.S. = [[ac/(bd)]] + [[ce/(df)]] + [[ea/(fb)]]\n[[ac/(bd)]] = (bk)[[(dk)/(bd)]]\n[[ac/(bd)]] = k²\n[[ce/(df)]] = (dk)[[(fk)/(df)]]\n[[ce/(df)]] = k²\n[[ea/(fb)]] = (fk)[[(bk)/(fb)]]\n[[ea/(fb)]] = k²\nL.H.S. = k² + k² + k²\nL.H.S. = 3k²\nR.H.S. = [[a²/b²]] + [[c²/d²]] + [[e²/f²]]\nR.H.S. = k² + k² + k²\nR.H.S. = 3k²\nL.H.S. = R.H.S"
               }
             ]
           },
@@ -7712,23 +7712,23 @@ var STUDY = {
             "items": [
               {
                 "q": "The current in a wire is directly proportional to the potential difference and inversely proportional to the resistance R. If I = 6 amperes, when V = 220 volts and R = 5 ohms. Find I when V = 180 volts and R = 8 ohms",
-                "a": "I ∝ [[V/R]]\nI = [[kV/R]] ... (i)\nI = 6, V = 220\nR = 5\n6 = [[k(220)/5]]\nk = [[30/220]] = [[3/22]]\nI = ([[3/22]])([[V/R]]) ... (ii)\nV = 180\nR = 8\nI = ([[3/22]])([[180/8]]) = [[540/176]] = [[135/44]] = 3.068 (approx.)"
+                "a": "I ∝ [[V/R]]\nI = [[kV/R]] ... (i)\nI = 6, V = 220\nR = 5\n6 = [[k(220)/5]]\nk = [[30/220]]\nk = [[3/22]]\nI = ([[3/22]])([[V/R]]) ... (ii)\nV = 180\nR = 8\nI = ([[3/22]])([[180/8]])\nI = [[540/176]]\nI = [[135/44]]\nI = 3.068 (approx.)"
               },
               {
                 "q": "The intensity of light measured in foot candles varies inversely with the square of the distance from the light source. Suppose the intensity of a high bulb is 0.08 foot candles at a distance of 3 meters. find the intensity level at 8 meters.",
-                "a": "I ∝ [[1/d²]]\nI = [[k/d²]] ... (i)\nI = 0.08\nd = 3\n0.08 = [[k/(3)²]] = [[k/9]]\nk = 0.72\nI = [[0.72/d²]] ... (ii)\nd = 8\nI = [[0.72/64]] = 0.01125"
+                "a": "I ∝ [[1/d²]]\nI = [[k/d²]] ... (i)\nI = 0.08\nd = 3\n0.08 = [[k/(3)²]]\n0.08 = [[k/9]]\nk = 0.72\nI = [[0.72/d²]] ... (ii)\nd = 8\nI = [[0.72/64]]\nI = 0.01125"
               },
               {
                 "q": "The strength S of a rectangular beam can varies directly as the breadth b and the square of the depth d. if a bean 9 cm wide a 12 cm deep with support 1200 pound. What weight a bean of 12 cm wide and 9cm deep will support.",
-                "a": "S ∝ bd²\nS = kbd² ... (i)\nS = 1200, b = 9\nd = 12\n1200 = k(9)(12)² = k(9)(144) = 1296k\nk = [[1200/1296]] = [[25/27]]\nS = ([[25/27]])bd² ... (ii)\nb = 12\nd = 9\nS = ([[25/27]])(12)(9)² = ([[25/27]])(12)(81) = ([[25/27]])(972) = 900"
+                "a": "S ∝ bd²\nS = kbd² ... (i)\nS = 1200, b = 9\nd = 12\n1200 = k(9)(12)²\n1200 = k(9)(144)\n1200 = 1296k\nk = [[1200/1296]]\nk = [[25/27]]\nS = ([[25/27]])bd² ... (ii)\nb = 12\nd = 9\nS = ([[25/27]])(12)(9)²\nS = ([[25/27]])(12)(81)\nS = ([[25/27]])(972)\nS = 900"
               },
               {
                 "q": "Labor cots C varies jointly as the number of worker n and the average number of days d, if the cost of 100 workers for 15 days is 9000, then find the labour cost of 300 workers for 20 days.",
-                "a": "C ∝ nd\nC = knd ... (i)\nC = 9000, n = 100\nd = 15\n9000 = k(100)(15) = 1500k\nk = [[9000/1500]] = 6\nC = 6nd ... (ii)\nn = 300\nd = 20\nC = 6 × 300 × 20 = 36000"
+                "a": "C ∝ nd\nC = knd ... (i)\nC = 9000, n = 100\nd = 15\n9000 = k(100)(15)\n9000 = 1500k\nk = [[9000/1500]]\nk = 6\nC = 6nd ... (ii)\nn = 300\nd = 20\nC = 6 × 300 × 20\nC = 36000"
               },
               {
                 "q": "The sales tax on the purchase of a new car varies directly as the price of a car. If a new car is purchased in Rs 2000000, then the sale tax is Rs 40000. How much sale tax is charged if the new car is priced at Rs 2800000.",
-                "a": "T ∝ P\nT = kP ... (i)\nT = 40000\nP = 2000000\n40000 = k(2000000)\nk = [[40000/2000000]] = [[1/50]]\nT = [[P/50]] ... (ii)\nP = 2800000\nT = [[2800000/50]] = 56000"
+                "a": "T ∝ P\nT = kP ... (i)\nT = 40000\nP = 2000000\n40000 = k(2000000)\nk = [[40000/2000000]]\nk = [[1/50]]\nT = [[P/50]] ... (ii)\nP = 2800000\nT = [[2800000/50]]\nT = 56000"
               }
             ]
           },
@@ -7741,7 +7741,7 @@ var STUDY = {
               },
               {
                 "q": "Find the ratios of the\n(i) 100m and 500cm (ii) 50kg and 300g",
-                "a": "(i) 100m and 500cm\n500cm = 5m\nRatio = 100m : 5m = 100 : 5 = 20 : 1\n(ii) 50kg and 300g\n50kg = 50000g\nRatio = 50000g : 300g = 50000 : 300 = 500 : 3"
+                "a": "(i) 100m and 500cm\n500cm = 5m\nRatio = 100m : 5m\nRatio = 100 : 5\nRatio = 20 : 1\n(ii) 50kg and 300g\n50kg = 50000g\nRatio = 50000g : 300g\nRatio = 50000 : 300\nRatio = 500 : 3"
               },
               {
                 "q": "Find the value of x in the following\n(i) 5 : x − 3 = x + 11 : 3 (ii) 9 : x − 10 = x + 13 : 12",
@@ -7749,27 +7749,27 @@ var STUDY = {
               },
               {
                 "q": "If y varies directly as x and y = 25 when x = 75 then find y when x = 144.",
-                "a": "y ∝ x\ny = kx ... (i)\ny = 25\nx = 75\n25 = 75k\nk = [[25/75]] = [[1/3]]\ny = [[x/3]] ... (ii)\nx = 144\ny = [[144/3]] = 48"
+                "a": "y ∝ x\ny = kx ... (i)\ny = 25\nx = 75\n25 = 75k\nk = [[25/75]]\nk = [[1/3]]\ny = [[x/3]] ... (ii)\nx = 144\ny = [[144/3]]\ny = 48"
               },
               {
                 "q": "If y varies inversely as x and y = 100 when x = [[1/2]] then find y when x = 4.",
-                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 100\nx = [[1/2]]\n100 = k ÷ ([[1/2]]) = 2k\nk = 50\ny = [[50/x]] ... (ii)\nx = 4\ny = [[50/4]] = [[25/2]]"
+                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 100\nx = [[1/2]]\n100 = k ÷ ([[1/2]])\n100 = 2k\nk = 50\ny = [[50/x]] ... (ii)\nx = 4\ny = [[50/4]]\ny = [[25/2]]"
               },
               {
                 "q": "If x : y = z : w then prove that [[(7x + 5y)/(7x − 5y)]] = [[(7z + 5w)/(7z + 5w)]].",
-                "a": "[[(7x + 5y)/(7x − 5y)]] = [[(7z + 5w)/(7z − 5w)]]\nx = yk\nz = wk\nL.H.S. = [[(7x + 5y)/(7x − 5y)]] = [[(7yk + 5y)/(7yk − 5y)]] = [[y(7k + 5)/y(7k − 5)]] = [[(7k + 5)/(7k − 5)]]\nR.H.S. = [[(7z + 5w)/(7z − 5w)]] = [[(7wk + 5w)/(7wk − 5w)]] = [[w(7k + 5)/w(7k − 5)]] = [[(7k + 5)/(7k − 5)]]\nL.H.S. = R.H.S"
+                "a": "[[(7x + 5y)/(7x − 5y)]] = [[(7z + 5w)/(7z − 5w)]]\nx = yk\nz = wk\nL.H.S. = [[(7x + 5y)/(7x − 5y)]]\nL.H.S. = [[(7yk + 5y)/(7yk − 5y)]]\nL.H.S. = [[y(7k + 5)/y(7k − 5)]]\nL.H.S. = [[(7k + 5)/(7k − 5)]]\nR.H.S. = [[(7z + 5w)/(7z − 5w)]]\nR.H.S. = [[(7wk + 5w)/(7wk − 5w)]]\nR.H.S. = [[w(7k + 5)/w(7k − 5)]]\nR.H.S. = [[(7k + 5)/(7k − 5)]]\nL.H.S. = R.H.S"
               },
               {
                 "q": "Solve [[((x − 3)(x − 5))/((x − 7)(x − 2))]] = [[((x − 6)(x − 2))/((x − 1)(x − 8))]] by componendo − dividendo theorem.",
-                "a": "[[A/B]] = [[C/D]]\nA + B = 2x² − 17x + 29\nA − B = x + 1\nC + D = 2x² − 17x + 20\nC − D = x + 4\n[[(2x² − 17x + 29)/(x + 1)]] = [[(2x² − 17x + 20)/(x + 4)]]\n(2x² − 17x + 29)(x + 4) = (2x² − 17x + 20)(x + 1)\nT = 2x² − 17x\n(T + 29)(x + 4) = (T + 20)(x + 1)\nTx + 4T + 29x + 116 = Tx + T + 20x + 20\n3T + 9x + 96 = 0\n3(2x² − 17x) + 9x + 96 = 0\n6x² − 51x + 9x + 96 = 0\n6x² − 42x + 96 = 0\nx² − 7x + 16 = 0\nx = [[(7 ± √(49 − 64))/2]] = [[(7 ± √(−15))/2]] = [[(7 ± i√15)/2]]"
+                "a": "[[A/B]] = [[C/D]]\nA + B = 2x² − 17x + 29\nA − B = x + 1\nC + D = 2x² − 17x + 20\nC − D = x + 4\n[[(2x² − 17x + 29)/(x + 1)]] = [[(2x² − 17x + 20)/(x + 4)]]\n(2x² − 17x + 29)(x + 4) = (2x² − 17x + 20)(x + 1)\nT = 2x² − 17x\n(T + 29)(x + 4) = (T + 20)(x + 1)\nTx + 4T + 29x + 116 = Tx + T + 20x + 20\n3T + 9x + 96 = 0\n3(2x² − 17x) + 9x + 96 = 0\n6x² − 51x + 9x + 96 = 0\n6x² − 42x + 96 = 0\nx² − 7x + 16 = 0\nx = [[(7 ± √(49 − 64))/2]]\nx = [[(7 ± √(−15))/2]]\nx = [[(7 ± i√15)/2]]"
               },
               {
                 "q": "If x varies directly as y and inversely as z. If x = 30 when y = 15 and z = 2. Find x if y = 30 when z = 12.",
-                "a": "x ∝ [[y/z]]\nx = [[ky/z]] ... (i)\nx = 30, y = 15\nz = 2\n30 = [[k(15)/2]]\nk = 30 × [[2/15]] = 4\nx = [[4y/z]] ... (ii)\ny = 30\nz = 12\nx = [[4(30)/12]] = [[120/12]] = 10"
+                "a": "x ∝ [[y/z]]\nx = [[ky/z]] ... (i)\nx = 30, y = 15\nz = 2\n30 = [[k(15)/2]]\nk = 30 × [[2/15]]\nk = 4\nx = [[4y/z]] ... (ii)\ny = 30\nz = 12\nx = [[4(30)/12]]\nx = [[120/12]]\nx = 10"
               },
               {
                 "q": "The current in a circuit varies inversely with its resistance measured in ohms. When the current in a circuit is 40 ampere, the resistance in 10ohms. Find the current if resistance is 12 ohm.",
-                "a": "I ∝ [[1/R]]\nI = [[k/R]] ... (i)\nI = 40\nR = 10\n40 = [[k/10]]\nk = 400\nI = [[400/R]] ... (ii)\nR = 12\nI = [[400/12]] = [[100/3]] = 33.33 (approx.)"
+                "a": "I ∝ [[1/R]]\nI = [[k/R]] ... (i)\nI = 40\nR = 10\n40 = [[k/10]]\nk = 400\nI = [[400/R]] ... (ii)\nR = 12\nI = [[400/12]]\nI = [[100/3]]\nI = 33.33 (approx.)"
               }
             ]
           }
@@ -7793,19 +7793,19 @@ var STUDY = {
               },
               {
                 "q": "Check whether the following matrices are symmetric matrix or skew-symmetric matrix.\n(i) [1 1 -1; 1 2 0; -1 0 5]\n(ii) [0 1 -2; -1 0 3; 2 -3 0]\n(iii) [1 7 3; 7 4 -5; 3 -5 6]\n(iv) [0 -6 4; -6 0 7; 4 7 0]",
-                "a": "(i) A = [1 1 -1; 1 2 0; -1 0 5]\nA^t = [1 1 -1; 1 2 0; -1 0 5] = A\nSymmetric matrix\n(ii) A = [0 1 -2; -1 0 3; 2 -3 0]\nA^t = [0 -1 2; 1 0 -3; -2 3 0] = -A\nSkew-symmetric matrix\n(iii) A = [1 7 3; 7 4 -5; 3 -5 6]\nA^t = [1 7 3; 7 4 -5; 3 -5 6] = A\nSymmetric matrix\n(iv) A = [0 -6 4; -6 0 7; 4 7 0]\nA^t = [0 -6 4; -6 0 7; 4 7 0] = A\nSymmetric matrix"
+                "a": "(i) A = [1 1 -1; 1 2 0; -1 0 5]\nA^t = [1 1 -1; 1 2 0; -1 0 5]\nA^t = A\nSymmetric matrix\n(ii) A = [0 1 -2; -1 0 3; 2 -3 0]\nA^t = [0 -1 2; 1 0 -3; -2 3 0]\nA^t = -A\nSkew-symmetric matrix\n(iii) A = [1 7 3; 7 4 -5; 3 -5 6]\nA^t = [1 7 3; 7 4 -5; 3 -5 6]\nA^t = A\nSymmetric matrix\n(iv) A = [0 -6 4; -6 0 7; 4 7 0]\nA^t = [0 -6 4; -6 0 7; 4 7 0]\nA^t = A\nSymmetric matrix"
               },
               {
                 "q": "If A = [1 -1; 0 1], B = [2 -1; 1 0], C = [2 3; -1 2], D = [1 2 3; 1 2 3; 1 2 3] and E = [1 2 -1; -1 0 2; 2 1 0] then compute the following (if possible):\n(i) A + C\n(ii) A + E\n(iii) B - D\n(iv) 2B + 3A\n(v) B - C\n(vi) A^2\n(vii) B^2\n(viii) D + E",
-                "a": "(i) A + C = [1 -1; 0 1] + [2 3; -1 2] = [1+2 -1+3; 0+(-1) 1+2] = [3 2; -1 3]\n(ii) A + E is not possible\n(iii) B - D is not possible\n(iv) 2B + 3A = 2[2 -1; 1 0] + 3[1 -1; 0 1] = [4 -2; 2 0] + [3 -3; 0 3] = [7 -5; 2 3]\n(v) B - C = [2 -1; 1 0] - [2 3; -1 2] = [2-2 -1-3; 1-(-1) 0-2] = [0 -4; 2 -2]\n(vi) A^2 = A × A = [1 -1; 0 1] × [1 -1; 0 1] = [1×1+(-1)×0 1×(-1)+(-1)×1; 0×1+1×0 0×(-1)+1×1] = [1 -2; 0 1]\n(vii) B^2 = B × B = [2 -1; 1 0] × [2 -1; 1 0] = [2×2+(-1)×1 2×(-1)+(-1)×0; 1×2+0×1 1×(-1)+0×0] = [3 -2; 2 -1]\n(viii) D + E = [1 2 3; 1 2 3; 1 2 3] + [1 2 -1; -1 0 2; 2 1 0] = [2 4 2; 0 2 5; 3 3 3]"
+                "a": "(i) A + C = [1 -1; 0 1] + [2 3; -1 2]\nA + C = [1+2 -1+3; 0+(-1) 1+2]\nA + C = [3 2; -1 3]\n(ii) A + E is not possible\n(iii) B - D is not possible\n(iv) 2B + 3A = 2[2 -1; 1 0] + 3[1 -1; 0 1]\n2B + 3A = [4 -2; 2 0] + [3 -3; 0 3]\n2B + 3A = [7 -5; 2 3]\n(v) B - C = [2 -1; 1 0] - [2 3; -1 2]\nB - C = [2-2 -1-3; 1-(-1) 0-2]\nB - C = [0 -4; 2 -2]\n(vi) A^2 = A × A\nA^2 = [1 -1; 0 1] × [1 -1; 0 1]\nA^2 = [1×1+(-1)×0 1×(-1)+(-1)×1; 0×1+1×0 0×(-1)+1×1]\nA^2 = [1 -2; 0 1]\n(vii) B^2 = B × B\nB^2 = [2 -1; 1 0] × [2 -1; 1 0]\nB^2 = [2×2+(-1)×1 2×(-1)+(-1)×0; 1×2+0×1 1×(-1)+0×0]\nB^2 = [3 -2; 2 -1]\n(viii) D + E = [1 2 3; 1 2 3; 1 2 3] + [1 2 -1; -1 0 2; 2 1 0]\nD + E = [2 4 2; 0 2 5; 3 3 3]"
               },
               {
                 "q": "For the matrices A = [-1 0 1; 2 1 0; 3 2 -1] and B = [4 2 3; -2 4 1; 3 2 1], find:\n(i) A + B\n(ii) A - B\n(iii) 3A + 2B\n(iv) AB\n(v) BA\n(vi) A^2",
-                "a": "(i) A + B = [-1+4 0+2 1+3; 2+(-2) 1+4 0+1; 3+3 2+2 -1+1] = [3 2 4; 0 5 1; 6 4 0]\n(ii) A - B = [-1-4 0-2 1-3; 2-(-2) 1-4 0-1; 3-3 2-2 -1-1] = [-5 -2 -2; 4 -3 -1; 0 0 -2]\n(iii) 3A + 2B = 3[-1 0 1; 2 1 0; 3 2 -1] + 2[4 2 3; -2 4 1; 3 2 1] = [-3 0 3; 6 3 0; 9 6 -3] + [8 4 6; -4 8 2; 6 4 2] = [5 4 9; 2 11 2; 15 10 -1]\n(iv) AB = [-1 0 1; 2 1 0; 3 2 -1] × [4 2 3; -2 4 1; 3 2 1]\nRow 1: (-1)(4)+0(-2)+1(3) = -1; (-1)(2)+0(4)+1(2) = 0; (-1)(3)+0(1)+1(1) = -2\nRow 2: 2(4)+1(-2)+0(3) = 6; 2(2)+1(4)+0(2) = 8; 2(3)+1(1)+0(1) = 7\nRow 3: 3(4)+2(-2)+(-1)(3) = 5; 3(2)+2(4)+(-1)(2) = 12; 3(3)+2(1)+(-1)(1) = 10\nAB = [-1 0 -2; 6 8 7; 5 12 10]\n(v) BA = [4 2 3; -2 4 1; 3 2 1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: 4(-1)+2(2)+3(3) = 9; 4(0)+2(1)+3(2) = 8; 4(1)+2(0)+3(-1) = 1\nRow 2: -2(-1)+4(2)+1(3) = 13; -2(0)+4(1)+1(2) = 6; -2(1)+4(0)+1(-1) = -3\nRow 3: 3(-1)+2(2)+1(3) = 4; 3(0)+2(1)+1(2) = 4; 3(1)+2(0)+1(-1) = 2\nBA = [9 8 1; 13 6 -3; 4 4 2]\n(vi) A^2 = A × A = [-1 0 1; 2 1 0; 3 2 -1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: (-1)(-1)+0(2)+1(3) = 4; (-1)(0)+0(1)+1(2) = 2; (-1)(1)+0(0)+1(-1) = -2\nRow 2: 2(-1)+1(2)+0(3) = 0; 2(0)+1(1)+0(2) = 1; 2(1)+1(0)+0(-1) = 2\nRow 3: 3(-1)+2(2)+(-1)(3) = -2; 3(0)+2(1)+(-1)(2) = 0; 3(1)+2(0)+(-1)(-1) = 4\nA^2 = [4 2 -2; 0 1 2; -2 0 4]"
+                "a": "(i) A + B = [-1+4 0+2 1+3; 2+(-2) 1+4 0+1; 3+3 2+2 -1+1]\nA + B = [3 2 4; 0 5 1; 6 4 0]\n(ii) A - B = [-1-4 0-2 1-3; 2-(-2) 1-4 0-1; 3-3 2-2 -1-1]\nA - B = [-5 -2 -2; 4 -3 -1; 0 0 -2]\n(iii) 3A + 2B = 3[-1 0 1; 2 1 0; 3 2 -1] + 2[4 2 3; -2 4 1; 3 2 1]\n3A + 2B = [-3 0 3; 6 3 0; 9 6 -3] + [8 4 6; -4 8 2; 6 4 2]\n3A + 2B = [5 4 9; 2 11 2; 15 10 -1]\n(iv) AB = [-1 0 1; 2 1 0; 3 2 -1] × [4 2 3; -2 4 1; 3 2 1]\nRow 1: (-1)(4)+0(-2)+1(3) = -1; (-1)(2)+0(4)+1(2) = 0; (-1)(3)+0(1)+1(1) = -2\nRow 2: 2(4)+1(-2)+0(3) = 6; 2(2)+1(4)+0(2) = 8; 2(3)+1(1)+0(1) = 7\nRow 3: 3(4)+2(-2)+(-1)(3) = 5; 3(2)+2(4)+(-1)(2) = 12; 3(3)+2(1)+(-1)(1) = 10\nAB = [-1 0 -2; 6 8 7; 5 12 10]\n(v) BA = [4 2 3; -2 4 1; 3 2 1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: 4(-1)+2(2)+3(3) = 9; 4(0)+2(1)+3(2) = 8; 4(1)+2(0)+3(-1) = 1\nRow 2: -2(-1)+4(2)+1(3) = 13; -2(0)+4(1)+1(2) = 6; -2(1)+4(0)+1(-1) = -3\nRow 3: 3(-1)+2(2)+1(3) = 4; 3(0)+2(1)+1(2) = 4; 3(1)+2(0)+1(-1) = 2\nBA = [9 8 1; 13 6 -3; 4 4 2]\n(vi) A^2 = A × A\nA^2 = [-1 0 1; 2 1 0; 3 2 -1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: (-1)(-1)+0(2)+1(3) = 4; (-1)(0)+0(1)+1(2) = 2; (-1)(1)+0(0)+1(-1) = -2\nRow 2: 2(-1)+1(2)+0(3) = 0; 2(0)+1(1)+0(2) = 1; 2(1)+1(0)+0(-1) = 2\nRow 3: 3(-1)+2(2)+(-1)(3) = -2; 3(0)+2(1)+(-1)(2) = 0; 3(1)+2(0)+(-1)(-1) = 4\nA^2 = [4 2 -2; 0 1 2; -2 0 4]"
               },
               {
                 "q": "Verify that: (i) A + B = B + A and (ii) C - D ≠ D - C for the following matrices\nA = [2 -1; -7 4], B = [-3 0; 7 -4], C = [3 1 -4; 4 3 1; 1 4 -3] and D = [2 7 -5; -2 1 0; 6 3 4]",
-                "a": "(i) A + B = [2 -1; -7 4] + [-3 0; 7 -4] = [2+(-3) -1+0; -7+7 4+(-4)] = [-1 -1; 0 0]\nB + A = [-3 0; 7 -4] + [2 -1; -7 4] = [-3+2 0+(-1); 7+(-7) -4+4] = [-1 -1; 0 0]\nA + B = B + A\n(ii) C - D = [3 1 -4; 4 3 1; 1 4 -3] - [2 7 -5; -2 1 0; 6 3 4] = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [2 7 -5; -2 1 0; 6 3 4] - [3 1 -4; 4 3 1; 1 4 -3] = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D ≠ D - C"
+                "a": "(i) A + B = [2 -1; -7 4] + [-3 0; 7 -4]\nA + B = [2+(-3) -1+0; -7+7 4+(-4)]\nA + B = [-1 -1; 0 0]\nB + A = [-3 0; 7 -4] + [2 -1; -7 4]\nB + A = [-3+2 0+(-1); 7+(-7) -4+4]\nB + A = [-1 -1; 0 0]\nA + B = B + A\n(ii) C - D = [3 1 -4; 4 3 1; 1 4 -3] - [2 7 -5; -2 1 0; 6 3 4]\nC - D = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [2 7 -5; -2 1 0; 6 3 4] - [3 1 -4; 4 3 1; 1 4 -3]\nD - C = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D ≠ D - C"
               },
               {
                 "q": "Show that AB ≠ BA when A = [8 2 -1; 2 1 2; 2 3 0] and B = [1 4 -4; 2 5 7; 0 4 -3]",
@@ -7813,11 +7813,11 @@ var STUDY = {
               },
               {
                 "q": "If A = [-3 0; 7 -4], B = [2 -1; -7 4] and C = [1 0; -2 -4], find 2A - 3B + 4C.",
-                "a": "2A = 2[-3 0; 7 -4] = [-6 0; 14 -8]\n-3B = -3[2 -1; -7 4] = [-6 3; 21 -12]\n4C = 4[1 0; -2 -4] = [4 0; -8 -16]\n2A - 3B + 4C = [-6 0; 14 -8] + [-6 3; 21 -12] + [4 0; -8 -16]\n= [-6-6+4 0+3+0; 14+21-8 -8-12-16]\n= [-8 3; 27 -36]"
+                "a": "2A = 2[-3 0; 7 -4]\n2A = [-6 0; 14 -8]\n-3B = -3[2 -1; -7 4]\n-3B = [-6 3; 21 -12]\n4C = 4[1 0; -2 -4]\n4C = [4 0; -8 -16]\n2A - 3B + 4C = [-6 0; 14 -8] + [-6 3; 21 -12] + [4 0; -8 -16]\n= [-6-6+4 0+3+0; 14+21-8 -8-12-16]\n= [-8 3; 27 -36]"
               },
               {
                 "q": "If [a b; c d] + [3 -1; 1 0] = [1 0; 0 1], then find the values of a, b, c and d.",
-                "a": "[a b; c d] + [3 -1; 1 0] = [a+3 b-1; c+1 d+0] = [1 0; 0 1]\na + 3 = 1\na = 1 - 3 = -2\nb - 1 = 0\nb = 1\nc + 1 = 0\nc = -1\nd + 0 = 1\nd = 1"
+                "a": "[a b; c d] + [3 -1; 1 0] = [a+3 b-1; c+1 d+0]\n[a b; c d] + [3 -1; 1 0] = [1 0; 0 1]\na + 3 = 1\na = 1 - 3\na = -2\nb - 1 = 0\nb = 1\nc + 1 = 0\nc = -1\nd + 0 = 1\nd = 1"
               },
               {
                 "q": "If [x -1 y; 2 0 3; z 3 2] = [3 a x; b 0 c; 2 3 d], then find the values of a, b, c, d, x, y and z.",
@@ -7825,7 +7825,7 @@ var STUDY = {
               },
               {
                 "q": "Evaluate possible products of the following matrices,\nA = [1 -2; 3 1], B = [2 1 0; 1 0 -1] and C = [0 -1 2; -1 0 -4; 3 1 2]",
-                "a": "AB = [1 -2; 3 1] × [2 1 0; 1 0 -1] = [1(2)+(-2)(1) 1(1)+(-2)(0) 1(0)+(-2)(-1); 3(2)+1(1) 3(1)+1(0) 3(0)+1(-1)] = [0 1 2; 7 3 -1]\nBC = [2 1 0; 1 0 -1] × [0 -1 2; -1 0 -4; 3 1 2] = [2(0)+1(-1)+0(3) 2(-1)+1(0)+0(1) 2(2)+1(-4)+0(2); 1(0)+0(-1)+(-1)(3) 1(-1)+0(0)+(-1)(1) 1(2)+0(-4)+(-1)(2)] = [-1 -2 0; -3 -2 0]\nCB = [0 -1 2; -1 0 -4; 3 1 2] × [2 1 0; 1 0 -1] = [0(2)+(-1)(1)+2(1) 0(1)+(-1)(0)+2(0) 0(0)+(-1)(-1)+2(-1); -1(2)+0(1)+(-4)(1) -1(1)+0(0)+(-4)(0) -1(0)+0(-1)+(-4)(-1); 3(2)+1(1)+2(1) 3(1)+1(0)+2(0) 3(0)+1(-1)+2(-1)] = [1 0 -1; -6 -1 4; 9 3 -3]\nABC = [0 1 2; 7 3 -1] × [0 -1 2; -1 0 -4; 3 1 2] = [0(0)+1(-1)+2(3) 0(-1)+1(0)+2(1) 0(2)+1(-4)+2(2); 7(0)+3(-1)+(-1)(3) 7(-1)+3(0)+(-1)(1) 7(2)+3(-4)+(-1)(2)] = [5 2 0; -6 -8 0]"
+                "a": "AB = [1 -2; 3 1] × [2 1 0; 1 0 -1]\nAB = [1(2)+(-2)(1) 1(1)+(-2)(0) 1(0)+(-2)(-1); 3(2)+1(1) 3(1)+1(0) 3(0)+1(-1)]\nAB = [0 1 2; 7 3 -1]\nBC = [2 1 0; 1 0 -1] × [0 -1 2; -1 0 -4; 3 1 2]\nBC = [2(0)+1(-1)+0(3) 2(-1)+1(0)+0(1) 2(2)+1(-4)+0(2); 1(0)+0(-1)+(-1)(3) 1(-1)+0(0)+(-1)(1) 1(2)+0(-4)+(-1)(2)]\nBC = [-1 -2 0; -3 -2 0]\nCB = [0 -1 2; -1 0 -4; 3 1 2] × [2 1 0; 1 0 -1]\nCB = [0(2)+(-1)(1)+2(1) 0(1)+(-1)(0)+2(0) 0(0)+(-1)(-1)+2(-1); -1(2)+0(1)+(-4)(1) -1(1)+0(0)+(-4)(0) -1(0)+0(-1)+(-4)(-1); 3(2)+1(1)+2(1) 3(1)+1(0)+2(0) 3(0)+1(-1)+2(-1)]\nCB = [1 0 -1; -6 -1 4; 9 3 -3]\nABC = [0 1 2; 7 3 -1] × [0 -1 2; -1 0 -4; 3 1 2]\nABC = [0(0)+1(-1)+2(3) 0(-1)+1(0)+2(1) 0(2)+1(-4)+2(2); 7(0)+3(-1)+(-1)(3) 7(-1)+3(0)+(-1)(1) 7(2)+3(-4)+(-1)(2)]\nABC = [5 2 0; -6 -8 0]"
               },
               {
                 "q": "Determine: [1 0 3; 2 1 2; 1 3 1] × [2 2 0; 1 3 2; 3 2 0]",
@@ -7833,15 +7833,15 @@ var STUDY = {
               },
               {
                 "q": "If A = [3 1; -1 2], B = [2 -1 0; 3 1 2] and C = [1 1 2; -2 2 3] then verify that (i) A(B + C) = AB + AC (ii) (B + C)A = BA + CA",
-                "a": "(i) B + C = [2 -1 0; 3 1 2] + [1 1 2; -2 2 3] = [3 0 2; 1 3 5]\nL.H.S. = A(B + C) = [3 1; -1 2] × [3 0 2; 1 3 5]\nRow 1: 3(3)+1(1) = 10; 3(0)+1(3) = 3; 3(2)+1(5) = 11\nRow 2: -1(3)+2(1) = -1; -1(0)+2(3) = 6; -1(2)+2(5) = 8\nA(B + C) = [10 3 11; -1 6 8]\nR.H.S.: AB = [3 1; -1 2] × [2 -1 0; 3 1 2]\nRow 1: 3(2)+1(3) = 9; 3(-1)+1(1) = -2; 3(0)+1(2) = 2\nRow 2: -1(2)+2(3) = 4; -1(-1)+2(1) = 3; -1(0)+2(2) = 4\nAB = [9 -2 2; 4 3 4]\nAC = [3 1; -1 2] × [1 1 2; -2 2 3]\nRow 1: 3(1)+1(-2) = 1; 3(1)+1(2) = 5; 3(2)+1(3) = 9\nRow 2: -1(1)+2(-2) = -5; -1(1)+2(2) = 3; -1(2)+2(3) = 4\nAC = [1 5 9; -5 3 4]\nAB + AC = [9+1 -2+5 2+9; 4+(-5) 3+3 4+4] = [10 3 11; -1 6 8]\nL.H.S. = R.H.S., A(B + C) = AB + AC\n(ii) Not possible\n(B + C): 2 × 3\nA: 2 × 2"
+                "a": "(i) B + C = [2 -1 0; 3 1 2] + [1 1 2; -2 2 3]\nB + C = [3 0 2; 1 3 5]\nL.H.S. = A(B + C)\nL.H.S. = [3 1; -1 2] × [3 0 2; 1 3 5]\nRow 1: 3(3)+1(1) = 10; 3(0)+1(3) = 3; 3(2)+1(5) = 11\nRow 2: -1(3)+2(1) = -1; -1(0)+2(3) = 6; -1(2)+2(5) = 8\nA(B + C) = [10 3 11; -1 6 8]\nR.H.S.: AB = [3 1; -1 2] × [2 -1 0; 3 1 2]\nRow 1: 3(2)+1(3) = 9; 3(-1)+1(1) = -2; 3(0)+1(2) = 2\nRow 2: -1(2)+2(3) = 4; -1(-1)+2(1) = 3; -1(0)+2(2) = 4\nAB = [9 -2 2; 4 3 4]\nAC = [3 1; -1 2] × [1 1 2; -2 2 3]\nRow 1: 3(1)+1(-2) = 1; 3(1)+1(2) = 5; 3(2)+1(3) = 9\nRow 2: -1(1)+2(-2) = -5; -1(1)+2(2) = 3; -1(2)+2(3) = 4\nAC = [1 5 9; -5 3 4]\nAB + AC = [9+1 -2+5 2+9; 4+(-5) 3+3 4+4]\nAB + AC = [10 3 11; -1 6 8]\nL.H.S. = R.H.S., A(B + C) = AB + AC\n(ii) Not possible\n(B + C): 2 × 3\nA: 2 × 2"
               },
               {
                 "q": "If A = [6 5 2; 4 6 3; 0 1 7], B = [6 8 0; 5 1 2; 3 6 4] and C = [1 2 3; 1 2 3; 1 2 3] then verify the following:\n(a) A + B = B + A\n(b) (A + B) + C = A + (B + C)\n(c) (A + B)C = AC + BC\n(d) A(B + C) = AB + AC",
-                "a": "(a) A + B = [6 5 2; 4 6 3; 0 1 7] + [6 8 0; 5 1 2; 3 6 4] = [12 13 2; 9 7 5; 3 7 11]\nB + A = [6 8 0; 5 1 2; 3 6 4] + [6 5 2; 4 6 3; 0 1 7] = [12 13 2; 9 7 5; 3 7 11]\nA + B = B + A\n(b) (A + B) + C = [12 13 2; 9 7 5; 3 7 11] + [1 2 3; 1 2 3; 1 2 3] = [13 15 5; 10 9 8; 4 9 14]\nB + C = [6 8 0; 5 1 2; 3 6 4] + [1 2 3; 1 2 3; 1 2 3] = [7 10 3; 6 3 5; 4 8 7]\nA + (B + C) = [6 5 2; 4 6 3; 0 1 7] + [7 10 3; 6 3 5; 4 8 7] = [13 15 5; 10 9 8; 4 9 14]\n(A + B) + C = A + (B + C)\n(c) AC = [6 5 2; 4 6 3; 0 1 7] × [1 2 3; 1 2 3; 1 2 3] = [13 26 39; 13 26 39; 8 16 24]\nBC = [6 8 0; 5 1 2; 3 6 4] × [1 2 3; 1 2 3; 1 2 3] = [14 28 42; 8 16 24; 13 26 39]\nAC + BC = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = [12 13 2; 9 7 5; 3 7 11] × [1 2 3; 1 2 3; 1 2 3] = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = AC + BC\n(d) B + C = [7 10 3; 6 3 5; 4 8 7]\nA(B + C) = [6 5 2; 4 6 3; 0 1 7] × [7 10 3; 6 3 5; 4 8 7]\nRow 1: 6(7)+5(6)+2(4) = 80; 6(10)+5(3)+2(8) = 91; 6(3)+5(5)+2(7) = 57\nRow 2: 4(7)+6(6)+3(4) = 76; 4(10)+6(3)+3(8) = 82; 4(3)+6(5)+3(7) = 63\nRow 3: 0(7)+1(6)+7(4) = 34; 0(10)+1(3)+7(8) = 59; 0(3)+1(5)+7(7) = 54\nA(B + C) = [80 91 57; 76 82 63; 34 59 54]\nAB = [6 5 2; 4 6 3; 0 1 7] × [6 8 0; 5 1 2; 3 6 4] = [67 65 18; 63 56 24; 26 43 30]\nAB + AC = [67+13 65+26 18+39; 63+13 56+26 24+39; 26+8 43+16 30+24] = [80 91 57; 76 82 63; 34 59 54]\nA(B + C) = AB + AC"
+                "a": "(a) A + B = [6 5 2; 4 6 3; 0 1 7] + [6 8 0; 5 1 2; 3 6 4]\nA + B = [12 13 2; 9 7 5; 3 7 11]\nB + A = [6 8 0; 5 1 2; 3 6 4] + [6 5 2; 4 6 3; 0 1 7]\nB + A = [12 13 2; 9 7 5; 3 7 11]\nA + B = B + A\n(b) (A + B) + C = [12 13 2; 9 7 5; 3 7 11] + [1 2 3; 1 2 3; 1 2 3]\n(A + B) + C = [13 15 5; 10 9 8; 4 9 14]\nB + C = [6 8 0; 5 1 2; 3 6 4] + [1 2 3; 1 2 3; 1 2 3]\nB + C = [7 10 3; 6 3 5; 4 8 7]\nA + (B + C) = [6 5 2; 4 6 3; 0 1 7] + [7 10 3; 6 3 5; 4 8 7]\nA + (B + C) = [13 15 5; 10 9 8; 4 9 14]\n(A + B) + C = A + (B + C)\n(c) AC = [6 5 2; 4 6 3; 0 1 7] × [1 2 3; 1 2 3; 1 2 3]\nAC = [13 26 39; 13 26 39; 8 16 24]\nBC = [6 8 0; 5 1 2; 3 6 4] × [1 2 3; 1 2 3; 1 2 3]\nBC = [14 28 42; 8 16 24; 13 26 39]\nAC + BC = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = [12 13 2; 9 7 5; 3 7 11] × [1 2 3; 1 2 3; 1 2 3]\n(A + B)C = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = AC + BC\n(d) B + C = [7 10 3; 6 3 5; 4 8 7]\nA(B + C) = [6 5 2; 4 6 3; 0 1 7] × [7 10 3; 6 3 5; 4 8 7]\nRow 1: 6(7)+5(6)+2(4) = 80; 6(10)+5(3)+2(8) = 91; 6(3)+5(5)+2(7) = 57\nRow 2: 4(7)+6(6)+3(4) = 76; 4(10)+6(3)+3(8) = 82; 4(3)+6(5)+3(7) = 63\nRow 3: 0(7)+1(6)+7(4) = 34; 0(10)+1(3)+7(8) = 59; 0(3)+1(5)+7(7) = 54\nA(B + C) = [80 91 57; 76 82 63; 34 59 54]\nAB = [6 5 2; 4 6 3; 0 1 7] × [6 8 0; 5 1 2; 3 6 4]\nAB = [67 65 18; 63 56 24; 26 43 30]\nAB + AC = [67+13 65+26 18+39; 63+13 56+26 24+39; 26+8 43+16 30+24]\nAB + AC = [80 91 57; 76 82 63; 34 59 54]\nA(B + C) = AB + AC"
               },
               {
                 "q": "If A = [2 3 1; 1 -1 1; 0 2 2], B = [1 2 1; -1 2 -1; 2 0 2] and C = [1 0 1; 0 1 1; 1 0 2] then show that A(BC) = (AB)C.",
-                "a": "BC = [1 2 1; -1 2 -1; 2 0 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+2(0)+1(1) = 2; 1(0)+2(1)+1(0) = 2; 1(1)+2(1)+1(2) = 5\nRow 2: -1(1)+2(0)+(-1)(1) = -2; -1(0)+2(1)+(-1)(0) = 2; -1(1)+2(1)+(-1)(2) = -1\nRow 3: 2(1)+0(0)+2(1) = 4; 2(0)+0(1)+2(0) = 0; 2(1)+0(1)+2(2) = 6\nBC = [2 2 5; -2 2 -1; 4 0 6]\nA(BC) = [2 3 1; 1 -1 1; 0 2 2] × [2 2 5; -2 2 -1; 4 0 6]\nRow 1: 2(2)+3(-2)+1(4) = 2; 2(2)+3(2)+1(0) = 10; 2(5)+3(-1)+1(6) = 13\nRow 2: 1(2)+(-1)(-2)+1(4) = 8; 1(2)+(-1)(2)+1(0) = 0; 1(5)+(-1)(-1)+1(6) = 12\nRow 3: 0(2)+2(-2)+2(4) = 4; 0(2)+2(2)+2(0) = 4; 0(5)+2(-1)+2(6) = 10\nA(BC) = [2 10 13; 8 0 12; 4 4 10]\nAB = [2 3 1; 1 -1 1; 0 2 2] × [1 2 1; -1 2 -1; 2 0 2]\nRow 1: 2(1)+3(-1)+1(2) = 1; 2(2)+3(2)+1(0) = 10; 2(1)+3(-1)+1(2) = 1\nRow 2: 1(1)+(-1)(-1)+1(2) = 4; 1(2)+(-1)(2)+1(0) = 0; 1(1)+(-1)(-1)+1(2) = 4\nRow 3: 0(1)+2(-1)+2(2) = 2; 0(2)+2(2)+2(0) = 4; 0(1)+2(-1)+2(2) = 2\nAB = [1 10 1; 4 0 4; 2 4 2]\n(AB)C = [1 10 1; 4 0 4; 2 4 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+10(0)+1(1) = 2; 1(0)+10(1)+1(0) = 10; 1(1)+10(1)+1(2) = 13\nRow 2: 4(1)+0(0)+4(1) = 8; 4(0)+0(1)+4(0) = 0; 4(1)+0(1)+4(2) = 12\nRow 3: 2(1)+4(0)+2(1) = 4; 2(0)+4(1)+2(0) = 4; 2(1)+4(1)+2(2) = 10\n(AB)C = [2 10 13; 8 0 12; 4 4 10]\nA(BC) = (AB)C = [2 10 13; 8 0 12; 4 4 10]"
+                "a": "BC = [1 2 1; -1 2 -1; 2 0 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+2(0)+1(1) = 2; 1(0)+2(1)+1(0) = 2; 1(1)+2(1)+1(2) = 5\nRow 2: -1(1)+2(0)+(-1)(1) = -2; -1(0)+2(1)+(-1)(0) = 2; -1(1)+2(1)+(-1)(2) = -1\nRow 3: 2(1)+0(0)+2(1) = 4; 2(0)+0(1)+2(0) = 0; 2(1)+0(1)+2(2) = 6\nBC = [2 2 5; -2 2 -1; 4 0 6]\nA(BC) = [2 3 1; 1 -1 1; 0 2 2] × [2 2 5; -2 2 -1; 4 0 6]\nRow 1: 2(2)+3(-2)+1(4) = 2; 2(2)+3(2)+1(0) = 10; 2(5)+3(-1)+1(6) = 13\nRow 2: 1(2)+(-1)(-2)+1(4) = 8; 1(2)+(-1)(2)+1(0) = 0; 1(5)+(-1)(-1)+1(6) = 12\nRow 3: 0(2)+2(-2)+2(4) = 4; 0(2)+2(2)+2(0) = 4; 0(5)+2(-1)+2(6) = 10\nA(BC) = [2 10 13; 8 0 12; 4 4 10]\nAB = [2 3 1; 1 -1 1; 0 2 2] × [1 2 1; -1 2 -1; 2 0 2]\nRow 1: 2(1)+3(-1)+1(2) = 1; 2(2)+3(2)+1(0) = 10; 2(1)+3(-1)+1(2) = 1\nRow 2: 1(1)+(-1)(-1)+1(2) = 4; 1(2)+(-1)(2)+1(0) = 0; 1(1)+(-1)(-1)+1(2) = 4\nRow 3: 0(1)+2(-1)+2(2) = 2; 0(2)+2(2)+2(0) = 4; 0(1)+2(-1)+2(2) = 2\nAB = [1 10 1; 4 0 4; 2 4 2]\n(AB)C = [1 10 1; 4 0 4; 2 4 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+10(0)+1(1) = 2; 1(0)+10(1)+1(0) = 10; 1(1)+10(1)+1(2) = 13\nRow 2: 4(1)+0(0)+4(1) = 8; 4(0)+0(1)+4(0) = 0; 4(1)+0(1)+4(2) = 12\nRow 3: 2(1)+4(0)+2(1) = 4; 2(0)+4(1)+2(0) = 4; 2(1)+4(1)+2(2) = 10\n(AB)C = [2 10 13; 8 0 12; 4 4 10]\nA(BC) = (AB)C\nA(BC) = [2 10 13; 8 0 12; 4 4 10]"
               }
             ]
           },
@@ -7850,35 +7850,35 @@ var STUDY = {
             "items": [
               {
                 "q": "Evaluate each of the following determinants:\n(i) |-5 -3; 3 -4|\n(ii) |-4 3; 1 -3|\n(iii) |-1 -5; 2 3|\n(iv) |2 -5; 2 -1|\n(v) |3 -3 -4; 4 1 -5; 0 -1 -4|\n(vi) |-3 4 -5; 2 -3 -5; 1 3 5|\n(vii) |0 5 -4; -3 4 -5; 1 0 -5|\n(viii) |4 3 -5; -5 -1 -5; 2 4 4|\n(ix) |1 0 4; -2 3 -5; 3 5 3|\n(x) |0 a b; 0 c d; 0 x y|\n(xi) |-2 0 0; -6 x 1; -4 0 -1|\n(xii) |2 0 0; 0 -3 0; 0 0 -4|",
-                "a": "(i) |-5 -3; 3 -4| = (-5)(-4) - (-3)(3) = 20 + 9 = 29\n(ii) |-4 3; 1 -3| = (-4)(-3) - (3)(1) = 12 - 3 = 9\n(iii) |-1 -5; 2 3| = (-1)(3) - (-5)(2) = -3 + 10 = 7\n(iv) |2 -5; 2 -1| = (2)(-1) - (-5)(2) = -2 + 10 = 8\n(v) |3 -3 -4; 4 1 -5; 0 -1 -4| = 3|1 -5; -1 -4| - (-3)|4 -5; 0 -4| + (-4)|4 1; 0 -1| = 3(-4-5) + 3(-16-0) - 4(-4-0) = 3(-9) + 3(-16) - 4(-4) = -27 - 48 + 16 = -59\n(vi) |-3 4 -5; 2 -3 -5; 1 3 5| = -3|-3 -5; 3 5| - 4|2 -5; 1 5| + (-5)|2 -3; 1 3| = -3(-15+15) - 4(10+5) - 5(6+3) = 0 - 60 - 45 = -105\n(vii) |0 5 -4; -3 4 -5; 1 0 -5| = 0 - 5|-3 -5; 1 -5| + (-4)|-3 4; 1 0| = -5(15+5) - 4(0-4) = -100 + 16 = -84\n(viii) |4 3 -5; -5 -1 -5; 2 4 4| = 4|-1 -5; 4 4| - 3|-5 -5; 2 4| + (-5)|-5 -1; 2 4| = 4(-4+20) - 3(-20+10) - 5(-20+2) = 64 + 30 + 90 = 184\n(ix) |1 0 4; -2 3 -5; 3 5 3| = 1|3 -5; 5 3| - 0 + 4|-2 3; 3 5| = (9+25) + 4(-10-9) = 34 - 76 = -42\n(x) |0 a b; 0 c d; 0 x y| = 0\n(xi) |-2 0 0; -6 x 1; -4 0 -1| = -2|x 1; 0 -1| - 0 + 0 = -2(-x - 0) = 2x\n(xii) |2 0 0; 0 -3 0; 0 0 -4| = 2 × (-3) × (-4) = 24"
+                "a": "(i) |-5 -3; 3 -4| = (-5)(-4) - (-3)(3)\n|-5 -3; 3 -4| = 20 + 9\n|-5 -3; 3 -4| = 29\n(ii) |-4 3; 1 -3| = (-4)(-3) - (3)(1)\n|-4 3; 1 -3| = 12 - 3\n|-4 3; 1 -3| = 9\n(iii) |-1 -5; 2 3| = (-1)(3) - (-5)(2)\n|-1 -5; 2 3| = -3 + 10\n|-1 -5; 2 3| = 7\n(iv) |2 -5; 2 -1| = (2)(-1) - (-5)(2)\n|2 -5; 2 -1| = -2 + 10\n|2 -5; 2 -1| = 8\n(v) |3 -3 -4; 4 1 -5; 0 -1 -4| = 3|1 -5; -1 -4| - (-3)|4 -5; 0 -4| + (-4)|4 1; 0 -1|\n|3 -3 -4; 4 1 -5; 0 -1 -4| = 3(-4-5) + 3(-16-0) - 4(-4-0)\n|3 -3 -4; 4 1 -5; 0 -1 -4| = 3(-9) + 3(-16) - 4(-4)\n|3 -3 -4; 4 1 -5; 0 -1 -4| = -27 - 48 + 16\n|3 -3 -4; 4 1 -5; 0 -1 -4| = -59\n(vi) |-3 4 -5; 2 -3 -5; 1 3 5| = -3|-3 -5; 3 5| - 4|2 -5; 1 5| + (-5)|2 -3; 1 3|\n|-3 4 -5; 2 -3 -5; 1 3 5| = -3(-15+15) - 4(10+5) - 5(6+3)\n|-3 4 -5; 2 -3 -5; 1 3 5| = 0 - 60 - 45\n|-3 4 -5; 2 -3 -5; 1 3 5| = -105\n(vii) |0 5 -4; -3 4 -5; 1 0 -5| = 0 - 5|-3 -5; 1 -5| + (-4)|-3 4; 1 0|\n|0 5 -4; -3 4 -5; 1 0 -5| = -5(15+5) - 4(0-4)\n|0 5 -4; -3 4 -5; 1 0 -5| = -100 + 16\n|0 5 -4; -3 4 -5; 1 0 -5| = -84\n(viii) |4 3 -5; -5 -1 -5; 2 4 4| = 4|-1 -5; 4 4| - 3|-5 -5; 2 4| + (-5)|-5 -1; 2 4|\n|4 3 -5; -5 -1 -5; 2 4 4| = 4(-4+20) - 3(-20+10) - 5(-20+2)\n|4 3 -5; -5 -1 -5; 2 4 4| = 64 + 30 + 90\n|4 3 -5; -5 -1 -5; 2 4 4| = 184\n(ix) |1 0 4; -2 3 -5; 3 5 3| = 1|3 -5; 5 3| - 0 + 4|-2 3; 3 5|\n|1 0 4; -2 3 -5; 3 5 3| = (9+25) + 4(-10-9)\n|1 0 4; -2 3 -5; 3 5 3| = 34 - 76\n|1 0 4; -2 3 -5; 3 5 3| = -42\n(x) |0 a b; 0 c d; 0 x y| = 0\n(xi) |-2 0 0; -6 x 1; -4 0 -1| = -2|x 1; 0 -1| - 0 + 0\n|-2 0 0; -6 x 1; -4 0 -1| = -2(-x - 0)\n|-2 0 0; -6 x 1; -4 0 -1| = 2x\n(xii) |2 0 0; 0 -3 0; 0 0 -4| = 2 × (-3) × (-4)\n|2 0 0; 0 -3 0; 0 0 -4| = 24"
               },
               {
                 "q": "Let A = [2 1 1; 1 1 1; 1 -1 2] then compute M12, M22, M21, A12, A22 and A21.",
-                "a": "M12 = |1 1; 1 2| = 2 - 1 = 1\nA12 = (-1)^(1+2) × M12 = (-1)^3 × 1 = -1\nM22 = |2 1; 1 2| = 4 - 1 = 3\nA22 = (-1)^(2+2) × M22 = (-1)^4 × 3 = 3\nM21 = |1 1; -1 2| = 2 - (-1) = 3\nA21 = (-1)^(2+1) × M21 = (-1)^3 × 3 = -3"
+                "a": "M12 = |1 1; 1 2|\nM12 = 2 - 1\nM12 = 1\nA12 = (-1)^(1+2) × M12\nA12 = (-1)^3 × 1\nA12 = -1\nM22 = |2 1; 1 2|\nM22 = 4 - 1\nM22 = 3\nA22 = (-1)^(2+2) × M22\nA22 = (-1)^4 × 3\nA22 = 3\nM21 = |1 1; -1 2|\nM21 = 2 - (-1)\nM21 = 3\nA21 = (-1)^(2+1) × M21\nA21 = (-1)^3 × 3\nA21 = -3"
               },
               {
                 "q": "For what value of x, the matrix [5-x x+1; 2 4] is singular?",
-                "a": "|A| = |5-x x+1; 2 4| = 4(5 - x) - 2(x + 1) = 20 - 4x - 2x - 2 = 18 - 6x\n|A| = 0\n18 - 6x = 0\n6x = 18\nx = 3"
+                "a": "|A| = |5-x x+1; 2 4|\n|A| = 4(5 - x) - 2(x + 1)\n|A| = 20 - 4x - 2x - 2\n|A| = 18 - 6x\n|A| = 0\n18 - 6x = 0\n6x = 18\nx = 3"
               },
               {
                 "q": "Classify the square matrices as singular or non-singular given by\nA = [0 2 -1; 3 -2 1; 3 2 -1] and B = [0 2 -1; 3 -2 1; 3 2 1]",
-                "a": "|A| = |0 2 -1; 3 -2 1; 3 2 -1| = 0 - 2|3 1; 3 -1| + (-1)|3 -2; 3 2| = -2(-3-3) - (6+6) = 12 - 12 = 0\n|A| = 0, A is a singular matrix\n|B| = |0 2 -1; 3 -2 1; 3 2 1| = 0 - 2|3 1; 3 1| + (-1)|3 -2; 3 2| = -2(3-3) - (6+6) = 0 - 12 = -12\n|B| = -12 ≠ 0, B is a non-singular matrix"
+                "a": "|A| = |0 2 -1; 3 -2 1; 3 2 -1|\n|A| = 0 - 2|3 1; 3 -1| + (-1)|3 -2; 3 2|\n|A| = -2(-3-3) - (6+6)\n|A| = 12 - 12\n|A| = 0\n|A| = 0, A is a singular matrix\n|B| = |0 2 -1; 3 -2 1; 3 2 1|\n|B| = 0 - 2|3 1; 3 1| + (-1)|3 -2; 3 2|\n|B| = -2(3-3) - (6+6)\n|B| = 0 - 12\n|B| = -12\n|B| = -12 ≠ 0, B is a non-singular matrix"
               },
               {
                 "q": "Find the adjoint of the following:\nA = [1 6; 4 7], B = [-3 2 -5; -1 0 -2; 3 -4 1] and C = [0 -2 0; 6 2 -6; -3 0 6]",
-                "a": "adj [a b; c d] = [d -b; -c a]\nA = [1 6; 4 7]: Adj(A) = [7 -6; -4 1]\nB = [-3 2 -5; -1 0 -2; 3 -4 1]\nA11 = |0 -2; -4 1| = 0 - 8 = -8\nA12 = -|-1 -2; 3 1| = -(-1 + 6) = -5\nA13 = |-1 0; 3 -4| = 4 - 0 = 4\nA21 = -|2 -5; -4 1| = -(2 - 20) = 18\nA22 = |-3 -5; 3 1| = -3 + 15 = 12\nA23 = -|-3 2; 3 -4| = -(12 - 6) = -6\nA31 = |2 -5; 0 -2| = -4 - 0 = -4\nA32 = -|-3 -5; -1 -2| = -(6 - 5) = -1\nA33 = |-3 2; -1 0| = 0 + 2 = 2\nCofactor matrix = [-8 -5 4; 18 12 -6; -4 -1 2]\nAdj(B) = [-8 18 -4; -5 12 -1; 4 -6 2]\nC = [0 -2 0; 6 2 -6; -3 0 6]\nA11 = |2 -6; 0 6| = 12 - 0 = 12\nA12 = -|6 -6; -3 6| = -(36 - 18) = -18\nA13 = |6 2; -3 0| = 0 + 6 = 6\nA21 = -|-2 0; 0 6| = -(-12 - 0) = 12\nA22 = |0 0; -3 6| = 0\nA23 = -|0 -2; -3 0| = -(0 - 6) = 6\nA31 = |-2 0; 2 -6| = 12 - 0 = 12\nA32 = -|0 0; 6 -6| = 0\nA33 = |0 -2; 6 2| = 0 + 12 = 12\nCofactor matrix = [12 -18 6; 12 0 6; 12 0 12]\nAdj(C) = [12 12 12; -18 0 0; 6 6 12]"
+                "a": "adj [a b; c d] = [d -b; -c a]\nA = [1 6; 4 7]: Adj(A) = [7 -6; -4 1]\nB = [-3 2 -5; -1 0 -2; 3 -4 1]\nA11 = |0 -2; -4 1|\nA11 = 0 - 8\nA11 = -8\nA12 = -|-1 -2; 3 1|\nA12 = -(-1 + 6)\nA12 = -5\nA13 = |-1 0; 3 -4|\nA13 = 4 - 0\nA13 = 4\nA21 = -|2 -5; -4 1|\nA21 = -(2 - 20)\nA21 = 18\nA22 = |-3 -5; 3 1|\nA22 = -3 + 15\nA22 = 12\nA23 = -|-3 2; 3 -4|\nA23 = -(12 - 6)\nA23 = -6\nA31 = |2 -5; 0 -2|\nA31 = -4 - 0\nA31 = -4\nA32 = -|-3 -5; -1 -2|\nA32 = -(6 - 5)\nA32 = -1\nA33 = |-3 2; -1 0|\nA33 = 0 + 2\nA33 = 2\nCofactor matrix = [-8 -5 4; 18 12 -6; -4 -1 2]\nAdj(B) = [-8 18 -4; -5 12 -1; 4 -6 2]\nC = [0 -2 0; 6 2 -6; -3 0 6]\nA11 = |2 -6; 0 6|\nA11 = 12 - 0\nA11 = 12\nA12 = -|6 -6; -3 6|\nA12 = -(36 - 18)\nA12 = -18\nA13 = |6 2; -3 0|\nA13 = 0 + 6\nA13 = 6\nA21 = -|-2 0; 0 6|\nA21 = -(-12 - 0)\nA21 = 12\nA22 = |0 0; -3 6|\nA22 = 0\nA23 = -|0 -2; -3 0|\nA23 = -(0 - 6)\nA23 = 6\nA31 = |-2 0; 2 -6|\nA31 = 12 - 0\nA31 = 12\nA32 = -|0 0; 6 -6|\nA32 = 0\nA33 = |0 -2; 6 2|\nA33 = 0 + 12\nA33 = 12\nCofactor matrix = [12 -18 6; 12 0 6; 12 0 12]\nAdj(C) = [12 12 12; -18 0 0; 6 6 12]"
               },
               {
                 "q": "Verify A(adj A) = |A|I, where A = [2 3; -4 -6].",
-                "a": "|A| = |2 3; -4 -6| = 2(-6) - 3(-4) = -12 + 12 = 0\n|A|I = 0 × I2 = [0 0; 0 0]\nadj [a b; c d] = [d -b; -c a].\nadj(A) = [-6 -3; 4 2]\nA(adj A) = [2 3; -4 -6] × [-6 -3; 4 2]\nRow 1: 2(-6)+3(4) = 0; 2(-3)+3(2) = 0\nRow 2: -4(-6)+(-6)(4) = 0; -4(-3)+(-6)(2) = 0\nA(adj A) = [0 0; 0 0]\nA(adj A) = [0 0; 0 0] = |A|I, the result"
+                "a": "|A| = |2 3; -4 -6|\n|A| = 2(-6) - 3(-4)\n|A| = -12 + 12\n|A| = 0\n|A|I = 0 × I2\n|A|I = [0 0; 0 0]\nadj [a b; c d] = [d -b; -c a].\nadj(A) = [-6 -3; 4 2]\nA(adj A) = [2 3; -4 -6] × [-6 -3; 4 2]\nRow 1: 2(-6)+3(4) = 0; 2(-3)+3(2) = 0\nRow 2: -4(-6)+(-6)(4) = 0; -4(-3)+(-6)(2) = 0\nA(adj A) = [0 0; 0 0]\nA(adj A) = [0 0; 0 0]\nA(adj A) = |A|I, the result"
               },
               {
                 "q": "Find the inverse of the following matrices by adjoint method if exist:\n(i) A = [3 2; -2 -1]\n(ii) B = [3 6; 5 10]\n(iii) C = [2 1 1; 3 2 1; 2 1 2]\n(iv) D = [1 0 1; -4 1 -1; 6 -2 1]\n(v) E = [1 -1 3; 2 1 2; -2 -2 1]",
-                "a": "Use A^-1 = [[Adj(A)/|A|]]\n(i) A = [3 2; -2 -1]\n|A| = 3(-1) - 2(-2) = -3 + 4 = 1 ≠ 0\nAdj(A) = [-1 -2; 2 3]\nA^-1 = ([[1/1]])[-1 -2; 2 3] = [-1 -2; 2 3]\n(ii) B = [3 6; 5 10]\n|B| = 3(10) - 6(5) = 30 - 30 = 0\nSingular\nInverse does not exist\n(iii) C = [2 1 1; 3 2 1; 2 1 2]\n|C| = 2|2 1; 1 2| - 1|3 1; 2 2| + 1|3 2; 2 1| = 2(3) - (6-2) + (3-4) = 6 - 4 - 1 = 1 ≠ 0\nCofactors: A11 = 3, A12 = -4, A13 = -1, A21 = -1, A22 = 2, A23 = 0, A31 = -1, A32 = 1, A33 = 1\nCofactor matrix = [3 -4 -1; -1 2 0; -1 1 1]\nAdj(C) = [3 -1 -1; -4 2 1; -1 0 1]\nC^-1 = ([[1/1]])Adj(C) = [3 -1 -1; -4 2 1; -1 0 1]\n(iv) D = [1 0 1; -4 1 -1; 6 -2 1]\n|D| = 1|1 -1; -2 1| - 0 + 1|-4 1; 6 -2| = (1-2) + (8-6) = -1 + 2 = 1 ≠ 0\nCofactors: A11 = -1, A12 = -2, A13 = 2, A21 = -2, A22 = -5, A23 = 2, A31 = -1, A32 = -3, A33 = 1\nCofactor matrix = [-1 -2 2; -2 -5 2; -1 -3 1]\nAdj(D) = [-1 -2 -1; -2 -5 -3; 2 2 1]\nD^-1 = ([[1/1]])Adj(D) = [-1 -2 -1; -2 -5 -3; 2 2 1]\n(v) E = [1 -1 3; 2 1 2; -2 -2 1]\n|E| = 1|1 2; -2 1| - (-1)|2 2; -2 1| + 3|2 1; -2 -2| = (1+4) + (2+4) + 3(-4+2) = 5 + 6 - 6 = 5 ≠ 0\nCofactors: A11 = 5, A12 = -6, A13 = -2, A21 = -5, A22 = 7, A23 = 4, A31 = -5, A32 = 4, A33 = 3\nCofactor matrix = [5 -6 -2; -5 7 4; -5 4 3]\nAdj(E) = [5 -5 -5; -6 7 4; -2 4 3]\nE^-1 = ([[1/5]])[5 -5 -5; -6 7 4; -2 4 3] = [1 -1 -1; [[-6/5]] [[7/5]] [[4/5]]; [[-2/5]] [[4/5]] [[3/5]]]"
+                "a": "Use A^-1 = [[Adj(A)/|A|]]\n(i) A = [3 2; -2 -1]\n|A| = 3(-1) - 2(-2)\n|A| = -3 + 4\n|A| = 1 ≠ 0\nAdj(A) = [-1 -2; 2 3]\nA^-1 = ([[1/1]])[-1 -2; 2 3]\nA^-1 = [-1 -2; 2 3]\n(ii) B = [3 6; 5 10]\n|B| = 3(10) - 6(5)\n|B| = 30 - 30\n|B| = 0\nSingular\nInverse does not exist\n(iii) C = [2 1 1; 3 2 1; 2 1 2]\n|C| = 2|2 1; 1 2| - 1|3 1; 2 2| + 1|3 2; 2 1|\n|C| = 2(3) - (6-2) + (3-4)\n|C| = 6 - 4 - 1\n|C| = 1 ≠ 0\nCofactors: A11 = 3, A12 = -4, A13 = -1, A21 = -1, A22 = 2, A23 = 0, A31 = -1, A32 = 1, A33 = 1\nCofactor matrix = [3 -4 -1; -1 2 0; -1 1 1]\nAdj(C) = [3 -1 -1; -4 2 1; -1 0 1]\nC^-1 = ([[1/1]])Adj(C)\nC^-1 = [3 -1 -1; -4 2 1; -1 0 1]\n(iv) D = [1 0 1; -4 1 -1; 6 -2 1]\n|D| = 1|1 -1; -2 1| - 0 + 1|-4 1; 6 -2|\n|D| = (1-2) + (8-6)\n|D| = -1 + 2\n|D| = 1 ≠ 0\nCofactors: A11 = -1, A12 = -2, A13 = 2, A21 = -2, A22 = -5, A23 = 2, A31 = -1, A32 = -3, A33 = 1\nCofactor matrix = [-1 -2 2; -2 -5 2; -1 -3 1]\nAdj(D) = [-1 -2 -1; -2 -5 -3; 2 2 1]\nD^-1 = ([[1/1]])Adj(D)\nD^-1 = [-1 -2 -1; -2 -5 -3; 2 2 1]\n(v) E = [1 -1 3; 2 1 2; -2 -2 1]\n|E| = 1|1 2; -2 1| - (-1)|2 2; -2 1| + 3|2 1; -2 -2|\n|E| = (1+4) + (2+4) + 3(-4+2)\n|E| = 5 + 6 - 6\n|E| = 5 ≠ 0\nCofactors: A11 = 5, A12 = -6, A13 = -2, A21 = -5, A22 = 7, A23 = 4, A31 = -5, A32 = 4, A33 = 3\nCofactor matrix = [5 -6 -2; -5 7 4; -5 4 3]\nAdj(E) = [5 -5 -5; -6 7 4; -2 4 3]\nE^-1 = ([[1/5]])[5 -5 -5; -6 7 4; -2 4 3]\nE^-1 = [1 -1 -1; [[-6/5]] [[7/5]] [[4/5]]; [[-2/5]] [[4/5]] [[3/5]]]"
               },
               {
                 "q": "Find the solution by matrix inversion method and Cramer's rule:\n(i) 2x + 3y = 14, -4x + y = 28\n(ii) 2x - 4y = -12, 2y + 3x = 0",
-                "a": "(i) 2x + 3y = 14, -4x + y = 28\n|A| = 2(1) - 3(-4) = 2 + 12 = 14 ≠ 0\nA^-1 exists\nAdj(A) = [1 -3; 4 2]\nA^-1 = ([[1/14]])[1 -3; 4 2]\nX = A^-1 B = ([[1/14]])[1 -3; 4 2] × [14; 28] = ([[1/14]])[1(14)+(-3)(28); 4(14)+2(28)] = ([[1/14]])[-70; 112] = [-5; 8]\nx = -5\ny = 8\n|A| = 14\n|A1| = |14 3; 28 1| = 14 - 84 = -70\nx = [[|A1|/|A|]] = [[-70/14]] = -5\n|A2| = |2 14; -4 28| = 56 + 56 = 112\ny = [[|A2|/|A|]] = [[112/14]] = 8\n{(-5, 8)}\n(ii) 2x - 4y = -12, 3x + 2y = 0\n|A| = 2(2) - (-4)(3) = 4 + 12 = 16 ≠ 0\nA^-1 exists\nAdj(A) = [2 4; -3 2]\nA^-1 = ([[1/16]])[2 4; -3 2]\nX = A^-1 B = ([[1/16]])[2 4; -3 2] × [-12; 0] = ([[1/16]])[2(-12)+4(0); -3(-12)+2(0)] = ([[1/16]])[-24; 36] = [-[[3/2]]; [[9/4]]]\nx = [[-3/2]]\ny = [[9/4]]\n|A| = 16\n|A1| = |-12 -4; 0 2| = -24 - 0 = -24\nx = [[|A1|/|A|]] = [[-24/16]] = [[-3/2]]\n|A2| = |2 -12; 3 0| = 0 + 36 = 36\ny = [[|A2|/|A|]] = [[36/16]] = [[9/4]]\n{([[-3/2]], [[9/4]])}"
+                "a": "(i) 2x + 3y = 14, -4x + y = 28\n|A| = 2(1) - 3(-4)\n|A| = 2 + 12\n|A| = 14 ≠ 0\nA^-1 exists\nAdj(A) = [1 -3; 4 2]\nA^-1 = ([[1/14]])[1 -3; 4 2]\nX = A^-1 B\nX = ([[1/14]])[1 -3; 4 2] × [14; 28]\nX = ([[1/14]])[1(14)+(-3)(28); 4(14)+2(28)]\nX = ([[1/14]])[-70; 112]\nX = [-5; 8]\nx = -5\ny = 8\n|A| = 14\n|A1| = |14 3; 28 1|\n|A1| = 14 - 84\n|A1| = -70\nx = [[|A1|/|A|]]\nx = [[-70/14]]\nx = -5\n|A2| = |2 14; -4 28|\n|A2| = 56 + 56\n|A2| = 112\ny = [[|A2|/|A|]]\ny = [[112/14]]\ny = 8\n{(-5, 8)}\n(ii) 2x - 4y = -12, 3x + 2y = 0\n|A| = 2(2) - (-4)(3)\n|A| = 4 + 12\n|A| = 16 ≠ 0\nA^-1 exists\nAdj(A) = [2 4; -3 2]\nA^-1 = ([[1/16]])[2 4; -3 2]\nX = A^-1 B\nX = ([[1/16]])[2 4; -3 2] × [-12; 0]\nX = ([[1/16]])[2(-12)+4(0); -3(-12)+2(0)]\nX = ([[1/16]])[-24; 36]\nX = [-[[3/2]]; [[9/4]]]\nx = [[-3/2]]\ny = [[9/4]]\n|A| = 16\n|A1| = |-12 -4; 0 2|\n|A1| = -24 - 0\n|A1| = -24\nx = [[|A1|/|A|]]\nx = [[-24/16]]\nx = [[-3/2]]\n|A2| = |2 -12; 3 0|\n|A2| = 0 + 36\n|A2| = 36\ny = [[|A2|/|A|]]\ny = [[36/16]]\ny = [[9/4]]\n{([[-3/2]], [[9/4]])}"
               }
             ]
           },
@@ -7903,7 +7903,7 @@ var STUDY = {
               },
               {
                 "q": "If A = [1 8 9; 2 1 0; -2 1 7], B = [2 5 8; 1 3 4; 7 2 4] then find\n(i) A + B\n(ii) A - B\n(iii) AB\n(iv) BA\n(v) 5A\n(vi) 7B\n(vii) 8A - 9B",
-                "a": "(i) A + B = [1+2 8+5 9+8; 2+1 1+3 0+4; -2+7 1+2 7+4] = [3 13 17; 3 4 4; 5 3 11]\n(ii) A - B = [1-2 8-5 9-8; 2-1 1-3 0-4; -2-7 1-2 7-4] = [-1 3 1; 1 -2 -4; -9 -1 3]\n(iii) AB = [1 8 9; 2 1 0; -2 1 7] × [2 5 8; 1 3 4; 7 2 4]\nRow 1: 1(2)+8(1)+9(7) = 73; 1(5)+8(3)+9(2) = 47; 1(8)+8(4)+9(4) = 76\nRow 2: 2(2)+1(1)+0(7) = 5; 2(5)+1(3)+0(2) = 13; 2(8)+1(4)+0(4) = 20\nRow 3: -2(2)+1(1)+7(7) = 46; -2(5)+1(3)+7(2) = 7; -2(8)+1(4)+7(4) = 16\nAB = [73 47 76; 5 13 20; 46 7 16]\n(iv) BA = [2 5 8; 1 3 4; 7 2 4] × [1 8 9; 2 1 0; -2 1 7]\nRow 1: 2(1)+5(2)+8(-2) = -4; 2(8)+5(1)+8(1) = 29; 2(9)+5(0)+8(7) = 74\nRow 2: 1(1)+3(2)+4(-2) = -1; 1(8)+3(1)+4(1) = 15; 1(9)+3(0)+4(7) = 37\nRow 3: 7(1)+2(2)+4(-2) = 3; 7(8)+2(1)+4(1) = 62; 7(9)+2(0)+4(7) = 91\nBA = [-4 29 74; -1 15 37; 3 62 91]\n(v) 5A = 5[1 8 9; 2 1 0; -2 1 7] = [5 40 45; 10 5 0; -10 5 35]\n(vi) 7B = 7[2 5 8; 1 3 4; 7 2 4] = [14 35 56; 7 21 28; 49 14 28]\n(vii) 8A - 9B = 8[1 8 9; 2 1 0; -2 1 7] - 9[2 5 8; 1 3 4; 7 2 4] = [8 64 72; 16 8 0; -16 8 56] - [18 45 72; 9 27 36; 63 18 36] = [-10 19 0; 7 -19 -36; -79 -10 20]"
+                "a": "(i) A + B = [1+2 8+5 9+8; 2+1 1+3 0+4; -2+7 1+2 7+4]\nA + B = [3 13 17; 3 4 4; 5 3 11]\n(ii) A - B = [1-2 8-5 9-8; 2-1 1-3 0-4; -2-7 1-2 7-4]\nA - B = [-1 3 1; 1 -2 -4; -9 -1 3]\n(iii) AB = [1 8 9; 2 1 0; -2 1 7] × [2 5 8; 1 3 4; 7 2 4]\nRow 1: 1(2)+8(1)+9(7) = 73; 1(5)+8(3)+9(2) = 47; 1(8)+8(4)+9(4) = 76\nRow 2: 2(2)+1(1)+0(7) = 5; 2(5)+1(3)+0(2) = 13; 2(8)+1(4)+0(4) = 20\nRow 3: -2(2)+1(1)+7(7) = 46; -2(5)+1(3)+7(2) = 7; -2(8)+1(4)+7(4) = 16\nAB = [73 47 76; 5 13 20; 46 7 16]\n(iv) BA = [2 5 8; 1 3 4; 7 2 4] × [1 8 9; 2 1 0; -2 1 7]\nRow 1: 2(1)+5(2)+8(-2) = -4; 2(8)+5(1)+8(1) = 29; 2(9)+5(0)+8(7) = 74\nRow 2: 1(1)+3(2)+4(-2) = -1; 1(8)+3(1)+4(1) = 15; 1(9)+3(0)+4(7) = 37\nRow 3: 7(1)+2(2)+4(-2) = 3; 7(8)+2(1)+4(1) = 62; 7(9)+2(0)+4(7) = 91\nBA = [-4 29 74; -1 15 37; 3 62 91]\n(v) 5A = 5[1 8 9; 2 1 0; -2 1 7]\n5A = [5 40 45; 10 5 0; -10 5 35]\n(vi) 7B = 7[2 5 8; 1 3 4; 7 2 4]\n7B = [14 35 56; 7 21 28; 49 14 28]\n(vii) 8A - 9B = 8[1 8 9; 2 1 0; -2 1 7] - 9[2 5 8; 1 3 4; 7 2 4]\n8A - 9B = [8 64 72; 16 8 0; -16 8 56] - [18 45 72; 9 27 36; 63 18 36]\n8A - 9B = [-10 19 0; 7 -19 -36; -79 -10 20]"
               },
               {
                 "q": "Evaluate |1 8 9; 2 0 -1; -7 8 -10|",
@@ -7911,15 +7911,15 @@ var STUDY = {
               },
               {
                 "q": "Define singular and non-singular matrices with examples.",
-                "a": "Singular: |A| = 0\nNon-singular: |A| ≠ 0\nA = [2 4 6; 2 0 2; 6 8 14]\n|A| = 2(0-16) - 4(28-12) + 6(16-0) = -32 - 64 + 96 = 0\nA = [3 1; 4 2]\n|A| = 3(2) - 1(4) = 6 - 4 = 2 ≠ 0"
+                "a": "Singular: |A| = 0\nNon-singular: |A| ≠ 0\nA = [2 4 6; 2 0 2; 6 8 14]\n|A| = 2(0-16) - 4(28-12) + 6(16-0)\n|A| = -32 - 64 + 96\n|A| = 0\nA = [3 1; 4 2]\n|A| = 3(2) - 1(4)\n|A| = 6 - 4\n|A| = 2 ≠ 0"
               },
               {
                 "q": "If A = [1 4 2; 7 0 9; 0 2 -3] then find A^-1.",
-                "a": "|A| = |1 4 2; 7 0 9; 0 2 -3| = 1|0 9; 2 -3| - 4|7 9; 0 -3| + 2|7 0; 0 2| = 1(0-18) - 4(-21-0) + 2(14-0) = -18 + 84 + 28 = 94\n|A| = 94 ≠ 0, A^-1 exists\nA11 = |0 9; 2 -3| = -18; A12 = -|7 9; 0 -3| = 21; A13 = |7 0; 0 2| = 14\nA21 = -|4 2; 2 -3| = -(-12-4) = 16; A22 = |1 2; 0 -3| = -3; A23 = -|1 4; 0 2| = -2\nA31 = |4 2; 0 9| = 36; A32 = -|1 2; 7 9| = -(9-14) = 5; A33 = |1 4; 7 0| = -28\nCofactor matrix = [-18 21 14; 16 -3 -2; 36 5 -28]\nAdj(A) = [-18 16 36; 21 -3 5; 14 -2 -28]\nA^-1 = [[Adj(A)/|A|]] = ([[1/94]])[-18 16 36; 21 -3 5; 14 -2 -28]"
+                "a": "|A| = |1 4 2; 7 0 9; 0 2 -3|\n|A| = 1|0 9; 2 -3| - 4|7 9; 0 -3| + 2|7 0; 0 2|\n|A| = 1(0-18) - 4(-21-0) + 2(14-0)\n|A| = -18 + 84 + 28\n|A| = 94\n|A| = 94 ≠ 0, A^-1 exists\nA11 = |0 9; 2 -3|\nA11 = -18\nA12 = -|7 9; 0 -3|\nA12 = 21\nA13 = |7 0; 0 2|\nA13 = 14\nA21 = -|4 2; 2 -3|\nA21 = -(-12-4)\nA21 = 16\nA22 = |1 2; 0 -3|\nA22 = -3\nA23 = -|1 4; 0 2|\nA23 = -2\nA31 = |4 2; 0 9|\nA31 = 36\nA32 = -|1 2; 7 9|\nA32 = -(9-14)\nA32 = 5\nA33 = |1 4; 7 0|\nA33 = -28\nCofactor matrix = [-18 21 14; 16 -3 -2; 36 5 -28]\nAdj(A) = [-18 16 36; 21 -3 5; 14 -2 -28]\nA^-1 = [[Adj(A)/|A|]]\nA^-1 = ([[1/94]])[-18 16 36; 21 -3 5; 14 -2 -28]"
               },
               {
                 "q": "Solve\n2x + 5y = 27\n7x + y = 12\nby (i) matrix inversion method (ii) Cramer's rule",
-                "a": "|A| = 2(1) - 5(7) = 2 - 35 = -33 ≠ 0\nAdj(A) = [1 -5; -7 2]\nA^-1 = ([[1/-33]])[1 -5; -7 2]\nX = A^-1 B = ([[1/-33]])[1 -5; -7 2] × [27; 12] = ([[1/-33]])[1(27)+(-5)(12); -7(27)+2(12)] = ([[1/-33]])[-33; -165] = [1; 5]\nx = 1\ny = 5\n|A| = -33\n|A1| = |27 5; 12 1| = 27 - 60 = -33\nx = [[|A1|/|A|]] = [[-33/-33]] = 1\n|A2| = |2 27; 7 12| = 24 - 189 = -165\ny = [[|A2|/|A|]] = [[-165/-33]] = 5\n{(1, 5)}"
+                "a": "|A| = 2(1) - 5(7)\n|A| = 2 - 35\n|A| = -33 ≠ 0\nAdj(A) = [1 -5; -7 2]\nA^-1 = ([[1/-33]])[1 -5; -7 2]\nX = A^-1 B\nX = ([[1/-33]])[1 -5; -7 2] × [27; 12]\nX = ([[1/-33]])[1(27)+(-5)(12); -7(27)+2(12)]\nX = ([[1/-33]])[-33; -165]\nX = [1; 5]\nx = 1\ny = 5\n|A| = -33\n|A1| = |27 5; 12 1|\n|A1| = 27 - 60\n|A1| = -33\nx = [[|A1|/|A|]]\nx = [[-33/-33]]\nx = 1\n|A2| = |2 27; 7 12|\n|A2| = 24 - 189\n|A2| = -165\ny = [[|A2|/|A|]]\ny = [[-165/-33]]\ny = 5\n{(1, 5)}"
               }
             ]
           }
@@ -7931,23 +7931,23 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) x² + 5x - 6 = 0: a = 1, b = 5, c = -6\nΔ = (5)² - 4(1)(-6) = 25 + 24 = 49 = (7)² > 0\nReal, rational, unequal\n(ii) x² = 6x\nx² - 6x = 0: a = 1, b = -6, c = 0\nΔ = (-6)² - 4(1)(0) = 36 = (6)² > 0\nReal, rational, unequal\n(iii) 2x² + 8 = 6x\n2x² - 6x + 8 = 0: a = 2, b = -6, c = 8\nΔ = (-6)² - 4(2)(8) = 36 - 64 = -28 < 0\nComplex, conjugate\n(iv) 1 + 6x + 9x² = 0\n9x² + 6x + 1 = 0: a = 9, b = 6, c = 1\nΔ = (6)² - 4(9)(1) = 36 - 36 = 0\nReal, rational, equal\nx = [[-1/3]]\n(v) 24x² + 12x + 36 = 0: a = 24, b = 12, c = 36\nΔ = (12)² - 4(24)(36) = 144 - 3456 = -3312 < 0\nComplex, conjugate\n(vi) x = x² + 1\nx² - x + 1 = 0: a = 1, b = -1, c = 1\nΔ = (-1)² - 4(1)(1) = 1 - 4 = -3 < 0\nComplex, conjugate\n(vii) 3x² + 6 = 5x\n3x² - 5x + 6 = 0: a = 3, b = -5, c = 6\nΔ = (-5)² - 4(3)(6) = 25 - 72 = -47 < 0\nComplex, conjugate\n(viii) 3x² + 9 = 0: a = 3, b = 0, c = 9\nΔ = (0)² - 4(3)(9) = -108 < 0\nImaginary (complex), conjugate",
+                "a": "(i) x² + 5x - 6 = 0: a = 1, b = 5, c = -6\nΔ = (5)² - 4(1)(-6)\nΔ = 25 + 24\nΔ = 49\nΔ = (7)² > 0\nReal, rational, unequal\n(ii) x² = 6x\nx² - 6x = 0: a = 1, b = -6, c = 0\nΔ = (-6)² - 4(1)(0)\nΔ = 36\nΔ = (6)² > 0\nReal, rational, unequal\n(iii) 2x² + 8 = 6x\n2x² - 6x + 8 = 0: a = 2, b = -6, c = 8\nΔ = (-6)² - 4(2)(8)\nΔ = 36 - 64\nΔ = -28 < 0\nComplex, conjugate\n(iv) 1 + 6x + 9x² = 0\n9x² + 6x + 1 = 0: a = 9, b = 6, c = 1\nΔ = (6)² - 4(9)(1)\nΔ = 36 - 36\nΔ = 0\nReal, rational, equal\nx = [[-1/3]]\n(v) 24x² + 12x + 36 = 0: a = 24, b = 12, c = 36\nΔ = (12)² - 4(24)(36)\nΔ = 144 - 3456\nΔ = -3312 < 0\nComplex, conjugate\n(vi) x = x² + 1\nx² - x + 1 = 0: a = 1, b = -1, c = 1\nΔ = (-1)² - 4(1)(1)\nΔ = 1 - 4\nΔ = -3 < 0\nComplex, conjugate\n(vii) 3x² + 6 = 5x\n3x² - 5x + 6 = 0: a = 3, b = -5, c = 6\nΔ = (-5)² - 4(3)(6)\nΔ = 25 - 72\nΔ = -47 < 0\nComplex, conjugate\n(viii) 3x² + 9 = 0: a = 3, b = 0, c = 9\nΔ = (0)² - 4(3)(9)\nΔ = -108 < 0\nImaginary (complex), conjugate",
                 "q": "Use discriminant find the nature of the roots of the following quadratic equations:\n(i) x² + 5x - 6 = 0\n(ii) x² = 6x\n(iii) 2x² + 8 = 6x\n(iv) 1 + 6x + 9x² = 0\n(v) 24x² + 12x + 36 = 0\n(vi) x = x² + 1\n(vii) 3x² + 6 = 5x\n(viii) 3x² + 9 = 0"
               },
               {
-                "a": "(i) x² - 3x + k = 0: a = 1, b = -3, c = k\nΔ = (-3)² - 4(1)(k) = 9 - 4k\n(a) Δ = 0\n9 - 4k = 0\nk = [[9/4]]\n(b) Δ > 0\n9 - 4k > 0\nk < [[9/4]]\n(ii) x² + k = 4\nx² + (k - 4) = 0: a = 1, b = 0, c = k - 4\nΔ = 0 - 4(1)(k - 4) = 16 - 4k\n(a) Δ = 0\n16 - 4k = 0\nk = 4\n(b) Δ > 0\n16 - 4k > 0\nk < 4\n(iii) x² + kx + 2 = 0: a = 1, b = k, c = 2\nΔ = k² - 4(1)(2) = k² - 8\n(a) Δ = 0\nk² = 8\nk = ±2√2\n(b) Δ > 0\nk² > 8\nk > 2√2 or k < -2√2\n(iv) (k - 1)x² - 4x + 2 = 0: a = k - 1, b = -4, c = 2\nΔ = (-4)² - 4(k - 1)(2) = 16 - 8(k - 1) = 24 - 8k\n(a) Δ = 0\n24 - 8k = 0\nk = 3\n(b) Δ > 0\n24 - 8k > 0\nk < 3, with k ≠ 1\n(v) x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 16\n(a) Δ = 0\nk² = 16\nk = ±4\n(b) Δ > 0\nk² > 16\nk > 4 or k < -4\n(vi) 9x² + kx = -16\n9x² + kx + 16 = 0: a = 9, b = k, c = 16\nΔ = k² - 4(9)(16) = k² - 576\n(a) Δ = 0\nk² = 576\nk = ±24\n(b) Δ > 0\nk² > 576\nk > 24 or k < -24\n(vii) (k - 2)x² = 4x + (k + 2)\n(k - 2)x² - 4x - (k + 2) = 0: a = k - 2, b = -4, c = -(k + 2)\nΔ = (-4)² - 4(k - 2)(-(k + 2)) = 16 + 4(k² - 4) = 4k²\n(a) Δ = 0\n4k² = 0\nk = 0\n(b) Δ > 0\n4k² > 0\nk > 0 or k < 0 (i.e. k ≠ 0), with k ≠ 2\n(viii) x² + 1 = kx\nx² - kx + 1 = 0: a = 1, b = -k, c = 1\nΔ = (-k)² - 4(1)(1) = k² - 4\n(a) Δ = 0\nk² = 4\nk = ±2\n(b) Δ > 0\nk² > 4\nk > 2 or k < -2",
+                "a": "(i) x² - 3x + k = 0: a = 1, b = -3, c = k\nΔ = (-3)² - 4(1)(k)\nΔ = 9 - 4k\n(a) Δ = 0\n9 - 4k = 0\nk = [[9/4]]\n(b) Δ > 0\n9 - 4k > 0\nk < [[9/4]]\n(ii) x² + k = 4\nx² + (k - 4) = 0: a = 1, b = 0, c = k - 4\nΔ = 0 - 4(1)(k - 4)\nΔ = 16 - 4k\n(a) Δ = 0\n16 - 4k = 0\nk = 4\n(b) Δ > 0\n16 - 4k > 0\nk < 4\n(iii) x² + kx + 2 = 0: a = 1, b = k, c = 2\nΔ = k² - 4(1)(2)\nΔ = k² - 8\n(a) Δ = 0\nk² = 8\nk = ±2√2\n(b) Δ > 0\nk² > 8\nk > 2√2 or k < -2√2\n(iv) (k - 1)x² - 4x + 2 = 0: a = k - 1, b = -4, c = 2\nΔ = (-4)² - 4(k - 1)(2)\nΔ = 16 - 8(k - 1)\nΔ = 24 - 8k\n(a) Δ = 0\n24 - 8k = 0\nk = 3\n(b) Δ > 0\n24 - 8k > 0\nk < 3, with k ≠ 1\n(v) x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 16\n(a) Δ = 0\nk² = 16\nk = ±4\n(b) Δ > 0\nk² > 16\nk > 4 or k < -4\n(vi) 9x² + kx = -16\n9x² + kx + 16 = 0: a = 9, b = k, c = 16\nΔ = k² - 4(9)(16)\nΔ = k² - 576\n(a) Δ = 0\nk² = 576\nk = ±24\n(b) Δ > 0\nk² > 576\nk > 24 or k < -24\n(vii) (k - 2)x² = 4x + (k + 2)\n(k - 2)x² - 4x - (k + 2) = 0: a = k - 2, b = -4, c = -(k + 2)\nΔ = (-4)² - 4(k - 2)(-(k + 2))\nΔ = 16 + 4(k² - 4)\nΔ = 4k²\n(a) Δ = 0\n4k² = 0\nk = 0\n(b) Δ > 0\n4k² > 0\nk > 0 or k < 0 (i.e. k ≠ 0), with k ≠ 2\n(viii) x² + 1 = kx\nx² - kx + 1 = 0: a = 1, b = -k, c = 1\nΔ = (-k)² - 4(1)(1)\nΔ = k² - 4\n(a) Δ = 0\nk² = 4\nk = ±2\n(b) Δ > 0\nk² > 4\nk > 2 or k < -2",
                 "q": "Find the value(s) of k that ensure that following quadratic equations have\n(a) Same solution\n(b) Different real solutions\n(Hint: for same solution Δ = 0 and for different real solutions Δ > 0).\n(i) x² - 3x + k = 0\n(ii) x² + k = 4\n(iii) x² + kx + 2 = 0\n(iv) (k - 1)x² - 4x + 2 = 0\n(v) x² + kx + 4 = 0\n(vi) 9x² + kx = -16\n(vii) (k - 2)x² = 4x + (k + 2)\n(viii) x² + 1 = kx"
               },
               {
-                "a": "Δ = b² - 4ac = 0\n(i) (m + 1)x² + 2(m + 3)x + (2m + 3) = 0: a = m + 1, b = 2(m + 3), c = 2m + 3\nΔ = [2(m + 3)]² - 4(m + 1)(2m + 3)\n= 4(m + 3)² - 4(m + 1)(2m + 3)\n= 4[(m² + 6m + 9) - (2m² + 5m + 3)]\n= 4(-m² + m + 6)\nΔ = 0\n-m² + m + 6 = 0\nm² - m - 6 = 0\n(m - 3)(m + 2) = 0\nm = 3\nm = -2\n(ii) 9x² + mx + 16 = 0: a = 9, b = m, c = 16\nΔ = m² - 4(9)(16) = m² - 576\nΔ = 0\nm² = 576\nm = ±24",
+                "a": "Δ = b² - 4ac\nΔ = 0\n(i) (m + 1)x² + 2(m + 3)x + (2m + 3) = 0: a = m + 1, b = 2(m + 3), c = 2m + 3\nΔ = [2(m + 3)]² - 4(m + 1)(2m + 3)\n= 4(m + 3)² - 4(m + 1)(2m + 3)\n= 4[(m² + 6m + 9) - (2m² + 5m + 3)]\n= 4(-m² + m + 6)\nΔ = 0\n-m² + m + 6 = 0\nm² - m - 6 = 0\n(m - 3)(m + 2) = 0\nm = 3\nm = -2\n(ii) 9x² + mx + 16 = 0: a = 9, b = m, c = 16\nΔ = m² - 4(9)(16)\nΔ = m² - 576\nΔ = 0\nm² = 576\nm = ±24",
                 "q": "Determine the value of m in each of the following quadratic equations that will make the roots equal.\n(i) (m + 1)x² + 2(m + 3)x + (2m + 3) = 0, provided m ≠ -1\n(ii) 9x² + mx + 16 = 0"
               },
               {
-                "a": "x² - 2(k + [[1/k]])x + 3 = 0: a = 1, b = -2(k + [[1/k]]), c = 3\nΔ = b² - 4ac = 4(k + [[1/k]])² - 4(1)(3) = 4[(k + [[1/k]])² - 3]\n(k + [[1/k]])² = k² + 2 + [[1/k²]]\n(k + [[1/k]])² - 3 = k² - 1 + [[1/k²]] = (k - [[1/k]])²\nΔ = 4(k - [[1/k]])² ≥ 0 for all real k ≠ 0\n(ii) 2nx² + 2(l + m + n)x + (l + m) = 0: a = 2n, b = 2(l + m + n), c = l + m\nΔ = b² - 4ac = 4(l + m + n)² - 4(2n)(l + m) = 4[(l + m + n)² - 2n(l + m)]\n(l + m + n)² = (l + m)² + 2n(l + m) + n²\n(l + m + n)² - 2n(l + m) = (l + m)² + n²\nΔ = 4[(l + m)² + n²] > 0",
+                "a": "x² - 2(k + [[1/k]])x + 3 = 0: a = 1, b = -2(k + [[1/k]]), c = 3\nΔ = b² - 4ac\nΔ = 4(k + [[1/k]])² - 4(1)(3)\nΔ = 4[(k + [[1/k]])² - 3]\n(k + [[1/k]])² = k² + 2 + [[1/k²]]\n(k + [[1/k]])² - 3 = k² - 1 + [[1/k²]]\n(k + [[1/k]])² - 3 = (k - [[1/k]])²\nΔ = 4(k - [[1/k]])² ≥ 0 for all real k ≠ 0\n(ii) 2nx² + 2(l + m + n)x + (l + m) = 0: a = 2n, b = 2(l + m + n), c = l + m\nΔ = b² - 4ac\nΔ = 4(l + m + n)² - 4(2n)(l + m)\nΔ = 4[(l + m + n)² - 2n(l + m)]\n(l + m + n)² = (l + m)² + 2n(l + m) + n²\n(l + m + n)² - 2n(l + m) = (l + m)² + n²\nΔ = 4[(l + m)² + n²] > 0",
                 "q": "Show that the roots of the following quadratic equations are real.\n(i) x² - 2x(k + [[1/k]])x + 3 = 0, ∀k ∈ R - {0}\n(ii) 2nx² + 2(l + m + n)x + (l + m) = 0, ∀l, m, n ∈ R and n ≠ 0"
               },
               {
-                "a": "(i) (l - m)x² + (m + n - l)x - n = 0: a = l - m, b = m + n - l, c = -n\nΔ = (m + n - l)² - 4(l - m)(-n) = (m + n - l)² + 4n(l - m)\nu = l - m\nm + n - l = n - u\nΔ = (n - u)² + 4un = n² - 2un + u² + 4un = n² + 2un + u² = (n + u)²\nΔ = (n + l - m)²\n(ii) (a + c - b)x² + 2cx + (b + c - a) = 0: a = a + c - b, b = 2c, c = b + c - a\nΔ = (2c)² - 4(a + c - b)(b + c - a)\n(a + c - b)(b + c - a) = (c + (a - b))(c - (a - b)) = c² - (a - b)²\nΔ = 4c² - 4[c² - (a - b)²] = 4(a - b)²",
+                "a": "(i) (l - m)x² + (m + n - l)x - n = 0: a = l - m, b = m + n - l, c = -n\nΔ = (m + n - l)² - 4(l - m)(-n)\nΔ = (m + n - l)² + 4n(l - m)\nu = l - m\nm + n - l = n - u\nΔ = (n - u)² + 4un\nΔ = n² - 2un + u² + 4un\nΔ = n² + 2un + u²\nΔ = (n + u)²\nΔ = (n + l - m)²\n(ii) (a + c - b)x² + 2cx + (b + c - a) = 0: a = a + c - b, b = 2c, c = b + c - a\nΔ = (2c)² - 4(a + c - b)(b + c - a)\n(a + c - b)(b + c - a) = (c + (a - b))(c - (a - b))\n(a + c - b)(b + c - a) = c² - (a - b)²\nΔ = 4c² - 4[c² - (a - b)²]\nΔ = 4(a - b)²",
                 "q": "Show that the roots of the following quadratic equations are rational.\n(i) (l - m)x² + (m + n - l)x - n = 0, ∀l, m, n ∈ R and l ≠ m\n(ii) (a + c - b)x² + 2cx + (b + c - a) = 0, ∀a, b, c ∈ R"
               },
               {
@@ -7955,7 +7955,7 @@ var STUDY = {
                 "q": "For what values of p and q the roots of quadratic equation x² + (2p - 4)x - (3q + 5) = 0 vanish?"
               },
               {
-                "a": "(x - a)(x - b) = x² - (a + b)x + ab\n(x - b)(x - c) = x² - (b + c)x + bc\n(x - c)(x - a) = x² - (c + a)x + ca\nAdding: 3x² - 2(a + b + c)x + (ab + bc + ca) = 0\na = 3, b = -2(a + b + c), c = ab + bc + ca\nΔ = [-2(a + b + c)]² - 4(3)(ab + bc + ca)\n= 4(a + b + c)² - 12(ab + bc + ca)\n= 4[(a + b + c)² - 3(ab + bc + ca)]\n(a + b + c)² - 3(ab + bc + ca) = a² + b² + c² - ab - bc - ca\n= [[1/2]][(a - b)² + (b - c)² + (c - a)²]\nΔ = 4 × [[1/2]][(a - b)² + (b - c)² + (c - a)²] = 2[(a - b)² + (b - c)² + (c - a)²] ≥ 0\nΔ ≥ 0, the roots are real\nThe roots are equal only when Δ = 0\nwhen (a - b)² + (b - c)² + (c - a)² = 0\na - b = 0, b - c = 0\nc - a = 0\na = b = c",
+                "a": "(x - a)(x - b) = x² - (a + b)x + ab\n(x - b)(x - c) = x² - (b + c)x + bc\n(x - c)(x - a) = x² - (c + a)x + ca\nAdding: 3x² - 2(a + b + c)x + (ab + bc + ca) = 0\na = 3, b = -2(a + b + c), c = ab + bc + ca\nΔ = [-2(a + b + c)]² - 4(3)(ab + bc + ca)\n= 4(a + b + c)² - 12(ab + bc + ca)\n= 4[(a + b + c)² - 3(ab + bc + ca)]\n(a + b + c)² - 3(ab + bc + ca) = a² + b² + c² - ab - bc - ca\n= [[1/2]][(a - b)² + (b - c)² + (c - a)²]\nΔ = 4 × [[1/2]][(a - b)² + (b - c)² + (c - a)²]\nΔ = 2[(a - b)² + (b - c)² + (c - a)²] ≥ 0\nΔ ≥ 0, the roots are real\nThe roots are equal only when Δ = 0\nwhen (a - b)² + (b - c)² + (c - a)² = 0\na - b = 0, b - c = 0\nc - a = 0\na = b = c",
                 "q": "Show that the roots of the quadratic equation given by (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) = 0 are real and they can not be equal unless a = b = c."
               }
             ],
@@ -7968,11 +7968,11 @@ var STUDY = {
                 "q": "Find all the cube roots of:\n(i) 64\n(ii) -125\n(iii) 216\n(iv) -b³"
               },
               {
-                "a": "(i) (1 + ω²)⁴\n1 + ω² = -ω\n(1 + ω²)⁴ = (-ω)⁴ = ω⁴ = ω³ × ω = 1 × ω = ω\n(ii) (1 - ω + ω²)(1 + ω - ω²)\n1 - ω + ω² = (1 + ω²) - ω = -ω - ω = -2ω\n1 + ω - ω² = (1 + ω) - ω² = -ω² - ω² = -2ω²\nProduct = (-2ω)(-2ω²) = 4ω³ = 4 × 1 = 4\n(iii) (2 + 5ω + 2ω²)⁶\n2 + 5ω + 2ω² = 2(1 + ω²) + 5ω = 2(-ω) + 5ω = 3ω\n(2 + 5ω + 2ω²)⁶ = (3ω)⁶ = 729ω⁶ = 729(ω³)² = 729 × 1 = 729\n(iv) (-1 + √-3)⁴ + (-1 - √-3)⁴\n√-3 = i√3\n-1 + i√3 = 2ω, -1 - i√3 = 2ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = (2ω)⁴ + (2ω²)⁴ = 16ω⁴ + 16ω⁸\nω⁴ = ω\nω⁸ = ω⁶ × ω² = ω²\n= 16ω + 16ω² = 16(ω + ω²) = 16(-1) = -16",
+                "a": "(i) (1 + ω²)⁴\n1 + ω² = -ω\n(1 + ω²)⁴ = (-ω)⁴\n(1 + ω²)⁴ = ω⁴\n(1 + ω²)⁴ = ω³ × ω\n(1 + ω²)⁴ = 1 × ω\n(1 + ω²)⁴ = ω\n(ii) (1 - ω + ω²)(1 + ω - ω²)\n1 - ω + ω² = (1 + ω²) - ω\n1 - ω + ω² = -ω - ω\n1 - ω + ω² = -2ω\n1 + ω - ω² = (1 + ω) - ω²\n1 + ω - ω² = -ω² - ω²\n1 + ω - ω² = -2ω²\nProduct = (-2ω)(-2ω²)\nProduct = 4ω³\nProduct = 4 × 1\nProduct = 4\n(iii) (2 + 5ω + 2ω²)⁶\n2 + 5ω + 2ω² = 2(1 + ω²) + 5ω\n2 + 5ω + 2ω² = 2(-ω) + 5ω\n2 + 5ω + 2ω² = 3ω\n(2 + 5ω + 2ω²)⁶ = (3ω)⁶\n(2 + 5ω + 2ω²)⁶ = 729ω⁶\n(2 + 5ω + 2ω²)⁶ = 729(ω³)²\n(2 + 5ω + 2ω²)⁶ = 729 × 1\n(2 + 5ω + 2ω²)⁶ = 729\n(iv) (-1 + √-3)⁴ + (-1 - √-3)⁴\n√-3 = i√3\n-1 + i√3 = 2ω, -1 - i√3 = 2ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = (2ω)⁴ + (2ω²)⁴\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16ω⁴ + 16ω⁸\nω⁴ = ω\nω⁸ = ω⁶ × ω²\nω⁸ = ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16ω + 16ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16(ω + ω²)\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16(-1)\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = -16",
                 "q": "Evaluate the following:\n(i) (1 + ω²)⁴\n(ii) (1 - ω + ω²)(1 + ω - ω²)\n(iii) (2 + 5ω + 2ω²)⁶\n(iv) (-1 + √-3)⁴ + (-1 - √-3)⁴"
               },
               {
-                "a": "Use ω³ = 1, ω⁴ = ω, ω⁸ = ω², 1 + ω + ω² = 0, 1 + ω = -ω²\n1 + ω² = -ω\n(i) L.H.S. = (1 + ω)(1 + ω²)(1 + ω⁴)(1 + ω⁸)\n1 + ω⁴ = 1 + ω = -ω²\n1 + ω⁸ = 1 + ω² = -ω\nL.H.S. = (-ω²)(-ω)(-ω²)(-ω) = ω⁶ = (ω³)² = 1\nR.H.S. = (ω + ω²)⁴ = (-1)⁴ = 1\nL.H.S. = R.H.S\n(ii) L.H.S. = (a + b)(aω + bω²)(aω² + bω)\n(aω + bω²)(aω² + bω) = a²ω³ + abω² + abω⁴ + b²ω³ = a² + ab(ω² + ω) + b²\nω² + ω = -1\nL.H.S. = (a + b)(a² - ab + b²) = a³ + b³ = R.H.S\n(iii) L.H.S. = (a + ωb + ω²c)(a + ω²b + ωc)\n= a² + aω²b + aωc + ωab + ω³b² + ω²bc + ω²ac + ω⁴bc + ω³c²\n= a² + b² + c² + ab(ω + ω²) + bc(ω² + ω⁴) + ca(ω + ω²)\nω + ω² = -1\nω² + ω⁴ = ω² + ω = -1\n= a² + b² + c² - ab - bc - ca = R.H.S\n(iv) [[(-1 + i√3)/2]] = ω\n[[(-1 - i√3)/2]] = ω²\nL.H.S. = ω⁹ + (ω²)⁹ - 2 = (ω³)³ + (ω³)⁶ - 2 = 1 + 1 - 2 = 0\n(v) 1 + ω - ω² = -ω² - ω² = -2ω²\n1 - ω + ω² = -ω - ω = -2ω\nL.H.S. = (-2ω²)³ - (-2ω)³ = -8ω⁶ - (-8ω³) = -8(1) + 8(1) = 0",
+                "a": "Use ω³ = 1, ω⁴ = ω, ω⁸ = ω², 1 + ω + ω² = 0, 1 + ω = -ω²\n1 + ω² = -ω\n(i) L.H.S. = (1 + ω)(1 + ω²)(1 + ω⁴)(1 + ω⁸)\n1 + ω⁴ = 1 + ω\n1 + ω⁴ = -ω²\n1 + ω⁸ = 1 + ω²\n1 + ω⁸ = -ω\nL.H.S. = (-ω²)(-ω)(-ω²)(-ω)\nL.H.S. = ω⁶\nL.H.S. = (ω³)²\nL.H.S. = 1\nR.H.S. = (ω + ω²)⁴\nR.H.S. = (-1)⁴\nR.H.S. = 1\nL.H.S. = R.H.S\n(ii) L.H.S. = (a + b)(aω + bω²)(aω² + bω)\n(aω + bω²)(aω² + bω) = a²ω³ + abω² + abω⁴ + b²ω³\n(aω + bω²)(aω² + bω) = a² + ab(ω² + ω) + b²\nω² + ω = -1\nL.H.S. = (a + b)(a² - ab + b²)\nL.H.S. = a³ + b³\nL.H.S. = R.H.S\n(iii) L.H.S. = (a + ωb + ω²c)(a + ω²b + ωc)\n= a² + aω²b + aωc + ωab + ω³b² + ω²bc + ω²ac + ω⁴bc + ω³c²\n= a² + b² + c² + ab(ω + ω²) + bc(ω² + ω⁴) + ca(ω + ω²)\nω + ω² = -1\nω² + ω⁴ = ω² + ω\nω² + ω⁴ = -1\nL.H.S. = a² + b² + c² - ab - bc - ca\nL.H.S. = R.H.S\n(iv) [[(-1 + i√3)/2]] = ω\n[[(-1 - i√3)/2]] = ω²\nL.H.S. = ω⁹ + (ω²)⁹ - 2\nL.H.S. = (ω³)³ + (ω³)⁶ - 2\nL.H.S. = 1 + 1 - 2\nL.H.S. = 0\n(v) 1 + ω - ω² = -ω² - ω²\n1 + ω - ω² = -2ω²\n1 - ω + ω² = -ω - ω\n1 - ω + ω² = -2ω\nL.H.S. = (-2ω²)³ - (-2ω)³\nL.H.S. = -8ω⁶ - (-8ω³)\nL.H.S. = -8(1) + 8(1)\nL.H.S. = 0",
                 "q": "Show that:\n(i) (1 + ω)(1 + ω²)(1 + ω⁴)(1 + ω⁸) = (ω + ω²)⁴\n(ii) (a + b)(aω + bω²)(aω² + bω) = a³ + b³\n(iii) (a + ωb + ω²c)(a + ω²b + ωc) = a² + b² + c² - ab - ba - ca\n(iv) ([[(-1 + i√3)/2]])⁹ + ([[(-1 - i√3)/2]])⁹ - 2 = 0\n(v) (1 + ω - ω²)³ - (1 - ω + ω²)³ = 0"
               }
             ],
@@ -7985,11 +7985,11 @@ var STUDY = {
                 "q": "Without solving, find the sum and product of the roots in each of the following quadratic equations\n(i) x² - x - 1 = 0\n(ii) 2x² - 3x - 4 = 0\n(iii) x² - ([[3/4]])a² = ax\n(iv) 7x² - 5kx + 7k = 0"
               },
               {
-                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² + (3m - 7)x + 5m = 0: a = 1, b = 3m - 7, c = 5m\nα + β = -(3m - 7) = 7 - 3m\nαβ = 5m\nα + β = [[3/2]]αβ\n7 - 3m = ([[3/2]])(5m) = [[15m/2]]\n14 - 6m = 15m\n14 = 21m\nm = [[14/21]] = [[2/3]]\n(ii) 2x² - 3x + 4m = 0: a = 2, b = -3, c = 4m\nα + β = [[3/2]]\nαβ = [[4m/2]] = 2m\nα + β = 6αβ\n[[3/2]] = 6(2m) = 12m\nm = ([[3/2]]) ÷ 12 = [[3/24]] = [[1/8]]",
+                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² + (3m - 7)x + 5m = 0: a = 1, b = 3m - 7, c = 5m\nα + β = -(3m - 7)\nα + β = 7 - 3m\nαβ = 5m\nα + β = [[3/2]]αβ\n7 - 3m = ([[3/2]])(5m)\n7 - 3m = [[15m/2]]\n14 - 6m = 15m\n14 = 21m\nm = [[14/21]]\nm = [[2/3]]\n(ii) 2x² - 3x + 4m = 0: a = 2, b = -3, c = 4m\nα + β = [[3/2]]\nαβ = [[4m/2]]\nαβ = 2m\nα + β = 6αβ\n[[3/2]] = 6(2m)\n[[3/2]] = 12m\nm = ([[3/2]]) ÷ 12\nm = [[3/24]]\nm = [[1/8]]",
                 "q": "Find the value of m, if,\n(i) Sum of the roots of the equation x² + (3m - 7)x + 5m = 0 is [[3/2]] times the product of its roots.\n(ii) Sum of the roots of the equation 2x² - 3x + 4m = 0 is 6 times the product of its roots."
               },
               {
-                "a": "α² + β² = (α + β)² - 2αβ\nα + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² - px + 6 = 0: α + β = p\nαβ = 6\nα² + β² = (α + β)² - 2αβ = p² - 2(6) = p² - 12\nα² + β² = 13\np² - 12 = 13\np² = 25\np = ±5\n(ii) x² - 2px + (2p - 3) = 0: α + β = 2p\nαβ = 2p - 3\nα² + β² = (α + β)² - 2αβ = (2p)² - 2(2p - 3) = 4p² - 4p + 6\nα² + β² = 6\n4p² - 4p + 6 = 6\n4p² - 4p = 0\n4p(p - 1) = 0\np = 0\np = 1",
+                "a": "α² + β² = (α + β)² - 2αβ\nα + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² - px + 6 = 0: α + β = p\nαβ = 6\nα² + β² = (α + β)² - 2αβ\nα² + β² = p² - 2(6)\nα² + β² = p² - 12\nα² + β² = 13\np² - 12 = 13\np² = 25\np = ±5\n(ii) x² - 2px + (2p - 3) = 0: α + β = 2p\nαβ = 2p - 3\nα² + β² = (α + β)² - 2αβ\nα² + β² = (2p)² - 2(2p - 3)\nα² + β² = 4p² - 4p + 6\nα² + β² = 6\n4p² - 4p + 6 = 6\n4p² - 4p = 0\n4p(p - 1) = 0\np = 0\np = 1",
                 "q": "Find the value of p, if\n(i) Sum of the squares of the roots of the equation of x² - px + 6 = 0 is 13.\n(ii) Sum of the squares of the roots of the equation of x² - 2px + (2p - 3) = 0 is 6."
               },
               {
@@ -7997,11 +7997,11 @@ var STUDY = {
                 "q": "Find the value of m, if\n(i) the roots of the equation x² - 5x + 2m = 0 differ by 1.\n(ii) the roots of the equation x² - 8x + m + 2 = 0 differ by 2."
               },
               {
-                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) 5x² - 7x + k - 2 = 0: α + β = [[7/5]]\nαβ = [[(k - 2)/5]]\n2α + 5β = 1\n2α + 2β = [[14/5]]\n3β = 1 - [[14/5]] = [[-9/5]]\nβ = [[-3/5]]\nα = [[7/5]] - β = [[7/5]] + [[3/5]] = [[10/5]] = 2\nαβ = 2 × ([[-3/5]]) = [[-6/5]]\nαβ = [[(k - 2)/5]]\n[[(k - 2)/5]] = [[-6/5]]\nk - 2 = -6\nk = -4\n(ii) 3x² - 2x + 7k + 2 = 0: α + β = [[2/3]]\nαβ = [[(7k + 2)/3]]\n7α - 3β = 18\n3α + 3β = 2\n10α = 20\nα = 2\nβ = [[2/3]] - 2 = [[-4/3]]\nαβ = 2 × ([[-4/3]]) = [[-8/3]]\nαβ = [[(7k + 2)/3]]\n[[(7k + 2)/3]] = [[-8/3]]\n7k + 2 = -8\n7k = -10\nk = [[-10/7]]",
+                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) 5x² - 7x + k - 2 = 0: α + β = [[7/5]]\nαβ = [[(k - 2)/5]]\n2α + 5β = 1\n2α + 2β = [[14/5]]\n3β = 1 - [[14/5]]\n3β = [[-9/5]]\nβ = [[-3/5]]\nα = [[7/5]] - β\nα = [[7/5]] + [[3/5]]\nα = [[10/5]]\nα = 2\nαβ = 2 × ([[-3/5]])\nαβ = [[-6/5]]\nαβ = [[(k - 2)/5]]\n[[(k - 2)/5]] = [[-6/5]]\nk - 2 = -6\nk = -4\n(ii) 3x² - 2x + 7k + 2 = 0: α + β = [[2/3]]\nαβ = [[(7k + 2)/3]]\n7α - 3β = 18\n3α + 3β = 2\n10α = 20\nα = 2\nβ = [[2/3]] - 2\nβ = [[-4/3]]\nαβ = 2 × ([[-4/3]])\nαβ = [[-8/3]]\nαβ = [[(7k + 2)/3]]\n[[(7k + 2)/3]] = [[-8/3]]\n7k + 2 = -8\n7k = -10\nk = [[-10/7]]",
                 "q": "Find the value of k, if\n(i) The roots of the equation on 5x² - 7x + k - 2 = 0 satisfy the relation 2α + 5β = 1\n(ii) The roots of the equation on 3x² - 2x + 7k + 2 = 0 satisfy the relation 7α - 3β = 18."
               },
               {
-                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\nα + β = αβ\n(i) (2p + 3)x² + (7p - 5)x + (3p - 10) = 0: a = 2p + 3, b = 7p - 5, c = 3p - 10\nα + β = [[-(7p - 5)/(2p + 3)]]\nαβ = [[(3p - 10)/(2p + 3)]]\nα + β = αβ\n-(7p - 5) = 3p - 10\n-7p + 5 = 3p - 10\n15 = 10p\np = [[15/10]] = [[3/2]]\n(ii) 4x² - (5p + 3)x + 17 - 9p = 0: a = 4, b = -(5p + 3), c = 17 - 9p\nα + β = [[(5p + 3)/4]]\nαβ = [[(17 - 9p)/4]]\nα + β = αβ\n5p + 3 = 17 - 9p\n14p = 14\np = 1",
+                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\nα + β = αβ\n(i) (2p + 3)x² + (7p - 5)x + (3p - 10) = 0: a = 2p + 3, b = 7p - 5, c = 3p - 10\nα + β = [[-(7p - 5)/(2p + 3)]]\nαβ = [[(3p - 10)/(2p + 3)]]\nα + β = αβ\n-(7p - 5) = 3p - 10\n-7p + 5 = 3p - 10\n15 = 10p\np = [[15/10]]\np = [[3/2]]\n(ii) 4x² - (5p + 3)x + 17 - 9p = 0: a = 4, b = -(5p + 3), c = 17 - 9p\nα + β = [[(5p + 3)/4]]\nαβ = [[(17 - 9p)/4]]\nα + β = αβ\n5p + 3 = 17 - 9p\n14p = 14\np = 1",
                 "q": "Find the value of p given that sum and product of the roots of the following quadratic equation are equal.\n(i) (2p + 3)x² + (7p - 5)x + (3p - 10) = 0\n(ii) 4x² - (5p + 3)x + 17 - 9p = 0"
               }
             ],
@@ -8010,15 +8010,15 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) (α - β)² = α² - 2αβ + β² = (α + β)² - 4αβ\n(ii) α³ + β³ = (α + β)³ - 3αβ(α + β)\n(iii) α²β⁻¹ + β²α⁻¹ = [[α²/β]] + [[β²/α]] = [[(α³ + β³)/(αβ)]] = [[((α + β)³ - 3αβ(α + β))/(αβ)]]\n(iv) α³β + αβ³ = αβ(α² + β²) = αβ[(α + β)² - 2αβ]\n(v) [[1/α³]] + [[1/β³]] = [[(β³ + α³)/(αβ)³]] = [[((α + β)³ - 3αβ(α + β))/(αβ)³]]\n(vi) ([[1/α]] - [[1/β]])² = ([[(β - α)/(αβ)]])² = [[(α - β)²/(αβ)²]] = [[((α + β)² - 4αβ)/(αβ)²]]",
+                "a": "(i) (α - β)² = α² - 2αβ + β²\n(α - β)² = (α + β)² - 4αβ\n(ii) α³ + β³ = (α + β)³ - 3αβ(α + β)\n(iii) α²β⁻¹ + β²α⁻¹ = [[α²/β]] + [[β²/α]]\nα²β⁻¹ + β²α⁻¹ = [[(α³ + β³)/(αβ)]]\nα²β⁻¹ + β²α⁻¹ = [[((α + β)³ - 3αβ(α + β))/(αβ)]]\n(iv) α³β + αβ³ = αβ(α² + β²)\nα³β + αβ³ = αβ[(α + β)² - 2αβ]\n(v) [[1/α³]] + [[1/β³]] = [[(β³ + α³)/(αβ)³]]\n[[1/α³]] + [[1/β³]] = [[((α + β)³ - 3αβ(α + β))/(αβ)³]]\n(vi) ([[1/α]] - [[1/β]])² = ([[(β - α)/(αβ)]])²\n([[1/α]] - [[1/β]])² = [[(α - β)²/(αβ)²]]\n([[1/α]] - [[1/β]])² = [[((α + β)² - 4αβ)/(αβ)²]]",
                 "q": "If α, β are the roots of a quadratic equation. Express the following symmetric functions in terms of α + β and αβ.\n(i) (α - β)²\n(ii) (α + β)³\n(iii) α²β⁻¹ + β²α⁻¹\n(iv) α³β + αβ³\n(v) [[1/α³]] + [[1/β³]]\n(vi) ([[1/α]] - [[1/β]])²"
               },
               {
-                "a": "2x² - 3x + 7 = 0: a = 2, b = -3, c = 7\nα + β = [[-b/a]] = [[3/2]]\nαβ = [[c/a]] = [[7/2]]\n(i) ([[1/α]] + [[1/β]])² = ([[(α + β)/(αβ)]])² = (([[3/2]]) ÷ ([[7/2]]))² = ([[3/7]])² = [[9/49]]\n(ii) [[α/β²]] + [[β/α²]] = [[(α³ + β³)/(αβ)²]]\nα³ + β³ = (α + β)³ - 3αβ(α + β) = ([[3/2]])³ - 3([[7/2]])([[3/2]]) = [[27/8]] - [[63/4]] = [[27/8]] - [[126/8]] = [[-99/8]]\n(αβ)² = ([[7/2]])² = [[49/4]]\n[[α/β²]] + [[β/α²]] = ([[-99/8]]) ÷ ([[49/4]]) = ([[-99/8]]) × ([[4/49]]) = [[-99/98]]\n[[1/(aα + 1)]] + [[1/(aβ + 1)]] = [[(aβ + 1 + aα + 1)/((aα + 1)(aβ + 1))]]\n= [[(a(α + β) + 2)/(a²αβ + a(α + β) + 1)]]\n= [[(3a + 4)/(7a² + 3a + 2)]]\n[[(3(2) + 4)/(7(2)² + 3(2) + 2)]] = [[10/36]] = [[5/18]]",
+                "a": "2x² - 3x + 7 = 0: a = 2, b = -3, c = 7\nα + β = [[-b/a]]\nα + β = [[3/2]]\nαβ = [[c/a]]\nαβ = [[7/2]]\n(i) ([[1/α]] + [[1/β]])² = ([[(α + β)/(αβ)]])²\n([[1/α]] + [[1/β]])² = (([[3/2]]) ÷ ([[7/2]]))²\n([[1/α]] + [[1/β]])² = ([[3/7]])²\n([[1/α]] + [[1/β]])² = [[9/49]]\n(ii) [[α/β²]] + [[β/α²]] = [[(α³ + β³)/(αβ)²]]\nα³ + β³ = (α + β)³ - 3αβ(α + β)\nα³ + β³ = ([[3/2]])³ - 3([[7/2]])([[3/2]])\nα³ + β³ = [[27/8]] - [[63/4]]\nα³ + β³ = [[27/8]] - [[126/8]]\nα³ + β³ = [[-99/8]]\n(αβ)² = ([[7/2]])²\n(αβ)² = [[49/4]]\n[[α/β²]] + [[β/α²]] = ([[-99/8]]) ÷ ([[49/4]])\n[[α/β²]] + [[β/α²]] = ([[-99/8]]) × ([[4/49]])\n[[α/β²]] + [[β/α²]] = [[-99/98]]\n[[1/(aα + 1)]] + [[1/(aβ + 1)]] = [[(aβ + 1 + aα + 1)/((aα + 1)(aβ + 1))]]\n= [[(a(α + β) + 2)/(a²αβ + a(α + β) + 1)]]\n= [[(3a + 4)/(7a² + 3a + 2)]]\n[[(3(2) + 4)/(7(2)² + 3(2) + 2)]] = [[10/36]]\n[[(3(2) + 4)/(7(2)² + 3(2) + 2)]] = [[5/18]]",
                 "q": "If α, β are the roots of the equation 2x² - 3x + 7 = 0, find the value of following symmetric functions.\n(i) ([[1/α]] + [[1/β]])²\n(ii) [[α/β²]] + [[β/α²]]\n(iii) [[1/(aα + 1)]] + [[1/(aβ + 1)]]"
               },
               {
-                "a": "px² + qx + q = 0: α + β = [[-q/p]]\nαβ = [[q/p]]\nS² = [[α/β]] + [[β/α]] + 2√([[α/β]])√([[β/α]]) = [[(α² + β²)/(αβ)]] + 2\nα² + β² = (α + β)² - 2αβ\n[[(α² + β²)/(αβ)]] + 2 = [[(α + β)²/(αβ)]]\nS² = [[(α + β)²/(αβ)]] = ([[-q/p]])² ÷ ([[q/p]]) = [[q²/p²]] × ([[p/q]]) = [[q/p]]\nS = ±√([[q/p]])\nS = √([[q/p]])",
+                "a": "px² + qx + q = 0: α + β = [[-q/p]]\nαβ = [[q/p]]\nS² = [[α/β]] + [[β/α]] + 2√([[α/β]])√([[β/α]])\nS² = [[(α² + β²)/(αβ)]] + 2\nα² + β² = (α + β)² - 2αβ\n[[(α² + β²)/(αβ)]] + 2 = [[(α + β)²/(αβ)]]\nS² = [[(α + β)²/(αβ)]]\nS² = ([[-q/p]])² ÷ ([[q/p]])\nS² = [[q²/p²]] × ([[p/q]])\nS² = [[q/p]]\nS = ±√([[q/p]])\nS = √([[q/p]])",
                 "q": "If α, β are the roots of the equation px² + qx + q = 0, p ≠ 0, find the value of √([[α/β]]) + √([[β/α]])."
               },
               {
@@ -8060,27 +8060,27 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) S = -2 + (-3) = -5\nP = (-2)(-3) = 6\nx² - (-5)x + 6 = 0\nx² + 5x + 6 = 0\n(ii) S = ω + ω² = -1\nP = ω × ω² = ω³ = 1\nx² - (-1)x + 1 = 0\nx² + x + 1 = 0\n(iii) S = (2 + i) + (2 - i) = 4\nP = (2 + i)(2 - i) = 4 + 1 = 5\nx² - 4x + 5 = 0\n(iv) S = 2√2 + (-2√2) = 0\nP = (2√2)(-2√2) = -8\nx² - 0x - 8 = 0\nx² - 8 = 0",
+                "a": "(i) S = -2 + (-3)\nS = -5\nP = (-2)(-3)\nP = 6\nx² - (-5)x + 6 = 0\nx² + 5x + 6 = 0\n(ii) S = ω + ω²\nS = -1\nP = ω × ω²\nP = ω³\nP = 1\nx² - (-1)x + 1 = 0\nx² + x + 1 = 0\n(iii) S = (2 + i) + (2 - i)\nS = 4\nP = (2 + i)(2 - i)\nP = 4 + 1\nP = 5\nx² - 4x + 5 = 0\n(iv) S = 2√2 + (-2√2)\nS = 0\nP = (2√2)(-2√2)\nP = -8\nx² - 0x - 8 = 0\nx² - 8 = 0",
                 "q": "Form the equations whose roots are:\n(i) -2, -3\n(ii) ω, ω²\n(iii) 2 + i, 2 - i\n(iv) 2√2, -2√2"
               },
               {
-                "a": "6x² - 3x + 1 = 0: α + β = [[3/6]] = [[1/2]]\nαβ = [[1/6]]\nx² - Sx + P = 0\n(i) Roots 2α + 1, 2β + 1:\nS = (2α + 1) + (2β + 1) = 2(α + β) + 2 = 2([[1/2]]) + 2 = 3\nP = (2α + 1)(2β + 1) = 4αβ + 2(α + β) + 1 = 4([[1/6]]) + 2([[1/2]]) + 1 = [[2/3]] + 1 + 1 = [[8/3]]\nx² - 3x + [[8/3]] = 0\n3x² - 9x + 8 = 0\n(ii) Roots α², β²:\nS = α² + β² = (α + β)² - 2αβ = ([[1/2]])² - 2([[1/6]]) = [[1/4]] - [[1/3]] = [[-1/12]]\nP = α²β² = (αβ)² = ([[1/6]])² = [[1/36]]\nx² + ([[1/12]])x + [[1/36]] = 0\n36x² + 3x + 1 = 0\n(iii) Roots [[1/α]], [[1/β]]:\nS = [[1/α]] + [[1/β]] = [[(α + β)/(αβ)]] = ([[1/2]]) ÷ ([[1/6]]) = 3\nP = ([[1/α]])([[1/β]]) = [[1/(αβ)]] = 6\nx² - 3x + 6 = 0\n(iv) Roots [[α/β]], [[β/α]]:\nS = [[α/β]] + [[β/α]] = [[(α² + β²)/(αβ)]] = ([[-1/12]]) ÷ ([[1/6]]) = [[-1/2]]\nP = ([[α/β]])([[β/α]]) = 1\nx² + ([[1/2]])x + 1 = 0\n2x² + x + 2 = 0\n(v) Roots α + β, [[1/α]] + [[1/β]]\n[[1/2]] and 3:\nS = [[1/2]] + 3 = [[7/2]]\nP = ([[1/2]])(3) = [[3/2]]\nx² - ([[7/2]])x + [[3/2]] = 0\n2x² - 7x + 3 = 0\n(vi) Roots [[-1/α]], [[-1/β]]:\nS = -([[1/α]] + [[1/β]]) = -3\nP = ([[-1/α]])([[-1/β]]) = [[1/(αβ)]] = 6\nx² + 3x + 6 = 0",
+                "a": "6x² - 3x + 1 = 0: α + β = [[3/6]]\nα + β = [[1/2]]\nαβ = [[1/6]]\nx² - Sx + P = 0\n(i) Roots 2α + 1, 2β + 1:\nS = (2α + 1) + (2β + 1)\nS = 2(α + β) + 2\nS = 2([[1/2]]) + 2\nS = 3\nP = (2α + 1)(2β + 1)\nP = 4αβ + 2(α + β) + 1\nP = 4([[1/6]]) + 2([[1/2]]) + 1\nP = [[2/3]] + 1 + 1\nP = [[8/3]]\nx² - 3x + [[8/3]] = 0\n3x² - 9x + 8 = 0\n(ii) Roots α², β²:\nS = α² + β²\nS = (α + β)² - 2αβ\nS = ([[1/2]])² - 2([[1/6]])\nS = [[1/4]] - [[1/3]]\nS = [[-1/12]]\nP = α²β²\nP = (αβ)²\nP = ([[1/6]])²\nP = [[1/36]]\nx² + ([[1/12]])x + [[1/36]] = 0\n36x² + 3x + 1 = 0\n(iii) Roots [[1/α]], [[1/β]]:\nS = [[1/α]] + [[1/β]]\nS = [[(α + β)/(αβ)]]\nS = ([[1/2]]) ÷ ([[1/6]])\nS = 3\nP = ([[1/α]])([[1/β]])\nP = [[1/(αβ)]]\nP = 6\nx² - 3x + 6 = 0\n(iv) Roots [[α/β]], [[β/α]]:\nS = [[α/β]] + [[β/α]]\nS = [[(α² + β²)/(αβ)]]\nS = ([[-1/12]]) ÷ ([[1/6]])\nS = [[-1/2]]\nP = ([[α/β]])([[β/α]])\nP = 1\nx² + ([[1/2]])x + 1 = 0\n2x² + x + 2 = 0\n(v) Roots α + β, [[1/α]] + [[1/β]]\n[[1/2]] and 3:\nS = [[1/2]] + 3\nS = [[7/2]]\nP = ([[1/2]])(3)\nP = [[3/2]]\nx² - ([[7/2]])x + [[3/2]] = 0\n2x² - 7x + 3 = 0\n(vi) Roots [[-1/α]], [[-1/β]]:\nS = -([[1/α]] + [[1/β]])\nS = -3\nP = ([[-1/α]])([[-1/β]])\nP = [[1/(αβ)]]\nP = 6\nx² + 3x + 6 = 0",
                 "q": "If α and β are the roots of the equation 6x² - 3x + 1 = 0. Form the equations whose roots are:\n(i) 2α + 1, 2β + 1\n(ii) α², β²\n(iii) [[1/α]], [[1/β]]\n(iv) [[α/β]], [[β/α]]\n(v) α + β, [[1/α]] + [[1/β]]\n(vi) [[-1/α]], [[-1/β]]"
               },
               {
-                "a": "α + β = [[-(-q)/p]] = [[q/p]]\nαβ = [[r/p]]\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]] = [[(α + β)/(αβ)]] = ([[q/p]]) ÷ ([[r/p]]) = [[q/r]]\nP = ([[1/α]])([[1/β]]) = [[1/(αβ)]] = [[p/r]]\nx² - Sx + P = 0\nx² - ([[q/r]])x + [[p/r]] = 0\nrx² - qx + p = 0",
+                "a": "α + β = [[-(-q)/p]]\nα + β = [[q/p]]\nαβ = [[r/p]]\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]]\nS = [[(α + β)/(αβ)]]\nS = ([[q/p]]) ÷ ([[r/p]])\nS = [[q/r]]\nP = ([[1/α]])([[1/β]])\nP = [[1/(αβ)]]\nP = [[p/r]]\nx² - Sx + P = 0\nx² - ([[q/r]])x + [[p/r]] = 0\nrx² - qx + p = 0",
                 "q": "Find the equation whose roots are the reciprocals of the roots of px² - qx + r = 0, p ≠ 0."
               },
               {
-                "a": "α + β = p\nαβ = q\n2α and 2β\nS = 2α + 2β = 2(α + β) = 2p\nP = (2α)(2β) = 4αβ = 4q\nx² - Sx + P = 0\nx² - 2px + 4q = 0",
+                "a": "α + β = p\nαβ = q\n2α and 2β\nS = 2α + 2β\nS = 2(α + β)\nS = 2p\nP = (2α)(2β)\nP = 4αβ\nP = 4q\nx² - Sx + P = 0\nx² - 2px + 4q = 0",
                 "q": "Find the equation whose roots are double the roots of x² - px + q = 0."
               },
               {
-                "a": "α + β = [[-q/p]]\nαβ = [[r/p]]\nα + 2 and β + 2\nS = (α + 2) + (β + 2) = (α + β) + 4 = [[-q/p]] + 4 = [[(4p - q)/p]]\nP = (α + 2)(β + 2) = αβ + 2(α + β) + 4 = [[r/p]] + 2([[-q/p]]) + 4 = [[(r - 2q + 4p)/p]]\nx² - Sx + P = 0\nx² - ([[(4p - q)/p]])x + [[(4p - 2q + r)/p]] = 0\npx² - (4p - q)x + (4p - 2q + r) = 0",
+                "a": "α + β = [[-q/p]]\nαβ = [[r/p]]\nα + 2 and β + 2\nS = (α + 2) + (β + 2)\nS = (α + β) + 4\nS = [[-q/p]] + 4\nS = [[(4p - q)/p]]\nP = (α + 2)(β + 2)\nP = αβ + 2(α + β) + 4\nP = [[r/p]] + 2([[-q/p]]) + 4\nP = [[(r - 2q + 4p)/p]]\nx² - Sx + P = 0\nx² - ([[(4p - q)/p]])x + [[(4p - 2q + r)/p]] = 0\npx² - (4p - q)x + (4p - 2q + r) = 0",
                 "q": "Find the equation whose roots exceed by 2 the roots of px² + qx + r = 0."
               },
               {
-                "a": "(i) β = 3α\nα + β = 4α = [[-b/a]]\nα = [[-b/(4a)]]\nαβ = 3α² = [[c/a]]\n3([[-b/(4a)]])² = [[c/a]]\n[[3b²/(16a²)]] = [[c/a]]\n3b² = 16ac\n(ii) β = α²\nα + α² = [[-b/a]] ...(i)\nα × α² = α³ = [[c/a]] ...(ii)\nα² = [[-b/a]] - α\nα³ = α × α² = α([[-b/a]] - α) = -([[b/a]])α - α² = -([[b/a]])α + [[b/a]] + α = α(1 - [[b/a]]) + [[b/a]]\nα(1 - [[b/a]]) + [[b/a]] = [[c/a]]\n[[α(a - b)/a]] = [[(c - b)/a]]\nα = [[(c - b)/(a - b)]]\n[[(c - b)³/(a - b)³]] = [[c/a]]\na(c - b)³ = c(a - b)³\na(c³ - 3bc² + 3b²c - b³) = c(a³ - 3a²b + 3ab² - b³)\n(c - a)[b³ + ac(a + c) - 3abc] = 0\nb³ + ac(a + c) = 3abc\n(iii) β = -α\nα + β = 0 = [[-b/a]]\nb = 0\n(iv) β = [[1/α]]\nαβ = 1 = [[c/a]]\nc = a",
+                "a": "(i) β = 3α\nα + β = 4α\nα + β = [[-b/a]]\nα = [[-b/(4a)]]\nαβ = 3α²\nαβ = [[c/a]]\n3([[-b/(4a)]])² = [[c/a]]\n[[3b²/(16a²)]] = [[c/a]]\n3b² = 16ac\n(ii) β = α²\nα + α² = [[-b/a]] ...(i)\nα × α² = α³\nα × α² = [[c/a]] ...(ii)\nα² = [[-b/a]] - α\nα³ = α × α²\nα³ = α([[-b/a]] - α)\nα³ = -([[b/a]])α - α²\nα³ = -([[b/a]])α + [[b/a]] + α\nα³ = α(1 - [[b/a]]) + [[b/a]]\nα(1 - [[b/a]]) + [[b/a]] = [[c/a]]\n[[α(a - b)/a]] = [[(c - b)/a]]\nα = [[(c - b)/(a - b)]]\n[[(c - b)³/(a - b)³]] = [[c/a]]\na(c - b)³ = c(a - b)³\na(c³ - 3bc² + 3b²c - b³) = c(a³ - 3a²b + 3ab² - b³)\n(c - a)[b³ + ac(a + c) - 3abc] = 0\nb³ + ac(a + c) = 3abc\n(iii) β = -α\nα + β = 0\nα + β = [[-b/a]]\nb = 0\n(iv) β = [[1/α]]\nαβ = 1\nαβ = [[c/a]]\nc = a",
                 "q": "Find the condition that one root of ax² + bx + c = 0, a ≠ 0, may be:\n(i) 3 times the other\n(ii) square of the other\n(iii) additive inverse of the other\n(iv) multiplicative inverse of the other."
               }
             ],
@@ -8089,23 +8089,23 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) x = 1\n1 | 2  −1  −2  1\n    2  1  −1\n    2  1  −1 | 0\n2x² + x - 1 = (2x - 1)(x + 1) = 0\nx = [[1/2]]\nx = -1\n(ii) x = 3\n3 | 1  −4  1  6\n    3  −3  −6\n    1  −1  −2 | 0\nx² - x - 2 = (x - 2)(x + 1) = 0\nx = 2\nx = -1\n(iii) x = 2\n2 | 1  0  −28  48\n    2  4  −48\n    1  2  −24 | 0\nx² + 2x - 24 = (x + 6)(x - 4) = 0\nx = -6\nx = 4",
+                "a": "(i) x = 1\n1 | 2  −1  −2  1\n    2  1  −1\n    2  1  −1 | 0\n2x² + x - 1 = (2x - 1)(x + 1)\n2x² + x - 1 = 0\nx = [[1/2]]\nx = -1\n(ii) x = 3\n3 | 1  −4  1  6\n    3  −3  −6\n    1  −1  −2 | 0\nx² - x - 2 = (x - 2)(x + 1)\nx² - x - 2 = 0\nx = 2\nx = -1\n(iii) x = 2\n2 | 1  0  −28  48\n    2  4  −48\n    1  2  −24 | 0\nx² + 2x - 24 = (x + 6)(x - 4)\nx² + 2x - 24 = 0\nx = -6\nx = 4",
                 "q": "Find the remaining two roots of the following cubic equations, when one root is given:\n(i) 2x³ - x² - 2x + 1 = 0, and x = 1\n(ii) x³ - 4x² + x + 6 = 0, and x = 3\n(iii) x³ - 28x + 48 = 0, and x = 2"
               },
               {
-                "a": "(i) x = 1 and x = [[-1/2]]\n1 | 12  −8  −7  2  1\n    12  4  −3  −1\n    12  4  −3  −1 | 0\n−[[1/2]] | 12  4  −3  −1\n    −6  1  1\n    12  −2  −2 | 0\n12x² - 2x - 2 = 0\n6x² - x - 1 = 0\n6x² - x - 1 = (3x + 1)(2x - 1) = 0\nx = [[-1/3]]\nx = [[1/2]]\n(ii) x = 1 and x = -1\ny = x²\ny² + 4y - 5 = 0\n(y + 5)(y - 1) = 0\ny = 1\ny = -5\nx² = 1\nx² = -5\nx = ±√5 i\n(iii) x = 3 and x = -4\n3 | 1  2  −13  −14  24\n    3  15  6  −24\n    1  5  2  −8 | 0\n−4 | 1  5  2  −8\n    −4  −4  8\n    1  1  −2 | 0\nx² + x - 2 = (x + 2)(x - 1) = 0\nx = -2\nx = 1",
+                "a": "(i) x = 1 and x = [[-1/2]]\n1 | 12  −8  −7  2  1\n    12  4  −3  −1\n    12  4  −3  −1 | 0\n−[[1/2]] | 12  4  −3  −1\n    −6  1  1\n    12  −2  −2 | 0\n12x² - 2x - 2 = 0\n6x² - x - 1 = 0\n6x² - x - 1 = (3x + 1)(2x - 1)\n6x² - x - 1 = 0\nx = [[-1/3]]\nx = [[1/2]]\n(ii) x = 1 and x = -1\ny = x²\ny² + 4y - 5 = 0\n(y + 5)(y - 1) = 0\ny = 1\ny = -5\nx² = 1\nx² = -5\nx = ±√5 i\n(iii) x = 3 and x = -4\n3 | 1  2  −13  −14  24\n    3  15  6  −24\n    1  5  2  −8 | 0\n−4 | 1  5  2  −8\n    −4  −4  8\n    1  1  −2 | 0\nx² + x - 2 = (x + 2)(x - 1)\nx² + x - 2 = 0\nx = -2\nx = 1",
                 "q": "Find the remaining two roots of the following biquadratic equations, when its two roots are given:\n(i) 12x⁴ - 8x³ - 7x² + 2x + 1 = 0; and x = 1, [[-1/2]]\n(ii) x⁴ + 4x² - 5 = 0; and x = 1, -1\n(iii) x⁴ + 2x³ - 13x² - 14x + 24 = 0; and x = 3, -4"
               },
               {
-                "a": "x = 3\n2(3)³ - 3m(3)² + 9 = 0\n54 - 27m + 9 = 0\n63 - 27m = 0\n27m = 63\nm = [[63/27]] = [[7/3]]\n2x³ - 7x² + 9 = 0\n3 | 2  −7  0  9\n    6  −3  −9\n    2  −1  −3 | 0\n2x² - x - 3 = (2x - 3)(x + 1) = 0\nx = [[3/2]]\nx = -1",
+                "a": "x = 3\n2(3)³ - 3m(3)² + 9 = 0\n54 - 27m + 9 = 0\n63 - 27m = 0\n27m = 63\nm = [[63/27]]\nm = [[7/3]]\n2x³ - 7x² + 9 = 0\n3 | 2  −7  0  9\n    6  −3  −9\n    2  −1  −3 | 0\n2x² - x - 3 = (2x - 3)(x + 1)\n2x² - x - 3 = 0\nx = [[3/2]]\nx = -1",
                 "q": "Find the value of m and remaining two roots of the equation 2x³ - 3mx² + 9 = 0, if its one root is 3."
               },
               {
-                "a": "x = 1\n(1)³ - 3a(1)² - 1 + 6 = 0\n1 - 3a - 1 + 6 = 0\n6 - 3a = 0\na = 2\nx³ - 6x² - x + 6 = 0\n1 | 1  −6  −1  6\n    1  −5  −6\n    1  −5  −6 | 0\nx² - 5x - 6 = (x - 6)(x + 1) = 0\nx = 6\nx = -1",
+                "a": "x = 1\n(1)³ - 3a(1)² - 1 + 6 = 0\n1 - 3a - 1 + 6 = 0\n6 - 3a = 0\na = 2\nx³ - 6x² - x + 6 = 0\n1 | 1  −6  −1  6\n    1  −5  −6\n    1  −5  −6 | 0\nx² - 5x - 6 = (x - 6)(x + 1)\nx² - 5x - 6 = 0\nx = 6\nx = -1",
                 "q": "If one root of x³ - 3ax² - x + 6 = 0 is 1, then find the value of a. Also find its remaining roots."
               },
               {
-                "a": "x⁴ + 0x³ - ax² + bx + 252 = 0\nSum = 0\n6 + (-2) + α + β = 0\nα + β = -4 ...(i)\nProduct = 252\n6 × (-2) × αβ = 252\n-12αβ = 252\nαβ = -21 ...(ii)\nt² - (α + β)t + αβ = 0\nt² + 4t - 21 = 0\nt² + 4t - 21 = (t + 7)(t - 3) = 0\nt = -7\nt = 3\nRemaining roots: -7 and 3\nSum of the products of the roots taken two at a time = coefficient of x² = -a\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -12 + 4(α + β) + αβ = -12 + 4(-4) + (-21) = -49\n-a = -49\na = 49\nSum of the products of the roots taken three at a time = -b\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -12(α + β) + 4αβ = -12(-4) + 4(-21) = 48 - 84 = -36\n-b = -36\nb = 36",
+                "a": "x⁴ + 0x³ - ax² + bx + 252 = 0\nSum = 0\n6 + (-2) + α + β = 0\nα + β = -4 ...(i)\nProduct = 252\n6 × (-2) × αβ = 252\n-12αβ = 252\nαβ = -21 ...(ii)\nt² - (α + β)t + αβ = 0\nt² + 4t - 21 = 0\nt² + 4t - 21 = (t + 7)(t - 3)\nt² + 4t - 21 = 0\nt = -7\nt = 3\nRemaining roots: -7 and 3\nSum of the products of the roots taken two at a time = coefficient of x²\nSum of the products of the roots taken two at a time = -a\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -12 + 4(α + β) + αβ\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -12 + 4(-4) + (-21)\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -49\n-a = -49\na = 49\nSum of the products of the roots taken three at a time = -b\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -12(α + β) + 4αβ\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -12(-4) + 4(-21)\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = 48 - 84\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -36\n-b = -36\nb = 36",
                 "q": "Find the value of a and b, if two roots of the equation x⁴ - ax² + bx + 252 = 0 are 6 and -2. Also find its remaining two roots."
               }
             ],
@@ -8114,19 +8114,19 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "2x - y = 3 ...(i)\nx² + y² = 2 ...(ii)\ny = 2x - 3 ...(iii)\nx² + (2x - 3)² = 2\nx² + 4x² - 12x + 9 = 2\n5x² - 12x + 7 = 0\n5x² - 5x - 7x + 7 = 0\n5x(x - 1) - 7(x - 1) = 0\n(x - 1)(5x - 7) = 0\nx = 1\nx = [[7/5]]\nx = 1, y = 2(1) - 3 = -1\nx = [[7/5]], y = 2([[7/5]]) - 3 = [[14/5]] - [[15/5]] = [[-1/5]]",
+                "a": "2x - y = 3 ...(i)\nx² + y² = 2 ...(ii)\ny = 2x - 3 ...(iii)\nx² + (2x - 3)² = 2\nx² + 4x² - 12x + 9 = 2\n5x² - 12x + 7 = 0\n5x² - 5x - 7x + 7 = 0\n5x(x - 1) - 7(x - 1) = 0\n(x - 1)(5x - 7) = 0\nx = 1\nx = [[7/5]]\nx = 1\ny = 2(1) - 3\ny = -1\nx = [[7/5]]\ny = 2([[7/5]]) - 3\ny = [[14/5]] - [[15/5]]\ny = [[-1/5]]",
                 "q": "Solve the following systems of equations:\n1. 2x - y = 3 and x² + y² = 2"
               },
               {
-                "a": "2x + y = 4 ...(i)\nx² - 2x + y² = 0 ...(ii)\ny = 4 - 2x ...(iii)\nx² - 2x + (4 - 2x)² = 0\nx² - 2x + 16 - 16x + 4x² = 0\n5x² - 18x + 16 = 0\n5x² - 10x - 8x + 16 = 0\n5x(x - 2) - 8(x - 2) = 0\n(x - 2)(5x - 8) = 0\nx = 2\nx = [[8/5]]\nx = 2, y = 4 - 2(2) = 0\nx = [[8/5]], y = 4 - 2([[8/5]]) = [[20/5]] - [[16/5]] = [[4/5]]",
+                "a": "2x + y = 4 ...(i)\nx² - 2x + y² = 0 ...(ii)\ny = 4 - 2x ...(iii)\nx² - 2x + (4 - 2x)² = 0\nx² - 2x + 16 - 16x + 4x² = 0\n5x² - 18x + 16 = 0\n5x² - 10x - 8x + 16 = 0\n5x(x - 2) - 8(x - 2) = 0\n(x - 2)(5x - 8) = 0\nx = 2\nx = [[8/5]]\nx = 2\ny = 4 - 2(2)\ny = 0\nx = [[8/5]]\ny = 4 - 2([[8/5]])\ny = [[20/5]] - [[16/5]]\ny = [[4/5]]",
                 "q": "Solve the following systems of equations:\n2. 2x + y = 4 and x² - 2x + y² = 0"
               },
               {
-                "a": "[[4/x]] + [[3/y]] = 2 ...(i)\n4x + 3y = 25 ...(ii)\n3y = 25 - 4x\ny = [[(25 - 4x)/3]] ...(iii)\n[[4/x]] + [[9/(25 - 4x)]] = 2\n4(25 - 4x) + 9x = 2x(25 - 4x)\n100 - 16x + 9x = 50x - 8x²\n100 - 7x = 50x - 8x²\n8x² - 57x + 100 = 0\n8x² - 32x - 25x + 100 = 0\n8x(x - 4) - 25(x - 4) = 0\n(x - 4)(8x - 25) = 0\nx = 4\nx = [[25/8]]\nx = 4, y = [[(25 - 16)/3]] = 3\nx = [[25/8]], y = (25 - 4([[25/8]])) ÷ 3 = (25 - [[25/2]]) ÷ 3 = ([[25/2]]) ÷ 3 = [[25/6]]",
+                "a": "[[4/x]] + [[3/y]] = 2 ...(i)\n4x + 3y = 25 ...(ii)\n3y = 25 - 4x\ny = [[(25 - 4x)/3]] ...(iii)\n[[4/x]] + [[9/(25 - 4x)]] = 2\n4(25 - 4x) + 9x = 2x(25 - 4x)\n100 - 16x + 9x = 50x - 8x²\n100 - 7x = 50x - 8x²\n8x² - 57x + 100 = 0\n8x² - 32x - 25x + 100 = 0\n8x(x - 4) - 25(x - 4) = 0\n(x - 4)(8x - 25) = 0\nx = 4\nx = [[25/8]]\nx = 4\ny = [[(25 - 16)/3]]\ny = 3\nx = [[25/8]]\ny = (25 - 4([[25/8]])) ÷ 3\ny = (25 - [[25/2]]) ÷ 3\ny = ([[25/2]]) ÷ 3\ny = [[25/6]]",
                 "q": "Solve the following systems of equations:\n3. [[4/x]] + [[3/y]] = 2 and 4x + 3y = 25"
               },
               {
-                "a": "(x - 1)² + (y + 3)² = 25 ...(i)\nx² + (y + 1)² = 10 ...(ii)\nx² + y² - 2x + 6y = 15 ...(iii)\nx² + y² + 2y = 9 ...(iv)\n-2x + 4y = 6\nx = 2y - 3 ...(v)\n(2y - 3)² + (y + 1)² = 10\n4y² - 12y + 9 + y² + 2y + 1 = 10\n5y² - 10y = 0\n5y(y - 2) = 0\ny = 0\ny = 2\ny = 0, x = 2(0) - 3 = -3\ny = 2, x = 2(2) - 3 = 1",
+                "a": "(x - 1)² + (y + 3)² = 25 ...(i)\nx² + (y + 1)² = 10 ...(ii)\nx² + y² - 2x + 6y = 15 ...(iii)\nx² + y² + 2y = 9 ...(iv)\n-2x + 4y = 6\nx = 2y - 3 ...(v)\n(2y - 3)² + (y + 1)² = 10\n4y² - 12y + 9 + y² + 2y + 1 = 10\n5y² - 10y = 0\n5y(y - 2) = 0\ny = 0\ny = 2\ny = 0\nx = 2(0) - 3\nx = -3\ny = 2\nx = 2(2) - 3\nx = 1",
                 "q": "Solve the following systems of equations:\n4. (x - 1)² + (y + 3)² = 25 and x² + (y + 1)² = 10"
               },
               {
@@ -8134,19 +8134,19 @@ var STUDY = {
                 "q": "Solve the following systems of equations:\n5. x² + y² = 25 and (4x - 3y)(x - y - 5) = 0"
               },
               {
-                "a": "x² + y² = 16 ...(i)\n2x² - 3xy + y² = 0 ...(ii)\n2x² - 3xy + y² = (2x - y)(x - y) = 0\n2x - y = 0\nx - y = 0\ny = 2x\nx² + 4x² = 16\n5x² = 16\nx = ±[[4/√5]]\nx = [[4/√5]], y = [[8/√5]]\nx = [[-4/√5]], y = [[-8/√5]]\ny = x\nx² + x² = 16\n2x² = 16\nx = ±2√2\nx = 2√2, y = 2√2\nx = -2√2, y = -2√2",
+                "a": "x² + y² = 16 ...(i)\n2x² - 3xy + y² = 0 ...(ii)\n2x² - 3xy + y² = (2x - y)(x - y)\n2x² - 3xy + y² = 0\n2x - y = 0\nx - y = 0\ny = 2x\nx² + 4x² = 16\n5x² = 16\nx = ±[[4/√5]]\nx = [[4/√5]], y = [[8/√5]]\nx = [[-4/√5]], y = [[-8/√5]]\ny = x\nx² + x² = 16\n2x² = 16\nx = ±2√2\nx = 2√2, y = 2√2\nx = -2√2, y = -2√2",
                 "q": "Solve the following systems of equations:\n6. x² + y² = 16 and 2x² - 3xy + y² = 0"
               },
               {
-                "a": "x² + y² = 5 ...(i)\nxy = 2 ...(ii)\n(x + y)² = x² + y² + 2xy = 5 + 4 = 9\nx + y = ±3\n(x - y)² = x² + y² - 2xy = 5 - 4 = 1\nx - y = ±1\nCase x + y = 3, x - y = 1\n2x = 4, x = 2, y = 1\nCase x + y = 3, x - y = -1\n2x = 2, x = 1, y = 2\nCase x + y = -3, x - y = 1\n2x = -2, x = -1, y = -2\nCase x + y = -3, x - y = -1\n2x = -4, x = -2, y = -1",
+                "a": "x² + y² = 5 ...(i)\nxy = 2 ...(ii)\n(x + y)² = x² + y² + 2xy\n(x + y)² = 5 + 4\n(x + y)² = 9\nx + y = ±3\n(x - y)² = x² + y² - 2xy\n(x - y)² = 5 - 4\n(x - y)² = 1\nx - y = ±1\nCase x + y = 3, x - y = 1\n2x = 4\nx = 2\ny = 1\nCase x + y = 3, x - y = -1\n2x = 2\nx = 1\ny = 2\nCase x + y = -3, x - y = 1\n2x = -2\nx = -1\ny = -2\nCase x + y = -3, x - y = -1\n2x = -4\nx = -2\ny = -1",
                 "q": "Solve the following systems of equations:\n7. x² + y² = 5 and xy = 2"
               },
               {
-                "a": "x² + xy = 5 ...(i)\nx² - 2xy = 2 ...(ii)\n3xy = 3\nxy = 1\nx² = 5 - xy = 5 - 1 = 4\nx = ±2\nx = 2, y = [[1/x]] = [[1/2]]\nx = -2, y = [[1/x]] = [[-1/2]]",
+                "a": "x² + xy = 5 ...(i)\nx² - 2xy = 2 ...(ii)\n3xy = 3\nxy = 1\nx² = 5 - xy\nx² = 5 - 1\nx² = 4\nx = ±2\nx = 2\ny = [[1/x]]\ny = [[1/2]]\nx = -2\ny = [[1/x]]\ny = [[-1/2]]",
                 "q": "Solve the following systems of equations:\n8. x² + xy = 5 and x² - 2xy = 2"
               },
               {
-                "a": "x + [[4/y]] = 1 ...(i)\ny + [[4/x]] = 25 ...(ii)\nx = 1 - [[4/y]] = [[(y - 4)/y]] ...(iii)\ny + [[4y/(y - 4)]] = 25\ny(y - 4) + 4y = 25(y - 4)\ny² - 4y + 4y = 25y - 100\ny² - 25y + 100 = 0\n(y - 5)(y - 20) = 0\ny = 5\ny = 20\ny = 5, x = [[(5 - 4)/5]] = [[1/5]]\ny = 20, x = [[(20 - 4)/20]] = [[16/20]] = [[4/5]]",
+                "a": "x + [[4/y]] = 1 ...(i)\ny + [[4/x]] = 25 ...(ii)\nx = 1 - [[4/y]]\nx = [[(y - 4)/y]] ...(iii)\ny + [[4y/(y - 4)]] = 25\ny(y - 4) + 4y = 25(y - 4)\ny² - 4y + 4y = 25y - 100\ny² - 25y + 100 = 0\n(y - 5)(y - 20) = 0\ny = 5\ny = 20\ny = 5\nx = [[(5 - 4)/5]]\nx = [[1/5]]\ny = 20\nx = [[(20 - 4)/20]]\nx = [[16/20]]\nx = [[4/5]]",
                 "q": "Solve the following systems of equations:\n9. x + [[4/y]] = 1 and y + [[4/x]] = 25"
               },
               {
@@ -8154,15 +8154,15 @@ var STUDY = {
                 "q": "Divide 12 into two parts such that the sum of their squares is greater than twice their product by 4."
               },
               {
-                "a": "Length = (x + 5) m\nx(x + 5) = 36\nx² + 5x - 36 = 0\n(x + 9)(x - 4) = 0\nx = -9\nx = 4\nLength = x + 5 = 9 m",
+                "a": "Length = (x + 5) m\nx(x + 5) = 36\nx² + 5x - 36 = 0\n(x + 9)(x - 4) = 0\nx = -9\nx = 4\nLength = x + 5\nLength = 9 m",
                 "q": "The length of a prayer hall is 5 meters more than its width. If the area of the hall is 36m², find the length and width of hall."
               },
               {
-                "a": "Other number = x + 2\nx² + (x + 2)² = 100\nx² + x² + 4x + 4 = 100\n2x² + 4x - 96 = 0\nx² + 2x - 48 = 0\n(x + 8)(x - 6) = 0\nx = -8\nx = 6\nOther number = 6 + 2 = 8",
+                "a": "Other number = x + 2\nx² + (x + 2)² = 100\nx² + x² + 4x + 4 = 100\n2x² + 4x - 96 = 0\nx² + 2x - 48 = 0\n(x + 8)(x - 6) = 0\nx = -8\nx = 6\nOther number = 6 + 2\nOther number = 8",
                 "q": "The sum of the squares of two positive numbers is 100. One number is 2 more than the other find the numbers."
               },
               {
-                "a": "Base = (x + 3) cm\nHypotenuse = 15 cm\nx² + (x + 3)² = 15²\nx² + x² + 6x + 9 = 225\n2x² + 6x - 216 = 0\nx² + 3x - 108 = 0\n(x + 12)(x - 9) = 0\nx = -12\nx = 9\nBase = x + 3 = 12 cm",
+                "a": "Base = (x + 3) cm\nHypotenuse = 15 cm\nx² + (x + 3)² = 15²\nx² + x² + 6x + 9 = 225\n2x² + 6x - 216 = 0\nx² + 3x - 108 = 0\n(x + 12)(x - 9) = 0\nx = -12\nx = 9\nBase = x + 3\nBase = 12 cm",
                 "q": "The length of the base of the right triangle exceeds the length of the perpendicular by 3cm. When hypotenuse of the triangle is 15cm. Find the length of base and perpendicular.",
                 "da": {
                   "type": "triangle",
@@ -8194,7 +8194,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "2x + y = 36\ny = 36 - 2x ...(i)\nx² = 12² + ([[y/2]])²\nx² - [[y²/4]] = 144\n4x² - y² = 576 ...(ii)\n4x² - (36 - 2x)² = 576\n4x² - (1296 - 144x + 4x²) = 576\n144x - 1296 = 576\n144x = 1872\nx = 13\ny = 36 - 2(13) = 10",
+                "a": "2x + y = 36\ny = 36 - 2x ...(i)\nx² = 12² + ([[y/2]])²\nx² - [[y²/4]] = 144\n4x² - y² = 576 ...(ii)\n4x² - (36 - 2x)² = 576\n4x² - (1296 - 144x + 4x²) = 576\n144x - 1296 = 576\n144x = 1872\nx = 13\ny = 36 - 2(13)\ny = 10",
                 "q": "The perimeter of an isosceles triangle is 36cm. The altitude to unequal side of the triangle is 12cm. Find the length of the three sides of the triangle.",
                 "da": {
                   "type": "draw",
@@ -8298,7 +8298,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "x - y = 5 ...(i)\nx² - y² = 275 ...(ii)\nx² - y² = (x - y)(x + y) = 5(x + y)\n5(x + y) = 275\nx + y = 55 ...(iii)\n2x = 60\nx = 30\ny = 55 - 30 = 25",
+                "a": "x - y = 5 ...(i)\nx² - y² = 275 ...(ii)\nx² - y² = (x - y)(x + y)\nx² - y² = 5(x + y)\n5(x + y) = 275\nx + y = 55 ...(iii)\n2x = 60\nx = 30\ny = 55 - 30\ny = 25",
                 "q": "The difference of two numbers is 5, and difference of their squares is 275. Find the numbers."
               }
             ],
@@ -8311,11 +8311,11 @@ var STUDY = {
                 "q": "Multiple Choice Question MCQs. Encircle the correct answer.\n(i) If p, q are the roots of 2x² + 5x + 3 = 0, then p + q = ____\n(a) [[5/3]] (b) [[3/5]] (c) [[5/2]] (d) [[-5/2]]\n(ii) If [[1/α]], [[1/β]] are the roots of the ax² + bx + c = 0, a ≠ 0, then α + β = ____\n(a) [[-b/a]] (b) [[b/c]] (c) [[-b/c]] (d) [[-c/b]]\n(iii) If the sum of the roots of (p + 1)x² + (2p + 3)x + (3p + 4) = 0 is -1, then product of the root is\n(a) 0 (b) 1 (c) 2 (d) 3\n(iv) The nature of the roots of ax² + bx + c = 0, a ≠ 0 is determined by\n(a) sum of the roots (b) product of the roots (c) discriminant (d) none of these\n(v) If sum of the roots of a quadratic equation is [[b/a]] and the product of the roots is [[c/a]], then equation is\n(a) ax² + bx + c = 0 (b) ax² + bx - c = 0 (c) ax² - bx + c = 0 (d) ax² - bx - c = 0\n(vi) The required equation whose roots are the reciprocal of the roots of ax² + bx + c = 0 is\n(a) ax² + bx + c = 0 (b) cx² + bx + a = 0 (c) cx² + ax + b = 0 (d) cx² - bx - a = 0\n(vii) If α, β are the roots of x² - 2x - 15 = 0, then the value of α² + β² = ____\n(a) 34 (b) -34 (c) 26 (d) -26\n(viii) If Δ = b² - 4ac of a quadratic equation with rational coefficients is perfect square, then roots are\n(a) real and equal (b) real, rational and unequal (c) real, irrational and unequal (d) imaginary or complex and unequal\n(ix) If one root of quadratic equation with rational coefficients is 2 + √3, then other root will be\n(a) 2 (b) -2 + √3 (c) 2 - √3 (d) -2 - √3\n(x) The quadratic equation whose roots are complex cube roots of unity is\n(a) x² - x - 1 = 0 (b) x² - x + 1 = 0 (c) x² + x + 1 = 0 (d) x² + x - 1 = 0"
               },
               {
-                "a": "(i) x² - 7x + 12 = 0: a = 1, b = -7, c = 12\nΔ = (-7)² - 4(1)(12) = 49 - 48 = 1 = (1)² > 0\nReal, rational, unequal\n(ii) x² - 14x + 49 = 0: a = 1, b = -14, c = 49\nΔ = (-14)² - 4(1)(49) = 196 - 196 = 0\nReal, rational, equal\nx = 7\n(iii) x² - x + 7 = 0: a = 1, b = -1, c = 7\nΔ = (-1)² - 4(1)(7) = 1 - 28 = -27 < 0\nComplex, unequal, conjugate\n(iv) x² - 5 = 0: a = 1, b = 0, c = -5\nΔ = (0)² - 4(1)(-5) = 20 > 0\nReal, irrational, unequal",
+                "a": "(i) x² - 7x + 12 = 0: a = 1, b = -7, c = 12\nΔ = (-7)² - 4(1)(12)\nΔ = 49 - 48\nΔ = 1\nΔ = (1)² > 0\nReal, rational, unequal\n(ii) x² - 14x + 49 = 0: a = 1, b = -14, c = 49\nΔ = (-14)² - 4(1)(49)\nΔ = 196 - 196\nΔ = 0\nReal, rational, equal\nx = 7\n(iii) x² - x + 7 = 0: a = 1, b = -1, c = 7\nΔ = (-1)² - 4(1)(7)\nΔ = 1 - 28\nΔ = -27 < 0\nComplex, unequal, conjugate\n(iv) x² - 5 = 0: a = 1, b = 0, c = -5\nΔ = (0)² - 4(1)(-5)\nΔ = 20 > 0\nReal, irrational, unequal",
                 "q": "Discuss the nature of the following quadratic equations.\n(i) x² - 7x + 12 = 0\n(ii) x² - 14x + 49 = 0\n(iii) x² - x + 7 = 0\n(iv) x² - 5 = 0"
               },
               {
-                "a": "x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 4(1)(4) = k² - 16\n(i) Δ = 0\nk² - 16 = 0\nk² = 16\nk = ±4\n(ii) Δ < 0\nk² - 16 < 0\nk² < 16 and -4 < k < 4\n(iii) Δ ≥ 0\nk² - 16 ≥ 0\nk² ≥ 16 and k > 4 or k < -4 (k ≥ 4 or k ≤ -4)\n(iv) Δ = k² - 16\nk² - 16 = perfect square\nk = ±4, ±5",
+                "a": "x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 4(1)(4)\nΔ = k² - 16\n(i) Δ = 0\nk² - 16 = 0\nk² = 16\nk = ±4\n(ii) Δ < 0\nk² - 16 < 0\nk² < 16 and -4 < k < 4\n(iii) Δ ≥ 0\nk² - 16 ≥ 0\nk² ≥ 16 and k > 4 or k < -4 (k ≥ 4 or k ≤ -4)\n(iv) Δ = k² - 16\nk² - 16 = perfect square\nk = ±4, ±5",
                 "q": "For what value of k, the equation x² + kx + 4 = 0\n(i) has equal roots\n(ii) has complex roots\n(iii) has real roots\n(iv) has rational roots"
               },
               {
@@ -8331,15 +8331,15 @@ var STUDY = {
                 "q": "Define symmetric function of roots of quadratic equations."
               },
               {
-                "a": "S = α + β = (1 - √3) + (1 + √3) = 2\nP = αβ = (1 - √3)(1 + √3) = 1 - 3 = -2\nx² - Sx + P = 0\nx² - 2x - 2 = 0",
+                "a": "S = α + β\nS = (1 - √3) + (1 + √3)\nS = 2\nP = αβ\nP = (1 - √3)(1 + √3)\nP = 1 - 3\nP = -2\nx² - Sx + P = 0\nx² - 2x - 2 = 0",
                 "q": "Form the quadratic equation whose roots are 1 - √3 and 1 + √3."
               },
               {
-                "a": "α + β = 10\nαβ = 16\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]] = [[(α + β)/(αβ)]] = [[10/16]] = [[5/8]]\nP = ([[1/α]])([[1/β]]) = [[1/(αβ)]] = [[1/16]]\nx² - Sx + P = 0\nx² - ([[5/8]])x + [[1/16]] = 0\n16x² - 10x + 1 = 0",
+                "a": "α + β = 10\nαβ = 16\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]]\nS = [[(α + β)/(αβ)]]\nS = [[10/16]]\nS = [[5/8]]\nP = ([[1/α]])([[1/β]])\nP = [[1/(αβ)]]\nP = [[1/16]]\nx² - Sx + P = 0\nx² - ([[5/8]])x + [[1/16]] = 0\n16x² - 10x + 1 = 0",
                 "q": "Find the equation whose roots are the reciprocals of the roots of x² - 10x + 16 = 0"
               },
               {
-                "a": "(i) x² + y² = 13\nx + y = 5\n(x + y)² = x² + y² + 2xy\n25 = 13 + 2xy\n2xy = 12\nxy = 6\nt² - (x + y)t + xy = 0\nt² - 5t + 6 = 0\n(t - 2)(t - 3) = 0\nt = 2\nt = 3\n(x, y) = (2, 3) or (3, 2)\n(ii) x² + y² = 37\n2xy = 12\nxy = 6\n(x + y)² = x² + y² + 2xy = 37 + 12 = 49\nx + y = ±7\n(x - y)² = x² + y² - 2xy = 37 - 12 = 25\nx - y = ±5\nCase x + y = 7, x - y = 5: x = 6, y = 1\nCase x + y = 7, x - y = -5: x = 1, y = 6\nCase x + y = -7, x - y = 5: x = -1, y = -6\nCase x + y = -7, x - y = -5: x = -6, y = -1",
+                "a": "(i) x² + y² = 13\nx + y = 5\n(x + y)² = x² + y² + 2xy\n25 = 13 + 2xy\n2xy = 12\nxy = 6\nt² - (x + y)t + xy = 0\nt² - 5t + 6 = 0\n(t - 2)(t - 3) = 0\nt = 2\nt = 3\n(x, y) = (2, 3) or (3, 2)\n(ii) x² + y² = 37\n2xy = 12\nxy = 6\n(x + y)² = x² + y² + 2xy\n(x + y)² = 37 + 12\n(x + y)² = 49\nx + y = ±7\n(x - y)² = x² + y² - 2xy\n(x - y)² = 37 - 12\n(x - y)² = 25\nx - y = ±5\nCase x + y = 7, x - y = 5: x = 6, y = 1\nCase x + y = 7, x - y = -5: x = 1, y = 6\nCase x + y = -7, x - y = 5: x = -1, y = -6\nCase x + y = -7, x - y = -5: x = -6, y = -1",
                 "q": "Solve the following system of equations.\n(i) x² + y² = 13 and x + y = 5\n(ii) x² + y² = 37 and 2xy = 12"
               }
             ],
@@ -8363,15 +8363,15 @@ var STUDY = {
               },
               {
                 "q": "2. Resolve into partial fractions: [[4(x - 4)/(x² - 2x - 3)]]",
-                "a": "x² - 2x - 3 = (x - 3)(x + 1)\n[[4(x - 4)/((x - 3)(x + 1))]] = [[A/(x - 3)]] + [[B/(x + 1)]]\n4x - 16 = A(x + 1) + B(x - 3)\nx = 3\n12 - 16 = -4 = A(4) + B(0)\nA = -1\nx = -1\n-4 - 16 = -20 = A(0) + B(-4)\nB = 5\n[[4(x - 4)/(x² - 2x - 3)]] = [[5/(x + 1)]] - [[1/(x - 3)]]"
+                "a": "x² - 2x - 3 = (x - 3)(x + 1)\n[[4(x - 4)/((x - 3)(x + 1))]] = [[A/(x - 3)]] + [[B/(x + 1)]]\n4x - 16 = A(x + 1) + B(x - 3)\nx = 3\n12 - 16 = -4\n12 - 16 = A(4) + B(0)\nA = -1\nx = -1\n-4 - 16 = -20\n-4 - 16 = A(0) + B(-4)\nB = 5\n[[4(x - 4)/(x² - 2x - 3)]] = [[5/(x + 1)]] - [[1/(x - 3)]]"
               },
               {
                 "q": "3. Resolve into partial fractions: [[(x² - 3x + 6)/(x(x - 2)(x - 1))]]",
-                "a": "[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[A/x]] + [[B/(x - 2)]] + [[C/(x - 1)]]\nx² - 3x + 6 = A(x - 2)(x - 1) + Bx(x - 1) + Cx(x - 2)\nx = 0\n6 = A(-2)(-1) = 2A\nA = 3\nx = 2\n4 - 6 + 6 = 4 = B(2)(1) = 2B\nB = 2\nx = 1\n1 - 3 + 6 = 4 = C(1)(-1) = -C\nC = -4\n[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[3/x]] + [[2/(x - 2)]] - [[4/(x - 1)]]"
+                "a": "[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[A/x]] + [[B/(x - 2)]] + [[C/(x - 1)]]\nx² - 3x + 6 = A(x - 2)(x - 1) + Bx(x - 1) + Cx(x - 2)\nx = 0\n6 = A(-2)(-1)\n6 = 2A\nA = 3\nx = 2\n4 - 6 + 6 = 4\n4 - 6 + 6 = B(2)(1)\n4 - 6 + 6 = 2B\nB = 2\nx = 1\n1 - 3 + 6 = 4\n1 - 3 + 6 = C(1)(-1)\n1 - 3 + 6 = -C\nC = -4\n[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[3/x]] + [[2/(x - 2)]] - [[4/(x - 1)]]"
               },
               {
                 "q": "4. Resolve into partial fractions: [[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]]",
-                "a": "[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[A/(x + 4)]] + [[B/(x + 1)]] + [[C/(2x - 1)]]\n6x² - 24x - 3 = A(x + 1)(2x - 1) + B(x + 4)(2x - 1) + C(x + 4)(x + 1)\nx = -4\n96 + 96 - 3 = 189 = A(-3)(-9) = 27A\nA = 7\nx = -1\n6 + 24 - 3 = 27 = B(3)(-3) = -9B\nB = -3\nx = [[1/2]]\n[[3/2]] - 12 - 3 = [[-27/2]] = C([[9/2]])([[3/2]]) = [[27C/4]]\nC = -2\n[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[7/(x + 4)]] - [[3/(x + 1)]] - [[2/(2x - 1)]]"
+                "a": "[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[A/(x + 4)]] + [[B/(x + 1)]] + [[C/(2x - 1)]]\n6x² - 24x - 3 = A(x + 1)(2x - 1) + B(x + 4)(2x - 1) + C(x + 4)(x + 1)\nx = -4\n96 + 96 - 3 = 189\n96 + 96 - 3 = A(-3)(-9)\n96 + 96 - 3 = 27A\nA = 7\nx = -1\n6 + 24 - 3 = 27\n6 + 24 - 3 = B(3)(-3)\n6 + 24 - 3 = -9B\nB = -3\nx = [[1/2]]\n[[3/2]] - 12 - 3 = [[-27/2]]\n[[3/2]] - 12 - 3 = C([[9/2]])([[3/2]])\n[[3/2]] - 12 - 3 = [[27C/4]]\nC = -2\n[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[7/(x + 4)]] - [[3/(x + 1)]] - [[2/(2x - 1)]]"
               },
               {
                 "q": "5. Resolve into partial fractions: [[(x² + 9x + 8)/(x² + x - 6)]]",
@@ -8404,7 +8404,7 @@ var STUDY = {
               },
               {
                 "q": "4. Resolve into partial fractions: [[(18 + 21x - x²)/((x - 5)(x + 2)²)]]",
-                "a": "[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[A/(x - 5)]] + [[B/(x + 2)]] + [[C/(x + 2)²]]\n18 + 21x - x² = A(x + 2)² + B(x - 5)(x + 2) + C(x - 5)\n18 + 21x - x² = (A + B)x² + (4A - 3B + C)x + (4A - 10B - 5C)\nx = 5\n18 + 105 - 25 = 98 = A(7)² = 49A\nA = 2\nx = -2\n18 - 42 - 4 = -28 = C(-7)\nC = 4\n-1 = A + B\nB = -1 - 2 = -3\n[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[2/(x - 5)]] - [[3/(x + 2)]] + [[4/(x + 2)²]]"
+                "a": "[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[A/(x - 5)]] + [[B/(x + 2)]] + [[C/(x + 2)²]]\n18 + 21x - x² = A(x + 2)² + B(x - 5)(x + 2) + C(x - 5)\n18 + 21x - x² = (A + B)x² + (4A - 3B + C)x + (4A - 10B - 5C)\nx = 5\n18 + 105 - 25 = 98\n18 + 105 - 25 = A(7)²\n18 + 105 - 25 = 49A\nA = 2\nx = -2\n18 - 42 - 4 = -28\n18 - 42 - 4 = C(-7)\nC = 4\n-1 = A + B\nB = -1 - 2\nB = -3\n[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[2/(x - 5)]] - [[3/(x + 2)]] + [[4/(x + 2)²]]"
               },
               {
                 "q": "5. Resolve into partial fractions: [[(x² - x + 3)/(x - 1)³]]",
@@ -8417,23 +8417,23 @@ var STUDY = {
             "items": [
               {
                 "q": "1. Resolve into partial fractions: [[(x² - x - 13)/((x² + 7)(x - 2))]]",
-                "a": "[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 7)]]\nx² - x - 13 = A(x² + 7) + (Bx + C)(x - 2)\nx = 2\n4 - 2 - 13 = -11 = A(11)\nA = -1\n(Bx + C)(x - 2) = Bx² + (C - 2B)x - 2C\n1 = A + B\nB = 2\n-13 = 7A - 2C\n-13 = -7 - 2C\nC = 3\n[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[-1/(x - 2)]] + [[(2x + 3)/(x² + 7)]]"
+                "a": "[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 7)]]\nx² - x - 13 = A(x² + 7) + (Bx + C)(x - 2)\nx = 2\n4 - 2 - 13 = -11\n4 - 2 - 13 = A(11)\nA = -1\n(Bx + C)(x - 2) = Bx² + (C - 2B)x - 2C\n1 = A + B\nB = 2\n-13 = 7A - 2C\n-13 = -7 - 2C\nC = 3\n[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[-1/(x - 2)]] + [[(2x + 3)/(x² + 7)]]"
               },
               {
                 "q": "2. Resolve into partial fractions: [[(6x - 5)/((x² + 10)(x + 1))]]",
-                "a": "[[(6x - 5)/((x² + 10)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 10)]]\n6x - 5 = A(x² + 10) + (Bx + C)(x + 1)\n6x - 5 = (A + B)x² + (B + C)x + (10A + C)\nx = -1\n-6 - 5 = -11 = A(11)\nA = -1\n0 = A + B\nB = 1\n-5 = 10A + C\n-5 = -10 + C\nC = 5\n[[(6x - 5)/((x² + 10)(x + 1))]] = [[-1/(x + 1)]] + [[(x + 5)/(x² + 10)]]"
+                "a": "[[(6x - 5)/((x² + 10)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 10)]]\n6x - 5 = A(x² + 10) + (Bx + C)(x + 1)\n6x - 5 = (A + B)x² + (B + C)x + (10A + C)\nx = -1\n-6 - 5 = -11\n-6 - 5 = A(11)\nA = -1\n0 = A + B\nB = 1\n-5 = 10A + C\n-5 = -10 + C\nC = 5\n[[(6x - 5)/((x² + 10)(x + 1))]] = [[-1/(x + 1)]] + [[(x + 5)/(x² + 10)]]"
               },
               {
                 "q": "3. Resolve into partial fractions: [[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]]",
-                "a": "[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[A/x]] + [[B/x²]] + [[(Cx + D)/(x² + 5)]]\n15 + 5x + 5x² - 4x³ = Ax(x² + 5) + B(x² + 5) + (Cx + D)x²\n15 + 5x + 5x² - 4x³ = (A + C)x³ + (B + D)x² + 5Ax + 5B\n5B = 15\nB = 3\n5A = 5\nA = 1\nB + D = 5\nD = 2\nA + C = -4\nC = -5\n[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[1/x]] + [[3/x²]] + [[(-5x + 2)/(x² + 5)]] = [[1/x]] + [[3/x²]] - [[(5x - 2)/(x² + 5)]]"
+                "a": "[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[A/x]] + [[B/x²]] + [[(Cx + D)/(x² + 5)]]\n15 + 5x + 5x² - 4x³ = Ax(x² + 5) + B(x² + 5) + (Cx + D)x²\n15 + 5x + 5x² - 4x³ = (A + C)x³ + (B + D)x² + 5Ax + 5B\n5B = 15\nB = 3\n5A = 5\nA = 1\nB + D = 5\nD = 2\nA + C = -4\nC = -5\n[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[1/x]] + [[3/x²]] + [[(-5x + 2)/(x² + 5)]]\n[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[1/x]] + [[3/x²]] - [[(5x - 2)/(x² + 5)]]"
               },
               {
                 "q": "4. Resolve into partial fractions: [[(3x² - x + 1)/((x + 1)(x² - x + 3))]]",
-                "a": "[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² - x + 3)]]\n3x² - x + 1 = A(x² - x + 3) + (Bx + C)(x + 1)\n3x² - x + 1 = (A + B)x² + (-A + B + C)x + (3A + C)\nx = -1\n3 + 1 + 1 = 5 = A(5)\nA = 1\n3 = A + B\nB = 2\n1 = 3A + C\nC = 1 - 3 = -2\n[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[1/(x + 1)]] + [[(2x - 2)/(x² - x + 3)]]"
+                "a": "[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² - x + 3)]]\n3x² - x + 1 = A(x² - x + 3) + (Bx + C)(x + 1)\n3x² - x + 1 = (A + B)x² + (-A + B + C)x + (3A + C)\nx = -1\n3 + 1 + 1 = 5\n3 + 1 + 1 = A(5)\nA = 1\n3 = A + B\nB = 2\n1 = 3A + C\nC = 1 - 3\nC = -2\n[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[1/(x + 1)]] + [[(2x - 2)/(x² - x + 3)]]"
               },
               {
                 "q": "5. Resolve into partial fractions: [[(x² - x + 2)/((x + 1)(x² + 3))]]",
-                "a": "[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 3)]]\nx² - x + 2 = A(x² + 3) + (Bx + C)(x + 1)\nx² - x + 2 = (A + B)x² + (B + C)x + (3A + C)\nx = -1\n1 + 1 + 2 = 4 = A(4)\nA = 1\n1 = A + B\nB = 0\n2 = 3A + C\nC = 2 - 3 = -1\n[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[1/(x + 1)]] - [[1/(x² + 3)]]"
+                "a": "[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 3)]]\nx² - x + 2 = A(x² + 3) + (Bx + C)(x + 1)\nx² - x + 2 = (A + B)x² + (B + C)x + (3A + C)\nx = -1\n1 + 1 + 2 = 4\n1 + 1 + 2 = A(4)\nA = 1\n1 = A + B\nB = 0\n2 = 3A + C\nC = 2 - 3\nC = -1\n[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[1/(x + 1)]] - [[1/(x² + 3)]]"
               }
             ]
           },
@@ -8442,7 +8442,7 @@ var STUDY = {
             "items": [
               {
                 "q": "1. Resolve into partial fractions: [[x²/((x² + 1)²(1 - x))]]",
-                "a": "[[x²/((x² + 1)²(1 - x))]] = [[A/(1 - x)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx² = A(x² + 1)² + (Bx + C)(x² + 1)(1 - x) + (Dx + E)(1 - x)\nx² = (A - B)x⁴ + (B - C)x³ + (2A - B + C - D)x² + (B - C + D - E)x + (A + C + E)\nx = 1\n1 = A(2)² = 4A\nA = [[1/4]]\n0 = A - B\nB = [[1/4]]\n0 = B - C\nC = [[1/4]]\n1 = 2A + C - B - D\n1 = [[1/2]] - D\nD = [[-1/2]]\n0 = B - C + D - E\n0 = [[-1/2]] - E\nE = [[-1/2]]\n[[x²/((x² + 1)²(1 - x))]] = [[1/(4(1 - x))]] + [[(x + 1)/(4(x² + 1))]] - [[(x + 1)/(2(x² + 1)²)]]"
+                "a": "[[x²/((x² + 1)²(1 - x))]] = [[A/(1 - x)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx² = A(x² + 1)² + (Bx + C)(x² + 1)(1 - x) + (Dx + E)(1 - x)\nx² = (A - B)x⁴ + (B - C)x³ + (2A - B + C - D)x² + (B - C + D - E)x + (A + C + E)\nx = 1\n1 = A(2)²\n1 = 4A\nA = [[1/4]]\n0 = A - B\nB = [[1/4]]\n0 = B - C\nC = [[1/4]]\n1 = 2A + C - B - D\n1 = [[1/2]] - D\nD = [[-1/2]]\n0 = B - C + D - E\n0 = [[-1/2]] - E\nE = [[-1/2]]\n[[x²/((x² + 1)²(1 - x))]] = [[1/(4(1 - x))]] + [[(x + 1)/(4(x² + 1))]] - [[(x + 1)/(2(x² + 1)²)]]"
               },
               {
                 "q": "2. Resolve into partial fractions: [[(x² + x + 2)/(x²(x² + 3)²)]]",
@@ -8450,15 +8450,15 @@ var STUDY = {
               },
               {
                 "q": "3. Resolve into partial fractions: [[x²/((1 + x)(1 + x²)²)]]",
-                "a": "[[x²/((1 + x)(1 + x²)²)]] = [[A/(1 + x)]] + [[(Bx + C)/(1 + x²)]] + [[(Dx + E)/(1 + x²)²]]\nx² = A(1 + x²)² + (Bx + C)(1 + x²)(1 + x) + (Dx + E)(1 + x)\nx² = (A + B)x⁴ + (B + C)x³ + (2A + B + C + D)x² + (B + C + D + E)x + (A + C + E)\nx = -1\n1 = A(2)² = 4A\nA = [[1/4]]\n0 = A + B\nB = [[-1/4]]\n0 = B + C\nC = [[1/4]]\n1 = 2A + B + C + D\n1 = [[1/2]] + D\nD = [[1/2]]\n0 = B + C + D + E\n0 = [[1/2]] + E\nE = [[-1/2]]\n[[x²/((1 + x)(1 + x²)²)]] = [[1/(4(1 + x))]] + [[(1 - x)/(4(1 + x²))]] + [[(x - 1)/(2(1 + x²)²)]]"
+                "a": "[[x²/((1 + x)(1 + x²)²)]] = [[A/(1 + x)]] + [[(Bx + C)/(1 + x²)]] + [[(Dx + E)/(1 + x²)²]]\nx² = A(1 + x²)² + (Bx + C)(1 + x²)(1 + x) + (Dx + E)(1 + x)\nx² = (A + B)x⁴ + (B + C)x³ + (2A + B + C + D)x² + (B + C + D + E)x + (A + C + E)\nx = -1\n1 = A(2)²\n1 = 4A\nA = [[1/4]]\n0 = A + B\nB = [[-1/4]]\n0 = B + C\nC = [[1/4]]\n1 = 2A + B + C + D\n1 = [[1/2]] + D\nD = [[1/2]]\n0 = B + C + D + E\n0 = [[1/2]] + E\nE = [[-1/2]]\n[[x²/((1 + x)(1 + x²)²)]] = [[1/(4(1 + x))]] + [[(1 - x)/(4(1 + x²))]] + [[(x - 1)/(2(1 + x²)²)]]"
               },
               {
                 "q": "4. Resolve into partial fractions: [[7/((x + 1)(2 + x²)²)]]",
-                "a": "[[7/((x + 1)(2 + x²)²)]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 2)]] + [[(Dx + E)/(x² + 2)²]]\n7 = A(x² + 2)² + (Bx + C)(x² + 2)(x + 1) + (Dx + E)(x + 1)\n7 = (A + B)x⁴ + (B + C)x³ + (4A + 2B + C + D)x² + (2B + 2C + D + E)x + (4A + 2C + E)\nx = -1\n7 = A(3)² = 9A\nA = [[7/9]]\n0 = A + B\nB = [[-7/9]]\n0 = B + C\nC = [[7/9]]\n0 = 4A + C + 2B + D\n0 = [[28/9]] + [[7/9]] - [[14/9]] + D\nD = [[-7/3]]\n0 = 2(B + C) + D + E\n0 = [[-7/3]] + E\nE = [[7/3]]\n[[7/((x + 1)(2 + x²)²)]] = [[7/(9(x + 1))]] + [[7(1 - x)/(9(x² + 2))]] + [[7(1 - x)/(3(x² + 2)²)]]"
+                "a": "[[7/((x + 1)(2 + x²)²)]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 2)]] + [[(Dx + E)/(x² + 2)²]]\n7 = A(x² + 2)² + (Bx + C)(x² + 2)(x + 1) + (Dx + E)(x + 1)\n7 = (A + B)x⁴ + (B + C)x³ + (4A + 2B + C + D)x² + (2B + 2C + D + E)x + (4A + 2C + E)\nx = -1\n7 = A(3)²\n7 = 9A\nA = [[7/9]]\n0 = A + B\nB = [[-7/9]]\n0 = B + C\nC = [[7/9]]\n0 = 4A + C + 2B + D\n0 = [[28/9]] + [[7/9]] - [[14/9]] + D\nD = [[-7/3]]\n0 = 2(B + C) + D + E\n0 = [[-7/3]] + E\nE = [[7/3]]\n[[7/((x + 1)(2 + x²)²)]] = [[7/(9(x + 1))]] + [[7(1 - x)/(9(x² + 2))]] + [[7(1 - x)/(3(x² + 2)²)]]"
               },
               {
                 "q": "5. Resolve into partial fractions: [[49/((x - 2)(3 + x²)²)]]",
-                "a": "[[49/((x - 2)(3 + x²)²)]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 3)]] + [[(Dx + E)/(x² + 3)²]]\n49 = A(x² + 3)² + (Bx + C)(x² + 3)(x - 2) + (Dx + E)(x - 2)\n49 = (A + B)x⁴ + (C - 2B)x³ + (6A + 3B - 2C + D)x² + (3C - 6B - 2D + E)x + (9A - 6C - 2E)\nx = 2\n49 = A(7)² = 49A\nA = 1\n0 = A + B\nB = -1\n0 = C - 2B\nC = -2\n0 = 6A + 3B - 2C + D\n0 = 6 - 3 + 4 + D\nD = -7\n0 = 3(C - 2B) - 2D + E\n0 = 14 + E\nE = -14\n[[49/((x - 2)(3 + x²)²)]] = [[1/(x - 2)]] - [[(x + 2)/(x² + 3)]] - [[(7x + 14)/(x² + 3)²]] = [[1/(x - 2)]] - [[(x + 2)/(3 + x²)]] - [[7(x + 2)/(3 + x²)²]]"
+                "a": "[[49/((x - 2)(3 + x²)²)]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 3)]] + [[(Dx + E)/(x² + 3)²]]\n49 = A(x² + 3)² + (Bx + C)(x² + 3)(x - 2) + (Dx + E)(x - 2)\n49 = (A + B)x⁴ + (C - 2B)x³ + (6A + 3B - 2C + D)x² + (3C - 6B - 2D + E)x + (9A - 6C - 2E)\nx = 2\n49 = A(7)²\n49 = 49A\nA = 1\n0 = A + B\nB = -1\n0 = C - 2B\nC = -2\n0 = 6A + 3B - 2C + D\n0 = 6 - 3 + 4 + D\nD = -7\n0 = 3(C - 2B) - 2D + E\n0 = 14 + E\nE = -14\n[[49/((x - 2)(3 + x²)²)]] = [[1/(x - 2)]] - [[(x + 2)/(x² + 3)]] - [[(7x + 14)/(x² + 3)²]]\n[[49/((x - 2)(3 + x²)²)]] = [[1/(x - 2)]] - [[(x + 2)/(3 + x²)]] - [[7(x + 2)/(3 + x²)²]]"
               }
             ]
           },
@@ -8475,7 +8475,7 @@ var STUDY = {
               },
               {
                 "q": "3. Resolve the following fractions into partial fractions.\n(i) [[(5x + 8)/((x - 1)(x + 2))]]\n(ii) [[(9x² + 5x + 7)/(x(x + 2)(x - 5))]]\n(iii) [[(x² + 2x + 3)/((x² + 1)(x - 2))]]\n(iv) [[(x³ + 8x² + 9)/((x² + x + 1)(x + 1))]]\n(v) [[(x + 5)/((x² + 1)²(x - 3))]]\n(vi) [[(7x + 3)/((x - 1)²(x + 2))]]",
-                "a": "(i) [[(5x + 8)/((x - 1)(x + 2))]] = [[A/(x - 1)]] + [[B/(x + 2)]]\n5x + 8 = A(x + 2) + B(x - 1)\nx = 1\n13 = 3A\nA = [[13/3]]\nx = -2\n-2 = -3B\nB = [[2/3]]\n[[(5x + 8)/((x - 1)(x + 2))]] = [[13/(3(x - 1))]] + [[2/(3(x + 2))]]\n(ii) [[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[A/x]] + [[B/(x + 2)]] + [[C/(x - 5)]]\n9x² + 5x + 7 = A(x + 2)(x - 5) + Bx(x - 5) + Cx(x + 2)\nx = 0\n7 = -10A\nA = [[-7/10]]\nx = -2\n36 - 10 + 7 = 33 = 14B\nB = [[33/14]]\nx = 5\n225 + 25 + 7 = 257 = 35C\nC = [[257/35]]\n[[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[-7/(10x)]] + [[33/(14(x + 2))]] + [[257/(35(x - 5))]]\n(iii) [[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 1)]]\nx² + 2x + 3 = A(x² + 1) + (Bx + C)(x - 2)\nx = 2\n4 + 4 + 3 = 11 = 5A\nA = [[11/5]]\n1 = A + B\nB = [[-6/5]]\n3 = A - 2C\n2C = [[11/5]] - 3 = [[-4/5]]\nC = [[-2/5]]\n[[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[11/(5(x - 2))]] - [[(6x + 2)/(5(x² + 1))]]\n(iv) Improper fraction\n(x³ + 8x² + 9) ÷ ((x² + x + 1)(x + 1)) = (x³ + 8x² + 9) ÷ (x³ + 2x² + 2x + 1) = 1\nRemainder = 6x² - 2x + 8\n1 + [[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]]\n[[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + x + 1)]]\n6x² - 2x + 8 = A(x² + x + 1) + (Bx + C)(x + 1)\nx = -1\n6 + 2 + 8 = 16 = A\n6 = A + B\nB = -10\n8 = A + C\nC = -8\n[[(x³ + 8x² + 9)/((x² + x + 1)(x + 1))]] = 1 + [[16/(x + 1)]] - [[(10x + 8)/(x² + x + 1)]]\n(v) [[(x + 5)/((x² + 1)²(x - 3))]] = [[A/(x - 3)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx + 5 = A(x² + 1)² + (Bx + C)(x² + 1)(x - 3) + (Dx + E)(x - 3)\nx + 5 = (A + B)x⁴ + (C - 3B)x³ + (2A + B - 3C + D)x² + (C - 3B - 3D + E)x + (A - 3C - 3E)\nx = 3\n8 = A(10)² = 100A\nA = [[2/25]]\n0 = A + B\nB = [[-2/25]]\n0 = C - 3B\nC = [[-6/25]]\n0 = 2A + B - 3C + D\n0 = [[4/25]] - [[2/25]] + [[18/25]] + D\nD = [[-4/5]]\n1 = (C - 3B) - 3D + E\n1 = [[12/5]] + E\nE = [[-7/5]]\n[[(x + 5)/((x² + 1)²(x - 3))]] = [[2/(25(x - 3))]] - [[(2x + 6)/(25(x² + 1))]] - [[(4x + 7)/(5(x² + 1)²)]]\n(vi) [[(7x + 3)/((x - 1)²(x + 2))]] = [[A/(x - 1)]] + [[B/(x - 1)²]] + [[C/(x + 2)]]\n7x + 3 = A(x - 1)(x + 2) + B(x + 2) + C(x - 1)²\nx = 1\n10 = 3B\nB = [[10/3]]\nx = -2\n-11 = 9C\nC = [[-11/9]]\n0 = A + C\nA = [[11/9]]\n[[(7x + 3)/((x - 1)²(x + 2))]] = [[11/(9(x - 1))]] + [[10/(3(x - 1)²)]] - [[11/(9(x + 2))]]"
+                "a": "(i) [[(5x + 8)/((x - 1)(x + 2))]] = [[A/(x - 1)]] + [[B/(x + 2)]]\n5x + 8 = A(x + 2) + B(x - 1)\nx = 1\n13 = 3A\nA = [[13/3]]\nx = -2\n-2 = -3B\nB = [[2/3]]\n[[(5x + 8)/((x - 1)(x + 2))]] = [[13/(3(x - 1))]] + [[2/(3(x + 2))]]\n(ii) [[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[A/x]] + [[B/(x + 2)]] + [[C/(x - 5)]]\n9x² + 5x + 7 = A(x + 2)(x - 5) + Bx(x - 5) + Cx(x + 2)\nx = 0\n7 = -10A\nA = [[-7/10]]\nx = -2\n36 - 10 + 7 = 33\n36 - 10 + 7 = 14B\nB = [[33/14]]\nx = 5\n225 + 25 + 7 = 257\n225 + 25 + 7 = 35C\nC = [[257/35]]\n[[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[-7/(10x)]] + [[33/(14(x + 2))]] + [[257/(35(x - 5))]]\n(iii) [[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 1)]]\nx² + 2x + 3 = A(x² + 1) + (Bx + C)(x - 2)\nx = 2\n4 + 4 + 3 = 11\n4 + 4 + 3 = 5A\nA = [[11/5]]\n1 = A + B\nB = [[-6/5]]\n3 = A - 2C\n2C = [[11/5]] - 3\n2C = [[-4/5]]\nC = [[-2/5]]\n[[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[11/(5(x - 2))]] - [[(6x + 2)/(5(x² + 1))]]\n(iv) Improper fraction\n(x³ + 8x² + 9) ÷ ((x² + x + 1)(x + 1)) = (x³ + 8x² + 9) ÷ (x³ + 2x² + 2x + 1)\n(x³ + 8x² + 9) ÷ ((x² + x + 1)(x + 1)) = 1\nRemainder = 6x² - 2x + 8\n1 + [[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]]\n[[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + x + 1)]]\n6x² - 2x + 8 = A(x² + x + 1) + (Bx + C)(x + 1)\nx = -1\n6 + 2 + 8 = 16\n6 + 2 + 8 = A\n6 = A + B\nB = -10\n8 = A + C\nC = -8\n[[(x³ + 8x² + 9)/((x² + x + 1)(x + 1))]] = 1 + [[16/(x + 1)]] - [[(10x + 8)/(x² + x + 1)]]\n(v) [[(x + 5)/((x² + 1)²(x - 3))]] = [[A/(x - 3)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx + 5 = A(x² + 1)² + (Bx + C)(x² + 1)(x - 3) + (Dx + E)(x - 3)\nx + 5 = (A + B)x⁴ + (C - 3B)x³ + (2A + B - 3C + D)x² + (C - 3B - 3D + E)x + (A - 3C - 3E)\nx = 3\n8 = A(10)²\n8 = 100A\nA = [[2/25]]\n0 = A + B\nB = [[-2/25]]\n0 = C - 3B\nC = [[-6/25]]\n0 = 2A + B - 3C + D\n0 = [[4/25]] - [[2/25]] + [[18/25]] + D\nD = [[-4/5]]\n1 = (C - 3B) - 3D + E\n1 = [[12/5]] + E\nE = [[-7/5]]\n[[(x + 5)/((x² + 1)²(x - 3))]] = [[2/(25(x - 3))]] - [[(2x + 6)/(25(x² + 1))]] - [[(4x + 7)/(5(x² + 1)²)]]\n(vi) [[(7x + 3)/((x - 1)²(x + 2))]] = [[A/(x - 1)]] + [[B/(x - 1)²]] + [[C/(x + 2)]]\n7x + 3 = A(x - 1)(x + 2) + B(x + 2) + C(x - 1)²\nx = 1\n10 = 3B\nB = [[10/3]]\nx = -2\n-11 = 9C\nC = [[-11/9]]\n0 = A + C\nA = [[11/9]]\n[[(7x + 3)/((x - 1)²(x + 2))]] = [[11/(9(x - 1))]] + [[10/(3(x - 1)²)]] - [[11/(9(x + 2))]]"
               }
             ]
           }
@@ -9728,7 +9728,7 @@ var STUDY = {
                 "q": "Find modal cause of death from the following data of mortality per month in a city.\nCause of death | T.B. | Diabetics | Malaria | Cholera | COVID | Cancer | B.P. | Heart Attack\nNumber of people | 10 | 6 | 2 | 2 | 15 | 10 | 2 | 5"
               },
               {
-                "a": "n = 191\nΣxf = 5 x 2 + 5.5 x 5 + 6 x 15 + 6.5 x 30 + 7 x 60 + 7.5 x 40 + 8 x 23 + 8.5 x 11 + 9 x 4 + 9.5 x 1\n= 10 + 27.5 + 90 + 195 + 420 + 300 + 184 + 93.5 + 36 + 9.5\n= 1365.5\nA.M. = [[1365.5/191]]\n= 7.149\nΣf log x = 162.66\nG.M. = antilog [[(Σf log x)/Σf]]\n= antilog [[162.66/191]]\n= antilog(0.8516)\n= 7.106\nH.M. = [[Σf/Σ(f ÷ x)]]\n[[2/5]] + [[5/5.5]] + [[15/6]] + [[30/6.5]] + [[60/7]] + [[40/7.5]] + [[23/8]] + [[11/8.5]] + [[4/9]] + [[1/9.5]] = 27.047\nH.M. = [[191/27.047]]\n= 7.061\nx | cf\n5 | 2\n5.5 | 7\n6 | 22\n6.5 | 52\n7 | 112\n7.5 | 152\n8 | 175\n8.5 | 186\n9 | 190\n9.5 | 191\n[[(191 + 1)/2]] = 96th\nMedian = 7\n[[n/4]] = [[191/4]] = 47.75\n[[(n + 3)/4]] = 48.5th\nQ1 = 6.5\n[[3n/4]] = [[573/4]] = 143.25\n[[(3n + 1)/4]] = 143.5th\nQ3 = 7.5\nMode = 7",
+                "a": "n = 191\nΣxf = 5 x 2 + 5.5 x 5 + 6 x 15 + 6.5 x 30 + 7 x 60 + 7.5 x 40 + 8 x 23 + 8.5 x 11 + 9 x 4 + 9.5 x 1\n= 10 + 27.5 + 90 + 195 + 420 + 300 + 184 + 93.5 + 36 + 9.5\n= 1365.5\nA.M. = [[1365.5/191]]\n= 7.149\nΣf log x = 162.66\nG.M. = antilog [[(Σf log x)/Σf]]\n= antilog [[162.66/191]]\n= antilog(0.8516)\n= 7.106\nH.M. = [[Σf/Σ(f ÷ x)]]\n[[2/5]] + [[5/5.5]] + [[15/6]] + [[30/6.5]] + [[60/7]] + [[40/7.5]] + [[23/8]] + [[11/8.5]] + [[4/9]] + [[1/9.5]] = 27.047\nH.M. = [[191/27.047]]\n= 7.061\nx | cf\n5 | 2\n5.5 | 7\n6 | 22\n6.5 | 52\n7 | 112\n7.5 | 152\n8 | 175\n8.5 | 186\n9 | 190\n9.5 | 191\n[[(191 + 1)/2]] = 96th\nMedian = 7\n[[n/4]] = [[191/4]]\n[[n/4]] = 47.75\n[[(n + 3)/4]] = 48.5th\nQ1 = 6.5\n[[3n/4]] = [[573/4]]\n[[3n/4]] = 143.25\n[[(3n + 1)/4]] = 143.5th\nQ3 = 7.5\nMode = 7",
                 "q": "The sizes of shoe sold at a store on a 50% off price are listed. Calculate A.M., G.M., H.M., median, Q1, Q3 and modal shoe size sold that day.\nShoe size | 5 | 5.5 | 6 | 6.5 | 7 | 7.5 | 8 | 8.5 | 9 | 9.5\nNumber of pairs sold | 2 | 5 | 15 | 30 | 60 | 40 | 23 | 11 | 4 | 1"
               },
               {
@@ -9753,7 +9753,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "W: 148, 145, 160, 157, 156, 160, 160, 165\nn = 8\nx̄ = [[Σx/n]]\n= [[(148 + 145 + 160 + 157 + 156 + 160 + 160 + 165)/8]]\n= [[1251/8]]\n= 156.375\n(a) 148 - 156.375 = -8.375\n145 - 156.375 = -11.375\n160 - 156.375 = 3.625\n157 - 156.375 = 0.625\n156 - 156.375 = -0.375\n160 - 156.375 = 3.625\n160 - 156.375 = 3.625\n165 - 156.375 = 8.625\nΣ(x - x̄) = -8.375 - 11.375 + 3.625 + 0.625 - 0.375 + 3.625 + 3.625 + 8.625\n= 0\n(b) X: -2, -2, -2, -2\nA.M. = [[(-2 - 2 - 2 - 2)/4]]\n= -2\nMedian = -2\nMode = -2\n[[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] = -2\nH.M. = [[4/(-2)]]\n= -2\nG.M. = Not possible\nA.M. = H.M. = Median = Mode = -2\n(c) Y = 3X = -6, -6, -6, -6\nA.M. of Y = 3 x (A.M. of X)\n= 3 x (-2)\n= -6\n(d) A.M. of Z = 3 x (A.M. of W) - 11\n= 3 x 156.375 - 11\n= 469.125 - 11\n= 458.125\n(e) 145, 148, 156, 157, 160, 160, 160, 165\nH.M. = [[8/Σ(1 ÷ x)]]\n[[1/148]] + [[1/145]] + [[1/160]] + [[1/157]] + [[1/156]] + [[1/160]] + [[1/160]] + [[1/165]] = 0.05122\nH.M. = [[8/0.05122]]\n= 156.117\nG.M. = (148 x 145 x 160 x 157 x 156 x 160 x 160 x 165)^[[1/8]]\n= 156.247\nA.M. = 156.375\nMedian = [[1/2]] (157 + 160)\n= 158.5\nMode = 160\n156.117 < 156.247 < 156.375 < 158.5 < 160\nH.M. < G.M. < A.M. < Median < Mode",
+                "a": "W: 148, 145, 160, 157, 156, 160, 160, 165\nn = 8\nx̄ = [[Σx/n]]\n= [[(148 + 145 + 160 + 157 + 156 + 160 + 160 + 165)/8]]\n= [[1251/8]]\n= 156.375\n(a) 148 - 156.375 = -8.375\n145 - 156.375 = -11.375\n160 - 156.375 = 3.625\n157 - 156.375 = 0.625\n156 - 156.375 = -0.375\n160 - 156.375 = 3.625\n160 - 156.375 = 3.625\n165 - 156.375 = 8.625\nΣ(x - x̄) = -8.375 - 11.375 + 3.625 + 0.625 - 0.375 + 3.625 + 3.625 + 8.625\n= 0\n(b) X: -2, -2, -2, -2\nA.M. = [[(-2 - 2 - 2 - 2)/4]]\n= -2\nMedian = -2\nMode = -2\n[[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] = -2\nH.M. = [[4/(-2)]]\n= -2\nG.M. = Not possible\nA.M. = H.M. = Median = Mode = -2\n(c) Y = 3X\nY = -6, -6, -6, -6\nA.M. of Y = 3 x (A.M. of X)\n= 3 x (-2)\n= -6\n(d) A.M. of Z = 3 x (A.M. of W) - 11\n= 3 x 156.375 - 11\n= 469.125 - 11\n= 458.125\n(e) 145, 148, 156, 157, 160, 160, 160, 165\nH.M. = [[8/Σ(1 ÷ x)]]\n[[1/148]] + [[1/145]] + [[1/160]] + [[1/157]] + [[1/156]] + [[1/160]] + [[1/160]] + [[1/165]] = 0.05122\nH.M. = [[8/0.05122]]\n= 156.117\nG.M. = (148 x 145 x 160 x 157 x 156 x 160 x 160 x 165)^[[1/8]]\n= 156.247\nA.M. = 156.375\nMedian = [[1/2]] (157 + 160)\n= 158.5\nMode = 160\n156.117 < 156.247 < 156.375 < 158.5 < 160\nH.M. < G.M. < A.M. < Median < Mode",
                 "q": "If W = {148, 145, 160, 157, 156, 160, 160, 165}, X = {-2, -2, -2, -2}, then:\n(a) Show that sum of all deviations of W about its A.M. is zero.\n(b) Show that A.M. = G.M. = H.M. = Median = Mode for X.\n(c) Compute A.M. of Y = 3X.\n(d) Compute A.M. of Z = 3W - 11.\n(e) Show that H.M. < G.M. < A.M. < Median < Mode for W."
               },
               {
@@ -9769,11 +9769,11 @@ var STUDY = {
                 "q": "Of 50 bricks bought, 21 bricks have mean mass of 24.2Kg, 29 bricks have mean mass of 23.6Kg, Find weighted mean mass of the 50 bricks."
               },
               {
-                "a": "Mon. 102, Tue. 130, Wed. 158, Thu. 188, Fri. 196, Sat. 259, Sun. 310\n2-day:\nMon.-Tue.: [[(102 + 130)/2]] = 116\nTue.-Wed.: [[(130 + 158)/2]] = 144\nWed.-Thu.: [[(158 + 188)/2]] = 173\nThu.-Fri.: [[(188 + 196)/2]] = 192\nFri.-Sat.: [[(196 + 259)/2]] = 227.5\nSat.-Sun.: [[(259 + 310)/2]] = 284.5\n2-day centred:\nTue.: [[(116 + 144)/2]] = 130\nWed.: [[(144 + 173)/2]] = 158.5\nThu.: [[(173 + 192)/2]] = 182.5\nFri.: [[(192 + 227.5)/2]] = 209.75\nSat.: [[(227.5 + 284.5)/2]] = 256\n3-day:\nTue.: [[(102 + 130 + 158)/3]] = [[390/3]] = 130\nWed.: [[(130 + 158 + 188)/3]] = [[476/3]] = 158.67\nThu.: [[(158 + 188 + 196)/3]] = [[542/3]] = 180.67\nFri.: [[(188 + 196 + 259)/3]] = [[643/3]] = 214.33\nSat.: [[(196 + 259 + 310)/3]] = [[765/3]] = 255\n4-day:\nMon.-Thu.: [[(102 + 130 + 158 + 188)/4]] = [[578/4]] = 144.5\nTue.-Fri.: [[(130 + 158 + 188 + 196)/4]] = [[672/4]] = 168\nWed.-Sat.: [[(158 + 188 + 196 + 259)/4]] = [[801/4]] = 200.25\nThu.-Sun.: [[(188 + 196 + 259 + 310)/4]] = [[953/4]] = 238.25\n4-day centred:\nWed.: [[(144.5 + 168)/2]] = 156.25\nThu.: [[(168 + 200.25)/2]] = 184.125\nFri.: [[(200.25 + 238.25)/2]] = 219.25",
+                "a": "Mon. 102, Tue. 130, Wed. 158, Thu. 188, Fri. 196, Sat. 259, Sun. 310\n2-day:\nMon.-Tue.: [[(102 + 130)/2]] = 116\nTue.-Wed.: [[(130 + 158)/2]] = 144\nWed.-Thu.: [[(158 + 188)/2]] = 173\nThu.-Fri.: [[(188 + 196)/2]] = 192\nFri.-Sat.: [[(196 + 259)/2]] = 227.5\nSat.-Sun.: [[(259 + 310)/2]] = 284.5\n2-day centred:\nTue.: [[(116 + 144)/2]] = 130\nWed.: [[(144 + 173)/2]] = 158.5\nThu.: [[(173 + 192)/2]] = 182.5\nFri.: [[(192 + 227.5)/2]] = 209.75\nSat.: [[(227.5 + 284.5)/2]] = 256\n3-day:\nTue.: [[(102 + 130 + 158)/3]] = [[390/3]]\n[[(102 + 130 + 158)/3]] = 130\nWed.: [[(130 + 158 + 188)/3]] = [[476/3]]\n[[(130 + 158 + 188)/3]] = 158.67\nThu.: [[(158 + 188 + 196)/3]] = [[542/3]]\n[[(158 + 188 + 196)/3]] = 180.67\nFri.: [[(188 + 196 + 259)/3]] = [[643/3]]\n[[(188 + 196 + 259)/3]] = 214.33\nSat.: [[(196 + 259 + 310)/3]] = [[765/3]]\n[[(196 + 259 + 310)/3]] = 255\n4-day:\nMon.-Thu.: [[(102 + 130 + 158 + 188)/4]] = [[578/4]]\n[[(102 + 130 + 158 + 188)/4]] = 144.5\nTue.-Fri.: [[(130 + 158 + 188 + 196)/4]] = [[672/4]]\n[[(130 + 158 + 188 + 196)/4]] = 168\nWed.-Sat.: [[(158 + 188 + 196 + 259)/4]] = [[801/4]]\n[[(158 + 188 + 196 + 259)/4]] = 200.25\nThu.-Sun.: [[(188 + 196 + 259 + 310)/4]] = [[953/4]]\n[[(188 + 196 + 259 + 310)/4]] = 238.25\n4-day centred:\nWed.: [[(144.5 + 168)/2]] = 156.25\nThu.: [[(168 + 200.25)/2]] = 184.125\nFri.: [[(200.25 + 238.25)/2]] = 219.25",
                 "q": "Calculate 2, 3 and 4-days moving average from the following data of number of deaths monitored for a peak week in a province due to nCOVID'19.\nDays | Mon. | Tue. | Wed. | Thu. | Fri. | Sat. | Sun.\nNumber of deaths | 102 | 130 | 158 | 188 | 196 | 259 | 310"
               },
               {
-                "a": "2011: 102, 2012: 130, 2013: 158, 2014: 188, 2015: 196, 2016: 259, 2017: 310, 2018: 188, 2019: 196, 2020: 259, 2021: 310\n4-year:\n2011-2014: [[(102 + 130 + 158 + 188)/4]] = [[578/4]] = 144.5\n2012-2015: [[(130 + 158 + 188 + 196)/4]] = [[672/4]] = 168\n2013-2016: [[(158 + 188 + 196 + 259)/4]] = [[801/4]] = 200.25\n2014-2017: [[(188 + 196 + 259 + 310)/4]] = [[953/4]] = 238.25\n2015-2018: [[(196 + 259 + 310 + 188)/4]] = [[953/4]] = 238.25\n2016-2019: [[(259 + 310 + 188 + 196)/4]] = [[953/4]] = 238.25\n2017-2020: [[(310 + 188 + 196 + 259)/4]] = [[953/4]] = 238.25\n2018-2021: [[(188 + 196 + 259 + 310)/4]] = [[953/4]] = 238.25\n4-year centred:\n2013: [[(144.5 + 168)/2]] = 156.25\n2014: [[(168 + 200.25)/2]] = 184.125\n2015: [[(200.25 + 238.25)/2]] = 219.25\n2016: [[(238.25 + 238.25)/2]] = 238.25\n2017: [[(238.25 + 238.25)/2]] = 238.25\n2018: [[(238.25 + 238.25)/2]] = 238.25\n2019: [[(238.25 + 238.25)/2]] = 238.25\n5-year:\n2013: [[(102 + 130 + 158 + 188 + 196)/5]] = [[774/5]] = 154.8\n2014: [[(130 + 158 + 188 + 196 + 259)/5]] = [[931/5]] = 186.2\n2015: [[(158 + 188 + 196 + 259 + 310)/5]] = [[1111/5]] = 222.2\n2016: [[(188 + 196 + 259 + 310 + 188)/5]] = [[1141/5]] = 228.2\n2017: [[(196 + 259 + 310 + 188 + 196)/5]] = [[1149/5]] = 229.8\n2018: [[(259 + 310 + 188 + 196 + 259)/5]] = [[1212/5]] = 242.4\n2019: [[(310 + 188 + 196 + 259 + 310)/5]] = [[1263/5]] = 252.6",
+                "a": "2011: 102, 2012: 130, 2013: 158, 2014: 188, 2015: 196, 2016: 259, 2017: 310, 2018: 188, 2019: 196, 2020: 259, 2021: 310\n4-year:\n2011-2014: [[(102 + 130 + 158 + 188)/4]] = [[578/4]]\n[[(102 + 130 + 158 + 188)/4]] = 144.5\n2012-2015: [[(130 + 158 + 188 + 196)/4]] = [[672/4]]\n[[(130 + 158 + 188 + 196)/4]] = 168\n2013-2016: [[(158 + 188 + 196 + 259)/4]] = [[801/4]]\n[[(158 + 188 + 196 + 259)/4]] = 200.25\n2014-2017: [[(188 + 196 + 259 + 310)/4]] = [[953/4]]\n[[(188 + 196 + 259 + 310)/4]] = 238.25\n2015-2018: [[(196 + 259 + 310 + 188)/4]] = [[953/4]]\n[[(196 + 259 + 310 + 188)/4]] = 238.25\n2016-2019: [[(259 + 310 + 188 + 196)/4]] = [[953/4]]\n[[(259 + 310 + 188 + 196)/4]] = 238.25\n2017-2020: [[(310 + 188 + 196 + 259)/4]] = [[953/4]]\n[[(310 + 188 + 196 + 259)/4]] = 238.25\n2018-2021: [[(188 + 196 + 259 + 310)/4]] = [[953/4]]\n[[(188 + 196 + 259 + 310)/4]] = 238.25\n4-year centred:\n2013: [[(144.5 + 168)/2]] = 156.25\n2014: [[(168 + 200.25)/2]] = 184.125\n2015: [[(200.25 + 238.25)/2]] = 219.25\n2016: [[(238.25 + 238.25)/2]] = 238.25\n2017: [[(238.25 + 238.25)/2]] = 238.25\n2018: [[(238.25 + 238.25)/2]] = 238.25\n2019: [[(238.25 + 238.25)/2]] = 238.25\n5-year:\n2013: [[(102 + 130 + 158 + 188 + 196)/5]] = [[774/5]]\n[[(102 + 130 + 158 + 188 + 196)/5]] = 154.8\n2014: [[(130 + 158 + 188 + 196 + 259)/5]] = [[931/5]]\n[[(130 + 158 + 188 + 196 + 259)/5]] = 186.2\n2015: [[(158 + 188 + 196 + 259 + 310)/5]] = [[1111/5]]\n[[(158 + 188 + 196 + 259 + 310)/5]] = 222.2\n2016: [[(188 + 196 + 259 + 310 + 188)/5]] = [[1141/5]]\n[[(188 + 196 + 259 + 310 + 188)/5]] = 228.2\n2017: [[(196 + 259 + 310 + 188 + 196)/5]] = [[1149/5]]\n[[(196 + 259 + 310 + 188 + 196)/5]] = 229.8\n2018: [[(259 + 310 + 188 + 196 + 259)/5]] = [[1212/5]]\n[[(259 + 310 + 188 + 196 + 259)/5]] = 242.4\n2019: [[(310 + 188 + 196 + 259 + 310)/5]] = [[1263/5]]\n[[(310 + 188 + 196 + 259 + 310)/5]] = 252.6",
                 "q": "Calculate 4 and 5 years moving averages of sales (in million Rs.) over 11 years.\nYear | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021\nSales | 102 | 130 | 158 | 188 | 196 | 259 | 310 | 188 | 196 | 259 | 310"
               },
               {
@@ -10568,7 +10568,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "a² + b² = c²\n(i) a = 16, b = 30, c = 34\na² + b² = (16)² + (30)² = 256 + 900 = 1156\nc² = (34)² = 1156\na² + b² = c²\n(ii) a = 6, b = 8, c = 10\na² + b² = (6)² + (8)² = 36 + 64 = 100\nc² = (10)² = 100\na² + b² = c²\n(iii) a = 15, b = 20, c = 25\na² + b² = (15)² + (20)² = 225 + 400 = 625\nc² = (25)² = 625\na² + b² = c²\n(iv) a = 13, b = √56, c = 15\na² + b² = (13)² + (√56)² = 169 + 56 = 225\nc² = (15)² = 225\na² + b² = c²",
+                "a": "a² + b² = c²\n(i) a = 16, b = 30, c = 34\na² + b² = (16)² + (30)²\na² + b² = 256 + 900\na² + b² = 1156\nc² = (34)²\nc² = 1156\na² + b² = c²\n(ii) a = 6, b = 8, c = 10\na² + b² = (6)² + (8)²\na² + b² = 36 + 64\na² + b² = 100\nc² = (10)²\nc² = 100\na² + b² = c²\n(iii) a = 15, b = 20, c = 25\na² + b² = (15)² + (20)²\na² + b² = 225 + 400\na² + b² = 625\nc² = (25)²\nc² = 625\na² + b² = c²\n(iv) a = 13, b = √56, c = 15\na² + b² = (13)² + (√56)²\na² + b² = 169 + 56\na² + b² = 225\nc² = (15)²\nc² = 225\na² + b² = c²",
                 "q": "Following are the lengths of sides of a triangle, verify that the triangle is a right triangle.\n(i) a = 16, b = 30, c = 34\n(ii) a = 6, b = 8, c = 10\n(iii) a = 15, b = 20, c = 25\n(iv) a = 13, b = √56, c = 15",
                 "dq": {
                   "type": "triangle",
@@ -10600,7 +10600,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "(i) x² = (7)² + (24)² = 49 + 576 = 625\nx = √625 = 25\n(ii) x² = (13)² − (5)² = 169 − 25 = 144\nx = √144 = 12\n(iii) x² = (√53)² − (7)² = 53 − 49 = 4\nx = √4 = 2\n(iv) x² = (17)² − (8)² = 289 − 64 = 225\nx = √225 = 15",
+                "a": "(i) x² = (7)² + (24)²\nx² = 49 + 576\nx² = 625\nx = √625\nx = 25\n(ii) x² = (13)² − (5)²\nx² = 169 − 25\nx² = 144\nx = √144\nx = 12\n(iii) x² = (√53)² − (7)²\nx² = 53 − 49\nx² = 4\nx = √4\nx = 2\n(iv) x² = (17)² − (8)²\nx² = 289 − 64\nx² = 225\nx = √225\nx = 15",
                 "q": "Find unknown values in each of the following figures.\n(i) A right-angled triangle with legs 7 and 24 and hypotenuse x.\n(ii) A right-angled triangle with one leg x, the other leg 5 and hypotenuse 13.\n(iii) A right-angled triangle with one leg x, the other leg 7 and hypotenuse √53.\n(iv) A right-angled triangle with one leg 8, the other leg x and hypotenuse 17.",
                 "dq": {
                   "type": "triangle",
@@ -10632,7 +10632,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "x² + (7.5)² = (9.5)²\nx² = (9.5)² − (7.5)² = 90.25 − 56.25 = 34\nx = √34 cm ≈ 5.83 cm\nx = hypotenuse\nx² = (9.5)² + (7.5)² = 146.5\nx = √146.5 ≈ 12.10 cm",
+                "a": "x² + (7.5)² = (9.5)²\nx² = (9.5)² − (7.5)²\nx² = 90.25 − 56.25\nx² = 34\nx = √34 cm ≈ 5.83 cm\nx = hypotenuse\nx² = (9.5)² + (7.5)²\nx² = 146.5\nx = √146.5 ≈ 12.10 cm",
                 "q": "The three sides of a triangle are of measure 9.5cm, 7.5cm and x cm. For what value of x will the sides represent a right triangle?",
                 "da": {
                   "type": "triangle",
@@ -10664,7 +10664,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "BD = DC = [[mBC/2]] = [[10/2]] = 5 cm\n(AD)² + (BD)² = (AB)²\n(AD)² = (13)² − (5)² = 169 − 25 = 144\nAD = √144 = 12 cm",
+                "a": "BD = DC\nBD = [[mBC/2]]\nBD = [[10/2]]\nBD = 5 cm\n(AD)² + (BD)² = (AB)²\n(AD)² = (13)² − (5)²\n(AD)² = 169 − 25\n(AD)² = 144\nAD = √144\nAD = 12 cm",
                 "q": "ABC is an isosceles triangle with mAB = mAC = 13cm and mBC = 10cm. Calculate the perpendicular distance from A to BC.",
                 "da": {
                   "type": "draw",
@@ -10768,7 +10768,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "L² = (6)² + (8)² = 36 + 64 = 100\nL = √100 = 10 ft",
+                "a": "L² = (6)² + (8)²\nL² = 36 + 64\nL² = 100\nL = √100\nL = 10 ft",
                 "q": "The foot of a ladder is placed 6 feet from a wall. If the top of the ladder rests 8 feet up on the wall, how long is the ladder?",
                 "da": {
                   "type": "triangle",
@@ -10796,7 +10796,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "(AD)² + (DC)² = (AC)²\n(AD)² = (17)² − (15)² = 289 − 225 = 64\nAD = √64 = 8\n(AB)² = (AD)² + (BD)²\n(10)² = (8)² + x²\nx² = 100 − 64 = 36\nx = √36 = 6",
+                "a": "(AD)² + (DC)² = (AC)²\n(AD)² = (17)² − (15)²\n(AD)² = 289 − 225\n(AD)² = 64\nAD = √64\nAD = 8\n(AB)² = (AD)² + (BD)²\n(10)² = (8)² + x²\nx² = 100 − 64\nx² = 36\nx = √36\nx = 6",
                 "q": "Find the value of x in the adjacent figure. The figure shows triangle ABC with altitude AD drawn from A to BC (D lies on BC). AB = 10, AC = 17, DC = 15 and BD = x.",
                 "dq": {
                   "type": "draw",
@@ -10900,7 +10900,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "AC = AD + DC = 7 + 5 = 12 units\nh² = AD × CD = 7 × 5 = 35\nh = √35 units\nb² = AD × AC = 7 × 12 = 84\nb = √84 = 2√21 units\na² = CD × AC = 5 × 12 = 60\na = √60 = 2√15 units",
+                "a": "AC = AD + DC\nAC = 7 + 5\nAC = 12 units\nh² = AD × CD\nh² = 7 × 5\nh² = 35\nh = √35 units\nb² = AD × AC\nb² = 7 × 12\nb² = 84\nb = √84\nb = 2√21 units\na² = CD × AC\na² = 5 × 12\na² = 60\na = √60\na = 2√15 units",
                 "q": "In the △ABC, m∠B is a right angle and BD is perpendicular on AC such that mCD = 5 units and mAD = 7 units as shown in the figure. Find the lengths of the unknowns a, h and b. In the figure, a is the side BC, b is the side AB and h is the altitude BD.",
                 "dq": {
                   "type": "draw",
@@ -11031,7 +11031,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "d² = (50)² + (30)² = 2500 + 900 = 3400\nd = √3400 = √(100 × 34) = 10√34 m ≈ 58.31 m",
+                "a": "d² = (50)² + (30)²\nd² = 2500 + 900\nd² = 3400\nd = √3400\nd = √(100 × 34)\nd = 10√34 m ≈ 58.31 m",
                 "q": "The sides of a rectangular swimming pool are 50m and 30m. What is the length between the opposite corners?",
                 "da": {
                   "type": "draw",
@@ -11088,7 +11088,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "BD = DC = [[8/2]] = 4 units\n(AD)² + (BD)² = (AB)²\n(AD)² = (8)² − (4)² = 64 − 16 = 48\nAD = √48 = √(16 × 3) = 4√3 units",
+                "a": "BD = DC\nBD = [[8/2]]\nBD = 4 units\n(AD)² + (BD)² = (AB)²\n(AD)² = (8)² − (4)²\n(AD)² = 64 − 16\n(AD)² = 48\nAD = √48\nAD = √(16 × 3)\nAD = 4√3 units",
                 "q": "The length of each side of an equilateral triangle is 8 units. Find the length of any one altitude.",
                 "da": {
                   "type": "draw",
@@ -11210,7 +11210,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "d² = (18)² + (24)² = 324 + 576 = 900\nd = √900 = 30 m",
+                "a": "d² = (18)² + (24)²\nd² = 324 + 576\nd² = 900\nd = √900\nd = 30 m",
                 "q": "A manager goes 18m due east and then 24m due north. Find the distance of his current position from the starting point.",
                 "da": {
                   "type": "triangle",
@@ -11238,7 +11238,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "l + b = 17\nmBD = mAC\nmBD + mAC = 26\n2 × mBD = 26\nmBD = 13 cm\nl² + b² = (13)² = 169\n(l + b)² = l² + 2lb + b²\n(17)² = 169 + 2lb\n289 = 169 + 2lb\n2lb = 120\nlb = 60\nt² − (l + b)t + lb = 0\nt² − 17t + 60 = 0\n(t − 12)(t − 5) = 0\nt = 12 or t = 5\nLength = 12 cm\nBreadth = 5 cm",
+                "a": "l + b = 17\nmBD = mAC\nmBD + mAC = 26\n2 × mBD = 26\nmBD = 13 cm\nl² + b² = (13)²\nl² + b² = 169\n(l + b)² = l² + 2lb + b²\n(17)² = 169 + 2lb\n289 = 169 + 2lb\n2lb = 120\nlb = 60\nt² − (l + b)t + lb = 0\nt² − 17t + 60 = 0\n(t − 12)(t − 5) = 0\nt = 12 or t = 5\nLength = 12 cm\nBreadth = 5 cm",
                 "q": "In the rectangle ABCD, mBC + mCD = 17cm and mBD + mAC = 26cm. Calculate the length and breadth of the rectangle.",
                 "da": {
                   "type": "draw",
@@ -11360,7 +11360,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "h² + (7)² = (25)²\nh² = 625 − 49 = 576\nh = √576 = 24 m",
+                "a": "h² + (7)² = (25)²\nh² = 625 − 49\nh² = 576\nh = √576\nh = 24 m",
                 "q": "A ladder 25m long rests against a vertical wall. The foot of the ladder is 7m away from the base of the wall. Find the height of the wall given that ladder reaches at its top end.",
                 "da": {
                   "type": "triangle",
@@ -11388,7 +11388,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "(i) x² = (2)² + (3)² = 4 + 9 = 13\nx = √13\n(ii) x² = (10)² − (7)² = 100 − 49 = 51\nx = √51\n(iii) x² = (12)² − (9)² = 144 − 81 = 63\nx = √63",
+                "a": "(i) x² = (2)² + (3)²\nx² = 4 + 9\nx² = 13\nx = √13\n(ii) x² = (10)² − (7)²\nx² = 100 − 49\nx² = 51\nx = √51\n(iii) x² = (12)² − (9)²\nx² = 144 − 81\nx² = 63\nx = √63",
                 "q": "Find the unknown values in each of the following figures.\n(i) A right-angled triangle ABC, right angle at A, with AB = 2, AC = 3 and hypotenuse BC = x.\n(ii) A right-angled triangle ABC, right angle at A, with AB = 7, AC = x and hypotenuse BC = 10.\n(iii) A right-angled triangle ABC, right angle at A, with AB = x, AC = 9 and hypotenuse BC = 12.",
                 "dq": {
                   "type": "triangle",
@@ -11824,7 +11824,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "AD: bisector of ∠A\n[[mCD/mDB]] = [[mAC/mAB]]\n[[(2x + 3)/(3x + 2)]] = [[(11 − x)/(x + 9)]]\n(2x + 3)(x + 9) = (11 − x)(3x + 2)\n2x² + 18x + 3x + 27 = 33x + 22 − 3x² − 2x\n2x² + 21x + 27 = −3x² + 31x + 22\n5x² − 10x + 5 = 0\nx² − 2x + 1 = 0\n(x − 1)² = 0\nx = 1\nmAB = x + 9 = 1 + 9 = 10 cm\nmAC = 11 − x = 11 − 1 = 10 cm\nmBC = mBD + mDC = (3x + 2) + (2x + 3) = 5 + 5 = 10 cm\nmAB = mAC = mBC = 10 cm\n△ABC: equilateral",
+                "a": "AD: bisector of ∠A\n[[mCD/mDB]] = [[mAC/mAB]]\n[[(2x + 3)/(3x + 2)]] = [[(11 − x)/(x + 9)]]\n(2x + 3)(x + 9) = (11 − x)(3x + 2)\n2x² + 18x + 3x + 27 = 33x + 22 − 3x² − 2x\n2x² + 21x + 27 = −3x² + 31x + 22\n5x² − 10x + 5 = 0\nx² − 2x + 1 = 0\n(x − 1)² = 0\nx = 1\nmAB = x + 9\nmAB = 1 + 9\nmAB = 10 cm\nmAC = 11 − x\nmAC = 11 − 1\nmAC = 10 cm\nmBC = mBD + mDC\nmBC = (3x + 2) + (2x + 3)\nmBC = 5 + 5\nmBC = 10 cm\nmAB = mAC = mBC = 10 cm\n△ABC: equilateral",
                 "dq": {
                   "els": [
                     {
@@ -11907,7 +11907,7 @@ var STUDY = {
                 "q": "In the adjacent figure, AD is the bisector of ∠A of △ABC. Find the value of x if mAB = x + 9, mAC = 11 − x, mCD = 2x + 3 and mBD = 3x + 2. Also specify the type of triangle."
               },
               {
-                "a": "△PQR ~ △ABC\n[[mPQ/mAB]] = [[mQR/mBC]] = [[mPR/mAC]]\nmPQ = 9 cm, mQR = 12 cm, mPR = 6 cm\nmAB = 3 cm, mBC = y cm, mAC = x cm\n[[mPQ/mAB]] = [[9/3]] = 3\n[[mPR/mAC]] = 3\n[[6/x]] = 3\nx = [[6/3]] = 2 cm\n[[mQR/mBC]] = 3\n[[12/y]] = 3\ny = [[12/3]] = 4 cm",
+                "a": "△PQR ~ △ABC\n[[mPQ/mAB]] = [[mQR/mBC]]\n[[mPQ/mAB]] = [[mPR/mAC]]\nmPQ = 9 cm, mQR = 12 cm, mPR = 6 cm\nmAB = 3 cm, mBC = y cm, mAC = x cm\n[[mPQ/mAB]] = [[9/3]]\n[[mPQ/mAB]] = 3\n[[mPR/mAC]] = 3\n[[6/x]] = 3\nx = [[6/3]]\nx = 2 cm\n[[mQR/mBC]] = 3\n[[12/y]] = 3\ny = [[12/3]]\ny = 4 cm",
                 "dq": {
                   "els": [
                     {
@@ -12024,7 +12024,7 @@ var STUDY = {
                 "q": "In the adjacent figure, △PQR and △ABC are similar. Find the values of x and y if lengths of sides are indicated in the figure. In the figure, △PQR has PQ = 9 cm, QR = 12 cm and PR = 6 cm, and △ABC has AB = 3 cm, BC = y cm and AC = x cm."
               },
               {
-                "a": "△ABC ~ △PQR\n[[A₁/A₂]] = ([[mAB/mPQ]])²\nA₁ = 28 cm², mAB = 4x cm, mPQ = 2x cm\n[[28/A₂]] = ([[4x/2x]])² = (2)² = 4\nA₂ = [[28/4]] = 7 cm²",
+                "a": "△ABC ~ △PQR\n[[A₁/A₂]] = ([[mAB/mPQ]])²\nA₁ = 28 cm², mAB = 4x cm, mPQ = 2x cm\n[[28/A₂]] = ([[4x/2x]])²\n[[28/A₂]] = (2)²\n[[28/A₂]] = 4\nA₂ = [[28/4]]\nA₂ = 7 cm²",
                 "dq": {
                   "els": [
                     {
@@ -12127,7 +12127,7 @@ var STUDY = {
                 "q": "Ratio of corresponding sides of two similar triangles is 2 : x − 5 and the ratio of their areas is 1 : 9. Find the value of x."
               },
               {
-                "a": "△ABC, △PQR: ∠B = ∠Q = 90°\n∠A = ∠P\n∠C = 180° − 90° − ∠A\n∠R = 180° − 90° − ∠P\n∠C = ∠R\n△ABC ~ △PQR\n[[AB/PQ]] = [[BC/QR]] = [[AC/PR]]",
+                "a": "△ABC, △PQR: ∠B = ∠Q = 90°\n∠A = ∠P\n∠C = 180° − 90° − ∠A\n∠R = 180° − 90° − ∠P\n∠C = ∠R\n△ABC ~ △PQR\n[[AB/PQ]] = [[BC/QR]]\n[[AB/PQ]] = [[AC/PR]]",
                 "dq": {
                   "els": [
                     {
@@ -12433,7 +12433,7 @@ var STUDY = {
                 "q": "Can you draw a circle from any four non-collinear points? Explain with reasons."
               },
               {
-                "a": "AC ∩ BD = O\nOA = OB = OC = OD = [[1/2]] × diagonal\nCircle with centre O, radius OA, passes through A, B, C, D\nOne circle passes through A, B, C, D",
+                "a": "AC ∩ BD = O\nOA = OB\nOA = OC\nOA = OD\nOA = [[1/2]] × diagonal\nCircle with centre O, radius OA, passes through A, B, C, D\nOne circle passes through A, B, C, D",
                 "dq": {
                   "els": [
                     {
@@ -12567,7 +12567,7 @@ var STUDY = {
                 "q": "Show that only one circle can pass through the vertices of a regular pentagon."
               },
               {
-                "a": "∠B = 90°\nmAC = √(mAB² + mBC²) = √(6² + 8²) = √(36 + 64) = √100 = 10 km\nmOA = mOB = mOC = [[1/2]] × 10 = 5 km\nMid-point of AC\n5 km",
+                "a": "∠B = 90°\nmAC = √(mAB² + mBC²)\nmAC = √(6² + 8²)\nmAC = √(36 + 64)\nmAC = √100\nmAC = 10 km\nmOA = mOB\nmOA = mOC\nmOA = [[1/2]] × 10\nmOA = 5 km\nMid-point of AC\n5 km",
                 "da": {
                   "els": [
                     {
@@ -12740,7 +12740,7 @@ var STUDY = {
                 "q": "Show that angle subtended by the centre of a circle and midpoint of a chord is right angle."
               },
               {
-                "a": "mAB = 8 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB = [[1/2]] × 8 = 4 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 4² = 9 + 16 = 25\nmOA = 5 cm\nr = 5 cm\nC = 2πr = 2 × π × 5 = 10π cm\nA = πr² = π × 5² = 25π cm²",
+                "a": "mAB = 8 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB\nmAC = [[1/2]] × 8\nmAC = 4 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 4²\n(mOA)² = 9 + 16\n(mOA)² = 25\nmOA = 5 cm\nr = 5 cm\nC = 2πr\nC = 2 × π × 5\nC = 10π cm\nA = πr²\nA = π × 5²\nA = 25π cm²",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -12776,7 +12776,7 @@ var STUDY = {
                 "q": "If length of the chord is 8cm. Its perpendicular distance from the centre of circle is 3cm, then find circumference and area of the circle."
               },
               {
-                "a": "chord = 2√(r² − k²)\n(a) √(9² − 4²) = √(81 − 16) = √65 cm\nChord = 2√65 cm\n(b) √(6² − 3²) = √(36 − 9) = √27 = 3√3 cm\nChord = 2 × 3√3 = 6√3 cm\n(a) 2√65 cm, (b) 6√3 cm",
+                "a": "chord = 2√(r² − k²)\n(a) √(9² − 4²) = √(81 − 16)\n√(9² − 4²) = √65 cm\nChord = 2√65 cm\n(b) √(6² − 3²) = √(36 − 9)\n√(6² − 3²) = √27\n√(6² − 3²) = 3√3 cm\nChord = 2 × 3√3\nChord = 6√3 cm\n(a) 2√65 cm, (b) 6√3 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -12812,7 +12812,7 @@ var STUDY = {
                 "q": "Calculate length of a chord which stands at a perpendicular distance of k from the centre of a circle with radius r when: (a) k = 4cm, r = 9cm (b) k = 3cm, r = 6cm."
               },
               {
-                "a": "mAB = 10 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB = [[1/2]] × 10 = 5 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 5² = 9 + 25 = 34\nmOA = √34 cm",
+                "a": "mAB = 10 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB\nmAC = [[1/2]] × 10\nmAC = 5 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 5²\n(mOA)² = 9 + 25\n(mOA)² = 34\nmOA = √34 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -13051,7 +13051,7 @@ var STUDY = {
                 "q": "Show that two chords of congruent circles equidistant from the centres are congruent."
               },
               {
-                "a": "Distance between chords = 2√(r² − ([[α/2]])²)\n(a) 2√(6² − ([[7/2]])²) = 2√(36 − [[49/4]]) = 2√([[95/4]]) = √95 cm\n(b) 2√(4² − ([[5/2]])²) = 2√(16 − [[25/4]]) = 2√([[39/4]]) = √39 cm\n(c) 2√(4² − ([[2/2]])²) = 2√(16 − 1) = 2√15 cm\n(d) 2√(9² − ([[4/2]])²) = 2√(81 − 4) = 2√77 cm\n(a) √95 cm, (b) √39 cm, (c) 2√15 cm, (d) 2√77 cm",
+                "a": "Distance between chords = 2√(r² − ([[α/2]])²)\n(a) 2√(6² − ([[7/2]])²) = 2√(36 − [[49/4]])\n2√(6² − ([[7/2]])²) = 2√([[95/4]])\n2√(6² − ([[7/2]])²) = √95 cm\n(b) 2√(4² − ([[5/2]])²) = 2√(16 − [[25/4]])\n2√(4² − ([[5/2]])²) = 2√([[39/4]])\n2√(4² − ([[5/2]])²) = √39 cm\n(c) 2√(4² − ([[2/2]])²) = 2√(16 − 1)\n2√(4² − ([[2/2]])²) = 2√15 cm\n(d) 2√(9² − ([[4/2]])²) = 2√(81 − 4)\n2√(9² − ([[4/2]])²) = 2√77 cm\n(a) √95 cm, (b) √39 cm, (c) 2√15 cm, (d) 2√77 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -13092,7 +13092,7 @@ var STUDY = {
                 "q": "Find distance between two congruent chords of length α in a circle of radius r for the following given values of α and r: (a) α = 7cm and r = 6cm (b) α = 5cm and r = 4cm (c) α = 2cm and r = 4cm (d) α = 4cm and r = 9cm."
               },
               {
-                "a": "(a) 6 cm chord: √(5² − 3²) = √(25 − 9) = √16 = 4 cm\n8 cm chord: √(5² − 4²) = √(25 − 16) = √9 = 3 cm\n4 + 3 = 7 cm\n(b) 3 cm chord: √(14² − ([[3/2]])²) = √(196 − [[9/4]]) = √([[775/4]]) = [[5√31/2]] ≈ 13.919 cm\n6 cm chord: √(14² − 3²) = √(196 − 9) = √187 ≈ 13.675 cm\n[[5√31/2]] + √187 ≈ 13.919 + 13.675 = 27.594 cm\n(a) 7 cm, (b) 27.594 cm",
+                "a": "(a) 6 cm chord: √(5² − 3²) = √(25 − 9)\n√(5² − 3²) = √16\n√(5² − 3²) = 4 cm\n8 cm chord: √(5² − 4²) = √(25 − 16)\n√(5² − 4²) = √9\n√(5² − 4²) = 3 cm\n4 + 3 = 7 cm\n(b) 3 cm chord: √(14² − ([[3/2]])²) = √(196 − [[9/4]])\n√(14² − ([[3/2]])²) = √([[775/4]])\n√(14² − ([[3/2]])²) = [[5√31/2]] ≈ 13.919 cm\n6 cm chord: √(14² − 3²) = √(196 − 9)\n√(14² − 3²) = √187 ≈ 13.675 cm\n[[5√31/2]] + √187 ≈ 13.919 + 13.675 = 27.594 cm\n(a) 7 cm, (b) 27.594 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -13133,7 +13133,7 @@ var STUDY = {
                 "q": "Find distance between two parallel chords of length α and β in a circle of radius r for the following given values of α, β and r: (a) α = 6cm, β = 8cm, r = 5cm (b) α = 3cm, β = 6cm, r = 14cm."
               },
               {
-                "a": "mAP × mPB = mCP × mPD\n(a) x × x = 2 × 10\nx² = 20\nx = √20 = 2√5\n(b) 4 × x = 3 × 8\n4x = 24\nx = 6\n(c) x × 12 = 3 × 20\n12x = 60\nx = 5\n(d) 4.5 × 12 = 5 × x\n54 = 5x\nx = [[54/5]] = 10.8\n(e) x × x = 17 × 12\nx² = 204\nx = √204 = 2√51\n(f) 7.2 × x = 4.5 × 9.6\n7.2x = 43.2\nx = [[43.2/7.2]] = 6\n(a) 2√5, (b) 6, (c) 5, (d) 10.8, (e) 2√51, (f) 6",
+                "a": "mAP × mPB = mCP × mPD\n(a) x × x = 2 × 10\nx² = 20\nx = √20\nx = 2√5\n(b) 4 × x = 3 × 8\n4x = 24\nx = 6\n(c) x × 12 = 3 × 20\n12x = 60\nx = 5\n(d) 4.5 × 12 = 5 × x\n54 = 5x\nx = [[54/5]]\nx = 10.8\n(e) x × x = 17 × 12\nx² = 204\nx = √204\nx = 2√51\n(f) 7.2 × x = 4.5 × 9.6\n7.2x = 43.2\nx = [[43.2/7.2]]\nx = 6\n(a) 2√5, (b) 6, (c) 5, (d) 10.8, (e) 2√51, (f) 6",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -13368,7 +13368,7 @@ var STUDY = {
                 "q": "Show that a rectangle circumscribing a circle must be a square."
               },
               {
-                "a": "OA = 2.5 cm\nOP = 5 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = 2.5² + AP²\nAP² = 25 − 6.25 = 18.75\nAP = [[(5√3)/2]] cm\nAP ≈ 4.33 cm\nchord = 2 × AP = 5√3 cm\nchord ≈ 8.66 cm",
+                "a": "OA = 2.5 cm\nOP = 5 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = 2.5² + AP²\nAP² = 25 − 6.25\nAP² = 18.75\nAP = [[(5√3)/2]] cm\nAP ≈ 4.33 cm\nchord = 2 × AP\nchord = 5√3 cm\nchord ≈ 8.66 cm",
                 "dq": {
                   "els": [
                     {
@@ -13441,7 +13441,7 @@ var STUDY = {
                 "q": "The diameters of two concentric circles are 10cm and 5cm, respectively. Find length of the tangent segment to the smaller circle to a point on it touching outer circle. Also find length of chord of outer circle which touches inner circle."
               },
               {
-                "a": "OP = 5 cm\nAP = 4 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = OA² + 4²\nOA² = 25 − 16 = 9\nOA = 3 cm\ndiameter = 2 × 3 = 6 cm\ncircumference = 2πr = 2π × 3 = 6π ≈ 18.8495 cm\narea = πr² = π × 3² = 9π ≈ 28.2743 cm²",
+                "a": "OP = 5 cm\nAP = 4 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = OA² + 4²\nOA² = 25 − 16\nOA² = 9\nOA = 3 cm\ndiameter = 2 × 3\ndiameter = 6 cm\ncircumference = 2πr\ncircumference = 2π × 3\ncircumference = 6π ≈ 18.8495 cm\narea = πr²\narea = π × 3²\narea = 9π ≈ 28.2743 cm²",
                 "dq": {
                   "els": [
                     {
@@ -13523,7 +13523,7 @@ var STUDY = {
                 "q": "The length of tangent segment from a point at a distance of 5cm from centre of the circle is 4cm. Find diameter, circumference and area of the circle?"
               },
               {
-                "a": "OA = 7 cm\nOP = 25 cm\nOA ⊥ AP\nOP² = OA² + AP²\n25² = 7² + AP²\nAP² = 625 − 49 = 576\nAP = √576 = 24 cm",
+                "a": "OA = 7 cm\nOP = 25 cm\nOA ⊥ AP\nOP² = OA² + AP²\n25² = 7² + AP²\nAP² = 625 − 49\nAP² = 576\nAP = √576\nAP = 24 cm",
                 "dq": {
                   "els": [
                     {
@@ -13605,7 +13605,7 @@ var STUDY = {
                 "q": "Find length of the tangent segment to a circle of radius 7cm from a point at a distance of 25cm from the centre of circle."
               },
               {
-                "a": "OA = 3 cm\nAP = 10 cm\nOA ⊥ AP\nOP² = OA² + AP²\nOP² = 3² + 10² = 9 + 100 = 109\nOP = √109 cm\nOP ≈ 10.44 cm",
+                "a": "OA = 3 cm\nAP = 10 cm\nOA ⊥ AP\nOP² = OA² + AP²\nOP² = 3² + 10²\nOP² = 9 + 100\nOP² = 109\nOP = √109 cm\nOP ≈ 10.44 cm",
                 "dq": {
                   "els": [
                     {
@@ -13888,7 +13888,7 @@ var STUDY = {
                 "q": "Show that if two tangents to a circle are not parallel, then the points of tangency are end points of a chord of the circle."
               },
               {
-                "a": "(a) x² = 4 × 9 = 36\nx = 6\n(b) whole secant = 12 + 10 = 22\nx² = 12 × 22 = 264\nx = √264 = 2√66\n(c) 7 × 11 = 11 × x\n77 = 11x\nx = 7\n(d) 11(11 + x) = 11 × 22\n11 + x = 22\nx = 11\n(e) 5 × 11 = 7 × x\n55 = 7x\nx = [[55/7]]\n(f) 8 × 16 = 9 × x\n128 = 9x\nx = [[128/9]] ≈ 14.22\n(g) 10(10 + x) = 11 × 13 = 143\n10 + x = 14.3\nx = 4.3\n(h) x ≈ 18.8714",
+                "a": "(a) x² = 4 × 9\nx² = 36\nx = 6\n(b) whole secant = 12 + 10\nwhole secant = 22\nx² = 12 × 22\nx² = 264\nx = √264\nx = 2√66\n(c) 7 × 11 = 11 × x\n77 = 11x\nx = 7\n(d) 11(11 + x) = 11 × 22\n11 + x = 22\nx = 11\n(e) 5 × 11 = 7 × x\n55 = 7x\nx = [[55/7]]\n(f) 8 × 16 = 9 × x\n128 = 9x\nx = [[128/9]] ≈ 14.22\n(g) 10(10 + x) = 11 × 13\n10(10 + x) = 143\n10 + x = 14.3\nx = 4.3\n(h) x ≈ 18.8714",
                 "dq": {
                   "els": [
                     {
@@ -13967,7 +13967,7 @@ var STUDY = {
                 "q": "Find unknown x in the following figures. (a) A tangent of length x and a secant from an external point P; the secant has external part 4cm and whole length 9cm. (b) A tangent of length x and a secant from P; the secant has external part 12cm and internal part 10cm. (c) Two secants from P: one has external part 7cm and whole length 11cm, the other has external part 11cm and whole length x. (d) Two secants from P: one has external part 11cm and internal part x, the other has external part 11cm and internal part 11cm. (e) Two secants from P: one has external part 5cm and whole length 11cm, the other has external part 7cm and whole length x. (f) Two secants from P: one has external part 8cm and whole length 16cm, the other has external part 9cm and whole length x. (g) Two secants from P: one has external part 10cm and internal part x, the other has external part 11cm and internal part 2cm. (h) Two secants from P; the book's answer is x ≈ 18.8714."
               },
               {
-                "a": "(a) x² = 3 × 12 = 36\nx = 6\n(b) 8(8 + x) = 6 × 16 = 96\n8 + x = 12\nx = 4\n(c) x² = 3 × 12 = 36\nx = 6\n(d) whole secant = 9x + 3x = 12x\n12² = 9x × 12x = 108x²\nx² = [[144/108]] = [[4/3]]\nx = [[2/√3]] ≈ 1.1547\n(e) whole secant = 5 + 3x\n10² = 5(5 + 3x)\n100 = 25 + 15x\n15x = 75\nx = 5\n(f) x = 13",
+                "a": "(a) x² = 3 × 12\nx² = 36\nx = 6\n(b) 8(8 + x) = 6 × 16\n8(8 + x) = 96\n8 + x = 12\nx = 4\n(c) x² = 3 × 12\nx² = 36\nx = 6\n(d) whole secant = 9x + 3x\nwhole secant = 12x\n12² = 9x × 12x\n12² = 108x²\nx² = [[144/108]]\nx² = [[4/3]]\nx = [[2/√3]] ≈ 1.1547\n(e) whole secant = 5 + 3x\n10² = 5(5 + 3x)\n100 = 25 + 15x\n15x = 75\nx = 5\n(f) x = 13",
                 "dq": {
                   "els": [
                     {
@@ -14063,7 +14063,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "OO′ = r + r′\nOB = r\nO′B = OO′ − OB = (r + r′) − r = r′\nB: on both circles",
+                "a": "OO′ = r + r′\nOB = r\nO′B = OO′ − OB\nO′B = (r + r′) − r\nO′B = r′\nB: on both circles",
                 "dq": {
                   "els": [
                     {
@@ -14175,7 +14175,7 @@ var STUDY = {
                 "q": "If perimeter of the triangle with vertices at the centres of three circles is equal to the sum of their diameters, show that the three circles touch in pairs externally."
               },
               {
-                "a": "2r = 12\nr = 6 cm\ncircumference = 2πr = 2π × 6 = 12π\n12π = 12 × ([[22/7]]) = [[264/7]] ≈ 37.7 cm",
+                "a": "2r = 12\nr = 6 cm\ncircumference = 2πr\ncircumference = 2π × 6\ncircumference = 12π\n12π = 12 × ([[22/7]])\n12π = [[264/7]] ≈ 37.7 cm",
                 "dq": {
                   "els": [
                     {
@@ -14229,7 +14229,7 @@ var STUDY = {
                 "q": "If length of segment joining two congruent circles touching externally is 12cm, find their radii and circumferences."
               },
               {
-                "a": "(a) ∠OAP = 90°\n∠OBP = 90°\n∠AOB + ∠OAP + ∠APB + ∠OBP = 360°\n110° + 90° + x + 90° = 360°\nx = 360° − 290° = 70°\n(b) ∠AOB = 360° − 90° − 90° − 80° = 100°\n∠AOP = [[∠AOB/2]] = [[100°/2]] = 50°",
+                "a": "(a) ∠OAP = 90°\n∠OBP = 90°\n∠AOB + ∠OAP + ∠APB + ∠OBP = 360°\n110° + 90° + x + 90° = 360°\nx = 360° − 290°\nx = 70°\n(b) ∠AOB = 360° − 90° − 90° − 80°\n∠AOB = 100°\n∠AOP = [[∠AOB/2]]\n∠AOP = [[100°/2]]\n∠AOP = 50°",
                 "dq": {
                   "els": [
                     {
@@ -14365,7 +14365,7 @@ var STUDY = {
                 "q": "Show that if two circles touch externally, then the point of contact lies on the segment joining their centres."
               },
               {
-                "a": "half of first chord = [[1.4/2]] = 0.7 cm\ndistance of first chord = √(2.5² − 0.7²) = √(6.25 − 0.49) = √5.76 = 2.4 cm\ndistance of second chord = 3.9 − 2.4 = 1.5 cm\nhalf of second chord = √(2.5² − 1.5²) = √(6.25 − 2.25) = √4 = 2 cm\nsecond chord = 2 × 2 = 4 cm",
+                "a": "half of first chord = [[1.4/2]]\nhalf of first chord = 0.7 cm\ndistance of first chord = √(2.5² − 0.7²)\ndistance of first chord = √(6.25 − 0.49)\ndistance of first chord = √5.76\ndistance of first chord = 2.4 cm\ndistance of second chord = 3.9 − 2.4\ndistance of second chord = 1.5 cm\nhalf of second chord = √(2.5² − 1.5²)\nhalf of second chord = √(6.25 − 2.25)\nhalf of second chord = √4\nhalf of second chord = 2 cm\nsecond chord = 2 × 2\nsecond chord = 4 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -14406,7 +14406,7 @@ var STUDY = {
                 "q": "If two chords in a circle of radius 2.5cm are 3.9cm apart, and length of a chord is 1.4cm, then find the length of the other chord."
               },
               {
-                "a": "r1 = 4 cm\nr2 = 5 cm\nr1 + r2 = 9 cm\nr2 + r3 = 5 + r3\nr3 + r1 = r3 + 4\n(r1 + r2) + (r2 + r3) + (r3 + r1) = 2(r1 + r2 + r3) = 35\nr1 + r2 + r3 = [[35/2]] = 17.5\nr3 = 17.5 − 4 − 5 = 8.5 cm",
+                "a": "r1 = 4 cm\nr2 = 5 cm\nr1 + r2 = 9 cm\nr2 + r3 = 5 + r3\nr3 + r1 = r3 + 4\n(r1 + r2) + (r2 + r3) + (r3 + r1) = 2(r1 + r2 + r3)\n(r1 + r2) + (r2 + r3) + (r3 + r1) = 35\nr1 + r2 + r3 = [[35/2]]\nr1 + r2 + r3 = 17.5\nr3 = 17.5 − 4 − 5\nr3 = 8.5 cm",
                 "dq": {
                   "els": [
                     {
@@ -14647,7 +14647,7 @@ var STUDY = {
                 "q": "Prove that in equal circles, equal central angles have equal arcs."
               },
               {
-                "a": "OR = OQ\nm∠OQR = m∠ORQ = 50°\nm∠PQO = m∠OQR = 50°\nm∠PQR = m∠PQO + m∠OQR = 50° + 50° = 100°\n(x + 6y)° + m∠PQR = 180°\nx + 6y + 100 = 180\nx + 6y = 80 ... (1)\nm∠PQR + m∠PSR = 180°\n100 + (3x + 2y) = 180\n3x + 2y = 80 ... (2)\nx = 80 − 6y\n3(80 − 6y) + 2y = 80\n240 − 18y + 2y = 80\n240 − 80 = 16y\n16y = 160\ny = 10\nx = 80 − 6(10) = 80 − 60 = 20",
+                "a": "OR = OQ\nm∠OQR = m∠ORQ = 50°\nm∠PQO = m∠OQR = 50°\nm∠PQR = m∠PQO + m∠OQR\nm∠PQR = 50° + 50°\nm∠PQR = 100°\n(x + 6y)° + m∠PQR = 180°\nx + 6y + 100 = 180\nx + 6y = 80 ... (1)\nm∠PQR + m∠PSR = 180°\n100 + (3x + 2y) = 180\n3x + 2y = 80 ... (2)\nx = 80 − 6y\n3(80 − 6y) + 2y = 80\n240 − 18y + 2y = 80\n240 − 80 = 16y\n16y = 160\ny = 10\nx = 80 − 6(10)\nx = 80 − 60\nx = 20",
                 "dq": {
                   "els": [
                     {
@@ -14760,7 +14760,7 @@ var STUDY = {
                 "q": "In the following figure, O is the centre of the circle. Find the value of x and y.\n[Figure: P, Q, R, S are points on the circle. The radii OR and OQ are drawn. The side PQ is produced beyond Q. The angles marked in the figure are: m∠PSR = (3x + 2y)°, m∠ORQ = 50°, m∠ROQ = 80°, and the exterior angle at Q is (x + 6y)°.]"
               },
               {
-                "a": "m∠QPR + m∠PQR + m∠PRQ = 180°\nm∠QPR + 35° + 31° = 180°\nm∠QPR + 66° = 180°\nm∠QPR = 180° − 66° = 114°\nreflex ∠QOR = 2 × m∠QPR = 2 × 114° = 228°\nm∠QOR = 360° − 228° = 132°\nOQ = OR\nm∠OQR = m∠ORQ\nm∠OQR + m∠ORQ + m∠QOR = 180°\n2(m∠OQR) + 132° = 180°\n2(m∠OQR) = 48°\nm∠OQR = 24°",
+                "a": "m∠QPR + m∠PQR + m∠PRQ = 180°\nm∠QPR + 35° + 31° = 180°\nm∠QPR + 66° = 180°\nm∠QPR = 180° − 66°\nm∠QPR = 114°\nreflex ∠QOR = 2 × m∠QPR\nreflex ∠QOR = 2 × 114°\nreflex ∠QOR = 228°\nm∠QOR = 360° − 228°\nm∠QOR = 132°\nOQ = OR\nm∠OQR = m∠ORQ\nm∠OQR + m∠ORQ + m∠QOR = 180°\n2(m∠OQR) + 132° = 180°\n2(m∠OQR) = 48°\nm∠OQR = 24°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -14808,7 +14808,7 @@ var STUDY = {
                 "q": "In the following figure m∠PQR = 35° and m∠PRQ = 31°. Find m∠QPR and m∠OQR.\n[Figure: P, Q, R are points on the circle with centre O. The chord QR is drawn and the radii OQ and OR are drawn, with O below QR. The angles marked are m∠PQR = 35° and m∠PRQ = 31°.]"
               },
               {
-                "a": "OA = OB\nm∠OAB = m∠OBA\nm∠OAB + m∠OBA + m∠AOB = 180°\n2(m∠OAB) + 120° = 180°\n2(m∠OAB) = 60°\nm∠OAB = 30°\nm∠BAD + m∠BCD = 180°\nm∠BAD + 85° = 180°\nm∠BAD = 180° − 85° = 95°\nm∠OAD = m∠BAD − m∠OAB = 95° − 30° = 65°",
+                "a": "OA = OB\nm∠OAB = m∠OBA\nm∠OAB + m∠OBA + m∠AOB = 180°\n2(m∠OAB) + 120° = 180°\n2(m∠OAB) = 60°\nm∠OAB = 30°\nm∠BAD + m∠BCD = 180°\nm∠BAD + 85° = 180°\nm∠BAD = 180° − 85°\nm∠BAD = 95°\nm∠OAD = m∠BAD − m∠OAB\nm∠OAD = 95° − 30°\nm∠OAD = 65°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -14865,7 +14865,7 @@ var STUDY = {
                 "q": "In the figure O is the center of circle, given that m∠AOB = 120° and m∠BCD = 85°. Find m∠OAD.\n[Figure: ABCD is a cyclic quadrilateral with centre O. The radii OA and OB are drawn. The angles marked are m∠AOB = 120° and m∠BCD = 85°.]"
               },
               {
-                "a": "m∠ADB = 90°\nm∠ABD + m∠BAD + m∠ADB = 180°\nm∠ABD + 30° + 90° = 180°\nm∠ABD + 120° = 180°\nm∠ABD = 180° − 120° = 60°\nm∠ABD + m∠ACD = 180°\n60° + m∠ACD = 180°\nm∠ACD = 180° − 60° = 120°",
+                "a": "m∠ADB = 90°\nm∠ABD + m∠BAD + m∠ADB = 180°\nm∠ABD + 30° + 90° = 180°\nm∠ABD + 120° = 180°\nm∠ABD = 180° − 120°\nm∠ABD = 60°\nm∠ABD + m∠ACD = 180°\n60° + m∠ACD = 180°\nm∠ACD = 180° − 60°\nm∠ACD = 120°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -14939,7 +14939,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "x = m∠ABO\nm∠ACB = 30°\nm∠AOB = 2 × m∠ACB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = x\nx + x + m∠AOB = 180°\n2x + 60° = 180°\n2x = 120°\nx = 60°",
+                "a": "x = m∠ABO\nm∠ACB = 30°\nm∠AOB = 2 × m∠ACB\nm∠AOB = 2 × 30°\nm∠AOB = 60°\nOA = OB\nm∠OAB = m∠OBA = x\nx + x + m∠AOB = 180°\n2x + 60° = 180°\n2x = 120°\nx = 60°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -14987,7 +14987,7 @@ var STUDY = {
                 "q": "In figure 1, point O is the centre of the circle. Find x where m∠C = 30°."
               },
               {
-                "a": "x = m∠PRO\nm∠PQO = 50°\nreflex m∠QOR = 240°\nm∠QOR = 360° − 240° = 120°\nm∠QPR = [[1/2]] × 240° = 120°\nm∠QPR + m∠PQO + m∠QOR + m∠PRO = 360°\n120° + 50° + 120° + x = 360°\n290° + x = 360°\nx = 70°",
+                "a": "x = m∠PRO\nm∠PQO = 50°\nreflex m∠QOR = 240°\nm∠QOR = 360° − 240°\nm∠QOR = 120°\nm∠QPR = [[1/2]] × 240°\nm∠QPR = 120°\nm∠QPR + m∠PQO + m∠QOR + m∠PRO = 360°\n120° + 50° + 120° + x = 360°\n290° + x = 360°\nx = 70°",
                 "dq": {
                   "els": [
                     {
@@ -15081,7 +15081,7 @@ var STUDY = {
                 "q": "In figure 2, point O is the centre of the circle. Find x where m∠Q = 50°."
               },
               {
-                "a": "x = m∠AOB\ny = m∠OAB\nm∠ADB = 30°\nx = m∠AOB = 2 × m∠ADB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = y\ny + y + x = 180°\n2y + 60° = 180°\n2y = 120°\ny = 60°\nx + y = 60° + 60° = 120°",
+                "a": "x = m∠AOB\ny = m∠OAB\nm∠ADB = 30°\nx = m∠AOB\nx = 2 × m∠ADB\nx = 2 × 30°\nx = 60°\nOA = OB\nm∠OAB = m∠OBA = y\ny + y + x = 180°\n2y + 60° = 180°\n2y = 120°\ny = 60°\nx + y = 60° + 60°\nx + y = 120°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -16087,7 +16087,7 @@ var STUDY = {
                 "q": "1. Construct the △ABC and draw its circumcircle in each case.\n(i) mAB = 5.5 cm, mAC = 6 cm and m∠A = 50°\n(ii) mAB = 6 cm, mBC = 4.5 cm and mAC = 5 cm"
               },
               {
-                "a": "(i) PQ = 5 cm\nRP = 5.5 cm\nQR = 6.5 cm\n(ii) PQ = 6 cm\n∠P = 60°\n∠Q = 50°\n∠R = 180° − 60° − 50° = 70°\nPX: bisector of ∠P\nQY: bisector of ∠Q\nO = PX ∩ QY\nOL ⊥ PQ\ncircle: centre O, radius OL",
+                "a": "(i) PQ = 5 cm\nRP = 5.5 cm\nQR = 6.5 cm\n(ii) PQ = 6 cm\n∠P = 60°\n∠Q = 50°\n∠R = 180° − 60° − 50°\n∠R = 70°\nPX: bisector of ∠P\nQY: bisector of ∠Q\nO = PX ∩ QY\nOL ⊥ PQ\ncircle: centre O, radius OL",
                 "da": {
                   "els": [
                     {
@@ -16325,7 +16325,7 @@ var STUDY = {
                 "q": "3. Construct the △XYZ and draw its escribed circle opposite to ∠Y in each case.\n(i) mXY = 4.5 cm, mYZ = 5 cm and m∠Y = 30°\n(ii) mXY = 5.5 cm, mYZ = 6 cm and mXZ = 2.5 cm"
               },
               {
-                "a": "circle: centre O, radius 3.5 cm\n∠AOB = ∠BOC = ∠COA = 120°\ntangent at A ⊥ OA\ntangent at B ⊥ OB\ntangent at C ⊥ OC\nP, Q, R = intersections of tangents\n∠P = ∠Q = ∠R = 180° − 120° = 60°\n△PQR: equilateral",
+                "a": "circle: centre O, radius 3.5 cm\n∠AOB = ∠BOC = ∠COA = 120°\ntangent at A ⊥ OA\ntangent at B ⊥ OB\ntangent at C ⊥ OC\nP, Q, R = intersections of tangents\n∠P = ∠Q\n∠P = ∠R\n∠P = 180° − 120°\n∠P = 60°\n△PQR: equilateral",
                 "da": {
                   "els": [
                     {
@@ -16545,7 +16545,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "circle: centre C, radius 4.2 cm\nAB: diameter\nEF ⊥ AB: diameter\ntangents at A, B, E, F\nP, Q, R, S = intersections\nPQ = QR = RS = SP = 2 × 4.2 = 8.4 cm\n∠P = ∠Q = ∠R = ∠S = 90°\nPQRS: square",
+                "a": "circle: centre C, radius 4.2 cm\nAB: diameter\nEF ⊥ AB: diameter\ntangents at A, B, E, F\nP, Q, R, S = intersections\nPQ = QR\nPQ = RS\nPQ = SP\nPQ = 2 × 4.2\nPQ = 8.4 cm\n∠P = ∠Q = ∠R = ∠S = 90°\nPQRS: square",
                 "da": {
                   "els": [
                     {
@@ -16637,7 +16637,7 @@ var STUDY = {
                 "q": "1. Circumscribe a square about a circle of radius 4.2 cm and with centre at point C."
               },
               {
-                "a": "circle: centre O, radius 3.6 cm\nPR: diameter\nQS ⊥ PR: diameter\nPQ, QR, RS, SP\nPQ = QR = RS = SP\n∠P = ∠Q = ∠R = ∠S = 90°\ndiagonal = 2 × 3.6 = 7.2 cm\nPQRS: square",
+                "a": "circle: centre O, radius 3.6 cm\nPR: diameter\nQS ⊥ PR: diameter\nPQ, QR, RS, SP\nPQ = QR = RS = SP\n∠P = ∠Q = ∠R = ∠S = 90°\ndiagonal = 2 × 3.6\ndiagonal = 7.2 cm\nPQRS: square",
                 "da": {
                   "els": [
                     {
@@ -17225,7 +17225,7 @@ var STUDY = {
                 "q": "5. Draw a circle of radius 3.2 cm with centre P. Draw tangent to the circle from a point Q which is at a distance of 8 cm from P."
               },
               {
-                "a": "(i) central angle = 180° − 50° = 130°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 130°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 130° = 50°\nAP, BP: tangents\n(ii) central angle = 180° − 63° = 117°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 117°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 117° = 63°\nAP, BP: tangents",
+                "a": "(i) central angle = 180° − 50°\ncentral angle = 130°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 130°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 130°\n∠P = 50°\nAP, BP: tangents\n(ii) central angle = 180° − 63°\ncentral angle = 117°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 117°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 117°\n∠P = 63°\nAP, BP: tangents",
                 "da": {
                   "els": [
                     {
@@ -17501,7 +17501,7 @@ var STUDY = {
                 "q": "2. Draw two unequal circles of radii 3.3 cm and 2.1 cm with centres, A and B respectively such that mAB = 8 cm.\n(a) Draw direct common tangents to these circles.\n(b) Draw transverse common tangents to these circles."
               },
               {
-                "a": "(i) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: on AP, PB = 2.2 cm\nAB = 3.8 − 2.2 = 1.6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(ii) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: PB = 2.2 cm\nAB = 3.8 + 2.2 = 6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(iii) AB = 5.6 cm\ncircles: centres A, B, radii 3.8 cm, 2.2 cm\ncircle: centre A, radius 3.8 − 2.2 = 1.6 cm\nO = midpoint of AB\ncircle: centre O, radius AO\nC, D = circle ∩ circle A\nAC\nP = AC ∩ larger circle\nBQ ∥ AP\nPQ\nPQ: tangent",
+                "a": "(i) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: on AP, PB = 2.2 cm\nAB = 3.8 − 2.2\nAB = 1.6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(ii) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: PB = 2.2 cm\nAB = 3.8 + 2.2\nAB = 6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(iii) AB = 5.6 cm\ncircles: centres A, B, radii 3.8 cm, 2.2 cm\ncircle: centre A, radius 3.8 − 2.2 = 1.6 cm\nO = midpoint of AB\ncircle: centre O, radius AO\nC, D = circle ∩ circle A\nAC\nP = AC ∩ larger circle\nBQ ∥ AP\nPQ\nPQ: tangent",
                 "da": {
                   "els": [
                     {
@@ -17795,19 +17795,19 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "1′ = ([[1/60]])°\n1″ = ([[1/3600]])°\n(i) 32° 15′ = 32° + ([[15/60]])° = 32° + 0.25° = 32.25°\n(ii) 10° 30′ = 10° + ([[30/60]])° = 10° + 0.5° = 10.5°\n(iii) 8° 15′ 30″ = 8° + ([[15/60]])° + ([[30/3600]])° = 8° + 0.25° + 0.0083° = 8.2583° ≈ 8.26°\n(iv) 45° 21′ 36″ = 45° + ([[21/60]])° + ([[36/3600]])° = 45° + 0.35° + 0.01° = 45.36°\n(v) 25° 30′ = 25° + ([[30/60]])° = 25° + 0.5° = 25.5°\n(vi) 18° 6′ 21″ = 18° + ([[6/60]])° + ([[21/3600]])° = 18° + 0.1° + 0.0058° = 18.1058° ≈ 18.11°",
+                "a": "1′ = ([[1/60]])°\n1″ = ([[1/3600]])°\n(i) 32° 15′ = 32° + ([[15/60]])°\n32° 15′ = 32° + 0.25°\n32° 15′ = 32.25°\n(ii) 10° 30′ = 10° + ([[30/60]])°\n10° 30′ = 10° + 0.5°\n10° 30′ = 10.5°\n(iii) 8° 15′ 30″ = 8° + ([[15/60]])° + ([[30/3600]])°\n8° 15′ 30″ = 8° + 0.25° + 0.0083°\n8° 15′ 30″ = 8.2583° ≈ 8.26°\n(iv) 45° 21′ 36″ = 45° + ([[21/60]])° + ([[36/3600]])°\n45° 21′ 36″ = 45° + 0.35° + 0.01°\n45° 21′ 36″ = 45.36°\n(v) 25° 30′ = 25° + ([[30/60]])°\n25° 30′ = 25° + 0.5°\n25° 30′ = 25.5°\n(vi) 18° 6′ 21″ = 18° + ([[6/60]])° + ([[21/3600]])°\n18° 6′ 21″ = 18° + 0.1° + 0.0058°\n18° 6′ 21″ = 18.1058° ≈ 18.11°",
                 "q": "1. Convert the following into degree, and write in decimal form.\n(i) 32° 15′ (ii) 10° 30′ (iii) 8° 15′ 30″ (iv) 45° 21′ 36″ (v) 25° 30′ (vi) 18° 6′ 21″"
               },
               {
-                "a": "(i) 32.25° = 32° + (0.25 × 60)′ = 32° + 15′ = 32°15′\n(ii) 47.36° = 47° + (0.36 × 60)′ = 47° + 21.6′ = 47°21′ + (0.6 × 60)″ = 47°21′36″\n(iii) 57.325° = 57° + (0.325 × 60)′ = 57° + 19.5′ = 57°19′ + (0.5 × 60)″ = 57°19′30″\n(iv) −67.58° = −(67° + 0.58°) = −(67° + (0.58 × 60)′) = −(67° + 34.8′) = −(67°34′ + (0.8 × 60)″) = −(67°34′48″)\n(v) 22.5° = 22° + (0.5 × 60)′ = 22° + 30′ = 22°30′\n(vi) 225.60° = 225° + (0.60 × 60)′ = 225° + 36′ = 225°36′",
+                "a": "(i) 32.25° = 32° + (0.25 × 60)′\n32.25° = 32° + 15′\n32.25° = 32°15′\n(ii) 47.36° = 47° + (0.36 × 60)′\n47.36° = 47° + 21.6′\n47.36° = 47°21′ + (0.6 × 60)″\n47.36° = 47°21′36″\n(iii) 57.325° = 57° + (0.325 × 60)′\n57.325° = 57° + 19.5′\n57.325° = 57°19′ + (0.5 × 60)″\n57.325° = 57°19′30″\n(iv) −67.58° = −(67° + 0.58°)\n−67.58° = −(67° + (0.58 × 60)′)\n−67.58° = −(67° + 34.8′)\n−67.58° = −(67°34′ + (0.8 × 60)″)\n−67.58° = −(67°34′48″)\n(v) 22.5° = 22° + (0.5 × 60)′\n22.5° = 22° + 30′\n22.5° = 22°30′\n(vi) 225.60° = 225° + (0.60 × 60)′\n225.60° = 225° + 36′\n225.60° = 225°36′",
                 "q": "2. Convert the following angles into D° M′ S″ form.\n(i) 32.25° (ii) 47.36° (iii) 57.325° (iv) −67.58° (v) 22.5° (vi) 225.60°"
               },
               {
-                "a": "1 radian = ([[180/π]])°\n(i) [[π/4]] radians = ([[π/4]]) × ([[180/π]])° = [[180°/4]] = 45°\n(ii) [[π/3]] radians = ([[π/3]]) × ([[180/π]])° = [[180°/3]] = 60°\n(iii) [[−3π/4]] radians = ([[−3π/4]]) × ([[180/π]])° = [[−(3 × 180°)/4]] = −135°\n(iv) 3 radians = 3 × ([[180/π]])° = [[540°/π]] ≈ 171.89°\n(v) [[3/π]] radians = ([[3/π]]) × ([[180/π]])° = [[540°/π²]] ≈ 54.71°\n(vi) 4.5 radians = 4.5 × ([[180/π]])° = [[810°/π]] ≈ 257.83°",
+                "a": "1 radian = ([[180/π]])°\n(i) [[π/4]] radians = ([[π/4]]) × ([[180/π]])°\n[[π/4]] radians = [[180°/4]]\n[[π/4]] radians = 45°\n(ii) [[π/3]] radians = ([[π/3]]) × ([[180/π]])°\n[[π/3]] radians = [[180°/3]]\n[[π/3]] radians = 60°\n(iii) [[−3π/4]] radians = ([[−3π/4]]) × ([[180/π]])°\n[[−3π/4]] radians = [[−(3 × 180°)/4]]\n[[−3π/4]] radians = −135°\n(iv) 3 radians = 3 × ([[180/π]])°\n3 radians = [[540°/π]] ≈ 171.89°\n(v) [[3/π]] radians = ([[3/π]]) × ([[180/π]])°\n[[3/π]] radians = [[540°/π²]] ≈ 54.71°\n(vi) 4.5 radians = 4.5 × ([[180/π]])°\n4.5 radians = [[810°/π]] ≈ 257.83°",
                 "q": "3. Express the following angles into degree measures.\n(i) [[π/4]] radians (ii) [[π/3]] radians (iii) [[−3π/4]] radians (iv) 3 radian (v) [[3/π]] radians (vi) 4.5 radians"
               },
               {
-                "a": "1° = ([[π/180]]) radians\n(i) 30° = 30 × ([[π/180]]) radians = [[π/6]] radians\n(ii) 45° = 45 × ([[π/180]]) radians = [[π/4]] radians\n(iii) 60° = 60 × ([[π/180]]) radians = [[π/3]] radians\n(iv) (22½)° = ([[45/2]])° = ([[45/2]]) × ([[π/180]]) radians = [[π/8]] radians\n(v) −225° = −225 × ([[π/180]]) radians = [[−5π/4]] radians\n(vi) 60° 35′ 48″ = 60° + ([[35/60]])° + ([[48/3600]])° = 60° + 0.5833° + 0.0133° = 60.5967°\n60.5967° = 60.5967 × ([[π/180]]) radians ≈ 1.06 radians",
+                "a": "1° = ([[π/180]]) radians\n(i) 30° = 30 × ([[π/180]]) radians\n30° = [[π/6]] radians\n(ii) 45° = 45 × ([[π/180]]) radians\n45° = [[π/4]] radians\n(iii) 60° = 60 × ([[π/180]]) radians\n60° = [[π/3]] radians\n(iv) (22½)° = ([[45/2]])°\n(22½)° = ([[45/2]]) × ([[π/180]]) radians\n(22½)° = [[π/8]] radians\n(v) −225° = −225 × ([[π/180]]) radians\n−225° = [[−5π/4]] radians\n(vi) 60° 35′ 48″ = 60° + ([[35/60]])° + ([[48/3600]])°\n60° 35′ 48″ = 60° + 0.5833° + 0.0133°\n60° 35′ 48″ = 60.5967°\n60.5967° = 60.5967 × ([[π/180]]) radians ≈ 1.06 radians",
                 "q": "4. Convert the following angles to radian measures.\n(i) 30° (ii) 45° (iii) 60° (iv) (22½)° (v) −225° (vi) 60° 35′ 48″"
               }
             ],
@@ -17816,23 +17816,23 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "θ = [[l/r]]\n(i) θ = [[20/5]] = 4 radians\n(ii) θ = [[30.2/2]] = 15.1 radians\n(iii) θ = [[6/2.87]] = 2.09 radians\n(iv) θ = [[4.5/2.5]] = 1.8 radians",
+                "a": "θ = [[l/r]]\n(i) θ = [[20/5]]\nθ = 4 radians\n(ii) θ = [[30.2/2]]\nθ = 15.1 radians\n(iii) θ = [[6/2.87]]\nθ = 2.09 radians\n(iv) θ = [[4.5/2.5]]\nθ = 1.8 radians",
                 "q": "1. Find θ, if\n(i) l = 20cm and r = 5cm (ii) l = 30.2cm and r = 2cm (iii) l = 6cm and r = 2.87cm (iv) l = 4.5cm and r = 2.5cm"
               },
               {
-                "a": "(i) l = rθ = 1.01 × 2.1 = 2.121 cm ≈ 2.12 cm\n(ii) l = rθ = 5.1 × 2 = 10.2 cm\n(iii) θ = 30° = 30 × ([[π/180]]) = [[π/6]] radians\nl = rθ = 6 × ([[π/6]]) = π cm ≈ 3.14 cm\n(iv) θ = 60° 30′ = 60° + ([[30/60]])° = 60.5° = 60.5 × ([[π/180]]) radians ≈ 1.056 radians\nl = rθ = 15 × 1.056 ≈ 15.84 cm",
+                "a": "(i) l = rθ\nl = 1.01 × 2.1\nl = 2.121 cm ≈ 2.12 cm\n(ii) l = rθ\nl = 5.1 × 2\nl = 10.2 cm\n(iii) θ = 30°\nθ = 30 × ([[π/180]])\nθ = [[π/6]] radians\nl = rθ\nl = 6 × ([[π/6]])\nl = π cm ≈ 3.14 cm\n(iv) θ = 60° 30′\nθ = 60° + ([[30/60]])°\nθ = 60.5°\nθ = 60.5 × ([[π/180]]) radians ≈ 1.056 radians\nl = rθ\nl = 15 × 1.056 ≈ 15.84 cm",
                 "q": "2. Find l, if\n(i) r = 1.01cm and θ = 2.1 radian (ii) r = 5.1cm and θ = 2 radian (iii) r = 6cm and θ = 30° (iv) r = 15cm and θ = 60° 30′"
               },
               {
-                "a": "r = [[l/θ]]\n(i) θ = 60° = [[π/3]] radians\nr = 2 ÷ ([[π/3]]) = [[6/π]] ≈ 1.91 m\n(ii) r = ([[7/4]]) ÷ 3.5 = [[1.75/3.5]] = 0.5 m\n(iii) r = 4 ÷ ([[1/4]]) = 4 × 4 = 16 cm\n(iv) θ = 180° = π radians\nr = [[15.4/π]] ≈ 4.9 cm",
+                "a": "r = [[l/θ]]\n(i) θ = 60°\nθ = [[π/3]] radians\nr = 2 ÷ ([[π/3]])\nr = [[6/π]] ≈ 1.91 m\n(ii) r = ([[7/4]]) ÷ 3.5\nr = [[1.75/3.5]]\nr = 0.5 m\n(iii) r = 4 ÷ ([[1/4]])\nr = 4 × 4\nr = 16 cm\n(iv) θ = 180°\nθ = π radians\nr = [[15.4/π]] ≈ 4.9 cm",
                 "q": "3. Find r, if\n(i) θ = 60° and l = 2m (ii) θ = 3.5 radians and l = [[7/4]] m (iii) θ = [[1/4]] radians and l = 4cm (iv) θ = 180° and l = 15.4cm"
               },
               {
-                "a": "r = 1\nl = rθ = θ\n(i) θ = 30° = [[π/6]] radians\nl = [[π/6]] ≈ 0.52 units\n(ii) θ = 45° = [[π/4]] radians\nl = [[π/4]] ≈ 0.79 units\n(iii) θ = 60° = [[π/3]] radians\nl = [[π/3]] ≈ 1.05 units\n(iv) θ = 90° = [[π/2]] radians\nl = [[π/2]] ≈ 1.57 units",
+                "a": "r = 1\nl = rθ\nl = θ\n(i) θ = 30°\nθ = [[π/6]] radians\nl = [[π/6]] ≈ 0.52 units\n(ii) θ = 45°\nθ = [[π/4]] radians\nl = [[π/4]] ≈ 0.79 units\n(iii) θ = 60°\nθ = [[π/3]] radians\nl = [[π/3]] ≈ 1.05 units\n(iv) θ = 90°\nθ = [[π/2]] radians\nl = [[π/2]] ≈ 1.57 units",
                 "q": "4. Find the arc length of a unit circle, corresponding to the central angle measuring.\n(i) 30° (ii) 45° (iii) 60° (iv) 90°"
               },
               {
-                "a": "r = 5 cm\nθ = [[π/6]] radians\n(i) l = rθ = 5 × ([[π/6]]) = [[5π/6]] ≈ 2.62 cm\n(ii) area = ([[1/2]]) r²θ = ([[1/2]]) × (5)² × ([[π/6]]) = [[25π/12]] ≈ 6.55 cm²\narea = ([[1/2]]) r l = ([[1/2]]) × 5 × 2.62 = 6.55 cm²",
+                "a": "r = 5 cm\nθ = [[π/6]] radians\n(i) l = rθ\nl = 5 × ([[π/6]])\nl = [[5π/6]] ≈ 2.62 cm\n(ii) area = ([[1/2]]) r²θ\narea = ([[1/2]]) × (5)² × ([[π/6]])\narea = [[25π/12]] ≈ 6.55 cm²\narea = ([[1/2]]) r l\narea = ([[1/2]]) × 5 × 2.62\narea = 6.55 cm²",
                 "da": {
                   "els": [
                     {
@@ -17895,11 +17895,11 @@ var STUDY = {
                 "q": "5. The arc of a circle subtends an angle of [[π/6]] radians at the centre. The radius of a circle is 5cm, find;\n(i) length of an arc (ii) area of a circular sector"
               },
               {
-                "a": "r = 10 cm\n3.5 revolutions = 3.5 × 2π = 7π radians\nθ = 7π radians\nl = rθ = 10 × 7π = 70π cm ≈ 219.9 cm ≈ 2.2 m",
+                "a": "r = 10 cm\n3.5 revolutions = 3.5 × 2π\n3.5 revolutions = 7π radians\nθ = 7π radians\nl = rθ\nl = 10 × 7π\nl = 70π cm ≈ 219.9 cm ≈ 2.2 m",
                 "q": "6. A point is moving on the circle of radius 10cm. If it makes 3.5 revolutions, find the distance travelled by the point."
               },
               {
-                "a": "r = 4 cm\nθ = [[π/4]] radians\narea = ([[1/2]]) r²θ = ([[1/2]]) × (4)² × ([[π/4]]) = ([[1/2]]) × 16 × ([[π/4]]) = 2π cm² ≈ 6.28 cm²",
+                "a": "r = 4 cm\nθ = [[π/4]] radians\narea = ([[1/2]]) r²θ\narea = ([[1/2]]) × (4)² × ([[π/4]])\narea = ([[1/2]]) × 16 × ([[π/4]])\narea = 2π cm² ≈ 6.28 cm²",
                 "da": {
                   "els": [
                     {
@@ -17962,15 +17962,15 @@ var STUDY = {
                 "q": "7. Find the area of the sector with central angle of [[π/4]] radian in circle of radius 4cm."
               },
               {
-                "a": "d = 21 cm\nr = [[d/2]] = 10.5 cm = 0.105 m\nv = [[5040/60]] = 84 [[m/s]]\nl = 84 m\nθ = [[l/r]] = [[84/0.105]] = 800 radians",
+                "a": "d = 21 cm\nr = [[d/2]]\nr = 10.5 cm\nr = 0.105 m\nv = [[5040/60]]\nv = 84 [[m/s]]\nl = 84 m\nθ = [[l/r]]\nθ = [[84/0.105]]\nθ = 800 radians",
                 "q": "8. If a point on the rim of a 21cm diameter fly wheel travels 5040 meters per minute through, how many radian does the wheel turn in a second?"
               },
               {
-                "a": "r = 2l\nθ = [[l/r]] = [[l/(2l)]] = [[1/2]] radian",
+                "a": "r = 2l\nθ = [[l/r]]\nθ = [[l/(2l)]]\nθ = [[1/2]] radian",
                 "q": "9. A car is running on a circular path of radius equal to double the arc of the circle travelled by the car. Find the angle subtended by the arc at the centre of the circular path."
               },
               {
-                "a": "r = 12 cm\nθ = 84°\nθ = 84 × ([[π/180]]) = [[7π/15]] radians ≈ 1.466 radians\nl = rθ = 12 × 1.466 ≈ 17.6 cm\narea = ([[1/2]]) r l = ([[1/2]]) × 12 × 17.6 = 105.6 cm²\narea = ([[1/2]]) r²θ = ([[1/2]]) × 144 × 1.466 ≈ 105.6 cm²",
+                "a": "r = 12 cm\nθ = 84°\nθ = 84 × ([[π/180]])\nθ = [[7π/15]] radians ≈ 1.466 radians\nl = rθ\nl = 12 × 1.466 ≈ 17.6 cm\narea = ([[1/2]]) r l\narea = ([[1/2]]) × 12 × 17.6\narea = 105.6 cm²\narea = ([[1/2]]) r²θ\narea = ([[1/2]]) × 144 × 1.466 ≈ 105.6 cm²",
                 "da": {
                   "els": [
                     {
@@ -18042,7 +18042,7 @@ var STUDY = {
                 "q": "1. Find coterminal angles of the following angles.\n(i) 55° (ii) [[π/6]] (iii) −45° (iv) [[−3π/4]]"
               },
               {
-                "a": "(i) [[8π/5]] = [[(8 × 180°)/5]] = 288°\n270° < 288° < 360°\nQ4\n(ii) 75°\n0° < 75° < 90°\nQ1\n(iii) −818° + 720° = −98°\n−98° + 360° = 262°\n180° < 262° < 270°\nQ3\n(iv) 1090° − 1080° = 10°\n0° < 10° < 90°\nQ1\n(v) [[7π/6]] = [[(7 × 180°)/6]] = 210°\n180° < 210° < 270°\nQ3\n(vi) [[−5π/4]] = −225°\n−225° + 360° = 135°\n90° < 135° < 180°\nQ2",
+                "a": "(i) [[8π/5]] = [[(8 × 180°)/5]]\n[[8π/5]] = 288°\n270° < 288° < 360°\nQ4\n(ii) 75°\n0° < 75° < 90°\nQ1\n(iii) −818° + 720° = −98°\n−98° + 360° = 262°\n180° < 262° < 270°\nQ3\n(iv) 1090° − 1080° = 10°\n0° < 10° < 90°\nQ1\n(v) [[7π/6]] = [[(7 × 180°)/6]]\n[[7π/6]] = 210°\n180° < 210° < 270°\nQ3\n(vi) [[−5π/4]] = −225°\n−225° + 360° = 135°\n90° < 135° < 180°\nQ2",
                 "dq": {
                   "els": [
                     {
@@ -18243,15 +18243,15 @@ var STUDY = {
                 "q": "4. In which quadrant does terminal side of angle θ lie if:\n(i) cosθ < 0 and sinθ > 0 (ii) tanθ > 0 and cosθ < 0 (iii) sinθ < 0 and secθ < 0 (iv) cotθ > 0 and secθ < 0 (v) cosθ < 0 and tanθ < 0 (vi) 0 < cotθ < 1"
               },
               {
-                "a": "[[π/2]] < θ < π: Q2\nsin²θ + cos²θ = 1\nsin²θ = 1 − cos²θ = 1 − ([[−3/5]])² = 1 − [[9/25]] = [[16/25]]\nsinθ = √([[16/25]]) = [[4/5]]\ncosθ = [[−3/5]]\ntanθ = [[sinθ/cosθ]] = [[−4/3]]\ncotθ = [[1/tanθ]] = [[−3/4]]\nsecθ = [[1/cosθ]] = [[−5/3]]\ncosecθ = [[1/sinθ]] = [[5/4]]",
+                "a": "[[π/2]] < θ < π: Q2\nsin²θ + cos²θ = 1\nsin²θ = 1 − cos²θ\nsin²θ = 1 − ([[−3/5]])²\nsin²θ = 1 − [[9/25]]\nsin²θ = [[16/25]]\nsinθ = √([[16/25]])\nsinθ = [[4/5]]\ncosθ = [[−3/5]]\ntanθ = [[sinθ/cosθ]]\ntanθ = [[−4/3]]\ncotθ = [[1/tanθ]]\ncotθ = [[−3/4]]\nsecθ = [[1/cosθ]]\nsecθ = [[−5/3]]\ncosecθ = [[1/sinθ]]\ncosecθ = [[5/4]]",
                 "q": "5. If cosθ = [[−3/5]] and [[π/2]] < θ < π, then find the remaining trigonometric ratios."
               },
               {
-                "a": "(i) sinθ = [[√3/2]]: Q2\ncos²θ = 1 − sin²θ = 1 − [[3/4]] = [[1/4]]\ncosθ = [[−1/2]]\ntanθ = [[sinθ/cosθ]] = −√3\ncotθ = [[−1/√3]]\nsecθ = [[1/cosθ]] = −2\ncosecθ = [[1/sinθ]] = [[2/√3]]\n(ii) cosθ = [[2/3]]: Q4\nsin²θ = 1 − cos²θ = 1 − [[4/9]] = [[5/9]]\nsinθ = [[−√5/3]]\ntanθ = [[sinθ/cosθ]] = [[−√5/2]]\ncotθ = [[−2/√5]]\nsecθ = [[1/cosθ]] = [[3/2]]\ncosecθ = [[1/sinθ]] = [[−3/√5]]\n(iii) tanθ = [[−1/2]]: Q2\n[[sinθ/cosθ]] = [[−1/2]]\ncosθ = −2 sinθ\nsin²θ + cos²θ = 1\nsin²θ + 4 sin²θ = 1\n5 sin²θ = 1\nsinθ = [[1/√5]]\ncosθ = [[−2/√5]]\ncotθ = [[1/tanθ]] = −2\ncosecθ = [[1/sinθ]] = √5\nsecθ = [[1/cosθ]] = [[−√5/2]]\n(iv) secθ = √2\ncosecθ = √2: Q1\ncosθ = [[1/√2]]\nsinθ = [[1/√2]]\ntanθ = [[sinθ/cosθ]] = 1\ncotθ = 1\n(v) cosθ = [[1/2]]\ntanθ > 0: Q1\nsin²θ = 1 − cos²θ = 1 − [[1/4]] = [[3/4]]\nsinθ = [[√3/2]]\ntanθ = [[sinθ/cosθ]] = √3\ncotθ = [[1/√3]]\nsecθ = [[1/cosθ]] = 2\ncosecθ = [[1/sinθ]] = [[2/√3]]",
+                "a": "(i) sinθ = [[√3/2]]: Q2\ncos²θ = 1 − sin²θ\ncos²θ = 1 − [[3/4]]\ncos²θ = [[1/4]]\ncosθ = [[−1/2]]\ntanθ = [[sinθ/cosθ]]\ntanθ = −√3\ncotθ = [[−1/√3]]\nsecθ = [[1/cosθ]]\nsecθ = −2\ncosecθ = [[1/sinθ]]\ncosecθ = [[2/√3]]\n(ii) cosθ = [[2/3]]: Q4\nsin²θ = 1 − cos²θ\nsin²θ = 1 − [[4/9]]\nsin²θ = [[5/9]]\nsinθ = [[−√5/3]]\ntanθ = [[sinθ/cosθ]]\ntanθ = [[−√5/2]]\ncotθ = [[−2/√5]]\nsecθ = [[1/cosθ]]\nsecθ = [[3/2]]\ncosecθ = [[1/sinθ]]\ncosecθ = [[−3/√5]]\n(iii) tanθ = [[−1/2]]: Q2\n[[sinθ/cosθ]] = [[−1/2]]\ncosθ = −2 sinθ\nsin²θ + cos²θ = 1\nsin²θ + 4 sin²θ = 1\n5 sin²θ = 1\nsinθ = [[1/√5]]\ncosθ = [[−2/√5]]\ncotθ = [[1/tanθ]]\ncotθ = −2\ncosecθ = [[1/sinθ]]\ncosecθ = √5\nsecθ = [[1/cosθ]]\nsecθ = [[−√5/2]]\n(iv) secθ = √2\ncosecθ = √2: Q1\ncosθ = [[1/√2]]\nsinθ = [[1/√2]]\ntanθ = [[sinθ/cosθ]]\ntanθ = 1\ncotθ = 1\n(v) cosθ = [[1/2]]\ntanθ > 0: Q1\nsin²θ = 1 − cos²θ\nsin²θ = 1 − [[1/4]]\nsin²θ = [[3/4]]\nsinθ = [[√3/2]]\ntanθ = [[sinθ/cosθ]]\ntanθ = √3\ncotθ = [[1/√3]]\nsecθ = [[1/cosθ]]\nsecθ = 2\ncosecθ = [[1/sinθ]]\ncosecθ = [[2/√3]]",
                 "q": "6. Find remaining trigonometric [[functions/ratios]], if:\n(i) sinθ = [[√3/2]] and θ lies in second quadrant (ii) cosθ = [[2/3]] and θ lies in fourth quadrant (iii) tanθ = [[−1/2]] and θ lies in second quadrant (iv) secθ = cosecθ = √2 and θ lies in first quadrant (v) cosθ = [[1/2]] and tanθ is positive."
               },
               {
-                "a": "sin30° = [[1/2]]\ncos30° = [[√3/2]]\ntan30° = [[1/√3]]\nsin45° = cos45° = [[1/√2]]\ntan45° = cot45° = 1\nsin60° = [[√3/2]]\ncos60° = [[1/2]]\ntan60° = √3\n(i) tan30° tan60° + tan45° cot45° = ([[1/√3]])(√3) + (1)(1) = 1 + 1 = 2\n(ii) tan60° − tan30° = √3 − [[1/√3]] = [[2/√3]]\n1 + tan60° tan30° = 1 + (√3)([[1/√3]]) = 2\n[[(tan60° − tan30°)/(1 + tan60° tan30°)]] = [[1/√3]]\n(iii) sin45° = [[1/√2]]\ncot45° = 1\n[[sin45°/(sin45° + cot45°)]] = [[1/(1 + √2)]] = √2 − 1\n(iv) cos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = cos30° cos60° + sin30° cos60°\n= ([[√3/2]])([[1/2]]) + ([[1/2]])([[1/2]]) = [[√3/4]] + [[1/4]] = [[(√3 + 1)/4]]\n(v) tan45° − tan30° = 1 − [[1/√3]]\n1 + tan45° tan30° = 1 + [[1/√3]]\n[[(tan45° − tan30°)/(1 + tan45° tan30°)]] = [[(√3 − 1)/(√3 + 1)]] = 2 − √3\n(vi) tan45° + cot45° = 1 + 1 = 2\nsin60° cos30° − cos60° sin30° = ([[√3/2]])([[√3/2]]) − ([[1/2]])([[1/2]]) = [[3/4]] − [[1/4]] = [[1/2]]\nvalue = 2 ÷ ([[1/2]]) = 4",
+                "a": "sin30° = [[1/2]]\ncos30° = [[√3/2]]\ntan30° = [[1/√3]]\nsin45° = cos45°\nsin45° = [[1/√2]]\ntan45° = cot45° = 1\nsin60° = [[√3/2]]\ncos60° = [[1/2]]\ntan60° = √3\n(i) tan30° tan60° + tan45° cot45° = ([[1/√3]])(√3) + (1)(1)\ntan30° tan60° + tan45° cot45° = 1 + 1\ntan30° tan60° + tan45° cot45° = 2\n(ii) tan60° − tan30° = √3 − [[1/√3]]\ntan60° − tan30° = [[2/√3]]\n1 + tan60° tan30° = 1 + (√3)([[1/√3]])\n1 + tan60° tan30° = 2\n[[(tan60° − tan30°)/(1 + tan60° tan30°)]] = [[1/√3]]\n(iii) sin45° = [[1/√2]]\ncot45° = 1\n[[sin45°/(sin45° + cot45°)]] = [[1/(1 + √2)]]\n[[sin45°/(sin45° + cot45°)]] = √2 − 1\n(iv) cos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = cos30° cos60° + sin30° cos60°\ncos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = ([[√3/2]])([[1/2]]) + ([[1/2]])([[1/2]])\ncos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = [[√3/4]] + [[1/4]]\ncos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = [[(√3 + 1)/4]]\n(v) tan45° − tan30° = 1 − [[1/√3]]\n1 + tan45° tan30° = 1 + [[1/√3]]\n[[(tan45° − tan30°)/(1 + tan45° tan30°)]] = [[(√3 − 1)/(√3 + 1)]]\n[[(tan45° − tan30°)/(1 + tan45° tan30°)]] = 2 − √3\n(vi) tan45° + cot45° = 1 + 1\ntan45° + cot45° = 2\nsin60° cos30° − cos60° sin30° = ([[√3/2]])([[√3/2]]) − ([[1/2]])([[1/2]])\nsin60° cos30° − cos60° sin30° = [[3/4]] − [[1/4]]\nsin60° cos30° − cos60° sin30° = [[1/2]]\nvalue = 2 ÷ ([[1/2]])\nvalue = 4",
                 "q": "7. Find the values of:\n(i) tan30° tan60° + tan45° cot45° (ii) [[(tan60° − tan30°)/(1 + tan60° tan30°)]] (iii) [[sin45°/(sin45° + cot45°)]] (iv) cos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) (v) (tan([[π/4]]) − tan([[π/6]])) ÷ (1 + tan([[π/4]])·tan([[π/6]])) (vi) [[(tan45° + cot45°)/(sin60° cos30° − cos60° sin30°)]]"
               }
             ],
@@ -18260,11 +18260,11 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) R.H.S. = (sec²θ − 1)cos²θ\nsec²θ − 1 = tan²θ\nR.H.S. = tan²θ · cos²θ = ([[sin²θ/cos²θ]]) · cos²θ = sin²θ = L.H.S.\n(ii) R.H.S. = tanθ + secθ = [[sinθ/cosθ]] + [[1/cosθ]] = [[(sinθ + 1)/cosθ]] = [[(1 + sinθ)/cosθ]] = L.H.S.\n(iii) R.H.S. = sinθ√(1 + tan²θ)\n1 + tan²θ = sec²θ\n√(sec^2θ) = |secθ|\n√(1 + tan²θ) = secθ\nR.H.S. = sinθ · secθ = [[sinθ/cosθ]] = tanθ = L.H.S.\n(iv) L.H.S. = cos⁴θ − sin⁴θ = (cos²θ)² − (sin²θ)² = (cos²θ − sin²θ)(cos²θ + sin²θ) = (cos²θ − sin²θ)(1) = cos²θ − sin²θ = R.H.S.\n(v) R.H.S. = sinθ − sinθ cos²θ = sinθ(1 − cos²θ) = sinθ · sin²θ = sin³θ = L.H.S.\n(vi) L.H.S. = √([[(1 + cosθ)/(1 − cosθ)]])\n= √([[(1 + cosθ)²/((1 − cosθ)(1 + cosθ))]]) = √([[(1 + cosθ)²/(1 − cos²θ)]]) = √([[(1 + cosθ)²/sin²θ]]) = [[(1 + cosθ)/sinθ]]\nR.H.S. = [[sinθ/(1 − cosθ)]] = sinθ[[(1 + cosθ)/((1 − cosθ)(1 + cosθ))]] = sinθ[[(1 + cosθ)/sin²θ]] = [[(1 + cosθ)/sinθ]]\nL.H.S. = R.H.S.\n(vii) L.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nR.H.S.² = ([[(secθ + 1)/tanθ]])² = [[(secθ + 1)²/tan²θ]]\ntan²θ = sec²θ − 1 = (secθ − 1)(secθ + 1)\nR.H.S.² = [[(secθ + 1)²/((secθ − 1)(secθ + 1))]] = [[(secθ + 1)/(secθ − 1)]]\nL.H.S. = R.H.S.\n(viii) L.H.S. = [[sin²θ/cosθ]] + cosθ = [[(sin²θ + cos²θ)/cosθ]] = [[1/cosθ]] = secθ = R.H.S.\n(ix) cotθ + cosecθ = [[cosθ/sinθ]] + [[1/sinθ]] = [[(1 + cosθ)/sinθ]]\nsinθ + tanθ = sinθ + [[sinθ/cosθ]] = sinθ(1 + [[1/cosθ]]) = sinθ[[(cosθ + 1)/cosθ]]\nL.H.S. = ([[(1 + cosθ)/sinθ]]) ÷ (sinθ[[(1 + cosθ)/cosθ]]) = [[cosθ/sin²θ]] = ([[1/sinθ]])([[cosθ/sinθ]]) = cosecθ cotθ = R.H.S.\n(x) R.H.S. = [[tan²θ/(1 + tan²θ)]] = [[tan²θ/sec²θ]] = ([[sin²θ/cos²θ]]) ÷ ([[1/cos²θ]]) = sin²θ = L.H.S.\n(xi) R.H.S. = [[cot²θ/(1 + cot²θ)]] = [[cot²θ/cosec²θ]] = ([[cos²θ/sin²θ]]) ÷ ([[1/sin²θ]]) = cos²θ = L.H.S.\n(xii) L.H.S. = sinθ cosθ tanθ + sinθ cosθ cotθ = sinθ cosθ ([[sinθ/cosθ]]) + sinθ cosθ ([[cosθ/sinθ]]) = sin²θ + cos²θ = 1 = R.H.S.",
+                "a": "(i) R.H.S. = (sec²θ − 1)cos²θ\nsec²θ − 1 = tan²θ\nR.H.S. = tan²θ · cos²θ\nR.H.S. = ([[sin²θ/cos²θ]]) · cos²θ\nR.H.S. = sin²θ\nR.H.S. = L.H.S.\n(ii) R.H.S. = tanθ + secθ\nR.H.S. = [[sinθ/cosθ]] + [[1/cosθ]]\nR.H.S. = [[(sinθ + 1)/cosθ]]\nR.H.S. = [[(1 + sinθ)/cosθ]]\nR.H.S. = L.H.S.\n(iii) R.H.S. = sinθ√(1 + tan²θ)\n1 + tan²θ = sec²θ\n√(sec^2θ) = |secθ|\n√(1 + tan²θ) = secθ\nR.H.S. = sinθ · secθ\nR.H.S. = [[sinθ/cosθ]]\nR.H.S. = tanθ\nR.H.S. = L.H.S.\n(iv) L.H.S. = cos⁴θ − sin⁴θ\nL.H.S. = (cos²θ)² − (sin²θ)²\nL.H.S. = (cos²θ − sin²θ)(cos²θ + sin²θ)\nL.H.S. = (cos²θ − sin²θ)(1)\nL.H.S. = cos²θ − sin²θ\nL.H.S. = R.H.S.\n(v) R.H.S. = sinθ − sinθ cos²θ\nR.H.S. = sinθ(1 − cos²θ)\nR.H.S. = sinθ · sin²θ\nR.H.S. = sin³θ\nR.H.S. = L.H.S.\n(vi) L.H.S. = √([[(1 + cosθ)/(1 − cosθ)]])\nL.H.S. = √([[(1 + cosθ)²/((1 − cosθ)(1 + cosθ))]])\nL.H.S. = √([[(1 + cosθ)²/(1 − cos²θ)]])\nL.H.S. = √([[(1 + cosθ)²/sin²θ]])\nL.H.S. = [[(1 + cosθ)/sinθ]]\nR.H.S. = [[sinθ/(1 − cosθ)]]\nR.H.S. = sinθ[[(1 + cosθ)/((1 − cosθ)(1 + cosθ))]]\nR.H.S. = sinθ[[(1 + cosθ)/sin²θ]]\nR.H.S. = [[(1 + cosθ)/sinθ]]\nL.H.S. = R.H.S.\n(vii) L.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nR.H.S.² = ([[(secθ + 1)/tanθ]])²\nR.H.S.² = [[(secθ + 1)²/tan²θ]]\ntan²θ = sec²θ − 1\ntan²θ = (secθ − 1)(secθ + 1)\nR.H.S.² = [[(secθ + 1)²/((secθ − 1)(secθ + 1))]]\nR.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nL.H.S. = R.H.S.\n(viii) L.H.S. = [[sin²θ/cosθ]] + cosθ\nL.H.S. = [[(sin²θ + cos²θ)/cosθ]]\nL.H.S. = [[1/cosθ]]\nL.H.S. = secθ\nL.H.S. = R.H.S.\n(ix) cotθ + cosecθ = [[cosθ/sinθ]] + [[1/sinθ]]\ncotθ + cosecθ = [[(1 + cosθ)/sinθ]]\nsinθ + tanθ = sinθ + [[sinθ/cosθ]]\nsinθ + tanθ = sinθ(1 + [[1/cosθ]])\nsinθ + tanθ = sinθ[[(cosθ + 1)/cosθ]]\nL.H.S. = ([[(1 + cosθ)/sinθ]]) ÷ (sinθ[[(1 + cosθ)/cosθ]])\nL.H.S. = [[cosθ/sin²θ]]\nL.H.S. = ([[1/sinθ]])([[cosθ/sinθ]])\nL.H.S. = cosecθ cotθ\nL.H.S. = R.H.S.\n(x) R.H.S. = [[tan²θ/(1 + tan²θ)]]\nR.H.S. = [[tan²θ/sec²θ]]\nR.H.S. = ([[sin²θ/cos²θ]]) ÷ ([[1/cos²θ]])\nR.H.S. = sin²θ\nR.H.S. = L.H.S.\n(xi) R.H.S. = [[cot²θ/(1 + cot²θ)]]\nR.H.S. = [[cot²θ/cosec²θ]]\nR.H.S. = ([[cos²θ/sin²θ]]) ÷ ([[1/sin²θ]])\nR.H.S. = cos²θ\nR.H.S. = L.H.S.\n(xii) L.H.S. = sinθ cosθ tanθ + sinθ cosθ cotθ\nL.H.S. = sinθ cosθ ([[sinθ/cosθ]]) + sinθ cosθ ([[cosθ/sinθ]])\nL.H.S. = sin²θ + cos²θ\nL.H.S. = 1\nL.H.S. = R.H.S.",
                 "q": "1. Prove the following trigonometric identities:\n(i) sin²θ = (sec²θ − 1)cos²θ (cosθ ≠ 0) (ii) [[(1 + sinθ)/cosθ]] = tanθ + secθ (cosθ ≠ 0) (iii) tanθ = sinθ√(1 + tan²θ) (cosθ ≠ 0) (iv) cos⁴θ − sin⁴θ = cos²θ − sin²θ (v) sin³θ = sinθ − sinθ cos²θ (vi) √([[(1 + cosθ)/(1 − cosθ)]]) = [[sinθ/(1 − cosθ)]] (cosθ ≠ 1) (vii) √([[(secθ + 1)/(secθ − 1)]]) = [[(secθ + 1)/tanθ]] (tanθ ≠ 0) (viii) [[sin²θ/cosθ]] + cosθ = secθ (tanθ ≠ 0) (ix) [[(cotθ + cosecθ)/(sinθ + tanθ)]] = cosecθ cotθ (sinθ ≠ 0) (x) sin²θ = [[tan²θ/(1 + tan²θ)]] (cosθ ≠ 0) (xi) cos²θ = [[cot²θ/(1 + cot²θ)]] (sinθ ≠ 0) (xii) sinθ cosθ tanθ + sinθ cosθ cotθ = 1 (sinθ ≠ 0 and cosθ ≠ 0)"
               },
               {
-                "a": "(i) (secθ + 1)(secθ − 1) = sec²θ − 1 = tan²θ\n(ii) [[cosθ/sinθ]] − [[cosecθ/cosθ]] = cotθ − [[1/(sinθ cosθ)]] = [[(cos²θ − 1)/(sinθ cosθ)]] = [[−sin²θ/(sinθ cosθ)]] = [[−sinθ/cosθ]] = −tanθ\n(iii) cosecθ + cotθ = [[1/sinθ]] + [[cosθ/sinθ]] = [[(1 + cosθ)/sinθ]]",
+                "a": "(i) (secθ + 1)(secθ − 1) = sec²θ − 1\n(secθ + 1)(secθ − 1) = tan²θ\n(ii) [[cosθ/sinθ]] − [[cosecθ/cosθ]] = cotθ − [[1/(sinθ cosθ)]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = [[(cos²θ − 1)/(sinθ cosθ)]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = [[−sin²θ/(sinθ cosθ)]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = [[−sinθ/cosθ]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = −tanθ\n(iii) cosecθ + cotθ = [[1/sinθ]] + [[cosθ/sinθ]]\ncosecθ + cotθ = [[(1 + cosθ)/sinθ]]",
                 "q": "2. Transform the first expression into second one:\n(i) (secθ + 1)(secθ − 1) into tan²θ (ii) [[cosθ/sinθ]] − [[cosecθ/cosθ]] into −tanθ (iii) cosecθ + cotθ into [[(1 + cosθ)/sinθ]]"
               }
             ],
@@ -18273,7 +18273,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "AB = 102 m\nBC = x\ntan(18°30′) = [[AB/BC]] = [[102/x]]\n18°30′ = 18.5°\ntan(18.5°) ≈ 0.3346\n0.3346 = [[102/x]]\nx = [[102/0.3346]] ≈ 304.85 m",
+                "a": "AB = 102 m\nBC = x\ntan(18°30′) = [[AB/BC]]\ntan(18°30′) = [[102/x]]\n18°30′ = 18.5°\ntan(18.5°) ≈ 0.3346\n0.3346 = [[102/x]]\nx = [[102/0.3346]] ≈ 304.85 m",
                 "da": {
                   "els": [
                     {
@@ -18356,7 +18356,7 @@ var STUDY = {
                 "q": "1. From the top of a light house 102 meters high, measure of the angle of depression of a ship is 18°30′. How far is the ship from the light house."
               },
               {
-                "a": "sin60° = [[opposite/hypotenuse]] = [[6/L]]\nsin60° = [[√3/2]]\n[[√3/2]] = [[6/L]]\nL = 6 × [[2/√3]] = [[12/√3]] = 4√3 m ≈ 6.93 m",
+                "a": "sin60° = [[opposite/hypotenuse]]\nsin60° = [[6/L]]\nsin60° = [[√3/2]]\n[[√3/2]] = [[6/L]]\nL = 6 × [[2/√3]]\nL = [[12/√3]]\nL = 4√3 m ≈ 6.93 m",
                 "da": {
                   "els": [
                     {
@@ -18428,7 +18428,7 @@ var STUDY = {
                 "q": "2. A ladder makes angle 60° with the ground and reaches a height of 6m on the wall, find the length of the ladder."
               },
               {
-                "a": "tanθ = [[6/(2√3)]] = [[3/√3]] = √3\ntan60° = √3\nθ = 60°",
+                "a": "tanθ = [[6/(2√3)]]\ntanθ = [[3/√3]]\ntanθ = √3\ntan60° = √3\nθ = 60°",
                 "da": {
                   "els": [
                     {
@@ -18506,7 +18506,7 @@ var STUDY = {
                 "q": "3. Find the angle of elevation when a 6m high bamboo makes a shadow of length 2√3m."
               },
               {
-                "a": "h = height of cliff\nx = distance of first point\ntan30° = [[h/x]]\nh = x tan30° = [[x/√3]]\ntan45° = [[h/(x − 210)]]\nh = x − 210\nx − 210 = [[x/√3]]\nx(1 − [[1/√3]]) = 210\nx = 210 ÷ (1 − [[1/√3]]) ≈ 496.87 m\nh = x − 210 ≈ 286.87 m",
+                "a": "h = height of cliff\nx = distance of first point\ntan30° = [[h/x]]\nh = x tan30°\nh = [[x/√3]]\ntan45° = [[h/(x − 210)]]\nh = x − 210\nx − 210 = [[x/√3]]\nx(1 − [[1/√3]]) = 210\nx = 210 ÷ (1 − [[1/√3]]) ≈ 496.87 m\nh = x − 210 ≈ 286.87 m",
                 "da": {
                   "els": [
                     {
@@ -18689,35 +18689,35 @@ var STUDY = {
                 "q": "2. Define an angle and angle in standard position."
               },
               {
-                "a": "90″ = [[90/60]] = 1.5′\n70°30′90″ = 70°31.5′ = 70° + ([[31.5/60]])° = 70° + 0.525° = 70.525°\nradians = degrees × ([[π/180]]) = 70.525 × ([[π/180]]) = [[2821π/7200]] radians ≈ 1.23 radians",
+                "a": "90″ = [[90/60]]\n90″ = 1.5′\n70°30′90″ = 70°31.5′\n70°30′90″ = 70° + ([[31.5/60]])°\n70°30′90″ = 70° + 0.525°\n70°30′90″ = 70.525°\nradians = degrees × ([[π/180]])\nradians = 70.525 × ([[π/180]])\nradians = [[2821π/7200]] radians ≈ 1.23 radians",
                 "q": "3. Convert the 70°30′90″ into radians."
               },
               {
-                "a": "1° = 60′\n(7200)′ = [[7200/60]] degrees = 120°",
+                "a": "1° = 60′\n(7200)′ = [[7200/60]] degrees\n(7200)′ = 120°",
                 "q": "4. How many degrees are there in (7200)′."
               },
               {
-                "a": "π radians = 180°\n[[2π/3]] radians = ([[2π/3]]) × ([[180/π]])° = [[(2 × 180°)/3]] = 120°",
+                "a": "π radians = 180°\n[[2π/3]] radians = ([[2π/3]]) × ([[180/π]])°\n[[2π/3]] radians = [[(2 × 180°)/3]]\n[[2π/3]] radians = 120°",
                 "q": "5. Convert [[2π/3]] radians to degree measure."
               },
               {
-                "a": "[[3/π]] radians = ([[3/π]]) × ([[180/π]])° = [[540°/π²]] ≈ 54.7134°\n0.7134° × 60 = 42.81′\n0.81′ × 60 ≈ 48″\n[[3/π]] radians ≈ 54°42′48″",
+                "a": "[[3/π]] radians = ([[3/π]]) × ([[180/π]])°\n[[3/π]] radians = [[540°/π²]] ≈ 54.7134°\n0.7134° × 60 = 42.81′\n0.81′ × 60 ≈ 48″\n[[3/π]] radians ≈ 54°42′48″",
                 "q": "6. Convert [[3/π]] radians to D°M′S″ form."
               },
               {
-                "a": "r = [[l/θ]]\nr = 7 ÷ ([[π/4]]) = [[28/π]] cm ≈ 8.91 cm",
+                "a": "r = [[l/θ]]\nr = 7 ÷ ([[π/4]])\nr = [[28/π]] cm ≈ 8.91 cm",
                 "q": "7. Find r, when l = 7cm and θ = [[π/4]] radian"
               },
               {
-                "a": "θ = [[l/r]]\nl = r\nθ = [[r/r]] = 1 radian",
+                "a": "θ = [[l/r]]\nl = r\nθ = [[r/r]]\nθ = 1 radian",
                 "q": "8. Find θ, when arc length equal to radius of a circle."
               },
               {
-                "a": "L.H.S. = (1 − cos²θ)(1 + cot²θ)\n1 − cos²θ = sin²θ\n1 + cot²θ = cosec²θ = [[1/sin²θ]]\nL.H.S. = sin²θ × ([[1/sin²θ]]) = 1 = R.H.S.",
+                "a": "L.H.S. = (1 − cos²θ)(1 + cot²θ)\n1 − cos²θ = sin²θ\n1 + cot²θ = cosec²θ\n1 + cot²θ = [[1/sin²θ]]\nL.H.S. = sin²θ × ([[1/sin²θ]])\nL.H.S. = 1\nL.H.S. = R.H.S.",
                 "q": "9. Prove that (1 − cos²θ)(1 + cot²θ) = 1"
               },
               {
-                "a": "area = ([[1/2]]) r²θ = ([[1/2]]) × (2)² × 3 = ([[1/2]]) × 4 × 3 = 6 cm²",
+                "a": "area = ([[1/2]]) r²θ\narea = ([[1/2]]) × (2)² × 3\narea = ([[1/2]]) × 4 × 3\narea = 6 cm²",
                 "da": {
                   "els": [
                     {
@@ -19003,7 +19003,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن سيٽ P جا 10 رڪن آهن ۽ سيٽ Q جا 15 رڪن آهن ته پوءِ P × Q، Q × P، P × P ۽ Q × Q جي رڪنن جو تعداد لھو",
-                "a": "n(P × Q) = 10 × 15 = 150\nn(Q × P) = 15 × 10 = 150\nn(P × P) = 10 × 10 = 100\nn(Q × Q) = 15 × 15 = 225"
+                "a": "n(P × Q) = 10 × 15\nn(P × Q) = 150\nn(Q × P) = 15 × 10\nn(Q × P) = 150\nn(P × P) = 10 × 10\nn(P × P) = 100\nn(Q × Q) = 15 × 15\nn(Q × Q) = 225"
               },
               {
                 "q": "جيڪڏهن A = {1, 2}، B = {2, 3} ۽ C = {1, 3, 5} ته هيٺيان لھو.\n(i) A × B\n(ii) B × C\n(iii) A × (B ∪ C)\n(iv) B × (A ∪ C)\n(v) (A ∩ B) × (B ∩ C)",
@@ -19015,7 +19015,7 @@ var STUDY = {
               },
               {
                 "q": "ٻن سيٽن A ۽ B لاءِ جيڪڏهن O(A) = 3 ۽ O(B) = 4 ته پوءِ A × B ۾ سڀني جوڙي واري تعلقن جو تعداد لکو.",
-                "a": "O(A × B) = 3 × 4 = 12\n2^12 = 4096"
+                "a": "O(A × B) = 3 × 4\nO(A × B) = 12\n2^12 = 4096"
               },
               {
                 "q": "A × B جا هيٺيان جوڙي وارا تعلق جدول نموني ۾ لکو جيڪڏهن A = {0, 1, 2, 3} ۽ B = {2, 4, 6, 8} اهڙي طرح جو a ∈ A ۽ b ∈ B\n(i) R1 = {(a, b) | b < 5}\n(ii) R2 = {(a, b) | a + b = 9}\n(iii) R3 = {(a, b) | a - b = 1}",
@@ -19104,11 +19104,11 @@ var STUDY = {
             "items": [
               {
                 "q": "هيٺين جي نسبت لھو.\n(i) 70 ڪلو گرام ۽ 28 ڪلو گرام\n(ii) 60 سينٽي ميٽر ۽ 1 ميٽر\n(iii) 40 سيڪنڊ ۽ 3 منٽ\n(iv) 200 ملي ليٽر ۽ 2 ليٽر\n(v) 135° ۽ 360°\n(vi) 3.5 ڪلو گرام، 5 ڪلو گرام ۽ 200 گرام",
-                "a": "(i) 70kg : 28kg = 70 : 28 = 5 : 2\n(ii) 60cm : 1m = 60cm : 100cm = 60 : 100 = 3 : 5\n(iii) 40sec : 3min = 40sec : 180sec = 40 : 180 = 2 : 9\n(iv) 200 ml : 2l = 200 ml : 2000 ml = 200 : 2000 = 1 : 10\n(v) 135° : 360° = 135 : 360 = 3 : 8\n(vi) 3.5kg : 5kg 200gm = 3500gm : 5200gm = 3500 : 5200 = 35 : 52"
+                "a": "(i) 70kg : 28kg = 70 : 28\n70kg : 28kg = 5 : 2\n(ii) 60cm : 1m = 60cm : 100cm\n60cm : 1m = 60 : 100\n60cm : 1m = 3 : 5\n(iii) 40sec : 3min = 40sec : 180sec\n40sec : 3min = 40 : 180\n40sec : 3min = 2 : 9\n(iv) 200 ml : 2l = 200 ml : 2000 ml\n200 ml : 2l = 200 : 2000\n200 ml : 2l = 1 : 10\n(v) 135° : 360° = 135 : 360\n135° : 360° = 3 : 8\n(vi) 3.5kg : 5kg 200gm = 3500gm : 5200gm\n3.5kg : 5kg 200gm = 3500 : 5200\n3.5kg : 5kg 200gm = 35 : 52"
               },
               {
                 "q": "هڪ ڪارخاني ۾ 120 ڪم ڪندڙ آهن جن مان 45 عورتون آهن ۽ باقي مرد آهن. ته هيٺين کي ڳوليو:\n(i) مردن ۽ عورتن جي نسبت\n(ii) عورتن ۽ مردن جي نسبت\n(iii) عورتن ۽ سمورن ڪم ڪندڙن جي نسبت\n(iv) مردن ۽ سمورن ڪم ڪندڙن جي نسبت",
-                "a": "Total workers = 120\nWomen = 45\nMen = 120 − 45 = 75\n(i) Men to women = 75 : 45 = 5 : 3\n(ii) Women to men = 45 : 75 = 3 : 5\n(iii) Women to total workers = 45 : 120 = 3 : 8\n(iv) Men to total workers = 75 : 120 = 5 : 8"
+                "a": "Total workers = 120\nWomen = 45\nMen = 120 − 45\nMen = 75\n(i) Men to women = 75 : 45\nMen to women = 5 : 3\n(ii) Women to men = 45 : 75\nWomen to men = 3 : 5\n(iii) Women to total workers = 45 : 120\nWomen to total workers = 3 : 8\n(iv) Men to total workers = 75 : 120\nMen to total workers = 5 : 8"
               },
               {
                 "q": "جيڪڏهن 5(4x − 2y) = 3x − 4y ته x : y لھو.",
@@ -19128,7 +19128,7 @@ var STUDY = {
               },
               {
                 "q": "هيٺين مان x جو ملهه لھو.\n(i) 2x+5 : 5 :: 3x−2 : 7\n(ii) [[(4x−3)/5]] : [[3/4]] :: [[4x/3]] : [[7/2]]\n(iii) [[(x−3)/2]] : [[5/(x−1)]] :: [[(x−1)/3]] : [[4/(x+4)]]\n(iv) (a^2 − ab + b^2) : x :: [[(a^3+b^3)/(a−b)]] : (a+b)^2\n(v) 11−x : 8−x :: 25−x : 16−x",
-                "a": "(i) 2x + 5 : 5 :: 3x − 2 : 7\n(2x + 5)(7) = 5(3x − 2)\n14x + 35 = 15x − 10\n35 + 10 = 15x − 14x\nx = 45\n(ii) [[(4x − 3)/5]] : [[3/4]] :: [[4x/3]] : [[7/2]]\n([[(4x − 3)/5]]) ÷ ([[3/4]]) = ([[4x/3]]) ÷ ([[7/2]])\n[[(4x − 3)/5]] × [[4/3]] = [[4x/3]] × [[2/7]]\n[[(16x − 12)/15]] = [[8x/21]]\n21(16x − 12) = 15(8x)\n336x − 252 = 120x\n216x = 252\nx = [[252/216]] = [[7/6]]\n(iii) [[(x − 3)/2]] : [[5/(x − 1)]] :: [[(x − 1)/3]] : [[4/(x + 4)]]\n([[(x − 3)/2]]) ÷ ([[5/(x − 1)]]) = ([[(x − 1)/3]]) ÷ ([[4/(x + 4)]])\n(x − 3)[[(x − 1)/10]] = (x − 1)[[(x + 4)/12]]\n[[(x − 3)/10]] = [[(x + 4)/12]]\nx ≠ 1\n12(x − 3) = 10(x + 4)\n12x − 36 = 10x + 40\n2x = 76\nx = 38\n(iv) (a² − ab + b²) : x :: [[(a³ + b³)/(a − b)]] : (a + b)²\n(a² − ab + b²)(a + b)² = [[x(a³ + b³)/(a − b)]]\nx = (a² − ab + b²)[[(a + b)²(a − b)/(a³ + b³)]]\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a² − ab + b²)[[(a + b)²(a − b)/((a + b)(a² − ab + b²))]]\nx = (a + b)(a − b) = a² − b²\n(v) 11 − x : 8 − x :: 25 − x : 16 − x\n(11 − x)(16 − x) = (8 − x)(25 − x)\n176 − 11x − 16x + x² = 200 − 8x − 25x + x²\n176 − 27x = 200 − 33x\n33x − 27x = 200 − 176\n6x = 24\nx = 4"
+                "a": "(i) 2x + 5 : 5 :: 3x − 2 : 7\n(2x + 5)(7) = 5(3x − 2)\n14x + 35 = 15x − 10\n35 + 10 = 15x − 14x\nx = 45\n(ii) [[(4x − 3)/5]] : [[3/4]] :: [[4x/3]] : [[7/2]]\n([[(4x − 3)/5]]) ÷ ([[3/4]]) = ([[4x/3]]) ÷ ([[7/2]])\n[[(4x − 3)/5]] × [[4/3]] = [[4x/3]] × [[2/7]]\n[[(16x − 12)/15]] = [[8x/21]]\n21(16x − 12) = 15(8x)\n336x − 252 = 120x\n216x = 252\nx = [[252/216]]\nx = [[7/6]]\n(iii) [[(x − 3)/2]] : [[5/(x − 1)]] :: [[(x − 1)/3]] : [[4/(x + 4)]]\n([[(x − 3)/2]]) ÷ ([[5/(x − 1)]]) = ([[(x − 1)/3]]) ÷ ([[4/(x + 4)]])\n(x − 3)[[(x − 1)/10]] = (x − 1)[[(x + 4)/12]]\n[[(x − 3)/10]] = [[(x + 4)/12]]\nx ≠ 1\n12(x − 3) = 10(x + 4)\n12x − 36 = 10x + 40\n2x = 76\nx = 38\n(iv) (a² − ab + b²) : x :: [[(a³ + b³)/(a − b)]] : (a + b)²\n(a² − ab + b²)(a + b)² = [[x(a³ + b³)/(a − b)]]\nx = (a² − ab + b²)[[(a + b)²(a − b)/(a³ + b³)]]\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a² − ab + b²)[[(a + b)²(a − b)/((a + b)(a² − ab + b²))]]\nx = (a + b)(a − b)\nx = a² − b²\n(v) 11 − x : 8 − x :: 25 − x : 16 − x\n(11 − x)(16 − x) = (8 − x)(25 − x)\n176 − 11x − 16x + x² = 200 − 8x − 25x + x²\n176 − 27x = 200 − 33x\n33x − 27x = 200 − 176\n6x = 24\nx = 4"
               }
             ]
           },
@@ -19137,43 +19137,43 @@ var STUDY = {
             "items": [
               {
                 "q": "جيڪڏهن y سڌي طرح متجي ٿو x جي مطابق ۽ y = 10 ۽ x = 3 جڏهن ته پوءِ هيٺيان لھو.\n(i) y کي x جي شڪل ۾\n(ii) y جڏهن x = 6\n(iii) x جڏهن y = 15",
-                "a": "y ∝ x\ny = kx ... (i)\nx = 3\ny = 10\n10 = 3k\nk = [[10/3]]\n(i) y = ([[10/3]])x\n(ii) x = 6\ny = ([[10/3]])(6) = 20\n(iii) y = 15\n15 = ([[10/3]])x\nx = [[45/10]] = [[9/2]]"
+                "a": "y ∝ x\ny = kx ... (i)\nx = 3\ny = 10\n10 = 3k\nk = [[10/3]]\n(i) y = ([[10/3]])x\n(ii) x = 6\ny = ([[10/3]])(6)\ny = 20\n(iii) y = 15\n15 = ([[10/3]])x\nx = [[45/10]]\nx = [[9/2]]"
               },
               {
                 "q": "جيڪڏهن V ∝ T ۽ V = 15 ۽ T = 24 جڏهن ته پوءِ هيٺيان لھو.\n(i) V ۽ T کي ڳنڍيندڙ مساوات\n(ii) V جڏهن T = 30\n(iii) T جڏهن V = 10",
-                "a": "V = kT ... (i)\nV = 15\nT = 24\n15 = 24k\nk = [[15/24]] = [[5/8]]\n(i) V = ([[5/8]])T\n(ii) T = 30\nV = ([[5/8]])(30) = [[150/8]] = [[75/4]]\n(iii) V = 10\n10 = ([[5/8]])T\nT = [[80/5]] = 16"
+                "a": "V = kT ... (i)\nV = 15\nT = 24\n15 = 24k\nk = [[15/24]]\nk = [[5/8]]\n(i) V = ([[5/8]])T\n(ii) T = 30\nV = ([[5/8]])(30)\nV = [[150/8]]\nV = [[75/4]]\n(iii) V = 10\n10 = ([[5/8]])T\nT = [[80/5]]\nT = 16"
               },
               {
                 "q": "جيڪڏهن u ∝ ∛v ۽ u = 4 جڏهن v = 64 ته پوءِ u جو ملهه لھو جڏهن v = 216 ۽ v جو ملهه لھو جڏهن u = 5",
-                "a": "u = k∛v ... (i)\nu = 4\nv = 64\n4 = k∛64 = k(4)\nk = 1\nu = ∛v ... (ii)\nv = 216\nu = ∛216 = 6\nu = 5\n5 = ∛v\nv = 5³ = 125"
+                "a": "u = k∛v ... (i)\nu = 4\nv = 64\n4 = k∛64\n4 = k(4)\nk = 1\nu = ∛v ... (ii)\nv = 216\nu = ∛216\nu = 6\nu = 5\n5 = ∛v\nv = 5³\nv = 125"
               },
               {
                 "q": "جيڪڏهن F سڌي طرح متجي ٿو m^3 جي مطابق جڏهن m = 3 ۽ F = 81 ته پوءِ F لھو جڏهن m = 5",
-                "a": "F ∝ m³\nF = km³ ... (i)\nm = 3\nF = 81\n81 = k(3)³ = 27k\nk = [[81/27]] = 3\nF = 3m³ ... (ii)\nm = 5\nF = 3(5)³ = 3(125) = 375"
+                "a": "F ∝ m³\nF = km³ ... (i)\nm = 3\nF = 81\n81 = k(3)³\n81 = 27k\nk = [[81/27]]\nk = 3\nF = 3m³ ... (ii)\nm = 5\nF = 3(5)³\nF = 3(125)\nF = 375"
               },
               {
                 "q": "جيڪڏهن y ابتو متجي ٿو x جي مطابق ۽ y = 10 ۽ x = 3 جڏهن ته پوءِ y لھو جڏهن x = 10",
-                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 10\nx = 3\n10 = [[k/3]]\nk = 30\ny = [[30/x]] ... (ii)\nx = 10\ny = [[30/10]] = 3"
+                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 10\nx = 3\n10 = [[k/3]]\nk = 30\ny = [[30/x]] ... (ii)\nx = 10\ny = [[30/10]]\ny = 3"
               },
               {
                 "q": "هڪ گيس جو مقدار V ابتو متجي ٿو دٻاءُ P جي پيئي مول مطابق جيڪڏهن V = 12 ۽ P = 9 جڏهن ته پوءِ P لھو جڏهن V = 4",
-                "a": "V ∝ [[1/√P]]\nV = [[k/√P]] ... (i)\nV = 12\nP = 9\n12 = [[k/√9]] = [[k/3]]\nk = 36\nV = [[36/√P]] ... (ii)\nV = 4\n4 = [[36/√P]]\n√P = [[36/4]] = 9\nP = 9² = 81"
+                "a": "V ∝ [[1/√P]]\nV = [[k/√P]] ... (i)\nV = 12\nP = 9\n12 = [[k/√9]]\n12 = [[k/3]]\nk = 36\nV = [[36/√P]] ... (ii)\nV = 4\n4 = [[36/√P]]\n√P = [[36/4]]\n√P = 9\nP = 9²\nP = 81"
               },
               {
                 "q": "جيڪڏهن F ∝ [[1/r^2]] ۽ F = 8 جڏهن r = 2 ته هيٺيان لھو\n(i) F جڏهن r = 5\n(ii) r جڏهن F = 24",
-                "a": "F = [[k/r²]] ... (i)\nF = 8\nr = 2\n8 = [[k/(2)²]] = [[k/4]]\nk = 32\nF = [[32/r²]] ... (ii)\n(i) r = 5\nF = [[32/25]]\n(ii) F = 24\n24 = [[32/r²]]\nr² = [[32/24]] = [[4/3]]\nr = [[2/√3]]"
+                "a": "F = [[k/r²]] ... (i)\nF = 8\nr = 2\n8 = [[k/(2)²]]\n8 = [[k/4]]\nk = 32\nF = [[32/r²]] ... (ii)\n(i) r = 5\nF = [[32/25]]\n(ii) F = 24\n24 = [[32/r²]]\nr² = [[32/24]]\nr² = [[4/3]]\nr = [[2/√3]]"
               },
               {
                 "q": "x جو ٽيون مول متجي ٿو y جي چورس مطابق جيڪڏهن x = 8 ۽ y = 3 ته پوءِ x جو ملهه لھو جڏهن y = [[3/2]]",
-                "a": "∛x ∝ y²\n∛x = ky² ... (i)\nx = 8\ny = 3\n∛8 = k(3)²\n2 = 9k\nk = [[2/9]]\n∛x = ([[2/9]])y² ... (ii)\ny = [[3/2]]\n∛x = ([[2/9]])([[3/2]])² = ([[2/9]])([[9/4]]) = [[1/2]]\nx = ([[1/2]])³ = [[1/8]]"
+                "a": "∛x ∝ y²\n∛x = ky² ... (i)\nx = 8\ny = 3\n∛8 = k(3)²\n2 = 9k\nk = [[2/9]]\n∛x = ([[2/9]])y² ... (ii)\ny = [[3/2]]\n∛x = ([[2/9]])([[3/2]])²\n∛x = ([[2/9]])([[9/4]])\n∛x = [[1/2]]\nx = ([[1/2]])³\nx = [[1/8]]"
               },
               {
                 "q": "ٻن جسمن جي وچ واري قوت F ابتو متجي ٿي انهن جي مرڪزن جي وچ واري فاصلي d جي چورس مطابق. جيڪڏهن F = 2 ۽ d = 3 ته پوءِ d جو ملهه لھو جڏهن F = 72",
-                "a": "F ∝ [[1/d²]]\nF = [[k/d²]] ... (i)\nF = 2\nd = 3\n2 = [[k/(3)²]] = [[k/9]]\nk = 18\nF = [[18/d²]] ... (ii)\nF = 72\n72 = [[18/d²]]\nd² = [[18/72]] = [[1/4]]\nd = [[1/2]]"
+                "a": "F ∝ [[1/d²]]\nF = [[k/d²]] ... (i)\nF = 2\nd = 3\n2 = [[k/(3)²]]\n2 = [[k/9]]\nk = 18\nF = [[18/d²]] ... (ii)\nF = 72\n72 = [[18/d²]]\nd² = [[18/72]]\nd² = [[1/4]]\nd = [[1/2]]"
               },
               {
                 "q": "جيڪڏهن y ابتو متجي ٿو (x − 5) جي مطابق جڏهن y = 6 ۽ x = 8 ته پوءِ y جو ملهه لھو جڏهن x = 10.",
-                "a": "y ∝ [[1/(x − 5)]]\ny = [[k/(x − 5)]] ... (i)\ny = 6\nx = 8\n6 = [[k/(8 − 5)]] = [[k/3]]\nk = 18\ny = [[18/(x − 5)]] ... (ii)\nx = 10\ny = [[18/(10 − 5)]] = [[18/5]]"
+                "a": "y ∝ [[1/(x − 5)]]\ny = [[k/(x − 5)]] ... (i)\ny = 6\nx = 8\n6 = [[k/(8 − 5)]]\n6 = [[k/3]]\nk = 18\ny = [[18/(x − 5)]] ... (ii)\nx = 10\ny = [[18/(10 − 5)]]\ny = [[18/5]]"
               }
             ]
           },
@@ -19182,19 +19182,19 @@ var STUDY = {
             "items": [
               {
                 "q": "ٽيون متناسب لھو جيڪڏهن پهرين، ٻئي ۽ چوٿون متناسب هيٺ ڏنل آهن\n(i) 6، 18 ۽ 54\n(ii) a^2 − b^2، a + b ۽ a − b\n(iii) (x + y)^2، x^3 + y^3 ۽ x + y\n(iv) [[(a^3 + b^3)/(a^2 − b^2)]]، [[(a^2 − ab + b^2)/(a − b)]] ۽ a + b",
-                "a": "(i) 6 : 18 :: x : 54\n18x = 6 × 54\n18x = 324\nx = 18\n(ii) (a² − b²) : (a + b) :: x : (a − b)\n(a + b)x = (a² − b²)(a − b)\nx = (a² − b²)[[(a − b)/(a + b)]]\na² − b² = (a − b)(a + b)\nx = (a − b)(a + b)[[(a − b)/(a + b)]] = (a − b)²\n(iii) (x + y)² : (x³ + y³) :: x : (x + y)\n(x³ + y³)x = (x + y)²(x + y) = (x + y)³\nx = [[(x + y)³/(x³ + y³)]]\nx³ + y³ = (x + y)(x² − xy + y²)\nx = [[(x + y)³/((x + y)(x² − xy + y²))]] = [[(x + y)²/(x² − xy + y²)]]\n(iv) [[(a³ + b³)/(a² − b²)]] : [[(a² − ab + b²)/(a − b)]] :: x : (a + b)\n[[(a³ + b³)/(a² − b²)]] = (a + b)[[(a² − ab + b²)/((a − b)(a + b))]] = [[(a² − ab + b²)/(a − b)]]\nx = a + b"
+                "a": "(i) 6 : 18 :: x : 54\n18x = 6 × 54\n18x = 324\nx = 18\n(ii) (a² − b²) : (a + b) :: x : (a − b)\n(a + b)x = (a² − b²)(a − b)\nx = (a² − b²)[[(a − b)/(a + b)]]\na² − b² = (a − b)(a + b)\nx = (a − b)(a + b)[[(a − b)/(a + b)]]\nx = (a − b)²\n(iii) (x + y)² : (x³ + y³) :: x : (x + y)\n(x³ + y³)x = (x + y)²(x + y)\n(x³ + y³)x = (x + y)³\nx = [[(x + y)³/(x³ + y³)]]\nx³ + y³ = (x + y)(x² − xy + y²)\nx = [[(x + y)³/((x + y)(x² − xy + y²))]]\nx = [[(x + y)²/(x² − xy + y²)]]\n(iv) [[(a³ + b³)/(a² − b²)]] : [[(a² − ab + b²)/(a − b)]] :: x : (a + b)\n[[(a³ + b³)/(a² − b²)]] = (a + b)[[(a² − ab + b²)/((a − b)(a + b))]]\n[[(a³ + b³)/(a² − b²)]] = [[(a² − ab + b²)/(a − b)]]\nx = a + b"
               },
               {
                 "q": "هيٺين جو چوٿون متناسب لھو.\n(i) 8، 4، 2\n(ii) a^3 + b^3، a^2 − b^2، a^2 − ab + b^2\n(iii) a^2 − 8a + 12، a − 2، 2a^3 − 12a^2\n(iv) (a^2 − b^2)(a^2 − ab + b^2)، a^3 + b^3، a^3 − b^3",
-                "a": "(i) 8 : 4 :: 2 : x\n8x = 4 × 2 = 8\nx = 1\n(ii) (a³ + b³) : (a² − b²) :: (a² − ab + b²) : x\nx(a³ + b³) = (a² − b²)(a² − ab + b²)\nx = (a² − b²)[[(a² − ab + b²)/(a³ + b³)]]\na² − b² = (a − b)(a + b)\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a − b)(a + b)[[(a² − ab + b²)/((a + b)(a² − ab + b²))]] = a − b\n(iii) (a² − 8a + 12) : (a − 2) :: (2a³ − 12a²) : x\nx(a² − 8a + 12) = (a − 2)(2a³ − 12a²)\nx = (a − 2)[[(2a³ − 12a²)/(a² − 8a + 12)]]\na² − 8a + 12 = (a − 2)(a − 6)\n2a³ − 12a² = 2a²(a − 6)\nx = (a − 2)(2a²)[[(a − 6)/((a − 2)(a − 6))]] = 2a²\n(iv) (a² − b²)(a² − ab + b²) : (a³ + b³) :: (a³ − b³) : x\nx(a² − b²)(a² − ab + b²) = (a³ + b³)(a³ − b³)\nx = (a³ + b³)[[(a³ − b³)/((a² − b²)(a² − ab + b²))]]\na³ + b³ = (a + b)(a² − ab + b²), a³ − b³ = (a − b)(a² + ab + b²)\na² − b² = (a − b)(a + b)\nx = (a + b)(a² − ab + b²)(a − b)[[(a² + ab + b²)/((a − b)(a + b)(a² − ab + b²))]] = a² + ab + b²"
+                "a": "(i) 8 : 4 :: 2 : x\n8x = 4 × 2\n8x = 8\nx = 1\n(ii) (a³ + b³) : (a² − b²) :: (a² − ab + b²) : x\nx(a³ + b³) = (a² − b²)(a² − ab + b²)\nx = (a² − b²)[[(a² − ab + b²)/(a³ + b³)]]\na² − b² = (a − b)(a + b)\na³ + b³ = (a + b)(a² − ab + b²)\nx = (a − b)(a + b)[[(a² − ab + b²)/((a + b)(a² − ab + b²))]]\nx = a − b\n(iii) (a² − 8a + 12) : (a − 2) :: (2a³ − 12a²) : x\nx(a² − 8a + 12) = (a − 2)(2a³ − 12a²)\nx = (a − 2)[[(2a³ − 12a²)/(a² − 8a + 12)]]\na² − 8a + 12 = (a − 2)(a − 6)\n2a³ − 12a² = 2a²(a − 6)\nx = (a − 2)(2a²)[[(a − 6)/((a − 2)(a − 6))]]\nx = 2a²\n(iv) (a² − b²)(a² − ab + b²) : (a³ + b³) :: (a³ − b³) : x\nx(a² − b²)(a² − ab + b²) = (a³ + b³)(a³ − b³)\nx = (a³ + b³)[[(a³ − b³)/((a² − b²)(a² − ab + b²))]]\na³ + b³ = (a + b)(a² − ab + b²), a³ − b³ = (a − b)(a² + ab + b²)\na² − b² = (a − b)(a + b)\nx = (a + b)(a² − ab + b²)(a − b)[[(a² + ab + b²)/((a − b)(a + b)(a² − ab + b²))]]\nx = a² + ab + b²"
               },
               {
                 "q": "هيٺين جو وچون متناسب لھو.\n(i) 8، 18\n(ii) 5ab^2، 20a^3b^2\n(iii) a^4 − b^4، [[(a^2 − b^2)/(a^2 + b^2)]]\n(iv) a^3 − b^3، [[(a − b)/(a^2 + ab + b^2)]]",
-                "a": "(i) Mean proportional = √(8 × 18) = √144 = 12\n(ii) Mean proportional = √(5ab² × 20a³b²) = √(100a⁴b⁴) = 10a²b²\n(iii) Mean proportional = √((a⁴ − b⁴) × [[(a² − b²)/(a² + b²)]])\na⁴ − b⁴ = (a² − b²)(a² + b²)\n= √((a² − b²)(a² + b²)[[(a² − b²)/(a² + b²)]]) = √((a² − b²)²) = a² − b²\n(iv) Mean proportional = √((a³ − b³) × [[(a − b)/(a² + ab + b²)]])\na³ − b³ = (a − b)(a² + ab + b²)\n= √((a − b)(a² + ab + b²)[[(a − b)/(a² + ab + b²)]]) = √((a − b)²) = a − b"
+                "a": "(i) Mean proportional = √(8 × 18)\nMean proportional = √144\nMean proportional = 12\n(ii) Mean proportional = √(5ab² × 20a³b²)\nMean proportional = √(100a⁴b⁴)\nMean proportional = 10a²b²\n(iii) Mean proportional = √((a⁴ − b⁴) × [[(a² − b²)/(a² + b²)]])\na⁴ − b⁴ = (a² − b²)(a² + b²)\nMean proportional = √((a² − b²)(a² + b²)[[(a² − b²)/(a² + b²)]])\nMean proportional = √((a² − b²)²)\nMean proportional = a² − b²\n(iv) Mean proportional = √((a³ − b³) × [[(a − b)/(a² + ab + b²)]])\na³ − b³ = (a − b)(a² + ab + b²)\nMean proportional = √((a − b)(a² + ab + b²)[[(a − b)/(a² + ab + b²)]])\nMean proportional = √((a − b)²)\nMean proportional = a − b"
               },
               {
                 "q": "هيٺ ڏنل عدد مسلسل تناسب ۾ آهن ته x جو ملهه لھو.\n(i) 45، x، 5\n(ii) 16، x، 9\n(iii) 12، 3x − 6، 27\n(iv) 7، x − 3، 112",
-                "a": "(i) 45, x, 5 are in continued proportion\nx² = 45 × 5 = 225\nx = 15\n(ii) 16, x, 9 are in continued proportion\nx² = 16 × 9 = 144\nx = 12\n(iii) 12, 3x − 6, 27 are in continued proportion\n(3x − 6)² = 12 × 27 = 324\n3x − 6 = 18\n3x = 24\nx = 8\n(iv) 7, x − 3, 112 are in continued proportion\n(x − 3)² = 7 × 112 = 784\nx − 3 = 28\nx = 31"
+                "a": "(i) 45, x, 5 are in continued proportion\nx² = 45 × 5\nx² = 225\nx = 15\n(ii) 16, x, 9 are in continued proportion\nx² = 16 × 9\nx² = 144\nx = 12\n(iii) 12, 3x − 6, 27 are in continued proportion\n(3x − 6)² = 12 × 27\n(3x − 6)² = 324\n3x − 6 = 18\n3x = 24\nx = 8\n(iv) 7, x − 3, 112 are in continued proportion\n(x − 3)² = 7 × 112\n(x − 3)² = 784\nx − 3 = 28\nx = 31"
               }
             ]
           },
@@ -19203,15 +19203,15 @@ var STUDY = {
             "items": [
               {
                 "q": "جيڪڏهن x : y = z : w ته پوءِ ثابت ڪريو ته\n(i) [[(4x+3y)/(4x−3y)]] = [[(4z+3w)/(4z−3w)]]\n(ii) [[(5x−3y)/(5x+3y)]] = [[(5z−3w)/(5z+3w)]]\n(iii) [[(x^3+y^3)/(x^3−y^3)]] = [[(z^3+w^3)/(z^3−w^3)]]\n(iv) [[(3x+2y)/(3x−2y)]] = [[(3z+2w)/(3z−2w)]]\n(v) [[(2x+3y+2z+3w)/(2x+3y−2z−3w)]] = [[(2x−3y+2z−3w)/(2x−3y−2z+3w)]]",
-                "a": "x = yk\nz = wk\n(i) L.H.S. = [[(4x + 3y)/(4x − 3y)]] = [[(4yk + 3y)/(4yk − 3y)]] = [[y(4k + 3)/y(4k − 3)]] = [[(4k + 3)/(4k − 3)]]\nR.H.S. = [[(4z + 3w)/(4z − 3w)]] = [[(4wk + 3w)/(4wk − 3w)]] = [[w(4k + 3)/w(4k − 3)]] = [[(4k + 3)/(4k − 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(5x − 3y)/(5x + 3y)]] = [[(5yk − 3y)/(5yk + 3y)]] = [[(5k − 3)/(5k + 3)]]\nR.H.S. = [[(5z − 3w)/(5z + 3w)]] = [[(5wk − 3w)/(5wk + 3w)]] = [[(5k − 3)/(5k + 3)]]\nL.H.S. = R.H.S\n(iii) L.H.S. = [[(x³ + y³)/(x³ − y³)]] = [[(y³k³ + y³)/(y³k³ − y³)]] = [[y³(k³ + 1)/y³(k³ − 1)]] = [[(k³ + 1)/(k³ − 1)]]\nR.H.S. = [[(z³ + w³)/(z³ − w³)]] = [[(w³k³ + w³)/(w³k³ − w³)]] = [[(k³ + 1)/(k³ − 1)]]\nL.H.S. = R.H.S\n(iv) L.H.S. = [[(3x + 2y)/(3x − 2y)]] = [[(3yk + 2y)/(3yk − 2y)]] = [[(3k + 2)/(3k − 2)]]\nR.H.S. = [[(3z + 2w)/(3z − 2w)]] = [[(3wk + 2w)/(3wk − 2w)]] = [[(3k + 2)/(3k − 2)]]\nL.H.S. = R.H.S\n(v) L.H.S. = [[(2x + 3y + 2z + 3w)/(2x + 3y − 2z − 3w)]]\nNumerator: 2x + 3y = 2yk + 3y = y(2k + 3)\n2z + 3w = 2wk + 3w = w(2k + 3)\nnumerator = (2k + 3)(y + w)\nDenominator: (2x + 3y) − (2z + 3w) = y(2k + 3) − w(2k + 3) = (2k + 3)(y − w)\nL.H.S. = [[(y + w)/(y − w)]]\nR.H.S. = [[(2x − 3y + 2z − 3w)/(2x − 3y − 2z + 3w)]]\nNumerator: 2x − 3y = y(2k − 3)\n2z − 3w = w(2k − 3)\nnumerator = (2k − 3)(y + w)\nDenominator: (2x − 3y) − (2z − 3w) = y(2k − 3) − w(2k − 3) = (2k − 3)(y − w)\nR.H.S. = [[(y + w)/(y − w)]]\nL.H.S. = R.H.S"
+                "a": "x = yk\nz = wk\n(i) L.H.S. = [[(4x + 3y)/(4x − 3y)]]\nL.H.S. = [[(4yk + 3y)/(4yk − 3y)]]\nL.H.S. = [[y(4k + 3)/y(4k − 3)]]\nL.H.S. = [[(4k + 3)/(4k − 3)]]\nR.H.S. = [[(4z + 3w)/(4z − 3w)]]\nR.H.S. = [[(4wk + 3w)/(4wk − 3w)]]\nR.H.S. = [[w(4k + 3)/w(4k − 3)]]\nR.H.S. = [[(4k + 3)/(4k − 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(5x − 3y)/(5x + 3y)]]\nL.H.S. = [[(5yk − 3y)/(5yk + 3y)]]\nL.H.S. = [[(5k − 3)/(5k + 3)]]\nR.H.S. = [[(5z − 3w)/(5z + 3w)]]\nR.H.S. = [[(5wk − 3w)/(5wk + 3w)]]\nR.H.S. = [[(5k − 3)/(5k + 3)]]\nL.H.S. = R.H.S\n(iii) L.H.S. = [[(x³ + y³)/(x³ − y³)]]\nL.H.S. = [[(y³k³ + y³)/(y³k³ − y³)]]\nL.H.S. = [[y³(k³ + 1)/y³(k³ − 1)]]\nL.H.S. = [[(k³ + 1)/(k³ − 1)]]\nR.H.S. = [[(z³ + w³)/(z³ − w³)]]\nR.H.S. = [[(w³k³ + w³)/(w³k³ − w³)]]\nR.H.S. = [[(k³ + 1)/(k³ − 1)]]\nL.H.S. = R.H.S\n(iv) L.H.S. = [[(3x + 2y)/(3x − 2y)]]\nL.H.S. = [[(3yk + 2y)/(3yk − 2y)]]\nL.H.S. = [[(3k + 2)/(3k − 2)]]\nR.H.S. = [[(3z + 2w)/(3z − 2w)]]\nR.H.S. = [[(3wk + 2w)/(3wk − 2w)]]\nR.H.S. = [[(3k + 2)/(3k − 2)]]\nL.H.S. = R.H.S\n(v) L.H.S. = [[(2x + 3y + 2z + 3w)/(2x + 3y − 2z − 3w)]]\nNumerator: 2x + 3y = 2yk + 3y\n2x + 3y = y(2k + 3)\n2z + 3w = 2wk + 3w\n2z + 3w = w(2k + 3)\nnumerator = (2k + 3)(y + w)\nDenominator: (2x + 3y) − (2z + 3w) = y(2k + 3) − w(2k + 3)\n(2x + 3y) − (2z + 3w) = (2k + 3)(y − w)\nL.H.S. = [[(y + w)/(y − w)]]\nR.H.S. = [[(2x − 3y + 2z − 3w)/(2x − 3y − 2z + 3w)]]\nNumerator: 2x − 3y = y(2k − 3)\n2z − 3w = w(2k − 3)\nnumerator = (2k − 3)(y + w)\nDenominator: (2x − 3y) − (2z − 3w) = y(2k − 3) − w(2k − 3)\n(2x − 3y) − (2z − 3w) = (2k − 3)(y − w)\nR.H.S. = [[(y + w)/(y − w)]]\nL.H.S. = R.H.S"
               },
               {
                 "q": "ثابت ڪريو ته جيڪڏهن a : b = c : d\n(i) a^2 − b^2 : a^2 + b^2 = ac − bd : ac + bd\n(ii) [[(a+b+c+d)/(a+b−c−d)]] = [[(a−b+c−d)/(a−b−c+d)]]",
-                "a": "(i) [[(a² − b²)/(a² + b²)]] = [[(ac − bd)/(ac + bd)]]\n[[((a² − b²) + (a² + b²))/((a² − b²) − (a² + b²))]] = [[((ac − bd) + (ac + bd))/((ac − bd) − (ac + bd))]]\n[[2a²/(−2b²)]] = [[2ac/(−2bd)]]\n[[a²/b²]] = [[ac/bd]]\na²bd = acb²\nad = bc\n[[a/b]] = [[c/d]]\na : b = c : d\n(ii) a : b = c : d\n[[a/b]] = [[c/d]] = k\na = bk\nc = dk\nL.H.S. = [[(a + b + c + d)/(a + b − c − d)]]\nNumerator: a + b + c + d = bk + b + dk + d = (b + d)(k + 1)\nDenominator: a + b − c − d = bk + b − dk − d = (b − d)(k + 1)\nL.H.S. = [[(b + d)/(b − d)]]\nR.H.S. = [[(a − b + c − d)/(a − b − c + d)]]\nNumerator: a − b + c − d = bk − b + dk − d = (b + d)(k − 1)\nDenominator: a − b − c + d = bk − b − dk + d = (b − d)(k − 1)\nR.H.S. = [[(b + d)/(b − d)]]\nL.H.S. = R.H.S\n[[(a + b + c + d)/(a + b − c − d)]] = [[(a − b + c − d)/(a − b − c + d)]]"
+                "a": "(i) [[(a² − b²)/(a² + b²)]] = [[(ac − bd)/(ac + bd)]]\n[[((a² − b²) + (a² + b²))/((a² − b²) − (a² + b²))]] = [[((ac − bd) + (ac + bd))/((ac − bd) − (ac + bd))]]\n[[2a²/(−2b²)]] = [[2ac/(−2bd)]]\n[[a²/b²]] = [[ac/bd]]\na²bd = acb²\nad = bc\n[[a/b]] = [[c/d]]\na : b = c : d\n(ii) a : b = c : d\n[[a/b]] = [[c/d]]\n[[a/b]] = k\na = bk\nc = dk\nL.H.S. = [[(a + b + c + d)/(a + b − c − d)]]\nNumerator: a + b + c + d = bk + b + dk + d\na + b + c + d = (b + d)(k + 1)\nDenominator: a + b − c − d = bk + b − dk − d\na + b − c − d = (b − d)(k + 1)\nL.H.S. = [[(b + d)/(b − d)]]\nR.H.S. = [[(a − b + c − d)/(a − b − c + d)]]\nNumerator: a − b + c − d = bk − b + dk − d\na − b + c − d = (b + d)(k − 1)\nDenominator: a − b − c + d = bk − b − dk + d\na − b − c + d = (b − d)(k − 1)\nR.H.S. = [[(b + d)/(b − d)]]\nL.H.S. = R.H.S\n[[(a + b + c + d)/(a + b − c − d)]] = [[(a − b + c − d)/(a − b − c + d)]]"
               },
               {
                 "q": "نسبت جي ملاڻ ۽ وند واري قانون جو استعمال ڪندي هيٺيون مساواتون حل ڪريو\n(i) [[((x+3)^2−(x−5)^2)/((x+3)^2+(x−5)^2)]] = [[4/5]]\n(ii) [[(√(x+1)+√(x−1))/(√(x+1)−√(x−1))]] = [[1/2]]\n(iii) [[(√(x+5)−√(x−5))/(√(x+5)+√(x−5))]] = [[1/10]]\n(iv) [[((x+3)^2+(x−1)^3)/((x+3)^2−(x−1)^3)]] = [[11/7]]",
-                "a": "(i) [[((x + 3)² − (x − 5)²)/((x + 3)² + (x − 5)²)]] = [[4/5]]\n[[((x + 3)² − (x − 5)² + (x + 3)² + (x − 5)²)/((x + 3)² − (x − 5)² − (x + 3)² − (x − 5)²)]] = [[(4 + 5)/(4 − 5)]]\n[[2(x + 3)²/(−2(x − 5)²)]] = [[9/(−1)]]\n[[(x + 3)²/(x − 5)²]] = 9\n[[(x + 3)/(x − 5)]] = ±3\n[[(x + 3)/(x − 5)]] = 3\nx + 3 = 3x − 15\n2x = 18\nx = 9\n[[(x + 3)/(x − 5)]] = −3\nx + 3 = −3x + 15\n4x = 12\nx = 3\nS.S. = {3, 9}\n(ii) [[(√(x + 1) + √(x − 1))/(√(x + 1) − √(x − 1))]] = [[1/2]]\n[[(2√(x + 1))/(2√(x − 1))]] = [[(1 + 2)/(1 − 2)]]\n[[√(x + 1)/√(x − 1)]] = [[3/(−1)]] = −3\n[[√(x + 1)/√(x − 1)]] ≥ 0\n−3 < 0\nS.S. = {}\n(iii) [[(√(x + 5) − √(x − 5))/(√(x + 5) + √(x − 5))]] = [[1/10]]\n[[(2√(x + 5))/(−2√(x − 5))]] = [[(1 + 10)/(1 − 10)]]\n[[√(x + 5)/√(x − 5)]] = [[11/9]]\n[[(x + 5)/(x − 5)]] = [[121/81]]\n81(x + 5) = 121(x − 5)\n81x + 405 = 121x − 605\n40x = 1010\nx = [[101/4]]\nS.S. = {[[101/4]]}\n(iv) [[((x + 3)² + (x − 1)³)/((x + 3)² − (x − 1)³)]] = [[11/7]]\n[[(x + 3)²/(x − 1)³]] = [[(11 + 7)/(11 − 7)]] = [[9/2]]\n2(x + 3)² = 9(x − 1)³\n2x² + 12x + 18 = 9x³ − 27x² + 27x − 9\n9x³ − 29x² + 15x − 27 = 0\n(x − 3)(9x² − 2x + 9) = 0\nx = 3\n9x² − 2x + 9 = 0 has no real roots\nS.S. = {3}"
+                "a": "(i) [[((x + 3)² − (x − 5)²)/((x + 3)² + (x − 5)²)]] = [[4/5]]\n[[((x + 3)² − (x − 5)² + (x + 3)² + (x − 5)²)/((x + 3)² − (x − 5)² − (x + 3)² − (x − 5)²)]] = [[(4 + 5)/(4 − 5)]]\n[[2(x + 3)²/(−2(x − 5)²)]] = [[9/(−1)]]\n[[(x + 3)²/(x − 5)²]] = 9\n[[(x + 3)/(x − 5)]] = ±3\n[[(x + 3)/(x − 5)]] = 3\nx + 3 = 3x − 15\n2x = 18\nx = 9\n[[(x + 3)/(x − 5)]] = −3\nx + 3 = −3x + 15\n4x = 12\nx = 3\nS.S. = {3, 9}\n(ii) [[(√(x + 1) + √(x − 1))/(√(x + 1) − √(x − 1))]] = [[1/2]]\n[[(2√(x + 1))/(2√(x − 1))]] = [[(1 + 2)/(1 − 2)]]\n[[√(x + 1)/√(x − 1)]] = [[3/(−1)]]\n[[√(x + 1)/√(x − 1)]] = −3\n[[√(x + 1)/√(x − 1)]] ≥ 0\n−3 < 0\nS.S. = {}\n(iii) [[(√(x + 5) − √(x − 5))/(√(x + 5) + √(x − 5))]] = [[1/10]]\n[[(2√(x + 5))/(−2√(x − 5))]] = [[(1 + 10)/(1 − 10)]]\n[[√(x + 5)/√(x − 5)]] = [[11/9]]\n[[(x + 5)/(x − 5)]] = [[121/81]]\n81(x + 5) = 121(x − 5)\n81x + 405 = 121x − 605\n40x = 1010\nx = [[101/4]]\nS.S. = {[[101/4]]}\n(iv) [[((x + 3)² + (x − 1)³)/((x + 3)² − (x − 1)³)]] = [[11/7]]\n[[(x + 3)²/(x − 1)³]] = [[(11 + 7)/(11 − 7)]]\n[[(x + 3)²/(x − 1)³]] = [[9/2]]\n2(x + 3)² = 9(x − 1)³\n2x² + 12x + 18 = 9x³ − 27x² + 27x − 9\n9x³ − 29x² + 15x − 27 = 0\n(x − 3)(9x² − 2x + 9) = 0\nx = 3\n9x² − 2x + 9 = 0 has no real roots\nS.S. = {3}"
               }
             ]
           },
@@ -19220,23 +19220,23 @@ var STUDY = {
             "items": [
               {
                 "q": "جيڪڏهن y سڌي طرح متجي ٿو x^2 ۽ z سان ۽ y = 6 جڏهن x = 4، z = 9 ته y کي x ۽ z جي عمل طور لکو. y جو ملهه لھو جڏهن x = −8 ۽ z = 12",
-                "a": "y ∝ x²z\ny = kx²z ... (i)\ny = 6, x = 4\nz = 9\n6 = k(4)²(9) = 144k\nk = [[6/144]] = [[1/24]]\ny = [[x²z/24]]\nx = −8\nz = 12\ny = [[(−8)²(12)/24]] = 64 × [[12/24]] = 32"
+                "a": "y ∝ x²z\ny = kx²z ... (i)\ny = 6, x = 4\nz = 9\n6 = k(4)²(9)\n6 = 144k\nk = [[6/144]]\nk = [[1/24]]\ny = [[x²z/24]]\nx = −8\nz = 12\ny = [[(−8)²(12)/24]]\ny = 64 × [[12/24]]\ny = 32"
               },
               {
                 "q": "جيڪڏهن y سڌي طرح متجي ٿو x ۽ u^2 سان ۽ ابتو متجي ٿو v ۽ t سان. y = 40 جڏهن x = 8، u = 5، v = 3 ۽ t = 2 ته y کي x، u، v، t جي شڪل ۾ لکو. y جو ملهه پڻ لھو جڏهن x = −2، u = 4، v = 3 ۽ t = −1.",
-                "a": "y ∝ [[xu²/(vt)]]\ny = [[kxu²/(vt)]] ... (i)\ny = 40, x = 8, u = 5, v = 3\nt = 2\n40 = k(8)[[(5)²/((3)(2))]] = [[k(200)/6]]\nk = 40 × [[6/200]] = [[6/5]]\ny = [[6xu²/(5vt)]]\nx = −2, u = 4, v = 3\nt = −1\ny = 6(−2)[[(4)²/(5(3)(−1))]] = 6(−2)[[(16)/(−15)]] = [[192/15]] = [[64/5]]"
+                "a": "y ∝ [[xu²/(vt)]]\ny = [[kxu²/(vt)]] ... (i)\ny = 40, x = 8, u = 5, v = 3\nt = 2\n40 = k(8)[[(5)²/((3)(2))]]\n40 = [[k(200)/6]]\nk = 40 × [[6/200]]\nk = [[6/5]]\ny = [[6xu²/(5vt)]]\nx = −2, u = 4, v = 3\nt = −1\ny = 6(−2)[[(4)²/(5(3)(−1))]]\ny = 6(−2)[[(16)/(−15)]]\ny = [[192/15]]\ny = [[64/5]]"
               },
               {
                 "q": "جيڪڏهن w سڌي طرح متجي ٿو u^2 سان ۽ ابتو متجي ٿو v جي ٽئين مول سان ۽ w = 216 جڏهن u = 6 ۽ v = 27 ته w جو ملهه لھو جڏهن u = 10 ۽ v = 125.",
-                "a": "w ∝ [[u²/∛v]]\nw = [[ku²/∛v]] ... (i)\nw = 216, u = 6\nv = 27\n216 = [[k(6)²/∛27]] = [[k(36)/3]] = 12k\nk = [[216/12]] = 18\nw = [[18u²/∛v]] ... (ii)\nu = 10\nv = 125\nw = [[18(10)²/∛125]] = [[18(100)/5]] = [[1800/5]] = 360"
+                "a": "w ∝ [[u²/∛v]]\nw = [[ku²/∛v]] ... (i)\nw = 216, u = 6\nv = 27\n216 = [[k(6)²/∛27]]\n216 = [[k(36)/3]]\n216 = 12k\nk = [[216/12]]\nk = 18\nw = [[18u²/∛v]] ... (ii)\nu = 10\nv = 125\nw = [[18(10)²/∛125]]\nw = [[18(100)/5]]\nw = [[1800/5]]\nw = 360"
               },
               {
                 "q": "جيڪڏهن سادي لٽڪتي (پينڊولم) جو وقت T سڌي طرح نسبت رکي ٿو ان جي ڊيگهه L جي پيئي مول سان ۽ ابتي نسبت رکي ٿو ڪشش ثقل واري تيزي 'g' جي پيئي مول سان. جيڪڏهن L = 100 ميٽر، g = 9.8 ميٽر في سيڪنڊ چورس ۽ T = 2 سيڪنڊ آهي ته پوءِ ڪنهن خاص اوچائي تي سادي پينڊولم جو وقت لھو جڏهن L = 200 ميٽر ۽ g = 7.6 ميٽر في سيڪنڊ چورس آهي.",
-                "a": "T ∝ √([[L/g]])\nT = k√([[L/g]]) ... (i)\nT = 2, L = 100\ng = 9.8\n2 = k√([[100/9.8]])\nk = 2 ÷ √([[100/9.8]]) = [[2√9.8/10]] = [[√9.8/5]]\nT = ([[√9.8/5]])√([[L/g]]) ... (ii)\nL = 200\ng = 7.6\nT = ([[√9.8/5]])√([[200/7.6]]) = ([[1/5]])√(9.8 × [[200/7.6]]) = ([[1/5]])√([[1960/7.6]]) = ([[1/5]])(16.06) = 3.21 sec (approx.)"
+                "a": "T ∝ √([[L/g]])\nT = k√([[L/g]]) ... (i)\nT = 2, L = 100\ng = 9.8\n2 = k√([[100/9.8]])\nk = 2 ÷ √([[100/9.8]])\nk = [[2√9.8/10]]\nk = [[√9.8/5]]\nT = ([[√9.8/5]])√([[L/g]]) ... (ii)\nL = 200\ng = 7.6\nT = ([[√9.8/5]])√([[200/7.6]])\nT = ([[1/5]])√(9.8 × [[200/7.6]])\nT = ([[1/5]])√([[1960/7.6]])\nT = ([[1/5]])(16.06)\nT = 3.21 sec (approx.)"
               },
               {
                 "q": "ڪنهن خاص گيس جو مقدار V سڌي نسبت رکي ٿو گرمي پد T سان ۽ ابتي نسبت رکي ٿو دٻاءُ \"P\" جي پيئي مول سان. جيڪڏهن V = 100، T = 30 ۽ P = 64 ته پوءِ V جو ملهه لھو جڏهن T = 60 ۽ P = 81.",
-                "a": "V ∝ [[T/√P]]\nV = [[kT/√P]] ... (i)\nV = 100, T = 30\nP = 64\n100 = [[k(30)/√64]] = [[30k/8]]\nk = 100 × [[8/30]] = [[80/3]]\nV = ([[80/3]])([[T/√P]]) ... (ii)\nT = 60\nP = 81\nV = ([[80/3]])([[60/√81]]) = ([[80/3]])([[60/9]]) = [[4800/27]] = [[1600/9]] = 177.78"
+                "a": "V ∝ [[T/√P]]\nV = [[kT/√P]] ... (i)\nV = 100, T = 30\nP = 64\n100 = [[k(30)/√64]]\n100 = [[30k/8]]\nk = 100 × [[8/30]]\nk = [[80/3]]\nV = ([[80/3]])([[T/√P]]) ... (ii)\nT = 60\nP = 81\nV = ([[80/3]])([[60/√81]])\nV = ([[80/3]])([[60/9]])\nV = [[4800/27]]\nV = [[1600/9]]\nV = 177.78"
               }
             ]
           },
@@ -19245,11 +19245,11 @@ var STUDY = {
             "items": [
               {
                 "q": "جيڪڏهن p : q = r : s ته پوءِ ثابت ڪري ڏيکاريو ته\n(i) [[(8p−3q)/(8p+3q)]] = [[(8r−3s)/(8r+3s)]]\n(ii) ∛([[(p^3+r^3)/(q^3+s^3)]]) = [[p/q]]\n(iii) (p^2 + q^2) : [[p^3/(p+q)]] = (r^2 + s^2) : [[r^3/(r+s)]]\n(iv) p^5 + r^5 : q^5 + s^5 = p^3r^2 : q^3s^2\n(v) [[(p−q)/p]] : [[q/(p+q)]] = [[(r−s)/r]] : [[s/(r+s)]]",
-                "a": "p = qk\nr = sk\n(i) L.H.S. = [[(8p − 3q)/(8p + 3q)]] = [[(8qk − 3q)/(8qk + 3q)]] = [[q(8k − 3)/q(8k + 3)]] = [[(8k − 3)/(8k + 3)]]\nR.H.S. = [[(8r − 3s)/(8r + 3s)]] = [[(8sk − 3s)/(8sk + 3s)]] = [[(8k − 3)/(8k + 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = ∛([[(p³ + r³)/(q³ + s³)]]) = ∛([[(q³k³ + s³k³)/(q³ + s³)]]) = ∛([[k³(q³ + s³)/(q³ + s³)]]) = ∛(k³) = k\nR.H.S. = [[p/q]] = k\nL.H.S. = R.H.S\n(iii) L.H.S. = (p² + q²) ÷ ([[p³/(p + q)]]) = (p² + q²)[[(p + q)/p³]]\n= (q²k² + q²)[[(qk + q)/(q³k³)]] = q²(k² + 1) × [[q(k + 1)/(q³k³)]] = (k² + 1)[[(k + 1)/k³]]\nR.H.S. = (r² + s²) ÷ ([[r³/(r + s)]]) = (r² + s²)[[(r + s)/r³]]\n= (s²k² + s²)[[(sk + s)/(s³k³)]] = (k² + 1)[[(k + 1)/k³]]\nL.H.S. = R.H.S\n(p² + q²) : [[p³/(p + q)]] = (r² + s²) : [[r³/(r + s)]]\n(iv) L.H.S. = [[(p⁵ + r⁵)/(q⁵ + s⁵)]] = [[(q⁵k⁵ + s⁵k⁵)/(q⁵ + s⁵)]] = [[k⁵(q⁵ + s⁵)/(q⁵ + s⁵)]] = k⁵\nR.H.S. = [[p³r²/(q³s²)]] = (q³k³)[[(s²k²)/(q³s²)]] = k⁵\nL.H.S. = R.H.S\np⁵ + r⁵ : q⁵ + s⁵ = p³r² : q³s²\n(v) L.H.S. = ([[(p − q)/p]]) ÷ ([[q/(p + q)]]) = (p − q)[[(p + q)/(pq)]] = [[(p² − q²)/(pq)]]\n= [[(q²k² − q²)/(q²k)]] = [[(k² − 1)/k]]\nR.H.S. = ([[(r − s)/r]]) ÷ ([[s/(r + s)]]) = [[(r² − s²)/(rs)]]\n= [[(s²k² − s²)/(s²k)]] = [[(k² − 1)/k]]\nL.H.S. = R.H.S\n[[(p − q)/p]] : [[q/(p + q)]] = [[(r − s)/r]] : [[s/(r + s)]]"
+                "a": "p = qk\nr = sk\n(i) L.H.S. = [[(8p − 3q)/(8p + 3q)]]\nL.H.S. = [[(8qk − 3q)/(8qk + 3q)]]\nL.H.S. = [[q(8k − 3)/q(8k + 3)]]\nL.H.S. = [[(8k − 3)/(8k + 3)]]\nR.H.S. = [[(8r − 3s)/(8r + 3s)]]\nR.H.S. = [[(8sk − 3s)/(8sk + 3s)]]\nR.H.S. = [[(8k − 3)/(8k + 3)]]\nL.H.S. = R.H.S\n(ii) L.H.S. = ∛([[(p³ + r³)/(q³ + s³)]])\nL.H.S. = ∛([[(q³k³ + s³k³)/(q³ + s³)]])\nL.H.S. = ∛([[k³(q³ + s³)/(q³ + s³)]])\nL.H.S. = ∛(k³)\nL.H.S. = k\nR.H.S. = [[p/q]]\nR.H.S. = k\nL.H.S. = R.H.S\n(iii) L.H.S. = (p² + q²) ÷ ([[p³/(p + q)]])\nL.H.S. = (p² + q²)[[(p + q)/p³]]\nL.H.S. = (q²k² + q²)[[(qk + q)/(q³k³)]]\nL.H.S. = q²(k² + 1) × [[q(k + 1)/(q³k³)]]\nL.H.S. = (k² + 1)[[(k + 1)/k³]]\nR.H.S. = (r² + s²) ÷ ([[r³/(r + s)]])\nR.H.S. = (r² + s²)[[(r + s)/r³]]\nR.H.S. = (s²k² + s²)[[(sk + s)/(s³k³)]]\nR.H.S. = (k² + 1)[[(k + 1)/k³]]\nL.H.S. = R.H.S\n(p² + q²) : [[p³/(p + q)]] = (r² + s²) : [[r³/(r + s)]]\n(iv) L.H.S. = [[(p⁵ + r⁵)/(q⁵ + s⁵)]]\nL.H.S. = [[(q⁵k⁵ + s⁵k⁵)/(q⁵ + s⁵)]]\nL.H.S. = [[k⁵(q⁵ + s⁵)/(q⁵ + s⁵)]]\nL.H.S. = k⁵\nR.H.S. = [[p³r²/(q³s²)]]\nR.H.S. = (q³k³)[[(s²k²)/(q³s²)]]\nR.H.S. = k⁵\nL.H.S. = R.H.S\np⁵ + r⁵ : q⁵ + s⁵ = p³r² : q³s²\n(v) L.H.S. = ([[(p − q)/p]]) ÷ ([[q/(p + q)]])\nL.H.S. = (p − q)[[(p + q)/(pq)]]\nL.H.S. = [[(p² − q²)/(pq)]]\nL.H.S. = [[(q²k² − q²)/(q²k)]]\nL.H.S. = [[(k² − 1)/k]]\nR.H.S. = ([[(r − s)/r]]) ÷ ([[s/(r + s)]])\nR.H.S. = [[(r² − s²)/(rs)]]\nR.H.S. = [[(s²k² − s²)/(s²k)]]\nR.H.S. = [[(k² − 1)/k]]\nL.H.S. = R.H.S\n[[(p − q)/p]] : [[q/(p + q)]] = [[(r − s)/r]] : [[s/(r + s)]]"
               },
               {
                 "q": "جيڪڏهن a : b = c : d = e : f ته پوءِ ثابت ڪري ڏيکاريو ته\n(i) [[(a^4b^2+a^2e^2−e^4f)/(b^6+b^2f^2−f^5)]] = [[a^4/b^4]]\n(ii) [[(a^2b+c^2d+e^2f)/(ab^2+cd^2+ef^2)]] = [[(a+c+e)/(b+d+f)]]\n(iii) [[ac/(bd)]] + [[ce/(df)]] + [[ea/(fb)]] = [[a^2/b^2]] + [[c^2/d^2]] + [[e^2/f^2]]",
-                "a": "a = bk, c = dk\ne = fk\n(i) L.H.S. = [[(a⁴b² + a²e² − e⁴f)/(b⁶ + b²f² − f⁵)]]\nNumerator: a⁴b² = (bk)⁴b² = b⁶k⁴; a²e² = (bk)²(fk)² = b²f²k⁴; e⁴f = (fk)⁴f = f⁵k⁴\nnumerator = k⁴(b⁶ + b²f² − f⁵)\nL.H.S. = [[k⁴(b⁶ + b²f² − f⁵)/(b⁶ + b²f² − f⁵)]] = k⁴\nR.H.S. = [[a⁴/b⁴]] = [[(bk)⁴/b⁴]] = k⁴\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(a²b + c²d + e²f)/(ab² + cd² + ef²)]]\nNumerator: a²b = (bk)²b = b³k²; c²d = (dk)²d = d³k²; e²f = (fk)²f = f³k²\nnumerator = k²(b³ + d³ + f³)\nDenominator: ab² = (bk)b² = b³k; cd² = (dk)d² = d³k; ef² = (fk)f² = f³k\ndenominator = k(b³ + d³ + f³)\nL.H.S. = [[k²(b³ + d³ + f³)/(k(b³ + d³ + f³))]] = k\nR.H.S. = [[(a + c + e)/(b + d + f)]] = [[(bk + dk + fk)/(b + d + f)]] = [[k(b + d + f)/(b + d + f)]] = k\nL.H.S. = R.H.S\n(iii) L.H.S. = [[ac/(bd)]] + [[ce/(df)]] + [[ea/(fb)]]\n[[ac/(bd)]] = (bk)[[(dk)/(bd)]] = k²\n[[ce/(df)]] = (dk)[[(fk)/(df)]] = k²\n[[ea/(fb)]] = (fk)[[(bk)/(fb)]] = k²\nL.H.S. = k² + k² + k² = 3k²\nR.H.S. = [[a²/b²]] + [[c²/d²]] + [[e²/f²]] = k² + k² + k² = 3k²\nL.H.S. = R.H.S"
+                "a": "a = bk, c = dk\ne = fk\n(i) L.H.S. = [[(a⁴b² + a²e² − e⁴f)/(b⁶ + b²f² − f⁵)]]\nNumerator: a⁴b² = (bk)⁴b²\na⁴b² = b⁶k⁴\na²e² = (bk)²(fk)²\na²e² = b²f²k⁴\ne⁴f = (fk)⁴f\ne⁴f = f⁵k⁴\nnumerator = k⁴(b⁶ + b²f² − f⁵)\nL.H.S. = [[k⁴(b⁶ + b²f² − f⁵)/(b⁶ + b²f² − f⁵)]]\nL.H.S. = k⁴\nR.H.S. = [[a⁴/b⁴]]\nR.H.S. = [[(bk)⁴/b⁴]]\nR.H.S. = k⁴\nL.H.S. = R.H.S\n(ii) L.H.S. = [[(a²b + c²d + e²f)/(ab² + cd² + ef²)]]\nNumerator: a²b = (bk)²b\na²b = b³k²\nc²d = (dk)²d\nc²d = d³k²\ne²f = (fk)²f\ne²f = f³k²\nnumerator = k²(b³ + d³ + f³)\nDenominator: ab² = (bk)b²\nab² = b³k\ncd² = (dk)d²\ncd² = d³k\nef² = (fk)f²\nef² = f³k\ndenominator = k(b³ + d³ + f³)\nL.H.S. = [[k²(b³ + d³ + f³)/(k(b³ + d³ + f³))]]\nL.H.S. = k\nR.H.S. = [[(a + c + e)/(b + d + f)]]\nR.H.S. = [[(bk + dk + fk)/(b + d + f)]]\nR.H.S. = [[k(b + d + f)/(b + d + f)]]\nR.H.S. = k\nL.H.S. = R.H.S\n(iii) L.H.S. = [[ac/(bd)]] + [[ce/(df)]] + [[ea/(fb)]]\n[[ac/(bd)]] = (bk)[[(dk)/(bd)]]\n[[ac/(bd)]] = k²\n[[ce/(df)]] = (dk)[[(fk)/(df)]]\n[[ce/(df)]] = k²\n[[ea/(fb)]] = (fk)[[(bk)/(fb)]]\n[[ea/(fb)]] = k²\nL.H.S. = k² + k² + k²\nL.H.S. = 3k²\nR.H.S. = [[a²/b²]] + [[c²/d²]] + [[e²/f²]]\nR.H.S. = k² + k² + k²\nR.H.S. = 3k²\nL.H.S. = R.H.S"
               }
             ]
           },
@@ -19258,23 +19258,23 @@ var STUDY = {
             "items": [
               {
                 "q": "هڪ تار ۾ بجلي جو وهڪرو \"I\" سڌي نسبت رکي ٿو برقي سگھه جي فرق \"V\" سان ۽ ابتي نسبت رکي ٿو روڪ \"R\" سان. جيڪڏهن I = 6 ايمپيئر جڏهن V = 220 وولٽ ۽ R = 5 اوهم ته I جو ملهه لھو جڏهن V = 180 وولٽ ۽ R = 8 اوهم",
-                "a": "I ∝ [[V/R]]\nI = [[kV/R]] ... (i)\nI = 6, V = 220\nR = 5\n6 = [[k(220)/5]]\nk = [[30/220]] = [[3/22]]\nI = ([[3/22]])([[V/R]]) ... (ii)\nV = 180\nR = 8\nI = ([[3/22]])([[180/8]]) = [[540/176]] = [[135/44]] = 3.068 (approx.)"
+                "a": "I ∝ [[V/R]]\nI = [[kV/R]] ... (i)\nI = 6, V = 220\nR = 5\n6 = [[k(220)/5]]\nk = [[30/220]]\nk = [[3/22]]\nI = ([[3/22]])([[V/R]]) ... (ii)\nV = 180\nR = 8\nI = ([[3/22]])([[180/8]])\nI = [[540/176]]\nI = [[135/44]]\nI = 3.068 (approx.)"
               },
               {
                 "q": "روشني جي شدت فوت ڪينڊلز ۾ ماپي ويندي آهي اها ابتو متجي ٿي ان مفاصلي جي چورس سان جيڪو روشني جي ذريعي وٽان هجي. فرض ڪريو ته هڪ بلب جي روشني جي شدت 0.08 فوت ڪينڊلز آهي جيڪو 3 ميٽر جي فاصلي تي آهي. روشني جي شدت لھو جيڪڏهن فاصلو 8 ميٽر هجي.",
-                "a": "I ∝ [[1/d²]]\nI = [[k/d²]] ... (i)\nI = 0.08\nd = 3\n0.08 = [[k/(3)²]] = [[k/9]]\nk = 0.72\nI = [[0.72/d²]] ... (ii)\nd = 8\nI = [[0.72/64]] = 0.01125"
+                "a": "I ∝ [[1/d²]]\nI = [[k/d²]] ... (i)\nI = 0.08\nd = 3\n0.08 = [[k/(3)²]]\n0.08 = [[k/9]]\nk = 0.72\nI = [[0.72/d²]] ... (ii)\nd = 8\nI = [[0.72/64]]\nI = 0.01125"
               },
               {
                 "q": "هڪ مستطيلي تنبي جي طاقت \"S\" سڌي طرح متجي ٿي ويڪرائي \"b\" ۽ اونهائي \"d\" جي چورس سان جيڪڏهن هڪ 9 س.م. ويڪرو ۽ 12 س.م. اونهو تنبو 1200 پائونڊ جو سهارو ڏيئي سگهي ٿو ته 12 س.م. ويڪرو ۽ 9 س.م. اونهو تنبو ڪيترو وزن جو سهارو ڏيئي سگهي ٿو.",
-                "a": "S ∝ bd²\nS = kbd² ... (i)\nS = 1200, b = 9\nd = 12\n1200 = k(9)(12)² = k(9)(144) = 1296k\nk = [[1200/1296]] = [[25/27]]\nS = ([[25/27]])bd² ... (ii)\nb = 12\nd = 9\nS = ([[25/27]])(12)(9)² = ([[25/27]])(12)(81) = ([[25/27]])(972) = 900"
+                "a": "S ∝ bd²\nS = kbd² ... (i)\nS = 1200, b = 9\nd = 12\n1200 = k(9)(12)²\n1200 = k(9)(144)\n1200 = 1296k\nk = [[1200/1296]]\nk = [[25/27]]\nS = ([[25/27]])bd² ... (ii)\nb = 12\nd = 9\nS = ([[25/27]])(12)(9)²\nS = ([[25/27]])(12)(81)\nS = ([[25/27]])(972)\nS = 900"
               },
               {
                 "q": "مزدوري جي رقم \"C\" گڏيل متجي ٿي ڏينهن جي سراسر تعداد \"d\" ۽ مزدورن جي تعداد \"n\" سان جيڪڏهن 15 ڏينهن لاءِ 100 مزدورن جي رقم 9000 آهي ته پوءِ 20 ڏينهن لاءِ 300 مزدورن جي مزدوري جي رقم لھو.",
-                "a": "C ∝ nd\nC = knd ... (i)\nC = 9000, n = 100\nd = 15\n9000 = k(100)(15) = 1500k\nk = [[9000/1500]] = 6\nC = 6nd ... (ii)\nn = 300\nd = 20\nC = 6 × 300 × 20 = 36000"
+                "a": "C ∝ nd\nC = knd ... (i)\nC = 9000, n = 100\nd = 15\n9000 = k(100)(15)\n9000 = 1500k\nk = [[9000/1500]]\nk = 6\nC = 6nd ... (ii)\nn = 300\nd = 20\nC = 6 × 300 × 20\nC = 36000"
               },
               {
                 "q": "هڪ نئين گاڏي جي خريد تي وڪري وارو ٽيڪس سڌي طرح متجي ٿو گاڏي جي قيمت سان جيڪڏهن هڪ نئين گاڏي 2000000 رپين ۾ خريدي وڃي ته پوءِ وڪري وارو ٽيڪس 40000 رپيا آهي. جيڪڏهن نئين گاڏي جي قيمت 2800000 رپيا آهي ته وڪري وارو ٽيڪس گھڻو لڳندو.",
-                "a": "T ∝ P\nT = kP ... (i)\nT = 40000\nP = 2000000\n40000 = k(2000000)\nk = [[40000/2000000]] = [[1/50]]\nT = [[P/50]] ... (ii)\nP = 2800000\nT = [[2800000/50]] = 56000"
+                "a": "T ∝ P\nT = kP ... (i)\nT = 40000\nP = 2000000\n40000 = k(2000000)\nk = [[40000/2000000]]\nk = [[1/50]]\nT = [[P/50]] ... (ii)\nP = 2800000\nT = [[2800000/50]]\nT = 56000"
               }
             ]
           },
@@ -19287,7 +19287,7 @@ var STUDY = {
               },
               {
                 "q": "هيٺين جي نسبت لھو\n(i) 100 ميٽر ۽ 500 س.م.\n(ii) 50 ڪلو گرام ۽ 300 گرام",
-                "a": "(i) 100m and 500cm\n500cm = 5m\nRatio = 100m : 5m = 100 : 5 = 20 : 1\n(ii) 50kg and 300g\n50kg = 50000g\nRatio = 50000g : 300g = 50000 : 300 = 500 : 3"
+                "a": "(i) 100m and 500cm\n500cm = 5m\nRatio = 100m : 5m\nRatio = 100 : 5\nRatio = 20 : 1\n(ii) 50kg and 300g\n50kg = 50000g\nRatio = 50000g : 300g\nRatio = 50000 : 300\nRatio = 500 : 3"
               },
               {
                 "q": "هيٺين ۾ x جو ملهه لھو\n(i) 5 : x − 3 = x + 11 : 3\n(ii) 9 : x − 10 = x + 13 : 12",
@@ -19295,27 +19295,27 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن y سڌي طرح متجي ٿو x سان ۽ y = 25 جڏهن x = 75 ته پوءِ y جو ملهه لھو جڏهن x = 144",
-                "a": "y ∝ x\ny = kx ... (i)\ny = 25\nx = 75\n25 = 75k\nk = [[25/75]] = [[1/3]]\ny = [[x/3]] ... (ii)\nx = 144\ny = [[144/3]] = 48"
+                "a": "y ∝ x\ny = kx ... (i)\ny = 25\nx = 75\n25 = 75k\nk = [[25/75]]\nk = [[1/3]]\ny = [[x/3]] ... (ii)\nx = 144\ny = [[144/3]]\ny = 48"
               },
               {
                 "q": "جيڪڏهن y ابتو متجي ٿو x سان ۽ y = 100 جڏهن x = [[1/2]] ته پوءِ y جو ملهه لھو جڏهن x = 4",
-                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 100\nx = [[1/2]]\n100 = k ÷ ([[1/2]]) = 2k\nk = 50\ny = [[50/x]] ... (ii)\nx = 4\ny = [[50/4]] = [[25/2]]"
+                "a": "y ∝ [[1/x]]\ny = [[k/x]] ... (i)\ny = 100\nx = [[1/2]]\n100 = k ÷ ([[1/2]])\n100 = 2k\nk = 50\ny = [[50/x]] ... (ii)\nx = 4\ny = [[50/4]]\ny = [[25/2]]"
               },
               {
                 "q": "جيڪڏهن x : y = z : w ته پوءِ ثابت ڪريو ته [[(7x+5y)/(7x−5y)]] = [[(7z+5w)/(7z−5w)]]",
-                "a": "[[(7x + 5y)/(7x − 5y)]] = [[(7z + 5w)/(7z − 5w)]]\nx = yk\nz = wk\nL.H.S. = [[(7x + 5y)/(7x − 5y)]] = [[(7yk + 5y)/(7yk − 5y)]] = [[y(7k + 5)/y(7k − 5)]] = [[(7k + 5)/(7k − 5)]]\nR.H.S. = [[(7z + 5w)/(7z − 5w)]] = [[(7wk + 5w)/(7wk − 5w)]] = [[w(7k + 5)/w(7k − 5)]] = [[(7k + 5)/(7k − 5)]]\nL.H.S. = R.H.S"
+                "a": "[[(7x + 5y)/(7x − 5y)]] = [[(7z + 5w)/(7z − 5w)]]\nx = yk\nz = wk\nL.H.S. = [[(7x + 5y)/(7x − 5y)]]\nL.H.S. = [[(7yk + 5y)/(7yk − 5y)]]\nL.H.S. = [[y(7k + 5)/y(7k − 5)]]\nL.H.S. = [[(7k + 5)/(7k − 5)]]\nR.H.S. = [[(7z + 5w)/(7z − 5w)]]\nR.H.S. = [[(7wk + 5w)/(7wk − 5w)]]\nR.H.S. = [[w(7k + 5)/w(7k − 5)]]\nR.H.S. = [[(7k + 5)/(7k − 5)]]\nL.H.S. = R.H.S"
               },
               {
                 "q": "نسبت جي ملاڻ ۽ وند واري قانون کي استعمال ڪندي هيٺين مساوات حل ڪريو\n[[((x−3)(x−5))/((x−7)(x−2))]] = [[((x−6)(x−2))/((x−1)(x−8))]]",
-                "a": "[[A/B]] = [[C/D]]\nA + B = 2x² − 17x + 29\nA − B = x + 1\nC + D = 2x² − 17x + 20\nC − D = x + 4\n[[(2x² − 17x + 29)/(x + 1)]] = [[(2x² − 17x + 20)/(x + 4)]]\n(2x² − 17x + 29)(x + 4) = (2x² − 17x + 20)(x + 1)\nT = 2x² − 17x\n(T + 29)(x + 4) = (T + 20)(x + 1)\nTx + 4T + 29x + 116 = Tx + T + 20x + 20\n3T + 9x + 96 = 0\n3(2x² − 17x) + 9x + 96 = 0\n6x² − 51x + 9x + 96 = 0\n6x² − 42x + 96 = 0\nx² − 7x + 16 = 0\nx = [[(7 ± √(49 − 64))/2]] = [[(7 ± √(−15))/2]] = [[(7 ± i√15)/2]]"
+                "a": "[[A/B]] = [[C/D]]\nA + B = 2x² − 17x + 29\nA − B = x + 1\nC + D = 2x² − 17x + 20\nC − D = x + 4\n[[(2x² − 17x + 29)/(x + 1)]] = [[(2x² − 17x + 20)/(x + 4)]]\n(2x² − 17x + 29)(x + 4) = (2x² − 17x + 20)(x + 1)\nT = 2x² − 17x\n(T + 29)(x + 4) = (T + 20)(x + 1)\nTx + 4T + 29x + 116 = Tx + T + 20x + 20\n3T + 9x + 96 = 0\n3(2x² − 17x) + 9x + 96 = 0\n6x² − 51x + 9x + 96 = 0\n6x² − 42x + 96 = 0\nx² − 7x + 16 = 0\nx = [[(7 ± √(49 − 64))/2]]\nx = [[(7 ± √(−15))/2]]\nx = [[(7 ± i√15)/2]]"
               },
               {
                 "q": "جيڪڏهن x سڌي طرح متجي ٿو y سان ۽ ابتو متجي ٿو z سان جيڪڏهن x = 30 جڏهن y = 15 ۽ z = 2 ته پوءِ x جو ملهه لھو جڏهن y = 30 ۽ z = 12",
-                "a": "x ∝ [[y/z]]\nx = [[ky/z]] ... (i)\nx = 30, y = 15\nz = 2\n30 = [[k(15)/2]]\nk = 30 × [[2/15]] = 4\nx = [[4y/z]] ... (ii)\ny = 30\nz = 12\nx = [[4(30)/12]] = [[120/12]] = 10"
+                "a": "x ∝ [[y/z]]\nx = [[ky/z]] ... (i)\nx = 30, y = 15\nz = 2\n30 = [[k(15)/2]]\nk = 30 × [[2/15]]\nk = 4\nx = [[4y/z]] ... (ii)\ny = 30\nz = 12\nx = [[4(30)/12]]\nx = [[120/12]]\nx = 10"
               },
               {
                 "q": "سرڪٽ ۾ بجلي جو وهڪرو ابتو متجي ٿو روڪ سان جيڪا اوهم ۾ پيمائش ڪجي ٿي جڏهن سرڪٽ ۾ بجلي جو وهڪرو 40 ايمپيئر ۽ روڪ 10 اوهم آهي ته بجلي جو وهڪرو لھو جيڪڏهن روڪ 12 اوهم آهي.",
-                "a": "I ∝ [[1/R]]\nI = [[k/R]] ... (i)\nI = 40\nR = 10\n40 = [[k/10]]\nk = 400\nI = [[400/R]] ... (ii)\nR = 12\nI = [[400/12]] = [[100/3]] = 33.33 (approx.)"
+                "a": "I ∝ [[1/R]]\nI = [[k/R]] ... (i)\nI = 40\nR = 10\n40 = [[k/10]]\nk = 400\nI = [[400/R]] ... (ii)\nR = 12\nI = [[400/12]]\nI = [[100/3]]\nI = 33.33 (approx.)"
               }
             ]
           }
@@ -19339,19 +19339,19 @@ var STUDY = {
               },
               {
                 "q": "چڪاس ڪريو ته ڇا هيٺيان قالب همشڪلي يا ابتا همشڪلي قالب آهن.\n(i) [1 1 -1; 1 2 0; -1 0 5]\n(ii) [0 1 -2; -1 0 3; 2 -3 0]\n(iii) [1 7 3; 7 4 -5; 3 -5 6]\n(iv) [0 -6 4; -6 0 7; 4 7 0]",
-                "a": "(i) A = [1 1 -1; 1 2 0; -1 0 5]\nA^t = [1 1 -1; 1 2 0; -1 0 5] = A\nSymmetric matrix\n(ii) A = [0 1 -2; -1 0 3; 2 -3 0]\nA^t = [0 -1 2; 1 0 -3; -2 3 0] = -A\nSkew-symmetric matrix\n(iii) A = [1 7 3; 7 4 -5; 3 -5 6]\nA^t = [1 7 3; 7 4 -5; 3 -5 6] = A\nSymmetric matrix\n(iv) A = [0 -6 4; -6 0 7; 4 7 0]\nA^t = [0 -6 4; -6 0 7; 4 7 0] = A\nSymmetric matrix"
+                "a": "(i) A = [1 1 -1; 1 2 0; -1 0 5]\nA^t = [1 1 -1; 1 2 0; -1 0 5]\nA^t = A\nSymmetric matrix\n(ii) A = [0 1 -2; -1 0 3; 2 -3 0]\nA^t = [0 -1 2; 1 0 -3; -2 3 0]\nA^t = -A\nSkew-symmetric matrix\n(iii) A = [1 7 3; 7 4 -5; 3 -5 6]\nA^t = [1 7 3; 7 4 -5; 3 -5 6]\nA^t = A\nSymmetric matrix\n(iv) A = [0 -6 4; -6 0 7; 4 7 0]\nA^t = [0 -6 4; -6 0 7; 4 7 0]\nA^t = A\nSymmetric matrix"
               },
               {
                 "q": "جيڪڏهن A = [1 -1; 0 1]، B = [2 -1; 1 0]، C = [2 3; -1 2]، D = [1 2 3; 1 2 3; 1 2 3] ۽ E = [1 2 -1; -1 0 2; 2 1 0] ته هيٺيان لھو جيڪڏهن ممڪن هجي\n(i) A + C\n(ii) A + E\n(iii) B - D\n(iv) 2B + 3A\n(v) B - C\n(vi) A^2\n(vii) B^2\n(viii) D + E",
-                "a": "(i) A + C = [1 -1; 0 1] + [2 3; -1 2] = [1+2 -1+3; 0+(-1) 1+2] = [3 2; -1 3]\n(ii) A + E is not possible\n(iii) B - D is not possible\n(iv) 2B + 3A = 2[2 -1; 1 0] + 3[1 -1; 0 1] = [4 -2; 2 0] + [3 -3; 0 3] = [7 -5; 2 3]\n(v) B - C = [2 -1; 1 0] - [2 3; -1 2] = [2-2 -1-3; 1-(-1) 0-2] = [0 -4; 2 -2]\n(vi) A^2 = A × A = [1 -1; 0 1] × [1 -1; 0 1] = [1×1+(-1)×0 1×(-1)+(-1)×1; 0×1+1×0 0×(-1)+1×1] = [1 -2; 0 1]\n(vii) B^2 = B × B = [2 -1; 1 0] × [2 -1; 1 0] = [2×2+(-1)×1 2×(-1)+(-1)×0; 1×2+0×1 1×(-1)+0×0] = [3 -2; 2 -1]\n(viii) D + E = [1 2 3; 1 2 3; 1 2 3] + [1 2 -1; -1 0 2; 2 1 0] = [2 4 2; 0 2 5; 3 3 3]"
+                "a": "(i) A + C = [1 -1; 0 1] + [2 3; -1 2]\nA + C = [1+2 -1+3; 0+(-1) 1+2]\nA + C = [3 2; -1 3]\n(ii) A + E is not possible\n(iii) B - D is not possible\n(iv) 2B + 3A = 2[2 -1; 1 0] + 3[1 -1; 0 1]\n2B + 3A = [4 -2; 2 0] + [3 -3; 0 3]\n2B + 3A = [7 -5; 2 3]\n(v) B - C = [2 -1; 1 0] - [2 3; -1 2]\nB - C = [2-2 -1-3; 1-(-1) 0-2]\nB - C = [0 -4; 2 -2]\n(vi) A^2 = A × A\nA^2 = [1 -1; 0 1] × [1 -1; 0 1]\nA^2 = [1×1+(-1)×0 1×(-1)+(-1)×1; 0×1+1×0 0×(-1)+1×1]\nA^2 = [1 -2; 0 1]\n(vii) B^2 = B × B\nB^2 = [2 -1; 1 0] × [2 -1; 1 0]\nB^2 = [2×2+(-1)×1 2×(-1)+(-1)×0; 1×2+0×1 1×(-1)+0×0]\nB^2 = [3 -2; 2 -1]\n(viii) D + E = [1 2 3; 1 2 3; 1 2 3] + [1 2 -1; -1 0 2; 2 1 0]\nD + E = [2 4 2; 0 2 5; 3 3 3]"
               },
               {
                 "q": "جيڪڏهن A = [-1 0 1; 2 1 0; 3 2 -1] ۽ B = [4 2 3; -2 4 1; 3 2 1] ته هيٺيان لھو\n(i) A + B\n(ii) A - B\n(iii) 3A + 2B\n(iv) AB\n(v) BA\n(vi) A^2",
-                "a": "(i) A + B = [-1+4 0+2 1+3; 2+(-2) 1+4 0+1; 3+3 2+2 -1+1] = [3 2 4; 0 5 1; 6 4 0]\n(ii) A - B = [-1-4 0-2 1-3; 2-(-2) 1-4 0-1; 3-3 2-2 -1-1] = [-5 -2 -2; 4 -3 -1; 0 0 -2]\n(iii) 3A + 2B = 3[-1 0 1; 2 1 0; 3 2 -1] + 2[4 2 3; -2 4 1; 3 2 1] = [-3 0 3; 6 3 0; 9 6 -3] + [8 4 6; -4 8 2; 6 4 2] = [5 4 9; 2 11 2; 15 10 -1]\n(iv) AB = [-1 0 1; 2 1 0; 3 2 -1] × [4 2 3; -2 4 1; 3 2 1]\nRow 1: (-1)(4)+0(-2)+1(3) = -1; (-1)(2)+0(4)+1(2) = 0; (-1)(3)+0(1)+1(1) = -2\nRow 2: 2(4)+1(-2)+0(3) = 6; 2(2)+1(4)+0(2) = 8; 2(3)+1(1)+0(1) = 7\nRow 3: 3(4)+2(-2)+(-1)(3) = 5; 3(2)+2(4)+(-1)(2) = 12; 3(3)+2(1)+(-1)(1) = 10\nAB = [-1 0 -2; 6 8 7; 5 12 10]\n(v) BA = [4 2 3; -2 4 1; 3 2 1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: 4(-1)+2(2)+3(3) = 9; 4(0)+2(1)+3(2) = 8; 4(1)+2(0)+3(-1) = 1\nRow 2: -2(-1)+4(2)+1(3) = 13; -2(0)+4(1)+1(2) = 6; -2(1)+4(0)+1(-1) = -3\nRow 3: 3(-1)+2(2)+1(3) = 4; 3(0)+2(1)+1(2) = 4; 3(1)+2(0)+1(-1) = 2\nBA = [9 8 1; 13 6 -3; 4 4 2]\n(vi) A^2 = A × A = [-1 0 1; 2 1 0; 3 2 -1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: (-1)(-1)+0(2)+1(3) = 4; (-1)(0)+0(1)+1(2) = 2; (-1)(1)+0(0)+1(-1) = -2\nRow 2: 2(-1)+1(2)+0(3) = 0; 2(0)+1(1)+0(2) = 1; 2(1)+1(0)+0(-1) = 2\nRow 3: 3(-1)+2(2)+(-1)(3) = -2; 3(0)+2(1)+(-1)(2) = 0; 3(1)+2(0)+(-1)(-1) = 4\nA^2 = [4 2 -2; 0 1 2; -2 0 4]"
+                "a": "(i) A + B = [-1+4 0+2 1+3; 2+(-2) 1+4 0+1; 3+3 2+2 -1+1]\nA + B = [3 2 4; 0 5 1; 6 4 0]\n(ii) A - B = [-1-4 0-2 1-3; 2-(-2) 1-4 0-1; 3-3 2-2 -1-1]\nA - B = [-5 -2 -2; 4 -3 -1; 0 0 -2]\n(iii) 3A + 2B = 3[-1 0 1; 2 1 0; 3 2 -1] + 2[4 2 3; -2 4 1; 3 2 1]\n3A + 2B = [-3 0 3; 6 3 0; 9 6 -3] + [8 4 6; -4 8 2; 6 4 2]\n3A + 2B = [5 4 9; 2 11 2; 15 10 -1]\n(iv) AB = [-1 0 1; 2 1 0; 3 2 -1] × [4 2 3; -2 4 1; 3 2 1]\nRow 1: (-1)(4)+0(-2)+1(3) = -1; (-1)(2)+0(4)+1(2) = 0; (-1)(3)+0(1)+1(1) = -2\nRow 2: 2(4)+1(-2)+0(3) = 6; 2(2)+1(4)+0(2) = 8; 2(3)+1(1)+0(1) = 7\nRow 3: 3(4)+2(-2)+(-1)(3) = 5; 3(2)+2(4)+(-1)(2) = 12; 3(3)+2(1)+(-1)(1) = 10\nAB = [-1 0 -2; 6 8 7; 5 12 10]\n(v) BA = [4 2 3; -2 4 1; 3 2 1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: 4(-1)+2(2)+3(3) = 9; 4(0)+2(1)+3(2) = 8; 4(1)+2(0)+3(-1) = 1\nRow 2: -2(-1)+4(2)+1(3) = 13; -2(0)+4(1)+1(2) = 6; -2(1)+4(0)+1(-1) = -3\nRow 3: 3(-1)+2(2)+1(3) = 4; 3(0)+2(1)+1(2) = 4; 3(1)+2(0)+1(-1) = 2\nBA = [9 8 1; 13 6 -3; 4 4 2]\n(vi) A^2 = A × A\nA^2 = [-1 0 1; 2 1 0; 3 2 -1] × [-1 0 1; 2 1 0; 3 2 -1]\nRow 1: (-1)(-1)+0(2)+1(3) = 4; (-1)(0)+0(1)+1(2) = 2; (-1)(1)+0(0)+1(-1) = -2\nRow 2: 2(-1)+1(2)+0(3) = 0; 2(0)+1(1)+0(2) = 1; 2(1)+1(0)+0(-1) = 2\nRow 3: 3(-1)+2(2)+(-1)(3) = -2; 3(0)+2(1)+(-1)(2) = 0; 3(1)+2(0)+(-1)(-1) = 4\nA^2 = [4 2 -2; 0 1 2; -2 0 4]"
               },
               {
                 "q": "تصديق ڪريو ته هيٺين قالبن لاءِ\n(i) A + B = B + A\n(ii) C - D ≠ D - C\nجيڪڏهن A = [2 -1; -7 4]، B = [-3 0; 7 -4]، C = [3 1 -4; 4 3 1; 1 4 -3] ۽ D = [2 7 -5; -2 1 0; 6 3 4]",
-                "a": "(i) A + B = [2 -1; -7 4] + [-3 0; 7 -4] = [2+(-3) -1+0; -7+7 4+(-4)] = [-1 -1; 0 0]\nB + A = [-3 0; 7 -4] + [2 -1; -7 4] = [-3+2 0+(-1); 7+(-7) -4+4] = [-1 -1; 0 0]\nA + B = B + A\n(ii) C - D = [3 1 -4; 4 3 1; 1 4 -3] - [2 7 -5; -2 1 0; 6 3 4] = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [2 7 -5; -2 1 0; 6 3 4] - [3 1 -4; 4 3 1; 1 4 -3] = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D ≠ D - C"
+                "a": "(i) A + B = [2 -1; -7 4] + [-3 0; 7 -4]\nA + B = [2+(-3) -1+0; -7+7 4+(-4)]\nA + B = [-1 -1; 0 0]\nB + A = [-3 0; 7 -4] + [2 -1; -7 4]\nB + A = [-3+2 0+(-1); 7+(-7) -4+4]\nB + A = [-1 -1; 0 0]\nA + B = B + A\n(ii) C - D = [3 1 -4; 4 3 1; 1 4 -3] - [2 7 -5; -2 1 0; 6 3 4]\nC - D = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [2 7 -5; -2 1 0; 6 3 4] - [3 1 -4; 4 3 1; 1 4 -3]\nD - C = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D = [1 -6 1; 6 2 1; -5 1 -7]\nD - C = [-1 6 -1; -6 -2 -1; 5 -1 7]\nC - D ≠ D - C"
               },
               {
                 "q": "ثابت ڪري ڏيکاريو ته AB ≠ BA جڏهن A = [8 2 1; 2 1 2; 2 3 0] ۽ B = [1 4 4; 2 5 7; 0 -4 3]",
@@ -19359,11 +19359,11 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن A = [-3 0; 7 -4]، B = [2 -1; -7 4] ۽ C = [1 0; -2 -4] ته پوءِ 2A - 3B + 4C جو ملهه لھو",
-                "a": "2A = 2[-3 0; 7 -4] = [-6 0; 14 -8]\n-3B = -3[2 -1; -7 4] = [-6 3; 21 -12]\n4C = 4[1 0; -2 -4] = [4 0; -8 -16]\n2A - 3B + 4C = [-6 0; 14 -8] + [-6 3; 21 -12] + [4 0; -8 -16]\n= [-6-6+4 0+3+0; 14+21-8 -8-12-16]\n= [-8 3; 27 -36]"
+                "a": "2A = 2[-3 0; 7 -4]\n2A = [-6 0; 14 -8]\n-3B = -3[2 -1; -7 4]\n-3B = [-6 3; 21 -12]\n4C = 4[1 0; -2 -4]\n4C = [4 0; -8 -16]\n2A - 3B + 4C = [-6 0; 14 -8] + [-6 3; 21 -12] + [4 0; -8 -16]\n= [-6-6+4 0+3+0; 14+21-8 -8-12-16]\n= [-8 3; 27 -36]"
               },
               {
                 "q": "جيڪڏهن [a b; c d] + [3 -1; 1 0] = [1 0; 0 1] ته پوءِ a، b، c ۽ d جو ملهه لھو",
-                "a": "[a b; c d] + [3 -1; 1 0] = [a+3 b-1; c+1 d+0] = [1 0; 0 1]\na + 3 = 1\na = 1 - 3 = -2\nb - 1 = 0\nb = 1\nc + 1 = 0\nc = -1\nd + 0 = 1\nd = 1"
+                "a": "[a b; c d] + [3 -1; 1 0] = [a+3 b-1; c+1 d+0]\n[a b; c d] + [3 -1; 1 0] = [1 0; 0 1]\na + 3 = 1\na = 1 - 3\na = -2\nb - 1 = 0\nb = 1\nc + 1 = 0\nc = -1\nd + 0 = 1\nd = 1"
               },
               {
                 "q": "جيڪڏهن [x -1 y; 2 0 3; z 3 2] = [3 a x; b 0 c; 2 3 d] ته پوءِ a، b، c، d، x، y ۽ z جي قيمت لھو",
@@ -19371,7 +19371,7 @@ var STUDY = {
               },
               {
                 "q": "هيٺين قالبن لاءِ ممڪن ضرب اپٽ لھو\nA = [1 -2; 3 1]، B = [2 1 0; 1 0 -1] ۽ C = [0 -1 2; -1 0 -4; 3 1 2]",
-                "a": "AB = [1 -2; 3 1] × [2 1 0; 1 0 -1] = [1(2)+(-2)(1) 1(1)+(-2)(0) 1(0)+(-2)(-1); 3(2)+1(1) 3(1)+1(0) 3(0)+1(-1)] = [0 1 2; 7 3 -1]\nBC = [2 1 0; 1 0 -1] × [0 -1 2; -1 0 -4; 3 1 2] = [2(0)+1(-1)+0(3) 2(-1)+1(0)+0(1) 2(2)+1(-4)+0(2); 1(0)+0(-1)+(-1)(3) 1(-1)+0(0)+(-1)(1) 1(2)+0(-4)+(-1)(2)] = [-1 -2 0; -3 -2 0]\nCB = [0 -1 2; -1 0 -4; 3 1 2] × [2 1 0; 1 0 -1] = [0(2)+(-1)(1)+2(1) 0(1)+(-1)(0)+2(0) 0(0)+(-1)(-1)+2(-1); -1(2)+0(1)+(-4)(1) -1(1)+0(0)+(-4)(0) -1(0)+0(-1)+(-4)(-1); 3(2)+1(1)+2(1) 3(1)+1(0)+2(0) 3(0)+1(-1)+2(-1)] = [1 0 -1; -6 -1 4; 9 3 -3]\nABC = [0 1 2; 7 3 -1] × [0 -1 2; -1 0 -4; 3 1 2] = [0(0)+1(-1)+2(3) 0(-1)+1(0)+2(1) 0(2)+1(-4)+2(2); 7(0)+3(-1)+(-1)(3) 7(-1)+3(0)+(-1)(1) 7(2)+3(-4)+(-1)(2)] = [5 2 0; -6 -8 0]"
+                "a": "AB = [1 -2; 3 1] × [2 1 0; 1 0 -1]\nAB = [1(2)+(-2)(1) 1(1)+(-2)(0) 1(0)+(-2)(-1); 3(2)+1(1) 3(1)+1(0) 3(0)+1(-1)]\nAB = [0 1 2; 7 3 -1]\nBC = [2 1 0; 1 0 -1] × [0 -1 2; -1 0 -4; 3 1 2]\nBC = [2(0)+1(-1)+0(3) 2(-1)+1(0)+0(1) 2(2)+1(-4)+0(2); 1(0)+0(-1)+(-1)(3) 1(-1)+0(0)+(-1)(1) 1(2)+0(-4)+(-1)(2)]\nBC = [-1 -2 0; -3 -2 0]\nCB = [0 -1 2; -1 0 -4; 3 1 2] × [2 1 0; 1 0 -1]\nCB = [0(2)+(-1)(1)+2(1) 0(1)+(-1)(0)+2(0) 0(0)+(-1)(-1)+2(-1); -1(2)+0(1)+(-4)(1) -1(1)+0(0)+(-4)(0) -1(0)+0(-1)+(-4)(-1); 3(2)+1(1)+2(1) 3(1)+1(0)+2(0) 3(0)+1(-1)+2(-1)]\nCB = [1 0 -1; -6 -1 4; 9 3 -3]\nABC = [0 1 2; 7 3 -1] × [0 -1 2; -1 0 -4; 3 1 2]\nABC = [0(0)+1(-1)+2(3) 0(-1)+1(0)+2(1) 0(2)+1(-4)+2(2); 7(0)+3(-1)+(-1)(3) 7(-1)+3(0)+(-1)(1) 7(2)+3(-4)+(-1)(2)]\nABC = [5 2 0; -6 -8 0]"
               },
               {
                 "q": "ضرب اپٽ لھو: [1 0 3; 2 1 2; 1 3 1] × [2 2 0; 1 3 2; 3 2 0]",
@@ -19379,15 +19379,15 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن A = [3 1; 1 2]، B = [2 -1 0; 3 1 2] ۽ C = [1 1 2; -2 2 3] ته پوءِ تصديق ڪريو ته\n(i) A(B + C) = AB + AC\n(ii) (B + C)A = BA + CA",
-                "a": "(i) B + C = [2 -1 0; 3 1 2] + [1 1 2; -2 2 3] = [3 0 2; 1 3 5]\nL.H.S. = A(B + C) = [3 1; 1 2] × [3 0 2; 1 3 5]\nRow 1: 3(3)+1(1) = 10; 3(0)+1(3) = 3; 3(2)+1(5) = 11\nRow 2: 1(3)+2(1) = 5; 1(0)+2(3) = 6; 1(2)+2(5) = 12\nA(B + C) = [10 3 11; 5 6 12]\nR.H.S.: AB = [3 1; 1 2] × [2 -1 0; 3 1 2]\nRow 1: 3(2)+1(3) = 9; 3(-1)+1(1) = -2; 3(0)+1(2) = 2\nRow 2: 1(2)+2(3) = 8; 1(-1)+2(1) = 1; 1(0)+2(2) = 4\nAB = [9 -2 2; 8 1 4]\nAC = [3 1; 1 2] × [1 1 2; -2 2 3]\nRow 1: 3(1)+1(-2) = 1; 3(1)+1(2) = 5; 3(2)+1(3) = 9\nRow 2: 1(1)+2(-2) = -3; 1(1)+2(2) = 5; 1(2)+2(3) = 8\nAC = [1 5 9; -3 5 8]\nAB + AC = [9+1 -2+5 2+9; 8+(-3) 1+5 4+8] = [10 3 11; 5 6 12]\nL.H.S. = R.H.S., A(B + C) = AB + AC\n(ii) Not possible\n(B + C): 2 × 3\nA: 2 × 2"
+                "a": "(i) B + C = [2 -1 0; 3 1 2] + [1 1 2; -2 2 3]\nB + C = [3 0 2; 1 3 5]\nL.H.S. = A(B + C)\nL.H.S. = [3 1; 1 2] × [3 0 2; 1 3 5]\nRow 1: 3(3)+1(1) = 10; 3(0)+1(3) = 3; 3(2)+1(5) = 11\nRow 2: 1(3)+2(1) = 5; 1(0)+2(3) = 6; 1(2)+2(5) = 12\nA(B + C) = [10 3 11; 5 6 12]\nR.H.S.: AB = [3 1; 1 2] × [2 -1 0; 3 1 2]\nRow 1: 3(2)+1(3) = 9; 3(-1)+1(1) = -2; 3(0)+1(2) = 2\nRow 2: 1(2)+2(3) = 8; 1(-1)+2(1) = 1; 1(0)+2(2) = 4\nAB = [9 -2 2; 8 1 4]\nAC = [3 1; 1 2] × [1 1 2; -2 2 3]\nRow 1: 3(1)+1(-2) = 1; 3(1)+1(2) = 5; 3(2)+1(3) = 9\nRow 2: 1(1)+2(-2) = -3; 1(1)+2(2) = 5; 1(2)+2(3) = 8\nAC = [1 5 9; -3 5 8]\nAB + AC = [9+1 -2+5 2+9; 8+(-3) 1+5 4+8]\nAB + AC = [10 3 11; 5 6 12]\nL.H.S. = R.H.S., A(B + C) = AB + AC\n(ii) Not possible\n(B + C): 2 × 3\nA: 2 × 2"
               },
               {
                 "q": "جيڪڏهن A = [6 5 2; 4 6 3; 0 1 7]، B = [6 8 0; 5 1 2; 3 6 4] ۽ C = [1 2 3; 1 2 3; 1 2 3] ته هيٺين جي تصديق ڪريو\n(a) A + B = B + A\n(b) (A + B) + C = A + (B + C)\n(c) (A + B)C = AC + BC\n(d) A(B + C) = AB + AC",
-                "a": "(a) A + B = [6 5 2; 4 6 3; 0 1 7] + [6 8 0; 5 1 2; 3 6 4] = [12 13 2; 9 7 5; 3 7 11]\nB + A = [6 8 0; 5 1 2; 3 6 4] + [6 5 2; 4 6 3; 0 1 7] = [12 13 2; 9 7 5; 3 7 11]\nA + B = B + A\n(b) (A + B) + C = [12 13 2; 9 7 5; 3 7 11] + [1 2 3; 1 2 3; 1 2 3] = [13 15 5; 10 9 8; 4 9 14]\nB + C = [6 8 0; 5 1 2; 3 6 4] + [1 2 3; 1 2 3; 1 2 3] = [7 10 3; 6 3 5; 4 8 7]\nA + (B + C) = [6 5 2; 4 6 3; 0 1 7] + [7 10 3; 6 3 5; 4 8 7] = [13 15 5; 10 9 8; 4 9 14]\n(A + B) + C = A + (B + C)\n(c) AC = [6 5 2; 4 6 3; 0 1 7] × [1 2 3; 1 2 3; 1 2 3] = [13 26 39; 13 26 39; 8 16 24]\nBC = [6 8 0; 5 1 2; 3 6 4] × [1 2 3; 1 2 3; 1 2 3] = [14 28 42; 8 16 24; 13 26 39]\nAC + BC = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = [12 13 2; 9 7 5; 3 7 11] × [1 2 3; 1 2 3; 1 2 3] = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = AC + BC\n(d) B + C = [7 10 3; 6 3 5; 4 8 7]\nA(B + C) = [6 5 2; 4 6 3; 0 1 7] × [7 10 3; 6 3 5; 4 8 7]\nRow 1: 6(7)+5(6)+2(4) = 80; 6(10)+5(3)+2(8) = 91; 6(3)+5(5)+2(7) = 57\nRow 2: 4(7)+6(6)+3(4) = 76; 4(10)+6(3)+3(8) = 82; 4(3)+6(5)+3(7) = 63\nRow 3: 0(7)+1(6)+7(4) = 34; 0(10)+1(3)+7(8) = 59; 0(3)+1(5)+7(7) = 54\nA(B + C) = [80 91 57; 76 82 63; 34 59 54]\nAB = [6 5 2; 4 6 3; 0 1 7] × [6 8 0; 5 1 2; 3 6 4] = [67 65 18; 63 56 24; 26 43 30]\nAB + AC = [67+13 65+26 18+39; 63+13 56+26 24+39; 26+8 43+16 30+24] = [80 91 57; 76 82 63; 34 59 54]\nA(B + C) = AB + AC"
+                "a": "(a) A + B = [6 5 2; 4 6 3; 0 1 7] + [6 8 0; 5 1 2; 3 6 4]\nA + B = [12 13 2; 9 7 5; 3 7 11]\nB + A = [6 8 0; 5 1 2; 3 6 4] + [6 5 2; 4 6 3; 0 1 7]\nB + A = [12 13 2; 9 7 5; 3 7 11]\nA + B = B + A\n(b) (A + B) + C = [12 13 2; 9 7 5; 3 7 11] + [1 2 3; 1 2 3; 1 2 3]\n(A + B) + C = [13 15 5; 10 9 8; 4 9 14]\nB + C = [6 8 0; 5 1 2; 3 6 4] + [1 2 3; 1 2 3; 1 2 3]\nB + C = [7 10 3; 6 3 5; 4 8 7]\nA + (B + C) = [6 5 2; 4 6 3; 0 1 7] + [7 10 3; 6 3 5; 4 8 7]\nA + (B + C) = [13 15 5; 10 9 8; 4 9 14]\n(A + B) + C = A + (B + C)\n(c) AC = [6 5 2; 4 6 3; 0 1 7] × [1 2 3; 1 2 3; 1 2 3]\nAC = [13 26 39; 13 26 39; 8 16 24]\nBC = [6 8 0; 5 1 2; 3 6 4] × [1 2 3; 1 2 3; 1 2 3]\nBC = [14 28 42; 8 16 24; 13 26 39]\nAC + BC = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = [12 13 2; 9 7 5; 3 7 11] × [1 2 3; 1 2 3; 1 2 3]\n(A + B)C = [27 54 81; 21 42 63; 21 42 63]\n(A + B)C = AC + BC\n(d) B + C = [7 10 3; 6 3 5; 4 8 7]\nA(B + C) = [6 5 2; 4 6 3; 0 1 7] × [7 10 3; 6 3 5; 4 8 7]\nRow 1: 6(7)+5(6)+2(4) = 80; 6(10)+5(3)+2(8) = 91; 6(3)+5(5)+2(7) = 57\nRow 2: 4(7)+6(6)+3(4) = 76; 4(10)+6(3)+3(8) = 82; 4(3)+6(5)+3(7) = 63\nRow 3: 0(7)+1(6)+7(4) = 34; 0(10)+1(3)+7(8) = 59; 0(3)+1(5)+7(7) = 54\nA(B + C) = [80 91 57; 76 82 63; 34 59 54]\nAB = [6 5 2; 4 6 3; 0 1 7] × [6 8 0; 5 1 2; 3 6 4]\nAB = [67 65 18; 63 56 24; 26 43 30]\nAB + AC = [67+13 65+26 18+39; 63+13 56+26 24+39; 26+8 43+16 30+24]\nAB + AC = [80 91 57; 76 82 63; 34 59 54]\nA(B + C) = AB + AC"
               },
               {
                 "q": "جيڪڏهن A = [2 3 1; 1 -1 1; 0 2 2]، B = [1 2 1; -1 2 -1; 2 0 2] ۽ C = [1 0 1; 0 1 1; 1 0 2] ته پوءِ ثابت ڪري ڏيکاريو ته A(BC) = (AB)C",
-                "a": "BC = [1 2 1; -1 2 -1; 2 0 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+2(0)+1(1) = 2; 1(0)+2(1)+1(0) = 2; 1(1)+2(1)+1(2) = 5\nRow 2: -1(1)+2(0)+(-1)(1) = -2; -1(0)+2(1)+(-1)(0) = 2; -1(1)+2(1)+(-1)(2) = -1\nRow 3: 2(1)+0(0)+2(1) = 4; 2(0)+0(1)+2(0) = 0; 2(1)+0(1)+2(2) = 6\nBC = [2 2 5; -2 2 -1; 4 0 6]\nA(BC) = [2 3 1; 1 -1 1; 0 2 2] × [2 2 5; -2 2 -1; 4 0 6]\nRow 1: 2(2)+3(-2)+1(4) = 2; 2(2)+3(2)+1(0) = 10; 2(5)+3(-1)+1(6) = 13\nRow 2: 1(2)+(-1)(-2)+1(4) = 8; 1(2)+(-1)(2)+1(0) = 0; 1(5)+(-1)(-1)+1(6) = 12\nRow 3: 0(2)+2(-2)+2(4) = 4; 0(2)+2(2)+2(0) = 4; 0(5)+2(-1)+2(6) = 10\nA(BC) = [2 10 13; 8 0 12; 4 4 10]\nAB = [2 3 1; 1 -1 1; 0 2 2] × [1 2 1; -1 2 -1; 2 0 2]\nRow 1: 2(1)+3(-1)+1(2) = 1; 2(2)+3(2)+1(0) = 10; 2(1)+3(-1)+1(2) = 1\nRow 2: 1(1)+(-1)(-1)+1(2) = 4; 1(2)+(-1)(2)+1(0) = 0; 1(1)+(-1)(-1)+1(2) = 4\nRow 3: 0(1)+2(-1)+2(2) = 2; 0(2)+2(2)+2(0) = 4; 0(1)+2(-1)+2(2) = 2\nAB = [1 10 1; 4 0 4; 2 4 2]\n(AB)C = [1 10 1; 4 0 4; 2 4 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+10(0)+1(1) = 2; 1(0)+10(1)+1(0) = 10; 1(1)+10(1)+1(2) = 13\nRow 2: 4(1)+0(0)+4(1) = 8; 4(0)+0(1)+4(0) = 0; 4(1)+0(1)+4(2) = 12\nRow 3: 2(1)+4(0)+2(1) = 4; 2(0)+4(1)+2(0) = 4; 2(1)+4(1)+2(2) = 10\n(AB)C = [2 10 13; 8 0 12; 4 4 10]\nA(BC) = (AB)C = [2 10 13; 8 0 12; 4 4 10]"
+                "a": "BC = [1 2 1; -1 2 -1; 2 0 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+2(0)+1(1) = 2; 1(0)+2(1)+1(0) = 2; 1(1)+2(1)+1(2) = 5\nRow 2: -1(1)+2(0)+(-1)(1) = -2; -1(0)+2(1)+(-1)(0) = 2; -1(1)+2(1)+(-1)(2) = -1\nRow 3: 2(1)+0(0)+2(1) = 4; 2(0)+0(1)+2(0) = 0; 2(1)+0(1)+2(2) = 6\nBC = [2 2 5; -2 2 -1; 4 0 6]\nA(BC) = [2 3 1; 1 -1 1; 0 2 2] × [2 2 5; -2 2 -1; 4 0 6]\nRow 1: 2(2)+3(-2)+1(4) = 2; 2(2)+3(2)+1(0) = 10; 2(5)+3(-1)+1(6) = 13\nRow 2: 1(2)+(-1)(-2)+1(4) = 8; 1(2)+(-1)(2)+1(0) = 0; 1(5)+(-1)(-1)+1(6) = 12\nRow 3: 0(2)+2(-2)+2(4) = 4; 0(2)+2(2)+2(0) = 4; 0(5)+2(-1)+2(6) = 10\nA(BC) = [2 10 13; 8 0 12; 4 4 10]\nAB = [2 3 1; 1 -1 1; 0 2 2] × [1 2 1; -1 2 -1; 2 0 2]\nRow 1: 2(1)+3(-1)+1(2) = 1; 2(2)+3(2)+1(0) = 10; 2(1)+3(-1)+1(2) = 1\nRow 2: 1(1)+(-1)(-1)+1(2) = 4; 1(2)+(-1)(2)+1(0) = 0; 1(1)+(-1)(-1)+1(2) = 4\nRow 3: 0(1)+2(-1)+2(2) = 2; 0(2)+2(2)+2(0) = 4; 0(1)+2(-1)+2(2) = 2\nAB = [1 10 1; 4 0 4; 2 4 2]\n(AB)C = [1 10 1; 4 0 4; 2 4 2] × [1 0 1; 0 1 1; 1 0 2]\nRow 1: 1(1)+10(0)+1(1) = 2; 1(0)+10(1)+1(0) = 10; 1(1)+10(1)+1(2) = 13\nRow 2: 4(1)+0(0)+4(1) = 8; 4(0)+0(1)+4(0) = 0; 4(1)+0(1)+4(2) = 12\nRow 3: 2(1)+4(0)+2(1) = 4; 2(0)+4(1)+2(0) = 4; 2(1)+4(1)+2(2) = 10\n(AB)C = [2 10 13; 8 0 12; 4 4 10]\nA(BC) = (AB)C\nA(BC) = [2 10 13; 8 0 12; 4 4 10]"
               }
             ]
           },
@@ -19396,35 +19396,35 @@ var STUDY = {
             "items": [
               {
                 "q": "هيٺين مان هر هڪ قطعي ملهه جي قيمت لھو\n(i) |-5 -3; 3 -4|\n(ii) |-4 3; 1 -3|\n(iii) |-1 -5; 2 3|\n(iv) |2 -5; 2 -1|\n(v) |3 -3 -4; 4 1 -5; 0 -1 -4|\n(vi) |-3 4 -5; 2 -3 -5; 1 3 5|\n(vii) |0 5 -4; -3 4 -5; 1 0 -5|\n(viii) |4 3 -5; -5 -1 -5; 2 4 4|\n(ix) |1 0 4; -2 3 -5; 3 5 3|\n(x) |0 a b; 0 c d; 0 x y|\n(xi) |-2 0 0; -6 x 1; -4 0 -1|",
-                "a": "(i) |-5 -3; 3 -4| = (-5)(-4) - (-3)(3) = 20 + 9 = 29\n(ii) |-4 3; 1 -3| = (-4)(-3) - (3)(1) = 12 - 3 = 9\n(iii) |-1 -5; 2 3| = (-1)(3) - (-5)(2) = -3 + 10 = 7\n(iv) |2 -5; 2 -1| = (2)(-1) - (-5)(2) = -2 + 10 = 8\n(v) |3 -3 -4; 4 1 -5; 0 -1 -4| = 3|1 -5; -1 -4| - (-3)|4 -5; 0 -4| + (-4)|4 1; 0 -1| = 3(-4-5) + 3(-16-0) - 4(-4-0) = 3(-9) + 3(-16) - 4(-4) = -27 - 48 + 16 = -59\n(vi) |-3 4 -5; 2 -3 -5; 1 3 5| = -3|-3 -5; 3 5| - 4|2 -5; 1 5| + (-5)|2 -3; 1 3| = -3(-15+15) - 4(10+5) - 5(6+3) = 0 - 60 - 45 = -105\n(vii) |0 5 -4; -3 4 -5; 1 0 -5| = 0 - 5|-3 -5; 1 -5| + (-4)|-3 4; 1 0| = -5(15+5) - 4(0-4) = -100 + 16 = -84\n(viii) |4 3 -5; -5 -1 -5; 2 4 4| = 4|-1 -5; 4 4| - 3|-5 -5; 2 4| + (-5)|-5 -1; 2 4| = 4(-4+20) - 3(-20+10) - 5(-20+2) = 64 + 30 + 90 = 184\n(ix) |1 0 4; -2 3 -5; 3 5 3| = 1|3 -5; 5 3| - 0 + 4|-2 3; 3 5| = (9+25) + 4(-10-9) = 34 - 76 = -42\n(x) |0 a b; 0 c d; 0 x y| = 0\n(xi) |-2 0 0; -6 x 1; -4 0 -1| = -2|x 1; 0 -1| - 0 + 0 = -2(-x - 0) = 2x"
+                "a": "(i) |-5 -3; 3 -4| = (-5)(-4) - (-3)(3)\n|-5 -3; 3 -4| = 20 + 9\n|-5 -3; 3 -4| = 29\n(ii) |-4 3; 1 -3| = (-4)(-3) - (3)(1)\n|-4 3; 1 -3| = 12 - 3\n|-4 3; 1 -3| = 9\n(iii) |-1 -5; 2 3| = (-1)(3) - (-5)(2)\n|-1 -5; 2 3| = -3 + 10\n|-1 -5; 2 3| = 7\n(iv) |2 -5; 2 -1| = (2)(-1) - (-5)(2)\n|2 -5; 2 -1| = -2 + 10\n|2 -5; 2 -1| = 8\n(v) |3 -3 -4; 4 1 -5; 0 -1 -4| = 3|1 -5; -1 -4| - (-3)|4 -5; 0 -4| + (-4)|4 1; 0 -1|\n|3 -3 -4; 4 1 -5; 0 -1 -4| = 3(-4-5) + 3(-16-0) - 4(-4-0)\n|3 -3 -4; 4 1 -5; 0 -1 -4| = 3(-9) + 3(-16) - 4(-4)\n|3 -3 -4; 4 1 -5; 0 -1 -4| = -27 - 48 + 16\n|3 -3 -4; 4 1 -5; 0 -1 -4| = -59\n(vi) |-3 4 -5; 2 -3 -5; 1 3 5| = -3|-3 -5; 3 5| - 4|2 -5; 1 5| + (-5)|2 -3; 1 3|\n|-3 4 -5; 2 -3 -5; 1 3 5| = -3(-15+15) - 4(10+5) - 5(6+3)\n|-3 4 -5; 2 -3 -5; 1 3 5| = 0 - 60 - 45\n|-3 4 -5; 2 -3 -5; 1 3 5| = -105\n(vii) |0 5 -4; -3 4 -5; 1 0 -5| = 0 - 5|-3 -5; 1 -5| + (-4)|-3 4; 1 0|\n|0 5 -4; -3 4 -5; 1 0 -5| = -5(15+5) - 4(0-4)\n|0 5 -4; -3 4 -5; 1 0 -5| = -100 + 16\n|0 5 -4; -3 4 -5; 1 0 -5| = -84\n(viii) |4 3 -5; -5 -1 -5; 2 4 4| = 4|-1 -5; 4 4| - 3|-5 -5; 2 4| + (-5)|-5 -1; 2 4|\n|4 3 -5; -5 -1 -5; 2 4 4| = 4(-4+20) - 3(-20+10) - 5(-20+2)\n|4 3 -5; -5 -1 -5; 2 4 4| = 64 + 30 + 90\n|4 3 -5; -5 -1 -5; 2 4 4| = 184\n(ix) |1 0 4; -2 3 -5; 3 5 3| = 1|3 -5; 5 3| - 0 + 4|-2 3; 3 5|\n|1 0 4; -2 3 -5; 3 5 3| = (9+25) + 4(-10-9)\n|1 0 4; -2 3 -5; 3 5 3| = 34 - 76\n|1 0 4; -2 3 -5; 3 5 3| = -42\n(x) |0 a b; 0 c d; 0 x y| = 0\n(xi) |-2 0 0; -6 x 1; -4 0 -1| = -2|x 1; 0 -1| - 0 + 0\n|-2 0 0; -6 x 1; -4 0 -1| = -2(-x - 0)\n|-2 0 0; -6 x 1; -4 0 -1| = 2x"
               },
               {
                 "q": "جيڪڏهن A = [2 1 1; 1 1 1; 1 -1 2] ته پوءِ M12، M22، M21، A12، A22 ۽ A21 جا ملهه لھو.",
-                "a": "M12 = |1 1; 1 2| = 2 - 1 = 1\nA12 = (-1)^(1+2) × M12 = (-1)^3 × 1 = -1\nM22 = |2 1; 1 2| = 4 - 1 = 3\nA22 = (-1)^(2+2) × M22 = (-1)^4 × 3 = 3\nM21 = |1 1; -1 2| = 2 - (-1) = 3\nA21 = (-1)^(2+1) × M21 = (-1)^3 × 3 = -3"
+                "a": "M12 = |1 1; 1 2|\nM12 = 2 - 1\nM12 = 1\nA12 = (-1)^(1+2) × M12\nA12 = (-1)^3 × 1\nA12 = -1\nM22 = |2 1; 1 2|\nM22 = 4 - 1\nM22 = 3\nA22 = (-1)^(2+2) × M22\nA22 = (-1)^4 × 3\nA22 = 3\nM21 = |1 1; -1 2|\nM21 = 2 - (-1)\nM21 = 3\nA21 = (-1)^(2+1) × M21\nA21 = (-1)^3 × 3\nA21 = -3"
               },
               {
                 "q": "x جي ڪهڙي قيمت لاءِ [5-x x+1; 2 4] نادر قالب ٿيندو",
-                "a": "|A| = |5-x x+1; 2 4| = 4(5 - x) - 2(x + 1) = 20 - 4x - 2x - 2 = 18 - 6x\n|A| = 0\n18 - 6x = 0\n6x = 18\nx = 3"
+                "a": "|A| = |5-x x+1; 2 4|\n|A| = 4(5 - x) - 2(x + 1)\n|A| = 20 - 4x - 2x - 2\n|A| = 18 - 6x\n|A| = 0\n18 - 6x = 0\n6x = 18\nx = 3"
               },
               {
                 "q": "هيٺين چورس قالبن مان ڪهڙو نادر قالب ۽ ڪهڙو غير نادر قالب آهي\nA = [0 2 -1; 3 -2 1; 3 2 -1] ۽ B = [0 2 -1; 3 -2 1; 3 2 1]",
-                "a": "|A| = |0 2 -1; 3 -2 1; 3 2 -1| = 0 - 2|3 1; 3 -1| + (-1)|3 -2; 3 2| = -2(-3-3) - (6+6) = 12 - 12 = 0\n|A| = 0, A is a singular matrix\n|B| = |0 2 -1; 3 -2 1; 3 2 1| = 0 - 2|3 1; 3 1| + (-1)|3 -2; 3 2| = -2(3-3) - (6+6) = 0 - 12 = -12\n|B| = -12 ≠ 0, B is a non-singular matrix"
+                "a": "|A| = |0 2 -1; 3 -2 1; 3 2 -1|\n|A| = 0 - 2|3 1; 3 -1| + (-1)|3 -2; 3 2|\n|A| = -2(-3-3) - (6+6)\n|A| = 12 - 12\n|A| = 0\n|A| = 0, A is a singular matrix\n|B| = |0 2 -1; 3 -2 1; 3 2 1|\n|B| = 0 - 2|3 1; 3 1| + (-1)|3 -2; 3 2|\n|B| = -2(3-3) - (6+6)\n|B| = 0 - 12\n|B| = -12\n|B| = -12 ≠ 0, B is a non-singular matrix"
               },
               {
                 "q": "هيٺين جا اذجوائنٽ لھو\nA = [1 6; 4 7]، B = [-3 2 -5; -1 0 -2; 3 -4 1] ۽ C = [0 -2 0; 6 2 -6; -3 0 6]",
-                "a": "adj [a b; c d] = [d -b; -c a]\nA = [1 6; 4 7]: Adj(A) = [7 -6; -4 1]\nB = [-3 2 -5; -1 0 -2; 3 -4 1]\nA11 = |0 -2; -4 1| = 0 - 8 = -8\nA12 = -|-1 -2; 3 1| = -(-1 + 6) = -5\nA13 = |-1 0; 3 -4| = 4 - 0 = 4\nA21 = -|2 -5; -4 1| = -(2 - 20) = 18\nA22 = |-3 -5; 3 1| = -3 + 15 = 12\nA23 = -|-3 2; 3 -4| = -(12 - 6) = -6\nA31 = |2 -5; 0 -2| = -4 - 0 = -4\nA32 = -|-3 -5; -1 -2| = -(6 - 5) = -1\nA33 = |-3 2; -1 0| = 0 + 2 = 2\nCofactor matrix = [-8 -5 4; 18 12 -6; -4 -1 2]\nAdj(B) = [-8 18 -4; -5 12 -1; 4 -6 2]\nC = [0 -2 0; 6 2 -6; -3 0 6]\nA11 = |2 -6; 0 6| = 12 - 0 = 12\nA12 = -|6 -6; -3 6| = -(36 - 18) = -18\nA13 = |6 2; -3 0| = 0 + 6 = 6\nA21 = -|-2 0; 0 6| = -(-12 - 0) = 12\nA22 = |0 0; -3 6| = 0\nA23 = -|0 -2; -3 0| = -(0 - 6) = 6\nA31 = |-2 0; 2 -6| = 12 - 0 = 12\nA32 = -|0 0; 6 -6| = 0\nA33 = |0 -2; 6 2| = 0 + 12 = 12\nCofactor matrix = [12 -18 6; 12 0 6; 12 0 12]\nAdj(C) = [12 12 12; -18 0 0; 6 6 12]"
+                "a": "adj [a b; c d] = [d -b; -c a]\nA = [1 6; 4 7]: Adj(A) = [7 -6; -4 1]\nB = [-3 2 -5; -1 0 -2; 3 -4 1]\nA11 = |0 -2; -4 1|\nA11 = 0 - 8\nA11 = -8\nA12 = -|-1 -2; 3 1|\nA12 = -(-1 + 6)\nA12 = -5\nA13 = |-1 0; 3 -4|\nA13 = 4 - 0\nA13 = 4\nA21 = -|2 -5; -4 1|\nA21 = -(2 - 20)\nA21 = 18\nA22 = |-3 -5; 3 1|\nA22 = -3 + 15\nA22 = 12\nA23 = -|-3 2; 3 -4|\nA23 = -(12 - 6)\nA23 = -6\nA31 = |2 -5; 0 -2|\nA31 = -4 - 0\nA31 = -4\nA32 = -|-3 -5; -1 -2|\nA32 = -(6 - 5)\nA32 = -1\nA33 = |-3 2; -1 0|\nA33 = 0 + 2\nA33 = 2\nCofactor matrix = [-8 -5 4; 18 12 -6; -4 -1 2]\nAdj(B) = [-8 18 -4; -5 12 -1; 4 -6 2]\nC = [0 -2 0; 6 2 -6; -3 0 6]\nA11 = |2 -6; 0 6|\nA11 = 12 - 0\nA11 = 12\nA12 = -|6 -6; -3 6|\nA12 = -(36 - 18)\nA12 = -18\nA13 = |6 2; -3 0|\nA13 = 0 + 6\nA13 = 6\nA21 = -|-2 0; 0 6|\nA21 = -(-12 - 0)\nA21 = 12\nA22 = |0 0; -3 6|\nA22 = 0\nA23 = -|0 -2; -3 0|\nA23 = -(0 - 6)\nA23 = 6\nA31 = |-2 0; 2 -6|\nA31 = 12 - 0\nA31 = 12\nA32 = -|0 0; 6 -6|\nA32 = 0\nA33 = |0 -2; 6 2|\nA33 = 0 + 12\nA33 = 12\nCofactor matrix = [12 -18 6; 12 0 6; 12 0 12]\nAdj(C) = [12 12 12; -18 0 0; 6 6 12]"
               },
               {
                 "q": "جيڪڏهن A = [2 3; -4 -6] ته تصديق ڪريو ته A(adj A) = |A|I",
-                "a": "|A| = |2 3; -4 -6| = 2(-6) - 3(-4) = -12 + 12 = 0\n|A|I = 0 × I2 = [0 0; 0 0]\nadj [a b; c d] = [d -b; -c a].\nadj(A) = [-6 -3; 4 2]\nA(adj A) = [2 3; -4 -6] × [-6 -3; 4 2]\nRow 1: 2(-6)+3(4) = 0; 2(-3)+3(2) = 0\nRow 2: -4(-6)+(-6)(4) = 0; -4(-3)+(-6)(2) = 0\nA(adj A) = [0 0; 0 0]\nA(adj A) = [0 0; 0 0] = |A|I, the result"
+                "a": "|A| = |2 3; -4 -6|\n|A| = 2(-6) - 3(-4)\n|A| = -12 + 12\n|A| = 0\n|A|I = 0 × I2\n|A|I = [0 0; 0 0]\nadj [a b; c d] = [d -b; -c a].\nadj(A) = [-6 -3; 4 2]\nA(adj A) = [2 3; -4 -6] × [-6 -3; 4 2]\nRow 1: 2(-6)+3(4) = 0; 2(-3)+3(2) = 0\nRow 2: -4(-6)+(-6)(4) = 0; -4(-3)+(-6)(2) = 0\nA(adj A) = [0 0; 0 0]\nA(adj A) = [0 0; 0 0]\nA(adj A) = |A|I, the result"
               },
               {
                 "q": "اذجوائنٽ واري طريقي سان هيٺين قالبن جا ضربي ابتڙ لھو\n(i) A = [3 2; -2 -1]\n(ii) B = [3 6; 5 10]\n(iii) C = [2 1 1; 3 2 1; 2 1 2]\n(iv) D = [1 0 1; -4 1 -1; 6 -2 1]\n(v) E = [1 -1 3; 2 1 2; -2 -2 1]",
-                "a": "Use A^-1 = [[Adj(A)/|A|]]\n(i) A = [3 2; -2 -1]\n|A| = 3(-1) - 2(-2) = -3 + 4 = 1 ≠ 0\nAdj(A) = [-1 -2; 2 3]\nA^-1 = ([[1/1]])[-1 -2; 2 3] = [-1 -2; 2 3]\n(ii) B = [3 6; 5 10]\n|B| = 3(10) - 6(5) = 30 - 30 = 0\nSingular\nInverse does not exist\n(iii) C = [2 1 1; 3 2 1; 2 1 2]\n|C| = 2|2 1; 1 2| - 1|3 1; 2 2| + 1|3 2; 2 1| = 2(3) - (6-2) + (3-4) = 6 - 4 - 1 = 1 ≠ 0\nCofactors: A11 = 3, A12 = -4, A13 = -1, A21 = -1, A22 = 2, A23 = 0, A31 = -1, A32 = 1, A33 = 1\nCofactor matrix = [3 -4 -1; -1 2 0; -1 1 1]\nAdj(C) = [3 -1 -1; -4 2 1; -1 0 1]\nC^-1 = ([[1/1]])Adj(C) = [3 -1 -1; -4 2 1; -1 0 1]\n(iv) D = [1 0 1; -4 1 -1; 6 -2 1]\n|D| = 1|1 -1; -2 1| - 0 + 1|-4 1; 6 -2| = (1-2) + (8-6) = -1 + 2 = 1 ≠ 0\nCofactors: A11 = -1, A12 = -2, A13 = 2, A21 = -2, A22 = -5, A23 = 2, A31 = -1, A32 = -3, A33 = 1\nCofactor matrix = [-1 -2 2; -2 -5 2; -1 -3 1]\nAdj(D) = [-1 -2 -1; -2 -5 -3; 2 2 1]\nD^-1 = ([[1/1]])Adj(D) = [-1 -2 -1; -2 -5 -3; 2 2 1]\n(v) E = [1 -1 3; 2 1 2; -2 -2 1]\n|E| = 1|1 2; -2 1| - (-1)|2 2; -2 1| + 3|2 1; -2 -2| = (1+4) + (2+4) + 3(-4+2) = 5 + 6 - 6 = 5 ≠ 0\nCofactors: A11 = 5, A12 = -6, A13 = -2, A21 = -5, A22 = 7, A23 = 4, A31 = -5, A32 = 4, A33 = 3\nCofactor matrix = [5 -6 -2; -5 7 4; -5 4 3]\nAdj(E) = [5 -5 -5; -6 7 4; -2 4 3]\nE^-1 = ([[1/5]])[5 -5 -5; -6 7 4; -2 4 3] = [1 -1 -1; [[-6/5]] [[7/5]] [[4/5]]; [[-2/5]] [[4/5]] [[3/5]]]"
+                "a": "Use A^-1 = [[Adj(A)/|A|]]\n(i) A = [3 2; -2 -1]\n|A| = 3(-1) - 2(-2)\n|A| = -3 + 4\n|A| = 1 ≠ 0\nAdj(A) = [-1 -2; 2 3]\nA^-1 = ([[1/1]])[-1 -2; 2 3]\nA^-1 = [-1 -2; 2 3]\n(ii) B = [3 6; 5 10]\n|B| = 3(10) - 6(5)\n|B| = 30 - 30\n|B| = 0\nSingular\nInverse does not exist\n(iii) C = [2 1 1; 3 2 1; 2 1 2]\n|C| = 2|2 1; 1 2| - 1|3 1; 2 2| + 1|3 2; 2 1|\n|C| = 2(3) - (6-2) + (3-4)\n|C| = 6 - 4 - 1\n|C| = 1 ≠ 0\nCofactors: A11 = 3, A12 = -4, A13 = -1, A21 = -1, A22 = 2, A23 = 0, A31 = -1, A32 = 1, A33 = 1\nCofactor matrix = [3 -4 -1; -1 2 0; -1 1 1]\nAdj(C) = [3 -1 -1; -4 2 1; -1 0 1]\nC^-1 = ([[1/1]])Adj(C)\nC^-1 = [3 -1 -1; -4 2 1; -1 0 1]\n(iv) D = [1 0 1; -4 1 -1; 6 -2 1]\n|D| = 1|1 -1; -2 1| - 0 + 1|-4 1; 6 -2|\n|D| = (1-2) + (8-6)\n|D| = -1 + 2\n|D| = 1 ≠ 0\nCofactors: A11 = -1, A12 = -2, A13 = 2, A21 = -2, A22 = -5, A23 = 2, A31 = -1, A32 = -3, A33 = 1\nCofactor matrix = [-1 -2 2; -2 -5 2; -1 -3 1]\nAdj(D) = [-1 -2 -1; -2 -5 -3; 2 2 1]\nD^-1 = ([[1/1]])Adj(D)\nD^-1 = [-1 -2 -1; -2 -5 -3; 2 2 1]\n(v) E = [1 -1 3; 2 1 2; -2 -2 1]\n|E| = 1|1 2; -2 1| - (-1)|2 2; -2 1| + 3|2 1; -2 -2|\n|E| = (1+4) + (2+4) + 3(-4+2)\n|E| = 5 + 6 - 6\n|E| = 5 ≠ 0\nCofactors: A11 = 5, A12 = -6, A13 = -2, A21 = -5, A22 = 7, A23 = 4, A31 = -5, A32 = 4, A33 = 3\nCofactor matrix = [5 -6 -2; -5 7 4; -5 4 3]\nAdj(E) = [5 -5 -5; -6 7 4; -2 4 3]\nE^-1 = ([[1/5]])[5 -5 -5; -6 7 4; -2 4 3]\nE^-1 = [1 -1 -1; [[-6/5]] [[7/5]] [[4/5]]; [[-2/5]] [[4/5]] [[3/5]]]"
               },
               {
                 "q": "ضربي ابتڙ واري طريقي ۽ ڪريمر جي قانون ذريعي هيٺين جو حل لھو.\n1) 2x + 3y = 14، -4x + y = 28\n2) 2x - 4y = -12، 2y + 3x = 0",
-                "a": "(i) 2x + 3y = 14, -4x + y = 28\n|A| = 2(1) - 3(-4) = 2 + 12 = 14 ≠ 0\nA^-1 exists\nAdj(A) = [1 -3; 4 2]\nA^-1 = ([[1/14]])[1 -3; 4 2]\nX = A^-1 B = ([[1/14]])[1 -3; 4 2] × [14; 28] = ([[1/14]])[1(14)+(-3)(28); 4(14)+2(28)] = ([[1/14]])[-70; 112] = [-5; 8]\nx = -5\ny = 8\n|A| = 14\n|A1| = |14 3; 28 1| = 14 - 84 = -70\nx = [[|A1|/|A|]] = [[-70/14]] = -5\n|A2| = |2 14; -4 28| = 56 + 56 = 112\ny = [[|A2|/|A|]] = [[112/14]] = 8\n{(-5, 8)}\n(ii) 2x - 4y = -12, 3x + 2y = 0\n|A| = 2(2) - (-4)(3) = 4 + 12 = 16 ≠ 0\nA^-1 exists\nAdj(A) = [2 4; -3 2]\nA^-1 = ([[1/16]])[2 4; -3 2]\nX = A^-1 B = ([[1/16]])[2 4; -3 2] × [-12; 0] = ([[1/16]])[2(-12)+4(0); -3(-12)+2(0)] = ([[1/16]])[-24; 36] = [-[[3/2]]; [[9/4]]]\nx = [[-3/2]]\ny = [[9/4]]\n|A| = 16\n|A1| = |-12 -4; 0 2| = -24 - 0 = -24\nx = [[|A1|/|A|]] = [[-24/16]] = [[-3/2]]\n|A2| = |2 -12; 3 0| = 0 + 36 = 36\ny = [[|A2|/|A|]] = [[36/16]] = [[9/4]]\n{([[-3/2]], [[9/4]])}"
+                "a": "(i) 2x + 3y = 14, -4x + y = 28\n|A| = 2(1) - 3(-4)\n|A| = 2 + 12\n|A| = 14 ≠ 0\nA^-1 exists\nAdj(A) = [1 -3; 4 2]\nA^-1 = ([[1/14]])[1 -3; 4 2]\nX = A^-1 B\nX = ([[1/14]])[1 -3; 4 2] × [14; 28]\nX = ([[1/14]])[1(14)+(-3)(28); 4(14)+2(28)]\nX = ([[1/14]])[-70; 112]\nX = [-5; 8]\nx = -5\ny = 8\n|A| = 14\n|A1| = |14 3; 28 1|\n|A1| = 14 - 84\n|A1| = -70\nx = [[|A1|/|A|]]\nx = [[-70/14]]\nx = -5\n|A2| = |2 14; -4 28|\n|A2| = 56 + 56\n|A2| = 112\ny = [[|A2|/|A|]]\ny = [[112/14]]\ny = 8\n{(-5, 8)}\n(ii) 2x - 4y = -12, 3x + 2y = 0\n|A| = 2(2) - (-4)(3)\n|A| = 4 + 12\n|A| = 16 ≠ 0\nA^-1 exists\nAdj(A) = [2 4; -3 2]\nA^-1 = ([[1/16]])[2 4; -3 2]\nX = A^-1 B\nX = ([[1/16]])[2 4; -3 2] × [-12; 0]\nX = ([[1/16]])[2(-12)+4(0); -3(-12)+2(0)]\nX = ([[1/16]])[-24; 36]\nX = [-[[3/2]]; [[9/4]]]\nx = [[-3/2]]\ny = [[9/4]]\n|A| = 16\n|A1| = |-12 -4; 0 2|\n|A1| = -24 - 0\n|A1| = -24\nx = [[|A1|/|A|]]\nx = [[-24/16]]\nx = [[-3/2]]\n|A2| = |2 -12; 3 0|\n|A2| = 0 + 36\n|A2| = 36\ny = [[|A2|/|A|]]\ny = [[36/16]]\ny = [[9/4]]\n{([[-3/2]], [[9/4]])}"
               }
             ]
           },
@@ -19449,7 +19449,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن A = [1 8 9; 2 1 0; -2 1 7] ۽ B = [2 5 8; 1 3 4; 7 2 4] ته پوءِ هيٺيان لھو\n(i) A + B\n(ii) A - B\n(iii) AB\n(iv) BA\n(v) 5A\n(vi) 7B\n(vii) 8A - 9B",
-                "a": "(i) A + B = [1+2 8+5 9+8; 2+1 1+3 0+4; -2+7 1+2 7+4] = [3 13 17; 3 4 4; 5 3 11]\n(ii) A - B = [1-2 8-5 9-8; 2-1 1-3 0-4; -2-7 1-2 7-4] = [-1 3 1; 1 -2 -4; -9 -1 3]\n(iii) AB = [1 8 9; 2 1 0; -2 1 7] × [2 5 8; 1 3 4; 7 2 4]\nRow 1: 1(2)+8(1)+9(7) = 73; 1(5)+8(3)+9(2) = 47; 1(8)+8(4)+9(4) = 76\nRow 2: 2(2)+1(1)+0(7) = 5; 2(5)+1(3)+0(2) = 13; 2(8)+1(4)+0(4) = 20\nRow 3: -2(2)+1(1)+7(7) = 46; -2(5)+1(3)+7(2) = 7; -2(8)+1(4)+7(4) = 16\nAB = [73 47 76; 5 13 20; 46 7 16]\n(iv) BA = [2 5 8; 1 3 4; 7 2 4] × [1 8 9; 2 1 0; -2 1 7]\nRow 1: 2(1)+5(2)+8(-2) = -4; 2(8)+5(1)+8(1) = 29; 2(9)+5(0)+8(7) = 74\nRow 2: 1(1)+3(2)+4(-2) = -1; 1(8)+3(1)+4(1) = 15; 1(9)+3(0)+4(7) = 37\nRow 3: 7(1)+2(2)+4(-2) = 3; 7(8)+2(1)+4(1) = 62; 7(9)+2(0)+4(7) = 91\nBA = [-4 29 74; -1 15 37; 3 62 91]\n(v) 5A = 5[1 8 9; 2 1 0; -2 1 7] = [5 40 45; 10 5 0; -10 5 35]\n(vi) 7B = 7[2 5 8; 1 3 4; 7 2 4] = [14 35 56; 7 21 28; 49 14 28]\n(vii) 8A - 9B = 8[1 8 9; 2 1 0; -2 1 7] - 9[2 5 8; 1 3 4; 7 2 4] = [8 64 72; 16 8 0; -16 8 56] - [18 45 72; 9 27 36; 63 18 36] = [-10 19 0; 7 -19 -36; -79 -10 20]"
+                "a": "(i) A + B = [1+2 8+5 9+8; 2+1 1+3 0+4; -2+7 1+2 7+4]\nA + B = [3 13 17; 3 4 4; 5 3 11]\n(ii) A - B = [1-2 8-5 9-8; 2-1 1-3 0-4; -2-7 1-2 7-4]\nA - B = [-1 3 1; 1 -2 -4; -9 -1 3]\n(iii) AB = [1 8 9; 2 1 0; -2 1 7] × [2 5 8; 1 3 4; 7 2 4]\nRow 1: 1(2)+8(1)+9(7) = 73; 1(5)+8(3)+9(2) = 47; 1(8)+8(4)+9(4) = 76\nRow 2: 2(2)+1(1)+0(7) = 5; 2(5)+1(3)+0(2) = 13; 2(8)+1(4)+0(4) = 20\nRow 3: -2(2)+1(1)+7(7) = 46; -2(5)+1(3)+7(2) = 7; -2(8)+1(4)+7(4) = 16\nAB = [73 47 76; 5 13 20; 46 7 16]\n(iv) BA = [2 5 8; 1 3 4; 7 2 4] × [1 8 9; 2 1 0; -2 1 7]\nRow 1: 2(1)+5(2)+8(-2) = -4; 2(8)+5(1)+8(1) = 29; 2(9)+5(0)+8(7) = 74\nRow 2: 1(1)+3(2)+4(-2) = -1; 1(8)+3(1)+4(1) = 15; 1(9)+3(0)+4(7) = 37\nRow 3: 7(1)+2(2)+4(-2) = 3; 7(8)+2(1)+4(1) = 62; 7(9)+2(0)+4(7) = 91\nBA = [-4 29 74; -1 15 37; 3 62 91]\n(v) 5A = 5[1 8 9; 2 1 0; -2 1 7]\n5A = [5 40 45; 10 5 0; -10 5 35]\n(vi) 7B = 7[2 5 8; 1 3 4; 7 2 4]\n7B = [14 35 56; 7 21 28; 49 14 28]\n(vii) 8A - 9B = 8[1 8 9; 2 1 0; -2 1 7] - 9[2 5 8; 1 3 4; 7 2 4]\n8A - 9B = [8 64 72; 16 8 0; -16 8 56] - [18 45 72; 9 27 36; 63 18 36]\n8A - 9B = [-10 19 0; 7 -19 -36; -79 -10 20]"
               },
               {
                 "q": "|1 8 9; 2 0 -1; -7 8 -10| جي قيمت لھو",
@@ -19457,15 +19457,15 @@ var STUDY = {
               },
               {
                 "q": "نادر ۽ غير نادر قالبن کي مثالن سان بيان ڪريو.",
-                "a": "Singular: |A| = 0\nNon-singular: |A| ≠ 0\nA = [2 4 6; 2 0 2; 6 8 14]\n|A| = 2(0-16) - 4(28-12) + 6(16-0) = -32 - 64 + 96 = 0\nA = [3 1; 4 2]\n|A| = 3(2) - 1(4) = 6 - 4 = 2 ≠ 0"
+                "a": "Singular: |A| = 0\nNon-singular: |A| ≠ 0\nA = [2 4 6; 2 0 2; 6 8 14]\n|A| = 2(0-16) - 4(28-12) + 6(16-0)\n|A| = -32 - 64 + 96\n|A| = 0\nA = [3 1; 4 2]\n|A| = 3(2) - 1(4)\n|A| = 6 - 4\n|A| = 2 ≠ 0"
               },
               {
                 "q": "جيڪڏهن A = [1 4 2; 7 0 9; 0 2 -3] ته پوءِ A^-1 لھو.",
-                "a": "|A| = |1 4 2; 7 0 9; 0 2 -3| = 1|0 9; 2 -3| - 4|7 9; 0 -3| + 2|7 0; 0 2| = 1(0-18) - 4(-21-0) + 2(14-0) = -18 + 84 + 28 = 94\n|A| = 94 ≠ 0, A^-1 exists\nA11 = |0 9; 2 -3| = -18; A12 = -|7 9; 0 -3| = 21; A13 = |7 0; 0 2| = 14\nA21 = -|4 2; 2 -3| = -(-12-4) = 16; A22 = |1 2; 0 -3| = -3; A23 = -|1 4; 0 2| = -2\nA31 = |4 2; 0 9| = 36; A32 = -|1 2; 7 9| = -(9-14) = 5; A33 = |1 4; 7 0| = -28\nCofactor matrix = [-18 21 14; 16 -3 -2; 36 5 -28]\nAdj(A) = [-18 16 36; 21 -3 5; 14 -2 -28]\nA^-1 = [[Adj(A)/|A|]] = ([[1/94]])[-18 16 36; 21 -3 5; 14 -2 -28]"
+                "a": "|A| = |1 4 2; 7 0 9; 0 2 -3|\n|A| = 1|0 9; 2 -3| - 4|7 9; 0 -3| + 2|7 0; 0 2|\n|A| = 1(0-18) - 4(-21-0) + 2(14-0)\n|A| = -18 + 84 + 28\n|A| = 94\n|A| = 94 ≠ 0, A^-1 exists\nA11 = |0 9; 2 -3|\nA11 = -18\nA12 = -|7 9; 0 -3|\nA12 = 21\nA13 = |7 0; 0 2|\nA13 = 14\nA21 = -|4 2; 2 -3|\nA21 = -(-12-4)\nA21 = 16\nA22 = |1 2; 0 -3|\nA22 = -3\nA23 = -|1 4; 0 2|\nA23 = -2\nA31 = |4 2; 0 9|\nA31 = 36\nA32 = -|1 2; 7 9|\nA32 = -(9-14)\nA32 = 5\nA33 = |1 4; 7 0|\nA33 = -28\nCofactor matrix = [-18 21 14; 16 -3 -2; 36 5 -28]\nAdj(A) = [-18 16 36; 21 -3 5; 14 -2 -28]\nA^-1 = [[Adj(A)/|A|]]\nA^-1 = ([[1/94]])[-18 16 36; 21 -3 5; 14 -2 -28]"
               },
               {
                 "q": "ڏنل مساواتن جي جوڙي کي هيٺين طريقن سان حل ڪريو\n2x + 5y = 27\n7x + y = 12\n(i) ضربي ابتڙ وارو طريقو\n(ii) ڪريمر جو قانون",
-                "a": "|A| = 2(1) - 5(7) = 2 - 35 = -33 ≠ 0\nAdj(A) = [1 -5; -7 2]\nA^-1 = ([[1/-33]])[1 -5; -7 2]\nX = A^-1 B = ([[1/-33]])[1 -5; -7 2] × [27; 12] = ([[1/-33]])[1(27)+(-5)(12); -7(27)+2(12)] = ([[1/-33]])[-33; -165] = [1; 5]\nx = 1\ny = 5\n|A| = -33\n|A1| = |27 5; 12 1| = 27 - 60 = -33\nx = [[|A1|/|A|]] = [[-33/-33]] = 1\n|A2| = |2 27; 7 12| = 24 - 189 = -165\ny = [[|A2|/|A|]] = [[-165/-33]] = 5\n{(1, 5)}"
+                "a": "|A| = 2(1) - 5(7)\n|A| = 2 - 35\n|A| = -33 ≠ 0\nAdj(A) = [1 -5; -7 2]\nA^-1 = ([[1/-33]])[1 -5; -7 2]\nX = A^-1 B\nX = ([[1/-33]])[1 -5; -7 2] × [27; 12]\nX = ([[1/-33]])[1(27)+(-5)(12); -7(27)+2(12)]\nX = ([[1/-33]])[-33; -165]\nX = [1; 5]\nx = 1\ny = 5\n|A| = -33\n|A1| = |27 5; 12 1|\n|A1| = 27 - 60\n|A1| = -33\nx = [[|A1|/|A|]]\nx = [[-33/-33]]\nx = 1\n|A2| = |2 27; 7 12|\n|A2| = 24 - 189\n|A2| = -165\ny = [[|A2|/|A|]]\ny = [[-165/-33]]\ny = 5\n{(1, 5)}"
               }
             ]
           }
@@ -19481,23 +19481,23 @@ var STUDY = {
             "items": [
               {
                 "q": "شناختي فرق جو استعمال ڪندي، هيٺين مساواتن جي اصلن جو قسم لھو\n(i) x² + 5x - 6 = 0\n(ii) x² = 6x\n(iii) 2x² + 8 = 6x\n(iv) 1 + 6x + 9x² = 0\n(v) 24x² + 12x + 36 = 0\n(vi) x = x² + 1\n(vii) 3x² + 6 = 5x\n(viii) 3x² + 9 = 0",
-                "a": "(i) x² + 5x - 6 = 0: a = 1, b = 5, c = -6\nΔ = (5)² - 4(1)(-6) = 25 + 24 = 49 = (7)² > 0\nReal, rational, unequal\n(ii) x² = 6x\nx² - 6x = 0: a = 1, b = -6, c = 0\nΔ = (-6)² - 4(1)(0) = 36 = (6)² > 0\nReal, rational, unequal\n(iii) 2x² + 8 = 6x\n2x² - 6x + 8 = 0: a = 2, b = -6, c = 8\nΔ = (-6)² - 4(2)(8) = 36 - 64 = -28 < 0\nComplex, conjugate\n(iv) 1 + 6x + 9x² = 0\n9x² + 6x + 1 = 0: a = 9, b = 6, c = 1\nΔ = (6)² - 4(9)(1) = 36 - 36 = 0\nReal, rational, equal\nx = [[-1/3]]\n(v) 24x² + 12x + 36 = 0: a = 24, b = 12, c = 36\nΔ = (12)² - 4(24)(36) = 144 - 3456 = -3312 < 0\nComplex, conjugate\n(vi) x = x² + 1\nx² - x + 1 = 0: a = 1, b = -1, c = 1\nΔ = (-1)² - 4(1)(1) = 1 - 4 = -3 < 0\nComplex, conjugate\n(vii) 3x² + 6 = 5x\n3x² - 5x + 6 = 0: a = 3, b = -5, c = 6\nΔ = (-5)² - 4(3)(6) = 25 - 72 = -47 < 0\nComplex, conjugate\n(viii) 3x² + 9 = 0: a = 3, b = 0, c = 9\nΔ = (0)² - 4(3)(9) = -108 < 0\nImaginary (complex), conjugate"
+                "a": "(i) x² + 5x - 6 = 0: a = 1, b = 5, c = -6\nΔ = (5)² - 4(1)(-6)\nΔ = 25 + 24\nΔ = 49\nΔ = (7)² > 0\nReal, rational, unequal\n(ii) x² = 6x\nx² - 6x = 0: a = 1, b = -6, c = 0\nΔ = (-6)² - 4(1)(0)\nΔ = 36\nΔ = (6)² > 0\nReal, rational, unequal\n(iii) 2x² + 8 = 6x\n2x² - 6x + 8 = 0: a = 2, b = -6, c = 8\nΔ = (-6)² - 4(2)(8)\nΔ = 36 - 64\nΔ = -28 < 0\nComplex, conjugate\n(iv) 1 + 6x + 9x² = 0\n9x² + 6x + 1 = 0: a = 9, b = 6, c = 1\nΔ = (6)² - 4(9)(1)\nΔ = 36 - 36\nΔ = 0\nReal, rational, equal\nx = [[-1/3]]\n(v) 24x² + 12x + 36 = 0: a = 24, b = 12, c = 36\nΔ = (12)² - 4(24)(36)\nΔ = 144 - 3456\nΔ = -3312 < 0\nComplex, conjugate\n(vi) x = x² + 1\nx² - x + 1 = 0: a = 1, b = -1, c = 1\nΔ = (-1)² - 4(1)(1)\nΔ = 1 - 4\nΔ = -3 < 0\nComplex, conjugate\n(vii) 3x² + 6 = 5x\n3x² - 5x + 6 = 0: a = 3, b = -5, c = 6\nΔ = (-5)² - 4(3)(6)\nΔ = 25 - 72\nΔ = -47 < 0\nComplex, conjugate\n(viii) 3x² + 9 = 0: a = 3, b = 0, c = 9\nΔ = (0)² - 4(3)(9)\nΔ = -108 < 0\nImaginary (complex), conjugate"
               },
               {
                 "q": "k جي آها حقيقي قيمت لھو جنهن تي هيٺين ٻه درجي مساواتن کي\n(i) ساڳيو حقيقي اصل هجي\n(ii) مختلف اصل هجي\n(اشارو: ساڳي حل لاءِ Δ = 0 ۽ مختلف حقيقي حل لاءِ Δ > 0)\n(i) x² - 3x + k = 0\n(ii) x² + k = 4\n(iii) x² + kx + 2 = 0\n(iv) (k - 1)x² - 4x + 2 = 0\n(v) x² + kx + 4 = 0\n(vi) 9x² + kx = -16\n(vii) (k - 2)x² = 4x + (k + 2)\n(viii) x² + 1 = kx",
-                "a": "(i) x² - 3x + k = 0: a = 1, b = -3, c = k\nΔ = (-3)² - 4(1)(k) = 9 - 4k\n(a) Δ = 0\n9 - 4k = 0\nk = [[9/4]]\n(b) Δ > 0\n9 - 4k > 0\nk < [[9/4]]\n(ii) x² + k = 4\nx² + (k - 4) = 0: a = 1, b = 0, c = k - 4\nΔ = 0 - 4(1)(k - 4) = 16 - 4k\n(a) Δ = 0\n16 - 4k = 0\nk = 4\n(b) Δ > 0\n16 - 4k > 0\nk < 4\n(iii) x² + kx + 2 = 0: a = 1, b = k, c = 2\nΔ = k² - 4(1)(2) = k² - 8\n(a) Δ = 0\nk² = 8\nk = ±2√2\n(b) Δ > 0\nk² > 8\nk > 2√2 or k < -2√2\n(iv) (k - 1)x² - 4x + 2 = 0: a = k - 1, b = -4, c = 2\nΔ = (-4)² - 4(k - 1)(2) = 16 - 8(k - 1) = 24 - 8k\n(a) Δ = 0\n24 - 8k = 0\nk = 3\n(b) Δ > 0\n24 - 8k > 0\nk < 3, with k ≠ 1\n(v) x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 16\n(a) Δ = 0\nk² = 16\nk = ±4\n(b) Δ > 0\nk² > 16\nk > 4 or k < -4\n(vi) 9x² + kx = -16\n9x² + kx + 16 = 0: a = 9, b = k, c = 16\nΔ = k² - 4(9)(16) = k² - 576\n(a) Δ = 0\nk² = 576\nk = ±24\n(b) Δ > 0\nk² > 576\nk > 24 or k < -24\n(vii) (k - 2)x² = 4x + (k + 2)\n(k - 2)x² - 4x - (k + 2) = 0: a = k - 2, b = -4, c = -(k + 2)\nΔ = (-4)² - 4(k - 2)(-(k + 2)) = 16 + 4(k² - 4) = 4k²\n(a) Δ = 0\n4k² = 0\nk = 0\n(b) Δ > 0\n4k² > 0\nk > 0 or k < 0 (i.e. k ≠ 0), with k ≠ 2\n(viii) x² + 1 = kx\nx² - kx + 1 = 0: a = 1, b = -k, c = 1\nΔ = (-k)² - 4(1)(1) = k² - 4\n(a) Δ = 0\nk² = 4\nk = ±2\n(b) Δ > 0\nk² > 4\nk > 2 or k < -2"
+                "a": "(i) x² - 3x + k = 0: a = 1, b = -3, c = k\nΔ = (-3)² - 4(1)(k)\nΔ = 9 - 4k\n(a) Δ = 0\n9 - 4k = 0\nk = [[9/4]]\n(b) Δ > 0\n9 - 4k > 0\nk < [[9/4]]\n(ii) x² + k = 4\nx² + (k - 4) = 0: a = 1, b = 0, c = k - 4\nΔ = 0 - 4(1)(k - 4)\nΔ = 16 - 4k\n(a) Δ = 0\n16 - 4k = 0\nk = 4\n(b) Δ > 0\n16 - 4k > 0\nk < 4\n(iii) x² + kx + 2 = 0: a = 1, b = k, c = 2\nΔ = k² - 4(1)(2)\nΔ = k² - 8\n(a) Δ = 0\nk² = 8\nk = ±2√2\n(b) Δ > 0\nk² > 8\nk > 2√2 or k < -2√2\n(iv) (k - 1)x² - 4x + 2 = 0: a = k - 1, b = -4, c = 2\nΔ = (-4)² - 4(k - 1)(2)\nΔ = 16 - 8(k - 1)\nΔ = 24 - 8k\n(a) Δ = 0\n24 - 8k = 0\nk = 3\n(b) Δ > 0\n24 - 8k > 0\nk < 3, with k ≠ 1\n(v) x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 16\n(a) Δ = 0\nk² = 16\nk = ±4\n(b) Δ > 0\nk² > 16\nk > 4 or k < -4\n(vi) 9x² + kx = -16\n9x² + kx + 16 = 0: a = 9, b = k, c = 16\nΔ = k² - 4(9)(16)\nΔ = k² - 576\n(a) Δ = 0\nk² = 576\nk = ±24\n(b) Δ > 0\nk² > 576\nk > 24 or k < -24\n(vii) (k - 2)x² = 4x + (k + 2)\n(k - 2)x² - 4x - (k + 2) = 0: a = k - 2, b = -4, c = -(k + 2)\nΔ = (-4)² - 4(k - 2)(-(k + 2))\nΔ = 16 + 4(k² - 4)\nΔ = 4k²\n(a) Δ = 0\n4k² = 0\nk = 0\n(b) Δ > 0\n4k² > 0\nk > 0 or k < 0 (i.e. k ≠ 0), with k ≠ 2\n(viii) x² + 1 = kx\nx² - kx + 1 = 0: a = 1, b = -k, c = 1\nΔ = (-k)² - 4(1)(1)\nΔ = k² - 4\n(a) Δ = 0\nk² = 4\nk = ±2\n(b) Δ > 0\nk² > 4\nk > 2 or k < -2"
               },
               {
                 "q": "هيٺ ڏنل هر هڪ ٻه درجي مساوات ۾ m جو ملهه لھو جيڪو اصلن کي برابر ڪري\n(i) (m + 1)x² + 2(m + 3)x + (2m + 3) = 0، بشرطيڪه m ≠ -1\n(ii) 9x² + mx + 16 = 0",
-                "a": "Δ = b² - 4ac = 0\n(i) (m + 1)x² + 2(m + 3)x + (2m + 3) = 0: a = m + 1, b = 2(m + 3), c = 2m + 3\nΔ = [2(m + 3)]² - 4(m + 1)(2m + 3)\n= 4(m + 3)² - 4(m + 1)(2m + 3)\n= 4[(m² + 6m + 9) - (2m² + 5m + 3)]\n= 4(-m² + m + 6)\nΔ = 0\n-m² + m + 6 = 0\nm² - m - 6 = 0\n(m - 3)(m + 2) = 0\nm = 3\nm = -2\n(ii) 9x² + mx + 16 = 0: a = 9, b = m, c = 16\nΔ = m² - 4(9)(16) = m² - 576\nΔ = 0\nm² = 576\nm = ±24"
+                "a": "Δ = b² - 4ac\nΔ = 0\n(i) (m + 1)x² + 2(m + 3)x + (2m + 3) = 0: a = m + 1, b = 2(m + 3), c = 2m + 3\nΔ = [2(m + 3)]² - 4(m + 1)(2m + 3)\n= 4(m + 3)² - 4(m + 1)(2m + 3)\n= 4[(m² + 6m + 9) - (2m² + 5m + 3)]\n= 4(-m² + m + 6)\nΔ = 0\n-m² + m + 6 = 0\nm² - m - 6 = 0\n(m - 3)(m + 2) = 0\nm = 3\nm = -2\n(ii) 9x² + mx + 16 = 0: a = 9, b = m, c = 16\nΔ = m² - 4(9)(16)\nΔ = m² - 576\nΔ = 0\nm² = 576\nm = ±24"
               },
               {
                 "q": "ثابت ڪري ڏيکاريو ته هيٺين ٻه درجي مساواتن جا اصل حقيقي عدد آهن\n(i) x² - 2x(k + [[1/k]])x + 3 = 0، ∀k∈R - {0}\n(ii) 2nx² + 2(l + m + n)x + (l + m) = 0، ∀l, m, n∈R ۽ n ≠ 0",
-                "a": "x² - 2(k + [[1/k]])x + 3 = 0: a = 1, b = -2(k + [[1/k]]), c = 3\nΔ = b² - 4ac = 4(k + [[1/k]])² - 4(1)(3) = 4[(k + [[1/k]])² - 3]\n(k + [[1/k]])² = k² + 2 + [[1/k²]]\n(k + [[1/k]])² - 3 = k² - 1 + [[1/k²]] = (k - [[1/k]])²\nΔ = 4(k - [[1/k]])² ≥ 0 for all real k ≠ 0\n(ii) 2nx² + 2(l + m + n)x + (l + m) = 0: a = 2n, b = 2(l + m + n), c = l + m\nΔ = b² - 4ac = 4(l + m + n)² - 4(2n)(l + m) = 4[(l + m + n)² - 2n(l + m)]\n(l + m + n)² = (l + m)² + 2n(l + m) + n²\n(l + m + n)² - 2n(l + m) = (l + m)² + n²\nΔ = 4[(l + m)² + n²] > 0"
+                "a": "x² - 2(k + [[1/k]])x + 3 = 0: a = 1, b = -2(k + [[1/k]]), c = 3\nΔ = b² - 4ac\nΔ = 4(k + [[1/k]])² - 4(1)(3)\nΔ = 4[(k + [[1/k]])² - 3]\n(k + [[1/k]])² = k² + 2 + [[1/k²]]\n(k + [[1/k]])² - 3 = k² - 1 + [[1/k²]]\n(k + [[1/k]])² - 3 = (k - [[1/k]])²\nΔ = 4(k - [[1/k]])² ≥ 0 for all real k ≠ 0\n(ii) 2nx² + 2(l + m + n)x + (l + m) = 0: a = 2n, b = 2(l + m + n), c = l + m\nΔ = b² - 4ac\nΔ = 4(l + m + n)² - 4(2n)(l + m)\nΔ = 4[(l + m + n)² - 2n(l + m)]\n(l + m + n)² = (l + m)² + 2n(l + m) + n²\n(l + m + n)² - 2n(l + m) = (l + m)² + n²\nΔ = 4[(l + m)² + n²] > 0"
               },
               {
                 "q": "ثابت ڪري ڏيکاريو ته هيٺين ٻه درجي مساواتن جا اصل ناطق عدد آهن.\n(i) (l - m)x² + (m + n - l)x - n = 0، ∀l, m, n∈R ۽ l ≠ m\n(ii) (a + c - b)x² + 2cx + (b + c - a) = 0، ∀a, b, c∈R",
-                "a": "(i) (l - m)x² + (m + n - l)x - n = 0: a = l - m, b = m + n - l, c = -n\nΔ = (m + n - l)² - 4(l - m)(-n) = (m + n - l)² + 4n(l - m)\nu = l - m\nm + n - l = n - u\nΔ = (n - u)² + 4un = n² - 2un + u² + 4un = n² + 2un + u² = (n + u)²\nΔ = (n + l - m)²\n(ii) (a + c - b)x² + 2cx + (b + c - a) = 0: a = a + c - b, b = 2c, c = b + c - a\nΔ = (2c)² - 4(a + c - b)(b + c - a)\n(a + c - b)(b + c - a) = (c + (a - b))(c - (a - b)) = c² - (a - b)²\nΔ = 4c² - 4[c² - (a - b)²] = 4(a - b)²"
+                "a": "(i) (l - m)x² + (m + n - l)x - n = 0: a = l - m, b = m + n - l, c = -n\nΔ = (m + n - l)² - 4(l - m)(-n)\nΔ = (m + n - l)² + 4n(l - m)\nu = l - m\nm + n - l = n - u\nΔ = (n - u)² + 4un\nΔ = n² - 2un + u² + 4un\nΔ = n² + 2un + u²\nΔ = (n + u)²\nΔ = (n + l - m)²\n(ii) (a + c - b)x² + 2cx + (b + c - a) = 0: a = a + c - b, b = 2c, c = b + c - a\nΔ = (2c)² - 4(a + c - b)(b + c - a)\n(a + c - b)(b + c - a) = (c + (a - b))(c - (a - b))\n(a + c - b)(b + c - a) = c² - (a - b)²\nΔ = 4c² - 4[c² - (a - b)²]\nΔ = 4(a - b)²"
               },
               {
                 "q": "p ۽ q جي ڪهڙين قيمتن تي ٻه درجي مساوات x² + (2p - 4)x - (3q + 5) = 0 کي صفر اصل هوندا",
@@ -19505,7 +19505,7 @@ var STUDY = {
               },
               {
                 "q": "ثابت ڪري ڏيکاريو ته ڏنل ٻه درجي مساوات (x - a)(x - b) + (x - b)(x - c) + (x - c)(x - a) = 0 جا اصل حقيقي آهن ۽ اهي مساوي ٿيندا جيستائين a = b = c.",
-                "a": "(x - a)(x - b) = x² - (a + b)x + ab\n(x - b)(x - c) = x² - (b + c)x + bc\n(x - c)(x - a) = x² - (c + a)x + ca\nAdding: 3x² - 2(a + b + c)x + (ab + bc + ca) = 0\na = 3, b = -2(a + b + c), c = ab + bc + ca\nΔ = [-2(a + b + c)]² - 4(3)(ab + bc + ca)\n= 4(a + b + c)² - 12(ab + bc + ca)\n= 4[(a + b + c)² - 3(ab + bc + ca)]\n(a + b + c)² - 3(ab + bc + ca) = a² + b² + c² - ab - bc - ca\n= [[1/2]][(a - b)² + (b - c)² + (c - a)²]\nΔ = 4 × [[1/2]][(a - b)² + (b - c)² + (c - a)²] = 2[(a - b)² + (b - c)² + (c - a)²] ≥ 0\nΔ ≥ 0, the roots are real\nThe roots are equal only when Δ = 0\nwhen (a - b)² + (b - c)² + (c - a)² = 0\na - b = 0, b - c = 0\nc - a = 0\na = b = c"
+                "a": "(x - a)(x - b) = x² - (a + b)x + ab\n(x - b)(x - c) = x² - (b + c)x + bc\n(x - c)(x - a) = x² - (c + a)x + ca\nAdding: 3x² - 2(a + b + c)x + (ab + bc + ca) = 0\na = 3, b = -2(a + b + c), c = ab + bc + ca\nΔ = [-2(a + b + c)]² - 4(3)(ab + bc + ca)\n= 4(a + b + c)² - 12(ab + bc + ca)\n= 4[(a + b + c)² - 3(ab + bc + ca)]\n(a + b + c)² - 3(ab + bc + ca) = a² + b² + c² - ab - bc - ca\n= [[1/2]][(a - b)² + (b - c)² + (c - a)²]\nΔ = 4 × [[1/2]][(a - b)² + (b - c)² + (c - a)²]\nΔ = 2[(a - b)² + (b - c)² + (c - a)²] ≥ 0\nΔ ≥ 0, the roots are real\nThe roots are equal only when Δ = 0\nwhen (a - b)² + (b - c)² + (c - a)² = 0\na - b = 0, b - c = 0\nc - a = 0\na = b = c"
               }
             ]
           },
@@ -19518,11 +19518,11 @@ var STUDY = {
               },
               {
                 "q": "هيٺيان لھو\n(i) (1 + ω²)⁴\n(ii) (1 - ω + ω²)(1 + ω - ω²)\n(iii) (2 + 5ω + 2ω²)⁶\n(iv) (-1 + √-3)⁴ + (-1 - √-3)⁴",
-                "a": "(i) (1 + ω²)⁴\n1 + ω² = -ω\n(1 + ω²)⁴ = (-ω)⁴ = ω⁴ = ω³ × ω = 1 × ω = ω\n(ii) (1 - ω + ω²)(1 + ω - ω²)\n1 - ω + ω² = (1 + ω²) - ω = -ω - ω = -2ω\n1 + ω - ω² = (1 + ω) - ω² = -ω² - ω² = -2ω²\nProduct = (-2ω)(-2ω²) = 4ω³ = 4 × 1 = 4\n(iii) (2 + 5ω + 2ω²)⁶\n2 + 5ω + 2ω² = 2(1 + ω²) + 5ω = 2(-ω) + 5ω = 3ω\n(2 + 5ω + 2ω²)⁶ = (3ω)⁶ = 729ω⁶ = 729(ω³)² = 729 × 1 = 729\n(iv) (-1 + √-3)⁴ + (-1 - √-3)⁴\n√-3 = i√3\n-1 + i√3 = 2ω, -1 - i√3 = 2ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = (2ω)⁴ + (2ω²)⁴ = 16ω⁴ + 16ω⁸\nω⁴ = ω\nω⁸ = ω⁶ × ω² = ω²\n= 16ω + 16ω² = 16(ω + ω²) = 16(-1) = -16"
+                "a": "(i) (1 + ω²)⁴\n1 + ω² = -ω\n(1 + ω²)⁴ = (-ω)⁴\n(1 + ω²)⁴ = ω⁴\n(1 + ω²)⁴ = ω³ × ω\n(1 + ω²)⁴ = 1 × ω\n(1 + ω²)⁴ = ω\n(ii) (1 - ω + ω²)(1 + ω - ω²)\n1 - ω + ω² = (1 + ω²) - ω\n1 - ω + ω² = -ω - ω\n1 - ω + ω² = -2ω\n1 + ω - ω² = (1 + ω) - ω²\n1 + ω - ω² = -ω² - ω²\n1 + ω - ω² = -2ω²\nProduct = (-2ω)(-2ω²)\nProduct = 4ω³\nProduct = 4 × 1\nProduct = 4\n(iii) (2 + 5ω + 2ω²)⁶\n2 + 5ω + 2ω² = 2(1 + ω²) + 5ω\n2 + 5ω + 2ω² = 2(-ω) + 5ω\n2 + 5ω + 2ω² = 3ω\n(2 + 5ω + 2ω²)⁶ = (3ω)⁶\n(2 + 5ω + 2ω²)⁶ = 729ω⁶\n(2 + 5ω + 2ω²)⁶ = 729(ω³)²\n(2 + 5ω + 2ω²)⁶ = 729 × 1\n(2 + 5ω + 2ω²)⁶ = 729\n(iv) (-1 + √-3)⁴ + (-1 - √-3)⁴\n√-3 = i√3\n-1 + i√3 = 2ω, -1 - i√3 = 2ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = (2ω)⁴ + (2ω²)⁴\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16ω⁴ + 16ω⁸\nω⁴ = ω\nω⁸ = ω⁶ × ω²\nω⁸ = ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16ω + 16ω²\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16(ω + ω²)\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = 16(-1)\n(-1 + √-3)⁴ + (-1 - √-3)⁴ = -16"
               },
               {
                 "q": "ثابت ڪري ڏيکاريو ته\n(i) (1 + ω)(1 + ω²)(1 + ω⁴)(1 + ω⁸) = (ω + ω²)⁴\n(ii) (a + b)(aω + bω²)(aω² + bω) = a³ + b³\n(iii) (a + ωb + ω²c)(a + ω²b + ωc) = a² + b² + c² - ab - ba - ca\n(iv) ([[(-1 + i√3)/2]])⁹ + ([[(-1 - i√3)/2]])⁹ - 2 = 0\n(v) (1 + ω - ω²)³ - (1 - ω + ω²)³ = 0",
-                "a": "Use ω³ = 1, ω⁴ = ω, ω⁸ = ω², 1 + ω + ω² = 0, 1 + ω = -ω²\n1 + ω² = -ω\n(i) L.H.S. = (1 + ω)(1 + ω²)(1 + ω⁴)(1 + ω⁸)\n1 + ω⁴ = 1 + ω = -ω²\n1 + ω⁸ = 1 + ω² = -ω\nL.H.S. = (-ω²)(-ω)(-ω²)(-ω) = ω⁶ = (ω³)² = 1\nR.H.S. = (ω + ω²)⁴ = (-1)⁴ = 1\nL.H.S. = R.H.S\n(ii) L.H.S. = (a + b)(aω + bω²)(aω² + bω)\n(aω + bω²)(aω² + bω) = a²ω³ + abω² + abω⁴ + b²ω³ = a² + ab(ω² + ω) + b²\nω² + ω = -1\nL.H.S. = (a + b)(a² - ab + b²) = a³ + b³ = R.H.S\n(iii) L.H.S. = (a + ωb + ω²c)(a + ω²b + ωc)\n= a² + aω²b + aωc + ωab + ω³b² + ω²bc + ω²ac + ω⁴bc + ω³c²\n= a² + b² + c² + ab(ω + ω²) + bc(ω² + ω⁴) + ca(ω + ω²)\nω + ω² = -1\nω² + ω⁴ = ω² + ω = -1\n= a² + b² + c² - ab - bc - ca = R.H.S\n(iv) [[(-1 + i√3)/2]] = ω\n[[(-1 - i√3)/2]] = ω²\nL.H.S. = ω⁹ + (ω²)⁹ - 2 = (ω³)³ + (ω³)⁶ - 2 = 1 + 1 - 2 = 0\n(v) 1 + ω - ω² = -ω² - ω² = -2ω²\n1 - ω + ω² = -ω - ω = -2ω\nL.H.S. = (-2ω²)³ - (-2ω)³ = -8ω⁶ - (-8ω³) = -8(1) + 8(1) = 0"
+                "a": "Use ω³ = 1, ω⁴ = ω, ω⁸ = ω², 1 + ω + ω² = 0, 1 + ω = -ω²\n1 + ω² = -ω\n(i) L.H.S. = (1 + ω)(1 + ω²)(1 + ω⁴)(1 + ω⁸)\n1 + ω⁴ = 1 + ω\n1 + ω⁴ = -ω²\n1 + ω⁸ = 1 + ω²\n1 + ω⁸ = -ω\nL.H.S. = (-ω²)(-ω)(-ω²)(-ω)\nL.H.S. = ω⁶\nL.H.S. = (ω³)²\nL.H.S. = 1\nR.H.S. = (ω + ω²)⁴\nR.H.S. = (-1)⁴\nR.H.S. = 1\nL.H.S. = R.H.S\n(ii) L.H.S. = (a + b)(aω + bω²)(aω² + bω)\n(aω + bω²)(aω² + bω) = a²ω³ + abω² + abω⁴ + b²ω³\n(aω + bω²)(aω² + bω) = a² + ab(ω² + ω) + b²\nω² + ω = -1\nL.H.S. = (a + b)(a² - ab + b²)\nL.H.S. = a³ + b³\nL.H.S. = R.H.S\n(iii) L.H.S. = (a + ωb + ω²c)(a + ω²b + ωc)\n= a² + aω²b + aωc + ωab + ω³b² + ω²bc + ω²ac + ω⁴bc + ω³c²\n= a² + b² + c² + ab(ω + ω²) + bc(ω² + ω⁴) + ca(ω + ω²)\nω + ω² = -1\nω² + ω⁴ = ω² + ω\nω² + ω⁴ = -1\nL.H.S. = a² + b² + c² - ab - bc - ca\nL.H.S. = R.H.S\n(iv) [[(-1 + i√3)/2]] = ω\n[[(-1 - i√3)/2]] = ω²\nL.H.S. = ω⁹ + (ω²)⁹ - 2\nL.H.S. = (ω³)³ + (ω³)⁶ - 2\nL.H.S. = 1 + 1 - 2\nL.H.S. = 0\n(v) 1 + ω - ω² = -ω² - ω²\n1 + ω - ω² = -2ω²\n1 - ω + ω² = -ω - ω\n1 - ω + ω² = -2ω\nL.H.S. = (-2ω²)³ - (-2ω)³\nL.H.S. = -8ω⁶ - (-8ω³)\nL.H.S. = -8(1) + 8(1)\nL.H.S. = 0"
               }
             ]
           },
@@ -19535,11 +19535,11 @@ var STUDY = {
               },
               {
                 "q": "m جو ملهه لھو جيڪڏهن\n(i) مساوات x² + (3m - 7)x + 5m = 0 جي اصلن جي جوڙ اپٽ ان جي ضرب اپٽ جو [[3/2]] پيرا آهي\n(ii) مساوات 2x² - 3x + 4m = 0 جي اصلن جي جوڙ اپٽ ان جي ضرب اپٽ جو 6 پيرا آهي",
-                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² + (3m - 7)x + 5m = 0: a = 1, b = 3m - 7, c = 5m\nα + β = -(3m - 7) = 7 - 3m\nαβ = 5m\nα + β = [[3/2]]αβ\n7 - 3m = ([[3/2]])(5m) = [[15m/2]]\n14 - 6m = 15m\n14 = 21m\nm = [[14/21]] = [[2/3]]\n(ii) 2x² - 3x + 4m = 0: a = 2, b = -3, c = 4m\nα + β = [[3/2]]\nαβ = [[4m/2]] = 2m\nα + β = 6αβ\n[[3/2]] = 6(2m) = 12m\nm = ([[3/2]]) ÷ 12 = [[3/24]] = [[1/8]]"
+                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² + (3m - 7)x + 5m = 0: a = 1, b = 3m - 7, c = 5m\nα + β = -(3m - 7)\nα + β = 7 - 3m\nαβ = 5m\nα + β = [[3/2]]αβ\n7 - 3m = ([[3/2]])(5m)\n7 - 3m = [[15m/2]]\n14 - 6m = 15m\n14 = 21m\nm = [[14/21]]\nm = [[2/3]]\n(ii) 2x² - 3x + 4m = 0: a = 2, b = -3, c = 4m\nα + β = [[3/2]]\nαβ = [[4m/2]]\nαβ = 2m\nα + β = 6αβ\n[[3/2]] = 6(2m)\n[[3/2]] = 12m\nm = ([[3/2]]) ÷ 12\nm = [[3/24]]\nm = [[1/8]]"
               },
               {
                 "q": "p جي قيمت لھو جيڪڏهن\n(i) مساوات x² - px + 6 = 0 جي اصلن جي چورسن جو جوڙ اپٽ 13 جي برابر آهي.\n(ii) مساوات x² - 2px + (2p - 3) = 0 جي اصلن جي چورسن جو جوڙ اپٽ 6 آهي.",
-                "a": "α² + β² = (α + β)² - 2αβ\nα + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² - px + 6 = 0: α + β = p\nαβ = 6\nα² + β² = (α + β)² - 2αβ = p² - 2(6) = p² - 12\nα² + β² = 13\np² - 12 = 13\np² = 25\np = ±5\n(ii) x² - 2px + (2p - 3) = 0: α + β = 2p\nαβ = 2p - 3\nα² + β² = (α + β)² - 2αβ = (2p)² - 2(2p - 3) = 4p² - 4p + 6\nα² + β² = 6\n4p² - 4p + 6 = 6\n4p² - 4p = 0\n4p(p - 1) = 0\np = 0\np = 1"
+                "a": "α² + β² = (α + β)² - 2αβ\nα + β = [[-b/a]]\nαβ = [[c/a]]\n(i) x² - px + 6 = 0: α + β = p\nαβ = 6\nα² + β² = (α + β)² - 2αβ\nα² + β² = p² - 2(6)\nα² + β² = p² - 12\nα² + β² = 13\np² - 12 = 13\np² = 25\np = ±5\n(ii) x² - 2px + (2p - 3) = 0: α + β = 2p\nαβ = 2p - 3\nα² + β² = (α + β)² - 2αβ\nα² + β² = (2p)² - 2(2p - 3)\nα² + β² = 4p² - 4p + 6\nα² + β² = 6\n4p² - 4p + 6 = 6\n4p² - 4p = 0\n4p(p - 1) = 0\np = 0\np = 1"
               },
               {
                 "q": "m جو ملهه لھو جيڪڏهن\n(i) مساوات x² - 5x + 2m = 0 جا اصل پاڻ ۾ 1 جو فرق رکن ٿا.\n(ii) مساوات x² - 8x + m + 2 = 0 جا اصل پاڻ ۾ 2 جو فرق رکن ٿا.",
@@ -19547,11 +19547,11 @@ var STUDY = {
               },
               {
                 "q": "k جو ملهه لھو جيڪڏهن\n(i) مساوات 5x² - 7x + k - 2 = 0 جا اصل تعلق 2α + 5β = 1 کي پورو ڪن ٿا.\n(ii) مساوات 3x² - 2x + 7k + 2 = 0 جا اصل تعلق 7α - 3β = 18 کي پورو ڪن ٿا.",
-                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) 5x² - 7x + k - 2 = 0: α + β = [[7/5]]\nαβ = [[(k - 2)/5]]\n2α + 5β = 1\n2α + 2β = [[14/5]]\n3β = 1 - [[14/5]] = [[-9/5]]\nβ = [[-3/5]]\nα = [[7/5]] - β = [[7/5]] + [[3/5]] = [[10/5]] = 2\nαβ = 2 × ([[-3/5]]) = [[-6/5]]\nαβ = [[(k - 2)/5]]\n[[(k - 2)/5]] = [[-6/5]]\nk - 2 = -6\nk = -4\n(ii) 3x² - 2x + 7k + 2 = 0: α + β = [[2/3]]\nαβ = [[(7k + 2)/3]]\n7α - 3β = 18\n3α + 3β = 2\n10α = 20\nα = 2\nβ = [[2/3]] - 2 = [[-4/3]]\nαβ = 2 × ([[-4/3]]) = [[-8/3]]\nαβ = [[(7k + 2)/3]]\n[[(7k + 2)/3]] = [[-8/3]]\n7k + 2 = -8\n7k = -10\nk = [[-10/7]]"
+                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\n(i) 5x² - 7x + k - 2 = 0: α + β = [[7/5]]\nαβ = [[(k - 2)/5]]\n2α + 5β = 1\n2α + 2β = [[14/5]]\n3β = 1 - [[14/5]]\n3β = [[-9/5]]\nβ = [[-3/5]]\nα = [[7/5]] - β\nα = [[7/5]] + [[3/5]]\nα = [[10/5]]\nα = 2\nαβ = 2 × ([[-3/5]])\nαβ = [[-6/5]]\nαβ = [[(k - 2)/5]]\n[[(k - 2)/5]] = [[-6/5]]\nk - 2 = -6\nk = -4\n(ii) 3x² - 2x + 7k + 2 = 0: α + β = [[2/3]]\nαβ = [[(7k + 2)/3]]\n7α - 3β = 18\n3α + 3β = 2\n10α = 20\nα = 2\nβ = [[2/3]] - 2\nβ = [[-4/3]]\nαβ = 2 × ([[-4/3]])\nαβ = [[-8/3]]\nαβ = [[(7k + 2)/3]]\n[[(7k + 2)/3]] = [[-8/3]]\n7k + 2 = -8\n7k = -10\nk = [[-10/7]]"
               },
               {
                 "q": "p جو ملهه لھو جيڪڏهن هيٺين ٻه درجي مساواتن جي اصلن جي جوڙ اپٽ ۽ ضرب اپٽ هڪ ٻئي جي برابر آهن.\n(i) (2p + 3)x² + (7p - 5)x + (3p - 10) = 0\n(ii) 4x² - (5p + 3)x + 17 - 9p = 0",
-                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\nα + β = αβ\n(i) (2p + 3)x² + (7p - 5)x + (3p - 10) = 0: a = 2p + 3, b = 7p - 5, c = 3p - 10\nα + β = [[-(7p - 5)/(2p + 3)]]\nαβ = [[(3p - 10)/(2p + 3)]]\nα + β = αβ\n-(7p - 5) = 3p - 10\n-7p + 5 = 3p - 10\n15 = 10p\np = [[15/10]] = [[3/2]]\n(ii) 4x² - (5p + 3)x + 17 - 9p = 0: a = 4, b = -(5p + 3), c = 17 - 9p\nα + β = [[(5p + 3)/4]]\nαβ = [[(17 - 9p)/4]]\nα + β = αβ\n5p + 3 = 17 - 9p\n14p = 14\np = 1"
+                "a": "α + β = [[-b/a]]\nαβ = [[c/a]]\nα + β = αβ\n(i) (2p + 3)x² + (7p - 5)x + (3p - 10) = 0: a = 2p + 3, b = 7p - 5, c = 3p - 10\nα + β = [[-(7p - 5)/(2p + 3)]]\nαβ = [[(3p - 10)/(2p + 3)]]\nα + β = αβ\n-(7p - 5) = 3p - 10\n-7p + 5 = 3p - 10\n15 = 10p\np = [[15/10]]\np = [[3/2]]\n(ii) 4x² - (5p + 3)x + 17 - 9p = 0: a = 4, b = -(5p + 3), c = 17 - 9p\nα + β = [[(5p + 3)/4]]\nαβ = [[(17 - 9p)/4]]\nα + β = αβ\n5p + 3 = 17 - 9p\n14p = 14\np = 1"
               }
             ]
           },
@@ -19560,15 +19560,15 @@ var STUDY = {
             "items": [
               {
                 "q": "جيڪڏهن α ۽ β هڪ ٻه درجي مساوات جا اصل آهن ته پوءِ هيٺين همشڪلي عملن کي α + β ۽ αβ جي صورت ۾ لکو\n(i) (α - β)²\n(ii) (α + β)³\n(iii) α²β⁻¹ + β²α⁻¹\n(iv) α³β + αβ³\n(v) [[1/α³]] + [[1/β³]]\n(vi) ([[1/α]] - [[1/β]])²",
-                "a": "(i) (α - β)² = α² - 2αβ + β² = (α + β)² - 4αβ\n(ii) α³ + β³ = (α + β)³ - 3αβ(α + β)\n(iii) α²β⁻¹ + β²α⁻¹ = [[α²/β]] + [[β²/α]] = [[(α³ + β³)/(αβ)]] = [[((α + β)³ - 3αβ(α + β))/(αβ)]]\n(iv) α³β + αβ³ = αβ(α² + β²) = αβ[(α + β)² - 2αβ]\n(v) [[1/α³]] + [[1/β³]] = [[(β³ + α³)/(αβ)³]] = [[((α + β)³ - 3αβ(α + β))/(αβ)³]]\n(vi) ([[1/α]] - [[1/β]])² = ([[(β - α)/(αβ)]])² = [[(α - β)²/(αβ)²]] = [[((α + β)² - 4αβ)/(αβ)²]]"
+                "a": "(i) (α - β)² = α² - 2αβ + β²\n(α - β)² = (α + β)² - 4αβ\n(ii) α³ + β³ = (α + β)³ - 3αβ(α + β)\n(iii) α²β⁻¹ + β²α⁻¹ = [[α²/β]] + [[β²/α]]\nα²β⁻¹ + β²α⁻¹ = [[(α³ + β³)/(αβ)]]\nα²β⁻¹ + β²α⁻¹ = [[((α + β)³ - 3αβ(α + β))/(αβ)]]\n(iv) α³β + αβ³ = αβ(α² + β²)\nα³β + αβ³ = αβ[(α + β)² - 2αβ]\n(v) [[1/α³]] + [[1/β³]] = [[(β³ + α³)/(αβ)³]]\n[[1/α³]] + [[1/β³]] = [[((α + β)³ - 3αβ(α + β))/(αβ)³]]\n(vi) ([[1/α]] - [[1/β]])² = ([[(β - α)/(αβ)]])²\n([[1/α]] - [[1/β]])² = [[(α - β)²/(αβ)²]]\n([[1/α]] - [[1/β]])² = [[((α + β)² - 4αβ)/(αβ)²]]"
               },
               {
                 "q": "جيڪڏهن مساوات 2x² - 3x + 7 = 0 جا اصل α ۽ β آهن ته پوءِ هيٺين همشڪلي عملن جون قيمتون لھو.\n(i) ([[1/α]] + [[1/β]])²\n(ii) [[α/β²]] + [[β/α²]]\n(iii) [[1/(aα + 1)]] + [[1/(aβ + 1)]]",
-                "a": "2x² - 3x + 7 = 0: a = 2, b = -3, c = 7\nα + β = [[-b/a]] = [[3/2]]\nαβ = [[c/a]] = [[7/2]]\n(i) ([[1/α]] + [[1/β]])² = ([[(α + β)/(αβ)]])² = (([[3/2]]) ÷ ([[7/2]]))² = ([[3/7]])² = [[9/49]]\n(ii) [[α/β²]] + [[β/α²]] = [[(α³ + β³)/(αβ)²]]\nα³ + β³ = (α + β)³ - 3αβ(α + β) = ([[3/2]])³ - 3([[7/2]])([[3/2]]) = [[27/8]] - [[63/4]] = [[27/8]] - [[126/8]] = [[-99/8]]\n(αβ)² = ([[7/2]])² = [[49/4]]\n[[α/β²]] + [[β/α²]] = ([[-99/8]]) ÷ ([[49/4]]) = ([[-99/8]]) × ([[4/49]]) = [[-99/98]]\n[[1/(aα + 1)]] + [[1/(aβ + 1)]] = [[(aβ + 1 + aα + 1)/((aα + 1)(aβ + 1))]]\n= [[(a(α + β) + 2)/(a²αβ + a(α + β) + 1)]]\n= [[(3a + 4)/(7a² + 3a + 2)]]\n[[(3(2) + 4)/(7(2)² + 3(2) + 2)]] = [[10/36]] = [[5/18]]"
+                "a": "2x² - 3x + 7 = 0: a = 2, b = -3, c = 7\nα + β = [[-b/a]]\nα + β = [[3/2]]\nαβ = [[c/a]]\nαβ = [[7/2]]\n(i) ([[1/α]] + [[1/β]])² = ([[(α + β)/(αβ)]])²\n([[1/α]] + [[1/β]])² = (([[3/2]]) ÷ ([[7/2]]))²\n([[1/α]] + [[1/β]])² = ([[3/7]])²\n([[1/α]] + [[1/β]])² = [[9/49]]\n(ii) [[α/β²]] + [[β/α²]] = [[(α³ + β³)/(αβ)²]]\nα³ + β³ = (α + β)³ - 3αβ(α + β)\nα³ + β³ = ([[3/2]])³ - 3([[7/2]])([[3/2]])\nα³ + β³ = [[27/8]] - [[63/4]]\nα³ + β³ = [[27/8]] - [[126/8]]\nα³ + β³ = [[-99/8]]\n(αβ)² = ([[7/2]])²\n(αβ)² = [[49/4]]\n[[α/β²]] + [[β/α²]] = ([[-99/8]]) ÷ ([[49/4]])\n[[α/β²]] + [[β/α²]] = ([[-99/8]]) × ([[4/49]])\n[[α/β²]] + [[β/α²]] = [[-99/98]]\n[[1/(aα + 1)]] + [[1/(aβ + 1)]] = [[(aβ + 1 + aα + 1)/((aα + 1)(aβ + 1))]]\n= [[(a(α + β) + 2)/(a²αβ + a(α + β) + 1)]]\n= [[(3a + 4)/(7a² + 3a + 2)]]\n[[(3(2) + 4)/(7(2)² + 3(2) + 2)]] = [[10/36]]\n[[(3(2) + 4)/(7(2)² + 3(2) + 2)]] = [[5/18]]"
               },
               {
                 "q": "جيڪڏهن مساوات px² + qx + q = 0، p ≠ 0 جا اصل α ۽ β آهن ته پوءِ √([[α/β]]) + √([[β/α]]) جو ملهه لھو.",
-                "a": "px² + qx + q = 0: α + β = [[-q/p]]\nαβ = [[q/p]]\nS² = [[α/β]] + [[β/α]] + 2√([[α/β]])√([[β/α]]) = [[(α² + β²)/(αβ)]] + 2\nα² + β² = (α + β)² - 2αβ\n[[(α² + β²)/(αβ)]] + 2 = [[(α + β)²/(αβ)]]\nS² = [[(α + β)²/(αβ)]] = ([[-q/p]])² ÷ ([[q/p]]) = [[q²/p²]] × ([[p/q]]) = [[q/p]]\nS = ±√([[q/p]])\nS = √([[q/p]])"
+                "a": "px² + qx + q = 0: α + β = [[-q/p]]\nαβ = [[q/p]]\nS² = [[α/β]] + [[β/α]] + 2√([[α/β]])√([[β/α]])\nS² = [[(α² + β²)/(αβ)]] + 2\nα² + β² = (α + β)² - 2αβ\n[[(α² + β²)/(αβ)]] + 2 = [[(α + β)²/(αβ)]]\nS² = [[(α + β)²/(αβ)]]\nS² = ([[-q/p]])² ÷ ([[q/p]])\nS² = [[q²/p²]] × ([[p/q]])\nS² = [[q/p]]\nS = ±√([[q/p]])\nS = √([[q/p]])"
               },
               {
                 "q": "همشڪلي مساوات α + β = 8 کي گراف وسيلي ظاهر ڪريو جڏهن ته α ۽ β ٻه درجي مساوات جا اصل آهن ۽ گراف پڻ ٺاهيو.",
@@ -19610,27 +19610,27 @@ var STUDY = {
             "items": [
               {
                 "q": "مساواتون ٺاهيو جن جا اصل آهن:\n(i) -2, -3\n(ii) ω, ω²\n(iii) 2 + i, 2 - i\n(iv) 2√2, -2√2",
-                "a": "(i) S = -2 + (-3) = -5\nP = (-2)(-3) = 6\nx² - (-5)x + 6 = 0\nx² + 5x + 6 = 0\n(ii) S = ω + ω² = -1\nP = ω × ω² = ω³ = 1\nx² - (-1)x + 1 = 0\nx² + x + 1 = 0\n(iii) S = (2 + i) + (2 - i) = 4\nP = (2 + i)(2 - i) = 4 + 1 = 5\nx² - 4x + 5 = 0\n(iv) S = 2√2 + (-2√2) = 0\nP = (2√2)(-2√2) = -8\nx² - 0x - 8 = 0\nx² - 8 = 0"
+                "a": "(i) S = -2 + (-3)\nS = -5\nP = (-2)(-3)\nP = 6\nx² - (-5)x + 6 = 0\nx² + 5x + 6 = 0\n(ii) S = ω + ω²\nS = -1\nP = ω × ω²\nP = ω³\nP = 1\nx² - (-1)x + 1 = 0\nx² + x + 1 = 0\n(iii) S = (2 + i) + (2 - i)\nS = 4\nP = (2 + i)(2 - i)\nP = 4 + 1\nP = 5\nx² - 4x + 5 = 0\n(iv) S = 2√2 + (-2√2)\nS = 0\nP = (2√2)(-2√2)\nP = -8\nx² - 0x - 8 = 0\nx² - 8 = 0"
               },
               {
                 "q": "جيڪڏهن مساوات 6x² - 3x + 1 = 0 جا اصل α ۽ β آهن ته پوءِ اهي مساواتون ٺاهيو جن جا اصل هيٺ ڏنل آهن.\n(i) 2α + 1, 2β + 1\n(ii) α², β²\n(iii) [[1/α]], [[1/β]]\n(iv) [[α/β]], [[β/α]]\n(v) α + β, [[1/α]] + [[1/β]]",
-                "a": "6x² - 3x + 1 = 0: α + β = [[3/6]] = [[1/2]]\nαβ = [[1/6]]\nx² - Sx + P = 0\n(i) Roots 2α + 1, 2β + 1:\nS = (2α + 1) + (2β + 1) = 2(α + β) + 2 = 2([[1/2]]) + 2 = 3\nP = (2α + 1)(2β + 1) = 4αβ + 2(α + β) + 1 = 4([[1/6]]) + 2([[1/2]]) + 1 = [[2/3]] + 1 + 1 = [[8/3]]\nx² - 3x + [[8/3]] = 0\n3x² - 9x + 8 = 0\n(ii) Roots α², β²:\nS = α² + β² = (α + β)² - 2αβ = ([[1/2]])² - 2([[1/6]]) = [[1/4]] - [[1/3]] = [[-1/12]]\nP = α²β² = (αβ)² = ([[1/6]])² = [[1/36]]\nx² + ([[1/12]])x + [[1/36]] = 0\n36x² + 3x + 1 = 0\n(iii) Roots [[1/α]], [[1/β]]:\nS = [[1/α]] + [[1/β]] = [[(α + β)/(αβ)]] = ([[1/2]]) ÷ ([[1/6]]) = 3\nP = ([[1/α]])([[1/β]]) = [[1/(αβ)]] = 6\nx² - 3x + 6 = 0\n(iv) Roots [[α/β]], [[β/α]]:\nS = [[α/β]] + [[β/α]] = [[(α² + β²)/(αβ)]] = ([[-1/12]]) ÷ ([[1/6]]) = [[-1/2]]\nP = ([[α/β]])([[β/α]]) = 1\nx² + ([[1/2]])x + 1 = 0\n2x² + x + 2 = 0\n(v) Roots α + β, [[1/α]] + [[1/β]]\n[[1/2]] and 3:\nS = [[1/2]] + 3 = [[7/2]]\nP = ([[1/2]])(3) = [[3/2]]\nx² - ([[7/2]])x + [[3/2]] = 0\n2x² - 7x + 3 = 0"
+                "a": "6x² - 3x + 1 = 0: α + β = [[3/6]]\nα + β = [[1/2]]\nαβ = [[1/6]]\nx² - Sx + P = 0\n(i) Roots 2α + 1, 2β + 1:\nS = (2α + 1) + (2β + 1)\nS = 2(α + β) + 2\nS = 2([[1/2]]) + 2\nS = 3\nP = (2α + 1)(2β + 1)\nP = 4αβ + 2(α + β) + 1\nP = 4([[1/6]]) + 2([[1/2]]) + 1\nP = [[2/3]] + 1 + 1\nP = [[8/3]]\nx² - 3x + [[8/3]] = 0\n3x² - 9x + 8 = 0\n(ii) Roots α², β²:\nS = α² + β²\nS = (α + β)² - 2αβ\nS = ([[1/2]])² - 2([[1/6]])\nS = [[1/4]] - [[1/3]]\nS = [[-1/12]]\nP = α²β²\nP = (αβ)²\nP = ([[1/6]])²\nP = [[1/36]]\nx² + ([[1/12]])x + [[1/36]] = 0\n36x² + 3x + 1 = 0\n(iii) Roots [[1/α]], [[1/β]]:\nS = [[1/α]] + [[1/β]]\nS = [[(α + β)/(αβ)]]\nS = ([[1/2]]) ÷ ([[1/6]])\nS = 3\nP = ([[1/α]])([[1/β]])\nP = [[1/(αβ)]]\nP = 6\nx² - 3x + 6 = 0\n(iv) Roots [[α/β]], [[β/α]]:\nS = [[α/β]] + [[β/α]]\nS = [[(α² + β²)/(αβ)]]\nS = ([[-1/12]]) ÷ ([[1/6]])\nS = [[-1/2]]\nP = ([[α/β]])([[β/α]])\nP = 1\nx² + ([[1/2]])x + 1 = 0\n2x² + x + 2 = 0\n(v) Roots α + β, [[1/α]] + [[1/β]]\n[[1/2]] and 3:\nS = [[1/2]] + 3\nS = [[7/2]]\nP = ([[1/2]])(3)\nP = [[3/2]]\nx² - ([[7/2]])x + [[3/2]] = 0\n2x² - 7x + 3 = 0"
               },
               {
                 "q": "اها مساوات لھو جنهن جا اصل ڏنل مساوات px² - qx + r = 0، p ≠ 0 جي اصلن جا ابتڙ هجن.",
-                "a": "α + β = [[-(-q)/p]] = [[q/p]]\nαβ = [[r/p]]\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]] = [[(α + β)/(αβ)]] = ([[q/p]]) ÷ ([[r/p]]) = [[q/r]]\nP = ([[1/α]])([[1/β]]) = [[1/(αβ)]] = [[p/r]]\nx² - Sx + P = 0\nx² - ([[q/r]])x + [[p/r]] = 0\nrx² - qx + p = 0"
+                "a": "α + β = [[-(-q)/p]]\nα + β = [[q/p]]\nαβ = [[r/p]]\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]]\nS = [[(α + β)/(αβ)]]\nS = ([[q/p]]) ÷ ([[r/p]])\nS = [[q/r]]\nP = ([[1/α]])([[1/β]])\nP = [[1/(αβ)]]\nP = [[p/r]]\nx² - Sx + P = 0\nx² - ([[q/r]])x + [[p/r]] = 0\nrx² - qx + p = 0"
               },
               {
                 "q": "اها مساوات لھو جنهن جا اصل ڏنل مساوات x² - px + q = 0 جي اصلن جي ٻيڻا هجن.",
-                "a": "α + β = p\nαβ = q\n2α and 2β\nS = 2α + 2β = 2(α + β) = 2p\nP = (2α)(2β) = 4αβ = 4q\nx² - Sx + P = 0\nx² - 2px + 4q = 0"
+                "a": "α + β = p\nαβ = q\n2α and 2β\nS = 2α + 2β\nS = 2(α + β)\nS = 2p\nP = (2α)(2β)\nP = 4αβ\nP = 4q\nx² - Sx + P = 0\nx² - 2px + 4q = 0"
               },
               {
                 "q": "اها مساوات لھو جنهن جا اصل ڏنل مساوات px² + qx + r = 0 جي اصلن کان 2 وڏيڪ هجن.",
-                "a": "α + β = [[-q/p]]\nαβ = [[r/p]]\nα + 2 and β + 2\nS = (α + 2) + (β + 2) = (α + β) + 4 = [[-q/p]] + 4 = [[(4p - q)/p]]\nP = (α + 2)(β + 2) = αβ + 2(α + β) + 4 = [[r/p]] + 2([[-q/p]]) + 4 = [[(r - 2q + 4p)/p]]\nx² - Sx + P = 0\nx² - ([[(4p - q)/p]])x + [[(4p - 2q + r)/p]] = 0\npx² - (4p - q)x + (4p - 2q + r) = 0"
+                "a": "α + β = [[-q/p]]\nαβ = [[r/p]]\nα + 2 and β + 2\nS = (α + 2) + (β + 2)\nS = (α + β) + 4\nS = [[-q/p]] + 4\nS = [[(4p - q)/p]]\nP = (α + 2)(β + 2)\nP = αβ + 2(α + β) + 4\nP = [[r/p]] + 2([[-q/p]]) + 4\nP = [[(r - 2q + 4p)/p]]\nx² - Sx + P = 0\nx² - ([[(4p - q)/p]])x + [[(4p - 2q + r)/p]] = 0\npx² - (4p - q)x + (4p - 2q + r) = 0"
               },
               {
                 "q": "اها شرط لھو جڏهن مساوات ax² + bx + c = 0، a ≠ 0 جو هڪ اصل\n(i) ٻئي جو ٽيڻو هجي.\n(ii) ٻئي جو چورس هجي.\n(iii) ٻئي جو جمعي ابتڙ هجي.\n(iv) ٻئي جو ضربي ابتڙ هجي.",
-                "a": "(i) β = 3α\nα + β = 4α = [[-b/a]]\nα = [[-b/(4a)]]\nαβ = 3α² = [[c/a]]\n3([[-b/(4a)]])² = [[c/a]]\n[[3b²/(16a²)]] = [[c/a]]\n3b² = 16ac\n(ii) β = α²\nα + α² = [[-b/a]] ...(i)\nα × α² = α³ = [[c/a]] ...(ii)\nα² = [[-b/a]] - α\nα³ = α × α² = α([[-b/a]] - α) = -([[b/a]])α - α² = -([[b/a]])α + [[b/a]] + α = α(1 - [[b/a]]) + [[b/a]]\nα(1 - [[b/a]]) + [[b/a]] = [[c/a]]\n[[α(a - b)/a]] = [[(c - b)/a]]\nα = [[(c - b)/(a - b)]]\n[[(c - b)³/(a - b)³]] = [[c/a]]\na(c - b)³ = c(a - b)³\na(c³ - 3bc² + 3b²c - b³) = c(a³ - 3a²b + 3ab² - b³)\n(c - a)[b³ + ac(a + c) - 3abc] = 0\nb³ + ac(a + c) = 3abc\n(iii) β = -α\nα + β = 0 = [[-b/a]]\nb = 0\n(iv) β = [[1/α]]\nαβ = 1 = [[c/a]]\nc = a"
+                "a": "(i) β = 3α\nα + β = 4α\nα + β = [[-b/a]]\nα = [[-b/(4a)]]\nαβ = 3α²\nαβ = [[c/a]]\n3([[-b/(4a)]])² = [[c/a]]\n[[3b²/(16a²)]] = [[c/a]]\n3b² = 16ac\n(ii) β = α²\nα + α² = [[-b/a]] ...(i)\nα × α² = α³\nα × α² = [[c/a]] ...(ii)\nα² = [[-b/a]] - α\nα³ = α × α²\nα³ = α([[-b/a]] - α)\nα³ = -([[b/a]])α - α²\nα³ = -([[b/a]])α + [[b/a]] + α\nα³ = α(1 - [[b/a]]) + [[b/a]]\nα(1 - [[b/a]]) + [[b/a]] = [[c/a]]\n[[α(a - b)/a]] = [[(c - b)/a]]\nα = [[(c - b)/(a - b)]]\n[[(c - b)³/(a - b)³]] = [[c/a]]\na(c - b)³ = c(a - b)³\na(c³ - 3bc² + 3b²c - b³) = c(a³ - 3a²b + 3ab² - b³)\n(c - a)[b³ + ac(a + c) - 3abc] = 0\nb³ + ac(a + c) = 3abc\n(iii) β = -α\nα + β = 0\nα + β = [[-b/a]]\nb = 0\n(iv) β = [[1/α]]\nαβ = 1\nαβ = [[c/a]]\nc = a"
               }
             ]
           },
@@ -19639,23 +19639,23 @@ var STUDY = {
             "items": [
               {
                 "q": "هيٺين ڪعبي مساواتن جا باقي رهيل ٻه اصل لھو جيڪڏهن هڪ اصل مليل آهي.\n(i) 2x³ - x² - 2x + 1 = 0 ۽ x = 1\n(ii) x³ - 4x² + x + 6 = 0 ۽ x = 3\n(iii) x³ - 28x + 48 = 0 ۽ x = 2",
-                "a": "(i) x = 1\n1 | 2  −1  −2  1\n    2  1  −1\n    2  1  −1 | 0\n2x² + x - 1 = (2x - 1)(x + 1) = 0\nx = [[1/2]]\nx = -1\n(ii) x = 3\n3 | 1  −4  1  6\n    3  −3  −6\n    1  −1  −2 | 0\nx² - x - 2 = (x - 2)(x + 1) = 0\nx = 2\nx = -1\n(iii) x = 2\n2 | 1  0  −28  48\n    2  4  −48\n    1  2  −24 | 0\nx² + 2x - 24 = (x + 6)(x - 4) = 0\nx = -6\nx = 4"
+                "a": "(i) x = 1\n1 | 2  −1  −2  1\n    2  1  −1\n    2  1  −1 | 0\n2x² + x - 1 = (2x - 1)(x + 1)\n2x² + x - 1 = 0\nx = [[1/2]]\nx = -1\n(ii) x = 3\n3 | 1  −4  1  6\n    3  −3  −6\n    1  −1  −2 | 0\nx² - x - 2 = (x - 2)(x + 1)\nx² - x - 2 = 0\nx = 2\nx = -1\n(iii) x = 2\n2 | 1  0  −28  48\n    2  4  −48\n    1  2  −24 | 0\nx² + 2x - 24 = (x + 6)(x - 4)\nx² + 2x - 24 = 0\nx = -6\nx = 4"
               },
               {
                 "q": "هيٺين چو درجي مساواتن جا باقي رهيل ٻه اصل لھو جيڪڏهن ان جا ٻه اصل ڏنل آهن.\n(i) 12x⁴ - 8x³ - 7x² + 2x + 1 = 0 ۽ x = 1, [[-1/2]]\n(ii) x⁴ + 4x² - 5 = 0 ۽ x = 1, -1\n(iii) x⁴ + 2x³ - 13x² - 14x + 24 = 0 ۽ x = 3, -4",
-                "a": "(i) x = 1 and x = [[-1/2]]\n1 | 12  −8  −7  2  1\n    12  4  −3  −1\n    12  4  −3  −1 | 0\n−[[1/2]] | 12  4  −3  −1\n    −6  1  1\n    12  −2  −2 | 0\n12x² - 2x - 2 = 0\n6x² - x - 1 = 0\n6x² - x - 1 = (3x + 1)(2x - 1) = 0\nx = [[-1/3]]\nx = [[1/2]]\n(ii) x = 1 and x = -1\ny = x²\ny² + 4y - 5 = 0\n(y + 5)(y - 1) = 0\ny = 1\ny = -5\nx² = 1\nx² = -5\nx = ±√5 i\n(iii) x = 3 and x = -4\n3 | 1  2  −13  −14  24\n    3  15  6  −24\n    1  5  2  −8 | 0\n−4 | 1  5  2  −8\n    −4  −4  8\n    1  1  −2 | 0\nx² + x - 2 = (x + 2)(x - 1) = 0\nx = -2\nx = 1"
+                "a": "(i) x = 1 and x = [[-1/2]]\n1 | 12  −8  −7  2  1\n    12  4  −3  −1\n    12  4  −3  −1 | 0\n−[[1/2]] | 12  4  −3  −1\n    −6  1  1\n    12  −2  −2 | 0\n12x² - 2x - 2 = 0\n6x² - x - 1 = 0\n6x² - x - 1 = (3x + 1)(2x - 1)\n6x² - x - 1 = 0\nx = [[-1/3]]\nx = [[1/2]]\n(ii) x = 1 and x = -1\ny = x²\ny² + 4y - 5 = 0\n(y + 5)(y - 1) = 0\ny = 1\ny = -5\nx² = 1\nx² = -5\nx = ±√5 i\n(iii) x = 3 and x = -4\n3 | 1  2  −13  −14  24\n    3  15  6  −24\n    1  5  2  −8 | 0\n−4 | 1  5  2  −8\n    −4  −4  8\n    1  1  −2 | 0\nx² + x - 2 = (x + 2)(x - 1)\nx² + x - 2 = 0\nx = -2\nx = 1"
               },
               {
                 "q": "m جو ملهه لھو ۽ مساوات 2x³ - 3mx² + 9 = 0 جا باقي رهيل ٻه اصل به لھو جيڪڏهن ان جو هڪ اصل 3 آهي.",
-                "a": "x = 3\n2(3)³ - 3m(3)² + 9 = 0\n54 - 27m + 9 = 0\n63 - 27m = 0\n27m = 63\nm = [[63/27]] = [[7/3]]\n2x³ - 7x² + 9 = 0\n3 | 2  −7  0  9\n    6  −3  −9\n    2  −1  −3 | 0\n2x² - x - 3 = (2x - 3)(x + 1) = 0\nx = [[3/2]]\nx = -1"
+                "a": "x = 3\n2(3)³ - 3m(3)² + 9 = 0\n54 - 27m + 9 = 0\n63 - 27m = 0\n27m = 63\nm = [[63/27]]\nm = [[7/3]]\n2x³ - 7x² + 9 = 0\n3 | 2  −7  0  9\n    6  −3  −9\n    2  −1  −3 | 0\n2x² - x - 3 = (2x - 3)(x + 1)\n2x² - x - 3 = 0\nx = [[3/2]]\nx = -1"
               },
               {
                 "q": "جيڪڏهن مساوات x³ - 3ax² - x + 6 = 0 جو هڪ اصل 1 آهي ته پوءِ a جي قيمت لھو. ان جا باقي رهيل اصل پڻ لھو.",
-                "a": "x = 1\n(1)³ - 3a(1)² - 1 + 6 = 0\n1 - 3a - 1 + 6 = 0\n6 - 3a = 0\na = 2\nx³ - 6x² - x + 6 = 0\n1 | 1  −6  −1  6\n    1  −5  −6\n    1  −5  −6 | 0\nx² - 5x - 6 = (x - 6)(x + 1) = 0\nx = 6\nx = -1"
+                "a": "x = 1\n(1)³ - 3a(1)² - 1 + 6 = 0\n1 - 3a - 1 + 6 = 0\n6 - 3a = 0\na = 2\nx³ - 6x² - x + 6 = 0\n1 | 1  −6  −1  6\n    1  −5  −6\n    1  −5  −6 | 0\nx² - 5x - 6 = (x - 6)(x + 1)\nx² - 5x - 6 = 0\nx = 6\nx = -1"
               },
               {
                 "q": "a ۽ b جون قيمتون لھو جيڪڏهن مساوات x⁴ - ax² + bx + 252 = 0 جا اصل 6 ۽ -2 آهن. ان جا باقي رهيل اصل پڻ لھو.",
-                "a": "x⁴ + 0x³ - ax² + bx + 252 = 0\nSum = 0\n6 + (-2) + α + β = 0\nα + β = -4 ...(i)\nProduct = 252\n6 × (-2) × αβ = 252\n-12αβ = 252\nαβ = -21 ...(ii)\nt² - (α + β)t + αβ = 0\nt² + 4t - 21 = 0\nt² + 4t - 21 = (t + 7)(t - 3) = 0\nt = -7\nt = 3\nRemaining roots: -7 and 3\nSum of the products of the roots taken two at a time = coefficient of x² = -a\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -12 + 4(α + β) + αβ = -12 + 4(-4) + (-21) = -49\n-a = -49\na = 49\nSum of the products of the roots taken three at a time = -b\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -12(α + β) + 4αβ = -12(-4) + 4(-21) = 48 - 84 = -36\n-b = -36\nb = 36"
+                "a": "x⁴ + 0x³ - ax² + bx + 252 = 0\nSum = 0\n6 + (-2) + α + β = 0\nα + β = -4 ...(i)\nProduct = 252\n6 × (-2) × αβ = 252\n-12αβ = 252\nαβ = -21 ...(ii)\nt² - (α + β)t + αβ = 0\nt² + 4t - 21 = 0\nt² + 4t - 21 = (t + 7)(t - 3)\nt² + 4t - 21 = 0\nt = -7\nt = 3\nRemaining roots: -7 and 3\nSum of the products of the roots taken two at a time = coefficient of x²\nSum of the products of the roots taken two at a time = -a\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -12 + 4(α + β) + αβ\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -12 + 4(-4) + (-21)\n6(-2) + 6α + 6β + (-2)α + (-2)β + αβ = -49\n-a = -49\na = 49\nSum of the products of the roots taken three at a time = -b\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -12(α + β) + 4αβ\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -12(-4) + 4(-21)\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = 48 - 84\n6(-2)α + 6(-2)β + 6αβ + (-2)αβ = -36\n-b = -36\nb = 36"
               }
             ]
           },
@@ -19664,19 +19664,19 @@ var STUDY = {
             "items": [
               {
                 "q": "مساواتن جي هيٺين مجموعن کي حل ڪريو.\n1. 2x - y = 3 ۽ x² + y² = 2",
-                "a": "2x - y = 3 ...(i)\nx² + y² = 2 ...(ii)\ny = 2x - 3 ...(iii)\nx² + (2x - 3)² = 2\nx² + 4x² - 12x + 9 = 2\n5x² - 12x + 7 = 0\n5x² - 5x - 7x + 7 = 0\n5x(x - 1) - 7(x - 1) = 0\n(x - 1)(5x - 7) = 0\nx = 1\nx = [[7/5]]\nx = 1, y = 2(1) - 3 = -1\nx = [[7/5]], y = 2([[7/5]]) - 3 = [[14/5]] - [[15/5]] = [[-1/5]]"
+                "a": "2x - y = 3 ...(i)\nx² + y² = 2 ...(ii)\ny = 2x - 3 ...(iii)\nx² + (2x - 3)² = 2\nx² + 4x² - 12x + 9 = 2\n5x² - 12x + 7 = 0\n5x² - 5x - 7x + 7 = 0\n5x(x - 1) - 7(x - 1) = 0\n(x - 1)(5x - 7) = 0\nx = 1\nx = [[7/5]]\nx = 1\ny = 2(1) - 3\ny = -1\nx = [[7/5]]\ny = 2([[7/5]]) - 3\ny = [[14/5]] - [[15/5]]\ny = [[-1/5]]"
               },
               {
                 "q": "2. 2x + y = 4 ۽ x² - 2x + y² = 0",
-                "a": "2x + y = 4 ...(i)\nx² - 2x + y² = 0 ...(ii)\ny = 4 - 2x ...(iii)\nx² - 2x + (4 - 2x)² = 0\nx² - 2x + 16 - 16x + 4x² = 0\n5x² - 18x + 16 = 0\n5x² - 10x - 8x + 16 = 0\n5x(x - 2) - 8(x - 2) = 0\n(x - 2)(5x - 8) = 0\nx = 2\nx = [[8/5]]\nx = 2, y = 4 - 2(2) = 0\nx = [[8/5]], y = 4 - 2([[8/5]]) = [[20/5]] - [[16/5]] = [[4/5]]"
+                "a": "2x + y = 4 ...(i)\nx² - 2x + y² = 0 ...(ii)\ny = 4 - 2x ...(iii)\nx² - 2x + (4 - 2x)² = 0\nx² - 2x + 16 - 16x + 4x² = 0\n5x² - 18x + 16 = 0\n5x² - 10x - 8x + 16 = 0\n5x(x - 2) - 8(x - 2) = 0\n(x - 2)(5x - 8) = 0\nx = 2\nx = [[8/5]]\nx = 2\ny = 4 - 2(2)\ny = 0\nx = [[8/5]]\ny = 4 - 2([[8/5]])\ny = [[20/5]] - [[16/5]]\ny = [[4/5]]"
               },
               {
                 "q": "3. [[4/x]] + [[3/y]] = 2 ۽ 4x + 3y = 25",
-                "a": "[[4/x]] + [[3/y]] = 2 ...(i)\n4x + 3y = 25 ...(ii)\n3y = 25 - 4x\ny = [[(25 - 4x)/3]] ...(iii)\n[[4/x]] + [[9/(25 - 4x)]] = 2\n4(25 - 4x) + 9x = 2x(25 - 4x)\n100 - 16x + 9x = 50x - 8x²\n100 - 7x = 50x - 8x²\n8x² - 57x + 100 = 0\n8x² - 32x - 25x + 100 = 0\n8x(x - 4) - 25(x - 4) = 0\n(x - 4)(8x - 25) = 0\nx = 4\nx = [[25/8]]\nx = 4, y = [[(25 - 16)/3]] = 3\nx = [[25/8]], y = (25 - 4([[25/8]])) ÷ 3 = (25 - [[25/2]]) ÷ 3 = ([[25/2]]) ÷ 3 = [[25/6]]"
+                "a": "[[4/x]] + [[3/y]] = 2 ...(i)\n4x + 3y = 25 ...(ii)\n3y = 25 - 4x\ny = [[(25 - 4x)/3]] ...(iii)\n[[4/x]] + [[9/(25 - 4x)]] = 2\n4(25 - 4x) + 9x = 2x(25 - 4x)\n100 - 16x + 9x = 50x - 8x²\n100 - 7x = 50x - 8x²\n8x² - 57x + 100 = 0\n8x² - 32x - 25x + 100 = 0\n8x(x - 4) - 25(x - 4) = 0\n(x - 4)(8x - 25) = 0\nx = 4\nx = [[25/8]]\nx = 4\ny = [[(25 - 16)/3]]\ny = 3\nx = [[25/8]]\ny = (25 - 4([[25/8]])) ÷ 3\ny = (25 - [[25/2]]) ÷ 3\ny = ([[25/2]]) ÷ 3\ny = [[25/6]]"
               },
               {
                 "q": "4. (x - 1)² + (y + 3)² = 25 ۽ x² + (y + 1)² = 10",
-                "a": "(x - 1)² + (y + 3)² = 25 ...(i)\nx² + (y + 1)² = 10 ...(ii)\nx² + y² - 2x + 6y = 15 ...(iii)\nx² + y² + 2y = 9 ...(iv)\n-2x + 4y = 6\nx = 2y - 3 ...(v)\n(2y - 3)² + (y + 1)² = 10\n4y² - 12y + 9 + y² + 2y + 1 = 10\n5y² - 10y = 0\n5y(y - 2) = 0\ny = 0\ny = 2\ny = 0, x = 2(0) - 3 = -3\ny = 2, x = 2(2) - 3 = 1"
+                "a": "(x - 1)² + (y + 3)² = 25 ...(i)\nx² + (y + 1)² = 10 ...(ii)\nx² + y² - 2x + 6y = 15 ...(iii)\nx² + y² + 2y = 9 ...(iv)\n-2x + 4y = 6\nx = 2y - 3 ...(v)\n(2y - 3)² + (y + 1)² = 10\n4y² - 12y + 9 + y² + 2y + 1 = 10\n5y² - 10y = 0\n5y(y - 2) = 0\ny = 0\ny = 2\ny = 0\nx = 2(0) - 3\nx = -3\ny = 2\nx = 2(2) - 3\nx = 1"
               },
               {
                 "q": "5. x² + y² = 25 ۽ (4x - 3y)(x - y - 5) = 0",
@@ -19684,19 +19684,19 @@ var STUDY = {
               },
               {
                 "q": "6. x² + y² = 16 ۽ 2x² - 3xy + y² = 0",
-                "a": "x² + y² = 16 ...(i)\n2x² - 3xy + y² = 0 ...(ii)\n2x² - 3xy + y² = (2x - y)(x - y) = 0\n2x - y = 0\nx - y = 0\ny = 2x\nx² + 4x² = 16\n5x² = 16\nx = ±[[4/√5]]\nx = [[4/√5]], y = [[8/√5]]\nx = [[-4/√5]], y = [[-8/√5]]\ny = x\nx² + x² = 16\n2x² = 16\nx = ±2√2\nx = 2√2, y = 2√2\nx = -2√2, y = -2√2"
+                "a": "x² + y² = 16 ...(i)\n2x² - 3xy + y² = 0 ...(ii)\n2x² - 3xy + y² = (2x - y)(x - y)\n2x² - 3xy + y² = 0\n2x - y = 0\nx - y = 0\ny = 2x\nx² + 4x² = 16\n5x² = 16\nx = ±[[4/√5]]\nx = [[4/√5]], y = [[8/√5]]\nx = [[-4/√5]], y = [[-8/√5]]\ny = x\nx² + x² = 16\n2x² = 16\nx = ±2√2\nx = 2√2, y = 2√2\nx = -2√2, y = -2√2"
               },
               {
                 "q": "7. x² + y² = 5 ۽ xy = 2",
-                "a": "x² + y² = 5 ...(i)\nxy = 2 ...(ii)\n(x + y)² = x² + y² + 2xy = 5 + 4 = 9\nx + y = ±3\n(x - y)² = x² + y² - 2xy = 5 - 4 = 1\nx - y = ±1\nCase x + y = 3, x - y = 1\n2x = 4, x = 2, y = 1\nCase x + y = 3, x - y = -1\n2x = 2, x = 1, y = 2\nCase x + y = -3, x - y = 1\n2x = -2, x = -1, y = -2\nCase x + y = -3, x - y = -1\n2x = -4, x = -2, y = -1"
+                "a": "x² + y² = 5 ...(i)\nxy = 2 ...(ii)\n(x + y)² = x² + y² + 2xy\n(x + y)² = 5 + 4\n(x + y)² = 9\nx + y = ±3\n(x - y)² = x² + y² - 2xy\n(x - y)² = 5 - 4\n(x - y)² = 1\nx - y = ±1\nCase x + y = 3, x - y = 1\n2x = 4\nx = 2\ny = 1\nCase x + y = 3, x - y = -1\n2x = 2\nx = 1\ny = 2\nCase x + y = -3, x - y = 1\n2x = -2\nx = -1\ny = -2\nCase x + y = -3, x - y = -1\n2x = -4\nx = -2\ny = -1"
               },
               {
                 "q": "8. x² + xy = 5 ۽ x² - 2xy = 2",
-                "a": "x² + xy = 5 ...(i)\nx² - 2xy = 2 ...(ii)\n3xy = 3\nxy = 1\nx² = 5 - xy = 5 - 1 = 4\nx = ±2\nx = 2, y = [[1/x]] = [[1/2]]\nx = -2, y = [[1/x]] = [[-1/2]]"
+                "a": "x² + xy = 5 ...(i)\nx² - 2xy = 2 ...(ii)\n3xy = 3\nxy = 1\nx² = 5 - xy\nx² = 5 - 1\nx² = 4\nx = ±2\nx = 2\ny = [[1/x]]\ny = [[1/2]]\nx = -2\ny = [[1/x]]\ny = [[-1/2]]"
               },
               {
                 "q": "9. x + [[4/y]] = 1 ۽ y + [[4/x]] = 25",
-                "a": "x + [[4/y]] = 1 ...(i)\ny + [[4/x]] = 25 ...(ii)\nx = 1 - [[4/y]] = [[(y - 4)/y]] ...(iii)\ny + [[4y/(y - 4)]] = 25\ny(y - 4) + 4y = 25(y - 4)\ny² - 4y + 4y = 25y - 100\ny² - 25y + 100 = 0\n(y - 5)(y - 20) = 0\ny = 5\ny = 20\ny = 5, x = [[(5 - 4)/5]] = [[1/5]]\ny = 20, x = [[(20 - 4)/20]] = [[16/20]] = [[4/5]]"
+                "a": "x + [[4/y]] = 1 ...(i)\ny + [[4/x]] = 25 ...(ii)\nx = 1 - [[4/y]]\nx = [[(y - 4)/y]] ...(iii)\ny + [[4y/(y - 4)]] = 25\ny(y - 4) + 4y = 25(y - 4)\ny² - 4y + 4y = 25y - 100\ny² - 25y + 100 = 0\n(y - 5)(y - 20) = 0\ny = 5\ny = 20\ny = 5\nx = [[(5 - 4)/5]]\nx = [[1/5]]\ny = 20\nx = [[(20 - 4)/20]]\nx = [[16/20]]\nx = [[4/5]]"
               },
               {
                 "q": "12 کي ٻن حصن ۾ ورهايو، اهڙي طرح جو انهن جي چورسن جي جوڙ اپٽ انهن جي ضرب اپٽ جي ٻيڻ کان 4 وڌيڪ آهي.",
@@ -19704,15 +19704,15 @@ var STUDY = {
               },
               {
                 "q": "هڪ عبادت گاهه جي ڊيگهه ان جي ويڪر کان 5 ميٽر وڌيڪ آهي. جيڪڏهن عبادت گاهه جي ايراضي 36m² آهي ته پوءِ ان جي ڊيگهه ۽ ويڪر لھو.",
-                "a": "Length = (x + 5) m\nx(x + 5) = 36\nx² + 5x - 36 = 0\n(x + 9)(x - 4) = 0\nx = -9\nx = 4\nLength = x + 5 = 9 m"
+                "a": "Length = (x + 5) m\nx(x + 5) = 36\nx² + 5x - 36 = 0\n(x + 9)(x - 4) = 0\nx = -9\nx = 4\nLength = x + 5\nLength = 9 m"
               },
               {
                 "q": "ٻن عددن جي چورسن جي جوڙ اپٽ 100 آهي. هڪ عدد ٻئي کان 2 وڌيڪ آهي ته پوءِ عددن جا ملهه لھو.",
-                "a": "Other number = x + 2\nx² + (x + 2)² = 100\nx² + x² + 4x + 4 = 100\n2x² + 4x - 96 = 0\nx² + 2x - 48 = 0\n(x + 8)(x - 6) = 0\nx = -8\nx = 6\nOther number = 6 + 2 = 8"
+                "a": "Other number = x + 2\nx² + (x + 2)² = 100\nx² + x² + 4x + 4 = 100\n2x² + 4x - 96 = 0\nx² + 2x - 48 = 0\n(x + 8)(x - 6) = 0\nx = -8\nx = 6\nOther number = 6 + 2\nOther number = 8"
               },
               {
                 "q": "ڪوئي ڪنڌ تڪنڊي جي پائي جي ڊيگهه عمود جي ڊيگهه کان 3 وڌيڪ آهي. جيڪڏهن تڪنڊي جو هائيپوٽينوز 15cm آهي ته پوءِ پايو ۽ عمود لھو.",
-                "a": "Base = (x + 3) cm\nHypotenuse = 15 cm\nx² + (x + 3)² = 15²\nx² + x² + 6x + 9 = 225\n2x² + 6x - 216 = 0\nx² + 3x - 108 = 0\n(x + 12)(x - 9) = 0\nx = -12\nx = 9\nBase = x + 3 = 12 cm",
+                "a": "Base = (x + 3) cm\nHypotenuse = 15 cm\nx² + (x + 3)² = 15²\nx² + x² + 6x + 9 = 225\n2x² + 6x - 216 = 0\nx² + 3x - 108 = 0\n(x + 12)(x - 9) = 0\nx = -12\nx = 9\nBase = x + 3\nBase = 12 cm",
                 "da": {
                   "type": "triangle",
                   "pts": [
@@ -19744,7 +19744,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ ٻيوڙ پاسو تڪنڊي جو گهيرو 36cm آهي. ان جي غير مساوي پاسي جي اوچائي 12cm آهي. تڪنڊي جي تنهن پاسن جي ڊيگهه لھو.",
-                "a": "2x + y = 36\ny = 36 - 2x ...(i)\nx² = 12² + ([[y/2]])²\nx² - [[y²/4]] = 144\n4x² - y² = 576 ...(ii)\n4x² - (36 - 2x)² = 576\n4x² - (1296 - 144x + 4x²) = 576\n144x - 1296 = 576\n144x = 1872\nx = 13\ny = 36 - 2(13) = 10",
+                "a": "2x + y = 36\ny = 36 - 2x ...(i)\nx² = 12² + ([[y/2]])²\nx² - [[y²/4]] = 144\n4x² - y² = 576 ...(ii)\n4x² - (36 - 2x)² = 576\n4x² - (1296 - 144x + 4x²) = 576\n144x - 1296 = 576\n144x = 1872\nx = 13\ny = 36 - 2(13)\ny = 10",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -19848,7 +19848,7 @@ var STUDY = {
               },
               {
                 "q": "ٻن عددن جو فرق 5 آهي ۽ انهن جي چورسن جو فرق 275 آهي ته پوءِ عدد لھو.",
-                "a": "x - y = 5 ...(i)\nx² - y² = 275 ...(ii)\nx² - y² = (x - y)(x + y) = 5(x + y)\n5(x + y) = 275\nx + y = 55 ...(iii)\n2x = 60\nx = 30\ny = 55 - 30 = 25"
+                "a": "x - y = 5 ...(i)\nx² - y² = 275 ...(ii)\nx² - y² = (x - y)(x + y)\nx² - y² = 5(x + y)\n5(x + y) = 275\nx + y = 55 ...(iii)\n2x = 60\nx = 30\ny = 55 - 30\ny = 25"
               }
             ]
           },
@@ -19861,11 +19861,11 @@ var STUDY = {
               },
               {
                 "q": "هيٺين ٻه درجي مساواتن جي اصلن جو قسم لھو.\n(i) x² - 7x + 12 = 0\n(ii) x² - 14x + 49 = 0\n(iii) x² - x + 7 = 0\n(iv) x² - 5 = 0",
-                "a": "(i) x² - 7x + 12 = 0: a = 1, b = -7, c = 12\nΔ = (-7)² - 4(1)(12) = 49 - 48 = 1 = (1)² > 0\nReal, rational, unequal\n(ii) x² - 14x + 49 = 0: a = 1, b = -14, c = 49\nΔ = (-14)² - 4(1)(49) = 196 - 196 = 0\nReal, rational, equal\nx = 7\n(iii) x² - x + 7 = 0: a = 1, b = -1, c = 7\nΔ = (-1)² - 4(1)(7) = 1 - 28 = -27 < 0\nComplex, unequal, conjugate\n(iv) x² - 5 = 0: a = 1, b = 0, c = -5\nΔ = (0)² - 4(1)(-5) = 20 > 0\nReal, irrational, unequal"
+                "a": "(i) x² - 7x + 12 = 0: a = 1, b = -7, c = 12\nΔ = (-7)² - 4(1)(12)\nΔ = 49 - 48\nΔ = 1\nΔ = (1)² > 0\nReal, rational, unequal\n(ii) x² - 14x + 49 = 0: a = 1, b = -14, c = 49\nΔ = (-14)² - 4(1)(49)\nΔ = 196 - 196\nΔ = 0\nReal, rational, equal\nx = 7\n(iii) x² - x + 7 = 0: a = 1, b = -1, c = 7\nΔ = (-1)² - 4(1)(7)\nΔ = 1 - 28\nΔ = -27 < 0\nComplex, unequal, conjugate\n(iv) x² - 5 = 0: a = 1, b = 0, c = -5\nΔ = (0)² - 4(1)(-5)\nΔ = 20 > 0\nReal, irrational, unequal"
               },
               {
                 "q": "k جي ڪهڙي قيمت لاءِ، مساوات x² + kx + 4 = 0\n(i) مساوي اصل آهن\n(ii) منجهيل اصل آهن\n(iii) حقيقي اصل آهن\n(iv) ناطق اصل آهن",
-                "a": "x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 4(1)(4) = k² - 16\n(i) Δ = 0\nk² - 16 = 0\nk² = 16\nk = ±4\n(ii) Δ < 0\nk² - 16 < 0\nk² < 16 and -4 < k < 4\n(iii) Δ ≥ 0\nk² - 16 ≥ 0\nk² ≥ 16 and k > 4 or k < -4 (k ≥ 4 or k ≤ -4)\n(iv) Δ = k² - 16\nk² - 16 = perfect square\nk = ±4, ±5"
+                "a": "x² + kx + 4 = 0: a = 1, b = k, c = 4\nΔ = k² - 4(1)(4)\nΔ = k² - 16\n(i) Δ = 0\nk² - 16 = 0\nk² = 16\nk = ±4\n(ii) Δ < 0\nk² - 16 < 0\nk² < 16 and -4 < k < 4\n(iii) Δ ≥ 0\nk² - 16 ≥ 0\nk² ≥ 16 and k > 4 or k < -4 (k ≥ 4 or k ≤ -4)\n(iv) Δ = k² - 16\nk² - 16 = perfect square\nk = ±4, ±5"
               },
               {
                 "q": "729 جا ٽيئان مول لھو.",
@@ -19881,11 +19881,11 @@ var STUDY = {
               },
               {
                 "q": "اها ٻه درجي مساوات لھو جنهن جا اصل 1 - √3 ۽ 1 + √3 آهن.",
-                "a": "S = α + β = (1 - √3) + (1 + √3) = 2\nP = αβ = (1 - √3)(1 + √3) = 1 - 3 = -2\nx² - Sx + P = 0\nx² - 2x - 2 = 0"
+                "a": "S = α + β\nS = (1 - √3) + (1 + √3)\nS = 2\nP = αβ\nP = (1 - √3)(1 + √3)\nP = 1 - 3\nP = -2\nx² - Sx + P = 0\nx² - 2x - 2 = 0"
               },
               {
                 "q": "اها مساوات لھو جنهن جا اصل ڏنل مساوات x² - 10x + 16 = 0 جي اصلن جا ابتڙ آهن.",
-                "a": "α + β = 10\nαβ = 16\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]] = [[(α + β)/(αβ)]] = [[10/16]] = [[5/8]]\nP = ([[1/α]])([[1/β]]) = [[1/(αβ)]] = [[1/16]]\nx² - Sx + P = 0\nx² - ([[5/8]])x + [[1/16]] = 0\n16x² - 10x + 1 = 0"
+                "a": "α + β = 10\nαβ = 16\n[[1/α]] and [[1/β]]\nS = [[1/α]] + [[1/β]]\nS = [[(α + β)/(αβ)]]\nS = [[10/16]]\nS = [[5/8]]\nP = ([[1/α]])([[1/β]])\nP = [[1/(αβ)]]\nP = [[1/16]]\nx² - Sx + P = 0\nx² - ([[5/8]])x + [[1/16]] = 0\n16x² - 10x + 1 = 0"
               },
               {
                 "q": "هيٺ ڏنل هر هڪ مساواتن جي مجموعي کي حل ڪريو.\n(i) x² + y² = 13 ۽ x + y = 5\n(ii) x² + y² = 37 ۽ 2x + 5y = 32",
@@ -19909,15 +19909,15 @@ var STUDY = {
               },
               {
                 "q": "2. [[4(x - 4)/(x² - 2x - 3)]]",
-                "a": "x² - 2x - 3 = (x - 3)(x + 1)\n[[4(x - 4)/((x - 3)(x + 1))]] = [[A/(x - 3)]] + [[B/(x + 1)]]\n4x - 16 = A(x + 1) + B(x - 3)\nx = 3\n12 - 16 = -4 = A(4) + B(0)\nA = -1\nx = -1\n-4 - 16 = -20 = A(0) + B(-4)\nB = 5\n[[4(x - 4)/(x² - 2x - 3)]] = [[5/(x + 1)]] - [[1/(x - 3)]]"
+                "a": "x² - 2x - 3 = (x - 3)(x + 1)\n[[4(x - 4)/((x - 3)(x + 1))]] = [[A/(x - 3)]] + [[B/(x + 1)]]\n4x - 16 = A(x + 1) + B(x - 3)\nx = 3\n12 - 16 = -4\n12 - 16 = A(4) + B(0)\nA = -1\nx = -1\n-4 - 16 = -20\n-4 - 16 = A(0) + B(-4)\nB = 5\n[[4(x - 4)/(x² - 2x - 3)]] = [[5/(x + 1)]] - [[1/(x - 3)]]"
               },
               {
                 "q": "3. [[(x² - 3x + 6)/(x(x - 2)(x - 1))]]",
-                "a": "[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[A/x]] + [[B/(x - 2)]] + [[C/(x - 1)]]\nx² - 3x + 6 = A(x - 2)(x - 1) + Bx(x - 1) + Cx(x - 2)\nx = 0\n6 = A(-2)(-1) = 2A\nA = 3\nx = 2\n4 - 6 + 6 = 4 = B(2)(1) = 2B\nB = 2\nx = 1\n1 - 3 + 6 = 4 = C(1)(-1) = -C\nC = -4\n[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[3/x]] + [[2/(x - 2)]] - [[4/(x - 1)]]"
+                "a": "[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[A/x]] + [[B/(x - 2)]] + [[C/(x - 1)]]\nx² - 3x + 6 = A(x - 2)(x - 1) + Bx(x - 1) + Cx(x - 2)\nx = 0\n6 = A(-2)(-1)\n6 = 2A\nA = 3\nx = 2\n4 - 6 + 6 = 4\n4 - 6 + 6 = B(2)(1)\n4 - 6 + 6 = 2B\nB = 2\nx = 1\n1 - 3 + 6 = 4\n1 - 3 + 6 = C(1)(-1)\n1 - 3 + 6 = -C\nC = -4\n[[(x² - 3x + 6)/(x(x - 2)(x - 1))]] = [[3/x]] + [[2/(x - 2)]] - [[4/(x - 1)]]"
               },
               {
                 "q": "4. [[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]]",
-                "a": "[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[A/(x + 4)]] + [[B/(x + 1)]] + [[C/(2x - 1)]]\n6x² - 24x - 3 = A(x + 1)(2x - 1) + B(x + 4)(2x - 1) + C(x + 4)(x + 1)\nx = -4\n96 + 96 - 3 = 189 = A(-3)(-9) = 27A\nA = 7\nx = -1\n6 + 24 - 3 = 27 = B(3)(-3) = -9B\nB = -3\nx = [[1/2]]\n[[3/2]] - 12 - 3 = [[-27/2]] = C([[9/2]])([[3/2]]) = [[27C/4]]\nC = -2\n[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[7/(x + 4)]] - [[3/(x + 1)]] - [[2/(2x - 1)]]"
+                "a": "[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[A/(x + 4)]] + [[B/(x + 1)]] + [[C/(2x - 1)]]\n6x² - 24x - 3 = A(x + 1)(2x - 1) + B(x + 4)(2x - 1) + C(x + 4)(x + 1)\nx = -4\n96 + 96 - 3 = 189\n96 + 96 - 3 = A(-3)(-9)\n96 + 96 - 3 = 27A\nA = 7\nx = -1\n6 + 24 - 3 = 27\n6 + 24 - 3 = B(3)(-3)\n6 + 24 - 3 = -9B\nB = -3\nx = [[1/2]]\n[[3/2]] - 12 - 3 = [[-27/2]]\n[[3/2]] - 12 - 3 = C([[9/2]])([[3/2]])\n[[3/2]] - 12 - 3 = [[27C/4]]\nC = -2\n[[3(2x² - 8x - 1)/((x + 4)(x + 1)(2x - 1))]] = [[7/(x + 4)]] - [[3/(x + 1)]] - [[2/(2x - 1)]]"
               },
               {
                 "q": "5. [[(x² + 9x + 8)/(x² + x - 6)]]",
@@ -19950,7 +19950,7 @@ var STUDY = {
               },
               {
                 "q": "4. [[(18 + 21x - x²)/((x - 5)(x + 2)²)]]",
-                "a": "[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[A/(x - 5)]] + [[B/(x + 2)]] + [[C/(x + 2)²]]\n18 + 21x - x² = A(x + 2)² + B(x - 5)(x + 2) + C(x - 5)\n18 + 21x - x² = (A + B)x² + (4A - 3B + C)x + (4A - 10B - 5C)\nx = 5\n18 + 105 - 25 = 98 = A(7)² = 49A\nA = 2\nx = -2\n18 - 42 - 4 = -28 = C(-7)\nC = 4\n-1 = A + B\nB = -1 - 2 = -3\n[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[2/(x - 5)]] - [[3/(x + 2)]] + [[4/(x + 2)²]]"
+                "a": "[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[A/(x - 5)]] + [[B/(x + 2)]] + [[C/(x + 2)²]]\n18 + 21x - x² = A(x + 2)² + B(x - 5)(x + 2) + C(x - 5)\n18 + 21x - x² = (A + B)x² + (4A - 3B + C)x + (4A - 10B - 5C)\nx = 5\n18 + 105 - 25 = 98\n18 + 105 - 25 = A(7)²\n18 + 105 - 25 = 49A\nA = 2\nx = -2\n18 - 42 - 4 = -28\n18 - 42 - 4 = C(-7)\nC = 4\n-1 = A + B\nB = -1 - 2\nB = -3\n[[(18 + 21x - x²)/((x - 5)(x + 2)²)]] = [[2/(x - 5)]] - [[3/(x + 2)]] + [[4/(x + 2)²]]"
               },
               {
                 "q": "5. [[(x² - x + 3)/(x - 1)³]]",
@@ -19963,23 +19963,23 @@ var STUDY = {
             "items": [
               {
                 "q": "هيٺين کي جزوي ڀاڱن ۾ ورهايو.\n1. [[(x² - x - 13)/((x² + 7)(x - 2))]]",
-                "a": "[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 7)]]\nx² - x - 13 = A(x² + 7) + (Bx + C)(x - 2)\nx = 2\n4 - 2 - 13 = -11 = A(11)\nA = -1\n(Bx + C)(x - 2) = Bx² + (C - 2B)x - 2C\n1 = A + B\nB = 2\n-13 = 7A - 2C\n-13 = -7 - 2C\nC = 3\n[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[-1/(x - 2)]] + [[(2x + 3)/(x² + 7)]]"
+                "a": "[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 7)]]\nx² - x - 13 = A(x² + 7) + (Bx + C)(x - 2)\nx = 2\n4 - 2 - 13 = -11\n4 - 2 - 13 = A(11)\nA = -1\n(Bx + C)(x - 2) = Bx² + (C - 2B)x - 2C\n1 = A + B\nB = 2\n-13 = 7A - 2C\n-13 = -7 - 2C\nC = 3\n[[(x² - x - 13)/((x² + 7)(x - 2))]] = [[-1/(x - 2)]] + [[(2x + 3)/(x² + 7)]]"
               },
               {
                 "q": "2. [[(6x - 5)/((x² + 10)(x + 1))]]",
-                "a": "[[(6x - 5)/((x² + 10)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 10)]]\n6x - 5 = A(x² + 10) + (Bx + C)(x + 1)\n6x - 5 = (A + B)x² + (B + C)x + (10A + C)\nx = -1\n-6 - 5 = -11 = A(11)\nA = -1\n0 = A + B\nB = 1\n-5 = 10A + C\n-5 = -10 + C\nC = 5\n[[(6x - 5)/((x² + 10)(x + 1))]] = [[-1/(x + 1)]] + [[(x + 5)/(x² + 10)]]"
+                "a": "[[(6x - 5)/((x² + 10)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 10)]]\n6x - 5 = A(x² + 10) + (Bx + C)(x + 1)\n6x - 5 = (A + B)x² + (B + C)x + (10A + C)\nx = -1\n-6 - 5 = -11\n-6 - 5 = A(11)\nA = -1\n0 = A + B\nB = 1\n-5 = 10A + C\n-5 = -10 + C\nC = 5\n[[(6x - 5)/((x² + 10)(x + 1))]] = [[-1/(x + 1)]] + [[(x + 5)/(x² + 10)]]"
               },
               {
                 "q": "3. [[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]]",
-                "a": "[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[A/x]] + [[B/x²]] + [[(Cx + D)/(x² + 5)]]\n15 + 5x + 5x² - 4x³ = Ax(x² + 5) + B(x² + 5) + (Cx + D)x²\n15 + 5x + 5x² - 4x³ = (A + C)x³ + (B + D)x² + 5Ax + 5B\n5B = 15\nB = 3\n5A = 5\nA = 1\nB + D = 5\nD = 2\nA + C = -4\nC = -5\n[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[1/x]] + [[3/x²]] + [[(-5x + 2)/(x² + 5)]] = [[1/x]] + [[3/x²]] - [[(5x - 2)/(x² + 5)]]"
+                "a": "[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[A/x]] + [[B/x²]] + [[(Cx + D)/(x² + 5)]]\n15 + 5x + 5x² - 4x³ = Ax(x² + 5) + B(x² + 5) + (Cx + D)x²\n15 + 5x + 5x² - 4x³ = (A + C)x³ + (B + D)x² + 5Ax + 5B\n5B = 15\nB = 3\n5A = 5\nA = 1\nB + D = 5\nD = 2\nA + C = -4\nC = -5\n[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[1/x]] + [[3/x²]] + [[(-5x + 2)/(x² + 5)]]\n[[(15 + 5x + 5x² - 4x³)/(x²(x² + 5))]] = [[1/x]] + [[3/x²]] - [[(5x - 2)/(x² + 5)]]"
               },
               {
                 "q": "4. [[(3x² - x + 1)/((x + 1)(x² - x + 3))]]",
-                "a": "[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² - x + 3)]]\n3x² - x + 1 = A(x² - x + 3) + (Bx + C)(x + 1)\n3x² - x + 1 = (A + B)x² + (-A + B + C)x + (3A + C)\nx = -1\n3 + 1 + 1 = 5 = A(5)\nA = 1\n3 = A + B\nB = 2\n1 = 3A + C\nC = 1 - 3 = -2\n[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[1/(x + 1)]] + [[(2x - 2)/(x² - x + 3)]]"
+                "a": "[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² - x + 3)]]\n3x² - x + 1 = A(x² - x + 3) + (Bx + C)(x + 1)\n3x² - x + 1 = (A + B)x² + (-A + B + C)x + (3A + C)\nx = -1\n3 + 1 + 1 = 5\n3 + 1 + 1 = A(5)\nA = 1\n3 = A + B\nB = 2\n1 = 3A + C\nC = 1 - 3\nC = -2\n[[(3x² - x + 1)/((x + 1)(x² - x + 3))]] = [[1/(x + 1)]] + [[(2x - 2)/(x² - x + 3)]]"
               },
               {
                 "q": "5. [[(x² - x + 2)/((x + 1)(x² + 3))]]",
-                "a": "[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 3)]]\nx² - x + 2 = A(x² + 3) + (Bx + C)(x + 1)\nx² - x + 2 = (A + B)x² + (B + C)x + (3A + C)\nx = -1\n1 + 1 + 2 = 4 = A(4)\nA = 1\n1 = A + B\nB = 0\n2 = 3A + C\nC = 2 - 3 = -1\n[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[1/(x + 1)]] - [[1/(x² + 3)]]"
+                "a": "[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 3)]]\nx² - x + 2 = A(x² + 3) + (Bx + C)(x + 1)\nx² - x + 2 = (A + B)x² + (B + C)x + (3A + C)\nx = -1\n1 + 1 + 2 = 4\n1 + 1 + 2 = A(4)\nA = 1\n1 = A + B\nB = 0\n2 = 3A + C\nC = 2 - 3\nC = -1\n[[(x² - x + 2)/((x + 1)(x² + 3))]] = [[1/(x + 1)]] - [[1/(x² + 3)]]"
               }
             ]
           },
@@ -19988,7 +19988,7 @@ var STUDY = {
             "items": [
               {
                 "q": "هيٺين کي جزوي ڀاڱن ۾ ورهايو.\n1. [[x²/((x² + 1)²(1 - x))]]",
-                "a": "[[x²/((x² + 1)²(1 - x))]] = [[A/(1 - x)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx² = A(x² + 1)² + (Bx + C)(x² + 1)(1 - x) + (Dx + E)(1 - x)\nx² = (A - B)x⁴ + (B - C)x³ + (2A - B + C - D)x² + (B - C + D - E)x + (A + C + E)\nx = 1\n1 = A(2)² = 4A\nA = [[1/4]]\n0 = A - B\nB = [[1/4]]\n0 = B - C\nC = [[1/4]]\n1 = 2A + C - B - D\n1 = [[1/2]] - D\nD = [[-1/2]]\n0 = B - C + D - E\n0 = [[-1/2]] - E\nE = [[-1/2]]\n[[x²/((x² + 1)²(1 - x))]] = [[1/(4(1 - x))]] + [[(x + 1)/(4(x² + 1))]] - [[(x + 1)/(2(x² + 1)²)]]"
+                "a": "[[x²/((x² + 1)²(1 - x))]] = [[A/(1 - x)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx² = A(x² + 1)² + (Bx + C)(x² + 1)(1 - x) + (Dx + E)(1 - x)\nx² = (A - B)x⁴ + (B - C)x³ + (2A - B + C - D)x² + (B - C + D - E)x + (A + C + E)\nx = 1\n1 = A(2)²\n1 = 4A\nA = [[1/4]]\n0 = A - B\nB = [[1/4]]\n0 = B - C\nC = [[1/4]]\n1 = 2A + C - B - D\n1 = [[1/2]] - D\nD = [[-1/2]]\n0 = B - C + D - E\n0 = [[-1/2]] - E\nE = [[-1/2]]\n[[x²/((x² + 1)²(1 - x))]] = [[1/(4(1 - x))]] + [[(x + 1)/(4(x² + 1))]] - [[(x + 1)/(2(x² + 1)²)]]"
               },
               {
                 "q": "2. [[(x² + x + 2)/(x²(x² + 3)²)]]",
@@ -19996,15 +19996,15 @@ var STUDY = {
               },
               {
                 "q": "3. [[x²/((1 + x)(1 + x²)²)]]",
-                "a": "[[x²/((1 + x)(1 + x²)²)]] = [[A/(1 + x)]] + [[(Bx + C)/(1 + x²)]] + [[(Dx + E)/(1 + x²)²]]\nx² = A(1 + x²)² + (Bx + C)(1 + x²)(1 + x) + (Dx + E)(1 + x)\nx² = (A + B)x⁴ + (B + C)x³ + (2A + B + C + D)x² + (B + C + D + E)x + (A + C + E)\nx = -1\n1 = A(2)² = 4A\nA = [[1/4]]\n0 = A + B\nB = [[-1/4]]\n0 = B + C\nC = [[1/4]]\n1 = 2A + B + C + D\n1 = [[1/2]] + D\nD = [[1/2]]\n0 = B + C + D + E\n0 = [[1/2]] + E\nE = [[-1/2]]\n[[x²/((1 + x)(1 + x²)²)]] = [[1/(4(1 + x))]] + [[(1 - x)/(4(1 + x²))]] + [[(x - 1)/(2(1 + x²)²)]]"
+                "a": "[[x²/((1 + x)(1 + x²)²)]] = [[A/(1 + x)]] + [[(Bx + C)/(1 + x²)]] + [[(Dx + E)/(1 + x²)²]]\nx² = A(1 + x²)² + (Bx + C)(1 + x²)(1 + x) + (Dx + E)(1 + x)\nx² = (A + B)x⁴ + (B + C)x³ + (2A + B + C + D)x² + (B + C + D + E)x + (A + C + E)\nx = -1\n1 = A(2)²\n1 = 4A\nA = [[1/4]]\n0 = A + B\nB = [[-1/4]]\n0 = B + C\nC = [[1/4]]\n1 = 2A + B + C + D\n1 = [[1/2]] + D\nD = [[1/2]]\n0 = B + C + D + E\n0 = [[1/2]] + E\nE = [[-1/2]]\n[[x²/((1 + x)(1 + x²)²)]] = [[1/(4(1 + x))]] + [[(1 - x)/(4(1 + x²))]] + [[(x - 1)/(2(1 + x²)²)]]"
               },
               {
                 "q": "4. [[7/((x + 1)(2 + x²)²)]]",
-                "a": "[[7/((x + 1)(2 + x²)²)]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 2)]] + [[(Dx + E)/(x² + 2)²]]\n7 = A(x² + 2)² + (Bx + C)(x² + 2)(x + 1) + (Dx + E)(x + 1)\n7 = (A + B)x⁴ + (B + C)x³ + (4A + 2B + C + D)x² + (2B + 2C + D + E)x + (4A + 2C + E)\nx = -1\n7 = A(3)² = 9A\nA = [[7/9]]\n0 = A + B\nB = [[-7/9]]\n0 = B + C\nC = [[7/9]]\n0 = 4A + C + 2B + D\n0 = [[28/9]] + [[7/9]] - [[14/9]] + D\nD = [[-7/3]]\n0 = 2(B + C) + D + E\n0 = [[-7/3]] + E\nE = [[7/3]]\n[[7/((x + 1)(2 + x²)²)]] = [[7/(9(x + 1))]] + [[7(1 - x)/(9(x² + 2))]] + [[7(1 - x)/(3(x² + 2)²)]]"
+                "a": "[[7/((x + 1)(2 + x²)²)]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + 2)]] + [[(Dx + E)/(x² + 2)²]]\n7 = A(x² + 2)² + (Bx + C)(x² + 2)(x + 1) + (Dx + E)(x + 1)\n7 = (A + B)x⁴ + (B + C)x³ + (4A + 2B + C + D)x² + (2B + 2C + D + E)x + (4A + 2C + E)\nx = -1\n7 = A(3)²\n7 = 9A\nA = [[7/9]]\n0 = A + B\nB = [[-7/9]]\n0 = B + C\nC = [[7/9]]\n0 = 4A + C + 2B + D\n0 = [[28/9]] + [[7/9]] - [[14/9]] + D\nD = [[-7/3]]\n0 = 2(B + C) + D + E\n0 = [[-7/3]] + E\nE = [[7/3]]\n[[7/((x + 1)(2 + x²)²)]] = [[7/(9(x + 1))]] + [[7(1 - x)/(9(x² + 2))]] + [[7(1 - x)/(3(x² + 2)²)]]"
               },
               {
                 "q": "5. [[49/((x - 2)(3 + x²)²)]]",
-                "a": "[[49/((x - 2)(3 + x²)²)]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 3)]] + [[(Dx + E)/(x² + 3)²]]\n49 = A(x² + 3)² + (Bx + C)(x² + 3)(x - 2) + (Dx + E)(x - 2)\n49 = (A + B)x⁴ + (C - 2B)x³ + (6A + 3B - 2C + D)x² + (3C - 6B - 2D + E)x + (9A - 6C - 2E)\nx = 2\n49 = A(7)² = 49A\nA = 1\n0 = A + B\nB = -1\n0 = C - 2B\nC = -2\n0 = 6A + 3B - 2C + D\n0 = 6 - 3 + 4 + D\nD = -7\n0 = 3(C - 2B) - 2D + E\n0 = 14 + E\nE = -14\n[[49/((x - 2)(3 + x²)²)]] = [[1/(x - 2)]] - [[(x + 2)/(x² + 3)]] - [[(7x + 14)/(x² + 3)²]] = [[1/(x - 2)]] - [[(x + 2)/(3 + x²)]] - [[7(x + 2)/(3 + x²)²]]"
+                "a": "[[49/((x - 2)(3 + x²)²)]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 3)]] + [[(Dx + E)/(x² + 3)²]]\n49 = A(x² + 3)² + (Bx + C)(x² + 3)(x - 2) + (Dx + E)(x - 2)\n49 = (A + B)x⁴ + (C - 2B)x³ + (6A + 3B - 2C + D)x² + (3C - 6B - 2D + E)x + (9A - 6C - 2E)\nx = 2\n49 = A(7)²\n49 = 49A\nA = 1\n0 = A + B\nB = -1\n0 = C - 2B\nC = -2\n0 = 6A + 3B - 2C + D\n0 = 6 - 3 + 4 + D\nD = -7\n0 = 3(C - 2B) - 2D + E\n0 = 14 + E\nE = -14\n[[49/((x - 2)(3 + x²)²)]] = [[1/(x - 2)]] - [[(x + 2)/(x² + 3)]] - [[(7x + 14)/(x² + 3)²]]\n[[49/((x - 2)(3 + x²)²)]] = [[1/(x - 2)]] - [[(x + 2)/(3 + x²)]] - [[7(x + 2)/(3 + x²)²]]"
               }
             ]
           },
@@ -20021,7 +20021,7 @@ var STUDY = {
               },
               {
                 "q": "هيٺين کي جزوي ڀاڱن ۾ ورهايو.\n(i) [[(5x + 8)/((x - 1)(x + 2))]]\n(ii) [[(9x² + 5x + 7)/(x(x + 2)(x - 5))]]\n(iii) [[(x² + 2x + 3)/((x² + 1)(x - 2))]]\n(iv) [[(x³ + 8x² + 9)/((x² + x + 1)(x + 1))]]\n(v) [[(x + 5)/((x² + 1)²(x - 3))]]\n(vi) [[(7x + 3)/((x - 1)²(x + 2))]]",
-                "a": "(i) [[(5x + 8)/((x - 1)(x + 2))]] = [[A/(x - 1)]] + [[B/(x + 2)]]\n5x + 8 = A(x + 2) + B(x - 1)\nx = 1\n13 = 3A\nA = [[13/3]]\nx = -2\n-2 = -3B\nB = [[2/3]]\n[[(5x + 8)/((x - 1)(x + 2))]] = [[13/(3(x - 1))]] + [[2/(3(x + 2))]]\n(ii) [[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[A/x]] + [[B/(x + 2)]] + [[C/(x - 5)]]\n9x² + 5x + 7 = A(x + 2)(x - 5) + Bx(x - 5) + Cx(x + 2)\nx = 0\n7 = -10A\nA = [[-7/10]]\nx = -2\n36 - 10 + 7 = 33 = 14B\nB = [[33/14]]\nx = 5\n225 + 25 + 7 = 257 = 35C\nC = [[257/35]]\n[[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[-7/(10x)]] + [[33/(14(x + 2))]] + [[257/(35(x - 5))]]\n(iii) [[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 1)]]\nx² + 2x + 3 = A(x² + 1) + (Bx + C)(x - 2)\nx = 2\n4 + 4 + 3 = 11 = 5A\nA = [[11/5]]\n1 = A + B\nB = [[-6/5]]\n3 = A - 2C\n2C = [[11/5]] - 3 = [[-4/5]]\nC = [[-2/5]]\n[[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[11/(5(x - 2))]] - [[(6x + 2)/(5(x² + 1))]]\n(iv) Improper fraction\n(x³ + 8x² + 9) ÷ ((x² + x + 1)(x + 1)) = (x³ + 8x² + 9) ÷ (x³ + 2x² + 2x + 1) = 1\nRemainder = 6x² - 2x + 8\n1 + [[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]]\n[[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + x + 1)]]\n6x² - 2x + 8 = A(x² + x + 1) + (Bx + C)(x + 1)\nx = -1\n6 + 2 + 8 = 16 = A\n6 = A + B\nB = -10\n8 = A + C\nC = -8\n[[(x³ + 8x² + 9)/((x² + x + 1)(x + 1))]] = 1 + [[16/(x + 1)]] - [[(10x + 8)/(x² + x + 1)]]\n(v) [[(x + 5)/((x² + 1)²(x - 3))]] = [[A/(x - 3)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx + 5 = A(x² + 1)² + (Bx + C)(x² + 1)(x - 3) + (Dx + E)(x - 3)\nx + 5 = (A + B)x⁴ + (C - 3B)x³ + (2A + B - 3C + D)x² + (C - 3B - 3D + E)x + (A - 3C - 3E)\nx = 3\n8 = A(10)² = 100A\nA = [[2/25]]\n0 = A + B\nB = [[-2/25]]\n0 = C - 3B\nC = [[-6/25]]\n0 = 2A + B - 3C + D\n0 = [[4/25]] - [[2/25]] + [[18/25]] + D\nD = [[-4/5]]\n1 = (C - 3B) - 3D + E\n1 = [[12/5]] + E\nE = [[-7/5]]\n[[(x + 5)/((x² + 1)²(x - 3))]] = [[2/(25(x - 3))]] - [[(2x + 6)/(25(x² + 1))]] - [[(4x + 7)/(5(x² + 1)²)]]\n(vi) [[(7x + 3)/((x - 1)²(x + 2))]] = [[A/(x - 1)]] + [[B/(x - 1)²]] + [[C/(x + 2)]]\n7x + 3 = A(x - 1)(x + 2) + B(x + 2) + C(x - 1)²\nx = 1\n10 = 3B\nB = [[10/3]]\nx = -2\n-11 = 9C\nC = [[-11/9]]\n0 = A + C\nA = [[11/9]]\n[[(7x + 3)/((x - 1)²(x + 2))]] = [[11/(9(x - 1))]] + [[10/(3(x - 1)²)]] - [[11/(9(x + 2))]]"
+                "a": "(i) [[(5x + 8)/((x - 1)(x + 2))]] = [[A/(x - 1)]] + [[B/(x + 2)]]\n5x + 8 = A(x + 2) + B(x - 1)\nx = 1\n13 = 3A\nA = [[13/3]]\nx = -2\n-2 = -3B\nB = [[2/3]]\n[[(5x + 8)/((x - 1)(x + 2))]] = [[13/(3(x - 1))]] + [[2/(3(x + 2))]]\n(ii) [[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[A/x]] + [[B/(x + 2)]] + [[C/(x - 5)]]\n9x² + 5x + 7 = A(x + 2)(x - 5) + Bx(x - 5) + Cx(x + 2)\nx = 0\n7 = -10A\nA = [[-7/10]]\nx = -2\n36 - 10 + 7 = 33\n36 - 10 + 7 = 14B\nB = [[33/14]]\nx = 5\n225 + 25 + 7 = 257\n225 + 25 + 7 = 35C\nC = [[257/35]]\n[[(9x² + 5x + 7)/(x(x + 2)(x - 5))]] = [[-7/(10x)]] + [[33/(14(x + 2))]] + [[257/(35(x - 5))]]\n(iii) [[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[A/(x - 2)]] + [[(Bx + C)/(x² + 1)]]\nx² + 2x + 3 = A(x² + 1) + (Bx + C)(x - 2)\nx = 2\n4 + 4 + 3 = 11\n4 + 4 + 3 = 5A\nA = [[11/5]]\n1 = A + B\nB = [[-6/5]]\n3 = A - 2C\n2C = [[11/5]] - 3\n2C = [[-4/5]]\nC = [[-2/5]]\n[[(x² + 2x + 3)/((x² + 1)(x - 2))]] = [[11/(5(x - 2))]] - [[(6x + 2)/(5(x² + 1))]]\n(iv) Improper fraction\n(x³ + 8x² + 9) ÷ ((x² + x + 1)(x + 1)) = (x³ + 8x² + 9) ÷ (x³ + 2x² + 2x + 1)\n(x³ + 8x² + 9) ÷ ((x² + x + 1)(x + 1)) = 1\nRemainder = 6x² - 2x + 8\n1 + [[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]]\n[[(6x² - 2x + 8)/((x² + x + 1)(x + 1))]] = [[A/(x + 1)]] + [[(Bx + C)/(x² + x + 1)]]\n6x² - 2x + 8 = A(x² + x + 1) + (Bx + C)(x + 1)\nx = -1\n6 + 2 + 8 = 16\n6 + 2 + 8 = A\n6 = A + B\nB = -10\n8 = A + C\nC = -8\n[[(x³ + 8x² + 9)/((x² + x + 1)(x + 1))]] = 1 + [[16/(x + 1)]] - [[(10x + 8)/(x² + x + 1)]]\n(v) [[(x + 5)/((x² + 1)²(x - 3))]] = [[A/(x - 3)]] + [[(Bx + C)/(x² + 1)]] + [[(Dx + E)/(x² + 1)²]]\nx + 5 = A(x² + 1)² + (Bx + C)(x² + 1)(x - 3) + (Dx + E)(x - 3)\nx + 5 = (A + B)x⁴ + (C - 3B)x³ + (2A + B - 3C + D)x² + (C - 3B - 3D + E)x + (A - 3C - 3E)\nx = 3\n8 = A(10)²\n8 = 100A\nA = [[2/25]]\n0 = A + B\nB = [[-2/25]]\n0 = C - 3B\nC = [[-6/25]]\n0 = 2A + B - 3C + D\n0 = [[4/25]] - [[2/25]] + [[18/25]] + D\nD = [[-4/5]]\n1 = (C - 3B) - 3D + E\n1 = [[12/5]] + E\nE = [[-7/5]]\n[[(x + 5)/((x² + 1)²(x - 3))]] = [[2/(25(x - 3))]] - [[(2x + 6)/(25(x² + 1))]] - [[(4x + 7)/(5(x² + 1)²)]]\n(vi) [[(7x + 3)/((x - 1)²(x + 2))]] = [[A/(x - 1)]] + [[B/(x - 1)²]] + [[C/(x + 2)]]\n7x + 3 = A(x - 1)(x + 2) + B(x + 2) + C(x - 1)²\nx = 1\n10 = 3B\nB = [[10/3]]\nx = -2\n-11 = 9C\nC = [[-11/9]]\n0 = A + C\nA = [[11/9]]\n[[(7x + 3)/((x - 1)²(x + 2))]] = [[11/(9(x - 1))]] + [[10/(3(x - 1)²)]] - [[11/(9(x + 2))]]"
               }
             ]
           }
@@ -21278,7 +21278,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ دڪان ۾ 50% رعايت تي وڪيل جون جوتين جي ماپون ڏنل آهن. A.M.، G.M.، H.M.، مديان، Q1، Q3 ۽ ڪثرتي جوتي جي ماپ لھو جيڪا ان ڏينهن وڪيل ويا.\nجوتي جي ماپ | 5 | 5.5 | 6 | 6.5 | 7 | 7.5 | 8 | 8.5 | 9 | 9.5\nجوڙين جو تعداد | 2 | 5 | 15 | 30 | 60 | 40 | 23 | 11 | 4 | 1",
-                "a": "n = 191\nΣxf = 5 x 2 + 5.5 x 5 + 6 x 15 + 6.5 x 30 + 7 x 60 + 7.5 x 40 + 8 x 23 + 8.5 x 11 + 9 x 4 + 9.5 x 1\n= 10 + 27.5 + 90 + 195 + 420 + 300 + 184 + 93.5 + 36 + 9.5\n= 1365.5\nA.M. = [[1365.5/191]]\n= 7.149\nΣf log x = 162.66\nG.M. = antilog [[(Σf log x)/Σf]]\n= antilog [[162.66/191]]\n= antilog(0.8516)\n= 7.106\nH.M. = [[Σf/Σ(f ÷ x)]]\n[[2/5]] + [[5/5.5]] + [[15/6]] + [[30/6.5]] + [[60/7]] + [[40/7.5]] + [[23/8]] + [[11/8.5]] + [[4/9]] + [[1/9.5]] = 27.047\nH.M. = [[191/27.047]]\n= 7.061\nx | cf\n5 | 2\n5.5 | 7\n6 | 22\n6.5 | 52\n7 | 112\n7.5 | 152\n8 | 175\n8.5 | 186\n9 | 190\n9.5 | 191\n[[(191 + 1)/2]] = 96th\nMedian = 7\n[[n/4]] = [[191/4]] = 47.75\n[[(n + 3)/4]] = 48.5th\nQ1 = 6.5\n[[3n/4]] = [[573/4]] = 143.25\n[[(3n + 1)/4]] = 143.5th\nQ3 = 7.5\nMode = 7"
+                "a": "n = 191\nΣxf = 5 x 2 + 5.5 x 5 + 6 x 15 + 6.5 x 30 + 7 x 60 + 7.5 x 40 + 8 x 23 + 8.5 x 11 + 9 x 4 + 9.5 x 1\n= 10 + 27.5 + 90 + 195 + 420 + 300 + 184 + 93.5 + 36 + 9.5\n= 1365.5\nA.M. = [[1365.5/191]]\n= 7.149\nΣf log x = 162.66\nG.M. = antilog [[(Σf log x)/Σf]]\n= antilog [[162.66/191]]\n= antilog(0.8516)\n= 7.106\nH.M. = [[Σf/Σ(f ÷ x)]]\n[[2/5]] + [[5/5.5]] + [[15/6]] + [[30/6.5]] + [[60/7]] + [[40/7.5]] + [[23/8]] + [[11/8.5]] + [[4/9]] + [[1/9.5]] = 27.047\nH.M. = [[191/27.047]]\n= 7.061\nx | cf\n5 | 2\n5.5 | 7\n6 | 22\n6.5 | 52\n7 | 112\n7.5 | 152\n8 | 175\n8.5 | 186\n9 | 190\n9.5 | 191\n[[(191 + 1)/2]] = 96th\nMedian = 7\n[[n/4]] = [[191/4]]\n[[n/4]] = 47.75\n[[(n + 3)/4]] = 48.5th\nQ1 = 6.5\n[[3n/4]] = [[573/4]]\n[[3n/4]] = 143.25\n[[(3n + 1)/4]] = 143.5th\nQ3 = 7.5\nMode = 7"
               },
               {
                 "q": "هڪ فيڪٽري جي هزار ملازمن جي روز جي مزدوري (سون ۾) ڏنل آهي. A.M.، G.M.، H.M.، مديان، چوٿائي ۽ ڪثرتي مزدوري لھو.\nروز جي مزدوري (سون ۾) | 22 | 24 | 26 | 28 | 30 | 32 | 34 | 36 | 38 | 40 | 42 | 44\nملازمن جو تعداد | 3 | 13 | 43 | 102 | 175 | 220 | 204 | 139 | 69 | 25 | 6 | 1",
@@ -21303,7 +21303,7 @@ var STUDY = {
             "items": [
               {
                 "q": "جيڪڏهن W = {148, 145, 160, 157, 156, 160, 160, 165}، X = {-2, -2, -2, -2} ته پوءِ\n(a) ثابت ڪري ڏيکاريو ته W جي A.M. کان سيني انحرافن جي جوڙ اپٽ ٻُڙي آهي.\n(b) ثابت ڪري ڏيکاريو ته X جي ڪثرتي سرسري = مديان = A.M. = G.M. = H.M. آهي.\n(c) Y = 3X جو A.M. لھو.\n(d) Z = 3W - 11 جو A.M. لھو.\n(e) ثابت ڪري ڏيکاريو ته W جي H.M. < G.M. < A.M. < مديان < ڪثرتي سرسري آهي.",
-                "a": "W: 148, 145, 160, 157, 156, 160, 160, 165\nn = 8\nx̄ = [[Σx/n]]\n= [[(148 + 145 + 160 + 157 + 156 + 160 + 160 + 165)/8]]\n= [[1251/8]]\n= 156.375\n(a) 148 - 156.375 = -8.375\n145 - 156.375 = -11.375\n160 - 156.375 = 3.625\n157 - 156.375 = 0.625\n156 - 156.375 = -0.375\n160 - 156.375 = 3.625\n160 - 156.375 = 3.625\n165 - 156.375 = 8.625\nΣ(x - x̄) = -8.375 - 11.375 + 3.625 + 0.625 - 0.375 + 3.625 + 3.625 + 8.625\n= 0\n(b) X: -2, -2, -2, -2\nA.M. = [[(-2 - 2 - 2 - 2)/4]]\n= -2\nMedian = -2\nMode = -2\n[[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] = -2\nH.M. = [[4/(-2)]]\n= -2\nG.M. = Not possible\nA.M. = H.M. = Median = Mode = -2\n(c) Y = 3X = -6, -6, -6, -6\nA.M. of Y = 3 x (A.M. of X)\n= 3 x (-2)\n= -6\n(d) A.M. of Z = 3 x (A.M. of W) - 11\n= 3 x 156.375 - 11\n= 469.125 - 11\n= 458.125\n(e) 145, 148, 156, 157, 160, 160, 160, 165\nH.M. = [[8/Σ(1 ÷ x)]]\n[[1/148]] + [[1/145]] + [[1/160]] + [[1/157]] + [[1/156]] + [[1/160]] + [[1/160]] + [[1/165]] = 0.05122\nH.M. = [[8/0.05122]]\n= 156.117\nG.M. = (148 x 145 x 160 x 157 x 156 x 160 x 160 x 165)^[[1/8]]\n= 156.247\nA.M. = 156.375\nMedian = [[1/2]] (157 + 160)\n= 158.5\nMode = 160\n156.117 < 156.247 < 156.375 < 158.5 < 160\nH.M. < G.M. < A.M. < Median < Mode"
+                "a": "W: 148, 145, 160, 157, 156, 160, 160, 165\nn = 8\nx̄ = [[Σx/n]]\n= [[(148 + 145 + 160 + 157 + 156 + 160 + 160 + 165)/8]]\n= [[1251/8]]\n= 156.375\n(a) 148 - 156.375 = -8.375\n145 - 156.375 = -11.375\n160 - 156.375 = 3.625\n157 - 156.375 = 0.625\n156 - 156.375 = -0.375\n160 - 156.375 = 3.625\n160 - 156.375 = 3.625\n165 - 156.375 = 8.625\nΣ(x - x̄) = -8.375 - 11.375 + 3.625 + 0.625 - 0.375 + 3.625 + 3.625 + 8.625\n= 0\n(b) X: -2, -2, -2, -2\nA.M. = [[(-2 - 2 - 2 - 2)/4]]\n= -2\nMedian = -2\nMode = -2\n[[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] + [[1/(-2)]] = -2\nH.M. = [[4/(-2)]]\n= -2\nG.M. = Not possible\nA.M. = H.M. = Median = Mode = -2\n(c) Y = 3X\nY = -6, -6, -6, -6\nA.M. of Y = 3 x (A.M. of X)\n= 3 x (-2)\n= -6\n(d) A.M. of Z = 3 x (A.M. of W) - 11\n= 3 x 156.375 - 11\n= 469.125 - 11\n= 458.125\n(e) 145, 148, 156, 157, 160, 160, 160, 165\nH.M. = [[8/Σ(1 ÷ x)]]\n[[1/148]] + [[1/145]] + [[1/160]] + [[1/157]] + [[1/156]] + [[1/160]] + [[1/160]] + [[1/165]] = 0.05122\nH.M. = [[8/0.05122]]\n= 156.117\nG.M. = (148 x 145 x 160 x 157 x 156 x 160 x 160 x 165)^[[1/8]]\n= 156.247\nA.M. = 156.375\nMedian = [[1/2]] (157 + 160)\n= 158.5\nMode = 160\n156.117 < 156.247 < 156.375 < 158.5 < 160\nH.M. < G.M. < A.M. < Median < Mode"
               },
               {
                 "q": "چڪاس ڪريو ته ڇا X = {7, 9, 3, 3, 3, 4, 1, 3, 2, 2} ۽ Y = {2, 1, 4, 4, 4, 6, 6, 5, 7, 1} همشڪلي آهن؟",
@@ -21319,11 +21319,11 @@ var STUDY = {
               },
               {
                 "q": "هڪ صوبي ۾، چوٽي واري هفتي ۾ ڪووڊ-19 جي ڪري ٿيل فوتگين جي تعداد جي مواد مان 2، 3 ۽ 4 ڏينهن وارين متحرڪ سرسريون لھو.\nڏينهن | آچر | سومر | اڱارو | اربع | خميس | جمعو | ڇنڇر\nفوتگين جو تعداد | 102 | 130 | 158 | 188 | 196 | 259 | 310",
-                "a": "آچر 102، سومر 130، اڱارو 158، اربع 188، خميس 196، جمعو 259، ڇنڇر 310\n2-day:\nآچر-سومر: [[(102 + 130)/2]] = 116\nسومر-اڱارو: [[(130 + 158)/2]] = 144\nاڱارو-اربع: [[(158 + 188)/2]] = 173\nاربع-خميس: [[(188 + 196)/2]] = 192\nخميس-جمعو: [[(196 + 259)/2]] = 227.5\nجمعو-ڇنڇر: [[(259 + 310)/2]] = 284.5\n2-day centred:\nسومر: [[(116 + 144)/2]] = 130\nاڱارو: [[(144 + 173)/2]] = 158.5\nاربع: [[(173 + 192)/2]] = 182.5\nخميس: [[(192 + 227.5)/2]] = 209.75\nجمعو: [[(227.5 + 284.5)/2]] = 256\n3-day:\nاڱارو: [[(102 + 130 + 158)/3]] = [[390/3]] = 130\nاربع: [[(130 + 158 + 188)/3]] = [[476/3]] = 158.67\nخميس: [[(158 + 188 + 196)/3]] = [[542/3]] = 180.67\nجمعو: [[(188 + 196 + 259)/3]] = [[643/3]] = 214.33\nڇنڇر: [[(196 + 259 + 310)/3]] = [[765/3]] = 255\n4-day:\nآچر-اربع: [[(102 + 130 + 158 + 188)/4]] = [[578/4]] = 144.5\nسومر-خميس: [[(130 + 158 + 188 + 196)/4]] = [[672/4]] = 168\nاڱارو-جمعو: [[(158 + 188 + 196 + 259)/4]] = [[801/4]] = 200.25\nاربع-ڇنڇر: [[(188 + 196 + 259 + 310)/4]] = [[953/4]] = 238.25\n4-day centred:\nاڱارو: [[(144.5 + 168)/2]] = 156.25\nاربع: [[(168 + 200.25)/2]] = 184.125\nخميس: [[(200.25 + 238.25)/2]] = 219.25"
+                "a": "آچر 102، سومر 130، اڱارو 158، اربع 188، خميس 196، جمعو 259، ڇنڇر 310\n2-day:\nآچر-سومر: [[(102 + 130)/2]] = 116\nسومر-اڱارو: [[(130 + 158)/2]] = 144\nاڱارو-اربع: [[(158 + 188)/2]] = 173\nاربع-خميس: [[(188 + 196)/2]] = 192\nخميس-جمعو: [[(196 + 259)/2]] = 227.5\nجمعو-ڇنڇر: [[(259 + 310)/2]] = 284.5\n2-day centred:\nسومر: [[(116 + 144)/2]] = 130\nاڱارو: [[(144 + 173)/2]] = 158.5\nاربع: [[(173 + 192)/2]] = 182.5\nخميس: [[(192 + 227.5)/2]] = 209.75\nجمعو: [[(227.5 + 284.5)/2]] = 256\n3-day:\nاڱارو: [[(102 + 130 + 158)/3]] = [[390/3]]\n[[(102 + 130 + 158)/3]] = 130\nاربع: [[(130 + 158 + 188)/3]] = [[476/3]]\n[[(130 + 158 + 188)/3]] = 158.67\nخميس: [[(158 + 188 + 196)/3]] = [[542/3]]\n[[(158 + 188 + 196)/3]] = 180.67\nجمعو: [[(188 + 196 + 259)/3]] = [[643/3]]\n[[(188 + 196 + 259)/3]] = 214.33\nڇنڇر: [[(196 + 259 + 310)/3]] = [[765/3]]\n[[(196 + 259 + 310)/3]] = 255\n4-day:\nآچر-اربع: [[(102 + 130 + 158 + 188)/4]] = [[578/4]]\n[[(102 + 130 + 158 + 188)/4]] = 144.5\nسومر-خميس: [[(130 + 158 + 188 + 196)/4]] = [[672/4]]\n[[(130 + 158 + 188 + 196)/4]] = 168\nاڱارو-جمعو: [[(158 + 188 + 196 + 259)/4]] = [[801/4]]\n[[(158 + 188 + 196 + 259)/4]] = 200.25\nاربع-ڇنڇر: [[(188 + 196 + 259 + 310)/4]] = [[953/4]]\n[[(188 + 196 + 259 + 310)/4]] = 238.25\n4-day centred:\nاڱارو: [[(144.5 + 168)/2]] = 156.25\nاربع: [[(168 + 200.25)/2]] = 184.125\nخميس: [[(200.25 + 238.25)/2]] = 219.25"
               },
               {
                 "q": "11 سالن ۾ وڪري (ملين رپين ۾) جون 4 ۽ 5 سالن واريون متحرڪ سرسريون لھو.\nسال | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021\nوڪرو | 102 | 130 | 158 | 188 | 196 | 259 | 310 | 188 | 196 | 259 | 310",
-                "a": "2011: 102, 2012: 130, 2013: 158, 2014: 188, 2015: 196, 2016: 259, 2017: 310, 2018: 188, 2019: 196, 2020: 259, 2021: 310\n4-year:\n2011-2014: [[(102 + 130 + 158 + 188)/4]] = [[578/4]] = 144.5\n2012-2015: [[(130 + 158 + 188 + 196)/4]] = [[672/4]] = 168\n2013-2016: [[(158 + 188 + 196 + 259)/4]] = [[801/4]] = 200.25\n2014-2017: [[(188 + 196 + 259 + 310)/4]] = [[953/4]] = 238.25\n2015-2018: [[(196 + 259 + 310 + 188)/4]] = [[953/4]] = 238.25\n2016-2019: [[(259 + 310 + 188 + 196)/4]] = [[953/4]] = 238.25\n2017-2020: [[(310 + 188 + 196 + 259)/4]] = [[953/4]] = 238.25\n2018-2021: [[(188 + 196 + 259 + 310)/4]] = [[953/4]] = 238.25\n4-year centred:\n2013: [[(144.5 + 168)/2]] = 156.25\n2014: [[(168 + 200.25)/2]] = 184.125\n2015: [[(200.25 + 238.25)/2]] = 219.25\n2016: [[(238.25 + 238.25)/2]] = 238.25\n2017: [[(238.25 + 238.25)/2]] = 238.25\n2018: [[(238.25 + 238.25)/2]] = 238.25\n2019: [[(238.25 + 238.25)/2]] = 238.25\n5-year:\n2013: [[(102 + 130 + 158 + 188 + 196)/5]] = [[774/5]] = 154.8\n2014: [[(130 + 158 + 188 + 196 + 259)/5]] = [[931/5]] = 186.2\n2015: [[(158 + 188 + 196 + 259 + 310)/5]] = [[1111/5]] = 222.2\n2016: [[(188 + 196 + 259 + 310 + 188)/5]] = [[1141/5]] = 228.2\n2017: [[(196 + 259 + 310 + 188 + 196)/5]] = [[1149/5]] = 229.8\n2018: [[(259 + 310 + 188 + 196 + 259)/5]] = [[1212/5]] = 242.4\n2019: [[(310 + 188 + 196 + 259 + 310)/5]] = [[1263/5]] = 252.6"
+                "a": "2011: 102, 2012: 130, 2013: 158, 2014: 188, 2015: 196, 2016: 259, 2017: 310, 2018: 188, 2019: 196, 2020: 259, 2021: 310\n4-year:\n2011-2014: [[(102 + 130 + 158 + 188)/4]] = [[578/4]]\n[[(102 + 130 + 158 + 188)/4]] = 144.5\n2012-2015: [[(130 + 158 + 188 + 196)/4]] = [[672/4]]\n[[(130 + 158 + 188 + 196)/4]] = 168\n2013-2016: [[(158 + 188 + 196 + 259)/4]] = [[801/4]]\n[[(158 + 188 + 196 + 259)/4]] = 200.25\n2014-2017: [[(188 + 196 + 259 + 310)/4]] = [[953/4]]\n[[(188 + 196 + 259 + 310)/4]] = 238.25\n2015-2018: [[(196 + 259 + 310 + 188)/4]] = [[953/4]]\n[[(196 + 259 + 310 + 188)/4]] = 238.25\n2016-2019: [[(259 + 310 + 188 + 196)/4]] = [[953/4]]\n[[(259 + 310 + 188 + 196)/4]] = 238.25\n2017-2020: [[(310 + 188 + 196 + 259)/4]] = [[953/4]]\n[[(310 + 188 + 196 + 259)/4]] = 238.25\n2018-2021: [[(188 + 196 + 259 + 310)/4]] = [[953/4]]\n[[(188 + 196 + 259 + 310)/4]] = 238.25\n4-year centred:\n2013: [[(144.5 + 168)/2]] = 156.25\n2014: [[(168 + 200.25)/2]] = 184.125\n2015: [[(200.25 + 238.25)/2]] = 219.25\n2016: [[(238.25 + 238.25)/2]] = 238.25\n2017: [[(238.25 + 238.25)/2]] = 238.25\n2018: [[(238.25 + 238.25)/2]] = 238.25\n2019: [[(238.25 + 238.25)/2]] = 238.25\n5-year:\n2013: [[(102 + 130 + 158 + 188 + 196)/5]] = [[774/5]]\n[[(102 + 130 + 158 + 188 + 196)/5]] = 154.8\n2014: [[(130 + 158 + 188 + 196 + 259)/5]] = [[931/5]]\n[[(130 + 158 + 188 + 196 + 259)/5]] = 186.2\n2015: [[(158 + 188 + 196 + 259 + 310)/5]] = [[1111/5]]\n[[(158 + 188 + 196 + 259 + 310)/5]] = 222.2\n2016: [[(188 + 196 + 259 + 310 + 188)/5]] = [[1141/5]]\n[[(188 + 196 + 259 + 310 + 188)/5]] = 228.2\n2017: [[(196 + 259 + 310 + 188 + 196)/5]] = [[1149/5]]\n[[(196 + 259 + 310 + 188 + 196)/5]] = 229.8\n2018: [[(259 + 310 + 188 + 196 + 259)/5]] = [[1212/5]]\n[[(259 + 310 + 188 + 196 + 259)/5]] = 242.4\n2019: [[(310 + 188 + 196 + 259 + 310)/5]] = [[1263/5]]\n[[(310 + 188 + 196 + 259 + 310)/5]] = 252.6"
               },
               {
                 "q": "هيٺ ڏنل مواد ۾ گراف وسيلي مديان، چوٿائي ڪنڌر مشاهدا ۽ ڪثرتي سرسري جو هنڌ لھو ۽ انهن جو اندازو لڳايو.\nاضافي وقت (ڪلاڪن ۾ في هفتي) | 25-29 | 30-34 | 35-39 | 40-44 | 45-49 | 50-54 | 55-59\nڏينهن جو تعداد | 5 | 4 | 7 | 11 | 12 | 8 | 1",
@@ -22118,7 +22118,7 @@ var STUDY = {
             "items": [
               {
                 "q": "تڪنڊي جي پاسن جون ماپون هيٺ ڏنل آهن تصديق ڪريو ته تڪنڊو گوني ڪنڊ تڪنڊو آهي.\n(i) a = 16, b = 30, c = 34\n(ii) a = 6, b = 8, c = 10\n(iii) a = 15, b = 20, c = 25\n(iv) a = 13, b = √56, c = 15",
-                "a": "a² + b² = c²\n(i) a = 16, b = 30, c = 34\na² + b² = (16)² + (30)² = 256 + 900 = 1156\nc² = (34)² = 1156\na² + b² = c²\n(ii) a = 6, b = 8, c = 10\na² + b² = (6)² + (8)² = 36 + 64 = 100\nc² = (10)² = 100\na² + b² = c²\n(iii) a = 15, b = 20, c = 25\na² + b² = (15)² + (20)² = 225 + 400 = 625\nc² = (25)² = 625\na² + b² = c²\n(iv) a = 13, b = √56, c = 15\na² + b² = (13)² + (√56)² = 169 + 56 = 225\nc² = (15)² = 225\na² + b² = c²",
+                "a": "a² + b² = c²\n(i) a = 16, b = 30, c = 34\na² + b² = (16)² + (30)²\na² + b² = 256 + 900\na² + b² = 1156\nc² = (34)²\nc² = 1156\na² + b² = c²\n(ii) a = 6, b = 8, c = 10\na² + b² = (6)² + (8)²\na² + b² = 36 + 64\na² + b² = 100\nc² = (10)²\nc² = 100\na² + b² = c²\n(iii) a = 15, b = 20, c = 25\na² + b² = (15)² + (20)²\na² + b² = 225 + 400\na² + b² = 625\nc² = (25)²\nc² = 625\na² + b² = c²\n(iv) a = 13, b = √56, c = 15\na² + b² = (13)² + (√56)²\na² + b² = 169 + 56\na² + b² = 225\nc² = (15)²\nc² = 225\na² + b² = c²",
                 "dq": {
                   "type": "triangle",
                   "pts": [
@@ -22150,7 +22150,7 @@ var STUDY = {
               },
               {
                 "q": "هينئين شڪلين ۾ نامعلوم رقمون لھو.\n(i) هڪ گوني ڪنڊ تڪنڊي ۾، هڪ پاسو 7، ٻيو پاسو 24 ۽ هپوٽينوز x آهي.\n(ii) هڪ گوني ڪنڊ تڪنڊي ۾، هڪ پاسو x، ٻيو پاسو 5 ۽ هپوٽينوز 13 آهي.\n(iii) هڪ گوني ڪنڊ تڪنڊي ۾، هڪ پاسو x، ٻيو پاسو 2 ۽ هپوٽينوز 2√2 آهي.\n(iv) هڪ گوني ڪنڊ تڪنڊي ۾، هڪ پاسو 8، ٻيو پاسو x ۽ هپوٽينوز 17 آهي.",
-                "a": "(i) x² = (7)² + (24)² = 49 + 576 = 625\nx = √625 = 25\n(ii) x² = (13)² − (5)² = 169 − 25 = 144\nx = √144 = 12\n(iii) x² = (2√2)² − (2)² = 8 − 4 = 4\nx = √4 = 2\n(iv) x² = (17)² − (8)² = 289 − 64 = 225\nx = √225 = 15",
+                "a": "(i) x² = (7)² + (24)²\nx² = 49 + 576\nx² = 625\nx = √625\nx = 25\n(ii) x² = (13)² − (5)²\nx² = 169 − 25\nx² = 144\nx = √144\nx = 12\n(iii) x² = (2√2)² − (2)²\nx² = 8 − 4\nx² = 4\nx = √4\nx = 2\n(iv) x² = (17)² − (8)²\nx² = 289 − 64\nx² = 225\nx = √225\nx = 15",
                 "dq": {
                   "type": "triangle",
                   "pts": [
@@ -22182,7 +22182,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ تڪنڊي جي تن پاسن جون ماپون 9.5cm ، 7.5cm ۽ xcm آهن. x جي ڪهڙي قيمت تي اهي پاسا گوني ڪنڊ تڪنڊي کي ظاهر ڪي ڪندا.",
-                "a": "x² + (7.5)² = (9.5)²\nx² = (9.5)² − (7.5)² = 90.25 − 56.25 = 34\nx = √34 cm ≈ 5.83 cm\nx = hypotenuse\nx² = (9.5)² + (7.5)² = 146.5\nx = √146.5 ≈ 12.10 cm",
+                "a": "x² + (7.5)² = (9.5)²\nx² = (9.5)² − (7.5)²\nx² = 90.25 − 56.25\nx² = 34\nx = √34 cm ≈ 5.83 cm\nx = hypotenuse\nx² = (9.5)² + (7.5)²\nx² = 146.5\nx = √146.5 ≈ 12.10 cm",
                 "da": {
                   "type": "triangle",
                   "pts": [
@@ -22214,7 +22214,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ ABC هيور پاسو تڪنڊو آهي جنهن ۾ mAB = mAC = 12cm ۽ mBC = 10cm. A کان BC تائين عمودي فاصلو لھو.",
-                "a": "BD = DC = [[mBC/2]] = [[10/2]] = 5 cm\n(AD)² + (BD)² = (AB)²\n(AD)² = (12)² − (5)² = 144 − 25 = 119\nAD = √119 cm ≈ 10.91 cm",
+                "a": "BD = DC\nBD = [[mBC/2]]\nBD = [[10/2]]\nBD = 5 cm\n(AD)² + (BD)² = (AB)²\n(AD)² = (12)² − (5)²\n(AD)² = 144 − 25\n(AD)² = 119\nAD = √119 cm ≈ 10.91 cm",
                 "da": {
                   "els": [
                     {
@@ -22318,7 +22318,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ ڏاڪڻ جو هيٺيون حصو (پايو) پت 6 فتن جي فاصلي تي آهي جڏهن ته ڏاڪڻ جو مٿاهون حصو (چوٽي) پت تي 8 فتن جي اوچائي تي رکيل آهي ته پوءِ ڏاڪڻ جي ڊيگهه لھو.",
-                "a": "L² = (6)² + (8)² = 36 + 64 = 100\nL = √100 = 10 ft",
+                "a": "L² = (6)² + (8)²\nL² = 36 + 64\nL² = 100\nL = √100\nL = 10 ft",
                 "da": {
                   "type": "triangle",
                   "pts": [
@@ -22346,7 +22346,7 @@ var STUDY = {
               },
               {
                 "q": "پاسي واري شڪل ۾ x جو ملهه لھو.",
-                "a": "(AD)² + (DC)² = (AC)²\n(AD)² = (17)² − (15)² = 289 − 225 = 64\nAD = √64 = 8\n(AB)² = (AD)² + (BD)²\n(10)² = (8)² + x²\nx² = 100 − 64 = 36\nx = √36 = 6",
+                "a": "(AD)² + (DC)² = (AC)²\n(AD)² = (17)² − (15)²\n(AD)² = 289 − 225\n(AD)² = 64\nAD = √64\nAD = 8\n(AB)² = (AD)² + (BD)²\n(10)² = (8)² + x²\nx² = 100 − 64\nx² = 36\nx = √36\nx = 6",
                 "dq": {
                   "type": "draw",
                   "w": 300,
@@ -22450,7 +22450,7 @@ var STUDY = {
               },
               {
                 "q": "ΔABC ۾ ∠ADB هڪ گوني ڪنڊ آهي جيئن پر واري شڪل ۾ ڏيکاريل آهي. h, a ۽ b جي ڊيگهه لھو جيڪڏهن mCD = 5 ايڪا ۽ mAD = 7 ايڪا.",
-                "a": "AC = AD + DC = 7 + 5 = 12 units\nh² = AD × CD = 7 × 5 = 35\nh = √35 units\nb² = AD × AC = 7 × 12 = 84\nb = √84 = 2√21 units\na² = CD × AC = 5 × 12 = 60\na = √60 = 2√15 units",
+                "a": "AC = AD + DC\nAC = 7 + 5\nAC = 12 units\nh² = AD × CD\nh² = 7 × 5\nh² = 35\nh = √35 units\nb² = AD × AC\nb² = 7 × 12\nb² = 84\nb = √84\nb = 2√21 units\na² = CD × AC\na² = 5 × 12\na² = 60\na = √60\na = 2√15 units",
                 "dq": {
                   "type": "draw",
                   "w": 300,
@@ -22581,7 +22581,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ مستطيلي تيراکي لاءِ تلا، جا پاسا 50m ۽ 30m آهن. پڻ سامهون وارن ڪنڊن چوٽين جي وچ واري ڊيگهه چا آهي.",
-                "a": "d² = (50)² + (30)² = 2500 + 900 = 3400\nd = √3400 = √(100 × 34) = 10√34 m ≈ 58.31 m",
+                "a": "d² = (50)² + (30)²\nd² = 2500 + 900\nd² = 3400\nd = √3400\nd = √(100 × 34)\nd = 10√34 m ≈ 58.31 m",
                 "da": {
                   "type": "draw",
                   "w": 320,
@@ -22638,7 +22638,7 @@ var STUDY = {
               },
               {
                 "q": "ٽيور پاسو تڪنڊي جي هر هڪ پاسي جي ڊيگهه 8 ايڪا آهي. ڪنهن به هڪ عمود جي ڊيگهه لھو.",
-                "a": "BD = DC = [[8/2]] = 4 units\n(AD)² + (BD)² = (AB)²\n(AD)² = (8)² − (4)² = 64 − 16 = 48\nAD = √48 = √(16 × 3) = 4√3 units",
+                "a": "BD = DC\nBD = [[8/2]]\nBD = 4 units\n(AD)² + (BD)² = (AB)²\n(AD)² = (8)² − (4)²\n(AD)² = 64 − 16\n(AD)² = 48\nAD = √48\nAD = √(16 × 3)\nAD = 4√3 units",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -22760,7 +22760,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ منتظم 18m ستو اوپر ڏانهن وڃي ٿو ۽ ان کانپوءِ 24m ستو اُتر ڏانهن وڃي ٿو. شروعاتي نڪتي کان هن جي هاڻوڪي هنڌ تائين جو فاصلو لھو.",
-                "a": "d² = (18)² + (24)² = 324 + 576 = 900\nd = √900 = 30 m",
+                "a": "d² = (18)² + (24)²\nd² = 324 + 576\nd² = 900\nd = √900\nd = 30 m",
                 "da": {
                   "type": "triangle",
                   "pts": [
@@ -22788,7 +22788,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ مستطيل ABCD ۾ mBC + mCD = 17cm ۽ mBD + mAC = 26cm. مستطيل جي ڊيگهه ۽ ويڪر معلوم ڪريو.",
-                "a": "l + b = 17\nmBD = mAC\nmBD + mAC = 26\n2 × mBD = 26\nmBD = 13 cm\nl² + b² = (13)² = 169\n(l + b)² = l² + 2lb + b²\n(17)² = 169 + 2lb\n289 = 169 + 2lb\n2lb = 120\nlb = 60\nt² − (l + b)t + lb = 0\nt² − 17t + 60 = 0\n(t − 12)(t − 5) = 0\nt = 12 or t = 5\nLength = 12 cm\nBreadth = 5 cm",
+                "a": "l + b = 17\nmBD = mAC\nmBD + mAC = 26\n2 × mBD = 26\nmBD = 13 cm\nl² + b² = (13)²\nl² + b² = 169\n(l + b)² = l² + 2lb + b²\n(17)² = 169 + 2lb\n289 = 169 + 2lb\n2lb = 120\nlb = 60\nt² − (l + b)t + lb = 0\nt² − 17t + 60 = 0\n(t − 12)(t − 5) = 0\nt = 12 or t = 5\nLength = 12 cm\nBreadth = 5 cm",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -22910,7 +22910,7 @@ var STUDY = {
               },
               {
                 "q": "هڪ 25m ڊيگهي ڏاڪڻ، اڀي پت تي رکيل آهي. ڏاڪڻ جو پايو پت کان 7m جي فاصلي تي آهي. معلوم ڪريو ته ڏاڪڻ پت تي ڪيتري اوچائي تي رکيل آهي.",
-                "a": "h² + (7)² = (25)²\nh² = 625 − 49 = 576\nh = √576 = 24 m",
+                "a": "h² + (7)² = (25)²\nh² = 625 − 49\nh² = 576\nh = √576\nh = 24 m",
                 "da": {
                   "type": "triangle",
                   "pts": [
@@ -22938,7 +22938,7 @@ var STUDY = {
               },
               {
                 "q": "هينئين مان هر هڪ شڪل ۾ نامعلوم رقمون کي معلوم ڪريو.\n(i) هڪ گوني ڪنڊ تڪنڊي ABC ۾، گوني ڪنڊ A تي آهي، AB = 2، AC = 3 ۽ هپوٽينوز BC = x آهي.\n(ii) هڪ گوني ڪنڊ تڪنڊي ABC ۾، گوني ڪنڊ A تي آهي، AB = 7، AC = x ۽ هپوٽينوز BC = 10 آهي.\n(iii) هڪ گوني ڪنڊ تڪنڊي ABC ۾، گوني ڪنڊ A تي آهي، AB = x، AC = 9 ۽ هپوٽينوز BC = 12 آهي.",
-                "a": "(i) x² = (2)² + (3)² = 4 + 9 = 13\nx = √13\n(ii) x² = (10)² − (7)² = 100 − 49 = 51\nx = √51\n(iii) x² = (12)² − (9)² = 144 − 81 = 63\nx = √63",
+                "a": "(i) x² = (2)² + (3)²\nx² = 4 + 9\nx² = 13\nx = √13\n(ii) x² = (10)² − (7)²\nx² = 100 − 49\nx² = 51\nx = √51\n(iii) x² = (12)² − (9)²\nx² = 144 − 81\nx² = 63\nx = √63",
                 "dq": {
                   "type": "triangle",
                   "pts": [
@@ -23374,7 +23374,7 @@ var STUDY = {
             "items": [
               {
                 "q": "پاسي واري شڪل ۾، ΔABC جي ∠A جو اڏڪنڌر AD آهي. x جو ملهه لھو جيڪڏهن mAB = x+9، mAC = 11−x، mBD = 3x+2 ۽ mCD = 2x+3. تڪنڊي جي قسم پڻ ٻڌايو.",
-                "a": "AD: bisector of ∠A\n[[mCD/mDB]] = [[mAC/mAB]]\n[[(2x + 3)/(3x + 2)]] = [[(11 − x)/(x + 9)]]\n(2x + 3)(x + 9) = (11 − x)(3x + 2)\n2x² + 18x + 3x + 27 = 33x + 22 − 3x² − 2x\n2x² + 21x + 27 = −3x² + 31x + 22\n5x² − 10x + 5 = 0\nx² − 2x + 1 = 0\n(x − 1)² = 0\nx = 1\nmAB = x + 9 = 1 + 9 = 10 cm\nmAC = 11 − x = 11 − 1 = 10 cm\nmBC = mBD + mDC = (3x + 2) + (2x + 3) = 5 + 5 = 10 cm\nmAB = mAC = mBC = 10 cm\n△ABC: equilateral",
+                "a": "AD: bisector of ∠A\n[[mCD/mDB]] = [[mAC/mAB]]\n[[(2x + 3)/(3x + 2)]] = [[(11 − x)/(x + 9)]]\n(2x + 3)(x + 9) = (11 − x)(3x + 2)\n2x² + 18x + 3x + 27 = 33x + 22 − 3x² − 2x\n2x² + 21x + 27 = −3x² + 31x + 22\n5x² − 10x + 5 = 0\nx² − 2x + 1 = 0\n(x − 1)² = 0\nx = 1\nmAB = x + 9\nmAB = 1 + 9\nmAB = 10 cm\nmAC = 11 − x\nmAC = 11 − 1\nmAC = 10 cm\nmBC = mBD + mDC\nmBC = (3x + 2) + (2x + 3)\nmBC = 5 + 5\nmBC = 10 cm\nmAB = mAC = mBC = 10 cm\n△ABC: equilateral",
                 "dq": {
                   "els": [
                     {
@@ -23457,7 +23457,7 @@ var STUDY = {
               },
               {
                 "q": "پاسي واري شڪل ۾، ΔABC ۽ ΔPQR هم شڪل آهن. x ۽ y جو ملهه لھو جيڪڏهن پاسن جون ڊيگهون شڪل ۾ ڏيکاريل آهن.",
-                "a": "△PQR ~ △ABC\n[[mPQ/mAB]] = [[mQR/mBC]] = [[mPR/mAC]]\nmPQ = 9 cm, mQR = 12 cm, mPR = 6 cm\nmAB = 3 cm, mBC = y cm, mAC = x cm\n[[mPQ/mAB]] = [[9/3]] = 3\n[[mPR/mAC]] = 3\n[[6/x]] = 3\nx = [[6/3]] = 2 cm\n[[mQR/mBC]] = 3\n[[12/y]] = 3\ny = [[12/3]] = 4 cm",
+                "a": "△PQR ~ △ABC\n[[mPQ/mAB]] = [[mQR/mBC]]\n[[mPQ/mAB]] = [[mPR/mAC]]\nmPQ = 9 cm, mQR = 12 cm, mPR = 6 cm\nmAB = 3 cm, mBC = y cm, mAC = x cm\n[[mPQ/mAB]] = [[9/3]]\n[[mPQ/mAB]] = 3\n[[mPR/mAC]] = 3\n[[6/x]] = 3\nx = [[6/3]]\nx = 2 cm\n[[mQR/mBC]] = 3\n[[12/y]] = 3\ny = [[12/3]]\ny = 4 cm",
                 "dq": {
                   "els": [
                     {
@@ -23574,7 +23574,7 @@ var STUDY = {
               },
               {
                 "q": "فرض ڪريو ته A1 ۽ A2 ترتيبوار ٻن هم شڪل تڪنڊن ΔABC ۽ ΔPQR جون ايراضيون آهن جيئن ته شڪل ۾ ڏيکاريل آهي. معلوم ڪريو A2 جيڪڏهن A1 = 28cm²، mAB = 4x cm ۽ mPQ = 2x cm.",
-                "a": "△ABC ~ △PQR\n[[A₁/A₂]] = ([[mAB/mPQ]])²\nA₁ = 28 cm², mAB = 4x cm, mPQ = 2x cm\n[[28/A₂]] = ([[4x/2x]])² = (2)² = 4\nA₂ = [[28/4]] = 7 cm²",
+                "a": "△ABC ~ △PQR\n[[A₁/A₂]] = ([[mAB/mPQ]])²\nA₁ = 28 cm², mAB = 4x cm, mPQ = 2x cm\n[[28/A₂]] = ([[4x/2x]])²\n[[28/A₂]] = (2)²\n[[28/A₂]] = 4\nA₂ = [[28/4]]\nA₂ = 7 cm²",
                 "dq": {
                   "els": [
                     {
@@ -23677,7 +23677,7 @@ var STUDY = {
               },
               {
                 "q": "ثابت ڪريو ته ٻن گوني ڪنڊ تڪنڊن جا پاسا متناسب هوندا جيڪڏهن هڪ تڪنڊي جي سوڙهي ڪنڊ ٻئي جي سوڙهي ڪنڊ جي برابر هجي.",
-                "a": "△ABC, △PQR: ∠B = ∠Q = 90°\n∠A = ∠P\n∠C = 180° − 90° − ∠A\n∠R = 180° − 90° − ∠P\n∠C = ∠R\n△ABC ~ △PQR\n[[AB/PQ]] = [[BC/QR]] = [[AC/PR]]",
+                "a": "△ABC, △PQR: ∠B = ∠Q = 90°\n∠A = ∠P\n∠C = 180° − 90° − ∠A\n∠R = 180° − 90° − ∠P\n∠C = ∠R\n△ABC ~ △PQR\n[[AB/PQ]] = [[BC/QR]]\n[[AB/PQ]] = [[AC/PR]]",
                 "dq": {
                   "els": [
                     {
@@ -23983,7 +23983,7 @@ var STUDY = {
               },
               {
                 "q": "ثابت ڪري ڏيکاريو ته صرف ۽ صرف هڪ گول چورس جي چوٽين مان گذري سگهي ٿو.",
-                "a": "AC ∩ BD = O\nOA = OB = OC = OD = [[1/2]] × diagonal\nCircle with centre O, radius OA, passes through A, B, C, D\nOne circle passes through A, B, C, D",
+                "a": "AC ∩ BD = O\nOA = OB\nOA = OC\nOA = OD\nOA = [[1/2]] × diagonal\nCircle with centre O, radius OA, passes through A, B, C, D\nOne circle passes through A, B, C, D",
                 "dq": {
                   "els": [
                     {
@@ -24117,7 +24117,7 @@ var STUDY = {
               },
               {
                 "q": "ٽي ڳوٺ اهڙي ريت واقع آهن جو A جي اوڀر ۾ B 6Km جي فاصلي تي آهي ۽ B جي اتر ۾ 8Km جي فاصلي تي C آهي. مسطر يا فت پتي، پلکار ۽ ونڊئي پلکار جو استعمال ڪندي مسجد جو مقام لھو ته جيئن هر هڪ ڳوٺ مان سپ ساڳي فاصلي جو پند ڪن. اهو پڻ معلوم ڪريو ته هر هڪ ڳوٺاڻي کي ڪهٽو پند ڪرڻو پوندو.",
-                "a": "∠B = 90°\nmAC = √(mAB² + mBC²) = √(6² + 8²) = √(36 + 64) = √100 = 10 km\nmOA = mOB = mOC = [[1/2]] × 10 = 5 km\nMid-point of AC\n5 km",
+                "a": "∠B = 90°\nmAC = √(mAB² + mBC²)\nmAC = √(6² + 8²)\nmAC = √(36 + 64)\nmAC = √100\nmAC = 10 km\nmOA = mOB\nmOA = mOC\nmOA = [[1/2]] × 10\nmOA = 5 km\nMid-point of AC\n5 km",
                 "dq": {
                   "labels": [
                     "A",
@@ -24290,7 +24290,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن زه جي ڊيگهه 8cm آهي ۽ گول جي مرڪز کان زه تائين عمودي فاصلو 3cm آهي ته پوءِ گول جو گهيرو ۽ گول جي ايراضي لھو.",
-                "a": "mAB = 8 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB = [[1/2]] × 8 = 4 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 4² = 9 + 16 = 25\nmOA = 5 cm\nr = 5 cm\nC = 2πr = 2 × π × 5 = 10π cm\nA = πr² = π × 5² = 25π cm²",
+                "a": "mAB = 8 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB\nmAC = [[1/2]] × 8\nmAC = 4 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 4²\n(mOA)² = 9 + 16\n(mOA)² = 25\nmOA = 5 cm\nr = 5 cm\nC = 2πr\nC = 2 × π × 5\nC = 10π cm\nA = πr²\nA = π × 5²\nA = 25π cm²",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -24326,7 +24326,7 @@ var STUDY = {
               },
               {
                 "q": "زه جي ڊيگهه لھو جيڪڏهن گول جي مرڪز کان k فاصلي تي آهي ۽ سندس رداس r هيئن ريت آهي.\n(a) k = 4cm, r = 9cm\n(b) k = 3cm, r = 6cm",
-                "a": "chord = 2√(r² − k²)\n(a) √(9² − 4²) = √(81 − 16) = √65 cm\nChord = 2√65 cm\n(b) √(6² − 3²) = √(36 − 9) = √27 = 3√3 cm\nChord = 2 × 3√3 = 6√3 cm\n(a) 2√65 cm\n(b) 6√3 cm",
+                "a": "chord = 2√(r² − k²)\n(a) √(9² − 4²) = √(81 − 16)\n√(9² − 4²) = √65 cm\nChord = 2√65 cm\n(b) √(6² − 3²) = √(36 − 9)\n√(6² − 3²) = √27\n√(6² − 3²) = 3√3 cm\nChord = 2 × 3√3\nChord = 6√3 cm\n(a) 2√65 cm\n(b) 6√3 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -24362,7 +24362,7 @@ var STUDY = {
               },
               {
                 "q": "گول جو رداس چا ٿيندو جيڪڏهن زه واري ڊيگهه 10cm گول جي مرڪز کان فاصلو 3cm آهي.",
-                "a": "mAB = 10 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB = [[1/2]] × 10 = 5 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 5² = 9 + 25 = 34\nmOA = √34 cm",
+                "a": "mAB = 10 cm\nmOC = 3 cm\nmAC = [[1/2]] × mAB\nmAC = [[1/2]] × 10\nmAC = 5 cm\n(mOA)² = (mOC)² + (mAC)²\n(mOA)² = 3² + 5²\n(mOA)² = 9 + 25\n(mOA)² = 34\nmOA = √34 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -24601,7 +24601,7 @@ var STUDY = {
               },
               {
                 "q": "رداس r واري هڪ گول ۾ α ڊيگهه وارن ٻن هڪسان زهن جي وچ ۾ فاصلو لھو جيڪڏهن α ۽ r جون قيمتون هيٺ ڏنل آهن\n(a) α = 7cm and r = 6cm\n(b) α = 5cm and r = 4cm\n(c) α = 2cm and r = 4cm\n(d) α = 4cm and r = 9cm",
-                "a": "Distance between chords = 2√(r² − ([[α/2]])²)\n(a) 2√(6² − ([[7/2]])²) = 2√(36 − [[49/4]]) = 2√([[95/4]]) = √95 cm\n(b) 2√(4² − ([[5/2]])²) = 2√(16 − [[25/4]]) = 2√([[39/4]]) = √39 cm\n(c) 2√(4² − ([[2/2]])²) = 2√(16 − 1) = 2√15 cm\n(d) 2√(9² − ([[4/2]])²) = 2√(81 − 4) = 2√77 cm\n(a) √95 cm\n(b) √39 cm\n(c) 2√15 cm\n(d) 2√77 cm",
+                "a": "Distance between chords = 2√(r² − ([[α/2]])²)\n(a) 2√(6² − ([[7/2]])²) = 2√(36 − [[49/4]])\n2√(6² − ([[7/2]])²) = 2√([[95/4]])\n2√(6² − ([[7/2]])²) = √95 cm\n(b) 2√(4² − ([[5/2]])²) = 2√(16 − [[25/4]])\n2√(4² − ([[5/2]])²) = 2√([[39/4]])\n2√(4² − ([[5/2]])²) = √39 cm\n(c) 2√(4² − ([[2/2]])²) = 2√(16 − 1)\n2√(4² − ([[2/2]])²) = 2√15 cm\n(d) 2√(9² − ([[4/2]])²) = 2√(81 − 4)\n2√(9² − ([[4/2]])²) = 2√77 cm\n(a) √95 cm\n(b) √39 cm\n(c) 2√15 cm\n(d) 2√77 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -24642,7 +24642,7 @@ var STUDY = {
               },
               {
                 "q": "رداس r واري گول ۾ α ۽ β واري ڊيگهه جي ٻن پورور زهن جي وچ ۾ فاصلو معلوم ڪريو جيڪڏهن α، β ۽ r جون قيمتون هيٺ ڏنل آهن\n(a) α = 6cm, β = 8cm, r = 5cm\n(b) α = 3cm, β = 6cm, r = 14cm",
-                "a": "(a) 6 cm chord: √(5² − 3²) = √(25 − 9) = √16 = 4 cm\n8 cm chord: √(5² − 4²) = √(25 − 16) = √9 = 3 cm\n4 + 3 = 7 cm\n(b) 3 cm chord: √(14² − ([[3/2]])²) = √(196 − [[9/4]]) = √([[775/4]]) = [[5√31/2]] ≈ 13.919 cm\n6 cm chord: √(14² − 3²) = √(196 − 9) = √187 ≈ 13.675 cm\n[[5√31/2]] + √187 ≈ 13.919 + 13.675 = 27.594 cm\n(a) 7 cm\n(b) 27.594 cm",
+                "a": "(a) 6 cm chord: √(5² − 3²) = √(25 − 9)\n√(5² − 3²) = √16\n√(5² − 3²) = 4 cm\n8 cm chord: √(5² − 4²) = √(25 − 16)\n√(5² − 4²) = √9\n√(5² − 4²) = 3 cm\n4 + 3 = 7 cm\n(b) 3 cm chord: √(14² − ([[3/2]])²) = √(196 − [[9/4]])\n√(14² − ([[3/2]])²) = √([[775/4]])\n√(14² − ([[3/2]])²) = [[5√31/2]] ≈ 13.919 cm\n6 cm chord: √(14² − 3²) = √(196 − 9)\n√(14² − 3²) = √187 ≈ 13.675 cm\n[[5√31/2]] + √187 ≈ 13.919 + 13.675 = 27.594 cm\n(a) 7 cm\n(b) 27.594 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -24683,7 +24683,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن مرڪز O واري گول جا ٻه زه AB ۽ CD هڪٻئي کي تٻڪي P تي ڪپين ٿا ته پوءِ هيئنن ۾ x جو ملهه لھو.\n(a) mAP = x، mPB = x، mCP = 2، mPD = 10\n(b) mAP = 4، mPB = x، mCP = 3، mPD = 8\n(c) mAP = x، mPB = 12، mCP = 3، mPD = 20\n(d) mAP = 7.5، mPB = 7.2، mCP = 5، mPD = x\n(e) mAP = x، mPB = x، mCP = 17، mPD = 12\n(f) mAP = 7.2، mPB = x، mCP = 4.5، mPD = 9.6",
-                "a": "mAP × mPB = mCP × mPD\n(a) x × x = 2 × 10\nx² = 20\nx = √20 = 2√5\n(b) 4 × x = 3 × 8\n4x = 24\nx = 6\n(c) x × 12 = 3 × 20\n12x = 60\nx = 5\n(d) 7.5 × 7.2 = 5 × x\n54 = 5x\nx = [[54/5]] = 10.8\n(e) x × x = 17 × 12\nx² = 204\nx = √204 = 2√51\n(f) 7.2 × x = 4.5 × 9.6\n7.2x = 43.2\nx = [[43.2/7.2]] = 6\n(a) 2√5\n(b) 6\n(c) 5\n(d) 10.8\n(e) 2√51\n(f) 6",
+                "a": "mAP × mPB = mCP × mPD\n(a) x × x = 2 × 10\nx² = 20\nx = √20\nx = 2√5\n(b) 4 × x = 3 × 8\n4x = 24\nx = 6\n(c) x × 12 = 3 × 20\n12x = 60\nx = 5\n(d) 7.5 × 7.2 = 5 × x\n54 = 5x\nx = [[54/5]]\nx = 10.8\n(e) x × x = 17 × 12\nx² = 204\nx = √204\nx = 2√51\n(f) 7.2 × x = 4.5 × 9.6\n7.2x = 43.2\nx = [[43.2/7.2]]\nx = 6\n(a) 2√5\n(b) 6\n(c) 5\n(d) 10.8\n(e) 2√51\n(f) 6",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -24918,7 +24918,7 @@ var STUDY = {
               },
               {
                 "q": "ٻن هم مرڪز گولن جا ترتيبوار قطر 10cm ۽ 5cm آهن. باھرين گول جي هڪ تٻڪي کان ننڍي گول تي هڪ ڇهتي ليڪ جي ڊيگهه لھو. باھرين گول جي ان زه جي ڊيگهه پڻ لھو جيڪو اندرين گول کي ڇهي ٿو.",
-                "a": "OA = 2.5 cm\nOP = 5 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = 2.5² + AP²\nAP² = 25 − 6.25 = 18.75\nAP = [[(5√3)/2]] cm\nAP ≈ 4.33 cm\nchord = 2 × AP = 5√3 cm\nchord ≈ 8.66 cm",
+                "a": "OA = 2.5 cm\nOP = 5 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = 2.5² + AP²\nAP² = 25 − 6.25\nAP² = 18.75\nAP = [[(5√3)/2]] cm\nAP ≈ 4.33 cm\nchord = 2 × AP\nchord = 5√3 cm\nchord ≈ 8.66 cm",
                 "dq": {
                   "els": [
                     {
@@ -24991,7 +24991,7 @@ var STUDY = {
               },
               {
                 "q": "گول جي مرڪز کان 5cm جي فاصلي تي هڪ تٻڪو آهي. ان تٻڪي کان گول جي ڇهتي ليڪ تڪر جي ڊيگهه 4cm آهي گول جو قطر، گهيرو ۽ ايراضي لھو.",
-                "a": "OP = 5 cm\nAP = 4 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = OA² + 4²\nOA² = 25 − 16 = 9\nOA = 3 cm\ndiameter = 2 × 3 = 6 cm\ncircumference = 2πr = 2π × 3 = 6π ≈ 18.8495 cm\narea = πr² = π × 3² = 9π ≈ 28.2743 cm²",
+                "a": "OP = 5 cm\nAP = 4 cm\nOA ⊥ AP\nOP² = OA² + AP²\n5² = OA² + 4²\nOA² = 25 − 16\nOA² = 9\nOA = 3 cm\ndiameter = 2 × 3\ndiameter = 6 cm\ncircumference = 2πr\ncircumference = 2π × 3\ncircumference = 6π ≈ 18.8495 cm\narea = πr²\narea = π × 3²\narea = 9π ≈ 28.2743 cm²",
                 "dq": {
                   "els": [
                     {
@@ -25073,7 +25073,7 @@ var STUDY = {
               },
               {
                 "q": "7cm رداس واري گول جي مرڪز کان هڪ تٻڪو 25cm جي فاصلي تي آهي. ان تٻڪي کان گول تي هڪ ڇهتي ليڪ جي ڊيگهه معلوم ڪريو.",
-                "a": "OA = 7 cm\nOP = 25 cm\nOA ⊥ AP\nOP² = OA² + AP²\n25² = 7² + AP²\nAP² = 625 − 49 = 576\nAP = √576 = 24 cm",
+                "a": "OA = 7 cm\nOP = 25 cm\nOA ⊥ AP\nOP² = OA² + AP²\n25² = 7² + AP²\nAP² = 625 − 49\nAP² = 576\nAP = √576\nAP = 24 cm",
                 "dq": {
                   "els": [
                     {
@@ -25155,7 +25155,7 @@ var STUDY = {
               },
               {
                 "q": "3cm رداس واري گول جي مرڪز کان ڪيترو پري هڪ 10cm ڊيگهه وارو ڇهتي ليڪ تڪر گول تي ڪڍي سگهجي ٿو؟",
-                "a": "OA = 3 cm\nAP = 10 cm\nOA ⊥ AP\nOP² = OA² + AP²\nOP² = 3² + 10² = 9 + 100 = 109\nOP = √109 cm\nOP ≈ 10.44 cm",
+                "a": "OA = 3 cm\nAP = 10 cm\nOA ⊥ AP\nOP² = OA² + AP²\nOP² = 3² + 10²\nOP² = 9 + 100\nOP² = 109\nOP = √109 cm\nOP ≈ 10.44 cm",
                 "dq": {
                   "els": [
                     {
@@ -25438,7 +25438,7 @@ var STUDY = {
               },
               {
                 "q": "هينئين ۾ نامعلوم x جو ملهه لھو.\n(a) هڪ ڇهتي ليڪ x ۽ هڪ ڪپيندڙ ليڪ P کان؛ ڪپيندڙ ليڪ جو ٻاهريون حصو 4cm ۽ پوري ڊيگهه 9cm آهي.\n(b) هڪ ڇهتي ليڪ x ۽ هڪ ڪپيندڙ ليڪ P کان؛ ڪپيندڙ ليڪ جو ٻاهريون حصو 11cm ۽ اندروني حصو 13cm آهي.\n(c) P کان ٻه ڪپيندڙ ليڪون: هڪ جو ٻاهريون حصو 6cm ۽ پوري ڊيگهه 10cm آهي، ٻئي جو ٻاهريون حصو 5cm ۽ اندروني حصو x آهي.\n(d) P کان ٻه ڪپيندڙ ليڪون: هڪ جو ٻاهريون حصو 9cm ۽ اندروني حصو x آهي، ٻئي جو ٻاهريون حصو 12cm ۽ اندروني حصو 3cm آهي.\n(e) P کان ٻه ڪپيندڙ ليڪون: هڪ جو ٻاهريون حصو 8cm ۽ اندروني حصو 5cm آهي، ٻئي جو ٻاهريون حصو 7cm ۽ اندروني حصو x آهي.\n(f) P کان ٻه ڪپيندڙ ليڪون: هڪ جو ٻاهريون حصو 18cm ۽ اندروني حصو x آهي، ٻئي جو ٻاهريون حصو 20cm ۽ اندروني حصو 9cm آهي.\n(g) P کان ٻه ڪپيندڙ ليڪون: هڪ جو ٻاهريون حصو 20cm ۽ اندروني حصو x آهي، ٻئي جو ٻاهريون حصو 18cm ۽ اندروني حصو 9cm آهي.\n(h) P کان ٻه ڪپيندڙ ليڪون: هڪ جو ٻاهريون حصو 15cm ۽ اندروني حصو 10cm آهي، ٻئي جو ٻاهريون حصو x ۽ اندروني حصو 5cm آهي.",
-                "a": "(a) x² = 4 × 9 = 36\nx = 6\n(b) whole secant = 11 + 13 = 24\nx² = 11 × 24 = 264\nx = √264 = 2√66\n(c) 6 × 10 = 5 × (5 + x)\n60 = 25 + 5x\n5x = 35\nx = 7\n(d) 9(9 + x) = 12 × 15\n9(9 + x) = 180\n9 + x = 20\nx = 11\n(e) 8 × 13 = 7 × (7 + x)\n104 = 49 + 7x\n7x = 55\nx = [[55/7]]\n(f) 18(18 + x) = 20 × 29\n18(18 + x) = 580\n18 + x = [[580/18]] = [[290/9]]\nx = [[290/9]] − 18 = [[128/9]] ≈ 14.22\n(g) 20(20 + x) = 18 × 27\n20(20 + x) = 486\n20 + x = 24.3\nx = 4.3\n(h) 15 × 25 = x(x + 5)\n375 = x² + 5x\nx² + 5x − 375 = 0\nx = [[(−5 + 5√61)/2]] ≈ 17.03",
+                "a": "(a) x² = 4 × 9\nx² = 36\nx = 6\n(b) whole secant = 11 + 13\nwhole secant = 24\nx² = 11 × 24\nx² = 264\nx = √264\nx = 2√66\n(c) 6 × 10 = 5 × (5 + x)\n60 = 25 + 5x\n5x = 35\nx = 7\n(d) 9(9 + x) = 12 × 15\n9(9 + x) = 180\n9 + x = 20\nx = 11\n(e) 8 × 13 = 7 × (7 + x)\n104 = 49 + 7x\n7x = 55\nx = [[55/7]]\n(f) 18(18 + x) = 20 × 29\n18(18 + x) = 580\n18 + x = [[580/18]]\n18 + x = [[290/9]]\nx = [[290/9]] − 18\nx = [[128/9]] ≈ 14.22\n(g) 20(20 + x) = 18 × 27\n20(20 + x) = 486\n20 + x = 24.3\nx = 4.3\n(h) 15 × 25 = x(x + 5)\n375 = x² + 5x\nx² + 5x − 375 = 0\nx = [[(−5 + 5√61)/2]] ≈ 17.03",
                 "dq": {
                   "els": [
                     {
@@ -25517,7 +25517,7 @@ var STUDY = {
               },
               {
                 "q": "هينئين ۾ نامعلوم x جو ملهه لھو.\n(a) هڪ ڇهتي ليڪ x ۽ هڪ ڪپيندڙ ليڪ P کان؛ ڪپيندڙ ليڪ جو ٻاهريون حصو 4cm ۽ پوري ڊيگهه 12cm آهي.\n(b) P کان ٻه ڪپيندڙ ليڪون: هڪ جو ٻاهريون حصو 8cm ۽ اندروني حصو x آهي، ٻئي جو ٻاهريون حصو 6cm ۽ اندروني حصو 10cm آهي.\n(c) هڪ ڇهتي ليڪ x ۽ هڪ ڪپيندڙ ليڪ P کان؛ ڪپيندڙ ليڪ جو ٻاهريون حصو 3cm ۽ پوري ڊيگهه 12cm آهي.\n(d) هڪ ڇهتي ليڪ 12cm ۽ هڪ ڪپيندڙ ليڪ P کان؛ ڪپيندڙ ليڪ جو ٻاهريون حصو x ۽ اندروني حصو 9x آهي.\n(e) هڪ ڇهتي ليڪ 10cm ۽ هڪ ڪپيندڙ ليڪ P کان؛ ڪپيندڙ ليڪ جو ٻاهريون حصو 5cm ۽ اندروني حصو 3x آهي.\n(f) P کان ٻه ڇهتي ليڪون، هڪ جي ڊيگهه 13cm ۽ ٻئي جي ڊيگهه x آهي.",
-                "a": "(a) x² = 4 × 12 = 48\nx = √48 = 4√3 ≈ 6.93\n(b) 8(8 + x) = 6 × 16 = 96\n8 + x = 12\nx = 4\n(c) x² = 3 × 12 = 36\nx = 6\n(d) whole secant = x + 9x = 10x\n12² = x × 10x = 10x²\nx² = 14.4\nx = √14.4 ≈ 3.79\n(e) whole secant = 5 + 3x\n10² = 5(5 + 3x)\n100 = 25 + 15x\n15x = 75\nx = 5\n(f) x = 13",
+                "a": "(a) x² = 4 × 12\nx² = 48\nx = √48\nx = 4√3 ≈ 6.93\n(b) 8(8 + x) = 6 × 16\n8(8 + x) = 96\n8 + x = 12\nx = 4\n(c) x² = 3 × 12\nx² = 36\nx = 6\n(d) whole secant = x + 9x\nwhole secant = 10x\n12² = x × 10x\n12² = 10x²\nx² = 14.4\nx = √14.4 ≈ 3.79\n(e) whole secant = 5 + 3x\n10² = 5(5 + 3x)\n100 = 25 + 15x\n15x = 75\nx = 5\n(f) x = 13",
                 "dq": {
                   "els": [
                     {
@@ -25613,7 +25613,7 @@ var STUDY = {
             "items": [
               {
                 "q": "جيڪڏهن ٻن گولن جي مرڪزن کي ملائيندڙ ليڪ تڪر جي ڊيگهه، انهن جي رداسن جي جوڙ اپٽ جي برابر آهي ته پوءِ ثابت ڪريو ته گول ٻاهرين پاسي کان ڇهن ٿا.",
-                "a": "OO′ = r + r′\nOB = r\nO′B = OO′ − OB = (r + r′) − r = r′\nB: on both circles",
+                "a": "OO′ = r + r′\nOB = r\nO′B = OO′ − OB\nO′B = (r + r′) − r\nO′B = r′\nB: on both circles",
                 "dq": {
                   "els": [
                     {
@@ -25725,7 +25725,7 @@ var STUDY = {
               },
               {
                 "q": "ٻه هڪسان گول جيڪي ٻاهرين پاسي کان ڇهن ٿا جيڪڏهن انهن جي مرڪزن کي ملائيندڙ ليڪ تڪر جي ڊيگهه 12cm آهي ته پوءِ انهن جا رداس ۽ گولن جا گهيرا معلوم ڪريو.",
-                "a": "2r = 12\nr = 6 cm\ncircumference = 2πr = 2π × 6 = 12π\n12π = 12 × ([[22/7]]) = [[264/7]] ≈ 37.7 cm",
+                "a": "2r = 12\nr = 6 cm\ncircumference = 2πr\ncircumference = 2π × 6\ncircumference = 12π\n12π = 12 × ([[22/7]])\n12π = [[264/7]] ≈ 37.7 cm",
                 "dq": {
                   "els": [
                     {
@@ -25779,7 +25779,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن ڏنل گول جي هڪ ٻاهرين تٻڪي P کان ڇهتي ليڪون PA ۽ PB آهن جيئن شڪلين ۾ ڏيکاريل آهي ته پوءِ نامعلوم ڪنڊ معلوم ڪريو.\n(a) شڪل ۾ ∠AOB = 110° آهي، ∠APB (x) لھو.\n(b) شڪل ۾ ∠APB = 80° آهي، ∠AOP لھو.",
-                "a": "(a) ∠OAP = 90°\n∠OBP = 90°\n∠AOB + ∠OAP + ∠APB + ∠OBP = 360°\n110° + 90° + x + 90° = 360°\nx = 360° − 290° = 70°\n(b) ∠AOB = 360° − 90° − 90° − 80° = 100°\n∠AOP = [[∠AOB/2]] = [[100°/2]] = 50°",
+                "a": "(a) ∠OAP = 90°\n∠OBP = 90°\n∠AOB + ∠OAP + ∠APB + ∠OBP = 360°\n110° + 90° + x + 90° = 360°\nx = 360° − 290°\nx = 70°\n(b) ∠AOB = 360° − 90° − 90° − 80°\n∠AOB = 100°\n∠AOP = [[∠AOB/2]]\n∠AOP = [[100°/2]]\n∠AOP = 50°",
                 "dq": {
                   "els": [
                     {
@@ -25915,7 +25915,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن 2.5cm رداس واري گول جا ٻه زه هکٻئي کان 3.9cm پري آهن ۽ هڪ زه جي ڊيگهه 1.4cm آهي. ته پوءِ ٻئي زه جي ڊيگهه لھو.",
-                "a": "half of first chord = [[1.4/2]] = 0.7 cm\ndistance of first chord = √(2.5² − 0.7²) = √(6.25 − 0.49) = √5.76 = 2.4 cm\ndistance of second chord = 3.9 − 2.4 = 1.5 cm\nhalf of second chord = √(2.5² − 1.5²) = √(6.25 − 2.25) = √4 = 2 cm\nsecond chord = 2 × 2 = 4 cm",
+                "a": "half of first chord = [[1.4/2]]\nhalf of first chord = 0.7 cm\ndistance of first chord = √(2.5² − 0.7²)\ndistance of first chord = √(6.25 − 0.49)\ndistance of first chord = √5.76\ndistance of first chord = 2.4 cm\ndistance of second chord = 3.9 − 2.4\ndistance of second chord = 1.5 cm\nhalf of second chord = √(2.5² − 1.5²)\nhalf of second chord = √(6.25 − 2.25)\nhalf of second chord = √4\nhalf of second chord = 2 cm\nsecond chord = 2 × 2\nsecond chord = 4 cm",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -25956,7 +25956,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن تي گول جوڙن ۾ ٻاهرين پاسي کان ڇهن ٿا ته ٻن گولن جا رداس 4cm ۽ 5cm آهن ته پوءِ ٽين گول جو رداس معلوم ڪريو جيڪڏهن انهن جي مرڪزن مان نهندڙ تڪنڊي جو پيريميٽر 35cm آهي.",
-                "a": "r1 = 4 cm\nr2 = 5 cm\nr1 + r2 = 9 cm\nr2 + r3 = 5 + r3\nr3 + r1 = r3 + 4\n(r1 + r2) + (r2 + r3) + (r3 + r1) = 2(r1 + r2 + r3) = 35\nr1 + r2 + r3 = [[35/2]] = 17.5\nr3 = 17.5 − 4 − 5 = 8.5 cm",
+                "a": "r1 = 4 cm\nr2 = 5 cm\nr1 + r2 = 9 cm\nr2 + r3 = 5 + r3\nr3 + r1 = r3 + 4\n(r1 + r2) + (r2 + r3) + (r3 + r1) = 2(r1 + r2 + r3)\n(r1 + r2) + (r2 + r3) + (r3 + r1) = 35\nr1 + r2 + r3 = [[35/2]]\nr1 + r2 + r3 = 17.5\nr3 = 17.5 − 4 − 5\nr3 = 8.5 cm",
                 "dq": {
                   "els": [
                     {
@@ -26197,7 +26197,7 @@ var STUDY = {
               },
               {
                 "q": "پر واري شڪل ۾، O گول جو مرڪز آهي، x ۽ y جو ملهه لھو.\n[شڪل: P، Q، R، S گول تي تٻڪا آهن. رداسي تڪر OR ۽ OQ ڪڍيا ويا آهن. پاسو PQ کي Q کان اڳتي وڌايو ويو آهي. شڪل ۾ نشان ڪيل ڪنڊون آهن: m∠PSR = (3x + 2y)°، m∠ORQ = 50°، m∠ROQ = 80°، ۽ Q تي ٻاهرين ڪنڊ (x + 6y)° آهي.]",
-                "a": "OR = OQ\nm∠OQR = m∠ORQ = 50°\nm∠PQO = m∠OQR = 50°\nm∠PQR = m∠PQO + m∠OQR = 50° + 50° = 100°\n(x + 6y)° + m∠PQR = 180°\nx + 6y + 100 = 180\nx + 6y = 80 ... (1)\nm∠PQR + m∠PSR = 180°\n100 + (3x + 2y) = 180\n3x + 2y = 80 ... (2)\nx = 80 − 6y\n3(80 − 6y) + 2y = 80\n240 − 18y + 2y = 80\n240 − 80 = 16y\n16y = 160\ny = 10\nx = 80 − 6(10) = 80 − 60 = 20",
+                "a": "OR = OQ\nm∠OQR = m∠ORQ = 50°\nm∠PQO = m∠OQR = 50°\nm∠PQR = m∠PQO + m∠OQR\nm∠PQR = 50° + 50°\nm∠PQR = 100°\n(x + 6y)° + m∠PQR = 180°\nx + 6y + 100 = 180\nx + 6y = 80 ... (1)\nm∠PQR + m∠PSR = 180°\n100 + (3x + 2y) = 180\n3x + 2y = 80 ... (2)\nx = 80 − 6y\n3(80 − 6y) + 2y = 80\n240 − 18y + 2y = 80\n240 − 80 = 16y\n16y = 160\ny = 10\nx = 80 − 6(10)\nx = 80 − 60\nx = 20",
                 "dq": {
                   "els": [
                     {
@@ -26310,7 +26310,7 @@ var STUDY = {
               },
               {
                 "q": "پر واري شڪل ۾ m∠PQR = 35° ۽ m∠PRQ = 31° آهي. m∠QPR ۽ m∠OQR جو ملهه لھو.",
-                "a": "m∠QPR + m∠PQR + m∠PRQ = 180°\nm∠QPR + 35° + 31° = 180°\nm∠QPR + 66° = 180°\nm∠QPR = 180° − 66° = 114°\nreflex ∠QOR = 2 × m∠QPR = 2 × 114° = 228°\nm∠QOR = 360° − 228° = 132°\nOQ = OR\nm∠OQR = m∠ORQ\nm∠OQR + m∠ORQ + m∠QOR = 180°\n2(m∠OQR) + 132° = 180°\n2(m∠OQR) = 48°\nm∠OQR = 24°",
+                "a": "m∠QPR + m∠PQR + m∠PRQ = 180°\nm∠QPR + 35° + 31° = 180°\nm∠QPR + 66° = 180°\nm∠QPR = 180° − 66°\nm∠QPR = 114°\nreflex ∠QOR = 2 × m∠QPR\nreflex ∠QOR = 2 × 114°\nreflex ∠QOR = 228°\nm∠QOR = 360° − 228°\nm∠QOR = 132°\nOQ = OR\nm∠OQR = m∠ORQ\nm∠OQR + m∠ORQ + m∠QOR = 180°\n2(m∠OQR) + 132° = 180°\n2(m∠OQR) = 48°\nm∠OQR = 24°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -26358,7 +26358,7 @@ var STUDY = {
               },
               {
                 "q": "پر واري شڪل ۾ O گول جو مرڪز آهي، m∠AOB = 120° ۽ m∠BCD = 85° آهي. m∠OAD جو ملهه لھو.",
-                "a": "OA = OB\nm∠OAB = m∠OBA\nm∠OAB + m∠OBA + m∠AOB = 180°\n2(m∠OAB) + 120° = 180°\n2(m∠OAB) = 60°\nm∠OAB = 30°\nm∠BAD + m∠BCD = 180°\nm∠BAD + 85° = 180°\nm∠BAD = 180° − 85° = 95°\nm∠OAD = m∠BAD − m∠OAB = 95° − 30° = 65°",
+                "a": "OA = OB\nm∠OAB = m∠OBA\nm∠OAB + m∠OBA + m∠AOB = 180°\n2(m∠OAB) + 120° = 180°\n2(m∠OAB) = 60°\nm∠OAB = 30°\nm∠BAD + m∠BCD = 180°\nm∠BAD + 85° = 180°\nm∠BAD = 180° − 85°\nm∠BAD = 95°\nm∠OAD = m∠BAD − m∠OAB\nm∠OAD = 95° − 30°\nm∠OAD = 65°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -26415,7 +26415,7 @@ var STUDY = {
               },
               {
                 "q": "پر واري شڪل ۾، AB گول جو قطر آهي، m∠DAB = 30° آهي. m∠ACD جو ملهه لھو.",
-                "a": "m∠ADB = 90°\nm∠ABD + m∠BAD + m∠ADB = 180°\nm∠ABD + 30° + 90° = 180°\nm∠ABD + 120° = 180°\nm∠ABD = 180° − 120° = 60°\nm∠ABD + m∠ACD = 180°\n60° + m∠ACD = 180°\nm∠ACD = 180° − 60° = 120°",
+                "a": "m∠ADB = 90°\nm∠ABD + m∠BAD + m∠ADB = 180°\nm∠ABD + 30° + 90° = 180°\nm∠ABD + 120° = 180°\nm∠ABD = 180° − 120°\nm∠ABD = 60°\nm∠ABD + m∠ACD = 180°\n60° + m∠ACD = 180°\nm∠ACD = 180° − 60°\nm∠ACD = 120°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -26489,7 +26489,7 @@ var STUDY = {
             "items": [
               {
                 "q": "شڪل 1 ۾، تٻڪو O گول جو مرڪز آهي. x جي قيمت لھو جڏهن ته m∠C = 30° آهي.",
-                "a": "x = m∠ABO\nm∠ACB = 30°\nm∠AOB = 2 × m∠ACB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = x\nx + x + m∠AOB = 180°\n2x + 60° = 180°\n2x = 120°\nx = 60°",
+                "a": "x = m∠ABO\nm∠ACB = 30°\nm∠AOB = 2 × m∠ACB\nm∠AOB = 2 × 30°\nm∠AOB = 60°\nOA = OB\nm∠OAB = m∠OBA = x\nx + x + m∠AOB = 180°\n2x + 60° = 180°\n2x = 120°\nx = 60°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -26537,7 +26537,7 @@ var STUDY = {
               },
               {
                 "q": "شڪل 2 ۾، تٻڪو O گول جو مرڪز آهي. x جي قيمت لھو جڏهن ته m∠Q = 50° آهي.",
-                "a": "x = m∠PRO\nm∠PQO = 50°\nreflex m∠QOR = 240°\nm∠QOR = 360° − 240° = 120°\nm∠QPR = [[1/2]] × 240° = 120°\nm∠QPR + m∠PQO + m∠QOR + m∠PRO = 360°\n120° + 50° + 120° + x = 360°\n290° + x = 360°\nx = 70°",
+                "a": "x = m∠PRO\nm∠PQO = 50°\nreflex m∠QOR = 240°\nm∠QOR = 360° − 240°\nm∠QOR = 120°\nm∠QPR = [[1/2]] × 240°\nm∠QPR = 120°\nm∠QPR + m∠PQO + m∠QOR + m∠PRO = 360°\n120° + 50° + 120° + x = 360°\n290° + x = 360°\nx = 70°",
                 "dq": {
                   "els": [
                     {
@@ -26631,7 +26631,7 @@ var STUDY = {
               },
               {
                 "q": "شڪل 3 ۾، تٻڪو O گول جو مرڪز آهي. x + y جو ملهه لھو جڏهن ته m∠D = 30° آهي.",
-                "a": "x = m∠AOB\ny = m∠OAB\nm∠ADB = 30°\nx = m∠AOB = 2 × m∠ADB = 2 × 30° = 60°\nOA = OB\nm∠OAB = m∠OBA = y\ny + y + x = 180°\n2y + 60° = 180°\n2y = 120°\ny = 60°\nx + y = 60° + 60° = 120°",
+                "a": "x = m∠AOB\ny = m∠OAB\nm∠ADB = 30°\nx = m∠AOB\nx = 2 × m∠ADB\nx = 2 × 30°\nx = 60°\nOA = OB\nm∠OAB = m∠OBA = y\ny + y + x = 180°\n2y + 60° = 180°\n2y = 120°\ny = 60°\nx + y = 60° + 60°\nx + y = 120°",
                 "dq": {
                   "centre": "O",
                   "chords": [
@@ -27637,7 +27637,7 @@ var STUDY = {
               },
               {
                 "q": "△PQR ناهيو ۽ هر هڪ صورت ۾ ان جو گهيريل گول ڪيو.\n(i) mPQ = 5cm، mQR = 6.5cm ۽ mRP = 5.5cm\n(ii) mPQ = 6cm، m∠P = 60° ۽ m∠Q = 50°",
-                "a": "(i) PQ = 5 cm\nRP = 5.5 cm\nQR = 6.5 cm\n(ii) PQ = 6 cm\n∠P = 60°\n∠Q = 50°\n∠R = 180° − 60° − 50° = 70°\nPX: bisector of ∠P\nQY: bisector of ∠Q\nO = PX ∩ QY\nOL ⊥ PQ\ncircle: centre O, radius OL",
+                "a": "(i) PQ = 5 cm\nRP = 5.5 cm\nQR = 6.5 cm\n(ii) PQ = 6 cm\n∠P = 60°\n∠Q = 50°\n∠R = 180° − 60° − 50°\n∠R = 70°\nPX: bisector of ∠P\nQY: bisector of ∠Q\nO = PX ∩ QY\nOL ⊥ PQ\ncircle: centre O, radius OL",
                 "da": {
                   "els": [
                     {
@@ -27875,7 +27875,7 @@ var STUDY = {
               },
               {
                 "q": "مرڪز O ۽ 3.5cm رداس سان هڪ گول ڪيو ۽ ان گول جو گهيربندز ٽيور پاسو تڪنڊو ناهيو.",
-                "a": "circle: centre O, radius 3.5 cm\n∠AOB = ∠BOC = ∠COA = 120°\ntangent at A ⊥ OA\ntangent at B ⊥ OB\ntangent at C ⊥ OC\nP, Q, R = intersections of tangents\n∠P = ∠Q = ∠R = 180° − 120° = 60°\n△PQR: equilateral",
+                "a": "circle: centre O, radius 3.5 cm\n∠AOB = ∠BOC = ∠COA = 120°\ntangent at A ⊥ OA\ntangent at B ⊥ OB\ntangent at C ⊥ OC\nP, Q, R = intersections of tangents\n∠P = ∠Q\n∠P = ∠R\n∠P = 180° − 120°\n∠P = 60°\n△PQR: equilateral",
                 "da": {
                   "els": [
                     {
@@ -28095,7 +28095,7 @@ var STUDY = {
             "items": [
               {
                 "q": "مرڪز C ۽ رداس 4.2cm واري گول جو گهيربندز چورس ناهيو.",
-                "a": "circle: centre C, radius 4.2 cm\nAB: diameter\nEF ⊥ AB: diameter\ntangents at A, B, E, F\nP, Q, R, S = intersections\nPQ = QR = RS = SP = 2 × 4.2 = 8.4 cm\n∠P = ∠Q = ∠R = ∠S = 90°\nPQRS: square",
+                "a": "circle: centre C, radius 4.2 cm\nAB: diameter\nEF ⊥ AB: diameter\ntangents at A, B, E, F\nP, Q, R, S = intersections\nPQ = QR\nPQ = RS\nPQ = SP\nPQ = 2 × 4.2\nPQ = 8.4 cm\n∠P = ∠Q = ∠R = ∠S = 90°\nPQRS: square",
                 "da": {
                   "els": [
                     {
@@ -28187,7 +28187,7 @@ var STUDY = {
               },
               {
                 "q": "مرڪز O ۽ رداس 3.6cm واري گول ۾ هڪ گهيريل چورس ناهيو.",
-                "a": "circle: centre O, radius 3.6 cm\nPR: diameter\nQS ⊥ PR: diameter\nPQ, QR, RS, SP\nPQ = QR = RS = SP\n∠P = ∠Q = ∠R = ∠S = 90°\ndiagonal = 2 × 3.6 = 7.2 cm\nPQRS: square",
+                "a": "circle: centre O, radius 3.6 cm\nPR: diameter\nQS ⊥ PR: diameter\nPQ, QR, RS, SP\nPQ = QR = RS = SP\n∠P = ∠Q = ∠R = ∠S = 90°\ndiagonal = 2 × 3.6\ndiagonal = 7.2 cm\nPQRS: square",
                 "da": {
                   "els": [
                     {
@@ -28775,7 +28775,7 @@ var STUDY = {
               },
               {
                 "q": "مرڪز C ۽ 3.3cm رداس جي گول جون ٻه ڇهتي ليڪون ڪيو جيڪي هڪٻئي سان هنين ڪنڊن تي ملن تيون.\n(i) 50°\n(ii) 63°",
-                "a": "(i) central angle = 180° − 50° = 130°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 130°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 130° = 50°\nAP, BP: tangents\n(ii) central angle = 180° − 63° = 117°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 117°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 117° = 63°\nAP, BP: tangents",
+                "a": "(i) central angle = 180° − 50°\ncentral angle = 130°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 130°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 130°\n∠P = 50°\nAP, BP: tangents\n(ii) central angle = 180° − 63°\ncentral angle = 117°\ncircle: centre C, radius 3.3 cm\nCA\n∠ACB = 117°\nAD ⊥ CA at A\nBE ⊥ CB at B\nP = AD ∩ BE\n∠P = 360° − 90° − 90° − 117°\n∠P = 63°\nAP, BP: tangents",
                 "da": {
                   "els": [
                     {
@@ -29051,7 +29051,7 @@ var STUDY = {
               },
               {
                 "q": "ٻن غير مساوي گولن جي هڪ ڇهتي ليڪ ڪيو. انهن گولن جا مرڪز A ۽ B ۽ ترتيبوار رداس 3.8cm ۽ 2.2cm آهن جڏهن ته\n(i) گول اندريان ڇهن ٿا.\n(ii) گول ٻاهرين ڇهن ٿا.\n(iii) گول هڪٻئي کي ڪپين ٿا ۽ mAB = 5.6cm آهي.",
-                "a": "(i) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: on AP, PB = 2.2 cm\nAB = 3.8 − 2.2 = 1.6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(ii) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: PB = 2.2 cm\nAB = 3.8 + 2.2 = 6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(iii) AB = 5.6 cm\ncircles: centres A, B, radii 3.8 cm, 2.2 cm\ncircle: centre A, radius 3.8 − 2.2 = 1.6 cm\nO = midpoint of AB\ncircle: centre O, radius AO\nC, D = circle ∩ circle A\nAC\nP = AC ∩ larger circle\nBQ ∥ AP\nPQ\nPQ: tangent",
+                "a": "(i) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: on AP, PB = 2.2 cm\nAB = 3.8 − 2.2\nAB = 1.6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(ii) circle: centre A, radius 3.8 cm\nP: on circle\nAP\nB: PB = 2.2 cm\nAB = 3.8 + 2.2\nAB = 6 cm\ncircle: centre B, radius 2.2 cm\nST ⊥ AP at P\nST: tangent\n(iii) AB = 5.6 cm\ncircles: centres A, B, radii 3.8 cm, 2.2 cm\ncircle: centre A, radius 3.8 − 2.2 = 1.6 cm\nO = midpoint of AB\ncircle: centre O, radius AO\nC, D = circle ∩ circle A\nAC\nP = AC ∩ larger circle\nBQ ∥ AP\nPQ\nPQ: tangent",
                 "da": {
                   "els": [
                     {
@@ -29345,19 +29345,19 @@ var STUDY = {
             "items": [
               {
                 "q": "1. هينئين کي ڊگرين ۾ مٽايو ۽ ڏھائي واري صورت ۾ لکو.\n(i) 32° 15′\n(ii) 10° 30′\n(iii) 8° 15′ 30″\n(iv) 45° 21′ 36″\n(v) 25° 30′\n(vi) 18° 6′ 21″",
-                "a": "1′ = ([[1/60]])°\n1″ = ([[1/3600]])°\n(i) 32° 15′ = 32° + ([[15/60]])° = 32° + 0.25° = 32.25°\n(ii) 10° 30′ = 10° + ([[30/60]])° = 10° + 0.5° = 10.5°\n(iii) 8° 15′ 30″ = 8° + ([[15/60]])° + ([[30/3600]])° = 8° + 0.25° + 0.0083° = 8.2583° ≈ 8.26°\n(iv) 45° 21′ 36″ = 45° + ([[21/60]])° + ([[36/3600]])° = 45° + 0.35° + 0.01° = 45.36°\n(v) 25° 30′ = 25° + ([[30/60]])° = 25° + 0.5° = 25.5°\n(vi) 18° 6′ 21″ = 18° + ([[6/60]])° + ([[21/3600]])° = 18° + 0.1° + 0.0058° = 18.1058° ≈ 18.11°"
+                "a": "1′ = ([[1/60]])°\n1″ = ([[1/3600]])°\n(i) 32° 15′ = 32° + ([[15/60]])°\n32° 15′ = 32° + 0.25°\n32° 15′ = 32.25°\n(ii) 10° 30′ = 10° + ([[30/60]])°\n10° 30′ = 10° + 0.5°\n10° 30′ = 10.5°\n(iii) 8° 15′ 30″ = 8° + ([[15/60]])° + ([[30/3600]])°\n8° 15′ 30″ = 8° + 0.25° + 0.0083°\n8° 15′ 30″ = 8.2583° ≈ 8.26°\n(iv) 45° 21′ 36″ = 45° + ([[21/60]])° + ([[36/3600]])°\n45° 21′ 36″ = 45° + 0.35° + 0.01°\n45° 21′ 36″ = 45.36°\n(v) 25° 30′ = 25° + ([[30/60]])°\n25° 30′ = 25° + 0.5°\n25° 30′ = 25.5°\n(vi) 18° 6′ 21″ = 18° + ([[6/60]])° + ([[21/3600]])°\n18° 6′ 21″ = 18° + 0.1° + 0.0058°\n18° 6′ 21″ = 18.1058° ≈ 18.11°"
               },
               {
                 "q": "2. هينئين ڪنڊن کي D° M′ S″ واري صورت ۾ مٽايو.\n(i) 32.25°\n(ii) 47.36°\n(iii) 57.325°\n(iv) −67.58°\n(v) 22.5°\n(vi) 225.60°",
-                "a": "(i) 32.25° = 32° + (0.25 × 60)′ = 32° + 15′ = 32°15′\n(ii) 47.36° = 47° + (0.36 × 60)′ = 47° + 21.6′ = 47°21′ + (0.6 × 60)″ = 47°21′36″\n(iii) 57.325° = 57° + (0.325 × 60)′ = 57° + 19.5′ = 57°19′ + (0.5 × 60)″ = 57°19′30″\n(iv) −67.58° = −(67° + 0.58°) = −(67° + (0.58 × 60)′) = −(67° + 34.8′) = −(67°34′ + (0.8 × 60)″) = −(67°34′48″)\n(v) 22.5° = 22° + (0.5 × 60)′ = 22° + 30′ = 22°30′\n(vi) 225.60° = 225° + (0.60 × 60)′ = 225° + 36′ = 225°36′"
+                "a": "(i) 32.25° = 32° + (0.25 × 60)′\n32.25° = 32° + 15′\n32.25° = 32°15′\n(ii) 47.36° = 47° + (0.36 × 60)′\n47.36° = 47° + 21.6′\n47.36° = 47°21′ + (0.6 × 60)″\n47.36° = 47°21′36″\n(iii) 57.325° = 57° + (0.325 × 60)′\n57.325° = 57° + 19.5′\n57.325° = 57°19′ + (0.5 × 60)″\n57.325° = 57°19′30″\n(iv) −67.58° = −(67° + 0.58°)\n−67.58° = −(67° + (0.58 × 60)′)\n−67.58° = −(67° + 34.8′)\n−67.58° = −(67°34′ + (0.8 × 60)″)\n−67.58° = −(67°34′48″)\n(v) 22.5° = 22° + (0.5 × 60)′\n22.5° = 22° + 30′\n22.5° = 22°30′\n(vi) 225.60° = 225° + (0.60 × 60)′\n225.60° = 225° + 36′\n225.60° = 225°36′"
               },
               {
                 "q": "3. هينئين ڪنڊن کي ڊگري ماپن ۾ ظاهر ڪريو.\n(i) [[π/4]] ريڊيان\n(ii) [[π/3]] ريڊيان\n(iii) [[−3π/4]] ريڊيان\n(iv) 3 ريڊيان\n(v) [[3/π]] ريڊيان\n(vi) 4.5 ريڊيان",
-                "a": "1 radian = ([[180/π]])°\n(i) [[π/4]] radians = ([[π/4]]) × ([[180/π]])° = [[180°/4]] = 45°\n(ii) [[π/3]] radians = ([[π/3]]) × ([[180/π]])° = [[180°/3]] = 60°\n(iii) [[−3π/4]] radians = ([[−3π/4]]) × ([[180/π]])° = [[−(3 × 180°)/4]] = −135°\n(iv) 3 radians = 3 × ([[180/π]])° = [[540°/π]] ≈ 171.89°\n(v) [[3/π]] radians = ([[3/π]]) × ([[180/π]])° = [[540°/π²]] ≈ 54.71°\n(vi) 4.5 radians = 4.5 × ([[180/π]])° = [[810°/π]] ≈ 257.83°"
+                "a": "1 radian = ([[180/π]])°\n(i) [[π/4]] radians = ([[π/4]]) × ([[180/π]])°\n[[π/4]] radians = [[180°/4]]\n[[π/4]] radians = 45°\n(ii) [[π/3]] radians = ([[π/3]]) × ([[180/π]])°\n[[π/3]] radians = [[180°/3]]\n[[π/3]] radians = 60°\n(iii) [[−3π/4]] radians = ([[−3π/4]]) × ([[180/π]])°\n[[−3π/4]] radians = [[−(3 × 180°)/4]]\n[[−3π/4]] radians = −135°\n(iv) 3 radians = 3 × ([[180/π]])°\n3 radians = [[540°/π]] ≈ 171.89°\n(v) [[3/π]] radians = ([[3/π]]) × ([[180/π]])°\n[[3/π]] radians = [[540°/π²]] ≈ 54.71°\n(vi) 4.5 radians = 4.5 × ([[180/π]])°\n4.5 radians = [[810°/π]] ≈ 257.83°"
               },
               {
                 "q": "4. هينئين ڪنڊن کي ريڊيان ماپن ۾ بدلايو.\n(i) 30°\n(ii) 45°\n(iii) 60°\n(iv) (22½)°\n(v) −225°\n(vi) 60° 35′ 48″",
-                "a": "1° = ([[π/180]]) radians\n(i) 30° = 30 × ([[π/180]]) radians = [[π/6]] radians\n(ii) 45° = 45 × ([[π/180]]) radians = [[π/4]] radians\n(iii) 60° = 60 × ([[π/180]]) radians = [[π/3]] radians\n(iv) (22½)° = ([[45/2]])° = ([[45/2]]) × ([[π/180]]) radians = [[π/8]] radians\n(v) −225° = −225 × ([[π/180]]) radians = [[−5π/4]] radians\n(vi) 60° 35′ 48″ = 60° + ([[35/60]])° + ([[48/3600]])° = 60° + 0.5833° + 0.0133° = 60.5967°\n60.5967° = 60.5967 × ([[π/180]]) radians ≈ 1.06 radians"
+                "a": "1° = ([[π/180]]) radians\n(i) 30° = 30 × ([[π/180]]) radians\n30° = [[π/6]] radians\n(ii) 45° = 45 × ([[π/180]]) radians\n45° = [[π/4]] radians\n(iii) 60° = 60 × ([[π/180]]) radians\n60° = [[π/3]] radians\n(iv) (22½)° = ([[45/2]])°\n(22½)° = ([[45/2]]) × ([[π/180]]) radians\n(22½)° = [[π/8]] radians\n(v) −225° = −225 × ([[π/180]]) radians\n−225° = [[−5π/4]] radians\n(vi) 60° 35′ 48″ = 60° + ([[35/60]])° + ([[48/3600]])°\n60° 35′ 48″ = 60° + 0.5833° + 0.0133°\n60° 35′ 48″ = 60.5967°\n60.5967° = 60.5967 × ([[π/180]]) radians ≈ 1.06 radians"
               }
             ]
           },
@@ -29366,23 +29366,23 @@ var STUDY = {
             "items": [
               {
                 "q": "1. θ جي قيمت لھو جيڪڏهن\n(i) l = 20cm ۽ r = 5cm\n(ii) l = 30.2cm ۽ r = 2cm\n(iii) l = 6cm ۽ r = 2.87cm\n(iv) l = 4.5cm ۽ r = 2.5cm",
-                "a": "θ = [[l/r]]\n(i) θ = [[20/5]] = 4 radians\n(ii) θ = [[30.2/2]] = 15.1 radians\n(iii) θ = [[6/2.87]] = 2.09 radians\n(iv) θ = [[4.5/2.5]] = 1.8 radians"
+                "a": "θ = [[l/r]]\n(i) θ = [[20/5]]\nθ = 4 radians\n(ii) θ = [[30.2/2]]\nθ = 15.1 radians\n(iii) θ = [[6/2.87]]\nθ = 2.09 radians\n(iv) θ = [[4.5/2.5]]\nθ = 1.8 radians"
               },
               {
                 "q": "2. l جي قيمت لھو جيڪڏهن\n(i) r = 1.01cm ۽ θ = 2.1 ريڊيان\n(ii) r = 5.1cm ۽ θ = 2 ريڊيان\n(iii) r = 6cm ۽ θ = 30°\n(iv) r = 15cm ۽ θ = 60° 30′",
-                "a": "(i) l = rθ = 1.01 × 2.1 = 2.121 cm ≈ 2.12 cm\n(ii) l = rθ = 5.1 × 2 = 10.2 cm\n(iii) θ = 30° = 30 × ([[π/180]]) = [[π/6]] radians\nl = rθ = 6 × ([[π/6]]) = π cm ≈ 3.14 cm\n(iv) θ = 60° 30′ = 60° + ([[30/60]])° = 60.5° = 60.5 × ([[π/180]]) radians ≈ 1.056 radians\nl = rθ = 15 × 1.056 ≈ 15.84 cm"
+                "a": "(i) l = rθ\nl = 1.01 × 2.1\nl = 2.121 cm ≈ 2.12 cm\n(ii) l = rθ\nl = 5.1 × 2\nl = 10.2 cm\n(iii) θ = 30°\nθ = 30 × ([[π/180]])\nθ = [[π/6]] radians\nl = rθ\nl = 6 × ([[π/6]])\nl = π cm ≈ 3.14 cm\n(iv) θ = 60° 30′\nθ = 60° + ([[30/60]])°\nθ = 60.5°\nθ = 60.5 × ([[π/180]]) radians ≈ 1.056 radians\nl = rθ\nl = 15 × 1.056 ≈ 15.84 cm"
               },
               {
                 "q": "3. r جي قيمت لھو جيڪڏهن\n(i) l = 2m ۽ θ = 60°\n(ii) l = [[7/4]]m ۽ θ = 3.5 ريڊيان\n(iii) l = 4cm ۽ θ = [[1/4]] ريڊيان\n(iv) l = 15.4cm ۽ θ = 180°",
-                "a": "r = [[l/θ]]\n(i) θ = 60° = [[π/3]] radians\nr = 2 ÷ ([[π/3]]) = [[6/π]] ≈ 1.91 m\n(ii) r = ([[7/4]]) ÷ 3.5 = [[1.75/3.5]] = 0.5 m\n(iii) r = 4 ÷ ([[1/4]]) = 4 × 4 = 16 cm\n(iv) θ = 180° = π radians\nr = [[15.4/π]] ≈ 4.9 cm"
+                "a": "r = [[l/θ]]\n(i) θ = 60°\nθ = [[π/3]] radians\nr = 2 ÷ ([[π/3]])\nr = [[6/π]] ≈ 1.91 m\n(ii) r = ([[7/4]]) ÷ 3.5\nr = [[1.75/3.5]]\nr = 0.5 m\n(iii) r = 4 ÷ ([[1/4]])\nr = 4 × 4\nr = 16 cm\n(iv) θ = 180°\nθ = π radians\nr = [[15.4/π]] ≈ 4.9 cm"
               },
               {
                 "q": "4. ايڪي واري گول (unit circle) جي قوس جي ڊيگھ لھو جنهن جي مطابقت رکندڙ مرڪزي ڪنڊ ھيٺ ڏنل آهي.\n(i) 30°\n(ii) 45°\n(iii) 60°\n(iv) 90°",
-                "a": "r = 1\nl = rθ = θ\n(i) θ = 30° = [[π/6]] radians\nl = [[π/6]] ≈ 0.52 units\n(ii) θ = 45° = [[π/4]] radians\nl = [[π/4]] ≈ 0.79 units\n(iii) θ = 60° = [[π/3]] radians\nl = [[π/3]] ≈ 1.05 units\n(iv) θ = 90° = [[π/2]] radians\nl = [[π/2]] ≈ 1.57 units"
+                "a": "r = 1\nl = rθ\nl = θ\n(i) θ = 30°\nθ = [[π/6]] radians\nl = [[π/6]] ≈ 0.52 units\n(ii) θ = 45°\nθ = [[π/4]] radians\nl = [[π/4]] ≈ 0.79 units\n(iii) θ = 60°\nθ = [[π/3]] radians\nl = [[π/3]] ≈ 1.05 units\n(iv) θ = 90°\nθ = [[π/2]] radians\nl = [[π/2]] ≈ 1.57 units"
               },
               {
                 "q": "5. هڪ گول جو قوس مرڪز تي [[π/6]] جي ڪنڊ ٺاھي ٿو. گول جو رداس 5cm آهي ته معلوم ڪريو.\n(i) قوس جي ڊيگھ\n(ii) گول جي سيڪٽر جي ايراضي",
-                "a": "r = 5 cm\nθ = [[π/6]] radians\n(i) l = rθ = 5 × ([[π/6]]) = [[5π/6]] ≈ 2.62 cm\n(ii) area = ([[1/2]]) r²θ = ([[1/2]]) × (5)² × ([[π/6]]) = [[25π/12]] ≈ 6.55 cm²\narea = ([[1/2]]) r l = ([[1/2]]) × 5 × 2.62 = 6.55 cm²",
+                "a": "r = 5 cm\nθ = [[π/6]] radians\n(i) l = rθ\nl = 5 × ([[π/6]])\nl = [[5π/6]] ≈ 2.62 cm\n(ii) area = ([[1/2]]) r²θ\narea = ([[1/2]]) × (5)² × ([[π/6]])\narea = [[25π/12]] ≈ 6.55 cm²\narea = ([[1/2]]) r l\narea = ([[1/2]]) × 5 × 2.62\narea = 6.55 cm²",
                 "da": {
                   "els": [
                     {
@@ -29445,11 +29445,11 @@ var STUDY = {
               },
               {
                 "q": "6. 10cm رداس واري گول تي هڪ تٻڪو حرڪت ڪري رهيو آهي جيڪڏهن اهو 3.5 ڦيرا ھڻي ٿو ته تٻڪي جو طئي ڪيل فاصلو لھو.",
-                "a": "r = 10 cm\n3.5 revolutions = 3.5 × 2π = 7π radians\nθ = 7π radians\nl = rθ = 10 × 7π = 70π cm ≈ 219.9 cm ≈ 2.2 m"
+                "a": "r = 10 cm\n3.5 revolutions = 3.5 × 2π\n3.5 revolutions = 7π radians\nθ = 7π radians\nl = rθ\nl = 10 × 7π\nl = 70π cm ≈ 219.9 cm ≈ 2.2 m"
               },
               {
                 "q": "7. هڪ سيڪٽر جي ايراضي لھو جيڪڏهن ته مرڪزي ڪنڊ [[π/4]] ريڊيان ۽ گول جو رداس 4cm آهي.",
-                "a": "r = 4 cm\nθ = [[π/4]] radians\narea = ([[1/2]]) r²θ = ([[1/2]]) × (4)² × ([[π/4]]) = ([[1/2]]) × 16 × ([[π/4]]) = 2π cm² ≈ 6.28 cm²",
+                "a": "r = 4 cm\nθ = [[π/4]] radians\narea = ([[1/2]]) r²θ\narea = ([[1/2]]) × (4)² × ([[π/4]])\narea = ([[1/2]]) × 16 × ([[π/4]])\narea = 2π cm² ≈ 6.28 cm²",
                 "da": {
                   "els": [
                     {
@@ -29512,15 +29512,15 @@ var STUDY = {
               },
               {
                 "q": "8. جيڪڏهن 21cm قطر واري اڏار جي قيتي جي ڪناري تي هڪ تٻڪو 5040 ميٽر فاصلو في منٽ طئي ڪري ٿو ته هڪ سيڪنڊ ۾ اهو قيتي ڪيترن ريڊيانن تائين ڦرندو؟",
-                "a": "d = 21 cm\nr = [[d/2]] = 10.5 cm = 0.105 m\nv = [[5040/60]] = 84 [[m/s]]\nl = 84 m\nθ = [[l/r]] = [[84/0.105]] = 800 radians"
+                "a": "d = 21 cm\nr = [[d/2]]\nr = 10.5 cm\nr = 0.105 m\nv = [[5040/60]]\nv = 84 [[m/s]]\nl = 84 m\nθ = [[l/r]]\nθ = [[84/0.105]]\nθ = 800 radians"
               },
               {
                 "q": "9. هڪ گاڏي گولائي واري رستي تي هلي رهي آهي. ان گول جو رداس قوس کان ٻيڻو آهي جيڪو گاڏي ناھي تي گولائي واري رستي تي قوس جي نھيل مرڪزي ڪنڊ معلوم ڪريو.",
-                "a": "r = 2l\nθ = [[l/r]] = [[l/(2l)]] = [[1/2]] radian"
+                "a": "r = 2l\nθ = [[l/r]]\nθ = [[l/(2l)]]\nθ = [[1/2]] radian"
               },
               {
                 "q": "10. 12cm رداس جي هڪ گول ۾ هڪ قوس 84° جي مرڪزي ڪنڊ ٺاھي ٿو. ان قوس جي ڊيگھ ۽ سيڪٽر جي ايراضي لھو.",
-                "a": "r = 12 cm\nθ = 84°\nθ = 84 × ([[π/180]]) = [[7π/15]] radians ≈ 1.466 radians\nl = rθ = 12 × 1.466 ≈ 17.6 cm\narea = ([[1/2]]) r l = ([[1/2]]) × 12 × 17.6 = 105.6 cm²\narea = ([[1/2]]) r²θ = ([[1/2]]) × 144 × 1.466 ≈ 105.6 cm²",
+                "a": "r = 12 cm\nθ = 84°\nθ = 84 × ([[π/180]])\nθ = [[7π/15]] radians ≈ 1.466 radians\nl = rθ\nl = 12 × 1.466 ≈ 17.6 cm\narea = ([[1/2]]) r l\narea = ([[1/2]]) × 12 × 17.6\narea = 105.6 cm²\narea = ([[1/2]]) r²θ\narea = ([[1/2]]) × 144 × 1.466 ≈ 105.6 cm²",
                 "da": {
                   "els": [
                     {
@@ -29592,7 +29592,7 @@ var STUDY = {
               },
               {
                 "q": "2. هينئين ڪنڊن جي چوٿائي جي حصن جي شناخت ڪريو.\n(i) [[8π/5]]\n(ii) 75°\n(iii) −818°\n(iv) 1090°\n(v) [[7π/6]]\n(vi) [[−5π/4]]",
-                "a": "(i) [[8π/5]] = [[(8 × 180°)/5]] = 288°\n270° < 288° < 360°\nQ4\n(ii) 75°\n0° < 75° < 90°\nQ1\n(iii) −818° + 720° = −98°\n−98° + 360° = 262°\n180° < 262° < 270°\nQ3\n(iv) 1090° − 1080° = 10°\n0° < 10° < 90°\nQ1\n(v) [[7π/6]] = [[(7 × 180°)/6]] = 210°\n180° < 210° < 270°\nQ3\n(vi) [[−5π/4]] = −225°\n−225° + 360° = 135°\n90° < 135° < 180°\nQ2",
+                "a": "(i) [[8π/5]] = [[(8 × 180°)/5]]\n[[8π/5]] = 288°\n270° < 288° < 360°\nQ4\n(ii) 75°\n0° < 75° < 90°\nQ1\n(iii) −818° + 720° = −98°\n−98° + 360° = 262°\n180° < 262° < 270°\nQ3\n(iv) 1090° − 1080° = 10°\n0° < 10° < 90°\nQ1\n(v) [[7π/6]] = [[(7 × 180°)/6]]\n[[7π/6]] = 210°\n180° < 210° < 270°\nQ3\n(vi) [[−5π/4]] = −225°\n−225° + 360° = 135°\n90° < 135° < 180°\nQ2",
                 "dq": {
                   "els": [
                     {
@@ -29793,15 +29793,15 @@ var STUDY = {
               },
               {
                 "q": "5. جيڪڏهن cosθ = [[−3/5]] ۽ [[π/2]] < θ < π، ته پوءِ هينئين باقي رهيل ترگناميٽري نسبتن جون قيمتون لھو.",
-                "a": "[[π/2]] < θ < π: Q2\nsin²θ + cos²θ = 1\nsin²θ = 1 − cos²θ = 1 − ([[−3/5]])² = 1 − [[9/25]] = [[16/25]]\nsinθ = √([[16/25]]) = [[4/5]]\ncosθ = [[−3/5]]\ntanθ = [[sinθ/cosθ]] = [[−4/3]]\ncotθ = [[1/tanθ]] = [[−3/4]]\nsecθ = [[1/cosθ]] = [[−5/3]]\ncosecθ = [[1/sinθ]] = [[5/4]]"
+                "a": "[[π/2]] < θ < π: Q2\nsin²θ + cos²θ = 1\nsin²θ = 1 − cos²θ\nsin²θ = 1 − ([[−3/5]])²\nsin²θ = 1 − [[9/25]]\nsin²θ = [[16/25]]\nsinθ = √([[16/25]])\nsinθ = [[4/5]]\ncosθ = [[−3/5]]\ntanθ = [[sinθ/cosθ]]\ntanθ = [[−4/3]]\ncotθ = [[1/tanθ]]\ncotθ = [[−3/4]]\nsecθ = [[1/cosθ]]\nsecθ = [[−5/3]]\ncosecθ = [[1/sinθ]]\ncosecθ = [[5/4]]"
               },
               {
                 "q": "6. باقي رهيل ترگناميٽري عمل/نسبتون لھو جيڪڏهن:\n(i) sinθ = [[√3/2]] ۽ θ ٻيئي چوٿائي حصي ۾ آهي\n(ii) cosθ = [[2/3]] ۽ θ چوٿين چوٿائي حصي ۾ آهي\n(iii) tanθ = −[[1/2]] ۽ θ ٻيئي چوٿائي حصي ۾ آهي\n(iv) secθ = cosecθ = √2 ۽ θ پهرين چوٿائي حصي ۾ آهي\n(v) cosθ = [[1/2]] ۽ tanθ وڏو آهي.",
-                "a": "(i) sinθ = [[√3/2]]: Q2\ncos²θ = 1 − sin²θ = 1 − [[3/4]] = [[1/4]]\ncosθ = [[−1/2]]\ntanθ = [[sinθ/cosθ]] = −√3\ncotθ = [[−1/√3]]\nsecθ = [[1/cosθ]] = −2\ncosecθ = [[1/sinθ]] = [[2/√3]]\n(ii) cosθ = [[2/3]]: Q4\nsin²θ = 1 − cos²θ = 1 − [[4/9]] = [[5/9]]\nsinθ = [[−√5/3]]\ntanθ = [[sinθ/cosθ]] = [[−√5/2]]\ncotθ = [[−2/√5]]\nsecθ = [[1/cosθ]] = [[3/2]]\ncosecθ = [[1/sinθ]] = [[−3/√5]]\n(iii) tanθ = [[−1/2]]: Q2\n[[sinθ/cosθ]] = [[−1/2]]\ncosθ = −2 sinθ\nsin²θ + cos²θ = 1\nsin²θ + 4 sin²θ = 1\n5 sin²θ = 1\nsinθ = [[1/√5]]\ncosθ = [[−2/√5]]\ncotθ = [[1/tanθ]] = −2\ncosecθ = [[1/sinθ]] = √5\nsecθ = [[1/cosθ]] = [[−√5/2]]\n(iv) secθ = √2\ncosecθ = √2: Q1\ncosθ = [[1/√2]]\nsinθ = [[1/√2]]\ntanθ = [[sinθ/cosθ]] = 1\ncotθ = 1\n(v) cosθ = [[1/2]]\ntanθ > 0: Q1\nsin²θ = 1 − cos²θ = 1 − [[1/4]] = [[3/4]]\nsinθ = [[√3/2]]\ntanθ = [[sinθ/cosθ]] = √3\ncotθ = [[1/√3]]\nsecθ = [[1/cosθ]] = 2\ncosecθ = [[1/sinθ]] = [[2/√3]]"
+                "a": "(i) sinθ = [[√3/2]]: Q2\ncos²θ = 1 − sin²θ\ncos²θ = 1 − [[3/4]]\ncos²θ = [[1/4]]\ncosθ = [[−1/2]]\ntanθ = [[sinθ/cosθ]]\ntanθ = −√3\ncotθ = [[−1/√3]]\nsecθ = [[1/cosθ]]\nsecθ = −2\ncosecθ = [[1/sinθ]]\ncosecθ = [[2/√3]]\n(ii) cosθ = [[2/3]]: Q4\nsin²θ = 1 − cos²θ\nsin²θ = 1 − [[4/9]]\nsin²θ = [[5/9]]\nsinθ = [[−√5/3]]\ntanθ = [[sinθ/cosθ]]\ntanθ = [[−√5/2]]\ncotθ = [[−2/√5]]\nsecθ = [[1/cosθ]]\nsecθ = [[3/2]]\ncosecθ = [[1/sinθ]]\ncosecθ = [[−3/√5]]\n(iii) tanθ = [[−1/2]]: Q2\n[[sinθ/cosθ]] = [[−1/2]]\ncosθ = −2 sinθ\nsin²θ + cos²θ = 1\nsin²θ + 4 sin²θ = 1\n5 sin²θ = 1\nsinθ = [[1/√5]]\ncosθ = [[−2/√5]]\ncotθ = [[1/tanθ]]\ncotθ = −2\ncosecθ = [[1/sinθ]]\ncosecθ = √5\nsecθ = [[1/cosθ]]\nsecθ = [[−√5/2]]\n(iv) secθ = √2\ncosecθ = √2: Q1\ncosθ = [[1/√2]]\nsinθ = [[1/√2]]\ntanθ = [[sinθ/cosθ]]\ntanθ = 1\ncotθ = 1\n(v) cosθ = [[1/2]]\ntanθ > 0: Q1\nsin²θ = 1 − cos²θ\nsin²θ = 1 − [[1/4]]\nsin²θ = [[3/4]]\nsinθ = [[√3/2]]\ntanθ = [[sinθ/cosθ]]\ntanθ = √3\ncotθ = [[1/√3]]\nsecθ = [[1/cosθ]]\nsecθ = 2\ncosecθ = [[1/sinθ]]\ncosecθ = [[2/√3]]"
               },
               {
                 "q": "7. هينئين جا ملهه لھو.\n(i) tan30° tan60° + tan45° cot45°\n(ii) [[(tan60° − tan30°)/(1 + tan60° tan30°)]]\n(iii) [[sin45°/(sin45° + cot45°)]]\n(iv) cos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]])\n(v) (tan([[π/4]]) − tan([[π/6]])) ÷ (1 + tan([[π/4]])·tan([[π/6]]))\n(vi) [[(tan45° + cot45°)/(sin60° cos30° − cos60° sin30°)]]",
-                "a": "sin30° = [[1/2]]\ncos30° = [[√3/2]]\ntan30° = [[1/√3]]\nsin45° = cos45° = [[1/√2]]\ntan45° = cot45° = 1\nsin60° = [[√3/2]]\ncos60° = [[1/2]]\ntan60° = √3\n(i) tan30° tan60° + tan45° cot45° = ([[1/√3]])(√3) + (1)(1) = 1 + 1 = 2\n(ii) tan60° − tan30° = √3 − [[1/√3]] = [[2/√3]]\n1 + tan60° tan30° = 1 + (√3)([[1/√3]]) = 2\n[[(tan60° − tan30°)/(1 + tan60° tan30°)]] = [[1/√3]]\n(iii) sin45° = [[1/√2]]\ncot45° = 1\n[[sin45°/(sin45° + cot45°)]] = [[1/(1 + √2)]] = √2 − 1\n(iv) cos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = cos30° cos60° + sin30° cos60°\n= ([[√3/2]])([[1/2]]) + ([[1/2]])([[1/2]]) = [[√3/4]] + [[1/4]] = [[(√3 + 1)/4]]\n(v) tan45° − tan30° = 1 − [[1/√3]]\n1 + tan45° tan30° = 1 + [[1/√3]]\n[[(tan45° − tan30°)/(1 + tan45° tan30°)]] = [[(√3 − 1)/(√3 + 1)]] = 2 − √3\n(vi) tan45° + cot45° = 1 + 1 = 2\nsin60° cos30° − cos60° sin30° = ([[√3/2]])([[√3/2]]) − ([[1/2]])([[1/2]]) = [[3/4]] − [[1/4]] = [[1/2]]\nvalue = 2 ÷ ([[1/2]]) = 4"
+                "a": "sin30° = [[1/2]]\ncos30° = [[√3/2]]\ntan30° = [[1/√3]]\nsin45° = cos45°\nsin45° = [[1/√2]]\ntan45° = cot45° = 1\nsin60° = [[√3/2]]\ncos60° = [[1/2]]\ntan60° = √3\n(i) tan30° tan60° + tan45° cot45° = ([[1/√3]])(√3) + (1)(1)\ntan30° tan60° + tan45° cot45° = 1 + 1\ntan30° tan60° + tan45° cot45° = 2\n(ii) tan60° − tan30° = √3 − [[1/√3]]\ntan60° − tan30° = [[2/√3]]\n1 + tan60° tan30° = 1 + (√3)([[1/√3]])\n1 + tan60° tan30° = 2\n[[(tan60° − tan30°)/(1 + tan60° tan30°)]] = [[1/√3]]\n(iii) sin45° = [[1/√2]]\ncot45° = 1\n[[sin45°/(sin45° + cot45°)]] = [[1/(1 + √2)]]\n[[sin45°/(sin45° + cot45°)]] = √2 − 1\n(iv) cos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = cos30° cos60° + sin30° cos60°\ncos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = ([[√3/2]])([[1/2]]) + ([[1/2]])([[1/2]])\ncos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = [[√3/4]] + [[1/4]]\ncos([[π/6]])·cos([[π/3]]) + sin([[π/6]])·cos([[π/3]]) = [[(√3 + 1)/4]]\n(v) tan45° − tan30° = 1 − [[1/√3]]\n1 + tan45° tan30° = 1 + [[1/√3]]\n[[(tan45° − tan30°)/(1 + tan45° tan30°)]] = [[(√3 − 1)/(√3 + 1)]]\n[[(tan45° − tan30°)/(1 + tan45° tan30°)]] = 2 − √3\n(vi) tan45° + cot45° = 1 + 1\ntan45° + cot45° = 2\nsin60° cos30° − cos60° sin30° = ([[√3/2]])([[√3/2]]) − ([[1/2]])([[1/2]])\nsin60° cos30° − cos60° sin30° = [[3/4]] − [[1/4]]\nsin60° cos30° − cos60° sin30° = [[1/2]]\nvalue = 2 ÷ ([[1/2]])\nvalue = 4"
               }
             ]
           },
@@ -29810,11 +29810,11 @@ var STUDY = {
             "items": [
               {
                 "q": "1. هينئين کي ثابت ڪريو.\n(i) sin²θ = (sec²θ − 1)cos²θ (cosθ ≠ 0)\n(ii) [[(1 + sinθ)/cosθ]] = tanθ + secθ (cosθ ≠ 0)\n(iii) tanθ = sinθ√(1 + tan²θ) (cosθ ≠ 0)\n(iv) cos⁴θ − sin⁴θ = cos²θ − sin²θ\n(v) sin³θ = sinθ − sinθ cos²θ\n(vi) √([[(1 + cosθ)/(1 − cosθ)]]) = [[sinθ/(1 − cosθ)]] (cosθ ≠ 1)\n(vii) √([[(secθ + 1)/(secθ − 1)]]) = [[(secθ + 1)/tanθ]] (tanθ ≠ 0)\n(viii) [[sin²θ/cosθ]] + cosθ = secθ (tanθ ≠ 0)\n(ix) (tanθ − sinθ)(cotθ + cosθ) = secθ − cosθ (sinθ ≠ 0 يا cosθ ≠ 0)\n(x) [[(cotθ + cosecθ)/(sinθ + tanθ)]] = cosecθ cotθ (sinθ ≠ 0)\n(xi) sin²θ = [[tan²θ/(1 + tan²θ)]] (cosθ ≠ 0)\n(xii) cos²θ = [[cot²θ/(1 + cot²θ)]] (sinθ ≠ 0)\n(xiii) sinθ cosθ tanθ + sinθ cosθ cotθ = 1 (sinθ ≠ 0 يا cosθ ≠ 0)",
-                "a": "(i) R.H.S. = (sec²θ − 1)cos²θ\nsec²θ − 1 = tan²θ\nR.H.S. = tan²θ · cos²θ = ([[sin²θ/cos²θ]]) · cos²θ = sin²θ = L.H.S.\n(ii) R.H.S. = tanθ + secθ = [[sinθ/cosθ]] + [[1/cosθ]] = [[(sinθ + 1)/cosθ]] = [[(1 + sinθ)/cosθ]] = L.H.S.\n(iii) R.H.S. = sinθ√(1 + tan²θ)\n1 + tan²θ = sec²θ\n√(sec^2θ) = |secθ|\n√(1 + tan²θ) = secθ\nR.H.S. = sinθ · secθ = [[sinθ/cosθ]] = tanθ = L.H.S.\n(iv) L.H.S. = cos⁴θ − sin⁴θ = (cos²θ)² − (sin²θ)² = (cos²θ − sin²θ)(cos²θ + sin²θ) = (cos²θ − sin²θ)(1) = cos²θ − sin²θ = R.H.S.\n(v) R.H.S. = sinθ − sinθ cos²θ = sinθ(1 − cos²θ) = sinθ · sin²θ = sin³θ = L.H.S.\n(vi) L.H.S. = √([[(1 + cosθ)/(1 − cosθ)]])\n= √([[(1 + cosθ)²/((1 − cosθ)(1 + cosθ))]]) = √([[(1 + cosθ)²/(1 − cos²θ)]]) = √([[(1 + cosθ)²/sin²θ]]) = [[(1 + cosθ)/sinθ]]\nR.H.S. = [[sinθ/(1 − cosθ)]] = sinθ[[(1 + cosθ)/((1 − cosθ)(1 + cosθ))]] = sinθ[[(1 + cosθ)/sin²θ]] = [[(1 + cosθ)/sinθ]]\nL.H.S. = R.H.S.\n(vii) L.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nR.H.S.² = ([[(secθ + 1)/tanθ]])² = [[(secθ + 1)²/tan²θ]]\ntan²θ = sec²θ − 1 = (secθ − 1)(secθ + 1)\nR.H.S.² = [[(secθ + 1)²/((secθ − 1)(secθ + 1))]] = [[(secθ + 1)/(secθ − 1)]]\nL.H.S. = R.H.S.\n(viii) L.H.S. = [[sin²θ/cosθ]] + cosθ = [[(sin²θ + cos²θ)/cosθ]] = [[1/cosθ]] = secθ = R.H.S.\n(ix) L.H.S. = (tanθ − sinθ)(cotθ + cosθ)\ntanθ − sinθ = [[sinθ/cosθ]] − sinθ = [[sinθ(1 − cosθ)/cosθ]]\ncotθ + cosθ = [[cosθ/sinθ]] + cosθ = [[cosθ(1 + sinθ)/sinθ]]\nL.H.S. = (1 − cosθ)(1 + sinθ)\nR.H.S. = secθ − cosθ = [[1/cosθ]] − cosθ = [[(1 − cos²θ)/cosθ]] = [[sin²θ/cosθ]]\nL.H.S. ≠ R.H.S. (printed identity is incorrect)\n(x) cotθ + cosecθ = [[cosθ/sinθ]] + [[1/sinθ]] = [[(1 + cosθ)/sinθ]]\nsinθ + tanθ = sinθ + [[sinθ/cosθ]] = sinθ(1 + [[1/cosθ]]) = sinθ[[(cosθ + 1)/cosθ]]\nL.H.S. = ([[(1 + cosθ)/sinθ]]) ÷ (sinθ[[(1 + cosθ)/cosθ]]) = [[cosθ/sin²θ]] = ([[1/sinθ]])([[cosθ/sinθ]]) = cosecθ cotθ = R.H.S.\n(xi) R.H.S. = [[tan²θ/(1 + tan²θ)]] = [[tan²θ/sec²θ]] = ([[sin²θ/cos²θ]]) ÷ ([[1/cos²θ]]) = sin²θ = L.H.S.\n(xii) R.H.S. = [[cot²θ/(1 + cot²θ)]] = [[cot²θ/cosec²θ]] = ([[cos²θ/sin²θ]]) ÷ ([[1/sin²θ]]) = cos²θ = L.H.S.\n(xiii) L.H.S. = sinθ cosθ tanθ + sinθ cosθ cotθ = sinθ cosθ ([[sinθ/cosθ]]) + sinθ cosθ ([[cosθ/sinθ]]) = sin²θ + cos²θ = 1 = R.H.S."
+                "a": "(i) R.H.S. = (sec²θ − 1)cos²θ\nsec²θ − 1 = tan²θ\nR.H.S. = tan²θ · cos²θ\nR.H.S. = ([[sin²θ/cos²θ]]) · cos²θ\nR.H.S. = sin²θ\nR.H.S. = L.H.S.\n(ii) R.H.S. = tanθ + secθ\nR.H.S. = [[sinθ/cosθ]] + [[1/cosθ]]\nR.H.S. = [[(sinθ + 1)/cosθ]]\nR.H.S. = [[(1 + sinθ)/cosθ]]\nR.H.S. = L.H.S.\n(iii) R.H.S. = sinθ√(1 + tan²θ)\n1 + tan²θ = sec²θ\n√(sec^2θ) = |secθ|\n√(1 + tan²θ) = secθ\nR.H.S. = sinθ · secθ\nR.H.S. = [[sinθ/cosθ]]\nR.H.S. = tanθ\nR.H.S. = L.H.S.\n(iv) L.H.S. = cos⁴θ − sin⁴θ\nL.H.S. = (cos²θ)² − (sin²θ)²\nL.H.S. = (cos²θ − sin²θ)(cos²θ + sin²θ)\nL.H.S. = (cos²θ − sin²θ)(1)\nL.H.S. = cos²θ − sin²θ\nL.H.S. = R.H.S.\n(v) R.H.S. = sinθ − sinθ cos²θ\nR.H.S. = sinθ(1 − cos²θ)\nR.H.S. = sinθ · sin²θ\nR.H.S. = sin³θ\nR.H.S. = L.H.S.\n(vi) L.H.S. = √([[(1 + cosθ)/(1 − cosθ)]])\nL.H.S. = √([[(1 + cosθ)²/((1 − cosθ)(1 + cosθ))]])\nL.H.S. = √([[(1 + cosθ)²/(1 − cos²θ)]])\nL.H.S. = √([[(1 + cosθ)²/sin²θ]])\nL.H.S. = [[(1 + cosθ)/sinθ]]\nR.H.S. = [[sinθ/(1 − cosθ)]]\nR.H.S. = sinθ[[(1 + cosθ)/((1 − cosθ)(1 + cosθ))]]\nR.H.S. = sinθ[[(1 + cosθ)/sin²θ]]\nR.H.S. = [[(1 + cosθ)/sinθ]]\nL.H.S. = R.H.S.\n(vii) L.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nR.H.S.² = ([[(secθ + 1)/tanθ]])²\nR.H.S.² = [[(secθ + 1)²/tan²θ]]\ntan²θ = sec²θ − 1\ntan²θ = (secθ − 1)(secθ + 1)\nR.H.S.² = [[(secθ + 1)²/((secθ − 1)(secθ + 1))]]\nR.H.S.² = [[(secθ + 1)/(secθ − 1)]]\nL.H.S. = R.H.S.\n(viii) L.H.S. = [[sin²θ/cosθ]] + cosθ\nL.H.S. = [[(sin²θ + cos²θ)/cosθ]]\nL.H.S. = [[1/cosθ]]\nL.H.S. = secθ\nL.H.S. = R.H.S.\n(ix) L.H.S. = (tanθ − sinθ)(cotθ + cosθ)\ntanθ − sinθ = [[sinθ/cosθ]] − sinθ\ntanθ − sinθ = [[sinθ(1 − cosθ)/cosθ]]\ncotθ + cosθ = [[cosθ/sinθ]] + cosθ\ncotθ + cosθ = [[cosθ(1 + sinθ)/sinθ]]\nL.H.S. = (1 − cosθ)(1 + sinθ)\nR.H.S. = secθ − cosθ\nR.H.S. = [[1/cosθ]] − cosθ\nR.H.S. = [[(1 − cos²θ)/cosθ]]\nR.H.S. = [[sin²θ/cosθ]]\nL.H.S. ≠ R.H.S. (printed identity is incorrect)\n(x) cotθ + cosecθ = [[cosθ/sinθ]] + [[1/sinθ]]\ncotθ + cosecθ = [[(1 + cosθ)/sinθ]]\nsinθ + tanθ = sinθ + [[sinθ/cosθ]]\nsinθ + tanθ = sinθ(1 + [[1/cosθ]])\nsinθ + tanθ = sinθ[[(cosθ + 1)/cosθ]]\nL.H.S. = ([[(1 + cosθ)/sinθ]]) ÷ (sinθ[[(1 + cosθ)/cosθ]])\nL.H.S. = [[cosθ/sin²θ]]\nL.H.S. = ([[1/sinθ]])([[cosθ/sinθ]])\nL.H.S. = cosecθ cotθ\nL.H.S. = R.H.S.\n(xi) R.H.S. = [[tan²θ/(1 + tan²θ)]]\nR.H.S. = [[tan²θ/sec²θ]]\nR.H.S. = ([[sin²θ/cos²θ]]) ÷ ([[1/cos²θ]])\nR.H.S. = sin²θ\nR.H.S. = L.H.S.\n(xii) R.H.S. = [[cot²θ/(1 + cot²θ)]]\nR.H.S. = [[cot²θ/cosec²θ]]\nR.H.S. = ([[cos²θ/sin²θ]]) ÷ ([[1/sin²θ]])\nR.H.S. = cos²θ\nR.H.S. = L.H.S.\n(xiii) L.H.S. = sinθ cosθ tanθ + sinθ cosθ cotθ\nL.H.S. = sinθ cosθ ([[sinθ/cosθ]]) + sinθ cosθ ([[cosθ/sinθ]])\nL.H.S. = sin²θ + cos²θ\nL.H.S. = 1\nL.H.S. = R.H.S."
               },
               {
                 "q": "2. پهرين اظهار کي ٻيئي ۾ مٽايو.\n(i) (secθ + 1)(secθ − 1) کي tan²θ ۾\n(ii) [[cosθ/sinθ]] − [[cosecθ/cosθ]] کي −tanθ ۾\n(iii) cosecθ + cotθ کي [[(1 + cosθ)/sinθ]] ۾",
-                "a": "(i) (secθ + 1)(secθ − 1) = sec²θ − 1 = tan²θ\n(ii) [[cosθ/sinθ]] − [[cosecθ/cosθ]] = cotθ − [[1/(sinθ cosθ)]] = [[(cos²θ − 1)/(sinθ cosθ)]] = [[−sin²θ/(sinθ cosθ)]] = [[−sinθ/cosθ]] = −tanθ\n(iii) cosecθ + cotθ = [[1/sinθ]] + [[cosθ/sinθ]] = [[(1 + cosθ)/sinθ]]"
+                "a": "(i) (secθ + 1)(secθ − 1) = sec²θ − 1\n(secθ + 1)(secθ − 1) = tan²θ\n(ii) [[cosθ/sinθ]] − [[cosecθ/cosθ]] = cotθ − [[1/(sinθ cosθ)]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = [[(cos²θ − 1)/(sinθ cosθ)]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = [[−sin²θ/(sinθ cosθ)]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = [[−sinθ/cosθ]]\n[[cosθ/sinθ]] − [[cosecθ/cosθ]] = −tanθ\n(iii) cosecθ + cotθ = [[1/sinθ]] + [[cosθ/sinθ]]\ncosecθ + cotθ = [[(1 + cosθ)/sinθ]]"
               }
             ]
           },
@@ -29823,7 +29823,7 @@ var STUDY = {
             "items": [
               {
                 "q": "1. 102 ميٽر اوچائي واري روشني جي مينار جي چوٽي کان، هڪ جھاز جي هينئين واري ڪنڊ 18°30′ آهي. جھاز روشني جي مينار کان ڪيترو پري آهي.",
-                "a": "AB = 102 m\nBC = x\ntan(18°30′) = [[AB/BC]] = [[102/x]]\n18°30′ = 18.5°\ntan(18.5°) ≈ 0.3346\n0.3346 = [[102/x]]\nx = [[102/0.3346]] ≈ 304.85 m",
+                "a": "AB = 102 m\nBC = x\ntan(18°30′) = [[AB/BC]]\ntan(18°30′) = [[102/x]]\n18°30′ = 18.5°\ntan(18.5°) ≈ 0.3346\n0.3346 = [[102/x]]\nx = [[102/0.3346]] ≈ 304.85 m",
                 "da": {
                   "els": [
                     {
@@ -29906,7 +29906,7 @@ var STUDY = {
               },
               {
                 "q": "2. هڪ ڏاڪڻ، زمين سان 60° جي ڪنڊ ٺاھي ٿي ۽ ڀت تي 6m جي اوچائي تائين پھچي ٿي. ڏاڪڻ جي ڊيگھ لھو.",
-                "a": "sin60° = [[opposite/hypotenuse]] = [[6/L]]\nsin60° = [[√3/2]]\n[[√3/2]] = [[6/L]]\nL = 6 × [[2/√3]] = [[12/√3]] = 4√3 m ≈ 6.93 m",
+                "a": "sin60° = [[opposite/hypotenuse]]\nsin60° = [[6/L]]\nsin60° = [[√3/2]]\n[[√3/2]] = [[6/L]]\nL = 6 × [[2/√3]]\nL = [[12/√3]]\nL = 4√3 m ≈ 6.93 m",
                 "da": {
                   "els": [
                     {
@@ -29978,7 +29978,7 @@ var STUDY = {
               },
               {
                 "q": "3. اوچائي واري ڪنڊ لھو جيڪڏهن 6m اوچائي وارو بانس 2√3m جي ڊيگھ وارو پاڇو ٺاھي ٿو.",
-                "a": "tanθ = [[6/(2√3)]] = [[3/√3]] = √3\ntan60° = √3\nθ = 60°",
+                "a": "tanθ = [[6/(2√3)]]\ntanθ = [[3/√3]]\ntanθ = √3\ntan60° = √3\nθ = 60°",
                 "da": {
                   "els": [
                     {
@@ -30056,7 +30056,7 @@ var STUDY = {
               },
               {
                 "q": "4. اپي ٽڪر جي چوٽي جي اوچائي واري ڪنڊ 30° آهي. هڪ ٽيٻڪي کان اپي ٽڪر ڏانھن 210 ميٽر جو پند ڪندي، اوچائي واري ڪنڊ 45° ٿي. اپي ٽڪر جي اوچائي لھو.",
-                "a": "h = height of cliff\nx = distance of first point\ntan30° = [[h/x]]\nh = x tan30° = [[x/√3]]\ntan45° = [[h/(x − 210)]]\nh = x − 210\nx − 210 = [[x/√3]]\nx(1 − [[1/√3]]) = 210\nx = 210 ÷ (1 − [[1/√3]]) ≈ 496.87 m\nh = x − 210 ≈ 286.87 m",
+                "a": "h = height of cliff\nx = distance of first point\ntan30° = [[h/x]]\nh = x tan30°\nh = [[x/√3]]\ntan45° = [[h/(x − 210)]]\nh = x − 210\nx − 210 = [[x/√3]]\nx(1 − [[1/√3]]) = 210\nx = 210 ÷ (1 − [[1/√3]]) ≈ 496.87 m\nh = x − 210 ≈ 286.87 m",
                 "da": {
                   "els": [
                     {
@@ -30239,35 +30239,35 @@ var STUDY = {
               },
               {
                 "q": "3. 70° 30′ 90″ کي ريڊيانن ۾ بدلايو.",
-                "a": "90″ = [[90/60]] = 1.5′\n70°30′90″ = 70°31.5′ = 70° + ([[31.5/60]])° = 70° + 0.525° = 70.525°\nradians = degrees × ([[π/180]]) = 70.525 × ([[π/180]]) = [[2821π/7200]] radians ≈ 1.23 radians"
+                "a": "90″ = [[90/60]]\n90″ = 1.5′\n70°30′90″ = 70°31.5′\n70°30′90″ = 70° + ([[31.5/60]])°\n70°30′90″ = 70° + 0.525°\n70°30′90″ = 70.525°\nradians = degrees × ([[π/180]])\nradians = 70.525 × ([[π/180]])\nradians = [[2821π/7200]] radians ≈ 1.23 radians"
               },
               {
                 "q": "4. (7200)′ ۾ ڪيتريون ڊگريون موجود آهن.",
-                "a": "1° = 60′\n(7200)′ = [[7200/60]] degrees = 120°"
+                "a": "1° = 60′\n(7200)′ = [[7200/60]] degrees\n(7200)′ = 120°"
               },
               {
                 "q": "5. ريڊيان واري ماپ کي ڊگري ۾ بدلايو [[2π/3]]",
-                "a": "π radians = 180°\n[[2π/3]] radians = ([[2π/3]]) × ([[180/π]])° = [[(2 × 180°)/3]] = 120°"
+                "a": "π radians = 180°\n[[2π/3]] radians = ([[2π/3]]) × ([[180/π]])°\n[[2π/3]] radians = [[(2 × 180°)/3]]\n[[2π/3]] radians = 120°"
               },
               {
                 "q": "6. ريڊيان کي D°M′S″ جي صورت ۾ لکو: [[3/π]]",
-                "a": "[[3/π]] radians = ([[3/π]]) × ([[180/π]])° = [[540°/π²]] ≈ 54.7134°\n0.7134° × 60 = 42.81′\n0.81′ × 60 ≈ 48″\n[[3/π]] radians ≈ 54°42′48″"
+                "a": "[[3/π]] radians = ([[3/π]]) × ([[180/π]])°\n[[3/π]] radians = [[540°/π²]] ≈ 54.7134°\n0.7134° × 60 = 42.81′\n0.81′ × 60 ≈ 48″\n[[3/π]] radians ≈ 54°42′48″"
               },
               {
                 "q": "7. r جي قيمت لھو. جيڪڏهن l = 7cm ۽ θ = [[π/4]] ريڊيان",
-                "a": "r = [[l/θ]]\nr = 7 ÷ ([[π/4]]) = [[28/π]] cm ≈ 8.91 cm"
+                "a": "r = [[l/θ]]\nr = 7 ÷ ([[π/4]])\nr = [[28/π]] cm ≈ 8.91 cm"
               },
               {
                 "q": "8. θ جي قيمت لھو جيڪڏهن هڪ قوس جي ڊيگھ ۽ گول جو رداس پاڻ ۾ برابر ھجن.",
-                "a": "θ = [[l/r]]\nl = r\nθ = [[r/r]] = 1 radian"
+                "a": "θ = [[l/r]]\nl = r\nθ = [[r/r]]\nθ = 1 radian"
               },
               {
                 "q": "9. ثابت ڪريو ته (1 − cos²θ)(1 + cot²θ) = 1",
-                "a": "L.H.S. = (1 − cos²θ)(1 + cot²θ)\n1 − cos²θ = sin²θ\n1 + cot²θ = cosec²θ = [[1/sin²θ]]\nL.H.S. = sin²θ × ([[1/sin²θ]]) = 1 = R.H.S."
+                "a": "L.H.S. = (1 − cos²θ)(1 + cot²θ)\n1 − cos²θ = sin²θ\n1 + cot²θ = cosec²θ\n1 + cot²θ = [[1/sin²θ]]\nL.H.S. = sin²θ × ([[1/sin²θ]])\nL.H.S. = 1\nL.H.S. = R.H.S."
               },
               {
                 "q": "10. گول جي سيڪٽر جي ايراضي لھو جيڪڏهن r = 2cm ۽ θ = 3 ريڊيان",
-                "a": "area = ([[1/2]]) r²θ = ([[1/2]]) × (2)² × 3 = ([[1/2]]) × 4 × 3 = 6 cm²",
+                "a": "area = ([[1/2]]) r²θ\narea = ([[1/2]]) × (2)² × 3\narea = ([[1/2]]) × 4 × 3\narea = 6 cm²",
                 "da": {
                   "els": [
                     {
@@ -64110,7 +64110,7 @@ var STUDY = {
               },
               {
                 "q": "Verify the relationship between HCF and LCM. i.e. (HCF×LCM = p(x)q(x)) for the polynomial p(x) = x^2-8x-20 and q(x) = x^2-15x+50",
-                "a": "p(x) = x^2-8x-20 = (x-10)(x+2)\nq(x) = x^2-15x+50 = (x-10)(x-5)\nHCF = (x-10)\nLCM = (x-10)(x+2)(x-5)\nHCF × LCM = (x-10)^2(x+2)(x-5)\np(x) × q(x) = (x-10)(x+2)(x-10)(x-5)\nHCF × LCM = p(x) × q(x)"
+                "a": "p(x) = x^2-8x-20\np(x) = (x-10)(x+2)\nq(x) = x^2-15x+50\nq(x) = (x-10)(x-5)\nHCF = (x-10)\nLCM = (x-10)(x+2)(x-5)\nHCF × LCM = (x-10)^2(x+2)(x-5)\np(x) × q(x) = (x-10)(x+2)(x-10)(x-5)\nHCF × LCM = p(x) × q(x)"
               },
               {
                 "q": "A carpenter got some free wooden planks. Some are 12cm long and some are 18cm. He wants to cut them so that he has equal size planks to make using them easier. What size planks should he cut them into to avoid wasting any wood?",
@@ -72701,7 +72701,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "(i) DE = 5 cm\n∠D = 45°\n∠E = 60°\n∠F = 180° − 45° − 60° = 75°\n(ii) LM = 6 cm\n∠L = 75°\n∠M = 45°\n∠N = 180° − 75° − 45° = 60°\n(iii) BC = 5.8 cm\n∠B = 45°\n∠A = 30°\n∠C = 180° − 30° − 45° = 105°",
+                "a": "(i) DE = 5 cm\n∠D = 45°\n∠E = 60°\n∠F = 180° − 45° − 60°\n∠F = 75°\n(ii) LM = 6 cm\n∠L = 75°\n∠M = 45°\n∠N = 180° − 75° − 45°\n∠N = 60°\n(iii) BC = 5.8 cm\n∠B = 45°\n∠A = 30°\n∠C = 180° − 30° − 45°\n∠C = 105°",
                 "q": "6. Construct the △DEF, △LMN and △ABC in the following.\n(i) mDE = 5cm, m∠D = 45° and, m∠E = 60°\n(ii) mLM = 6cm, m∠L = 75° and, m∠M = 45°\n(iii) mBC = 5.8cm, m∠A = 30° and, m∠B = 45°",
                 "da": {
                   "type": "draw",
@@ -73487,7 +73487,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "TU = 7 cm\n∠T = 60°\n∠U = 30°\n∠S = 180° − 60° − 30° = 90°\n△STU\nPQ: right bisector of ST\nRS: right bisector of TU\nXY: right bisector of SU\nPQ ∩ RS ∩ XY = O\nO = mid-point of TU\nO = circum-centre\nPQ, RS, XY: concurrent",
+                "a": "TU = 7 cm\n∠T = 60°\n∠U = 30°\n∠S = 180° − 60° − 30°\n∠S = 90°\n△STU\nPQ: right bisector of ST\nRS: right bisector of TU\nXY: right bisector of SU\nPQ ∩ RS ∩ XY = O\nO = mid-point of TU\nO = circum-centre\nPQ, RS, XY: concurrent",
                 "q": "6. Construct a triangle STU in which ∠T = 60°, ∠U = 30° and mTU = 7 cm. Find the perpendicular bisectors of the sides of triangle and prove that they are concurrent.",
                 "da": {
                   "type": "draw",
@@ -73596,7 +73596,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "CB = 5 cm\n∠C = 90°\n∠B = 45°\n∠A = 180° − 90° − 45° = 45°\n△ABC\nD, E, F: mid-points of BC, CA, AB\nAD, BE, CF\nAD, BE, CF: medians",
+                "a": "CB = 5 cm\n∠C = 90°\n∠B = 45°\n∠A = 180° − 90° − 45°\n∠A = 45°\n△ABC\nD, E, F: mid-points of BC, CA, AB\nAD, BE, CF\nAD, BE, CF: medians",
                 "q": "7. Construct a right triangle ABC in which ∠C = 90°, ∠B = 45° and mCB = 5 cm. Draw the medians of the triangle.",
                 "da": {
                   "type": "draw",
@@ -73681,7 +73681,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "(i) YZ = 4.4 cm\n∠Y = 45°\n∠Z = 75°\n∠X = 180° − 45° − 75° = 60°\n△XYZ\n(ii) XY = 4.6 cm\nXZ = 4.6 cm\n∠Y = 60°\n∠Z = 60°\n∠X = 180° − 60° − 60° = 60°\n△XYZ\nD, E, F: mid-points of YZ, ZX, XY\nXD, YE, ZF\nXD ∩ YE ∩ ZF = G\nXD, YE, ZF: concurrent",
+                "a": "(i) YZ = 4.4 cm\n∠Y = 45°\n∠Z = 75°\n∠X = 180° − 45° − 75°\n∠X = 60°\n△XYZ\n(ii) XY = 4.6 cm\nXZ = 4.6 cm\n∠Y = 60°\n∠Z = 60°\n∠X = 180° − 60° − 60°\n∠X = 60°\n△XYZ\nD, E, F: mid-points of YZ, ZX, XY\nXD, YE, ZF\nXD ∩ YE ∩ ZF = G\nXD, YE, ZF: concurrent",
                 "q": "8. Construct the following △XYZ. Draw their three medians and show that they are concurrent.\n(i) mYZ=4.4cm, m∠Y = 45° and m∠Z = 75°\n(ii) mXY=4.6cm, mXZ = 4.6cm and m∠Y = 60°",
                 "da": {
                   "type": "draw",
@@ -74039,7 +74039,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "ABCD: rectangle, AD = 5 cm, CD = 2.5 cm\narea ABCD = 5 × 2.5 = 12.5 cm²\nAD produced to E, DE = CD = 2.5 cm\nAE = 7.5 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE = 5 × 2.5 = 12.5\nDF = √12.5 cm\nDFQP: square on DF\narea DFQP = 12.5 cm² = area ABCD",
+                "a": "ABCD: rectangle, AD = 5 cm, CD = 2.5 cm\narea ABCD = 5 × 2.5\narea ABCD = 12.5 cm²\nAD produced to E, DE = CD = 2.5 cm\nAE = 7.5 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE\nDF² = 5 × 2.5\nDF² = 12.5\nDF = √12.5 cm\nDFQP: square on DF\narea DFQP = 12.5 cm² = area ABCD",
                 "q": "1. Construct a rectangle whose adjacent sides are 2.5 cm and 5 cm respectively. Construct a square having area equal to the given rectangle.",
                 "da": {
                   "type": "draw",
@@ -74152,7 +74152,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "ABCD: rectangle, AD = 4.5 cm, CD = 2.2 cm\narea ABCD = 4.5 × 2.2 = 9.9 cm²\nAD produced to E, DE = CD = 2.2 cm\nAE = 6.7 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE = 4.5 × 2.2 = 9.9\nDF = √9.9 cm ≈ 3.15 cm\nDFQP: square on DF\narea DFQP = 9.9 cm² = area ABCD\nperimeter DFQP = 4 × 3.15 = 12.6 cm\nperimeter ABCD = 2 × (4.5 + 2.2) = 13.4 cm\n12.6 cm < 13.4 cm",
+                "a": "ABCD: rectangle, AD = 4.5 cm, CD = 2.2 cm\narea ABCD = 4.5 × 2.2\narea ABCD = 9.9 cm²\nAD produced to E, DE = CD = 2.2 cm\nAE = 6.7 cm\nM: mid-point of AE\nsemicircle: centre M, radius AM\nCD produced meets semicircle at F\nDF² = AD × DE\nDF² = 4.5 × 2.2\nDF² = 9.9\nDF = √9.9 cm ≈ 3.15 cm\nDFQP: square on DF\narea DFQP = 9.9 cm² = area ABCD\nperimeter DFQP = 4 × 3.15\nperimeter DFQP = 12.6 cm\nperimeter ABCD = 2 × (4.5 + 2.2)\nperimeter ABCD = 13.4 cm\n12.6 cm < 13.4 cm",
                 "q": "2. Construct a square equal in area to a rectangle whose adjacent sides are 4.5 cm and 2.2 cm respectively. Measure the sides of the square and find its area and compare with the area of the rectangle. Also verify by measurement that the perimeter of the square is less than that of the rectangle.",
                 "da": {
                   "type": "draw",
@@ -74265,7 +74265,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "AB = 4 cm\nAC = 3.6 cm\nBC = 3.8 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD = [[1/2]] × BC × PD = area △ABC",
+                "a": "AB = 4 cm\nAC = 3.6 cm\nBC = 3.8 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD\narea CDPQ = [[1/2]] × BC × PD\narea CDPQ = area △ABC",
                 "q": "3. Construct a triangle having base 4 cm and other two sides equal to 3.6cm and 3.8 cm each. Transform it into a rectangle with equal Area.",
                 "da": {
                   "type": "draw",
@@ -74368,7 +74368,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "AB = 6 cm\nAC = 5 cm\nBC = 6 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD = [[1/2]] × BC × PD = area △ABC",
+                "a": "AB = 6 cm\nAC = 5 cm\nBC = 6 cm\n△ABC\nD: mid-point of BC\nPD: right bisector of BC\nPQ ∥ BC through A\nPQ = DC\nCDPQ: rectangle\narea CDPQ = DC × PD\narea CDPQ = [[1/2]] × BC × PD\narea CDPQ = area △ABC",
                 "q": "4. Construct a triangle having base 6cm and other sides equal to 5cm and 6cm each. Construct a rectangle equal in area to given △.",
                 "da": {
                   "type": "draw",
@@ -74681,7 +74681,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "AB² + BC² = AC²\nAB² = 11² − 7² = 121 − 49 = 72\nAB = √72 = 6√2 cm\narea △ABC = [[1/2]] × 7 × 6√2 = 21√2 cm²\n△ABC = △BCD\narea △BCD = 21√2 cm²",
+                "a": "AB² + BC² = AC²\nAB² = 11² − 7²\nAB² = 121 − 49\nAB² = 72\nAB = √72\nAB = 6√2 cm\narea △ABC = [[1/2]] × 7 × 6√2\narea △ABC = 21√2 cm²\n△ABC = △BCD\narea △BCD = 21√2 cm²",
                 "q": "3. In the given figure BC ∥ AD. ABC is a right-angled at vertex B with mBC = 7 cm and mAC = 11 cm, also △ABC and △BCD are on the same base BC. Find the area of △BCD.",
                 "dq": {
                   "type": "draw",
@@ -75158,7 +75158,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 cm\nmAD = mAC + mCD = 3 + 3 = 6 cm\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 cm\narea △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 3 × 3√3 = [[9√3/2]] cm²\n(ii) mCD = mBC cos(180° − 120°) = 80 × [[1/2]] = 40 mm\nmAD = mAC + mCD = 40 + 40 = 80 mm\nmBD² = mBC² − mCD² = 6400 − 1600 = 4800\nmAB² = mAD² + mBD² = 6400 + 4800 = 11200\nmAB = √11200 = 40√7 mm = 4√7 cm\narea △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 40 × 40√3 = 800√3 mm² = 8√3 cm²",
+                "a": "(i) mCD = mBC cos(180° − 120°)\nmCD = 6 × [[1/2]]\nmCD = 3 cm\nmAD = mAC + mCD\nmAD = 3 + 3\nmAD = 6 cm\nmBD² = mBC² − mCD²\nmBD² = 36 − 9\nmBD² = 27\nmAB² = mAD² + mBD²\nmAB² = 36 + 27\nmAB² = 63\nmAB = √63\nmAB = 3√7 cm\narea △ABC = [[1/2]] × mAC × mBD\narea △ABC = [[1/2]] × 3 × 3√3\narea △ABC = [[9√3/2]] cm²\n(ii) mCD = mBC cos(180° − 120°)\nmCD = 80 × [[1/2]]\nmCD = 40 mm\nmAD = mAC + mCD\nmAD = 40 + 40\nmAD = 80 mm\nmBD² = mBC² − mCD²\nmBD² = 6400 − 1600\nmBD² = 4800\nmAB² = mAD² + mBD²\nmAB² = 6400 + 4800\nmAB² = 11200\nmAB = √11200\nmAB = 40√7 mm\nmAB = 4√7 cm\narea △ABC = [[1/2]] × mAC × mBD\narea △ABC = [[1/2]] × 40 × 40√3\narea △ABC = 800√3 mm²\narea △ABC = 8√3 cm²",
                 "q": "1. Find the length of AB and area of the triangle ABC, when\n(i) mAC = 3cm, mBC = 6 cm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\n(ii) mAC = 40 mm, mBC = 80 mm and m∠C = 120°, where mCD = mBC cos(180° − m∠C)\nHint: (mBC)² = (mAC)² + (mAB)² + 2(mAB)(mAD)",
                 "da": {
                   "type": "draw",
@@ -75242,7 +75242,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "mCD = mBC cos(180° − 135°) = 6 × [[√2/2]] = 3√2 cm\nmBD = mCD = 3√2 cm\nmAD = mAB + mBD = 4√2 + 3√2 = 7√2 cm\nmAC² = mAD² + mCD² = 98 + 18 = 116\nmAC = √116 cm\narea △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 4√2 × 3√2 = 12 cm²",
+                "a": "mCD = mBC cos(180° − 135°)\nmCD = 6 × [[√2/2]]\nmCD = 3√2 cm\nmBD = mCD = 3√2 cm\nmAD = mAB + mBD\nmAD = 4√2 + 3√2\nmAD = 7√2 cm\nmAC² = mAD² + mCD²\nmAC² = 98 + 18\nmAC² = 116\nmAC = √116 cm\narea △ABC = [[1/2]] × mAB × mCD\narea △ABC = [[1/2]] × 4√2 × 3√2\narea △ABC = 12 cm²",
                 "q": "2. Find the length of mAC in the △ABC when mBC = 6cm, mAB = 4√2 cm and m∠ABC = 135°. If possible, find the area of the △ABC.",
                 "da": {
                   "type": "draw",
@@ -75320,7 +75320,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "mCD = mBC cos(180° − 135°) = 6√2 × [[√2/2]] = 6 cm\nmBD = mCD = 6 cm\nmAD = mAB + mBD = 8 + 6 = 14 cm\nmAC² = mAD² + mCD² = 196 + 36 = 232\nmAC = √232 cm\narea △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 8 × 6 = 24 cm²",
+                "a": "mCD = mBC cos(180° − 135°)\nmCD = 6√2 × [[√2/2]]\nmCD = 6 cm\nmBD = mCD = 6 cm\nmAD = mAB + mBD\nmAD = 8 + 6\nmAD = 14 cm\nmAC² = mAD² + mCD²\nmAC² = 196 + 36\nmAC² = 232\nmAC = √232 cm\narea △ABC = [[1/2]] × mAB × mCD\narea △ABC = [[1/2]] × 8 × 6\narea △ABC = 24 cm²",
                 "q": "3. Find the length of mAC in the △ABC when mBC = 6√2 cm, mAB = 8 cm and m∠ABC = 135°. If possible, find the area of the △ABC.",
                 "da": {
                   "type": "draw",
@@ -75403,7 +75403,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "mAD = mAC cos30° = mAC × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAC) × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)",
+                "a": "mAD = mAC cos30°\nmAD = mAC × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAC) × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)",
                 "q": "1. In △ABC, m∠A = 30°, prove that (mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC).",
                 "da": {
                   "type": "draw",
@@ -75468,7 +75468,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "mAD = mAC cos60° = 5 × [[1/2]] = 2.5 cm\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = 25 + 36 − 2 × 6 × 2.5 = 61 − 30 = 31\nmBC = √31 cm",
+                "a": "mAD = mAC cos60°\nmAD = 5 × [[1/2]]\nmAD = 2.5 cm\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = 25 + 36 − 2 × 6 × 2.5\n(mBC)² = 61 − 30\n(mBC)² = 31\nmBC = √31 cm",
                 "q": "2. In a △ABC, calculate mBC when mAB = 6cm, mAC = 5cm, and m∠A = 60°",
                 "da": {
                   "type": "draw",
@@ -75545,7 +75545,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "3² + 4² = 9 + 16 = 25\n5² = 25\n3² + 4² = 5²\nright angled triangle",
+                "a": "3² + 4² = 9 + 16\n3² + 4² = 25\n5² = 25\n3² + 4² = 5²\nright angled triangle",
                 "q": "3. Whether the triangle with sides 3cm, 4cm and 5cm is acute, obtuse or right angled.",
                 "da": {
                   "type": "triangle",
@@ -75577,7 +75577,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "mBD = [[mBC/2]] = 3 cm\n(mAB)² + (mAC)² = 2(mBD)² + 2(mAD)²\n16 + 9 = 2 × 9 + 2(mAD)²\n25 = 18 + 2(mAD)²\n2(mAD)² = 7\n(mAD)² = [[7/2]]\nmAD = √[[7/2]] cm",
+                "a": "mBD = [[mBC/2]]\nmBD = 3 cm\n(mAB)² + (mAC)² = 2(mBD)² + 2(mAD)²\n16 + 9 = 2 × 9 + 2(mAD)²\n25 = 18 + 2(mAD)²\n2(mAD)² = 7\n(mAD)² = [[7/2]]\nmAD = √[[7/2]] cm",
                 "q": "4. Find the length of the median of side BC of a △ABC where mAB = 4cm, mAC = 3cm and mBC = 6cm.",
                 "da": {
                   "type": "draw",
@@ -75663,7 +75663,7 @@ var STUDY = {
                 "q": "1. Fill in the blanks.\n(i) In rt. △ABC, (mAB)² + __________ = (mAC)²,\n(ii) In △ABC, two sides are equal to 4cm it is called __________ triangle.\n(iii) In △ABC, with m∠B = 90° then (mAB)² + (mBC)² = __________\n(iv) 8cm, 15cm and 17 cm are the sides of __________"
               },
               {
-                "a": "mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 cm\nmAD = mAC + mCD = 3 + 3 = 6 cm\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 cm",
+                "a": "mCD = mBC cos(180° − 120°)\nmCD = 6 × [[1/2]]\nmCD = 3 cm\nmAD = mAC + mCD\nmAD = 3 + 3\nmAD = 6 cm\nmBD² = mBC² − mCD²\nmBD² = 36 − 9\nmBD² = 27\nmAB² = mAD² + mBD²\nmAB² = 36 + 27\nmAB² = 63\nmAB = √63\nmAB = 3√7 cm",
                 "q": "2. In △ABC, mAC = 3cm, mBC = 6cm and m∠C = 120°. Compute mAB",
                 "da": {
                   "type": "draw",
@@ -75759,7 +75759,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "(i) d = √((6 − (−4))² + (6 − 5)²) = √(100 + 1) = √101\n(ii) d = √((2 − 2)² + (3 − 2)²) = √(0 + 1) = 1\n(iii) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2\n(iv) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2",
+                "a": "(i) d = √((6 − (−4))² + (6 − 5)²)\nd = √(100 + 1)\nd = √101\n(ii) d = √((2 − 2)² + (3 − 2)²)\nd = √(0 + 1)\nd = 1\n(iii) d = √((2 − 0)² + (3 − 1)²)\nd = √(4 + 4)\nd = √8\nd = 2√2\n(iv) d = √((2 − 0)² + (3 − 1)²)\nd = √(4 + 4)\nd = √8\nd = 2√2",
                 "q": "1. Using distance formula find the distance between the following pairs of points.\n(i) (−4,5) and (6,6) (ii) (2,2) and (2,3)\n(iii) (0,1) and (2,3) (iv) (0,1) and (2,3)",
                 "da": {
                   "type": "points",
@@ -75801,7 +75801,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = √(a² + b²)\n(i) |AB| = √((−3)² + (−4)²) = √(9 + 16) = √25 = 5\n(ii) |AB| = √((−9)² + 6²) = √(81 + 36) = √117\n(iii) |AB| = √(3² + 4²) = √(9 + 16) = √25 = 5\n(iv) |AB| = √((√2)² + (−2√2)²) = √(2 + 8) = √10",
+                "a": "|AB| = √(a² + b²)\n(i) |AB| = √((−3)² + (−4)²)\n|AB| = √(9 + 16)\n|AB| = √25\n|AB| = 5\n(ii) |AB| = √((−9)² + 6²)\n|AB| = √(81 + 36)\n|AB| = √117\n(iii) |AB| = √(3² + 4²)\n|AB| = √(9 + 16)\n|AB| = √25\n|AB| = 5\n(iv) |AB| = √((√2)² + (−2√2)²)\n|AB| = √(2 + 8)\n|AB| = √10",
                 "q": "2. A(a,0) and B(0,b) be the points on the axes, find the distance between A and B, when\n(i) a = −3, b = −4 (ii) a = −9, b = 6\n(iii) a = 3, b = 4 (iv) a = √2, b = −2√2",
                 "da": {
                   "type": "graph",
@@ -75912,7 +75912,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = √((4 − 0)² + (0 − 0)²) = 4\n|BC| = √((2 − 4)² + (2√3 − 0)²) = √(4 + 12) = 4\n|AC| = √((2 − 0)² + (2√3 − 0)²) = √(4 + 12) = 4\nP = 4 + 4 + 4 = 12",
+                "a": "|AB| = √((4 − 0)² + (0 − 0)²)\n|AB| = 4\n|BC| = √((2 − 4)² + (2√3 − 0)²)\n|BC| = √(4 + 12)\n|BC| = 4\n|AC| = √((2 − 0)² + (2√3 − 0)²)\n|AC| = √(4 + 12)\n|AC| = 4\nP = 4 + 4 + 4\nP = 12",
                 "q": "3. Find the perimeter of the triangle formed by the points. A(0,0), B(4,0) and C(2,2√3).",
                 "da": {
                   "type": "graph",
@@ -75990,7 +75990,7 @@ var STUDY = {
           {
             "items": [
               {
-                "a": "|PQ| = √((2 + 3)² + (6 + 4)²) = √(25 + 100) = √125 = 5√5\n|QR| = √((0 − 2)² + (2 − 6)²) = √(4 + 16) = √20 = 2√5\n|PR| = √((0 + 3)² + (2 + 4)²) = √(9 + 36) = √45 = 3√5\n|PR| + |QR| = 3√5 + 2√5 = 5√5 = |PQ|\nP, Q, R: collinear",
+                "a": "|PQ| = √((2 + 3)² + (6 + 4)²)\n|PQ| = √(25 + 100)\n|PQ| = √125\n|PQ| = 5√5\n|QR| = √((0 − 2)² + (2 − 6)²)\n|QR| = √(4 + 16)\n|QR| = √20\n|QR| = 2√5\n|PR| = √((0 + 3)² + (2 + 4)²)\n|PR| = √(9 + 36)\n|PR| = √45\n|PR| = 3√5\n|PR| + |QR| = 3√5 + 2√5\n|PR| + |QR| = 5√5\n|PR| + |QR| = |PQ|\nP, Q, R: collinear",
                 "q": "1. Show that the points P (−3, −4), Q (2, 6) and R (0, 2) are collinear.",
                 "da": {
                   "type": "graph",
@@ -76029,7 +76029,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = 2\n|BC| = √((0 − 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AC| = √((0 + 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AB| + |BC| = 4 ≠ |AC|\n|AB| + |AC| = 4 ≠ |BC|\n|BC| + |AC| = 4 ≠ |AB|\nA, B, C: non-collinear",
+                "a": "|AB| = 2\n|BC| = √((0 − 1)² + (√3 − 0)²)\n|BC| = √(1 + 3)\n|BC| = 2\n|AC| = √((0 + 1)² + (√3 − 0)²)\n|AC| = √(1 + 3)\n|AC| = 2\n|AB| + |BC| = 4 ≠ |AC|\n|AB| + |AC| = 4 ≠ |BC|\n|BC| + |AC| = 4 ≠ |AB|\nA, B, C: non-collinear",
                 "q": "2. Show that the points A (−1, 0), B (1, 0) and C (0, √3) are not collinear.",
                 "da": {
                   "type": "graph",
@@ -76102,7 +76102,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|LM| = √((−1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|MN| = 2\n|LN| = √((1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|LM| = |MN| = |LN| = 2\nL, M, N: equilateral triangle",
+                "a": "|LM| = √((−1 − 0)² + (0 − √3)²)\n|LM| = √(1 + 3)\n|LM| = 2\n|MN| = 2\n|LN| = √((1 − 0)² + (0 − √3)²)\n|LN| = √(1 + 3)\n|LN| = 2\n|LM| = |MN| = |LN| = 2\nL, M, N: equilateral triangle",
                 "q": "3. Show that L (0, √3), M (−1, 0) and N (1, 0) form an equilateral triangle.",
                 "da": {
                   "type": "graph",
@@ -76175,7 +76175,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = √((8 − 2)² + (11 − 3)²) = √(36 + 64) = 10\n|BC| = √((0 − 8)² + (17 − 11)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|AB| = |BC| = 10\nA, B, C: isosceles triangle",
+                "a": "|AB| = √((8 − 2)² + (11 − 3)²)\n|AB| = √(36 + 64)\n|AB| = 10\n|BC| = √((0 − 8)² + (17 − 11)²)\n|BC| = √(64 + 36)\n|BC| = 10\n|AC| = √((0 − 2)² + (17 − 3)²)\n|AC| = √(4 + 196)\n|AC| = √200\n|AC| = 10√2\n|AB| = |BC| = 10\nA, B, C: isosceles triangle",
                 "q": "4. Whether or not the points A (2, 3), B (8, 11) and C (0, 17) form an isosceles triangle.",
                 "da": {
                   "type": "graph",
@@ -76248,7 +76248,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB|² = (7 + 1)² + (5 − 2)² = 64 + 9 = 73\n|BC|² = (2 − 7)² + (−6 − 5)² = 25 + 121 = 146\n|AC|² = (2 + 1)² + (−6 − 2)² = 9 + 64 = 73\n|AB|² + |AC|² = 73 + 73 = 146 = |BC|²\nA, B, C: right angled triangle",
+                "a": "|AB|² = (7 + 1)² + (5 − 2)²\n|AB|² = 64 + 9\n|AB|² = 73\n|BC|² = (2 − 7)² + (−6 − 5)²\n|BC|² = 25 + 121\n|BC|² = 146\n|AC|² = (2 + 1)² + (−6 − 2)²\n|AC|² = 9 + 64\n|AC|² = 73\n|AB|² + |AC|² = 73 + 73\n|AB|² + |AC|² = 146\n|AB|² + |AC|² = |BC|²\nA, B, C: right angled triangle",
                 "q": "5. Do the points A (−1, 2), B (7, 5) and C (2, −6) form a right angled triangle.",
                 "da": {
                   "type": "graph",
@@ -76321,7 +76321,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = 6\n|AC|² = (6 − 3)² + (k − 1)² = 9 + (k − 1)²\n|AC| = 6\n9 + (k − 1)² = 36\n(k − 1)² = 27\nk − 1 = ±3√3\nk = 1 ± 3√3",
+                "a": "|AB| = 6\n|AC|² = (6 − 3)² + (k − 1)²\n|AC|² = 9 + (k − 1)²\n|AC| = 6\n9 + (k − 1)² = 36\n(k − 1)² = 27\nk − 1 = ±3√3\nk = 1 ± 3√3",
                 "q": "6. If the points A (3, 1), B (9, 1) and C (6, k) determine an equilateral triangle, find the values of k.",
                 "da": {
                   "type": "graph",
@@ -76425,7 +76425,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|PQ| = √((3 − 1)² + (4 − 2)²) = √(4 + 4) = √8 = 2√2\n|QR| = √((0 − 3)² + (−1 − 4)²) = √(9 + 25) = √34\n|PR| = √((0 − 1)² + (−1 − 2)²) = √(1 + 9) = √10\n|PQ| ≠ |QR| ≠ |PR|\nP, Q, R: scalene triangle",
+                "a": "|PQ| = √((3 − 1)² + (4 − 2)²)\n|PQ| = √(4 + 4)\n|PQ| = √8\n|PQ| = 2√2\n|QR| = √((0 − 3)² + (−1 − 4)²)\n|QR| = √(9 + 25)\n|QR| = √34\n|PR| = √((0 − 1)² + (−1 − 2)²)\n|PR| = √(1 + 9)\n|PR| = √10\n|PQ| ≠ |QR| ≠ |PR|\nP, Q, R: scalene triangle",
                 "q": "7. Show that the points P (1, 2), Q (3, 4) and R (0, −1) are the vertices of a scalene triangle.",
                 "da": {
                   "type": "graph",
@@ -76498,7 +76498,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = 10\n|BC| = 10\n|CD| = √((−6 − 0)² + (9 − 17)²) = √(36 + 64) = 10\n|DA| = √((2 + 6)² + (3 − 9)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|BD| = √((−6 − 8)² + (9 − 11)²) = √(196 + 4) = √200 = 10√2\n|AB| = |BC| = |CD| = |DA| = 10\n|AC| = |BD| = 10√2\nA, B, C, D: square",
+                "a": "|AB| = 10\n|BC| = 10\n|CD| = √((−6 − 0)² + (9 − 17)²)\n|CD| = √(36 + 64)\n|CD| = 10\n|DA| = √((2 + 6)² + (3 − 9)²)\n|DA| = √(64 + 36)\n|DA| = 10\n|AC| = √((0 − 2)² + (17 − 3)²)\n|AC| = √(4 + 196)\n|AC| = √200\n|AC| = 10√2\n|BD| = √((−6 − 8)² + (9 − 11)²)\n|BD| = √(196 + 4)\n|BD| = √200\n|BD| = 10√2\n|AB| = |BC| = |CD| = |DA| = 10\n|AC| = |BD| = 10√2\nA, B, C, D: square",
                 "q": "8. Show that the points A (2, 3), B (8, 11), C (0, 17) and D (−6, 9) are vertices of a square.",
                 "da": {
                   "type": "graph",
@@ -76589,7 +76589,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = √((0 + 2)² + (−3 − 0)²) = √(4 + 9) = √13\n|BC| = √((2 − 0)² + (0 + 3)²) = √(4 + 9) = √13\n|CD| = √((0 − 2)² + (3 − 0)²) = √(4 + 9) = √13\n|DA| = √((−2 − 0)² + (0 − 3)²) = √(4 + 9) = √13\n|AC| = 4\n|BD| = 6\n|AC| ≠ |BD|\nA, B, C, D: rhombus, not a square",
+                "a": "|AB| = √((0 + 2)² + (−3 − 0)²)\n|AB| = √(4 + 9)\n|AB| = √13\n|BC| = √((2 − 0)² + (0 + 3)²)\n|BC| = √(4 + 9)\n|BC| = √13\n|CD| = √((0 − 2)² + (3 − 0)²)\n|CD| = √(4 + 9)\n|CD| = √13\n|DA| = √((−2 − 0)² + (0 − 3)²)\n|DA| = √(4 + 9)\n|DA| = √13\n|AC| = 4\n|BD| = 6\n|AC| ≠ |BD|\nA, B, C, D: rhombus, not a square",
                 "q": "9. Explain why the points A (−2, 0), B (0, −3), C (2, 0) and D (0, 3) do determine a square?",
                 "da": {
                   "type": "graph",
@@ -76680,7 +76680,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|AB| = √((4 − 3)² + (1 − 2)²) = √(1 + 1) = √2\n|BC| = √((5 − 4)² + (4 − 1)²) = √(1 + 9) = √10\n|CD| = √((6 − 5)² + (3 − 4)²) = √(1 + 1) = √2\n|DA| = √((3 − 6)² + (2 − 3)²) = √(9 + 1) = √10\n|AC| = √((5 − 3)² + (4 − 2)²) = √(4 + 4) = 2√2\n|BD| = √((6 − 4)² + (3 − 1)²) = √(4 + 4) = 2√2\n|AB| = |CD| = √2\n|BC| = |DA| = √10\n|AC| = |BD| = 2√2\nA, B, C, D: rectangle",
+                "a": "|AB| = √((4 − 3)² + (1 − 2)²)\n|AB| = √(1 + 1)\n|AB| = √2\n|BC| = √((5 − 4)² + (4 − 1)²)\n|BC| = √(1 + 9)\n|BC| = √10\n|CD| = √((6 − 5)² + (3 − 4)²)\n|CD| = √(1 + 1)\n|CD| = √2\n|DA| = √((3 − 6)² + (2 − 3)²)\n|DA| = √(9 + 1)\n|DA| = √10\n|AC| = √((5 − 3)² + (4 − 2)²)\n|AC| = √(4 + 4)\n|AC| = 2√2\n|BD| = √((6 − 4)² + (3 − 1)²)\n|BD| = √(4 + 4)\n|BD| = 2√2\n|AB| = |CD| = √2\n|BC| = |DA| = √10\n|AC| = |BD| = 2√2\nA, B, C, D: rectangle",
                 "q": "10. Show that the points A (3, 2), B (4, 1), C (5, 4) and D (6, 3) are the vertices of a rectangle.",
                 "da": {
                   "type": "graph",
@@ -76771,7 +76771,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "|OA| = 3\n|AB| = √((5 − 3)² + (2 − 0)²) = √(4 + 4) = 2√2\n|BC| = √((2 − 5)² + (2 − 2)²) = 3\n|CO| = √((0 − 2)² + (0 − 2)²) = √(4 + 4) = 2√2\n|OA| = |BC| = 3\n|AB| = |CO| = 2√2\nO, A, B, C: parallelogram",
+                "a": "|OA| = 3\n|AB| = √((5 − 3)² + (2 − 0)²)\n|AB| = √(4 + 4)\n|AB| = 2√2\n|BC| = √((2 − 5)² + (2 − 2)²)\n|BC| = 3\n|CO| = √((0 − 2)² + (0 − 2)²)\n|CO| = √(4 + 4)\n|CO| = 2√2\n|OA| = |BC| = 3\n|AB| = |CO| = 2√2\nO, A, B, C: parallelogram",
                 "q": "11. Use distance formula to show that the points O (0, 0), A (3, 0), B (5, 2) and C (2, 2) form the vertices of a parallelogram.",
                 "da": {
                   "type": "graph",
@@ -77078,7 +77078,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "centre = mid-point of AB\n([[(−3+11)/2]], [[(4+6)/2]]) = (4, 5)\n|AB| = √((11 + 3)² + (6 − 4)²) = √(196 + 4) = √200 = 10√2\nradius = [[(10√2)/2]] = 5√2",
+                "a": "centre = mid-point of AB\n([[(−3+11)/2]], [[(4+6)/2]]) = (4, 5)\n|AB| = √((11 + 3)² + (6 − 4)²)\n|AB| = √(196 + 4)\n|AB| = √200\n|AB| = 10√2\nradius = [[(10√2)/2]]\nradius = 5√2",
                 "q": "4. A circle has a diameter between the points A (−3, 4) and B (11, 6). Find the centre and radius of the circle.",
                 "da": {
                   "type": "circle",
@@ -77105,7 +77105,7 @@ var STUDY = {
                 }
               },
               {
-                "a": "a = BC, b = CA, c = AB\nm_a² = [[(2b² + 2c² − a²)/4]]\nm_b² = [[(2a² + 2c² − b²)/4]]\nm_a = m_b ⇒ 2b² + 2c² − a² = 2a² + 2c² − b² ⇒ 3b² = 3a² ⇒ b = a\na = b ⇒ m_a = m_b",
+                "a": "a = BC, b = CA, c = AB\nm_a² = [[(2b² + 2c² − a²)/4]]\nm_b² = [[(2a² + 2c² − b²)/4]]\nm_a = m_b\n⇒ 2b² + 2c² − a² = 2a² + 2c² − b²\n⇒ 3b² = 3a²\n⇒ b = a\na = b ⇒ m_a = m_b",
                 "q": "5. Prove that a triangle is an isosceles triangle if and only if it has two equal medians.",
                 "da": {
                   "type": "draw",
@@ -78195,7 +78195,7 @@ var STUDY = {
               },
               {
                 "q": "ع.ع.پ ۽ ن.ع.پ جي وچ ۾ تعلق جي تصديق ڪريو.\n(HCF×LCM = p(x)q(x))، جيڪڏهن p(x) = x^2 − 8x − 20 ۽ q(x) = x^2 − 15x + 50 آهي.",
-                "a": "p(x) = x^2-8x-20 = (x-10)(x+2)\nq(x) = x^2-15x+50 = (x-10)(x-5)\nHCF = (x-10)\nLCM = (x-10)(x+2)(x-5)\nHCF × LCM = (x-10)^2(x+2)(x-5)\np(x) × q(x) = (x-10)(x+2)(x-10)(x-5)\nHCF × LCM = p(x) × q(x)"
+                "a": "p(x) = x^2-8x-20\np(x) = (x-10)(x+2)\nq(x) = x^2-15x+50\nq(x) = (x-10)(x-5)\nHCF = (x-10)\nLCM = (x-10)(x+2)(x-5)\nHCF × LCM = (x-10)^2(x+2)(x-5)\np(x) × q(x) = (x-10)(x+2)(x-10)(x-5)\nHCF × LCM = p(x) × q(x)"
               },
               {
                 "q": "هڪ واڍي ڪان جا ڪجهه تختا ورتا، جن مان ڪجهه 12 س م ۽ ڪجهه 18 س م ڊگها آهن. هو انهن کي اهڙي طرح ڪٽڻ چاهي ٿو ته جيئن هن وٽ آساني سان استعمال ڪرڻ جي لاءِ هڪجيتري ماپ وارا تختا هجن. ڪاٺ جو ضايع ڪرڻ کان سواءِ هن کي ڪيتري ماپ جا تختا ڪٽڻ گهرجن",
@@ -86723,7 +86723,7 @@ var STUDY = {
               },
               {
                 "q": "هيٺيان تڪنڊا △DEF، △LMN ۽ △ABC ٺاهيو.\n(i) mDE = 5 س.م، m∠D = 45°، m∠E = 60°\n(ii) mLM = 6 س.م، m∠L = 75°، m∠M = 45°\n(iii) mBC = 5.8 س.م، m∠A = 30°، m∠B = 45°",
-                "a": "(i) DE = 5 س.م\n∠D = 45°\n∠E = 60°\n∠F = 180° − 45° − 60° = 75°\n(ii) LM = 6 س.م\n∠L = 75°\n∠M = 45°\n∠N = 180° − 75° − 45° = 60°\n(iii) BC = 5.8 س.م\n∠B = 45°\n∠A = 30°\n∠C = 180° − 30° − 45° = 105°",
+                "a": "(i) DE = 5 س.م\n∠D = 45°\n∠E = 60°\n∠F = 180° − 45° − 60°\n∠F = 75°\n(ii) LM = 6 س.م\n∠L = 75°\n∠M = 45°\n∠N = 180° − 75° − 45°\n∠N = 60°\n(iii) BC = 5.8 س.م\n∠B = 45°\n∠A = 30°\n∠C = 180° − 30° − 45°\n∠C = 105°",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -87509,7 +87509,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊو STU ٺاهيو جنهن ۾ mTU = 7 س.م، ∠T = 60°، ∠U = 30° ۽ تڪنڊي جي پاسن جا عمودي اڏ ڪندڙ ٺاهيو ۽ ثابت ڪريو ته اهي ساڳي ٽپڪي تي ملن ٿا.",
-                "a": "TU = 7 س.م\n∠T = 60°\n∠U = 30°\n∠S = 180° − 60° − 30° = 90°\n△STU\nPQ: ST جو عمودي اڏ ڪندڙ\nRS: TU جو عمودي اڏ ڪندڙ\nXY: SU جو عمودي اڏ ڪندڙ\nPQ ∩ RS ∩ XY = O\nO، TU جو وچ وارو ٽپڪو آهي\nO = احاطي جو مرڪز\nPQ، RS، XY: هم ٽپڪي تي ملن ٿا",
+                "a": "TU = 7 س.م\n∠T = 60°\n∠U = 30°\n∠S = 180° − 60° − 30°\n∠S = 90°\n△STU\nPQ: ST جو عمودي اڏ ڪندڙ\nRS: TU جو عمودي اڏ ڪندڙ\nXY: SU جو عمودي اڏ ڪندڙ\nPQ ∩ RS ∩ XY = O\nO، TU جو وچ وارو ٽپڪو آهي\nO = احاطي جو مرڪز\nPQ، RS، XY: هم ٽپڪي تي ملن ٿا",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -87618,7 +87618,7 @@ var STUDY = {
               },
               {
                 "q": "گوني ڪنڊ تڪنڊو ٺاهيو جنهن ۾ ∠B = 45°، ∠C = 90°، mCB = 5 س.م ۽ ان جا ميديان ٺاهيو.",
-                "a": "CB = 5 س.م\n∠C = 90°\n∠B = 45°\n∠A = 180° − 90° − 45° = 45°\n△ABC\nD، E، F: BC، CA، AB جا وچيان ٽپڪا آهن\nAD، BE، CF\nAD، BE، CF: ميديان آهن",
+                "a": "CB = 5 س.م\n∠C = 90°\n∠B = 45°\n∠A = 180° − 90° − 45°\n∠A = 45°\n△ABC\nD، E، F: BC، CA، AB جا وچيان ٽپڪا آهن\nAD، BE، CF\nAD، BE، CF: ميديان آهن",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -87703,7 +87703,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊو △XYZ ٺاهيو، ان جا ٽيئي ميديان ٺاهيو ۽ ثابت ڪريو ته اهي هڪ ٽپڪي تي ملن ٿا.\n(i) mYZ = 4.4 س.م، m∠Y = 45°، m∠Z = 75°\n(ii) mXY = 4.6 س.م، mXZ = 4.6 س.م، m∠Y = 60°",
-                "a": "(i) YZ = 4.4 س.م\n∠Y = 45°\n∠Z = 75°\n∠X = 180° − 45° − 75° = 60°\n△XYZ\n(ii) XY = 4.6 س.م\nXZ = 4.6 س.م\n∠Y = 60°\n∠Z = 60°\n∠X = 180° − 60° − 60° = 60°\n△XYZ\nD، E، F: YZ، ZX، XY جا وچيان ٽپڪا آهن\nXD، YE، ZF\nXD ∩ YE ∩ ZF = G\nXD، YE، ZF: هم ٽپڪي تي ملن ٿا",
+                "a": "(i) YZ = 4.4 س.م\n∠Y = 45°\n∠Z = 75°\n∠X = 180° − 45° − 75°\n∠X = 60°\n△XYZ\n(ii) XY = 4.6 س.م\nXZ = 4.6 س.م\n∠Y = 60°\n∠Z = 60°\n∠X = 180° − 60° − 60°\n∠X = 60°\n△XYZ\nD، E، F: YZ، ZX، XY جا وچيان ٽپڪا آهن\nXD، YE، ZF\nXD ∩ YE ∩ ZF = G\nXD، YE، ZF: هم ٽپڪي تي ملن ٿا",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -87958,7 +87958,7 @@ var STUDY = {
             "items": [
               {
                 "q": "هڪ مستطيل ٺاهيو جنهن جو ڀر وارا پاسا ترتيبوار 2.5 س.م ۽ 5 س.م آهن. هڪ چورس ٺاهيو جنهن جي ايراضي ڏنل مستطيل جي برابر آهي.",
-                "a": "ABCD: مستطيل، AD = 5 س.م، CD = 2.5 س.م\nايراضي ABCD = 5 × 2.5 = 12.5 س.م²\nAD کي E تائين وڌايو، DE = CD = 2.5 س.م\nAE = 7.5 س.م\nM: AE جو وچ وارو ٽپڪو آهي\nاڌ گول: مرڪز M، رداس AM\nCD کي وڌايو، اڌ گول کي F تي ملي ٿو\nDF² = AD × DE = 5 × 2.5 = 12.5\nDF = √12.5 س.م\nDFQP: DF تي چورس\nايراضي DFQP = 12.5 س.م² = ايراضي ABCD",
+                "a": "ABCD: مستطيل، AD = 5 س.م، CD = 2.5 س.م\nايراضي ABCD = 5 × 2.5\nايراضي ABCD = 12.5 س.م²\nAD کي E تائين وڌايو، DE = CD = 2.5 س.م\nAE = 7.5 س.م\nM: AE جو وچ وارو ٽپڪو آهي\nاڌ گول: مرڪز M، رداس AM\nCD کي وڌايو، اڌ گول کي F تي ملي ٿو\nDF² = AD × DE\nDF² = 5 × 2.5\nDF² = 12.5\nDF = √12.5 س.م\nDFQP: DF تي چورس\nايراضي DFQP = 12.5 س.م² = ايراضي ABCD",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -88071,7 +88071,7 @@ var STUDY = {
               },
               {
                 "q": "مستطيل جي ايراضي جي برابر چورس ٺاهيو جنهن جا ڀر وارا پاسا ترتيبوار 4.5 س.م ۽ 2.2 س.م آهن، چورس جي پاسن جي ماپ ڪريو ۽ ان جي ايراضي معلوم ڪريو مستطيل جي ايراضي سان ڀيٽ ڪريو ۽ چڪاس ڪريو چورس جو گهيرا مستطيل جي گهيري کان ماپ ۾ گھٽ آهي.",
-                "a": "ABCD: مستطيل، AD = 4.5 س.م، CD = 2.2 س.م\nايراضي ABCD = 4.5 × 2.2 = 9.9 س.م²\nAD کي E تائين وڌايو، DE = CD = 2.2 س.م\nAE = 6.7 س.م\nM: AE جو وچ وارو ٽپڪو آهي\nاڌ گول: مرڪز M، رداس AM\nCD کي وڌايو، اڌ گول کي F تي ملي ٿو\nDF² = AD × DE = 4.5 × 2.2 = 9.9\nDF = √9.9 س.م ≈ 3.15 س.م\nDFQP: DF تي چورس\nايراضي DFQP = 9.9 س.م² = ايراضي ABCD\nگهيرا DFQP = 4 × 3.15 = 12.6 س.م\nگهيرا ABCD = 2 × (4.5 + 2.2) = 13.4 س.م\n12.6 س.م < 13.4 س.م",
+                "a": "ABCD: مستطيل، AD = 4.5 س.م، CD = 2.2 س.م\nايراضي ABCD = 4.5 × 2.2\nايراضي ABCD = 9.9 س.م²\nAD کي E تائين وڌايو، DE = CD = 2.2 س.م\nAE = 6.7 س.م\nM: AE جو وچ وارو ٽپڪو آهي\nاڌ گول: مرڪز M، رداس AM\nCD کي وڌايو، اڌ گول کي F تي ملي ٿو\nDF² = AD × DE\nDF² = 4.5 × 2.2\nDF² = 9.9\nDF = √9.9 س.م ≈ 3.15 س.م\nDFQP: DF تي چورس\nايراضي DFQP = 9.9 س.م² = ايراضي ABCD\nگهيرا DFQP = 4 × 3.15\nگهيرا DFQP = 12.6 س.م\nگهيرا ABCD = 2 × (4.5 + 2.2)\nگهيرا ABCD = 13.4 س.م\n12.6 س.م < 13.4 س.م",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -88184,7 +88184,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊو ٺاهيو، جنهن جو بنياد 4 س.م ۽ ٻيا ٻه پاسا هر هڪ 3.6 س.م ۽ 3.8 س.م آهن ان کي برابر ايراضي سان مستطيل ۾ تبديل ڪريو.",
-                "a": "AB = 4 س.م\nAC = 3.6 س.م\nBC = 3.8 س.م\n△ABC\nD: BC جو وچ وارو ٽپڪو آهي\nPD: BC جو عمودي اڏ ڪندڙ\nPQ ∥ BC، A مان\nPQ = DC\nCDPQ: مستطيل\nايراضي CDPQ = DC × PD = [[1/2]] × BC × PD = ايراضي △ABC",
+                "a": "AB = 4 س.م\nAC = 3.6 س.م\nBC = 3.8 س.م\n△ABC\nD: BC جو وچ وارو ٽپڪو آهي\nPD: BC جو عمودي اڏ ڪندڙ\nPQ ∥ BC، A مان\nPQ = DC\nCDPQ: مستطيل\nايراضي CDPQ = DC × PD\nايراضي CDPQ = [[1/2]] × BC × PD\nايراضي CDPQ = ايراضي △ABC",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -88287,7 +88287,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊو ٺاهيو جنهن جو بنياد، 6 س.م ۽ ٻيا ٻه پاسا هر هڪ 5 س.م ۽ 6 س.م آهن ڏنل تڪنڊي جي ايراضي جي برابر هڪ مستطيل ٺاهيو.",
-                "a": "AB = 6 س.م\nAC = 5 س.م\nBC = 6 س.م\n△ABC\nD: BC جو وچ وارو ٽپڪو آهي\nPD: BC جو عمودي اڏ ڪندڙ\nPQ ∥ BC، A مان\nPQ = DC\nCDPQ: مستطيل\nايراضي CDPQ = DC × PD = [[1/2]] × BC × PD = ايراضي △ABC",
+                "a": "AB = 6 س.م\nAC = 5 س.م\nBC = 6 س.م\n△ABC\nD: BC جو وچ وارو ٽپڪو آهي\nPD: BC جو عمودي اڏ ڪندڙ\nPQ ∥ BC، A مان\nPQ = DC\nCDPQ: مستطيل\nايراضي CDPQ = DC × PD\nايراضي CDPQ = [[1/2]] × BC × PD\nايراضي CDPQ = ايراضي △ABC",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -88600,7 +88600,7 @@ var STUDY = {
               },
               {
                 "q": "مليل شڪل ۾ BC ∥ AD هڪ ABC گوني ڪنڊ تڪنڊو آهي B، چوٽي کان، جنهن ۾ mBC = 7 س.م ۽ mAC = 11 س.م آهي. △ABC ۽ △BCD جي ايراضي معلوم ڪريو.",
-                "a": "AB² + BC² = AC²\nAB² = 11² − 7² = 121 − 49 = 72\nAB = √72 = 6√2 س.م\nايراضي △ABC = [[1/2]] × 7 × 6√2 = 21√2 س.م²\n△ABC = △BCD\nايراضي △BCD = 21√2 س.م²",
+                "a": "AB² + BC² = AC²\nAB² = 11² − 7²\nAB² = 121 − 49\nAB² = 72\nAB = √72\nAB = 6√2 س.م\nايراضي △ABC = [[1/2]] × 7 × 6√2\nايراضي △ABC = 21√2 س.م²\n△ABC = △BCD\nايراضي △BCD = 21√2 س.م²",
                 "dq": {
                   "type": "draw",
                   "w": 300,
@@ -89077,7 +89077,7 @@ var STUDY = {
             "items": [
               {
                 "q": "AB جي ڊيگهه ۽ تڪنڊي ABC جي ايراضي معلوم ڪريو جڏهن\n(i) mAC = 3cm, mBC = 6cm and m∠C = 120°، جتي mCD = mBC cos (180° − m∠C)\n(ii) mAC = 40mm, mBC = 80mm and m∠C = 120°، جتي mCD = mBC cos (180° − m∠C)\n(mBC)² = (mAC)² + (mAB)² + 2(mAB)(mAD)",
-                "a": "(i) mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 س.م\nmAD = mAC + mCD = 3 + 3 = 6 س.م\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 س.م\nايراضي △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 3 × 3√3 = [[9√3/2]] س.م²\n(ii) mCD = mBC cos(180° − 120°) = 80 × [[1/2]] = 40 mm\nmAD = mAC + mCD = 40 + 40 = 80 mm\nmBD² = mBC² − mCD² = 6400 − 1600 = 4800\nmAB² = mAD² + mBD² = 6400 + 4800 = 11200\nmAB = √11200 = 40√7 mm = 4√7 س.م\nايراضي △ABC = [[1/2]] × mAC × mBD = [[1/2]] × 40 × 40√3 = 800√3 mm² = 8√3 س.م²",
+                "a": "(i) mCD = mBC cos(180° − 120°)\nmCD = 6 × [[1/2]]\nmCD = 3 س.م\nmAD = mAC + mCD\nmAD = 3 + 3\nmAD = 6 س.م\nmBD² = mBC² − mCD²\nmBD² = 36 − 9\nmBD² = 27\nmAB² = mAD² + mBD²\nmAB² = 36 + 27\nmAB² = 63\nmAB = √63\nmAB = 3√7 س.م\nايراضي △ABC = [[1/2]] × mAC × mBD\nايراضي △ABC = [[1/2]] × 3 × 3√3\nايراضي △ABC = [[9√3/2]] س.م²\n(ii) mCD = mBC cos(180° − 120°)\nmCD = 80 × [[1/2]]\nmCD = 40 mm\nmAD = mAC + mCD\nmAD = 40 + 40\nmAD = 80 mm\nmBD² = mBC² − mCD²\nmBD² = 6400 − 1600\nmBD² = 4800\nmAB² = mAD² + mBD²\nmAB² = 6400 + 4800\nmAB² = 11200\nmAB = √11200\nmAB = 40√7 mm\nmAB = 4√7 س.م\nايراضي △ABC = [[1/2]] × mAC × mBD\nايراضي △ABC = [[1/2]] × 40 × 40√3\nايراضي △ABC = 800√3 mm²\nايراضي △ABC = 8√3 س.م²",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -89161,7 +89161,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊي ABC ۾ mAC جي ڊيگهه معلوم ڪريو، جڏهن، mBC = 6cm، mAB = 4√2 cm آهي m∠ABC = 135° جيڪڏهن ممڪن هجي ته تڪنڊي ABC جي ايراضي معلوم ڪريو.",
-                "a": "mCD = mBC cos(180° − 135°) = 6 × [[√2/2]] = 3√2 س.م\nmBD = mCD = 3√2 س.م\nmAD = mAB + mBD = 4√2 + 3√2 = 7√2 س.م\nmAC² = mAD² + mCD² = 98 + 18 = 116\nmAC = √116 س.م\nايراضي △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 4√2 × 3√2 = 12 س.م²",
+                "a": "mCD = mBC cos(180° − 135°)\nmCD = 6 × [[√2/2]]\nmCD = 3√2 س.م\nmBD = mCD = 3√2 س.م\nmAD = mAB + mBD\nmAD = 4√2 + 3√2\nmAD = 7√2 س.م\nmAC² = mAD² + mCD²\nmAC² = 98 + 18\nmAC² = 116\nmAC = √116 س.م\nايراضي △ABC = [[1/2]] × mAB × mCD\nايراضي △ABC = [[1/2]] × 4√2 × 3√2\nايراضي △ABC = 12 س.م²",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -89239,7 +89239,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊي ABC ۾ mAC جي ڊيگهه معلوم ڪريو جڏهن mBC = 6√2 cm، mAB = 8 cm آهي، جيڪڏهن ممڪن هجي ته تڪنڊي ABC جي ايراضي معلوم ڪريو.",
-                "a": "mCD = mBC cos(180° − 135°) = 6√2 × [[√2/2]] = 6 س.م\nmBD = mCD = 6 س.م\nmAD = mAB + mBD = 8 + 6 = 14 س.م\nmAC² = mAD² + mCD² = 196 + 36 = 232\nmAC = √232 س.م\nايراضي △ABC = [[1/2]] × mAB × mCD = [[1/2]] × 8 × 6 = 24 س.م²",
+                "a": "mCD = mBC cos(180° − 135°)\nmCD = 6√2 × [[√2/2]]\nmCD = 6 س.م\nmBD = mCD = 6 س.م\nmAD = mAB + mBD\nmAD = 8 + 6\nmAD = 14 س.م\nmAC² = mAD² + mCD²\nmAC² = 196 + 36\nmAC² = 232\nmAC = √232 س.م\nايراضي △ABC = [[1/2]] × mAB × mCD\nايراضي △ABC = [[1/2]] × 8 × 6\nايراضي △ABC = 24 س.م²",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -89322,7 +89322,7 @@ var STUDY = {
             "items": [
               {
                 "q": "تڪنڊي ABC ۾ m∠A = 30° ته ثابت ڪريو ته (mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC).",
-                "a": "mAD = mAC cos30° = mAC × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAC) × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)",
+                "a": "mAD = mAC cos30°\nmAD = mAC × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAC) × [[√3/2]]\n(mBC)² = (mAC)² + (mAB)² − √3(mAB)(mAC)",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -89387,7 +89387,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊي ABC ۾ حل ڪريو جڏهن mBC = ______ cm، mAC = 5cm ۽ m∠A = 60°",
-                "a": "mAD = mAC cos60° = 5 × [[1/2]] = 2.5 س.م\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = 25 + 36 − 2 × 6 × 2.5 = 61 − 30 = 31\nmBC = √31 س.م",
+                "a": "mAD = mAC cos60°\nmAD = 5 × [[1/2]]\nmAD = 2.5 س.م\n(mBC)² = (mAC)² + (mAB)² − 2(mAB)(mAD)\n(mBC)² = 25 + 36 − 2 × 6 × 2.5\n(mBC)² = 61 − 30\n(mBC)² = 31\nmBC = √31 س.م",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -89464,7 +89464,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊي جي مليل پاسن 3 س.م، 4 س.م ۽ 5 س.م سان تڪنڊو سوزهي ڪنڊ، ويڪري ڪنڊ يا گوني ڪنڊ ٿيندو معلوم ڪريو.",
-                "a": "3² + 4² = 9 + 16 = 25\n5² = 25\n3² + 4² = 5²\nگوني ڪنڊ تڪنڊو",
+                "a": "3² + 4² = 9 + 16\n3² + 4² = 25\n5² = 25\n3² + 4² = 5²\nگوني ڪنڊ تڪنڊو",
                 "da": {
                   "type": "triangle",
                   "pts": [
@@ -89496,7 +89496,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊي جي مليل پاسن 4 س.م، 7 س.م ۽ 8 س.م سان تڪنڊو سوزهي ڪنڊ، ويڪري ڪنڊ يا گوني ڪنڊ ٿيندو معلوم ڪريو.",
-                "a": "4² + 7² = 16 + 49 = 65\n8² = 64\n4² + 7² > 8²\nسوزهي ڪنڊ تڪنڊو",
+                "a": "4² + 7² = 16 + 49\n4² + 7² = 65\n8² = 64\n4² + 7² > 8²\nسوزهي ڪنڊ تڪنڊو",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -89582,7 +89582,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊي ABC ۾ mAC = 3 س.م، mBC = 6 س.م ۽ m∠C = 120° ته mAB معلوم ڪريو.",
-                "a": "mCD = mBC cos(180° − 120°) = 6 × [[1/2]] = 3 س.م\nmAD = mAC + mCD = 3 + 3 = 6 س.م\nmBD² = mBC² − mCD² = 36 − 9 = 27\nmAB² = mAD² + mBD² = 36 + 27 = 63\nmAB = √63 = 3√7 س.م",
+                "a": "mCD = mBC cos(180° − 120°)\nmCD = 6 × [[1/2]]\nmCD = 3 س.م\nmAD = mAC + mCD\nmAD = 3 + 3\nmAD = 6 س.م\nmBD² = mBC² − mCD²\nmBD² = 36 − 9\nmBD² = 27\nmAB² = mAD² + mBD²\nmAB² = 36 + 27\nmAB² = 63\nmAB = √63\nmAB = 3√7 س.م",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -89678,7 +89678,7 @@ var STUDY = {
             "items": [
               {
                 "q": "مفاصلي جو فارمولا استعمال ڪري هيٺين ٽپڪن جي جوڙن جي وچ ۾ مفاصلو معلوم ڪريو.\n(i) (−4,5) ۽ (6,6)\n(ii) (2,2) ۽ (2,3)\n(iii) (0,1) ۽ (2,3)\n(iv) (0,1) ۽ (2,3)",
-                "a": "(i) d = √((6 − (−4))² + (6 − 5)²) = √(100 + 1) = √101\n(ii) d = √((2 − 2)² + (3 − 2)²) = √(0 + 1) = 1\n(iii) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2\n(iv) d = √((2 − 0)² + (3 − 1)²) = √(4 + 4) = √8 = 2√2",
+                "a": "(i) d = √((6 − (−4))² + (6 − 5)²)\nd = √(100 + 1)\nd = √101\n(ii) d = √((2 − 2)² + (3 − 2)²)\nd = √(0 + 1)\nd = 1\n(iii) d = √((2 − 0)² + (3 − 1)²)\nd = √(4 + 4)\nd = √8\nd = 2√2\n(iv) d = √((2 − 0)² + (3 − 1)²)\nd = √(4 + 4)\nd = √8\nd = 2√2",
                 "da": {
                   "type": "points",
                   "x": [
@@ -89720,7 +89720,7 @@ var STUDY = {
               },
               {
                 "q": "A(a,0) ۽ B(0,b) ٽپڪا x-محور تي آهن، A ۽ B جي وچ ۾ مفاصلو معلوم ڪريو جڏهن\n(i) a = −3, b = −4\n(ii) a = −9, b = 6\n(iii) a = 3, b = 4\n(iv) a = √2, b = −2√2",
-                "a": "|AB| = √(a² + b²)\n(i) |AB| = √((−3)² + (−4)²) = √(9 + 16) = √25 = 5\n(ii) |AB| = √((−9)² + 6²) = √(81 + 36) = √117\n(iii) |AB| = √(3² + 4²) = √(9 + 16) = √25 = 5\n(iv) |AB| = √((√2)² + (−2√2)²) = √(2 + 8) = √10",
+                "a": "|AB| = √(a² + b²)\n(i) |AB| = √((−3)² + (−4)²)\n|AB| = √(9 + 16)\n|AB| = √25\n|AB| = 5\n(ii) |AB| = √((−9)² + 6²)\n|AB| = √(81 + 36)\n|AB| = √117\n(iii) |AB| = √(3² + 4²)\n|AB| = √(9 + 16)\n|AB| = √25\n|AB| = 5\n(iv) |AB| = √((√2)² + (−2√2)²)\n|AB| = √(2 + 8)\n|AB| = √10",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -89831,7 +89831,7 @@ var STUDY = {
               },
               {
                 "q": "تڪنڊي جو گهيرا معلوم ڪريو جيڪو ٽپڪن A(0,0)، B(4,0) ۽ C(2,2√3) جو ٺهيل آهي.",
-                "a": "|AB| = √((4 − 0)² + (0 − 0)²) = 4\n|BC| = √((2 − 4)² + (2√3 − 0)²) = √(4 + 12) = 4\n|AC| = √((2 − 0)² + (2√3 − 0)²) = √(4 + 12) = 4\nگهيرا = 4 + 4 + 4 = 12",
+                "a": "|AB| = √((4 − 0)² + (0 − 0)²)\n|AB| = 4\n|BC| = √((2 − 4)² + (2√3 − 0)²)\n|BC| = √(4 + 12)\n|BC| = 4\n|AC| = √((2 − 0)² + (2√3 − 0)²)\n|AC| = √(4 + 12)\n|AC| = 4\nگهيرا = 4 + 4 + 4\nگهيرا = 12",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -89909,7 +89909,7 @@ var STUDY = {
             "items": [
               {
                 "q": "ظاهر ڪريو ته ٽپڪا P (−3, −4)، Q (2, 6) ۽ R (0, 2) هم ليڪ آهن.",
-                "a": "|PQ| = √((2 + 3)² + (6 + 4)²) = √(25 + 100) = √125 = 5√5\n|QR| = √((0 − 2)² + (2 − 6)²) = √(4 + 16) = √20 = 2√5\n|PR| = √((0 + 3)² + (2 + 4)²) = √(9 + 36) = √45 = 3√5\n|PR| + |QR| = 3√5 + 2√5 = 5√5 = |PQ|\nP، Q، R: هم ليڪ آهن",
+                "a": "|PQ| = √((2 + 3)² + (6 + 4)²)\n|PQ| = √(25 + 100)\n|PQ| = √125\n|PQ| = 5√5\n|QR| = √((0 − 2)² + (2 − 6)²)\n|QR| = √(4 + 16)\n|QR| = √20\n|QR| = 2√5\n|PR| = √((0 + 3)² + (2 + 4)²)\n|PR| = √(9 + 36)\n|PR| = √45\n|PR| = 3√5\n|PR| + |QR| = 3√5 + 2√5\n|PR| + |QR| = 5√5\n|PR| + |QR| = |PQ|\nP، Q، R: هم ليڪ آهن",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -89948,7 +89948,7 @@ var STUDY = {
               },
               {
                 "q": "ظاهر ڪريو ته ٽپڪا A (−1, 0)، B (1, 0) ۽ C (0, √3) غير هم ليڪ آهن.",
-                "a": "|AB| = 2\n|BC| = √((0 − 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AC| = √((0 + 1)² + (√3 − 0)²) = √(1 + 3) = 2\n|AB| + |BC| = 4 ≠ |AC|\n|AB| + |AC| = 4 ≠ |BC|\n|BC| + |AC| = 4 ≠ |AB|\nA، B، C: غير هم ليڪ آهن",
+                "a": "|AB| = 2\n|BC| = √((0 − 1)² + (√3 − 0)²)\n|BC| = √(1 + 3)\n|BC| = 2\n|AC| = √((0 + 1)² + (√3 − 0)²)\n|AC| = √(1 + 3)\n|AC| = 2\n|AB| + |BC| = 4 ≠ |AC|\n|AB| + |AC| = 4 ≠ |BC|\n|BC| + |AC| = 4 ≠ |AB|\nA، B، C: غير هم ليڪ آهن",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90021,7 +90021,7 @@ var STUDY = {
               },
               {
                 "q": "ظاهر ڪريو ته ٽپڪا L (0, √3)، M (−1, 0) ۽ N (1, 0) هڪ ٽيور پاسو تڪنڊو ٺاهين ٿا.",
-                "a": "|LM| = √((−1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|MN| = 2\n|LN| = √((1 − 0)² + (0 − √3)²) = √(1 + 3) = 2\n|LM| = |MN| = |LN| = 2\nL، M، N: ٽيور پاسو تڪنڊو آهي",
+                "a": "|LM| = √((−1 − 0)² + (0 − √3)²)\n|LM| = √(1 + 3)\n|LM| = 2\n|MN| = 2\n|LN| = √((1 − 0)² + (0 − √3)²)\n|LN| = √(1 + 3)\n|LN| = 2\n|LM| = |MN| = |LN| = 2\nL، M، N: ٽيور پاسو تڪنڊو آهي",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90094,7 +90094,7 @@ var STUDY = {
               },
               {
                 "q": "ظاهر ڪريو ته ٽپڪا A (2, 3)، B (8, 11) ۽ C (0, 17) هڪ پيور پاسو تڪنڊو ٺاهين ٿا يا نه.",
-                "a": "|AB| = √((8 − 2)² + (11 − 3)²) = √(36 + 64) = 10\n|BC| = √((0 − 8)² + (17 − 11)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|AB| = |BC| = 10\nA، B، C: پيور پاسو تڪنڊو آهي",
+                "a": "|AB| = √((8 − 2)² + (11 − 3)²)\n|AB| = √(36 + 64)\n|AB| = 10\n|BC| = √((0 − 8)² + (17 − 11)²)\n|BC| = √(64 + 36)\n|BC| = 10\n|AC| = √((0 − 2)² + (17 − 3)²)\n|AC| = √(4 + 196)\n|AC| = √200\n|AC| = 10√2\n|AB| = |BC| = 10\nA، B، C: پيور پاسو تڪنڊو آهي",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90167,7 +90167,7 @@ var STUDY = {
               },
               {
                 "q": "ڇا ٽپڪا A (−1, 2)، B (7, 5) ۽ C (2, −6) هڪ گوني ڪنڊ تڪنڊو ٺاهين ٿا.",
-                "a": "|AB|² = (7 + 1)² + (5 − 2)² = 64 + 9 = 73\n|BC|² = (2 − 7)² + (−6 − 5)² = 25 + 121 = 146\n|AC|² = (2 + 1)² + (−6 − 2)² = 9 + 64 = 73\n|AB|² + |AC|² = 73 + 73 = 146 = |BC|²\nA، B، C: گوني ڪنڊ تڪنڊو آهي",
+                "a": "|AB|² = (7 + 1)² + (5 − 2)²\n|AB|² = 64 + 9\n|AB|² = 73\n|BC|² = (2 − 7)² + (−6 − 5)²\n|BC|² = 25 + 121\n|BC|² = 146\n|AC|² = (2 + 1)² + (−6 − 2)²\n|AC|² = 9 + 64\n|AC|² = 73\n|AB|² + |AC|² = 73 + 73\n|AB|² + |AC|² = 146\n|AB|² + |AC|² = |BC|²\nA، B، C: گوني ڪنڊ تڪنڊو آهي",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90240,7 +90240,7 @@ var STUDY = {
               },
               {
                 "q": "جيڪڏهن ٽپڪا A (3, 1)، B (9, 1) ۽ C (6, k) هڪ ٽيور پاسو تڪنڊو ٺاهين ٿا ته k لاء ملهه معلوم ڪريو.",
-                "a": "|AB| = 6\n|AC|² = (6 − 3)² + (k − 1)² = 9 + (k − 1)²\n|AC| = 6\n9 + (k − 1)² = 36\n(k − 1)² = 27\nk − 1 = ±3√3\nk = 1 ± 3√3",
+                "a": "|AB| = 6\n|AC|² = (6 − 3)² + (k − 1)²\n|AC|² = 9 + (k − 1)²\n|AC| = 6\n9 + (k − 1)² = 36\n(k − 1)² = 27\nk − 1 = ±3√3\nk = 1 ± 3√3",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90344,7 +90344,7 @@ var STUDY = {
               },
               {
                 "q": "ظاهر ڪريو ته ٽپڪا P (1, 2)، Q (3, 4) ۽ R (0, −1) هڪ اڇپور پاسو تڪنڊي جون چوٽيون آهن.",
-                "a": "|PQ| = √((3 − 1)² + (4 − 2)²) = √(4 + 4) = √8 = 2√2\n|QR| = √((0 − 3)² + (−1 − 4)²) = √(9 + 25) = √34\n|PR| = √((0 − 1)² + (−1 − 2)²) = √(1 + 9) = √10\n|PQ| ≠ |QR| ≠ |PR|\nP، Q، R: اڇپور پاسو تڪنڊو آهي",
+                "a": "|PQ| = √((3 − 1)² + (4 − 2)²)\n|PQ| = √(4 + 4)\n|PQ| = √8\n|PQ| = 2√2\n|QR| = √((0 − 3)² + (−1 − 4)²)\n|QR| = √(9 + 25)\n|QR| = √34\n|PR| = √((0 − 1)² + (−1 − 2)²)\n|PR| = √(1 + 9)\n|PR| = √10\n|PQ| ≠ |QR| ≠ |PR|\nP، Q، R: اڇپور پاسو تڪنڊو آهي",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90417,7 +90417,7 @@ var STUDY = {
               },
               {
                 "q": "ظاهر ڪريو ته ٽپڪا A (2, 3)، B (8, 11)، C (0, 17) ۽ D (−6, 9) هڪ چورس جون چوٽيون آهن.",
-                "a": "|AB| = 10\n|BC| = 10\n|CD| = √((−6 − 0)² + (9 − 17)²) = √(36 + 64) = 10\n|DA| = √((2 + 6)² + (3 − 9)²) = √(64 + 36) = 10\n|AC| = √((0 − 2)² + (17 − 3)²) = √(4 + 196) = √200 = 10√2\n|BD| = √((−6 − 8)² + (9 − 11)²) = √(196 + 4) = √200 = 10√2\n|AB| = |BC| = |CD| = |DA| = 10\n|AC| = |BD| = 10√2\nA، B، C، D: چورس آهي",
+                "a": "|AB| = 10\n|BC| = 10\n|CD| = √((−6 − 0)² + (9 − 17)²)\n|CD| = √(36 + 64)\n|CD| = 10\n|DA| = √((2 + 6)² + (3 − 9)²)\n|DA| = √(64 + 36)\n|DA| = 10\n|AC| = √((0 − 2)² + (17 − 3)²)\n|AC| = √(4 + 196)\n|AC| = √200\n|AC| = 10√2\n|BD| = √((−6 − 8)² + (9 − 11)²)\n|BD| = √(196 + 4)\n|BD| = √200\n|BD| = 10√2\n|AB| = |BC| = |CD| = |DA| = 10\n|AC| = |BD| = 10√2\nA، B، C، D: چورس آهي",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90508,7 +90508,7 @@ var STUDY = {
               },
               {
                 "q": "ظاهر ڪريو ته ٽپڪا A (−2, 0)، B (0, −3)، C (2, 0) ۽ D (0, 3) هڪ چورس جي چوٽيون آهن.",
-                "a": "|AB| = √((0 + 2)² + (−3 − 0)²) = √(4 + 9) = √13\n|BC| = √((2 − 0)² + (0 + 3)²) = √(4 + 9) = √13\n|CD| = √((0 − 2)² + (3 − 0)²) = √(4 + 9) = √13\n|DA| = √((−2 − 0)² + (0 − 3)²) = √(4 + 9) = √13\n|AC| = 4\n|BD| = 6\n|AC| ≠ |BD|\nA، B، C، D: رامبس آهن، چورس نه آهن",
+                "a": "|AB| = √((0 + 2)² + (−3 − 0)²)\n|AB| = √(4 + 9)\n|AB| = √13\n|BC| = √((2 − 0)² + (0 + 3)²)\n|BC| = √(4 + 9)\n|BC| = √13\n|CD| = √((0 − 2)² + (3 − 0)²)\n|CD| = √(4 + 9)\n|CD| = √13\n|DA| = √((−2 − 0)² + (0 − 3)²)\n|DA| = √(4 + 9)\n|DA| = √13\n|AC| = 4\n|BD| = 6\n|AC| ≠ |BD|\nA، B، C، D: رامبس آهن، چورس نه آهن",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90599,7 +90599,7 @@ var STUDY = {
               },
               {
                 "q": "ظاهر ڪريو ته ٽپڪا A (3, 2)، B (4, 1)، C (5, 4) ۽ D (6, 3) هڪ مستطيل جون چوٽيون آهن.",
-                "a": "|AB| = √((4 − 3)² + (1 − 2)²) = √(1 + 1) = √2\n|BC| = √((5 − 4)² + (4 − 1)²) = √(1 + 9) = √10\n|CD| = √((6 − 5)² + (3 − 4)²) = √(1 + 1) = √2\n|DA| = √((3 − 6)² + (2 − 3)²) = √(9 + 1) = √10\n|AC| = √((5 − 3)² + (4 − 2)²) = √(4 + 4) = 2√2\n|BD| = √((6 − 4)² + (3 − 1)²) = √(4 + 4) = 2√2\n|AB| = |CD| = √2\n|BC| = |DA| = √10\n|AC| = |BD| = 2√2\nA، B، C، D: مستطيل آهي",
+                "a": "|AB| = √((4 − 3)² + (1 − 2)²)\n|AB| = √(1 + 1)\n|AB| = √2\n|BC| = √((5 − 4)² + (4 − 1)²)\n|BC| = √(1 + 9)\n|BC| = √10\n|CD| = √((6 − 5)² + (3 − 4)²)\n|CD| = √(1 + 1)\n|CD| = √2\n|DA| = √((3 − 6)² + (2 − 3)²)\n|DA| = √(9 + 1)\n|DA| = √10\n|AC| = √((5 − 3)² + (4 − 2)²)\n|AC| = √(4 + 4)\n|AC| = 2√2\n|BD| = √((6 − 4)² + (3 − 1)²)\n|BD| = √(4 + 4)\n|BD| = 2√2\n|AB| = |CD| = √2\n|BC| = |DA| = √10\n|AC| = |BD| = 2√2\nA، B، C، D: مستطيل آهي",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90690,7 +90690,7 @@ var STUDY = {
               },
               {
                 "q": "مفاصلي جو فارمولا استعمال ڪري ظاهر ڪريو ته ٽپڪا O (0, 0)، A (3, 0)، B (5, 2) ۽ C (2, 2) هڪ پوروچوٽ چوڪنڊي جون چوٽيون آهن.",
-                "a": "|OA| = 3\n|AB| = √((5 − 3)² + (2 − 0)²) = √(4 + 4) = 2√2\n|BC| = √((2 − 5)² + (2 − 2)²) = 3\n|CO| = √((0 − 2)² + (0 − 2)²) = √(4 + 4) = 2√2\n|OA| = |BC| = 3\n|AB| = |CO| = 2√2\nO، A، B، C: پورو چوٽ چوڪنڊو آهي",
+                "a": "|OA| = 3\n|AB| = √((5 − 3)² + (2 − 0)²)\n|AB| = √(4 + 4)\n|AB| = 2√2\n|BC| = √((2 − 5)² + (2 − 2)²)\n|BC| = 3\n|CO| = √((0 − 2)² + (0 − 2)²)\n|CO| = √(4 + 4)\n|CO| = 2√2\n|OA| = |BC| = 3\n|AB| = |CO| = 2√2\nO، A، B، C: پورو چوٽ چوڪنڊو آهي",
                 "da": {
                   "type": "graph",
                   "x": [
@@ -90997,7 +90997,7 @@ var STUDY = {
               },
               {
                 "q": "گول جي قطر جا آخري ٽپڪا A(−3,4) ۽ B(11,6) آهن. گول جو وچ وارو ٽپڪو ۽ نيم قطر معلوم ڪريو.",
-                "a": "مرڪز = AB جو وچ وارو ٽپڪو آهي\n([[(−3+11)/2]], [[(4+6)/2]]) = (4, 5)\n|AB| = √((11 + 3)² + (6 − 4)²) = √(196 + 4) = √200 = 10√2\nنيم قطر = [[(10√2)/2]] = 5√2",
+                "a": "مرڪز = AB جو وچ وارو ٽپڪو آهي\n([[(−3+11)/2]], [[(4+6)/2]]) = (4, 5)\n|AB| = √((11 + 3)² + (6 − 4)²)\n|AB| = √(196 + 4)\n|AB| = √200\n|AB| = 10√2\nنيم قطر = [[(10√2)/2]]\nنيم قطر = 5√2",
                 "da": {
                   "type": "circle",
                   "r": 7.07,
@@ -91024,7 +91024,7 @@ var STUDY = {
               },
               {
                 "q": "ثابت ڪريو ته ڪو تڪنڊو پيور پاسو تڪنڊو آهي جيڪڏهن هن جا ٻه ميديان برابر آهن.",
-                "a": "a = BC، b = CA، c = AB\nm_a² = [[(2b² + 2c² − a²)/4]]\nm_b² = [[(2a² + 2c² − b²)/4]]\nm_a = m_b ⇒ 2b² + 2c² − a² = 2a² + 2c² − b² ⇒ 3b² = 3a² ⇒ b = a\na = b ⇒ m_a = m_b",
+                "a": "a = BC، b = CA، c = AB\nm_a² = [[(2b² + 2c² − a²)/4]]\nm_b² = [[(2a² + 2c² − b²)/4]]\nm_a = m_b\n⇒ 2b² + 2c² − a² = 2a² + 2c² − b²\n⇒ 3b² = 3a²\n⇒ b = a\na = b ⇒ m_a = m_b",
                 "da": {
                   "type": "draw",
                   "w": 300,
@@ -324271,7 +324271,7 @@ function exUnitHtml(n){
         var _a = ltrGuideLines(tableHtml(_sci ? chemHtml(it.a) : escHtml(it.a)));
         var _qTag = (_q.indexOf('<table') !== -1) ? 'div' : 'p';
         var _aTag = (_a.indexOf('<table') !== -1) ? 'div' : 'p';
-        html += "<" + _qTag + " class=\"note pro-q\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + _q + "</" + _qTag + ">" + (it.dq ? diagramSvg(it.dq) : "") + "<" + _aTag + " class=\"note pro-a\"><span class=\"exa\">Ans:</span> " + _a + "</" + _aTag + ">" + (it.da ? diagramSvg(it.da) : "");
+        html += "<" + _qTag + " class=\"note pro-q\">" + proQHtml(qi, _q) + "</" + _qTag + ">" + (it.dq ? diagramSvg(it.dq) : "") + "<" + _aTag + " class=\"note pro-a\"><span class=\"exa\">Ans:</span> " + _a + "</" + _aTag + ">" + (it.da ? diagramSvg(it.da) : "");
       });
     });
     html += "</div>";
@@ -324454,8 +324454,31 @@ function chemHtml(s){
   h = h.replace(/\[\[A\]\]([\s\S]*?)\[\[\/A\]\]/g, function(m, t){ return '<span class="eq-ans"' + _ltr(t) + '>' + t + '</span>'; });
   return h;
 }
+// Is this rendered line a pure equation line joined by the Sindhi conjunction
+// '۽' (and)? True only when the line's text contains '۽' AND, after removing
+// every '۽', it contains no Arabic letter at all (Sindhi comma '،' and other
+// punctuation are not letters, so a comma-separated list of expressions still
+// counts) AND there is real maths before the first '۽' (a digit, '=', '{',
+// bracket, operator, ... after an optional sub-part label such as "(i)" or
+// "2."). Lines that fail any part — a Sindhi word problem, a sentence with
+// '۽' in it, or a continuation line that merely starts with '۽' — return
+// false and stay RTL, exactly as in v95. The test runs on the tag-stripped
+// text, so <sup>/<sub>/fraction markup does not affect it; the strip only
+// matches real tags (a letter after "<"), so "<"/">" maths operators survive.
+function isEqLine(h){
+  var plain = h.replace(/<\/?[A-Za-z][^>]*>/g, '');
+  if(plain.indexOf('۽') === -1) return false;
+  var before = plain.split('۽')[0].replace(/^\s*(\([ivx]+\)|\([a-z]\)|\d+\.)\s*/, '');
+  if(!/[0-9A-Za-z={}()\[\]<>+\-°√^]/.test(before)) return false;
+  var rest = plain.replace(/۽/g, '').replace(/[\u0660-\u0669\u06F0-\u06F9]/g, '');
+  if(/[\u0621-\u06D3\u06FA-\u06FF]/.test(rest)) return false;
+  return true;
+}
 // Wrap each pure-Latin/digit line (no Arabic script) in an LTR block span.
-// Lines containing Sindhi/Urdu text are returned untouched (stay RTL).
+// Lines containing Sindhi/Urdu text are returned untouched (stay RTL), EXCEPT
+// pure equation lines joined by '۽' (isEqLine): those are wrapped in an LTR
+// block too, so a header such as "2. 2x + y = 4 ۽ x² - 2x + y² = 0" reads
+// left-to-right with its number first instead of landing mid-line in RTL.
 // Applied to the final HTML (after tableHtml/chemHtml); eq-blocks are already
 // handled by chemHtml and are skipped. Items containing a [[T]] table are left
 // untouched as a whole (2 table tokens in the corpus contain a newline).
@@ -324464,10 +324487,28 @@ function ltrGuideLines(h){
   return h.split(/(<span class="eq-(?:line|step|ans)"[^>]*>[\s\S]*?<\/span>)/g).map(function(seg){
     if(seg.indexOf('<span class="eq-') === 0) return seg;
     return seg.split('\n').map(function(line){
-      if(!line.trim() || /[\u0600-\u06FF]/.test(line)) return line;
-      return '<span dir="ltr" class="sum-line">' + line + '</span>';
+      if(!line.trim()) return line;
+      if(!/[\u0600-\u06FF]/.test(line) || isEqLine(line)) return '<span dir="ltr" class="sum-line">' + line + '</span>';
+      return line;
     }).join('\n');
   }).join('');
+}
+// Build the inner HTML of one guide question header ("Qn:" + rendered question).
+// When the question's first line is a Sindhi equation line (a line ltrGuideLines
+// newly wrapped LTR because it is pure maths joined by '۽'), the "Qn:" label is
+// put INSIDE that first LTR block, so the whole header reads left-to-right as
+// one unit: "Qn: <label> <equation> ۽ <equation>". A first line wrapped by the
+// v95 pure-Latin rule keeps the old layout ("Qn:" outside the block) unchanged,
+// and a first line that stayed RTL (a Sindhi word problem) is untouched.
+function proQHtml(qi, q){
+  var open = '<span dir="ltr" class="sum-line">';
+  if(q.indexOf(open) === 0){
+    var first = q.split('\n')[0];
+    if(first.indexOf('۽') !== -1){
+      return open + '<span class="exq">Q' + (qi + 1) + ':</span> ' + q.slice(open.length);
+    }
+  }
+  return '<span class="exq">Q' + (qi + 1) + ':</span> ' + q;
 }
 // Tables in guide text: [[T]]Header 1|Header 2;;Row 1a|Row 1b;;Row 2a|Row 2b[[/T]]
 // First row is the header; rows split by ;;, cells by |. Cells must not contain | or ;;.
@@ -324800,7 +324841,7 @@ function mathUnitHtml(n){
   (u.exercises || []).forEach(function(g, i){
     html += "<div class=\"review\" id=\"mx-" + n + "-" + (i + 1) + "\"><div class=\"exhead mathex\"><b>" + escHtml(g.label) + "</b></div>";
     (g.items || []).forEach(function(it, qi){
-      html += "<p class=\"note pro-q\"><span class=\"exq\">Q" + (qi + 1) + ":</span> " + ltrGuideLines(tableHtml(mathHtml(it.q))) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note exans pro-a\"><span class=\"exa\">Ans:</span> " + ltrGuideLines(tableHtml(mathHtml(it.a))) + "</p>" + (it.da ? diagramSvg(it.da) : "");
+      html += "<p class=\"note pro-q\">" + proQHtml(qi, ltrGuideLines(tableHtml(mathHtml(it.q)))) + "</p>" + (it.dq ? diagramSvg(it.dq) : "") + "<p class=\"note exans pro-a\"><span class=\"exa\">Ans:</span> " + ltrGuideLines(tableHtml(mathHtml(it.a))) + "</p>" + (it.da ? diagramSvg(it.da) : "");
     });
     html += "</div>";
   });
