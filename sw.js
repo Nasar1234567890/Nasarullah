@@ -3,12 +3,13 @@
    Lets students open and take tests offline once they have visited the site.
    Cache-first with background refresh for same-origin GET requests only;
    form submissions and other requests are never cached. */
-const CACHE = 'mcq-tests-v102';
+const CACHE = 'mcq-tests-v103';
 const ASSETS = [
   './',
   'index.html',
   'style.css',
   'study.js',
+  'study-xii.js',
   'manifest.json',
   'icon-192.png',
   'icon-512.png',
