@@ -415545,6 +415545,7 @@ function renderSubjectMaterial(cls, subj){
   else if(cls === "xi") data = STUDY.xi;
   else if(cls === "xii") data = STUDY.xii;
   else if(cls === "iv") data = STUDY.iv;
+  else if(cls === "iii") data = STUDY.iii;
   if(subj === "English" && STUDY[cls] && STUDY[cls].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].exsolutions});
   if(subj === "Sindhi" && STUDY[cls] && STUDY[cls].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sindhiExsolutions});
   if((subj === "Asan Urdu" || subj === "Urdu Salees") && STUDY[cls] && STUDY[cls].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].urduExsolutions});
@@ -415564,15 +415565,17 @@ if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("English") >= 0
 if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].csExsolutions});
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutions});
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutionsEn});
+if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutions});
+if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutionsEn});
 if((subj || "").indexOf("Mathematics") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].mathsolutionsSindhi && data) data = Object.assign({}, data, {mathsolutions: STUDY[cls].mathsolutionsSindhi});
   matData = data;
   matSubj = subj;
   matCls = cls;
   var _guideTab = null;
   if(subj === "English"){
-    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii" || cls === "iv") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii" || cls === "iv" || cls === "iii") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
   } else {
-    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii" || cls === "iv") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii" || cls === "iv" || cls === "iii") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
     if((subj || "").indexOf("Sindhi") === 0 && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
     if(((subj || "") === "Asan Urdu" || (subj || "") === "Urdu Salees") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
     if((subj || "") === "Gulzar-E-Urdu" && STUDY[cls] && STUDY[cls].urduExsolutionsGulzar) _guideTab = ["exsolutions", guideLabel(subj)];
@@ -415591,6 +415594,8 @@ if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("English") >= 0
 if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].csExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].socExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsEn) _guideTab = ["exsolutions", guideLabel(subj)];
+if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsEn) _guideTab = ["exsolutions", guideLabel(subj)];
   }
   var _gb = document.getElementById("subjectguide");
   if(_gb) _gb.innerHTML = _guideTab ? "<p><button class=\"modebtn\" onclick=\"openMatPage('exsolutions')\">" + escHtml(_guideTab[1]) + "</button></p>" : "";
@@ -415632,6 +415637,7 @@ function openMatPage(tab, cls, subj){
   else if(c === "xi") data = STUDY.xi;
   else if(c === "xii") data = STUDY.xii;
   else if(c === "iv") data = STUDY.iv;
+  else if(c === "iii") data = STUDY.iii;
   if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(s === "Sindhi" && STUDY[c] && STUDY[c].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sindhiExsolutions});
   if((s === "Asan Urdu" || s === "Urdu Salees") && STUDY[c] && STUDY[c].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutions});
@@ -415651,6 +415657,8 @@ if((s || "").indexOf("Biology") === 0 && (s || "").indexOf("English") >= 0 && ST
 if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsEn});
+if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutions});
+if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsEn});
 if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].mathsolutionsSindhi && data) data = Object.assign({}, data, {mathsolutions: STUDY[c].mathsolutionsSindhi});
   if(data) matData = data;
   matExUnit = 0;
@@ -415665,7 +415673,7 @@ if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0 &&
   var si = document.getElementById("matSearchPage");
   if(si){ si.value = ""; try{ si.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
   document.getElementById("matcontent").innerHTML = h;
-  document.getElementById("matcontent").dir = (((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || (s || "") === "Gulzar-E-Urdu" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0)) && tab === "exsolutions") ? "rtl" : "ltr";
+  document.getElementById("matcontent").dir = (((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || (s || "") === "Gulzar-E-Urdu" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0)) && tab === "exsolutions") ? "rtl" : "ltr";
   document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees" || s === "Gulzar-E-Urdu"));
   document.getElementById("matcontent").classList.toggle("pro-guide", tab === "exsolutions");
   document.getElementById("subjectpage").classList.add("hidden");
@@ -415698,6 +415706,7 @@ function openExUnit(n, cls, subj){
   else if(c === "xi") data = STUDY.xi;
   else if(c === "xii") data = STUDY.xii;
   else if(c === "iv") data = STUDY.iv;
+  else if(c === "iii") data = STUDY.iii;
   if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(s === "Sindhi" && STUDY[c] && STUDY[c].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sindhiExsolutions});
   if((s === "Asan Urdu" || s === "Urdu Salees") && STUDY[c] && STUDY[c].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutions});
@@ -415717,6 +415726,8 @@ if((s || "").indexOf("Biology") === 0 && (s || "").indexOf("English") >= 0 && ST
 if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsEn});
+if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutions});
+if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsEn});
 if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].mathsolutionsSindhi && data) data = Object.assign({}, data, {mathsolutions: STUDY[c].mathsolutionsSindhi});
   if(data) matData = data;
   matExUnit = n;
@@ -415731,7 +415742,7 @@ if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0 &&
   var si = document.getElementById("matSearchPage");
   if(si){ si.value = ""; try{ si.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
   document.getElementById("matcontent").innerHTML = h;
-  document.getElementById("matcontent").dir = ((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || (s || "") === "Gulzar-E-Urdu" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0)) ? "rtl" : "ltr";
+  document.getElementById("matcontent").dir = ((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || (s || "") === "Gulzar-E-Urdu" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0)) ? "rtl" : "ltr";
   document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees" || s === "Gulzar-E-Urdu"));
   document.getElementById("matcontent").classList.toggle("pro-guide", true);
   document.getElementById("subjectpage").classList.add("hidden");
@@ -415823,6 +415834,7 @@ function openMathUnit(n, cls, subj){
   else if(c === "xi") data = STUDY.xi;
   else if(c === "xii") data = STUDY.xii;
   else if(c === "iv") data = STUDY.iv;
+  else if(c === "iii") data = STUDY.iii;
   if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(s === "Sindhi" && STUDY[c] && STUDY[c].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sindhiExsolutions});
   if((s === "Asan Urdu" || s === "Urdu Salees") && STUDY[c] && STUDY[c].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutions});
@@ -415840,6 +415852,8 @@ if((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0 && STU
 if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsEn});
+if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutions});
+if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsEn});
 if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].mathsolutionsSindhi && data) data = Object.assign({}, data, {mathsolutions: STUDY[c].mathsolutionsSindhi});
   if(data) matData = data;
   matMathUnit = n;
@@ -416382,7 +416396,7 @@ function matSectionHtml(tab){
     }
     return matTabHtml(tab);
   }
-  if(tab === "exsolutions" && ((matSubj || "").indexOf("Sindhi") === 0 || (matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || (matSubj || "") === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("Science") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Science") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Social Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Social Studies") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Islamiat") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Islamiat") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Pakistan Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Pakistan Studies") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Chemistry") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Chemistry") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Physics") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Physics") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Biology") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Biology") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Computer Science") === 0 && (matSubj || "").indexOf("English") >= 0))){
+  if(tab === "exsolutions" && ((matSubj || "").indexOf("Sindhi") === 0 || (matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || (matSubj || "") === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("Science") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Science") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Social Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Social Studies") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Islamiat") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Islamiat") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Pakistan Studies") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Pakistan Studies") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Chemistry") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Chemistry") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Physics") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Physics") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Biology") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("Biology") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("Computer Science") === 0 && (matSubj || "").indexOf("English") >= 0) || ((matSubj || "").indexOf("General Knowledge") === 0 && (matSubj || "").indexOf("Sindhi") >= 0) || ((matSubj || "").indexOf("General Knowledge") === 0 && (matSubj || "").indexOf("English") >= 0))){
     var sx = data.exsolutions || [];
     if(sx.length){
       sx.forEach(function(u){
