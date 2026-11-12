@@ -43337,5 +43337,263 @@ STUDY.xii = {
           }
         ]
       }
+    ],
+    "pakExsolutionsEn": [
+      {
+        "display": "The Establishment of Pakistan",
+        "reading": "The Establishment of Pakistan",
+        "title": "The Establishment of Pakistan",
+        "unit": 1,
+        "words": [],
+        "sections": [
+          {
+            "num": "1.1",
+            "name": "Questions",
+            "exercises": [
+              {
+                "label": "(A) Questions",
+                "items": [
+                  {
+                    "q": "Describe the social conditions of South Asia before the coming of the Muslims. How did the caste system create social inequality and discrimination?",
+                    "a": "Before the Muslims came, South Asia was divided into many small kingdoms and principalities, at daggers drawn with each other, so the whole area had fallen into political turmoil and instability. Hindu society was based on social injustice and was divided into four rigid, hereditary castes: (1) the Brahmins or priests, (2) the Kashatriyas or warriors, commanders and kings, (3) the Vaishya or artists, artisans and traders, and (4) the Shudras, the lowest and the meanest of all. The Brahmins and the Kashatriyas enjoyed high status and great influence, while the Vaishyas and the Shudras led a miserable and wretched life with no basic rights. Even before the law they were not equal to the upper castes — if a Shudra heard the words of the holy Vedas, molten lead was put into his ears as a punishment. Shudras lived outside the four walls of the city, there were no inter-marriages among the castes, and once born a Shudra, always a Shudra. Women were given the lowest position: a widow was never allowed to marry again, and a wife was burnt alive with her husband's dead body — the system called 'Sutti'. It was this tyranny that made the neglected low castes readily accept Islam as a liberator."
+                  },
+                  {
+                    "q": "Discuss the impact of Islam on the political, social, cultural and religious life of the people of South Asia.",
+                    "a": "Political: the Muslims laid the foundations of a strong Central government, united the small divided states and held the whole northern Sub-continent under their control for a long time; they maintained peace, restored order and ended lawlessness. An efficient system of administration with the same equal laws throughout the Sub-continent created social equality, and South Asia was connected with the outer world. The art of warfare also reached new heights, and naval forces were introduced for the first time in the region.\nSocial: political unity and administrative equality brought social oneness; the upper classes adopted the Muslim way of life; the Muslims first introduced the stitched dress; law and order made the highways safe, trade and commerce flourished, and a new period of prosperity began. Islam stands for equality and social justice, so the common people got rid of social inequalities and low-caste Hindus embraced Islam in large numbers.\nCultural: all branches of fine arts made rapid progress; Islamic art, which had already assimilated Egyptian, Roman, Greek and Persian arts, blended with Chinese and South Asian trends and gave birth to 'Indo-Islamic Art'; a new and distinct type of architecture developed — grand monuments, high minarets, beautiful domes and arcs — and the manufacture of shawls, carpets and cotton muslin was encouraged. The contact of Muslim soldiers of different nationalities gave birth to Urdu, and learning and literature flourished under the Muslim rulers.\nReligious: Islam, a universal religion and a Divine message, changed the religious outlook of the people; its principles of the Unicity of God and Equality were so overpowering that learned holy men openly hated polytheism and criticised the caste system, and reformist movements were launched in Hinduism. The mystics and saints — Hazrat Ali Hijveri (Data Gunj Bukhsh), Khawaja Muin-ud-Din Ajmeri, Hazrat Baha-ud-Din Zakariyya Multani, Hazrat Mujaddid Alf Sani and Hazrat Usman Marvandi (Lal Shahbaz Qalandar) — preached Islam and attracted many towards it by their pure and pious life."
+                  },
+                  {
+                    "q": "What do you understand by the Ideology of Pakistan? Give a detailed account in historical perspective.",
+                    "a": "An ideology is the common objective or goal of many people for living a collective life according to set principles; it is the spirit and soul of every revolutionary movement, and the political, social and economic aspects of life are so knit together as to provide a common system in which well-defined rights and relations are the warp and woof. In short, an ideology is the way of life. The Muslims seek all guidance from their religion in their individual and collective life. Islam determines the rights and relations among people and organises the state and society on sound lines; the Holy Quran and the Sunnah are the real and true standards for every Muslim in all matters of life. This concept of the Muslim nation provided the foundational basis for the Pakistan movement: Pakistan is founded on an ideology, and that ideology is their religion, Islam, which lends meaning and purpose to it. Under this state all matters — political, social or economic — are dealt with in accordance with the Divine guidance sought from the Holy Quran and the Sunnah.\nHistorically, the Muslims had ruled South Asia for many hundred years, but after the fall of Muslim power in 1857 and the spread of western civilisation they feared Hindu majority rule under the western democratic system and a perpetual state of slavery. The decision to establish Pakistan was therefore a positive step towards the formation of an Islamic society, with the objectives of freedom from slavery, re-establishing a true Islamic society based on justice, democratic equality and social welfare, saving Islamic values and culture for posterity, freeing the Muslim majority provinces from exploitation, and making Pakistan a strong fortress and centre for the Muslim world."
+                  },
+                  {
+                    "q": "Explain and elucidate the Ideology of Pakistan in the light of the utterances of the Quaid-i-Azam.",
+                    "a": "The Quaid-i-Azam explained the ideology of Pakistan on many occasions. In his March 23, 1940 speech before the historic session of the Muslim League he presented the two-nation theory: 'Islam and Hinduism are not only two religions but, in reality, are the two distinct social systems. Therefore, the desire that the Hindus and the Muslims will form a single nation shall be a mere fanciful dream. I say this in unambiguous words that they belong to two different civilizations and the basis of both these civilizations rests on such concepts and realities which are conflicting and contradictory.' He emphasised that the Muslims were not a minority in South Asia but a separate nation wanting a separate homeland.\nIn 1943, addressing the Muslim League meeting in Karachi, he said: 'What is that relationship by which all Muslims become one body? What is that bedrock on which stands the building structure of its millat? What is that anchor, through which the boat of this Ummah has been saved and sheltered? That relationship, that bedrock and that anchor is the Book of Allah i.e. Quran-i-Majeed. I am sure as we march forward, we shall grow more united.'\nExplaining the objectives of Pakistan in his speech at Islamia College Peshawar on January 13, 1946, he said: 'We have not made the demand for Pakistan for a piece of land but we wanted to have such laboratory where we could test the principles of Islam.'\nIn October 1947, addressing the officers of the Government of Pakistan, he said: 'It is our aim to create a state where we should live as free human beings, where we could grow and develop in the light of our culture and where the Islamic concept of social justice could get a chance to rise and develop.' Earlier, in February 1940, he had also clarified: 'We shall neither allow the Britain to rule over us nor Mr. Gandhi and Congress. We want to remain free from the influence of both.'"
+                  },
+                  {
+                    "q": "Discuss the role of the following areas in the struggle for independence: N.W.F.P. - Balochistan - Sindh - The Punjab - Muslim-minority provinces.",
+                    "a": "N.W.F.P. (now Khyber Pakhtunkhwa): The people participated whole-heartedly in the national and Islamic movements. The British had not extended constitutional governance to the province; in 1927 the Quaid-i-Azam demanded reforms, and political reforms were then introduced. In 1940 Sardar Aurangzeb Khan fully supported the Pakistan Resolution on behalf of the people of N.W.F.P. The Muslim League could not properly be organised there till 1945, when under the Quaid's guidance it was activated and re-organised; the Congress government unleashed a reign of terror, but the League movement continued unabated. A clandestine daily, 'Sada-i-Pakistan' (The Voice of Pakistan), and a radio station were launched, religious scholars and saints aroused Islamic zeal, students of Islamia College and Edward College Peshawar took an active part, and the women of N.W.F.P. fully participated in the freedom movement.\nBalochistan: It was the deliberate policy of the British to keep the people uneducated and backward. In 1927 the Muslim League demanded reforms but no attention was paid. In 1939 the Balochistan Muslim League was organised under the dynamic leadership of Qazi Issa, a staunch follower of the Quaid; he supported the Pakistan Resolution of 1940 with full force and organised a grand function at Quetta to celebrate Pakistan Day. The people defeated the Congress candidate for the Constituent Assembly, the Muslim Students Federation was organised in 1943, and the Shahi Jirga (Grand Assembly) unanimously decided in favour of Pakistan; Nawab Muhammad Khan Jogezai announced the decision before the Shahi Jirga.\nSindh: Islam came into South Asia through Sindh, so it is called Bab-ul-Islam (Gateway of Islam). The British annexed this Muslim majority province to the Bombay Presidency; it got the status of a separate province in 1936 under the Act of 1935 after a long struggle. The first annual session of the Muslim League was held in 1907 at Karachi, and in 1938 the Sindh Muslim League session first demanded a Muslim state comprising the Muslim majority provinces — the base for the Lahore Resolution of 1940. In 1940 Sir Abdullah Haroon supported the Pakistan Resolution; in 1943 the first Muslim cabinet of South Asia took oath of office in Sindh, and in March 1943 the Sindh Assembly adopted the resolution for the demand of Pakistan. The Sindh Muslim League won the 1945-46 elections and formed the government. Pir Sibghatullah Shah Pir Pagara and his followers, the Hurs, offered armed resistance to the British; the Sirhindi family of religious scholars, the Jamiat-al-Mashaikh, the students of Sindh Madrassah and the Sindh Muslim Students Federation, and the Muslim women of Sindh all took a full part in the struggle.\nThe Punjab: Population-wise a big province, but the Muslims were badly exploited. Allama Iqbal awakened the Muslims through his poetry and revolutionary thought and first gave the concept of an independent Muslim state in South Asia. At the Lahore session on March 23, 1940 the Pakistan Resolution was passed, and the Muslim League launched a mass movement; in the 1945-46 elections it won hundred percent seats of the Central Assembly and ninety percent seats of the Provincial Assembly. Religious scholars, Muslim leaders and the students of the Punjab (who organised the Punjab Muslim Students Federation) took an active part; in 1941 a Pakistan Conference was held at Islamia College Lahore presided over by the Quaid, and the students went into every village of the Punjab. During the Civil Disobedience Movement a young lady removed the Union Jack from the Punjab Secretariat and hoisted the Muslim League flag, and the women of the Punjab devoted their lives to the cause.\nMuslim-minority provinces: The Muslims of the minority provinces played no insignificant part — they were the 'Van-guards of the movement'. In 1940 Chaudhry Khaleeq-uz-Zaman, the representative of U.P., was first to support the Pakistan Resolution, followed by the representatives of Bihar, Madras, Bombay and C.P., although they knew their areas could never form part of Pakistan. In the 1945-46 elections the Muslim League won hundred percent seats in Bombay, Orissa and Madras. In 1937 they attended the Lucknow session in large numbers; in 1946 the religious leaders organised a Conference at Benares and openly supported the League; the students of Muslim University Aligarh founded the All India Muslim Students Federation, whose first meeting was held in 1937 at Calcutta; and the women of these provinces fully participated in the re-organisation of the Muslim League and the establishment of Pakistan."
+                  },
+                  {
+                    "q": "The events that took place between 1857 and to the establishment of Pakistan were an important link in the historical journey to Pakistan. Elaborate.",
+                    "a": "Muslim power was at its zenith till the eighteenth century, but after the failure of the War of Independence of 1857 Muslim power declined and ended in South Asia, and the British occupation became total. Sir Syed Ahmed Khan tried to improve the lot of the Muslims through education and established a College at Aligarh. In 1885 Mr. Hume, an Englishman, laid the foundation of the Congress, which struggled for the rights of the Hindu community; the Hindu revivalist movements of Arya Samaj, the demand to ban the slaughter of cows, the anti-Muslim propaganda of Hindu (particularly Bengali) literature, the partition of Bengal in 1905 and the coming constitutional reforms made the Muslims feel the need of a political party of their own. A delegation under Sir Aga Khan met the Viceroy Lord Minto at Simla and demanded a separate electorate, and in December 1906 the All India Muslim League was formed at Dhaka under Nawab Vaqar-ul-Mulk, with Aga Khan as its first president. The principle of separate electorate was accepted in the Government of India Act 1909, which later laid the foundation for Pakistan. The Lucknow Pact of 1916, brought about by the Quaid-i-Azam, made the Congress accept the separate electorate. The Khilafat Movement under Maulana Muhammad Ali Jauhar created a tremendous political awakening, and the Nehru Report (which discontinued the separate electorate and ignored the safeguards) created a new zeal among the Muslims. In March 1929 the Quaid presented his Fourteen Points, and in December 1930 Allama Iqbal, in his Allahabad Address, gave the idea of a separate Muslim state in the North-West. The Round Table Conferences (1930–1932) failed because the Congress refused to accept the Muslim demands, and the Government of India Act 1935 gave Sindh the status of a separate province. The Congress ministries (1937–39) and their anti-Muslim policies united the Muslims under the Muslim League, and the Sindh Muslim League's resolution of 1938 demanded a Muslim government in the Muslim majority provinces. The Working Committee appointed a committee under the Quaid in its Meerut session in 1939, and on March 23, 1940 the Pakistan Resolution was adopted at Lahore. The Cripps Proposals of 1942 were rejected by both parties; the Quit India Movement failed because the Muslims did not support it; the Simla Conference of 1945 failed; and in the winter of 1945-46 the Muslim League won all the Muslim seats of the Central Assembly and 90% of the Muslim seats in the provinces. The Delhi Convention of April 1946 demanded one independent state of the North-West and North-East Muslim majority areas, and the Cabinet Mission Plan of May 16, 1946 proposed a three-pronged federation. After the failure of the Interim Government, Lord Mountbatten announced his plan on June 3, 1947 for the partition of the Sub-continent into two separate states, and after an enduring political struggle Pakistan emerged on the world map on August 14, 1947."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.2",
+            "name": "Write 'Yes' or 'No'",
+            "exercises": [
+              {
+                "label": "(B) Write 'Yes' or 'No' against the following statements",
+                "items": [
+                  {
+                    "q": "Before Islam, Brahmins were responsible for the defence of the country and maintenance of law and order in the South Asian society.",
+                    "a": "No ✗\nThe defence of the country and the maintenance of law and order were the duty of the Kashatriyas, not the Brahmins; the Brahmins formed the religious class of priests."
+                  },
+                  {
+                    "q": "Women enjoyed high position and respect in society before the advent of Islam in South Asia.",
+                    "a": "No ✗\nWomen were given the lowest position: a widow was never allowed to marry again, and a wife was burnt alive with her husband's dead body (the system called 'Sutti')."
+                  },
+                  {
+                    "q": "Muslims laid the foundation of the best system of government in South Asia.",
+                    "a": "Yes ✓\nThe Muslims laid the foundations of a strong Central government and introduced an efficient system of administration with the same equal laws throughout the Sub-continent."
+                  },
+                  {
+                    "q": "Before the coming of the Muslims to South Asia, Hindus were less discreet about their dress.",
+                    "a": "Yes ✓\nBefore the advent of the Muslims, Hindus were hardly a well-dressed people and used to cover their bodies with one or two sheets; the Muslims first introduced the stitched dress."
+                  },
+                  {
+                    "q": "Art and literature flourished under the patronage of Muslim Salateen.",
+                    "a": "Yes ✓\nUnder the patronage of the Muslim rulers, learning and literature flourished in South Asia, and all branches of fine arts made rapid progress."
+                  },
+                  {
+                    "q": "Uch was the centre of Naqshbandi saints.",
+                    "a": "No ✗\nUch Sharif was the centre of Qadariyya thought; the saints of the Naqshbandiyya order came later, and Hazrat Mujaddid Alf Sani worked to free Muslim society of impurities."
+                  },
+                  {
+                    "q": "Sindh is called the \"Gate-way of Islam\".",
+                    "a": "Yes ✓\nIslam came into South Asia through Sindh, so it is called Bab-ul-Islam (Gateway of Islam)."
+                  },
+                  {
+                    "q": "The Pakistan Resolution was presented on March 23, 1940.",
+                    "a": "Yes ✓\nThe famous resolution was presented on March 23, 1940 at the Lahore session of the All India Muslim League and is known as the Lahore Resolution or Pakistan Resolution."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.3",
+            "name": "Fill in the blanks",
+            "exercises": [
+              {
+                "label": "(C) Fill in the blanks",
+                "items": [
+                  {
+                    "q": "The new art which was created after the coming of Muslims in South Asia is called __________.\n(Islamic art - Gandhara art - Indo-Islamic art)",
+                    "a": "Indo-Islamic art ✓\nIslamic art, which had already assimilated Egyptian, Roman, Greek and Persian arts, blended with Chinese and South Asian trends and gave birth to 'Indo-Islamic Art'."
+                  },
+                  {
+                    "q": "Quaid-i-Azam demanded reforms for N.W.F.P. in the year __________.\n(1913 A.D - 1927 A.D - 1934 A.D)",
+                    "a": "1927 A.D. ✓\nThe British had not extended constitutional governance to the province, and in 1927 the Quaid-i-Azam demanded reforms for it."
+                  },
+                  {
+                    "q": "Muslim League was founded in __________.\n(1911 A.D - 1906 A.D - 1905 A.D)",
+                    "a": "1906 A.D. ✓\nIn December 1906 the Muslim leaders assembled at Dhaka under Nawab Vaqar-ul-Mulk and announced the formation of the All India Muslim League."
+                  },
+                  {
+                    "q": "The __________ of Allama Iqbal showed the Muslims a new way on the basis of which they achieved Pakistan.\n(Allahabad Address - Madras Speeches)",
+                    "a": "Allahabad Address ✓\nIn his presidential address at Allahabad in December 1930, Allama Iqbal gave the idea of a separate Muslim state in the North-West; his speech proved a beacon light for the Muslims."
+                  },
+                  {
+                    "q": "The Lahore Resolution was presented in the year __________.\n(1946 A.D. - 1940 A.D. - 1935 A.D.)",
+                    "a": "1940 A.D. ✓\nThe Pakistan Resolution was presented on March 23, 1940 at the Lahore session of the All India Muslim League."
+                  },
+                  {
+                    "q": "In 1945 A.D. __________ came in power in England which sent a three-cabinet minister's mission to South Asia.\n(Labour party - Conservative party - Liberal party)",
+                    "a": "Labour party ✓\nIn 1945 the Labour party came into power in England, and in March 1946 it sent three of its cabinet members on a mission to South Asia."
+                  },
+                  {
+                    "q": "On June 3, 1947 A.D. __________ announced the partition of Sub-continent in two separate states.\n(Mountbatten - Cripps - Simon)",
+                    "a": "Mountbatten ✓\nLord Mountbatten, the Viceroy, announced his plan on June 3, 1947 for the partition of the Sub-continent into two separate states."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "display": "History of Pakistan",
+        "reading": "History of Pakistan",
+        "title": "History of Pakistan",
+        "unit": 2,
+        "words": [],
+        "sections": [
+          {
+            "num": "2.1",
+            "name": "Questions",
+            "exercises": [
+              {
+                "label": "(A) Questions",
+                "items": [
+                  {
+                    "q": "Give a brief account of the political conditions of South Asia from 1940 A.D. to the establishment of Pakistan.",
+                    "a": "On March 23, 1940, at Lahore, the All India Muslim League session presided over by the Quaid-i-Azam Muhammad Ali Jinnah unanimously adopted the Lahore Resolution (later the Pakistan Resolution), asserting that the Muslim majority units in the North-West and the North-East should be constituted into independent states. During the war the British government expressed its intention of giving independence to the Sub-continent immediately after the cessation of hostilities. In March 1942 Sir Stafford Cripps, a minister of the British cabinet, came with an offer which was rejected by the Congress and the Muslim League. In June 1945 Lord Wavell, the Viceroy, offered an interim government of all political parties, but this plan was also not accepted. The Congress claimed to be the sole representative body of all nations, but the Quaid-i-Azam challenged this and declared that only the Muslim League had the right to represent the Muslims; the central and provincial elections of the winter of 1945-46 substantiated this, as the Muslim League won all the Muslim seats of the Central Assembly and ninety percent of the Muslim seats of the Provincial Assemblies. In March 1946 the Cabinet Mission visited India with its Plan; the Muslim League accepted it but the Congress rejected it, and the Viceroy invited the Congress to form the government, so the League rejected the Plan too and later joined the interim government at Lord Wavell's request. After the war the Labour party came into power under Lord Attlee and, in view of the League's success in the 1945-46 elections, was inclined to the Partition Plan. Lord Mountbatten came to India as the Last Viceroy on March 22, 1947 and announced the partition plan on June 3, 1947: British India would be divided into Pakistan and India, the Punjab and Bengal would be partitioned if their assemblies so decided, a referendum would be held in N.W.F.P. and Sylhet, and the Shahi Jirga and the Quetta Municipality would decide for Balochistan. The Muslim League accepted the basic principles of the Plan in its June 9, 1947 meeting. On July 18, 1947 the British Parliament passed the Indian Independence Act, and from August 15, 1947 two independent states of India and Pakistan were established with Dominion status."
+                  },
+                  {
+                    "q": "Discuss the initial problems of the establishment of Pakistan and the role of the people of Pakistan during the difficult times.",
+                    "a": "The initial problems were:\n(1) Administrative problem — India created numerous problems from the very beginning, and there was an acute shortage of resources and accommodation; Karachi was made the capital, many Central government offices were set up in barracks, and the trains carrying official records and government servants from Delhi were attacked and important records burnt.\n(2) Refugee problem — after partition, anti-Muslim riots broke out, particularly in the Eastern Punjab; millions of innocent Muslims were killed and several hundred thousand wounded, destitute and hungry people arrived daily into Pakistan; food, shelter, medicines, education, permanent settlement and employment had to be provided, and by 1948 about 12.5 million Muslim refugees had crossed the border.\n(3) Distribution of assets — of the fixed security deposits of Rs. 4 billion, one billion rupees was Pakistan's share, but India paid only Rs. 200 million and refused the rest; in November 1947 the representatives of Pakistan and India met in Delhi and decided Pakistan's share in the national loans at 17.5 percent, but India still refused to pay.\n(4) Distribution of armed forces — the division of armies and military assets was the most sensitive problem; it was settled that one-third of the military equipment would go to Pakistan, but all the Ordinance Factories were in India and the Government of India refused to shift them.\n(5) River water problem — Radcliffe gave the Madhupur headworks on the Ravi and the Ferozepur headworks on the Sutlej to India, and India stopped the water in these canals from April 1, 1948; the dispute was finally resolved by the Indus-Basin Treaty of 1960.\n(6) Accession of states — Junagadh, Manawadar and Mangrol announced accession to Pakistan but India attacked and occupied them; the state of Jammu and Kashmir, where Muslims formed 96 percent of the population in the valley and 70 percent in the Jammu area, was the most important problem.\nThe people of Pakistan played a great role in these difficult times: despite the acute shortage of resources the nation never faltered or fell victim to any inferiority complex; the people and the government jointly met the refugee problem, the people donated generously to the Quaid-i-Azam Relief Fund, and under the dynamic leadership of the Quaid-i-Azam the nation stood firm and resolute and steered the new state out of its troubled times."
+                  },
+                  {
+                    "q": "How did Quaid-i-Azam guide the nation in the consolidation of Pakistan?",
+                    "a": "After the establishment of Pakistan the Quaid-i-Azam created the spirit of nation-hood among the people, and his principles served as the fountain head of all solutions. The first session of the Constituent Assembly was held on August 11, 1947 at Karachi, and on August 14, 1947 the Quaid was appointed the first Governor-General of Pakistan, with Liaquat Ali Khan as the first Prime Minister. Although the powers of the Governor-General under the amended Act of 1935 were limited, he was loved and respected by his people and chaired the cabinet meetings many a time. He gave immediate attention to the fundamental problems and laid down these guiding principles:\n(1) Rehabilitation of refugees — he instituted the Quaid-i-Azam Relief Fund, appealed to the rich to donate generously, visited Lahore in October 1947 to help the refugees, and said it was the responsibility of Pakistanis to help them.\n(2) Advice to the government officers to change their attitude — on March 25, 1948 he told the officers that they were servants of the people, not rulers, and must maintain the highest standard of honour, integrity, justice and fair play.\n(3) Advice to shun parochialism and ethnic prejudices — on June 15, 1948 he said, 'We are now all Pakistanis — not Balochis, Pathans, Sindhis, Bengalis, Punjabis, and so on'; he ordered the withdrawal of the army from Waziristan Agency and set up a separate ministry for the states and frontier regions.\n(4) Fundamental principles for the economy — at the opening of the State Bank of Pakistan on July 1, 1948 he said the West's economic system had created almost insoluble problems, and Pakistan must present an economic system based on the true Islamic concept of equality of mankind with social justice.\n(5) Foreign policy strategy — he secured Pakistan's membership of the United Nations and established diplomatic relations with many countries; the cardinal point was friendly relations on the basis of equality with all countries, with particular emphasis on neighbouring Muslim states.\n(6) Advising the students — in his address to the students at Peshawar he emphasised that they should devote their full attention to the attainment of knowledge and keep themselves away from the politics of violence. In this way he guided the nation through the most difficult days of its early life."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.2",
+            "name": "Tick the correct statement",
+            "exercises": [
+              {
+                "label": "(B) Tick (✓) the correct statement",
+                "items": [
+                  {
+                    "q": "The First World War had considerably weakened the British as world power.",
+                    "a": "✗ Incorrect\nIt was the Second World War (1939–1945) that considerably weakened the British as a world power, not the First World War."
+                  },
+                  {
+                    "q": "On March 23, 1940 at Lahore, Pakistan Resolution was passed in the session of All India Muslim League.",
+                    "a": "✓ Correct\nOn March 23, 1940 at Lahore, in the All India Muslim League session presided over by the Quaid-i-Azam, the Lahore Resolution was unanimously adopted; it later came to be known as the Pakistan Resolution."
+                  },
+                  {
+                    "q": "Sir Stafford Cripps, the British cabinet minister, visited on June 6, 1940.",
+                    "a": "✗ Incorrect\nSir Stafford Cripps, a minister of the British cabinet, came with the offer in March 1942, not on June 6, 1940."
+                  },
+                  {
+                    "q": "In the winter of 1945-46, elections were held to Central and Provincial Assemblies and the Muslim League won a landslide victory.",
+                    "a": "✓ Correct\nIn the central and provincial elections held in the winter of 1945-46, the Muslim League won all the Muslim seats of the Central Assembly and ninety percent of the Muslim seats of the Provincial Assemblies."
+                  },
+                  {
+                    "q": "On June 3, 1941 the Plan to partition of India was presented.",
+                    "a": "✗ Incorrect\nThe partition plan was announced by Lord Mountbatten on June 3, 1947, not on June 3, 1941."
+                  },
+                  {
+                    "q": "The British Parliament agreed to the partition of India plan and made it an Act of Parliament on July 18, 1947.",
+                    "a": "✓ Correct\nOn July 18, 1947 the British Parliament accepted the Partition Plan and passed the Indian Independence Act of 1947."
+                  },
+                  {
+                    "q": "At the time of partition of India, while deciding the Boundaries of the Punjab, the tehsils of Gurdaspur, Batala, Ferozpur and Lira were illegally and injudiciously included into India.",
+                    "a": "✓ Correct\nIn demarcating the boundaries of the Punjab, Radcliffe gave to India the Muslim majority tehsils of Gurdaspur, Batala, Ferozepur and Zira. (The exercise prints 'Lira', a misprint for 'Zira'.)"
+                  },
+                  {
+                    "q": "The conference of the representatives of India and Pakistan was held at Delhi to decide the distribution of assets.",
+                    "a": "✓ Correct\nIn November 1947 the representatives of Pakistan and India met in Delhi, and the Conference decided that the share of Pakistan in the national loans shall be 17.5 percent."
+                  },
+                  {
+                    "q": "In the state of Jammu and Kashmir the Maharaja Kashmir ordered that all Muslim employees in the armed forces and police be removed from service and their arms surrender.",
+                    "a": "✓ Correct\nThe Maharaja of the state relieved the Muslims from the army and ordered them to surrender their weapons."
+                  },
+                  {
+                    "q": "Quaid-i-Azam, Muhammad Ali Jinnah, with his qualities of leadership and wisdom, not only won for the Muslims of Sub-continent a separate Muslim state but laid down fundamental principles for its consolidation and strength.",
+                    "a": "✓ Correct\nThe Quaid-i-Azam's towering personality and vision won a separate Muslim state, and after its establishment he laid down the fundamental principles for its consolidation — rehabilitation of refugees, the officers' attitude, shunning parochialism, the economy, foreign policy and the students."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.3",
+            "name": "Write brief answers",
+            "exercises": [
+              {
+                "label": "(C) Write brief answers",
+                "items": [
+                  {
+                    "q": "Write the names of five Muslim leaders who rendered valuable services towards safeguarding the status of Muslims of the Sub-continent in the field of politics, religion and culture.",
+                    "a": "Sir Syed Ahmed Khan, Nawab Saleemullah Khan of Dhaka, Nawab Mohsin-ul-Mulk, Nawab Viqar-ul-Mulk and Syed Amir Ali. (The chapter also names Sir Aga Khan third, Chaudhry Rahmat Ali, Allama Iqbal, Quaid-i-Azam Muhammad Ali Jinnah and Abdullah Haroon.)"
+                  },
+                  {
+                    "q": "What would have been the impact of Westminster Democracy for the Muslims in the United India?",
+                    "a": "The introduction of western-type democracy in a united India would have meant the permanent majority of the Hindus, who would then become masters of the land for ever; the Muslims, a perpetual minority, could never dream of breaking the chains of slavery."
+                  },
+                  {
+                    "q": "When did the Cabinet Mission visit India?",
+                    "a": "In March 1946.\nA delegation of three British cabinet ministers, called the 'Cabinet Mission', visited India in March 1946 and gave its Plan to the political parties."
+                  },
+                  {
+                    "q": "Which party was in power in Britain at the time of the partition of the Sub-continent?",
+                    "a": "The Labour party.\nAfter the war the Labour party came into power under Lord Attlee, and it was the Labour government that sent the Cabinet Mission and later accepted the Partition Plan."
+                  },
+                  {
+                    "q": "Write three main points of the Partition Plan.",
+                    "a": "1. British India will be divided into two parts (Pakistan and India).\n2. Separate meetings of the Hindu and Muslim members of the Punjab and Bengal Provincial Assemblies will be held, and if they decide for partition, their provinces shall also be partitioned.\n3. A referendum shall be held in N.W.F.P. to decide if the province wants to join Pakistan or India (and the Muslim majority district of Sylhet in Assam shall decide about its future by referendum)."
+                  },
+                  {
+                    "q": "Write down the three important sections of the Indian-Independence Act of 1947.",
+                    "a": "1. British India shall be partitioned into two sovereign states.\n2. The British Government would have no control over the affairs of the Dominions, Provinces or any part of the Dominions; the Constituent Assemblies of both the Dominions shall exercise full and comprehensive legislative powers in their respective areas.\n3. Until a new constitution was framed for both the states, the affairs of each state shall be conducted in accordance with the provisions of the Government of India Act 1935, read with the Indian Independence Act, 1947."
+                  },
+                  {
+                    "q": "What were the comments of the Quaid-i-Azam on the Radcliffe Award?",
+                    "a": "Commenting on the Radcliffe Award, the Quaid-i-Azam said: 'This award is unjust, incomprehensible and preposterous. Since I have vowed to act upon it, I consider it binding on us.'"
+                  },
+                  {
+                    "q": "What do you know about the Indus-Basin Treaty?",
+                    "a": "After the unjust partition of the Punjab, India stopped the water in the canals from April 1, 1948, and the river water dispute was referred to the UN; the World Bank offered its services, and after long deliberations the Indus-Basin Treaty was signed in 1960 and ratified by both governments in 1961. Under it, India got the right to use the waters of the three eastern rivers (Sutlej, Ravi and Beas), and the three western rivers (Chenab, Jhelum and Indus) were given to Pakistan."
+                  },
+                  {
+                    "q": "What was the ratio of Muslim population in the state of Jammu and Kashmir according to the census of 1941?",
+                    "a": "According to the 1941 census the total population of the state was 4 million. The Muslims formed 96 percent of the population in the valley of Kashmir and 70 percent of the total population of the Jammu area."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     ]
 };
