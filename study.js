@@ -415544,6 +415544,7 @@ function renderSubjectMaterial(cls, subj){
   else if(cls === "v") data = STUDY.v;
   else if(cls === "xi") data = STUDY.xi;
   else if(cls === "xii") data = STUDY.xii;
+  else if(cls === "iv") data = STUDY.iv;
   if(subj === "English" && STUDY[cls] && STUDY[cls].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].exsolutions});
   if(subj === "Sindhi" && STUDY[cls] && STUDY[cls].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sindhiExsolutions});
   if((subj === "Asan Urdu" || subj === "Urdu Salees") && STUDY[cls] && STUDY[cls].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].urduExsolutions});
@@ -415569,9 +415570,9 @@ if((subj || "").indexOf("Mathematics") === 0 && (subj || "").indexOf("Sindhi") >
   matCls = cls;
   var _guideTab = null;
   if(subj === "English"){
-    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii" || cls === "iv") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
   } else {
-    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
+    if((cls === "x" || cls === "ix" || cls === "viii" || cls === "vii" || cls === "vi" || cls === "v" || cls === "xi" || cls === "xii" || cls === "iv") && (subj || "").indexOf("Mathematics") === 0 && data.mathsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
     if((subj || "").indexOf("Sindhi") === 0 && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
     if(((subj || "") === "Asan Urdu" || (subj || "") === "Urdu Salees") && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
     if((subj || "") === "Gulzar-E-Urdu" && STUDY[cls] && STUDY[cls].urduExsolutionsGulzar) _guideTab = ["exsolutions", guideLabel(subj)];
@@ -415630,6 +415631,7 @@ function openMatPage(tab, cls, subj){
   else if(c === "v") data = STUDY.v;
   else if(c === "xi") data = STUDY.xi;
   else if(c === "xii") data = STUDY.xii;
+  else if(c === "iv") data = STUDY.iv;
   if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(s === "Sindhi" && STUDY[c] && STUDY[c].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sindhiExsolutions});
   if((s === "Asan Urdu" || s === "Urdu Salees") && STUDY[c] && STUDY[c].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutions});
@@ -415695,6 +415697,7 @@ function openExUnit(n, cls, subj){
   else if(c === "v") data = STUDY.v;
   else if(c === "xi") data = STUDY.xi;
   else if(c === "xii") data = STUDY.xii;
+  else if(c === "iv") data = STUDY.iv;
   if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(s === "Sindhi" && STUDY[c] && STUDY[c].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sindhiExsolutions});
   if((s === "Asan Urdu" || s === "Urdu Salees") && STUDY[c] && STUDY[c].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutions});
@@ -415819,6 +415822,7 @@ function openMathUnit(n, cls, subj){
   else if(c === "v") data = STUDY.v;
   else if(c === "xi") data = STUDY.xi;
   else if(c === "xii") data = STUDY.xii;
+  else if(c === "iv") data = STUDY.iv;
   if(s === "English" && STUDY[c] && STUDY[c].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].exsolutions});
   if(s === "Sindhi" && STUDY[c] && STUDY[c].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sindhiExsolutions});
   if((s === "Asan Urdu" || s === "Urdu Salees") && STUDY[c] && STUDY[c].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutions});
