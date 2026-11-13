@@ -415554,6 +415554,7 @@ function renderSubjectMaterial(cls, subj){
   if(subj === "Gulzar-E-Urdu" && STUDY[cls] && STUDY[cls].urduExsolutionsGulzar && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].urduExsolutionsGulzar});
 if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sciExsolutions});
 if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sciExsolutionsEn});
+if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sciExsolutionsUrdu});
 if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].islExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].islExsolutions});
 if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].islExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].islExsolutionsEn});
 if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].islExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].islExsolutionsUrdu});
@@ -415569,6 +415570,7 @@ if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("Engli
 if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].csExsolutionsSindhi && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].csExsolutionsSindhi});
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutions});
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutionsEn});
+if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutionsUrdu});
 if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutions});
 if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutionsEn});
 if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutionsUrdu});
@@ -415589,6 +415591,7 @@ if((subj || "").indexOf("Mathematics") === 0 && (subj || "").indexOf("Urdu") >= 
     if((subj || "") === "Gulzar-E-Urdu" && STUDY[cls] && STUDY[cls].urduExsolutionsGulzar) _guideTab = ["exsolutions", guideLabel(subj)];
     if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && data.exsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutionsEn) _guideTab = ["exsolutions", guideLabel(subj)];
+if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutionsUrdu) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].islExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].islExsolutionsEn) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].islExsolutionsUrdu) _guideTab = ["exsolutions", guideLabel(subj)];
@@ -415604,6 +415607,7 @@ if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("Engli
 if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].csExsolutionsSindhi) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].socExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsEn) _guideTab = ["exsolutions", guideLabel(subj)];
+if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsUrdu) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutions) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsEn) _guideTab = ["exsolutions", guideLabel(subj)];
 if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsUrdu) _guideTab = ["exsolutions", guideLabel(subj)];
@@ -415657,6 +415661,7 @@ function openMatPage(tab, cls, subj){
   if(s === "Gulzar-E-Urdu" && STUDY[c] && STUDY[c].urduExsolutionsGulzar && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutionsGulzar});
 if((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].sciExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutions});
 if((s || "").indexOf("Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].sciExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutionsEn});
+if((s || "").indexOf("Science") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].sciExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutionsUrdu});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].islExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutions});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].islExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutionsEn});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].islExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutionsUrdu});
@@ -415672,6 +415677,7 @@ if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >
 if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].csExsolutionsSindhi && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutionsSindhi});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsEn});
+if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].socExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsUrdu});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutions});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsEn});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsUrdu});
@@ -415732,6 +415738,7 @@ function openExUnit(n, cls, subj){
   if(s === "Gulzar-E-Urdu" && STUDY[c] && STUDY[c].urduExsolutionsGulzar && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutionsGulzar});
 if((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].sciExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutions});
 if((s || "").indexOf("Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].sciExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutionsEn});
+if((s || "").indexOf("Science") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].sciExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutionsUrdu});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].islExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutions});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].islExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutionsEn});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].islExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutionsUrdu});
@@ -415747,6 +415754,7 @@ if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >
 if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].csExsolutionsSindhi && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutionsSindhi});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsEn});
+if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].socExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsUrdu});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutions});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsEn});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsUrdu});
@@ -415866,6 +415874,7 @@ function openMathUnit(n, cls, subj){
   if(s === "Gulzar-E-Urdu" && STUDY[c] && STUDY[c].urduExsolutionsGulzar && data) data = Object.assign({}, data, {exsolutions: STUDY[c].urduExsolutionsGulzar});
 if((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].sciExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutions});
 if((s || "").indexOf("Science") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].sciExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutionsEn});
+if((s || "").indexOf("Science") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].sciExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].sciExsolutionsUrdu});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].islExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutions});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].islExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutionsEn});
 if((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].islExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].islExsolutionsUrdu});
@@ -415879,6 +415888,7 @@ if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("English") >
 if((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].csExsolutionsSindhi && data) data = Object.assign({}, data, {exsolutions: STUDY[c].csExsolutionsSindhi});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutions});
 if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsEn});
+if((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].socExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].socExsolutionsUrdu});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0 && STUDY[c] && STUDY[c].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutions});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("English") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsEn});
 if((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Urdu") >= 0 && STUDY[c] && STUDY[c].gkExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[c].gkExsolutionsUrdu});
