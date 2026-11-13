@@ -3,7 +3,7 @@
    Lets students open and take tests offline once they have visited the site.
    Cache-first with background refresh for same-origin GET requests only;
    form submissions and other requests are never cached. */
-const CACHE = 'mcq-tests-v115';
+const CACHE = 'mcq-tests-v116';
 const ASSETS = [
   './',
   'index.html',
@@ -17,6 +17,7 @@ const ASSETS = [
   'study-vi-ur.js',
   'study-vii-ur.js',
   'study-viii-ur.js',
+  'study-ix-ur.js',
   'manifest.json',
   'icon-192.png',
   'icon-512.png',
