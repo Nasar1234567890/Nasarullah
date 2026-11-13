@@ -37831,7 +37831,8 @@ function subjectHasGuide(cls, subj){
     if(subj==='Asan Urdu') return !!(STUDY[cls] && STUDY[cls].urduExsolutions) && ['iii','iv','v','vi','vii','viii'].indexOf(cls)>=0;
     if(subj==='Urdu Salees') return !!(STUDY[cls] && STUDY[cls].urduExsolutions);
     if(subj==='Gulzar-E-Urdu') return !!(STUDY[cls] && STUDY[cls].urduExsolutionsGulzar);
-    if(subj==='Urdu'||subj==='Asan Sindhi') return false;
+    if(subj==='Urdu') return !!(STUDY[cls] && STUDY[cls].urduExsolutionsUrdu);
+    if(subj==='Asan Sindhi') return !!(STUDY[cls] && STUDY[cls].asanSindhiExsolutions);
     var _v=(subj||'').indexOf('Sindhi Version')>=0?'sd':((subj||'').indexOf('English Version')>=0?'en':((subj||'').indexOf('Urdu Version')>=0?'ur':null));
     if(_v){
       var _k=null;
