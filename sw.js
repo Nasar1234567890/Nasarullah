@@ -3,7 +3,7 @@
    Lets students open and take tests offline once they have visited the site.
    Cache-first with background refresh for same-origin GET requests only;
    form submissions and other requests are never cached. */
-const CACHE = 'mcq-tests-v118';
+const CACHE = 'mcq-tests-v119';
 const ASSETS = [
   './',
   'index.html',
@@ -26,23 +26,6 @@ const ASSETS = [
   'fonts/NotoNaskhArabic-Regular.ttf',
   'fonts/NotoNaskhArabic-Bold.ttf',
   'fonts/NotoNastaliqUrdu-Regular.woff2',
-  'images/subjects/asan-sindhi.jpg',
-  'images/subjects/asan-urdu.jpg',
-  'images/subjects/biology.jpg',
-  'images/subjects/chemistry.jpg',
-  'images/subjects/computer-science.jpg',
-  'images/subjects/english.jpg',
-  'images/subjects/general-knowledge.jpg',
-  'images/subjects/gulzar-e-urdu.jpg',
-  'images/subjects/islamiat.jpg',
-  'images/subjects/mathematics.jpg',
-  'images/subjects/pakistan-studies.jpg',
-  'images/subjects/physics.jpg',
-  'images/subjects/science.jpg',
-  'images/subjects/sindhi.jpg',
-  'images/subjects/social-studies.jpg',
-  'images/subjects/urdu-salees.jpg',
-  'images/subjects/urdu.jpg',
 ];
 
 self.addEventListener('install', function (e) {
