@@ -44,15 +44,16 @@ button{font:inherit;cursor:pointer}
 .testbtn.en{text-align:left}
 .testbtn:active{transform:scale(0.98)}
 .chiprow{display:flex;flex-wrap:wrap;gap:10px;margin-block-start:6px;margin-block-end:16px;margin-inline:0}
-.classchip{flex:1 1 auto;min-width:92px;padding-block:12px;padding-inline:10px;border:2px solid var(--primary);border-radius:14px;background:#fff;color:var(--primary);font-size:19px;font-weight:800;text-align:center}
+.classchip{flex:1 1 auto;min-width:92px;min-height:58px;padding-block:12px;padding-inline:10px;border:2px solid var(--primary);border-radius:15px;background:#fff;color:var(--primary);font-size:19px;font-weight:800;text-align:center}
 .classchip small{display:block;font-size:12px;font-weight:600;color:var(--muted);margin-block-start:2px}
 .classchip.sel{background:var(--primary);color:#fff}
 .classchip.sel small{color:rgba(255,255,255,.85)}
+#classChips .classchip small{color:rgba(255,255,255,.85)}
 .classchip:active{transform:scale(0.97)}
 .namecard{margin-block-end:16px}
 .namecard p{margin:0}
 .subjgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px;margin-block:14px;margin-inline:0}
-.subjcard{display:flex;flex-direction:column;align-items:center;gap:2px;margin:0;text-align:center;padding-block:14px 10px;padding-inline:8px;border:2px solid var(--line);border-radius:14px;background:#fff;box-shadow:0 2px 8px rgba(13,47,74,.08);transition:transform .08s ease}
+.subjcard{display:flex;flex-direction:column;align-items:center;gap:2px;margin:0;text-align:center;padding-block:14px 10px;padding-inline:8px;border:1px solid #d9e6e8;border-radius:20px;background:#fff;box-shadow:0 6px 20px rgba(13,47,74,.09), 0 1px 3px rgba(13,47,74,.06);transition:transform .08s ease}
 .subjcard:active{transform:scale(0.98)}
 .speech-sec{margin:20px 0 4px;font-size:19px;color:var(--navy)}
 .speech-item{display:block;width:100%;text-align:start;background:#fff;border:2px solid var(--line);border-radius:12px;padding:13px 15px;margin:8px 0;font-size:17px;font-weight:700;color:var(--navy)}
@@ -324,6 +325,86 @@ body.dark #matcontent.pro-guide table.pro-words td{border-color:#23414c}
 body.dark #matcontent.pro-guide table.pro-table tr:nth-child(even) td{background:#12262e}
 body.dark #matcontent.pro-guide table.pro-table td{border-color:#23414c}
 @media print{ button{display:none!important} }
+
+/* ---- v118 design refresh ---- */
+#examNotice{display:none}
+#classChips .classchip[data-cls="iii"]{background:#c05621;border-color:#c05621;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #c05621 45%, transparent)}
+#classChips .classchip[data-cls="iii"].sel{background:#c05621;border-color:#c05621;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #c05621 45%, transparent)}
+#classChips .classchip[data-cls="iv"]{background:#2f855a;border-color:#2f855a;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #2f855a 45%, transparent)}
+#classChips .classchip[data-cls="iv"].sel{background:#2f855a;border-color:#2f855a;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #2f855a 45%, transparent)}
+#classChips .classchip[data-cls="v"]{background:#0b5563;border-color:#0b5563;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #0b5563 45%, transparent)}
+#classChips .classchip[data-cls="v"].sel{background:#0b5563;border-color:#0b5563;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #0b5563 45%, transparent)}
+#classChips .classchip[data-cls="vi"]{background:#2b6cb0;border-color:#2b6cb0;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #2b6cb0 45%, transparent)}
+#classChips .classchip[data-cls="vi"].sel{background:#2b6cb0;border-color:#2b6cb0;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #2b6cb0 45%, transparent)}
+#classChips .classchip[data-cls="vii"]{background:#9b2c2c;border-color:#9b2c2c;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #9b2c2c 45%, transparent)}
+#classChips .classchip[data-cls="vii"].sel{background:#9b2c2c;border-color:#9b2c2c;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #9b2c2c 45%, transparent)}
+#classChips .classchip[data-cls="viii"]{background:#0d2f4a;border-color:#0d2f4a;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #0d2f4a 45%, transparent)}
+#classChips .classchip[data-cls="viii"].sel{background:#0d2f4a;border-color:#0d2f4a;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #0d2f4a 45%, transparent)}
+#classChips .classchip[data-cls="ix"]{background:#6b46c1;border-color:#6b46c1;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #6b46c1 45%, transparent)}
+#classChips .classchip[data-cls="ix"].sel{background:#6b46c1;border-color:#6b46c1;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #6b46c1 45%, transparent)}
+#classChips .classchip[data-cls="x"]{background:#975a16;border-color:#975a16;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #975a16 45%, transparent)}
+#classChips .classchip[data-cls="x"].sel{background:#975a16;border-color:#975a16;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #975a16 45%, transparent)}
+#classChips .classchip[data-cls="xi"]{background:#276749;border-color:#276749;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #276749 45%, transparent)}
+#classChips .classchip[data-cls="xi"].sel{background:#276749;border-color:#276749;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #276749 45%, transparent)}
+#classChips .classchip[data-cls="xii"]{background:#805030;border-color:#805030;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #805030 45%, transparent)}
+#classChips .classchip[data-cls="xii"].sel{background:#805030;border-color:#805030;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #805030 45%, transparent)}
+#classChips .classchip[data-cls="gk"]{background:#475569;border-color:#475569;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #475569 45%, transparent)}
+#classChips .classchip[data-cls="gk"].sel{background:#475569;border-color:#475569;color:#fff;box-shadow:0 4px 10px color-mix(in srgb, #475569 45%, transparent)}
+#home{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'%3E%3Cg fill='none' stroke='%230b5563' stroke-opacity='0.07' stroke-width='2'%3E%3Ccircle cx='24' cy='30' r='14'/%3E%3Cpath d='M104 96l14 24H90z'/%3E%3Crect x='96' y='14' width='20' height='20' rx='5'/%3E%3Ccircle cx='52' cy='112' r='7'/%3E%3C/g%3E%3C/svg%3E");background-size:140px 140px;border-radius:24px}
+body.dark #home{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'%3E%3Cg fill='none' stroke='%237fd4de' stroke-opacity='0.05' stroke-width='2'%3E%3Ccircle cx='24' cy='30' r='14'/%3E%3Cpath d='M104 96l14 24H90z'/%3E%3Crect x='96' y='14' width='20' height='20' rx='5'/%3E%3Ccircle cx='52' cy='112' r='7'/%3E%3C/g%3E%3C/svg%3E")}
+@keyframes v118fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes v118fadeonly{from{opacity:0}to{opacity:1}}
+.subjcard,.classchip{animation:v118fade .35s ease}
+#classpage,#subjectpage,#matpage,#result{animation:v118fadeonly .25s ease}
+.subjcard.has-pic{padding-top:14px}
+.subjpic{width:100%;height:96px;object-fit:cover;border-radius:10px;display:block;margin-bottom:8px}
+.testgroup-h{margin:22px 0 4px;font-size:18px;color:var(--navy)}
+body.dark .testgroup-h{color:#E0E0E0}
+.testbtn,#subjectguide .modebtn{background:var(--primary);color:#fff;border:2px solid var(--primary)}
+.testbtn small{color:rgba(255,255,255,.88)}
+#subjectguide .modebtn{padding:16px;font-size:19px}
+body.dark .testbtn{background:var(--primary);color:#fff;border-color:var(--primary)}
+body.dark .testbtn small{color:rgba(255,255,255,.88)}
+body.dark #subjectguide .modebtn{background:var(--primary);color:#fff}
+.v118-cover{display:flex;gap:12px;align-items:center;background:#eef6f7;border:2px solid var(--line);border-radius:14px;padding:12px;margin:0 0 14px}
+.v118-cover-pic{width:96px;height:72px;object-fit:cover;border-radius:10px;flex-shrink:0}
+.v118-cover-title{font-size:18px;font-weight:800;color:var(--navy);line-height:1.3}
+.v118-cover-meta{font-size:14px;color:var(--muted);margin-top:4px}
+.v118-fontrow{margin-top:8px;display:flex;gap:6px;align-items:center;flex-wrap:wrap;font-size:14px;font-weight:700;color:var(--muted)}
+.v118-fontbtn{padding:5px 11px;border-radius:8px;border:2px solid var(--primary);background:#fff;color:var(--primary);font-size:15px;font-weight:800}
+.v118-fontbtn.sel{background:var(--primary);color:#fff}
+body.dark .v118-cover{background:#123a5c;border-color:#333}
+body.dark .v118-cover-title{color:#E0E0E0}
+body.dark .v118-fontbtn{background:#1E1E1E}
+.v118-unit{margin:10px 0;border:2px solid var(--line);border-radius:12px;overflow:hidden;background:#fff}
+.v118-unit-head{display:flex;justify-content:space-between;align-items:center;gap:10px;width:100%;text-align:left;padding:14px;background:#eef6f7;border:0;font-size:17px;font-weight:800;color:var(--navy)}
+.v118-unit.open .v118-unit-head{background:#dff3f2}
+.v118-unit-chev{flex-shrink:0;transition:transform .2s ease}
+.v118-unit.open .v118-unit-chev{transform:rotate(180deg)}
+.v118-unit-body{padding:4px 12px 12px}
+body.dark .v118-unit{background:#1E1E1E;border-color:#333}
+body.dark .v118-unit-head{background:#123a5c;color:#E0E0E0}
+body.dark .v118-unit.open .v118-unit-head{background:#0b5563;color:#fff}
+.v118-chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 4px}
+.v118-chip{padding:6px 11px;border-radius:999px;border:1.5px solid var(--primary);background:#fff;color:var(--primary);font-size:14px;font-weight:700}
+.v118-chip:active{transform:scale(0.96)}
+body.dark .v118-chip{background:#1E1E1E}
+#matcontent.pro-guide[dir="rtl"] .pro-q,#matcontent.pro-guide[dir="rtl"] .pro-a,#matcontent.urdu-mat .pro-q,#matcontent.urdu-mat .pro-a{font-size:1.18em;line-height:2.05}
+#matcontent.pro-guide[dir="rtl"] .pro-words td{line-height:1.9}
+.v118-recent{margin:2px 0 14px}
+.v118-recent h3{margin:0 0 8px;font-size:17px;color:var(--navy)}
+.v118-recent-row{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px}
+.v118-recent-item{flex:0 0 auto;max-width:230px;text-align:left;padding:10px 12px;border:2px solid var(--line);border-radius:12px;background:#fff;font-size:15px;font-weight:700;color:var(--navy)}
+.v118-recent-item small{display:block;font-size:12px;font-weight:400;color:var(--muted);margin-top:2px}
+body.dark .v118-recent h3{color:#E0E0E0}
+body.dark .v118-recent-item{background:#1E1E1E;border-color:#333;color:#E0E0E0}
+.v118-stars{text-align:center;font-size:32px;letter-spacing:6px;margin:4px 0 2px}
+.v118-stars .on{color:#f59e0b}
+.v118-stars .off{color:#d1d5db}
+.v118-weak{margin:12px 0;text-align:left}
+.v118-weak h3{margin:0 0 6px;font-size:17px;color:var(--navy)}
+.v118-weak li{font-size:15px;line-height:1.7}
+body.dark .v118-weak h3{color:#E0E0E0}
 </style>
 </head>
 <body>
@@ -357,6 +438,7 @@ body.dark #matcontent.pro-guide table.pro-table td{border-color:#23414c}
 <button class="classchip" data-cls="xii" onclick="showClass('xii')">XII<small>Std. 12</small></button>
 <button class="classchip" data-cls="gk" onclick="showClass('gk')">GK<small>General Knowledge</small></button>
 </div>
+<div id="recentRow" class="v118-recent" style="display:none"></div>
 <div class="homepanel">
 <h2 data-i18n="homeHeading">Choose your class or section</h2>
 <p class="note" data-i18n="homeNote">No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.</p>
@@ -536,6 +618,8 @@ body.dark #matcontent.pro-guide table.pro-table td{border-color:#23414c}
 <div class="ringwrap"><svg class="scorering" viewBox="0 0 200 200"><circle class="ringbg" cx="100" cy="100" r="82"></circle><circle class="ringfg" id="ringfg" cx="100" cy="100" r="82"></circle><text id="ringpct" x="100" y="97" text-anchor="middle">0%</text><text id="ringscore" x="100" y="122" text-anchor="middle">0 / 0</text></svg></div>
 <div id="confetti"></div>
 <p id="scorenote" style="text-align:center"></p>
+<div id="v118stars" class="v118-stars" style="display:none"></div>
+<div id="weaktopics" style="display:none"></div>
 <p id="newbest" class="note hidden" style="text-align:center;font-weight:700;color:#15803d">🎉 New best!</p>
 <p id="targetnote" class="note hidden" style="text-align:center;font-weight:700"></p>
 <div id="review"></div>
@@ -37862,7 +37946,9 @@ function subjectCardHtml(cls, s){
   var g=subjectHasGuide(cls,s);
   var meta=g?(n>0?n+' TESTS \u00b7 GUIDE':'GUIDE'):(n>0?n+' TESTS':'Study material');
   var sd=SUBJ_SD[subjBase(s)]||'';
-  return '<button class="subjcard" onclick="showSubject(\''+cls+'\',\''+s+'\')"><span class="subjicon-tile '+subjTint(s)+'">'+subjIcon(s)+'</span><span class="subjname">'+s+'</span>'+(sd?'<span class="subjsd">'+sd+'</span>':'')+'<span class="subjmeta">'+meta+'</span></button>';
+  var pic=subjPic(s);
+  var isNew=g&&v118IsNewUrduGuide(cls,s);
+  return '<button class="subjcard'+(pic?' has-pic':'')+'" onclick="showSubject(\''+cls+'\',\''+s+'\')">'+(pic?'<img class="subjpic" src="'+pic+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">':'')+'<span class="subjicon-tile '+subjTint(s)+'">'+subjIcon(s)+'</span><span class="subjname">'+s+(isNew?' <span class="newbadge">NEW</span>':'')+'</span>'+(sd?'<span class="subjsd">'+sd+'</span>':'')+'<span class="subjmeta">'+meta+'</span></button>';
 }
 function subjectCardsGridHtml(cls){
   return '<div class="subjgrid">'+CLASS_SUBJECTS[cls].filter(function(s){
@@ -37978,12 +38064,7 @@ function renderTestList(cls, title, keys){
   var _sg=document.getElementById('subjectguide'); if(_sg) _sg.innerHTML='';
   document.getElementById('subjecttitle').textContent=title+' \u2014 '+tr('chooseTest');
   document.getElementById('subjectback').textContent=tr('backSubjects');
-  document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':keys.map(function(k){
-    var t=QUESTIONS[k];
-    var _h='<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'||k==='gk4'||k==='gk5'||k==='gk6'||k==='gk7'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button><button class="modebtn" style="display:none" onclick="shareTest(\''+k+'\')">\u2197 '+tr('shareTest')+'</button>';
-    if(typeof CHAPTERS!=='undefined'){ Object.keys(CHAPTERS).forEach(function(ck){ var ch=CHAPTERS[ck]; if(ch.parent!==k) return; var cb=getBest(ck); _h+='<button class="testbtn'+(ch.dir==='ltr'?' en':'')+'" onclick="startTest(\''+ck+'\')">'+ch.title+'<small>'+chapterCount(ck)+' MCQs &middot; '+ch.minutes+' minutes &middot; Chapter test</small><small>'+(cb===null?'':'Best: '+cb+'/'+chapterCount(ck))+'</small>'+lastTakenHtml(ck)+histHtml(ck)+'</button><button class="modebtn" style="display:none" onclick="shareTest(\''+ck+'\')">\u2197 '+tr('shareTest')+'</button>'; }); }
-    return _h;
-  }).join('');
+  document.getElementById('subjecttests').innerHTML=keys.length===0?'<p class="note">'+tr('noTests')+'</p>':v118TestGroupsHtml(cls,keys);
   document.getElementById('home').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
   document.getElementById('subjectpage').classList.add('hidden');
@@ -38233,9 +38314,10 @@ function submitTest(auto){
   const r=document.getElementById('result'); r.classList.remove('hidden'); r.dir=testInfo().dir;
   lastScore=score; lastTotal=qs.length;
   if(!retryMode){ lastWrong=qs.filter(function(q,i){ return answers[i]!==q.answer; }); }
-  showScoreRing(score, qs.length); const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); recordWeekTest(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)){ _nb.classList.remove('hidden'); launchConfetti(); } }
+  showScoreRing(score, qs.length); const _rn=document.getElementById('resultname'); if(_rn) _rn.textContent=studentName+' — '+testInfo().title; if(!testLearn && !retryMode && !demoMode){ var _prevBest=getBest(testKey); saveBest(testKey, score); sendResult(score, qs.length, testInfo().title, qs.map(function(q,i){ return (i+1)+':'+(answers[i]===null?'-':letters[answers[i]])+(answers[i]===q.answer?'\u2713':'\u2717'); }).join(' ')); saveHist(testKey, score, qs.length); recordPracticeDay(); recordWeekTest(); var _nb=document.getElementById('newbest'); if(_nb && isNewBest(_prevBest, score)){ _nb.classList.remove('hidden'); if(Math.round(score/qs.length*100)<80) launchConfetti(); } }
   applyTargetOnSubmit(score, qs.length, testKey);
   document.getElementById('scorenote').textContent=(demoMode?tr('demoNote')+' ':(retryMode?(flagRevMode?tr('flagRevNote'):tr('retryNote')):(testLearn?tr('learnNote'):(auto?tr('timeUpNote'):''))))+Math.round(score/qs.length*100)+'% '+tr('pctCorrect');
+  v118RenderResultExtras(score, qs.length, qs, answers);
   var _rb=document.getElementById('retrybtn'); if(_rb) _rb.style.display=(demoMode||retryMode||lastWrong.length===0)?'none':'block';
   var _sb=document.getElementById('sharebtn'); if(_sb) _sb.style.display='none'; // hidden 2026-11-11 at user request - restore: demoMode?'none':'block'
   var _cb=document.getElementById('cardbtn'); if(_cb) _cb.style.display=demoMode?'none':'block';
@@ -38295,7 +38377,7 @@ function downloadScoreCard(){
 }
 function goHome(){
   currentSection=null;
-  clearInterval(timerId); refreshPausedButton(); renderWeak(); renderGoal(); renderCalendar();
+  clearInterval(timerId); refreshPausedButton(); renderWeak(); renderGoal(); renderCalendar(); renderRecent();
   document.getElementById('result').classList.add('hidden');
   document.getElementById('test').classList.add('hidden');
   document.getElementById('classpage').classList.add('hidden');
@@ -38892,6 +38974,7 @@ renderExamCountdown();
 flushResultQueue();
 refreshPausedButton();
 renderWeak();
+renderRecent();
 renderStreak(); renderGoal(); renderCalendar(); updateOfflineBanner();
 tidyExamBits();
 showFirstGuideIfNeeded();
@@ -38910,6 +38993,316 @@ try{
 </script>
 <script>
 if('serviceWorker' in navigator){ window.addEventListener('load', function(){ navigator.serviceWorker.register('sw.js').catch(function(){}); }); }
+</script>
+<script>
+// ---- v118 design refresh (approved 2026-11-13) ----
+// Subject pictures: one distinct picture per subject, same in every class.
+function subjPic(s){
+  if(!s) return null;
+  if(s.indexOf('Mathematics')===0) return 'images/subjects/mathematics.jpg';
+  if(s.indexOf('Science')===0) return 'images/subjects/science.jpg';
+  if(s.indexOf('English')===0) return 'images/subjects/english.jpg';
+  if(s.indexOf('Sindhi')===0) return 'images/subjects/sindhi.jpg';
+  if(s.indexOf('Urdu Salees')===0) return 'images/subjects/urdu-salees.jpg';
+  if(s.indexOf('Asan Urdu')===0) return 'images/subjects/asan-urdu.jpg';
+  if(s.indexOf('Gulzar-E-Urdu')===0) return 'images/subjects/gulzar-e-urdu.jpg';
+  if(s.indexOf('Urdu')===0) return 'images/subjects/urdu.jpg';
+  if(s.indexOf('Asan Sindhi')===0) return 'images/subjects/asan-sindhi.jpg';
+  if(s.indexOf('Islamiat')===0) return 'images/subjects/islamiat.jpg';
+  if(s.indexOf('Social Studies')===0) return 'images/subjects/social-studies.jpg';
+  if(s.indexOf('Pakistan Studies')===0) return 'images/subjects/pakistan-studies.jpg';
+  if(s.indexOf('Biology')===0) return 'images/subjects/biology.jpg';
+  if(s.indexOf('Physics')===0) return 'images/subjects/physics.jpg';
+  if(s.indexOf('Chemistry')===0) return 'images/subjects/chemistry.jpg';
+  if(s.indexOf('Computer Science')===0||s.indexOf('Computer')===0) return 'images/subjects/computer-science.jpg';
+  if(s.indexOf('General Knowledge')===0) return 'images/subjects/general-knowledge.jpg';
+  return null;
+}
+// NEW badge: the Urdu guides added in v110-v117 (Classes III-X Urdu-section guides).
+function v118IsNewUrduGuide(cls, subj){
+  try{
+    if(['iii','iv','v','vi','vii','viii','ix','x'].indexOf(cls)<0) return false;
+    if(typeof STUDY==='undefined'||!STUDY[cls]) return false;
+    if(subj==='Urdu') return !!STUDY[cls].urduExsolutionsUrdu;
+    if(subj==='Asan Sindhi') return !!STUDY[cls].asanSindhiExsolutions;
+    var _v=(subj||'').indexOf('Sindhi Version')>=0?'sd':((subj||'').indexOf('English Version')>=0?'en':((subj||'').indexOf('Urdu Version')>=0?'ur':null));
+    if(_v!=='ur') return false;
+    var _k=null;
+    if((subj||'').indexOf('Mathematics')===0) _k='mathsolutionsUrdu';
+    else if((subj||'').indexOf('Chemistry')===0) _k='chemExsolutionsUrdu';
+    else if((subj||'').indexOf('Physics')===0) _k='phyExsolutionsUrdu';
+    else if((subj||'').indexOf('Biology')===0) _k='bioExsolutionsUrdu';
+    else if((subj||'').indexOf('Computer Science')===0) _k='csExsolutionsUrdu';
+    else if((subj||'').indexOf('Science')===0) _k='sciExsolutionsUrdu';
+    else if((subj||'').indexOf('Social Studies')===0) _k='socExsolutionsUrdu';
+    else if((subj||'').indexOf('General Knowledge')===0) _k='gkExsolutionsUrdu';
+    else if((subj||'').indexOf('Islamiat')===0) _k='islExsolutionsUrdu';
+    else if((subj||'').indexOf('Pakistan Studies')===0) _k='pakExsolutionsUrdu';
+    if(!_k) return false;
+    return !!STUDY[cls][_k];
+  }catch(e){ return false; }
+}
+function v118CountItems(arr){
+  var n=0; if(!arr) return 0;
+  for(var i=0;i<arr.length;i++){
+    var u=arr[i];
+    if(u.items) n+=u.items.length;
+    if(u.sections) for(var j=0;j<u.sections.length;j++){ var s=u.sections[j]; if(s.items) n+=s.items.length; if(s.exercises) for(var k=0;k<s.exercises.length;k++) n+=(s.exercises[k].items||[]).length; }
+    if(u.exercises) for(var k2=0;k2<u.exercises.length;k2++) n+=(u.exercises[k2].items||[]).length;
+  }
+  return n;
+}
+// ---- Continue where you left (localStorage, never touches the paused-test resume) ----
+function v118GetRecent(){ try{ var r=JSON.parse(localStorage.getItem('mcqRecent')||'[]'); return Array.isArray(r)?r:[]; }catch(e){ return []; } }
+function v118SaveRecent(list){ try{ localStorage.setItem('mcqRecent', JSON.stringify(list.slice(0,5))); }catch(e){} }
+function v118RecordRecent(entry){
+  try{
+    var list=v118GetRecent().filter(function(e){ return !(e.kind===entry.kind && e.key===entry.key); });
+    list.unshift(entry); v118SaveRecent(list); renderRecent();
+  }catch(e){}
+}
+function v118RecordTest(k){
+  try{
+    var t=(typeof CHAPTERS!=='undefined'&&CHAPTERS[k])?CHAPTERS[k]:QUESTIONS[k]; if(!t) return;
+    v118RecordRecent({kind:'test', key:k, title:t.title, t:Date.now()});
+  }catch(e){}
+}
+function v118RecordGuide(cls, subj, unit, math){
+  try{
+    if(!cls||!subj||unit===undefined||unit===null) return;
+    var title=(CLASS_NAMES[cls]||cls)+' \u2014 '+subj+' \u2014 Unit '+unit;
+    v118RecordRecent({kind:'guide', key:cls+'|'+subj+'|'+unit+'|'+(math?1:0), cls:cls, subj:subj, unit:unit, math:!!math, title:title, t:Date.now()});
+  }catch(e){}
+}
+function renderRecent(){
+  var box=document.getElementById('recentRow'); if(!box) return;
+  var list=v118GetRecent();
+  if(!list.length){ box.style.display='none'; box.innerHTML=''; return; }
+  var h='<h3>Continue where you left</h3><div class="v118-recent-row">';
+  list.forEach(function(e,i){
+    h+='<button type="button" class="v118-recent-item">'+escHtml(e.title)+'<small>'+(e.kind==='test'?'Test':'Guide')+'</small></button>';
+  });
+  box.innerHTML=h+'</div>'; box.style.display='';
+  box.querySelectorAll('.v118-recent-item').forEach(function(b,idx){ b.addEventListener('click',function(){ v118RecentOpen(idx); }); });
+}
+function v118RecentOpen(i){
+  var list=v118GetRecent(); var e=list[i]; if(!e) return;
+  if(e.kind==='test'){ if(typeof startTest!=='undefined') startTest(e.key); return; }
+  if(e.math){ if(typeof openMathUnit!=='undefined') openMathUnit(e.unit, e.cls, e.subj); }
+  else if(typeof openExUnit!=='undefined') openExUnit(e.unit, e.cls, e.subj);
+}
+// ---- Guide page: cover header + tap-to-open units + jump-to chips ----
+function guideFontSize(s){
+  try{ setFontSize(s); }catch(e){}
+  v118SyncFontBtns();
+}
+function v118SyncFontBtns(){
+  var cur=document.body.classList.contains('xlarge')?'xlarge':(document.body.classList.contains('large')?'large':'normal');
+  var n=document.getElementById('v118fsN'), l=document.getElementById('v118fsL'), x=document.getElementById('v118fsX');
+  if(n) n.className='v118-fontbtn'+(cur==='normal'?' sel':'');
+  if(l) l.className='v118-fontbtn'+(cur==='large'?' sel':'');
+  if(x) x.className='v118-fontbtn'+(cur==='xlarge'?' sel':'');
+}
+function v118AddJumpChips(container, unitNo){
+  if(!container) return;
+  if(container.querySelector('.v118-chips')) return;
+  var qs=container.querySelectorAll('.pro-q');
+  if(!qs.length) return;
+  var chips=document.createElement('div');
+  chips.className='v118-chips';
+  var html='';
+  for(var i=0;i<qs.length;i++){
+    var id='v118q-'+String(unitNo).replace(/[^A-Za-z0-9]/g,'')+'-'+(i+1);
+    qs[i].setAttribute('id', id);
+    html+='<button type="button" class="v118-chip" data-t="'+id+'">Q'+(i+1)+'</button>';
+  }
+  chips.innerHTML=html;
+  var toc=container.querySelector('.pro-toc');
+  if(toc && toc.parentNode===container){ container.insertBefore(chips, toc.nextSibling); }
+  else { container.insertBefore(chips, container.firstChild); }
+  chips.addEventListener('click', function(ev){
+    var b=ev.target && ev.target.closest ? ev.target.closest('.v118-chip') : null;
+    if(!b) return;
+    var el=document.getElementById(b.getAttribute('data-t'));
+    if(el && el.scrollIntoView) el.scrollIntoView();
+  });
+}
+function v118ToggleUnit(wrap, un, isM, forceOpen){
+  var body=wrap.querySelector('.v118-unit-body');
+  if(!body) return;
+  var isOpen=wrap.classList.contains('open');
+  if(isOpen && !forceOpen){ wrap.classList.remove('open'); body.hidden=true; return; }
+  if(!body.getAttribute('data-filled')){
+    var html='';
+    try{ html=isM?mathUnitHtml(un):exUnitHtml(un); }catch(e){ html=''; }
+    body.innerHTML=html;
+    body.setAttribute('data-filled','1');
+    try{ v118AddJumpChips(body, un); }catch(e){}
+  }
+  wrap.classList.add('open'); body.hidden=false;
+  try{ v118RecordGuide(matCls, matSubj, un, isM); }catch(e){}
+}
+function v118AfterGuideList(){
+  try{
+    var mc=document.getElementById('matcontent'); if(!mc) return;
+    var subj=matSubj, cls=matCls;
+    var arr=null, isMath=false;
+    if(typeof matData!=='undefined' && matData){
+      if((subj||'').indexOf('Mathematics')===0 && matData.mathsolutions){ arr=matData.mathsolutions; isMath=true; }
+      else if(matData.exsolutions){ arr=matData.exsolutions; }
+    }
+    if(!arr || !arr.length) return;
+    var cover=document.createElement('div');
+    cover.className='v118-cover'; cover.id='v118cover';
+    var pic=subjPic(subj);
+    var title=''; var mt=document.getElementById('mattitle'); if(mt) title=mt.textContent||'';
+    cover.innerHTML=(pic?'<img class="v118-cover-pic" src="'+pic+'" alt="" loading="lazy" onerror="this.style.display=\'none\'">':'')+'<div><div class="v118-cover-title">'+escHtml(title)+'</div><div class="v118-cover-meta">'+arr.length+' units &middot; '+v118CountItems(arr)+' questions</div><div class="v118-fontrow">Text size: <button class="v118-fontbtn" id="v118fsN" type="button">A-</button><button class="v118-fontbtn" id="v118fsL" type="button">A</button><button class="v118-fontbtn" id="v118fsX" type="button">A+</button></div></div>';
+    mc.insertBefore(cover, mc.firstChild);
+    var v118fsMap={v118fsN:'normal',v118fsL:'large',v118fsX:'xlarge'};
+    for(var v118fk in v118fsMap){ (function(id,s){ var b=document.getElementById(id); if(b) b.addEventListener('click',function(){ guideFontSize(s); }); })(v118fk, v118fsMap[v118fk]); }
+    v118SyncFontBtns();
+    var kids=Array.prototype.slice.call(mc.children);
+    var firstUnit=null;
+    kids.forEach(function(ch){
+      if(ch===cover) return;
+      var btn=ch.querySelector?ch.querySelector('button.modebtn'):null;
+      if(!btn) return;
+      var oc=btn.getAttribute('onclick')||'';
+      var m=oc.match(/open(MathUnit|ExUnit)\(([^)]*)\)/);
+      if(!m) return;
+      var raw=m[2].replace(/['"]/g,'');
+      var un=/^['"]/.test(m[2])?raw:(parseInt(raw,10)||raw);
+      var isM=(m[1]==='MathUnit');
+      var wrap=document.createElement('div');
+      wrap.className='v118-unit';
+      wrap.setAttribute('data-unit', String(raw));
+      wrap.setAttribute('data-math', isM?'1':'0');
+      wrap.innerHTML='<button class="v118-unit-head" type="button"><span>'+btn.innerHTML+'</span><span class="v118-unit-chev">&#9662;</span></button><div class="v118-unit-body" hidden></div>';
+      mc.replaceChild(wrap, ch);
+      var head=wrap.querySelector('.v118-unit-head');
+      head.addEventListener('click', function(){ v118ToggleUnit(wrap, un, isM); });
+      if(firstUnit===null) firstUnit=wrap;
+    });
+    if(firstUnit){
+      var fu=firstUnit.getAttribute('data-unit');
+      var fm=firstUnit.getAttribute('data-math')==='1';
+      var fn=/^\d+$/.test(fu)?parseInt(fu,10):fu;
+      v118ToggleUnit(firstUnit, fn, fm, true);
+    }
+  }catch(e){}
+}
+// ---- Subject page: tests grouped under Chapter Tests / Full Tests / Past Papers ----
+function v118TestGroupsHtml(cls, keys){
+  var full='', chap='', past='';
+  keys.forEach(function(k){
+    var t=QUESTIONS[k]; if(!t) return;
+    var isPast=(k==='ixmidterm')||/mid-term/i.test(t.title||'')||/past paper/i.test(t.title||'');
+    var mainBtn='<button class="testbtn'+(t.dir==='ltr'?' en':'')+'" onclick="startTest(\''+k+'\')">'+t.title.replace(' Practice Test','')+(k==='gk2'||k==='gk3'||k==='gk4'||k==='gk5'||k==='gk6'||k==='gk7'?' <span class="newbadge">NEW</span>':'')+'<small>'+t.questions.length+' MCQs &middot; '+(t.minutes||10)+' minutes &middot; Practice Test</small><small>'+(TOPICS[k]||'')+(function(){var b=getBest(k); return b===null?'':' &middot; Best: '+b+'/'+t.questions.length;})()+'</small>'+lastTakenHtml(k)+histHtml(k)+'</button><button class="modebtn" style="display:none" onclick="shareTest(\''+k+'\')">\u2197 '+tr('shareTest')+'</button>';
+    if(isPast){ past+=mainBtn; } else { full+=mainBtn; }
+    if(typeof CHAPTERS!=='undefined'){
+      Object.keys(CHAPTERS).forEach(function(ck){
+        var ch=CHAPTERS[ck]; if(ch.parent!==k) return;
+        var cb=getBest(ck);
+        chap+='<button class="testbtn'+(ch.dir==='ltr'?' en':'')+'" onclick="startTest(\''+ck+'\')">'+ch.title+'<small>'+chapterCount(ck)+' MCQs &middot; '+ch.minutes+' minutes &middot; Chapter test</small><small>'+(cb===null?'':'Best: '+cb+'/'+chapterCount(ck))+'</small>'+lastTakenHtml(ck)+histHtml(ck)+'</button><button class="modebtn" style="display:none" onclick="shareTest(\''+ck+'\')">\u2197 '+tr('shareTest')+'</button>';
+      });
+    }
+  });
+  var out='';
+  if(chap) out+='<h3 class="testgroup-h">Chapter Tests</h3>'+chap;
+  if(full) out+='<h3 class="testgroup-h">Full Tests</h3>'+full;
+  if(past) out+='<h3 class="testgroup-h">Past Papers</h3>'+past;
+  return out||'<p class="note">'+tr('noTests')+'</p>';
+}
+// ---- Result page: stars + confetti at 80%+, weak topics underneath ----
+function v118WeakTopics(testKeyArg, qs, answers){
+  var groups={}, order=[];
+  function topicOf(i){
+    var topic=null;
+    if(typeof CHAPTERS!=='undefined'){
+      Object.keys(CHAPTERS).forEach(function(ck){
+        var ch=CHAPTERS[ck];
+        if(ch.parent===testKeyArg && ch.indices && ch.indices.indexOf(i)!==-1) topic=ch.title;
+      });
+      if(!topic && CHAPTERS[testKeyArg]) topic=CHAPTERS[testKeyArg].title;
+    }
+    if(!topic && typeof TOPICS!=='undefined' && TOPICS[testKeyArg]) topic=TOPICS[testKeyArg];
+    if(!topic) topic=testInfo().title;
+    return topic;
+  }
+  function shortTopic(t){
+    var parts=String(t||'').split(' \u2014 ');
+    if(parts.length>=3) return parts.slice(1, parts.length-1).join(' \u2014 ');
+    return t;
+  }
+  qs.forEach(function(q,i){
+    if(answers[i]===q.answer) return;
+    var t=shortTopic(topicOf(i));
+    if(!groups[t]){ groups[t]=[]; order.push(t); }
+    if(groups[t].indexOf(i+1)===-1) groups[t].push(i+1);
+  });
+  return order.map(function(t){ return {topic:t, qs:groups[t]}; });
+}
+function v118RenderResultExtras(score, total, qs, answers){
+  var pct=total?Math.round(score/total*100):0;
+  var stars=document.getElementById('v118stars');
+  if(stars){
+    if(pct>=80){
+      var filled=pct>=90?5:4;
+      var s='';
+      for(var i=0;i<5;i++) s+='<span class="'+(i<filled?'on':'off')+'">&#9733;</span>';
+      stars.innerHTML=s; stars.style.display='';
+      try{ launchConfetti(); }catch(e){}
+    } else { stars.style.display='none'; stars.innerHTML=''; }
+  }
+  var box=document.getElementById('weaktopics');
+  if(box){
+    var weak=v118WeakTopics(testKey, qs, answers);
+    if(weak.length){
+      var h='<div class="v118-weak"><h3>Revise these topics</h3><ul>';
+      weak.forEach(function(w){ h+='<li><b>'+escHtml(w.topic)+'</b> \u2014 Q'+w.qs.join(', Q')+'</li>'; });
+      box.innerHTML=h+'</ul></div>'; box.style.display='';
+    } else { box.style.display='none'; box.innerHTML=''; }
+  }
+}
+// ---- Wrappers around the study.js guide openers (study.js itself is untouched) ----
+var _v118OrigOpenMatPage=(typeof openMatPage!=='undefined')?openMatPage:null;
+if(_v118OrigOpenMatPage){
+  openMatPage=function(tab, cls, subj){
+    _v118OrigOpenMatPage(tab, cls, subj);
+    if(tab==='exsolutions'){ v118AfterGuideList(); }
+  };
+}
+var _v118OrigOpenExUnit=(typeof openExUnit!=='undefined')?openExUnit:null;
+if(_v118OrigOpenExUnit){
+  openExUnit=function(n, cls, subj){
+    _v118OrigOpenExUnit(n, cls, subj);
+    try{ v118RecordGuide(matCls||cls, matSubj||subj, n, false); }catch(e){}
+    try{ v118AddJumpChips(document.getElementById('matcontent'), n); }catch(e){}
+  };
+}
+var _v118OrigOpenMathUnit=(typeof openMathUnit!=='undefined')?openMathUnit:null;
+if(_v118OrigOpenMathUnit){
+  openMathUnit=function(n, cls, subj){
+    _v118OrigOpenMathUnit(n, cls, subj);
+    try{ v118RecordGuide(matCls||cls, matSubj||subj, n, true); }catch(e){}
+    try{ v118AddJumpChips(document.getElementById('matcontent'), n); }catch(e){}
+  };
+}
+var _v118OrigStartTest=(typeof startTest!=='undefined')?startTest:null;
+if(_v118OrigStartTest){
+  startTest=function(k){
+    _v118OrigStartTest(k);
+    try{ var t=document.getElementById('test'); if(t && !t.classList.contains('hidden')) v118RecordTest(k); }catch(e){}
+  };
+}
+var _v118OrigFilterMatPage=(typeof filterMatPage!=='undefined')?filterMatPage:null;
+if(_v118OrigFilterMatPage){
+  filterMatPage=function(){
+    _v118OrigFilterMatPage();
+    try{ var c=document.getElementById('v118cover'); if(c) c.style.display=''; }catch(e){}
+  };
+}
+
 </script>
 </body>
 </html>
