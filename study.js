@@ -131150,6 +131150,2332 @@ var STUDY = {
     ],
   },
   "viii": {
+    "csExsolutions": [
+      {
+        "unit": 1,
+        "title": "ICT Fundamental",
+        "reading": "ICT Fundamental",
+        "display": "ICT Fundamental",
+        "sections": [
+          {
+            "num": "1.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. 5G technology improves network connectivity by providing:\n(a) Slower data speeds\n(b) Lower bandwidth\n(c) Faster data speeds and lower latency\n(d) Reduced number of devices connected",
+                    "a": "(c) Faster data speeds and lower latency ✓"
+                  },
+                  {
+                    "q": "ii. IoT (Internet of Things) enables devices to:\n(a) work separately\n(b) connect and share data\n(c) only work on their own\n(d) do not need internet",
+                    "a": "(b) connect and share data ✓"
+                  },
+                  {
+                    "q": "iii. Main purpose of edge computing is:\n(a) To process data at a far distance\n(b) To process data closer to where it is generated\n(c) To reduce network speeds\n(d) To store data in the cloud",
+                    "a": "(b) To process data closer to where it is generated ✓"
+                  },
+                  {
+                    "q": "iv. In network, router:\n(a) connects devices within the local network\n(b) connects different networks and directs data to the correct destination\n(c) increases internet speed\n(d) connects wireless devices to the network",
+                    "a": "(b) connects different networks and directs data to the correct destination ✓"
+                  },
+                  {
+                    "q": "v. The main role of a firewall in network security is:\n(a) To block internet access\n(b) To monitor and control incoming and outgoing network traffic\n(c) To prevent data from being shared\n(d) To improve data transfer speeds",
+                    "a": "(b) To monitor and control incoming and outgoing network traffic ✓"
+                  },
+                  {
+                    "q": "vi. The main feature of IoT devices in a network is that:\n(a) They are isolated from other devices\n(b) They exchange data and commands with other devices\n(c) They require manual operation\n(d) They cannot connect to the internet",
+                    "a": "(b) They exchange data and commands with other devices ✓"
+                  },
+                  {
+                    "q": "vii. The following is a result of broken resources in a network?\n(a) Increased speed\n(b) Data loss or corruption\n(c) Improved communication between devices\n(d) Secure access to resources",
+                    "a": "(b) Data loss or corruption ✓"
+                  },
+                  {
+                    "q": "viii. In the network, edge computing helps reduce:\n(a) Latency\n(b) Device connectivity\n(c) Bandwidth usage\n(d) Internet access",
+                    "a": "(a) Latency ✓"
+                  },
+                  {
+                    "q": "ix. 5G helps IoT devices by providing higher speeds and better connectivity for more:\n(a) devices connected\n(b) Networks\n(c) speed\n(d) data transfer",
+                    "a": "(a) devices connected ✓"
+                  },
+                  {
+                    "q": "x. In a network, devices communicate more efficiently through:\n(a) Hub\n(b) Router\n(c) Switch\n(d) Modem",
+                    "a": "(c) Switch ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.2",
+            "name": "Fill in the blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. ____ technology enables faster data speeds and lower latency, improving connectivity for a variety of devices.",
+                    "a": "5G"
+                  },
+                  {
+                    "q": "ii. ____ is the practice of processing data closer to its source, which helps reduce latency and bandwidth usage in network communications.",
+                    "a": "Edge computing"
+                  },
+                  {
+                    "q": "iii. A ____ is a device that connects different networks and ensures that data is routed to the correct destination within a network.",
+                    "a": "Router"
+                  },
+                  {
+                    "q": "iv. In a network, a ____ directs data traffic between multiple devices, ensuring efficient communication within a local area network (LAN).",
+                    "a": "Switch"
+                  },
+                  {
+                    "q": "v. ____ are devices that collect data from their environment and send it to IoT systems, enabling automation in smart homes and other industries.",
+                    "a": "Sensors"
+                  },
+                  {
+                    "q": "vi. ____ is the technology that connects physical objects to the internet, allowing them to send and receive data for improved functionality.",
+                    "a": "Internet of Things (IoT)"
+                  },
+                  {
+                    "q": "vii. The main function of a ____ in a network is to monitor and control incoming and outgoing traffic to protect against unauthorized access.",
+                    "a": "Firewall"
+                  },
+                  {
+                    "q": "viii. ____ systems are embedded in devices like washing machines, automating tasks and ensuring they function without manual intervention.",
+                    "a": "Embedded"
+                  },
+                  {
+                    "q": "ix. ____ technology is expected to improve connectivity for more devices, enhancing applications like autonomous vehicles and smart cities.",
+                    "a": "5G"
+                  },
+                  {
+                    "q": "x. The ____ is responsible for managing communication between devices in a wide area network (WAN), which connects LANs over large distances.",
+                    "a": "Router"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. What are the main components of a computer network, and how do they enable efficient communication?",
+                    "a": "The main components of a computer network are:\n- Routers: direct internet traffic between different networks and direct data packets to the correct destination.\n- Switches: connect multiple devices within the same local network and send data only to the specific device it is meant for, which improves performance and efficiency.\n- Modems: convert digital data from a computer into analog signals for transmission over telephone or cable lines, and back again.\n- NICs (Network Interface Cards): hardware components installed in computers and printers that allow devices to connect to a network and handle sending and receiving data.\n- Firewalls: security devices that monitor and control incoming and outgoing network traffic based on predefined security rules.\n- Hubs: connect multiple computers but send data to ALL connected devices, which reduces efficiency.\n- Gateways: bridges between two networks with different protocols that translate data formats.\n- Access Points: create a wireless network so Wi-Fi-enabled devices like laptops and smartphones can connect to a wired network.\nTogether they enable efficient communication: the switch sends data only to the right device, the router connects different networks and directs data to the right destination, the modem converts signals for transmission, and the firewall protects the traffic."
+                  },
+                  {
+                    "q": "ii. What security challenges do networks face, and what measures can be taken to protect sensitive information?",
+                    "a": "Security challenges:\n- Unauthorized Access: attackers can steal sensitive information, install malicious software and disrupt services. Prevent it with strong passwords, two-factor authentication and regular software updates.\n- Broken Components: broken hardware can cause data loss or corruption and disruptions. Check and maintain the network infrastructure regularly.\n- Viruses and Malware: one infected device can spread infection quickly through the network. Use robust antivirus software, practise safe browsing and be careful with email attachments and downloads.\nMeasures to protect sensitive information: use firewalls to monitor and control network traffic, encryption to protect data, antivirus software, Intrusion Detection Systems (IDS), Data Loss Prevention, security policies and secure communications."
+                  },
+                  {
+                    "q": "iii. How does IoT improve daily life, and can you provide an example of its application in healthcare?",
+                    "a": "The Internet of Things (IoT) is a network of interconnected everyday devices that can exchange data with each other and be controlled remotely. It improves daily life by connecting devices like smart fridges, cars and air conditioners, which can be controlled from a phone, and by automating tasks in smart homes.\nIn healthcare, IoT devices can help monitor patients remotely."
+                  },
+                  {
+                    "q": "iv. What is the role of sensors in IoT devices, and how do they enable remote control?",
+                    "a": "Sensors are devices that collect data from their environment and send it to IoT systems, enabling automation in smart homes and other industries. Because IoT devices are connected to the internet and can talk to each other, they can be controlled remotely - for example, an air conditioner can be controlled from a phone."
+                  },
+                  {
+                    "q": "v. What is an embedded system, and how does it automate devices like washing machines?",
+                    "a": "An embedded system is a small computer inside a larger device, built to do one specific task. In a washing machine, the embedded system sets timers and keeps the water at the right temperature, so the wash runs automatically without manual intervention."
+                  },
+                  {
+                    "q": "vi. Identify three devices in your surroundings that use embedded systems and explain their tasks.",
+                    "a": "Three devices that use embedded systems are:\n- Washing machine: its embedded system sets timers and keeps the water temperature, automating the wash.\n- Car: embedded systems control the engine, the airbags and the entertainment system.\n- Medical equipment (MRI machine / heart monitor): embedded systems run the machine and monitor the patient's condition.\nOther examples from the book: smartphones, GPS devices, self-service kiosks, electric vehicle charging stations and manufacturing machines."
+                  },
+                  {
+                    "q": "vii. What is edge computing, and how does it reduce delay in data processing?",
+                    "a": "Edge computing is processing data closer to where it is generated, using a mini-computer close to the device or sensor, instead of sending the data to a remote central server. Sending data to a far-away server takes time and can be slow. By processing data locally, edge computing reduces latency (delay), gives quicker responses and allows real-time data analysis, and it also reduces the amount of data sent over the network, saving bandwidth."
+                  },
+                  {
+                    "q": "viii. Describe how edge computing can be applied to traffic management systems.",
+                    "a": "In traffic management, edge computing processes data locally and in real time. For example, a car can detect traffic in real time, suggest a faster route and detect a train at a crossing. Processing locally minimises delay, so responses are quicker - this is crucial for autonomous vehicles and smart traffic systems, where decisions must be made immediately."
+                  },
+                  {
+                    "q": "ix. How does 5G technology enhance connectivity, and what industries benefit the most from it?",
+                    "a": "5G is the fifth generation of cellular network technology. It provides faster data speeds and lower latency, and it can connect a vast number of devices at the same time, giving smoother streaming, quicker downloads and better connectivity for IoT devices - for example, streaming a 1080p YouTube video without buffering.\nIndustries that benefit most are transport and autonomous vehicles, smart cities and IoT, healthcare (remote monitoring of patients), entertainment and streaming, and manufacturing."
+                  },
+                  {
+                    "q": "x. What are the potential risks associated with 5G implementation, and how can they be mitigated?",
+                    "a": "Potential risks of 5G are: more connected devices mean more entry points for hackers, so security and privacy risks increase; the cost of new devices and new network infrastructure is high; and coverage is uneven while the network is still being built.\nThey can be mitigated by using strong network security - firewalls, encryption, strong passwords and two-factor authentication - keeping software and devices updated, and following official safety guidance."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 2,
+        "title": "Digital Skills",
+        "reading": "Digital Skills",
+        "display": "Digital Skills",
+        "sections": [
+          {
+            "num": "2.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. Microsoft Excel is:\n(a) Spreadsheet\n(b) Database Management\n(c) Presentation\n(d) Workbook",
+                    "a": "(a) Spreadsheet ✓"
+                  },
+                  {
+                    "q": "ii. The intersection of a column and a row in a worksheet is called ____\n(a) Column\n(b) Value\n(c) Cell\n(d) Address",
+                    "a": "(c) Cell ✓"
+                  },
+                  {
+                    "q": "iii. Excel formulas start with?\n(a) /\n(b) [ ]\n(c) =\n(d) &",
+                    "a": "(c) = ✓"
+                  },
+                  {
+                    "q": "iv. Microsoft Excel feature lets you show only the data in a column (or columns) based on certain criteria?\n(a) Sorting\n(b) Formula\n(c) Filtering\n(d) Pivot",
+                    "a": "(c) Filtering ✓"
+                  },
+                  {
+                    "q": "v. In Excel, Conditional formatting is in: ____?\n(a) Insert tab\n(b) Page layout tab\n(c) Data tab\n(d) Home tab",
+                    "a": "(d) Home tab ✓"
+                  },
+                  {
+                    "q": "vi. Microsoft Excel function that checks whether a condition is true or false?\n(a) SUM()\n(b) IF()\n(c) MIN()\n(d) AVERAGE()",
+                    "a": "(b) IF() ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.2",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. Write down the uses of Microsoft Excel?",
+                    "a": "Microsoft Excel is used in three main areas:\n- Personal: to track a budget, manage a contact list and maintain a monthly expense record.\n- School: to organize homework assignments, track grades and create graphical charts.\n- Work: to analyze sales data, manage employee schedules and track the financial results of companies."
+                  },
+                  {
+                    "q": "ii. What is the purpose of formula bar?",
+                    "a": "The formula bar is the long bar at the top of the Excel window (shown in Figure 2.5). It shows the contents or formula of the active cell, and it is where you type and edit a formula. For example, when you select a cell that contains =C6+D6+E6+F6+G6, that formula appears in the formula bar."
+                  },
+                  {
+                    "q": "iii. Differentiate between workbook and worksheet.",
+                    "a": "Workbook:\n- A workbook is the entire Excel file you create and save in Excel.\n- A workbook can contain one or more worksheets, and each worksheet is a separate page within the workbook.\n- It is like a binder that holds all the sheets, charts and data. A workbook is saved with the extension .xlsx.\nWorksheet:\n- A worksheet is a single page within a workbook. It is where you actually enter and organize your data, and it consists of a grid of rows and columns (cells).\n- You can have many worksheets in one workbook, each with its own set of data.\n- A worksheet is represented by a tab at the bottom of the screen."
+                  },
+                  {
+                    "q": "iv. How to add chart into worksheet. Write down the steps.",
+                    "a": "Steps to add a chart in Microsoft Excel:\n1. Select the required cells that contain the data to be used in the chart - for example, Column A (Student Name) cell range A3:A6 and Column I (Percentage) cell range I3:I6 for a 3D bar chart.\n2. Click on the Insert tab.\n3. Click on the Chart command button.\n4. Click the required type of chart (for example, a 3D bar chart).\n5. The chart is inserted. The teacher should explain the chart details like the X-axis and Y-axis, Legend, Data label and Chart Title."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.3",
+            "name": "Practical Work",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. Consider the following worksheet containing the budget and gross of each movie.\n[[T]]Movie|Budget ($)|World Gross ($)|Profit;;Spider-Man 3|258,000,000|887,436,184|;;King Kong (2005)|207,000,000|553,080,025|;;Superman Returns|204,000,000|391,081,192|;;Spider-Man 2|200,000,000|784,024,485|;;Chronicles of Narnia, The|180,000,000|748,806,957|;;Terminator 3: Rise of the Machines|170,000,000|433,058,296|;;Shrek the Third|160,000,000|733,012,359|;;Harry Potter and the Goblet of Fire|150,000,000|892,213,036|;;Harry Potter and the Order of the Phoenix|150,000,000|822,828,538|;;Mission: Impossible III|150,000,000|397,501,348|;;Troy|150,000,000|497,298,577|[[/T]]\n(a) Write the formula to calculate the profit.\n(b) Write the formula to find out the highest profit value.\n(c) Write the formula to find out the lowest profit value.\n(d) Write the formula to find the average profit value.\n(e) Sorting the data from highest profit to lowest profit movie.\n(f) Draw pie chart on the data to show the world gross of each movie.",
+                    "a": "(a) Profit = World Gross - Budget. In cell E2: =D2-C2 (copy down to E12).\nProfits: Spider-Man 3 629,436,184; King Kong (2005) 346,080,025; Superman Returns 187,081,192; Spider-Man 2 584,024,485; Chronicles of Narnia, The 568,806,957; Terminator 3: Rise of the Machines 263,058,296; Shrek the Third 573,012,359; Harry Potter and the Goblet of Fire 742,213,036; Harry Potter and the Order of the Phoenix 672,828,538; Mission: Impossible III 247,501,348; Troy 347,298,577.\n(b) Highest profit: =MAX(E2:E12) = 742,213,036 (Harry Potter and the Goblet of Fire).\n(c) Lowest profit: =MIN(E2:E12) = 187,081,192 (Superman Returns).\n(d) Average profit: =AVERAGE(E2:E12) = 469,212,817.91.\n(e) Sorted by profit (highest to lowest): Harry Potter and the Goblet of Fire 742,213,036; Harry Potter and the Order of the Phoenix 672,828,538; Spider-Man 3 629,436,184; Spider-Man 2 584,024,485; Shrek the Third 573,012,359; Chronicles of Narnia, The 568,806,957; Troy 347,298,577; King Kong (2005) 346,080,025; Terminator 3: Rise of the Machines 263,058,296; Mission: Impossible III 247,501,348; Superman Returns 187,081,192.\n(f) Pie chart: select the Movie column and the World Gross column, click the Insert tab, click Chart, and choose a pie chart - each slice shows one movie's share of the total world gross."
+                  },
+                  {
+                    "q": "ii. Prepare the following worksheets and also draw the charts.\n- Student Marksheet\n- Attendance Register\n- Electricity bill\n[[T]]Toys Ordered|Price Each|Quantity Ordered|Cost|Discount|Final Cost;;BBQ Barbie Doll|12.99|2| | |;;Price Eric Dol|8.99|3| | |;;Princess Jasmine Doll|9.99|1| | |;;Cinderella coach|19.99|1| | |;;Spiderman gloves|14.99|3| | |;;Total| | | | |[[/T]]\n(a) In cell D2 create a formula to calculate the Cost using the following information: Cost = Price Each * Quantity Ordered. Copy the formula down the column to work out the other costs.\n(b) In cell E2 create a formula to calculate the discount using the following information: Discount = 7% of Cost (= 7% * Cost cell). Copy the formula down the column to work out the other discounts.\n(c) In cell F2 create a formula to calculate the Final Cost using the following information: Final Cost = Cost - discount. Copy the formula down the column to work out the other final costs.\n(d) In cell B7, create a formula that will add together all the Price Each figure. Copy the total formula across the row to calculate the other column totals.",
+                    "a": "(a) Cost in D2: =B2*C2. Costs: BBQ Barbie Doll 25.98; Price Eric Dol 26.97; Princess Jasmine Doll 9.99; Cinderella coach 19.99; Spiderman gloves 44.97.\n(b) Discount in E2: =7%*D2. Discounts: 1.82; 1.89; 0.70; 1.40; 3.15.\n(c) Final Cost in F2: =D2-E2. Final costs: 24.16; 25.08; 9.29; 18.59; 41.82.\n(d) Total in B7: =SUM(B2:B6) = 66.95. Copy across the row: Total Cost = 127.90; Total Discount = 8.95; Total Final Cost = 118.95.\nStudent Marksheet, Attendance Register and Electricity bill: the book gives no data or columns for these three worksheets, so create each with suitable column headings (for example, a Marksheet with Student Name, subjects, Total and Percentage) and draw a chart for each from the Insert tab."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.4",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Spreadsheet Basics",
+                "items": [
+                  {
+                    "q": "What is a spreadsheet?",
+                    "a": "A spreadsheet is a digital tool used to organize, calculate and analyze data in rows and columns (in tabular form). You can enter numbers, text and formulas in it."
+                  },
+                  {
+                    "q": "Name three spreadsheet programs.",
+                    "a": "Microsoft Excel, Google Sheets and OpenOffice (Apache OpenOffice)."
+                  },
+                  {
+                    "q": "What is a cell?",
+                    "a": "A cell is the basic unit of a worksheet where you can enter data. It is identified by a combination of column letter and row number (e.g. A1, B2)."
+                  },
+                  {
+                    "q": "What is a range?",
+                    "a": "A range is a selection of two or more cells, represented by the starting and ending cells (e.g. A1:A10)."
+                  },
+                  {
+                    "q": "What is a row and what is a column?",
+                    "a": "A row is a horizontal set of cells in a worksheet, identified by a number. A column is a vertical set of cells in a worksheet, identified by a letter."
+                  }
+                ]
+              },
+              {
+                "label": "Excel Interface and Tabs",
+                "items": [
+                  {
+                    "q": "What is the Ribbon in Excel?",
+                    "a": "The Ribbon is the toolbar at the top of the Excel window containing tabs and commands."
+                  },
+                  {
+                    "q": "What does the Name Box show?",
+                    "a": "The Name Box shows the cell address (reference) of the active cell, e.g. A1."
+                  },
+                  {
+                    "q": "Which tab is used to add a chart in Excel?",
+                    "a": "The Insert tab."
+                  },
+                  {
+                    "q": "Which tab is used to sort and filter data in Excel?",
+                    "a": "The Data tab."
+                  }
+                ]
+              },
+              {
+                "label": "Formulas and Functions",
+                "items": [
+                  {
+                    "q": "What does every Excel formula start with?",
+                    "a": "Every Excel formula starts with an equals sign (=)."
+                  },
+                  {
+                    "q": "What is the difference between a formula and a function?",
+                    "a": "A formula is an expression created by the user that operates on values in a cell or a range of cells. A function is a predefined formula that performs a calculation using specific values in a particular order."
+                  },
+                  {
+                    "q": "What does =SUM(C6:C9) do?",
+                    "a": "It adds the numbers in the range C6 through C9."
+                  },
+                  {
+                    "q": "What does =AVERAGE(C6:G6) do?",
+                    "a": "It finds the average of the values in cells C6 to G6."
+                  },
+                  {
+                    "q": "What does the IF function do? Give an example.",
+                    "a": "The IF function checks whether a condition is true or false. For example, =IF(H6>10, \"Yes\", \"No\") displays \"Yes\" if the value in H6 is greater than 10, otherwise it displays \"No\"."
+                  }
+                ]
+              },
+              {
+                "label": "Sorting, Charts and Shortcuts",
+                "items": [
+                  {
+                    "q": "What is sorting?",
+                    "a": "Sorting is the process of arranging data in a specific order, ascending or descending."
+                  },
+                  {
+                    "q": "What is filtering?",
+                    "a": "Filtering is a tool to display only the rows that meet certain criteria."
+                  },
+                  {
+                    "q": "Name three types of charts in Excel.",
+                    "a": "Column chart, bar chart and pie chart (also line chart)."
+                  },
+                  {
+                    "q": "What does Ctrl+S do in Excel?",
+                    "a": "Ctrl+S saves the document."
+                  }
+                ]
+              },
+              {
+                "label": "Working with Data",
+                "items": [
+                  {
+                    "q": "What is Auto fill in Excel?",
+                    "a": "Auto fill is a feature that fills data automatically based on a pattern or sequence. For example, drag a cell with \"1\" down to fill cells with \"2\", \"3\", \"4\", etc."
+                  },
+                  {
+                    "q": "What is the Clipboard?",
+                    "a": "The Clipboard is a temporary storage area for cut or copied data."
+                  },
+                  {
+                    "q": "What is cell format?",
+                    "a": "Cell format is the way a cell's content is displayed, such as number, text, currency or date."
+                  },
+                  {
+                    "q": "In the sales report activity, what formula calculates the total for Apple (quantity 10, price 2.5)?",
+                    "a": "=B2*C2, which gives $25.00."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 3,
+        "title": "Algorithmic Thinking and Problem Solving",
+        "reading": "Algorithmic Thinking and Problem Solving",
+        "display": "Algorithmic Thinking and Problem Solving",
+        "sections": [
+          {
+            "num": "3.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. An algorithm is ____?\n(a) A type of computer\n(b) Set of instructions to solve problem\n(c) Programming language\n(d) A game",
+                    "a": "(b) Set of instructions to solve problem ✓"
+                  },
+                  {
+                    "q": "ii. An example of a conditional statement is ____?\n(a) Loop\n(b) If-Else\n(c) Print\n(d) Variables",
+                    "a": "(b) If-Else ✓"
+                  },
+                  {
+                    "q": "iii. The purpose of breaking a large problem into smaller problems in algorithmic thinking is ____?\n(a) To make the problem harder\n(b) To make the problem easier to solve\n(c) To add more steps\n(d) To confuse the computer",
+                    "a": "(b) To make the problem easier to solve ✓"
+                  },
+                  {
+                    "q": "iv. A computer uses ____ to make decisions?\n(a) Looping\n(b) Variables\n(c) Conditional Statements\n(d) Functions",
+                    "a": "(c) Conditional Statements ✓"
+                  },
+                  {
+                    "q": "v. Identifying patterns, trends, and regularities in data, as well as recognizing similarities within the problem, is known as ____?\n(a) Abstraction\n(b) Decomposition\n(c) Pattern Recognition\n(d) Algorithmic Thinking",
+                    "a": "(c) Pattern Recognition ✓"
+                  },
+                  {
+                    "q": "vi. Focusing only on the important details while ignoring irrelevant information is ____?\n(a) Decomposition\n(b) Abstraction\n(c) Algorithm Design\n(d) Pattern Recognition",
+                    "a": "(b) Abstraction ✓"
+                  },
+                  {
+                    "q": "vii. An example of a nested loop is ____?\n(a) A loop that runs 5 times\n(b) A loop inside another loop\n(c) A forever loop\n(d) IF-ELSE-IF condition",
+                    "a": "(b) A loop inside another loop ✓"
+                  },
+                  {
+                    "q": "viii. The Else part of IF-ELIF-ELSE construct is executed when ____?\n(a) All conditions are true\n(b) All conditions are false\n(c) Forever loop is used\n(d) Repeat loop is used",
+                    "a": "(b) All conditions are false ✓"
+                  },
+                  {
+                    "q": "ix. ____ allows us to take a complex problem, understand what the problem is, and develop possible solutions.\n(a) Computational Thinking\n(b) Nested Loop\n(c) Pseudocode\n(d) Conditional Statements",
+                    "a": "(a) Computational Thinking ✓"
+                  },
+                  {
+                    "q": "x. An example of a \"for loop\" is ____?\n(a) \"If x = 5, then do something\"\n(b) \"Repeat the steps 10 times\"\n(c) \"Print a message\"\n(d) \"Set a variable\"",
+                    "a": "(b) \"Repeat the steps 10 times\" ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.2",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. What is the difference between pseudocode and a flowchart? Which one is more preferable and why?",
+                    "a": "Pseudocode is a formal way of writing the steps of an algorithm in human-understandable language. It lets you focus on the logic of the solution without worrying about the syntax of a programming language.\nA flowchart is a diagram that uses shapes and arrows to represent the flow of a program or solution.\nThe book does not say that one is better than the other. Pseudocode is quicker to write and better for explaining the logic in plain words, while a flowchart is better for seeing the flow of the solution visually."
+                  },
+                  {
+                    "q": "ii. What is the difference between a problem and a solution in the context of algorithmic thinking?",
+                    "a": "A problem is something that needs to be solved or overcome. For example, finding the average of three numbers is a problem.\nA solution is the step-by-step approach (algorithm) developed to solve the problem. For example, the solution for finding the average of three numbers is:\n1. Input three numbers.\n2. Perform addition of the three numbers.\n3. Find the average.\n4. Display the average."
+                  },
+                  {
+                    "q": "iii. What is the role of decomposition in problem-solving? Provide an example.",
+                    "a": "Decomposition is the first step of computational thinking: it means breaking a complex problem into smaller, more manageable parts, so that each part can be solved separately.\nExample: building a LEGO car. The big problem is broken into small parts - gather the LEGO pieces, build the base, attach the wheels, build the body, and add the finishing touches (lights, windows)."
+                  },
+                  {
+                    "q": "iv. How does abstraction help in solving problems? Give an example.",
+                    "a": "Abstraction means focusing only on the important information and ignoring details that are not essential. It helps in solving problems because we do not get distracted by unimportant details and can concentrate on what really matters.\nExample: building a LEGO car. We ignore the decorative stickers, the spare (extra) tyre, the detailed colour schemes, the fancy wheel designs and the fancy lights, and focus on attaching the wheels so they spin freely and building the body to match the car's style."
+                  },
+                  {
+                    "q": "v. What is meant by halting problems? Give some example of problems that cannot be solved by a computer.",
+                    "a": "\"Halting\" means stopping or finishing a program after it has run for a while. The halting problem is the challenge of determining whether a program will eventually stop or run forever for a given input.\nIf a program does not halt, it keeps the CPU busy forever (an infinite loop). For example, a program caught in an infinite loop is a problem the computer cannot solve - it cannot tell whether the program will ever stop."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.3",
+            "name": "Pseudocode",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. Write pseudocode to input ten positive numbers and find the sum and the average of these numbers.",
+                    "a": "// Pseudocode for Finding the Sum and Average of Ten Positive Numbers\nBegin\nSet Sum = 0\nSet Count = 1\nRepeat 10 times:\nInput Number\nSum = Sum + Number\nCount = Count + 1\nAverage = Sum / 10\nDisplay Sum\nDisplay Average\nEnd"
+                  },
+                  {
+                    "q": "ii. Write a pseudocode that prints all the even numbers between 1 and 100.",
+                    "a": "// Pseudocode for Printing Even Numbers between 1 and 100\nBegin\nSet Number = 2\nRepeat until Number > 100:\nDisplay Number\nNumber = Number + 2\nEnd"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.4",
+            "name": "Algorithm",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. Write an algorithm that takes any number as input and check whether the number is positive or negative.",
+                    "a": "1. Start\n2. Input Number\n3. IF Number > 0 THEN\nDisplay \"The number is positive\"\n4. ELIF Number < 0 THEN\nDisplay \"The number is negative\"\n5. ELSE\nDisplay \"The number is zero\"\n6. End"
+                  },
+                  {
+                    "q": "ii. Write an algorithm that finds the largest number in a list.",
+                    "a": "1. Start\n2. Input the list of numbers\n3. Set Largest = first number in the list\n4. Repeat for each remaining number in the list:\nIf the number > Largest, set Largest = that number\n5. Display Largest\n6. End"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.5",
+            "name": "Class Activities",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. Think of a problem which can be solved in different ways. Write algorithms for all these solutions. Also explain which solution is best and why?",
+                    "a": "Problem: making a cup of tea. It can be solved in two ways:\nMethod 1 - Steeping tea in a teapot: put tea leaves in a teapot, add hot water and let it steep. It takes longer, but the flavours develop fully.\nMethod 2 - Tea bag in a cup: put a tea bag in a cup and add hot water. It is quicker, but with less depth of flavour.\nWhich solution is best depends on what you need: if time matters, the tea bag is best; if flavour matters, the teapot is best.\nAnother example from the book is checking whether a number is prime. Solution-1 divides the number by all numbers from 2 to n-1, Solution-2 divides by numbers from 2 to n/2, and Solution-3 divides by numbers from 2 to the square root of n. Solution-3 is the best because it uses the least steps with maximum efficiency, since the square root of n is less than n/2, which is less than n-1."
+                  },
+                  {
+                    "q": "ii. Write an algorithm to determine whether a student qualifies for a scholarship based on their grade. The algorithm takes the grade as input and applies the following conditions:\n- If the grade is A+, the student is awarded a 100% scholarship.\n- If the grade is A, the student is awarded an 80% scholarship.\n- If the grade is B, the student is awarded a 50% scholarship.\n- For any other grade, no scholarship is awarded.",
+                    "a": "1. Start\n2. Input Grade\n3. IF Grade = \"A+\" THEN\nDisplay \"100% scholarship\"\n4. ELIF Grade = \"A\" THEN\nDisplay \"80% scholarship\"\n5. ELIF Grade = \"B\" THEN\nDisplay \"50% scholarship\"\n6. ELSE\nDisplay \"No scholarship\"\n7. End"
+                  },
+                  {
+                    "q": "iii. Write an algorithm to calculate the total sales of a shop for a month. The algorithm should take the sales for each day of the month as input and add them up to give the total sales. Assume the month has 30 days.",
+                    "a": "1. Start\n2. Set Total Sales = 0\n3. Set Day = 1\n4. Repeat 30 times:\nInput Sales of Day\nTotal Sales = Total Sales + Sales of Day\nDay = Day + 1\n5. Display Total Sales\n6. End"
+                  },
+                  {
+                    "q": "iv. Write an algorithm to print the following pattern of asterisks\n**********\n**********\n**********",
+                    "a": "1. Start\n2. Set Row = 1\n3. Repeat 3 times:\nDisplay \"**********\"\nRow = Row + 1\n4. End\nThe pattern printed is:\n**********\n**********\n**********"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 4,
+        "title": "Programming",
+        "reading": "Programming",
+        "display": "Programming",
+        "sections": [
+          {
+            "num": "4.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. All are the construct of programming language except?\n(a) Sequence\n(b) Condition\n(c) Loop\n(d) Business",
+                    "a": "(d) Business ✓"
+                  },
+                  {
+                    "q": "ii. Loop with in the loop is called\n(a) Nested\n(b) Next\n(c) Newest\n(d) Narrow",
+                    "a": "(a) Nested ✓"
+                  },
+                  {
+                    "q": "iii. A loop becomes infinite loop if a condition never becomes ____\n(a) True\n(b) False\n(c) Null\n(d) Zero",
+                    "a": "(a) True ✓"
+                  },
+                  {
+                    "q": "iv. Floor() functions always ____ a number.\n(a) Rounds down\n(b) Rounds up\n(c) Cycle down\n(d) Cycle up",
+                    "a": "(a) Rounds down ✓"
+                  },
+                  {
+                    "q": "v. A function which returns the maximum value from a set of number is called.\n(a) Highest()\n(b) Max()\n(c) Largest()\n(d) Bool()",
+                    "a": "(b) Max() ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.2",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. What is Loop and how many types of Loops block are there in Scratch?",
+                    "a": "A loop in Scratch is a block that allows actions or commands to repeat automatically without needing to write the same instructions multiple times. Loops help make programs shorter, easier to read, and more efficient.\nThere are three basic types of loops in Scratch:\n- repeat Loop: It takes a number input 'x' and repeats the code 'x' times. For example, if 'x' is set to 10, the loop runs 10 times.\n- repeat until Loop: It needs a condition to stop. The loop repeats until the condition becomes true. For example, a 'counter' variable starts at 0 and increases by 1 in each iteration; after the 10th iteration the condition becomes TRUE, and the loop terminates.\n- forever Loop: It is used to repeat a set of actions indefinitely as long as the program is running. It is useful when you want something to continue happening without needing to stop it manually."
+                  },
+                  {
+                    "q": "ii. Difference between if and if else statement?",
+                    "a": "if Statement:\n- Only executes code if the condition is True.\n- Skips the block if False.\n- Used when no action is needed for False.\nif-else Statement:\n- Executes one block for True, and another for False.\n- Executes the else block if False.\n- Used when both True and False require actions."
+                  },
+                  {
+                    "q": "iii. List down some built-in functions of Scratch programming with examples.",
+                    "a": "A built-in function in Scratch is a ready-made block provided by Scratch to perform common tasks. These blocks are part of Scratch and cannot be changed. Some built-in functions are:\n- pick random: A random number can be generated within a specified range. For example, a random number between 1 and 10 is created and assigned to the variable 'counter' (set counter to pick random 1 to 10).\n- abs(): It ignores the sign of a number and only takes the positive value. For example, the absolute value of -9 is 9 (the figure shows abs of -3 = 3).\n- join(): It is used to combine two pieces of text (or a mix of text and numbers) into one. For example, join apple banana = applebanana.\n- round(): It rounds a number up if the decimal is greater than 4, otherwise it rounds down. For example, round 45.5 = 46.\n- floor(): It always rounds a number down. For example, floor of 45.8 = 45.\n- ceiling(): It always rounds a number up. For example, ceiling of 45.2 = 46.\n- Other built-in functions: sqrt() to get the square root of a number; type() to check or inquire the type of an object; pow() to get the power of x in terms of y; max() to get the maximum value from a set of numbers; bool() to get the status of a boolean value, whether true or false; format() to get the particular format of a value (e.g. display $ sign after the number); help() to get help about keywords and functions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.3",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Visual and Textual Programming",
+                "items": [
+                  {
+                    "q": "What is visual programming?",
+                    "a": "Visual programming is programming by dragging and dropping blocks instead of typing code. It uses graphical elements like blocks, icons or diagrams, is easy to understand, and is ideal for beginners, kids and educational purposes. Examples are Scratch, Blockly and MIT App Inventor."
+                  },
+                  {
+                    "q": "What is textual programming?",
+                    "a": "Textual programming is programming by writing code using a keyboard, with syntax and text. It requires understanding of syntax and proper coding structure, and is used by professional developers and advanced learners. Examples are Java, Python and C++."
+                  },
+                  {
+                    "q": "Name the three basic building blocks of every programming language.",
+                    "a": "Sequence statements, repetitive statements (loops) and conditional statements."
+                  }
+                ]
+              },
+              {
+                "label": "Conditional Statements",
+                "items": [
+                  {
+                    "q": "What is an if-then statement?",
+                    "a": "An if-then statement executes specific blocks only when a condition is true."
+                  },
+                  {
+                    "q": "What is an if-then-else statement?",
+                    "a": "An if-then-else statement executes one set of actions when a condition is true and a different set of actions when the condition is false. It provides more flexibility compared to the simple if-then block."
+                  },
+                  {
+                    "q": "In the maze game, how does the sprite stop at a wall?",
+                    "a": "By an if-then condition using the \"touching color\" block from the Sensing block. If the sprite touches the wall (blue colour), the condition becomes True and the sprite moves the same number of pixels in the opposite direction (change x by -5), so it looks as if it has not moved at all and has been stopped by the wall."
+                  },
+                  {
+                    "q": "What is a nested if-then-else statement?",
+                    "a": "A nested if-then-else statement is like putting one if-then-else inside another, so you can check multiple conditions, one after another sequentially. For example, to give a message based on a score: if the score is 80 or more, say \"Great job!\"; else, if the score is between 50 and 79, say \"Good effort!\"; else say \"You need more practice!\""
+                  },
+                  {
+                    "q": "In the Even-Odd Number Program, how does Scratch check if a number is even?",
+                    "a": "With the mod operator from the Operators category: if Number mod 2 = 0, the sprite says \"The number is even.\" Otherwise, it says \"The number is odd.\""
+                  }
+                ]
+              },
+              {
+                "label": "Loops",
+                "items": [
+                  {
+                    "q": "What is a loop in Scratch?",
+                    "a": "A loop in Scratch is a block that allows actions or commands to repeat automatically without needing to write the same instructions multiple times. Loops make programs shorter, easier to read and more efficient."
+                  },
+                  {
+                    "q": "What does the repeat loop do?",
+                    "a": "The repeat loop takes a number input 'x' and repeats the code 'x' times. For example, repeat 10 runs the code 10 times."
+                  },
+                  {
+                    "q": "What does the repeat until loop do?",
+                    "a": "The repeat until loop needs a condition to stop. It repeats until the condition becomes true. For example, a 'counter' variable starts at 0 and increases by 1 in each iteration; after the 10th iteration the condition becomes TRUE and the loop terminates. If the 'counter' is mistakenly set to -1, the loop will run infinite time."
+                  },
+                  {
+                    "q": "What does the forever loop do?",
+                    "a": "The forever loop repeats a set of actions indefinitely as long as the program is running. For example, a sprite says \"Meow\" and makes the \"Meow\" sound forever."
+                  },
+                  {
+                    "q": "What is a nested loop?",
+                    "a": "A nested loop is a loop inside another loop. For example, in the walking Giga program, a repeat 10 loop contains a repeat until loop (counter = 4) that moves Giga 10 steps, changes his costume and waits 1 second; after the inner loop finishes, the backdrop switches to the next backdrop."
+                  }
+                ]
+              },
+              {
+                "label": "Functions in Scratch",
+                "items": [
+                  {
+                    "q": "What are functions called in Scratch?",
+                    "a": "In Scratch, functions are called custom blocks."
+                  },
+                  {
+                    "q": "What is the purpose of \"My Block\" (Make a Block) in Scratch?",
+                    "a": "To create a custom function (custom block) for a specific purpose in your project, using the \"Make a Block\" feature under the \"My Blocks\" category. You can add an input (number, text or boolean) to pass data into the function or add a label, and give the block a name."
+                  },
+                  {
+                    "q": "What does the Calculate Area custom block do?",
+                    "a": "The Calculate Area custom block takes two inputs, length and width, and sets area to length * width (area = length x width). The program asks for the length, asks for the width, calls Calculate Area with length and width, and the sprite says the area."
+                  },
+                  {
+                    "q": "Name three built-in functions in Scratch and what they do.",
+                    "a": "pick random - generates a random number within a specified range (e.g. pick random 1 to 10). abs() - ignores the sign of a number and only takes the positive value (e.g. abs of -9 is 9). join() - combines two pieces of text into one (e.g. join apple banana = applebanana). Others: round(), floor(), ceiling(), sqrt(), max()."
+                  }
+                ]
+              },
+              {
+                "label": "Cloning and Maze Game",
+                "items": [
+                  {
+                    "q": "What is cloning in Scratch?",
+                    "a": "Cloning allows us to make dynamic copies of a sprite while the project is running. Scratch allows us to duplicate a sprite multiple times, not just once. This is helpful when we want to create objects like a flying balloon and replicate it several times, or design a snowflake and create a snowfall effect by cloning it repeatedly."
+                  },
+                  {
+                    "q": "What happens when a clone starts in Scratch?",
+                    "a": "The script under \"when I start as a clone\" runs for that clone. For example, the balloon clone shows, repeats 50 times - points in a random direction (pick random 80 to 100), changes y by 10, changes size by -2 and waits 2 seconds - and then \"delete this clone\" removes it."
+                  },
+                  {
+                    "q": "In the simple maze game, what are the first two steps?",
+                    "a": "1. Create the maze: design the maze using a backdrop or draw it yourself in the backdrop editor, using walls to create a path for the player to navigate.\n2. Add a sprite: choose or create a sprite (e.g. a ball or character) that will move through the maze."
+                  },
+                  {
+                    "q": "In the simple maze game, which keys move the sprite and how?",
+                    "a": "Up arrow: point in direction 0, move 10 steps. Down arrow: point in direction 180, move 10 steps. Right arrow: point in direction 90, move 10 steps. Left arrow: point in direction -90, move 10 steps. The sprite starts at go to x: -205 y: 147."
+                  },
+                  {
+                    "q": "How does the player win the simple maze game?",
+                    "a": "By reaching the goal sprite (e.g. a star). The goal sprite's code checks in a forever loop: if touching Ball then say \"You win!\" In the advanced maze game, when the sprite touches the Apple it says \"You Win!\" for 1 second, returns to the starting point (go to x: 10 y: -170) and broadcasts \"next maze\" to change the maze and add up the level and difficulty."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 5,
+        "title": "Digital Citizenship",
+        "reading": "Digital Citizenship",
+        "display": "Digital Citizenship",
+        "sections": [
+          {
+            "num": "5.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. What is Digital Citizenship?\n(a) The use of technology in businesses\n(b) The responsible use of technology and online behaviour\n(c) Playing online games\n(d) Watching online videos",
+                    "a": "(b) The responsible use of technology and online behaviour ✓"
+                  },
+                  {
+                    "q": "2. Which of the following is an example of positive online behaviour?\n(a) Spreading false rumours\n(b) Using social media to stay connected with friends\n(c) Hacking others' accounts\n(d) Sharing pirated content",
+                    "a": "(b) Using social media to stay connected with friends ✓"
+                  },
+                  {
+                    "q": "3. What is one of the health dangers of excessive Internet use?\n(a) Improved memory\n(b) Anxiety and depression\n(c) Better physical fitness\n(d) Increased energy levels",
+                    "a": "(b) Anxiety and depression ✓"
+                  },
+                  {
+                    "q": "4. What is phishing?\n(a) A type of malware\n(b) A method of stealing personal information via fake websites\n(c) A social media platform\n(d) A tool for online shopping",
+                    "a": "(b) A method of stealing personal information via fake websites ✓"
+                  },
+                  {
+                    "q": "5. What is one way to maintain information security?\n(a) Use weak passwords\n(b) Share passwords with friends\n(c) Enable two-factor authentication\n(d) Avoid updating software",
+                    "a": "(c) Enable two-factor authentication ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.2",
+            "name": "Fill in the blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. Digital citizenship promotes ____ behaviour online.",
+                    "a": "responsible"
+                  },
+                  {
+                    "q": "ii. ____ helps secure online accounts by requiring an extra code for access.",
+                    "a": "Two-Factor Authentication (2FA)"
+                  },
+                  {
+                    "q": "iii. Cybercrime includes illegal activities performed using ____.",
+                    "a": "computers or the Internet"
+                  },
+                  {
+                    "q": "iv. One way to keep your information safe online is by creating a ____ password.",
+                    "a": "strong"
+                  },
+                  {
+                    "q": "v. The act of using someone else's work without giving credit is called ____.",
+                    "a": "Plagiarism"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. What is digital citizenship?",
+                    "a": "Digital citizenship means following the rules for using technology in a good way. It involves using the internet properly, being respectful to others, and keeping personal information safe. In short, it is the responsible and ethical use of technology to engage positively online."
+                  },
+                  {
+                    "q": "ii. What are the common uses of the Internet?",
+                    "a": "The common uses of the Internet are:\n- Business: Online shopping (businesses sell things directly to customers on websites like Amazon, Alibaba, AliExpress and Daraz); Communication (companies send quick messages to clients and workers using email, like Gmail); Marketing and Brand Awareness (businesses use social media like Facebook, TikTok and Instagram to promote their products); Customer Service (live chat tools on websites help customers right away); Advertising (online advertisements on platforms like Google Ads help businesses reach potential customers).\n- Social Networking: social networking websites like Facebook and Twitter help users connect with friends and family; social media apps like Instagram and Snapchat are used for sharing ideas, photos, videos and life updates; people also create and share entertaining content, including short videos and memes on apps like TikTok.\n- News and Information: Accessing news (websites like Google News, Dawn News and BBC); Information sharing (the Internet allows quick sharing of news and updates - Twitter is used for news updates, while LinkedIn is popular for job searches); Online content (online newspapers, magazines, podcasts and audio content)."
+                  },
+                  {
+                    "q": "iii. What is cybercrime?",
+                    "a": "Cybercrime means when people do illegal things using computers or the Internet. People who commit these crimes are called cybercriminals. Cybercriminals want to steal money, access personal information and cause harm to others. They use devices like computers, laptops, tablets and smart TVs.\nTypes of cybercrime (Figure 5.8): Hacking, Phishing, Cyberbullying, Ransomware, Malware, Identity Theft, Software Piracy, Social Engineering, Cyberespionage and Illegal Content Distribution."
+                  },
+                  {
+                    "q": "iv. What are the dangers of the Internet?",
+                    "a": "The dangers of the Internet are:\n- Health Dangers: Mental health risks - excessive use can lead to anxiety, depression and social isolation, particularly among young people. Physical health risks - prolonged screen time causes obesity and sleep disorders, and poor school performance. Cognitive impairments - too much information can negatively affect memory and decision-making abilities.\n- Security Dangers: Cybersecurity threats - identity theft, phishing scams and data breaches. Online predation - the exploitation of children by adults who use the Internet to manipulate and harm them.\n- Social Dangers: Impact on social skills - excessive Internet use can hinder face-to-face communication and social interactions. Family dynamics - excessive screen time may weaken family bonds as individuals prioritize online interactions over family time.\n- Impacts on Education: Distraction from learning - students may be sidetracked by social media, affecting academic performance. Dependence on online resources - overreliance on digital tools can diminish critical thinking skills."
+                  },
+                  {
+                    "q": "v. Define any two ways to keep information secure online.",
+                    "a": "Two ways to keep information secure online are:\n1. Create Strong Passwords: A strong password is the first step in securing your credentials. It combines uppercase and lowercase letters, numbers and special characters, and avoids common words or patterns. Tips: use at least 12 characters; avoid personal information (e.g. names, birthdays); mix character types and avoid common words such as \"abc123\", \"qwerty\" and \"football\"; consider using a passphrase (e.g. \"P@$$word2481\").\n2. Enable Two-Factor Authentication (2FA): Two-factor authentication is a security method designed to keep your account or email safer. It requires two Internet-enabled devices to ensure that only the authorized person can access the account. With 2FA, you log in by entering your password as usual, and then a unique code is sent to your phone. You enter this code to complete the login process."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.4",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Digital Citizenship and Ethics",
+                "items": [
+                  {
+                    "q": "What is digital ethics?",
+                    "a": "Ethics helps us to understand right and wrong behaviour, while digital ethics applies these ideas to determine what is right and wrong online. Ethics includes important values like honesty, fairness and responsibility, while digital ethics guides us to act with honesty and fairness in our online interactions."
+                  },
+                  {
+                    "q": "Give two examples of positive online behaviour.",
+                    "a": "Sharing helpful information with others; using social media to stay connected with friends; accessing educational resources; respecting others' privacy and data; using secure passwords to protect accounts; shopping safely on verified websites; reporting suspicious activity to authorities; promoting positive and respectful communication. (Any two)"
+                  },
+                  {
+                    "q": "Give two examples of negative online behaviour.",
+                    "a": "Spreading false information or rumours; bullying or harassing others online; downloading or sharing pirated content; hacking or invading others' privacy; sharing passwords or using weak passwords; engaging in online scams or fraud; ignoring security warnings or threats; posting hurtful or offensive comments. (Any two)"
+                  },
+                  {
+                    "q": "What is a digital footprint?",
+                    "a": "A digital footprint is the trail of data a person leaves online through their digital activities, which can be tracked or analysed."
+                  }
+                ]
+              },
+              {
+                "label": "Internet Uses",
+                "items": [
+                  {
+                    "q": "How do businesses use the internet for online shopping?",
+                    "a": "Businesses use the Internet to sell things directly to customers on websites like Amazon, Alibaba, AliExpress and Daraz."
+                  },
+                  {
+                    "q": "Name two websites used to access news.",
+                    "a": "Google News, Dawn News and BBC. (Any two)"
+                  },
+                  {
+                    "q": "How is the internet used for social networking?",
+                    "a": "Social networking websites like Facebook and Twitter help users connect with friends and family. The Internet provides access to social media apps for sharing ideas, photos, videos and life updates with networks such as Instagram and Snapchat. People also create and share entertaining content, including short videos and memes on social media apps like TikTok."
+                  },
+                  {
+                    "q": "What is information sharing on the internet?",
+                    "a": "The Internet allows quick sharing of news and updates, making it easier to stay informed about current events. For example, Twitter is used for news updates, while LinkedIn is popular for job searches."
+                  }
+                ]
+              },
+              {
+                "label": "Internet Dangers",
+                "items": [
+                  {
+                    "q": "What are the mental health risks of excessive internet use?",
+                    "a": "Excessive use can lead to anxiety, depression and social isolation, particularly among young people. Possible solutions: limit screen time, engage in offline activities, and seek professional help if needed."
+                  },
+                  {
+                    "q": "What are the physical health risks of excessive screen time?",
+                    "a": "Positioning behaviour from prolonged screen time causes obesity and sleep disorders, and it can lead to poor school performance and decreased sleep duration. Possible solution: promote regular physical activity, ensure breaks during screen time, and encourage healthy sleep habits."
+                  },
+                  {
+                    "q": "What is online predation?",
+                    "a": "Online predation refers to the exploitation of children by adults who use the Internet to manipulate and harm them. Possible solution: educate children about online safety, monitor their online activities, and use parental control software to limit exposure to harmful content."
+                  },
+                  {
+                    "q": "What is a digital detox?",
+                    "a": "Practising a digital detox means taking breaks from digital devices and participating in activities that foster critical thinking. It is the book's solution for cognitive impairments caused by too much information."
+                  }
+                ]
+              },
+              {
+                "label": "Information Security",
+                "items": [
+                  {
+                    "q": "What makes a strong password?",
+                    "a": "A strong password combines uppercase and lowercase letters, numbers and special characters, and avoids common words or patterns. Tips: use at least 12 characters; avoid personal information (e.g. names, birthdays); mix character types and avoid common words such as \"abc123\", \"qwerty\" and \"football\"; consider using a passphrase (e.g. \"P@$$word2481\")."
+                  },
+                  {
+                    "q": "How does two-factor authentication (2FA) work?",
+                    "a": "Two-factor authentication (2FA) is a security method designed to keep your account or email safer. It requires two Internet-enabled devices to ensure that only the authorized person can access the account. With 2FA, you log in by entering your password as usual, and then a unique code is sent to your phone. You enter this code to complete the login process."
+                  },
+                  {
+                    "q": "How can you recognise a spam (fraudulent) email?",
+                    "a": "Look for generic greetings, spelling mistakes and urgency in the message. Be cautious of links that do not match the official website URL. Always verify with the company directly through their official channels instead of clicking on links in suspicious emails."
+                  },
+                  {
+                    "q": "How do you update Windows and Android devices?",
+                    "a": "Windows OS: Click the Start menu and select Settings. Go to Update & Security and click on Check for updates.\nAndroid OS: Open Settings, tap on System, then select Software update."
+                  }
+                ]
+              },
+              {
+                "label": "Cybercrime",
+                "items": [
+                  {
+                    "q": "What is hacking?",
+                    "a": "Hacking is the unauthorized access to computer systems or networks. Hackers exploit weaknesses in technology to gain access into someone's computer and can use their computers and smartphones to perform certain actions."
+                  },
+                  {
+                    "q": "What is ransomware?",
+                    "a": "Ransomware is a type of cybercrime that involves harmful software designed to lock and encrypt a person's files. Cybercriminals use this malware to make the victim's data inaccessible, and then they demand payment to unlock it."
+                  },
+                  {
+                    "q": "What is malware? Name its types.",
+                    "a": "Malware refers to any program created to harm computers or steal information. It often spreads into computers through unsafe websites, emails or downloads. Malware can damage files, slow down systems and cause various problems. Types: Viruses (programs that attach to files and spread when the infected file is opened), Worms (programs that can copy themselves and spread through networks without needing a file to attach to), Trojans (programs that pretend to be helpful but are actually harmful and can damage your device), Spyware (software that secretly collects personal information from your device without you knowing), Adware (software that shows unwanted ads on your device, often when you download free programs)."
+                  },
+                  {
+                    "q": "What is identity theft?",
+                    "a": "Identity theft is a type of cybercrime where someone takes your personal information and uses it for their own benefit. This can involve stealing money from you or committing crimes in your name, making it seem like you are the one responsible."
+                  }
+                ]
+              },
+              {
+                "label": "Support Systems and Copyright",
+                "items": [
+                  {
+                    "q": "What is the law against cybercrime in Pakistan? Give two punishments from the book.",
+                    "a": "In Pakistan, specific laws are designed to combat online crimes, such as the Prevention of Electronic Crimes Act (PECA) 2016. This law addresses issues like hacking, stealing personal information and cyberbullying. Punishments from the book's table: Damage to Data - up to 3 years and a fine of 300,000 PKR; Unauthorized Access (Hacking) - up to 3 years and a fine of 1,000,000 PKR."
+                  },
+                  {
+                    "q": "Where can a victim of cybercrime in Pakistan report it?",
+                    "a": "A victim can report to the Cyber Crime Wing (CCW) of the FIA (Federal Investigation Agency), the National Response Centre for Cyber Crime (NR3C, website nr3c.gov.pk), or the PTA complaint management system (complaint.pta.gov.pk). Cyber Scouts (csop.pk/cyber-scouts) also help by spotting dangers and reporting problems to the school and parents before reporting the incident to the authorities. Before reporting, collect evidence: save screenshots, messages and links as proof."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 6,
+        "title": "Entrepreneurship",
+        "reading": "Entrepreneurship",
+        "display": "Entrepreneurship",
+        "sections": [
+          {
+            "num": "6.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. What is the primary purpose of a business plan?\n(a) To increase product prices\n(b) To guide the launch, operation, and growth of a business\n(c) To attract customers without marketing\n(d) To analyse the competition only",
+                    "a": "(b) To guide the launch, operation, and growth of a business ✓"
+                  },
+                  {
+                    "q": "ii. Which of the following is NOT a component of a business plan?\n(a) Market Need\n(b) Product Design\n(c) Celebrity Endorsements\n(d) Marketing",
+                    "a": "(c) Celebrity Endorsements ✓"
+                  },
+                  {
+                    "q": "iii. What does 'SEO' stand for in digital marketing?\n(a) Social Engagement Optimization\n(b) Search Engine Optimization\n(c) Sales Enhancement Option\n(d) Standardized Equipment Order",
+                    "a": "(b) Search Engine Optimization ✓"
+                  },
+                  {
+                    "q": "iv. Which of the following is an example of an innovative payment method?\n(a) Cash Payments\n(b) Credit Cards\n(c) Digital Wallets\n(d) Barter System",
+                    "a": "(c) Digital Wallets ✓"
+                  },
+                  {
+                    "q": "v. Which of the following platforms is commonly used for content marketing in digital marketing?\n(a) Radio Ads\n(b) Billboards\n(c) Social Media Platforms\n(d) Flyers",
+                    "a": "(c) Social Media Platforms ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.2",
+            "name": "Fill in the blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. ____ is essential for understanding customer needs and wants.",
+                    "a": "Market Research"
+                  },
+                  {
+                    "q": "ii. A ____ outlines a company's goals and how it plans to achieve them.",
+                    "a": "Business Plan"
+                  },
+                  {
+                    "q": "iii. ____ helps make a website easier to find by optimizing it for search engines.",
+                    "a": "SEO (Search Engine Optimization)"
+                  },
+                  {
+                    "q": "iv. In ____ marketing, businesses use platforms like social media to reach customers.",
+                    "a": "Digital"
+                  },
+                  {
+                    "q": "v. Safe payment methods ensure ____ in transactions by protecting personal information.",
+                    "a": "security"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. What is a business plan and its components?",
+                    "a": "A business plan is a document that outlines a business's goals and how to achieve them. It includes how to get money, manage spending and plan for the future, and it acts as a roadmap guiding the launch, operation and growth of a business.\nIts components (Figure 6.1) are seven:\n- Market Need\n- Customer Need\n- Product Design\n- Marketing\n- Costing\n- Operations\n- Financial Planning"
+                  },
+                  {
+                    "q": "ii. What is the difference between payment and transactions? How can we choose safe transaction methods?",
+                    "a": "Payment is the act of transferring money in exchange for goods, services, or to settle obligations. For example, paying 100 rupees for groceries using a credit card, or taking a 100 rupee note from your wallet and giving it to the cashier.\nA transaction is the overall process of exchanging goods, services or assets between two parties - the entire process of purchasing groceries, from selection to payment and receipt. A payment happens at a specific point in the transaction process, while the transaction includes all elements (agreements, delivery, payments).\nSafe transaction methods:\n- Traditional methods: Cash Payments (physical money - coins and paper bills; easy but may be lost or stolen) and Credit Cards (safe and convenient, especially for larger amounts, no need to carry cash; but if someone gets the card information, they might misuse it).\n- Innovative methods: Digital Wallets (apps like easypaisa or Google Pay to send money; fast, and they keep card details safe); Biometric Verification (facial features or fingerprint to verify identity, ensuring no one else can steal money); Two-Factor Authentication (2FA) (verify identity by password or a one-time code sent to phone or email, e.g. an OTP code); Smart Contracts (digital agreements that automatically do what both people agreed on, like sending money when goods are delivered)."
+                  },
+                  {
+                    "q": "iii. What tools and techniques are used in digital marketing?",
+                    "a": "Digital marketing tools (Figure 6.3) are:\n- Website Designing: a website is an online place where businesses and people share information and sell things; a blog is a section of a website where new information, stories and helpful tips are shared regularly.\n- Email Marketing: sending messages to people's inboxes to share news and promotions.\n- Social Media Marketing: online platforms like Facebook, Instagram and X.com where people talk, share pictures and post messages; a key tool for promoting products and services.\n- Online Advertising: showing ads on websites and apps, targeting specific groups via Google Ads or social media ads.\n- Content Marketing: creating useful or fun content (videos, articles) to attract and keep people interested.\n- Mobile Apps: small programs for phones and tablets for chatting, learning, playing games and shopping, downloaded from app stores like Google Play Store.\n- Search Engine Optimization (SEO): a digital marketing tool that helps improve search results and makes products easier to find and sell online.\nTechniques for using social media: share fun posts, use hashtags (e.g. #CupcakeLovers), link to the website, talk to followers, and work with influencers."
+                  },
+                  {
+                    "q": "iv. What is a digital marketing plan?",
+                    "a": "A digital marketing plan is using the internet to promote a business's products and services. It helps set goals and monitor progress.\nExample from the book - \"Buy phone accessories online\" (Table 6.3):\n- Market Need: mobile phones are widely used; people need affordable, trendy, quality accessories (cases, chargers, headphones) in demand.\n- Customer Need: quality accessories matching devices, online shopping with quick delivery, affordable and stylish.\n- Product Design: a variety of accessories (cases, chargers, power banks), compatible with Samsung, iPhone, etc., trendy, durable and affordable.\n- Operations Plan: create an e-commerce website or sell on Instagram, Facebook and eBay; quick stock updates and efficient shipping.\n- Marketing Plan: Social Media Marketing (Instagram and Facebook new arrivals, promotions, targeted ads), Influencer Marketing (partner with local influencers), Content Marketing (blogs and videos about phone care tips, trending accessories, unboxing), SEO (optimize the website for \"Buy phone accessories online\" and \"best phone case for iPhone\").\n- Finance Plan: budget for advertising, website development and influencer marketing; track product cost and competitive pricing for better margins; monitor cash flow and focus on boosting online sales."
+                  },
+                  {
+                    "q": "v. What is Search Engine Optimization (SEO), and how is it used on social media like Instagram and Twitter?",
+                    "a": "Search Engine Optimization (SEO) is the process of making websites easier for people to find when they search using search engines (e.g. Google). It helps websites and webpages appear as top results.\n- On-Page SEO: actions taken directly on your website, e.g. using appropriate keywords like \"Yummy Pizza\" for product promotion and creating content helpful for quick searching.\n- Off-Page SEO: actions taken outside your website, e.g. getting other websites to link to it and promoting products on social media platforms like Facebook and Instagram.\nOn social media like Instagram and Twitter, SEO is used by sharing fun posts, using hashtags (e.g. #CupcakeLovers) so more people see the posts, putting a link to the website in posts so people can visit easily, talking to followers, and working with influencers. This improves the website's SEO and expands search results."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.4",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Entrepreneurship and Business Plan",
+                "items": [
+                  {
+                    "q": "What is entrepreneurship?",
+                    "a": "Entrepreneurship is starting and managing a new business or innovative idea; coming up with new ideas, making plans and putting in effort to grow and succeed."
+                  },
+                  {
+                    "q": "What is an entrepreneur?",
+                    "a": "An entrepreneur is someone who knows how to sell and promote products, both traditionally and online. For example, an entrepreneur can sell on Daraz, Amazon, YouTube and Instagram."
+                  },
+                  {
+                    "q": "What are the three steps of turning an idea into a business?",
+                    "a": "1. Idea: generate an innovative or new business idea (e.g. a cupcake business selling a unique \"fun cupcake\" for birthdays and weddings).\n2. Business Plan: a series of steps to turn the idea into a business - market research, target customers, marketing and cost.\n3. Action: implementation of the business plan - set up a small space to bake, start selling and take orders, use social media to share and get customers, and plan to expand as orders grow."
+                  },
+                  {
+                    "q": "What is a business plan?",
+                    "a": "A business plan is a document that outlines a business's goals and how to achieve them. It acts as a roadmap guiding the launch, operation and growth of a business."
+                  },
+                  {
+                    "q": "What is market need?",
+                    "a": "Market need is a situation in the market or business when a product is sold in large quantities. For example, if many students want a \"Parker Pen\", the company should produce more of them."
+                  }
+                ]
+              },
+              {
+                "label": "Marketing and the 4Ps",
+                "items": [
+                  {
+                    "q": "What is marketing?",
+                    "a": "Marketing is how companies inform people about their products, services or items to buy or use. For example, telling a friend that a 'Parker Pen' is good and the friend buys it."
+                  },
+                  {
+                    "q": "What are the 4Ps of marketing?",
+                    "a": "Product, Price, Promotion and Place."
+                  },
+                  {
+                    "q": "Give an example of each of the 4Ps for ice cream.",
+                    "a": "Product: ice cream flavours like chocolate and vanilla. Price: 50 rupees per cone - affordable for customers while ensuring profit. Promotion: informing people through advertisements, discounts and social media posts, e.g. \"Buy 1 Get 1 Free\" on ice cream. Place: the area or shop where the product is sold, e.g. an ice cream shop near a park."
+                  },
+                  {
+                    "q": "What is the difference between online and physical marketing?",
+                    "a": "Online marketing uses the internet (social media and websites), any time and anywhere; it shows ads to many people around the world, is usually cheaper and easier to start, and you can track how well ads are doing. Examples: Content Marketing, Social Media Marketing, SEO, Pay-Per-Click (PPC) Ads and Online Marketplaces.\nPhysical marketing uses stores, billboards and flyers, in specific places (stores and streets); it reaches nearby people and the local community, may cost more to create and distribute posters, and it is harder to see how many people saw the flyers or posters. Examples: Word of Mouth, Print Advertising, Radio and TV Ads, Billboards and Posters, Product Samples or Free Trials."
+                  }
+                ]
+              },
+              {
+                "label": "Payment and Transaction",
+                "items": [
+                  {
+                    "q": "What is a transaction?",
+                    "a": "A transaction is when you exchange something, like money, for a product or service. It is the overall process of exchanging goods, services or assets between two parties, from selection to payment and receipt."
+                  },
+                  {
+                    "q": "What is a payment?",
+                    "a": "A payment is the act of giving money in exchange for something, for example paying 100 rupees for groceries using a credit card."
+                  },
+                  {
+                    "q": "Name two traditional and two innovative safe transaction methods.",
+                    "a": "Traditional: Cash Payments and Credit Cards. Innovative: Digital Wallets (e.g. easypaisa, Google Pay), Biometric Verification, Two-Factor Authentication (2FA) and Smart Contracts. (Any two each)"
+                  },
+                  {
+                    "q": "What is an OTP?",
+                    "a": "OTP stands for One-Time Password - a temporary, unique code sent to your phone or email, usable only once to complete a transaction or login. It adds an extra layer of protection."
+                  }
+                ]
+              },
+              {
+                "label": "Digital Marketing Tools",
+                "items": [
+                  {
+                    "q": "What is social media marketing?",
+                    "a": "Social media marketing uses online platforms like Facebook, Instagram and X.com where people talk, share pictures and post messages. It is a key tool for promoting products and services."
+                  },
+                  {
+                    "q": "What is content marketing?",
+                    "a": "Content marketing is creating useful or fun content (videos, articles) to attract and keep people interested."
+                  },
+                  {
+                    "q": "What is email marketing?",
+                    "a": "Email marketing is sending messages to people's inboxes to share news and promotions."
+                  },
+                  {
+                    "q": "What is a mobile app?",
+                    "a": "A mobile app is a small program for phones and tablets for chatting, learning, playing games and shopping, downloaded from app stores like Google Play Store."
+                  }
+                ]
+              },
+              {
+                "label": "SEO",
+                "items": [
+                  {
+                    "q": "What is SEO?",
+                    "a": "SEO stands for Search Engine Optimization. It is the process of making websites easier for people to find when they search using search engines (e.g. Google), so that they appear as top results."
+                  },
+                  {
+                    "q": "What is on-page SEO? Give an example.",
+                    "a": "On-page SEO means actions taken directly on your website, e.g. using appropriate keywords like \"Yummy Pizza\" for product promotion and creating content helpful for quick searching."
+                  },
+                  {
+                    "q": "What is off-page SEO? Give an example.",
+                    "a": "Off-page SEO means actions taken outside your website, e.g. getting other websites to link to it and promoting products on social media platforms like Facebook and Instagram."
+                  }
+                ]
+              },
+              {
+                "label": "Project Management and Media Literacy",
+                "items": [
+                  {
+                    "q": "What is project management in business planning?",
+                    "a": "Project management organizes tasks to ensure work is completed on time. For example, for a \"my_unique_arts\" YouTube channel, it means planning and organizing tasks (creating art, filming, editing, uploading videos) and scheduling time for each action."
+                  },
+                  {
+                    "q": "What is media literacy in business planning?",
+                    "a": "Media literacy helps people use tools like social media to share ideas and promote a business. For example, sharing art and craft promotion videos and pictures on Instagram and Facebook to showcase work and attract viewers."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      }
+    ],
+    "csExsolutionsSindhi": [
+      {
+        "unit": 1,
+        "title": "آئي سي ٽي (ICT) جا بنيادي اصول",
+        "reading": "آئي سي ٽي (ICT) جا بنيادي اصول",
+        "display": "آئي سي ٽي (ICT) جا بنيادي اصول",
+        "sections": [
+          {
+            "num": "1.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) 5G ٽيڪنالاجي نيٽ ورڪ ڪنيڪٽوٽي کي بهتر بڻائي ٿي، ڇاڪاڻ ته اها فراهم ڪري ٿي:\n(الف) سست ڊيٽا جي رفتار\n(ب) گھٽ بينڊ وڊٿ\n(ج) تيز ڊيٽا جي رفتار ۽ گھٽ ليٽنسي ✓\n(د) ڳنڍيل ڊوائيسز جو گھٽ تعداد",
+                    "a": "(ج) تيز ڊيٽا جي رفتار ۽ گھٽ ليٽنسي ✓"
+                  },
+                  {
+                    "q": "(ii) آئي او ٽي (IoT) ڊوائيسز کي ڪهڙي سهولت ڏئي ٿي:\n(الف) الڳ الڳ ڪم ڪرڻ\n(ب) ڳنڍجڻ ۽ ڊيٽا شيئر ڪرڻ ✓\n(ج) صرف پاڻ تي ڪم ڪرڻ\n(د) انٽرنيٽ جي ضرورت نه هجڻ",
+                    "a": "(ب) ڳنڍجڻ ۽ ڊيٽا شيئر ڪرڻ ✓"
+                  },
+                  {
+                    "q": "(iii) ايج ڪمپيوٽنگ جو بنيادي مقصد آهي:\n(الف) ڊيٽا کي پري هنڌ تي پروسيس ڪرڻ\n(ب) ڊيٽا کي اتي ئي پروسيس ڪرڻ جتي اها پيدا ٿئي ٿي ✓\n(ج) نيٽ ورڪ جي رفتار گھٽائڻ\n(د) ڊيٽا کي ڪلائوڊ ۾ محفوظ ڪرڻ",
+                    "a": "(ب) ڊيٽا کي اتي ئي پروسيس ڪرڻ جتي اها پيدا ٿئي ٿي ✓"
+                  },
+                  {
+                    "q": "(iv) نيٽ ورڪ ۾ روٽر:\n(الف) مقامي نيٽ ورڪ اندر ڊوائيسز کي ڳنڍي ٿو\n(ب) مختلف نيٽ ورڪن کي ڳنڍي ٿو ۽ ڊيٽا کي صحيح منزل ڏانهن موڪلي ٿو ✓\n(ج) انٽرنيٽ جي رفتار وڌائي ٿو\n(د) وائرليس ڊوائيسز کي نيٽ ورڪ سان ڳنڍي ٿو",
+                    "a": "(ب) مختلف نيٽ ورڪن کي ڳنڍي ٿو ۽ ڊيٽا کي صحيح منزل ڏانهن موڪلي ٿو ✓"
+                  },
+                  {
+                    "q": "(v) نيٽ ورڪ سيڪيورٽي ۾ فائر وال جو بنيادي ڪردار آهي:\n(الف) انٽرنيٽ جي رسائي بند ڪرڻ\n(ب) ايندڙ ۽ ويندڙ نيٽ ورڪ ٽريفڪ جي نگراني ۽ ڪنٽرول ڪرڻ ✓\n(ج) ڊيٽا شيئر ٿيڻ کان روڪڻ\n(د) ڊيٽا جي منتقلي جي رفتار بهتر ڪرڻ",
+                    "a": "(ب) ايندڙ ۽ ويندڙ نيٽ ورڪ ٽريفڪ جي نگراني ۽ ڪنٽرول ڪرڻ ✓"
+                  },
+                  {
+                    "q": "(vi) نيٽ ورڪ ۾ آئي او ٽي ڊوائيسز جي بنيادي خصوصيت آهي ته:\n(الف) اهي ٻين ڊوائيسز کان الڳ آهن\n(ب) اهي ٻين ڊوائيسز سان ڊيٽا ۽ حڪم مٽائين ٿا ✓\n(ج) انهن کي هٿ سان هلائڻو پوي ٿو\n(د) اهي انٽرنيٽ سان ڳنڍجي نٿا سگهن",
+                    "a": "(ب) اهي ٻين ڊوائيسز سان ڊيٽا ۽ حڪم مٽائين ٿا ✓"
+                  },
+                  {
+                    "q": "(vii) نيٽ ورڪ ۾ خراب وسيلن جو نتيجو ڇا آهي؟\n(الف) رفتار ۾ واڌ\n(ب) ڊيٽا جو نقصان يا خرابي ✓\n(ج) ڊوائيسز وچ ۾ بهتر رابطو\n(د) وسيلن تائين محفوظ رسائي",
+                    "a": "(ب) ڊيٽا جو نقصان يا خرابي ✓"
+                  },
+                  {
+                    "q": "(viii) نيٽ ورڪ ۾ ايج ڪمپيوٽنگ گھٽائڻ ۾ مدد ڪري ٿي:\n(الف) ليٽنسي ✓\n(ب) ڊوائيس ڪنيڪٽوٽي\n(ج) بينڊ وڊٿ جو استعمال\n(د) انٽرنيٽ جي رسائي",
+                    "a": "(الف) ليٽنسي ✓"
+                  },
+                  {
+                    "q": "(ix) 5G آئي او ٽي ڊوائيسز جي مدد ڪري ٿي وڌيڪ رفتار ۽ بهتر ڪنيڪٽوٽي فراهم ڪري، وڌيڪ:\n(الف) ڳنڍيل ڊوائيسز لاءِ ✓\n(ب) نيٽ ورڪن لاءِ\n(ج) رفتار لاءِ\n(د) ڊيٽا جي منتقلي لاءِ",
+                    "a": "(الف) ڳنڍيل ڊوائيسز لاءِ ✓"
+                  },
+                  {
+                    "q": "(x) نيٽ ورڪ ۾ ڊوائيسز وڌيڪ ڪارائتي نموني سان رابطو ڪن ٿا:\n(الف) هب ذريعي\n(ب) روٽر ذريعي\n(ج) سوئچ ذريعي ✓\n(د) موڊيم ذريعي",
+                    "a": "(ج) سوئچ ذريعي ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ______ ٽيڪنالاجي تيز ڊيٽا جي رفتار ۽ گھٽ ليٽنسي فراهم ڪري ٿي، جنهن سان ڪيترن ئي ڊوائيسز لاءِ ڪنيڪٽوٽي بهتر ٿئي ٿي.",
+                    "a": "5G ٽيڪنالاجي تيز ڊيٽا جي رفتار ۽ گھٽ ليٽنسي فراهم ڪري ٿي، جنهن سان ڪيترن ئي ڊوائيسز لاءِ ڪنيڪٽوٽي بهتر ٿئي ٿي."
+                  },
+                  {
+                    "q": "(ii) ______ ڊيٽا کي ان جي ذريعي جي ويجهو پروسيس ڪرڻ جو عمل آهي، جنهن سان نيٽ ورڪ رابطي ۾ ليٽنسي ۽ بينڊ وڊٿ جو استعمال گھٽجي ٿو.",
+                    "a": "ايج ڪمپيوٽنگ (Edge Computing) ڊيٽا کي ان جي ذريعي جي ويجهو پروسيس ڪرڻ جو عمل آهي، جنهن سان نيٽ ورڪ رابطي ۾ ليٽنسي ۽ بينڊ وڊٿ جو استعمال گھٽجي ٿو."
+                  },
+                  {
+                    "q": "(iii) ______ هڪ ڊوائيس آهي جيڪو مختلف نيٽ ورڪن کي ڳنڍي ٿو ۽ يقيني بڻائي ٿو ته ڊيٽا نيٽ ورڪ اندر صحيح منزل تائين پهچي.",
+                    "a": "روٽر (Router) هڪ ڊوائيس آهي جيڪو مختلف نيٽ ورڪن کي ڳنڍي ٿو ۽ يقيني بڻائي ٿو ته ڊيٽا نيٽ ورڪ اندر صحيح منزل تائين پهچي."
+                  },
+                  {
+                    "q": "(iv) نيٽ ورڪ ۾ ______ ڪيترن ئي ڊوائيسز وچ ۾ ڊيٽا ٽريفڪ کي هدايت ڪري ٿو، جنهن سان مقامي نيٽ ورڪ (LAN) اندر ڪارائتو رابطو يقيني ٿئي ٿو.",
+                    "a": "نيٽ ورڪ ۾ سوئچ (Switch) ڪيترن ئي ڊوائيسز وچ ۾ ڊيٽا ٽريفڪ کي هدايت ڪري ٿو، جنهن سان مقامي نيٽ ورڪ (LAN) اندر ڪارائتو رابطو يقيني ٿئي ٿو."
+                  },
+                  {
+                    "q": "(v) ______ اهي ڊوائيسز آهن جيڪي پنهنجي ماحول مان ڊيٽا گڏ ڪن ٿا ۽ ان کي آئي او ٽي سسٽم ڏانهن موڪلين ٿا، جنهن سان سمارٽ گهرن ۽ ٻين صنعتن ۾ خودڪاري ممڪن ٿئي ٿي.",
+                    "a": "سينسر (Sensors) اهي ڊوائيسز آهن جيڪي پنهنجي ماحول مان ڊيٽا گڏ ڪن ٿا ۽ ان کي آئي او ٽي سسٽم ڏانهن موڪلين ٿا، جنهن سان سمارٽ گهرن ۽ ٻين صنعتن ۾ خودڪاري ممڪن ٿئي ٿي."
+                  },
+                  {
+                    "q": "(vi) ______ اها ٽيڪنالاجي آهي جيڪا جسماني شين کي انٽرنيٽ سان ڳنڍي ٿي، جنهن سان اهي بهتر ڪارڪردگي لاءِ ڊيٽا موڪلي ۽ وصول ڪري سگهن ٿيون.",
+                    "a": "انٽرنيٽ آف ٿنگس (IoT) اها ٽيڪنالاجي آهي جيڪا جسماني شين کي انٽرنيٽ سان ڳنڍي ٿي، جنهن سان اهي بهتر ڪارڪردگي لاءِ ڊيٽا موڪلي ۽ وصول ڪري سگهن ٿيون."
+                  },
+                  {
+                    "q": "(vii) نيٽ ورڪ ۾ ______ جو بنيادي ڪم ايندڙ ۽ ويندڙ ٽريفڪ جي نگراني ۽ ڪنٽرول ڪرڻ آهي، ته جيئن غير مجاز رسائي کان بچاءُ ٿئي.",
+                    "a": "نيٽ ورڪ ۾ فائر وال (Firewall) جو بنيادي ڪم ايندڙ ۽ ويندڙ ٽريفڪ جي نگراني ۽ ڪنٽرول ڪرڻ آهي، ته جيئن غير مجاز رسائي کان بچاءُ ٿئي."
+                  },
+                  {
+                    "q": "(viii) ______ سسٽم واشنگ مشين جهڙن ڊوائيسز ۾ لڳل هوندا آهن، جيڪي ڪم خودڪار ڪن ٿا ۽ يقيني بڻائين ٿا ته ڊوائيس بغير هٿ جي مداخلت جي ڪم ڪري.",
+                    "a": "ايمبيڊڊ (Embedded) سسٽم واشنگ مشين جهڙن ڊوائيسز ۾ لڳل هوندا آهن، جيڪي ڪم خودڪار ڪن ٿا ۽ يقيني بڻائين ٿا ته ڊوائيس بغير هٿ جي مداخلت جي ڪم ڪري."
+                  },
+                  {
+                    "q": "(ix) ______ ٽيڪنالاجي کان اميد آهي ته اها وڌيڪ ڊوائيسز لاءِ ڪنيڪٽوٽي بهتر ڪندي، جنهن سان پاڻمرادو هلندڙ گاڏيون ۽ سمارٽ شهر جهڙيون ايپليڪيشنون بهتر ٿينديون.",
+                    "a": "5G ٽيڪنالاجي کان اميد آهي ته اها وڌيڪ ڊوائيسز لاءِ ڪنيڪٽوٽي بهتر ڪندي، جنهن سان پاڻمرادو هلندڙ گاڏيون ۽ سمارٽ شهر جهڙيون ايپليڪيشنون بهتر ٿينديون."
+                  },
+                  {
+                    "q": "(x) ______ وائيڊ ايريا نيٽ ورڪ (WAN) ۾ ڊوائيسز وچ ۾ رابطي جي ذميواري سنڀالي ٿو، جيڪو LANs کي وڏي مفاصلي تي ڳنڍي ٿو.",
+                    "a": "روٽر (Router) وائيڊ ايريا نيٽ ورڪ (WAN) ۾ ڊوائيسز وچ ۾ رابطي جي ذميواري سنڀالي ٿو، جيڪو LANs کي وڏي مفاصلي تي ڳنڍي ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڪمپيوٽر نيٽ ورڪ جا بنيادي جزا ڪهڙا آهن، ۽ اهي ڪارائتي رابطي کي ڪيئن ممڪن بڻائين ٿا؟",
+                    "a": "ڪمپيوٽر نيٽ ورڪ جا بنيادي جزا آهن:\n- روٽر (Router): مختلف نيٽ ورڪن وچ ۾ انٽرنيٽ ٽريفڪ کي هدايت ڪري ٿو ۽ ڊيٽا پيڪٽن کي صحيح منزل ڏانهن موڪلي ٿو.\n- سوئچ (Switch): ساڳئي مقامي نيٽ ورڪ اندر ڪيترن ئي ڊوائيسز کي ڳنڍي ٿو ۽ ڊيٽا صرف ان ڊوائيس ڏانهن موڪلي ٿو جنهن لاءِ اها آهي، جنهن سان ڪارڪردگي ۽ ڪارائتي بهتر ٿئي ٿي.\n- موڊيم (Modem): ڪمپيوٽر جي ڊجيٽل ڊيٽا کي ٽيليفون يا ڪيبل لائينن تي منتقلي لاءِ اينالاگ سگنلن ۾ تبديل ڪري ٿو، ۽ واپس به.\n- اين آئي سي (NIC — Network Interface Card): ڪمپيوٽرن ۽ پرنٽرن ۾ لڳل هارڊويئر جزا جيڪي ڊوائيسز کي نيٽ ورڪ سان ڳنڍڻ ۽ ڊيٽا موڪلڻ ۽ وصول ڪرڻ جي سهولت ڏين ٿا.\n- فائر وال (Firewall): حفاظتي ڊوائيس جيڪو اڳواٽ مقرر ڪيل حفاظتي قاعدن موجب ايندڙ ۽ ويندڙ نيٽ ورڪ ٽريفڪ جي نگراني ۽ ڪنٽرول ڪري ٿو.\n- هب (Hub): ڪيترن ئي ڪمپيوٽرن کي ڳنڍي ٿو پر ڊيٽا سڀني ڳنڍيل ڊوائيسز ڏانهن موڪلي ٿو، جنهن سان ڪارائتي گھٽجي ٿي.\n- گيٽ وي (Gateway): مختلف پروٽوڪول وارن ٻن نيٽ ورڪن وچ ۾ پل جو ڪم ڪري ٿو ۽ ڊيٽا جي شڪل بدلائي ٿو.\n- ايڪسيس پوائنٽ (Access Point): وائرليس نيٽ ورڪ ٺاهي ٿو ته جيئن وائي فائي وارا ڊوائيسز جهڙوڪ ليپ ٽاپ ۽ سمارٽ فون تار واري نيٽ ورڪ سان ڳنڍجي سگهن.\nاهي گڏجي ڪارائتو رابطو ممڪن بڻائين ٿا: سوئچ ڊيٽا صرف صحيح ڊوائيس ڏانهن موڪلي ٿو، روٽر مختلف نيٽ ورڪن کي ڳنڍي ٿو ۽ ڊيٽا کي صحيح منزل ڏانهن موڪلي ٿو، موڊيم سگنلن کي منتقلي لاءِ تبديل ڪري ٿو، ۽ فائر وال ٽريفڪ جي حفاظت ڪري ٿو."
+                  },
+                  {
+                    "q": "(ii) نيٽ ورڪن کي ڪهڙا حفاظتي چئلينج درپيش آهن، ۽ حساس معلومات جي حفاظت لاءِ ڪهڙا اپاءَ وٺي سگهجن ٿا؟",
+                    "a": "حفاظتي چئلينج:\n- غير مجاز رسائي: حملو ڪندڙ حساس معلومات چوري ڪري سگهي ٿو، نقصانڪار سافٽ ويئر انسٽال ڪري سگهي ٿو ۽ خدمتن ۾ خلل وجهي سگهي ٿو. ان کان بچاءُ لاءِ مضبوط پاسورڊ، ٽو-فيڪٽر آٿنٽيڪيشن ۽ سافٽ ويئر جون باقاعده اپڊيٽون استعمال ڪريو.\n- خراب جزا: خراب هارڊويئر ڊيٽا جي نقصان يا خرابي ۽ خلل جو سبب بڻجي سگهي ٿو. نيٽ ورڪ جي بنيادي ڍانچي جي باقاعده جانچ ۽ سار سنڀال ڪريو.\n- وائرس ۽ ميلويئر: هڪ متاثر ٿيل ڊوائيس سڄي نيٽ ورڪ ۾ انفيڪشن جلدي پکيڙي سگهي ٿو. مضبوط اينٽي وائرس سافٽ ويئر استعمال ڪريو، محفوظ برائوزنگ ڪريو ۽ اي ميل اٽيچمينٽ ۽ ڊائون لوڊ ۾ احتياط ڪريو.\nحساس معلومات جي حفاظت جا اپاءَ: فائر وال سان نيٽ ورڪ ٽريفڪ جي نگراني ۽ ڪنٽرول ڪريو، ڊيٽا جي حفاظت لاءِ انڪرپشن استعمال ڪريو، اينٽي وائرس سافٽ ويئر، انٽروژن ڊيٽيڪشن سسٽم (IDS)، ڊيٽا لاس پريونشن، حفاظتي پاليسيون ۽ محفوظ رابطا استعمال ڪريو."
+                  },
+                  {
+                    "q": "(iii) آئي او ٽي روزاني زندگي کي ڪيئن بهتر بڻائي ٿو، ۽ صحت جي شعبي ۾ ان جي استعمال جو هڪ مثال ڏيو؟",
+                    "a": "انٽرنيٽ آف ٿنگس (IoT) روزمره جي ڊوائيسز جو هڪ نيٽ ورڪ آهي جيڪي هڪ ٻئي سان ڊيٽا مٽائي سگهن ٿيون ۽ پري کان ڪنٽرول ڪري سگهجن ٿيون. اهو روزاني زندگي بهتر بڻائي ٿو: سمارٽ فريج، ڪارون ۽ ايئر ڪنڊيشنر جهڙا ڊوائيسز فون تان ڪنٽرول ڪري سگهجن ٿا، ۽ سمارٽ گهرن ۾ ڪم خودڪار ٿين ٿا.\nصحت جي شعبي ۾ آئي او ٽي ڊوائيسز مريضن جي پري کان نگراني ۾ مدد ڪري سگهن ٿا."
+                  },
+                  {
+                    "q": "(iv) آئي او ٽي ڊوائيسز ۾ سينسرن جو ڪهڙو ڪردار آهي، ۽ اهي پري کان ڪنٽرول کي ڪيئن ممڪن بڻائين ٿا؟",
+                    "a": "سينسر اهي ڊوائيسز آهن جيڪي پنهنجي ماحول مان ڊيٽا گڏ ڪن ٿا ۽ ان کي آئي او ٽي سسٽم ڏانهن موڪلين ٿا، جنهن سان سمارٽ گهرن ۽ ٻين صنعتن ۾ خودڪاري ممڪن ٿئي ٿي. ڇاڪاڻ ته آئي او ٽي ڊوائيسز انٽرنيٽ سان ڳنڍيل آهن ۽ هڪ ٻئي سان ڳالهائي سگهن ٿيون، ان ڪري انهن کي پري کان ڪنٽرول ڪري سگهجي ٿو — مثال طور، ايئر ڪنڊيشنر کي فون تان ڪنٽرول ڪري سگهجي ٿو."
+                  },
+                  {
+                    "q": "(v) ايمبيڊڊ سسٽم ڇا آهي، ۽ اهو واشنگ مشين جهڙن ڊوائيسز کي خودڪار ڪيئن ڪري ٿو؟",
+                    "a": "ايمبيڊڊ سسٽم هڪ وڏي ڊوائيس اندر هڪ ننڍو ڪمپيوٽر آهي، جيڪو هڪ خاص ڪم ڪرڻ لاءِ ٺاهيو ويو آهي. واشنگ مشين ۾ ايمبيڊڊ سسٽم ٽائمر مقرر ڪري ٿو ۽ پاڻي کي صحيح گرمي پد تي رکي ٿو، جنهن سان ڌوئڻ جو ڪم بغير هٿ جي مداخلت جي خودڪار ٿئي ٿو."
+                  },
+                  {
+                    "q": "(vi) پنهنجي آس پاس ٽي ڊوائيسز سڃاڻو جيڪي ايمبيڊڊ سسٽم استعمال ڪن ٿا ۽ انهن جي ڪمن جي وضاحت ڪريو.",
+                    "a": "ايمبيڊڊ سسٽم استعمال ڪندڙ ٽي ڊوائيسز آهن:\n- واشنگ مشين: ان جو ايمبيڊڊ سسٽم ٽائمر مقرر ڪري ٿو ۽ پاڻي جو گرمي پد رکي ٿو، جنهن سان ڌوئڻ خودڪار ٿئي ٿو.\n- ڪار: ايمبيڊڊ سسٽم انجڻ، ايئر بيگز ۽ تفريحي سسٽم کي ڪنٽرول ڪن ٿا.\n- طبي سامان (ايم آر آئي مشين / دل جي نگراني وارو اوزار): ايمبيڊڊ سسٽم مشين کي هلائي ٿو ۽ مريض جي حالت جي نگراني ڪري ٿو.\nڪتاب مان ٻيا مثال: سمارٽ فون، جي پي ايس ڊوائيسز، سيلف سروس ڪيوسڪ، اليڪٽرڪ گاڏين جا چارجنگ اسٽيشن ۽ ڪارخانن جون مشينون."
+                  },
+                  {
+                    "q": "(vii) ايج ڪمپيوٽنگ ڇا آهي، ۽ اها ڊيٽا پروسيسنگ ۾ دير کي ڪيئن گھٽائي ٿي؟",
+                    "a": "ايج ڪمپيوٽنگ ڊيٽا کي اتي ئي پروسيس ڪرڻ آهي جتي اها پيدا ٿئي ٿي، ڊوائيس يا سينسر جي ويجهو هڪ ننڍو ڪمپيوٽر استعمال ڪندي، ان جي بدران جو ڊيٽا کي پري مرڪزي سرور ڏانهن موڪليو وڃي. پري سرور ڏانهن ڊيٽا موڪلڻ ۾ وقت لڳي ٿو ۽ اهو سست ٿي سگهي ٿو. ڊيٽا کي مقامي طور تي پروسيس ڪرڻ سان ايج ڪمپيوٽنگ ليٽنسي (دير) گھٽائي ٿي، جلدي جواب ڏئي ٿي ۽ ريئل ٽائيم ڊيٽا جو تجزيو ممڪن بڻائي ٿي، ۽ نيٽ ورڪ تي موڪليل ڊيٽا جي مقدار به گھٽائي ٿي، جنهن سان بينڊ وڊٿ بچي ٿي."
+                  },
+                  {
+                    "q": "(viii) بيان ڪريو ته ايج ڪمپيوٽنگ کي ٽريفڪ مئنيجمينٽ سسٽم ۾ ڪيئن استعمال ڪري سگهجي ٿو.",
+                    "a": "ٽريفڪ مئنيجمينٽ ۾ ايج ڪمپيوٽنگ ڊيٽا کي مقامي طور تي ۽ ريئل ٽائيم ۾ پروسيس ڪري ٿي. مثال طور، هڪ ڪار ريئل ٽائيم ۾ ٽريفڪ کي سڃاڻي سگهي ٿي، تيز رستو تجويز ڪري سگهي ٿي ۽ ڪراسنگ تي ٽرين کي سڃاڻي سگهي ٿي. مقامي طور تي پروسيس ڪرڻ سان دير گھٽ ٿئي ٿي، ان ڪري جواب جلدي ملن ٿا — اهو پاڻمرادو هلندڙ گاڏين ۽ سمارٽ ٽريفڪ سسٽم لاءِ تمام ضروري آهي، جتي فيصلا فوري ڪرڻا پون ٿا."
+                  },
+                  {
+                    "q": "(ix) 5G ٽيڪنالاجي ڪنيڪٽوٽي کي ڪيئن بهتر بڻائي ٿي، ۽ ڪهڙين صنعتن کي ان مان سڀ کان وڌيڪ فائدو ٿئي ٿو؟",
+                    "a": "5G سيلولر نيٽ ورڪ ٽيڪنالاجي جي پنجين نسل آهي. اها تيز ڊيٽا جي رفتار ۽ گھٽ ليٽنسي فراهم ڪري ٿي، ۽ هڪ ئي وقت وڏي تعداد ۾ ڊوائيسز کي ڳنڍي سگهي ٿي، جنهن سان اسٽريمنگ هموار ٿئي ٿي، ڊائون لوڊ جلدي ٿين ٿا ۽ آئي او ٽي ڊوائيسز لاءِ ڪنيڪٽوٽي بهتر ٿئي ٿي — مثال طور، 1080p YouTube وڊيو بغير رڪاوٽ جي ڏسي سگهجي ٿي.\nسڀ کان وڌيڪ فائدو حاصل ڪندڙ صنعتون آهن: ٽرانسپورٽ ۽ پاڻمرادو هلندڙ گاڏيون، سمارٽ شهر ۽ آئي او ٽي، صحت (مريضن جي پري کان نگراني)، تفريح ۽ اسٽريمنگ، ۽ پيداوار (مينوفيڪچرنگ)."
+                  },
+                  {
+                    "q": "(x) 5G لاڳو ڪرڻ سان ڪهڙا ممڪن خطرا وابسته آهن، ۽ انهن کي ڪيئن گھٽائي سگهجي ٿو؟",
+                    "a": "5G جا ممڪن خطرا آهن: وڌيڪ ڳنڍيل ڊوائيسز جو مطلب آهي هيڪرن لاءِ وڌيڪ رستا، ان ڪري سيڪيورٽي ۽ پرائيويسي جا خطرا وڌن ٿا؛ نون ڊوائيسز ۽ نئين نيٽ ورڪ ڍانچي جي قيمت وڌيڪ آهي؛ ۽ نيٽ ورڪ اڃا ٺهي رهيو آهي ته ڪوريج اڻ برابري آهي.\nانهن کي گھٽائي سگهجي ٿو مضبوط نيٽ ورڪ سيڪيورٽي استعمال ڪندي — فائر وال، انڪرپشن، مضبوط پاسورڊ ۽ ٽو-فيڪٽر آٿنٽيڪيشن — سافٽ ويئر ۽ ڊوائيسز کي اپڊيٽ رکندي، ۽ سرڪاري حفاظتي هدايتن تي عمل ڪندي."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 2,
+        "title": "ڊجيٽل صلاحيتون",
+        "reading": "ڊجيٽل صلاحيتون",
+        "display": "ڊجيٽل صلاحيتون",
+        "sections": [
+          {
+            "num": "2.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) مائڪروسافٽ ايڪسل ڇا آهي؟\n(الف) اسپريڊ شيٽ ✓\n(ب) ڊيٽابيس مئنيجمينٽ\n(ج) پريزينٽيشن\n(د) ورڪ بڪ",
+                    "a": "(الف) اسپريڊ شيٽ ✓"
+                  },
+                  {
+                    "q": "(ii) ورڪ شيٽ ۾ ڪالم ۽ قطار جي ٽڪراءُ واري جاءِ کي چيو ويندو آهي ______\n(الف) ڪالم\n(ب) ويليو\n(ج) سيل ✓\n(د) ايڊريس",
+                    "a": "(ج) سيل ✓"
+                  },
+                  {
+                    "q": "(iii) ايڪسل فارمولا ڪهڙي نشاني سان شروع ٿين ٿا؟\n(الف) /\n(ب) [ ]\n(ج) = ✓\n(د) &",
+                    "a": "(ج) = ✓"
+                  },
+                  {
+                    "q": "(iv) مائڪروسافٽ ايڪسل جي ڪهڙي سهولت سان ڪالم (يا ڪالمن) ۾ صرف اهو ڊيٽا ڏيکاري سگهجي ٿو جيڪو ڪجهه شرطن تي پورو لهي؟\n(الف) سارٽنگ\n(ب) فارمولا\n(ج) فلٽرنگ ✓\n(د) پيوٽ",
+                    "a": "(ج) فلٽرنگ ✓"
+                  },
+                  {
+                    "q": "(v) ايڪسل ۾ ڪنڊيشنل فارميٽنگ ڪهڙي ٽيب ۾ آهي؟ ______\n(الف) انسرٽ ٽيب\n(ب) پيج لي آئوٽ ٽيب\n(ج) ڊيٽا ٽيب\n(د) هوم ٽيب ✓",
+                    "a": "(د) هوم ٽيب ✓"
+                  },
+                  {
+                    "q": "(vi) مائڪروسافٽ ايڪسل جو ڪهڙو فنڪشن جانچي ٿو ته ڪا شرط صحيح آهي يا غلط؟\n(الف) SUM()\n(ب) IF() ✓\n(ج) MIN()\n(د) AVERAGE()",
+                    "a": "(ب) IF() ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.2",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) مائڪروسافٽ ايڪسل جا استعمال لکو؟",
+                    "a": "مائڪروسافٽ ايڪسل ٽن بنيادي شعبن ۾ استعمال ٿئي ٿو:\n- ذاتي: بجيٽ جو حساب رکڻ، رابطن جي فهرست سنڀالڻ ۽ مهيني جي خرچن جو رڪارڊ رکڻ لاءِ.\n- اسڪول: گهر جو ڪم ترتيب ڏيڻ، گريڊن جو حساب رکڻ ۽ گرافڪ چارٽ ٺاهڻ لاءِ.\n- ڪم: سيلز ڊيٽا جو تجزيو ڪرڻ، ملازمن جي شيڊيول سنڀالڻ ۽ ڪمپنين جي مالي نتيجن جو حساب رکڻ لاءِ."
+                  },
+                  {
+                    "q": "(ii) فارمولا بار جو مقصد ڇا آهي؟",
+                    "a": "فارمولا بار ايڪسل ونڊو جي مٿان ڊگهو بار آهي (شڪل 2.5 ۾ ڏيکاريل). اهو فعال سيل جو مواد يا فارمولا ڏيکاري ٿو، ۽ اهو ئي هنڌ آهي جتي توهان فارمولا لکو ۽ ايڊٽ ڪريو ٿا. مثال طور، جڏهن توهان اهو سيل چونڊيو ٿا جنهن ۾ =C6+D6+E6+F6+G6 آهي، ته اهو فارمولا فارمولا بار ۾ ظاهر ٿئي ٿو."
+                  },
+                  {
+                    "q": "(iii) ورڪ بڪ ۽ ورڪ شيٽ ۾ فرق بيان ڪريو.",
+                    "a": "ورڪ بڪ:\n- ورڪ بڪ اها مڪمل ايڪسل فائل آهي جيڪا توهان ٺاهيو ۽ محفوظ ڪريو ٿا.\n- هڪ ورڪ بڪ ۾ هڪ يا وڌيڪ ورڪ شيٽون ٿي سگهن ٿيون، ۽ هر ورڪ شيٽ ورڪ بڪ اندر هڪ الڳ صفحو آهي.\n- اهو هڪ بائنڊر جهڙو آهي جنهن ۾ سڀ شيٽون، چارٽ ۽ ڊيٽا رکيل آهن. ورڪ بڪ .xlsx ايڪسٽينشن سان محفوظ ٿئي ٿو.\nورڪ شيٽ:\n- ورڪ شيٽ ورڪ بڪ اندر هڪ صفحو آهي. اهو ئي هنڌ آهي جتي توهان اصل ۾ ڊيٽا داخل ڪريو ۽ ترتيب ڏيو ٿا، ۽ اهو قطارن ۽ ڪالمن (سيلن) جي گرڊ تي مشتمل آهي.\n- هڪ ورڪ بڪ ۾ ڪيتريون ئي ورڪ شيٽون ٿي سگهن ٿيون، هر هڪ پنهنجي ڊيٽا سان.\n- ورڪ شيٽ اسڪرين جي هيٺان ٽيب سان ظاهر ٿئي ٿي."
+                  },
+                  {
+                    "q": "(iv) ورڪ شيٽ ۾ چارٽ ڪيئن شامل ڪجي؟ مرحلا لکو.",
+                    "a": "مائڪروسافٽ ايڪسل ۾ چارٽ شامل ڪرڻ جا مرحلا:\n1. اهي سيل چونڊيو جن ۾ چارٽ لاءِ ڊيٽا آهي — مثال طور، ڪالم A (شاگرد جو نالو) سيل رينج A3:A6 ۽ ڪالم I (فيصد) سيل رينج I3:I6، 3D بار چارٽ لاءِ.\n2. انسرٽ ٽيب تي ڪلڪ ڪريو.\n3. چارٽ ڪمانڊ بٽڻ تي ڪلڪ ڪريو.\n4. گهربل چارٽ جو قسم چونڊيو (مثال طور، 3D بار چارٽ).\n5. چارٽ شامل ٿي ويندو. استاد کي چارٽ جا تفصيل سمجھائڻ گهرجن جهڙوڪ X-axis ۽ Y-axis، ليجنڊ، ڊيٽا ليبل ۽ چارٽ ٽائيٽل."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.3",
+            "name": "عملي ڪم",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) هيٺ ڏنل ورڪ شيٽ تي غور ڪريو جنهن ۾ هر فلم جي بجيٽ ۽ عالمي ڪمائي ڏنل آهي.\n[[T]]فلم|بجيٽ ($)|عالمي ڪمائي ($)|منافعو;;Spider-Man 3|258,000,000|887,436,184|;;King Kong (2005)|207,000,000|553,080,025|;;Superman Returns|204,000,000|391,081,192|;;Spider-Man 2|200,000,000|784,024,485|;;Chronicles of Narnia, The|180,000,000|748,806,957|;;Terminator 3: Rise of the Machines|170,000,000|433,058,296|;;Shrek the Third|160,000,000|733,012,359|;;Harry Potter and the Goblet of Fire|150,000,000|892,213,036|;;Harry Potter and the Order of the Phoenix|150,000,000|822,828,538|;;Mission: Impossible III|150,000,000|397,501,348|;;Troy|150,000,000|497,298,577|[[/T]]\n(الف) منافعو ڳڻڻ لاءِ فارمولا لکو.\n(ب) سڀ کان وڌيڪ منافعو ڳولڻ لاءِ فارمولا لکو.\n(ج) سڀ کان گھٽ منافعو ڳولڻ لاءِ فارمولا لکو.\n(د) سراسري منافعو ڳولڻ لاءِ فارمولا لکو.\n(ھ) ڊيٽا کي سڀ کان وڌيڪ منافعي کان گھٽ منافعي تائين ترتيب ڏيو.\n(و) هر فلم جي عالمي ڪمائي ڏيکارڻ لاءِ ڊيٽا تي پائي چارٽ ٺاهيو.",
+                    "a": "(الف) منافعو = عالمي ڪمائي - بجيٽ. سيل E2 ۾: =D2-C2 (E12 تائين ڪاپي ڪريو).\nمنافعو: Spider-Man 3: 629,436,184؛ King Kong (2005): 346,080,025؛ Superman Returns: 187,081,192؛ Spider-Man 2: 584,024,485؛ Chronicles of Narnia, The: 568,806,957؛ Terminator 3: Rise of the Machines: 263,058,296؛ Shrek the Third: 573,012,359؛ Harry Potter and the Goblet of Fire: 742,213,036؛ Harry Potter and the Order of the Phoenix: 672,828,538؛ Mission: Impossible III: 247,501,348؛ Troy: 347,298,577.\n(ب) سڀ کان وڌيڪ منافعو: =MAX(E2:E12) = 742,213,036 (Harry Potter and the Goblet of Fire).\n(ج) سڀ کان گھٽ منافعو: =MIN(E2:E12) = 187,081,192 (Superman Returns).\n(د) سراسري منافعو: =AVERAGE(E2:E12) = 469,212,817.91.\n(ھ) منافعي موجب ترتيب (وڌيڪ کان گھٽ): Harry Potter and the Goblet of Fire 742,213,036؛ Harry Potter and the Order of the Phoenix 672,828,538؛ Spider-Man 3 629,436,184؛ Spider-Man 2 584,024,485؛ Shrek the Third 573,012,359؛ Chronicles of Narnia, The 568,806,957؛ Troy 347,298,577؛ King Kong (2005) 346,080,025؛ Terminator 3: Rise of the Machines 263,058,296؛ Mission: Impossible III 247,501,348؛ Superman Returns 187,081,192.\n(و) پائي چارٽ: فلم وارو ڪالم ۽ عالمي ڪمائي وارو ڪالم چونڊيو، انسرٽ ٽيب تي ڪلڪ ڪريو، چارٽ تي ڪلڪ ڪريو، ۽ پائي چارٽ چونڊيو — هر ٽڪرو هڪ فلم جي ڪل عالمي ڪمائي ۾ حصو ڏيکاريندو."
+                  },
+                  {
+                    "q": "(ii) هيٺ ڏنل ورڪ شيٽون تيار ڪريو ۽ چارٽ به ٺاهيو.\n- شاگردن جي مارڪ شيٽ\n- حاضري رجسٽر\n- بجلي جو بل\n[[T]]رانديڪا|هر هڪ جي قيمت|مقدار|قيمت|رعايت|آخري قيمت;;BBQ Barbie Doll|12.99|2| | |;;Price Eric Dol|8.99|3| | |;;Princess Jasmine Doll|9.99|1| | |;;Cinderella coach|19.99|1| | |;;Spiderman gloves|14.99|3| | |;;ڪل| | | | |[[/T]]\n(الف) سيل D2 ۾ قيمت ڳڻڻ لاءِ فارمولا ٺاهيو: قيمت = هر هڪ جي قيمت × مقدار. فارمولا کي ڪالم ۾ هيٺ ڪاپي ڪريو ته جيئن ٻين جون قيمتون به نڪري اچن.\n(ب) سيل E2 ۾ رعايت ڳڻڻ لاءِ فارمولا ٺاهيو: رعايت = قيمت جو 7٪ (= 7٪ × قيمت وارو سيل). فارمولا کي ڪالم ۾ هيٺ ڪاپي ڪريو.\n(ج) سيل F2 ۾ آخري قيمت ڳڻڻ لاءِ فارمولا ٺاهيو: آخري قيمت = قيمت - رعايت. فارمولا کي ڪالم ۾ هيٺ ڪاپي ڪريو.\n(د) سيل B7 ۾ فارمولا ٺاهيو جيڪو هر هڪ جي قيمت وارن سڀني انگن کي گڏ ڪري. ڪل وارو فارمولا قطار ۾ اڳتي ڪاپي ڪريو ته جيئن ٻين ڪالمن جا ڪل به نڪري اچن.",
+                    "a": "(الف) D2 ۾ قيمت: =B2*C2. قيمتون: BBQ Barbie Doll 25.98؛ Price Eric Dol 26.97؛ Princess Jasmine Doll 9.99؛ Cinderella coach 19.99؛ Spiderman gloves 44.97.\n(ب) E2 ۾ رعايت: =7%*D2. رعايتون: 1.82؛ 1.89؛ 0.70؛ 1.40؛ 3.15.\n(ج) F2 ۾ آخري قيمت: =D2-E2. آخري قيمتون: 24.16؛ 25.08؛ 9.29؛ 18.59؛ 41.82.\n(د) B7 ۾ ڪل: =SUM(B2:B6) = 66.95. قطار ۾ اڳتي ڪاپي ڪريو: ڪل قيمت = 127.90؛ ڪل رعايت = 8.95؛ ڪل آخري قيمت = 118.95.\nشاگردن جي مارڪ شيٽ، حاضري رجسٽر ۽ بجلي جو بل: ڪتاب ۾ انهن ٽن ورڪ شيٽن لاءِ ڪو ڊيٽا يا ڪالم نالا نه ڏنا ويا آهن، ان ڪري هر هڪ کي مناسب ڪالم سرخين سان ٺاهيو (مثال طور، مارڪ شيٽ ۾ شاگرد جو نالو، مضمون، ڪل ۽ فيصد) ۽ انسرٽ ٽيب تان هر هڪ لاءِ چارٽ ٺاهيو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.4",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "اسپريڊ شيٽ جا بنياد",
+                "items": [
+                  {
+                    "q": "اسپريڊ شيٽ ڇا آهي؟",
+                    "a": "اسپريڊ شيٽ هڪ ڊجيٽل اوزار آهي جيڪو قطارن ۽ ڪالمن (ٽيبل جي شڪل) ۾ ڊيٽا ترتيب ڏيڻ، ڳڻڻ ۽ تجزيو ڪرڻ لاءِ استعمال ٿئي ٿو. ان ۾ انگ، متن ۽ فارمولا داخل ڪري سگهجن ٿا."
+                  },
+                  {
+                    "q": "ٽن اسپريڊ شيٽ پروگرامن جا نالا ٻڌايو.",
+                    "a": "مائڪروسافٽ ايڪسل، Google Sheets ۽ اوپن آفيس (اپاچي اوپن آفيس)."
+                  },
+                  {
+                    "q": "سيل ڇا آهي؟",
+                    "a": "سيل ورڪ شيٽ جو بنيادي اڪائي آهي جنهن ۾ توهان ڊيٽا داخل ڪري سگهو ٿا. ان جي سڃاڻپ ڪالم جي اکر ۽ قطار جي نمبر جي ميلاپ سان ٿئي ٿي (مثال: A1، B2)."
+                  },
+                  {
+                    "q": "رينج ڇا آهي؟",
+                    "a": "رينج ٻن يا وڌيڪ سيلن جي چونڊ آهي، جيڪا شروعاتي ۽ آخري سيل سان ظاهر ڪئي وڃي ٿي (مثال: A1:A10)."
+                  },
+                  {
+                    "q": "قطار ڇا آهي ۽ ڪالم ڇا آهي؟",
+                    "a": "قطار ورڪ شيٽ ۾ سيلن جو افقي سيٽ آهي، جنهن جي سڃاڻپ نمبر سان ٿئي ٿي. ڪالم ورڪ شيٽ ۾ سيلن جو عمودي سيٽ آهي، جنهن جي سڃاڻپ اکر سان ٿئي ٿي."
+                  }
+                ]
+              },
+              {
+                "label": "ايڪسل انٽرفيس ۽ ٽيب",
+                "items": [
+                  {
+                    "q": "ايڪسل ۾ ربن ڇا آهي؟",
+                    "a": "ربن ايڪسل ونڊو جي مٿان ٽول بار آهي جنهن ۾ ٽيب ۽ ڪمانڊ آهن."
+                  },
+                  {
+                    "q": "نيم باڪس ڇا ڏيکاري ٿو؟",
+                    "a": "نيم باڪس فعال سيل جو ايڊريس (حوالو) ڏيکاري ٿو، مثال: A1."
+                  },
+                  {
+                    "q": "ايڪسل ۾ چارٽ شامل ڪرڻ لاءِ ڪهڙو ٽيب استعمال ٿئي ٿو؟",
+                    "a": "انسرٽ ٽيب."
+                  },
+                  {
+                    "q": "ايڪسل ۾ ڊيٽا ترتيب ڏيڻ ۽ فلٽر ڪرڻ لاءِ ڪهڙو ٽيب استعمال ٿئي ٿو؟",
+                    "a": "ڊيٽا ٽيب."
+                  }
+                ]
+              },
+              {
+                "label": "فارمولا ۽ فنڪشن",
+                "items": [
+                  {
+                    "q": "هر ايڪسل فارمولا ڪهڙي نشاني سان شروع ٿئي ٿو؟",
+                    "a": "هر ايڪسل فارمولا برابري جي نشاني (=) سان شروع ٿئي ٿو."
+                  },
+                  {
+                    "q": "فارمولا ۽ فنڪشن ۾ ڇا فرق آهي؟",
+                    "a": "فارمولا اهو اظهار آهي جيڪو استعمال ڪندڙ ٺاهي ٿو ۽ جيڪو سيل يا سيلن جي رينج ۾ قدرن تي عمل ڪري ٿو. فنڪشن اڳواٽ تيار ڪيل فارمولا آهي جيڪو خاص قدرن سان هڪ خاص ترتيب ۾ حساب ڪري ٿو."
+                  },
+                  {
+                    "q": "=SUM(C6:C9) ڇا ڪري ٿو؟",
+                    "a": "اهو C6 کان C9 تائين رينج ۾ انگن کي گڏ ڪري ٿو."
+                  },
+                  {
+                    "q": "=AVERAGE(C6:G6) ڇا ڪري ٿو؟",
+                    "a": "اهو C6 کان G6 تائين سيلن جي قدرن جو سراسري ڪڍي ٿو."
+                  },
+                  {
+                    "q": "IF فنڪشن ڇا ڪري ٿو؟ مثال ڏيو.",
+                    "a": "IF فنڪشن جانچي ٿو ته ڪا شرط صحيح آهي يا غلط. مثال طور، =IF(H6>10, \"Yes\", \"No\") ڏيکاري ٿو \"Yes\" جيڪڏهن H6 ۾ قدر 10 کان وڌيڪ آهي، ٻي صورت ۾ \"No\" ڏيکاري ٿو."
+                  }
+                ]
+              },
+              {
+                "label": "ترتيب، چارٽ ۽ شارٽ ڪٽ",
+                "items": [
+                  {
+                    "q": "سارٽنگ ڇا آهي؟",
+                    "a": "سارٽنگ ڊيٽا کي هڪ خاص ترتيب ۾ ترتيب ڏيڻ جو عمل آهي، اڀرندڙ يا لهندڙ ترتيب ۾."
+                  },
+                  {
+                    "q": "فلٽرنگ ڇا آهي؟",
+                    "a": "فلٽرنگ هڪ اوزار آهي جيڪو صرف اهي قطارون ڏيکاري ٿو جيڪي ڪجهه شرطن تي پوريون لهن ٿيون."
+                  },
+                  {
+                    "q": "ايڪسل ۾ ٽن چارٽن جا نالا ٻڌايو.",
+                    "a": "ڪالم چارٽ، بار چارٽ ۽ پائي چارٽ (لائين چارٽ به)."
+                  },
+                  {
+                    "q": "ايڪسل ۾ Ctrl+S ڇا ڪري ٿو؟",
+                    "a": "Ctrl+S دستاويز محفوظ ڪري ٿو."
+                  }
+                ]
+              },
+              {
+                "label": "ڊيٽا سان ڪم",
+                "items": [
+                  {
+                    "q": "ايڪسل ۾ آٽو فل ڇا آهي؟",
+                    "a": "آٽو فل هڪ سهولت آهي جيڪا نموني يا تسلسل موجب ڊيٽا خودڪار ڀري ٿي. مثال طور، \"1\" واري سيل کي هيٺ ڇڪيو ته سيل \"2\"، \"3\"، \"4\" وغيره سان ڀرجي وڃن ٿا."
+                  },
+                  {
+                    "q": "ڪلپ بورڊ ڇا آهي؟",
+                    "a": "ڪلپ بورڊ ڪٽ يا ڪاپي ڪيل ڊيٽا لاءِ عارضي اسٽوريج جي جاءِ آهي."
+                  },
+                  {
+                    "q": "سيل فارميٽ ڇا آهي؟",
+                    "a": "سيل فارميٽ اهو طريقو آهي جنهن سان سيل جو مواد ڏيکاريو وڃي ٿو، جهڙوڪ انگ، متن، ڪرنسي يا تاريخ."
+                  },
+                  {
+                    "q": "سيلز رپورٽ سرگرمي ۾ ايپل جو ڪل ڳڻڻ لاءِ ڪهڙو فارمولا آهي (مقدار 10، قيمت 2.5)؟",
+                    "a": "=B2*C2، جنهن جو جواب $25.00 آهي."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 3,
+        "title": "الگورٿم سوچ ۽ مسئلا حل ڪرڻ",
+        "reading": "الگورٿم سوچ ۽ مسئلا حل ڪرڻ",
+        "display": "الگورٿم سوچ ۽ مسئلا حل ڪرڻ",
+        "sections": [
+          {
+            "num": "3.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) الگورٿم ______ آهي؟\n(الف) ڪمپيوٽر جو هڪ قسم\n(ب) مسئلو حل ڪرڻ لاءِ هدايتن جو سيٽ ✓\n(ج) پروگرامنگ ٻولي\n(د) هڪ راند",
+                    "a": "(ب) مسئلو حل ڪرڻ لاءِ هدايتن جو سيٽ ✓"
+                  },
+                  {
+                    "q": "(ii) شرطي بيان جو هڪ مثال ______ آهي؟\n(الف) لوپ\n(ب) If-Else ✓\n(ج) پرنٽ\n(د) ويريبل",
+                    "a": "(ب) If-Else ✓"
+                  },
+                  {
+                    "q": "(iii) الگورٿمڪ سوچ ۾ وڏي مسئلي کي ننڍن مسئلن ۾ ٽوڙڻ جو مقصد ______ آهي؟\n(الف) مسئلي کي وڌيڪ ڏکيو بڻائڻ\n(ب) مسئلي کي حل ڪرڻ آسان بڻائڻ ✓\n(ج) وڌيڪ مرحلا شامل ڪرڻ\n(د) ڪمپيوٽر کي مونجھائي ۾ وجهڻ",
+                    "a": "(ب) مسئلي کي حل ڪرڻ آسان بڻائڻ ✓"
+                  },
+                  {
+                    "q": "(iv) ڪمپيوٽر فيصلا ڪرڻ لاءِ ______ استعمال ڪري ٿو؟\n(الف) لوپنگ\n(ب) ويريبل\n(ج) شرطي بيان ✓\n(د) فنڪشن",
+                    "a": "(ج) شرطي بيان ✓"
+                  },
+                  {
+                    "q": "(v) ڊيٽا ۾ نمونن، رجحانن ۽ باقاعدگين کي سڃاڻڻ، ۽ مسئلي اندر هڪجهڙائي کي سڃاڻڻ کي ______ چيو ويندو آهي؟\n(الف) ايبسٽريڪشن\n(ب) ڊيڪمپوزيشن\n(ج) پيٽرن جي سڃاڻپ ✓\n(د) الگورٿمڪ سوچ",
+                    "a": "(ج) پيٽرن جي سڃاڻپ ✓"
+                  },
+                  {
+                    "q": "(vi) صرف اهم تفصيلن تي ڌيان ڏيڻ ۽ غير ضروري معلومات کي نظرانداز ڪرڻ کي ______ چيو ويندو آهي؟\n(الف) ڊيڪمپوزيشن\n(ب) ايبسٽريڪشن ✓\n(ج) الگورٿم ڊيزائين\n(د) پيٽرن جي سڃاڻپ",
+                    "a": "(ب) ايبسٽريڪشن ✓"
+                  },
+                  {
+                    "q": "(vii) نيسٽڊ لوپ جو هڪ مثال ______ آهي؟\n(الف) هڪ لوپ جيڪو 5 ڀيرا هلي ٿو\n(ب) هڪ لوپ ٻئي لوپ اندر ✓\n(ج) هميشه هلندڙ لوپ\n(د) IF-ELSE-IF شرط",
+                    "a": "(ب) هڪ لوپ ٻئي لوپ اندر ✓"
+                  },
+                  {
+                    "q": "(viii) IF-ELIF-ELSE ڍانچي جو Else حصو تڏهن هلندو آهي جڏهن ______؟\n(الف) سڀ شرطون صحيح آهن\n(ب) سڀ شرطون غلط آهن ✓\n(ج) هميشه هلندڙ لوپ استعمال ٿئي ٿو\n(د) ورجائي وارو لوپ استعمال ٿئي ٿو",
+                    "a": "(ب) سڀ شرطون غلط آهن ✓"
+                  },
+                  {
+                    "q": "(ix) ______ اسان کي هڪ پيچيده مسئلي کي سمجھڻ، اهو سمجھڻ ته مسئلو ڇا آهي، ۽ ممڪن حل تيار ڪرڻ جي سهولت ڏئي ٿو؟\n(الف) ڪمپيوٽيشنل سوچ ✓\n(ب) نيسٽڊ لوپ\n(ج) سيوڊو ڪوڊ\n(د) شرطي بيان",
+                    "a": "(الف) ڪمپيوٽيشنل سوچ ✓"
+                  },
+                  {
+                    "q": "(x) \"for loop\" جو هڪ مثال ______ آهي؟\n(الف) \"جيڪڏهن x = 5 آهي ته ڪجهه ڪريو\"\n(ب) \"مرحلن کي 10 ڀيرا ورجايو\" ✓\n(ج) \"هڪ پيغام پرنٽ ڪريو\"\n(د) \"هڪ ويريبل مقرر ڪريو\"",
+                    "a": "(ب) \"مرحلن کي 10 ڀيرا ورجايو\" ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.2",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) سيوڊو ڪوڊ ۽ فلو چارٽ ۾ ڇا فرق آهي؟ ڪهڙو وڌيڪ پسند ڪرڻ گهرجي ۽ ڇو؟",
+                    "a": "سيوڊو ڪوڊ الگورٿم جي مرحلن کي انسان جي سمجھ ۾ ايندڙ ٻولي ۾ لکڻ جو هڪ رسمي طريقو آهي. ان سان توهان پروگرامنگ ٻولي جي نحو جي پرواهه ڪرڻ کان سواءِ حل جي منطق تي ڌيان ڏئي سگهو ٿا.\nفلو چارٽ هڪ خاڪو آهي جيڪو پروگرام يا حل جي وهڪري کي ظاهر ڪرڻ لاءِ شڪلون ۽ تير استعمال ڪري ٿو.\nڪتاب ۾ اهو نه چيو ويو آهي ته هڪ ٻئي کان بهتر آهي. سيوڊو ڪوڊ لکڻ ۾ جلدي آهي ۽ منطق کي سادي لفظن ۾ سمجھائڻ لاءِ بهتر آهي، جڏهن ته فلو چارٽ حل جي وهڪري کي ڏسڻ لاءِ بهتر آهي."
+                  },
+                  {
+                    "q": "(ii) الگورٿمڪ سوچ جي حوالي سان مسئلي ۽ حل ۾ ڇا فرق آهي؟",
+                    "a": "مسئلو اهو آهي جنهن کي حل ڪرڻو يا پار ڪرڻو آهي. مثال طور، ٽن انگن جو سراسري ڳولڻ هڪ مسئلو آهي.\nحل اهو مرحليوار طريقو (الگورٿم) آهي جيڪو مسئلو حل ڪرڻ لاءِ تيار ڪيو ويو آهي. مثال طور، ٽن انگن جو سراسري ڳولڻ جو حل آهي:\n1. ٽي انگ داخل ڪريو.\n2. ٽن انگن جو مجموعو ڪريو.\n3. سراسري ڳوليو.\n4. سراسري ڏيکاريو."
+                  },
+                  {
+                    "q": "(iii) مسئلا حل ڪرڻ ۾ ڊيڪمپوزيشن جو ڪهڙو ڪردار آهي؟ هڪ مثال ڏيو.",
+                    "a": "ڊيڪمپوزيشن ڪمپيوٽيشنل سوچ جو پهريون مرحلو آهي: ان جو مطلب آهي هڪ پيچيده مسئلي کي ننڍن، وڌيڪ سنڀالڻ لائق حصن ۾ ٽوڙڻ، ته جيئن هر حصو الڳ الڳ حل ڪري سگهجي.\nمثال: ليگو ڪار ٺاهڻ. وڏو مسئلو ننڍن حصن ۾ ٽوڙيو وڃي ٿو — ليگو جا ٽڪرا گڏ ڪريو، بنياد ٺاهيو، ڦيٿا لڳايو، جسم ٺاهيو، ۽ آخري سينگار شامل ڪريو (بتيون، دريون)."
+                  },
+                  {
+                    "q": "(iv) ايبسٽريڪشن مسئلا حل ڪرڻ ۾ ڪيئن مدد ڪري ٿي؟ هڪ مثال ڏيو.",
+                    "a": "ايبسٽريڪشن جو مطلب آهي صرف اهم معلومات تي ڌيان ڏيڻ ۽ غير ضروري تفصيلن کي نظرانداز ڪرڻ. اهو مسئلا حل ڪرڻ ۾ مدد ڪري ٿو ڇاڪاڻ ته اسين غير اهم تفصيلن ۾ نه ڦاسون ٿا ۽ ان تي ڌيان ڏئي سگهون ٿا جيڪو واقعي اهم آهي.\nمثال: ليگو ڪار ٺاهڻ. اسين سينگار وارا اسٽيڪر، اضافي ٽائر، تفصيلي رنگ جون اسڪيمون، فينسي ڦيٿن جا ڊيزائين ۽ فينسي بتيون نظرانداز ڪريون ٿا، ۽ ان تي ڌيان ڏيون ٿا ته ڦيٿا ائين لڳايا وڃن جو اهي آزادي سان گھمن ۽ جسم ڪار جي انداز سان ملي."
+                  },
+                  {
+                    "q": "(v) هالٽنگ مسئلو ڇا آهي؟ انهن مسئلن جا ڪجهه مثال ڏيو جيڪي ڪمپيوٽر حل نٿو ڪري سگهي.",
+                    "a": "\"هالٽنگ\" جو مطلب آهي پروگرام جو ڪجهه وقت هلڻ کان پوءِ رڪجي وڃڻ يا ختم ٿيڻ. هالٽنگ مسئلو اهو چئلينج آهي ته اهو طئي ڪيو وڃي ته ڪو پروگرام ڪنهن ڏنل ان پٽ لاءِ آخرڪار رڪجي ويندو يا هميشه هلندو رهندو.\nجيڪڏهن پروگرام نٿو رڪجي، ته اهو سي پي يو کي هميشه لاءِ مصروف رکي ٿو (لامحدود لوپ). مثال طور، لامحدود لوپ ۾ ڦاٿل پروگرام اهو مسئلو آهي جيڪو ڪمپيوٽر حل نٿو ڪري سگهي — اهو ٻڌائي نٿو سگهي ته پروگرام ڪڏهن رڪجي ويندو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.3",
+            "name": "هيٺين مسئلن لاءِ سيوڊو ڪوڊ لکو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڏهه مثبت انگ داخل ڪريو ۽ انهن جو مجموعو ۽ سراسري ڳولڻ لاءِ سيوڊو ڪوڊ لکو.",
+                    "a": "// ڏهه مثبت انگن جو مجموعو ۽ سراسري ڳولڻ لاءِ سيوڊو ڪوڊ\nشروع ڪريو (Begin)\nمجموعو = 0 مقرر ڪريو\nڳڻپ = 1 مقرر ڪريو\n10 ڀيرا ورجايو:\nانگ داخل ڪريو\nمجموعو = مجموعو + انگ\nڳڻپ = ڳڻپ + 1\nسراسري = مجموعو / 10\nمجموعو ڏيکاريو\nسراسري ڏيکاريو\nختم ڪريو (End)"
+                  },
+                  {
+                    "q": "(ii) 1 کان 100 وچ ۾ سڀئي جفت انگ پرنٽ ڪرڻ لاءِ سيوڊو ڪوڊ لکو.",
+                    "a": "// 1 کان 100 وچ ۾ جفت انگ پرنٽ ڪرڻ لاءِ سيوڊو ڪوڊ\nشروع ڪريو (Begin)\nانگ = 2 مقرر ڪريو\nورجايو جيستائين انگ > 100 نه ٿئي:\nانگ ڏيکاريو\nانگ = انگ + 2\nختم ڪريو (End)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.4",
+            "name": "هيٺين مسئلن لاءِ الگورٿم لکو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڪو به انگ ان پٽ طور وٺي ۽ چيڪ ڪريو ته اهو انگ مثبت آهي يا منفي، ان لاءِ الگورٿم لکو.",
+                    "a": "1. شروع ڪريو.\n2. انگ داخل ڪريو.\n3. جيڪڏهن انگ > 0 آهي ته\n\"انگ مثبت آهي\" ڏيکاريو.\n4. ٻي صورت ۾ جيڪڏهن انگ < 0 آهي ته\n\"انگ منفي آهي\" ڏيکاريو.\n5. ٻي صورت ۾\n\"انگ ٻڙي آهي\" ڏيکاريو.\n6. ختم ڪريو."
+                  },
+                  {
+                    "q": "(ii) فهرست ۾ سڀ کان وڏو انگ ڳولڻ لاءِ الگورٿم لکو.",
+                    "a": "1. شروع ڪريو.\n2. انگن جي فهرست داخل ڪريو.\n3. سڀ کان وڏو = فهرست جو پهريون انگ مقرر ڪريو.\n4. فهرست ۾ باقي هر انگ لاءِ ورجايو:\nجيڪڏهن انگ > سڀ کان وڏو آهي ته سڀ کان وڏو = اهو انگ مقرر ڪريو.\n5. سڀ کان وڏو ڏيکاريو.\n6. ختم ڪريو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.5",
+            "name": "ڪلاس سرگرمي",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) هڪ اهڙي مسئلي بابت سوچيو جيڪو مختلف طريقن سان حل ڪري سگهجي ٿو. سڀني حلن لاءِ الگورٿم لکو. اهو به بيان ڪريو ته ڪهڙو حل بهتر آهي ۽ ڇو؟",
+                    "a": "مسئلو: چانهه جو ڪپ ٺاهڻ. اهو ٻن طريقن سان حل ڪري سگهجي ٿو:\nطريقو 1 — چانهه جي ٿانو ۾ چانهه ڀڃڻ: چانهه جا پن ٿانو ۾ وجهو، گرم پاڻي وجهو ۽ ڀڃڻ ڏيو. ان ۾ وڌيڪ وقت لڳي ٿو، پر ذائقو مڪمل ٿئي ٿو.\nطريقو 2 — ڪپ ۾ چانهه جو ٿيلهو: ڪپ ۾ چانهه جو ٿيلهو وجهو ۽ گرم پاڻي وجهو. اهو جلدي آهي، پر ذائقو گھٽ گهرو آهي.\nڪهڙو حل بهتر آهي اهو ان تي منحصر آهي ته توهان کي ڇا گهرجي: جيڪڏهن وقت اهم آهي ته ٿيلهو بهتر آهي؛ جيڪڏهن ذائقو اهم آهي ته ٿانو بهتر آهي.\nڪتاب مان ٻيو مثال اهو چيڪ ڪرڻ آهي ته ڪو انگ پرائم آهي يا نه. حل-1 انگ کي 2 کان n-1 تائين سڀني انگن سان ورهائي ٿو، حل-2 انگ کي 2 کان n/2 تائين انگن سان ورهائي ٿو، ۽ حل-3 انگ کي 2 کان n جي چورس روٽ تائين انگن سان ورهائي ٿو. حل-3 بهتر آهي ڇاڪاڻ ته ان ۾ سڀ کان گھٽ مرحلا آهن ۽ ڪارڪردگي سڀ کان وڌيڪ آهي، ڇاڪاڻ ته n جو چورس روٽ n/2 کان گھٽ آهي، جيڪو n-1 کان گھٽ آهي."
+                  },
+                  {
+                    "q": "(ii) هڪ الگورٿم لکو جيڪو طئي ڪري ته ڪو شاگرد پنهنجي گريڊ جي بنياد تي اسڪالرشپ جو اهل آهي يا نه. الگورٿم گريڊ کي ان پٽ طور وٺي ٿو ۽ هيٺيون شرطون لاڳو ڪري ٿو:\n- جيڪڏهن گريڊ A+ آهي ته شاگرد کي 100٪ اسڪالرشپ ملي ٿي.\n- جيڪڏهن گريڊ A آهي ته شاگرد کي 80٪ اسڪالرشپ ملي ٿي.\n- جيڪڏهن گريڊ B آهي ته شاگرد کي 50٪ اسڪالرشپ ملي ٿي.\n- ڪنهن ٻئي گريڊ لاءِ ڪا اسڪالرشپ نه ملندي.",
+                    "a": "1. شروع ڪريو.\n2. گريڊ داخل ڪريو.\n3. جيڪڏهن گريڊ = \"A+\" آهي ته\n\"100٪ اسڪالرشپ\" ڏيکاريو.\n4. ٻي صورت ۾ جيڪڏهن گريڊ = \"A\" آهي ته\n\"80٪ اسڪالرشپ\" ڏيکاريو.\n5. ٻي صورت ۾ جيڪڏهن گريڊ = \"B\" آهي ته\n\"50٪ اسڪالرشپ\" ڏيکاريو.\n6. ٻي صورت ۾\n\"ڪا اسڪالرشپ نه\" ڏيکاريو.\n7. ختم ڪريو."
+                  },
+                  {
+                    "q": "(iii) هڪ دڪان جي هڪ مهيني جي ڪل سيلز ڳڻڻ لاءِ الگورٿم لکو. الگورٿم کي مهيني جي هر ڏينهن جي سيلز کي ان پٽ طور وٺڻ گهرجي ۽ انهن کي گڏ ڪري ڪل سيلز ڏيڻ گهرجي. فرض ڪريو ته مهيني ۾ 30 ڏينهن آهن.",
+                    "a": "1. شروع ڪريو.\n2. ڪل سيلز = 0 مقرر ڪريو.\n3. ڏينهن = 1 مقرر ڪريو.\n4. 30 ڀيرا ورجايو:\nڏينهن جي سيلز داخل ڪريو.\nڪل سيلز = ڪل سيلز + ڏينهن جي سيلز.\nڏينهن = ڏينهن + 1.\n5. ڪل سيلز ڏيکاريو.\n6. ختم ڪريو."
+                  },
+                  {
+                    "q": "(iv) تارن (asterisks) جو هيٺ ڏنل نمونو پرنٽ ڪرڻ لاءِ الگورٿم لکو.\n**********\n**********\n**********",
+                    "a": "1. شروع ڪريو.\n2. قطار = 1 مقرر ڪريو.\n3. 3 ڀيرا ورجايو:\n\"**********\" ڏيکاريو.\nقطار = قطار + 1.\n4. ختم ڪريو.\nپرنٽ ٿيل نمونو آهي:\n**********\n**********\n**********"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 4,
+        "title": "پروگرامنگ",
+        "reading": "پروگرامنگ",
+        "display": "پروگرامنگ",
+        "sections": [
+          {
+            "num": "4.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) هيٺ ڏنل مان سڀ پروگرامنگ ٻولي جا ڍانچا آهن، سواءِ؟\n(الف) ترتيب (Sequence)\n(ب) شرط (Condition)\n(ج) لوپ (Loop)\n(د) ڪاروبار (Business) ✓",
+                    "a": "(د) ڪاروبار (Business) ✓"
+                  },
+                  {
+                    "q": "(ii) لوپ جي اندر لوپ کي چيو ويندو آهي\n(الف) نيسٽڊ ✓\n(ب) نيڪسٽ\n(ج) نيويسٽ\n(د) نيرو",
+                    "a": "(الف) نيسٽڊ ✓"
+                  },
+                  {
+                    "q": "(iii) هڪ لوپ لامحدود لوپ بڻجي ويندو آهي جيڪڏهن ڪا شرط ڪڏهن به ______ نه ٿئي\n(الف) صحيح (True) ✓\n(ب) غلط (False)\n(ج) نل (Null)\n(د) ٻڙي (Zero)",
+                    "a": "(الف) صحيح (True) ✓"
+                  },
+                  {
+                    "q": "(iv) Floor() فنڪشن هميشه هڪ انگ کي ______ ڪري ٿو.\n(الف) هيٺان گول ✓\n(ب) مٿان گول\n(ج) هيٺان چڪر\n(د) مٿان چڪر",
+                    "a": "(الف) هيٺان گول ✓"
+                  },
+                  {
+                    "q": "(v) انگن جي سيٽ مان سڀ کان وڏي قدر واپس ڪندڙ فنڪشن کي چيو ويندو آهي.\n(الف) Highest()\n(ب) Max() ✓\n(ج) Largest()\n(د) Bool()",
+                    "a": "(ب) Max() ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.2",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) لوپ ڇا آهي ۽ اسڪريچ ۾ لوپ بلاڪ جا ڪيترا قسم آهن؟",
+                    "a": "اسڪريچ ۾ لوپ هڪ بلاڪ آهي جيڪو عملن يا حڪمن کي خودڪار طور تي ورجائڻ جي سهولت ڏئي ٿو، بغير ان جي ته ساڳيا هدايتون بار بار لکڻيون پون. لوپ پروگرامن کي ننڍو، پڙهڻ ۾ آسان ۽ وڌيڪ ڪارائتو بڻائين ٿا.\nاسڪريچ ۾ لوپ جا ٽي بنيادي قسم آهن:\n- repeat لوپ: اهو هڪ انگ 'x' ان پٽ طور وٺي ٿو ۽ ڪوڊ کي 'x' ڀيرا ورجائي ٿو. مثال طور، جيڪڏهن 'x' کي 10 مقرر ڪيو وڃي ته لوپ 10 ڀيرا هلي ٿو.\n- repeat until لوپ: ان کي رڪجڻ لاءِ هڪ شرط جي ضرورت آهي. لوپ تيستائين ورجائجي ٿو جيستائين شرط صحيح نه ٿئي. مثال طور، هڪ 'counter' ويريبل 0 کان شروع ٿئي ٿو ۽ هر ورجاءَ ۾ 1 سان وڌي ٿو؛ 10هين ورجاءَ کان پوءِ شرط TRUE ٿئي ٿي، ۽ لوپ ختم ٿئي ٿو.\n- forever لوپ: اهو عملن جي سيٽ کي هميشه لاءِ ورجائڻ لاءِ استعمال ٿئي ٿو، جيستائين پروگرام هلي رهيو آهي. اهو مفيد آهي جڏهن توهان چاهيو ٿا ته ڪا شيءِ بغير هٿ سان روڪڻ جي جاري رهي."
+                  },
+                  {
+                    "q": "(ii) if ۽ if else بيان ۾ فرق ڪريو؟",
+                    "a": "if بيان:\n- ڪوڊ صرف تڏهن هلائي ٿو جڏهن شرط صحيح (True) آهي.\n- جيڪڏهن غلط (False) آهي ته بلاڪ کي ڇڏي ڏئي ٿو.\n- تڏهن استعمال ٿئي ٿو جڏهن غلط لاءِ ڪو عمل نه گهرجي.\nif-else بيان:\n- صحيح لاءِ هڪ بلاڪ هلائي ٿو، ۽ غلط لاءِ ٻيو بلاڪ.\n- جيڪڏهن غلط آهي ته else بلاڪ هلائي ٿو.\n- تڏهن استعمال ٿئي ٿو جڏهن صحيح ۽ غلط ٻنهي لاءِ عمل گهرجن."
+                  },
+                  {
+                    "q": "(iii) اسڪريچ پروگرامنگ جي ڪجهه بلٽ-ان فنڪشنن جي فهرست ڏيو مثالن سان.",
+                    "a": "اسڪريچ ۾ بلٽ-ان فنڪشن هڪ تيار ڪيل بلاڪ آهي جيڪو اسڪريچ طرفان عام ڪمن لاءِ ڏنو ويو آهي. اهي بلاڪ اسڪريچ جو حصو آهن ۽ انهن کي تبديل نٿو ڪري سگهجي. ڪجهه بلٽ-ان فنڪشن آهن:\n- pick random: هڪ خاص رينج اندر هڪ بي ترتيب انگ پيدا ڪري سگهجي ٿو. مثال طور، 1 کان 10 وچ ۾ هڪ بي ترتيب انگ پيدا ڪيو وڃي ٿو ۽ 'counter' ويريبل کي ڏنو وڃي ٿو (set counter to pick random 1 to 10).\n- abs(): اهو هڪ انگ جي نشاني کي نظرانداز ڪري ٿو ۽ صرف مثبت قدر وٺي ٿو. مثال طور، -9 جو مطلق قدر 9 آهي (شڪل ۾ abs of -3 = 3 ڏيکاريل آهي).\n- join(): اهو متن جا ٻه ٽڪرا (يا متن ۽ انگن جو ميلاپ) هڪ ۾ گڏ ڪرڻ لاءِ استعمال ٿئي ٿو. مثال طور، join apple banana = applebanana.\n- round(): اهو هڪ انگ کي گول ڪري ٿو مٿان جيڪڏهن ڊيسيمل 4 کان وڌيڪ آهي، ٻي صورت ۾ هيٺان گول ڪري ٿو. مثال طور، round 45.5 = 46.\n- floor(): اهو هميشه هڪ انگ کي هيٺان گول ڪري ٿو. مثال طور، 45.8 جو floor = 45.\n- ceiling(): اهو هميشه هڪ انگ کي مٿان گول ڪري ٿو. مثال طور، 45.2 جو ceiling = 46.\n- ٻيا بلٽ-ان فنڪشن: sqrt() ڪنهن انگ جو چورس روٽ ڪڍڻ لاءِ؛ type() ڪنهن شئي جي قسم کي جانچڻ لاءِ؛ pow() x جي y جي طاقت ڪڍڻ لاءِ؛ max() انگن جي سيٽ مان سڀ کان وڏي قدر ڪڍڻ لاءِ؛ bool() بولين قدر جي حالت معلوم ڪرڻ لاءِ، صحيح آهي يا غلط؛ format() ڪنهن قدر جي خاص شڪل حاصل ڪرڻ لاءِ (مثال: انگ کان پوءِ $ جي نشاني ڏيکارڻ)؛ help() ڪي ورڊ ۽ فنڪشن بابت مدد حاصل ڪرڻ لاءِ."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.3",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "بصري ۽ متني پروگرامنگ",
+                "items": [
+                  {
+                    "q": "بصري پروگرامنگ ڇا آهي؟",
+                    "a": "بصري پروگرامنگ ڪوڊ ٽائپ ڪرڻ جي بدران بلاڪن کي ڇڪي ۽ ڇڏي پروگرامنگ ڪرڻ آهي. اهو گرافڪ عنصرن جهڙوڪ بلاڪ، آئيڪن يا خاڪا استعمال ڪري ٿو، سمجھڻ ۾ آسان آهي، ۽ شروعات ڪندڙن، ٻارن ۽ تعليمي مقصدن لاءِ مثالي آهي. مثال: اسڪريچ، بلاڪلي ۽ ايم آءِ ٽي ايپ انوينٽر."
+                  },
+                  {
+                    "q": "متني پروگرامنگ ڇا آهي؟",
+                    "a": "متني پروگرامنگ ڪي بورڊ استعمال ڪري ڪوڊ لکي پروگرامنگ ڪرڻ آهي، نحو ۽ متن سان. ان لاءِ نحو ۽ صحيح ڪوڊنگ ڍانچي کي سمجھڻ ضروري آهي، ۽ اهو پيشه ور ڊولپرن ۽ ترقي يافته سکندڙن طرفان استعمال ٿئي ٿو. مثال: جاوا، پائٿن ۽ سي++."
+                  },
+                  {
+                    "q": "هر پروگرامنگ ٻولي جي ٽن بنيادي بلڊنگ بلاڪن جا نالا ٻڌايو.",
+                    "a": "ترتيب وارا بيان (Sequence statements)، ورجائي وارا بيان (لوپ) ۽ شرطي بيان."
+                  }
+                ]
+              },
+              {
+                "label": "شرطي بيان",
+                "items": [
+                  {
+                    "q": "if-then بيان ڇا آهي؟",
+                    "a": "if-then بيان خاص بلاڪن کي صرف تڏهن هلائي ٿو جڏهن شرط صحيح آهي."
+                  },
+                  {
+                    "q": "if-then-else بيان ڇا آهي؟",
+                    "a": "if-then-else بيان عملن جو هڪ سيٽ تڏهن هلائي ٿو جڏهن شرط صحيح آهي ۽ عملن جو ٻيو سيٽ تڏهن جڏهن شرط غلط آهي. اهو سادي if-then بلاڪ جي مقابلي ۾ وڌيڪ لچڪ ڏئي ٿو."
+                  },
+                  {
+                    "q": "ميز راند ۾ اسپرائٽ ڀت تي ڪيئن رڪجي ٿو؟",
+                    "a": "سينسنگ بلاڪ جي \"touching color\" بلاڪ سان if-then شرط ذريعي. جيڪڏهن اسپرائٽ ڀت (نيري رنگ) کي ڇهي ٿو ته شرط صحيح ٿئي ٿي ۽ اسپرائٽ ساڳئي تعداد ۾ پڪسل مخالف طرف هلي ٿو (change x by -5)، ان ڪري ائين لڳي ٿو ته اهو هليو ئي نه آهي ۽ ڀت ان کي روڪي ڇڏيو آهي."
+                  },
+                  {
+                    "q": "نيسٽڊ if-then-else بيان ڇا آهي؟",
+                    "a": "نيسٽڊ if-then-else بيان هڪ if-then-else کي ٻئي اندر رکڻ جهڙو آهي، ته جيئن توهان ڪيتريون ئي شرطون هڪ کان پوءِ ٻئي ترتيب سان جانچي سگهو. مثال طور، اسڪور جي بنياد تي پيغام ڏيڻ لاءِ: جيڪڏهن اسڪور 80 يا وڌيڪ آهي ته چئو \"Great job!\"؛ ٻي صورت ۾، جيڪڏهن اسڪور 50 کان 79 وچ ۾ آهي ته چئو \"Good effort!\"؛ ٻي صورت ۾ چئو \"You need more practice!\""
+                  },
+                  {
+                    "q": "Even-Odd نمبر پروگرام ۾ اسڪريچ ڪيئن جانچي ٿو ته ڪو انگ جفت آهي؟",
+                    "a": "آپريٽرز ڪيٽيگري جي mod آپريٽر سان: جيڪڏهن Number mod 2 = 0 آهي ته اسپرائٽ چوي ٿو \"The number is even.\" ٻي صورت ۾، اهو چوي ٿو \"The number is odd.\""
+                  }
+                ]
+              },
+              {
+                "label": "لوپ",
+                "items": [
+                  {
+                    "q": "اسڪريچ ۾ لوپ ڇا آهي؟",
+                    "a": "اسڪريچ ۾ لوپ هڪ بلاڪ آهي جيڪو عملن يا حڪمن کي خودڪار طور تي ورجائڻ جي سهولت ڏئي ٿو، بغير ان جي ته ساڳيا هدايتون بار بار لکڻيون پون. لوپ پروگرامن کي ننڍو، پڙهڻ ۾ آسان ۽ وڌيڪ ڪارائتو بڻائين ٿا."
+                  },
+                  {
+                    "q": "repeat لوپ ڇا ڪري ٿو؟",
+                    "a": "repeat لوپ هڪ انگ 'x' ان پٽ طور وٺي ٿو ۽ ڪوڊ کي 'x' ڀيرا ورجائي ٿو. مثال طور، repeat 10 ڪوڊ کي 10 ڀيرا هلائي ٿو."
+                  },
+                  {
+                    "q": "repeat until لوپ ڇا ڪري ٿو؟",
+                    "a": "repeat until لوپ کي رڪجڻ لاءِ هڪ شرط جي ضرورت آهي. اهو تيستائين ورجائجي ٿو جيستائين شرط صحيح نه ٿئي. مثال طور، هڪ 'counter' ويريبل 0 کان شروع ٿئي ٿو ۽ هر ورجاءَ ۾ 1 سان وڌي ٿو؛ 10هين ورجاءَ کان پوءِ شرط TRUE ٿئي ٿي ۽ لوپ ختم ٿئي ٿو. جيڪڏهن 'counter' کي غلطي سان -1 مقرر ڪيو وڃي ته لوپ لامحدود وقت هلندو."
+                  },
+                  {
+                    "q": "forever لوپ ڇا ڪري ٿو؟",
+                    "a": "forever لوپ عملن جي سيٽ کي هميشه لاءِ ورجائي ٿو، جيستائين پروگرام هلي رهيو آهي. مثال طور، هڪ اسپرائٽ \"Meow\" چوي ٿو ۽ \"Meow\" آواز هميشه لاءِ ڪڍي ٿو."
+                  },
+                  {
+                    "q": "نيسٽڊ لوپ ڇا آهي؟",
+                    "a": "نيسٽڊ لوپ هڪ لوپ آهي ٻئي لوپ اندر. مثال طور، هلندڙ گيگا پروگرام ۾، هڪ repeat 10 لوپ ۾ هڪ repeat until لوپ (counter = 4) آهي جيڪو گيگا کي 10 قدم هلائي ٿو، ان جو ڪاسٽيوم تبديل ڪري ٿو ۽ 1 سيڪنڊ انتظار ڪري ٿو؛ اندروني لوپ ختم ٿيڻ کان پوءِ پس منظر ايندڙ پس منظر ۾ تبديل ٿئي ٿو."
+                  }
+                ]
+              },
+              {
+                "label": "اسڪريچ ۾ فنڪشن",
+                "items": [
+                  {
+                    "q": "اسڪريچ ۾ فنڪشنن کي ڇا چيو ويندو آهي؟",
+                    "a": "اسڪريچ ۾ فنڪشنن کي ڪسٽم بلاڪ چيو ويندو آهي."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ \"My Block\" (Make a Block) جو مقصد ڇا آهي؟",
+                    "a": "توهان جي پروجيڪٽ ۾ هڪ خاص مقصد لاءِ ڪسٽم فنڪشن (ڪسٽم بلاڪ) ٺاهڻ لاءِ، \"My Blocks\" ڪيٽيگري هيٺ \"Make a Block\" سهولت استعمال ڪندي. توهان فنڪشن ۾ ڊيٽا موڪلڻ لاءِ هڪ ان پٽ (انگ، متن يا بولين) شامل ڪري سگهو ٿا يا هڪ ليبل شامل ڪري سگهو ٿا، ۽ بلاڪ کي نالو ڏئي سگهو ٿا."
+                  },
+                  {
+                    "q": "Calculate Area ڪسٽم بلاڪ ڇا ڪري ٿو؟",
+                    "a": "Calculate Area ڪسٽم بلاڪ ٻه ان پٽ وٺي ٿو، ڊيگهه ۽ ويڪر، ۽ ايريا کي ڊيگهه × ويڪر مقرر ڪري ٿو (area = length x width). پروگرام ڊيگهه پڇي ٿو، ويڪر پڇي ٿو، ڊيگهه ۽ ويڪر سان Calculate Area کي سڏي ٿو، ۽ اسپرائٽ ايريا ٻڌائي ٿو."
+                  },
+                  {
+                    "q": "اسڪريچ جي ٽن بلٽ-ان فنڪشنن جا نالا ٻڌايو ۽ اهي ڇا ڪن ٿا.",
+                    "a": "pick random — هڪ خاص رينج اندر هڪ بي ترتيب انگ پيدا ڪري ٿو (مثال: pick random 1 to 10). abs() — هڪ انگ جي نشاني کي نظرانداز ڪري ٿو ۽ صرف مثبت قدر وٺي ٿو (مثال: abs of -9 is 9). join() — متن جا ٻه ٽڪرا هڪ ۾ گڏ ڪري ٿو (مثال: join apple banana = applebanana). ٻيا: round()، floor()، ceiling()، sqrt()، max()."
+                  }
+                ]
+              },
+              {
+                "label": "ڪلوننگ ۽ ميز راند",
+                "items": [
+                  {
+                    "q": "اسڪريچ ۾ ڪلوننگ ڇا آهي؟",
+                    "a": "ڪلوننگ اسان کي پروجيڪٽ هلڻ دوران اسپرائٽ جون متحرڪ نقلون ٺاهڻ جي سهولت ڏئي ٿي. اسڪريچ اسان کي اسپرائٽ کي صرف هڪ ڀيرو نه، پر ڪيترائي ڀيرا نقل ڪرڻ جي سهولت ڏئي ٿو. اهو مفيد آهي جڏهن اسين اڏامندڙ غبارو جهڙيون شيون ٺاهڻ چاهيون ٿا ۽ ان کي ڪيترائي ڀيرا نقل ڪريون ٿا، يا برف جو ڦڙو ٺاهي ان کي بار بار ڪلون ڪري برفباري جو اثر پيدا ڪريون ٿا."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ جڏهن ڪلون شروع ٿئي ٿو ته ڇا ٿئي ٿو؟",
+                    "a": "\"when I start as a clone\" هيٺ اسڪرپٽ ان ڪلون لاءِ هلي ٿو. مثال طور، غباري جو ڪلون ظاهر ٿئي ٿو، 50 ڀيرا ورجائي ٿو — بي ترتيب طرف اشارو ڪري ٿو (pick random 80 to 100)، y کي 10 سان تبديل ڪري ٿو، سائيز کي -2 سان تبديل ڪري ٿو ۽ 2 سيڪنڊ انتظار ڪري ٿو — ۽ پوءِ \"delete this clone\" ان کي ختم ڪري ٿو."
+                  },
+                  {
+                    "q": "سادي ميز راند ۾ پهريان ٻه مرحلا ڪهڙا آهن؟",
+                    "a": "1. ميز ٺاهيو: پس منظر استعمال ڪري ميز ٺاهيو يا پس منظر ايڊيٽر ۾ پاڻ ٺاهيو، ڀتين سان رستو ٺاهي جنهن مان رانديگر گذري سگهي.\n2. اسپرائٽ شامل ڪريو: هڪ اسپرائٽ چونڊيو يا ٺاهيو (مثال: هڪ بال يا ڪردار) جيڪو ميز مان گذري."
+                  },
+                  {
+                    "q": "سادي ميز راند ۾ ڪهڙيون ڪيز اسپرائٽ کي هلائين ٿيون ۽ ڪيئن؟",
+                    "a": "مٿي وارو تير: طرف 0 ۾ اشارو ڪريو، 10 قدم هلو. هيٺ وارو تير: طرف 180 ۾ اشارو ڪريو، 10 قدم هلو. ساڄي وارو تير: طرف 90 ۾ اشارو ڪريو، 10 قدم هلو. کاٻي وارو تير: طرف -90 ۾ اشارو ڪريو، 10 قدم هلو. اسپرائٽ go to x: -205 y: 147 تان شروع ٿئي ٿو."
+                  },
+                  {
+                    "q": "سادي ميز راند ۾ رانديگر ڪيئن کٽي ٿو؟",
+                    "a": "گول اسپرائٽ (مثال: هڪ تارو) تائين پهچي. گول اسپرائٽ جو ڪوڊ forever لوپ ۾ جانچي ٿو: جيڪڏهن Ball کي ڇهي ٿو ته چوي ٿو \"You win!\" ترقي يافته ميز راند ۾، جڏهن اسپرائٽ Apple کي ڇهي ٿو ته اهو 1 سيڪنڊ لاءِ \"You Win!\" چوي ٿو، شروعاتي جاءِ تي واپس اچي ٿو (go to x: 10 y: -170) ۽ \"next maze\" براڊڪاسٽ ڪري ٿو ته جيئن ميز تبديل ٿئي ۽ ليول ۽ ڏکيائي وڌي."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 5,
+        "title": "ڊجيٽل شهريت",
+        "reading": "ڊجيٽل شهريت",
+        "display": "ڊجيٽل شهريت",
+        "sections": [
+          {
+            "num": "5.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڊجيٽل شهريت ڇا آهي؟\n(الف) ڪاروبار ۾ ٽيڪنالاجي جو استعمال\n(ب) ٽيڪنالاجي جو ذميواراڻو استعمال ۽ آن لائين رويو ✓\n(ج) آن لائين رانديون کيڏڻ\n(د) آن لائين وڊيوز ڏسڻ",
+                    "a": "(ب) ٽيڪنالاجي جو ذميواراڻو استعمال ۽ آن لائين رويو ✓"
+                  },
+                  {
+                    "q": "(ii) هيٺ ڏنل مان ڪهڙو مثبت آن لائين رويي جو مثال آهي؟\n(الف) غلط افواهون پکيڙڻ\n(ب) دوستن سان ڳنڍيل رهڻ لاءِ سوشل ميڊيا استعمال ڪرڻ ✓\n(ج) ٻين جا اڪائونٽ هيڪ ڪرڻ\n(د) چوري ڪيل مواد شيئر ڪرڻ",
+                    "a": "(ب) دوستن سان ڳنڍيل رهڻ لاءِ سوشل ميڊيا استعمال ڪرڻ ✓"
+                  },
+                  {
+                    "q": "(iii) انٽرنيٽ جي گهڻي استعمال جو هڪ صحت جو خطرو ڪهڙو آهي؟\n(الف) ياداشت بهتر ٿيڻ\n(ب) پريشاني ۽ ڊپريشن ✓\n(ج) بهتر جسماني صحت\n(د) توانائي ۾ واڌ",
+                    "a": "(ب) پريشاني ۽ ڊپريشن ✓"
+                  },
+                  {
+                    "q": "(iv) فشنگ ڇا آهي؟\n(الف) ميلويئر جو هڪ قسم\n(ب) جعلي ويب سائيٽن ذريعي ذاتي معلومات چوري ڪرڻ جو طريقو ✓\n(ج) هڪ سوشل ميڊيا پليٽ فارم\n(د) آن لائين خريداري جو هڪ اوزار",
+                    "a": "(ب) جعلي ويب سائيٽن ذريعي ذاتي معلومات چوري ڪرڻ جو طريقو ✓"
+                  },
+                  {
+                    "q": "(v) معلومات جي حفاظت برقرار رکڻ جو هڪ طريقو ڪهڙو آهي؟\n(الف) ڪمزور پاسورڊ استعمال ڪرڻ\n(ب) پاسورڊ دوستن سان شيئر ڪرڻ\n(ج) ٽو-فيڪٽر آٿنٽيڪيشن فعال ڪرڻ ✓\n(د) سافٽ ويئر اپڊيٽ ڪرڻ کان پاسو ڪرڻ",
+                    "a": "(ج) ٽو-فيڪٽر آٿنٽيڪيشن فعال ڪرڻ ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڊجيٽل شهريت آن لائين ______ رويي کي فروغ ڏئي ٿي.",
+                    "a": "ڊجيٽل شهريت آن لائين ذميواراڻي رويي کي فروغ ڏئي ٿي."
+                  },
+                  {
+                    "q": "(ii) ______ رسائي لاءِ اضافي ڪوڊ جي ضرورت وجهي آن لائين اڪائونٽن کي محفوظ ڪرڻ ۾ مدد ڪري ٿو.",
+                    "a": "ٽو-فيڪٽر آٿنٽيڪيشن (2FA) رسائي لاءِ اضافي ڪوڊ جي ضرورت وجهي آن لائين اڪائونٽن کي محفوظ ڪرڻ ۾ مدد ڪري ٿو."
+                  },
+                  {
+                    "q": "(iii) سائبر ڪرائيم ۾ ______ استعمال ڪندي ڪيل غير قانوني سرگرميون شامل آهن.",
+                    "a": "سائبر ڪرائيم ۾ ڪمپيوٽر يا انٽرنيٽ استعمال ڪندي ڪيل غير قانوني سرگرميون شامل آهن."
+                  },
+                  {
+                    "q": "(iv) پنهنجي معلومات کي آن لائين محفوظ رکڻ جو هڪ طريقو ______ پاسورڊ ٺاهڻ آهي.",
+                    "a": "پنهنجي معلومات کي آن لائين محفوظ رکڻ جو هڪ طريقو مضبوط پاسورڊ ٺاهڻ آهي."
+                  },
+                  {
+                    "q": "(v) ڪنهن ٻئي جي ڪم کي ڪريڊٽ ڏيڻ کان سواءِ استعمال ڪرڻ جي عمل کي ______ چيو ويندو آهي.",
+                    "a": "ڪنهن ٻئي جي ڪم کي ڪريڊٽ ڏيڻ کان سواءِ استعمال ڪرڻ جي عمل کي پليجرزم چيو ويندو آهي."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڊجيٽل شهريت ڇا آهي؟",
+                    "a": "ڊجيٽل شهريت جو مطلب آهي ٽيڪنالاجي کي سٺي طريقي سان استعمال ڪرڻ جا قاعدا اختيار ڪرڻ. ان ۾ انٽرنيٽ جو صحيح استعمال، ٻين سان احترام سان پيش اچڻ، ۽ ذاتي معلومات کي محفوظ رکڻ شامل آهي. مختصر ۾، اهو ٽيڪنالاجي جو ذميواراڻو ۽ اخلاقي استعمال آهي ته جيئن آن لائين مثبت نموني سان حصو وٺي سگهجي."
+                  },
+                  {
+                    "q": "(ii) انٽرنيٽ جا عام استعمال ڪهڙا آهن؟",
+                    "a": "انٽرنيٽ جا عام استعمال آهن:\n- ڪاروبار: آن لائين خريداري (ڪاروبار Amazon، Alibaba، AliExpress ۽ Daraz جهڙين ويب سائيٽن تي سڌو گراهڪن کي شيون وڪڻن ٿا)؛ رابطو (ڪمپنيون اي ميل جهڙوڪ Gmail استعمال ڪري گراهڪن ۽ ڪارڪنن کي جلدي پيغام موڪلين ٿيون)؛ مارڪيٽنگ ۽ برانڊ جي سڃاڻپ (ڪاروبار پنهنجين شين کي فروغ ڏيڻ لاءِ Facebook، TikTok ۽ Instagram جهڙو سوشل ميڊيا استعمال ڪن ٿا)؛ گراهڪ خدمت (ويب سائيٽن تي لائيو چيٽ اوزار گراهڪن جي فوري مدد ڪن ٿا)؛ اشتهار (Google Ads جهڙن پليٽ فارمن تي آن لائين اشتهار ڪاروبارن کي ممڪن گراهڪن تائين پهچڻ ۾ مدد ڪن ٿا).\n- سوشل نيٽ ورڪنگ: Facebook ۽ Twitter جهڙيون سوشل نيٽ ورڪنگ ويب سائيٽون استعمال ڪندڙن کي دوستن ۽ ڪٽنب سان ڳنڍڻ ۾ مدد ڪن ٿيون؛ Instagram ۽ Snapchat جهڙيون سوشل ميڊيا ايپس خيالن، تصويرن، وڊيوز ۽ زندگي جي تازه ڪارين کي شيئر ڪرڻ لاءِ استعمال ٿين ٿيون؛ ماڻهو TikTok جهڙين ايپس تي مختصر وڊيوز ۽ ميمز سميت تفريحي مواد به ٺاهين ۽ شيئر ڪن ٿا.\n- خبرون ۽ معلومات: خبرن تائين رسائي (Google News، Dawn News ۽ BBC جهڙيون ويب سائيٽون)؛ معلومات شيئر ڪرڻ (انٽرنيٽ خبرن ۽ تازه ڪارين کي جلدي شيئر ڪرڻ جي سهولت ڏئي ٿو — Twitter خبرن جي تازه ڪارين لاءِ استعمال ٿئي ٿو، جڏهن ته LinkedIn نوڪري جي ڳولا لاءِ مشهور آهي)؛ آن لائين مواد (آن لائين اخبارون، رسالا، پوڊڪاسٽ ۽ آڊيو مواد)."
+                  },
+                  {
+                    "q": "(iii) سائبر ڪرائيم ڇا آهي؟",
+                    "a": "سائبر ڪرائيم جو مطلب آهي جڏهن ماڻهو ڪمپيوٽر يا انٽرنيٽ استعمال ڪري غير قانوني ڪم ڪن ٿا. جيڪي ماڻهو اهي جرم ڪن ٿا انهن کي سائبر مجرم چيو ويندو آهي. سائبر مجرم پئسا چوري ڪرڻ، ذاتي معلومات تائين رسائي حاصل ڪرڻ ۽ ٻين کي نقصان پهچائڻ چاهين ٿا. اهي ڪمپيوٽر، ليپ ٽاپ، ٽيبليٽ ۽ سمارٽ ٽي وي جهڙا ڊوائيسز استعمال ڪن ٿا.\nسائبر ڪرائيم جا قسم (شڪل 5.8): هيڪنگ، فشنگ، سائبر بدمعاشي، رينسم ويئر، ميلويئر، سڃاڻپ جي چوري، سافٽ ويئر پائريسي، سوشل انجنيئرنگ، سائبر جاسوسي ۽ غير قانوني مواد جي ورڇ."
+                  },
+                  {
+                    "q": "(iv) انٽرنيٽ جا خطرا ڪهڙا آهن؟",
+                    "a": "انٽرنيٽ جا خطرا آهن:\n- صحت جا خطرا: ذهني صحت جا خطرا — گهڻو استعمال پريشاني، ڊپريشن ۽ سماجي اڪيلائي جو سبب بڻجي سگهي ٿو، خاص طور تي نوجوانن ۾. جسماني صحت جا خطرا — ڊگهي اسڪرين ٽائيم موٽاپو ۽ ننڊ جي خرابي جو سبب بڻجي ٿو، ۽ اسڪول جي ڪارڪردگي خراب ٿئي ٿي. ذهني ڪارڪردگي جا نقصان — گهڻي معلومات ياداشت ۽ فيصلو ڪرڻ جي صلاحيت تي منفي اثر وجهي سگهي ٿي.\n- سيڪيورٽي جا خطرا: سائبر سيڪيورٽي جا خطرا — سڃاڻپ جي چوري، فشنگ اسڪيم ۽ ڊيٽا جي ڀڃڪڙي. آن لائين شڪار — ٻارن جو انهن بالغن طرفان استحصال جيڪي انٽرنيٽ استعمال ڪري انهن کي ڦاسائن ۽ نقصان پهچائن ٿا.\n- سماجي خطرا: سماجي صلاحيتن تي اثر — انٽرنيٽ جو گهڻو استعمال سامهون ڳالهائڻ ۽ سماجي رابطن ۾ رڪاوٽ بڻجي سگهي ٿو. خانداني لاڳاپا — گهڻو اسڪرين ٽائيم خانداني رشتا ڪمزور ڪري سگهي ٿو ڇاڪاڻ ته ماڻهو خانداني وقت جي بدران آن لائين رابطن کي ترجيح ڏين ٿا.\n- تعليم تي اثر: سکڻ کان ڌيان هٽڻ — شاگرد سوشل ميڊيا جي ڪري ڌيان وڃائي سگهن ٿا، جنهن سان علمي ڪارڪردگي متاثر ٿئي ٿي. آن لائين وسيلن تي انحصار — ڊجيٽل اوزارن تي گهڻو انحصار تنقيدي سوچ جي صلاحيت کي گھٽائي سگهي ٿو."
+                  },
+                  {
+                    "q": "(v) پنهنجي معلومات کي آن لائين محفوظ رکڻ جا ڪي به ٻه طريقا بيان ڪريو.",
+                    "a": "پنهنجي معلومات کي آن لائين محفوظ رکڻ جا ٻه طريقا آهن:\n1. مضبوط پاسورڊ ٺاهيو: مضبوط پاسورڊ توهان جي سندن کي محفوظ ڪرڻ جو پهريون قدم آهي. اهو وڏن ۽ ننڍن اکرن، انگن ۽ خاص نشانين جو ميلاپ آهي، ۽ عام لفظن يا نمونن کان پاسو ڪري ٿو. صلاحون: گھٽ ۾ گھٽ 12 اکر استعمال ڪريو؛ ذاتي معلومات (مثال: نالا، جنم ڏينهن) کان پاسو ڪريو؛ اکرن جا قسم ملايو ۽ \"abc123\"، \"qwerty\" ۽ \"football\" جهڙن عام لفظن کان پاسو ڪريو؛ هڪ پاس فريز استعمال ڪرڻ تي غور ڪريو (مثال: \"P@$$word2481\").\n2. ٽو-فيڪٽر آٿنٽيڪيشن (2FA) فعال ڪريو: ٽو-فيڪٽر آٿنٽيڪيشن هڪ حفاظتي طريقو آهي جيڪو توهان جي اڪائونٽ يا اي ميل کي محفوظ رکڻ لاءِ ٺاهيو ويو آهي. ان لاءِ ٻن انٽرنيٽ سان ڳنڍيل ڊوائيسز جي ضرورت آهي ته جيئن صرف مجاز ماڻهو ئي اڪائونٽ تائين رسائي حاصل ڪري سگهي. 2FA سان، توهان معمول موجب پنهنجو پاسورڊ داخل ڪري لاگ ان ڪريو ٿا، ۽ پوءِ هڪ منفرد ڪوڊ توهان جي فون تي موڪليو وڃي ٿو. توهان لاگ ان مڪمل ڪرڻ لاءِ اهو ڪوڊ داخل ڪريو ٿا."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.4",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "ڊجيٽل شهريت ۽ اخلاقيات",
+                "items": [
+                  {
+                    "q": "ڊجيٽل اخلاقيات ڇا آهي؟",
+                    "a": "اخلاقيات اسان کي صحيح ۽ غلط رويي کي سمجھڻ ۾ مدد ڪري ٿي، جڏهن ته ڊجيٽل اخلاقيات انهن خيالن کي آن لائين صحيح ۽ غلط طئي ڪرڻ لاءِ لاڳو ڪري ٿي. اخلاقيات ۾ ايمانداري، انصاف ۽ ذميواري جهڙا اهم قدر شامل آهن، جڏهن ته ڊجيٽل اخلاقيات اسان کي آن لائين رابطن ۾ ايمانداري ۽ انصاف سان عمل ڪرڻ جي هدايت ڪري ٿي."
+                  },
+                  {
+                    "q": "مثبت آن لائين رويي جا ٻه مثال ڏيو.",
+                    "a": "ٻين سان مددگار معلومات شيئر ڪرڻ؛ دوستن سان ڳنڍيل رهڻ لاءِ سوشل ميڊيا استعمال ڪرڻ؛ تعليمي وسيلن تائين رسائي حاصل ڪرڻ؛ ٻين جي پرائيويسي ۽ ڊيٽا جو احترام ڪرڻ؛ اڪائونٽن جي حفاظت لاءِ محفوظ پاسورڊ استعمال ڪرڻ؛ تصديق ٿيل ويب سائيٽن تي محفوظ خريداري ڪرڻ؛ شڪي سرگرمي جي اختيارين کي رپورٽ ڪرڻ؛ مثبت ۽ احترام واري رابطي کي فروغ ڏيڻ. (ڪي به ٻه)"
+                  },
+                  {
+                    "q": "منفي آن لائين رويي جا ٻه مثال ڏيو.",
+                    "a": "غلط معلومات يا افواهون پکيڙڻ؛ ٻين کي آن لائين بدمعاشي ڪرڻ يا هراسان ڪرڻ؛ چوري ڪيل مواد ڊائون لوڊ ڪرڻ يا شيئر ڪرڻ؛ ٻين جي اڪائونٽن کي هيڪ ڪرڻ يا انهن جي پرائيويسي ۾ مداخلت ڪرڻ؛ پاسورڊ شيئر ڪرڻ يا ڪمزور پاسورڊ استعمال ڪرڻ؛ آن لائين اسڪيم يا فراڊ ۾ حصو وٺڻ؛ سيڪيورٽي وارننگن يا خطرن کي نظرانداز ڪرڻ؛ تڪليف ڏيندڙ يا بي عزتي وارا تبصرا پوسٽ ڪرڻ. (ڪي به ٻه)"
+                  },
+                  {
+                    "q": "ڊجيٽل فوٽ پرنٽ ڇا آهي؟",
+                    "a": "ڊجيٽل فوٽ پرنٽ ڊيٽا جو اهو نشان آهي جيڪو هڪ ماڻهو پنهنجين ڊجيٽل سرگرمين ذريعي آن لائين ڇڏي ٿو، جنهن کي ٽريڪ يا تجزيو ڪري سگهجي ٿو."
+                  }
+                ]
+              },
+              {
+                "label": "انٽرنيٽ جا استعمال",
+                "items": [
+                  {
+                    "q": "ڪاروبار آن لائين خريداري لاءِ انٽرنيٽ کي ڪيئن استعمال ڪن ٿا؟",
+                    "a": "ڪاروبار Amazon، Alibaba، AliExpress ۽ Daraz جهڙين ويب سائيٽن تي سڌو گراهڪن کي شيون وڪڻڻ لاءِ انٽرنيٽ استعمال ڪن ٿا."
+                  },
+                  {
+                    "q": "خبرن تائين رسائي لاءِ ٻن ويب سائيٽن جا نالا ٻڌايو.",
+                    "a": "Google News، Dawn News ۽ BBC. (ڪي به ٻه)"
+                  },
+                  {
+                    "q": "انٽرنيٽ سوشل نيٽ ورڪنگ لاءِ ڪيئن استعمال ٿئي ٿو؟",
+                    "a": "Facebook ۽ Twitter جهڙيون سوشل نيٽ ورڪنگ ويب سائيٽون استعمال ڪندڙن کي دوستن ۽ ڪٽنب سان ڳنڍڻ ۾ مدد ڪن ٿيون. انٽرنيٽ Instagram ۽ Snapchat جهڙن نيٽ ورڪن سان خيالن، تصويرن، وڊيوز ۽ زندگي جي تازه ڪارين کي شيئر ڪرڻ لاءِ سوشل ميڊيا ايپس تائين رسائي ڏئي ٿو. ماڻهو TikTok جهڙين سوشل ميڊيا ايپس تي مختصر وڊيوز ۽ ميمز سميت تفريحي مواد به ٺاهين ۽ شيئر ڪن ٿا."
+                  },
+                  {
+                    "q": "انٽرنيٽ تي معلومات شيئر ڪرڻ ڇا آهي؟",
+                    "a": "انٽرنيٽ خبرن ۽ تازه ڪارين کي جلدي شيئر ڪرڻ جي سهولت ڏئي ٿو، جنهن سان موجوده واقعن بابت باخبر رهڻ آسان ٿئي ٿو. مثال طور، Twitter خبرن جي تازه ڪارين لاءِ استعمال ٿئي ٿو، جڏهن ته LinkedIn نوڪري جي ڳولا لاءِ مشهور آهي."
+                  }
+                ]
+              },
+              {
+                "label": "انٽرنيٽ جا خطرا",
+                "items": [
+                  {
+                    "q": "انٽرنيٽ جي گهڻي استعمال جا ذهني صحت جا خطرا ڪهڙا آهن؟",
+                    "a": "گهڻو استعمال پريشاني، ڊپريشن ۽ سماجي اڪيلائي جو سبب بڻجي سگهي ٿو، خاص طور تي نوجوانن ۾. ممڪن حل: اسڪرين ٽائيم محدود ڪريو، آف لائين سرگرمين ۾ حصو وٺو، ۽ ضرورت هجي ته پيشه ور مدد وٺو."
+                  },
+                  {
+                    "q": "گهڻي اسڪرين ٽائيم جا جسماني صحت جا خطرا ڪهڙا آهن؟",
+                    "a": "ڊگهي اسڪرين ٽائيم جي ڪري ويٺل رويو موٽاپو ۽ ننڊ جي خرابي جو سبب بڻجي ٿو، ۽ اهو اسڪول جي ڪارڪردگي خراب ٿيڻ ۽ ننڊ جي مدي ۾ گھٽتائي جو سبب بڻجي سگهي ٿو. ممڪن حل: باقاعده جسماني سرگرمي کي فروغ ڏيو، اسڪرين ٽائيم دوران وقفا يقيني بڻايو، ۽ صحتمند ننڊ جي عادتن کي همٿايو."
+                  },
+                  {
+                    "q": "آن لائين شڪار ڇا آهي؟",
+                    "a": "آن لائين شڪار جو مطلب آهي ٻارن جو انهن بالغن طرفان استحصال جيڪي انٽرنيٽ استعمال ڪري انهن کي ڦاسائن ۽ نقصان پهچائن ٿا. ممڪن حل: ٻارن کي آن لائين حفاظت بابت تعليم ڏيو، انهن جي آن لائين سرگرمين جي نگراني ڪريو، ۽ نقصانڪار مواد تائين رسائي محدود ڪرڻ لاءِ پيرنٽل ڪنٽرول سافٽ ويئر استعمال ڪريو."
+                  },
+                  {
+                    "q": "ڊجيٽل ڊيٽوڪس ڇا آهي؟",
+                    "a": "ڊجيٽل ڊيٽوڪس ڪرڻ جو مطلب آهي ڊجيٽل ڊوائيسز کان وقفو وٺڻ ۽ انهن سرگرمين ۾ حصو وٺڻ جيڪي تنقيدي سوچ کي فروغ ڏين ٿيون. اهو گهڻي معلومات جي ڪري ٿيندڙ ذهني ڪارڪردگي جي نقصان لاءِ ڪتاب جو حل آهي."
+                  }
+                ]
+              },
+              {
+                "label": "معلومات جي حفاظت",
+                "items": [
+                  {
+                    "q": "مضبوط پاسورڊ ڇا آهي؟",
+                    "a": "مضبوط پاسورڊ وڏن ۽ ننڍن اکرن، انگن ۽ خاص نشانين جو ميلاپ آهي، ۽ عام لفظن يا نمونن کان پاسو ڪري ٿو. صلاحون: گھٽ ۾ گھٽ 12 اکر استعمال ڪريو؛ ذاتي معلومات (مثال: نالا، جنم ڏينهن) کان پاسو ڪريو؛ اکرن جا قسم ملايو ۽ \"abc123\"، \"qwerty\" ۽ \"football\" جهڙن عام لفظن کان پاسو ڪريو؛ هڪ پاس فريز استعمال ڪرڻ تي غور ڪريو (مثال: \"P@$$word2481\")."
+                  },
+                  {
+                    "q": "ٽو-فيڪٽر آٿنٽيڪيشن (2FA) ڪيئن ڪم ڪري ٿو؟",
+                    "a": "ٽو-فيڪٽر آٿنٽيڪيشن (2FA) هڪ حفاظتي طريقو آهي جيڪو توهان جي اڪائونٽ يا اي ميل کي محفوظ رکڻ لاءِ ٺاهيو ويو آهي. ان لاءِ ٻن انٽرنيٽ سان ڳنڍيل ڊوائيسز جي ضرورت آهي ته جيئن صرف مجاز ماڻهو ئي اڪائونٽ تائين رسائي حاصل ڪري سگهي. 2FA سان، توهان معمول موجب پنهنجو پاسورڊ داخل ڪري لاگ ان ڪريو ٿا، ۽ پوءِ هڪ منفرد ڪوڊ توهان جي فون تي موڪليو وڃي ٿو. توهان لاگ ان مڪمل ڪرڻ لاءِ اهو ڪوڊ داخل ڪريو ٿا."
+                  },
+                  {
+                    "q": "اسپام (فراڊي) اي ميل کي ڪيئن سڃاڻي سگهجي ٿو؟",
+                    "a": "عام سلام، اسپيلنگ جون غلطيون ۽ پيغام ۾ تڪڙ ڏسو. انهن لنڪن کان خبردار رهو جيڪي سرڪاري ويب سائيٽ جي URL سان نه ملن ٿيون. شڪي اي ميلن ۾ لنڪن تي ڪلڪ ڪرڻ جي بدران هميشه ڪمپني سان سڌو ان جي سرڪاري چينلن ذريعي تصديق ڪريو."
+                  },
+                  {
+                    "q": "ونڊوز ۽ اينڊرائيڊ ڊوائيسز کي ڪيئن اپڊيٽ ڪجي؟",
+                    "a": "ونڊوز او ايس: اسٽارٽ مينيو تي ڪلڪ ڪريو ۽ سيٽنگز چونڊيو. اپڊيٽ ۽ سيڪيورٽي ڏانهن وڃو ۽ چيڪ فار اپڊيٽس تي ڪلڪ ڪريو.\nاينڊرائيڊ او ايس: سيٽنگز کوليو، سسٽم تي ٽيپ ڪريو، پوءِ سافٽ ويئر اپڊيٽ چونڊيو."
+                  }
+                ]
+              },
+              {
+                "label": "سائبر ڪرائيم",
+                "items": [
+                  {
+                    "q": "هيڪنگ ڇا آهي؟",
+                    "a": "هيڪنگ ڪمپيوٽر سسٽم يا نيٽ ورڪن تائين غير مجاز رسائي آهي. هيڪر ڪنهن جي ڪمپيوٽر تائين رسائي حاصل ڪرڻ لاءِ ٽيڪنالاجي جي ڪمزورين جو فائدو وٺن ٿا ۽ ڪجهه عمل ڪرڻ لاءِ انهن جا ڪمپيوٽر ۽ سمارٽ فون استعمال ڪري سگهن ٿا."
+                  },
+                  {
+                    "q": "رينسم ويئر ڇا آهي؟",
+                    "a": "رينسم ويئر هڪ قسم جو سائبر ڪرائيم آهي جنهن ۾ نقصانڪار سافٽ ويئر شامل آهي جيڪو هڪ ماڻهو جي فائلن کي لاڪ ۽ انڪرپٽ ڪرڻ لاءِ ٺاهيو ويو آهي. سائبر مجرم هن ميلويئر کي استعمال ڪري متاثر جي ڊيٽا کي ناقابل رسائي بڻائين ٿا، ۽ پوءِ ان کي انلاڪ ڪرڻ لاءِ پئسا گھرن ٿا."
+                  },
+                  {
+                    "q": "ميلويئر ڇا آهي؟ ان جا قسم ٻڌايو.",
+                    "a": "ميلويئر ڪو به اهڙو پروگرام آهي جيڪو ڪمپيوٽرن کي نقصان پهچائڻ يا معلومات چوري ڪرڻ لاءِ ٺاهيو ويو آهي. اهو اڪثر غير محفوظ ويب سائيٽن، اي ميلن يا ڊائون لوڊ ذريعي ڪمپيوٽرن ۾ پکڙجي ٿو. ميلويئر فائلن کي نقصان پهچائي سگهي ٿو، سسٽم کي سست ڪري سگهي ٿو ۽ ڪيترائي مسئلا پيدا ڪري سگهي ٿو. قسم: وائرس (اهي پروگرام جيڪي فائلن سان ڳنڍجن ٿا ۽ پکڙجن ٿا جڏهن متاثر ٿيل فائل کولي وڃي ٿي)، ورم (اهي پروگرام جيڪي پاڻ کي نقل ڪري سگهن ٿا ۽ نيٽ ورڪ ذريعي پکڙجن ٿا بغير ان جي ته ڪنهن فائل سان ڳنڍڻ جي ضرورت هجي)، ٽروجن (اهي پروگرام جيڪي مددگار ٿيڻ جو ڏيک ڏين ٿا پر اصل ۾ نقصانڪار آهن ۽ توهان جي ڊوائيس کي نقصان پهچائي سگهن ٿا)، اسپائي ويئر (اهو سافٽ ويئر جيڪو توهان جي ڊوائيس مان ذاتي معلومات ڳجهي طرح گڏ ڪري ٿو بغير توهان کي خبر هجڻ جي)، ايڊويئر (اهو سافٽ ويئر جيڪو توهان جي ڊوائيس تي اڻ گهربل اشتهار ڏيکاري ٿو، اڪثر جڏهن توهان مفت پروگرام ڊائون لوڊ ڪريو ٿا)."
+                  },
+                  {
+                    "q": "سڃاڻپ جي چوري ڇا آهي؟",
+                    "a": "سڃاڻپ جي چوري هڪ قسم جو سائبر ڪرائيم آهي جنهن ۾ ڪو ماڻهو توهان جي ذاتي معلومات وٺي ٿو ۽ ان کي پنهنجي فائدي لاءِ استعمال ڪري ٿو. ان ۾ توهان کان پئسا چوري ڪرڻ يا توهان جي نالي تي جرم ڪرڻ شامل ٿي سگهي ٿو، جنهن سان ائين لڳي ٿو ته ذميوار توهان آهيو."
+                  }
+                ]
+              },
+              {
+                "label": "مدد جا نظام ۽ ڪاپي رائيٽ",
+                "items": [
+                  {
+                    "q": "پاڪستان ۾ سائبر ڪرائيم خلاف ڪهڙو قانون آهي؟ ڪتاب مان ٻه سزائون ٻڌايو.",
+                    "a": "پاڪستان ۾ آن لائين جرمن کي منهن ڏيڻ لاءِ خاص قانون ٺاهيا ويا آهن، جهڙوڪ اليڪٽرانڪ ڏوهن جي روڪٿام جو قانون (PECA) 2016. هي قانون هيڪنگ، ذاتي معلومات چوري ڪرڻ ۽ سائبر بدمعاشي جهڙن مسئلن کي منهن ڏئي ٿو. ڪتاب جي ٽيبل مان سزائون: ڊيٽا کي نقصان — 3 سالن تائين ۽ 300,000 روپيا ڏنڊ؛ غير مجاز رسائي (هيڪنگ) — 3 سالن تائين ۽ 1,000,000 روپيا ڏنڊ."
+                  },
+                  {
+                    "q": "پاڪستان ۾ سائبر ڪرائيم جو شڪار ڪٿي رپورٽ ڪري سگهي ٿو؟",
+                    "a": "شڪار ايف آئي اي (وفاقي تحقيقاتي ادارو) جي سائبر ڪرائيم ونگ (CCW)، سائبر ڪرائيم لاءِ قومي جوابي مرڪز (NR3C، ويب سائيٽ nr3c.gov.pk)، يا پي ٽي اي شڪايت مئنيجمينٽ سسٽم (complaint.pta.gov.pk) کي رپورٽ ڪري سگهي ٿو. سائبر اسڪائوٽس (csop.pk/cyber-scouts) به خطرن کي سڃاڻڻ ۽ اختيارين کي واقعي جي رپورٽ ڪرڻ کان اڳ اسڪول ۽ والدين کي مسئلن جي رپورٽ ڪرڻ ۾ مدد ڪن ٿا. رپورٽ ڪرڻ کان اڳ ثبوت گڏ ڪريو: اسڪرين شاٽ، پيغام ۽ لنڪ ثبوت طور محفوظ ڪريو."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 6,
+        "title": "انٽرپرينئرشپ (ڪاروبار جو خيال/شروع ڪرڻ)",
+        "reading": "انٽرپرينئرشپ (ڪاروبار جو خيال/شروع ڪرڻ)",
+        "display": "انٽرپرينئرشپ (ڪاروبار جو خيال/شروع ڪرڻ)",
+        "sections": [
+          {
+            "num": "6.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڪاروباري منصوبي جو بنيادي مقصد ڇا آهي؟\n(الف) شين جون قيمتون وڌائڻ\n(ب) ڪاروبار جي شروعات، هلائڻ ۽ واڌ جي رهنمائي ڪرڻ ✓\n(ج) مارڪيٽنگ کان سواءِ گراهڪن کي متوجهه ڪرڻ\n(د) صرف مقابلي جو تجزيو ڪرڻ",
+                    "a": "(ب) ڪاروبار جي شروعات، هلائڻ ۽ واڌ جي رهنمائي ڪرڻ ✓"
+                  },
+                  {
+                    "q": "(ii) هيٺ ڏنل مان ڪهڙو ڪاروباري منصوبي جو جزو ناهي؟\n(الف) مارڪيٽ جي ضرورت\n(ب) پراڊڪٽ ڊيزائين\n(ج) مشهور شخصيتن جي تائيد ✓\n(د) مارڪيٽنگ",
+                    "a": "(ج) مشهور شخصيتن جي تائيد ✓"
+                  },
+                  {
+                    "q": "(iii) ڊجيٽل مارڪيٽنگ ۾ 'SEO' جو مطلب ڇا آهي؟\n(الف) Social Engagement Optimization\n(ب) سرچ انجڻ آپٽمائيزيشن ✓\n(ج) Sales Enhancement Option\n(د) Standardized Equipment Order",
+                    "a": "(ب) سرچ انجڻ آپٽمائيزيشن ✓"
+                  },
+                  {
+                    "q": "(iv) هيٺ ڏنل مان ڪهڙو جديد ادائيگي جو طريقو آهي؟\n(الف) نقد ادائيگي\n(ب) ڪريڊٽ ڪارڊ\n(ج) ڊجيٽل والٽ ✓\n(د) مٽا سٽا جو نظام",
+                    "a": "(ج) ڊجيٽل والٽ ✓"
+                  },
+                  {
+                    "q": "(v) ڊجيٽل مارڪيٽنگ ۾ مواد جي مارڪيٽنگ لاءِ عام طور تي ڪهڙو پليٽ فارم استعمال ٿئي ٿو؟\n(الف) ريڊيو اشتهار\n(ب) بل بورڊ\n(ج) سوشل ميڊيا پليٽ فارم ✓\n(د) فلائر",
+                    "a": "(ج) سوشل ميڊيا پليٽ فارم ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ______ گراهڪن جي ضرورتن ۽ خواهشن کي سمجھڻ لاءِ ضروري آهي.",
+                    "a": "مارڪيٽ ريسرچ گراهڪن جي ضرورتن ۽ خواهشن کي سمجھڻ لاءِ ضروري آهي."
+                  },
+                  {
+                    "q": "(ii) هڪ ______ ڪمپني جا مقصد ۽ انهن کي حاصل ڪرڻ جو طريقو بيان ڪري ٿو.",
+                    "a": "هڪ ڪاروباري منصوبو ڪمپني جا مقصد ۽ انهن کي حاصل ڪرڻ جو طريقو بيان ڪري ٿو."
+                  },
+                  {
+                    "q": "(iii) ______ سرچ انجڻ لاءِ ان کي بهتر بڻائي ويب سائيٽ کي ڳولڻ آسان بڻائڻ ۾ مدد ڪري ٿو.",
+                    "a": "ايس اي او (سرچ انجڻ آپٽمائيزيشن) سرچ انجڻ لاءِ ان کي بهتر بڻائي ويب سائيٽ کي ڳولڻ آسان بڻائڻ ۾ مدد ڪري ٿو."
+                  },
+                  {
+                    "q": "(iv) ______ مارڪيٽنگ ۾ ڪاروبار گراهڪن تائين پهچڻ لاءِ سوشل ميڊيا جهڙا پليٽ فارم استعمال ڪن ٿا.",
+                    "a": "ڊجيٽل مارڪيٽنگ ۾ ڪاروبار گراهڪن تائين پهچڻ لاءِ سوشل ميڊيا جهڙا پليٽ فارم استعمال ڪن ٿا."
+                  },
+                  {
+                    "q": "(v) محفوظ ادائيگي جا طريقا ذاتي معلومات جي حفاظت ڪندي لين دين ۾ ______ يقيني بڻائين ٿا.",
+                    "a": "محفوظ ادائيگي جا طريقا ذاتي معلومات جي حفاظت ڪندي لين دين ۾ سيڪيورٽي يقيني بڻائين ٿا."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڪاروباري منصوبو ڇا آهي ۽ ان جا جزا ڪهڙا آهن؟",
+                    "a": "ڪاروباري منصوبو هڪ دستاويز آهي جيڪو ڪاروبار جا مقصد ۽ انهن کي حاصل ڪرڻ جو طريقو بيان ڪري ٿو. ان ۾ پئسا ڪيئن حاصل ڪجن، خرچ ڪيئن سنڀالجي ۽ مستقبل لاءِ ڪيئن منصوبو ٺاهجي، اهو شامل آهي، ۽ اهو ڪاروبار جي شروعات، هلائڻ ۽ واڌ جي رهنمائي ڪندڙ نقشي طور ڪم ڪري ٿو.\nان جا جزا (شڪل 6.1) ست آهن:\n- مارڪيٽ جي ضرورت\n- گراهڪ جي ضرورت\n- پراڊڪٽ ڊيزائين\n- مارڪيٽنگ\n- قيمت (Costing)\n- عمل (Operations)\n- مالي منصوبابندي (Financial Planning)"
+                  },
+                  {
+                    "q": "(ii) ادائيگي ۽ لين دين ۾ ڇا فرق آهي؟ محفوظ لين دين جا طريقا ڪيئن چونڊي سگهجن ٿا؟",
+                    "a": "ادائيگي سامان، خدمتن جي بدلي ۾ يا ذميوارين کي پورو ڪرڻ لاءِ پئسا منتقل ڪرڻ جو عمل آهي. مثال طور، ڪريڊٽ ڪارڊ استعمال ڪري پسارڪو سامان لاءِ 100 روپيا ادا ڪرڻ، يا پنهنجي والٽ مان 100 روپين جو نوٽ ڪڍي ڪيشيئر کي ڏيڻ.\nلين دين ٻن ڌرين وچ ۾ سامان، خدمتن يا اثاثن جي مٽاسٽا جو مجموعي عمل آهي — پسارڪو سامان خريدڻ جو سڄو عمل، چونڊ کان ادائيگي ۽ رسيد تائين. ادائيگي لين دين جي عمل ۾ هڪ خاص جاءِ تي ٿئي ٿي، جڏهن ته لين دين ۾ سڀ عنصر شامل آهن (معاهدا، پهچائڻ، ادائيگيون).\nمحفوظ لين دين جا طريقا:\n- روايتي طريقا: نقد ادائيگي (جسماني پئسا — سڪا ۽ ڪاغذي نوٽ؛ آسان پر گم ٿي سگهن ٿا يا چوري ٿي سگهن ٿا) ۽ ڪريڊٽ ڪارڊ (محفوظ ۽ آسان، خاص طور تي وڏين رقمن لاءِ، نقد کڻڻ جي ضرورت نه آهي؛ پر جيڪڏهن ڪو ڪارڊ جي معلومات حاصل ڪري وٺي ته ان جو غلط استعمال ڪري سگهي ٿو).\n- جديد طريقا: ڊجيٽل والٽ (Easypaisa يا Google Pay جهڙيون ايپس پئسا موڪلڻ لاءِ؛ تيز، ۽ اهي ڪارڊ جا تفصيل محفوظ رکن ٿيون)؛ بايوميٽرڪ تصديق (سڃاڻپ جي تصديق لاءِ چهري جون خصوصيتون يا فنگر پرنٽ، يقيني بڻائي ٿو ته ٻيو ڪو به پئسا چوري نٿو ڪري سگهي)؛ ٽو-فيڪٽر آٿنٽيڪيشن (2FA) (پاسورڊ يا فون يا اي ميل تي موڪليل هڪ ڀيري واري ڪوڊ سان سڃاڻپ جي تصديق ڪريو، مثال: هڪ OTP ڪوڊ)؛ سمارٽ ڪانٽريڪٽ (ڊجيٽل معاهدا جيڪي خودڪار طور تي اهو ڪن ٿا جيڪو ٻنهي ماڻهن اتفاق ڪيو آهي، جهڙوڪ سامان پهچڻ تي پئسا موڪلڻ)."
+                  },
+                  {
+                    "q": "(iii) ڊجيٽل مارڪيٽنگ ۾ ڪهڙا اوزار ۽ طريقا استعمال ٿين ٿا؟",
+                    "a": "ڊجيٽل مارڪيٽنگ جا اوزار (شڪل 6.3) آهن:\n- ويب سائيٽ ڊيزائيننگ: ويب سائيٽ هڪ آن لائين جاءِ آهي جتي ڪاروبار ۽ ماڻهو معلومات شيئر ڪن ٿا ۽ شيون وڪڻن ٿا؛ بلاگ ويب سائيٽ جو هڪ حصو آهي جتي نئين معلومات، ڪهاڻيون ۽ مددگار صلاحون باقاعده شيئر ڪيون وڃن ٿيون.\n- اي ميل مارڪيٽنگ: ماڻهن جي انباڪس ۾ پيغام موڪلڻ ته جيئن خبرون ۽ پروموشن شيئر ڪري سگهجن.\n- سوشل ميڊيا مارڪيٽنگ: Facebook، Instagram ۽ X.com جهڙا آن لائين پليٽ فارم جتي ماڻهو ڳالهائين ٿا، تصويرون شيئر ڪن ٿا ۽ پيغام پوسٽ ڪن ٿا؛ شين کي فروغ ڏيڻ لاءِ هڪ اهم اوزار.\n- آن لائين اشتهار: ويب سائيٽن ۽ ايپس تي اشتهار ڏيکارڻ، Google Ads يا سوشل ميڊيا اشتهارن ذريعي خاص گروهن کي نشانو بڻائڻ.\n- مواد جي مارڪيٽنگ: مفيد يا تفريحي مواد (وڊيوز، مضمون) ٺاهڻ ته جيئن ماڻهن کي متوجهه ڪري سگهجي ۽ انهن جي دلچسپي برقرار رکي سگهجي.\n- موبائل ايپس: فونن ۽ ٽيبليٽن لاءِ ننڍا پروگرام ڳالهائڻ، سکڻ، رانديون کيڏڻ ۽ خريداري ڪرڻ لاءِ، جيڪي Google Play Store جهڙن ايپ اسٽورن تان ڊائون لوڊ ڪيا وڃن ٿا.\n- سرچ انجڻ آپٽمائيزيشن (SEO): هڪ ڊجيٽل مارڪيٽنگ اوزار جيڪو سرچ نتيجن کي بهتر ڪرڻ ۾ مدد ڪري ٿو ۽ شين کي ڳولڻ ۽ آن لائين وڪڻڻ آسان بڻائي ٿو.\nسوشل ميڊيا استعمال ڪرڻ جا طريقا: مزيدار پوسٽون شيئر ڪريو، هيش ٽيگ استعمال ڪريو (مثال: #CupcakeLovers)، ويب سائيٽ سان لنڪ ڪريو، فالوورز سان ڳالهايو، ۽ انفلوئنسرن سان ڪم ڪريو."
+                  },
+                  {
+                    "q": "(iv) ڊجيٽل مارڪيٽنگ منصوبو ڇا آهي؟",
+                    "a": "ڊجيٽل مارڪيٽنگ منصوبو انٽرنيٽ استعمال ڪري ڪاروبار جي شين ۽ خدمتن کي فروغ ڏيڻ آهي. اهو مقصد مقرر ڪرڻ ۽ ترقي جي نگراني ڪرڻ ۾ مدد ڪري ٿو.\nڪتاب مان مثال — \"فون جا لوازمات آن لائين خريد ڪريو\" (ٽيبل 6.3):\n- مارڪيٽ جي ضرورت: موبائل فون وڏي پيماني تي استعمال ٿين ٿا؛ ماڻهن کي سستا، رجحان وارا، معياري لوازمات (ڪيس، چارجر، هيڊ فون) جي ضرورت آهي.\n- گراهڪ جي ضرورت: ڊوائيسز سان ملندڙ معياري لوازمات، جلدي پهچائڻ سان آن لائين خريداري، سستا ۽ اسٽائلش.\n- پراڊڪٽ ڊيزائين: لوازمات جا مختلف قسم (ڪيس، چارجر، پاور بينڪ)، Samsung، iPhone وغيره سان مطابقت رکندڙ، رجحان وارا، پائيدار ۽ سستا.\n- عمل جو منصوبو: اي ڪامرس ويب سائيٽ ٺاهيو يا Instagram، Facebook ۽ eBay تي وڪڻو؛ اسٽاڪ جي جلدي تازه ڪاري ۽ ڪارائتي شپنگ.\n- مارڪيٽنگ منصوبو: سوشل ميڊيا مارڪيٽنگ (Instagram ۽ Facebook تي نوان لوازمات، پروموشن، نشانو بڻايل اشتهار)، انفلوئنسر مارڪيٽنگ (مقامي انفلوئنسرن سان ڀائيواري)، مواد جي مارڪيٽنگ (فون جي سنڀال جي صلاحن، رجحان وارن لوازمن، انباڪسنگ بابت بلاگ ۽ وڊيوز)، ايس اي او (ويب سائيٽ کي \"Buy phone accessories online\" ۽ \"best phone case for iPhone\" لاءِ بهتر بڻايو).\n- مالي منصوبو: اشتهار، ويب سائيٽ ڊولپمينٽ ۽ انفلوئنسر مارڪيٽنگ لاءِ بجيٽ؛ پراڊڪٽ جي قيمت ۽ مقابلي واري قيمت جو حساب رکي بهتر منافعو حاصل ڪريو؛ نقد وهڪري جي نگراني ڪريو ۽ آن لائين سيلز وڌائڻ تي ڌيان ڏيو."
+                  },
+                  {
+                    "q": "(v) سرچ انجڻ آپٽمائيزيشن (SEO) ڇا آهي، ۽ اهو Instagram ۽ Twitter جهڙي سوشل ميڊيا تي ڪيئن استعمال ٿئي ٿو؟",
+                    "a": "سرچ انجڻ آپٽمائيزيشن (SEO) ويب سائيٽن کي ماڻهن لاءِ ڳولڻ آسان بڻائڻ جو عمل آهي جڏهن اهي سرچ انجڻ (مثال: Google) استعمال ڪري ڳولين ٿا. اهو ويب سائيٽن ۽ ويب صفحن کي مٿين نتيجن طور ظاهر ٿيڻ ۾ مدد ڪري ٿو.\n- آن-پيج ايس اي او: سڌو توهان جي ويب سائيٽ تي ڪيل عمل، مثال: پراڊڪٽ جي پروموشن لاءِ \"Yummy Pizza\" جهڙا مناسب ڪي ورڊ استعمال ڪرڻ ۽ جلدي ڳولڻ ۾ مددگار مواد ٺاهڻ.\n- آف-پيج ايس اي او: توهان جي ويب سائيٽ کان ٻاهر ڪيل عمل، مثال: ٻين ويب سائيٽن کان ان سان لنڪ حاصل ڪرڻ ۽ Facebook ۽ Instagram جهڙن سوشل ميڊيا پليٽ فارمن تي شين کي فروغ ڏيڻ.\nInstagram ۽ Twitter جهڙي سوشل ميڊيا تي ايس اي او مزيدار پوسٽون شيئر ڪرڻ، هيش ٽيگ استعمال ڪرڻ (مثال: #CupcakeLovers) ته جيئن وڌيڪ ماڻهو پوسٽون ڏسي سگهن، پوسٽن ۾ ويب سائيٽ جو لنڪ وجهڻ ته جيئن ماڻهو آساني سان ڏسي سگهن، فالوورز سان ڳالهائڻ، ۽ انفلوئنسرن سان ڪم ڪرڻ سان استعمال ٿئي ٿو. اهو ويب سائيٽ جي ايس اي او کي بهتر بڻائي ٿو ۽ سرچ نتيجن کي وڌائي ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.4",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "انٽرپرينئرشپ ۽ ڪاروباري منصوبو",
+                "items": [
+                  {
+                    "q": "انٽرپرينئرشپ ڇا آهي؟",
+                    "a": "انٽرپرينئرشپ هڪ نئون ڪاروبار يا جديد خيال شروع ڪرڻ ۽ سنڀالڻ آهي؛ نوان خيال پيدا ڪرڻ، منصوبا ٺاهڻ ۽ وڌڻ ۽ ڪامياب ٿيڻ لاءِ محنت ڪرڻ."
+                  },
+                  {
+                    "q": "انٽرپرينئر ڪير آهي؟",
+                    "a": "انٽرپرينئر اهو شخص آهي جيڪو ڄاڻي ٿو ته شين کي روايتي ۽ آن لائين ٻنهي طريقن سان ڪيئن وڪڻجي ۽ فروغ ڏجي. مثال طور، هڪ انٽرپرينئر Daraz، Amazon، YouTube ۽ Instagram تي وڪڻي سگهي ٿو."
+                  },
+                  {
+                    "q": "خيال کي ڪاروبار ۾ تبديل ڪرڻ جا ٽي مرحلا ڪهڙا آهن؟",
+                    "a": "1. خيال: هڪ جديد يا نئون ڪاروباري خيال پيدا ڪريو (مثال: جنم ڏينهن ۽ شادين لاءِ منفرد \"fun cupcake\" وڪڻڻ وارو ڪپ ڪيڪ ڪاروبار).\n2. ڪاروباري منصوبو: خيال کي ڪاروبار ۾ تبديل ڪرڻ لاءِ مرحلن جو هڪ سلسلو — مارڪيٽ ريسرچ، نشانو بڻايل گراهڪ، مارڪيٽنگ ۽ قيمت.\n3. عمل: ڪاروباري منصوبي تي عمل درآمد — پچائڻ لاءِ هڪ ننڍي جاءِ ٺاهيو، وڪڻڻ شروع ڪريو ۽ آرڊر وٺو، سوشل ميڊيا استعمال ڪري شيئر ڪريو ۽ گراهڪ حاصل ڪريو، ۽ آرڊر وڌڻ سان واڌ جو منصوبو ٺاهيو."
+                  },
+                  {
+                    "q": "ڪاروباري منصوبو ڇا آهي؟",
+                    "a": "ڪاروباري منصوبو هڪ دستاويز آهي جيڪو ڪاروبار جا مقصد ۽ انهن کي حاصل ڪرڻ جو طريقو بيان ڪري ٿو. اهو ڪاروبار جي شروعات، هلائڻ ۽ واڌ جي رهنمائي ڪندڙ نقشي طور ڪم ڪري ٿو."
+                  },
+                  {
+                    "q": "مارڪيٽ جي ضرورت ڇا آهي؟",
+                    "a": "مارڪيٽ جي ضرورت مارڪيٽ يا ڪاروبار ۾ اها حالت آهي جڏهن هڪ پراڊڪٽ وڏي مقدار ۾ وڪڻي ٿي. مثال طور، جيڪڏهن ڪيترائي شاگرد \"Parker Pen\" چاهين ٿا ته ڪمپني کي انهن مان وڌيڪ ٺاهڻ گهرجي."
+                  }
+                ]
+              },
+              {
+                "label": "مارڪيٽنگ ۽ 4Ps",
+                "items": [
+                  {
+                    "q": "مارڪيٽنگ ڇا آهي؟",
+                    "a": "مارڪيٽنگ اهو طريقو آهي جنهن سان ڪمپنيون ماڻهن کي پنهنجين شين، خدمتن يا شين بابت آگاهه ڪن ٿيون ته جيئن اهي خريد ڪن يا استعمال ڪن. مثال طور، هڪ دوست کي ٻڌائڻ ته 'Parker Pen' سٺو آهي ۽ دوست ان کي خريد ڪري ٿو."
+                  },
+                  {
+                    "q": "مارڪيٽنگ جا 4Ps ڪهڙا آهن؟",
+                    "a": "پراڊڪٽ، قيمت (Price)، پروموشن ۽ جڳهه (Place)."
+                  },
+                  {
+                    "q": "آئيس ڪريم لاءِ 4Ps مان هر هڪ جو هڪ مثال ڏيو.",
+                    "a": "پراڊڪٽ: آئيس ڪريم جا ذائقا جهڙوڪ چاڪليٽ ۽ وينلا. قيمت: 50 روپيا في ڪون — گراهڪن لاءِ سستو جڏهن ته منافعو يقيني بڻائي ٿو. پروموشن: اشتهارن، رعايتن ۽ سوشل ميڊيا پوسٽن ذريعي ماڻهن کي آگاهه ڪرڻ، مثال: آئيس ڪريم تي \"Buy 1 Get 1 Free\". جڳهه: اهو علائقو يا دڪان جتي پراڊڪٽ وڪڻي ٿي، مثال: پارڪ جي ويجهو هڪ آئيس ڪريم جو دڪان."
+                  },
+                  {
+                    "q": "آن لائين ۽ جسماني مارڪيٽنگ ۾ ڇا فرق آهي؟",
+                    "a": "آن لائين مارڪيٽنگ انٽرنيٽ (سوشل ميڊيا ۽ ويب سائيٽون) استعمال ڪري ٿي، ڪنهن به وقت ۽ ڪٿي به؛ اهو دنيا ڀر ۾ ڪيترن ئي ماڻهن کي اشتهار ڏيکاري ٿو، عام طور تي سستو آهي ۽ شروع ڪرڻ آسان آهي، ۽ توهان ٽريڪ ڪري سگهو ٿا ته اشتهار ڪيئن ڪم ڪري رهيا آهن. مثال: مواد جي مارڪيٽنگ، سوشل ميڊيا مارڪيٽنگ، ايس اي او، پي-پر-ڪلڪ (PPC) اشتهار ۽ آن لائين مارڪيٽون.\nجسماني مارڪيٽنگ دڪان، بل بورڊ ۽ فلائر استعمال ڪري ٿي، خاص جڳهن تي (دڪان ۽ گھٽيون)؛ اهو ويجهن ماڻهن ۽ مقامي برادري تائين پهچي ٿو، پوسٽر ٺاهڻ ۽ ورهائڻ ۾ وڌيڪ خرچ ٿي سگهي ٿو، ۽ اهو ڏسڻ ڏکيو آهي ته ڪيترن ئي ماڻهن فلائر ڏٺا. مثال: واتان وات، پرنٽ اشتهار، ريڊيو ۽ ٽي وي اشتهار، بل بورڊ ۽ پوسٽر، پراڊڪٽ جا نمونا يا مفت آزمائش."
+                  }
+                ]
+              },
+              {
+                "label": "ادائيگي ۽ لين دين",
+                "items": [
+                  {
+                    "q": "لين دين ڇا آهي؟",
+                    "a": "لين دين تڏهن ٿئي ٿو جڏهن توهان ڪنهن پراڊڪٽ يا خدمت جي بدلي ۾ ڪا شيءِ، جهڙوڪ پئسا، مٽايو ٿا. اهو ٻن ڌرين وچ ۾ سامان، خدمتن يا اثاثن جي مٽاسٽا جو مجموعي عمل آهي، چونڊ کان ادائيگي ۽ رسيد تائين."
+                  },
+                  {
+                    "q": "ادائيگي ڇا آهي؟",
+                    "a": "ادائيگي ڪنهن شيءِ جي بدلي ۾ پئسا ڏيڻ جو عمل آهي، مثال طور ڪريڊٽ ڪارڊ استعمال ڪري پسارڪو سامان لاءِ 100 روپيا ادا ڪرڻ."
+                  },
+                  {
+                    "q": "ٻه روايتي ۽ ٻه جديد محفوظ لين دين جا طريقا ٻڌايو.",
+                    "a": "روايتي: نقد ادائيگي ۽ ڪريڊٽ ڪارڊ. جديد: ڊجيٽل والٽ (مثال: Easypaisa، Google Pay)، بايوميٽرڪ تصديق، ٽو-فيڪٽر آٿنٽيڪيشن (2FA) ۽ سمارٽ ڪانٽريڪٽ. (هر قسم مان ڪي به ٻه)"
+                  },
+                  {
+                    "q": "او ٽي پي ڇا آهي؟",
+                    "a": "او ٽي پي جو مطلب آهي ون-ٽائيم پاسورڊ — هڪ عارضي، منفرد ڪوڊ جيڪو توهان جي فون يا اي ميل تي موڪليو وڃي ٿو، جيڪو صرف هڪ ڀيرو استعمال ڪري سگهجي ٿو لين دين يا لاگ ان مڪمل ڪرڻ لاءِ. اهو حفاظت جي هڪ اضافي پرت شامل ڪري ٿو."
+                  }
+                ]
+              },
+              {
+                "label": "ڊجيٽل مارڪيٽنگ جا اوزار",
+                "items": [
+                  {
+                    "q": "سوشل ميڊيا مارڪيٽنگ ڇا آهي؟",
+                    "a": "سوشل ميڊيا مارڪيٽنگ Facebook، Instagram ۽ X.com جهڙا آن لائين پليٽ فارم استعمال ڪري ٿي جتي ماڻهو ڳالهائين ٿا، تصويرون شيئر ڪن ٿا ۽ پيغام پوسٽ ڪن ٿا. اهو شين ۽ خدمتن کي فروغ ڏيڻ لاءِ هڪ اهم اوزار آهي."
+                  },
+                  {
+                    "q": "مواد جي مارڪيٽنگ ڇا آهي؟",
+                    "a": "مواد جي مارڪيٽنگ مفيد يا تفريحي مواد (وڊيوز، مضمون) ٺاهڻ آهي ته جيئن ماڻهن کي متوجهه ڪري سگهجي ۽ انهن جي دلچسپي برقرار رکي سگهجي."
+                  },
+                  {
+                    "q": "اي ميل مارڪيٽنگ ڇا آهي؟",
+                    "a": "اي ميل مارڪيٽنگ ماڻهن جي انباڪس ۾ پيغام موڪلڻ آهي ته جيئن خبرون ۽ پروموشن شيئر ڪري سگهجن."
+                  },
+                  {
+                    "q": "موبائل ايپ ڇا آهي؟",
+                    "a": "موبائل ايپ فونن ۽ ٽيبليٽن لاءِ هڪ ننڍو پروگرام آهي ڳالهائڻ، سکڻ، رانديون کيڏڻ ۽ خريداري ڪرڻ لاءِ، جيڪو Google Play Store جهڙن ايپ اسٽورن تان ڊائون لوڊ ڪيو وڃي ٿو."
+                  }
+                ]
+              },
+              {
+                "label": "ايس اي او",
+                "items": [
+                  {
+                    "q": "ايس اي او ڇا آهي؟",
+                    "a": "ايس اي او جو مطلب آهي سرچ انجڻ آپٽمائيزيشن. اهو ويب سائيٽن کي ماڻهن لاءِ ڳولڻ آسان بڻائڻ جو عمل آهي جڏهن اهي سرچ انجڻ (مثال: Google) استعمال ڪري ڳولين ٿا، ته جيئن اهي مٿين نتيجن طور ظاهر ٿين."
+                  },
+                  {
+                    "q": "آن-پيج ايس اي او ڇا آهي؟ مثال ڏيو.",
+                    "a": "آن-پيج ايس اي او جو مطلب آهي سڌو توهان جي ويب سائيٽ تي ڪيل عمل، مثال: پراڊڪٽ جي پروموشن لاءِ \"Yummy Pizza\" جهڙا مناسب ڪي ورڊ استعمال ڪرڻ ۽ جلدي ڳولڻ ۾ مددگار مواد ٺاهڻ."
+                  },
+                  {
+                    "q": "آف-پيج ايس اي او ڇا آهي؟ مثال ڏيو.",
+                    "a": "آف-پيج ايس اي او جو مطلب آهي توهان جي ويب سائيٽ کان ٻاهر ڪيل عمل، مثال: ٻين ويب سائيٽن کان ان سان لنڪ حاصل ڪرڻ ۽ Facebook ۽ Instagram جهڙن سوشل ميڊيا پليٽ فارمن تي شين کي فروغ ڏيڻ."
+                  }
+                ]
+              },
+              {
+                "label": "پروجيڪٽ مئنيجمينٽ ۽ ميڊيا خواندگي",
+                "items": [
+                  {
+                    "q": "ڪاروباري منصوبابندي ۾ پروجيڪٽ مئنيجمينٽ ڇا آهي؟",
+                    "a": "پروجيڪٽ مئنيجمينٽ ڪمن کي ترتيب ڏئي ٿو ته جيئن ڪم وقت تي مڪمل ٿئي. مثال طور، \"my_unique_arts\" YouTube چينل لاءِ، ان جو مطلب آهي ڪمن جو منصوبو ٺاهڻ ۽ ترتيب ڏيڻ (فن ٺاهڻ، فلمائڻ، ايڊٽ ڪرڻ، وڊيوز اپلوڊ ڪرڻ) ۽ هر عمل لاءِ وقت مقرر ڪرڻ."
+                  },
+                  {
+                    "q": "ڪاروباري منصوبابندي ۾ ميڊيا خواندگي ڇا آهي؟",
+                    "a": "ميڊيا خواندگي ماڻهن کي سوشل ميڊيا جهڙا اوزار استعمال ڪرڻ ۾ مدد ڪري ٿي ته جيئن خيال شيئر ڪري سگهن ۽ ڪاروبار کي فروغ ڏئي سگهن. مثال طور، فن ۽ دستڪاري جي پروموشن جون وڊيوز ۽ تصويرون Instagram ۽ Facebook تي شيئر ڪرڻ ته جيئن ڪم ڏيکاري سگهجي ۽ ڏسندڙ متوجهه ٿين."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      }
+    ],
     "mathsolutions": [
       {
         "unit": 1,
@@ -196676,6 +199002,2784 @@ var STUDY = {
     ],
   },
   "vii": {
+    "csExsolutions": [
+      {
+        "unit": 1,
+        "title": "ICT Fundamentals",
+        "reading": "ICT Fundamentals",
+        "display": "ICT Fundamentals",
+        "sections": [
+          {
+            "num": "1.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Through 3D image processing we can: (a) Show Hologram (b) Move items automatically in a factory (c) Print a realistic image (d) Recognize patterns and make decisions",
+                    "a": "(a) Show Hologram ✓"
+                  },
+                  {
+                    "q": "Which of the following is a biometric identification method? (a) Using passwords (b) Using PIN codes (c) Using Face, Fingerprint and voice (d) Using security questions",
+                    "a": "(c) Using Face, Fingerprint and voice ✓"
+                  },
+                  {
+                    "q": "Which of the following is not an emerging technology? (a) Self driving car (b) Robotics (c) Banking (d) Artificial Intelligence",
+                    "a": "(c) Banking ✓"
+                  },
+                  {
+                    "q": "Which port is used to connect USB drives, mouse, printers and keyboard? (a) HDMI port (b) USB port (c) Ethernet port (d) Serial port",
+                    "a": "(b) USB port ✓"
+                  },
+                  {
+                    "q": "What is the main purpose of peripheral devices? (a) To give additional functionality (b) To store files (c) To send and receive data (d) All of the above",
+                    "a": "(a) To give additional functionality ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Devices like mouse and keyboard are refer as ______ devices.",
+                    "a": "Input devices"
+                  },
+                  {
+                    "q": "To connect a projector to a computer, the ______ port is used.",
+                    "a": "HDMI"
+                  },
+                  {
+                    "q": "______ devices are those devices that are used to give input and take output from the system unit.",
+                    "a": "Peripheral"
+                  },
+                  {
+                    "q": "USB drives, mouse, keyboards and printers can be plugged into ______.",
+                    "a": "Ports"
+                  },
+                  {
+                    "q": "The first non-commercial USB port came out in ______.",
+                    "a": "1994"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "How are emerging technologies changing the world?",
+                    "a": "Emerging technologies are new ideas that are still growing. They can solve big problems (like cleaning dirty water), make new jobs (like robot helpers) and make life better (like smart watches that tell time and health). Examples are Artificial Intelligence (AI), robots, Virtual Reality (VR) glasses and cloud storage. They can create a new industry or transform an existing one."
+                  },
+                  {
+                    "q": "How is Virtual Reality (VR) used in education?",
+                    "a": "Virtual Reality makes a virtual world that feels real when a person wears special glasses or a headset. In education it is used for learning in school: for example, Ali can walk in old Mohenjo-daro and Sara can see the streets, houses and shops from long ago, as if really there. VR is also used for training (like flying a plane), games and business meetings in a virtual room."
+                  },
+                  {
+                    "q": "How has progression in technology affected daily life?",
+                    "a": "Technology has made better and faster ways to build things, changing work, talk and learning. In communication we moved from the landline telephone invented by Alexander Graham Bell in 1876, which was only for voice calls and used wires, to mobile phones with no wires, and then to smartphones, which are like tiny computers in the hand: we can browse the web, take photos and videos, use GPS, watch videos, make video calls and use apps for shopping, learning and fun. In computing, computers passed through five generations, from huge vacuum-tube machines that filled a whole room to fast, cheap microprocessor computers in every home and school."
+                  },
+                  {
+                    "q": "Differentiate between a printer and a scanner.",
+                    "a": "A printer is an output device: it prints text and pictures on paper and makes hard copies from the computer. It connects by Wi-Fi or by a USB cable. A scanner is an input device: it uses light to copy paper things into digital files, which keeps them safe and easy to find. Common scanners are barcode scanners used in shops, optical scanners used in fax machines, and flatbed scanners used in offices for books or photos."
+                  },
+                  {
+                    "q": "Why are peripheral devices necessary?",
+                    "a": "Peripheral devices are extra helpers for the computer. They connect to the CPU, the brain of the computer, and make the computer do more things. Without them, the computer is very limited. They give the computer additional functionality: input devices put things in, output devices show things out, storage devices save things, and networking devices help it connect. A person can connect them with wires or wirelessly, like Bluetooth."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.4",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Emerging Technologies",
+                "items": [
+                  {
+                    "q": "What are emerging technologies? Give four examples.",
+                    "a": "Emerging technologies are innovations that have the potential to create a new industry or transform an existing one. Examples are Artificial Intelligence (AI), Robotics, Virtual Reality (VR) and Cloud Computing."
+                  },
+                  {
+                    "q": "What is Artificial Intelligence (AI)? Give two examples.",
+                    "a": "Artificial Intelligence helps computers think and learn like people. It lets machines understand what a person says, learn from mistakes and choose the best action. Examples are self-driving cars that drive without a person, and ChatGPT and Gemini that answer questions."
+                  },
+                  {
+                    "q": "Who first used the term Artificial Intelligence, and when? Who is known as the Father of AI?",
+                    "a": "The word Artificial Intelligence was first used by John McCarthy in 1956. He is also known as the Father of AI."
+                  },
+                  {
+                    "q": "Where are robots used? Give three examples.",
+                    "a": "Robots are used in car factories to build cars fast, in space to do simple jobs again and again, and in dangerous areas so people stay safe. A robot vacuum cleaner at home sweeps the floor by itself."
+                  },
+                  {
+                    "q": "What is biometrics? Name the four body parts used in biometrics.",
+                    "a": "Biometrics comes from two words: Bios = life and Metric = measure. It means measuring parts of the human body to know who the person is. The four body parts used are fingerprint, face, eyes (iris) and voice."
+                  },
+                  {
+                    "q": "What is Computer-Assisted Translation (CAT)? Name three famous CAT tools.",
+                    "a": "CAT is a helper tool for people who change words from one language to another. It helps write the new words, saves old translations to use again, and makes work faster. A real person still thinks and chooses the best words. Famous CAT tools are OmegaT, BasicCAT and Virtaal."
+                  },
+                  {
+                    "q": "What are holograms? Give an example.",
+                    "a": "Holograms are 3D pictures in the air. A person can walk around and see them from all sides. They use light or laser to shine and look real. Example: draw a dress on paper or computer, use a hologram app, and watch the dress float in the air."
+                  }
+                ]
+              },
+              {
+                "label": "Progression in Computing Technology",
+                "items": [
+                  {
+                    "q": "Who invented the telephone, and in which year?",
+                    "a": "Alexander Graham Bell invented the telephone in 1876."
+                  },
+                  {
+                    "q": "Name the five generations of computers and the technology used in each.",
+                    "a": "First Generation (1940-1956): vacuum tubes. Second Generation (1956-1963): transistors. Third Generation (1964-1971): Integrated Circuits (ICs). Fourth Generation (1971-now): microprocessors. Fifth Generation (still in progress): real AI in computers."
+                  },
+                  {
+                    "q": "What is a CPU? Which companies make CPUs?",
+                    "a": "CPU means Central Processing Unit. It is the brain of the computer; it does all the thinking and work. Companies like Intel and AMD make CPUs. Intel is very famous, and most laptops and desktops use Intel CPUs."
+                  },
+                  {
+                    "q": "Break down the processor name Intel Core i9-12900H.",
+                    "a": "Intel is the company, Core is the family name, i9 means super powerful, 12 means the 12th generation, and H means high speed. A 12th generation i9-H laptop is very fast."
+                  },
+                  {
+                    "q": "What is cloud computing? Give three examples of free cloud services.",
+                    "a": "Cloud computing means using the internet to get storage space, power to run apps and ready-made software, without needing big machines at home. Examples are saving photos in Google Photos, saving homework in Google Drive and saving games in OneDrive."
+                  },
+                  {
+                    "q": "What is open source software? Give three examples.",
+                    "a": "Open source software means anyone can see and change its code, without needing permission from the owner. Examples are Firefox (a free web browser), Java (helps games and apps run) and Linux (a free computer system)."
+                  }
+                ]
+              },
+              {
+                "label": "Peripheral Devices",
+                "items": [
+                  {
+                    "q": "Name the four main types of peripheral devices and give one example of each.",
+                    "a": "1. Input Devices: keyboard, mouse, webcam. 2. Output Devices: monitor, speaker, printer. 3. Storage Devices: USB drive, external hard disk. 4. Networking Devices: Wi-Fi router, modem."
+                  },
+                  {
+                    "q": "What is an input device? Name four input devices.",
+                    "a": "An input device helps to put information into the computer; it sends data or instructions. Examples are keyboard, mouse, webcam, microphone and scanner."
+                  },
+                  {
+                    "q": "Name three types of scanners and tell where each is used.",
+                    "a": "1. Barcode Scanner: used in shops to scan price tags fast. 2. Optical Scanner: used in fax machines to copy pictures and drawings. 3. Flatbed Scanner: has a lid that opens; used in offices for books or photos."
+                  },
+                  {
+                    "q": "What is an output device? Name four output devices.",
+                    "a": "An output device takes information from the computer and turns it into something a user can see or hear. Examples are monitor, printer, speakers and projector."
+                  },
+                  {
+                    "q": "What do the abbreviations CRT, LCD, LED and OLED stand for?",
+                    "a": "CRT stands for Cathode Ray Tube, LCD stands for Liquid Crystal Display, LED stands for Light Emitting Diode, and OLED stands for Organic Light Emitting Diode."
+                  },
+                  {
+                    "q": "Name three types of printers.",
+                    "a": "Laser Printer (uses a laser beam for printing; fast and cost-efficient), Inkjet Printer (sprays tiny droplets of liquid ink on paper; high-quality images) and Receipt Printer (uses heat for printing; fast, quiet and low-maintenance)."
+                  }
+                ]
+              },
+              {
+                "label": "I/O Ports",
+                "items": [
+                  {
+                    "q": "What are ports? Where are they present on a computer?",
+                    "a": "Ports are physical connection points on a computer where a user can plug in external devices. They send data from the CPU to devices and get data from devices to the CPU. They are present at the back of a desktop computer and on the side of a laptop."
+                  },
+                  {
+                    "q": "What does USB stand for? Name the four types of USB ports.",
+                    "a": "USB stands for Universal Serial Bus. The four types are Type-A (common rectangle shape), Type-B (square with curves), Type-C (small, reversible) and Micro USB (tiny, used in old phones)."
+                  },
+                  {
+                    "q": "What is an HDMI port used for?",
+                    "a": "HDMI means High-Definition Multimedia Interface. It connects a computer to a TV, monitor or projector, and sends clear video and sound using one cable. It is used to extend a laptop screen, mirror the display, and play movies or give presentations."
+                  },
+                  {
+                    "q": "What is an Ethernet port? What is it also called?",
+                    "a": "An Ethernet port, also known as an RJ45 port, is used to plug in an Ethernet cable (network cable). It connects a computer to a network or Wi-Fi router. It is more stable than Wi-Fi and usually gives faster internet."
+                  },
+                  {
+                    "q": "How is a serial port different from a parallel port?",
+                    "a": "A serial port sends data one bit at a time in order, has 9-pin or 25-pin connectors, and is also called a COM port. A parallel port sends 8 bits (one byte) at a time, is faster than a serial port, and is also called a printer port. Today, USB ports are used instead of both."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 2,
+        "title": "Digital Skills",
+        "reading": "Digital Skills",
+        "display": "Digital Skills",
+        "sections": [
+          {
+            "num": "2.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Which of the following is not a word processor? (a) MS Word (b) Google Docs (c) WPS Office (d) PowerPoint",
+                    "a": "(d) PowerPoint ✓"
+                  },
+                  {
+                    "q": "Which shortcut key is used to save a document in MS Word? (a) Ctrl + P (b) Ctrl + S (c) Ctrl + N (d) Ctrl + X",
+                    "a": "(b) Ctrl + S ✓"
+                  },
+                  {
+                    "q": "Which software is used to create slides? (a) MS PowerPoint (b) MS Word (c) MS Excel (d) Notepad",
+                    "a": "(a) MS PowerPoint ✓"
+                  },
+                  {
+                    "q": "Which is not a view format for a PowerPoint presentation? (a) Slide View (b) Outline View (c) Slide Show View (d) Presentation View",
+                    "a": "(d) Presentation View ✓"
+                  },
+                  {
+                    "q": "Which of the following is a correct email address? (a) username@domain.com (b) username domain.com (c) username#domain.com (d) username domain com",
+                    "a": "(a) username@domain.com ✓"
+                  },
+                  {
+                    "q": "Under which tab can you find Header and Footer in PowerPoint? (a) Home (b) Insert (c) Design (d) View",
+                    "a": "(b) Insert ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "The Ribbon in MS Word is divided into different sections called ______.",
+                    "a": "Tabs"
+                  },
+                  {
+                    "q": "Mistakes in the document can be checked using ______ facility.",
+                    "a": "Spelling and Grammar (spellchecker)"
+                  },
+                  {
+                    "q": "To take a duplicate of the existing file ______ facility is used.",
+                    "a": "Save As"
+                  },
+                  {
+                    "q": "______ is the shortcut key for creating a new document in MS Word.",
+                    "a": "Ctrl + N"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Define word processing.",
+                    "a": "Word processing is a computerized method of writing and managing documents. Students use word processors on computers, tablets and mobile phones to create and edit documents quickly and easily. MS Word is the most common word processor."
+                  },
+                  {
+                    "q": "Explain the difference between Save and Save As.",
+                    "a": "The Save command keeps the changes in the current file. It is used when the file has already been saved before and the student only wants to update the work; it keeps the same name and the same folder. Its shortcut is Ctrl + S. The Save As command creates a new file with the same content. It is used when the student wants to make a copy with a different name or location, or save the file in another format such as PDF or DOC. Its shortcut is Alt + F + A."
+                  },
+                  {
+                    "q": "Define a presentation.",
+                    "a": "A presentation is a series of slides that appear one after another on the screen. Each slide carries one main idea. Text, pictures, sounds and short video clips work together; these elements are called multimedia. A good presentation helps the audience follow every idea without effort."
+                  },
+                  {
+                    "q": "Explain the terms slide and layout in PowerPoint.",
+                    "a": "A slide is a single page in a presentation that holds titles, pictures, bullet points or charts. A layout is a ready design for a slide, for example Title and Content (one picture + bullets), Two Content (picture on the left, bullets on the right) or Blank (start from scratch)."
+                  },
+                  {
+                    "q": "Define the term email address, password, contact and write the uses of email address.",
+                    "a": "An Email Address is a unique ID that allows a person to send and receive emails. Its structure is username@domain.com: the username is the name of the user (for example abc123), @ is the separator that connects the username to the domain, and the domain is the service provider (for example gmail.com, yahoo.com or outlook.com). A Password is a secret combination of characters, numbers and alphabets used to secure an email account; it protects user data and ensures that only the owner can use the email. A Contact is a saved email address with details about a person or organization stored in the email account; it can include a name, email address and phone number. The use of an email address is to send and receive emails: just like regular mail needs a sender and receiver address to send a message properly, an email needs the sender's and the receiver's email addresses."
+                  },
+                  {
+                    "q": "Write down the purpose of inbox, sent, trash and spam.",
+                    "a": "Inbox: this is where all the new or received emails appear by default. Sent: this folder stores all the emails that are sent. Trash: deleted emails go to this folder; an email can be recovered from here if it was deleted by mistake. Junk/Spam: unwanted or suspicious emails are automatically moved to this folder."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.4",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "MS Word",
+                "items": [
+                  {
+                    "q": "What is Microsoft Word? Who developed it?",
+                    "a": "Microsoft Word is a word processor developed by Microsoft Corporation. It provides advanced tools to format and edit documents such as letters, stories, homework and reports. Users can change font, insert pictures, check spelling and print documents."
+                  },
+                  {
+                    "q": "Name three common word processing programs.",
+                    "a": "Microsoft Word, Google Docs and WPS Office."
+                  },
+                  {
+                    "q": "Write three uses of word processing in education.",
+                    "a": "Students type essays, assignments and projects; teachers create lesson plans, worksheets and projects; and offices use word processing for writing emails, reports and business letters."
+                  },
+                  {
+                    "q": "What is the Ribbon in MS Word? Name five tabs on the Ribbon.",
+                    "a": "The Ribbon is the large toolbar at the top of the MS Word window. It has tabs such as Home, Insert, Draw, Design and Layout. Each tab has tools that help students work with the document. The Ribbon has two parts: Groups and Command buttons."
+                  },
+                  {
+                    "q": "What are Action Tabs (Contextual Tabs) in MS Word? Give two examples.",
+                    "a": "Action Tabs appear on the Ribbon only when a specific object is selected, so they are also called Contextual Tabs because they show tools related to the selected object. Examples are Table Tools (appears when a table is inserted or selected) and Picture Tools (appears when a picture is selected)."
+                  },
+                  {
+                    "q": "What is the default file extension of MS Word?",
+                    "a": "The default file extension of MS Word is .docx."
+                  },
+                  {
+                    "q": "Write the shortcut keys for: create a new document, save, undo, redo, select all, bold, italic, underline, start spellchecker, open the print dialogue box.",
+                    "a": "Create a new document: Ctrl + N. Save: Ctrl + S. Undo: Ctrl + Z. Redo: Ctrl + Y. Select all: Ctrl + A. Bold: Ctrl + B. Italic: Ctrl + I. Underline: Ctrl + U. Start spellchecker: F7. Open the print dialogue box: Ctrl + P."
+                  },
+                  {
+                    "q": "Write the shortcut keys for cut, copy and paste, and for aligning text to the centre, left and right.",
+                    "a": "Cut: Ctrl + X. Copy: Ctrl + C. Paste: Ctrl + V. Align text to the centre: Ctrl + E. Align text to the left: Ctrl + L. Align text to the right: Ctrl + R."
+                  }
+                ]
+              },
+              {
+                "label": "MS PowerPoint",
+                "items": [
+                  {
+                    "q": "What is multimedia? Give four examples.",
+                    "a": "Multimedia means text, pictures, sounds and short video clips working together in a presentation. Text states the facts, pictures show the meaning at a glance, sounds keep attention alive, and videos bring real examples to the classroom."
+                  },
+                  {
+                    "q": "Name five programs that are widely used to create presentations.",
+                    "a": "Microsoft PowerPoint, Google Slides, Apple Keynote, Prezi and Canva."
+                  },
+                  {
+                    "q": "Write four main features of Microsoft PowerPoint.",
+                    "a": "Slides: individual pages that build the show. Layouts: ready designs for titles, pictures or charts. Themes: sets of colours and fonts that give a neat look. Transitions: smooth changes from one slide to the next. Animations: gentle movements that make objects appear."
+                  },
+                  {
+                    "q": "Name the three areas of the PowerPoint window.",
+                    "a": "1. Ribbon: rows of tabs at the top. 2. Slide Pane: the big white slide in the centre. 3. Thumbnail Pane: small pictures of every slide on the left."
+                  },
+                  {
+                    "q": "Write three methods to insert a new slide in PowerPoint.",
+                    "a": "Method 1: Home tab, then New Slide, then pick a layout. Method 2: Press Ctrl + M (the fastest way). Method 3: Right-click any thumbnail on the left pane, then New Slide."
+                  },
+                  {
+                    "q": "What is a hyperlink in PowerPoint? What are its two kinds?",
+                    "a": "A hyperlink is a clickable text, shape, image or object that moves the screen to another location. Its two kinds are Internal (jumps inside the same presentation) and External (opens a webpage on the internet)."
+                  },
+                  {
+                    "q": "How do you make a picture appear on click in PowerPoint?",
+                    "a": "Insert the picture, click it once, go to the Animations tab and choose an entrance effect such as Fade or Fly In. Then open the Animation Pane, click the picture in the list, and in the Start box change With Previous to On Click."
+                  },
+                  {
+                    "q": "What are Speaker Notes? How can you see them while presenting?",
+                    "a": "Speaker Notes are private reminders that only the presenter sees; they sit below each slide and never appear to the audience. To see them while presenting, connect the laptop to the projector, press F5, and on the laptop screen choose Use Presenter View: the projector shows the big slide while the laptop shows the slide, the Speaker Notes and a timer."
+                  }
+                ]
+              },
+              {
+                "label": "Email",
+                "items": [
+                  {
+                    "q": "What is email?",
+                    "a": "Email (electronic mail) is a fast and easy way to communicate over the Internet. A person can use a computer, tablet or phone to write messages and attach files such as documents, pictures, audio or videos."
+                  },
+                  {
+                    "q": "What is an email platform? Give two examples of email service providers.",
+                    "a": "An email platform is a program, web-based service or app that allows a person to send, receive and manage emails. Examples of service providers (domains) are gmail.com, yahoo.com and outlook.com."
+                  },
+                  {
+                    "q": "What are the parts of an email address? Explain with an example.",
+                    "a": "An email address has three parts: username, @ and domain. In aliraza@gmail.com, aliraza is the username, @ is the separator that connects the username to the domain, and gmail.com is the domain (the service provider)."
+                  },
+                  {
+                    "q": "What makes a strong password? Give one example from the book.",
+                    "a": "A strong password uses a mix of letters, numbers and symbols such as @, # and $. For example, the book gives the password 2014@12Sun! Never share a password with anyone."
+                  },
+                  {
+                    "q": "Write the steps to sign in to Gmail.",
+                    "a": "1. Open the browser and go to www.gmail.com. 2. Type the email address (for example aliraza@gmail.com) and click Next. 3. Type the password carefully and click Next. 4. You are signed in and can now see the inbox, where you can read, write and manage emails."
+                  },
+                  {
+                    "q": "What is the difference between Cc and Bcc?",
+                    "a": "Cc (Carbon Copy) is for people who need to be informed about the email. Bcc (Blind Copy) is for privacy: the other recipients will not see who is in Bcc."
+                  },
+                  {
+                    "q": "What are labels in Gmail? How do you create a new label?",
+                    "a": "Labels help to organize, group and filter emails without moving them from the inbox; a single email can have multiple labels. To create a new label: open Gmail, scroll down the left sidebar, click + on the Labels option or More, then Create new label, type the name (for example Assignments, Projects or Family) and click Create."
+                  },
+                  {
+                    "q": "Write the steps to compose and send an email in Gmail.",
+                    "a": "1. Go to Gmail.com and log in with username and password. 2. Click the Compose button; a new message window appears at the bottom-right. 3. In the To field type the main recipient's address; use Cc or Bcc for other recipients. 4. Type the Subject line. 5. Type the message in the body, and attach files with the paper clip icon if needed. 6. Click Send."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 3,
+        "title": "Algorithmic Thinking and Problem Solving",
+        "reading": "Algorithmic Thinking and Problem Solving",
+        "display": "Algorithmic Thinking and Problem Solving",
+        "sections": [
+          {
+            "num": "3.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Which of the following is not a part of computational thinking? (a) Guesswork (b) Decomposition (c) Abstraction (d) Logical Thinking",
+                    "a": "(a) Guesswork ✓"
+                  },
+                  {
+                    "q": "Which of the following is not a valid age? (a) 12 (b) -5 (c) 30 (d) 18",
+                    "a": "(b) -5 ✓"
+                  },
+                  {
+                    "q": "Which of the following is an example of decomposition? (a) Solving the puzzle all at once (b) Breaking puzzle into corners and edges (c) Coloring the puzzle (d) Looking at the puzzle picture",
+                    "a": "(b) Breaking puzzle into corners and edges ✓"
+                  },
+                  {
+                    "q": "Which symbol is used to show the Start or End of a flowchart?? (a) Rectangle (b) Diamond (c) Oval (d) Circle",
+                    "a": "(c) Oval ✓"
+                  },
+                  {
+                    "q": "Why it is important to test an algorithm with correct and incorrect data? (a) To make algorithm longer (b) To make a guess what might happen (c) To make sure algorithm produces right results in all cases (d) To make fun",
+                    "a": "(c) To make sure algorithm produces right results in all cases ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "To represent a process in a flowchart ______ symbol is used.",
+                    "a": "Rectangle"
+                  },
+                  {
+                    "q": "There are ______ types of loops.",
+                    "a": "two (Finite and Infinite)"
+                  },
+                  {
+                    "q": "______ is the process of organizing a plan where tasks are organized in clear step-by-step order.",
+                    "a": "Logical thinking"
+                  },
+                  {
+                    "q": "There can be ______ ways to solve a problem.",
+                    "a": "more than one"
+                  },
+                  {
+                    "q": "______ statement allows to check for multiple conditions.",
+                    "a": "If-ElseIf-Else"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Define algorithm.",
+                    "a": "An algorithm is a step-by-step plan to solve a problem. It is a well-defined and finite sequence of instructions to solve a problem or perform a specific task. Everyday examples are following a cake recipe and solving a maths problem step by step."
+                  },
+                  {
+                    "q": "Define flowchart.",
+                    "a": "A flowchart is a graphical representation of an algorithm. It uses symbols such as the Oval for Start/End (Terminator), the Parallelogram for Input/Output, the Rectangle for a Process/Action, the Diamond for a Decision, and Arrows (Flowlines) to show the flow of steps."
+                  },
+                  {
+                    "q": "What are the key steps in computational thinking?",
+                    "a": "The important skills of computational thinking are: 1. Decomposition: breaking a big or complex problem into smaller manageable parts. 2. Abstraction: ignoring irrelevant information and focusing only on the important details of a problem. 3. Logical Thinking: creating a clear and organized plan of what to do, and in what order. 4. Decision Making: selecting the best solution among different options, and making smart and good decisions in the presence of challenging situations."
+                  },
+                  {
+                    "q": "What is an algorithm? How does it differ from a flowchart?",
+                    "a": "An algorithm is a step-by-step plan to solve a problem: a well-defined and finite sequence of instructions written in words. A flowchart is the graphical representation of that same algorithm: it draws the steps with symbols (Oval, Parallelogram, Rectangle, Diamond and Arrows) so the logic can be seen at a glance. In short, an algorithm is written in steps, while a flowchart shows those steps as a picture."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.4",
+            "name": "Draw Flowcharts",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Draw a flowchart to find the largest of two numbers.",
+                    "a": "Start (Oval)\nInput the first number and the second number (Parallelogram)\nIs the first number greater than the second number? (Diamond)\nYes: Print the first number is the largest\nNo: Print the second number is the largest\nStop (Oval)"
+                  },
+                  {
+                    "q": "Draw a flowchart to find the sum of the first 10 natural numbers.",
+                    "a": "Start (Oval)\nSet Sum = 0 and Counter = 1 (Rectangle)\nIs Counter <= 10? (Diamond)\nYes: Set Sum = Sum + Counter, then set Counter = Counter + 1, and go back to check Counter <= 10\nNo: Print Sum\nStop (Oval)"
+                  },
+                  {
+                    "q": "Draw a flowchart to find the factorial of a number.",
+                    "a": "Start (Oval)\nInput the number N (Parallelogram)\nSet Factorial = 1 and Counter = 1 (Rectangle)\nIs Counter <= N? (Diamond)\nYes: Set Factorial = Factorial x Counter, then set Counter = Counter + 1, and go back to check Counter <= N\nNo: Print Factorial\nStop (Oval)"
+                  },
+                  {
+                    "q": "Draw a flowchart to print numbers from 1 to 100.",
+                    "a": "Start (Oval)\nSet Counter = 1 (Rectangle)\nPrint Counter (Parallelogram)\nSet Counter = Counter + 1 (Rectangle)\nIs Counter <= 100? (Diamond)\nYes: Go back and print Counter again\nNo: Stop (Oval)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.5",
+            "name": "Write Algorithms",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Write an algorithm to add two numbers.",
+                    "a": "Step 1: Start\nStep 2: Input the first number\nStep 3: Input the second number\nStep 4: Add the two numbers: Sum = First Number + Second Number\nStep 5: Print the Sum\nStep 6: Stop"
+                  },
+                  {
+                    "q": "Write an algorithm to calculate the average of five numbers.",
+                    "a": "Step 1: Start\nStep 2: Input the five numbers\nStep 3: Add all five numbers: Total = Number 1 + Number 2 + Number 3 + Number 4 + Number 5\nStep 4: Divide the Total by 5: Average = Total / 5\nStep 5: Print the Average\nStep 6: Stop"
+                  },
+                  {
+                    "q": "Write an algorithm to find the area of a rectangle.",
+                    "a": "Step 1: Start\nStep 2: Input the Length of the rectangle\nStep 3: Input the Width of the rectangle\nStep 4: Calculate the Area: Area = Length x Width\nStep 5: Print the Area\nStep 6: Stop"
+                  },
+                  {
+                    "q": "Write an algorithm to check whether a number is even or odd.",
+                    "a": "Step 1: Start\nStep 2: Input the number\nStep 3: Divide the number by 2\nStep 4: If the remainder = 0, print the number is Even\nStep 5: Else, print the number is Odd\nStep 6: Stop"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.6",
+            "name": "Class Activity",
+            "exercises": [
+              {
+                "label": "Class Activity",
+                "items": [
+                  {
+                    "q": "Consider the following algorithm to calculate total tax, a customer must pay overall for buying the following two products: mouse and keyboard where a sales tax of 10% is applied to each product. Draw a flowchart to represent the given algorithm. Algorithm: Step-1: Input price of mouse, P1. Step-2: Input price of keyboard, P2. Step-3: Calculate tax on buying mouse, Tax1 = P1 x 0.10. Step-4: Calculate tax on buying keyboard, Tax2 = P2 x 0.10. Step-5: Calculate total tax, Total Tax = Tax1 + Tax2. Step-6: Print Total Tax. Step-7: End.",
+                    "a": "Start (Oval)\nInput price of mouse, P1 (Parallelogram)\nInput price of keyboard, P2 (Parallelogram)\nCalculate tax on mouse: Tax1 = P1 x 0.10 (Rectangle)\nCalculate tax on keyboard: Tax2 = P2 x 0.10 (Rectangle)\nCalculate total tax: Total Tax = Tax1 + Tax2 (Rectangle)\nPrint Total Tax (Parallelogram)\nEnd (Oval)"
+                  },
+                  {
+                    "q": "Identify which of the following tasks represent Finite/Infinite loop. Write Finite or Infinite in the last column. Tasks: 1. Print Hello 5 times. 2. Keep printing until user says stop. 3. Print numbers from 1 to 10. 4. Turn LED ON and OFF again and again. 5. Water plants when soil is dry, every hour. 6. Check temperature every 5 seconds. 7. Add numbers from 1 to 100. 8. Print Long Live Pakistan 3 times. 9. Read the sensor again and again until the light turns on. 10. Count from 1 to 20.",
+                    "a": "[[T]]Task|Type of Loop (Finite/Infinite);;1. Print \"Hello\" 5 times|Finite;;2. Keep printing until user says stop|Infinite;;3. Print numbers from 1 to 10|Finite;;4. Turn LED ON and OFF again and again|Infinite;;5. Water plants when soil is dry, every hour|Infinite;;6. Check temperature every 5 seconds|Infinite;;7. Add numbers from 1 to 100|Finite;;8. Print \"Long Live Pakistan\" 3 times|Finite;;9. Read the sensor again and again until the light turns on|Finite;;10. Count from 1 to 20|Finite[[/T]]"
+                  },
+                  {
+                    "q": "Identify the type of condition in the following scenarios. Tasks: 1. Marks >= 50 then Pass else Fail. 2. Marks > 80 then A, Marks > 60 then B, Marks > 50 then C, else Fail. 3. Temperature > 40 then Hot, Temperature < 10 then Cold, else Moderate. 4. Age >= 18 then Adult, else Minor. 5. Number is even or odd. 6. Is it raining? 7. Is the light ON or OFF? 8. Is the password correct? 9. Is the battery low? 10. Is the door open or closed?",
+                    "a": "[[T]]Task|Type of Condition;;1. Marks >= 50 then Pass, else Fail|If-Else;;2. Marks > 80 then A, Marks > 60 then B, Marks > 50 then C, else Fail|If-ElseIf-Else;;3. Temperature > 40 then Hot, Temperature < 10 then Cold, else Moderate|If-ElseIf-Else;;4. Age >= 18 then Adult, else Minor|If-Else;;5. Number is even or odd|If-Else;;6. Is it raining?|If;;7. Is the light ON or OFF?|If-Else;;8. Is the password correct?|If-Else;;9. Is the battery low?|If;;10. Is the door open or closed?|If-Else[[/T]]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.7",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Computational Thinking",
+                "items": [
+                  {
+                    "q": "What is computational thinking?",
+                    "a": "Computational thinking helps to solve big problems step by step, like a computer. Its key steps are: break it down (split big problems into small parts), ignore extras (remove things that do not matter) and plan clearly (make a smart step-by-step solution)."
+                  },
+                  {
+                    "q": "What is a complex problem? Give two examples.",
+                    "a": "Complex problems are those which have many parts, require smart thinking, and can be solved in more than one way. Examples are finding the shortest path to school during traffic, and planning a study schedule for exams."
+                  },
+                  {
+                    "q": "What is decomposition? Give an example.",
+                    "a": "Decomposition means to break down a problem into smaller manageable parts. For example, to organize an event like Clean and Green Pakistan Day, the smaller tasks are: prepare a task list, register volunteers for each task, prepare a list of equipment, choose team leads, and set the day and time of each event."
+                  },
+                  {
+                    "q": "What is abstraction? Give one example of an important detail and one of an irrelevant detail.",
+                    "a": "Abstraction ignores irrelevant information and focuses only on the important details of a problem to be solved. For example, for the Clean and Green Pakistan Day event, the number of volunteers is an important detail to keep, while the colour of their shirts is an irrelevant detail to ignore. Abstraction helps to save time, keep the plan simple and finish the task quickly."
+                  },
+                  {
+                    "q": "What is logical thinking?",
+                    "a": "Logical thinking is the creation of a clear and organized plan of what to do, and in what order. For example, for Clean and Green Pakistan Day: 1. Get permission from the principal. 2. Make volunteer groups (Cleaning, Planting, Awareness). 3. Arrange materials. 4. Set the date and time."
+                  },
+                  {
+                    "q": "What is decision making? Give an example.",
+                    "a": "Decision making is a process of making smart and good decisions in the presence of challenging situations. For example, for Clean and Green Pakistan Day: if the budget is low, choose cheap plants like local seeds; if few volunteers come, join two groups into one; if rain is coming, move the event inside or pick a new date."
+                  },
+                  {
+                    "q": "Write the five steps of computational thinking for the Clean and Green Pakistan Day event.",
+                    "a": "1. Understand the Problem: what needs to happen, who joins, when and where. 2. Break It Down: split into parts such as planning, cleaning, planting and awareness. 3. Find Patterns: reuse ideas, like group teams for all tasks. 4. Ignore Extras: skip things not needed, like fancy decorations. 5. Make a Plan: step by step, invite people, get tools, do the event and check results."
+                  }
+                ]
+              },
+              {
+                "label": "Algorithms",
+                "items": [
+                  {
+                    "q": "What is an algorithm? Give two everyday examples.",
+                    "a": "An algorithm is a step-by-step plan to solve a problem: a well-defined and finite sequence of instructions to solve a problem or perform a specific task. Everyday examples are following a cake recipe and solving a maths problem step by step."
+                  },
+                  {
+                    "q": "A customer buys a mouse at Rs. 500, a keyboard at Rs. 1200 and a watch at Rs. 800. Write the algorithm to find the total amount and give the answer.",
+                    "a": "Step 1: Start. Step 2: Write price of mouse = 500. Step 3: Write price of keyboard = 1200. Step 4: Write price of watch = 800. Step 5: Add all prices: 500 + 1200 + 800. Step 6: Total = 2500. Step 7: Stop. Total Amount: the customer pays Rs. 2500."
+                  },
+                  {
+                    "q": "Write the five rules for clear algorithm instructions.",
+                    "a": "1. Use simple words: say pick red brick, not select crimson piece. 2. Give one step at a time: do not mix actions. 3. Be exact: say place 2 wheels on the left side, not add some wheels. 4. List steps in order: Step 1, Step 2, Step 3. 5. Check the result: make sure the car moves and has 4 wheels. The book also gives two more rules: Rule-1, Be Specific and Do Not Guess (computers cannot guess), and Rule-2, Break Down the Instructions into Smaller Steps."
+                  },
+                  {
+                    "q": "Why should instructions be broken down into smaller steps? Give an example.",
+                    "a": "A computer follows only what a person tells it; it cannot guess. A big instruction like build a car is too big, so it must be broken into small easy steps, for example: take one 5x10 grey base plate, take four black 3x3 wheel bases, attach one wheel base to each corner of the base plate, and so on."
+                  },
+                  {
+                    "q": "Give three different algorithms to check if a number is even or odd.",
+                    "a": "Algorithm 1: Using Division: take the number, divide by 2; if the remainder = 0 it is Even, else it is Odd. Algorithm 2: Using Last Digit: look at the last digit; if it is 0, 2, 4, 6 or 8 it is Even, else it is Odd. Algorithm 3: Using Bit Check: look at the least significant bit (LSB); if LSB = 0 it is Even, if LSB = 1 it is Odd."
+                  },
+                  {
+                    "q": "Check the number 15 by all three even/odd algorithms. What is the answer?",
+                    "a": "Algorithm 1: 15 / 2 = 7, remainder 1, so Odd. Algorithm 2: last digit is 5, so Odd. Algorithm 3: 15 in binary is 1111, LSB = 1, so Odd. Final answer: Odd."
+                  },
+                  {
+                    "q": "What is validation of an algorithm? What are correct data and incorrect data?",
+                    "a": "Validation is a process of checking if an algorithm really works as expected: test if it gives correct results, try it with different inputs, and see if the output is right. If it is wrong, fix the steps. Correct data are normal inputs the algorithm should handle, for example Age = 12 or Name = Ali. Incorrect data are wrong or extreme inputs, for example Age = -5 or Name = (empty)."
+                  }
+                ]
+              },
+              {
+                "label": "Flowcharts and Loops",
+                "items": [
+                  {
+                    "q": "What is a flowchart? Name the five flowchart symbols and what each is used for.",
+                    "a": "A flowchart is a graphical representation of an algorithm. The symbols are: Oval (Terminator): used for Start and End. Parallelogram (Input/Output): used for input and output. Rectangle (Process/Action): used for a process or action. Diamond (Decision): used for a decision or condition. Arrow (Flowline): shows the flow of steps."
+                  },
+                  {
+                    "q": "Which flowchart symbol is used for a decision? Which is used for input or output?",
+                    "a": "The Diamond is used for a decision (for example, If Marks >= 50). The Parallelogram is used for input and output (for example, Print Input Marks of a Subject)."
+                  },
+                  {
+                    "q": "Draw (describe) a flowchart to check if a student has passed or failed.",
+                    "a": "Start (Oval)\nPrint Input Marks of a Subject, then input Marks (Parallelogram)\nIf Marks >= 50 (Diamond)\nYes: Print You are Pass\nNo: Print You are Fail\nStop (Oval)"
+                  },
+                  {
+                    "q": "Describe a flowchart that gives grades A, B, C or Fail from marks.",
+                    "a": "Start (Oval)\nPrint Input Marks of a Subject, then input Marks (Parallelogram)\nIf Marks > 80 (Diamond): Yes: Print Grade A\nElse if Marks > 60: Yes: Print Grade B\nElse if Marks > 50: Yes: Print Grade C\nElse: Print You are Fail\nStop (Oval)"
+                  },
+                  {
+                    "q": "What are the two types of loops?",
+                    "a": "The two types of loops are Finite Loop (a loop that runs a fixed number of times and then stops) and Infinite Loop (a loop that repeats again and again without stopping)."
+                  },
+                  {
+                    "q": "Give an example of a finite loop from the book.",
+                    "a": "Print even numbers from 2 to 10: Start, set Counter = 2, check Is Counter <= 10, print Counter, set Counter = Counter + 2, and repeat until Counter is more than 10. Another example is printing Long Live Pakistan 3 times: set Counter = 1, print Long Live Pakistan, set Counter = Counter + 1, and repeat while Counter <= 3."
+                  },
+                  {
+                    "q": "Give an example of an infinite loop from the book.",
+                    "a": "Turning an LED ON and OFF again and again: Start, turn LED ON, wait for 1 second, turn LED OFF, wait for 1 second, and repeat forever. Another example is reading a temperature sensor every 5 seconds while the condition is true."
+                  },
+                  {
+                    "q": "Write the algorithm for the robot that waters only the dry plants.",
+                    "a": "Step 1: Start at the first plant. Step 2: Check the moisture sensor. Step 3: If moisture is low, pour water. Step 4: If moisture is normal, skip. Step 5: Move to the next plant. Step 6: Repeat until the last plant. Step 7: Stop."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 4,
+        "title": "Programming",
+        "reading": "Programming",
+        "display": "Programming",
+        "sections": [
+          {
+            "num": "4.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "What is the binary equivalent of the decimal number 20? (a) 10101 (b) 10100 (c) 10010 (d) 11000",
+                    "a": "(b) 10100 ✓"
+                  },
+                  {
+                    "q": "In Scratch, the move 10 steps block is present in which category? (a) Looks (b) Motion (c) Sound (d) Events",
+                    "a": "(b) Motion ✓"
+                  },
+                  {
+                    "q": "Which of the following is not a binary number? (a) 1010 (b) 1101 (c) 11E (d) 1001",
+                    "a": "(c) 11E ✓"
+                  },
+                  {
+                    "q": "Refer to the following image: [Scratch script: when green flag clicked, go to x: 0 y: 0, repeat until x position > -10, move 10 steps, stop all; Cat sprite on the stage] Which of the following options can make sprite Cat move to (10,0)? (a) Click Green Flag (b) Click on Cat (c) stop all block (d) move 10 steps block",
+                    "a": "(a) Click Green Flag ✓"
+                  },
+                  {
+                    "q": "______ is center coordinate of XY plane (a) X=0, Y=0 (b) X=0, Y=180 (c) X=-240, Y=0 (d) X=0, Y=-240",
+                    "a": "(a) X=0, Y=0 ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.2",
+            "name": "Short Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "How information is stored on computer?",
+                    "a": "Information is stored on a computer in binary form: the computer only understands 0 and 1. Every letter, number, picture and sound is changed into binary (0s and 1s) before the computer can store it and work with it."
+                  },
+                  {
+                    "q": "Differentiate between binary and decimal number system.",
+                    "a": "[[T]]Binary Number System|Decimal Number System;;It has base 2.|It has base 10.;;It uses only two digits: 0 and 1.|It uses ten digits: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9.;;Example: (1010)2 = 10 in decimal.|Example: (25)10 = 11001 in binary.;;Computers use the binary system to store information.|People use the decimal system in daily life.[[/T]]"
+                  },
+                  {
+                    "q": "How many types of blocks palettes are there in Scratch programming?",
+                    "a": "There are 9 types of block palettes (categories) in Scratch: Motion, Looks, Sound, Events, Control, Sensing, Operators, Variables and My Blocks."
+                  },
+                  {
+                    "q": "Define Events in Scratch and give some examples.",
+                    "a": "An event in Scratch is something that happens and makes a script start running. Examples are: when green flag clicked, when space key pressed, when this sprite clicked, when backdrop switches to backdrop1, when loudness > 10, and when I receive message 1."
+                  },
+                  {
+                    "q": "Define following terms: i) Sprite ii) Stage iii) Costume iv) Variable",
+                    "a": "i) Sprite: A sprite in Scratch is an object or character that performs actions in a project, for example the Cat or the Chick.\nii) Stage: The stage is the background area where the sprites act and the program runs; it is the white area on the right side of the Scratch screen.\niii) Costume: A costume is the appearance or outfit of a sprite. Costumes are used to design or edit how a sprite looks, for example Chick, Egg and Egg2 are costumes of one sprite; the switch costume block changes how the sprite looks.\niv) Variable: A variable is a named storage box that holds a value which can change while the program runs, for example Score, Timer and Finish in the Chick game; a new variable is made with Make a Variable."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.3",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "The base value in binary number system is ______.",
+                    "a": "2"
+                  },
+                  {
+                    "q": "The binary equivalent of decimal number 10 is ______.",
+                    "a": "1010"
+                  },
+                  {
+                    "q": "______ is decimal value of binary equivalent 10101.",
+                    "a": "21"
+                  },
+                  {
+                    "q": "Computer only understands ______ and ______.",
+                    "a": "0 and 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.4",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Number Systems",
+                "items": [
+                  {
+                    "q": "Name the four number systems in the book and give the base of each.",
+                    "a": "Decimal Number System: base 10. Binary Number System: base 2. Octal Number System: base 8. Hexadecimal Number System: base 16."
+                  },
+                  {
+                    "q": "Which digits are used in the decimal, binary, octal and hexadecimal number systems?",
+                    "a": "Decimal uses 0-9. Binary uses 0-1. Octal uses 0-7. Hexadecimal uses 0-9 and A-F."
+                  },
+                  {
+                    "q": "Convert the decimal number 15 into binary.",
+                    "a": "Divide by 2 again and again and write the remainders: 15 / 2 = 7 remainder 1; 7 / 2 = 3 remainder 1; 3 / 2 = 1 remainder 1; 1 / 2 = 0 remainder 1. Read the remainders from bottom to top: (15)10 = (1111)2."
+                  },
+                  {
+                    "q": "Convert the decimal number 25 into binary.",
+                    "a": "Divide by 2 again and again: 25 / 2 = 12 remainder 1; 12 / 2 = 6 remainder 0; 6 / 2 = 3 remainder 0; 3 / 2 = 1 remainder 1; 1 / 2 = 0 remainder 1. Read up: (25)10 = (11001)2."
+                  },
+                  {
+                    "q": "Convert the decimal number 31 into binary.",
+                    "a": "Divide by 2 again and again: 31 / 2 = 15 remainder 1; 15 / 2 = 7 remainder 1; 7 / 2 = 3 remainder 1; 3 / 2 = 1 remainder 1; 1 / 2 = 0 remainder 1. Read up: (31)10 = (11111)2."
+                  },
+                  {
+                    "q": "What is the decimal value of the binary number 11001?",
+                    "a": "11001 = 1x16 + 1x8 + 0x4 + 0x2 + 1x1 = 16 + 8 + 0 + 0 + 1 = 25. So (11001)2 = (25)10."
+                  },
+                  {
+                    "q": "In the decimal number 4872, what is the place value of each digit?",
+                    "a": "2 is in the Ones place, 7 is in the Tens place, 8 is in the Hundreds place, and 4 is in the Thousands place."
+                  },
+                  {
+                    "q": "What is the binary equivalent of the decimal number 20? Show the working.",
+                    "a": "20 / 2 = 10 remainder 0; 10 / 2 = 5 remainder 0; 5 / 2 = 2 remainder 1; 2 / 2 = 1 remainder 0; 1 / 2 = 0 remainder 1. Read the remainders from bottom to top: (20)10 = (10100)2."
+                  }
+                ]
+              },
+              {
+                "label": "ASCII and Binary Encoding",
+                "items": [
+                  {
+                    "q": "What is ASCII? What is it used for?",
+                    "a": "ASCII is a code that gives every letter and character a number, which is then written in binary so the computer can store text. It is used for encoding and decoding text in binary."
+                  },
+                  {
+                    "q": "What are the ASCII codes of the letters A and a? Give their binary values.",
+                    "a": "The ASCII code of A is 065, and its binary value is 01000001. The ASCII code of a is 097, and its binary value is 01100001."
+                  },
+                  {
+                    "q": "What are the ASCII codes of the letters B, C, Z and z?",
+                    "a": "B is 066, C is 067, Z is 090 and z is 122."
+                  },
+                  {
+                    "q": "Encode the word CAT in binary using the ASCII table.",
+                    "a": "C has ASCII code 067, binary 01000011. A has ASCII code 065, binary 01000001. T has ASCII code 084, binary 01010100. So CAT in binary is 01000011 01000001 01010100."
+                  },
+                  {
+                    "q": "Decode the binary value 01001000 01100101 01101100 01101100 01101111.",
+                    "a": "01001000 = H (072), 01100101 = e (101), 01101100 = l (108), 01101100 = l (108), 01101111 = o (111). The word is Hello."
+                  },
+                  {
+                    "q": "How is an image encoded in binary?",
+                    "a": "An image is encoded in binary by dividing it into tiny squares called pixels. Each pixel is given a binary value: in a black and white image, 1 stands for a black pixel and 0 stands for a white pixel, so the whole picture becomes a pattern of 0s and 1s."
+                  }
+                ]
+              },
+              {
+                "label": "Scratch Programming",
+                "items": [
+                  {
+                    "q": "What is Scratch? What is a script in Scratch?",
+                    "a": "Scratch is a visual programming tool in which programs are made by joining blocks together. A script is a set of blocks joined together that tells a sprite what to do, for example: when green flag clicked, go to x: 0 y: 0, then move 10 steps."
+                  },
+                  {
+                    "q": "Name the areas of the Scratch screen.",
+                    "a": "The Scratch screen has the Code Palette (where the blocks are), the Script Area (where blocks are joined into scripts), the Stage Area (where the sprites act), and the Sprite Info Area (which shows the sprite's name, position, size and direction)."
+                  },
+                  {
+                    "q": "What does the block go to x: 0 y: 0 do?",
+                    "a": "The go to x: 0 y: 0 block moves the sprite to the centre of the stage, where X = 0 and Y = 0."
+                  },
+                  {
+                    "q": "What does the block glide 1 secs to x: 0 y: 0 do?",
+                    "a": "The glide block moves the sprite smoothly to the given x and y position in the given time, for example it glides in 1 second to x: 0 y: 0."
+                  },
+                  {
+                    "q": "What does the block if on edge, bounce do?",
+                    "a": "The if on edge, bounce block checks the position of the sprite: if the sprite reaches the wall (the edge of the stage), it turns back and changes its direction, so the sprite keeps moving inside the stage."
+                  },
+                  {
+                    "q": "What is the difference between a forever loop and a repeat until loop?",
+                    "a": "A forever loop repeats the blocks inside it again and again without stopping, for example forever move 10 steps. A repeat until loop repeats the blocks inside it until a condition becomes true, for example repeat until Timer = 60, then it stops."
+                  },
+                  {
+                    "q": "In the Chick game, what are the three variables? What does each one do?",
+                    "a": "The three variables are Score, Timer and Finish. Score counts the points the player gets when the chick touches an egg. Timer counts the seconds of the game, up to 60. Finish tells whether the game is over: when Timer = 60, Finish is set to finish and the game says Time is Over!"
+                  },
+                  {
+                    "q": "What does the stop all block do in Scratch?",
+                    "a": "The stop all block stops all the scripts in the whole program at once, so every sprite stops moving and the game ends."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 5,
+        "title": "Digital Citizenship",
+        "reading": "Digital Citizenship",
+        "display": "Digital Citizenship",
+        "sections": [
+          {
+            "num": "5.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Which of the following refers to the rules for being polite and respectful online? (a) Netiquettes (b) Cyber Bullying (c) Digital citizenship (d) Being a Digital Citizen",
+                    "a": "(a) Netiquettes ✓"
+                  },
+                  {
+                    "q": "What is it called when someone repeatedly watches, messages, or follows another person online in a way that feels scary or makes them uncomfortable? (a) Cyberstalking (b) Phishing (c) Hacking (d) Spam",
+                    "a": "(a) Cyberstalking ✓"
+                  },
+                  {
+                    "q": "How can you protect your personal information online? (a) Share it with friends (b) Post it on social media (c) Never share personal information with strangers (d) Save it in your phone notes",
+                    "a": "(c) Never share personal information with strangers ✓"
+                  },
+                  {
+                    "q": "What is phishing? (a) Sending a fake message to trick someone into sharing their password (b) Sending a funny video to a friend (c) Sharing photos on social media (d) Downloading a game",
+                    "a": "(a) Sending a fake message to trick someone into sharing their password ✓"
+                  },
+                  {
+                    "q": "What is a harmful program that can damage your computer? (a) Virus (b) Malware (c) Firewall (d) Antivirus",
+                    "a": "(b) Malware ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Respecting others' opinions is an example of ______ behavior online.",
+                    "a": "appropriate"
+                  },
+                  {
+                    "q": "______ software helps protect a device from viruses.",
+                    "a": "Antivirus"
+                  },
+                  {
+                    "q": "Sending ______ messages to a classmate on a game chat is an example of cyberbullying.",
+                    "a": "mean"
+                  },
+                  {
+                    "q": "Spreading ______ about someone is an example of inappropriate online behavior.",
+                    "a": "rumors"
+                  },
+                  {
+                    "q": "Downloading ______ software is an example of improper use of computer resources.",
+                    "a": "pirated"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "What is a digital environment?",
+                    "a": "A digital environment is a space where people use devices like computers and mobile phones to connect with each other. It is the online world you enter when you use a computer, phone or tablet to connect to the internet. While using it, some people behave appropriately and some do not, so we must know the right way to behave."
+                  },
+                  {
+                    "q": "Explain any two types of cyberbullying with examples.",
+                    "a": "1. Harassment: repeatedly sending mean, insulting or threatening messages to someone online. Example: sending messages like You are stupid! I hate you! You are a looser! again and again. The victim feels very sad and may lose self-confidence. 2. Cyberstalking: repeatedly watching, messaging or following another person online in a way that feels scary or makes them uncomfortable. Example: a girl keeps checking her classmate's posts, sends messages every day and follows her in all online games, even after being asked to stop."
+                  },
+                  {
+                    "q": "What are netiquettes and why are they important?",
+                    "a": "Netiquette is a combination of the words network and etiquette. It means showing courtesy and politeness when communicating and interacting with others while using the Internet and social media apps like WhatsApp, Facebook, Instagram, Snapchat, Twitter (X) and TikTok. It is important because it helps us stay kind and respectful even when chatting or posting online, reminds us to think before typing so we do not accidentally hurt someone's feelings, teaches us to respect each other's personal information and privacy, and helps us make good friends online and enjoy safe, fun experiences."
+                  },
+                  {
+                    "q": "What is bias and how can it affect us?",
+                    "a": "Bias is when information online is unfair and only shows one side of a story. Examples: on Instagram someone may post only happy moments and hide sad ones; on Facebook a post may support one person in a fight without showing the full story; on X (Twitter) a message may blame someone without proof; and news channels may talk only about one side of an event. Bias can affect us because we may believe only one side of the story, judge people unfairly and spread wrong ideas."
+                  },
+                  {
+                    "q": "Explain any two computer threats with examples.",
+                    "a": "1. Phishing: when someone sends a fake email or message to steal a user's password or personal information. Protection: do not click strange messages; ask an adult first. 2. Virus: a bad program that can copy itself and spread, deleting or damaging files. Protection: do not open strange files; use licensed antivirus software."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.4",
+            "name": "Class Activity",
+            "exercises": [
+              {
+                "label": "Class Activity 1",
+                "items": [
+                  {
+                    "q": "Tick whether each behaviour is Appropriate or Inappropriate: 1. Sharing your password with a friend. 2. Asking a parent before downloading a new app. 3. Spreading rumors about someone. 4. Being kind and polite in online chats. 5. Talking to strangers online. 6. Reporting mean messages to a teacher.",
+                    "a": "[[T]]Behaviour|Appropriate/Inappropriate;;1. Sharing your password with a friend|Inappropriate;;2. Asking a parent before downloading a new app|Appropriate;;3. Spreading rumors about someone|Inappropriate;;4. Being kind and polite in online chats|Appropriate;;5. Talking to strangers online|Inappropriate;;6. Reporting mean messages to a teacher|Appropriate[[/T]]"
+                  }
+                ]
+              },
+              {
+                "label": "Class Activity 2",
+                "items": [
+                  {
+                    "q": "Tick whether each statement is Appropriate or Inappropriate: 1. I respect other people's opinions online. 2. I share my home address in a public chat. 3. I help a classmate who is being bullied online. 4. I copy someone else's homework and say it is mine. 5. I use strong passwords and keep them secret. 6. I send hurtful messages to make others laugh.",
+                    "a": "[[T]]Statement|Appropriate/Inappropriate;;1. I respect other people's opinions online|Appropriate;;2. I share my home address in a public chat|Inappropriate;;3. I help a classmate who is being bullied online|Appropriate;;4. I copy someone else's homework and say it is mine|Inappropriate;;5. I use strong passwords and keep them secret|Appropriate;;6. I send hurtful messages to make others laugh|Inappropriate[[/T]]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.5",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Appropriate and Inappropriate Behaviour",
+                "items": [
+                  {
+                    "q": "What is a digital environment?",
+                    "a": "A digital environment is a space where people use devices like computers and mobile phones to connect with each other. It is the online world you enter when you use a computer, phone or tablet to connect to the internet."
+                  },
+                  {
+                    "q": "List the six rules of appropriate online behaviour.",
+                    "a": "1. Be kind: use polite words in messages and chats. 2. Respect a friend's privacy: do not share their private information or pictures. 3. Protect yourself: use strong passwords and never share personal details. 4. Ask first: check with an adult before downloading files or visiting new websites. 5. Speak up: always tell a trusted adult if someone experiences cyberbullying or something harmful. 6. Think before posting facts or chatting: do not spread rumors or harmful things."
+                  },
+                  {
+                    "q": "List the six kinds of inappropriate online behaviour.",
+                    "a": "1. Being a bully: sending mean or hurtful messages to others. 2. Sharing confidential information: posting personal or a friend's private information. 3. Talking to strangers: accepting requests or chatting with unknown people. 4. Taking risks: clicking on strange links or downloading from untrusted websites. 5. Copying others: using someone else's work or pictures without asking them first. 6. Ignoring rules: ignoring rules leads to inappropriate behaviour."
+                  },
+                  {
+                    "q": "What personal information should you never share with strangers online?",
+                    "a": "Never share your full name, home address, phone number or school name with strangers."
+                  },
+                  {
+                    "q": "What should you do if someone is being mean or sending weird messages online?",
+                    "a": "Block the person and report it to a trusted adult."
+                  },
+                  {
+                    "q": "Why should you ask an adult before downloading files or visiting new websites?",
+                    "a": "Because some files and websites can be harmful: they may carry viruses or malware, or trick you into sharing personal information. Asking first keeps you safe."
+                  }
+                ]
+              },
+              {
+                "label": "Cyberbullying",
+                "items": [
+                  {
+                    "q": "What is cyberbullying?",
+                    "a": "Cyberbullying is using technology to hurt, embarrass or scare someone again and again."
+                  },
+                  {
+                    "q": "What is harassment? Give an example.",
+                    "a": "Harassment is repeatedly sending mean, insulting or threatening messages to someone online. Example: sending messages like You are stupid! I hate you! again and again."
+                  },
+                  {
+                    "q": "What is impersonation?",
+                    "a": "Impersonation is pretending to be someone else online by using their name or photos to post rude or hurtful things."
+                  },
+                  {
+                    "q": "What is the difference between outing and exclusion?",
+                    "a": "Outing is sharing someone's private or embarrassing information online without their permission. Exclusion is intentionally leaving someone out of an online group, chat or activity to make them feel hurt and alone."
+                  },
+                  {
+                    "q": "What should you do if you are cyberbullied? List four steps.",
+                    "a": "1. Tell a trusted adult. 2. Do not reply to the bully. 3. Block the bully. 4. Save the evidence: take screenshots or keep messages as proof to show a trusted adult. Also report the post or user to the platform (like Facebook, Instagram or TikTok) and stay safe online by not sharing personal details and setting profiles to private."
+                  }
+                ]
+              },
+              {
+                "label": "Netiquette, Bias and Being Responsible",
+                "items": [
+                  {
+                    "q": "What does the word netiquette come from?",
+                    "a": "Netiquette is a combination of the words network and etiquette."
+                  },
+                  {
+                    "q": "Why is it important to be responsible before posting or sharing anything online?",
+                    "a": "It is important to be responsible by thinking carefully before posting or sharing anything on apps like WhatsApp, Twitter (X), Snapchat and Instagram. One should take care that the sharing is kind, true and safe for everyone to read."
+                  },
+                  {
+                    "q": "Why is it important to be respectful on social media?",
+                    "a": "It is important to be kind while using social media platforms. To gain respect, one must avoid posting mean comments, making hurtful jokes or sharing someone's private information."
+                  },
+                  {
+                    "q": "What is bias? Give two examples.",
+                    "a": "Bias is when information online is unfair and only shows one side of a story. Examples: on Instagram someone may post only happy moments and hide sad ones; on X (Twitter) a message may blame someone without proof."
+                  },
+                  {
+                    "q": "How can bias on social media affect the way we think?",
+                    "a": "When we see only one side of a story, we may believe it is the whole truth, judge a person or a side unfairly, and share wrong ideas with others."
+                  }
+                ]
+              },
+              {
+                "label": "Computer Threats and Improper Use",
+                "items": [
+                  {
+                    "q": "What is a computer threat?",
+                    "a": "A computer threat is anything that can harm a computer, a network or the information stored in them. It can cause damage, steal private information or stop the computer from working properly."
+                  },
+                  {
+                    "q": "What is the difference between a virus and malware?",
+                    "a": "Malware is a harmful program that can damage a user's computer, for example by tricking the user into downloading a file that harms the computer. A virus is a kind of malware: a bad program that can copy itself and spread, deleting or damaging files."
+                  },
+                  {
+                    "q": "What is ransomware? How can you protect yourself from it?",
+                    "a": "Ransomware is a type of malicious software that locks a computer's files and demands money to unlock them. Protection: do not open unknown files, and back up your work."
+                  },
+                  {
+                    "q": "What is spyware? How can you protect yourself from it?",
+                    "a": "Spyware is a program that someone secretly installs on a user's computer to watch what the user does. Protection: ask elders before installing any apps, and use safe programs only."
+                  },
+                  {
+                    "q": "List the six improper uses of computer resources given in the book.",
+                    "a": "1. Using someone else's login without permission: illegal logging in with a friend's ID or password. 2. Playing games during class time: downloading games or tools that the teacher or school did not allow. 3. Installing or changing someone else's work. 4. Deleting or changing someone else's work: removing a classmate's project from a shared folder. 5. Sharing personal or private information: posting someone's address or phone number on social media. 6. Copying rude or mean messages: writing hurtful comments in a group chat or on school forums."
+                  },
+                  {
+                    "q": "How can you tell a fake website from a safe one?",
+                    "a": "Fake sites often have spelling mistakes, like faceboook.com instead of facebook.com. Safe sites start with https:// and show a lock symbol."
+                  }
+                ]
+              },
+              {
+                "label": "Social Media",
+                "items": [
+                  {
+                    "q": "What is Facebook? Write one positive and one negative use of it.",
+                    "a": "Facebook is a social networking site for sharing posts, pictures and chatting with family and friends. Positive use (online): talk to family and join learning groups; (offline): feel happy and stay in touch. Negative use (online): viewing mean posts, sharing fake posts and exposure to propaganda; (offline): may waste time or feel sad."
+                  },
+                  {
+                    "q": "What is YouTube (Tube)? Write one positive and one negative use of it.",
+                    "a": "YouTube is a video platform for watching, sharing and creating videos. Positive use (online): watch lessons and tutorials to learn skills; (offline): improve school work and stay creative. Negative use (online): watching inappropriate videos; (offline): eye strain or late sleeping."
+                  },
+                  {
+                    "q": "What is Instagram? Write one positive and one negative use of it.",
+                    "a": "Instagram is an app for sharing photos, short videos (Reels) and stories. Positive use (online): exchanging personal talent and creative ideas; (offline): finding new ideas and getting appreciation for work. Negative use (online): seeing fake or overly-edited pictures and hurtful comments; (offline): feeling bad about yourself or trying to copy others."
+                  },
+                  {
+                    "q": "What is WhatsApp? Write one positive and one negative use of it.",
+                    "a": "WhatsApp is an app to share messages, pictures, videos and calls using the Internet; it is also used for school assignments and online classes. Positive use (online): talk to friends or teachers; (offline): feel close to loved ones. Negative use (online): may be used to spread fake news or rumors; (offline): may lead to a strong dependence on the phone, making it hard to focus."
+                  },
+                  {
+                    "q": "What is Twitter (X)? Write one positive and one negative use of it.",
+                    "a": "Twitter (now called X) is an app where a user can share short messages, news and ideas with people all over the world. Positive use (online): learn news fast, follow teachers or leaders and share ideas; (offline): discuss useful news with friends or in class. Negative use (online): fake news and mean comments can spread; (offline): too much use may stop us from talking face-to-face."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 6,
+        "title": "Entrepreneurship",
+        "reading": "Entrepreneurship",
+        "display": "Entrepreneurship",
+        "sections": [
+          {
+            "num": "6.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "What is the term for a person who starts a new business? (a) Entrepreneur (b) Customer (c) Manager (d) Worker",
+                    "a": "(a) Entrepreneur ✓"
+                  },
+                  {
+                    "q": "Which of the following is a product? (a) A product (b) A service (c) A customer (d) A business",
+                    "a": "(a) A product ✓"
+                  },
+                  {
+                    "q": "In the design thinking process, which stage involves understanding the needs and feelings of the people? (a) Prototype (b) Test (c) Empathize (d) Define",
+                    "a": "(c) Empathize ✓"
+                  },
+                  {
+                    "q": "Which stage of design thinking involves creating a model or sample of a product? (a) Prototype (b) Empathize (c) Reflect (d) Implement",
+                    "a": "(a) Prototype ✓"
+                  },
+                  {
+                    "q": "Sustainable Development Goal 1 aims to end: (a) Poverty (b) Hunger (c) Climate change (d) Inequality",
+                    "a": "(a) Poverty ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Entrepreneurship means someone identifies an opportunity and starts a new ______ to solve a problem.",
+                    "a": "business"
+                  },
+                  {
+                    "q": "Innovation helps people change ______ ways of thinking and try new ways.",
+                    "a": "old"
+                  },
+                  {
+                    "q": "Design thinking is a ______ method for solving real-life problems.",
+                    "a": "step-by-step"
+                  },
+                  {
+                    "q": "The stage where products are improved based on feedback is called ______.",
+                    "a": "Iterate"
+                  },
+                  {
+                    "q": "A ______ or service is work or help that someone provides to others to meet their needs.",
+                    "a": "Product"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "What is problem identifying?",
+                    "a": "Identifying means finding out something that is not working well or missing. This is how an entrepreneur finds a problem and thinks of a new idea to give a product or service that makes human life better."
+                  },
+                  {
+                    "q": "What is the name of the stage where an entrepreneur starts selling the finished products to real customers?",
+                    "a": "Implementation. Implementation means that an entrepreneur starts selling finished products for real customers; it is the final step of the design thinking process."
+                  },
+                  {
+                    "q": "What is the design thinking process?",
+                    "a": "Design thinking is a step-by-step method for solving real-life problems and turning them into business ideas. Its stages are: 1. Identify: find out something that is not working well or missing. 2. Empathize: talk to people, listen carefully and try to understand their problems. 3. Define: describe a problem so that everyone understands it. 4. Ideate: think of new and smart ideas to solve a problem. 5. Prototype: make a model or sample of a product. 6. Test: try a product or idea to see how well it works. 7. Reflect: think carefully about what was learned from feedback to improve the product or idea. 8. Iterate: improve the product based on feedback and try it again. 9. Implement: start selling finished products for real customers."
+                  },
+                  {
+                    "q": "Give five examples of problem solving in daily life.",
+                    "a": "Five examples from the book are: 1. People need cheap and safe transport: start low-cost rides for students or workers, an app-based ride-sharing service for short distances (like a school van app). 2. Kids grow fast and clothes get small quickly: create a reuse and resale system, an online platform like OLX for used school uniforms, shoes or books. 3. Students forget lunch or homework at home: fast delivery for school items, an app to connect nearby helpers who can deliver things to school. 4. Parents cannot drop or pick up their kids: provide transport help, a community carpool service or shared ride bookings using a mobile app. 5. Villagers do not find quality products nearby: help local shopping online, set up a simple e-marketplace for local products like soap and crafts."
+                  },
+                  {
+                    "q": "What does Sustainable Development Goal 1 aim to end?",
+                    "a": "Sustainable Development Goal 1 is No Poverty: it aims to end poverty in all its forms, so that no one in the world is poor."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.4",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Entrepreneurship",
+                "items": [
+                  {
+                    "q": "What is entrepreneurship?",
+                    "a": "Entrepreneurship means starting a business with new and creative ideas to make useful products or services that help people and earn money. A person who does entrepreneurship by selling a product or providing a service is called an entrepreneur."
+                  },
+                  {
+                    "q": "Who is an entrepreneur? Give an example from the book.",
+                    "a": "An entrepreneur is a person who starts a new business to solve a problem. Examples from the book: Sara started selling lemonade on hot days to earn pocket money; Ali designed handmade greeting cards and sold them to friends and family; Aslam baked cupcakes at home and sold them during school events."
+                  },
+                  {
+                    "q": "What is a product? Give three examples.",
+                    "a": "A product is anything that people make or sell to help others or make life easier and better. Examples are clothes, shoes and snacks."
+                  },
+                  {
+                    "q": "What is a service? Give three examples.",
+                    "a": "A service is work done by people to help others and make life easier and better. Examples are: a teacher teaches students to learn; a doctor takes care of people to keep them healthy; a driver transports people safely."
+                  },
+                  {
+                    "q": "Who is a customer?",
+                    "a": "A customer is a person that buys products or services from a company."
+                  },
+                  {
+                    "q": "What is the difference between a product and a service?",
+                    "a": "A product is a thing that people make or sell, like clothes, shoes or snacks; you can touch and keep it. A service is work done by people to help others, like teaching, treating patients or driving; it is help, not a thing. For example, a grocery cart is a product, while a delivery service that brings groceries home is a service."
+                  }
+                ]
+              },
+              {
+                "label": "Design Thinking",
+                "items": [
+                  {
+                    "q": "What is design thinking?",
+                    "a": "Design thinking is a step-by-step method for solving real-life problems and turning them into business ideas."
+                  },
+                  {
+                    "q": "List the nine stages of the design thinking process in order.",
+                    "a": "1. Identify. 2. Empathize. 3. Define. 4. Ideate. 5. Prototype. 6. Test. 7. Reflect. 8. Iterate. 9. Implement."
+                  },
+                  {
+                    "q": "What does Empathize mean in design thinking?",
+                    "a": "Empathize means an entrepreneur talks to people, listens carefully and tries to understand their problems. This helps them get ideas to create products or services that people really need."
+                  },
+                  {
+                    "q": "What is the difference between Prototype and Test?",
+                    "a": "Prototype means making a model or sample of a product: it helps to show how an idea will look or work before making it real. Test means trying a product or idea to see how well it works: an entrepreneur tests to find out if people like the prototype, if it works properly and what changes are needed before selling it."
+                  },
+                  {
+                    "q": "What is the difference between Reflect and Iterate?",
+                    "a": "Reflect means an entrepreneur thinks carefully about what he or she learned from feedback to improve the product or idea. Iterate means an entrepreneur improves the product based on feedback and tries it again."
+                  },
+                  {
+                    "q": "List four benefits of design thinking.",
+                    "a": "1. Clear Understanding of the Problem: it helps people clearly understand the real problem before trying to fix it. 2. Creative Solutions: it encourages people to think of new and smart ideas to solve problems in better ways. 3. Team Collaboration: it promotes teamwork, idea sharing and learning from one another. 4. Focus on People's Needs: it ensures that solutions truly match what people need and want. (Other benefits are Quick Testing of Ideas, Learning from Mistakes, and Saving Time and Resources.)"
+                  },
+                  {
+                    "q": "In the book's origami project (My_unique_arts), what is the problem, and what is the product?",
+                    "a": "The problem is: how can we make unique gifts for our friends? The product is handmade origami gifts, for example colourful paper roses and animal figures as friendship gifts, made by folding coloured paper into shapes like flowers, animals or stars."
+                  }
+                ]
+              },
+              {
+                "label": "Innovation and Finding Problems",
+                "items": [
+                  {
+                    "q": "What is innovation?",
+                    "a": "Innovation means using smart and new ideas to make life easier and better. It helps people change old ways of thinking and try new ways. When someone starts a new business, innovation helps them to explore creative ideas, test solutions and make life better."
+                  },
+                  {
+                    "q": "What is an entrepreneurial mindset?",
+                    "a": "An entrepreneurial mindset means thinking like an entrepreneur by using creativity to find and test new solutions. It means using creative thinking at every step, from finding a problem to testing a solution, to make a simple challenge into a clever solution."
+                  },
+                  {
+                    "q": "List four ways to find problems that could be solved by a product or a service.",
+                    "a": "1. Think about real-life problems: what problem can I solve to help people? 2. Ask people what they need (survey): talk to family, teachers or friends. 3. Try to help others: good ideas often come from thinking how to make life easier or better. 4. Look around and observe: watch carefully at school, home or outside to find things that can be improved. (Other ways are: learn from business people, mix old ideas to make a new one, check social media or TV trends, and read books or watch videos.)"
+                  },
+                  {
+                    "q": "How can mixing old ideas make a new one? Give an example from the book.",
+                    "a": "Combining two things can create something useful and fun. For example, the book's project mixes paper folding (origami) with gift-giving to make unique handmade paper gifts for friends."
+                  },
+                  {
+                    "q": "Give two more examples of problems and their solution products from the book's table.",
+                    "a": "1. Problem: people want to sell handmade items. Solution: promote local creativity, an online store for handmade crafts, cards and jewellery (like Etsy for students). 2. Problem: no jobs for local youth. Solution: offer digital skill training, start a small computer learning centre or app-based video course."
+                  }
+                ]
+              },
+              {
+                "label": "Sustainable Development Goals",
+                "items": [
+                  {
+                    "q": "What are the Sustainable Development Goals (SDGs)? Who made them, and how many are there?",
+                    "a": "The world has some big problems like people being poor, hungry, sick or not going to school, and some places do not have clean water or fresh air. That is why the United Nations (UN) made 17 special goals called Sustainable Development Goals. They are a guide for everyone to work together and make the world a better place for people to live."
+                  },
+                  {
+                    "q": "Name the first four Sustainable Development Goals.",
+                    "a": "1. No Poverty. 2. Zero Hunger. 3. Good Health and Well-Being. 4. Quality Education."
+                  },
+                  {
+                    "q": "What is Goal 6 (Clean Water and Sanitation)?",
+                    "a": "Goal 6 is Clean Water and Sanitation: making sure everyone has clean drinking water and a clean, safe place to use the toilet."
+                  },
+                  {
+                    "q": "What is Goal 13 (Climate Action)?",
+                    "a": "Goal 13 is Climate Action: taking quick action to stop climate change and its harmful effects on the world."
+                  },
+                  {
+                    "q": "What is Goal 17 (Partnerships for the Goals)?",
+                    "a": "Goal 17 is Partnerships for the Goals: working together, as a team, with countries and people all over the world to make all these goals happen."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      }
+    ],
+    "csExsolutionsSindhi": [
+      {
+        "unit": 1,
+        "title": "آئي سي ٽي (ICT) جا بنيادي اصول",
+        "reading": "آئي سي ٽي (ICT) جا بنيادي اصول",
+        "display": "آئي سي ٽي (ICT) جا بنيادي اصول",
+        "sections": [
+          {
+            "num": "1.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) 3D تصويري پروسيسنگ ذريعي اسين ڪري سگهون ٿا:\n(الف) هولوگرام ڏيکارڻ ✓\n(ب) شيون پاڻمرادو ڪارخاني ۾ منتقل ڪريو\n(ج) هڪ حقيقي تصوير پرنٽ ڪريو\n(د) نمونن کي سجائڻ ۽ فيصلا ڪريو",
+                    "a": "(الف) هولوگرام ڏيکارڻ"
+                  },
+                  {
+                    "q": "(ii) بايوميٽرڪ تصديق ذريعي ڪري سگهجي ٿي:\n(الف) اسان جو اڪائونٽ نمبر ذريعي\n(ب) پاسورڊ Password ٽائپ ڪرڻ\n(ج) چهرو، فنگر پرنٽ Finger Prints ۽ آواز استعمال ڪندي ✓\n(د) فون نمبر ذريعي",
+                    "a": "(ج) چهرو، فنگر پرنٽ Finger Prints ۽ آواز استعمال ڪندي"
+                  },
+                  {
+                    "q": "(iii) هيٺ ڏنل مان ڪنهن کي ايمرجنڊ ٽيڪنالاجي جي طور تي درجه بندي نه ڪيو ويو آهي؟\n(الف) پاڻمرادو هلندڙ ڪار\n(ب) روبوٽڪس\n(ج) بينڪنگ ✓\n(د) مصنوعي ذهانت",
+                    "a": "(ج) بينڪنگ"
+                  },
+                  {
+                    "q": "(iv) USB ڊرائيو، مائوس، پرنٽر ۽ ڪي بورڊ جهڙن ڊوائيسز کي ڳنڍڻ لاءِ ڪهڙو ان پٽ/آئوٽ پٽ پورٽ سپ کان وڌيڪ استعمال ٿيندو آهي:\n(الف) سيريل پورٽ\n(ب) پورٽ\n(ج) يو ايس بي پورٽ ✓\n(د) متوازي پورٽ",
+                    "a": "(ج) يو ايس بي پورٽ"
+                  },
+                  {
+                    "q": "(v) پيريفل ڊوائيسز peripheral devices جو مکيه مقصد آهي:\n(الف) ڪمپيوٽر کي اضافي ڪارڪردگي ڏيڻ ✓\n(ب) فائلون ذخيرو ڪرڻ\n(ج) ٻاهرين ڊوائيسز مان ڊيٽا موڪلڻ/وصول ڪرڻ\n(د) مٿيان سڀ",
+                    "a": "(الف) ڪمپيوٽر کي اضافي ڪارڪردگي ڏيڻ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) مائوس ۽ ڪي بورڊ جهڙن ڊوائيسز کي ______ ڊوائيسز چيو ويندو آهي.",
+                    "a": "مائوس ۽ ڪي بورڊ جهڙن ڊوائيسز کي ان پٽ (Input) ڊوائيسز چيو ويندو آهي."
+                  },
+                  {
+                    "q": "(ii) پروجيڪٽر کي ڪمپيوٽر سان ڳنڍڻ لاءِ ______ پورٽ استعمال ڪيو ويندو آهي.",
+                    "a": "پروجيڪٽر کي ڪمپيوٽر سان ڳنڍڻ لاءِ HDMI پورٽ استعمال ڪيو ويندو آهي."
+                  },
+                  {
+                    "q": "(iii) ______ ڊوائيسز اهي ڊوائيسز آهن جيڪي سسٽم يونٽ مان ان پٽ ڏيڻ ۽ آئوٽ پٽ وٺڻ لاءِ استعمال ٿين ٿيون.",
+                    "a": "پيريفل (Peripheral) ڊوائيسز اهي ڊوائيسز آهن جيڪي سسٽم يونٽ مان ان پٽ ڏيڻ ۽ آئوٽ پٽ وٺڻ لاءِ استعمال ٿين ٿيون."
+                  },
+                  {
+                    "q": "(iv) ______ ڪمپيوٽر ڪيس جي اڳيان يا پوئين حصي ۾ ڪنيڪشن آهن جيڪي اسان کي I/O ڊوائيسز کي پلگ ان ڪرڻ جي اجازت ڏين ٿا.",
+                    "a": "پورٽس (Ports) ڪمپيوٽر ڪيس جي اڳيان يا پوئين حصي ۾ ڪنيڪشن آهن جيڪي اسان کي I/O ڊوائيسز کي پلگ ان ڪرڻ جي اجازت ڏين ٿا."
+                  },
+                  {
+                    "q": "(v) پهريون غير تجارتي USB پورٽ ______ ۾ جاري ڪيو ويو.",
+                    "a": "پهريون غير تجارتي USB پورٽ 1994 ۾ جاري ڪيو ويو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) بيان ڪريو ته ڪيئن جديد ٽيڪنالاجيون هن دنيا کي تبديل ڪري رهيون آهن.",
+                    "a": "جديد ٽيڪنالاجيون جهڙوڪ مصنوعي ذهانت، روبوٽڪس، بايوميٽرڪس، ورچوئل ريئلٽي، 3D تصويرون ۽ ڪلائوڊ ڪمپيوٽنگ اسان جي زندگي بدلائي رهيون آهن؛ ڪم تيز ۽ آسان ٿي ويا آهن، رابطو تيز ٿي ويو آهي، تعليم ۽ صحت بهتر ٿي ويا آهن ۽ اسين دنيا جي ڪنهن به ڪنڊ سان ڳنڍجي سگهون ٿا."
+                  },
+                  {
+                    "q": "(ii) تفصيل سان لکو ته VR جو استعمال تعليم ۾ ڪيئن مدد ڪري ٿو؟",
+                    "a": "VR (ورچوئل ريئلٽي) سان شاگرد هڪ مجازي دنيا ۾ داخل ٿي سگهن ٿا؛ اهي تاريخي جڳهون گهمي سگهن ٿا، سائنس جا تجربا محفوظ طريقي سان ڪري سگهن ٿا ۽ مشق ڪري سگهن ٿا (مثال: جهاز اڏائڻ جي مشق)؛ ڏسڻ ۽ ڪرڻ سان سکڻ آسان ۽ دلچسپ ٿي وڃي ٿو."
+                  },
+                  {
+                    "q": "(iii) تفصيل سان بيان ڪريو ته ٽيڪنالاجي ۾ ترقي ڪيئن روزاني زندگي کي اثر انداز ڪري ٿي؟",
+                    "a": "ٽيڪنالاجي ۾ ترقي روزاني زندگي بدلائي ڇڏي آهي: رابطو لينڊ لائين کان موبائل فون، اسمارٽ فون، سوشل ميڊيا ۽ 5G تائين پهچي ويو آهي؛ ڪمپيوٽر پنجن نسلن مان گذريا آهن؛ ڪم، تعليم، خريداري، بينڪنگ ۽ تفريح هاڻي تيز، آسان ۽ گهر ويٺي ممڪن آهن."
+                  },
+                  {
+                    "q": "(iv) پرنٽر ۽ اسڪينر ۾ فرق لکو.",
+                    "a": "پرنٽر هڪ آئوٽ پٽ ڊوائيس آهي جيڪو ڪمپيوٽر مان ڊيٽا وٺي ڪاغذ تي ڇاپي ٿو (مثال: ليزر ۽ انڪ جيٽ پرنٽر)؛ اسڪينر هڪ ان پٽ ڊوائيس آهي جيڪو ڪاغذ تي ڇپيل دستاويز يا تصوير کي ڪمپيوٽر ۾ ڊجيٽل شڪل ۾ تبديل ڪري ٿو. پرنٽر ڪمپيوٽر کان ڪاغذ ڏانهن ڪم ڪري ٿو، اسڪينر ڪاغذ کان ڪمپيوٽر ڏانهن ڪم ڪري ٿو."
+                  },
+                  {
+                    "q": "(v) ڪمپيوٽر لاءِ پيريفل ڊوائيسز ڇو ضروري آهن، بيان ڪريو.",
+                    "a": "پيريفل ڊوائيسز ڪمپيوٽر کي اضافي ڪارڪردگي ڏين ٿا؛ ان پٽ ڊوائيسز (ڪي بورڊ، مائوس، اسڪينر) کان سواءِ ڪمپيوٽر کي هدايتون ۽ ڊيٽا ڏئي نٿا سگهون، آئوٽ پٽ ڊوائيسز (مانيٽر، پرنٽر، اسپيڪر) کان سواءِ نتيجا ڏسي يا ڇاپي نٿا سگهون، ۽ اسٽوريج ۽ نيٽ ورڪ ڊوائيسز کان سواءِ ڊيٽا محفوظ يا شيئر نٿا ڪري سگهون."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.4",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "اڀرندڙ ٽيڪنالاجيون",
+                "items": [
+                  {
+                    "q": "مصنوعي ذهانت (AI) ڇا آهي؟",
+                    "a": "مصنوعي ذهانت اهڙا پروگرام يا سافٽ ويئر آهن جيڪي انسان وانگر سوچن، سکن ۽ فيصلا ڪن ٿا؛ مثال: پاڻمرادو هلندڙ ڪارون، چيٽ بوٽ ۽ چهري جي سڃاڻپ."
+                  },
+                  {
+                    "q": "روبوٽ ڇا آهي؟",
+                    "a": "روبوٽ هڪ مشين آهي جيڪا پاڻمرادو ڪم ڪري ٿي ۽ ڪمپيوٽر سان ڪنٽرول ٿئي ٿي؛ مثال: ڪارخانن، اسپتالن، هوٽلن ۽ گودامن ۾ ڪم ڪندڙ روبوٽ."
+                  },
+                  {
+                    "q": "بايوميٽرڪس ڇا آهي؟",
+                    "a": "بايوميٽرڪس هڪ حفاظتي طريقو آهي جيڪو انسان جي منفرد جسماني خصوصيتن — چهرو، فنگر پرنٽ، آواز يا اک جي سڃاڻپ — سان سڃاڻپ ڪري ٿو."
+                  },
+                  {
+                    "q": "ورچوئل ريئلٽي (VR) ڇا آهي؟",
+                    "a": "ورچوئل ريئلٽي هڪ اهڙو تجربو آهي جنهن سان انسان هڪ مجازي دنيا ۾ داخل ٿئي ٿو؛ مثال: تعليم، تربيت (جهاز اڏائڻ جي مشق)، رانديون ۽ مجازي گڏجاڻيون."
+                  },
+                  {
+                    "q": "هولوگرام ڇا آهي؟",
+                    "a": "هولوگرام هڪ 3D تصوير آهي جيڪا هوا ۾ نظر اچي ٿي ۽ هر پاسي کان ڏسي سگهجي ٿي."
+                  },
+                  {
+                    "q": "ڪلائوڊ ڪمپيوٽنگ ڇا آهي؟",
+                    "a": "ڪلائوڊ ڪمپيوٽنگ انٽرنيٽ تي ڊيٽا محفوظ ڪرڻ آهي؛ مثال: Google Drive, Dropbox ۽ OneDrive."
+                  },
+                  {
+                    "q": "اوپن سورس سافٽ ويئر ڇا آهي؟",
+                    "a": "اوپن سورس سافٽ ويئر اهو آهي جنهن جو ڪوڊ مفت استعمال ۽ تبديل ڪري سگهجي ٿو؛ مثال: Linux, LibreOffice ۽ Mozilla Firefox."
+                  }
+                ]
+              },
+              {
+                "label": "ٽيڪنالاجي ۾ ترقي",
+                "items": [
+                  {
+                    "q": "ڪمپيوٽر جي پهرين نسل ۾ ڪهڙي ٽيڪنالاجي استعمال ٿي؟",
+                    "a": "پهرين نسل (1940–1956) ۾ ويڪيوم ٽيوب استعمال ٿي."
+                  },
+                  {
+                    "q": "ڪمپيوٽر جي ٻي نسل ۾ ڪهڙي ٽيڪنالاجي آئي؟",
+                    "a": "ٻي نسل (1956–1963) ۾ ٽرانزسٽر استعمال ٿيا."
+                  },
+                  {
+                    "q": "ڪمپيوٽر جي ٽين نسل ۾ ڪهڙي ٽيڪنالاجي آئي؟",
+                    "a": "ٽين نسل (1964–1971) ۾ انٽيگريٽيڊ سرڪٽ (IC) استعمال ٿيا."
+                  },
+                  {
+                    "q": "ڪمپيوٽر جي چوٿين نسل جي خاصيت ڇا آهي؟",
+                    "a": "چوٿين نسل (1971 کان هاڻي تائين) ۾ مائڪرو پروسيسر استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "ڪمپيوٽر جي پنجين نسل ڪهڙي ٽيڪنالاجي تي ٻڌل آهي؟",
+                    "a": "پنجين نسل مصنوعي ذهانت (AI) تي ٻڌل آهي."
+                  },
+                  {
+                    "q": "رابطي جي ٽيڪنالاجي ڪيئن بدلي آهي؟",
+                    "a": "رابطو لينڊ لائين (1800–1990) کان موبائل فون (1990–2007) ۽ پوءِ اسمارٽ فون، انٽرنيٽ، سوشل ميڊيا ۽ 5G تائين پهچي ويو آهي."
+                  }
+                ]
+              },
+              {
+                "label": "پيريفل ڊوائيسز",
+                "items": [
+                  {
+                    "q": "ان پٽ ڊوائيس جا ٻه مثال ڏيو.",
+                    "a": "ڪي بورڊ ۽ مائوس (ويب ڪيم، مائڪروفون ۽ اسڪينر به ان پٽ ڊوائيسز آهن)."
+                  },
+                  {
+                    "q": "آئوٽ پٽ ڊوائيس جا ٻه مثال ڏيو.",
+                    "a": "مانيٽر ۽ پرنٽر (اسپيڪر ۽ پروجيڪٽر به آئوٽ پٽ ڊوائيسز آهن)."
+                  },
+                  {
+                    "q": "اسٽوريج ڊوائيس جا ٻه مثال ڏيو.",
+                    "a": "USB فليش ڊرائيو ۽ SSD (ايڪسٽرنل هارڊ ڊسڪ به اسٽوريج ڊوائيس آهي)."
+                  },
+                  {
+                    "q": "نيٽ ورڪ ڊوائيس جا ٻه مثال ڏيو.",
+                    "a": "موڊيم ۽ نيٽ ورڪ ايڊاپٽر ڪارڊ (NIC) (وائرليس ايڪسيس پوائنٽ به نيٽ ورڪ ڊوائيس آهي)."
+                  },
+                  {
+                    "q": "پرنٽر جا ڪهڙا قسم آهن؟",
+                    "a": "ليزر پرنٽر، انڪ جيٽ پرنٽر ۽ رسيد پرنٽر."
+                  },
+                  {
+                    "q": "مانيٽر جا ڪهڙا قسم آهن؟",
+                    "a": "CRT, LCD, LED ۽ OLED مانيٽر."
+                  }
+                ]
+              },
+              {
+                "label": "ان پٽ/آئوٽ پٽ پورٽ",
+                "items": [
+                  {
+                    "q": "USB جو پورو نالو ڇا آهي؟",
+                    "a": "Universal Serial Bus."
+                  },
+                  {
+                    "q": "پهريون غير تجارتي USB پورٽ ڪڏهن جاري ٿيو؟",
+                    "a": "1994 ۾."
+                  },
+                  {
+                    "q": "HDMI جو پورو نالو ڇا آهي؟",
+                    "a": "High-Definition Multimedia Interface."
+                  },
+                  {
+                    "q": "HDMI پورٽ ڪهڙي ڪم اچي ٿو؟",
+                    "a": "HDMI پورٽ ڪمپيوٽر کي مانيٽر يا پروجيڪٽر سان ڳنڍڻ لاءِ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "متوازي پورٽ هڪ وقت ۾ ڪيترا بِٽ موڪلي ٿو؟",
+                    "a": "متوازي پورٽ هڪ وقت ۾ 8 بِٽ (1 بائيٽ) موڪلي ٿو."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 2,
+        "title": "ڊجيٽل صلاحيتون",
+        "reading": "ڊجيٽل صلاحيتون",
+        "display": "ڊجيٽل صلاحيتون",
+        "sections": [
+          {
+            "num": "2.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) مائڪروسافٽ ورڊ ڇا آهي؟\n(الف) اسپريڊ شيٽ\n(ب) ڊيٽابيس مئنيجمينٽ\n(ج) پريزينٽيشن\n(د) ورڊ پروسيسر ✓",
+                    "a": "(د) ورڊ پروسيسر"
+                  },
+                  {
+                    "q": "(ii) ايم ايس ورڊ فائل جي ڊفالٽ ايڪسٽينشن ______ آهي.\n(الف) .txt\n(ب) .docx ✓\n(ج) .csv\n(د) .ppt",
+                    "a": "(ب) .docx"
+                  },
+                  {
+                    "q": "(iii) ايم ايس پاور پوائنٽ فائل جي ايڪسٽينشن ______ آهي.\n(الف) .doc\n(ب) .mp3\n(ج) .ppt ✓\n(د) .mpt",
+                    "a": "(ج) .ppt"
+                  },
+                  {
+                    "q": "(iv) هيٺ ڏنل مان ڪهڙو پاور پوائنٽ پريزينٽيشن لاءِ ڏسڻ جو فارميٽ ناهي؟\n(الف) سلائيڊ ويو\n(ب) آئوٽ لائين ويو\n(ج) سلائيڊ شو ويو\n(د) پريزينٽيشن ويو ✓",
+                    "a": "(د) پريزينٽيشن ويو"
+                  },
+                  {
+                    "q": "(v) دستاويز کي سڌو سنئون محفوظ ڪرڻ لاءِ ڪهڙي ڪي بورڊ شارٽ ڪٽ استعمال ڪئي ويندي آهي؟\n(الف) Ctrl + S ✓\n(ب) Ctrl + D\n(ج) Alt + Shift + S\n(د) Alt + S",
+                    "a": "(الف) Ctrl + S"
+                  },
+                  {
+                    "q": "(vi) هيڊر ۽ فوٽر آپشن ڪهڙي ٽيب هيٺ موجود آهي؟\n(الف) هوم\n(ب) انسرٽ ✓\n(ج) لي آئوٽ\n(د) ڊيزائين",
+                    "a": "(ب) انسرٽ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ايم ايس ورڊ ۾ ربن مختلف حصن ۾ ورهايل آهي جن کي ______ سڏيو ويندو آهي.",
+                    "a": "ايم ايس ورڊ ۾ ربن مختلف حصن ۾ ورهايل آهي جن کي ٽيب (Tabs) سڏيو ويندو آهي."
+                  },
+                  {
+                    "q": "(ii) غلطين کي ايم ايس ورڊ ۾ ______ سهولت استعمال ڪندي جانچ ڪري سگهجي ٿو.",
+                    "a": "غلطين کي ايم ايس ورڊ ۾ اسپيلنگ ۽ گرامر (Spelling and Grammar) سهولت استعمال ڪندي جانچ ڪري سگهجي ٿو."
+                  },
+                  {
+                    "q": "(iii) فائل جو نقل ناهڻ لاءِ MS Word ۾ ______ سهولت استعمال ڪريو.",
+                    "a": "فائل جو نقل ناهڻ لاءِ MS Word ۾ سيو اي ڪاپي (Save a Copy) سهولت استعمال ڪريو."
+                  },
+                  {
+                    "q": "(iv) ايم ايس ورڊ ۾ نئون دستاويز ناهڻ لاءِ ______ شارٽ ڪٽ آهي.",
+                    "a": "ايم ايس ورڊ ۾ نئون دستاويز ناهڻ لاءِ Ctrl + N شارٽ ڪٽ آهي."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) مائڪروسافٽ ورڊ جا استعمال لکو.",
+                    "a": "مائڪروسافٽ ورڊ گهر ۾ خط، نوڪري لاءِ درخواستون، خريداري جون فهرستون ۽ سرٽيفڪيٽ لکڻ لاءِ؛ ڪم جي جڳهه تي آفيس ميمو، اي ميل، رپورٽون، ڪاروباري خط ۽ انوائس ناهڻ لاءِ؛ ۽ تعليم ۾ اسائنمينٽ، پروجيڪٽ، سبق جا منصوبا ۽ رپورٽون ناهڻ لاءِ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "(ii) مائڪروسافٽ جا بنيادي ڪم ڪهڙا آهن؟",
+                    "a": "مائڪروسافٽ ورڊ جا بنيادي ڪم آهن: دستاويز لکڻ ۽ ايڊٽ ڪرڻ، متن کي فارميٽ ڪرڻ (فونٽ، سائيز، رنگ، بولڊ/اٽالڪ/انڊر لائين)، اسپيلنگ ۽ گرامر چيڪ ڪرڻ، تصويرون ۽ ٽيبل شامل ڪرڻ، دستاويز محفوظ ڪرڻ ۽ پرنٽ ڪرڻ."
+                  },
+                  {
+                    "q": "(iii) سيو ۽ سيو ايز ۾ فرق بيان ڪريو.",
+                    "a": "سيو (Ctrl + S) موجوده فائل ۾ تبديلين کي ساڳئي نالي ۽ ساڳئي جاءِ تي محفوظ ڪري ٿو؛ سيو ايز فائل کي نئين نالي، نئين جاءِ يا نئين فارميٽ (مثال: DOC يا PDF) سان محفوظ ڪري ٿو."
+                  },
+                  {
+                    "q": "(iv) ملٽي ميڊيا پريزينٽيشن جو مقصد لکو.",
+                    "a": "ملٽي ميڊيا پريزينٽيشن جو مقصد معلومات کي صاف ۽ دلچسپ طريقي سان سمجھائڻ آهي؛ هر سلائيڊ تي هڪ خيال هوندو آهي ۽ متن، تصويرون، آواز ۽ وڊيو گڏجي ڳالهه کي آسان ۽ يادگار بڻائين ٿا."
+                  },
+                  {
+                    "q": "(v) اصطلاح: اي ميل ايڊريس، پاسورڊ، ڪانٽيڪٽ جي سمجھاڻي لکو ۽ اي ميل ايڊريس جا استعمال لکو.",
+                    "a": "اي ميل ايڊريس هڪ منفرد سڃاڻپ آهي (username@domain.com) جنهن سان اي ميل موڪلي ۽ وصول ڪئي وڃي ٿي؛ پاسورڊ اکرن، انگن ۽ نشانين جو ڳجهو ميلاپ آهي جيڪو اڪائونٽ جي حفاظت ڪري ٿو ۽ ڪنهن سان به شيئر نه ڪرڻ گهرجي؛ ڪانٽيڪٽ محفوظ ڪيل اي ميل ايڊريس ۽ تفصيل (نالو، اي ميل، فون) آهي. اي ميل ايڊريس رابطي، ڪاروبار، تعليم، نوڪري لاءِ درخواستن ۽ شيڊيولنگ لاءِ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "(vi) ان باڪس، سينٽ ۽ اسپام جو مقصد لکو.",
+                    "a": "ان باڪس ۾ سڀ ايندڙ ميلون ڏيکاريل هونديون آهن؛ سينٽ ۾ موڪليل ميلون محفوظ ٿينديون آهن؛ اسپام (جنڪ) ۾ ناپسنديده يا مشڪوڪ اي ميلون پاڻمرادو منتقل ٿينديون آهن."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.4",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "ورڊ پروسيسنگ",
+                "items": [
+                  {
+                    "q": "ورڊ پروسيسر ڇا آهي؟",
+                    "a": "ورڊ پروسيسر اهو سافٽ ويئر آهي جيڪو دستاويز لکڻ، ايڊٽ ڪرڻ، فارميٽ ڪرڻ ۽ پرنٽ ڪرڻ لاءِ استعمال ٿئي ٿو؛ مثال: MS Word, Google Docs ۽ WPS Office."
+                  },
+                  {
+                    "q": "ايم ايس ورڊ فائل جي ڊفالٽ ايڪسٽينشن ڇا آهي؟",
+                    "a": ".docx"
+                  },
+                  {
+                    "q": "نئون دستاويز ناهڻ جو شارٽ ڪٽ ڇا آهي؟",
+                    "a": "Ctrl + N"
+                  },
+                  {
+                    "q": "دستاويز محفوظ ڪرڻ جو شارٽ ڪٽ ڇا آهي؟",
+                    "a": "Ctrl + S"
+                  },
+                  {
+                    "q": "ربن ۾ ٽيب ڇا آهن؟",
+                    "a": "ربن جا حصا آهن جن ۾ هڪ جهڙا حڪم گڏ ٿيل هوندا آهن؛ مثال: Home, Insert, Design, Layout, Review ۽ View."
+                  },
+                  {
+                    "q": "هيڊر ۽ فوٽر ڪهڙي ٽيب هيٺ آهن؟",
+                    "a": "انسرٽ (Insert) ٽيب هيٺ."
+                  }
+                ]
+              },
+              {
+                "label": "ايم ايس ورڊ جا ٽيب",
+                "items": [
+                  {
+                    "q": "هوم ٽيب ۾ ڪهڙا گروپ آهن؟",
+                    "a": "ڪلپ بورڊ، فونٽ، پيراگراف، اسٽائيل ۽ ايڊيٽنگ."
+                  },
+                  {
+                    "q": "ڪاپي ڪرڻ جو شارٽ ڪٽ ڇا آهي؟",
+                    "a": "Ctrl + C"
+                  },
+                  {
+                    "q": "پيسٽ ڪرڻ جو شارٽ ڪٽ ڇا آهي؟",
+                    "a": "Ctrl + V"
+                  },
+                  {
+                    "q": "ڪٽ ڪرڻ جو شارٽ ڪٽ ڇا آهي؟",
+                    "a": "Ctrl + X"
+                  },
+                  {
+                    "q": "اسپيلنگ ۽ گرامر چيڪ ڪهڙي ٽيب ۾ آهي؟",
+                    "a": "ريويو (Review) ٽيب جي Proofing گروپ ۾."
+                  },
+                  {
+                    "q": "دستاويز پرنٽ ڪرڻ جو شارٽ ڪٽ ڇا آهي؟",
+                    "a": "Ctrl + P"
+                  }
+                ]
+              },
+              {
+                "label": "پاور پوائنٽ",
+                "items": [
+                  {
+                    "q": "پاور پوائنٽ ڇا آهي؟",
+                    "a": "پاور پوائنٽ ملٽي ميڊيا پريزينٽيشن ناهڻ جو پروگرام آهي جيڪو MS Office سوٽ جو حصو آهي."
+                  },
+                  {
+                    "q": "سلائيڊ شو شروع ڪرڻ لاءِ ڪهڙي ڪي استعمال ٿئي ٿي؟",
+                    "a": "F5"
+                  },
+                  {
+                    "q": "نئين سلائيڊ ناهڻ جو شارٽ ڪٽ ڇا آهي؟",
+                    "a": "Ctrl + M"
+                  },
+                  {
+                    "q": "پاور پوائنٽ ۾ هائپر لنڪ ڪيئن ناهي سگهجي ٿي؟",
+                    "a": "متن چونڊي رائيٽ ڪلڪ ڪري Link چونڊيو يا Ctrl + K دٻايو."
+                  },
+                  {
+                    "q": "سلائيڊ شو فائل جي ايڪسٽينشن ڇا آهي؟",
+                    "a": ".ppsx (ان تي ڊبل ڪلڪ ڪرڻ سان سلائيڊ شو سڌو شروع ٿئي ٿو)."
+                  },
+                  {
+                    "q": "پريزينٽر ويو ڇا آهي؟",
+                    "a": "پريزينٽر ويو ۾ پروجيڪٽر تي سلائيڊون ڏيکاريل هونديون آهن ۽ ليپ ٽاپ تي نوٽس ۽ ٽائمر ڏيکاريل هوندا آهن."
+                  }
+                ]
+              },
+              {
+                "label": "اي ميل ۽ تصديق",
+                "items": [
+                  {
+                    "q": "اي ميل ايڊريس جو فارميٽ ڇا آهي؟",
+                    "a": "username@domain.com (مثال: aliraza@gmail.com)."
+                  },
+                  {
+                    "q": "اي ميل ايڊريس ۾ @ جو مطلب ڇا آهي؟",
+                    "a": "@ جو مطلب آهي 'at the rate' (ايٽ دي ريٽ)."
+                  },
+                  {
+                    "q": "اي ميل ۾ Cc جو مطلب ڇا آهي؟",
+                    "a": "Carbon Copy (ڪاربن ڪاپي)."
+                  },
+                  {
+                    "q": "اي ميل ۾ Bcc جو مطلب ڇا آهي؟",
+                    "a": "Blind Carbon Copy (بلائنڊ ڪاربن ڪاپي)."
+                  },
+                  {
+                    "q": "ان باڪس ڇا آهي؟",
+                    "a": "ان باڪس ۾ سڀ ايندڙ ميلون ڏيکاريل هونديون آهن."
+                  },
+                  {
+                    "q": "ٻن مرحلن واري تصديق (2FA) ڇا آهي؟",
+                    "a": "ٻن مرحلن واري تصديق ۾ پاسورڊ کان پوءِ فون (SMS) يا اي ميل تي موڪليل 6 انگن وارو ڪوڊ داخل ڪرڻو پوي ٿو؛ ان کان سواءِ اڪائونٽ نه ٿو کلي."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 3,
+        "title": "الگورٿم سوچ ۽ مسئلا حل ڪرڻ",
+        "reading": "الگورٿم سوچ ۽ مسئلا حل ڪرڻ",
+        "display": "الگورٿم سوچ ۽ مسئلا حل ڪرڻ",
+        "sections": [
+          {
+            "num": "3.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) هيٺ ڏنل مان ڪهڙو ڪمپيوٽيشنل سوچ جو حصو ناهي؟\n(الف) اندازو ✓\n(ب) سڙڻ\n(ج) تجريدي سوچ\n(د) منطقي سوچ",
+                    "a": "(الف) اندازو"
+                  },
+                  {
+                    "q": "(ii) هيٺ ڏنل مان ڪهڙي صحيح عمر نه آهي؟\n(الف) 12\n(ب) -5 ✓\n(ج) 30\n(د) 18",
+                    "a": "(ب) -5"
+                  },
+                  {
+                    "q": "(iii) هيٺ ڏنل مان ڪهڙو ڊيڪمپوزيشن جو مثال آهي؟\n(الف) هڪ ئي وقت ۾ پزل حل ڪرڻ\n(ب) پزل کي ڪندن ۾ ٽوڙڻ ✓\n(ج) پزل کي رنگ ڏيڻ\n(د) پزل جي تصوير کي ڏسڻ",
+                    "a": "(ب) پزل کي ڪندن ۾ ٽوڙڻ"
+                  },
+                  {
+                    "q": "(iv) فلو چارٽ جي شروعات يا پڇاڙي ڏيکارڻ لاءِ ڪهڙي علامت استعمال ٿيندي آهي؟\n(الف) مستطيل\n(ب) هيرو\n(ج) بيضوي ✓\n(د) دائرو",
+                    "a": "(ج) بيضوي"
+                  },
+                  {
+                    "q": "(v) صحيح ۽ غلط ڊيٽا سان الگورٿم کي جانچڻ ڇو ضروري آهي؟\n(الف) الگورٿم کي دگهڙو ڪرڻ لاءِ\n(ب) اندازو لڳائڻ لاءِ ته ڇا ٿي سگهي ٿو\n(ج) پڪ ڪرڻ لاءِ ته الگورٿم سڀني حالتن ۾ صحيح نتيجا پيدا ڪري ✓\n(د) مذاق ڪرڻ",
+                    "a": "(ج) پڪ ڪرڻ لاءِ ته الگورٿم سڀني حالتن ۾ صحيح نتيجا پيدا ڪري"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) فلو چارٽ ۾ ڪنهن عمل جي نمائندگي ڪرڻ لاءِ ______ علامت استعمال ڪئي ويندي آهي.",
+                    "a": "فلو چارٽ ۾ ڪنهن عمل جي نمائندگي ڪرڻ لاءِ مستطيل علامت استعمال ڪئي ويندي آهي."
+                  },
+                  {
+                    "q": "(ii) لوپ جا ______ قسم آهن.",
+                    "a": "لوپ جا 2 قسم آهن."
+                  },
+                  {
+                    "q": "(iii) هڪ منصوبي کي ترتيب ڏيڻ جو عمل آهي جتي ڪم هڪ واضح ۽ مرحليوار ترتيب ۾ منظم ڪيا ويندا آهن ______.",
+                    "a": "هڪ منصوبي کي ترتيب ڏيڻ جو عمل، جتي ڪم هڪ واضح ۽ مرحليوار ترتيب ۾ منظم ڪيا ويندا آهن، الگورٿم آهي."
+                  },
+                  {
+                    "q": "(iv) ڪنهن مسئلي کي حل ڪرڻ جا ______ طريقا ٿي سگهن ٿا.",
+                    "a": "ڪنهن مسئلي کي حل ڪرڻ جا گهڻا طريقا ٿي سگهن ٿا."
+                  },
+                  {
+                    "q": "(v) ______ بيان ڪيترن ئي حالتن جي جانچ ڪرڻ جي اجازت ڏئي ٿو.",
+                    "a": "جيڪڏهن-ٻيو-جيڪڏهن-ٻيو (If-ElseIf-Else) بيان ڪيترن ئي حالتن جي جانچ ڪرڻ جي اجازت ڏئي ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) جيڪڏهن اسان هڪ ئي وقت ۾ هڪ ئي مرحلا الگورٿم جي طور تي لکيل آهن ته اسان فلو چارٽس ڇو استعمال ڪريون ٿا؟",
+                    "a": "فلو چارٽ الگورٿم جي گرافڪ (تصويري) نمائندگي آهي؛ اهو ڏيکاري ٿو ته ڪهڙو قدم ڪڏهن ۽ ڪهڙي ترتيب ۾ ڪم ڪندو آهي، ان ڪري الگورٿم کي سمجھڻ، ان جي غلطين کي ڳولڻ ۽ ٻين کي سمجھائڻ آسان ٿي وڃي ٿو."
+                  },
+                  {
+                    "q": "(ii) بيان ڪريو ته لوپس ڪهڙا ڪم ڪن ٿا ۽ شرطون ڪيئن مختلف آهن؟",
+                    "a": "لوپس هڪ ئي هدايت کي بار بار ورجائين ٿا (مثال: 1 کان 5 تائين ڳڻڻ)؛ شرطون فيصلو ڪن ٿيون ته ڪهڙو ڪم ڪيو وڃي — جيڪڏهن شرط صحيح آهي ته هڪ ڪم ٿئي ٿو، ٻي صورت ۾ ٻيو ڪم ٿئي ٿو (مثال: نمبر 50 کان وڌيڪ آهي ته پاس، ٻي صورت ۾ فيل). لوپ ورجاءَ لاءِ آهي، شرط چونڊ لاءِ آهي."
+                  },
+                  {
+                    "q": "(iii) الگورٿمڪ سوچ صرف ڪمپيوٽرن ۾ نه پر حقيقي زندگي ۾ به اهم ڇو آهي؟ هڪ مثال ڏيو.",
+                    "a": "الگورٿمڪ سوچ ڪنهن به وڏي مسئلي کي ننڍن مرحلن ۾ ورهائي، غير ضروري ڳالهين کي نظرانداز ڪري ۽ صاف ترتيب سان حل ڪرڻ سيکاري ٿي. مثال: اسڪول جي سفر جو منصوبو — پهرين بيگ پيڪ ڪريو، پوءِ بس ۾ سوار ٿيو، پوءِ اسڪول پهچي وڃو؛ هر مرحلو واضح ۽ ترتيب سان آهي."
+                  },
+                  {
+                    "q": "(iv) مختلف Inputs سان الگورٿم کي جانچڻ ڇو ضروري آهي؟",
+                    "a": "مختلف صحيح ۽ غلط ڊيٽا سان جانچڻ سان پڪ ٿئي ٿي ته الگورٿم سڀني حالتن ۾ صحيح نتيجا پيدا ڪري ٿو؛ غلط ڊيٽا (مثال: عمر = -5) سان جانچڻ سان خبر پوي ٿي ته الگورٿم غلطي کي سڃاڻي ٿو يا نه، ۽ غلطي ملي ته مرحلا درست ڪري سگهجن ٿا."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.4",
+            "name": "هيٺين ڪمن لاءِ فلو چارٽ ٺاهيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) تن انگن کي پڙهي ۽ انهن جو مجموعو ڏيکاري.",
+                    "a": "شروع ڪريو (بيضوي) → پهريون انگ داخل ڪريو (متوازي اضلاع) → ٻيو انگ داخل ڪريو (متوازي اضلاع) → مجموعو = پهريون انگ + ٻيو انگ (مستطيل) → مجموعو ڏيکاريو (متوازي اضلاع) → ختم ڪريو (بيضوي)"
+                  },
+                  {
+                    "q": "(ii) صارف کان پاسورڊ گهري ٿو — جيڪڏهن پاسورڊ \"SECRET\" آهي ته \"رسائي ڏني وئي\"، ٻي صورت ۾ \"رسائي رد ڪئي وئي!\"",
+                    "a": "شروع ڪريو (بيضوي) → پاسورڊ داخل ڪريو (متوازي اضلاع) → جيڪڏهن پاسورڊ = \"SECRET\" آهي؟ (هيرو) → ها: \"رسائي ڏني وئي\" ڏيکاريو (متوازي اضلاع) → نه: \"رسائي رد ڪئي وئي!\" ڏيکاريو (متوازي اضلاع) → ختم ڪريو (بيضوي)"
+                  },
+                  {
+                    "q": "(iii) پهريون 10 قدرتي انگن جي رقم جي حساب لاءِ.",
+                    "a": "شروع ڪريو (بيضوي) → ڪائونٽر = 1 ۽ مجموعو = 0 مقرر ڪريو (مستطيل) → جيڪڏهن ڪائونٽر <= 10 آهي؟ (هيرو) → ها: مجموعو = مجموعو + ڪائونٽر ڪريو (مستطيل)، ڪائونٽر = ڪائونٽر + 1 ڪريو (مستطيل)، واپس وڃو → نه: مجموعو ڏيکاريو (متوازي اضلاع) → ختم ڪريو (بيضوي)"
+                  },
+                  {
+                    "q": "(iv) صارف 0 داخل ڪرڻ تائين نمبر پڇندو رهي ٿو.",
+                    "a": "شروع ڪريو (بيضوي) → نمبر داخل ڪريو (متوازي اضلاع) → جيڪڏهن نمبر = 0 آهي؟ (هيرو) → ها: ختم ڪريو (بيضوي) → نه: نمبر ڏيکاريو (متوازي اضلاع)، واپس وڃو ۽ ٻيو نمبر پڇو"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.5",
+            "name": "هيٺ ڏنل مسئلن لاءِ الگورٿم لکو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) هڪ عدد جي Input وٺي ۽ چيڪ ڪريو ته اهو عدد ٻڌي، اڪي، يا ٻڙي 0 آهي.",
+                    "a": "1. شروع ڪريو.\n2. هڪ عدد داخل ڪريو: N\n3. جيڪڏهن N = 0 آهي ته \"ٻڙي\" ڏيکاريو.\n4. ٻي صورت ۾ جيڪڏهن N % 2 = 0 آهي ته \"ٻڌي\" (Even) ڏيکاريو.\n5. ٻي صورت ۾ \"اڪي\" (Odd) ڏيکاريو.\n6. ختم ڪريو."
+                  },
+                  {
+                    "q": "(ii) ڪتاب جي قيمت پڙهي ۽ اصل قيمت تي 10 سيڪڙو رعايت لاڳو ڪرڻ کان پوءِ آخري رعايتي قيمت ڏيکاري.",
+                    "a": "1. شروع ڪريو.\n2. ڪتاب جي اصل قيمت داخل ڪريو: Price\n3. رعايت = Price × 0.10 حساب ڪريو.\n4. آخري قيمت = Price − رعايت حساب ڪريو.\n5. آخري رعايتي قيمت ڏيکاريو.\n6. ختم ڪريو."
+                  },
+                  {
+                    "q": "(iii) (اشارو) 10 سيڪڙو رعايت جو حساب ڪتاب جي اصل قيمت کي 0.10 سان ضرب ڪري ۽ پوءِ نتيجي ۾ ايندڙ قيمت کي اصل قيمت مان گهٽائڻ سان ڪيو ويندو آهي.",
+                    "a": "رعايت = اصل قيمت × 0.10؛ آخري قيمت = اصل قيمت − رعايت."
+                  },
+                  {
+                    "q": "(iv) زاويار ڪتاب خريد ڪرڻ لاءِ ڪتابن جي دڪان تي آهي — جيڪڏهن ڪنهن ڪتاب جي قيمت 500 رپين کان وڌيڪ آهي، يا جيڪڏهن زاويار شاگرد آهي، ته زاويار کي 20 سيڪڙو رعايت ملندي، ٻي صورت ۾ ڪيس به رعايت نه ملندي.",
+                    "a": "1. شروع ڪريو.\n2. ڪتاب جي قيمت داخل ڪريو ۽ پڇو ته زاويار شاگرد آهي يا نه.\n3. جيڪڏهن ڪتاب جي قيمت 500 رپين کان وڌيڪ آهي يا زاويار شاگرد آهي ته رعايت = قيمت × 0.20 حساب ڪريو.\n4. آخري قيمت = قيمت − رعايت حساب ڪريو.\n5. ٻي صورت ۾ ڪا به رعايت نه ملندي؛ آخري قيمت = قيمت.\n6. آخري قيمت ڏيکاريو.\n7. ختم ڪريو."
+                  },
+                  {
+                    "q": "(v) هڪ الگورٿم لکو جيڪو نالي جي Input وٺي ۽ ان کي اسڪرين تي 10 ڀيرا پرنٽ ڪري.",
+                    "a": "1. شروع ڪريو.\n2. ڪائونٽر = 1 مقرر ڪريو.\n3. نالو داخل ڪريو.\n4. جيستائين ڪائونٽر <= 10 آهي: نالو پرنٽ ڪريو، ڪائونٽر = ڪائونٽر + 1 ڪريو.\n5. ختم ڪريو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.6",
+            "name": "ڪلاس سرگرمي",
+            "exercises": [
+              {
+                "label": "1",
+                "items": [
+                  {
+                    "q": "(i) ڪل ٽيڪس جو حساب لڳايو: هڪ گراهڪ کي هيٺين شين جي خريداري لاءِ مجموعي طور تي ادا ڪرڻو پوندو — مائوس ۽ ڪي بورڊ؛ هر پراڊڪٽ تي 10 سيڪڙو ٽيڪس لڳو آهي. هيٺ ڏنل الگورٿم جي نمائندگي ڪرڻ لاءِ هڪ فلو چارٽ ناهيو.",
+                    "a": "مرحلو 1: مائوس جي قيمت (P1) داخل ڪريو.\nمرحلو 2: ڪي بورڊ جي قيمت (P2) داخل ڪريو.\nمرحلو 3: مائوس تي لڳندڙ ٽيڪس ڳڻيو: Tax1 = P1 × 0.10\nمرحلو 4: ڪي بورڊ تي لڳندڙ ٽيڪس ڳڻيو: Tax2 = P2 × 0.10\nمرحلو 5: ڪل ٽيڪس ڳڻيو: Total Tax = Tax1 + Tax2\nمرحلو 6: Total Tax پرنٽ ڪريو (ظاهر ڪريو).\nمرحلو 7: ختم ڪريو."
+                  }
+                ]
+              },
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "(1) جيستائين مٽي آلي (پيسيل) نه ٿئي، ٻوٽي کي پاڻي ڏيندا رهو.",
+                    "a": "محدود لوپ"
+                  },
+                  {
+                    "q": "(2) هڪ راند تيستائين جاري رهندي آهي جيستائين هڪ رانديگر جي صحت Zero ته نه پڄي.",
+                    "a": "محدود لوپ"
+                  },
+                  {
+                    "q": "(3) هڪ ڪمپيوٽر پروگرام مسلسل نون اي ميلن جي جانچ ڪندو رهي ٿو.",
+                    "a": "لامحدود لوپ"
+                  },
+                  {
+                    "q": "(4) هڪ ٽريفڪ لائٽ ڏينهن ۾ بار بار رنگ تبديل ڪندي رهي ٿي.",
+                    "a": "لامحدود لوپ"
+                  },
+                  {
+                    "q": "(5) هڪ روبوٽ هڪ کان پوءِ 3 ٻوٽن کي پاڻي ڏئي ٿو.",
+                    "a": "محدود لوپ"
+                  },
+                  {
+                    "q": "(6) جيستائين توهان صحيح اندازو نه لڳايو، منهنجي ڳجهي نمبر جو اندازو لڳايو.",
+                    "a": "محدود لوپ"
+                  },
+                  {
+                    "q": "(7) عنايت رياضي جي مشق ڪندي رهي ٿي جيستائين هوءَ 10 مسئلا حل نه ڪري.",
+                    "a": "محدود لوپ"
+                  },
+                  {
+                    "q": "(8) هڪ روبوٽ فرش صاف ڪندو رهي ٿو جيستائين ان جي بيٽري ختم نه ٿئي.",
+                    "a": "محدود لوپ"
+                  },
+                  {
+                    "q": "(9) حمزه پنهنجو گهر جو ڪم مڪمل ٿيڻ تائين ڪندو آهي.",
+                    "a": "محدود لوپ"
+                  },
+                  {
+                    "q": "(10) 10 کان 1 تائين ڳڻپ ڪريو.",
+                    "a": "محدود لوپ"
+                  }
+                ]
+              },
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "(1) جيڪڏهن پاسورڊ صحيح آهي، ته پوءِ لاگ ان ڪريو؛ ٻي صورت ۾ غلطي جو پيغام ڏيکاريو.",
+                    "a": "جيڪڏهن-ٻيو بيان"
+                  },
+                  {
+                    "q": "(2) جيڪڏهن صارف \"جمع ڪريو\" تي ڪلڪ ڪري ٿو، ته پوءِ فارم محفوظ ڪريو.",
+                    "a": "جيڪڏهن بيان"
+                  },
+                  {
+                    "q": "(3) جيڪڏهن گرمي پد 40°C کان وڌيڪ آهي، ته پوءِ گرمي جي خبرداري ڏيکاريو؛ ٻي صورت ۾ جيڪڏهن گرمي پد 10°C کان گهٽ آهي، ته پوءِ ٿڌ جي خبرداري ڏيکاريو؛ ٻي صورت ۾ نارمل ڏيکاريو.",
+                    "a": "جيڪڏهن-ٻيو-جيڪڏهن-ٻيو بيان"
+                  },
+                  {
+                    "q": "(4) جيڪڏهن فائل موجود آهي، ان کي کوليو.",
+                    "a": "جيڪڏهن بيان"
+                  },
+                  {
+                    "q": "(5) جيڪڏهن پکو هلايو ڪمر گرم آهي.",
+                    "a": "جيڪڏهن بيان"
+                  },
+                  {
+                    "q": "(6) جيڪڏهن ادائگي ڪامياب ٿي وڃي ته رسيد ڏيکاريو؛ ٻي صورت ۾ غلطي ڏيکاريو.",
+                    "a": "جيڪڏهن-ٻيو بيان"
+                  },
+                  {
+                    "q": "(7) جيڪڏهن ٽريفڪ جي روشني ڳاڙهي آهي، ته پوءِ روڪيو؛ نه ته وڃو.",
+                    "a": "جيڪڏهن-ٻيو بيان"
+                  },
+                  {
+                    "q": "(8) جيڪڏهن موبائل جي بيٽري گهٽ آهي، بيٽري جي خبرداري ڏيکاريو.",
+                    "a": "جيڪڏهن بيان"
+                  },
+                  {
+                    "q": "(9) جيڪڏهن شاگرد تاخير سان آهي ته غير حاضر کي نشان لڳايو؛ ٻي صورت ۾ موجود کي نشان لڳايو.",
+                    "a": "جيڪڏهن-ٻيو بيان"
+                  },
+                  {
+                    "q": "(10) جيڪڏهن وائي فائي ڳنڍيل آهي، آن لائين ٿيو.",
+                    "a": "جيڪڏهن بيان"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 4,
+        "title": "پروگرامنگ",
+        "reading": "پروگرامنگ",
+        "display": "پروگرامنگ",
+        "sections": [
+          {
+            "num": "4.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ASCII جو مطلب آهي:\n(الف) معلومات جي مٽاسٽا لاءِ آمريڪي سائنسي ڪردار\n(ب) معلومات جي مٽاسٽا لاءِ آمريڪي معياري ڪوڊ ✓\n(ج) معلومات جي مٽاسٽا لاءِ آمريڪي سادي شق\n(د) معلومات جي مٽاسٽا لاءِ آمريڪي ساختي ڪردار",
+                    "a": "(ب) معلومات جي مٽاسٽا لاءِ آمريڪي معياري ڪوڊ"
+                  },
+                  {
+                    "q": "(ii) اسڪريچ ۾ بلڊنگ بلاڪ ڪيترن ئي قسمن ۾ ورهايل آهن، هيٺ ڏنل بلاڪ ڪهڙي درجي سان تعلق رکي ٿو؟ [move 10 steps]\n(الف) ايونٽ\n(ب) آپريٽرز\n(ج) حرڪت ✓\n(د) ڪنٽرول",
+                    "a": "(ج) حرڪت"
+                  },
+                  {
+                    "q": "(iii) هيٺ ڏنل مان ڪهڙو بائنري نمبر ناهي؟\n(الف) 1111\n(ب) 101\n(ج) 11E ✓\n(د) 000",
+                    "a": "(ج) 11E"
+                  },
+                  {
+                    "q": "(iv) هيٺ ڏنل تصوير جو حوالو ڏئي ٻڌايو ته هيٺ ڏنل آپشنز مان ڪهڙو اسپرائٽ ڪيٽ کي (0,0) ڏانهن منتقل ڪري سگهي ٿو؟\n(الف) سائي جهنڊي تي ڪلڪ ڪريو ✓\n(ب) ڪيٽ تي ڪلڪ ڪريو\n(ج) stop all\n(د) move 10 steps",
+                    "a": "(الف) سائي جهنڊي تي ڪلڪ ڪريو"
+                  },
+                  {
+                    "q": "(v) ______ سطح جو مرڪزي ڪوآرڊينيٽ آهي. XY\n(الف) X=0, Y=0 ✓\n(ب) X=0, Y=180\n(ج) X=-240, Y=0\n(د) X=0, Y=-240",
+                    "a": "(الف) X=0, Y=0"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.2",
+            "name": "هيٺ ڏنل سوالن جا جواب ڏيو",
+            "exercises": [
+              {
+                "label": "2",
+                "items": [
+                  {
+                    "q": "2. ڪمپيوٽر تي (ڄاڻ) معلومات ڪيئن محفوظ ڪئي ويندي آهي؟",
+                    "a": "ڪمپيوٽر تي معلومات بائنري نمبرن جي شڪل ۾ محفوظ ڪئي ويندي آهي — صرف 0 ۽ 1؛ سڀ متن، تصويرون، آواز ۽ وڊيو بائنري ۾ تبديل ڪيا ويندا آهن (1 = آن، 0 = آف)."
+                  }
+                ]
+              },
+              {
+                "label": "3",
+                "items": [
+                  {
+                    "q": "3. بائنري ۽ ڊيسيمل نمبر سسٽم ۾ فرق ڪريو.",
+                    "a": "ڊيسيمل نمبر سسٽم جو بنياد 10 آهي ۽ ان ۾ 0 کان 9 تائين 10 انگ استعمال ٿين ٿا؛ بائنري نمبر سسٽم جو بنياد 2 آهي ۽ ان ۾ صرف 0 ۽ 1 استعمال ٿين ٿا. انسان ڊيسيمل استعمال ڪن ٿا، ڪمپيوٽر بائنري استعمال ڪري ٿو."
+                  }
+                ]
+              },
+              {
+                "label": "4",
+                "items": [
+                  {
+                    "q": "4. اسڪريچ پروگرامنگ ۾ بلاڪ پيليٽس جا ڪيترا قسم آهن؟",
+                    "a": "اسڪريچ ۾ بلاڪ پيليٽس جا 9 قسم آهن: حرڪت (Motion)، لُڪس (Looks)، سائونڊ (Sound)، ايونٽس (Events)، ڪنٽرول (Control)، سينسنگ (Sensing)، آپريٽرز (Operators)، ويريبل (Variables) ۽ مائي بلاڪ (My Blocks)."
+                  }
+                ]
+              },
+              {
+                "label": "5",
+                "items": [
+                  {
+                    "q": "5. اسڪريچ ۾ واقعن جي وضاحت ڪريو ۽ ڪجهه مثال ڏيو.",
+                    "a": "واقعو (Event) ڪا شيءِ آهي جيڪا ٿئي ٿي ۽ پروگرام کي جواب ڏيڻ تي مجبور ڪري ٿي؛ مثال: when green flag clicked (پروگرام شروع ڪريو)، when space key pressed، when this sprite clicked، when backdrop switches to backdrop1، when loudness > 10 ۽ when I receive message1."
+                  }
+                ]
+              },
+              {
+                "label": "6",
+                "items": [
+                  {
+                    "q": "(i) اسپرائٽ (Sprite)",
+                    "a": "اسپرائٽ اسڪريچ ۾ هڪ ڪردار يا شئي آهي جيڪا پروجيڪٽ ۾ عمل ڪري ٿي؛ مثال: ڪيٽ (Cat)، چِڪ (Chick) ۽ ايگ (Egg)."
+                  },
+                  {
+                    "q": "(ii) اسٽيج (Stage)",
+                    "a": "اسٽيج اهو علائقو آهي جتي اسپرائٽ عمل ڪن ٿا ۽ حرڪت ڪن ٿا؛ اسٽيج جا ڪوآرڊينيٽ X = -240 کان 240 ۽ Y = -180 کان 180 تائين آهن، مرڪز (0, 0) آهي."
+                  },
+                  {
+                    "q": "(iii) ڪاسٽيوم (Costume)",
+                    "a": "ڪاسٽيوم اسپرائٽ جي ظاهر يا ڊيزائين آهي؛ ڪاسٽيوم تبديل ڪرڻ سان اسپرائٽ جي شڪل تبديل ٿئي ٿي."
+                  },
+                  {
+                    "q": "(iv) متغير (Variable)",
+                    "a": "متغير هڪ اهڙي قيمت آهي جيڪا تبديل ٿي سگهي ٿي؛ اهو ڳڻپ يا وقت لاءِ استعمال ٿئي ٿو؛ مثال: اسڪور (Score)، ٽائمر (Timer) ۽ فنش (Finish)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.3",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) بائنري نمبر سسٽم ۾ بنيادي قدر ______ آهي.",
+                    "a": "بائنري نمبر سسٽم ۾ بنيادي قدر 2 آهي."
+                  },
+                  {
+                    "q": "(ii) ڊهائي نمبر 10 جو بائنري برابر ______ آهي.",
+                    "a": "ڊهائي نمبر 10 جو بائنري برابر 1010 آهي."
+                  },
+                  {
+                    "q": "(iii) ______ بائنري برابر 10101 جو ڊهائي قدر آهي.",
+                    "a": "21 بائنري برابر 10101 جو ڊهائي قدر آهي."
+                  },
+                  {
+                    "q": "(iv) ڪمپيوٽر صرف ______ ۽ ______ کي سمجهي ٿو.",
+                    "a": "ڪمپيوٽر صرف 0 ۽ 1 کي سمجهي ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.4",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "نمبر سسٽم",
+                "items": [
+                  {
+                    "q": "ڊيسيمل نمبر سسٽم جو بنياد ڇا آهي؟",
+                    "a": "10"
+                  },
+                  {
+                    "q": "بائنري نمبر سسٽم جو بنياد ڇا آهي؟",
+                    "a": "2"
+                  },
+                  {
+                    "q": "آڪٽل نمبر سسٽم جو بنياد ڇا آهي؟",
+                    "a": "8"
+                  },
+                  {
+                    "q": "هيڪسا ڊيسيمل نمبر سسٽم جو بنياد ڇا آهي؟",
+                    "a": "16"
+                  },
+                  {
+                    "q": "ڊيسيمل نمبر 15 جو بائنري برابر ڇا آهي؟",
+                    "a": "1111"
+                  },
+                  {
+                    "q": "ڊيسيمل نمبر 25 جو بائنري برابر ڇا آهي؟",
+                    "a": "11001"
+                  },
+                  {
+                    "q": "بائنري نمبر 1011 جو ڊيسيمل برابر ڇا آهي؟",
+                    "a": "11"
+                  },
+                  {
+                    "q": "بائنري نمبر 1001 جو ڊيسيمل برابر ڇا آهي؟",
+                    "a": "9"
+                  }
+                ]
+              },
+              {
+                "label": "انڪوڊنگ ۽ ڊيڪوڊنگ",
+                "items": [
+                  {
+                    "q": "انڪوڊنگ ڇا آهي؟",
+                    "a": "انڪوڊنگ ڊيٽا کي بائنري ۾ تبديل ڪرڻ آهي ته جيئن ڪمپيوٽر ان کي محفوظ ۽ پروسيس ڪري سگهي."
+                  },
+                  {
+                    "q": "ڊيڪوڊنگ ڇا آهي؟",
+                    "a": "ڊيڪوڊنگ بائنري کي واپس اهڙي شڪل ۾ تبديل ڪرڻ آهي جيڪا انسان سمجهي سگهي."
+                  },
+                  {
+                    "q": "ASCII جو پورو نالو ڇا آهي؟",
+                    "a": "American Standard Code for Information Interchange."
+                  },
+                  {
+                    "q": "اکر A جو ASCII ڪوڊ ڇا آهي؟",
+                    "a": "065 (01000001)."
+                  },
+                  {
+                    "q": "رنگين تصوير ۾ هر پڪسل لاءِ ڪيترا بِٽ استعمال ٿين ٿا؟",
+                    "a": "24 بِٽ (8 + 8 + 8 — ڳاڙهو، سائو ۽ نيرو)."
+                  },
+                  {
+                    "q": "بائنري تصوير ۾ هر پڪسل لاءِ ڪيترا بِٽ استعمال ٿين ٿا؟",
+                    "a": "1 بِٽ (0 = ڪارو، 1 = اڇو)."
+                  }
+                ]
+              },
+              {
+                "label": "اسڪريچ پروگرامنگ",
+                "items": [
+                  {
+                    "q": "اسڪريچ ڇا آهي؟",
+                    "a": "اسڪريچ هڪ بصري بلاڪ تي ٻڌل پروگرامنگ پليٽ فارم آهي جيڪو ڪمپيوٽيشنل سوچ سيکاري ٿو."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ اسپرائٽ ڇا آهي؟",
+                    "a": "اسپرائٽ اسڪريچ ۾ هڪ ڪردار يا شئي آهي جيڪا پروجيڪٽ ۾ عمل ڪري ٿي."
+                  },
+                  {
+                    "q": "اسٽيج جي مرڪز جا ڪوآرڊينيٽ ڇا آهن؟",
+                    "a": "X = 0, Y = 0."
+                  },
+                  {
+                    "q": "X ڪوآرڊينيٽ جي حد ڇا آهي؟",
+                    "a": "-240 کان 240 تائين."
+                  },
+                  {
+                    "q": "Y ڪوآرڊينيٽ جي حد ڇا آهي؟",
+                    "a": "-180 کان 180 تائين."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ واقعو (Event) ڇا آهي؟",
+                    "a": "واقعو ڪا شيءِ آهي جيڪا ٿئي ٿي ۽ پروگرام کي جواب ڏيڻ تي مجبور ڪري ٿي؛ مثال: when green flag clicked ۽ when space key pressed."
+                  },
+                  {
+                    "q": "\"when green flag clicked\" بلاڪ ڪهڙي قسم جو آهي؟",
+                    "a": "ايونٽ (Events) قسم جو."
+                  },
+                  {
+                    "q": "\"move 10 steps\" بلاڪ ڪهڙي قسم جو آهي؟",
+                    "a": "حرڪت (Motion) قسم جو."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ متغير (Variable) ڇا لاءِ استعمال ٿئي ٿو؟",
+                    "a": "متغير ڳڻپ يا وقت لاءِ استعمال ٿئي ٿو؛ مثال: اسڪور (Score) ۽ ٽائمر (Timer)."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ ڪاسٽيوم ڇا آهي؟",
+                    "a": "ڪاسٽيوم اسپرائٽ جي ظاهر يا ڊيزائين آهي."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 5,
+        "title": "ڊجيٽل شهريت",
+        "reading": "ڊجيٽل شهريت",
+        "display": "ڊجيٽل شهريت",
+        "sections": [
+          {
+            "num": "5.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) هيٺ ڏنل مان ڪهڙو آن لائين مناسب رويي جو مثال آهي؟\n(الف) ڪنهن جون خانگي تصويرون شيئر ڪرڻ\n(ب) غلط معلومات پکيڙڻ\n(ج) پيغامن ۾ شائستگي ۽ واري ٻولي استعمال ڪرڻ ✓\n(د) سائبر بدمعاشي کي نظرانداز ڪرڻ",
+                    "a": "(ج) پيغامن ۾ شائستگي ۽ واري ٻولي استعمال ڪرڻ"
+                  },
+                  {
+                    "q": "(ii) 'netiquette' اصطلاح ڇا جو حوالو ڏئي ٿو؟\n(الف) ڪمپيوٽر وائرس جو مطالعو\n(ب) انٽرنيٽ تي مناسب ۽ احترام وارو رويو ✓\n(ج) غير قانوني آن لائين سرگرميون\n(د) آن لائين شاپنگ لاءِ ضابطا",
+                    "a": "(ب) انٽرنيٽ تي مناسب ۽ احترام وارو رويو"
+                  },
+                  {
+                    "q": "(iii) ڪهڙو سوشل ميڊيا استعمال ڪرڻ جو مثبت اثر آهي؟\n(الف) آن لائين اسڪيمون\n(ب) عالمي دوست ناهڻ ۽ سکن ✓\n(ج) سائبر بدمعاشي\n(د) اسڪرين ٽائيم جي عادت",
+                    "a": "(ب) عالمي دوست ناهڻ ۽ سکن"
+                  },
+                  {
+                    "q": "(iv) ڪهڙو ڪمپيوٽر کي وائرس کان بچائڻ جو هڪ مناسب طريقو آهي؟\n(الف) فائر وال کي غير فعال ڪرڻ\n(ب) پاسورڊ شيئر ڪرڻ\n(ج) نامعلوم اي ميل اٽيچمينٽ کولڻ\n(د) اينٽي وائرس سافٽ ويئر استعمال ڪرڻ ✓",
+                    "a": "(د) اينٽي وائرس سافٽ ويئر استعمال ڪرڻ"
+                  },
+                  {
+                    "q": "(v) ڊجيٽل تعصب جو ڇا مطلب آهي؟\n(الف) سڀني راين (خيالن) سان انصاف ڪرڻ\n(ب) افواهون پکيڙڻ\n(ج) مائهو سان آن لائين غير منصفاڻو سلوڪ ڪرڻ ✓\n(د) ڪنهن جي ذاتي ڊيٽا شيئر ڪرڻ",
+                    "a": "(ج) مائهو سان آن لائين غير منصفاڻو سلوڪ ڪرڻ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ٻين جي راءِ جو احترام ڪرڻ آن لائين ______ رويي جي هڪ مثال آهي.",
+                    "a": "ٻين جي راءِ جو احترام ڪرڻ آن لائين مناسب رويي جي هڪ مثال آهي."
+                  },
+                  {
+                    "q": "(ii) ______ سافٽ ويئر ڊوائيس کي وائرس کان بچائڻ ۾ مدد ڪري ٿو.",
+                    "a": "اينٽي وائرس سافٽ ويئر ڊوائيس کي وائرس کان بچائڻ ۾ مدد ڪري ٿو."
+                  },
+                  {
+                    "q": "(iii) گيمر چيٽ تي ڪلاس ميٽ کي ______ پيغام موڪلڻ سائبر بدمعاشي جي هڪ مثال آهي.",
+                    "a": "گيمر چيٽ تي ڪلاس ميٽ کي تڪليف ڏيندڙ پيغام موڪلڻ سائبر بدمعاشي جي هڪ مثال آهي."
+                  },
+                  {
+                    "q": "(iv) ڪنهن بابت ______ پکيڙڻ هڪ نامناسب عمل آهي.",
+                    "a": "ڪنهن بابت افواهون پکيڙڻ هڪ نامناسب عمل آهي."
+                  },
+                  {
+                    "q": "(v) ______ سافٽ ويئر ڊائون لوڊ ڪرڻ ڪمپيوٽر وسيلن جي غلط استعمال جي هڪ مثال آهي.",
+                    "a": "غير قانوني سافٽ ويئر ڊائون لوڊ ڪرڻ ڪمپيوٽر وسيلن جي غلط استعمال جي هڪ مثال آهي."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) نيٽيڪيٽ ڇا آهي؟",
+                    "a": "نيٽيڪيٽ لفظ 'نيٽ' ۽ 'آداب' مان ناهيو ويو آهي؛ ان جو مطلب آهي انٽرنيٽ ۽ سوشل ميڊيا (واٽس ايپ، فيس بڪ، انسٽاگرام، سنيپ چيٽ، ٽڪ ٽاڪ) تي مناسب ۽ احترام وارو رويو — شائستگي وارا لفظ استعمال ڪرڻ، ٻين جي رازداري جو احترام ڪرڻ، مضبوط پاسورڊ استعمال ڪرڻ ۽ پوسٽ ڪرڻ کان اڳ سوچڻ."
+                  },
+                  {
+                    "q": "(ii) سائبر بدمعاشي ڇا آهي؟",
+                    "a": "سائبر بدمعاشي ٽيڪنالاجي (فون، ڪمپيوٽر، ٽيبليٽ) استعمال ڪري ڪنهن کي بار بار تڪليف پهچائڻ، شرمسار ڪرڻ يا ڌمڪائڻ آهي؛ مثال: خراب پيغام موڪلڻ، شرمناڪ تصويرون شيئر ڪرڻ ۽ افواهون پکيڙڻ. ان جا قسم آهن: هراسانتي، نقالي، ٻاهر نڪرڻ، خارج ڪرڻ ۽ سائبر اسٽالڪنگ."
+                  },
+                  {
+                    "q": "(iii) سوشل ميڊيا استعمال ڪرڻ جي هڪ مثبت اثر جو نالو ٻڌايو.",
+                    "a": "سوشل ميڊيا جو هڪ مثبت اثر آهي: عالمي دوست ناهڻ ۽ نوان سکيا حاصل ڪرڻ — خاندان ۽ دوستن سان ڳنڍجڻ، نوان هنر سکن ۽ تخليقي خيال شيئر ڪرڻ."
+                  },
+                  {
+                    "q": "(iv) ڊجيٽل تعصب ڇا آهي؟",
+                    "a": "ڊجيٽل تعصب (Bias) اهو آهي جڏهن آن لائين معلومات هڪ ئي پاسي کان ڏيکاري وڃي ٿي ۽ حقيقت يا ٻيو پاسو لڪايو وڃي ٿو؛ مثال: انسٽاگرام تي صرف خوشي جا لمحا ڏيکارڻ، فيس بڪ تي اڌ ڪهاڻي ٻڌائڻ ۽ خبرن ۾ صرف هڪ پاسي جي ڳالهه ڪرڻ."
+                  },
+                  {
+                    "q": "(v) ڪمپيوٽر خطرو ڇا آهي؟ ڪمپيوٽر خطرن جا ڪي به پنج مثال ڏيو.",
+                    "a": "ڪمپيوٽر خطرو اها شيءِ آهي جيڪا ڪمپيوٽر، نيٽ ورڪ يا ان ۾ محفوظ معلومات کي نقصان پهچائي سگهي ٿي؛ پنج مثال: 1. ڪمزور پاسورڊ، 2. فشنگ، 3. جعلي ويب سائيٽون، 4. هيڪنگ، 5. مالويئر (وائرس)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.4",
+            "name": "ڪلاس سرگرمي 1",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "هڪ دوست جي مدد ڪرڻ جيڪو پنهنجو گهر جو ڪم وساري ويٺو آهي.",
+                    "a": "مناسب"
+                  },
+                  {
+                    "q": "ڪنهن قابل اعتماد بالغ کي سائبر بدمعاشي، يا ڪنهن به نقصانڪار رويي جي رپورٽ ڪرڻ.",
+                    "a": "مناسب"
+                  },
+                  {
+                    "q": "محفوظ ويب سائيٽن جو دورو ڪرڻ ۽ ايپس يا فائلون ڊائون لوڊ ڪرڻ کان اڳ ڪنهن بالغ کان پڇڻ.",
+                    "a": "مناسب"
+                  },
+                  {
+                    "q": "هڪ دوست کي نظرانداز ڪرڻ جيڪو ڪري پيو ۽ زخمي ٿيو.",
+                    "a": "نامناسب"
+                  },
+                  {
+                    "q": "شائستگي سان \"مهرباني ڪري\" ۽ \"مهرباني\" چوڻ.",
+                    "a": "مناسب"
+                  },
+                  {
+                    "q": "ڪنهن جي باري ۾ افواهون پکيڙڻ.",
+                    "a": "نامناسب"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.5",
+            "name": "ڪلاس سرگرمي 2",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "توهان جو دوست پلي جي هڪ مزاحيه وڊيو موڪلي ٿو.",
+                    "a": "سائبر بدمعاشي نه"
+                  },
+                  {
+                    "q": "ڪو مائهو توهان جي ڪلاس ميٽ کي گيمر چيٽ تي خراب پيغام موڪلي ٿو.",
+                    "a": "سائبر بدمعاشي"
+                  },
+                  {
+                    "q": "توهان غلطي سان واٽس اپ ذريعي مائهو کي ٽيڪسٽ پيغام موڪليو.",
+                    "a": "سائبر بدمعاشي نه"
+                  },
+                  {
+                    "q": "هڪ شخص ٻئي شاگرد جي شرمناڪ تصوير بغير اجازت جي آن لائين پوسٽ ڪري ٿو.",
+                    "a": "سائبر بدمعاشي"
+                  },
+                  {
+                    "q": "ڪو مائهو توهان کي آن لائين گروپ مان ڪڍي ڇڏيندو آهي جتي توهان جا دوست آهن.",
+                    "a": "سائبر بدمعاشي"
+                  },
+                  {
+                    "q": "توهان جو استاد هڪ تعليمي وڊيو جو لنڪ موڪلي ٿو.",
+                    "a": "سائبر بدمعاشي نه"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 6,
+        "title": "انٽرپرينئرشپ (ڪاروبار جو خيال/شروع ڪرڻ)",
+        "reading": "انٽرپرينئرشپ (ڪاروبار جو خيال/شروع ڪرڻ)",
+        "display": "انٽرپرينئرشپ (ڪاروبار جو خيال/شروع ڪرڻ)",
+        "sections": [
+          {
+            "num": "6.1",
+            "name": "صحيح جواب جي چوڌاري گول دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) جيڪو شخص نئون ڪاروبار شروع ڪري ٿو ان کي سڏيو ويندو آهي؟\n(الف) گراهڪ\n(ب) جدت پسند\n(ج) انٽرپرينئر ✓\n(د) مئنيجر",
+                    "a": "(ج) انٽرپرينئر"
+                  },
+                  {
+                    "q": "(ii) ڪاغذ کي خوبصورت شڪلين ۾ فولڊ ڪرڻ جو فن؟\n(الف) ڊيزائين سوچ\n(ب) ڪاروباري\n(ج) اوريگامي ✓\n(د) جدت",
+                    "a": "(ج) اوريگامي"
+                  },
+                  {
+                    "q": "(iii) گڏيل قومن (اقوام متحده) جا ڪيترا خاص مقصد ناهيا؟\n(الف) 10\n(ب) 15\n(ج) 17 ✓\n(د) 20",
+                    "a": "(ج) 17"
+                  },
+                  {
+                    "q": "(iv) اهو مرحلو جتي هڪ پراڊڪٽ يا خيال کي آزمايو وڃي ٿو اهو ڪم ڪري ٿو يا نه؟\n(الف) خيال\n(ب) غور ڪريو\n(ج) ٽيسٽ ✓\n(د) وضاحت ڪريو",
+                    "a": "(ج) ٽيسٽ"
+                  },
+                  {
+                    "q": "(v) پراڊڪٽ جو ماڊل يا نمونو سڏيو ويندو آهي؟\n(الف) سروس\n(ب) ڊيزائين\n(ج) پروٽوٽائپ ✓\n(د) منصوبو",
+                    "a": "(ج) پروٽوٽائپ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.2",
+            "name": "خالي جاين کي مناسب لفظن سان ڀريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) ڪاروباريت جو مطلب آهي ته ڪو مائهو هڪ موقعي جي سڃاڻپ ڪري ٿو ۽ ڪنهن مسئلي کي حل ڪرڻ لاءِ هڪ نئون ______ شروع ڪري ٿو.",
+                    "a": "ڪاروباريت جو مطلب آهي ته ڪو مائهو هڪ موقعي جي سڃاڻپ ڪري ٿو ۽ ڪنهن مسئلي کي حل ڪرڻ لاءِ هڪ نئون ڪاروبار شروع ڪري ٿو."
+                  },
+                  {
+                    "q": "(ii) جدت مائهو کي سوچڻ جا ______ طريقا تبديل ڪرڻ ۾ نوان طريقا آزمائڻ ۾ مدد ڪري ٿي.",
+                    "a": "جدت مائهو کي سوچڻ جا پراڻا طريقا تبديل ڪرڻ ۾ نوان طريقا آزمائڻ ۾ مدد ڪري ٿي."
+                  },
+                  {
+                    "q": "(iii) ڊيزائين سوچ حقيقي زندگي جي مسئلن کي حل ڪرڻ لاءِ هڪ ______ طريقو آهي.",
+                    "a": "ڊيزائين سوچ حقيقي زندگي جي مسئلن کي حل ڪرڻ لاءِ هڪ مرحليوار طريقو آهي."
+                  },
+                  {
+                    "q": "(iv) اهو مرحلو جتي موٽ جي بنياد تي پراڊڪٽ کي بهتر بڻايو ويندو آهي ان کي ______ سڏيو ويندو آهي.",
+                    "a": "اهو مرحلو جتي موٽ جي بنياد تي پراڊڪٽ کي بهتر بڻايو ويندو آهي ان کي پير ورجائڻ سڏيو ويندو آهي."
+                  },
+                  {
+                    "q": "(v) هڪ ______ يا خدمت ڪم يا مدد آهي جيڪا ڪو مائهو ٻين کي انهن جي ضرورتن کي پورو ڪرڻ لاءِ مھيا ڪري ٿو.",
+                    "a": "هڪ مصنوعات يا خدمت ڪم يا مدد آهي جيڪا ڪو مائهو ٻين کي انهن جي ضرورتن کي پورو ڪرڻ لاءِ مھيا ڪري ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.3",
+            "name": "هيٺ ڏنل سوالن جا وضاحتي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) مسئلي جي سڃاڻپ ڇا آهي؟",
+                    "a": "مسئلي جي سڃاڻپ ڊيزائين سوچ جو پهريون مرحلو آهي؛ ان ۾ اهو ڳوليو ويندو آهي ته اصل مسئلو يا ضرورت ڇا آهي جيڪا حل ٿيڻ گهرجي — مثال: مائهو کي ڪهڙي شيءِ جي ضرورت آهي يا ڪهڙي شيءِ بهتر ٿي سگهي ٿي."
+                  },
+                  {
+                    "q": "(ii) ان مرحلي جو نالو ڇا آهي جتي هڪ ڪاروباري حقيقي گراهڪن کي تيار ڪيل شيون وڪڻڻ شروع ڪري ٿو؟",
+                    "a": "عمل درآمد (Implementation) — اهو ڊيزائين سوچ جو آخري مرحلو آهي جتي ڪاروباري تيار پراڊڪٽ کي حقيقي گراهڪن لاءِ مارڪيٽ ۾ پيش ڪري ٿو."
+                  },
+                  {
+                    "q": "(iii) ڊيزائين سوچ جو عمل ڇا آهي؟",
+                    "a": "ڊيزائين سوچ جو عمل 9 مرحلن تي ٻڌل آهي: 1. سڃاڻپ ڪرڻ (Identify)، 2. همدردي ڪرڻ (Empathize)، 3. واضح ڪرڻ (Define)، 4. خيال پيدا ڪرڻ (Ideate)، 5. پروٽوٽائپ (Prototype)، 6. ٽيسٽ (Test)، 7. غور ۽ سوچ ويچار ڪرڻ (Reflect)، 8. پير ورجائڻ (Iterate)، 9. عمل درآمد (Implementation)."
+                  },
+                  {
+                    "q": "(iv) روزاني زندگي ۾ مسئلي جي حل جا ڪي پنج مثال ڏيو؟",
+                    "a": "1. مائهو کي سستي ۽ محفوظ ٽرانسپورٽ جي ضرورت آهي — سواري شيئر ڪرڻ واري ايپ (اسڪول وين ايپ)؛ 2. پراڻا ڪتاب وڌڻا آهن — OLX تي وڪڻڻ؛ 3. شاگرد گهر ۾ اڪيلو آهي ۽ ورڪ جي مدد چاهي ٿو — ٽيوٽر ايپ؛ 4. گوناگون کي ويجهو معياري شيون نه ملنديون آهن — آن لائين شاپنگ؛ 5. مائهو هٿ سان نهيل شيون وڪڻڻ چاهين ٿا — آن لائين اسٽور (Etsy)."
+                  },
+                  {
+                    "q": "(v) پائيدار ترقي جو مقصد نمبر هڪ (1) ڇا ختم ڪرڻ جو مقصد آهي؟",
+                    "a": "پائيدار ترقي جو مقصد نمبر هڪ (1) غربت جو خاتمو آهي (No Poverty) — يقيني بڻائڻ ته ڪنهن کي به غربت ۾ نه رهڻو پوي ۽ هر ڪنهن وٽ ڪافي پيسا هجن."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.4",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "ڪاروباريت",
+                "items": [
+                  {
+                    "q": "انٽرپرينئر ڪير آهي؟",
+                    "a": "انٽرپرينئر اهو شخص آهي جيڪو نئون ڪاروبار شروع ڪري ٿو ته جيئن مائهو جي ضرورت پوري ڪري ۽ آمدني حاصل ڪري."
+                  },
+                  {
+                    "q": "پراڊڪٽ ڇا آهي؟",
+                    "a": "پراڊڪٽ ڪا شيءِ آهي جيڪا مائهو جي مدد ڪري ٿي يا زندگي بهتر بڻائي ٿي؛ مثال: ڪتاب، جوتا ۽ رانديڪا."
+                  },
+                  {
+                    "q": "سروس ڇا آهي؟",
+                    "a": "سروس اهو ڪم يا مدد آهي جيڪا ڪو مائهو ٻين کي ڏئي ٿو؛ مثال: استاد، ڊاڪٽر ۽ ڊرائيور."
+                  },
+                  {
+                    "q": "اوريگامي ڇا آهي؟",
+                    "a": "اوريگامي ڪاغذ کي خوبصورت شڪلين ۾ فولڊ ڪرڻ جو فن آهي."
+                  },
+                  {
+                    "q": "ڪاروبار شروع ڪرڻ لاءِ پهرين شيءِ ڇا گهرجي؟",
+                    "a": "هڪ سٺو خيال ۽ مسئلي جي سڃاڻپ — اهو ڳولڻ ته مائهو کي ڪهڙي شيءِ جي ضرورت آهي."
+                  },
+                  {
+                    "q": "ساره ڪهڙو ڪاروبار شروع ڪيو؟",
+                    "a": "ساره ليمنيڊ وڪڻڻ جو ڪاروبار شروع ڪيو."
+                  },
+                  {
+                    "q": "علي ڪهڙو ڪاروبار شروع ڪيو؟",
+                    "a": "علي سلامي ڪارڊ ناهڻ جو ڪاروبار شروع ڪيو."
+                  },
+                  {
+                    "q": "اسلم ڪهڙو ڪاروبار شروع ڪيو؟",
+                    "a": "اسلم اسڪول ۾ ڪپ ڪيڪ وڪڻڻ جو ڪاروبار شروع ڪيو."
+                  }
+                ]
+              },
+              {
+                "label": "ڊيزائين سوچ",
+                "items": [
+                  {
+                    "q": "ڊيزائين سوچ ڇا آهي؟",
+                    "a": "ڊيزائين سوچ حقيقي زندگي جي مسئلن کي حل ڪرڻ لاءِ نوان ڪاروباري خيال پيدا ڪرڻ جو هڪ مرحليوار طريقو آهي."
+                  },
+                  {
+                    "q": "ڊيزائين سوچ جو پهريون مرحلو ڪهڙو آهي؟",
+                    "a": "مسئلي جي سڃاڻپ (Identify)."
+                  },
+                  {
+                    "q": "همدردي (Empathize) جو مطلب ڇا آهي؟",
+                    "a": "همدردي جو مطلب آهي مائهو سان ڳالهائڻ ۽ انهن جي مسئلن کي سمجھڻ لاءِ غور سان ٻڌڻ."
+                  },
+                  {
+                    "q": "پروٽوٽائپ ڇا آهي؟",
+                    "a": "پروٽوٽائپ ڪنهن خيال کي جانچڻ لاءِ هڪ پراڊڪٽ جو پهريون ماڊل يا نمونو آهي."
+                  },
+                  {
+                    "q": "پير ورجائڻ (Iterate) جو مطلب ڇا آهي؟",
+                    "a": "پير ورجائڻ جو مطلب آهي موٽ جي بنياد تي هڪ پراڊڪٽ کي بهتر بڻائڻ ۽ پير ڪوشش ڪرڻ."
+                  },
+                  {
+                    "q": "عمل درآمد (Implementation) ڪهڙو مرحلو آهي؟",
+                    "a": "عمل درآمد ڊيزائين سوچ جو آخري مرحلو آهي — تيار پراڊڪٽ کي حقيقي گراهڪن لاءِ مارڪيٽ ۾ پيش ڪرڻ."
+                  },
+                  {
+                    "q": "ڊيزائين سوچ جو هڪ فائدو ٻڌايو.",
+                    "a": "مسئلي جي واضح سمجھ، تخليقي حل، ٽيم ورڪ، مائهو جي ضرورتن تي ڌيان، خيالن جي جلدي آزمائش، غلطين مان سکن ۽ وقت ۽ وسيلن جي بچت."
+                  },
+                  {
+                    "q": "جدت (Innovation) ڇا آهي؟",
+                    "a": "جدت نوان ۽ هوشيار خيال استعمال ڪري زندگي کي آسان ۽ بهتر بڻائڻ آهي."
+                  }
+                ]
+              },
+              {
+                "label": "پائيدار ترقي جا مقصد (SDGs)",
+                "items": [
+                  {
+                    "q": "SDGs ڪيترا آهن؟",
+                    "a": "17"
+                  },
+                  {
+                    "q": "SDGs ڪنهن ناهيا؟",
+                    "a": "گڏيل قومن (اقوام متحده) ناهيا."
+                  },
+                  {
+                    "q": "SDG 1 ڇا آهي؟",
+                    "a": "غربت نه هجڻ (No Poverty) — غربت جو خاتمو."
+                  },
+                  {
+                    "q": "SDG 2 ڇا آهي؟",
+                    "a": "بک کان پاڪ (Zero Hunger)."
+                  },
+                  {
+                    "q": "SDG 3 ڇا آهي؟",
+                    "a": "سٺي صحت ۽ ڀلائي (Good Health and Well-Being)."
+                  },
+                  {
+                    "q": "SDG 4 ڇا آهي؟",
+                    "a": "معياري تعليم (Quality Education)."
+                  },
+                  {
+                    "q": "SDG 6 ڇا آهي؟",
+                    "a": "صاف پاڻي ۽ صفائي (Clean Water and Sanitation)."
+                  },
+                  {
+                    "q": "SDG 13 ڇا آهي؟",
+                    "a": "موسمياتي ڪارروائي (Climate Action)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      }
+    ],
     "mathsolutions": [
       {
         "exercises": [
@@ -248089,6 +253193,3586 @@ var STUDY = {
     ],
   },
   "vi": {
+    "csExsolutions": [
+      {
+        "unit": 1,
+        "title": "Introduction to Computers",
+        "reading": "Introduction to Computers",
+        "display": "Introduction to Computers",
+        "sections": [
+          {
+            "num": "1.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Which of the following is a storage device? (a) Keyboard (b) Mouse (c) Memory Card (d) Monitor",
+                    "a": "(c) Memory Card ✓"
+                  },
+                  {
+                    "q": "(ii) In which generation of computer, computers consumed a lot of power? (a) 1st generation (b) 2nd generation (c) 3rd generation (d) 4th generation",
+                    "a": "(a) 1st generation ✓"
+                  },
+                  {
+                    "q": "(iii) Which generation of computer is more powerful and efficient than other generation? (a) 1st generation (b) 2nd generation (c) 3rd generation (d) 4th generation",
+                    "a": "(d) 4th generation ✓"
+                  },
+                  {
+                    "q": "(iv) Which of the following device is used both as an input and an output device? (a) Plotter (b) Monitor (c) Interactive board (d) Track ball",
+                    "a": "(c) Interactive board ✓"
+                  },
+                  {
+                    "q": "(v) Which of the following device can store more data? (a) CD (b) DVD (c) Blu-ray disk (d) Floppy disk",
+                    "a": "(c) Blu-ray disk ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) The communication device is ____________.",
+                    "a": "Network switch."
+                  },
+                  {
+                    "q": "(ii) ____________ are used to get information from a computer.",
+                    "a": "Output devices."
+                  },
+                  {
+                    "q": "(iii) The device used to communicate data among networks is ____________.",
+                    "a": "Router."
+                  },
+                  {
+                    "q": "(iv) ____________ is used to manage and control the computer itself.",
+                    "a": "System software."
+                  },
+                  {
+                    "q": "(v) ____________ assist the user in their daily routine tasks.",
+                    "a": "Application software."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) What is a Computer?",
+                    "a": "A computer is an electronic device that takes data as input, processes it according to the instructions given by the user, and gives useful information as output. It has two main components: hardware (the physical parts) and software (the programs). The CPU processes and stores data entered by the user and converts it into 0's and 1's, because a computer only understands machine language, i.e. binary."
+                  },
+                  {
+                    "q": "(ii) Differentiate between Data and Information.",
+                    "a": "[[T]]Data|Information;;Data is raw, unorganized facts or symbols that represent quantities, measurements, or descriptions. It can be in the form of numbers, words, images, sounds, etc.|Information is the data processed by a computer in a usable form.;;Data has no context or meaning on its own.|Information is meaningful and useful.;;For example, the names of students in the class, their roll numbers, or their ages are data.|For example, counting the objects in the classroom and tabulating the results to see which object is most common turns data into information.[[/T]]"
+                  },
+                  {
+                    "q": "(iii) What is ICT?",
+                    "a": "Information and Communication Technology (ICT) is all about using tools and resources to create, use, store, manage and communicate information. These tools include electronic devices like computers, tablets, and smartphones."
+                  },
+                  {
+                    "q": "(iv) Differentiate between Hardware and Software.",
+                    "a": "[[T]]Hardware|Software;;Hardware refers to the physical parts of a computer that you can see or touch, like Keyboard, Mouse and Display.|Software consists of programs (a set of instructions) and data (consumed or produced by these programs), such as MS Windows, LINUX, Paint, Word, and the images or documents created through these programs.;;Hardware is divided into Input Devices, Output Devices, Storage Devices, Processing Devices and Communication Devices.|Software is divided into two broad categories: System Software and Application Software.[[/T]]"
+                  },
+                  {
+                    "q": "(v) What is the difference between Input devices and Output devices?",
+                    "a": "[[T]]Input Devices|Output Devices;;Input devices are used to supply data from the user to the computer for processing.|After processing the data, the computer sends the information to the user through the output devices.;;Examples: Keyboard, Mouse, Touch pad, Camera, Scanner, Microphone, Barcode and QR scanners.|Examples: Monitor, Printer, Speakers, Projector, Plotter, 3D printer.[[/T]]"
+                  },
+                  {
+                    "q": "(vi) Write down the main features of various computer generations.",
+                    "a": "First Generation (1940s-1950s): used vacuum tubes for processing; computers were large, expensive, and consumed a lot of power (example: ENIAC-1). Second Generation (1950s-1960s): used transistors instead of vacuum tubes, making computers smaller, faster, and more reliable (example: CDC-164). Third Generation (1960s-1970s): used integrated circuits (ICs), which further reduced size, cost and power consumption while increasing speed and efficiency (example: IBM Personal Computer). Fourth Generation (1970s-Present): used microprocessors, leading to personal computers (PCs); the Graphical User Interface (GUI) made computers more user-friendly; the Internet in the 1990s revolutionized communication and access to information. Fifth Generation (Present and Future): characterized by artificial intelligence (AI), quantum computing, Internet of Things (IoT), and other cutting-edge technologies."
+                  },
+                  {
+                    "q": "(vii) Explain the use of ICT in the field of Education.",
+                    "a": "Educational Games: Students learn new concepts through fun games on computers, tablets, and smartphones. Online Learning: Websites like Khan Academy, Virtual University and W3schools offer lessons on various subjects. Interactive Whiteboards: Teachers use large screens connected to computers to show videos, play games, and draw pictures to help students learn."
+                  },
+                  {
+                    "q": "(viii) Explain the use of ICT in Industry.",
+                    "a": "The book covers this under Manufacturing. Robots: Robots help make things like cars and toys in factories. Computer-Controlled Machines: Computers control machines in factories to ensure accurate and efficient production. Inventory Management: Computers help track the number of items in a factory or warehouse."
+                  },
+                  {
+                    "q": "(ix) How can a student get benefits from ICT?",
+                    "a": "Enhanced Learning: ICT provides access to a wide range of educational resources, including interactive games, video sharing platforms, and apps like Khan Academy, Duolingo, BYJU'S, Ilmkidunya, Sabaq.pk, etc. Communication: ICT helps students stay connected with people worldwide through email, messaging apps and social media like WhatsApp and Skype. Efficiency and productivity: Through ICT students can automate repetitive tasks and save a lot of time, using tools like Paint, Canva, Photoshop, YouTube and Spotify. Collaboration: ICT devices facilitate collaboration among students by allowing them to work together on projects using tools like MS Teams, Zoom, Dropbox, etc."
+                  },
+                  {
+                    "q": "(x) Write down the disadvantages of ICT devices for young people.",
+                    "a": "Distraction: ICT devices can be highly distracting for students, leading to decreased focus and productivity, if not used properly and monitored closely. Health Concerns: Excessive screen time on ICT devices can lead to various physical health issues, including eye strain, headaches, disrupted sleep patterns, and muscular injuries. Cybersecurity Risks: ICT devices are vulnerable to cybersecurity risks such as viruses, malware, hacking, and phishing attacks. Dependency: Overreliance on ICT devices can lead to dependency and addiction."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.4",
+            "name": "Functions of ICT Devices",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Router",
+                    "a": "A router is a device for connecting two or more networks. It also connects the home network to the ISP's (Internet Service Provider's) network."
+                  },
+                  {
+                    "q": "(ii) LAN Card",
+                    "a": "A LAN (Local Area Network) card, also called a Network Interface Card (NIC), connects a computer with other computers or communication devices."
+                  },
+                  {
+                    "q": "(iii) Hard Disk Drive",
+                    "a": "A hard disk drive is a secondary storage device where all the programs and data are permanently stored in the computer."
+                  },
+                  {
+                    "q": "(iv) Touch Pad",
+                    "a": "A touch pad allows the user to move the cursor on the screen by moving the finger or stylus (a pen) on the pad. We can draw with a drawing pad and play games with game pads."
+                  },
+                  {
+                    "q": "(v) Head Phones",
+                    "a": "Headphones are output devices through which audio or sound information is sent to the user, like speakers, but worn on the ears so only the user can hear it."
+                  },
+                  {
+                    "q": "(vi) Projector",
+                    "a": "Projectors can be connected to computers to get textual, graphics, and video information on large screens."
+                  },
+                  {
+                    "q": "(vii) Microprocessor",
+                    "a": "All processing and computation in a computer are performed by the microprocessor. It is the main processing device (the CPU) of the computer."
+                  },
+                  {
+                    "q": "(viii) Mother Board",
+                    "a": "The motherboard is the main board of a computer, used to connect all the hardware like Power supply, Microprocessor, RAM, ROM, Storage devices, etc."
+                  },
+                  {
+                    "q": "(ix) Flash Drive",
+                    "a": "USB flash drives are small, portable storage devices designed to carry your digital stuff in your pocket; they are fast and used for transferring files between computers."
+                  },
+                  {
+                    "q": "(x) QR Code Scanner",
+                    "a": "Barcode and QR (Quick Response) scanners are used to input Barcode or QR code data for processing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.5",
+            "name": "Name the Devices",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(A) Name the device shown in the picture: a small USB stick-like device with a Bluetooth symbol.",
+                    "a": "Bluetooth adapter (USB Bluetooth dongle)."
+                  },
+                  {
+                    "q": "(B) Name the device shown in the picture: a green circuit card with a gold connector, labelled WLAN and 2G/5G.",
+                    "a": "LAN card / Wi-Fi (WLAN) card — a Network Interface Card (NIC)."
+                  },
+                  {
+                    "q": "(C) Name the device shown in the picture: a large wide printer on a stand.",
+                    "a": "Plotter."
+                  },
+                  {
+                    "q": "(D) Name the device shown in the picture: the main green circuit board of a computer, labelled ASUS Z790.",
+                    "a": "Motherboard."
+                  },
+                  {
+                    "q": "(E) Name the device shown in the picture: a flat screen that displays output.",
+                    "a": "Monitor."
+                  },
+                  {
+                    "q": "(F) Name the device shown in the picture: an Epson printer with ink tanks.",
+                    "a": "Printer."
+                  },
+                  {
+                    "q": "(G) Name the device shown in the picture: a scanner with an overhead arm, scanning a book.",
+                    "a": "Scanner (overhead document scanner)."
+                  },
+                  {
+                    "q": "(H) Name the device shown in the picture: a handheld controller with buttons and joysticks.",
+                    "a": "Gamepad (game controller)."
+                  },
+                  {
+                    "q": "(I) Name the device shown in the picture: a box with antennas that connects networks.",
+                    "a": "Router."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.6",
+            "name": "Label the Devices",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(A) Printer — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Output"
+                  },
+                  {
+                    "q": "(B) Memory card — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Storage"
+                  },
+                  {
+                    "q": "(C) Microprocessor — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Processing"
+                  },
+                  {
+                    "q": "(D) Trackball — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Input"
+                  },
+                  {
+                    "q": "(E) Hard disk drive — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Storage"
+                  },
+                  {
+                    "q": "(F) Barcode scanner — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Input"
+                  },
+                  {
+                    "q": "(G) Network switch — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Communication"
+                  },
+                  {
+                    "q": "(H) Processor (CPU chip) — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Processing"
+                  },
+                  {
+                    "q": "(I) Printer — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Output"
+                  },
+                  {
+                    "q": "(J) RAM — label it as Input, Output, Storage, Processing, or Communication.",
+                    "a": "Processing (RAM is listed by the book under Processing Devices, section 1.10.3; it is the main memory of the computer, where data and programs are held temporarily while the computer is working.)"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 2,
+        "title": "Digital Skills",
+        "reading": "Digital Skills",
+        "display": "Digital Skills",
+        "sections": [
+          {
+            "num": "2.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) The main purpose of the Taskbar in Windows 10 is to: (a) Display notifications (b) Change desktop background (c) Organize and provide quick access to various Windows features (d) Manage internet settings",
+                    "a": "(c) Organize and provide quick access to various Windows features ✓"
+                  },
+                  {
+                    "q": "(ii) Which feature in Windows 10 helps to browse and manage files and folders on a computer? (a) Start Menu (b) Control Panel (c) File Explorer (d) Task Manager",
+                    "a": "(c) File Explorer ✓"
+                  },
+                  {
+                    "q": "(iii) Which of the following is a temporary storage for deleted files and folders? (a) File Explorer (b) Recycle Bin (c) Desktop (d) Taskbar",
+                    "a": "(b) Recycle Bin ✓"
+                  },
+                  {
+                    "q": "(iv) Which component of MS Paint allows you to access commonly used features like Save and Undo, etc? (a) Shapes Box (b) Paint Palette (c) Colour Box (d) Quick Access Toolbar",
+                    "a": "(d) Quick Access Toolbar ✓"
+                  },
+                  {
+                    "q": "(v) What is the primary purpose of a search engine? (a) Help users to find information about specific topic (b) Create a website (c) Play games (d) Send emails",
+                    "a": "(a) Help users to find information about specific topic ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) To make it easy to find a file or folder, you can make a ____________ of it.",
+                    "a": "Create shortcut."
+                  },
+                  {
+                    "q": "(ii) ____________ is a simple text editor used for creating and editing text documents.",
+                    "a": "Notepad."
+                  },
+                  {
+                    "q": "(iii) In MS Paint, we can add different ____________ to our drawing.",
+                    "a": "Colours."
+                  },
+                  {
+                    "q": "(iv) If you make a mistake in MS Paint while drawing, you can use the shortcut ____________ to undo it.",
+                    "a": "CTRL+Z."
+                  },
+                  {
+                    "q": "(v) A search engine helps us find information on the Internet based on ____________.",
+                    "a": "Keywords."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) What is an Operating System?",
+                    "a": "An operating system is a program that manages and controls all the activities of the computer system. It manages all the parts of the computer and its programs, making it simple and easy for us to use the computer. It is the system software that monitors and controls computer hardware and software resources. Its functions are: Resource Manager, Provides User Interface, Running Programs, File Manager, and Security. Examples of operating systems for computers are Windows, Mac OS, Linux and UNIX; for mobile phones, Android, iOS and Windows 10 Mobile."
+                  },
+                  {
+                    "q": "(ii) Explain the function of the Taskbar in Windows 10.",
+                    "a": "The taskbar is available at the bottom of the Windows 10 desktop. It is an organization tool that organizes and provides quick access to various Windows features ranging from quick search or opening of applications to viewing and setting date and time, etc. It holds the Start Button, Search Box, Task View, Pinned Apps, File Explorer, System Tray (Notification Area), and Clock."
+                  },
+                  {
+                    "q": "(iii) What are the steps to outline or fill colours in drawings?",
+                    "a": "1. Click on the shape or drawing you want to outline or fill colour. 2. To outline the drawing, click on the \"Shapes\" tool in the toolbox. Choose an appropriate shape (e.g. circle, ellipse, rectangle, etc.) to outline your drawing. 3. Click and drag on the paint area to draw the shape that will create an outline around the desired drawing. 4. To fill the drawing with colour, click on the \"Fill with Colour\" tool in the toolbox, and then click inside the drawing to fill it with the currently selected colour from the colour palette. 5. If you want to change the outline colour or fill colour, click on the \"Colour 1\" or \"Colour 2\" box near the colour palette to choose a new colour as per your needs, and then click inside the outline or fill area to apply the new colour."
+                  },
+                  {
+                    "q": "(iv) What safety precautions should you take while using the Internet?",
+                    "a": "Keep your personal data private: Never share your personal data (such as, your full name, phone number, bank account number, debit/credit card information, address, or passwords) publicly on the internet. Verify web links before you click: Unknown or non-verifiable web links and downloadable files may contain harmful code, therefore be cautious when clicking on web links or downloading files. Be kind and respectful: Always treat others online with kindness and respect. Do not be late in talking to a trusted adult: In case you ever feel uncomfortable while using the internet and interacting with people on social media or gaming platforms or come across something that doesn't seem right online, talk to a parent, teacher, or other trusted adult immediately."
+                  },
+                  {
+                    "q": "(v) What is the function of a Search Engine?",
+                    "a": "Search engines are websites that help users to find desired information on the Internet quickly and easily. You just need to type few keywords or simple phrases relevant to the topic or information you want to search. The search engine intelligently searches the information from other websites based on given keywords or phrases and returns you the list of websites links that contains these keywords or phrases. Some common search engines are Google, Bing, Ask.com, Yahoo! and DuckDuckGo."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.4",
+            "name": "Match the Following",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "Match the icons in Column A with their names in Column B.\n[[T]]Column A|Column B;;(1) Brushes icon (paintbrush)|(a) Windows 10 Start Menu / Start Button;;(2) Microsoft Edge icon (blue-green swirl)|(b) Recycle Bin;;(3) Windows logo icon|(c) Window Controls;;(4) Window control buttons (Minimize, Maximize, Close)|(d) A Web Browser;;(5) Recycle Bin icon|(e) Brushes[[/T]]",
+                    "a": "(1) — (e) Brushes; (2) — (d) A Web Browser; (3) — (a) Windows 10 Start Menu / Start Button; (4) — (c) Window Controls; (5) — (b) Recycle Bin."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.5",
+            "name": "Name the Icon and Describe It",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(1) Write the name of the icon in the box and briefly describe its function: the box on the taskbar that says \"Type here to search\".",
+                    "a": "Search Box — It is next to the Start button on the taskbar. In the search box you can type keywords to search for photos, videos, files, folders, applications, and settings. It gives you instant results as you start typing, which makes it easy for you to find what you need quickly."
+                  },
+                  {
+                    "q": "(2) Write the name of the icon in the box and briefly describe its function: a bin with a recycling symbol.",
+                    "a": "Recycle Bin — It is a special type of system folder in Windows that temporarily stores all deleted files and folders. You can restore or recover deleted items from the Recycle Bin. However, any file or folder deleted from the Recycle Bin cannot be recovered."
+                  },
+                  {
+                    "q": "(3) Write the name of the icon in the box and briefly describe its function: the area at the bottom-right of the taskbar showing the time 8:24 PM and the date 4/25/2024, with small icons.",
+                    "a": "System Tray (Notification Area) — It is located at the bottom right corner of the taskbar. It shows icons for applications and system notifications. It also displays system status indicators like battery level, volume control, network connectivity, and date/time. You can click on these icons to access settings and perform some actions like modifying date and time."
+                  },
+                  {
+                    "q": "(4) Write the name of the icon in the box and briefly describe its function: a yellow folder icon.",
+                    "a": "Folder — A folder is a container used to hold different types of files and sub-folders. Folders help in organizing and managing files. Double-click a folder to open it and see the files and folders inside it."
+                  },
+                  {
+                    "q": "(5) Write the name of the icon in the box and briefly describe its function: a colourful circular icon with red, yellow, green and blue.",
+                    "a": "Google Chrome (Web Browser) — Google Chrome is a web browser developed by Google Inc. It is one of the most widely used web browsers worldwide. Google Chrome is famous for its simplicity, speed, and vast support for web features and standards. A web browser is the software that provides you an interface to access websites on the internet."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.6",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Operating System",
+                "items": [
+                  {
+                    "q": "What is an operating system? Name two operating systems for computers and two for mobile phones.",
+                    "a": "An operating system is a program that manages and controls all the activities of the computer system. It manages all the parts of the computer and its programs, making it simple and easy for us to use the computer. Operating systems for computers: Windows, Mac OS, Linux and UNIX. Operating systems for mobile phones: Android, iOS and Windows 10 Mobile."
+                  },
+                  {
+                    "q": "Write any four functions of an operating system.",
+                    "a": "The functions of an operating system are: Resource Manager, Provides User Interface, Running Programs, File Manager, and Security. It manages computer resources such as memory, CPU, storage, and devices like the keyboard and mouse; it provides an easy way to interact with the computer using icons, buttons and menus; it helps run programs smoothly, organizes files and folders, and keeps the computer safe from viruses and unauthorized access."
+                  },
+                  {
+                    "q": "Which company developed the Windows operating system? Which operating system is developed by Apple Inc. for Macintosh computers?",
+                    "a": "Windows is developed by Microsoft Corporation. Mac OS is developed by Apple Inc. and is designed exclusively for use on Apple Macintosh computers."
+                  },
+                  {
+                    "q": "What is Linux? What is UNIX?",
+                    "a": "Linux is an open-source operating system derived from UNIX. It has many versions, called distributions, and is popular because of its flexibility, security, and user-friendly interface. UNIX is an open-source operating system developed at AT&T Bell Labs in the USA. Linux and its various distributions are either derived from UNIX or influenced by it."
+                  }
+                ]
+              },
+              {
+                "label": "Windows 10 Desktop",
+                "items": [
+                  {
+                    "q": "Write the steps of the Windows 10 startup procedure.",
+                    "a": "1. Turn-On the Computer: Turn on the computer by pressing the power button; it will display the manufacturer's logo or a screen with text indicating that the computer is starting up. 2. Loading UEFI/BIOS: Once the computer is turned-on, it loads the Unified Extensible Firmware Interface (UEFI) or Basic Input/Output System (BIOS), which initializes the computer's hardware components like CPU, input/output devices, memory, and other storage devices. 3. Loading Bootloader: Then the bootloader is loaded; it is responsible for checking the pre-installed or available operating system and loads it. 4. Login Screen: During loading, you will see the loading screen displaying the Windows logo and a spinning circle; after a few moments Windows will be loaded and you will see the login screen, where you have to provide the password of your Windows account. If you have not set any password, you will be automatically logged in and see the Windows desktop screen."
+                  },
+                  {
+                    "q": "What is the Start button? What happens when you click it?",
+                    "a": "The Windows start button is also known as the Windows icon or Windows button. It is the main navigation tool available on the bottom left corner of the Windows 10 taskbar. By clicking on this button, you can open the Start menu that provides quick access to various Windows 10 features, like power options, system settings, accessing files, accessing user account options, application and system programs, recently used apps and documents, etc."
+                  },
+                  {
+                    "q": "What is the Search Box? What can you search with it?",
+                    "a": "The search box is next to the Start button on the taskbar. In the search box you can type keywords to search for photos, videos, files, folders, applications, and settings. You can also search items on the web using this search box. It provides instant results as you start typing."
+                  },
+                  {
+                    "q": "What is Task View? What are Pinned Apps?",
+                    "a": "Task View is a tiny button next to the search box. It allows you to switch between open windows and virtual desktops and gives you a quick way to manage and organize multiple tasks as well as multiple workspaces. Pinned apps are also known as \"taskbar shortcuts\" or \"quick launch\". Pinned apps on the taskbar provide a quick and easy way to access the frequently used programs; by pinning an application (like a web browser) to the taskbar, you can easily launch it with a single click."
+                  }
+                ]
+              },
+              {
+                "label": "Files and Folders",
+                "items": [
+                  {
+                    "q": "Define a file and a folder.",
+                    "a": "A file is an object that stores data and information. It is identified by its given name on a computer. A file can be a text document, picture, audio or video, etc. A folder is a container used to hold different types of files and sub-folders. Folders help in organizing and managing files."
+                  },
+                  {
+                    "q": "What is a drive? Which drive is usually the primary or root drive?",
+                    "a": "Files and folders are stored in permanent storage, typically a hard disk. The hard disk can be divided into sections called drives. Each drive is assigned a letter like C, D, E, etc. C drive is usually the primary or root drive."
+                  },
+                  {
+                    "q": "Write the steps to create a new text file in Windows 10.",
+                    "a": "1. Click on the folder icon on the taskbar to open the File Explorer (or press Windows Key + E). 2. Open File Explorer and go to the location where you want to create a new file, such as the desktop or a folder like My Documents. 3. Right-click on an empty space in File Explorer to open a pop-up menu. 4. In the pop-up menu, choose \"New\" to show another sub-menu. 5. Click on \"Text Document\" in the sub-menu to create a new empty text file. 6. Once it is created, it is automatically named \"New Text Document.txt\"; to give a different name, click on the file name, type a name of your choice and press the Enter key."
+                  },
+                  {
+                    "q": "Write the steps to rename a file or folder in Windows 10.",
+                    "a": "1. Open the File Explorer. 2. Navigate to the desired location where you want to rename a file or folder. 3. Single click on the file or folder that you want to rename to select it, and then right-click on it; a pop-up menu will appear. 4. Choose \"Rename\" in the pop-up menu and left-click on it, which will make the file or folder name editable. Change the name by typing a new name, and then press Enter to ensure it is renamed."
+                  },
+                  {
+                    "q": "Write the steps to delete a file or folder in Windows 10. Where does a deleted file go?",
+                    "a": "1. Open the File Explorer and navigate to the desired location. 2. Single click on the file or folder to select it, and then right-click on it; a pop-up menu will appear. 3. Choose \"Delete\" in the pop-up menu and left-click on it; a confirmation dialog box will appear asking if you are sure to delete the file or folder. Click on the \"Yes\" button to confirm. The deleted file or folder moves to the Recycle Bin. You can also delete a file or folder just by selecting it and pressing the DELETE button on your keyboard."
+                  },
+                  {
+                    "q": "How do you copy a file or folder from one location to another in Windows 10?",
+                    "a": "1. Open the File Explorer and navigate to the source location. 2. Single click on the file or folder to select it, and then right-click on it; a pop-up menu will appear (or press CTRL+C). 3. Choose \"Copy\" in the pop-up menu; this will create its copy in memory. 4. Navigate to the desired destination location, right-click on any empty space, and choose \"Paste\" (or press CTRL+V). This will create a copy of your selected file or folder in this location."
+                  },
+                  {
+                    "q": "How do you move a file or folder using Cut and Paste? How do you move it using drag and drop?",
+                    "a": "Cut and Paste: Select the file or folder, right-click and choose \"Cut\" (or press CTRL+X), navigate to the destination location, right-click on an empty space and choose \"Paste\"; this will move the file or folder from the source location to this location. Drag and drop: Navigate to the source location, single-click the file or folder to select it, click and hold it, drag it to the desired location, then release the mouse button to drop it."
+                  }
+                ]
+              },
+              {
+                "label": "MS Paint",
+                "items": [
+                  {
+                    "q": "What is MS Paint? How do you open it in Windows 10?",
+                    "a": "Microsoft (MS) Paint is a drawing and simple image processing tool included in all versions of Microsoft Windows operating system. To open MS Paint in Windows 10, click the Start button at the bottom-left corner of the desktop then select the \"Paint\" option. Alternatively, type \"Paint\" in the search box next to the Start button on the taskbar and press the Enter key or click the \"Paint\" icon."
+                  },
+                  {
+                    "q": "What is the Quick Access Toolbar in MS Paint? Name three features it provides quick access to.",
+                    "a": "The Quick Access Toolbar is at the top-left corner of the MS Paint window. It provides quick access to commonly used MS Paint features like Save, Undo, and Print. You can add or remove features of the Quick Access Toolbar, because it is a customizable toolbar."
+                  },
+                  {
+                    "q": "What is the difference between Colour 1 and Colour 2 in MS Paint?",
+                    "a": "Colour 1 is the primary colour. When users click on Colour 1, they can choose a colour from the colour palette to set it as the primary colour for their drawing tools. The primary colour is typically used for drawing lines, shapes, and outlines. Colour 2 is the secondary colour. Users can choose a colour from the colour palette and set it as the secondary colour. The secondary colour is often used for filling shapes or adding colour accents to the drawing."
+                  },
+                  {
+                    "q": "Write the functions of New, Open and Save in the File menu of MS Paint.",
+                    "a": "New: It allows you to create a new blank image in MS Paint. Open: It opens an existing image file from the computer's storage in order to view or edit it. Save: It saves or stores the current image to the computer's storage with its current file name and format."
+                  },
+                  {
+                    "q": "What are the shortcut keys to undo and redo in MS Paint?",
+                    "a": "To undo the last action, click on the \"Undo\" button in the Quick Access Toolbar or press the CTRL + Z shortcut key. To redo something that you have undone, click on the \"Redo\" button in the Quick Access Toolbar or press the CTRL + Y shortcut key."
+                  }
+                ]
+              },
+              {
+                "label": "Internet and Search Engines",
+                "items": [
+                  {
+                    "q": "What is the Internet?",
+                    "a": "The Internet is an international network (also known as a global network) consisting of millions of public, private and business networks. It connects people, places, and many other digital resources around the world. Its users can explore, learn and easily connect with other users in order to share information or other interesting things, such as photos, videos, games, tutorials, etc."
+                  },
+                  {
+                    "q": "What is a network? What is the World Wide Web (WWW)?",
+                    "a": "A network in computer science is a group of computers that are connected to each other through wired or wireless medium to share hardware and software resources and exchange data and information among users. The World Wide Web or simply WWW is a data and information sharing system of interlinked hypertext documents, which are accessed via the internet."
+                  },
+                  {
+                    "q": "What is the difference between a web page and a website?",
+                    "a": "A single document shared on the Internet is called a web page, while a collection or group of web pages is called a website. Web pages or websites contain information in the form of documents, simple text, images, audio and video files. A web page or website is accessible through the Internet by using a web browser. Every website has its address URL like www.microsoft.com."
+                  },
+                  {
+                    "q": "Name four web browsers and the company or organization that developed each one.",
+                    "a": "Microsoft Internet Explorer — Microsoft Corporation (comes pre-installed with all older versions of Windows). Microsoft Edge — Microsoft Corporation (pre-installed in Windows 10 and later versions). Google Chrome — Google Inc. (one of the most widely used web browsers worldwide). Mozilla Firefox — Mozilla Foundation (open-source; its main focus is privacy, security, and customization). Opera and Safari (the default web browser for Apple devices) are also well-known browsers."
+                  },
+                  {
+                    "q": "Write the steps to search for a topic using a search engine like Google.",
+                    "a": "1. Open any available Web Browser, such as Microsoft Edge, Firefox or Google Chrome. 2. Type the website address of the search engine (in our case www.google.com) in the address bar of the web browser and press the Enter key. 3. Once Google is loaded, type your search query in the search bar (for example, type \"what is artificial intelligence\") and press the \"Google Search\" button. After a few moments, the search engine will display a list of search results that are relevant to the given search query. The most relevant search results always appear on top of the list. If you are not satisfied with the initial search results, you can filter them or refine them by changing the search query."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 3,
+        "title": "Algorithmic Thinking and Problem Solving",
+        "reading": "Algorithmic Thinking and Problem Solving",
+        "display": "Algorithmic Thinking and Problem Solving",
+        "sections": [
+          {
+            "num": "3.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) The problem is a: (a) Toy (b) Challenge waiting to be solved (c) Storybook (d) Game",
+                    "a": "(b) Challenge waiting to be solved ✓"
+                  },
+                  {
+                    "q": "(ii) The example of a simple problem is: (a) Building a robot (b) Tying your shoes (c) Creating a video game (d) Baking a cake",
+                    "a": "(d) Baking a cake ✓"
+                  },
+                  {
+                    "q": "(iii) To create a problem-solving plan, we need: (a) Ingredients (b) Facts, Inputs, Outputs (c) Tools (d) details",
+                    "a": "(b) Facts, Inputs, Outputs ✓"
+                  },
+                  {
+                    "q": "(iv) Decomposing a problem means: (a) Making it bigger (b) Breaking it into smaller parts (c) Solving it quickly (d) Ignoring it",
+                    "a": "(b) Breaking it into smaller parts ✓"
+                  },
+                  {
+                    "q": "(v) Algorithmic thinking is like: (a) Being a detective solving a mystery (b) Being lost in a maze (c) Watching TV (d) Playing video games",
+                    "a": "(a) Being a detective solving a mystery ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Simple problems are like ____________ puzzles.",
+                    "a": "small."
+                  },
+                  {
+                    "q": "(ii) Decomposing a problem helps us understand each ____________ better.",
+                    "a": "part."
+                  },
+                  {
+                    "q": "(iii) An algorithm is a step-by-step ____________ for solving a problem.",
+                    "a": "plan."
+                  },
+                  {
+                    "q": "(iv) Pseudo code is a simple way to write down algorithms using every day ____________.",
+                    "a": "language."
+                  },
+                  {
+                    "q": "(v) Flow charts use symbols and arrows to guide us through a ____________.",
+                    "a": "process."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Give an example of a simple problem you've faced and how you solved it.",
+                    "a": "One simple problem I faced was cooking instant noodles for lunch. I solved it by following the recipe step by step: pour water into a pot, boil the water, add the noodles, cook them, add the seasoning, and serve. Simple problems like this have a clear question and can be solved by following basic steps, and no expertise is required to solve them."
+                  },
+                  {
+                    "q": "(ii) Why is it important to break down a problem into smaller parts?",
+                    "a": "Sometimes the problem is too large to solve all at once, so we decompose or divide it into smaller sub-problems. Decomposing a problem helps us understand each part better and makes a big problem easier to solve. For example, a complex problem like calculating the LCM can be solved by breaking it into many simple problems."
+                  },
+                  {
+                    "q": "(iii) List down the benefits of step-by-step process of problem solving.",
+                    "a": "A step-by-step process gives a systematic and well-organized approach to solving problems: it helps us clearly identify the problem, explore all possible ideas, analyse the problem and evaluate the alternatives, select the best idea, build and test it, and evaluate the result. It makes big problems manageable, reduces mistakes, saves time and effort, and makes success much more likely."
+                  },
+                  {
+                    "q": "(iv) Can you think of a real-life situation where you might use an algorithm, like a step-by-step plan?",
+                    "a": "Yes. For example, making a cup of tea: 1. Boil water. 2. Put some boiled water in your cup. 3. Put your favourite tea in the cup. 4. Leave your tea for 3-5 minutes to make its taste better. 5. Serve your tea with lemon, honey or milk. Other everyday algorithms from the book are preparing a pancake mix and cooking instant noodles — all are step-by-step plans we follow every day."
+                  },
+                  {
+                    "q": "(v) How does planning a solution reduce the risk of failure?",
+                    "a": "Planning a solution means first identifying the problem, exploring information and ideas, analysing the problem and evaluating alternatives, and then selecting the best idea before building and testing it. Because we think through the good and not-so-good points of each idea in advance, we avoid poor choices and mistakes. Finally, evaluating the results tells us whether the plan worked; if not, we can change the plan or make a new one. This careful, step-by-step approach makes success much more likely and reduces the risk of failure."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.4",
+            "name": "Class Activities",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Solve the given scenario by following six step problem solving guideline. \"Ali is having severe headache. He must consult a doctor for treatment.\"",
+                    "a": "Step 1: Identify the problem: Ali has a severe headache and needs treatment from a doctor. Step 2: Explore information and ideas: take rest, drink water, take a painkiller, ask a parent for help, go to the doctor. Step 3: Analyse the problem and evaluate alternatives: rest and water may help a mild headache, but a severe headache needs a doctor; a painkiller may give temporary relief but does not treat the cause. Step 4: Select the best idea: Ali will consult a doctor for treatment. Step 5: Build and test the idea: Ali tells his parent, goes to the doctor, explains his headache, and follows the doctor's advice. Step 6: Evaluate results: if the headache goes away and Ali feels better, the plan worked; if not, he should go back to the doctor or try another plan."
+                  },
+                  {
+                    "q": "(ii) Apply the concept of problem decomposition and write down the sub-problems for the following scenario. \"Your mother asks you for grocery shopping and you need to go to the grocery shop\". The problem identified here is \"How to do grocery shopping\".",
+                    "a": "Facts: we need groceries; the grocery shop is nearby; we need money to buy them. Input: the shopping list from mother, money, and a shopping bag. Output: the groceries brought home. Instructions (sub-problems): 1. Take the shopping list and money from mother. 2. Go to the grocery shop. 3. Buy each item on the list. 4. Pay the shopkeeper. 5. Bring the groceries home."
+                  },
+                  {
+                    "q": "(iii) Write an algorithm that allows the person to enter a number, algorithm will print table of that number up to 10.",
+                    "a": "Step 1: Start. Step 2: Input a number (N). Step 3: Initialize count = 1. Step 4: Print N x count. Step 5: Add 1 to the count variable (count = count + 1). Step 6: If count <= 10 then Goto Step 4, else Goto Step 7. Step 7: Stop."
+                  },
+                  {
+                    "q": "(iv) Write an algorithm that determines whether a student has passed the exam or not. The algorithm takes grades of four subjects as input and then the algorithm calculates the percentage obtained by the student. If the percentage of marks obtained by the student is greater than 60 % then the student has passed the exam otherwise student has failed the exam. Hint. Simple decision making is needed to solve this problem.",
+                    "a": "Step 1: Start. Step 2: Input marks of four subjects (A, B, C, D). Step 3: Total = A + B + C + D. Step 4: Percentage = (Total / 400) x 100. Step 5: If Percentage > 60 then Print \"Pass\", else Print \"Fail\". Step 6: Stop. (Each subject is taken out of 100 marks, so the total marks are 400.)"
+                  },
+                  {
+                    "q": "(v) Write an algorithm that calculates the sum of the first 5 numbers i.e. the sum of 1,2,3,4 and 5. Hint: Repetitive/iterative flow statements are needed to solve this problem.",
+                    "a": "Step 1: Start. Step 2: Initialize Sum = 0 and count = 1. Step 3: Sum = Sum + count. Step 4: Add 1 to the count variable (count = count + 1). Step 5: If count <= 5 then Goto Step 3, else Goto Step 6. Step 6: Print Sum. Step 7: Stop. (The sum of 1 + 2 + 3 + 4 + 5 is 15.)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.5",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Problems",
+                "items": [
+                  {
+                    "q": "What is a problem?",
+                    "a": "A problem is something (event, task, situation) that needs to be solved. It is like a puzzle or question for which a solution must be found. Problems can be big or small, and can be from the real-world or pointed out by someone."
+                  },
+                  {
+                    "q": "What is the difference between a simple problem and a complex problem?",
+                    "a": "[[T]]Simple Problems|Complex Problems;;Simple problems are like puzzles that are easy to solve. They usually have a clear question with an answer that you can find using basic steps.|Complex problems are like larger puzzles that need more thinking. They might have many steps or need different ways to solve them.;;Simple problems can be solved by simply following the recipes. No expertise is required to solve simple problems.|Complex problems can be solved by breaking them into many simple problems.;;Example: Bake a cake or cook instant noodles for lunch.|Example: Calculating the Least Common Multiple (LCM); determining if a number is prime or not.[[/T]]"
+                  },
+                  {
+                    "q": "What is problem solving? Write the six steps of the problem-solving approach.",
+                    "a": "Problem solving is a process of identifying and finding the most effective solution to a problem. The six steps are: 1. Identify the problem. 2. Explore information and ideas. 3. Analyse the problem. 4. Select the best idea. 5. Build and test the ideas. 6. Evaluate results."
+                  },
+                  {
+                    "q": "How many coins does Aslam have if he has 3 bags of coins and each bag has 5 coins?",
+                    "a": "Aslam has 3 x 5 = 15 coins in total."
+                  },
+                  {
+                    "q": "What is the LCM of 10, 18 and 20?",
+                    "a": "LCM = 2 x 2 x 3 x 3 x 5 = 180."
+                  }
+                ]
+              },
+              {
+                "label": "Problem Decomposition",
+                "items": [
+                  {
+                    "q": "What is problem decomposition?",
+                    "a": "Sometimes the problem is too large to solve all at once. Therefore, we decompose or divide problems into smaller sub-problems. This technique is known as \"Problem decomposition\". The decomposition of any problem can be done by dividing the problems into facts, input, outputs and instructions."
+                  },
+                  {
+                    "q": "What are facts, inputs and outputs in problem decomposition? Give an example of each from baking bread.",
+                    "a": "Facts are things we know that are true or real. They are like the building blocks of the problem-solving process. For example, if we are baking bread, some facts could be that we need flour, yeast, oil, warm water, and salt. Inputs are the things we start with, like the ingredients for our bread. Outputs are the cool things we get at the end, like fresh yummy bread! They are what we make or get after we put everything together."
+                  },
+                  {
+                    "q": "What is the difference between specific instructions and non-specific instructions? Give one example of each.",
+                    "a": "Specific instructions give clear, detailed steps on how to do something. For example, \"Bake the cake for 40 minutes at 200 degrees Celsius\". Non-specific instructions are more general and less detailed. For example, \"Mix all the ingredients then cover it and let it sit\"."
+                  },
+                  {
+                    "q": "Decompose the problem of building a LEGO castle into facts, input, output and instructions.",
+                    "a": "Facts: we need LEGO bricks of different colors and sizes and maybe some special pieces like windows and doors. Input: A blank canvas or an empty space where we want to build the castle. Output: How we like our castle to look like, say we want a tall castle with towers, windows, a big gate, and maybe even a drawbridge. Instructions: We have LEGO bricks of different colors and sizes; we start with an empty space or a blank canvas; we want a castle with towers, windows, a gate, and a drawbridge."
+                  },
+                  {
+                    "q": "Why is it important to break down a problem into smaller parts?",
+                    "a": "Decomposing a problem helps us understand each part better. A problem that is too large to solve all at once becomes easy to solve when it is divided into smaller, more manageable sub-problems."
+                  }
+                ]
+              },
+              {
+                "label": "Algorithms",
+                "items": [
+                  {
+                    "q": "What is an algorithm?",
+                    "a": "An algorithm is an ordered clear sequence of steps to solve a problem or accomplish a task. An algorithm is a plan that tells you how to do a task. We use algorithms all the time — for example, the steps we take to prepare a pancake mix, make a cup of tea, or convert temperature readings from Celsius to Fahrenheit."
+                  },
+                  {
+                    "q": "What is algorithmic thinking?",
+                    "a": "Algorithmic thinking is a way of solving problems by producing algorithms. It is a method for solving problems based on a clear definition of the steps; logically and repeatedly. Algorithmic thinking is like having the superpower to solve problems."
+                  },
+                  {
+                    "q": "What is pseudocode?",
+                    "a": "Pseudocode is a description of algorithms using everyday language, similar to English, but structured to resemble a simplified programming language."
+                  },
+                  {
+                    "q": "What is a flowchart?",
+                    "a": "Flowcharts are diagrammatic representations that show a sequence of actions and the order in which they occur. Flowcharts use symbols and arrows to guide us through a process."
+                  },
+                  {
+                    "q": "Name the five symbols used in flowcharts and what each one is used for.",
+                    "a": "1. Ovals are used to show the beginning and end (Start, End / Stop). 2. Rectangles are used to show actions (e.g. Add 3, Eat Lunch, Move 3 steps left). 3. Diamonds are used to indicate decisions that need to be made; think of them as questions (e.g. Is it even? Is the number > 10?). 4. Parallelograms are used to indicate the input or output operations in your flowchart (e.g. Input A, B; Print Sum). 5. Arrows indicate the direction in which the process is flowing from one step to the next."
+                  },
+                  {
+                    "q": "Write four guidelines for developing flowcharts.",
+                    "a": "1. Flowcharts can only have one start and stop symbol. 2. The general flow of processes (Arrows) is top to bottom or left to right. 3. Arrows should not cross each other. 4. In case of loops, the flow of process could be from bottom to top."
+                  }
+                ]
+              },
+              {
+                "label": "Building Blocks of Algorithms",
+                "items": [
+                  {
+                    "q": "What are the three building blocks of an algorithm?",
+                    "a": "An algorithm is made up of three building blocks: (I) Sequencing, (II) Selection / Conditional, (III) Repetitive / Iterative."
+                  },
+                  {
+                    "q": "What is sequencing in an algorithm?",
+                    "a": "Sequencing: The process must be executed in the same written order."
+                  },
+                  {
+                    "q": "What is selection (conditional) in an algorithm? Give an example.",
+                    "a": "Selection / Conditional: The process executes different sets of steps based on a conditional statement. Steps are executed if the condition is true, otherwise the next step is executed. For example, determining the largest number among all the entered numbers."
+                  },
+                  {
+                    "q": "What is repetition (iteration) in an algorithm? Give an example.",
+                    "a": "Repetitive flow, also referred to as iterative flow, is a process in which a statement or a set of statements is executed repeatedly till a certain condition remains true. For example, print \"Hello World\" five times. Here, we want to print the same sentence repeatedly, therefore iterative / repetitive process will be used. A counter variable is needed to keep track of the repetition."
+                  },
+                  {
+                    "q": "Write the pseudocode for adding two numbers.",
+                    "a": "(Addition of two numbers) This algorithm performs addition of two numbers. The variable A and B will store the two numbers, while the variable Sum stores the sum of these two variables. Step 1: Start. Step 2: Input two numbers A and B. Step 3: Sum = A + B. Step 4: Print the value of Sum. Step 5: Stop."
+                  },
+                  {
+                    "q": "Write the pseudocode for finding the cube of a given number.",
+                    "a": "(Finding cube of a number) This algorithm takes a number as input from the user and then calculates its cube. The variable number stores the input number, and the cube stores the cube value calculated in the algorithm. Step 1: Start. Step 2: Input number. Step 3: Compute cube using formula: cube = number * number * number. Step 4: Print cube. Step 5: Stop."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 4,
+        "title": "Programming Scratch",
+        "reading": "Programming Scratch",
+        "display": "Programming Scratch",
+        "sections": [
+          {
+            "num": "4.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) VPL is the: (a) Graphical Programming Language (b) Set of instruction (c) Visual Programming Language (d) A Background",
+                    "a": "(c) Visual Programming Language ✓"
+                  },
+                  {
+                    "q": "(ii) Scripts in programming are the: (a) List of sprites (b) List of background (c) A set of instructions blocks connected with one another used for programming (d) None of the above",
+                    "a": "(c) A set of instructions blocks connected with one another used for programming ✓"
+                  },
+                  {
+                    "q": "(iii) The types of code blocks in Scratch are the: (a) 3 (b) 5 (c) 7 (d) 9",
+                    "a": "(d) 9 ✓"
+                  },
+                  {
+                    "q": "(iv) The blocks which we use to start the program: (a) Control block (b) Event Block (c) Motion Block (d) Looks Blocks",
+                    "a": "(b) Event Block ✓"
+                  },
+                  {
+                    "q": "(v) The actual working space where you can drag and drop Code blocks to be executed is: (a) Block palette (b) Backdrop (c) Script Area (d) Stage",
+                    "a": "(c) Script Area ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) The block used to create a loop in Scratch is ____________.",
+                    "a": "Repeat."
+                  },
+                  {
+                    "q": "(ii) The construct used for creating a wait time in Scratch is ____________.",
+                    "a": "Wait."
+                  },
+                  {
+                    "q": "(iii) We check if a certain condition is true in Scratch using ____________.",
+                    "a": "Use the if block."
+                  },
+                  {
+                    "q": "(iv) The construct used for making decisions in Scratch is ____________.",
+                    "a": "if - else."
+                  },
+                  {
+                    "q": "(v) To move a sprite in Scratch, we ____________.",
+                    "a": "Use the move block."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) What is programming?",
+                    "a": "Computer programming is the process of creating and writing a computer program. Programming is like giving instructions to a computer so it can do things for you. It is a bit like writing a recipe for a cake: you tell the computer what steps to follow, and it does them to achieve the required outcome."
+                  },
+                  {
+                    "q": "(ii) Differentiate between Algorithm and Program.",
+                    "a": "[[T]]Algorithm|Program;;It is the conceptual idea of how to solve a problem.|It is a set of instructions written in a specific programming language.;;It is like a recipe or step by step solution of a problem.|It is the implementation of an algorithm.;;High level plan or strategy for solving a problem.|It uses syntax and features of programming language.;;Describe in simple human language or with diagram.|It is actual code that translates algorithm into instructions a computer can understand and execute.[[/T]]"
+                  },
+                  {
+                    "q": "(iii) Explain Sprite, Script and Stage.",
+                    "a": "Sprite: They are the basic object in Scratch which are the actors or main characters of the project. Sprites are programmed to do something in Scratch. The default sprite in Scratch is orange cat. Script: It tells the actors what to say or do. Each sprite is programmed with a script. Stage: It is similar to the stage in a play. It is the main area where the action of your program takes place."
+                  },
+                  {
+                    "q": "(iv) Define 9 available options in block palettes.",
+                    "a": "There are 9 block palettes available on the Code Tab: 1. Motion: When you click on the motion button, you'll find blue blocks to make your sprite move in different ways. 2. Looks: This purple block palette allows to change the color, size and costumes of your sprite. 3. Sound: This orchid color block palette allows you to add the sound in your program from the available sound library, record sound, or upload it from your computer. 4. Events: Event triggers specific code at a particular time or action, such as clicking on green flag. These blocks are \"starting blocks\" — they must be placed at the beginning of each new code segment and are found in yellow color. 5. Control: As the name control it used to control the scripts. It provides option to wait, use loops and conditional statements in your program. 6. Sensing: This block helps your program to detect things. They can find out where the mouse pointer is, how far apart sprites are, and if one sprite is touching another. 7. Operators: The operators block use to compare variables and values, do calculations with numbers, and work with strings (text). 8. Variables: The variable blocks are used to save the values that are used in the program. 9. My Blocks: This will allow to create new blocks for a sprite. You give the name and then define what the new block does using other Scratch blocks."
+                  },
+                  {
+                    "q": "(v) What is control block used for?",
+                    "a": "As the name control it used to control the scripts. It provides option to wait, use loops and conditional statements in your program. The Control palette is orange in color."
+                  },
+                  {
+                    "q": "(vi) In what situations are conditional statements used?",
+                    "a": "Conditional statements are used when the program has to decide what to do next based on whether something is true or false. A condition is like a rule in a program that tells it what to do next. It is similar to a yes-or-no question. If the answer is \"yes\" (true), the program does one action. If the answer is \"no\" (false), it does something else. For example, as shown in Fig 4.22, if the user types \"a\", then the sprite must glide for 1 second. With the if-then-else block, if the condition is true the \"If\" body is executed, and if it is false the \"else\" part is executed — for example, if the user types \"a\", the sprite glides for 1 second, or else it must say \"hello\"."
+                  },
+                  {
+                    "q": "(vii) How do we change the backdrop in Scratch?",
+                    "a": "A backdrop is like a background of your stage. The Choose a Backdrop option is available at the bottom right corner next to the Choose Sprite button. You can choose backdrop from library, you can paint on your own using Scratch paint editor, surprise option will select random backdrop from the library and upload option allows to upload an image from your computer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.4",
+            "name": "ACTIVITY",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Get the Scratch Software on your lab computers by following the instructions in the software download section and install it.",
+                    "a": "Step 1: Open Google Chrome or any other browser that you have in your PC and type the following URL: https://scratch.mit.edu/download. Step 2: Select Direct Download option. Step 3: After downloading the software, proceed with the installation steps. Step 4: After successful installation process the Scratch icon appears on the desktop of your computer. Click on the icon to start your Scratch software. (You can also use Scratch online by accessing its editor through your web browser at https://scratch.mit.edu/projects/editor/ — it works just like the offline/downloaded version.)"
+                  },
+                  {
+                    "q": "(ii) Write a code that makes the sprite moves 10 steps only and make this sprite move in the direction for 10 times, what code block should be added to the code?",
+                    "a": "Add the \"move 10 steps\" block from the Motion palette, and put it inside a \"repeat 10\" block from the Control palette so that the sprite moves 10 times. The code is: when space key pressed; repeat 10; move 10 steps; turn 90 degrees. (The four \"turn 90 degrees\" blocks in the figure turn the sprite 90 degrees four times, i.e. a full 360-degree turn.)"
+                  },
+                  {
+                    "q": "(iii) Design a game which using cursor key to move the sprite on the stage from left to right and right to left.",
+                    "a": "Select a sprite (for example the Fish) and a suitable backdrop (for example Underwater). Then write this code: when right arrow key pressed; point in direction 90; move 10 steps. And: when left arrow key pressed; point in direction -90; move 10 steps. Or use a forever loop with if-then blocks: when green flag clicked; forever; if <key right arrow pressed?> then point in direction 90, move 10 steps; if <key left arrow pressed?> then point in direction -90, move 10 steps. Add the \"if on edge, bounce\" block from the Motion palette and the \"set rotation style, left-right\" block so the sprite stays on the stage and faces the right way when it turns."
+                  },
+                  {
+                    "q": "(iv) Teacher should guide students how to fixing the bug in the code by apply debugging process.",
+                    "a": "APPLYING DEBUGGING PROCESS: 1. Plan your program. 2. Write the specified code: when space key pressed, then four \"turn 90 degrees\" blocks. 3. Test the code. Run your code and see the results: Nothing will happen — the block codes run one after another in microseconds, so the four turns happen too fast to see. 4. Identify the cause of the error: the blocks run too fast, one after another in microseconds. 5. Plan to fix the errors: Use the Control block palette and drag a \"wait 1 seconds\" block between the turn blocks. Fixed code: when space key pressed; turn 90 degrees; wait 1 seconds; turn 90 degrees; wait 1 seconds; turn 90 degrees; wait 1 seconds; turn 90 degrees. Now each turn is visible and the sprite turns slowly, one step at a time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.5",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Programming and Programming Languages",
+                "items": [
+                  {
+                    "q": "What is a computer program?",
+                    "a": "A computer program is like a set of instructions that tells a computer what to do. It is a series of steps or commands written in a language that the computer can understand. These instructions guide the computer to perform tasks efficiently."
+                  },
+                  {
+                    "q": "What is a programming language?",
+                    "a": "Programs are written in programming languages, which provide the facility to write a program in text-based editor or in visual mode."
+                  },
+                  {
+                    "q": "What are the three types of programming languages? Give one example of each.",
+                    "a": "[[T]]Type|Description|Example;;Low Level Language (Machine Language)|Use 1's & 0's to create instructions|Binary Language;;Middle Level Language (Assembly Language)|Use mnemonics to create instructions|Assembly Language;;High Level Language|Similar to human language|COBOL, FORTRAN, BASIC, C, C++, JAVA[[/T]]"
+                  },
+                  {
+                    "q": "Why are programming languages important? Write four uses.",
+                    "a": "In today's world, programming languages are important because they help to create useful things on computers like websites, games, phone apps, and more. Businesses and industries worldwide are changing and automating their operations. Many businesses need web designers, AI (Artificial Intelligence) engineers, and mobile app developers for tasks like marketing, supply chain management, and customer care service. Computer programmers can work from anywhere for any business. Without programming languages, many of the things we use daily would not exist."
+                  },
+                  {
+                    "q": "What was the first electronic computer that could run programs? Which computer is regarded as the first programmable computer we have today?",
+                    "a": "ENIAC was the first electronic computer that could run programs, but programmable computers like we have today, the Manchester Baby, built in 1948, is regarded as the first one."
+                  },
+                  {
+                    "q": "How do we convert an algorithm into a program in Scratch? Give an example.",
+                    "a": "Algorithm is created in the view of the problem under consideration. Therefore, we simply code the steps of algorithm in programming language like Scratch. Example — find the square of the given number: Algorithm: Input A; A = 5; Multiply A with A; Result 25. Steps in Scratch Program: Step 1: when green flag clicked. Step 2: ask \"Enter an integer number\" and wait; set A to answer. Step 3: set A to (A * A). Step 4: say A."
+                  }
+                ]
+              },
+              {
+                "label": "Scratch",
+                "items": [
+                  {
+                    "q": "What is Scratch?",
+                    "a": "Scratch is a block-based visual programming language and online community that provides an interface to create interactive stories, animations, and games. Instead of typing, users can use colorful blocks like puzzle pieces to build their creations. Scratch is free for anyone to use and share. When students create programs, they learn important mathematical and computer concepts, which help them think creatively, solve problems, and develop logical reasoning. Scratch allows students to share their creations online, enabling them to show case their work and team up with others from around the world."
+                  },
+                  {
+                    "q": "What is VPL?",
+                    "a": "VPL is Visual Programming Language — a programming language in which programs are created by using visual blocks (like Scratch) instead of typing text code."
+                  },
+                  {
+                    "q": "How do we download and install the Scratch software?",
+                    "a": "Step 1: Open Google Chrome or any other browser that you have in your PC and type the following URL: https://scratch.mit.edu/download. Step 2: Select Direct Download option. Step 3: After downloading the software, proceed with the installation steps. Step 4: After successful installation process the Scratch icon appears on the desktop of your computer. Click on the icon to start your Scratch software."
+                  },
+                  {
+                    "q": "How can we use Scratch online?",
+                    "a": "You can also use Scratch online by accessing its editor through your web browser. Simply enter the following URL: https://scratch.mit.edu/projects/editor/. Once you've opened the URL, Scratch will work just like the offline/downloaded version. You can also create an account on Scratch website to save your projects online."
+                  },
+                  {
+                    "q": "What is the Scratch editor?",
+                    "a": "The Scratch editor provides a platform where you can drag and drop snap code blocks to create games and animations. On the Scratch editor platform, we can find many options like the Code Tab, Costume Tab, Sound Tab, Menu Bar, Stage Area, Sprite, Stage Size, Extension/Library, Blocks, Block Palette, Script, Scripting Area, Sprite Info Area, New Sprite and Backdrop."
+                  },
+                  {
+                    "q": "What are the Costume Tab, Sound Tab and Code Tab used for?",
+                    "a": "Costume Tab: It enables users to alter the appearance of a sprite to generate many effects, including animation. You can also choose a different costume by clicking the bottom-left button labeled \"Choose a Costume\". Sound Tab: This tab is used to record, import, or edit sounds. You can choose the sound from Scratch library, record your own sound, select a surprise sound or import a sound file from your computer. Code Tab: Code Tab contains block Palette which have Control blocks used to control sprites. Programming a sprite always begins with a control block (orange or yellow category). There are 9 block palettes available on the Code Tab."
+                  }
+                ]
+              },
+              {
+                "label": "Elements of Scratch",
+                "items": [
+                  {
+                    "q": "What are the four main parts of Scratch?",
+                    "a": "Scratch has four main parts: the Stage, Sprites, Scripts, and Programming Palette. We can think of them as the different roles and props in a play."
+                  },
+                  {
+                    "q": "What is a sprite in Scratch?",
+                    "a": "They are the basic object in Scratch which are the actors or main characters of the project. Sprites are programmed to do something in Scratch. The default sprite in Scratch is orange cat."
+                  },
+                  {
+                    "q": "What is a script in Scratch?",
+                    "a": "A script tells the actors what to say or do. Each sprite is programmed with a script. In programming, scripts are a set of instruction blocks connected with one another used for programming."
+                  },
+                  {
+                    "q": "What is the stage in Scratch?",
+                    "a": "The stage is similar to the stage in a play. It is the main area where the action of your program takes place. The Stage Area is the main area where all the fun activities happen. It is where characters move, perform actions, and follow the instructions you give them. The stage acts as the background of your project."
+                  },
+                  {
+                    "q": "What is the programming palette in Scratch?",
+                    "a": "The programming palette has the elements used to program the sprite to do or say something. Sprites must be programmed to carry out every function you want them to perform."
+                  },
+                  {
+                    "q": "What are X and Y coordinates in Scratch? What are the coordinates of the centre and the four edges of the stage?",
+                    "a": "X and Y coordinates are like the address of a point on a graph. The X coordinate tells you how far to go horizontally (sideways), and the Y coordinate tells you how far to go vertically (up or down). Coordinates are like addresses that tell you exactly where something is located. The centre of the stage is (X: 0, Y: 0). The top edge is (X: 0, Y: 180), the bottom edge is (X: 0, Y: -180), the left edge is (X: -240, Y: 0) and the right edge is (X: 240, Y: 0)."
+                  }
+                ]
+              },
+              {
+                "label": "Scratch Constructs",
+                "items": [
+                  {
+                    "q": "What are programming constructs? Name the five main types of programming constructs in Scratch.",
+                    "a": "Programming constructs are simple building blocks that help you control how your program works. There are five main types of programming constructs in Scratch: 1. Sequence, 2. Events, 3. Loops, 4. Selection / Condition, 5. Variables."
+                  },
+                  {
+                    "q": "What is a sequence in Scratch?",
+                    "a": "In programming, a sequence means a list of steps that tell the computer what to do, one after the other. In Scratch, if you have two characters, each can have its own list of steps to follow and do something."
+                  },
+                  {
+                    "q": "What is an event in Scratch? Give three examples.",
+                    "a": "An event is something the program knows about and reacts to, like pressing a key, clicking a mouse, or tapping a phone screen. In Scratch, events are shown in yellow color. Examples: when green flag clicked; when space key pressed; when this sprite clicked; when I receive message1; when backdrop switches to backdrop1; when loudness > 10."
+                  },
+                  {
+                    "q": "What are loops in Scratch? Name and explain the three types of loops.",
+                    "a": "Loops are like a magic trick in coding that make action repeat again and again without needing to write the code multiple times. In the control section of block code, you'll find three types of loops: 1. repeat (number n) Block: It lets you repeat a set of commands 'n' times. The number 'n' can be any positive whole number. 2. repeat until Block: It runs a set of commands until a certain condition remains true. The condition you put inside \"until\" decides when the loop stops. 3. forever Block: It runs a set of commands continuously without stopping. There's no stopping condition in the forever block. It is used when you want something to keep happening forever, like a never-ending point."
+                  },
+                  {
+                    "q": "What is a variable in Scratch?",
+                    "a": "Variables are like containers that hold values. Imagine a box with a number inside it. A variable is a named computer's memory location where we can store data. It can only hold one piece of information at a time. Variables store data of different types (like name, number/digits etc.). Once the variable is created, we can use it in different parts of a program. In Scratch, the Variables palette has: Make a Variable; set my variable to 0; change my variable by 1; show variable my variable; hide variable my variable; Make a List."
+                  },
+                  {
+                    "q": "How many times do these loops repeat the block inside? (a) set counter to 20; repeat counter; turn 15 degrees. (b) forever; next costume. (c) set counter to 10; repeat until counter = 0; say counter; wait 1 secs; change counter by -1; say Blastoff!",
+                    "a": "(a) 20 times — the repeat block repeats the turn 15 degrees block as many times as the counter, which is set to 20. (b) Forever — the forever block never stops, so the next costume block repeats again and again without stopping. (c) 10 times — the counter starts at 10 and goes down by 1 each time (10, 9, 8, 7, 6, 5, 4, 3, 2, 1) until it becomes 0 and the loop stops; then the sprite says \"Blastoff!\" once."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 5,
+        "title": "Digital Citizenship",
+        "reading": "Digital Citizenship",
+        "display": "Digital Citizenship",
+        "sections": [
+          {
+            "num": "5.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) The unauthorized copying or distribution of copyrighted software is called: (a) Piracy (b) Copyright (c) Eye strain (d) Plagiarism",
+                    "a": "(a) Piracy ✓"
+                  },
+                  {
+                    "q": "(ii) Digital literacy refers to the skills and knowledge needed to assess, use, and create content: (a) Online (b) On notebook (c) On paper (d) On sketchbook",
+                    "a": "(a) Online ✓"
+                  },
+                  {
+                    "q": "(iii) Committing any unlawful activity by using ICT devices and the internet is known as: (a) Internet crime (b) Cybercrime (c) Internet law (d) Cyber law",
+                    "a": "(b) Cybercrime ✓"
+                  },
+                  {
+                    "q": "(iv) Before leaving the lab, students should: (a) Log off from their accounts (b) Monitor (c) Shut down the assigned computers properly (d) All of the above",
+                    "a": "(d) All of the above ✓"
+                  },
+                  {
+                    "q": "(v) The top of your computer monitor should be at or: (a) Slightly below eye level (b) Slightly above eye level (c) Slightly vertical to eye level (d) None of the above",
+                    "a": "(a) Slightly below eye level ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) A good digital citizen has the ____________ and skill to use information properly.",
+                    "a": "knowledge."
+                  },
+                  {
+                    "q": "(ii) ____________ is a law that stops you from using other people's work without their permission.",
+                    "a": "Copyright."
+                  },
+                  {
+                    "q": "(iii) Your arms should be ____________ to the floor and relaxed at your sides.",
+                    "a": "parallel."
+                  },
+                  {
+                    "q": "(iv) A ____________ is a person who belongs to a country or nation.",
+                    "a": "citizen."
+                  },
+                  {
+                    "q": "(v) Spending too much time on screens can be bad for our health and make us feel ____________ or sad.",
+                    "a": "tired."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Explain the significance of digital citizenship.",
+                    "a": "Digital citizenship is the ability to be involved with the Internet or technology in a meaningful and safe way. It prepares students for the global technology demand of the future. A digital citizen is a person who develops the skills and knowledge to efficiently use the internet and ICT. Digital citizenship is the ability to use ICT responsibly, safely and respectfully. A good digital citizen protects their personal information, treats others with respect, and understands copyright, plagiarism, piracy, the ethical issues of ICT while surfing online, and the health-related issues of using ICT devices."
+                  },
+                  {
+                    "q": "(ii) How should you behave online as a good citizen?",
+                    "a": "A good digital citizen uses ICT devices with care and responsibility. The six tips in the book are: I. Stay Private: Never share your personal information online like your parent's name, phone number, date of birth, password, ATM PIN or home address etc. with any website or person. II. Strangers are not your friend: Never befriend strangers online, this can be dangerous for your safety. People may not be who they claim online. III. Use a strong password: Never use your name or date of birth as your password; use a combination of alphabet, digits and special characters (*, ?, !, @, #, $..) as password. IV. Ask permission: It's always good to ask your parent or teacher if you can use the Internet or ICT devices, and never take a picture of someone without permission. V. Be kind: Treat people the way you would like to be treated on social media or during online classes; never use inappropriate language or make rude comments online. VI. Tell your elder: If you see or experience something that is not right (such as online bullying or trolling), tell your parents or teacher to get support."
+                  },
+                  {
+                    "q": "(iii) Discuss in detail the ethical issues of ICT while surfing online.",
+                    "a": "The use of ICT devices and the Internet raises many ethical issues: I. Misuse of personal data: We should be careful about sharing personal information online. If malicious individuals have your name, photo, DOB, etc., they can create your fake account using your details and try to deceive your friends, family anyone. If someone uses your personal information, you should tell your parents or teacher so they can help you to stay safe. II. Spread of misinformation: Misinformation is defined as inaccurate or misleading information that is shared online without the aim of misleading others. It is by mistake shared online by a person or group that shares the information and thinks it to be true. III. Hate Speech: Hate speech means posting bad or harsh comments, pictures, or videos on the internet about people because of their race, religion and gender. If we encounter hate speech online, it's important to inform our parents so they can help us address it. For example, posting harsh comments to target ethnic minorities. IV. Social media/Games addiction: Games and social media are designed to attract people to them, and children can easily become addicted because they are not mature enough to handle it. Parents and teachers are responsible for teaching them how to manage their time wisely. If you skip your meals to play computer games then you are addicted to them. V. Cyberbullying: Cyberbullying is repeatedly making hurtful or harsh comments about another person online, starting rumors or uploading embarrassing images or videos online. Cyberbullying can occur via email, online games, texting, and social media. For example, whenever you post your picture on Facebook one of your friends always posts harsh comments on it. This is cyberbullying."
+                  },
+                  {
+                    "q": "(iv) Write down health-related issues associated with children using ICT devices.",
+                    "a": "Spending too much time on ICT devices can damage our health and make us feel tired or sad. Health-related issues for children using ICT devices include: I. Eye Stress: Continuous use of ICT devices can cause eye strain. To reduce eye strain, we should follow the 20-20-20 rule which is, while working on the computer after every 20 minutes, look at something 20 feet away for 20 seconds. II. Poor Posture: Sitting on one side or dropping your head toward the computer stresses your body and leads to poor posture. III. Physical Inactivity and Obesity: If we spend too much time sitting using ICT devices then we will become physically inactive and this will lead to obesity and health issues. To avoid these issues we should limit our screen time. IV. Sleep Disorders: The blue light emitted by ICT devices can upset our body's normal sleep-wake cycle. To avoid this sleep disorder we should have a bedtime rule which is to turn off ICT devices at least one hour before sleeping. V. Exposure To Radiation: All electronic devices, including laptops and mobile phones use radiofrequency energy (a form of electromagnetic radiation). These radiations are not harmful if you are on your computer less than four hours a day. Limiting screen time can help reduce potential risks. VI. Mental Health Problems: If children spend most of their time in front of ICT devices, they may develop mental health problems like tension, anxiety, and depression. Positive mental health can be achieved by limiting the usage of ICT devices and supporting good activities."
+                  },
+                  {
+                    "q": "(v) Define the below given terms. a. Digital Foot Print b. Cyber Crime c. Copy Right Law d. Citizenship d. Cyberbullying",
+                    "a": "a. Digital Foot Print: Digital footprint is the record of your data while using the internet or social media; it also includes your search history which can be seen by your parents or teachers. b. Cyber Crime: Cybercrime covers illegal activities conducted using ICT devices and the internet, including hacking, fraud, identity theft and online harassment. It is any illegal activity done by using an ICT device on the internet, for example Cyberbullying, or software piracy. Every country has its cyber laws to counter cybercrimes. c. Copy Right Law: Copyright law is a protection given by the government to creators and developers to prevent unauthorized use of their work without their permission. This includes music, videos, images and documents. d. Citizenship: Citizenship means being a member of a country. When you are a citizen, you belong to a place like you are citizens of Pakistan. It gives you rights, like the right to vote and the right to be protected by the laws of your country. Citizenship also comes with responsibilities such as obeying rules, helping others and being a good member of your community. e. Cyberbullying: Cyberbullying is repeatedly making hurtful or harsh comments about another person online, starting rumors or uploading embarrassing images or videos online. Cyberbullying can occur via email, online games, texting, and social media."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.4",
+            "name": "Class activity",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Divide the class into four groups, each group will give a presentation on one health-related issue of using ICT devices and also give their suggestion on how to minimize the risk related to that particular health issue.",
+                    "a": "Group 1 — Eye Stress: Continuous use of ICT devices can cause eye strain. Suggestion: follow the 20-20-20 rule — while working on the computer after every 20 minutes, look at something 20 feet away for 20 seconds. Group 2 — Poor Posture: Sitting on one side or dropping your head toward the computer stresses your body and leads to poor posture. Suggestion: use a back support chair, sit up straight, keep your arms parallel to the floor, set the monitor at eye level, and take a break after every hour. Group 3 — Physical Inactivity and Obesity: Spending too much time sitting using ICT devices makes us physically inactive and leads to obesity and health issues. Suggestion: limit your screen time and play outdoor games. Group 4 — Sleep Disorders and Mental Health Problems: The blue light emitted by ICT devices can upset our body's normal sleep-wake cycle, and spending most of the time in front of ICT devices can cause tension, anxiety, and depression. Suggestion: turn off ICT devices at least one hour before sleeping, limit the usage of ICT devices, and support good activities."
+                  },
+                  {
+                    "q": "(ii) Plagiarism, Piracy and Copyright laws these three terms are very closely related to each other the teacher arranges an activity in class where students enlist different actions done online that can fall into the above categories. So they can understand these terms properly.",
+                    "a": "Plagiarism (using another person's work as your own): copying a friend's drawing and claiming it as your own in front of the class; copying text, pictures or music from the internet into your homework without acknowledging the author; using your friend's poem in your essay without telling/asking them. Piracy (unauthorized use, copying or distribution of copyrighted software): downloading, selling or using copyrighted games, music, movies, TV shows, photographs and software without paying the price; playing a computer game online that requires payment through pirated websites without paying. Copyright law (the law that protects creators): to use copyrighted material, you must get permission from the owner; using someone's work without their permission is a violation of copyright law, and one can get fined and imprisoned if he/she does not obey these laws."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.5",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Citizenship and Digital Citizenship",
+                "items": [
+                  {
+                    "q": "What is a citizen?",
+                    "a": "A citizen is a person who belongs to a country or nation."
+                  },
+                  {
+                    "q": "What is citizenship? What rights and responsibilities does it give?",
+                    "a": "Citizenship means being a member of a country. When you are a citizen, you belong to a place like you are citizens of Pakistan. It gives you rights, like the right to vote and the right to be protected by the laws of your country. Citizenship also comes with responsibilities such as obeying rules, helping others and being a good member of your community."
+                  },
+                  {
+                    "q": "What is digital citizenship?",
+                    "a": "Digital citizenship is the ability to be involved with the Internet or technology in a meaningful and safe way. If you are playing online games, using social media or applying online for a passport through the NADRA website, then you are a digital citizen. Digital citizenship is the ability to use ICT responsibly, safely and respectfully."
+                  },
+                  {
+                    "q": "What is a digital citizen?",
+                    "a": "A digital citizen is a person who develops the skills and knowledge to efficiently use the internet and ICT. A good digital citizen has the knowledge and skill to use ICT devices with care and responsibility, protects their personal information and treats others with respect."
+                  },
+                  {
+                    "q": "What is social media?",
+                    "a": "Social media refers to online platforms that allow users to create, share content and interact with other users."
+                  },
+                  {
+                    "q": "What does \"surfing the Internet\" mean?",
+                    "a": "Surfing the Internet means the act of browsing and exploring the World Wide Web."
+                  }
+                ]
+              },
+              {
+                "label": "Being a Good Digital Citizen",
+                "items": [
+                  {
+                    "q": "Write six tips to be a good digital citizen and stay safe and responsible while using the Internet.",
+                    "a": "I. Stay Private: Never share your personal information online like your parent's name, phone number, date of birth, password, ATM PIN or home address etc. with any website or person. II. Strangers are not your friend: Never befriend strangers online, this can be dangerous for your safety. People may not be who they claim online. III. Use a strong password: Never use your name or date of birth as your password; use a combination of alphabet, digits and special characters (*, ?, !, @, #, $..) as password. IV. Ask permission: It's always good to ask your parent or teacher if you can use the Internet or ICT devices, and never take a picture of someone without permission. V. Be kind: Treat people the way you would like to be treated on social media or during online classes; never use inappropriate language or make rude comments online. VI. Tell your elder: If you see or experience something that is not right (such as online bullying or trolling), tell your parents or teacher to get support."
+                  },
+                  {
+                    "q": "What are the rules for making a strong password for your E-mail account?",
+                    "a": "1. The password should be 8 characters long. 2. The first character must be the 1st alphabet (uppercase) of the student's favorite fruit. 3. The next three characters must be their choice. 4. After digits use any special character of the student's choice. 5. The last three characters will be lowercase alphabets taken one letter from the student's father's name, one alphabet from the student's mother's name and one alphabet from the student's name. Tip to remember: Never use the same password for all of your accounts."
+                  },
+                  {
+                    "q": "What is a digital footprint?",
+                    "a": "Digital footprint is the record of your data while using the internet or social media; it also includes your search history which can be seen by your parents or teachers."
+                  },
+                  {
+                    "q": "What is online trolling or bullying?",
+                    "a": "Online trolling or bullying is when someone intentionally tries to insult, cause trouble or directly attack people by posting harsh comments on social media."
+                  },
+                  {
+                    "q": "Complete the table: Stay Safe Online / Good Digital Citizen — write five DOs and five DON'Ts.",
+                    "a": "[[T]]DO|Don't;;Stay private — never share your personal information online.|Never share your parent's name, phone number, date of birth, password, ATM PIN or home address with any website or person.;;Use a strong password (alphabet, digits and special characters).|Never use your name or date of birth as your password.;;Ask your parent or teacher before using the Internet or ICT devices.|Never befriend strangers online — people may not be who they claim online.;;Be kind — treat people the way you would like to be treated.|Never use inappropriate language or make rude comments online.;;Tell your parents or teacher if you see something that is not right online.|Never take a picture of someone without permission.[[/T]]"
+                  }
+                ]
+              },
+              {
+                "label": "ICT Ethics",
+                "items": [
+                  {
+                    "q": "What is ICT ethics?",
+                    "a": "ICT ethics is suitable behavior while using the internet and computer devices. The main characteristic of computer ethics is to use ICT devices and the Internet without harming people's privacy and obeying the laws related to copyright and software piracy and plagiarism."
+                  },
+                  {
+                    "q": "What is copyright law?",
+                    "a": "Copyright law is a protection given by the government to creators and developers to prevent unauthorized use of their work without their permission. This includes music, videos, images and documents. To use copyrighted material, you must get permission from the owner. Every country has its copyright laws and one can get fined and imprisoned if he/she does not obey these laws."
+                  },
+                  {
+                    "q": "What is plagiarism? Give an example.",
+                    "a": "Plagiarism is the use or copying of another person's ideas, words, drawings, art, music, etc., and presenting it as one's own without acknowledging the author or obtaining their permission. Let's suppose a student copies their friend's drawing and claims it as their own in front of the class; this is plagiarism."
+                  },
+                  {
+                    "q": "What is piracy? Give an example.",
+                    "a": "The term piracy comes from the word \"pirates\". Piracy involves downloading, selling, and using copyrighted games, music, movies, TV shows, photographs, and software without paying the price. For example, if you want to play a computer game online that requires payment and you do not pay and play the same computer game through pirated websites, it is piracy."
+                  },
+                  {
+                    "q": "What is cybercrime? Give two examples.",
+                    "a": "Cybercrime covers illegal activities conducted using ICT devices and the internet, including hacking, fraud, identity theft and online harassment. For example, cyberbullying and software piracy are cybercrimes. Every country has its cyber laws to counter cybercrimes."
+                  },
+                  {
+                    "q": "What is cyber law?",
+                    "a": "Cyber law is the legal area that regulates and governs the use of the internet and issues such as online privacy, cybersecurity, electronic commerce and digital rights."
+                  }
+                ]
+              },
+              {
+                "label": "Health, Posture and Lab Rules",
+                "items": [
+                  {
+                    "q": "Name the six health-related issues for children using ICT devices.",
+                    "a": "1. Eye Stress. 2. Poor Posture. 3. Physical Inactivity and Obesity. 4. Sleep Disorders. 5. Exposure To Radiation. 6. Mental Health Problems."
+                  },
+                  {
+                    "q": "What is the 20-20-20 rule? How does it help?",
+                    "a": "To reduce eye strain, we should follow the 20-20-20 rule which is, while working on the computer after every 20 minutes, look at something 20 feet away for 20 seconds."
+                  },
+                  {
+                    "q": "Write six guidelines for maintaining good posture when using a computer.",
+                    "a": "Keeping proper posture while using a computer helps prevent discomfort and reduce the risk of health issues such as muscle pain. I. Use a back support chair: Always use a chair with proper support to keep your back in shape. Make sure that your feet are on the floor. II. Always sit up straight while using ICT devices: Sit up straight while using ICT devices. Avoid slouching or leaning forward. III. Put your arms parallel to the floor: Keep your arms parallel to the floor. Use armrests, if available, to support your arms and shoulders. IV. Set the monitor at eye level: The upper edge of your computer monitor should be at or a little below eye level. Computer screen should be 18 to 25 inches away from you. V. Position the keyboard and mouse properly: Place the keyboard and mouse near and at a height that allows your elbows to bend at about a 90-degree angle. VI. Take a break: While using the computer for more than one hour, you should take a break by getting up from your computer and walk for a few minutes."
+                  },
+                  {
+                    "q": "How can children avoid sleep disorders and mental health problems from using ICT devices?",
+                    "a": "Sleep Disorders: The blue light emitted by ICT devices can upset our body's normal sleep-wake cycle. To avoid this sleep disorder we should have a bedtime rule which is to turn off ICT devices at least one hour before sleeping. Mental Health Problems: If children spend most of their time in front of ICT devices, they may develop mental health problems like tension, anxiety, and depression. Positive mental health can be achieved by limiting the usage of ICT devices and supporting good activities."
+                  },
+                  {
+                    "q": "Write eight computer lab rules for students.",
+                    "a": "1. Ask your teacher for permission before going in or out of the lab. 2. Get your teacher's permission before printing or downloading files. 3. Browse through websites that your parents and instructor have recommended. 4. Use the computer in the computer lab that is assigned to you by your teacher. 5. Save your files, log out of your account, and shut down your computer completely before you leave the lab. 6. The computer lab should be neat and tidy. 7. Do not touch electric switches or move devices. 8. Arrange your chair before leaving the lab."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      },
+      {
+        "unit": 6,
+        "title": "Entrepreneurships in Digital Age",
+        "reading": "Entrepreneurships in Digital Age",
+        "display": "Entrepreneurships in Digital Age",
+        "sections": [
+          {
+            "num": "6.1",
+            "name": "Multiple Choice Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) The role of an entrepreneur is to: (a) Play sports (b) Starts and runs their own business (c) Works for other people (d) Try new things",
+                    "a": "(b) Starts and runs their own business ✓"
+                  },
+                  {
+                    "q": "(ii) A business plan is a: (a) Recipe for cupcakes (b) Roadmap for a business (c) List of favorite toys (d) Type of puzzle",
+                    "a": "(b) Roadmap for a business ✓"
+                  },
+                  {
+                    "q": "(iii) An innovation means: (a) Doing the same thing every day (b) Coming up with new and better ideas (c) Watching TV all day (d) Ignoring problems",
+                    "a": "(b) Coming up with new and better ideas ✓"
+                  },
+                  {
+                    "q": "(iv) An entrepreneur can learn from failure: (a) By giving up (b) By trying again and learning from mistakes (c) By blaming others (d) By never trying new things again",
+                    "a": "(b) By trying again and learning from mistakes ✓"
+                  },
+                  {
+                    "q": "(v) Entrepreneurs who want to start a business should: (a) Wait for someone else to do it (b) Try different ideas (c) Watch TV all day (d) Ask others to do it for you",
+                    "a": "(b) Try different ideas ✓"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.2",
+            "name": "Fill in the Blanks",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) Entrepreneurship is the process of starting a new business to generate ____________.",
+                    "a": "Profit."
+                  },
+                  {
+                    "q": "(ii) ____________ Phases involve research, analysis, and creative thinking to uncover opportunities for innovation.",
+                    "a": "Identification."
+                  },
+                  {
+                    "q": "(iii) ____________ lead to economic growth by creating new markets and expanding existing ones.",
+                    "a": "Entrepreneurs."
+                  },
+                  {
+                    "q": "(iv) The entrepreneurship process is ____________ and helps in developing a business.",
+                    "a": "nonstop."
+                  },
+                  {
+                    "q": "(v) ____________ helps entrepreneurs use cool tools and gadgets to make their businesses better.",
+                    "a": "Technology."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.3",
+            "name": "Descriptive Questions",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) What do you think a business plan is?",
+                    "a": "A business plan is a roadmap for a business. Entrepreneurs develop and write down a detailed business plan that recaps their idea, aims, target market, advertising strategy, money needed and working plan. It is the plan they follow to start and run their business."
+                  },
+                  {
+                    "q": "(ii) How do entrepreneurs sell their products or services?",
+                    "a": "Traditional entrepreneurs sell products through their stores, direct sales or distribution systems, and they talk to customers face-to-face. Digital entrepreneurs sell products or services online through e-commerce platforms, digital storefronts or subscription models, and they promote them through digital marketing methods such as social media, search engine optimization (SEO) tools, content marketing, email marketing and online advertising."
+                  },
+                  {
+                    "q": "(iii) What do you think opportunity identification means in entrepreneurship?",
+                    "a": "Opportunity identification is the first phase of the entrepreneurship process. In this step, entrepreneurs find an opportunity or idea to start a new business. To do so they need analysis, investigation, and a creative mind to come up with an idea. Identification phases involve research, analysis, and creative thinking to uncover opportunities for innovation."
+                  },
+                  {
+                    "q": "(iv) What do you think would be the most important characteristic of a successful entrepreneur?",
+                    "a": "The most important characteristic of a successful entrepreneur is to be a risk-taker who never gives up. An entrepreneur is someone who begins a business and is prepared to take a loss or profit. He/she is a leader who goes through challenges and opportunities to bring his/her ideas to life, and learns from failure by trying again and learning from mistakes. Other important characteristics from the book are creativity (always coming up with new ideas), being strong-minded (dreaming big and working hard to achieve it), being a hard worker, being a good learner, and putting customer satisfaction first."
+                  },
+                  {
+                    "q": "(v) Write the differences between digital entrepreneurship and traditional entrepreneurship.",
+                    "a": "[[T]]Characteristics|Traditional Entrepreneurship|Digital Entrepreneurship;;Location|Selling products in your locality|Selling things (products) online to people around the world;;Business example|Selling from a stall or stand (e.g., Samosa stand)|Selling digital things like games, stories, or art online;;Customer dealings|Talking to customers face-to-face|Chatting customers online;;Marketing|Traditional methods like print, radio and TV advertising|Digital marketing approaches such as SEO, PPC, social media[[/T]]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.4",
+            "name": "Class Activity",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(i) As all of us live in different cities and every city has its special craft, teacher engages students in an activity where students use their creativity and social media platforms like Facebook or WhatsApp to introduce the world to their native town crafts and help locals to sell these craft to the world. Hint (for example Hyderabad is famous for Glass bangles, Nawabshah is famous for Sindhi embroidery)",
+                    "a": "Students use their creativity and social media platforms like Facebook or WhatsApp to introduce the world to their native town crafts and help locals sell these crafts to the world. For example, Hyderabad is famous for Glass bangles and Nawabshah is famous for Sindhi embroidery. Students can take photos of the craft, write about how it is made and where it comes from, design a poster for it, and post it on the school's Facebook page or the school's WhatsApp group so that people around the world can see it and buy it. This is digital marketing and e-commerce — using the Internet and social media to sell products."
+                  },
+                  {
+                    "q": "(ii) The teacher divides the class into two groups of students — one group will give a presentation on any famous Pakistani Traditional entrepreneur's journey to success and the other group will deliver presentations on any Pakistani Digital entrepreneur's journey.",
+                    "a": "Group 1 — Pakistani Traditional entrepreneur: Hakim Muhammad Saeed, a notable figure in Pakistan, was renowned for his entrepreneurial journey, primarily in traditional medicine and education. He is the Founder of the Hamdard Foundation and Hamdard University Karachi. Group 2 — Pakistani Digital entrepreneurs: Salim Ghauri, known as \"Bill Gates of Pakistan\", is the founder and CEO of NetSol Technologies, one of the biggest IT firms in Pakistan; he shares his entrepreneurship journey in his book named \"From Nothing To Everything\". Monis Rehman is an engineer who co-founded Naseeb Networks, Inc. and rozee.com, the leading job marketplace in Pakistan. Sidra Qasim is the founder of Markhor, a Pakistani startup that produces handcrafted leather shoes; Markhor gained international recognition for its unique business model and high-quality products."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.5",
+            "name": "Additional Questions",
+            "exercises": [
+              {
+                "label": "Entrepreneurship",
+                "items": [
+                  {
+                    "q": "What is entrepreneurship?",
+                    "a": "Entrepreneurship is the process of encouraging people to develop new ideas, create products or services, and take the necessary steps to start their businesses. For example, opening a tuck shop near your home. In simple words, it is the process of starting a new business to make a profit."
+                  },
+                  {
+                    "q": "What is an entrepreneur?",
+                    "a": "An entrepreneur is someone who begins a business and is prepared to take a loss or profit. He/she is a leader who goes through challenges and opportunities to bring his/her ideas to life. An entrepreneur starts a new business and creates employment possibilities while coming up with different concepts, goods, and services that can improve people's lives. They hire more workers as their business grows. Both local and global economies improve as entrepreneurs achieve success."
+                  },
+                  {
+                    "q": "Explain entrepreneurship with the example of samosas given in the book.",
+                    "a": "Let's say you love samosas, so you come up with a recipe for super delicious samosas. You think other people might want to buy them too. So, you start making samosas at home and selling them to your friends and neighbors. As more people buy your tasty samosas you start selling them at local markets and maybe you will open your shop. This is entrepreneurship — turning your idea into a business."
+                  },
+                  {
+                    "q": "What are the two types of entrepreneurship?",
+                    "a": "There are two types of entrepreneurships: Traditional entrepreneurship and digital entrepreneurship."
+                  },
+                  {
+                    "q": "What is innovation?",
+                    "a": "An innovation means coming up with new and better ideas. An innovator entrepreneur is a person who comes up with new ideas and creates things that have never been made before."
+                  },
+                  {
+                    "q": "How can an entrepreneur learn from failure?",
+                    "a": "An entrepreneur can learn from failure by trying again and learning from mistakes — not by giving up, blaming others, or never trying new things again."
+                  }
+                ]
+              },
+              {
+                "label": "Traditional and Digital Entrepreneurship",
+                "items": [
+                  {
+                    "q": "What is traditional entrepreneurship? Write its five characteristics.",
+                    "a": "Traditional entrepreneurship is starting and running your businesses through street stalls and shops. Its characteristics are: I. Physical Presence: Traditional entrepreneurship typically involves physical existence such as offices and shops. II. Local Market Focus: Traditional entrepreneurs normally focus on the local market but some may increase their business nationally or internationally over time. III. Traditional Marketing Methods: Traditional entrepreneurs rely on conventional marketing methods, such as printed posters, newspaper ads, radio and TV commercials. IV. Direct Sales Methods: Traditional entrepreneurs sell products through their stores, direct sales or distribution systems. V. Face-To-Face Interaction: In traditional entrepreneurship, face-to-face interaction with customers is common."
+                  },
+                  {
+                    "q": "What is digital entrepreneurship? Write its five characteristics.",
+                    "a": "Digital entrepreneurship or modern entrepreneurship refers to starting and managing a business with the help of the Internet and ICT devices. Online shopping websites and online education websites are examples of digital entrepreneurship. Its characteristics are: I. Online Presence: Digital entrepreneurship operates through online platforms, websites, and digital marketplaces. II. Global Reach: Digital entrepreneurs can reach a global audience as they start because of the worldwide reach of the internet. III. Digital Marketing: Digital entrepreneurs use digital marketing methods such as social media, search engine optimization (SEO) tools, content marketing, email marketing and online advertising. IV. E-commerce: Digital entrepreneurs often sell products or services online through e-commerce platforms, digital storefronts or subscription models. V. Virtual Interaction: Customer interaction in digital entrepreneurship is conducted through using digital communication mediums such as chat support, social media messaging and e-mails."
+                  },
+                  {
+                    "q": "What is the difference between traditional and digital entrepreneurship?",
+                    "a": "Local markets and physical interaction are the main features of traditional entrepreneurship. In contrast, digital entrepreneurship uses digital technologies for marketing, sales and customer interaction. In traditional entrepreneurship, entrepreneurs work on physical interaction with clients; in digital entrepreneurship, they work on digital interaction with the customer."
+                  },
+                  {
+                    "q": "Give one example of a traditional business and one example of a digital business from the book.",
+                    "a": "Traditional business: Selling from a stall or stand, for example a Samosa stand, or a local market shop. Digital business: Selling digital things like games, stories, or art online; online shopping websites and online education websites are examples of digital entrepreneurship."
+                  },
+                  {
+                    "q": "What is digital marketing? Name five digital marketing methods.",
+                    "a": "Digital entrepreneurs use digital marketing methods to promote their products and services to capture customer attention. The five methods in the book are: social media, search engine optimization (SEO) tools, content marketing, email marketing and online advertising."
+                  }
+                ]
+              },
+              {
+                "label": "Types of Entrepreneurs",
+                "items": [
+                  {
+                    "q": "Name the five common types of entrepreneurs.",
+                    "a": "The five common types of entrepreneurs are: Innovator, Hustler, Imitator, Researcher and Buyer."
+                  },
+                  {
+                    "q": "Who is an innovator entrepreneur? Give two examples and write three characteristics of an innovator.",
+                    "a": "An innovator entrepreneur is a person who comes up with new ideas and creates things that have never been made before. Thomas Edison was one of the greatest innovative entrepreneurs in history, who invented the light bulb. Another example of an innovator is Graham Bell who invented the Telephone. Characteristics of Innovator: Creativity — Always come up with a new idea. Risk Taker — Willing to take risks for their business. Customer Focus — They put customer satisfaction first."
+                  },
+                  {
+                    "q": "Who is a hustler entrepreneur? Give a Pakistani example and write three characteristics of a hustler.",
+                    "a": "Hustler entrepreneurs are people who grab opportunities. They can overcome challenges and disappointments and are uncompromising in their search for openings in business. A famous hustler entrepreneur from Pakistan is Arshad Khan, commonly known as the \"Chaiwala\" (tea seller). When a picture of him serving tea at a local stall went viral on social media, he became popular. Taking advantage of his popularity, he opened his teashop in Islamabad. Characteristics of Hustler: Strong-minded — They dream big and work hard to achieve it. Grab Opportunity — Whenever they sense any opportunity, they work hard to use it. Hard Worker — They work very hard to be successful."
+                  },
+                  {
+                    "q": "Who is an imitator entrepreneur? Give an example and write three characteristics of an imitator.",
+                    "a": "Imitator entrepreneurs take any proven business ideas and use the same idea in new markets or industries. Instead of developing new products or services, imitators focus on replication, alteration and modernization. For example, Bykea car and bike ride-booking app adopted the same idea as another online car ride booking app Uber. Characteristics of Imitator: Ability to Refine ideas — Improve a business idea rather than coming up with new ideas. Good learner — Learn from other business mistakes and avoid these mistakes when doing the same business. Analysis Skill — Do an accurate analysis that the copied idea will work in the new market."
+                  },
+                  {
+                    "q": "Who is a researcher entrepreneur? Give a Pakistani example and write three characteristics of a researcher.",
+                    "a": "The researcher entrepreneur is a science genius with curiosity and the craving to invent. Often highly educated with advanced degrees. One outstanding researcher entrepreneur from Pakistan is Dr. Atta-ur-Rahman. Dr. Rahman is a renowned scientist and scholar who has made significant contributions to the field of chemistry and pharmaceutical research. Characteristics of Researcher: Highly educated — They are highly educated with advanced degrees like PhD. Curiosity — They ask questions and want to learn and create new things. Communication skill — They are very good at explaining their ideas to their team and customers."
+                  },
+                  {
+                    "q": "Who is a buyer entrepreneur? Give a Pakistani example and write three characteristics of a buyer.",
+                    "a": "The buyers' entrepreneurs search to buy a running business and drive it to new heights. They have prior expertise in that particular business which gives them confidence in anticipating profit. A famous example of a buyer entrepreneur from Pakistan is Malik Riaz Hussain. He is the founder and chairman of Bahria Town, one of the largest real estate development companies in Asia. Characteristics of Buyer: Experienced — They have previous know-how in that particular business. Rich — They have the right amount of money to buy. Confident — Have a sense that purchased business will give them profit."
+                  }
+                ]
+              },
+              {
+                "label": "Entrepreneurship Process and Technology",
+                "items": [
+                  {
+                    "q": "What is the entrepreneurship process? Name its five phases.",
+                    "a": "The entrepreneurship process is the process needed to start your business. This process typically involves five phases: I. Opportunity Identification, II. Opportunity Analysis, III. Business Planning, IV. Implementation, V. Growth and Scaling. These five phases provide an outline for understanding the entrepreneurship process. However, it's important to note that entrepreneurship is a never-ending and repetitive process and also the actual process may differ based on market environments, diverse situations and trade dynamics."
+                  },
+                  {
+                    "q": "What is opportunity analysis in the entrepreneurship process?",
+                    "a": "After finding an opportunity/idea, we will write down all the requirements. This includes estimating market demand, competition, risks, and the money required to implement the idea. This phase helps entrepreneurs determine whether the idea is profitable and whether they have the skills and funds to succeed."
+                  },
+                  {
+                    "q": "What happens in the business planning, implementation and growth phases?",
+                    "a": "Business Planning: Here entrepreneurs develop and write down a detailed business plan that recaps their idea, aims, target market, advertising strategy, money needed and working plan. Implementation: With a solid business plan in place, entrepreneurs implement their ideas by using funds, developing products or services, starting promotion campaigns and starting operations. Growth and Scaling: As the business becomes successful, entrepreneurs focus on expanding into new markets and making it big."
+                  },
+                  {
+                    "q": "How does technology help entrepreneurs? Write four uses of technology in entrepreneurship.",
+                    "a": "Technology made entrepreneurship easy in many ways because of technology entrepreneurs can reach customers around the globe. Technology makes it easier to run your own business. I. Digital Marketing & E-commerce: Through digital marketing, businesses promote their products and services to capture customer attention and through E-commerce platforms sell their products. II. Mobile Applications: As the usage of mobile phones increases nowadays, developing a mobile app can help your business build a stronger brand. A mobile app serves as an always-on brand ambassador. III. Artificial Intelligence (AI): AI helps entrepreneurship in many ways; through AI you can generate logos for your business or can improve user interaction with customers through chatbot (an application of AI). IV. Collaboration Tools: Entrepreneurship requires consistent communication between teams and collaboration tools make it possible to connect to your team anywhere around the world; famous collaboration tools are Slack, Zoom or Microsoft Teams."
+                  },
+                  {
+                    "q": "Define the following terms: AI, E-Commerce, ICT, SEO.",
+                    "a": "AI: Using computers to do things that traditionally require human intelligence is called artificial intelligence (AI). E-Commerce: E-commerce (electronic commerce) means selling things and services on the Internet. ICT: Information and Communication Technology. SEO: SEO (search engine optimization) is the method of improving your website to increase its visibility in Google, Microsoft Bing, and other search engines whenever people search for the products you sell or services you provide."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": []
+      }
+    ],
+    "csExsolutionsSindhi": [
+      {
+        "unit": 1,
+        "title": "ڪمپيوٽر جو تعارف",
+        "reading": "ڪمپيوٽر جو تعارف",
+        "display": "ڪمپيوٽر جو تعارف",
+        "sections": [
+          {
+            "num": "1.1",
+            "name": "صحيح جواب کي دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. هيٺ ڏنل ڊوائيسز مان اسٽوريج ڊوائيس چونڊيو.\n(الف) مائڪروپروسيسر\n(ب) ميموري ڪارڊ ✓\n(ج) رائوٽر\n(د) مدر بورڊ",
+                    "a": "ميموري ڪارڊ"
+                  },
+                  {
+                    "q": "ii. هيٺ ڏنل دورن مان ڪهڙي دور جا ڪمپيوٽر وڌيڪ توانائي استعمال ڪن ٿا؟\n(الف) پهرئين دور جا ✓\n(ب) ٻئين دور جا\n(ج) ٽئين دور جا\n(د) چوٿين دور جا",
+                    "a": "پهرئين دور جا"
+                  },
+                  {
+                    "q": "iii. ڪهڙي دور جا ڪمپيوٽر وڌيڪ طاقتور ۽ ڪارائتا آهن؟\n(الف) پهرئين دور جا\n(ب) ٻئين دور جا\n(ج) ٽئين دور جا\n(د) چوٿين دور جا ✓",
+                    "a": "چوٿين دور جا"
+                  },
+                  {
+                    "q": "iv. هيٺ ڏنل ڊوائيسز مان ڪهڙي ڊوائيس کي ان پٽ ۽ آئوٽ پٽ ٻنهي طور استعمال ڪري سگهجي ٿو؟\n(الف) پلاٽر\n(ب) مانيٽر\n(ج) انٽرايڪٽو بورڊ ✓\n(د) ٽريڪ بال",
+                    "a": "انٽرايڪٽو بورڊ"
+                  },
+                  {
+                    "q": "v. ڪهڙي ڊوائيس وڌيڪ ڊيٽا ذخيرو ڪري سگهي ٿي؟\n(الف) سي ڊي\n(ب) بلو-ري ڊسڪ ✓\n(ج) فلاپي ڊسڪ\n(د) ڊي وي ڊي",
+                    "a": "بلو-ري ڊسڪ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.2",
+            "name": "هيٺ ڏنل لفظن جي مدد سان خال پريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "لفظ: نيٽ ورڪ سوئچ، آئوٽ پٽ ڊوائيسز، سسٽم سافٽ ويئر، ايپليڪيشن سافٽ ويئر، رائوٽر\n\ni. ..................... رابطي وارو ڊوائيس آهي.",
+                    "a": "رائوٽر"
+                  },
+                  {
+                    "q": "ii. ..................... ڪمپيوٽر کان معلومات حاصل ڪرڻ لاءِ استعمال ٿيندڙ ڊوائيسز آهن.",
+                    "a": "آئوٽ پٽ ڊوائيسز"
+                  },
+                  {
+                    "q": "iii. ..................... نيٽورڪن جي وچ ۾ ڊيٽا جي تبادلي لاءِ استعمال ٿيندڙ ڊوائيس آهي.",
+                    "a": "نيٽ ورڪ سوئچ"
+                  },
+                  {
+                    "q": "iv. ..................... ڪمپيوٽر کي منظم ڪرڻ ۽ ڪنٽرول ڪرڻ لاءِ استعمال ٿيندڙ سافٽ ويئر جو قسم آهي.",
+                    "a": "سسٽم سافٽ ويئر"
+                  },
+                  {
+                    "q": "v. ..................... روزمره جي ڪمن ۾ صارف جي مدد ڪرڻ لاءِ استعمال ٿيندڙ سافٽ ويئر جو قسم آهي.",
+                    "a": "ايپليڪيشن سافٽ ويئر"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.3",
+            "name": "هيٺ ڏنل سوالن جا تفصيلي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. ڪمپيوٽر ڇا آهي؟",
+                    "a": "ڪمپيوٽر هڪ اليڪٽرانڪ ڊوائيس آهي جيڪو ڊيٽا کي ان پٽ طور وٺي ٿو، ان تي پروسيسنگ ڪري ٿو ۽ نتيجو معلومات طور ڏئي ٿو."
+                  },
+                  {
+                    "q": "ii. ڪمپيوٽر هارڊويئر ۽ ڪمپيوٽر سافٽ ويئر ۾ ڇا فرق آهي؟",
+                    "a": "هارڊويئر ڪمپيوٽر جا اهي جسماني حصا آهن جن کي ڏسي ۽ ڇهي سگهجي ٿو، جهڙوڪ ڪي بورڊ، مائوس ۽ مانيٽر. سافٽ ويئر هدايتن جو هڪ سيٽ آهي جيڪو ڪمپيوٽر کي ٻڌائي ٿو ته ڇا ڪرڻو آهي، جهڙوڪ ايم-ايس ونڊوز ۽ ايم-ايس پينٽ."
+                  },
+                  {
+                    "q": "iii. ان پٽ ڊوائيسز ۽ آئوٽ پٽ ڊوائيسز ۾ فرق بيان ڪريو.",
+                    "a": "ان پٽ ڊوائيسز ڪمپيوٽر ۾ ڊيٽا داخل ڪرڻ لاءِ استعمال ٿين ٿا، جهڙوڪ ڪي بورڊ، مائوس، اسڪينر ۽ مائڪروفون. آئوٽ پٽ ڊوائيسز پروسيس ٿيل معلومات کي صارف کي ڏيکارين ٿا، جهڙوڪ مانيٽر، پرنٽر، اسپيڪر ۽ پروجيڪٽر."
+                  },
+                  {
+                    "q": "iv. پنجن اسٽوريج ڊوائيسز جا نالا لکو.",
+                    "a": "هارڊ ڊسڪ، سي ڊي، ڊي وي ڊي، بلو-ري ڊسڪ، يو ايس بي فليش ڊرائيو."
+                  },
+                  {
+                    "q": "v. پروسيسنگ ڊوائيسز کي بيان ڪريو.",
+                    "a": "پروسيسنگ ڊوائيسز اهي آهن جيڪي ڊيٽا تي ڪم ڪن ٿا ۽ ان کي معلومات ۾ تبديل ڪن ٿا. انهن ۾ سي پي يو/مائڪروپروسيسر، ريم، روم ۽ مدر بورڊ شامل آهن."
+                  },
+                  {
+                    "q": "vi. ڪمپيوٽر جي مختلف دورن جون اهم خاصيتون بيان ڪريو؟",
+                    "a": "پهريون دور (1940–1956): ويڪيوم ٽيوبز، وڏا ۽ سست ڪمپيوٽر. ٻيو دور (1956–1963): ٽرانزيسٽر، ننڍا ۽ تيز. ٽيون دور (1964–1971): انٽيگريٽيڊ سرڪٽس (آءِ سي). چوٿون دور (1971–هاڻي): مائڪروپروسيسر، ذاتي ڪمپيوٽر، ليپ ٽاپ ۽ انٽرنيٽ. پنجون دور (هاڻي ۽ مستقبل): مصنوعي ذهانت، انٽرنيٽ آف ٿنگس ۽ ڪوانٽم ڪمپيوٽنگ."
+                  },
+                  {
+                    "q": "vii. تعليم جي شعبي ۾ آئي سي ٽي کي ڪيئن استعمال ڪري سگهجي ٿو؟",
+                    "a": "تعليم ۾ آئي سي ٽي تعليمي راندين، آن لائن سکيا (خان اڪيڊمي، ورچوئل يونيورسٽي)، انٽرايڪٽو وائيٽ بورڊ ۽ وڊيو شيئرنگ ذريعي استعمال ٿئي ٿي."
+                  },
+                  {
+                    "q": "viii. صنعت جي شعبي ۾ آئي سي ٽي کي ڪيئن استعمال ڪري سگهجي ٿو؟",
+                    "a": "صنعت ۾ آئي سي ٽي روبوٽس، ڪمپيوٽر سان ڪنٽرول ٿيل مشينن ۽ انوينٽري مينيجمينٽ ذريعي استعمال ٿئي ٿي."
+                  },
+                  {
+                    "q": "ix. شاگرد آئي سي ٽي مان ڪهڙا فائدا حاصل ڪري سگهن ٿا؟",
+                    "a": "شاگرد آئي سي ٽي مان سکيا جا وسيع وسيلا (تعليمي رانديون، وڊيو، خان اڪيڊمي، ڊوئولنگو)، رابطو (اي ميل، واٽس ايپ، اسڪائيپ)، ڪارڪردگي ۾ پيداوار (پينٽ، ڪينوا، فوٽوشاپ) ۽ تعاون (ايم-ايس ٽيمز، زوم، ڊراپ باڪس، گوگل ڊاڪس) جا فائدا حاصل ڪري سگهن ٿا."
+                  },
+                  {
+                    "q": "x. نوجوانن لاءِ آئي سي ٽي جا ڪهڙا نقصان آهن؟",
+                    "a": "نوجوانن لاءِ آئي سي ٽي جا نقصان آهن: خلل وجهڻ، صحت جا خدشا (اکين تي بار، ننڊ جي خرابي، ڪنڌ ۽ ڳچيءَ ۾ سور)، سائبر سيڪيورٽي جا خطرا (وائرس، مالويئر، هيڪنگ، فشنگ) ۽ انحصار."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.4",
+            "name": "هيٺ ڏنل آئي سي ٽي ڊوائيسز جا فنڪشن بيان ڪريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. رائوٽر",
+                    "a": "رائوٽر ٻن يا وڌيڪ نيٽ ورڪن کي ڳنڍي ٿو؛ گهر جو رائوٽر گهر جي نيٽ ورڪ کي انٽرنيٽ فراهم ڪندڙ (آءِ ايس پي) سان ڳنڍي ٿو."
+                  },
+                  {
+                    "q": "ii. لين ڪارڊ",
+                    "a": "لين ڪارڊ (اين آءِ سي) ڪمپيوٽر کي لوڪل ايريا نيٽ ورڪ (لين) سان ڳنڍي ٿو."
+                  },
+                  {
+                    "q": "iii. QR ڪوڊ اسڪينر",
+                    "a": "QR ڪوڊ اسڪينر QR ڪوڊ کي پڙهي ٿو ۽ ان ۾ محفوظ معلومات کي ڪمپيوٽر ۾ داخل ڪري ٿو."
+                  },
+                  {
+                    "q": "iv. ٽچ پيڊ",
+                    "a": "ٽچ پيڊ هڪ ان پٽ ڊوائيس آهي جيڪو آڱر جي حرڪت سان ڪرسر کي هلائي ٿو؛ اهو گهڻو ڪري ليپ ٽاپ ۾ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "v. هيڊ فون",
+                    "a": "هيڊ فون هڪ آئوٽ پٽ ڊوائيس آهي جيڪو آواز ٻڌڻ لاءِ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "vi. پروجيڪٽر",
+                    "a": "پروجيڪٽر متن، تصوير ۽ وڊيو کي وڏي اسڪرين تي ڏيکاري ٿو."
+                  },
+                  {
+                    "q": "vii. مائڪروپروسيسر",
+                    "a": "مائڪروپروسيسر (سي پي يو) ڪمپيوٽر جو دماغ آهي؛ اهو ڊيٽا تي پروسيسنگ ڪري ٿو."
+                  },
+                  {
+                    "q": "viii. مدر بورڊ",
+                    "a": "مدر بورڊ ڪمپيوٽر جو مکيه بورڊ آهي جيڪو سي پي يو، ريم، روم، پاور سپلائي ۽ اسٽوريج کي هڪٻئي سان ڳنڍي ٿو."
+                  },
+                  {
+                    "q": "ix. فليش ڊرائيو",
+                    "a": "فليش ڊرائيو (يو ايس بي فليش ڊرائيو) هڪ پورٽيبل اسٽوريج ڊوائيس آهي جيڪو ڊيٽا کي محفوظ ڪري ٿو ۽ هڪ ڪمپيوٽر کان ٻئي ڪمپيوٽر ڏانهن آساني سان منتقل ڪري سگهجي ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.5",
+            "name": "هيٺ ڏنل ڊوائيسز جا نالا لکو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(A) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "بلوٽوٿ ڊونگل"
+                  },
+                  {
+                    "q": "(B) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "وائرليس لين ڪارڊ"
+                  },
+                  {
+                    "q": "(C) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "پلاٽر"
+                  },
+                  {
+                    "q": "(D) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "مدر بورڊ"
+                  },
+                  {
+                    "q": "(E) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "مانيٽر"
+                  },
+                  {
+                    "q": "(F) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "پرنٽر"
+                  },
+                  {
+                    "q": "(G) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "اسڪينر"
+                  },
+                  {
+                    "q": "(H) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "گيم پيڊ"
+                  },
+                  {
+                    "q": "(I) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو.",
+                    "a": "رائوٽر"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.7",
+            "name": "هيٺين تصويرن جي ان-پٽ، آئوٽ-پٽ، اسٽوريج، پروسيسنگ ۽ ڪميونيڪيشن ڊوائيسز جي طور تي شناخت ڪيو ۽ نالا لکو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(A) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "پرنٽر — آئوٽ پٽ ڊوائيس"
+                  },
+                  {
+                    "q": "(B) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "ميموري ڪارڊ — اسٽوريج ڊوائيس"
+                  },
+                  {
+                    "q": "(C) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "مائڪروپروسيسر — پروسيسنگ ڊوائيس"
+                  },
+                  {
+                    "q": "(D) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "ٽريڪ بال — ان پٽ ڊوائيس"
+                  },
+                  {
+                    "q": "(E) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "هارڊ ڊسڪ — اسٽوريج ڊوائيس"
+                  },
+                  {
+                    "q": "(F) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "بارڪوڊ اسڪينر — ان پٽ ڊوائيس"
+                  },
+                  {
+                    "q": "(G) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "نيٽ ورڪ سوئچ — ڪميونيڪيشن ڊوائيس"
+                  },
+                  {
+                    "q": "(H) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "مائڪروپروسيسر — پروسيسنگ ڊوائيس"
+                  },
+                  {
+                    "q": "(I) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "پرنٽر — آئوٽ پٽ ڊوائيس"
+                  },
+                  {
+                    "q": "(J) تصوير ۾ ڏيکاريل ڊوائيس جو نالو لکو ۽ ان جي قسم ٻڌايو (ان پٽ، آئوٽ پٽ، اسٽوريج، پروسيسنگ يا ڪميونيڪيشن).",
+                    "a": "ريم — پروسيسنگ ڊوائيس"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "1.8",
+            "name": "گروهي سرگرميون",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. شاگردن کان ڊرائنگ شيٽ تي ڪمپيوٽر جي هارڊويئر جي ڪجهه حصن جي ڊرائنگ ڪرايو.",
+                    "a": "شاگرد ڊرائنگ شيٽ تي ڪمپيوٽر جي هارڊويئر جا حصا، جهڙوڪ ڪي بورڊ، مائوس، مانيٽر، سي پي يو ۽ پرنٽر، ٺاهيندا."
+                  },
+                  {
+                    "q": "ii. شاگردن کي آئي سي ٽي جو ڪو به موضوع ڏيو ۽ کين چئو ته ان موضوع تي پوسٽر پريزينٽيشن تيار ڪن.",
+                    "a": "شاگرد آئي سي ٽي جي ڪنهن موضوع، جهڙوڪ ڪمپيوٽر جا فائدا، تي پوسٽر تيار ڪري پيش ڪندا."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Vacuum Tubes",
+            "sd": "ويڪيوم ٽيوبز",
+            "syn": "glass tubes used in first generation computers"
+          },
+          {
+            "w": "Transistor",
+            "sd": "ٽرانزيسٽر",
+            "syn": "a small electronic device used in second generation computers"
+          },
+          {
+            "w": "Integrated Circuits (IC)",
+            "sd": "انٽيگريٽيڊ سرڪٽس (آءِ سي)",
+            "syn": "many transistors on a single chip"
+          },
+          {
+            "w": "Microprocessor",
+            "sd": "مائڪروپروسيسر",
+            "syn": "a small chip that works as the CPU"
+          },
+          {
+            "w": "Artificial Intelligence (AI)",
+            "sd": "مصنوعي ذهانت (AI)",
+            "syn": "machines that think and learn like humans"
+          },
+          {
+            "w": "Internet of Things (IoT)",
+            "sd": "انٽرنيٽ آف ٿنگس (IoT)",
+            "syn": "devices connected to the internet"
+          },
+          {
+            "w": "Simulation Software",
+            "sd": "سيميوليشن سافٽ ويئر",
+            "syn": "software that copies a real situation"
+          },
+          {
+            "w": "Data Analysis",
+            "sd": "ڊيٽا اينالسز",
+            "syn": "examining data to find useful information"
+          },
+          {
+            "w": "Collaboration Tools",
+            "sd": "ڪوليبرايشن ٽولز",
+            "syn": "tools that help people work together"
+          },
+          {
+            "w": "Hard Disk Drive (HDD)",
+            "sd": "هارڊ ڊسڪ ڊرائيو (HDD)",
+            "syn": "a storage device inside the computer"
+          },
+          {
+            "w": "Solid State Drive (SSD)",
+            "sd": "سولڊ اسٽيٽ ڊرائيو (SSD)",
+            "syn": "a fast storage device with no moving parts"
+          },
+          {
+            "w": "Device Driver",
+            "sd": "ڊوائيس ڊرائيور",
+            "syn": "software that controls a hardware device"
+          },
+          {
+            "w": "RAM",
+            "sd": "ريم",
+            "syn": "Random Access Memory - temporary memory used while the computer works"
+          },
+          {
+            "w": "ROM",
+            "sd": "روم",
+            "syn": "Read Only Memory - permanent memory that stores the BIOS"
+          },
+          {
+            "w": "Word Processor",
+            "sd": "ورڊ پروسيسر",
+            "syn": "software for writing documents, e.g. MS Word"
+          },
+          {
+            "w": "Dropbox",
+            "sd": "ڊراپ باڪس (Dropbox)",
+            "syn": "a cloud storage service for sharing files"
+          },
+          {
+            "w": "Prototype",
+            "sd": "پروٽوٽائپ",
+            "syn": "an early model of a product"
+          }
+        ]
+      },
+      {
+        "unit": 2,
+        "title": "ڊجيٽل اسڪلز/ڪمپيوٽر جو استعمال",
+        "reading": "ڊجيٽل اسڪلز/ڪمپيوٽر جو استعمال",
+        "display": "ڊجيٽل اسڪلز/ڪمپيوٽر جو استعمال",
+        "sections": [
+          {
+            "num": "2.1",
+            "name": "صحيح جواب کي دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. ونڊوز 10 ۾ ٽاسڪ بار جو ڪم آهي:\n(الف) ڪمپيوٽر جي وسيلن کي منظم ڪرڻ\n(ب) فائلون ۽ فولڊر ناهڻ لاءِ يوزر کي انٽرفيس مهيا ڪرڻ\n(ج) مختلف ونڊوز فيچرن کي منظم ڪرڻ ۽ انهن تائين جلد رسائي مهيا ڪرڻ ✓\n(د) ڪمپيوٽر کي وائرس کان بچائڻ",
+                    "a": "مختلف ونڊوز فيچرن کي منظم ڪرڻ ۽ انهن تائين جلد رسائي مهيا ڪرڻ"
+                  },
+                  {
+                    "q": "ii. ونڊوز 10 ۾ فائل ايڪسپلورر جو ڪم آهي:\n(الف) ڪمپيوٽر جي وسيلن کي منظم ڪرڻ\n(ب) مختلف ونڊوز فيچرن کي منظم ڪرڻ ۽ انهن تائين جلد رسائي مهيا ڪرڻ\n(ج) فائلون ۽ فولڊر برائوز ڪرڻ ۽ منظم ڪرڻ ✓\n(د) ڪمپيوٽر کي وائرس کان بچائڻ",
+                    "a": "فائلون ۽ فولڊر برائوز ڪرڻ ۽ منظم ڪرڻ"
+                  },
+                  {
+                    "q": "iii. جنهن هنڌ تي حذف ٿيل فائلون عارضي طور تي محفوظ ٿين ٿيون، ان کي سڏيو ويندو آهي:\n(الف) ونڊوز ٽاسڪ بار\n(ب) ري-سائيڪل بن ✓\n(ج) سسٽم ٽري\n(د) ونڊوز ڊيسڪ ٽاپ",
+                    "a": "ري-سائيڪل بن"
+                  },
+                  {
+                    "q": "iv. ايم-ايس پينٽ ۾ ڪوئيڪ ايڪسيس ٽول بار جو ڪم آهي:\n(الف) اميج يا ڊرائنگ ناهڻ\n(ب) گول، مستطيل وغيره جهڙيون شڪلون شامل ڪرڻ\n(ج) فري هينڊ ٽول استعمال ڪري اميج ۽ آرٽ ورڪ ناهڻ\n(د) عام استعمال ٿيندڙ فيچرز جهڙوڪ سيو ۽ ان-ڊُو وغيره تائين رسائي حاصل ڪرڻ ✓",
+                    "a": "عام استعمال ٿيندڙ فيچرز جهڙوڪ سيو ۽ ان-ڊُو وغيره تائين رسائي حاصل ڪرڻ"
+                  },
+                  {
+                    "q": "v. انٽرنيٽ تي سرچ انجڻ جو مقصد آهي:\n(الف) خاص موضوع بابت معلومات ڳولهڻ ۾ يوزرز جي مدد ڪرڻ ✓\n(ب) خاص ويب پيج ناهڻ ۾ يوزرز جي مدد ڪرڻ\n(ج) فلمون ڊائون لوڊ ڪرڻ ۽ ڏسڻ ۾ يوزرز جي مدد ڪرڻ\n(د) آن لائن گيمز کيڏڻ ۾ يوزرز جي مدد ڪرڻ",
+                    "a": "خاص موضوع بابت معلومات ڳولهڻ ۾ يوزرز جي مدد ڪرڻ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.2",
+            "name": "هيٺ ڏنل لفظن جي مدد سان خال پريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "لفظ: ڪي ورڊز، CTRL+Z، شارٽ ڪٽ ناهيو، نوٽ پيڊ، ڪلر\n\ni. توهان ونڊوز 10 ۾ چونڊيل فائل يا فولڊر تي ساڄي ڪلڪ ڪري ۽ پوپ اپ ڊائون مينيو ۾ ______ چونڊي شارٽ ڪٽ ناهي سگهو ٿا.",
+                    "a": "شارٽ ڪٽ ناهيو"
+                  },
+                  {
+                    "q": "ii. ______ ونڊوز ۾ ڊفالٽ ٽيڪسٽ ايڊيٽر آهي، جيڪو ونڊوز آپريٽنگ سسٽم جي سڀني ورزنن ۾ شامل آهي.",
+                    "a": "نوٽ پيڊ"
+                  },
+                  {
+                    "q": "iii. ______ پيليٽ ۾ درائنگ ۾ رنگ ڀرڻ ۽ لائينن جو رنگ چونڊڻ لاءِ رنگ ڏيکاريل هوندا آهن.",
+                    "a": "ڪلر"
+                  },
+                  {
+                    "q": "iv. ايم-ايس پينٽ ۾، توهان آخري ڪم کي ان-ڊُو ڪرڻ لاءِ شارٽ ڪٽ کي ______ دٻائي سگهو ٿا.",
+                    "a": "CTRL+Z"
+                  },
+                  {
+                    "q": "v. انٽرنيٽ تي سرچ انجڻ، استعمال ڪندڙن کي ذيل ______ يا جملن جي بنياد تي گهربل معلومات يا ڊيٽا ڳولهڻ ۾ مدد ڪري ٿو.",
+                    "a": "ڪي ورڊز"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.3",
+            "name": "هيٺ ڏنل سوالن جا تفصيلي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. آپريٽنگ سسٽم مان ڇا مراد آهي؟",
+                    "a": "آپريٽنگ سسٽم هڪ پروگرام آهي جيڪو ڪمپيوٽر جي سڀني پروگرامن ۽ هارڊويئر کي ڪنٽرول ۽ منظم ڪري ٿو ۽ ڪمپيوٽر جو استعمال آسان بڻائي ٿو."
+                  },
+                  {
+                    "q": "ii. ونڊوز 10 ۾ ٽاسڪ بار جو ڪم ڇا آهي؟",
+                    "a": "ٽاسڪ بار ڊيسڪ ٽاپ جي هيٺين پاسي هڪ پٽي آهي جيڪا مختلف ونڊوز فيچرن کي منظم ڪري ٿي ۽ انهن تائين جلد رسائي مهيا ڪري ٿي؛ ان ۾ اسٽارٽ بٽڻ، سرچ باڪس، ٽاسڪ ويو، پنڊ ايپس ۽ سسٽم ٽري شامل آهن."
+                  },
+                  {
+                    "q": "iii. مائيڪرو سافٽ پينٽ ۾ درائنگ جي آئوٽ لائن ناهڻ يا ان ۾ رنگ ڀرڻ جو طريقو بيان ڪريو.",
+                    "a": "پهرين شڪل يا پينسل/برش ٽول چونڊيو ۽ ڪلر 1 مان رنگ چونڊي مائوس کي ڇڪي درائنگ جي آئوٽ لائن ٺاهيو. پوءِ فل وٿ ڪلر ٽول چونڊيو، پيليٽ مان رنگ چونڊيو ۽ بند ٿيل آئوٽ لائن جي اندر ڪلڪ ڪري ان ۾ رنگ ڀريو."
+                  },
+                  {
+                    "q": "iv. انٽرنيٽ استعمال ڪرڻ دوران اختيار ڪيل حفاظتي تدبيرن جي وضاحت ڪريو؟ سرچ انجڻ جو ڪم بيان ڪريو.",
+                    "a": "حفاظتي تدبيرون: پنهنجي ذاتي معلومات (نالو، فون نمبر، پتو، پاسورڊ) ڪنهن سان به نه شيئر ڪريو؛ اڻڄاتل لنڪس تي ڪلڪ نه ڪريو؛ آن لائن بااخلاق رهو؛ اجنبي ماڻهن تي ڀروسو نه ڪريو ۽ ڪا غلط ڳالهه محسوس ٿئي ته والدين يا استاد کي ٻڌايو. سرچ انجڻ جو ڪم: سرچ انجڻ انٽرنيٽ تي ڪي ورڊز يا جملن جي بنياد تي گهربل معلومات جلدي ڳولهڻ ۾ مدد ڪري ٿو، جهڙوڪ گوگل، بنگ ۽ ياهو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.4",
+            "name": "ڪالم A ۾ ڏنل آئيڪنز کي ڪالم B ۾ ڏنل نالن سان ملايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "ڪالم A ۾ ڏنل آئيڪنز کي ڪالم B ۾ ڏنل نالن سان ملايو.\n[[T]]ڪالم A|ڪالم B;;(i) پينٽ برش جو آئيڪن|(a) ونڊوز 10 اسٽارٽ مينيو/ اسٽارٽ بٽڻ;;(ii) ايج جو آئيڪن|(b) ري-سائيڪل بن;;(iii) ونڊوز جو لوگو|(c) ونڊو ڪنٽرولز;;(iv) ونڊو ڪنٽرول بٽڻ|(d) ويب برائوزر;;(v) ري-سائيڪل بن جو آئيڪن|(e) برش[[/T]]",
+                    "a": "(i) — (e) برش\n(ii) — (d) ويب برائوزر\n(iii) — (a) ونڊوز 10 اسٽارٽ مينيو/ اسٽارٽ بٽڻ\n(iv) — (c) ونڊو ڪنٽرولز\n(v) — (b) ري-سائيڪل بن"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.5",
+            "name": "ڏنل خانن ۾ آئيڪن جو نالو لکو ۽ ان جي مختصر وضاحت ڪريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "(1) تصوير ۾ ڏيکاريل آئيڪن جو نالو لکو ۽ ان جي مختصر وضاحت ڪريو. (Type here to search)",
+                    "a": "سرچ باڪس — ٽاسڪ بار تي موجود باڪس جنهن ۾ لکي فائلون، فولڊر، ايپس ۽ سيٽنگس ڳولي سگهجن ٿيون."
+                  },
+                  {
+                    "q": "(2) تصوير ۾ ڏيکاريل آئيڪن جو نالو لکو ۽ ان جي مختصر وضاحت ڪريو. (ري-سائيڪل بن)",
+                    "a": "ري-سائيڪل بن — اها جاءِ جتي حذف ٿيل فائلون عارضي طور تي محفوظ ٿين ٿيون ۽ جتان انهن کي بحال ڪري سگهجي ٿو."
+                  },
+                  {
+                    "q": "(3) تصوير ۾ ڏيکاريل آئيڪن جو نالو لکو ۽ ان جي مختصر وضاحت ڪريو. (ٽاسڪ بار جي ساڄي پاسي: وائي فائي، آواز، وقت ۽ تاريخ)",
+                    "a": "سسٽم ٽري — ٽاسڪ بار جي ساڄي پاسي وارو حصو جنهن ۾ بيٽري، آواز، نيٽ ورڪ، تاريخ ۽ وقت جا آئيڪن ڏيکاريل هوندا آهن."
+                  },
+                  {
+                    "q": "(4) تصوير ۾ ڏيکاريل آئيڪن جو نالو لکو ۽ ان جي مختصر وضاحت ڪريو. (فولڊر)",
+                    "a": "فولڊر — فائلن کي محفوظ ڪرڻ ۽ منظم ڪرڻ لاءِ استعمال ٿيندڙ ڪنٽينر."
+                  },
+                  {
+                    "q": "(5) تصوير ۾ ڏيکاريل آئيڪن جو نالو لکو ۽ ان جي مختصر وضاحت ڪريو. (گوگل ڪروم)",
+                    "a": "گوگل ڪروم — گوگل جو ويب برائوزر جيڪو انٽرنيٽ تي ويب سائيٽون کولڻ لاءِ استعمال ٿئي ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "2.6",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "آپريٽنگ سسٽم",
+                "items": [
+                  {
+                    "q": "آپريٽنگ سسٽم ڇا آهي؟",
+                    "a": "آپريٽنگ سسٽم هڪ پروگرام آهي جيڪو ڪمپيوٽر جي سڀني پروگرامن ۽ هارڊويئر کي ڪنٽرول ۽ منظم ڪري ٿو."
+                  },
+                  {
+                    "q": "آپريٽنگ سسٽم جا ڪم لکو.",
+                    "a": "وسيلن جو انتظام، يوزر انٽرفيس مهيا ڪرڻ، پروگرام هلائڻ، فائل مينيجمينٽ ۽ سيڪيورٽي."
+                  },
+                  {
+                    "q": "ڪمپيوٽر جي آپريٽنگ سسٽم جا مثال ڏيو.",
+                    "a": "ونڊوز، ميڪ او ايس، لينڪس ۽ يونڪس."
+                  },
+                  {
+                    "q": "موبائل آپريٽنگ سسٽم جا مثال ڏيو.",
+                    "a": "اينڊرائيڊ، آئي-او-ايس ۽ ونڊوز 10 موبائل."
+                  },
+                  {
+                    "q": "سڀ کان وڌيڪ استعمال ٿيندڙ موبائل آپريٽنگ سسٽم ڪهڙو آهي؟",
+                    "a": "اينڊرائيڊ، جيڪو گوگل جو ٺاهيل آهي."
+                  }
+                ]
+              },
+              {
+                "label": "ونڊوز 10 جا حصا",
+                "items": [
+                  {
+                    "q": "ونڊوز 10 شروع ڪرڻ جا مرحلا لکو.",
+                    "a": "ڪمپيوٽر آن ڪرڻ، UEFI/BIOS لوڊ ڪرڻ، بوٽ لوڊر لوڊ ڪرڻ، لاگ ان اسڪرين."
+                  },
+                  {
+                    "q": "اسٽارٽ بٽڻ جو ڪم ڇا آهي؟",
+                    "a": "اسٽارٽ بٽڻ اسٽارٽ مينيو کولي ٿو، جنهن مان پاور آپشن، سسٽم سيٽنگس، ايپس، پروگرام، فائلون ۽ دستاويز ملي سگهن ٿا."
+                  },
+                  {
+                    "q": "ٽاسڪ ويو جو ڪم ڇا آهي؟",
+                    "a": "ٽاسڪ ويو کليل ونڊوز ۽ ورچوئل ڊيسڪ ٽاپ ڏيکاري ٿو ۽ ڪم کي منظم ڪرڻ ۾ مدد ڪري ٿو."
+                  },
+                  {
+                    "q": "ونڊو کي بند ڪرڻ لاءِ ڪهڙو شارٽ ڪٽ استعمال ٿئي ٿو؟",
+                    "a": "Alt+F4."
+                  },
+                  {
+                    "q": "ونڊو کي منيمائيز ڪرڻ لاءِ ڪهڙو شارٽ ڪٽ استعمال ٿئي ٿو؟",
+                    "a": "Win+M."
+                  }
+                ]
+              },
+              {
+                "label": "فائلون ۽ فولڊر",
+                "items": [
+                  {
+                    "q": "فائل ڇا آهي؟",
+                    "a": "فائل اها ڊيٽا يا معلومات آهي جيڪا ڪمپيوٽر ۾ محفوظ ٿئي ٿي، جهڙوڪ ٽيڪسٽ دستاويز، تصوير، آڊيو يا وڊيو."
+                  },
+                  {
+                    "q": "فولڊر ڇا آهي؟",
+                    "a": "فولڊر فائلن کي محفوظ ڪرڻ ۽ منظم ڪرڻ لاءِ استعمال ٿيندڙ ڪنٽينر آهي."
+                  },
+                  {
+                    "q": "نئين فائل ناهڻ جو طريقو لکو.",
+                    "a": "فائل ايڪسپلورر کوليو، گهربل هنڌ تي وڃو، خالي جاءِ تي ساڄي ڪلڪ ڪريو، New چونڊيو، پوءِ Text Document چونڊيو."
+                  },
+                  {
+                    "q": "فائل کي ڪاپي ڪرڻ لاءِ ڪهڙو شارٽ ڪٽ استعمال ٿئي ٿو؟",
+                    "a": "Ctrl+C (ڪاپي) ۽ Ctrl+V (پيسٽ)."
+                  },
+                  {
+                    "q": "فائل کي هڪ هنڌ کان ٻئي هنڌ منتقل ڪرڻ لاءِ ڪهڙو شارٽ ڪٽ استعمال ٿئي ٿو؟",
+                    "a": "Ctrl+X (ڪٽ) ۽ Ctrl+V (پيسٽ)."
+                  }
+                ]
+              },
+              {
+                "label": "ايم-ايس پينٽ",
+                "items": [
+                  {
+                    "q": "ايم-ايس پينٽ ڇا آهي؟",
+                    "a": "ايم-ايس پينٽ ونڊوز ۾ شامل هڪ درائنگ پروگرام آهي جنهن سان تصويرون ۽ درائنگ ٺاهي سگهجن ٿيون."
+                  },
+                  {
+                    "q": "پينٽ ۾ ڪلر 1 ۽ ڪلر 2 جو ڪم ڇا آهي؟",
+                    "a": "ڪلر 1 اڳيان وارو رنگ آهي جيڪو آئوٽ لائن، لائينن ۽ شڪلن لاءِ استعمال ٿئي ٿو؛ ڪلر 2 پٺيان وارو رنگ آهي جيڪو ڀرڻ لاءِ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "پينٽ ۾ فل وٿ ڪلر ٽول جو ڪم ڇا آهي؟",
+                    "a": "فل وٿ ڪلر ٽول چونڊيل حصي ۾ رنگ ڀرڻ لاءِ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "پينٽ ۾ ايريزر جو ڪم ڇا آهي؟",
+                    "a": "ايريزر درائنگ جو ڪو حصو ختم ڪرڻ لاءِ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "پينٽ ۾ فائل کي محفوظ ڪرڻ جو طريقو لکو.",
+                    "a": "فائل مينيو ۾ Save چونڊيو، هنڌ ۽ نالو چونڊيو ۽ Save تي ڪلڪ ڪريو."
+                  }
+                ]
+              },
+              {
+                "label": "انٽرنيٽ ۽ سرچ انجڻ",
+                "items": [
+                  {
+                    "q": "انٽرنيٽ ڇا آهي؟",
+                    "a": "انٽرنيٽ ڪمپيوٽرن کي هڪٻئي سان ڳنڍڻ وارو نيٽ ورڪ آهي جنهن ذريعي معلومات حاصل ڪري سگهجي ٿي."
+                  },
+                  {
+                    "q": "WWW مان ڇا مراد آهي؟",
+                    "a": "WWW يعني ورلڊ وائڊ ويب — معلومات جو هڪ نظام جيڪو انٽرنيٽ ذريعي حاصل ڪري سگهجي ٿو ۽ جنهن جون فائلون هائپر ٽيڪسٽ سان هڪٻئي سان ڳنڍيل هونديون آهن."
+                  },
+                  {
+                    "q": "ويب پيج ۽ ويب سائيٽ ۾ ڇا فرق آهي؟",
+                    "a": "ويب پيج انٽرنيٽ تي هڪ اڪيلو دستاويز يا فائل آهي؛ ويب سائيٽ ويب پيجن جو هڪ گروپ يا مجموعو آهي."
+                  },
+                  {
+                    "q": "ويب برائوزر جا مثال ڏيو.",
+                    "a": "مائيڪروسافٽ ايج، گوگل ڪروم، موزيلا فائر فاڪس، اوپيرا ۽ سفاري."
+                  },
+                  {
+                    "q": "سرچ انجڻ جا مثال ڏيو.",
+                    "a": "گوگل، بنگ، آسڪ، ياهو! ۽ ڊڪ ڊڪ گو."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Operating System",
+            "sd": "آپريٽنگ سسٽم",
+            "syn": "a program that controls the computer hardware and software"
+          },
+          {
+            "w": "Android",
+            "sd": "اينڊرائيڊ",
+            "syn": "Google's mobile operating system"
+          },
+          {
+            "w": "iOS",
+            "sd": "آئي-او-ايس",
+            "syn": "Apple's mobile operating system"
+          },
+          {
+            "w": "Taskbar",
+            "sd": "ٽاسڪ بار",
+            "syn": "the strip at the bottom of the Windows desktop"
+          },
+          {
+            "w": "Icon",
+            "sd": "آئيڪن",
+            "syn": "a small picture representing a file, folder or program"
+          },
+          {
+            "w": "Recycle Bin",
+            "sd": "ري-سائيڪل بن",
+            "syn": "the place where deleted files are stored temporarily"
+          },
+          {
+            "w": "File Explorer",
+            "sd": "فائل ايڪسپلورر",
+            "syn": "a program to browse and organise files and folders"
+          },
+          {
+            "w": "File",
+            "sd": "فائل",
+            "syn": "data or information stored on the computer"
+          },
+          {
+            "w": "Folder",
+            "sd": "فولڊر",
+            "syn": "a container for storing files"
+          },
+          {
+            "w": "PDF",
+            "sd": "پي-ڊي-ايف",
+            "syn": "Portable Document Format"
+          },
+          {
+            "w": "Clipboard",
+            "sd": "ڪلپ بورڊ",
+            "syn": "temporary storage for copied or cut items"
+          },
+          {
+            "w": "Network",
+            "sd": "نيٽ ورڪ",
+            "syn": "computers connected together"
+          },
+          {
+            "w": "Internet",
+            "sd": "انٽرنيٽ",
+            "syn": "a global network of computers"
+          },
+          {
+            "w": "WWW",
+            "sd": "ڊبليو ڊبليو ڊبليو",
+            "syn": "World Wide Web - a system of information on the internet"
+          },
+          {
+            "w": "Web Page",
+            "sd": "ويب پيج",
+            "syn": "a single document on the internet"
+          },
+          {
+            "w": "Website",
+            "sd": "ويب سائيٽ",
+            "syn": "a collection of web pages"
+          },
+          {
+            "w": "Web Browser",
+            "sd": "ويب برائوزر",
+            "syn": "software to access websites"
+          },
+          {
+            "w": "HTML",
+            "sd": "ايچ ٽي ايم ايل",
+            "syn": "HyperText Markup Language - the language of web pages"
+          },
+          {
+            "w": "HTTP",
+            "sd": "ايچ ٽي ٽي پي",
+            "syn": "HyperText Transfer Protocol - the protocol for transferring web pages"
+          },
+          {
+            "w": "Search Engine",
+            "sd": "سرچ انجڻ",
+            "syn": "a program to find information on the internet"
+          },
+          {
+            "w": "Multi-User Operating System",
+            "sd": "ملٽي يوزر آپريٽنگ سسٽم",
+            "syn": "an operating system that allows many users"
+          },
+          {
+            "w": "Multitasking Operating System",
+            "sd": "ملٽي ٽاسڪنگ آپريٽنگ سسٽم",
+            "syn": "an operating system that runs many programs at the same time"
+          }
+        ]
+      },
+      {
+        "unit": 3,
+        "title": "الگورتمي سوچ ۽ مسئلن جو حل",
+        "reading": "الگورتمي سوچ ۽ مسئلن جو حل",
+        "display": "الگورتمي سوچ ۽ مسئلن جو حل",
+        "sections": [
+          {
+            "num": "3.1",
+            "name": "صحيح جواب تي دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. مسئلي مان مراد آهي:\n(1) راند\n(2) حل ٿيڻ جي انتظار ۾ چئلينج ✓\n(3) ڪهاڻي ڪتاب\n(4) فلم",
+                    "a": "حل ٿيڻ جي انتظار ۾ چئلينج"
+                  },
+                  {
+                    "q": "2. هڪ آسان مسئلي جو مثال آهي:\n(1) روبوٽ ٺاهڻ\n(2) پنهنجا بوٽ پائڻ ✓\n(3) وڊيو گيم ٺاهڻ\n(4) ڪيڪ ٺاهڻ",
+                    "a": "پنهنجا بوٽ پائڻ"
+                  },
+                  {
+                    "q": "3. مسئلو حل ڪرڻ جو منصوبو ٺاهڻ لاءِ اسان کي گهرجي:\n(1) اجزاء\n(2) حقيقتن، ان پٽ، آئوٽ پٽ ✓\n(3) ٽولز\n(4) تفصيل",
+                    "a": "حقيقتن، ان پٽ، آئوٽ پٽ"
+                  },
+                  {
+                    "q": "4. مسئلو توڙڻ جو مطلب آهي:\n(1) ان کي وڌيڪ وڏو ڪرڻ\n(2) ان کي ننڍڙن حصن ۾ ورهائڻ ✓\n(3) ان کي جلدي حل ڪرڻ\n(4) ان کي نظرانداز ڪرڻ",
+                    "a": "ان کي ننڍڙن حصن ۾ ورهائڻ"
+                  },
+                  {
+                    "q": "5. الگورتمي سوچ جو مطلب آهي:\n(1) راز جو حل ڳولهڻ، جاسوس ٿيڻ ✓\n(2) خيالن ۾ گم ٿيڻ\n(3) تي وي دسڻ\n(4) وڊيو گيمز کيڏڻ",
+                    "a": "راز جو حل ڳولهڻ، جاسوس ٿيڻ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.2",
+            "name": "هيٺ ڏنل لفظن سان خالي جايون پريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "لفظ: منصوبو، ٻولي، حصو، نتيجن، عمل\n\n1. آسان مسئلا ______ گهجهارتن وانگر آهن.",
+                    "a": "ننڍڙين"
+                  },
+                  {
+                    "q": "2. مسئلي کي تقسيم ڪرڻ، مسئلي جو هر ______ بهتر سمجهڻ ۾ مدد ڏئي ٿو.",
+                    "a": "حصو"
+                  },
+                  {
+                    "q": "3. هڪ الگورتم، مسئلو حل ڪرڻ لاءِ، هڪ قدم به قدم ______ آهي.",
+                    "a": "منصوبو"
+                  },
+                  {
+                    "q": "4. سوڊو ڪوڊ روزمره جي ______ استعمال ڪندي الگورتم لکڻ جو هڪ آسان طريقو آهي.",
+                    "a": "ٻولي"
+                  },
+                  {
+                    "q": "5. فلو چارٽ ۾ علامتون ۽ تير جا نشان، هدايتن يا منصوبي تي ______ دوران اسان جي رهنمائي ڪندا آهن.",
+                    "a": "عمل"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.3",
+            "name": "هيٺين سوالن جا تفصيلي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. هڪ آسان مسئلي جو مثال ڏيو جيڪو توهان کي پيش آيو هجي، ۽ توهان ان کي ڪيئن حل ڪيو؟",
+                    "a": "مثال: منهنجا بوٽ پائڻ هڪ آسان مسئلو آهي. مون ان کي حل ڪيو: پهرين ساڄي پير جو بوٽ پاتو، پوءِ کاٻي پير جو بوٽ پاتو، پوءِ تسمو ٻڌو. اهو هڪ آسان مسئلو آهي ڇو ته ان کي حل ڪرڻ لاءِ صرف قدمن جي ترتيب جي ضرورت آهي."
+                  },
+                  {
+                    "q": "2. وڏو مسئلو، ننڍڙن حصن ۾ تقسيم ڪرڻ ڇو ضروري آهي؟",
+                    "a": "وڏو مسئلو هڪ ئي وقت سمجهڻ ۽ حل ڪرڻ ڏکيو هوندو آهي. جڏهن ان کي ننڍڙن حصن ۾ ورهايو وڃي ٿو ته هر حصو سمجهڻ ۽ حل ڪرڻ آسان ٿي وڃي ٿو، ۽ سڀني حصن کي حل ڪرڻ سان سڄو مسئلو حل ٿي وڃي ٿو."
+                  },
+                  {
+                    "q": "3. مسئلو حل ڪرڻ جي قدم به قدم عمل جا فائدا بيان ڪريو.",
+                    "a": "قدم به قدم عمل جا فائدا آهن: مسئلو حل ڪرڻ لاءِ هڪ واضح منصوبو ملي ٿو؛ هر قدم آسان ۽ سمجهڻ ۾ سولو هوندو آهي؛ غلطي جلدي ڳولي سگهجي ٿي؛ ۽ ناکامي جو خطرو گهٽجي وڃي ٿو."
+                  },
+                  {
+                    "q": "4. حقيقي زندگي جي ڪنهن صورتحال بابت لکو جتي توهان هڪ الگورتم استعمال ڪري سگهو ٿا، جهڙوڪ هڪ قدم به قدم منصوبو؟",
+                    "a": "مثال: چانهه ٺاهڻ جو الگورتم — 1. پاڻي اٻاريو. 2. اٻريل پاڻي پيالي ۾ وجهي پيالي کي گرم ڪريو، پوءِ خالي ڪريو. 3. چانهه جو ٿيلهو پيالي ۾ وجهو. 4. اٻريل پاڻي وجهو. 5. 3 کان 5 منٽن تائين رکو. 6. ليمن، ماکي يا کير سان پيش ڪريو."
+                  },
+                  {
+                    "q": "5. مسئلي جي حل جو قدم به قدم منصوبو، ناکامي جو خطرو گهٽائڻ ۾ ڪيترو مددگار ثابت ٿيندو؟",
+                    "a": "قدم به قدم منصوبو ناکامي جو خطرو گهٽائي ٿو ڇو ته هر قدم واضح ۽ ترتيب سان هوندو آهي؛ توهان هر قدم کي جانچي سگهو ٿا، غلطي کي جلدي ڳولي سگهو ٿا ۽ ان کي درست ڪري سگهو ٿا، ان ڪري سڄو ڪم صحيح طريقي سان پورو ٿئي ٿو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.4",
+            "name": "درسي سرگرميون",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. مسئلو حل ڪرڻ جي جنهن هدايتن جي پيروي ڪندي هيٺ ڏنل صورتحال حل ڪريو.\n\"علي کي مٿي ۾ سخت سور آهي. هن کي علاج لاءِ ڊاڪٽر سان صلاح ڪرڻ گهرجي.\"",
+                    "a": "1. مسئلي جي سڃاڻپ ڪريو — علي کي مٿي ۾ سخت سور آهي.\n2. معلومات گڏ ڪريو — سور ڪڏهن کان آهي ۽ ڪيترو سخت آهي.\n3. مسئلي جو تجزيو ڪريو — سور جو سبب ڇا ٿي سگهي ٿو.\n4. بهترين خيال چونڊيو — ڊاڪٽر سان صلاح ڪرڻ.\n5. عمل ڪريو ۽ جانچيو — ڊاڪٽر وٽ وڃو ۽ علاج ڪرايو.\n6. نتيجن جو جائزو وٺو — جيڪڏهن سور ختم نه ٿيو ته ٻيهر ڊاڪٽر سان رابطو ڪريو."
+                  },
+                  {
+                    "q": "2. مسئلو تقسيم ڪرڻ جي اصول کي لاڳو ڪندي هيٺين صورتحال لاءِ ذيلي مسئلا لکو.\n\"توهان جي ماءُ توهان کي گهر جو سيٽو سامان وٺڻ لاءِ چوي ٿي ۽ توهان کي دڪان تي وڃڻ جي ضرورت آهي.\"\nهن صورتحال ۾ مسئلو آهي ته \"سيٽي سامان جي خريداري ڪيئن ڪجي.\"",
+                    "a": "ذيل مسئلا:\n1. خريداري جي فهرست ٺاهيو.\n2. پئسا تيار ڪريو.\n3. دڪان تي وڃو.\n4. فهرست مطابق سامان چونڊيو.\n5. پئسا ادا ڪريو.\n6. سامان گهر وٺي اچو."
+                  },
+                  {
+                    "q": "3. هڪ الگورتم لکو جيڪو ڪنهن شخص کي هڪ نمبر داخل ڪرڻ جي اجازت ڏئي، ۽ الگورتم ان نمبر جو ڪوڙو 10 تائين پرنٽ ڪندو.",
+                    "a": "شروع ڪريو\nان پٽ نمبر\nڪائونٽ = 1\nجڏهن ڪائونٽ <= 10:\nپرنٽ نمبر × ڪائونٽ\nڪائونٽ = ڪائونٽ + 1\nبند ڪريو"
+                  },
+                  {
+                    "q": "4. هڪ الگورتم لکو جيڪو طئي ڪري ته شاگرد پاس ٿيو آهي يا نه. الگورتم، چار مضمونن جون مارڪون ان پٽ طور وٺي ۽ پوءِ شاگرد پاران حاصل ڪيل نمبرن جو سيڪڙو معلوم ڪري. جيڪڏهن شاگردن حاصل ڪيل نمبر 60 سيڪڙو کان وڌيڪ آهن ته شاگرد کي امتحان ۾ پاس ظاهر ڪري، ٻي صورت ۾ فيل.\nاشارو: هن مسئلي کي حل ڪرڻ لاءِ سادي فيصلي جي ضرورت آهي.",
+                    "a": "شروع ڪريو\nچار مضمونن جون مارڪون ان پٽ ڪريو\nحاصل ڪيل مارڪون = چار مضمونن جون مارڪون جو مجموعو\nسيڪڙو = (حاصل ڪيل مارڪون ÷ ڪل مارڪون) × 100\nجيڪڏهن سيڪڙو > 60 ته پرنٽ ڪريو \"پاس\"\nٻي صورت ۾ پرنٽ ڪريو \"فيل\"\nبند ڪريو"
+                  },
+                  {
+                    "q": "5. هڪ الگورتم لکو جيڪو شروعاتي 5 نمبرن کي جمع ڪري يعني 1،2،3،4 ۽ 5 جو مجموعو.\nاشارو: هن مسئلي کي حل ڪرڻ لاءِ ورجندڙ/اِٽريٽو فلو اسٽيٽمينٽ جي ضرورت آهي.",
+                    "a": "شروع ڪريو\nمجموعو = 0\nڪائونٽ = 1\nجڏهن ڪائونٽ <= 5:\nمجموعو = مجموعو + ڪائونٽ\nڪائونٽ = ڪائونٽ + 1\nپرنٽ مجموعو\nبند ڪريو\n(مجموعو = 15)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "3.5",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "مسئلو ۽ ان جا قسم",
+                "items": [
+                  {
+                    "q": "مسئلو ڇا آهي؟",
+                    "a": "مسئلو هڪ اهڙي صورتحال، سوال يا گهجهارت آهي جنهن جو حل ڳولڻو پوي ٿو."
+                  },
+                  {
+                    "q": "سادا مسئلا ڇا آهن؟",
+                    "a": "سادا مسئلا اهي آهن جيڪي آساني سان حل ٿي وڃن ٿا ۽ جن کي حل ڪرڻ لاءِ صرف قدمن جي ترتيب جي ضرورت هوندي آهي، جهڙوڪ نوڊلز ٺاهڻ."
+                  },
+                  {
+                    "q": "پيچيده مسئلا ڇا آهن؟",
+                    "a": "پيچيده مسئلا اهي آهن جن کي حل ڪرڻ لاءِ وڌيڪ سوچ ۽ گهڻا قدم گهرجن، جهڙوڪ روبوٽ ٺاهڻ."
+                  },
+                  {
+                    "q": "10، 18 ۽ 20 جو ايل سي ايم ڪيترو آهي؟",
+                    "a": "180."
+                  },
+                  {
+                    "q": "مسئلن جا مثال ڏيو.",
+                    "a": "پارڪ ۾ گم ٿيڻ، ريڊيو خراب ٿيڻ، ڪيڪ ٺاهڻ."
+                  }
+                ]
+              },
+              {
+                "label": "مسئلو حل ڪرڻ جا مرحلا",
+                "items": [
+                  {
+                    "q": "مسئلو حل ڪرڻ جا ڪيترا مرحلا آهن؟",
+                    "a": "ڇهه مرحلا آهن."
+                  },
+                  {
+                    "q": "مسئلو حل ڪرڻ جو پهريون مرحلو ڪهڙو آهي؟",
+                    "a": "مسئلي جي سڃاڻپ ڪرڻ."
+                  },
+                  {
+                    "q": "مسئلو حل ڪرڻ جو ٻيو مرحلو ڪهڙو آهي؟",
+                    "a": "معلومات ۽ خيالن جي ڳولا ڪرڻ."
+                  },
+                  {
+                    "q": "مسئلو حل ڪرڻ جا ڇهه مرحلا لکو.",
+                    "a": "1. مسئلي جي سڃاڻپ ڪريو. 2. معلومات ۽ خيالن جي ڳولا ڪريو. 3. مسئلي جو تجزيو ڪريو. 4. بهترين خيال چونڊيو. 5. خيالن کي ٺاهيو ۽ جانچيو. 6. نتيجن جو جائزو وٺو."
+                  },
+                  {
+                    "q": "جيڪڏهن نتيجو خوش ڪندڙ نه هجي ته ڇا ڪرڻ گهرجي؟",
+                    "a": "ٻئي مرحلي ڏانهن واپس وڃو ۽ منصوبو تبديل ڪريو."
+                  }
+                ]
+              },
+              {
+                "label": "الگورتم",
+                "items": [
+                  {
+                    "q": "الگورتم ڇا آهي؟",
+                    "a": "الگورتم مسئلو حل ڪرڻ لاءِ واضح ۽ ترتيب وار هدايتن جو هڪ سلسلو آهي."
+                  },
+                  {
+                    "q": "الگورتم کي ڏيکارڻ جا ڪيترا طريقا آهن؟",
+                    "a": "ٻه طريقا آهن: سوڊو ڪوڊ ۽ فلو چارٽ."
+                  },
+                  {
+                    "q": "چانهه ٺاهڻ جو الگورتم لکو.",
+                    "a": "1. پاڻي اٻاريو. 2. اٻريل پاڻي پيالي ۾ وجهي پيالي کي گرم ڪريو، پوءِ خالي ڪريو. 3. چانهه جو ٿيلهو پيالي ۾ وجهو. 4. اٻريل پاڻي وجهو. 5. 3 کان 5 منٽن تائين رکو. 6. ليمن، ماکي يا کير سان پيش ڪريو."
+                  },
+                  {
+                    "q": "ڏنل نمبر جو ڪيوب معلوم ڪرڻ جو الگورتم لکو.",
+                    "a": "شروع ڪريو؛ ان پٽ نمبر؛ ڪيوب = نمبر × نمبر × نمبر؛ پرنٽ ڪيوب؛ بند ڪريو."
+                  },
+                  {
+                    "q": "ٻن نمبرن جو مجموعو معلوم ڪرڻ جو سوڊو ڪوڊ لکو.",
+                    "a": "شروع ڪريو؛ ان پٽ A, B؛ مجموعو = A + B؛ پرنٽ مجموعو؛ بند ڪريو."
+                  }
+                ]
+              },
+              {
+                "label": "سوڊو ڪوڊ ۽ فلو چارٽ",
+                "items": [
+                  {
+                    "q": "سوڊو ڪوڊ ڇا آهي؟",
+                    "a": "سوڊو ڪوڊ روزمره جي ٻولي ۾ الگورتم لکڻ جو هڪ آسان طريقو آهي؛ اهو ڪا پروگرامنگ ٻولي ناهي."
+                  },
+                  {
+                    "q": "فلو چارٽ ڇا آهي؟",
+                    "a": "فلو چارٽ الگورتم جي تصويري نمائندگي آهي جيڪا علامتن ۽ تيرن جي نشانن کي استعمال ڪري ٿي."
+                  },
+                  {
+                    "q": "فلو چارٽ ۾ اوول/بيضوي علامت جو ڪم ڇا آهي؟",
+                    "a": "اوول/بيضوي علامت شروعات ۽ خاتمي کي ڏيکاري ٿي."
+                  },
+                  {
+                    "q": "فلو چارٽ ۾ مستطيل علامت جو ڪم ڇا آهي؟",
+                    "a": "مستطيل علامت پروسيس يا هدايت کي ڏيکاري ٿي، جهڙوڪ دروازو کوليو يا 3 جمع ڪريو."
+                  },
+                  {
+                    "q": "فلو چارٽ ۾ ڊائمنڊ علامت جو ڪم ڇا آهي؟",
+                    "a": "ڊائمنڊ علامت فيصلي کي ڏيکاري ٿي، جهڙوڪ ڇا فون جي گھنٽي وڄي پئي؟"
+                  }
+                ]
+              },
+              {
+                "label": "ترتيب، چونڊ ۽ ورجاءُ",
+                "items": [
+                  {
+                    "q": "الگورتم ناهڻ جا بنيادي حصا ڪهڙا آهن؟",
+                    "a": "ترتيب، سليڪشن/ڪنڊيشنل ۽ ورجاءُ/اِٽريٽو."
+                  },
+                  {
+                    "q": "ترتيب ڇا آهي؟",
+                    "a": "ترتيب جو مطلب آهي هدايتون ترتيب سان هڪٻئي پٺيان هلائڻ، جهڙوڪ چانهه ٺاهڻ جا قدم."
+                  },
+                  {
+                    "q": "سليڪشن ڇا آهي؟",
+                    "a": "سليڪشن جو مطلب آهي شرط جي بنياد تي فيصلو ڪرڻ: جيڪڏهن شرط صحيح آهي ته هڪ ڪم ڪريو، ٻي صورت ۾ ٻيو ڪم ڪريو."
+                  },
+                  {
+                    "q": "ورجاءُ/اِٽريٽو فلو ڇا آهي؟",
+                    "a": "ورجاءُ/اِٽريٽو فلو هڪ عمل آهي جنهن ۾ هڪ اسٽيٽمينٽ يا اسٽيٽمينٽس جو هڪ سيٽ ڪنهن خاص شرط جي صحيح رهڻ تائين بار بار هلندو رهندو آهي."
+                  },
+                  {
+                    "q": "\"هيلو ورلڊ\" پنج دفعا پرنٽ ڪرڻ لاءِ ڪائونٽر ڪيئن استعمال ٿئي ٿو؟",
+                    "a": "ڪائونٽ = 1 کان شروع ڪريو؛ پرنٽ \"هيلو ورلڊ\"؛ ڪائونٽ ۾ 1 شامل ڪريو؛ جيڪڏهن ڪائونٽ <= 5 ته ٻيهر پرنٽ ڪريو، ٻي صورت ۾ بند ڪريو."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Problem",
+            "sd": "مسئلو",
+            "syn": "a situation or question that needs a solution"
+          },
+          {
+            "w": "Problem Solving",
+            "sd": "مسئلو حل ڪرڻ",
+            "syn": "finding a solution to a problem"
+          },
+          {
+            "w": "Decomposition",
+            "sd": "مسئلو تقسيم ڪرڻ",
+            "syn": "breaking a big problem into small parts"
+          },
+          {
+            "w": "Algorithm",
+            "sd": "الگورتم",
+            "syn": "a step-by-step plan to solve a problem"
+          },
+          {
+            "w": "Pseudocode",
+            "sd": "سوڊو ڪوڊ",
+            "syn": "writing an algorithm in everyday language"
+          },
+          {
+            "w": "Flowchart",
+            "sd": "فلو چارٽ",
+            "syn": "a diagram of an algorithm using symbols and arrows"
+          },
+          {
+            "w": "Iteration",
+            "sd": "اِٽريشن",
+            "syn": "repeating a process again and again"
+          },
+          {
+            "w": "Condition",
+            "sd": "ڪنڊيشن",
+            "syn": "a statement that is true or false"
+          },
+          {
+            "w": "Sequence",
+            "sd": "ترتيب",
+            "syn": "instructions in order"
+          },
+          {
+            "w": "Selection",
+            "sd": "سليڪشن",
+            "syn": "choosing what to do based on a condition"
+          },
+          {
+            "w": "Repetition",
+            "sd": "ورجاءُ",
+            "syn": "doing the same thing many times"
+          }
+        ]
+      },
+      {
+        "unit": 4,
+        "title": "پروگرامنگ اسڪريچ",
+        "reading": "پروگرامنگ اسڪريچ",
+        "display": "پروگرامنگ اسڪريچ",
+        "sections": [
+          {
+            "num": "4.1",
+            "name": "صحيح جواب تي دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. VPL جو مطلب آهي:\na. گرافڪل پروگرامنگ لينگئيج\nb. هدايتن جو سيٽ\nc. ويزوئل پروگرامنگ لينگئيج ✓\nd. هڪ پس منظر يا بيڪگرائونڊ",
+                    "a": "ويزوئل پروگرامنگ لينگئيج"
+                  },
+                  {
+                    "q": "2. پروگرامنگ ۾ اسڪرپٽ مان مراد آهي:\na. اسپرائٽس جي فهرست\nb. پس منظر جي فهرست\nc. هڪٻئي سان گڏيل هدايتن جي بلاڪس جو سيٽ جيڪو پروگرامنگ ۾ استعمال ٿئي ✓\nd. انهن مان ڪو به نه",
+                    "a": "هڪٻئي سان گڏيل هدايتن جي بلاڪس جو سيٽ جيڪو پروگرامنگ ۾ استعمال ٿئي"
+                  },
+                  {
+                    "q": "3. اسڪريچ ۾ ڪوڊ بلاڪس جا قسم آهن:\na. 3\nb. 5\nc. 7\nd. 9 ✓",
+                    "a": "9"
+                  },
+                  {
+                    "q": "4. اهي بلاڪ جيڪي اسان پروگرام شروع ڪرڻ لاءِ استعمال ڪندا آهيون:\na. ڪنٽرول بلاڪ\nb. ايونٽ بلاڪ ✓\nc. موشن بلاڪ\nd. لڪس بلاڪ",
+                    "a": "ايونٽ بلاڪ"
+                  },
+                  {
+                    "q": "5. ڪم ڪرڻ جي جاءِ جتي توهان ڪوڊ بلاڪس کي هلائڻ لاءِ چپڪي ۽ ڇڏي سگهو ٿا:\na. بلاڪ پيليٽ\nb. بيڪ ڊراپ\nc. اسڪرپٽ ايريا ✓\nd. اسٽيج",
+                    "a": "اسڪرپٽ ايريا"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.2",
+            "name": "هيٺ ڏنل لفظن سان خالي جايون پريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "لفظ: Wait, If-else, Move block, If block, Repeat\n\n1. اسڪريچ ۾ لوپ ٺاهڻ لاءِ استعمال ٿيل بلاڪ ______ آهي.",
+                    "a": "Repeat"
+                  },
+                  {
+                    "q": "2. ______ اسڪريچ ۾ انتظار جو وقت ٺاهڻ لاءِ استعمال ٿيل ڪنسٽرڪٽ آهي.",
+                    "a": "Wait"
+                  },
+                  {
+                    "q": "3. اسڪريچ ۾ اسان ڪنهن خاص شرط جو صحيح هجڻ ______ سان چيڪ ڪندا آهيون.",
+                    "a": "If block"
+                  },
+                  {
+                    "q": "4. ______ اسڪريچ ۾ فيصلا ڪرڻ لاءِ استعمال ٿيل ڪنسٽرڪٽ آهي.",
+                    "a": "If-else"
+                  },
+                  {
+                    "q": "5. اسڪريچ ۾ اسپرائٽ کي هلائڻ لاءِ اسان ______ استعمال ڪندا آهيون.",
+                    "a": "Move block"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.3",
+            "name": "هيٺين سوالن جا تفصيلي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. VPL جو مطلب آهي؟ مثال ڏيو.",
+                    "a": "VPL يعني ويزوئل پروگرامنگ لينگئيج — پروگرامنگ جو هڪ طريقو جيڪو ٽيڪسٽ ڪوڊ جي بدران گرافڪس ۽ تصويرن کي استعمال ڪري ٿو. مثال: اسڪريچ."
+                  },
+                  {
+                    "q": "2. اسڪريچ ڇا آهي؟ ان جا ڪهڙا حصا آهن؟",
+                    "a": "اسڪريچ هڪ ويزوئل پروگرامنگ لينگئيج آهي جيڪا ٻارن لاءِ ٺاهي وئي آهي ۽ جنهن سان ڪهاڻيون، رانديون ۽ اينيميشن ٺاهي سگهجن ٿيون. اسڪريچ جا حصا آهن: اسٽيج، اسپرائٽ، بلاڪ پيليٽ ۽ اسڪرپٽ ايريا."
+                  },
+                  {
+                    "q": "3. اسڪريچ ۾ ڪوڊ بلاڪس جا ڪهڙا قسم آهن؟",
+                    "a": "اسڪريچ ۾ نو قسمن جا ڪوڊ بلاڪ آهن: موشن، لڪس، سائونڊ، ايونٽس، ڪنٽرول، سينسنگ، آپريٽرز، متغير ۽ ماءِ بلڪس."
+                  },
+                  {
+                    "q": "4. اسڪريچ ۾ اسپرائٽ ڇا آهي؟ ان جو ڪم بيان ڪريو.",
+                    "a": "اسپرائٽ اسٽيج تي موجود ڪردار يا شئي آهي، جهڙوڪ ٻلي. اسپرائٽ کي پروگرام ڪري ان کي هلائي، ڳالهائي ۽ رنگ بدلائي سگهجي ٿو."
+                  },
+                  {
+                    "q": "5. اسڪريچ ۾ اسڪرپٽ ڇا آهي؟",
+                    "a": "اسڪرپٽ هڪٻئي سان گڏيل هدايتن جي بلاڪس جو هڪ سيٽ آهي جيڪو پروگرامنگ ۾ استعمال ٿئي ٿو."
+                  },
+                  {
+                    "q": "6. اسڪريچ ۾ اسٽيج ۽ بيڪ ڊراپ جي وچ ۾ ڇا فرق آهي؟",
+                    "a": "اسٽيج اهو هنڌ آهي جتي اسپرائٽ ڪم ڪري ٿو ۽ پروگرام هلي ٿو؛ بيڪ ڊراپ اسٽيج جو پس منظر آهي."
+                  },
+                  {
+                    "q": "7. اسڪريچ ۾ ڪنٽرول بلاڪس جا ڪهڙا قسم آهن؟",
+                    "a": "ڪنٽرول بلاڪس ۾ Wait، Repeat، Repeat until، Forever، If ۽ If-else شامل آهن."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.4",
+            "name": "درسي سرگرميون",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. اسڪريچ ۾ هڪ پروگرام ٺاهيو جيڪو اسپرائٽ کي اسٽيج تي هلائي.",
+                    "a": "1. اسڪريچ ايڊيٽر کوليو ۽ اسپرائٽ چونڊيو.\n2. ايونٽس پيليٽ مان \"when green flag clicked\" بلاڪ وٺو.\n3. موشن پيليٽ مان \"move 10 steps\" بلاڪ وٺو ۽ ان کي ايونٽ بلاڪ سان ڳنڍيو.\n4. سائو جهنڊو دٻايو — اسپرائٽ اسٽيج تي هلندو."
+                  },
+                  {
+                    "q": "2. اسڪريچ ۾ هڪ پروگرام ٺاهيو جيڪو اسپرائٽ کي ڳالهائيندو ڏيکاري.",
+                    "a": "1. اسڪريچ ايڊيٽر کوليو ۽ اسپرائٽ چونڊيو.\n2. ايونٽس پيليٽ مان \"when green flag clicked\" بلاڪ وٺو.\n3. لڪس پيليٽ مان \"say Hello! for 2 seconds\" بلاڪ وٺو ۽ ان کي ايونٽ بلاڪ سان ڳنڍيو.\n4. سائو جهنڊو دٻايو — اسپرائٽ \"Hello!\" چوندو."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "4.5",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "پروگرام ۽ پروگرامنگ",
+                "items": [
+                  {
+                    "q": "پروگرام ڇا آهي؟",
+                    "a": "پروگرام هدايتن جو هڪ سيٽ آهي جيڪو ڪمپيوٽر کي ٻڌائي ٿو ته ڇا ڪرڻو آهي."
+                  },
+                  {
+                    "q": "پروگرامنگ ڇا آهي؟",
+                    "a": "پروگرامنگ ڪمپيوٽر لاءِ هدايتون لکڻ جو عمل آهي."
+                  },
+                  {
+                    "q": "پروگرامنگ ٻولين جا ڪيترا سطح آهن؟",
+                    "a": "ٽي سطح آهن: هاءِ-ليول، مڊ-ليول ۽ لو-ليول."
+                  },
+                  {
+                    "q": "هاءِ-ليول پروگرامنگ ٻولين جا مثال ڏيو.",
+                    "a": "فورٽران، پاسڪل، سي ۽ جاوا."
+                  },
+                  {
+                    "q": "لو-ليول پروگرامنگ ٻولي ڪهڙي آهي؟",
+                    "a": "مشين لينگئيج، جيڪا 0 ۽ 1 استعمال ڪري ٿي."
+                  }
+                ]
+              },
+              {
+                "label": "اسڪريچ جو تعارف",
+                "items": [
+                  {
+                    "q": "اسڪريچ ڇا آهي؟",
+                    "a": "اسڪريچ هڪ بلاڪ تي ٻڌل ويزوئل پروگرامنگ لينگئيج آهي جيڪا ڪهاڻيون، رانديون ۽ اينيميشن ٺاهڻ لاءِ استعمال ٿئي ٿي."
+                  },
+                  {
+                    "q": "اسڪريچ ڪنهن ٺاهيو؟",
+                    "a": "اسڪريچ ايم آءِ ٽي (MIT) ٺاهيو."
+                  },
+                  {
+                    "q": "اسڪريچ جي ويب سائيٽ ڪهڙي آهي؟",
+                    "a": "scratch.mit.edu."
+                  },
+                  {
+                    "q": "الگورتم ۽ پروگرام ۾ ڇا فرق آهي؟",
+                    "a": "الگورتم مسئلو حل ڪرڻ جو خيال يا منصوبو آهي؛ پروگرام الگورتم جي عملي صورت آهي جيڪا ڪنهن خاص ٻولي ۾ لکي وڃي ٿي."
+                  },
+                  {
+                    "q": "هڪ نمبر جو چورس معلوم ڪرڻ جو اسڪريچ پروگرام بيان ڪريو.",
+                    "a": "سائو جهنڊو دٻائڻ تي، \"Enter an integer number\" پڇو ۽ انتظار ڪريو؛ A کي جواب تي سيٽ ڪريو؛ A کي A×A تي سيٽ ڪريو؛ A چئو."
+                  }
+                ]
+              },
+              {
+                "label": "اسڪريچ جا حصا ۽ بلاڪ",
+                "items": [
+                  {
+                    "q": "اسڪريچ ايڊيٽر جا ٽي ٽيب ڪهڙا آهن؟",
+                    "a": "ڪوڊ ٽيب، ڪاسٽيوم ٽيب ۽ سائونڊ ٽيب."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ ڊفالٽ اسپرائٽ ڪهڙو آهي؟",
+                    "a": "ٻلي (Sprite1)."
+                  },
+                  {
+                    "q": "اسٽيج جا ڪوآرڊينيٽ ڪهڙا آهن؟",
+                    "a": "اسٽيج جو مرڪز (0,0) آهي؛ X -240 کان 240 تائين ۽ Y -180 کان 180 تائين آهي."
+                  },
+                  {
+                    "q": "موشن بلاڪس جو رنگ ڪهڙو آهي؟",
+                    "a": "نيرو."
+                  },
+                  {
+                    "q": "ڪنٽرول بلاڪس جو رنگ ڪهڙو آهي؟",
+                    "a": "نارنگي."
+                  }
+                ]
+              },
+              {
+                "label": "ڪانسٽرڪٽس: ترتيب، ايونٽ، لوپ، شرط، متغير",
+                "items": [
+                  {
+                    "q": "پروگرامنگ ڪانسٽرڪٽس ڪيترا آهن؟",
+                    "a": "پنج آهن: ترتيب، ايونٽس، لوپس، سليڪشن/ڪنڊيشن ۽ متغير."
+                  },
+                  {
+                    "q": "ايونٽس جا مثال ڏيو.",
+                    "a": "when green flag clicked، when space key pressed، when this sprite clicked."
+                  },
+                  {
+                    "q": "لوپ جا ٽي قسم ڪهڙا آهن؟",
+                    "a": "Repeat، Repeat until ۽ Forever."
+                  },
+                  {
+                    "q": "متغير ڇا آهي؟",
+                    "a": "متغير هڪ نالو ڏنل ميموري جي جاءِ آهي جنهن ۾ هڪ قدر محفوظ ٿئي ٿي."
+                  },
+                  {
+                    "q": "If-then-else بلاڪ ڪيئن ڪم ڪري ٿو؟",
+                    "a": "جيڪڏهن شرط صحيح آهي ته هڪ ڪم ڪريو، ٻي صورت ۾ ٻيو ڪم ڪريو؛ مثال: جيڪڏهن \"a\" کي دٻايو وڃي ته مائوس پوائنٽر ڏانهن وڃو، ٻي صورت ۾ \"hello\" چئو."
+                  }
+                ]
+              },
+              {
+                "label": "پهريون پروگرام ۽ ڊي بگنگ",
+                "items": [
+                  {
+                    "q": "اسڪريچ ۾ پهريون پروگرام ڪيئن ٺاهجي؟",
+                    "a": "ايونٽس پيليٽ مان \"when green flag clicked\" بلاڪ وٺو؛ سينسنگ پيليٽ مان \"ask What's your name? and wait\" بلاڪ وٺو؛ لڪس پيليٽ مان \"say Hello! for 2 seconds\" بلاڪ وٺو."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ پروگرام کي ڪيئن محفوظ ڪجي؟",
+                    "a": "فائل مينيو ۾ Save to your computer چونڊيو."
+                  },
+                  {
+                    "q": "اسڪريچ ۾ پروگرام کي ڪيئن هلائجي؟",
+                    "a": "سائو جهنڊو دٻايو."
+                  },
+                  {
+                    "q": "بگ ڇا آهي؟",
+                    "a": "بگ پروگرام ۾ هڪ غلطي آهي."
+                  },
+                  {
+                    "q": "ڊي بگنگ جا ڇهه مرحلا لکو.",
+                    "a": "1. پروگرام جو منصوبو ٺاهيو. 2. ڪوڊ لکو. 3. ڪوڊ هلايو ۽ ڏسو. 4. غلطيون ڳولهو. 5. غلطين جا سبب ڳولهو. 6. غلطين کي درست ڪريو."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Online Community",
+            "sd": "آن-لائن ڪميونٽي",
+            "syn": "people who meet and talk on the internet"
+          },
+          {
+            "w": "MIDI",
+            "sd": "ايم آءِ ڊي آءِ",
+            "syn": "Musical Instrument Digital Interface - a standard for digital music"
+          },
+          {
+            "w": "URL",
+            "sd": "يو آر ايل",
+            "syn": "Uniform Resource Locator - the address of a web page"
+          },
+          {
+            "w": "Program",
+            "sd": "پروگرام",
+            "syn": "a set of instructions for the computer"
+          },
+          {
+            "w": "Repetition/Iteration",
+            "sd": "ورجندڙ",
+            "syn": "doing the same thing again and again"
+          },
+          {
+            "w": "Add-on",
+            "sd": "ايڊ-آن",
+            "syn": "extra software added to a program"
+          },
+          {
+            "w": "Dragging",
+            "sd": "ڊريگنگ",
+            "syn": "moving an item with the mouse while holding the button"
+          },
+          {
+            "w": "Constructs",
+            "sd": "ڪنسٽرڪٽس",
+            "syn": "the building blocks of a program"
+          },
+          {
+            "w": "Extension Library",
+            "sd": "ايڪسٽينشن لائبريري",
+            "syn": "a library of extra blocks in Scratch"
+          },
+          {
+            "w": "Sprite",
+            "sd": "اسپرائٽ",
+            "syn": "a character or object on the stage"
+          },
+          {
+            "w": "Stage",
+            "sd": "اسٽيج",
+            "syn": "the place where the sprite works"
+          },
+          {
+            "w": "Script",
+            "sd": "اسڪرپٽ",
+            "syn": "a set of connected blocks"
+          },
+          {
+            "w": "Backdrop",
+            "sd": "بيڪ ڊراپ",
+            "syn": "the background of the stage"
+          },
+          {
+            "w": "Block Palette",
+            "sd": "بلاڪ پيليٽ",
+            "syn": "the area where code blocks are kept"
+          },
+          {
+            "w": "Variable",
+            "sd": "متغير",
+            "syn": "a named memory location that holds a value"
+          },
+          {
+            "w": "Debugging",
+            "sd": "ڊي بگنگ",
+            "syn": "finding and fixing mistakes in a program"
+          },
+          {
+            "w": "Bug",
+            "sd": "بگ",
+            "syn": "a mistake in a program"
+          }
+        ]
+      },
+      {
+        "unit": 5,
+        "title": "ڊجيٽل شهريت",
+        "reading": "ڊجيٽل شهريت",
+        "display": "ڊجيٽل شهريت",
+        "sections": [
+          {
+            "num": "5.1",
+            "name": "صحيح جواب تي دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. ڪاپي رائيٽ، سافٽ ويئر جي غير مجاز نقل يا تقسيم ڪرڻ کي سڏيو ويندو آهي:\n(الف) پليجيئر-ازم\n(ب) ڪاپي رائيٽ\n(ج) پائيريسي ✓\n(د) اکين تي بار",
+                    "a": "پائيريسي"
+                  },
+                  {
+                    "q": "ii. ڊجيٽل خواندگي مان مراد، مواد جو جائزو وٺڻ، استعمال ڪرڻ ۽ ٺاهڻ لاءِ گهربل مهارتون ۽ علم حاصل ڪرڻ آهي:\n(الف) آن لائن ✓\n(ب) ڪاپي تي\n(ج) ڪاغذ تي\n(د) اسڪيچ بُڪ تي",
+                    "a": "آن لائن"
+                  },
+                  {
+                    "q": "iii. آئي سي ٽي ڊوائيسز ۾ انٽرنيٽ استعمال ڪندي ڪا به غير قانوني سرگرمي سرانجام ڏيڻ کي سڏيو ويندو آهي:\n(الف) انٽرنيٽ جرم\n(ب) سائبر جرم ✓\n(ج) انٽرنيٽ قانون\n(د) سائبر قانون",
+                    "a": "سائبر جرم"
+                  },
+                  {
+                    "q": "iv. ليبارٽري چڏڻ کان پهريان شاگردن کي گهرجي ته:\n(الف) پنهنجا اڪائونٽ بند ڪن\n(ب) فائلون محفوظ ڪن\n(ج) ڪمپيوٽرن کي صحيح نموني بند ڪن\n(د) مٿي ڏنل سڀ ✓",
+                    "a": "مٿي ڏنل سڀ"
+                  },
+                  {
+                    "q": "v. توهان جو ڪمپيوٽر مانيٽر جو مٿيون حصو رکيل هجڻ گهرجي:\n(الف) اکين جي سطح کان ٿورو هيٺ ✓\n(ب) اکين جي سطح کان ٿورو مٿي\n(ج) اکين جي سطح کان عمودي\n(د) مٿي ڏنل مان ڪو نه",
+                    "a": "اکين جي سطح کان ٿورو هيٺ"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.2",
+            "name": "هيٺ ڏنل لفظن سان خالي جايون پريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "لفظ: علم، شهري، تڪل، متوازي، ڪاپي رائيٽ\n\ni. هڪ سٺي ڊجيٽل شهري وٽ معلومات کي صحيح نموني استعمال ڪرڻ لاءِ ______ ۽ مهارت هوندي آهي.",
+                    "a": "علم"
+                  },
+                  {
+                    "q": "ii. ______ هڪ قانون آهي جيڪو توهان کي ٻين ماڻهن جي ڪم کي انهن جي اجازت کان سواءِ استعمال ڪرڻ کان روڪي ٿو.",
+                    "a": "ڪاپي رائيٽ"
+                  },
+                  {
+                    "q": "iii. توهان جا هٿ فرش جي ______ هجڻ گهرجن.",
+                    "a": "متوازي"
+                  },
+                  {
+                    "q": "iv. هڪ ______ هڪ اهڙو شخص آهي جيڪو ڪنهن ملڪ يا قوم سان تعلق رکي ٿو.",
+                    "a": "شهري"
+                  },
+                  {
+                    "q": "v. اسڪرين تي تمام گهڻو وقت گذارڻ اسان جي صحت لاءِ نقصانڪار ٿي سگهي ٿو ۽ اسان ______ ۽ مايوس محسوس ڪري سگهون ٿا.",
+                    "a": "تڪل"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.3",
+            "name": "هيٺين سوالن جا تفصيلي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "i. ڊجيٽل شهريت جي تعريف ڪريو.",
+                    "a": "ڊجيٽل شهريت جو مطلب آهي آئي سي ٽي کي ذميواري، محفوظ ۽ اخلاق سان استعمال ڪرڻ جي صلاحيت. هڪ سٺو ڊجيٽل شهري پنهنجي ذاتي معلومات کي محفوظ رکي ٿو ۽ ٻين جي عزت ۽ احترام سان پيش اچي ٿو."
+                  },
+                  {
+                    "q": "ii. سائبر جرم ڇا آهي؟ مثال ڏيو.",
+                    "a": "سائبر جرم انٽرنيٽ يا آئي سي ٽي ڊوائيسز استعمال ڪندي ڪا به غير قانوني سرگرمي ڪرڻ آهي، جهڙوڪ سائبر بدتميزي ۽ سافٽ ويئر پائيريسي."
+                  },
+                  {
+                    "q": "iii. پائيريسي ڇا آهي؟ مثال ڏيو.",
+                    "a": "پائيريسي ڪاپي رائيٽ ٿيل سافٽ ويئر جي غير مجاز استعمال، نقل يا تقسيم ڪرڻ جو عمل آهي، جهڙوڪ ڪنهن ادا ڪيل راند کي ويب سائيٽ تان مفت ڊائون لوڊ ڪرڻ."
+                  },
+                  {
+                    "q": "iv. ڊجيٽل شهريت جا ڪهڙا فائدا آهن؟",
+                    "a": "ڊجيٽل شهريت جا فائدا آهن: ذاتي معلومات محفوظ رهي ٿي؛ آن لائن محفوظ رهجي ٿو؛ ٻين سان عزت ۽ احترام سان پيش اچجي ٿو؛ ۽ انٽرنيٽ کي صحيح ۽ اخلاقي طريقي سان استعمال ڪري سگهجي ٿو."
+                  },
+                  {
+                    "q": "v. هيٺين اصطلاحن جي تعريف ڪريو: ڊجيٽل فوٽ پرنٽ، سائبر جرم، ڪاپي رائيٽ قانون، شهريت، سائبر بدتميزي يا بدمعاشي.",
+                    "a": "ڊجيٽل فوٽ پرنٽ: انٽرنيٽ ۽ سوشل ميڊيا تي توهان جي سرگرمين جو رڪارڊ. سائبر جرم: انٽرنيٽ يا آئي سي ٽي ڊوائيسز استعمال ڪندي غير قانوني سرگرمي. ڪاپي رائيٽ قانون: هڪ قانون جيڪو تخليقڪارن جي ڪم کي تحفظ ڏئي ٿو ۽ انهن جي اجازت کان سواءِ ان کي استعمال ڪرڻ کان روڪي ٿو. شهريت: ڪنهن ملڪ سان قانوني تعلق ۽ ان ملڪ طرفان مليل حق ۽ تحفظ. سائبر بدتميزي يا بدمعاشي: انٽرنيٽ تي ڪنهن کي بار بار تنگ ڪرڻ، ڌمڪيون ڏيڻ يا شرمناڪ تصويرون ۽ وڊيو شيئر ڪرڻ."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.4",
+            "name": "درسي سرگرميون",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. پنهنجي اسڪول ۾ ڊجيٽل شهريت جي حوالي سان هڪ پوسٽر ٺاهيو.",
+                    "a": "شاگرد ڊجيٽل شهريت تي هڪ پوسٽر ٺاهيندا جنهن ۾ سٺي ڊجيٽل شهري جون خوبيون، جهڙوڪ ذاتي معلومات جي حفاظت، مضبوط پاسورڊ، بااخلاق رهڻ ۽ وڏن کي ٻڌائڻ، ڏيکاريل هونديون."
+                  },
+                  {
+                    "q": "2. انٽرنيٽ استعمال ڪرڻ وقت حفاظتي تدبيرن بابت پنهنجي ساٿين کي آگاهه ڪريو.",
+                    "a": "شاگرد پنهنجي ساٿين کي ٻڌائيندا ته انٽرنيٽ تي ذاتي معلومات نه شيئر ڪن، اڻڄاتل لنڪس تي ڪلڪ نه ڪن، اجنبي ماڻهن سان نه ڳالهائين ۽ ڪا غلط ڳالهه محسوس ٿئي ته والدين يا استاد کي ٻڌائين."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "5.5",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "شهريت ۽ ڊجيٽل شهريت",
+                "items": [
+                  {
+                    "q": "شهري ڇا آهي؟",
+                    "a": "شهري هڪ اهڙو شخص آهي جيڪو ڪنهن ملڪ يا قوم سان تعلق رکي ٿو."
+                  },
+                  {
+                    "q": "شهريت ڇا آهي؟",
+                    "a": "شهريت جو مطلب آهي ڪنهن ملڪ سان قانوني تعلق ۽ ان ملڪ طرفان مليل حق ۽ تحفظ."
+                  },
+                  {
+                    "q": "ڊجيٽل شهري ڇا آهي؟",
+                    "a": "ڊجيٽل شهري هڪ اهڙو شخص آهي جيڪو انٽرنيٽ ۽ آئي-سي-ٽي کي موثر طريقي سان استعمال ڪرڻ لاءِ مهارت ۽ علم رکي ٿو."
+                  },
+                  {
+                    "q": "ڊجيٽل شهريت ڇا آهي؟",
+                    "a": "ڊجيٽل شهريت جو مطلب آهي آئي سي ٽي کي ذميواري، محفوظ ۽ اخلاق سان استعمال ڪرڻ جي صلاحيت."
+                  },
+                  {
+                    "q": "ڊجيٽل فوٽ پرنٽ ڇا آهي؟",
+                    "a": "ڊجيٽل فوٽ پرنٽ انٽرنيٽ ۽ سوشل ميڊيا تي توهان جي سرگرمين جو رڪارڊ آهي."
+                  }
+                ]
+              },
+              {
+                "label": "سٺو ڊجيٽل شهري",
+                "items": [
+                  {
+                    "q": "سٺي ڊجيٽل شهري جون خوبيون لکو.",
+                    "a": "ذاتي معلومات نه شيئر ڪرڻ، اجنبي ماڻهن سان نه ڳالهائڻ، مضبوط پاسورڊ استعمال ڪرڻ، اجازت وٺڻ، بااخلاق رهڻ ۽ وڏن کي ٻڌائڻ."
+                  },
+                  {
+                    "q": "مضبوط پاسورڊ ڪيئن هجڻ گهرجي؟",
+                    "a": "مضبوط پاسورڊ ۾ اکر، انگ ۽ خاص علامتون (*, #, @, $) شامل هجن؛ اهو گهٽ ۾ گهٽ 8 اکرن جو هجي؛ ۽ اهو توهان جو نالو يا ڄم جي تاريخ نه هجي."
+                  },
+                  {
+                    "q": "آن لائن ذاتي معلومات ۾ ڇا شامل آهي؟",
+                    "a": "نالو، فون نمبر، والدين جا نالا، ڄم جي تاريخ، پاسورڊ، گهر جو پتو ۽ اي ميل."
+                  },
+                  {
+                    "q": "آن لائن ڪنهن سان ڳالهائڻ گهرجي؟",
+                    "a": "صرف انهن ماڻهن سان ڳالهائڻ گهرجي جن کي توهان ڄاڻو ٿا؛ اجنبي ماڻهو توهان جا دوست ناهن."
+                  },
+                  {
+                    "q": "جيڪڏهن آن لائن ڪا غلط ڳالهه محسوس ٿئي ته ڇا ڪرڻ گهرجي؟",
+                    "a": "والدين يا استاد کي ٻڌائڻ گهرجي."
+                  }
+                ]
+              },
+              {
+                "label": "ڪاپي رائيٽ، پليجيئرازم ۽ پائيريسي",
+                "items": [
+                  {
+                    "q": "ڪاپي رائيٽ قانون ڇا آهي؟",
+                    "a": "ڪاپي رائيٽ هڪ قانون آهي جيڪو تخليقڪارن جي ڪم، جهڙوڪ ڪتاب، موسيقي، وڊيو، تصوير ۽ دستاويز، کي تحفظ ڏئي ٿو؛ مالڪ جي اجازت کان سواءِ ان کي استعمال ڪرڻ غير قانوني آهي."
+                  },
+                  {
+                    "q": "ڪاپي رائيٽ جي خلاف ورزي تي ڇا ٿي سگهي ٿو؟",
+                    "a": "جرمانو يا جيل ٿي سگهي ٿو."
+                  },
+                  {
+                    "q": "پليجيئرازم ڇا آهي؟",
+                    "a": "پليجيئرازم ڪنهن ٻئي جي خيالن، لفظن، تصويرن، فن يا موسيقي کي پنهنجو ڪم ڪري ظاهر ڪرڻ جو عمل آهي."
+                  },
+                  {
+                    "q": "پائيريسي ڇا آهي؟",
+                    "a": "پائيريسي ڪاپي رائيٽ ٿيل مواد، جهڙوڪ رانديون، فلمون، موسيقي ۽ سافٽ ويئر، کي ادا ڪرڻ کان سواءِ استعمال ڪرڻ يا ڊائون لوڊ ڪرڻ آهي."
+                  },
+                  {
+                    "q": "پائيريسي جو مثال ڏيو.",
+                    "a": "ڪنهن ادا ڪيل راند کي ويب سائيٽ تان مفت ڊائون لوڊ ڪرڻ."
+                  }
+                ]
+              },
+              {
+                "label": "اخلاقي مسئلا ۽ سائبر جرم",
+                "items": [
+                  {
+                    "q": "انٽرنيٽ استعمال ڪرڻ وقت اخلاقي مسئلا ڪهڙا آهن؟",
+                    "a": "ذاتي معلومات جو غلط استعمال، غلط معلومات ڦهلائڻ، سائبر ٽرولنگ، سوشل ميڊيا ۽ گيمز جي عادت، ۽ نفرت انگيز مواد."
+                  },
+                  {
+                    "q": "غلط معلومات ڦهلائڻ جو مطلب ڇا آهي؟",
+                    "a": "غلط معلومات ڦهلائڻ جو مطلب آهي جعلي خبرون شيئر ڪرڻ؛ شيئر ڪرڻ کان پهريان خبر جي جانچ ڪرڻ گهرجي."
+                  },
+                  {
+                    "q": "سائبر بدتميزي ڇا آهي؟",
+                    "a": "سائبر بدتميزي انٽرنيٽ تي ڪنهن کي بار بار تنگ ڪرڻ، ڌمڪيون ڏيڻ يا شرمناڪ تصويرون ۽ وڊيو شيئر ڪرڻ آهي."
+                  },
+                  {
+                    "q": "آن لائن ٽرولنگ ڇا آهي؟",
+                    "a": "آن لائن ٽرولنگ سوشل ميڊيا تي ڪنهن کي چيڙائڻ يا تنگ ڪرڻ آهي جنهن سان ان کي ڏک پچي ٿو."
+                  },
+                  {
+                    "q": "سائبر جرم جا مثال ڏيو.",
+                    "a": "سائبر بدتميزي ۽ سافٽ ويئر پائيريسي."
+                  }
+                ]
+              },
+              {
+                "label": "صحت ۽ ليبارٽري جا قاعدا",
+                "items": [
+                  {
+                    "q": "اکين تي بار گهٽائڻ لاءِ 20-20-20 قاعدو ڇا آهي؟",
+                    "a": "هر 20 منٽن کان پوءِ 20 فوٽ پري ڪنهن شيءِ کي 20 سيڪنڊن تائين ڏسو."
+                  },
+                  {
+                    "q": "ڪمپيوٽر استعمال ڪندي صحيح پوزيشن ڪهڙي آهي؟",
+                    "a": "سڌا ويهو؛ پٺ کي ٽيڪ ڏيندڙ ڪرسي استعمال ڪريو؛ هٿ فرش سان متوازي رکو؛ مانيٽر اکين جي سطح تي رکو؛ اسڪرين 18 کان 25 انچ پري رکو."
+                  },
+                  {
+                    "q": "ڪمپيوٽر ليبارٽري ۾ داخل ٿيڻ کان پهريان ڇا ڪرڻ گهرجي؟",
+                    "a": "استاد جي اجازت وٺڻ گهرجي."
+                  },
+                  {
+                    "q": "ليبارٽري چڏڻ کان پهريان شاگردن کي ڇا ڪرڻ گهرجي؟",
+                    "a": "پنهنجون فائلون سيو ڪن، پنهنجو اڪائونٽ بند ڪن، ڪمپيوٽر کي مڪمل طور تي بند ڪن ۽ پنهنجي ڪرسي صحيح ڪري رکن."
+                  },
+                  {
+                    "q": "ڪمپيوٽر ليبارٽري جا ٻه قاعدا لکو.",
+                    "a": "1. استاد جي اجازت کان سواءِ ليبارٽري ۾ داخل نه ٿيو. 2. پرنٽ ڪرڻ يا فائلون ڊائون لوڊ ڪرڻ کان پهريان استاد کان اجازت وٺو."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "Cybercrime",
+            "sd": "سائبر جرم",
+            "syn": "illegal activity using the internet or ICT devices"
+          },
+          {
+            "w": "Cyber Law",
+            "sd": "سائبر قانون",
+            "syn": "laws about the use of the internet and ICT"
+          },
+          {
+            "w": "Social Media",
+            "sd": "سماجي ميڊيا",
+            "syn": "websites and apps for sharing and talking, e.g. Facebook"
+          },
+          {
+            "w": "Unauthorised",
+            "sd": "غير مجاز",
+            "syn": "without permission"
+          },
+          {
+            "w": "Internet Surfing",
+            "sd": "انٽرنيٽ سرفنگ",
+            "syn": "browsing websites on the internet"
+          },
+          {
+            "w": "Digital Citizenship",
+            "sd": "ڊجيٽل شهريت",
+            "syn": "using ICT responsibly, safely and ethically"
+          },
+          {
+            "w": "Digital Footprint",
+            "sd": "ڊجيٽل فوٽ پرنٽ",
+            "syn": "a record of what you do on the internet"
+          },
+          {
+            "w": "Copyright",
+            "sd": "ڪاپي رائيٽ",
+            "syn": "a law that protects creators' works"
+          },
+          {
+            "w": "Plagiarism",
+            "sd": "پليجيئرازم",
+            "syn": "using someone else's work as your own"
+          },
+          {
+            "w": "Piracy",
+            "sd": "پائيريسي",
+            "syn": "using copyrighted material without paying"
+          },
+          {
+            "w": "Cyberbullying",
+            "sd": "سائبر بدتميزي",
+            "syn": "harassing someone on the internet"
+          },
+          {
+            "w": "Online Trolling",
+            "sd": "آن لائن ٽرولنگ",
+            "syn": "teasing or harassing someone on social media"
+          }
+        ]
+      },
+      {
+        "unit": 6,
+        "title": "ڊجيٽل دور ۾ ڪاروبار",
+        "reading": "ڊجيٽل دور ۾ ڪاروبار",
+        "display": "ڊجيٽل دور ۾ ڪاروبار",
+        "sections": [
+          {
+            "num": "6.1",
+            "name": "صحيح جواب کي دائرو لڳايو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "I. هڪ ڪاروباري ماٿهو جو ڪم آهي:\n(الف) راندين ۾ حصو وٺڻ\n(ب) پنهنجو ڪاروبار شروع ڪرڻ ۽ هلائڻ ✓\n(ج) ٻين ماٿهن لاءِ ڪم ڪرڻ\n(د) ڪجهه نئون ڪرڻ جي ڪوشش ڪرڻ",
+                    "a": "پنهنجو ڪاروبار شروع ڪرڻ ۽ هلائڻ"
+                  },
+                  {
+                    "q": "II. هڪ ڪاروباري منصوبي جو مطلب آهي:\n(الف) ڪيڪ لاءِ ترڪيب\n(ب) ڪاروبار شروع ڪرڻ لاءِ هدايتون ✓\n(ج) پسنديده رانديڪن جي فهرست\n(د) گهجهارت جو هڪ قسم",
+                    "a": "ڪاروبار شروع ڪرڻ لاءِ هدايتون"
+                  },
+                  {
+                    "q": "III. هڪ نئين خيال (انوويشن) جو مطلب آهي:\n(الف) هر روز ساڳيو ڪم ڪرڻ\n(ب) نوان ۽ بهتر خيالن سوچڻ ✓\n(ج) سڄو ڏينهن تي وي دسڻ\n(د) مسئلن کي نظرانداز ڪرڻ",
+                    "a": "نوان ۽ بهتر خيالن سوچڻ"
+                  },
+                  {
+                    "q": "IV. هڪ ڪاروباري ماٿهو ناکاميءَ مان سکي ٿو:\n(الف) ڪم ڪرڻ ڇڏي ڏيڻ\n(ب) ٻيهر ڪوشش ڪرڻ ۽ غلطين مان سبق سکڻ ✓\n(ج) ٻين کي الزام ڏيڻ\n(د) ٻيهر ڪڏهن به نئين شي نه ڪرڻ جي ڪوشش ڪرڻ",
+                    "a": "ٻيهر ڪوشش ڪرڻ ۽ غلطين مان سبق سکڻ"
+                  },
+                  {
+                    "q": "V. جيڪي ماٿهو ڪاروبار شروع ڪرڻ چاهين ٿا انهن کي گهرجي ته:\n(الف) ڪنهن ٻئي جي ڪرڻ جو انتظار ڪن\n(ب) مختلف ۽ نون خيالن تي ڪم ڪن ✓\n(ج) سڄو ڏينهن تي وي دسن\n(د) ٻين کي پنهنجي لاءِ ڪم ڪرڻ جو چون",
+                    "a": "مختلف ۽ نون خيالن تي ڪم ڪن"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.2",
+            "name": "هيٺ ڏنل لفظن سان خالي جايون پريو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "لفظ: موقعو ڳولهڻ، منافعو، ٽيڪنالاجي، ڪاروباري ماٿهو، مسلسل\n\nI. ڪو به ڏنڍو جيڪو ______ ڪمائڻ لاءِ شروع ڪيو وڃي، ان کي ڪاروبار چئبو آهي.",
+                    "a": "منافعو"
+                  },
+                  {
+                    "q": "II. ______ واري مرحلي ۾ نيون شيون ٺاهڻ لاءِ تحقيق ۽ تجزيو ڪرڻ جي صلاحيت ۽ تخليقي سوچ جي ضرورت هوندي آهي.",
+                    "a": "موقعو ڳولهڻ"
+                  },
+                  {
+                    "q": "III. ______ نيون مارڪيٽون ٺاهڻ ۽ موجوده مارڪيٽن کي وڌائڻ سان ملڪ کي معاشي ترقي ڏني ويندي آهي.",
+                    "a": "ڪاروباري ماٿهو"
+                  },
+                  {
+                    "q": "IV. ڪاروبار جو عمل ______ عمل آهي ۽ ڪاروبار کي ترقي ڪرڻ ۾ مدد ڏيندو آهي.",
+                    "a": "مسلسل"
+                  },
+                  {
+                    "q": "V. ______ ڪاروباري ماٿهن کي بهتر ڪاروبار ڪرڻ لاءِ ٽولز ۽ گيجٽس استعمال ڪرڻ ۾ مدد ڏئي ٿي.",
+                    "a": "ٽيڪنالاجي"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.3",
+            "name": "هيٺين سوالن جا تفصيلي جواب ڏيو",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "I. ڪاروبار ڇا آهي؟ ڪاروبار جا ڪهڙا قسم آهن؟",
+                    "a": "ڪاروبار ڪو به ڏنڍو آهي جيڪو منافعو ڪمائڻ لاءِ شروع ڪيو وڃي، جهڙوڪ دڪان کولڻ. ڪاروبار جا ٻه قسم آهن: روايتي ڪاروبار ۽ ڊجيٽل ڪاروبار."
+                  },
+                  {
+                    "q": "II. ڪاروباري ماٿهو ڇا آهي؟ هڪ ڪاروباري ماٿهو جون ڪهڙيون خوبيون آهن؟",
+                    "a": "ڪاروباري ماٿهو اهو شخص آهي جيڪو پنهنجو ڪاروبار شروع ڪري ٿو ۽ هلائي ٿو، منافعو يا نقصان جو خطرو کڻي ٿو، نوان خيال آڻي ٿو، پئسا جو انتظام ڪري ٿو ۽ ماٿهن کي نوڪري ڏئي ٿو. ان جون خوبيون آهن: تخليقي سوچ، خطرو کڻڻ لاءِ تياري، محنت ۽ گراهڪن تي ڌيان."
+                  },
+                  {
+                    "q": "III. ڪاروباري منصوبو ڇا آهي؟ ان جا ڪهڙا مرحلا آهن؟",
+                    "a": "ڪاروباري منصوبو ڪاروبار شروع ڪرڻ لاءِ هدايتون يا لکيل دستاويز آهي جنهن ۾ ڪاروبار جو مقصد، مارڪيٽ، مقابلو ۽ مالي منصوبو شامل هوندا آهن. ان جا مرحلا آهن: موقعو ڳولهڻ، منصوبو ٺاهڻ ۽ عمل ڪرڻ."
+                  },
+                  {
+                    "q": "IV. ڪاروباري منصوبي جي تياريءَ ۾ ڪهڙا قدم شامل آهن؟",
+                    "a": "ڪاروباري منصوبي جي تياريءَ ۾ شامل قدم آهن: خيال جي چونڊ، مارڪيٽ جي تحقيق، مقابلي جو تجزيو، مالي منصوبو ۽ قانوني گهرجون."
+                  },
+                  {
+                    "q": "V. ڪاروبار ۾ ٽيڪنالاجي جو ڪردار بيان ڪريو.",
+                    "a": "ٽيڪنالاجي ڪاروباري ماٿهن کي بهتر ڪاروبار ڪرڻ لاءِ ٽولز ۽ گيجٽس استعمال ڪرڻ ۾ مدد ڏئي ٿي؛ اها آن لائن موجودگي، عالمي رسائي، ڊجيٽل مارڪيٽنگ ۽ اي-ڪامرس ممڪن بڻائي ٿي."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.4",
+            "name": "درسي سرگرميون",
+            "exercises": [
+              {
+                "label": "A",
+                "items": [
+                  {
+                    "q": "1. پنهنجي پسند جو هڪ ڪاروباري منصوبو ٺاهيو.",
+                    "a": "شاگرد پنهنجي پسند جو ڪاروباري منصوبو ٺاهيندا: خيال چونڊيو (مثال: سموسا وڪڻڻ)، مارڪيٽ جي تحقيق ڪريو، مقابلي جو تجزيو ڪريو، مالي منصوبو ٺاهيو ۽ قانوني گهرجون پوريون ڪريو."
+                  },
+                  {
+                    "q": "2. هڪ ڪاروباري ماٿهو جي ڪاميابيءَ جي ڪهاڻي لکو.",
+                    "a": "شاگرد ڪنهن ڪاروباري ماٿهو، جهڙوڪ سليم غوري، مونس رحمان، حڪيم محمد سعيد يا سدره قاسم، جي ڪاميابيءَ جي ڪهاڻي لکندا."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "num": "6.5",
+            "name": "اضافي سوال",
+            "exercises": [
+              {
+                "label": "ڪاروبار ۽ ان جا قسم",
+                "items": [
+                  {
+                    "q": "ڪاروبار ڇا آهي؟",
+                    "a": "ڪاروبار ڪو به ڏنڍو آهي جيڪو منافعو ڪمائڻ لاءِ شروع ڪيو وڃي."
+                  },
+                  {
+                    "q": "منافعو ڇا آهي؟",
+                    "a": "منافعو اها رقم آهي جيڪا خرچن کان پوءِ آمدني مان بچي ٿي."
+                  },
+                  {
+                    "q": "ڪاروبار جا ڪيترا قسم آهن؟",
+                    "a": "ٻه قسم آهن: روايتي ڪاروبار ۽ ڊجيٽل ڪاروبار."
+                  },
+                  {
+                    "q": "ڪاروبار جو مثال ڏيو.",
+                    "a": "دڪان کولڻ يا سموسا ٺاهي وڪڻڻ."
+                  },
+                  {
+                    "q": "اسڪول جي ميلي ۾ 1000 رپين سان ڪاروبار ڪيئن ڪجي؟",
+                    "a": "سموسا، چٽڻي ۽ سلاد وڪڻو؛ خرچن جو رڪارڊ رکو؛ منافعو = آمدني − خرچ."
+                  }
+                ]
+              },
+              {
+                "label": "روايتي ۽ ڊجيٽل ڪاروبار",
+                "items": [
+                  {
+                    "q": "روايتي ڪاروبار ڇا آهي؟",
+                    "a": "روايتي ڪاروبار دڪان يا مارڪيٽ ۾ سامان وڪڻڻ آهي."
+                  },
+                  {
+                    "q": "روايتي ڪاروبار جون خاصيتون لکو.",
+                    "a": "ظاهري موجودگي، مقامي مارڪيٽ تي ڌيان، روايتي مارڪيٽنگ (پوسٽر، اخبار، ريڊيو، ٽي وي)، سڌي وڪري ۽ آمنهن سامهون رابطو."
+                  },
+                  {
+                    "q": "ڊجيٽل ڪاروبار ڇا آهي؟",
+                    "a": "ڊجيٽل ڪاروبار انٽرنيٽ ۽ آئي سي ٽي استعمال ڪري ڪاروبار شروع ڪرڻ ۽ هلائڻ آهي."
+                  },
+                  {
+                    "q": "ڊجيٽل ڪاروبار جون خاصيتون لکو.",
+                    "a": "آن لائن موجودگي، عالمي رسائي، ڊجيٽل مارڪيٽنگ، اي-ڪامرس ۽ ورچوئل رابطو."
+                  },
+                  {
+                    "q": "اي-ڪامرس ڇا آهي؟",
+                    "a": "اي-ڪامرس ڊجيٽل دڪانن يا ايپس ذريعي آن لائن سامان ۽ خدمتون خريد ڪرڻ ۽ وڪڻڻ آهي."
+                  }
+                ]
+              },
+              {
+                "label": "ڪاروباري ماٿهو جا قسم",
+                "items": [
+                  {
+                    "q": "ڪاروباري ماٿهو ڇا آهي؟",
+                    "a": "ڪاروباري ماٿهو اهو شخص آهي جيڪو پنهنجو ڪاروبار شروع ڪري ٿو ۽ هلائي ٿو."
+                  },
+                  {
+                    "q": "ڪاروباري ماٿهن جا ڪيترا قسم آهن؟",
+                    "a": "پنج قسم آهن: جدت پسند، محنتي ۽ موقع شناس، تقليد ڪندڙ، محقق ۽ خريدار."
+                  },
+                  {
+                    "q": "جدت پسند ڪاروباري ماٿهو ڇا آهي؟ مثال ڏيو.",
+                    "a": "جدت پسند تخليقي شخص آهي جيڪو نوان خيال آڻي ٿو؛ مثال: ٿامس ايڊيسن — بجلي جو بلب."
+                  },
+                  {
+                    "q": "محنتي ۽ موقع شناس ڪاروباري ماٿهو جو مثال ڏيو.",
+                    "a": "ارشد خان \"ارشد چائيوالا\" — جيڪو سوشل ميڊيا تي مشهور ٿيو ۽ اسلام آباد ۾ پنهنجي چانهه جو دڪان کوليو."
+                  },
+                  {
+                    "q": "تقليد ڪندڙ ڪاروباري ماٿهو ڇا آهي؟ مثال ڏيو.",
+                    "a": "تقليد ڪندڙ ڪامياب ڪاروباري خيالن جي نقل ڪري انهن کي بهتر بڻائي ٿو؛ مثال: ڪريم/اوبر جهڙيون رائيڊ هيلنگ ايپس."
+                  }
+                ]
+              },
+              {
+                "label": "ڪاروباري عمل ۽ منصوبو",
+                "items": [
+                  {
+                    "q": "ڪاروباري عمل جا ڪيترا مرحلا آهن؟",
+                    "a": "پنج مرحلا آهن."
+                  },
+                  {
+                    "q": "ڪاروباري عمل جا پنج مرحلا لکو.",
+                    "a": "1. موقعي جي سڃاڻپ ڪرڻ. 2. موقعي جو تجزيو ڪرڻ. 3. ڪاروباري منصوبو ٺاهڻ. 4. منصوبي تي عمل درآمد ڪرڻ. 5. ڪاروبار کي ترقي ۽ وڌائڻ."
+                  },
+                  {
+                    "q": "ڪاروباري منصوبو ڇا آهي؟",
+                    "a": "ڪاروباري منصوبو ڪاروبار شروع ڪرڻ لاءِ هدايتون يا لکيل دستاويز آهي جنهن ۾ ڪاروبار جو مقصد، مارڪيٽ، مقابلو ۽ مالي منصوبو شامل هوندا آهن."
+                  },
+                  {
+                    "q": "ڪاروباري منصوبي جا مرحلا ڪهڙا آهن؟",
+                    "a": "موقعو ڳولهڻ، منصوبو ٺاهڻ ۽ عمل ڪرڻ."
+                  },
+                  {
+                    "q": "پاڪستان جي ڪاروباري شخصيتن جا نالا لکو.",
+                    "a": "سليم غوري (نيٽ سول ٽيڪنالاجيز)، مونس رحمان (روزي ڊاٽ ڪام)، حڪيم محمد سعيد (همدرد فائونڊيشن) ۽ سدره قاسم (مارخور)."
+                  }
+                ]
+              },
+              {
+                "label": "ٽيڪنالاجي ۽ ناکامي",
+                "items": [
+                  {
+                    "q": "سليم غوري کي ڇا سڏيو ويندو آهي؟",
+                    "a": "\"پاڪستان جو بل گيٽس\" — هو نيٽ سول ٽيڪنالاجيز جو باني ۽ سي اي او آهي."
+                  },
+                  {
+                    "q": "مونس رحمان ڪير آهي؟",
+                    "a": "مونس رحمان هڪ انجنيئر آهي جنهن روزي ڊاٽ ڪام ٺاهيو، جيڪو پاڪستان جو سڀ کان وڏو نوڪري جو پورٽل آهي."
+                  },
+                  {
+                    "q": "سدره قاسم ڪير آهي؟",
+                    "a": "سدره قاسم مارخور جي باني آهي، جيڪو هڪ پاڪستاني فوٽ ويئر برانڊ آهي."
+                  },
+                  {
+                    "q": "ناکامي ڪاروبار ۾ ڇا سيکاري ٿي؟",
+                    "a": "ناکامي ڪاروبار جو حصو آهي؛ ڪاروباري ماٿهو ناکاميءَ مان سکي ٿو، ٻيهر ڪوشش ڪري ٿو ۽ غلطين مان سبق سکي ٿو."
+                  },
+                  {
+                    "q": "ايس اي او مان ڇا مراد آهي؟",
+                    "a": "ايس اي او يعني سرچ انجن آپٽمائيزيشن — ويب سائيٽ کي سرچ انجڻ ۾ بهتر ڏيکارڻ جو طريقو."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "words": [
+          {
+            "w": "AI",
+            "sd": "اي آئي",
+            "syn": "Artificial Intelligence - machines that think and learn like humans"
+          },
+          {
+            "w": "E-commerce",
+            "sd": "اي-ڪامرس",
+            "syn": "buying and selling goods and services online"
+          },
+          {
+            "w": "ICT",
+            "sd": "آئي سي ٽي",
+            "syn": "Information and Communication Technology"
+          },
+          {
+            "w": "SEO",
+            "sd": "ايس اي او",
+            "syn": "Search Engine Optimisation - making a website rank better in search engines"
+          },
+          {
+            "w": "Business",
+            "sd": "ڪاروبار",
+            "syn": "work started to earn profit"
+          },
+          {
+            "w": "Entrepreneur",
+            "sd": "ڪاروباري ماٿهو",
+            "syn": "a person who starts and runs a business"
+          },
+          {
+            "w": "Innovation",
+            "sd": "انوويشن",
+            "syn": "new and better ideas"
+          },
+          {
+            "w": "Profit",
+            "sd": "منافعو",
+            "syn": "money left after expenses"
+          },
+          {
+            "w": "Business Plan",
+            "sd": "ڪاروباري منصوبو",
+            "syn": "written instructions to start a business"
+          },
+          {
+            "w": "Opportunity",
+            "sd": "موقعو",
+            "syn": "a chance to start something new"
+          },
+          {
+            "w": "Traditional Business",
+            "sd": "روايتي ڪاروبار",
+            "syn": "selling goods in a shop or market"
+          },
+          {
+            "w": "Digital Business",
+            "sd": "ڊجيٽل ڪاروبار",
+            "syn": "doing business using the internet and ICT"
+          }
+        ]
+      }
+    ],
     "mathsolutions": [
       {
         "exercises": [
