@@ -1,6 +1,88 @@
 STUDY.grammar = {
   "exsolutions": [
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Letters and Words"
+      },
+      {
+        "t": "def",
+        "x": "A letter is one written sign of a language. English has 26 letters: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z."
+      },
+      {
+        "t": "def",
+        "x": "There are five vowels: A, E, I, O, U. The other 21 letters are consonants."
+      },
+      {
+        "t": "def",
+        "x": "A word is one letter, or a group of letters, that has a meaning."
+      },
+      {
+        "t": "ex",
+        "x": "I\ncat\nbook\nschool"
+      },
+      {
+        "t": "p",
+        "x": "Letters join together to make words."
+      },
+      {
+        "t": "h",
+        "x": "The Sentence"
+      },
+      {
+        "t": "p",
+        "x": "When we speak or write, we use words. We usually use them in groups."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§1. A group of words that makes complete sense is called a sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Little Jack Horner sat in a corner."
+      },
+      {
+        "t": "p",
+        "x": "There are four kinds of sentences: (a) sentences that make a statement; (b) sentences that ask a question; (c) sentences that give a command or make a request; (d) sentences that show strong feeling."
+      },
+      {
+        "t": "rule",
+        "x": "§2. A sentence that makes a statement is called a declarative sentence. We also call it an assertive sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Humpty Dumpty sat on a wall."
+      },
+      {
+        "t": "rule",
+        "x": "§2. A sentence that asks a question is called an interrogative sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Where do you live?"
+      },
+      {
+        "t": "rule",
+        "x": "§2. A sentence that gives a command or makes a request is called an imperative sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Be quiet.\nPlease help me."
+      },
+      {
+        "t": "rule",
+        "x": "§2. A sentence that shows strong feeling is called an exclamatory sentence."
+      },
+      {
+        "t": "ex",
+        "x": "How cold the night is!\nWhat a shame!"
+      }
+    ],
     "display": "Letters, Words and the Sentence",
     "reading": "Letters, Words and the Sentence",
     "sections": [
@@ -184,6 +266,44 @@ STUDY.grammar = {
     ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Subject and the Predicate"
+      },
+      {
+        "t": "p",
+        "x": "When we make a sentence: (a) we name some person or thing; and (b) we say something about that person or thing. So every sentence has two parts:"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§3. (a) The part that names the person or thing we are talking about is called the subject of the sentence."
+      },
+      {
+        "t": "rule",
+        "x": "§3. (b) The part that tells something about the subject is called the predicate of the sentence."
+      },
+      {
+        "t": "rule",
+        "x": "§4. The subject of a sentence usually comes first, but sometimes it comes after the predicate."
+      },
+      {
+        "t": "ex",
+        "x": "Here comes the bus.\nDown came the rain."
+      },
+      {
+        "t": "rule",
+        "x": "§5. In imperative sentences, we do not write the subject."
+      },
+      {
+        "t": "ex",
+        "x": "Sit down. [The subject You is understood here.]\nThank him. [The subject You is understood here too.]"
+      }
+    ],
     "display": "Subject and Predicate — Chapter 2",
     "reading": "Subject and Predicate — Chapter 2",
     "sections": [
@@ -415,6 +535,44 @@ STUDY.grammar = {
     ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Phrase"
+      },
+      {
+        "t": "p",
+        "x": "Look at the group of words “in a corner”. It makes sense, but not complete sense."
+      },
+      {
+        "t": "h",
+        "x": "The Clause"
+      },
+      {
+        "t": "p",
+        "x": "Look at the groups of words in bold in these sentences: He has a chain of gold. He has a chain which is made of gold. The first group of words is a phrase. The second group of words has a subject (which) and a predicate (is made of gold)."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§6. A group of words that makes sense, but not complete sense, is called a phrase."
+      },
+      {
+        "t": "ex",
+        "x": "The sun rises in the east.\nHumpty Dumpty sat on a wall.\nA giant came to my door.\nIt was a sunset of great beauty.\nThe tops of the mountains were covered with snow.\nShow me how to do it."
+      },
+      {
+        "t": "rule",
+        "x": "§7. A group of words that is part of a sentence, and has a subject and a predicate, is called a clause."
+      },
+      {
+        "t": "ex",
+        "x": "People who pay their debts are trusted.\nWe cannot start while it is raining.\nI think that you have made a mistake."
+      }
+    ],
     "display": "The Phrase and the Clause — Chapter 3",
     "reading": "The Phrase and the Clause — Chapter 3",
     "sections": [
@@ -540,6 +698,104 @@ STUDY.grammar = {
     ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Parts of Speech"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§8. Words are divided into different kinds, called parts of speech, according to the work they do in a sentence. There are eight parts of speech: 1. noun, 2. adjective, 3. pronoun, 4. verb, 5. adverb, 6. preposition, 7. conjunction, 8. interjection."
+      },
+      {
+        "t": "rule",
+        "x": "§9. A noun is a word used as the name of a person, place, or thing."
+      },
+      {
+        "t": "ex",
+        "x": "Akbar was a great king.\nKolkata is on the banks of the river Hooghly.\nThe rose smells sweet.\nThe sun shines brightly.\nHis courage won him honour."
+      },
+      {
+        "t": "note",
+        "x": "Note — The word thing means (i) all objects that we can see, hear, taste, touch, or smell; and (ii) something that we can only think of — we cannot see, hear, taste, touch, or smell it."
+      },
+      {
+        "t": "rule",
+        "x": "§10. An adjective is a word that adds something to the meaning of a noun."
+      },
+      {
+        "t": "ex",
+        "x": "He is a brave boy.\nThere are twenty boys in this class."
+      },
+      {
+        "t": "rule",
+        "x": "§11. A pronoun is a word used instead of a noun."
+      },
+      {
+        "t": "ex",
+        "x": "John is absent, because he is ill.\nThe books are where you left them."
+      },
+      {
+        "t": "rule",
+        "x": "§12. A verb is a word that shows an action, an event, or a state."
+      },
+      {
+        "t": "ex",
+        "x": "The girl wrote a letter to her cousin.\nKolkata is a big city.\nIron and copper are useful metals."
+      },
+      {
+        "t": "rule",
+        "x": "§13. An adverb is a word that adds something to the meaning of a verb, an adjective, or another adverb."
+      },
+      {
+        "t": "ex",
+        "x": "He worked the sum quickly.\nThis flower is very beautiful.\nShe pronounced the word quite correctly."
+      },
+      {
+        "t": "rule",
+        "x": "§14. A preposition is a word used with a noun or a pronoun to show how that person or thing is related to something else."
+      },
+      {
+        "t": "ex",
+        "x": "There is a cow in the garden.\nThe girl is fond of music.\nA fair little girl sat under a tree."
+      },
+      {
+        "t": "rule",
+        "x": "§15. A conjunction is a word used to join words or sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Rama and Hari are cousins.\nTwo and two make four.\nI ran fast, but missed the train."
+      },
+      {
+        "t": "rule",
+        "x": "§16. An interjection is a word that shows a sudden feeling."
+      },
+      {
+        "t": "ex",
+        "x": "Hurrah! We have won the game.\nOh! I have hurt my foot."
+      },
+      {
+        "t": "rule",
+        "x": "§17. Some modern grammars count determiners as parts of speech. Determiners are words like a, an, the, this, that, these, those, every, each, some, any, my, his, one, two, etc. They limit the meaning of the nouns that come after them. In this book, as in many old grammars, all determiners except a, an and the are counted as adjectives."
+      },
+      {
+        "t": "rule",
+        "x": "§18. Words are divided into different classes according to the work they do in a sentence. So we cannot say which part of speech a word is until we see it used in a sentence."
+      },
+      {
+        "t": "ex",
+        "x": "They arrived soon after. (Adverb)\nThey arrived after us. (Preposition)\nThey arrived after we had left. (Conjunction)"
+      },
+      {
+        "t": "p",
+        "x": "From these examples we see that the same word can be used as different parts of speech."
+      }
+    ],
     "display": "Parts of Speech — Chapter 4",
     "reading": "Parts of Speech — Chapter 4",
     "sections": [
@@ -848,6 +1104,164 @@ STUDY.grammar = {
     ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Kinds of Nouns"
+      },
+      {
+        "t": "h",
+        "x": "What is a Noun?"
+      },
+      {
+        "t": "def",
+        "x": "§19. A noun is a word used as the name of a person, place, or thing."
+      },
+      {
+        "t": "note",
+        "x": "§19. Note — The word thing means anything that we can think of."
+      },
+      {
+        "t": "h",
+        "x": "Proper and Common Nouns"
+      },
+      {
+        "t": "ex",
+        "x": "Asoka was a wise king."
+      },
+      {
+        "t": "p",
+        "x": "Asoka is the name of one special king. The word king can be the name of any king. So Asoka is a Proper Noun, and king is a Common Noun."
+      },
+      {
+        "t": "ex",
+        "x": "Sita is a Proper Noun, while girl is a Common Noun.\nHari is a Proper Noun, while boy is a Common Noun.\nKolkata is a Proper Noun, while city is a Common Noun.\nIndia is a Proper Noun, while country is a Common Noun."
+      },
+      {
+        "t": "p",
+        "x": "The word girl is a Common Noun, because it is a name for all girls. Sita is a Proper Noun, because it is the name of one special girl."
+      },
+      {
+        "t": "def",
+        "x": "§20. A Common Noun is a name we give to every person or thing of the same kind."
+      },
+      {
+        "t": "note",
+        "x": "[Common here means shared by all.]"
+      },
+      {
+        "t": "def",
+        "x": "§20. A Proper Noun is the name of one special person or place."
+      },
+      {
+        "t": "note",
+        "x": "[Proper means one’s own. A Proper Name is a person’s own name.]"
+      },
+      {
+        "t": "h",
+        "x": "Collective Nouns"
+      },
+      {
+        "t": "def",
+        "x": "§21. A Collective Noun is the name of a group of people or things. We take the whole group together and speak of it as one thing."
+      },
+      {
+        "t": "ex",
+        "x": "crowd, mob, team, flock, herd, army, fleet, jury, family, nation, parliament, committee.\na fleet = a group of ships.\nan army = a group of soldiers.\na crowd = a group of people.\nA big crowd came to the fair.\nThe army marched past the school.\nThe jury found the prisoner guilty.\nA herd of cattle is passing."
+      },
+      {
+        "t": "h",
+        "x": "Abstract Nouns"
+      },
+      {
+        "t": "def",
+        "x": "§22. An Abstract Noun is usually the name of a quality, an action, or a state. We think of it on its own, away from the person or thing that has it."
+      },
+      {
+        "t": "ex",
+        "x": "quality — goodness, kindness, whiteness, darkness, hardness, brightness, honesty, wisdom, bravery.\naction — laughter, theft, movement, judgement, hatred.\nstate — childhood, boyhood, youth, slavery, sleep, sickness, death, poverty."
+      },
+      {
+        "t": "p",
+        "x": "The names of the Arts and Sciences (for example, grammar, music, chemistry) are also Abstract Nouns."
+      },
+      {
+        "t": "note",
+        "x": "[We can speak of a brave soldier, a strong man, or a beautiful flower. But we can also think of bravery, strength, and beauty on their own, away from any person or thing. We can also think of what people do or feel, away from the people themselves, and give it a name. The word abstract means drawn off.]"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§20. Common Nouns include Collective Nouns and Abstract Nouns."
+      },
+      {
+        "t": "rule",
+        "x": "§20. Note 1 — We always write a Proper Noun with a capital letter at the start."
+      },
+      {
+        "t": "rule",
+        "x": "§20. Note 2 — We sometimes use a Proper Noun as a Common Noun."
+      },
+      {
+        "t": "ex",
+        "x": "He was the Einstein of his age (= the cleverest man of his time).\nKalidas is often called the Shakespeare (= the greatest writer of plays) of India."
+      },
+      {
+        "t": "rule",
+        "x": "§23. (1) We make Abstract Nouns from Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "kindness from kind; honesty from honest."
+      },
+      {
+        "t": "note",
+        "x": "[Most Abstract Nouns are made in this way.]"
+      },
+      {
+        "t": "rule",
+        "x": "§23. (2) We make Abstract Nouns from Verbs."
+      },
+      {
+        "t": "ex",
+        "x": "obedience from obey; growth from grow."
+      },
+      {
+        "t": "rule",
+        "x": "§23. (3) We make Abstract Nouns from Common Nouns."
+      },
+      {
+        "t": "ex",
+        "x": "childhood from child; slavery from slave."
+      },
+      {
+        "t": "rule",
+        "x": "§24. Countable nouns (or countables) are the names of things we can count."
+      },
+      {
+        "t": "ex",
+        "x": "book, pen, apple, boy, sister, doctor, horse."
+      },
+      {
+        "t": "rule",
+        "x": "§24. Uncountable nouns (or uncountables) are the names of things we cannot count. They are mostly the names of substances and abstract things."
+      },
+      {
+        "t": "ex",
+        "x": "milk, oil, sugar, gold, honesty."
+      },
+      {
+        "t": "rule",
+        "x": "§24. Countable nouns have plural forms. Uncountable nouns do not."
+      },
+      {
+        "t": "ex",
+        "x": "For example, we say “books”, but we cannot say “milks”."
+      }
+    ],
    "unit": 5,
    "title": "The Noun: Kinds of Nouns",
    "display": "The Noun: Kinds of Nouns",
@@ -1205,6 +1619,160 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Noun: Gender"
+      },
+      {
+        "t": "h",
+        "x": "Masculine and Feminine Gender"
+      },
+      {
+        "t": "p",
+        "x": "§25. You know that living beings are male or female. Now look at these pairs of words."
+      },
+      {
+        "t": "ex",
+        "x": "boy — girl\nlion — lioness\nhero — heroine\ncock-sparrow — hen-sparrow"
+      },
+      {
+        "t": "p",
+        "x": "What do you see? The first word in each pair is the name of a male animal. The second word in each pair is the name of a female animal."
+      },
+      {
+        "t": "def",
+        "x": "§25. A noun that names a male animal is in the Masculine Gender."
+      },
+      {
+        "t": "note",
+        "x": "[Gender comes from Latin genus, which means kind or sort.]"
+      },
+      {
+        "t": "def",
+        "x": "§25. A noun that names a female animal is in the Feminine Gender."
+      },
+      {
+        "t": "h",
+        "x": "Common Gender"
+      },
+      {
+        "t": "def",
+        "x": "§26. A noun that names either a male or a female is in the Common Gender."
+      },
+      {
+        "t": "ex",
+        "x": "parent, child, friend, pupil, servant, thief, relation, enemy, cousin, person, orphan, student, baby, monarch, neighbour, infant."
+      },
+      {
+        "t": "h",
+        "x": "Neuter Gender"
+      },
+      {
+        "t": "def",
+        "x": "§27. A noun that names a thing with no life is in the Neuter Gender. It is neither male nor female."
+      },
+      {
+        "t": "ex",
+        "x": "book, pen, room, tree."
+      },
+      {
+        "t": "note",
+        "x": "[Neuter means neither. That is, neither male nor female.]"
+      },
+      {
+        "t": "p",
+        "x": "So in modern English, the gender of a noun depends only on sex, or on no sex at all. It has nothing to do with the form of the noun. In many other languages the form of a noun tells its gender. For example, in Urdu, bagiche is masculine and lakri is feminine."
+      },
+      {
+        "t": "h",
+        "x": "Personification"
+      },
+      {
+        "t": "p",
+        "x": "§28. We often speak of a thing with no life as if it were alive. Then we think of it as male or female."
+      },
+      {
+        "t": "h",
+        "x": "Ways of Forming the Feminine of Nouns"
+      },
+      {
+        "t": "p",
+        "x": "§29. We can make the Feminine of a noun in three ways."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§28. We often use the Masculine Gender for things that show strength and violence."
+      },
+      {
+        "t": "ex",
+        "x": "The Sun, Summer, Winter, Time, Death.\nThe sun gives his light to all."
+      },
+      {
+        "t": "rule",
+        "x": "§28. We sometimes use the Feminine Gender for things that show beauty, gentleness, and grace."
+      },
+      {
+        "t": "ex",
+        "x": "The Moon, the Earth, Spring, Autumn, Nature, Liberty, Justice, Mercy, Peace, Hope, Charity.\nThe moon has hidden her face behind a cloud.\nSpring shows her beauty in the flowers.\nHope gives her light to all."
+      },
+      {
+        "t": "p",
+        "x": "This use is most common in poetry, but we speak of some nouns as people in prose too."
+      },
+      {
+        "t": "rule",
+        "x": "§28. We often speak of a ship as she."
+      },
+      {
+        "t": "ex",
+        "x": "The ship lost all her boats in the storm."
+      },
+      {
+        "t": "rule",
+        "x": "§29. (1) We make the Feminine by using a completely different word."
+      },
+      {
+        "t": "ex",
+        "x": "Bachelor — maid (old use), spinster\nBoy — girl\nBrother — sister\nBuck — doe\nBull (or ox) — cow\nBullock — heifer\nCock — hen\nColt — filly\nDog — bitch\nDrake — duck\nDrone — bee\nEarl — countess\nFather — mother\nGander — goose\nGentleman — lady\nHart — roe\nHorse — mare\nHusband — wife\nKing — queen\nLord — lady\nMan — woman\nMonk (or friar) — nun\nNephew — niece\nPapa — mamma\nRam — ewe\nSir — madam\nSon — daughter\nStag — hind\nUncle — aunt\nWizard — witch"
+      },
+      {
+        "t": "rule",
+        "x": "§29. (2) We make the Feminine by adding a syllable (-ess, -ine, -trix, -a, etc.)."
+      },
+      {
+        "t": "ex",
+        "x": "Author — authoress\nBaron — baroness\nCount — countess\nGiant — giantess\nHeir — heiress\nHost — hostess\nJew — Jewess\nLion — lioness\nManager — manageress\nMayor — mayoress\nPatron — patroness\nPeer — peeress\nPoet — poetess\nPriest — priestess\nProphet — prophetess\nShepherd — shepherdess\nSteward — stewardess\nViscount — viscountess"
+      },
+      {
+        "t": "note",
+        "x": "Note — In the words below, we add -ess after dropping the vowel at the end of the masculine word."
+      },
+      {
+        "t": "ex",
+        "x": "Actor — actress\nBenefactor — benefactress\nConductor — conductress\nEnchanter — enchantress\nFounder — foundress\nHunter — huntress\nInstructor — instructress\nNegro — negress\nAbbot — abbess\nDuke — duchess\nEmperor — empress\nPreceptor — preceptress\nPrince — princess\nSongster — songstress\nTempter — temptress\nSeamster — seamstress\nTiger — tigress\nTraitor — traitress\nWaiter — waitress\nMaster — mistress\nMurderer — murderess\nSorcerer — sorceress"
+      },
+      {
+        "t": "note",
+        "x": "Note — The suffix -ess is the commonest suffix for making feminine nouns. It is the only one we still use to make a new feminine noun."
+      },
+      {
+        "t": "ex",
+        "x": "Hero — heroine\nTestator — testatrix\nCzar — czarina\nSultan — sultana\nSignor — signora\nFox — vixen"
+      },
+      {
+        "t": "rule",
+        "x": "§29. (3) We make the Feminine by placing a word before or after the noun."
+      },
+      {
+        "t": "ex",
+        "x": "Grandfather — grandmother\nGreatuncle — greataunt\nManservant — maidservant\nLandlord — landlady\nMilkman — milkwoman\nPeacock — peahen\nSalesman — saleswoman\nWasherman — washerwoman"
+      }
+    ],
    "unit": 6,
    "title": "The Noun: Gender",
    "display": "The Noun: Gender",
@@ -1425,6 +1993,304 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Noun: Number"
+      },
+      {
+        "t": "h",
+        "x": "Singular and Plural Number"
+      },
+      {
+        "t": "p",
+        "x": "§30. Look at how the second word in each pair changes its form."
+      },
+      {
+        "t": "ex",
+        "x": "tree — trees\nbox — boxes\nox — oxen\nman — men"
+      },
+      {
+        "t": "p",
+        "x": "The first word in each pair names one thing. The second word in each pair names more than one thing."
+      },
+      {
+        "t": "def",
+        "x": "§30. A noun that names one person or thing is in the Singular Number."
+      },
+      {
+        "t": "ex",
+        "x": "boy, girl, cow, bird, tree, book, pen."
+      },
+      {
+        "t": "def",
+        "x": "§30. A noun that names more than one person or thing is in the Plural Number."
+      },
+      {
+        "t": "ex",
+        "x": "boys, girls, cows, birds, trees, books, pens."
+      },
+      {
+        "t": "p",
+        "x": "So there are two numbers in English — the Singular and the Plural."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "h",
+        "x": "How Plurals are Formed"
+      },
+      {
+        "t": "rule",
+        "x": "§31. (i) We usually make the plural of a noun by adding -s to the singular."
+      },
+      {
+        "t": "ex",
+        "x": "boy, boys; girl, girls; book, books;\npen, pens; desk, desks; cow, cows."
+      },
+      {
+        "t": "rule",
+        "x": "§31. (ii) Nouns that end in -s, -sh, -ch (soft), or -x make their plural by adding -es to the singular."
+      },
+      {
+        "t": "ex",
+        "x": "class, classes; kiss, kisses; dish, dishes;\nbrush, brushes; match, matches; watch, watches;\nbranch, branches; tax, taxes; box, boxes."
+      },
+      {
+        "t": "rule",
+        "x": "§31. (iii) Most nouns that end in -o also make their plural by adding -es to the singular."
+      },
+      {
+        "t": "ex",
+        "x": "buffalo, buffaloes; mango, mangoes; hero, heroes;\npotato, potatoes; cargo, cargoes; echo, echoes;\nnegro, negroes; volcano, volcanoes."
+      },
+      {
+        "t": "rule",
+        "x": "§31. (iv) A few nouns that end in -o only add -s."
+      },
+      {
+        "t": "ex",
+        "x": "dynamo, dynamos; solo, solos; ratio, ratios;\ncanto, cantos; memento, mementos; quarto, quartos;\npiano, pianos; photo, photos; stereo, stereos;\nkilo, kilos; logo, logos; commando, commandos."
+      },
+      {
+        "t": "rule",
+        "x": "§31. (v) Nouns that end in -y, and have a consonant before the -y, make their plural by changing -y to -i and adding -es."
+      },
+      {
+        "t": "ex",
+        "x": "baby, babies; lady, ladies; city, cities;\narmy, armies; story, stories; pony, ponies."
+      },
+      {
+        "t": "rule",
+        "x": "§31. (vi) These nouns that end in -f or -fe make their plural by changing -f or -fe to v and adding -es."
+      },
+      {
+        "t": "ex",
+        "x": "thief, thieves; wife, wives; wolf, wolves;\nlife, lives; calf, calves; leaf, leaves;\nloaf, loaves; knife, knives; shelf, shelves;\nhalf, halves; elf, elves; self, selves;\nsheaf, sheaves."
+      },
+      {
+        "t": "rule",
+        "x": "§31. (vi) The nouns dwarf, hoof, scarf, and wharf can take -s or -ves in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "dwarfs or dwarves; hoofs or hooves; scarfs or scarves; wharfs or wharves."
+      },
+      {
+        "t": "rule",
+        "x": "§31. (vi) Other words that end in -f or -fe only add -s."
+      },
+      {
+        "t": "ex",
+        "x": "chief, chiefs; safe, safes; proof, proofs;\ngulf, gulfs; cliff, cliffs; handkerchief, handkerchiefs."
+      },
+      {
+        "t": "rule",
+        "x": "§32. A few nouns make their plural by changing the vowel inside the singular word."
+      },
+      {
+        "t": "ex",
+        "x": "man, men; woman, women; foot, feet; tooth, teeth;\ngoose, geese; mouse, mice; louse, lice."
+      },
+      {
+        "t": "rule",
+        "x": "§33. A few nouns make their plural by adding -en to the singular."
+      },
+      {
+        "t": "ex",
+        "x": "ox, oxen; child, children."
+      },
+      {
+        "t": "rule",
+        "x": "§33. The plural of fish is fish or fishes. In current English, fish is the usual plural. We can use fishes to talk about different kinds of fish."
+      },
+      {
+        "t": "rule",
+        "x": "§34. Some nouns have the same word for the singular and the plural."
+      },
+      {
+        "t": "ex",
+        "x": "swine, sheep, deer; cod, trout, salmon; aircraft, spacecraft, series, species.\npair, dozen, score, gross, hundred, thousand (when used after numerals).\nI bought three dozen oranges.\nSome people live to the age of three score and ten (seventy years).\nThe sari cost me five thousand rupees.\nstone, hundredweight.\nHe weighs above nine stone (stone is a unit of weight).\nTwenty hundredweight make one ton."
+      },
+      {
+        "t": "rule",
+        "x": "§35. Some nouns are used only in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "(1) Names of instruments with two parts that make a pair: bellows, scissors, tongs, pincers, spectacles.\n(2) Names of some clothes: trousers, drawers, breeches, jeans, tights, shorts, pyjamas.\n(3) Some other nouns: annals, thanks, proceeds (of a sale), tidings, environs, nuptials, obsequies, assets, chattels."
+      },
+      {
+        "t": "rule",
+        "x": "§36. Some nouns were singular long ago, but now we use them in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "Alms, riches, eaves.\nRiches do many things."
+      },
+      {
+        "t": "rule",
+        "x": "§37. These nouns look plural, but they are in fact singular."
+      },
+      {
+        "t": "ex",
+        "x": "(1) Names of subjects: mathematics, physics, electronics, etc.\n(2) The word news.\n(3) Names of some common diseases: measles, mumps, rickets.\n(4) Names of some games: billiards, draughts.\nMathematics is his favourite study.\nNo news is good news.\nIndia won by an innings and three runs.\nMeasles is infectious.\nBilliards is my favourite game."
+      },
+      {
+        "t": "rule",
+        "x": "§37. (continued) ‘Means’ is used as singular or plural. But when it means ‘wealth’, it is always plural."
+      },
+      {
+        "t": "ex",
+        "x": "He succeeded by this means (or, by these means) in passing the examination.\nHis means are small, but he has incurred no debt."
+      },
+      {
+        "t": "rule",
+        "x": "§38. Some Collective Nouns look singular, but we always use them as plurals."
+      },
+      {
+        "t": "ex",
+        "x": "poultry, cattle, vermin, people, gentry.\nThese poultry are mine.\nWhose are these cattle?\nVermin destroy our property and carry disease.\nWho are those people (= persons)?\nThere are few gentry in this town."
+      },
+      {
+        "t": "note",
+        "x": "Note — As a Common Noun, ‘people’ means a ‘nation’. We use it in the singular and in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "1. The Japanese are a hard-working people.\n2. There are many different peoples in Europe."
+      },
+      {
+        "t": "rule",
+        "x": "§39. A Compound Noun usually makes its plural by adding -s to the main word."
+      },
+      {
+        "t": "ex",
+        "x": "Commander-in-chief — commanders-in-chief\nCoat-of-mail — coats-of-mail\nSon-in-law — sons-in-law\nDaughter-in-law — daughters-in-law\nStep son — step sons\nStep daughter — step daughters\nMaid servant — maid servants (but man servant, plural men servants)\nPasser-by — passers-by\nLooker-on — lookers-on\nMan-of-war — men-of-war"
+      },
+      {
+        "t": "p",
+        "x": "We say spoonfuls and handfuls, because we take spoonful and handful as one word."
+      },
+      {
+        "t": "note",
+        "x": "Note — The Proper Nouns Brahman and Mussulman are not made from man, so their plurals are Brahmans and Mussulmans."
+      },
+      {
+        "t": "rule",
+        "x": "§40. Many nouns from other languages keep their own plural form."
+      },
+      {
+        "t": "ex",
+        "x": "From Latin —\nerratum, errata; formula, formulae (or formulas);\nindex, indices; memorandum, memoranda;\nradius, radii; terminus, termini (or terminuses)."
+      },
+      {
+        "t": "ex",
+        "x": "From Greek —\naxis, axes; parenthesis, parentheses;\ncrisis, crises; hypothesis, hypotheses;\nbasis, bases; phenomenon, phenomena;\nanalysis, analyses; criterion, criteria."
+      },
+      {
+        "t": "ex",
+        "x": "From Italian —\nBandit, banditti (or bandits)."
+      },
+      {
+        "t": "ex",
+        "x": "From French —\nMadame (madam), mesdames; monsieur, messieurs."
+      },
+      {
+        "t": "ex",
+        "x": "From Hebrew —\nCherub, cherubim (or cherubs); seraph, seraphim (or seraphs)."
+      },
+      {
+        "t": "rule",
+        "x": "§41. Some nouns have two plural forms, and each form has a different meaning."
+      },
+      {
+        "t": "ex",
+        "x": "Brother — brothers, sons of the same parent.\nBrother — brethren, members of a group.\nCloth — cloths, kinds or pieces of cloth.\nCloth — clothes, garments.\nDie — dies, stamps for making coins.\nDie — dice, small cubes used in games.\nIndex — indexes, tables of contents to books.\nIndex — indices, signs used in algebra.\nPenny — pennies, number of coins.\nPenny — pence, amount in value."
+      },
+      {
+        "t": "rule",
+        "x": "§42. Some nouns have two meanings in the singular, but only one in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "Light: (1) radiance; (2) a lamp. Lights: lamps.\nPeople: (1) nation; (2) men and women. Peoples: nations.\nPowder: (1) dust; (2) a small amount of medicine like dust. Powders: doses of medicine.\nPractice: (1) habit; (2) exercise of a profession. Practices: habits."
+      },
+      {
+        "t": "rule",
+        "x": "§43. Some nouns have one meaning in the singular, but two in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "Colour: hue. Colours: (1) hues; (2) the flag of a regiment.\nCustom: habit. Customs: (1) habits; (2) taxes on goods from other countries.\nEffect: result. Effects: (1) results; (2) property.\nManner: method. Manners: (1) methods; (2) correct behaviour.\nMoral: a moral lesson. Morals: (1) moral lessons; (2) conduct.\nNumber: a quantity. Numbers: (1) quantities; (2) verses.\nPain: suffering. Pains: (1) sufferings; (2) care, exertion.\nPremise: proposition. Premises: (1) propositions; (2) buildings.\nQuarter: fourth part. Quarters: (1) fourth parts; (2) lodgings.\nSpectacle: a sight. Spectacles: (1) sights; (2) eye-glasses.\nLetter: (1) letter of the alphabet; (2) epistle. Letters: (1) letters of the alphabet; (2) epistles; (3) literature.\nGround: (1) earth; (2) reason. Grounds: (1) the land around a house; (2) reasons; (3) dregs."
+      },
+      {
+        "t": "rule",
+        "x": "§44. Some nouns have a different meaning in the singular and in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "Air: atmosphere. Airs: affected manners.\nGood: benefit, well-being. Goods: merchandise.\nCompass: extent, range. Compasses: an instrument for drawing circles.\nRespect: regard. Respects: compliments.\nPhysic: medicine. Physics: natural science.\nIron: a kind of metal. Irons: chains for prisoners.\nForce: strength. Forces: troops."
+      },
+      {
+        "t": "rule",
+        "x": "§45. We make letters, figures, and other signs plural by adding an apostrophe and s."
+      },
+      {
+        "t": "ex",
+        "x": "There are more e’s than a’s in this page.\nDot your i’s and cross your t’s.\nAdd two 5’s and four 2’s."
+      },
+      {
+        "t": "rule",
+        "x": "§46. It is usual to say — The Miss Smiths. (Singular, Miss Smith.)"
+      },
+      {
+        "t": "rule",
+        "x": "§47. Abstract Nouns have no plural. We cannot count them."
+      },
+      {
+        "t": "ex",
+        "x": "hope, charity, love, kindness."
+      },
+      {
+        "t": "rule",
+        "x": "§47. When we do use such words in the plural, we use them as countables."
+      },
+      {
+        "t": "ex",
+        "x": "Provocations = examples of provocation.\nKindnesses = acts of kindness."
+      },
+      {
+        "t": "rule",
+        "x": "§47. Names of substances are also uncountables, so we do not use them in the plural."
+      },
+      {
+        "t": "ex",
+        "x": "Copper, iron, tin, wood.\nWhen we use such words in the plural, they become countables with new meanings:\nCoppers = copper coins; irons = chains for prisoners;\ntins = cans made of tin; woods = forests."
+      }
+    ],
    "unit": 7,
    "title": "The Noun: Number",
    "display": "The Noun: Number",
@@ -1992,6 +2858,332 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Noun: Case"
+      },
+      {
+        "t": "h",
+        "x": "Subject, Predicate and Object"
+      },
+      {
+        "t": "p",
+        "x": "§48. Look at these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. John threw a stone.\n2. The horse kicked the boy."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the noun John is the Subject. It answers the question, “Who threw a stone?”"
+      },
+      {
+        "t": "p",
+        "x": "The group of words threw a stone is the Predicate. The Predicate has the verb threw in it."
+      },
+      {
+        "t": "p",
+        "x": "What did John throw? — A stone. Stone is the thing John threw. So we call the noun stone the Object."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 2, the noun horse is the Subject. It answers the question, “Who kicked the boy?” The noun boy is the Object. It answers the question, “Whom did the horse kick?”"
+      },
+      {
+        "t": "h",
+        "x": "Nominative and Accusative Cases"
+      },
+      {
+        "t": "def",
+        "x": "§49. When a noun (or pronoun) is the Subject of a verb, it is in the Nominative Case."
+      },
+      {
+        "t": "def",
+        "x": "§49. When a noun (or pronoun) is the Object of a verb, it is in the Objective (or Accusative) Case."
+      },
+      {
+        "t": "h",
+        "x": "Direct and Indirect Objects"
+      },
+      {
+        "t": "p",
+        "x": "§52. Look at these two sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. Rama gave a ball.\n2. Rama gave Hari a ball."
+      },
+      {
+        "t": "p",
+        "x": "In both sentences, the noun ball is the Object of gave."
+      },
+      {
+        "t": "p",
+        "x": "In the second sentence, Hari is the person to whom Rama gave a ball."
+      },
+      {
+        "t": "def",
+        "x": "§52. The noun Hari is called the Indirect Object of the verb gave."
+      },
+      {
+        "t": "def",
+        "x": "§52. The noun ball, the ordinary Object, is called the Direct Object."
+      },
+      {
+        "t": "h",
+        "x": "Possessive Case"
+      },
+      {
+        "t": "p",
+        "x": "§53. Look at this sentence."
+      },
+      {
+        "t": "ex",
+        "x": "This is Rama’s umbrella."
+      },
+      {
+        "t": "p",
+        "x": "Rama’s umbrella = the umbrella that belongs to Rama."
+      },
+      {
+        "t": "def",
+        "x": "§53. We change the form of the noun Rama to Rama’s to show that something belongs to Rama. So we say the noun Rama’s is in the Possessive (or Genitive) Case."
+      },
+      {
+        "t": "p",
+        "x": "The Possessive answers the question, ‘Whose?’ Whose umbrella? — Rama’s."
+      },
+      {
+        "t": "h",
+        "x": "Other Uses of the Possessive"
+      },
+      {
+        "t": "p",
+        "x": "§54. The Possessive Case does not always show possession. We also use it to show who wrote it, where it comes from, and other things."
+      },
+      {
+        "t": "ex",
+        "x": "Shakespeare’s plays = the plays written by Shakespeare\nA mother’s love = the love felt by a mother\nThe President’s speech = the speech given by the President\nMr Ahmed’s house = the house where Mr Ahmed lives\nAhmed’s school = the school where Ahmed goes\nA children’s playground = a playground for children\nA week’s holiday = a holiday that lasts a week"
+      },
+      {
+        "t": "h",
+        "x": "Nouns in Apposition"
+      },
+      {
+        "t": "p",
+        "x": "§66. Read this sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Rama, our captain, made fifty runs."
+      },
+      {
+        "t": "p",
+        "x": "Rama and our captain are one and the same person. The noun captain comes after the noun Rama only to tell us which Rama we mean."
+      },
+      {
+        "t": "def",
+        "x": "§66. When one noun comes after another noun to tell us more about it, we say the second noun is in apposition to the first noun."
+      },
+      {
+        "t": "note",
+        "x": "[Apposition means placing near.]"
+      },
+      {
+        "t": "ex",
+        "x": "1. Iqbal, the great poet, was a teacher.\n2. Yesterday I met your uncle, the doctor.\n3. Have you seen Ali, the artist’s drawings?"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§49. To find the Nominative, put Who? or What? before the verb."
+      },
+      {
+        "t": "rule",
+        "x": "§49. To find the Accusative, put Whom? or What? before the verb and its subject."
+      },
+      {
+        "t": "rule",
+        "x": "§50. A noun that comes after a preposition is also in the Accusative Case."
+      },
+      {
+        "t": "ex",
+        "x": "The book is on the desk.\nThe noun desk is in the Accusative Case, because it comes after the preposition on."
+      },
+      {
+        "t": "rule",
+        "x": "§51. In English, nouns have the same form in the Nominative and in the Accusative."
+      },
+      {
+        "t": "ex",
+        "x": "Hari broke the window. (Object)\nThe window was broken. (Subject)"
+      },
+      {
+        "t": "rule",
+        "x": "§51. The Nominative usually comes before the verb, and the Accusative after the verb. So we know them by the order of the words, or by the sense."
+      },
+      {
+        "t": "rule",
+        "x": "§52. The Indirect Object comes just after the verb and before the Direct Object."
+      },
+      {
+        "t": "rule",
+        "x": "§52. The Indirect Object of a verb names the person to whom we give something, or for whom we do something."
+      },
+      {
+        "t": "note",
+        "x": "Note — We can also use to or for in place of the Indirect Object."
+      },
+      {
+        "t": "ex",
+        "x": "Rama gave Hari a ball. = Rama gave a ball to Hari.\nWill you do me a favour? = Will you do a favour to me?\nI bought Rama a ball. = I bought a ball for Rama.\nFetch the boy a book. = Fetch a book for the boy.\nShe made Sara a new dress. = She made a new dress for Sara.\nGet me a taxi. = Get a taxi for me."
+      },
+      {
+        "t": "h",
+        "x": "Formation of the Possessive Case"
+      },
+      {
+        "t": "rule",
+        "x": "§55. (1) When the noun is Singular, we make the Possessive Case by adding ’s to the noun."
+      },
+      {
+        "t": "ex",
+        "x": "The boy’s book; the king’s crown."
+      },
+      {
+        "t": "note",
+        "x": "Note — In a few words, we leave out the letter s after the apostrophe, because too many hissing sounds would come together."
+      },
+      {
+        "t": "ex",
+        "x": "For conscience’ sake; for goodness’ sake;\nFor justice’ sake; for Jesus’ sake; Moses’ laws."
+      },
+      {
+        "t": "rule",
+        "x": "§55. (2) When the noun is Plural and ends in s, we make the Possessive Case by adding only an apostrophe."
+      },
+      {
+        "t": "ex",
+        "x": "Boys’ school; girls’ school; horses’ tails."
+      },
+      {
+        "t": "rule",
+        "x": "§55. (3) When the noun is Plural but does not end in s, we make the Possessive by adding ’s."
+      },
+      {
+        "t": "ex",
+        "x": "Men’s club; children’s books."
+      },
+      {
+        "t": "rule",
+        "x": "§56. When a noun or a title is made of several words, we put the Possessive sign only on the last word."
+      },
+      {
+        "t": "ex",
+        "x": "The King of England’s visit.\nThe Prime Minister of Pakistan’s speech."
+      },
+      {
+        "t": "rule",
+        "x": "§57. When two nouns are in apposition, we put the possessive sign only on the second noun."
+      },
+      {
+        "t": "ex",
+        "x": "That is Iqbal the poet’s house."
+      },
+      {
+        "t": "rule",
+        "x": "§58. When two nouns are closely joined, we put the possessive only on the second noun."
+      },
+      {
+        "t": "ex",
+        "x": "Karim and Salim’s bakery.\nAli and Ahmed’s shop."
+      },
+      {
+        "t": "rule",
+        "x": "§59. When two or more joined nouns show separate possession, each noun must take the possessive sign."
+      },
+      {
+        "t": "ex",
+        "x": "Ahmed’s and Bilal’s books.\nIqbal’s and Ghalib’s poems."
+      },
+      {
+        "t": "h",
+        "x": "Use of the Possessive Case"
+      },
+      {
+        "t": "rule",
+        "x": "§60. Now we use the Possessive Case mostly with the names of living things."
+      },
+      {
+        "t": "ex",
+        "x": "The Governor’s bodyguard; the lion’s mane.\nThe leg of the table [not, the table’s leg].\nThe cover of the book [not, the book’s cover].\nThe roof of the house [not, the house’s roof]."
+      },
+      {
+        "t": "rule",
+        "x": "§61. We also use the Possessive with the names of things we speak of as people."
+      },
+      {
+        "t": "ex",
+        "x": "India’s heroes; Nature’s laws; Fortune’s favourite; at duty’s call; at death’s door."
+      },
+      {
+        "t": "note",
+        "x": "* When we give a thing with no life the qualities of a person, we say it is personified. (See § 28)."
+      },
+      {
+        "t": "rule",
+        "x": "§62. We also use the Possessive with nouns that tell time, space, or weight."
+      },
+      {
+        "t": "ex",
+        "x": "A day’s march; a week’s holiday; in a year’s time; a stone’s throw; a foot’s length; a pound’s weight."
+      },
+      {
+        "t": "rule",
+        "x": "§63. We also use these common phrases in the Possessive Case."
+      },
+      {
+        "t": "ex",
+        "x": "At his fingers’ ends; for mercy’s sake; to his heart’s content; at his wit’s end; a boat’s crew."
+      },
+      {
+        "t": "rule",
+        "x": "§64. We can use the Possessive of a proper name, or of a trade, a profession, or a relationship, to mean a building or a place of work (church, house, school, college, shop, hospital, theatre, etc.)."
+      },
+      {
+        "t": "ex",
+        "x": "She has gone to the baker’s (= baker’s shop).\nTonight I am dining at my uncle’s (= uncle’s house).\nCan you tell me the way to St. Paul’s (= St. Paul’s church)?\nI attend the Town High School but my cousin attends St. Xavier’s.\nHe was educated at St. Joseph’s."
+      },
+      {
+        "t": "rule",
+        "x": "§65. If you are not sure whether to use the Possessive Case or of, remember this: as a general rule, we use the Possessive Case to show possession or ownership."
+      },
+      {
+        "t": "ex",
+        "x": "So it is better to say ‘the defeat of the enemy’ than ‘the enemy’s defeat’, even though the meaning is clear."
+      },
+      {
+        "t": "p",
+        "x": "But sometimes a noun in the Possessive Case means something different from a noun with of."
+      },
+      {
+        "t": "ex",
+        "x": "‘The Prime Minister’s reception in Delhi’ means a reception held by the Prime Minister in Delhi.\n‘The reception of the Prime Minister in Delhi’ means the way the people welcomed him when he came to Delhi.\nThe phrase ‘the love of a father’ may mean ‘a father’s love of his child’ or ‘a child’s love of his father’."
+      },
+      {
+        "t": "rule",
+        "x": "§66. A noun in apposition is in the same case as the noun it tells us about."
+      },
+      {
+        "t": "ex",
+        "x": "In the sentence above, the noun captain is in apposition to the noun Rama, and it is in the Nominative Case (because Rama is in the Nominative Case).\nIn sentence 1, the noun in apposition is in the Nominative Case.\nIn sentence 2, the noun in apposition is in the Accusative Case. [Why?]\nIn sentence 3, the noun in apposition is in the Genitive Case. [Why?]"
+      }
+    ],
    "unit": 8,
    "title": "The Noun: Case",
    "display": "The Noun: Case",
@@ -2476,6 +3668,240 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is an Adjective?"
+      },
+      {
+        "t": "p",
+        "x": "Look at these sentences. They show how an Adjective works."
+      },
+      {
+        "t": "ex",
+        "x": "Sita is a clever girl. (Girl of what kind?)\nI don't like that boy. (Which boy?)\nHe gave me five mangoes. (How many mangoes?)\nThere is little time for preparation. (How much time?)"
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, 'clever' tells us what kind of girl Sita is. In sentence 2, 'that' points out which boy is meant. In sentence 3, 'five' tells us how many mangoes he gave me. In sentence 4, 'little' tells us how much time there is for preparation."
+      },
+      {
+        "t": "def",
+        "x": "§67 An Adjective is a word used with a noun to describe or point out the person, animal, place or thing the noun names, or to tell its number or quantity."
+      },
+      {
+        "t": "def",
+        "x": "§67 So we may define an Adjective as a word used with a noun to add something to its meaning."
+      },
+      {
+        "t": "note",
+        "x": "Adjective means 'added to'."
+      },
+      {
+        "t": "h",
+        "x": "Attributive and Predicative Use"
+      },
+      {
+        "t": "def",
+        "x": "§68 When an Adjective is used with the noun, as an epithet or attribute, it is said to be used Attributively."
+      },
+      {
+        "t": "ex",
+        "x": "The lazy boy was punished."
+      },
+      {
+        "t": "def",
+        "x": "§68 When an Adjective is used with the verb, and forms part of the Predicate, it is said to be used Predicatively."
+      },
+      {
+        "t": "ex",
+        "x": "The boy is lazy."
+      },
+      {
+        "t": "p",
+        "x": "Some Adjectives can be used only Predicatively."
+      },
+      {
+        "t": "ex",
+        "x": "She is afraid of ghosts.\nI am quite well."
+      },
+      {
+        "t": "h",
+        "x": "Kinds of Adjectives"
+      },
+      {
+        "t": "p",
+        "x": "Adjectives may be divided into the following classes:"
+      },
+      {
+        "t": "def",
+        "x": "§69 Adjectives of Quality (or Descriptive Adjectives) show the kind or quality of a person or thing."
+      },
+      {
+        "t": "ex",
+        "x": "Kolkata is a large city.\nHe is an honest man.\nThe foolish old crow tried to sing.\nThis is a Grammar of the English language."
+      },
+      {
+        "t": "note",
+        "x": "Adjectives formed from Proper Nouns (e.g., French wines, Turkish tobacco, Indian tea, etc.) are sometimes called Proper Adjectives. They are generally classed with Adjectives of Quality."
+      },
+      {
+        "t": "p",
+        "x": "Adjectives of Quality answer the question: Of what kind?"
+      },
+      {
+        "t": "def",
+        "x": "§70 Adjectives of Quantity show how much of a thing is meant."
+      },
+      {
+        "t": "ex",
+        "x": "I ate some rice.\nHe showed much patience.\nHe has little intelligence.\nWe have had enough exercise.\nHe has lost all his wealth.\nYou have no sense.\nHe did not eat any rice.\nTake great care of your health.\nHe claimed his half share of the booty.\nThere has not been sufficient rain this year.\nThe whole sum was expended."
+      },
+      {
+        "t": "p",
+        "x": "Adjectives of Quantity answer the question: How much?"
+      },
+      {
+        "t": "def",
+        "x": "§71 Adjectives of Number (or Numeral Adjectives) show how many persons or things are meant, or in what order a person or thing stands."
+      },
+      {
+        "t": "ex",
+        "x": "The hand has five fingers.\nFew cats like cold water.\nThere are no pictures in this book.\nI have taught you many things.\nAll men must die.\nHere are some ripe mangoes.\nMost boys like cricket.\nThere are several mistakes in your exercise.\nSunday is the first day of the week."
+      },
+      {
+        "t": "p",
+        "x": "Adjectives of Number answer the question: How many?"
+      },
+      {
+        "t": "def",
+        "x": "§72 Adjectives of Number (or Numeral Adjectives) are of three kinds: (i) Definite Numeral Adjectives, (ii) Indefinite Numeral Adjectives, and (iii) Distributive Numeral Adjectives."
+      },
+      {
+        "t": "def",
+        "x": "§72 (i) Definite Numeral Adjectives denote an exact number."
+      },
+      {
+        "t": "ex",
+        "x": "One, two, three, etc. These are called Cardinals.\nFirst, second, third, etc. These are called Ordinals."
+      },
+      {
+        "t": "note",
+        "x": "A Cardinal denotes how many, and an Ordinal the order of things in a series. Ordinals really do the work of Demonstrative Adjectives. See §74."
+      },
+      {
+        "t": "def",
+        "x": "§72 (ii) Indefinite Numeral Adjectives do not denote an exact number."
+      },
+      {
+        "t": "ex",
+        "x": "All, no, many, few, some, any, certain, several, sundry."
+      },
+      {
+        "t": "def",
+        "x": "§72 (iii) Distributive Numeral Adjectives refer to each one of a number."
+      },
+      {
+        "t": "ex",
+        "x": "Each boy must take his turn.\nIndia expects every man to do his duty.\nEvery word of it is false.\nEither pen will do.\nOn either side is a narrow lane.\nNeither accusation is true."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§73 The same Adjective may be classed as of Quantity or Number, according to its use."
+      },
+      {
+        "t": "ex",
+        "x": "Adjectives of Quantity:\nI ate some rice.\nHe has lost all his wealth.\nYou have no sense.\nHe did not eat any rice.\nI have enough sugar.\nAdjectives of Number:\nSome boys are clever.\nAll men must die.\nThere are no pictures in this book.\nAre there any mango-trees in this garden?\nThere are not enough spoons."
+      },
+      {
+        "t": "rule",
+        "x": "§74 Demonstrative Adjectives point out which person or thing is meant."
+      },
+      {
+        "t": "ex",
+        "x": "This boy is stronger than Hari.\nThat boy is industrious.\nThese mangoes are sour.\nThose rascals must be punished.\nYonder fort once belonged to Shivaji.\nDon't be in such a hurry.\nI hate such things."
+      },
+      {
+        "t": "note",
+        "x": "Demonstrative Adjectives answer the question: Which?"
+      },
+      {
+        "t": "note",
+        "x": "This and that are used with Singular nouns, and these and those with Plural nouns."
+      },
+      {
+        "t": "rule",
+        "x": "§75 What, which and whose, when they are used with nouns to ask questions, are called Interrogative Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "What kind of man is he?\nWhich way shall we go?\nWhose book is this?"
+      },
+      {
+        "t": "note",
+        "x": "What is used in a general sense, and which in a selective sense."
+      },
+      {
+        "t": "rule",
+        "x": "§76 In the following sentences, the words own and very are used as Emphasizing Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "I saw it with my own eyes.\nHe was beaten at his own game.\nMind your own business.\nHe is his own master.\nThat is the very thing we want.\nThis is the very book I wanted."
+      },
+      {
+        "t": "rule",
+        "x": "§77 The word what is sometimes used as an Exclamatory Adjective."
+      },
+      {
+        "t": "ex",
+        "x": "What genius!\nWhat folly!\nWhat an idea!\nWhat a blessing!\nWhat a piece of work is man!"
+      },
+      {
+        "t": "rule",
+        "x": "§78 This and that are the only Adjectives which are inflected or changed in form to show number."
+      },
+      {
+        "t": "ex",
+        "x": "This girl sings. These girls sing.\nThat boy plays. Those boys play."
+      },
+      {
+        "t": "p",
+        "x": "This and these indicate something near to the speaker. That and those indicate more distant objects."
+      },
+      {
+        "t": "h",
+        "x": "Formation of Adjectives"
+      },
+      {
+        "t": "rule",
+        "x": "§79 (i) Many Adjectives are formed from Nouns."
+      },
+      {
+        "t": "ex",
+        "x": "Boy — boyish; Fool — foolish; Care — careful; Play — playful; Hope — hopeful; Venture — venturesome; Trouble — troublesome; Shame — shameless; Sense — senseless; Silk — silken; Gold — golden.\nDirt — dirty; Storm — stormy; Pardon — pardonable; Laugh — laughable; Outrage — outrageous; Courage — courageous; Glory — glorious; Envy — envious; Man — manly; King — kingly; Gift — gifted."
+      },
+      {
+        "t": "rule",
+        "x": "§79 (ii) Some Adjectives are formed from Verbs."
+      },
+      {
+        "t": "ex",
+        "x": "Tire — tireless; Talk — talkative; Cease — ceaseless; Move — moveable."
+      },
+      {
+        "t": "rule",
+        "x": "§79 (iii) Some Adjectives are formed from other Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "Tragic — tragical; Whole — wholesome; Three — threefold; Black — blackish; White — whitish; Sick — sickly."
+      }
+    ],
    "unit": 9,
    "title": "The Adjective",
    "display": "The Adjective",
@@ -3589,6 +5015,244 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Three Degrees of Comparison"
+      },
+      {
+        "t": "p",
+        "x": "Look at these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Rama's mango is sweet.\nHari's mango is sweeter than Rama's.\nGovind's mango is the sweetest of all."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the Adjective sweet only tells us that Rama's mango has the quality of sweetness. It does not say how much of this quality it has. In sentence 2, sweeter tells us that Hari's mango has more of the quality of sweetness than Rama's. In sentence 3, sweetest tells us that Govind's mango has the greatest amount of the quality of sweetness."
+      },
+      {
+        "t": "p",
+        "x": "So we see that Adjectives change in form (sweet, sweeter, sweetest) to show comparison. They are called the three Degrees of Comparison."
+      },
+      {
+        "t": "def",
+        "x": "§80 The Adjective sweet is said to be in the Positive Degree."
+      },
+      {
+        "t": "def",
+        "x": "§80 The Positive Degree of an Adjective is the Adjective in its simple form. It is used to denote the mere existence of some quality of what we speak about. It is used when no comparison is made."
+      },
+      {
+        "t": "def",
+        "x": "§80 The Adjective sweeter is said to be in the Comparative Degree."
+      },
+      {
+        "t": "def",
+        "x": "§80 The Comparative Degree of an Adjective denotes a higher degree of the quality than the Positive, and is used when two things (or sets of things) are compared."
+      },
+      {
+        "t": "ex",
+        "x": "This boy is stronger than that.\nWhich of these two pens is the better?\nApples are dearer than oranges."
+      },
+      {
+        "t": "def",
+        "x": "§80 The Adjective sweetest is said to be in the Superlative Degree."
+      },
+      {
+        "t": "def",
+        "x": "§80 The Superlative Degree of an Adjective denotes the highest degree of the quality, and is used when more than two things (or sets of things) are compared."
+      },
+      {
+        "t": "ex",
+        "x": "This boy is the strongest in the class."
+      },
+      {
+        "t": "note",
+        "x": "Note 1 — There is another way in which we can compare things. Instead of saying 'Rama is stronger than Balu', we can say 'Balu is less strong than Rama'. Instead of saying 'Hari is the laziest boy in the class', we can say 'Hari is the least industrious boy in the class'."
+      },
+      {
+        "t": "note",
+        "x": "Note 2 — The Superlative with most is sometimes used where there is no idea of comparison, but merely a desire to indicate the possession of a quality in a very high degree. This usage has been called the Superlative of Eminence, or the Absolute Superlative."
+      },
+      {
+        "t": "ex",
+        "x": "This is most unfortunate.\nIt was a most beautiful day.\nIt was a most wonderful surprise."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "h",
+        "x": "Formation of Comparative and Superlative"
+      },
+      {
+        "t": "rule",
+        "x": "§81 Most Adjectives of one syllable, and some of more than one, form the Comparative by adding er and the Superlative by adding est to the Positive."
+      },
+      {
+        "t": "ex",
+        "x": "Sweet — sweeter — sweetest; Small — smaller — smallest; Tall — taller — tallest; Bold — bolder — boldest; Clever — cleverer — cleverest; Kind — kinder — kindest; Young — younger — youngest; Great — greater — greatest."
+      },
+      {
+        "t": "rule",
+        "x": "§81 When the Positive ends in e, only r and st are added."
+      },
+      {
+        "t": "ex",
+        "x": "Brave — braver — bravest; Fine — finer — finest; White — whiter — whitest; Large — larger — largest; Able — abler — ablest; Noble — nobler — noblest; Wise — wiser — wisest."
+      },
+      {
+        "t": "rule",
+        "x": "§81 When the Positive ends in y, preceded by a consonant, the y is changed into i before adding er and est."
+      },
+      {
+        "t": "ex",
+        "x": "Happy — happier — happiest; Easy — easier — easiest; Heavy — heavier — heaviest; Merry — merrier — merriest; Wealthy — wealthier — wealthiest."
+      },
+      {
+        "t": "rule",
+        "x": "§81 When the Positive is a word of one syllable and ends in a single consonant, preceded by a short vowel, this consonant is doubled before adding er and est."
+      },
+      {
+        "t": "ex",
+        "x": "Red — redder — reddest; Big — bigger — biggest; Hot — hotter — hottest; Thin — thinner — thinnest; Sad — sadder — saddest; Fat — fatter — fattest."
+      },
+      {
+        "t": "rule",
+        "x": "§82 Adjectives of more than two syllables form the Comparative and Superlative by putting more and most before the Positive."
+      },
+      {
+        "t": "ex",
+        "x": "Beautiful — more beautiful — most beautiful; Difficult — more difficult — most difficult; Industrious — more industrious — most industrious; Courageous — more courageous — most courageous."
+      },
+      {
+        "t": "rule",
+        "x": "§82 Two-syllable adjectives ending in ful (e.g. useful), less (e.g. hopeless), ing (e.g. boring) and ed (e.g. surprised) and many others (e.g. modern, recent, foolish, famous, certain) take more and most."
+      },
+      {
+        "t": "rule",
+        "x": "§82 The following take either er and est or more and most: polite, simple, feeble, gentle, narrow, cruel, common, handsome, pleasant, stupid."
+      },
+      {
+        "t": "ex",
+        "x": "She is politer/more polite than her sister.\nHe is the politest/most polite of them."
+      },
+      {
+        "t": "rule",
+        "x": "§83 The Comparative in er is not used when we compare two qualities in the same person or thing."
+      },
+      {
+        "t": "ex",
+        "x": "Rama is braver than Balu. (We compare the courage of Rama with the courage of Balu.)\nRama is more brave than prudent. (We compare the courage of Rama with his prudence.)"
+      },
+      {
+        "t": "rule",
+        "x": "§84 When two objects are compared with each other, the latter term of comparison must exclude the former."
+      },
+      {
+        "t": "ex",
+        "x": "Iron is more useful than any other metal.\nIf we say, 'Iron is more useful than any metal', that is the same thing as saying 'Iron is more useful than iron' since iron is itself a metal."
+      },
+      {
+        "t": "h",
+        "x": "Irregular Comparison"
+      },
+      {
+        "t": "rule",
+        "x": "§85 The following Adjectives are compared irregularly, that is, their Comparative and Superlative are not formed from the Positive."
+      },
+      {
+        "t": "ex",
+        "x": "Good, well — better — best\nBad, evil, ill — worse — worst\nLittle — less, lesser — least\nMuch — more — most (quantity)\nMany — more — most (number)\nLate — later, latter — latest, last\nOld — older, elder — oldest, eldest\nFar — farther — farthest\n(Nigh) — (nigher) — nighest, next\n(Fore) — (former) — foremost, first\n(Fore) — further — furthest\n(In) — inner — inmost, innermost\n(Up) — upper — upmost, uppermost\n(Out) — outer, (utter) — utmost, uttermost"
+      },
+      {
+        "t": "note",
+        "x": "The forms nigh, nigher, nighest, fore and utter are outdated."
+      },
+      {
+        "t": "rule",
+        "x": "§86 The double forms of the Comparative and Superlative of the Adjectives given in §85 are used in different ways. Later, latter; latest, last — Later and latest refer to time; latter and last refer to position."
+      },
+      {
+        "t": "ex",
+        "x": "He is later than I expected.\nI have not heard the latest news.\nThe latter chapters are lacking in interest.\nThe last chapter is carelessly written.\nOurs is the last house in the street."
+      },
+      {
+        "t": "rule",
+        "x": "§86 Elder, older; eldest, oldest — Elder and eldest are used only of persons, not of animals or things; and are now confined to members of the same family. Elder is not used with than. Older and oldest are used of both persons and things."
+      },
+      {
+        "t": "ex",
+        "x": "John is my elder brother.\nTom is my eldest son.\nHe is older than his sister.\nRama is the oldest boy in the class.\nThis is the oldest temple in Kolkata."
+      },
+      {
+        "t": "rule",
+        "x": "§86 Farther, further — Both farther and further are used to express distance. Further, not farther, is used to mean 'additional'."
+      },
+      {
+        "t": "ex",
+        "x": "Kolkata is farther/further from the equator than Colombo.\nAfter this he made no further remarks.\nI must have a reply without further delay."
+      },
+      {
+        "t": "rule",
+        "x": "§86 Nearest, next — Nearest means the shortest distance away. Next refers to one of a sequence of things coming one after the other."
+      },
+      {
+        "t": "ex",
+        "x": "Mumbai is the seaport nearest to Europe.\nWhere is the nearest phone box?\nKarim's shop is next to the post office.\nMy uncle lives in the next house."
+      },
+      {
+        "t": "rule",
+        "x": "§87 Certain English Comparatives have lost their comparative meaning and are used as Positive. They cannot be followed by than. These are: former, latter, elder, hinder, upper, inner, outer, utter."
+      },
+      {
+        "t": "ex",
+        "x": "Both the tiger and the leopard are cats; the former animal is much larger than the latter.\nThe inner meaning of this letter is not clear.\nThe soldiers ran to defend the outer wall.\nMy elder brother is an engineer.\nThis man is an utter fool."
+      },
+      {
+        "t": "rule",
+        "x": "§88 Certain Comparatives borrowed from Latin have no Positive or Superlative degree. They all end in or, not er. They are twelve in all. Five of them have lost their Comparative meaning, and are used as Positive Adjectives. These are: interior, exterior, ulterior, major, minor."
+      },
+      {
+        "t": "ex",
+        "x": "The exterior wall of the house is made of stone; the interior walls are of wood.\nHis age is a matter of minor importance.\nI have no ulterior motive in offering you help."
+      },
+      {
+        "t": "rule",
+        "x": "§88 The other seven are used as Comparative Adjectives but are followed by to instead of than (See §89)."
+      },
+      {
+        "t": "rule",
+        "x": "§89 The comparative degree is generally followed by than; but Comparative Adjectives ending in -or are followed by the preposition to."
+      },
+      {
+        "t": "ex",
+        "x": "inferior, superior, prior, anterior, posterior, senior, junior.\nHari is inferior to Ram in intelligence.\nRama's intelligence is superior to Hari's.\nHis marriage was prior to his father's death.\nHe is junior to all his colleagues.\nAll his colleagues are senior to him."
+      },
+      {
+        "t": "rule",
+        "x": "§90 Adjectives expressing qualities that do not admit of different degrees cannot, strictly speaking, be compared; as, square, round, perfect, eternal, universal, unique."
+      },
+      {
+        "t": "ex",
+        "x": "Strictly speaking, a thing cannot be more square, more round, more perfect. But we say, for instance,\nThis is the most perfect specimen I have seen."
+      },
+      {
+        "t": "h",
+        "x": "Interchange of the Degrees of Comparison"
+      },
+      {
+        "t": "rule",
+        "x": "§91 As the following examples show, it is possible to change the Degree of Comparison of an Adjective in a sentence, without changing the meaning of the sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Superlative — Lead is the heaviest of all metals.\nComparative — Lead is heavier than all other metals.\nComparative — Mahabaleshwar is cooler than Panchgani.\nPositive — Panchgani is not so cool as Mahabaleshwar.\nPositive — He is as wise as Solomon.\nComparative — Solomon was not wiser than he is.\nSuperlative — Shakuntalam is the best drama in Sanskrit.\nComparative — Shakuntalam is better than any other drama in Sanskrit.\nPositive — No other drama in Sanskrit is as good as Shakuntalam.\nSuperlative — Chennai is one of the biggest of Indian cities.\nComparative — Chennai is bigger than most other Indian cities.\nPositive — Very few Indian cities are as big as Chennai.\nPositive — Some poets are at least as great as Tennyson.\nComparative — Tennyson is not greater than some other poets.\nComparative — Some poets are not less great than Tennyson.\nSuperlative — Tennyson is not the greatest of all poets."
+      }
+    ],
    "unit": 10,
    "title": "Comparison of Adjectives",
    "display": "Comparison of Adjectives",
@@ -4758,6 +6422,72 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Adjectives used as Nouns"
+      },
+      {
+        "t": "p",
+        "x": "Adjectives are often used as Nouns."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§92 (1) Adjectives are used as Plural Nouns denoting a class of persons."
+      },
+      {
+        "t": "ex",
+        "x": "The cautious (= cautious persons) are not always cowards.\nThe rich (= rich people) know not how the poor (= poor people) live.\nThe wicked (= wicked people) run away when nobody follows them, but the righteous (= righteous people) are bold as a lion.\nBlessed are the meek."
+      },
+      {
+        "t": "rule",
+        "x": "§92 (2) Adjectives are used as Singular Nouns denoting some abstract quality."
+      },
+      {
+        "t": "ex",
+        "x": "The future (= futurity) is unknown to us.\nHe is a lover of the beautiful (= beauty in general)."
+      },
+      {
+        "t": "rule",
+        "x": "§92 (3) Some Adjectives actually become Nouns, and are hence used in both numbers: (a) those derived from Proper Nouns; (b) some denoting persons; (c) a few denoting things generally."
+      },
+      {
+        "t": "ex",
+        "x": "(a) Australians, Canadians, Italians.\n(b) juniors, seniors, mortals, inferiors, superiors, nobles, criminals, savages, elders, minors.\n(c) secrets, totals, liquids, solids, valuables."
+      },
+      {
+        "t": "note",
+        "x": "Some adjectives are used as Nouns only in the plural; as, sweets, bitters, valuables, eatables."
+      },
+      {
+        "t": "rule",
+        "x": "§92 (4) Adjectives are used as Nouns in certain phrases."
+      },
+      {
+        "t": "ex",
+        "x": "in general; in future; in short; in secret; before long; at present; for good; at best; through thick and thin; for better or for worse; in black and white; right or wrong; from bad to worse; the long and short."
+      },
+      {
+        "t": "ex",
+        "x": "In future I shall charge you for medical advice.\nIn short, we know nothing.\nThe talks were held in secret.\nI shall see you before long.\nBefore long, he will get a better job.\nAt present, he is in money trouble.\nI do not want any more at present.\nHe has left India for good.\nWe can't arrive before Saturday at best.\nHe stayed with his friend through thick and thin.\nI want your answer in black and white.\nRight or wrong, my country.\nI am afraid the young man is going from bad to worse.\nThe long and short of it is that I do not trust you."
+      },
+      {
+        "t": "h",
+        "x": "Nouns used as Adjectives"
+      },
+      {
+        "t": "rule",
+        "x": "§93 The use of Nouns as Adjectives is very common in English."
+      },
+      {
+        "t": "ex",
+        "x": "I met a little cottage girl.\nHe is always playing computer games."
+      }
+    ],
    "unit": 11,
    "title": "Adjectives used as Nouns",
    "display": "Adjectives used as Nouns",
@@ -4915,6 +6645,56 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§94 A single Adjective used attributively is generally placed immediately before the noun."
+      },
+      {
+        "t": "ex",
+        "x": "King Francis was a hearty king, and loved a royal sport.\nWhere are you going, my pretty maid, with your rosy cheeks and golden hair?\nO Captain! my Captain! our fearful trip is done."
+      },
+      {
+        "t": "note",
+        "x": "Observe the difference in meaning between: (i) a great nobleman's son, and (ii) a nobleman's great son. The Adjective goes with the noun it stands next to: in (i) great goes with nobleman, the son of a great nobleman; in (ii) great goes with son, the great son of a nobleman."
+      },
+      {
+        "t": "rule",
+        "x": "§95 In poetry, however, the Adjective is frequently placed after the noun."
+      },
+      {
+        "t": "ex",
+        "x": "Children dear, was it yesterday?\nWe heard the sweet bells over the bay.\nO man with sisters dear!"
+      },
+      {
+        "t": "rule",
+        "x": "§96 When several Adjectives are attached to one noun they are generally placed after it for emphasis."
+      },
+      {
+        "t": "ex",
+        "x": "There lived a farmer, strong and brave.\nThe king, brave and firm, moved forward at once.\nHe had a great mind, quick, brave, and wise."
+      },
+      {
+        "t": "rule",
+        "x": "§97 When some word or phrase is joined to the Adjective to explain its meaning, the Adjective is placed after its noun."
+      },
+      {
+        "t": "ex",
+        "x": "He was a man rich in ideas.\nA Sikh, taller than any of his friends, rushed forward."
+      },
+      {
+        "t": "rule",
+        "x": "§98 In certain phrases the Adjective always comes after the noun."
+      },
+      {
+        "t": "ex",
+        "x": "heir apparent, time immemorial, lord paramount, viceroy elect, letters patent, knights temporal, notary public, body politic, God Almighty."
+      }
+    ],
    "unit": 12,
    "title": "Position of Adjectives",
    "display": "Position of Adjectives",
@@ -5063,6 +6843,116 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§99 Some, any — To express quantity or degree, some is used normally in affirmative sentences, any in negative or interrogative sentences."
+      },
+      {
+        "t": "ex",
+        "x": "I will buy some mangoes.\nI will not buy any mangoes.\nHave you bought any mangoes?"
+      },
+      {
+        "t": "rule",
+        "x": "§99 But any can be used after if in affirmative sentences."
+      },
+      {
+        "t": "ex",
+        "x": "If you need any money I will help you."
+      },
+      {
+        "t": "rule",
+        "x": "§99 Some is used in questions which are really offers/requests or which expect the answer 'yes'."
+      },
+      {
+        "t": "ex",
+        "x": "Will you have some ice-cream? (Offer)\nCould you lend me some money? (Request)\nDid you buy some clothes? (= I expect you did.)"
+      },
+      {
+        "t": "rule",
+        "x": "§100 Each, every — Each and every are similar in meaning, but every is a stronger word than each; it means, 'each without exception'."
+      },
+      {
+        "t": "rule",
+        "x": "§100 Each is used in speaking of two or more things; every is used only in speaking of more than two."
+      },
+      {
+        "t": "ex",
+        "x": "Five boys were seated on each bench.\nEach one of these chairs is broken.\nEvery seat was taken."
+      },
+      {
+        "t": "rule",
+        "x": "§100 Each directs attention to the individuals forming any group, every to the total group."
+      },
+      {
+        "t": "ex",
+        "x": "I was away ten days and it rained each day.\nIt rained every day during my holidays."
+      },
+      {
+        "t": "rule",
+        "x": "§100 Each is used only when the number in the group is limited and definite; every when the number is indefinite."
+      },
+      {
+        "t": "ex",
+        "x": "Leap year falls in every fourth year.\nHe came to see us every three days [i.e., once in every period of three days]."
+      },
+      {
+        "t": "rule",
+        "x": "§101 Little, a little, the little — Note carefully the use of (1) little, (2) a little, (3) the little. Little = not much (i.e., hardly any). Thus, the adjective little has a negative meaning."
+      },
+      {
+        "t": "ex",
+        "x": "There is little hope of his recovery, i.e., he is not likely to recover.\nHe showed little concern for his nephew.\nHe has little influence with his old followers.\nHe showed little mercy to the defeated soldiers.\nHe has little appreciation of good poetry."
+      },
+      {
+        "t": "rule",
+        "x": "§101 A little = some though not much. 'A little' has a positive meaning."
+      },
+      {
+        "t": "ex",
+        "x": "There is a little hope of his recovery, i.e., he may possibly recover.\nA little care would have saved the situation.\nA little knowledge is a dangerous thing."
+      },
+      {
+        "t": "rule",
+        "x": "§101 The little = not much, but all there is."
+      },
+      {
+        "t": "ex",
+        "x": "The little information he had was not quite reliable.\nThe little money he had was very useful to him."
+      },
+      {
+        "t": "rule",
+        "x": "§102 Few, a few, the few — Note carefully the use of (1) few, (2) a few, (3) the few. Few = not many, hardly any. 'Few' has a negative meaning."
+      },
+      {
+        "t": "ex",
+        "x": "Few persons can keep a secret.\nFew people are so hopeless as drunkards.\nFew towns in India have public libraries.\nFew books are as useful as a dictionary.\nFew men are free from faults.\nFew men reach the age of one hundred years.\nFew Parsees write Gujarati correctly."
+      },
+      {
+        "t": "rule",
+        "x": "§102 A few = some. 'A few' has a positive meaning, and is opposed to 'none'."
+      },
+      {
+        "t": "ex",
+        "x": "A few kind words will convince him.\nA few Parsees write Gujarati correctly."
+      },
+      {
+        "t": "rule",
+        "x": "§102 The few = not many, but all there are."
+      },
+      {
+        "t": "ex",
+        "x": "The few words he said were very helpful.\nThe few friends he has are all very poor.\nThe few clothes they had were all old and torn."
+      },
+      {
+        "t": "note",
+        "x": "The sentence means — The words he said were not many; but all those words were very helpful."
+      }
+    ],
    "unit": 13,
    "title": "The Correct Use of Some Adjectives",
    "display": "The Correct Use of Some Adjectives",
@@ -5330,6 +7220,380 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What are Articles?"
+      },
+      {
+        "t": "def",
+        "x": "§103 The Adjectives a or an and the are usually called Articles. They are really Demonstrative Adjectives."
+      },
+      {
+        "t": "def",
+        "x": "§104 There are two Articles — a (or an) and the."
+      },
+      {
+        "t": "def",
+        "x": "§105 A or an is called the Indefinite Article, because it usually leaves indefinite the person or thing spoken of."
+      },
+      {
+        "t": "ex",
+        "x": "a doctor; that is, any doctor."
+      },
+      {
+        "t": "def",
+        "x": "§106 The is called the Definite Article, because it normally points out some particular person or thing."
+      },
+      {
+        "t": "ex",
+        "x": "He saw the doctor; meaning some particular doctor."
+      },
+      {
+        "t": "p",
+        "x": "The indefinite article is used before singular countable nouns, e.g., a book, an orange, a girl. The definite article is used before singular countable nouns, plural countable nouns and uncountable nouns, e.g., the book, the books, the milk."
+      },
+      {
+        "t": "h",
+        "x": "A or An"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§107 The choice between a and an is determined by sound. Before a word beginning with a vowel sound an is used."
+      },
+      {
+        "t": "ex",
+        "x": "an ass, an enemy, an inkstand, an orange, an umbrella, an hour, an honest man, an heir."
+      },
+      {
+        "t": "note",
+        "x": "It will be noticed that the words hour, honest, heir begin with a vowel sound, as the initial consonant h is not pronounced."
+      },
+      {
+        "t": "rule",
+        "x": "§108 Before a word beginning with a consonant sound a is used."
+      },
+      {
+        "t": "ex",
+        "x": "a boy, a reindeer, a woman, a yard, a horse, a hole;\nalso a university, a union, a European, a ewe, a unicorn, a useful article; because these words (university, union, etc.) begin with a consonant sound, that of yu. Similarly we say,\na one-rupee note, such a one, a one-eyed man; because one begins with the consonant sound of w."
+      },
+      {
+        "t": "rule",
+        "x": "§109 Some native speakers use an before words beginning with h if the first syllable is not stressed."
+      },
+      {
+        "t": "ex",
+        "x": "An hotel (More common: a hotel)\nan historical novel (More common: a historical novel)"
+      },
+      {
+        "t": "h",
+        "x": "Use of the Definite Article"
+      },
+      {
+        "t": "rule",
+        "x": "§110 (1) The Definite Article the is used when we talk about a particular person or thing, or one already referred to (that is, when it is clear from the context which one we mean)."
+      },
+      {
+        "t": "ex",
+        "x": "The book you want is out of print. (Which book? The one you want.)\nLet's go to the park. (= the park in this town)\nThe girl cried. (the girl = the girl already talked about)"
+      },
+      {
+        "t": "rule",
+        "x": "§110 (2) The is used when a singular noun is meant to represent a whole class."
+      },
+      {
+        "t": "ex",
+        "x": "The cow is a useful animal. [Or we may say, 'Cows are useful animals.']\nThe horse is a noble animal.\nThe cat loves comfort.\nThe rose is the sweetest of all flowers.\nThe banyan is a kind of fig tree."
+      },
+      {
+        "t": "note",
+        "x": "Do not say, 'a kind of a fig tree'. This is a common error."
+      },
+      {
+        "t": "note",
+        "x": "The two nouns man and woman can be used in a general sense without either article. Man is the only animal that uses fire. Woman is man's mate. But in present-day English a man and a woman (or men and women) are more usual. A woman is more sensitive than a man."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (3) The is used before some proper names, viz., these kinds of place-names: (a) oceans and seas, (b) rivers, (c) canals, (d) deserts, (e) groups of islands, (f) mountain ranges, (g) a very few names of countries, which include words like republic and kingdom."
+      },
+      {
+        "t": "ex",
+        "x": "(a) the Pacific, the Black Sea\n(b) the Ganga, the Nile\n(c) the Suez Canal\n(d) the Sahara\n(e) the West Indies\n(f) the Himalayas, the Alps\n(g) the Irish Republic, the United Kingdom; also: the Ukraine, the Netherlands (and its seat of government the Hague)"
+      },
+      {
+        "t": "rule",
+        "x": "§110 (4) The is used before the names of certain books."
+      },
+      {
+        "t": "ex",
+        "x": "the Vedas, the Puranas, the Iliad, the Ramayana.\nBut we say — Homer's Iliad, Valmiki's Ramayana."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (5) The is used before names of things unique of their kind."
+      },
+      {
+        "t": "ex",
+        "x": "The sun, the sky, the ocean, the sea, the earth."
+      },
+      {
+        "t": "note",
+        "x": "Sometimes the is placed before a Common noun to give it the meaning of an Abstract noun; as, At last the warrior (the warlike or martial spirit) in him was thoroughly aroused."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (6) The is used before a Proper Noun when it is qualified by an adjective or a defining adjectival clause."
+      },
+      {
+        "t": "ex",
+        "x": "The great Caesar: the immortal Shakespeare.\nThe Mr. Roy whom you met last night is my uncle."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (7) The is used with Superlatives."
+      },
+      {
+        "t": "ex",
+        "x": "The darkest cloud has a silver lining.\nThis is the best book of elementary chemistry."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (8) The is used with ordinals."
+      },
+      {
+        "t": "ex",
+        "x": "He was the first man to arrive.\nThe ninth chapter of the book is very interesting."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (9) The is used before musical instruments."
+      },
+      {
+        "t": "ex",
+        "x": "He can play the flute."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (10) The is used before an adjective when the noun is understood."
+      },
+      {
+        "t": "ex",
+        "x": "The poor are always with us."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (11) The is used before a noun (with emphasis) to give the force of a Superlative."
+      },
+      {
+        "t": "ex",
+        "x": "The Verb is the word (= the chief word) in a sentence."
+      },
+      {
+        "t": "rule",
+        "x": "§110 (12) The is used as an Adverb with Comparatives."
+      },
+      {
+        "t": "ex",
+        "x": "The more the merrier. (= by how much more, by so much the merrier)\nThe more they get, the more they want."
+      },
+      {
+        "t": "h",
+        "x": "Use of the Indefinite Article"
+      },
+      {
+        "t": "rule",
+        "x": "§111 (1) The Indefinite Article is used in its original numerical sense of one."
+      },
+      {
+        "t": "ex",
+        "x": "Twelve inches make a foot.\nNot a word was said.\nA word to the wise is sufficient.\nA bird in the hand is worth two in the bush."
+      },
+      {
+        "t": "rule",
+        "x": "§111 (2) The Indefinite Article is used in the vague sense of a certain."
+      },
+      {
+        "t": "ex",
+        "x": "A Kishore Kumar (= a certain person named Kishore Kumar) is suspected by the police.\nOne evening a beggar came to my door."
+      },
+      {
+        "t": "rule",
+        "x": "§111 (3) The Indefinite Article is used in the sense of any, to single out an individual as the representative of a class."
+      },
+      {
+        "t": "ex",
+        "x": "A pupil should obey his teacher.\nA cow is a useful animal."
+      },
+      {
+        "t": "rule",
+        "x": "§111 (4) The Indefinite Article is used to make a common noun of a proper noun."
+      },
+      {
+        "t": "ex",
+        "x": "A Daniel has come to judge us! (A Daniel = a very wise man)"
+      },
+      {
+        "t": "h",
+        "x": "Omission of the Article"
+      },
+      {
+        "t": "rule",
+        "x": "§112 (1) The Article is omitted before names of substances and abstract nouns (i.e. uncountable nouns) used in a general sense."
+      },
+      {
+        "t": "ex",
+        "x": "Sugar is bad for your teeth.\nGold is a precious metal.\nWisdom is the gift of heaven.\nHonesty is the best policy.\nVirtue is its own reward."
+      },
+      {
+        "t": "note",
+        "x": "Note 1 — Uncountable nouns take the when used in a particular sense (especially when qualified by an adjective or adjectival phrase or clause)."
+      },
+      {
+        "t": "ex",
+        "x": "Would you pass me the sugar? (= the sugar on the table)\nThe wisdom of Solomon is great.\nI can't forget the kindness with which he treated me."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (2) The Article is omitted before plural countable nouns used in a general sense."
+      },
+      {
+        "t": "ex",
+        "x": "Children like chocolates.\nComputers are used in many offices."
+      },
+      {
+        "t": "note",
+        "x": "Note that such nouns take the when used with a particular meaning; as, Where are the children? (= our children)"
+      },
+      {
+        "t": "rule",
+        "x": "§112 (3) The Article is omitted before most proper nouns (except those referred to earlier), namely, names of people (e.g. Gopal, Rahim), names of continents, countries, cities, etc. (e.g. Europe, Pakistan, Nagpur), names of individual mountains (e.g. Mount Everest), individual islands, lakes, hills, etc."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (4) The Article is omitted before names of meals (used in a general sense)."
+      },
+      {
+        "t": "ex",
+        "x": "What time do you have lunch?\nDinner is ready."
+      },
+      {
+        "t": "note",
+        "x": "We use a when there is an adjective before breakfast, lunch, dinner, etc. We use the when we specify."
+      },
+      {
+        "t": "ex",
+        "x": "I had a late lunch today.\nThe dinner we had at the Tourist Hotel was very nice."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (5) The Article is omitted before languages."
+      },
+      {
+        "t": "ex",
+        "x": "We are studying English.\nThey speak Punjabi at home."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (6) The Article is omitted before school, college, church, bed, table, hospital, market, prison, when these places are visited or used for their primary purpose."
+      },
+      {
+        "t": "ex",
+        "x": "I learnt French at school.\nWe go to church on Sundays.\nHe stays in bed till nine every morning.\nMy uncle is still in hospital."
+      },
+      {
+        "t": "note",
+        "x": "The is used with these words when we refer to them as a definite place, building or object rather than to the normal activity that goes on there."
+      },
+      {
+        "t": "ex",
+        "x": "The school is very near my home.\nI met him at the church.\nThe bed is broken.\nI went to the hospital to see my uncle."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (7) The Article is omitted before names of relations, like father, mother, aunt, uncle, and also cook and nurse, meaning 'our cook', 'our nurse'."
+      },
+      {
+        "t": "ex",
+        "x": "Father has returned.\nAunt wants you to see her.\nCook has given notice."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (8) The Article is omitted before predicative nouns denoting a unique position, i.e., a position that is normally held at one time by one person only."
+      },
+      {
+        "t": "ex",
+        "x": "He was elected chairman of the Board.\nMr Banerji became Principal of the college in 1995."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (9) The Article is omitted in certain phrases consisting of a transitive verb followed by its object."
+      },
+      {
+        "t": "ex",
+        "x": "to catch fire, to take breath, to give battle, to cast anchor, to send word, to bring word, to give ear, to lay siege, to set sail, to lose heart, to set foot, to leave home, to strike root, to take offence."
+      },
+      {
+        "t": "rule",
+        "x": "§112 (10) The Article is omitted in certain phrases consisting of a preposition followed by its object."
+      },
+      {
+        "t": "ex",
+        "x": "at home, in hand, in debt, by day, by night, at daybreak, at sunrise, at noon, at sunset, at night, at anchor, at sight, on demand, at interest, on earth, by land, by water, by river, by train, by steamer, by name, on horseback, on foot, on deck, in jest, at dinner, at ease, under ground, above ground."
+      },
+      {
+        "t": "h",
+        "x": "Repetition of the Article"
+      },
+      {
+        "t": "rule",
+        "x": "§113 Hence when two or more adjectives qualify the same noun, the Article is used before the first adjective only; but when they qualify different nouns, expressed or understood, the Article is normally used before each adjective."
+      },
+      {
+        "t": "ex",
+        "x": "I have a black and white dog. (I mean a dog that is partly black and partly white.)\nBut if I say — I have a black and a white dog, I mean two dogs, one black and the other white."
+      },
+      {
+        "t": "rule",
+        "x": "§114 Hence we see that when two or more connected nouns refer to the same person or thing, the Article is ordinarily used before the first only; but when two or more connected nouns refer to different persons or things, the Article is used before each."
+      },
+      {
+        "t": "ex",
+        "x": "1. The Secretary and Treasurer is absent. (The posts of Secretary and Treasurer are held by one person.)\n2. The Secretary and the Treasurer are absent. (The repetition of the article in the second sentence indicates that the two posts are held by two different persons.)"
+      },
+      {
+        "t": "p",
+        "x": "Also examine the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Sir Surendranath was a great orator and statesman.\nThere are on the committee among others a great economist and a great lawyer."
+      },
+      {
+        "t": "rule",
+        "x": "§115 We may either say — The third and the fourth chapter. [Or] The third and fourth chapters."
+      },
+      {
+        "t": "rule",
+        "x": "§116 In expressing a comparison, if two nouns refer to the same person or thing, the Article is used before the first noun only."
+      },
+      {
+        "t": "ex",
+        "x": "He is a better mechanic than clerk.\nHe is a better poet than novelist.\nHe is a better thinker than debater.\nHe would make a better engineer than lawyer."
+      },
+      {
+        "t": "rule",
+        "x": "§116 But if they refer to different persons or things, the Article must be used with each noun."
+      },
+      {
+        "t": "ex",
+        "x": "He is a better mechanic than a clerk (would make).\nHe would make a better statesman than a philosopher (would make)."
+      }
+    ],
    "unit": 14,
    "title": "Articles",
    "display": "Articles",
@@ -6044,6 +8308,276 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Personal Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§117. Hari is absent, because Hari is ill. This sentence repeats the noun Hari. It is better to avoid the repetition and say: Hari is absent, because he is ill. Here the word he is used instead of the noun Hari."
+      },
+      {
+        "t": "def",
+        "x": "§117. Def. — A Pronoun is a word used instead of a Noun. [Pronoun means for-a-noun.]"
+      },
+      {
+        "t": "h",
+        "x": "The Three Persons"
+      },
+      {
+        "t": "p",
+        "x": "§118. I, we, you, he, (she, it), they are called Personal Pronouns because they stand for the three persons: (i) the person speaking, (ii) the person spoken to, and (iii) the person spoken of."
+      },
+      {
+        "t": "ex",
+        "x": "I am young.\nWe are young.\nYou are young.\nThey are young.\nHe (she, it) is young."
+      },
+      {
+        "t": "p",
+        "x": "The Pronouns I and we, which denote the person or persons speaking, are said to be Personal Pronouns of the First Person."
+      },
+      {
+        "t": "p",
+        "x": "The Pronoun you, which denotes the person or persons spoken to, is said to be a Personal Pronoun of the Second Person. You is used both in the singular and plural."
+      },
+      {
+        "t": "p",
+        "x": "The pronouns he (she) and they, which denote the person or persons spoken of, are said to be Personal Pronouns of the Third Person. It, although it denotes the thing spoken of, is also called a Personal Pronoun of the Third Person. [The Personal Pronouns of the Third Person are, strictly speaking, Demonstrative Pronouns.]"
+      },
+      {
+        "t": "h",
+        "x": "Forms of the Personal Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§119. The following are the different forms of the Personal Pronouns.\nFIRST PERSON (Masculine or Feminine)\nNominative: I (Singular), we (Plural)\nPossessive: my, mine (Singular); our, ours (Plural)\nAccusative: me (Singular), us (Plural)"
+      },
+      {
+        "t": "p",
+        "x": "SECOND PERSON (Masculine or Feminine) — SINGULAR/PLURAL\nNominative: you\nPossessive: your, yours\nAccusative: you"
+      },
+      {
+        "t": "p",
+        "x": "THIRD PERSON\nNominative: he (Masculine), she (Feminine), it (Neuter) — Singular; they (All Genders) — Plural\nPossessive: his (Masculine); her, hers (Feminine); its (Neuter) — Singular; their, theirs (All Genders) — Plural\nAccusative: him (Masculine), her (Feminine), it (Neuter) — Singular; them (All Genders) — Plural"
+      },
+      {
+        "t": "note",
+        "x": "§119. Note 1 — The Possessive Cases of most of the Personal Pronouns have two forms. The forms my, our, your, her, their are called Possessive Adjectives because they are used with nouns and do the work of Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "This is my book.\nThose are your books.\nThat is her book."
+      },
+      {
+        "t": "p",
+        "x": "Possessive Adjectives are sometimes called Pronominal Adjectives, as they are formed from Pronouns."
+      },
+      {
+        "t": "note",
+        "x": "§119. Note 2 — The word his is used both as an Adjective and as a Pronoun."
+      },
+      {
+        "t": "ex",
+        "x": "This is his book. (Possessive Adjective)\nThis book is his. (Possessive Pronoun)"
+      },
+      {
+        "t": "p",
+        "x": "In the following sentences the words in italics are Possessive Pronouns:"
+      },
+      {
+        "t": "ex",
+        "x": "This book is mine.\nThose books are yours.\nThat book is hers.\nThat idea of yours is excellent."
+      },
+      {
+        "t": "h",
+        "x": "Gender of the Third Person"
+      },
+      {
+        "t": "p",
+        "x": "§120. The Pronoun of the Third Person has three Genders:\nMasculine: he\nFeminine: she\nNeuter: it"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§121. (1) It is used for things without life."
+      },
+      {
+        "t": "ex",
+        "x": "Here is your book; take it away."
+      },
+      {
+        "t": "rule",
+        "x": "§121. (2) It is used for animals, unless we clearly wish to speak of them as male and female."
+      },
+      {
+        "t": "ex",
+        "x": "He loves his dog and cannot do without it.\nThe horse fell and broke its leg."
+      },
+      {
+        "t": "rule",
+        "x": "§121. (3) It is used for a young child, unless we clearly wish to refer to the sex."
+      },
+      {
+        "t": "ex",
+        "x": "When I saw the child it was crying.\nThat baby has torn its clothes."
+      },
+      {
+        "t": "rule",
+        "x": "§121. (4) It is used to refer to some statement going before."
+      },
+      {
+        "t": "ex",
+        "x": "He is telling what is not true; and he knows it.\nHe deserved his punishment; and he knew it."
+      },
+      {
+        "t": "rule",
+        "x": "§121. (5) It is used as a temporary subject before the verb to be, when the real subject comes later."
+      },
+      {
+        "t": "ex",
+        "x": "It is easy to find fault. [To find fault is easy.]\nIt is doubtful whether he will come.\nIt is certain that you are wrong."
+      },
+      {
+        "t": "rule",
+        "x": "§121. (6) It is used to give emphasis to the noun or pronoun following."
+      },
+      {
+        "t": "ex",
+        "x": "It was you who began the quarrel.\nIt was I who first protested.\nIt was at Versailles that the treaty was made.\nIt is a silly fish that is caught twice with the same bait.\nIt is an ill wind that blows nobody good."
+      },
+      {
+        "t": "rule",
+        "x": "§121. (7) It is used as the subject of an impersonal verb — a verb that talks about the weather or nature, not about a person or thing."
+      },
+      {
+        "t": "ex",
+        "x": "It rains.\nIt snows.\nIt thunders."
+      },
+      {
+        "t": "p",
+        "x": "The Pronoun it here seems to stand for no noun whatever, though this can be readily supplied from the verb. Thus, 'It rains' means 'The rain rains'."
+      },
+      {
+        "t": "def",
+        "x": "It so used is called an Impersonal Pronoun. So also the verb rains is here called an Impersonal Verb."
+      },
+      {
+        "t": "rule",
+        "x": "§121. (8) It is used in speaking of the weather or the time."
+      },
+      {
+        "t": "ex",
+        "x": "It is fine.\nIt is winter.\nIt is ten o'clock."
+      },
+      {
+        "t": "rule",
+        "x": "§122. A Personal Pronoun is used instead of a Noun, so it must be of the same number, gender and person as the Noun for which it stands."
+      },
+      {
+        "t": "ex",
+        "x": "Rama is a kind boy. He has lent his bicycle to Govind.\nSita helps her mother in household work. She also does her lesson.\nThose beggars are idle. They refuse to work for their living."
+      },
+      {
+        "t": "rule",
+        "x": "§123. When a Pronoun stands for a Collective Noun, it must be in the Singular Number (and Neuter Gender) if the Collective Noun is viewed as a whole."
+      },
+      {
+        "t": "ex",
+        "x": "The army had to suffer terrible privations in its march.\nThe fleet will reach its destination in a week.\nThe crew mutinied and murdered its officers.\nAfter a few minutes the jury gave its verdict."
+      },
+      {
+        "t": "rule",
+        "x": "§123. If the Collective Noun conveys the idea of separate individuals comprising the whole, the Pronoun standing for it must be of the Plural Number."
+      },
+      {
+        "t": "ex",
+        "x": "The jury were divided in their opinions.\nThe committee decided the matter without leaving their seats."
+      },
+      {
+        "t": "note",
+        "x": "It will be noted that we use the word 'Pronoun' in § 123–128 without observing the distinction pointed out in § 119 between the forms, my, her, our, your, their (which are called Possessive Adjectives) and the forms mine, hers, ours, yours, theirs (which are called Possessive Pronouns)."
+      },
+      {
+        "t": "rule",
+        "x": "§124. When two or more Singular Nouns are joined by and, the Pronoun used for them must be Plural."
+      },
+      {
+        "t": "ex",
+        "x": "Rama and Hari work hard. They are praised by their teacher.\nBoth Sita and Savitri are tired; they have gone home."
+      },
+      {
+        "t": "rule",
+        "x": "§124. But when two Singular Nouns joined by and refer to the same person or thing, the Pronoun used must of course be Singular."
+      },
+      {
+        "t": "ex",
+        "x": "The Secretary and Treasurer is negligent of his duty."
+      },
+      {
+        "t": "rule",
+        "x": "§125. When two Singular Nouns joined by and are preceded by each or every, the Pronoun must be Singular."
+      },
+      {
+        "t": "ex",
+        "x": "Every soldier and every sailor was in his place."
+      },
+      {
+        "t": "rule",
+        "x": "§126. When two or more Singular Nouns are joined by or or either...or, neither...nor, the Pronoun is generally Singular."
+      },
+      {
+        "t": "ex",
+        "x": "Rama or Hari must lend his hand.\nEither Sita or Amina forgot to take her parasol.\nNeither Abdul nor Karim has done his lesson."
+      },
+      {
+        "t": "rule",
+        "x": "§127. When a Plural Noun and a Singular Noun are joined by or or nor, the Pronoun must be in the Plural."
+      },
+      {
+        "t": "ex",
+        "x": "Either the manager or his assistants failed in their duty."
+      },
+      {
+        "t": "rule",
+        "x": "§128. When a pronoun refers to more than one noun or pronoun of different persons, it must be of the first person plural in preference to the second, and of the second person plural in preference to the third."
+      },
+      {
+        "t": "ex",
+        "x": "You and I have done our duty.\nYou and Hari have idled away your time."
+      },
+      {
+        "t": "rule",
+        "x": "§129. Good manners require that we should say 'You and I', not 'I and you'; 'You and he', not 'he and you'; 'Hari and I', not 'I and Hari'; 'He and I', not 'I and he'."
+      },
+      {
+        "t": "ex",
+        "x": "You and I must work together.\nYou and he must mend your ways.\nHari and I are old school friends.\nHe and I can never pull on together."
+      },
+      {
+        "t": "rule",
+        "x": "§130. Each of the personal pronouns, I, he, she, we, they has a different form for the accusative case, namely, me, him, her, us, them. It is a common mistake to use I for me, when the pronoun is connected by a conjunction (and, or) with some other word in the accusative case."
+      },
+      {
+        "t": "ex",
+        "x": "The presents are for you and me (not, I).\nMy uncle asked my brother and me to dinner."
+      },
+      {
+        "t": "rule",
+        "x": "§131. Note that but is a preposition in the following sentence, so the accusative form must be used after it."
+      },
+      {
+        "t": "ex",
+        "x": "Nobody will help you but me. (not: I)"
+      },
+      {
+        "t": "p",
+        "x": "Take care to use the accusative form after but in such cases."
+      }
+    ],
    "unit": 15,
    "title": "Personal Pronouns",
    "display": "Personal Pronouns",
@@ -6648,6 +9182,76 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Reflexive and Emphatic Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§132. When -self is added to my, your, him, her, it, and -selves to our, your, them, we get what are called Compound Personal Pronouns."
+      },
+      {
+        "t": "def",
+        "x": "§132. They are called Reflexive Pronouns when the action done by the subject turns back (reflects) upon the subject."
+      },
+      {
+        "t": "ex",
+        "x": "I hurt myself.\nWe hurt ourselves.\nYou will hurt yourself.\nYou will hurt yourselves.\nHe hurt himself.\nShe hurt herself.\nThey hurt themselves.\nThe horse hurt itself."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§132. A Reflexive Pronoun is used as the Object of a verb, and it refers to the same person or thing as the Subject of the verb."
+      },
+      {
+        "t": "ex",
+        "x": "I hurt myself.\nThey hurt themselves."
+      },
+      {
+        "t": "rule",
+        "x": "§133. Sometimes, in older English, especially in poetry, a simple pronoun was used reflexively."
+      },
+      {
+        "t": "ex",
+        "x": "Now I lay me down to sleep."
+      },
+      {
+        "t": "rule",
+        "x": "§134. The word self is sometimes used as a Noun."
+      },
+      {
+        "t": "ex",
+        "x": "Take care of your self.\nHe cares for nothing but self.\nHe thinks much of self."
+      },
+      {
+        "t": "h",
+        "x": "Emphatic Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§135. Now look at the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "I will do it myself.\nI myself saw him do it.\nWe will see to it ourselves.\nYou yourself can best explain.\nHe himself said so.\nShe herself says so.\nIt was told so by the teacher himself.\nWe saw the Prime Minister himself.\nThe town itself is not very large.\nThey themselves admitted their guilt."
+      },
+      {
+        "t": "def",
+        "x": "§135. Here Compound Personal Pronouns are used for the sake of emphasis, and are therefore called Emphatic Pronouns."
+      },
+      {
+        "t": "rule",
+        "x": "§135. Use an Emphatic Pronoun when you want to give emphasis to a noun or pronoun."
+      },
+      {
+        "t": "ex",
+        "x": "We saw the Prime Minister himself.\nThey themselves admitted their guilt."
+      }
+    ],
    "unit": 16,
    "title": "Reflexive and Emphatic Pronouns",
    "display": "Reflexive and Emphatic Pronouns",
@@ -6905,6 +9509,172 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Demonstrative, Indefinite and Distributive Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§136. Consider the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "This is a present from my uncle.\nThese are merely excuses.\nBoth cars are good; but this is better than that.\nMumbai mangoes are better than those of Bengaluru.\nMake haste, that's a good boy. [Here that = one who makes haste.]\nThere is no period in ancient Indian history so glorious as that of the Guptas. [Do not write, 'as the Guptas']\nMy views are quite in accordance with those of the University Commission.\nI may have offended, but such was not my intention.\nHe was the representative of the King, and as such (= the representative of the King) they honoured him.\nThe stranger is welcomed as such.\nThat is the Red Fort."
+      },
+      {
+        "t": "def",
+        "x": "§136. These pronouns point out the things they refer to. So they are called Demonstrative Pronouns. (Latin demonstrare, to show clearly)"
+      },
+      {
+        "t": "p",
+        "x": "§137. This, that, etc. are (Demonstrative) Adjectives when they are used with nouns."
+      },
+      {
+        "t": "ex",
+        "x": "This book is mine.\nThat pen is yours.\nThese books are mine.\nThose pens are yours.\nWhat was that noise?\nThis horse is better than that horse.\nAll such people ought to be avoided."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§138. This refers to what is close at hand, and nearest to the thought or person of the speaker; that refers to what is 'over there', farther away, and more remote."
+      },
+      {
+        "t": "ex",
+        "x": "This is better than that."
+      },
+      {
+        "t": "rule",
+        "x": "§139. That, with its plural those, is used to avoid the repetition of a preceding Noun."
+      },
+      {
+        "t": "ex",
+        "x": "The climate of Belgaum is like that of Pune.\nThe streets of this city are worse than those of Ahmedabad.\nOur soldiers were better drilled than those of enemies.\nThe rivers of America are larger than those of Europe."
+      },
+      {
+        "t": "rule",
+        "x": "§140. When two things which have been already mentioned are referred to, this refers to the thing last mentioned, that to the thing first mentioned."
+      },
+      {
+        "t": "ex",
+        "x": "Virtue and vice offer themselves for your choice; this (i.e., vice) leads to misery, that (i.e., virtue) to happiness.\nAlcohol and tobacco are both injurious; this perhaps, less than that."
+      },
+      {
+        "t": "h",
+        "x": "Indefinite Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§141. Consider the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "One hardly knows what to do.\nOne does not like to say so, but it is only too true.\nOne cannot be too careful of one's (not, his) good name.\nOne must not boast of one's own success.\nOne must use one's best efforts if one wishes to succeed.\nOne must not praise one's self.\nNone of his poems are well known.\nNone but fools have ever believed it.\n[None is a shortened form of not one; yet it is commonly used with plural verbs.]\nThey (= people in general) say he has lost heavily.\nThey say that one of the local banks has stopped payment. [They say = it is said by some persons.]\nAll were drowned.\nSome are born great.\nSome say he is a sharper.\nSomebody has stolen my watch.\nNobody was there to rescue the child.\nFew escaped unhurt.\nMany of them were Gurkhas.\nWe did not see any of them again.\nOne or other of us will be there.\nDo good to others.\nDid you ask anybody to come?\nWhat is everybody's business is nobody's business.\nHis words are in everyone's mouth."
+      },
+      {
+        "t": "def",
+        "x": "§141. All these Pronouns refer to persons or things in a general way, but they do not refer to any person or thing in particular. So they are called Indefinite Pronouns."
+      },
+      {
+        "t": "p",
+        "x": "§142. Most of these words may also be used as Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "I will take you there one day.\nAny fool can do that.\nHe is a man of few words.\nSome milk was spilt."
+      },
+      {
+        "t": "rule",
+        "x": "§143. In referring to anybody, everybody, everyone, anyone, each etc., the pronoun he or she is used according to the context."
+      },
+      {
+        "t": "ex",
+        "x": "I shall be glad to help everyone of my boys in his studies."
+      },
+      {
+        "t": "note",
+        "x": "Note that today it is more usual to use a plural pronoun (they/them/their) except in very formal English."
+      },
+      {
+        "t": "ex",
+        "x": "Anybody can do it if they try.\nEach of them had their share."
+      },
+      {
+        "t": "h",
+        "x": "Distributive Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§144. Consider the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Each of the boys gets a prize.\nEach took it in turn.\nEither of these roads leads to the railway station.\nEither of you can go.\nNeither of the accusations is true."
+      },
+      {
+        "t": "def",
+        "x": "§144. Each, either, neither are called Distributive Pronouns because they refer to persons or things one at a time."
+      },
+      {
+        "t": "rule",
+        "x": "§144. Each, either and neither are always singular, so the verb that follows them is in the singular."
+      },
+      {
+        "t": "ex",
+        "x": "Each of the boys gets a prize.\nEither of these roads leads to the railway station.\nNeither of the accusations is true."
+      },
+      {
+        "t": "rule",
+        "x": "§144. Note — Each is used to denote every one of a number of persons or things taken singly. Either means the one or the other of two. Neither means not the one nor the other of two. It is the negative of either. So either and neither should be used only in speaking of two persons or things. When more than two are spoken of, any, no one, none should be used."
+      },
+      {
+        "t": "rule",
+        "x": "§145. The position of the pronoun each should be noticed. It may have three positions."
+      },
+      {
+        "t": "ex",
+        "x": "1. Each of the men received a reward.\nEach of these horses cost five thousand rupees.\nI bought each of these mangoes for three rupees.\n2. These men received each a reward.\nThese horses cost each five thousand rupees.\n3. These horses cost five thousand rupees each.\nI bought these mangoes for three rupees each."
+      },
+      {
+        "t": "p",
+        "x": "The third order is usual after a numeral. We do not say, 'The men received a reward each'; but we say, 'The men received five hundred rupees each'."
+      },
+      {
+        "t": "rule",
+        "x": "§146. In the following sentences, each, either and neither are used as Adjectives; they are followed by nouns of the singular number."
+      },
+      {
+        "t": "ex",
+        "x": "Each boy took his turn. Neither accusation is true.\nAt either end was a marble statue. (Here either = each or both.)"
+      },
+      {
+        "t": "p",
+        "x": "§147. Study the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. The two men hate each other.\n2. They cheated one another."
+      },
+      {
+        "t": "p",
+        "x": "If we analyse them, they mean —\n1. The two men hate, each hates the other.\n2. They cheated, one cheated another.\nEach and one really belong to the subject, other and another are objects. But each other and one another have become in practice compound pronouns (called Reciprocal Pronouns) and are rarely separated even by a preposition."
+      },
+      {
+        "t": "def",
+        "x": "§147. Each other and one another are called Reciprocal Pronouns."
+      },
+      {
+        "t": "ex",
+        "x": "The brothers quarrelled with each other.\nThey all gave evidence against one another."
+      },
+      {
+        "t": "note",
+        "x": "Note — The one-time rule that each other should be used in speaking of two persons or things, one another in speaking of more than two is no longer strictly observed. 'The three brothers quarrelled with each other' is now accepted as idiomatic."
+      }
+    ],
    "unit": 17,
    "title": "Demonstrative, Indefinite and Distributive Pronouns",
    "display": "Demonstrative, Indefinite and Distributive Pronouns",
@@ -7234,6 +10004,396 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Relative Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§148. Read the following pairs of sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. I met Hari. Hari had just returned.\n2. I have found the pen. I had lost the pen.\n3. Here is the book. You lent me the book."
+      },
+      {
+        "t": "p",
+        "x": "Let us now combine each of the above pairs into one sentence. Thus:"
+      },
+      {
+        "t": "ex",
+        "x": "1. I met Hari who had just returned.\n2. I have found the pen which I had lost.\n3. Here is the book that you lent me."
+      },
+      {
+        "t": "p",
+        "x": "§148. Now let us examine the work done by each of the words, who, which and that.\nThe word who is used instead of the noun Hari. So it does the work of a Pronoun. The word who joins or connects two statements. So it does the work of a Conjunction. The word who, therefore, does double work — the work of a Pronoun and also the work of a Conjunction. We might, therefore, call it a Conjunctive Pronoun."
+      },
+      {
+        "t": "def",
+        "x": "§148. It is, however, called a Relative Pronoun because it refers or relates (i.e., carries us back) to some noun going before (here, the noun Hari), which is called its Antecedent."
+      },
+      {
+        "t": "p",
+        "x": "Now show why which and that are also Relative Pronouns in the second and third sentences.\nWhat is the Antecedent of which in the second sentence?\nWhat is the Antecedent of that in the third sentence?"
+      },
+      {
+        "t": "h",
+        "x": "Forms of the Relative Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§149. The Relative Pronoun who has different forms for Accusative and Genitive.\nSingular and Plural\nNominative: who\nGenitive: whose\nAccusative: whom/who*"
+      },
+      {
+        "t": "ex",
+        "x": "This is the boy (or girl) who works hard.\nThis is the boy (or girl) whose exercise is done well.\nThis is the boy (or girl) whom / who all praise.\nThese are the boys (or girls) who work hard.\nThese are the boys (or girls) whose exercises are done well.\nThese are the boys (or girls) whom / who all praise."
+      },
+      {
+        "t": "p",
+        "x": "It will be noticed that the forms are the same for singular and plural, masculine and feminine."
+      },
+      {
+        "t": "note",
+        "x": "* Who replaces whom in informal English."
+      },
+      {
+        "t": "p",
+        "x": "§150. The Relative Pronoun which has the same form for the Nominative and Accusative cases.\nThe Relative Pronoun which has no Genitive Case, but whose is used as a substitute for 'of which'."
+      },
+      {
+        "t": "ex",
+        "x": "This is the house which belongs to my uncle.\nThe house which my uncle built cost him Rs. 3,50,000.\nA triangle whose three sides are equal is called an equilateral triangle."
+      },
+      {
+        "t": "p",
+        "x": "§151. The Relative Pronoun that has the same form in the Singular and Plural, and in the Nominative and Accusative. It has no Genitive case."
+      },
+      {
+        "t": "ex",
+        "x": "He that is content is rich.\nThey that touch pitch will be defiled.\nTake anything that you like."
+      },
+      {
+        "t": "p",
+        "x": "§152. The Relative Pronoun what is used only in the Singular, and has the same form in the Nominative and Accusative."
+      },
+      {
+        "t": "ex",
+        "x": "What has happened is not clear.\nI say what I mean.\nHe failed in what he attempted."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§153. As a general rule, who is used for persons only. It may refer to a Singular or a Plural Noun."
+      },
+      {
+        "t": "ex",
+        "x": "The man who is honest is trusted.\nBlessed is he who has found his work.\nHe who works hard will succeed.\nHe who hesitates is lost.\nThey never fail who die in a great cause.\nThey who help others are loved by all."
+      },
+      {
+        "t": "rule",
+        "x": "§153. Who is sometimes used in referring to animals."
+      },
+      {
+        "t": "rule",
+        "x": "§153. Whose (the Possessive form of who) is used in speaking of persons, animals and also things without life (see § 150)."
+      },
+      {
+        "t": "ex",
+        "x": "The sun, whose rays give life to the earth, is regarded by some people as a god.\nThis is the question whose solution has baffled philosophers of all ages. [More properly, 'This is the question the solution of which has baffled philosophers of all ages'.]"
+      },
+      {
+        "t": "rule",
+        "x": "§154. Which is used for things without life and for animals. It may refer to a Singular or Plural Noun."
+      },
+      {
+        "t": "ex",
+        "x": "The moment which is lost is lost for ever.\nThe books which help you most are those which make you think most.\nThe horse which I recently bought is an Arab."
+      },
+      {
+        "t": "rule",
+        "x": "§154. Which was sometimes formerly used to refer to persons."
+      },
+      {
+        "t": "ex",
+        "x": "Our Father, which art in heaven."
+      },
+      {
+        "t": "rule",
+        "x": "§154. Which may also refer to a sentence."
+      },
+      {
+        "t": "ex",
+        "x": "The man was said to be drunk, which was not the case.\nHe said he saw me there, which was a lie.\nHe is here, which is fortunate."
+      },
+      {
+        "t": "note",
+        "x": "§154. Note — The Relative Pronouns who and which can be used —\n(i) To restrict, limit, or define more clearly the antecedent; that is, where the clause introduced by a relative pronoun is restrictive or defining."
+      },
+      {
+        "t": "ex",
+        "x": "The man who had cheated me was yesterday arrested by the police.\nThe book which you see on the table cost me ninety rupees."
+      },
+      {
+        "t": "note",
+        "x": "(ii) To give some additional information about the antecedent; that is, where the clause introduced by a relative pronoun is continuative or non-defining."
+      },
+      {
+        "t": "ex",
+        "x": "The teacher sent for the boy, who (= and he) came at once.\nI gave him a rupee, which (= and it) was all I had with me."
+      },
+      {
+        "t": "note",
+        "x": "Note — That non-defining clauses are separated from the main clause by commas."
+      },
+      {
+        "t": "ex",
+        "x": "My brother who is a doctor has gone to America.\nMy brother, who is a doctor, has gone to America."
+      },
+      {
+        "t": "p",
+        "x": "Compare: The first sentence implies that the speaker has several brothers, and the clause who is a doctor distinguishes a particular one of them. In the second, the clause does not define and the implication is that the speaker has only one brother."
+      },
+      {
+        "t": "rule",
+        "x": "§155. That is used for persons and things. It may refer to a Singular or a Plural Noun. (See § 151) That has no genitive case and it is never used with a preposition preceding."
+      },
+      {
+        "t": "ex",
+        "x": "This is the boy that I told you of.\nI know the house that he lives in.\nUneasy lies the head that wears a crown.\nI have lost the watch that you gave me.\nHe that tells a lie will be punished.\nA city that is set on a hill cannot be hid.\nHe that is not with me is against me.\nHappy is the man that helps others.\nHe that is slow to anger is better than the mighty.\nThe crowd that gathered cheered him to the echo.\nWho that has met him can escape his influence?\nAll that I said had no effect on him.\nHe was the most eloquent speaker that I ever heard."
+      },
+      {
+        "t": "p",
+        "x": "It will be noticed that the relative pronoun that is used only in defining clauses, i.e., clauses that restrict, limit, or define the antecedent."
+      },
+      {
+        "t": "rule",
+        "x": "§156. That may be used as an adverbial accusative = on which, in which, at which."
+      },
+      {
+        "t": "ex",
+        "x": "I remember the day that he came.\nI will come on the day that you call me."
+      },
+      {
+        "t": "rule",
+        "x": "§157. As the Relative Pronoun that has a restrictive force it sometimes becomes unsuitable as the substitute for who or which."
+      },
+      {
+        "t": "ex",
+        "x": "My father that is a schoolmaster is fifty years old. (Do not say this.)\nMy father, who is a schoolmaster, is fifty years old. (Say this.)\nMy sister that has been adopted by my uncle is ill. (You can say this if you have more than one sister.)"
+      },
+      {
+        "t": "rule",
+        "x": "§158. The Relative Pronoun that is used in preference to who or which — (1) After Adjectives in the Superlative Degree."
+      },
+      {
+        "t": "ex",
+        "x": "He was the most eloquent speaker that I ever heard.\nThe wisest man that ever lived made mistakes.\nThis is the best that we can do."
+      },
+      {
+        "t": "rule",
+        "x": "§158. (2) After the words all, same, any, none, nothing, (the) only."
+      },
+      {
+        "t": "ex",
+        "x": "All is not gold that glitters.\nHe is the same man that he has been.\nIt is only donkeys that bray.\nIt was not for nothing that he studied philosophy.\nMan is the only animal that can talk."
+      },
+      {
+        "t": "rule",
+        "x": "§158. (3) After the Interrogative Pronouns who, what."
+      },
+      {
+        "t": "ex",
+        "x": "Who that saw her did not pity her?\nWho am I that I should object?\nWhat is it that troubles you so much?\nWhat is there that I do not know?"
+      },
+      {
+        "t": "rule",
+        "x": "§158. (4) After two antecedents, one denoting a person and the other denoting an animal or a thing."
+      },
+      {
+        "t": "ex",
+        "x": "The boy and his dog that had trespassed on the club premises were turned out."
+      },
+      {
+        "t": "rule",
+        "x": "§159. What refers to things only. It is used without an antecedent expressed, and is equivalent to that which (or the thing which)."
+      },
+      {
+        "t": "ex",
+        "x": "What (= that which) cannot be cured must be endured.\nI say what (= that which) I mean.\nI mean what I say.\nWhat is done cannot be undone.\nWhat man has done man can do.\nWhat is one man's meat is another man's poison.\nGive careful heed to what I say.\nWhat I have written, I have written.\nHe found what he was looking for."
+      },
+      {
+        "t": "p",
+        "x": "It will be noticed that what is used in the Nominative and Accusative singular only."
+      },
+      {
+        "t": "rule",
+        "x": "§160. In older English, the word as was used as a relative pronoun after such."
+      },
+      {
+        "t": "ex",
+        "x": "Such men as he are seldom seen.\nThese mangoes are not such as I bought yesterday.\nHe is such a man as I honour.\nWe have never had such a time as the present.\nHis answer was such as I expected him to give."
+      },
+      {
+        "t": "p",
+        "x": "The word as can be used as a Relative Pronoun after same."
+      },
+      {
+        "t": "ex",
+        "x": "My trouble is the same as yours [is].\nThis is not the same as that [is].\n[But] I played with the same bat that you did."
+      },
+      {
+        "t": "p",
+        "x": "'The same as' usually means 'of the same kind'. 'The same...that' means 'one and the same'."
+      },
+      {
+        "t": "p",
+        "x": "The word as is also used as a Relative Pronoun after as followed by an adjective."
+      },
+      {
+        "t": "ex",
+        "x": "I collected as many specimens as I could find."
+      },
+      {
+        "t": "note",
+        "x": "Note — The first as here is an Adverb."
+      },
+      {
+        "t": "rule",
+        "x": "§161. In older English, the word but was used as a relative pronoun after a negative; it often had the force of a relative pronoun."
+      },
+      {
+        "t": "ex",
+        "x": "There is none but will agree with me. (but will agree = who will not agree)\nThere is no Hindu but knows the story of the Ramayana. (That is, there is no Hindu who does not know, etc.)\nThere is no man but wishes to live.\nThere is no rose but has some thorn. (but = which...no)\nThere is scarcely a child but likes candy.\nThere is no man but knows these things. (but = who does not)"
+      },
+      {
+        "t": "p",
+        "x": "It will be seen that the pronoun but is here equivalent to who...not, which...not."
+      },
+      {
+        "t": "h",
+        "x": "Omission of the Relative Pronoun"
+      },
+      {
+        "t": "rule",
+        "x": "§162. The Relative Pronoun is generally omitted when it would be in the accusative case."
+      },
+      {
+        "t": "ex",
+        "x": "Few and short were the prayers ^ we said.\nA contented mind is the greatest blessing ^ a man can enjoy in the world.\nI am monarch of all ^ I survey.\nMen must reap the things ^ they sow."
+      },
+      {
+        "t": "p",
+        "x": "The mark ^ shows where the Relative Pronoun has been left out."
+      },
+      {
+        "t": "p",
+        "x": "Onions says: 'That is used preferably with reference to persons. Thus, we tend to say 'the meeting which I attended yesterday,' rather than 'the meeting that I attended yesterday.' But more frequently still do we say 'the meeting I attended yesterday,' the Accusative Relative being as a rule omitted altogether.'"
+      },
+      {
+        "t": "p",
+        "x": "We leave out the Accusative Relative more often in speaking than in writing. In writing, leaving it out often looks careless."
+      },
+      {
+        "t": "rule",
+        "x": "§163. In the following examples from poetry a Relative Pronoun in the nominative case is omitted."
+      },
+      {
+        "t": "ex",
+        "x": "'Tis distance ^ lends enchantment to the view.\n'I have a brother ^ is condemned to die.'"
+      },
+      {
+        "t": "note",
+        "x": "Note — The omission of a Relative Pronoun in the nominative case is now quite exceptional except in colloquial speech."
+      },
+      {
+        "t": "ex",
+        "x": "There's somebody at the door ^ wants to see you."
+      },
+      {
+        "t": "h",
+        "x": "Omission of the Antecedent"
+      },
+      {
+        "t": "rule",
+        "x": "§164. In older English, the Antecedent of a Relative Pronoun was sometimes left out."
+      },
+      {
+        "t": "ex",
+        "x": "Who works not shall not eat. = (He) who works not shall not eat.\nWhom the gods love, die young. = (Those) whom the gods love die young.\nWho steals my purse, steals trash.\nWho laughs last, laughs best.\nWho has lost all hope has also lost all fear.\nWho does his work well will be praised. = (He) who does his work well will be praised."
+      },
+      {
+        "t": "h",
+        "x": "Agreement of the Relative Pronoun and its Antecedent"
+      },
+      {
+        "t": "rule",
+        "x": "§165. As the Relative Pronoun refers to a Noun or Pronoun (called its Antecedent) it must be of the same number and person as its Antecedent. [Remember that the verb shows the number and person of the Relative Pronoun.]"
+      },
+      {
+        "t": "ex",
+        "x": "The boy who was lazy was punished.\nThe boys who were lazy were punished.\nI, who am your king, will lead you.\nI am the person that is to blame.\nWe who seek your protection, are strangers here.\nYou who are my friend, help me.\nYou who are mighty, should be merciful.\nYou who seek wisdom, should be humble.\nHe that is not with me is against me.\nHe that is down, needs fear no fall.\nHe that eats till he is sick must fast till he is well.\nThey who live in glass houses should not throw stones.\nThey who seek only for faults see nothing else.\nThe flowers which grow in our gardens are not for sale.\nThis is the only one of his poems that is worth reading. [= Of his poems this is the only one that is worth reading.]"
+      },
+      {
+        "t": "rule",
+        "x": "§165. But the case of the Relative Pronoun depends upon its relation to the verb in the clause in which it occurs."
+      },
+      {
+        "t": "ex",
+        "x": "Rama is the boy who did it.\nRama is the boy whom I want.\nRama is the boy whose pencil I have.\nRama is the boy to whom I spoke.\nHe whom we worship, by whose gift we live, is the Lord."
+      },
+      {
+        "t": "h",
+        "x": "Position of the Relative Pronoun"
+      },
+      {
+        "t": "rule",
+        "x": "§166. To prevent ambiguity, the Relative Pronoun should be placed as near as possible to its Antecedent."
+      },
+      {
+        "t": "ex",
+        "x": "The boy who won the first prize in English is the son of my friend, Mr Joshi."
+      },
+      {
+        "t": "p",
+        "x": "It would mean something quite different if we separate the Relative Pronoun from its Antecedent."
+      },
+      {
+        "t": "ex",
+        "x": "The boy is the son of my friend Mr Joshi who won the first prize.\nI have read Gokhale's speeches, who was a disciple of Ranade.\nI with my family reside in a village near Pune which consists of my wife and three children."
+      },
+      {
+        "t": "p",
+        "x": "The second sentence would be improved if changed to: 'I have read the speeches of Gokhale, who was a disciple of Ranade'. The third sentence also requires to be rearranged."
+      },
+      {
+        "t": "h",
+        "x": "Compound Relative Pronouns"
+      },
+      {
+        "t": "def",
+        "x": "§167. Pronouns formed by adding ever, so, or soever to who, which and what are called Compound Relative Pronouns. They are: whoever, whoso, whosoever; whichever; whatever, whatsoever."
+      },
+      {
+        "t": "p",
+        "x": "These Relatives have no antecedent expressed."
+      },
+      {
+        "t": "ex",
+        "x": "Whosoever (= any and every person who) exalteth himself shall be abased.\nWhoso digs a pit will fall into it.\nWhatsoever you have to do, do it with all your might."
+      },
+      {
+        "t": "rule",
+        "x": "§168. The forms whoever, whichever, and whatever are now ordinarily used."
+      },
+      {
+        "t": "ex",
+        "x": "Whoever (i.e., any person who) comes is welcome.\nTake whichever (i.e., any which) you like.\nI will take with me whomsoever you choose.\nWhatever (i.e., anything which) he does, he does well."
+      }
+    ],
    "unit": 18,
    "title": "Relative Pronouns",
    "display": "Relative Pronouns",
@@ -8422,6 +11582,132 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Interrogative Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§169. Consider the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Who is there? Who are you?\nAbout whom are you talking? / Who are you talking about?\nWhom do you want? / Who do you want?\nWhose is this book?\nWhich is the house?\nWhich do you prefer, tea or coffee?\nWhat is the matter?\nWhat do you want?\nWhat will all the neighbours say?"
+      },
+      {
+        "t": "def",
+        "x": "§169. These Pronouns look like Relative Pronouns, but they do different work. Here they are used for asking questions, so they are called Interrogative Pronouns."
+      },
+      {
+        "t": "p",
+        "x": "§170. In the following sentences the Interrogative Pronouns are used in asking indirect questions."
+      },
+      {
+        "t": "ex",
+        "x": "I asked who was speaking.\nI do not know who is there.\nTell me what you have done.\nAsk what he wants.\nSay which you would like best."
+      },
+      {
+        "t": "h",
+        "x": "Forms of the Interrogative Pronouns"
+      },
+      {
+        "t": "p",
+        "x": "§171. Again consider the following sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Who gave you that knife? (Nominative)\nWhose is this book? (Possessive)\nWhom did you see? / Who did you see? (Accusative)\nTo whom were you speaking? / Who were you speaking to? (Accusative)\nWhat is that? (Nominative)\nWhat do you want? (Accusative)\nWhich is he? (Nominative)\nWhich do you prefer? (Accusative)"
+      },
+      {
+        "t": "p",
+        "x": "Nominative: who\nPossessive: whose\nAccusative: whom/who — Masc. and Fem., Singular and Plural."
+      },
+      {
+        "t": "p",
+        "x": "Today the accusative who is more usual than whom, especially in spoken English."
+      },
+      {
+        "t": "p",
+        "x": "What and which do not have different forms for different cases."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§172. Who is used of persons only."
+      },
+      {
+        "t": "ex",
+        "x": "Who spoke? (We expect the answer to be the name of a person.)\nWho goes there? Who made the top score?\nWho is knocking at the door? Who says so?\nWhose is this umbrella? Whom did you see?"
+      },
+      {
+        "t": "rule",
+        "x": "§173. Which is used of both persons and things. It implies selection, that is, it implies a question concerning a limited number."
+      },
+      {
+        "t": "ex",
+        "x": "Which is your friend? Which are your books?\nWhich of the boys saw him?\nWhich of you has done this?\nWhich of these books is yours?\nWhich of the pictures do you like best?\nWhich of you can solve this problem?\nWhich will you take?"
+      },
+      {
+        "t": "rule",
+        "x": "§174. What is used of things only."
+      },
+      {
+        "t": "ex",
+        "x": "What have you found? (We expect the answer to be the name of a thing.)\nWhat do you want? What did you say?\nWhat was it all about?\nWhat is sweeter than honey?\nWhat are those marks on your coat?"
+      },
+      {
+        "t": "rule",
+        "x": "§175. In such expressions as, 'What are you?', 'What is he?', 'What is this man?', the word what does not refer to the person but to his profession or employment."
+      },
+      {
+        "t": "ex",
+        "x": "What are you? — I am a doctor.\nWhat is he? — He is an engineer."
+      },
+      {
+        "t": "note",
+        "x": "Today it is more usual to say 'What do you do?', 'What does he do?' etc."
+      },
+      {
+        "t": "p",
+        "x": "But —\nWho is he? (= What is his name and family?) — He is Mr K P Roy."
+      },
+      {
+        "t": "rule",
+        "x": "§176. In the following sentences which and what are used as Interrogative Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "Which book are you reading?\nWhich way shall we go?\nWhat books have you read?\nWhat pranks are you playing?\nWhat kind of man is he?"
+      },
+      {
+        "t": "rule",
+        "x": "§177. In the following sentences the words in italics are used as Compound Interrogative Pronouns."
+      },
+      {
+        "t": "ex",
+        "x": "Whoever told you so?\nWhatever are you doing?"
+      },
+      {
+        "t": "note",
+        "x": "Note — The forms whoever, whichever, whatever are intensive."
+      },
+      {
+        "t": "h",
+        "x": "Exclamatory Pronouns"
+      },
+      {
+        "t": "def",
+        "x": "§178. A Pronoun used as an exclamation is called an Exclamatory Pronoun."
+      },
+      {
+        "t": "ex",
+        "x": "What! Still here! I thought you had gone home long ago.\nWhat! You don't know Rama?"
+      }
+    ],
    "unit": 19,
    "title": "Interrogative Pronouns",
    "display": "Interrogative Pronouns",
@@ -8821,6 +12107,272 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is a Verb?"
+      },
+      {
+        "t": "p",
+        "x": "§179. A Verb is a word that tells us something about a person or thing. The word verb comes from the Latin word verbum, which means a word. The verb is the most important word in a sentence."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§179. A verb can tell us three things: (1) what a person or thing does; (2) what is done to a person or thing; (3) what a person or thing is."
+      },
+      {
+        "t": "ex",
+        "x": "(1) What a person or thing does:\nHari laughs.\nThe clock strikes.\n(2) What is done to a person or thing:\nHari is scolded.\nThe window is broken.\n(3) What a person or thing is:\nThe cat is dead.\nGlass is brittle.\nI feel sorry."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§179)—A Verb is a word used to tell us something about a person or thing."
+      },
+      {
+        "t": "h",
+        "x": "A Verb Often Consists of More Than One Word"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§180. A verb can be more than one word."
+      },
+      {
+        "t": "ex",
+        "x": "The girls were singing.\nI have learnt my lesson.\nThe watch has been found."
+      },
+      {
+        "t": "h",
+        "x": "Transitive and Intransitive Verbs"
+      },
+      {
+        "t": "p",
+        "x": "§181. Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. The boy kicks the football.\n2. The boy laughs loudly."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the action of kicks goes from the doer, the boy, to an object, the football. So kicks is called a Transitive Verb. Transitive means passing over. In sentence 2, the action of laughs stays with the doer, the boy. It does not go to an object. So laughs is called an Intransitive Verb. Intransitive means not passing over."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§181)—A Transitive Verb is a verb whose action passes from the doer to an object."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§181)—An Intransitive Verb is a verb whose action does not pass to an object. It can also show a state or being."
+      },
+      {
+        "t": "ex",
+        "x": "He ran a long distance. (Action)\nThe baby sleeps. (State)\nThe milk is hot. (Being)"
+      },
+      {
+        "t": "note",
+        "x": "Note (§181)—Intransitive verbs that show being take the same case after them as before them."
+      },
+      {
+        "t": "h",
+        "x": "Verbs with Two Objects"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§182. Most transitive verbs take only one object. But verbs like give, ask, offer, promise and tell take two objects: an Indirect Object and a Direct Object. The Indirect Object is the person to whom something is given, or for whom something is done. The Direct Object is usually the name of a thing."
+      },
+      {
+        "t": "ex",
+        "x": "His father gave him (Indirect) a watch (Direct).\nHe told me (Indirect) a secret (Direct)."
+      },
+      {
+        "t": "h",
+        "x": "Used Transitively or Intransitively"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§183. Most verbs can be used both as transitive and as intransitive verbs. So it is better to say that a verb is used transitively or intransitively, not that it is transitive or intransitive."
+      },
+      {
+        "t": "ex",
+        "x": "Used Intransitively:\n1. Some ants fight very fiercely.\n2. The ship sank rapidly.\n3. The bell rang loudly.\n4. The train stopped suddenly.\n5. He spoke proudly.\n6. This horse never kicks.\n7. How do you feel?"
+      },
+      {
+        "t": "ex",
+        "x": "Used Transitively:\n1. The ants fought the wasps.\n2. The storm sank the ship.\n3. Ring the bell, Rama.\n4. The driver stopped the train.\n5. He spoke the truth.\n6. The horse kicked the man.\n7. I feel a severe pain in my head."
+      },
+      {
+        "t": "note",
+        "x": "Note (§183)—Some verbs, like come, go, fall, die, sleep and lie, show actions that cannot be done to anything. So they can never be used transitively."
+      },
+      {
+        "t": "h",
+        "x": "Verbs Used Reflexively"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§184. When the subject and the object of a sentence are the same person, the verb is said to be used reflexively."
+      },
+      {
+        "t": "ex",
+        "x": "The man killed himself."
+      },
+      {
+        "t": "rule",
+        "x": "§184. Sometimes the verb is used reflexively, but the object is not said. In the examples below, the reflexive pronoun that is understood is put in brackets."
+      },
+      {
+        "t": "ex",
+        "x": "The bubble burst [itself].\nThe guests made [themselves] happy.\nPlease keep [yourselves] quiet.\nWith these words he turned [himself] to the door.\nThe Japanese feed [themselves] on rice."
+      },
+      {
+        "t": "p",
+        "x": "But these verbs can also be seen as simple intransitive verbs, with no reflexive meaning."
+      },
+      {
+        "t": "rule",
+        "x": "§185. Some verbs can be used reflexively and also as ordinary transitive verbs."
+      },
+      {
+        "t": "ex",
+        "x": "Do not forget his name.\nI forget his name.\nHelp yourself to some food.\nHe helped the old man.\nI enjoy myself sitting alone.\nHe enjoys good health.\nHe interested himself in his friend’s work.\nHis talk does not interest me."
+      },
+      {
+        "t": "h",
+        "x": "Intransitive Verbs Used as Transitives"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§186. When an intransitive verb is used in the sense of causing something, it becomes transitive."
+      },
+      {
+        "t": "ex",
+        "x": "1. The horse walks. — He walks the horse.\n2. The girl ran down the street. — The girl ran a needle into her finger (ran a needle = caused a needle to run).\n3. Birds fly. — The boys fly their kites (that is, they cause their kites to fly)."
+      },
+      {
+        "t": "h",
+        "x": "Transitive and Intransitive by Spelling"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§187. A few common verbs are known as transitive or intransitive by their spelling. The transitive form is the causative form of the intransitive verb — it means to cause the action."
+      },
+      {
+        "t": "ex",
+        "x": "Intransitive — Transitive:\n1. Many trees fall in the monsoon. — Woodmen fell trees. (Fell = cause to fall)\n2. Lie still. — Lay the basket there. (Lay = cause to lie)\n3. Rise early with the lark. — Raise your hands. (Raise = cause to rise)\n4. Sit there. — Set the lamp on the table. (Set = cause to sit)"
+      },
+      {
+        "t": "h",
+        "x": "Intransitive Verbs with a Preposition"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§188. Some intransitive verbs become transitive when a preposition is added to them."
+      },
+      {
+        "t": "ex",
+        "x": "All his friends laughed at (= derided) him.\nHe will soon run through (= spend) his fortune.\nPlease look into (= investigate) the matter carefully.\nWe talked about (= discussed) the affair several times.\nI wish for (= desire) nothing more.\nThe Police Inspector asked for (= demanded) his name."
+      },
+      {
+        "t": "rule",
+        "x": "§188. Sometimes the preposition is joined to the front of the verb."
+      },
+      {
+        "t": "ex",
+        "x": "Shivaji overcame the enemy.\nHe bravely withstood the attack.\nThe river overflows its banks."
+      },
+      {
+        "t": "h",
+        "x": "The Cognate Object"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§189. Sometimes an intransitive verb takes an object that is close in meaning to the verb itself. This object is called the Cognate Object or Cognate Accusative. Cognate comes from the Latin Cognatus, which means akin, or of the same kind."
+      },
+      {
+        "t": "ex",
+        "x": "I have fought a good fight.\nHe laughed a loud laugh.\nI dreamt a strange dream.\nHe slept a sound sleep.\nLet me die a peaceful death.\nShe sighed a deep sigh.\nShe sang a sweet song.\nHe ran a race.\nHe lived the life of a king."
+      },
+      {
+        "t": "p",
+        "x": "The noun used as a Cognate Object is in the Accusative Case. Some objects are only partly like the verb in meaning. Here are examples:"
+      },
+      {
+        "t": "ex",
+        "x": "He ran a great risk (= he ran a course of great risk).\nThe children shouted applause (= the children shouted a shout of applause)."
+      },
+      {
+        "t": "h",
+        "x": "The Adverbial Object"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§190. A noun can be used like an adverb to modify a verb, an adjective or an adverb. It shows time, place, distance, weight, value, and so on. Such a noun is called an Adverbial Object or Adverbial Accusative. It is said to be in the Accusative Case, used adverbially."
+      },
+      {
+        "t": "ex",
+        "x": "He held the post ten years.\nI can’t wait a moment longer.\nHe went home.\nHe swam a mile.\nHe weighs fifty kilos.\nThe watch cost nine hundred rupees."
+      },
+      {
+        "t": "h",
+        "x": "Transitive Verbs Used as Intransitives"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§191. A few transitive verbs are sometimes used as intransitive verbs."
+      },
+      {
+        "t": "ex",
+        "x": "Transitive — Intransitive:\n1. He broke the glass. — The glass broke.\n2. He burnt his fingers. — He burnt with shame.\n3. Stop him from going. — We shall stop here a few days.\n4. Open all the windows. — The show opens at six o’clock."
+      }
+    ],
    "unit": 20,
    "title": "The Verb: Transitive and Intransitive Verbs",
    "display": "The Verb: Transitive and Intransitive Verbs",
@@ -9275,6 +12827,72 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is a Verb of Incomplete Predication?"
+      },
+      {
+        "t": "p",
+        "x": "§192. Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. The baby sleeps.\n2. The baby seems happy."
+      },
+      {
+        "t": "p",
+        "x": "Both verbs are intransitive. But ‘The baby sleeps’ makes full sense by itself. ‘The baby seems’ does not make full sense. The verb seems needs another word, like happy, to complete the sense. Such a verb is called a Verb of Incomplete Predication."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§192)—The word happy, which is needed to complete the sense, is called the Complement of the Verb, or the Completion of the Predicate."
+      },
+      {
+        "t": "h",
+        "x": "The Subjective Complement"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§193. Verbs of Incomplete Predication usually show being, becoming, seeming or appearing. The complement is usually a noun, called a Predicative Noun, or an adjective, called a Predicative Adjective. When the complement tells us about the subject, it is called a Subjective Complement."
+      },
+      {
+        "t": "ex",
+        "x": "1. Tabby is a cat.\n2. The earth is round.\n3. John became a soldier.\n4. Mr. Mehta became mayor.\n5. The man seems tired.\n6. You look happy.\n7. The sky grew dark.\n8. Roses smell sweet.\n9. Sugar tastes sweet.\n10. She appears pleased.\n11. This house is for rent."
+      },
+      {
+        "t": "note",
+        "x": "Note (§193)—When the Subjective Complement is a noun (as in 1, 3 and 4), it is in the same case as the subject — that is, in the Nominative Case."
+      },
+      {
+        "t": "h",
+        "x": "The Objective Complement"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§194. Some transitive verbs need a complement as well as an object to complete their meaning."
+      },
+      {
+        "t": "ex",
+        "x": "1. The boys made Rama captain.\n2. His parents named him Hari.\n3. This made him proud.\n4. The jury found him guilty.\n5. Rama called his cousin a liar.\n6. Exercise has made his muscles strong.\n7. I consider the man honest.\n8. They called him a hero.\n9. We thought him a thief.\n10. They chose him their leader."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§194)—In each of these sentences, the complement tells us about the object. So it is called an Objective Complement."
+      },
+      {
+        "t": "note",
+        "x": "Note (§194)—When the Objective Complement is a noun (as in 1, 2, 5, 8, 9 and 10), it is in the Objective (or Accusative) Case, matching the object."
+      }
+    ],
    "unit": 21,
    "title": "Verbs of Incomplete Predication",
    "display": "Verbs of Incomplete Predication",
@@ -9505,6 +13123,164 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Active and Passive Voice"
+      },
+      {
+        "t": "p",
+        "x": "§195. Compare these two sentences. They mean the same thing."
+      },
+      {
+        "t": "ex",
+        "x": "1. Rama helps Hari.\n2. Hari is helped by Rama."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the form of the verb shows that Rama, the subject, does something. So the verb helps is in the Active Voice. In sentence 2, the form of the verb shows that something is done to Hari, the subject. So the verb helped is in the Passive Voice."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§195)—A verb is in the Active Voice when its form shows that the person or thing named by the subject does something. In other words, the subject is the doer of the action. It is called Active because the subject acts."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§195)—A verb is in the Passive Voice when its form shows that something is done to the person or thing named by the subject. It is called Passive because the subject is not active, but passive — it suffers or receives the action."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§195)—Voice is the form of a verb that shows whether the subject does something or has something done to it."
+      },
+      {
+        "t": "p",
+        "x": "Note the change from the Active Voice to the Passive Voice in these sentences:"
+      },
+      {
+        "t": "ex",
+        "x": "Active Voice — Passive Voice:\n1. Sita loves Savitri. — Savitri is loved by Sita.\n2. The mason is building the wall. — The wall is being built by the mason.\n3. The peon opened the gate. — The gate was opened by the peon.\n4. Some boys were helping the wounded man. — The wounded man was being helped by some boys.\n5. He will finish the work in two weeks. — The work will be finished by him in two weeks.\n6. Who did this? — By whom was this done?\n7. Why did your brother write such a letter? — Why was such a letter written by your brother?"
+      },
+      {
+        "t": "rule",
+        "x": "§195. When a verb changes from the Active Voice to the Passive Voice, the object of the transitive verb in the Active Voice becomes the subject of the verb in the Passive Voice."
+      },
+      {
+        "t": "p",
+        "x": "For example, in sentence 1, Savitri is the object of loves in the Active Voice. In the Passive Voice, Savitri becomes the subject of is loved."
+      },
+      {
+        "t": "h",
+        "x": "How the Passive Voice is Formed"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§196. Only transitive verbs can be used in the Passive Voice. This is because the object of the verb in the Active Voice becomes the subject in the Passive Voice, and an intransitive verb has no object."
+      },
+      {
+        "t": "rule",
+        "x": "§196. The Passive Voice is formed with the right tense of the verb be, followed by the Past Participle. Study this table for the verb take."
+      },
+      {
+        "t": "ex",
+        "x": "Tense (or Modal + base) — Active Voice — Passive Voice:\nSimple present — take, takes — am taken, is taken, are taken\nPresent continuous — am taking, is taking, are taking — am being taken, is being taken, are being taken\nPresent perfect — has taken, have taken — has been taken, have been taken\nSimple past — took — was taken, were taken\nPast continuous — was taking, were taking — was being taken, were being taken\nPast perfect — had taken — had been taken\nSimple future — will take, shall take — will be taken, shall be taken\ncan/may/must, etc. + base — can take, must take — can be taken, must be taken"
+      },
+      {
+        "t": "h",
+        "x": "When to Use the Active and When the Passive"
+      },
+      {
+        "t": "p",
+        "x": "§197. Students must know when to use the Active Voice and when to use the Passive. It is not enough to know how to change one into the other."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§197. Use the Active Voice when you want to make the doer of the action stand out. Use the Passive when you want to make the person or thing acted upon stand out. The Passive is often better when the active sentence would need a vague word like somebody, they, people or we as the subject — that is, when we do not know who did the action, or when it is clear enough who did it."
+      },
+      {
+        "t": "ex",
+        "x": "My pen has been stolen. (Somebody has stolen my pen.)\nI was asked my name. (They asked me my name.)\nEnglish is spoken all over the world. (People speak English all over the world.)\nI have been invited to the party. (Someone has invited me to the party.)\nAll orders will be executed promptly. (We will execute all orders promptly.)"
+      },
+      {
+        "t": "p",
+        "x": "In such cases the agent with by is usually left out."
+      },
+      {
+        "t": "note",
+        "x": "Note (§197)—But, as in the examples given before, the by-phrase cannot be left out when the doer is important and is needed to complete the sense."
+      },
+      {
+        "t": "h",
+        "x": "Verbs with Two Objects in the Passive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§198. When a verb with a direct and an indirect object is changed into the Passive, either object can become the subject of the passive verb. The other object stays."
+      },
+      {
+        "t": "ex",
+        "x": "Active — Passive:\nThe guard refused him entry. — Entry was refused to him by the guard. / He was refused entry by the guard.\nMr. Krishnaji teaches us grammar. — Grammar is taught to us by Mr Krishnaji. / We are taught grammar by Mr Krishnaji.\nThe manager will give you a ticket. — A ticket will be given to you by the manager. / You will be given a ticket by the manager.\nWho taught you French? — By whom was French taught to you? / Who were you taught French by? / By whom were you taught French?\nHe handed her a cheque. — A cheque was handed to her. / She was handed a cheque."
+      },
+      {
+        "t": "p",
+        "x": "An indirect object names the person to whom or for whom something is given or done. A direct object usually names a thing. In sentences like these, it is probably more common for the passive sentence to begin with the person."
+      },
+      {
+        "t": "h",
+        "x": "‘With’ and ‘By’ in the Passive"
+      },
+      {
+        "t": "note",
+        "x": "Note (§199)—We use with, not by, to talk about the instrument used by the doer."
+      },
+      {
+        "t": "ex",
+        "x": "The dog was hit with a stick. (Active Voice: Somebody hit the dog with a stick.)\nThe dog was hit by a boy. (Active Voice: A boy hit the dog.)"
+      },
+      {
+        "t": "h",
+        "x": "Active Form, Passive Sense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§200. A few transitive verbs are sometimes used in the Active form but with a Passive meaning."
+      },
+      {
+        "t": "ex",
+        "x": "These mangoes taste sour (that is, they are sour when they are tasted).\nThe rose smells sweet (that is, it is sweet when it is smelt).\nThe cakes eat short and crisp (that is, they are short and crisp when they are eaten).\nAt least the play reads well (that is, it affects the reader well when it is read)."
+      },
+      {
+        "t": "h",
+        "x": "Further Examples of Active and Passive"
+      },
+      {
+        "t": "p",
+        "x": "§201. Here are more examples of the change between the Active and the Passive Voice."
+      },
+      {
+        "t": "ex",
+        "x": "Active — All his friends laughed at him. Passive — He was laughed at by all his friends.\nActive — They made him king. Passive — He was made king.\nActive — They use video for teaching the students. Passive — Video is used for teaching the students.\nActive — One should keep one’s promises. Passive — Promises should be kept.\nActive — When will you return the book? Passive — When will the book be returned?\nActive — Someone has picked my pocket. Passive — My pocket has been picked.\nActive — They will force me to go. Passive — I shall be forced to go."
+      }
+    ],
    "unit": 22,
    "title": "Active and Passive Voice",
    "display": "Active and Passive Voice",
@@ -10260,6 +14036,224 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is Mood?"
+      },
+      {
+        "t": "p",
+        "x": "§202. The simplest use of a verb is to make a statement of fact or ask a question."
+      },
+      {
+        "t": "ex",
+        "x": "I write to my brother every week.\nWho wrote that letter?"
+      },
+      {
+        "t": "p",
+        "x": "But a verb can also be used to give a command."
+      },
+      {
+        "t": "ex",
+        "x": "Write neatly."
+      },
+      {
+        "t": "p",
+        "x": "Or a verb can be used to show a mere supposition — something that is not real."
+      },
+      {
+        "t": "ex",
+        "x": "If I were you, I would not do it."
+      },
+      {
+        "t": "p",
+        "x": "These different ways in which a verb can be used to show an action are called Moods. Mood comes from the Latin modus, which means manner, or way."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§202)—Mood is the way in which the action of a verb is shown."
+      },
+      {
+        "t": "h",
+        "x": "The Three Moods"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§203. There are three Moods in English: Indicative, Imperative, Subjunctive."
+      },
+      {
+        "t": "ex",
+        "x": "Indicative\nImperative\nSubjunctive"
+      },
+      {
+        "t": "h",
+        "x": "The Indicative Mood"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§204. The Indicative Mood is used: (1) To make a statement of fact; (2) To ask a question."
+      },
+      {
+        "t": "ex",
+        "x": "(1) To make a statement of fact:\nRama goes to school daily.\nWe are taught Arithmetic.\nHe writes neatly.\nNapoleon died at St. Helena.\nThe child is alive.\n(2) To ask a question:\nHave you found your book?\nAre you well?"
+      },
+      {
+        "t": "p",
+        "x": "In each of these sentences the verb is said to be in the Indicative Mood."
+      },
+      {
+        "t": "h",
+        "x": "Indicative for a Supposition Assumed as Fact"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§205. The Indicative Mood is also used for a supposition that we take as a fact."
+      },
+      {
+        "t": "ex",
+        "x": "If I am poor, I shall still be honest. (We take it as a fact that I am poor.)\nIf it rains, I shall stay at home. (We take it as a fact that it will rain.)\nIf my friend wants it, I shall give it to him. (We take it as a fact that my friend wants it.)\nIf he is the leader, he deserves to be punished. (We take it as a fact that he is the leader.)"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§205)—A verb that makes a statement of fact, asks a question, or shows a supposition taken as a fact, is in the Indicative Mood."
+      },
+      {
+        "t": "h",
+        "x": "The Imperative Mood"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§206. The Imperative Mood is used to express: (1) A command; (2) An exhortation, or strong advice; (3) An entreaty or prayer, or a humble request."
+      },
+      {
+        "t": "ex",
+        "x": "(1) A command:\nWait there.\nCome here.\nOpen your book at page 7.\n(2) An exhortation:\nBe steady.\nTake care of your health.\nTry to do better.\n(3) An entreaty or prayer:\nHave mercy upon us.\nGive us this day our daily bread."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§206)—A verb that shows a command, an exhortation, an entreaty or a prayer, is in the Imperative Mood."
+      },
+      {
+        "t": "note",
+        "x": "Note 1 (§206)—The Imperative Mood can strictly be used only in the Second Person, because the person who is commanded must be the person spoken to. But for the First and Third Persons we use the helping verb let to give the same meaning."
+      },
+      {
+        "t": "ex",
+        "x": "Let me go.\nLet us go.\nLet him go.\nLet them go."
+      },
+      {
+        "t": "note",
+        "x": "Note 2 (§206)—The subject of a verb in the Imperative Mood (you) is usually left out."
+      },
+      {
+        "t": "h",
+        "x": "The Subjunctive Mood — Its Forms"
+      },
+      {
+        "t": "p",
+        "x": "§207. Here are the forms of the Subjunctive."
+      },
+      {
+        "t": "ex",
+        "x": "Present Subjunctive:\nthe verb ‘be’ — I be, We be, You be, He be, They be\nother verbs — I speak, We speak, You speak, He speak, They speak\nPast Subjunctive:\nthe verb ‘be’ — I were, We were, You were, He were, They were\nother verbs — I spoke, We spoke, You spoke, He spoke, They spoke"
+      },
+      {
+        "t": "p",
+        "x": "The Subjunctive Mood is hardly used in present-day English."
+      },
+      {
+        "t": "h",
+        "x": "The Present Subjunctive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§208. The Present Subjunctive is found: (1) In certain old phrases, where it shows a wish or hope."
+      },
+      {
+        "t": "ex",
+        "x": "God bless you!\nGod save the King!\nHeaven help us!"
+      },
+      {
+        "t": "rule",
+        "x": "§208. The Present Subjunctive is also found: (2) In formal English, in a noun clause after a verb that shows a wish, a plan, a decision, and so on."
+      },
+      {
+        "t": "ex",
+        "x": "I move that Mr Gupta be appointed Chairman.\nIt is suggested that a ring road be built to reduce the traffic.\nWe recommended that the fee be increased to ten rupees."
+      },
+      {
+        "t": "note",
+        "x": "Note (§208)—Wishes like ‘God bless you!’ belong to the Present Subjunctive. This book has only three Moods — Indicative, Imperative and Subjunctive. There is no separate Optative Mood."
+      },
+      {
+        "t": "h",
+        "x": "The Past Subjunctive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§209. The Past Subjunctive is used: (1) After the verb wish, to show a situation that is not real, or not true."
+      },
+      {
+        "t": "ex",
+        "x": "I wish I knew his name. (= I am sorry I do not know his name.)\nI wish I were a millionaire.\nShe wishes the car belonged to you."
+      },
+      {
+        "t": "rule",
+        "x": "§209. The Past Subjunctive is used: (2) After if, to show that something is unlikely or not real in the present."
+      },
+      {
+        "t": "ex",
+        "x": "If I were you I should not do that (but I am not you, and never can be).\nIf we started now we would be in time (but we cannot start now)."
+      },
+      {
+        "t": "rule",
+        "x": "§209. The Past Subjunctive is used: (3) After as if / as though, to show that something is not real or not likely."
+      },
+      {
+        "t": "ex",
+        "x": "He orders me about as if I were his wife (but I am not).\nHe walks as though he were drunk (but he is not)."
+      },
+      {
+        "t": "rule",
+        "x": "§209. The Past Subjunctive is used: (4) After it is time + subject, to show that it is late."
+      },
+      {
+        "t": "ex",
+        "x": "It is time we started."
+      },
+      {
+        "t": "rule",
+        "x": "§209. The Past Subjunctive is used: (5) After would rather + subject, to show a choice."
+      },
+      {
+        "t": "ex",
+        "x": "I would rather you went by air (= I should prefer you to go by air).\nThey would rather you paid them by cheque."
+      }
+    ],
    "unit": 23,
    "title": "Mood",
    "display": "Mood",
@@ -10535,6 +14529,204 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Three Times"
+      },
+      {
+        "t": "p",
+        "x": "§210. Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. I write this letter to please you.\n2. I wrote the letter in his very presence.\n3. I shall write another letter tomorrow."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the verb write refers to present time. In sentence 2, the verb wrote refers to past time. In sentence 3, the verb shall write refers to future time. So a verb can refer to (1) present time, (2) past time, or (3) future time."
+      },
+      {
+        "t": "h",
+        "x": "Present, Past and Future Tenses"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§211)—A verb that refers to present time is in the Present Tense."
+      },
+      {
+        "t": "ex",
+        "x": "I write.\nI love."
+      },
+      {
+        "t": "p",
+        "x": "The word tense comes from the Latin tempus, which means time."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§211)—A verb that refers to past time is in the Past Tense."
+      },
+      {
+        "t": "ex",
+        "x": "I wrote.\nI loved."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§211)—A verb that refers to future time is in the Future Tense."
+      },
+      {
+        "t": "ex",
+        "x": "I shall write.\nI shall love."
+      },
+      {
+        "t": "h",
+        "x": "The Three Main Tenses"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§212. There are three main Tenses: the Present, the Past and the Future."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§212)—The Tense of a verb shows the time of an action or event."
+      },
+      {
+        "t": "note",
+        "x": "Note (§212)—Sometimes a past tense can refer to present time, and a present tense can show future time."
+      },
+      {
+        "t": "ex",
+        "x": "I wish I knew the answer. (= I am sorry I do not know the answer. Past tense — present time)\nLet us wait till he comes. (Present tense — future time)"
+      },
+      {
+        "t": "h",
+        "x": "The Chief Tenses of ‘to love’"
+      },
+      {
+        "t": "p",
+        "x": "§213. Below are the chief Tenses (Active Voice, Indicative Mood) of the verb to love."
+      },
+      {
+        "t": "ex",
+        "x": "PRESENT TENSE:\n1st Person — I love (Singular), We love (Plural)\n2nd Person — You love, You love\n3rd Person — He loves, They love\nPAST TENSE:\n1st Person — I loved, We loved\n2nd Person — You loved, You loved\n3rd Person — He loved, They loved\nFUTURE TENSE:\n1st Person — I shall/will love, We shall/will love\n2nd Person — You will love, You will love\n3rd Person — He will love, They will love"
+      },
+      {
+        "t": "h",
+        "x": "The Four Forms of the Present Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§214. The Present Tense has four forms."
+      },
+      {
+        "t": "ex",
+        "x": "1. I love. (Simple Present)\n2. I am loving. (Present Continuous)\n3. I have loved. (Present Perfect)\n4. I have been loving. (Present Perfect Continuous)"
+      },
+      {
+        "t": "p",
+        "x": "All these verbs refer to present time, so they are all in the Present Tense. But each form shows the action in a different way."
+      },
+      {
+        "t": "rule",
+        "x": "§214. In sentence 1, the verb simply names the action. It says nothing about whether the action is finished or unfinished."
+      },
+      {
+        "t": "ex",
+        "x": "I love. (Simple Present)"
+      },
+      {
+        "t": "rule",
+        "x": "§214. In sentence 2, the verb shows the action as unfinished — it is still going on."
+      },
+      {
+        "t": "ex",
+        "x": "I am loving. (Present Continuous)"
+      },
+      {
+        "t": "rule",
+        "x": "§214. In sentence 3, the verb shows the action as finished, or complete, at the time of speaking."
+      },
+      {
+        "t": "ex",
+        "x": "I have loved. (Present Perfect)"
+      },
+      {
+        "t": "rule",
+        "x": "§214. In sentence 4, the verb shows that the action is still going on, and is not finished at this moment. That is why it is called the Present Perfect Continuous."
+      },
+      {
+        "t": "ex",
+        "x": "I have been loving. (Present Perfect Continuous)"
+      },
+      {
+        "t": "rule",
+        "x": "§214. So the Tense of a verb shows not only the time of an action, but also the state of the action — whether it is finished or still going on."
+      },
+      {
+        "t": "h",
+        "x": "The Four Forms of the Past and Future Tenses"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§215. Just as the Present Tense has four forms, the Past Tense also has four forms."
+      },
+      {
+        "t": "ex",
+        "x": "1. I loved. (Simple Past)\n2. I was loving. (Past Continuous)\n3. I had loved. (Past Perfect)\n4. I had been loving. (Past Perfect Continuous)"
+      },
+      {
+        "t": "rule",
+        "x": "§215. The Future Tense also has four forms."
+      },
+      {
+        "t": "ex",
+        "x": "1. I shall/will love. (Simple Future)\n2. I shall/will be loving. (Future Continuous)\n3. I shall/will have loved. (Future Perfect)\n4. I shall have been loving. (Future Perfect Continuous)"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§215)—Tense is the form of a verb that shows the time and the state of an action or event."
+      },
+      {
+        "t": "h",
+        "x": "Agreement of the Verb with Its Subject"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§216. A verb agrees with its subject in number and person. Study the verb forms of the different tenses. Here are the forms of the verb ‘speak’ in all twelve tenses."
+      },
+      {
+        "t": "ex",
+        "x": "Simple Present Tense: I speak, You speak, He speaks, We speak, They speak\nPresent Continuous Tense: I am speaking, You are speaking, He is speaking, We are speaking, They are speaking\nPresent Perfect Tense: I have spoken, You have spoken, He has spoken, We have spoken, They have spoken\nPresent Perfect Continuous Tense: I have been speaking, You have been speaking, He has been speaking, We have been speaking, They have been speaking"
+      },
+      {
+        "t": "ex",
+        "x": "Simple Past Tense: I spoke, You spoke, He spoke, We spoke, They spoke\nPast Continuous Tense: I was speaking, You were speaking, He was speaking, We were speaking, They were speaking\nPast Perfect Tense: I had spoken, You had spoken, He had spoken, We had spoken, They had spoken\nPast Perfect Continuous Tense: I had been speaking, You had been speaking, He had been speaking, We had been speaking, They had been speaking"
+      },
+      {
+        "t": "ex",
+        "x": "Simple Future Tense: I shall/will speak, You will speak, He will speak, We shall/will speak, They will speak\nFuture Continuous Tense: I shall/will be speaking, You will be speaking, He will be speaking, We shall/will be speaking, They will be speaking\nFuture Perfect Tense: I shall/will have spoken, You will have spoken, He will have spoken, We shall/will have spoken, They will have spoken\nFuture Perfect Continuous Tense: I shall/will have been speaking, You will have been speaking, He will have been speaking, We shall/will have been speaking, They will have been speaking"
+      }
+    ],
    "unit": 24,
    "title": "Tenses: Introduction",
    "display": "Tenses: Introduction",
@@ -10845,6 +15037,388 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Present Tenses"
+      },
+      {
+        "t": "h",
+        "x": "The Simple Present Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§217. The Simple Present is used: (1) To show a habitual action — something done again and again."
+      },
+      {
+        "t": "ex",
+        "x": "He drinks tea every morning.\nI get up everyday at five o’clock.\nMy watch keeps good time."
+      },
+      {
+        "t": "rule",
+        "x": "§217. The Simple Present is used: (2) To show general truths."
+      },
+      {
+        "t": "ex",
+        "x": "The sun rises in the east.\nHoney is sweet.\nHonesty is the best policy."
+      },
+      {
+        "t": "rule",
+        "x": "§217. The Simple Present is used: (3) In exclamatory sentences beginning with here and there, to show what is happening right now."
+      },
+      {
+        "t": "ex",
+        "x": "Here comes the bus!\nThere she goes!"
+      },
+      {
+        "t": "rule",
+        "x": "§217. The Simple Present is used: (4) In a vivid story, instead of the Simple Past."
+      },
+      {
+        "t": "ex",
+        "x": "Sohrab now rushes forward and deals a heavy blow to Rustam.\nImmediately the Sultan hurries to his capital."
+      },
+      {
+        "t": "rule",
+        "x": "§217. The Simple Present is used: (5) To show a future event that is part of a fixed timetable or fixed programme."
+      },
+      {
+        "t": "ex",
+        "x": "The next flight is at 7.00 tomorrow morning.\nThe match starts at 9 o’clock.\nThe train leaves at 5.20.\nWhen does the coffee house reopen?"
+      },
+      {
+        "t": "h",
+        "x": "Other Uses of the Simple Present"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§218. The Simple Present is also used: (1) To introduce quotations."
+      },
+      {
+        "t": "ex",
+        "x": "Keats says, ‘A thing of beauty is a joy for ever’."
+      },
+      {
+        "t": "rule",
+        "x": "§218. The Simple Present is also used: (2) Instead of the Simple Future Tense, in clauses of time and of condition."
+      },
+      {
+        "t": "ex",
+        "x": "I shall wait till you finish your lunch.\nIf it rains we shall get wet."
+      },
+      {
+        "t": "rule",
+        "x": "§218. The Simple Present is also used: (3) In radio and TV commentary on sports, instead of the Present Continuous, to describe what is happening one after another. It stresses the order of events, not how long they last."
+      },
+      {
+        "t": "rule",
+        "x": "§218. The Simple Present is also used: (4) Instead of the Present Continuous, with the verbs listed in §221 below."
+      },
+      {
+        "t": "h",
+        "x": "The Present Continuous Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§219. The Present Continuous is used: (1) For an action going on at the time of speaking."
+      },
+      {
+        "t": "ex",
+        "x": "She is singing (now).\nThe boys are playing hockey."
+      },
+      {
+        "t": "rule",
+        "x": "§219. The Present Continuous is used: (2) For a temporary action, which may not be happening at the very moment of speaking."
+      },
+      {
+        "t": "ex",
+        "x": "I am reading ‘David Copperfield’ (but I am not reading at this moment)."
+      },
+      {
+        "t": "rule",
+        "x": "§219. The Present Continuous is used: (3) For an action that has already been arranged to take place in the near future."
+      },
+      {
+        "t": "ex",
+        "x": "I am going to the cinema tonight.\nMy uncle is arriving tomorrow."
+      },
+      {
+        "t": "h",
+        "x": "Present Continuous for an Obstinate Habit"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§220. We use the Simple Present for a habitual action. But for a habit that is very stubborn — something that goes on even after advice or warning — we use the Present Continuous with a word like always, continually or constantly."
+      },
+      {
+        "t": "ex",
+        "x": "My dog is very silly; he is always running out into the road."
+      },
+      {
+        "t": "h",
+        "x": "Verbs Not Normally Used in the Continuous Form"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§221. The following verbs are not normally used in the continuous form, because of their meaning: (1) Verbs of perception, like see, hear, smell, notice, recognise; (2) Verbs of appearing, like appear, look, seem; (3) Verbs of emotion, like want, wish, desire, feel, like, love, hate, hope, refuse, prefer; (4) Verbs of thinking, like think, suppose, believe, agree, consider, trust, remember, forget, know, understand, imagine, mean, mind; (5) have (= possess), own, possess, belong to, contain, consist of, be (except when used in the Passive)."
+      },
+      {
+        "t": "ex",
+        "x": "Wrong — Right:\nThese grapes are tasting sour. — These grapes taste sour.\nI am thinking you are wrong. — I think you are wrong.\nShe is seeming sad. — She seems sad.\nHe is having a cellphone. — He has a cellphone."
+      },
+      {
+        "t": "rule",
+        "x": "§221. But these verbs can be used in the continuous tenses with a different meaning."
+      },
+      {
+        "t": "ex",
+        "x": "She is tasting the soup to see if it needs more salt. (taste = test the flavour of)\nI am thinking of going to Malaysia. (think of = consider the idea of)\nThey are having lunch. (have = eat)"
+      },
+      {
+        "t": "h",
+        "x": "The Present Perfect Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§222. The Present Perfect is used: (1) To show finished actions in the immediate past (with just)."
+      },
+      {
+        "t": "ex",
+        "x": "He has just gone out.\nIt has just struck ten."
+      },
+      {
+        "t": "rule",
+        "x": "§222. The Present Perfect is used: (2) To show past actions whose time is not given and not definite."
+      },
+      {
+        "t": "ex",
+        "x": "Have you read ‘Gulliver’s Travels’?\nI have never known him to be angry.\nMr. Hari has been to Japan."
+      },
+      {
+        "t": "rule",
+        "x": "§222. The Present Perfect is used: (3) To describe past events when we think more of their effect in the present than of the action itself."
+      },
+      {
+        "t": "ex",
+        "x": "Gopi has eaten all the biscuits (that is, there are not any left for you).\nI have cut my finger (and it is bleeding now).\nI have finished my work (= now I am free)."
+      },
+      {
+        "t": "rule",
+        "x": "§222. The Present Perfect is used: (4) To show an action that began at some time in the past and is still going on up to the present moment (often with since- and for-phrases)."
+      },
+      {
+        "t": "ex",
+        "x": "I have known him for a long time.\nHe has been ill since last week.\nWe have lived here for ten years.\nWe haven’t seen Padma for several months."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs Used with the Present Perfect"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§223. These adverbs can also be used with the Present Perfect: never, ever (in questions only), so far, till now, yet (in negatives and questions), already, today, this week, this month, and so on."
+      },
+      {
+        "t": "note",
+        "x": "Note (§223)—The Present Perfect is never used with adverbs of past time. We should not say, for example, ‘He has gone to Kolkata yesterday’. In such cases use the Simple Past: ‘He went to Kolkata yesterday’."
+      },
+      {
+        "t": "h",
+        "x": "The Present Perfect Continuous Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§224. The Present Perfect Continuous is used for an action that began at some time in the past and is still going on."
+      },
+      {
+        "t": "ex",
+        "x": "He has been sleeping for five hours (and is still sleeping).\nThey have been building the bridge for several months.\nThey have been playing since four o’clock."
+      },
+      {
+        "t": "h",
+        "x": "Present Perfect Continuous for a Finished Action"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§225. This tense is also sometimes used for an action that is already finished. In such cases, the fact that the action went on for a long time is stressed, to explain something."
+      },
+      {
+        "t": "ex",
+        "x": "‘Why are your clothes so wet?’ — ‘I have been watering the garden’."
+      },
+      {
+        "t": "h",
+        "x": "Past Tenses"
+      },
+      {
+        "t": "h",
+        "x": "The Simple Past Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§226. The Simple Past is used to show an action finished in the past. It often comes with a word or phrase of past time."
+      },
+      {
+        "t": "ex",
+        "x": "The ship sailed yesterday.\nI received his letter a week ago.\nShe left school last year."
+      },
+      {
+        "t": "h",
+        "x": "The Simple Past Without an Adverb of Time"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§227. Sometimes this tense is used without a word of time. In such cases the time is understood, or shown by the context."
+      },
+      {
+        "t": "ex",
+        "x": "I learnt Hindi in Nagpur.\nI didn’t sleep well (that is, last night).\nBabar defeated Rana Sanga at Kanwaha."
+      },
+      {
+        "t": "h",
+        "x": "The Simple Past for Past Habits"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§228. The Simple Past is also used for past habits."
+      },
+      {
+        "t": "ex",
+        "x": "He studied many hours everyday.\nShe always carried an umbrella."
+      },
+      {
+        "t": "h",
+        "x": "The Past Continuous Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§229. The Past Continuous is used to show an action going on at some time in the past. The time of the action may or may not be given."
+      },
+      {
+        "t": "ex",
+        "x": "We were listening to the radio all evening.\nIt was getting darker.\nThe light went out while I was reading.\nWhen I saw him, he was playing chess."
+      },
+      {
+        "t": "rule",
+        "x": "§229. As in the last two examples above, the Past Continuous and the Simple Past are used together when a new action happens in the middle of a longer action. The Simple Past is used for the new action."
+      },
+      {
+        "t": "h",
+        "x": "Past Continuous for Persistent Habits"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§230. This tense is also used with always, continually, and so on, for habits that went on and on in the past."
+      },
+      {
+        "t": "ex",
+        "x": "He was always complaining."
+      },
+      {
+        "t": "h",
+        "x": "The Past Perfect Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§231. The Past Perfect shows an action finished before a certain moment in the past."
+      },
+      {
+        "t": "ex",
+        "x": "I met him in New Delhi in 1996. I had seen him last five years before."
+      },
+      {
+        "t": "h",
+        "x": "Past Perfect and Simple Past Together"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§232. If two actions happened in the past, we may need to show which one happened first. The Past Perfect is mainly used for this. The Simple Past is used in one clause and the Past Perfect in the other."
+      },
+      {
+        "t": "ex",
+        "x": "When I reached the station the train had started (so I couldn’t get into the train).\nI had done my exercise when Hari came to see me.\nI had written the letter before he arrived."
+      },
+      {
+        "t": "h",
+        "x": "The Past Perfect Continuous Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§233. The Past Perfect Continuous is used for an action that began before a certain point in the past and went on up to that time."
+      },
+      {
+        "t": "ex",
+        "x": "At that time he had been writing a novel for two months.\nWhen Mr Mukerji came to the school in 1995, Mr Anand had already been teaching there for five years."
+      }
+    ],
    "unit": 25,
    "title": "The Uses of the Present and Past Tenses",
    "display": "The Uses of the Present and Past Tenses",
@@ -11426,6 +16000,276 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Ways of Talking About the Future"
+      },
+      {
+        "t": "p",
+        "x": "§234. There are several ways of talking about the future in English: the Simple Future Tense, the going to form, the Simple Present Tense, and so on."
+      },
+      {
+        "t": "h",
+        "x": "The Simple Future Tense — Future as Fact"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§235. The Simple Future Tense is used to talk about things we cannot control. It shows the future as a fact."
+      },
+      {
+        "t": "ex",
+        "x": "I shall be twenty next Saturday.\nIt will be Diwali in a week.\nWe will know our exam results in May."
+      },
+      {
+        "t": "h",
+        "x": "The Simple Future — What We Think Will Happen"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§236. We also use this tense to talk about what we think or believe will happen in the future."
+      },
+      {
+        "t": "ex",
+        "x": "I think Pakistan will win the match.\nI’m sure Helen will get a first class."
+      },
+      {
+        "t": "p",
+        "x": "As in these sentences, we often use this tense with I think and I’m sure. We also say I expect ..., I believe ..., Probably ..., and so on."
+      },
+      {
+        "t": "h",
+        "x": "The Simple Future — Instant Decision"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§237. We can use this tense when we decide to do something at the very moment of speaking."
+      },
+      {
+        "t": "ex",
+        "x": "It is raining. I will take an umbrella.\n“Mr Sinha is very busy at the moment.” — “All right. I’ll wait.”"
+      },
+      {
+        "t": "h",
+        "x": "Going to — Decided Before"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§238. We use the going to form (be going to + base form of the verb) when we decided to do something before we talk about it."
+      },
+      {
+        "t": "ex",
+        "x": "“Have you decided what to do?” — “Yes. I am going to leave the job.”\n“Why do you want to sell your motorbike?” — “I’m going to buy a car.”"
+      },
+      {
+        "t": "rule",
+        "x": "§238. Remember: if the action is already decided, and preparations have been made, use the going to form, not the Simple Future Tense. The Simple Future Tense is for a decision made at the very moment of speaking."
+      },
+      {
+        "t": "h",
+        "x": "Going to — What Seems Likely or Certain"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§239. We also use the going to form to talk about what seems likely or sure to happen, when something in the present tells us about the future."
+      },
+      {
+        "t": "ex",
+        "x": "It is going to rain; look at those clouds.\nThe boat is full of water. It is going to sink.\nShe is going to have a baby."
+      },
+      {
+        "t": "h",
+        "x": "Going to — On the Point of Happening"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§240. The going to form can also show an action that is just about to happen."
+      },
+      {
+        "t": "ex",
+        "x": "Let’s get into the train. It’s going to leave.\nLook! The cracker is going to explode."
+      },
+      {
+        "t": "h",
+        "x": "Be About to"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§241. Be about to + base form can also be used for the immediate future — something that will happen very soon."
+      },
+      {
+        "t": "ex",
+        "x": "Let’s get into the train. It’s about to leave.\nDon’t go out now. We are about to have lunch."
+      },
+      {
+        "t": "h",
+        "x": "The Simple Present for the Future"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§242. The Simple Present Tense is used for official programmes and timetables."
+      },
+      {
+        "t": "ex",
+        "x": "The college opens on 23rd June.\nThe film starts at 6.30 and finishes at 9.00.\nWhen does the next train leave for Chennai?"
+      },
+      {
+        "t": "h",
+        "x": "Simple Present in Time and Condition Clauses"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§243. The Simple Present is often used for future time in clauses with if, unless, when, while, as (= while), before, after, until, by the time and as soon as. The Simple Future Tense is not used in such clauses."
+      },
+      {
+        "t": "ex",
+        "x": "I won’t go out if it rains. (not: will rain)\nCan I have some milk before I go to bed?\nLet’s wait till he finishes his work.\nPlease ring me up as soon as he comes."
+      },
+      {
+        "t": "h",
+        "x": "The Present Continuous for the Future"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§244. We use the Present Continuous Tense when we talk about something we have planned to do in the future."
+      },
+      {
+        "t": "ex",
+        "x": "I am going to Shimla tomorrow.\nWe are eating out tonight.\nMr Abdul Rehman is arriving this evening."
+      },
+      {
+        "t": "p",
+        "x": "Use the Present Continuous (not the Simple Present) for personal plans."
+      },
+      {
+        "t": "h",
+        "x": "The Future Continuous Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§245. We use the Future Continuous Tense to talk about actions that will be in progress at a time in the future."
+      },
+      {
+        "t": "ex",
+        "x": "I suppose it will be raining when we start.\nThis time tomorrow I will be sitting on the beach in Singapore.\n“Can I see you at 5 o’clock?” — “Please don’t come then. I will be watching the tennis match on TV.”"
+      },
+      {
+        "t": "h",
+        "x": "Future Continuous for Planned Actions"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§246. We also use this tense to talk about future actions that are already planned, or that will happen in the normal course of things."
+      },
+      {
+        "t": "ex",
+        "x": "I will be staying here till Sunday.\nHe will be meeting us next week.\nThe postman will be coming soon."
+      },
+      {
+        "t": "h",
+        "x": "Be to"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§247. We use be to + base form to talk about official plans and arrangements."
+      },
+      {
+        "t": "ex",
+        "x": "The Prime Minister is to visit America next month.\nThe conference is to discuss “Nuclear Tests.”"
+      },
+      {
+        "t": "p",
+        "x": "Be to is used in a formal style, often in news reports. Be is usually left out in headlines, for example: “Prime Minister to visit America”."
+      },
+      {
+        "t": "h",
+        "x": "The Future Perfect Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§248. The Future Perfect Tense is used to talk about actions that will be finished by a certain time in the future."
+      },
+      {
+        "t": "ex",
+        "x": "I shall have written my exercise by then.\nHe will have left before you go to see him.\nBy the end of this month I will have worked here for five years."
+      },
+      {
+        "t": "h",
+        "x": "The Future Perfect Continuous Tense"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§249. The Future Perfect Continuous Tense is used for actions that will be in progress over a period of time that will end in the future."
+      },
+      {
+        "t": "ex",
+        "x": "By next March we shall have been living here for four years.\nI’ll have been teaching for twenty years next July."
+      },
+      {
+        "t": "p",
+        "x": "This tense is not very common."
+      }
+    ],
    "unit": 26,
    "title": "The Future",
    "display": "The Future",
@@ -11811,6 +16655,92 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Person of the Verb"
+      },
+      {
+        "t": "p",
+        "x": "§250. The verb, like the personal pronouns, has three Persons — the First, the Second and the Third."
+      },
+      {
+        "t": "ex",
+        "x": "1. I speak.\n2. You speak. (Old English: Thou speakest.)\n3. He speaks."
+      },
+      {
+        "t": "p",
+        "x": "All three subjects are singular. The verbs are different because the subjects are of different Persons. In sentence 1, the subject is First Person, so the verb is First Person. In sentence 2, the subject is Second Person, so the verb is Second Person. In sentence 3, the subject is Third Person, so the verb is Third Person."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§250. The verb takes the same Person as its subject. In other words, the verb agrees with its subject in Person."
+      },
+      {
+        "t": "h",
+        "x": "Number of the Verb"
+      },
+      {
+        "t": "p",
+        "x": "§251. The verb, like the noun and the pronoun, has two Numbers: the Singular and the Plural."
+      },
+      {
+        "t": "ex",
+        "x": "1. He speaks.\n2. They speak."
+      },
+      {
+        "t": "p",
+        "x": "Both subjects are Third Person. The verbs are different because the subjects are of different Numbers. In sentence 1, the subject is Singular, so the verb is Singular. In sentence 2, the subject is Plural, so the verb is Plural."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§251. The verb takes the same Number as its subject. In other words, the verb agrees with its subject in Number."
+      },
+      {
+        "t": "h",
+        "x": "The Rule of Agreement"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§252. The Verb must agree with its Subject in Number and Person. That is, the verb must be of the same Number and Person as its subject."
+      },
+      {
+        "t": "ex",
+        "x": "If the subject is Singular, First Person:\nI am here.\nI was there.\nI have a bat.\nI play cricket.\nIf the subject is Singular, Third Person:\nHe is here.\nHe was there.\nHe has a bat.\nHe plays cricket.\nIf the subject is Plural, Third Person:\nThey are here.\nThey were there.\nThey have bats.\nThey play cricket."
+      },
+      {
+        "t": "note",
+        "x": "Note (§252)—In some languages the form of the verb changes with the Number and Person of the subject. In modern English, verbs have lost all their changes for number and person, except in the third person singular."
+      },
+      {
+        "t": "ex",
+        "x": "I speak. We speak.\nYou speak. You speak. (You is both singular and plural in current English.)\nHe speaks. They speak."
+      },
+      {
+        "t": "p",
+        "x": "The only exception is the verb to be."
+      },
+      {
+        "t": "ex",
+        "x": "I am. We are.\nYou are. You are.\nHe is. They are."
+      },
+      {
+        "t": "p",
+        "x": "For more on the agreement of the verb with the subject, see Book II, Chapter 17."
+      }
+    ],
    "unit": 27,
    "title": "The Verb: Person and Number",
    "display": "The Verb: Person and Number",
@@ -11978,6 +16908,220 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is an Infinitive?"
+      },
+      {
+        "t": "p",
+        "x": "§253. Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "I want to go.\nThey tried to find fault with us."
+      },
+      {
+        "t": "p",
+        "x": "The forms to go and to find are called infinitives."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§253)—The Infinitive is the base form of a verb, often with to before it."
+      },
+      {
+        "t": "h",
+        "x": "The Infinitive as a Verb-Noun"
+      },
+      {
+        "t": "p",
+        "x": "§254. Read these sentences:"
+      },
+      {
+        "t": "ex",
+        "x": "1. To err is human.\n2. Birds love to sing.\n3. To respect our parents is our duty.\n4. He refused to obey the orders.\n5. Many men desire to make money quickly."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the Infinitive is the Subject of the verb is, just like a noun. In sentence 2, it is the Object of the verb love, just like a noun. In sentence 3, it is the Subject of the verb is, like a noun — but, like a verb, it also takes an object. In sentence 4, it is the Object of the verb refused, like a noun — but, like a verb, it also takes an object. In sentence 5, it is the Object of the verb desire, like a noun — but, like a verb, it also takes an object and is described by an adverb."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§254)—The Infinitive is a kind of noun with some features of a verb. Like a verb, it can take an object (when the verb is transitive) and can be described by adverbs. In short, the Infinitive is a Verb-Noun."
+      },
+      {
+        "t": "h",
+        "x": "The Infinitive Without ‘to’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§255. The word to is often used with the Infinitive, but it is not an essential part of it."
+      },
+      {
+        "t": "rule",
+        "x": "§255. After certain verbs (bid, let, make, need, dare, see, hear), we use the Infinitive without to."
+      },
+      {
+        "t": "ex",
+        "x": "Bid him go there.\nI bade him go.\nLet him sit here.\nI will not let you go.\nMake him stand.\nI made him run.\nWe need not go today.\nYou need not do it.\nYou dare not do it.\nI saw him do it.\nI heard him cry."
+      },
+      {
+        "t": "note",
+        "x": "Note (§255)—Need and dare take the Infinitive without to, except when they are used with do."
+      },
+      {
+        "t": "h",
+        "x": "The Infinitive Without ‘to’ After Modals"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§256. The Infinitive without to is also used after will, would, shall, should, may, might, can, could and must."
+      },
+      {
+        "t": "ex",
+        "x": "I will pay the bill.\nYou should work harder.\nHe can speak five languages.\nYou must come to the office at nine tomorrow."
+      },
+      {
+        "t": "rule",
+        "x": "§256. The Infinitive without to is also used after had better, had rather, would rather, sooner than, rather than."
+      },
+      {
+        "t": "ex",
+        "x": "You had better ask permission.\nI had rather play than work.\nI would rather die than suffer so."
+      },
+      {
+        "t": "h",
+        "x": "The Simple Infinitive"
+      },
+      {
+        "t": "p",
+        "x": "§257. When the Infinitive is used like a noun, it is called the Simple Infinitive."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§257. The Simple Infinitive is used: (1) As the Subject of a Verb."
+      },
+      {
+        "t": "ex",
+        "x": "To find fault is easy.\nTo err is human.\nTo swim is good exercise."
+      },
+      {
+        "t": "rule",
+        "x": "§257. The Simple Infinitive is used: (2) As the Object of a transitive Verb."
+      },
+      {
+        "t": "ex",
+        "x": "I do not mean to read.\nHe likes to play cards."
+      },
+      {
+        "t": "rule",
+        "x": "§257. The Simple Infinitive is used: (3) As the Complement of a Verb."
+      },
+      {
+        "t": "ex",
+        "x": "Her greatest pleasure is to sing.\nHis custom is to ride daily."
+      },
+      {
+        "t": "rule",
+        "x": "§257. The Simple Infinitive is used: (4) As the Object of a Preposition."
+      },
+      {
+        "t": "ex",
+        "x": "He had no choice but (= except) to obey.\nThe speaker is about to begin."
+      },
+      {
+        "t": "rule",
+        "x": "§257. The Simple Infinitive is used: (5) As an Objective Complement."
+      },
+      {
+        "t": "ex",
+        "x": "I saw him go."
+      },
+      {
+        "t": "h",
+        "x": "The Gerundial or Qualifying Infinitive"
+      },
+      {
+        "t": "p",
+        "x": "§258. When the Infinitive is used to qualify, or describe, something, it is called the Gerundial or Qualifying Infinitive."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§258. The Gerundial Infinitive is used: (1) To qualify a Verb, usually to show purpose."
+      },
+      {
+        "t": "ex",
+        "x": "He called to see my brother (= to see my brother was his purpose).\nWe eat to live. (Purpose)\nI come to bury Caesar. (Purpose)\nHe wept to see the damage caused by the flood. (Cause)"
+      },
+      {
+        "t": "rule",
+        "x": "§258. The Gerundial Infinitive is used: (2) To qualify an Adjective."
+      },
+      {
+        "t": "ex",
+        "x": "Figs are good to eat.\nThis medicine is pleasant to take.\nThe boys are anxious to learn.\nHe is too ill to do any work."
+      },
+      {
+        "t": "rule",
+        "x": "§258. The Gerundial Infinitive is used: (3) To qualify a Noun."
+      },
+      {
+        "t": "ex",
+        "x": "This is not the time to play.\nYou will have reason to be sorry.\nHe is a man to be admired.\nHere is a house to let.\nThis house is to let."
+      },
+      {
+        "t": "rule",
+        "x": "§258. The Gerundial Infinitive is used: (4) To qualify a Sentence."
+      },
+      {
+        "t": "ex",
+        "x": "To tell the truth, I quite forgot my promise.\nHe was frightened, so to speak."
+      },
+      {
+        "t": "p",
+        "x": "In 1 and 2, the Gerundial Infinitive does the work of an Adverb. In 3, it does the work of an Adjective. In 4, it is used absolutely — that is, on its own."
+      },
+      {
+        "t": "h",
+        "x": "The Forms of the Infinitive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§259. The Infinitive can be active or passive. In the Active, it has a present form and a perfect form. It can simply name the action, or it can show action going on."
+      },
+      {
+        "t": "ex",
+        "x": "Active:\nPresent: to love — Perfect: to have loved\nPresent Continuous: to be loving — Perfect Continuous: to have been loving"
+      },
+      {
+        "t": "rule",
+        "x": "§259. In the Passive, the Infinitive has a present form and a perfect form."
+      },
+      {
+        "t": "ex",
+        "x": "Passive:\nPresent: to be loved — Perfect: to have been loved"
+      }
+    ],
    "unit": 28,
    "title": "The Infinitive",
    "display": "The Infinitive",
@@ -12414,6 +17558,328 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is a Participle?"
+      },
+      {
+        "t": "p",
+        "x": "§260. Read this sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Hearing the noise, the boy woke up."
+      },
+      {
+        "t": "p",
+        "x": "The word hearing describes the noun boy, as an adjective does. It is made from the verb hear, and it takes an object (the noise). So the word hearing is partly a verb and partly an adjective. It is called a Participle. It can also be called a Verbal Adjective."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§260)—A Participle is a form of the verb that is partly a verb and partly an adjective."
+      },
+      {
+        "t": "note",
+        "x": "Note (§260)—The phrase ‘Hearing the noise’, which begins with a Participle, is called a Participle Phrase. Here it is used as an Adjective Phrase."
+      },
+      {
+        "t": "h",
+        "x": "The Present Participle"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§261. The Present Participle ends in -ing. It shows an action going on, or not finished."
+      },
+      {
+        "t": "ex",
+        "x": "1. We met a girl carrying a basket of flowers.\n2. Loudly knocking at the gate, he asked to come in.\n3. The child, thinking all was safe, attempted to cross the road.\n4. Smiling happily, she opened the door."
+      },
+      {
+        "t": "p",
+        "x": "If the verb is transitive, the participle takes an object, as in sentence 1. Note also that in sentence 2, the participle is described by an adverb (loudly)."
+      },
+      {
+        "t": "h",
+        "x": "The Past and Perfect Participles"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§262. Besides the Present Participle, every verb has another participle called the Past Participle. It shows an action that is finished."
+      },
+      {
+        "t": "ex",
+        "x": "Blinded by a dust storm, they lost their way.\nDeceived by his friends, he lost all hope.\nTime misspent is time lost.\nDriven by hunger, he stole a piece of bread.\nWe saw a few trees full of fruit."
+      },
+      {
+        "t": "p",
+        "x": "The Past Participle usually ends in -ed, -d, -t, -en or -n."
+      },
+      {
+        "t": "rule",
+        "x": "§262. Besides these two simple participles, the Present and the Past, we have the Perfect Participle. It shows an action finished at some past time."
+      },
+      {
+        "t": "ex",
+        "x": "Having rested, we continued our journey."
+      },
+      {
+        "t": "h",
+        "x": "Participle Adjectives"
+      },
+      {
+        "t": "p",
+        "x": "§263. In the examples below, the participles are used as simple adjectives before a noun. Used like this, they are called Participle Adjectives."
+      },
+      {
+        "t": "ex",
+        "x": "A rolling stone gathers no moss.\nWe had a drink of the sparkling water.\nHis tattered coat needs mending.\nThe creaking door awakened the dog.\nA lying witness ought to be punished.\nHe played a losing game.\nA burnt child dreads the fire.\nHis polite manners made a very good impression.\nHe wears a worried look.\nEducation is the most pressing need of our country.\nHe was known to be the wisest man of his time."
+      },
+      {
+        "t": "p",
+        "x": "From the last two examples, you can see that a participle can be compared, like an adjective."
+      },
+      {
+        "t": "h",
+        "x": "Present Participle Active, Past Participle Passive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§264. When used as adjectives, the Past Participle has a Passive meaning, while the Present Participle has an Active meaning."
+      },
+      {
+        "t": "ex",
+        "x": "a spent swimmer = a swimmer who is tired out;\na burnt child = a child who is burnt;\na painted doll = a doll which is painted;\na rolling stone = a stone which rolls."
+      },
+      {
+        "t": "h",
+        "x": "What We Have Learnt About the Participle"
+      },
+      {
+        "t": "p",
+        "x": "§265. Let us sum up what we have learnt about the Participle."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§265. (1) A participle is a Verbal Adjective."
+      },
+      {
+        "t": "rule",
+        "x": "§265. (2) Like a verb, it can take a noun or pronoun as its object."
+      },
+      {
+        "t": "ex",
+        "x": "Hearing the noise, the boy woke up. (The noun noise is the object of the participle Hearing.)"
+      },
+      {
+        "t": "rule",
+        "x": "§265. (3) Like a verb, it can be described by an adverb."
+      },
+      {
+        "t": "ex",
+        "x": "Loudly knocking at the gate, he asked to come in. (The participle knocking is described by the adverb Loudly.)"
+      },
+      {
+        "t": "rule",
+        "x": "§265. (4) Like an adjective, it can describe a noun or pronoun."
+      },
+      {
+        "t": "ex",
+        "x": "Having rested, the men continued their journey."
+      },
+      {
+        "t": "rule",
+        "x": "§265. (5) Like an adjective, it can be compared."
+      },
+      {
+        "t": "ex",
+        "x": "Education is the most pressing need of our time. (Here the participle pressing is compared by putting most before it.)"
+      },
+      {
+        "t": "h",
+        "x": "The Forms of the Participles"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§266. Here are the forms of the participles."
+      },
+      {
+        "t": "ex",
+        "x": "Active:\nPresent: loving — Perfect: having loved\nPassive:\nPresent: being loved — Perfect: having been loved — Past: loved"
+      },
+      {
+        "t": "h",
+        "x": "Participles in Tenses and in the Passive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§267. The Continuous Tenses (Active Voice) are formed from the Present Participle with tenses of the verb be."
+      },
+      {
+        "t": "ex",
+        "x": "I am loving.\nI was loving.\nI shall be loving."
+      },
+      {
+        "t": "rule",
+        "x": "§267. The Perfect Tenses (Active Voice) are formed from the Past Participle with tenses of the verb have."
+      },
+      {
+        "t": "ex",
+        "x": "I have loved.\nI had loved.\nI shall have loved."
+      },
+      {
+        "t": "rule",
+        "x": "§267. The Passive Voice is formed from the Past Participle with tenses of the verb be."
+      },
+      {
+        "t": "ex",
+        "x": "I am loved.\nI was loved.\nI shall be loved."
+      },
+      {
+        "t": "h",
+        "x": "Attributive, Predicative and Absolute Uses"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§268. Participles describe nouns or pronouns. They can be used: (1) Attributively — before a noun; (2) Predicatively — after a verb, describing the subject or the object."
+      },
+      {
+        "t": "ex",
+        "x": "(1) Attributively:\nA rolling stone gathers no moss.\nHis tattered coat needs mending.\nA lost opportunity never returns.\n(2) Predicatively:\nThe man seems worried. (Describes the Subject)\nHe kept me waiting. (Describes the Object)"
+      },
+      {
+        "t": "rule",
+        "x": "§268. Participles can also be used: (3) Absolutely, with a noun or pronoun before them."
+      },
+      {
+        "t": "ex",
+        "x": "The weather being fine, I went out.\nMany having arrived, we were freed from anxiety.\nWeather permitting, there will be a garden party at Government House tomorrow.\nGod willing, we shall have another good monsoon.\nThe sea being smooth, we went for a sail.\nThe wind having failed, the crew began to row.\nHis master being absent, the business was neglected.\nThe wind being favourable, they set sail."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§268)—In each of these sentences, the participle with the noun or pronoun before it forms a phrase that stands on its own, apart from the rest of the sentence. Such a phrase is called an Absolute Phrase. A noun or pronoun used like this with a participle is called a Nominative Absolute."
+      },
+      {
+        "t": "h",
+        "x": "The Absolute Phrase as a Clause"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§269. An Absolute Phrase can easily be changed into a subordinate clause."
+      },
+      {
+        "t": "ex",
+        "x": "Spring advancing, the swallows appear. (= When spring advances. — a clause of Time)\nThe sea being smooth, we went for a sail. (= Because the sea was smooth. — a clause of Reason)\nGod willing, we shall meet again. (= If God is willing. — a clause of Condition)"
+      },
+      {
+        "t": "h",
+        "x": "Errors in the Use of Participles"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§270. A participle is a verb-adjective, so it must be joined to some noun or pronoun. In other words, it must always have a proper ‘subject of reference’ — the word it describes."
+      },
+      {
+        "t": "ex",
+        "x": "These sentences are wrong, because in each one the participle is left without a proper subject of reference:\n1. Standing at the gate, a scorpion stung him. (As it stands, the sentence reads as if the scorpion was standing at the gate.)\n2. Going up the hill, an old temple was seen.\n3. Entering the room, the light was quite dazzling."
+      },
+      {
+        "t": "rule",
+        "x": "§270. So we must re-write these sentences as follows:"
+      },
+      {
+        "t": "ex",
+        "x": "1. Standing at the gate, he was stung by a scorpion.\nOr: While he was standing at the gate, a scorpion stung him.\n2. When we went up the hill, we saw an old temple.\n3. Entering the room, I found the light quite dazzling.\nOr: When I entered the room, the light was quite dazzling."
+      },
+      {
+        "t": "h",
+        "x": "The Impersonal Absolute"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§271. But in some cases, usage allows a participle to stand without a proper ‘subject of reference’. The participle in such cases is called an Impersonal Absolute."
+      },
+      {
+        "t": "ex",
+        "x": "Taking everything into account, the judge was right to do so.\nConsidering his abilities, he should have done better.\nRoughly speaking, the distance from here to the nearest railway station is two miles."
+      },
+      {
+        "t": "p",
+        "x": "In these examples, the unexpressed subject is indefinite — it means any person. For example, ‘Roughly speaking’ means ‘If one speaks roughly’."
+      },
+      {
+        "t": "h",
+        "x": "The Participle Understood"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§272. Sometimes the participle is understood — left out, but meant."
+      },
+      {
+        "t": "ex",
+        "x": "Sword in hand, he rushed at the guard.\nBreakfast over, we went out for a walk."
+      },
+      {
+        "t": "h",
+        "x": "The Implied Meaning of Participles"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§273. Participles sometimes have an implied meaning. It can be shown more fully by changing the participle phrase into a clause of: (a) time, (b) cause, (c) concession, or (d) condition."
+      },
+      {
+        "t": "ex",
+        "x": "(a) Time:\nHaving done his lesson (= after he had done his lesson), he went out to play cricket.\nWalking along the street one day (= while I was walking along the street one day), I saw a dead cobra.\n(b) Cause:\nBeing overpowered (= because he was overpowered), he surrendered.\nRunning at top speed (= because he ran at top speed), he got out of breath.\n(c) Concession:\nPossessing all the advantages of education and wealth (= although he possessed all the advantages of education and wealth), he never made a name.\n(d) Condition:\nFollowing my advice (= if you follow my advice), you will succeed.\nSeven were killed, including the guard (= if the guard is included)."
+      }
+    ],
    "unit": 29,
    "title": "The Participle",
    "display": "The Participle",
@@ -13022,6 +18488,228 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is a Gerund?"
+      },
+      {
+        "t": "p",
+        "x": "§274. Read this sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Reading is his favourite pastime."
+      },
+      {
+        "t": "p",
+        "x": "The word reading is made from the verb read, by adding -ing. Here it is used as the subject of a verb, so it does the work of a noun. So it is a Verb-Noun, and is called a Gerund."
+      },
+      {
+        "t": "ex",
+        "x": "More examples of the Gerund:\n1. Playing cards is not allowed here.\n2. I like reading poetry.\n3. He is fond of hoarding money."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the Gerund is the subject of a verb, like a noun — but, like a verb, it also takes an object. So it clearly has the force of a verb too. In sentence 2, the Gerund is the object of a verb, like a noun — but, like a verb, it also takes an object. In sentence 3, the Gerund comes after a preposition, like a noun — but, like a verb, it also takes an object."
+      },
+      {
+        "t": "p",
+        "x": "The Infinitive and the Gerund are alike: both are used as nouns, but both still have the power of a verb to take another noun or pronoun as an object."
+      },
+      {
+        "t": "def",
+        "x": "Def. (§274)—A Gerund is a form of the verb that ends in -ing, and has the force of a noun and a verb."
+      },
+      {
+        "t": "h",
+        "x": "The Gerund and the Infinitive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§275. The Gerund and the Infinitive have the same uses, because both have the force of a noun and a verb. So in many sentences either one can be used, with no real difference in meaning."
+      },
+      {
+        "t": "ex",
+        "x": "Teach me to swim. — Teach me swimming.\nTo see is to believe. — Seeing is believing.\nTo give is better than to receive. — Giving is better than receiving."
+      },
+      {
+        "t": "h",
+        "x": "Compound Gerund Forms"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§276. Compound Gerund forms are made by putting a Past Participle after the Gerunds of have and be."
+      },
+      {
+        "t": "ex",
+        "x": "I heard of his having gained a prize.\nWe were tired on account of having walked so far.\nThey were charged with having hidden the robbers.\nHe is fond of being praised."
+      },
+      {
+        "t": "h",
+        "x": "The Forms of the Gerund"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§277. The Gerund of a transitive verb has these forms."
+      },
+      {
+        "t": "ex",
+        "x": "Active:\nPresent: loving — Perfect: having loved\nPassive:\nPresent: being loved — Perfect: having been loved"
+      },
+      {
+        "t": "h",
+        "x": "Gerund and Participle Distinguished"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§278. The Gerund and the Present Participle both end in -ing, so they must be carefully told apart. The Gerund has the force of a noun and a verb — it is a Verbal Noun. The Present Participle has the force of an adjective and a verb — it is a Verbal Adjective."
+      },
+      {
+        "t": "ex",
+        "x": "Examples of the Gerund:\nHe is fond of playing cricket.\nThe old man was tired of walking.\nWe were prevented from seeing the prisoner.\nSeeing is believing."
+      },
+      {
+        "t": "ex",
+        "x": "Examples of the Participle:\nPlaying cricket, he gained health.\nWalking along the road, he noticed a dead cobra.\nSeeing, he believed."
+      },
+      {
+        "t": "h",
+        "x": "The Gerund Used Like an Ordinary Noun"
+      },
+      {
+        "t": "p",
+        "x": "§279. Read this sentence."
+      },
+      {
+        "t": "ex",
+        "x": "The careless reading of novels is harmful."
+      },
+      {
+        "t": "p",
+        "x": "Here reading is used like an ordinary noun. Note that the comes before it and of after it."
+      },
+      {
+        "t": "ex",
+        "x": "More examples of Gerunds used like ordinary nouns:\nThe making of the plan is in hand.\nThe time of the singing of the birds has come.\nAdam consented to the eating of the fruit.\nThe gaining of wisdom is a slow process."
+      },
+      {
+        "t": "h",
+        "x": "Gerunds in Compound Nouns"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§280. In compound nouns like these, the first word is a Gerund."
+      },
+      {
+        "t": "ex",
+        "x": "walking stick, frying pan, hunting whip, fencing-stick, writing-table"
+      },
+      {
+        "t": "p",
+        "x": "They mean ‘a stick for walking’, ‘a pan for frying’, ‘a whip for hunting’, ‘a stick for fencing’ and ‘a table for writing’."
+      },
+      {
+        "t": "h",
+        "x": "Possessive or Objective Before a Gerund"
+      },
+      {
+        "t": "p",
+        "x": "§281. Compare these two sentences:"
+      },
+      {
+        "t": "ex",
+        "x": "1. I hope you will excuse my leaving early.\n2. I hope you will excuse me leaving early."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§281. In the first sentence, the word before the gerund is in the possessive case. In the second, it is in the objective case. Both sentences are correct. We can use either the possessive or the objective case of nouns and pronouns before gerunds."
+      },
+      {
+        "t": "p",
+        "x": "The possessive is more formal, and is less common in everyday speech."
+      },
+      {
+        "t": "ex",
+        "x": "We rejoiced at his/him being promoted.\nI insist on your/you being present.\nDo you mind my/me sitting here?\nAll depends on Karim’s/Karim passing the exam.\nI disliked the manager’s/manager asking me personal questions.\nThe accident was due to the engine-driver’s/engine-driver disregarding the signals."
+      },
+      {
+        "t": "h",
+        "x": "The Uses of the Gerund"
+      },
+      {
+        "t": "p",
+        "x": "§282. A Gerund is a verb-noun, so it can be used as:"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§282. A Gerund can be used as: (1) Subject of a verb."
+      },
+      {
+        "t": "ex",
+        "x": "Seeing is believing.\nHunting deer is not allowed in this country."
+      },
+      {
+        "t": "rule",
+        "x": "§282. A Gerund can be used as: (2) Object of a transitive verb."
+      },
+      {
+        "t": "ex",
+        "x": "Stop playing.\nChildren love making mud castles.\nI like reading poetry.\nHe thought of marrying his cousin."
+      },
+      {
+        "t": "rule",
+        "x": "§282. A Gerund can be used as: (3) Object of a preposition."
+      },
+      {
+        "t": "ex",
+        "x": "I am tired of waiting.\nHe is fond of swimming.\nHe was punished for telling a lie.\nWe were prevented from seeing the prisoner.\nI have a dislike for fishing."
+      },
+      {
+        "t": "rule",
+        "x": "§282. A Gerund can be used as: (4) Complement of a verb."
+      },
+      {
+        "t": "ex",
+        "x": "Seeing is believing.\nWhat I hate most is smoking."
+      },
+      {
+        "t": "rule",
+        "x": "§282. A Gerund can be used as: (5) Absolutely, on its own."
+      },
+      {
+        "t": "ex",
+        "x": "Cards being his dislike, we did not play bridge."
+      }
+    ],
    "unit": 30,
    "title": "The Gerund",
    "display": "The Gerund",
@@ -13370,6 +19058,104 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Regular and Irregular Verbs"
+      },
+      {
+        "t": "p",
+        "x": "§283. Verbs can be regular or irregular."
+      },
+      {
+        "t": "h",
+        "x": "Regular Verbs"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§284. Regular verbs make their Past Tense and Past Participle by adding -ed."
+      },
+      {
+        "t": "ex",
+        "x": "Base Form — Past Tense — Past Participle:\nwalk — walked — walked\nlaugh — laughed — laughed\npaint — painted — painted"
+      },
+      {
+        "t": "h",
+        "x": "Irregular Verbs"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§285. Irregular verbs make their Past Tense and Past Participle in a different way — not by adding -ed."
+      },
+      {
+        "t": "ex",
+        "x": "Base Form — Past Tense — Past Participle:\nsit — sat — sat\nring — rang — rung\ncome — came — come\ncut — cut — cut"
+      },
+      {
+        "t": "rule",
+        "x": "§285. We divide irregular verbs into three types: (1) Verbs in which all three forms are the same (for example, cut - cut - cut). (2) Verbs in which two of the three forms are the same (for example, sit - sat - sat). (3) Verbs in which all three forms are different (for example, ring - rang - rung)."
+      },
+      {
+        "t": "h",
+        "x": "Type (1) — All Three Forms Are the Same"
+      },
+      {
+        "t": "p",
+        "x": "§286. Below is a list of irregular verbs, divided into the three types above. Some of them can also be regular. In such cases the regular forms are also given."
+      },
+      {
+        "t": "ex",
+        "x": "Base Form — Past Tense — Past Participle:\nbet — bet — bet\nburst — burst — burst\ncost — cost — cost\ncut — cut — cut\nhit — hit — hit\nhurt — hurt — hurt\nlet — let — let\nput — put — put\nread — read — read\nset — set — set\nshut — shut — shut\nsplit — split — split\nspread — spread — spread"
+      },
+      {
+        "t": "h",
+        "x": "Type (2) — Two of the Forms Are the Same"
+      },
+      {
+        "t": "ex",
+        "x": "Base Form — Past Tense — Past Participle:\nbeat — beat — beaten\nbecome — became — become\nbend — bent — bent\nbleed — bled — bled\nbreed — bred — bred\nbring — brought — brought\nbuild — built — built\nburn — burnt/burned — burnt/burned\nbuy — bought — bought\ncatch — caught — caught\ncome — came — come\ncreep — crept — crept\ndeal — dealt — dealt\ndig — dug — dug\ndream — dreamt/dreamed — dreamt/dreamed\nfeed — fed — fed\nfeel — felt — felt\nfight — fought — fought\nfind — found — found\nget — got — got\nhang — hung — hung\nhave — had — had\nhear — heard — heard\nhold — held — held\nkeep — kept — kept\nlay — laid — laid\nlead — led — led\nlean — lent/leaned — lent/leaned\nlearn — learnt/learned — learnt/learned\nleap — leapt/leaped — leapt/leaped\nleave — left — left\nlend — lent — lent\nlight — lit — lit\nlose — lost — lost\nmake — made — made\nmean — meant — meant\nmeet — met — met\npay — paid — paid\nrun — ran — run\nsay — said — said\nsell — sold — sold\nsend — sent — sent\nshine — shone — shone\nshoot — shot — shot\nsit — sat — sat\nsleep — slept — slept\nsmell — smelt/smelled — smelt/smelled\nspell — spelt — spelt\nspend — spent — spent\nspill — spilt/spilled — spilt/spilled\nspeed — sped — sped\nspell — spelt/spelled — spelt/spelled\nspit — spat — spat\nspoil — spoilt/spoiled — spoilt/spoiled\nstand — stood — stood\nstick — stuck — stuck\nsting — stung — stung\nstrike — struck — struck\nsweep — swept — swept\nswing — swung — swung\nteach — taught — taught\ntell — told — told\nthink — thought — thought\nunderstand — understood — understood\nwin — won — won\nwind — wound — wound"
+      },
+      {
+        "t": "note",
+        "x": "Note (§286)—The book prints “spell” twice in this list, and it prints “lean — lent/leaned”. Lent is really the past of lend; the past of lean is normally leant or leaned. Both are kept here exactly as the book prints them. Teacher to confirm whether to correct them."
+      },
+      {
+        "t": "h",
+        "x": "Type (3) — All Three Forms Are Different"
+      },
+      {
+        "t": "ex",
+        "x": "Base Form — Past Tense — Past Participle:\nbe — was/were — been\nbegin — began — begun\nbite — bit — bitten\nblow — blew — blown\nbreak — broke — broken\nchoose — chose — chosen\ndo — did — done\ndraw — drew — drawn\ndrink — drank — drunk\ndrive — drove — driven\neat — ate — eaten\nfall — fell — fallen\nfly — flew — flown\nforbid — forbade — forbidden\nforget — forgot — forgotten\nforgive — forgave — forgiven\nfreeze — froze — frozen\ngive — gave — given\ngo — went — gone\ngrow — grew — grown\nhide — hid — hidden\nknow — knew — known\nlie — lay — lain\nmistake — mistook — mistaken\nride — rode — ridden\nring — rang — rung\nrise — rose — risen\nsee — saw — seen\nsew — sewed — sewn/sewed\nshake — shook — shaken\nshow — showed — shown\nshrink — shrank — shrunk\nsing — sang — sung\nsink — sank — sunk\nspeak — spoke — spoken\nspring — sprang — sprung\nsteal — stole — stolen\nstink — stank — stunk\nswear — swore — sworn\nswim — swam — swum\ntake — took — taken\ntear — tore — torn\nthrow — threw — thrown\nwake — woke — woken\nwear — wore — worn\nwrite — wrote — written"
+      },
+      {
+        "t": "h",
+        "x": "Alternative Past Participles in -en"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§287. Some verbs have another Past Participle form ending in -en. It can only be used as an adjective — to describe a noun."
+      },
+      {
+        "t": "ex",
+        "x": "Verb — Usual Past Participle — Adjectival Past Participle:\ndrink — drunk — drunken\nmelt — melted — molten\nprove — proved — proven\nshave — shaved — shaven\nshear — sheared — shorn\nshrink — shrunk — shrunken\nsink — sunk — sunken\nstrike — struck — stricken"
+      },
+      {
+        "t": "ex",
+        "x": "Usual form — Adjectival form:\nHe has drunk liquor. — a drunken soldier\nThe iron has melted. — molten iron\nHe has proved it. — a proven fact\nHe has shaved off his beard. — a clean-shaven face\nThey have sheared the sheep. — a shorn sheep\nThe cloth has shrunk. — a shrunken head\nThe ship has sunk. — a sunken ship\nThe clock has struck five. — a grief-stricken widow"
+      }
+    ],
    "unit": 31,
    "title": "Irregular Verbs",
    "display": "Irregular Verbs",
@@ -14130,6 +19916,728 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Auxiliary Verbs"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§288)—Auxiliary Verbs are the verbs be (am, is, was, and so on), have and do. When they are used with ordinary verbs to make tenses, passive forms, questions and negatives, they are called Auxiliary Verbs or Auxiliaries. Auxiliary means helping."
+      },
+      {
+        "t": "h",
+        "x": "Modal Verbs"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§289)—The verbs can, could, may, might, will, would, shall, should, must and ought are called Modal Verbs or Modals. They come before ordinary verbs and show meanings like permission, possibility, certainty and necessity. Need and dare can sometimes be used like modal verbs."
+      },
+      {
+        "t": "p",
+        "x": "Modals are often counted among the auxiliaries. In some grammar books they are called “modal auxiliaries”."
+      },
+      {
+        "t": "h",
+        "x": "Defective Verbs"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§290. The modals can, could, may, might, shall, should, will, would, must and ought are called Defective Verbs, because some of their parts are missing. They have no -s in the third person singular, and they have no -ing and -ed forms."
+      },
+      {
+        "t": "h",
+        "x": "The Auxiliary ‘be’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§291. The auxiliary be is used: (1) To make the continuous tenses."
+      },
+      {
+        "t": "ex",
+        "x": "He is working.\nI was writing."
+      },
+      {
+        "t": "rule",
+        "x": "§291. The auxiliary be is used: (2) To make the passive."
+      },
+      {
+        "t": "ex",
+        "x": "The gate was opened."
+      },
+      {
+        "t": "rule",
+        "x": "§291. Be + infinitive is used: (1) To show a plan, an arrangement or an agreement."
+      },
+      {
+        "t": "ex",
+        "x": "I am to see him tomorrow.\nWe are to be married next month."
+      },
+      {
+        "t": "rule",
+        "x": "§291. Be + infinitive is used: (2) To show a command."
+      },
+      {
+        "t": "ex",
+        "x": "You are to write your name at the top of each sheet of paper.\nMother says you are to go to market at once."
+      },
+      {
+        "t": "h",
+        "x": "‘Be’ with the Perfect Infinitive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§292. Be in the past tense with the perfect infinitive shows a plan that was made but not carried out."
+      },
+      {
+        "t": "ex",
+        "x": "They were to have been married last month but had to postpone the marriage until June."
+      },
+      {
+        "t": "h",
+        "x": "The Auxiliary ‘have’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§293. The auxiliary have is used to make the perfect tenses."
+      },
+      {
+        "t": "ex",
+        "x": "He has worked.\nHe has been working."
+      },
+      {
+        "t": "h",
+        "x": "‘Have to’ — Obligation"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§294. Have to + infinitive shows obligation — something that must be done."
+      },
+      {
+        "t": "ex",
+        "x": "I have to be there by five o’clock.\nHe has to move the furniture himself."
+      },
+      {
+        "t": "h",
+        "x": "‘Had to’ — Obligation in the Past"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§295. The past form had to shows obligation in the past."
+      },
+      {
+        "t": "ex",
+        "x": "I had to be there by five o’clock.\nHe had to move the furniture himself."
+      },
+      {
+        "t": "h",
+        "x": "‘Have to’ in Negatives and Questions"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§296. In negatives and questions, have to and had to are used with do, does and did."
+      },
+      {
+        "t": "ex",
+        "x": "They have to go. — They don’t have to go. Do they have to go?\nHe has to go. — He doesn’t have to go. Does he have to go?\nHe had to go. — He didn’t have to go. Did he have to go?"
+      },
+      {
+        "t": "h",
+        "x": "The Auxiliary ‘do’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§297. The auxiliary do is used: (1) To make the negative and the question forms of the Simple Present and Simple Past of ordinary verbs."
+      },
+      {
+        "t": "ex",
+        "x": "He doesn’t work. He didn’t work.\nDoes he work? Did he work?"
+      },
+      {
+        "t": "rule",
+        "x": "§297. The auxiliary do is used: (2) To avoid repeating an ordinary verb used before."
+      },
+      {
+        "t": "ex",
+        "x": "Do you know him? Yes, I do.\nShe sings well. Yes, she does.\nYou met him, didn’t you?\nHe eats fish and so do you."
+      },
+      {
+        "t": "h",
+        "x": "‘Do’ for Emphasis"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§298. Do is also used to stress that a statement is affirmative — that it is really true."
+      },
+      {
+        "t": "ex",
+        "x": "You do look pale.\nI told him not to go, but he did go."
+      },
+      {
+        "t": "h",
+        "x": "‘Do’ in the Imperative"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§299. In the imperative, do makes a request or an invitation stronger and more polite."
+      },
+      {
+        "t": "ex",
+        "x": "Do be quiet.\nOh, do come! It’s going to be such fun."
+      },
+      {
+        "t": "p",
+        "x": "In such cases do is strongly stressed."
+      },
+      {
+        "t": "h",
+        "x": "‘Can’ — Ability"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§300. Can usually shows ability — what a person is able to do."
+      },
+      {
+        "t": "ex",
+        "x": "I can swim across the river.\nHe can work this sum.\nCan you lift this box?"
+      },
+      {
+        "t": "h",
+        "x": "‘Can’ and ‘may’ — Permission"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§301. Can and may are used to show permission. May is rather formal."
+      },
+      {
+        "t": "ex",
+        "x": "You can/may go now.\nCan/May I borrow your umbrella?"
+      },
+      {
+        "t": "h",
+        "x": "‘May’ — Possibility"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§302. May is used to show possibility in affirmative sentences. Can is used in the matching questions and negatives."
+      },
+      {
+        "t": "ex",
+        "x": "It may rain tomorrow.\nHe may be at home.\nCan this be true?\nIt cannot be true."
+      },
+      {
+        "t": "p",
+        "x": "Compare ‘It cannot be true’ with ‘It may not be true’. Cannot means something is impossible. May not means something is probably not true."
+      },
+      {
+        "t": "h",
+        "x": "‘May’ — A Wish"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§303. In very formal English, may is used to show a wish."
+      },
+      {
+        "t": "ex",
+        "x": "May you live happily and long!\nMay success be with you!"
+      },
+      {
+        "t": "h",
+        "x": "‘Could’ and ‘might’ as Past Equivalents"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§304. Could and might are used as the past forms of can and may."
+      },
+      {
+        "t": "ex",
+        "x": "I could swim across the river when I was young. (Ability)\nHe said I might/could go. (Permission)\nI thought he might be at home. (Possibility)\nShe wondered whether it could be true. (Possibility)"
+      },
+      {
+        "t": "h",
+        "x": "‘Could’ and ‘was/were able to’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§305. Could shows only the ability to do something, not that the thing was actually done. For ability plus action in the past, use was/were able to."
+      },
+      {
+        "t": "ex",
+        "x": "When the boat was upset, we were able to (or managed to) swim to the bank. (not: we could swim to the bank)"
+      },
+      {
+        "t": "p",
+        "x": "But in negative sentences, either could or was/were able to can be used."
+      },
+      {
+        "t": "ex",
+        "x": "I couldn’t (or: wasn’t able to) solve the puzzle. It was too difficult."
+      },
+      {
+        "t": "h",
+        "x": "‘Could’ and ‘might’ — Less Positive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§306. In present time, could and might are used as less positive forms of can and may."
+      },
+      {
+        "t": "ex",
+        "x": "I could attend the party. (Less positive and more hesitant than ‘I can attend the party’.)\nMight/Could I borrow your bicycle? (A shy, polite way of asking.)\nIt might rain tomorrow. (Less positive than ‘It may rain......’.)\nCould you pass me the salt? (Polite request)"
+      },
+      {
+        "t": "h",
+        "x": "‘Might’ — Dissatisfaction or Reproach"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§307. Might is also used to show some dissatisfaction or blame."
+      },
+      {
+        "t": "ex",
+        "x": "You might pay a little more attention to your appearance."
+      },
+      {
+        "t": "h",
+        "x": "Modals with the Perfect Infinitive"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§308. Note the use of can, could, may and might with the perfect infinitive."
+      },
+      {
+        "t": "ex",
+        "x": "He is not there. Where can he have gone? (= Where is it possible that he has gone?)\nYou could have accepted the offer. (= Why didn’t you accept the offer?)\nFatima may/might have gone with Saroja. (= Possibly Fatima has gone/went with Saroja.)\nWhy did you drive so carelessly? You might have run into the lamp post. (= It is fortunate that you didn’t run into the lamp post.)"
+      },
+      {
+        "t": "h",
+        "x": "‘Shall’ and ‘will’ — Pure Future"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§309. Shall is used in the first person, and will in all persons, to show pure future."
+      },
+      {
+        "t": "ex",
+        "x": "I shall/will be twenty-five next birthday.\nWe will need the money on 15th.\nWhen shall we see you again?\nTomorrow will be Sunday.\nYou will see that I am right."
+      },
+      {
+        "t": "p",
+        "x": "Today, I/we will is more common than I/we shall. In present-day English, people tend more and more to use will in all persons."
+      },
+      {
+        "t": "h",
+        "x": "‘Shall’ — Command, Promise, Threat"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§310. Shall is sometimes used in the second and third persons to show a command, a promise or a threat."
+      },
+      {
+        "t": "ex",
+        "x": "He shall not enter my house again. (Command)\nYou shall have a holiday tomorrow. (Promise)\nYou shall be punished for this. (Threat)"
+      },
+      {
+        "t": "note",
+        "x": "Note (§310)—These uses of shall are old-fashioned and formal. They are generally avoided in modern English."
+      },
+      {
+        "t": "h",
+        "x": "Questions with ‘shall I/we’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§311. Questions with shall I/we are used to ask what the person spoken to wants."
+      },
+      {
+        "t": "ex",
+        "x": "Shall I open the door? (Do you want me to open it?)\nWhich pen shall I buy? (What is your advice?)\nWhere shall we go? (What is your suggestion?)"
+      },
+      {
+        "t": "h",
+        "x": "‘Will’ — Volition, Habit, Assumption"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§312. Will is used to show: (1) Volition — what a person wants or is willing to do."
+      },
+      {
+        "t": "ex",
+        "x": "I will (= I am willing to) carry your books.\nI will (= I promise to) try to do better next time.\nI will (= I am determined to) succeed or die in the attempt."
+      },
+      {
+        "t": "p",
+        "x": "In the last example, will is strongly stressed."
+      },
+      {
+        "t": "rule",
+        "x": "§312. Will is used to show: (2) Characteristic habit — something a person usually does."
+      },
+      {
+        "t": "ex",
+        "x": "He will talk about nothing but films.\nShe will sit for hours listening to the radio."
+      },
+      {
+        "t": "rule",
+        "x": "§312. Will is used to show: (3) Assumption or probability — what we think is probably true."
+      },
+      {
+        "t": "ex",
+        "x": "This will be the book you want, I suppose.\nThat will be the postman, I think."
+      },
+      {
+        "t": "h",
+        "x": "‘Will you’ — Invitation or Request"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§313. Will you shows an invitation or a request."
+      },
+      {
+        "t": "ex",
+        "x": "Will you have tea?\nWill you lend me your scooter?"
+      },
+      {
+        "t": "h",
+        "x": "‘Should’ and ‘would’ as Past Equivalents"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§314. Should and would are used as the past forms of shall and will."
+      },
+      {
+        "t": "ex",
+        "x": "I expected that I should (more often: would) get a first class.\nHe said he would be twenty-five next birthday.\nShe said she would carry my books.\nShe would sit for hours listening to the radio. (Past habit)"
+      },
+      {
+        "t": "h",
+        "x": "‘Should’ — Duty or Obligation"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§315. Should is used in all persons to show duty or obligation."
+      },
+      {
+        "t": "ex",
+        "x": "We should obey the laws.\nYou should keep your promise.\nChildren should obey their parents."
+      },
+      {
+        "t": "h",
+        "x": "‘Should’ in Clauses of Condition"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§316. In clauses of condition, should is used to show a supposition that may not be true."
+      },
+      {
+        "t": "ex",
+        "x": "If it should rain, they will not come.\nIf he should see me here, he will be annoyed."
+      },
+      {
+        "t": "h",
+        "x": "Other Uses of ‘should’ and ‘would’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§317. Should and would are also used as follows:"
+      },
+      {
+        "t": "ex",
+        "x": "(i) I should (or: would) like you to help her. (‘Should/would like’ is a polite way of saying ‘want’.)\n(ii) Would you lend me your scooter, please? (‘Would you?’ is more polite than ‘Will you?’.)\n(iii) You should have been more careful. (Should + perfect infinitive shows a past duty that was not done.)\n(iv) He should be in the library now. (Shows probability.)\n(v) I wish you would not chatter so much. (Would after wish shows a strong wish.)"
+      },
+      {
+        "t": "h",
+        "x": "‘Must’ — Necessity or Obligation"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§318. Must is used to show necessity or obligation."
+      },
+      {
+        "t": "ex",
+        "x": "You must improve your spelling.\nWe must get up early."
+      },
+      {
+        "t": "h",
+        "x": "‘Must’ — Present or Near Future Only"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§318A. Must refers to the present or the near future. To talk about the past, we use had to (the past form of have to). Must has no past form."
+      },
+      {
+        "t": "ex",
+        "x": "Yesterday we had to get up early."
+      },
+      {
+        "t": "h",
+        "x": "‘Must’ and ‘have to’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§319. Must is often used when the obligation comes from the speaker himself. When the obligation comes from somewhere else, have to is often used."
+      },
+      {
+        "t": "ex",
+        "x": "I must be on a diet. (It is my own idea.)\nI have to be on a diet. (The doctor has told me to be on a diet.)"
+      },
+      {
+        "t": "h",
+        "x": "‘Must’ — Logical Certainty"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§319A. Must can also show logical certainty — something we are sure about."
+      },
+      {
+        "t": "ex",
+        "x": "Living in such crowded conditions must be difficult. (= I am sure it is difficult.)\nShe must have left already. (I am sure she has left already.)"
+      },
+      {
+        "t": "h",
+        "x": "‘Ought (to)’ — Moral Obligation"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§320. Ought (to) shows moral obligation — what is right to do — or what is desirable."
+      },
+      {
+        "t": "ex",
+        "x": "We ought to love our neighbours.\nWe ought to help him.\nYou ought to know better."
+      },
+      {
+        "t": "h",
+        "x": "‘Ought (to)’ — Probability"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§321. Ought (to) can also show probability."
+      },
+      {
+        "t": "ex",
+        "x": "Prices ought to come down soon.\nThis book ought to be very useful."
+      },
+      {
+        "t": "h",
+        "x": "‘Used (to)’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§322. The auxiliary used (to) shows a habit that has stopped — something done in the past but not now."
+      },
+      {
+        "t": "ex",
+        "x": "There used to be a house there.\nI used to live there when I was a boy."
+      },
+      {
+        "t": "p",
+        "x": "Used to is old-fashioned and very formal. Today we normally use did in negatives and questions (for example: Did you used to swim?)."
+      },
+      {
+        "t": "h",
+        "x": "‘Need’ Without ‘do’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§323. The auxiliary need means necessity or obligation. It can be used with or without do. Without do, it has no -s and -ed forms. It is used with an infinitive without to, only in negative and question sentences, and in sentences with words like scarcely and hardly."
+      },
+      {
+        "t": "ex",
+        "x": "He need not go. (= It is not necessary for him to go.)\nNeed I write to him?\nI need hardly take his help."
+      },
+      {
+        "t": "h",
+        "x": "‘Need’ With ‘do’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§324. With do, need has the usual forms needs and needed, and is used with a to-infinitive. It is commonly used in negatives and questions. It is sometimes used in the affirmative too."
+      },
+      {
+        "t": "ex",
+        "x": "Do you need to go now?\nI don’t need to meet him.\nOne needs to be careful."
+      },
+      {
+        "t": "h",
+        "x": "‘Didn’t need to’ and ‘needn’t have’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§325. Compare didn’t need to and needn’t have."
+      },
+      {
+        "t": "ex",
+        "x": "(i) I didn’t need to buy it. (= It was not necessary for me to buy it, and I didn’t buy it.)\n(ii) I needn’t have bought it. (= It was not necessary for me to buy it, but I bought it.)"
+      },
+      {
+        "t": "h",
+        "x": "‘Dare’"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§326. The auxiliary dare means ‘be brave enough to’. It is different from the ordinary verb dare, which means ‘challenge’. It does not take -s in the third person singular present tense. It is generally used in negative and question sentences. Without do, it is followed by an infinitive without to. With do, it takes an infinitive with or without to."
+      },
+      {
+        "t": "ex",
+        "x": "He dare not take such a step.\nHow dare you answer me back?\nHe dared not do it.\nHe doesn’t dare speak to me."
+      }
+    ],
    "unit": 32,
    "title": "Auxiliaries and Modals",
    "display": "Auxiliaries and Modals",
@@ -15010,6 +21518,100 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is Conjugation?"
+      },
+      {
+        "t": "def",
+        "x": "Def. (§327)—The Conjugation of a verb shows the different forms it takes. These forms are made by changing the verb itself, or by joining it with parts of other verbs. They show Voice, Mood, Tense, Number and Person. To these we must add its Infinitives and Participles."
+      },
+      {
+        "t": "p",
+        "x": "Below is the full conjugation of the verb love. It will help you to put in order what you have already learnt."
+      },
+      {
+        "t": "h",
+        "x": "(I) Tenses — The Present Tenses"
+      },
+      {
+        "t": "ex",
+        "x": "Simple Present:\nActive — I love, You love, He loves, They love\nPassive — I am loved, You are loved, He is loved, They are loved"
+      },
+      {
+        "t": "ex",
+        "x": "Present Continuous:\nActive — I am loving, You are loving, He is loving, We are loving, They are loving\nPassive — I am being loved, You are being loved, He is being loved, We are being loved, They are being loved"
+      },
+      {
+        "t": "ex",
+        "x": "Present Perfect:\nActive — I have loved, You have loved, He has loved, We have loved, They have loved\nPassive — I have been loved, You have been loved, He has been loved, We have been loved, They have been loved"
+      },
+      {
+        "t": "ex",
+        "x": "Present Perfect Continuous:\nActive — I have been loving, You have been loving, We have been loving, They have been loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+      },
+      {
+        "t": "h",
+        "x": "(I) Tenses — The Past Tenses"
+      },
+      {
+        "t": "ex",
+        "x": "Simple Past:\nActive — I loved, You loved, He loved, We loved, They loved\nPassive — I was loved, You were loved, He was loved, We were loved, They were loved"
+      },
+      {
+        "t": "ex",
+        "x": "Past Continuous:\nActive — I was loving, You were loving, He was loving, They were loving\nPassive — I was being loved, You were being loved, He was being loved, They were being loved"
+      },
+      {
+        "t": "ex",
+        "x": "Past Perfect:\nActive — I had loved, You had loved, He had loved, We had loved, They had loved\nPassive — I had been loved, You had been loved, He had been loved, We had been loved, They had been loved"
+      },
+      {
+        "t": "ex",
+        "x": "Past Perfect Continuous:\nActive — I had been loving, You had been loving, He had been loving, We had been loving, They had been loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+      },
+      {
+        "t": "h",
+        "x": "(I) Tenses — The Future Tenses"
+      },
+      {
+        "t": "ex",
+        "x": "Simple Future:\nActive — I shall/will love, You will love, He will love, We shall love, They will love\nPassive — I shall/will be loved, You will be loved, He will be loved, We shall be loved, They will be loved"
+      },
+      {
+        "t": "ex",
+        "x": "Future Continuous:\nActive — I shall/will be loving, You will be loving, He will be loving, We shall be loving, They will be loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+      },
+      {
+        "t": "ex",
+        "x": "Future Perfect:\nActive — I shall/will have loved, You will have loved, He will have loved, We shall have loved, They will have loved\nPassive — I shall/will have been loved, You will have been loved, He will have been loved, We shall have been loved, They will have been loved"
+      },
+      {
+        "t": "ex",
+        "x": "Future Perfect Continuous:\nActive — I shall/will have been loving, You will have been loving, He will have been loving, We shall/will have been loving, They will have been loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+      },
+      {
+        "t": "h",
+        "x": "(II) The Imperative"
+      },
+      {
+        "t": "ex",
+        "x": "The Imperative:\nActive — Love\nPassive — Be loved"
+      },
+      {
+        "t": "h",
+        "x": "(III) Non-Finites"
+      },
+      {
+        "t": "ex",
+        "x": "Present Infinitive — to love (Active), to be loved (Passive)\nContinuous Infinitive — to be loving (Active), ...... (Passive)\nPerfect Infinitive — to have loved (Active), to have been loved (Passive)\nPresent Participle — loving (Active), being loved (Passive)\nPerfect Participle — having loved (Active), having been loved (Passive)"
+      },
+      {
+        "t": "note",
+        "x": "Note (§327)—The book prints “Perfect Participle — to have loved / to have been loved” in this list. That is really the Perfect Infinitive, not a participle, so it is shown here under its right name. The real Perfect Participle (having loved / having been loved) is the last line of the list."
+      }
+    ],
    "unit": 33,
    "title": "Conjugation of the Verb “Love”",
    "display": "Conjugation of the Verb “Love”",
@@ -15217,6 +21819,252 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is an Adverb?"
+      },
+      {
+        "t": "p",
+        "x": "§328 Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. Rama runs quickly.\n2. This is a very sweet mango.\n3. Govind reads quite clearly."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, quickly tells us how Rama runs. So quickly adds to the verb runs.\nIn sentence 2, very tells us how sweet the mango is. So very adds to the adjective sweet.\nIn sentence 3, quite tells us how clearly Govind reads. So quite adds to the adverb clearly."
+      },
+      {
+        "t": "p",
+        "x": "A word that adds to the meaning of a verb, an adjective, or another adverb is called an adverb. So quickly, very, and quite are adverbs."
+      },
+      {
+        "t": "def",
+        "x": "An adverb is a word that adds to the meaning of a verb, an adjective, or another adverb."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§329 Sometimes an adverb adds to a whole phrase, not just to one word."
+      },
+      {
+        "t": "ex",
+        "x": "She was sitting close beside him.\nAt what hour is the sun right above us?\nHave you read all through this book?\nShe was dressed all in pink.\nHe paid his debts down to the last penny."
+      },
+      {
+        "t": "rule",
+        "x": "§330 Sometimes an adverb at the start of a sentence adds to the whole sentence, not to one word in it."
+      },
+      {
+        "t": "ex",
+        "x": "Probably he is mistaken. [= It is probable that he is mistaken.]\nPossibly it is as you say.\nCertainly you are wrong.\nEvidently the figures are incorrect.\nUnfortunately no one was present there.\nLuckily he escaped unhurt."
+      },
+      {
+        "t": "h",
+        "x": "Kinds of Adverbs"
+      },
+      {
+        "t": "rule",
+        "x": "§331 We can divide adverbs into seven groups by their meaning: (1) Adverbs of Time (which show when); (2) Adverbs of Frequency (which show how often); (3) Adverbs of Place (which show where); (4) Adverbs of Manner (which show how, or in what way); (5) Adverbs of Degree or Quantity (which show how much, or to what extent); (6) Adverbs of Affirmation and Negation; (7) Adverbs of Reason."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs of Time"
+      },
+      {
+        "t": "ex",
+        "x": "I have heard this before.\nThat day he arrived late.\nWe shall now begin to work.\nHe called here a few minutes ago.\nI had a letter from him lately.\nThe end soon came.\nHe comes here daily.\nI hurt my knee yesterday.\nI have spoken to him already.\nWasted time never returns.\nHe once met me in Cairo; I have not seen him since.\nMr. Gupta formerly lived here."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs of Frequency"
+      },
+      {
+        "t": "ex",
+        "x": "I have told you twice.\nI have not seen him once.\nHe often makes mistakes.\nHe seldom comes here.\nThe postman called again.\nHe always tries to do his best.\nHe frequently comes unprepared."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs of Place"
+      },
+      {
+        "t": "ex",
+        "x": "Stand here.\nGo there.\nThe little lamb followed Mary everywhere.\nHe looked up.\nMy brother is out.\nIs Mr. Das within?\nCome in.\nThe horse galloped away.\nWalk backward."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs of Manner"
+      },
+      {
+        "t": "ex",
+        "x": "Govind reads clearly.\nThe Sikhs fought bravely.\nThis story is well written.\nThe boy works hard.\nThe child slept soundly.\nShe danced gracefully.\nSlowly and sadly we laid him down.\nIs that so?\nYou should not do so.\nDo it thus, and you will succeed."
+      },
+      {
+        "t": "note",
+        "x": "This group has nearly all the adverbs that are made from adjectives and end in -ly."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs of Degree or Quantity"
+      },
+      {
+        "t": "ex",
+        "x": "He was too careless.\nIs that any better?\nThese mangoes are almost ripe.\nI am fully prepared.\nYou are quite wrong.\nThe sea is very stormy.\nI am rather busy.\nHe is good enough for my purpose.\nI am so glad.\nYou are partly right.\nYou are altogether mistaken.\nThings are no better at present.\nShe sings pretty well.\nHe is as tall as Rama."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs of Affirmation and Negation"
+      },
+      {
+        "t": "ex",
+        "x": "Surely you are mistaken.\nHe certainly went.\nI do not know him."
+      },
+      {
+        "t": "h",
+        "x": "Adverbs of Reason"
+      },
+      {
+        "t": "ex",
+        "x": "He is hence unable to refute the charge.\nHe therefore left school."
+      },
+      {
+        "t": "rule",
+        "x": "§332 One adverb can belong to more than one group. It depends on how it is used."
+      },
+      {
+        "t": "ex",
+        "x": "She sings delightfully. (Adverb of Manner)\nThe weather is delightfully cool. (Adverb of Degree)\nDon’t go far. (Adverb of Place)\nHe is far better now. (Adverb of Degree)"
+      },
+      {
+        "t": "note",
+        "x": "The examples above are all Simple Adverbs. (See § 336.)"
+      },
+      {
+        "t": "rule",
+        "x": "§333 When yes and no stand alone, each one stands for a whole sentence."
+      },
+      {
+        "t": "ex",
+        "x": "Have you typed the letter? Yes. [Here yes stands for the sentence ‘I have typed the letter’.]\nAre you going to Japan? No. [Here no means ‘I am not going to Japan’.]"
+      },
+      {
+        "t": "rule",
+        "x": "§334 When we use an adverb to ask a question, we call it an Interrogative Adverb."
+      },
+      {
+        "t": "ex",
+        "x": "Where is Abdul? [Interrogative Adverb of Place]\nWhen did you come? [Interrogative Adverb of Time]\nWhy are you late? [Interrogative Adverb of Reason]\nHow did you contrive it? [Interrogative Adverb of Manner]\nHow many boys are in your class? [Interrogative Adverb of Number]\nHow high is Rajabai Tower? [Interrogative Adverb of Degree]"
+      },
+      {
+        "t": "rule",
+        "x": "§335 Some adverbs point back to a noun named before, just as a relative pronoun does. We call them Relative Adverbs."
+      },
+      {
+        "t": "ex",
+        "x": "Show me the house where (= in which) he was assaulted. [Here the adverb where adds to the verb was assaulted, and points back to the noun house.]\nThis is the reason why I left.\nDo you know the time when the Punjab Mail arrives?"
+      },
+      {
+        "t": "rule",
+        "x": "§336 By their use, adverbs fall into three groups: (1) Simple Adverbs, (2) Interrogative Adverbs, (3) Relative Adverbs."
+      },
+      {
+        "t": "ex",
+        "x": "(1) Simple Adverbs, used to add to the meaning of a verb, an adjective, or an adverb; as, I can hardly believe it. You are quite wrong. How brightly the moon shines!\n(2) Interrogative Adverbs, used to ask questions; as, Why are you late?\n(3) Relative Adverbs, which point back to a noun named before; as, I remember the house where I was born."
+      },
+      {
+        "t": "rule",
+        "x": "§337 (1) A Simple Adverb only adds to some word. (2) An Interrogative Adverb adds to some word, and also asks a question. (3) A Relative Adverb adds to some word, and also points back to a noun named before."
+      },
+      {
+        "t": "h",
+        "x": "Forms of Adverbs"
+      },
+      {
+        "t": "rule",
+        "x": "§338 Some words look the same as adjectives and as adverbs. The same word can be an adjective in one sentence and an adverb in another."
+      },
+      {
+        "t": "ex",
+        "x": "Adjective: He spoke in a loud voice.\nAdverb: Don’t talk so loud.\nAdjective: Rama is our fast bowler.\nAdverb: Rama can bowl fast.\nAdjective: He lives in the next house.\nAdverb: When I next see him, I shall speak to him.\nAdjective: He went to the back entrance.\nAdverb: Go back.\nAdjective: Every little difficulty ruffles his temper.\nAdverb: He is little known outside India.\nAdjective: This is a hard sum.\nAdverb: He works hard all day.\nAdjective: It’s an ill wind that blows nobody good.\nAdverb: I can ill afford to lose him.\nAdjective: He is the best boy in this class.\nAdverb: He behaves best.\nAdjective: He is quick to take offence.\nAdverb: Run quick.\nAdjective: Are you an early riser?\nAdverb: We started early.\nAdjective: The teacher has a high opinion of that boy.\nAdverb: Always aim high.\nAdjective: He is the only child of his parents.\nAdverb: You can only guess.\nAdjective: We have food enough to last a week.\nAdverb: She sings well enough.\nAdjective: He is no better than a fool.\nAdverb: He knows me better than you.\nAdjective: There is much truth in what he says.\nAdverb: The patient is much better."
+      },
+      {
+        "t": "p",
+        "x": "We can tell what part of speech a word is only by seeing how it is used in the sentence."
+      },
+      {
+        "t": "rule",
+        "x": "§339 Some adverbs have two forms: one ends in -ly, and the other looks just like the adjective."
+      },
+      {
+        "t": "ex",
+        "x": "He sings very loud.\nHe sings very loudly."
+      },
+      {
+        "t": "rule",
+        "x": "§339 (continued) But sometimes the two forms have different meanings."
+      },
+      {
+        "t": "ex",
+        "x": "Rama works hard (= diligently).\nI could hardly (= scarcely) recognize him.\nStand near. (Opposed to distant)\nRama and Hari are nearly (= closely) related.\nHe arrived late. (Opposed to early)\nI have not seen him lately (= recently).\nI am pretty (= tolerably, fairly) sure of the fact.\nShe is prettily (= neatly, elegantly) dressed."
+      },
+      {
+        "t": "rule",
+        "x": "§340 Some adverbs are used as nouns after prepositions."
+      },
+      {
+        "t": "ex",
+        "x": "He lives far from here (= this place).\nHe comes from there (= that place).\nI have heard that before now (= this time).\nBy then (= that time) the police arrived on the scene.\nSince when (= what time) have you taken to smoking?\nThe rain comes from above."
+      },
+      {
+        "t": "note",
+        "x": "Do not write ‘from thence’ or ‘from whence’. Thence already means ‘from there’, and whence already means ‘from where’, so the ‘from’ is wrong."
+      },
+      {
+        "t": "rule",
+        "x": "§341 Some adverbs seem to be used as adjectives. In each case, we understand another word with them, a participle or an adjective."
+      },
+      {
+        "t": "ex",
+        "x": "The then king = the king then reigning.\nA down train = a down-going train.\nAn up train = an up-going train.\nThe above statement = the statement made above."
+      },
+      {
+        "t": "rule",
+        "x": "§342 In the following sentences, ‘the’ is not the article ‘the’. It is an old demonstrative pronoun used as an adverb."
+      },
+      {
+        "t": "ex",
+        "x": "The more the merrier [= by how much the more, by so much the merrier; that is, the more people there are, the more fun it is].\nThe fewer the better [= by how much the fewer, by so much the better].\nThe sooner the better [= by how much the sooner, by so much the better].\nHe has tried it and is [so much] the better for it."
+      },
+      {
+        "t": "rule",
+        "x": "§342 (continued) We use ‘the’ as an adverb only with an adjective or another adverb in the comparative degree."
+      },
+      {
+        "t": "rule",
+        "x": "§343 We often use nouns as adverbs when they tell us time, place, distance, weight, measurement, value, degree, or something like that."
+      },
+      {
+        "t": "ex",
+        "x": "The siege lasted a week.\nThis will last me a month.\nHe went home.\nWe walked five miles.\nThe load weighs three tonnes.\nIt measures five feet.\nThe cloth measures three metres.\nThe watch is only fifty rupees.\nThe wound was skin deep."
+      },
+      {
+        "t": "def",
+        "x": "A noun used as an adverb in this way is called an Adverbial Accusative."
+      },
+      {
+        "t": "rule",
+        "x": "§344 Sometimes we use verbs as adverbs."
+      },
+      {
+        "t": "ex",
+        "x": "Bang went the gun."
+      }
+    ],
    "unit": 34,
    "title": "The Adverb",
    "display": "The Adverb",
@@ -15814,6 +22662,56 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§345 Some adverbs, like adjectives, have three degrees of comparison: Positive, Comparative, and Superlative. We compare them in the same way as adjectives."
+      },
+      {
+        "t": "rule",
+        "x": "§346 If an adverb has only one syllable, we make the Comparative by adding -er, and the Superlative by adding -est, to the Positive."
+      },
+      {
+        "t": "ex",
+        "x": "Fast — faster — fastest\nHard — harder — hardest\nLong — longer — longest\nSoon — sooner — soonest\nRama ran fast. (Positive)\nArjun ran faster. (Comparative)\nHari ran fastest of all. (Superlative)"
+      },
+      {
+        "t": "rule",
+        "x": "§347 Adverbs that end in -ly make the Comparative by adding ‘more’, and the Superlative by adding ‘most’."
+      },
+      {
+        "t": "ex",
+        "x": "Swiftly — more swiftly — most swiftly\nSkilfully — more skilfully — most skilfully\nAbdul played skilfully. (Positive)\nKarim played more skilfully than Abdul. (Comparative)\nOf all the eleven Ahmed played most skilfully. (Superlative)"
+      },
+      {
+        "t": "note",
+        "x": "But note this: early, earlier, earliest."
+      },
+      {
+        "t": "ex",
+        "x": "I came early this morning.\nRam came earlier.\nAbdul came earliest of all."
+      },
+      {
+        "t": "rule",
+        "x": "§348 Only adverbs of Manner, Degree, and Time can be compared."
+      },
+      {
+        "t": "ex",
+        "x": "Many adverbs cannot be compared, because of what they mean; as, Now, then, where, there, once."
+      },
+      {
+        "t": "rule",
+        "x": "§349 Some of the commonest adverbs make their Comparative and Superlative in an irregular way, not by the usual rule."
+      },
+      {
+        "t": "ex",
+        "x": "Positive — Comparative — Superlative\nIll, badly — worse — worst\nWell — better — best\nMuch — more — most\nLittle — less — least\n(Nigh), near — nearer — next\nFar — farther, further — farthest, furthest\nLate — later — latest\nRama writes well.\nArjun writes better than Rama.\nHari writes best of all.\nDo you work much?\nI work more than you do.\nHari works most of the three of us."
+      }
+    ],
    "unit": 35,
    "title": "Comparison of Adverbs",
    "display": "Comparison of Adverbs",
@@ -15958,6 +22856,108 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§350 We make most adverbs of manner from adjectives by adding -ly. (-ly comes from the old word ‘like’.)"
+      },
+      {
+        "t": "ex",
+        "x": "Clever — cleverly; wise — wisely; kind — kindly; foolish — foolishly; quick — quickly; beautiful — beautifully.\nAkbar was a wise king.\nHe ruled wisely for many years."
+      },
+      {
+        "t": "rule",
+        "x": "§350 (continued) If the adjective ends in -y, and a consonant comes before the -y, change the -y to -i and add -ly."
+      },
+      {
+        "t": "ex",
+        "x": "Happy — happily; ready — readily; heavy — heavily."
+      },
+      {
+        "t": "rule",
+        "x": "§350 (continued) If the adjective ends in -le, simply change the -e to -y."
+      },
+      {
+        "t": "ex",
+        "x": "Single — singly; double — doubly."
+      },
+      {
+        "t": "rule",
+        "x": "§351 Some adverbs are made of a noun and an adjective that describes it."
+      },
+      {
+        "t": "ex",
+        "x": "Sometimes, meantime, meanwhile, yesterday, midway, otherwise."
+      },
+      {
+        "t": "rule",
+        "x": "§352 Some adverbs are made of ‘on’ (shortened to ‘a’) and a noun."
+      },
+      {
+        "t": "ex",
+        "x": "Afoot (= on foot), abed, asleep, ahead, aboard, away."
+      },
+      {
+        "t": "rule",
+        "x": "§352 (continued) Other adverbs are also made of a preposition and a noun."
+      },
+      {
+        "t": "ex",
+        "x": "Betimes, besides, today, tomorrow, overboard."
+      },
+      {
+        "t": "note",
+        "x": "The word ‘be’ in these words is an old form of the preposition ‘by’."
+      },
+      {
+        "t": "rule",
+        "x": "§353 Some adverbs are made of a preposition and an adjective."
+      },
+      {
+        "t": "ex",
+        "x": "Abroad, along, aloud, anew, behind, below, beyond."
+      },
+      {
+        "t": "rule",
+        "x": "§354 Some adverbs are made of a preposition and an adverb."
+      },
+      {
+        "t": "ex",
+        "x": "Within, without, before, beneath."
+      },
+      {
+        "t": "rule",
+        "x": "§355 Some adverbs come from the pronouns the (= that), he, and who."
+      },
+      {
+        "t": "ex",
+        "x": "The — Place: there; Motion to: thither; Motion from: thence; Time: then; Manner: thus.\nHe — Place: here; Motion to: hither; Motion from: hence; Time: ......; Manner: ......\nWho — Place: where; Motion to: whither; Motion from: whence; Time: when; Manner: how."
+      },
+      {
+        "t": "rule",
+        "x": "§356 Many of these adverbs join with prepositions to make new adverbs."
+      },
+      {
+        "t": "ex",
+        "x": "Thereby, therefrom, therein, thereof, thereon, thereto, therewith; hereafter, hereby, herein, hereupon, herewith; wherefore, wherein, whereon, whereof; hitherto; thenceforth, thenceforward; henceforth, henceforward."
+      },
+      {
+        "t": "rule",
+        "x": "§357 Sometimes two adverbs go together, joined by the conjunction ‘and’."
+      },
+      {
+        "t": "ex",
+        "x": "Again and again (= more than once, repeatedly)\nBy and by (= before long, presently, after a time)\nFar and near (= in all directions)\nFar and wide (= comprehensively)\nFar and away (= by a great deal, decidedly, beyond all comparison)\nFirst and foremost (= first of all)\nNow and then (= from time to time, occasionally)\nNow and again (= at intervals, sometimes, occasionally)\nOff and on (= not regularly, intermittently)\nOnce and again (= on more than one occasion, repeatedly)\nOut and away (= beyond comparison, by far)\nOut and out (= decidedly, beyond all comparison)\nOver and above (= in addition to, besides, as well as)\nOver and over (= many times, frequently, repeatedly)\nThrough and through (= thoroughly, completely)\nThus and thus (= in such and such a way)\nTo and fro (= backwards and forwards, up and down)"
+      },
+      {
+        "t": "ex",
+        "x": "Good books should be read again and again.\nI warned him again and again.\nBy and by the tumult will subside.\nHis fame has spread far and near.\nAs a statesman he saw far and wide.\nThis is far and away the best course.\nHe is far and away the best bowler in our eleven.\nHe now and then writes on fiscal questions.\nI write to him now and then.\nHe worked ten years, off and on, on his Pali Dictionary.\nI have told you once and again that you must not read such trash.\nThis is out and away the best work on Astronomy.\nHe gained over and above this, the goodwill of all people.\nOver and above being hard-working he is thoroughly honest.\nHe reads all the novels of Scott over and over.\nI believe he is out and out the best Indian batsman.\nHe has read Milton through and through.\nThus and thus only we shall succeed.\nHe walked to and fro, meditating."
+      }
+    ],
    "unit": 36,
    "title": "Formation of Adverbs",
    "display": "Formation of Adverbs",
@@ -16182,6 +23182,104 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§358 Adverbs of manner answer the question ‘How?’ (for example, well, fast, quickly, carefully, calmly). We usually put them after the verb, or after the object if there is one."
+      },
+      {
+        "t": "ex",
+        "x": "It is raining heavily.\nThe ship is going slowly.\nShe speaks English well.\nHe does his work carefully."
+      },
+      {
+        "t": "rule",
+        "x": "§359 Adverbs and adverb phrases of place (for example, here, there, everywhere, on the wall) and of time (for example, now, then, yet, today, next Sunday) also usually go after the verb, or after the object if there is one."
+      },
+      {
+        "t": "ex",
+        "x": "He will come here.\nI looked everywhere.\nHang the picture there.\nI met him yesterday.\nThey are to be married next week."
+      },
+      {
+        "t": "rule",
+        "x": "§360 When two or more adverbs come after a verb (and its object), the usual order is: adverb of manner, adverb of place, adverb of time."
+      },
+      {
+        "t": "ex",
+        "x": "She sang well in the concert.\nWe should go there tomorrow evening.\nHe spoke earnestly at the meeting last night."
+      },
+      {
+        "t": "rule",
+        "x": "§361 Adverbs of frequency answer the question ‘How often?’ (for example, always, never, often, rarely, usually, generally). Some other adverbs (almost, already, hardly, nearly, just, quite) follow the same rule. If the verb is only one word, we put the adverb between the subject and the verb. If the verb has more than one word, we put the adverb after the first word of the verb."
+      },
+      {
+        "t": "ex",
+        "x": "His wife never cooks.\nHe has never seen a tiger.\nI have often told him to write neatly.\nWe usually have breakfast at eight.\nMy uncle has just gone out.\nI quite agree with you."
+      },
+      {
+        "t": "rule",
+        "x": "§362 If the verb is am, are, is, or was, we put these adverbs after the verb."
+      },
+      {
+        "t": "ex",
+        "x": "I am never late for school.\nHe is always at home on Sundays.\nWe are just off."
+      },
+      {
+        "t": "rule",
+        "x": "§363 When we stress an auxiliary verb, or the verb ‘be’ on its own, we put these adverbs before it."
+      },
+      {
+        "t": "ex",
+        "x": "“Abdul has come late again.” “Yes, he always does come late.”\n“When will you write the essay?” “But I already have written it.”\n“Will you be free on Sundays?” “I usually am free on Sundays.”\n“Do you eat meat?” “Yes, I sometimes do.”"
+      },
+      {
+        "t": "p",
+        "x": "When we use an auxiliary alone in a short answer, as in the last example above, we stress it, so the adverb comes before it."
+      },
+      {
+        "t": "rule",
+        "x": "§364 With the auxiliaries ‘have to’ and ‘used to’, we like to put the adverb in front of them."
+      },
+      {
+        "t": "ex",
+        "x": "I often have to go to college on foot.\nHe always used to agree with me."
+      },
+      {
+        "t": "rule",
+        "x": "§365 When an adverb adds to an adjective or another adverb, it usually comes before that word."
+      },
+      {
+        "t": "ex",
+        "x": "Rama is a rather lazy boy.\nThe dog was quite dead.\nThe book is very interesting.\nDo not speak so fast."
+      },
+      {
+        "t": "rule",
+        "x": "§366 But the adverb ‘enough’ is always placed after the word it adds to."
+      },
+      {
+        "t": "ex",
+        "x": "Is the box big enough?\nHe was rash enough to interrupt.\nHe spoke loud enough to be heard."
+      },
+      {
+        "t": "rule",
+        "x": "§367 As a rule, put the word ‘only’ just before the word it adds to."
+      },
+      {
+        "t": "ex",
+        "x": "I worked only two sums.\nHe has slept only three hours."
+      },
+      {
+        "t": "p",
+        "x": "In spoken English, however, we usually put ‘only’ before the verb. Then we stress the word that ‘only’ adds to, so the meaning is clear."
+      },
+      {
+        "t": "ex",
+        "x": "I only worked two sums.\nHe has only slept three hours."
+      }
+    ],
    "unit": 37,
    "title": "Position of Adverbs",
    "display": "Position of Adverbs",
@@ -16445,6 +23543,380 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is a Preposition?"
+      },
+      {
+        "t": "p",
+        "x": "§368 Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. There is a cow in the field.\n2. He is fond of tea.\n3. The cat jumped off the chair."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the word in shows the link between two things — the cow and the field.\nIn sentence 2, the word of shows the link between the adjective fond and tea.\nIn sentence 3, the word off shows the link between the verb jumped and the chair.\nThe words in, of, and off are used here as Prepositions."
+      },
+      {
+        "t": "def",
+        "x": "A Preposition is a word placed before a noun or a pronoun. It shows how the person or thing named by that noun or pronoun is related to something else."
+      },
+      {
+        "t": "p",
+        "x": "The word Preposition means ‘that which is placed before’."
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the Preposition joins a Noun to another Noun; in sentence 2, it joins a Noun to an Adjective; in sentence 3, it joins a Noun to a Verb."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§369 The Noun or Pronoun used with a Preposition is called its Object. It is in the Accusative case, and we say the Preposition governs it."
+      },
+      {
+        "t": "p",
+        "x": "So in sentence 1, the noun field is in the Accusative case, governed by the Preposition in."
+      },
+      {
+        "t": "rule",
+        "x": "§370 One Preposition can have two or more objects."
+      },
+      {
+        "t": "ex",
+        "x": "The road runs over hill and plain."
+      },
+      {
+        "t": "rule",
+        "x": "§371 A Preposition is usually placed before its object, but sometimes it comes after the object."
+      },
+      {
+        "t": "ex",
+        "x": "1. Here is the watch that you asked for.\n2. That is the boy (whom) I was speaking of.\n3. What are you looking at?\n4. What are you thinking of?\n5. Which of these chairs did you sit on?"
+      },
+      {
+        "t": "note",
+        "x": "Note 1 — When the object is the Relative Pronoun that, as in sentence 1, the Preposition is always placed at the end."
+      },
+      {
+        "t": "p",
+        "x": "We often put the Preposition at the end when the object is a question word (as in sentences 3, 4, and 5) or a Relative Pronoun that we leave out (as in sentence 2)."
+      },
+      {
+        "t": "note",
+        "x": "Note 2 — Sometimes we put the object first, to give it more force."
+      },
+      {
+        "t": "ex",
+        "x": "This I insist on.\nHe is known all the world over."
+      },
+      {
+        "t": "rule",
+        "x": "§372 We often leave out the Prepositions for, from, in, and on before nouns of place or time."
+      },
+      {
+        "t": "ex",
+        "x": "We did it last week.\nI cannot walk a yard.\nWait a minute."
+      },
+      {
+        "t": "h",
+        "x": "Kinds of Prepositions"
+      },
+      {
+        "t": "rule",
+        "x": "§373 Prepositions fall into three groups: (1) Simple Prepositions, (2) Compound Prepositions, (3) Phrase Prepositions."
+      },
+      {
+        "t": "h",
+        "x": "Simple Prepositions"
+      },
+      {
+        "t": "ex",
+        "x": "at, by, for, from, in, of, off, on, out, through, till, to, up, with."
+      },
+      {
+        "t": "h",
+        "x": "Compound Prepositions"
+      },
+      {
+        "t": "p",
+        "x": "Compound Prepositions are usually made by putting a Preposition (often a = on, or be = by) before a Noun, an Adjective, or an Adverb."
+      },
+      {
+        "t": "ex",
+        "x": "About, above, across, along, amidst, among, amongst, around, before, behind, below, beneath, beside, between, beyond, inside, outside, underneath, within, without."
+      },
+      {
+        "t": "h",
+        "x": "Phrase Prepositions"
+      },
+      {
+        "t": "p",
+        "x": "Phrase Prepositions are groups of words used with the force of a single preposition."
+      },
+      {
+        "t": "ex",
+        "x": "According to, agreeably to, along with, away from, because of, by dint of, by means of, by reason of, by virtue of, by way of, conformably to, for the sake of, in accordance with, in addition to, in (on) behalf of, in case of, in comparison to, in compliance with, in consequence of, in course of, in favour of, in front of, in lieu of, in order to, in place of, in reference to, in regard to, in spite of, instead of, in the event of, on account of, owing to, with a view to, with an eye to, with reference to, with regard to."
+      },
+      {
+        "t": "ex",
+        "x": "He succeeded by dint of perseverance and sheer hard work.\nIn case of need, phone 32567.\nBy virtue of the power vested in me, I hereby order, etc.\nIn consequence of his illness he could not finish the work in time.\nOwing to his ill health, he retired from business.\nWith reference to your letter of date, we regret we cannot allow any further rebate.\nIn order to avoid litigation, he accepted Rs. 30,000 in full settlement of his claim for Rs. 42,000.\nIn course of time he saw his mistake.\nHe died fighting on behalf of his country.\nOn behalf of the staff he read the address.\nHe persevered in spite of difficulties.\nIn the event of his dying without an issue, his nephew would inherit the whole property.\nInstead of talking, prove your worth by doing something.\nBy reason of his perverse attitude, he estranged his best friends.\nHe acted according to my instructions.\nWhy don’t you go along with your brother?\nIn accordance with your instructions, we have remitted the amount to your bankers.\nThere is a big tree in front of his house.\nAgreeably to the terms of the settlement, we herewith enclose our cheque for Rs. 1000.\nBy way of introduction, he made some pertinent remarks.\nBy means of rope ladders they scaled the wall.\nFor the sake of their beliefs, the Puritans emigrated to America.\nIn course of his researches he met with many difficulties.\nHe abdicated the throne in favour of his eldest son.\nHe could not attend school because of his father’s serious illness.\nHe accepted the car in lieu of his claim for Rs. 3,25,000.\nWith a view to an amicable settlement, we offer you without prejudice Rs. 7,500 in full settlement of all your claims uptodate.\nOn account of his negligence the company suffered a heavy loss.\nWhatever he does, he does with an eye to the main chance."
+      },
+      {
+        "t": "rule",
+        "x": "§374 Some words — barring, concerning, considering, during, notwithstanding, pending, regarding, respecting, touching, and a few more — are present participles of verbs. They are used on their own, with no noun or pronoun after them. For all practical purposes, they have become Prepositions. We sometimes call them Participial Prepositions."
+      },
+      {
+        "t": "ex",
+        "x": "Barring (= excepting, apart from) accident, the mail will arrive tomorrow.\nConcerning (= about) yesterday’s fire, there are many rumours in the bazar.\nConsidering (= taking into account) the quality, the price is not high.\nUlysses is said to have invented the game of chess during the siege of Troy.\nNotwithstanding (= in spite of) the resistance offered by him, he was arrested by the police.\nPending further orders, Mr. Desai will act as Headmaster.\nRegarding your inquiries, we regret to say that at present we are not interested in imitation silk.\nRespecting the plan you mention, I shall write to you hereafter.\nTouching (= with regard to) this matter, I have not as yet made up my mind."
+      },
+      {
+        "t": "rule",
+        "x": "§375 Some words are used sometimes as Adverbs and sometimes as Prepositions. A word is a Preposition when it governs a noun or pronoun. It is an Adverb when it does not govern one."
+      },
+      {
+        "t": "ex",
+        "x": "Adverb: Go, and run about.\nPreposition: Don’t loiter about the street.\nAdverb: I could not come before.\nPreposition: I came the day before yesterday.\nAdverb: Has he come in?\nPreposition: Is he in his room?\nAdverb: The wheel came off.\nPreposition: The driver jumped off the car.\nAdverb: Let us move on.\nPreposition: The book lies on the table.\nAdverb: His father arrived soon after.\nPreposition: After a month he returned.\nAdverb: Take this parcel over to the postoffice.\nPreposition: He rules over a vast empire.\nAdverb: I have not seen him since.\nPreposition: I have not slept since yesterday."
+      },
+      {
+        "t": "rule",
+        "x": "§376 The object of a Preposition is usually a Noun or Pronoun. But sometimes it is an Adverb of Time or Place (see § 340)."
+      },
+      {
+        "t": "ex",
+        "x": "I will be done by then (= that time).\nSince then (= that time) he has not shown his face.\nCome away from there (= that place).\nHe must have reached there by now (= this time).\nHow far is it from here (= this place)?\nIt cannot last for ever."
+      },
+      {
+        "t": "rule",
+        "x": "§377 Sometimes the object of a Preposition is an Adverbial Phrase."
+      },
+      {
+        "t": "ex",
+        "x": "Each article was sold at over a pound.\nThe noise comes from across the river.\nHe was not promoted to the rank of a colonel till within a few months of his resignation.\nI sold my car for under its half cost.\nHe swore from dawn till far into the night.\nHe did not see her till a few days ago.\nI was thinking about how to circumvent him."
+      },
+      {
+        "t": "rule",
+        "x": "§378 A clause can also be the object of a Preposition."
+      },
+      {
+        "t": "ex",
+        "x": "Pay careful attention to what I am going to say.\nThere is no meaning in what you say."
+      },
+      {
+        "t": "rule",
+        "x": "§379 When the object of a Preposition is a relative pronoun, we sometimes leave it out."
+      },
+      {
+        "t": "ex",
+        "x": "He is the man I was looking for. [Here whom is understood.]\nThese are the good rules to live by. [Here which is understood.]"
+      },
+      {
+        "t": "rule",
+        "x": "§380 We very often use Prepositions with verbs to make new verbs. Sometimes the Preposition comes before the verb. More often it comes after the verb and stays separate."
+      },
+      {
+        "t": "ex",
+        "x": "Prefixed: outbid, overcome, overflow, overlook, undergo, undertake, uphold, withdraw, withhold, withstand.\nSeparate: boast of, laugh at, look for, send for.\nHe boasted of his accomplishments.\nHe looked for his watch everywhere.\nPlease send for Rama.\nEveryone laughed at him."
+      },
+      {
+        "t": "h",
+        "x": "Relations Expressed by Prepositions"
+      },
+      {
+        "t": "rule",
+        "x": "§381 Here are some of the most common relations that Prepositions show."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (1) Place — the Preposition shows where something is, or where it goes."
+      },
+      {
+        "t": "ex",
+        "x": "Went about the world; ran across the road; leaned against a wall; fell among thieves; quarrelled among themselves; at death’s door; sit on the deck; stood before the door; stood behind the curtain; lies below the surface; sat beside me; plies between Mumbai and Alibag; stand by me; rain comes from the clouds; in the sky; fell into a ditch; lies near his heart; Kolkata is on the Hooghly; the cliff hangs over the sea; tour round the world; marched through the town; came to the end of the road; put pen to paper; travelled towards Nasik; lay under the table; climbed up the ladder; lies upon the table; within the house."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (2) Time — the Preposition shows when something happens."
+      },
+      {
+        "t": "ex",
+        "x": "After his death; at an early date; arrived before me; behind time; by three o’clock; during the whole day; for many years; from 1st April; in the afternoon; sat watching far on into the night; lived under the Moghuls; on Monday; pending his return; since yesterday; lasted through the night; throughout the year; wait till to-morrow; ten minutes to twelve; towards evening; until his arrival; rise with the sun; within a month."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (3) Agency or instrumentality — the Preposition shows by whom or by what means something is done."
+      },
+      {
+        "t": "ex",
+        "x": "Sell goods at auction; sent the parcel by post; was stunned by a blow; was destroyed by fire; heard this through a friend; cut it with a knife."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (4) Manner — the Preposition shows how something is done."
+      },
+      {
+        "t": "ex",
+        "x": "Dying by inches; fought with courage; worked with earnestness, won with ease."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (5) Cause, reason, or purpose — the Preposition shows why something is done."
+      },
+      {
+        "t": "ex",
+        "x": "Laboured for the good of humanity; died of fever; the very place for a picnic; did it for our good; suffers from gout; died from fatigue; does it from perversity; retreated through fear of an ambush; concealed it through shame; lost his purse through negligence; shivers with fever; took medicine for cold."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (6) Possession — the Preposition shows what belongs to whom."
+      },
+      {
+        "t": "ex",
+        "x": "There was no money on him; the mosque of Omar; a man of means; the boy with red hair."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (7) Measure, standard, rate, or value — the Preposition shows how much, or at what rate."
+      },
+      {
+        "t": "ex",
+        "x": "He charges interest at nine per cent.\nStories like these must be taken at what they are worth.\nCloth is sold by the yard.\nI am taller than you by two inches.\nIt was one by the tower-clock."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (8) Contrast or concession — the Preposition means ‘in spite of’."
+      },
+      {
+        "t": "ex",
+        "x": "After (in spite of, notwithstanding) every effort, one may fail.\nFor one enemy he has a hundred friends.\nFor (in spite of) all his wealth he is not content.\nWith (in spite of) all his faults I admire him."
+      },
+      {
+        "t": "rule",
+        "x": "§381 (9) Inference, motive, source, or origin — the Preposition shows where something comes from, or why it is done."
+      },
+      {
+        "t": "ex",
+        "x": "From what I know of him, I hesitate to trust him.\nThe knights were brave from gallantry of spirit.\nHe did it from gratitude.\nLight emanates from the sun.\nFrom labour health, from health contentment springs.\nThis is a quotation from Milton.\nHis skill comes from practice."
+      },
+      {
+        "t": "note",
+        "x": "You can see that the same Preposition can come under several of these groups, because it is used in different ways."
+      },
+      {
+        "t": "h",
+        "x": "Prepositions Requiring Special Notice"
+      },
+      {
+        "t": "rule",
+        "x": "§382 (1) We can use ‘in’ or ‘at’ with the names of cities, towns, and villages. In most cases we use ‘in’. We use ‘in’ when we speak of a place as an area. We use ‘at’ when we see it as a point."
+      },
+      {
+        "t": "ex",
+        "x": "We stayed in Mumbai for five days.\nOur plane stopped at Mumbai on the way to Iran. (Mumbai = Mumbai airport)\nHow long have you lived in this village?"
+      },
+      {
+        "t": "rule",
+        "x": "§382 (2) We use ‘at’ to talk about group activities, and about shops and workplaces."
+      },
+      {
+        "t": "ex",
+        "x": "Did you see Shobha at the party?\nThere weren’t many people at the meeting.\nI saw him at the baker’s."
+      },
+      {
+        "t": "rule",
+        "x": "§382 (3) We use ‘in’ with the names of streets, and ‘at’ when we give the house number."
+      },
+      {
+        "t": "ex",
+        "x": "He lives in Church Street.\nHe lives at 45 Church Street."
+      },
+      {
+        "t": "rule",
+        "x": "§382 (4) We use ‘on’ when we think of a place as a surface."
+      },
+      {
+        "t": "ex",
+        "x": "The dog is lying on the floor.\nPut this picture on the wall."
+      },
+      {
+        "t": "rule",
+        "x": "§382 (5) ‘Till’ is used of time, and ‘to’ is used of place."
+      },
+      {
+        "t": "ex",
+        "x": "He slept till eight o’clock.\nHe walked to the end of the street."
+      },
+      {
+        "t": "rule",
+        "x": "§382 (6) ‘With’ often shows the instrument (the tool), and ‘by’ shows the agent (the doer)."
+      },
+      {
+        "t": "ex",
+        "x": "He killed two birds with one shot.\nHe was stabbed by a lunatic with a dagger."
+      },
+      {
+        "t": "rule",
+        "x": "§382 (7) ‘Since’ is used before a noun or phrase that names a point of time, and the verb before it is in a perfect tense."
+      },
+      {
+        "t": "ex",
+        "x": "I have eaten nothing since yesterday.\nHe has been ill since Monday last.\nI have not been smoking since last week."
+      },
+      {
+        "t": "rule",
+        "x": "§382 (8) ‘In’ before a noun that names a period of time means ‘at the end of’. ‘Within’ means ‘before the end of’."
+      },
+      {
+        "t": "ex",
+        "x": "I shall return in an hour.\nI shall return within an hour."
+      },
+      {
+        "t": "rule",
+        "x": "§382 (9) ‘Beside’ means ‘at (or by) the side of’. ‘Besides’ means ‘in addition to’."
+      },
+      {
+        "t": "ex",
+        "x": "Beside the ungathered rice he lay.\nBesides his children, there were present his nephews and nieces.\nBesides being fined, he was sentenced to a term of imprisonment."
+      },
+      {
+        "t": "note",
+        "x": "Be careful not to use ‘beside’ for ‘besides’."
+      },
+      {
+        "t": "h",
+        "x": "Prepositions with Forms of Transport"
+      },
+      {
+        "t": "rule",
+        "x": "§383 We use ‘by’ + a noun to talk about a means of transport. We do not use ‘the’ or ‘a/an’ before the noun."
+      },
+      {
+        "t": "ex",
+        "x": "We travelled by train. (not: by the/a train)\nWe say: by bicycle, by car/taxi/bus/train, by boat/ship/plane, by air/sea."
+      },
+      {
+        "t": "rule",
+        "x": "§383 (continued) We do not use ‘by’ when we speak of one particular bicycle, car, train, and so on."
+      },
+      {
+        "t": "ex",
+        "x": "Suresh went there on my bike. (not: by my bike)\nWe travelled in Mr. Joshi’s car. (not: by Mr. Joshi’s car)\nThey came in a taxi.\nI’ll go on the 7.30 bus."
+      },
+      {
+        "t": "rule",
+        "x": "§383 (continued) We use ‘on’ for one particular bicycle, bus, train, ship, or plane, and ‘in’ for one particular car, taxi, van, lorry, or ambulance. We say ‘on foot’, not ‘by foot’."
+      },
+      {
+        "t": "ex",
+        "x": "He goes to the office on foot. (= He walks to the office.)"
+      }
+    ],
    "unit": 38,
    "title": "The Preposition",
    "display": "The Preposition",
@@ -17316,6 +24788,244 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Words Followed by Prepositions"
+      },
+      {
+        "t": "p",
+        "x": "§384 Some verbs, nouns, adjectives, and participles are always followed by one particular preposition. Read these sentences and notice the right preposition in each one."
+      },
+      {
+        "t": "ex",
+        "x": "Mumbai is famous for its textiles.\nThe goat subsists on the coarsest of food.\nJawaharlal Nehru was fond of children.\nIndia is a noble, gorgeous land, teeming with natural wealth.\nIn the classical age the ideal life of the Brahman was divided into four stages or ashrams.\nIt is natural in every man to wish for distinction.\nHe was endowed with gifts fitted to win eminence in any field of human activity.\nThe writer is evidently enamoured of the subject.\nThese computers are cheap enough to be accessible to most people.\nAmbition does not always conduce to ultimate happiness.\nThe true gentleman is courteous and affable to his neighbours.\nNewly acquired freedom is sometimes liable to abuse.\nLittle Jack proved quite a match for the giant.\nCamels are adapted to life in the desert.\nHe is a man of deep learning, but totally ignorant of life and manners.\nThe income derived from the ownership of land is commonly called rent.\nThe Moors were famous for their learning and their skill in all kinds of industries.\nAlexander profited by the dissensions of the Punjab Rajas.\nFew things are impossible to diligence and skill.\nI am indebted to you for your help."
+      },
+      {
+        "t": "ex",
+        "x": "They were apprised of the danger.\nAshoka, although tolerant of competing creeds, was personally an ardent Buddhist.\nThe celebrated grammarian Patanjali was a contemporary of Pushyamitra Sunga.\nThe African elephant is now confined to Central Africa.\nIvory readily adapts itself to the carver’s art.\nColeridge’s poetry is remarkable for the perfection of its execution.\nThis place is associated with happy memories.\nThe noise from downstairs prevented me from sleeping.\nI am already acquainted with the latest developments of the situation.\nHis duties were of a kind ill-suited to his ardent and daring character.\nMan is entirely different from other animals in the utter helplessness of his babyhood.\nA residence of eight years in Sri Lanka had inured his system to the tropical climate.\nThe ancient Greeks, though born in a warm climate, seem to have been much addicted to the bottle.\nHe was susceptible to flattery.\nA man who always connives at the faults of his children is their worst enemy.\nNaples was then destitute of what are now, perhaps, its chief attractions.\nThe cat appears to have originated in Egypt or in the East.\nJudged by its results the policy of Hastings was eminently successful.\nIn his work Charak often hints at the value of sweet oil.\nThere is still no cure for the common cold.\nIt was formerly supposed that malaria was due to poisonous exhalations.\nPeople who are averse to hard work, generally do not succeed in life.\nBuddhism teaches that freedom from desires will lead to escape from suffering."
+      },
+      {
+        "t": "h",
+        "x": "Lists of Words and Their Prepositions"
+      },
+      {
+        "t": "p",
+        "x": "Each word below is always followed by the preposition shown with it. Learn the word and its preposition together."
+      },
+      {
+        "t": "h",
+        "x": "Expressions with Their Prepositions"
+      },
+      {
+        "t": "ex",
+        "x": "afflicted with leprosy — with\nsanguine of success — of\ncommit to memory — to\nspecific for malaria — for\nallowance for short weight — for\nappropriate to the occasion — to\nabstain from animal food — from\nantipathy to dogs — to\nconvulsed with laughter — with\ncontrary to expectation — to\ninfested with vermin — with\ntouched with pity — with\nsubversive of discipline — of\nbeneficial to health — to\ntantamount to a refusal — to\nworthy of praise — of\nbeset with difficulties — with\naccountable to God — to\natone for misdeeds — for\naddicted to opium — to\nentitled to consideration — to\nheedless of consequences — of\ndeaf to entreaties — to\naptitude for business — for\nincentive to hard work — to\nsensitive to criticism — to\nindifferent to praise or blame — to"
+      },
+      {
+        "t": "h",
+        "x": "Nouns Followed by ‘for’"
+      },
+      {
+        "t": "ex",
+        "x": "affection — for\nambition — for\nanxiety — for\napology — for\nappetite — for\naptitude — for\nblame — for\ncandidate — for\ncapacity — for\ncompassion — for\ncompensation — for\ncontempt — for\ncraving — for\ndesire — for\nesteem — for\nfitness — for\nfondness — for\nguarantee — for\nleisure — for\nliking — for\nmatch — for\nmotive — for\nneed — for\nopportunity — for\npartiality — for\npassion — for\npity — for\npredilection — for\npretext — for\nrelish — for\nremorse — for\nreputation — for\nsurety — for"
+      },
+      {
+        "t": "h",
+        "x": "Nouns Followed by ‘with’"
+      },
+      {
+        "t": "ex",
+        "x": "acquaintance — with\nalliance — with\nbargain — with\ncomparison — with\nconformity — with\nenmity — with\nintercourse — with\nintimacy — with\nrelations — with"
+      },
+      {
+        "t": "h",
+        "x": "Nouns Followed by ‘of’"
+      },
+      {
+        "t": "ex",
+        "x": "abhorrence — of\nassurance — of\ncharge — of\ndistrust — of\ndoubt — of\nexperience — of\nfailure — of\nobservance — of\nproof — of\nresult — of\nwant — of"
+      },
+      {
+        "t": "h",
+        "x": "Nouns Followed by ‘to’"
+      },
+      {
+        "t": "ex",
+        "x": "access — to\naccession — to\nallegiance — to\nalternative — to\nantidote — to\nantipathy — to\napproach — to\nassent — to\nattachment — to\nattention — to\nconcession — to\ndisgrace — to\ndislike — to\nencouragement — to\nenmity — to\nexception — to\nincentive — to\nindifference — to\ninvitation — to\nkey — to\nleniency — to\nlikeness — to\nlimit — to\nmenace — to\nobedience — to\nobjection — to\nobstruction — to\nopposition — to\npostscript — to\npreface — to\nreference — to\nrepugnance — to\nresemblance — to\nsequel — to\nsubmission — to\nsuccession — to\nsupplement — to\ntemptation — to\ntraitor — to"
+      },
+      {
+        "t": "h",
+        "x": "Nouns Followed by ‘from’"
+      },
+      {
+        "t": "ex",
+        "x": "abstinence — from\ncessation — from\ndeliverance — from\ndescent — from\ndigression — from\nescape — from\nexemption — from\ninference — from\nrespite — from"
+      },
+      {
+        "t": "h",
+        "x": "Adjectives Followed by ‘to’"
+      },
+      {
+        "t": "ex",
+        "x": "abhorrent — to\nacceptable — to\naccessible — to\naccustomed — to\naddicted — to\nadequate — to\nadjacent — to\naffectionate — to\nagreeable — to\nakin — to\nalien — to\nalive — to\namenable — to\nanalogous — to\napplicable — to\nappropriate — to\nbeneficial — to\ncallous — to\ncommon — to\ncomparable — to\ncondemned — to\nconducive — to\nconformable — to\ncongenial — to\nconsecrated — to\ncontrary — to\ncreditable — to\ndeaf — to\nderogatory — to\ndetrimental — to\ndevoted — to\ndisastrous — to\ndue — to\nentitled — to\nequal — to\nessential — to\nexposed — to\nfaithful — to\nfatal — to\nforeign — to\nhostile — to\nimpertinent — to\nincidental — to\ninclined — to\nindebted — to\nindifferent — to\nindispensable — to\nindulgent — to\ninimical — to\ninsensible — to\nimmune — to\nirrelevant — to\nfavourable — to\nhurtful — to\nimmaterial — to\nimpervious — to\nindigenous — to\nliable — to\nlimited — to\nlost — to\nloyal — to\nmaterial — to\nnatural — to\nnecessary — to\nobedient — to\nobliged — to\noffensive — to\nopposite — to\npainful — to\npartial — to\npeculiar — to\npertinent — to\npledged — to\npreferable — to\nprejudicial — to\nprior — to\nprofitable — to\nprone — to\nreduced — to\nrelated — to\nrelevant — to\nrepugnant — to\nresponsible — to\nrestricted — to\nsacred — to\nsensitive — to\nserviceable — to\nsubject — to\nsuitable — to\nsuited — to\nsupplementary — to\ntantamount — to\ntrue — to"
+      },
+      {
+        "t": "h",
+        "x": "Adjectives Followed by ‘in’"
+      },
+      {
+        "t": "ex",
+        "x": "absorbed — in\nabstemious — in\naccomplished — in\naccurate — in\nassiduous — in\nbackward — in\nbigoted — in\ncorrect — in\ndefective — in\ndeficient — in\nexperienced — in\ndiligent — in\nenveloped — in\nfertile — in\nfoiled — in\nhonest — in\nimplicated — in\ninterested — in\ninvolved — in\nlax — in\nproficient — in\nremiss — in\ntemperate — in\nversed — in"
+      },
+      {
+        "t": "h",
+        "x": "Adjectives Followed by ‘with’"
+      },
+      {
+        "t": "ex",
+        "x": "acquainted — with\nafflicted — with\nbeset — with\nbusy — with\ncompatible — with\ncompliant — with\nconsistent — with\ncontemporary — with\ncontent — with\ncontrasted — with\nconversant — with\nconvulsed — with\ndelighted — with\ndeluged — with\ndisgusted — with\ndrenched — with\nendowed — with\nfatigued — with\nfired — with\ngifted — with\ninfatuated — with\ninfected — with\ninfested — with\ninspired — with\nintimate — with\ninvested — with\novercome — with\npopular — with\nreplete — with\nsatiated — with\nsatisfied — with"
+      },
+      {
+        "t": "h",
+        "x": "Adjectives Followed by ‘of’"
+      },
+      {
+        "t": "ex",
+        "x": "accused — of\nacquitted — of\nafraid — of\napprehensive — of\napprised — of\nassured — of\naware — of\nbereft — of\ncautious — of\ncertain — of\ncharacteristic — of\ncomposed — of\nconfident — of\nconscious — of\nconvicted — of\nconvinced — of\ncovetous — of\ndefrauded — of\ndeprived — of\ndesirous — of\ndestitute — of\ndevoid — of\ndiffident — of\ndistrustful — of\ndull — of\neasy — of\nenvious — of\nfearful — of\nfond — of\ngreedy — of\nguilty — of\nheedless — of\nignorant — of\ninformed — of\ninnocent — of\nirrespective — of\nlame — of\nlavish — of\nnegligent — of\nproductive — of\nproud — of\nregardless — of\nsanguine — of\nsensible — of\nsick — of\nslow — of\nsubversive — of\nsure — of\nsuspicious — of\ntolerant — of\nvain — of\nvoid — of\nweary — of\nworthy — of"
+      },
+      {
+        "t": "h",
+        "x": "Adjectives Followed by ‘for’"
+      },
+      {
+        "t": "ex",
+        "x": "anxious — for\ncelebrated — for\nconspicuous — for\ncustomary — for\ndesigned — for\ndestined — for\neager — for\neligible — for\neminent — for\nfit — for\ngood — for\ngrateful — for\nnotorious — for\npenitent — for\nprepared — for\nproper — for\nqualified — for\nready — for\nsorry — for\nsufficient — for\nuseful — for\nzealous — for"
+      },
+      {
+        "t": "h",
+        "x": "Verbs Followed by ‘to’"
+      },
+      {
+        "t": "ex",
+        "x": "accede — to\nadapt — to\nadhere — to\nallot — to\nallude — to\napologize — to\nappoint — to\nascribe — to\naspire — to\nassent — to\nattain — to\nattend — to\nattribute — to\nbelong — to\nconduce — to\nconform — to\nconsent — to\ncontribute — to\nlead — to\nlisten — to\nobject — to\noccur — to\nprefer — to\npretend — to\nrefer — to\nrevert — to\nstoop — to\nsuccumb — to\nsurrender — to\ntestify — to\nyield — to"
+      },
+      {
+        "t": "h",
+        "x": "Verbs Followed by ‘from’"
+      },
+      {
+        "t": "ex",
+        "x": "abstain — from\nalight — from\ncease — from\ndebar — from\nderive — from\nderogate — from\ndesist — from\ndetract — from\ndeviate — from\ndiffer — from\ndigress — from\ndissent — from\nelicit — from\nemerge — from\nescape — from\nexclude — from\npreserve — from\nprevent — from\nprohibit — from\nprotect — from\nrecoil — from\nrecover — from\nrefrain — from"
+      },
+      {
+        "t": "h",
+        "x": "Verbs Followed by ‘with’"
+      },
+      {
+        "t": "ex",
+        "x": "associate — with\nbear — with\nclash — with\ncoincide — with\ncomply — with\ncondole — with\ncope — with\ncorrespond — with\ncredit — with\ndeluge — with\ndisagree — with\ndispense — with\nexpostulate — with\nfill — with\ngrapple — with\nintrigue — with\nmeddle — with\npart — with\nquarrel — with\nremonstrate — with\nside — with\nsympathize — with\ntrifle — with\nvie — with"
+      },
+      {
+        "t": "h",
+        "x": "Verbs Followed by ‘of’"
+      },
+      {
+        "t": "ex",
+        "x": "acquit — of\nbeware — of\nboast — of\ncomplain — of\ndespair — of\ndie — of\ndisapprove — of\ndispose — of\ndivest — of\ndream — of\nheal — of\njudge — of\nrepent — of\ntaste — of"
+      },
+      {
+        "t": "h",
+        "x": "Verbs Followed by ‘for’"
+      },
+      {
+        "t": "ex",
+        "x": "atone — for\ncanvass — for\ncare — for\nclamour — for\nfeel — for\nhope — for\nmourn — for\npine — for\nstart — for\nstipulate — for\nsue — for\nwish — for\nyearn — for"
+      },
+      {
+        "t": "h",
+        "x": "Verbs Followed by ‘in’"
+      },
+      {
+        "t": "ex",
+        "x": "acquiesce — in\ndabble — in\ndelight — in\nemploy — in\nenlist — in\nexcel — in\nfail — in\nglory — in\nincrease — in\nindulge — in\ninvolve — in\npersevere — in\npersist — in"
+      },
+      {
+        "t": "h",
+        "x": "Verbs Followed by ‘on’"
+      },
+      {
+        "t": "ex",
+        "x": "comment — on\ndecide — on\ndeliberate — on\ndepend — on\ndetermine — on\ndwell — on\nembark — on\nencroach — on\nenlarge — on\nimpose — on\ninsist — on\nintrude — on\nresolve — on\nsubsist — on\ntrample — on"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§385 Sometimes one word takes one preposition in one sentence, and a different preposition in another sentence."
+      },
+      {
+        "t": "ex",
+        "x": "We should accommodate ourselves to circumstances.\nMy friend accommodated me with a loan.\nI differ with you on this question.\nYour car differs from mine in several respects.\nI am anxious about the result.\nHer parents are anxious for her safety.\nHe has retired from business.\nHe has retired into private life.\nHe has great influence over his disciples.\nHe has hardly any influence with the Vizier.\nThe remarks of his critics had considerable influence on his writings.\nAll his life he laboured for the good of humanity.\nHe is labouring under a misapprehension.\nHe laboured at his dictionary for twelve years.\nTrespassers are liable to a fine of Rs. 500.\nHe is liable for his wife’s debts."
+      },
+      {
+        "t": "rule",
+        "x": "§386 Some words that are related to each other take different prepositions after them."
+      },
+      {
+        "t": "ex",
+        "x": "I acted according to his advice.\nIn accordance with his advice I took quinine.\nShe has great affection for her grandchildren.\nThe old lady is affectionate to all.\nThe flood and ebb tides alternate with each other.\nThe alternative to submission is death.\nIt is all due to his ambition for fame.\nHe is ambitious of fame.\nHe is capable of anything.\nHe has not the requisite capacity for this work.\nHe has great confidence in his assistant.\nHe is quite confident of success.\nWhat a contrast to his brother!\nWhat a contrast between them!\nThe present speech is mild contrasted with his past utterance on the same subject.\nIt is not likely to derogate from his merit.\nHe never said or did anything derogatory to his high position.\nHe is descended from a noble family.\nHe is a descendant of Mahatma Gandhi.\nHe has no desire for fame.\nHe is desirous of visiting Agra.\nHe was equal to the occasion.\nHe is to be blamed equally with his brother.\nThe coat fits me well except for the collar.\nI take exception to your remark.\nThe child is fond of sweets.\nShe has great fondness for children.\nThe drama is founded on an episode in the Ramayana.\nIt has, however, no foundation in fact.\nHe hindered me from going.\nChild marriage is a great hindrance to progress.\nHe is quite infatuated with her.\nHis infatuation for that girl led him astray.\nHe has no liking for cards.\nHis dislike to her continued to increase.\nHe is neglectful of his dress.\nI have often found him negligent in his work.\nThey say he is partial to his friends.\nChildren show a partiality for sweetmeats.\nI have no prejudice against foreigners.\nSuch a step will be prejudicial to your interests.\nHe is prepared for anything.\nPreparatory to taking extreme measures, his father once again warned him.\nPursuant to our conversation, I now send you a cheque for Rs. 500 as my contribution to the fund.\nIn pursuance of your instructions, we are writing to-day to the Collector.\nI am of opinion that he is qualified for the post.\nHe is disqualified from practising as a pleader.\nAs a result of the injury received by him, he died of tetanus.\nIt is said that nothing resulted from the conference.\nI have great respect for his learning.\nHe is respectful to his superiors, without being servile.\nHe seized upon the opportunity offered to him.\nThe seizure of his property was carried out under direct orders from the Rajah.\nI assure you that I am sensible of your kindness.\nHis paralysed arm is insensible to feeling.\nSubsequent to the meeting he wrote a letter to The Hindu.\nConsequent upon this letter, the agents of the company filed a suit against him for defamation.\nTrust in God and do what is right.\nHis distrust of his assistants is perhaps unfounded.\nThe country suffers for want of skilled labour.\nHe is wanting in a little common sense."
+      },
+      {
+        "t": "rule",
+        "x": "§387 Sometimes a verb takes a preposition, and sometimes it takes none. But the meaning is not always the same in the two cases."
+      },
+      {
+        "t": "ex",
+        "x": "I call that mean.\nI called on him at his office.\nI don’t catch your meaning.\nA drowning man catches at a straw.\nThis closed the proceedings.\nAfter a little higgling he closed with my offer.\nHe commenced life as a shop assistant.\nThe proceedings commenced with a song.\nHave you counted the cost?\nI count upon your advice and cooperation.\nHe deals fairly with his customers.\nHe deals in cotton and cloth.\nThe compounder dispenses medicines.\nHis master dispensed with his services.\nHe gained his object by persuasion.\nHe gained upon his rich uncle by his suave manners.\nHe grasped the meaning of the passage in no time.\nLike a shrewd man of business he grasped at the opportunity.\nI met him on my way to the station.\nHis appeals for funds met with a poor response.\nHe always prepares his speech.\nOur soldiers prepared themselves for the offensive.\nThe police searched the house of the suspect.\nWe searched for the lost article."
+      },
+      {
+        "t": "rule",
+        "x": "§388 Do not use the infinitive after words that need a preposition followed by a gerund (a verb form ending in -ing) or a verbal noun."
+      },
+      {
+        "t": "ex",
+        "x": "He is addicted to gambling. [Not: to gamble.]\nI assisted her in climbing the hill.\nHe is averse to playing cards.\nI do not believe in pampering servants.\nI am bent on attending the meeting.\nHe has hardly any chance of succeeding.\nHe is confident of securing the first prize.\nThe custom of tipping is prevalent everywhere.\nHe is desirous of visiting Japan.\nHe despaired of achieving his object.\nThere is some difficulty in perceiving his meaning.\nHereafter he is disqualified for holding any government post.\nRemember the duty of helping the poor.\nSudha excels in dancing.\nYou can have no excuse for talking bluntly.\nHe is expert in inventing stories.\nI am fond of reading novels.\nThe firm was fortunate in securing the government’s support.\nWhat hindered you from visiting the Museum?\nHe was disappointed in the hope of being rewarded.\nHe felt the humiliation of withdrawing his words.\nWe should be indefatigable in doing good.\nI insisted on having my say.\nHe is intent on visiting Norway.\nYou were not justified in imputing motives to him.\nHe has a knack of doing it.\nHe appreciated the necessity of acting promptly.\nHe persisted in disobeying the orders.\nHe lacks the power of imparting, although he is a good mathematical scholar.\nThe practice of cramming is rightly regarded as an evil.\nIt was only a pretext for delaying the matter.\nWhat is there to prevent him from leaving Chennai?\nI had the privilege of knowing him intimately.\nThey were prohibited from entering the village.\nI refrained from hurting his feelings.\nYou were right in suspecting him.\nThere is little satisfaction in sitting idle.\nHe has no scruple in begging.\nHe succeeded in convincing his critics.\nHe thought of eluding his pursuers.\nI am tired of writing letters to him."
+      },
+      {
+        "t": "note",
+        "x": "Sometimes both ways are right."
+      },
+      {
+        "t": "ex",
+        "x": "He was afraid of telling the truth.\nHe was afraid to tell the truth.\nHe at last got the opportunity of meeting him.\nHe at last got the opportunity to meet him."
+      },
+      {
+        "t": "rule",
+        "x": "§389 But some words always take the infinitive after them."
+      },
+      {
+        "t": "ex",
+        "x": "He advised us to desist from that attempt.\nI decline to say anything further.\nI expect to meet opposition.\nIt is hard to get access to him.\nHe hopes to win the first prize.\nWe are all inclined to judge of others as we find them.\nHe intends to compile a Marathi dictionary."
+      },
+      {
+        "t": "rule",
+        "x": "§390 Sometimes we put in a preposition where it is not needed."
+      },
+      {
+        "t": "ex",
+        "x": "Where have you been to? [Here to is not required.]\nMy eldest son is a boy of about eighteen years old. [Here of is not required.]\nAfter having finished my work I went home. [Here after is not required.]"
+      },
+      {
+        "t": "rule",
+        "x": "§391 The verbs discuss, order, and stress are transitive, so they take no preposition after them."
+      },
+      {
+        "t": "ex",
+        "x": "We discuss a topic (not discuss about a topic).\nWe order tea (not order for tea).\nWe stress a point (not stress on a point)."
+      }
+    ],
    "unit": 39,
    "title": "Words Followed by Prepositions",
    "display": "Words Followed by Prepositions",
@@ -20880,6 +28590,272 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is a Conjunction?"
+      },
+      {
+        "t": "p",
+        "x": "§392 Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "1. God made the country and man made the town.\n2. Our hoard is little, but our hearts are great.\n3. She must weep, or she will die.\n4. Two and two make four."
+      },
+      {
+        "t": "p",
+        "x": "In sentences 1, 2, and 3, the Conjunction joins two sentences together. In sentence 4, it joins two words only."
+      },
+      {
+        "t": "def",
+        "x": "A Conjunction is a word which merely joins together sentences, and sometimes words."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§393 Conjunctions join sentences together, and often make them shorter."
+      },
+      {
+        "t": "ex",
+        "x": "‘Balu and Vithal are good bowlers’ is a short way of saying ‘Balu is a good bowler and Vithal is a good bowler’.\n‘The man is poor, but honest’ is a short way of saying ‘The man is poor, but he is honest’."
+      },
+      {
+        "t": "rule",
+        "x": "§393 (continued) But sometimes ‘and’ joins words only. Then the sentence cannot be split into two sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Two and two make four.\nHari and Rama are brothers.\nHari and Rama came home together."
+      },
+      {
+        "t": "rule",
+        "x": "§394 We must be careful to tell Conjunctions apart from Relative Pronouns, Relative Adverbs, and Prepositions. They are all connecting words, but they do different work."
+      },
+      {
+        "t": "ex",
+        "x": "1. This is the house that Jack built. (Relative Pronoun)\n2. This is the place where he was murdered. (Relative Adverb)\n3. Take this and give that. (Conjunction)"
+      },
+      {
+        "t": "p",
+        "x": "In sentence 1, the Relative Pronoun that points to the noun house, and also joins the two parts of the sentence.\nIn sentence 2, the Relative Adverb where adds to the verb was murdered, and also joins the two parts of the sentence.\nIn sentence 3, the Conjunction and only joins the two parts of the sentence. It does no other work."
+      },
+      {
+        "t": "p",
+        "x": "So Relative Pronouns and Relative Adverbs also join, but they do more than join. Conjunctions merely join: they do no other work."
+      },
+      {
+        "t": "p",
+        "x": "A Preposition also joins two words, but it does more: it governs a noun or pronoun."
+      },
+      {
+        "t": "ex",
+        "x": "He sat beside Rama.\nHe stood behind me."
+      },
+      {
+        "t": "rule",
+        "x": "§395 Some Conjunctions are used in pairs."
+      },
+      {
+        "t": "ex",
+        "x": "Either — or. Either take it or leave it.\nNeither — nor. It is neither useful nor ornamental.\nBoth — and. We both love and honour him.\nThough — yet. (rare in current English) Though he is suffering much pain, yet he does not complain.\nWhether — or. I do not care whether you go or stay.\nNot only — but also. Not only is he foolish, but also obstinate."
+      },
+      {
+        "t": "p",
+        "x": "Conjunctions used in pairs like this are called Correlative Conjunctions, or simply Correlatives."
+      },
+      {
+        "t": "rule",
+        "x": "§396 When we use Correlatives, we must put each of the paired words just before the words it joins."
+      },
+      {
+        "t": "ex",
+        "x": "He visited not only Agra, but also Delhi.\n(Not: He not only visited Agra, but also Delhi.)"
+      },
+      {
+        "t": "rule",
+        "x": "§397 We use many compound expressions as Conjunctions. We call them Compound Conjunctions."
+      },
+      {
+        "t": "ex",
+        "x": "In order that — The notice was published in order that all might know the facts.\nOn condition that — I will forgive you on condition that you do not repeat the offence.\nEven if — Such an act would not be kind even if it were just.\nSo that — He saved some bread so that he should not go hungry on the morrow.\nProvided that — You can borrow the book provided that you return it soon.\nAs though — He walks as though he is slightly lame.\nInasmuch as — I must refuse your request, inasmuch as I believe it unreasonable.\nAs well as — Rama as well as Govind was present there.\nAs soon as — He took off his coat as soon as he entered the house.\nAs if — He looks as if he were weary."
+      },
+      {
+        "t": "h",
+        "x": "Classes of Conjunctions"
+      },
+      {
+        "t": "rule",
+        "x": "§398 Conjunctions fall into two groups: Co-ordinating and Subordinating."
+      },
+      {
+        "t": "p",
+        "x": "Read this sentence:"
+      },
+      {
+        "t": "ex",
+        "x": "Birds fly and fish swim."
+      },
+      {
+        "t": "p",
+        "x": "This sentence has two statements of equal rank (equal importance). So the Conjunction that joins two statements of equal rank is called a Co-ordinating Conjunction. (‘Co-ordinating’ means ‘of equal rank’.)"
+      },
+      {
+        "t": "def",
+        "x": "A Co-ordinating Conjunction joins together clauses of equal rank."
+      },
+      {
+        "t": "rule",
+        "x": "§399 The chief Co-ordinating Conjunctions are: and, but, for, or, nor, also, either...or, neither...nor."
+      },
+      {
+        "t": "rule",
+        "x": "§400 Co-ordinating Conjunctions are of four kinds."
+      },
+      {
+        "t": "rule",
+        "x": "§400 (1) Cumulative or Copulative Conjunctions merely add one statement to another."
+      },
+      {
+        "t": "ex",
+        "x": "We carved not a line, and we raised not a stone."
+      },
+      {
+        "t": "rule",
+        "x": "§400 (2) Adversative Conjunctions show a contrast between two statements."
+      },
+      {
+        "t": "ex",
+        "x": "He is slow, but he is sure.\nI was annoyed, still I kept quiet.\nI would come; only that I am engaged.\nHe was all right; only he was fatigued."
+      },
+      {
+        "t": "rule",
+        "x": "§400 (3) Disjunctive or Alternative Conjunctions show a choice between two things."
+      },
+      {
+        "t": "ex",
+        "x": "She must weep, or she will die.\nEither he is mad, or he feigns madness.\nNeither a borrower, nor a lender be.\nThey toil not, neither do they spin.\nWalk quickly, else you will not overtake him."
+      },
+      {
+        "t": "rule",
+        "x": "§400 (4) Illative Conjunctions show an inference (a conclusion)."
+      },
+      {
+        "t": "ex",
+        "x": "Something certainly fell in: for I heard a splash.\nAll precautions must have been neglected, for the plague spread rapidly."
+      },
+      {
+        "t": "rule",
+        "x": "§401 We can leave out any Co-ordinating Conjunction except ‘or’ and ‘nor’, and put a comma, a semi-colon, or a colon in its place."
+      },
+      {
+        "t": "ex",
+        "x": "Rama went out to play; Hari stayed in to work."
+      },
+      {
+        "t": "p",
+        "x": "Read this sentence:"
+      },
+      {
+        "t": "ex",
+        "x": "I read the paper because it interests me."
+      },
+      {
+        "t": "p",
+        "x": "Here one clause, ‘because it interests me’, depends on the other. So the Conjunction that brings in the dependent clause is called a Subordinating Conjunction."
+      },
+      {
+        "t": "def",
+        "x": "A Subordinating Conjunction joins a clause to another clause on which it depends for its full meaning."
+      },
+      {
+        "t": "rule",
+        "x": "§403 The chief Subordinating Conjunctions are: after, because, if, that, though, although, till, before, unless, as, when, where, while."
+      },
+      {
+        "t": "ex",
+        "x": "After the shower was over the sun shone out again.\nA book’s a book, although there is nothing in it.\nAs he was not there, I spoke to his brother.\nHe ran away because he was afraid.\nAnswer the first question before you proceed further.\nTake heed ere it be too late.\nExcept ye repent, you shall all likewise perish.\nYou will pass if you work hard.\nSentinels were posted lest the camp should be taken by surprise.\nSince you say so, I must believe it.\nTell them that I will come.\nHe finished first though he began late.\nWill you wait till I return?\nHe will not pay unless he is compelled.\nI waited for my friend until he came.\nWhen I was younger, I thought so.\nI do not know whence he comes.\nHe found his watch where he had left it.\nI do not understand how it all happened.\nMake hay while the sun shines.\nI shall go whither fancy leads me.\nI know not why he left us."
+      },
+      {
+        "t": "rule",
+        "x": "§404 The word ‘than’ is also a Subordinating Conjunction."
+      },
+      {
+        "t": "ex",
+        "x": "He is taller than I (am tall).\nI like you better than he (likes you).\nI like you better than (I like) him.\nHari is more stupid than Dhondu (is stupid).\nHis bark is worse than his bite (is bad)."
+      },
+      {
+        "t": "rule",
+        "x": "§405 We can also group Subordinating Conjunctions by their meaning."
+      },
+      {
+        "t": "rule",
+        "x": "§405 (1) Time — the Conjunction tells us when something happens."
+      },
+      {
+        "t": "ex",
+        "x": "I would die before I lied.\nNo nation can be perfectly well governed till it is competent to govern itself.\nMany things have happened since I saw you.\nI returned home after he had gone.\nEre he blew three notes, there was a rustling."
+      },
+      {
+        "t": "rule",
+        "x": "§405 (2) Cause or Reason — the Conjunction tells us why something happens."
+      },
+      {
+        "t": "ex",
+        "x": "My strength is as the strength of ten, because my heart is pure.\nSince you wish it, it shall be done.\nAs he was not there, I spoke to his brother.\nHe may enter, as he is a friend."
+      },
+      {
+        "t": "rule",
+        "x": "§405 (3) Purpose — the Conjunction tells us what something is done for."
+      },
+      {
+        "t": "ex",
+        "x": "We eat so that we may live.\nHe held my hand lest I should fall."
+      },
+      {
+        "t": "rule",
+        "x": "§405 (4) Result or Consequence — the Conjunction tells us what follows from something."
+      },
+      {
+        "t": "ex",
+        "x": "He was so tired that he could scarcely stand."
+      },
+      {
+        "t": "rule",
+        "x": "§405 (5) Condition — the Conjunction tells us on what terms something will happen."
+      },
+      {
+        "t": "ex",
+        "x": "Rama will go if Hari goes.\nGrievances cannot be redressed unless they are known."
+      },
+      {
+        "t": "rule",
+        "x": "§405 (6) Concession — the Conjunction admits something, but the main point still stands."
+      },
+      {
+        "t": "ex",
+        "x": "I will not see him, though he comes.\nThough He slay me, yet will I trust Him.\nA book’s a book, although there’s nothing in it."
+      },
+      {
+        "t": "rule",
+        "x": "§405 (7) Comparison — the Conjunction compares one thing with another."
+      },
+      {
+        "t": "ex",
+        "x": "He is stronger than Rustum [is]."
+      },
+      {
+        "t": "rule",
+        "x": "§406 Some words are used both as Prepositions and as Conjunctions. (See § 375.)"
+      },
+      {
+        "t": "ex",
+        "x": "Preposition: Stay till Monday.\nConjunction: We shall stay here till you return.\nPreposition: I have not met him since Monday.\nConjunction: We shall go since you desire it.\nPreposition: He died for his country.\nConjunction: I must stay here, for such is my duty.\nPreposition: The dog ran after the cat.\nConjunction: We came after they had left.\nPreposition: Everybody but Govind was present.\nConjunction: He tried, but did not succeed.\nPreposition: He stood before the painting.\nConjunction: Look before you leap."
+      }
+    ],
    "unit": 40,
    "title": "The Conjunction",
    "display": "The Conjunction",
@@ -22115,6 +30091,232 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§407 (1) ‘Since’ as a Conjunction can mean ‘from and after the time when’."
+      },
+      {
+        "t": "ex",
+        "x": "I have been in such a pickle since I saw you last.\nMany things have happened since I left school.\nI have never seen him since that unfortunate event happened."
+      },
+      {
+        "t": "note",
+        "x": "When ‘since’ is used in this sense, the verb before it should be in the present perfect tense, and the verb after it in the simple past tense."
+      },
+      {
+        "t": "rule",
+        "x": "§407 (2) ‘Since’ can also mean ‘seeing that’, or ‘inasmuch as’."
+      },
+      {
+        "t": "ex",
+        "x": "Since you wish it, it shall be done.\nSince you will not work, you shall not eat.\nSince that is the case, I shall excuse you."
+      },
+      {
+        "t": "rule",
+        "x": "§408 (1) ‘Or’ can introduce an alternative (a choice)."
+      },
+      {
+        "t": "ex",
+        "x": "Your purse or your life.\nYou must work or starve.\nYou may take this book or that one."
+      },
+      {
+        "t": "note",
+        "x": "There may be several choices, each joined to the one before it by ‘or’."
+      },
+      {
+        "t": "ex",
+        "x": "He may study law or medicine or engineering, or he may enter into trade."
+      },
+      {
+        "t": "rule",
+        "x": "§408 (2) ‘Or’ can introduce another name for the same thing."
+      },
+      {
+        "t": "ex",
+        "x": "The violin or fiddle has become the leading instrument of the modern orchestra."
+      },
+      {
+        "t": "rule",
+        "x": "§408 (3) ‘Or’ can mean ‘otherwise’."
+      },
+      {
+        "t": "ex",
+        "x": "We must hasten or night will overtake us."
+      },
+      {
+        "t": "rule",
+        "x": "§408 (4) ‘Or’ is sometimes nearly the same as ‘and’."
+      },
+      {
+        "t": "ex",
+        "x": "The troops were not wanting in strength or courage, but they were badly fed."
+      },
+      {
+        "t": "rule",
+        "x": "§409 (1) ‘If’ can mean ‘on the condition that’."
+      },
+      {
+        "t": "ex",
+        "x": "If he is there, I shall see him.\nIf that is so, I am content."
+      },
+      {
+        "t": "rule",
+        "x": "§409 (2) ‘If’ can mean ‘admitting that’."
+      },
+      {
+        "t": "ex",
+        "x": "If I am blunt, I am at least honest.\nIf I am poor, yet I am honest."
+      },
+      {
+        "t": "rule",
+        "x": "§409 (3) ‘If’ can mean ‘whether’."
+      },
+      {
+        "t": "ex",
+        "x": "I asked him if he would help me.\nI wonder if he will come."
+      },
+      {
+        "t": "rule",
+        "x": "§409 (4) ‘If’ can mean ‘whenever’."
+      },
+      {
+        "t": "ex",
+        "x": "If I feel any doubt I inquire."
+      },
+      {
+        "t": "rule",
+        "x": "§409 (continued) ‘If’ is also used to express a wish or surprise."
+      },
+      {
+        "t": "ex",
+        "x": "If I only knew!"
+      },
+      {
+        "t": "p",
+        "x": "§410 As a Conjunction, ‘that’ still keeps much of the force of a Demonstrative Pronoun. For example, we can turn ‘I am told that you are miserable’ round to ‘You are miserable: I am told that’."
+      },
+      {
+        "t": "rule",
+        "x": "§410 (1) ‘That’ can express a Reason or Cause. It means the same as ‘because’, ‘for that’, or ‘in that’."
+      },
+      {
+        "t": "ex",
+        "x": "Not that I loved Caesar less, but that I loved Rome more.\nHe was annoyed that he was contradicted."
+      },
+      {
+        "t": "rule",
+        "x": "§410 (2) ‘That’ can express a Purpose. It means the same as ‘in order that’."
+      },
+      {
+        "t": "ex",
+        "x": "We sow that we may reap.\nHe kept quiet that the dispute might cease."
+      },
+      {
+        "t": "note",
+        "x": "Today we rarely use ‘that’ for reason or purpose."
+      },
+      {
+        "t": "rule",
+        "x": "§410 (3) ‘That’ can express a Consequence, Result, or Effect."
+      },
+      {
+        "t": "ex",
+        "x": "I am so tired that I cannot go on.\nHe bled so profusely that he died.\nHe was so tired that he could scarcely stand."
+      },
+      {
+        "t": "rule",
+        "x": "§411 As a Conjunction, ‘than’ follows adjectives and adverbs in the comparative degree."
+      },
+      {
+        "t": "ex",
+        "x": "Wisdom is better than rubies (are).\nI see you oftener than (I see) him.\nI am better acquainted with the country than you are.\nI would rather suffer than that you should want."
+      },
+      {
+        "t": "rule",
+        "x": "§412 ‘Lest’ is a Subordinating Conjunction. It expresses a negative purpose, and means ‘in order that... not’, or ‘for fear that’."
+      },
+      {
+        "t": "ex",
+        "x": "Love not sleep, lest thou come to poverty.\nDo not be idle, lest you come to want.\nHe fled lest he should be killed.\nI was alarmed lest we should be wrecked."
+      },
+      {
+        "t": "note",
+        "x": "Note 1 — Lest is rare in modern English."
+      },
+      {
+        "t": "note",
+        "x": "Note 2 — In modern English we use ‘should’ after ‘lest’."
+      },
+      {
+        "t": "p",
+        "x": "After some words that show fear, ‘lest’ was used to mean ‘that’."
+      },
+      {
+        "t": "ex",
+        "x": "I feared lest I might anger thee."
+      },
+      {
+        "t": "rule",
+        "x": "§413 (1) ‘While’ can mean ‘during the time that’, or ‘as long as’."
+      },
+      {
+        "t": "ex",
+        "x": "While he was sleeping, an enemy sowed tares.\nWhile there is life there is hope."
+      },
+      {
+        "t": "rule",
+        "x": "§413 (2) ‘While’ can mean ‘at the same time that’."
+      },
+      {
+        "t": "ex",
+        "x": "The girls sang while the boys played.\nWhile he found fault, he also praised."
+      },
+      {
+        "t": "rule",
+        "x": "§413 (3) ‘While’ can mean ‘whereas’."
+      },
+      {
+        "t": "ex",
+        "x": "While I have no money to spend, you have nothing to spend on.\nWhile this is true of some, it is not true of all."
+      },
+      {
+        "t": "rule",
+        "x": "§414 ‘Only’ as a Conjunction means ‘except that’, ‘but’, or ‘were it not that’."
+      },
+      {
+        "t": "ex",
+        "x": "A very pretty woman, only she squints a little.\nThe day is pleasant, only rather cold.\nHe does well, only that he is nervous at the start.\nI would go with you, only I have no money."
+      },
+      {
+        "t": "rule",
+        "x": "§415 ‘Except’ was once in good use as a Conjunction."
+      },
+      {
+        "t": "ex",
+        "x": "Except (= unless) ye repent, ye shall all likewise perish.\nExcept a man be born again, he cannot see the kingdom of God."
+      },
+      {
+        "t": "p",
+        "x": "In modern English we use ‘unless’ in its place."
+      },
+      {
+        "t": "rule",
+        "x": "§416 The use of ‘without’ as a Conjunction meaning ‘unless’ is now bad English."
+      },
+      {
+        "t": "ex",
+        "x": "I shall not go without you do."
+      },
+      {
+        "t": "rule",
+        "x": "§417 Of the three conjunctions because, for, and since, ‘because’ shows the closest link of cause, ‘for’ the weakest, and ‘since’ comes between the two."
+      }
+    ],
    "unit": 41,
    "title": "Some Conjunctions and Their Uses",
    "display": "Some Conjunctions and Their Uses",
@@ -22751,6 +30953,48 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "What is an Interjection?"
+      },
+      {
+        "t": "p",
+        "x": "§418 Read these sentences."
+      },
+      {
+        "t": "ex",
+        "x": "Hello! What are you doing there?\nAlas! He is dead.\nHurrah! We have won the game.\nAh! Have they gone?\nOh! I got such a fright.\nHush! Don’t make a noise."
+      },
+      {
+        "t": "p",
+        "x": "Words like Hello! Alas! Hurrah! Ah! and so on are called Interjections. They express a sudden feeling. They have no grammatical link with the other words in the sentence."
+      },
+      {
+        "t": "def",
+        "x": "An Interjection is a word which expresses some sudden feeling or emotion."
+      },
+      {
+        "t": "p",
+        "x": "Interjections may express:"
+      },
+      {
+        "t": "ex",
+        "x": "(1) Joy; as, Hurrah! huzza!\n(2) Grief; as, alas!\n(3) Surprise; as, ha! what!\n(4) Approval; as, bravo!"
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§419 Groups of words are also used to express a sudden feeling or emotion."
+      },
+      {
+        "t": "ex",
+        "x": "Ah me!\nFor shame!\nWell done!\nGood gracious!"
+      }
+    ],
    "unit": 42,
    "title": "The Interjection",
    "display": "The Interjection",
@@ -22880,6 +31124,404 @@ STUDY.grammar = {
    ]
   },
   {
+    "lesson": [
+      {
+        "t": "h",
+        "x": "The Same Word Used as Different Parts of Speech"
+      },
+      {
+        "t": "p",
+        "x": "§420 Here are some of the most important words that can belong to different parts of speech, according to how they are used."
+      },
+      {
+        "t": "p",
+        "x": "Always remember: it is the work a word does (its function or use) that decides which part of speech it is in a sentence."
+      },
+      {
+        "t": "h",
+        "x": "Rules"
+      },
+      {
+        "t": "rule",
+        "x": "§420 It is the function or use of a word that decides which part of speech it belongs to in a given sentence."
+      },
+      {
+        "t": "h",
+        "x": "About"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. They wandered about in sheepskins and goatskins.\nPreposition. There is something pleasing about him."
+      },
+      {
+        "t": "h",
+        "x": "Above"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. The heavens are above.\nPreposition. The moral law is above the civil.\nAdjective. Analyse the above sentence.\nNoun. Our blessings come from above."
+      },
+      {
+        "t": "h",
+        "x": "After"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. They arrived soon after.\nPreposition. He takes after his father.\nAdjective. He told the story in after years.\nConjunction. We went away after they had left."
+      },
+      {
+        "t": "h",
+        "x": "All"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. All men are mortal. It was all profit and no loss.\nAdverb. He was all alone when I saw him.\nPronoun. All spoke in his favour.\nNoun. He lost his all in speculation."
+      },
+      {
+        "t": "h",
+        "x": "Any"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. Are there any witnesses present?\nPronoun. Does any of you know anything about it?\nAdverb. Is that any better?"
+      },
+      {
+        "t": "h",
+        "x": "As"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. We walked as fast as we could.\nConjunction. As he was poor I helped him.\nRelat. Pron. She likes the same colour as I do."
+      },
+      {
+        "t": "h",
+        "x": "Before"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. I have seen you before.\nPreposition. He came before the appointed time.\nConjunction. He went away before I came."
+      },
+      {
+        "t": "h",
+        "x": "Better"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. I think yours is a better plan.\nAdverb. I know better.\nNoun. Give place to your betters.\nVerb. He bettered his score in the second match."
+      },
+      {
+        "t": "h",
+        "x": "Both"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. You cannot have it both ways.\nPronoun. Both of them are dead.\nConjunction. Both the cashier and the accountant are Hindus."
+      },
+      {
+        "t": "h",
+        "x": "But"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. It is but (= only) right to admit our faults.\nPreposition. None but (= except) the brave deserves the fair.\nConjunction. We tried hard, but did not succeed.\nRelat. Pronoun. There is no one but likes him. (= who does not like him.)"
+      },
+      {
+        "t": "h",
+        "x": "Down"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. The sun went down.\nPreposition. The fire engine came rushing down the hill.\nAdjective. The porter was killed by the down train.\nNoun. He has seen the ups and downs of life.\nVerb. Down with the tyrant!"
+      },
+      {
+        "t": "h",
+        "x": "Either"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. Either bat is good enough.\nPronoun. Ask either of them.\nConjunction. He must either work or starve."
+      },
+      {
+        "t": "h",
+        "x": "Else"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. I have something else for you.\nAdverb. Shall we look anywhere else?\nConjunction. Make haste, else you will miss the train."
+      },
+      {
+        "t": "h",
+        "x": "Enough"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. There is time enough and to spare.\nAdverb. You know well enough what I mean.\nNoun. I have had enough of this."
+      },
+      {
+        "t": "h",
+        "x": "Even"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. The chances are even.\nVerb. Let us even the ground.\nAdverb. Does he even suspect the danger?"
+      },
+      {
+        "t": "h",
+        "x": "Except"
+      },
+      {
+        "t": "ex",
+        "x": "Verb. If we except Hari, all are to be blamed.\nPreposition. All the brethren were in Egypt except Benjamin.\nConjunction. I will not let thee go except (= unless) thou bless me. (§ 415)"
+      },
+      {
+        "t": "h",
+        "x": "For"
+      },
+      {
+        "t": "ex",
+        "x": "Preposition. I can shift for myself.\nConjunction. Give thanks unto the Lord; for He is good."
+      },
+      {
+        "t": "h",
+        "x": "Less"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. You are paying less attention to your studies than you used to do.\nAdverb. The population of India is less than that of China.\nNoun. He wants Rs. 500 for that watch. He won’t be satisfied with less."
+      },
+      {
+        "t": "h",
+        "x": "Like"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. They are men of like build and stature.\nPreposition. Do not talk like that.\nAdverb. Like as a father cares for his children, he cares for us.\nNoun. We shall not see his like again.\nVerb. Children like sweets."
+      },
+      {
+        "t": "h",
+        "x": "Little"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. There is little danger in going there.\nNoun. Man wants but little here below.\nAdverb. He eats very little."
+      },
+      {
+        "t": "h",
+        "x": "More"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. We want more men like him.\nPronoun. More of us die in bed than out of it.\nAdverb. You should talk less and work more."
+      },
+      {
+        "t": "h",
+        "x": "Much"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. There is much sense in what he says.\nPronoun. Much of it is true.\nAdverb. He boasts too much."
+      },
+      {
+        "t": "h",
+        "x": "Near"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. Draw near and listen.\nPreposition. His house is near the temple.\nAdjective. He is a near relation.\nVerb. The time nears."
+      },
+      {
+        "t": "h",
+        "x": "Needs"
+      },
+      {
+        "t": "ex",
+        "x": "Noun. My needs are few.\nVerb. It needs to be done with care.\nAdverb. He needs must come."
+      },
+      {
+        "t": "h",
+        "x": "Neither"
+      },
+      {
+        "t": "ex",
+        "x": "Conjunction. Give me neither poverty nor riches.\nAdjective. Neither accusation is true.\nPronoun. It is difficult to negotiate where neither will trust."
+      },
+      {
+        "t": "h",
+        "x": "Next"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. I shall see you next Monday.\nAdverb. What next?\nPreposition. He was sitting next to her.\nNoun. I shall tell you more about it in my next."
+      },
+      {
+        "t": "h",
+        "x": "No"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. It is no joke.\nAdverb. He is no more.\nNoun. I will not take a no."
+      },
+      {
+        "t": "h",
+        "x": "Once"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. I was young once.\nConjunction. Once he hesitates we have him.\nNoun. Please help me for once."
+      },
+      {
+        "t": "h",
+        "x": "One"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. One day I met him in the street.\nPronoun. The little ones cried for joy.\nNoun. One would think he was mad."
+      },
+      {
+        "t": "h",
+        "x": "Only"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. It was his only chance.\nAdverb. He was only foolish.\nConjunction. Take what I have, only (= but) let me go."
+      },
+      {
+        "t": "h",
+        "x": "Over"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. Read it over carefully.\nNoun. In one over he took three wickets.\nPreposition. At thirty a change came over him."
+      },
+      {
+        "t": "h",
+        "x": "Right"
+      },
+      {
+        "t": "ex",
+        "x": "Verb. That is a fault that will right itself.\nAdjective. He is the right man for the position.\nNoun. I ask it as a right.\nAdverb. Serves him right! He stood right in my way."
+      },
+      {
+        "t": "h",
+        "x": "Round"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. A square peg in a round hole.\nNoun. The evening was a round of pleasures.\nAdverb. He came round to their belief.\nPreposition. The earth revolves round the sun.\nVerb. We shall round the cape in safety."
+      },
+      {
+        "t": "h",
+        "x": "Since"
+      },
+      {
+        "t": "ex",
+        "x": "Preposition. Since that day I have not seen him.\nConjunction. Since there’s no help, come, let us kiss and part.\nAdverb. I have not seen him since."
+      },
+      {
+        "t": "h",
+        "x": "So"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. I am so sorry.\nConjunction. He was poor, so they helped him."
+      },
+      {
+        "t": "h",
+        "x": "Some"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. We must find some way out of it.\nPronoun. Some say one thing and others another.\nAdverb. Some thirty chiefs were present."
+      },
+      {
+        "t": "h",
+        "x": "Still"
+      },
+      {
+        "t": "ex",
+        "x": "Verb. She stilled the crying child.\nAdjective. Still waters run deep.\nNoun. Her sobs could be heard in the still of night.\nAdverb. He is still in business."
+      },
+      {
+        "t": "h",
+        "x": "Such"
+      },
+      {
+        "t": "ex",
+        "x": "Adjective. Don’t be in such a hurry.\nPronoun. Such was not my intention."
+      },
+      {
+        "t": "h",
+        "x": "That"
+      },
+      {
+        "t": "ex",
+        "x": "Demonst. Adjective. What is that noise?\nDemonst. Pronoun. That is what I want.\nAdverb. I have done that much only.\nRelative Pronoun. The evil that men do lives after them.\nConjunction. He lives so that he may eat."
+      },
+      {
+        "t": "h",
+        "x": "The"
+      },
+      {
+        "t": "ex",
+        "x": "Def. Article. The cat loves comfort.\nAdverb. The wiser he is, the better."
+      },
+      {
+        "t": "h",
+        "x": "Till"
+      },
+      {
+        "t": "ex",
+        "x": "Preposition. Never put off till tomorrow what you can do today.\nConjunction. Do not start till I give the word."
+      },
+      {
+        "t": "h",
+        "x": "Up"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. Prices are up.\nPreposition. Let us go up the hill.\nAdjective. The next up train will leave here at 12.30.\nNoun. They had their ups and downs of fortune."
+      },
+      {
+        "t": "h",
+        "x": "Well"
+      },
+      {
+        "t": "ex",
+        "x": "Noun. Let well alone.\nAdjective. I hope you are now well.\nAdverb. Well begun is half done.\nInterjection. Well, who would have thought it?"
+      },
+      {
+        "t": "h",
+        "x": "What"
+      },
+      {
+        "t": "ex",
+        "x": "Inter. Adjective. What evidence have you got?\nInterjection. What! you don’t mean to say so?\nInter. Pronoun. What does he want?\nRelative Pronoun. Give me what you can. What happened then, I do not know.\nAdverb. What with work and what with worry, he fell ill."
+      },
+      {
+        "t": "h",
+        "x": "While"
+      },
+      {
+        "t": "ex",
+        "x": "Noun. Sit down and rest a while.\nVerb. They while away their evenings with books and games.\nConjunction. While a great poet, he is a greater novelist."
+      },
+      {
+        "t": "h",
+        "x": "Why"
+      },
+      {
+        "t": "ex",
+        "x": "Interro. Adverb. Why did you do it?\nRelative Adverb. I know the reason why he did it.\nInterjection. Why, it is surely Nanak!\nNoun. This is not the time to go into the why and the wherefore of it."
+      },
+      {
+        "t": "h",
+        "x": "Yet"
+      },
+      {
+        "t": "ex",
+        "x": "Adverb. There is more evidence yet to be offered.\nConjunction. He is willing, yet unable."
+      }
+    ],
    "unit": 43,
    "title": "The Same Word Used as Different Parts of Speech",
    "display": "The Same Word Used as Different Parts of Speech",

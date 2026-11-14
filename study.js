@@ -424510,12 +424510,26 @@ function exUnitHtml(n){
   var _sci = ((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0 || (matSubj || "").indexOf("Computer Science") === 0 || (matSubj || "").indexOf("Science") === 0);
   if(matSubj === "English" && u.display) html += "<p class=\"pro-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
   html += "<div class=\"pro-toc\"><div class=\"pro-toc-title\">In this unit</div>";
+  if(u.lesson && u.lesson.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExLesson(" + n + ")\"><b>Lesson</b> Definitions, rules and examples</button>";
   (u.sections || []).forEach(function(sec, i){
     var _cnt = 0; (sec.exercises || []).forEach(function(g){ _cnt += (g.items || []).length; });
     html += "<button class=\"pro-toc-row\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\"><b>" + escHtml(sec.num) + "</b> " + escHtml(sec.name) + " \u2014 " + _cnt + " questions</button>";
   });
   if(u.words && u.words.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExWords(" + n + ")\"><b>Words</b> Difficult Words \u2014 " + u.words.length + " words</button>";
   html += "</div>";
+  if(u.lesson && u.lesson.length){
+    html += "<div class=\"review\" id=\"ex-" + n + "-lesson\">";
+    u.lesson.forEach(function(b){
+      var _t = escHtml(b.x || "").split("\n").join("<br>");
+      if(b.t === "h") html += "<div class=\"qq exsec\"><b><u>" + _t + "</u></b></div>";
+      else if(b.t === "def") html += "<p class=\"note\"><b>Definition:</b> " + _t + "</p>";
+      else if(b.t === "rule") html += "<p class=\"note\"><b>Rule:</b> " + _t + "</p>";
+      else if(b.t === "ex") html += "<p class=\"note\"><i>" + _t + "</i></p>";
+      else if(b.t === "note") html += "<p class=\"note\"><b>Note:</b> " + _t + "</p>";
+      else html += "<p class=\"note\">" + _t + "</p>";
+    });
+    html += "</div>";
+  }
   (u.sections || []).forEach(function(sec, i){
     html += "<div class=\"review\" id=\"ex-" + n + "-" + (i + 1) + "\"><div class=\"qq exsec\"><b><u>" + escHtml(sec.num) + " " + escHtml(sec.name) + "</u></b></div>";
     var _isExtras = /additional|وڌيڪ/i.test(sec.name || "");
@@ -424549,6 +424563,7 @@ function exUnitHtml(n){
 }
 // Jump to one section of an exercise-solution unit page.
 function jumpEx(n, m){ var el = document.getElementById("ex-" + n + "-" + m); if(el) el.scrollIntoView(); }
+function jumpExLesson(n){ var el = document.getElementById("ex-" + n + "-lesson"); if(el) el.scrollIntoView(); }
 function jumpExWords(n){ var el = document.getElementById("ex-" + n + "-words"); if(el) el.scrollIntoView(); }
 // Back from a material page: from a unit page go to the unit list, else to the subject page.
 function backFromMatPage(){
