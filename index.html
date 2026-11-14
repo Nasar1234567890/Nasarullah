@@ -40464,6 +40464,106 @@ const QUESTIONS = {
      "plot([cos(t), sin(t), t = -2*Pi..2*Pi]);"
     ],
     "answer": 0
+   },
+   {
+    "q": "ميپل ۾ expand ڪمانڊ استعمال ڪندي (x + y)^4 کي وڌايو ته ڪهڙو نتيجو ملندو؟",
+    "options": [
+     "x^4 + y^4",
+     "x^4 + 4x^3y - 6x^2y^2 + 4xy^3 + y^4",
+     "x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4",
+     "x^4 + 3x^3y + 3x^2y^2 + 3xy^3 + y^4"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "ميپل ۾ factor ڪمانڊ استعمال ڪندي x^3 - 27 جي عاملي صورت ڪهڙي آهي؟",
+    "options": [
+     "(x - 3)(x^2 + 3x + 9)",
+     "(x - 3)(x^2 - 3x + 9)",
+     "(x + 3)(x^2 + 3x + 9)",
+     "(x - 3)^3"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "ميپل ۾ simplify ڪمانڊ استعمال ڪندي 1 - sin(x)^2 جي سادي صورت ڪهڙي آهي؟",
+    "options": [
+     "sin(x)^2",
+     "cos(x)^2",
+     "1",
+     "tan(x)^2"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "ميپل ۾ evalf ڪمانڊ استعمال ڪندي sin(pi/3) جو عددي ملهه ڪهڙو آهي؟",
+    "options": [
+     "0.5000000000",
+     "0.7071067812",
+     "1.0000000000",
+     "0.8660254038"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "ميپل ۾ MatrixInverse ڪمانڊ استعمال ڪندي ميٽرڪس A = [[2, 3], [1, 4]] جو معڪوس ڪهڙو آهي؟",
+    "options": [
+     "[[4/5, 3/5], [1/5, 2/5]]",
+     "[[4/5, -3/5], [-1/5, 2/5]]",
+     "[[-4/5, 3/5], [1/5, -2/5]]",
+     "[[2, 3], [1, 4]]"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "ميپل ۾ Transpose ڪمانڊ استعمال ڪندي ميٽرڪس B = [[1, 3, 5], [2, 4, 6]] جو ٽرانسپوز ڪهڙو آهي؟",
+    "options": [
+     "[[1, 3, 5], [2, 4, 6]]",
+     "[[2, 1], [4, 3], [6, 5]]",
+     "[[1, 2], [3, 4], [5, 6]]",
+     "[[1, 4], [2, 5], [3, 6]]"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "ميپل ۾ A = [[2, 1], [0, 3]] ۽ B = [[1, 4], [2, 5]] جي ضرب A . B ڪهڙي آهي؟",
+    "options": [
+     "[[4, 13], [6, 15]]",
+     "[[2, 4], [0, 15]]",
+     "[[2, 13], [4, 17]]",
+     "[[3, 5], [2, 8]]"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "[-4, 4] حد ۾ فعل f(x) = x^3 ۽ g(x) = x - 2 کي ساڳئي گراف تي پلاٽ ڪرڻ لاءِ ميپل ۾ ڪهڙو ڪمانڊ استعمال ٿيندو؟",
+    "options": [
+     "plot([x^3, x + 2], x = -4..4);",
+     "plot([x^3], x = -4..4);",
+     "plot([x^3, x - 2], x = -5..5);",
+     "plot([x^3, x - 2], x = -4..4);"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "[0, pi] وقفي ۾ فعل h(x) = sin(x) ۽ k(x) = cos(x) جو گراف ٺاهڻ لاءِ ميپل ۾ ڪهڙو ڪمانڊ استعمال ٿيندو؟",
+    "options": [
+     "plot([sin(x), cos(x)], x = 0..2*Pi);",
+     "plot([sin(x), cos(x)], x = 0..Pi);",
+     "plot([sin(x)], x = 0..Pi);",
+     "plot([sin(x), -cos(x)], x = 0..Pi);"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "[-pi, pi] حد ۾ t لاءِ پيراميٽرڪ وڪر x(t) = cos(3t) ۽ y(t) = sin(2t) پلاٽ ڪرڻ لاءِ ميپل ۾ ڪهڙو ڪمانڊ استعمال ٿيندو؟",
+    "options": [
+     "plot([cos(3*t), sin(2*t), t = -2*Pi..2*Pi]);",
+     "plot([cos(2*t), sin(3*t), t = -Pi..Pi]);",
+     "plot([cos(3*t), sin(2*t), t = -Pi..Pi]);",
+     "plot([sin(3*t), cos(2*t), t = -Pi..Pi]);"
+    ],
+    "answer": 2
    }
   ]
  },
@@ -40774,6 +40874,106 @@ const QUESTIONS = {
      "plot([cos(2*t), sin(3*t), t = 0..2*Pi]);",
      "plot([sin(2*t), cos(3*t), t = -2*Pi..2*Pi]);",
      "plot([cos(3*t), sin(2*t), t = -2*Pi..2*Pi]);"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Using the \"expand\" command in Maple, what is the expansion of (x + y)^4?",
+    "options": [
+     "x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4",
+     "x^4 + y^4",
+     "x^4 + 4x^3y - 6x^2y^2 + 4xy^3 + y^4",
+     "x^4 + 3x^3y + 3x^2y^2 + 3xy^3 + y^4"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Using the \"factor\" command in Maple, what is the factored form of x^3 - 27?",
+    "options": [
+     "(x - 3)(x^2 - 3x + 9)",
+     "(x + 3)(x^2 + 3x + 9)",
+     "(x - 3)(x^2 + 3x + 9)",
+     "(x - 3)^3"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Using the \"simplify\" command in Maple, what is the simplified form of 1 - sin(x)^2?",
+    "options": [
+     "1",
+     "sin(x)^2",
+     "tan(x)^2",
+     "cos(x)^2"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "What is the numerical value of sin(pi/3) obtained with the evalf command in Maple?",
+    "options": [
+     "0.7071067812",
+     "0.8660254038",
+     "0.5000000000",
+     "1.0000000000"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is the inverse of the matrix A = [[2, 3], [1, 4]] found with the MatrixInverse command in Maple?",
+    "options": [
+     "[[2, 3], [1, 4]]",
+     "[[-4/5, 3/5], [1/5, -2/5]]",
+     "[[4/5, 3/5], [1/5, 2/5]]",
+     "[[4/5, -3/5], [-1/5, 2/5]]"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "What is the transpose of the matrix B = [[1, 3, 5], [2, 4, 6]] found with the Transpose command in Maple?",
+    "options": [
+     "[[1, 2], [3, 4], [5, 6]]",
+     "[[1, 3, 5], [2, 4, 6]]",
+     "[[1, 4], [2, 5], [3, 6]]",
+     "[[2, 1], [4, 3], [6, 5]]"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is the product A . B for A = [[2, 1], [0, 3]] and B = [[1, 4], [2, 5]] in Maple?",
+    "options": [
+     "[[2, 4], [0, 15]]",
+     "[[2, 13], [4, 17]]",
+     "[[4, 13], [6, 15]]",
+     "[[3, 5], [2, 8]]"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which Maple command plots the functions f(x) = x^3 and g(x) = x - 2 on the same graph in the range [-4, 4]?",
+    "options": [
+     "plot([x^3, x - 2], x = -5..5);",
+     "plot([x^3, x - 2], x = -4..4);",
+     "plot([x^3, x + 2], x = -4..4);",
+     "plot([x^3], x = -4..4);"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Which Maple command generates a graph that includes h(x) = sin(x) and k(x) = cos(x) in the interval [0, pi]?",
+    "options": [
+     "plot([sin(x)], x = 0..Pi);",
+     "plot([sin(x), cos(x)], x = 0..2*Pi);",
+     "plot([sin(x), -cos(x)], x = 0..Pi);",
+     "plot([sin(x), cos(x)], x = 0..Pi);"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "Which Maple command plots the parametric curves x(t) = cos(3t) and y(t) = sin(2t) for t in the range [-pi, pi]?",
+    "options": [
+     "plot([cos(3*t), sin(2*t), t = -Pi..Pi]);",
+     "plot([cos(3*t), sin(2*t), t = -2*Pi..2*Pi]);",
+     "plot([sin(3*t), cos(2*t), t = -Pi..Pi]);",
+     "plot([cos(2*t), sin(3*t), t = -Pi..Pi]);"
     ],
     "answer": 0
    }
