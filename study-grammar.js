@@ -846,6 +846,22698 @@ STUDY.grammar = {
         "w": "perceive"
       }
     ]
+  },
+  {
+   "unit": 5,
+   "title": "The Noun: Kinds of Nouns",
+   "display": "The Noun: Kinds of Nouns",
+   "reading": "The Noun: Kinds of Nouns",
+   "sections": [
+    {
+     "name": "What is a Noun?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 5, §19)",
+       "items": [
+        {
+         "q": "What is a noun?",
+         "a": "A noun is a word used as the name of a person, place, or thing."
+        },
+        {
+         "q": "What three kinds of things can a noun be the name of?",
+         "a": "A person, a place, or a thing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Proper and Common Nouns",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 5, §20)",
+       "items": [
+        {
+         "q": "Asoka was a wise king.\nWhich noun is a Proper Noun, and which is a Common Noun?",
+         "a": "Asoka is a Proper Noun, and king is a Common Noun.\nThe noun Asoka refers to a particular king, but the noun king might be applied to any other king as well as to Asoka."
+        },
+        {
+         "q": "Which is the Proper Noun and which is the Common Noun in each pair?\nSita — girl; Hari — boy.",
+         "a": "Sita is a Proper Noun, while girl is a Common Noun.\nHari is a Proper Noun, while boy is a Common Noun."
+        },
+        {
+         "q": "Which is the Proper Noun and which is the Common Noun in each pair?\nKolkata — city; India — country.",
+         "a": "Kolkata is a Proper Noun, while city is a Common Noun.\nIndia is a Proper Noun, while country is a Common Noun."
+        },
+        {
+         "q": "Why is ‘girl’ a Common Noun while ‘Sita’ is a Proper Noun?",
+         "a": "The word girl is a Common Noun, because it is a name common to all girls, while Sita is a Proper Noun because it is the name of a particular girl."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Definitions: Common and Proper Nouns",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 5, §21)",
+       "items": [
+        {
+         "q": "What is a Common Noun?",
+         "a": "A Common Noun is a name given in common to every person or thing of the same class or kind.\n[Common here means shared by all.]"
+        },
+        {
+         "q": "What is a Proper Noun?",
+         "a": "A Proper Noun is the name of some particular person or place.\n[Proper means one’s own. Hence a Proper Name is a person’s own name.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Notes on Proper Nouns",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 5, §22)",
+       "items": [
+        {
+         "q": "Note 1 — How are Proper Nouns written?",
+         "a": "Proper nouns are always written with a capital letter at the beginning."
+        },
+        {
+         "q": "He was the Lukman (= the wisest man) of his age.\nWhy is ‘Lukman’ used here?",
+         "a": "Proper nouns are sometimes used as common nouns. Here Lukman means the wisest man."
+        },
+        {
+         "q": "Kalidas is often called the Shakespeare (= the greatest dramatist) of India.\nWhy is ‘Shakespeare’ used here?",
+         "a": "Proper nouns are sometimes used as common nouns. Here Shakespeare means the greatest dramatist."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Collective Nouns",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 5, §23)",
+       "items": [
+        {
+         "q": "What is a Collective Noun?",
+         "a": "A collective noun is the name of a number (or collection) of persons or things taken together and spoken of as one whole."
+        },
+        {
+         "q": "Name some Collective Nouns.",
+         "a": "crowd, mob, team, flock, herd, army, fleet, jury, family, nation, parliament, committee."
+        },
+        {
+         "q": "What is a fleet? What is an army? What is a crowd?",
+         "a": "a fleet = a collection of ships or vessels.\nan army = a collection of soldiers.\na crowd = a collection of people."
+        },
+        {
+         "q": "Use these Collective Nouns in sentences: crowd, army, jury, herd.",
+         "a": "The police dispersed the crowd.\nThe French army was defeated at Waterloo.\nThe jury found the prisoner guilty.\nA herd of cattle is passing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Abstract Nouns",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 5, §24)",
+       "items": [
+        {
+         "q": "What is an Abstract Noun?",
+         "a": "An Abstract Noun is usually the name of a quality, action, or state considered apart from the object to which it belongs."
+        },
+        {
+         "q": "Name some Abstract Nouns that are qualities.",
+         "a": "goodness, kindness, whiteness, darkness, hardness, brightness, honesty, wisdom, bravery."
+        },
+        {
+         "q": "Name some Abstract Nouns that are actions.",
+         "a": "laughter, theft, movement, judgement, hatred."
+        },
+        {
+         "q": "Name some Abstract Nouns that are states.",
+         "a": "childhood, boyhood, youth, slavery, sleep, sickness, death, poverty."
+        },
+        {
+         "q": "What other names are also Abstract Nouns?",
+         "a": "The names of the Arts and Sciences (e.g., grammar, music, chemistry, etc.) are also Abstract Nouns.\n[We can speak of a brave soldier, a strong man, a beautiful flower. But we can also think of these qualities apart from any particular person or thing, and speak of bravery, strength, beauty by themselves. So also we can speak of what persons do or feel apart from the persons themselves, and give it a name. The word abstract means drawn off.]"
+        },
+        {
+         "q": "How are Abstract Nouns formed?",
+         "a": "(1) from Adjectives; as, kindness from kind; honesty from honest.\n[Most abstract nouns are formed thus.]\n(2) from Verbs; as, obedience from obey; growth from grow.\n(3) from Common Nouns; as, childhood from child; slavery from slave."
+        },
+        {
+         "q": "What are Countable Nouns and Uncountable Nouns?",
+         "a": "Countable nouns (or countables) are the names of objects, people, etc. that we can count, e.g., book, pen, apple, boy, sister, doctor, horse.\nUncountable nouns (or uncountables) are the names of things that we cannot count, e.g., milk, oil, sugar, gold, honesty. They mainly denote substances and abstract things.\nCountable nouns have plural forms while uncountable nouns do not. For example, we say “books” but we cannot say “milks”."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 3",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 3 (Chapter 5) — from the book. Pick out the nouns in the following sentences and say whether they are Common, Proper, Collective or Abstract.",
+       "items": [
+        {
+         "q": "1. The crowd was very big.",
+         "a": "crowd — Collective"
+        },
+        {
+         "q": "2. Always speak the truth.",
+         "a": "truth — Abstract"
+        },
+        {
+         "q": "3. We all love honesty.",
+         "a": "honesty — Abstract"
+        },
+        {
+         "q": "4. Our class consists of twenty pupils.",
+         "a": "class — Collective; pupils — Common"
+        },
+        {
+         "q": "5. The elephant has great strength.",
+         "a": "elephant — Common; strength — Abstract"
+        },
+        {
+         "q": "6. Solomon was famous for his wisdom.",
+         "a": "Solomon — Proper; wisdom — Abstract"
+        },
+        {
+         "q": "7. Cleanliness is next to godliness.",
+         "a": "cleanliness — Abstract; godliness — Abstract"
+        },
+        {
+         "q": "8. We saw a fleet of ships in the harbour.",
+         "a": "fleet — Collective; ships — Common; harbour — Common"
+        },
+        {
+         "q": "9. The class is studying grammar.",
+         "a": "class — Collective; grammar — Abstract"
+        },
+        {
+         "q": "10. The Godavari overflows its banks every year.",
+         "a": "Godavari — Proper; banks — Common; year — Common"
+        },
+        {
+         "q": "11. A committee of five was appointed.",
+         "a": "committee — Collective"
+        },
+        {
+         "q": "12. Jawaharlal Nehru was the first Prime Minister of India.",
+         "a": "Jawaharlal Nehru — Proper; Prime Minister — Common; India — Proper"
+        },
+        {
+         "q": "13. The soldiers were rewarded for their bravery.",
+         "a": "soldiers — Common; bravery — Abstract"
+        },
+        {
+         "q": "14. Without health there is no happiness.",
+         "a": "health — Abstract; happiness — Abstract"
+        },
+        {
+         "q": "15. He gave me a bunch of grapes.",
+         "a": "bunch — Collective; grapes — Common"
+        },
+        {
+         "q": "16. I recognized your voice at once.",
+         "a": "voice — Common"
+        },
+        {
+         "q": "17. Our team is better than theirs.",
+         "a": "team — Collective"
+        },
+        {
+         "q": "18. Never tell a lie.",
+         "a": "lie — Abstract"
+        },
+        {
+         "q": "19. Wisdom is better than strength.",
+         "a": "wisdom — Abstract; strength — Abstract"
+        },
+        {
+         "q": "20. He sets a high value on his time.",
+         "a": "value — Abstract; time — Abstract"
+        },
+        {
+         "q": "21. I believe in his innocence.",
+         "a": "innocence — Abstract"
+        },
+        {
+         "q": "22. This room is thirty feet in length.",
+         "a": "room — Common; feet — Common; length — Abstract"
+        },
+        {
+         "q": "23. I often think of the happy days of childhood.",
+         "a": "days — Common; childhood — Abstract"
+        },
+        {
+         "q": "24. The streets of some of our cities are noted for their crookedness.",
+         "a": "streets — Common; cities — Common; crookedness — Abstract"
+        },
+        {
+         "q": "25. What is your verdict, gentlemen of the jury?",
+         "a": "verdict — Abstract; gentlemen — Common; jury — Collective"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 4",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 4 (Chapter 5) — from the book.",
+       "items": [
+        {
+         "q": "Write the Collective Noun for each of the following:\n(1) cattle; (2) soldiers; (3) sailors.",
+         "a": "(1) herd\n(2) army\n(3) crew"
+        },
+        {
+         "q": "Write the qualities (Abstract Nouns) that belong to boys who are\n(1) lazy; (2) cruel; (3) brave; (4) foolish.",
+         "a": "(1) laziness\n(2) cruelty\n(3) bravery\n(4) foolishness"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 5",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 5 (Chapter 5) — from the book.",
+       "items": [
+        {
+         "q": "Form Abstract Nouns from the following Adjectives.\nlong, strong, wide, broad, high, young\ntrue, wise, free, poor, humble, short\ngood, proud, just, decent, prudent, vacant\nbrave, vain, cruel, dark, sweet, novel\nsane, bitter, deep, human, quick, ignorant",
+         "a": "long — length; strong — strength; wide — width; broad — breadth; high — height; young — youth\ntrue — truth; wise — wisdom; free — freedom; poor — poverty; humble — humility; short — shortness\ngood — goodness; proud — pride; just — justice; decent — decency; prudent — prudence; vacant — vacancy\nbrave — bravery; vain — vanity; cruel — cruelty; dark — darkness; sweet — sweetness; novel — novelty\nsane — sanity; bitter — bitterness; deep — depth; human — humanity; quick — quickness; ignorant — ignorance"
+        },
+        {
+         "q": "Form Abstract Nouns from the following Verbs.\nlaugh, believe, choose, defend, free, obey\nserve, move, think, see, live, hate\nconceal, protect, judge, expect, please, seize\nadvise, pursue, excel, act, flatter, punish\nrelieve, know, starve, depart, die, converse\nsteal, occupy, persevere, succeed, discover",
+         "a": "laugh — laughter; believe — belief; choose — choice; defend — defence; free — freedom; obey — obedience\nserve — service; move — movement; think — thought; see — sight; live — life; hate — hatred\nconceal — concealment; protect — protection; judge — judgement; expect — expectation (or expectancy); please — pleasure; seize — seizure\nadvise — advice; pursue — pursuit; excel — excellence; act — action; flatter — flattery; punish — punishment\nrelieve — relief; know — knowledge; starve — starvation; depart — departure; die — death; converse — conversation\nsteal — stealth; occupy — occupation (or occupancy); persevere — perseverance; succeed — success; discover — discovery"
+        },
+        {
+         "q": "Form Abstract Nouns from the following Common Nouns.\nking, infant, mother, priest, friend, man\nowner, agent, boy, captain, thief, rogue\nhero, bond, rascal, woman, regent, beggar\npirate, patriot, bankrupt, author, coward, pilgrim\nglutton",
+         "a": "king — kinghood; infant — infancy; mother — motherhood; priest — priesthood; friend — friendship; man — manhood\nowner — ownership; agent — agency; boy — boyhood; captain — captaincy; thief — theft; rogue — roguery\nhero — heroism; bond — bondage; rascal — rascality; woman — womanhood; regent — regency; beggar — beggary\npirate — piracy; patriot — patriotism; bankrupt — bankruptcy; author — authorship; coward — cowardice; pilgrim — pilgrimage\nglutton — gluttony"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "noun",
+     "sd": "اسم",
+     "syn": "the name of a person, place or thing"
+    },
+    {
+     "w": "proper noun",
+     "sd": "اسم خاص",
+     "syn": "the name of a particular person or place"
+    },
+    {
+     "w": "common noun",
+     "sd": "اسم عام",
+     "syn": "a name given in common to every person or thing of the same class"
+    },
+    {
+     "w": "collective noun",
+     "sd": "اسم مجموعي",
+     "syn": "the name of a collection of persons or things taken together as one whole"
+    },
+    {
+     "w": "abstract noun",
+     "sd": "اسم مجرد",
+     "syn": "the name of a quality, action or state considered apart from the object"
+    },
+    {
+     "w": "quality",
+     "sd": "خوبي",
+     "syn": "what a person or thing is like; goodness, kindness, bravery"
+    },
+    {
+     "w": "countable",
+     "sd": "ڳڻپ لائق",
+     "syn": "that can be counted, like book, pen, boy"
+    },
+    {
+     "w": "uncountable",
+     "sd": "ڳڻپ کان ٻاهر",
+     "syn": "that cannot be counted, like milk, oil, honesty"
+    }
+   ]
+  },
+  {
+   "unit": 6,
+   "title": "The Noun: Gender",
+   "display": "The Noun: Gender",
+   "reading": "The Noun: Gender",
+   "sections": [
+    {
+     "name": "Masculine and Feminine Gender",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 6, §25)",
+       "items": [
+        {
+         "q": "Compare the words in these pairs. What do you notice?\nboy — girl; lion — lioness; hero — heroine; cock-sparrow — hen-sparrow.",
+         "a": "The first word of each pair is the name of a male animal.\nThe second word of each pair is the name of a female animal."
+        },
+        {
+         "q": "What is the Masculine Gender?",
+         "a": "A noun that denotes a male animal is said to be of the Masculine Gender.\n[Gender comes from Latin genus, kind or sort.]"
+        },
+        {
+         "q": "What is the Feminine Gender?",
+         "a": "A noun that denotes a female animal is said to be of the Feminine Gender."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Common Gender",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 6, §26)",
+       "items": [
+        {
+         "q": "What is the Common Gender?",
+         "a": "A noun that denotes either a male or a female is said to be of the Common Gender."
+        },
+        {
+         "q": "Name some nouns of the Common Gender.",
+         "a": "parent, child, friend, pupil, servant, thief, relation, enemy, cousin, person, orphan, student, baby, monarch, neighbour, infant."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Neuter Gender",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 6, §27)",
+       "items": [
+        {
+         "q": "What is the Neuter Gender?",
+         "a": "A noun that denotes a thing that is neither male nor female (i.e., thing without life) is said to be of the Neuter Gender; as, book, pen, room, tree.\n[Neuter means neither, that is, neither male nor female.]"
+        },
+        {
+         "q": "What decides the gender of a noun in modern English?",
+         "a": "In modern English the gender of a noun is entirely a matter of sex or the absence of sex. It has nothing to do with the form of a noun, which determines its gender in many other languages, e.g., in Urdu where bagiche is masculine and lakri is feminine."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Personification",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 6, §28)",
+       "items": [
+        {
+         "q": "What does it mean to personify a thing?",
+         "a": "Objects without life are often personified, that is, spoken of as if they were living beings. We then regard them as males or females."
+        },
+        {
+         "q": "To which objects is the Masculine Gender often applied? Give an example.",
+         "a": "The Masculine Gender is often applied to objects remarkable for strength and violence; as, The Sun, Summer, Winter, Time, Death.\nThe sun sheds his beams on rich and poor alike."
+        },
+        {
+         "q": "To which objects is the Feminine Gender sometimes applied? Give examples.",
+         "a": "The Feminine Gender is sometimes applied to objects remarkable for beauty, gentleness, and gracefulness; as, The Moon, the Earth, Spring, Autumn, Nature, Liberty, Justice, Mercy, Peace, Hope, Charity.\nThe moon has hidden her face behind a cloud.\nSpring has spread her mantle of green over the earth.\nPeace hath her victories no less renowned than war."
+        },
+        {
+         "q": "A ship is often spoken of as ‘she’. Give an example.",
+         "a": "The ship lost all her boats in the storm.\nThis use is most common in poetry but certain nouns are personified in prose too."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Ways of Forming the Feminine",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 6, §29)",
+       "items": [
+        {
+         "q": "How many ways are there of forming the Feminine of Nouns?",
+         "a": "There are three ways of forming the Feminine of Nouns:-\n(1) By using an entirely different word.\n(2) By adding a syllable (-ess, -ine, -trix, -a, etc.).\n(3) By placing a word before or after."
+        },
+        {
+         "q": "(1) By using an entirely different word — give the feminine of each:\nBachelor; Boy; Brother; Buck; Bull (or ox); Bullock; Cock; Colt; Dog; Drake; Drone; Earl; Father; Gander; Gentleman; Hart; Horse; Husband; King; Lord; Man; Monk (or friar); Nephew; Papa; Ram; Sir; Son; Stag; Uncle; Wizard.",
+         "a": "Bachelor — maid (old use), spinster; Boy — girl; Brother — sister; Buck — doe; Bull (or ox) — cow; Bullock — heifer; Cock — hen; Colt — filly; Dog — bitch; Drake — duck; Drone — bee; Earl — countess; Father — mother; Gander — goose; Gentleman — lady; Hart — roe; Horse — mare; Husband — wife; King — queen; Lord — lady; Man — woman; Monk (or friar) — nun; Nephew — niece; Papa — mamma; Ram — ewe; Sir — madam; Son — daughter; Stag — hind; Uncle — aunt; Wizard — witch."
+        },
+        {
+         "q": "(2) By adding a syllable (-ess, -ine, -trix, -a, etc.) — give the feminine of each:\nAuthor; Baron; Count; Giant; Heir; Host; Jew; Lion; Manager; Mayor; Patron; Peer; Poet; Priest; Prophet; Shepherd; Steward; Viscount; Actor; Benefactor; Conductor; Enchanter; Founder; Hunter; Instructor; Negro; Abbot; Duke; Emperor; Preceptor; Prince; Songster; Tempter; Seamster; Tiger; Traitor; Waiter; Master; Murderer; Sorcerer; Hero; Testator; Czar; Sultan; Signor; Fox.",
+         "a": "Author — authoress; Baron — baroness; Count — countess; Giant — giantess; Heir — heiress; Host — hostess; Jew — Jewess; Lion — lioness; Manager — manageress; Mayor — mayoress; Patron — patroness; Peer — peeress; Poet — poetess; Priest — priestess; Prophet — prophetess; Shepherd — shepherdess; Steward — stewardess; Viscount — viscountess; Actor — actress; Benefactor — benefactress; Conductor — conductress; Enchanter — enchantress; Founder — foundress; Hunter — huntress; Instructor — instructress; Negro — negress; Abbot — abbess; Duke — duchess; Emperor — empress; Preceptor — preceptress; Prince — princess; Songster — songstress; Tempter — temptress; Seamster — seamstress; Tiger — tigress; Traitor — traitress; Waiter — waitress; Master — mistress; Murderer — murderess; Sorcerer — sorceress; Hero — heroine; Testator — testatrix; Czar — czarina; Sultan — sultana; Signor — signora; Fox — vixen."
+        },
+        {
+         "q": "Note — Which suffix is the commonest for forming feminine nouns?",
+         "a": "The suffix -ess is the commonest suffix used to form feminine nouns, from the masculine, and is the only one which we now use in forming a new feminine noun."
+        },
+        {
+         "q": "(3) By placing a word before or after — give the feminine of each:\nGrandfather; Greatuncle; Manservant; Landlord; Washerman; Milkman; Peacock; Salesman.",
+         "a": "Grandfather — grandmother; Greatuncle — greataunt; Manservant — maidservant; Landlord — landlady; Washerman — washerwoman; Milkman — milkwoman; Peacock — peahen; Salesman — saleswoman."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Give the Feminine",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "Give the feminine of each noun. (Practice made from the rules of this chapter — Chapter 6 has no exercise of its own in the book.)",
+       "items": [
+        {
+         "q": "1. boy",
+         "a": "girl"
+        },
+        {
+         "q": "2. man",
+         "a": "woman"
+        },
+        {
+         "q": "3. king",
+         "a": "queen"
+        },
+        {
+         "q": "4. lion",
+         "a": "lioness"
+        },
+        {
+         "q": "5. hero",
+         "a": "heroine"
+        },
+        {
+         "q": "6. actor",
+         "a": "actress"
+        },
+        {
+         "q": "7. prince",
+         "a": "princess"
+        },
+        {
+         "q": "8. husband",
+         "a": "wife"
+        },
+        {
+         "q": "9. brother",
+         "a": "sister"
+        },
+        {
+         "q": "10. cock",
+         "a": "hen"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "gender",
+     "sd": "جنس",
+     "syn": "whether a living being is male or female"
+    },
+    {
+     "w": "masculine",
+     "sd": "مذڪر",
+     "syn": "of the male sex"
+    },
+    {
+     "w": "feminine",
+     "sd": "مونث",
+     "syn": "of the female sex"
+    },
+    {
+     "w": "common gender",
+     "sd": "مشترڪ جنس",
+     "syn": "either male or female"
+    },
+    {
+     "w": "neuter gender",
+     "sd": "بي جنس",
+     "syn": "neither male nor female"
+    },
+    {
+     "w": "personified",
+     "sd": "شخصيت ڏنل",
+     "syn": "spoken of as if a living being"
+    },
+    {
+     "w": "suffix",
+     "sd": "پڇاڙي",
+     "syn": "a syllable added at the end of a word, like -ess"
+    },
+    {
+     "w": "compound",
+     "sd": "مرڪب",
+     "syn": "made of two or more words joined together"
+    }
+   ]
+  },
+  {
+   "unit": 7,
+   "title": "The Noun: Number",
+   "display": "The Noun: Number",
+   "reading": "The Noun: Number",
+   "sections": [
+    {
+     "name": "Singular and Plural Number",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §30)",
+       "items": [
+        {
+         "q": "Notice the change of form in the second word of each pair:\ntree — trees; box — boxes; ox — oxen; man — men.\nWhat do you notice?",
+         "a": "The first word of each pair denotes one thing, the second word of each pair denotes more than one."
+        },
+        {
+         "q": "What is the Singular Number?",
+         "a": "A Noun that denotes one person or thing, is said to be in the Singular Number; as, boy, girl, cow, bird, tree, book, pen."
+        },
+        {
+         "q": "What is the Plural Number?",
+         "a": "A Noun that denotes more than one person or thing, is said to be in the Plural Number; as, boys, girls, cows, birds, trees, books, pens.\nThus there are two numbers in English — the Singular and the Plural."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "How Plurals are Formed",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §31)",
+       "items": [
+        {
+         "q": "(i) How is the Plural of nouns generally formed?",
+         "a": "The Plural of nouns is generally formed by adding -s to the singular; as, boy, boys; girl, girls; book, books; pen, pens; desk, desks; cow, cows."
+        },
+        {
+         "q": "(ii) How do nouns ending in -s, -sh, -ch (soft), or -x form the plural?",
+         "a": "Nouns ending in -s, -sh, -ch (soft), or -x form the plural by adding -es to the singular; as, class, classes; kiss, kisses; dish, dishes; brush, brushes; match, matches; watch, watches; branch, branches; tax, taxes; box, boxes."
+        },
+        {
+         "q": "(iii) How do most nouns ending in -o form the plural?",
+         "a": "Most Nouns ending in -o also form the plural by adding -es to the singular; as, buffalo, buffaloes; mango, mangoes; hero, heroes; potato, potatoes; cargo, cargoes; echo, echoes; negro, negroes; volcano, volcanoes."
+        },
+        {
+         "q": "(iv) Which nouns ending in -o merely add -s?",
+         "a": "A few nouns ending in -o merely add -s; as, dynamo, dynamos; solo, solos; ratio, ratios; canto, cantos; memento, mementos; quarto, quartos; piano, pianos; photo, photos; stereo, stereos; kilo, kilos; logo, logos; commando, commandos."
+        },
+        {
+         "q": "(v) How do nouns ending in -y, preceded by a consonant, form the plural?",
+         "a": "Nouns ending in -y, preceded by a consonant, form their plural by changing -y into -i and adding -es; as, baby, babies; lady, ladies; city, cities; army, armies; story, stories; pony, ponies."
+        },
+        {
+         "q": "(vi) How do nouns ending in -f or -fe form the plural?",
+         "a": "The following nouns ending in -f or -fe form their plural by changing -f or -fe into v and adding -es; as, thief, thieves; wife, wives; wolf, wolves; life, lives; calf, calves; leaf, leaves; loaf, loaves; knife, knives; shelf, shelves; half, halves; elf, elves; self, selves; sheaf, sheaves.\nThe nouns dwarf, hoof, scarf and wharf take either -s or -ves in the plural: dwarfs or dwarves; hoofs or hooves; scarfs or scarves; wharfs or wharves.\nOther words ending in -f or -fe add -s; as, chief, chiefs; safe, safes; proof, proofs; gulf, gulfs; cliff, cliffs; handkerchief, handkerchiefs."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Plurals by Changing the Vowel",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §32)",
+       "items": [
+        {
+         "q": "Which nouns form their plural by changing the inside vowel of the singular?",
+         "a": "man, men; woman, women; foot, feet; tooth, teeth; goose, geese; mouse, mice; louse, lice."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Plurals in -en",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §33)",
+       "items": [
+        {
+         "q": "Which nouns form their plural by adding -en to the singular?",
+         "a": "ox, oxen; child, children."
+        },
+        {
+         "q": "What is the plural of ‘fish’?",
+         "a": "The plural of fish is fish or fishes. In current English fish is the usual plural. Fishes can be used to refer to different kinds of fish."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns with the Same Singular and Plural",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §34)",
+       "items": [
+        {
+         "q": "Which nouns have the singular and the plural alike?",
+         "a": "swine, sheep, deer; cod, trout, salmon; aircraft, spacecraft, series, species."
+        },
+        {
+         "q": "Which nouns have the singular and the plural alike when used after numerals?",
+         "a": "pair, dozen, score, gross, hundred, thousand (when used after numerals).\nI bought three dozen oranges.\nSome people reach the age of three score and ten.\nThe sari cost me five thousand rupees."
+        },
+        {
+         "q": "What about ‘stone’ and ‘hundredweight’?",
+         "a": "stone, hundredweight.\nHe weighs above nine stone.\nTwenty hundredweight make one ton."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns Used Only in the Plural",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §35)",
+       "items": [
+        {
+         "q": "(1) Name the instruments which have two parts forming a kind of pair.",
+         "a": "bellows, scissors, tongs, pincers, spectacles."
+        },
+        {
+         "q": "(2) Name certain articles of dress which are used only in the plural.",
+         "a": "trousers, drawers, breeches, jeans, tights, shorts, pyjamas."
+        },
+        {
+         "q": "(3) Name certain other nouns which are used only in the plural.",
+         "a": "annals, thanks, proceeds (of a sale), tidings, environs, nuptials, obsequies, assets, chattels."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns Now Generally Plural",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §36)",
+       "items": [
+        {
+         "q": "Which nouns, originally singular, are now generally used in the plural?",
+         "a": "Alms, riches, eaves."
+        },
+        {
+         "q": "Use ‘riches’ in a sentence.",
+         "a": "Riches do many things."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns that Look Plural but are Singular",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §37)",
+       "items": [
+        {
+         "q": "(1) Names of subjects — which nouns look plural but are in fact singular? Give an example.",
+         "a": "mathematics, physics, electronics, etc.\nMathematics is his favourite study."
+        },
+        {
+         "q": "(2) The word ‘news’ — give examples.",
+         "a": "No news is good news.\nIndia won by an innings and three runs."
+        },
+        {
+         "q": "(3) Names of some common diseases — give an example.",
+         "a": "measles, mumps, rickets.\nMeasles is infectious."
+        },
+        {
+         "q": "(4) Names of some games — give an example.",
+         "a": "billiards, draughts.\nBilliards is my favourite game."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Means",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §38)",
+       "items": [
+        {
+         "q": "Is ‘means’ singular or plural?",
+         "a": "‘Means’ is used either as singular or plural.\nHe succeeded by this means (or, by these means) in passing the examination."
+        },
+        {
+         "q": "When is ‘means’ always plural?",
+         "a": "When it has the meaning of ‘wealth’ it is always plural; as,\nHis means are small, but he has incurred no debt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Collective Nouns Used as Plurals",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §39)",
+       "items": [
+        {
+         "q": "Which Collective Nouns, though singular in form, are always used as plurals?",
+         "a": "poultry, cattle, vermin, people, gentry."
+        },
+        {
+         "q": "Use these Collective Nouns in sentences: poultry, cattle, vermin, people, gentry.",
+         "a": "These poultry are mine.\nWhose are these cattle?\nVermin destroy our property and carry disease.\nWho are those people (= persons)?\nThere are few gentry in this town."
+        },
+        {
+         "q": "Note — As a Common Noun, what does ‘people’ mean? Give examples.",
+         "a": "As a Common Noun ‘people’ means a ‘nation’ and is used in both singular and plural; as,\n1. The Japanese are a hard-working people.\n2. There are many different peoples in Europe."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Compound Nouns and Foreign Plurals",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §40)",
+       "items": [
+        {
+         "q": "Give the plural of these compound nouns:\nCommander-in-chief; Coat-of-mail; Son-in-law; Daughter-in-law; Step-son; Step-daughter; Maid-servant; Man-servant; Passer-by; Looker-on; Man-of-war.",
+         "a": "Commander-in-chief — commanders-in-chief; Coat-of-mail — coats-of-mail; Son-in-law — sons-in-law; Daughter-in-law — daughters-in-law; Step-son — step-sons; Step-daughter — step-daughters; Maid-servant — maid-servants; Man-servant — men-servants; Passer-by — passers-by; Looker-on — lookers-on; Man-of-war — men-of-war."
+        },
+        {
+         "q": "What are the plurals of ‘spoonful’ and ‘handful’?",
+         "a": "We say spoonfuls and handfuls, because spoonful and handful are regarded as one word."
+        },
+        {
+         "q": "What are the plurals of ‘Brahman’ and ‘Mussulman’?",
+         "a": "Brahmans and Mussulmans.\nNote that the Proper Nouns Brahman and Mussulman are not compounds of man; therefore their plurals are Brahmans and Mussulmans."
+        },
+        {
+         "q": "Many nouns taken from foreign languages keep their original plural form. Give examples from Latin, Greek, Italian, French and Hebrew.",
+         "a": "From Latin — erratum, errata; formula, formulae (or formulas); index, indices; memorandum, memoranda; radius, radii; terminus, termini (or terminuses).\nFrom Greek — axis, axes; parenthesis, parentheses; crisis, crises; hypothesis, hypotheses; basis, bases; phenomenon, phenomena; analysis, analyses; criterion, criteria.\nFrom Italian — bandit, banditti (or bandits).\nFrom French — Madame (madam), mesdames; monsieur, messieurs.\nFrom Hebrew — cherub, cherubim (or cherubs); seraph, seraphim (or seraphs)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Two Plurals with Different Meanings",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §41)",
+       "items": [
+        {
+         "q": "What are the two plurals of ‘brother’, and what does each mean?",
+         "a": "brothers, sons of the same parent.\nbrethren, members of a society or a community."
+        },
+        {
+         "q": "What are the two plurals of ‘cloth’, and what does each mean?",
+         "a": "cloths, kinds or pieces of cloth.\nclothes, garments."
+        },
+        {
+         "q": "What are the two plurals of ‘die’, and what does each mean?",
+         "a": "dies, stamps for coining.\ndice, small cubes used in games."
+        },
+        {
+         "q": "What are the two plurals of ‘index’, and what does each mean?",
+         "a": "indexes, tables of contents to books.\nindices, signs used in algebra."
+        },
+        {
+         "q": "What are the two plurals of ‘penny’, and what does each mean?",
+         "a": "pennies, number of coins.\npence, amount in value."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Two Meanings in the Singular, One in the Plural",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §42)",
+       "items": [
+        {
+         "q": "What does ‘light’ mean in the singular, and what does ‘lights’ mean in the plural?",
+         "a": "Singular — Light: (1) radiance; (2) a lamp.\nPlural — Lights: lamps."
+        },
+        {
+         "q": "What does ‘people’ mean in the singular, and what does ‘peoples’ mean in the plural?",
+         "a": "Singular — People: (1) nation; (2) men and women.\nPlural — Peoples: nations."
+        },
+        {
+         "q": "What does ‘powder’ mean in the singular, and what does ‘powders’ mean in the plural?",
+         "a": "Singular — Powder: (1) dust; (2) a dose of medicine in fine grains like dust.\nPlural — Powders: doses of medicine."
+        },
+        {
+         "q": "What does ‘practice’ mean in the singular, and what does ‘practices’ mean in the plural?",
+         "a": "Singular — Practice: (1) habit; (2) exercise of a profession.\nPlural — Practices: habits."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "One Meaning in the Singular, Two in the Plural",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §43)",
+       "items": [
+        {
+         "q": "What does ‘colour’ mean in the singular, and what does ‘colours’ mean in the plural?",
+         "a": "Singular — Colour: hue.\nPlural — Colours: (1) hues; (2) the flag of a regiment."
+        },
+        {
+         "q": "What does ‘custom’ mean in the singular, and what does ‘customs’ mean in the plural?",
+         "a": "Singular — Custom: habit.\nPlural — Customs: (1) habits; (2) duties levied on imports."
+        },
+        {
+         "q": "What does ‘effect’ mean in the singular, and what does ‘effects’ mean in the plural?",
+         "a": "Singular — Effect: result.\nPlural — Effects: (1) results; (2) property."
+        },
+        {
+         "q": "What does ‘manner’ mean in the singular, and what does ‘manners’ mean in the plural?",
+         "a": "Singular — Manner: method.\nPlural — Manners: (1) methods; (2) correct behaviour."
+        },
+        {
+         "q": "What does ‘moral’ mean in the singular, and what does ‘morals’ mean in the plural?",
+         "a": "Singular — Moral: a moral lesson.\nPlural — Morals: (1) moral lessons; (2) conduct."
+        },
+        {
+         "q": "What does ‘number’ mean in the singular, and what does ‘numbers’ mean in the plural?",
+         "a": "Singular — Number: a quantity.\nPlural — Numbers: (1) quantities; (2) verses."
+        },
+        {
+         "q": "What does ‘pain’ mean in the singular, and what does ‘pains’ mean in the plural?",
+         "a": "Singular — Pain: suffering.\nPlural — Pains: (1) sufferings; (2) care, exertion."
+        },
+        {
+         "q": "What does ‘premise’ mean in the singular, and what does ‘premises’ mean in the plural?",
+         "a": "Singular — Premise: proposition.\nPlural — Premises: (1) propositions; (2) buildings."
+        },
+        {
+         "q": "What does ‘quarter’ mean in the singular, and what does ‘quarters’ mean in the plural?",
+         "a": "Singular — Quarter: fourth part.\nPlural — Quarters: (1) fourth parts; (2) lodgings."
+        },
+        {
+         "q": "What does ‘spectacle’ mean in the singular, and what does ‘spectacles’ mean in the plural?",
+         "a": "Singular — Spectacle: a sight.\nPlural — Spectacles: (1) sights; (2) eye-glasses."
+        },
+        {
+         "q": "What does ‘letter’ mean in the singular, and what does ‘letters’ mean in the plural?",
+         "a": "Singular — Letter: (1) letter of the alphabet; (2) epistle.\nPlural — Letters: (1) letters of the alphabet; (2) epistles; (3) literature."
+        },
+        {
+         "q": "What does ‘ground’ mean in the singular, and what does ‘grounds’ mean in the plural?",
+         "a": "Singular — Ground: (1) earth; (2) reason.\nPlural — Grounds: (1) enclosed land attached to a house; (2) reasons; (3) dregs."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Different Meanings in the Singular and the Plural",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §44)",
+       "items": [
+        {
+         "q": "What do ‘air’ and ‘airs’ mean?",
+         "a": "Singular — Air: atmosphere.\nPlural — Airs: affected manners."
+        },
+        {
+         "q": "What do ‘good’ and ‘goods’ mean?",
+         "a": "Singular — Good: benefit, well-being.\nPlural — Goods: merchandise."
+        },
+        {
+         "q": "What do ‘compass’ and ‘compasses’ mean?",
+         "a": "Singular — Compass: extent, range.\nPlural — Compasses: an instrument for drawing circles."
+        },
+        {
+         "q": "What do ‘respect’ and ‘respects’ mean?",
+         "a": "Singular — Respect: regard.\nPlural — Respects: compliments."
+        },
+        {
+         "q": "What do ‘physic’ and ‘physics’ mean?",
+         "a": "Singular — Physic: medicine.\nPlural — Physics: natural science."
+        },
+        {
+         "q": "What do ‘iron’ and ‘irons’ mean?",
+         "a": "Singular — Iron: a kind of metal.\nPlural — Irons: fetters."
+        },
+        {
+         "q": "What do ‘force’ and ‘forces’ mean?",
+         "a": "Singular — Force: strength.\nPlural — Forces: troops."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Plurals of Letters, Figures and Symbols",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §45)",
+       "items": [
+        {
+         "q": "How are letters, figures and other symbols made plural?",
+         "a": "Letters, figures and other symbols are made plural by adding an apostrophe and s."
+        },
+        {
+         "q": "Give examples.",
+         "a": "There are more e’s than a’s in this page.\nDot your i’s and cross your t’s.\nAdd two 5’s and four 2’s."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Miss Smiths",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §46)",
+       "items": [
+        {
+         "q": "What is the plural of ‘Miss Smith’?",
+         "a": "It is usual to say — The Miss Smiths. (Singular, Miss Smith.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Abstract Nouns Have No Plural",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 7, §47)",
+       "items": [
+        {
+         "q": "Have Abstract Nouns a plural?",
+         "a": "Abstract Nouns have no plural. They are uncountables.\nhope, charity, love, kindness."
+        },
+        {
+         "q": "When Abstract Nouns do appear in the plural, how are they used?",
+         "a": "When such words do appear in the plural, they are used as countables; as\nProvocations = instances or cases of provocation.\nKindnesses = acts of kindness."
+        },
+        {
+         "q": "Are names of substances used in the plural?",
+         "a": "Names of substances are also uncountables and are not therefore used in the plural.\nCopper, iron, tin, wood.\nWhen such words are used in the plural, they become countables with changed meanings; as,\nCoppers = copper coins; irons = fetters;\ntins = cans made of tin; woods = forests."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Give the Plural",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "Give the plural of each noun. (Practice made from the rules of this chapter — Chapter 7 has no exercise of its own in the book.)",
+       "items": [
+        {
+         "q": "1. boy",
+         "a": "boys"
+        },
+        {
+         "q": "2. class",
+         "a": "classes"
+        },
+        {
+         "q": "3. mango",
+         "a": "mangoes"
+        },
+        {
+         "q": "4. baby",
+         "a": "babies"
+        },
+        {
+         "q": "5. thief",
+         "a": "thieves"
+        },
+        {
+         "q": "6. man",
+         "a": "men"
+        },
+        {
+         "q": "7. ox",
+         "a": "oxen"
+        },
+        {
+         "q": "8. sheep",
+         "a": "sheep"
+        },
+        {
+         "q": "9. scissors",
+         "a": "scissors"
+        },
+        {
+         "q": "10. tooth",
+         "a": "teeth"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "singular",
+     "sd": "واحد",
+     "syn": "denoting one person or thing"
+    },
+    {
+     "w": "plural",
+     "sd": "جمع",
+     "syn": "denoting more than one person or thing"
+    },
+    {
+     "w": "number",
+     "sd": "عدد",
+     "syn": "the singular or plural form of a noun"
+    },
+    {
+     "w": "foreign",
+     "sd": "پرڏيهي",
+     "syn": "from another language"
+    },
+    {
+     "w": "dozen",
+     "sd": "درجن",
+     "syn": "twelve"
+    },
+    {
+     "w": "score",
+     "sd": "ويهه",
+     "syn": "twenty"
+    },
+    {
+     "w": "means",
+     "sd": "ذريعو",
+     "syn": "a way of doing something; wealth"
+    },
+    {
+     "w": "gentry",
+     "sd": "شريف ماڻهو",
+     "syn": "people of high social standing"
+    }
+   ]
+  },
+  {
+   "unit": 8,
+   "title": "The Noun: Case",
+   "display": "The Noun: Case",
+   "reading": "The Noun: Case",
+   "sections": [
+    {
+     "name": "Subject, Predicate and Object",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §48)",
+       "items": [
+        {
+         "q": "Examine these sentences:\n1. John threw a stone.\n2. The horse kicked the boy.\nIn sentence 1, which noun is the Subject, and what is the Predicate?",
+         "a": "In sentence 1, the noun John is the Subject. It is the answer to the question, “Who threw a stone?”\nThe group of words threw a stone is the Predicate.\nThe Predicate contains the verb threw."
+        },
+        {
+         "q": "What did John throw? What is the noun ‘stone’ called?",
+         "a": "What did John throw? — A stone. Stone is the object which John threw. The noun stone is therefore called the Object."
+        },
+        {
+         "q": "In sentence 2, which noun is the Subject and which is the Object?",
+         "a": "In sentence 2, the noun horse is the Subject. It is the answer to the question, “Who kicked the boy?”\nThe noun boy is the Object. It is the answer to the question, “Whom did the horse kick?”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nominative and Accusative Cases",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §49)",
+       "items": [
+        {
+         "q": "When is a noun said to be in the Nominative Case?",
+         "a": "When a noun (or pronoun) is used as the Subject of a verb, it is said to be in the Nominative Case."
+        },
+        {
+         "q": "When is a noun said to be in the Objective (or Accusative) Case?",
+         "a": "When a noun (or pronoun) is used as the Object of a verb, it is said to be in the Objective (or Accusative) Case."
+        },
+        {
+         "q": "How do you find the Accusative?",
+         "a": "To find the Accusative, put Whom? or What? before the verb and its subject."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns after Prepositions",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §50)",
+       "items": [
+        {
+         "q": "A noun which comes after a preposition is in which case? Give an example.",
+         "a": "A noun which comes after a preposition is also said to be in the Accusative Case; as,\nThe book is on the desk."
+        },
+        {
+         "q": "In ‘The book is on the desk’, what case is ‘desk’ in, and why?",
+         "a": "The noun desk is in the Accusative Case, governed by the preposition on."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Same Form for Nominative and Accusative",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §51)",
+       "items": [
+        {
+         "q": "Read these sentences:\nHari broke the window. (Object)\nThe window was broken. (Subject)\nWhat do you notice about the noun ‘window’?",
+         "a": "In the first sentence ‘window’ is the Object; in the second it is the Subject. The form of the noun does not change."
+        },
+        {
+         "q": "Do nouns in English have different forms for the Nominative and the Accusative?",
+         "a": "Nouns in English have the same form for the Nominative and the Accusative."
+        },
+        {
+         "q": "How are the Nominative and the Accusative distinguished, then?",
+         "a": "The Nominative generally comes before the verb, and the Accusative after the verb. Hence they are distinguished by the order of words, or by the sense."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Direct and Indirect Objects",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §52)",
+       "items": [
+        {
+         "q": "Compare —\n1. Rama gave a ball.\n2. Rama gave Hari a ball.\nWhich noun is the Direct Object, and which is the Indirect Object?",
+         "a": "In each of these sentences the noun ball is the Object of gave. The noun ball, the ordinary Object, is called the Direct Object.\nIn the second sentence, the noun Hari is called the Indirect Object of the verb gave."
+        },
+        {
+         "q": "Where does the Indirect Object stand in the sentence?",
+         "a": "The position of the Indirect Object is immediately after the verb and before the Direct Object."
+        },
+        {
+         "q": "Rewrite these sentences using ‘to’ or ‘for’:\nRama gave Hari a ball.\nWill you do me a favour?\nI bought Rama a ball.\nFetch the boy a book.\nShe made Ruth a new dress.\nGet me a taxi.",
+         "a": "Rama gave Hari a ball. = Rama gave a ball to Hari.\nWill you do me a favour? = Will you do a favour to me?\nI bought Rama a ball. = I bought a ball for Rama.\nFetch the boy a book. = Fetch a book for the boy.\nShe made Ruth a new dress. = She made a new dress for Ruth.\nGet me a taxi. = Get a taxi for me."
+        },
+        {
+         "q": "What does the Indirect Object of a verb denote?",
+         "a": "The Indirect Object of a verb denotes the person to whom something is given, or for whom something is done."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive Case",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §53)",
+       "items": [
+        {
+         "q": "Examine the sentence: This is Rama’s umbrella.\nWhat does ‘Rama’s umbrella’ mean, and what case is ‘Rama’s’ in?",
+         "a": "Rama’s umbrella = the umbrella belonging to Rama.\nThe form of the noun Rama is changed to Rama’s to show ownership or possession. The Noun Rama’s is therefore said to be in the Possessive (or Genitive) Case."
+        },
+        {
+         "q": "What question does the Possessive answer?",
+         "a": "The Possessive answers the question, ‘Whose?’\nWhose umbrella? — Rama’s."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Other Uses of the Possessive",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §54)",
+       "items": [
+        {
+         "q": "Does the Possessive Case always denote possession? Give examples of its other uses.",
+         "a": "The Possessive Case does not always denote possession. It is used to denote authorship, origin, kind, etc. as,\nShakespeare’s plays = the plays written by Shakespeare\nA mother’s love = the love felt by a mother\nThe President’s speech = the speech delivered by the President\nMr Aggarwal’s house = the house where Mr. Aggarwal lives\nAshok’s school = the school where Ashok goes"
+        },
+        {
+         "q": "What do these mean?\nA children’s playground; A week’s holiday.",
+         "a": "A children’s playground = a playground for children\nA week’s holiday = a holiday which lasts a week"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Formation of the Possessive Case",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §55)",
+       "items": [
+        {
+         "q": "(1) How is the Possessive Case formed when the noun is Singular?",
+         "a": "When the noun is Singular, the Possessive Case is formed by adding ’s to the noun; as,\nThe boy’s book; the king’s crown."
+        },
+        {
+         "q": "Note — In which words is the letter ‘s’ omitted after the apostrophe?",
+         "a": "The letter s is omitted in a few words where too many hissing sounds would come together; as,\nFor conscience’ sake; for goodness’ sake;\nFor justice’ sake; for Jesus’ sake; Moses’ laws."
+        },
+        {
+         "q": "(2) How is the Possessive Case formed when the noun is Plural and ends in ‘s’?",
+         "a": "When the noun is Plural, and ends in s, the Possessive Case is formed by adding only an apostrophe; as,\nBoys’ school; girls’ school; horses’ tails."
+        },
+        {
+         "q": "(3) How is the Possessive Case formed when the noun is Plural but does not end in ‘s’?",
+         "a": "When the noun is Plural but does not end in s, the Possessive sign is formed by adding ’s; as,\nMen’s club; children’s books."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive of a Title of Several Words",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §56)",
+       "items": [
+        {
+         "q": "When a noun or a title consists of several words, where is the Possessive sign attached?",
+         "a": "When a noun or a title consists of several words, the Possessive sign is attached only to the last word; as,\nThe King of Bhutan’s visit.\nThe Prime Minister of Mauritius’s speech."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive with Nouns in Apposition",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §57)",
+       "items": [
+        {
+         "q": "When two nouns are in apposition, where is the possessive sign put?",
+         "a": "When two nouns are in apposition, the possessive sign is put to the latter only; as,\nThat is Tagore the poet’s house."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive with Two Connected Nouns",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §58)",
+       "items": [
+        {
+         "q": "When two nouns are closely connected, where is the possessive put?",
+         "a": "Also when two nouns are closely connected, the possessive is put to the latter; as,\nKarim and Salim’s bakery.\nWilliam and Mary’s reign."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Separate Possession",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §59)",
+       "items": [
+        {
+         "q": "When two or more connected nouns imply separate possession, what must be done?",
+         "a": "Each of two or more connected nouns implying separate possession must take the possessive sign; as,\nRaja Rao’s and R.K. Narayan’s novels.\nGoldsmith’s and Cowper’s poems."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive with Living Things",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §60)",
+       "items": [
+        {
+         "q": "With what names is the Possessive Case now chiefly used? Give examples.",
+         "a": "The Possessive Case is now used chiefly with the names of living things; as,\nThe Governor’s bodyguard; the lion’s mane."
+        },
+        {
+         "q": "How must we say these — ‘the table’s leg’, ‘the book’s cover’, ‘the house’s roof’?",
+         "a": "We must say:\nThe leg of the table [not, the table’s leg].\nThe cover of the book [not, the book’s cover].\nThe roof of the house [not, the house’s roof]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive with Personified Objects",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §61)",
+       "items": [
+        {
+         "q": "With what other names is the Possessive used? Give examples.",
+         "a": "The Possessive is used with the names of personified objects; as,\nIndia’s heroes; Nature’s laws; Fortune’s favourite; at duty’s call; at death’s door."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive with Time, Space and Weight",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §62)",
+       "items": [
+        {
+         "q": "With what nouns denoting time, space, or weight is the Possessive used?",
+         "a": "The Possessive is also used with nouns denoting time, space, or weight; as,\nA day’s march; a week’s holiday; in a year’s time; a stone’s throw; a foot’s length; a pound’s weight."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Common Possessive Phrases",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §63)",
+       "items": [
+        {
+         "q": "Name some common phrases in the Possessive Case.",
+         "a": "At his fingers’ ends; for mercy’s sake; to his heart’s content; at his wit’s end; a boat’s crew."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive Denoting a Place",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §64)",
+       "items": [
+        {
+         "q": "How may the possessive of a proper name, or of a noun denoting a trade, profession, or relationship, be used? Give examples.",
+         "a": "The possessive of a proper name or of a noun denoting a trade, profession, or relationship may be used to denote a building or place of business (church, house, school, college, shop, hospital, theatre, etc.); as,\nShe has gone to the baker’s (= baker’s shop).\nTonight I am dining at my uncle’s (= uncle’s house).\nCan you tell me the way to St. Paul’s (= St. Paul’s church)?"
+        },
+        {
+         "q": "What do these sentences mean?\nI attend the Town High School but my cousin attends St. Xavier’s.\nHe was educated at St. Joseph’s.",
+         "a": "St. Xavier’s = St. Xavier’s school.\nSt. Joseph’s = St. Joseph’s school."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive or ‘of’?",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §65)",
+       "items": [
+        {
+         "q": "When you are in doubt whether to use a noun in the possessive case or with the preposition ‘of’, what should you remember?",
+         "a": "As a general rule, the possessive case is used to denote possession or ownership. Thus it is better to say ‘the defeat of the enemy’ than ‘the enemy’s defeat’, even though no doubt as to the meaning would arise."
+        },
+        {
+         "q": "What is the difference in meaning between ‘The Prime Minister’s reception in Delhi’ and ‘The reception of the Prime Minister in Delhi’?",
+         "a": "‘The Prime Minister’s reception in Delhi’ means a reception held by the Prime Minister in Delhi.\n‘The reception of the Prime Minister in Delhi’ means the manner in which the people welcomed him when he entered Delhi."
+        },
+        {
+         "q": "What may the phrase ‘the love of a father’ mean?",
+         "a": "The phrase ‘the love of a father’ may mean either ‘a father’s love of his child’ or ‘a child’s love of his father’."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns in Apposition",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 8, §66)",
+       "items": [
+        {
+         "q": "Read the sentence: Rama, our captain, made fifty runs.\nWhat is a noun in apposition?",
+         "a": "Rama and our captain are one and the same person. The noun captain follows the noun Rama simply to explain which Rama is referred to.\nWhen one noun follows another to describe it, the noun which follows is said to be in apposition to the noun which comes before it.\n[Apposition means placing near.]\nA noun in apposition is in the same case as the noun which it explains.\nIn the above sentence the noun captain is in apposition to the noun Rama, and is in the Nominative Case (because Rama is in the Nominative Case)."
+        },
+        {
+         "q": "Further examples of nouns in apposition:",
+         "a": "1. Kabir, the great reformer, was a weaver.\n2. Yesterday I met your uncle, the doctor.\n3. Have you seen Ganguli, the artist’s drawings?"
+        },
+        {
+         "q": "In what case is the noun in apposition in each of the three sentences above?",
+         "a": "In sentence 1, the noun in apposition is in the Nominative Case.\nIn sentence 2, the noun in apposition is in the Accusative Case. [Why?]\nIn sentence 3, the noun in apposition is in the Genitive Case. [Why?]"
+        },
+        {
+         "q": "What does ‘personified’ mean?",
+         "a": "When an inanimate thing has ascribed to it the attributes of a person, it is said to be personified. (See § 28)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Cases and the Possessive",
+     "num": "20",
+     "exercises": [
+      {
+       "label": "Answer from the rules of this chapter. (Practice made from the rules of this chapter — Chapter 8 has no exercise of its own in the book.)",
+       "items": [
+        {
+         "q": "1. In ‘John threw a stone’, which noun is the Subject and which is the Object?",
+         "a": "John is the Subject (Nominative Case); stone is the Object (Accusative Case)."
+        },
+        {
+         "q": "2. In ‘The book is on the desk’, what case is ‘desk’ in?",
+         "a": "Accusative Case, governed by the preposition on."
+        },
+        {
+         "q": "3. In ‘Rama gave Hari a ball’, which is the Direct Object and which is the Indirect Object?",
+         "a": "ball is the Direct Object; Hari is the Indirect Object."
+        },
+        {
+         "q": "4. Write the Possessive Case of ‘the boy’.",
+         "a": "the boy’s (as in: The boy’s book)."
+        },
+        {
+         "q": "5. Write the Possessive Case of ‘the boys’ (plural ending in s).",
+         "a": "the boys’ (as in: Boys’ school)."
+        },
+        {
+         "q": "6. Write the Possessive Case of ‘the men’ (plural not ending in s).",
+         "a": "the men’s (as in: Men’s club)."
+        },
+        {
+         "q": "7. What does ‘She has gone to the baker’s’ mean?",
+         "a": "She has gone to the baker’s shop."
+        },
+        {
+         "q": "8. In ‘Kabir, the great reformer, was a weaver’, which noun is in apposition, and in what case?",
+         "a": "‘the great reformer’ is in apposition to Kabir, and is in the Nominative Case."
+        },
+        {
+         "q": "9. Why do we say ‘the leg of the table’ and not ‘the table’s leg’?",
+         "a": "Because the Possessive Case is now used chiefly with the names of living things."
+        },
+        {
+         "q": "10. What question does the Possessive Case answer?",
+         "a": "The Possessive answers the question, ‘Whose?’"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "case",
+     "sd": "حالت",
+     "syn": "the form of a noun showing its relation to other words"
+    },
+    {
+     "w": "nominative",
+     "sd": "فاعلي",
+     "syn": "the case of the subject of a verb"
+    },
+    {
+     "w": "accusative",
+     "sd": "مفعولي",
+     "syn": "the case of the object of a verb"
+    },
+    {
+     "w": "possessive",
+     "sd": "ملڪيتي",
+     "syn": "the case showing ownership or possession"
+    },
+    {
+     "w": "subject",
+     "sd": "فاعل",
+     "syn": "the person or thing that does the action"
+    },
+    {
+     "w": "object",
+     "sd": "مفعول",
+     "syn": "the person or thing the action is done to"
+    },
+    {
+     "w": "direct object",
+     "sd": "سڌو مفعول",
+     "syn": "the ordinary object of a verb"
+    },
+    {
+     "w": "indirect object",
+     "sd": "اڻ سڌو مفعول",
+     "syn": "the person to whom something is given, or for whom something is done"
+    },
+    {
+     "w": "apposition",
+     "sd": "عطف بيان",
+     "syn": "placing one noun near another to describe it"
+    },
+    {
+     "w": "ownership",
+     "sd": "ملڪيت",
+     "syn": "possession; belonging to someone"
+    }
+   ]
+  },
+  {
+   "unit": 9,
+   "title": "The Adjective",
+   "display": "The Adjective",
+   "reading": "The Adjective",
+   "sections": [
+    {
+     "name": "What is an Adjective?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §67)",
+       "items": [
+        {
+         "q": "What is an Adjective?",
+         "a": "A word used with a noun to describe or point out, the person, animal, place or thing which the noun names, or to tell the number or quantity, is called an Adjective.\nSo we may define an Adjective as a word used with a noun to add something for its meaning.\n[Adjective means added to.]"
+        },
+        {
+         "q": "What does 'clever' tell us in the sentence 'Sita is a clever girl'?",
+         "a": "'clever' shows what kind of girl Sita is; or, in other words, 'clever' describes the girl Sita."
+        },
+        {
+         "q": "What does 'that' tell us in the sentence 'I don't like that boy'?",
+         "a": "'that' points out which boy is meant."
+        },
+        {
+         "q": "What does 'five' tell us in the sentence 'He gave me five mangoes'?",
+         "a": "'five' shows how many mangoes he gave me."
+        },
+        {
+         "q": "What does 'little' tell us in the sentence 'There is little time for preparation'?",
+         "a": "'little' shows how much time there is for preparation."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Attributive and Predicative Use",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §68)",
+       "items": [
+        {
+         "q": "When is an Adjective said to be used Attributively?",
+         "a": "When the Adjective is used along with the noun as an epithet or attribute; as,\nThe lazy boy was punished."
+        },
+        {
+         "q": "When is an Adjective said to be used Predicatively?",
+         "a": "When the Adjective is used along with the verb, and forms part of the Predicate; as,\nThe boy is lazy."
+        },
+        {
+         "q": "Give examples of Adjectives that can be used only Predicatively.",
+         "a": "She is afraid of ghosts.\nI am quite well."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjectives of Quality",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §69)",
+       "items": [
+        {
+         "q": "What do Adjectives of Quality show?",
+         "a": "Adjectives of Quality (or Descriptive Adjective) show the kind or quality of a person or thing; as,\nKolkata is a large city.\nHe is an honest man.\nThe foolish old crow tried to sing.\nThis is a Grammar of the English* language."
+        },
+        {
+         "q": "What question do Adjectives of Quality answer?",
+         "a": "Adjectives of Quality answer the question: Of what kind?"
+        },
+        {
+         "q": "What are Proper Adjectives?",
+         "a": "Adjectives formed from Proper Nouns (e.g., French wines, Turkish tobacco, Indian tea, etc.) are sometimes called Proper Adjectives. They are generally classed with Adjectives of Quality."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjectives of Quantity",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §70)",
+       "items": [
+        {
+         "q": "What do Adjectives of Quantity show?",
+         "a": "Adjectives of Quantity show how much of a thing is meant; as,\nI ate some rice.\nHe showed much patience.\nHe has little intelligence.\nWe have had enough exercise.\nHe has lost all his wealth.\nYou have no sense.\nHe did not eat any rice.\nTake great care of your health.\nHe claimed his half share of the booty.\nThere has not been sufficient rain this year.\nThe whole sum was expended."
+        },
+        {
+         "q": "What question do Adjectives of Quantity answer?",
+         "a": "Adjectives of Quantity answer the question: How much?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjectives of Number",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §71)",
+       "items": [
+        {
+         "q": "What do Adjectives of Number show?",
+         "a": "Adjectives of Number (or Numeral Adjectives) show how many persons or things are meant, or in what order a person or thing stands; as,\nThe hand has five fingers.\nFew cats like cold water.\nThere are no pictures in this book.\nI have taught you many things.\nAll men must die.\nHere are some ripe mangoes.\nMost boys like cricket.\nThere are several mistakes in your exercise.\nSunday is the first day of the week."
+        },
+        {
+         "q": "What question do Adjectives of Number answer?",
+         "a": "Adjectives of Number answer the question: How many?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Three Kinds of Numeral Adjectives",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §72)",
+       "items": [
+        {
+         "q": "What are Definite Numeral Adjectives?",
+         "a": "Definite Numeral Adjectives denote an exact number; as,\nOne, two, three, etc. These are called Cardinals.\nFirst, second, third, etc. These are called Ordinals.\n[A Cardinal denotes how many, and an Ordinal the order of things in a series. It will be seen that Ordinals really do the work of Demonstrative Adjectives. See §74.]"
+        },
+        {
+         "q": "What are Indefinite Numeral Adjectives?",
+         "a": "Indefinite Numeral Adjectives do not denote an exact number; as,\nAll, no; many, few; some, any; certain, several, sundry."
+        },
+        {
+         "q": "What are Distributive Numeral Adjectives?",
+         "a": "Distributive Numeral Adjectives refer to each one of a number; as,\nEach boy must take his turn.\nIndia expects every man to do his duty.\nEvery word of it is false.\nEither pen will do.\nOn either side is a narrow lane.\nNeither accusation is true."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Quantity or Number?",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §73)",
+       "items": [
+        {
+         "q": "Can the same Adjective be of Quantity or of Number?",
+         "a": "The same Adjective may be classed as of Quantity or Number, according to its use."
+        },
+        {
+         "q": "Show the same Adjectives used as Adjectives of Quantity and as Adjectives of Number.",
+         "a": "Adjectives of Quantity:\nI ate some rice.\nHe has lost all his wealth.\nYou have no sense.\nHe did not eat any rice.\nI have enough sugar.\nAdjectives of Number:\nSome boys are clever.\nAll men must die.\nThere are no pictures in this book.\nAre there any mango-trees in this garden?\nThere are not enough spoons."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Demonstrative Adjectives",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §74)",
+       "items": [
+        {
+         "q": "What do Demonstrative Adjectives do?",
+         "a": "Demonstrative Adjectives point out which person or thing is meant; as,\nThis boy is stronger than Hari.\nThat boy is industrious.\nThese mangoes are sour.\nThose rascals must be punished.\nYonder fort once belonged to Shivaji.\nDon't be in such a hurry.\nI hate such things."
+        },
+        {
+         "q": "What question do Demonstrative Adjectives answer?",
+         "a": "Demonstrative Adjectives answer the question: Which?"
+        },
+        {
+         "q": "Which Demonstrative Adjectives are used with Singular nouns, and which with Plural nouns?",
+         "a": "It will be noticed that this and that are used with Singular nouns and these and those with Plural nouns."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Interrogative Adjectives",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §75)",
+       "items": [
+        {
+         "q": "What are Interrogative Adjectives?",
+         "a": "What, which and whose, when they are used with nouns to ask questions, are called Interrogative Adjectives; as,\nWhat manner of man is he?\nWhich way shall we go?\nWhose book is this?"
+        },
+        {
+         "q": "What is the difference between 'what' and 'which' as Interrogative Adjectives?",
+         "a": "It will be seen that what is used in a general sense, and which in a selective sense."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 6 — Pick out the Adjectives",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 6 — from the book",
+       "items": [
+        {
+         "q": "1. The ship sustained heavy damage.",
+         "a": "heavy — Adjective of Quality (Descriptive Adjective)"
+        },
+        {
+         "q": "2. I have called several times.",
+         "a": "several — Indefinite Numeral Adjective"
+        },
+        {
+         "q": "3. Every dog has his day.",
+         "a": "Every — Distributive Numeral Adjective"
+        },
+        {
+         "q": "4. A live ass is better than a dead lion.",
+         "a": "live, better, dead — Adjectives of Quality"
+        },
+        {
+         "q": "5. Every man has his duties.",
+         "a": "Every — Distributive Numeral Adjective"
+        },
+        {
+         "q": "6. Say the same thing twice over.",
+         "a": "same — Demonstrative Adjective"
+        },
+        {
+         "q": "7. Several persons were present at the time.",
+         "a": "Several — Indefinite Numeral Adjective; present — Descriptive Adjective"
+        },
+        {
+         "q": "8. He is a man of few words.",
+         "a": "few — Indefinite Numeral Adjective"
+        },
+        {
+         "q": "9. Neither party is quite in the right.",
+         "a": "Neither — Distributive Numeral Adjective"
+        },
+        {
+         "q": "10. What time is it?",
+         "a": "What — Interrogative Adjective"
+        },
+        {
+         "q": "11. Which pen do you prefer?",
+         "a": "Which — Interrogative Adjective"
+        },
+        {
+         "q": "12. The way was long, the wind was cold, the minstrel was infirm and old.",
+         "a": "long, cold, infirm, old — Adjectives of Quality"
+        },
+        {
+         "q": "13. He comes here every day.",
+         "a": "every — Distributive Numeral Adjective"
+        },
+        {
+         "q": "14. I have not seen him for several days.",
+         "a": "several — Indefinite Numeral Adjective"
+        },
+        {
+         "q": "15. There should not be much talk and little work.",
+         "a": "much, little — Adjectives of Quantity"
+        },
+        {
+         "q": "16. Abdul won the second prize.",
+         "a": "second — Definite Numeral Adjective"
+        },
+        {
+         "q": "17. The child fell down from the great height.",
+         "a": "great — Descriptive Adjective"
+        },
+        {
+         "q": "18. He was absent last week.",
+         "a": "absent — Descriptive Adjective"
+        },
+        {
+         "q": "19. He died a glorious death.",
+         "a": "glorious — Descriptive Adjective"
+        },
+        {
+         "q": "20. A small leak may sink a great ship.",
+         "a": "small, great — Descriptive Adjectives"
+        },
+        {
+         "q": "21. Good wine needs no bush.",
+         "a": "Good — Descriptive Adjective"
+        },
+        {
+         "q": "22. I like the little pedlar who has a crooked nose.",
+         "a": "little — Adjective of Quantity; crooked — Adjective of Quality"
+        },
+        {
+         "q": "23. King Francis was a hearty King, and loved a royal sport.",
+         "a": "hearty, royal — Adjectives of Quality"
+        },
+        {
+         "q": "24. In the furrowed land the toilsome and patient oxen stand.",
+         "a": "furrowed, toilsome, patient — Adjectives of Quality"
+        },
+        {
+         "q": "25. My uncle lives in the next house.",
+         "a": "next — Descriptive Adjective"
+        },
+        {
+         "q": "26. Some dreams are like reality.",
+         "a": "Some — Indefinite Numeral Adjective"
+        },
+        {
+         "q": "27. A cross child is not liked.",
+         "a": "cross — Descriptive Adjective"
+        },
+        {
+         "q": "28. It is an ill wind that blows nobody any good.",
+         "a": "ill — Descriptive Adjective; any — Adjective of Quantity"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Emphasizing Adjectives",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §76)",
+       "items": [
+        {
+         "q": "How are the words 'own' and 'very' used as Emphasizing Adjectives?",
+         "a": "I saw it with my own eyes.\nHe was beaten at his own game.\nMind your own business.\nHe is his own master.\nThat is the very thing we want.\n\"When all else left my cause,\nMy very adversary took my part.\""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Exclamatory Adjective",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §77)",
+       "items": [
+        {
+         "q": "How is the word 'what' sometimes used as an Adjective?",
+         "a": "The word what is sometimes used as an Exclamatory Adjective; as,\nWhat genius!\nWhat folly!\nWhat an idea!\nWhat a blessing!\nWhat a piece of work is man!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "This and That",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §78)",
+       "items": [
+        {
+         "q": "Which Adjectives change their form to show number?",
+         "a": "As already pointed out (§74), this and that are the only Adjectives which are inflected or changed in form to show number.\nThis girl sings. These girls sing.\nThat boy plays. Those boys play."
+        },
+        {
+         "q": "What is the difference between 'this, these' and 'that, those'?",
+         "a": "This, these indicate something near to the speaker.\nThat, those indicate more distant objects."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Formation of Adjectives",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 9, §79)",
+       "items": [
+        {
+         "q": "How are Adjectives formed from Nouns? Give examples.",
+         "a": "Many Adjectives are formed from Nouns; as,\nBoy — boyish; Fool — foolish; Care — careful; Play — playful; Hope — hopeful; Venture — venturesome; Trouble — troublesome; Shame — shameless; Sense — senseless; Silk — silken; Gold — golden.\nDirt — dirty; Storm — stormy; Pardon — pardonable; Laugh — laughable; Outrage — outrageous; Courage — courageous; Glory — glorious; Envy — envious; Man — manly; King — kingly; Gift — gifted."
+        },
+        {
+         "q": "How are Adjectives formed from Verbs? Give examples.",
+         "a": "Some Adjectives are formed from Verbs; as,\nTire — tireless; Talk — talkative; Cease — ceaseless; Move — moveable."
+        },
+        {
+         "q": "How are Adjectives formed from other Adjectives? Give examples.",
+         "a": "Some Adjectives are formed from other Adjectives; as,\nTragic — tragical; Whole — wholesome; Three — threefold; Black — blackish; White — whitish; Sick — sickly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 7 — Supply suitable Adjectives",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 7 — from the book",
+       "items": [
+        {
+         "q": "1. The town stood a ___ siege.",
+         "a": "fearful — The town stood a fearful siege."
+        },
+        {
+         "q": "2. The ___ prize was won by a Hindu.",
+         "a": "first — The first prize was won by a Hindu."
+        },
+        {
+         "q": "3. The ___ woman lives in a wretched hut.",
+         "a": "poor — The poor woman lives in a wretched hut."
+        },
+        {
+         "q": "4. This is a very ___ matter.",
+         "a": "serious — This is a very serious matter."
+        },
+        {
+         "q": "5. The battle of Waterloo ended in a ___ victory.",
+         "a": "grand — The battle of Waterloo ended in a grand victory."
+        },
+        {
+         "q": "6. Suddenly there arose a ___ storm.",
+         "a": "violent — Suddenly there arose a violent storm."
+        },
+        {
+         "q": "7. It is a ___ lie.",
+         "a": "deliberate — It is a deliberate lie."
+        },
+        {
+         "q": "8. The ___ tidings were a heavy blow to the old man.",
+         "a": "sad — The sad tidings were a heavy blow to the old man."
+        },
+        {
+         "q": "9. Here is Rs. 50: pay the fare and keep the ___ money.",
+         "a": "remaining — Here is Rs. 50: pay the fare and keep the remaining money."
+        },
+        {
+         "q": "10. His reading is of a very ___ range.",
+         "a": "wide — His reading is of a very wide range."
+        },
+        {
+         "q": "11. The injured man wants ___ advice.",
+         "a": "medical — The injured man wants medical advice."
+        },
+        {
+         "q": "12. You cannot have it ___ ways.",
+         "a": "both — You cannot have it both ways."
+        },
+        {
+         "q": "13. India expects ___ man to do his duty.",
+         "a": "every — India expects every man to do his duty."
+        },
+        {
+         "q": "14. The ___ bird catches the worm.",
+         "a": "early — The early bird catches the worm."
+        },
+        {
+         "q": "15. Have you any ___ reason to give?",
+         "a": "valid — Have you any valid reason to give?"
+        },
+        {
+         "q": "16. ___ anxiety has undermined his health.",
+         "a": "constant — Constant anxiety has undermined his health."
+        },
+        {
+         "q": "17. There were riots in ___ places.",
+         "a": "several — There were riots in several places."
+        },
+        {
+         "q": "18. An ___ man will not reason calmly.",
+         "a": "angry — An angry man will not reason calmly."
+        },
+        {
+         "q": "19. He stands ___ feet in his stockings.",
+         "a": "five — He stands five feet in his stockings."
+        },
+        {
+         "q": "20. Nelson won for himself ___ fame.",
+         "a": "eternal — Nelson won for himself eternal fame."
+        },
+        {
+         "q": "21. I have no ___ cash.",
+         "a": "ready — I have no ready cash."
+        },
+        {
+         "q": "22. He always walks with a ___ step.",
+         "a": "heavy — He always walks with a heavy step."
+        },
+        {
+         "q": "23. ___ errors are not easily corrected.",
+         "a": "such — Such errors are not easily corrected."
+        },
+        {
+         "q": "24. Every cloud has a ___ lining.",
+         "a": "silver — Every cloud has a silver lining."
+        },
+        {
+         "q": "25. He was a man of ___ ambition.",
+         "a": "great — He was a man of great ambition."
+        },
+        {
+         "q": "26. He was listened to in ___ silence.",
+         "a": "complete — He was listened to in complete silence."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 8 — Form Adjectives from Nouns",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 8 — from the book",
+       "items": [
+        {
+         "q": "Form an Adjective from the Noun 'ease', and use it with a suitable noun.",
+         "a": "easy — an easy book."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'pity', and use it with a suitable noun.",
+         "a": "pitiful (or piteous) — a pitiful sight."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'time', and use it with a suitable noun.",
+         "a": "timely — timely help."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'heaven', and use it with a suitable noun.",
+         "a": "heavenly — a heavenly vision."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'health', and use it with a suitable noun.",
+         "a": "healthy — a healthy climate."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'wealth', and use it with a suitable noun.",
+         "a": "wealthy — a wealthy person."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'love', and use it with a suitable noun.",
+         "a": "lovely — a lovely garden."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'hill', and use it with a suitable noun.",
+         "a": "hilly — a hilly region."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'need', and use it with a suitable noun.",
+         "a": "needy — needy people."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'green', and use it with a suitable noun.",
+         "a": "greedy — a greedy fellow."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'room', and use it with a suitable noun.",
+         "a": "roomy — a roomy building."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'cost', and use it with a suitable noun.",
+         "a": "costly — a costly watch."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'pain', and use it with a suitable noun.",
+         "a": "painful — a painful experience."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'doubt', and use it with a suitable noun.",
+         "a": "doubtful — a doubtful case."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'wonder', and use it with a suitable noun.",
+         "a": "wonderful — wonderful weather."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'peace', and use it with a suitable noun.",
+         "a": "peaceful — a peaceful reign."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'child', and use it with a suitable noun.",
+         "a": "childish — a childish argument."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'prince', and use it with a suitable noun.",
+         "a": "princely — princely behaviour."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'mountain', and use it with a suitable noun.",
+         "a": "mountainous — a mountainous country."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'ridicule', and use it with a suitable noun.",
+         "a": "ridiculous — a ridiculous position."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'picture', and use it with a suitable noun.",
+         "a": "picturesque — picturesque scenery."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'labour', and use it with a suitable noun.",
+         "a": "laborious — a laborious task."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'wood', and use it with a suitable noun.",
+         "a": "wooden — a wooden leg."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'pomp', and use it with a suitable noun.",
+         "a": "pompous — pompous language."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'artist', and use it with a suitable noun.",
+         "a": "artistic — an artistic device."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'progress', and use it with a suitable noun.",
+         "a": "progressive — a progressive outlook."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'slave', and use it with a suitable noun.",
+         "a": "slavish — a slavish mentality."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'contempt', and use it with a suitable noun.",
+         "a": "contemptuous — contemptuous looks."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'tempest', and use it with a suitable noun.",
+         "a": "tempestuous — a tempestuous mood."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'sense', and use it with a suitable noun.",
+         "a": "sensible — a sensible suggestion."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'quarrel', and use it with a suitable noun.",
+         "a": "quarrelsome — a quarrelsome neighbour."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'thought', and use it with a suitable noun.",
+         "a": "thoughtful — thoughtful speech."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'hope', and use it with a suitable noun.",
+         "a": "hopeful — a hopeful pupil."
+        },
+        {
+         "q": "Form an Adjective from the Noun 'friend', and use it with a suitable noun.",
+         "a": "friendly — friendly terms."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 9 — Use each Adjective in a sentence",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 9 — from the book",
+       "items": [
+        {
+         "q": "Use the Adjective 'happy' in a sentence.",
+         "a": "Their marriage has been a happy one."
+        },
+        {
+         "q": "Use the Adjective 'sad' in a sentence.",
+         "a": "It was a sad day for Padma when her mother died."
+        },
+        {
+         "q": "Use the Adjective 'industrious' in a sentence.",
+         "a": "Mohan is an industrious boy."
+        },
+        {
+         "q": "Use the Adjective 'lazy' in a sentence.",
+         "a": "A lazy man accomplishes little."
+        },
+        {
+         "q": "Use the Adjective 'big' in a sentence.",
+         "a": "Gopal got a big prize at the flower show."
+        },
+        {
+         "q": "Use the Adjective 'small' in a sentence.",
+         "a": "This coat is too small for me."
+        },
+        {
+         "q": "Use the Adjective 'soft' in a sentence.",
+         "a": "A soft reply turns away wrath."
+        },
+        {
+         "q": "Use the Adjective 'harsh' in a sentence.",
+         "a": "A harsh judge may become unpopular."
+        },
+        {
+         "q": "Use the Adjective 'hard' in a sentence.",
+         "a": "He is a hard man to please."
+        },
+        {
+         "q": "Use the Adjective 'polite' in a sentence.",
+         "a": "A polite man commands the love of all."
+        },
+        {
+         "q": "Use the Adjective 'rude' in a sentence.",
+         "a": "It was rude of him to behave like that."
+        },
+        {
+         "q": "Use the Adjective 'wise' in a sentence.",
+         "a": "Wise men must be respected."
+        },
+        {
+         "q": "Use the Adjective 'foolish' in a sentence.",
+         "a": "You were foolish to reject the offer."
+        },
+        {
+         "q": "Use the Adjective 'rich' in a sentence.",
+         "a": "He is a very rich man."
+        },
+        {
+         "q": "Use the Adjective 'poor' in a sentence.",
+         "a": "My father is in poor health."
+        },
+        {
+         "q": "Use the Adjective 'young' in a sentence.",
+         "a": "My sister is too young to go to school."
+        },
+        {
+         "q": "Use the Adjective 'new' in a sentence.",
+         "a": "New brooms sweep clean."
+        },
+        {
+         "q": "Use the Adjective 'old' in a sentence.",
+         "a": "Old men are usually wise."
+        },
+        {
+         "q": "Use the Adjective 'long' in a sentence.",
+         "a": "I have known her for a long time."
+        },
+        {
+         "q": "Use the Adjective 'short' in a sentence.",
+         "a": "He is too short to reach the picture."
+        },
+        {
+         "q": "Use the Adjective 'quick' in a sentence.",
+         "a": "He walked at a quick pace."
+        },
+        {
+         "q": "Use the Adjective 'slow' in a sentence.",
+         "a": "He is slow to make up his mind."
+        },
+        {
+         "q": "Use the Adjective 'strong' in a sentence.",
+         "a": "He is as strong as a horse."
+        },
+        {
+         "q": "Use the Adjective 'weak' in a sentence.",
+         "a": "His argument has many weak points."
+        },
+        {
+         "q": "Use the Adjective 'handsome' in a sentence.",
+         "a": "He gave her handsome presents."
+        },
+        {
+         "q": "Use the Adjective 'ugly' in a sentence.",
+         "a": "He is staying in ugly surroundings."
+        },
+        {
+         "q": "Use the Adjective 'clever' in a sentence.",
+         "a": "It was clever of the driver to avert a terrible accident."
+        },
+        {
+         "q": "Use the Adjective 'dull' in a sentence.",
+         "a": "Even dull pupils can understand this lesson."
+        },
+        {
+         "q": "Use the Adjective 'kind' in a sentence.",
+         "a": "It has been kind of you to help us."
+        },
+        {
+         "q": "Use the Adjective 'cruel' in a sentence.",
+         "a": "One should not be cruel to animals."
+        },
+        {
+         "q": "Use the Adjective 'healthy' in a sentence.",
+         "a": "Though he is seventy, he looks quite healthy."
+        },
+        {
+         "q": "Use the Adjective 'dutiful' in a sentence.",
+         "a": "He proved to be a dutiful son."
+        },
+        {
+         "q": "Use the Adjective 'distant' in a sentence.",
+         "a": "We had a distant view of Mt. Everest."
+        },
+        {
+         "q": "Use the Adjective 'certain' in a sentence.",
+         "a": "I accepted the offer on certain conditions."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 10 — Use a suitable Adjective with each Noun",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 10 — from the book",
+       "items": [
+        {
+         "q": "Use a suitable Adjective with the Noun 'storm'.",
+         "a": "a fierce storm."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'siege'.",
+         "a": "a sudden siege."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'sleep'.",
+         "a": "sound sleep."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'victory'.",
+         "a": "a glorious victory."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'advice'.",
+         "a": "valuable advice."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'blow'.",
+         "a": "a violent blow."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'silence'.",
+         "a": "dead silence."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'hands'.",
+         "a": "slender hands."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'water'.",
+         "a": "hot water."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'servant'.",
+         "a": "a reliable servant."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'flower'.",
+         "a": "a beautiful flower."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'city'.",
+         "a": "a big city."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'artist'.",
+         "a": "a popular artist."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'dealer'.",
+         "a": "an honest dealer."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'voice'.",
+         "a": "a harsh voice."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'husband'.",
+         "a": "a loving husband."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'subject'.",
+         "a": "a loyal subject."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'child'.",
+         "a": "a pretty child."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'king'.",
+         "a": "an ideal king."
+        },
+        {
+         "q": "Use a suitable Adjective with the Noun 'dog'.",
+         "a": "a faithful dog."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 11 — Use as many suitable Adjectives as you can",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 11 — from the book",
+       "items": [
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'fortune'.",
+         "a": "good fortune; bad fortune; ill fortune; great fortune; small fortune."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'man'.",
+         "a": "a great man, a good man, a bad man, a famous man, a wicked man, a poor man, a rich man, a lucky man, an honest man."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'news'.",
+         "a": "good news; bad news; sad news; happy news; pleasant news; dreadful news; important news."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'storm'.",
+         "a": "a violent storm, a fierce storm, a terrible storm, a fearful storm."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'health'.",
+         "a": "good health; bad health, ill health, poor health, indifferent health, delicate health."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'novel'.",
+         "a": "a good novel, a great novel, an interesting novel, a humorous novel, a historical novel, a romantic novel, a detective novel."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'progress'.",
+         "a": "good progress, rapid progress, slow progress, satisfactory progress, poor progress."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'room'.",
+         "a": "a large room, a big room, a small room, a spacious room, a dark room, a crowded room."
+        },
+        {
+         "q": "Use as many suitable Adjectives as you can with the Noun 'incident'.",
+         "a": "an unfortunate incident, an unhappy incident, an unexpected incident, a striking incident, an amusing incident."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 12 — Adjectives opposite in meaning",
+     "num": "20",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 12 — from the book",
+       "items": [
+        {
+         "q": "Write down the Adjective opposite in meaning to 'courageous'.",
+         "a": "cowardly, timid."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'many'.",
+         "a": "few."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'wild'.",
+         "a": "tame."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'hot'.",
+         "a": "cold."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'lean'.",
+         "a": "fat."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'heavy'.",
+         "a": "light."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'costly'.",
+         "a": "cheap."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'barren'.",
+         "a": "fertile."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'beautiful'.",
+         "a": "ugly."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'patient'.",
+         "a": "impatient."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'honest'.",
+         "a": "dishonest."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'civilized'.",
+         "a": "uncivilized, savage."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'careful'.",
+         "a": "careless."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'strong'.",
+         "a": "weak."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'experienced'.",
+         "a": "inexperienced."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'slow'.",
+         "a": "fast."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'friendly'.",
+         "a": "unfriendly, hostile."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'cruel'.",
+         "a": "kind."
+        },
+        {
+         "q": "Write down the Adjective opposite in meaning to 'soft'.",
+         "a": "hard."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "adjective",
+     "sd": "صفت",
+     "syn": "a word used with a noun to describe it, or to tell its number or quantity"
+    },
+    {
+     "w": "quality",
+     "sd": "خوبي",
+     "syn": "the kind or nature of a person or thing"
+    },
+    {
+     "w": "quantity",
+     "sd": "مقدار",
+     "syn": "how much of a thing is meant"
+    },
+    {
+     "w": "number",
+     "sd": "تعداد",
+     "syn": "how many persons or things are meant"
+    },
+    {
+     "w": "descriptive",
+     "sd": "بياني",
+     "syn": "describing the kind or quality of a person or thing"
+    },
+    {
+     "w": "demonstrative",
+     "sd": "اشاري",
+     "syn": "pointing out which person or thing is meant"
+    },
+    {
+     "w": "interrogative",
+     "sd": "سوالي",
+     "syn": "asking a question"
+    },
+    {
+     "w": "distributive",
+     "sd": "تقسيمي",
+     "syn": "referring to each one of a number"
+    },
+    {
+     "w": "cardinal",
+     "sd": "بنيادي عدد",
+     "syn": "a number that tells how many, as one, two, three"
+    },
+    {
+     "w": "ordinal",
+     "sd": "ترتيبي عدد",
+     "syn": "a number that tells the order in a series, as first, second, third"
+    },
+    {
+     "w": "epithet",
+     "sd": "لقب",
+     "syn": "a word used with a noun as an attribute"
+    },
+    {
+     "w": "predicative",
+     "sd": "خبري",
+     "syn": "used with the verb, forming part of the Predicate"
+    },
+    {
+     "w": "emphasizing",
+     "sd": "زور ڏيندڙ",
+     "syn": "giving force or emphasis to a word"
+    },
+    {
+     "w": "inflected",
+     "sd": "بدلجندڙ",
+     "syn": "changed in form, as this to these"
+    },
+    {
+     "w": "sundry",
+     "sd": "مختلف",
+     "syn": "several, various, different"
+    }
+   ]
+  },
+  {
+   "unit": 10,
+   "title": "Comparison of Adjectives",
+   "display": "Comparison of Adjectives",
+   "reading": "Comparison of Adjectives",
+   "sections": [
+    {
+     "name": "The Three Degrees of Comparison",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §80)",
+       "items": [
+        {
+         "q": "How do Adjectives show comparison?",
+         "a": "Adjectives change in form (sweet, sweeter, sweetest) to show comparison. They are called the three Degrees of Comparison.\nRama's mango is sweet.\nHari's mango is sweeter than Rama's.\nGovind's mango is the sweetest of all."
+        },
+        {
+         "q": "What is the Positive Degree?",
+         "a": "The Positive Degree of an Adjective is the Adjective in its simple form. It is used to denote the mere existence of some quality of what we speak about. It is used when no comparison is made.\nThe Adjective sweet is said to be in the Positive Degree."
+        },
+        {
+         "q": "What is the Comparative Degree?",
+         "a": "The Comparative Degree of an Adjective denotes a higher degree of the quality than the Positive, and is used when two things (or sets of things) are compared; as,\nThis boy is stronger than that.\nWhich of these two pens is the better?\nApples are dearer than oranges.\nThe Adjective sweeter is said to be in the Comparative Degree."
+        },
+        {
+         "q": "What is the Superlative Degree?",
+         "a": "The Superlative Degree of an Adjective denotes the highest degree of the quality, and is used when more than two things (or sets of things) are compared; as,\nThis boy is the strongest in the class.\nThe Adjective sweetest is said to be in the Superlative Degree."
+        },
+        {
+         "q": "How else can we compare things, without -er and -est?",
+         "a": "There is another way in which we can compare things. Instead of saying 'Rama is stronger than Balu', we can say 'Balu is less strong than Rama'. Instead of saying 'Hari is the laziest boy in the class', we can say 'Hari is the least industrious boy in the class'."
+        },
+        {
+         "q": "What is the Superlative of Eminence (the Absolute Superlative)?",
+         "a": "The Superlative with most is sometimes used where there is no idea of comparison, but merely a desire to indicate the possession of a quality in a very high degree; as,\nThis is most unfortunate.\nIt was a most eloquent speech.\nTruly, a most ingenious device!\nThis usage has been called the Superlative of Eminence, or the Absolute Superlative."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Formation of the Comparative and Superlative",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §81)",
+       "items": [
+        {
+         "q": "How do most Adjectives of one syllable form the Comparative and Superlative?",
+         "a": "Most Adjectives of one syllable, and some of more than one, form the Comparative by adding er and the Superlative by adding est to the Positive.\nSweet — sweeter — sweetest; Small — smaller — smallest; Tall — taller — tallest; Bold — bolder — boldest; Clever — cleverer — cleverest; Kind — kinder — kindest; Young — younger — youngest; Great — greater — greatest."
+        },
+        {
+         "q": "What happens when the Positive ends in e?",
+         "a": "When the Positive ends in e, only r and st are added.\nBrave — braver — bravest; Fine — finer — finest; White — whiter — whitest; Large — larger — largest; Able — abler — ablest; Noble — nobler — noblest; Wise — wiser — wisest."
+        },
+        {
+         "q": "What happens when the Positive ends in y, preceded by a consonant?",
+         "a": "When the Positive ends in y, preceded by a consonant, the y is changed into i before adding er and est.\nHappy — happier — happiest; Easy — easier — easiest; Heavy — heavier — heaviest; Merry — merrier — merriest; Wealthy — wealthier — wealthiest."
+        },
+        {
+         "q": "When is the last consonant doubled before -er and -est?",
+         "a": "When the Positive is a word of one syllable and ends in a single consonant, preceded by a short vowel, this consonant is doubled before adding er and est.\nRed — redder — reddest; Big — bigger — biggest; Hot — hotter — hottest; Thin — thinner — thinnest; Sad — sadder — saddest; Fat — fatter — fattest."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjectives of More than Two Syllables",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §82)",
+       "items": [
+        {
+         "q": "How do Adjectives of more than two syllables form the Comparative and Superlative?",
+         "a": "Adjectives of more than two syllables form the Comparative and Superlative by putting more and most before the Positive.\nBeautiful — more beautiful — most beautiful; Difficult — more difficult — most difficult; Industrious — more industrious — most industrious; Courageous — more courageous — most courageous."
+        },
+        {
+         "q": "Which two-syllable Adjectives take 'more' and 'most'?",
+         "a": "Two-syllable adjectives ending in ful (e.g. useful), less (e.g. hopeless), ing (e.g. boring) and ed (e.g. surprised) and many others (e.g. modern, recent, foolish, famous, certain) take more and most."
+        },
+        {
+         "q": "Which Adjectives take either -er and -est or 'more' and 'most'?",
+         "a": "The following take either er and est or more and most.\npolite, simple, feeble, gentle, narrow, cruel, common, handsome, pleasant, stupid.\nShe is politer/more polite than her sister.\nHe is the politest/most polite of them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Comparing Two Qualities in the Same Person or Thing",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §83)",
+       "items": [
+        {
+         "q": "When is the Comparative in -er NOT used?",
+         "a": "The Comparative in er is not used when we compare two qualities in the same person or thing. If we wish to say that the courage of Rama is greater than the courage of Balu, we say,\nRama is braver than Balu.\nBut if we wish to say that the courage of Rama is greater than his prudence, we must say,\nRama is more brave than prudent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Latter Term of Comparison",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §84)",
+       "items": [
+        {
+         "q": "What must we remember when two objects are compared with each other?",
+         "a": "When two objects are compared with each other, the latter term of comparison must exclude the former; as,\nIron is more useful than any other metal.\nIf we say,\nIron is more useful than any metal,\nthat is the same thing as saying 'Iron is more useful than iron' since iron is itself a metal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Irregular Comparison",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §85)",
+       "items": [
+        {
+         "q": "Which Adjectives are compared irregularly?",
+         "a": "The following Adjectives are compared irregularly, that is, their Comparative and Superlative are not formed from the Positive.\nGood, well — better — best; Bad, evil, ill — worse — worst; Little — less, lesser — least; Much — more — most (quantity); Many — more — most (number); Late — later, latter — latest, last; Old — older, elder — oldest, eldest; Far — farther — farthest; (Nigh) — (nigher) — nighest, next; (Fore) — (former) — foremost, first; (Fore) — further — furthest; (In) — inner — inmost, innermost; (Up) — upper — upmost, uppermost; (Out) — outer, (utter) — utmost, uttermost."
+        },
+        {
+         "q": "Which of these forms are outdated?",
+         "a": "Note — The forms nigh, nigher, nighest, fore and utter are outdated."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 13 — Compare the Adjectives",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 13 — from the book",
+       "items": [
+        {
+         "q": "Compare the Adjective 'black'.",
+         "a": "black — blacker — blackest."
+        },
+        {
+         "q": "Compare the Adjective 'excellent'.",
+         "a": "excellent — more excellent — most excellent."
+        },
+        {
+         "q": "Compare the Adjective 'ill'.",
+         "a": "ill — worse — worst."
+        },
+        {
+         "q": "Compare the Adjective 'gloomy'.",
+         "a": "gloomy — gloomier — gloomiest."
+        },
+        {
+         "q": "Compare the Adjective 'mad'.",
+         "a": "mad — madder — maddest."
+        },
+        {
+         "q": "Compare the Adjective 'safe'.",
+         "a": "safe — safer — safest."
+        },
+        {
+         "q": "Compare the Adjective 'bad'.",
+         "a": "bad — worse — worst."
+        },
+        {
+         "q": "Compare the Adjective 'unjust'.",
+         "a": "unjust — more unjust — most unjust."
+        },
+        {
+         "q": "Compare the Adjective 'gay'.",
+         "a": "gay — gayer — gayest."
+        },
+        {
+         "q": "Compare the Adjective 'able'.",
+         "a": "able — abler — ablest."
+        },
+        {
+         "q": "Compare the Adjective 'dry'.",
+         "a": "dry — drier — driest."
+        },
+        {
+         "q": "Compare the Adjective 'timid'.",
+         "a": "timid — more timid — most timid."
+        },
+        {
+         "q": "Compare the Adjective 'ugly'.",
+         "a": "ugly — uglier — ugliest."
+        },
+        {
+         "q": "Compare the Adjective 'true'.",
+         "a": "true — truer — truest."
+        },
+        {
+         "q": "Compare the Adjective 'severe'.",
+         "a": "severe — more severe — most severe."
+        },
+        {
+         "q": "Compare the Adjective 'exact'.",
+         "a": "exact — more exact — most exact."
+        },
+        {
+         "q": "Compare the Adjective 'agreeable'.",
+         "a": "agreeable — more agreeable — most agreeable."
+        },
+        {
+         "q": "Compare the Adjective 'difficult'.",
+         "a": "difficult — more difficult — most difficult."
+        },
+        {
+         "q": "Compare the Adjective 'little'.",
+         "a": "little — less — least."
+        },
+        {
+         "q": "Compare the Adjective 'few'.",
+         "a": "few — fewer — fewest."
+        },
+        {
+         "q": "Compare the Adjective 'numerous'.",
+         "a": "numerous — more numerous — most numerous."
+        },
+        {
+         "q": "Compare the Adjective 'merry'.",
+         "a": "merry — merrier — merriest."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Later, latter; elder, older; farther, further; nearest, next",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §86)",
+       "items": [
+        {
+         "q": "What is the difference between 'later' and 'latter', 'latest' and 'last'?",
+         "a": "Later and latest refer to time; latter and last refer to position.\nHe is later than I expected.\nI have not heard the latest news.\nThe latter chapters are lacking in interest.\nThe last chapter is carelessly written.\nOurs is the last house in the street."
+        },
+        {
+         "q": "What is the difference between 'elder' and 'older', 'eldest' and 'oldest'?",
+         "a": "Elder and eldest are used only of persons, not of animals or things; and are now confined to members of the same family. Elder is not used with than. Older and oldest are used of both persons and things.\nJohn is my elder brother.\nTom is my eldest son.\nHe is older than his sister.\nRama is the oldest boy in the eleven.\nThis is the oldest temple in Kolkata."
+        },
+        {
+         "q": "What is the difference between 'farther' and 'further'?",
+         "a": "Both farther and further are used to express distance. Further, not farther, is used to mean \"additional\".\nKolkata is farther/further from the equator than Colombo.\nAfter this he made no further remarks.\nI must have a reply without further delay."
+        },
+        {
+         "q": "What is the difference between 'nearest' and 'next'?",
+         "a": "Nearest means the shortest distance away. Next refers to one of a sequence of things coming one after the other.\nMumbai is the seaport nearest to Europe.\nWhere is the nearest phone box?\nKarim's shop is next to the post office.\nMy uncle lives in the next house."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 14 — Fill in the blanks",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 14 — from the book",
+       "items": [
+        {
+         "q": "(a) 1. The majority accepted the ___ proposal.",
+         "a": "latter — The majority accepted the latter proposal."
+        },
+        {
+         "q": "(a) 2. The ___ part of the book shows signs of hurry.",
+         "a": "latter — The latter part of the book shows signs of hurry."
+        },
+        {
+         "q": "(a) 3. At a ___ date, he was placed in charge of the whole taluka.",
+         "a": "later — At a later date, he was placed in charge of the whole taluka."
+        },
+        {
+         "q": "(a) 4. I prefer the ___ proposition to the former.",
+         "a": "latter — I prefer the latter proposition to the former."
+        },
+        {
+         "q": "(a) 5. Is there no ___ news than last week's?",
+         "a": "later — Is there no later news than last week's?"
+        },
+        {
+         "q": "(b) 1. I have an ___ sister.",
+         "a": "elder — I have an elder sister."
+        },
+        {
+         "q": "(b) 2. Rama is ___ than Hari by two years.",
+         "a": "older — Rama is older than Hari by two years."
+        },
+        {
+         "q": "(b) 3. His ___ brother is in the Indian Civil Service.",
+         "a": "elder — His elder brother is in the Indian Civil Service."
+        },
+        {
+         "q": "(b) 4. She is the ___ of the two sisters.",
+         "a": "elder — She is the elder of the two sisters."
+        },
+        {
+         "q": "(b) 5. The nephew is ___ than his uncle.",
+         "a": "older — The nephew is older than his uncle."
+        },
+        {
+         "q": "(c) 1. Rustam is the ___ of my uncle's five sons.",
+         "a": "eldest — Rustam is the eldest of my uncle's five sons."
+        },
+        {
+         "q": "(c) 2. He is the ___ member of the School Committee.",
+         "a": "oldest — He is the oldest member of the School Committee."
+        },
+        {
+         "q": "(c) 3. That is Antonio, the duke's ___ son.",
+         "a": "eldest — That is Antonio, the duke's eldest son."
+        },
+        {
+         "q": "(c) 4. The ___ mosque in the town is near the railway station.",
+         "a": "oldest — The oldest mosque in the town is near the railway station."
+        },
+        {
+         "q": "(c) 5. Mr. Smith is the ___ teacher in the school.",
+         "a": "oldest — Mr. Smith is the oldest teacher in the school."
+        },
+        {
+         "q": "(d) 1. I can't walk any ___.",
+         "a": "farther/further — I can't walk any farther/further."
+        },
+        {
+         "q": "(d) 2. No ___ reasons were given.",
+         "a": "further — No further reasons were given."
+        },
+        {
+         "q": "(d) 3. He walked off without ___ ceremony.",
+         "a": "further — He walked off without further ceremony."
+        },
+        {
+         "q": "(d) 4. Until ___ orders Mr K S Dave will act as Headmaster of Nira High School.",
+         "a": "further — Until further orders Mr K S Dave will act as Headmaster of Nira High School."
+        },
+        {
+         "q": "(d) 5. To let, a bungalow at Ridge Road. For ___ particulars apply to Box No. 65.",
+         "a": "further — To let, a bungalow at Ridge Road. For further particulars apply to Box No. 65."
+        },
+        {
+         "q": "(e) 1. The ___ news from China is very disquieting.",
+         "a": "latest — The latest news from China is very disquieting."
+        },
+        {
+         "q": "(e) 2. The ___ time I saw him, he was in high spirits.",
+         "a": "last — The last time I saw him, he was in high spirits."
+        },
+        {
+         "q": "(e) 3. Today is the ___ day for receiving tenders.",
+         "a": "last — Today is the last day for receiving tenders."
+        },
+        {
+         "q": "(e) 4. We expect to get the ___ news in a few hours.",
+         "a": "latest — We expect to get the latest news in a few hours."
+        },
+        {
+         "q": "(e) 5. The ___ Moghul Emperor came to an ignominious end.",
+         "a": "last — The last Moghul Emperor came to an ignominious end."
+        },
+        {
+         "q": "(f) 1. This is the ___ post office to my house.",
+         "a": "nearest — This is the nearest post office to my house."
+        },
+        {
+         "q": "(f) 2. The pillar-box is ___ to my house.",
+         "a": "next — The pillar-box is next to my house."
+        },
+        {
+         "q": "(f) 3. The burglar was taken to the ___ police station.",
+         "a": "nearest — The burglar was taken to the nearest police station."
+        },
+        {
+         "q": "(f) 4. His house is ___ to mine.",
+         "a": "next — His house is next to mine."
+        },
+        {
+         "q": "(f) 5. The ___ railway station is two miles from here.",
+         "a": "nearest — The nearest railway station is two miles from here."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Comparatives used as Positives; Latin Comparatives",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §§87-89)",
+       "items": [
+        {
+         "q": "Which English Comparatives have lost their comparative meaning and are used as Positives?",
+         "a": "Certain English Comparatives have lost their comparative meaning and are used as Positive. They cannot be followed by than. These are: former, latter, elder, hinder, upper, inner, outer, utter.\nBoth the tiger and the leopard are cats; the former animal is much larger than the latter.\nThe inner meaning of this letter is not clear.\nThe soldiers ran to defend the outer wall.\nMy elder brother is an engineer.\nThis man is an utter fool."
+        },
+        {
+         "q": "Which Comparatives borrowed from Latin have no Positive or Superlative degree?",
+         "a": "Certain Comparatives borrowed from Latin have no Positive or Superlative degree. They all end in or, not er. They are twelve in all. Five of them have lost their Comparative meaning, and are used as Positive Adjectives. These are: interior, exterior, ulterior, major, minor.\nThe exterior wall of the house is made of stone; the interior walls are of wood.\nHis age is a matter of minor importance.\nI have no ulterior motive in offering you help.\nThe other seven are used as Comparative Adjectives but are followed by to instead of than (See §89)."
+        },
+        {
+         "q": "Which Comparative Adjectives are followed by 'to' instead of 'than'?",
+         "a": "The comparative degree is generally followed by than; but Comparative Adjectives ending in -or are followed by the preposition to; as,\nHari is inferior to Ram in intelligence.\nRama's intelligence is superior to Hari's.\nHis marriage was prior to his father's death.\nHe is junior to all his colleagues.\nAll his colleagues are senior to him.\nThe seven are: inferior, superior, prior, anterior, posterior, senior, junior."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adjectives that cannot be compared",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §90)",
+       "items": [
+        {
+         "q": "Which Adjectives cannot be compared?",
+         "a": "Adjectives expressing qualities that do not admit of different degrees cannot, strictly speaking, be compared; as,\nsquare, round, perfect, eternal, universal, unique.\nStrictly speaking, a thing cannot be more square, more round, more perfect. But we say, for instance,\nThis is the most perfect specimen I have seen."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 15 — Name the Degree of Comparison",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 15 — from the book",
+       "items": [
+        {
+         "q": "1. The poor woman had seen happier days.",
+         "a": "poor — Positive; happier — Comparative."
+        },
+        {
+         "q": "2. Do not talk such nonsense.",
+         "a": "such* — no degree of comparison."
+        },
+        {
+         "q": "3. Make less noise.",
+         "a": "less — Comparative."
+        },
+        {
+         "q": "4. That child has a slight cold.",
+         "a": "slight — Positive."
+        },
+        {
+         "q": "5. A live ass is stronger than a dead lion.",
+         "a": "live* — no degree of comparison; stronger — Comparative; dead* — no degree of comparison."
+        },
+        {
+         "q": "6. Say the same thing twice over.",
+         "a": "same* — no degree of comparison."
+        },
+        {
+         "q": "7. Solomon was one of the wisest men.",
+         "a": "wisest — Superlative."
+        },
+        {
+         "q": "8. Hunger is the best sauce.",
+         "a": "best — Superlative."
+        },
+        {
+         "q": "9. His simple word is as good as an oath.",
+         "a": "simple — Positive; good — Positive."
+        },
+        {
+         "q": "10. There was not the slightest excuse for it.",
+         "a": "slightest — Superlative."
+        },
+        {
+         "q": "11. My knife is sharper than yours.",
+         "a": "sharper — Comparative."
+        },
+        {
+         "q": "12. Small people love to talk of great men.",
+         "a": "small — Positive; great — Positive."
+        },
+        {
+         "q": "13. Of two evils choose the less.",
+         "a": "less — Comparative."
+        },
+        {
+         "q": "14. I hope the matter will be cleared up some day.",
+         "a": "some* — no degree of comparison."
+        },
+        {
+         "q": "15. Your son makes no progress in his studies.",
+         "a": "no* — no degree of comparison."
+        },
+        {
+         "q": "16. Open rebuke is better than secret love.",
+         "a": "open* — no degree of comparison; better — Comparative; secret* — no degree of comparison."
+        },
+        {
+         "q": "17. We never had such sport.",
+         "a": "such* — no degree of comparison."
+        },
+        {
+         "q": "18. I have other things to attend to.",
+         "a": "other* — no degree of comparison."
+        },
+        {
+         "q": "19. Hari is the idlest boy in the class.",
+         "a": "idlest — Superlative."
+        },
+        {
+         "q": "20. I promise you a fair hearing.",
+         "a": "fair — Positive."
+        },
+        {
+         "q": "21. There is much to be said on both sides.",
+         "a": "both* — no degree of comparison; much — Positive."
+        },
+        {
+         "q": "22. He gave the boys much wholesome advice.",
+         "a": "much — Positive; wholesome — Positive."
+        },
+        {
+         "q": "23. He thinks he is wiser than his father.",
+         "a": "wiser — Comparative."
+        },
+        {
+         "q": "24. No news is good news.",
+         "a": "No* — no degree of comparison; good — Positive."
+        },
+        {
+         "q": "25. Bangladesh has the largest tea garden in the world.",
+         "a": "largest — Superlative."
+        },
+        {
+         "q": "26. Lead is heavier than any other metal.",
+         "a": "heavier — Comparative; any* — no degree of comparison; other* — no degree of comparison."
+        },
+        {
+         "q": "27. I congratulated him on his good fortune.",
+         "a": "good — Positive."
+        },
+        {
+         "q": "28. He has many powerful friends.",
+         "a": "many — Positive; powerful — Positive."
+        },
+        {
+         "q": "29. The longest lane has a turning.",
+         "a": "longest — Superlative."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 16 — Three columns",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 16 — from the book",
+       "items": [
+        {
+         "q": "Write the Adjective 'shameful' in the Positive, Comparative and Superlative Degrees.",
+         "a": "shameful — more shameful — most shameful."
+        },
+        {
+         "q": "Write the Adjective 'clever' in the Positive, Comparative and Superlative Degrees.",
+         "a": "clever — cleverer — cleverest."
+        },
+        {
+         "q": "Write the Adjective 'pretty' in the Positive, Comparative and Superlative Degrees.",
+         "a": "pretty — prettier — prettiest."
+        },
+        {
+         "q": "Write the Adjective 'interesting' in the Positive, Comparative and Superlative Degrees.",
+         "a": "interesting — more interesting — most interesting."
+        },
+        {
+         "q": "Write the Adjective 'hopeful' in the Positive, Comparative and Superlative Degrees.",
+         "a": "hopeful — more hopeful — most hopeful."
+        },
+        {
+         "q": "Write the Adjective 'honest' in the Positive, Comparative and Superlative Degrees.",
+         "a": "honest — more honest — most honest."
+        },
+        {
+         "q": "Write the Adjective 'important' in the Positive, Comparative and Superlative Degrees.",
+         "a": "important — more important — most important."
+        },
+        {
+         "q": "Write the Adjective 'patient' in the Positive, Comparative and Superlative Degrees.",
+         "a": "patient — more patient — most patient."
+        },
+        {
+         "q": "Write the Adjective 'rude' in the Positive, Comparative and Superlative Degrees.",
+         "a": "rude — ruder — rudest."
+        },
+        {
+         "q": "Write the Adjective 'delightful' in the Positive, Comparative and Superlative Degrees.",
+         "a": "delightful — more delightful — most delightful."
+        },
+        {
+         "q": "Write the Adjective 'stupid' in the Positive, Comparative and Superlative Degrees.",
+         "a": "stupid — more stupid — most stupid."
+        },
+        {
+         "q": "Write the Adjective 'attractive' in the Positive, Comparative and Superlative Degrees.",
+         "a": "attractive — more attractive — most attractive."
+        },
+        {
+         "q": "Write the Adjective 'heavy' in the Positive, Comparative and Superlative Degrees.",
+         "a": "heavy — heavier — heaviest."
+        },
+        {
+         "q": "Write the Adjective 'beautiful' in the Positive, Comparative and Superlative Degrees.",
+         "a": "beautiful — more beautiful — most beautiful."
+        },
+        {
+         "q": "Write the Adjective 'fortunate' in the Positive, Comparative and Superlative Degrees.",
+         "a": "fortunate — more fortunate — most fortunate."
+        },
+        {
+         "q": "Write the Adjective 'pleasant' in the Positive, Comparative and Superlative Degrees.",
+         "a": "pleasant — pleasanter (or more pleasant) — pleasantest (or most pleasant)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 17 — Supply the proper form",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 17 — from the book",
+       "items": [
+        {
+         "q": "1. Good — How is your brother today? Is he ___?",
+         "a": "better — How is your brother today? Is he better?"
+        },
+        {
+         "q": "2. Hot — May is ___ here than any other month.",
+         "a": "hotter — May is hotter here than any other month."
+        },
+        {
+         "q": "3. Pretty — Her doll is ___ than yours.",
+         "a": "prettier — Her doll is prettier than yours."
+        },
+        {
+         "q": "4. Idle — Hari is the ___ boy in the class.",
+         "a": "idlest — Hari is the idlest boy in the class."
+        },
+        {
+         "q": "5. Sharp — Your knife is sharp, but mine is ___.",
+         "a": "sharper — Your knife is sharp, but mine is sharper."
+        },
+        {
+         "q": "6. Dear — Honour is ___ to him than life.",
+         "a": "dearer — Honour is dearer to him than life."
+        },
+        {
+         "q": "7. Rich — He is the ___ man in our town.",
+         "a": "richest — He is the richest man in our town."
+        },
+        {
+         "q": "8. Old — Mani is two years ___ than Rati.",
+         "a": "older — Mani is two years older than Rati."
+        },
+        {
+         "q": "9. Large — Name the ___ city in the world.",
+         "a": "largest — Name the largest city in the world."
+        },
+        {
+         "q": "10. Good — He is the ___ friend I have.",
+         "a": "best — He is the best friend I have."
+        },
+        {
+         "q": "11. Bad — He is the ___ boy of the two.",
+         "a": "worse — He is the worse boy of the two."
+        },
+        {
+         "q": "12. Bad — Raman's work is bad, Hari's is ___, but Govind's is the ___.",
+         "a": "worse, worst — Raman's work is bad, Hari's is worse, but Govind's is the worst."
+        },
+        {
+         "q": "13. Ferocious — There is no animal ___ than the tiger.",
+         "a": "more ferocious — There is no animal more ferocious than the tiger."
+        },
+        {
+         "q": "14. Bad — The trade is in a ___ condition today than it was a year ago.",
+         "a": "worse — The trade is in a worse condition today than it was a year ago."
+        },
+        {
+         "q": "15. Tall — He is the ___ of the two.",
+         "a": "tallest — He is the tallest of the two."
+        },
+        {
+         "q": "16. Dry — Sind is the ___ part of Pakistan.",
+         "a": "driest — Sind is the driest part of Pakistan."
+        },
+        {
+         "q": "17. Useful — Iron is ___ than any other metal.",
+         "a": "more useful — Iron is more useful than any other metal."
+        },
+        {
+         "q": "18. Useful — Iron is the ___ of all metals.",
+         "a": "most useful — Iron is the most useful of all metals."
+        },
+        {
+         "q": "19. Great — Who is the ___ living poet?",
+         "a": "greatest — Who is the greatest living poet?"
+        },
+        {
+         "q": "20. Nutritious — I think he requires a ___ diet.",
+         "a": "nutritious — I think he requires a nutritious diet."
+        },
+        {
+         "q": "21. Proud — It was the ___ moment of his life.",
+         "a": "proudest — It was the proudest moment of his life."
+        },
+        {
+         "q": "22. Good — The public is the ___ judge.",
+         "a": "best — The public is the best judge."
+        },
+        {
+         "q": "23. Little — That is the ___ price I can take.",
+         "a": "least — That is the least price I can take."
+        },
+        {
+         "q": "24. Light — Silver is ___ than gold.",
+         "a": "lighter — Silver is lighter than gold."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 18 — Supply Comparatives or Superlatives",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 18 — from the book",
+       "items": [
+        {
+         "q": "1. Prevention is ___ than cure.",
+         "a": "better — Prevention is better than cure."
+        },
+        {
+         "q": "2. Akbar had a ___ reign than Babar.",
+         "a": "longer — Akbar had a longer reign than Babar."
+        },
+        {
+         "q": "3. Sachin Tendulkar is the ___ batsman in the world.",
+         "a": "best — Sachin Tendulkar is the best batsman in the world."
+        },
+        {
+         "q": "4. The pen is ___ than the sword.",
+         "a": "mightier — The pen is mightier than the sword."
+        },
+        {
+         "q": "5. The ___ buildings are found in America.",
+         "a": "loftiest — The loftiest buildings are found in America."
+        },
+        {
+         "q": "6. The Pacific is ___ than any other ocean.",
+         "a": "larger — The Pacific is larger than any other ocean."
+        },
+        {
+         "q": "7. Which of the two girls has the ___ dress?",
+         "a": "more beautiful — Which of the two girls has the more beautiful dress?"
+        },
+        {
+         "q": "8. Honour is ___ to him than life.",
+         "a": "dearer — Honour is dearer to him than life."
+        },
+        {
+         "q": "9. This pen is ___ than the other.",
+         "a": "costlier — This pen is costlier than the other."
+        },
+        {
+         "q": "10. Who is the ___ boy in the class?",
+         "a": "cleverest — Who is the cleverest boy in the class?"
+        },
+        {
+         "q": "11. The Eiffel Tower is ___ than Qutab Minar.",
+         "a": "older — The Eiffel Tower is older than Qutab Minar."
+        },
+        {
+         "q": "12. My uncle is ___ than my father.",
+         "a": "younger — My uncle is younger than my father."
+        },
+        {
+         "q": "13. The multi-millionaire Mr. Sen is the ___ in this town.",
+         "a": "richest — The multi-millionaire Mr. Sen is the richest in this town."
+        },
+        {
+         "q": "14. Wordsworth is a ___ poet than Cowper.",
+         "a": "greater — Wordsworth is a greater poet than Cowper."
+        },
+        {
+         "q": "15. Balu is the ___ bowler in the eleven.",
+         "a": "best — Balu is the best bowler in the eleven."
+        },
+        {
+         "q": "16. The streets of Mumbai are ___ than those of Ahmedabad.",
+         "a": "broader — The streets of Mumbai are broader than those of Ahmedabad."
+        },
+        {
+         "q": "17. Ooty is ___ than Chennai.",
+         "a": "cooler — Ooty is cooler than Chennai."
+        },
+        {
+         "q": "18. The piano was knocked down to the ___ bidder.",
+         "a": "highest — The piano was knocked down to the highest bidder."
+        },
+        {
+         "q": "19. Mount Everest is the ___ peak of the Himalayas.",
+         "a": "highest — Mount Everest is the highest peak of the Himalayas."
+        },
+        {
+         "q": "20. He writes a ___ hand than his brother.",
+         "a": "more beautiful — He writes a more beautiful hand than his brother."
+        },
+        {
+         "q": "21. He writes the ___ hand in his class.",
+         "a": "best — He writes the best hand in his class."
+        },
+        {
+         "q": "22. He is one of the ___ speakers in Punjab.",
+         "a": "greatest — He is one of the greatest speakers in Punjab."
+        },
+        {
+         "q": "23. Who was the ___ general, Alexander or Caesar?",
+         "a": "mightier — Who was the mightier general, Alexander or Caesar?"
+        },
+        {
+         "q": "24. The ___ fables are those attributed to Aesop.",
+         "a": "most popular — The most popular fables are those attributed to Aesop."
+        },
+        {
+         "q": "25. The Arabian Nights is perhaps the ___ story-book.",
+         "a": "most interesting — The Arabian Nights is perhaps the most interesting story-book."
+        },
+        {
+         "q": "26. Shakespeare is ___ than any other English poet.",
+         "a": "greater — Shakespeare is greater than any other English poet."
+        },
+        {
+         "q": "27. Of all countries, China has the ___ population in the world.",
+         "a": "largest — Of all countries, China has the largest population in the world."
+        },
+        {
+         "q": "28. Clouds float in the sky because they are ___ than the air.",
+         "a": "lighter — Clouds float in the sky because they are lighter than the air."
+        },
+        {
+         "q": "29. There are two ways of doing the sum, but this one is the ___.",
+         "a": "easier — There are two ways of doing the sum, but this one is the easier."
+        },
+        {
+         "q": "30. It is good to be clever, but it is ___ to be industrious.",
+         "a": "better — It is good to be clever, but it is better to be industrious."
+        },
+        {
+         "q": "31. This is the ___ of my two sons.",
+         "a": "elder/eldest — This is the elder/eldest of my two sons."
+        },
+        {
+         "q": "32. This is the ___ that I can do.",
+         "a": "utmost — This is the utmost that I can do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 19 — Use 'less' or 'least'",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 19 — from the book",
+       "items": [
+        {
+         "q": "1. The mango is sweeter than the pineapple.",
+         "a": "The pineapple is less sweet than the mango."
+        },
+        {
+         "q": "2. Silver is more plentiful than gold.",
+         "a": "Gold is less plentiful than silver."
+        },
+        {
+         "q": "3. This is the most useless of all my books.",
+         "a": "This is the least useful of all my books."
+        },
+        {
+         "q": "4. Wolfram is one of the rarest minerals.",
+         "a": "Wolfram is one of the least common minerals."
+        },
+        {
+         "q": "5. The wild-apple is the sourest of all fruits.",
+         "a": "All other fruits are less sour than the wild-apple."
+        },
+        {
+         "q": "6. Iron is more useful than copper.",
+         "a": "Copper is less useful than iron."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Interchange of the Degrees of Comparison",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 10, §91)",
+       "items": [
+        {
+         "q": "Can the Degree of Comparison of an Adjective be changed without changing the meaning?",
+         "a": "As the following examples show, it is possible to change the Degree of Comparison of an Adjective in a sentence, without changing the meaning of the sentence."
+        },
+        {
+         "q": "Change the degree in: Lead is the heaviest of all metals.",
+         "a": "Superlative — Lead is the heaviest of all metals.\nComparative — Lead is heavier than all other metals."
+        },
+        {
+         "q": "Change the degree in: Mahabaleshwar is cooler than Panchgani.",
+         "a": "Comparative — Mahabaleshwar is cooler than Panchgani.\nPositive — Panchgani is not so cool as Mahabaleshwar."
+        },
+        {
+         "q": "Change the degree in: He is as wise as Solomon.",
+         "a": "Positive — He is as wise as Solomon.\nComparative — Solomon was not wiser than he is."
+        },
+        {
+         "q": "Change the degree in: Shakuntalam is the best drama in Sanskrit.",
+         "a": "Superlative — Shakuntalam is the best drama in Sanskrit.\nComparative — Shakuntalam is better than any other drama in Sanskrit.\nPositive — No other drama in Sanskrit is as good as Shakuntalam."
+        },
+        {
+         "q": "Change the degree in: Chennai is one of the biggest of Indian cities.",
+         "a": "Superlative — Chennai is one of the biggest of Indian cities.\nComparative — Chennai is bigger than most other Indian cities.\nPositive — Very few Indian cities are as big as Chennai."
+        },
+        {
+         "q": "Change the degree in: Some poets are at least as great as Tennyson.",
+         "a": "Positive — Some poets are at least as great as Tennyson.\nComparative — Tennyson is not greater than some other poets.\nComparative — Some poets are not less great than Tennyson.\nSuperlative — Tennyson is not the greatest of all poets."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 20 — Change the Degree of Comparison",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 20 — from the book",
+       "items": [
+        {
+         "q": "1. Malacca is the oldest town in Malaysia.",
+         "a": "No other town in Malaysia is so old as Malacca. (Positive)\nMalacca is older than any other town in Malaysia. (Comparative)"
+        },
+        {
+         "q": "2. Soya beans are at least as nutritious as meat.",
+         "a": "Soya beans are not less nutritious than meat. (Comparative)\nMeat is not more nutritious than soya beans. (Comparative)"
+        },
+        {
+         "q": "3. No other planet is as big as Jupiter.",
+         "a": "Jupiter is bigger than any other planet. (Comparative)\nJupiter is the biggest planet. (Superlative)"
+        },
+        {
+         "q": "4. Very few boys are as industrious as Latif.",
+         "a": "Latif is more industrious than most other boys. (Comparative)\nLatif is one of the most industrious boys. (Superlative)"
+        },
+        {
+         "q": "5. He would sooner die than tell a lie.",
+         "a": "He would not as soon tell a lie as die. (Positive)"
+        },
+        {
+         "q": "6. India is the largest democracy in the world.",
+         "a": "India is larger than any other democracy in the world. (Comparative)\nNo other democracy in the world is so large as India. (Positive)"
+        },
+        {
+         "q": "7. Shakespeare is greater than any other English poet.",
+         "a": "No other English poet is so great as Shakespeare. (Positive)\nShakespeare is the greatest of English poets. (Superlative)"
+        },
+        {
+         "q": "8. Samudra Gupta was one of the greatest of Indian kings.",
+         "a": "Very few Indian kings were so great as Samudra Gupta. (Positive)\nSamudra Gupta was greater than most other Indian kings. (Comparative)"
+        },
+        {
+         "q": "9. The tiger is the most ferocious of all animals.",
+         "a": "No other animal is so ferocious as the tiger. (Positive)\nThe tiger is more ferocious than any other animal. (Comparative)"
+        },
+        {
+         "q": "10. Australia is the largest island in the world.",
+         "a": "No other island in the world is so large as Australia. (Positive)\nAustralia is larger than any other island in the world. (Comparative)"
+        },
+        {
+         "q": "11. Lead is heavier than any other metal.",
+         "a": "No other metal is so heavy as lead. (Positive)\nLead is the heaviest of all metals. (Superlative)"
+        },
+        {
+         "q": "12. Some people have more money than brains.",
+         "a": "Some people do not have as much brains as money. (Positive)"
+        },
+        {
+         "q": "13. A wise enemy is better than a foolish friend.",
+         "a": "A foolish friend is not so good as a wise enemy. (Positive)"
+        },
+        {
+         "q": "14. The Marwaries are not less enterprising than any other community in India.",
+         "a": "The Marwaries are at least as enterprising as any other community in India. (Positive)"
+        },
+        {
+         "q": "15. I know him quite as well as you do.",
+         "a": "You do not know him better than I do. (Comparative)"
+        },
+        {
+         "q": "16. You do not know him better than I do.",
+         "a": "I do not know him as well as you do. (Positive)"
+        },
+        {
+         "q": "17. No other man was as strong as Bhim.",
+         "a": "Bhim was stronger than any other man. (Comparative)\nBhim was the strongest of all men. (Superlative)"
+        },
+        {
+         "q": "18. Some boys are at least as industrious as Suresh.",
+         "a": "Suresh is not more industrious than some other boys. (Comparative)\nSuresh is not the most industrious boy. (Superlative)"
+        },
+        {
+         "q": "19. Mount Everest is the highest peak of the Himalayas.",
+         "a": "No other peak of the Himalayas is so high as Mount Everest. (Positive)\nMount Everest is higher than any other peak of the Himalayas. (Comparative)"
+        },
+        {
+         "q": "20. Very few animals are as useful as the cow.",
+         "a": "The cow is one of the most useful animals. (Superlative)\nThe cow is more useful than most other animals. (Comparative)"
+        },
+        {
+         "q": "21. America is the richest country in the world.",
+         "a": "No other country in the world is so rich as America. (Positive)\nAmerica is richer than any other country in the world. (Comparative)"
+        },
+        {
+         "q": "22. It is easier to preach than to practise.",
+         "a": "It is not so easy to practise as to preach. (Positive)"
+        },
+        {
+         "q": "23. Iron is more useful than all the other metals.",
+         "a": "No other metal is so useful as iron. (Positive)\nIron is the most useful of all metals. (Superlative)"
+        },
+        {
+         "q": "24. Open rebuke is better than secret love.",
+         "a": "Secret love is not so good as open rebuke. (Positive)"
+        },
+        {
+         "q": "25. This is the tallest building in the city.",
+         "a": "This is taller than any other building in the city. (Comparative)\nNo other building in the city is so tall as this. (Positive)"
+        },
+        {
+         "q": "26. Sir Surendranath was at least as great an orator as any other Indian.",
+         "a": "No other Indian was a greater orator than Sir Surendranath. (Comparative)\nSir Surendranath was one of the greatest Indian orators. (Superlative)"
+        },
+        {
+         "q": "27. Ooty is as healthy as any resort in India.",
+         "a": "No other resort in India is healthier than Ooty. (Comparative)\nOoty is one of the healthiest resorts in India. (Superlative)"
+        },
+        {
+         "q": "28. The pen is mightier than the sword.",
+         "a": "The sword is not so mighty as the pen. (Positive)"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "comparison",
+     "sd": "مقابلو",
+     "syn": "comparing two or more things to see which has more of a quality"
+    },
+    {
+     "w": "degree",
+     "sd": "درجو",
+     "syn": "a stage or level in comparison"
+    },
+    {
+     "w": "positive",
+     "sd": "مثبت درجو",
+     "syn": "the adjective in its simple form, with no comparison"
+    },
+    {
+     "w": "comparative",
+     "sd": "تقابلي درجو",
+     "syn": "a higher degree of the quality, used when two things are compared"
+    },
+    {
+     "w": "superlative",
+     "sd": "اعليٰ درجو",
+     "syn": "the highest degree of the quality, used when more than two things are compared"
+    },
+    {
+     "w": "syllable",
+     "sd": "رڪن",
+     "syn": "a part of a word with one vowel sound"
+    },
+    {
+     "w": "irregular",
+     "sd": "غير قاعدي",
+     "syn": "not formed by the usual rule"
+    },
+    {
+     "w": "eminence",
+     "sd": "برتري",
+     "syn": "a very high degree of a quality"
+    },
+    {
+     "w": "former",
+     "sd": "اڳيون",
+     "syn": "the first of two things spoken of"
+    },
+    {
+     "w": "latter",
+     "sd": "پوئين",
+     "syn": "the second of two things spoken of"
+    },
+    {
+     "w": "interior",
+     "sd": "اندريون",
+     "syn": "inner, on the inside"
+    },
+    {
+     "w": "exterior",
+     "sd": "ٻاهريون",
+     "syn": "outer, on the outside"
+    },
+    {
+     "w": "ulterior",
+     "sd": "پوشيده",
+     "syn": "hidden, secret, as a hidden motive"
+    },
+    {
+     "w": "prior",
+     "sd": "اڳوڻو",
+     "syn": "earlier in time"
+    },
+    {
+     "w": "senior",
+     "sd": "سينيئر",
+     "syn": "older in age, or higher in rank"
+    },
+    {
+     "w": "junior",
+     "sd": "جونيئر",
+     "syn": "younger in age, or lower in rank"
+    },
+    {
+     "w": "unique",
+     "sd": "اڪيلو",
+     "syn": "the only one of its kind"
+    }
+   ]
+  },
+  {
+   "unit": 11,
+   "title": "Adjectives used as Nouns",
+   "display": "Adjectives used as Nouns",
+   "reading": "Adjectives used as Nouns",
+   "sections": [
+    {
+     "name": "Adjectives used as Nouns",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 11, §92)",
+       "items": [
+        {
+         "q": "How are Adjectives used as Plural Nouns?",
+         "a": "As Plural Nouns denoting a class of persons; as,\nThe cautious (= cautious persons) are not always cowards.\nThe rich (= rich people) know not how the poor (= poor people) live.\nThe wicked (= wicked people) flee when no man pursueth, but the righteous (= righteous people) are bold as a lion.\nBlessed are the meek."
+        },
+        {
+         "q": "How are Adjectives used as Singular Nouns?",
+         "a": "As Singular Nouns denoting some abstract quality; as,\nThe future (= futurity) is unknown to us.\nHe is a lover of the beautiful (= beauty in general)."
+        },
+        {
+         "q": "Which Adjectives have actually become Nouns?",
+         "a": "Some Adjectives actually become Nouns, and are hence used in both numbers.\n(a) Those derived from Proper Nouns; as, Australians, Canadians, Italians.\n(b) Some denoting persons; as, juniors, seniors, mortals, inferiors, superiors, nobles, criminals, savages, elders, minors.\n(c) A few denoting things generally; as, secrets, totals, liquids, solids, valuables.\n[Some adjectives are used as Nouns only in the plural; as, sweets, bitters, valuables, eatables.]"
+        },
+        {
+         "q": "In which phrases are Adjectives used as Nouns?",
+         "a": "In certain phrases; as,\nin general; in future; in short; in secret; before long; at present; for good; at best; through thick and thin; for better or for worse; in black and white; right or wrong; from bad to worse; the long and short."
+        },
+        {
+         "q": "Use these phrases in sentences.",
+         "a": "In future I shall charge you for medical advice.\nIn short, we know nothing.\nThe negotiations were carried on in secret.\nI shall see you before long.\nBefore long, he will be appointed to a higher post.\nAt present, he is in pecuniary difficulties.\nI do not want any more at present.\nHe has left India for good.\nWe can't arrive before Saturday at best.\nIt must be said to his credit that he stood by his friend through thick and thin.\nI must have your terms down in black and white.\nRight or wrong, my country.\nI am afraid the young man is going from bad to worse.\nThe long and short of it is that I distrust you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns used as Adjectives",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 11, §93)",
+       "items": [
+        {
+         "q": "How are Nouns used as Adjectives?",
+         "a": "The use of Nouns as Adjectives is very common in English; as,\nI met a little cottage girl.\nHe is always playing computer games."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Adjectives as Nouns",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "Say how the Adjective is used in each sentence. (Practice made from the rules of this chapter — Chapter 11 has no exercise of its own in the book.)",
+       "items": [
+        {
+         "q": "1. The rich know not how the poor live.",
+         "a": "rich (= rich people) and poor (= poor people) are Adjectives used as Plural Nouns, denoting a class of persons."
+        },
+        {
+         "q": "2. The future is unknown to us.",
+         "a": "future is an Adjective used as a Singular Noun, denoting an abstract quality (= futurity)."
+        },
+        {
+         "q": "3. He is a lover of the beautiful.",
+         "a": "beautiful is an Adjective used as a Singular Noun, denoting an abstract quality (= beauty in general)."
+        },
+        {
+         "q": "4. The wounded were taken to hospital.",
+         "a": "wounded is an Adjective used as a Plural Noun (= wounded people)."
+        },
+        {
+         "q": "5. In short, we know nothing.",
+         "a": "short is an Adjective used as a Noun in the phrase 'in short'."
+        },
+        {
+         "q": "6. Australians speak English.",
+         "a": "Australians is an Adjective derived from a Proper Noun, used as a Noun."
+        },
+        {
+         "q": "7. The seniors will guide the juniors.",
+         "a": "seniors and juniors are Adjectives denoting persons, used as Nouns."
+        },
+        {
+         "q": "8. I met a little cottage girl.",
+         "a": "cottage is a Noun used as an Adjective."
+        },
+        {
+         "q": "9. He is always playing computer games.",
+         "a": "computer is a Noun used as an Adjective."
+        },
+        {
+         "q": "10. He has left India for good.",
+         "a": "good is an Adjective used as a Noun in the phrase 'for good'."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "abstract",
+     "sd": "تجريدي",
+     "syn": "a quality apart from a person or thing, as beauty or futurity"
+    },
+    {
+     "w": "futurity",
+     "sd": "مستقبل",
+     "syn": "the future, the time to come"
+    },
+    {
+     "w": "righteous",
+     "sd": "نيڪ",
+     "syn": "good and right in conduct"
+    },
+    {
+     "w": "meek",
+     "sd": "عاجز",
+     "syn": "gentle and humble"
+    },
+    {
+     "w": "cautious",
+     "sd": "هوشيار",
+     "syn": "careful, taking care"
+    },
+    {
+     "w": "savage",
+     "sd": "وحشي",
+     "syn": "wild and cruel"
+    },
+    {
+     "w": "mortal",
+     "sd": "فاني",
+     "syn": "a person who must die one day"
+    },
+    {
+     "w": "pecuniary",
+     "sd": "مالي",
+     "syn": "of money"
+    },
+    {
+     "w": "cottage",
+     "sd": "جھوپڙي",
+     "syn": "a small house"
+    },
+    {
+     "w": "phrase",
+     "sd": "فقرو",
+     "syn": "a group of words used as one part of a sentence"
+    }
+   ]
+  },
+  {
+   "unit": 12,
+   "title": "Position of Adjectives",
+   "display": "Position of Adjectives",
+   "reading": "Position of Adjectives",
+   "sections": [
+    {
+     "name": "Where does the Adjective go?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 12, §§94-98)",
+       "items": [
+        {
+         "q": "Where is a single Adjective used attributively generally placed?",
+         "a": "A single Adjective used attributively is generally placed immediately before the noun; as,\nKing Francis was a hearty king, and loved a royal sport.\nWhere are you going, my pretty maid, with your rosy cheeks and golden hair?\nO Captain! my Captain! our fearful trip is done."
+        },
+        {
+         "q": "What is the difference in meaning between 'a great nobleman's son' and 'a nobleman's great son'?",
+         "a": "In 'a great nobleman's son', great goes with nobleman — the son of a great nobleman. In 'a nobleman's great son', great goes with son — the great son of a nobleman. The Adjective belongs to the noun it stands next to."
+        },
+        {
+         "q": "Where is the Adjective placed in poetry?",
+         "a": "In poetry, however, the Adjective is frequently placed after the noun; as,\nChildren dear, was it yesterday?\nWe heard the sweet bells over the bay.\nO man with sisters dear!"
+        },
+        {
+         "q": "Where are several Adjectives attached to one noun placed?",
+         "a": "When several Adjectives are attached to one noun they are generally placed after it for emphasis; as,\nThere dwelt a miller hale and bold.\nThe King, fearless and resolute, at once advanced.\nFranklin had a great genius, original, sagacious, and inventive."
+        },
+        {
+         "q": "Where is the Adjective placed when some word or phrase is joined to it to explain its meaning?",
+         "a": "When some word or phrase is joined to the Adjective to explain its meaning, the Adjective is placed after its noun; as,\nHe was a man fertile in resource.\nA Sikh, taller than any of his comrades, rushed forward."
+        },
+        {
+         "q": "In which phrases does the Adjective always come after the noun?",
+         "a": "In certain phrases the Adjective always comes after the noun; as,\nheir apparent, time immemorial, lord paramount, viceroy elect, letters patent, knights temporal, notary public, body politic, God Almighty."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Where does the Adjective go?",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "Say whether the Adjective comes before or after its noun, and why. (Practice made from the rules of this chapter — Chapter 12 has no exercise of its own in the book.)",
+       "items": [
+        {
+         "q": "1. King Francis was a hearty king.",
+         "a": "hearty comes before the noun king — a single Adjective used attributively is generally placed immediately before the noun."
+        },
+        {
+         "q": "2. Children dear, was it yesterday?",
+         "a": "dear comes after the noun children — in poetry the Adjective is frequently placed after the noun."
+        },
+        {
+         "q": "3. There dwelt a miller hale and bold.",
+         "a": "hale and bold come after the noun miller — several Adjectives attached to one noun are placed after it for emphasis."
+        },
+        {
+         "q": "4. He was a man fertile in resource.",
+         "a": "fertile comes after the noun man — a phrase (in resource) is joined to the Adjective to explain its meaning."
+        },
+        {
+         "q": "5. The heir apparent will be crowned.",
+         "a": "apparent comes after the noun heir — in this fixed phrase the Adjective always comes after the noun."
+        },
+        {
+         "q": "6. A Sikh, taller than any of his comrades, rushed forward.",
+         "a": "taller comes after the noun Sikh — a phrase (than any of his comrades) is joined to the Adjective to explain its meaning."
+        },
+        {
+         "q": "7. Franklin had a great genius, original, sagacious, and inventive.",
+         "a": "original, sagacious, and inventive come after the noun genius — several Adjectives attached to one noun are placed after it for emphasis."
+        },
+        {
+         "q": "8. Where are you going, my pretty maid?",
+         "a": "pretty comes before the noun maid — a single Adjective used attributively is generally placed immediately before the noun."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "attributive",
+     "sd": "صفتي",
+     "syn": "used with a noun, standing next to it"
+    },
+    {
+     "w": "emphasis",
+     "sd": "زور",
+     "syn": "special force or importance given to a word"
+    },
+    {
+     "w": "resolute",
+     "sd": "پڪو ارادو رکندڙ",
+     "syn": "firm and determined"
+    },
+    {
+     "w": "sagacious",
+     "sd": "عقل مند",
+     "syn": "wise, showing good judgement"
+    },
+    {
+     "w": "inventive",
+     "sd": "ايجادي",
+     "syn": "good at inventing new things"
+    },
+    {
+     "w": "fertile",
+     "sd": "زرخيز",
+     "syn": "able to produce much, rich in resource"
+    },
+    {
+     "w": "heir apparent",
+     "sd": "ولي عهد",
+     "syn": "the person next in line to a throne"
+    },
+    {
+     "w": "immemorial",
+     "sd": "قديم",
+     "syn": "from very long ago, beyond memory"
+    },
+    {
+     "w": "paramount",
+     "sd": "اعليٰ",
+     "syn": "most important, highest"
+    },
+    {
+     "w": "viceroy",
+     "sd": "وائسراءِ",
+     "syn": "a ruler acting for a king in a country"
+    },
+    {
+     "w": "notary",
+     "sd": "نوٽري",
+     "syn": "an officer who witnesses documents"
+    },
+    {
+     "w": "Almighty",
+     "sd": "قادر مطلق",
+     "syn": "all-powerful, a name of God"
+    }
+   ]
+  },
+  {
+   "unit": 13,
+   "title": "The Correct Use of Some Adjectives",
+   "display": "The Correct Use of Some Adjectives",
+   "reading": "The Correct Use of Some Adjectives",
+   "sections": [
+    {
+     "name": "Some and Any",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 13, §99)",
+       "items": [
+        {
+         "q": "When do we use 'some' and when 'any'?",
+         "a": "To express quantity or degree some is used normally in affirmative sentences, any in negative or interrogative sentences.\nI will buy some mangoes.\nI will not buy any mangoes.\nHave you bought any mangoes?\nBut any can be used after if in affirmative sentences.\nIf you need any money I will help you."
+        },
+        {
+         "q": "When is 'some' used in questions?",
+         "a": "Some is used in questions which are really offers/requests or which expect the answer \"yes\".\nWill you have some ice-cream? (Offer)\nCould you lend me some money? (Request)\nDid you buy some clothes? (= I expect you did.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Each and Every",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 13, §100)",
+       "items": [
+        {
+         "q": "What is the difference between 'each' and 'every'?",
+         "a": "Each and every are similar in meaning, but every is a stronger word than each; it means, 'each without exception'. Each is used in speaking of two or more things; every is used only in speaking of more than two. Each directs attention to the individuals forming any group, every to the total group. Each is used only when the number in the group is limited and definite; every when the number is indefinite."
+        },
+        {
+         "q": "Give examples of 'each' and 'every'.",
+         "a": "Every seat was taken.\nFive boys were seated on each bench.\nEach one of these chairs is broken.\nLeap year falls in every fourth year.\nHe came to see us every three days [i.e., once in every period of three days].\nIt rained every day during my holidays.\nI was away ten days and it rained each day."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Little, a little, the little",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 13, §101)",
+       "items": [
+        {
+         "q": "What does 'little' mean?",
+         "a": "Little = not much (i.e., hardly any). Thus, the adjective little has a negative meaning.\nThere is little hope of his recovery, i.e., he is not likely to recover.\nHe showed little concern for his nephew.\nHe has little influence with his old followers.\nHe showed little mercy to the vanquished.\nHe has little appreciation of good poetry."
+        },
+        {
+         "q": "What does 'a little' mean?",
+         "a": "A little = some though not much. 'A little' has a positive meaning.\nThere is a little hope of his recovery, i.e., he may possibly recover.\nA little tact would have saved the situation.\nA little knowledge is a dangerous thing."
+        },
+        {
+         "q": "What does 'the little' mean?",
+         "a": "The little = not much, but all there is.\nThe little information he had was not quite reliable.\nThe little knowledge of carpentry that he possessed stood him in good stead.\n[The sentence means — The knowledge of carpentry he possessed was not much; but all that knowledge stood him in good stead.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 21 — Insert 'a little' or 'the little'",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 21 — from the book",
+       "items": [
+        {
+         "q": "1. ___ grain they had was damaged by sea water.",
+         "a": "The little — The little grain they had was damaged by sea water."
+        },
+        {
+         "q": "2. ___ precaution is necessary in handling that machine.",
+         "a": "A little — A little precaution is necessary in handling that machine."
+        },
+        {
+         "q": "3. ___ care could have prevented the catastrophe.",
+         "a": "A little — A little care could have prevented the catastrophe."
+        },
+        {
+         "q": "4. ___ influence that he has, he uses to the best advantage.",
+         "a": "The little — The little influence that he has, he uses to the best advantage."
+        },
+        {
+         "q": "5. ___ knowledge of French that he has is likely to be very useful to him on the continent.",
+         "a": "The little — The little knowledge of French that he has is likely to be very useful to him on the continent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Few, a few, the few",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 13, §102)",
+       "items": [
+        {
+         "q": "What does 'few' mean?",
+         "a": "Few = not many, hardly any. 'Few' has a negative meaning.\nFew persons can keep a secret.\nFew people are so hopeless as drunkards.\nFew towns in India have public libraries.\nFew works of reference are so valuable as the Encyclopaedia Britannica.\nFew men are free from faults.\nFew men reach the age of one hundred years.\nFew Parsees write Gujarati correctly."
+        },
+        {
+         "q": "What does 'a few' mean?",
+         "a": "A few = some. 'A few' has a positive meaning, and is opposed to 'none'.\nA few words spoken in earnest will convince him.\nA few Parsees write Gujarati correctly."
+        },
+        {
+         "q": "What does 'the few' mean?",
+         "a": "The few = not many, but all there are.\nThe few remarks that he made were very suggestive.\n[The sentence means — The remarks that he made were not many; but all those remarks were very suggestive.]\nThe few friends he has are all very poor.\nThe few clothes they had were all tattered and torn."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 22 — Insert 'a few' or 'the few'",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 22 — from the book",
+       "items": [
+        {
+         "q": "1. ___ public libraries that we have are not well equipped.",
+         "a": "The few — The few public libraries that we have are not well equipped."
+        },
+        {
+         "q": "2. ___ days that are left to him he spends in solitude and meditation.",
+         "a": "The few — The few days that are left to him he spends in solitude and meditation."
+        },
+        {
+         "q": "3. Many Hindus study Sanskrit, but only ___ Parsees study Avesta.",
+         "a": "a few — Many Hindus study Sanskrit, but only a few Parsees study Avesta."
+        },
+        {
+         "q": "4. ___ days' rest is all that is needed.",
+         "a": "A few — A few days' rest is all that is needed."
+        },
+        {
+         "q": "5. Have you got ___ potatoes left?",
+         "a": "a few — Have you got a few potatoes left?"
+        },
+        {
+         "q": "6. It is a question of spending ___ rupees.",
+         "a": "a few — It is a question of spending a few rupees."
+        },
+        {
+         "q": "7. ___ hints on essay-writing are quite to the point.",
+         "a": "The few — The few hints on essay-writing are quite to the point."
+        },
+        {
+         "q": "8. ___ months that he spent in Ooty did him a lot of good.",
+         "a": "The few — The few months that he spent in Ooty did him a lot of good."
+        },
+        {
+         "q": "9. When I met him ___ years after, he looked old and haggard.",
+         "a": "a few — When I met him a few years after, he looked old and haggard."
+        },
+        {
+         "q": "10. ___ short poems in the volume show signs of genius.",
+         "a": "A few — A few short poems in the volume show signs of genius."
+        },
+        {
+         "q": "11. In ___ words he expressed his gratitude to his friends.",
+         "a": "a few — In a few words he expressed his gratitude to his friends."
+        },
+        {
+         "q": "12. ___ Americans have their offices in Kolkata.",
+         "a": "a few — A few Americans have their offices in Kolkata."
+        },
+        {
+         "q": "13. ___ trinkets she has are not worth much.",
+         "a": "The few — The few trinkets she has are not worth much."
+        },
+        {
+         "q": "14. ___ poems he has written are all of great excellence.",
+         "a": "The few — The few poems he has written are all of great excellence."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "affirmative",
+     "sd": "هاڪاري",
+     "syn": "a sentence that states something, not a question or a negative"
+    },
+    {
+     "w": "negative",
+     "sd": "ناڪاري",
+     "syn": "a sentence that denies something, as with not or no"
+    },
+    {
+     "w": "exception",
+     "sd": "استثنا",
+     "syn": "something left out of a general rule"
+    },
+    {
+     "w": "definite",
+     "sd": "مقرر",
+     "syn": "limited and known"
+    },
+    {
+     "w": "indefinite",
+     "sd": "غير مقرر",
+     "syn": "not limited or known"
+    },
+    {
+     "w": "hardly",
+     "sd": "مشڪل سان",
+     "syn": "almost not, scarcely"
+    },
+    {
+     "w": "vanquished",
+     "sd": "شڪست کاڌل",
+     "syn": "defeated in a fight"
+    },
+    {
+     "w": "tact",
+     "sd": "سمجھداري",
+     "syn": "skill in dealing with people without offending them"
+    },
+    {
+     "w": "earnest",
+     "sd": "سنجيدگي",
+     "syn": "serious and sincere"
+    },
+    {
+     "w": "suggestive",
+     "sd": "اشارو ڪندڙ",
+     "syn": "giving a hint or an idea"
+    },
+    {
+     "w": "tattered",
+     "sd": "ڦاٽل",
+     "syn": "torn, in rags"
+    },
+    {
+     "w": "catastrophe",
+     "sd": "آفت",
+     "syn": "a great disaster"
+    },
+    {
+     "w": "solitude",
+     "sd": "اڪيلائي",
+     "syn": "the state of being alone"
+    },
+    {
+     "w": "meditation",
+     "sd": "غور و فڪر",
+     "syn": "deep thought"
+    },
+    {
+     "w": "haggard",
+     "sd": "ٿڪل",
+     "syn": "looking tired and worn"
+    }
+   ]
+  },
+  {
+   "unit": 14,
+   "title": "Articles",
+   "display": "Articles",
+   "reading": "Articles",
+   "sections": [
+    {
+     "name": "What are Articles?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §§103-106)",
+       "items": [
+        {
+         "q": "What are Articles?",
+         "a": "The Adjectives a or an and the are usually called Articles. They are really Demonstrative Adjectives."
+        },
+        {
+         "q": "How many Articles are there?",
+         "a": "There are two Articles — a (or an) and the."
+        },
+        {
+         "q": "What is the Indefinite Article?",
+         "a": "A or an is called the Indefinite Article, because it usually leaves indefinite the person or thing spoken of; as,\na doctor; that is, any doctor."
+        },
+        {
+         "q": "What is the Definite Article?",
+         "a": "The is called the Definite Article, because it normally points out some particular person or thing; as,\nHe saw the doctor; meaning some particular doctor."
+        },
+        {
+         "q": "Before which nouns is the Indefinite Article used?",
+         "a": "The indefinite article is used before singular countable nouns, e.g.,\na book, an orange, a girl"
+        },
+        {
+         "q": "Before which nouns is the Definite Article used?",
+         "a": "The definite article is used before singular countable nouns, plural countable nouns and uncountable nouns, e.g.,\nthe book, the books, the milk"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "A or An — the vowel sound",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §107)",
+       "items": [
+        {
+         "q": "When do we use 'an'?",
+         "a": "The choice between a and an is determined by sound. Before a word beginning with a vowel sound an is used; as,\nan ass, an enemy, an inkstand, an orange, an umbrella, an hour, an honest man, an heir.\nIt will be noticed that the words hour, honest, heir begin with a vowel sound, as the initial consonant h is not pronounced."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "A or An — the consonant sound",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §108)",
+       "items": [
+        {
+         "q": "When do we use 'a'?",
+         "a": "Before a word beginning with a consonant sound a is used; as,\na boy, a reindeer, a woman, a yard, a horse, a hole,\nalso a university, a union, a European, a ewe, a unicorn, a useful article;\nbecause these words (university, union, etc.) begin with a consonant sound, that of yu. Similarly we say,\na one-rupee note, such a one, a one-eyed man.\nbecause one begins with the consonant sound of w."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "An before words beginning with h",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §109)",
+       "items": [
+        {
+         "q": "When do some speakers use 'an' before words beginning with h?",
+         "a": "Some native speakers use an before words beginning with h if the first syllable is not stressed.\nAn hotel (More common: a hotel)\nan historical novel (More common: a historical novel)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Use of the Definite Article",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §110)",
+       "items": [
+        {
+         "q": "(1) When is 'the' used for a particular person or thing?",
+         "a": "When we talk about a particular person or thing, or one already referred to (that is, when it is clear from the context which one we mean); as,\nThe book you want is out of print. (Which book? The one you want.)\nLet's go to the park. (= the park in this town)\nThe girl cried. (the girl = the girl already talked about)"
+        },
+        {
+         "q": "(2) When is 'the' used for a whole class?",
+         "a": "When a singular noun is meant to represent a whole class; as,\nThe cow is a useful animal.\n[Or we may say, \"Cows are useful animals.\"]\nThe horse is a noble animal.\nThe cat loves comfort.\nThe rose is the sweetest of all flowers.\nThe banyan is a kind of fig tree.\n[Do not say, \"a kind of a fig tree\". This is a common error.]\nThe two nouns man and woman can be used in a general sense without either article.\nMan is the only animal that uses fire.\nWoman is man's mate.\nBut in present-day English a man and a woman (or men and women) are more usual.\nA woman is more sensitive than a man."
+        },
+        {
+         "q": "(3) Before which proper names is 'the' used?",
+         "a": "Before some proper names, viz., these kinds of place-names:\n(a) oceans and seas, e.g. the Pacific, the Black Sea\n(b) rivers, e.g. the Ganga, the Nile\n(c) canals, e.g. the Suez Canal\n(d) deserts, e.g. the Sahara\n(e) groups of islands, e.g. the West Indies\n(f) mountain ranges, e.g. the Himalayas, the Alps\n(g) a very few names of countries, which include words like republic and kingdom (e.g. the Irish Republic, the United Kingdom) also: the Ukraine, the Netherlands (and its seat of government the Hague)"
+        },
+        {
+         "q": "(4) Before the names of which books is 'the' used?",
+         "a": "Before the names of certain books; as,\nthe Vedas, the Puranas, the Iliad, the Ramayana.\nBut we say —\nHomer's Iliad, Valmiki's Ramayana."
+        },
+        {
+         "q": "(5) Before the names of which things is 'the' used?",
+         "a": "Before names of things unique of their kind; as,\nThe sun, the sky, the ocean, the sea, the earth.\nNote — Sometimes the is placed before a Common noun to give it the meaning of an Abstract noun; as,\nAt last the warrior (the warlike or martial spirit) in him was thoroughly aroused."
+        },
+        {
+         "q": "(6) When is 'the' used before a Proper Noun?",
+         "a": "Before a Proper Noun when it is qualified by an adjective or a defining adjectival clause; as,\nThe great Caesar: the immortal Shakespeare.\nThe Mr. Roy whom you met last night is my uncle."
+        },
+        {
+         "q": "(7) When is 'the' used with Superlatives?",
+         "a": "With Superlatives; as,\nThe darkest cloud has a silver lining.\nThis is the best book of elementary chemistry."
+        },
+        {
+         "q": "(8) When is 'the' used with ordinals?",
+         "a": "With ordinals; as,\nHe was the first man to arrive.\nThe ninth chapter of the book is very interesting."
+        },
+        {
+         "q": "(9) When is 'the' used before musical instruments?",
+         "a": "Before musical instruments; as,\nHe can play the flute."
+        },
+        {
+         "q": "(10) When is 'the' used before an Adjective?",
+         "a": "Before an adjective when the noun is understood; as,\nThe poor are always with us."
+        },
+        {
+         "q": "(11) When is 'the' used before a noun to give the force of a Superlative?",
+         "a": "Before a noun (with emphasis) to give the force of a Superlative; as,\nThe Verb is the word (= the chief word) in a sentence."
+        },
+        {
+         "q": "(12) When is 'the' used as an Adverb?",
+         "a": "As an Adverb with Comparatives; as,\nThe more the merrier.\n(= by how much more, by so much the merrier)\nThe more they get, the more they want."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Use of the Indefinite Article",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §111)",
+       "items": [
+        {
+         "q": "(1) How is 'a' or 'an' used in its original numerical sense of one?",
+         "a": "In its original numerical sense of one; as,\nTwelve inches make a foot.\nNot a word was said.\nA word to the wise is sufficient.\nA bird in the hand is worth two in the bush."
+        },
+        {
+         "q": "(2) How is 'a' or 'an' used in the vague sense of 'a certain'?",
+         "a": "In the vague sense of a certain; as,\nA Kishore Kumar (= a certain person named Kishore Kumar) is suspected by the police.\nOne evening a beggar came to my door."
+        },
+        {
+         "q": "(3) How is 'a' or 'an' used in the sense of 'any'?",
+         "a": "In the sense of any, to single out an individual as the representative of a class; as,\nA pupil should obey his teacher.\nA cow is a useful animal."
+        },
+        {
+         "q": "(4) How is 'a' or 'an' used to make a common noun of a proper noun?",
+         "a": "To make a common noun of a proper noun; as,\nA Daniel come to judgement! (A Daniel = a very wise man)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Omission of the Article",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §112)",
+       "items": [
+        {
+         "q": "(1) When is the Article omitted before names of substances and abstract nouns?",
+         "a": "Before names of substances and abstract nouns (i.e. uncountable nouns) used in a general sense; as,\nSugar is bad for your teeth.\nGold is a precious metal.\nWisdom is the gift of heaven.\nHonesty is the best policy.\nVirtue is its own reward.\nNote 1 — Uncountable nouns take the when used in a particular sense (especially when qualified by an adjective or adjectival phrase or clause); as,\nWould you pass me the sugar? (= the sugar on the table)\nThe wisdom of Solomon is great.\nI can't forget the kindness with which he treated me."
+        },
+        {
+         "q": "(2) When is the Article omitted before plural countable nouns?",
+         "a": "Before plural countable nouns used in a general sense; as,\nChildren like chocolates.\nComputers are used in many offices.\nNote — Note that such nouns take the when used with a particular meaning; as,\nWhere are the children? (= our children)"
+        },
+        {
+         "q": "(3) When is the Article omitted before proper nouns?",
+         "a": "Before most proper nouns (except those referred to earlier), namely, names of people (e.g. Gopal, Rahim), names of continents, countries, cities, etc. (e.g. Europe, Pakistan, Nagpur), names of individual mountains (e.g. Mount Everest), individual islands, lakes, hills, etc."
+        },
+        {
+         "q": "(4) When is the Article omitted before names of meals?",
+         "a": "Before names of meals (used in a general sense); as,\nWhat time do you have lunch?\nDinner is ready.\nNote — We use a when there is an adjective before breakfast, lunch, dinner, etc. We use the when we specify.\nI had a late lunch today.\nThe dinner we had at the Tourist Hotel was very nice."
+        },
+        {
+         "q": "(5) When is the Article omitted before languages?",
+         "a": "Before languages; as,\nWe are studying English.\nThey speak Punjabi at home."
+        },
+        {
+         "q": "(6) When is the Article omitted before school, college, church, bed, table, hospital, market, prison?",
+         "a": "Before school, college, church, bed, table, hospital, market, prison, when these places are visited or used for their primary purpose; as,\nI learnt French at school.\nWe go to church on Sundays.\nHe stays in bed till nine every morning.\nMy uncle is still in hospital.\nNote — The is used with these words when we refer to them as a definite place, building or object rather than to the normal activity that goes on there; as,\nThe school is very near my home.\nI met him at the church.\nThe bed is broken.\nI went to the hospital to see my uncle."
+        },
+        {
+         "q": "(7) When is the Article omitted before names of relations?",
+         "a": "Before names of relations, like father, mother, aunt, uncle, and also cook and nurse, meaning 'our cook', 'our nurse'; as,\nFather has returned.\nAunt wants you to see her.\nCook has given notice."
+        },
+        {
+         "q": "(8) When is the Article omitted before predicative nouns?",
+         "a": "Before predicative nouns denoting a unique position, i.e., a position that is normally held at one time by one person only; as,\nHe was elected chairman of the Board.\nMr Banerji became Principal of the college in 1995."
+        },
+        {
+         "q": "(9) In which verb phrases is the Article omitted?",
+         "a": "In certain phrases consisting of a transitive verb followed by its object; as,\nto catch fire, to take breath, to give battle, to cast anchor, to send word, to bring word, to give ear, to lay siege, to set sail, to lose heart, to set foot, to leave home, to strike root, to take offence."
+        },
+        {
+         "q": "(10) In which prepositional phrases is the Article omitted?",
+         "a": "In certain phrases consisting of a preposition followed by its object; as,\nat home, in hand, in debt, by day, by night, at daybreak, at sunrise, at noon, at sunset, at night, at anchor, at sight, on demand, at interest, on earth, by land, by water, by river, by train, by steamer, by name, on horseback, on foot, on deck, in jest, at dinner, at ease, under ground, above ground."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 23 — Fill in a, an or the",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 23 — from the book",
+       "items": [
+        {
+         "q": "1. Copper is ___ useful metal.",
+         "a": "a — Copper is a useful metal."
+        },
+        {
+         "q": "2. He is not ___ honourable man.",
+         "a": "an — He is not an honourable man."
+        },
+        {
+         "q": "3. ___ able man has not always a distinguished look.",
+         "a": "An — An able man has not always a distinguished look."
+        },
+        {
+         "q": "4. ___ reindeer is a native of Norway.",
+         "a": "The — The reindeer is a native of Norway."
+        },
+        {
+         "q": "5. Honest men speak ___ truth.",
+         "a": "the — Honest men speak the truth."
+        },
+        {
+         "q": "6. Rustum is ___ young Parsee.",
+         "a": "a — Rustum is a young Parsee."
+        },
+        {
+         "q": "7. Do you see ___ blue sky?",
+         "a": "the — Do you see the blue sky?"
+        },
+        {
+         "q": "8. Varanasi is ___ holy city.",
+         "a": "a — Varanasi is a holy city."
+        },
+        {
+         "q": "9. Aladdin had ___ wonderful lamp.",
+         "a": "a — Aladdin had a wonderful lamp."
+        },
+        {
+         "q": "10. The world is ___ happy place.",
+         "a": "a — The world is a happy place."
+        },
+        {
+         "q": "11. He returned after ___ hour.",
+         "a": "an — He returned after an hour."
+        },
+        {
+         "q": "12. ___ school will shortly close for the Puja holidays.",
+         "a": "The — The school will shortly close for the Puja holidays."
+        },
+        {
+         "q": "13. ___ sun shines brightly.",
+         "a": "The — The sun shines brightly."
+        },
+        {
+         "q": "14. I first met him ___ year ago.",
+         "a": "a — I first met him a year ago."
+        },
+        {
+         "q": "15. Yesterday ___ European called at my office.",
+         "a": "a — Yesterday a European called at my office."
+        },
+        {
+         "q": "16. Sanskrit is ___ difficult language.",
+         "a": "a — Sanskrit is a difficult language."
+        },
+        {
+         "q": "17. ___ Ganga is ___ sacred river.",
+         "a": "the, a — The Ganga is a sacred river."
+        },
+        {
+         "q": "18. ___ lion is ___ king of beasts.",
+         "a": "the, the — The lion is the king of beasts."
+        },
+        {
+         "q": "19. You are ___ fool to say that.",
+         "a": "a — You are a fool to say that."
+        },
+        {
+         "q": "20. French is ___ easy language.",
+         "a": "an — French is an easy language."
+        },
+        {
+         "q": "21. Who is ___ girl sitting there?",
+         "a": "The — Who is the girl sitting there?"
+        },
+        {
+         "q": "22. Which is ___ longest river in India?",
+         "a": "the — Which is the longest river in India?"
+        },
+        {
+         "q": "23. Rama has come without ___ umbrella.",
+         "a": "an — Rama has come without an umbrella."
+        },
+        {
+         "q": "24. Mumbai is ___ very costly place to live in.",
+         "a": "a — Mumbai is a very costly place to live in."
+        },
+        {
+         "q": "25. She is ___ untidy girl.",
+         "a": "an — She is an untidy girl."
+        },
+        {
+         "q": "26. The children found ___ egg in the nest.",
+         "a": "an — The children found an egg in the nest."
+        },
+        {
+         "q": "27. I bought ___ horse, ___ ox, and ___ buffalo.",
+         "a": "a, an, a — I bought a horse, an ox, and a buffalo."
+        },
+        {
+         "q": "28. If you see him, give him ___ message.",
+         "a": "a — If you see him, give him a message."
+        },
+        {
+         "q": "29. English is ___ language of ___ people of England.",
+         "a": "the, the — English is the language of the people of England."
+        },
+        {
+         "q": "30. The guide knows ___ way.",
+         "a": "the — The guide knows the way."
+        },
+        {
+         "q": "31. Sri Lanka is ___ island.",
+         "a": "an — Sri Lanka is an island."
+        },
+        {
+         "q": "32. Let us discuss ___ matter seriously.",
+         "a": "the — Let us discuss the matter seriously."
+        },
+        {
+         "q": "33. John got ___ best present.",
+         "a": "the — John got the best present."
+        },
+        {
+         "q": "34. Man, thou art ___ wonderful animal.",
+         "a": "a — Man, thou art a wonderful animal."
+        },
+        {
+         "q": "35. India is one of ___ most industrial countries in Asia.",
+         "a": "the — India is one of the most industrial countries in Asia."
+        },
+        {
+         "q": "36. He looks as stupid as ___ owl.",
+         "a": "an — He looks as stupid as an owl."
+        },
+        {
+         "q": "37. He is ___ honour to this profession.",
+         "a": "an — He is an honour to this profession."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 24 — Insert Articles where necessary",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 24 — from the book",
+       "items": [
+        {
+         "q": "1. While there is life there is hope.",
+         "a": "While there is life there is hope. (No article is needed.)"
+        },
+        {
+         "q": "2. Her knowledge of medicine had been acquired under aged Jewess.",
+         "a": "Her knowledge of medicine had been acquired under an aged Jewess."
+        },
+        {
+         "q": "3. Sun rises in east.",
+         "a": "The sun rises in the east."
+        },
+        {
+         "q": "4. The brave soldier lost arm in battle.",
+         "a": "The brave soldier lost an arm in the battle."
+        },
+        {
+         "q": "5. The doctor says it is hopeless case.",
+         "a": "The doctor says it is a hopeless case."
+        },
+        {
+         "q": "6. I like to live in open air.",
+         "a": "I like to live in the open air."
+        },
+        {
+         "q": "7. Get pound of sugar from nearest grocer.",
+         "a": "Get a pound of sugar from the nearest grocer."
+        },
+        {
+         "q": "8. Set back clock; it is hour too fast.",
+         "a": "Set back the clock; it is an hour too fast."
+        },
+        {
+         "q": "9. The poor woman has not rupee.",
+         "a": "The poor woman has not a rupee."
+        },
+        {
+         "q": "10. You must take care.",
+         "a": "You must take care. (No article is needed.)"
+        },
+        {
+         "q": "11. Eskimos make houses of snow and ice.",
+         "a": "Eskimos make houses of snow and ice. (No article is needed.)"
+        },
+        {
+         "q": "12. Where did you buy umbrella?",
+         "a": "Where did you buy the umbrella?"
+        },
+        {
+         "q": "13. Have you never seen elephant?",
+         "a": "Have you never seen an elephant?"
+        },
+        {
+         "q": "14. Draw map of India.",
+         "a": "Draw the map of India."
+        },
+        {
+         "q": "15. Do not look gift horse in mouth.",
+         "a": "Do not look a gift horse in the mouth."
+        },
+        {
+         "q": "16. Have you told him about accident?",
+         "a": "Have you told him about the accident?"
+        },
+        {
+         "q": "17. Tagore was great poet.",
+         "a": "Tagore was a great poet."
+        },
+        {
+         "q": "18. How blue sky looks!",
+         "a": "How blue the sky looks!"
+        },
+        {
+         "q": "19. Who wishes to take walk with me?",
+         "a": "Who wishes to take a walk with me?"
+        },
+        {
+         "q": "20. What beautiful scene this is!",
+         "a": "What a beautiful scene this is!"
+        },
+        {
+         "q": "21. The musician was old Mussalman.",
+         "a": "The musician was an old Mussalman."
+        },
+        {
+         "q": "22. The river was spanned by iron bridge.",
+         "a": "The river was spanned by an iron bridge."
+        },
+        {
+         "q": "23. Moon did not rise till after ten.",
+         "a": "The moon did not rise till after ten."
+        },
+        {
+         "q": "24. Like true sportsmen they would give enemy fair play.",
+         "a": "Like true sportsmen they would give the enemy fair play."
+        },
+        {
+         "q": "25. They never fail who die in great cause.",
+         "a": "They never fail who die in a great cause."
+        },
+        {
+         "q": "26. There is nothing like staying at home for comfort.",
+         "a": "There is nothing like staying at home for comfort. (No article is needed.)"
+        },
+        {
+         "q": "27. He likes to picture himself as original thinker.",
+         "a": "He likes to picture himself as an original thinker."
+        },
+        {
+         "q": "28. It is never thankful office to offer advice.",
+         "a": "It is never a thankful office to offer advice."
+        },
+        {
+         "q": "29. Umbrella is of no avail against thunderstorm.",
+         "a": "An umbrella is of no avail against the thunderstorm."
+        },
+        {
+         "q": "30. I have not seen him since he was child.",
+         "a": "I have not seen him since he was a child."
+        },
+        {
+         "q": "31. For Brutus is honourable man.",
+         "a": "For Brutus is an honourable man."
+        },
+        {
+         "q": "32. Neil Armstrong was first man to walk on moon.",
+         "a": "Neil Armstrong was the first man to walk on the moon."
+        },
+        {
+         "q": "33. Man has no more right to say uncivil thing than to act one.",
+         "a": "Man has no more right to say an uncivil thing than to act one."
+        },
+        {
+         "q": "34. We started late in afternoon.",
+         "a": "We started late in the afternoon."
+        },
+        {
+         "q": "35. It is a strange thing how little, in general, people know about sky.",
+         "a": "It is a strange thing how little, in general, people know about the sky."
+        },
+        {
+         "q": "36. Scheme failed for want of support.",
+         "a": "The scheme failed for want of support."
+        },
+        {
+         "q": "37. Tiger, animal equal to lion in size, is native of Asia.",
+         "a": "The tiger, an animal equal to the lion in size, is a native of Asia."
+        },
+        {
+         "q": "38. Time makes worst enemies friends.",
+         "a": "Time makes the worst enemies friends."
+        },
+        {
+         "q": "39. My favourite flower is rose.",
+         "a": "My favourite flower is the rose."
+        },
+        {
+         "q": "40. Time we live ought not to be computed by number of years, but by use that has been made of them.",
+         "a": "The time we live in ought not to be computed by the number of years, but by the use that has been made of them."
+        },
+        {
+         "q": "41. Mumbai is largest cotton textile centre in country.",
+         "a": "Mumbai is the largest cotton textile centre in the country."
+        },
+        {
+         "q": "42. Men are too often led astray by prejudice.",
+         "a": "Men are too often led astray by prejudice. (No article is needed.)"
+        },
+        {
+         "q": "43. Only best quality is sold by us.",
+         "a": "Only the best quality is sold by us."
+        },
+        {
+         "q": "44. What kind of bird is that?",
+         "a": "What kind of bird is that? (No article is needed.)"
+        },
+        {
+         "q": "45. Wild animals suffer when kept in captivity.",
+         "a": "Wild animals suffer when kept in captivity. (No article is needed.)"
+        },
+        {
+         "q": "46. May we have pleasure of your company?",
+         "a": "May we have the pleasure of your company?"
+        },
+        {
+         "q": "47. It was proudest moment of my life.",
+         "a": "It was the proudest moment of my life."
+        },
+        {
+         "q": "48. Andamans are group of islands in Bay of Bengal.",
+         "a": "The Andamans are a group of islands in the Bay of Bengal."
+        },
+        {
+         "q": "49. He started school when he was six years old.",
+         "a": "He started school when he was six years old. (No article is needed.)"
+        },
+        {
+         "q": "50. He neglects attending church, though church is only few yards from his house.",
+         "a": "He neglects attending church, though the church is only a few yards from his house."
+        },
+        {
+         "q": "51. March is third month of year.",
+         "a": "March is the third month of the year."
+        },
+        {
+         "q": "52. Dr Arnold was headmaster of rugby.",
+         "a": "Dr Arnold was headmaster of Rugby. (No article is needed.)"
+        },
+        {
+         "q": "53. Man cannot live by bread alone.",
+         "a": "Man cannot live by bread alone. (No article is needed.)"
+        },
+        {
+         "q": "54. When will father be back?",
+         "a": "When will father be back? (No article is needed.)"
+        },
+        {
+         "q": "55. Appenines are in Italy.",
+         "a": "The Appenines are in Italy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Repetition of the Article",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 14, §§113-116)",
+       "items": [
+        {
+         "q": "When two or more Adjectives qualify the same noun, how is the Article used?",
+         "a": "Hence when two or more adjectives qualify the same noun, the Article is used before the first adjective only; but when they qualify different nouns, expressed or understood, the Article is normally used before each adjective.\nI have a black and white dog. (I mean a dog that is partly black and partly white.)\nBut if I say —\nI have a black and a white dog. (I mean two dogs, one black and the other white.)"
+        },
+        {
+         "q": "When two or more connected nouns refer to the same person, how is the Article used?",
+         "a": "When two or more connected nouns refer to the same person or thing, the Article is ordinarily used before the first only.\nCompare:\n1. The Secretary and Treasurer is absent.\n2. The Secretary and the Treasurer are absent.\nThe first sentence clearly indicates that the posts of Secretary and Treasurer are held by one person. The repetition of the article in the second sentence indicates that the two posts are held by two different persons.\nAlso examine the following sentences.\nSir Surendranath was a great orator and statesman.\nThere are on the committee among others a great economist and a great lawyer."
+        },
+        {
+         "q": "How may we say 'the third and fourth chapter' in two ways?",
+         "a": "We may either say —\nThe third and the fourth chapter.\n[Or] The third and fourth chapters."
+        },
+        {
+         "q": "In expressing a comparison, when is the Article used before the first noun only?",
+         "a": "In expressing a comparison, if two nouns refer to the same person or thing, the Article is used before the first noun only; as,\nHe is a better mechanic than clerk.\nHe is a better poet than novelist.\nHe is a better thinker than debater.\nHe would make a better engineer than lawyer.\nBut if they refer to different persons or things, the Article must be used with each noun; as,\nHe is a better mechanic than a clerk (would make).\nHe would make a better statesman than a philosopher (would make)."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "article",
+     "sd": "حرف تعريف",
+     "syn": "a, an and the — small words used before nouns"
+    },
+    {
+     "w": "definite article",
+     "sd": "معين حرف تعريف",
+     "syn": "the — it points out a particular person or thing"
+    },
+    {
+     "w": "indefinite article",
+     "sd": "غير معين حرف تعريف",
+     "syn": "a or an — it leaves the person or thing indefinite"
+    },
+    {
+     "w": "vowel sound",
+     "sd": "سري آواز",
+     "syn": "the sound of a, e, i, o, u"
+    },
+    {
+     "w": "consonant sound",
+     "sd": "صحيح آواز",
+     "syn": "a sound that is not a vowel sound, as b, c, y in 'yu'"
+    },
+    {
+     "w": "countable",
+     "sd": "ڳڻڻ جوڳو",
+     "syn": "a noun that can be counted, as book or girl"
+    },
+    {
+     "w": "uncountable",
+     "sd": "نه ڳڻڻ جوڳو",
+     "syn": "a noun that cannot be counted, as milk or sugar"
+    },
+    {
+     "w": "unique",
+     "sd": "اڪيلو",
+     "syn": "the only one of its kind, as the sun"
+    },
+    {
+     "w": "particular",
+     "sd": "خاص",
+     "syn": "a certain one, not just any one"
+    },
+    {
+     "w": "repetition",
+     "sd": "ورجاءُ",
+     "syn": "using the same word again"
+    },
+    {
+     "w": "omission",
+     "sd": "حذف",
+     "syn": "leaving a word out"
+    },
+    {
+     "w": "chairman",
+     "sd": "چيئرمين",
+     "syn": "the head of a meeting or a board"
+    },
+    {
+     "w": "principal",
+     "sd": "پرنسپال",
+     "syn": "the head of a college"
+    },
+    {
+     "w": "native",
+     "sd": "اصلي رهاڪو",
+     "syn": "a person born in a place"
+    }
+   ]
+  },
+  {
+   "unit": 15,
+   "title": "Personal Pronouns",
+   "display": "Personal Pronouns",
+   "reading": "Personal Pronouns",
+   "sections": [
+    {
+     "name": "What is a Pronoun",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §117)",
+       "items": [
+        {
+         "q": "What is a pronoun? How does it save us from repeating a noun?",
+         "a": "We may say:\nHari is absent, because Hari is ill.\nBut it is better to avoid the repetition of the Noun Hari, and say:\nHari is absent, because he is ill.\nA word that is thus used instead of a noun is called a Pronoun. [Pronoun means for-a-noun.]"
+        },
+        {
+         "q": "Give the definition of a pronoun.",
+         "a": "Def. — A Pronoun is a word used instead of a Noun."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Personal Pronouns — the Three Persons",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §118)",
+       "items": [
+        {
+         "q": "Which words are called Personal Pronouns, and why?",
+         "a": "Read the following sentences.\nI am young. We are young.\nYou are young. They are young.\nHe (she, it) is young.\nI, we, you, he, (she, it), they are called Personal Pronouns because they stand for the three persons,\n(i) the person speaking,\n(ii) the person spoken to, and\n(iii) the person spoken of."
+        },
+        {
+         "q": "Which pronouns are of the First Person?",
+         "a": "The Pronouns I and we, which denote the person or persons speaking, are said to be Personal Pronouns of the First Person."
+        },
+        {
+         "q": "Which pronoun is of the Second Person? Is it singular or plural?",
+         "a": "The Pronoun you, which denotes the person or persons spoken to, is said to be a Personal Pronoun of the Second Person.\nYou is used both in the singular and plural."
+        },
+        {
+         "q": "Which pronouns are of the Third Person?",
+         "a": "The pronouns he (she) and they, which denote the person or persons spoken of, are said to be Personal Pronouns of the Third Person. It, although it denotes the thing spoken of, is also called a Personal Pronoun of the Third Person. [The Personal Pronouns of the Third Person are, strictly speaking, Demonstrative Pronouns.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Forms of the Personal Pronouns",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §119)",
+       "items": [
+        {
+         "q": "Give the forms of the Personal Pronouns of the First Person.",
+         "a": "FIRST PERSON (Masculine or Feminine)\nSingular — Nominative: I; Possessive: my, mine; Accusative: me.\nPlural — Nominative: we; Possessive: our, ours; Accusative: us."
+        },
+        {
+         "q": "Give the forms of the Personal Pronouns of the Second Person.",
+         "a": "SECOND PERSON (Masculine or Feminine) — Singular/Plural\nNominative: you; Possessive: your, yours; Accusative: you."
+        },
+        {
+         "q": "Give the forms of the Personal Pronouns of the Third Person.",
+         "a": "THIRD PERSON\nSingular, Masculine — Nominative: he; Possessive: his; Accusative: him.\nSingular, Feminine — Nominative: she; Possessive: her, hers; Accusative: her.\nSingular, Neuter — Nominative: it; Possessive: its; Accusative: it.\nPlural, All Genders — Nominative: they; Possessive: their, theirs; Accusative: them."
+        },
+        {
+         "q": "What are Possessive Adjectives? Give examples.",
+         "a": "Note 1 — It will be seen that the Possessive Cases of most of the Personal Pronouns have two forms. Of these the forms my, our, your, her, their are called Possessive Adjectives because they are used with nouns and do the work of Adjectives; as,\nThis is my book.\nThose are your books.\nThat is her book.\nPossessive Adjectives are sometimes called Pronominal Adjectives, as they are formed from Pronouns."
+        },
+        {
+         "q": "How is the word 'his' used both as an Adjective and as a Pronoun?",
+         "a": "Note 2 — The word his is used both as an Adjective and as a Pronoun; as,\nThis is his book. (Possessive Adjective)\nThis book is his. (Possessive Pronoun)\nIn the following sentences the words in italics are Possessive Pronouns,\nThis book is mine.\nThose books are yours.\nThat book is hers.\nThat idea of yours is excellent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Gender of the Third Person",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §120)",
+       "items": [
+        {
+         "q": "How many genders has the Pronoun of the Third Person? Name them.",
+         "a": "The Pronoun of the Third Person has three Genders:\nMasculine: he\nFeminine: she\nNeuter: it"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Uses of 'It'",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §121)",
+       "items": [
+        {
+         "q": "For what is the pronoun 'it' used? (1) Things without life.",
+         "a": "(1) For things without life; as,\nHere is your book; take it away."
+        },
+        {
+         "q": "For what is the pronoun 'it' used? (2) Animals.",
+         "a": "(2) For animals, unless we clearly wish to speak of them as male and female; as,\nHe loves his dog and cannot do without it.\nThe horse fell and broke its leg."
+        },
+        {
+         "q": "For what is the pronoun 'it' used? (3) A young child.",
+         "a": "(3) For a young child, unless we clearly wish to refer to the sex; as,\nWhen I saw the child it was crying.\nThat baby has torn its clothes."
+        },
+        {
+         "q": "For what is the pronoun 'it' used? (4) A statement going before.",
+         "a": "(4) To refer to some statement going before; as,\nHe is telling what is not true; and he knows it.\nHe deserved his punishment; and he knew it."
+        },
+        {
+         "q": "For what is the pronoun 'it' used? (5) As a provisional subject.",
+         "a": "(5) As a provisional and temporary subject before the verb to be when the real subject follows; as,\nIt is easy to find fault. [To find fault is easy.]\nIt is doubtful whether he will come.\nIt is certain that you are wrong."
+        },
+        {
+         "q": "For what is the pronoun 'it' used? (6) To give emphasis.",
+         "a": "(6) To give emphasis to the noun or pronoun following; as,\nIt was you who began the quarrel.\nIt was I who first protested.\nIt was at Versailles that the treaty was made.\nIt is a silly fish that is caught twice with the same bait.\nIt is an ill wind that blows nobody good."
+        },
+        {
+         "q": "For what is the pronoun 'it' used? (7) As an impersonal pronoun.",
+         "a": "(7) As an indefinite nominative of an impersonal verb; as,\nIt rains. It snows. It thunders.\nThe Pronoun it here seems to stand for no noun whatever, though this can be readily supplied from the verb. Thus, 'It rains' means 'The rain rains.'\nIt so used is called an Impersonal Pronoun. So also the verb rains is here called an Impersonal Verb."
+        },
+        {
+         "q": "For what is the pronoun 'it' used? (8) Weather and time.",
+         "a": "(8) In speaking of the weather or the time; as,\nIt is fine.\nIt is winter.\nIt is ten o'clock."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Agreement of the Pronoun with its Noun",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §122)",
+       "items": [
+        {
+         "q": "With what must a Personal Pronoun agree? Give examples.",
+         "a": "Since a Personal Pronoun is used instead of a Noun, it must be of the same number, gender and person as the Noun for which it stands; as,\nRama is a kind boy. He has lent his bicycle to Govind.\nSita helps her mother in household work. She also does her lesson.\nThose beggars are idle. They refuse to work for their living."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Pronouns for Collective Nouns",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §123)",
+       "items": [
+        {
+         "q": "What pronoun is used for a Collective Noun viewed as a whole?",
+         "a": "When a Pronoun stands for a Collective Noun, it must be in the Singular Number (and Neuter Gender) if the Collective Noun is viewed as a whole; as,\nThe army had to suffer terrible privations in its march.\nThe fleet will reach its destination in a week.\nThe crew mutinied and murdered its officers.\nAfter a few minutes the jury gave its verdict."
+        },
+        {
+         "q": "What pronoun is used when a Collective Noun means separate individuals?",
+         "a": "If the Collective Noun conveys the idea of separate individuals comprising the whole, the Pronoun standing for it must be of the Plural Number; as,\nThe jury were divided in their opinions.\nThe committee decided the matter without leaving their seats."
+        },
+        {
+         "q": "What does the book note about the word 'Pronoun' in §123–128?",
+         "a": "It will be noted that we use the word 'Pronoun' in §123–128 without observing the distinction pointed out in §119 between the forms, my, her, our, your, their (which are called Possessive Adjectives) and the forms mine, hers, ours, yours, theirs (which are called Possessive Pronouns)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns Joined by 'And'",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §124)",
+       "items": [
+        {
+         "q": "What pronoun is used for two or more Singular Nouns joined by 'and'?",
+         "a": "When two or more Singular Nouns are joined by and, the Pronoun used for them must be Plural; as,\nRama and Hari work hard. They are praised by their teacher.\nBoth Sita and Savitri are tired; they have gone home."
+        },
+        {
+         "q": "What if the two Singular Nouns joined by 'and' refer to the same person?",
+         "a": "But when two Singular Nouns joined by and refer to the same person or thing, the Pronoun used must of course be Singular; as,\nThe Secretary and Treasurer is negligent of his duty."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Each or Every",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §125)",
+       "items": [
+        {
+         "q": "What pronoun is used when two Singular Nouns joined by 'and' are preceded by 'each' or 'every'?",
+         "a": "When two Singular Nouns joined by and are preceded by each or every, the Pronoun must be Singular; as,\nEvery soldier and every sailor was in his place."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns Joined by 'Or'",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §126)",
+       "items": [
+        {
+         "q": "What pronoun is used when two or more Singular Nouns are joined by 'or', 'either...or' or 'neither...nor'?",
+         "a": "When two or more Singular Nouns are joined by or or either...or, neither...nor, the Pronoun is generally Singular; as,\nRama or Hari must lend his hand.\nEither Sita or Amina forgot to take her parasol.\nNeither Abdul nor Karim has done his lesson."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "A Plural and a Singular Noun Joined by 'Or' or 'Nor'",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §127)",
+       "items": [
+        {
+         "q": "What pronoun is used when a Plural Noun and a Singular Noun are joined by 'or' or 'nor'?",
+         "a": "When a Plural Noun and a Singular Noun are joined by or or nor, the Pronoun must be in the Plural; as,\nEither the manager or his assistants failed in their duty."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Pronouns of Different Persons",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §128)",
+       "items": [
+        {
+         "q": "When a pronoun refers to nouns of different persons, which person is preferred?",
+         "a": "When a pronoun refers to more than one noun or pronoun of different persons, it must be of the first person plural in preference to the second, and of the second person plural in preference to the third; as,\nYou and I have done our duty.\nYou and Hari have idled away your time."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Good Manners — the Order of Pronouns",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §129)",
+       "items": [
+        {
+         "q": "In what order should pronouns be put? What does good manners require?",
+         "a": "Good manners require that we should say —\n'You and I' not 'I and you'.\n'You and he' not 'he and you'.\n'Hari and I' not 'I and Hari'.\n'He and I' not 'I and he'."
+        },
+        {
+         "q": "Give examples of the correct order of pronouns.",
+         "a": "You and I must work together.\nYou and he must mend your ways.\nHari and I are old school friends.\nHe and I can never pull on together."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Accusative after 'And' or 'Or'",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §130)",
+       "items": [
+        {
+         "q": "What is a common mistake with 'I' and 'me' after a conjunction?",
+         "a": "Each of the personal pronouns, I, he, she, we, they has a different form for the accusative case, namely, me, him, her, us, them. It is a common mistake to use I for me, when the pronoun is connected by a conjunction (and, or) with some other word in the accusative case."
+        },
+        {
+         "q": "Give correct sentences with the accusative after a conjunction.",
+         "a": "Study the following correct sentences.\nThe presents are for you and me (not, I).\nMy uncle asked my brother and me to dinner."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'But' as a Preposition",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 15, §131)",
+       "items": [
+        {
+         "q": "What form of pronoun follows 'but' in 'Nobody will help you but me'?",
+         "a": "Note that but is a preposition in the following sentence:\nNobody will help you but me. (not: I)\nTake care to use the accusative form after but in such cases."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 25 — Point out the Pronouns",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "Exercise 25 — from the book (Wren & Martin, Chapter 15)",
+       "items": [
+        {
+         "q": "1. Alice was not a bit hurt, and she jumped up on to her feet in a moment.",
+         "a": "she — Alice; her — Alice"
+        },
+        {
+         "q": "2. There were doors all round the hall, but they were all locked.",
+         "a": "they — doors"
+        },
+        {
+         "q": "3. Alice opened the door and found that it led into a small passage.",
+         "a": "it — door"
+        },
+        {
+         "q": "4. 'I wish I hadn't cried so much,' said Alice.",
+         "a": "I — Alice"
+        },
+        {
+         "q": "5. 'You are not attending', said the Mouse to Alice severely. 'What are you thinking of?'",
+         "a": "You, you — Alice"
+        },
+        {
+         "q": "6. 'Come back!' the Caterpillar called after her. Alice turned and came back again.",
+         "a": "her — Alice"
+        },
+        {
+         "q": "7. Hari brought his book and laid it on the table.",
+         "a": "his — Hari; it — book"
+        },
+        {
+         "q": "8. Karim has lost his dog and cannot find it.",
+         "a": "his — Karim; it — dog"
+        },
+        {
+         "q": "9. Suresh is at the head of his class, for he studies hard.",
+         "a": "his, he — Suresh"
+        },
+        {
+         "q": "10. Rama, you are a lazy boy.",
+         "a": "you — Rama"
+        },
+        {
+         "q": "11. The camel is a beast of burden. It is used to carry goods across the desert.",
+         "a": "It — camel"
+        },
+        {
+         "q": "12. The female lion is called a lioness. She has no mane.",
+         "a": "She — lioness"
+        },
+        {
+         "q": "13. The horse fell down and broke its leg.",
+         "a": "its — horse"
+        },
+        {
+         "q": "14. Birds build their nests in trees.",
+         "a": "their — birds"
+        },
+        {
+         "q": "15. If the thief is caught, he will be punished.",
+         "a": "he — thief"
+        },
+        {
+         "q": "16. Train up a child in the way he should go.",
+         "a": "he — child"
+        },
+        {
+         "q": "17. And Nathan said to David, Thou art the man.",
+         "a": "Thou — David"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 26 — Use Pronouns in Place of Nouns",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "Exercise 26 — from the book (Wren & Martin, Chapter 15)",
+       "items": [
+        {
+         "q": "1. Rama had taken his watch out of his pocket, and was looking at the watch uneasily, shaking the watch every now and then, and holding the watch to his ear.",
+         "a": "Rama had taken his watch out of his pocket, and was looking at it uneasily, shaking it every now and then, and holding it to his ear."
+        },
+        {
+         "q": "2. The boys went into the garden, where the boys saw a snake.",
+         "a": "The boys went into the garden, where they saw a snake."
+        },
+        {
+         "q": "3. Very soon the Rabbit noticed Alice as Alice went hunting about, and called out to Alice in an angry tone.",
+         "a": "Very soon the Rabbit noticed Alice as she went hunting about, and called out to her in an angry tone."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 27 — The Correct Form of Pronoun",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "Exercise 27 — from the book (Wren & Martin, Chapter 15)",
+       "items": [
+        {
+         "q": "1. We scored as many goals as _____. (they, them)",
+         "a": "them — as given in the Key. (See the flags file: 'they' would follow the rule in §130 more strictly.)"
+        },
+        {
+         "q": "2. Rama and _____ were present. (I, me)",
+         "a": "I — Rama and I were present. (Nominative, subject of the sentence.)"
+        },
+        {
+         "q": "3. Can you sing as well as _____? (they, them)",
+         "a": "them — as given in the Key."
+        },
+        {
+         "q": "4. Let you and _____ try what we can do. (I, me)",
+         "a": "me — Let is followed by the accusative: let you and me try."
+        },
+        {
+         "q": "5. Wait for Hari and _____. (I, me)",
+         "a": "me — for is a preposition, so the accusative is used: for Hari and me."
+        },
+        {
+         "q": "6. You know that as well as _____. (I, me)",
+         "a": "me — as given in the Key."
+        },
+        {
+         "q": "7. It was _____ that gave you the alarm. (I, me)",
+         "a": "I (me is also used) — It was I that gave you the alarm. The Key gives 'I/me'."
+        },
+        {
+         "q": "8. Between you and _____, I do not believe him. (I, me)",
+         "a": "me — between is a preposition, so the accusative is used: between you and me."
+        },
+        {
+         "q": "9. We are not as poor as _____. (they, them)",
+         "a": "them — as given in the Key."
+        },
+        {
+         "q": "10. Rama is as old as _____. (I, me)",
+         "a": "me — as given in the Key."
+        },
+        {
+         "q": "11. He is known to my brother and _____. (I, me)",
+         "a": "me — to is a preposition: known to my brother and me."
+        },
+        {
+         "q": "12. He is as good as _____. (I, me)",
+         "a": "me — as given in the Key."
+        },
+        {
+         "q": "13. Nobody but _____ was present. (he, him)",
+         "a": "him — but is a preposition here (§131): nobody but him was present."
+        },
+        {
+         "q": "14. He and _____ were great friends. (I, me)",
+         "a": "I — He and I were great friends. (Nominative, subject.)"
+        },
+        {
+         "q": "15. Whom can I trust, if not _____? (he, him)",
+         "a": "him — if not him (accusative, as after 'but')."
+        },
+        {
+         "q": "16. Let _____ answer this question. (he, him)",
+         "a": "him — Let is followed by the accusative: let him answer this question."
+        },
+        {
+         "q": "17. There isn't much difference between you and _____. (He, him)",
+         "a": "him — between is a preposition: between you and him."
+        },
+        {
+         "q": "18. None so blind as _____ that will not see. (they, them)",
+         "a": "they — None so blind as they that will not see. (Nominative.)"
+        },
+        {
+         "q": "19. It isn't for such as _____ to dictate to us. (they, them)",
+         "a": "them — for is a preposition: for such as them to dictate to us."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "pronoun",
+     "sd": "ضمير",
+     "syn": "a word used instead of a noun"
+    },
+    {
+     "w": "personal pronoun",
+     "sd": "ذاتي ضمير",
+     "syn": "a pronoun standing for a person"
+    },
+    {
+     "w": "nominative",
+     "sd": "فاعلي حالت",
+     "syn": "the case of the subject of a verb"
+    },
+    {
+     "w": "possessive",
+     "sd": "ملڪيتي حالت",
+     "syn": "the case showing that something belongs to someone"
+    },
+    {
+     "w": "accusative",
+     "sd": "مفعولي حالت",
+     "syn": "the case of the object of a verb"
+    },
+    {
+     "w": "gender",
+     "sd": "جنس",
+     "syn": "masculine, feminine or neuter"
+    },
+    {
+     "w": "masculine",
+     "sd": "مذڪر",
+     "syn": "of the male sex"
+    },
+    {
+     "w": "feminine",
+     "sd": "مونث",
+     "syn": "of the female sex"
+    },
+    {
+     "w": "neuter",
+     "sd": "بي جنس",
+     "syn": "neither masculine nor feminine"
+    },
+    {
+     "w": "collective noun",
+     "sd": "اجتماعي اسم",
+     "syn": "a noun for a group, like army or jury"
+    },
+    {
+     "w": "provisional",
+     "sd": "عارضي",
+     "syn": "temporary, standing in place of the real subject for now"
+    },
+    {
+     "w": "impersonal",
+     "sd": "غير ذاتي",
+     "syn": "not referring to any person, as 'it' in 'It rains'"
+    },
+    {
+     "w": "emphasis",
+     "sd": "زور",
+     "syn": "special force given to a word"
+    },
+    {
+     "w": "fault",
+     "sd": "غلطي",
+     "syn": "a mistake or defect"
+    },
+    {
+     "w": "quarrel",
+     "sd": "جهيڙو",
+     "syn": "an angry dispute"
+    },
+    {
+     "w": "treaty",
+     "sd": "معاهدو",
+     "syn": "a formal agreement between states"
+    },
+    {
+     "w": "privation",
+     "sd": "محرومي",
+     "syn": "the lack of things needed, hardship"
+    },
+    {
+     "w": "verdict",
+     "sd": "فيصلو",
+     "syn": "the decision of a jury"
+    },
+    {
+     "w": "negligent",
+     "sd": "غافل",
+     "syn": "not taking proper care"
+    },
+    {
+     "w": "parasol",
+     "sd": "ڇٽي",
+     "syn": "a light umbrella to keep off the sun"
+    }
+   ]
+  },
+  {
+   "unit": 16,
+   "title": "Reflexive and Emphatic Pronouns",
+   "display": "Reflexive and Emphatic Pronouns",
+   "reading": "Reflexive and Emphatic Pronouns",
+   "sections": [
+    {
+     "name": "Reflexive Pronouns",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 16, §132)",
+       "items": [
+        {
+         "q": "How are Compound Personal Pronouns formed?",
+         "a": "When -self is added to my, your, him, her, it, and -selves to our, your, them, we get what are called Compound Personal Pronouns."
+        },
+        {
+         "q": "When are Compound Personal Pronouns called Reflexive Pronouns? Give examples.",
+         "a": "They are called Reflexive Pronouns when the action done by the subject turns back (reflects) upon the subject; as,\nI hurt myself. We hurt ourselves.\nYou will hurt yourself. You will hurt yourselves.\nHe hurt himself.\nShe hurt herself. They hurt themselves.\nThe horse hurt itself."
+        },
+        {
+         "q": "What work does a Reflexive Pronoun do in the sentence?",
+         "a": "It will be noticed that each of these Reflexive Pronouns is used as the Object of a verb, and refers to the same person or thing as that denoted by the Subject of the verb."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Pronoun Used Reflexively",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 16, §133)",
+       "items": [
+        {
+         "q": "How was a simple pronoun sometimes used reflexively in older English? Give an example.",
+         "a": "Sometimes, in older English, especially in poetry, a simple pronoun was used reflexively; as,\nNow I lay me down to sleep."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Self' Used as a Noun",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 16, §134)",
+       "items": [
+        {
+         "q": "Give sentences in which the word 'self' is used as a Noun.",
+         "a": "The word self is sometimes used as a Noun; as,\nTo thine own self be true.\nHe cares for nothing but self.\nHe thinks much of self."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Emphatic Pronouns",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 16, §135)",
+       "items": [
+        {
+         "q": "When are Compound Personal Pronouns called Emphatic Pronouns? Give examples.",
+         "a": "Now look at the following sentences.\nI will do it myself.\nI myself saw him do it.\nWe will see to it ourselves.\nYou yourself can best explain.\nHe himself said so.\nShe herself says so.\nIt was told so by the teacher himself.\nWe saw the Prime Minister himself.\nThe town itself is not very large.\nThey themselves admitted their guilt.\nIt will be seen that here Compound Personal Pronouns are used for the sake of emphasis, and are therefore called Emphatic Pronouns."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 28 — Reflexive or Emphatic?",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "Exercise 28 — from the book (Wren & Martin, Chapter 16). [Emphatic Pronouns are also called Emphasizing Pronouns.]",
+       "items": [
+        {
+         "q": "1. I will go myself.",
+         "a": "myself — Emphatic"
+        },
+        {
+         "q": "2. Rama has hurt himself.",
+         "a": "himself — Reflexive"
+        },
+        {
+         "q": "3. We often deceive ourselves.",
+         "a": "ourselves — Reflexive"
+        },
+        {
+         "q": "4. I myself heard the remark.",
+         "a": "myself — Emphatic"
+        },
+        {
+         "q": "5. You express yourself very imperfectly.",
+         "a": "yourself — Reflexive"
+        },
+        {
+         "q": "6. I wash myself when I get up.",
+         "a": "myself — Reflexive"
+        },
+        {
+         "q": "7. The boys hid themselves.",
+         "a": "themselves — Reflexive"
+        },
+        {
+         "q": "8. They have got themselves into a mess.",
+         "a": "themselves — Reflexive"
+        },
+        {
+         "q": "9. Boadicea poisoned herself.",
+         "a": "herself — Reflexive"
+        },
+        {
+         "q": "10. They loved themselves so much that they thought of no one else.",
+         "a": "themselves — Reflexive"
+        },
+        {
+         "q": "11. The prisoner hanged himself.",
+         "a": "himself — Reflexive"
+        },
+        {
+         "q": "12. The poor widow poisoned herself.",
+         "a": "herself — Reflexive"
+        },
+        {
+         "q": "13. They enjoyed themselves.",
+         "a": "themselves — Reflexive"
+        },
+        {
+         "q": "14. Don't you deceive yourself?",
+         "a": "yourself — Reflexive"
+        },
+        {
+         "q": "15. I myself heard the remark.",
+         "a": "myself — Emphatic"
+        },
+        {
+         "q": "16. He set himself a hard task.",
+         "a": "himself — Reflexive"
+        },
+        {
+         "q": "17. We exerted ourselves.",
+         "a": "ourselves — Reflexive"
+        },
+        {
+         "q": "18. The dog choked itself.",
+         "a": "itself — Reflexive"
+        },
+        {
+         "q": "19. They gave themselves a lot of trouble.",
+         "a": "themselves — Reflexive"
+        },
+        {
+         "q": "20. We seldom see ourselves as others see us.",
+         "a": "ourselves — Reflexive"
+        },
+        {
+         "q": "21. A house divided against itself cannot stand.",
+         "a": "itself — Reflexive"
+        },
+        {
+         "q": "22. He that wrongs his friend wrongs himself more.",
+         "a": "himself — Reflexive"
+        },
+        {
+         "q": "23. Some people are always talking about themselves.",
+         "a": "themselves — Reflexive"
+        },
+        {
+         "q": "24. Xerxes himself was the last to cross the Hellespont.",
+         "a": "himself — Emphatic"
+        },
+        {
+         "q": "25. He has landed himself in difficulties.",
+         "a": "himself — Reflexive"
+        },
+        {
+         "q": "26. Thou shalt love thy neighbour as thyself.",
+         "a": "thyself — Reflexive"
+        },
+        {
+         "q": "27. Acquit yourselves like men.",
+         "a": "yourselves — Reflexive"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "reflexive",
+     "sd": "واپسي وارو",
+     "syn": "turning back upon the subject, as 'myself' in 'I hurt myself'"
+    },
+    {
+     "w": "emphatic",
+     "sd": "زور ڏيندڙ",
+     "syn": "used for the sake of emphasis, as 'myself' in 'I myself saw it'"
+    },
+    {
+     "w": "compound",
+     "sd": "مرڪب",
+     "syn": "made of two parts joined together"
+    },
+    {
+     "w": "reflect",
+     "sd": "موٽائڻ",
+     "syn": "to turn back upon itself"
+    },
+    {
+     "w": "deceive",
+     "sd": "ڌوڪو ڏيڻ",
+     "syn": "to mislead, to cheat"
+    },
+    {
+     "w": "imperfectly",
+     "sd": "اڻپورو",
+     "syn": "not perfectly, in a faulty way"
+    },
+    {
+     "w": "exert",
+     "sd": "ڪوشش ڪرڻ",
+     "syn": "to make a great effort"
+    },
+    {
+     "w": "choke",
+     "sd": "ڳلو گهٽڻ",
+     "syn": "to stop breathing by blocking the throat"
+    },
+    {
+     "w": "mess",
+     "sd": "گندگي",
+     "syn": "a state of confusion or trouble"
+    },
+    {
+     "w": "acquit",
+     "sd": "بهادري سان پيش اچڻ",
+     "syn": "to behave or conduct oneself (here: 'Acquit yourselves like men' = behave like men)"
+    },
+    {
+     "w": "neighbour",
+     "sd": "پاڙيسري",
+     "syn": "a person living next door"
+    },
+    {
+     "w": "thine",
+     "sd": "تنهنجو",
+     "syn": "old word for 'your'"
+    }
+   ]
+  },
+  {
+   "unit": 17,
+   "title": "Demonstrative, Indefinite and Distributive Pronouns",
+   "display": "Demonstrative, Indefinite and Distributive Pronouns",
+   "reading": "Demonstrative, Indefinite and Distributive Pronouns",
+   "sections": [
+    {
+     "name": "Demonstrative Pronouns",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §136)",
+       "items": [
+        {
+         "q": "What are Demonstrative Pronouns? Give examples.",
+         "a": "Consider the following sentences.\nThis is a present from my uncle.\nThese are merely excuses.\nBoth cars are good; but this is better than that.\nMumbai mangoes are better than those of Bengaluru.\nMake haste, that's a good boy. [Here that = one who makes haste.]\nThere is no period in ancient Indian history so glorious as that of the Guptas. [Do not write, 'as the Guptas']\nMy views are quite in accordance with those of the University Commission.\nI may have offended, but such was not my intention.\nHe was the representative of the King, and as such (= the representative of the King) they honoured him.\nThe stranger is welcomed as such.\nThat is the Red Fort.\nIt will be noticed that the Pronouns in italics are used to point out the objects to which they refer, and are, therefore, called Demonstrative Pronouns. (Latin demonstrare, to show clearly)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Demonstrative Adjectives",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §137)",
+       "items": [
+        {
+         "q": "When are 'this', 'that' etc. Demonstrative Adjectives, not Pronouns? Give examples.",
+         "a": "This, that, etc. are (Demonstrative) Adjectives when they are used with nouns; as,\nThis book is mine.\nThat pen is yours.\nThese books are mine.\nThose pens are yours.\nWhat was that noise?\nThis horse is better than that horse.\nAll such people ought to be avoided."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'This' and 'That'",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §138)",
+       "items": [
+        {
+         "q": "What is the difference between 'this' and 'that'?",
+         "a": "This refers to what is close at hand, and nearest to the thought or person of the speaker; that refers to what is 'over there', farther away, and more remote.\nThis is better than that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'That' and 'Those' to Avoid Repetition",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §139)",
+       "items": [
+        {
+         "q": "How is 'that', with its plural 'those', used to avoid repeating a noun? Give examples.",
+         "a": "That, with its plural those, is used to avoid the repetition of a preceding Noun; as,\nThe climate of Belgaum is like that of Pune.\nThe streets of this city are worse than those of Ahmedabad.\nOur soldiers were better drilled than those of enemies.\nThe rivers of America are larger than those of Europe."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'This' for the Last, 'That' for the First",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §140)",
+       "items": [
+        {
+         "q": "When two things already mentioned are referred to, what do 'this' and 'that' mean?",
+         "a": "When two things which have been already mentioned are referred to, this refers to the thing last mentioned, that to the thing first mentioned; as,\nVirtue and vice offer themselves for your choice; this (i.e., vice) leads to misery, that (i.e., virtue) to happiness.\nAlcohol and tobacco are both injurious; this perhaps, less than that."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Indefinite Pronouns",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §141)",
+       "items": [
+        {
+         "q": "What are Indefinite Pronouns? Give examples.",
+         "a": "Consider the following sentences:\nOne hardly knows what to do.\nOne does not like to say so, but it is only too true.\nOne cannot be too careful of one's (not, his) good name.\nOne must not boast of one's own success.\nOne must use one's best efforts if one wishes to succeed.\nOne must not praise one's self.\nNone of his poems are well known.\nNone but fools have ever believed it. [None is a shortened form of not one; yet it is commonly used with plural verbs.]\nThey (= people in general) say he has lost heavily.\nThey say that one of the local banks has stopped payment. [They say = it is said by some persons.]\nAll were drowned.\nSome are born great.\nSome say he is a sharper.\nSomebody has stolen my watch.\nNobody was there to rescue the child.\nFew escaped unhurt.\nMany of them were Gurkhas.\nWe did not see any of them again.\nOne or other of us will be there.\nDo good to others.\nDid you ask anybody to come?\nWhat is everybody's business is nobody's business.\nHis words are in everyone's mouth.\nAll these Pronouns in italics refer to persons or things in a general way, but do not refer to any person or thing in particular. They are, therefore, called Indefinite Pronouns."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Indefinite Words as Adjectives",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §142)",
+       "items": [
+        {
+         "q": "Give sentences in which indefinite words are used as Adjectives.",
+         "a": "Most of these words may also be used as Adjectives.\nI will take you there one day.\nAny fool can do that.\nHe is a man of few words.\nSome milk was spilt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Anybody', 'Everybody' and 'Each'",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §143)",
+       "items": [
+        {
+         "q": "Which pronoun is used in referring to 'anybody', 'everybody', 'everyone', 'anyone', 'each' etc.?",
+         "a": "In referring to anybody, everybody, everyone, anyone, each etc., the pronoun he or she is used according to the context; as,\nI shall be glad to help everyone of my boys in his studies.\nNote that today it is more usual to use a plural pronoun (they/them/their) except in very formal English.\nAnybody can do it if they try.\nEach of them had their share."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Distributive Pronouns",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §144)",
+       "items": [
+        {
+         "q": "What are Distributive Pronouns? Give examples.",
+         "a": "Consider the following sentences:\nEach of the boys gets a prize.\nEach took it in turn.\nEither of these roads leads to the railway station.\nEither of you can go.\nNeither of the accusations is true.\nEach, either, neither are called Distributive Pronouns because they refer to persons or things one at a time.\nFor this reason they are always singular and as such followed by the verb in the singular."
+        },
+        {
+         "q": "What do 'each', 'either' and 'neither' mean?",
+         "a": "Note — Each is used to denote every one of a number of persons or things taken singly.\nEither means the one or the other of two.\nNeither means not the one nor the other of two. It is the negative of either.\nHence either and neither should be used only in speaking of two persons or things. When more than two are spoken of, any, no one, none should be used."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Three Positions of 'Each'",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §145)",
+       "items": [
+        {
+         "q": "What are the three positions of the pronoun 'each'? Give examples.",
+         "a": "The position of the pronoun each should be noticed. It may have three positions.\n1. Each of the men received a reward.\nEach of these horses cost five thousand rupees.\nI bought each of these mangoes for three rupees.\n2. These men received each a reward.\nThese horses cost each five thousand rupees.\n3. These horses cost five thousand rupees each.\nI bought these mangoes for three rupees each.\nThe third order is usual after a numeral. We do not say, 'The men received a reward each'; but we say, 'The men received five hundred rupees each'."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Each', 'Either' and 'Neither' as Adjectives",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §146)",
+       "items": [
+        {
+         "q": "Give sentences in which 'each', 'either' and 'neither' are used as Adjectives.",
+         "a": "In the following sentences, each, either and neither are used as Adjectives; they are followed by nouns of the singular number.\nEach boy took his turn. Neither accusation is true.\nAt either end was a marble statue. (Here either = each or both.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Reciprocal Pronouns",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 17, §147)",
+       "items": [
+        {
+         "q": "What are Reciprocal Pronouns? How are they formed?",
+         "a": "Study the following sentences.\n1. The two men hate each other.\n2. They cheated one another.\nIf we analyse them, they mean —\n1. The two men hate, each hates the other.\n2. They cheated, one cheated another.\nEach and one really belong to the subject, other and another are objects. But each other and one another have become in practice compound pronouns (called Reciprocal Pronouns) and are rarely separated even by a preposition. Thus we say:\nThe brothers quarrelled with each other.\nThey all gave evidence against one another."
+        },
+        {
+         "q": "Must 'each other' be used for two persons and 'one another' for more than two?",
+         "a": "Note — The one-time rule that each other should be used in speaking of two persons or things, one another in speaking of more than two is no longer strictly observed. 'The three brothers quarrelled with each other' is now accepted as idiomatic."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Which Kind of Pronoun Is It?",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "Say which kind of pronoun each of these is — demonstrative, indefinite or distributive. (Practice made from the rules of this chapter — Chapter 17 has no exercise of its own in the book.)",
+       "items": [
+        {
+         "q": "1. This is a present from my uncle.",
+         "a": "Demonstrative pronoun — 'this' points out the present."
+        },
+        {
+         "q": "2. Somebody has stolen my watch.",
+         "a": "Indefinite pronoun — 'somebody' does not name any person in particular."
+        },
+        {
+         "q": "3. Each of the boys gets a prize.",
+         "a": "Distributive pronoun — 'each' refers to the boys one at a time."
+        },
+        {
+         "q": "4. Nobody was there to rescue the child.",
+         "a": "Indefinite pronoun — 'nobody' refers to no person in particular."
+        },
+        {
+         "q": "5. That is the Red Fort.",
+         "a": "Demonstrative pronoun — 'that' points out the Red Fort."
+        },
+        {
+         "q": "6. Neither of the accusations is true.",
+         "a": "Distributive pronoun — 'neither' means not the one nor the other of two."
+        },
+        {
+         "q": "7. Few escaped unhurt.",
+         "a": "Indefinite pronoun — 'few' refers to persons in a general way."
+        },
+        {
+         "q": "8. Either of these roads leads to the railway station.",
+         "a": "Distributive pronoun — 'either' means the one or the other of two."
+        },
+        {
+         "q": "9. The two men hate each other.",
+         "a": "Reciprocal pronoun — 'each other' shows the two men hate one another."
+        },
+        {
+         "q": "10. All were drowned.",
+         "a": "Indefinite pronoun — 'all' refers to persons in a general way."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "demonstrative",
+     "sd": "اشاري",
+     "syn": "pointing out the thing referred to"
+    },
+    {
+     "w": "indefinite",
+     "sd": "غير معين",
+     "syn": "not referring to any person or thing in particular"
+    },
+    {
+     "w": "distributive",
+     "sd": "تقسيمي",
+     "syn": "referring to persons or things one at a time"
+    },
+    {
+     "w": "reciprocal",
+     "sd": "باهمي",
+     "syn": "done by each to the other, as in 'each other'"
+    },
+    {
+     "w": "merely",
+     "sd": "صرف",
+     "syn": "only, nothing more than"
+    },
+    {
+     "w": "excuse",
+     "sd": "بهانو",
+     "syn": "a reason given to hide the truth"
+    },
+    {
+     "w": "in accordance with",
+     "sd": "مطابق",
+     "syn": "in agreement with"
+    },
+    {
+     "w": "representative",
+     "sd": "نمائندو",
+     "syn": "a person acting for another"
+    },
+    {
+     "w": "boast",
+     "sd": "شيخي ڪرڻ",
+     "syn": "to praise oneself proudly"
+    },
+    {
+     "w": "sharper",
+     "sd": "ڌوڪيباز",
+     "syn": "a cheat, a swindler"
+    },
+    {
+     "w": "rescue",
+     "sd": "بچائڻ",
+     "syn": "to save from danger"
+    },
+    {
+     "w": "accusation",
+     "sd": "الزام",
+     "syn": "a charge that someone did wrong"
+    },
+    {
+     "w": "injurious",
+     "sd": "نقصانڪار",
+     "syn": "harmful"
+    },
+    {
+     "w": "misery",
+     "sd": "ڏک",
+     "syn": "great unhappiness"
+    },
+    {
+     "w": "remote",
+     "sd": "پري",
+     "syn": "far away"
+    },
+    {
+     "w": "spilt",
+     "sd": "ڇلڪايل",
+     "syn": "poured out by accident"
+    }
+   ]
+  },
+  {
+   "unit": 18,
+   "title": "Relative Pronouns",
+   "display": "Relative Pronouns",
+   "reading": "Relative Pronouns",
+   "sections": [
+    {
+     "name": "What is a Relative Pronoun",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §148)",
+       "items": [
+        {
+         "q": "What work does a Relative Pronoun do? Show with examples.",
+         "a": "Read the following pairs of sentences.\n1. I met Hari. Hari had just returned.\n2. I have found the pen. I had lost the pen.\n3. Here is the book. You lent me the book.\nLet us now combine each of the above pairs into one sentence. Thus:\n1. I met Hari who had just returned.\n2. I have found the pen which I had lost.\n3. Here is the book that you lent me."
+        },
+        {
+         "q": "Why is 'who' called a Relative Pronoun?",
+         "a": "The word who is used instead of the noun Hari. It, therefore, does the work of a Pronoun.\nThe word who joins or connects two statements. It, therefore, does the work of a Conjunction.\nThe word who, therefore, does double work — the work of a Pronoun and also the work of a Conjunction.\nWe might, therefore, call it a Conjunctive Pronoun.\nIt is, however, called a Relative Pronoun because it refers or relates (i.e., carries us back) to some noun going before (here, the noun Hari), which is called its Antecedent."
+        },
+        {
+         "q": "What is the Antecedent of 'which' in 'I have found the pen which I had lost'?",
+         "a": "The pen."
+        },
+        {
+         "q": "What is the Antecedent of 'that' in 'Here is the book that you lent me'?",
+         "a": "The book."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Forms of the Relative Pronoun 'Who'",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §149)",
+       "items": [
+        {
+         "q": "Give the forms of the Relative Pronoun 'who'.",
+         "a": "The Relative Pronoun who has different forms for Accusative and Genitive.\nSingular and Plural\nNominative: who\nGenitive: whose\nAccusative: whom/who* (* Who replaces whom in informal English.)"
+        },
+        {
+         "q": "Give examples of 'who', 'whose' and 'whom'.",
+         "a": "This is the boy (or girl) who works hard.\nThis is the boy (or girl) whose exercise is done well.\nThis is the boy (or girl) whom / who all praise.\nThese are the boys (or girls) who work hard.\nThese are the boys (or girls) whose exercises are done well.\nThese are the boys (or girls) whom / who all praise.\nIt will be noticed that the forms are the same for singular and plural, masculine and feminine."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Relative Pronoun 'Which'",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §150)",
+       "items": [
+        {
+         "q": "What are the forms of the Relative Pronoun 'which'?",
+         "a": "The Relative Pronoun which has the same form for the Nominative and Accusative cases.\nThis is the house which belongs to my uncle.\nThe house which my uncle built cost him Rs. 3,50,000.\nThe Relative Pronoun which has no Genitive Case, but whose is used as a substitute for 'of which'; as,\nA triangle whose three sides are equal is called an equilateral triangle."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Relative Pronoun 'That'",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §151)",
+       "items": [
+        {
+         "q": "What are the forms of the Relative Pronoun 'that'?",
+         "a": "The Relative Pronoun that has the same form in the Singular and Plural, and in the Nominative and Accusative. It has no Genitive case.\nHe that is content is rich.\nThey that touch pitch will be defiled.\nTake anything that you like."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Relative Pronoun 'What'",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §152)",
+       "items": [
+        {
+         "q": "What are the forms of the Relative Pronoun 'what'?",
+         "a": "The Relative Pronoun what is used only in the Singular, and has the same form in the Nominative and Accusative.\nWhat has happened is not clear.\nI say what I mean.\nHe failed in what he attempted."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Use of 'Who'",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §153)",
+       "items": [
+        {
+         "q": "For whom is 'who' used? Give examples.",
+         "a": "As a general rule, who is used for persons only. It may refer to a Singular or a Plural Noun.\nThe man who is honest is trusted.\nBlessed is he who has found his work.\nHe prayeth best who loveth best.\nHe who hesitates is lost.\nThey never fail who die in a great cause.\nThey are slaves who dare not be\nIn the right with two or three.\nWho is sometimes used in referring to animals."
+        },
+        {
+         "q": "For what is 'whose' used? Give examples.",
+         "a": "Whose (the Possessive form of who) is used in speaking of persons, animals and also things without life (see §150); as,\nThe sun, whose rays give life to the earth, is regarded by some people as a god.\nThis is the question whose solution has baffled philosophers of all ages.\n[More properly, 'This is the question the solution of which has baffled philosophers of all ages'.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Use of 'Which'",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §154)",
+       "items": [
+        {
+         "q": "For what is 'which' used? Give examples.",
+         "a": "Which is used for things without life and for animals. It may refer to a Singular or Plural Noun.\nThe moment which is lost is lost for ever.\nThe books which help you most are those which make you think most.\nThe horse which I recently bought is an Arab.\nWhich was sometimes formerly used to refer to persons; as,\nOur Father, which art in heaven.\nWhich may also refer to a sentence; as,\nThe man was said to be drunk, which was not the case.\nHe said he saw me there, which was a lie.\nHe is here, which is fortunate."
+        },
+        {
+         "q": "What is a defining (restrictive) relative clause? Give examples.",
+         "a": "Note — The Relative Pronouns who and which can be used —\n(i) To restrict, limit, or define more clearly the antecedent; that is, where the clause introduced by a relative pronoun is restrictive or defining; as,\nThe man who had cheated me was yesterday arrested by the police.\nThe book which you see on the table cost me ninety rupees."
+        },
+        {
+         "q": "What is a non-defining (continuative) relative clause? Give examples.",
+         "a": "(ii) To give some additional information about the antecedent; that is, where the clause introduced by a relative pronoun is continuative or non-defining; as,\nThe teacher sent for the boy, who (= and he) came at once.\nI gave him a rupee, which (= and it) was all I had with me."
+        },
+        {
+         "q": "How are non-defining clauses separated? Compare the two sentences about 'my brother'.",
+         "a": "Note — That non-defining clauses are separated from the main clause by commas.\nCompare:\nMy brother who is a doctor has gone to America.\nMy brother, who is a doctor, has gone to America.\nThe first sentence implies that the speaker has several brothers, and the clause who is a doctor distinguishes a particular one of them. In the second, the clause does not define and the implication is that the speaker has only one brother."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Use of 'That'",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §155)",
+       "items": [
+        {
+         "q": "For what is 'that' used? Give examples.",
+         "a": "That is used for persons and things. It may refer to a Singular or a Plural Noun. (See §151)\nThat has no genitive case and it is never used with a preposition preceding.\nThis is the boy that I told you of.\nI know the house that he lives in.\nUneasy lies the head that wears a crown.\nI have lost the watch that you gave me.\nThrice is he armed that hath his quarrel just.\nA city that is set on a hill cannot be hid.\nHe that is not with me is against me.\nHappy is the man that findeth wisdom.\nHe that is slow to anger is better than the mighty.\nThe crowd that gathered cheered him to the echo.\nWho that has met him can escape his influence?\nAll that I said had no effect on him.\nHe was the most eloquent speaker that I ever heard.\nIt will be noticed that the relative pronoun that is used only in defining clauses, i.e., clauses that restrict, limit, or define the antecedent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'That' as an Adverbial Accusative",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §156)",
+       "items": [
+        {
+         "q": "How may 'that' be used as an adverbial accusative? Give examples.",
+         "a": "That may be used as an adverbial accusative = on which, in which, at which; as,\nI remember the day that he came.\nOn the day that thou eatest thereof thou shalt surely die."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "When 'That' Cannot Replace 'Who' or 'Which'",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §157)",
+       "items": [
+        {
+         "q": "Why can we not say 'My father that is a schoolmaster is fifty years old'?",
+         "a": "As the Relative Pronoun that has a restrictive force it sometimes becomes unsuitable as the substitute for who or which. Thus I cannot say —\nMy father that is a schoolmaster is fifty years old.\nI must say —\nMy father, who is a schoolmaster, is fifty years old.\nBut if I happen to have more than one sister, I can say —\nMy sister that has been adopted by my uncle is ill."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'That' in Preference to 'Who' or 'Which'",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §158)",
+       "items": [
+        {
+         "q": "When is 'that' used in preference to 'who' or 'which'? (1) After superlatives.",
+         "a": "(1) After Adjectives in the Superlative Degree; as,\nHe was the most eloquent speaker that I ever heard.\nThe wisest man that ever lived made mistakes.\nThis is the best that we can do."
+        },
+        {
+         "q": "When is 'that' used in preference to 'who' or 'which'? (2) After 'all', 'same', 'any', 'none', 'nothing', 'only'.",
+         "a": "(2) After the words all, same, any, none, nothing, (the) only; as,\nAll is not gold that glitters.\nHe is the same man that he has been.\nIt is only donkeys that bray.\nIt was not for nothing that he studied philosophy.\nMan is the only animal that can talk."
+        },
+        {
+         "q": "When is 'that' used in preference to 'who' or 'which'? (3) After 'who' or 'what'.",
+         "a": "(3) After the Interrogative Pronouns who, what; as,\nWho that saw her did not pity her?\nWho am I that I should object?\nWhat is it that troubles you so much?\nWhat is there that I do not know?"
+        },
+        {
+         "q": "When is 'that' used in preference to 'who' or 'which'? (4) After two antecedents.",
+         "a": "(4) After two antecedents, one denoting a person and the other denoting an animal or a thing; as,\nThe boy and his dog that had trespassed on the club premises were turned out."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Use of 'What'",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §159)",
+       "items": [
+        {
+         "q": "What does 'what' mean, and how is it used? Give examples.",
+         "a": "What refers to things only. It is used without an antecedent expressed, and is equivalent to that which (or the thing which).\nWhat (= that which) cannot be cured must be endured.\nI say what (= that which) I mean.\nI mean what I say.\nWhat is done cannot be undone.\nWhat man has done man can do.\nWhat is one man's meat is another man's poison.\nGive careful heed to what I say.\nWhat I have written, I have written.\nHe found what he was looking for.\nIt will be noticed that what is used in the Nominative and Accusative singular only."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'As' as a Relative Pronoun",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §160)",
+       "items": [
+        {
+         "q": "How was 'as' used as a relative pronoun in older English? Give examples.",
+         "a": "In older English, the word as was used as a relative pronoun after such; as,\nTears such as angels weep burst forth.\nThese mangoes are not such as I bought yesterday.\nHe is such a man as I honour.\nWe have never had such a time as the present.\nHis answer was such as I expected him to give.\nThe word as can be used as a Relative Pronoun after same; as,\nMy trouble is the same as yours [is].\nThis is not the same as that [is].\n[But] I played with the same bat that you did.\n'The same as' usually means 'of the same kind'.\n'The same...that' means 'one and the same'."
+        },
+        {
+         "q": "How is 'as' used as a Relative Pronoun after 'as' with an adjective?",
+         "a": "The word as is also used as a Relative Pronoun after as followed by an adjective; as,\nI collected as many specimens as I could find.\nNote — The first as here is an Adverb."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'But' as a Relative Pronoun",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §161)",
+       "items": [
+        {
+         "q": "How was 'but' used as a relative pronoun in older English? Give examples.",
+         "a": "In older English, the word but was used as a relative pronoun after a negative; it often had the force of a relative pronoun.\nThere is none but will agree with me. (but will agree = who will not agree)\nThere is no Hindu but knows the story of the Ramayana. (That is, there is no Hindu who does not know, etc.)\nThere is no man but wishes to live.\nThere is no rose but has some thorn. (but = which...no)\nThere is scarcely a child but likes candy.\nThere is no man but knows these things. (but = who does not)\nIt will be seen that the pronoun but is here equivalent to who...not, which...not."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Omission of the Relative Pronoun",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §162)",
+       "items": [
+        {
+         "q": "When is the Relative Pronoun generally omitted? Give examples.",
+         "a": "The Relative Pronoun is generally omitted when it would be in the accusative case; as,\nFew and short were the prayers ^ we said.\nA contented mind is the greatest blessing ^ a man can enjoy in the world.\nI am monarch of all ^ I survey.\nMen must reap the things ^ they sow.\n'That is used preferably with reference to persons. Thus, we tend to say 'the meeting which I attended yesterday,' rather than 'the meeting that I attended yesterday.' But more frequently still do we say 'the meeting I attended yesterday,' the Accusative Relative being as a rule omitted altogether.' — Onions.\nThis tendency to omit the Accusative Relative is more marked in the spoken language. In the written language its omission is often felt to be undignified."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Omission of the Relative in the Nominative",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §163)",
+       "items": [
+        {
+         "q": "Give examples from poetry where a Relative Pronoun in the nominative case is omitted.",
+         "a": "In the following examples from poetry a Relative Pronoun in the nominative case is omitted.\n'Tis distance ^ lends enchantment to the view.\n'I have a brother ^ is condemned to die.'\nNote — The omission of a Relative Pronoun in the nominative case is now quite exceptional except in colloquial speech.\nThere's somebody at the door ^ wants to see you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Omission of the Antecedent",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §164)",
+       "items": [
+        {
+         "q": "How was the Antecedent of a Relative Pronoun sometimes left out in older English? Give examples.",
+         "a": "In older English, the Antecedent of a Relative Pronoun was sometimes left out; as,\nWho works not shall not eat.\n= (He) who works not shall not eat.\nWhom the gods love, die young.\n= (Those) whom the gods love die young.\nWho steals my purse, steals trash.\nWho laughs last, laughs best.\nWho has lost all hope has also lost all fear.\nBe good, sweet maid, and let who will be clever."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Agreement of the Relative Pronoun",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §165)",
+       "items": [
+        {
+         "q": "With what must the Relative Pronoun agree? Give examples.",
+         "a": "As the Relative Pronoun refers to a Noun or Pronoun (called its Antecedent) it must be of the same number and person as its Antecedent. [Remember that the verb shows the number and person of the Relative Pronoun.]\nThe boy who was lazy was punished.\nThe boys who were lazy were punished.\nI, who am your king, will lead you.\nI am the person that is to blame.\nWe who seek your protection, are strangers here.\nO thou that leadest Israel!\nYou who are mighty, should be merciful.\nYou who seek wisdom, should be humble.\nHe that is not with me is against me.\nHe that is down, needs fear no fall.\nHe that eats till he is sick must fast till he is well.\nThey who live in glass houses should not throw stones.\nThey who seek only for faults see nothing else.\nThe flowers which grow in our gardens are not for sale.\nThis is the only one of his poems that is worth reading.\n[= Of his poems this is the only one that is worth reading.]"
+        },
+        {
+         "q": "What decides the case of the Relative Pronoun? Give examples.",
+         "a": "But the case of the Relative Pronoun depends upon its relation to the verb in the clause in which it occurs.\nRama is the boy who did it.\nRama is the boy whom I want.\nRama is the boy whose pencil I have.\nRama is the boy to whom I spoke.\nHe whom we worship, by whose gift we live, is the Lord."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Position of the Relative Pronoun",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §166)",
+       "items": [
+        {
+         "q": "Where should the Relative Pronoun be placed? Give examples.",
+         "a": "To prevent ambiguity, the Relative Pronoun should be placed as near as possible to its Antecedent; as,\nThe boy who won the first prize in English is the son of my friend, Mr Joshi.\nIt would mean something quite different if we separate the Relative Pronoun from its Antecedent and say:\nThe boy is the son of my friend Mr Joshi who won the first prize.\nAgain such a sentence as 'I have read Gokhale's speeches, who was a disciple of Ranade' would be improved if changed to 'I have read the speeches of Gokhale, who was a disciple of Ranade'.\nSo also the following sentence requires to be rearranged.\nI with my family reside in a village near Pune which consists of my wife and three children."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Compound Relative Pronouns",
+     "num": "20",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §167)",
+       "items": [
+        {
+         "q": "What are Compound Relative Pronouns? Give examples.",
+         "a": "Pronouns formed by adding ever, so, or soever to who, which and what are called Compound Relative Pronouns. They are:\nwhoever, whoso, whosoever; whichever; whatever, whatsoever.\nThese Relatives have no antecedent expressed.\nWhosoever (= any and every person who) exalteth himself shall be abased.\nWhoso diggeth a pit shall fall therein.\nWhatsoever thy hand findeth to do, do it with thy might."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Whoever', 'Whichever', 'Whatever'",
+     "num": "21",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 18, §168)",
+       "items": [
+        {
+         "q": "How are 'whoever', 'whichever' and 'whatever' used today? Give examples.",
+         "a": "The forms whoever, whichever, and whatever are now ordinarily used; as,\nWhoever (i.e., any person who) comes is welcome.\nTake whichever (i.e., any which) you like.\nI will take with me whomsoever you choose.\nWhatever (i.e, anything which) he does, he does well."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 29 — Relative Pronoun, Case and Antecedent",
+     "num": "22",
+     "exercises": [
+      {
+       "label": "Exercise 29 — from the book (Wren & Martin, Chapter 18)",
+       "items": [
+        {
+         "q": "1. The pen that you gave me is a very good one.",
+         "a": "that — Accusative — pen"
+        },
+        {
+         "q": "2. The answer which you gave is not right.",
+         "a": "which — Accusative — answer"
+        },
+        {
+         "q": "3. I know the woman whose child was hurt.",
+         "a": "whose — Possessive — woman"
+        },
+        {
+         "q": "4. Bring me the letters which the postman left.",
+         "a": "which — Accusative — letters"
+        },
+        {
+         "q": "5. This is the house that Jack built.",
+         "a": "that — Accusative — house"
+        },
+        {
+         "q": "6. Hari saw the man who had been hurt.",
+         "a": "who — Nominative — man"
+        },
+        {
+         "q": "7. We met the sailors whose ship was wrecked.",
+         "a": "whose — Possessive — sailors"
+        },
+        {
+         "q": "8. Here are the books which I found.",
+         "a": "which — Accusative — books"
+        },
+        {
+         "q": "9. The cat killed the rat that ate the corn.",
+         "a": "that — Nominative — rat"
+        },
+        {
+         "q": "10. Bring me the books which lie on the table.",
+         "a": "which — Nominative — books"
+        },
+        {
+         "q": "11. Here is the book that you lent me.",
+         "a": "that — Accusative — book"
+        },
+        {
+         "q": "12. I hate children who are cruel.",
+         "a": "who — Nominative — children"
+        },
+        {
+         "q": "13. Show me the knife that you have bought.",
+         "a": "that — Accusative — knife"
+        },
+        {
+         "q": "14. He has not brought the knife that I asked for.",
+         "a": "that — Accusative — knife"
+        },
+        {
+         "q": "15. Dogs soon know the persons by whom they are kindly treated.",
+         "a": "whom — Accusative — persons"
+        },
+        {
+         "q": "16. This is the juggler whom we saw yesterday.",
+         "a": "whom — Accusative — juggler"
+        },
+        {
+         "q": "17. They that seek wisdom will be wise.",
+         "a": "that — Nominative — they"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 30 — Fill the Blanks with Relative Pronouns",
+     "num": "23",
+     "exercises": [
+      {
+       "label": "Exercise 30 — from the book (Wren & Martin, Chapter 18)",
+       "items": [
+        {
+         "q": "1. We always like boys ____ speak the truth.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "2. We saw the dog ____ worried the cat.",
+         "a": "that (or which)"
+        },
+        {
+         "q": "3. He ____ does his best shall be praised.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "4. I know ____ you mean.",
+         "a": "what"
+        },
+        {
+         "q": "5. She has gone to Chennai, ____ is her birthplace.",
+         "a": "which"
+        },
+        {
+         "q": "6. I have seen the bird ____ you describe.",
+         "a": "which (or that)"
+        },
+        {
+         "q": "7. I do not know the man ____ hit the boy.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "8. He gave away ____ he did not need.",
+         "a": "what"
+        },
+        {
+         "q": "9. There is no one ____ has not lost a friend.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "10. Here is the pen ____ you lost.",
+         "a": "that (or which)"
+        },
+        {
+         "q": "11. Most people get ____ they deserve.",
+         "a": "what"
+        },
+        {
+         "q": "12. Time ____ is lost is never found again.",
+         "a": "that (or which)"
+        },
+        {
+         "q": "13. I did not know the person ____ called.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "14. He is a man ____ you can trust.",
+         "a": "whom (or that)"
+        },
+        {
+         "q": "15. Where is the book ____ I gave you?",
+         "a": "that (or which)"
+        },
+        {
+         "q": "16. Is this the street ____ leads to the station?",
+         "a": "that (or which)"
+        },
+        {
+         "q": "17. The letter ____ you wrote never arrived.",
+         "a": "which (or that)"
+        },
+        {
+         "q": "18. Listen to ____ I say.",
+         "a": "what"
+        },
+        {
+         "q": "19. He ____ is merciful shall meet mercy.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "20. Did you receive the letter ____ I sent yesterday?",
+         "a": "which (or that)"
+        },
+        {
+         "q": "21. ____ I have said, I have said.",
+         "a": "What"
+        },
+        {
+         "q": "22. ____ he was I could never find out.",
+         "a": "who"
+        },
+        {
+         "q": "23. ____ do you believe him to be?",
+         "a": "whom"
+        },
+        {
+         "q": "24. Do you know ____ has happened?",
+         "a": "what"
+        },
+        {
+         "q": "25. ____ is done cannot be undone.",
+         "a": "What"
+        },
+        {
+         "q": "26. Do the same ____ I do.",
+         "a": "as"
+        },
+        {
+         "q": "27. For my purpose I need such a man ____ he is.",
+         "a": "as"
+        },
+        {
+         "q": "28. God helps those ____ help themselves.",
+         "a": "who"
+        },
+        {
+         "q": "29. No man can lose ____ he never had.",
+         "a": "what"
+        },
+        {
+         "q": "30. You should not imitate such a boy ____ he.",
+         "a": "as"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 31 — Fill the Blanks with Relative Pronouns",
+     "num": "24",
+     "exercises": [
+      {
+       "label": "Exercise 31 — from the book (Wren & Martin, Chapter 18). Note: the Key's print for items 9, 11, 12 and 22–33 is too blurred to read, so those answers are worked out from the chapter's own rules — see the flags file.",
+       "items": [
+        {
+         "q": "1. That man ____ will not work must starve.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "2. Such a man ____ he should be honoured.",
+         "a": "as"
+        },
+        {
+         "q": "3. These mangoes are not such ____ I bought yesterday.",
+         "a": "as"
+        },
+        {
+         "q": "4. It is not such a pretty place ____ I had expected.",
+         "a": "as"
+        },
+        {
+         "q": "5. We have need of more such men ____ he.",
+         "a": "as"
+        },
+        {
+         "q": "6. He plays the game ____ he likes best.",
+         "a": "that (or which)"
+        },
+        {
+         "q": "7. I do not believe ____ you say.",
+         "a": "what"
+        },
+        {
+         "q": "8. My uncle, ____ I loved, is dead.",
+         "a": "whom"
+        },
+        {
+         "q": "9. The farmer is cutting the corn ____ has ripened.",
+         "a": "which (or that) — 'who' cannot be used for corn (§154)."
+        },
+        {
+         "q": "10. ____ you say is not true.",
+         "a": "What"
+        },
+        {
+         "q": "11. A lady ____ I know nursed the child.",
+         "a": "whom (or that)"
+        },
+        {
+         "q": "12. He says ____ he means, and means ____ he says.",
+         "a": "what ... what"
+        },
+        {
+         "q": "13. ____ pleases you will please me.",
+         "a": "What"
+        },
+        {
+         "q": "14. I gave it to the man ____ I saw there.",
+         "a": "whom"
+        },
+        {
+         "q": "15. I know ____ you are seeking.",
+         "a": "what"
+        },
+        {
+         "q": "16. They ____ touch pitch will be defiled.",
+         "a": "that (or which)"
+        },
+        {
+         "q": "17. You have not brought the book ____ I asked for.",
+         "a": "that (or which)"
+        },
+        {
+         "q": "18. Only he ____ bears the burden knows its weight.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "19. Such books ____ you read are not worth reading.",
+         "a": "as"
+        },
+        {
+         "q": "20. When you speak to him remember to ____ you are speaking.",
+         "a": "whom"
+        },
+        {
+         "q": "21. I regard that man as lost ____ has lost his sense of shame.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "22. Wealth is not his ____ has it, but his ____ enjoys it.",
+         "a": "who ... who — (He) who has it; (he) who enjoys it (§164)."
+        },
+        {
+         "q": "23. People ____ are too sharp cut their own fingers.",
+         "a": "who (or that)"
+        },
+        {
+         "q": "24. Truth provokes those ____ it does not convert.",
+         "a": "whom (that is also used)"
+        },
+        {
+         "q": "25. We do not know ____ he intends to do.",
+         "a": "what"
+        },
+        {
+         "q": "26. It is an ill wind ____ blows nobody good.",
+         "a": "that — the book itself gives this sentence in §121(6)."
+        },
+        {
+         "q": "27. Is this a dagger ____ I see before me?",
+         "a": "which (or that)"
+        },
+        {
+         "q": "28. I know to ____ you are alluding.",
+         "a": "whom"
+        },
+        {
+         "q": "29. ____ the gods would destroy they first make mad.",
+         "a": "Whom — (Those) whom the gods would destroy (§164)."
+        },
+        {
+         "q": "30. He is the very man ____ we want.",
+         "a": "that (or whom)"
+        },
+        {
+         "q": "31. Please recite ____ you have learned.",
+         "a": "what"
+        },
+        {
+         "q": "32. They always talk ____ never think.",
+         "a": "who — (those) who never think (§164)."
+        },
+        {
+         "q": "33. Such ____ have pure hearts shall inherit the kingdom of heaven.",
+         "a": "as — such ... as (§160)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 32 — Join the Pairs with a Connective",
+     "num": "25",
+     "exercises": [
+      {
+       "label": "Exercise 32 — from the book (Wren & Martin, Chapter 18)",
+       "items": [
+        {
+         "q": "1. I know a man. The man has been to Iceland.",
+         "a": "I know a man who (that) has been to Iceland."
+        },
+        {
+         "q": "2. The thief stole the watch. The thief was punished.",
+         "a": "The thief that (who) stole the watch was punished."
+        },
+        {
+         "q": "3. Show the road. The road leads to Delhi.",
+         "a": "Show the road that leads to Delhi."
+        },
+        {
+         "q": "4. Here is the doctor. The doctor cured me of malaria.",
+         "a": "Here is the doctor who (that) cured me of malaria."
+        },
+        {
+         "q": "5. I met a boy. He was very cruel.",
+         "a": "I met a boy who (that) was very cruel. (or: The boy whom I met was very cruel.)"
+        },
+        {
+         "q": "6. He does his best. He should be praised.",
+         "a": "He who (that) does his best should be praised."
+        },
+        {
+         "q": "7. The man is honest. The man is trusted.",
+         "a": "The man who (that) is honest is trusted."
+        },
+        {
+         "q": "8. My father is dead. I loved my father.",
+         "a": "My father, whom I loved, is dead."
+        },
+        {
+         "q": "9. The teacher sent for the boy. The boy came at once.",
+         "a": "The boy for whom the teacher sent came at once."
+        },
+        {
+         "q": "10. Wellington was a great general. He defeated Napoleon at the Battle of Waterloo.",
+         "a": "Wellington, who defeated Napoleon at the Battle of Waterloo, was a great general. (or: Wellington, who was a great general, defeated Napoleon at the Battle of Waterloo.)"
+        },
+        {
+         "q": "11. The dog bit the burglar. The burglar had broken into the house.",
+         "a": "The dog bit the burglar who (that) had broken into the house."
+        },
+        {
+         "q": "12. Once upon a time there lived a giant. The giant was very powerful and cruel.",
+         "a": "Once upon a time there lived a giant who was very powerful and cruel."
+        },
+        {
+         "q": "13. We met a girl. The girl had lost her way.",
+         "a": "We met a girl who (that) had lost her way."
+        },
+        {
+         "q": "14. Kalidas is famous. He wrote some fine dramas.",
+         "a": "Kalidas, who wrote some fine dramas, is famous."
+        },
+        {
+         "q": "15. He is a rogue. No one trusts him.",
+         "a": "He is a rogue whom no one trusts."
+        },
+        {
+         "q": "16. The child is dead. The child came here yesterday.",
+         "a": "The child that (who) came here yesterday is dead."
+        },
+        {
+         "q": "17. The child is dead. I saw the child yesterday.",
+         "a": "The child whom (that) I saw yesterday is dead."
+        },
+        {
+         "q": "18. I know the man. He stole the bicycle.",
+         "a": "I know the man who (that) stole the bicycle."
+        },
+        {
+         "q": "19. The man stole the bicycle. He has been arrested.",
+         "a": "The man who (that) stole the bicycle has been arrested."
+        },
+        {
+         "q": "20. I have found the umbrella. I lost it.",
+         "a": "I have found the umbrella which (that) I lost."
+        },
+        {
+         "q": "21. I saw a soldier. He had lost an arm.",
+         "a": "I saw a soldier who (that) had lost an arm."
+        },
+        {
+         "q": "22. This is the path. He came by this path.",
+         "a": "This is the path by which he came."
+        },
+        {
+         "q": "23. The horse was lame. We saw the horse.",
+         "a": "The horse that (which) we saw was lame."
+        },
+        {
+         "q": "24. Those boys were kept in. They had been very lazy.",
+         "a": "Those boys who (that) had been very lazy were kept in."
+        },
+        {
+         "q": "25. I saw a girl. She was singing.",
+         "a": "I saw a girl who (that) was singing."
+        },
+        {
+         "q": "26. That boy bowls very well. You see him there.",
+         "a": "That boy whom (that) you see there bowls very well."
+        },
+        {
+         "q": "27. Here is the book. You were asking for the book.",
+         "a": "Here is the book which (that) you were asking for."
+        },
+        {
+         "q": "28. Here is the pencil. You lost it yesterday.",
+         "a": "Here is the pencil which (that) you lost yesterday."
+        },
+        {
+         "q": "29. The man is deaf. You spoke to the man.",
+         "a": "The man whom (that) you spoke to is deaf."
+        },
+        {
+         "q": "30. Coal is found in West Bengal. It is a very useful mineral.",
+         "a": "Coal, which is a very useful mineral, is found in West Bengal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 33 — Join the Pairs with a Connective",
+     "num": "26",
+     "exercises": [
+      {
+       "label": "Exercise 33 — from the book (Wren & Martin, Chapter 18). Note: the Key's print for items 3, 5 and 12–16 is too blurred to read, so those joined sentences are made from the chapter's own rules — see the flags file.",
+       "items": [
+        {
+         "q": "1. This is the building. It was built in a single month.",
+         "a": "This is the building which was built in a single month."
+        },
+        {
+         "q": "2. The letter reached me this morning. You sent the letter.",
+         "a": "The letter which (that) you sent reached me this morning."
+        },
+        {
+         "q": "3. Karim is always idle. He was punished.",
+         "a": "Karim, who is always idle, was punished."
+        },
+        {
+         "q": "4. I met my uncle. He had just arrived.",
+         "a": "I met my uncle, who had just arrived."
+        },
+        {
+         "q": "5. This is the house. Jack built it.",
+         "a": "This is the house which (that) Jack built."
+        },
+        {
+         "q": "6. The boy is my cousin. You see him there.",
+         "a": "The boy whom (that) you see there is my cousin."
+        },
+        {
+         "q": "7. The ladies have arrived. I was speaking of them.",
+         "a": "The ladies whom (that) I was speaking of have arrived."
+        },
+        {
+         "q": "8. The boys clapped heartily. They were watching the match.",
+         "a": "The boys, who were watching the match, clapped heartily."
+        },
+        {
+         "q": "9. The boy tells lies. He deserves to be punished.",
+         "a": "The boy who (that) tells lies deserves to be punished."
+        },
+        {
+         "q": "10. I heard a song. The song pleased me.",
+         "a": "The song that (which) I heard pleased me."
+        },
+        {
+         "q": "11. I heard some news. The news astonished me.",
+         "a": "I heard some news which (that) astonished me. (or: The news that I heard astonished me.)"
+        },
+        {
+         "q": "12. I know a man. The man has a wooden leg.",
+         "a": "I know a man who (that) has a wooden leg."
+        },
+        {
+         "q": "13. Here is a book. The book contains pictures.",
+         "a": "Here is a book which (that) contains pictures."
+        },
+        {
+         "q": "14. Give me the ruler. The ruler is on the desk.",
+         "a": "Give me the ruler which (that) is on the desk."
+        },
+        {
+         "q": "15. The bicycle is a new one. Hari rode it.",
+         "a": "The bicycle which (that) Hari rode is a new one."
+        },
+        {
+         "q": "16. We got into a bus. It was full of people.",
+         "a": "We got into a bus which (that) was full of people."
+        },
+        {
+         "q": "17. He has a friend. He is a clever artist.",
+         "a": "He has a friend who (that) is a clever artist."
+        },
+        {
+         "q": "18. He is a well-known man. His generosity is the talk of the town.",
+         "a": "He is a well-known man, whose generosity is the talk of the town."
+        },
+        {
+         "q": "19. The cat caught the mouse. The cat was pursuing the mouse.",
+         "a": "The cat caught the mouse that (which) it was pursuing."
+        },
+        {
+         "q": "20. Can I borrow the book? You are reading it.",
+         "a": "Can I borrow the book that (which) you are reading?"
+        },
+        {
+         "q": "21. The boy was very proud. He had won the first prize.",
+         "a": "The boy, who (that) had won the first prize, was very proud."
+        },
+        {
+         "q": "22. Little Red Riding Hood went to visit her grandmother. Her grandmother was ill in bed.",
+         "a": "Little Red Riding Hood went to visit her grandmother, who (that) was ill in bed."
+        },
+        {
+         "q": "23. This is my cousin. I was speaking of him.",
+         "a": "This is my cousin whom (that) I was speaking of."
+        },
+        {
+         "q": "24. We all despise a cowardly boy. He is one.",
+         "a": "He is a cowardly boy, whom we all despise."
+        },
+        {
+         "q": "25. This is the cat. It killed the rat.",
+         "a": "This is the cat that (which) killed the rat."
+        },
+        {
+         "q": "26. Those grapes were very sweet. You brought them.",
+         "a": "Those grapes which (that) you brought were very sweet."
+        },
+        {
+         "q": "27. Hari spoke to the soldier. The soldier's arm was in a sling.",
+         "a": "Hari spoke to the soldier, whose arm was in a sling."
+        },
+        {
+         "q": "28. The captain praised Balu. Balu's bowling was very good.",
+         "a": "The captain praised Balu, whose bowling was very good."
+        },
+        {
+         "q": "29. A man came running up. He heard me calling.",
+         "a": "A man who heard me calling came running up."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 34 — Split Each Sentence into Two",
+     "num": "27",
+     "exercises": [
+      {
+       "label": "Exercise 34 — from the book (Wren & Martin, Chapter 18)",
+       "items": [
+        {
+         "q": "1. The boys gave a loud shout, which was heard across the river.",
+         "a": "The boys gave a loud shout. It was heard across the river."
+        },
+        {
+         "q": "2. Bring me the book that is on the table.",
+         "a": "Bring me the book. It is on the table."
+        },
+        {
+         "q": "3. It was a wretched hut in which she lived.",
+         "a": "It was a wretched hut. She lived in it."
+        },
+        {
+         "q": "4. The boy who fell off his bicycle has hurt his leg.",
+         "a": "The boy fell off his bicycle. He has hurt his leg."
+        },
+        {
+         "q": "5. The elephant that was sick died.",
+         "a": "The elephant was sick. It died."
+        },
+        {
+         "q": "6. The farmer is cutting the corn which has ripened.",
+         "a": "The farmer is cutting the corn. It has ripened."
+        },
+        {
+         "q": "7. Napoleon, whom the French honour, died at St. Helena.",
+         "a": "Napoleon died at St. Helena. The French honour him."
+        },
+        {
+         "q": "8. The crow dropped the cheese, which the fox immediately snapped up.",
+         "a": "The crow dropped the cheese. The fox immediately snapped it up."
+        },
+        {
+         "q": "9. John, who is my cousin, is a diligent boy.",
+         "a": "John is my cousin. He is a diligent boy."
+        },
+        {
+         "q": "10. Where is the parcel that I left here yesterday?",
+         "a": "Where is the parcel? I left it here yesterday."
+        },
+        {
+         "q": "11. I have found the book which I lost.",
+         "a": "I have found the book. I lost it."
+        },
+        {
+         "q": "12. We visited Cox's Bazar, which is the most attractive spot in Bangladesh.",
+         "a": "We visited Cox's Bazar. It is the most attractive spot in Bangladesh."
+        },
+        {
+         "q": "13. The boy whom you see there made the top score in the last match.",
+         "a": "The boy made the top score in the last match. You see him there."
+        },
+        {
+         "q": "14. Dadabhai Naoroji, who was the first Indian to enter the British Parliament, was a Parsee.",
+         "a": "Dadabhai Naoroji was a Parsee. He was the first Indian to enter the British Parliament."
+        },
+        {
+         "q": "15. He is a poet whose works are widely known.",
+         "a": "He is a poet. His works are widely known."
+        },
+        {
+         "q": "16. The Taj Mahal, which was built by Shah Jahan, is the finest mausoleum in the world.",
+         "a": "The Taj Mahal is the finest mausoleum in the world. It was built by Shah Jahan."
+        },
+        {
+         "q": "17. Last year we visited the Moti Masjid, which is a mosque of great architectural beauty.",
+         "a": "Last year we visited the Moti Masjid. It is a mosque of great architectural beauty."
+        },
+        {
+         "q": "18. The meeting, which was held in the Town Hall, was a great success.",
+         "a": "The meeting was a great success. It was held in the Town Hall."
+        },
+        {
+         "q": "19. The rope, which was old, snapped.",
+         "a": "The rope was old. It snapped."
+        },
+        {
+         "q": "20. The task which you have to do is easy.",
+         "a": "You have to do a task. It is easy."
+        },
+        {
+         "q": "21. People who live in glass houses must not throw stones.",
+         "a": "Some people live in glass houses. They must not throw stones."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "relative pronoun",
+     "sd": "نسبتي ضمير",
+     "syn": "a pronoun that joins two statements and refers to a noun before it"
+    },
+    {
+     "w": "antecedent",
+     "sd": "اڳيون اسم",
+     "syn": "the noun to which a relative pronoun refers"
+    },
+    {
+     "w": "conjunctive",
+     "sd": "جوڙيندڙ",
+     "syn": "joining, connecting"
+    },
+    {
+     "w": "genitive",
+     "sd": "ملڪيتي حالت",
+     "syn": "the possessive case, as 'whose'"
+    },
+    {
+     "w": "defining",
+     "sd": "محدود ڪندڙ",
+     "syn": "restricting or making clear which one is meant"
+    },
+    {
+     "w": "non-defining",
+     "sd": "غير محدود ڪندڙ",
+     "syn": "giving extra information, not picking out one from many"
+    },
+    {
+     "w": "restrict",
+     "sd": "محدود ڪرڻ",
+     "syn": "to limit"
+    },
+    {
+     "w": "eloquent",
+     "sd": "فصيح",
+     "syn": "speaking well and persuasively"
+    },
+    {
+     "w": "content",
+     "sd": "قناعت ڪندڙ",
+     "syn": "satisfied with what one has"
+    },
+    {
+     "w": "defiled",
+     "sd": "گندو ڪيل",
+     "syn": "made dirty or impure"
+    },
+    {
+     "w": "trespass",
+     "sd": "حد کان وڌڻ",
+     "syn": "to enter someone's land without permission"
+    },
+    {
+     "w": "baffled",
+     "sd": "حيران ڪيل",
+     "syn": "puzzled, unable to understand"
+    },
+    {
+     "w": "equilateral",
+     "sd": "برابر پاسن وارو",
+     "syn": "having all sides equal"
+    },
+    {
+     "w": "specimen",
+     "sd": "نمونو",
+     "syn": "a sample or example"
+    },
+    {
+     "w": "ambiguity",
+     "sd": "ابهام",
+     "syn": "doubtfulness of meaning, more than one meaning"
+    },
+    {
+     "w": "colloquial",
+     "sd": "ڳالهه ٻولهه وارو",
+     "syn": "used in everyday spoken language"
+    },
+    {
+     "w": "undignified",
+     "sd": "غير شائسته",
+     "syn": "not proper or respectable in writing"
+    },
+    {
+     "w": "exalt",
+     "sd": "مٿي چاڙهڻ",
+     "syn": "to raise high, to praise greatly"
+    },
+    {
+     "w": "abased",
+     "sd": "هيٺ ڪيل",
+     "syn": "brought low, humbled"
+    },
+    {
+     "w": "mausoleum",
+     "sd": "مقبرو",
+     "syn": "a large tomb"
+    },
+    {
+     "w": "diligent",
+     "sd": "محنتي",
+     "syn": "hard-working"
+    }
+   ]
+  },
+  {
+   "unit": 19,
+   "title": "Interrogative Pronouns",
+   "display": "Interrogative Pronouns",
+   "reading": "Interrogative Pronouns",
+   "sections": [
+    {
+     "name": "What is an Interrogative Pronoun",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §169)",
+       "items": [
+        {
+         "q": "What are Interrogative Pronouns? Give examples.",
+         "a": "Consider the following sentences.\nWho is there? Who are you?\nAbout whom are you talking? / Who are you talking about?\nWhom do you want? / Who do you want?\nWhose is this book?\nWhich is the house?\nWhich do you prefer, tea or coffee?\nWhat is the matter?\nWhat do you want?\nWhat will all the neighbours say?\nIt will be noticed that the Pronouns in italics are similar in form to Relative Pronouns. But the work which they do is different. They are here used for asking questions, and are, therefore, called Interrogative Pronouns."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Interrogative Pronouns in Indirect Questions",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §170)",
+       "items": [
+        {
+         "q": "Give sentences in which Interrogative Pronouns are used in asking indirect questions.",
+         "a": "In the following sentences the Interrogative Pronouns are used in asking indirect questions.\nI asked who was speaking.\nI do not know who is there.\nTell me what you have done.\nAsk what he wants.\nSay which you would like best."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Forms of the Interrogative Pronouns",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §171)",
+       "items": [
+        {
+         "q": "Give the forms of the Interrogative Pronoun 'who'.",
+         "a": "Again consider the following sentences.\nWho gave you that knife? (Nominative)\nWhose is this book? (Possessive)\nWhom did you see? / Who did you see? (Accusative)\nTo whom were you speaking? / Who were you speaking to? (Accusative)\nWhat is that? (Nominative)\nWhat do you want? (Accusative)\nWhich is he? (Nominative)\nWhich do you prefer? (Accusative)\nNominative: who\nPossessive: whose\nAccusative: whom/who — Masc. and Fem., Singular and Plural.\nToday the accusative who is more usual than whom, especially in spoken English.\nWhat and which do not have different forms for different cases."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Use of 'Who'",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §172)",
+       "items": [
+        {
+         "q": "For whom is 'who' used? Give examples.",
+         "a": "Who is used of persons only.\nWho spoke? (We expect the answer to be the name of a person.)\nWho goes there? Who made the top score?\nWho is knocking at the door? Who says so?\nWhose is this umbrella? Whom did you see?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Use of 'Which'",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §173)",
+       "items": [
+        {
+         "q": "For what is 'which' used? What does it imply? Give examples.",
+         "a": "Which is used of both persons and things. It implies selection, that is, it implies a question concerning a limited number.\nWhich is your friend? Which are your books?\nWhich of the boys saw him?\nWhich of you has done this?\nWhich of these books is yours?\nWhich of the pictures do you like best?\nWhich of you by taking thought can add one cubit unto his stature?\nWhich will you take?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Use of 'What'",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §174)",
+       "items": [
+        {
+         "q": "For what is 'what' used? Give examples.",
+         "a": "What is used of things only.\nWhat have you found? (We expect the answer to be the name of a thing.)\nWhat do you want? What did you say?\nWhat was it all about?\nWhat is sweeter than honey?\nWhat are those marks on your coat?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'What are you?' — Profession",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §175)",
+       "items": [
+        {
+         "q": "What does 'what' mean in 'What are you?' and 'What is he?'?",
+         "a": "In such expressions as, 'What are you?', 'What is he?', 'What is this man?' the word what does not refer to the person but to his profession or employment.\nWhat are you? — I am a doctor.\nWhat is he? — He is an engineer.\nToday it is more usual to say 'What do you do?', 'What does he do?' etc."
+        },
+        {
+         "q": "What is the difference between 'What is he?' and 'Who is he?'?",
+         "a": "But —\nWho is he? (= What is his name and family?) — He is Mr K P Roy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Interrogative Adjectives",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §176)",
+       "items": [
+        {
+         "q": "Give sentences in which 'which' and 'what' are used as Interrogative Adjectives.",
+         "a": "In the following sentences which and what are used as Interrogative Adjectives.\nWhich book are you reading?\nWhich way shall we go?\nWhat books have you read?\nWhat pranks are you playing?\nWhat manner of man is this, that even the wind and the sea obey him?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Compound Interrogative Pronouns",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §177)",
+       "items": [
+        {
+         "q": "Give sentences in which compound words are used as Interrogative Pronouns.",
+         "a": "In the following sentences the words in italics are used as Compound Interrogative Pronouns.\nWhoever told you so?\nWhatever are you doing?\nNote — The forms whoever, whichever, whatever are intensive."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exclamatory Pronouns",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 19, §178)",
+       "items": [
+        {
+         "q": "What is an Exclamatory Pronoun? Give examples.",
+         "a": "A Pronoun used as an exclamation is called an Exclamatory Pronoun; as,\nWhat! Still here! I thought you had gone home long ago.\nWhat! You don't know Rama?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 35 — The Correct Interrogative Pronoun",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "Exercise 35 — from the book (Wren & Martin, Chapter 19). Note: the Key's print for several items is too blurred to read, so some answers are worked out from the chapter's own rules (§172–174) — see the flags file.",
+       "items": [
+        {
+         "q": "1. ____ wishes to see you?",
+         "a": "Who"
+        },
+        {
+         "q": "2. ____ do you wish to see?",
+         "a": "Whom (Who is also used today, §171)."
+        },
+        {
+         "q": "3. ____ did she say was the winner?",
+         "a": "Who"
+        },
+        {
+         "q": "4. ____ did he invite?",
+         "a": "Whom"
+        },
+        {
+         "q": "5. ____ shall I give this to?",
+         "a": "Whom"
+        },
+        {
+         "q": "6. ____ do men say that I am?",
+         "a": "Who (What is also given in the Key)."
+        },
+        {
+         "q": "7. ____ do you believe did this?",
+         "a": "Who"
+        },
+        {
+         "q": "8. About ____ are you speaking?",
+         "a": "Whom"
+        },
+        {
+         "q": "9. ____ did you see?",
+         "a": "Whom (Who is also used today, §171)."
+        },
+        {
+         "q": "10. ____ do you mean?",
+         "a": "What"
+        },
+        {
+         "q": "11. To ____ did you give the key?",
+         "a": "Whom"
+        },
+        {
+         "q": "12. ____ of the girls can sew the best?",
+         "a": "Which"
+        },
+        {
+         "q": "13. By ____ was the book written?",
+         "a": "Whom"
+        },
+        {
+         "q": "14. ____ are you seeking?",
+         "a": "What (Who, if you mean a person)."
+        },
+        {
+         "q": "15. ____ of you has done this?",
+         "a": "Which"
+        },
+        {
+         "q": "16. ____ have you seen?",
+         "a": "Whom (What, if you mean a thing, is also given in the Key)."
+        },
+        {
+         "q": "17. ____ of our dogs is ill?",
+         "a": "Which"
+        },
+        {
+         "q": "18. ____ do you think they are?",
+         "a": "Who (What is also possible)."
+        },
+        {
+         "q": "19. ____ do you think I am?",
+         "a": "What (Who is also possible)."
+        },
+        {
+         "q": "20. ____ did you find there?",
+         "a": "What"
+        },
+        {
+         "q": "21. ____ was that speaking to you?",
+         "a": "Who"
+        },
+        {
+         "q": "22. ____ came here yesterday?",
+         "a": "Who"
+        },
+        {
+         "q": "23. ____ do you consider in the right?",
+         "a": "Whom"
+        },
+        {
+         "q": "24. ____, do you consider, is right?",
+         "a": "Who"
+        },
+        {
+         "q": "25. ____ did you speak to?",
+         "a": "Whom (Who is also used today, §171)."
+        },
+        {
+         "q": "26. ____ is life worth?",
+         "a": "What"
+        },
+        {
+         "q": "27. ____ of these bats will you take?",
+         "a": "Which"
+        },
+        {
+         "q": "28. ____ did he say?",
+         "a": "What"
+        },
+        {
+         "q": "29. ____ is that for?",
+         "a": "What"
+        },
+        {
+         "q": "30. ____ have you decided to do?",
+         "a": "What"
+        },
+        {
+         "q": "31. ____ stole the bird's nest?",
+         "a": "Who"
+        },
+        {
+         "q": "32. ____ do you prefer?",
+         "a": "Which"
+        },
+        {
+         "q": "33. ____ are you doing?",
+         "a": "What"
+        },
+        {
+         "q": "34. ____ has my book?",
+         "a": "Who"
+        },
+        {
+         "q": "35. ____ is an Island?",
+         "a": "Which — selection among places (§173)."
+        },
+        {
+         "q": "36. ____ is your book?",
+         "a": "Which"
+        },
+        {
+         "q": "37. ____ do you want?",
+         "a": "What"
+        },
+        {
+         "q": "38. With ____ were you talking?",
+         "a": "Whom"
+        },
+        {
+         "q": "39. ____ did they fight each other for?",
+         "a": "What"
+        },
+        {
+         "q": "40. ____ is better, honour or riches?",
+         "a": "Which"
+        },
+        {
+         "q": "41. ____ am I speaking to, please?",
+         "a": "Who — the Key gives 'Who', with the note that 'whom' may also be used."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "interrogative",
+     "sd": "سوالي",
+     "syn": "asking a question"
+    },
+    {
+     "w": "indirect question",
+     "sd": "اڻ سڌو سوال",
+     "syn": "a question reported inside another sentence"
+    },
+    {
+     "w": "selection",
+     "sd": "چونڊ",
+     "syn": "choosing one from a limited number"
+    },
+    {
+     "w": "cubit",
+     "sd": "هٿ",
+     "syn": "an old measure of length, about the forearm"
+    },
+    {
+     "w": "profession",
+     "sd": "پيشو",
+     "syn": "a person's job or work"
+    },
+    {
+     "w": "employment",
+     "sd": "روزگار",
+     "syn": "work, a job"
+    },
+    {
+     "w": "prank",
+     "sd": "شرارت",
+     "syn": "a playful trick"
+    },
+    {
+     "w": "manner",
+     "sd": "قسم",
+     "syn": "kind, sort"
+    },
+    {
+     "w": "exclamation",
+     "sd": "تعجب جو اظهار",
+     "syn": "a sudden cry of surprise or strong feeling"
+    },
+    {
+     "w": "intensive",
+     "sd": "زور ڀريو",
+     "syn": "giving extra force or emphasis"
+    },
+    {
+     "w": "neighbour",
+     "sd": "پاڙيسري",
+     "syn": "a person living next door"
+    },
+    {
+     "w": "honour",
+     "sd": "عزت",
+     "syn": "great respect, good name"
+    }
+   ]
+  },
+  {
+   "unit": 20,
+   "title": "The Verb: Transitive and Intransitive Verbs",
+   "display": "The Verb: Transitive and Intransitive Verbs",
+   "reading": "The Verb: Transitive and Intransitive Verbs",
+   "sections": [
+    {
+     "name": "What is a Verb?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §179)",
+       "items": [
+        {
+         "q": "What is a verb?",
+         "a": "A Verb is a word that tells or asserts something about a person or thing.\nVerb comes from the Latin verbum, a word. It is so called because it is the most important word in a sentence."
+        },
+        {
+         "q": "What three things may a verb tell us?",
+         "a": "A Verb may tell us—\n(1) What a person or thing does; as,\nHari laughs. The clock strikes.\n(2) What is done to a person or thing; as,\nHari is scolded. The window is broken.\n(3) What a person or thing is; as,\nThe cat is dead. Glass is brittle. I feel sorry."
+        },
+        {
+         "q": "Give the definition of a verb.",
+         "a": "Def.—A Verb is a word used to tell or assert something about some person or thing."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "A verb often consists of more than one word",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §180)",
+       "items": [
+        {
+         "q": "Can a verb be more than one word? Give examples.",
+         "a": "Yes; as,\nThe girls were singing.\nI have learnt my lesson.\nThe watch has been found."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Transitive and Intransitive Verbs",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §181)",
+       "items": [
+        {
+         "q": "Read these sentences: (1) The boy kicks the football. (2) The boy laughs loudly. Why is 'kicks' transitive and 'laughs' intransitive?",
+         "a": "In sentence 1, the action denoted by the verb kicks passes over from the doer or Subject boy to some Object football. The verb kicks is, therefore, called a Transitive Verb. (Transitive means passing over.)\nIn sentence 2, the action denoted by the verb laughs stops with the doer or Subject boy and does not pass over to an Object. The verb laughs is, therefore, called an Intransitive Verb. (Intransitive means not passing over.)"
+        },
+        {
+         "q": "What is a Transitive Verb?",
+         "a": "Def.—A Transitive Verb is a Verb that denotes an action which passes over from the doer or Subject to an Object."
+        },
+        {
+         "q": "What is an Intransitive Verb?",
+         "a": "Def.—An Intransitive Verb is a Verb that denotes an action which does not pass over to an object, or which expresses a state or being; as,\nHe ran a long distance. (Action)\nThe baby sleeps. (State)\nThere is a flaw in this diamond. (Being)"
+        },
+        {
+         "q": "What is the note on intransitive verbs expressing being?",
+         "a": "Note—Intransitive Verbs expressing being take the same cases after them as before them."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Verbs with two objects",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §182)",
+       "items": [
+        {
+         "q": "Which transitive verbs take two objects? What are the two objects called?",
+         "a": "Most Transitive Verbs take a single object. But such Transitive Verbs as give, ask, offer, promise, tell, etc., take two objects after them—an Indirect Object which denotes the person to whom something is given or for whom something is done, and a Direct Object which is usually the name of some thing; as,\nHis father gave him (Indirect) a watch (Direct).\nHe told me (Indirect) a secret (Direct)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Used transitively or intransitively",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §183)",
+       "items": [
+        {
+         "q": "Can the same verb be used both as transitive and as intransitive?",
+         "a": "Yes. Most verbs can be used both as Transitive and as Intransitive verbs. It is, therefore, better to say that a verb is used Transitively or Intransitively rather than that it is Transitive or Intransitive."
+        },
+        {
+         "q": "Give examples of verbs used intransitively and transitively.",
+         "a": "Used Intransitively:\n1. Some ants fight very fiercely.\n2. The ship sank rapidly.\n3. The bell rang loudly.\n4. The train stopped suddenly.\n5. He spoke haughtily.\n6. This horse never kicks.\n7. How do you feel?\nUsed Transitively:\n1. The ants fought the wasps.\n2. The shot sank the ship.\n3. Ring the bell, Rama.\n4. The driver stopped the train.\n5. He spoke the truth.\n6. The horse kicked the man.\n7. I feel a severe pain in my head."
+        },
+        {
+         "q": "Which verbs can never be used transitively?",
+         "a": "Note—Some Verbs, e.g., come, go, fall, die, sleep, lie, denote actions which cannot be done to anything; they can, therefore, never be used Transitively."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Verbs used reflexively",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §§184–185)",
+       "items": [
+        {
+         "q": "When is a verb said to be used reflexively?",
+         "a": "In such a sentence as ‘The man killed himself’ where the Subject and the Object both refer to the same person, the verb is said to be used reflexively."
+        },
+        {
+         "q": "Sometimes the reflexive pronoun is not expressed. Give examples.",
+         "a": "The bubble burst [itself].\nThe guests made [themselves] merry.\nPlease keep [yourselves] quiet.\nWith these words he turned [himself] to the door.\nThe Japanese feed [themselves] chiefly on rice.\nThese verbs may, however, be regarded as pure Intransitives without any reflexive force whatever."
+        },
+        {
+         "q": "Give examples of verbs used reflexively and also as ordinary transitive verbs.",
+         "a": "Do not forget his name.\nI forget his name.\nAcquit yourself as man.\nThe magistrate acquitted him of the charge against him.\nI enjoy myself sitting alone.\nHe enjoys good health.\nHe interested himself in his friend’s welfare.\nHis talk does not interest me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 36",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 36 — from the book (Wren & Martin, Chapter 20). Name the Verbs in the following sentences, and tell in each case whether the Verb is Transitive or Intransitive. Where the Verb is Transitive name the Object.",
+       "items": [
+        {
+         "q": "1. The sun shines brightly.",
+         "a": "shines — Intransitive"
+        },
+        {
+         "q": "2. The boy cut his hand with a knife.",
+         "a": "cut — Transitive — Object: his hand"
+        },
+        {
+         "q": "3. The clock stopped this morning.",
+         "a": "stopped — Intransitive"
+        },
+        {
+         "q": "4. The policeman blew his whistle.",
+         "a": "blew — Transitive — Object: his whistle"
+        },
+        {
+         "q": "5. The sun rises in the east.",
+         "a": "rises — Intransitive"
+        },
+        {
+         "q": "6. An old beggar stood by the gate.",
+         "a": "stood — Intransitive"
+        },
+        {
+         "q": "7. The clock ticks all day long.",
+         "a": "ticks — Intransitive"
+        },
+        {
+         "q": "8. I looked down from my window.",
+         "a": "looked — Intransitive"
+        },
+        {
+         "q": "9. Put away your books.",
+         "a": "put — Transitive — Object: your books"
+        },
+        {
+         "q": "10. The moon rose early.",
+         "a": "rose — Intransitive"
+        },
+        {
+         "q": "11. The cat sleeps on the rug.",
+         "a": "sleeps — Intransitive"
+        },
+        {
+         "q": "12. Cocks crow in the morning.",
+         "a": "crow — Intransitive"
+        },
+        {
+         "q": "13. Your book lies on the table.",
+         "a": "lies — Intransitive"
+        },
+        {
+         "q": "14. The fire burns dimly.",
+         "a": "burns — Intransitive"
+        },
+        {
+         "q": "15. Time changes all things.",
+         "a": "changes — Transitive — Object: all things"
+        },
+        {
+         "q": "16. We eat three times a day.",
+         "a": "eat — Intransitive"
+        },
+        {
+         "q": "17. Tell the truth.",
+         "a": "tell — Transitive — Object: the truth"
+        },
+        {
+         "q": "18. The birds sing in the green trees.",
+         "a": "sing — Intransitive"
+        },
+        {
+         "q": "19. The little bird hopped about and sang.",
+         "a": "hopped, sang — Intransitive"
+        },
+        {
+         "q": "20. My new watch does not keep good time.",
+         "a": "does (not) keep — Transitive — Object: good time"
+        },
+        {
+         "q": "21. The beggar sat down by the side of the road.",
+         "a": "sat — Intransitive"
+        },
+        {
+         "q": "22. I could not spare the time.",
+         "a": "could (not) spare — Transitive — Object: the time"
+        },
+        {
+         "q": "23. He took shelter under a tree.",
+         "a": "took — Transitive — Object: shelter"
+        },
+        {
+         "q": "24. The boy easily lifted the heavy weight.",
+         "a": "lifted — Transitive — Object: the heavy weight"
+        },
+        {
+         "q": "25. Balu wrote a letter to his uncle.",
+         "a": "wrote — Transitive — Object: a letter"
+        },
+        {
+         "q": "26. A tiny bird lived under the caves.",
+         "a": "lived — Intransitive"
+        },
+        {
+         "q": "27. I know a funny little man.",
+         "a": "know — Transitive — Object: a funny little man"
+        },
+        {
+         "q": "28. Birds fly in the air.",
+         "a": "fly — Intransitive"
+        },
+        {
+         "q": "29. A light rain fell last night.",
+         "a": "fell — Intransitive"
+        },
+        {
+         "q": "30. I shall bring my camera with me.",
+         "a": "shall bring — Transitive — Object: my camera"
+        },
+        {
+         "q": "31. You speak too loudly.",
+         "a": "speak — Intransitive"
+        },
+        {
+         "q": "32. The dog ran after me.",
+         "a": "ran — Intransitive"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 37",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 37 — from the book (Wren & Martin, Chapter 20). Write five sentences containing Transitive Verbs, and five containing Intransitive Verbs. (The Key's sample sentences are too blurred to read, so these model sentences are made from the rules of this chapter; any correct sentences of your own will do.)",
+       "items": [
+        {
+         "q": "Write five sentences containing Transitive Verbs.",
+         "a": "1. The boy kicks the football.\n2. Sita reads a book.\n3. The teacher praised Rama.\n4. The cat caught the mouse.\n5. I wrote a letter to my friend."
+        },
+        {
+         "q": "Write five sentences containing Intransitive Verbs.",
+         "a": "1. The baby sleeps.\n2. Birds fly in the air.\n3. The sun rises in the east.\n4. The little girl laughs loudly.\n5. The old man walks slowly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Intransitive Verbs used as transitives",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §186)",
+       "items": [
+        {
+         "q": "When does an intransitive verb become transitive?",
+         "a": "When an Intransitive Verb is used in a causative sense it becomes Transitive."
+        },
+        {
+         "q": "Give examples of intransitive verbs used in a causative sense.",
+         "a": "1. The horse walks. — He walks the horse.\n2. The girl ran down the street. — The girl ran a needle into her finger (ran a needle = caused a needle to run).\n3. Birds fly. — The boys fly their kites (i.e., cause their kites to fly)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Transitive and Intransitive by spelling",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §187)",
+       "items": [
+        {
+         "q": "How are some transitive and intransitive verbs distinguished by spelling?",
+         "a": "A few verbs in common use are distinguished as Transitive or Intransitive by their spelling, the Transitive being causative forms of the corresponding Intransitive verbs."
+        },
+        {
+         "q": "Give the transitive (causative) forms of fall, lie, rise, sit.",
+         "a": "Intransitive — Transitive:\n1. Many trees fall in the monsoon. — Woodmen fell trees. (Fell = cause to fall)\n2. Lie still. — Lay the basket there. (Lay = cause to lie)\n3. Rise early with the lark. — Raise your hands. (Raise = cause to rise)\n4. Sit there. — Set the lamp on the table. (Set = cause to sit)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Intransitive verbs with a preposition",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §188)",
+       "items": [
+        {
+         "q": "How may some intransitive verbs become transitive?",
+         "a": "Some Intransitive Verbs may become Transitive by having a Preposition added to them; as,\nAll his friends laughed at (= derided) him.\nHe will soon run through (= consume) his fortune.\nPlease look into (= investigate) the matter carefully.\nWe talked about (= discussed) the affair several times.\nI wish for (= desire) nothing more.\nThe Police Inspector asked for (= demanded) his name."
+        },
+        {
+         "q": "Give examples where the preposition is prefixed to the verb.",
+         "a": "Shivaji overcame the enemy.\nHe bravely withstood the attack.\nThe river overflows its banks."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Cognate Object",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §189)",
+       "items": [
+        {
+         "q": "What is a Cognate Object?",
+         "a": "Intransitive Verbs sometimes take after them an Object akin or similar in meaning to the Verb. Such an Object is called the Cognate Object or Cognate Accusative. (Latin Cognatus, akin)"
+        },
+        {
+         "q": "Give examples of the Cognate Object.",
+         "a": "I have fought a good fight.\nHe laughed a hearty laugh.\nI dreamt a strange dream.\nHe sleeps the sleep of the just.\nLet me die the death of the righteous.\nShe sighed a deep sigh.\nShe sang a sweet song. He ran a race.\nAurangzeb lived the life of an ascetic.\nThe noun used as a Cognate Object is in the Accusative Case."
+        },
+        {
+         "q": "Give examples of partially Cognate Objects.",
+         "a": "He ran a great risk (= he ran a course of great risk).\nThe children shouted applause (= the children shouted a shout of applause)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Adverbial Object",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §190)",
+       "items": [
+        {
+         "q": "What is an Adverbial Object?",
+         "a": "A noun used adverbially to modify a verb, an adjective, or an adverb denoting time, place, distance, weight, value etc., is called an Adverbial Object or Adverbial Accusative, and is said to be in the Accusative Case adverbially; as,\nHe held the post ten years.\nI can’t wait a moment longer.\nHe went home.\nHe swam a mile.\nHe weighs seven stone.\nThe watch cost nine hundred rupees."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Transitive verbs used as intransitives",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 20, §191)",
+       "items": [
+        {
+         "q": "Give examples of transitive verbs sometimes used as intransitive verbs.",
+         "a": "Transitive — Intransitive:\n1. He broke the glass. — The glass broke.\n2. He burnt his fingers. — He burnt with shame.\n3. Stop him from going. — We shall stop here a few days.\n4. Open all the windows. — The show opens at six o’clock."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "verb",
+     "sd": "فعل",
+     "syn": "a word that tells or asserts something about a person or thing"
+    },
+    {
+     "w": "transitive verb",
+     "sd": "فعل متعدي",
+     "syn": "a verb whose action passes over from the doer to an object"
+    },
+    {
+     "w": "intransitive verb",
+     "sd": "فعل لازم",
+     "syn": "a verb whose action does not pass over to an object"
+    },
+    {
+     "w": "object",
+     "sd": "مفعول",
+     "syn": "the noun or pronoun that receives the action of a verb"
+    },
+    {
+     "w": "direct object",
+     "sd": "مفعول سڌو",
+     "syn": "the object that is usually the name of a thing"
+    },
+    {
+     "w": "indirect object",
+     "sd": "مفعول اڻ سڌو",
+     "syn": "the object that denotes the person to whom something is given"
+    },
+    {
+     "w": "reflexive",
+     "sd": "واپسي وارو",
+     "syn": "when the subject and the object refer to the same person"
+    },
+    {
+     "w": "causative",
+     "sd": "سببي",
+     "syn": "used in the sense of causing something to happen"
+    },
+    {
+     "w": "cognate object",
+     "sd": "هم معنيٰ مفعول",
+     "syn": "an object akin or similar in meaning to the verb"
+    },
+    {
+     "w": "adverbial object",
+     "sd": "ظرفي مفعول",
+     "syn": "a noun used adverbially to show time, place, distance, weight or value"
+    }
+   ]
+  },
+  {
+   "unit": 21,
+   "title": "Verbs of Incomplete Predication",
+   "display": "Verbs of Incomplete Predication",
+   "reading": "Verbs of Incomplete Predication",
+   "sections": [
+    {
+     "name": "What is a Verb of Incomplete Predication?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 21, §192)",
+       "items": [
+        {
+         "q": "Read these sentences: (1) The baby sleeps. (2) The baby seems happy. How are the two verbs different?",
+         "a": "The verbs in both these sentences are Intransitive.\nBut when I say ‘The baby sleeps’ I do make complete sense.\nOn the other hand if I say ‘The baby seems’ I do not make complete sense.\nThe Intransitive Verb seems requires a word (e.g., happy) to make the sense complete. Such a verb is called a Verb of Incomplete Predication."
+        },
+        {
+         "q": "What is the Complement of a Verb?",
+         "a": "The word happy, which is required to make the sense complete, is called the Complement of the Verb or the Completion of the Predicate."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Subjective Complement",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 21, §193)",
+       "items": [
+        {
+         "q": "What do Verbs of Incomplete Predication usually express? What does the Complement usually consist of?",
+         "a": "Verbs of Incomplete Predication usually express the idea of being, becoming, seeming, appearing. The Complement usually consists of a Noun (called a Predicative Noun) or an Adjective (called a Predicative Adjective). When the Complement describes the Subject, as in the following sentences, it is called a Subjective Complement."
+        },
+        {
+         "q": "Give examples of the Subjective Complement.",
+         "a": "1. Tabby is a cat. 2. The earth is round.\n3. John became a soldier. 4. Mr. Mehta became mayor.\n5. The man seems tired. 6. You look happy.\n7. The sky grew dark. 8. Roses smell sweet.\n9. Sugar tastes sweet. 10. She appears pleased.\n11. This house is to let."
+        },
+        {
+         "q": "What case is a Noun used as a Subjective Complement in?",
+         "a": "Note—When the Subjective Complement is a Noun (as in 1, 3, 4) it is in the same case as the Subject, i.e., in the Nominative Case."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Objective Complement",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 21, §194)",
+       "items": [
+        {
+         "q": "Which transitive verbs also need a Complement?",
+         "a": "Certain Transitive Verbs require, besides an Object, a Complement to complete their predication; as,\n1. The boys made Rama captain. 6. Exercise has made his muscles strong.\n2. His parents named him Hari. 7. I consider the man trustworthy.\n3. This made him vain. 8. God called the light day.\n4. The jury found him guilty. 9. We thought him a rascal.\n5. Rama called his cousin a liar. 10. They chose him their leader."
+        },
+        {
+         "q": "What is an Objective Complement?",
+         "a": "Here, in each case, the Complement describes the Object, and is, therefore, called an Objective Complement."
+        },
+        {
+         "q": "What case is a Noun used as an Objective Complement in?",
+         "a": "Note—When the Objective Complement is a noun (as in 1, 2, 5, 8, 9, 10) it is in the Objective (or Accusative) Case in agreement with the object."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 38",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 38 — from the book (Wren & Martin, Chapter 21). Say whether the Verbs in the following sentences are Transitive or Intransitive, name the Object of each Transitive Verb, and the Complement of each Verb of Incomplete Predication.",
+       "items": [
+        {
+         "q": "1. The hungry lion roars.",
+         "a": "roars — Intransitive"
+        },
+        {
+         "q": "2. The report proved false.",
+         "a": "proved — Intransitive — Complement: false"
+        },
+        {
+         "q": "3. The boy stood on the burning deck.",
+         "a": "stood — Intransitive"
+        },
+        {
+         "q": "4. The child had fallen sick.",
+         "a": "had fallen — Intransitive — Complement: sick"
+        },
+        {
+         "q": "5. The ass continued braying.",
+         "a": "continued — Transitive — Object: braying"
+        },
+        {
+         "q": "6. The wind is cold.",
+         "a": "is — Intransitive — Complement: cold"
+        },
+        {
+         "q": "7. The results are out.",
+         "a": "are — Intransitive — Complement: out"
+        },
+        {
+         "q": "8. He tried again and again.",
+         "a": "tried — Intransitive"
+        },
+        {
+         "q": "9. We see with our eyes.",
+         "a": "see — Intransitive"
+        },
+        {
+         "q": "10. The child fell asleep.",
+         "a": "fell — Intransitive — Complement: asleep"
+        },
+        {
+         "q": "11. The weather is hot.",
+         "a": "is — Intransitive — Complement: hot"
+        },
+        {
+         "q": "12. They are Europeans.",
+         "a": "are — Intransitive — Complement: Europeans"
+        },
+        {
+         "q": "13. The rumour seems true.",
+         "a": "seems — Intransitive — Complement: true"
+        },
+        {
+         "q": "14. Owls hide in the daytime.",
+         "a": "hide — Intransitive"
+        },
+        {
+         "q": "15. Bad boys hide their faults.",
+         "a": "hide — Transitive — Object: their faults"
+        },
+        {
+         "q": "16. The poor woman went mad.",
+         "a": "went — Intransitive — Complement: mad"
+        },
+        {
+         "q": "17. We waited patiently at the station.",
+         "a": "waited — Intransitive"
+        },
+        {
+         "q": "18. He told a lie.",
+         "a": "told — Transitive — Object: a lie"
+        },
+        {
+         "q": "19. They elected him president.",
+         "a": "elected — Transitive — Object: him — Complement: president"
+        },
+        {
+         "q": "20. I found her weeping.",
+         "a": "found — Transitive — Object: her — Complement: weeping"
+        },
+        {
+         "q": "21. He struck the man dead.",
+         "a": "struck — Transitive — Object: the man — Complement: dead"
+        },
+        {
+         "q": "22. The crow flew down and stole the cheese.",
+         "a": "flew — Intransitive; stole — Transitive — Object: the cheese"
+        },
+        {
+         "q": "23. The sky looks threatening.",
+         "a": "looks — Intransitive — Complement: threatening"
+        },
+        {
+         "q": "24. They made him general.",
+         "a": "made — Transitive — Object: him — Complement: general"
+        },
+        {
+         "q": "25. He waited an hour.",
+         "a": "waited — Intransitive"
+        },
+        {
+         "q": "26. New brooms sweep clean.",
+         "a": "sweep — Intransitive — Complement: clean"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "predication",
+     "sd": "خبر ڏيڻ",
+     "syn": "saying or asserting something about a subject"
+    },
+    {
+     "w": "complement",
+     "sd": "مڪمل ڪندڙ",
+     "syn": "a word needed to complete the sense of a verb"
+    },
+    {
+     "w": "subjective complement",
+     "sd": "فاعلي مڪمل ڪندڙ",
+     "syn": "a complement that describes the subject"
+    },
+    {
+     "w": "objective complement",
+     "sd": "مفعولي مڪمل ڪندڙ",
+     "syn": "a complement that describes the object"
+    },
+    {
+     "w": "predicative noun",
+     "sd": "خبري اسم",
+     "syn": "a noun used as the complement of a verb"
+    },
+    {
+     "w": "predicative adjective",
+     "sd": "خبري صفت",
+     "syn": "an adjective used as the complement of a verb"
+    },
+    {
+     "w": "nominative case",
+     "sd": "فاعلي حالت",
+     "syn": "the case of the subject of a verb"
+    },
+    {
+     "w": "accusative case",
+     "sd": "مفعولي حالت",
+     "syn": "the case of the object of a verb"
+    }
+   ]
+  },
+  {
+   "unit": 22,
+   "title": "Active and Passive Voice",
+   "display": "Active and Passive Voice",
+   "reading": "Active and Passive Voice",
+   "sections": [
+    {
+     "name": "Active and Passive Voice",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 22, §195)",
+       "items": [
+        {
+         "q": "Compare: (1) Rama helps Hari. (2) Hari is helped by Rama. What is the difference?",
+         "a": "It will be seen that these two sentences express the same meaning.\nBut in sentence 1, the form of the Verb shows that the person denoted by the subject does something. Rama (the person denoted by the subject) does something. The Verb helps is said to be in the Active Voice.\nIn sentence 2, the form of the Verb shows that something is done to the person denoted by the Subject. Something is done to Hari (the person denoted by the Subject.) The Verb helped is said to be in the Passive Voice."
+        },
+        {
+         "q": "What is the Active Voice?",
+         "a": "Def.—A verb is in the Active Voice when its form shows (as in sentence 1) that the person or thing denoted by the Subject does something; or, in other words, is the doer of the action.\nThe Active Voice is so called because the person denoted by the Subject acts."
+        },
+        {
+         "q": "What is the Passive Voice?",
+         "a": "Def.—A Verb is in the Passive Voice when its form shows (as in sentence 2) that something is done to the person or thing denoted by the Subject.\nThe Passive Voice is so called because the person or thing denoted by the Subject is not active but passive, that is, suffers or receives some action."
+        },
+        {
+         "q": "What is Voice?",
+         "a": "Def.—Voice is that form of a Verb which shows whether what is denoted by the Subject does something or has something done to it."
+        },
+        {
+         "q": "Show the change from the Active Voice to the Passive Voice.",
+         "a": "Active Voice — Passive Voice:\n1. Sita loves Savitri. — Savitri is loved by Sita.\n2. The mason is building the wall. — The wall is being built by the mason.\n3. The peon opened the gate. — The gate was opened by the peon.\n4. Some boys were helping the wounded man. — The wounded man was being helped by some boys.\n5. He will finish the work in a fortnight. — The work will be finished by him in a fortnight.\n6. Who did this? — By whom was this done?\n7. Why did your brother write such a letter? — Why was such a letter written by your brother?"
+        },
+        {
+         "q": "What happens to the Object when a verb changes from Active to Passive?",
+         "a": "It will be noticed that when the Verb is changed from the Active Voice to the Passive Voice, the Object of the Transitive Verb in the Active Voice becomes the Subject of the Verb in the Passive Voice.\n[Thus in sentence 1, Savitri, which is the object of loves in the Active Voice, becomes the Subject of is loved in the Passive Voice.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "How the Passive Voice is formed",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 22, §196)",
+       "items": [
+        {
+         "q": "Which verbs can be used in the Passive Voice?",
+         "a": "Since the Object of a verb in the active voice becomes the Subject of the passive form, it follows that only Transitive Verbs can be used in the Passive Voice, because an Intransitive Verb has no Object."
+        },
+        {
+         "q": "How is the Passive Voice formed? Give the table for the verb 'take'.",
+         "a": "The passive voice is formed with the suitable tense of the verb be followed by the past participle. Study this table.\nTense (or Modal + base) — Active Voice — Passive Voice:\nSimple present — take, takes — am taken, is taken, are taken\nPresent continuous — am taking, is taking, are taking — am being taken, is being taken, are being taken\nPresent perfect — has taken, have taken — has been taken, have been taken\nSimple past — took — was taken, were taken\nPast continuous — was taking, were taking — was being taken, were being taken\nPast perfect — had taken — had been taken\nSimple future — will take, shall take — will be taken, shall be taken\ncan/may/must, etc. + base — can take, must take — can be taken, must be taken"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "When to use the Active and when the Passive",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 22, §197)",
+       "items": [
+        {
+         "q": "When is the Active Voice used, and when the Passive?",
+         "a": "The Active Voice is used when the agent (i.e., doer of the action) is to be made prominent; the Passive, when the person or thing acted upon is to be made prominent. The Passive is, therefore, generally preferred when the active form would involve the use of an indefinite or vague pronoun or noun (somebody, they, people, we, etc.) as subject; that is, when we do not know the agent or when it is clear enough who the agent is."
+        },
+        {
+         "q": "Give examples where the Passive is preferred.",
+         "a": "My pen has been stolen. (Somebody has stolen my pen.)\nI was asked my name. (They asked me my name.)\nEnglish is spoken all over the world. (People speak English all over the world.)\nI have been invited to the party. (Someone has invited me to the party.)\nAll orders will be executed promptly. (We will execute all orders promptly.)\nIn such cases the agent with by is usually avoided."
+        },
+        {
+         "q": "When can the by-phrase not be avoided?",
+         "a": "Note, however, that, as in the examples given earlier, the by-phrase cannot be avoided where the agent has some importance and is necessary to complete the sense."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Verbs with two objects in the Passive",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 22, §198)",
+       "items": [
+        {
+         "q": "When a verb with two objects is changed to the Passive, which object becomes the subject?",
+         "a": "When verbs that take both a direct and an indirect object in the Active Voice are changed to the Passive, either object may become the subject of the Passive verb, while the other is retained."
+        },
+        {
+         "q": "Give examples of verbs with two objects changed to the Passive.",
+         "a": "Active — Passive:\nThe guard refused him admittance. — Admittance was refused to him by the guard. / He was refused admittance by the guard.\nMr. Krishnaji teaches us grammar. — Grammar is taught to us by Mr Krishnaji. / We are taught grammar by Mr Krishnaji.\nThe manager will give you a ticket. — A ticket will be given to you by the manager. / You will be given a ticket by the manager.\nWho taught you French? — By whom was French taught to you? / Who were you taught French by? / By whom were you taught French?\nHe handed her a cheque. — A cheque was handed to her. / She was handed a cheque."
+        },
+        {
+         "q": "Which object usually becomes the subject in the Passive?",
+         "a": "An indirect object denotes the person to whom or for whom something is given or done, while a direct object usually denotes a thing. In cases like the above, it is probably more usual for passive constructions to begin with the person."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'With' and 'by' in the Passive",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 22, §199)",
+       "items": [
+        {
+         "q": "Do we use 'with' or 'by' for the instrument in the Passive?",
+         "a": "Note that we use with (not by) to talk about an instrument used by the agent. Compare:\nThe dog was hit with a stick. (Active Voice: Somebody hit the dog with a stick.)\nThe dog was hit by a boy. (Active Voice: A boy hit the dog.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Active form, Passive sense",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 22, §200)",
+       "items": [
+        {
+         "q": "Give examples of transitive verbs used in an active form but in a passive sense.",
+         "a": "These mangoes taste sour (i.e., are sour when they are tasted).\nThe rose smells sweet (i.e., is sweet when it is smelt).\nThe cakes eat short and crisp (i.e., are short and crisp when they are eaten).\nAt least the play reads well (i.e., affects the reader well when it is read)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 39",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 39 — from the book (Wren & Martin, Chapter 22). Name the Verbs in the following sentences, and tell whether they are in the Active or in the Passive Voice.",
+       "items": [
+        {
+         "q": "1. The cat killed the mouse.",
+         "a": "killed — Active"
+        },
+        {
+         "q": "2. We compelled the enemy to surrender.",
+         "a": "compelled — Active"
+        },
+        {
+         "q": "3. The boy was bitten by a dog.",
+         "a": "was bitten — Passive"
+        },
+        {
+         "q": "4. The thief was caught.",
+         "a": "was caught — Passive"
+        },
+        {
+         "q": "5. The boy made a kite.",
+         "a": "made — Active"
+        },
+        {
+         "q": "6. The ship was burned.",
+         "a": "was burned — Passive"
+        },
+        {
+         "q": "7. The young man made a disturbance at the meeting.",
+         "a": "made — Active"
+        },
+        {
+         "q": "8. The captive was bound to a tree.",
+         "a": "was bound — Passive"
+        },
+        {
+         "q": "9. The bird was killed by a cruel boy.",
+         "a": "was killed — Passive"
+        },
+        {
+         "q": "10. The sudden noise frightened the horse.",
+         "a": "frightened — Active"
+        },
+        {
+         "q": "11. He is loved by all.",
+         "a": "is loved — Passive"
+        },
+        {
+         "q": "12. The exhibition was opened by the Governor.",
+         "a": "was opened — Passive"
+        },
+        {
+         "q": "13. I see a dark cloud.",
+         "a": "see — Active"
+        },
+        {
+         "q": "14. His command was promptly obeyed.",
+         "a": "was obeyed — Passive"
+        },
+        {
+         "q": "15. Some of the cargo had been damaged by the sea water.",
+         "a": "had been damaged — Passive"
+        },
+        {
+         "q": "16. Nothing will be gained by hurry.",
+         "a": "will be gained — Passive"
+        },
+        {
+         "q": "17. The dog chased the sheep.",
+         "a": "chased — Active"
+        },
+        {
+         "q": "18. This letter was posted last night.",
+         "a": "was posted — Passive"
+        },
+        {
+         "q": "19. The field is ploughed.",
+         "a": "is ploughed — Passive"
+        },
+        {
+         "q": "20. The dog was teased by the boy.",
+         "a": "was teased — Passive"
+        },
+        {
+         "q": "21. The cat drank all the milk.",
+         "a": "drank — Active"
+        },
+        {
+         "q": "22. A stone struck me on the head.",
+         "a": "struck — Active"
+        },
+        {
+         "q": "23. The old gentleman takes snuff.",
+         "a": "takes — Active"
+        },
+        {
+         "q": "24. The money was lost.",
+         "a": "was lost — Passive"
+        },
+        {
+         "q": "25. The letter has just been posted.",
+         "a": "has been posted — Passive"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 40",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 40 — from the book (Wren & Martin, Chapter 22). Turn the following sentences from the Active Voice to the Passive Voice. (Note—The agent with by should be omitted in Nos. 7, 12, 25, 29, 30, 31, 32, 33, 34 and 35.)",
+       "items": [
+        {
+         "q": "1. The cat killed the mouse.",
+         "a": "The mouse was killed by the cat."
+        },
+        {
+         "q": "2. The man cut down the tree.",
+         "a": "The tree was cut down by the man."
+        },
+        {
+         "q": "3. Columbus discovered America.",
+         "a": "America was discovered by Columbus."
+        },
+        {
+         "q": "4. His teacher praised him.",
+         "a": "He was praised by his teacher."
+        },
+        {
+         "q": "5. The boy teased the dog.",
+         "a": "The dog was teased by the boy."
+        },
+        {
+         "q": "6. The syce feeds the horse every day.",
+         "a": "The horse is fed by the syce every day."
+        },
+        {
+         "q": "7. The police arrested him.",
+         "a": "He was arrested."
+        },
+        {
+         "q": "8. Rama was making a kite.",
+         "a": "A kite was being made by Rama."
+        },
+        {
+         "q": "9. The boy caught the ball.",
+         "a": "The ball was caught by the boy."
+        },
+        {
+         "q": "10. My father will write a letter.",
+         "a": "A letter will be written by my father."
+        },
+        {
+         "q": "11. I will conquer him.",
+         "a": "He will be conquered (by me)."
+        },
+        {
+         "q": "12. He kept me waiting.",
+         "a": "I was kept waiting."
+        },
+        {
+         "q": "13. The hunter shot the lion.",
+         "a": "The lion was shot by the hunter."
+        },
+        {
+         "q": "14. Hari opened the door.",
+         "a": "The door was opened by Hari."
+        },
+        {
+         "q": "15. A policeman caught the thief.",
+         "a": "The thief was caught by a policeman."
+        },
+        {
+         "q": "16. Sohrab threw the ball.",
+         "a": "The ball was thrown by Sohrab."
+        },
+        {
+         "q": "17. He scored twenty runs.",
+         "a": "Twenty runs were scored by him."
+        },
+        {
+         "q": "18. Your behaviour vexes me.",
+         "a": "I am vexed by your behaviour."
+        },
+        {
+         "q": "19. Manners reveal character.",
+         "a": "Character is revealed by manners."
+        },
+        {
+         "q": "20. He made a very remarkable discovery.",
+         "a": "A very remarkable discovery was made by him."
+        },
+        {
+         "q": "21. Little strokes fell great oaks.",
+         "a": "Great oaks are felled by little strokes."
+        },
+        {
+         "q": "22. Dhondu will bring the pony.",
+         "a": "The pony will be brought by Dhondu."
+        },
+        {
+         "q": "23. Everyone loves him.",
+         "a": "He is loved by everyone."
+        },
+        {
+         "q": "24. My cousin has drawn this picture.",
+         "a": "This picture has been drawn by my cousin."
+        },
+        {
+         "q": "25. We expect good news.",
+         "a": "Good news is expected."
+        },
+        {
+         "q": "26. The farmer gathers the harvest.",
+         "a": "The harvest is gathered by the farmer."
+        },
+        {
+         "q": "27. His own brother swindled him.",
+         "a": "He was swindled by his own brother."
+        },
+        {
+         "q": "28. The recitation pleased the inspector.",
+         "a": "The inspector was pleased by the recitation."
+        },
+        {
+         "q": "29. Somebody has put out the light.",
+         "a": "The light has been put out."
+        },
+        {
+         "q": "30. The enemy have defeated our army.",
+         "a": "Our army has been defeated by the enemy."
+        },
+        {
+         "q": "31. They sell TVs here.",
+         "a": "TVs are sold here."
+        },
+        {
+         "q": "32. I have sold my bicycle.",
+         "a": "My bicycle has been sold."
+        },
+        {
+         "q": "33. People will soon forget it.",
+         "a": "It will soon be forgotten."
+        },
+        {
+         "q": "34. They opened the theatre only last month.",
+         "a": "The theatre was opened only last month."
+        },
+        {
+         "q": "35. We prohibit smoking.",
+         "a": "Smoking is prohibited."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 41",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 41 — from the book (Wren & Martin, Chapter 22). Change the following sentences so that the Verbs will be in the Passive Voice.",
+       "items": [
+        {
+         "q": "1. We saw you and him.",
+         "a": "You and he were seen by us."
+        },
+        {
+         "q": "2. They asked me my name.",
+         "a": "I was asked my name by them."
+        },
+        {
+         "q": "3. We refused them admission.",
+         "a": "They were refused admission (by us)."
+        },
+        {
+         "q": "4. I bought the baby a doll.",
+         "a": "A doll was bought for the baby by me."
+        },
+        {
+         "q": "5. They found him guilty of murder.",
+         "a": "He was found guilty of murder by them."
+        },
+        {
+         "q": "6. A thunderstorm often turns milk sour.",
+         "a": "Milk is often turned sour by a thunderstorm."
+        },
+        {
+         "q": "7. You cannot pump the ocean dry.",
+         "a": "The ocean cannot be pumped dry (by you)."
+        },
+        {
+         "q": "8. They saw the storm approaching.",
+         "a": "The storm was seen approaching by them."
+        },
+        {
+         "q": "9. He keeps me waiting.",
+         "a": "I am kept waiting by him."
+        },
+        {
+         "q": "10. They painted the house red.",
+         "a": "The house was painted red by them."
+        },
+        {
+         "q": "11. He told me to leave the room.",
+         "a": "I was told to leave the room by him."
+        },
+        {
+         "q": "12. He promised me a present.",
+         "a": "I was promised a present by him. (or: A present was promised to me by him.)"
+        },
+        {
+         "q": "13. I shall order the carriage.",
+         "a": "The carriage will be ordered by me."
+        },
+        {
+         "q": "14. The boy is climbing the cliff.",
+         "a": "The cliff is being climbed by the boy."
+        },
+        {
+         "q": "15. One may accomplish many things by a little effort.",
+         "a": "Many things may be accomplished by a little effort."
+        },
+        {
+         "q": "16. I am watching you very carefully.",
+         "a": "You are being watched very carefully by me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 42",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 42 — from the book (Wren & Martin, Chapter 22). Rewrite the following sentences so that the Verbs will be in the Active Voice.",
+       "items": [
+        {
+         "q": "1. He was praised by his father.",
+         "a": "His father praised him."
+        },
+        {
+         "q": "2. The first railway was built by George Stephenson.",
+         "a": "George Stephenson built the first railway."
+        },
+        {
+         "q": "3. The horse was frightened by the noise.",
+         "a": "The noise frightened the horse."
+        },
+        {
+         "q": "4. Not a word was spoken by Latif.",
+         "a": "Latif spoke not a word."
+        },
+        {
+         "q": "5. The teacher was pleased with the boy’s work.",
+         "a": "The boy’s work pleased the teacher."
+        },
+        {
+         "q": "6. He was taken to the hospital by his friends.",
+         "a": "His friends took him to the hospital."
+        },
+        {
+         "q": "7. The town was destroyed by an earthquake.",
+         "a": "An earthquake destroyed the town."
+        },
+        {
+         "q": "8. The road was lined with people.",
+         "a": "People lined the road."
+        },
+        {
+         "q": "9. The President was welcomed by the people.",
+         "a": "The people welcomed the President."
+        },
+        {
+         "q": "10. Shakuntalam was written by Kalidas.",
+         "a": "Kalidas wrote Shakuntalam."
+        },
+        {
+         "q": "11. The building was damaged by the fire.",
+         "a": "The fire damaged the building."
+        },
+        {
+         "q": "12. I was struck by his singular appearance.",
+         "a": "His singular appearance struck me."
+        },
+        {
+         "q": "13. Those cars were built by robots.",
+         "a": "Robots built those cars."
+        },
+        {
+         "q": "14. The streets were thronged with spectators.",
+         "a": "Spectators thronged the streets."
+        },
+        {
+         "q": "15. The trees were blown down by the wind.",
+         "a": "The wind blew down the trees."
+        },
+        {
+         "q": "16. We shall be blamed by everyone.",
+         "a": "Everyone will blame us."
+        },
+        {
+         "q": "17. The child was knocked down by a car.",
+         "a": "A car knocked down the child."
+        },
+        {
+         "q": "18. Alice was not much surprised at this.",
+         "a": "This did not much surprise Alice."
+        },
+        {
+         "q": "19. He will be greatly surprised if he is chosen.",
+         "a": "It will greatly surprise him if he is chosen."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 43",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 43 — from the book (Wren & Martin, Chapter 22). Write three sentences with the Verbs in the Active Voice, and rewrite them with the Verbs in the Passive Voice. (The Key's model sentences are given below.)",
+       "items": [
+        {
+         "q": "Write three sentences in the Active Voice and rewrite them in the Passive Voice.",
+         "a": "Active Voice:\nEveryone praised the boy.\nColumbus discovered America.\nSomeone has stolen my purse.\nPassive Voice:\nThe boy was praised by everyone.\nAmerica was discovered by Columbus.\nMy purse has been stolen."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Further examples of Active and Passive",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 22, §201)",
+       "items": [
+        {
+         "q": "Give further examples of the interchange of Active and Passive Voice.",
+         "a": "Active — All his friends laughed at him. Passive — He was laughed at by all his friends.\nActive — They made him king. Passive — He was made king.\nActive — They use video for teaching the students. Passive — Video is used for teaching the students.\nActive — One should keep one’s promises. Passive — Promises should be kept.\nActive — When will you return the book? Passive — When will the book be returned?\nActive — Someone has picked my pocket. Passive — My pocket has been picked.\nActive — Circumstances will oblige me to go. Passive — I shall be obliged to go."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 44",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 44 — from the book (Wren & Martin, Chapter 22). In the following sentences change the Voice.",
+       "items": [
+        {
+         "q": "1. We elected Balu captain.",
+         "a": "Balu was elected captain (by us)."
+        },
+        {
+         "q": "2. I saw him opening the box.",
+         "a": "He was seen opening the box (by me)."
+        },
+        {
+         "q": "3. We must listen to his words.",
+         "a": "His words must be listened to (by us)."
+        },
+        {
+         "q": "4. Shall I ever forget those happy days?",
+         "a": "Will those happy days ever be forgotten (by me)?"
+        },
+        {
+         "q": "5. By whom was this jug broken?",
+         "a": "Who broke this jug?"
+        },
+        {
+         "q": "6. His subordinates accused him of various offences.",
+         "a": "He was accused of various offences by his subordinates."
+        },
+        {
+         "q": "7. One cannot gather grapes from thistles.",
+         "a": "Grapes cannot be gathered from thistles."
+        },
+        {
+         "q": "8. The telegraph wires have been cut.",
+         "a": "Someone has cut off the telegraph wires."
+        },
+        {
+         "q": "9. Alas! We shall hear his voice no more.",
+         "a": "Alas! His voice will be heard no more."
+        },
+        {
+         "q": "10. The 1998 Asian Games were held in Bangkok, Thailand.",
+         "a": "They held the 1998 Asian Games in Bangkok, Thailand."
+        },
+        {
+         "q": "11. Without effort nothing can be gained.",
+         "a": "Without effort one can gain nothing."
+        },
+        {
+         "q": "12. Do not insult the weak.",
+         "a": "Let not the weak be insulted."
+        },
+        {
+         "q": "13. All desire wealth and some acquire it.",
+         "a": "Wealth is desired by all and (is) acquired by some."
+        },
+        {
+         "q": "14. Why should I be suspected by you?",
+         "a": "Why should you suspect me?"
+        },
+        {
+         "q": "15. The information is kept on our computer.",
+         "a": "We keep the information on our computer."
+        },
+        {
+         "q": "16. The legend tells us how the castle received its name.",
+         "a": "We are told by the legend how the castle received its name."
+        },
+        {
+         "q": "17. My watch was lost.",
+         "a": "I lost my watch."
+        },
+        {
+         "q": "18. Why did he defraud you of your earnings?",
+         "a": "Why were you defrauded of your earnings by him?"
+        },
+        {
+         "q": "19. The public will learn with astonishment that war is imminent.",
+         "a": "It will be learnt with astonishment by the public that war is imminent."
+        },
+        {
+         "q": "20. He made his wife do the work.",
+         "a": "His wife was made to do the work (by him)."
+        },
+        {
+         "q": "21. The teacher appointed him monitor.",
+         "a": "He was appointed monitor (by the teacher)."
+        },
+        {
+         "q": "22. The doctor despaired of his recovery.",
+         "a": "His recovery was despaired of by the doctor."
+        },
+        {
+         "q": "23. He was refused admittance.",
+         "a": "They refused him admittance."
+        },
+        {
+         "q": "24. They laughed at his warnings and objected to all his proposals.",
+         "a": "His warnings were laughed at and all his proposals (were) objected to."
+        },
+        {
+         "q": "25. The people regarded him as an impostor and called him a villain.",
+         "a": "He was regarded as an impostor and called a villain (by the people)."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "voice",
+     "sd": "آواز",
+     "syn": "the form of a verb showing whether the subject does something or has something done to it"
+    },
+    {
+     "w": "active voice",
+     "sd": "فعل معروف",
+     "syn": "the verb form showing that the subject does something"
+    },
+    {
+     "w": "passive voice",
+     "sd": "فعل مجهول",
+     "syn": "the verb form showing that something is done to the subject"
+    },
+    {
+     "w": "agent",
+     "sd": "فاعل",
+     "syn": "the doer of the action"
+    },
+    {
+     "w": "past participle",
+     "sd": "اسم مفعول",
+     "syn": "the third form of the verb, as taken, loved, broken"
+    },
+    {
+     "w": "prominent",
+     "sd": "نمايان",
+     "syn": "made important or noticeable"
+    },
+    {
+     "w": "indefinite",
+     "sd": "غير معين",
+     "syn": "not definite or clear"
+    },
+    {
+     "w": "vague",
+     "sd": "اڻ واضح",
+     "syn": "not clear"
+    },
+    {
+     "w": "instrument",
+     "sd": "اوزار",
+     "syn": "the thing used to do an action, as a stick"
+    },
+    {
+     "w": "interchange",
+     "sd": "مٽا سٽا",
+     "syn": "changing one thing for another"
+    }
+   ]
+  },
+  {
+   "unit": 23,
+   "title": "Mood",
+   "display": "Mood",
+   "reading": "Mood",
+   "sections": [
+    {
+     "name": "What is Mood?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §202)",
+       "items": [
+        {
+         "q": "How may a verb be used?",
+         "a": "The simplest use of a Verb is to make a statement of fact or ask a question; as,\nI write to my brother every week.\nWho wrote that letter?\nBut a Verb may also be used to express a command; as,\nWrite neatly.\nOr a Verb may be used to express a mere supposition; as,\nIf I were you, I would not do it."
+        },
+        {
+         "q": "What are Moods?",
+         "a": "These different modes or manners in which a Verb may be used to express an action are called Moods. (Lat. modus, manner.)"
+        },
+        {
+         "q": "Give the definition of Mood.",
+         "a": "Def.—Mood is the mode or manner in which the action denoted by the Verb is represented."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The three Moods",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §203)",
+       "items": [
+        {
+         "q": "How many Moods are there in English? Name them.",
+         "a": "There are three Moods in English:\nIndicative, Imperative, Subjunctive."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Indicative Mood",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §204)",
+       "items": [
+        {
+         "q": "What is the Indicative Mood used for?",
+         "a": "The Indicative Mood is used:\n(1) To make a statement of fact; as,\nRama goes to school daily.\nWe are taught Arithmetic.\nHe writes legibly.\nNapoleon died at St. Helena.\nThe child is alive.\n(2) To ask a question; as,\nHave you found your book?\nAre you well?\nIn each of these sentences the Verb in italics is said to be in the Indicative Mood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Indicative for a supposition assumed as fact",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §205)",
+       "items": [
+        {
+         "q": "How is the Indicative Mood also used?",
+         "a": "The Indicative Mood is also used in expressing a supposition which is assumed as a fact; as,\nIf [= assuming as a fact that] I am to be a beggar, it shall never make me a rascal.\nIf it rains, I shall stay at home. [Assuming as a fact that it will rain, etc.]\nIf my friend wants it, I shall give it to him. [Assuming as a fact that my friend wants it, etc.]\nIf he is the ring-leader, he deserves to be punished. [Assuming as a fact that he is the ring-leader, etc.]"
+        },
+        {
+         "q": "When is a verb in the Indicative Mood?",
+         "a": "A Verb which makes a statement of fact or asks a question, or expresses a supposition which is assumed as a fact, is in the Indicative Mood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Imperative Mood",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §206)",
+       "items": [
+        {
+         "q": "What is the Imperative Mood used to express?",
+         "a": "The Imperative Mood is used to express—\n(1) A Command; as,\nWait there.\nCome here.\nOpen your book at page 7.\n(2) An exhortation; as,\nBe steady.\nTake care of your health.\nTry to do better.\n(3) An entreaty or prayer; as,\nHave mercy upon us.\nGive us this day our daily bread.\nIn each of these sentences the Verb in italics is said to be in the Imperative Mood."
+        },
+        {
+         "q": "When is a verb in the Imperative Mood?",
+         "a": "A Verb which expresses a command, an exhortation, an entreaty or prayer, is in the Imperative Mood."
+        },
+        {
+         "q": "Can the Imperative Mood be used in the First and Third Persons?",
+         "a": "Note 1—The Imperative mood can strictly be used only in the Second Person, since the person commanded must be the person spoken to. But in the First and Third Persons a like sense is expressed by the use of the Auxiliary Verb let; as,\nLet me go. Let us go. Let him go. Let them go."
+        },
+        {
+         "q": "What is the Subject of a verb in the Imperative Mood?",
+         "a": "Note 2—The Subject of a Verb in the Imperative Mood (you) is usually omitted."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Subjunctive Mood — its forms",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §207)",
+       "items": [
+        {
+         "q": "What are the forms of the Subjunctive?",
+         "a": "Present Subjunctive:\nthe verb ‘be’ — I be, We be, You be, He be, They be\nother verbs — I speak, We speak, You speak, He speak, They speak\nPast Subjunctive:\nthe verb ‘be’ — I were, We were, You were, He were, They were\nother verbs — I spoke, We spoke, You spoke, He spoke, They spoke"
+        },
+        {
+         "q": "Is the Subjunctive Mood common in present-day English?",
+         "a": "The Subjunctive Mood scarcely exists in present-day English."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Present Subjunctive",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §208)",
+       "items": [
+        {
+         "q": "When does the Present Subjunctive occur?",
+         "a": "The Present Subjunctive occurs\n(1) In certain traditional phrases, where it expresses a wish or hope; as,\nGod bless you!\nGod save the King!\nHeaven help us!\n(2) In formal English, in a noun clause dependent on a verb expressing desire, intention, resolution, etc.; as,\nI move that Mr Gupta be appointed Chairman.\nIt is suggested that a ring road be built to relieve the congestion.\nWe recommended that the subscription be increased to ten rupees."
+        },
+        {
+         "q": "Where does a wish like 'God bless you!' belong in this book?",
+         "a": "The book puts wishes like ‘God bless you!’ under the Present Subjunctive (§208). It lists only three Moods—Indicative, Imperative, Subjunctive—and does not list a separate Optative Mood."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Past Subjunctive",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 23, §209)",
+       "items": [
+        {
+         "q": "When is the Past Subjunctive used after 'wish'?",
+         "a": "(1) After the verb wish, to indicate a situation which is unreal or contrary to fact; as,\nI wish I knew his name. (= I’m sorry I don’t know his name.)\nI wish I were a millionaire.\nShe wishes the car belonged to you."
+        },
+        {
+         "q": "When is the Past Subjunctive used after 'if'?",
+         "a": "(2) After if, to express improbability or unreality in the present; as,\nIf I were you I should not do that (but I am not you, and never can be).\nIf we started now we would be in time (but we cannot start now)."
+        },
+        {
+         "q": "When is the Past Subjunctive used after 'as if' and 'as though'?",
+         "a": "(3) After as if/as though, to indicate unreality or improbability; as,\nHe orders me about as if I were his wife (but I am not).\nHe walks as though he were drunk (but he is not)."
+        },
+        {
+         "q": "When is the Past Subjunctive used after 'it is time' and 'would rather'?",
+         "a": "(4) After it is time + subject, to imply that it is late; as,\nIt is time we started.\n(5) After would rather + subject, to indicate preference; as,\nI would rather you went by air (= I should prefer you to go by air).\nThey would rather you paid them by cheque."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Which Mood is it?",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Practice made from the rules of this chapter — Chapter 23 has no exercise of its own in the book. Say in which Mood each verb is.",
+       "items": [
+        {
+         "q": "1. Rama goes to school daily.",
+         "a": "Indicative Mood. It makes a statement of fact."
+        },
+        {
+         "q": "2. Wait there.",
+         "a": "Imperative Mood. It expresses a command."
+        },
+        {
+         "q": "3. God bless you!",
+         "a": "Subjunctive Mood (Present Subjunctive). It expresses a wish."
+        },
+        {
+         "q": "4. Have you found your book?",
+         "a": "Indicative Mood. It asks a question."
+        },
+        {
+         "q": "5. If I were you, I would not do it.",
+         "a": "Subjunctive Mood (Past Subjunctive). It expresses a supposition contrary to fact."
+        },
+        {
+         "q": "6. Have mercy upon us.",
+         "a": "Imperative Mood. It expresses an entreaty or prayer."
+        },
+        {
+         "q": "7. I wish I were a millionaire.",
+         "a": "Subjunctive Mood (Past Subjunctive, after 'wish'). It is unreal."
+        },
+        {
+         "q": "8. It is time we started.",
+         "a": "Subjunctive Mood (Past Subjunctive, after 'it is time')."
+        },
+        {
+         "q": "9. Try to do better.",
+         "a": "Imperative Mood. It expresses an exhortation."
+        },
+        {
+         "q": "10. If it rains, I shall stay at home.",
+         "a": "Indicative Mood. The supposition is assumed as a fact."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "mood",
+     "sd": "انداز",
+     "syn": "the mode or manner in which the action of a verb is represented"
+    },
+    {
+     "w": "indicative mood",
+     "sd": "بياني انداز",
+     "syn": "the mood used to make a statement of fact or ask a question"
+    },
+    {
+     "w": "imperative mood",
+     "sd": "حڪمي انداز",
+     "syn": "the mood used to express a command, exhortation, entreaty or prayer"
+    },
+    {
+     "w": "subjunctive mood",
+     "sd": "فرضي انداز",
+     "syn": "the mood used for wishes and suppositions contrary to fact"
+    },
+    {
+     "w": "supposition",
+     "sd": "فرض",
+     "syn": "something supposed or assumed"
+    },
+    {
+     "w": "exhortation",
+     "sd": "ترغيب",
+     "syn": "earnest advice or encouragement"
+    },
+    {
+     "w": "entreaty",
+     "sd": "وينتي",
+     "syn": "a humble request"
+    },
+    {
+     "w": "contrary to fact",
+     "sd": "حقيقت جي ابتڙ",
+     "syn": "not true; opposite to what is real"
+    },
+    {
+     "w": "resolution",
+     "sd": "پڪو ارادو",
+     "syn": "a firm decision"
+    },
+    {
+     "w": "congestion",
+     "sd": "رش",
+     "syn": "crowding together, as of traffic"
+    }
+   ]
+  },
+  {
+   "unit": 24,
+   "title": "Tenses: Introduction",
+   "display": "Tenses: Introduction",
+   "reading": "Tenses: Introduction",
+   "sections": [
+    {
+     "name": "The three times",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 24, §210)",
+       "items": [
+        {
+         "q": "Read these sentences: (1) I write this letter to please you. (2) I wrote the letter in his very presence. (3) I shall write another letter tomorrow. What time does each verb refer to?",
+         "a": "In sentence 1, the Verb write refers to present time.\nIn sentence 2, the Verb wrote refers to past time.\nIn sentence 3, the Verb shall write refers to future time.\nThus a Verb may refer\n(1) to present time, (2) to past time, or (3) to future time."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Present, Past and Future Tenses",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 24, §211)",
+       "items": [
+        {
+         "q": "What is the Present Tense?",
+         "a": "A Verb that refers to present time is said to be in the Present Tense; as,\nI write. I love.\n[The word tense comes from the Latin tempus, time.]"
+        },
+        {
+         "q": "What is the Past Tense?",
+         "a": "A Verb that refers to past time is said to be in the Past Tense; as,\nI wrote. I loved."
+        },
+        {
+         "q": "What is the Future Tense?",
+         "a": "A Verb that refers to future time is said to be in the Future Tense; as,\nI shall write. I shall love."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The three main Tenses",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 24, §212)",
+       "items": [
+        {
+         "q": "How many main Tenses are there? What does the Tense of a verb show?",
+         "a": "Thus there are three main Tenses:\nThe Present, the Past, the Future.\nThe Tense of a Verb shows the time of an action or event."
+        },
+        {
+         "q": "Can a past tense refer to present time, or a present tense to future time?",
+         "a": "Note—Sometimes a past tense may refer to present time, and a present tense may express future time, as:\nI wish I knew the answer. (= I’m sorry I don’t know the answer. Past tense — Present time)\nLet’s wait till he comes. (Present tense — future tense)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The chief Tenses of 'to love'",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 24, §213)",
+       "items": [
+        {
+         "q": "Give the chief Tenses (Active Voice, Indicative Mood) of the verb 'to love'.",
+         "a": "PRESENT TENSE:\n1st Person — I love (Singular), We love (Plural)\n2nd Person — You love, You love\n3rd Person — He loves, They love\nPAST TENSE:\n1st Person — I loved, We loved\n2nd Person — You loved, You loved\n3rd Person — He loved, They loved\nFUTURE TENSE:\n1st Person — I shall/will love, We shall/will love\n2nd Person — You will love, You will love\n3rd Person — He will love, They will love"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The four forms of the Present Tense",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 24, §214)",
+       "items": [
+        {
+         "q": "What are the four forms of the Present Tense?",
+         "a": "1. I love. (Simple Present)\n2. I am loving. (Present Continuous)\n3. I have loved. (Present Perfect)\n4. I have been loving. (Present Perfect Continuous)\nThe Verbs in all of these sentences refer to the present time, and are therefore said to be in the present tense."
+        },
+        {
+         "q": "What does each Present form show?",
+         "a": "In sentence 1, however, the Verb shows that the action is mentioned simply, without anything being said about the completeness or incompleteness of the action.\nIn sentence 2, the Verb shows that the action is mentioned as incomplete or continuous, that is, as still going on.\nIn sentence 3, the Verb shows that the action is mentioned as finished, complete, or perfect, at the time of speaking.\nThe tense of the Verb in sentence 4 is said to be Present Perfect Continuous, because the verb shows that the action is going on continuously, and not completed at this present moment."
+        },
+        {
+         "q": "What does the Tense of a verb show?",
+         "a": "Thus we see that the Tense of a verb shows not only the time of an action or event, but also the state of an action referred to."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The four forms of the Past and Future Tenses",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 24, §215)",
+       "items": [
+        {
+         "q": "What are the four forms of the Past Tense?",
+         "a": "1. I loved. (Simple Past)\n2. I was loving. (Past Continuous)\n3. I had loved. (Past Perfect)\n4. I had been loving. (Past Perfect Continuous)"
+        },
+        {
+         "q": "What are the four forms of the Future Tense?",
+         "a": "1. I shall/will love. (Simple Future)\n2. I shall/will be loving. (Future Continuous)\n3. I shall/will have loved. (Future Perfect)\n4. I shall have been loving. (Future Perfect Continuous)"
+        },
+        {
+         "q": "Define Tense.",
+         "a": "We may now define Tense as that form of a Verb which shows the time and the state of an action or event."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Agreement of the verb with its subject",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 24, §216)",
+       "items": [
+        {
+         "q": "What does a verb agree with?",
+         "a": "A verb agrees with its subject in number and person. Study the verb forms of various tenses:"
+        },
+        {
+         "q": "Give the forms of the verb 'speak' in all twelve tenses.",
+         "a": "Simple Present Tense: I speak, You speak, He speaks, We speak, They speak\nPresent Continuous Tense: I am speaking, You are speaking, He is speaking, We are speaking, They are speaking\nPresent Perfect Tense: I have spoken, You have spoken, He has spoken, We have spoken, They have spoken\nPresent Perfect Continuous Tense: I have been speaking, You have been speaking, He has been speaking, We have been speaking, They have been speaking\nSimple Past Tense: I spoke, You spoke, He spoke, We spoke, They spoke\nPast Continuous Tense: I was speaking, You were speaking, He was speaking, We were speaking, They were speaking\nPast Perfect Tense: I had spoken, You had spoken, He had spoken, We had spoken, They had spoken\nPast Perfect Continuous Tense: I had been speaking, You had been speaking, He had been speaking, We had been speaking, They had been speaking\nSimple Future Tense: I shall/will speak, You will speak, He will speak, We shall/will speak, They will speak\nFuture Continuous Tense: I shall/will be speaking, You will be speaking, He will be speaking, We shall/will be speaking, They will be speaking\nFuture Perfect Tense: I shall/will have spoken, You will have spoken, He will have spoken, We shall/will have spoken, They will have spoken\nFuture Perfect Continuous Tense: I shall/will have been speaking, You will have been speaking, He will have been speaking, We shall/will have been speaking, They will have been speaking"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 45",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 45 — from the book (Wren & Martin, Chapter 24). Point out the Verbs in the following sentences and name their Moods and Tenses.",
+       "items": [
+        {
+         "q": "1. The river flows under the bridge.",
+         "a": "flows — Indicative, Simple Present"
+        },
+        {
+         "q": "2. I shall answer the letter to night.",
+         "a": "shall answer — Indicative, Simple Future"
+        },
+        {
+         "q": "3. I knew he was there, for I had seen him come.",
+         "a": "knew — Indicative, Simple Past; was — Indicative, Simple Past; had seen — Indicative, Past Perfect"
+        },
+        {
+         "q": "4. It has been raining all night.",
+         "a": "has been raining — Indicative, Present Perfect Continuous"
+        },
+        {
+         "q": "5. I hear he has passed all right.",
+         "a": "hear — Indicative, Simple Present; has passed — Indicative, Present Perfect"
+        },
+        {
+         "q": "6. I had finished when he came.",
+         "a": "had finished — Indicative, Past Perfect; came — Indicative, Simple Past"
+        },
+        {
+         "q": "7. He takes but little pride in his work.",
+         "a": "takes — Indicative, Simple Present"
+        },
+        {
+         "q": "8. I have been living here for months.",
+         "a": "have been living — Indicative, Present Perfect Continuous"
+        },
+        {
+         "q": "9. Be good, sweet maid.",
+         "a": "Be — Imperative, Simple Present"
+        },
+        {
+         "q": "10. By this time to morrow I shall have reached my home.",
+         "a": "shall have reached — Indicative, Future Perfect"
+        },
+        {
+         "q": "11. It is time we left.",
+         "a": "is — Indicative, Simple Present; left — Subjunctive, Simple Past"
+        },
+        {
+         "q": "12. He told me that he had finished the work.",
+         "a": "told — Indicative, Simple Past; had finished — Indicative, Past Perfect"
+        },
+        {
+         "q": "13. God forgive you!",
+         "a": "forgive — Subjunctive, Simple Present"
+        },
+        {
+         "q": "14. He is waiting for you in the compound.",
+         "a": "is waiting — Indicative, Present Continuous"
+        },
+        {
+         "q": "15. Piper, pipe that song again.",
+         "a": "pipe — Imperative, Simple Present"
+        },
+        {
+         "q": "16. I am hoping to get a holiday soon.",
+         "a": "am hoping — Indicative, Present Continuous"
+        },
+        {
+         "q": "17. Perhaps it were better to obey him.",
+         "a": "were — Subjunctive, Simple Past"
+        },
+        {
+         "q": "18. Do noble deeds, not dream them all the day.",
+         "a": "Do — Imperative, Simple Present; dream — Imperative, Simple Present"
+        },
+        {
+         "q": "19. I shall have plenty of time tomorrow.",
+         "a": "shall have — Indicative, Simple Future"
+        },
+        {
+         "q": "20. Though this be madness, yet there is method in it.",
+         "a": "be — Subjunctive, Simple Present; is — Indicative, Simple Present"
+        },
+        {
+         "q": "21. The king had never before led his troops in battle.",
+         "a": "had led — Indicative, Past Perfect"
+        },
+        {
+         "q": "22. If he was guilty, his punishment was too light.",
+         "a": "was — Indicative, Simple Past; was — Indicative, Simple Past"
+        },
+        {
+         "q": "23. We have heard a strange story.",
+         "a": "have heard — Indicative, Present Perfect"
+        },
+        {
+         "q": "24. The travellers, all of whom had seen the chameleon, could not agree about its colour.",
+         "a": "had seen — Indicative, Past Perfect; could (not) agree — Indicative, Simple Past"
+        },
+        {
+         "q": "25. Beware lest something worse should happen to you.",
+         "a": "Beware — Imperative, Simple Present; happen — Subjunctive, Simple Present"
+        },
+        {
+         "q": "26. The farmer is cutting the corn which has ripened.",
+         "a": "is cutting — Indicative, Present Continuous; has ripened — Indicative, Present Perfect"
+        },
+        {
+         "q": "27. I wish my brother were here.",
+         "a": "wish — Indicative, Simple Present; were — Subjunctive, Simple Past"
+        },
+        {
+         "q": "28. She would rather we stayed till tomorrow.",
+         "a": "would — Indicative, Simple Past; stayed — Subjunctive, Simple Past"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "tense",
+     "sd": "زمانو",
+     "syn": "the form of a verb showing the time and the state of an action"
+    },
+    {
+     "w": "present tense",
+     "sd": "زمان حال",
+     "syn": "the tense of a verb referring to present time"
+    },
+    {
+     "w": "past tense",
+     "sd": "زمان ماضي",
+     "syn": "the tense of a verb referring to past time"
+    },
+    {
+     "w": "future tense",
+     "sd": "زمان مستقبل",
+     "syn": "the tense of a verb referring to future time"
+    },
+    {
+     "w": "simple",
+     "sd": "سادو",
+     "syn": "mentioned simply, without anything about completeness"
+    },
+    {
+     "w": "continuous",
+     "sd": "جاري",
+     "syn": "going on, incomplete"
+    },
+    {
+     "w": "perfect",
+     "sd": "مڪمل",
+     "syn": "finished or complete at the time of speaking"
+    },
+    {
+     "w": "state of an action",
+     "sd": "عمل جي حالت",
+     "syn": "whether the action is simple, going on, or finished"
+    }
+   ]
+  },
+  {
+   "unit": 25,
+   "title": "The Uses of the Present and Past Tenses",
+   "display": "The Uses of the Present and Past Tenses",
+   "reading": "The Uses of the Present and Past Tenses",
+   "sections": [
+    {
+     "name": "The Simple Present Tense",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §217)",
+       "items": [
+        {
+         "q": "What is the Simple Present used for? (1) Habitual action.",
+         "a": "(1) To express a habitual action; as,\nHe drinks tea every morning.\nI get up everyday at five o’clock.\nMy watch keeps good time."
+        },
+        {
+         "q": "What is the Simple Present used for? (2) General truths.",
+         "a": "(2) To express general truths; as,\nThe sun rises in the east.\nHoney is sweet.\nFortune favours the brave."
+        },
+        {
+         "q": "What is the Simple Present used for? (3) Exclamatory sentences with 'here' and 'there'.",
+         "a": "(3) In exclamatory sentences beginning with here and there to express what is actually taking place in the present; as,\nHere comes the bus!\nThere she goes!"
+        },
+        {
+         "q": "What is the Simple Present used for? (4) Vivid narrative.",
+         "a": "(4) In vivid narrative, as substitute for the Simple Past; as,\nSohrab now rushes forward and deals a heavy blow to Rustam.\nImmediately the Sultan hurries to his capital."
+        },
+        {
+         "q": "What is the Simple Present used for? (5) Fixed timetable or programme.",
+         "a": "(5) To express a future event that is part of a fixed timetable or fixed programme,\nThe next flight is at 7.00 tomorrow morning.\nThe match starts at 9 o’clock.\nThe train leaves at 5.20.\nWhen does the coffee house reopen?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Other uses of the Simple Present",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §218)",
+       "items": [
+        {
+         "q": "What are the other uses of the Simple Present Tense?",
+         "a": "(1) It is used to introduce quotations; as,\nKeats says, ‘A thing of beauty is a joy for ever’.\n(2) It is used, instead of the Simple Future Tense, in clauses of time and of condition; as,\nI shall wait till you finish your lunch.\nIf it rains we shall get wet.\n(3) As in broadcast commentaries on sporting events, the Simple Present is used, instead of the Present Continuous, to describe activities in progress where there is stress on the succession of happenings rather than on the duration.\n(4) The Simple Present is used, instead of the Present Continuous, with the type of verbs referred to in (§ 221) below."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Present Continuous Tense",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §219)",
+       "items": [
+        {
+         "q": "What is the Present Continuous used for?",
+         "a": "The Present Continuous is used:\n(1) For an action going on at the time of speaking; as,\nShe is singing (now).\nThe boys are playing hockey.\n(2) For a temporary action which may not be actually happening at the time of speaking; as,\nI am reading ‘David Copperfield’ (but I am not reading at this moment).\n(3) For an action that has already been arranged to take place in the near future; as,\nI am going to the cinema tonight.\nMy uncle is arriving tomorrow."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Present Continuous for an obstinate habit",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §220)",
+       "items": [
+        {
+         "q": "When do we use the Present Continuous for a habit?",
+         "a": "It has been pointed out before that the Simple Present is used for a habitual action. However, when the reference is to a particularly obstinate habit—something which persists, for example, in spite of advice or warning—we use the Present Continuous with an adverb like always, continually, constantly.\nMy dog is very silly; he is always running out into the road."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Verbs not normally used in the continuous form",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §221)",
+       "items": [
+        {
+         "q": "Which verbs are not normally used in the continuous form?",
+         "a": "The following verbs, on account of their meaning, are not normally used in the continuous form:\n(1) Verbs of perception, e.g., see, hear, smell, notice, recognize.\n(2) Verbs of appearing, e.g., appear, look, seem.\n(3) Verbs of emotion, e.g., want, wish, desire, feel, like, love, hate, hope, refuse, prefer.\n(4) Verbs of thinking, e.g., think, suppose, believe, agree, consider, trust, remember, forget, know, understand, imagine, mean, mind.\n(5) have (= possess), own, possess, belong to, contain, consist of, be (except when used in the passive)."
+        },
+        {
+         "q": "Correct these sentences: (1) These grapes are tasting sour. (2) I am thinking you are wrong. (3) She is seeming sad. (4) He is having a cellphone.",
+         "a": "Wrong — Right:\nThese grapes are tasting sour. — These grapes taste sour.\nI am thinking you are wrong. — I think you are wrong.\nShe is seeming sad. — She seems sad.\nHe is having a cellphone. — He has a cellphone."
+        },
+        {
+         "q": "Can these verbs ever be used in the continuous tenses?",
+         "a": "However, the verbs listed above can be used in the continuous tenses with a change of meaning:\nShe is tasting the soup to see if it needs more salt. (taste = test the flavour of)\nI am thinking of going to Malaysia. (think of = consider the idea of)\nThey are having lunch. (have = eat)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Present Perfect Tense",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §222)",
+       "items": [
+        {
+         "q": "What is the Present Perfect used for? (1) Completed activities in the immediate past.",
+         "a": "(1) To indicate completed activities in the immediate past (with just); as,\nHe has just gone out.\nIt has just struck ten."
+        },
+        {
+         "q": "What is the Present Perfect used for? (2) Past actions with no definite time.",
+         "a": "(2) To express past actions whose time is not given and not definite; as,\nHave you read ‘Gulliver’s Travels’?\nI have never known him to be angry.\nMr. Hari has been to Japan."
+        },
+        {
+         "q": "What is the Present Perfect used for? (3) Past events with an effect in the present.",
+         "a": "(3) To describe past events when we think more of their effect in the present than of the action itself; as,\nGopi has eaten all the biscuits (i.e., there aren’t any left for you).\nI have cut my finger (and it is bleeding now).\nI have finished my work (= now I am free)."
+        },
+        {
+         "q": "What is the Present Perfect used for? (4) An action continuing up to the present.",
+         "a": "(4) To denote an action beginning at some time in the past and continuing up to the present moment (often with since- and for-phrases); as,\nI have known him for a long time.\nHe has been ill since last week.\nWe have lived here for ten years.\nWe haven’t seen Padma for several months."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs used with the Present Perfect",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §223)",
+       "items": [
+        {
+         "q": "Which adverbs can be used with the Present Perfect?",
+         "a": "The following adverbs or adverb phrases can also be used with the Present Perfect (apart from those mentioned above): never, ever (in questions only), so far, till now, yet (in negatives and questions), already, today, this week, this month, etc."
+        },
+        {
+         "q": "Can the Present Perfect be used with adverbs of past time?",
+         "a": "Note—The Present Perfect is never used with adverbs of past time. We should not say, for example, ‘He has gone to Kolkata yesterday’. In such cases the Simple Past should be used (‘He went to Kolkata yesterday’)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Present Perfect Continuous Tense",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §224)",
+       "items": [
+        {
+         "q": "What is the Present Perfect Continuous used for?",
+         "a": "The Present Perfect Continuous is used for an action which began at some time in the past and is still continuing; as,\nHe has been sleeping for five hours (and is still sleeping).\nThey have been building the bridge for several months.\nThey have been playing since four o’clock."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Present Perfect Continuous for a finished action",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §225)",
+       "items": [
+        {
+         "q": "Is the Present Perfect Continuous ever used for an action already finished?",
+         "a": "This tense is also sometimes used for an action already finished. In such cases the continuity of the activity is emphasized as an explanation of something.\n‘Why are your clothes so wet?’— ‘I have been watering the garden’."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Past Tense",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §226)",
+       "items": [
+        {
+         "q": "What is the Simple Past used for?",
+         "a": "The Simple Past is used to indicate an action completed in the past. It often occurs with adverbs or adverb phrases of past time.\nThe steamer sailed yesterday.\nI received his letter a week ago.\nShe left school last year."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Past without an adverb of time",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §227)",
+       "items": [
+        {
+         "q": "Is the Simple Past always used with an adverb of time?",
+         "a": "Sometimes this tense is used without an adverb of time. In such cases the time may be either implied or indicated by the context.\nI learnt Hindi in Nagpur.\nI didn’t sleep well (i.e., last night).\nBabar defeated Rana Sanga at Kanwaha."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Past for past habits",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §228)",
+       "items": [
+        {
+         "q": "What else is the Simple Past used for?",
+         "a": "The Simple Past is also used for past habits; as,\nHe studied many hours everyday.\nShe always carried an umbrella."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Past Continuous Tense",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §229)",
+       "items": [
+        {
+         "q": "What is the Past Continuous used for?",
+         "a": "The Past Continuous is used to denote an action going on at some time in the past. The time of the action may or may not be indicated.\nWe were listening to the radio all evening.\nIt was getting darker.\nThe light went out while I was reading.\nWhen I saw him, he was playing chess."
+        },
+        {
+         "q": "How are the Past Continuous and Simple Past used together?",
+         "a": "As in the last two examples above, the Past Continuous and Simple Past are used together when a new action happened in the middle of a longer action. The Simple Past is used for the new action."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Past Continuous for persistent habits",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §230)",
+       "items": [
+        {
+         "q": "How is the Past Continuous used for habits?",
+         "a": "This tense is also used with always, continually, etc. for persistent habits in the past.\nHe was always grumbling."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Past Perfect Tense",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §231)",
+       "items": [
+        {
+         "q": "What does the Past Perfect describe?",
+         "a": "The Past Perfect describes an action completed before a certain moment in the past; as,\nI met him in New Delhi in 1996. I had seen him last five years before."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Past Perfect and Simple Past together",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §232)",
+       "items": [
+        {
+         "q": "When do we use the Past Perfect with the Simple Past?",
+         "a": "If two actions happened in the past, it may be necessary to show which action happened earlier than the other. The Past Perfect is mainly used in such situations. The Simple Past is used in one clause and the Past Perfect in the other; as,\nWhen I reached the station the train had started (so I couldn’t get into the train).\nI had done my exercise when Hari came to see me.\nI had written the letter before he arrived."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Past Perfect Continuous Tense",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 25, §233)",
+       "items": [
+        {
+         "q": "What is the Past Perfect Continuous used for?",
+         "a": "The Past Perfect Continuous is used for an action that began before a certain point in the past and continued up to that time; as,\nAt that time he had been writing a novel for two months.\nWhen Mr Mukerji came to the school in 1995, Mr Anand had already been teaching there for five years."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 46",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 46 — from the book (Wren & Martin, Chapter 25). Choose the correct verb form from those in brackets.",
+       "items": [
+        {
+         "q": "1. The earth ____ round the sun. (move, moves, moved)",
+         "a": "moves"
+        },
+        {
+         "q": "2. My friends ____ the Prime Minister yesterday. (see, have seen, saw)",
+         "a": "saw"
+        },
+        {
+         "q": "3. I ____ him only one letter up to now. (sent, have sent, send)",
+         "a": "have sent"
+        },
+        {
+         "q": "4. She _____ worried about something. (looks, looking, is looking)",
+         "a": "looks/is looking"
+        },
+        {
+         "q": "5. It started to rain while we ____ tennis. (are playing, were playing, had played)",
+         "a": "were playing"
+        },
+        {
+         "q": "6. He _____ fast when the accident happened. (is driving, was driving, drove)",
+         "a": "was driving"
+        },
+        {
+         "q": "7. He ____ asleep while he was driving. (falls, fell, has fallen)",
+         "a": "fell"
+        },
+        {
+         "q": "8. I’m sure I ____ him at the party last night. (saw, have seen, had seen)",
+         "a": "saw"
+        },
+        {
+         "q": "9. He ____ a mill in this town. (have, has, is having)",
+         "a": "has"
+        },
+        {
+         "q": "10. He ____ here for the last five years. (worked, is working, has been working)",
+         "a": "has been working"
+        },
+        {
+         "q": "11. He thanked me for what I ____. (have done, had done, have been doing)",
+         "a": "had done"
+        },
+        {
+         "q": "12. I ____ a strange noise. (hear, am hearing, have been hearing)",
+         "a": "hear"
+        },
+        {
+         "q": "13. I ____ him for a long time. (know, have known, am knowing)",
+         "a": "have known"
+        },
+        {
+         "q": "14. I ____ English for five years. (study, am studying, have been studying)",
+         "a": "have been studying"
+        },
+        {
+         "q": "15. Don’t disturb me. I ____ my homework. (do, did, am doing)",
+         "a": "am doing"
+        },
+        {
+         "q": "16. Abdul ____ to be a doctor. (wants, wanting, is wanting)",
+         "a": "wants"
+        },
+        {
+         "q": "17. The soup ______ good. (taste, tastes, is tasting)",
+         "a": "tastes"
+        },
+        {
+         "q": "18. He _____ TV most evenings. (watches, is watch, is watching)",
+         "a": "watches"
+        },
+        {
+         "q": "19. He ____ out five minutes ago. (has gone, had gone, went)",
+         "a": "went"
+        },
+        {
+         "q": "20. When he lived in Hyderabad, he ____ to the cinema once a week. (goes, went, was going)",
+         "a": "went"
+        },
+        {
+         "q": "21. The baby ____ all morning. (cries, has been crying)",
+         "a": "has been crying"
+        },
+        {
+         "q": "22. I _____ Rahim at the zoo. (saw, have seen, had seen)",
+         "a": "saw"
+        },
+        {
+         "q": "23. I ____ Kumar this week. (haven’t seen, didn’t see, am not seeing)",
+         "a": "haven’t seen/didn’t see"
+        },
+        {
+         "q": "24. This paper ____ twice weekly. (is appearing, appearing, appears)",
+         "a": "appears"
+        },
+        {
+         "q": "25. Ashok fell off the ladder when he ______ the roof. (is mending, was mending, mended)",
+         "a": "was mending"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 47",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 47 — from the book (Wren & Martin, Chapter 25). Choose the correct alternative from those given in brackets.",
+       "items": [
+        {
+         "q": "1. The Headmaster ____ to speak to you. (wants, is wanting, was wanting)",
+         "a": "wants"
+        },
+        {
+         "q": "2. I ____ a new bicycle last week. (bought, have bought, had bought)",
+         "a": "bought"
+        },
+        {
+         "q": "3. Here are your shoes; I ____ them. (just clean, just cleaned, have just cleaned)",
+         "a": "have just cleaned"
+        },
+        {
+         "q": "4. It _______ since early morning. (rained, is raining, has been raining)",
+         "a": "has been raining"
+        },
+        {
+         "q": "5. I ____ a lot of work today. (did, have done, had done)",
+         "a": "have done/did"
+        },
+        {
+         "q": "6. I ____ something burning. (smell, am smelling, have been smelling)",
+         "a": "smell"
+        },
+        {
+         "q": "7. Look! The sun ______ over the hills. (rises, is rise, is rising)",
+         "a": "is rising"
+        },
+        {
+         "q": "8. She ____ unconscious since four o’clock. (is, was, has been)",
+         "a": "has been"
+        },
+        {
+         "q": "9. He used to visit us every week, but he ____ now. (rarely comes, is rarely coming, has rarely come)",
+         "a": "rarely comes"
+        },
+        {
+         "q": "10. We _____ for his call since 4.20. (are waiting, have been waiting, were waiting)",
+         "a": "have been waiting"
+        },
+        {
+         "q": "11. Everyday last week my aunt ____ a plate. (breaks, broke, was breaking)",
+         "a": "broke"
+        },
+        {
+         "q": "12. I know all about that film because I ____ it twice. (saw, have seen, had seen)",
+         "a": "have seen"
+        },
+        {
+         "q": "13. Our guests ______; they are sitting in the garden. (arrived, have arrived, had arrived)",
+         "a": "have arrived"
+        },
+        {
+         "q": "14. I ____ him since we met a year ago. (didn’t see, haven’t seen, hadn’t seen)",
+         "a": "haven’t seen"
+        },
+        {
+         "q": "15. We ____ our breakfast half an hour ago. (finished, have finished, had finished)",
+         "a": "finished"
+        },
+        {
+         "q": "16. She jumped off the bus while it ____. (moved, had moved, was moving)",
+         "a": "was moving"
+        },
+        {
+         "q": "17. When we went to the cinema, the film ____. (already started, had already started, would already start)",
+         "a": "had already started"
+        },
+        {
+         "q": "18. I ______ for half an hour when it suddenly started to rain. (have walked, have been walking, had been walking)",
+         "a": "had been walking"
+        },
+        {
+         "q": "19. Did you think you ____ me somewhere before? (have seen, had seen, were seeing)",
+         "a": "had seen"
+        },
+        {
+         "q": "20. The town ____ its appearance completely since 1980. (is changing, changed, has changed)",
+         "a": "has changed"
+        },
+        {
+         "q": "21. Sheila ______ her case, look. (packed, has packed, had packed)",
+         "a": "has packed"
+        },
+        {
+         "q": "22. When I was in Sri Lanka, I ______ Negombo, Beruwela and Nilaveli. (visited, was visited, have visited)",
+         "a": "visited"
+        },
+        {
+         "q": "23. I meant to repair the radio, but ____ time to do it today. (am not having, haven’t had, hadn’t)",
+         "a": "haven’t had"
+        },
+        {
+         "q": "24. When I ______ my dinner I went to bed. (had, have had, had had)",
+         "a": "had/had had"
+        },
+        {
+         "q": "25. Men ____ to abolish wars up to now, but maybe they will find a way in the future. (never managed, have never managed, will have never managed)",
+         "a": "have never managed"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "habitual action",
+     "sd": "روزاني عمل",
+     "syn": "an action done regularly, as a habit"
+    },
+    {
+     "w": "general truth",
+     "sd": "عام سچ",
+     "syn": "a fact that is always true"
+    },
+    {
+     "w": "vivid narrative",
+     "sd": "جيئري بيان",
+     "syn": "telling a past story as if it were happening now"
+    },
+    {
+     "w": "temporary",
+     "sd": "عارضي",
+     "syn": "lasting only for a short time"
+    },
+    {
+     "w": "obstinate habit",
+     "sd": "ضدي عادت",
+     "syn": "a habit that persists in spite of advice or warning"
+    },
+    {
+     "w": "perception",
+     "sd": "احساس",
+     "syn": "seeing, hearing, smelling, noticing"
+    },
+    {
+     "w": "immediate past",
+     "sd": "بلڪل ويجهو ماضي",
+     "syn": "the very recent past, just now"
+    },
+    {
+     "w": "persistent",
+     "sd": "مسلسل",
+     "syn": "continuing firmly, not stopping"
+    },
+    {
+     "w": "succession",
+     "sd": "ترتيب",
+     "syn": "one thing following another in order"
+    },
+    {
+     "w": "commentary",
+     "sd": "تبصرو",
+     "syn": "a spoken description of an event as it happens"
+    }
+   ]
+  },
+  {
+   "unit": 26,
+   "title": "The Future",
+   "display": "The Future",
+   "reading": "The Future",
+   "sections": [
+    {
+     "name": "Ways of talking about the future",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §234)",
+       "items": [
+        {
+         "q": "What are the ways of talking about the future in English?",
+         "a": "There are several ways of talking about the future in English: the Simple Future Tense, the going to form, the Simple Present Tense, etc."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Future Tense — future as fact",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §235)",
+       "items": [
+        {
+         "q": "What is the Simple Future Tense used for?",
+         "a": "The Simple Future Tense is used to talk about things which we cannot control. It expresses the future as fact.\nI shall be twenty next Saturday.\nIt will be Diwali in a week.\nWe will know our exam results in May."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Future — what we think will happen",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §236)",
+       "items": [
+        {
+         "q": "How else is the Simple Future used?",
+         "a": "We use this tense to talk about what we think or believe will happen in the future.\nI think Pakistan will win the match.\nI’m sure Helen will get a first class.\nAs in the above sentences, we often use this tense with I think, and I’m sure. We also say I expect _____, I believe ______, Probably _____, etc."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Future — instant decision",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §237)",
+       "items": [
+        {
+         "q": "When do we use the Simple Future for a decision?",
+         "a": "We can use this tense when we decide to do something at the time of speaking.\nIt is raining. I will take an umbrella.\n“Mr Sinha is very busy at the moment.” – “All right. I’ll wait.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Going to — decided before",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §238)",
+       "items": [
+        {
+         "q": "When do we use the 'going to' form?",
+         "a": "We use the going to form (be going to + base of the verb) when we have decided to do something before talking about it.\n“Have you decided what to do?” – “Yes. I am going to resign the job.”\n“Why do you want to sell your motorbike?” – “I’m going to buy a car.”"
+        },
+        {
+         "q": "What is the difference between 'going to' and the Simple Future for a decision?",
+         "a": "Remember that if the action is already decided upon and preparations have been made, we should use the going to form, not the Simple Future Tense. The Simple Future Tense is used for an instant decision."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Going to — what seems likely or certain",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §239)",
+       "items": [
+        {
+         "q": "How else is 'going to' used?",
+         "a": "We also use the going to form to talk about what seems likely or certain, when there is something in the present which tells us about the future.\nIt is going to rain; look at those clouds.\nThe boat is full of water. It is going to sink.\nShe is going to have a baby."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Going to — on the point of happening",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §240)",
+       "items": [
+        {
+         "q": "What else can 'going to' express?",
+         "a": "The going to form may also express an action which is on the point of happening.\nLet’s get into the train. It’s going to leave.\nLook! The cracker is going to explode."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Be about to",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §241)",
+       "items": [
+        {
+         "q": "What does 'be about to' express?",
+         "a": "Be about to + base form can also be used for the immediate future.\nLet’s get into the train. It’s about to leave.\nDon’t go out now. We are about to have lunch."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Present for the future",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §242)",
+       "items": [
+        {
+         "q": "When is the Simple Present used for future time?",
+         "a": "The Simple Present Tense is used for official programmes and timetables.\nThe college opens on 23rd June.\nThe film starts at 6.30 and finishes at 9.00.\nWhen does the next train leave for Chennai?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Simple Present in time and condition clauses",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §243)",
+       "items": [
+        {
+         "q": "How is the Simple Present used in clauses with 'if', 'when', 'before', 'as soon as'?",
+         "a": "The Simple Present is often used for future time in clauses with if, unless, when, while, as (= while), before, after, until, by the time and as soon as. The Simple Future Tense is not used in such cases.\nI won’t go out if it rains. (not: will rain)\nCan I have some milk before I go to bed?\nLet’s wait till he finishes his work.\nPlease ring me up as soon as he comes."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Present Continuous for the future",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §244)",
+       "items": [
+        {
+         "q": "When do we use the Present Continuous for the future?",
+         "a": "We use the Present Continuous Tense when we talk about something that we have planned to do in the future.\nI am going to Shimla tomorrow.\nWe are eating out tonight.\nMr Abdul Rehman is arriving this evening.\nYou are advised to use the Present Continuous (not the Simple Present) for personal arrangements."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Future Continuous Tense",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §245)",
+       "items": [
+        {
+         "q": "What is the Future Continuous used for?",
+         "a": "We use the Future Continuous Tense to talk about actions which will be in progress at a time in the future.\nI suppose it will be raining when we start.\nThis time tomorrow I will be sitting on the beach in Singapore.\n“Can I see you at 5 o’clock?” – “Please don’t come then. I will be watching the tennis match on TV.”"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Future Continuous for planned actions",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §246)",
+       "items": [
+        {
+         "q": "What else is the Future Continuous used for?",
+         "a": "We also use this tense to talk about actions in the future which are already planned or which are expected to happen in the normal course of things.\nI will be staying here till Sunday.\nHe will be meeting us next week.\nThe postman will be coming soon."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Be to",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §247)",
+       "items": [
+        {
+         "q": "What is 'be to' used for?",
+         "a": "We use be to + base form to talk about official plans and arrangements.\nThe Prime Minister is to visit America next month.\nThe conference is to discuss “Nuclear Tests.”\nBe to is used in a formal style, often in news reports. Be is usually left out in headlines, e.g. “Prime Minister to visit America”."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Future Perfect Tense",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §248)",
+       "items": [
+        {
+         "q": "What is the Future Perfect used for?",
+         "a": "The Future Perfect Tense is used to talk about actions that will be completed by a certain future time.\nI shall have written my exercise by then.\nHe will have left before you go to see him.\nBy the end of this month I will have worked here for five years."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Future Perfect Continuous Tense",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 26, §249)",
+       "items": [
+        {
+         "q": "What is the Future Perfect Continuous used for?",
+         "a": "The Future Perfect Continuous tense is used for actions which will be in progress over a period of time that will end in the future.\nBy next March we shall have been living here for four years.\nI’ll have been teaching for twenty years next July.\nThis tense is not very common."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 48",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 48 — from the book (Wren & Martin, Chapter 26). Choose the correct or more suitable forms of the verbs to fill in the blanks.",
+       "items": [
+        {
+         "q": "1. The plane ______ at 3.30. (arrives, will arrive)",
+         "a": "arrives"
+        },
+        {
+         "q": "2. I will phone you when he _____ back. (comes, will come)",
+         "a": "comes"
+        },
+        {
+         "q": "3. When I get home, my dog _____ at the gate waiting for me. (sits, will be sitting)",
+         "a": "will be sitting"
+        },
+        {
+         "q": "4. I _____ the Joshis this evening. (visit, am visiting)",
+         "a": "am visiting"
+        },
+        {
+         "q": "5. Look at those black clouds. It _____. (will rain, is going to rain)",
+         "a": "is going to rain"
+        },
+        {
+         "q": "6. The train ______ before we reach the station. (arrives, will have arrived)",
+         "a": "will have arrived"
+        },
+        {
+         "q": "7. Perhaps we ______ Mahabaleshwar next month. (visit, will visit)",
+         "a": "will visit"
+        },
+        {
+         "q": "8. Unless we _____ now we can’t be on time. (start, will start)",
+         "a": "start"
+        },
+        {
+         "q": "9. I _____ into town later on. Do you want a lift? (drive, will be driving)",
+         "a": "will be driving"
+        },
+        {
+         "q": "10. The next term _____ on 16th November. (begins, is beginning)",
+         "a": "begins"
+        },
+        {
+         "q": "11. Oh dear! I _____. (will sneeze, am going to sneeze)",
+         "a": "am going to sneeze"
+        },
+        {
+         "q": "12. By 2020, robots _____ many of the jobs that people do today. (will be taking over, will have taken over)",
+         "a": "will have taken over"
+        },
+        {
+         "q": "13. I’m sure she ______ the exam. (passes, will pass)",
+         "a": "will pass"
+        },
+        {
+         "q": "14. I ______ home next Sunday. (go, am going)",
+         "a": "am going"
+        },
+        {
+         "q": "15. I ______ you one of these days, I expect. (see, will be seeing)",
+         "a": "will be seeing"
+        },
+        {
+         "q": "16. Help! I _____ fall. (will, am going to)",
+         "a": "am going to"
+        },
+        {
+         "q": "17. She has bought some cloth; she ______ herself a blouse. (will make, is going to make)",
+         "a": "is going to make"
+        },
+        {
+         "q": "18. I _____ your house this afternoon. It is on my way home from work. (will be passing, am passing)",
+         "a": "will be passing"
+        },
+        {
+         "q": "19. Hurry up! The programme _____. (will start, is about to start)",
+         "a": "is about to start"
+        },
+        {
+         "q": "20. This book is not long. I ______ it by lunch time. (will be reading, will have read)",
+         "a": "will have read"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "going to",
+     "sd": "ارادو ڪرڻ",
+     "syn": "be going to + base verb, for a decision already made"
+    },
+    {
+     "w": "be about to",
+     "sd": "هاڻي ڪرڻ وارو",
+     "syn": "used for the immediate future"
+    },
+    {
+     "w": "be to",
+     "sd": "ڪرڻو آهي",
+     "syn": "be to + base verb, for official plans and arrangements"
+    },
+    {
+     "w": "timetable",
+     "sd": "وقت جي فهرست",
+     "syn": "a fixed programme of times, as for trains or classes"
+    },
+    {
+     "w": "instant decision",
+     "sd": "اوچتو فيصلو",
+     "syn": "a decision made at the time of speaking"
+    },
+    {
+     "w": "in progress",
+     "sd": "جاري",
+     "syn": "going on at a time"
+    },
+    {
+     "w": "official plan",
+     "sd": "سرڪاري منصوبو",
+     "syn": "a formal arrangement, often in news reports"
+    },
+    {
+     "w": "personal arrangement",
+     "sd": "ذاتي بندوبست",
+     "syn": "a plan made by a person for himself"
+    }
+   ]
+  },
+  {
+   "unit": 27,
+   "title": "The Verb: Person and Number",
+   "display": "The Verb: Person and Number",
+   "reading": "The Verb: Person and Number",
+   "sections": [
+    {
+     "name": "Person of the Verb",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 27, §250)",
+       "items": [
+        {
+         "q": "How many Persons does the Verb have?",
+         "a": "The Verb, like the Personal Pronouns, has three Persons —the First, the Second and the Third. Thus, we say\n1. I speak. 2. You speak. (Old English: Thou speakest.) 3. He speaks.\nThis is because of the difference in Person of the Subjects, as all the three are subjects of the singular number."
+        },
+        {
+         "q": "How does the Verb agree with its Subject in Person?",
+         "a": "In sentence 1, the Subject is of the First Person, therefore the Verb is also of the First Person.\nIn sentence 2, the Subject is of the Second Person, therefore the verb is also of the Second Person.\nIn sentence 3, the Subject is of the Third Person, therefore the Verb is also of the Third Person.\nWe thus see that the Verb takes the same Person as its Subject; or, that the Verb agrees with its Subject in Person."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Number of the Verb",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 27, §251)",
+       "items": [
+        {
+         "q": "How many Numbers does the Verb have?",
+         "a": "The Verb, like the Noun and the Pronoun, has two Numbers: the Singular and the Plural. Thus we say —\n1. He speaks. 2. They speak.\nThis is because of the difference in Number of the subjects (as both the Subjects are of the third person)."
+        },
+        {
+         "q": "How does the Verb agree with its Subject in Number?",
+         "a": "In sentence 1, the Subject is Singular, therefore the Verb is Singular.\nIn sentence 2, the Subject is Plural, therefore the Verb is Plural.\nWe thus see that the Verb takes the same Number as its Subject; or, that the Verb agrees with its Subject in Number."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The rule of agreement",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 27, §252)",
+       "items": [
+        {
+         "q": "What is the important rule of agreement?",
+         "a": "But we have already seen that the Verb also agrees with its Subject in Person; hence we have the important rule.\nThe Verb must agree with its Subject in Number and Person; that is, the Verb must be of the same Number and Person as its Subject. Thus, if the Subject is of the Singular Number, First Person, the Verb must be of the Singular Number, First Person; as,\nI am here. I was there. I have a bat. I play cricket."
+        },
+        {
+         "q": "Give examples of the verb agreeing with a Singular Third Person subject and a Plural Third Person subject.",
+         "a": "If the Subject is of the Singular Number, Third Person, the Verb must be of the Singular Number, Third Person; as,\nHe is here. He was there. He has a bat. He plays cricket.\nIf the Subject is of the Plural Number, Third Person, the Verb must be of the Plural Number, Third Person; as,\nThey are here. They were there. They have bats. They play cricket."
+        },
+        {
+         "q": "How much does the form of the verb change with Number and Person in modern English?",
+         "a": "Note—In some languages the form of the Verb changes with the Number and Person of the Subject. In modern English verbs have lost all their inflections for number and person, except in the third person of the singular number. Thus we have—\nI speak. We speak.\nYou speak. You speak. (You is both singular and plural in current English.)\nHe speaks. They speak.\nThe only exception is the verb to be. We say—\nI am. We are.\nYou are. You are.\nHe is. They are.\nFor further study of the agreement of the verb with the subject, see Book II, Chapter 17."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Make the verb agree",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "Practice made from the rules of this chapter — Chapter 27 has no exercise of its own in the book. Choose the verb that agrees with the subject.",
+       "items": [
+        {
+         "q": "1. He ____ (speak/speaks) English well.",
+         "a": "speaks — The subject 'He' is Singular, Third Person."
+        },
+        {
+         "q": "2. They ____ (speak/speaks) English well.",
+         "a": "speak — The subject 'They' is Plural, Third Person."
+        },
+        {
+         "q": "3. I ____ (am/is) here.",
+         "a": "am — The subject 'I' is Singular, First Person."
+        },
+        {
+         "q": "4. She ____ (play/plays) cricket.",
+         "a": "plays — The subject 'She' is Singular, Third Person."
+        },
+        {
+         "q": "5. We ____ (was/were) there.",
+         "a": "were — The subject 'We' is Plural, First Person."
+        },
+        {
+         "q": "6. The boys ____ (has/have) bats.",
+         "a": "have — The subject 'The boys' is Plural, Third Person."
+        },
+        {
+         "q": "7. He ____ (has/have) a bat.",
+         "a": "has — The subject 'He' is Singular, Third Person."
+        },
+        {
+         "q": "8. You ____ (is/are) right.",
+         "a": "are — 'You' takes 'are' in current English."
+        },
+        {
+         "q": "9. Rama ____ (go/goes) to school daily.",
+         "a": "goes — The subject 'Rama' is Singular, Third Person."
+        },
+        {
+         "q": "10. The children ____ (was/were) happy.",
+         "a": "were — The subject 'The children' is Plural, Third Person."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "person",
+     "sd": "شخص",
+     "syn": "first, second or third person of a verb or pronoun"
+    },
+    {
+     "w": "number",
+     "sd": "عدد",
+     "syn": "singular or plural"
+    },
+    {
+     "w": "singular number",
+     "sd": "واحد عدد",
+     "syn": "the form for one person or thing"
+    },
+    {
+     "w": "plural number",
+     "sd": "جمع عدد",
+     "syn": "the form for more than one person or thing"
+    },
+    {
+     "w": "agreement",
+     "sd": "مطابقت",
+     "syn": "the verb being of the same number and person as its subject"
+    },
+    {
+     "w": "inflection",
+     "sd": "صرفي تبديلي",
+     "syn": "a change in the form of a word, as speak to speaks"
+    },
+    {
+     "w": "first person",
+     "sd": "پهريون شخص",
+     "syn": "the person speaking, I or we"
+    },
+    {
+     "w": "second person",
+     "sd": "ٻيو شخص",
+     "syn": "the person spoken to, you"
+    },
+    {
+     "w": "third person",
+     "sd": "ٽيون شخص",
+     "syn": "the person or thing spoken about, he, she, it or they"
+    }
+   ]
+  },
+  {
+   "unit": 28,
+   "title": "The Infinitive",
+   "display": "The Infinitive",
+   "reading": "The Infinitive",
+   "sections": [
+    {
+     "name": "What is an Infinitive?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 28, §253)",
+       "items": [
+        {
+         "q": "Read these sentences: I want to go. They tried to find fault with us. What are 'to go' and 'to find'?",
+         "a": "The forms to go and to find are “infinitives.”"
+        },
+        {
+         "q": "What is the Infinitive?",
+         "a": "The infinitive is the base of a verb, often preceded by to."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Infinitive as a Verb-Noun",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 28, §254)",
+       "items": [
+        {
+         "q": "Read these sentences: (1) To err is human. (2) Birds love to sing. (3) To respect our parents is our duty. (4) He refused to obey the orders. (5) Many men desire to make money quickly. How does the Infinitive work in each?",
+         "a": "In sentence 1, the Infinitive, like a noun, is the Subject of the verb is.\nIn sentence 2, the Infinitive, like a noun, is the Object of the verb love.\nIn sentence 3, the Infinitive, like a noun, is the Subject of the verb is, but, like a verb, it also takes an object.\nIn sentence 4, the Infinitive, like a noun, is the Object of the verb refused, but, like a verb, it also takes an object.\nIn sentence 5, the Infinitive, like a noun, is the Object of the verb desire, but, like a verb, it also takes an Object and is modified by an Adverb."
+        },
+        {
+         "q": "What is the Infinitive, in short?",
+         "a": "It will be seen that the Infinitive is a kind of noun with certain features of the verb, especially that of taking an object (when the verb is Transitive) and adverbial qualifiers. In short, the Infinitive is a Verb-Noun."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Infinitive without 'to'",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 28, §255)",
+       "items": [
+        {
+         "q": "Is 'to' an essential part of the Infinitive?",
+         "a": "The word to is frequently used with the Infinitive, but is not an essential part or sign of it."
+        },
+        {
+         "q": "After which verbs do we use the Infinitive without 'to'?",
+         "a": "Thus, after certain verbs (bid, let, make, *need, *dare, see, hear), we use the Infinitive without to; as,\nBid him go there.\nI bade him go.\nLet him sit here.\nI will not let you go.\nMake him stand.\nI made him run.\nWe need not go today.\nYou need not do it.\nYou dare not do it.\nI saw him do it.\nI heard him cry.\n* Except when they are conjugated with do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Infinitive without 'to' after modals",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 28, §256)",
+       "items": [
+        {
+         "q": "After which other words is the Infinitive used without 'to'?",
+         "a": "The infinitive without to is also used after the verbs will, would, shall, should, may, might, can, could and must.\nI will pay the bill.\nYou should work harder.\nHe can speak five languages.\nYou must come to the office at nine tomorrow."
+        },
+        {
+         "q": "After which phrases is the Infinitive used without 'to'?",
+         "a": "The Infinitive without to is also used after had better, had rather, would rather, sooner than, rather than; as,\nYou had better ask permission.\nI had rather play than work.\nI would rather die than suffer so."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Simple Infinitive",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 28, §257)",
+       "items": [
+        {
+         "q": "How may the Infinitive be used like a Noun? (1) As the Subject of a Verb.",
+         "a": "(1) As the Subject of a Verb; as,\nTo find fault is easy.\nTo err is human.\nTo reign is worth ambition."
+        },
+        {
+         "q": "How may the Infinitive be used like a Noun? (2) As the Object of a transitive Verb.",
+         "a": "(2) As the Object of a transitive Verb; as,\nI do not mean to read.\nHe likes to play cards."
+        },
+        {
+         "q": "How may the Infinitive be used like a Noun? (3) As the Complement of a Verb.",
+         "a": "(3) As the Complement of a Verb; as,\nHer greatest pleasure is to sing.\nHis custom is to ride daily."
+        },
+        {
+         "q": "How may the Infinitive be used like a Noun? (4) As the Object of a Preposition. (5) As an Objective Complement.",
+         "a": "(4) As the Object of a Preposition; as,\nHe had no choice but (= except) to obey.\nThe speaker is about to begin.\n(5) As an Objective Complement; as,\nI saw him go.\nWhen the infinitive is thus used, like a Noun, it is called the Simple Infinitive."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Gerundial or Qualifying Infinitive",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 28, §258)",
+       "items": [
+        {
+         "q": "How is the Infinitive used to qualify a Verb?",
+         "a": "(1) To qualify a Verb, usually to express purpose; as,\nHe called to see my brother (= for the purpose of seeing my brother).\nWe eat to live. (Purpose)\nI come to bury Caesar. (Purpose)\nHe wept to see the desolation caused by the flood. (Cause)"
+        },
+        {
+         "q": "How is the Infinitive used to qualify an Adjective?",
+         "a": "(2) To qualify an Adjective; as,\nFigs are good to eat.\nThis medicine is pleasant to take.\nThe boys are anxious to learn.\nHe is too ill to do any work."
+        },
+        {
+         "q": "How is the Infinitive used to qualify a Noun?",
+         "a": "(3) To qualify a Noun; as,\nThis is not the time to play.\nYou will have cause to repent.\nHe is a man to be admired.\nHere is a house to let.\nThis house is to let."
+        },
+        {
+         "q": "How is the Infinitive used to qualify a Sentence?",
+         "a": "(4) To qualify a Sentence; as,\nTo tell the truth, I quite forgot my promise.\nHe was petrified, so to speak.\nWhen the Infinitive is thus used it is called the Gerundial or Qualifying Infinitive.\nIt will be seen that in 1 and 2 the Gerundial Infinitive does the work of an Adverb; in 3 it does the work of an Adjective; in 4 it is used absolutely."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The forms of the Infinitive",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 28, §259)",
+       "items": [
+        {
+         "q": "What are the forms of the Infinitive?",
+         "a": "The Infinitive may be active or passive. When active it may have a present and a perfect form, and may merely name the act, or it may represent progressive or continued action.\nActive:\nPresent: to love — Perfect: to have loved\nPresent Continuous: to be loving — Perfect Continuous: to have been loving\nWhen passive the Infinitive has a present and a perfect form.\nPassive:\nPresent: to be loved — Perfect: to have been loved"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 49",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 49 — from the book (Wren & Martin, Chapter 28). State how the Infinitive is used in the following sentences. (Items 27–30 and parts of 1–2: the Key print is too blurred to read word for word; those answers are worked out from §§257–258.)",
+       "items": [
+        {
+         "q": "1. There was nothing for it to fight.",
+         "a": "to fight — Simple Infinitive, object of the preposition ‘for’."
+        },
+        {
+         "q": "2. Let us pray.",
+         "a": "pray — Simple Infinitive, objective complement of the verb ‘let’ (with ‘us’ as its object)."
+        },
+        {
+         "q": "3. The mango is fit to eat.",
+         "a": "to eat — Gerundial Infinitive, qualifies the adjective ‘fit’."
+        },
+        {
+         "q": "4. I heard her sing.",
+         "a": "sing — Simple Infinitive, objective complement of the verb ‘heard’."
+        },
+        {
+         "q": "5. I have come to see you.",
+         "a": "to see — Gerundial Infinitive, qualifies the verb ‘have come’."
+        },
+        {
+         "q": "6. The order to advance was given.",
+         "a": "to advance — Gerundial Infinitive, qualifies the noun ‘order’."
+        },
+        {
+         "q": "7. Men must work and women must weep.",
+         "a": "work — Simple Infinitive, used with ‘must’; weep — Simple Infinitive, used with ‘must’."
+        },
+        {
+         "q": "8. I am sorry to hear this.",
+         "a": "to hear — Gerundial Infinitive, qualifies the adjective ‘sorry’."
+        },
+        {
+         "q": "9. He is slow to forgive.",
+         "a": "to forgive — Gerundial Infinitive, qualifies the adjective ‘slow’."
+        },
+        {
+         "q": "10. A man severe he was and stern to view.",
+         "a": "to view — Gerundial Infinitive, qualifies the adjective ‘stern’."
+        },
+        {
+         "q": "11. And fools who came to scoff remained to pray.",
+         "a": "to scoff — Gerundial Infinitive, qualifies the verb ‘came’; to pray — Gerundial Infinitive, qualifies the verb ‘remained’."
+        },
+        {
+         "q": "12. Thus to relieve the wretched was his pride.",
+         "a": "to relieve — Simple Infinitive, subject of the verb ‘was’."
+        },
+        {
+         "q": "13. Full many a flower is born to blush unseen.",
+         "a": "to blush — Gerundial Infinitive, qualifies the verb ‘is born’."
+        },
+        {
+         "q": "14. Music hath charms to soothe the savage beast.",
+         "a": "to soothe — Gerundial Infinitive, qualifies the noun ‘charms’."
+        },
+        {
+         "q": "15. Never seek to tell thy love.",
+         "a": "to tell — Simple Infinitive, object of the verb ‘seek’."
+        },
+        {
+         "q": "16. To retreat was difficult; to advance was impossible.",
+         "a": "To retreat — Simple Infinitive, subject of the verb ‘was’; to advance — Simple Infinitive, subject of the verb ‘was’."
+        },
+        {
+         "q": "17. Everybody wishes to enjoy life.",
+         "a": "to enjoy — Simple Infinitive, object of the verb ‘wishes’."
+        },
+        {
+         "q": "18. My desire is to see you again.",
+         "a": "to see — Simple Infinitive, complement of the verb ‘is’."
+        },
+        {
+         "q": "19. There was not a moment to be lost.",
+         "a": "to be lost — Gerundial Infinitive, qualifies the noun ‘moment’."
+        },
+        {
+         "q": "20. The counsel rose to address the court.",
+         "a": "to address — Gerundial Infinitive, qualifies the verb ‘rose’."
+        },
+        {
+         "q": "21. My right there is none to dispute.",
+         "a": "to dispute — Gerundial Infinitive, qualifies the pronoun ‘none’."
+        },
+        {
+         "q": "22. The ability to laugh is peculiar to mankind.",
+         "a": "to laugh — Gerundial Infinitive, qualifies the noun ‘ability’."
+        },
+        {
+         "q": "23. He has the power to concentrate his thoughts.",
+         "a": "to concentrate — Gerundial Infinitive, qualifies the noun ‘power’."
+        },
+        {
+         "q": "24. He was quick to see the point.",
+         "a": "to see — Gerundial Infinitive, qualifies the adjective ‘quick’."
+        },
+        {
+         "q": "25. I am not afraid to speak the truth.",
+         "a": "to speak — Gerundial Infinitive, qualifies the adjective ‘afraid’."
+        },
+        {
+         "q": "26. Better dwell in the midst of alarms / Than reign in this horrible place.",
+         "a": "dwell — Simple Infinitive, used with ‘had’, which is understood. The full sentence is ‘I had better dwell in the midst of alarms.’; reign likewise."
+        },
+        {
+         "q": "27. Can you hope to count the stars?",
+         "a": "to count — Simple Infinitive, object of the verb ‘hope’."
+        },
+        {
+         "q": "28. To toil is the lot of mankind.",
+         "a": "To toil — Simple Infinitive, subject of the verb ‘is’."
+        },
+        {
+         "q": "29. It is delightful to hear the sound of the sea.",
+         "a": "to hear — Gerundial Infinitive, qualifies the adjective ‘delightful’."
+        },
+        {
+         "q": "30. It is a penal offence to bribe a public servant.",
+         "a": "to bribe — Simple Infinitive, subject of the verb ‘is’."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 50",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 50 — from the book (Wren & Martin, Chapter 28). Combine together the following pairs of sentences by using Infinitives. [Example — Napoleon was one of the greatest of generals. He is universally acknowledged so. = Napoleon is universally acknowledged to have been one of the greatest of generals.] (Some answers: the Key print is blurred; those are worked out from §§257–258.)",
+       "items": [
+        {
+         "q": "1. He did not have even a rupee with him. He could not buy a loaf of bread.",
+         "a": "He did not have even a rupee with him to buy a loaf of bread."
+        },
+        {
+         "q": "2. Every cricket team has a captain. He directs the other players.",
+         "a": "Every cricket team has a captain to direct the other players."
+        },
+        {
+         "q": "3. You must part with your purse. On this condition only you can save your life.",
+         "a": "You must part with your purse to save your life."
+        },
+        {
+         "q": "4. He went to Amritsar. He wanted to visit the Golden Temple.",
+         "a": "He went to Amritsar to visit the Golden Temple."
+        },
+        {
+         "q": "5. The robber took out a knife. He intended to frighten the old man.",
+         "a": "The robber took out a knife to frighten the old man."
+        },
+        {
+         "q": "6. I speak the truth. I am not afraid of it.",
+         "a": "I am not afraid to speak the truth."
+        },
+        {
+         "q": "7. The insolvent’s property was sold by the official Assignee. The insolvent’s creditors had to be paid.",
+         "a": "The insolvent’s property was sold by the official Assignee to pay the insolvent’s creditors."
+        },
+        {
+         "q": "8. He wants to earn his livelihood. He works hard for that reason.",
+         "a": "He works hard to earn his livelihood."
+        },
+        {
+         "q": "9. The strikers held a meeting. They wished to discuss the terms of the employers.",
+         "a": "The strikers held a meeting to discuss the terms of the employers."
+        },
+        {
+         "q": "10. He has five children. He must provide for them.",
+         "a": "He has five children to provide for."
+        },
+        {
+         "q": "11. The old man has now little energy left. He cannot take his morning constitutional exercises.",
+         "a": "The old man has now little energy left to take his morning constitutional exercises."
+        },
+        {
+         "q": "12. The Rajah allowed no cows to be slaughtered in his territory. It was his custom.",
+         "a": "It was the Rajah’s custom to allow no cows to be slaughtered in his territory."
+        },
+        {
+         "q": "13. He formed a resolution. It was to the effect that he would not speculate any more.",
+         "a": "He formed a resolution not to speculate any more."
+        },
+        {
+         "q": "14. Everyone should do his duty. India expects this of every man.",
+         "a": "India expects every man to do his duty."
+        },
+        {
+         "q": "15. She visits the poor. She is anxious to relieve them of their sufferings.",
+         "a": "She visits the poor to relieve them of their sufferings."
+        },
+        {
+         "q": "16. He collects old stamps even at great expense. This is his hobby.",
+         "a": "It is his hobby to collect old stamps even at great expense."
+        },
+        {
+         "q": "17. He must apologise for his misconduct. It is the only way to escape punishment.",
+         "a": "The only way for him to escape punishment is to apologise for his misconduct."
+        },
+        {
+         "q": "18. I have no aptitude for business. I must speak it out frankly.",
+         "a": "To speak out frankly, I have no aptitude for business."
+        },
+        {
+         "q": "19. He was desirous of impressing his host. So he was on his best behaviour in his presence.",
+         "a": "To impress his host he was on his best behaviour in his presence."
+        },
+        {
+         "q": "20. That young man has squandered away all his patrimony. He must have been very foolish.",
+         "a": "That young man must have been very foolish to squander away all his patrimony."
+        },
+        {
+         "q": "21. He has risen to eminence from poverty and obscurity. It is highly creditable.",
+         "a": "It is highly creditable for him to have risen to eminence from poverty and obscurity."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "infinitive",
+     "sd": "مصدر",
+     "syn": "the base of a verb, often preceded by to"
+    },
+    {
+     "w": "verb-noun",
+     "sd": "فعل اسم",
+     "syn": "a word that is partly a verb and partly a noun"
+    },
+    {
+     "w": "simple infinitive",
+     "sd": "سادو مصدر",
+     "syn": "the infinitive used like a noun"
+    },
+    {
+     "w": "gerundial infinitive",
+     "sd": "صفتي مصدر",
+     "syn": "the infinitive used to qualify a verb, adjective, noun or sentence"
+    },
+    {
+     "w": "qualify",
+     "sd": "بيان ڪرڻ",
+     "syn": "to describe or limit the meaning of a word"
+    },
+    {
+     "w": "adjunct",
+     "sd": "اضافو",
+     "syn": "a word or phrase added to complete the sense"
+    },
+    {
+     "w": "purpose",
+     "sd": "مقصد",
+     "syn": "the reason for doing something"
+    },
+    {
+     "w": "desolation",
+     "sd": "تباھي",
+     "syn": "ruin and emptiness"
+    },
+    {
+     "w": "insolvent",
+     "sd": "ديواليو",
+     "syn": "unable to pay one's debts"
+    },
+    {
+     "w": "patrimony",
+     "sd": "ورثو",
+     "syn": "property inherited from one's father"
+    },
+    {
+     "w": "eminence",
+     "sd": "بلندي",
+     "syn": "high rank or fame"
+    }
+   ]
+  },
+  {
+   "unit": 29,
+   "title": "The Participle",
+   "display": "The Participle",
+   "reading": "The Participle",
+   "sections": [
+    {
+     "name": "What is a Participle?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §260)",
+       "items": [
+        {
+         "q": "Read this sentence: Hearing the noise, the boy woke up. What is 'hearing'?",
+         "a": "The word hearing qualifies the noun boy as an Adjective does.\nIt is formed from the Verb hear, and governs an object.\nThe word hearing, therefore, partakes of the nature of both a Verb and an Adjective, and is called a Participle.\nIt may be called a Verbal Adjective."
+        },
+        {
+         "q": "Give the definition of a participle.",
+         "a": "Def.—A participle is that form of the Verb which partakes of the nature both of a Verb and of an Adjective.\n[Or] A participle is a word which is partly a Verb and partly an Adjective."
+        },
+        {
+         "q": "What is a Participle Phrase?",
+         "a": "Note—The phrase ‘Hearing the noise’, which is introduced by a Participle, is called a Participle Phrase. According to its use here, it is an Adjective Phrase."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Present Participle",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §261)",
+       "items": [
+        {
+         "q": "Give examples of the Present Participle.",
+         "a": "1. We met a girl carrying a basket of flowers.\n2. Loudly knocking at the gate, he demanded admission.\n3. The child, thinking all was safe, attempted to cross the road.\n4. He rushed into the field, and foremost fighting fell."
+        },
+        {
+         "q": "What is the Present Participle?",
+         "a": "The above are all examples of what is usually called the Present Participle, which ends in -ing and represents an action as going on or incomplete or imperfect."
+        },
+        {
+         "q": "What can the Present Participle do, like a verb?",
+         "a": "If the verb from which it comes is Transitive, it takes an object, as in sentence 1.\nNotice also that in sentence 2, the Participle is modified by an adverb."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Past and Perfect Participles",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §262)",
+       "items": [
+        {
+         "q": "What is the Past Participle? Give examples.",
+         "a": "Besides the Present Participle, we can form from each verb another Participle called its Past Participle, which represents a completed action or state of the thing spoken of.\nBlinded by a dust storm, they fell into disorder.\nDeceived by his friends, he lost all hope.\nTime misspent is time lost.\nDriven by hunger, he stole a piece of bread.\nWe saw a few trees laden with fruit.\nIt will be noticed that the Past Participle usually ends in -ed, -d, -t, -en, or -n."
+        },
+        {
+         "q": "What is the Perfect Participle? Give an example.",
+         "a": "Besides these two simple participles, the Present and the Past, we have what is called a Perfect Participle that represents an action as completed at some past time; as,\nHaving rested, we continued our journey."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Participle Adjectives",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §263)",
+       "items": [
+        {
+         "q": "When are participles called Participle Adjectives?",
+         "a": "In the following examples the Participles are used as simple qualifying adjectives in front of a noun; thus used they are called Participle Adjectives."
+        },
+        {
+         "q": "Give examples of Participle Adjectives.",
+         "a": "A rolling stone gathers no moss.\nWe had a drink of the sparkling water.\nHis tattered coat needs mending.\nThe creaking door awakened the dog.\nA lying witness ought to be punished.\nHe played a losing game.\nA burnt child dreads the fire.\nHis finished manners produced a very favourable impression.\nHe wears a worried look.\nEducation is the most pressing need of our country.\nHe was reputed to be the most learned man of his time."
+        },
+        {
+         "q": "Can a participle be compared?",
+         "a": "From the last two examples it will be noticed that a Participle admits of degrees of comparison."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Present Participle active, Past Participle passive",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §264)",
+       "items": [
+        {
+         "q": "How do the Present and Past Participles differ in meaning when used as adjectives?",
+         "a": "Used adjectivally the Past Participle is Passive in meaning, while the Present Participle is Active in meaning; as,\na spent swimmer = a swimmer who is tired out;\na burnt child = a child who is burnt;\na painted doll = a doll which is painted;\na rolling stone = a stone which rolls."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "What we have learnt about the Participle",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §265)",
+       "items": [
+        {
+         "q": "Recapitulate what we have learnt about the Participle.",
+         "a": "(1) A participle is a Verbal Adjective.\n(2) Like a Verb it may govern a noun or pronoun; as,\nHearing the noise, the boy woke up. [The noun noise is governed by the participle Hearing].\n(3) Like a Verb it may be modified by an adverb; as,\nLoudly knocking at the gate, he demanded admission. [Here the participle knocking is modified by the adverb Loudly.]\n(4) Like an adjective it may qualify a noun or pronoun; as,\nHaving rested, the men continued their journey.\n(5) Like an Adjective it may be compared; as,\nEducation is the most pressing need of our time. [Here the participle pressing is compared by prefixing most.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The forms of the Participles",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §266)",
+       "items": [
+        {
+         "q": "Give the forms of the different Participles.",
+         "a": "Active:\nPresent: loving — Perfect: having loved\nPassive:\nPresent: being loved — Perfect: having been loved — Past: loved"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Participles in tenses and in the Passive",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §267)",
+       "items": [
+        {
+         "q": "How are the Continuous Tenses formed?",
+         "a": "It will be noticed that the Continuous Tenses (Active Voice) are formed from the Present Participle with tenses of the verb be; as,\nI am loving. I was loving. I shall be loving."
+        },
+        {
+         "q": "How are the Perfect Tenses formed?",
+         "a": "The Perfect Tenses (Active Voice) are formed from the Past Participle with tenses of the verb have; as,\nI have loved. I had loved. I shall have loved."
+        },
+        {
+         "q": "How is the Passive Voice formed?",
+         "a": "The Passive Voice is formed from the Past Participle with tenses of the verb be; as,\nI am loved. I was loved. I shall be loved."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Attributive, Predicative and Absolute uses",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §268)",
+       "items": [
+        {
+         "q": "How may participles be used? (1) Attributively. (2) Predicatively.",
+         "a": "We have seen that Participles qualify nouns or pronouns. They may be used—\n(1) Attributively; as,\nA rolling stone gathers no moss.\nHis tattered coat needs mending.\nA lost opportunity never returns.\n(2) Predicatively; as,\nThe man seems worried. (Modifying the Subject)\nHe kept me waiting. (Modifying the Object)"
+        },
+        {
+         "q": "What is an Absolute Phrase? What is a Nominative Absolute?",
+         "a": "(3) Absolutely with a noun or pronoun going before; as,\nThe weather being fine, I went out.\nMany having arrived, we were freed from anxiety.\nWeather permitting, there will be a garden party at Government House tomorrow.\nGod willing, we shall have another good monsoon.\nThe sea being smooth, we went for sail.\nThe wind having failed, the crew set to work with a will.\nHis master being absent, the business was neglected.\nThe wind being favourable, they embarked.\nIt will be seen that in each of the above sentences the Participle with the noun or pronoun going before it, forms a phrase independent of the rest of the sentence. Such a phrase is called an Absolute Phrase; and a noun or pronoun so used with a participle is called a Nominative Absolute."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Absolute Phrase as a clause",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §269)",
+       "items": [
+        {
+         "q": "How can an Absolute Phrase be changed into a subordinate clause?",
+         "a": "An Absolute Phrase can be easily changed into a subordinate clause; as,\nSpring advancing, the swallows appear. [When spring advances. — Clause of Time]\nThe sea being smooth, we went for a sail. [Because the sea was smooth. — Clause of Reason]\nGod willing, we shall meet again. [If God is willing. — Clause of Condition]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Errors in the use of Participles",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §270)",
+       "items": [
+        {
+         "q": "Why must a participle always have a proper 'subject of reference'?",
+         "a": "Since the participle is a verb-adjective it must be attached to some noun or pronoun; in other words, it must always have a proper ‘subject of reference’."
+        },
+        {
+         "q": "Correct these sentences: (1) Standing at the gate, a scorpion stung him. (2) Going up the hill, an old temple was seen. (3) Entering the room, the light was quite dazzling.",
+         "a": "The following sentences are incorrect because in each case the Participle is left without proper agreement:\n1. Standing at the gate, a scorpion stung him. (As it is, the sentence reads as if the scorpion was standing at the gate.)\n2. Going up the hill, an old temple was seen.\n3. Entering the room, the light was quite dazzling.\nWe should, therefore, recast these sentences as shown below:\n1. Standing at the gate, he was stung by a scorpion.\nOr: While he was standing at the gate, a scorpion stung him.\n2. When we went up the hill, we saw an old temple.\n3. Entering the room, I found the light quite dazzling.\nOr: When I entered the room, the light was quite dazzling."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Impersonal Absolute",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §271)",
+       "items": [
+        {
+         "q": "When may a participle be left without a proper 'subject of reference'?",
+         "a": "Usage, however, permits in certain cases such constructions as the following where the participle is left without a proper ‘subject of reference’. [The Participle in such cases is called an Impersonal Absolute.]\nTaking everything into consideration, the Magistrate was perfectly justified in issuing those orders.\nConsidering his abilities, he should have done better.\nRoughly speaking, the distance from here to the nearest railway station is two miles.\nIt will be noticed that in the above instances the unexpressed subject is indefinite.\nThus, ‘Roughly speaking’ = If one speaks roughly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Participle understood",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §272)",
+       "items": [
+        {
+         "q": "Give examples where the Participle is understood.",
+         "a": "Sometimes, as in the following examples, the Participle is understood:\nSword (being) in hand, he rushed on the jailor.\nBreakfast (having been) over, we went out for a walk."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The implied meaning of Participles",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 29, §273)",
+       "items": [
+        {
+         "q": "What implied meanings can a participle phrase contain?",
+         "a": "Participles sometimes contain an implied meaning, which can be more fully expressed by changing the participle phrase into a clause of: (a) time, (b) cause, (c) concession, or (d) condition. [See § 269]"
+        },
+        {
+         "q": "Give examples of the implied meanings of participles.",
+         "a": "(a) Having done his lesson (= after he had done his lesson), he went out to play cricket.\nWalking along the street one day (= while I was walking along the street one day) I saw a dead cobra.\n(b) Being overpowered (= because he was overpowered), he surrendered.\nRunning at top speed (= because he ran at top speed), he got out of breath.\n(c) Possessing all the advantages of education and wealth (= although he possessed all the advantages of education and wealth), he never made a name.\n(d) Following my advice (= if you follow my advice), you will gain your object.\nSeven were killed, including the guard (= if the guard is included)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 51",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 51 — from the book (Wren & Martin, Chapter 29). Pick out the Participle in each of the following sentences. Tell whether it is a Present or a Past participle, and also how it is used.",
+       "items": [
+        {
+         "q": "1. Generally speaking, we receive what we deserve.",
+         "a": "speaking — Present Participle, Impersonal Absolute."
+        },
+        {
+         "q": "2. Having gained truth, keep truth.",
+         "a": "Having gained — Perfect Participle, governing the noun ‘truth’."
+        },
+        {
+         "q": "3. I saw the storm approaching.",
+         "a": "approaching — Present Participle, attached to the noun ‘storm’."
+        },
+        {
+         "q": "4. Hearing a noise, I turned round.",
+         "a": "Hearing — Present Participle, governing the noun ‘noise’."
+        },
+        {
+         "q": "5. Considering the facts, he received scant justice.",
+         "a": "Considering — Present Participle, Impersonal Absolute."
+        },
+        {
+         "q": "6. The enemy, beaten at every point, fled from the field.",
+         "a": "beaten — Past Participle, qualifying the noun ‘enemy’."
+        },
+        {
+         "q": "7. Being dissatisfied, he resigned his position.",
+         "a": "Being dissatisfied — Present Participle, qualifying the pronoun ‘he’."
+        },
+        {
+         "q": "8. The rain came pouring down in torrents.",
+         "a": "pouring — Present Participle, attached to the verb ‘come’."
+        },
+        {
+         "q": "9. Having elected him President, the people gave him their loyal support.",
+         "a": "Having elected — Perfect Participle, governing the pronoun ‘him’."
+        },
+        {
+         "q": "10. The traveller, being weary, sat by the woodside to rest.",
+         "a": "being — Present Participle, used absolutely with the noun ‘traveller’."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 52",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 52 — from the book (Wren & Martin, Chapter 29). Pick out the Participle in each of the following sentences. Tell whether it is a Present or a Past Participle, and also how it is used.",
+       "items": [
+        {
+         "q": "1. The fat of the body is fuel laid away for use.",
+         "a": "laid — Past Participle, qualifying the noun ‘fuel’."
+        },
+        {
+         "q": "2. Being occupied with important matters, he had no leisure to see us.",
+         "a": "Being occupied — Present Participle, qualifying the pronoun ‘he’."
+        },
+        {
+         "q": "3. The children coming home from school look in at the open door.",
+         "a": "coming — Present Participle, qualifying the noun ‘children’."
+        },
+        {
+         "q": "4. Michael, bereft of his son Luke, died of a broken heart.",
+         "a": "bereft — Past Participle, qualifying the noun ‘Michael’."
+        },
+        {
+         "q": "5. Books read in childhood seem like old friends.",
+         "a": "read — Past Participle, qualifying the noun ‘books’."
+        },
+        {
+         "q": "6. Lessons learned easily are soon forgotten.",
+         "a": "learned — Past Participle, qualifying the noun ‘lessons’."
+        },
+        {
+         "q": "7. A word fitly spoken is like apples of gold in pictures (baskets) of silver.",
+         "a": "spoken — Past Participle, qualifying the noun ‘word’."
+        },
+        {
+         "q": "8. Seeing the sunshine, I threw open the window.",
+         "a": "Seeing — Present Participle, governing the noun ‘sunshine’ and qualifying the pronoun ‘I’."
+        },
+        {
+         "q": "9. Seizing him by the arm, his friend led him away.",
+         "a": "Seizing — Present Participle, governing the pronoun ‘him’ and qualifying the noun ‘friend’."
+        },
+        {
+         "q": "10. Encouraged by his wife, he persevered.",
+         "a": "Encouraged — Past Participle, qualifying the pronoun ‘he’."
+        },
+        {
+         "q": "11. Overcome by remorse, he determined to atone for his crime by liberality to the church.",
+         "a": "Overcome — Past Participle, qualifying the pronoun ‘he’."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 53",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 53 — from the book (Wren & Martin, Chapter 29). Combine the following pairs of sentences by making use of a Participle. [Examples: The magician took pity on the mouse. He turned it into a cat. = Taking pity on the mouse, the magician turned it into a cat. The train was ready to leave the station. The people had taken their seats. = The people having taken their seats, the train was ready to leave the station.] (Items 9–18: the Key print is blurred; those answers are worked out from §§260–268.)",
+       "items": [
+        {
+         "q": "1. The porter opened the gate. We entered.",
+         "a": "The porter having opened the gate, we entered."
+        },
+        {
+         "q": "2. We started early. We arrived at noon.",
+         "a": "Starting/Having started early, we arrived at noon."
+        },
+        {
+         "q": "3. We met a man. He was carrying a log of wood.",
+         "a": "We met a man carrying a log of wood."
+        },
+        {
+         "q": "4. The stable door was open. The horse was stolen.",
+         "a": "The stable door being open, the horse was stolen."
+        },
+        {
+         "q": "5. He seized his stick. He rushed to the door.",
+         "a": "Seizing/Having seized his stick, he rushed to the door."
+        },
+        {
+         "q": "6. The hunter took up his gun. He went out to shoot the lion.",
+         "a": "Taking/Having taken up his gun, the hunter went out to shoot the lion."
+        },
+        {
+         "q": "7. A crow stole a piece of cheese. She flew to her nest to enjoy the tasty meal.",
+         "a": "Stealing/Having stolen a piece of cheese, a crow flew to her nest to enjoy the tasty meal."
+        },
+        {
+         "q": "8. The wolf wished to pick a quarrel with the lamb. He said, “How dare you make the water muddy?”",
+         "a": "Wishing to pick a quarrel with the lamb, the wolf said, “How dare you make the water muddy?”"
+        },
+        {
+         "q": "9. A passenger alighted from the train. He fell over a bag on the platform.",
+         "a": "Alighting/Having alighted from the train, a passenger fell over a bag on the platform."
+        },
+        {
+         "q": "10. Nanak met his brother in the street. He asked him where he was going.",
+         "a": "Meeting his brother in the street, Nanak asked him where he was going."
+        },
+        {
+         "q": "11. My sister was charmed with the silk. She bought ten yards.",
+         "a": "Being charmed with the silk, my sister bought ten yards."
+        },
+        {
+         "q": "12. The steamer was delayed by a storm. She came into port a day late.",
+         "a": "Being delayed by a storm, the steamer came into port a day late."
+        },
+        {
+         "q": "13. He had resolved on a certain course. He acted with vigour.",
+         "a": "Having resolved on a certain course, he acted with vigour."
+        },
+        {
+         "q": "14. He staggered back. He sank to the ground.",
+         "a": "Staggering back, he sank to the ground."
+        },
+        {
+         "q": "15. The letter was badly written. I had great difficulty in making out its contents.",
+         "a": "The letter being badly written, I had great difficulty in making out its contents."
+        },
+        {
+         "q": "16. They had no fodder. They could give the cow nothing to eat.",
+         "a": "Having no fodder, they could give the cow nothing to eat."
+        },
+        {
+         "q": "17. A hungry fox saw some bunches of grapes. They were hanging from a vine.",
+         "a": "A hungry fox saw some bunches of grapes hanging from a vine."
+        },
+        {
+         "q": "18. Cinderella hurried away with much haste. She dropped one of her little glass slippers.",
+         "a": "Hurrying away with much haste, Cinderella dropped one of her little glass slippers."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 54",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 54 — from the book (Wren & Martin, Chapter 29). Rewrite each of the following sentences, by changing the Participle into a Finite Verb. [Examples: Quitting the forest, we advanced into the open plain. = We quitted the forest and advanced into the open plain. Driven out of his country, he sought asylum in a foreign land. = As he was driven out of his country, he sought asylum in a foreign land.] (Some answers: the Key print is blurred; those are worked out from §§269 and §273.)",
+       "items": [
+        {
+         "q": "1. Going up the stairs, the boy fell down.",
+         "a": "When he was going up the stairs, the boy fell down."
+        },
+        {
+         "q": "2. Having lost my passport, I applied for a new one.",
+         "a": "As I had lost my passport, I applied for a new one."
+        },
+        {
+         "q": "3. I once saw a man walking on a rope.",
+         "a": "I once saw a man who was walking on a rope."
+        },
+        {
+         "q": "4. Walking on the roof, he slipped and fell.",
+         "a": "As he was walking on the roof, he slipped and fell."
+        },
+        {
+         "q": "5. Having no guide with us, we lost our way.",
+         "a": "As we had no guide with us, we lost our way."
+        },
+        {
+         "q": "6. The stable door being open, the horse was stolen.",
+         "a": "As the stable door was open, the horse was stolen."
+        },
+        {
+         "q": "7. Being paralytic, he could not walk.",
+         "a": "As he was paralytic, he could not walk."
+        },
+        {
+         "q": "8. Hearing the noise, I woke up.",
+         "a": "When I heard the noise, I woke up."
+        },
+        {
+         "q": "9. Caesar being murdered, the dictatorship came to an end.",
+         "a": "Caesar was murdered and the dictatorship came to an end."
+        },
+        {
+         "q": "10. Working all day, I was fatigued.",
+         "a": "As I had worked all day, I was fatigued."
+        },
+        {
+         "q": "11. We met an old Sadhu walking to Varanasi.",
+         "a": "We met an old Sadhu who was walking to Varanasi."
+        },
+        {
+         "q": "12. Having come of age, his son entered into partnership with him.",
+         "a": "When his son had come of age, he entered into partnership with him."
+        },
+        {
+         "q": "13. Having failed in the first attempt, he made no further attempts.",
+         "a": "He failed in the first attempt and made no further attempts."
+        },
+        {
+         "q": "14. Walking up to the front door, I rang the bell.",
+         "a": "I walked up to the front door and rang the bell."
+        },
+        {
+         "q": "15. Winter coming on, the grasshopper had no food.",
+         "a": "As winter came on, the grasshopper had no food."
+        },
+        {
+         "q": "16. Enchanted with the whole scene, I lingered on my voyage.",
+         "a": "As I was enchanted with the whole scene, I lingered on my voyage."
+        },
+        {
+         "q": "17. The enemy disputed their ground inch by inch, fighting with the fury of despair.",
+         "a": "The enemy fought with the fury of despair and disputed their ground inch by inch."
+        },
+        {
+         "q": "18. Mounting his horse, the bandit rode off.",
+         "a": "The bandit mounted his horse and rode off."
+        },
+        {
+         "q": "19. The policeman, running with all his speed, was scarcely able to overtake the thief.",
+         "a": "The policeman ran with all his speed and was scarcely able to overtake the thief."
+        },
+        {
+         "q": "20. Not knowing my way, I asked a policeman.",
+         "a": "As I did not know my way, I asked a policeman."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "participle",
+     "sd": "فعل صفتي",
+     "syn": "a form of the verb that is partly a verb and partly an adjective"
+    },
+    {
+     "w": "verbal adjective",
+     "sd": "فعلي صفت",
+     "syn": "a participle used as an adjective"
+    },
+    {
+     "w": "present participle",
+     "sd": "حال وارو اسم فاعل",
+     "syn": "the -ing form of a verb, showing an incomplete action"
+    },
+    {
+     "w": "past participle",
+     "sd": "اسم مفعول",
+     "syn": "the third form of a verb, showing a completed action"
+    },
+    {
+     "w": "perfect participle",
+     "sd": "مڪمل اسم فاعل",
+     "syn": "having + past participle, as having rested"
+    },
+    {
+     "w": "absolute phrase",
+     "sd": "مطلق جملي جو ٽڪرو",
+     "syn": "a participle with a noun or pronoun before it, independent of the rest of the sentence"
+    },
+    {
+     "w": "nominative absolute",
+     "sd": "فاعلي مطلق",
+     "syn": "a noun or pronoun used with a participle absolutely"
+    },
+    {
+     "w": "impersonal absolute",
+     "sd": "غير ذاتي مطلق",
+     "syn": "a participle left without a subject, as 'roughly speaking'"
+    },
+    {
+     "w": "dangling participle",
+     "sd": "اڻ ڳنڍيل فعل صفتي",
+     "syn": "a participle left without a proper subject of reference"
+    },
+    {
+     "w": "concession",
+     "sd": "رعايت",
+     "syn": "admitting something although it is against the main point"
+    },
+    {
+     "w": "scant",
+     "sd": "ٿورو",
+     "syn": "very little"
+    },
+    {
+     "w": "remorse",
+     "sd": "پڇتاءُ",
+     "syn": "deep regret for a wrong done"
+    }
+   ]
+  },
+  {
+   "unit": 30,
+   "title": "The Gerund",
+   "display": "The Gerund",
+   "reading": "The Gerund",
+   "sections": [
+    {
+     "name": "What is a Gerund?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §274)",
+       "items": [
+        {
+         "q": "Read this sentence: Reading is his favourite pastime. What is 'reading'?",
+         "a": "The word reading is formed from the Verb read, by adding ing.\nWe also see that it is here used as the Subject of a verb, and hence does the work of a Noun. It is, therefore, a Verb-Noun, and is called a Gerund."
+        },
+        {
+         "q": "Give further examples of the Gerund.",
+         "a": "1. Playing cards is not allowed here.\n2. I like reading poetry.\n3. He is fond of hoarding money."
+        },
+        {
+         "q": "How does the Gerund show that it has the force of a verb too?",
+         "a": "In sentence 1, the Gerund, like a noun, is the subject of a verb, but, like a verb, it also takes an object, thus clearly showing that it has also the force of a verb.\nIn sentence 2, the Gerund, like a noun, is the object of a verb but, like a verb, it also takes an object, thus clearly showing that it has also the force of a verb.\nIn sentence 3, the Gerund, like a noun, is governed by a preposition, but, like a verb, it also takes an object."
+        },
+        {
+         "q": "What do the Infinitive and the Gerund have in common?",
+         "a": "It will be noticed that the Infinitive and the Gerund are alike in being used as Nouns, while still retaining the power that a Verb has of governing another noun or pronoun in the objective case."
+        },
+        {
+         "q": "Give the definition of a Gerund.",
+         "a": "Def.—A Gerund is that form of the verb which ends in -ing, and has the force of a Noun and a Verb."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Gerund and the Infinitive",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §275)",
+       "items": [
+        {
+         "q": "Can the Gerund and the Infinitive be used in the same way?",
+         "a": "As both the Gerund and the Infinitive have the force of a Noun and a Verb, they have the same uses. Thus in many sentences either of them may be used without any special difference in meaning; as,\nTeach me to swim. — Teach me swimming.\nTo see is to believe. — Seeing is believing.\nTo give is better than to receive. — Giving is better than receiving."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Compound Gerund forms",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §276)",
+       "items": [
+        {
+         "q": "Give examples of Compound Gerund forms.",
+         "a": "I heard of his having gained a prize.\nWe were fatigued on account of having walked so far.\nThey were charged with having sheltered anarchists.\nHe is desirous of being praised."
+        },
+        {
+         "q": "How are Compound Gerund forms formed?",
+         "a": "It will be noticed that Compound Gerund forms are formed by placing a Past Participle after the Gerunds of have and be."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The forms of the Gerund",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §277)",
+       "items": [
+        {
+         "q": "What are the forms of the Gerund of a Transitive verb?",
+         "a": "The Gerund of a Transitive verb has the following forms:\nActive:\nPresent: loving — Perfect: having loved\nPassive:\nPresent: being loved — Perfect: having been loved"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Gerund and Participle distinguished",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §278)",
+       "items": [
+        {
+         "q": "How are the Gerund and the Present Participle distinguished?",
+         "a": "As both the Gerund and the Present Participle end in -ing, they must be carefully distinguished.\nThe Gerund has the force of a Noun and a verb; it is a Verbal Noun.\nThe Present Participle has the force of an Adjective and a Verb; it is a Verbal Adjective."
+        },
+        {
+         "q": "Give examples of the Gerund.",
+         "a": "He is fond of playing cricket.\nThe old man was tired of walking.\nWe were prevented from seeing the prisoner.\nSeeing is believing."
+        },
+        {
+         "q": "Give examples of the Participle.",
+         "a": "Playing cricket, he gained health.\nWalking along the road, he noticed a dead cobra.\nSeeing, he believed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The Gerund used like an ordinary Noun",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §279)",
+       "items": [
+        {
+         "q": "Read this sentence: The indiscriminate reading of novels is injurious. How is 'reading' used here?",
+         "a": "Here reading is used like an ordinary Noun.\nNotice that the is used before and of after it."
+        },
+        {
+         "q": "Give further examples of Gerunds used like ordinary Nouns.",
+         "a": "The making of the plan is in hand.\nThe time of the singing of the birds has come.\nAdam consented to the eating of the fruit.\nThe middle station of life seems to be the most advantageously situated for the gaining of wisdom."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Gerunds in compound nouns",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §280)",
+       "items": [
+        {
+         "q": "Give examples of Gerunds in compound nouns.",
+         "a": "In such Compound nouns as:\nwalking stick, frying pan, hunting whip, fencing-stick, writing-table\nwalking, frying, hunting, fencing, writing are Gerunds.\nThey mean ‘a stick for walking,’ ‘a pan for frying,’ ‘a whip for hunting,’ ‘a stick for fencing,’ and ‘a table for writing.’"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Possessive or Objective before a Gerund",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §281)",
+       "items": [
+        {
+         "q": "Compare: (1) I hope you will excuse my leaving early. (2) I hope you will excuse me leaving early. Which is correct?",
+         "a": "In the first sentence the word preceding the gerund is in the possessive case, while in the second sentence it is in the objective case. Both the sentences are correct. We can use either the possessive case or objective case of nouns and pronouns before gerunds.\nThe possessive is more formal, and it is less usual in everyday speech. Here are further examples:\nWe rejoiced at his/him being promoted.\nI insist on your/you being present.\nDo you mind my/me sitting here?\nAll depends on Karim’s/Karim passing the exam.\nI disliked the manager’s/manager asking me personal questions.\nThe accident was due to the engine-driver’s/engine-driver disregarding the signals."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The uses of the Gerund",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 30, §282)",
+       "items": [
+        {
+         "q": "How may a Gerund be used? (1) Subject of a verb. (2) Object of a transitive verb.",
+         "a": "A Gerund being a verb-noun may be used as —\n(1) Subject of a verb: as,\nSeeing is believing.\nHunting deer is not allowed in this country.\n(2) Object of a transitive verb; as,\nStop playing.\nChildren love making mud castles.\nI like reading poetry.\nHe contemplated marrying his cousin."
+        },
+        {
+         "q": "How may a Gerund be used? (3) Object of a preposition. (4) Complement of a verb. (5) Absolutely.",
+         "a": "(3) Object of a preposition; as,\nI am tired of waiting.\nHe is fond of swimming.\nHe was punished for telling a lie.\nWe were prevented from seeing the prisoner.\nI have an aversion to fishing.\n(4) Complement of a verb; as,\nSeeing is believing.\nWhat I most detest is smoking.\n(5) Absolutely; as,\nPlaying cards being his aversion, we did not play bridge."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 55",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 55 — from the book (Wren & Martin, Chapter 30). Point out the Participles and Gerunds in the following sentences. In the case of the Participle, name the noun or pronoun which it qualifies. In the case of the Gerund, state whether it is subject, object, complement, or used after a preposition. (Items 1–15: the Key print is too blurred to read word for word; those answers are worked out from §§274–282. Items 16–24 follow the Key.)",
+       "items": [
+        {
+         "q": "1. He was found fighting desperately for his life.",
+         "a": "fighting — Present Participle, qualifying the pronoun ‘he’."
+        },
+        {
+         "q": "2. He has ruined his sight by reading small print.",
+         "a": "reading — Gerund, object of the preposition ‘by’."
+        },
+        {
+         "q": "3. Hearing the noise, he ran to the window.",
+         "a": "Hearing — Present Participle, governing the noun ‘noise’ and qualifying the pronoun ‘he’."
+        },
+        {
+         "q": "4. We saw a clown standing on his head.",
+         "a": "standing — Present Participle, qualifying the noun ‘clown’."
+        },
+        {
+         "q": "5. Asking questions is easier than answering them.",
+         "a": "Asking — Gerund, subject of the verb ‘is’; answering — Gerund, object of the preposition ‘than’."
+        },
+        {
+         "q": "6. Waving their hats and handkerchiefs, the people cheered the king.",
+         "a": "Waving — Present Participle, qualifying the pronoun ‘people’."
+        },
+        {
+         "q": "7. Walking on the grass is forbidden.",
+         "a": "Walking — Gerund, subject of the verb ‘is’."
+        },
+        {
+         "q": "8. Jumping over the fence, the thief escaped.",
+         "a": "Jumping — Present Participle, qualifying the noun ‘thief’."
+        },
+        {
+         "q": "9. The miser spends his time in hoarding money.",
+         "a": "hoarding — Gerund, object of the preposition ‘in’."
+        },
+        {
+         "q": "10. Much depends on Rama’s returning before noon.",
+         "a": "returning — Gerund, object of the preposition ‘on’."
+        },
+        {
+         "q": "11. Amassing wealth often ruins health.",
+         "a": "Amassing — Gerund, subject of the verb ‘ruins’."
+        },
+        {
+         "q": "12. I was surprised at Hari’s being absent.",
+         "a": "being — Gerund, object of the preposition ‘at’."
+        },
+        {
+         "q": "13. We spent the afternoon in playing cards.",
+         "a": "playing — Gerund, object of the preposition ‘in’."
+        },
+        {
+         "q": "14. The miser hated spending money.",
+         "a": "spending — Gerund, object of the verb ‘hated’."
+        },
+        {
+         "q": "15. She was angry at Saroja trying to lie to her.",
+         "a": "trying — Gerund, object of the preposition ‘at’."
+        },
+        {
+         "q": "16. Praising all alike is praising none.",
+         "a": "Praising — Gerund, subject of the verb ‘is’; praising — Gerund, complement of the verb ‘is’."
+        },
+        {
+         "q": "17. Are you afraid of his hearing you?",
+         "a": "hearing — Gerund, object of the preposition ‘of’."
+        },
+        {
+         "q": "18. I determined to increase my salary by managing a little farm.",
+         "a": "managing — Gerund, object of the preposition ‘by’."
+        },
+        {
+         "q": "19. Success is not merely winning applause.",
+         "a": "winning — Gerund, complement of the verb ‘is’."
+        },
+        {
+         "q": "20. The year was spent in visiting our rich neighbours.",
+         "a": "visiting — Gerund, object of the preposition ‘in’."
+        },
+        {
+         "q": "21. Singing to herself was her chief delight.",
+         "a": "Singing — Gerund, subject of the verb ‘was’."
+        },
+        {
+         "q": "22. He preferred playing football to studying his lessons.",
+         "a": "playing — Gerund, object of the verb ‘preferred’; studying — Gerund, object of the preposition ‘to’."
+        },
+        {
+         "q": "23. I thank thee, Jew, for teaching me that word.",
+         "a": "teaching — Gerund, object of the preposition ‘for’."
+        },
+        {
+         "q": "24. I cannot go on doing nothing.",
+         "a": "doing — Gerund, object of ‘go on’ (phrasal verb)."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "gerund",
+     "sd": "اسم مصدر",
+     "syn": "the -ing form of a verb used as a noun"
+    },
+    {
+     "w": "verbal noun",
+     "sd": "فعلي اسم",
+     "syn": "a verb form used as a noun, as the gerund"
+    },
+    {
+     "w": "compound gerund",
+     "sd": "مرڪب اسم مصدر",
+     "syn": "a gerund form with having or being, as having gained"
+    },
+    {
+     "w": "pastime",
+     "sd": "تفريح",
+     "syn": "something done for pleasure in free time"
+    },
+    {
+     "w": "hoarding",
+     "sd": "جمع ڪرڻ",
+     "syn": "storing up money or things"
+    },
+    {
+     "w": "indiscriminate",
+     "sd": "بي فرق",
+     "syn": "done without choosing carefully"
+    },
+    {
+     "w": "injurious",
+     "sd": "نقصانڪار",
+     "syn": "harmful"
+    },
+    {
+     "w": "aversion",
+     "sd": "نفرت",
+     "syn": "a strong dislike"
+    },
+    {
+     "w": "detest",
+     "sd": "نفرت ڪرڻ",
+     "syn": "to hate very much"
+    },
+    {
+     "w": "contemplate",
+     "sd": "غور ڪرڻ",
+     "syn": "to think about doing something"
+    },
+    {
+     "w": "miser",
+     "sd": "ڪنجوس",
+     "syn": "a person who hoards money and hates spending it"
+    },
+    {
+     "w": "amassing",
+     "sd": "جمع ڪرڻ",
+     "syn": "gathering together in a large amount"
+    }
+   ]
+  },
+  {
+   "unit": 31,
+   "title": "Irregular Verbs",
+   "display": "Irregular Verbs",
+   "reading": "Irregular Verbs",
+   "sections": [
+    {
+     "name": "Regular and Irregular Verbs",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 31, §283)",
+       "items": [
+        {
+         "q": "Can verbs be regular or irregular?",
+         "a": "Verbs can be regular or irregular."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Regular verbs",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 31, §284)",
+       "items": [
+        {
+         "q": "How do regular verbs form their past tense and past participle?",
+         "a": "Regular verbs form their past tense and past participle by adding ed.\nBase Form — Past Tense — Past Participle:\nwalk — walked — walked\nlaugh — laughed — laughed\npaint — painted — painted"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Irregular verbs",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 31, §285)",
+       "items": [
+        {
+         "q": "How do irregular verbs form their past tense and past participle?",
+         "a": "Irregular verbs form their past tense and past participle in a different way from adding ed.\nBase Form — Past Tense — Past Participle:\nsit — sat — sat\nring — rang — rung\ncome — came — come\ncut — cut — cut"
+        },
+        {
+         "q": "What are the three types of irregular verbs?",
+         "a": "We distinguish three types of irregular verbs:\n(1) Verbs in which all three forms are the same (e.g. cut - cut - cut)\n(2) Verbs in which two of the three forms are the same (e.g. sit - sat - sat)\n(3) Verbs in which all three forms are different (e.g. ring - rang - rung)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Type (1) — All three forms are the same",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 31, §286)",
+       "items": [
+        {
+         "q": "Give the list of irregular verbs in which all three forms are the same. (Base Form — Past Tense — Past Participle.)",
+         "a": "bet — bet — bet\nburst — burst — burst\ncost — cost — cost\ncut — cut — cut\nhit — hit — hit\nhurt — hurt — hurt\nlet — let — let\nput — put — put\nread — read — read\nset — set — set\nshut — shut — shut\nsplit — split — split\nspread — spread — spread"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Type (2) — Two of the forms are the same",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 31, §286)",
+       "items": [
+        {
+         "q": "Give the list of irregular verbs in which two of the forms are the same. (Base Form — Past Tense — Past Participle.)",
+         "a": "beat — beat — beaten\nbecome — became — become\nbend — bent — bent\nbleed — bled — bled\nbreed — bred — bred\nbring — brought — brought\nbuild — built — built\nburn — burnt/burned — burnt/burned\nbuy — bought — bought\ncatch — caught — caught\ncome — came — come\ncreep — crept — crept\ndeal — dealt — dealt\ndig — dug — dug\ndream — dreamt/dreamed — dreamt/dreamed\nfeed — fed — fed\nfeel — felt — felt\nfight — fought — fought\nfind — found — found\nget — got — got\nhang — hung — hung\nhave — had — had\nhear — heard — heard\nhold — held — held\nkeep — kept — kept\nlay — laid — laid\nlead — led — led\nlean — lent/leaned — lent/leaned\nlearn — learnt/learned — learnt/learned\nleap — leapt/leaped — leapt/leaped\nleave — left — left\nlend — lent — lent\nlight — lit — lit\nlose — lost — lost\nmake — made — made\nmean — meant — meant\nmeet — met — met\npay — paid — paid\nrun — ran — run\nsay — said — said\nsell — sold — sold\nsend — sent — sent\nshine — shone — shone\nshoot — shot — shot\nsit — sat — sat\nsleep — slept — slept\nsmell — smelt/smelled — smelt/smelled\nspell — spelt — spelt\nspend — spent — spent\nspill — spilt/spilled — spilt/spilled\nspeed — sped — sped\nspell — spelt/spelled — spelt/spelled\nspit — spat — spat\nspoil — spoilt/spoiled — spoilt/spoiled\nstand — stood — stood\nstick — stuck — stuck\nsting — stung — stung\nstrike — struck — struck\nsweep — swept — swept\nswing — swung — swung\nteach — taught — taught\ntell — told — told\nthink — thought — thought\nunderstand — understood — understood\nwin — won — won\nwind — wound — wound"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Type (3) — All three forms are different",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 31, §286)",
+       "items": [
+        {
+         "q": "Give the list of irregular verbs in which all three forms are different. (Base Form — Past Tense — Past Participle.)",
+         "a": "be — was/were — been\nbegin — began — begun\nbite — bit — bitten\nblow — blew — blown\nbreak — broke — broken\nchoose — chose — chosen\ndo — did — done\ndraw — drew — drawn\ndrink — drank — drunk\ndrive — drove — driven\neat — ate — eaten\nfall — fell — fallen\nfly — flew — flown\nforbid — forbade — forbidden\nforget — forgot — forgotten\nforgive — forgave — forgiven\nfreeze — froze — frozen\ngive — gave — given\ngo — went — gone\ngrow — grew — grown\nhide — hid — hidden\nknow — knew — known\nlie — lay — lain\nmistake — mistook — mistaken\nride — rode — ridden\nring — rang — rung\nrise — rose — risen\nsee — saw — seen\nsew — sewed — sewn/sewed\nshake — shook — shaken\nshow — showed — shown\nshrink — shrank — shrunk\nsing — sang — sung\nsink — sank — sunk\nspeak — spoke — spoken\nspring — sprang — sprung\nsteal — stole — stolen\nstink — stank — stunk\nswear — swore — sworn\nswim — swam — swum\ntake — took — taken\ntear — tore — torn\nthrow — threw — thrown\nwake — woke — woken\nwear — wore — worn\nwrite — wrote — written"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Alternative past participles in -en",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 31, §287)",
+       "items": [
+        {
+         "q": "Which verbs have an alternative past participle form ending in -en? How is it used?",
+         "a": "The following verbs have an alternative past participle form (ending in en), which can only be used adjectivally.\nVerb — Usual Past Participle — Adjectival Past Participle:\ndrink — drunk — drunken\nmelt — melted — molten\nprove — proved — proven\nshave — shaved — shaven\nshear — sheared — shorn\nshrink — shrunk — shrunken\nsink — sunk — sunken\nstrike — struck — stricken"
+        },
+        {
+         "q": "Compare the usual and the adjectival past participles.",
+         "a": "(a) — (b):\nHe has drunk liquor. — a drunken soldier\nThe iron has melted. — molten iron\nHe has proved it. — a proven fact\nHe has shaved off his beard. — a clean-shaven face\nThey have sheared the sheep. — a shorn sheep\nThe cloth has shrunk. — a shrunken head\nThe ship has sunk. — a sunken ship\nThe clock has struck five. — a grief-stricken widow"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 56",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 56 — from the book (Wren & Martin, Chapter 31). In the following sentences change the verbs to the Past Tense.",
+       "items": [
+        {
+         "q": "1. Rama writes to his mother every week.",
+         "a": "Rama wrote to his mother every week."
+        },
+        {
+         "q": "2. The wind blows furiously.",
+         "a": "The wind blew furiously."
+        },
+        {
+         "q": "3. The boy stands on the burning deck.",
+         "a": "The boy stood on the burning deck."
+        },
+        {
+         "q": "4. The door flies open.",
+         "a": "The door flew open."
+        },
+        {
+         "q": "5. She sings sweetly.",
+         "a": "She sang sweetly."
+        },
+        {
+         "q": "6. The old woman sits in the sun.",
+         "a": "The old woman sat in the sun."
+        },
+        {
+         "q": "7. Abdul swims very well indeed.",
+         "a": "Abdul swam very well indeed."
+        },
+        {
+         "q": "8. His voice shakes with emotion.",
+         "a": "His voice shook with emotion."
+        },
+        {
+         "q": "9. He drives a roaring trade.",
+         "a": "He drove a roaring trade."
+        },
+        {
+         "q": "10. He bears a grudge against his old uncle.",
+         "a": "He bore a grudge against his old uncle."
+        },
+        {
+         "q": "11. He spends his time in idleness.",
+         "a": "He spent his time in idleness."
+        },
+        {
+         "q": "12. He feels sorry for his faults.",
+         "a": "He felt sorry for his faults."
+        },
+        {
+         "q": "13. A portrait of Mahatma Gandhi hangs on the wall.",
+         "a": "A portrait of Mahatma Gandhi hung on the wall."
+        },
+        {
+         "q": "14. The kite flies gaily into the air.",
+         "a": "The kite flew gaily into the air."
+        },
+        {
+         "q": "15. He wears away his youth in trifles.",
+         "a": "He wore away his youth in trifles."
+        },
+        {
+         "q": "16. What strikes me is the generosity of the offer.",
+         "a": "What struck me was the generosity of the offer."
+        },
+        {
+         "q": "17. He sows the seeds of dissension.",
+         "a": "He sowed the seeds of dissension."
+        },
+        {
+         "q": "18. They all tell the same story.",
+         "a": "They all told the same story."
+        },
+        {
+         "q": "19. He lies in order to escape punishment.",
+         "a": "He lied in order to escape punishment."
+        },
+        {
+         "q": "20. He comes of a good line.",
+         "a": "He came of a good line."
+        },
+        {
+         "q": "21. The boy runs down the road at top speed.",
+         "a": "The boy ran down the road at top speed."
+        },
+        {
+         "q": "22. I do it of my own free will.",
+         "a": "I did it of my own free will."
+        },
+        {
+         "q": "23. His parents withhold their consent to the marriage.",
+         "a": "His parents withheld their consent to the marriage."
+        },
+        {
+         "q": "24. I forget his name.",
+         "a": "I forgot his name."
+        },
+        {
+         "q": "25. He gets along fairly well.",
+         "a": "He got along fairly well."
+        },
+        {
+         "q": "26. They choose Mr. Malik to be their chairman.",
+         "a": "They chose Mr. Malik to be their chairman."
+        },
+        {
+         "q": "27. He throws cold water on my plan.",
+         "a": "He threw cold water on my plan."
+        },
+        {
+         "q": "28. The child clings to her mother.",
+         "a": "The child clung to her mother."
+        },
+        {
+         "q": "29. Judas, overwhelmed with remorse, goes and hangs himself.",
+         "a": "Judas, overwhelmed with remorse, went and hanged himself."
+        },
+        {
+         "q": "30. I know him for an American.",
+         "a": "I knew him for an American."
+        },
+        {
+         "q": "31. He swears a solemn oath that he is innocent.",
+         "a": "He swore a solemn oath that he is innocent."
+        },
+        {
+         "q": "32. In a fit of rage she tears up the letter.",
+         "a": "In a fit of rage she tore up the letter."
+        },
+        {
+         "q": "33. Her head sinks on her shoulder.",
+         "a": "Her head sank on her shoulder."
+        },
+        {
+         "q": "34. She hides her face for shame.",
+         "a": "She hid her face for shame."
+        },
+        {
+         "q": "35. My master bids me work hard.",
+         "a": "My master bade me work hard."
+        },
+        {
+         "q": "36. The books lie in a heap on the floor.",
+         "a": "The books lay in a heap on the floor."
+        },
+        {
+         "q": "37. She lays her working on the table.",
+         "a": "She laid her working on the table."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 57",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 57 — from the book (Wren & Martin, Chapter 31). Fill in the Past Tense or Past Participle of the verb given.",
+       "items": [
+        {
+         "q": "1. see — It is years since I ____ him. He has ____ his best days.",
+         "a": "It is years since I saw him. He has seen his best days."
+        },
+        {
+         "q": "2. fall — Of late the custom has ____ into disuse. The lot ____ upon him.",
+         "a": "Of late the custom has fallen into disuse. The lot fell upon him."
+        },
+        {
+         "q": "3. drink — The toast was ____ with great enthusiasm.",
+         "a": "The toast was drunk with great enthusiasm."
+        },
+        {
+         "q": "4. speak — He ____ freely when he had drunk alcohol. Marathi is ____ in Maharashtra.",
+         "a": "He spoke freely when he had drunk alcohol. Marathi is spoken in Maharashtra."
+        },
+        {
+         "q": "5. wear — My patience ____ out at last. The inscription has ____ away in several places.",
+         "a": "My patience wore out at last. The inscription has worn away in several places."
+        },
+        {
+         "q": "6. tear — In a fit of rage she ____ up the letter. The country is ____ by factions.",
+         "a": "In a fit of rage she tore up the letter. The country is torn by factions."
+        },
+        {
+         "q": "7. sting — He has been ____ by a scorpion. The remark ____ him.",
+         "a": "He has been stung by a scorpion. The remark stung him."
+        },
+        {
+         "q": "8. run — You look as if you had ____ all the way home. He ____ for his life.",
+         "a": "You look as if you had run all the way home. He ran for his life."
+        },
+        {
+         "q": "9. forget — Once Sydney Smith, being asked his name by the servant, found to his dismay that he had ____ his own name.",
+         "a": "Once Sydney Smith, being asked his name by the servant, found to his dismay that he had forgotten his own name."
+        },
+        {
+         "q": "10. choose — A better day for a drive could not have been ____.",
+         "a": "A better day for a drive could not have been chosen."
+        },
+        {
+         "q": "11. come — Computer technology has _______ a long way since the 1970s.",
+         "a": "Computer technology has come a long way since the 1970s."
+        },
+        {
+         "q": "12. bite — The old beggar was ____ by a mad dog. A mad dog ____ him.",
+         "a": "The old beggar was bitten by a mad dog. A mad dog bit him."
+        },
+        {
+         "q": "13. swim — The boy has ______ across the Indus.",
+         "a": "The boy has swum across the Indus."
+        },
+        {
+         "q": "14. write — I think he should have ____ and told us. Honesty is ____ on his face.",
+         "a": "I think he should have written and told us. Honesty is written on his face."
+        },
+        {
+         "q": "15. lay — He ____ the book on the table. He had not ____ a finger on him. They ____ their heads together.",
+         "a": "He laid the book on the table. He had not laid a finger on him. They laid their heads together."
+        },
+        {
+         "q": "16. lie — We ____ beneath a spreading oak. He has long ____ under suspicion.",
+         "a": "We lay beneath a spreading oak. He has long lain under suspicion."
+        },
+        {
+         "q": "17. take — A beautiful shot from cover-point ____ off the balls. He has ____ a fancy to the boy.",
+         "a": "A beautiful shot from cover-point took off the balls. He has taken a fancy to the boy."
+        },
+        {
+         "q": "18. go — Recently the price of sugar has ____ up. The argument ____ home. The verdict ____ against him.",
+         "a": "Recently the price of sugar has gone up. The argument went home. The verdict went against him."
+        },
+        {
+         "q": "19. begin — He had ____ his speech before we arrived. He ____ to talk nonsense.",
+         "a": "He had begun his speech before we arrived. He began to talk nonsense."
+        },
+        {
+         "q": "20. bid — Do as you are ____. He ____ us goodbye. He ____ two thousand rupees for the pony.",
+         "a": "Do as you are bid/bidden. He bade us goodbye. He bid two thousand rupees for the pony."
+        },
+        {
+         "q": "21. ring — Has the warning-bell ____? I ____ him up last night.",
+         "a": "Has the warning-bell rung? I rang him up last night."
+        },
+        {
+         "q": "22. steal — Someone has ____ my purse. She ____ his heart.",
+         "a": "Someone has stolen my purse. She stole his heart."
+        },
+        {
+         "q": "23. sow — You must reap what you have ____.",
+         "a": "You must reap what you have sown."
+        },
+        {
+         "q": "24. drive — Poor fellow! he was – very hard. They say he ____ a hard bargain.",
+         "a": "Poor fellow! he was driven very hard. They say he drove a hard bargain."
+        },
+        {
+         "q": "25. sing — It seemed to me that she had never ____ so well. Our bugles ____ truce.",
+         "a": "It seemed to me that she had never sung so well. Our bugles sang truce."
+        },
+        {
+         "q": "26. shake — He was much ____ by the news. His voice ____ as he spoke.",
+         "a": "He was much shaken by the news. His voice shook as he spoke."
+        },
+        {
+         "q": "27. eat — He is ____ up with pride. In the end he ____ his words.",
+         "a": "He is eaten up with pride. In the end he ate his words."
+        },
+        {
+         "q": "28. do — Let us have ____ with it. I ____ my duty.",
+         "a": "Let us have done with it. I did my duty."
+        },
+        {
+         "q": "29. spring — Homer describes a race of men who ____ from the gods. The ship ____ a leak.",
+         "a": "Homer describes a race of men who sprang from the gods. The ship sprang a leak."
+        },
+        {
+         "q": "30. show — Has Rustum ____ you his camera? He ____ a clean pair of heels.",
+         "a": "Has Rustum shown you his camera? He showed a clean pair of heels."
+        },
+        {
+         "q": "31. freeze — The explorers were ____ to death. The blood ____ in their veins.",
+         "a": "The explorers were frozen to death. The blood froze in their veins."
+        },
+        {
+         "q": "32. strike — I was ____ by a stone. It never ____ me before that he was old.",
+         "a": "I was struck by a stone. It never struck me before that he was old."
+        },
+        {
+         "q": "33. mistake — I found upon inquiry that I had ____ the house. He ____ me for my brother.",
+         "a": "I found upon inquiry that I had mistaken the house. He mistook me for my brother."
+        },
+        {
+         "q": "34. shoe — Go, ask the ferrier whether he has ____ the horses yet.",
+         "a": "Go, ask the ferrier whether he has shod the horses yet."
+        },
+        {
+         "q": "35. strew — His path was ____ with flowers.",
+         "a": "His path was strewn with flowers."
+        },
+        {
+         "q": "36. sink — His voice gradually ____ to a whisper. And thousands had ____ to the ground overpower’d.",
+         "a": "His voice gradually sank to a whisper. And thousands had sunk to the ground overpower’d."
+        },
+        {
+         "q": "37. tread — Walking through the jungle, he ____ on a snake.",
+         "a": "Walking through the jungle, he trod on a snake."
+        },
+        {
+         "q": "38. rise — He has ____ from the ranks. As his friends expected he ____ to the occasion.",
+         "a": "He has risen from the ranks. As his friends expected he rose to the occasion."
+        },
+        {
+         "q": "39. beat — On the arrival of a policeman, he ____ a hasty retreat. He ____ the Afghans in a bloody battle. It was not the only battle in which they were ____.",
+         "a": "On the arrival of a policeman, he beat a hasty retreat. He beat the Afghans in a bloody battle. It was not the only battle in which they were beaten."
+        },
+        {
+         "q": "40. blow — The tempest ____ the ship ashore.",
+         "a": "The tempest blew the ship ashore."
+        },
+        {
+         "q": "41. catch — Walking on the beach, we ____ sight of a strange bird. He has ____ a Tartar.",
+         "a": "Walking on the beach, we caught sight of a strange bird. He has caught a Tartar."
+        },
+        {
+         "q": "42. have — After the storm we ____ a spell of fine weather.",
+         "a": "After the storm we had a spell of fine weather."
+        },
+        {
+         "q": "43. meet — I ____ a little cottage girl. The poor fellow has ____ with many reverses.",
+         "a": "I met a little cottage girl. The poor fellow has met with many reverses."
+        },
+        {
+         "q": "44. sleep — We thought her dying when she ____.",
+         "a": "We thought her dying when she slept."
+        },
+        {
+         "q": "45. get — He has ____ hold of the wrong end of the stick.",
+         "a": "He has got hold of the wrong end of the stick."
+        },
+        {
+         "q": "46. lead — The faithful dog ____ his blind master.",
+         "a": "The faithful dog led his blind master."
+        },
+        {
+         "q": "47. awake — And his disciples came to him, and ____ him. I was soon ____ from this disagreeable reverie.",
+         "a": "And his disciples came to him, and awoke him. I was soon awakened from this disagreeable reverie."
+        },
+        {
+         "q": "48. bear — I was ____ away by an impulse.",
+         "a": "I was borne away by an impulse."
+        },
+        {
+         "q": "49. stand — It has ____ the test of time.",
+         "a": "It has stood the test of time."
+        },
+        {
+         "q": "50. sit — He has ____ for the examination.",
+         "a": "He has sat for the examination."
+        },
+        {
+         "q": "51. know — He says he has never ____ sickness. I ____ his antecedents.",
+         "a": "He says he has never known sickness. I knew his antecedents."
+        },
+        {
+         "q": "52. bind — The prisoner was ____ hand and foot.",
+         "a": "The prisoner was bound hand and foot."
+        },
+        {
+         "q": "53. break — He has ____ his collar-bone.",
+         "a": "He has broken his collar-bone."
+        },
+        {
+         "q": "54. breed — What is ____ in the bone will not wear out of the flesh.",
+         "a": "What is bred in the bone will not wear out of the flesh."
+        },
+        {
+         "q": "55. strive — I ____ with none, for none was worth my strife.",
+         "a": "I strove with none, for none was worth my strife."
+        },
+        {
+         "q": "56. give — He never ____ me a chance to speak. He is ____ to opium-smoking.",
+         "a": "He never gave me a chance to speak. He is given to opium-smoking."
+        },
+        {
+         "q": "57. dream — I ____ I was in love again.",
+         "a": "I dreamed/dreamt I was in love again."
+        },
+        {
+         "q": "58. weep — I have ____ a million tears.",
+         "a": "I have wept a million tears."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 58",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 58 — from the book (Wren & Martin, Chapter 31). Fill in the Past Tense or Past Participle of the verb given.",
+       "items": [
+        {
+         "q": "1. spin — The story is tediously ____ out.",
+         "a": "The story is tediously spun out."
+        },
+        {
+         "q": "2. mean — I ____ it for a joke. He was ____ for a lawyer.",
+         "a": "I meant it for a joke. He was meant for a lawyer."
+        },
+        {
+         "q": "3. arise — Suddenly the wind ____. There never has ____ a great man who has not been misunderstood.",
+         "a": "Suddenly the wind arose. There never has arisen a great man who has not been misunderstood."
+        },
+        {
+         "q": "4. draw — Who ____ the first prize? He has ____ a wrong inference. The train ____ up to the station.",
+         "a": "Who drew the first prize? He has drawn a wrong inference. The train drew up to the station."
+        },
+        {
+         "q": "5. understand — I certainly _____ you to make that promise. I am afraid I did not make myself ____.",
+         "a": "I certainly understood you to make that promise. I am afraid I did not make myself understood."
+        },
+        {
+         "q": "6. shoot — He was accidentally ____ in the arm.",
+         "a": "He was accidentally shot in the arm."
+        },
+        {
+         "q": "7. shrink — He is not known ever to have ____ from an encounter. There was no cruelty from which the robber chief ____.",
+         "a": "He is not known ever to have shrunk from an encounter. There was no cruelty from which the robber chief shrank."
+        },
+        {
+         "q": "8. smell — I noticed that he ____ of brandy.",
+         "a": "I noticed that he smelt of brandy."
+        },
+        {
+         "q": "9. stick — The cart ____ in the mud.",
+         "a": "The cart stuck in the mud."
+        },
+        {
+         "q": "10. swear — The soldiers _____ allegiance to the Constitution of India. He was yesterday ____ in as a member of the Legislative Assembly.",
+         "a": "The soldiers swore allegiance to the Constitution of India. He was yesterday sworn in as a member of the Legislative Assembly."
+        },
+        {
+         "q": "11. sweep — The waves ____ the pier. The pier was ____ away. Plague ____ off millions.",
+         "a": "The waves swept the pier. The pier was swept away. Plague swept off millions."
+        },
+        {
+         "q": "12. cost — Often a lie has ____ a life. His folly ____ him years of poverty.",
+         "a": "Often a lie has cost a life. His folly cost him years of poverty."
+        },
+        {
+         "q": "13. buy — A rupee ____ twice as much fifteen years ago.",
+         "a": "A rupee bought twice as much fifteen years ago."
+        },
+        {
+         "q": "14. crow — His enemies ____ over his fall.",
+         "a": "His enemies crowed over his fall."
+        },
+        {
+         "q": "15. deal — He ____ unfairly with his partner. The robber ______ him a blow on the head.",
+         "a": "He dealt unfairly with his partner. The robber dealt him a blow on the head."
+        },
+        {
+         "q": "16. lose — His rashness ____ him his life. ____ time is never found again. The man who yields to the fascination of the gaming-table is ____.",
+         "a": "His rashness lost him his life. Lost time is never found again. The man who yields to the fascination of the gaming-table is lost."
+        },
+        {
+         "q": "17. find — Sir, I have ____ you an argument; but I am not obliged to find you an understanding. The picture ____ its way to the auction-room.",
+         "a": "Sir, I have found you an argument; but I am not obliged to find you an understanding. The picture found its way to the auction-room."
+        },
+        {
+         "q": "18. forgive — Christ ____ his crucifiers.",
+         "a": "Christ forgave his crucifiers."
+        },
+        {
+         "q": "19. sleep — It is said of Akbar that he rarely ____ more than three hours at a time.",
+         "a": "It is said of Akbar that he rarely slept more than three hours at a time."
+        },
+        {
+         "q": "20. seek — His company is greatly ____ after. It might be truly said of him that he never ____ honour.",
+         "a": "His company is greatly sought after. It might be truly said of him that he never sought honour."
+        },
+        {
+         "q": "21. hide — Adam and his wife ____ themselves from the presence of the Lord God.",
+         "a": "Adam and his wife hid themselves from the presence of the Lord God."
+        },
+        {
+         "q": "22. fall — He ____ never to rise again. A certain man went down from Jerusalem to Jericho, and ____ among thieves. He has ____ asleep.",
+         "a": "He fell never to rise again. A certain man went down from Jerusalem to Jericho, and fell among thieves. He has fallen asleep."
+        },
+        {
+         "q": "23. set — He has ____ his heart on success. The teacher ____ them an example.",
+         "a": "He has set his heart on success. The teacher set them an example."
+        },
+        {
+         "q": "24. die — He ____ at a ripe old age.",
+         "a": "He died at a ripe old age."
+        },
+        {
+         "q": "25. see — I ____ her singing at her work. He has ____ the ups and downs of life.",
+         "a": "I saw her singing at her work. He has seen the ups and downs of life."
+        },
+        {
+         "q": "26. spoil — The news ____ my dinner.",
+         "a": "The news spoiled my dinner."
+        },
+        {
+         "q": "27. leave — He has ____ a large family. The police ____ no stone unturned to trace the culprits.",
+         "a": "He has left a large family. The police left no stone unturned to trace the culprits."
+        },
+        {
+         "q": "28. grow — Three years she ____ in sun and shower. Some of these wars have ____ out of commercial considerations.",
+         "a": "Three years she grew in sun and shower. Some of these wars have grown out of commercial considerations."
+        },
+        {
+         "q": "29. think — I have ____ of a plan. I ____ of Chatterton, the marvellous boy.",
+         "a": "I have thought of a plan. I thought of Chatterton, the marvellous boy."
+        },
+        {
+         "q": "30. become — He ____ the slave of low desires.",
+         "a": "He became the slave of low desires."
+        },
+        {
+         "q": "31. hear — Not a drum was ____, not a funeral note. He hopes his prayer will be ____.",
+         "a": "Not a drum was heard, not a funeral note. He hopes his prayer will be heard."
+        },
+        {
+         "q": "32. fight — He ____ for the crown. He has ____ a good fight.",
+         "a": "He fought for the crown. He has fought a good fight."
+        },
+        {
+         "q": "33. forsake — His courage ____ him. He has ____ his old friends.",
+         "a": "His courage forsook him. He has forsaken his old friends."
+        },
+        {
+         "q": "34. teach — The village master ____ his little school. They have ____ their tongue to speak lies.",
+         "a": "The village master taught his little school. They have taught their tongue to speak lies."
+        },
+        {
+         "q": "35. wring — She ____ her hands in agony. Any appeal for help ____ her heart.",
+         "a": "She wrung her hands in agony. Any appeal for help wrung her heart."
+        },
+        {
+         "q": "36. wind — He ____ up by appealing to the audience to contribute to the fund.",
+         "a": "He wound up by appealing to the audience to contribute to the fund."
+        },
+        {
+         "q": "37. thrust — He was ____ through with a javelin.",
+         "a": "He was thrust through with a javelin."
+        },
+        {
+         "q": "38. say — He has ____ the last word on the matter.",
+         "a": "He has said the last word on the matter."
+        },
+        {
+         "q": "39. fly — The bird has ____ away. The bird ____ over the tree.",
+         "a": "The bird has flown away. The bird flew over the tree."
+        },
+        {
+         "q": "40. flee — The murderer has ____ to Australia. The terrified people ____ to the mountains.",
+         "a": "The murderer has fled to Australia. The terrified people fled to the mountains."
+        },
+        {
+         "q": "41. overflow — During the night the river had ____ its banks.",
+         "a": "During the night the river had overflowed its banks."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "regular verb",
+     "sd": "قاعدي وارو فعل",
+     "syn": "a verb that forms its past tense and past participle by adding -ed"
+    },
+    {
+     "w": "irregular verb",
+     "sd": "غير قاعدي فعل",
+     "syn": "a verb that forms its past tense and past participle in a different way"
+    },
+    {
+     "w": "base form",
+     "sd": "بنيادي صورت",
+     "syn": "the first form of a verb, as walk, ring, come"
+    },
+    {
+     "w": "principal parts",
+     "sd": "بنيادي صورتون",
+     "syn": "the base form, past tense and past participle of a verb"
+    },
+    {
+     "w": "adjectival",
+     "sd": "صفتي",
+     "syn": "used as an adjective"
+    },
+    {
+     "w": "molten",
+     "sd": "ڳريل",
+     "syn": "melted, as molten iron"
+    },
+    {
+     "w": "drunken",
+     "sd": "شرابي",
+     "syn": "drunk, used as an adjective, as a drunken soldier"
+    },
+    {
+     "w": "grudge",
+     "sd": "ڪينو",
+     "syn": "a feeling of anger against someone for a long time"
+    },
+    {
+     "w": "dissension",
+     "sd": "اختلاف",
+     "syn": "disagreement and quarrelling"
+    },
+    {
+     "w": "solemn oath",
+     "sd": "پڪو قسم",
+     "syn": "a serious and formal promise"
+    },
+    {
+     "w": "antecedents",
+     "sd": "اڳوڻو حال",
+     "syn": "a person's past history and family"
+    },
+    {
+     "w": "farrier",
+     "sd": "نعل ساز",
+     "syn": "a person who shoes horses (the book prints 'ferrier')"
+    }
+   ]
+  },
+  {
+   "unit": 32,
+   "title": "Auxiliaries and Modals",
+   "display": "Auxiliaries and Modals",
+   "reading": "Auxiliaries and Modals",
+   "sections": [
+    {
+     "name": "Auxiliary verbs",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §288)",
+       "items": [
+        {
+         "q": "What are auxiliary verbs?",
+         "a": "The verbs be (am, is, was, etc), have and do, when used with ordinary verbs to make tenses, passive forms, questions and negatives, are called auxiliary verbs or auxiliaries. (Auxiliary = helping)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Modal verbs",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §289)",
+       "items": [
+        {
+         "q": "What are modal verbs?",
+         "a": "The verbs can, could, may, might, will, would, shall, should, must and ought are called modal verbs or modals.\nThey are used before ordinary verbs and express meanings such as permission, possibility, certainty and necessity. Need and dare can sometimes be used like modal verbs.\nModals are often included in the group of auxiliaries. In some grammars they are called “modal auxiliaries”."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Defective Verbs",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §290)",
+       "items": [
+        {
+         "q": "Why are the modals called Defective Verbs?",
+         "a": "The modals can, could, may, might, shall, should, will, would, must and ought are termed Defective Verbs, because some parts are wanting in them. They have no -s in the third person singular; they have no -ing and -ed forms."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The auxiliary 'be'",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §291)",
+       "items": [
+        {
+         "q": "How is the auxiliary 'be' used?",
+         "a": "The auxiliary be is used\n(1) In the formation of the continuous tenses; as,\nHe is working. I was writing.\n(2) In the formation of the passive; as,\nThe gate was opened."
+        },
+        {
+         "q": "How is 'be' followed by the infinitive used? (1) Plan or arrangement. (2) Command.",
+         "a": "Be followed by the infinitive is used\n(1) To indicate a plan, arrangement, or agreement; as,\nI am to see him tomorrow.\nWe are to be married next month.\n(2) To denote command; as,\nYou are to write your name at the top of each sheet of paper.\nMother says you are to go to market at once."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Be' with the perfect infinitive",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §292)",
+       "items": [
+        {
+         "q": "What does 'be' in the past tense with the perfect infinitive show?",
+         "a": "Be is used in the past tense with the perfect infinitive to indicate an arrangement that was made but not carried out; as,\nThey were to have been married last month but had to postpone the marriage until June."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The auxiliary 'have'",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §293)",
+       "items": [
+        {
+         "q": "How is the auxiliary 'have' used?",
+         "a": "The auxiliary have is used in the formation of the perfect tenses; as,\nHe has worked. He has been working."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Have to' — obligation",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §294)",
+       "items": [
+        {
+         "q": "What does 'have to' express?",
+         "a": "Have to is used with the infinitive to indicate obligation; as,\nI have to be there by five o’clock.\nHe has to move the furniture himself."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Had to' — obligation in the past",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §295)",
+       "items": [
+        {
+         "q": "How do we express obligation in the past?",
+         "a": "The past form had to is used to express obligation in the past.\nI had to be there by five o’clock.\nHe had to move the furniture himself."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Have to' in negatives and questions",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §296)",
+       "items": [
+        {
+         "q": "How are 'have to' and 'had to' used in negatives and questions?",
+         "a": "In negatives and questions, have to and had to are used with do, does, did; as,\nThey have to go. → They don’t have to go. Do they have to go?\nHe has to go. → He doesn’t have to go. Does he have to go?\nHe had to go. → He didn’t have to go. Did he have to go?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The auxiliary 'do'",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §297)",
+       "items": [
+        {
+         "q": "How is the auxiliary 'do' used? (1) Negatives and questions. (2) To avoid repetition.",
+         "a": "The auxiliary do is used\n(1) To form the negative and interrogative of the simple present and simple past tenses of ordinary verbs; as,\nHe doesn’t work. He didn’t work.\nDoes he work? Did he work?\n(2) To avoid repetition of a previous ordinary verb; as,\nDo you know him? Yes, I do.\nShe sings well. Yes, she does.\nYou met him, didn’t you?\nHe eats fish and so do you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Do' for emphasis",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §298)",
+       "items": [
+        {
+         "q": "How is 'do' used for emphasis?",
+         "a": "Do is also used to emphasize the affirmative nature of a statement; as,\nYou do look pale.\nI told him not to go, but he did go."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Do' in the imperative",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §299)",
+       "items": [
+        {
+         "q": "How is 'do' used in the imperative?",
+         "a": "In the imperative, do makes a request or invitation more persuasive; as,\nDo be quiet,\nOh, do come! It’s going to be such fun.\nIn such cases do is strongly stressed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Can' — ability",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §300)",
+       "items": [
+        {
+         "q": "What does 'can' usually express?",
+         "a": "Can usually expresses ability or capacity; as,\nI can swim across the river.\nHe can work this sum.\nCan you lift this box?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Can' and 'may' — permission",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §301)",
+       "items": [
+        {
+         "q": "How are 'can' and 'may' used for permission?",
+         "a": "Can and may are used to express permission. May is rather formal.\nYou can/may go now.\nCan/May I borrow your umbrella?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'May' — possibility",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §302)",
+       "items": [
+        {
+         "q": "How are 'may' and 'can' used for possibility?",
+         "a": "May is used to express possibility in affirmative sentences. Can is used in the corresponding interrogative and negative sentences.\nIt may rain tomorrow.\nHe may be at home.\nCan this be true?\nIt cannot be true.\nCompare ‘It cannot be true’ with ‘It may not be true’. Cannot denotes impossibility, while may not denotes improbability."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'May' — a wish",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §303)",
+       "items": [
+        {
+         "q": "How is 'may' used for a wish?",
+         "a": "In very formal English, may is used to express a wish; as,\nMay you live happily and long!\nMay success attend you!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Could' and 'might' as past equivalents",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §304)",
+       "items": [
+        {
+         "q": "How are 'could' and 'might' used as the past of 'can' and 'may'?",
+         "a": "Could and might are used as the past equivalents of can and may; as,\nI could swim across the river when I was young. (Ability)\nHe said I might/could go. (Permission)\nI thought he might be at home. (Possibility)\nShe wondered whether it could be true. (Possibility)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Could' and 'was/were able to'",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §305)",
+       "items": [
+        {
+         "q": "When should we use 'was/were able to' instead of 'could'?",
+         "a": "Could, as in the first example above, expresses only ability to do an act, but not the performance of an act. We should use was/were able to for ability + action in the past.\nWhen the boat was upset, we were able to (or managed to) swim to the bank. (not: we could swim to the bank)\nIn negative statements, however, either could or was/were able to may be used.\nI couldn’t (or: wasn’t able to) solve the puzzle. It was too difficult."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Could' and 'might' — less positive",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §306)",
+       "items": [
+        {
+         "q": "How are 'could' and 'might' used in present time contexts?",
+         "a": "In present time contexts could and might are used as less positive versions of can and may; as,\nI could attend the party. (Less positive and more hesitant than ‘I can attend the party’.)\nMight/Could I borrow your bicycle? (A diffident way of saying ‘May/Can I.......’)\nIt might rain tomorrow. (Less positive than ‘It may rain......’)\nCould you pass me the salt? (Polite request)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Might' — dissatisfaction or reproach",
+     "num": "20",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §307)",
+       "items": [
+        {
+         "q": "How is 'might' used to express dissatisfaction?",
+         "a": "Might is also used to express a degree of dissatisfaction or reproach; as,\nYou might pay a little more attention to your appearance."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Modals with the perfect infinitive",
+     "num": "21",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §308)",
+       "items": [
+        {
+         "q": "Give examples of can, could, may and might with the perfect infinitive.",
+         "a": "Note the use of can, could, may and might with the perfect infinitive.\nHe is not there. Where can he have gone? (= Where is it possible that he has gone?)\nYou could have accepted the offer. (= Why didn’t you accept the offer?)\nFatima may/might have gone with Saroja. (= Possibly Fatima has gone/went with Saroja.)\nWhy did you drive so carelessly? You might have run into the lamp post. (= It is fortunate that you didn’t run into the lamp post.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Shall' and 'will' — pure future",
+     "num": "22",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §309)",
+       "items": [
+        {
+         "q": "How are 'shall' and 'will' used for pure future?",
+         "a": "Shall is used in the first person and will in all persons to express pure future.\nToday I/we shall is less common than I/we will.\nI shall/will be twenty-five next birthday.\nWe will need the money on 15th.\nWhen shall we see you again?\nTomorrow will be Sunday.\nYou will see that I am right.\nIn present day English, however, there is a growing tendency to use will in all persons."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Shall' — command, promise, threat",
+     "num": "23",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §310)",
+       "items": [
+        {
+         "q": "How is 'shall' used in the second and third persons?",
+         "a": "Shall is sometimes used in the second and third persons to express a command, a promise, or threat; as,\nHe shall not enter my house again. (Command)\nYou shall have a holiday tomorrow. (Promise)\nYou shall be punished for this. (Threat)\nNote—that these uses of shall are old-fashioned and formal and generally avoided in modern English."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Questions with 'shall I/we'",
+     "num": "24",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §311)",
+       "items": [
+        {
+         "q": "What are questions with 'shall I/we' used for?",
+         "a": "Questions with shall I/we are used to ask the will of the person addressed; as,\nShall I open the door? (i.e., Do you want me to open it?)\nWhich pen shall I buy? (i.e., What is your advice?)\nWhere shall we go? (What is your suggestion?)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Will' — volition, habit, assumption",
+     "num": "25",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §312)",
+       "items": [
+        {
+         "q": "What does 'will' express? (1) Volition.",
+         "a": "Will is used to express\n(1) Volition; as,\nI will (= am willing to) carry your books.\nI will (= promise to) try to do better next time.\nI will (= am determined to) succeed or die in the attempt.\nIn the last example above, will is strong-stressed."
+        },
+        {
+         "q": "What does 'will' express? (2) Characteristic habit. (3) Assumption or probability.",
+         "a": "(2) Characteristic habit; as,\nHe will talk about nothing but films.\nShe will sit for hours listening to the wireless.\n(3) Assumption or probability; as,\nThis will be the book you want, I suppose.\nThat will be the postman, I think."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Will you' — invitation or request",
+     "num": "26",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §313)",
+       "items": [
+        {
+         "q": "What does 'Will you' indicate?",
+         "a": "Will you indicates an invitation or a request; as,\nWill you have tea?\nWill you lend me your scooter?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Should' and 'would' as past equivalents",
+     "num": "27",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §314)",
+       "items": [
+        {
+         "q": "How are 'should' and 'would' used as the past of 'shall' and 'will'?",
+         "a": "Should and would are used as the past equivalents of shall and will; as,\nI expected that I should (more often: would) get a first class.\nHe said he would be twenty-five next birthday.\nShe said she would carry my books.\nShe would sit for hours listening to the wireless. (Past habit)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Should' — duty or obligation",
+     "num": "28",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §315)",
+       "items": [
+        {
+         "q": "What does 'should' express?",
+         "a": "Should is used in all persons to express duty or obligation; as,\nWe should obey the laws.\nYou should keep your promise.\nChildren should obey their parents."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Should' in clauses of condition",
+     "num": "29",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §316)",
+       "items": [
+        {
+         "q": "How is 'should' used in clauses of condition?",
+         "a": "In clauses of condition, should is used to express a supposition that may not be true.\nIf it should rain, they will not come.\nIf he should see me here, he will be annoyed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Other uses of 'should' and 'would'",
+     "num": "30",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §317)",
+       "items": [
+        {
+         "q": "Give other examples of 'should' and 'would'.",
+         "a": "Should and would are also used as in the examples below.\n(i) I should (or: would) like you to help her. (‘Should/would like’ is a polite form of ‘want’.)\n(ii) Would you lend me your scooter, please? (‘Would you?’ is more polite than ‘Will you’)\n(iii) You should have been more careful. (Should + perfect infinitive indicates a past obligation that was not fulfilled.)\n(iv) He should be in the library now. (Expresses probability)\n(v) I wish you would not chatter so much. (Would after wish expresses a strong desire.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Must' — necessity or obligation",
+     "num": "31",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §318)",
+       "items": [
+        {
+         "q": "What does 'must' express?",
+         "a": "Must is used to express necessity or obligation.\nYou must improve your spelling.\nWe must get up early."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Must' — present or near future only",
+     "num": "32",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §318A)",
+       "items": [
+        {
+         "q": "Does 'must' have a past form?",
+         "a": "Must refers to the present or the near future. To talk about the past we use had to (the past form of have to); must has no past form.\nYesterday we had to get up early."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Must' and 'have to'",
+     "num": "33",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §319)",
+       "items": [
+        {
+         "q": "What is the difference between 'must' and 'have to'?",
+         "a": "Must is often used when the obligation comes from the speaker. When the obligation comes from somewhere else, have to is often used. Compare:\nI must be on a diet. (It is my own idea.)\nI have to be on a diet. (The doctor has told me to be on a diet.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Must' — logical certainty",
+     "num": "34",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §319A)",
+       "items": [
+        {
+         "q": "How can 'must' express logical certainty?",
+         "a": "Must can also express logical certainty.\nLiving in such crowded conditions must be difficult. (= I am sure it is difficult.)\nShe must have left already. (I am sure she has left already.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Ought (to)' — moral obligation",
+     "num": "35",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §320)",
+       "items": [
+        {
+         "q": "What does 'ought (to)' express?",
+         "a": "Ought (to) expresses moral obligation or desirability; as,\nWe ought to love our neighbours.\nWe ought to help him.\nYou ought to know better."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Ought (to)' — probability",
+     "num": "36",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §321)",
+       "items": [
+        {
+         "q": "What else can 'ought (to)' express?",
+         "a": "Ought (to) can also be used to express probability.\nPrices ought to come down soon.\nThis book ought to be very useful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Used (to)'",
+     "num": "37",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §322)",
+       "items": [
+        {
+         "q": "What does the auxiliary 'used (to)' express?",
+         "a": "The auxiliary used (to) expresses a discontinued habit.\nThere used to be a house there.\nI used to live there when I was a boy.\nUsed to, as an auxiliary verbs is old-fashioned and very formal. Today we normally used did in negatives and question (e.g. Did you used to swim?)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Need' without 'do'",
+     "num": "38",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §323)",
+       "items": [
+        {
+         "q": "How is the auxiliary 'need' used without 'do'?",
+         "a": "The auxiliary need, denoting necessity or obligation, can be conjugated with or without do. When conjugated without do, it has no -s and -ed forms and is used with an infinitive without to only in negative and interrogative sentences and in sentences that contain semi-negative words like ‘scarcely’ and ‘hardly’.\nHe need not go. (= It is not necessary for him to go.)\nNeed I write to him?\nI need hardly take his help."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Need' with 'do'",
+     "num": "39",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §324)",
+       "items": [
+        {
+         "q": "How is 'need' used with 'do'?",
+         "a": "When conjugated with do, need has the usual forms needs, needed and is used with a to-infinitive. It is commonly used in negatives and questions; it sometimes occurs in the affirmative also.\nDo you need to go now?\nI don’t need to meet him.\nOne needs to be careful."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Didn't need to' and 'needn't have'",
+     "num": "40",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §325)",
+       "items": [
+        {
+         "q": "What is the difference between 'didn't need to' and 'needn't have'?",
+         "a": "Compare:\n(i) I didn’t need to buy it. (= It was not necessary for me to buy it and I didn’t buy it.)\n(ii) I needn’t have bought it. (= It was not necessary for me to buy it, but I bought it.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "'Dare'",
+     "num": "41",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 32, §326)",
+       "items": [
+        {
+         "q": "How is the auxiliary 'dare' used?",
+         "a": "The auxiliary dare (= be brave enough to), as distinct from the ordinary verb dare (= challenge), does not take -s in the third person singular present tense. It is generally used in negative and interrogative sentences. When conjugated without do, it is followed by an infinitive without to; when conjugated with do, it takes an infinitive with or without to after it.\nHe dare not take such a step.\nHow dare you contradict me?\nHe dared not do it.\nHe doesn’t dare speak to me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 59",
+     "num": "42",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 59 — from the book (Wren & Martin, Chapter 32). Choose the correct alternative.",
+       "items": [
+        {
+         "q": "1. I don’t think I (shall, should, can) be able to go.",
+         "a": "shall"
+        },
+        {
+         "q": "2. He (shall, will, dare) not pay unless he is compelled.",
+         "a": "will"
+        },
+        {
+         "q": "3. You (should, would, ought) be punctual.",
+         "a": "should"
+        },
+        {
+         "q": "4. I wish you (should, would, must) tell me earlier.",
+         "a": "would"
+        },
+        {
+         "q": "5. (Shall, Will, Would) I assist you?",
+         "a": "Shall"
+        },
+        {
+         "q": "6. (Shall, should, would) you please help me with this?",
+         "a": "Would"
+        },
+        {
+         "q": "7. You (ought, should, must) to pay your debts.",
+         "a": "ought"
+        },
+        {
+         "q": "8. He said I (can, might, should) use his telephone at any time.",
+         "a": "might"
+        },
+        {
+         "q": "9. If you (shall, should, would) see him, give him my regards.",
+         "a": "should"
+        },
+        {
+         "q": "10. He (need, dare, would) not ask for a rise, for fear of losing his job.",
+         "a": "dare"
+        },
+        {
+         "q": "11. I (needn’t to see, needn’t have seen, didn’t need to see) him, so I sent a letter.",
+         "a": "didn’t need to see"
+        },
+        {
+         "q": "12. (Shall, Might, Could) you show me the way to the station.",
+         "a": "Could"
+        },
+        {
+         "q": "13. To save my life, I ran fast, and (would, could, was able to) reach safely.",
+         "a": "was able to"
+        },
+        {
+         "q": "14. I (would, used, ought) to be an atheist but now I believe in God.",
+         "a": "used"
+        },
+        {
+         "q": "15. You (needn’t, mustn’t, won’t) light a match; the room is full of gas.",
+         "a": "mustn’t"
+        },
+        {
+         "q": "16. The Prime Minister (would, need, is to) make a statement tomorrow.",
+         "a": "is to"
+        },
+        {
+         "q": "17. You (couldn’t wait, didn’t need to wait, need’t have waited) for me; I could have found the way all right.",
+         "a": "needn’t have waited"
+        },
+        {
+         "q": "18. I was afraid that if I asked him again he (can, may, might) refuse.",
+         "a": "might"
+        },
+        {
+         "q": "19. She (shall, will, dare) sit outside her garden gate for hours at a time, looking at the passing traffic.",
+         "a": "will"
+        },
+        {
+         "q": "20. (Should, Would, Shall) you like another cup of coffee?",
+         "a": "Would"
+        },
+        {
+         "q": "21. I wish he (should, will, would) not play his wireless so loudly.",
+         "a": "would"
+        },
+        {
+         "q": "22. I (am to leave, would leave, was to have left) on Thursday. But on Thursday I had a terrible cold, so I decided to wait till Saturday.",
+         "a": "was to have left"
+        },
+        {
+         "q": "23. He (used, is used, was used) to play cricket before his marriage.",
+         "a": "used"
+        },
+        {
+         "q": "24. (Shall, Will, Would) I carry the box into the house for you?",
+         "a": "Shall"
+        },
+        {
+         "q": "25. He (will, can, might) come, but I should be surprised.",
+         "a": "might"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 59A",
+     "num": "43",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 59A — from the book (Wren & Martin, Chapter 32). Rewrite each of these sentences, using a modal verb. (In 2 and 9, use another modal.) (The Key gives no answers for this exercise; the answers below are worked out from §§300–326.)",
+       "items": [
+        {
+         "q": "1. Possibly she isn’t Anil’s sister.",
+         "a": "She may not be Anil’s sister."
+        },
+        {
+         "q": "2. Perhaps we will go to Shimla next month.",
+         "a": "We may go to Shimla next month."
+        },
+        {
+         "q": "3. My sister was able to read the alphabet when she was 18 months old.",
+         "a": "My sister could read the alphabet when she was 18 months old."
+        },
+        {
+         "q": "4. It is necessary that you do not wash the car. (The paint is still wet.)",
+         "a": "You must not wash the car."
+        },
+        {
+         "q": "5. It is not necessary for you to wash the car. (It is clean.)",
+         "a": "You needn’t wash the car. (or: You don’t need to wash the car.)"
+        },
+        {
+         "q": "6. I am certain that they have left already.",
+         "a": "They must have left already."
+        },
+        {
+         "q": "7. Do you allow me to use your phone?",
+         "a": "May I use your phone? (or: Can I use your phone?)"
+        },
+        {
+         "q": "8. I was in the habit of going to the beach every day when I was in Chennai.",
+         "a": "I used to go to the beach every day when I was in Chennai."
+        },
+        {
+         "q": "9. He will probably pass his driving test easily.",
+         "a": "He should pass his driving test easily."
+        },
+        {
+         "q": "10. Perhaps he forgot about the meeting.",
+         "a": "He may have forgotten about the meeting."
+        },
+        {
+         "q": "11. I suggest visiting Qutab Minar.",
+         "a": "We should visit Qutab Minar."
+        },
+        {
+         "q": "12. Nobody has answered the phone; perhaps they have gone out.",
+         "a": "Nobody has answered the phone; they may have gone out."
+        },
+        {
+         "q": "13. I am sure he is over seventy.",
+         "a": "He must be over seventy."
+        },
+        {
+         "q": "14. It was not necessary for me to meet him but I met him.",
+         "a": "I needn’t have met him."
+        },
+        {
+         "q": "15. It was not necessary for me to meet him (and I didn’t meet him).",
+         "a": "I didn’t need to meet him."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "auxiliary verb",
+     "sd": "معاون فعل",
+     "syn": "a helping verb, as be, have, do"
+    },
+    {
+     "w": "modal verb",
+     "sd": "موڊل فعل",
+     "syn": "a verb expressing permission, possibility, certainty or necessity, as can, may, must"
+    },
+    {
+     "w": "defective verb",
+     "sd": "اڻپورو فعل",
+     "syn": "a verb wanting some parts, as the modals, which have no -s, -ing or -ed forms"
+    },
+    {
+     "w": "permission",
+     "sd": "اجازت",
+     "syn": "being allowed to do something"
+    },
+    {
+     "w": "possibility",
+     "sd": "امڪان",
+     "syn": "something that may happen"
+    },
+    {
+     "w": "certainty",
+     "sd": "يقين",
+     "syn": "being sure that something is true"
+    },
+    {
+     "w": "necessity",
+     "sd": "ضرورت",
+     "syn": "something that must be done"
+    },
+    {
+     "w": "obligation",
+     "sd": "ذميواري",
+     "syn": "something one must do; a duty"
+    },
+    {
+     "w": "volition",
+     "sd": "ارادو",
+     "syn": "willingness or determination to do something"
+    },
+    {
+     "w": "reproach",
+     "sd": "ملامت",
+     "syn": "blame or disapproval"
+    },
+    {
+     "w": "diffident",
+     "sd": "جھجڪندڙ",
+     "syn": "shy and not confident"
+    },
+    {
+     "w": "discontinued habit",
+     "sd": "ڇڏيل عادت",
+     "syn": "a habit one had in the past but has now"
+    },
+    {
+     "w": "atheist",
+     "sd": "ملحد",
+     "syn": "a person who does not believe in God"
+    }
+   ]
+  },
+  {
+   "unit": 33,
+   "title": "Conjugation of the Verb “Love”",
+   "display": "Conjugation of the Verb “Love”",
+   "reading": "Conjugation of the Verb “Love”",
+   "sections": [
+    {
+     "name": "What is conjugation?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "items": [
+        {
+         "q": "What is the conjugation of a verb?",
+         "a": "The conjugation of a verb shows the various forms it assumes, either by inflection or by combination with parts of other verbs, to mark Voice, Mood, Tense, Number, and Person; and to those must be added its Infinitives and Participles.\nBelow is given the complete conjugation of the verb love, with a view to helping the pupil to systematize the knowledge already acquired by him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "(I) Tenses — the Present Tenses",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "items": [
+        {
+         "q": "Give the Simple Present of 'love' (Active and Passive).",
+         "a": "Simple Present:\nActive — I love, You love, He loves, They love\nPassive — I am loved, You are loved, He is loved, They are loved"
+        },
+        {
+         "q": "Give the Present Continuous of 'love' (Active and Passive).",
+         "a": "Present Continuous:\nActive — I am loving, You are loving, He is loving, We are loving, They are loving\nPassive — I am being loved, You are being loved, He is being loved, We are being loved, They are being loved"
+        },
+        {
+         "q": "Give the Present Perfect of 'love' (Active and Passive).",
+         "a": "Present Perfect:\nActive — I have loved, You have loved, He has loved, We have loved, They have loved\nPassive — I have been loved, You have been loved, He has been loved, We have been loved, They have been loved"
+        },
+        {
+         "q": "Give the Present Perfect Continuous of 'love' (Active and Passive).",
+         "a": "Present Perfect Continuous:\nActive — I have been loving, You have been loving, We have been loving, They have been loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "(I) Tenses — the Past Tenses",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "items": [
+        {
+         "q": "Give the Simple Past of 'love' (Active and Passive).",
+         "a": "Simple Past:\nActive — I loved, You loved, He loved, We loved, They loved\nPassive — I was loved, You were loved, He was loved, We were loved, They were loved"
+        },
+        {
+         "q": "Give the Past Continuous of 'love' (Active and Passive).",
+         "a": "Past Continuous:\nActive — I was loving, You were loving, He was loving, They were loving\nPassive — I was being loved, You were being loved, He was being loved, They were being loved"
+        },
+        {
+         "q": "Give the Past Perfect of 'love' (Active and Passive).",
+         "a": "Past Perfect:\nActive — I had loved, You had loved, He had loved, We had loved, They had loved\nPassive — I had been loved, You had been loved, He had been loved, We had been loved, They had been loved"
+        },
+        {
+         "q": "Give the Past Perfect Continuous of 'love' (Active and Passive).",
+         "a": "Past Perfect Continuous:\nActive — I had been loving, You had been loving, He had been loving, We had been loving, They had been loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "(I) Tenses — the Future Tenses",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "items": [
+        {
+         "q": "Give the Simple Future of 'love' (Active and Passive).",
+         "a": "Simple Future:\nActive — I shall/will love, You will love, He will love, We shall love, They will love\nPassive — I shall/will be loved, You will be loved, He will be loved, We shall be loved, They will be loved"
+        },
+        {
+         "q": "Give the Future Continuous of 'love' (Active and Passive).",
+         "a": "Future Continuous:\nActive — I shall/will be loving, You will be loving, He will be loving, We shall be loving, They will be loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+        },
+        {
+         "q": "Give the Future Perfect of 'love' (Active and Passive).",
+         "a": "Future Perfect:\nActive — I shall/will have loved, You will have loved, He will have loved, We shall have loved, They will have loved\nPassive — I shall/will have been loved, You will have been loved, He will have been loved, We shall have been loved, They will have been loved"
+        },
+        {
+         "q": "Give the Future Perfect Continuous of 'love' (Active and Passive).",
+         "a": "Future Perfect Continuous:\nActive — I shall/will have been loving, You will have been loving, He will have been loving, We shall/will have been loving, They will have been loving\nPassive — ...... (There is no Passive form. The book leaves it blank.)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "(II) The Imperative",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "items": [
+        {
+         "q": "Give the Imperative of 'love' (Active and Passive).",
+         "a": "The Imperative:\nActive — Love\nPassive — Be loved"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "(III) Non-Finites",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "items": [
+        {
+         "q": "Give the Non-Finites of 'love'.",
+         "a": "Present Infinitive — to love (Active), to be loved (Passive)\nContinuous Infinitive — to be loving (Active), ...... (Passive)\nPerfect Participle — to have loved (Active), to have been loved (Passive) [so printed in the book; this is really the Perfect Infinitive]\nPresent Participle — loving (Active), being loved (Passive)\nPerfect Participle — having loved (Active), having been loved (Passive)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Give the form of 'love'",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Practice made from the rules of this chapter — Chapter 33 has no exercise of its own in the book. Give the form asked for, from the conjugation in § 327.",
+       "items": [
+        {
+         "q": "1. Simple Present, Active, 'He'.",
+         "a": "He loves."
+        },
+        {
+         "q": "2. Present Continuous, Passive, 'They'.",
+         "a": "They are being loved."
+        },
+        {
+         "q": "3. Present Perfect, Active, 'We'.",
+         "a": "We have loved."
+        },
+        {
+         "q": "4. Simple Past, Passive, 'I'.",
+         "a": "I was loved."
+        },
+        {
+         "q": "5. Past Perfect, Active, 'You'.",
+         "a": "You had loved."
+        },
+        {
+         "q": "6. Simple Future, Passive, 'He'.",
+         "a": "He will be loved."
+        },
+        {
+         "q": "7. Future Perfect, Active, 'I'.",
+         "a": "I shall/will have loved."
+        },
+        {
+         "q": "8. Present Participle, Passive.",
+         "a": "being loved."
+        },
+        {
+         "q": "9. Perfect Infinitive, Active.",
+         "a": "to have loved."
+        },
+        {
+         "q": "10. Imperative, Passive.",
+         "a": "Be loved."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "conjugation",
+     "sd": "گردان",
+     "syn": "all the forms a verb takes to mark voice, mood, tense, number and person"
+    },
+    {
+     "w": "systematize",
+     "sd": "ترتيب ڏيڻ",
+     "syn": "to arrange in an orderly system"
+    },
+    {
+     "w": "non-finite",
+     "sd": "غير محدود فعل",
+     "syn": "a verb form not limited by person or number, as the infinitive or participle"
+    },
+    {
+     "w": "finite verb",
+     "sd": "محدود فعل",
+     "syn": "a verb limited by person, number and tense"
+    }
+   ]
+  },
+  {
+   "unit": 34,
+   "title": "The Adverb",
+   "display": "The Adverb",
+   "reading": "The Adverb",
+   "sections": [
+    {
+     "name": "What is an Adverb?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §328)",
+       "items": [
+        {
+         "q": "Read these sentences: (1) Rama runs quickly. (2) This is a very sweet mango. (3) Govind reads quite clearly. What does each Adverb modify?",
+         "a": "In sentence 1, quickly shows how (or in what manner) Rama runs; that is, quickly modifies the Verb runs.\nIn sentence 2, very shows how much (or in what degree) the mango is sweet; that is, very modifies the Adjective sweet.\nIn sentence 3, quite shows how far (or to what extent) Govind reads clearly; that is, quite modifies the Adverb clearly."
+        },
+        {
+         "q": "What is an Adverb?",
+         "a": "A word that modifies the meaning of a verb, an adjective, or another Adverb is called an Adverb. The words quickly, very, and quite are, therefore, Adverbs."
+        },
+        {
+         "q": "Give the definition of an Adverb.",
+         "a": "Def.—An Adverb is a word which modifies the meaning of a Verb, an Adjective or another Adverb."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs modifying phrases",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §329)",
+       "items": [
+        {
+         "q": "Give sentences in which Adverbs modify phrases.",
+         "a": "She was sitting close beside him.\nAt what hour is the sun right above us?\nHave you read all through this book?\nShe was dressed all in pink.\nHe paid his debts down to the last penny."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs modifying a whole sentence",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §330)",
+       "items": [
+        {
+         "q": "Give sentences in which an Adverb at the beginning modifies the whole sentence.",
+         "a": "Probably he is mistaken. [= It is probable that he is mistaken.]\nPossibly it is as you say.\nCertainly you are wrong.\nEvidently the figures are incorrect.\nUnfortunately no one was present there.\nLuckily he escaped unhurt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Kinds of Adverbs",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §331)",
+       "items": [
+        {
+         "q": "Into how many classes may Adverbs be divided according to their meaning?",
+         "a": "Adverbs may be divided into the following classes, according to their meaning:\n(1) Adverbs of Time (which show when)\n(2) Adverbs of Frequency (which show how often)\n(3) Adverbs of Place (which show where)\n(4) Adverbs of Manner (which show how or in what manner)\n(5) Adverbs of Degree or Quantity (which show how much, or in what degree or to what extent)\n(6) Adverbs of Affirmation and Negation\n(7) Adverbs of Reason"
+        },
+        {
+         "q": "Give examples of Adverbs of Time.",
+         "a": "I have heard this before. That day he arrived late.\nWe shall now begin to work. He called here a few minutes ago.\nI had a letter from him lately. The end soon came.\nHe comes here daily. I hurt my knee yesterday.\nI have spoken to him already. Wasted time never returns.\nHe once met me in Cairo; I have not seen him since.\nMr. Gupta formerly lived here."
+        },
+        {
+         "q": "Give examples of Adverbs of Frequency.",
+         "a": "I have told you twice. I have not seen him once.\nHe often makes mistakes. He seldom comes here.\nThe postman called again. He always tries to do his best.\nHe frequently comes unprepared."
+        },
+        {
+         "q": "Give examples of Adverbs of Place.",
+         "a": "Stand here. Go there.\nThe little lamb followed Mary everywhere.\nHe looked up. My brother is out.\nIs Mr. Das within? Come in.\nThe horse galloped away. Walk backward."
+        },
+        {
+         "q": "Give examples of Adverbs of Manner.",
+         "a": "Govind reads clearly. The Sikhs fought bravely.\nThis story is well written. The boy works hard.\nThe child slept soundly. I was agreeably disappointed.\nSlowly and sadly we laid him down. Is that so?\nYou should not do so. Thus only, will you succeed."
+        },
+        {
+         "q": "Give examples of Adverbs of Degree or Quantity.",
+         "a": "He was too careless. Is that any better?\nThese mangoes are almost ripe.\nI am fully prepared. You are quite wrong.\nThe sea is very stormy. I am rather busy.\nHe is good enough for my purpose.\nI am so glad.\nYou are altogether mistaken.\nThings are no better at present.\nShe sings pretty well. He is as tall as Rama."
+        },
+        {
+         "q": "Give examples of Adverbs of Affirmation and Negation.",
+         "a": "Surely you are mistaken.\nHe certainly went. I do not know him."
+        },
+        {
+         "q": "Give examples of Adverbs of Reason.",
+         "a": "He is hence unable to refute the charge.\nHe therefore left school."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "One Adverb, more than one class",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §332)",
+       "items": [
+        {
+         "q": "Can an Adverb belong to more than one class? Give examples.",
+         "a": "Yes. Some of the above Adverbs may belong to more than one class.\nShe sings delightfully. (Adverb of Manner)\nThe weather is delightfully cool. (Adverb of Degree)\nDon’t go far. (Adverb of Place)\nHe is far better now. (Adverb of Degree)\nYou are partly right."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Yes and No",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §333)",
+       "items": [
+        {
+         "q": "What are yes and no when used by themselves?",
+         "a": "Yes and no, when they are used by themselves, are equivalents of sentences.\nHave you typed the letter? Yes. [Here yes stands for the sentence ‘I have typed the letter’.]\nAre you going to Japan? No. [Here no means ‘I am not going to Japan’.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 60",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 60 — from the book (Wren & Martin, Chapter 34). In the following sentences (1) pick out the Adverbs and tell what each modifies; (2) tell whether the modified word is a Verb, an Adjective, or an Adverb; (3) classify each Adverb as an Adverb of time, place, manner, degree, etc.",
+       "items": [
+        {
+         "q": "1. He was ill pleased.",
+         "a": "ill — modifies pleased (Adjective) — Manner"
+        },
+        {
+         "q": "2. Try again.",
+         "a": "again — modifies try (Verb) — Time"
+        },
+        {
+         "q": "3. He is too shy.",
+         "a": "too — modifies shy (Adjective) — Degree"
+        },
+        {
+         "q": "4. We rose very early.",
+         "a": "very — modifies early (Adverb) — Degree; early — modifies rose (Verb) — Time"
+        },
+        {
+         "q": "5. I am so glad to hear it.",
+         "a": "so — modifies glad (Adjective) — Degree"
+        },
+        {
+         "q": "6. Cut it lengthwise.",
+         "a": "lengthwise — modifies cut (Verb) — Manner"
+        },
+        {
+         "q": "7. Too many cooks spoil the broth.",
+         "a": "too — modifies many (Adjective) — Degree"
+        },
+        {
+         "q": "8. Are you quite sure?",
+         "a": "quite — modifies sure (Adjective) — Degree"
+        },
+        {
+         "q": "9. That is well said.",
+         "a": "well — modifies said (Verb) — Manner"
+        },
+        {
+         "q": "10. Once or twice we have met alone.",
+         "a": "once, twice — modify have met (Verb) — Frequency; alone — modifies met (Verb) — Manner"
+        },
+        {
+         "q": "11. The railway station is far off.",
+         "a": "far — modifies off (Adverb) — Degree; off — modifies is (Verb) — Place"
+        },
+        {
+         "q": "12. I have heard this before.",
+         "a": "before — modifies have heard (Verb) — Time"
+        },
+        {
+         "q": "13. Father is somewhat better.",
+         "a": "somewhat — modifies better (Adjective) — Degree"
+        },
+        {
+         "q": "14. I am much relieved to hear it.",
+         "a": "much — modifies relieved (Adjective) — Degree"
+        },
+        {
+         "q": "15. The walk was rather long.",
+         "a": "rather — modifies long (Adjective) — Degree"
+        },
+        {
+         "q": "16. The patient is much worse today.",
+         "a": "much — modifies worse (Adjective) — Degree; today — modifies is (Verb) — Time"
+        },
+        {
+         "q": "17. She arrived a few minutes ago.",
+         "a": "ago — modifies arrived (Verb) — Time"
+        },
+        {
+         "q": "18. Ambition urges me forward.",
+         "a": "forward — modifies urges (Verb) — Place"
+        },
+        {
+         "q": "19. She was dressed all in black.",
+         "a": "all — modifies the phrase in black (Adverb phrase) — Degree"
+        },
+        {
+         "q": "20. We were very kindly received.",
+         "a": "very — modifies kindly (Adverb) — Degree; kindly — modifies received (Verb) — Manner"
+        },
+        {
+         "q": "21. Her son is out in Iran.",
+         "a": "out — modifies is (Verb) — Place"
+        },
+        {
+         "q": "22. I surely expect him tomorrow.",
+         "a": "surely — modifies expect (Verb) — Affirmation; tomorrow — modifies expect (Verb) — Time"
+        },
+        {
+         "q": "23. He could not speak, he was so angry.",
+         "a": "not — modifies could speak (Verb) — Negation; so — modifies angry (Adjective) — Degree"
+        },
+        {
+         "q": "24. You are far too hasty.",
+         "a": "far — modifies too (Adverb) — Degree; too — modifies hasty (Adjective) — Degree"
+        },
+        {
+         "q": "25. The secret is out.",
+         "a": "out — modifies is (Verb) — Place"
+        },
+        {
+         "q": "26. He is old enough to know better.",
+         "a": "enough — modifies old (Adjective) — Degree; better — modifies know (Verb) — Degree"
+        },
+        {
+         "q": "27. I would much rather not go.",
+         "a": "much — modifies rather (Adverb) — Degree; rather — modifies would go (Verb) — Degree; not — modifies go (Verb) — Negation"
+        },
+        {
+         "q": "28. You need not roar.",
+         "a": "not — modifies need roar (Verb) — Negation"
+        },
+        {
+         "q": "29. Your watch is five minutes too fast.",
+         "a": "too — modifies fast (Adjective) — Degree"
+        },
+        {
+         "q": "30. He went off on Monday.",
+         "a": "off — modifies went (Verb) — Place; on Monday — Time"
+        },
+        {
+         "q": "31. His health is no worse than before.",
+         "a": "no — modifies worse (Adjective) — Degree; before — modifies is (Verb) — Time"
+        },
+        {
+         "q": "32. Wisdom is too high for a fool.",
+         "a": "too — modifies high (Adjective) — Degree"
+        },
+        {
+         "q": "33. There is a screw loose somewhere.",
+         "a": "somewhere — modifies loose (Adjective) — Place"
+        },
+        {
+         "q": "34. I see things differently now.",
+         "a": "differently — modifies see (Verb) — Manner; now — modifies see (Verb) — Time"
+        },
+        {
+         "q": "35. Rome was not built in a day.",
+         "a": "not — modifies was built (Verb) — Negation"
+        },
+        {
+         "q": "36. The door burst open and in they came.",
+         "a": "open — modifies burst (Verb) — Manner; in — modifies came (Verb) — Place"
+        },
+        {
+         "q": "37. We have scorched the snake, not killed it.",
+         "a": "not — modifies killed (Verb) — Negation"
+        },
+        {
+         "q": "38. Do not crowd your work so closely together.",
+         "a": "not — modifies do crowd (Verb) — Negation; so — modifies closely (Adverb) — Degree; closely — modifies crowd (Verb) — Manner; together — modifies crowd (Verb) — Manner"
+        },
+        {
+         "q": "39. The patient is no better today.",
+         "a": "no — modifies better (Adjective) — Degree; today — modifies is (Verb) — Time"
+        },
+        {
+         "q": "40. He needs to do it.",
+         "a": "There is no Adverb in this sentence."
+        },
+        {
+         "q": "41. Do not walk so fast.",
+         "a": "not — modifies do walk (Verb) — Negation; so — modifies fast (Adverb) — Degree; fast — modifies walk (Verb) — Manner"
+        },
+        {
+         "q": "42. Put not your trust in princes.",
+         "a": "not — modifies put (Verb) — Negation"
+        },
+        {
+         "q": "43. Order the carriage round.",
+         "a": "round — modifies order (Verb) — Place"
+        },
+        {
+         "q": "44. He has been shamefully treated.",
+         "a": "shamefully — modifies has been treated (Verb) — Manner"
+        },
+        {
+         "q": "45. I wonder you never told me.",
+         "a": "never — modifies told (Verb) — Frequency"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Interrogative Adverbs",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §334)",
+       "items": [
+        {
+         "q": "When are Adverbs called Interrogative Adverbs? Give examples.",
+         "a": "When Adverbs are used in asking questions they are called Interrogative Adverbs; as,\nWhere is Abdul? [Interrogative Adverb of Place]\nWhen did you come? [Interrogative Adverb of Time]\nWhy are you late? [Interrogative Adverb of Reason]\nHow did you contrive it? [Interrogative Adverb of Manner]\nHow many boys are in your class? [Interrogative Adverb of Number]\nHow high is Rajabai Tower? [Interrogative Adverb of Degree]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Relative Adverbs",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §335)",
+       "items": [
+        {
+         "q": "What is a Relative Adverb? Give examples.",
+         "a": "Show me the house where (= in which) he was assaulted. Here the Adverb where modifies the verb was assaulted. Further the Adverb where, like a Relative Pronoun, here relates or refers back to its antecedent house. It is, therefore, called a Relative Adverb.\nFurther examples of Relative Adverbs:\nThis is the reason why I left.\nDo you know the time when the Punjab Mail arrives?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Three classes of Adverbs by use",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §336)",
+       "items": [
+        {
+         "q": "According to their use, into how many classes are Adverbs divided?",
+         "a": "According to their use, Adverbs are divided into three classes—\n(1) Simple Adverbs, used to modify the meaning of a verb, an adjective, or an adverb; as, I can hardly believe it. You are quite wrong. How brightly the moon shines!\n(2) Interrogative Adverbs, used to ask questions; as, Why are you late?\n(3) Relative Adverbs, which refer back to a noun as their antecedent; as, I remember the house where I was born."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Simple, Interrogative and Relative Adverbs compared",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §337)",
+       "items": [
+        {
+         "q": "How do Simple, Interrogative and Relative Adverbs differ?",
+         "a": "(1) A Simple Adverb merely modifies some word.\n(2) An Interrogative Adverb not only modifies some word, but also introduces a question.\n(3) A Relative Adverb not only modifies some word, but also refers back to some antecedent."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs the same in form as Adjectives",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §338)",
+       "items": [
+        {
+         "q": "Give examples of words used sometimes as Adjectives, sometimes as Adverbs.",
+         "a": "He spoke in a loud voice. Don’t talk so loud.\nRama is our fast bowler. Rama can bowl fast.\nHe lives in the next house. When I next see him, I shall speak to him.\nHe went to the back entrance. Go back.\nEvery little difficulty ruffles his temper. He is little known outside India.\nThis is a hard sum. He works hard all day.\nIt’s an ill wind that blows nobody good. I can ill afford to lose him.\nHe is the best boy in this class. He behaves best.\nHe is quick to take offence. Run quick.\nAre you an early riser? We started early.\nThe teacher has a high opinion of that boy. Always aim high.\nHe is the only child of his parents. You can only guess.\nWe have food enough to last a week. She sings well enough.\nHe is no better than a fool. He knows me better than you.\nThere is much truth in what he says. The patient is much better."
+        },
+        {
+         "q": "How can we tell what Part of Speech a word is?",
+         "a": "It is only by noticing how a word is used that we can tell what Part of Speech it is."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 61",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 61 — from the book (Wren & Martin, Chapter 34). Use each of the following words both as an Adjective and as an Adverb: very, near, ill, only, clean, long, late, early, fast",
+       "items": [
+        {
+         "q": "very — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: This is the very book I wanted.\n(2) Adverb: This is a very sweet mango."
+        },
+        {
+         "q": "near — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: My near neighbour is a kind man.\n(2) Adverb: Stand near."
+        },
+        {
+         "q": "ill — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: He is an ill man.\n(2) Adverb: I can ill afford to lose him."
+        },
+        {
+         "q": "only — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: He is the only child of his parents.\n(2) Adverb: You can only guess."
+        },
+        {
+         "q": "clean — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: This is a clean room.\n(2) Adverb: He jumped clean over the wall."
+        },
+        {
+         "q": "long — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: It was a long journey.\n(2) Adverb: How long will you stay?"
+        },
+        {
+         "q": "late — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: He is a late riser.\n(2) Adverb: He arrived late."
+        },
+        {
+         "q": "early — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: Are you an early riser?\n(2) Adverb: We started early."
+        },
+        {
+         "q": "fast — (1) as an Adjective, (2) as an Adverb",
+         "a": "(1) Adjective: Rama is our fast bowler.\n(2) Adverb: Rama can bowl fast."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs with two forms",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §339)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs that have two forms, the form ending in -ly and the form which is the same as the Adjective.",
+         "a": "He sings very loud. He sings very loudly.\nSometimes, however, the two forms of the Adverb have different meanings; as,\nRama works hard (= diligently).\nI could hardly (= scarcely) recognize him.\nStand near. (Opposed to distant)\nRama and Hari are nearly (= closely) related.\nHe arrived late. (Opposed to early).\nI have not seen him lately (= recently).\nI am pretty (= tolerably, fairly) sure of the fact.\nShe is prettily (= neatly, elegantly) dressed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs used as Nouns",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §340)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs used as Nouns after prepositions.",
+         "a": "He lives far from here (= this place).\nHe comes from there (= that place).\nI have heard that before now (= this time).\nBy then (= that time) the police arrived on the scene.\nSince when (= what time) have you taken to smoking?\nThe rain comes from above."
+        },
+        {
+         "q": "What is wrong in the use of from with thence and whence?",
+         "a": "The common use of from with thence and whence is wrong. Thence = from there; whence = from where. Thus the addition of from to either of these words is incorrect."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs used as Adjectives",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §341)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs that seem to be used as Adjectives.",
+         "a": "The then king = the king then reigning.\nA down train = a down-going train.\nAn up train = an up-going train.\nThe above statement = the statement made above."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The as an Adverb",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §342)",
+       "items": [
+        {
+         "q": "In ‘The more the merrier’, what part of speech is the?",
+         "a": "In the following sentences the is not the definite article, but an old demonstrative pronoun used as an Adverb.\nThe more the merrier [= by how much the more by so much the merrier; that is, the more numerous a party is, the more enjoyable it is].\nThe fewer the better = [by how much the fewer by so much the better].\nThe sooner the better = [by how much the sooner by so much the better].\nHe has tried it and is [so much] the better for it.\nIt will be noticed that the is used as an Adverb only with an adjective or another adverb in the comparative degree."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Nouns used as Adverbs",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §343)",
+       "items": [
+        {
+         "q": "Give examples of Nouns used as Adverbs. What is a noun so used called?",
+         "a": "Nouns expressing adverbial relations of time, place, distance, weight, measurement, value, degree, or the like, are often used as Adverbs. Thus:\nThe siege lasted a week. This will last me a month.\nHe went home. We walked five miles.\nThe load weighs three tonnes. It measures five feet.\nThe cloth measures three metres. The watch is only fifty rupees.\nThe wound was skin deep.\nA noun so used is called an Adverbial Accusative."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Verbs used as Adverbs",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 34, §344)",
+       "items": [
+        {
+         "q": "Give an example of a Verb used as an Adverb.",
+         "a": "Sometimes Verbs are used as Adverbs; as,\nSmack went the whip."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "adverb",
+     "sd": "ظرف",
+     "syn": "a word that modifies a verb, an adjective or another adverb"
+    },
+    {
+     "w": "manner",
+     "sd": "طرف",
+     "syn": "the way in which something is done"
+    },
+    {
+     "w": "degree",
+     "sd": "درجو",
+     "syn": "how much, or to what extent"
+    },
+    {
+     "w": "frequency",
+     "sd": "تڪرار",
+     "syn": "how often something happens"
+    },
+    {
+     "w": "affirmation",
+     "sd": "اثبات",
+     "syn": "saying that something is true"
+    },
+    {
+     "w": "negation",
+     "sd": "نفی",
+     "syn": "saying that something is not true"
+    },
+    {
+     "w": "interrogative",
+     "sd": "سوالی",
+     "syn": "asking a question"
+    },
+    {
+     "w": "relative",
+     "sd": "متعلق",
+     "syn": "referring back to a noun already named"
+    },
+    {
+     "w": "antecedent",
+     "sd": "پھاںدار لفظ",
+     "syn": "the noun to which a pronoun or relative adverb refers"
+    },
+    {
+     "w": "adverbial accusative",
+     "sd": "ظرفی مفعول",
+     "syn": "a noun used as an adverb, in the accusative case"
+    }
+   ]
+  },
+  {
+   "unit": 35,
+   "title": "Comparison of Adverbs",
+   "display": "Comparison of Adverbs",
+   "reading": "Comparison of Adverbs",
+   "sections": [
+    {
+     "name": "Degrees of comparison",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 35, §345)",
+       "items": [
+        {
+         "q": "Do Adverbs have degrees of comparison?",
+         "a": "Some Adverbs, like Adjectives, have three degrees of comparison. Such Adverbs are generally compared like Adjectives."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs of one syllable",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 35, §346)",
+       "items": [
+        {
+         "q": "How are Adverbs of one syllable compared? Give examples.",
+         "a": "If the Adverb is of one syllable, we form the Comparative by adding er, and the Superlative by adding est, to the Positive; as,\nFast — faster — fastest; Hard — harder — hardest\nLong — longer — longest; Soon — sooner — soonest\nRama ran fast. (Positive)\nArjun ran faster. (Comparative)\nHari ran fastest of all. (Superlative)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs ending in -ly",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 35, §347)",
+       "items": [
+        {
+         "q": "How are Adverbs ending in -ly compared? Give examples.",
+         "a": "Adverbs ending in ly form the Comparative by adding more and the Superlative by adding most; as,\nSwiftly — more swiftly — most swiftly\nSkilfully — more skilfully — most skilfully\nAbdul played skilfully. (Positive)\nKarim played more skilfully than Abdul. (Comparative)\nOf all the eleven Ahmed played most skilfully. (Superlative)\nBut note early, earlier, earliest.\nI came early this morning.\nRam came earlier.\nAbdul came earliest of all."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Which Adverbs admit of comparison?",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 35, §348)",
+       "items": [
+        {
+         "q": "Which Adverbs admit of comparison, and which cannot be compared?",
+         "a": "It will be noticed that only Adverbs of Manner, Degree, and Time admit of comparison.\nMany Adverbs, from their nature, cannot be compared; as,\nNow, then, where, there, once."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Irregular comparison",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 35, §349)",
+       "items": [
+        {
+         "q": "Give the Comparative and Superlative of the commonest irregular Adverbs.",
+         "a": "Positive — Comparative — Superlative\nIll, badly — worse — worst\nWell — better — best\nMuch — more — most\nLittle — less — least\n(Nigh), near — nearer — next\nFar — farther, further — farthest, furthest\nLate — later — latest\nRama writes well.\nArjun writes better than Rama.\nHari writes best of all.\nDo you work much?\nI work more than you do.\nHari works most of the three of us."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise 62",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 62 — from the book (Wren & Martin, Chapter 35). Compare the following Adverbs: suddenly, often, near, loud, hard, wisely, patiently",
+       "items": [
+        {
+         "q": "suddenly",
+         "a": "Positive: suddenly — Comparative: more suddenly — Superlative: most suddenly"
+        },
+        {
+         "q": "often",
+         "a": "Positive: often — Comparative: oftener (more often) — Superlative: oftenest (most often)"
+        },
+        {
+         "q": "near",
+         "a": "Positive: near — Comparative: nearer — Superlative: nearest (next)"
+        },
+        {
+         "q": "loud",
+         "a": "Positive: loud — Comparative: louder — Superlative: loudest"
+        },
+        {
+         "q": "hard",
+         "a": "Positive: hard — Comparative: harder — Superlative: hardest"
+        },
+        {
+         "q": "wisely",
+         "a": "Positive: wisely — Comparative: more wisely — Superlative: most wisely"
+        },
+        {
+         "q": "patiently",
+         "a": "Positive: patiently — Comparative: more patiently — Superlative: most patiently"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "comparative",
+     "sd": "تقابلی درجو",
+     "syn": "the second degree of comparison, as faster, more swiftly"
+    },
+    {
+     "w": "superlative",
+     "sd": "اعلٰ درجو",
+     "syn": "the highest degree of comparison, as fastest, most swiftly"
+    },
+    {
+     "w": "positive",
+     "sd": "اصلی درجو",
+     "syn": "the plain form of an adverb, as fast, swiftly"
+    },
+    {
+     "w": "irregular",
+     "sd": "بے قاعدے",
+     "syn": "not formed by the usual rule"
+    }
+   ]
+  },
+  {
+   "unit": 36,
+   "title": "Formation of Adverbs",
+   "display": "Formation of Adverbs",
+   "reading": "Formation of Adverbs",
+   "sections": [
+    {
+     "name": "Adverbs of Manner from Adjectives",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §350)",
+       "items": [
+        {
+         "q": "How are Adverbs of Manner mostly formed? Give examples.",
+         "a": "Adverbs of Manner are mostly formed from Adjectives by adding ly (a corruption of like); as,\nClever, cleverly; wise, wisely; kind, kindly; foolish, foolishly; quick, quickly; beautiful, beautifully.\nAkbar was a wise king.\nHe ruled wisely for many years."
+        },
+        {
+         "q": "How do we form Adverbs from Adjectives ending in y?",
+         "a": "When the Adjective ends in y preceded by a consonant, change y into i and add ly; as,\nHappy, happily; ready, readily; heavy, heavily."
+        },
+        {
+         "q": "How do we form Adverbs from Adjectives ending in le?",
+         "a": "When the Adjective ends in le, simply change e into y; as,\nSingle, singly; double, doubly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs from Noun and Adjective",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §351)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs made up of a Noun and a qualifying Adjective.",
+         "a": "Sometimes, meantime, meanwhile, yesterday, midway, otherwise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs from on + Noun",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §352)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs compounded of on (weakened to a) and a Noun.",
+         "a": "Afoot (= on foot), abed, asleep, ahead, aboard, away."
+        },
+        {
+         "q": "Give examples of Adverbs compounded of a Preposition and a Noun.",
+         "a": "Similarly there are other Adverbs which are also compounds of some a Preposition and a Noun; as,\nBetimes, besides, today, tomorrow, overboard.\nNote—The word be is an old form of the Preposition by."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs from Preposition + Adjective",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §353)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs compounded of a Preposition and an Adjective.",
+         "a": "Abroad, along, aloud, anew, behind, below, beyond."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs from Preposition + Adverb",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §354)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs compounded of a Preposition and an Adverb.",
+         "a": "Within, without, before, beneath."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs derived from Pronouns",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §355)",
+       "items": [
+        {
+         "q": "Which Adverbs are derived from the Pronouns the (= that), he, who?",
+         "a": "There is a class of Adverbs which are derived from the Pronouns the (= that), he, who.\nPronoun — Place — Motion to — Motion from — Time — Manner\nThe — there — thither — thence — then — thus\nHe — here — hither — hence — ...... — ......\nWho — where — whither — whence — when — how"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs compounded with Prepositions",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §356)",
+       "items": [
+        {
+         "q": "Give examples of Adverbs compounded with Prepositions.",
+         "a": "Many of the above Adverbs are compounded with Prepositions. Thus we get:\nThereby, therefrom, therein, thereof, thereon, thereto, therewith; hereafter, hereby, herein, hereupon, herewith; wherefore, wherein, whereon, whereof; hitherto; thenceforth, thenceforward; henceforth, henceforward."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Two Adverbs joined by and",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 36, §357)",
+       "items": [
+        {
+         "q": "Give examples of two Adverbs joined by and, with their meanings.",
+         "a": "Two Adverbs sometimes go together, joined by the Conjunction and; as,\nAgain and again (= more than once, repeatedly),\nBy and by (= before long, presently, after a time),\nFar and near (= in all directions),\nFar and wide (= comprehensively),\nFar and away (= by a great deal, decidedly, beyond all comparison),\nFirst and foremost (= first of all),\nNow and then (= from time to time, occasionally),\nNow and again (= at intervals, sometimes, occasionally),\nOff and on (= not regularly, intermittently),\nOnce and again (= on more than one occasion, repeatedly),\nOut and away (= beyond comparison, by far),\nOut and out (= decidedly, beyond all comparison),\nOver and above (= in addition to, besides, as well as),\nOver and over (= many times, frequently, repeatedly),\nThrough and through (= thoroughly, completely),\nThus and thus (= in such and such a way),\nTo and fro (= backwards and forwards, up and down)."
+        },
+        {
+         "q": "Use these paired Adverbs in sentences.",
+         "a": "Good books should be read again and again.\nI warned him again and again.\nBy and by the tumult will subside.\nHis fame has spread far and near.\nAs a statesman he saw far and wide.\nThis is far and away the best course.\nHe is far and away the best bowler in our eleven.\nHe now and then writes on fiscal questions.\nI write to him now and then.\nHe worked ten years, off and on, on his Pali Dictionary.\nI have told you once and again that you must not read such trash.\nThis is out and away the best work on Astronomy.\nHe gained over and above this, the goodwill of all people.\nOver and above being hard-working he is thoroughly honest.\nHe reads all the novels of Scott over and over.\nI believe he is out and out the best Indian batsman.\nHe has read Milton through and through.\nThus and thus only we shall succeed.\nHe walked to and fro, meditating."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — Forming Adverbs",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Practice made from the rules of this chapter — Chapter 36 has no exercise of its own in the book.",
+       "items": [
+        {
+         "q": "Form Adverbs from these Adjectives: clever, wise, kind, quick, beautiful, happy, ready, heavy, single, double.",
+         "a": "cleverly, wisely, kindly, quickly, beautifully; happily, readily, heavily; singly, doubly."
+        },
+        {
+         "q": "What is the Adverb formed from the Adjective ‘wise’? Use it in a sentence.",
+         "a": "wisely. He ruled wisely for many years."
+        },
+        {
+         "q": "Name three Adverbs compounded of a Preposition and a Noun.",
+         "a": "Betimes, besides, today (also tomorrow, overboard)."
+        },
+        {
+         "q": "Name three Adverbs compounded of a Preposition and an Adjective.",
+         "a": "Abroad, along, aloud (also anew, behind, below, beyond)."
+        },
+        {
+         "q": "What do ‘again and again’ and ‘now and then’ mean?",
+         "a": "Again and again = more than once, repeatedly. Now and then = from time to time, occasionally."
+        },
+        {
+         "q": "What does ‘far and away’ mean? Use it in a sentence.",
+         "a": "Far and away = by a great deal, decidedly, beyond all comparison. This is far and away the best course."
+        },
+        {
+         "q": "What does ‘through and through’ mean? Use it in a sentence.",
+         "a": "Through and through = thoroughly, completely. He has read Milton through and through."
+        },
+        {
+         "q": "What does ‘to and fro’ mean? Use it in a sentence.",
+         "a": "To and fro = backwards and forwards, up and down. He walked to and fro, meditating."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "formation",
+     "sd": "جوڙن",
+     "syn": "the way in which a word is made"
+    },
+    {
+     "w": "compound",
+     "sd": "مرڪب",
+     "syn": "made of two or more words joined together"
+    },
+    {
+     "w": "derive",
+     "sd": "نڪرن",
+     "syn": "to come from, to be formed from"
+    },
+    {
+     "w": "meantime",
+     "sd": "اسے وچ مے",
+     "syn": "in the time between, meanwhile"
+    },
+    {
+     "w": "betimes",
+     "sd": "سوھر",
+     "syn": "early, in good time"
+    },
+    {
+     "w": "henceforth",
+     "sd": "هاںئے ڪاں",
+     "syn": "from now on"
+    },
+    {
+     "w": "hitherto",
+     "sd": "هتی تائین",
+     "syn": "until now"
+    }
+   ]
+  },
+  {
+   "unit": 37,
+   "title": "Position of Adverbs",
+   "display": "Position of Adverbs",
+   "reading": "Position of Adverbs",
+   "sections": [
+    {
+     "name": "Adverbs of manner",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §358)",
+       "items": [
+        {
+         "q": "Where are Adverbs of manner generally placed? Give examples.",
+         "a": "Adverbs of manner, which answer the question ‘How’ (e.g., well, fast, quickly, carefully, calmly) are generally placed after the verb or after the object if there is one; as,\nIt is raining heavily.\nThe ship is going slowly.\nShe speaks English well.\nHe does his work carefully."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs of place and time",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §359)",
+       "items": [
+        {
+         "q": "Where are Adverbs of place and time usually placed? Give examples.",
+         "a": "Adverbs or adverb phrases of place (e.g., here, there, everywhere, on the wall) and of time (e.g., now, then, yet, today, next Sunday) are also usually placed after the verb or after the object if there is one; as,\nHe will come here.\nI looked everywhere.\nHang the picture there.\nI met him yesterday.\nThey are to be married next week."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Order of two or more adverbs",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §360)",
+       "items": [
+        {
+         "q": "When there are two or more adverbs after a verb, what is the normal order?",
+         "a": "When there are two or more adverbs after a verb (and its object), the normal order is: adverb of manner, adverb of place, adverb of time.\nShe sang well in the concert.\nWe should go there tomorrow evening.\nHe spoke earnestly at the meeting last night."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs of frequency",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §361)",
+       "items": [
+        {
+         "q": "Where are Adverbs of frequency normally placed? Give examples.",
+         "a": "Adverbs of frequency, which answer the question ‘How often?’ (e.g., always, never, often, rarely, usually, generally) and certain other adverbs like almost, already, hardly, nearly, just, quite are normally put between the subject and the verb if the verb consists of only one word; if there is more than one word in the verb, they are put after the first word.\nHis wife never cooks.\nHe has never seen a tiger.\nI have often told him to write neatly.\nWe usually have breakfast at eight.\nMy uncle has just gone out.\nI quite agree with you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs with am, is, are, was",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §362)",
+       "items": [
+        {
+         "q": "Where are these adverbs placed if the verb is am, are, is or was? Give examples.",
+         "a": "If the verb is am/are/is/was, these adverbs are placed after the verb; as,\nI am never late for school.\nHe is always at home on Sundays.\nWe are just off."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs before a stressed auxiliary",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §363)",
+       "items": [
+        {
+         "q": "When are these adverbs put before an auxiliary or the single verb be?",
+         "a": "These adverbs are usually put before an auxiliary or the single verb be, when it is stressed; as,\n“Abdul has come late again.” “Yes, he always does come late.”\n“When will you write the essay?” “But I already have written it.”\n“Will you be free on Sundays?” “I usually am free on Sundays.”\n“Do you eat meat?” “Yes, I sometimes do.”\nWhen an auxiliary is used alone in short responses, as in the last example above, it is stressed and therefore the adverb comes before it."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs with have to and used to",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §364)",
+       "items": [
+        {
+         "q": "Where does the adverb go with have to and used to?",
+         "a": "The auxiliaries have to and used to prefer the adverb in front of them.\nI often have to go to college on foot.\nHe always used to agree with me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Adverbs modifying adjectives or adverbs",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §365)",
+       "items": [
+        {
+         "q": "Where is an adverb placed when it modifies an adjective or another adverb? Give examples.",
+         "a": "When an adverb modifies an adjective or another adverb, the adverb usually comes before it; as,\nRama is a rather lazy boy.\nThe dog was quite dead.\nThe book is very interesting.\nDo not speak so fast."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The adverb enough",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §366)",
+       "items": [
+        {
+         "q": "Where is the adverb enough placed? Give examples.",
+         "a": "But the adverb enough is always placed after the word which it modifies; as,\nIs the box big enough?\nHe was rash enough to interrupt.\nHe spoke loud enough to be heard."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "The adverb only",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 37, §367)",
+       "items": [
+        {
+         "q": "Where should the word only be placed? Give examples.",
+         "a": "As a general rule, the word only should be placed immediately before the word it modifies; as,\nI worked only two sums.\nHe has slept only three hours.\nIn spoken English, however it is usually put before the verb. The required meaning is obtained by stressing the word which the only modifies; as,\nI only worked two sums.\nHe has only slept three hours."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 63",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 63 — from the book (Wren & Martin, Chapter 37). Insert the given adverbs (or adverb phrases) in their normal position",
+       "items": [
+        {
+         "q": "1. He invited me to visit him (often).",
+         "a": "He often invited me to visit him."
+        },
+        {
+         "q": "2. I am determined to yield this point (never).",
+         "a": "I am determined never to yield this point."
+        },
+        {
+         "q": "3. I know the answer (already).",
+         "a": "I already know the answer."
+        },
+        {
+         "q": "4. We have seen her (just, in the square).",
+         "a": "We have just seen her in the square."
+        },
+        {
+         "q": "5. I have to reach the office (by 9.30, usually).",
+         "a": "I usually have to reach the office by 9.30."
+        },
+        {
+         "q": "6. Will he be (there, still)?",
+         "a": "Will he still be there?"
+        },
+        {
+         "q": "7. I shall meet you (this evening, in the park).",
+         "a": "I shall meet you in the park this evening."
+        },
+        {
+         "q": "8. The train has left (just).",
+         "a": "The train has just left."
+        },
+        {
+         "q": "9. “Can you park your car near the shops?” “Yes, I can (usually).”",
+         "a": "“Can you park your car near the shops?” “Yes, I usually can.”"
+        },
+        {
+         "q": "10. You have to check your oil before starting (always).",
+         "a": "You always have to check your oil before starting."
+        },
+        {
+         "q": "11. He is in time for meals (never).",
+         "a": "He is never in time for meals."
+        },
+        {
+         "q": "12. We should come (here, one morning).",
+         "a": "We should come here one morning."
+        },
+        {
+         "q": "13. He has recovered from his illness (quite).",
+         "a": "He has quite recovered from his illness."
+        },
+        {
+         "q": "14. She goes to the cinema (seldom).",
+         "a": "She seldom goes to the cinema."
+        },
+        {
+         "q": "15. That is not good (enough).",
+         "a": "That is not good enough."
+        },
+        {
+         "q": "16. You must say such a thing (never, again).",
+         "a": "You must never say such a thing again."
+        },
+        {
+         "q": "17. Suresh arrives (always, at 9 o'clock, at the office).",
+         "a": "Suresh always arrives at the office at 9 o'clock."
+        },
+        {
+         "q": "18. He played the violin (last night, brilliantly, in the concert).",
+         "a": "He played the violin brilliantly in the concert last night."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "position",
+     "sd": "جاءھ",
+     "syn": "the place where a word stands in a sentence"
+    },
+    {
+     "w": "normal order",
+     "sd": "عام ترتیب",
+     "syn": "the usual order: manner, place, time"
+    },
+    {
+     "w": "stressed",
+     "sd": "زور ڏیل",
+     "syn": "said with force or emphasis"
+    },
+    {
+     "w": "auxiliary",
+     "sd": "مددگار فعل",
+     "syn": "a helping verb, as have, do, will"
+    }
+   ]
+  },
+  {
+   "unit": 38,
+   "title": "The Preposition",
+   "display": "The Preposition",
+   "reading": "The Preposition",
+   "sections": [
+    {
+     "name": "What is a Preposition?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §368)",
+       "items": [
+        {
+         "q": "Read: (1) There is a cow in the field. (2) He is fond of tea. (3) The cat jumped off the chair. What does each Preposition show?",
+         "a": "In sentence 1, the word in shows the relation between two things—cow and field.\nIn sentence 2, the word of shows the relation between the attribute expressed by the adjective fond and tea.\nIn sentence 3, the word off shows the relation between the action expressed by the verb jumped and the chair.\nThe words in, of, off are here used as Prepositions."
+        },
+        {
+         "q": "Give the definition of a Preposition.",
+         "a": "Def.—A Preposition is a word placed before a noun or a pronoun to show in what relation the person or thing denoted by it stands in regard to something else.\n[The word Preposition means ‘that which is placed before’.]"
+        },
+        {
+         "q": "What does a Preposition join? What is its Object?",
+         "a": "In sentence 1, the Preposition joins a Noun to another Noun;\nin sentence 2, the Preposition joins a Noun to an Adjective;\nin sentence 3, the Preposition joins a Noun to a Verb.\nThe Noun or Pronoun which is used with a Preposition is called its Object. It is in the Accusative case and is said to be governed by the Preposition.\nThus, in sentence 1, the noun field is in the Accusative case, governed by the Preposition in."
+        },
+        {
+         "q": "Can a Preposition have more than one object? Give an example.",
+         "a": "A Preposition may have two or more objects; as,\nThe road runs over hill and plain."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Position of the Preposition",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §369)",
+       "items": [
+        {
+         "q": "Where is a Preposition usually placed? When does it follow its object?",
+         "a": "A Preposition is usually placed before its object, but sometimes it follows it; as,\nHere is the watch that you asked for.\nThat is the boy (whom) I was speaking of.\nWhat are you looking at?\nWhat are you thinking of?\nWhich of these chairs did you sit on?\nNote 1—When the object is the Relative Pronoun that, as in sentence 1, the Preposition is always placed at the end.\nThe Preposition is often placed at the end when the object is an interrogative pronoun (as in sentences 3, 4 and 5) or a Relative Pronoun understood (as in sentence 2).\nNote 2—Sometimes the object is placed first for the sake of emphasis; as,\nThis I insist on. He is known all the world over."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prepositions omitted before nouns of place or time",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §370)",
+       "items": [
+        {
+         "q": "Which Prepositions are often omitted before nouns of place or time? Give examples.",
+         "a": "The Prepositions for, from, in, on are often omitted before nouns of place or time; as,\nWe did it last week. I cannot walk a yard. Wait a minute."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Kinds of Prepositions",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §373)",
+       "items": [
+        {
+         "q": "Into what classes may Prepositions be arranged?",
+         "a": "Prepositions may be arranged in the following classes:\n(1) Simple Prepositions\n(2) Compound Prepositions\n(3) Phrase Prepositions"
+        },
+        {
+         "q": "Name the Simple Prepositions.",
+         "a": "Simple Prepositions: at, by, for, from, in, of, off, on, out, through, till, to, up, with."
+        },
+        {
+         "q": "What are Compound Prepositions? Name them.",
+         "a": "Compound Prepositions are generally formed by prefixing a Preposition (usually a = no or be = by) to a Noun, an Adjective or an Adverb.\nAbout, above, across, along, amidst, among, amongst, around, before, behind, below, beneath, beside, between, beyond, inside, outside, underneath, within, without."
+        },
+        {
+         "q": "What are Phrase Prepositions? Give examples.",
+         "a": "Phrase Prepositions are groups of words used with the force of a single preposition; as,\nAccording to, agreeably to, along with, away from, because of, by dint of, by means of, by reason of, by virtue of, by way of, conformably to, for the sake of, in accordance with, in addition to, in (on) behalf of, in case of, in comparison to, in compliance with, in consequence of, in course of, in favour of, in front of, in lieu of, in order to, in place of, in reference to, in regard to, in spite of, instead of, in the event of, on account of, owing to, with a view to, with an eye to, with reference to, with regard to."
+        },
+        {
+         "q": "Use Phrase Prepositions in sentences.",
+         "a": "He succeeded by dint of perseverance and sheer hard work.\nIn case of need, phone 32567.\nBy virtue of the power vested in me, I hereby order, etc.\nIn consequence of his illness he could not finish the work in time.\nOwing to his ill health, he retired from business.\nWith reference to your letter of date, we regret we cannot allow any further rebate.\nIn order to avoid litigation, he accepted Rs. 30,000 in full settlement of his claim for Rs. 42,000.\nIn course of time he saw his mistake.\nHe died fighting on behalf of his country.\nOn behalf of the staff he read the address.\nHe persevered in spite of difficulties.\nIn the event of his dying without an issue, his nephew would inherit the whole property.\nInstead of talking, prove your worth by doing something.\nBy reason of his perverse attitude, he estranged his best friends.\nHe acted according to my instructions.\nWhy don’t you go along with your brother?\nIn accordance with your instructions, we have remitted the amount to your bankers.\nThere is a big tree in front of his house.\nAgreeably to the terms of the settlement, we herewith enclose our cheque for Rs. 1000.\nBy way of introduction, he made some pertinent remarks.\nBy means of rope ladders they scaled the wall.\nFor the sake of their beliefs, the Puritans emigrated to America.\nIn course of his researches he met with many difficulties.\nHe abdicated the throne in favour of his eldest son.\nHe could not attend school because of his father’s serious illness.\nHe accepted the car in lieu of his claim for Rs. 3,25,000.\nWith a view to an amicable settlement, we offer you without prejudice Rs. 7,500 in full settlement of all your claims uptodate.\nOn account of his negligence the company suffered a heavy loss.\nWhatever he does, he does with an eye to the main chance."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Participial Prepositions",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §374)",
+       "items": [
+        {
+         "q": "Which words are called Participial Prepositions? Give examples.",
+         "a": "Barring, concerning, considering, during, notwithstanding, pending, regarding, respecting, touching, and a few similar words which are present participles of verbs, are used absolutely without any noun or pronoun being attached to them. For all practical purposes, they have become Prepositions, and are sometimes distinguished as Participial Prepositions.\nBarring (= excepting, apart from) accident, the mail will arrive tomorrow.\nConcerning (= about) yesterday’s fire, there are many rumours in the bazar.\nConsidering (= taking into account) the quality, the price is not high.\nUlysses is said to have invented the game of chess during the siege of Troy.\nNotwithstanding (= in spite of) the resistance offered by him, he was arrested by the police.\nPending further orders, Mr. Desai will act as Headmaster.\nRegarding your inquiries, we regret to say that at present we are not interested in imitation silk.\nRespecting the plan you mention, I shall write to you hereafter.\nTouching (= with regard to) this matter, I have not as yet made up my mind."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Words used as Adverbs and as Prepositions",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §375)",
+       "items": [
+        {
+         "q": "How do we know whether a word is a Preposition or an Adverb? Give examples.",
+         "a": "Several words are used sometimes as Adverbs and sometimes as Prepositions. A word is a Preposition when it governs a noun or pronoun; it is an Adverb when it does not.\nAdverb — Preposition\nGo, and run about. — Don’t loiter about the street.\nI could not come before. — I came the day before yesterday.\nHas he come in? — Is he in his room?\nThe wheel came off. — The driver jumped off the car.\nLet us move on. — The book lies on the table.\nHis father arrived soon after. — After a month he returned.\nTake this parcel over to the postoffice. — He rules over a vast empire.\nI have not seen him since. — I have not slept since yesterday."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 64",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 64 — from the book (Wren & Martin, Chapter 38). Name the Prepositions in the following sentences, and tell the word which each governs",
+       "items": [
+        {
+         "q": "1. Little Jack Horner sat in a corner.",
+         "a": "in — governs corner"
+        },
+        {
+         "q": "2. Old Mother Hubbard, she went to the cupboard.",
+         "a": "to — governs cupboard"
+        },
+        {
+         "q": "3. The lion and the unicorn fought for the crown.",
+         "a": "for — governs crown"
+        },
+        {
+         "q": "4. Humpty Dumpty sat on a wall.",
+         "a": "on — governs wall"
+        },
+        {
+         "q": "5. Wee Willie Winkie runs through the town.",
+         "a": "through — governs town"
+        },
+        {
+         "q": "6. She sat by the fire, and told me a tale.",
+         "a": "by — governs fire"
+        },
+        {
+         "q": "7. Rain, rain, go to Spain, and never come back again.",
+         "a": "to — governs Spain"
+        },
+        {
+         "q": "8. A fair little girl sat under a tree.",
+         "a": "under — governs tree"
+        },
+        {
+         "q": "9. Such a number of rocks came over her head.",
+         "a": "over — governs head"
+        },
+        {
+         "q": "10. John Gilpin was a citizen of credit and renown.",
+         "a": "of — governs credit and renown"
+        },
+        {
+         "q": "11. “Will you walk into my parlour?” said the spider to the fly.",
+         "a": "into — governs parlour; to — governs fly"
+        },
+        {
+         "q": "12. Into the street the Piper stepped.",
+         "a": "into — governs street"
+        },
+        {
+         "q": "13. I can never return with my poor dog Tray.",
+         "a": "with — governs Tray"
+        },
+        {
+         "q": "14. He worked and sang from morn till night.",
+         "a": "from — governs morn; till — governs night"
+        },
+        {
+         "q": "15. They all ran after the farmer’s wife, who cut off their tails with a carving knife.",
+         "a": "after — governs wife; off — governs tails; with — governs knife"
+        },
+        {
+         "q": "16. One day the boy his breakfast took, and ate it by a purling brook which through his mother’s orchard ran.",
+         "a": "by — governs brook; through — governs orchard"
+        },
+        {
+         "q": "17. Old John with white hair, does laugh away care, sitting under the oak, among the old folk.",
+         "a": "with — governs hair; under — governs oak; among — governs folk"
+        },
+        {
+         "q": "18. They rise with the morning lark, and labour till almost dark.",
+         "a": "with — governs lark; till — governs dark"
+        },
+        {
+         "q": "19. By the Nine Gods he swore.",
+         "a": "by — governs Gods"
+        },
+        {
+         "q": "20. Under a spreading chestnut-tree the village smithy stands.",
+         "a": "under — governs chestnut-tree"
+        },
+        {
+         "q": "21. He goes on Sunday to church, and sits among his boys.",
+         "a": "on — governs Sunday; to — governs church; among — governs boys"
+        },
+        {
+         "q": "22. I bring fresh showers for the thirsting flowers, from the seas and the streams.",
+         "a": "for — governs flowers; from — governs seas and streams"
+        },
+        {
+         "q": "23. Her arms across her breast she laid.",
+         "a": "across — governs breast"
+        },
+        {
+         "q": "24. Mine be a cot beside the hill.",
+         "a": "beside — governs hill"
+        },
+        {
+         "q": "25. Around my ivied porch shall spring each fragrant flower that drinks the dew.",
+         "a": "around — governs porch"
+        },
+        {
+         "q": "26. One crowded hour of glorious life is worth an age without a name.",
+         "a": "of — governs life; without — governs name"
+        },
+        {
+         "q": "27. I tried to reason him out of his fears.",
+         "a": "out of — governs fears"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 65",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 65 — from the book (Wren & Martin, Chapter 38). Distinguish the Prepositions from Adverbs in the following sentences",
+       "items": [
+        {
+         "q": "1. Come down.",
+         "a": "down — Adverb (governs nothing)"
+        },
+        {
+         "q": "2. We sailed down the river.",
+         "a": "down — Preposition (governs river)"
+        },
+        {
+         "q": "3. The man walked round the house.",
+         "a": "round — Preposition (governs house)"
+        },
+        {
+         "q": "4. He sat on a stool.",
+         "a": "on — Preposition (governs stool)"
+        },
+        {
+         "q": "5. The carriage moved on.",
+         "a": "on — Adverb (governs nothing)"
+        },
+        {
+         "q": "6. The soldiers passed by.",
+         "a": "by — Adverb (governs nothing)"
+        },
+        {
+         "q": "7. The man turned round.",
+         "a": "round — Adverb (governs nothing)"
+        },
+        {
+         "q": "8. We all went in.",
+         "a": "in — Adverb (governs nothing)"
+        },
+        {
+         "q": "9. He is in the room.",
+         "a": "in — Preposition (governs room)"
+        },
+        {
+         "q": "10. He hid behind the door.",
+         "a": "behind — Preposition (governs door)"
+        },
+        {
+         "q": "11. I left him behind.",
+         "a": "behind — Adverb (governs nothing)"
+        },
+        {
+         "q": "12. She sat by the cottage door.",
+         "a": "by — Preposition (governs door)"
+        },
+        {
+         "q": "13. The path leads through the woods.",
+         "a": "through — Preposition (governs woods)"
+        },
+        {
+         "q": "14. I have read the book through.",
+         "a": "through — Adverb (governs nothing)"
+        },
+        {
+         "q": "15. The storm is raging without.",
+         "a": "without — Adverb (governs nothing)"
+        },
+        {
+         "q": "16. We cannot live without water.",
+         "a": "without — Preposition (governs water)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 66",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 66 — from the book (Wren & Martin, Chapter 38). Form sentences to illustrate the use of the following words (1) as Prepositions, and (2) as Adverbs: behind, up, by, along, in, about, beyond, under, before, after",
+       "items": [
+        {
+         "q": "behind — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: He hid behind the door.\n(2) Adverb: I left him behind."
+        },
+        {
+         "q": "up — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: He climbed up the ladder.\n(2) Adverb: He stood up."
+        },
+        {
+         "q": "by — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: She sat by the fire.\n(2) Adverb: The soldiers passed by."
+        },
+        {
+         "q": "along — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: The dog ran along the road.\n(2) Adverb: Come along with me."
+        },
+        {
+         "q": "in — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: He is in the room.\n(2) Adverb: We all went in."
+        },
+        {
+         "q": "about — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: Don’t loiter about the street.\n(2) Adverb: Go, and run about."
+        },
+        {
+         "q": "beyond — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: This work is beyond his capacity.\n(2) Adverb: The village lies far beyond."
+        },
+        {
+         "q": "under — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: A fair little girl sat under a tree.\n(2) Adverb: The water went under the bridge."
+        },
+        {
+         "q": "before — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: I came the day before yesterday.\n(2) Adverb: I could not come before."
+        },
+        {
+         "q": "after — (1) as a Preposition, (2) as an Adverb",
+         "a": "(1) Preposition: After a month he returned.\n(2) Adverb: His father arrived soon after."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Object of a Preposition — Adverbial Phrase, Clause, omitted Relative",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §§376–379)",
+       "items": [
+        {
+         "q": "Give examples in which the object to a Preposition is an Adverbial Phrase.",
+         "a": "Sometimes the object to a Preposition is an Adverbial Phrase; as,\nEach article was sold at over a pound.\nThe noise comes from across the river.\nHe was not promoted to the rank of a colonel till within a few months of his resignation.\nI sold my car for under its half cost.\nHe swore from dawn till far into the night.\nHe did not see her till a few days ago.\nI was thinking about how to circumvent him."
+        },
+        {
+         "q": "Give examples in which a clause is the object to a Preposition.",
+         "a": "A clause can also be the object to a Preposition; as,\nPay careful attention to what I am going to say.\nThere is no meaning in what you say."
+        },
+        {
+         "q": "When is the object to a Preposition, a relative pronoun, omitted? Give examples.",
+         "a": "The object to a Preposition, when it is a relative pronoun, is sometimes omitted; as,\nHe is the man I was looking for. [Here whom is understood.]\nThese are the good rules to live by. [Here which is understood.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 67",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 67 — from the book (Wren & Martin, Chapter 38). Fill in blanks with suitable Prepositions",
+       "items": [
+        {
+         "q": "1. The dog ran ___ the road.",
+         "a": "along"
+        },
+        {
+         "q": "2. The river flows ___ the bridge.",
+         "a": "under"
+        },
+        {
+         "q": "3. The work was done ___ haste.",
+         "a": "in"
+        },
+        {
+         "q": "4. He is afraid ___ the dog.",
+         "a": "of"
+        },
+        {
+         "q": "5. I am fond ___ music.",
+         "a": "of"
+        },
+        {
+         "q": "6. He goes ___ Sunday ___ church.",
+         "a": "on; to"
+        },
+        {
+         "q": "7. He died ___ his country.",
+         "a": "for"
+        },
+        {
+         "q": "8. The steam engine was invented ___ James Watt.",
+         "a": "by"
+        },
+        {
+         "q": "9. The burglar jumped ___ the compound wall.",
+         "a": "over"
+        },
+        {
+         "q": "10. The village was destroyed ___ fire.",
+         "a": "by"
+        },
+        {
+         "q": "11. What is that ___ me?",
+         "a": "to"
+        },
+        {
+         "q": "12. It cannot be done ___ offence.",
+         "a": "without"
+        },
+        {
+         "q": "13. He spoke ___ me ___ Urdu.",
+         "a": "to; in"
+        },
+        {
+         "q": "14. They live ___ the same roof.",
+         "a": "under"
+        },
+        {
+         "q": "15. I have not seen him ___ Wednesday last.",
+         "a": "since"
+        },
+        {
+         "q": "16. I have known him ___ a long time.",
+         "a": "for"
+        },
+        {
+         "q": "17. The moon does not shine ___ its own light.",
+         "a": "by"
+        },
+        {
+         "q": "18. This is a matter ___ little importance.",
+         "a": "of"
+        },
+        {
+         "q": "19. I am tired ___ walking.",
+         "a": "of"
+        },
+        {
+         "q": "20. He has not yet recovered ___ his illness.",
+         "a": "from"
+        },
+        {
+         "q": "21. I shall do it ___ pleasure.",
+         "a": "with"
+        },
+        {
+         "q": "22. God is good ___ me.",
+         "a": "to"
+        },
+        {
+         "q": "23. I will sit ___ my desk to do my lesson.",
+         "a": "at"
+        },
+        {
+         "q": "24. I am sorry ___ what I have done.",
+         "a": "for"
+        },
+        {
+         "q": "25. O God! Keep me ___ sin.",
+         "a": "from"
+        },
+        {
+         "q": "26. I bought it ___ seventy rupees.",
+         "a": "for"
+        },
+        {
+         "q": "27. He broke the jug ___ a hundred pieces.",
+         "a": "into"
+        },
+        {
+         "q": "28. It has been raining ___ yesterday.",
+         "a": "since"
+        },
+        {
+         "q": "29. I have been working hard ___ arithmetic.",
+         "a": "at"
+        },
+        {
+         "q": "30. We suffered ___ your neglect.",
+         "a": "from"
+        },
+        {
+         "q": "31. The exercise was written ___ me ___ a Camlin pen.",
+         "a": "by; with"
+        },
+        {
+         "q": "32. “Will you walk ___ my parlour?” said the spider ___ the fly.",
+         "a": "into; to"
+        },
+        {
+         "q": "33. It is ten o’clock ___ my watch.",
+         "a": "by"
+        },
+        {
+         "q": "34. There is nothing new ___ the sun.",
+         "a": "under"
+        },
+        {
+         "q": "35. Do not cry ___ spilt milk.",
+         "a": "over"
+        },
+        {
+         "q": "36. You, boys, must settle it ___ yourselves.",
+         "a": "among"
+        },
+        {
+         "q": "37. The public are cautioned ___ pickpockets.",
+         "a": "against"
+        },
+        {
+         "q": "38. They drove ___ Mumbai ___ Pune.",
+         "a": "from; to"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prepositions in composition with verbs",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §380)",
+       "items": [
+        {
+         "q": "How are Prepositions used in composition with verbs? Give examples.",
+         "a": "Prepositions are very commonly used in composition with verbs, to form new verbs. Sometimes they are prefixed; as,\nOutbid, overcome, overflow, overlook, undergo, undertake, uphold, withdraw, withhold, withstand.\nMore frequently Prepositions follow the verbs and remain separate; as,\nBoast of, laugh at, look for, send for.\nHe boasted of his accomplishments.\nHe looked for his watch everywhere.\nPlease send for Rama.\nEveryone laughed at him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Relations expressed by Prepositions",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §381)",
+       "items": [
+        {
+         "q": "What relations are indicated by Prepositions? Give examples of each.",
+         "a": "(1) Place; as, Went about the world; ran across the road; leaned against a wall; fell among thieves; quarrelled among themselves; at death’s door; sit on the deck; stood before the door; stood behind the curtain; lies below the surface; sat beside me; plies between Mumbai and Alibag; stand by me; rain comes from the clouds; in the sky; fell into a ditch; lies near his heart; Kolkata is on the Hooghly; the cliff hangs over the sea; tour round the world; marched through the town; came to the end of the road; put pen to paper; travelled towards Nasik; lay under the table; climbed up the ladder; lies upon the table; within the house.\n(2) Time; as, After his death; at an early date; arrived before me; behind time; by three o’clock; during the whole day; for many years; from 1st April; in the afternoon; sat watching far on into the night; lived under the Moghuls; on Monday; pending his return; since yesterday; lasted through the night; throughout the year; wait till to-morrow; ten minutes to twelve; towards evening; until his arrival; rise with the sun; within a month.\n(3) Agency, instrumentality; as, Sell goods at auction; sent the parcel by post; was stunned by a blow; was destroyed by fire; heard this through a friend; cut it with a knife.\n(4) Manner; as, Dying by inches; fought with courage; worked with earnestness, won with ease.\n(5) Cause, reason, purpose; as, Laboured for the good of humanity; died of fever; the very place for a picnic; did it for our good; suffers from gout; died from fatigue; does it from perversity; retreated through fear of an ambush; concealed it through shame; lost his purse through negligence; shivers with fever; took medicine for cold.\n(6) Possession; as, There was no money on him; the mosque of Omar; a man of means; the boy with red hair.\n(7) Measure, standard, rate, value; as, He charges interest at nine per cent. Stories like these must be taken at what they are worth. Cloth is sold by the yard. I am taller than you by two inches. It was one by the tower-clock.\n(8) Contrast, concession; as, After (in spite of, notwithstanding) every effort, one may fail. For one enemy he has a hundred friends. For (in spite of) all his wealth he is not content. With (in spite of) all his faults I admire him.\n(9) Inference, motive, source, or origin; as, From what I know of him, I hesitate to trust him. The knights were brave from gallantry of spirit. He did it from gratitude. Light emanates from the sun. From labour health, from health contentment springs. This is a quotation from Milton. His skill comes from practice.\nNote—It will be seen that the same Preposition, according to the way in which it is used, would have its place under several heads."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 68",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 68 — from the book (Wren & Martin, Chapter 38). Explain the force of the Preposition in each sentence",
+       "items": [
+        {
+         "q": "1. I will do it for all you may say.",
+         "a": "for = in spite of (Concession)"
+        },
+        {
+         "q": "2. This work is beyond his capacity.",
+         "a": "beyond = more than, outside (Place/Measure)"
+        },
+        {
+         "q": "3. I would do anything before that.",
+         "a": "before = rather than, sooner than (Preference)"
+        },
+        {
+         "q": "4. After this I wash my hands of you.",
+         "a": "after = in consequence of this, henceforth (Time)"
+        },
+        {
+         "q": "5. It is cool for May.",
+         "a": "for = considering it is May (Contrast)"
+        },
+        {
+         "q": "6. She made grand preparations against his coming.",
+         "a": "against = in readiness for (Purpose)"
+        },
+        {
+         "q": "7. It was all through you that we failed.",
+         "a": "through = by reason of, owing to (Cause)"
+        },
+        {
+         "q": "8. All that they did was piety to this.",
+         "a": "to = compared with (Contrast)"
+        },
+        {
+         "q": "9. I shall do my duty by him.",
+         "a": "by = towards, in relation to (Relation)"
+        },
+        {
+         "q": "10. The lifeboat made straight for the sinking ship.",
+         "a": "for = towards (Place/Direction)"
+        },
+        {
+         "q": "11. He married for money.",
+         "a": "for = for the sake of (Purpose)"
+        },
+        {
+         "q": "12. A man is a man for all that.",
+         "a": "for = in spite of (Concession)"
+        },
+        {
+         "q": "13. Nothing will come of nothing.",
+         "a": "of = from, out of (Source)"
+        },
+        {
+         "q": "14. With all his faults I still like him.",
+         "a": "with = in spite of (Concession)"
+        },
+        {
+         "q": "15. He was left for dead on the field.",
+         "a": "for = as, in the character of (Purpose)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prepositions requiring special notice — in, at, on",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §382)",
+       "items": [
+        {
+         "q": "When do we use in and at with the names of cities, towns or villages?",
+         "a": "(1) We can use in or at with the names of cities, towns or villages. In most cases in is used. We use in when we are talking about a place as an area; we use at when we see it as a point.\nWe stayed in Mumbai for five days.\nOur plane stopped at Mumbai on the way to Iran. (Mumbai = Mumbai airport)\nHow long have you lived in this village?"
+        },
+        {
+         "q": "When do we use at for group activities and shops?",
+         "a": "(2) We use at to talk about group activities and shops/workplaces.\nDid you see Shobha at the party?\nThere weren’t many people at the meeting.\nI saw him at the baker’s."
+        },
+        {
+         "q": "When do we use in and at with streets and house numbers?",
+         "a": "(3) We use in with the names of streets and at when we give the house-number.\nHe lives in Church Street.\nHe lives at 45 Church Street."
+        },
+        {
+         "q": "When do we use on for a place?",
+         "a": "(4) We use on when we think of a place as a surface.\nThe dog is lying on the floor.\nPut this picture on the wall."
+        },
+        {
+         "q": "Till and to; with and by; since; in and within; beside and besides",
+         "a": "(5) Till is used of time and to is used of place; as,\nHe slept till eight o’clock.\nHe walked to the end of the street.\n(6) With often denotes the instrument and by the agent; as,\nHe killed two birds with one shot.\nHe was stabbed by a lunatic with a dagger.\n(7) Since is used before a noun or phrase denoting some point of time, and is preceded by a verb in the perfect tenses; as,\nI have eaten nothing since yesterday.\nHe has been ill since Monday last.\nI have not been smoking since last week.\n(8) In before a noun denoting a period of time, means at the end of; within means before the end of; as,\nI shall return in an hour. I shall return within an hour.\n(9) Beside means at (or by) the side of, while besides means in addition to; as,\nBeside the ungathered rice he lay.\nBesides his children, there were present his nephews and nieces.\nBesides being fined, he was sentenced to a term of imprisonment."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 69",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 69 — from the book (Wren & Martin, Chapter 38). Fill in the blanks with appropriate Prepositions",
+       "items": [
+        {
+         "q": "1. He lives ___ Hyderabad. He lives ___ 48 Tilak Street.",
+         "a": "in; at"
+        },
+        {
+         "q": "2. He started ___ six ___ the morning.",
+         "a": "at; in"
+        },
+        {
+         "q": "3. He hanged himself ___ a piece of cloth.",
+         "a": "with"
+        },
+        {
+         "q": "4. The portrait was painted ___ a famous artist who flourished ___ the sixteenth century.",
+         "a": "by; in"
+        },
+        {
+         "q": "5. I must start ___ dawn to reach the station in time.",
+         "a": "at"
+        },
+        {
+         "q": "6. I hope to reach the station ___ an hour at the outside.",
+         "a": "within"
+        },
+        {
+         "q": "7. The child has been missing ___ yesterday.",
+         "a": "since"
+        },
+        {
+         "q": "8. The caravan must reach its destination ___ sunset.",
+         "a": "by"
+        },
+        {
+         "q": "9. The mail train is due ___ 3 PM.",
+         "a": "at"
+        },
+        {
+         "q": "10. He travelled thirty kilometres ___ two hours.",
+         "a": "in"
+        },
+        {
+         "q": "11. He rushed ___ my room, panting for breath.",
+         "a": "into"
+        },
+        {
+         "q": "12. He does not leave his house ___ 9 o'clock.",
+         "a": "till"
+        },
+        {
+         "q": "13. The Express departs ___ 3 PM ___ Delhi.",
+         "a": "at; for"
+        },
+        {
+         "q": "14. Human sacrifices were practised ___ the Nagas.",
+         "a": "among"
+        },
+        {
+         "q": "15. I received his message ___ eight o’clock ___ the morning.",
+         "a": "at; in"
+        },
+        {
+         "q": "16. ___ last month I have seen him but once.",
+         "a": "Since"
+        },
+        {
+         "q": "17. ___ rice they had curry.",
+         "a": "With"
+        },
+        {
+         "q": "18. The fever has taken a turn for the better ___ yesterday.",
+         "a": "since"
+        },
+        {
+         "q": "19. He has spent his life ___ Kolkata.",
+         "a": "in"
+        },
+        {
+         "q": "20. I saw him felling a big tree ___ a hatchet.",
+         "a": "with"
+        },
+        {
+         "q": "21. Come and sit ___ me.",
+         "a": "beside"
+        },
+        {
+         "q": "22. Nobody ___ you knows the truth.",
+         "a": "but"
+        },
+        {
+         "q": "23. While I was ___ Delhi he was ___ Mumbai.",
+         "a": "in; in"
+        },
+        {
+         "q": "24. He was killed ___ the robber ___ a hatchet.",
+         "a": "by; with"
+        },
+        {
+         "q": "25. We shall stay three months ___ America.",
+         "a": "in"
+        },
+        {
+         "q": "26. ___ Rustam and Sohrab, there were three other boys present.",
+         "a": "Besides"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prepositions with forms of transport",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 38, §383)",
+       "items": [
+        {
+         "q": "How do we use by with means of transport? Give examples.",
+         "a": "We use by + noun when we talk about means of transport. We do not use the or a/an before the noun.\nWe travelled by train. (not: by the/a train)\nWe say by bicycle, by car/taxi/bus/train, by boat/ship/plane, by air/sea.\nWe do not use by when the reference is to a specific bicycle, car, train, etc.\nSuresh went there on my bike. (not: by my bike)\nWe travelled in Mr. Joshi’s car. (not: by Mr. Joshi’s car)\nThey came in a taxi.\nI’ll go on the 7.30 bus.\nWe use on to mean a specific bicycle, bus, train, ship or plane, and in to mean a specific car, taxi, van, lorry or ambulance.\nWe say on foot (not by foot).\nHe goes to the office on foot. (= He walks to the office.)"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "preposition",
+     "sd": "حرف جر",
+     "syn": "a word placed before a noun or pronoun to show its relation to something else"
+    },
+    {
+     "w": "govern",
+     "sd": "حاڪم ھاںئے",
+     "syn": "to control the case of a noun or pronoun"
+    },
+    {
+     "w": "accusative",
+     "sd": "مفعولی حالت",
+     "syn": "the case of the object of a verb or preposition"
+    },
+    {
+     "w": "simple preposition",
+     "sd": "سادو حرف جر",
+     "syn": "a single-word preposition, as in, on, at"
+    },
+    {
+     "w": "compound preposition",
+     "sd": "مرڪب حرف جر",
+     "syn": "a preposition formed by prefixing a word to a noun, adjective or adverb"
+    },
+    {
+     "w": "phrase preposition",
+     "sd": "جملو حرف جر",
+     "syn": "a group of words used with the force of a single preposition"
+    },
+    {
+     "w": "participial preposition",
+     "sd": "اسم فاعل حرف جر",
+     "syn": "a present participle used as a preposition, as during, concerning"
+    },
+    {
+     "w": "instrument",
+     "sd": "اوزار",
+     "syn": "the thing with which an action is done"
+    },
+    {
+     "w": "agent",
+     "sd": "ڪرنھار",
+     "syn": "the doer of an action"
+    },
+    {
+     "w": "concession",
+     "sd": "رعایت",
+     "syn": "admitting something in spite of which the main statement holds"
+    }
+   ]
+  },
+  {
+   "unit": 39,
+   "title": "Words Followed by Prepositions",
+   "display": "Words Followed by Prepositions",
+   "reading": "Words Followed by Prepositions",
+   "sections": [
+    {
+     "name": "Certain words are always followed by particular Prepositions",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §384)",
+       "items": [
+        {
+         "q": "Read the following sentences, noting the appropriate Prepositions. What Preposition follows ‘famous’?",
+         "a": "Mumbai is famous for its textiles."
+        },
+        {
+         "q": "What Preposition follows ‘subsists’?",
+         "a": "The goat subsists on the coarsest of food."
+        },
+        {
+         "q": "What Preposition follows ‘fond’?",
+         "a": "Jawaharlal Nehru was fond of children."
+        },
+        {
+         "q": "What Preposition follows ‘teeming’?",
+         "a": "India is a noble, gorgeous land, teeming with natural wealth."
+        },
+        {
+         "q": "What Preposition follows ‘apprised’?",
+         "a": "Being apprised of our approach, the whole neighbourhood came out to meet their minister."
+        },
+        {
+         "q": "What Preposition follows ‘divided’?",
+         "a": "In the classical age the ideal life of the Brahman was divided into four stages or ashrams."
+        },
+        {
+         "q": "What Preposition follows ‘natural’?",
+         "a": "It is natural in every man to wish for distinction."
+        },
+        {
+         "q": "What Preposition follows ‘endowed’?",
+         "a": "He was endowed with gifts fitted to win eminence in any field of human activity."
+        },
+        {
+         "q": "What Preposition follows ‘enamoured’?",
+         "a": "The writer is evidently enamoured of the subject."
+        },
+        {
+         "q": "What Preposition follows ‘accessible’?",
+         "a": "These computers are cheap enough to be accessible to most people."
+        },
+        {
+         "q": "What Preposition follows ‘conduce’?",
+         "a": "Ambition does not always conduce to ultimate happiness."
+        },
+        {
+         "q": "What Preposition follows ‘affable’?",
+         "a": "The true gentleman is courteous and affable to his neighbours."
+        },
+        {
+         "q": "What Preposition follows ‘liable’?",
+         "a": "Newly acquired freedom is sometimes liable to abuse."
+        },
+        {
+         "q": "What Preposition follows ‘a match for’?",
+         "a": "Little Jack proved quite a match for the giant."
+        },
+        {
+         "q": "What Preposition follows ‘adapted’?",
+         "a": "Camels are peculiarly adapted to life in the desert."
+        },
+        {
+         "q": "What Preposition follows ‘ignorant’?",
+         "a": "He is a man of deep learning, but totally ignorant of life and manners."
+        },
+        {
+         "q": "What Preposition follows ‘derived’?",
+         "a": "The income derived from the ownership of land is commonly called rent."
+        },
+        {
+         "q": "What Preposition follows ‘profited’?",
+         "a": "Alexander profited by the dissensions of the Punjab Rajas."
+        },
+        {
+         "q": "What Preposition follows ‘impossible’?",
+         "a": "Few things are impossible to diligence and skill."
+        },
+        {
+         "q": "What Preposition follows ‘indebted’?",
+         "a": "I am indebted to you for your help."
+        },
+        {
+         "q": "What Preposition follows ‘tolerant’?",
+         "a": "Ashoka, although tolerant of competing creeds, was personally an ardent Buddhist."
+        },
+        {
+         "q": "What Preposition follows ‘contemporary’?",
+         "a": "The celebrated grammarian Patanjali was a contemporary of Pushyamitra Sunga."
+        },
+        {
+         "q": "What Preposition follows ‘confined’?",
+         "a": "The African elephant is now confined to Central Africa."
+        },
+        {
+         "q": "What Preposition follows ‘adapts’?",
+         "a": "Ivory readily adapts itself to the carver’s art."
+        },
+        {
+         "q": "What Preposition follows ‘remarkable’?",
+         "a": "Coleridge’s poetry is remarkable for the perfection of its execution."
+        },
+        {
+         "q": "What Preposition follows ‘associated’?",
+         "a": "The holy tree is associated with scenes of goodwill and rejoicing."
+        },
+        {
+         "q": "What Preposition follows ‘prevented’?",
+         "a": "The noise from downstairs prevented me from sleeping."
+        },
+        {
+         "q": "What Preposition follows ‘acquainted’?",
+         "a": "I am already acquainted with the latest developments of the situation."
+        },
+        {
+         "q": "What Preposition follows ‘ill-suited’?",
+         "a": "His duties were of a kind ill-suited to his ardent and daring character."
+        },
+        {
+         "q": "What Preposition follows ‘different’?",
+         "a": "Man is entirely different from other animals in the utter helplessness of his babyhood."
+        },
+        {
+         "q": "What Preposition follows ‘inured’?",
+         "a": "A residence of eight years in Sri Lanka had inured his system to the tropical climate."
+        },
+        {
+         "q": "What Preposition follows ‘addicted’?",
+         "a": "The ancient Greeks, though born in a warm climate, seem to have been much addicted to the bottle."
+        },
+        {
+         "q": "What Preposition follows ‘susceptible’?",
+         "a": "He (Dr. Johnson) was somewhat susceptible to flattery."
+        },
+        {
+         "q": "What Preposition follows ‘connives’?",
+         "a": "A man who always connives at the faults of his children is their worst enemy."
+        },
+        {
+         "q": "What Preposition follows ‘destitute’?",
+         "a": "Naples was then destitute of what are now, perhaps, its chief attractions."
+        },
+        {
+         "q": "What Preposition follows ‘originated’?",
+         "a": "The cat appears to have originated in Egypt or in the East."
+        },
+        {
+         "q": "What Preposition follows ‘judged’?",
+         "a": "Judged by its results the policy of Hastings was eminently successful."
+        },
+        {
+         "q": "What Preposition follows ‘hints’?",
+         "a": "In his work Charak often hints at the value of sweet oil."
+        },
+        {
+         "q": "What Preposition follows ‘cure’?",
+         "a": "There is still no cure for the common cold."
+        },
+        {
+         "q": "What Preposition follows ‘due’?",
+         "a": "It was formerly supposed that malaria was due to poisonous exhalations."
+        },
+        {
+         "q": "What Preposition follows ‘averse’?",
+         "a": "People who are averse to hard work, generally do not succeed in life."
+        },
+        {
+         "q": "What Preposition follows ‘freedom’?",
+         "a": "Buddhism teaches that freedom from desires will lead to escape from suffering."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 70",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 70 — from the book (Wren & Martin, Chapter 39). Construct sentences containing the following expressions",
+       "items": [
+        {
+         "q": "afflicted with leprosy + with",
+         "a": "The old man was afflicted with leprosy."
+        },
+        {
+         "q": "sanguine of success + of",
+         "a": "He is sanguine of success in the examination."
+        },
+        {
+         "q": "commit to memory + to",
+         "a": "Commit this poem to memory."
+        },
+        {
+         "q": "specific for malaria + for",
+         "a": "Quinine is a specific for malaria."
+        },
+        {
+         "q": "allowance for short weight + for",
+         "a": "The shopkeeper made an allowance for short weight."
+        },
+        {
+         "q": "appropriate to the occasion + to",
+         "a": "His speech was appropriate to the occasion."
+        },
+        {
+         "q": "abstain from animal food + from",
+         "a": "He abstains from animal food."
+        },
+        {
+         "q": "antipathy to dogs + to",
+         "a": "He has a strong antipathy to dogs."
+        },
+        {
+         "q": "convulsed with laughter + with",
+         "a": "The boys were convulsed with laughter."
+        },
+        {
+         "q": "contrary to expectation + to",
+         "a": "Contrary to expectation, he passed the examination."
+        },
+        {
+         "q": "infested with vermin + with",
+         "a": "The old house was infested with vermin."
+        },
+        {
+         "q": "touched with pity + with",
+         "a": "He was touched with pity at the sight of the poor child."
+        },
+        {
+         "q": "subversive of discipline + of",
+         "a": "Such conduct is subversive of discipline."
+        },
+        {
+         "q": "beneficial to health + to",
+         "a": "Early rising is beneficial to health."
+        },
+        {
+         "q": "tantamount to a refusal + to",
+         "a": "His silence was tantamount to a refusal."
+        },
+        {
+         "q": "worthy of praise + of",
+         "a": "His brave deed is worthy of praise."
+        },
+        {
+         "q": "beset with difficulties + with",
+         "a": "Our path is beset with difficulties."
+        },
+        {
+         "q": "accountable to God + to",
+         "a": "We are accountable to God for our actions."
+        },
+        {
+         "q": "atone for misdeeds + for",
+         "a": "He tried to atone for his misdeeds."
+        },
+        {
+         "q": "addicted to opium + to",
+         "a": "He was addicted to opium."
+        },
+        {
+         "q": "entitled to consideration + to",
+         "a": "The poor man is entitled to consideration."
+        },
+        {
+         "q": "heedless of consequences + of",
+         "a": "He acted heedless of consequences."
+        },
+        {
+         "q": "deaf to entreaties + to",
+         "a": "He was deaf to all entreaties."
+        },
+        {
+         "q": "aptitude for business + for",
+         "a": "He has a great aptitude for business."
+        },
+        {
+         "q": "incentive to hard work + to",
+         "a": "The prize was an incentive to hard work."
+        },
+        {
+         "q": "sensitive to criticism + to",
+         "a": "He is very sensitive to criticism."
+        },
+        {
+         "q": "indifferent to praise or blame + to",
+         "a": "A wise man is indifferent to praise or blame."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 71 — Nouns followed by for",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 71 — from the book (Wren & Martin, Chapter 39). The following nouns take the preposition for after them. Use them in sentences",
+       "items": [
+        {
+         "q": "affection + for",
+         "a": "She has great affection for her grandchildren."
+        },
+        {
+         "q": "ambition + for",
+         "a": "He has no ambition for fame."
+        },
+        {
+         "q": "anxiety + for",
+         "a": "His anxiety for his son kept him awake."
+        },
+        {
+         "q": "apology + for",
+         "a": "He offered an apology for his mistake."
+        },
+        {
+         "q": "appetite + for",
+         "a": "He has a good appetite for food."
+        },
+        {
+         "q": "aptitude + for",
+         "a": "She has an aptitude for music."
+        },
+        {
+         "q": "blame + for",
+         "a": "He took the blame for the loss."
+        },
+        {
+         "q": "candidate + for",
+         "a": "He is a candidate for the post of clerk."
+        },
+        {
+         "q": "capacity + for",
+         "a": "He has no capacity for hard work."
+        },
+        {
+         "q": "compassion + for",
+         "a": "He felt compassion for the poor."
+        },
+        {
+         "q": "compensation + for",
+         "a": "He asked for compensation for his loss."
+        },
+        {
+         "q": "contempt + for",
+         "a": "He has contempt for liars."
+        },
+        {
+         "q": "craving + for",
+         "a": "He has a craving for sweets."
+        },
+        {
+         "q": "desire + for",
+         "a": "He has a strong desire for fame."
+        },
+        {
+         "q": "esteem + for",
+         "a": "I have great esteem for my teacher."
+        },
+        {
+         "q": "fitness + for",
+         "a": "He has no fitness for this work."
+        },
+        {
+         "q": "fondness + for",
+         "a": "She has great fondness for children."
+        },
+        {
+         "q": "guarantee + for",
+         "a": "He gave a guarantee for the watch."
+        },
+        {
+         "q": "leisure + for",
+         "a": "I have no leisure for games."
+        },
+        {
+         "q": "liking + for",
+         "a": "He has no liking for cards."
+        },
+        {
+         "q": "match + for",
+         "a": "Little Jack proved quite a match for the giant."
+        },
+        {
+         "q": "motive + for",
+         "a": "What was his motive for this act?"
+        },
+        {
+         "q": "need + for",
+         "a": "There is no need for haste."
+        },
+        {
+         "q": "opportunity + for",
+         "a": "He got an opportunity for showing his skill."
+        },
+        {
+         "q": "partiality + for",
+         "a": "Children show a partiality for sweetmeats."
+        },
+        {
+         "q": "passion + for",
+         "a": "He has a passion for arguing."
+        },
+        {
+         "q": "pity + for",
+         "a": "He felt pity for the beggar."
+        },
+        {
+         "q": "predilection + for",
+         "a": "He has a predilection for poetry."
+        },
+        {
+         "q": "pretext + for",
+         "a": "His illness was a mere pretext for his absence."
+        },
+        {
+         "q": "relish + for",
+         "a": "He has no relish for such food."
+        },
+        {
+         "q": "remorse + for",
+         "a": "He felt remorse for his sin."
+        },
+        {
+         "q": "reputation + for",
+         "a": "He has a reputation for honesty."
+        },
+        {
+         "q": "surety + for",
+         "a": "He stood surety for his friend."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 72 — Nouns followed by with",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 72 — from the book (Wren & Martin, Chapter 39). The following nouns take the preposition with after them. Use them in sentences",
+       "items": [
+        {
+         "q": "acquaintance + with",
+         "a": "I have no acquaintance with him."
+        },
+        {
+         "q": "alliance + with",
+         "a": "England made an alliance with France."
+        },
+        {
+         "q": "bargain + with",
+         "a": "He made a good bargain with the shopkeeper."
+        },
+        {
+         "q": "comparison + with",
+         "a": "There is no comparison with the past."
+        },
+        {
+         "q": "conformity + with",
+         "a": "Act in conformity with the rules."
+        },
+        {
+         "q": "enmity + with",
+         "a": "He has enmity with his neighbour."
+        },
+        {
+         "q": "intercourse + with",
+         "a": "He has no intercourse with bad boys."
+        },
+        {
+         "q": "intimacy + with",
+         "a": "He has intimacy with the minister."
+        },
+        {
+         "q": "relations + with",
+         "a": "He has good relations with all his neighbours."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 73 — Nouns followed by of",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 73 — from the book (Wren & Martin, Chapter 39). The following nouns take the preposition of after them. Use them in sentences",
+       "items": [
+        {
+         "q": "abhorrence + of",
+         "a": "He has an abhorrence of animal diet."
+        },
+        {
+         "q": "assurance + of",
+         "a": "He gave me an assurance of his help."
+        },
+        {
+         "q": "charge + of",
+         "a": "He took charge of the office."
+        },
+        {
+         "q": "distrust + of",
+         "a": "His distrust of his assistants is unfounded."
+        },
+        {
+         "q": "doubt + of",
+         "a": "There is no doubt of his honesty."
+        },
+        {
+         "q": "experience + of",
+         "a": "He has much experience of teaching."
+        },
+        {
+         "q": "failure + of",
+         "a": "His failure of the examination surprised us."
+        },
+        {
+         "q": "observance + of",
+         "a": "He is strict in the observance of the rules."
+        },
+        {
+         "q": "proof + of",
+         "a": "He gave proof of his courage."
+        },
+        {
+         "q": "result + of",
+         "a": "As a result of the injury, he died."
+        },
+        {
+         "q": "want + of",
+         "a": "The country suffers for want of skilled labour."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 74 — Nouns followed by to",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 74 — from the book (Wren & Martin, Chapter 39). The following nouns take the preposition to after them. Use them in sentences",
+       "items": [
+        {
+         "q": "access + to",
+         "a": "It is hard to get access to him."
+        },
+        {
+         "q": "accession + to",
+         "a": "He celebrated his accession to the throne."
+        },
+        {
+         "q": "allegiance + to",
+         "a": "He owes allegiance to the king."
+        },
+        {
+         "q": "alternative + to",
+         "a": "The alternative to submission is death."
+        },
+        {
+         "q": "antidote + to",
+         "a": "Milk is an antidote to poison."
+        },
+        {
+         "q": "antipathy + to",
+         "a": "Dogs have antipathy to cats."
+        },
+        {
+         "q": "approach + to",
+         "a": "The approach to the village is difficult."
+        },
+        {
+         "q": "assent + to",
+         "a": "He gave his assent to the proposal."
+        },
+        {
+         "q": "attachment + to",
+         "a": "He has great attachment to his home."
+        },
+        {
+         "q": "attention + to",
+         "a": "Pay attention to what I say."
+        },
+        {
+         "q": "concession + to",
+         "a": "He made a concession to the demands of his men."
+        },
+        {
+         "q": "disgrace + to",
+         "a": "It is a disgrace to his family."
+        },
+        {
+         "q": "dislike + to",
+         "a": "He has taken a dislike to outdoor exercise."
+        },
+        {
+         "q": "encouragement + to",
+         "a": "His words were an encouragement to us."
+        },
+        {
+         "q": "enmity + to",
+         "a": "He bears enmity to his brother."
+        },
+        {
+         "q": "exception + to",
+         "a": "There is no exception to this rule."
+        },
+        {
+         "q": "incentive + to",
+         "a": "Hard work is an incentive to success."
+        },
+        {
+         "q": "indifference + to",
+         "a": "He shows indifference to his work."
+        },
+        {
+         "q": "invitation + to",
+         "a": "He sent an invitation to the feast."
+        },
+        {
+         "q": "key + to",
+         "a": "Industry is the key to success."
+        },
+        {
+         "q": "leniency + to",
+         "a": "He showed leniency to the prisoner."
+        },
+        {
+         "q": "likeness + to",
+         "a": "The picture bears a likeness to him."
+        },
+        {
+         "q": "limit + to",
+         "a": "There is a limit to his patience."
+        },
+        {
+         "q": "menace + to",
+         "a": "War is a menace to peace."
+        },
+        {
+         "q": "obedience + to",
+         "a": "Obedience to parents is a duty."
+        },
+        {
+         "q": "objection + to",
+         "a": "He has no objection to my plan."
+        },
+        {
+         "q": "obstruction + to",
+         "a": "The tree is an obstruction to the road."
+        },
+        {
+         "q": "opposition + to",
+         "a": "He met with opposition to his plan."
+        },
+        {
+         "q": "postscript + to",
+         "a": "He added a postscript to the letter."
+        },
+        {
+         "q": "preface + to",
+         "a": "He wrote a preface to the book."
+        },
+        {
+         "q": "reference + to",
+         "a": "With reference to your letter, I write this."
+        },
+        {
+         "q": "repugnance + to",
+         "a": "He feels repugnance to such work."
+        },
+        {
+         "q": "resemblance + to",
+         "a": "He bears a resemblance to his father."
+        },
+        {
+         "q": "sequel + to",
+         "a": "This is a sequel to the first story."
+        },
+        {
+         "q": "submission + to",
+         "a": "He made his submission to the king."
+        },
+        {
+         "q": "succession + to",
+         "a": "He succeeded in his succession to the throne."
+        },
+        {
+         "q": "supplement + to",
+         "a": "This is a supplement to the book."
+        },
+        {
+         "q": "temptation + to",
+         "a": "He fell into temptation to steal."
+        },
+        {
+         "q": "traitor + to",
+         "a": "He proved a traitor to his country."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 75 — Nouns followed by from",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 75 — from the book (Wren & Martin, Chapter 39). The following nouns take the preposition from after them. Use them in sentences",
+       "items": [
+        {
+         "q": "abstinence + from",
+         "a": "His abstinence from wine is well known."
+        },
+        {
+         "q": "cessation + from",
+         "a": "There was a cessation from work at noon."
+        },
+        {
+         "q": "deliverance + from",
+         "a": "He prayed for deliverance from his enemies."
+        },
+        {
+         "q": "descent + from",
+         "a": "He is a descendant by descent from a noble family."
+        },
+        {
+         "q": "digression + from",
+         "a": "His speech had many a digression from the subject."
+        },
+        {
+         "q": "escape + from",
+         "a": "Freedom from desires will lead to escape from suffering."
+        },
+        {
+         "q": "exemption + from",
+         "a": "He got exemption from the fine."
+        },
+        {
+         "q": "inference + from",
+         "a": "Draw an inference from the facts."
+        },
+        {
+         "q": "respite + from",
+         "a": "He got no respite from his work."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 76 — Adjectives followed by to",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 76 — from the book (Wren & Martin, Chapter 39). The following adjectives and participles take the preposition to after them. Use them in sentences",
+       "items": [
+        {
+         "q": "abhorrent + to",
+         "a": "Cruelty is abhorrent to him."
+        },
+        {
+         "q": "acceptable + to",
+         "a": "Your offer is acceptable to me."
+        },
+        {
+         "q": "accessible + to",
+         "a": "The books are accessible to all students."
+        },
+        {
+         "q": "accustomed + to",
+         "a": "He is accustomed to hard work."
+        },
+        {
+         "q": "addicted + to",
+         "a": "He is addicted to smoking."
+        },
+        {
+         "q": "adequate + to",
+         "a": "His income is not adequate to his wants."
+        },
+        {
+         "q": "adjacent + to",
+         "a": "The hotel is adjacent to the station."
+        },
+        {
+         "q": "affectionate + to",
+         "a": "She is affectionate to all."
+        },
+        {
+         "q": "agreeable + to",
+         "a": "This climate is agreeable to me."
+        },
+        {
+         "q": "akin + to",
+         "a": "Hindi is akin to Urdu."
+        },
+        {
+         "q": "alien + to",
+         "a": "Such conduct is alien to his nature."
+        },
+        {
+         "q": "alive + to",
+         "a": "He is alive to his duty."
+        },
+        {
+         "q": "amenable + to",
+         "a": "Few boys are amenable to discipline."
+        },
+        {
+         "q": "analogous + to",
+         "a": "This case is analogous to the last."
+        },
+        {
+         "q": "applicable + to",
+         "a": "That rule is not applicable to your case."
+        },
+        {
+         "q": "appropriate + to",
+         "a": "His dress was appropriate to the occasion."
+        },
+        {
+         "q": "beneficial + to",
+         "a": "Early rising is beneficial to health."
+        },
+        {
+         "q": "callous + to",
+         "a": "He is callous to the sufferings of others."
+        },
+        {
+         "q": "common + to",
+         "a": "This custom is common to all men."
+        },
+        {
+         "q": "comparable + to",
+         "a": "This book is comparable to the last."
+        },
+        {
+         "q": "condemned + to",
+         "a": "He was condemned to death."
+        },
+        {
+         "q": "conducive + to",
+         "a": "Temperance is conducive to health."
+        },
+        {
+         "q": "conformable + to",
+         "a": "His conduct is conformable to the rules."
+        },
+        {
+         "q": "congenial + to",
+         "a": "This work is congenial to me."
+        },
+        {
+         "q": "consecrated + to",
+         "a": "Father Damien consecrated his life to the lepers."
+        },
+        {
+         "q": "contrary + to",
+         "a": "His action was contrary to my wishes."
+        },
+        {
+         "q": "creditable + to",
+         "a": "His success is creditable to him."
+        },
+        {
+         "q": "deaf + to",
+         "a": "He is deaf to all advice."
+        },
+        {
+         "q": "derogatory + to",
+         "a": "It is derogatory to his high position."
+        },
+        {
+         "q": "detrimental + to",
+         "a": "Smoking is detrimental to health."
+        },
+        {
+         "q": "devoted + to",
+         "a": "He is devoted to his work."
+        },
+        {
+         "q": "disastrous + to",
+         "a": "The war was disastrous to the country."
+        },
+        {
+         "q": "due + to",
+         "a": "The train is due to arrive at six."
+        },
+        {
+         "q": "entitled + to",
+         "a": "He is entitled to a reward."
+        },
+        {
+         "q": "equal + to",
+         "a": "He was equal to the occasion."
+        },
+        {
+         "q": "essential + to",
+         "a": "Contentment is essential to happiness."
+        },
+        {
+         "q": "exposed + to",
+         "a": "He was exposed to great danger."
+        },
+        {
+         "q": "faithful + to",
+         "a": "He is faithful to his master."
+        },
+        {
+         "q": "fatal + to",
+         "a": "The wound was fatal to him."
+        },
+        {
+         "q": "foreign + to",
+         "a": "This custom is foreign to our land."
+        },
+        {
+         "q": "hostile + to",
+         "a": "He is hostile to my plan."
+        },
+        {
+         "q": "impertinent + to",
+         "a": "His remark was impertinent to the question."
+        },
+        {
+         "q": "incidental + to",
+         "a": "This is incidental to the main question."
+        },
+        {
+         "q": "inclined + to",
+         "a": "He is inclined to help the poor."
+        },
+        {
+         "q": "indebted + to",
+         "a": "I am indebted to you for your help."
+        },
+        {
+         "q": "indifferent + to",
+         "a": "He is indifferent to praise or blame."
+        },
+        {
+         "q": "indispensable + to",
+         "a": "Hard work is indispensable to success."
+        },
+        {
+         "q": "indulgent + to",
+         "a": "He is indulgent to his children."
+        },
+        {
+         "q": "inimical + to",
+         "a": "Wine is inimical to health."
+        },
+        {
+         "q": "insensible + to",
+         "a": "His arm is insensible to feeling."
+        },
+        {
+         "q": "immune + to",
+         "a": "He is immune to this disease."
+        },
+        {
+         "q": "irrelevant + to",
+         "a": "This is irrelevant to the subject."
+        },
+        {
+         "q": "favourable + to",
+         "a": "The soil is favourable to roses."
+        },
+        {
+         "q": "hurtful + to",
+         "a": "Smoking is hurtful to health."
+        },
+        {
+         "q": "immaterial + to",
+         "a": "It is immaterial to me."
+        },
+        {
+         "q": "impervious + to",
+         "a": "He is impervious to criticism."
+        },
+        {
+         "q": "indigenous + to",
+         "a": "The mango is indigenous to India."
+        },
+        {
+         "q": "liable + to",
+         "a": "He is liable to a fine."
+        },
+        {
+         "q": "limited + to",
+         "a": "His power is limited to this district."
+        },
+        {
+         "q": "lost + to",
+         "a": "He is lost to all sense of shame."
+        },
+        {
+         "q": "loyal + to",
+         "a": "He is loyal to his king."
+        },
+        {
+         "q": "material + to",
+         "a": "This is material to the question."
+        },
+        {
+         "q": "natural + to",
+         "a": "It is natural to all men to love their country."
+        },
+        {
+         "q": "necessary + to",
+         "a": "This is necessary to success."
+        },
+        {
+         "q": "obedient + to",
+         "a": "Be obedient to your parents."
+        },
+        {
+         "q": "obliged + to",
+         "a": "I am obliged to you for your help."
+        },
+        {
+         "q": "offensive + to",
+         "a": "His words were offensive to me."
+        },
+        {
+         "q": "opposite + to",
+         "a": "The school is opposite to the temple."
+        },
+        {
+         "q": "painful + to",
+         "a": "The sight was painful to me."
+        },
+        {
+         "q": "partial + to",
+         "a": "He is partial to his friends."
+        },
+        {
+         "q": "peculiar + to",
+         "a": "This custom is peculiar to India."
+        },
+        {
+         "q": "pertinent + to",
+         "a": "His remark is pertinent to the subject."
+        },
+        {
+         "q": "pledged + to",
+         "a": "He is pledged to help me."
+        },
+        {
+         "q": "preferable + to",
+         "a": "Death is preferable to disgrace."
+        },
+        {
+         "q": "prejudicial + to",
+         "a": "Such a step will be prejudicial to your interests."
+        },
+        {
+         "q": "prior + to",
+         "a": "This happened prior to my coming."
+        },
+        {
+         "q": "profitable + to",
+         "a": "This trade is profitable to him."
+        },
+        {
+         "q": "prone + to",
+         "a": "He is prone to anger."
+        },
+        {
+         "q": "reduced + to",
+         "a": "He was reduced to poverty."
+        },
+        {
+         "q": "related + to",
+         "a": "He is related to me."
+        },
+        {
+         "q": "relevant + to",
+         "a": "This is relevant to the subject."
+        },
+        {
+         "q": "repugnant + to",
+         "a": "This is repugnant to my wishes."
+        },
+        {
+         "q": "responsible + to",
+         "a": "He is responsible to the king for this."
+        },
+        {
+         "q": "restricted + to",
+         "a": "The use of this is restricted to boys."
+        },
+        {
+         "q": "sacred + to",
+         "a": "This place is sacred to the Hindus."
+        },
+        {
+         "q": "sensitive + to",
+         "a": "He is sensitive to criticism."
+        },
+        {
+         "q": "serviceable + to",
+         "a": "This book is serviceable to students."
+        },
+        {
+         "q": "subject + to",
+         "a": "He is subject to fits of anger."
+        },
+        {
+         "q": "suitable + to",
+         "a": "This book is suitable to his age."
+        },
+        {
+         "q": "suited + to",
+         "a": "He is suited to this work."
+        },
+        {
+         "q": "supplementary + to",
+         "a": "This is supplementary to the book."
+        },
+        {
+         "q": "tantamount + to",
+         "a": "His silence is tantamount to a refusal."
+        },
+        {
+         "q": "true + to",
+         "a": "He is true to his king."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 77 — Adjectives followed by in",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 77 — from the book (Wren & Martin, Chapter 39). The following adjectives and participles take the preposition in after them. Use them in sentences",
+       "items": [
+        {
+         "q": "absorbed + in",
+         "a": "He is absorbed in thought."
+        },
+        {
+         "q": "abstemious + in",
+         "a": "He is abstemious in eating and drinking."
+        },
+        {
+         "q": "accomplished + in",
+         "a": "He is accomplished in music."
+        },
+        {
+         "q": "accurate + in",
+         "a": "He is accurate in his work."
+        },
+        {
+         "q": "assiduous + in",
+         "a": "He is assiduous in his studies."
+        },
+        {
+         "q": "backward + in",
+         "a": "He is backward in his studies."
+        },
+        {
+         "q": "bigoted + in",
+         "a": "He is bigoted in his opinions."
+        },
+        {
+         "q": "correct + in",
+         "a": "He is correct in his statement."
+        },
+        {
+         "q": "defective + in",
+         "a": "The machine is defective in one part."
+        },
+        {
+         "q": "deficient + in",
+         "a": "He is deficient in commonsense."
+        },
+        {
+         "q": "experienced + in",
+         "a": "He is experienced in teaching."
+        },
+        {
+         "q": "diligent + in",
+         "a": "He is diligent in his work."
+        },
+        {
+         "q": "enveloped + in",
+         "a": "We were enveloped in dense fog."
+        },
+        {
+         "q": "fertile + in",
+         "a": "This land is fertile in crops."
+        },
+        {
+         "q": "foiled + in",
+         "a": "He was foiled in his attempt."
+        },
+        {
+         "q": "honest + in",
+         "a": "He is honest in his dealings."
+        },
+        {
+         "q": "implicated + in",
+         "a": "He was implicated in the crime."
+        },
+        {
+         "q": "interested + in",
+         "a": "He is interested in music."
+        },
+        {
+         "q": "involved + in",
+         "a": "He is involved in difficulties."
+        },
+        {
+         "q": "lax + in",
+         "a": "He is lax in his duties."
+        },
+        {
+         "q": "proficient + in",
+         "a": "He is proficient in mathematics."
+        },
+        {
+         "q": "remiss + in",
+         "a": "He is remiss in his work."
+        },
+        {
+         "q": "temperate + in",
+         "a": "He is temperate in eating."
+        },
+        {
+         "q": "versed + in",
+         "a": "He is versed in the law."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 78 — Adjectives followed by with",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 78 — from the book (Wren & Martin, Chapter 39). The following adjectives and participles take the preposition with after them. Use them in sentences",
+       "items": [
+        {
+         "q": "acquainted + with",
+         "a": "I am acquainted with him."
+        },
+        {
+         "q": "afflicted + with",
+         "a": "He was afflicted with fever."
+        },
+        {
+         "q": "beset + with",
+         "a": "Our path is beset with difficulties."
+        },
+        {
+         "q": "busy + with",
+         "a": "He is busy with his work."
+        },
+        {
+         "q": "compatible + with",
+         "a": "This is compatible with public safety."
+        },
+        {
+         "q": "compliant + with",
+         "a": "He is compliant with the rules."
+        },
+        {
+         "q": "consistent + with",
+         "a": "This is consistent with his character."
+        },
+        {
+         "q": "contemporary + with",
+         "a": "He was contemporary with Akbar."
+        },
+        {
+         "q": "content + with",
+         "a": "I am content with my lot."
+        },
+        {
+         "q": "contrasted + with",
+         "a": "This is contrasted with that."
+        },
+        {
+         "q": "conversant + with",
+         "a": "He is conversant with the subject."
+        },
+        {
+         "q": "convulsed + with",
+         "a": "The boys were convulsed with laughter."
+        },
+        {
+         "q": "delighted + with",
+         "a": "He was delighted with the gift."
+        },
+        {
+         "q": "deluged + with",
+         "a": "The town was deluged with water."
+        },
+        {
+         "q": "disgusted + with",
+         "a": "He was disgusted with his work."
+        },
+        {
+         "q": "drenched + with",
+         "a": "He was drenched with rain."
+        },
+        {
+         "q": "endowed + with",
+         "a": "He was endowed with rare talents."
+        },
+        {
+         "q": "fatigued + with",
+         "a": "He was fatigued with the journey."
+        },
+        {
+         "q": "fired + with",
+         "a": "He was fired with anger."
+        },
+        {
+         "q": "gifted + with",
+         "a": "He is gifted with a sweet voice."
+        },
+        {
+         "q": "infatuated + with",
+         "a": "He is infatuated with her."
+        },
+        {
+         "q": "infected + with",
+         "a": "He was infected with fever."
+        },
+        {
+         "q": "infested + with",
+         "a": "The house was infested with rats."
+        },
+        {
+         "q": "inspired + with",
+         "a": "He inspired his soldiers with hope."
+        },
+        {
+         "q": "intimate + with",
+         "a": "He is intimate with the minister."
+        },
+        {
+         "q": "invested + with",
+         "a": "He was invested with great powers."
+        },
+        {
+         "q": "overcome + with",
+         "a": "He was overcome with grief."
+        },
+        {
+         "q": "popular + with",
+         "a": "He is popular with his students."
+        },
+        {
+         "q": "replete + with",
+         "a": "The book is replete with examples."
+        },
+        {
+         "q": "satiated + with",
+         "a": "He was satiated with food."
+        },
+        {
+         "q": "satisfied + with",
+         "a": "I am satisfied with your work."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 79 — Adjectives followed by of",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 79 — from the book (Wren & Martin, Chapter 39). The following adjectives and participles take the preposition of after them. Use them in sentences",
+       "items": [
+        {
+         "q": "accused + of",
+         "a": "He was accused of theft."
+        },
+        {
+         "q": "acquitted + of",
+         "a": "He was acquitted of the charge."
+        },
+        {
+         "q": "afraid + of",
+         "a": "He is afraid of the dog."
+        },
+        {
+         "q": "apprehensive + of",
+         "a": "He is apprehensive of danger."
+        },
+        {
+         "q": "apprised + of",
+         "a": "He was apprised of the danger."
+        },
+        {
+         "q": "assured + of",
+         "a": "He is assured of success."
+        },
+        {
+         "q": "aware + of",
+         "a": "He is aware of the danger."
+        },
+        {
+         "q": "bereft + of",
+         "a": "He was bereft of all hope."
+        },
+        {
+         "q": "cautious + of",
+         "a": "Be cautious of strangers."
+        },
+        {
+         "q": "certain + of",
+         "a": "He is certain of success."
+        },
+        {
+         "q": "characteristic + of",
+         "a": "Honesty is characteristic of him."
+        },
+        {
+         "q": "composed + of",
+         "a": "The committee is composed of five members."
+        },
+        {
+         "q": "confident + of",
+         "a": "He is confident of success."
+        },
+        {
+         "q": "conscious + of",
+         "a": "He is conscious of his fault."
+        },
+        {
+         "q": "convicted + of",
+         "a": "He was convicted of theft."
+        },
+        {
+         "q": "convinced + of",
+         "a": "I am convinced of the truth."
+        },
+        {
+         "q": "covetous + of",
+         "a": "He is covetous of money."
+        },
+        {
+         "q": "defrauded + of",
+         "a": "He was defrauded of his money."
+        },
+        {
+         "q": "deprived + of",
+         "a": "He was deprived of his rights."
+        },
+        {
+         "q": "desirous + of",
+         "a": "He is desirous of visiting Agra."
+        },
+        {
+         "q": "destitute + of",
+         "a": "The town was destitute of water."
+        },
+        {
+         "q": "devoid + of",
+         "a": "He is devoid of sense."
+        },
+        {
+         "q": "diffident + of",
+         "a": "He is diffident of his powers."
+        },
+        {
+         "q": "distrustful + of",
+         "a": "He is distrustful of strangers."
+        },
+        {
+         "q": "dull + of",
+         "a": "He is dull of hearing."
+        },
+        {
+         "q": "easy + of",
+         "a": "He is easy of access."
+        },
+        {
+         "q": "envious + of",
+         "a": "He is envious of my success."
+        },
+        {
+         "q": "fearful + of",
+         "a": "He is fearful of the result."
+        },
+        {
+         "q": "fond + of",
+         "a": "He is fond of music."
+        },
+        {
+         "q": "greedy + of",
+         "a": "He is greedy of gain."
+        },
+        {
+         "q": "guilty + of",
+         "a": "He was found guilty of theft."
+        },
+        {
+         "q": "heedless + of",
+         "a": "He is heedless of consequences."
+        },
+        {
+         "q": "ignorant + of",
+         "a": "He is ignorant of the facts."
+        },
+        {
+         "q": "informed + of",
+         "a": "He was informed of the event."
+        },
+        {
+         "q": "innocent + of",
+         "a": "He is innocent of the crime."
+        },
+        {
+         "q": "irrespective + of",
+         "a": "He acted irrespective of the rules."
+        },
+        {
+         "q": "lame + of",
+         "a": "He is lame of one leg."
+        },
+        {
+         "q": "lavish + of",
+         "a": "He is lavish of his money."
+        },
+        {
+         "q": "negligent + of",
+         "a": "He is negligent of his duties."
+        },
+        {
+         "q": "productive + of",
+         "a": "This land is productive of wheat."
+        },
+        {
+         "q": "proud + of",
+         "a": "He is proud of his son."
+        },
+        {
+         "q": "regardless + of",
+         "a": "He acted regardless of the danger."
+        },
+        {
+         "q": "sanguine + of",
+         "a": "He is sanguine of success."
+        },
+        {
+         "q": "sensible + of",
+         "a": "He is sensible of your kindness."
+        },
+        {
+         "q": "sick + of",
+         "a": "I am sick of this work."
+        },
+        {
+         "q": "slow + of",
+         "a": "He is slow of speech."
+        },
+        {
+         "q": "subversive + of",
+         "a": "This is subversive of discipline."
+        },
+        {
+         "q": "sure + of",
+         "a": "He is sure of success."
+        },
+        {
+         "q": "suspicious + of",
+         "a": "He is suspicious of all his neighbours."
+        },
+        {
+         "q": "tolerant + of",
+         "a": "He is tolerant of other opinions."
+        },
+        {
+         "q": "vain + of",
+         "a": "He is vain of his beauty."
+        },
+        {
+         "q": "void + of",
+         "a": "The agreement is void of meaning."
+        },
+        {
+         "q": "weary + of",
+         "a": "He is weary of this life."
+        },
+        {
+         "q": "worthy + of",
+         "a": "He is worthy of praise."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 80 — Adjectives followed by for",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 80 — from the book (Wren & Martin, Chapter 39). The following adjectives and participles take the preposition for after them. Use them in sentences",
+       "items": [
+        {
+         "q": "anxious + for",
+         "a": "He is anxious for his son's safety."
+        },
+        {
+         "q": "celebrated + for",
+         "a": "He is celebrated for his wit."
+        },
+        {
+         "q": "conspicuous + for",
+         "a": "He is conspicuous for his courage."
+        },
+        {
+         "q": "customary + for",
+         "a": "It is customary for him to rise early."
+        },
+        {
+         "q": "designed + for",
+         "a": "This machine is designed for this work."
+        },
+        {
+         "q": "destined + for",
+         "a": "He is destined for greatness."
+        },
+        {
+         "q": "eager + for",
+         "a": "He is eager for news."
+        },
+        {
+         "q": "eligible + for",
+         "a": "He is eligible for the post."
+        },
+        {
+         "q": "eminent + for",
+         "a": "He is eminent for his learning."
+        },
+        {
+         "q": "fit + for",
+         "a": "He is fit for this work."
+        },
+        {
+         "q": "good + for",
+         "a": "Milk is good for health."
+        },
+        {
+         "q": "grateful + for",
+         "a": "I am grateful for your help."
+        },
+        {
+         "q": "notorious + for",
+         "a": "He is notorious for his crimes."
+        },
+        {
+         "q": "penitent + for",
+         "a": "He is penitent for his sins."
+        },
+        {
+         "q": "prepared + for",
+         "a": "He is prepared for anything."
+        },
+        {
+         "q": "proper + for",
+         "a": "This is proper for the occasion."
+        },
+        {
+         "q": "qualified + for",
+         "a": "He is qualified for the post."
+        },
+        {
+         "q": "ready + for",
+         "a": "He is ready for the journey."
+        },
+        {
+         "q": "sorry + for",
+         "a": "I am sorry for what I have done."
+        },
+        {
+         "q": "sufficient + for",
+         "a": "This is sufficient for my needs."
+        },
+        {
+         "q": "useful + for",
+         "a": "This book is useful for students."
+        },
+        {
+         "q": "zealous + for",
+         "a": "He is zealous for his country's good."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 81 — Verbs followed by to",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 81 — from the book (Wren & Martin, Chapter 39). The following verbs take the preposition to after them. Use them in sentences",
+       "items": [
+        {
+         "q": "accede + to",
+         "a": "He acceded to my request."
+        },
+        {
+         "q": "adapt + to",
+         "a": "He adapted himself to the new life."
+        },
+        {
+         "q": "adhere + to",
+         "a": "Adhere to the truth."
+        },
+        {
+         "q": "allot + to",
+         "a": "He allotted the work to us."
+        },
+        {
+         "q": "allude + to",
+         "a": "He alluded to my fault."
+        },
+        {
+         "q": "apologize + to",
+         "a": "He apologized to me for his fault."
+        },
+        {
+         "q": "appoint + to",
+         "a": "He was appointed to the post."
+        },
+        {
+         "q": "ascribe + to",
+         "a": "He ascribed his success to hard work."
+        },
+        {
+         "q": "aspire + to",
+         "a": "He aspires to greatness."
+        },
+        {
+         "q": "assent + to",
+         "a": "He assented to my proposal."
+        },
+        {
+         "q": "attain + to",
+         "a": "He attained to great fame."
+        },
+        {
+         "q": "attend + to",
+         "a": "Attend to your work."
+        },
+        {
+         "q": "attribute + to",
+         "a": "He attributed his failure to bad luck."
+        },
+        {
+         "q": "belong + to",
+         "a": "This book belongs to me."
+        },
+        {
+         "q": "conduce + to",
+         "a": "Hard work conduces to success."
+        },
+        {
+         "q": "conform + to",
+         "a": "Conform to the rules."
+        },
+        {
+         "q": "consent + to",
+         "a": "He consented to my plan."
+        },
+        {
+         "q": "contribute + to",
+         "a": "He contributed to the fund."
+        },
+        {
+         "q": "lead + to",
+         "a": "This road leads to the station."
+        },
+        {
+         "q": "listen + to",
+         "a": "Listen to me."
+        },
+        {
+         "q": "object + to",
+         "a": "He objected to my plan."
+        },
+        {
+         "q": "occur + to",
+         "a": "It did not occur to me."
+        },
+        {
+         "q": "prefer + to",
+         "a": "I prefer tea to coffee."
+        },
+        {
+         "q": "pretend + to",
+         "a": "He pretended to be ill."
+        },
+        {
+         "q": "refer + to",
+         "a": "Refer to the dictionary."
+        },
+        {
+         "q": "revert + to",
+         "a": "He reverted to his old habits."
+        },
+        {
+         "q": "stoop + to",
+         "a": "He will not stoop to such meanness."
+        },
+        {
+         "q": "succumb + to",
+         "a": "He succumbed to his injuries."
+        },
+        {
+         "q": "surrender + to",
+         "a": "He surrendered to the enemy."
+        },
+        {
+         "q": "testify + to",
+         "a": "He testified to the truth of my statement."
+        },
+        {
+         "q": "yield + to",
+         "a": "He yielded to superior force."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 82 — Verbs followed by from",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 82 — from the book (Wren & Martin, Chapter 39). The following verbs take the preposition from after them. Use them in sentences",
+       "items": [
+        {
+         "q": "abstain + from",
+         "a": "He abstains from wine."
+        },
+        {
+         "q": "alight + from",
+         "a": "He alighted from the train."
+        },
+        {
+         "q": "cease + from",
+         "a": "He ceased from work."
+        },
+        {
+         "q": "debar + from",
+         "a": "He was debarred from the examination."
+        },
+        {
+         "q": "derive + from",
+         "a": "He derives pleasure from reading."
+        },
+        {
+         "q": "derogate + from",
+         "a": "It does not derogate from his merit."
+        },
+        {
+         "q": "desist + from",
+         "a": "He desisted from his attempt."
+        },
+        {
+         "q": "detract + from",
+         "a": "It detracts from his fame."
+        },
+        {
+         "q": "deviate + from",
+         "a": "Do not deviate from the path."
+        },
+        {
+         "q": "differ + from",
+         "a": "Your car differs from mine."
+        },
+        {
+         "q": "digress + from",
+         "a": "He digressed from his subject."
+        },
+        {
+         "q": "dissent + from",
+         "a": "He dissented from my opinion."
+        },
+        {
+         "q": "elicit + from",
+         "a": "He elicited the truth from him."
+        },
+        {
+         "q": "emerge + from",
+         "a": "He emerged from the room."
+        },
+        {
+         "q": "escape + from",
+         "a": "He escaped from prison."
+        },
+        {
+         "q": "exclude + from",
+         "a": "He was excluded from the class."
+        },
+        {
+         "q": "preserve + from",
+         "a": "God preserve us from evil."
+        },
+        {
+         "q": "prevent + from",
+         "a": "The rain prevented me from going."
+        },
+        {
+         "q": "prohibit + from",
+         "a": "He was prohibited from entering the village."
+        },
+        {
+         "q": "protect + from",
+         "a": "He protected me from danger."
+        },
+        {
+         "q": "recoil + from",
+         "a": "He recoiled from the sight."
+        },
+        {
+         "q": "recover + from",
+         "a": "He has recovered from his illness."
+        },
+        {
+         "q": "refrain + from",
+         "a": "Refrain from evil."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 83 — Verbs followed by with",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 83 — from the book (Wren & Martin, Chapter 39). The following verbs take the preposition with after them. Use them in sentences",
+       "items": [
+        {
+         "q": "associate + with",
+         "a": "Do not associate with bad boys."
+        },
+        {
+         "q": "bear + with",
+         "a": "Bear with me a little."
+        },
+        {
+         "q": "clash + with",
+         "a": "His interests clash with mine."
+        },
+        {
+         "q": "coincide + with",
+         "a": "His opinion coincides with mine."
+        },
+        {
+         "q": "comply + with",
+         "a": "He complied with my request."
+        },
+        {
+         "q": "condole + with",
+         "a": "He condoled with me on my loss."
+        },
+        {
+         "q": "cope + with",
+         "a": "He can cope with any difficulty."
+        },
+        {
+         "q": "correspond + with",
+         "a": "He corresponds with me."
+        },
+        {
+         "q": "credit + with",
+         "a": "He credited me with the success."
+        },
+        {
+         "q": "deluge + with",
+         "a": "He deluged me with letters."
+        },
+        {
+         "q": "disagree + with",
+         "a": "I disagree with you."
+        },
+        {
+         "q": "dispense + with",
+         "a": "He dispensed with my services."
+        },
+        {
+         "q": "expostulate + with",
+         "a": "He expostulated with me."
+        },
+        {
+         "q": "fill + with",
+         "a": "Fill the cup with water."
+        },
+        {
+         "q": "grapple + with",
+         "a": "He grappled with the difficulty."
+        },
+        {
+         "q": "intrigue + with",
+         "a": "He intrigued with the enemy."
+        },
+        {
+         "q": "meddle + with",
+         "a": "Do not meddle with my affairs."
+        },
+        {
+         "q": "part + with",
+         "a": "He parted with his friends."
+        },
+        {
+         "q": "quarrel + with",
+         "a": "He quarrelled with me."
+        },
+        {
+         "q": "remonstrate + with",
+         "a": "He remonstrated with me."
+        },
+        {
+         "q": "side + with",
+         "a": "He sided with me."
+        },
+        {
+         "q": "sympathize + with",
+         "a": "He sympathized with me in my grief."
+        },
+        {
+         "q": "trifle + with",
+         "a": "Do not trifle with his feelings."
+        },
+        {
+         "q": "vie + with",
+         "a": "He vied with me in running."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 84 — Verbs followed by of",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 84 — from the book (Wren & Martin, Chapter 39). The following verbs take the preposition of after them. Use them in sentences",
+       "items": [
+        {
+         "q": "acquit + of",
+         "a": "He acquitted him of the charge."
+        },
+        {
+         "q": "beware + of",
+         "a": "Beware of dogs."
+        },
+        {
+         "q": "boast + of",
+         "a": "He boasts of his wealth."
+        },
+        {
+         "q": "complain + of",
+         "a": "He complained of his illness."
+        },
+        {
+         "q": "despair + of",
+         "a": "He despaired of success."
+        },
+        {
+         "q": "die + of",
+         "a": "He died of fever."
+        },
+        {
+         "q": "disapprove + of",
+         "a": "He disapproved of my plan."
+        },
+        {
+         "q": "dispose + of",
+         "a": "He disposed of his property."
+        },
+        {
+         "q": "divest + of",
+         "a": "He was divested of his office."
+        },
+        {
+         "q": "dream + of",
+         "a": "He dreams of fame."
+        },
+        {
+         "q": "heal + of",
+         "a": "He was healed of his disease."
+        },
+        {
+         "q": "judge + of",
+         "a": "Do not judge of a book by its cover."
+        },
+        {
+         "q": "repent + of",
+         "a": "He repented of his sin."
+        },
+        {
+         "q": "taste + of",
+         "a": "He tasted of the fruit."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 85 — Verbs followed by for",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 85 — from the book (Wren & Martin, Chapter 39). The following verbs take the prepositions for after them. Use them in sentences",
+       "items": [
+        {
+         "q": "atone + for",
+         "a": "He atoned for his sin."
+        },
+        {
+         "q": "canvass + for",
+         "a": "He canvassed for votes."
+        },
+        {
+         "q": "care + for",
+         "a": "He cares for the poor."
+        },
+        {
+         "q": "clamour + for",
+         "a": "The people clamoured for bread."
+        },
+        {
+         "q": "feel + for",
+         "a": "I feel for you in your grief."
+        },
+        {
+         "q": "hope + for",
+         "a": "He hopes for success."
+        },
+        {
+         "q": "mourn + for",
+         "a": "He mourned for his son."
+        },
+        {
+         "q": "pine + for",
+         "a": "He pined for his home."
+        },
+        {
+         "q": "start + for",
+         "a": "He started for Delhi."
+        },
+        {
+         "q": "stipulate + for",
+         "a": "He stipulated for higher pay."
+        },
+        {
+         "q": "sue + for",
+         "a": "He sued for damages."
+        },
+        {
+         "q": "wish + for",
+         "a": "He wished for success."
+        },
+        {
+         "q": "yearn + for",
+         "a": "He yearned for home."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 86 — Verbs followed by in",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 86 — from the book (Wren & Martin, Chapter 39). The following verbs take the preposition in after them. Use them in sentences",
+       "items": [
+        {
+         "q": "acquiesce + in",
+         "a": "He acquiesced in my plan."
+        },
+        {
+         "q": "dabble + in",
+         "a": "He dabbles in politics."
+        },
+        {
+         "q": "delight + in",
+         "a": "He delights in music."
+        },
+        {
+         "q": "employ + in",
+         "a": "He is employed in teaching."
+        },
+        {
+         "q": "enlist + in",
+         "a": "He enlisted in the army."
+        },
+        {
+         "q": "excel + in",
+         "a": "He excels in dancing."
+        },
+        {
+         "q": "fail + in",
+         "a": "He failed in his attempt."
+        },
+        {
+         "q": "glory + in",
+         "a": "He glories in his success."
+        },
+        {
+         "q": "increase + in",
+         "a": "He increased in wisdom."
+        },
+        {
+         "q": "indulge + in",
+         "a": "Do not indulge in strong language."
+        },
+        {
+         "q": "involve + in",
+         "a": "He was involved in the plot."
+        },
+        {
+         "q": "persevere + in",
+         "a": "Persevere in your studies."
+        },
+        {
+         "q": "persist + in",
+         "a": "He persisted in his refusal."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 87 — Verbs followed by on",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 87 — from the book (Wren & Martin, Chapter 39). The following verbs take the preposition on after them. Use them in sentences",
+       "items": [
+        {
+         "q": "comment + on",
+         "a": "He commented on my speech."
+        },
+        {
+         "q": "decide + on",
+         "a": "He decided on going."
+        },
+        {
+         "q": "deliberate + on",
+         "a": "He deliberated on the matter."
+        },
+        {
+         "q": "depend + on",
+         "a": "Depend on God."
+        },
+        {
+         "q": "determine + on",
+         "a": "He determined on going."
+        },
+        {
+         "q": "dwell + on",
+         "a": "Do not dwell on the past."
+        },
+        {
+         "q": "embark + on",
+         "a": "He embarked on a great journey."
+        },
+        {
+         "q": "encroach + on",
+         "a": "Do not encroach on his rights."
+        },
+        {
+         "q": "enlarge + on",
+         "a": "He enlarged on the subject."
+        },
+        {
+         "q": "impose + on",
+         "a": "He imposed a fine on me."
+        },
+        {
+         "q": "insist + on",
+         "a": "He insisted on going."
+        },
+        {
+         "q": "intrude + on",
+         "a": "He intruded on my time."
+        },
+        {
+         "q": "resolve + on",
+         "a": "He resolved on going."
+        },
+        {
+         "q": "subsist + on",
+         "a": "He subsists on rice."
+        },
+        {
+         "q": "trample + on",
+         "a": "Do not trample on the grass."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 88",
+     "num": "20",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 88 — from the book (Wren & Martin, Chapter 39). Fill in the blanks with appropriate Prepositions",
+       "items": [
+        {
+         "q": "1. Mr. Ram Lal subscribed a handsome sum ___ the Flood Relief Fund.",
+         "a": "to"
+        },
+        {
+         "q": "2. His friends condoled ___ him ___ his bereavement.",
+         "a": "with; on"
+        },
+        {
+         "q": "3. He quarrelled ___ me ___ a trifle.",
+         "a": "with; about"
+        },
+        {
+         "q": "4. He readily complied ___ my request.",
+         "a": "with"
+        },
+        {
+         "q": "5. He dispensed ___ the services of his dishonest clerk.",
+         "a": "with"
+        },
+        {
+         "q": "6. He yielded ___ superior force.",
+         "a": "to"
+        },
+        {
+         "q": "7. He despaired ___ success.",
+         "a": "of"
+        },
+        {
+         "q": "8. He supplies the poor ___ clothing.",
+         "a": "with"
+        },
+        {
+         "q": "9. His friends disagreed ___ him on that point.",
+         "a": "with"
+        },
+        {
+         "q": "10. He acceded ___ my request.",
+         "a": "to"
+        },
+        {
+         "q": "11. He abstains ___ liquor.",
+         "a": "from"
+        },
+        {
+         "q": "12. He was found guilty ___ manslaughter.",
+         "a": "of"
+        },
+        {
+         "q": "13. He is incapable ___ doing good work.",
+         "a": "of"
+        },
+        {
+         "q": "14. He is married ___ my cousin.",
+         "a": "to"
+        },
+        {
+         "q": "15. He is sensible ___ your kindness.",
+         "a": "of"
+        },
+        {
+         "q": "16. He is true ___ his king.",
+         "a": "to"
+        },
+        {
+         "q": "17. He is involved ___ difficulties.",
+         "a": "in"
+        },
+        {
+         "q": "18. The auditor is entitled ___ his remuneration.",
+         "a": "to"
+        },
+        {
+         "q": "19. I prefer tea ___ coffee.",
+         "a": "to"
+        },
+        {
+         "q": "20. I don't concur ___ you ___ that opinion.",
+         "a": "with; in"
+        },
+        {
+         "q": "21. There is no exception ___ this rule.",
+         "a": "to"
+        },
+        {
+         "q": "22. I am obliged ___ you ___ your kindness.",
+         "a": "to; for"
+        },
+        {
+         "q": "23. I am not envious ___ his success.",
+         "a": "of"
+        },
+        {
+         "q": "24. I am convinced ___ the necessity of prudence.",
+         "a": "of"
+        },
+        {
+         "q": "25. We should rely ___ our own efforts.",
+         "a": "on"
+        },
+        {
+         "q": "26. I inquired ___ the servant if his master was at home.",
+         "a": "of"
+        },
+        {
+         "q": "27. I purposely refrained ___ saying more.",
+         "a": "from"
+        },
+        {
+         "q": "28. I insisted ___ going.",
+         "a": "on"
+        },
+        {
+         "q": "29. I exchanged ___ him my calculator ___ a camera.",
+         "a": "with; for"
+        },
+        {
+         "q": "30. I assented ___ his proposal.",
+         "a": "to"
+        },
+        {
+         "q": "31. I am not satisfied ___ your explanation.",
+         "a": "with"
+        },
+        {
+         "q": "32. You must conform ___ the regulations.",
+         "a": "to"
+        },
+        {
+         "q": "33. He did not profit ___ experience.",
+         "a": "by"
+        },
+        {
+         "q": "34. We should all aim ___ excellence.",
+         "a": "at"
+        },
+        {
+         "q": "35. Alcohol is injurious ___ health.",
+         "a": "to"
+        },
+        {
+         "q": "36. He is innocent ___ the crime.",
+         "a": "of"
+        },
+        {
+         "q": "37. The stories in that book are full ___ interest.",
+         "a": "of"
+        },
+        {
+         "q": "38. Don't associate ___ disreputable people.",
+         "a": "with"
+        },
+        {
+         "q": "39. Do not indulge ___ strong language.",
+         "a": "in"
+        },
+        {
+         "q": "40. He is grateful ___ his master ___ many favours.",
+         "a": "to; for"
+        },
+        {
+         "q": "41. He is dependent ___ his parents.",
+         "a": "on"
+        },
+        {
+         "q": "42. He is abstemious ___ eating and drinking.",
+         "a": "in"
+        },
+        {
+         "q": "43. He is prompt ___ carrying out orders.",
+         "a": "in"
+        },
+        {
+         "q": "44. He is vain ___ his attainments.",
+         "a": "of"
+        },
+        {
+         "q": "45. He is deficient ___ commonsense.",
+         "a": "in"
+        },
+        {
+         "q": "46. He is vexed ___ me.",
+         "a": "with"
+        },
+        {
+         "q": "47. He is indifferent ___ his own interests.",
+         "a": "to"
+        },
+        {
+         "q": "48. He is proficient ___ mathematics.",
+         "a": "in"
+        },
+        {
+         "q": "49. He is not ashamed ___ his neighbours.",
+         "a": "of"
+        },
+        {
+         "q": "50. He is devoid ___ sense.",
+         "a": "of"
+        },
+        {
+         "q": "51. He is suspicious ___ all his neighbours.",
+         "a": "of"
+        },
+        {
+         "q": "52. He has a passion ___ arguing.",
+         "a": "for"
+        },
+        {
+         "q": "53. Recently there has been a reduction ___ the price of milk.",
+         "a": "in"
+        },
+        {
+         "q": "54. He proved false ___ his friend.",
+         "a": "to"
+        },
+        {
+         "q": "55. A square may be equivalent ___ a triangle.",
+         "a": "to"
+        },
+        {
+         "q": "56. The avaricious man is greedy ___ gain.",
+         "a": "of"
+        },
+        {
+         "q": "57. He is very different ___ his brother.",
+         "a": "from"
+        },
+        {
+         "q": "58. The head-dress of the Cossacks is similar ___ that of the ancient Persians.",
+         "a": "to"
+        },
+        {
+         "q": "59. He was born ___ humble parents in Nasik.",
+         "a": "of"
+        },
+        {
+         "q": "60. His views do not accord ___ mine.",
+         "a": "with"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 89",
+     "num": "21",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 89 — from the book (Wren & Martin, Chapter 39). Fill in the blanks with appropriate Prepositions",
+       "items": [
+        {
+         "q": "1. Temperance and employment are conducive ___ health.",
+         "a": "to"
+        },
+        {
+         "q": "2. A policeman rescued the child ___ danger.",
+         "a": "from"
+        },
+        {
+         "q": "3. Dogs have antipathy ___ cats.",
+         "a": "to"
+        },
+        {
+         "q": "4. He promised not to do anything repugnant ___ the wishes of his parents.",
+         "a": "to"
+        },
+        {
+         "q": "5. He is not the man to allow any one to encroach ___ his rights.",
+         "a": "on"
+        },
+        {
+         "q": "6. Some of the members of the Assembly complained ___ the delay.",
+         "a": "of"
+        },
+        {
+         "q": "7. Even the enemies admit that he is endowed ___ rare talents.",
+         "a": "with"
+        },
+        {
+         "q": "8. He inspires respect ___ his friends.",
+         "a": "in"
+        },
+        {
+         "q": "9. Our path is beset ___ difficulties.",
+         "a": "with"
+        },
+        {
+         "q": "10. He was not able to give a satisfactory explanation ___ his absence.",
+         "a": "of"
+        },
+        {
+         "q": "11. His illness is a mere pretext ___ his absence.",
+         "a": "for"
+        },
+        {
+         "q": "12. He has been very much indulgent ___ his children.",
+         "a": "to"
+        },
+        {
+         "q": "13. This discussion is hardly relevant ___ the subject.",
+         "a": "to"
+        },
+        {
+         "q": "14. Contentment is essential ___ happiness.",
+         "a": "to"
+        },
+        {
+         "q": "15. Early rising is beneficial ___ health.",
+         "a": "to"
+        },
+        {
+         "q": "16. He is not likely to do anything detrimental ___ our interests.",
+         "a": "to"
+        },
+        {
+         "q": "17. His benefactions must redound ___ his credit.",
+         "a": "to"
+        },
+        {
+         "q": "18. Only graduates are eligible ___ the post.",
+         "a": "for"
+        },
+        {
+         "q": "19. He is capable as a leader, but intolerant ___ opposition.",
+         "a": "of"
+        },
+        {
+         "q": "20. Boys over sixteen are debarred ___ competing.",
+         "a": "from"
+        },
+        {
+         "q": "21. Father Damien consecrated his life ___ ameliorating the lot of lepers.",
+         "a": "to"
+        },
+        {
+         "q": "22. That rule is not applicable ___ your case.",
+         "a": "to"
+        },
+        {
+         "q": "23. A public man should be tolerant ___ criticism.",
+         "a": "of"
+        },
+        {
+         "q": "24. He is willing to make a concession ___ the demands of his employees.",
+         "a": "to"
+        },
+        {
+         "q": "25. I often find him absorbed ___ thought.",
+         "a": "in"
+        },
+        {
+         "q": "26. The accommodation is adequate ___ our needs.",
+         "a": "to"
+        },
+        {
+         "q": "27. The hotel is adjacent ___ the station.",
+         "a": "to"
+        },
+        {
+         "q": "28. The authorship of the book is wrongly ascribed ___ him.",
+         "a": "to"
+        },
+        {
+         "q": "29. Never do anything that is not compatible ___ public safety.",
+         "a": "with"
+        },
+        {
+         "q": "30. His father often connives ___ his follies.",
+         "a": "at"
+        },
+        {
+         "q": "31. Some public men are very sensitive ___ criticism.",
+         "a": "to"
+        },
+        {
+         "q": "32. He is addicted ___ gambling.",
+         "a": "to"
+        },
+        {
+         "q": "33. You need not be afraid ___ being late.",
+         "a": "of"
+        },
+        {
+         "q": "34. Death is preferable ___ disgrace.",
+         "a": "to"
+        },
+        {
+         "q": "35. Cats are tenacious ___ life.",
+         "a": "of"
+        },
+        {
+         "q": "36. It is not true that the study of science tends ___ atheism.",
+         "a": "to"
+        },
+        {
+         "q": "37. Some films are an incitement ___ crime.",
+         "a": "to"
+        },
+        {
+         "q": "38. He was angry ___ me, because he thought my remark was unkind.",
+         "a": "with"
+        },
+        {
+         "q": "39. The climate of Rangoon does not agree ___ him.",
+         "a": "with"
+        },
+        {
+         "q": "40. His plans are adverse ___ my interests.",
+         "a": "to"
+        },
+        {
+         "q": "41. The question of unemployment bristles ___ difficulties.",
+         "a": "with"
+        },
+        {
+         "q": "42. Although he was bred ___ the law, he became a successful journalist.",
+         "a": "to"
+        },
+        {
+         "q": "43. Generally, the rich are more covetous ___ money than the poor.",
+         "a": "of"
+        },
+        {
+         "q": "44. He is still smarting ___ rebuke.",
+         "a": "under"
+        },
+        {
+         "q": "45. He scoffed ___ the idea of revolution.",
+         "a": "at"
+        },
+        {
+         "q": "46. He has reverted ___ his former post.",
+         "a": "to"
+        },
+        {
+         "q": "47. The battle resulted ___ a victory for the Allies.",
+         "a": "in"
+        },
+        {
+         "q": "48. He restored the article ___ its rightful owner.",
+         "a": "to"
+        },
+        {
+         "q": "49. The whole theory rests ___ no firmer foundation than mere conjecture.",
+         "a": "on"
+        },
+        {
+         "q": "50. The ultimate decision rests ___ the board of directors.",
+         "a": "with"
+        },
+        {
+         "q": "51. Only when persuasions failed the police resorted ___ force.",
+         "a": "to"
+        },
+        {
+         "q": "52. Superstitious fears preyed ___ his mind and made him miserable.",
+         "a": "on"
+        },
+        {
+         "q": "53. He piques himself ___ his artistic taste.",
+         "a": "on"
+        },
+        {
+         "q": "54. They now jeered ___ him whom they had once acclaimed as their hero.",
+         "a": "at"
+        },
+        {
+         "q": "55. The shot was aimed ___ him.",
+         "a": "at"
+        },
+        {
+         "q": "56. His followers now began to intrigue ___ his adversary.",
+         "a": "against"
+        },
+        {
+         "q": "57. It is easy to infer ___ his account the real state of affairs.",
+         "a": "from"
+        },
+        {
+         "q": "58. He died without imparting ___ anyone the secret of his process.",
+         "a": "to"
+        },
+        {
+         "q": "59. His statement was tantamount ___ a confession.",
+         "a": "to"
+        },
+        {
+         "q": "60. The facts point ___ a different explanation.",
+         "a": "to"
+        },
+        {
+         "q": "61. His friends prevailed ___ him to withdraw his resignation.",
+         "a": "on"
+        },
+        {
+         "q": "62. Few boys are not amenable ___ discipline.",
+         "a": "to"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 90",
+     "num": "22",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 90 — from the book (Wren & Martin, Chapter 39). Fill in the blanks with appropriate Prepositions",
+       "items": [
+        {
+         "q": "1. Silkworms feed ___ mulberry trees.",
+         "a": "on"
+        },
+        {
+         "q": "2. Pavlova excels ___ dancing.",
+         "a": "in"
+        },
+        {
+         "q": "3. The wild boar abounds ___ some parts of Europe.",
+         "a": "in"
+        },
+        {
+         "q": "4. He has no special liking ___ mathematics.",
+         "a": "for"
+        },
+        {
+         "q": "5. Ashoka is worthy ___ remembrance.",
+         "a": "of"
+        },
+        {
+         "q": "6. The godown is infested ___ rats.",
+         "a": "with"
+        },
+        {
+         "q": "7. There is no exception ___ this rule.",
+         "a": "to"
+        },
+        {
+         "q": "8. Nothing conduces ___ happiness so much as contentment.",
+         "a": "to"
+        },
+        {
+         "q": "9. Alcohol is injurious ___ health.",
+         "a": "to"
+        },
+        {
+         "q": "10. Oil is good ___ burns.",
+         "a": "for"
+        },
+        {
+         "q": "11. Invalids are not capable ___ continued exertion.",
+         "a": "of"
+        },
+        {
+         "q": "12. The British Parliament is composed ___ two Houses.",
+         "a": "of"
+        },
+        {
+         "q": "13. Do not confide your secrets ___ everyone.",
+         "a": "to"
+        },
+        {
+         "q": "14. He is abstemious ___ his habits.",
+         "a": "in"
+        },
+        {
+         "q": "15. He is ignorant ___ what he pretends to know.",
+         "a": "of"
+        },
+        {
+         "q": "16. My brother is weak ___ mathematics.",
+         "a": "in"
+        },
+        {
+         "q": "17. He has conceived an aversion ___ all kinds of profitable labour.",
+         "a": "to"
+        },
+        {
+         "q": "18. Birbal is celebrated ___ his witty sayings.",
+         "a": "for"
+        },
+        {
+         "q": "19. The avaricious man is greedy ___ gain.",
+         "a": "of"
+        },
+        {
+         "q": "20. The Atlantic separates Europe ___ America.",
+         "a": "from"
+        },
+        {
+         "q": "21. Adam assigned ___ every creature a name peculiar to its nature.",
+         "a": "to"
+        },
+        {
+         "q": "22. Temperance and employment are conducive ___ health.",
+         "a": "to"
+        },
+        {
+         "q": "23. A brave boy rescued the child ___ danger.",
+         "a": "from"
+        },
+        {
+         "q": "24. Industry is the key ___ success.",
+         "a": "to"
+        },
+        {
+         "q": "25. The customs were searching ___ drugs at the airport.",
+         "a": "for"
+        },
+        {
+         "q": "26. Elizabeth knew how to inspire her soldiers ___ hope.",
+         "a": "with"
+        },
+        {
+         "q": "27. Long indulgence ___ vice impaired his once robust constitution.",
+         "a": "in"
+        },
+        {
+         "q": "28. Early rising is beneficial ___ health.",
+         "a": "to"
+        },
+        {
+         "q": "29. We should live in a style suited ___ our condition.",
+         "a": "to"
+        },
+        {
+         "q": "30. Examinations act as an incentive ___ diligence.",
+         "a": "to"
+        },
+        {
+         "q": "31. Hard work and perseverance are indispensable ___ success in life.",
+         "a": "to"
+        },
+        {
+         "q": "32. He is too miserly to part ___ his money.",
+         "a": "with"
+        },
+        {
+         "q": "33. He is a clever man, but unfortunately diffident ___ his powers.",
+         "a": "of"
+        },
+        {
+         "q": "34. Suddenly we were enveloped ___ dense fog.",
+         "a": "in"
+        },
+        {
+         "q": "35. Many aspire ___ greatness, but few attain it.",
+         "a": "to"
+        },
+        {
+         "q": "36. His income is not adequate ___ his wants.",
+         "a": "to"
+        },
+        {
+         "q": "37. The soil of Pune is favourable ___ roses.",
+         "a": "to"
+        },
+        {
+         "q": "38. I am sick ___ the whole business.",
+         "a": "of"
+        },
+        {
+         "q": "39. A car will be a great convenience ___ a busy man like him.",
+         "a": "to"
+        },
+        {
+         "q": "40. Whoever acts contrary ___ nature does not go unpunished.",
+         "a": "to"
+        },
+        {
+         "q": "41. The accident resulted ___ the death of five people.",
+         "a": "in"
+        },
+        {
+         "q": "42. These derelict houses are a reproach ___ the city.",
+         "a": "to"
+        },
+        {
+         "q": "43. The Germans were called baby-killers and their methods of warfare stigmatized as a reproach ___ civilization.",
+         "a": "to"
+        },
+        {
+         "q": "44. The mule was partially relieved ___ the load.",
+         "a": "of"
+        },
+        {
+         "q": "45. America has raised a tariff wall to protect home industries ___ foreign competition.",
+         "a": "against"
+        },
+        {
+         "q": "46. The facts point ___ a different conclusion.",
+         "a": "to"
+        },
+        {
+         "q": "47. Your wish is tantamount ___ a command.",
+         "a": "to"
+        },
+        {
+         "q": "48. This state is committed ___ the policy of total prohibition.",
+         "a": "to"
+        },
+        {
+         "q": "49. One is sure ___ what one sees.",
+         "a": "of"
+        },
+        {
+         "q": "50. He is indifferent alike ___ praise and blame.",
+         "a": "to"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 91",
+     "num": "23",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 91 — from the book (Wren & Martin, Chapter 39). Fill in the blanks with appropriate Prepositions",
+       "items": [
+        {
+         "q": "1. No doubt he has achieved much, but I cannot give him credit ___ all that he boasts.",
+         "a": "for"
+        },
+        {
+         "q": "2. The despotism of custom is everywhere the standing hindrance ___ human achievement.",
+         "a": "to"
+        },
+        {
+         "q": "3. He is indebted ___ his friend ___ a large sum.",
+         "a": "to; for"
+        },
+        {
+         "q": "4. What Dr. Arnold mainly aimed ___, was to promote the self-development of the young minds committed ___ his charge.",
+         "a": "at; to"
+        },
+        {
+         "q": "5. He was so much enamoured ___ her that he forgot his duties ___ his children.",
+         "a": "of; to"
+        },
+        {
+         "q": "6. It is difficult to agree ___ those critics who ascribe the work of Shakespeare ___ Bacon.",
+         "a": "with; to"
+        },
+        {
+         "q": "7. In his autobiography he refers ___ his abhorrence ___ animal diet.",
+         "a": "to; of"
+        },
+        {
+         "q": "8. He conversed ___ us ___ subjects ___ varied interest.",
+         "a": "with; on; of"
+        },
+        {
+         "q": "9. The accident happened ___ him ___ a late hour and ___ an out-of-the-way place.",
+         "a": "to; at; in"
+        },
+        {
+         "q": "10. A cashier is liable to render account ___ the money received ___ him.",
+         "a": "of; by"
+        },
+        {
+         "q": "11. The soldiers ___ the fort were provided ___ provisions to last them a year.",
+         "a": "in; with"
+        },
+        {
+         "q": "12. We are accountable ___ God ___ our actions.",
+         "a": "to; for"
+        },
+        {
+         "q": "13. Let us vie ___ one another ___ doing good.",
+         "a": "with; in"
+        },
+        {
+         "q": "14. His thirst ___ knowledge left him no leisure ___ anything else.",
+         "a": "for; for"
+        },
+        {
+         "q": "15. The rich and the poor alike nobly responded ___ the call ___ further funds.",
+         "a": "to; for"
+        },
+        {
+         "q": "16. For those who suffer ___ nerves the remedy lies ___ perfect rest.",
+         "a": "from; in"
+        },
+        {
+         "q": "17. A slave lies ___ the necessity ___ obeying his master’s orders.",
+         "a": "under; of"
+        },
+        {
+         "q": "18. The heir ___ the throne was free ___ physical or moral taint.",
+         "a": "to; from"
+        },
+        {
+         "q": "19. He impressed ___ them that sorcery was vital ___ their success.",
+         "a": "on; to"
+        },
+        {
+         "q": "20. Methylated spirit is spirit of wine made undrinkable by mixing it ___ methyl to exempt it ___ duty.",
+         "a": "with; from"
+        },
+        {
+         "q": "21. To love our country, to be interested ___ its concerns, is natural ___ all men.",
+         "a": "in; to"
+        },
+        {
+         "q": "22. He complained ___ his weak eyes and lamented the necessity ___ spectacles.",
+         "a": "of; of"
+        },
+        {
+         "q": "23. Samudragupta was known ___ his skill ___ music and song; he was equally proficient ___ the allied art of poetry.",
+         "a": "for; in; in"
+        },
+        {
+         "q": "24. It is the grasping of power combined ___ the thirst ___ fame which constitutes ambition.",
+         "a": "of; with; for"
+        },
+        {
+         "q": "25. It would be well for us to admire what is worthy ___ admiration in such a people, rather than to carp ___ their errors.",
+         "a": "of; at"
+        },
+        {
+         "q": "26. The common fallacy is that intimacy dispenses ___ the necessity of politeness. The truth is just the opposite ___ this.",
+         "a": "with; to"
+        },
+        {
+         "q": "27. The title Master was originally prefixed ___ the name of a person of rank or learning; it is now restricted ___ boys.",
+         "a": "to; to"
+        },
+        {
+         "q": "28. This ticket will entitle you ___ a free seat at the concert.",
+         "a": "to"
+        },
+        {
+         "q": "29. History, as well as daily experience, furnishes instances of men endowed ___ the strongest capacity ___ business and affairs, who have all their lives crouched under slavery to the grossest superstition.",
+         "a": "with; for"
+        },
+        {
+         "q": "30. He has no liking ___ cards, and lately he has taken a dislike ___ outdoor exercise.",
+         "a": "for; to"
+        },
+        {
+         "q": "31. At first they refused to acquiesce ___ the terms, but finally yielded ___ the logic of facts.",
+         "a": "in; to"
+        },
+        {
+         "q": "32. The hippopotamus feeds chiefly ___ aquatic plants, but also seeks its food on land and is sometimes destructive ___ cultivated crops.",
+         "a": "on; to"
+        },
+        {
+         "q": "33. Learning is knowledge especially as acquired ___ study; it is frequently contrasted ___ knowledge or wisdom gained ___ experience.",
+         "a": "by; with; from"
+        },
+        {
+         "q": "34. At the eleventh hour he retired ___ the contest, leaving the field open ___ his opponent.",
+         "a": "from; to"
+        },
+        {
+         "q": "35. Coriolanus, with all his greatness, was entirely devoid ___ all sympathy ___ the people.",
+         "a": "of; for"
+        },
+        {
+         "q": "36. From this time he became habitually depressed and moody and addicted ___ the frequent use ___ alcohol.",
+         "a": "to; of"
+        },
+        {
+         "q": "37. The first acts of the new administration were characterized rather ___ vigour than ___ judgement.",
+         "a": "by; by"
+        },
+        {
+         "q": "38. They were statesmen accustomed ___ the management ___ great affairs.",
+         "a": "to; of"
+        },
+        {
+         "q": "39. Measure yourself ___ your equals; and learn ___ frequent competition the place which nature has allotted ___ you.",
+         "a": "by; from; to"
+        },
+        {
+         "q": "40. Contrary ___ my instructions, he went ___ his depth and would certainly have met ___ a fatal mishap but for the timely help rendered him.",
+         "a": "to; beyond; with"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "One word, different Prepositions in different contexts",
+     "num": "24",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §385)",
+       "items": [
+        {
+         "q": "Give examples of a word taking one Preposition in one context and a different Preposition in another.",
+         "a": "We should accommodate ourselves to circumstances. My friend accommodated me with a loan.\nI differ with you on this question. Your car differs from mine in several respects.\nI am anxious about the result. Her parents are anxious for her safety.\nHe has retired from business. He has retired into private life.\nHe has great influence over his disciples. He has hardly any influence with the Vizier. The remarks of his critics had considerable influence on his writings.\nAll his life he laboured for the good of humanity. He is labouring under a misapprehension. He laboured at his dictionary for twelve years.\nTrespassers are liable to a fine of Rs. 500. He is liable for his wife’s debts."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 92",
+     "num": "25",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 92 — from the book (Wren & Martin, Chapter 39). Fill in the blanks with appropriate Prepositions. The Prepositions to be used are given in brackets at the end of each sentence",
+       "items": [
+        {
+         "q": "1. A child is not able to distinguish good ___ evil. Death does not distinguish ___ the rich and the poor. Sir Ronald Ross is distinguished ___ his medical researches. Punch is distinguished ___ his hunchback. (between, by, for, from)",
+         "a": "between; between; for; by"
+        },
+        {
+         "q": "2. On account of his age he is disqualified ___ competing. Ill health disqualified the body ___ labour and the mind ___ study. (for, from)",
+         "a": "from; from; from"
+        },
+        {
+         "q": "3. Innocence is not proof ___ scandal. He was discharged as there was no proof ___ his guilt. (against, of)",
+         "a": "against; of"
+        },
+        {
+         "q": "4. He has no good cause ___ complaint. Darkness was the cause ___ his losing his way. (for, of)",
+         "a": "for; of"
+        },
+        {
+         "q": "5. True charity does not consist ___ indiscriminate alms-giving. Brass consists ___ copper and zinc. (in, of)",
+         "a": "in; of"
+        },
+        {
+         "q": "6. I am not concerned ___ his affairs. I am not concerned ___ him ___ that business. He was much concerned ___ hearing the sad news. His parents are naturally concerned ___ his safety. (about, at, for, in, with)",
+         "a": "about; with; in; at; for"
+        },
+        {
+         "q": "7. He parted ___ his friends in high spirits. He parted ___ his property and went on pilgrimage to Dwarka. (from, with)",
+         "a": "with; from"
+        },
+        {
+         "q": "8. He acted ___ fear. He acted ___ my suggestion. He acted ___ compulsion. (from, under, upon)",
+         "a": "from; upon; under"
+        },
+        {
+         "q": "9. He succeeded ___ the throne of his uncle. He succeeded ___ his object. (in, to)",
+         "a": "to; in"
+        },
+        {
+         "q": "10. He agreed ___ my proposal. He agreed ___ me on that question. They could not agree ___ themselves. (among, to, with)",
+         "a": "to; with; among"
+        },
+        {
+         "q": "11. The patient is now free ___ danger. He is free ___ his money. The goods were passed free ___ duty. (from, of, with)",
+         "a": "from; with; of"
+        },
+        {
+         "q": "12. I prevailed ___ him to join our Union. He prevailed ___ me in the dispute. The peculiar custom prevails ___ the Todas. (among, over, upon)",
+         "a": "upon; over; among"
+        },
+        {
+         "q": "13. I was angry ___ him ___ lying to me. (for, with)",
+         "a": "with; for"
+        },
+        {
+         "q": "14. The city is well provided ___ corn. We should provide ___ risk of fire by insuring our goods. He has provided ___ his children. (against, for, with)",
+         "a": "with; against; for"
+        },
+        {
+         "q": "15. The police is entrusted ___ the enforcement of law and order. The children were entrusted ___ the care of their uncle. (to, with)",
+         "a": "with; to"
+        },
+        {
+         "q": "16. The edition of Ivanhoe is adapted ___ Indian boys. The form and structure of nests are adapted ___ the wants and habits of each species. Many Urdu plays are adapted ___ English. (for, from, to)",
+         "a": "for; to; from"
+        },
+        {
+         "q": "17. We are all slaves ___ convention. No man should be a slave ___ his passions. (of, to)",
+         "a": "of; to"
+        },
+        {
+         "q": "18. He is blind ___ one eye. Are you blind ___ your own interests? (of, to)",
+         "a": "of; to"
+        },
+        {
+         "q": "19. There is no exception ___ the rule. All the ministers were present at the function with the exception ___ Mr. Smith. He took exception ___ the presence of an outsider. (against, of, to)",
+         "a": "to; of; to"
+        },
+        {
+         "q": "20. His creditors became impatient ___ payment. Impatient ___ delay, he knocked at the door rather loudly. The people became impatient ___ the burden of heavy taxation. (at, for, under)",
+         "a": "for; at; under"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Related words take different Prepositions",
+     "num": "26",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §386)",
+       "items": [
+        {
+         "q": "Give examples of related words taking different Prepositions after them.",
+         "a": "I acted according to his advice.\nIn accordance with his advice I took quinine.\nShe has great affection for her grandchildren.\nThe old lady is affectionate to all.\nThe flood and ebb tides alternate with each other.\nThe alternative to submission is death.\nIt is all due to his ambition for fame.\nHe is ambitious of fame.\nHe is capable of anything.\nHe has not the requisite capacity for this work.\nHe has great confidence in his assistant.\nHe is quite confident of success.\nWhat a contrast to his brother!\nWhat a contrast between them!\nThe present speech is mild contrasted with his past utterance on the same subject.\nIt is not likely to derogate from his merit.\nHe never said or did anything derogatory to his high position.\nHe is descended from a noble family.\nHe is a descendant of Mahatma Gandhi.\nHe has no desire for fame.\nHe is desirous of visiting Agra.\nHe was equal to the occasion.\nHe is to be blamed equally with his brother.\nThe coat fits me well except for the collar.\nI take exception to your remark.\nThe child is fond of sweets.\nShe has great fondness for children.\nThe drama is founded on an episode in the Ramayana.\nIt has, however, no foundation in fact.\nHe hindered me from going.\nChild marriage is a great hindrance to progress.\nHe is quite infatuated with her.\nHis infatuation for that girl led him astray.\nHe has no liking for cards.\nHis dislike to her continued to increase.\nHe is neglectful of his dress.\nI have often found him negligent in his work.\nThey say he is partial to his friends.\nChildren show a partiality for sweetmeats.\nI have no prejudice against foreigners.\nSuch a step will be prejudicial to your interests.\nHe is prepared for anything.\nPreparatory to taking extreme measures, his father once again warned him.\nPursuant to our conversation, I now send you a cheque for Rs. 500 as my contribution to the fund.\nIn pursuance of your instructions, we are writing to-day to the Collector.\nI am of opinion that he is qualified for the post.\nHe is disqualified from practising as a pleader.\nAs a result of the injury received by him, he died of tetanus.\nIt is said that nothing resulted from the conference.\nI have great respect for his learning.\nHe is respectful to his superiors, without being servile.\nHe seized upon the opportunity offered to him.\nThe seizure of his property was carried out under direct orders from the Rajah.\nI assure you that I am sensible of your kindness.\nHis paralysed arm is insensible to feeling.\nSubsequent to the meeting he wrote a letter to The Hindu.\nConsequent upon this letter, the agents of the company filed a suit against him for defamation.\nTrust in God and do what is right.\nHis distrust of his assistants is perhaps unfounded.\nThe country suffers for want of skilled labour.\nHe is wanting in a little common sense."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 93",
+     "num": "27",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 93 — from the book (Wren & Martin, Chapter 39). Fill in the blanks with appropriate Prepositions. The Prepositions to be used are given in brackets at the end of each sentence",
+       "items": [
+        {
+         "q": "1. He invested his patrimony ___ jute shares. The Police Commissioner is invested ___ magisterial powers. (in, with)",
+         "a": "in; with"
+        },
+        {
+         "q": "2. Let us talk ___ something else. For a while they talked ___ politics. I will talk ___ my son respecting his conduct. (about, of, to)",
+         "a": "about; of; to"
+        },
+        {
+         "q": "3. He takes no interest ___ politics. What you say has no interest ___ me. I have no interest ___ the agents of the firm. (for, in, with)",
+         "a": "in; for; with"
+        },
+        {
+         "q": "4. He has a reputation ___ honesty. He has the reputation ___ being a good teacher. (for, of)",
+         "a": "for; of"
+        },
+        {
+         "q": "5. He exercises complete authority ___ his followers. There is no authority ___ this use. I say this on the authority ___ the Oxford English Dictionary. Dr. Bridge is an authority ___ English prosody. (for, of, on, over)",
+         "a": "over; for; of; on"
+        },
+        {
+         "q": "6. He fell a victim ___ his own avarice. The victims ___ cholera were mostly poor people. (of, to)",
+         "a": "to; of"
+        },
+        {
+         "q": "7. I have no use ___ it. He has lost the use ___ his right arm. (for, of)",
+         "a": "for; of"
+        },
+        {
+         "q": "8. There are some diseases that proceed ___ dirt. After visiting Agra we proceed ___ Delhi. Let us proceed ___ the work in hand. (from, to, with)",
+         "a": "from; to; with"
+        },
+        {
+         "q": "9. He supplied the poor ___ clothing. He supplied clothing ___ the poor. (to, with)",
+         "a": "with; to"
+        },
+        {
+         "q": "10. She was greatly afflicted ___ the loss of her only child. The old man is afflicted ___ gout. (at, with)",
+         "a": "at; with"
+        },
+        {
+         "q": "11. The teacher impressed ___ us the value of discipline. We were impressed ___ what he said. (on, with)",
+         "a": "on; with"
+        },
+        {
+         "q": "12. The operation was accompanied ___ little or no pain. She was accompanied ___ her brother. (by, with)",
+         "a": "with; by"
+        },
+        {
+         "q": "13. The English allied themselves ___ the French. Elementary Algebra is allied ___ Arithmetic. (to, with)",
+         "a": "to; to"
+        },
+        {
+         "q": "14. Napoleon had a genius ___ military tactics. Without doubt he is a genius ___ mathematics. (for, in)",
+         "a": "for; in"
+        },
+        {
+         "q": "15. The idea originated ___ him while he was travelling in Japan. The fire originated ___ a haystack. (in, with)",
+         "a": "with; in"
+        },
+        {
+         "q": "16. He jumped ___ a conclusion not warranted by facts. The child jumped ___ joy when I gave him sweets. He jumped ___ my offer. (at, for, to)",
+         "a": "to; for; at"
+        },
+        {
+         "q": "17. He is negligent ___ whatever he does. He is negligent ___ his duties. (in, of)",
+         "a": "in; of"
+        },
+        {
+         "q": "18. Contentment is requisite ___ happiness. He is told that prolonged treatment is requisite ___ effecting a cure. (for, to)",
+         "a": "for; to"
+        },
+        {
+         "q": "19. His shattered health is the result ___ intemperance. Jealousy results ___ unhappiness. No good is likely to result ___ this union. (from, in, of)",
+         "a": "of; in; from"
+        },
+        {
+         "q": "20. It does not rest ___ the Collector to order his release. His whole case rests ___ alibi. (on, with)",
+         "a": "with; on"
+        },
+        {
+         "q": "21. Most of the roads in that district are not suitable ___ motor-cars. He lives in a style suitable ___ his position. (for, to)",
+         "a": "for; to"
+        },
+        {
+         "q": "22. He responded ___ the ladies in a humorous speech. The boy immediately responded ___ a blow. He responded ___ his toast in a neat little speech. (for, to, with)",
+         "a": "to; with; to"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Verb with and without a Preposition",
+     "num": "28",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §387)",
+       "items": [
+        {
+         "q": "Give examples of a verb followed by a preposition, and the same verb with no preposition, where the meaning is not the same.",
+         "a": "I call that mean. I called on him at his office.\nI don’t catch your meaning. A drowning man catches at a straw.\nThis closed the proceedings. After a little higgling he closed with my offer.\nHe commenced life as a shop assistant. The proceedings commenced with a song.\nHave you counted the cost? I count upon your advice and cooperation.\nHe deals fairly with his customers. He deals in cotton and cloth.\nThe compounder dispenses medicines. His master dispensed with his services.\nHe gained his object by persuasion. He gained upon his rich uncle by his suave manners.\nHe grasped the meaning of the passage in no time. Like a shrewd man of business he grasped at the opportunity.\nI met him on my way to the station. His appeals for funds met with a poor response.\nHe always prepares his speech. Our soldiers prepared themselves for the offensive.\nThe police searched the house of the suspect. We searched for the lost article."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Preposition + gerund, not infinitive",
+     "num": "29",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §388)",
+       "items": [
+        {
+         "q": "Which words require a preposition followed by a gerund, not an infinitive? Give examples.",
+         "a": "Do not use the infinitive with certain words which require a preposition followed by a gerund or by a verbal noun.\nHe is addicted to gambling. [Not: to gamble.]\nI assisted her in climbing the hill.\nHe is averse to playing cards.\nI do not believe in pampering servants.\nI am bent on attending the meeting.\nHe has hardly any chance of succeeding.\nHe is confident of securing the first prize.\nThe custom of tipping is prevalent everywhere.\nHe is desirous of visiting Japan.\nHe despaired of achieving his object.\nThere is some difficulty in perceiving his meaning.\nHereafter he is disqualified for holding any government post.\nRemember the duty of helping the poor.\nSudha excels in dancing.\nYou can have no excuse for talking bluntly.\nHe is expert in inventing stories.\nI am fond of reading novels.\nThe firm was fortunate in securing the government’s support.\nWhat hindered you from visiting the Museum?\nHe was disappointed in the hope of being rewarded.\nHe felt the humiliation of withdrawing his words.\nWe should be indefatigable in doing good.\nI insisted on having my say.\nHe is intent on visiting Norway.\nYou were not justified in imputing motives to him.\nHe has a knack of doing it.\nHe appreciated the necessity of acting promptly.\nHe persisted in disobeying the orders.\nHe lacks the power of imparting, although he is a good mathematical scholar.\nThe practice of cramming is rightly regarded as an evil.\nIt was only a pretext for delaying the matter.\nWhat is there to prevent him from leaving Chennai?\nI had the privilege of knowing him intimately.\nThey were prohibited from entering the village.\nI refrained from hurting his feelings.\nYou were right in suspecting him.\nThere is little satisfaction in sitting idle.\nHe has no scruple in begging.\nHe succeeded in convincing his critics.\nHe thought of eluding his pursuers.\nI am tired of writing letters to him.\nNote—Sometimes both constructions are allowable; e.g.\nHe was afraid of telling the truth.\nHe was afraid to tell the truth.\nHe at last got the opportunity of meeting him.\nHe at last got the opportunity to meet him."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Words that always take the infinitive",
+     "num": "30",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §389)",
+       "items": [
+        {
+         "q": "Which words always take the infinitive after them? Give examples.",
+         "a": "On the other hand, certain words always take the infinitive after them; as,\nHe advised us to desist from that attempt.\nI decline to say anything further.\nI expect to meet opposition.\nIt is hard to get access to him.\nHe hopes to win the first prize.\nWe are all inclined to judge of others as we find them.\nHe intends to compile a Marathi dictionary."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Prepositions inserted where they are not required",
+     "num": "31",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §390)",
+       "items": [
+        {
+         "q": "Give examples of Prepositions inserted where they are not required.",
+         "a": "Prepositions are sometimes inserted where they are not required; as,\nWhere have you been to? [Here to is not required.]\nMy eldest son is a boy of about eighteen years old. [Here of is not required.]\nAfter having finished my work I went home. [Here after is not required.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Discuss, order and stress take no Preposition",
+     "num": "32",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 39, §391)",
+       "items": [
+        {
+         "q": "Why are discuss, order and stress not followed by prepositions?",
+         "a": "Note that the verbs discuss, order and stress are transitive and therefore they are not followed by prepositions.\nWe discuss a topic (not discuss about a topic), order tea (not order for tea), stress a point (not stress on a point)."
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "preposition",
+     "sd": "حرف جر",
+     "syn": "a word placed before a noun or pronoun to show its relation to something else"
+    },
+    {
+     "w": "antipathy",
+     "sd": "نفرت",
+     "syn": "a strong feeling of dislike"
+    },
+    {
+     "w": "sanguine",
+     "sd": "پر امید",
+     "syn": "hopeful that something good will happen"
+    },
+    {
+     "w": "tantamount",
+     "sd": "برابر",
+     "syn": "equal in value or meaning to something"
+    },
+    {
+     "w": "abstain",
+     "sd": "پرھےز ڪرن",
+     "syn": "to keep away from something on purpose"
+    },
+    {
+     "w": "aptitude",
+     "sd": "صلاحیت",
+     "syn": "a natural ability to do something well"
+    },
+    {
+     "w": "conducive",
+     "sd": "مفید",
+     "syn": "helping to bring about a result"
+    },
+    {
+     "w": "destitute",
+     "sd": "محتاج",
+     "syn": "without money, food or what is needed"
+    },
+    {
+     "w": "gerund",
+     "sd": "اسم فعل",
+     "syn": "a verb form ending in -ing used as a noun"
+    },
+    {
+     "w": "infinitive",
+     "sd": "مصدر",
+     "syn": "the form of a verb with to, as to go, to read"
+    }
+   ]
+  },
+  {
+   "unit": 40,
+   "title": "The Conjunction",
+   "display": "The Conjunction",
+   "reading": "The Conjunction",
+   "sections": [
+    {
+     "name": "What is a Conjunction?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §392)",
+       "items": [
+        {
+         "q": "Read: (1) God made the country and man made the town. (2) Our hoard is little, but our hearts are great. (3) She must weep, or she will die. (4) Two and two make four. What do the Conjunctions join?",
+         "a": "In 1, 2 and 3, the Conjunctions join together two sentences.\nIn 4, the Conjunction joins together two words only. [See § 393]"
+        },
+        {
+         "q": "Give the definition of a Conjunction.",
+         "a": "Def.—A Conjunction is a word which merely joins together sentences, and sometimes words."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Conjunctions make sentences compact",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §393)",
+       "items": [
+        {
+         "q": "How do Conjunctions make sentences more compact? Give examples.",
+         "a": "Conjunctions join together sentences and often make them more compact; thus,\n‘Balu and Vithal are good bowlers’ is a short way of saying ‘Balu is a good bowler and Vithal is a good bowler’.\nSo, ‘The man is poor, but honest’ is a contracted way of saying ‘The man is poor, but he is honest’.\nSometimes, however, the Conjunction and joins words only; as,\nTwo and two make four.\nHari and Rama are brothers.\nHari and Rama came home together.\nSuch sentences cannot be resolved in two sentences."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Conjunctions and other connecting words",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §394)",
+       "items": [
+        {
+         "q": "How are Conjunctions distinguished from Relative Pronouns, Relative Adverbs, and Prepositions?",
+         "a": "Conjunctions must be carefully distinguished from Relative Pronouns, Relative Adverbs, and Prepositions, which are also connecting words.\n1. This is the house that Jack built. (Relative Pronoun)\n2. This is the place where he was murdered. (Relative Adverb)\n3. Take this and give that. (Conjunction)\nIn sentence 1, the Relative Pronoun that refers to the noun house, and also joins the two parts of the sentence.\nIn sentence 2, the Relative Adverb where modifies the verb was murdered and also joins the two parts of the sentence.\nIn sentence 3, the Conjunction and simply joins the two parts of the sentence; it does no other work.\nIt will thus be seen that—Relative Pronouns and Relative Adverbs also join; but they do more.\nConjunctions merely join: they do no other work.\nObserve that a Preposition also joins two words, but it does more; it governs a noun or pronoun; as,\nHe sat beside Rama. He stood behind me."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Correlative Conjunctions",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §395)",
+       "items": [
+        {
+         "q": "What are Correlative Conjunctions? Give examples.",
+         "a": "Some Conjunctions are used in pairs; as,\nEither—or. Either take it or leave it.\nNeither—nor. It is neither useful nor ornamental.\nBoth—and. We both love and honour him.\nThough—yet. (rare in current English) Though he is suffering much pain, yet he does not complain.\nWhether—or. I do not care whether you go or stay.\nNot only—but also. Not only is he foolish, but also obstinate.\nConjunctions which are thus used in pairs are called Correlative Conjunctions or merely Correlatives."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Placing Correlatives",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §396)",
+       "items": [
+        {
+         "q": "Where should each of the correlated words be placed? Give an example.",
+         "a": "When Conjunctions are used as Correlatives, each of the correlated words should be placed immediately before the words to be connected; as,\nHe visited not only Agra, but also Delhi.\n(Not) He not only visited Agra, but also Delhi."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Compound Conjunctions",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §397)",
+       "items": [
+        {
+         "q": "What are Compound Conjunctions? Give examples.",
+         "a": "We use many compound expressions as Conjunctions; these are called Compound Conjunctions.\nIn order that. The notice was published in order that all might know the facts.\nOn condition that. I will forgive you on condition that you do not repeat the offence.\nEven if. Such an act would not be kind even if it were just.\nSo that. He saved some bread so that he should not go hungry on the morrow.\nProvided that. You can borrow the book provided that you return it soon.\nAs though. He walks as though he is slightly lame.\nInasmuch as. I must refuse your request, inasmuch as I believe it unreasonable.\nAs well as. Rama as well as Govind was present there.\nAs soon as. He took off his coat as soon as he entered the house.\nAs if. He looks as if he were weary."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Two classes of Conjunctions",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §398)",
+       "items": [
+        {
+         "q": "Into what two classes are Conjunctions divided?",
+         "a": "As we shall see Conjunctions are divided into two classes: Co-ordinating and Subordinating.\nRead the sentence: Birds fly and fish swim.\nThe sentence contains two independent statements or two statements of equal rank or importance. Hence the Conjunction joining together these two statements or clauses of equal rank is called a Co-ordinating Conjunction [‘Co-ordinating’ means of equal rank.]\nDef.—A Co-ordinating Conjunction joins together clauses of equal rank."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Chief Co-ordinating Conjunctions",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §399)",
+       "items": [
+        {
+         "q": "Name the chief Co-ordinating Conjunctions.",
+         "a": "The chief Co-ordinating Conjunctions are: and, but, for, or, nor, also, either.....or, neither......nor."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Four kinds of Co-ordinating Conjunctions",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §400)",
+       "items": [
+        {
+         "q": "Name the four kinds of Co-ordinating Conjunctions, with examples.",
+         "a": "(1) Cumulative or Copulative which merely add one statement to another; as,\nWe carved not a line, and we raised not a stone.\n(2) Adversative which express opposition or contrast between two statements; as,\nHe is slow, but he is sure.\nI was annoyed, still I kept quiet.\nI would come; only that I am engaged.\nHe was all right; only he was fatigued.\n(3) Disjunctive or Alternative which express a choice between two alternatives; as,\nShe must weep, or she will die.\nEither he is mad, or he feigns madness.\nNeither a borrower, nor a lender be.\nThey toil not, neither do they spin.\nWalk quickly, else you will not overtake him.\n(4) Illative which express an inference; as,\nSomething certainly fell in: for I heard a splash.\nAll precautions must have been neglected, for the plague spread rapidly."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Omission of Co-ordinating Conjunctions",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §401)",
+       "items": [
+        {
+         "q": "Which Co-ordinating Conjunctions may be omitted? Give an example.",
+         "a": "Any of the Co-ordinating Conjunctions, with the exception of or, nor, may be omitted and its place taken by a comma, semi-colon, or colon; as,\nRama went out to play; Hari stayed in to work."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Subordinating Conjunctions",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §402)",
+       "items": [
+        {
+         "q": "What is a Subordinating Conjunction? Give the definition.",
+         "a": "Read the sentence: I read the paper because it interests me.\nThe sentence contains two statements or clauses one of which, ‘because it interests me’, is dependent on the other. Hence the Conjunction introducing the dependent or subordinate clause is called a Subordinating Conjunction.\nDef.—A Subordinating Conjunction joins a clause to another on which it depends for its full meaning."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Chief Subordinating Conjunctions",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §403)",
+       "items": [
+        {
+         "q": "Name the chief Subordinating Conjunctions, with examples.",
+         "a": "The chief Subordinating Conjunctions are: after, because, if, that, though, although, till, before, unless, as, when, where, while.\nAfter the shower was over the sun shone out again.\nA book’s a book, although there is nothing in it.\nAs he was not there, I spoke to his brother.\nHe ran away because he was afraid.\nAnswer the first question before you proceed further.\nTake heed ere it be too late.\nExcept ye repent, you shall all likewise perish.\nYou will pass if you work hard.\nSentinels were posted lest the camp should be taken by surprise.\nSince you say so, I must believe it.\nTell them that I will come.\nHe finished first though he began late.\nWill you wait till I return?\nHe will not pay unless he is compelled.\nI waited for my friend until he came.\nWhen I was younger, I thought so.\nI do not know whence he comes.\nHe found his watch where he had left it.\nI do not understand how it all happened.\nMake hay while the sun shines.\nI shall go whither fancy leads me.\nI know not why he left us."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Than as a Subordinating Conjunction",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §404)",
+       "items": [
+        {
+         "q": "How is than used as a Subordinating Conjunction? Give examples.",
+         "a": "The word than is also a Subordinating Conjunction.\nHe is taller than I (am tall).\nI like you better than he (likes you).\nI like you better than (I like) him.\nHari is more stupid than Dhondu (is stupid).\nHis bark is worse than his bite (is bad)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Subordinating Conjunctions by meaning",
+     "num": "14",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §405)",
+       "items": [
+        {
+         "q": "How may Subordinating Conjunctions be classified according to their meaning? Give examples.",
+         "a": "(1) Time\nI would die before I lied.\nNo nation can be perfectly well governed till it is competent to govern itself.\nMany things have happened since I saw you.\nI returned home after he had gone.\nEre he blew three notes, there was a rustling.\n(2) Cause or Reason\nMy strength is as the strength of ten, because my heart is pure.\nSince you wish it, it shall be done.\nAs he was not there, I spoke to his brother.\nHe may enter, as he is a friend.\n(3) Purpose\nWe eat so that we may live.\nHe held my hand lest I should fall.\n(4) Result or Consequence\nHe was so tired that he could scarcely stand.\n(5) Condition\nRama will go if Hari goes.\nGrievances cannot be redressed unless they are known.\n(6) Concession\nI will not see him, though he comes.\nThough He slay me, yet will I trust Him.\nA book’s a book, although there’s nothing in it.\n(7) Comparison\nHe is stronger than Rustum [is]."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Words used as Prepositions and Conjunctions",
+     "num": "15",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 40, §406)",
+       "items": [
+        {
+         "q": "Give examples of words used both as Prepositions and Conjunctions.",
+         "a": "Certain words are used both as Prepositions and Conjunctions. [See § 375]\nPreposition — Conjunction\nStay till Monday. — We shall stay here till you return.\nI have not met him since Monday. — We shall go since you desire it.\nHe died for his country. — I must stay here, for such is my duty.\nThe dog ran after the cat. — We came after they had left.\nEverybody but Govind was present. — He tried, but did not succeed.\nHe stood before the painting. — Look before you leap."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 94",
+     "num": "16",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 94 — from the book (Wren & Martin, Chapter 40). In the following sentences, point out the Conjunctions and state whether they are Co-ordinating or Subordinating",
+       "items": [
+        {
+         "q": "1. You will not succeed unless you work harder.",
+         "a": "unless — Subordinating"
+        },
+        {
+         "q": "2. We arrived after you had gone.",
+         "a": "after — Subordinating"
+        },
+        {
+         "q": "3. I waited till the train arrived.",
+         "a": "till — Subordinating"
+        },
+        {
+         "q": "4. Bread and milk is wholesome food.",
+         "a": "and — Co-ordinating"
+        },
+        {
+         "q": "5. You will get the prize if you deserve it.",
+         "a": "if — Subordinating"
+        },
+        {
+         "q": "6. When you are called, you must come in at once.",
+         "a": "when — Subordinating"
+        },
+        {
+         "q": "7. Do not go before I come.",
+         "a": "before — Subordinating"
+        },
+        {
+         "q": "8. I cannot give you any money, for I have none.",
+         "a": "for — Co-ordinating"
+        },
+        {
+         "q": "9. Since you say so, I must believe it.",
+         "a": "since — Subordinating"
+        },
+        {
+         "q": "10. He fled lest he should be killed.",
+         "a": "lest — Subordinating"
+        },
+        {
+         "q": "11. I shall be vexed if you do that.",
+         "a": "if — Subordinating"
+        },
+        {
+         "q": "12. We got into the port before the storm came on.",
+         "a": "before — Subordinating"
+        },
+        {
+         "q": "13. He was sorry after he had done it.",
+         "a": "after — Subordinating"
+        },
+        {
+         "q": "14. I did not come because you did not call me.",
+         "a": "because — Subordinating"
+        },
+        {
+         "q": "15. He is richer than I am.",
+         "a": "than — Subordinating"
+        },
+        {
+         "q": "16. My grandfather died before I was born.",
+         "a": "before — Subordinating"
+        },
+        {
+         "q": "17. I will stay until you return.",
+         "a": "until — Subordinating"
+        },
+        {
+         "q": "18. Catch me if you can.",
+         "a": "if — Subordinating"
+        },
+        {
+         "q": "19. Tom runs faster than Harry.",
+         "a": "than — Subordinating"
+        },
+        {
+         "q": "20. Is that story true or false?",
+         "a": "or — Co-ordinating"
+        },
+        {
+         "q": "21. You will be late unless you hurry.",
+         "a": "unless — Subordinating"
+        },
+        {
+         "q": "22. He asked whether he might have a holiday.",
+         "a": "whether — Subordinating"
+        },
+        {
+         "q": "23. Give me to drink, else I shall die of thirst.",
+         "a": "else — Co-ordinating"
+        },
+        {
+         "q": "24. If I feel any doubt, I ask.",
+         "a": "if — Subordinating"
+        },
+        {
+         "q": "25. He deserved to succeed, for he worked hard.",
+         "a": "for — Co-ordinating"
+        },
+        {
+         "q": "26. He will be sure to come if you invite him.",
+         "a": "if — Subordinating"
+        },
+        {
+         "q": "27. We can travel by land or water.",
+         "a": "or — Co-ordinating"
+        },
+        {
+         "q": "28. The earth is larger than the moon.",
+         "a": "than — Subordinating"
+        },
+        {
+         "q": "29. Either you are mistaken, or I am.",
+         "a": "either...or — Co-ordinating"
+        },
+        {
+         "q": "30. I shall go, whether you come or not.",
+         "a": "whether — Subordinating"
+        },
+        {
+         "q": "31. Unless you tell me the truth, I shall punish you.",
+         "a": "unless — Subordinating"
+        },
+        {
+         "q": "32. I hear that your brother is in London.",
+         "a": "that — Subordinating"
+        },
+        {
+         "q": "33. Blessed are the merciful, for they shall obtain mercy.",
+         "a": "for — Co-ordinating"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 95",
+     "num": "17",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 95 — from the book (Wren & Martin, Chapter 40). Use these Conjunctions in complex sentences",
+       "items": [
+        {
+         "q": "But",
+         "a": "He is poor, but he is honest."
+        },
+        {
+         "q": "either...or",
+         "a": "Either he is mad, or he feigns madness."
+        },
+        {
+         "q": "neither...nor",
+         "a": "It is neither useful nor ornamental."
+        },
+        {
+         "q": "whether...or",
+         "a": "I do not care whether you go or stay."
+        },
+        {
+         "q": "that",
+         "a": "He said that he would come tomorrow."
+        },
+        {
+         "q": "before",
+         "a": "Answer the first question before you proceed further."
+        },
+        {
+         "q": "how",
+         "a": "I do not know how he did it."
+        },
+        {
+         "q": "as",
+         "a": "As he was not there, I spoke to his brother."
+        },
+        {
+         "q": "unless",
+         "a": "You will not succeed unless you work hard."
+        },
+        {
+         "q": "until",
+         "a": "I will stay until you return."
+        },
+        {
+         "q": "though",
+         "a": "Though he began late, he finished first."
+        },
+        {
+         "q": "when",
+         "a": "When I was younger, I thought so."
+        },
+        {
+         "q": "while",
+         "a": "Make hay while the sun shines."
+        },
+        {
+         "q": "where",
+         "a": "He found his watch where he had left it."
+        },
+        {
+         "q": "if",
+         "a": "You will pass if you work hard."
+        },
+        {
+         "q": "than",
+         "a": "He is taller than I am."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 96",
+     "num": "18",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 96 — from the book (Wren & Martin, Chapter 40). Fill the blanks with appropriate Conjunctions",
+       "items": [
+        {
+         "q": "1. Be just ___ fear not.",
+         "a": "and"
+        },
+        {
+         "q": "2. I ran fast, ___ I missed the train.",
+         "a": "but"
+        },
+        {
+         "q": "3. He fled, ___ he was afraid.",
+         "a": "for"
+        },
+        {
+         "q": "4. Make haste, ___ you will be late.",
+         "a": "or"
+        },
+        {
+         "q": "5. ___ you try, you will not succeed.",
+         "a": "Though"
+        },
+        {
+         "q": "6. I am sure ___ he said so.",
+         "a": "that"
+        },
+        {
+         "q": "7. Wait ___ I return.",
+         "a": "till"
+        },
+        {
+         "q": "8. Do not go ___ I come.",
+         "a": "till"
+        },
+        {
+         "q": "9. He finished first ___ he began late.",
+         "a": "though"
+        },
+        {
+         "q": "10. Take care ___ you fall.",
+         "a": "lest"
+        },
+        {
+         "q": "11. Take a lamp, ___ the night is dark.",
+         "a": "for"
+        },
+        {
+         "q": "12. ___ he was ambitious I slew him.",
+         "a": "As"
+        },
+        {
+         "q": "13. Open rebuke is better ___ secret love.",
+         "a": "than"
+        },
+        {
+         "q": "14. ___ you eat too much you will be ill.",
+         "a": "If"
+        },
+        {
+         "q": "15. I shall not go ___ I am invited.",
+         "a": "unless"
+        },
+        {
+         "q": "16. He has succeeded better ___ he hoped.",
+         "a": "than"
+        },
+        {
+         "q": "17. I do it ___ I choose to.",
+         "a": "because"
+        },
+        {
+         "q": "18. ___ duty calls us we must obey.",
+         "a": "When"
+        },
+        {
+         "q": "19. Live well ___ you may die well.",
+         "a": "that"
+        },
+        {
+         "q": "20. Think nought a trifle, ___ it small appear.",
+         "a": "though"
+        },
+        {
+         "q": "21. The purse has been lost ___ stolen.",
+         "a": "or"
+        },
+        {
+         "q": "22. Rustum is slow ___ sure.",
+         "a": "but"
+        },
+        {
+         "q": "23. He remained at home ___ he was ill.",
+         "a": "because"
+        },
+        {
+         "q": "24. ___ he was industrious, I encouraged him.",
+         "a": "Though"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 97",
+     "num": "19",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 97 — from the book (Wren & Martin, Chapter 40). Fill each blank in the following sentences with an appropriate Conjunction",
+       "items": [
+        {
+         "q": "1. Three ___ three make six.",
+         "a": "and"
+        },
+        {
+         "q": "2. Is his name Sen ___ Gupta?",
+         "a": "or"
+        },
+        {
+         "q": "3. He will not come ___ it rains.",
+         "a": "if"
+        },
+        {
+         "q": "4. ___ you run, you will not overtake him.",
+         "a": "Though"
+        },
+        {
+         "q": "5. He is very rich ___ he is not happy.",
+         "a": "but"
+        },
+        {
+         "q": "6. ___ I return, stay where you are.",
+         "a": "Till"
+        },
+        {
+         "q": "7. He was punished, ___ he was guilty.",
+         "a": "for"
+        },
+        {
+         "q": "8. He behaved ___ a brave man should do.",
+         "a": "as"
+        },
+        {
+         "q": "9. There is no doubt ___ the earth is round.",
+         "a": "that"
+        },
+        {
+         "q": "10. I wonder ___ he will come.",
+         "a": "if"
+        },
+        {
+         "q": "11. He is witty ___ vulgar.",
+         "a": "but"
+        },
+        {
+         "q": "12. Will you kindly wait ___ I return?",
+         "a": "till"
+        },
+        {
+         "q": "13. Karim is tall, ___ Abdul is taller.",
+         "a": "but"
+        },
+        {
+         "q": "14. He lost his balance ___ fell off the bicycle.",
+         "a": "and"
+        },
+        {
+         "q": "15. He tried hard ___ did not succeed.",
+         "a": "but"
+        },
+        {
+         "q": "16. Is this my book ___ yours?",
+         "a": "or"
+        },
+        {
+         "q": "17. Water ___ oil will not mix.",
+         "a": "and"
+        },
+        {
+         "q": "18. They left ___ we returned.",
+         "a": "before"
+        },
+        {
+         "q": "19. The vase will break ___ you drop it.",
+         "a": "if"
+        },
+        {
+         "q": "20. I shall not go out now ___ it is raining very heavily.",
+         "a": "because"
+        },
+        {
+         "q": "21. Trains run from this station every few minutes ___ we shall not have to wait.",
+         "a": "so"
+        },
+        {
+         "q": "22. Man proposes ___ God disposes.",
+         "a": "but"
+        },
+        {
+         "q": "23. Time ___ tide do not wait for anybody.",
+         "a": "and"
+        },
+        {
+         "q": "24. Virtue ennobles, ___ vice degrades.",
+         "a": "but"
+        },
+        {
+         "q": "25. This ___ that must suffice.",
+         "a": "or"
+        },
+        {
+         "q": "26. The train was derailed ___ no one was hurt.",
+         "a": "but"
+        },
+        {
+         "q": "27. She writes slowly ___ neatly.",
+         "a": "but"
+        },
+        {
+         "q": "28. I believe him ___ he is truthful.",
+         "a": "because"
+        },
+        {
+         "q": "29. You will not get the prize ___ you deserve it.",
+         "a": "unless"
+        },
+        {
+         "q": "30. Send for me ___ you want me.",
+         "a": "when"
+        },
+        {
+         "q": "31. Hari will do all right, ___ he perseveres.",
+         "a": "if"
+        },
+        {
+         "q": "32. Catch me ___ you can.",
+         "a": "if"
+        },
+        {
+         "q": "33. He told me ___ you had arrived an hour ago.",
+         "a": "that"
+        },
+        {
+         "q": "34. You will never succeed ___ you try.",
+         "a": "unless"
+        },
+        {
+         "q": "35. ___ I were you, I'd keep quiet.",
+         "a": "If"
+        },
+        {
+         "q": "36. Wait ___ I come.",
+         "a": "till"
+        },
+        {
+         "q": "37. Be just ___ fear not.",
+         "a": "and"
+        },
+        {
+         "q": "38. Tell me ___ you understand.",
+         "a": "whether"
+        },
+        {
+         "q": "39. We will come, ___ it rains ___ not.",
+         "a": "whether; or"
+        },
+        {
+         "q": "40. Make hay ___ the sun shines.",
+         "a": "while"
+        },
+        {
+         "q": "41. It is a long time ___ we last saw him.",
+         "a": "since"
+        },
+        {
+         "q": "42. Please write ___ I dictate.",
+         "a": "as"
+        },
+        {
+         "q": "43. It is hoped ___ all will go well.",
+         "a": "that"
+        },
+        {
+         "q": "44. Give me ___ poverty ___ riches.",
+         "a": "neither; nor"
+        },
+        {
+         "q": "45. He is taller ___ I (am).",
+         "a": "than"
+        },
+        {
+         "q": "46. ___ I cannot get away, I will go next week.",
+         "a": "As"
+        },
+        {
+         "q": "47. ___ you wish it, it shall be done.",
+         "a": "As"
+        },
+        {
+         "q": "48. Why is our food so sweet? ___ we earn before we eat.",
+         "a": "Because"
+        },
+        {
+         "q": "49. Take heed ___ you fall.",
+         "a": "lest"
+        },
+        {
+         "q": "50. He gazed so long ___ both his eyes were dazzled.",
+         "a": "that"
+        },
+        {
+         "q": "51. ___ there is life there is hope.",
+         "a": "While"
+        },
+        {
+         "q": "52. Walk on ___ you come to the gate.",
+         "a": "till"
+        },
+        {
+         "q": "53. They say ___ he is better.",
+         "a": "that"
+        },
+        {
+         "q": "54. I have been in such a pickle ___ I saw you last.",
+         "a": "since"
+        },
+        {
+         "q": "55. His plans, ___ vast, were never visionary.",
+         "a": "though"
+        },
+        {
+         "q": "56. Some people live ___ they may eat.",
+         "a": "that"
+        },
+        {
+         "q": "57. He went ___ I came.",
+         "a": "before"
+        },
+        {
+         "q": "58. He will starve ___ he will steal.",
+         "a": "before"
+        },
+        {
+         "q": "59. There were more people ___ we had expected.",
+         "a": "than"
+        },
+        {
+         "q": "60. ___ there is something to be done, the world knows how to get it done.",
+         "a": "When"
+        },
+        {
+         "q": "61. ___ I grant his honesty I suspect his memory.",
+         "a": "Though"
+        },
+        {
+         "q": "62. ___ I am poor, I am not dishonest.",
+         "a": "Though"
+        },
+        {
+         "q": "63. No one knows ___ he went.",
+         "a": "where"
+        },
+        {
+         "q": "64. Come ___ you please.",
+         "a": "when"
+        },
+        {
+         "q": "65. Do ___ you are bidden.",
+         "a": "as"
+        },
+        {
+         "q": "66. He must have passed this way, ___ there is no other road.",
+         "a": "for"
+        },
+        {
+         "q": "67. ___ respected, he is not liked.",
+         "a": "Though"
+        },
+        {
+         "q": "68. We all know ___ sin and sorrow go together.",
+         "a": "that"
+        },
+        {
+         "q": "69. I don't know ___ he will be here.",
+         "a": "when"
+        },
+        {
+         "q": "70. Grievances cannot be redressed ___ they are known.",
+         "a": "unless"
+        },
+        {
+         "q": "71. We shall fail ___ we are industrious.",
+         "a": "unless"
+        },
+        {
+         "q": "72. ___ it was late we decided to set out.",
+         "a": "Though"
+        },
+        {
+         "q": "73. I am well, ___ I do not feel very strong.",
+         "a": "but"
+        },
+        {
+         "q": "74. ___ he is there, I shall see him.",
+         "a": "If"
+        },
+        {
+         "q": "75. How can he buy it ___ he has no money?",
+         "a": "if"
+        },
+        {
+         "q": "76. ___ you are not ready, we must go on.",
+         "a": "If"
+        },
+        {
+         "q": "77. The building has been razed ___ I visited the city.",
+         "a": "since"
+        },
+        {
+         "q": "78. Love not sleep, ___ thou come to poverty.",
+         "a": "lest"
+        },
+        {
+         "q": "79. He bled so profusely ___ he died.",
+         "a": "that"
+        },
+        {
+         "q": "80. I know you better ___ he (does).",
+         "a": "than"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 98",
+     "num": "20",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 98 — from the book (Wren & Martin, Chapter 40). Join each pair of the following sentences by means of a suitable Conjunction. Make such changes as are necessary",
+       "items": [
+        {
+         "q": "1. My brother is well. My sister is ill.",
+         "a": "My brother is well, but my sister is ill."
+        },
+        {
+         "q": "2. He sells mangoes. He sells oranges.",
+         "a": "He sells mangoes and oranges."
+        },
+        {
+         "q": "3. He did not succeed. He worked hard.",
+         "a": "He did not succeed though he worked hard."
+        },
+        {
+         "q": "4. Rama played well. Hari played well.",
+         "a": "Rama and Hari played well."
+        },
+        {
+         "q": "5. I honour him. He is a brave man.",
+         "a": "I honour him because he is a brave man."
+        },
+        {
+         "q": "6. You may go. I will stay.",
+         "a": "You may go, but I will stay."
+        },
+        {
+         "q": "7. Rama reads for pleasure. Hari reads for profit.",
+         "a": "Rama reads for pleasure, but Hari reads for profit."
+        },
+        {
+         "q": "8. We decided to set out. It was late.",
+         "a": "We decided to set out though it was late."
+        },
+        {
+         "q": "9. He was poor. He was honest.",
+         "a": "He was poor but honest."
+        },
+        {
+         "q": "10. He is not a knave. He is not a fool.",
+         "a": "He is neither a knave nor a fool."
+        },
+        {
+         "q": "11. We love Bahadur. He is a faithful dog.",
+         "a": "We love Bahadur because he is a faithful dog."
+        },
+        {
+         "q": "12. Rustum made twelve runs. He was caught at the wicket.",
+         "a": "Rustum made twelve runs, but he was caught at the wicket."
+        },
+        {
+         "q": "13. He is rich. He is not happy.",
+         "a": "He is rich, but he is not happy."
+        },
+        {
+         "q": "14. The sheep are grazing. The oxen are grazing.",
+         "a": "The sheep and the oxen are grazing."
+        },
+        {
+         "q": "15. He is poor. He is contented.",
+         "a": "He is poor but contented."
+        },
+        {
+         "q": "16. This mango is large. This mango is sweet.",
+         "a": "This mango is large and sweet."
+        },
+        {
+         "q": "17. My brother was not there. My sister was not there.",
+         "a": "Neither my brother nor my sister was there."
+        },
+        {
+         "q": "18. The boy is here. The girl is here.",
+         "a": "The boy and the girl are here."
+        },
+        {
+         "q": "19. The piper played. The children danced.",
+         "a": "The piper played and the children danced."
+        },
+        {
+         "q": "20. You must be quiet. You must leave the room.",
+         "a": "You must be quiet or leave the room."
+        },
+        {
+         "q": "21. He sat down. He was tired.",
+         "a": "He sat down because he was tired."
+        },
+        {
+         "q": "22. Rama works hard. Hari is idle.",
+         "a": "Rama works hard, but Hari is idle."
+        },
+        {
+         "q": "23. I lost the prize. I tried my best.",
+         "a": "I lost the prize though I tried my best."
+        },
+        {
+         "q": "24. I do not like him. He is dangerous.",
+         "a": "I do not like him because he is dangerous."
+        },
+        {
+         "q": "25. I went to the shop. I bought a slate.",
+         "a": "I went to the shop and bought a slate."
+        },
+        {
+         "q": "26. He is slow. He is sure.",
+         "a": "He is slow but sure."
+        },
+        {
+         "q": "27. I know it. He does not think so.",
+         "a": "I know it, but he does not think so."
+        },
+        {
+         "q": "28. You are tall. My brother is taller.",
+         "a": "You are tall, but my brother is taller."
+        },
+        {
+         "q": "29. Hari went to school. Sita stayed at home.",
+         "a": "Hari went to school, but Sita stayed at home."
+        },
+        {
+         "q": "30. He must start at once. He will be late.",
+         "a": "He must start at once or he will be late."
+        },
+        {
+         "q": "31. I shall sit still. I shall listen to the music.",
+         "a": "I shall sit still and listen to the music."
+        },
+        {
+         "q": "32. Hari did not come. He did not send a letter.",
+         "a": "Hari did not come, nor did he send a letter."
+        },
+        {
+         "q": "33. I ran fast. I missed the train.",
+         "a": "I ran fast, but I missed the train."
+        },
+        {
+         "q": "34. Karim works hard. Abdul works harder.",
+         "a": "Karim works hard, but Abdul works harder."
+        },
+        {
+         "q": "35. He must be tired. He has walked twelve miles.",
+         "a": "He must be tired, for he has walked twelve miles."
+        },
+        {
+         "q": "36. It is autumn. The leaves are falling.",
+         "a": "It is autumn, and the leaves are falling."
+        },
+        {
+         "q": "37. I will come. I am not ill.",
+         "a": "I will come, for I am not ill."
+        },
+        {
+         "q": "38. I will bring your umbrella. You wish it.",
+         "a": "I will bring your umbrella if you wish it."
+        },
+        {
+         "q": "39. He remained cheerful. He has been wounded.",
+         "a": "He remained cheerful though he has been wounded."
+        },
+        {
+         "q": "40. He went out. The train stopped.",
+         "a": "He went out when the train stopped."
+        },
+        {
+         "q": "41. He ran to the station. He missed the train.",
+         "a": "He ran to the station, but he missed the train."
+        },
+        {
+         "q": "42. I came. I was unwilling.",
+         "a": "I came, though I was unwilling."
+        },
+        {
+         "q": "43. Men have fought for their country. Men have died for their country.",
+         "a": "Men have fought and died for their country."
+        },
+        {
+         "q": "44. He was afraid of being late. He ran.",
+         "a": "He ran because he was afraid of being late."
+        },
+        {
+         "q": "45. Hari does not write fast. He writes very well.",
+         "a": "Hari does not write fast, but he writes very well."
+        },
+        {
+         "q": "46. The boy is dangerously ill. His head was hurt.",
+         "a": "The boy is dangerously ill, for his head was hurt."
+        },
+        {
+         "q": "47. The old man fell down the steps. He broke his leg.",
+         "a": "The old man fell down the steps and broke his leg."
+        },
+        {
+         "q": "48. He tried to get up. He could not.",
+         "a": "He tried to get up, but he could not."
+        },
+        {
+         "q": "49. Mother is at home. Father is at home.",
+         "a": "Mother and father are at home."
+        },
+        {
+         "q": "50. I have a cricket bat. I have a set of stumps.",
+         "a": "I have a cricket bat and a set of stumps."
+        },
+        {
+         "q": "51. We went early to the circus. We could not get a seat.",
+         "a": "We went early to the circus, but we could not get a seat."
+        },
+        {
+         "q": "52. He must do as he is told. He will be punished.",
+         "a": "He must do as he is told or he will be punished."
+        },
+        {
+         "q": "53. The prisoner fell down on his knees. The prisoner begged for mercy.",
+         "a": "The prisoner fell down on his knees and begged for mercy."
+        },
+        {
+         "q": "54. Sita goes to school. Ganga goes to school.",
+         "a": "Sita and Ganga go to school."
+        },
+        {
+         "q": "55. Rama may be in the house. Rama may be in the garden.",
+         "a": "Rama may be in the house or in the garden."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Grammar 99",
+     "num": "21",
+     "exercises": [
+      {
+       "label": "Exercise in Grammar 99 — from the book (Wren & Martin, Chapter 40). Distinguish as Adverb, Preposition, or Conjunction, each of the italicized words in the following sentences",
+       "items": [
+        {
+         "q": "1. He came before me.",
+         "a": "before — Preposition"
+        },
+        {
+         "q": "2. He came two hours before.",
+         "a": "before — Adverb"
+        },
+        {
+         "q": "3. He came before I left.",
+         "a": "before — Conjunction"
+        },
+        {
+         "q": "4. Have you ever seen him since?",
+         "a": "since — Adverb"
+        },
+        {
+         "q": "5. I have not seen him since Monday.",
+         "a": "since — Preposition"
+        },
+        {
+         "q": "6. I have not seen him since he was a child.",
+         "a": "since — Conjunction"
+        },
+        {
+         "q": "7. Man wants but little here below.",
+         "a": "but — Adverb"
+        },
+        {
+         "q": "8. He yearns for nothing but money.",
+         "a": "but — Preposition"
+        },
+        {
+         "q": "9. We shall go, but you will remain.",
+         "a": "but — Conjunction"
+        },
+        {
+         "q": "10. He arrived after the meeting was adjourned.",
+         "a": "after — Conjunction"
+        },
+        {
+         "q": "11. He arrived after the meeting.",
+         "a": "after — Preposition"
+        },
+        {
+         "q": "12. He arrived soon after.",
+         "a": "after — Adverb"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "conjunction",
+     "sd": "حرف عطف",
+     "syn": "a word which merely joins together sentences, and sometimes words"
+    },
+    {
+     "w": "co-ordinating",
+     "sd": "مساوی",
+     "syn": "joining clauses of equal rank"
+    },
+    {
+     "w": "subordinating",
+     "sd": "ماتحت",
+     "syn": "joining a dependent clause to another clause"
+    },
+    {
+     "w": "correlative",
+     "sd": "جوڙو",
+     "syn": "used in pairs, as either...or, neither...nor"
+    },
+    {
+     "w": "cumulative",
+     "sd": "جمع ڪرنھار",
+     "syn": "merely adding one statement to another"
+    },
+    {
+     "w": "adversative",
+     "sd": "مخالف",
+     "syn": "expressing opposition or contrast"
+    },
+    {
+     "w": "disjunctive",
+     "sd": "متبادل",
+     "syn": "expressing a choice between two alternatives"
+    },
+    {
+     "w": "illative",
+     "sd": "نتیجو",
+     "syn": "expressing an inference"
+    },
+    {
+     "w": "compound conjunction",
+     "sd": "مرڪب حرف عطف",
+     "syn": "a compound expression used as a conjunction, as so that, as soon as"
+    },
+    {
+     "w": "dependent clause",
+     "sd": "ماتحت جملو",
+     "syn": "a clause that depends on another clause for its full meaning"
+    }
+   ]
+  },
+  {
+   "unit": 41,
+   "title": "Some Conjunctions and Their Uses",
+   "display": "Some Conjunctions and Their Uses",
+   "reading": "Some Conjunctions and Their Uses",
+   "sections": [
+    {
+     "name": "Since",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §407)",
+       "items": [
+        {
+         "q": "What does since, as a Conjunction, mean? Give examples.",
+         "a": "Since, as a Conjunction, means—\n(1) From and after the time when; as,\nI have been in such a pickle since I saw you last.\nMany things have happened since I left school.\nI have never seen him since that unfortunate event happened.\nNote—Since, when used as a Conjunction in this sense, should be preceded by a verb in the present perfect tense, and followed by a verb in the simple past tense.\n(2) Seeing that, inasmuch as; as,\nSince you wish it, it shall be done.\nSince you will not work, you shall not eat.\nSince that is the case, I shall excuse you."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Or",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §408)",
+       "items": [
+        {
+         "q": "How is or used? Give examples.",
+         "a": "Or is used—\n(1) To introduce an alternative, as,\nYour purse or your life.\nYou must work or starve.\nYou may take this book or that one.\nHe may study law or medicine or engineering, or he may enter into trade.\n(2) To introduce an alternative name or synonym; as,\nThe violin or fiddle has become the leading instrument of the modern orchestra.\n(3) To mean otherwise; as,\nWe must hasten or night will overtake us.\n(4) As nearly equivalent to and; as,\nThe troops were not wanting in strength or courage, but they were badly fed."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "If",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §409)",
+       "items": [
+        {
+         "q": "How is if used? Give examples.",
+         "a": "If is used to mean—\n(1) On the condition or supposition that; as,\nIf he is there, I shall see him.\nIf that is so, I am content.\n(2) Admitting that, as,\nIf I am blunt, I am at least honest.\nIf I am poor, yet I am honest.\n(3) Whether; as,\nI asked him if he would help me.\nI wonder if he will come.\n(4) Whenever; as,\nIf I feel any doubt I inquire.\nIf is also used to express wish or surprise: as,\nIf I only knew!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "That",
+     "num": "4",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §410)",
+       "items": [
+        {
+         "q": "How is that used as a Conjunction? Give examples.",
+         "a": "That, as a Conjunction, retains much of its force as a Demonstrative Pronoun. Thus the sentence ‘I am told that you are miserable’ may be transposed into ‘You are miserable: I am told that.’\nThat is used—\n(1) To express a Reason or Cause, and is equivalent to because, for that, in that; as,\nNot that I loved Caesar less, but that I loved Rome more.\nHe was annoyed that he was contradicted.\n(2) To express a Purpose, and is equivalent to in order that; as,\nWe sow that we may reap.\nHe kept quiet that the dispute might cease.\n(3) To express a Consequence, Result, or Effect; as,\nI am so tired that I cannot go on.\nHe bled so profusely that he died.\nHe was so tired that he could scarcely stand.\nNote—Today that is rarely used for reason or purpose."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Than",
+     "num": "5",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §411)",
+       "items": [
+        {
+         "q": "How is than used as a Conjunction? Give examples.",
+         "a": "Than as a Conjunction, follows adjectives and adverbs in the comparative degree; as,\nWisdom is better than rubies (are).\nI see you oftener than (I see) him.\nI am better acquainted with the country than you are.\nI would rather suffer than that you should want."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Lest",
+     "num": "6",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §412)",
+       "items": [
+        {
+         "q": "How is lest used? Give examples.",
+         "a": "Lest is used as a Subordinating Conjunction expressing a negative purpose, and is equivalent to ‘in order that......not’, ‘for fear that’; as,\nLove not sleep, lest thou come to poverty.\nDo not be idle, lest you come to want.\nHe fled lest he should be killed.\nI was alarmed lest we should be wrecked.\nNote 1—Lest is rare in modern English.\nNote 2—The modern idiomatic construction after lest is should.\nAfter certain expressions denoting fear or apprehension, lest was used as equivalent to that; as,\nI feared lest I might anger thee."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "While",
+     "num": "7",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §413)",
+       "items": [
+        {
+         "q": "How is while used? Give examples.",
+         "a": "While is used to mean—\n(1) During the time that, as long as; as,\nWhile he was sleeping, an enemy sowed tares.\nWhile there is life there is hope.\n(2) At the same time that; as,\nThe girls sang while the boys played.\nWhile he found fault, he also praised.\n(3) Whereas; as,\nWhile I have no money to spend, you have nothing to spend on.\nWhile this is true of some, it is not true of all."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Only",
+     "num": "8",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §414)",
+       "items": [
+        {
+         "q": "How is only used as a Conjunction? Give examples.",
+         "a": "Only, as a Conjunction, means except that, but, were it not (that); as,\nA very pretty woman, only she squints a little.\nThe day is pleasant, only rather cold.\nHe does well, only that he is nervous at the start.\nI would go with you, only I have no money."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Except",
+     "num": "9",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §415)",
+       "items": [
+        {
+         "q": "How was except once used as a Conjunction? Give examples.",
+         "a": "Except was once in good use as a Conjunction; as,\nExcept (= unless) ye repent, ye shall all likewise perish.\nExcept a man be born again, he cannot see the kingdom of God.\nIn modern English its place has been taken by unless."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Without as a Conjunction",
+     "num": "10",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §416)",
+       "items": [
+        {
+         "q": "Is without correctly used as a Conjunction meaning unless?",
+         "a": "Without.—The use of without as a Conjunction meaning unless is now bad English; as,\nI shall not go without you do."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Because, for, since",
+     "num": "11",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 41, §417)",
+       "items": [
+        {
+         "q": "How do because, for and since differ as conjunctions of cause?",
+         "a": "Because, for, since.—Of these three conjunctions, because denotes the closest causal conjunction, for the weakest, since comes between the two."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 100",
+     "num": "12",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 100 — from the book (Wren & Martin, Chapter 41). Fill the blanks with Conjunctions",
+       "items": [
+        {
+         "q": "1. I am in the right, ___ you are in the wrong.",
+         "a": "but"
+        },
+        {
+         "q": "2. The most exquisite work of literary art exhibits a certain crudeness and coarseness, ___ we turn to it from nature.",
+         "a": "yet"
+        },
+        {
+         "q": "3. ___ he had not paid his bill, his electricity was cut off.",
+         "a": "As"
+        },
+        {
+         "q": "4. There never can be prosperity in any country ___ all the numerous cultivators of the soil are permanently depressed and injured.",
+         "a": "while"
+        },
+        {
+         "q": "5. Giving up wrong pleasure is not self-sacrifice, ___ self-culture.",
+         "a": "but"
+        },
+        {
+         "q": "6. Conform thyself then to thy present fortune ___ cut thy coat according to thy cloth.",
+         "a": "and"
+        },
+        {
+         "q": "7. Inconsistency consists in a change of conduct ___ there is no change of circumstances which justify it.",
+         "a": "where"
+        },
+        {
+         "q": "8. The disgust felt towards any kind of knowledge is a sign that it is prematurely presented, ___ that it is presented in an indigestible form.",
+         "a": "or"
+        },
+        {
+         "q": "9. ___ do the learned know what sort of mortals inhabit beyond those mountains, ___ whether they be inhabited at all.",
+         "a": "Neither; nor"
+        },
+        {
+         "q": "10. His ambition was inordinate, ___ he was jealous of every man of ability.",
+         "a": "so"
+        },
+        {
+         "q": "11. Just laws are no restraint upon the freedom of the good, ___ the good man desires nothing which a just law will interfere with.",
+         "a": "for"
+        },
+        {
+         "q": "12. We judge ourselves by what we feel capable of doing, ___ others judge us by what we have already done.",
+         "a": "while"
+        },
+        {
+         "q": "13. My worthy friend Sir Roger is one of those who are not only at peace with themselves, ___ beloved and esteemed by all about them.",
+         "a": "but"
+        },
+        {
+         "q": "14. The fleets of the enemy were not merely defeated, ___ destroyed.",
+         "a": "but"
+        },
+        {
+         "q": "15. As long as he (William of Orange) lived, he was the guiding-star of a brave nation; ___ he died the little children cried in the street.",
+         "a": "when"
+        },
+        {
+         "q": "16. No one likes puns, alliterations, antithesis, argument and analysis better than I do; ___ I sometimes had rather be without them.",
+         "a": "but"
+        },
+        {
+         "q": "17. It (the game of fives) is “the finest exercise for the body ___ best relaxation for the mind.”",
+         "a": "and"
+        },
+        {
+         "q": "18. He (Omar Khayyam) abhorred hypocrisy, ___ he was not too stern with the hypocrite.",
+         "a": "but"
+        },
+        {
+         "q": "19. Our proudest title is not that we are the contemporaries of Darwin, ___ that we are the descendants of Shakespeare.",
+         "a": "but"
+        },
+        {
+         "q": "20. He (Henry Bradshaw) knew more about printed books ___ any man living.",
+         "a": "than"
+        },
+        {
+         "q": "21. Are you impatient with the lark ___ he sings rather than talks?",
+         "a": "that"
+        },
+        {
+         "q": "22. Trust the man who hesitates in his speech and is quick and steady in action, ___ beware of long arguments and long beards.",
+         "a": "but"
+        },
+        {
+         "q": "23. Religion does not banish mirth ___ only moderates and sets rules to it.",
+         "a": "but"
+        },
+        {
+         "q": "24. A man’s real character will always be more visible in his household ___ anywhere else.",
+         "a": "than"
+        },
+        {
+         "q": "25. My grandfather was old and gray-haired, ___ his heart leaped with joy whenever little Alice came fluttering, like a butterfly, into the room.",
+         "a": "but"
+        },
+        {
+         "q": "26. He that is slow to anger is better ___ the mighty.",
+         "a": "than"
+        },
+        {
+         "q": "27. ___ we approached the house, we heard the sound of music.",
+         "a": "As"
+        },
+        {
+         "q": "28. The ravine was full of sand now, ___ it had once been full of water.",
+         "a": "though"
+        },
+        {
+         "q": "29. The harvest truly is plenteous, ___ the labourers are few.",
+         "a": "but"
+        },
+        {
+         "q": "30. A vessel that once gets a crack, ___ it may be cunningly mended, will never stand such rough usage as a whole one.",
+         "a": "though"
+        },
+        {
+         "q": "31. Give every man thy ear, ___ few thy voice.",
+         "a": "but"
+        },
+        {
+         "q": "32. Virtue ___ wise action lies in the mean between the two extremes of too little and too much.",
+         "a": "and"
+        },
+        {
+         "q": "33. And God called the light Day, ___ the darkness He called Night.",
+         "a": "and"
+        },
+        {
+         "q": "34. That is a good book which is opened with expectation, ___ closed with profit.",
+         "a": "and"
+        },
+        {
+         "q": "35. ___ I was in Sri Lanka, I was particularly fascinated by the Coral Gardens of Hikkaduwa.",
+         "a": "When"
+        },
+        {
+         "q": "36. The restoration crushed for a time the Puritan party, ___ placed supreme power in the hands of a libertine.",
+         "a": "and"
+        },
+        {
+         "q": "37. Of his voyage little is known, ___ that he amused himself with books and with his pen.",
+         "a": "except"
+        },
+        {
+         "q": "38. ___ she had given up novel writing, she was still fond of using her pen.",
+         "a": "Though"
+        },
+        {
+         "q": "39. ___ Addison was in Ireland, an event occurred to which he owes his high and permanent rank among British writers.",
+         "a": "While"
+        },
+        {
+         "q": "40. ___ life ___ property was safe, and the poor and the weak were oppressed by the strong.",
+         "a": "Neither; nor"
+        },
+        {
+         "q": "41. ___ Greek and Latin, all Aryan languages have their peaceful words in common.",
+         "a": "As"
+        },
+        {
+         "q": "42. He was an oppressor; ___ he had at least the merit of protecting his people against all oppression except his own.",
+         "a": "still"
+        },
+        {
+         "q": "43. People travelling in a spacecraft appear to be weightless ___ can move about ___ there is no gravity in space.",
+         "a": "and; because"
+        },
+        {
+         "q": "44. The right of self-defence is founded in the law of nature, ___ is not and cannot be superseded by the law of society.",
+         "a": "and"
+        },
+        {
+         "q": "45. Let the superstructure of life be enjoyment, ___ let its foundation be in solid work.",
+         "a": "but"
+        },
+        {
+         "q": "46. ___ I was not a stranger to books, I had no practical acquaintance with them.",
+         "a": "Though"
+        },
+        {
+         "q": "47. Poetry takes me up so entirely ___ I scarce see what passes under my nose.",
+         "a": "that"
+        },
+        {
+         "q": "48. A gentleman made it a rule in reading to skip over all sentences ___ he spied a note of admiration at the end.",
+         "a": "where"
+        },
+        {
+         "q": "49. ___ a fog rolled over the city in the small hours, the early part of the night was cloudless.",
+         "a": "Though"
+        },
+        {
+         "q": "50. ___ I were personally your enemy, I might pity and forgive you.",
+         "a": "If"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 101",
+     "num": "13",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 101 — from the book (Wren & Martin, Chapter 41). Fill the blanks with Conjunctions",
+       "items": [
+        {
+         "q": "1. ___ somewhat pompous, he was an entertaining companion.",
+         "a": "Though"
+        },
+        {
+         "q": "2. “Mr. Johnson” said I, “I do indeed come from Scotland, ___ I cannot help it.”",
+         "a": "but"
+        },
+        {
+         "q": "3. The man that stands by me in trouble I won't bid him go ___ the sun shines again.",
+         "a": "till"
+        },
+        {
+         "q": "4. ___ you are upon Earth enjoy the good things that are here, ___ be not melancholy.",
+         "a": "When; and"
+        },
+        {
+         "q": "5. The art of pleasing is a very necessary one to possess; ___ a very difficult one to acquire.",
+         "a": "but"
+        },
+        {
+         "q": "6. Never maintain an argument with heat and clamour, ___ you think or know yourself to be in the right.",
+         "a": "though"
+        },
+        {
+         "q": "7. The crowd cheered loudly ___ The Prime Minister arrived.",
+         "a": "when"
+        },
+        {
+         "q": "8. I am persuaded ___ the translators of the Bible were masters of an English style much fitter for that work ___ any we see in our present writings.",
+         "a": "that; than"
+        },
+        {
+         "q": "9. He [Chaucer] must have been a man of most wonderful comprehensive nature, ___ he has taken into the compass of his Canterbury Tales the various manners and humours of the whole English nation, in his age.",
+         "a": "for"
+        },
+        {
+         "q": "10. It is the common doom of man ___ he must eat his bread by the sweat of his brow.",
+         "a": "that"
+        },
+        {
+         "q": "11. It is a sort of paradox, it is true: we are never more in danger ___ when we think ourselves most secure.",
+         "a": "than"
+        },
+        {
+         "q": "12. I have imposed upon myself, ___ I have been guilty of no other imposition.",
+         "a": "though"
+        },
+        {
+         "q": "13. One of the pleasantest things in the world is going on a journey; ___ I like to go by myself. I can enjoy society in a room; ___, out of doors, nature is company enough for me.",
+         "a": "but; but"
+        },
+        {
+         "q": "14. It [the game of fives] is the finest exercise for the body, ___ the best relaxation for the mind.",
+         "a": "and"
+        },
+        {
+         "q": "15. Religion does not banish mirth ___ only moderates and sets rules to it.",
+         "a": "but"
+        },
+        {
+         "q": "16. Fit words are better ___ fine ones.",
+         "a": "than"
+        },
+        {
+         "q": "17. I like political changes ___ such changes are made as the result, not of passion, but of deliberation and reason.",
+         "a": "when"
+        },
+        {
+         "q": "18. Civilized man, let loose with the bonds of morality relaxed, is a far greater beast ___ the savage, more refined in his cruelty, more fiend-like in every act.",
+         "a": "than"
+        },
+        {
+         "q": "19. The man who eats in a hurry loses both the pleasure of eating ___ the profit of digestion.",
+         "a": "and"
+        },
+        {
+         "q": "20. Let a man sleep ___ he is sleepy, rise ___ the crow of the cock, ___ the glare of the sun rouses him from his torpor.",
+         "a": "when; when; when"
+        },
+        {
+         "q": "21. It is a great loss to a man ___ he cannot laugh.",
+         "a": "that"
+        },
+        {
+         "q": "22. Impure air can never make pure blood; ___ impure blood corrupts the whole system.",
+         "a": "and"
+        },
+        {
+         "q": "23. Never refuse to entertain a man in your heart ___ all the world is talking against him.",
+         "a": "though"
+        },
+        {
+         "q": "24. ___ you would be healthy, be good.",
+         "a": "If"
+        },
+        {
+         "q": "25. ___ you have a sword ___ a pen in your hand, wield ___ the one ___ the other in a spirit of insolent self-reliance.",
+         "a": "Whether; or; neither; nor"
+        },
+        {
+         "q": "26. A regular bath in the morning, ___ with very feeble and delicate subjects, has always an invigorating effect.",
+         "a": "except"
+        },
+        {
+         "q": "27. There is no more sure sign of a shallow mind ___ the habit of seeing always the ludicrous side of things.",
+         "a": "than"
+        },
+        {
+         "q": "28. An honest hater is often a better fellow ___ a cool friend; ___ it is better not to hate at all.",
+         "a": "than; but"
+        },
+        {
+         "q": "29. There is no virtue that Dr. Arnold laboured more sedulously to instil into young men ___ the virtue of truthfulness.",
+         "a": "than"
+        },
+        {
+         "q": "30. The teachers of morality discourse like angels, ___ they live like men.",
+         "a": "but"
+        },
+        {
+         "q": "31. Massacres ___ disorders never have the way to peace.",
+         "a": "and"
+        },
+        {
+         "q": "32. Natural thirst is more deliciously gratified with water, ___ artificial thirst is with wine.",
+         "a": "while"
+        },
+        {
+         "q": "33. Woman was not meant to be ___ an unthinking drudge, ___ the merely pretty ornament of man’s leisure.",
+         "a": "either; or"
+        },
+        {
+         "q": "34. The real dignity of a man lies ___ in what he has, ___ in what he is.",
+         "a": "not; but"
+        },
+        {
+         "q": "35. They say the Lion and the Lizard keep the Courts ___ Jamshyd gloried and drank deep.",
+         "a": "where"
+        },
+        {
+         "q": "36. ___ I am dead, my dearest, sing no sad songs for me.",
+         "a": "When"
+        },
+        {
+         "q": "37. ___ he [Lord Beaconsfield] was ambitious, his ambition was a noble one.",
+         "a": "Though"
+        },
+        {
+         "q": "38. Suffer the little children to come unto me, and forbid them not, ___ of such is the Kingdom of God.",
+         "a": "for"
+        },
+        {
+         "q": "39. Heard melodies are sweet, ___ those unheard are sweeter.",
+         "a": "but"
+        },
+        {
+         "q": "40. I awoke one morning ___ found myself famous.",
+         "a": "and"
+        },
+        {
+         "q": "41. ___ the blind lead the blind, both shall fall into the ditch.",
+         "a": "If"
+        },
+        {
+         "q": "42. One generation passeth away and another generation cometh, ___ the earth abideth for ever.",
+         "a": "but"
+        },
+        {
+         "q": "43. A man has no more right to say an uncivil thing ___ to act one.",
+         "a": "than"
+        },
+        {
+         "q": "44. Let us shun extremes, ___ each extreme necessarily engenders its opposite.",
+         "a": "for"
+        },
+        {
+         "q": "45. ___ this be madness, ___ there is method in it.",
+         "a": "Though; yet"
+        },
+        {
+         "q": "46. The heavens declare the glory of God, ___ the firmament showeth His handiwork.",
+         "a": "and"
+        },
+        {
+         "q": "47. Every good tree bringeth forth good fruit, ___ a corrupt tree bringeth forth evil fruit.",
+         "a": "but"
+        },
+        {
+         "q": "48. Small service is true service ___ it lasts.",
+         "a": "while"
+        },
+        {
+         "q": "49. For my part, I was always a bungler at all kinds of sport that required ___ patience ___ adroitness.",
+         "a": "either; or"
+        },
+        {
+         "q": "50. There are many truths of which the full meaning cannot be realized ___ personal experience has brought it home.",
+         "a": "till"
+        },
+        {
+         "q": "51. He may be right ___ wrong in his opinion, ___ he is too clearheaded to be unjust.",
+         "a": "or; but"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "since",
+     "sd": "جڏھنھے اوھن",
+     "syn": "from the time when; seeing that"
+    },
+    {
+     "w": "lest",
+     "sd": "اینی نے تے",
+     "syn": "for fear that; in order that... not"
+    },
+    {
+     "w": "except",
+     "sd": "سوائے",
+     "syn": "unless; apart from"
+    },
+    {
+     "w": "whereas",
+     "sd": "جڏھنھے تے",
+     "syn": "while in contrast; although"
+    },
+    {
+     "w": "inasmuch as",
+     "sd": "چوتو جو",
+     "syn": "seeing that; since"
+    },
+    {
+     "w": "supposition",
+     "sd": "فرض",
+     "syn": "something supposed to be true"
+    },
+    {
+     "w": "demonstrative",
+     "sd": "اشارو",
+     "syn": "pointing out, as this, that"
+    }
+   ]
+  },
+  {
+   "unit": 42,
+   "title": "The Interjection",
+   "display": "The Interjection",
+   "reading": "The Interjection",
+   "sections": [
+    {
+     "name": "What is an Interjection?",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 42, §418)",
+       "items": [
+        {
+         "q": "Examine the following sentences: Hello! What are you doing there? Alas! He is dead. Hurrah! We have won the game. Ah! Have they gone? Oh! I got such a fright. Hush! Don’t make a noise. What are such words called?",
+         "a": "Such words as Hello! Alas! Hurrah! Ah! etc. are called Interjections.\nThey are used to express some sudden feeling or emotion. It will be noticed that they are not grammatically related to the other words in a sentence."
+        },
+        {
+         "q": "Give the definition of an Interjection.",
+         "a": "Def.—An Interjection is a word which expresses some sudden feeling or emotion."
+        },
+        {
+         "q": "What feelings may Interjections express? Give examples.",
+         "a": "Interjections may express—\n(1) Joy; as, Hurrah! huzza!\n(2) Grief; as, alas!\n(3) Surprise; as, ha! what!\n(4) Approval; as, bravo!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Groups of words as Interjections",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 42, §419)",
+       "items": [
+        {
+         "q": "Give examples of groups of words used to express some sudden feeling or emotion.",
+         "a": "Certain groups of words are also used to express some sudden feeling or emotion; as,\nAh me! For shame! Well done! Good gracious!"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice — What feeling does the Interjection express?",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "Practice made from the rules of this chapter — Chapter 42 has no exercise of its own in the book.",
+       "items": [
+        {
+         "q": "Hurrah! We have won the game. What feeling does ‘Hurrah!’ express?",
+         "a": "Joy."
+        },
+        {
+         "q": "Alas! He is dead. What feeling does ‘Alas!’ express?",
+         "a": "Grief."
+        },
+        {
+         "q": "Ha! What a surprise! What feeling does ‘Ha!’ express?",
+         "a": "Surprise."
+        },
+        {
+         "q": "Bravo! Well played! What feeling does ‘Bravo!’ express?",
+         "a": "Approval."
+        },
+        {
+         "q": "Oh! I got such a fright. What feeling does ‘Oh!’ express?",
+         "a": "Surprise (or fear)."
+        },
+        {
+         "q": "Hush! Don’t make a noise. What is ‘Hush!’ used for?",
+         "a": "It is used to ask for silence."
+        },
+        {
+         "q": "Is an Interjection grammatically related to the other words in a sentence?",
+         "a": "No. Interjections are not grammatically related to the other words in a sentence."
+        },
+        {
+         "q": "Give an example of a group of words used as an Interjection.",
+         "a": "Ah me! For shame! Well done! Good gracious!"
+        },
+        {
+         "q": "What is an Interjection?",
+         "a": "An Interjection is a word which expresses some sudden feeling or emotion."
+        },
+        {
+         "q": "Say whether each is Joy, Grief, Surprise or Approval: (a) Hurrah! (b) Alas! (c) Ha! (d) Bravo!",
+         "a": "(a) Joy (b) Grief (c) Surprise (d) Approval"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "interjection",
+     "sd": "حرف ندا",
+     "syn": "a word which expresses some sudden feeling or emotion"
+    },
+    {
+     "w": "emotion",
+     "sd": "جذبو",
+     "syn": "a strong feeling, as joy, grief or surprise"
+    },
+    {
+     "w": "alas",
+     "sd": "افسوس",
+     "syn": "a word expressing grief or pity"
+    },
+    {
+     "w": "hurrah",
+     "sd": "شاباش",
+     "syn": "a shout of joy or approval"
+    },
+    {
+     "w": "bravo",
+     "sd": "شاباش",
+     "syn": "well done! (expressing approval)"
+    },
+    {
+     "w": "hush",
+     "sd": "چپ",
+     "syn": "be quiet! (asking for silence)"
+    }
+   ]
+  },
+  {
+   "unit": 43,
+   "title": "The Same Word Used as Different Parts of Speech",
+   "display": "The Same Word Used as Different Parts of Speech",
+   "reading": "The Same Word Used as Different Parts of Speech",
+   "sections": [
+    {
+     "name": "The same word, different parts of speech",
+     "num": "1",
+     "exercises": [
+      {
+       "label": "The rule (Wren & Martin, Chapter 43, §420)",
+       "items": [
+        {
+         "q": "What decides to which part of speech a word belongs in a given sentence?",
+         "a": "Always remember that it is the function or use that determines to which part of speech a word belongs in a given sentence."
+        },
+        {
+         "q": "About — give one example for each part of speech.",
+         "a": "About\nAdverb: They wandered about in sheepskins and goatskins.\nPreposition: There is something pleasing about him."
+        },
+        {
+         "q": "Above — give one example for each part of speech.",
+         "a": "Above\nAdverb: The heavens are above.\nPreposition: The moral law is above the civil.\nAdjective: Analyse the above sentence.\nNoun: Our blessings come from above."
+        },
+        {
+         "q": "After — give one example for each part of speech.",
+         "a": "After\nAdverb: They arrived soon after.\nPreposition: He takes after his father.\nAdjective: After ages shall sing his glory.\nConjunction: We went away after they had left."
+        },
+        {
+         "q": "All — give one example for each part of speech.",
+         "a": "All\nAdjective: All men are mortal. It was all profit and no loss.\nAdverb: He was all alone when I saw him.\nPronoun: All spoke in his favour.\nNoun: He lost his all in speculation."
+        },
+        {
+         "q": "Any — give one example for each part of speech.",
+         "a": "Any\nAdjective: Are there any witnesses present?\nPronoun: Does any of you know anything about it?\nAdverb: Is that any better?"
+        },
+        {
+         "q": "As — give one example for each part of speech.",
+         "a": "As\nAdverb: We walked as fast as we could.\nConjunction: As he was poor I helped him.\nRelative Pronoun: She likes the same colour as I do."
+        },
+        {
+         "q": "Before — give one example for each part of speech.",
+         "a": "Before\nAdverb: I have seen you before.\nPreposition: He came before the appointed time.\nConjunction: He went away before I came."
+        },
+        {
+         "q": "Better — give one example for each part of speech.",
+         "a": "Better\nAdjective: I think yours is a better plan.\nAdverb: I know better.\nNoun: Give place to your betters.\nVerb: The boxes with which he provided me bettered the sample.—Froude."
+        },
+        {
+         "q": "Both — give one example for each part of speech.",
+         "a": "Both\nAdjective: You cannot have it both ways.\nPronoun: Both of them are dead.\nConjunction: Both the cashier and the accountant are Hindus."
+        },
+        {
+         "q": "But — give one example for each part of speech.",
+         "a": "But\nAdverb: It is but (= only) right to admit our faults.\nPreposition: None but (= except) the brave deserves the fair.\nConjunction: We tried hard, but did not succeed.\nRelative Pronoun: There is no one but likes him. (= who does not like him.)"
+        },
+        {
+         "q": "Down — give one example for each part of speech.",
+         "a": "Down\nAdverb: Down went the “Royal George.”\nPreposition: The fire engine came rushing down the hill.\nAdjective: The porter was killed by the down train.\nNoun: He has seen the ups and downs of life.\nVerb: Down with the tyrant!"
+        },
+        {
+         "q": "Either — give one example for each part of speech.",
+         "a": "Either\nAdjective: Either bat is good enough.\nPronoun: Ask either of them.\nConjunction: He must either work or starve."
+        },
+        {
+         "q": "Else — give one example for each part of speech.",
+         "a": "Else\nAdjective: I have something else for you.\nAdverb: Shall we look anywhere else?\nConjunction: Make haste, else you will miss the train."
+        },
+        {
+         "q": "Enough — give one example for each part of speech.",
+         "a": "Enough\nAdjective: There is time enough and to spare.\nAdverb: You know well enough what I mean.\nNoun: I have had enough of this."
+        },
+        {
+         "q": "Even — give one example for each part of speech.",
+         "a": "Even\nAdjective: The chances are even.\nVerb: Let us even the ground.\nAdverb: Does he even suspect the danger?"
+        },
+        {
+         "q": "Except — give one example for each part of speech.",
+         "a": "Except\nVerb: If we except Hari, all are to be blamed.\nPreposition: All the brethren were in Egypt except Benjamin.\nConjunction: I will not let thee go except (= unless) thou bless me (§ 415)."
+        },
+        {
+         "q": "For — give one example for each part of speech.",
+         "a": "For\nPreposition: I can shift for myself.\nConjunction: Give thanks unto the Lord; for He is good."
+        },
+        {
+         "q": "Less — give one example for each part of speech.",
+         "a": "Less\nAdjective: You are paying less attention to your studies than you used to do.\nAdverb: The population of India is less than that of China.\nNoun: He wants Rs. 500 for that watch. He won’t be satisfied with less."
+        },
+        {
+         "q": "Like — give one example for each part of speech.",
+         "a": "Like\nAdjective: They are men of like build and stature.\nPreposition: Do not talk like that.\nAdverb: Like as a father pitieth his own children.\nNoun: We shall not see his like again.\nVerb: Children like sweets."
+        },
+        {
+         "q": "Little — give one example for each part of speech.",
+         "a": "Little\nAdjective: There is little danger in going there.\nNoun: Man wants but little here below.\nAdverb: He eats very little."
+        },
+        {
+         "q": "More — give one example for each part of speech.",
+         "a": "More\nAdjective: We want more men like him.\nPronoun: More of us die in bed than out of it.\nAdverb: You should talk less and work more."
+        },
+        {
+         "q": "Much — give one example for each part of speech.",
+         "a": "Much\nAdjective: There is much sense in what he says.\nPronoun: Much of it is true.\nAdverb: He boasts too much."
+        },
+        {
+         "q": "Near — give one example for each part of speech.",
+         "a": "Near\nAdverb: Draw near and listen.\nPreposition: His house is near the temple.\nAdjective: He is a near relation.\nVerb: The time nears."
+        },
+        {
+         "q": "Needs — give one example for each part of speech.",
+         "a": "Needs\nNoun: My needs are few.\nVerb: It needs to be done with care.\nAdverb: He needs must come."
+        },
+        {
+         "q": "Neither — give one example for each part of speech.",
+         "a": "Neither\nConjunction: Give me neither poverty nor riches.\nAdjective: Neither accusation is true.\nPronoun: It is difficult to negotiate where neither will trust."
+        },
+        {
+         "q": "Next — give one example for each part of speech.",
+         "a": "Next\nAdjective: I shall see you next Monday.\nAdverb: What next?\nPreposition: He was sitting next to her.\nNoun: I shall tell you more about it in my next."
+        },
+        {
+         "q": "No — give one example for each part of speech.",
+         "a": "No\nAdjective: It is no joke.\nAdverb: He is no more.\nNoun: I will not take a no."
+        },
+        {
+         "q": "Once — give one example for each part of speech.",
+         "a": "Once\nAdverb: I was young once.\nConjunction: Once he hesitates we have him.\nNoun: Please help me for once."
+        },
+        {
+         "q": "One — give one example for each part of speech.",
+         "a": "One\nAdjective: One day I met him in the street.\nPronoun: One would think he was mad.\nNoun: The little ones cried for joy."
+        },
+        {
+         "q": "Only — give one example for each part of speech.",
+         "a": "Only\nAdjective: It was his only chance.\nAdverb: He was only foolish.\nConjunction: Take what I have, only (= but) let me go."
+        },
+        {
+         "q": "Over — give one example for each part of speech.",
+         "a": "Over\nAdverb: Read it over carefully.\nNoun: In one over he took three wickets.\nPreposition: At thirty a change came over him."
+        },
+        {
+         "q": "Right — give one example for each part of speech.",
+         "a": "Right\nVerb: That is a fault that will right itself.\nAdjective: He is the right man for the position.\nNoun: I ask it as a right.\nAdverb: Serves him right! He stood right in my way."
+        },
+        {
+         "q": "Round — give one example for each part of speech.",
+         "a": "Round\nAdjective: A square peg in a round hole.\nNoun: The evening was a round of pleasures.\nAdverb: He came round to their belief.\nPreposition: The earth revolves round the sun.\nVerb: We shall round the cape in safety."
+        },
+        {
+         "q": "Since — give one example for each part of speech.",
+         "a": "Since\nPreposition: Since that day I have not seen him.\nConjunction: Since there’s no help, come, let us kiss and part.\nAdverb: I have not seen him since."
+        },
+        {
+         "q": "So — give one example for each part of speech.",
+         "a": "So\nAdverb: I am so sorry.\nConjunction: He was poor, so they helped him."
+        },
+        {
+         "q": "Some — give one example for each part of speech.",
+         "a": "Some\nAdjective: We must find some way out of it.\nPronoun: Some say one thing and others another.\nAdverb: Some thirty chiefs were present."
+        },
+        {
+         "q": "Still — give one example for each part of speech.",
+         "a": "Still\nVerb: With his name the mothers still their babes.\nAdjective: Still waters run deep.\nNoun: Her sobs could be heard in the still of night.\nAdverb: He is still in business."
+        },
+        {
+         "q": "Such — give one example for each part of speech.",
+         "a": "Such\nAdjective: Don’t be in such a hurry.\nPronoun: Such was not my intention."
+        },
+        {
+         "q": "That — give one example for each part of speech.",
+         "a": "That\nDemonstrative Adjective: What is that noise?\nDemonstrative Pronoun: That is what I want.\nAdverb: I have done that much only.\nRelative Pronoun: The evil that men do lives after them.\nConjunction: He lives so that he may eat."
+        },
+        {
+         "q": "The — give one example for each part of speech.",
+         "a": "The\nDefinite Article: The cat loves comfort.\nAdverb: The wiser he is, the better."
+        },
+        {
+         "q": "Till — give one example for each part of speech.",
+         "a": "Till\nPreposition: Never put off till tomorrow what you can do today.\nConjunction: Do not start till I give the word."
+        },
+        {
+         "q": "Up — give one example for each part of speech.",
+         "a": "Up\nAdverb: Prices are up.\nPreposition: Let us go up the hill.\nAdjective: The next up train will leave here at 12.30.\nNoun: They had their ups and downs of fortune."
+        },
+        {
+         "q": "Well — give one example for each part of speech.",
+         "a": "Well\nNoun: Let well alone.\nAdjective: I hope you are now well.\nAdverb: Well begun is half done.\nInterjection: Well, who would have thought it?"
+        },
+        {
+         "q": "What — give one example for each part of speech.",
+         "a": "What\nInterrogative Adjective: What evidence have you got?\nInterjection: What! you don’t mean to say so?\nInterrogative Pronoun: What does he want?\nRelative Pronoun: Give me what you can. What happened then, I do not know.\nAdverb: What by fire and what by sword, the whole country was laid waste."
+        },
+        {
+         "q": "While — give one example for each part of speech.",
+         "a": "While\nNoun: Sit down and rest a while.\nVerb: They while away their evenings with books and games.\nConjunction: While a great poet, he is a greater novelist."
+        },
+        {
+         "q": "Why — give one example for each part of speech.",
+         "a": "Why\nInterrogative Adverb: Why did you do it?\nRelative Adverb: I know the reason why he did it.\nInterjection: Why, it is surely Nanak!\nNoun: This is not the time to go into the why and the wherefore of it."
+        },
+        {
+         "q": "Yet — give one example for each part of speech.",
+         "a": "Yet\nAdverb: There is more evidence yet to be offered.\nConjunction: He is willing, yet unable."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 102",
+     "num": "2",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 102 — from the book (Wren & Martin, Chapter 43). What part of speech is each of the words in italics?",
+       "items": [
+        {
+         "q": "1. He kept the fast for a week.",
+         "a": "fast — Noun"
+        },
+        {
+         "q": "2. Mohammedans fast in the month of Ramzan.",
+         "a": "fast — Verb"
+        },
+        {
+         "q": "3. He is the right man in the right place.",
+         "a": "right, right — Adjective, Adjective"
+        },
+        {
+         "q": "4. God defend the right!",
+         "a": "right — Noun"
+        },
+        {
+         "q": "5. There is much truth in what he says.",
+         "a": "much — Adjective"
+        },
+        {
+         "q": "6. Much cry and little wool.",
+         "a": "much — Noun"
+        },
+        {
+         "q": "7. He still lives in that house.",
+         "a": "still — Adverb"
+        },
+        {
+         "q": "8. That boy gives any amount of trouble.",
+         "a": "any — Adjective"
+        },
+        {
+         "q": "9. Is that any better?",
+         "a": "any — Adverb"
+        },
+        {
+         "q": "10. A better man than he never lived.",
+         "a": "better — Adjective"
+        },
+        {
+         "q": "11. He knows better than to quarrel.",
+         "a": "better — Adverb"
+        },
+        {
+         "q": "12. He spoke in a loud voice.",
+         "a": "loud — Adjective"
+        },
+        {
+         "q": "13. Do not speak so loud.",
+         "a": "loud — Adverb"
+        },
+        {
+         "q": "14. It is long since we met.",
+         "a": "long — Adverb"
+        },
+        {
+         "q": "15. Still waters run deep.",
+         "a": "still — Adjective"
+        },
+        {
+         "q": "16. Most people think so.",
+         "a": "most — Adjective"
+        },
+        {
+         "q": "17. What most annoys me is his obstinacy.",
+         "a": "most — Adverb"
+        },
+        {
+         "q": "18. Some twenty boys were absent.",
+         "a": "some — Adverb"
+        },
+        {
+         "q": "19. Don't boast too much.",
+         "a": "much — Adverb"
+        },
+        {
+         "q": "20. It is hard to understand.",
+         "a": "hard — Adjective"
+        },
+        {
+         "q": "21. Men who work hard enjoy life fully.",
+         "a": "hard — Adverb"
+        },
+        {
+         "q": "22. Little learning is a dangerous thing.",
+         "a": "little — Adjective"
+        },
+        {
+         "q": "23. He is little known here.",
+         "a": "little — Adverb"
+        },
+        {
+         "q": "24. It matters little what he says.",
+         "a": "little — Adverb"
+        },
+        {
+         "q": "25. Man wants but little here below.",
+         "a": "little — Noun"
+        },
+        {
+         "q": "26. I will take some, but not all.",
+         "a": "some, all — Pronoun, Pronoun"
+        },
+        {
+         "q": "27. Please call me early.",
+         "a": "early — Adverb"
+        },
+        {
+         "q": "28. The early bird catches the worm.",
+         "a": "early — Adjective"
+        },
+        {
+         "q": "29. That can stand over.",
+         "a": "over — Adverb"
+        },
+        {
+         "q": "30. Take this parcel over to the post office.",
+         "a": "over — Preposition"
+        },
+        {
+         "q": "31. He has no command over himself.",
+         "a": "over — Preposition"
+        },
+        {
+         "q": "32. He was only a yard off me.",
+         "a": "off — Preposition"
+        },
+        {
+         "q": "33. Suddenly one of the wheels came off.",
+         "a": "off — Adverb"
+        },
+        {
+         "q": "34. I must be off.",
+         "a": "off — Adverb"
+        },
+        {
+         "q": "35. He told us all about the battle.",
+         "a": "all — Adverb"
+        },
+        {
+         "q": "36. He lives about two miles from here.",
+         "a": "about — Adverb"
+        },
+        {
+         "q": "37. Several men were standing about.",
+         "a": "about — Adverb"
+        },
+        {
+         "q": "38. After the storm comes the calm.",
+         "a": "after — Preposition"
+        },
+        {
+         "q": "39. The after effects of potash bromide are bad.",
+         "a": "after — Adjective"
+        },
+        {
+         "q": "40. He went after I came.",
+         "a": "after — Conjunction"
+        },
+        {
+         "q": "41. The minstrels follow after.",
+         "a": "after — Adverb"
+        },
+        {
+         "q": "42. May comes after April.",
+         "a": "after — Preposition"
+        },
+        {
+         "q": "43. All fish are not caught with flies.",
+         "a": "all — Adjective"
+        },
+        {
+         "q": "44. All is fair in love and war.",
+         "a": "all — Pronoun"
+        },
+        {
+         "q": "45. We shall lie all alike in our graves.",
+         "a": "all — Adverb"
+        },
+        {
+         "q": "46. He that is warm thinks all so.",
+         "a": "all — Adverb"
+        },
+        {
+         "q": "47. What is all this noise?",
+         "a": "all — Adjective"
+        },
+        {
+         "q": "48. All is not lost.",
+         "a": "all — Pronoun"
+        },
+        {
+         "q": "49. He is all for amusement.",
+         "a": "all — Adverb"
+        },
+        {
+         "q": "50. All is good in a famine.",
+         "a": "all — Pronoun"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Exercise in Composition 103",
+     "num": "3",
+     "exercises": [
+      {
+       "label": "Exercise in Composition 103 — from the book (Wren & Martin, Chapter 43). What part of speech is each of the words in italics?",
+       "items": [
+        {
+         "q": "1. He is not any the worse for it.",
+         "a": "any — Adverb"
+        },
+        {
+         "q": "2. A thing you don't want is dear at any price.",
+         "a": "any — Adjective"
+        },
+        {
+         "q": "3. I thought as much.",
+         "a": "as — Adverb"
+        },
+        {
+         "q": "4. He is as deaf as a post.",
+         "a": "as, as — Adverb, Conjunction"
+        },
+        {
+         "q": "5. He got the same result as before.",
+         "a": "as — Adverb"
+        },
+        {
+         "q": "6. As he was ambitious, I slew him.",
+         "a": "as — Conjunction"
+        },
+        {
+         "q": "7. Men fear death as children fear to go in the dark.",
+         "a": "as — Conjunction"
+        },
+        {
+         "q": "8. There is no such flatterer as a man's self.",
+         "a": "as — Relative Pronoun"
+        },
+        {
+         "q": "9. He did his best.",
+         "a": "best — Noun"
+        },
+        {
+         "q": "10. I like this best.",
+         "a": "best — Adverb"
+        },
+        {
+         "q": "11. He is my best friend.",
+         "a": "best — Adjective"
+        },
+        {
+         "q": "12. He is but a child.",
+         "a": "but — Adverb"
+        },
+        {
+         "q": "13. Fear nought but sin.",
+         "a": "but — Preposition"
+        },
+        {
+         "q": "14. But for his help, I could not have done it.",
+         "a": "but — Preposition"
+        },
+        {
+         "q": "15. The paths of glory lead but to the grave.",
+         "a": "but — Adverb"
+        },
+        {
+         "q": "16. But that I saw it I could not have believed it.",
+         "a": "but — Conjunction"
+        },
+        {
+         "q": "17. I change, but I cannot die.",
+         "a": "but — Conjunction"
+        },
+        {
+         "q": "18. There is no lane but has a turning.",
+         "a": "but — Relative Pronoun"
+        },
+        {
+         "q": "19. The fool is busy in everyone's business but his own.",
+         "a": "but — Preposition"
+        },
+        {
+         "q": "20. Enough of this!",
+         "a": "enough — Noun"
+        },
+        {
+         "q": "21. She sings well enough.",
+         "a": "enough — Adverb"
+        },
+        {
+         "q": "22. Enough is as good as a feast.",
+         "a": "enough — Noun"
+        },
+        {
+         "q": "23. We have not men enough.",
+         "a": "enough — Adjective"
+        },
+        {
+         "q": "24. He is like his father.",
+         "a": "like — Preposition"
+        },
+        {
+         "q": "25. I like the offer.",
+         "a": "like — Verb"
+        },
+        {
+         "q": "26. Did you ever hear the like of it?",
+         "a": "like — Noun"
+        },
+        {
+         "q": "27. Do not talk like that.",
+         "a": "like — Adverb"
+        },
+        {
+         "q": "28. I have heard more since.",
+         "a": "more — Adverb"
+        },
+        {
+         "q": "29. This sum is more difficult.",
+         "a": "more — Adverb"
+        },
+        {
+         "q": "30. More will be wanted.",
+         "a": "more — Pronoun"
+        },
+        {
+         "q": "31. He stood next me in class.",
+         "a": "next — Preposition"
+        },
+        {
+         "q": "32. The next moment he was dead.",
+         "a": "next — Adjective"
+        },
+        {
+         "q": "33. What happened next?",
+         "a": "next — Adverb"
+        },
+        {
+         "q": "34. We have no money.",
+         "a": "no — Adjective"
+        },
+        {
+         "q": "35. He is no better, no worse.",
+         "a": "no — Adverb"
+        },
+        {
+         "q": "36. His answer was a decided no.",
+         "a": "no — Noun"
+        },
+        {
+         "q": "37. Right the wrong.",
+         "a": "right — Verb"
+        },
+        {
+         "q": "38. He is in the right.",
+         "a": "right — Noun"
+        },
+        {
+         "q": "39. He is always right.",
+         "a": "right — Adjective"
+        },
+        {
+         "q": "40. Set it right.",
+         "a": "right — Adverb"
+        },
+        {
+         "q": "41. Use right words.",
+         "a": "right — Adjective"
+        },
+        {
+         "q": "42. Since you say so, I believe it.",
+         "a": "since — Conjunction"
+        },
+        {
+         "q": "43. He has been ill since yesterday.",
+         "a": "since — Preposition"
+        },
+        {
+         "q": "44. He has returned home long since.",
+         "a": "since — Adverb"
+        },
+        {
+         "q": "45. What was that noise?",
+         "a": "what — Interrogative Adjective"
+        },
+        {
+         "q": "46. He died so that he might save his country.",
+         "a": "so — Conjunction"
+        },
+        {
+         "q": "47. What is the so man that does not love his country?",
+         "a": "so — Adverb (as printed; see flags)"
+        },
+        {
+         "q": "48. Give him what you can.",
+         "a": "what — Relative Pronoun"
+        },
+        {
+         "q": "49. What nonsense is this!",
+         "a": "what — Interjection"
+        },
+        {
+         "q": "50. What does it profit?",
+         "a": "what — Interrogative Pronoun"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "words": [
+    {
+     "w": "function",
+     "sd": "ڪم",
+     "syn": "the work a word does in a sentence"
+    },
+    {
+     "w": "determine",
+     "sd": "فیصلو ڪرن",
+     "syn": "to decide or settle"
+    },
+    {
+     "w": "demonstrative",
+     "sd": "اشارو",
+     "syn": "pointing out, as this, that"
+    },
+    {
+     "w": "relative pronoun",
+     "sd": "متعلق ضمیر",
+     "syn": "a pronoun that joins a clause to a noun, as who, which, that"
+    },
+    {
+     "w": "interrogative",
+     "sd": "سوالی",
+     "syn": "asking a question"
+    }
+   ]
   }
 ]
 };

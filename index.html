@@ -83969,7 +83969,12 @@ function openGuide(cls, subj){
 // Tests reuse startTest and the normal test flow. GRAMMAR_PARTS groups units by
 // book part, so later parts slot in the same way (add a part entry + units).
 var GRAMMAR_PARTS=[
-  {part:1, title:'Part 1 \u2014 Basics: The Sentence and the Parts of Speech', units:[1,2,3,4]}
+  {part:1, title:'Part 1 \u2014 Basics: The Sentence and the Parts of Speech', units:[1,2,3,4]},
+  {part:2, title:'Part 2 \u2014 The Noun', units:[5,6,7,8]},
+  {part:3, title:'Part 3 \u2014 Adjectives & Articles', units:[9,10,11,12,13,14]},
+  {part:4, title:'Part 4 \u2014 Pronouns', units:[15,16,17,18,19]},
+  {part:5, title:'Part 5 \u2014 Verbs, Tenses & Voice', units:[20,21,22,23,24,25,26,27,28,29,30,31,32,33]},
+  {part:6, title:'Part 6 \u2014 Adverbs, Prepositions & Conjunctions', units:[34,35,36,37,38,39,40,41,42,43]}
 ];
 function grammarLessonTitle(u){
   var d=(u.display||u.title||'').replace(/\s*\u2014\s*Chapter \d+\s*$/,'');
@@ -83988,7 +83993,7 @@ function showGrammar(){
     +'<button class="subjcard" onclick="showGrammarTests()"><span class="subjicon-tile t-teal">\u270F\uFE0F</span><span class="subjname">Tests</span><span class="subjmeta">'+_nt+' TESTS</span></button>'
     +'<button class="subjcard" onclick="showGrammarLessons()"><span class="subjicon-tile t-teal">\uD83D\uDCD6</span><span class="subjname">Guide / Lessons</span><span class="subjmeta">'+_nl+' LESSONS</span></button>'
     +'</div>';
-  h+='<p class="note">Wren &amp; Martin \u2014 High School English Grammar and Composition (Book I). Part 1 covers Chapters 1\u20134; more parts will be added here.</p>';
+  h+='<p class="note">Wren &amp; Martin \u2014 High School English Grammar and Composition (Book I). Book I covers Chapters 1\u201443 in six parts.</p>';
   document.getElementById('grammarbody').innerHTML=h;
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
