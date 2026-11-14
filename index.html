@@ -83005,6 +83005,7 @@ function hasGuideFor(cls, s){
     var st=STUDY[cls]; if(!st) return false;
     if(s==='English') return !!st.exsolutions;
     if((s||'').indexOf('Mathematics')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.mathsolutionsSindhi;
+    if((s||'').indexOf('Mathematics')===0 && (s||'').indexOf('Urdu')>=0) return !!st.mathsolutionsUrdu;
     if((s||'').indexOf('Mathematics')===0) return !!st.mathsolutions;
     if((s||'').indexOf('Sindhi')===0) return !!st.sindhiExsolutions;
     if(s==='Asan Urdu'||s==='Urdu Salees') return !!st.urduExsolutions;
@@ -83027,11 +83028,27 @@ function hasGuideFor(cls, s){
     if((s||'').indexOf('General Knowledge')===0 && (s||'').indexOf('English')>=0) return !!st.gkExsolutionsEn;
     if((s||'').indexOf('Computer Science')===0 && (s||'').indexOf('English')>=0) return !!st.csExsolutions;
     if((s||'').indexOf('Computer Science')===0 && (s||'').indexOf('Sindhi')>=0) return !!st.csExsolutionsSindhi;
+    if((s||'').indexOf('Science')===0 && (s||'').indexOf('Urdu')>=0) return !!st.sciExsolutionsUrdu;
+    if((s||'').indexOf('Social Studies')===0 && (s||'').indexOf('Urdu')>=0) return !!st.socExsolutionsUrdu;
+    if((s||'').indexOf('Islamiat')===0 && (s||'').indexOf('Urdu')>=0) return !!st.islExsolutionsUrdu;
+    if((s||'').indexOf('Chemistry')===0 && (s||'').indexOf('Urdu')>=0) return !!st.chemExsolutionsUrdu;
+    if((s||'').indexOf('Physics')===0 && (s||'').indexOf('Urdu')>=0) return !!st.phyExsolutionsUrdu;
+    if((s||'').indexOf('Biology')===0 && (s||'').indexOf('Urdu')>=0) return !!st.bioExsolutionsUrdu;
+    if((s||'').indexOf('Computer Science')===0 && (s||'').indexOf('Urdu')>=0) return !!st.csExsolutionsUrdu;
+    if((s||'').indexOf('Pakistan Studies')===0 && (s||'').indexOf('Urdu')>=0) return !!st.pakExsolutionsUrdu;
+    if((s||'').indexOf('General Knowledge')===0 && (s||'').indexOf('Urdu')>=0) return !!st.gkExsolutionsUrdu;
+    if(s==='Asan Sindhi') return !!st.asanSindhiExsolutions;
+    if(s==='Urdu') return !!st.urduExsolutionsUrdu;
     return false;
   }catch(e){ return false; }
 }
 function guideSubjectsFor(cls){
-  return (CLASS_SUBJECTS[cls]||[]).filter(function(s){ return hasGuideFor(cls, s); });
+  var base=(CLASS_SUBJECTS[cls]||[]);
+  var extra=[];
+  base.forEach(function(s){ if((s||'').indexOf('Sindhi Version')>=0) extra.push(s.replace('Sindhi Version','Urdu Version')); });
+  extra.push('Asan Sindhi');
+  extra.push('Urdu');
+  return base.concat(extra).filter(function(s){ return hasGuideFor(cls, s); });
 }
 function guideCardHtml(cls, s){
   var sd=SUBJ_SD[subjBase(s)]||'';
