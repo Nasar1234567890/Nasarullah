@@ -424495,6 +424495,7 @@ if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Urdu") >= 0 && S
   document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees" || s === "Gulzar-E-Urdu" || s === "Urdu" || s === "Asan Sindhi" || (s || "").indexOf("Urdu Version") >= 0));
   document.getElementById("matcontent").classList.toggle("pro-guide", true);
   document.getElementById("subjectpage").classList.add("hidden");
+  var _gp = document.getElementById("grammarpage"); if(_gp) _gp.classList.add("hidden");
   mp.classList.remove("hidden");
   window.scrollTo(0, 0);
   navPush({view:'material', cls:c, subj:s, tab:'exsolutions', unit:n});
