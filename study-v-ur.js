@@ -9129,8 +9129,8 @@ STUDY.v.socExsolutionsUrdu = [
     "words": []
   },
   {
-    "display": "ہم جو اور ہم جوئی",
-    "reading": "ہم جو اور ہم جوئی",
+    "display": "مہم جو اور مہم جوئی",
+    "reading": "مہم جو اور مہم جوئی",
     "sections": [
       {
         "exercises": [
@@ -9354,7 +9354,7 @@ STUDY.v.socExsolutionsUrdu = [
         "num": "13.6"
       }
     ],
-    "title": "ہم جو اور ہم جوئی",
+    "title": "مہم جو اور مہم جوئی",
     "unit": 13,
     "words": []
   }
