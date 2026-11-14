@@ -415659,6 +415659,7 @@ function openMatPage(tab, cls, subj){
   var c = matCls, s = matSubj;
   var data = null;
   if(c === "x") data = STUDY.x;
+  else if(c === "grammar") data = STUDY.grammar;
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
@@ -415744,6 +415745,7 @@ function openExUnit(n, cls, subj){
   var c = matCls, s = matSubj;
   var data = null;
   if(c === "x") data = STUDY.x;
+  else if(c === "grammar") data = STUDY.grammar;
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
@@ -415866,6 +415868,7 @@ function jumpEx(n, m){ var el = document.getElementById("ex-" + n + "-" + m); if
 function jumpExWords(n){ var el = document.getElementById("ex-" + n + "-words"); if(el) el.scrollIntoView(); }
 // Back from a material page: from a unit page go to the unit list, else to the subject page.
 function backFromMatPage(){
+  if(matCls === "grammar"){ matExUnit = 0; showGrammarLessons(); return; }
   if(matExUnit){
     matExUnit = 0;
     openMatPage('exsolutions');
