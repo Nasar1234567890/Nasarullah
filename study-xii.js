@@ -26314,7 +26314,7 @@ STUDY.xii = {
                 "q": "Find the limit of vector function r_vec(t) = (e^(3t) - 1) i_hat + (sqrt(3 + t) - sqrt(3))/(3t) j_hat + 1/(9t + 1) k_hat at t = 0."
               },
               {
-                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = |i_hat j_hat k_hat; t^2 -2 0; 2t 0 -5|\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
+                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = [[D]]i_hat,j_hat,k_hat;t^2,-2,0;2t,0,-5[[/D]]\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
                 "q": "If u_vec = t^2 i_hat - 2 j_hat; v_vec = 2t i_hat - 5 k_hat are vector functions and h = 3t is scalar function then find the following:\n(i) lim_{t->0} [u_vec(t) + v_vec(t)]\n(ii) lim_{t->1} [u_vec(t) . v_vec(t)]\n(iii) lim_{t->1} [u_vec(t) x v_vec(t)]\n(iv) lim_{t->5} [h u_vec(t)]"
               },
               {
@@ -61256,7 +61256,7 @@ STUDY.xii = {
                 "q": "وڪٽر فعل r_vec(t) = (e^(3t) - 1) i_hat + (sqrt(3 + t) - sqrt(3))/(3t) j_hat + 1/(9t + 1) k_hat جي حد لھو، t = 0 تي."
               },
               {
-                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = |i_hat j_hat k_hat; t^2 -2 0; 2t 0 -5|\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
+                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = [[D]]i_hat,j_hat,k_hat;t^2,-2,0;2t,0,-5[[/D]]\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
                 "q": "جيڪڏهن u_vec = t^2 i_hat - 2 j_hat؛ v_vec = 2t i_hat - 5 k_hat وڪٽر فعل آهن ۽ h = 3t اسڪيلر فعل آهي ته پوءِ هيٺيون لھو:\n(i) lim_{t->0} [u_vec(t) + v_vec(t)]\n(ii) lim_{t->1} [u_vec(t) . v_vec(t)]\n(iii) lim_{t->1} [u_vec(t) x v_vec(t)]\n(iv) lim_{t->5} [h u_vec(t)]"
               },
               {
