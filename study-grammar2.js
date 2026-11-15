@@ -991,7 +991,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "complement",
-        "sd": "تڪميل",
+        "sd": "مڪمل ڪندڙ",
         "syn": "the word or words needed to complete the predicate"
       },
       {
@@ -1011,7 +1011,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "solicitude",
-        "sd": "ڳڻتي",
+        "sd": "فڪر",
         "syn": "anxious care; worry about somebody"
       }
     ]
@@ -4160,7 +4160,7 @@ STUDY.grammar2 = {
             ]
           },
           {
-            "label": "State which of the following sentences are Compound, and which are Complex. In the case of a Compound sentence separate the co-ordinating clauses of which it is composed, and mention the conjunction, connecting these clauses. If a sentence is Complex divide it into its clauses, and state the Principal Clause and the Subordinate Clause or clauses. (Book Exercise 37 — answers from the Key.)",
+            "label": "State which of the following sentences are Compound, and which are Complex. In the case of a Compound sentence separate the co-ordinating clauses of which it is composed, and mention the conjunction, connecting these clauses. If a sentence is Complex divide it into its clauses, and state the Principal Clause and the Subordinate Clause or clauses. (Book Exercise 37 — answers from the Key.) (Q26: the Key calls it Compound, but the book's own Chapter 22 lists 'though' among the Subordinating Conjunctions, so the sentence is Complex.)",
             "items": [
               {
                 "q": "1. The horse reared and the rider was thrown.",
@@ -4264,7 +4264,7 @@ STUDY.grammar2 = {
               },
               {
                 "q": "26. He trudged on, though he was very tired.",
-                "a": "Compound Sentence\n(i) He trudged on (ii) he was very tired ('though')"
+                "a": "Complex Sentence\n(i) He trudged on (Main Clause) (ii) though he was very tired (Adverb Clause of Concession)"
               },
               {
                 "q": "27. There was one philosopher who chose to live in a tub.",
@@ -6893,7 +6893,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "modify",
-        "sd": "وضاحت ڪرڻ",
+        "sd": "محدود ڪرڻ",
         "syn": "to add meaning to a word, as an adverb modifies a verb"
       },
       {
@@ -7390,17 +7390,17 @@ STUDY.grammar2 = {
       },
       {
         "w": "adversative",
-        "sd": "مخالفت وارو",
+        "sd": "مخالف",
         "syn": "expressing opposition or contrast between two statements"
       },
       {
         "w": "alternative",
-        "sd": "متبادل وارو",
+        "sd": "متبادل",
         "syn": "expressing a choice between two alternatives"
       },
       {
         "w": "illative",
-        "sd": "نتيجو ڪڍندڙ",
+        "sd": "نتيجو ڏيکاريندڙ",
         "syn": "expressing an inference, a conclusion drawn from the first statement"
       },
       {
@@ -11841,7 +11841,7 @@ STUDY.grammar2 = {
         "name": "Exercise 94",
         "exercises": [
           {
-            "label": "Exercise 94 (Chapter 12) — from the book. (Miscellaneous) Combine each set of sentences into one Simple sentence. (Key partly legible; some answers worked from the rules.)",
+            "label": "Exercise 94 (Chapter 12) — from the book. (Miscellaneous) Combine each set of sentences into one Simple sentence. (Key partly legible; some answers worked from the rules.) (Q22: the book prints 'admirals', but Wellington was a general — the Key gives 'generals'.)",
             "items": [
               {
                 "q": "1. Homer was a great poet. He was born somewhere. Nobody knows where.",
@@ -11928,8 +11928,8 @@ STUDY.grammar2 = {
                 "a": "Napoleon, the first Emperor of the French and a great soldier, inspired his armies with the most war-like spirit, the cause of their many victories."
               },
               {
-                "q": "22. Wellington was the greatest of English admirals. Napoleon was the greatest of French soldiers. They were contemporaries. They were the heroes of their respective countries.",
-                "a": "Wellington, the greatest of English admirals, and Napoleon, the greatest of French soldiers, were contemporaries and the heroes of their respective countries."
+                "q": "22. Wellington was the greatest of English generals. Napoleon was the greatest of French soldiers. They were contemporaries. They were the heroes of their respective countries.",
+                "a": "Wellington, the greatest of English generals, and Napoleon, the greatest of French soldiers, were contemporaries and the heroes of their respective countries."
               },
               {
                 "q": "23. The miser laughed. He found himself to be richer by a rupee. He saw his adversary outwitted.",
@@ -16031,7 +16031,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "apposition",
-        "sd": "وضاحت",
+        "sd": "بدل",
         "syn": "when one noun is placed beside another to explain it"
       },
       {
@@ -17076,7 +17076,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "complement",
-        "sd": "تڪميل",
+        "sd": "مڪمل ڪندڙ",
         "syn": "the word or words that complete the sense of a verb like to be"
       },
       {
@@ -17441,7 +17441,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "modify",
-        "sd": "وضاحت ڪرڻ",
+        "sd": "محدود ڪرڻ",
         "syn": "to add to or change the meaning of a word"
       },
       {
@@ -20158,7 +20158,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "apposition",
-        "sd": "وضاحت",
+        "sd": "بدل",
         "syn": "when one noun is placed beside another to explain it"
       },
       {
@@ -22397,7 +22397,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "rhetorical question",
-        "sd": "بياني سوال",
+        "sd": "خطابي سوال",
         "syn": "a question asked for effect, not for an answer"
       }
     ]
@@ -22944,12 +22944,12 @@ STUDY.grammar2 = {
       },
       {
         "w": "complement",
-        "sd": "پورو ڪندڙ",
+        "sd": "مڪمل ڪندڙ",
         "syn": "a word or words that complete the sense of a verb"
       },
       {
         "w": "indirect object",
-        "sd": "اڻ سڌو مفعول",
+        "sd": "بالواسطو مفعول",
         "syn": "the person to whom, or for whom, something is given or told"
       },
       {
@@ -22964,7 +22964,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "gerund",
-        "sd": "اسم فاعل",
+        "sd": "اسم مصدر",
         "syn": "a verb form ending in -ing used as a noun"
       },
       {
@@ -22974,7 +22974,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "participle",
-        "sd": "اسم فاعل جو صفتي روپ",
+        "sd": "اسم فاعل",
         "syn": "a verb form used as an adjective, as in 'burning' or 'called'"
       },
       {
@@ -24182,7 +24182,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "subjunctive",
-        "sd": "شرطي ماضي",
+        "sd": "شرطي انداز",
         "syn": "the form of the verb used for imaginary or unreal things, as in 'If I were you'"
       },
       {
@@ -26044,7 +26044,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "terse",
-        "sd": "مختصر ۽ صاف",
+        "sd": "مختصر",
         "syn": "short and clear, with no waste of words"
       },
       {
@@ -26064,7 +26064,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "pen-name",
-        "sd": "قلعي نالو",
+        "sd": "تخلص",
         "syn": "a false name used by a writer instead of his real name"
       },
       {
@@ -26928,12 +26928,12 @@ STUDY.grammar2 = {
       },
       {
         "w": "compression",
-        "sd": "دٻاء",
+        "sd": "اختصار",
         "syn": "pressing a long passage into a short one"
       },
       {
         "w": "paraphrase",
-        "sd": "ٻيهر بيان",
+        "sd": "ٻئي لفظن ۾ بيان",
         "syn": "saying the same thing in different words, at the same length or longer"
       },
       {
@@ -27341,7 +27341,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "miniature",
-        "sd": "ننڍو",
+        "sd": "ننڍو نمونو",
         "syn": "very small; here, a very short essay"
       },
       {
@@ -28192,7 +28192,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "unity",
-        "sd": "اتحاد",
+        "sd": "وحدت",
         "syn": "being one whole; keeping to one theme"
       },
       {
@@ -29986,7 +29986,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "refrain",
-        "sd": "وراڻي",
+        "sd": "ورجايل سٽ",
         "syn": "a line or phrase repeated at the end of each verse"
       },
       {
@@ -30606,7 +30606,7 @@ STUDY.grammar2 = {
       },
       {
         "w": "verbose",
-        "sd": "ڊگهو",
+        "sd": "گهڻن لفظن وارو",
         "syn": "using too many words"
       },
       {
