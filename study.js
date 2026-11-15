@@ -424432,6 +424432,7 @@ function openExUnit(n, cls, subj){
   if(c === "x") data = STUDY.x;
   else if(c === "grammar") data = STUDY.grammar;
   else if(c === "grammar2") data = STUDY.grammar2;
+  else if(c === "stbb") data = stbbGuideData();
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
@@ -424493,14 +424494,14 @@ if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Urdu") >= 0 && S
   var si = document.getElementById("matSearchPage");
   if(si){ si.value = ""; try{ si.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
   document.getElementById("matcontent").innerHTML = h;
-  document.getElementById("matcontent").dir = ((s || "").indexOf("Sindhi") === 0 || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || (s || "") === "Gulzar-E-Urdu" || (s || "") === "Urdu" || (s || "") === "Asan Sindhi" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Urdu") >= 0)) ? "rtl" : "ltr";
-  document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees" || s === "Gulzar-E-Urdu" || s === "Urdu" || s === "Asan Sindhi" || (s || "").indexOf("Urdu Version") >= 0));
+  document.getElementById("matcontent").dir = ((s || "").indexOf("Sindhi") === 0 || ((s || "").indexOf("STBB Grammar") === 0 && window._stbbLang !== "en") || (s || "") === "Asan Urdu" || (s || "") === "Urdu Salees" || (s || "") === "Gulzar-E-Urdu" || (s || "") === "Urdu" || (s || "") === "Asan Sindhi" || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Science") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Social Studies") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("General Knowledge") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Islamiat") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Pakistan Studies") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Chemistry") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Physics") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Biology") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Computer Science") === 0 && (s || "").indexOf("Urdu") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Sindhi") >= 0) || ((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Urdu") >= 0)) ? "rtl" : "ltr";
+  document.getElementById("matcontent").classList.toggle("urdu-mat", (s === "Asan Urdu" || s === "Urdu Salees" || s === "Gulzar-E-Urdu" || s === "Urdu" || s === "Asan Sindhi" || (s || "").indexOf("Urdu Version") >= 0 || ((s || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "ur")));
   document.getElementById("matcontent").classList.toggle("pro-guide", true);
   document.getElementById("subjectpage").classList.add("hidden");
   var _gp = document.getElementById("grammarpage"); if(_gp) _gp.classList.add("hidden");
   mp.classList.remove("hidden");
   window.scrollTo(0, 0);
-  navPush({view:'material', cls:c, subj:s, tab:'exsolutions', unit:n});
+  navPush({view:'material', cls:c, subj:s, tab:'exsolutions', unit:n, stbbCls:(c==='stbb'?window._stbbCls:undefined), stbbLang:(c==='stbb'?window._stbbLang:undefined)});
 }
 // Break inline list items onto their own lines: (a) (b) ... (i) (ii) ... and 1. 2. ...
 function enumLines(t){
@@ -424526,7 +424527,7 @@ function exUnitHtml(n){
   if(!u) return "<p class=\"note\">Exercise solutions for this unit will be added here.</p>";
   var html = "";
   var _sci = ((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0 || (matSubj || "").indexOf("Computer Science") === 0 || (matSubj || "").indexOf("Science") === 0);
-  if(matSubj === "English" && u.display) html += "<p class=\"pro-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
+  if((matSubj === "English" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "en")) && u.display) html += "<p class=\"pro-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
   html += "<div class=\"pro-toc\"><div class=\"pro-toc-title\">In this unit</div>";
   if(u.lesson && u.lesson.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExLesson(" + n + ")\"><b>Lesson</b> Definitions, rules and examples</button>";
   (u.sections || []).forEach(function(sec, i){
@@ -424565,10 +424566,10 @@ function exUnitHtml(n){
     html += "</div>";
   });
   if(u.words && u.words.length){
-    var wordsTitle = ((matSubj || "").indexOf("Sindhi") === 0) ? "Difficult Words \u2014 Sindhi Meaning and Synonym" : (((matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || (matSubj || "") === "Gulzar-E-Urdu") ? "Difficult Words \u2014 Urdu Meaning and Synonym" : "Difficult Words \u2014 Sindhi Meaning and English Synonym");
+    var wordsTitle = ((matSubj || "").indexOf("Sindhi") === 0) ? "Difficult Words \u2014 Sindhi Meaning and Synonym" : (((matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || (matSubj || "") === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "ur")) ? "Difficult Words \u2014 Urdu Meaning and Synonym" : "Difficult Words \u2014 Sindhi Meaning and English Synonym");
     html += "<div class=\"review\" id=\"ex-" + n + "-words\"><div class=\"qq exsec\"><b><u>" + wordsTitle + "</u></b></div>";
-    var _enW = (matSubj === "English" || (matSubj || "").indexOf("English Version") >= 0);
-    var _urduW = (matSubj === "Asan Urdu" || matSubj === "Urdu Salees" || matSubj === "Gulzar-E-Urdu");
+    var _enW = (matSubj === "English" || (matSubj || "").indexOf("English Version") >= 0 || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "en"));
+    var _urduW = (matSubj === "Asan Urdu" || matSubj === "Urdu Salees" || matSubj === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "ur"));
     var _h3 = _enW ? "Sindhi meaning" : ((_urduW || matSubj === "Sindhi") ? "Synonym" : "English");
     html += "<table class=\"pro-words\"><thead><tr><th>Word</th><th>Meaning</th><th>" + _h3 + "</th></tr></thead><tbody>";
     u.words.forEach(function(w){
@@ -424588,6 +424589,7 @@ function jumpExWords(n){ var el = document.getElementById("ex-" + n + "-words");
 function backFromMatPage(){
   if(matCls === "grammar"){ matExUnit = 0; showGrammarLessons(); return; }
   if(matCls === "grammar2"){ matExUnit = 0; showGrammar2Lessons(); return; }
+  if(matCls === "stbb"){ matExUnit = 0; showStbbLessons(window._stbbCls, window._stbbLang); return; }
   if(matExUnit){
     matExUnit = 0;
     openMatPage('exsolutions');
