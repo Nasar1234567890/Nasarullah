@@ -393286,7 +393286,7 @@ var STUDY = {
                     "q": "1. What is respiration? Describe human respiratory system?"
                   },
                   {
-                    "a": "The respiratory system performs the following major functions:\n(i) Oxygen supplier: It provides a continuous supply of oxygen to all tissues.\n(ii) Withdrawal: Removal of the by-product, carbon dioxide (CO2).\n(iii) Exchange of Gas: The mechanism of gas exchange between the internal and external environment of the body is regulated through the respiratory surfaces.\n(iv) Humidifier: The respiratory system performs as a humidifier. It has the capability to humidify and keep the air warm which is inhaled from the external environment.\n(v) Filtering and cleaning the air: The hairs of the nasal cavity and its ciliated cells trap the dust particles and decontaminate the air, so that the air passing into the lungs is free of dust, dirt and germs.\n(Note: the chapter names four major functions (i)-(iv); the fifth, filtering, is the function of the nose and airways described in §14.1.4.)",
+                    "a": "The respiratory system performs the following major functions:\n(i) Oxygen supplier: It provides a continuous supply of oxygen to all tissues.\n(ii) Withdrawal: Removal of the by-product, carbon dioxide (CO2).\n(iii) Exchange of Gas: The mechanism of gas exchange between the internal and external environment of the body is regulated through the respiratory surfaces.\n(iv) Humidifier: The respiratory system performs as a humidifier. It has the capability to humidify and keep the air warm which is inhaled from the external environment.\n(v) Filtering and cleaning the air: The hairs of the nasal cavity and its ciliated cells trap the dust particles and decontaminate the air, so that the air passing into the lungs is free of dust, dirt and germs.\n(Note: the chapter names four major functions (i)-(iv); the fifth, filtering, is the function of the nose and airways described in Section 14.1.4.)",
                     "q": "2. What are the 5 main functions of the respiratory system?"
                   },
                   {
@@ -424500,6 +424500,21 @@ if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Urdu") >= 0 && S
   window.scrollTo(0, 0);
   navPush({view:'material', cls:c, subj:s, tab:'exsolutions', unit:n});
 }
+// Break inline list items onto their own lines: (a) (b) ... (i) (ii) ... and 1. 2. ...
+function enumLines(t){
+  if(!t) return t;
+  // Letter markers (a)-(h) and roman (i)-(vi), unless already at a line start.
+  t = t.replace(/\s*\(([a-h]|i|ii|iii|iv|v|vi)\)(?=[\s,]|$)/g, function(m, inner, off, str){
+    if(off === 0) return m;
+    if(/<br\s*\/?>$/.test(str.slice(0, off))) return m;
+    return '<br>(' + inner + ')';
+  });
+  // Numbered markers 1. 2. ... after a sentence end, colon or semicolon, followed by a capital, an Arabic letter or "(".
+  t = t.replace(/([.:;]\s+)(\d{1,2})\.(\s+)(?=[^a-z0-9\s.,;:!?])/g, function(m, pre, n, sp){
+    return pre + '<br>' + n + '.' + sp;
+  });
+  return t;
+}
 // Full HTML for one exercise-solution unit: shortcut links, then all sections, then difficult words.
 function exUnitHtml(n){
   var data = matData;
@@ -424521,7 +424536,7 @@ function exUnitHtml(n){
   if(u.lesson && u.lesson.length){
     html += "<div class=\"review\" id=\"ex-" + n + "-lesson\">";
     u.lesson.forEach(function(b){
-      var _t = escHtml(b.x || "").split("\n").join("<br>");
+      var _t = enumLines(escHtml(b.x || "").split("\n").join("<br>"));
       if(b.t === "h") html += "<div class=\"qq exsec\"><b><u>" + _t + "</u></b></div>";
       else if(b.t === "def") html += "<p class=\"note\"><b>Definition:</b> " + _t + "</p>";
       else if(b.t === "rule") html += "<p class=\"note\"><b>Rule:</b> " + _t + "</p>";
@@ -424537,8 +424552,8 @@ function exUnitHtml(n){
     (sec.exercises || []).forEach(function(g){
       html += "<div class=\"exhead" + (_isExtras ? " extopic" : "") + "\"><b>" + escHtml(g.label) + "</b></div>";
       (g.items || []).forEach(function(it, qi){
-        var _q = ltrGuideLines(tableHtml(_sci ? chemHtml(it.q) : escHtml(it.q)));
-        var _a = ltrGuideLines(tableHtml(_sci ? chemHtml(it.a) : escHtml(it.a)));
+        var _q = enumLines(ltrGuideLines(tableHtml(_sci ? chemHtml(it.q) : escHtml(it.q))));
+        var _a = enumLines(ltrGuideLines(tableHtml(_sci ? chemHtml(it.a) : escHtml(it.a))));
         var _qTag = (_q.indexOf('<table') !== -1) ? 'div' : 'p';
         var _aTag = (_a.indexOf('<table') !== -1) ? 'div' : 'p';
         html += "<" + _qTag + " class=\"note pro-q\">" + proQHtml(qi, _q) + "</" + _qTag + ">" + (it.dq ? diagramSvg(it.dq) : "") + "<" + _aTag + " class=\"note pro-a\"><span class=\"exa\">Ans:</span> " + _a + "</" + _aTag + ">" + (it.da ? diagramSvg(it.da) : "");

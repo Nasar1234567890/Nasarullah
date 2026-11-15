@@ -40,7 +40,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§1. A group of words that makes complete sense is called a sentence."
+        "x": "Section 1. A group of words that makes complete sense is called a sentence."
       },
       {
         "t": "ex",
@@ -52,7 +52,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§2. A sentence that makes a statement is called a declarative sentence. We also call it an assertive sentence."
+        "x": "Section 2. A sentence that makes a statement is called a declarative sentence. We also call it an assertive sentence."
       },
       {
         "t": "ex",
@@ -60,7 +60,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§2. A sentence that asks a question is called an interrogative sentence."
+        "x": "Section 2. A sentence that asks a question is called an interrogative sentence."
       },
       {
         "t": "ex",
@@ -68,7 +68,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§2. A sentence that gives a command or makes a request is called an imperative sentence."
+        "x": "Section 2. A sentence that gives a command or makes a request is called an imperative sentence."
       },
       {
         "t": "ex",
@@ -76,7 +76,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§2. A sentence that shows strong feeling is called an exclamatory sentence."
+        "x": "Section 2. A sentence that shows strong feeling is called an exclamatory sentence."
       },
       {
         "t": "ex",
@@ -126,7 +126,7 @@ STUDY.grammar = {
                 "q": "What is a sentence?"
               }
             ],
-            "label": "The rule (Wren & Martin, Chapter 1, §1)"
+            "label": "The rule (Wren & Martin, Chapter 1, Section 1)"
           }
         ],
         "name": "The Sentence — Chapter 1",
@@ -157,7 +157,7 @@ STUDY.grammar = {
                 "q": "What is an exclamatory sentence?"
               }
             ],
-            "label": "The four kinds (Wren & Martin, Chapter 1, §2)"
+            "label": "The four kinds (Wren & Martin, Chapter 1, Section 2)"
           }
         ],
         "name": "Kinds of Sentences",
@@ -281,15 +281,15 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§3. (a) The part that names the person or thing we are talking about is called the subject of the sentence."
+        "x": "Section 3. (a) The part that names the person or thing we are talking about is called the subject of the sentence."
       },
       {
         "t": "rule",
-        "x": "§3. (b) The part that tells something about the subject is called the predicate of the sentence."
+        "x": "Section 3. (b) The part that tells something about the subject is called the predicate of the sentence."
       },
       {
         "t": "rule",
-        "x": "§4. The subject of a sentence usually comes first, but sometimes it comes after the predicate."
+        "x": "Section 4. The subject of a sentence usually comes first, but sometimes it comes after the predicate."
       },
       {
         "t": "ex",
@@ -297,7 +297,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§5. In imperative sentences, we do not write the subject."
+        "x": "Section 5. In imperative sentences, we do not write the subject."
       },
       {
         "t": "ex",
@@ -328,7 +328,7 @@ STUDY.grammar = {
                 "q": "How many parts has every sentence?"
               }
             ],
-            "label": "The rule (Wren & Martin, Chapter 2, §3)"
+            "label": "The rule (Wren & Martin, Chapter 2, Section 3)"
           }
         ],
         "name": "The subject and the predicate",
@@ -343,7 +343,7 @@ STUDY.grammar = {
                 "q": "Where does the subject of a sentence usually come?"
               }
             ],
-            "label": "The place of the subject (Wren & Martin, Chapter 2, §4)"
+            "label": "The place of the subject (Wren & Martin, Chapter 2, Section 4)"
           }
         ],
         "name": "Where the subject comes",
@@ -358,7 +358,7 @@ STUDY.grammar = {
                 "q": "What happens to the subject in imperative sentences?"
               }
             ],
-            "label": "The understood subject (Wren & Martin, Chapter 2, §5)"
+            "label": "The understood subject (Wren & Martin, Chapter 2, Section 5)"
           }
         ],
         "name": "The subject in imperative sentences",
@@ -558,7 +558,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§6. A group of words that makes sense, but not complete sense, is called a phrase."
+        "x": "Section 6. A group of words that makes sense, but not complete sense, is called a phrase."
       },
       {
         "t": "ex",
@@ -566,7 +566,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§7. A group of words that is part of a sentence, and has a subject and a predicate, is called a clause."
+        "x": "Section 7. A group of words that is part of a sentence, and has a subject and a predicate, is called a clause."
       },
       {
         "t": "ex",
@@ -589,7 +589,7 @@ STUDY.grammar = {
                 "q": "Which groups of words are phrases in these sentences?"
               }
             ],
-            "label": "What is a phrase? (Wren & Martin, Chapter 3, §6)"
+            "label": "What is a phrase? (Wren & Martin, Chapter 3, Section 6)"
           }
         ],
         "name": "The phrase",
@@ -612,7 +612,7 @@ STUDY.grammar = {
                 "q": "Which groups of words are clauses in these sentences?"
               }
             ],
-            "label": "What is a clause? (Wren & Martin, Chapter 3, §7)"
+            "label": "What is a clause? (Wren & Martin, Chapter 3, Section 7)"
           }
         ],
         "name": "The clause",
@@ -709,11 +709,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§8. Words are divided into different kinds, called parts of speech, according to the work they do in a sentence. There are eight parts of speech: 1. noun, 2. adjective, 3. pronoun, 4. verb, 5. adverb, 6. preposition, 7. conjunction, 8. interjection."
+        "x": "Section 8. Words are divided into different kinds, called parts of speech, according to the work they do in a sentence. There are eight parts of speech: 1. noun, 2. adjective, 3. pronoun, 4. verb, 5. adverb, 6. preposition, 7. conjunction, 8. interjection."
       },
       {
         "t": "rule",
-        "x": "§9. A noun is a word used as the name of a person, place, or thing."
+        "x": "Section 9. A noun is a word used as the name of a person, place, or thing."
       },
       {
         "t": "ex",
@@ -725,7 +725,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§10. An adjective is a word that adds something to the meaning of a noun."
+        "x": "Section 10. An adjective is a word that adds something to the meaning of a noun."
       },
       {
         "t": "ex",
@@ -733,7 +733,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§11. A pronoun is a word used instead of a noun."
+        "x": "Section 11. A pronoun is a word used instead of a noun."
       },
       {
         "t": "ex",
@@ -741,7 +741,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§12. A verb is a word that shows an action, an event, or a state."
+        "x": "Section 12. A verb is a word that shows an action, an event, or a state."
       },
       {
         "t": "ex",
@@ -749,7 +749,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§13. An adverb is a word that adds something to the meaning of a verb, an adjective, or another adverb."
+        "x": "Section 13. An adverb is a word that adds something to the meaning of a verb, an adjective, or another adverb."
       },
       {
         "t": "ex",
@@ -757,7 +757,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§14. A preposition is a word used with a noun or a pronoun to show how that person or thing is related to something else."
+        "x": "Section 14. A preposition is a word used with a noun or a pronoun to show how that person or thing is related to something else."
       },
       {
         "t": "ex",
@@ -765,7 +765,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§15. A conjunction is a word used to join words or sentences."
+        "x": "Section 15. A conjunction is a word used to join words or sentences."
       },
       {
         "t": "ex",
@@ -773,7 +773,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§16. An interjection is a word that shows a sudden feeling."
+        "x": "Section 16. An interjection is a word that shows a sudden feeling."
       },
       {
         "t": "ex",
@@ -781,11 +781,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§17. Some modern grammars count determiners as parts of speech. Determiners are words like a, an, the, this, that, these, those, every, each, some, any, my, his, one, two, etc. They limit the meaning of the nouns that come after them. In this book, as in many old grammars, all determiners except a, an and the are counted as adjectives."
+        "x": "Section 17. Some modern grammars count determiners as parts of speech. Determiners are words like a, an, the, this, that, these, those, every, each, some, any, my, his, one, two, etc. They limit the meaning of the nouns that come after them. In this book, as in many old grammars, all determiners except a, an and the are counted as adjectives."
       },
       {
         "t": "rule",
-        "x": "§18. Words are divided into different classes according to the work they do in a sentence. So we cannot say which part of speech a word is until we see it used in a sentence."
+        "x": "Section 18. Words are divided into different classes according to the work they do in a sentence. So we cannot say which part of speech a word is until we see it used in a sentence."
       },
       {
         "t": "ex",
@@ -812,7 +812,7 @@ STUDY.grammar = {
                 "q": "How many parts of speech are there? Name them."
               }
             ],
-            "label": "What are parts of speech? (Wren & Martin, Chapter 4, §8)"
+            "label": "What are parts of speech? (Wren & Martin, Chapter 4, Section 8)"
           }
         ],
         "name": "The eight parts of speech",
@@ -831,7 +831,7 @@ STUDY.grammar = {
                 "q": "What does the word 'thing' include?"
               }
             ],
-            "label": "The noun (Wren & Martin, Chapter 4, §9)"
+            "label": "The noun (Wren & Martin, Chapter 4, Section 9)"
           }
         ],
         "name": "The noun",
@@ -846,7 +846,7 @@ STUDY.grammar = {
                 "q": "What is an adjective?"
               }
             ],
-            "label": "The adjective (Wren & Martin, Chapter 4, §10)"
+            "label": "The adjective (Wren & Martin, Chapter 4, Section 10)"
           }
         ],
         "name": "The adjective",
@@ -861,7 +861,7 @@ STUDY.grammar = {
                 "q": "What is a pronoun?"
               }
             ],
-            "label": "The pronoun (Wren & Martin, Chapter 4, §11)"
+            "label": "The pronoun (Wren & Martin, Chapter 4, Section 11)"
           }
         ],
         "name": "The pronoun",
@@ -876,7 +876,7 @@ STUDY.grammar = {
                 "q": "What is a verb?"
               }
             ],
-            "label": "The verb (Wren & Martin, Chapter 4, §12)"
+            "label": "The verb (Wren & Martin, Chapter 4, Section 12)"
           }
         ],
         "name": "The verb",
@@ -891,7 +891,7 @@ STUDY.grammar = {
                 "q": "What is an adverb?"
               }
             ],
-            "label": "The adverb (Wren & Martin, Chapter 4, §13)"
+            "label": "The adverb (Wren & Martin, Chapter 4, Section 13)"
           }
         ],
         "name": "The adverb",
@@ -906,7 +906,7 @@ STUDY.grammar = {
                 "q": "What is a preposition?"
               }
             ],
-            "label": "The preposition (Wren & Martin, Chapter 4, §14)"
+            "label": "The preposition (Wren & Martin, Chapter 4, Section 14)"
           }
         ],
         "name": "The preposition",
@@ -921,7 +921,7 @@ STUDY.grammar = {
                 "q": "What is a conjunction?"
               }
             ],
-            "label": "The conjunction (Wren & Martin, Chapter 4, §15)"
+            "label": "The conjunction (Wren & Martin, Chapter 4, Section 15)"
           }
         ],
         "name": "The conjunction",
@@ -936,7 +936,7 @@ STUDY.grammar = {
                 "q": "What is an interjection?"
               }
             ],
-            "label": "The interjection (Wren & Martin, Chapter 4, §16)"
+            "label": "The interjection (Wren & Martin, Chapter 4, Section 16)"
           }
         ],
         "name": "The interjection",
@@ -951,7 +951,7 @@ STUDY.grammar = {
                 "q": "What are determiners?"
               }
             ],
-            "label": "Determiners (Wren & Martin, Chapter 4, §17)"
+            "label": "Determiners (Wren & Martin, Chapter 4, Section 17)"
           }
         ],
         "name": "Determiners",
@@ -966,7 +966,7 @@ STUDY.grammar = {
                 "q": "Can the same word be used as different parts of speech?"
               }
             ],
-            "label": "The same word as different parts of speech (Wren & Martin, Chapter 4, §18)"
+            "label": "The same word as different parts of speech (Wren & Martin, Chapter 4, Section 18)"
           }
         ],
         "name": "The same word, different parts of speech",
@@ -1115,11 +1115,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§19. A noun is a word used as the name of a person, place, or thing."
+        "x": "Section 19. A noun is a word used as the name of a person, place, or thing."
       },
       {
         "t": "note",
-        "x": "§19. Note — The word thing means anything that we can think of."
+        "x": "Section 19. Note — The word thing means anything that we can think of."
       },
       {
         "t": "h",
@@ -1143,7 +1143,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§20. A Common Noun is a name we give to every person or thing of the same kind."
+        "x": "Section 20. A Common Noun is a name we give to every person or thing of the same kind."
       },
       {
         "t": "note",
@@ -1151,7 +1151,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§20. A Proper Noun is the name of one special person or place."
+        "x": "Section 20. A Proper Noun is the name of one special person or place."
       },
       {
         "t": "note",
@@ -1163,7 +1163,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§21. A Collective Noun is the name of a group of people or things. We take the whole group together and speak of it as one thing."
+        "x": "Section 21. A Collective Noun is the name of a group of people or things. We take the whole group together and speak of it as one thing."
       },
       {
         "t": "ex",
@@ -1175,7 +1175,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§22. An Abstract Noun is usually the name of a quality, an action, or a state. We think of it on its own, away from the person or thing that has it."
+        "x": "Section 22. An Abstract Noun is usually the name of a quality, an action, or a state. We think of it on its own, away from the person or thing that has it."
       },
       {
         "t": "ex",
@@ -1195,15 +1195,15 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§20. Common Nouns include Collective Nouns and Abstract Nouns."
+        "x": "Section 20. Common Nouns include Collective Nouns and Abstract Nouns."
       },
       {
         "t": "rule",
-        "x": "§20. Note 1 — We always write a Proper Noun with a capital letter at the start."
+        "x": "Section 20. Note 1 — We always write a Proper Noun with a capital letter at the start."
       },
       {
         "t": "rule",
-        "x": "§20. Note 2 — We sometimes use a Proper Noun as a Common Noun."
+        "x": "Section 20. Note 2 — We sometimes use a Proper Noun as a Common Noun."
       },
       {
         "t": "ex",
@@ -1211,7 +1211,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§23. (1) We make Abstract Nouns from Adjectives."
+        "x": "Section 23. (1) We make Abstract Nouns from Adjectives."
       },
       {
         "t": "ex",
@@ -1223,7 +1223,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§23. (2) We make Abstract Nouns from Verbs."
+        "x": "Section 23. (2) We make Abstract Nouns from Verbs."
       },
       {
         "t": "ex",
@@ -1231,7 +1231,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§23. (3) We make Abstract Nouns from Common Nouns."
+        "x": "Section 23. (3) We make Abstract Nouns from Common Nouns."
       },
       {
         "t": "ex",
@@ -1239,7 +1239,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§24. Countable nouns (or countables) are the names of things we can count."
+        "x": "Section 24. Countable nouns (or countables) are the names of things we can count."
       },
       {
         "t": "ex",
@@ -1247,7 +1247,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§24. Uncountable nouns (or uncountables) are the names of things we cannot count. They are mostly the names of substances and abstract things."
+        "x": "Section 24. Uncountable nouns (or uncountables) are the names of things we cannot count. They are mostly the names of substances and abstract things."
       },
       {
         "t": "ex",
@@ -1255,7 +1255,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§24. Countable nouns have plural forms. Uncountable nouns do not."
+        "x": "Section 24. Countable nouns have plural forms. Uncountable nouns do not."
       },
       {
         "t": "ex",
@@ -1272,7 +1272,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 5, §19)",
+       "label": "The rule (Wren & Martin, Chapter 5, Section 19)",
        "items": [
         {
          "q": "What is a noun?",
@@ -1291,7 +1291,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 5, §20)",
+       "label": "The rule (Wren & Martin, Chapter 5, Section 20)",
        "items": [
         {
          "q": "Asoka was a wise king.\nWhich noun is a Proper Noun, and which is a Common Noun?",
@@ -1318,7 +1318,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 5, §21)",
+       "label": "The rule (Wren & Martin, Chapter 5, Section 21)",
        "items": [
         {
          "q": "What is a Common Noun?",
@@ -1337,7 +1337,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 5, §22)",
+       "label": "The rule (Wren & Martin, Chapter 5, Section 22)",
        "items": [
         {
          "q": "Note 1 — How are Proper Nouns written?",
@@ -1360,7 +1360,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 5, §23)",
+       "label": "The rule (Wren & Martin, Chapter 5, Section 23)",
        "items": [
         {
          "q": "What is a Collective Noun?",
@@ -1387,7 +1387,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 5, §24)",
+       "label": "The rule (Wren & Martin, Chapter 5, Section 24)",
        "items": [
         {
          "q": "What is an Abstract Noun?",
@@ -1630,7 +1630,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§25. You know that living beings are male or female. Now look at these pairs of words."
+        "x": "Section 25. You know that living beings are male or female. Now look at these pairs of words."
       },
       {
         "t": "ex",
@@ -1642,7 +1642,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§25. A noun that names a male animal is in the Masculine Gender."
+        "x": "Section 25. A noun that names a male animal is in the Masculine Gender."
       },
       {
         "t": "note",
@@ -1650,7 +1650,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§25. A noun that names a female animal is in the Feminine Gender."
+        "x": "Section 25. A noun that names a female animal is in the Feminine Gender."
       },
       {
         "t": "h",
@@ -1658,7 +1658,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§26. A noun that names either a male or a female is in the Common Gender."
+        "x": "Section 26. A noun that names either a male or a female is in the Common Gender."
       },
       {
         "t": "ex",
@@ -1670,7 +1670,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§27. A noun that names a thing with no life is in the Neuter Gender. It is neither male nor female."
+        "x": "Section 27. A noun that names a thing with no life is in the Neuter Gender. It is neither male nor female."
       },
       {
         "t": "ex",
@@ -1690,7 +1690,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§28. We often speak of a thing with no life as if it were alive. Then we think of it as male or female."
+        "x": "Section 28. We often speak of a thing with no life as if it were alive. Then we think of it as male or female."
       },
       {
         "t": "h",
@@ -1698,7 +1698,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§29. We can make the Feminine of a noun in three ways."
+        "x": "Section 29. We can make the Feminine of a noun in three ways."
       },
       {
         "t": "h",
@@ -1706,7 +1706,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§28. We often use the Masculine Gender for things that show strength and violence."
+        "x": "Section 28. We often use the Masculine Gender for things that show strength and violence."
       },
       {
         "t": "ex",
@@ -1714,7 +1714,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§28. We sometimes use the Feminine Gender for things that show beauty, gentleness, and grace."
+        "x": "Section 28. We sometimes use the Feminine Gender for things that show beauty, gentleness, and grace."
       },
       {
         "t": "ex",
@@ -1726,7 +1726,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§28. We often speak of a ship as she."
+        "x": "Section 28. We often speak of a ship as she."
       },
       {
         "t": "ex",
@@ -1734,7 +1734,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§29. (1) We make the Feminine by using a completely different word."
+        "x": "Section 29. (1) We make the Feminine by using a completely different word."
       },
       {
         "t": "ex",
@@ -1742,7 +1742,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§29. (2) We make the Feminine by adding a syllable (-ess, -ine, -trix, -a, etc.)."
+        "x": "Section 29. (2) We make the Feminine by adding a syllable (-ess, -ine, -trix, -a, etc.)."
       },
       {
         "t": "ex",
@@ -1766,7 +1766,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§29. (3) We make the Feminine by placing a word before or after the noun."
+        "x": "Section 29. (3) We make the Feminine by placing a word before or after the noun."
       },
       {
         "t": "ex",
@@ -1783,7 +1783,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 6, §25)",
+       "label": "The rule (Wren & Martin, Chapter 6, Section 25)",
        "items": [
         {
          "q": "Compare the words in these pairs. What do you notice?\nboy — girl; lion — lioness; hero — heroine; cock-sparrow — hen-sparrow.",
@@ -1806,7 +1806,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 6, §26)",
+       "label": "The rule (Wren & Martin, Chapter 6, Section 26)",
        "items": [
         {
          "q": "What is the Common Gender?",
@@ -1825,7 +1825,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 6, §27)",
+       "label": "The rule (Wren & Martin, Chapter 6, Section 27)",
        "items": [
         {
          "q": "What is the Neuter Gender?",
@@ -1844,7 +1844,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 6, §28)",
+       "label": "The rule (Wren & Martin, Chapter 6, Section 28)",
        "items": [
         {
          "q": "What does it mean to personify a thing?",
@@ -1871,7 +1871,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 6, §29)",
+       "label": "The rule (Wren & Martin, Chapter 6, Section 29)",
        "items": [
         {
          "q": "How many ways are there of forming the Feminine of Nouns?",
@@ -2004,7 +2004,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§30. Look at how the second word in each pair changes its form."
+        "x": "Section 30. Look at how the second word in each pair changes its form."
       },
       {
         "t": "ex",
@@ -2016,7 +2016,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§30. A noun that names one person or thing is in the Singular Number."
+        "x": "Section 30. A noun that names one person or thing is in the Singular Number."
       },
       {
         "t": "ex",
@@ -2024,7 +2024,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§30. A noun that names more than one person or thing is in the Plural Number."
+        "x": "Section 30. A noun that names more than one person or thing is in the Plural Number."
       },
       {
         "t": "ex",
@@ -2044,7 +2044,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (i) We usually make the plural of a noun by adding -s to the singular."
+        "x": "Section 31. (i) We usually make the plural of a noun by adding -s to the singular."
       },
       {
         "t": "ex",
@@ -2052,7 +2052,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (ii) Nouns that end in -s, -sh, -ch (soft), or -x make their plural by adding -es to the singular."
+        "x": "Section 31. (ii) Nouns that end in -s, -sh, -ch (soft), or -x make their plural by adding -es to the singular."
       },
       {
         "t": "ex",
@@ -2060,7 +2060,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (iii) Most nouns that end in -o also make their plural by adding -es to the singular."
+        "x": "Section 31. (iii) Most nouns that end in -o also make their plural by adding -es to the singular."
       },
       {
         "t": "ex",
@@ -2068,7 +2068,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (iv) A few nouns that end in -o only add -s."
+        "x": "Section 31. (iv) A few nouns that end in -o only add -s."
       },
       {
         "t": "ex",
@@ -2076,7 +2076,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (v) Nouns that end in -y, and have a consonant before the -y, make their plural by changing -y to -i and adding -es."
+        "x": "Section 31. (v) Nouns that end in -y, and have a consonant before the -y, make their plural by changing -y to -i and adding -es."
       },
       {
         "t": "ex",
@@ -2084,7 +2084,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (vi) These nouns that end in -f or -fe make their plural by changing -f or -fe to v and adding -es."
+        "x": "Section 31. (vi) These nouns that end in -f or -fe make their plural by changing -f or -fe to v and adding -es."
       },
       {
         "t": "ex",
@@ -2092,7 +2092,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (vi) The nouns dwarf, hoof, scarf, and wharf can take -s or -ves in the plural."
+        "x": "Section 31. (vi) The nouns dwarf, hoof, scarf, and wharf can take -s or -ves in the plural."
       },
       {
         "t": "ex",
@@ -2100,7 +2100,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§31. (vi) Other words that end in -f or -fe only add -s."
+        "x": "Section 31. (vi) Other words that end in -f or -fe only add -s."
       },
       {
         "t": "ex",
@@ -2108,7 +2108,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§32. A few nouns make their plural by changing the vowel inside the singular word."
+        "x": "Section 32. A few nouns make their plural by changing the vowel inside the singular word."
       },
       {
         "t": "ex",
@@ -2116,7 +2116,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§33. A few nouns make their plural by adding -en to the singular."
+        "x": "Section 33. A few nouns make their plural by adding -en to the singular."
       },
       {
         "t": "ex",
@@ -2124,11 +2124,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§33. The plural of fish is fish or fishes. In current English, fish is the usual plural. We can use fishes to talk about different kinds of fish."
+        "x": "Section 33. The plural of fish is fish or fishes. In current English, fish is the usual plural. We can use fishes to talk about different kinds of fish."
       },
       {
         "t": "rule",
-        "x": "§34. Some nouns have the same word for the singular and the plural."
+        "x": "Section 34. Some nouns have the same word for the singular and the plural."
       },
       {
         "t": "ex",
@@ -2136,7 +2136,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§35. Some nouns are used only in the plural."
+        "x": "Section 35. Some nouns are used only in the plural."
       },
       {
         "t": "ex",
@@ -2144,7 +2144,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§36. Some nouns were singular long ago, but now we use them in the plural."
+        "x": "Section 36. Some nouns were singular long ago, but now we use them in the plural."
       },
       {
         "t": "ex",
@@ -2152,7 +2152,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§37. These nouns look plural, but they are in fact singular."
+        "x": "Section 37. These nouns look plural, but they are in fact singular."
       },
       {
         "t": "ex",
@@ -2160,7 +2160,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§37. (continued) ‘Means’ is used as singular or plural. But when it means ‘wealth’, it is always plural."
+        "x": "Section 37. (continued) ‘Means’ is used as singular or plural. But when it means ‘wealth’, it is always plural."
       },
       {
         "t": "ex",
@@ -2168,7 +2168,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§38. Some Collective Nouns look singular, but we always use them as plurals."
+        "x": "Section 38. Some Collective Nouns look singular, but we always use them as plurals."
       },
       {
         "t": "ex",
@@ -2184,7 +2184,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§39. A Compound Noun usually makes its plural by adding -s to the main word."
+        "x": "Section 39. A Compound Noun usually makes its plural by adding -s to the main word."
       },
       {
         "t": "ex",
@@ -2200,7 +2200,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§40. Many nouns from other languages keep their own plural form."
+        "x": "Section 40. Many nouns from other languages keep their own plural form."
       },
       {
         "t": "ex",
@@ -2224,7 +2224,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§41. Some nouns have two plural forms, and each form has a different meaning."
+        "x": "Section 41. Some nouns have two plural forms, and each form has a different meaning."
       },
       {
         "t": "ex",
@@ -2232,7 +2232,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§42. Some nouns have two meanings in the singular, but only one in the plural."
+        "x": "Section 42. Some nouns have two meanings in the singular, but only one in the plural."
       },
       {
         "t": "ex",
@@ -2240,7 +2240,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§43. Some nouns have one meaning in the singular, but two in the plural."
+        "x": "Section 43. Some nouns have one meaning in the singular, but two in the plural."
       },
       {
         "t": "ex",
@@ -2248,7 +2248,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§44. Some nouns have a different meaning in the singular and in the plural."
+        "x": "Section 44. Some nouns have a different meaning in the singular and in the plural."
       },
       {
         "t": "ex",
@@ -2256,7 +2256,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§45. We make letters, figures, and other signs plural by adding an apostrophe and s."
+        "x": "Section 45. We make letters, figures, and other signs plural by adding an apostrophe and s."
       },
       {
         "t": "ex",
@@ -2264,11 +2264,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§46. It is usual to say — The Miss Smiths. (Singular, Miss Smith.)"
+        "x": "Section 46. It is usual to say — The Miss Smiths. (Singular, Miss Smith.)"
       },
       {
         "t": "rule",
-        "x": "§47. Abstract Nouns have no plural. We cannot count them."
+        "x": "Section 47. Abstract Nouns have no plural. We cannot count them."
       },
       {
         "t": "ex",
@@ -2276,7 +2276,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§47. When we do use such words in the plural, we use them as countables."
+        "x": "Section 47. When we do use such words in the plural, we use them as countables."
       },
       {
         "t": "ex",
@@ -2284,7 +2284,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§47. Names of substances are also uncountables, so we do not use them in the plural."
+        "x": "Section 47. Names of substances are also uncountables, so we do not use them in the plural."
       },
       {
         "t": "ex",
@@ -2301,7 +2301,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §30)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 30)",
        "items": [
         {
          "q": "Notice the change of form in the second word of each pair:\ntree — trees; box — boxes; ox — oxen; man — men.\nWhat do you notice?",
@@ -2324,7 +2324,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §31)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 31)",
        "items": [
         {
          "q": "(i) How is the Plural of nouns generally formed?",
@@ -2359,7 +2359,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §32)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 32)",
        "items": [
         {
          "q": "Which nouns form their plural by changing the inside vowel of the singular?",
@@ -2374,7 +2374,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §33)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 33)",
        "items": [
         {
          "q": "Which nouns form their plural by adding -en to the singular?",
@@ -2393,7 +2393,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §34)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 34)",
        "items": [
         {
          "q": "Which nouns have the singular and the plural alike?",
@@ -2416,7 +2416,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §35)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 35)",
        "items": [
         {
          "q": "(1) Name the instruments which have two parts forming a kind of pair.",
@@ -2439,7 +2439,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §36)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 36)",
        "items": [
         {
          "q": "Which nouns, originally singular, are now generally used in the plural?",
@@ -2458,7 +2458,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §37)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 37)",
        "items": [
         {
          "q": "(1) Names of subjects — which nouns look plural but are in fact singular? Give an example.",
@@ -2485,7 +2485,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §38)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 38)",
        "items": [
         {
          "q": "Is ‘means’ singular or plural?",
@@ -2504,7 +2504,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §39)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 39)",
        "items": [
         {
          "q": "Which Collective Nouns, though singular in form, are always used as plurals?",
@@ -2527,7 +2527,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §40)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 40)",
        "items": [
         {
          "q": "Give the plural of these compound nouns:\nCommander-in-chief; Coat-of-mail; Son-in-law; Daughter-in-law; Step-son; Step-daughter; Maid-servant; Man-servant; Passer-by; Looker-on; Man-of-war.",
@@ -2554,7 +2554,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §41)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 41)",
        "items": [
         {
          "q": "What are the two plurals of ‘brother’, and what does each mean?",
@@ -2585,7 +2585,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §42)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 42)",
        "items": [
         {
          "q": "What does ‘light’ mean in the singular, and what does ‘lights’ mean in the plural?",
@@ -2612,7 +2612,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §43)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 43)",
        "items": [
         {
          "q": "What does ‘colour’ mean in the singular, and what does ‘colours’ mean in the plural?",
@@ -2671,7 +2671,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §44)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 44)",
        "items": [
         {
          "q": "What do ‘air’ and ‘airs’ mean?",
@@ -2710,7 +2710,7 @@ STUDY.grammar = {
      "num": "16",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §45)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 45)",
        "items": [
         {
          "q": "How are letters, figures and other symbols made plural?",
@@ -2729,7 +2729,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §46)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 46)",
        "items": [
         {
          "q": "What is the plural of ‘Miss Smith’?",
@@ -2744,7 +2744,7 @@ STUDY.grammar = {
      "num": "18",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 7, §47)",
+       "label": "The rule (Wren & Martin, Chapter 7, Section 47)",
        "items": [
         {
          "q": "Have Abstract Nouns a plural?",
@@ -2869,7 +2869,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§48. Look at these sentences."
+        "x": "Section 48. Look at these sentences."
       },
       {
         "t": "ex",
@@ -2897,11 +2897,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§49. When a noun (or pronoun) is the Subject of a verb, it is in the Nominative Case."
+        "x": "Section 49. When a noun (or pronoun) is the Subject of a verb, it is in the Nominative Case."
       },
       {
         "t": "def",
-        "x": "§49. When a noun (or pronoun) is the Object of a verb, it is in the Objective (or Accusative) Case."
+        "x": "Section 49. When a noun (or pronoun) is the Object of a verb, it is in the Objective (or Accusative) Case."
       },
       {
         "t": "h",
@@ -2909,7 +2909,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§52. Look at these two sentences."
+        "x": "Section 52. Look at these two sentences."
       },
       {
         "t": "ex",
@@ -2925,11 +2925,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§52. The noun Hari is called the Indirect Object of the verb gave."
+        "x": "Section 52. The noun Hari is called the Indirect Object of the verb gave."
       },
       {
         "t": "def",
-        "x": "§52. The noun ball, the ordinary Object, is called the Direct Object."
+        "x": "Section 52. The noun ball, the ordinary Object, is called the Direct Object."
       },
       {
         "t": "h",
@@ -2937,7 +2937,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§53. Look at this sentence."
+        "x": "Section 53. Look at this sentence."
       },
       {
         "t": "ex",
@@ -2949,7 +2949,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§53. We change the form of the noun Rama to Rama’s to show that something belongs to Rama. So we say the noun Rama’s is in the Possessive (or Genitive) Case."
+        "x": "Section 53. We change the form of the noun Rama to Rama’s to show that something belongs to Rama. So we say the noun Rama’s is in the Possessive (or Genitive) Case."
       },
       {
         "t": "p",
@@ -2961,7 +2961,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§54. The Possessive Case does not always show possession. We also use it to show who wrote it, where it comes from, and other things."
+        "x": "Section 54. The Possessive Case does not always show possession. We also use it to show who wrote it, where it comes from, and other things."
       },
       {
         "t": "ex",
@@ -2973,7 +2973,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§66. Read this sentence."
+        "x": "Section 66. Read this sentence."
       },
       {
         "t": "ex",
@@ -2985,7 +2985,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§66. When one noun comes after another noun to tell us more about it, we say the second noun is in apposition to the first noun."
+        "x": "Section 66. When one noun comes after another noun to tell us more about it, we say the second noun is in apposition to the first noun."
       },
       {
         "t": "note",
@@ -3001,15 +3001,15 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§49. To find the Nominative, put Who? or What? before the verb."
+        "x": "Section 49. To find the Nominative, put Who? or What? before the verb."
       },
       {
         "t": "rule",
-        "x": "§49. To find the Accusative, put Whom? or What? before the verb and its subject."
+        "x": "Section 49. To find the Accusative, put Whom? or What? before the verb and its subject."
       },
       {
         "t": "rule",
-        "x": "§50. A noun that comes after a preposition is also in the Accusative Case."
+        "x": "Section 50. A noun that comes after a preposition is also in the Accusative Case."
       },
       {
         "t": "ex",
@@ -3017,7 +3017,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§51. In English, nouns have the same form in the Nominative and in the Accusative."
+        "x": "Section 51. In English, nouns have the same form in the Nominative and in the Accusative."
       },
       {
         "t": "ex",
@@ -3025,15 +3025,15 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§51. The Nominative usually comes before the verb, and the Accusative after the verb. So we know them by the order of the words, or by the sense."
+        "x": "Section 51. The Nominative usually comes before the verb, and the Accusative after the verb. So we know them by the order of the words, or by the sense."
       },
       {
         "t": "rule",
-        "x": "§52. The Indirect Object comes just after the verb and before the Direct Object."
+        "x": "Section 52. The Indirect Object comes just after the verb and before the Direct Object."
       },
       {
         "t": "rule",
-        "x": "§52. The Indirect Object of a verb names the person to whom we give something, or for whom we do something."
+        "x": "Section 52. The Indirect Object of a verb names the person to whom we give something, or for whom we do something."
       },
       {
         "t": "note",
@@ -3049,7 +3049,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§55. (1) When the noun is Singular, we make the Possessive Case by adding ’s to the noun."
+        "x": "Section 55. (1) When the noun is Singular, we make the Possessive Case by adding ’s to the noun."
       },
       {
         "t": "ex",
@@ -3065,7 +3065,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§55. (2) When the noun is Plural and ends in s, we make the Possessive Case by adding only an apostrophe."
+        "x": "Section 55. (2) When the noun is Plural and ends in s, we make the Possessive Case by adding only an apostrophe."
       },
       {
         "t": "ex",
@@ -3073,7 +3073,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§55. (3) When the noun is Plural but does not end in s, we make the Possessive by adding ’s."
+        "x": "Section 55. (3) When the noun is Plural but does not end in s, we make the Possessive by adding ’s."
       },
       {
         "t": "ex",
@@ -3081,7 +3081,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§56. When a noun or a title is made of several words, we put the Possessive sign only on the last word."
+        "x": "Section 56. When a noun or a title is made of several words, we put the Possessive sign only on the last word."
       },
       {
         "t": "ex",
@@ -3089,7 +3089,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§57. When two nouns are in apposition, we put the possessive sign only on the second noun."
+        "x": "Section 57. When two nouns are in apposition, we put the possessive sign only on the second noun."
       },
       {
         "t": "ex",
@@ -3097,7 +3097,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§58. When two nouns are closely joined, we put the possessive only on the second noun."
+        "x": "Section 58. When two nouns are closely joined, we put the possessive only on the second noun."
       },
       {
         "t": "ex",
@@ -3105,7 +3105,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§59. When two or more joined nouns show separate possession, each noun must take the possessive sign."
+        "x": "Section 59. When two or more joined nouns show separate possession, each noun must take the possessive sign."
       },
       {
         "t": "ex",
@@ -3117,7 +3117,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§60. Now we use the Possessive Case mostly with the names of living things."
+        "x": "Section 60. Now we use the Possessive Case mostly with the names of living things."
       },
       {
         "t": "ex",
@@ -3125,7 +3125,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§61. We also use the Possessive with the names of things we speak of as people."
+        "x": "Section 61. We also use the Possessive with the names of things we speak of as people."
       },
       {
         "t": "ex",
@@ -3133,11 +3133,11 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "* When we give a thing with no life the qualities of a person, we say it is personified. (See § 28)."
+        "x": "* When we give a thing with no life the qualities of a person, we say it is personified. (See Section 28)."
       },
       {
         "t": "rule",
-        "x": "§62. We also use the Possessive with nouns that tell time, space, or weight."
+        "x": "Section 62. We also use the Possessive with nouns that tell time, space, or weight."
       },
       {
         "t": "ex",
@@ -3145,7 +3145,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§63. We also use these common phrases in the Possessive Case."
+        "x": "Section 63. We also use these common phrases in the Possessive Case."
       },
       {
         "t": "ex",
@@ -3153,7 +3153,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§64. We can use the Possessive of a proper name, or of a trade, a profession, or a relationship, to mean a building or a place of work (church, house, school, college, shop, hospital, theatre, etc.)."
+        "x": "Section 64. We can use the Possessive of a proper name, or of a trade, a profession, or a relationship, to mean a building or a place of work (church, house, school, college, shop, hospital, theatre, etc.)."
       },
       {
         "t": "ex",
@@ -3161,7 +3161,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§65. If you are not sure whether to use the Possessive Case or of, remember this: as a general rule, we use the Possessive Case to show possession or ownership."
+        "x": "Section 65. If you are not sure whether to use the Possessive Case or of, remember this: as a general rule, we use the Possessive Case to show possession or ownership."
       },
       {
         "t": "ex",
@@ -3177,7 +3177,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§66. A noun in apposition is in the same case as the noun it tells us about."
+        "x": "Section 66. A noun in apposition is in the same case as the noun it tells us about."
       },
       {
         "t": "ex",
@@ -3194,7 +3194,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §48)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 48)",
        "items": [
         {
          "q": "Examine these sentences:\n1. John threw a stone.\n2. The horse kicked the boy.\nIn sentence 1, which noun is the Subject, and what is the Predicate?",
@@ -3217,7 +3217,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §49)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 49)",
        "items": [
         {
          "q": "When is a noun said to be in the Nominative Case?",
@@ -3240,7 +3240,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §50)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 50)",
        "items": [
         {
          "q": "A noun which comes after a preposition is in which case? Give an example.",
@@ -3259,7 +3259,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §51)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 51)",
        "items": [
         {
          "q": "Read these sentences:\nHari broke the window. (Object)\nThe window was broken. (Subject)\nWhat do you notice about the noun ‘window’?",
@@ -3282,7 +3282,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §52)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 52)",
        "items": [
         {
          "q": "Compare —\n1. Rama gave a ball.\n2. Rama gave Hari a ball.\nWhich noun is the Direct Object, and which is the Indirect Object?",
@@ -3309,7 +3309,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §53)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 53)",
        "items": [
         {
          "q": "Examine the sentence: This is Rama’s umbrella.\nWhat does ‘Rama’s umbrella’ mean, and what case is ‘Rama’s’ in?",
@@ -3328,7 +3328,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §54)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 54)",
        "items": [
         {
          "q": "Does the Possessive Case always denote possession? Give examples of its other uses.",
@@ -3347,7 +3347,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §55)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 55)",
        "items": [
         {
          "q": "(1) How is the Possessive Case formed when the noun is Singular?",
@@ -3374,7 +3374,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §56)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 56)",
        "items": [
         {
          "q": "When a noun or a title consists of several words, where is the Possessive sign attached?",
@@ -3389,7 +3389,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §57)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 57)",
        "items": [
         {
          "q": "When two nouns are in apposition, where is the possessive sign put?",
@@ -3404,7 +3404,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §58)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 58)",
        "items": [
         {
          "q": "When two nouns are closely connected, where is the possessive put?",
@@ -3419,7 +3419,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §59)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 59)",
        "items": [
         {
          "q": "When two or more connected nouns imply separate possession, what must be done?",
@@ -3434,7 +3434,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §60)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 60)",
        "items": [
         {
          "q": "With what names is the Possessive Case now chiefly used? Give examples.",
@@ -3453,7 +3453,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §61)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 61)",
        "items": [
         {
          "q": "With what other names is the Possessive used? Give examples.",
@@ -3468,7 +3468,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §62)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 62)",
        "items": [
         {
          "q": "With what nouns denoting time, space, or weight is the Possessive used?",
@@ -3483,7 +3483,7 @@ STUDY.grammar = {
      "num": "16",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §63)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 63)",
        "items": [
         {
          "q": "Name some common phrases in the Possessive Case.",
@@ -3498,7 +3498,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §64)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 64)",
        "items": [
         {
          "q": "How may the possessive of a proper name, or of a noun denoting a trade, profession, or relationship, be used? Give examples.",
@@ -3517,7 +3517,7 @@ STUDY.grammar = {
      "num": "18",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §65)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 65)",
        "items": [
         {
          "q": "When you are in doubt whether to use a noun in the possessive case or with the preposition ‘of’, what should you remember?",
@@ -3540,7 +3540,7 @@ STUDY.grammar = {
      "num": "19",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 8, §66)",
+       "label": "The rule (Wren & Martin, Chapter 8, Section 66)",
        "items": [
         {
          "q": "Read the sentence: Rama, our captain, made fifty runs.\nWhat is a noun in apposition?",
@@ -3556,7 +3556,7 @@ STUDY.grammar = {
         },
         {
          "q": "What does ‘personified’ mean?",
-         "a": "When an inanimate thing has ascribed to it the attributes of a person, it is said to be personified. (See § 28)."
+         "a": "When an inanimate thing has ascribed to it the attributes of a person, it is said to be personified. (See Section 28)."
         }
        ]
       }
@@ -3687,11 +3687,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§67 An Adjective is a word used with a noun to describe or point out the person, animal, place or thing the noun names, or to tell its number or quantity."
+        "x": "Section 67 An Adjective is a word used with a noun to describe or point out the person, animal, place or thing the noun names, or to tell its number or quantity."
       },
       {
         "t": "def",
-        "x": "§67 So we may define an Adjective as a word used with a noun to add something to its meaning."
+        "x": "Section 67 So we may define an Adjective as a word used with a noun to add something to its meaning."
       },
       {
         "t": "note",
@@ -3703,7 +3703,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§68 When an Adjective is used with the noun, as an epithet or attribute, it is said to be used Attributively."
+        "x": "Section 68 When an Adjective is used with the noun, as an epithet or attribute, it is said to be used Attributively."
       },
       {
         "t": "ex",
@@ -3711,7 +3711,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§68 When an Adjective is used with the verb, and forms part of the Predicate, it is said to be used Predicatively."
+        "x": "Section 68 When an Adjective is used with the verb, and forms part of the Predicate, it is said to be used Predicatively."
       },
       {
         "t": "ex",
@@ -3735,7 +3735,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§69 Adjectives of Quality (or Descriptive Adjectives) show the kind or quality of a person or thing."
+        "x": "Section 69 Adjectives of Quality (or Descriptive Adjectives) show the kind or quality of a person or thing."
       },
       {
         "t": "ex",
@@ -3751,7 +3751,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§70 Adjectives of Quantity show how much of a thing is meant."
+        "x": "Section 70 Adjectives of Quantity show how much of a thing is meant."
       },
       {
         "t": "ex",
@@ -3763,7 +3763,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§71 Adjectives of Number (or Numeral Adjectives) show how many persons or things are meant, or in what order a person or thing stands."
+        "x": "Section 71 Adjectives of Number (or Numeral Adjectives) show how many persons or things are meant, or in what order a person or thing stands."
       },
       {
         "t": "ex",
@@ -3775,11 +3775,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§72 Adjectives of Number (or Numeral Adjectives) are of three kinds: (i) Definite Numeral Adjectives, (ii) Indefinite Numeral Adjectives, and (iii) Distributive Numeral Adjectives."
+        "x": "Section 72 Adjectives of Number (or Numeral Adjectives) are of three kinds: (i) Definite Numeral Adjectives, (ii) Indefinite Numeral Adjectives, and (iii) Distributive Numeral Adjectives."
       },
       {
         "t": "def",
-        "x": "§72 (i) Definite Numeral Adjectives denote an exact number."
+        "x": "Section 72 (i) Definite Numeral Adjectives denote an exact number."
       },
       {
         "t": "ex",
@@ -3787,11 +3787,11 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "A Cardinal denotes how many, and an Ordinal the order of things in a series. Ordinals really do the work of Demonstrative Adjectives. See §74."
+        "x": "A Cardinal denotes how many, and an Ordinal the order of things in a series. Ordinals really do the work of Demonstrative Adjectives. See Section 74."
       },
       {
         "t": "def",
-        "x": "§72 (ii) Indefinite Numeral Adjectives do not denote an exact number."
+        "x": "Section 72 (ii) Indefinite Numeral Adjectives do not denote an exact number."
       },
       {
         "t": "ex",
@@ -3799,7 +3799,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§72 (iii) Distributive Numeral Adjectives refer to each one of a number."
+        "x": "Section 72 (iii) Distributive Numeral Adjectives refer to each one of a number."
       },
       {
         "t": "ex",
@@ -3811,7 +3811,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§73 The same Adjective may be classed as of Quantity or Number, according to its use."
+        "x": "Section 73 The same Adjective may be classed as of Quantity or Number, according to its use."
       },
       {
         "t": "ex",
@@ -3819,7 +3819,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§74 Demonstrative Adjectives point out which person or thing is meant."
+        "x": "Section 74 Demonstrative Adjectives point out which person or thing is meant."
       },
       {
         "t": "ex",
@@ -3835,7 +3835,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§75 What, which and whose, when they are used with nouns to ask questions, are called Interrogative Adjectives."
+        "x": "Section 75 What, which and whose, when they are used with nouns to ask questions, are called Interrogative Adjectives."
       },
       {
         "t": "ex",
@@ -3847,7 +3847,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§76 In the following sentences, the words own and very are used as Emphasizing Adjectives."
+        "x": "Section 76 In the following sentences, the words own and very are used as Emphasizing Adjectives."
       },
       {
         "t": "ex",
@@ -3855,7 +3855,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§77 The word what is sometimes used as an Exclamatory Adjective."
+        "x": "Section 77 The word what is sometimes used as an Exclamatory Adjective."
       },
       {
         "t": "ex",
@@ -3863,7 +3863,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§78 This and that are the only Adjectives which are inflected or changed in form to show number."
+        "x": "Section 78 This and that are the only Adjectives which are inflected or changed in form to show number."
       },
       {
         "t": "ex",
@@ -3879,7 +3879,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§79 (i) Many Adjectives are formed from Nouns."
+        "x": "Section 79 (i) Many Adjectives are formed from Nouns."
       },
       {
         "t": "ex",
@@ -3887,7 +3887,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§79 (ii) Some Adjectives are formed from Verbs."
+        "x": "Section 79 (ii) Some Adjectives are formed from Verbs."
       },
       {
         "t": "ex",
@@ -3895,7 +3895,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§79 (iii) Some Adjectives are formed from other Adjectives."
+        "x": "Section 79 (iii) Some Adjectives are formed from other Adjectives."
       },
       {
         "t": "ex",
@@ -3912,7 +3912,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §67)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 67)",
        "items": [
         {
          "q": "What is an Adjective?",
@@ -3943,7 +3943,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §68)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 68)",
        "items": [
         {
          "q": "When is an Adjective said to be used Attributively?",
@@ -3966,7 +3966,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §69)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 69)",
        "items": [
         {
          "q": "What do Adjectives of Quality show?",
@@ -3989,7 +3989,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §70)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 70)",
        "items": [
         {
          "q": "What do Adjectives of Quantity show?",
@@ -4008,7 +4008,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §71)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 71)",
        "items": [
         {
          "q": "What do Adjectives of Number show?",
@@ -4027,11 +4027,11 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §72)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 72)",
        "items": [
         {
          "q": "What are Definite Numeral Adjectives?",
-         "a": "Definite Numeral Adjectives denote an exact number; as,\nOne, two, three, etc. These are called Cardinals.\nFirst, second, third, etc. These are called Ordinals.\n[A Cardinal denotes how many, and an Ordinal the order of things in a series. It will be seen that Ordinals really do the work of Demonstrative Adjectives. See §74.]"
+         "a": "Definite Numeral Adjectives denote an exact number; as,\nOne, two, three, etc. These are called Cardinals.\nFirst, second, third, etc. These are called Ordinals.\n[A Cardinal denotes how many, and an Ordinal the order of things in a series. It will be seen that Ordinals really do the work of Demonstrative Adjectives. See Section 74.]"
         },
         {
          "q": "What are Indefinite Numeral Adjectives?",
@@ -4050,7 +4050,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §73)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 73)",
        "items": [
         {
          "q": "Can the same Adjective be of Quantity or of Number?",
@@ -4069,7 +4069,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §74)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 74)",
        "items": [
         {
          "q": "What do Demonstrative Adjectives do?",
@@ -4092,7 +4092,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §75)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 75)",
        "items": [
         {
          "q": "What are Interrogative Adjectives?",
@@ -4234,7 +4234,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §76)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 76)",
        "items": [
         {
          "q": "How are the words 'own' and 'very' used as Emphasizing Adjectives?",
@@ -4249,7 +4249,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §77)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 77)",
        "items": [
         {
          "q": "How is the word 'what' sometimes used as an Adjective?",
@@ -4264,11 +4264,11 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §78)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 78)",
        "items": [
         {
          "q": "Which Adjectives change their form to show number?",
-         "a": "As already pointed out (§74), this and that are the only Adjectives which are inflected or changed in form to show number.\nThis girl sings. These girls sing.\nThat boy plays. Those boys play."
+         "a": "As already pointed out (Section 74), this and that are the only Adjectives which are inflected or changed in form to show number.\nThis girl sings. These girls sing.\nThat boy plays. Those boys play."
         },
         {
          "q": "What is the difference between 'this, these' and 'that, those'?",
@@ -4283,7 +4283,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 9, §79)",
+       "label": "The rule (Wren & Martin, Chapter 9, Section 79)",
        "items": [
         {
          "q": "How are Adjectives formed from Nouns? Give examples.",
@@ -5038,19 +5038,19 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§80 The Adjective sweet is said to be in the Positive Degree."
+        "x": "Section 80 The Adjective sweet is said to be in the Positive Degree."
       },
       {
         "t": "def",
-        "x": "§80 The Positive Degree of an Adjective is the Adjective in its simple form. It is used to denote the mere existence of some quality of what we speak about. It is used when no comparison is made."
+        "x": "Section 80 The Positive Degree of an Adjective is the Adjective in its simple form. It is used to denote the mere existence of some quality of what we speak about. It is used when no comparison is made."
       },
       {
         "t": "def",
-        "x": "§80 The Adjective sweeter is said to be in the Comparative Degree."
+        "x": "Section 80 The Adjective sweeter is said to be in the Comparative Degree."
       },
       {
         "t": "def",
-        "x": "§80 The Comparative Degree of an Adjective denotes a higher degree of the quality than the Positive, and is used when two things (or sets of things) are compared."
+        "x": "Section 80 The Comparative Degree of an Adjective denotes a higher degree of the quality than the Positive, and is used when two things (or sets of things) are compared."
       },
       {
         "t": "ex",
@@ -5058,11 +5058,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§80 The Adjective sweetest is said to be in the Superlative Degree."
+        "x": "Section 80 The Adjective sweetest is said to be in the Superlative Degree."
       },
       {
         "t": "def",
-        "x": "§80 The Superlative Degree of an Adjective denotes the highest degree of the quality, and is used when more than two things (or sets of things) are compared."
+        "x": "Section 80 The Superlative Degree of an Adjective denotes the highest degree of the quality, and is used when more than two things (or sets of things) are compared."
       },
       {
         "t": "ex",
@@ -5090,7 +5090,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§81 Most Adjectives of one syllable, and some of more than one, form the Comparative by adding er and the Superlative by adding est to the Positive."
+        "x": "Section 81 Most Adjectives of one syllable, and some of more than one, form the Comparative by adding er and the Superlative by adding est to the Positive."
       },
       {
         "t": "ex",
@@ -5098,7 +5098,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§81 When the Positive ends in e, only r and st are added."
+        "x": "Section 81 When the Positive ends in e, only r and st are added."
       },
       {
         "t": "ex",
@@ -5106,7 +5106,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§81 When the Positive ends in y, preceded by a consonant, the y is changed into i before adding er and est."
+        "x": "Section 81 When the Positive ends in y, preceded by a consonant, the y is changed into i before adding er and est."
       },
       {
         "t": "ex",
@@ -5114,7 +5114,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§81 When the Positive is a word of one syllable and ends in a single consonant, preceded by a short vowel, this consonant is doubled before adding er and est."
+        "x": "Section 81 When the Positive is a word of one syllable and ends in a single consonant, preceded by a short vowel, this consonant is doubled before adding er and est."
       },
       {
         "t": "ex",
@@ -5122,7 +5122,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§82 Adjectives of more than two syllables form the Comparative and Superlative by putting more and most before the Positive."
+        "x": "Section 82 Adjectives of more than two syllables form the Comparative and Superlative by putting more and most before the Positive."
       },
       {
         "t": "ex",
@@ -5130,11 +5130,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§82 Two-syllable adjectives ending in ful (e.g. useful), less (e.g. hopeless), ing (e.g. boring) and ed (e.g. surprised) and many others (e.g. modern, recent, foolish, famous, certain) take more and most."
+        "x": "Section 82 Two-syllable adjectives ending in ful (e.g. useful), less (e.g. hopeless), ing (e.g. boring) and ed (e.g. surprised) and many others (e.g. modern, recent, foolish, famous, certain) take more and most."
       },
       {
         "t": "rule",
-        "x": "§82 The following take either er and est or more and most: polite, simple, feeble, gentle, narrow, cruel, common, handsome, pleasant, stupid."
+        "x": "Section 82 The following take either er and est or more and most: polite, simple, feeble, gentle, narrow, cruel, common, handsome, pleasant, stupid."
       },
       {
         "t": "ex",
@@ -5142,7 +5142,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§83 The Comparative in er is not used when we compare two qualities in the same person or thing."
+        "x": "Section 83 The Comparative in er is not used when we compare two qualities in the same person or thing."
       },
       {
         "t": "ex",
@@ -5150,7 +5150,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§84 When two objects are compared with each other, the latter term of comparison must exclude the former."
+        "x": "Section 84 When two objects are compared with each other, the latter term of comparison must exclude the former."
       },
       {
         "t": "ex",
@@ -5162,7 +5162,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§85 The following Adjectives are compared irregularly, that is, their Comparative and Superlative are not formed from the Positive."
+        "x": "Section 85 The following Adjectives are compared irregularly, that is, their Comparative and Superlative are not formed from the Positive."
       },
       {
         "t": "ex",
@@ -5174,7 +5174,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§86 The double forms of the Comparative and Superlative of the Adjectives given in §85 are used in different ways. Later, latter; latest, last — Later and latest refer to time; latter and last refer to position."
+        "x": "Section 86 The double forms of the Comparative and Superlative of the Adjectives given in Section 85 are used in different ways. Later, latter; latest, last — Later and latest refer to time; latter and last refer to position."
       },
       {
         "t": "ex",
@@ -5182,7 +5182,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§86 Elder, older; eldest, oldest — Elder and eldest are used only of persons, not of animals or things; and are now confined to members of the same family. Elder is not used with than. Older and oldest are used of both persons and things."
+        "x": "Section 86 Elder, older; eldest, oldest — Elder and eldest are used only of persons, not of animals or things; and are now confined to members of the same family. Elder is not used with than. Older and oldest are used of both persons and things."
       },
       {
         "t": "ex",
@@ -5190,7 +5190,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§86 Farther, further — Both farther and further are used to express distance. Further, not farther, is used to mean 'additional'."
+        "x": "Section 86 Farther, further — Both farther and further are used to express distance. Further, not farther, is used to mean 'additional'."
       },
       {
         "t": "ex",
@@ -5198,7 +5198,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§86 Nearest, next — Nearest means the shortest distance away. Next refers to one of a sequence of things coming one after the other."
+        "x": "Section 86 Nearest, next — Nearest means the shortest distance away. Next refers to one of a sequence of things coming one after the other."
       },
       {
         "t": "ex",
@@ -5206,7 +5206,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§87 Certain English Comparatives have lost their comparative meaning and are used as Positive. They cannot be followed by than. These are: former, latter, elder, hinder, upper, inner, outer, utter."
+        "x": "Section 87 Certain English Comparatives have lost their comparative meaning and are used as Positive. They cannot be followed by than. These are: former, latter, elder, hinder, upper, inner, outer, utter."
       },
       {
         "t": "ex",
@@ -5214,7 +5214,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§88 Certain Comparatives borrowed from Latin have no Positive or Superlative degree. They all end in or, not er. They are twelve in all. Five of them have lost their Comparative meaning, and are used as Positive Adjectives. These are: interior, exterior, ulterior, major, minor."
+        "x": "Section 88 Certain Comparatives borrowed from Latin have no Positive or Superlative degree. They all end in or, not er. They are twelve in all. Five of them have lost their Comparative meaning, and are used as Positive Adjectives. These are: interior, exterior, ulterior, major, minor."
       },
       {
         "t": "ex",
@@ -5222,11 +5222,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§88 The other seven are used as Comparative Adjectives but are followed by to instead of than (See §89)."
+        "x": "Section 88 The other seven are used as Comparative Adjectives but are followed by to instead of than (See Section 89)."
       },
       {
         "t": "rule",
-        "x": "§89 The comparative degree is generally followed by than; but Comparative Adjectives ending in -or are followed by the preposition to."
+        "x": "Section 89 The comparative degree is generally followed by than; but Comparative Adjectives ending in -or are followed by the preposition to."
       },
       {
         "t": "ex",
@@ -5234,7 +5234,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§90 Adjectives expressing qualities that do not admit of different degrees cannot, strictly speaking, be compared; as, square, round, perfect, eternal, universal, unique."
+        "x": "Section 90 Adjectives expressing qualities that do not admit of different degrees cannot, strictly speaking, be compared; as, square, round, perfect, eternal, universal, unique."
       },
       {
         "t": "ex",
@@ -5246,7 +5246,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§91 As the following examples show, it is possible to change the Degree of Comparison of an Adjective in a sentence, without changing the meaning of the sentence."
+        "x": "Section 91 As the following examples show, it is possible to change the Degree of Comparison of an Adjective in a sentence, without changing the meaning of the sentence."
       },
       {
         "t": "ex",
@@ -5263,7 +5263,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §80)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 80)",
        "items": [
         {
          "q": "How do Adjectives show comparison?",
@@ -5298,7 +5298,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §81)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 81)",
        "items": [
         {
          "q": "How do most Adjectives of one syllable form the Comparative and Superlative?",
@@ -5325,7 +5325,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §82)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 82)",
        "items": [
         {
          "q": "How do Adjectives of more than two syllables form the Comparative and Superlative?",
@@ -5348,7 +5348,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §83)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 83)",
        "items": [
         {
          "q": "When is the Comparative in -er NOT used?",
@@ -5363,7 +5363,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §84)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 84)",
        "items": [
         {
          "q": "What must we remember when two objects are compared with each other?",
@@ -5378,7 +5378,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §85)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 85)",
        "items": [
         {
          "q": "Which Adjectives are compared irregularly?",
@@ -5496,7 +5496,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §86)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 86)",
        "items": [
         {
          "q": "What is the difference between 'later' and 'latter', 'latest' and 'last'?",
@@ -5654,7 +5654,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §§87-89)",
+       "label": "The rule (Wren & Martin, Chapter 10, Sections 87-89)",
        "items": [
         {
          "q": "Which English Comparatives have lost their comparative meaning and are used as Positives?",
@@ -5662,7 +5662,7 @@ STUDY.grammar = {
         },
         {
          "q": "Which Comparatives borrowed from Latin have no Positive or Superlative degree?",
-         "a": "Certain Comparatives borrowed from Latin have no Positive or Superlative degree. They all end in or, not er. They are twelve in all. Five of them have lost their Comparative meaning, and are used as Positive Adjectives. These are: interior, exterior, ulterior, major, minor.\nThe exterior wall of the house is made of stone; the interior walls are of wood.\nHis age is a matter of minor importance.\nI have no ulterior motive in offering you help.\nThe other seven are used as Comparative Adjectives but are followed by to instead of than (See §89)."
+         "a": "Certain Comparatives borrowed from Latin have no Positive or Superlative degree. They all end in or, not er. They are twelve in all. Five of them have lost their Comparative meaning, and are used as Positive Adjectives. These are: interior, exterior, ulterior, major, minor.\nThe exterior wall of the house is made of stone; the interior walls are of wood.\nHis age is a matter of minor importance.\nI have no ulterior motive in offering you help.\nThe other seven are used as Comparative Adjectives but are followed by to instead of than (See Section 89)."
         },
         {
          "q": "Which Comparative Adjectives are followed by 'to' instead of 'than'?",
@@ -5677,7 +5677,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §90)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 90)",
        "items": [
         {
          "q": "Which Adjectives cannot be compared?",
@@ -6175,7 +6175,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 10, §91)",
+       "label": "The rule (Wren & Martin, Chapter 10, Section 91)",
        "items": [
         {
          "q": "Can the Degree of Comparison of an Adjective be changed without changing the meaning?",
@@ -6437,7 +6437,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§92 (1) Adjectives are used as Plural Nouns denoting a class of persons."
+        "x": "Section 92 (1) Adjectives are used as Plural Nouns denoting a class of persons."
       },
       {
         "t": "ex",
@@ -6445,7 +6445,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§92 (2) Adjectives are used as Singular Nouns denoting some abstract quality."
+        "x": "Section 92 (2) Adjectives are used as Singular Nouns denoting some abstract quality."
       },
       {
         "t": "ex",
@@ -6453,7 +6453,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§92 (3) Some Adjectives actually become Nouns, and are hence used in both numbers: (a) those derived from Proper Nouns; (b) some denoting persons; (c) a few denoting things generally."
+        "x": "Section 92 (3) Some Adjectives actually become Nouns, and are hence used in both numbers: (a) those derived from Proper Nouns; (b) some denoting persons; (c) a few denoting things generally."
       },
       {
         "t": "ex",
@@ -6465,7 +6465,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§92 (4) Adjectives are used as Nouns in certain phrases."
+        "x": "Section 92 (4) Adjectives are used as Nouns in certain phrases."
       },
       {
         "t": "ex",
@@ -6481,7 +6481,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§93 The use of Nouns as Adjectives is very common in English."
+        "x": "Section 93 The use of Nouns as Adjectives is very common in English."
       },
       {
         "t": "ex",
@@ -6498,7 +6498,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 11, §92)",
+       "label": "The rule (Wren & Martin, Chapter 11, Section 92)",
        "items": [
         {
          "q": "How are Adjectives used as Plural Nouns?",
@@ -6529,7 +6529,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 11, §93)",
+       "label": "The rule (Wren & Martin, Chapter 11, Section 93)",
        "items": [
         {
          "q": "How are Nouns used as Adjectives?",
@@ -6652,7 +6652,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§94 A single Adjective used attributively is generally placed immediately before the noun."
+        "x": "Section 94 A single Adjective used attributively is generally placed immediately before the noun."
       },
       {
         "t": "ex",
@@ -6664,7 +6664,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§95 In poetry, however, the Adjective is frequently placed after the noun."
+        "x": "Section 95 In poetry, however, the Adjective is frequently placed after the noun."
       },
       {
         "t": "ex",
@@ -6672,7 +6672,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§96 When several Adjectives are attached to one noun they are generally placed after it for emphasis."
+        "x": "Section 96 When several Adjectives are attached to one noun they are generally placed after it for emphasis."
       },
       {
         "t": "ex",
@@ -6680,7 +6680,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§97 When some word or phrase is joined to the Adjective to explain its meaning, the Adjective is placed after its noun."
+        "x": "Section 97 When some word or phrase is joined to the Adjective to explain its meaning, the Adjective is placed after its noun."
       },
       {
         "t": "ex",
@@ -6688,7 +6688,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§98 In certain phrases the Adjective always comes after the noun."
+        "x": "Section 98 In certain phrases the Adjective always comes after the noun."
       },
       {
         "t": "ex",
@@ -6705,7 +6705,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 12, §§94-98)",
+       "label": "The rule (Wren & Martin, Chapter 12, Sections 94-98)",
        "items": [
         {
          "q": "Where is a single Adjective used attributively generally placed?",
@@ -6850,7 +6850,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§99 Some, any — To express quantity or degree, some is used normally in affirmative sentences, any in negative or interrogative sentences."
+        "x": "Section 99 Some, any — To express quantity or degree, some is used normally in affirmative sentences, any in negative or interrogative sentences."
       },
       {
         "t": "ex",
@@ -6858,7 +6858,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§99 But any can be used after if in affirmative sentences."
+        "x": "Section 99 But any can be used after if in affirmative sentences."
       },
       {
         "t": "ex",
@@ -6866,7 +6866,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§99 Some is used in questions which are really offers/requests or which expect the answer 'yes'."
+        "x": "Section 99 Some is used in questions which are really offers/requests or which expect the answer 'yes'."
       },
       {
         "t": "ex",
@@ -6874,11 +6874,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§100 Each, every — Each and every are similar in meaning, but every is a stronger word than each; it means, 'each without exception'."
+        "x": "Section 100 Each, every — Each and every are similar in meaning, but every is a stronger word than each; it means, 'each without exception'."
       },
       {
         "t": "rule",
-        "x": "§100 Each is used in speaking of two or more things; every is used only in speaking of more than two."
+        "x": "Section 100 Each is used in speaking of two or more things; every is used only in speaking of more than two."
       },
       {
         "t": "ex",
@@ -6886,7 +6886,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§100 Each directs attention to the individuals forming any group, every to the total group."
+        "x": "Section 100 Each directs attention to the individuals forming any group, every to the total group."
       },
       {
         "t": "ex",
@@ -6894,7 +6894,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§100 Each is used only when the number in the group is limited and definite; every when the number is indefinite."
+        "x": "Section 100 Each is used only when the number in the group is limited and definite; every when the number is indefinite."
       },
       {
         "t": "ex",
@@ -6902,7 +6902,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§101 Little, a little, the little — Note carefully the use of (1) little, (2) a little, (3) the little. Little = not much (i.e., hardly any). Thus, the adjective little has a negative meaning."
+        "x": "Section 101 Little, a little, the little — Note carefully the use of (1) little, (2) a little, (3) the little. Little = not much (i.e., hardly any). Thus, the adjective little has a negative meaning."
       },
       {
         "t": "ex",
@@ -6910,7 +6910,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§101 A little = some though not much. 'A little' has a positive meaning."
+        "x": "Section 101 A little = some though not much. 'A little' has a positive meaning."
       },
       {
         "t": "ex",
@@ -6918,7 +6918,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§101 The little = not much, but all there is."
+        "x": "Section 101 The little = not much, but all there is."
       },
       {
         "t": "ex",
@@ -6926,7 +6926,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§102 Few, a few, the few — Note carefully the use of (1) few, (2) a few, (3) the few. Few = not many, hardly any. 'Few' has a negative meaning."
+        "x": "Section 102 Few, a few, the few — Note carefully the use of (1) few, (2) a few, (3) the few. Few = not many, hardly any. 'Few' has a negative meaning."
       },
       {
         "t": "ex",
@@ -6934,7 +6934,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§102 A few = some. 'A few' has a positive meaning, and is opposed to 'none'."
+        "x": "Section 102 A few = some. 'A few' has a positive meaning, and is opposed to 'none'."
       },
       {
         "t": "ex",
@@ -6942,7 +6942,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§102 The few = not many, but all there are."
+        "x": "Section 102 The few = not many, but all there are."
       },
       {
         "t": "ex",
@@ -6963,7 +6963,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 13, §99)",
+       "label": "The rule (Wren & Martin, Chapter 13, Section 99)",
        "items": [
         {
          "q": "When do we use 'some' and when 'any'?",
@@ -6982,7 +6982,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 13, §100)",
+       "label": "The rule (Wren & Martin, Chapter 13, Section 100)",
        "items": [
         {
          "q": "What is the difference between 'each' and 'every'?",
@@ -7001,7 +7001,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 13, §101)",
+       "label": "The rule (Wren & Martin, Chapter 13, Section 101)",
        "items": [
         {
          "q": "What does 'little' mean?",
@@ -7055,7 +7055,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 13, §102)",
+       "label": "The rule (Wren & Martin, Chapter 13, Section 102)",
        "items": [
         {
          "q": "What does 'few' mean?",
@@ -7227,15 +7227,15 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§103 The Adjectives a or an and the are usually called Articles. They are really Demonstrative Adjectives."
+        "x": "Section 103 The Adjectives a or an and the are usually called Articles. They are really Demonstrative Adjectives."
       },
       {
         "t": "def",
-        "x": "§104 There are two Articles — a (or an) and the."
+        "x": "Section 104 There are two Articles — a (or an) and the."
       },
       {
         "t": "def",
-        "x": "§105 A or an is called the Indefinite Article, because it usually leaves indefinite the person or thing spoken of."
+        "x": "Section 105 A or an is called the Indefinite Article, because it usually leaves indefinite the person or thing spoken of."
       },
       {
         "t": "ex",
@@ -7243,7 +7243,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§106 The is called the Definite Article, because it normally points out some particular person or thing."
+        "x": "Section 106 The is called the Definite Article, because it normally points out some particular person or thing."
       },
       {
         "t": "ex",
@@ -7263,7 +7263,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§107 The choice between a and an is determined by sound. Before a word beginning with a vowel sound an is used."
+        "x": "Section 107 The choice between a and an is determined by sound. Before a word beginning with a vowel sound an is used."
       },
       {
         "t": "ex",
@@ -7275,7 +7275,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§108 Before a word beginning with a consonant sound a is used."
+        "x": "Section 108 Before a word beginning with a consonant sound a is used."
       },
       {
         "t": "ex",
@@ -7283,7 +7283,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§109 Some native speakers use an before words beginning with h if the first syllable is not stressed."
+        "x": "Section 109 Some native speakers use an before words beginning with h if the first syllable is not stressed."
       },
       {
         "t": "ex",
@@ -7295,7 +7295,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (1) The Definite Article the is used when we talk about a particular person or thing, or one already referred to (that is, when it is clear from the context which one we mean)."
+        "x": "Section 110 (1) The Definite Article the is used when we talk about a particular person or thing, or one already referred to (that is, when it is clear from the context which one we mean)."
       },
       {
         "t": "ex",
@@ -7303,7 +7303,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (2) The is used when a singular noun is meant to represent a whole class."
+        "x": "Section 110 (2) The is used when a singular noun is meant to represent a whole class."
       },
       {
         "t": "ex",
@@ -7319,7 +7319,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (3) The is used before some proper names, viz., these kinds of place-names: (a) oceans and seas, (b) rivers, (c) canals, (d) deserts, (e) groups of islands, (f) mountain ranges, (g) a very few names of countries, which include words like republic and kingdom."
+        "x": "Section 110 (3) The is used before some proper names, viz., these kinds of place-names: (a) oceans and seas, (b) rivers, (c) canals, (d) deserts, (e) groups of islands, (f) mountain ranges, (g) a very few names of countries, which include words like republic and kingdom."
       },
       {
         "t": "ex",
@@ -7327,7 +7327,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (4) The is used before the names of certain books."
+        "x": "Section 110 (4) The is used before the names of certain books."
       },
       {
         "t": "ex",
@@ -7335,7 +7335,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (5) The is used before names of things unique of their kind."
+        "x": "Section 110 (5) The is used before names of things unique of their kind."
       },
       {
         "t": "ex",
@@ -7347,7 +7347,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (6) The is used before a Proper Noun when it is qualified by an adjective or a defining adjectival clause."
+        "x": "Section 110 (6) The is used before a Proper Noun when it is qualified by an adjective or a defining adjectival clause."
       },
       {
         "t": "ex",
@@ -7355,7 +7355,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (7) The is used with Superlatives."
+        "x": "Section 110 (7) The is used with Superlatives."
       },
       {
         "t": "ex",
@@ -7363,7 +7363,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (8) The is used with ordinals."
+        "x": "Section 110 (8) The is used with ordinals."
       },
       {
         "t": "ex",
@@ -7371,7 +7371,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (9) The is used before musical instruments."
+        "x": "Section 110 (9) The is used before musical instruments."
       },
       {
         "t": "ex",
@@ -7379,7 +7379,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (10) The is used before an adjective when the noun is understood."
+        "x": "Section 110 (10) The is used before an adjective when the noun is understood."
       },
       {
         "t": "ex",
@@ -7387,7 +7387,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (11) The is used before a noun (with emphasis) to give the force of a Superlative."
+        "x": "Section 110 (11) The is used before a noun (with emphasis) to give the force of a Superlative."
       },
       {
         "t": "ex",
@@ -7395,7 +7395,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§110 (12) The is used as an Adverb with Comparatives."
+        "x": "Section 110 (12) The is used as an Adverb with Comparatives."
       },
       {
         "t": "ex",
@@ -7407,7 +7407,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§111 (1) The Indefinite Article is used in its original numerical sense of one."
+        "x": "Section 111 (1) The Indefinite Article is used in its original numerical sense of one."
       },
       {
         "t": "ex",
@@ -7415,7 +7415,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§111 (2) The Indefinite Article is used in the vague sense of a certain."
+        "x": "Section 111 (2) The Indefinite Article is used in the vague sense of a certain."
       },
       {
         "t": "ex",
@@ -7423,7 +7423,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§111 (3) The Indefinite Article is used in the sense of any, to single out an individual as the representative of a class."
+        "x": "Section 111 (3) The Indefinite Article is used in the sense of any, to single out an individual as the representative of a class."
       },
       {
         "t": "ex",
@@ -7431,7 +7431,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§111 (4) The Indefinite Article is used to make a common noun of a proper noun."
+        "x": "Section 111 (4) The Indefinite Article is used to make a common noun of a proper noun."
       },
       {
         "t": "ex",
@@ -7443,7 +7443,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (1) The Article is omitted before names of substances and abstract nouns (i.e. uncountable nouns) used in a general sense."
+        "x": "Section 112 (1) The Article is omitted before names of substances and abstract nouns (i.e. uncountable nouns) used in a general sense."
       },
       {
         "t": "ex",
@@ -7459,7 +7459,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (2) The Article is omitted before plural countable nouns used in a general sense."
+        "x": "Section 112 (2) The Article is omitted before plural countable nouns used in a general sense."
       },
       {
         "t": "ex",
@@ -7471,11 +7471,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (3) The Article is omitted before most proper nouns (except those referred to earlier), namely, names of people (e.g. Gopal, Rahim), names of continents, countries, cities, etc. (e.g. Europe, Pakistan, Nagpur), names of individual mountains (e.g. Mount Everest), individual islands, lakes, hills, etc."
+        "x": "Section 112 (3) The Article is omitted before most proper nouns (except those referred to earlier), namely, names of people (e.g. Gopal, Rahim), names of continents, countries, cities, etc. (e.g. Europe, Pakistan, Nagpur), names of individual mountains (e.g. Mount Everest), individual islands, lakes, hills, etc."
       },
       {
         "t": "rule",
-        "x": "§112 (4) The Article is omitted before names of meals (used in a general sense)."
+        "x": "Section 112 (4) The Article is omitted before names of meals (used in a general sense)."
       },
       {
         "t": "ex",
@@ -7491,7 +7491,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (5) The Article is omitted before languages."
+        "x": "Section 112 (5) The Article is omitted before languages."
       },
       {
         "t": "ex",
@@ -7499,7 +7499,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (6) The Article is omitted before school, college, church, bed, table, hospital, market, prison, when these places are visited or used for their primary purpose."
+        "x": "Section 112 (6) The Article is omitted before school, college, church, bed, table, hospital, market, prison, when these places are visited or used for their primary purpose."
       },
       {
         "t": "ex",
@@ -7515,7 +7515,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (7) The Article is omitted before names of relations, like father, mother, aunt, uncle, and also cook and nurse, meaning 'our cook', 'our nurse'."
+        "x": "Section 112 (7) The Article is omitted before names of relations, like father, mother, aunt, uncle, and also cook and nurse, meaning 'our cook', 'our nurse'."
       },
       {
         "t": "ex",
@@ -7523,7 +7523,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (8) The Article is omitted before predicative nouns denoting a unique position, i.e., a position that is normally held at one time by one person only."
+        "x": "Section 112 (8) The Article is omitted before predicative nouns denoting a unique position, i.e., a position that is normally held at one time by one person only."
       },
       {
         "t": "ex",
@@ -7531,7 +7531,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (9) The Article is omitted in certain phrases consisting of a transitive verb followed by its object."
+        "x": "Section 112 (9) The Article is omitted in certain phrases consisting of a transitive verb followed by its object."
       },
       {
         "t": "ex",
@@ -7539,7 +7539,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§112 (10) The Article is omitted in certain phrases consisting of a preposition followed by its object."
+        "x": "Section 112 (10) The Article is omitted in certain phrases consisting of a preposition followed by its object."
       },
       {
         "t": "ex",
@@ -7551,7 +7551,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§113 Hence when two or more adjectives qualify the same noun, the Article is used before the first adjective only; but when they qualify different nouns, expressed or understood, the Article is normally used before each adjective."
+        "x": "Section 113 Hence when two or more adjectives qualify the same noun, the Article is used before the first adjective only; but when they qualify different nouns, expressed or understood, the Article is normally used before each adjective."
       },
       {
         "t": "ex",
@@ -7559,7 +7559,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§114 Hence we see that when two or more connected nouns refer to the same person or thing, the Article is ordinarily used before the first only; but when two or more connected nouns refer to different persons or things, the Article is used before each."
+        "x": "Section 114 Hence we see that when two or more connected nouns refer to the same person or thing, the Article is ordinarily used before the first only; but when two or more connected nouns refer to different persons or things, the Article is used before each."
       },
       {
         "t": "ex",
@@ -7575,11 +7575,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§115 We may either say — The third and the fourth chapter. [Or] The third and fourth chapters."
+        "x": "Section 115 We may either say — The third and the fourth chapter. [Or] The third and fourth chapters."
       },
       {
         "t": "rule",
-        "x": "§116 In expressing a comparison, if two nouns refer to the same person or thing, the Article is used before the first noun only."
+        "x": "Section 116 In expressing a comparison, if two nouns refer to the same person or thing, the Article is used before the first noun only."
       },
       {
         "t": "ex",
@@ -7587,7 +7587,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§116 But if they refer to different persons or things, the Article must be used with each noun."
+        "x": "Section 116 But if they refer to different persons or things, the Article must be used with each noun."
       },
       {
         "t": "ex",
@@ -7604,7 +7604,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §§103-106)",
+       "label": "The rule (Wren & Martin, Chapter 14, Sections 103-106)",
        "items": [
         {
          "q": "What are Articles?",
@@ -7639,7 +7639,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §107)",
+       "label": "The rule (Wren & Martin, Chapter 14, Section 107)",
        "items": [
         {
          "q": "When do we use 'an'?",
@@ -7654,7 +7654,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §108)",
+       "label": "The rule (Wren & Martin, Chapter 14, Section 108)",
        "items": [
         {
          "q": "When do we use 'a'?",
@@ -7669,7 +7669,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §109)",
+       "label": "The rule (Wren & Martin, Chapter 14, Section 109)",
        "items": [
         {
          "q": "When do some speakers use 'an' before words beginning with h?",
@@ -7684,7 +7684,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §110)",
+       "label": "The rule (Wren & Martin, Chapter 14, Section 110)",
        "items": [
         {
          "q": "(1) When is 'the' used for a particular person or thing?",
@@ -7743,7 +7743,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §111)",
+       "label": "The rule (Wren & Martin, Chapter 14, Section 111)",
        "items": [
         {
          "q": "(1) How is 'a' or 'an' used in its original numerical sense of one?",
@@ -7770,7 +7770,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §112)",
+       "label": "The rule (Wren & Martin, Chapter 14, Section 112)",
        "items": [
         {
          "q": "(1) When is the Article omitted before names of substances and abstract nouns?",
@@ -8211,7 +8211,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 14, §§113-116)",
+       "label": "The rule (Wren & Martin, Chapter 14, Sections 113-116)",
        "items": [
         {
          "q": "When two or more Adjectives qualify the same noun, how is the Article used?",
@@ -8315,11 +8315,11 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§117. Hari is absent, because Hari is ill. This sentence repeats the noun Hari. It is better to avoid the repetition and say: Hari is absent, because he is ill. Here the word he is used instead of the noun Hari."
+        "x": "Section 117. Hari is absent, because Hari is ill. This sentence repeats the noun Hari. It is better to avoid the repetition and say: Hari is absent, because he is ill. Here the word he is used instead of the noun Hari."
       },
       {
         "t": "def",
-        "x": "§117. Def. — A Pronoun is a word used instead of a Noun. [Pronoun means for-a-noun.]"
+        "x": "Section 117. Def. — A Pronoun is a word used instead of a Noun. [Pronoun means for-a-noun.]"
       },
       {
         "t": "h",
@@ -8327,7 +8327,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§118. I, we, you, he, (she, it), they are called Personal Pronouns because they stand for the three persons: (i) the person speaking, (ii) the person spoken to, and (iii) the person spoken of."
+        "x": "Section 118. I, we, you, he, (she, it), they are called Personal Pronouns because they stand for the three persons: (i) the person speaking, (ii) the person spoken to, and (iii) the person spoken of."
       },
       {
         "t": "ex",
@@ -8351,7 +8351,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§119. The following are the different forms of the Personal Pronouns.\nFIRST PERSON (Masculine or Feminine)\nNominative: I (Singular), we (Plural)\nPossessive: my, mine (Singular); our, ours (Plural)\nAccusative: me (Singular), us (Plural)"
+        "x": "Section 119. The following are the different forms of the Personal Pronouns.\nFIRST PERSON (Masculine or Feminine)\nNominative: I (Singular), we (Plural)\nPossessive: my, mine (Singular); our, ours (Plural)\nAccusative: me (Singular), us (Plural)"
       },
       {
         "t": "p",
@@ -8363,7 +8363,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "§119. Note 1 — The Possessive Cases of most of the Personal Pronouns have two forms. The forms my, our, your, her, their are called Possessive Adjectives because they are used with nouns and do the work of Adjectives."
+        "x": "Section 119. Note 1 — The Possessive Cases of most of the Personal Pronouns have two forms. The forms my, our, your, her, their are called Possessive Adjectives because they are used with nouns and do the work of Adjectives."
       },
       {
         "t": "ex",
@@ -8375,7 +8375,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "§119. Note 2 — The word his is used both as an Adjective and as a Pronoun."
+        "x": "Section 119. Note 2 — The word his is used both as an Adjective and as a Pronoun."
       },
       {
         "t": "ex",
@@ -8395,7 +8395,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§120. The Pronoun of the Third Person has three Genders:\nMasculine: he\nFeminine: she\nNeuter: it"
+        "x": "Section 120. The Pronoun of the Third Person has three Genders:\nMasculine: he\nFeminine: she\nNeuter: it"
       },
       {
         "t": "h",
@@ -8403,7 +8403,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (1) It is used for things without life."
+        "x": "Section 121. (1) It is used for things without life."
       },
       {
         "t": "ex",
@@ -8411,7 +8411,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (2) It is used for animals, unless we clearly wish to speak of them as male and female."
+        "x": "Section 121. (2) It is used for animals, unless we clearly wish to speak of them as male and female."
       },
       {
         "t": "ex",
@@ -8419,7 +8419,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (3) It is used for a young child, unless we clearly wish to refer to the sex."
+        "x": "Section 121. (3) It is used for a young child, unless we clearly wish to refer to the sex."
       },
       {
         "t": "ex",
@@ -8427,7 +8427,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (4) It is used to refer to some statement going before."
+        "x": "Section 121. (4) It is used to refer to some statement going before."
       },
       {
         "t": "ex",
@@ -8435,7 +8435,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (5) It is used as a temporary subject before the verb to be, when the real subject comes later."
+        "x": "Section 121. (5) It is used as a temporary subject before the verb to be, when the real subject comes later."
       },
       {
         "t": "ex",
@@ -8443,7 +8443,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (6) It is used to give emphasis to the noun or pronoun following."
+        "x": "Section 121. (6) It is used to give emphasis to the noun or pronoun following."
       },
       {
         "t": "ex",
@@ -8451,7 +8451,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (7) It is used as the subject of an impersonal verb — a verb that talks about the weather or nature, not about a person or thing."
+        "x": "Section 121. (7) It is used as the subject of an impersonal verb — a verb that talks about the weather or nature, not about a person or thing."
       },
       {
         "t": "ex",
@@ -8467,7 +8467,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§121. (8) It is used in speaking of the weather or the time."
+        "x": "Section 121. (8) It is used in speaking of the weather or the time."
       },
       {
         "t": "ex",
@@ -8475,7 +8475,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§122. A Personal Pronoun is used instead of a Noun, so it must be of the same number, gender and person as the Noun for which it stands."
+        "x": "Section 122. A Personal Pronoun is used instead of a Noun, so it must be of the same number, gender and person as the Noun for which it stands."
       },
       {
         "t": "ex",
@@ -8483,7 +8483,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§123. When a Pronoun stands for a Collective Noun, it must be in the Singular Number (and Neuter Gender) if the Collective Noun is viewed as a whole."
+        "x": "Section 123. When a Pronoun stands for a Collective Noun, it must be in the Singular Number (and Neuter Gender) if the Collective Noun is viewed as a whole."
       },
       {
         "t": "ex",
@@ -8491,7 +8491,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§123. If the Collective Noun conveys the idea of separate individuals comprising the whole, the Pronoun standing for it must be of the Plural Number."
+        "x": "Section 123. If the Collective Noun conveys the idea of separate individuals comprising the whole, the Pronoun standing for it must be of the Plural Number."
       },
       {
         "t": "ex",
@@ -8499,11 +8499,11 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "It will be noted that we use the word 'Pronoun' in § 123–128 without observing the distinction pointed out in § 119 between the forms, my, her, our, your, their (which are called Possessive Adjectives) and the forms mine, hers, ours, yours, theirs (which are called Possessive Pronouns)."
+        "x": "It will be noted that we use the word 'Pronoun' in Section 123–128 without observing the distinction pointed out in Section 119 between the forms, my, her, our, your, their (which are called Possessive Adjectives) and the forms mine, hers, ours, yours, theirs (which are called Possessive Pronouns)."
       },
       {
         "t": "rule",
-        "x": "§124. When two or more Singular Nouns are joined by and, the Pronoun used for them must be Plural."
+        "x": "Section 124. When two or more Singular Nouns are joined by and, the Pronoun used for them must be Plural."
       },
       {
         "t": "ex",
@@ -8511,7 +8511,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§124. But when two Singular Nouns joined by and refer to the same person or thing, the Pronoun used must of course be Singular."
+        "x": "Section 124. But when two Singular Nouns joined by and refer to the same person or thing, the Pronoun used must of course be Singular."
       },
       {
         "t": "ex",
@@ -8519,7 +8519,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§125. When two Singular Nouns joined by and are preceded by each or every, the Pronoun must be Singular."
+        "x": "Section 125. When two Singular Nouns joined by and are preceded by each or every, the Pronoun must be Singular."
       },
       {
         "t": "ex",
@@ -8527,7 +8527,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§126. When two or more Singular Nouns are joined by or or either...or, neither...nor, the Pronoun is generally Singular."
+        "x": "Section 126. When two or more Singular Nouns are joined by or or either...or, neither...nor, the Pronoun is generally Singular."
       },
       {
         "t": "ex",
@@ -8535,7 +8535,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§127. When a Plural Noun and a Singular Noun are joined by or or nor, the Pronoun must be in the Plural."
+        "x": "Section 127. When a Plural Noun and a Singular Noun are joined by or or nor, the Pronoun must be in the Plural."
       },
       {
         "t": "ex",
@@ -8543,7 +8543,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§128. When a pronoun refers to more than one noun or pronoun of different persons, it must be of the first person plural in preference to the second, and of the second person plural in preference to the third."
+        "x": "Section 128. When a pronoun refers to more than one noun or pronoun of different persons, it must be of the first person plural in preference to the second, and of the second person plural in preference to the third."
       },
       {
         "t": "ex",
@@ -8551,7 +8551,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§129. Good manners require that we should say 'You and I', not 'I and you'; 'You and he', not 'he and you'; 'Hari and I', not 'I and Hari'; 'He and I', not 'I and he'."
+        "x": "Section 129. Good manners require that we should say 'You and I', not 'I and you'; 'You and he', not 'he and you'; 'Hari and I', not 'I and Hari'; 'He and I', not 'I and he'."
       },
       {
         "t": "ex",
@@ -8559,7 +8559,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§130. Each of the personal pronouns, I, he, she, we, they has a different form for the accusative case, namely, me, him, her, us, them. It is a common mistake to use I for me, when the pronoun is connected by a conjunction (and, or) with some other word in the accusative case."
+        "x": "Section 130. Each of the personal pronouns, I, he, she, we, they has a different form for the accusative case, namely, me, him, her, us, them. It is a common mistake to use I for me, when the pronoun is connected by a conjunction (and, or) with some other word in the accusative case."
       },
       {
         "t": "ex",
@@ -8567,7 +8567,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§131. Note that but is a preposition in the following sentence, so the accusative form must be used after it."
+        "x": "Section 131. Note that but is a preposition in the following sentence, so the accusative form must be used after it."
       },
       {
         "t": "ex",
@@ -8588,7 +8588,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §117)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 117)",
        "items": [
         {
          "q": "What is a pronoun? How does it save us from repeating a noun?",
@@ -8607,7 +8607,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §118)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 118)",
        "items": [
         {
          "q": "Which words are called Personal Pronouns, and why?",
@@ -8634,7 +8634,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §119)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 119)",
        "items": [
         {
          "q": "Give the forms of the Personal Pronouns of the First Person.",
@@ -8665,7 +8665,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §120)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 120)",
        "items": [
         {
          "q": "How many genders has the Pronoun of the Third Person? Name them.",
@@ -8680,7 +8680,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §121)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 121)",
        "items": [
         {
          "q": "For what is the pronoun 'it' used? (1) Things without life.",
@@ -8723,7 +8723,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §122)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 122)",
        "items": [
         {
          "q": "With what must a Personal Pronoun agree? Give examples.",
@@ -8738,7 +8738,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §123)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 123)",
        "items": [
         {
          "q": "What pronoun is used for a Collective Noun viewed as a whole?",
@@ -8749,8 +8749,8 @@ STUDY.grammar = {
          "a": "If the Collective Noun conveys the idea of separate individuals comprising the whole, the Pronoun standing for it must be of the Plural Number; as,\nThe jury were divided in their opinions.\nThe committee decided the matter without leaving their seats."
         },
         {
-         "q": "What does the book note about the word 'Pronoun' in §123–128?",
-         "a": "It will be noted that we use the word 'Pronoun' in §123–128 without observing the distinction pointed out in §119 between the forms, my, her, our, your, their (which are called Possessive Adjectives) and the forms mine, hers, ours, yours, theirs (which are called Possessive Pronouns)."
+         "q": "What does the book note about the word 'Pronoun' in Section 123–128?",
+         "a": "It will be noted that we use the word 'Pronoun' in Section 123–128 without observing the distinction pointed out in Section 119 between the forms, my, her, our, your, their (which are called Possessive Adjectives) and the forms mine, hers, ours, yours, theirs (which are called Possessive Pronouns)."
         }
        ]
       }
@@ -8761,7 +8761,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §124)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 124)",
        "items": [
         {
          "q": "What pronoun is used for two or more Singular Nouns joined by 'and'?",
@@ -8780,7 +8780,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §125)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 125)",
        "items": [
         {
          "q": "What pronoun is used when two Singular Nouns joined by 'and' are preceded by 'each' or 'every'?",
@@ -8795,7 +8795,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §126)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 126)",
        "items": [
         {
          "q": "What pronoun is used when two or more Singular Nouns are joined by 'or', 'either...or' or 'neither...nor'?",
@@ -8810,7 +8810,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §127)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 127)",
        "items": [
         {
          "q": "What pronoun is used when a Plural Noun and a Singular Noun are joined by 'or' or 'nor'?",
@@ -8825,7 +8825,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §128)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 128)",
        "items": [
         {
          "q": "When a pronoun refers to nouns of different persons, which person is preferred?",
@@ -8840,7 +8840,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §129)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 129)",
        "items": [
         {
          "q": "In what order should pronouns be put? What does good manners require?",
@@ -8859,7 +8859,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §130)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 130)",
        "items": [
         {
          "q": "What is a common mistake with 'I' and 'me' after a conjunction?",
@@ -8878,7 +8878,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 15, §131)",
+       "label": "The rule (Wren & Martin, Chapter 15, Section 131)",
        "items": [
         {
          "q": "What form of pronoun follows 'but' in 'Nobody will help you but me'?",
@@ -8999,7 +8999,7 @@ STUDY.grammar = {
        "items": [
         {
          "q": "1. We scored as many goals as _____. (they, them)",
-         "a": "them — as given in the Key. (See the flags file: 'they' would follow the rule in §130 more strictly.)"
+         "a": "them — as given in the Key. (See the flags file: 'they' would follow the rule in Section 130 more strictly.)"
         },
         {
          "q": "2. Rama and _____ were present. (I, me)",
@@ -9047,7 +9047,7 @@ STUDY.grammar = {
         },
         {
          "q": "13. Nobody but _____ was present. (he, him)",
-         "a": "him — but is a preposition here (§131): nobody but him was present."
+         "a": "him — but is a preposition here (Section 131): nobody but him was present."
         },
         {
          "q": "14. He and _____ were great friends. (I, me)",
@@ -9189,11 +9189,11 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§132. When -self is added to my, your, him, her, it, and -selves to our, your, them, we get what are called Compound Personal Pronouns."
+        "x": "Section 132. When -self is added to my, your, him, her, it, and -selves to our, your, them, we get what are called Compound Personal Pronouns."
       },
       {
         "t": "def",
-        "x": "§132. They are called Reflexive Pronouns when the action done by the subject turns back (reflects) upon the subject."
+        "x": "Section 132. They are called Reflexive Pronouns when the action done by the subject turns back (reflects) upon the subject."
       },
       {
         "t": "ex",
@@ -9205,7 +9205,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§132. A Reflexive Pronoun is used as the Object of a verb, and it refers to the same person or thing as the Subject of the verb."
+        "x": "Section 132. A Reflexive Pronoun is used as the Object of a verb, and it refers to the same person or thing as the Subject of the verb."
       },
       {
         "t": "ex",
@@ -9213,7 +9213,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§133. Sometimes, in older English, especially in poetry, a simple pronoun was used reflexively."
+        "x": "Section 133. Sometimes, in older English, especially in poetry, a simple pronoun was used reflexively."
       },
       {
         "t": "ex",
@@ -9221,7 +9221,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§134. The word self is sometimes used as a Noun."
+        "x": "Section 134. The word self is sometimes used as a Noun."
       },
       {
         "t": "ex",
@@ -9233,7 +9233,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§135. Now look at the following sentences."
+        "x": "Section 135. Now look at the following sentences."
       },
       {
         "t": "ex",
@@ -9241,11 +9241,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§135. Here Compound Personal Pronouns are used for the sake of emphasis, and are therefore called Emphatic Pronouns."
+        "x": "Section 135. Here Compound Personal Pronouns are used for the sake of emphasis, and are therefore called Emphatic Pronouns."
       },
       {
         "t": "rule",
-        "x": "§135. Use an Emphatic Pronoun when you want to give emphasis to a noun or pronoun."
+        "x": "Section 135. Use an Emphatic Pronoun when you want to give emphasis to a noun or pronoun."
       },
       {
         "t": "ex",
@@ -9262,7 +9262,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 16, §132)",
+       "label": "The rule (Wren & Martin, Chapter 16, Section 132)",
        "items": [
         {
          "q": "How are Compound Personal Pronouns formed?",
@@ -9285,7 +9285,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 16, §133)",
+       "label": "The rule (Wren & Martin, Chapter 16, Section 133)",
        "items": [
         {
          "q": "How was a simple pronoun sometimes used reflexively in older English? Give an example.",
@@ -9300,7 +9300,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 16, §134)",
+       "label": "The rule (Wren & Martin, Chapter 16, Section 134)",
        "items": [
         {
          "q": "Give sentences in which the word 'self' is used as a Noun.",
@@ -9315,7 +9315,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 16, §135)",
+       "label": "The rule (Wren & Martin, Chapter 16, Section 135)",
        "items": [
         {
          "q": "When are Compound Personal Pronouns called Emphatic Pronouns? Give examples.",
@@ -9516,7 +9516,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§136. Consider the following sentences."
+        "x": "Section 136. Consider the following sentences."
       },
       {
         "t": "ex",
@@ -9524,11 +9524,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§136. These pronouns point out the things they refer to. So they are called Demonstrative Pronouns. (Latin demonstrare, to show clearly)"
+        "x": "Section 136. These pronouns point out the things they refer to. So they are called Demonstrative Pronouns. (Latin demonstrare, to show clearly)"
       },
       {
         "t": "p",
-        "x": "§137. This, that, etc. are (Demonstrative) Adjectives when they are used with nouns."
+        "x": "Section 137. This, that, etc. are (Demonstrative) Adjectives when they are used with nouns."
       },
       {
         "t": "ex",
@@ -9540,7 +9540,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§138. This refers to what is close at hand, and nearest to the thought or person of the speaker; that refers to what is 'over there', farther away, and more remote."
+        "x": "Section 138. This refers to what is close at hand, and nearest to the thought or person of the speaker; that refers to what is 'over there', farther away, and more remote."
       },
       {
         "t": "ex",
@@ -9548,7 +9548,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§139. That, with its plural those, is used to avoid the repetition of a preceding Noun."
+        "x": "Section 139. That, with its plural those, is used to avoid the repetition of a preceding Noun."
       },
       {
         "t": "ex",
@@ -9556,7 +9556,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§140. When two things which have been already mentioned are referred to, this refers to the thing last mentioned, that to the thing first mentioned."
+        "x": "Section 140. When two things which have been already mentioned are referred to, this refers to the thing last mentioned, that to the thing first mentioned."
       },
       {
         "t": "ex",
@@ -9568,7 +9568,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§141. Consider the following sentences."
+        "x": "Section 141. Consider the following sentences."
       },
       {
         "t": "ex",
@@ -9576,11 +9576,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§141. All these Pronouns refer to persons or things in a general way, but they do not refer to any person or thing in particular. So they are called Indefinite Pronouns."
+        "x": "Section 141. All these Pronouns refer to persons or things in a general way, but they do not refer to any person or thing in particular. So they are called Indefinite Pronouns."
       },
       {
         "t": "p",
-        "x": "§142. Most of these words may also be used as Adjectives."
+        "x": "Section 142. Most of these words may also be used as Adjectives."
       },
       {
         "t": "ex",
@@ -9588,7 +9588,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§143. In referring to anybody, everybody, everyone, anyone, each etc., the pronoun he or she is used according to the context."
+        "x": "Section 143. In referring to anybody, everybody, everyone, anyone, each etc., the pronoun he or she is used according to the context."
       },
       {
         "t": "ex",
@@ -9608,7 +9608,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§144. Consider the following sentences."
+        "x": "Section 144. Consider the following sentences."
       },
       {
         "t": "ex",
@@ -9616,11 +9616,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§144. Each, either, neither are called Distributive Pronouns because they refer to persons or things one at a time."
+        "x": "Section 144. Each, either, neither are called Distributive Pronouns because they refer to persons or things one at a time."
       },
       {
         "t": "rule",
-        "x": "§144. Each, either and neither are always singular, so the verb that follows them is in the singular."
+        "x": "Section 144. Each, either and neither are always singular, so the verb that follows them is in the singular."
       },
       {
         "t": "ex",
@@ -9628,11 +9628,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§144. Note — Each is used to denote every one of a number of persons or things taken singly. Either means the one or the other of two. Neither means not the one nor the other of two. It is the negative of either. So either and neither should be used only in speaking of two persons or things. When more than two are spoken of, any, no one, none should be used."
+        "x": "Section 144. Note — Each is used to denote every one of a number of persons or things taken singly. Either means the one or the other of two. Neither means not the one nor the other of two. It is the negative of either. So either and neither should be used only in speaking of two persons or things. When more than two are spoken of, any, no one, none should be used."
       },
       {
         "t": "rule",
-        "x": "§145. The position of the pronoun each should be noticed. It may have three positions."
+        "x": "Section 145. The position of the pronoun each should be noticed. It may have three positions."
       },
       {
         "t": "ex",
@@ -9644,7 +9644,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§146. In the following sentences, each, either and neither are used as Adjectives; they are followed by nouns of the singular number."
+        "x": "Section 146. In the following sentences, each, either and neither are used as Adjectives; they are followed by nouns of the singular number."
       },
       {
         "t": "ex",
@@ -9652,7 +9652,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§147. Study the following sentences."
+        "x": "Section 147. Study the following sentences."
       },
       {
         "t": "ex",
@@ -9664,7 +9664,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§147. Each other and one another are called Reciprocal Pronouns."
+        "x": "Section 147. Each other and one another are called Reciprocal Pronouns."
       },
       {
         "t": "ex",
@@ -9685,7 +9685,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §136)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 136)",
        "items": [
         {
          "q": "What are Demonstrative Pronouns? Give examples.",
@@ -9700,7 +9700,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §137)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 137)",
        "items": [
         {
          "q": "When are 'this', 'that' etc. Demonstrative Adjectives, not Pronouns? Give examples.",
@@ -9715,7 +9715,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §138)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 138)",
        "items": [
         {
          "q": "What is the difference between 'this' and 'that'?",
@@ -9730,7 +9730,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §139)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 139)",
        "items": [
         {
          "q": "How is 'that', with its plural 'those', used to avoid repeating a noun? Give examples.",
@@ -9745,7 +9745,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §140)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 140)",
        "items": [
         {
          "q": "When two things already mentioned are referred to, what do 'this' and 'that' mean?",
@@ -9760,7 +9760,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §141)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 141)",
        "items": [
         {
          "q": "What are Indefinite Pronouns? Give examples.",
@@ -9775,7 +9775,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §142)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 142)",
        "items": [
         {
          "q": "Give sentences in which indefinite words are used as Adjectives.",
@@ -9790,7 +9790,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §143)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 143)",
        "items": [
         {
          "q": "Which pronoun is used in referring to 'anybody', 'everybody', 'everyone', 'anyone', 'each' etc.?",
@@ -9805,7 +9805,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §144)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 144)",
        "items": [
         {
          "q": "What are Distributive Pronouns? Give examples.",
@@ -9824,7 +9824,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §145)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 145)",
        "items": [
         {
          "q": "What are the three positions of the pronoun 'each'? Give examples.",
@@ -9839,7 +9839,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §146)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 146)",
        "items": [
         {
          "q": "Give sentences in which 'each', 'either' and 'neither' are used as Adjectives.",
@@ -9854,7 +9854,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 17, §147)",
+       "label": "The rule (Wren & Martin, Chapter 17, Section 147)",
        "items": [
         {
          "q": "What are Reciprocal Pronouns? How are they formed?",
@@ -10011,7 +10011,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§148. Read the following pairs of sentences."
+        "x": "Section 148. Read the following pairs of sentences."
       },
       {
         "t": "ex",
@@ -10027,11 +10027,11 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§148. Now let us examine the work done by each of the words, who, which and that.\nThe word who is used instead of the noun Hari. So it does the work of a Pronoun. The word who joins or connects two statements. So it does the work of a Conjunction. The word who, therefore, does double work — the work of a Pronoun and also the work of a Conjunction. We might, therefore, call it a Conjunctive Pronoun."
+        "x": "Section 148. Now let us examine the work done by each of the words, who, which and that.\nThe word who is used instead of the noun Hari. So it does the work of a Pronoun. The word who joins or connects two statements. So it does the work of a Conjunction. The word who, therefore, does double work — the work of a Pronoun and also the work of a Conjunction. We might, therefore, call it a Conjunctive Pronoun."
       },
       {
         "t": "def",
-        "x": "§148. It is, however, called a Relative Pronoun because it refers or relates (i.e., carries us back) to some noun going before (here, the noun Hari), which is called its Antecedent."
+        "x": "Section 148. It is, however, called a Relative Pronoun because it refers or relates (i.e., carries us back) to some noun going before (here, the noun Hari), which is called its Antecedent."
       },
       {
         "t": "p",
@@ -10043,7 +10043,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§149. The Relative Pronoun who has different forms for Accusative and Genitive.\nSingular and Plural\nNominative: who\nGenitive: whose\nAccusative: whom/who*"
+        "x": "Section 149. The Relative Pronoun who has different forms for Accusative and Genitive.\nSingular and Plural\nNominative: who\nGenitive: whose\nAccusative: whom/who*"
       },
       {
         "t": "ex",
@@ -10059,7 +10059,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§150. The Relative Pronoun which has the same form for the Nominative and Accusative cases.\nThe Relative Pronoun which has no Genitive Case, but whose is used as a substitute for 'of which'."
+        "x": "Section 150. The Relative Pronoun which has the same form for the Nominative and Accusative cases.\nThe Relative Pronoun which has no Genitive Case, but whose is used as a substitute for 'of which'."
       },
       {
         "t": "ex",
@@ -10067,7 +10067,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§151. The Relative Pronoun that has the same form in the Singular and Plural, and in the Nominative and Accusative. It has no Genitive case."
+        "x": "Section 151. The Relative Pronoun that has the same form in the Singular and Plural, and in the Nominative and Accusative. It has no Genitive case."
       },
       {
         "t": "ex",
@@ -10075,7 +10075,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§152. The Relative Pronoun what is used only in the Singular, and has the same form in the Nominative and Accusative."
+        "x": "Section 152. The Relative Pronoun what is used only in the Singular, and has the same form in the Nominative and Accusative."
       },
       {
         "t": "ex",
@@ -10087,7 +10087,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§153. As a general rule, who is used for persons only. It may refer to a Singular or a Plural Noun."
+        "x": "Section 153. As a general rule, who is used for persons only. It may refer to a Singular or a Plural Noun."
       },
       {
         "t": "ex",
@@ -10095,11 +10095,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§153. Who is sometimes used in referring to animals."
+        "x": "Section 153. Who is sometimes used in referring to animals."
       },
       {
         "t": "rule",
-        "x": "§153. Whose (the Possessive form of who) is used in speaking of persons, animals and also things without life (see § 150)."
+        "x": "Section 153. Whose (the Possessive form of who) is used in speaking of persons, animals and also things without life (see Section 150)."
       },
       {
         "t": "ex",
@@ -10107,7 +10107,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§154. Which is used for things without life and for animals. It may refer to a Singular or Plural Noun."
+        "x": "Section 154. Which is used for things without life and for animals. It may refer to a Singular or Plural Noun."
       },
       {
         "t": "ex",
@@ -10115,7 +10115,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§154. Which was sometimes formerly used to refer to persons."
+        "x": "Section 154. Which was sometimes formerly used to refer to persons."
       },
       {
         "t": "ex",
@@ -10123,7 +10123,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§154. Which may also refer to a sentence."
+        "x": "Section 154. Which may also refer to a sentence."
       },
       {
         "t": "ex",
@@ -10131,7 +10131,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "§154. Note — The Relative Pronouns who and which can be used —\n(i) To restrict, limit, or define more clearly the antecedent; that is, where the clause introduced by a relative pronoun is restrictive or defining."
+        "x": "Section 154. Note — The Relative Pronouns who and which can be used —\n(i) To restrict, limit, or define more clearly the antecedent; that is, where the clause introduced by a relative pronoun is restrictive or defining."
       },
       {
         "t": "ex",
@@ -10159,7 +10159,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§155. That is used for persons and things. It may refer to a Singular or a Plural Noun. (See § 151) That has no genitive case and it is never used with a preposition preceding."
+        "x": "Section 155. That is used for persons and things. It may refer to a Singular or a Plural Noun. (See Section 151) That has no genitive case and it is never used with a preposition preceding."
       },
       {
         "t": "ex",
@@ -10171,7 +10171,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§156. That may be used as an adverbial accusative = on which, in which, at which."
+        "x": "Section 156. That may be used as an adverbial accusative = on which, in which, at which."
       },
       {
         "t": "ex",
@@ -10179,7 +10179,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§157. As the Relative Pronoun that has a restrictive force it sometimes becomes unsuitable as the substitute for who or which."
+        "x": "Section 157. As the Relative Pronoun that has a restrictive force it sometimes becomes unsuitable as the substitute for who or which."
       },
       {
         "t": "ex",
@@ -10187,7 +10187,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§158. The Relative Pronoun that is used in preference to who or which — (1) After Adjectives in the Superlative Degree."
+        "x": "Section 158. The Relative Pronoun that is used in preference to who or which — (1) After Adjectives in the Superlative Degree."
       },
       {
         "t": "ex",
@@ -10195,7 +10195,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§158. (2) After the words all, same, any, none, nothing, (the) only."
+        "x": "Section 158. (2) After the words all, same, any, none, nothing, (the) only."
       },
       {
         "t": "ex",
@@ -10203,7 +10203,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§158. (3) After the Interrogative Pronouns who, what."
+        "x": "Section 158. (3) After the Interrogative Pronouns who, what."
       },
       {
         "t": "ex",
@@ -10211,7 +10211,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§158. (4) After two antecedents, one denoting a person and the other denoting an animal or a thing."
+        "x": "Section 158. (4) After two antecedents, one denoting a person and the other denoting an animal or a thing."
       },
       {
         "t": "ex",
@@ -10219,7 +10219,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§159. What refers to things only. It is used without an antecedent expressed, and is equivalent to that which (or the thing which)."
+        "x": "Section 159. What refers to things only. It is used without an antecedent expressed, and is equivalent to that which (or the thing which)."
       },
       {
         "t": "ex",
@@ -10231,7 +10231,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§160. In older English, the word as was used as a relative pronoun after such."
+        "x": "Section 160. In older English, the word as was used as a relative pronoun after such."
       },
       {
         "t": "ex",
@@ -10263,7 +10263,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§161. In older English, the word but was used as a relative pronoun after a negative; it often had the force of a relative pronoun."
+        "x": "Section 161. In older English, the word but was used as a relative pronoun after a negative; it often had the force of a relative pronoun."
       },
       {
         "t": "ex",
@@ -10279,7 +10279,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§162. The Relative Pronoun is generally omitted when it would be in the accusative case."
+        "x": "Section 162. The Relative Pronoun is generally omitted when it would be in the accusative case."
       },
       {
         "t": "ex",
@@ -10299,7 +10299,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§163. In the following examples from poetry a Relative Pronoun in the nominative case is omitted."
+        "x": "Section 163. In the following examples from poetry a Relative Pronoun in the nominative case is omitted."
       },
       {
         "t": "ex",
@@ -10319,7 +10319,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§164. In older English, the Antecedent of a Relative Pronoun was sometimes left out."
+        "x": "Section 164. In older English, the Antecedent of a Relative Pronoun was sometimes left out."
       },
       {
         "t": "ex",
@@ -10331,7 +10331,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§165. As the Relative Pronoun refers to a Noun or Pronoun (called its Antecedent) it must be of the same number and person as its Antecedent. [Remember that the verb shows the number and person of the Relative Pronoun.]"
+        "x": "Section 165. As the Relative Pronoun refers to a Noun or Pronoun (called its Antecedent) it must be of the same number and person as its Antecedent. [Remember that the verb shows the number and person of the Relative Pronoun.]"
       },
       {
         "t": "ex",
@@ -10339,7 +10339,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§165. But the case of the Relative Pronoun depends upon its relation to the verb in the clause in which it occurs."
+        "x": "Section 165. But the case of the Relative Pronoun depends upon its relation to the verb in the clause in which it occurs."
       },
       {
         "t": "ex",
@@ -10351,7 +10351,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§166. To prevent ambiguity, the Relative Pronoun should be placed as near as possible to its Antecedent."
+        "x": "Section 166. To prevent ambiguity, the Relative Pronoun should be placed as near as possible to its Antecedent."
       },
       {
         "t": "ex",
@@ -10375,7 +10375,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§167. Pronouns formed by adding ever, so, or soever to who, which and what are called Compound Relative Pronouns. They are: whoever, whoso, whosoever; whichever; whatever, whatsoever."
+        "x": "Section 167. Pronouns formed by adding ever, so, or soever to who, which and what are called Compound Relative Pronouns. They are: whoever, whoso, whosoever; whichever; whatever, whatsoever."
       },
       {
         "t": "p",
@@ -10387,7 +10387,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§168. The forms whoever, whichever, and whatever are now ordinarily used."
+        "x": "Section 168. The forms whoever, whichever, and whatever are now ordinarily used."
       },
       {
         "t": "ex",
@@ -10404,7 +10404,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §148)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 148)",
        "items": [
         {
          "q": "What work does a Relative Pronoun do? Show with examples.",
@@ -10431,7 +10431,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §149)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 149)",
        "items": [
         {
          "q": "Give the forms of the Relative Pronoun 'who'.",
@@ -10450,7 +10450,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §150)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 150)",
        "items": [
         {
          "q": "What are the forms of the Relative Pronoun 'which'?",
@@ -10465,7 +10465,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §151)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 151)",
        "items": [
         {
          "q": "What are the forms of the Relative Pronoun 'that'?",
@@ -10480,7 +10480,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §152)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 152)",
        "items": [
         {
          "q": "What are the forms of the Relative Pronoun 'what'?",
@@ -10495,7 +10495,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §153)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 153)",
        "items": [
         {
          "q": "For whom is 'who' used? Give examples.",
@@ -10503,7 +10503,7 @@ STUDY.grammar = {
         },
         {
          "q": "For what is 'whose' used? Give examples.",
-         "a": "Whose (the Possessive form of who) is used in speaking of persons, animals and also things without life (see §150); as,\nThe sun, whose rays give life to the earth, is regarded by some people as a god.\nThis is the question whose solution has baffled philosophers of all ages.\n[More properly, 'This is the question the solution of which has baffled philosophers of all ages'.]"
+         "a": "Whose (the Possessive form of who) is used in speaking of persons, animals and also things without life (see Section 150); as,\nThe sun, whose rays give life to the earth, is regarded by some people as a god.\nThis is the question whose solution has baffled philosophers of all ages.\n[More properly, 'This is the question the solution of which has baffled philosophers of all ages'.]"
         }
        ]
       }
@@ -10514,7 +10514,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §154)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 154)",
        "items": [
         {
          "q": "For what is 'which' used? Give examples.",
@@ -10541,11 +10541,11 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §155)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 155)",
        "items": [
         {
          "q": "For what is 'that' used? Give examples.",
-         "a": "That is used for persons and things. It may refer to a Singular or a Plural Noun. (See §151)\nThat has no genitive case and it is never used with a preposition preceding.\nThis is the boy that I told you of.\nI know the house that he lives in.\nUneasy lies the head that wears a crown.\nI have lost the watch that you gave me.\nThrice is he armed that hath his quarrel just.\nA city that is set on a hill cannot be hid.\nHe that is not with me is against me.\nHappy is the man that findeth wisdom.\nHe that is slow to anger is better than the mighty.\nThe crowd that gathered cheered him to the echo.\nWho that has met him can escape his influence?\nAll that I said had no effect on him.\nHe was the most eloquent speaker that I ever heard.\nIt will be noticed that the relative pronoun that is used only in defining clauses, i.e., clauses that restrict, limit, or define the antecedent."
+         "a": "That is used for persons and things. It may refer to a Singular or a Plural Noun. (See Section 151)\nThat has no genitive case and it is never used with a preposition preceding.\nThis is the boy that I told you of.\nI know the house that he lives in.\nUneasy lies the head that wears a crown.\nI have lost the watch that you gave me.\nThrice is he armed that hath his quarrel just.\nA city that is set on a hill cannot be hid.\nHe that is not with me is against me.\nHappy is the man that findeth wisdom.\nHe that is slow to anger is better than the mighty.\nThe crowd that gathered cheered him to the echo.\nWho that has met him can escape his influence?\nAll that I said had no effect on him.\nHe was the most eloquent speaker that I ever heard.\nIt will be noticed that the relative pronoun that is used only in defining clauses, i.e., clauses that restrict, limit, or define the antecedent."
         }
        ]
       }
@@ -10556,7 +10556,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §156)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 156)",
        "items": [
         {
          "q": "How may 'that' be used as an adverbial accusative? Give examples.",
@@ -10571,7 +10571,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §157)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 157)",
        "items": [
         {
          "q": "Why can we not say 'My father that is a schoolmaster is fifty years old'?",
@@ -10586,7 +10586,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §158)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 158)",
        "items": [
         {
          "q": "When is 'that' used in preference to 'who' or 'which'? (1) After superlatives.",
@@ -10613,7 +10613,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §159)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 159)",
        "items": [
         {
          "q": "What does 'what' mean, and how is it used? Give examples.",
@@ -10628,7 +10628,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §160)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 160)",
        "items": [
         {
          "q": "How was 'as' used as a relative pronoun in older English? Give examples.",
@@ -10647,7 +10647,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §161)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 161)",
        "items": [
         {
          "q": "How was 'but' used as a relative pronoun in older English? Give examples.",
@@ -10662,7 +10662,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §162)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 162)",
        "items": [
         {
          "q": "When is the Relative Pronoun generally omitted? Give examples.",
@@ -10677,7 +10677,7 @@ STUDY.grammar = {
      "num": "16",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §163)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 163)",
        "items": [
         {
          "q": "Give examples from poetry where a Relative Pronoun in the nominative case is omitted.",
@@ -10692,7 +10692,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §164)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 164)",
        "items": [
         {
          "q": "How was the Antecedent of a Relative Pronoun sometimes left out in older English? Give examples.",
@@ -10707,7 +10707,7 @@ STUDY.grammar = {
      "num": "18",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §165)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 165)",
        "items": [
         {
          "q": "With what must the Relative Pronoun agree? Give examples.",
@@ -10726,7 +10726,7 @@ STUDY.grammar = {
      "num": "19",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §166)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 166)",
        "items": [
         {
          "q": "Where should the Relative Pronoun be placed? Give examples.",
@@ -10741,7 +10741,7 @@ STUDY.grammar = {
      "num": "20",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §167)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 167)",
        "items": [
         {
          "q": "What are Compound Relative Pronouns? Give examples.",
@@ -10756,7 +10756,7 @@ STUDY.grammar = {
      "num": "21",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 18, §168)",
+       "label": "The rule (Wren & Martin, Chapter 18, Section 168)",
        "items": [
         {
          "q": "How are 'whoever', 'whichever' and 'whatever' used today? Give examples.",
@@ -11017,7 +11017,7 @@ STUDY.grammar = {
         },
         {
          "q": "9. The farmer is cutting the corn ____ has ripened.",
-         "a": "which (or that) — 'who' cannot be used for corn (§154)."
+         "a": "which (or that) — 'who' cannot be used for corn (Section 154)."
         },
         {
          "q": "10. ____ you say is not true.",
@@ -11069,7 +11069,7 @@ STUDY.grammar = {
         },
         {
          "q": "22. Wealth is not his ____ has it, but his ____ enjoys it.",
-         "a": "who ... who — (He) who has it; (he) who enjoys it (§164)."
+         "a": "who ... who — (He) who has it; (he) who enjoys it (Section 164)."
         },
         {
          "q": "23. People ____ are too sharp cut their own fingers.",
@@ -11085,7 +11085,7 @@ STUDY.grammar = {
         },
         {
          "q": "26. It is an ill wind ____ blows nobody good.",
-         "a": "that — the book itself gives this sentence in §121(6)."
+         "a": "that — the book itself gives this sentence in Section 121(6)."
         },
         {
          "q": "27. Is this a dagger ____ I see before me?",
@@ -11097,7 +11097,7 @@ STUDY.grammar = {
         },
         {
          "q": "29. ____ the gods would destroy they first make mad.",
-         "a": "Whom — (Those) whom the gods would destroy (§164)."
+         "a": "Whom — (Those) whom the gods would destroy (Section 164)."
         },
         {
          "q": "30. He is the very man ____ we want.",
@@ -11109,11 +11109,11 @@ STUDY.grammar = {
         },
         {
          "q": "32. They always talk ____ never think.",
-         "a": "who — (those) who never think (§164)."
+         "a": "who — (those) who never think (Section 164)."
         },
         {
          "q": "33. Such ____ have pure hearts shall inherit the kingdom of heaven.",
-         "a": "as — such ... as (§160)."
+         "a": "as — such ... as (Section 160)."
         }
        ]
       }
@@ -11589,7 +11589,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§169. Consider the following sentences."
+        "x": "Section 169. Consider the following sentences."
       },
       {
         "t": "ex",
@@ -11597,11 +11597,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§169. These Pronouns look like Relative Pronouns, but they do different work. Here they are used for asking questions, so they are called Interrogative Pronouns."
+        "x": "Section 169. These Pronouns look like Relative Pronouns, but they do different work. Here they are used for asking questions, so they are called Interrogative Pronouns."
       },
       {
         "t": "p",
-        "x": "§170. In the following sentences the Interrogative Pronouns are used in asking indirect questions."
+        "x": "Section 170. In the following sentences the Interrogative Pronouns are used in asking indirect questions."
       },
       {
         "t": "ex",
@@ -11613,7 +11613,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§171. Again consider the following sentences."
+        "x": "Section 171. Again consider the following sentences."
       },
       {
         "t": "ex",
@@ -11637,7 +11637,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§172. Who is used of persons only."
+        "x": "Section 172. Who is used of persons only."
       },
       {
         "t": "ex",
@@ -11645,7 +11645,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§173. Which is used of both persons and things. It implies selection, that is, it implies a question concerning a limited number."
+        "x": "Section 173. Which is used of both persons and things. It implies selection, that is, it implies a question concerning a limited number."
       },
       {
         "t": "ex",
@@ -11653,7 +11653,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§174. What is used of things only."
+        "x": "Section 174. What is used of things only."
       },
       {
         "t": "ex",
@@ -11661,7 +11661,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§175. In such expressions as, 'What are you?', 'What is he?', 'What is this man?', the word what does not refer to the person but to his profession or employment."
+        "x": "Section 175. In such expressions as, 'What are you?', 'What is he?', 'What is this man?', the word what does not refer to the person but to his profession or employment."
       },
       {
         "t": "ex",
@@ -11677,7 +11677,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§176. In the following sentences which and what are used as Interrogative Adjectives."
+        "x": "Section 176. In the following sentences which and what are used as Interrogative Adjectives."
       },
       {
         "t": "ex",
@@ -11685,7 +11685,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§177. In the following sentences the words in italics are used as Compound Interrogative Pronouns."
+        "x": "Section 177. In the following sentences the words in italics are used as Compound Interrogative Pronouns."
       },
       {
         "t": "ex",
@@ -11701,7 +11701,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "§178. A Pronoun used as an exclamation is called an Exclamatory Pronoun."
+        "x": "Section 178. A Pronoun used as an exclamation is called an Exclamatory Pronoun."
       },
       {
         "t": "ex",
@@ -11718,7 +11718,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §169)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 169)",
        "items": [
         {
          "q": "What are Interrogative Pronouns? Give examples.",
@@ -11733,7 +11733,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §170)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 170)",
        "items": [
         {
          "q": "Give sentences in which Interrogative Pronouns are used in asking indirect questions.",
@@ -11748,7 +11748,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §171)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 171)",
        "items": [
         {
          "q": "Give the forms of the Interrogative Pronoun 'who'.",
@@ -11763,7 +11763,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §172)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 172)",
        "items": [
         {
          "q": "For whom is 'who' used? Give examples.",
@@ -11778,7 +11778,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §173)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 173)",
        "items": [
         {
          "q": "For what is 'which' used? What does it imply? Give examples.",
@@ -11793,7 +11793,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §174)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 174)",
        "items": [
         {
          "q": "For what is 'what' used? Give examples.",
@@ -11808,7 +11808,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §175)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 175)",
        "items": [
         {
          "q": "What does 'what' mean in 'What are you?' and 'What is he?'?",
@@ -11827,7 +11827,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §176)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 176)",
        "items": [
         {
          "q": "Give sentences in which 'which' and 'what' are used as Interrogative Adjectives.",
@@ -11842,7 +11842,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §177)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 177)",
        "items": [
         {
          "q": "Give sentences in which compound words are used as Interrogative Pronouns.",
@@ -11857,7 +11857,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 19, §178)",
+       "label": "The rule (Wren & Martin, Chapter 19, Section 178)",
        "items": [
         {
          "q": "What is an Exclamatory Pronoun? Give examples.",
@@ -11872,7 +11872,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "Exercise 35 — from the book (Wren & Martin, Chapter 19). Note: the Key's print for several items is too blurred to read, so some answers are worked out from the chapter's own rules (§172–174) — see the flags file.",
+       "label": "Exercise 35 — from the book (Wren & Martin, Chapter 19). Note: the Key's print for several items is too blurred to read, so some answers are worked out from the chapter's own rules (Section 172–174) — see the flags file.",
        "items": [
         {
          "q": "1. ____ wishes to see you?",
@@ -11880,7 +11880,7 @@ STUDY.grammar = {
         },
         {
          "q": "2. ____ do you wish to see?",
-         "a": "Whom (Who is also used today, §171)."
+         "a": "Whom (Who is also used today, Section 171)."
         },
         {
          "q": "3. ____ did she say was the winner?",
@@ -11908,7 +11908,7 @@ STUDY.grammar = {
         },
         {
          "q": "9. ____ did you see?",
-         "a": "Whom (Who is also used today, §171)."
+         "a": "Whom (Who is also used today, Section 171)."
         },
         {
          "q": "10. ____ do you mean?",
@@ -11972,7 +11972,7 @@ STUDY.grammar = {
         },
         {
          "q": "25. ____ did you speak to?",
-         "a": "Whom (Who is also used today, §171)."
+         "a": "Whom (Who is also used today, Section 171)."
         },
         {
          "q": "26. ____ is life worth?",
@@ -12012,7 +12012,7 @@ STUDY.grammar = {
         },
         {
          "q": "35. ____ is an Island?",
-         "a": "Which — selection among places (§173)."
+         "a": "Which — selection among places (Section 173)."
         },
         {
          "q": "36. ____ is your book?",
@@ -12114,7 +12114,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§179. A Verb is a word that tells us something about a person or thing. The word verb comes from the Latin word verbum, which means a word. The verb is the most important word in a sentence."
+        "x": "Section 179. A Verb is a word that tells us something about a person or thing. The word verb comes from the Latin word verbum, which means a word. The verb is the most important word in a sentence."
       },
       {
         "t": "h",
@@ -12122,7 +12122,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§179. A verb can tell us three things: (1) what a person or thing does; (2) what is done to a person or thing; (3) what a person or thing is."
+        "x": "Section 179. A verb can tell us three things: (1) what a person or thing does; (2) what is done to a person or thing; (3) what a person or thing is."
       },
       {
         "t": "ex",
@@ -12130,7 +12130,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§179)—A Verb is a word used to tell us something about a person or thing."
+        "x": "Def. (Section 179)—A Verb is a word used to tell us something about a person or thing."
       },
       {
         "t": "h",
@@ -12142,7 +12142,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§180. A verb can be more than one word."
+        "x": "Section 180. A verb can be more than one word."
       },
       {
         "t": "ex",
@@ -12154,7 +12154,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§181. Read these sentences."
+        "x": "Section 181. Read these sentences."
       },
       {
         "t": "ex",
@@ -12170,11 +12170,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§181)—A Transitive Verb is a verb whose action passes from the doer to an object."
+        "x": "Def. (Section 181)—A Transitive Verb is a verb whose action passes from the doer to an object."
       },
       {
         "t": "def",
-        "x": "Def. (§181)—An Intransitive Verb is a verb whose action does not pass to an object. It can also show a state or being."
+        "x": "Def. (Section 181)—An Intransitive Verb is a verb whose action does not pass to an object. It can also show a state or being."
       },
       {
         "t": "ex",
@@ -12182,7 +12182,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§181)—Intransitive verbs that show being take the same case after them as before them."
+        "x": "Note (Section 181)—Intransitive verbs that show being take the same case after them as before them."
       },
       {
         "t": "h",
@@ -12194,7 +12194,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§182. Most transitive verbs take only one object. But verbs like give, ask, offer, promise and tell take two objects: an Indirect Object and a Direct Object. The Indirect Object is the person to whom something is given, or for whom something is done. The Direct Object is usually the name of a thing."
+        "x": "Section 182. Most transitive verbs take only one object. But verbs like give, ask, offer, promise and tell take two objects: an Indirect Object and a Direct Object. The Indirect Object is the person to whom something is given, or for whom something is done. The Direct Object is usually the name of a thing."
       },
       {
         "t": "ex",
@@ -12210,7 +12210,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§183. Most verbs can be used both as transitive and as intransitive verbs. So it is better to say that a verb is used transitively or intransitively, not that it is transitive or intransitive."
+        "x": "Section 183. Most verbs can be used both as transitive and as intransitive verbs. So it is better to say that a verb is used transitively or intransitively, not that it is transitive or intransitive."
       },
       {
         "t": "ex",
@@ -12222,7 +12222,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§183)—Some verbs, like come, go, fall, die, sleep and lie, show actions that cannot be done to anything. So they can never be used transitively."
+        "x": "Note (Section 183)—Some verbs, like come, go, fall, die, sleep and lie, show actions that cannot be done to anything. So they can never be used transitively."
       },
       {
         "t": "h",
@@ -12234,7 +12234,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§184. When the subject and the object of a sentence are the same person, the verb is said to be used reflexively."
+        "x": "Section 184. When the subject and the object of a sentence are the same person, the verb is said to be used reflexively."
       },
       {
         "t": "ex",
@@ -12242,7 +12242,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§184. Sometimes the verb is used reflexively, but the object is not said. In the examples below, the reflexive pronoun that is understood is put in brackets."
+        "x": "Section 184. Sometimes the verb is used reflexively, but the object is not said. In the examples below, the reflexive pronoun that is understood is put in brackets."
       },
       {
         "t": "ex",
@@ -12254,7 +12254,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§185. Some verbs can be used reflexively and also as ordinary transitive verbs."
+        "x": "Section 185. Some verbs can be used reflexively and also as ordinary transitive verbs."
       },
       {
         "t": "ex",
@@ -12270,7 +12270,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§186. When an intransitive verb is used in the sense of causing something, it becomes transitive."
+        "x": "Section 186. When an intransitive verb is used in the sense of causing something, it becomes transitive."
       },
       {
         "t": "ex",
@@ -12286,7 +12286,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§187. A few common verbs are known as transitive or intransitive by their spelling. The transitive form is the causative form of the intransitive verb — it means to cause the action."
+        "x": "Section 187. A few common verbs are known as transitive or intransitive by their spelling. The transitive form is the causative form of the intransitive verb — it means to cause the action."
       },
       {
         "t": "ex",
@@ -12302,7 +12302,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§188. Some intransitive verbs become transitive when a preposition is added to them."
+        "x": "Section 188. Some intransitive verbs become transitive when a preposition is added to them."
       },
       {
         "t": "ex",
@@ -12310,7 +12310,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§188. Sometimes the preposition is joined to the front of the verb."
+        "x": "Section 188. Sometimes the preposition is joined to the front of the verb."
       },
       {
         "t": "ex",
@@ -12326,7 +12326,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§189. Sometimes an intransitive verb takes an object that is close in meaning to the verb itself. This object is called the Cognate Object or Cognate Accusative. Cognate comes from the Latin Cognatus, which means akin, or of the same kind."
+        "x": "Section 189. Sometimes an intransitive verb takes an object that is close in meaning to the verb itself. This object is called the Cognate Object or Cognate Accusative. Cognate comes from the Latin Cognatus, which means akin, or of the same kind."
       },
       {
         "t": "ex",
@@ -12350,7 +12350,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§190. A noun can be used like an adverb to modify a verb, an adjective or an adverb. It shows time, place, distance, weight, value, and so on. Such a noun is called an Adverbial Object or Adverbial Accusative. It is said to be in the Accusative Case, used adverbially."
+        "x": "Section 190. A noun can be used like an adverb to modify a verb, an adjective or an adverb. It shows time, place, distance, weight, value, and so on. Such a noun is called an Adverbial Object or Adverbial Accusative. It is said to be in the Accusative Case, used adverbially."
       },
       {
         "t": "ex",
@@ -12366,7 +12366,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§191. A few transitive verbs are sometimes used as intransitive verbs."
+        "x": "Section 191. A few transitive verbs are sometimes used as intransitive verbs."
       },
       {
         "t": "ex",
@@ -12383,7 +12383,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §179)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 179)",
        "items": [
         {
          "q": "What is a verb?",
@@ -12406,7 +12406,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §180)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 180)",
        "items": [
         {
          "q": "Can a verb be more than one word? Give examples.",
@@ -12421,7 +12421,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §181)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 181)",
        "items": [
         {
          "q": "Read these sentences: (1) The boy kicks the football. (2) The boy laughs loudly. Why is 'kicks' transitive and 'laughs' intransitive?",
@@ -12448,7 +12448,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §182)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 182)",
        "items": [
         {
          "q": "Which transitive verbs take two objects? What are the two objects called?",
@@ -12463,7 +12463,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §183)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 183)",
        "items": [
         {
          "q": "Can the same verb be used both as transitive and as intransitive?",
@@ -12486,7 +12486,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §§184–185)",
+       "label": "The rule (Wren & Martin, Chapter 20, Sections 184–185)",
        "items": [
         {
          "q": "When is a verb said to be used reflexively?",
@@ -12667,7 +12667,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §186)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 186)",
        "items": [
         {
          "q": "When does an intransitive verb become transitive?",
@@ -12686,7 +12686,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §187)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 187)",
        "items": [
         {
          "q": "How are some transitive and intransitive verbs distinguished by spelling?",
@@ -12705,7 +12705,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §188)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 188)",
        "items": [
         {
          "q": "How may some intransitive verbs become transitive?",
@@ -12724,7 +12724,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §189)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 189)",
        "items": [
         {
          "q": "What is a Cognate Object?",
@@ -12747,7 +12747,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §190)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 190)",
        "items": [
         {
          "q": "What is an Adverbial Object?",
@@ -12762,7 +12762,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 20, §191)",
+       "label": "The rule (Wren & Martin, Chapter 20, Section 191)",
        "items": [
         {
          "q": "Give examples of transitive verbs sometimes used as intransitive verbs.",
@@ -12834,7 +12834,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§192. Read these sentences."
+        "x": "Section 192. Read these sentences."
       },
       {
         "t": "ex",
@@ -12846,7 +12846,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§192)—The word happy, which is needed to complete the sense, is called the Complement of the Verb, or the Completion of the Predicate."
+        "x": "Def. (Section 192)—The word happy, which is needed to complete the sense, is called the Complement of the Verb, or the Completion of the Predicate."
       },
       {
         "t": "h",
@@ -12858,7 +12858,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§193. Verbs of Incomplete Predication usually show being, becoming, seeming or appearing. The complement is usually a noun, called a Predicative Noun, or an adjective, called a Predicative Adjective. When the complement tells us about the subject, it is called a Subjective Complement."
+        "x": "Section 193. Verbs of Incomplete Predication usually show being, becoming, seeming or appearing. The complement is usually a noun, called a Predicative Noun, or an adjective, called a Predicative Adjective. When the complement tells us about the subject, it is called a Subjective Complement."
       },
       {
         "t": "ex",
@@ -12866,7 +12866,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§193)—When the Subjective Complement is a noun (as in 1, 3 and 4), it is in the same case as the subject — that is, in the Nominative Case."
+        "x": "Note (Section 193)—When the Subjective Complement is a noun (as in 1, 3 and 4), it is in the same case as the subject — that is, in the Nominative Case."
       },
       {
         "t": "h",
@@ -12878,7 +12878,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§194. Some transitive verbs need a complement as well as an object to complete their meaning."
+        "x": "Section 194. Some transitive verbs need a complement as well as an object to complete their meaning."
       },
       {
         "t": "ex",
@@ -12886,11 +12886,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§194)—In each of these sentences, the complement tells us about the object. So it is called an Objective Complement."
+        "x": "Def. (Section 194)—In each of these sentences, the complement tells us about the object. So it is called an Objective Complement."
       },
       {
         "t": "note",
-        "x": "Note (§194)—When the Objective Complement is a noun (as in 1, 2, 5, 8, 9 and 10), it is in the Objective (or Accusative) Case, matching the object."
+        "x": "Note (Section 194)—When the Objective Complement is a noun (as in 1, 2, 5, 8, 9 and 10), it is in the Objective (or Accusative) Case, matching the object."
       }
     ],
    "unit": 21,
@@ -12903,7 +12903,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 21, §192)",
+       "label": "The rule (Wren & Martin, Chapter 21, Section 192)",
        "items": [
         {
          "q": "Read these sentences: (1) The baby sleeps. (2) The baby seems happy. How are the two verbs different?",
@@ -12922,7 +12922,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 21, §193)",
+       "label": "The rule (Wren & Martin, Chapter 21, Section 193)",
        "items": [
         {
          "q": "What do Verbs of Incomplete Predication usually express? What does the Complement usually consist of?",
@@ -12945,7 +12945,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 21, §194)",
+       "label": "The rule (Wren & Martin, Chapter 21, Section 194)",
        "items": [
         {
          "q": "Which transitive verbs also need a Complement?",
@@ -13130,7 +13130,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§195. Compare these two sentences. They mean the same thing."
+        "x": "Section 195. Compare these two sentences. They mean the same thing."
       },
       {
         "t": "ex",
@@ -13146,15 +13146,15 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§195)—A verb is in the Active Voice when its form shows that the person or thing named by the subject does something. In other words, the subject is the doer of the action. It is called Active because the subject acts."
+        "x": "Def. (Section 195)—A verb is in the Active Voice when its form shows that the person or thing named by the subject does something. In other words, the subject is the doer of the action. It is called Active because the subject acts."
       },
       {
         "t": "def",
-        "x": "Def. (§195)—A verb is in the Passive Voice when its form shows that something is done to the person or thing named by the subject. It is called Passive because the subject is not active, but passive — it suffers or receives the action."
+        "x": "Def. (Section 195)—A verb is in the Passive Voice when its form shows that something is done to the person or thing named by the subject. It is called Passive because the subject is not active, but passive — it suffers or receives the action."
       },
       {
         "t": "def",
-        "x": "Def. (§195)—Voice is the form of a verb that shows whether the subject does something or has something done to it."
+        "x": "Def. (Section 195)—Voice is the form of a verb that shows whether the subject does something or has something done to it."
       },
       {
         "t": "p",
@@ -13166,7 +13166,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§195. When a verb changes from the Active Voice to the Passive Voice, the object of the transitive verb in the Active Voice becomes the subject of the verb in the Passive Voice."
+        "x": "Section 195. When a verb changes from the Active Voice to the Passive Voice, the object of the transitive verb in the Active Voice becomes the subject of the verb in the Passive Voice."
       },
       {
         "t": "p",
@@ -13182,11 +13182,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§196. Only transitive verbs can be used in the Passive Voice. This is because the object of the verb in the Active Voice becomes the subject in the Passive Voice, and an intransitive verb has no object."
+        "x": "Section 196. Only transitive verbs can be used in the Passive Voice. This is because the object of the verb in the Active Voice becomes the subject in the Passive Voice, and an intransitive verb has no object."
       },
       {
         "t": "rule",
-        "x": "§196. The Passive Voice is formed with the right tense of the verb be, followed by the Past Participle. Study this table for the verb take."
+        "x": "Section 196. The Passive Voice is formed with the right tense of the verb be, followed by the Past Participle. Study this table for the verb take."
       },
       {
         "t": "ex",
@@ -13198,7 +13198,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§197. Students must know when to use the Active Voice and when to use the Passive. It is not enough to know how to change one into the other."
+        "x": "Section 197. Students must know when to use the Active Voice and when to use the Passive. It is not enough to know how to change one into the other."
       },
       {
         "t": "h",
@@ -13206,7 +13206,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§197. Use the Active Voice when you want to make the doer of the action stand out. Use the Passive when you want to make the person or thing acted upon stand out. The Passive is often better when the active sentence would need a vague word like somebody, they, people or we as the subject — that is, when we do not know who did the action, or when it is clear enough who did it."
+        "x": "Section 197. Use the Active Voice when you want to make the doer of the action stand out. Use the Passive when you want to make the person or thing acted upon stand out. The Passive is often better when the active sentence would need a vague word like somebody, they, people or we as the subject — that is, when we do not know who did the action, or when it is clear enough who did it."
       },
       {
         "t": "ex",
@@ -13218,7 +13218,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§197)—But, as in the examples given before, the by-phrase cannot be left out when the doer is important and is needed to complete the sense."
+        "x": "Note (Section 197)—But, as in the examples given before, the by-phrase cannot be left out when the doer is important and is needed to complete the sense."
       },
       {
         "t": "h",
@@ -13230,7 +13230,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§198. When a verb with a direct and an indirect object is changed into the Passive, either object can become the subject of the passive verb. The other object stays."
+        "x": "Section 198. When a verb with a direct and an indirect object is changed into the Passive, either object can become the subject of the passive verb. The other object stays."
       },
       {
         "t": "ex",
@@ -13246,7 +13246,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§199)—We use with, not by, to talk about the instrument used by the doer."
+        "x": "Note (Section 199)—We use with, not by, to talk about the instrument used by the doer."
       },
       {
         "t": "ex",
@@ -13262,7 +13262,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§200. A few transitive verbs are sometimes used in the Active form but with a Passive meaning."
+        "x": "Section 200. A few transitive verbs are sometimes used in the Active form but with a Passive meaning."
       },
       {
         "t": "ex",
@@ -13274,7 +13274,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§201. Here are more examples of the change between the Active and the Passive Voice."
+        "x": "Section 201. Here are more examples of the change between the Active and the Passive Voice."
       },
       {
         "t": "ex",
@@ -13291,7 +13291,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 22, §195)",
+       "label": "The rule (Wren & Martin, Chapter 22, Section 195)",
        "items": [
         {
          "q": "Compare: (1) Rama helps Hari. (2) Hari is helped by Rama. What is the difference?",
@@ -13326,7 +13326,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 22, §196)",
+       "label": "The rule (Wren & Martin, Chapter 22, Section 196)",
        "items": [
         {
          "q": "Which verbs can be used in the Passive Voice?",
@@ -13345,7 +13345,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 22, §197)",
+       "label": "The rule (Wren & Martin, Chapter 22, Section 197)",
        "items": [
         {
          "q": "When is the Active Voice used, and when the Passive?",
@@ -13368,7 +13368,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 22, §198)",
+       "label": "The rule (Wren & Martin, Chapter 22, Section 198)",
        "items": [
         {
          "q": "When a verb with two objects is changed to the Passive, which object becomes the subject?",
@@ -13391,7 +13391,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 22, §199)",
+       "label": "The rule (Wren & Martin, Chapter 22, Section 199)",
        "items": [
         {
          "q": "Do we use 'with' or 'by' for the instrument in the Passive?",
@@ -13406,7 +13406,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 22, §200)",
+       "label": "The rule (Wren & Martin, Chapter 22, Section 200)",
        "items": [
         {
          "q": "Give examples of transitive verbs used in an active form but in a passive sense.",
@@ -13860,7 +13860,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 22, §201)",
+       "label": "The rule (Wren & Martin, Chapter 22, Section 201)",
        "items": [
         {
          "q": "Give further examples of the interchange of Active and Passive Voice.",
@@ -14043,7 +14043,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§202. The simplest use of a verb is to make a statement of fact or ask a question."
+        "x": "Section 202. The simplest use of a verb is to make a statement of fact or ask a question."
       },
       {
         "t": "ex",
@@ -14071,7 +14071,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§202)—Mood is the way in which the action of a verb is shown."
+        "x": "Def. (Section 202)—Mood is the way in which the action of a verb is shown."
       },
       {
         "t": "h",
@@ -14083,7 +14083,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§203. There are three Moods in English: Indicative, Imperative, Subjunctive."
+        "x": "Section 203. There are three Moods in English: Indicative, Imperative, Subjunctive."
       },
       {
         "t": "ex",
@@ -14099,7 +14099,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§204. The Indicative Mood is used: (1) To make a statement of fact; (2) To ask a question."
+        "x": "Section 204. The Indicative Mood is used: (1) To make a statement of fact; (2) To ask a question."
       },
       {
         "t": "ex",
@@ -14119,7 +14119,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§205. The Indicative Mood is also used for a supposition that we take as a fact."
+        "x": "Section 205. The Indicative Mood is also used for a supposition that we take as a fact."
       },
       {
         "t": "ex",
@@ -14127,7 +14127,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§205)—A verb that makes a statement of fact, asks a question, or shows a supposition taken as a fact, is in the Indicative Mood."
+        "x": "Def. (Section 205)—A verb that makes a statement of fact, asks a question, or shows a supposition taken as a fact, is in the Indicative Mood."
       },
       {
         "t": "h",
@@ -14139,7 +14139,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§206. The Imperative Mood is used to express: (1) A command; (2) An exhortation, or strong advice; (3) An entreaty or prayer, or a humble request."
+        "x": "Section 206. The Imperative Mood is used to express: (1) A command; (2) An exhortation, or strong advice; (3) An entreaty or prayer, or a humble request."
       },
       {
         "t": "ex",
@@ -14147,11 +14147,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§206)—A verb that shows a command, an exhortation, an entreaty or a prayer, is in the Imperative Mood."
+        "x": "Def. (Section 206)—A verb that shows a command, an exhortation, an entreaty or a prayer, is in the Imperative Mood."
       },
       {
         "t": "note",
-        "x": "Note 1 (§206)—The Imperative Mood can strictly be used only in the Second Person, because the person who is commanded must be the person spoken to. But for the First and Third Persons we use the helping verb let to give the same meaning."
+        "x": "Note 1 (Section 206)—The Imperative Mood can strictly be used only in the Second Person, because the person who is commanded must be the person spoken to. But for the First and Third Persons we use the helping verb let to give the same meaning."
       },
       {
         "t": "ex",
@@ -14159,7 +14159,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note 2 (§206)—The subject of a verb in the Imperative Mood (you) is usually left out."
+        "x": "Note 2 (Section 206)—The subject of a verb in the Imperative Mood (you) is usually left out."
       },
       {
         "t": "h",
@@ -14167,7 +14167,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§207. Here are the forms of the Subjunctive."
+        "x": "Section 207. Here are the forms of the Subjunctive."
       },
       {
         "t": "ex",
@@ -14187,7 +14187,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§208. The Present Subjunctive is found: (1) In certain old phrases, where it shows a wish or hope."
+        "x": "Section 208. The Present Subjunctive is found: (1) In certain old phrases, where it shows a wish or hope."
       },
       {
         "t": "ex",
@@ -14195,7 +14195,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§208. The Present Subjunctive is also found: (2) In formal English, in a noun clause after a verb that shows a wish, a plan, a decision, and so on."
+        "x": "Section 208. The Present Subjunctive is also found: (2) In formal English, in a noun clause after a verb that shows a wish, a plan, a decision, and so on."
       },
       {
         "t": "ex",
@@ -14203,7 +14203,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§208)—Wishes like ‘God bless you!’ belong to the Present Subjunctive. This book has only three Moods — Indicative, Imperative and Subjunctive. There is no separate Optative Mood."
+        "x": "Note (Section 208)—Wishes like ‘God bless you!’ belong to the Present Subjunctive. This book has only three Moods — Indicative, Imperative and Subjunctive. There is no separate Optative Mood."
       },
       {
         "t": "h",
@@ -14215,7 +14215,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§209. The Past Subjunctive is used: (1) After the verb wish, to show a situation that is not real, or not true."
+        "x": "Section 209. The Past Subjunctive is used: (1) After the verb wish, to show a situation that is not real, or not true."
       },
       {
         "t": "ex",
@@ -14223,7 +14223,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§209. The Past Subjunctive is used: (2) After if, to show that something is unlikely or not real in the present."
+        "x": "Section 209. The Past Subjunctive is used: (2) After if, to show that something is unlikely or not real in the present."
       },
       {
         "t": "ex",
@@ -14231,7 +14231,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§209. The Past Subjunctive is used: (3) After as if / as though, to show that something is not real or not likely."
+        "x": "Section 209. The Past Subjunctive is used: (3) After as if / as though, to show that something is not real or not likely."
       },
       {
         "t": "ex",
@@ -14239,7 +14239,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§209. The Past Subjunctive is used: (4) After it is time + subject, to show that it is late."
+        "x": "Section 209. The Past Subjunctive is used: (4) After it is time + subject, to show that it is late."
       },
       {
         "t": "ex",
@@ -14247,7 +14247,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§209. The Past Subjunctive is used: (5) After would rather + subject, to show a choice."
+        "x": "Section 209. The Past Subjunctive is used: (5) After would rather + subject, to show a choice."
       },
       {
         "t": "ex",
@@ -14264,7 +14264,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §202)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 202)",
        "items": [
         {
          "q": "How may a verb be used?",
@@ -14287,7 +14287,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §203)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 203)",
        "items": [
         {
          "q": "How many Moods are there in English? Name them.",
@@ -14302,7 +14302,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §204)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 204)",
        "items": [
         {
          "q": "What is the Indicative Mood used for?",
@@ -14317,7 +14317,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §205)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 205)",
        "items": [
         {
          "q": "How is the Indicative Mood also used?",
@@ -14336,7 +14336,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §206)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 206)",
        "items": [
         {
          "q": "What is the Imperative Mood used to express?",
@@ -14363,7 +14363,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §207)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 207)",
        "items": [
         {
          "q": "What are the forms of the Subjunctive?",
@@ -14382,7 +14382,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §208)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 208)",
        "items": [
         {
          "q": "When does the Present Subjunctive occur?",
@@ -14390,7 +14390,7 @@ STUDY.grammar = {
         },
         {
          "q": "Where does a wish like 'God bless you!' belong in this book?",
-         "a": "The book puts wishes like ‘God bless you!’ under the Present Subjunctive (§208). It lists only three Moods—Indicative, Imperative, Subjunctive—and does not list a separate Optative Mood."
+         "a": "The book puts wishes like ‘God bless you!’ under the Present Subjunctive (Section 208). It lists only three Moods—Indicative, Imperative, Subjunctive—and does not list a separate Optative Mood."
         }
        ]
       }
@@ -14401,7 +14401,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 23, §209)",
+       "label": "The rule (Wren & Martin, Chapter 23, Section 209)",
        "items": [
         {
          "q": "When is the Past Subjunctive used after 'wish'?",
@@ -14536,7 +14536,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§210. Read these sentences."
+        "x": "Section 210. Read these sentences."
       },
       {
         "t": "ex",
@@ -14556,7 +14556,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§211)—A verb that refers to present time is in the Present Tense."
+        "x": "Def. (Section 211)—A verb that refers to present time is in the Present Tense."
       },
       {
         "t": "ex",
@@ -14568,7 +14568,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§211)—A verb that refers to past time is in the Past Tense."
+        "x": "Def. (Section 211)—A verb that refers to past time is in the Past Tense."
       },
       {
         "t": "ex",
@@ -14576,7 +14576,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§211)—A verb that refers to future time is in the Future Tense."
+        "x": "Def. (Section 211)—A verb that refers to future time is in the Future Tense."
       },
       {
         "t": "ex",
@@ -14592,15 +14592,15 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§212. There are three main Tenses: the Present, the Past and the Future."
+        "x": "Section 212. There are three main Tenses: the Present, the Past and the Future."
       },
       {
         "t": "def",
-        "x": "Def. (§212)—The Tense of a verb shows the time of an action or event."
+        "x": "Def. (Section 212)—The Tense of a verb shows the time of an action or event."
       },
       {
         "t": "note",
-        "x": "Note (§212)—Sometimes a past tense can refer to present time, and a present tense can show future time."
+        "x": "Note (Section 212)—Sometimes a past tense can refer to present time, and a present tense can show future time."
       },
       {
         "t": "ex",
@@ -14612,7 +14612,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§213. Below are the chief Tenses (Active Voice, Indicative Mood) of the verb to love."
+        "x": "Section 213. Below are the chief Tenses (Active Voice, Indicative Mood) of the verb to love."
       },
       {
         "t": "ex",
@@ -14628,7 +14628,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§214. The Present Tense has four forms."
+        "x": "Section 214. The Present Tense has four forms."
       },
       {
         "t": "ex",
@@ -14640,7 +14640,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§214. In sentence 1, the verb simply names the action. It says nothing about whether the action is finished or unfinished."
+        "x": "Section 214. In sentence 1, the verb simply names the action. It says nothing about whether the action is finished or unfinished."
       },
       {
         "t": "ex",
@@ -14648,7 +14648,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§214. In sentence 2, the verb shows the action as unfinished — it is still going on."
+        "x": "Section 214. In sentence 2, the verb shows the action as unfinished — it is still going on."
       },
       {
         "t": "ex",
@@ -14656,7 +14656,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§214. In sentence 3, the verb shows the action as finished, or complete, at the time of speaking."
+        "x": "Section 214. In sentence 3, the verb shows the action as finished, or complete, at the time of speaking."
       },
       {
         "t": "ex",
@@ -14664,7 +14664,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§214. In sentence 4, the verb shows that the action is still going on, and is not finished at this moment. That is why it is called the Present Perfect Continuous."
+        "x": "Section 214. In sentence 4, the verb shows that the action is still going on, and is not finished at this moment. That is why it is called the Present Perfect Continuous."
       },
       {
         "t": "ex",
@@ -14672,7 +14672,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§214. So the Tense of a verb shows not only the time of an action, but also the state of the action — whether it is finished or still going on."
+        "x": "Section 214. So the Tense of a verb shows not only the time of an action, but also the state of the action — whether it is finished or still going on."
       },
       {
         "t": "h",
@@ -14684,7 +14684,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§215. Just as the Present Tense has four forms, the Past Tense also has four forms."
+        "x": "Section 215. Just as the Present Tense has four forms, the Past Tense also has four forms."
       },
       {
         "t": "ex",
@@ -14692,7 +14692,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§215. The Future Tense also has four forms."
+        "x": "Section 215. The Future Tense also has four forms."
       },
       {
         "t": "ex",
@@ -14700,7 +14700,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§215)—Tense is the form of a verb that shows the time and the state of an action or event."
+        "x": "Def. (Section 215)—Tense is the form of a verb that shows the time and the state of an action or event."
       },
       {
         "t": "h",
@@ -14712,7 +14712,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§216. A verb agrees with its subject in number and person. Study the verb forms of the different tenses. Here are the forms of the verb ‘speak’ in all twelve tenses."
+        "x": "Section 216. A verb agrees with its subject in number and person. Study the verb forms of the different tenses. Here are the forms of the verb ‘speak’ in all twelve tenses."
       },
       {
         "t": "ex",
@@ -14737,7 +14737,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 24, §210)",
+       "label": "The rule (Wren & Martin, Chapter 24, Section 210)",
        "items": [
         {
          "q": "Read these sentences: (1) I write this letter to please you. (2) I wrote the letter in his very presence. (3) I shall write another letter tomorrow. What time does each verb refer to?",
@@ -14752,7 +14752,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 24, §211)",
+       "label": "The rule (Wren & Martin, Chapter 24, Section 211)",
        "items": [
         {
          "q": "What is the Present Tense?",
@@ -14775,7 +14775,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 24, §212)",
+       "label": "The rule (Wren & Martin, Chapter 24, Section 212)",
        "items": [
         {
          "q": "How many main Tenses are there? What does the Tense of a verb show?",
@@ -14794,7 +14794,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 24, §213)",
+       "label": "The rule (Wren & Martin, Chapter 24, Section 213)",
        "items": [
         {
          "q": "Give the chief Tenses (Active Voice, Indicative Mood) of the verb 'to love'.",
@@ -14809,7 +14809,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 24, §214)",
+       "label": "The rule (Wren & Martin, Chapter 24, Section 214)",
        "items": [
         {
          "q": "What are the four forms of the Present Tense?",
@@ -14832,7 +14832,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 24, §215)",
+       "label": "The rule (Wren & Martin, Chapter 24, Section 215)",
        "items": [
         {
          "q": "What are the four forms of the Past Tense?",
@@ -14855,7 +14855,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 24, §216)",
+       "label": "The rule (Wren & Martin, Chapter 24, Section 216)",
        "items": [
         {
          "q": "What does a verb agree with?",
@@ -15052,7 +15052,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§217. The Simple Present is used: (1) To show a habitual action — something done again and again."
+        "x": "Section 217. The Simple Present is used: (1) To show a habitual action — something done again and again."
       },
       {
         "t": "ex",
@@ -15060,7 +15060,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§217. The Simple Present is used: (2) To show general truths."
+        "x": "Section 217. The Simple Present is used: (2) To show general truths."
       },
       {
         "t": "ex",
@@ -15068,7 +15068,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§217. The Simple Present is used: (3) In exclamatory sentences beginning with here and there, to show what is happening right now."
+        "x": "Section 217. The Simple Present is used: (3) In exclamatory sentences beginning with here and there, to show what is happening right now."
       },
       {
         "t": "ex",
@@ -15076,7 +15076,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§217. The Simple Present is used: (4) In a vivid story, instead of the Simple Past."
+        "x": "Section 217. The Simple Present is used: (4) In a vivid story, instead of the Simple Past."
       },
       {
         "t": "ex",
@@ -15084,7 +15084,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§217. The Simple Present is used: (5) To show a future event that is part of a fixed timetable or fixed programme."
+        "x": "Section 217. The Simple Present is used: (5) To show a future event that is part of a fixed timetable or fixed programme."
       },
       {
         "t": "ex",
@@ -15100,7 +15100,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§218. The Simple Present is also used: (1) To introduce quotations."
+        "x": "Section 218. The Simple Present is also used: (1) To introduce quotations."
       },
       {
         "t": "ex",
@@ -15108,7 +15108,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§218. The Simple Present is also used: (2) Instead of the Simple Future Tense, in clauses of time and of condition."
+        "x": "Section 218. The Simple Present is also used: (2) Instead of the Simple Future Tense, in clauses of time and of condition."
       },
       {
         "t": "ex",
@@ -15116,11 +15116,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§218. The Simple Present is also used: (3) In radio and TV commentary on sports, instead of the Present Continuous, to describe what is happening one after another. It stresses the order of events, not how long they last."
+        "x": "Section 218. The Simple Present is also used: (3) In radio and TV commentary on sports, instead of the Present Continuous, to describe what is happening one after another. It stresses the order of events, not how long they last."
       },
       {
         "t": "rule",
-        "x": "§218. The Simple Present is also used: (4) Instead of the Present Continuous, with the verbs listed in §221 below."
+        "x": "Section 218. The Simple Present is also used: (4) Instead of the Present Continuous, with the verbs listed in Section 221 below."
       },
       {
         "t": "h",
@@ -15132,7 +15132,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§219. The Present Continuous is used: (1) For an action going on at the time of speaking."
+        "x": "Section 219. The Present Continuous is used: (1) For an action going on at the time of speaking."
       },
       {
         "t": "ex",
@@ -15140,7 +15140,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§219. The Present Continuous is used: (2) For a temporary action, which may not be happening at the very moment of speaking."
+        "x": "Section 219. The Present Continuous is used: (2) For a temporary action, which may not be happening at the very moment of speaking."
       },
       {
         "t": "ex",
@@ -15148,7 +15148,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§219. The Present Continuous is used: (3) For an action that has already been arranged to take place in the near future."
+        "x": "Section 219. The Present Continuous is used: (3) For an action that has already been arranged to take place in the near future."
       },
       {
         "t": "ex",
@@ -15164,7 +15164,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§220. We use the Simple Present for a habitual action. But for a habit that is very stubborn — something that goes on even after advice or warning — we use the Present Continuous with a word like always, continually or constantly."
+        "x": "Section 220. We use the Simple Present for a habitual action. But for a habit that is very stubborn — something that goes on even after advice or warning — we use the Present Continuous with a word like always, continually or constantly."
       },
       {
         "t": "ex",
@@ -15180,7 +15180,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§221. The following verbs are not normally used in the continuous form, because of their meaning: (1) Verbs of perception, like see, hear, smell, notice, recognise; (2) Verbs of appearing, like appear, look, seem; (3) Verbs of emotion, like want, wish, desire, feel, like, love, hate, hope, refuse, prefer; (4) Verbs of thinking, like think, suppose, believe, agree, consider, trust, remember, forget, know, understand, imagine, mean, mind; (5) have (= possess), own, possess, belong to, contain, consist of, be (except when used in the Passive)."
+        "x": "Section 221. The following verbs are not normally used in the continuous form, because of their meaning: (1) Verbs of perception, like see, hear, smell, notice, recognise; (2) Verbs of appearing, like appear, look, seem; (3) Verbs of emotion, like want, wish, desire, feel, like, love, hate, hope, refuse, prefer; (4) Verbs of thinking, like think, suppose, believe, agree, consider, trust, remember, forget, know, understand, imagine, mean, mind; (5) have (= possess), own, possess, belong to, contain, consist of, be (except when used in the Passive)."
       },
       {
         "t": "ex",
@@ -15188,7 +15188,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§221. But these verbs can be used in the continuous tenses with a different meaning."
+        "x": "Section 221. But these verbs can be used in the continuous tenses with a different meaning."
       },
       {
         "t": "ex",
@@ -15204,7 +15204,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§222. The Present Perfect is used: (1) To show finished actions in the immediate past (with just)."
+        "x": "Section 222. The Present Perfect is used: (1) To show finished actions in the immediate past (with just)."
       },
       {
         "t": "ex",
@@ -15212,7 +15212,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§222. The Present Perfect is used: (2) To show past actions whose time is not given and not definite."
+        "x": "Section 222. The Present Perfect is used: (2) To show past actions whose time is not given and not definite."
       },
       {
         "t": "ex",
@@ -15220,7 +15220,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§222. The Present Perfect is used: (3) To describe past events when we think more of their effect in the present than of the action itself."
+        "x": "Section 222. The Present Perfect is used: (3) To describe past events when we think more of their effect in the present than of the action itself."
       },
       {
         "t": "ex",
@@ -15228,7 +15228,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§222. The Present Perfect is used: (4) To show an action that began at some time in the past and is still going on up to the present moment (often with since- and for-phrases)."
+        "x": "Section 222. The Present Perfect is used: (4) To show an action that began at some time in the past and is still going on up to the present moment (often with since- and for-phrases)."
       },
       {
         "t": "ex",
@@ -15244,11 +15244,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§223. These adverbs can also be used with the Present Perfect: never, ever (in questions only), so far, till now, yet (in negatives and questions), already, today, this week, this month, and so on."
+        "x": "Section 223. These adverbs can also be used with the Present Perfect: never, ever (in questions only), so far, till now, yet (in negatives and questions), already, today, this week, this month, and so on."
       },
       {
         "t": "note",
-        "x": "Note (§223)—The Present Perfect is never used with adverbs of past time. We should not say, for example, ‘He has gone to Kolkata yesterday’. In such cases use the Simple Past: ‘He went to Kolkata yesterday’."
+        "x": "Note (Section 223)—The Present Perfect is never used with adverbs of past time. We should not say, for example, ‘He has gone to Kolkata yesterday’. In such cases use the Simple Past: ‘He went to Kolkata yesterday’."
       },
       {
         "t": "h",
@@ -15260,7 +15260,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§224. The Present Perfect Continuous is used for an action that began at some time in the past and is still going on."
+        "x": "Section 224. The Present Perfect Continuous is used for an action that began at some time in the past and is still going on."
       },
       {
         "t": "ex",
@@ -15276,7 +15276,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§225. This tense is also sometimes used for an action that is already finished. In such cases, the fact that the action went on for a long time is stressed, to explain something."
+        "x": "Section 225. This tense is also sometimes used for an action that is already finished. In such cases, the fact that the action went on for a long time is stressed, to explain something."
       },
       {
         "t": "ex",
@@ -15296,7 +15296,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§226. The Simple Past is used to show an action finished in the past. It often comes with a word or phrase of past time."
+        "x": "Section 226. The Simple Past is used to show an action finished in the past. It often comes with a word or phrase of past time."
       },
       {
         "t": "ex",
@@ -15312,7 +15312,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§227. Sometimes this tense is used without a word of time. In such cases the time is understood, or shown by the context."
+        "x": "Section 227. Sometimes this tense is used without a word of time. In such cases the time is understood, or shown by the context."
       },
       {
         "t": "ex",
@@ -15328,7 +15328,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§228. The Simple Past is also used for past habits."
+        "x": "Section 228. The Simple Past is also used for past habits."
       },
       {
         "t": "ex",
@@ -15344,7 +15344,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§229. The Past Continuous is used to show an action going on at some time in the past. The time of the action may or may not be given."
+        "x": "Section 229. The Past Continuous is used to show an action going on at some time in the past. The time of the action may or may not be given."
       },
       {
         "t": "ex",
@@ -15352,7 +15352,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§229. As in the last two examples above, the Past Continuous and the Simple Past are used together when a new action happens in the middle of a longer action. The Simple Past is used for the new action."
+        "x": "Section 229. As in the last two examples above, the Past Continuous and the Simple Past are used together when a new action happens in the middle of a longer action. The Simple Past is used for the new action."
       },
       {
         "t": "h",
@@ -15364,7 +15364,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§230. This tense is also used with always, continually, and so on, for habits that went on and on in the past."
+        "x": "Section 230. This tense is also used with always, continually, and so on, for habits that went on and on in the past."
       },
       {
         "t": "ex",
@@ -15380,7 +15380,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§231. The Past Perfect shows an action finished before a certain moment in the past."
+        "x": "Section 231. The Past Perfect shows an action finished before a certain moment in the past."
       },
       {
         "t": "ex",
@@ -15396,7 +15396,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§232. If two actions happened in the past, we may need to show which one happened first. The Past Perfect is mainly used for this. The Simple Past is used in one clause and the Past Perfect in the other."
+        "x": "Section 232. If two actions happened in the past, we may need to show which one happened first. The Past Perfect is mainly used for this. The Simple Past is used in one clause and the Past Perfect in the other."
       },
       {
         "t": "ex",
@@ -15412,7 +15412,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§233. The Past Perfect Continuous is used for an action that began before a certain point in the past and went on up to that time."
+        "x": "Section 233. The Past Perfect Continuous is used for an action that began before a certain point in the past and went on up to that time."
       },
       {
         "t": "ex",
@@ -15429,7 +15429,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §217)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 217)",
        "items": [
         {
          "q": "What is the Simple Present used for? (1) Habitual action.",
@@ -15460,11 +15460,11 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §218)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 218)",
        "items": [
         {
          "q": "What are the other uses of the Simple Present Tense?",
-         "a": "(1) It is used to introduce quotations; as,\nKeats says, ‘A thing of beauty is a joy for ever’.\n(2) It is used, instead of the Simple Future Tense, in clauses of time and of condition; as,\nI shall wait till you finish your lunch.\nIf it rains we shall get wet.\n(3) As in broadcast commentaries on sporting events, the Simple Present is used, instead of the Present Continuous, to describe activities in progress where there is stress on the succession of happenings rather than on the duration.\n(4) The Simple Present is used, instead of the Present Continuous, with the type of verbs referred to in (§ 221) below."
+         "a": "(1) It is used to introduce quotations; as,\nKeats says, ‘A thing of beauty is a joy for ever’.\n(2) It is used, instead of the Simple Future Tense, in clauses of time and of condition; as,\nI shall wait till you finish your lunch.\nIf it rains we shall get wet.\n(3) As in broadcast commentaries on sporting events, the Simple Present is used, instead of the Present Continuous, to describe activities in progress where there is stress on the succession of happenings rather than on the duration.\n(4) The Simple Present is used, instead of the Present Continuous, with the type of verbs referred to in (Section 221) below."
         }
        ]
       }
@@ -15475,7 +15475,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §219)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 219)",
        "items": [
         {
          "q": "What is the Present Continuous used for?",
@@ -15490,7 +15490,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §220)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 220)",
        "items": [
         {
          "q": "When do we use the Present Continuous for a habit?",
@@ -15505,7 +15505,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §221)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 221)",
        "items": [
         {
          "q": "Which verbs are not normally used in the continuous form?",
@@ -15528,7 +15528,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §222)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 222)",
        "items": [
         {
          "q": "What is the Present Perfect used for? (1) Completed activities in the immediate past.",
@@ -15555,7 +15555,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §223)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 223)",
        "items": [
         {
          "q": "Which adverbs can be used with the Present Perfect?",
@@ -15574,7 +15574,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §224)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 224)",
        "items": [
         {
          "q": "What is the Present Perfect Continuous used for?",
@@ -15589,7 +15589,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §225)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 225)",
        "items": [
         {
          "q": "Is the Present Perfect Continuous ever used for an action already finished?",
@@ -15604,7 +15604,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §226)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 226)",
        "items": [
         {
          "q": "What is the Simple Past used for?",
@@ -15619,7 +15619,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §227)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 227)",
        "items": [
         {
          "q": "Is the Simple Past always used with an adverb of time?",
@@ -15634,7 +15634,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §228)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 228)",
        "items": [
         {
          "q": "What else is the Simple Past used for?",
@@ -15649,7 +15649,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §229)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 229)",
        "items": [
         {
          "q": "What is the Past Continuous used for?",
@@ -15668,7 +15668,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §230)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 230)",
        "items": [
         {
          "q": "How is the Past Continuous used for habits?",
@@ -15683,7 +15683,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §231)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 231)",
        "items": [
         {
          "q": "What does the Past Perfect describe?",
@@ -15698,7 +15698,7 @@ STUDY.grammar = {
      "num": "16",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §232)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 232)",
        "items": [
         {
          "q": "When do we use the Past Perfect with the Simple Past?",
@@ -15713,7 +15713,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 25, §233)",
+       "label": "The rule (Wren & Martin, Chapter 25, Section 233)",
        "items": [
         {
          "q": "What is the Past Perfect Continuous used for?",
@@ -16007,7 +16007,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§234. There are several ways of talking about the future in English: the Simple Future Tense, the going to form, the Simple Present Tense, and so on."
+        "x": "Section 234. There are several ways of talking about the future in English: the Simple Future Tense, the going to form, the Simple Present Tense, and so on."
       },
       {
         "t": "h",
@@ -16019,7 +16019,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§235. The Simple Future Tense is used to talk about things we cannot control. It shows the future as a fact."
+        "x": "Section 235. The Simple Future Tense is used to talk about things we cannot control. It shows the future as a fact."
       },
       {
         "t": "ex",
@@ -16035,7 +16035,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§236. We also use this tense to talk about what we think or believe will happen in the future."
+        "x": "Section 236. We also use this tense to talk about what we think or believe will happen in the future."
       },
       {
         "t": "ex",
@@ -16055,7 +16055,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§237. We can use this tense when we decide to do something at the very moment of speaking."
+        "x": "Section 237. We can use this tense when we decide to do something at the very moment of speaking."
       },
       {
         "t": "ex",
@@ -16071,7 +16071,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§238. We use the going to form (be going to + base form of the verb) when we decided to do something before we talk about it."
+        "x": "Section 238. We use the going to form (be going to + base form of the verb) when we decided to do something before we talk about it."
       },
       {
         "t": "ex",
@@ -16079,7 +16079,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§238. Remember: if the action is already decided, and preparations have been made, use the going to form, not the Simple Future Tense. The Simple Future Tense is for a decision made at the very moment of speaking."
+        "x": "Section 238. Remember: if the action is already decided, and preparations have been made, use the going to form, not the Simple Future Tense. The Simple Future Tense is for a decision made at the very moment of speaking."
       },
       {
         "t": "h",
@@ -16091,7 +16091,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§239. We also use the going to form to talk about what seems likely or sure to happen, when something in the present tells us about the future."
+        "x": "Section 239. We also use the going to form to talk about what seems likely or sure to happen, when something in the present tells us about the future."
       },
       {
         "t": "ex",
@@ -16107,7 +16107,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§240. The going to form can also show an action that is just about to happen."
+        "x": "Section 240. The going to form can also show an action that is just about to happen."
       },
       {
         "t": "ex",
@@ -16123,7 +16123,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§241. Be about to + base form can also be used for the immediate future — something that will happen very soon."
+        "x": "Section 241. Be about to + base form can also be used for the immediate future — something that will happen very soon."
       },
       {
         "t": "ex",
@@ -16139,7 +16139,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§242. The Simple Present Tense is used for official programmes and timetables."
+        "x": "Section 242. The Simple Present Tense is used for official programmes and timetables."
       },
       {
         "t": "ex",
@@ -16155,7 +16155,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§243. The Simple Present is often used for future time in clauses with if, unless, when, while, as (= while), before, after, until, by the time and as soon as. The Simple Future Tense is not used in such clauses."
+        "x": "Section 243. The Simple Present is often used for future time in clauses with if, unless, when, while, as (= while), before, after, until, by the time and as soon as. The Simple Future Tense is not used in such clauses."
       },
       {
         "t": "ex",
@@ -16171,7 +16171,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§244. We use the Present Continuous Tense when we talk about something we have planned to do in the future."
+        "x": "Section 244. We use the Present Continuous Tense when we talk about something we have planned to do in the future."
       },
       {
         "t": "ex",
@@ -16191,7 +16191,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§245. We use the Future Continuous Tense to talk about actions that will be in progress at a time in the future."
+        "x": "Section 245. We use the Future Continuous Tense to talk about actions that will be in progress at a time in the future."
       },
       {
         "t": "ex",
@@ -16207,7 +16207,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§246. We also use this tense to talk about future actions that are already planned, or that will happen in the normal course of things."
+        "x": "Section 246. We also use this tense to talk about future actions that are already planned, or that will happen in the normal course of things."
       },
       {
         "t": "ex",
@@ -16223,7 +16223,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§247. We use be to + base form to talk about official plans and arrangements."
+        "x": "Section 247. We use be to + base form to talk about official plans and arrangements."
       },
       {
         "t": "ex",
@@ -16243,7 +16243,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§248. The Future Perfect Tense is used to talk about actions that will be finished by a certain time in the future."
+        "x": "Section 248. The Future Perfect Tense is used to talk about actions that will be finished by a certain time in the future."
       },
       {
         "t": "ex",
@@ -16259,7 +16259,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§249. The Future Perfect Continuous Tense is used for actions that will be in progress over a period of time that will end in the future."
+        "x": "Section 249. The Future Perfect Continuous Tense is used for actions that will be in progress over a period of time that will end in the future."
       },
       {
         "t": "ex",
@@ -16280,7 +16280,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §234)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 234)",
        "items": [
         {
          "q": "What are the ways of talking about the future in English?",
@@ -16295,7 +16295,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §235)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 235)",
        "items": [
         {
          "q": "What is the Simple Future Tense used for?",
@@ -16310,7 +16310,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §236)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 236)",
        "items": [
         {
          "q": "How else is the Simple Future used?",
@@ -16325,7 +16325,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §237)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 237)",
        "items": [
         {
          "q": "When do we use the Simple Future for a decision?",
@@ -16340,7 +16340,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §238)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 238)",
        "items": [
         {
          "q": "When do we use the 'going to' form?",
@@ -16359,7 +16359,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §239)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 239)",
        "items": [
         {
          "q": "How else is 'going to' used?",
@@ -16374,7 +16374,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §240)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 240)",
        "items": [
         {
          "q": "What else can 'going to' express?",
@@ -16389,7 +16389,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §241)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 241)",
        "items": [
         {
          "q": "What does 'be about to' express?",
@@ -16404,7 +16404,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §242)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 242)",
        "items": [
         {
          "q": "When is the Simple Present used for future time?",
@@ -16419,7 +16419,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §243)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 243)",
        "items": [
         {
          "q": "How is the Simple Present used in clauses with 'if', 'when', 'before', 'as soon as'?",
@@ -16434,7 +16434,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §244)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 244)",
        "items": [
         {
          "q": "When do we use the Present Continuous for the future?",
@@ -16449,7 +16449,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §245)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 245)",
        "items": [
         {
          "q": "What is the Future Continuous used for?",
@@ -16464,7 +16464,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §246)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 246)",
        "items": [
         {
          "q": "What else is the Future Continuous used for?",
@@ -16479,7 +16479,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §247)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 247)",
        "items": [
         {
          "q": "What is 'be to' used for?",
@@ -16494,7 +16494,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §248)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 248)",
        "items": [
         {
          "q": "What is the Future Perfect used for?",
@@ -16509,7 +16509,7 @@ STUDY.grammar = {
      "num": "16",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 26, §249)",
+       "label": "The rule (Wren & Martin, Chapter 26, Section 249)",
        "items": [
         {
          "q": "What is the Future Perfect Continuous used for?",
@@ -16662,7 +16662,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§250. The verb, like the personal pronouns, has three Persons — the First, the Second and the Third."
+        "x": "Section 250. The verb, like the personal pronouns, has three Persons — the First, the Second and the Third."
       },
       {
         "t": "ex",
@@ -16678,7 +16678,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§250. The verb takes the same Person as its subject. In other words, the verb agrees with its subject in Person."
+        "x": "Section 250. The verb takes the same Person as its subject. In other words, the verb agrees with its subject in Person."
       },
       {
         "t": "h",
@@ -16686,7 +16686,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§251. The verb, like the noun and the pronoun, has two Numbers: the Singular and the Plural."
+        "x": "Section 251. The verb, like the noun and the pronoun, has two Numbers: the Singular and the Plural."
       },
       {
         "t": "ex",
@@ -16702,7 +16702,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§251. The verb takes the same Number as its subject. In other words, the verb agrees with its subject in Number."
+        "x": "Section 251. The verb takes the same Number as its subject. In other words, the verb agrees with its subject in Number."
       },
       {
         "t": "h",
@@ -16714,7 +16714,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§252. The Verb must agree with its Subject in Number and Person. That is, the verb must be of the same Number and Person as its subject."
+        "x": "Section 252. The Verb must agree with its Subject in Number and Person. That is, the verb must be of the same Number and Person as its subject."
       },
       {
         "t": "ex",
@@ -16722,7 +16722,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§252)—In some languages the form of the verb changes with the Number and Person of the subject. In modern English, verbs have lost all their changes for number and person, except in the third person singular."
+        "x": "Note (Section 252)—In some languages the form of the verb changes with the Number and Person of the subject. In modern English, verbs have lost all their changes for number and person, except in the third person singular."
       },
       {
         "t": "ex",
@@ -16751,7 +16751,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 27, §250)",
+       "label": "The rule (Wren & Martin, Chapter 27, Section 250)",
        "items": [
         {
          "q": "How many Persons does the Verb have?",
@@ -16770,7 +16770,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 27, §251)",
+       "label": "The rule (Wren & Martin, Chapter 27, Section 251)",
        "items": [
         {
          "q": "How many Numbers does the Verb have?",
@@ -16789,7 +16789,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 27, §252)",
+       "label": "The rule (Wren & Martin, Chapter 27, Section 252)",
        "items": [
         {
          "q": "What is the important rule of agreement?",
@@ -16915,7 +16915,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§253. Read these sentences."
+        "x": "Section 253. Read these sentences."
       },
       {
         "t": "ex",
@@ -16927,7 +16927,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§253)—The Infinitive is the base form of a verb, often with to before it."
+        "x": "Def. (Section 253)—The Infinitive is the base form of a verb, often with to before it."
       },
       {
         "t": "h",
@@ -16935,7 +16935,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§254. Read these sentences:"
+        "x": "Section 254. Read these sentences:"
       },
       {
         "t": "ex",
@@ -16947,7 +16947,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§254)—The Infinitive is a kind of noun with some features of a verb. Like a verb, it can take an object (when the verb is transitive) and can be described by adverbs. In short, the Infinitive is a Verb-Noun."
+        "x": "Def. (Section 254)—The Infinitive is a kind of noun with some features of a verb. Like a verb, it can take an object (when the verb is transitive) and can be described by adverbs. In short, the Infinitive is a Verb-Noun."
       },
       {
         "t": "h",
@@ -16959,11 +16959,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§255. The word to is often used with the Infinitive, but it is not an essential part of it."
+        "x": "Section 255. The word to is often used with the Infinitive, but it is not an essential part of it."
       },
       {
         "t": "rule",
-        "x": "§255. After certain verbs (bid, let, make, need, dare, see, hear), we use the Infinitive without to."
+        "x": "Section 255. After certain verbs (bid, let, make, need, dare, see, hear), we use the Infinitive without to."
       },
       {
         "t": "ex",
@@ -16971,7 +16971,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§255)—Need and dare take the Infinitive without to, except when they are used with do."
+        "x": "Note (Section 255)—Need and dare take the Infinitive without to, except when they are used with do."
       },
       {
         "t": "h",
@@ -16983,7 +16983,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§256. The Infinitive without to is also used after will, would, shall, should, may, might, can, could and must."
+        "x": "Section 256. The Infinitive without to is also used after will, would, shall, should, may, might, can, could and must."
       },
       {
         "t": "ex",
@@ -16991,7 +16991,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§256. The Infinitive without to is also used after had better, had rather, would rather, sooner than, rather than."
+        "x": "Section 256. The Infinitive without to is also used after had better, had rather, would rather, sooner than, rather than."
       },
       {
         "t": "ex",
@@ -17003,7 +17003,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§257. When the Infinitive is used like a noun, it is called the Simple Infinitive."
+        "x": "Section 257. When the Infinitive is used like a noun, it is called the Simple Infinitive."
       },
       {
         "t": "h",
@@ -17011,7 +17011,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§257. The Simple Infinitive is used: (1) As the Subject of a Verb."
+        "x": "Section 257. The Simple Infinitive is used: (1) As the Subject of a Verb."
       },
       {
         "t": "ex",
@@ -17019,7 +17019,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§257. The Simple Infinitive is used: (2) As the Object of a transitive Verb."
+        "x": "Section 257. The Simple Infinitive is used: (2) As the Object of a transitive Verb."
       },
       {
         "t": "ex",
@@ -17027,7 +17027,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§257. The Simple Infinitive is used: (3) As the Complement of a Verb."
+        "x": "Section 257. The Simple Infinitive is used: (3) As the Complement of a Verb."
       },
       {
         "t": "ex",
@@ -17035,7 +17035,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§257. The Simple Infinitive is used: (4) As the Object of a Preposition."
+        "x": "Section 257. The Simple Infinitive is used: (4) As the Object of a Preposition."
       },
       {
         "t": "ex",
@@ -17043,7 +17043,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§257. The Simple Infinitive is used: (5) As an Objective Complement."
+        "x": "Section 257. The Simple Infinitive is used: (5) As an Objective Complement."
       },
       {
         "t": "ex",
@@ -17055,7 +17055,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§258. When the Infinitive is used to qualify, or describe, something, it is called the Gerundial or Qualifying Infinitive."
+        "x": "Section 258. When the Infinitive is used to qualify, or describe, something, it is called the Gerundial or Qualifying Infinitive."
       },
       {
         "t": "h",
@@ -17063,7 +17063,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§258. The Gerundial Infinitive is used: (1) To qualify a Verb, usually to show purpose."
+        "x": "Section 258. The Gerundial Infinitive is used: (1) To qualify a Verb, usually to show purpose."
       },
       {
         "t": "ex",
@@ -17071,7 +17071,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§258. The Gerundial Infinitive is used: (2) To qualify an Adjective."
+        "x": "Section 258. The Gerundial Infinitive is used: (2) To qualify an Adjective."
       },
       {
         "t": "ex",
@@ -17079,7 +17079,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§258. The Gerundial Infinitive is used: (3) To qualify a Noun."
+        "x": "Section 258. The Gerundial Infinitive is used: (3) To qualify a Noun."
       },
       {
         "t": "ex",
@@ -17087,7 +17087,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§258. The Gerundial Infinitive is used: (4) To qualify a Sentence."
+        "x": "Section 258. The Gerundial Infinitive is used: (4) To qualify a Sentence."
       },
       {
         "t": "ex",
@@ -17107,7 +17107,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§259. The Infinitive can be active or passive. In the Active, it has a present form and a perfect form. It can simply name the action, or it can show action going on."
+        "x": "Section 259. The Infinitive can be active or passive. In the Active, it has a present form and a perfect form. It can simply name the action, or it can show action going on."
       },
       {
         "t": "ex",
@@ -17115,7 +17115,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§259. In the Passive, the Infinitive has a present form and a perfect form."
+        "x": "Section 259. In the Passive, the Infinitive has a present form and a perfect form."
       },
       {
         "t": "ex",
@@ -17132,7 +17132,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 28, §253)",
+       "label": "The rule (Wren & Martin, Chapter 28, Section 253)",
        "items": [
         {
          "q": "Read these sentences: I want to go. They tried to find fault with us. What are 'to go' and 'to find'?",
@@ -17151,7 +17151,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 28, §254)",
+       "label": "The rule (Wren & Martin, Chapter 28, Section 254)",
        "items": [
         {
          "q": "Read these sentences: (1) To err is human. (2) Birds love to sing. (3) To respect our parents is our duty. (4) He refused to obey the orders. (5) Many men desire to make money quickly. How does the Infinitive work in each?",
@@ -17170,7 +17170,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 28, §255)",
+       "label": "The rule (Wren & Martin, Chapter 28, Section 255)",
        "items": [
         {
          "q": "Is 'to' an essential part of the Infinitive?",
@@ -17189,7 +17189,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 28, §256)",
+       "label": "The rule (Wren & Martin, Chapter 28, Section 256)",
        "items": [
         {
          "q": "After which other words is the Infinitive used without 'to'?",
@@ -17208,7 +17208,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 28, §257)",
+       "label": "The rule (Wren & Martin, Chapter 28, Section 257)",
        "items": [
         {
          "q": "How may the Infinitive be used like a Noun? (1) As the Subject of a Verb.",
@@ -17235,7 +17235,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 28, §258)",
+       "label": "The rule (Wren & Martin, Chapter 28, Section 258)",
        "items": [
         {
          "q": "How is the Infinitive used to qualify a Verb?",
@@ -17262,7 +17262,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 28, §259)",
+       "label": "The rule (Wren & Martin, Chapter 28, Section 259)",
        "items": [
         {
          "q": "What are the forms of the Infinitive?",
@@ -17277,7 +17277,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "Exercise in Grammar 49 — from the book (Wren & Martin, Chapter 28). State how the Infinitive is used in the following sentences. (Items 27–30 and parts of 1–2: the Key print is too blurred to read word for word; those answers are worked out from §§257–258.)",
+       "label": "Exercise in Grammar 49 — from the book (Wren & Martin, Chapter 28). State how the Infinitive is used in the following sentences. (Items 27–30 and parts of 1–2: the Key print is too blurred to read word for word; those answers are worked out from Sections 257–258.)",
        "items": [
         {
          "q": "1. There was nothing for it to fight.",
@@ -17408,7 +17408,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "Exercise in Composition 50 — from the book (Wren & Martin, Chapter 28). Combine together the following pairs of sentences by using Infinitives. [Example — Napoleon was one of the greatest of generals. He is universally acknowledged so. = Napoleon is universally acknowledged to have been one of the greatest of generals.] (Some answers: the Key print is blurred; those are worked out from §§257–258.)",
+       "label": "Exercise in Composition 50 — from the book (Wren & Martin, Chapter 28). Combine together the following pairs of sentences by using Infinitives. [Example — Napoleon was one of the greatest of generals. He is universally acknowledged so. = Napoleon is universally acknowledged to have been one of the greatest of generals.] (Some answers: the Key print is blurred; those are worked out from Sections 257–258.)",
        "items": [
         {
          "q": "1. He did not have even a rupee with him. He could not buy a loaf of bread.",
@@ -17565,7 +17565,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§260. Read this sentence."
+        "x": "Section 260. Read this sentence."
       },
       {
         "t": "ex",
@@ -17577,11 +17577,11 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§260)—A Participle is a form of the verb that is partly a verb and partly an adjective."
+        "x": "Def. (Section 260)—A Participle is a form of the verb that is partly a verb and partly an adjective."
       },
       {
         "t": "note",
-        "x": "Note (§260)—The phrase ‘Hearing the noise’, which begins with a Participle, is called a Participle Phrase. Here it is used as an Adjective Phrase."
+        "x": "Note (Section 260)—The phrase ‘Hearing the noise’, which begins with a Participle, is called a Participle Phrase. Here it is used as an Adjective Phrase."
       },
       {
         "t": "h",
@@ -17593,7 +17593,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§261. The Present Participle ends in -ing. It shows an action going on, or not finished."
+        "x": "Section 261. The Present Participle ends in -ing. It shows an action going on, or not finished."
       },
       {
         "t": "ex",
@@ -17613,7 +17613,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§262. Besides the Present Participle, every verb has another participle called the Past Participle. It shows an action that is finished."
+        "x": "Section 262. Besides the Present Participle, every verb has another participle called the Past Participle. It shows an action that is finished."
       },
       {
         "t": "ex",
@@ -17625,7 +17625,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§262. Besides these two simple participles, the Present and the Past, we have the Perfect Participle. It shows an action finished at some past time."
+        "x": "Section 262. Besides these two simple participles, the Present and the Past, we have the Perfect Participle. It shows an action finished at some past time."
       },
       {
         "t": "ex",
@@ -17637,7 +17637,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§263. In the examples below, the participles are used as simple adjectives before a noun. Used like this, they are called Participle Adjectives."
+        "x": "Section 263. In the examples below, the participles are used as simple adjectives before a noun. Used like this, they are called Participle Adjectives."
       },
       {
         "t": "ex",
@@ -17657,7 +17657,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§264. When used as adjectives, the Past Participle has a Passive meaning, while the Present Participle has an Active meaning."
+        "x": "Section 264. When used as adjectives, the Past Participle has a Passive meaning, while the Present Participle has an Active meaning."
       },
       {
         "t": "ex",
@@ -17669,7 +17669,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§265. Let us sum up what we have learnt about the Participle."
+        "x": "Section 265. Let us sum up what we have learnt about the Participle."
       },
       {
         "t": "h",
@@ -17677,11 +17677,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§265. (1) A participle is a Verbal Adjective."
+        "x": "Section 265. (1) A participle is a Verbal Adjective."
       },
       {
         "t": "rule",
-        "x": "§265. (2) Like a verb, it can take a noun or pronoun as its object."
+        "x": "Section 265. (2) Like a verb, it can take a noun or pronoun as its object."
       },
       {
         "t": "ex",
@@ -17689,7 +17689,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§265. (3) Like a verb, it can be described by an adverb."
+        "x": "Section 265. (3) Like a verb, it can be described by an adverb."
       },
       {
         "t": "ex",
@@ -17697,7 +17697,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§265. (4) Like an adjective, it can describe a noun or pronoun."
+        "x": "Section 265. (4) Like an adjective, it can describe a noun or pronoun."
       },
       {
         "t": "ex",
@@ -17705,7 +17705,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§265. (5) Like an adjective, it can be compared."
+        "x": "Section 265. (5) Like an adjective, it can be compared."
       },
       {
         "t": "ex",
@@ -17721,7 +17721,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§266. Here are the forms of the participles."
+        "x": "Section 266. Here are the forms of the participles."
       },
       {
         "t": "ex",
@@ -17737,7 +17737,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§267. The Continuous Tenses (Active Voice) are formed from the Present Participle with tenses of the verb be."
+        "x": "Section 267. The Continuous Tenses (Active Voice) are formed from the Present Participle with tenses of the verb be."
       },
       {
         "t": "ex",
@@ -17745,7 +17745,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§267. The Perfect Tenses (Active Voice) are formed from the Past Participle with tenses of the verb have."
+        "x": "Section 267. The Perfect Tenses (Active Voice) are formed from the Past Participle with tenses of the verb have."
       },
       {
         "t": "ex",
@@ -17753,7 +17753,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§267. The Passive Voice is formed from the Past Participle with tenses of the verb be."
+        "x": "Section 267. The Passive Voice is formed from the Past Participle with tenses of the verb be."
       },
       {
         "t": "ex",
@@ -17769,7 +17769,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§268. Participles describe nouns or pronouns. They can be used: (1) Attributively — before a noun; (2) Predicatively — after a verb, describing the subject or the object."
+        "x": "Section 268. Participles describe nouns or pronouns. They can be used: (1) Attributively — before a noun; (2) Predicatively — after a verb, describing the subject or the object."
       },
       {
         "t": "ex",
@@ -17777,7 +17777,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§268. Participles can also be used: (3) Absolutely, with a noun or pronoun before them."
+        "x": "Section 268. Participles can also be used: (3) Absolutely, with a noun or pronoun before them."
       },
       {
         "t": "ex",
@@ -17785,7 +17785,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§268)—In each of these sentences, the participle with the noun or pronoun before it forms a phrase that stands on its own, apart from the rest of the sentence. Such a phrase is called an Absolute Phrase. A noun or pronoun used like this with a participle is called a Nominative Absolute."
+        "x": "Def. (Section 268)—In each of these sentences, the participle with the noun or pronoun before it forms a phrase that stands on its own, apart from the rest of the sentence. Such a phrase is called an Absolute Phrase. A noun or pronoun used like this with a participle is called a Nominative Absolute."
       },
       {
         "t": "h",
@@ -17797,7 +17797,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§269. An Absolute Phrase can easily be changed into a subordinate clause."
+        "x": "Section 269. An Absolute Phrase can easily be changed into a subordinate clause."
       },
       {
         "t": "ex",
@@ -17813,7 +17813,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§270. A participle is a verb-adjective, so it must be joined to some noun or pronoun. In other words, it must always have a proper ‘subject of reference’ — the word it describes."
+        "x": "Section 270. A participle is a verb-adjective, so it must be joined to some noun or pronoun. In other words, it must always have a proper ‘subject of reference’ — the word it describes."
       },
       {
         "t": "ex",
@@ -17821,7 +17821,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§270. So we must re-write these sentences as follows:"
+        "x": "Section 270. So we must re-write these sentences as follows:"
       },
       {
         "t": "ex",
@@ -17837,7 +17837,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§271. But in some cases, usage allows a participle to stand without a proper ‘subject of reference’. The participle in such cases is called an Impersonal Absolute."
+        "x": "Section 271. But in some cases, usage allows a participle to stand without a proper ‘subject of reference’. The participle in such cases is called an Impersonal Absolute."
       },
       {
         "t": "ex",
@@ -17857,7 +17857,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§272. Sometimes the participle is understood — left out, but meant."
+        "x": "Section 272. Sometimes the participle is understood — left out, but meant."
       },
       {
         "t": "ex",
@@ -17873,7 +17873,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§273. Participles sometimes have an implied meaning. It can be shown more fully by changing the participle phrase into a clause of: (a) time, (b) cause, (c) concession, or (d) condition."
+        "x": "Section 273. Participles sometimes have an implied meaning. It can be shown more fully by changing the participle phrase into a clause of: (a) time, (b) cause, (c) concession, or (d) condition."
       },
       {
         "t": "ex",
@@ -17890,7 +17890,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §260)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 260)",
        "items": [
         {
          "q": "Read this sentence: Hearing the noise, the boy woke up. What is 'hearing'?",
@@ -17913,7 +17913,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §261)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 261)",
        "items": [
         {
          "q": "Give examples of the Present Participle.",
@@ -17936,7 +17936,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §262)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 262)",
        "items": [
         {
          "q": "What is the Past Participle? Give examples.",
@@ -17955,7 +17955,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §263)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 263)",
        "items": [
         {
          "q": "When are participles called Participle Adjectives?",
@@ -17978,7 +17978,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §264)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 264)",
        "items": [
         {
          "q": "How do the Present and Past Participles differ in meaning when used as adjectives?",
@@ -17993,7 +17993,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §265)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 265)",
        "items": [
         {
          "q": "Recapitulate what we have learnt about the Participle.",
@@ -18008,7 +18008,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §266)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 266)",
        "items": [
         {
          "q": "Give the forms of the different Participles.",
@@ -18023,7 +18023,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §267)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 267)",
        "items": [
         {
          "q": "How are the Continuous Tenses formed?",
@@ -18046,7 +18046,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §268)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 268)",
        "items": [
         {
          "q": "How may participles be used? (1) Attributively. (2) Predicatively.",
@@ -18065,7 +18065,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §269)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 269)",
        "items": [
         {
          "q": "How can an Absolute Phrase be changed into a subordinate clause?",
@@ -18080,7 +18080,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §270)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 270)",
        "items": [
         {
          "q": "Why must a participle always have a proper 'subject of reference'?",
@@ -18099,7 +18099,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §271)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 271)",
        "items": [
         {
          "q": "When may a participle be left without a proper 'subject of reference'?",
@@ -18114,7 +18114,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §272)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 272)",
        "items": [
         {
          "q": "Give examples where the Participle is understood.",
@@ -18129,11 +18129,11 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 29, §273)",
+       "label": "The rule (Wren & Martin, Chapter 29, Section 273)",
        "items": [
         {
          "q": "What implied meanings can a participle phrase contain?",
-         "a": "Participles sometimes contain an implied meaning, which can be more fully expressed by changing the participle phrase into a clause of: (a) time, (b) cause, (c) concession, or (d) condition. [See § 269]"
+         "a": "Participles sometimes contain an implied meaning, which can be more fully expressed by changing the participle phrase into a clause of: (a) time, (b) cause, (c) concession, or (d) condition. [See Section 269]"
         },
         {
          "q": "Give examples of the implied meanings of participles.",
@@ -18254,7 +18254,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "Exercise in Composition 53 — from the book (Wren & Martin, Chapter 29). Combine the following pairs of sentences by making use of a Participle. [Examples: The magician took pity on the mouse. He turned it into a cat. = Taking pity on the mouse, the magician turned it into a cat. The train was ready to leave the station. The people had taken their seats. = The people having taken their seats, the train was ready to leave the station.] (Items 9–18: the Key print is blurred; those answers are worked out from §§260–268.)",
+       "label": "Exercise in Composition 53 — from the book (Wren & Martin, Chapter 29). Combine the following pairs of sentences by making use of a Participle. [Examples: The magician took pity on the mouse. He turned it into a cat. = Taking pity on the mouse, the magician turned it into a cat. The train was ready to leave the station. The people had taken their seats. = The people having taken their seats, the train was ready to leave the station.] (Items 9–18: the Key print is blurred; those answers are worked out from Sections 260–268.)",
        "items": [
         {
          "q": "1. The porter opened the gate. We entered.",
@@ -18337,7 +18337,7 @@ STUDY.grammar = {
      "num": "18",
      "exercises": [
       {
-       "label": "Exercise in Composition 54 — from the book (Wren & Martin, Chapter 29). Rewrite each of the following sentences, by changing the Participle into a Finite Verb. [Examples: Quitting the forest, we advanced into the open plain. = We quitted the forest and advanced into the open plain. Driven out of his country, he sought asylum in a foreign land. = As he was driven out of his country, he sought asylum in a foreign land.] (Some answers: the Key print is blurred; those are worked out from §§269 and §273.)",
+       "label": "Exercise in Composition 54 — from the book (Wren & Martin, Chapter 29). Rewrite each of the following sentences, by changing the Participle into a Finite Verb. [Examples: Quitting the forest, we advanced into the open plain. = We quitted the forest and advanced into the open plain. Driven out of his country, he sought asylum in a foreign land. = As he was driven out of his country, he sought asylum in a foreign land.] (Some answers: the Key print is blurred; those are worked out from Sections 269 and Section 273.)",
        "items": [
         {
          "q": "1. Going up the stairs, the boy fell down.",
@@ -18495,7 +18495,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§274. Read this sentence."
+        "x": "Section 274. Read this sentence."
       },
       {
         "t": "ex",
@@ -18519,7 +18519,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§274)—A Gerund is a form of the verb that ends in -ing, and has the force of a noun and a verb."
+        "x": "Def. (Section 274)—A Gerund is a form of the verb that ends in -ing, and has the force of a noun and a verb."
       },
       {
         "t": "h",
@@ -18531,7 +18531,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§275. The Gerund and the Infinitive have the same uses, because both have the force of a noun and a verb. So in many sentences either one can be used, with no real difference in meaning."
+        "x": "Section 275. The Gerund and the Infinitive have the same uses, because both have the force of a noun and a verb. So in many sentences either one can be used, with no real difference in meaning."
       },
       {
         "t": "ex",
@@ -18547,7 +18547,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§276. Compound Gerund forms are made by putting a Past Participle after the Gerunds of have and be."
+        "x": "Section 276. Compound Gerund forms are made by putting a Past Participle after the Gerunds of have and be."
       },
       {
         "t": "ex",
@@ -18563,7 +18563,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§277. The Gerund of a transitive verb has these forms."
+        "x": "Section 277. The Gerund of a transitive verb has these forms."
       },
       {
         "t": "ex",
@@ -18579,7 +18579,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§278. The Gerund and the Present Participle both end in -ing, so they must be carefully told apart. The Gerund has the force of a noun and a verb — it is a Verbal Noun. The Present Participle has the force of an adjective and a verb — it is a Verbal Adjective."
+        "x": "Section 278. The Gerund and the Present Participle both end in -ing, so they must be carefully told apart. The Gerund has the force of a noun and a verb — it is a Verbal Noun. The Present Participle has the force of an adjective and a verb — it is a Verbal Adjective."
       },
       {
         "t": "ex",
@@ -18595,7 +18595,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§279. Read this sentence."
+        "x": "Section 279. Read this sentence."
       },
       {
         "t": "ex",
@@ -18619,7 +18619,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§280. In compound nouns like these, the first word is a Gerund."
+        "x": "Section 280. In compound nouns like these, the first word is a Gerund."
       },
       {
         "t": "ex",
@@ -18635,7 +18635,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§281. Compare these two sentences:"
+        "x": "Section 281. Compare these two sentences:"
       },
       {
         "t": "ex",
@@ -18647,7 +18647,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§281. In the first sentence, the word before the gerund is in the possessive case. In the second, it is in the objective case. Both sentences are correct. We can use either the possessive or the objective case of nouns and pronouns before gerunds."
+        "x": "Section 281. In the first sentence, the word before the gerund is in the possessive case. In the second, it is in the objective case. Both sentences are correct. We can use either the possessive or the objective case of nouns and pronouns before gerunds."
       },
       {
         "t": "p",
@@ -18663,7 +18663,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§282. A Gerund is a verb-noun, so it can be used as:"
+        "x": "Section 282. A Gerund is a verb-noun, so it can be used as:"
       },
       {
         "t": "h",
@@ -18671,7 +18671,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§282. A Gerund can be used as: (1) Subject of a verb."
+        "x": "Section 282. A Gerund can be used as: (1) Subject of a verb."
       },
       {
         "t": "ex",
@@ -18679,7 +18679,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§282. A Gerund can be used as: (2) Object of a transitive verb."
+        "x": "Section 282. A Gerund can be used as: (2) Object of a transitive verb."
       },
       {
         "t": "ex",
@@ -18687,7 +18687,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§282. A Gerund can be used as: (3) Object of a preposition."
+        "x": "Section 282. A Gerund can be used as: (3) Object of a preposition."
       },
       {
         "t": "ex",
@@ -18695,7 +18695,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§282. A Gerund can be used as: (4) Complement of a verb."
+        "x": "Section 282. A Gerund can be used as: (4) Complement of a verb."
       },
       {
         "t": "ex",
@@ -18703,7 +18703,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§282. A Gerund can be used as: (5) Absolutely, on its own."
+        "x": "Section 282. A Gerund can be used as: (5) Absolutely, on its own."
       },
       {
         "t": "ex",
@@ -18720,7 +18720,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §274)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 274)",
        "items": [
         {
          "q": "Read this sentence: Reading is his favourite pastime. What is 'reading'?",
@@ -18751,7 +18751,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §275)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 275)",
        "items": [
         {
          "q": "Can the Gerund and the Infinitive be used in the same way?",
@@ -18766,7 +18766,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §276)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 276)",
        "items": [
         {
          "q": "Give examples of Compound Gerund forms.",
@@ -18785,7 +18785,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §277)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 277)",
        "items": [
         {
          "q": "What are the forms of the Gerund of a Transitive verb?",
@@ -18800,7 +18800,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §278)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 278)",
        "items": [
         {
          "q": "How are the Gerund and the Present Participle distinguished?",
@@ -18823,7 +18823,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §279)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 279)",
        "items": [
         {
          "q": "Read this sentence: The indiscriminate reading of novels is injurious. How is 'reading' used here?",
@@ -18842,7 +18842,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §280)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 280)",
        "items": [
         {
          "q": "Give examples of Gerunds in compound nouns.",
@@ -18857,7 +18857,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §281)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 281)",
        "items": [
         {
          "q": "Compare: (1) I hope you will excuse my leaving early. (2) I hope you will excuse me leaving early. Which is correct?",
@@ -18872,7 +18872,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 30, §282)",
+       "label": "The rule (Wren & Martin, Chapter 30, Section 282)",
        "items": [
         {
          "q": "How may a Gerund be used? (1) Subject of a verb. (2) Object of a transitive verb.",
@@ -18891,7 +18891,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "Exercise in Grammar 55 — from the book (Wren & Martin, Chapter 30). Point out the Participles and Gerunds in the following sentences. In the case of the Participle, name the noun or pronoun which it qualifies. In the case of the Gerund, state whether it is subject, object, complement, or used after a preposition. (Items 1–15: the Key print is too blurred to read word for word; those answers are worked out from §§274–282. Items 16–24 follow the Key.)",
+       "label": "Exercise in Grammar 55 — from the book (Wren & Martin, Chapter 30). Point out the Participles and Gerunds in the following sentences. In the case of the Participle, name the noun or pronoun which it qualifies. In the case of the Gerund, state whether it is subject, object, complement, or used after a preposition. (Items 1–15: the Key print is too blurred to read word for word; those answers are worked out from Sections 274–282. Items 16–24 follow the Key.)",
        "items": [
         {
          "q": "1. He was found fighting desperately for his life.",
@@ -19065,7 +19065,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§283. Verbs can be regular or irregular."
+        "x": "Section 283. Verbs can be regular or irregular."
       },
       {
         "t": "h",
@@ -19077,7 +19077,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§284. Regular verbs make their Past Tense and Past Participle by adding -ed."
+        "x": "Section 284. Regular verbs make their Past Tense and Past Participle by adding -ed."
       },
       {
         "t": "ex",
@@ -19093,7 +19093,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§285. Irregular verbs make their Past Tense and Past Participle in a different way — not by adding -ed."
+        "x": "Section 285. Irregular verbs make their Past Tense and Past Participle in a different way — not by adding -ed."
       },
       {
         "t": "ex",
@@ -19101,7 +19101,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§285. We divide irregular verbs into three types: (1) Verbs in which all three forms are the same (for example, cut - cut - cut). (2) Verbs in which two of the three forms are the same (for example, sit - sat - sat). (3) Verbs in which all three forms are different (for example, ring - rang - rung)."
+        "x": "Section 285. We divide irregular verbs into three types: (1) Verbs in which all three forms are the same (for example, cut - cut - cut). (2) Verbs in which two of the three forms are the same (for example, sit - sat - sat). (3) Verbs in which all three forms are different (for example, ring - rang - rung)."
       },
       {
         "t": "h",
@@ -19109,7 +19109,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§286. Below is a list of irregular verbs, divided into the three types above. Some of them can also be regular. In such cases the regular forms are also given."
+        "x": "Section 286. Below is a list of irregular verbs, divided into the three types above. Some of them can also be regular. In such cases the regular forms are also given."
       },
       {
         "t": "ex",
@@ -19125,7 +19125,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§286)—The book prints “spell” twice in this list, and it prints “lean — lent/leaned”. Lent is really the past of lend; the past of lean is normally leant or leaned. Both are kept here exactly as the book prints them. Teacher to confirm whether to correct them."
+        "x": "Note (Section 286)—The book prints “spell” twice in this list, and it prints “lean — lent/leaned”. Lent is really the past of lend; the past of lean is normally leant or leaned. Both are kept here exactly as the book prints them. Teacher to confirm whether to correct them."
       },
       {
         "t": "h",
@@ -19145,7 +19145,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§287. Some verbs have another Past Participle form ending in -en. It can only be used as an adjective — to describe a noun."
+        "x": "Section 287. Some verbs have another Past Participle form ending in -en. It can only be used as an adjective — to describe a noun."
       },
       {
         "t": "ex",
@@ -19166,7 +19166,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 31, §283)",
+       "label": "The rule (Wren & Martin, Chapter 31, Section 283)",
        "items": [
         {
          "q": "Can verbs be regular or irregular?",
@@ -19181,7 +19181,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 31, §284)",
+       "label": "The rule (Wren & Martin, Chapter 31, Section 284)",
        "items": [
         {
          "q": "How do regular verbs form their past tense and past participle?",
@@ -19196,7 +19196,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 31, §285)",
+       "label": "The rule (Wren & Martin, Chapter 31, Section 285)",
        "items": [
         {
          "q": "How do irregular verbs form their past tense and past participle?",
@@ -19215,7 +19215,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 31, §286)",
+       "label": "The rule (Wren & Martin, Chapter 31, Section 286)",
        "items": [
         {
          "q": "Give the list of irregular verbs in which all three forms are the same. (Base Form — Past Tense — Past Participle.)",
@@ -19230,7 +19230,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 31, §286)",
+       "label": "The rule (Wren & Martin, Chapter 31, Section 286)",
        "items": [
         {
          "q": "Give the list of irregular verbs in which two of the forms are the same. (Base Form — Past Tense — Past Participle.)",
@@ -19245,7 +19245,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 31, §286)",
+       "label": "The rule (Wren & Martin, Chapter 31, Section 286)",
        "items": [
         {
          "q": "Give the list of irregular verbs in which all three forms are different. (Base Form — Past Tense — Past Participle.)",
@@ -19260,7 +19260,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 31, §287)",
+       "label": "The rule (Wren & Martin, Chapter 31, Section 287)",
        "items": [
         {
          "q": "Which verbs have an alternative past participle form ending in -en? How is it used?",
@@ -19923,7 +19923,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§288)—Auxiliary Verbs are the verbs be (am, is, was, and so on), have and do. When they are used with ordinary verbs to make tenses, passive forms, questions and negatives, they are called Auxiliary Verbs or Auxiliaries. Auxiliary means helping."
+        "x": "Def. (Section 288)—Auxiliary Verbs are the verbs be (am, is, was, and so on), have and do. When they are used with ordinary verbs to make tenses, passive forms, questions and negatives, they are called Auxiliary Verbs or Auxiliaries. Auxiliary means helping."
       },
       {
         "t": "h",
@@ -19931,7 +19931,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§289)—The verbs can, could, may, might, will, would, shall, should, must and ought are called Modal Verbs or Modals. They come before ordinary verbs and show meanings like permission, possibility, certainty and necessity. Need and dare can sometimes be used like modal verbs."
+        "x": "Def. (Section 289)—The verbs can, could, may, might, will, would, shall, should, must and ought are called Modal Verbs or Modals. They come before ordinary verbs and show meanings like permission, possibility, certainty and necessity. Need and dare can sometimes be used like modal verbs."
       },
       {
         "t": "p",
@@ -19947,7 +19947,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§290. The modals can, could, may, might, shall, should, will, would, must and ought are called Defective Verbs, because some of their parts are missing. They have no -s in the third person singular, and they have no -ing and -ed forms."
+        "x": "Section 290. The modals can, could, may, might, shall, should, will, would, must and ought are called Defective Verbs, because some of their parts are missing. They have no -s in the third person singular, and they have no -ing and -ed forms."
       },
       {
         "t": "h",
@@ -19959,7 +19959,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§291. The auxiliary be is used: (1) To make the continuous tenses."
+        "x": "Section 291. The auxiliary be is used: (1) To make the continuous tenses."
       },
       {
         "t": "ex",
@@ -19967,7 +19967,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§291. The auxiliary be is used: (2) To make the passive."
+        "x": "Section 291. The auxiliary be is used: (2) To make the passive."
       },
       {
         "t": "ex",
@@ -19975,7 +19975,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§291. Be + infinitive is used: (1) To show a plan, an arrangement or an agreement."
+        "x": "Section 291. Be + infinitive is used: (1) To show a plan, an arrangement or an agreement."
       },
       {
         "t": "ex",
@@ -19983,7 +19983,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§291. Be + infinitive is used: (2) To show a command."
+        "x": "Section 291. Be + infinitive is used: (2) To show a command."
       },
       {
         "t": "ex",
@@ -19999,7 +19999,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§292. Be in the past tense with the perfect infinitive shows a plan that was made but not carried out."
+        "x": "Section 292. Be in the past tense with the perfect infinitive shows a plan that was made but not carried out."
       },
       {
         "t": "ex",
@@ -20015,7 +20015,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§293. The auxiliary have is used to make the perfect tenses."
+        "x": "Section 293. The auxiliary have is used to make the perfect tenses."
       },
       {
         "t": "ex",
@@ -20031,7 +20031,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§294. Have to + infinitive shows obligation — something that must be done."
+        "x": "Section 294. Have to + infinitive shows obligation — something that must be done."
       },
       {
         "t": "ex",
@@ -20047,7 +20047,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§295. The past form had to shows obligation in the past."
+        "x": "Section 295. The past form had to shows obligation in the past."
       },
       {
         "t": "ex",
@@ -20063,7 +20063,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§296. In negatives and questions, have to and had to are used with do, does and did."
+        "x": "Section 296. In negatives and questions, have to and had to are used with do, does and did."
       },
       {
         "t": "ex",
@@ -20079,7 +20079,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§297. The auxiliary do is used: (1) To make the negative and the question forms of the Simple Present and Simple Past of ordinary verbs."
+        "x": "Section 297. The auxiliary do is used: (1) To make the negative and the question forms of the Simple Present and Simple Past of ordinary verbs."
       },
       {
         "t": "ex",
@@ -20087,7 +20087,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§297. The auxiliary do is used: (2) To avoid repeating an ordinary verb used before."
+        "x": "Section 297. The auxiliary do is used: (2) To avoid repeating an ordinary verb used before."
       },
       {
         "t": "ex",
@@ -20103,7 +20103,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§298. Do is also used to stress that a statement is affirmative — that it is really true."
+        "x": "Section 298. Do is also used to stress that a statement is affirmative — that it is really true."
       },
       {
         "t": "ex",
@@ -20119,7 +20119,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§299. In the imperative, do makes a request or an invitation stronger and more polite."
+        "x": "Section 299. In the imperative, do makes a request or an invitation stronger and more polite."
       },
       {
         "t": "ex",
@@ -20139,7 +20139,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§300. Can usually shows ability — what a person is able to do."
+        "x": "Section 300. Can usually shows ability — what a person is able to do."
       },
       {
         "t": "ex",
@@ -20155,7 +20155,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§301. Can and may are used to show permission. May is rather formal."
+        "x": "Section 301. Can and may are used to show permission. May is rather formal."
       },
       {
         "t": "ex",
@@ -20171,7 +20171,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§302. May is used to show possibility in affirmative sentences. Can is used in the matching questions and negatives."
+        "x": "Section 302. May is used to show possibility in affirmative sentences. Can is used in the matching questions and negatives."
       },
       {
         "t": "ex",
@@ -20191,7 +20191,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§303. In very formal English, may is used to show a wish."
+        "x": "Section 303. In very formal English, may is used to show a wish."
       },
       {
         "t": "ex",
@@ -20207,7 +20207,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§304. Could and might are used as the past forms of can and may."
+        "x": "Section 304. Could and might are used as the past forms of can and may."
       },
       {
         "t": "ex",
@@ -20223,7 +20223,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§305. Could shows only the ability to do something, not that the thing was actually done. For ability plus action in the past, use was/were able to."
+        "x": "Section 305. Could shows only the ability to do something, not that the thing was actually done. For ability plus action in the past, use was/were able to."
       },
       {
         "t": "ex",
@@ -20247,7 +20247,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§306. In present time, could and might are used as less positive forms of can and may."
+        "x": "Section 306. In present time, could and might are used as less positive forms of can and may."
       },
       {
         "t": "ex",
@@ -20263,7 +20263,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§307. Might is also used to show some dissatisfaction or blame."
+        "x": "Section 307. Might is also used to show some dissatisfaction or blame."
       },
       {
         "t": "ex",
@@ -20279,7 +20279,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§308. Note the use of can, could, may and might with the perfect infinitive."
+        "x": "Section 308. Note the use of can, could, may and might with the perfect infinitive."
       },
       {
         "t": "ex",
@@ -20295,7 +20295,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§309. Shall is used in the first person, and will in all persons, to show pure future."
+        "x": "Section 309. Shall is used in the first person, and will in all persons, to show pure future."
       },
       {
         "t": "ex",
@@ -20315,7 +20315,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§310. Shall is sometimes used in the second and third persons to show a command, a promise or a threat."
+        "x": "Section 310. Shall is sometimes used in the second and third persons to show a command, a promise or a threat."
       },
       {
         "t": "ex",
@@ -20323,7 +20323,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§310)—These uses of shall are old-fashioned and formal. They are generally avoided in modern English."
+        "x": "Note (Section 310)—These uses of shall are old-fashioned and formal. They are generally avoided in modern English."
       },
       {
         "t": "h",
@@ -20335,7 +20335,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§311. Questions with shall I/we are used to ask what the person spoken to wants."
+        "x": "Section 311. Questions with shall I/we are used to ask what the person spoken to wants."
       },
       {
         "t": "ex",
@@ -20351,7 +20351,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§312. Will is used to show: (1) Volition — what a person wants or is willing to do."
+        "x": "Section 312. Will is used to show: (1) Volition — what a person wants or is willing to do."
       },
       {
         "t": "ex",
@@ -20363,7 +20363,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§312. Will is used to show: (2) Characteristic habit — something a person usually does."
+        "x": "Section 312. Will is used to show: (2) Characteristic habit — something a person usually does."
       },
       {
         "t": "ex",
@@ -20371,7 +20371,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§312. Will is used to show: (3) Assumption or probability — what we think is probably true."
+        "x": "Section 312. Will is used to show: (3) Assumption or probability — what we think is probably true."
       },
       {
         "t": "ex",
@@ -20387,7 +20387,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§313. Will you shows an invitation or a request."
+        "x": "Section 313. Will you shows an invitation or a request."
       },
       {
         "t": "ex",
@@ -20403,7 +20403,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§314. Should and would are used as the past forms of shall and will."
+        "x": "Section 314. Should and would are used as the past forms of shall and will."
       },
       {
         "t": "ex",
@@ -20419,7 +20419,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§315. Should is used in all persons to show duty or obligation."
+        "x": "Section 315. Should is used in all persons to show duty or obligation."
       },
       {
         "t": "ex",
@@ -20435,7 +20435,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§316. In clauses of condition, should is used to show a supposition that may not be true."
+        "x": "Section 316. In clauses of condition, should is used to show a supposition that may not be true."
       },
       {
         "t": "ex",
@@ -20451,7 +20451,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§317. Should and would are also used as follows:"
+        "x": "Section 317. Should and would are also used as follows:"
       },
       {
         "t": "ex",
@@ -20467,7 +20467,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§318. Must is used to show necessity or obligation."
+        "x": "Section 318. Must is used to show necessity or obligation."
       },
       {
         "t": "ex",
@@ -20483,7 +20483,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§318A. Must refers to the present or the near future. To talk about the past, we use had to (the past form of have to). Must has no past form."
+        "x": "Section 318A. Must refers to the present or the near future. To talk about the past, we use had to (the past form of have to). Must has no past form."
       },
       {
         "t": "ex",
@@ -20499,7 +20499,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§319. Must is often used when the obligation comes from the speaker himself. When the obligation comes from somewhere else, have to is often used."
+        "x": "Section 319. Must is often used when the obligation comes from the speaker himself. When the obligation comes from somewhere else, have to is often used."
       },
       {
         "t": "ex",
@@ -20515,7 +20515,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§319A. Must can also show logical certainty — something we are sure about."
+        "x": "Section 319A. Must can also show logical certainty — something we are sure about."
       },
       {
         "t": "ex",
@@ -20531,7 +20531,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§320. Ought (to) shows moral obligation — what is right to do — or what is desirable."
+        "x": "Section 320. Ought (to) shows moral obligation — what is right to do — or what is desirable."
       },
       {
         "t": "ex",
@@ -20547,7 +20547,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§321. Ought (to) can also show probability."
+        "x": "Section 321. Ought (to) can also show probability."
       },
       {
         "t": "ex",
@@ -20563,7 +20563,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§322. The auxiliary used (to) shows a habit that has stopped — something done in the past but not now."
+        "x": "Section 322. The auxiliary used (to) shows a habit that has stopped — something done in the past but not now."
       },
       {
         "t": "ex",
@@ -20583,7 +20583,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§323. The auxiliary need means necessity or obligation. It can be used with or without do. Without do, it has no -s and -ed forms. It is used with an infinitive without to, only in negative and question sentences, and in sentences with words like scarcely and hardly."
+        "x": "Section 323. The auxiliary need means necessity or obligation. It can be used with or without do. Without do, it has no -s and -ed forms. It is used with an infinitive without to, only in negative and question sentences, and in sentences with words like scarcely and hardly."
       },
       {
         "t": "ex",
@@ -20599,7 +20599,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§324. With do, need has the usual forms needs and needed, and is used with a to-infinitive. It is commonly used in negatives and questions. It is sometimes used in the affirmative too."
+        "x": "Section 324. With do, need has the usual forms needs and needed, and is used with a to-infinitive. It is commonly used in negatives and questions. It is sometimes used in the affirmative too."
       },
       {
         "t": "ex",
@@ -20615,7 +20615,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§325. Compare didn’t need to and needn’t have."
+        "x": "Section 325. Compare didn’t need to and needn’t have."
       },
       {
         "t": "ex",
@@ -20631,7 +20631,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§326. The auxiliary dare means ‘be brave enough to’. It is different from the ordinary verb dare, which means ‘challenge’. It does not take -s in the third person singular present tense. It is generally used in negative and question sentences. Without do, it is followed by an infinitive without to. With do, it takes an infinitive with or without to."
+        "x": "Section 326. The auxiliary dare means ‘be brave enough to’. It is different from the ordinary verb dare, which means ‘challenge’. It does not take -s in the third person singular present tense. It is generally used in negative and question sentences. Without do, it is followed by an infinitive without to. With do, it takes an infinitive with or without to."
       },
       {
         "t": "ex",
@@ -20648,7 +20648,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §288)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 288)",
        "items": [
         {
          "q": "What are auxiliary verbs?",
@@ -20663,7 +20663,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §289)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 289)",
        "items": [
         {
          "q": "What are modal verbs?",
@@ -20678,7 +20678,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §290)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 290)",
        "items": [
         {
          "q": "Why are the modals called Defective Verbs?",
@@ -20693,7 +20693,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §291)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 291)",
        "items": [
         {
          "q": "How is the auxiliary 'be' used?",
@@ -20712,7 +20712,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §292)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 292)",
        "items": [
         {
          "q": "What does 'be' in the past tense with the perfect infinitive show?",
@@ -20727,7 +20727,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §293)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 293)",
        "items": [
         {
          "q": "How is the auxiliary 'have' used?",
@@ -20742,7 +20742,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §294)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 294)",
        "items": [
         {
          "q": "What does 'have to' express?",
@@ -20757,7 +20757,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §295)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 295)",
        "items": [
         {
          "q": "How do we express obligation in the past?",
@@ -20772,7 +20772,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §296)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 296)",
        "items": [
         {
          "q": "How are 'have to' and 'had to' used in negatives and questions?",
@@ -20787,7 +20787,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §297)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 297)",
        "items": [
         {
          "q": "How is the auxiliary 'do' used? (1) Negatives and questions. (2) To avoid repetition.",
@@ -20802,7 +20802,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §298)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 298)",
        "items": [
         {
          "q": "How is 'do' used for emphasis?",
@@ -20817,7 +20817,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §299)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 299)",
        "items": [
         {
          "q": "How is 'do' used in the imperative?",
@@ -20832,7 +20832,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §300)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 300)",
        "items": [
         {
          "q": "What does 'can' usually express?",
@@ -20847,7 +20847,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §301)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 301)",
        "items": [
         {
          "q": "How are 'can' and 'may' used for permission?",
@@ -20862,7 +20862,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §302)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 302)",
        "items": [
         {
          "q": "How are 'may' and 'can' used for possibility?",
@@ -20877,7 +20877,7 @@ STUDY.grammar = {
      "num": "16",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §303)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 303)",
        "items": [
         {
          "q": "How is 'may' used for a wish?",
@@ -20892,7 +20892,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §304)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 304)",
        "items": [
         {
          "q": "How are 'could' and 'might' used as the past of 'can' and 'may'?",
@@ -20907,7 +20907,7 @@ STUDY.grammar = {
      "num": "18",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §305)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 305)",
        "items": [
         {
          "q": "When should we use 'was/were able to' instead of 'could'?",
@@ -20922,7 +20922,7 @@ STUDY.grammar = {
      "num": "19",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §306)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 306)",
        "items": [
         {
          "q": "How are 'could' and 'might' used in present time contexts?",
@@ -20937,7 +20937,7 @@ STUDY.grammar = {
      "num": "20",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §307)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 307)",
        "items": [
         {
          "q": "How is 'might' used to express dissatisfaction?",
@@ -20952,7 +20952,7 @@ STUDY.grammar = {
      "num": "21",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §308)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 308)",
        "items": [
         {
          "q": "Give examples of can, could, may and might with the perfect infinitive.",
@@ -20967,7 +20967,7 @@ STUDY.grammar = {
      "num": "22",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §309)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 309)",
        "items": [
         {
          "q": "How are 'shall' and 'will' used for pure future?",
@@ -20982,7 +20982,7 @@ STUDY.grammar = {
      "num": "23",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §310)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 310)",
        "items": [
         {
          "q": "How is 'shall' used in the second and third persons?",
@@ -20997,7 +20997,7 @@ STUDY.grammar = {
      "num": "24",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §311)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 311)",
        "items": [
         {
          "q": "What are questions with 'shall I/we' used for?",
@@ -21012,7 +21012,7 @@ STUDY.grammar = {
      "num": "25",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §312)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 312)",
        "items": [
         {
          "q": "What does 'will' express? (1) Volition.",
@@ -21031,7 +21031,7 @@ STUDY.grammar = {
      "num": "26",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §313)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 313)",
        "items": [
         {
          "q": "What does 'Will you' indicate?",
@@ -21046,7 +21046,7 @@ STUDY.grammar = {
      "num": "27",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §314)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 314)",
        "items": [
         {
          "q": "How are 'should' and 'would' used as the past of 'shall' and 'will'?",
@@ -21061,7 +21061,7 @@ STUDY.grammar = {
      "num": "28",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §315)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 315)",
        "items": [
         {
          "q": "What does 'should' express?",
@@ -21076,7 +21076,7 @@ STUDY.grammar = {
      "num": "29",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §316)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 316)",
        "items": [
         {
          "q": "How is 'should' used in clauses of condition?",
@@ -21091,7 +21091,7 @@ STUDY.grammar = {
      "num": "30",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §317)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 317)",
        "items": [
         {
          "q": "Give other examples of 'should' and 'would'.",
@@ -21106,7 +21106,7 @@ STUDY.grammar = {
      "num": "31",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §318)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 318)",
        "items": [
         {
          "q": "What does 'must' express?",
@@ -21121,7 +21121,7 @@ STUDY.grammar = {
      "num": "32",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §318A)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 318A)",
        "items": [
         {
          "q": "Does 'must' have a past form?",
@@ -21136,7 +21136,7 @@ STUDY.grammar = {
      "num": "33",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §319)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 319)",
        "items": [
         {
          "q": "What is the difference between 'must' and 'have to'?",
@@ -21151,7 +21151,7 @@ STUDY.grammar = {
      "num": "34",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §319A)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 319A)",
        "items": [
         {
          "q": "How can 'must' express logical certainty?",
@@ -21166,7 +21166,7 @@ STUDY.grammar = {
      "num": "35",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §320)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 320)",
        "items": [
         {
          "q": "What does 'ought (to)' express?",
@@ -21181,7 +21181,7 @@ STUDY.grammar = {
      "num": "36",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §321)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 321)",
        "items": [
         {
          "q": "What else can 'ought (to)' express?",
@@ -21196,7 +21196,7 @@ STUDY.grammar = {
      "num": "37",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §322)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 322)",
        "items": [
         {
          "q": "What does the auxiliary 'used (to)' express?",
@@ -21211,7 +21211,7 @@ STUDY.grammar = {
      "num": "38",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §323)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 323)",
        "items": [
         {
          "q": "How is the auxiliary 'need' used without 'do'?",
@@ -21226,7 +21226,7 @@ STUDY.grammar = {
      "num": "39",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §324)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 324)",
        "items": [
         {
          "q": "How is 'need' used with 'do'?",
@@ -21241,7 +21241,7 @@ STUDY.grammar = {
      "num": "40",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §325)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 325)",
        "items": [
         {
          "q": "What is the difference between 'didn't need to' and 'needn't have'?",
@@ -21256,7 +21256,7 @@ STUDY.grammar = {
      "num": "41",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 32, §326)",
+       "label": "The rule (Wren & Martin, Chapter 32, Section 326)",
        "items": [
         {
          "q": "How is the auxiliary 'dare' used?",
@@ -21382,7 +21382,7 @@ STUDY.grammar = {
      "num": "43",
      "exercises": [
       {
-       "label": "Exercise in Composition 59A — from the book (Wren & Martin, Chapter 32). Rewrite each of these sentences, using a modal verb. (In 2 and 9, use another modal.) (The Key gives no answers for this exercise; the answers below are worked out from §§300–326.)",
+       "label": "Exercise in Composition 59A — from the book (Wren & Martin, Chapter 32). Rewrite each of these sentences, using a modal verb. (In 2 and 9, use another modal.) (The Key gives no answers for this exercise; the answers below are worked out from Sections 300–326.)",
        "items": [
         {
          "q": "1. Possibly she isn’t Anil’s sister.",
@@ -21525,7 +21525,7 @@ STUDY.grammar = {
       },
       {
         "t": "def",
-        "x": "Def. (§327)—The Conjugation of a verb shows the different forms it takes. These forms are made by changing the verb itself, or by joining it with parts of other verbs. They show Voice, Mood, Tense, Number and Person. To these we must add its Infinitives and Participles."
+        "x": "Def. (Section 327)—The Conjugation of a verb shows the different forms it takes. These forms are made by changing the verb itself, or by joining it with parts of other verbs. They show Voice, Mood, Tense, Number and Person. To these we must add its Infinitives and Participles."
       },
       {
         "t": "p",
@@ -21609,7 +21609,7 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "Note (§327)—The book prints “Perfect Participle — to have loved / to have been loved” in this list. That is really the Perfect Infinitive, not a participle, so it is shown here under its right name. The real Perfect Participle (having loved / having been loved) is the last line of the list."
+        "x": "Note (Section 327)—The book prints “Perfect Participle — to have loved / to have been loved” in this list. That is really the Perfect Infinitive, not a participle, so it is shown here under its right name. The real Perfect Participle (having loved / having been loved) is the last line of the list."
       }
     ],
    "unit": 33,
@@ -21622,7 +21622,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "label": "The rule (Wren & Martin, Chapter 33, Section 327)",
        "items": [
         {
          "q": "What is the conjugation of a verb?",
@@ -21637,7 +21637,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "label": "The rule (Wren & Martin, Chapter 33, Section 327)",
        "items": [
         {
          "q": "Give the Simple Present of 'love' (Active and Passive).",
@@ -21664,7 +21664,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "label": "The rule (Wren & Martin, Chapter 33, Section 327)",
        "items": [
         {
          "q": "Give the Simple Past of 'love' (Active and Passive).",
@@ -21691,7 +21691,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "label": "The rule (Wren & Martin, Chapter 33, Section 327)",
        "items": [
         {
          "q": "Give the Simple Future of 'love' (Active and Passive).",
@@ -21718,7 +21718,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "label": "The rule (Wren & Martin, Chapter 33, Section 327)",
        "items": [
         {
          "q": "Give the Imperative of 'love' (Active and Passive).",
@@ -21733,7 +21733,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 33, §327)",
+       "label": "The rule (Wren & Martin, Chapter 33, Section 327)",
        "items": [
         {
          "q": "Give the Non-Finites of 'love'.",
@@ -21748,7 +21748,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "Practice made from the rules of this chapter — Chapter 33 has no exercise of its own in the book. Give the form asked for, from the conjugation in § 327.",
+       "label": "Practice made from the rules of this chapter — Chapter 33 has no exercise of its own in the book. Give the form asked for, from the conjugation in Section 327.",
        "items": [
         {
          "q": "1. Simple Present, Active, 'He'.",
@@ -21826,7 +21826,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§328 Read these sentences."
+        "x": "Section 328 Read these sentences."
       },
       {
         "t": "ex",
@@ -21850,7 +21850,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§329 Sometimes an adverb adds to a whole phrase, not just to one word."
+        "x": "Section 329 Sometimes an adverb adds to a whole phrase, not just to one word."
       },
       {
         "t": "ex",
@@ -21858,7 +21858,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§330 Sometimes an adverb at the start of a sentence adds to the whole sentence, not to one word in it."
+        "x": "Section 330 Sometimes an adverb at the start of a sentence adds to the whole sentence, not to one word in it."
       },
       {
         "t": "ex",
@@ -21870,7 +21870,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§331 We can divide adverbs into seven groups by their meaning: (1) Adverbs of Time (which show when); (2) Adverbs of Frequency (which show how often); (3) Adverbs of Place (which show where); (4) Adverbs of Manner (which show how, or in what way); (5) Adverbs of Degree or Quantity (which show how much, or to what extent); (6) Adverbs of Affirmation and Negation; (7) Adverbs of Reason."
+        "x": "Section 331 We can divide adverbs into seven groups by their meaning: (1) Adverbs of Time (which show when); (2) Adverbs of Frequency (which show how often); (3) Adverbs of Place (which show where); (4) Adverbs of Manner (which show how, or in what way); (5) Adverbs of Degree or Quantity (which show how much, or to what extent); (6) Adverbs of Affirmation and Negation; (7) Adverbs of Reason."
       },
       {
         "t": "h",
@@ -21934,7 +21934,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§332 One adverb can belong to more than one group. It depends on how it is used."
+        "x": "Section 332 One adverb can belong to more than one group. It depends on how it is used."
       },
       {
         "t": "ex",
@@ -21942,11 +21942,11 @@ STUDY.grammar = {
       },
       {
         "t": "note",
-        "x": "The examples above are all Simple Adverbs. (See § 336.)"
+        "x": "The examples above are all Simple Adverbs. (See Section 336.)"
       },
       {
         "t": "rule",
-        "x": "§333 When yes and no stand alone, each one stands for a whole sentence."
+        "x": "Section 333 When yes and no stand alone, each one stands for a whole sentence."
       },
       {
         "t": "ex",
@@ -21954,7 +21954,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§334 When we use an adverb to ask a question, we call it an Interrogative Adverb."
+        "x": "Section 334 When we use an adverb to ask a question, we call it an Interrogative Adverb."
       },
       {
         "t": "ex",
@@ -21962,7 +21962,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§335 Some adverbs point back to a noun named before, just as a relative pronoun does. We call them Relative Adverbs."
+        "x": "Section 335 Some adverbs point back to a noun named before, just as a relative pronoun does. We call them Relative Adverbs."
       },
       {
         "t": "ex",
@@ -21970,7 +21970,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§336 By their use, adverbs fall into three groups: (1) Simple Adverbs, (2) Interrogative Adverbs, (3) Relative Adverbs."
+        "x": "Section 336 By their use, adverbs fall into three groups: (1) Simple Adverbs, (2) Interrogative Adverbs, (3) Relative Adverbs."
       },
       {
         "t": "ex",
@@ -21978,7 +21978,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§337 (1) A Simple Adverb only adds to some word. (2) An Interrogative Adverb adds to some word, and also asks a question. (3) A Relative Adverb adds to some word, and also points back to a noun named before."
+        "x": "Section 337 (1) A Simple Adverb only adds to some word. (2) An Interrogative Adverb adds to some word, and also asks a question. (3) A Relative Adverb adds to some word, and also points back to a noun named before."
       },
       {
         "t": "h",
@@ -21986,7 +21986,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§338 Some words look the same as adjectives and as adverbs. The same word can be an adjective in one sentence and an adverb in another."
+        "x": "Section 338 Some words look the same as adjectives and as adverbs. The same word can be an adjective in one sentence and an adverb in another."
       },
       {
         "t": "ex",
@@ -21998,7 +21998,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§339 Some adverbs have two forms: one ends in -ly, and the other looks just like the adjective."
+        "x": "Section 339 Some adverbs have two forms: one ends in -ly, and the other looks just like the adjective."
       },
       {
         "t": "ex",
@@ -22006,7 +22006,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§339 (continued) But sometimes the two forms have different meanings."
+        "x": "Section 339 (continued) But sometimes the two forms have different meanings."
       },
       {
         "t": "ex",
@@ -22014,7 +22014,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§340 Some adverbs are used as nouns after prepositions."
+        "x": "Section 340 Some adverbs are used as nouns after prepositions."
       },
       {
         "t": "ex",
@@ -22026,7 +22026,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§341 Some adverbs seem to be used as adjectives. In each case, we understand another word with them, a participle or an adjective."
+        "x": "Section 341 Some adverbs seem to be used as adjectives. In each case, we understand another word with them, a participle or an adjective."
       },
       {
         "t": "ex",
@@ -22034,7 +22034,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§342 In the following sentences, ‘the’ is not the article ‘the’. It is an old demonstrative pronoun used as an adverb."
+        "x": "Section 342 In the following sentences, ‘the’ is not the article ‘the’. It is an old demonstrative pronoun used as an adverb."
       },
       {
         "t": "ex",
@@ -22042,11 +22042,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§342 (continued) We use ‘the’ as an adverb only with an adjective or another adverb in the comparative degree."
+        "x": "Section 342 (continued) We use ‘the’ as an adverb only with an adjective or another adverb in the comparative degree."
       },
       {
         "t": "rule",
-        "x": "§343 We often use nouns as adverbs when they tell us time, place, distance, weight, measurement, value, degree, or something like that."
+        "x": "Section 343 We often use nouns as adverbs when they tell us time, place, distance, weight, measurement, value, degree, or something like that."
       },
       {
         "t": "ex",
@@ -22058,7 +22058,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§344 Sometimes we use verbs as adverbs."
+        "x": "Section 344 Sometimes we use verbs as adverbs."
       },
       {
         "t": "ex",
@@ -22075,7 +22075,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §328)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 328)",
        "items": [
         {
          "q": "Read these sentences: (1) Rama runs quickly. (2) This is a very sweet mango. (3) Govind reads quite clearly. What does each Adverb modify?",
@@ -22098,7 +22098,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §329)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 329)",
        "items": [
         {
          "q": "Give sentences in which Adverbs modify phrases.",
@@ -22113,7 +22113,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §330)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 330)",
        "items": [
         {
          "q": "Give sentences in which an Adverb at the beginning modifies the whole sentence.",
@@ -22128,7 +22128,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §331)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 331)",
        "items": [
         {
          "q": "Into how many classes may Adverbs be divided according to their meaning?",
@@ -22171,7 +22171,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §332)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 332)",
        "items": [
         {
          "q": "Can an Adverb belong to more than one class? Give examples.",
@@ -22186,7 +22186,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §333)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 333)",
        "items": [
         {
          "q": "What are yes and no when used by themselves?",
@@ -22392,7 +22392,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §334)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 334)",
        "items": [
         {
          "q": "When are Adverbs called Interrogative Adverbs? Give examples.",
@@ -22407,7 +22407,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §335)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 335)",
        "items": [
         {
          "q": "What is a Relative Adverb? Give examples.",
@@ -22422,7 +22422,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §336)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 336)",
        "items": [
         {
          "q": "According to their use, into how many classes are Adverbs divided?",
@@ -22437,7 +22437,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §337)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 337)",
        "items": [
         {
          "q": "How do Simple, Interrogative and Relative Adverbs differ?",
@@ -22452,7 +22452,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §338)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 338)",
        "items": [
         {
          "q": "Give examples of words used sometimes as Adjectives, sometimes as Adverbs.",
@@ -22518,7 +22518,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §339)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 339)",
        "items": [
         {
          "q": "Give examples of Adverbs that have two forms, the form ending in -ly and the form which is the same as the Adjective.",
@@ -22533,7 +22533,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §340)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 340)",
        "items": [
         {
          "q": "Give examples of Adverbs used as Nouns after prepositions.",
@@ -22552,7 +22552,7 @@ STUDY.grammar = {
      "num": "16",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §341)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 341)",
        "items": [
         {
          "q": "Give examples of Adverbs that seem to be used as Adjectives.",
@@ -22567,7 +22567,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §342)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 342)",
        "items": [
         {
          "q": "In ‘The more the merrier’, what part of speech is the?",
@@ -22582,7 +22582,7 @@ STUDY.grammar = {
      "num": "18",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §343)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 343)",
        "items": [
         {
          "q": "Give examples of Nouns used as Adverbs. What is a noun so used called?",
@@ -22597,7 +22597,7 @@ STUDY.grammar = {
      "num": "19",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 34, §344)",
+       "label": "The rule (Wren & Martin, Chapter 34, Section 344)",
        "items": [
         {
          "q": "Give an example of a Verb used as an Adverb.",
@@ -22669,11 +22669,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§345 Some adverbs, like adjectives, have three degrees of comparison: Positive, Comparative, and Superlative. We compare them in the same way as adjectives."
+        "x": "Section 345 Some adverbs, like adjectives, have three degrees of comparison: Positive, Comparative, and Superlative. We compare them in the same way as adjectives."
       },
       {
         "t": "rule",
-        "x": "§346 If an adverb has only one syllable, we make the Comparative by adding -er, and the Superlative by adding -est, to the Positive."
+        "x": "Section 346 If an adverb has only one syllable, we make the Comparative by adding -er, and the Superlative by adding -est, to the Positive."
       },
       {
         "t": "ex",
@@ -22681,7 +22681,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§347 Adverbs that end in -ly make the Comparative by adding ‘more’, and the Superlative by adding ‘most’."
+        "x": "Section 347 Adverbs that end in -ly make the Comparative by adding ‘more’, and the Superlative by adding ‘most’."
       },
       {
         "t": "ex",
@@ -22697,7 +22697,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§348 Only adverbs of Manner, Degree, and Time can be compared."
+        "x": "Section 348 Only adverbs of Manner, Degree, and Time can be compared."
       },
       {
         "t": "ex",
@@ -22705,7 +22705,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§349 Some of the commonest adverbs make their Comparative and Superlative in an irregular way, not by the usual rule."
+        "x": "Section 349 Some of the commonest adverbs make their Comparative and Superlative in an irregular way, not by the usual rule."
       },
       {
         "t": "ex",
@@ -22722,7 +22722,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 35, §345)",
+       "label": "The rule (Wren & Martin, Chapter 35, Section 345)",
        "items": [
         {
          "q": "Do Adverbs have degrees of comparison?",
@@ -22737,7 +22737,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 35, §346)",
+       "label": "The rule (Wren & Martin, Chapter 35, Section 346)",
        "items": [
         {
          "q": "How are Adverbs of one syllable compared? Give examples.",
@@ -22752,7 +22752,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 35, §347)",
+       "label": "The rule (Wren & Martin, Chapter 35, Section 347)",
        "items": [
         {
          "q": "How are Adverbs ending in -ly compared? Give examples.",
@@ -22767,7 +22767,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 35, §348)",
+       "label": "The rule (Wren & Martin, Chapter 35, Section 348)",
        "items": [
         {
          "q": "Which Adverbs admit of comparison, and which cannot be compared?",
@@ -22782,7 +22782,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 35, §349)",
+       "label": "The rule (Wren & Martin, Chapter 35, Section 349)",
        "items": [
         {
          "q": "Give the Comparative and Superlative of the commonest irregular Adverbs.",
@@ -22863,7 +22863,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§350 We make most adverbs of manner from adjectives by adding -ly. (-ly comes from the old word ‘like’.)"
+        "x": "Section 350 We make most adverbs of manner from adjectives by adding -ly. (-ly comes from the old word ‘like’.)"
       },
       {
         "t": "ex",
@@ -22871,7 +22871,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§350 (continued) If the adjective ends in -y, and a consonant comes before the -y, change the -y to -i and add -ly."
+        "x": "Section 350 (continued) If the adjective ends in -y, and a consonant comes before the -y, change the -y to -i and add -ly."
       },
       {
         "t": "ex",
@@ -22879,7 +22879,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§350 (continued) If the adjective ends in -le, simply change the -e to -y."
+        "x": "Section 350 (continued) If the adjective ends in -le, simply change the -e to -y."
       },
       {
         "t": "ex",
@@ -22887,7 +22887,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§351 Some adverbs are made of a noun and an adjective that describes it."
+        "x": "Section 351 Some adverbs are made of a noun and an adjective that describes it."
       },
       {
         "t": "ex",
@@ -22895,7 +22895,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§352 Some adverbs are made of ‘on’ (shortened to ‘a’) and a noun."
+        "x": "Section 352 Some adverbs are made of ‘on’ (shortened to ‘a’) and a noun."
       },
       {
         "t": "ex",
@@ -22903,7 +22903,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§352 (continued) Other adverbs are also made of a preposition and a noun."
+        "x": "Section 352 (continued) Other adverbs are also made of a preposition and a noun."
       },
       {
         "t": "ex",
@@ -22915,7 +22915,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§353 Some adverbs are made of a preposition and an adjective."
+        "x": "Section 353 Some adverbs are made of a preposition and an adjective."
       },
       {
         "t": "ex",
@@ -22923,7 +22923,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§354 Some adverbs are made of a preposition and an adverb."
+        "x": "Section 354 Some adverbs are made of a preposition and an adverb."
       },
       {
         "t": "ex",
@@ -22931,7 +22931,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§355 Some adverbs come from the pronouns the (= that), he, and who."
+        "x": "Section 355 Some adverbs come from the pronouns the (= that), he, and who."
       },
       {
         "t": "ex",
@@ -22939,7 +22939,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§356 Many of these adverbs join with prepositions to make new adverbs."
+        "x": "Section 356 Many of these adverbs join with prepositions to make new adverbs."
       },
       {
         "t": "ex",
@@ -22947,7 +22947,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§357 Sometimes two adverbs go together, joined by the conjunction ‘and’."
+        "x": "Section 357 Sometimes two adverbs go together, joined by the conjunction ‘and’."
       },
       {
         "t": "ex",
@@ -22968,7 +22968,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §350)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 350)",
        "items": [
         {
          "q": "How are Adverbs of Manner mostly formed? Give examples.",
@@ -22991,7 +22991,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §351)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 351)",
        "items": [
         {
          "q": "Give examples of Adverbs made up of a Noun and a qualifying Adjective.",
@@ -23006,7 +23006,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §352)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 352)",
        "items": [
         {
          "q": "Give examples of Adverbs compounded of on (weakened to a) and a Noun.",
@@ -23025,7 +23025,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §353)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 353)",
        "items": [
         {
          "q": "Give examples of Adverbs compounded of a Preposition and an Adjective.",
@@ -23040,7 +23040,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §354)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 354)",
        "items": [
         {
          "q": "Give examples of Adverbs compounded of a Preposition and an Adverb.",
@@ -23055,7 +23055,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §355)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 355)",
        "items": [
         {
          "q": "Which Adverbs are derived from the Pronouns the (= that), he, who?",
@@ -23070,7 +23070,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §356)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 356)",
        "items": [
         {
          "q": "Give examples of Adverbs compounded with Prepositions.",
@@ -23085,7 +23085,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 36, §357)",
+       "label": "The rule (Wren & Martin, Chapter 36, Section 357)",
        "items": [
         {
          "q": "Give examples of two Adverbs joined by and, with their meanings.",
@@ -23189,7 +23189,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§358 Adverbs of manner answer the question ‘How?’ (for example, well, fast, quickly, carefully, calmly). We usually put them after the verb, or after the object if there is one."
+        "x": "Section 358 Adverbs of manner answer the question ‘How?’ (for example, well, fast, quickly, carefully, calmly). We usually put them after the verb, or after the object if there is one."
       },
       {
         "t": "ex",
@@ -23197,7 +23197,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§359 Adverbs and adverb phrases of place (for example, here, there, everywhere, on the wall) and of time (for example, now, then, yet, today, next Sunday) also usually go after the verb, or after the object if there is one."
+        "x": "Section 359 Adverbs and adverb phrases of place (for example, here, there, everywhere, on the wall) and of time (for example, now, then, yet, today, next Sunday) also usually go after the verb, or after the object if there is one."
       },
       {
         "t": "ex",
@@ -23205,7 +23205,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§360 When two or more adverbs come after a verb (and its object), the usual order is: adverb of manner, adverb of place, adverb of time."
+        "x": "Section 360 When two or more adverbs come after a verb (and its object), the usual order is: adverb of manner, adverb of place, adverb of time."
       },
       {
         "t": "ex",
@@ -23213,7 +23213,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§361 Adverbs of frequency answer the question ‘How often?’ (for example, always, never, often, rarely, usually, generally). Some other adverbs (almost, already, hardly, nearly, just, quite) follow the same rule. If the verb is only one word, we put the adverb between the subject and the verb. If the verb has more than one word, we put the adverb after the first word of the verb."
+        "x": "Section 361 Adverbs of frequency answer the question ‘How often?’ (for example, always, never, often, rarely, usually, generally). Some other adverbs (almost, already, hardly, nearly, just, quite) follow the same rule. If the verb is only one word, we put the adverb between the subject and the verb. If the verb has more than one word, we put the adverb after the first word of the verb."
       },
       {
         "t": "ex",
@@ -23221,7 +23221,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§362 If the verb is am, are, is, or was, we put these adverbs after the verb."
+        "x": "Section 362 If the verb is am, are, is, or was, we put these adverbs after the verb."
       },
       {
         "t": "ex",
@@ -23229,7 +23229,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§363 When we stress an auxiliary verb, or the verb ‘be’ on its own, we put these adverbs before it."
+        "x": "Section 363 When we stress an auxiliary verb, or the verb ‘be’ on its own, we put these adverbs before it."
       },
       {
         "t": "ex",
@@ -23241,7 +23241,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§364 With the auxiliaries ‘have to’ and ‘used to’, we like to put the adverb in front of them."
+        "x": "Section 364 With the auxiliaries ‘have to’ and ‘used to’, we like to put the adverb in front of them."
       },
       {
         "t": "ex",
@@ -23249,7 +23249,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§365 When an adverb adds to an adjective or another adverb, it usually comes before that word."
+        "x": "Section 365 When an adverb adds to an adjective or another adverb, it usually comes before that word."
       },
       {
         "t": "ex",
@@ -23257,7 +23257,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§366 But the adverb ‘enough’ is always placed after the word it adds to."
+        "x": "Section 366 But the adverb ‘enough’ is always placed after the word it adds to."
       },
       {
         "t": "ex",
@@ -23265,7 +23265,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§367 As a rule, put the word ‘only’ just before the word it adds to."
+        "x": "Section 367 As a rule, put the word ‘only’ just before the word it adds to."
       },
       {
         "t": "ex",
@@ -23290,7 +23290,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §358)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 358)",
        "items": [
         {
          "q": "Where are Adverbs of manner generally placed? Give examples.",
@@ -23305,7 +23305,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §359)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 359)",
        "items": [
         {
          "q": "Where are Adverbs of place and time usually placed? Give examples.",
@@ -23320,7 +23320,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §360)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 360)",
        "items": [
         {
          "q": "When there are two or more adverbs after a verb, what is the normal order?",
@@ -23335,7 +23335,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §361)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 361)",
        "items": [
         {
          "q": "Where are Adverbs of frequency normally placed? Give examples.",
@@ -23350,7 +23350,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §362)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 362)",
        "items": [
         {
          "q": "Where are these adverbs placed if the verb is am, are, is or was? Give examples.",
@@ -23365,7 +23365,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §363)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 363)",
        "items": [
         {
          "q": "When are these adverbs put before an auxiliary or the single verb be?",
@@ -23380,7 +23380,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §364)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 364)",
        "items": [
         {
          "q": "Where does the adverb go with have to and used to?",
@@ -23395,7 +23395,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §365)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 365)",
        "items": [
         {
          "q": "Where is an adverb placed when it modifies an adjective or another adverb? Give examples.",
@@ -23410,7 +23410,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §366)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 366)",
        "items": [
         {
          "q": "Where is the adverb enough placed? Give examples.",
@@ -23425,7 +23425,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 37, §367)",
+       "label": "The rule (Wren & Martin, Chapter 37, Section 367)",
        "items": [
         {
          "q": "Where should the word only be placed? Give examples.",
@@ -23550,7 +23550,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§368 Read these sentences."
+        "x": "Section 368 Read these sentences."
       },
       {
         "t": "ex",
@@ -23578,7 +23578,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§369 The Noun or Pronoun used with a Preposition is called its Object. It is in the Accusative case, and we say the Preposition governs it."
+        "x": "Section 369 The Noun or Pronoun used with a Preposition is called its Object. It is in the Accusative case, and we say the Preposition governs it."
       },
       {
         "t": "p",
@@ -23586,7 +23586,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§370 One Preposition can have two or more objects."
+        "x": "Section 370 One Preposition can have two or more objects."
       },
       {
         "t": "ex",
@@ -23594,7 +23594,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§371 A Preposition is usually placed before its object, but sometimes it comes after the object."
+        "x": "Section 371 A Preposition is usually placed before its object, but sometimes it comes after the object."
       },
       {
         "t": "ex",
@@ -23618,7 +23618,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§372 We often leave out the Prepositions for, from, in, and on before nouns of place or time."
+        "x": "Section 372 We often leave out the Prepositions for, from, in, and on before nouns of place or time."
       },
       {
         "t": "ex",
@@ -23630,7 +23630,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§373 Prepositions fall into three groups: (1) Simple Prepositions, (2) Compound Prepositions, (3) Phrase Prepositions."
+        "x": "Section 373 Prepositions fall into three groups: (1) Simple Prepositions, (2) Compound Prepositions, (3) Phrase Prepositions."
       },
       {
         "t": "h",
@@ -23670,7 +23670,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§374 Some words — barring, concerning, considering, during, notwithstanding, pending, regarding, respecting, touching, and a few more — are present participles of verbs. They are used on their own, with no noun or pronoun after them. For all practical purposes, they have become Prepositions. We sometimes call them Participial Prepositions."
+        "x": "Section 374 Some words — barring, concerning, considering, during, notwithstanding, pending, regarding, respecting, touching, and a few more — are present participles of verbs. They are used on their own, with no noun or pronoun after them. For all practical purposes, they have become Prepositions. We sometimes call them Participial Prepositions."
       },
       {
         "t": "ex",
@@ -23678,7 +23678,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§375 Some words are used sometimes as Adverbs and sometimes as Prepositions. A word is a Preposition when it governs a noun or pronoun. It is an Adverb when it does not govern one."
+        "x": "Section 375 Some words are used sometimes as Adverbs and sometimes as Prepositions. A word is a Preposition when it governs a noun or pronoun. It is an Adverb when it does not govern one."
       },
       {
         "t": "ex",
@@ -23686,7 +23686,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§376 The object of a Preposition is usually a Noun or Pronoun. But sometimes it is an Adverb of Time or Place (see § 340)."
+        "x": "Section 376 The object of a Preposition is usually a Noun or Pronoun. But sometimes it is an Adverb of Time or Place (see Section 340)."
       },
       {
         "t": "ex",
@@ -23694,7 +23694,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§377 Sometimes the object of a Preposition is an Adverbial Phrase."
+        "x": "Section 377 Sometimes the object of a Preposition is an Adverbial Phrase."
       },
       {
         "t": "ex",
@@ -23702,7 +23702,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§378 A clause can also be the object of a Preposition."
+        "x": "Section 378 A clause can also be the object of a Preposition."
       },
       {
         "t": "ex",
@@ -23710,7 +23710,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§379 When the object of a Preposition is a relative pronoun, we sometimes leave it out."
+        "x": "Section 379 When the object of a Preposition is a relative pronoun, we sometimes leave it out."
       },
       {
         "t": "ex",
@@ -23718,7 +23718,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§380 We very often use Prepositions with verbs to make new verbs. Sometimes the Preposition comes before the verb. More often it comes after the verb and stays separate."
+        "x": "Section 380 We very often use Prepositions with verbs to make new verbs. Sometimes the Preposition comes before the verb. More often it comes after the verb and stays separate."
       },
       {
         "t": "ex",
@@ -23730,11 +23730,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 Here are some of the most common relations that Prepositions show."
+        "x": "Section 381 Here are some of the most common relations that Prepositions show."
       },
       {
         "t": "rule",
-        "x": "§381 (1) Place — the Preposition shows where something is, or where it goes."
+        "x": "Section 381 (1) Place — the Preposition shows where something is, or where it goes."
       },
       {
         "t": "ex",
@@ -23742,7 +23742,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (2) Time — the Preposition shows when something happens."
+        "x": "Section 381 (2) Time — the Preposition shows when something happens."
       },
       {
         "t": "ex",
@@ -23750,7 +23750,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (3) Agency or instrumentality — the Preposition shows by whom or by what means something is done."
+        "x": "Section 381 (3) Agency or instrumentality — the Preposition shows by whom or by what means something is done."
       },
       {
         "t": "ex",
@@ -23758,7 +23758,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (4) Manner — the Preposition shows how something is done."
+        "x": "Section 381 (4) Manner — the Preposition shows how something is done."
       },
       {
         "t": "ex",
@@ -23766,7 +23766,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (5) Cause, reason, or purpose — the Preposition shows why something is done."
+        "x": "Section 381 (5) Cause, reason, or purpose — the Preposition shows why something is done."
       },
       {
         "t": "ex",
@@ -23774,7 +23774,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (6) Possession — the Preposition shows what belongs to whom."
+        "x": "Section 381 (6) Possession — the Preposition shows what belongs to whom."
       },
       {
         "t": "ex",
@@ -23782,7 +23782,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (7) Measure, standard, rate, or value — the Preposition shows how much, or at what rate."
+        "x": "Section 381 (7) Measure, standard, rate, or value — the Preposition shows how much, or at what rate."
       },
       {
         "t": "ex",
@@ -23790,7 +23790,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (8) Contrast or concession — the Preposition means ‘in spite of’."
+        "x": "Section 381 (8) Contrast or concession — the Preposition means ‘in spite of’."
       },
       {
         "t": "ex",
@@ -23798,7 +23798,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§381 (9) Inference, motive, source, or origin — the Preposition shows where something comes from, or why it is done."
+        "x": "Section 381 (9) Inference, motive, source, or origin — the Preposition shows where something comes from, or why it is done."
       },
       {
         "t": "ex",
@@ -23814,7 +23814,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (1) We can use ‘in’ or ‘at’ with the names of cities, towns, and villages. In most cases we use ‘in’. We use ‘in’ when we speak of a place as an area. We use ‘at’ when we see it as a point."
+        "x": "Section 382 (1) We can use ‘in’ or ‘at’ with the names of cities, towns, and villages. In most cases we use ‘in’. We use ‘in’ when we speak of a place as an area. We use ‘at’ when we see it as a point."
       },
       {
         "t": "ex",
@@ -23822,7 +23822,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (2) We use ‘at’ to talk about group activities, and about shops and workplaces."
+        "x": "Section 382 (2) We use ‘at’ to talk about group activities, and about shops and workplaces."
       },
       {
         "t": "ex",
@@ -23830,7 +23830,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (3) We use ‘in’ with the names of streets, and ‘at’ when we give the house number."
+        "x": "Section 382 (3) We use ‘in’ with the names of streets, and ‘at’ when we give the house number."
       },
       {
         "t": "ex",
@@ -23838,7 +23838,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (4) We use ‘on’ when we think of a place as a surface."
+        "x": "Section 382 (4) We use ‘on’ when we think of a place as a surface."
       },
       {
         "t": "ex",
@@ -23846,7 +23846,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (5) ‘Till’ is used of time, and ‘to’ is used of place."
+        "x": "Section 382 (5) ‘Till’ is used of time, and ‘to’ is used of place."
       },
       {
         "t": "ex",
@@ -23854,7 +23854,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (6) ‘With’ often shows the instrument (the tool), and ‘by’ shows the agent (the doer)."
+        "x": "Section 382 (6) ‘With’ often shows the instrument (the tool), and ‘by’ shows the agent (the doer)."
       },
       {
         "t": "ex",
@@ -23862,7 +23862,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (7) ‘Since’ is used before a noun or phrase that names a point of time, and the verb before it is in a perfect tense."
+        "x": "Section 382 (7) ‘Since’ is used before a noun or phrase that names a point of time, and the verb before it is in a perfect tense."
       },
       {
         "t": "ex",
@@ -23870,7 +23870,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (8) ‘In’ before a noun that names a period of time means ‘at the end of’. ‘Within’ means ‘before the end of’."
+        "x": "Section 382 (8) ‘In’ before a noun that names a period of time means ‘at the end of’. ‘Within’ means ‘before the end of’."
       },
       {
         "t": "ex",
@@ -23878,7 +23878,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§382 (9) ‘Beside’ means ‘at (or by) the side of’. ‘Besides’ means ‘in addition to’."
+        "x": "Section 382 (9) ‘Beside’ means ‘at (or by) the side of’. ‘Besides’ means ‘in addition to’."
       },
       {
         "t": "ex",
@@ -23894,7 +23894,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§383 We use ‘by’ + a noun to talk about a means of transport. We do not use ‘the’ or ‘a/an’ before the noun."
+        "x": "Section 383 We use ‘by’ + a noun to talk about a means of transport. We do not use ‘the’ or ‘a/an’ before the noun."
       },
       {
         "t": "ex",
@@ -23902,7 +23902,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§383 (continued) We do not use ‘by’ when we speak of one particular bicycle, car, train, and so on."
+        "x": "Section 383 (continued) We do not use ‘by’ when we speak of one particular bicycle, car, train, and so on."
       },
       {
         "t": "ex",
@@ -23910,7 +23910,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§383 (continued) We use ‘on’ for one particular bicycle, bus, train, ship, or plane, and ‘in’ for one particular car, taxi, van, lorry, or ambulance. We say ‘on foot’, not ‘by foot’."
+        "x": "Section 383 (continued) We use ‘on’ for one particular bicycle, bus, train, ship, or plane, and ‘in’ for one particular car, taxi, van, lorry, or ambulance. We say ‘on foot’, not ‘by foot’."
       },
       {
         "t": "ex",
@@ -23927,7 +23927,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §368)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 368)",
        "items": [
         {
          "q": "Read: (1) There is a cow in the field. (2) He is fond of tea. (3) The cat jumped off the chair. What does each Preposition show?",
@@ -23954,7 +23954,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §369)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 369)",
        "items": [
         {
          "q": "Where is a Preposition usually placed? When does it follow its object?",
@@ -23969,7 +23969,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §370)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 370)",
        "items": [
         {
          "q": "Which Prepositions are often omitted before nouns of place or time? Give examples.",
@@ -23984,7 +23984,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §373)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 373)",
        "items": [
         {
          "q": "Into what classes may Prepositions be arranged?",
@@ -24015,7 +24015,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §374)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 374)",
        "items": [
         {
          "q": "Which words are called Participial Prepositions? Give examples.",
@@ -24030,7 +24030,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §375)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 375)",
        "items": [
         {
          "q": "How do we know whether a word is a Preposition or an Adverb? Give examples.",
@@ -24290,7 +24290,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §§376–379)",
+       "label": "The rule (Wren & Martin, Chapter 38, Sections 376–379)",
        "items": [
         {
          "q": "Give examples in which the object to a Preposition is an Adverbial Phrase.",
@@ -24476,7 +24476,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §380)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 380)",
        "items": [
         {
          "q": "How are Prepositions used in composition with verbs? Give examples.",
@@ -24491,7 +24491,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §381)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 381)",
        "items": [
         {
          "q": "What relations are indicated by Prepositions? Give examples of each.",
@@ -24577,7 +24577,7 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §382)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 382)",
        "items": [
         {
          "q": "When do we use in and at with the names of cities, towns or villages?",
@@ -24723,7 +24723,7 @@ STUDY.grammar = {
      "num": "17",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 38, §383)",
+       "label": "The rule (Wren & Martin, Chapter 38, Section 383)",
        "items": [
         {
          "q": "How do we use by with means of transport? Give examples.",
@@ -24795,7 +24795,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§384 Some verbs, nouns, adjectives, and participles are always followed by one particular preposition. Read these sentences and notice the right preposition in each one."
+        "x": "Section 384 Some verbs, nouns, adjectives, and participles are always followed by one particular preposition. Read these sentences and notice the right preposition in each one."
       },
       {
         "t": "ex",
@@ -24963,7 +24963,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§385 Sometimes one word takes one preposition in one sentence, and a different preposition in another sentence."
+        "x": "Section 385 Sometimes one word takes one preposition in one sentence, and a different preposition in another sentence."
       },
       {
         "t": "ex",
@@ -24971,7 +24971,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§386 Some words that are related to each other take different prepositions after them."
+        "x": "Section 386 Some words that are related to each other take different prepositions after them."
       },
       {
         "t": "ex",
@@ -24979,7 +24979,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§387 Sometimes a verb takes a preposition, and sometimes it takes none. But the meaning is not always the same in the two cases."
+        "x": "Section 387 Sometimes a verb takes a preposition, and sometimes it takes none. But the meaning is not always the same in the two cases."
       },
       {
         "t": "ex",
@@ -24987,7 +24987,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§388 Do not use the infinitive after words that need a preposition followed by a gerund (a verb form ending in -ing) or a verbal noun."
+        "x": "Section 388 Do not use the infinitive after words that need a preposition followed by a gerund (a verb form ending in -ing) or a verbal noun."
       },
       {
         "t": "ex",
@@ -25003,7 +25003,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§389 But some words always take the infinitive after them."
+        "x": "Section 389 But some words always take the infinitive after them."
       },
       {
         "t": "ex",
@@ -25011,7 +25011,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§390 Sometimes we put in a preposition where it is not needed."
+        "x": "Section 390 Sometimes we put in a preposition where it is not needed."
       },
       {
         "t": "ex",
@@ -25019,7 +25019,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§391 The verbs discuss, order, and stress are transitive, so they take no preposition after them."
+        "x": "Section 391 The verbs discuss, order, and stress are transitive, so they take no preposition after them."
       },
       {
         "t": "ex",
@@ -25036,7 +25036,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §384)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 384)",
        "items": [
         {
          "q": "Read the following sentences, noting the appropriate Prepositions. What Preposition follows ‘famous’?",
@@ -28245,7 +28245,7 @@ STUDY.grammar = {
      "num": "24",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §385)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 385)",
        "items": [
         {
          "q": "Give examples of a word taking one Preposition in one context and a different Preposition in another.",
@@ -28351,7 +28351,7 @@ STUDY.grammar = {
      "num": "26",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §386)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 386)",
        "items": [
         {
          "q": "Give examples of related words taking different Prepositions after them.",
@@ -28465,7 +28465,7 @@ STUDY.grammar = {
      "num": "28",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §387)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 387)",
        "items": [
         {
          "q": "Give examples of a verb followed by a preposition, and the same verb with no preposition, where the meaning is not the same.",
@@ -28480,7 +28480,7 @@ STUDY.grammar = {
      "num": "29",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §388)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 388)",
        "items": [
         {
          "q": "Which words require a preposition followed by a gerund, not an infinitive? Give examples.",
@@ -28495,7 +28495,7 @@ STUDY.grammar = {
      "num": "30",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §389)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 389)",
        "items": [
         {
          "q": "Which words always take the infinitive after them? Give examples.",
@@ -28510,7 +28510,7 @@ STUDY.grammar = {
      "num": "31",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §390)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 390)",
        "items": [
         {
          "q": "Give examples of Prepositions inserted where they are not required.",
@@ -28525,7 +28525,7 @@ STUDY.grammar = {
      "num": "32",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 39, §391)",
+       "label": "The rule (Wren & Martin, Chapter 39, Section 391)",
        "items": [
         {
          "q": "Why are discuss, order and stress not followed by prepositions?",
@@ -28597,7 +28597,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§392 Read these sentences."
+        "x": "Section 392 Read these sentences."
       },
       {
         "t": "ex",
@@ -28617,7 +28617,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§393 Conjunctions join sentences together, and often make them shorter."
+        "x": "Section 393 Conjunctions join sentences together, and often make them shorter."
       },
       {
         "t": "ex",
@@ -28625,7 +28625,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§393 (continued) But sometimes ‘and’ joins words only. Then the sentence cannot be split into two sentences."
+        "x": "Section 393 (continued) But sometimes ‘and’ joins words only. Then the sentence cannot be split into two sentences."
       },
       {
         "t": "ex",
@@ -28633,7 +28633,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§394 We must be careful to tell Conjunctions apart from Relative Pronouns, Relative Adverbs, and Prepositions. They are all connecting words, but they do different work."
+        "x": "Section 394 We must be careful to tell Conjunctions apart from Relative Pronouns, Relative Adverbs, and Prepositions. They are all connecting words, but they do different work."
       },
       {
         "t": "ex",
@@ -28657,7 +28657,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§395 Some Conjunctions are used in pairs."
+        "x": "Section 395 Some Conjunctions are used in pairs."
       },
       {
         "t": "ex",
@@ -28669,7 +28669,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§396 When we use Correlatives, we must put each of the paired words just before the words it joins."
+        "x": "Section 396 When we use Correlatives, we must put each of the paired words just before the words it joins."
       },
       {
         "t": "ex",
@@ -28677,7 +28677,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§397 We use many compound expressions as Conjunctions. We call them Compound Conjunctions."
+        "x": "Section 397 We use many compound expressions as Conjunctions. We call them Compound Conjunctions."
       },
       {
         "t": "ex",
@@ -28689,7 +28689,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§398 Conjunctions fall into two groups: Co-ordinating and Subordinating."
+        "x": "Section 398 Conjunctions fall into two groups: Co-ordinating and Subordinating."
       },
       {
         "t": "p",
@@ -28709,15 +28709,15 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§399 The chief Co-ordinating Conjunctions are: and, but, for, or, nor, also, either...or, neither...nor."
+        "x": "Section 399 The chief Co-ordinating Conjunctions are: and, but, for, or, nor, also, either...or, neither...nor."
       },
       {
         "t": "rule",
-        "x": "§400 Co-ordinating Conjunctions are of four kinds."
+        "x": "Section 400 Co-ordinating Conjunctions are of four kinds."
       },
       {
         "t": "rule",
-        "x": "§400 (1) Cumulative or Copulative Conjunctions merely add one statement to another."
+        "x": "Section 400 (1) Cumulative or Copulative Conjunctions merely add one statement to another."
       },
       {
         "t": "ex",
@@ -28725,7 +28725,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§400 (2) Adversative Conjunctions show a contrast between two statements."
+        "x": "Section 400 (2) Adversative Conjunctions show a contrast between two statements."
       },
       {
         "t": "ex",
@@ -28733,7 +28733,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§400 (3) Disjunctive or Alternative Conjunctions show a choice between two things."
+        "x": "Section 400 (3) Disjunctive or Alternative Conjunctions show a choice between two things."
       },
       {
         "t": "ex",
@@ -28741,7 +28741,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§400 (4) Illative Conjunctions show an inference (a conclusion)."
+        "x": "Section 400 (4) Illative Conjunctions show an inference (a conclusion)."
       },
       {
         "t": "ex",
@@ -28749,7 +28749,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§401 We can leave out any Co-ordinating Conjunction except ‘or’ and ‘nor’, and put a comma, a semi-colon, or a colon in its place."
+        "x": "Section 401 We can leave out any Co-ordinating Conjunction except ‘or’ and ‘nor’, and put a comma, a semi-colon, or a colon in its place."
       },
       {
         "t": "ex",
@@ -28773,7 +28773,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§403 The chief Subordinating Conjunctions are: after, because, if, that, though, although, till, before, unless, as, when, where, while."
+        "x": "Section 403 The chief Subordinating Conjunctions are: after, because, if, that, though, although, till, before, unless, as, when, where, while."
       },
       {
         "t": "ex",
@@ -28781,7 +28781,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§404 The word ‘than’ is also a Subordinating Conjunction."
+        "x": "Section 404 The word ‘than’ is also a Subordinating Conjunction."
       },
       {
         "t": "ex",
@@ -28789,11 +28789,11 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§405 We can also group Subordinating Conjunctions by their meaning."
+        "x": "Section 405 We can also group Subordinating Conjunctions by their meaning."
       },
       {
         "t": "rule",
-        "x": "§405 (1) Time — the Conjunction tells us when something happens."
+        "x": "Section 405 (1) Time — the Conjunction tells us when something happens."
       },
       {
         "t": "ex",
@@ -28801,7 +28801,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§405 (2) Cause or Reason — the Conjunction tells us why something happens."
+        "x": "Section 405 (2) Cause or Reason — the Conjunction tells us why something happens."
       },
       {
         "t": "ex",
@@ -28809,7 +28809,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§405 (3) Purpose — the Conjunction tells us what something is done for."
+        "x": "Section 405 (3) Purpose — the Conjunction tells us what something is done for."
       },
       {
         "t": "ex",
@@ -28817,7 +28817,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§405 (4) Result or Consequence — the Conjunction tells us what follows from something."
+        "x": "Section 405 (4) Result or Consequence — the Conjunction tells us what follows from something."
       },
       {
         "t": "ex",
@@ -28825,7 +28825,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§405 (5) Condition — the Conjunction tells us on what terms something will happen."
+        "x": "Section 405 (5) Condition — the Conjunction tells us on what terms something will happen."
       },
       {
         "t": "ex",
@@ -28833,7 +28833,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§405 (6) Concession — the Conjunction admits something, but the main point still stands."
+        "x": "Section 405 (6) Concession — the Conjunction admits something, but the main point still stands."
       },
       {
         "t": "ex",
@@ -28841,7 +28841,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§405 (7) Comparison — the Conjunction compares one thing with another."
+        "x": "Section 405 (7) Comparison — the Conjunction compares one thing with another."
       },
       {
         "t": "ex",
@@ -28849,7 +28849,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§406 Some words are used both as Prepositions and as Conjunctions. (See § 375.)"
+        "x": "Section 406 Some words are used both as Prepositions and as Conjunctions. (See Section 375.)"
       },
       {
         "t": "ex",
@@ -28866,11 +28866,11 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §392)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 392)",
        "items": [
         {
          "q": "Read: (1) God made the country and man made the town. (2) Our hoard is little, but our hearts are great. (3) She must weep, or she will die. (4) Two and two make four. What do the Conjunctions join?",
-         "a": "In 1, 2 and 3, the Conjunctions join together two sentences.\nIn 4, the Conjunction joins together two words only. [See § 393]"
+         "a": "In 1, 2 and 3, the Conjunctions join together two sentences.\nIn 4, the Conjunction joins together two words only. [See Section 393]"
         },
         {
          "q": "Give the definition of a Conjunction.",
@@ -28885,7 +28885,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §393)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 393)",
        "items": [
         {
          "q": "How do Conjunctions make sentences more compact? Give examples.",
@@ -28900,7 +28900,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §394)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 394)",
        "items": [
         {
          "q": "How are Conjunctions distinguished from Relative Pronouns, Relative Adverbs, and Prepositions?",
@@ -28915,7 +28915,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §395)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 395)",
        "items": [
         {
          "q": "What are Correlative Conjunctions? Give examples.",
@@ -28930,7 +28930,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §396)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 396)",
        "items": [
         {
          "q": "Where should each of the correlated words be placed? Give an example.",
@@ -28945,7 +28945,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §397)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 397)",
        "items": [
         {
          "q": "What are Compound Conjunctions? Give examples.",
@@ -28960,7 +28960,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §398)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 398)",
        "items": [
         {
          "q": "Into what two classes are Conjunctions divided?",
@@ -28975,7 +28975,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §399)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 399)",
        "items": [
         {
          "q": "Name the chief Co-ordinating Conjunctions.",
@@ -28990,7 +28990,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §400)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 400)",
        "items": [
         {
          "q": "Name the four kinds of Co-ordinating Conjunctions, with examples.",
@@ -29005,7 +29005,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §401)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 401)",
        "items": [
         {
          "q": "Which Co-ordinating Conjunctions may be omitted? Give an example.",
@@ -29020,7 +29020,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §402)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 402)",
        "items": [
         {
          "q": "What is a Subordinating Conjunction? Give the definition.",
@@ -29035,7 +29035,7 @@ STUDY.grammar = {
      "num": "12",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §403)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 403)",
        "items": [
         {
          "q": "Name the chief Subordinating Conjunctions, with examples.",
@@ -29050,7 +29050,7 @@ STUDY.grammar = {
      "num": "13",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §404)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 404)",
        "items": [
         {
          "q": "How is than used as a Subordinating Conjunction? Give examples.",
@@ -29065,7 +29065,7 @@ STUDY.grammar = {
      "num": "14",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §405)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 405)",
        "items": [
         {
          "q": "How may Subordinating Conjunctions be classified according to their meaning? Give examples.",
@@ -29080,11 +29080,11 @@ STUDY.grammar = {
      "num": "15",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 40, §406)",
+       "label": "The rule (Wren & Martin, Chapter 40, Section 406)",
        "items": [
         {
          "q": "Give examples of words used both as Prepositions and Conjunctions.",
-         "a": "Certain words are used both as Prepositions and Conjunctions. [See § 375]\nPreposition — Conjunction\nStay till Monday. — We shall stay here till you return.\nI have not met him since Monday. — We shall go since you desire it.\nHe died for his country. — I must stay here, for such is my duty.\nThe dog ran after the cat. — We came after they had left.\nEverybody but Govind was present. — He tried, but did not succeed.\nHe stood before the painting. — Look before you leap."
+         "a": "Certain words are used both as Prepositions and Conjunctions. [See Section 375]\nPreposition — Conjunction\nStay till Monday. — We shall stay here till you return.\nI have not met him since Monday. — We shall go since you desire it.\nHe died for his country. — I must stay here, for such is my duty.\nThe dog ran after the cat. — We came after they had left.\nEverybody but Govind was present. — He tried, but did not succeed.\nHe stood before the painting. — Look before you leap."
         }
        ]
       }
@@ -30098,7 +30098,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§407 (1) ‘Since’ as a Conjunction can mean ‘from and after the time when’."
+        "x": "Section 407 (1) ‘Since’ as a Conjunction can mean ‘from and after the time when’."
       },
       {
         "t": "ex",
@@ -30110,7 +30110,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§407 (2) ‘Since’ can also mean ‘seeing that’, or ‘inasmuch as’."
+        "x": "Section 407 (2) ‘Since’ can also mean ‘seeing that’, or ‘inasmuch as’."
       },
       {
         "t": "ex",
@@ -30118,7 +30118,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§408 (1) ‘Or’ can introduce an alternative (a choice)."
+        "x": "Section 408 (1) ‘Or’ can introduce an alternative (a choice)."
       },
       {
         "t": "ex",
@@ -30134,7 +30134,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§408 (2) ‘Or’ can introduce another name for the same thing."
+        "x": "Section 408 (2) ‘Or’ can introduce another name for the same thing."
       },
       {
         "t": "ex",
@@ -30142,7 +30142,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§408 (3) ‘Or’ can mean ‘otherwise’."
+        "x": "Section 408 (3) ‘Or’ can mean ‘otherwise’."
       },
       {
         "t": "ex",
@@ -30150,7 +30150,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§408 (4) ‘Or’ is sometimes nearly the same as ‘and’."
+        "x": "Section 408 (4) ‘Or’ is sometimes nearly the same as ‘and’."
       },
       {
         "t": "ex",
@@ -30158,7 +30158,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§409 (1) ‘If’ can mean ‘on the condition that’."
+        "x": "Section 409 (1) ‘If’ can mean ‘on the condition that’."
       },
       {
         "t": "ex",
@@ -30166,7 +30166,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§409 (2) ‘If’ can mean ‘admitting that’."
+        "x": "Section 409 (2) ‘If’ can mean ‘admitting that’."
       },
       {
         "t": "ex",
@@ -30174,7 +30174,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§409 (3) ‘If’ can mean ‘whether’."
+        "x": "Section 409 (3) ‘If’ can mean ‘whether’."
       },
       {
         "t": "ex",
@@ -30182,7 +30182,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§409 (4) ‘If’ can mean ‘whenever’."
+        "x": "Section 409 (4) ‘If’ can mean ‘whenever’."
       },
       {
         "t": "ex",
@@ -30190,7 +30190,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§409 (continued) ‘If’ is also used to express a wish or surprise."
+        "x": "Section 409 (continued) ‘If’ is also used to express a wish or surprise."
       },
       {
         "t": "ex",
@@ -30198,11 +30198,11 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§410 As a Conjunction, ‘that’ still keeps much of the force of a Demonstrative Pronoun. For example, we can turn ‘I am told that you are miserable’ round to ‘You are miserable: I am told that’."
+        "x": "Section 410 As a Conjunction, ‘that’ still keeps much of the force of a Demonstrative Pronoun. For example, we can turn ‘I am told that you are miserable’ round to ‘You are miserable: I am told that’."
       },
       {
         "t": "rule",
-        "x": "§410 (1) ‘That’ can express a Reason or Cause. It means the same as ‘because’, ‘for that’, or ‘in that’."
+        "x": "Section 410 (1) ‘That’ can express a Reason or Cause. It means the same as ‘because’, ‘for that’, or ‘in that’."
       },
       {
         "t": "ex",
@@ -30210,7 +30210,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§410 (2) ‘That’ can express a Purpose. It means the same as ‘in order that’."
+        "x": "Section 410 (2) ‘That’ can express a Purpose. It means the same as ‘in order that’."
       },
       {
         "t": "ex",
@@ -30222,7 +30222,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§410 (3) ‘That’ can express a Consequence, Result, or Effect."
+        "x": "Section 410 (3) ‘That’ can express a Consequence, Result, or Effect."
       },
       {
         "t": "ex",
@@ -30230,7 +30230,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§411 As a Conjunction, ‘than’ follows adjectives and adverbs in the comparative degree."
+        "x": "Section 411 As a Conjunction, ‘than’ follows adjectives and adverbs in the comparative degree."
       },
       {
         "t": "ex",
@@ -30238,7 +30238,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§412 ‘Lest’ is a Subordinating Conjunction. It expresses a negative purpose, and means ‘in order that... not’, or ‘for fear that’."
+        "x": "Section 412 ‘Lest’ is a Subordinating Conjunction. It expresses a negative purpose, and means ‘in order that... not’, or ‘for fear that’."
       },
       {
         "t": "ex",
@@ -30262,7 +30262,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§413 (1) ‘While’ can mean ‘during the time that’, or ‘as long as’."
+        "x": "Section 413 (1) ‘While’ can mean ‘during the time that’, or ‘as long as’."
       },
       {
         "t": "ex",
@@ -30270,7 +30270,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§413 (2) ‘While’ can mean ‘at the same time that’."
+        "x": "Section 413 (2) ‘While’ can mean ‘at the same time that’."
       },
       {
         "t": "ex",
@@ -30278,7 +30278,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§413 (3) ‘While’ can mean ‘whereas’."
+        "x": "Section 413 (3) ‘While’ can mean ‘whereas’."
       },
       {
         "t": "ex",
@@ -30286,7 +30286,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§414 ‘Only’ as a Conjunction means ‘except that’, ‘but’, or ‘were it not that’."
+        "x": "Section 414 ‘Only’ as a Conjunction means ‘except that’, ‘but’, or ‘were it not that’."
       },
       {
         "t": "ex",
@@ -30294,7 +30294,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§415 ‘Except’ was once in good use as a Conjunction."
+        "x": "Section 415 ‘Except’ was once in good use as a Conjunction."
       },
       {
         "t": "ex",
@@ -30306,7 +30306,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§416 The use of ‘without’ as a Conjunction meaning ‘unless’ is now bad English."
+        "x": "Section 416 The use of ‘without’ as a Conjunction meaning ‘unless’ is now bad English."
       },
       {
         "t": "ex",
@@ -30314,7 +30314,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§417 Of the three conjunctions because, for, and since, ‘because’ shows the closest link of cause, ‘for’ the weakest, and ‘since’ comes between the two."
+        "x": "Section 417 Of the three conjunctions because, for, and since, ‘because’ shows the closest link of cause, ‘for’ the weakest, and ‘since’ comes between the two."
       }
     ],
    "unit": 41,
@@ -30327,7 +30327,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §407)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 407)",
        "items": [
         {
          "q": "What does since, as a Conjunction, mean? Give examples.",
@@ -30342,7 +30342,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §408)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 408)",
        "items": [
         {
          "q": "How is or used? Give examples.",
@@ -30357,7 +30357,7 @@ STUDY.grammar = {
      "num": "3",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §409)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 409)",
        "items": [
         {
          "q": "How is if used? Give examples.",
@@ -30372,7 +30372,7 @@ STUDY.grammar = {
      "num": "4",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §410)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 410)",
        "items": [
         {
          "q": "How is that used as a Conjunction? Give examples.",
@@ -30387,7 +30387,7 @@ STUDY.grammar = {
      "num": "5",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §411)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 411)",
        "items": [
         {
          "q": "How is than used as a Conjunction? Give examples.",
@@ -30402,7 +30402,7 @@ STUDY.grammar = {
      "num": "6",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §412)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 412)",
        "items": [
         {
          "q": "How is lest used? Give examples.",
@@ -30417,7 +30417,7 @@ STUDY.grammar = {
      "num": "7",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §413)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 413)",
        "items": [
         {
          "q": "How is while used? Give examples.",
@@ -30432,7 +30432,7 @@ STUDY.grammar = {
      "num": "8",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §414)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 414)",
        "items": [
         {
          "q": "How is only used as a Conjunction? Give examples.",
@@ -30447,7 +30447,7 @@ STUDY.grammar = {
      "num": "9",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §415)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 415)",
        "items": [
         {
          "q": "How was except once used as a Conjunction? Give examples.",
@@ -30462,7 +30462,7 @@ STUDY.grammar = {
      "num": "10",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §416)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 416)",
        "items": [
         {
          "q": "Is without correctly used as a Conjunction meaning unless?",
@@ -30477,7 +30477,7 @@ STUDY.grammar = {
      "num": "11",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 41, §417)",
+       "label": "The rule (Wren & Martin, Chapter 41, Section 417)",
        "items": [
         {
          "q": "How do because, for and since differ as conjunctions of cause?",
@@ -30960,7 +30960,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§418 Read these sentences."
+        "x": "Section 418 Read these sentences."
       },
       {
         "t": "ex",
@@ -30988,7 +30988,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§419 Groups of words are also used to express a sudden feeling or emotion."
+        "x": "Section 419 Groups of words are also used to express a sudden feeling or emotion."
       },
       {
         "t": "ex",
@@ -31005,7 +31005,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 42, §418)",
+       "label": "The rule (Wren & Martin, Chapter 42, Section 418)",
        "items": [
         {
          "q": "Examine the following sentences: Hello! What are you doing there? Alas! He is dead. Hurrah! We have won the game. Ah! Have they gone? Oh! I got such a fright. Hush! Don’t make a noise. What are such words called?",
@@ -31028,7 +31028,7 @@ STUDY.grammar = {
      "num": "2",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 42, §419)",
+       "label": "The rule (Wren & Martin, Chapter 42, Section 419)",
        "items": [
         {
          "q": "Give examples of groups of words used to express some sudden feeling or emotion.",
@@ -31131,7 +31131,7 @@ STUDY.grammar = {
       },
       {
         "t": "p",
-        "x": "§420 Here are some of the most important words that can belong to different parts of speech, according to how they are used."
+        "x": "Section 420 Here are some of the most important words that can belong to different parts of speech, according to how they are used."
       },
       {
         "t": "p",
@@ -31143,7 +31143,7 @@ STUDY.grammar = {
       },
       {
         "t": "rule",
-        "x": "§420 It is the function or use of a word that decides which part of speech it belongs to in a given sentence."
+        "x": "Section 420 It is the function or use of a word that decides which part of speech it belongs to in a given sentence."
       },
       {
         "t": "h",
@@ -31271,7 +31271,7 @@ STUDY.grammar = {
       },
       {
         "t": "ex",
-        "x": "Verb. If we except Hari, all are to be blamed.\nPreposition. All the brethren were in Egypt except Benjamin.\nConjunction. I will not let thee go except (= unless) thou bless me. (§ 415)"
+        "x": "Verb. If we except Hari, all are to be blamed.\nPreposition. All the brethren were in Egypt except Benjamin.\nConjunction. I will not let thee go except (= unless) thou bless me. (Section 415)"
       },
       {
         "t": "h",
@@ -31532,7 +31532,7 @@ STUDY.grammar = {
      "num": "1",
      "exercises": [
       {
-       "label": "The rule (Wren & Martin, Chapter 43, §420)",
+       "label": "The rule (Wren & Martin, Chapter 43, Section 420)",
        "items": [
         {
          "q": "What decides to which part of speech a word belongs in a given sentence?",
@@ -31600,7 +31600,7 @@ STUDY.grammar = {
         },
         {
          "q": "Except — give one example for each part of speech.",
-         "a": "Except\nVerb: If we except Hari, all are to be blamed.\nPreposition: All the brethren were in Egypt except Benjamin.\nConjunction: I will not let thee go except (= unless) thou bless me (§ 415)."
+         "a": "Except\nVerb: If we except Hari, all are to be blamed.\nPreposition: All the brethren were in Egypt except Benjamin.\nConjunction: I will not let thee go except (= unless) thou bless me (Section 415)."
         },
         {
          "q": "For — give one example for each part of speech.",
