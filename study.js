@@ -424344,6 +424344,7 @@ function openMatPage(tab, cls, subj){
   var data = null;
   if(c === "x") data = STUDY.x;
   else if(c === "grammar") data = STUDY.grammar;
+  else if(c === "grammar2") data = STUDY.grammar2;
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
@@ -424430,6 +424431,7 @@ function openExUnit(n, cls, subj){
   var data = null;
   if(c === "x") data = STUDY.x;
   else if(c === "grammar") data = STUDY.grammar;
+  else if(c === "grammar2") data = STUDY.grammar2;
   else if(s === "English") data = STUDY.shared;
   else if(c === "ix") data = STUDY.ix;
   else if(c === "viii") data = STUDY.viii;
@@ -424542,6 +424544,7 @@ function exUnitHtml(n){
       else if(b.t === "rule") html += "<p class=\"note\"><b>Rule:</b> " + _t + "</p>";
       else if(b.t === "ex") html += "<p class=\"note\"><i>" + _t + "</i></p>";
       else if(b.t === "note") html += "<p class=\"note\"><b>Note:</b> " + _t + "</p>";
+      else if(b.t === "rl") html += "<p class=\"note\"><b>Real-life example:</b> " + _t + "</p>";
       else html += "<p class=\"note\">" + _t + "</p>";
     });
     html += "</div>";
@@ -424584,6 +424587,7 @@ function jumpExWords(n){ var el = document.getElementById("ex-" + n + "-words");
 // Back from a material page: from a unit page go to the unit list, else to the subject page.
 function backFromMatPage(){
   if(matCls === "grammar"){ matExUnit = 0; showGrammarLessons(); return; }
+  if(matCls === "grammar2"){ matExUnit = 0; showGrammar2Lessons(); return; }
   if(matExUnit){
     matExUnit = 0;
     openMatPage('exsolutions');
