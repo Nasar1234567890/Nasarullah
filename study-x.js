@@ -1561,7 +1561,7 @@ STUDY.x = {
             "w": "cruelty"
           },
           {
-            "sd": "رحم ڪندڙ",
+            "sd": "مهربان ۽ رحم ڪندڙ",
             "syn": "forgiving",
             "w": "merciful"
           },

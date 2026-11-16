@@ -3,7 +3,7 @@
    Lets students open and take tests offline once they have visited the site.
    Cache-first with background refresh for same-origin GET requests only;
    form submissions and other requests are never cached. */
-const CACHE = 'mcq-tests-v155';
+const CACHE = 'mcq-tests-v156';
 /* NOTE: teachers.html is intentionally NOT in ASSETS — Cloudflare Access will
    protect /teachers* later, and a cached copy would bypass that check. */
 const ASSETS = [
