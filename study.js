@@ -131,6 +131,62 @@ function guideLabel(subj){
   var base = String(subj || "").split(" \u2014 ")[0];
   return "Guide / Complete Notes of " + base;
 }
+// Data-selection for one (class, subject) guide — the same selection
+// renderSubjectMaterial/openExUnit/openMathUnit use. Search uses it to
+// enumerate guide units without touching the page.
+function guideDataFor(cls, subj){
+  var data = null;
+  if(cls === "x") data = STUDY.x;
+  else if(subj === "English") data = STUDY.shared;
+  else if(cls === "ix") data = STUDY.ix;
+  else if(cls === "viii") data = STUDY.viii;
+  else if(cls === "vii") data = STUDY.vii;
+  else if(cls === "vi") data = STUDY.vi;
+  else if(cls === "v") data = STUDY.v;
+  else if(cls === "xi") data = STUDY.xi;
+  else if(cls === "xii") data = STUDY.xii;
+  else if(cls === "iv") data = STUDY.iv;
+  else if(cls === "iii") data = STUDY.iii;
+  if(subj === "English" && STUDY[cls] && STUDY[cls].exsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].exsolutions});
+  if(subj === "Sindhi" && STUDY[cls] && STUDY[cls].sindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sindhiExsolutions});
+  if((subj === "Asan Urdu" || subj === "Urdu Salees") && STUDY[cls] && STUDY[cls].urduExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].urduExsolutions});
+  if(subj === "Urdu" && STUDY[cls] && STUDY[cls].urduExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].urduExsolutionsUrdu});
+  if(subj === "Asan Sindhi" && STUDY[cls] && STUDY[cls].asanSindhiExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].asanSindhiExsolutions});
+  if(subj === "Gulzar-E-Urdu" && STUDY[cls] && STUDY[cls].urduExsolutionsGulzar && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].urduExsolutionsGulzar});
+if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sciExsolutions});
+if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sciExsolutionsEn});
+if((subj || "").indexOf("Science") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].sciExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].sciExsolutionsUrdu});
+if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].islExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].islExsolutions});
+if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].islExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].islExsolutionsEn});
+if((subj || "").indexOf("Islamiat") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].islExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].islExsolutionsUrdu});
+if((subj || "").indexOf("Pakistan Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].pakExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].pakExsolutions});
+if((subj || "").indexOf("Pakistan Studies") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].pakExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].pakExsolutionsEn});
+if((subj || "").indexOf("Pakistan Studies") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].pakExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].pakExsolutionsUrdu});
+if((subj || "").indexOf("Chemistry") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].chemExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].chemExsolutions});
+if((subj || "").indexOf("Chemistry") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].chemExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].chemExsolutionsEn});
+if((subj || "").indexOf("Chemistry") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].chemExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].chemExsolutionsUrdu});
+if((subj || "").indexOf("Chemistry") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].chemExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].chemExsolutionsUrdu});
+if((subj || "").indexOf("Physics") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].phyExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].phyExsolutions});
+if((subj || "").indexOf("Physics") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].phyExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].phyExsolutionsEn});
+if((subj || "").indexOf("Physics") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].phyExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].phyExsolutionsUrdu});
+if((subj || "").indexOf("Physics") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].phyExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].phyExsolutionsUrdu});
+if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].bioExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].bioExsolutions});
+if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].bioExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].bioExsolutionsEn});
+if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].bioExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].bioExsolutionsUrdu});
+if((subj || "").indexOf("Biology") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].bioExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].bioExsolutionsUrdu});
+if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].csExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].csExsolutions});
+if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].csExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].csExsolutionsUrdu});
+if((subj || "").indexOf("Computer Science") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].csExsolutionsSindhi && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].csExsolutionsSindhi});
+if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].socExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutions});
+if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutionsEn});
+if((subj || "").indexOf("Social Studies") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].socExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].socExsolutionsUrdu});
+if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutions && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutions});
+if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("English") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsEn && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutionsEn});
+if((subj || "").indexOf("General Knowledge") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].gkExsolutionsUrdu && data) data = Object.assign({}, data, {exsolutions: STUDY[cls].gkExsolutionsUrdu});
+if((subj || "").indexOf("Mathematics") === 0 && (subj || "").indexOf("Sindhi") >= 0 && STUDY[cls] && STUDY[cls].mathsolutionsSindhi && data) data = Object.assign({}, data, {mathsolutions: STUDY[cls].mathsolutionsSindhi});
+if((subj || "").indexOf("Mathematics") === 0 && (subj || "").indexOf("Urdu") >= 0 && STUDY[cls] && STUDY[cls].mathsolutionsUrdu && data) data = Object.assign({}, data, {mathsolutions: STUDY[cls].mathsolutionsUrdu});
+  return data;
+}
 function renderSubjectMaterial(cls, subj){
   var box = document.getElementById("subjectmaterial");
   if(!box) return;
