@@ -519,6 +519,7 @@ body.dark #matcontent.pro-guide table.pro-table td{border-color:#23414c}
 <div id="subjectmaterial"></div>
 <div id="mynotes"></div>
 <button class="homebtn" id="subjectback" onclick="backToSubjects()">Back to Subjects</button>
+<button class="homebtn" id="subjectcopylink" onclick="copySubjectLink(this)" data-i18n="copyLink">Copy link</button>
 <button class="homebtn" onclick="goHome()">Homepage</button>
 </section>
 <section id="matpage" class="card hidden">
@@ -526,6 +527,7 @@ body.dark #matcontent.pro-guide table.pro-table td{border-color:#23414c}
 <p class="note"><input id="matSearchPage" type="text" oninput="filterMatPage()" placeholder="Search"></p>
 <div id="matcontent"></div>
 <button class="homebtn" onclick="backFromMatPage()">Back</button>
+<button class="homebtn" id="matcopylink" onclick="copyUnitLink(this)" data-i18n="copyLink">Copy link</button>
 <button class="homebtn" onclick="goHome()">Homepage</button>
 </section>
 
@@ -152703,9 +152705,9 @@ function histKey(k){ return 'mcqHist_'+k; }
 function getHist(k){ try{ var v=localStorage.getItem(histKey(k)); return v?JSON.parse(v):[]; }catch(e){ return []; } }
 function saveHist(k,sc,total){ try{ var h=getHist(k); h.unshift({d:(new Date()).toISOString().slice(0,10), s:sc, t:total, p:Math.round(sc/total*100)}); h=h.slice(0,5); localStorage.setItem(histKey(k), JSON.stringify(h)); }catch(e){} }
 function histHtml(k){ var h=getHist(k); if(!h.length) return ''; return '<small>Past scores: '+h.map(function(r){ return r.s+'/'+r.t+' ('+r.p+'%) '+r.d; }).join(' · ')+'</small>'; }
-const UI_EN={homeHeading:'Choose your class or section',homeNote:'No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.',nameLabel:'Your name:',namePlaceholder:'Type your full name',tip:'Tip: tap your class, then a section, then a subject, then a test. Type your name first \u2014 it is sent with your result when you submit.',textSize:'Text size:',normal:'Normal',large:'Large',nightLabel:'Night mode:',nightOff:'Off',nightOn:'On',langLabel:'Language:',shareHome:'Share on WhatsApp',installBtn:'How to install the app',qotdHeading:'Question of the Day',installHeading:'How to install the app',installStep1:'Open this site in your phone browser (Chrome on Android, Safari on iPhone).',installStep2:'On Android, tap the browser menu (three dots), then tap “Add to Home Screen” or “Install app”.',installStep3:'On iPhone, tap Share, then tap “Add to Home Screen”.',installStep4:'Open “Haseeja Mahar MCQ Tests” from your home screen and start practising. No APK download is needed.',backHome:'Back to Home',classNote:'Choose a subject, then pick a test.',sectionNote:'Choose a section, then a subject.',backClasses:'Back to Classes',subjectNote:'Choose a test. Each test shows its own number of questions and timer.',modeLabel:'Mode:',modeTest:'Test',modeLearn:'Learn',backSubjects:'Back to Subjects',backSections:'Back to Sections',noTests:'No tests for this subject yet \u2014 more tests will be added here soon.',noTestsYet:'No tests yet',chooseSubject:'Choose a subject',chooseSection:'Choose a section',chooseTest:'Choose a test',prev:'Previous',next:'Next',submit:'Submit Test',flag:'Flag this question',unflag:'Unflag this question',resultHeading:'Result',retry:'Retry wrong questions',shareResult:'Share result on WhatsApp',report:'Report a mistake in this test',reportQ:'Report a mistake in this question',reportU:'Report a mistake in this unit',learnModeLabel:'Learn mode',retryLabel:'Practice retry \u2014 not recorded',retryNote:'Practice retry \u2014 not recorded. ',learnNote:'Learn mode. ',timeUpNote:'Time up \u2014 submitted automatically. ',pctCorrect:'correct.',qotdCorrect:'Correct!',qotdWrong:'Not quite \u2014 the correct answer is',nameAlert:'Please type your full real name (first name and last name) before starting the test.',mockNote:'Mode follows the Test/Learn setting (default Test). Change it on any subject page.',howToHeading:'How to take a test',howToStep1:'Type your name, choose your class, then a section, then a subject, then a test. (General Knowledge opens its Sindhi and English versions first.)',howToStep2:'Tap an option (A, B, C or D) to select your answer.',howToStep3:'Use Next and Previous to move between questions.',howToStep4:'Each test shows its own time limit (10 minutes for most tests, 60 minutes for GK 1st Test). If the time runs out, the test submits automatically.',howToStep5:'Press Submit Test when you are done. Your score appears at once, with a review of every question.',howToStep6:'In Test mode, your correct answers are shown only after you submit \u2014 not during the test. In Learn mode, the correct answer is shown right after each question.',searchLabel:'Search everything:',searchPlaceholder:'Type a test, lesson or topic',weakHeading:'Revise your weak topics',flashcardsBtn:'Flashcards',flashcardsHeading:'Flashcards',flashAll:'All',flashSyn:'Synonyms',flashVerb:'Verb Forms',flashDef:'Definitions',showAnswer:'Show answer',nextCard:'Next card',shuffleCards:'Shuffle cards',demoBtn:'Try a demo (3 questions)',resumeBtn:'Resume your test',pauseBtn:'Pause test',xlarge:'Extra Large',demoNote:'Demo \u2014 not recorded',searchNoMatch:'No matching result found.',searchMore:'Showing the first 40 — keep typing to narrow it down.',flagRev:'Revise flagged questions',flagRevLabel:'Flagged revision — not recorded',flagRevNote:'Flagged revision — not recorded. ',printTest:'Print this test',shareTest:'Share this test on WhatsApp',matSearchLabel:'Search study material:',matSearchPlaceholder:'Type a word from the material',contactHeading:'Contact the teacher',contactEmail:'Email:',contactPhone:'Phone:',contactWhatsApp:'WhatsApp:'};
-const UI_SD={homeHeading:'\u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633 \u064a\u0627 \u062d\u0635\u0648 \u0686\u0648\u0646\u068a\u064a\u0648',homeNote:'\u0644\u0627\u06af \u0627\u0646 \u062c\u064a \u0636\u0631\u0648\u0631\u062a \u0646\u0627\u0647\u064a. \u0647\u0631 \u067d\u064a\u0633\u067d \u06fe \u0633\u0648\u0627\u0644\u0646 \u062c\u0648 \u062a\u0639\u062f\u0627\u062f \u06fd \u0648\u0642\u062a \u068f\u064a\u06a9\u0627\u0631\u064a\u0644 \u0622\u0647\u064a. \u062c\u0648\u0627\u0628 \u062c\u0645\u0639 \u06aa\u0631\u0627\u0626\u06bb \u06a9\u0627\u0646 \u067e\u0648\u0621\u0650 \u062a\u0648\u0647\u0627\u0646 \u062c\u0627 \u062c\u0648\u0627\u0628 \u068f\u064a\u06a9\u0627\u0631\u064a\u0627 \u0648\u064a\u0646\u062f\u0627.',nameLabel:'\u062a\u0648\u0647\u0627\u0646 \u062c\u0648 \u0646\u0627\u0644\u0648:',namePlaceholder:'\u067e\u0646\u0647\u0646\u062c\u0648 \u067e\u0648\u0631\u0648 \u0646\u0627\u0644\u0648 \u0644\u06a9\u0648',tip:'\u0635\u0644\u0627\u062d: \u067e\u0647\u0631\u064a\u0627\u0646 \u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633\u060c \u067e\u0648\u0621\u0650 \u0633\u064a\u06aa\u0634\u0646\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646\u060c \u067e\u0648\u0621\u0650 \u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648. \u067e\u0647\u0631\u064a\u0627\u0646 \u067e\u0646\u0647\u0646\u062c\u0648 \u0646\u0627\u0644\u0648 \u0644\u06a9\u0648 \u2014 \u0627\u0647\u0648 \u062a\u0648\u0647\u0627\u0646 \u062c\u064a \u0646\u062a\u064a\u062c\u064a \u0633\u0627\u0646 \u06af\u068f \u0645\u0648\u06aa\u0644\u064a\u0648 \u0648\u064a\u0646\u062f\u0648.',textSize:'\u0627\u06a9\u0631\u0646 \u062c\u064a \u0645\u0627\u067e:',normal:'\u0639\u0627\u0645',large:'\u0648\u068f\u0648',nightLabel:'\u0631\u0627\u062a \u062c\u0648 \u0637\u0631\u064a\u0642\u0648:',nightOff:'\u0628\u0646\u062f',nightOn:'\u0686\u0627\u0644\u0648',langLabel:'\u067b\u0648\u0644\u064a:',shareHome:'\u0648\u0627\u067d\u0633 \u0627\u064a\u067e \u062a\u064a \u0634\u064a\u0626\u0631 \u06aa\u0631\u064a\u0648',installBtn:'\u0627\u064a\u067e \u06aa\u064a\u0626\u0646 \u0627\u0646\u0633\u067d\u0627\u0644 \u06aa\u062c\u064a',qotdHeading:'\u0627\u0684 \u062c\u0648 \u0633\u0648\u0627\u0644',installHeading:'\u0627\u064a\u067e \u06aa\u064a\u0626\u0646 \u0627\u0646\u0633\u067d\u0627\u0644 \u06aa\u062c\u064a',installStep1:'پنهنجي فون جي برائوزر ۾ هي سائيٽ کوليو (Android تي Chrome، iPhone تي Safari).',installStep2:'Android تي، برائوزر مينيو (ٽي نقطا) تي ٽيپ ڪريو، پوءِ “Add to Home Screen” يا “Install app” تي ٽيپ ڪريو.',installStep3:'iPhone تي، Share تي ٽيپ ڪريو، پوءِ “Add to Home Screen” تي ٽيپ ڪريو.',installStep4:'هوم اسڪرين تان “Haseeja Mahar MCQ Tests” کوليو ۽ مشق شروع ڪريو. APK ڊائون لوڊ ڪرڻ جي ضرورت ناهي.',backHome:'\u06af\u0647\u0631 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',classNote:'\u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068a\u064a\u0648\u060c \u067e\u0648\u0621\u0650 \u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648.',sectionNote:'\u0633\u064a\u06aa\u0634\u0646 \u0686\u0648\u0646\u068a\u064a\u0648\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068a\u064a\u0648.',backClasses:'\u06aa\u0644\u0627\u0633\u0646 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',subjectNote:'\u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648. \u0647\u0631 \u067d\u064a\u0633\u067d \u06fe \u0633\u0648\u0627\u0644\u0646 \u062c\u0648 \u062a\u0639\u062f\u0627\u062f \u06fd \u0648\u0642\u062a \u068f\u064a\u06a9\u0627\u0631\u064a\u0644 \u0622\u0647\u064a.',modeLabel:'\u0637\u0631\u064a\u0642\u0648:',modeTest:'\u067d\u064a\u0633\u067d',modeLearn:'\u0633\u06a9\u0648',backSubjects:'\u0645\u0636\u0645\u0648\u0646\u0646 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',backSections:'\u0633\u064a\u06aa\u0634\u0646 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',noTests:'\u0647\u0646 \u0645\u0636\u0645\u0648\u0646 \u0644\u0627\u0621\u0650 \u0627\u0683\u0627 \u06aa\u0627 \u067d\u064a\u0633\u067d \u0646\u0627\u0647\u064a \u2014 \u062c\u0644\u062f \u0648\u068c\u064a\u06aa \u067d\u064a\u0633\u067d\u0648\u0646 \u0634\u0627\u0645\u0644 \u06aa\u064a\u0648\u0646 \u0648\u064a\u0646\u062f\u064a\u0648\u0646.',noTestsYet:'\u0627\u0683\u0627 \u06aa\u0627 \u067d\u064a\u0633\u067d \u0646\u0627\u0647\u064a',chooseSubject:'\u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068a\u064a\u0648',chooseSection:'\u0633\u064a\u06aa\u0634\u0646 \u0686\u0648\u0646\u068a\u064a\u0648',chooseTest:'\u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648',prev:'\u067e\u0648\u064a\u0648\u0646',next:'\u0627\u06b3\u064a\u0648\u0646',submit:'\u067d\u064a\u0633\u067d \u062c\u0645\u0639 \u06aa\u0631\u064a\u0648',flag:'\u0647\u0646 \u0633\u0648\u0627\u0644 \u062a\u064a \u0646\u0634\u0627\u0646 \u0644\u06b3\u0627\u064a\u0648',unflag:'\u0646\u0634\u0627\u0646 \u0647\u067d\u0627\u064a\u0648',resultHeading:'\u0646\u062a\u064a\u062c\u0648',retry:'\u063a\u0644\u0637 \u0633\u0648\u0627\u0644 \u067b\u064a\u0647\u0631 \u06aa\u0631\u064a\u0648',shareResult:'\u0646\u062a\u064a\u062c\u0648 \u0648\u0627\u067d\u0633 \u0627\u064a\u067e \u062a\u064a \u0634\u064a\u0626\u0631 \u06aa\u0631\u064a\u0648',report:'\u0647\u0646 \u067d\u064a\u0633\u067d \u06fe \u063a\u0644\u0637\u064a \u067b\u068c\u0627\u064a\u0648',reportQ:'\u0647\u0646 \u0633\u0648\u0627\u0644 \u06fe \u063a\u0644\u0637\u064a \u067b\u068c\u0627\u064a\u0648',reportU:'\u0647\u0646 \u064a\u0648\u0646\u067d \u06fe \u063a\u0644\u0637\u064a \u067b\u068c\u0627\u064a\u0648',learnModeLabel:'\u0633\u06a9\u0648 \u0637\u0631\u064a\u0642\u0648',retryLabel:'\u0645\u0634\u0642 \u0648\u0631\u062c\u0627\u0621\u064f \u2014 \u0631\u06aa\u0627\u0631\u068a \u0646\u0647 \u067f\u064a\u0646\u062f\u0648',retryNote:'\u0645\u0634\u0642 \u0648\u0631\u062c\u0627\u0621\u064f \u2014 \u0631\u06aa\u0627\u0631\u068a \u0646\u0647 \u067f\u064a\u0646\u062f\u0648. ',learnNote:'\u0633\u06a9\u0648 \u0637\u0631\u064a\u0642\u0648. ',timeUpNote:'\u0648\u0642\u062a \u062e\u062a\u0645 \u2014 \u067e\u0627\u06bb\u0645\u0631\u0627\u062f\u0648 \u062c\u0645\u0639 \u067f\u064a \u0648\u064a\u0648. ',pctCorrect:'\u0635\u062d\u064a\u062d.',qotdCorrect:'\u0635\u062d\u064a\u062d!',qotdWrong:'\u0635\u062d\u064a\u062d \u0646\u0647 \u0622\u0647\u064a \u2014 \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0622\u0647\u064a',nameAlert:'\u067d\u064a\u0633\u067d\u0020\u0634\u0631\u0648\u0639\u0020\u06aa\u0631\u06bb\u0020\u06a9\u0627\u0646\u0020\u067e\u0647\u0631\u064a\u0646\u0020\u067e\u0646\u0647\u0646\u062c\u0648\u0020\u067e\u0648\u0631\u0648\u0020\u0627\u0635\u0644\u0020\u0646\u0627\u0644\u0648\u0020\u0644\u06a9\u0648\u0020\u0028\u067e\u0647\u0631\u064a\u0648\u0646\u0020\u0646\u0627\u0644\u0648\u0020\u06fd\u0020\u0622\u062e\u0631\u064a\u0020\u0646\u0627\u0644\u0648\u0029\u002e',mockNote:'\u0637\u0631\u064a\u0642\u0648 \u067d\u064a\u0633\u067d/\u0633\u06a9\u0648 \u0648\u0627\u0631\u064a \u0633\u064a\u067d\u0646\u06af \u0645\u0637\u0627\u0628\u0642 \u0647\u0644\u0646\u062f\u0648 (\u068a\u0641\u0627\u0644\u067d \u067d\u064a\u0633\u067d). \u0627\u0647\u0648 \u06aa\u0646\u0647\u0646 \u0628\u0647 \u0645\u0636\u0645\u0648\u0646 \u0648\u0627\u0631\u064a \u0635\u0641\u062d\u064a \u062a\u064a \u062a\u0628\u062f\u064a\u0644 \u06aa\u0631\u064a \u0633\u06af\u0647\u062c\u064a \u067f\u0648.',howToHeading:'\u067d\u064a\u0633\u067d \u06aa\u064a\u0626\u0646 \u068f\u062c\u064a',howToStep1:'\u067e\u0646\u0647\u0646\u062c\u0648 \u0646\u0627\u0644\u0648 \u0644\u06a9\u0648\u060c \u067e\u0648\u0621\u0650 \u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633\u060c \u067e\u0648\u0621\u0650 \u0633\u064a\u06aa\u0634\u0646\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646\u060c \u067e\u0648\u0621\u0650 \u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648. (جنرل نالج پهريان ٻه ورجن ڏيکاريندو: سنڌي ورجن ۽ انگريزي ورجن.)',howToStep2:'\u06aa\u0646\u0647\u0646 \u0627\u067e\u0634\u0646 (A\u060c B\u060c C \u064a\u0627 D) \u062a\u064a \u067d\u064a\u067e \u06aa\u0631\u064a\u0648.',howToStep3:'\u0633\u0648\u0627\u0644\u0646 \u06fe \u0647\u0644\u06bb \u0644\u0627\u0621\u0650 \u0627\u06b3\u064a\u0648\u0646 \u06fd \u067e\u0648\u064a\u0648\u0646 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06aa\u0631\u064a\u0648.',howToStep4:'\u0647\u0631 \u067d\u064a\u0633\u067d \u062c\u0648 \u0627\u0644\u06b3 \u0648\u0642\u062a \u0622\u0647\u064a ( \u0627\u06aa\u062b\u0631 \u067d\u064a\u0633\u067d\u0646 \u0644\u0627\u0621\u0650 10 \u0645\u0646\u067d\u060c GK \u067e\u0647\u0631\u064a\u0646 \u067d\u064a\u0633\u067d \u0644\u0627\u0621\u0650 60 \u0645\u0646\u067d). \u062c\u064a\u06aa\u068f\u0647\u0646 \u0648\u0642\u062a \u062e\u062a\u0645 \u067f\u064a \u0648\u064a\u0648 \u062a\u0647 \u067d\u064a\u0633\u067d \u067e\u0627\u06bb\u0645\u0631\u0627\u062f\u0648 \u062c\u0645\u0639 \u067f\u064a \u0648\u064a\u0646\u062f\u064a.',howToStep5:'\u062c\u068f\u0647\u0646 \u062a\u064a\u0627\u0631 \u067f\u064a\u0648 \u062a\u0647 Submit Test \u062f\u067b\u0627\u064a\u0648. \u062a\u0648\u0647\u0627\u0646 \u062c\u0648 \u0646\u0645\u0628\u0631 \u0641\u0648\u0631\u0627\u064b \u068f\u064a\u06a9\u0627\u0631\u064a\u0648 \u0648\u064a\u0646\u062f\u0648\u060c \u0647\u0631 \u0633\u0648\u0627\u0644 \u062c\u064a \u062c\u0627\u0686 \u0633\u0627\u0646.',howToStep6:'\u067d\u064a\u0633\u067d \u0637\u0631\u064a\u0642\u064a \u06fe \u062a\u0648\u0647\u0627\u0646 \u062c\u0627 \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0635\u0631\u0641 \u062c\u0645\u0639 \u06aa\u0631\u0627\u0626\u06bb \u06a9\u0627\u0646 \u067e\u0648\u0621\u0650 \u068f\u064a\u06a9\u0627\u0631\u064a\u0627 \u0648\u064a\u0646\u062f\u0627 \u2014 \u067d\u064a\u0633\u067d \u062f\u0648\u0631\u0627\u0646 \u0646\u0647. \u0633\u06a9\u0648 \u0637\u0631\u064a\u0642\u064a \u06fe \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0647\u0631 \u0633\u0648\u0627\u0644 \u06a9\u0627\u0646 \u067e\u0648\u0621\u0650 \u0641\u0648\u0631\u0627\u064b \u068f\u064a\u06a9\u0627\u0631\u064a\u0648 \u0648\u064a\u0646\u062f\u0648.',searchLabel:'\u0633\u0680 \u06aa\u062c\u0647\u0647 \u06b3\u0648\u0644\u064a\u0648:',searchPlaceholder:'\u067d\u064a\u0633\u067d\u060c \u0633\u0628\u0642 \u064a\u0627 \u0645\u0648\u0636\u0648\u0639 \u0644\u06a9\u0648',weakHeading:'\u06aa\u0645\u0632\u0648\u0631 \u0645\u0648\u0636\u0648\u0639 \u067b\u064a\u0647\u0631 \u067e\u0699\u0647\u0648',flashcardsBtn:'\u0641\u0644\u064a\u0634 \u06aa\u0627\u0631\u068a',flashcardsHeading:'\u0641\u0644\u064a\u0634 \u06aa\u0627\u0631\u068a',flashAll:'\u0633\u0680',flashSyn:'\u0647\u0645 \u0645\u0639\u0646\u064a\u0670 \u0644\u0641\u0638',flashVerb:'\u0641\u0639\u0644 \u062c\u0627 \u0631\u0648\u067e',flashDef:'\u062a\u0639\u0631\u064a\u0641\u0648\u0646',showAnswer:'\u062c\u0648\u0627\u0628 \u068f\u064a\u06a9\u0627\u0631\u064a\u0648',nextCard:'\u0627\u06b3\u064a\u0648\u0646 \u06aa\u0627\u0631\u068a',shuffleCards:'\u06aa\u0627\u0631\u068a \u0645\u0644\u0627\u064a\u0648',demoBtn:'\u068a\u064a\u0645\u0648 \u0622\u0632\u0645\u0627\u064a\u0648 (3 \u0633\u0648\u0627\u0644)',resumeBtn:'\u067e\u0646\u0647\u0646\u062c\u0648 \u067d\u064a\u0633\u067d \u067b\u064a\u0647\u0631 \u0634\u0631\u0648\u0639 \u06aa\u0631\u064a\u0648',pauseBtn:'\u067d\u064a\u0633\u067d \u0631\u0648\u06aa\u064a\u0648',xlarge:'\u062a\u0645\u0627\u0645 \u0648\u068f\u0648',demoNote:'\u068a\u064a\u0645\u0648 \u2014 \u0631\u06aa\u0627\u0631\u068a \u0646\u0647 \u067f\u064a\u0646\u062f\u0648',searchNoMatch:'\u06aa\u0648 \u0628\u0647 \u0646\u062a\u064a\u062c\u0648 \u0646\u0647 \u0645\u0644\u064a\u0648.',searchMore:'\u067e\u0647\u0631\u064a\u0627\u0646 40 \u0646\u062a\u064a\u062c\u0627 \u068f\u064a\u06a9\u0627\u0631\u064a\u0627 \u0648\u064a\u0627 \u2014 \u067b\u064a\u0648 \u0644\u0641\u0638 \u0644\u06a9\u0648.',flagRev:'نشاني لڳل سوال ٻيهر پڙهو',flagRevLabel:'نشاني وارا سوال — رڪارڊ نه ٿيندا',flagRevNote:'نشاني وارا سوال — رڪارڊ نه ٿيندا. ',printTest:'هن ٽيسٽ کي پرنٽ ڪريو',shareTest:'هن ٽيسٽ کي واٽس ايپ تي شيئر ڪريو',matSearchLabel:'مطالعي واري مواد ۾ ڳوليو:',matSearchPlaceholder:'مواد مان ڪو لفظ لکو',contactHeading:'\u0627\u0633\u062a\u0627\u062f \u0633\u0627\u0646 \u0631\u0627\u0628\u0637\u0648',contactEmail:'\u0627\u064a \u0645\u064a\u0644:',contactPhone:'\u0641\u0648\u0646:',contactWhatsApp:'\u0648\u0627\u067d\u0633 \u0627\u064a\u067e:'};
-const UI_UR={"homeHeading": "اپنی کلاس یا سیکشن منتخب کریں", "homeNote": "لاگ ان کی ضرورت نہیں۔ ہر ٹیسٹ میں سوالات کی تعداد اور وقت الگ بتایا گیا ہے۔ آپ کے جوابات جمع کرانے کے بعد ہی دکھائے جاتے ہیں۔", "nameLabel": "آپ کا نام:", "namePlaceholder": "اپنا پورا نام لکھیں", "tip": "مشورہ: پہلے اپنی کلاس، پھر مضمون، پھر ٹیسٹ منتخب کریں۔ پہلے اپنا نام لکھیں — جمع کرانے پر یہ آپ کے نتیجے کے ساتھ بھیجا جاتا ہے۔", "textSize": "متن کا سائز:", "normal": "عام", "large": "بڑا", "xlarge": "بہت بڑا", "nightLabel": "نائٹ موڈ:", "nightOff": "بند", "nightOn": "چالو", "langLabel": "زبان:", "shareHome": "واٹس ایپ پر شیئر کریں", "installBtn": "ایپ کیسے انسٹال کریں", "qotdHeading": "آج کا سوال", "installHeading": "ایپ کیسے انسٹال کریں", installStep1:'اپنے فون کے براؤزر میں یہ سائٹ کھولیں (Android پر Chrome، iPhone پر Safari)۔', installStep2:'Android پر، براؤزر مینیو (تین نقطے) پر ٹیپ کریں، پھر “Add to Home Screen” یا “Install app” پر ٹیپ کریں۔', installStep3:'iPhone پر، Share پر ٹیپ کریں، پھر “Add to Home Screen” پر ٹیپ کریں۔', installStep4:'ہوم اسکرین سے “Haseeja Mahar MCQ Tests” کھولیں اور مشق شروع کریں۔ APK ڈاؤن لوڈ کرنے کی ضرورت نہیں۔', "backHome": "ہوم پر واپس", "classNote": "ایک مضمون منتخب کریں، پھر ٹیسٹ چنیں۔", "backClasses": "کلاسوں پر واپس", "subjectNote": "ایک ٹیسٹ چنیں۔ ہر ٹیسٹ میں سوالات کی تعداد اور وقت الگ بتایا گیا ہے۔", "modeLabel": "موڈ:", "modeTest": "ٹیسٹ", "modeLearn": "سیکھیں", "backSubjects": "مضامین پر واپس", "noTests": "اس مضمون کے لیے ابھی کوئی ٹیسٹ نہیں ہے — مزید ٹیسٹ جلد یہاں شامل کیے جائیں گے۔", "noTestsYet": "ابھی کوئی ٹیسٹ نہیں", "chooseSubject": "مضمون منتخب کریں", "chooseTest": "ٹیسٹ منتخب کریں", "prev": "پچھلا", "next": "اگلا", "submit": "ٹیسٹ جمع کریں", "flag": "اس سوال کو نشان زد کریں", "unflag": "نشان ہٹائیں", "resultHeading": "نتیجہ", "retry": "غلط سوالات دوبارہ کریں", "shareResult": "نتیجہ واٹس ایپ پر شیئر کریں", "report": "اس ٹیسٹ میں غلطی بتائیں", "reportQ": "اس سوال میں غلطی بتائیں", "reportU": "اس یونٹ میں غلطی بتائیں", "learnModeLabel": "سیکھنے کا موڈ", "retryLabel": "مشقی اعادہ — ریکارڈ نہیں ہوگا", "retryNote": "مشقی اعادہ — ریکارڈ نہیں ہوگا۔ ", "learnNote": "سیکھنے کا موڈ۔ ", "timeUpNote": "وقت ختم — خود بخود جمع ہوگیا۔ ", "pctCorrect": "درست۔", "qotdCorrect": "درست!", "qotdWrong": "بالکل نہیں — درست جواب ہے", "nameAlert": "ٹیسٹ شروع کرنے سے پہلے اپنا پورا اصل نام (پہلا اور آخری نام) لکھیں۔", "mockNote": "موڈ ٹیسٹ/سیکھیں کی ترتیب کے مطابق چلے گا (ڈیفالٹ ٹیسٹ)۔ اسے کسی بھی مضمون کے صفحے پر بدلا جا سکتا ہے۔", "howToHeading": "ٹیسٹ کیسے دیں", "howToStep1": "اپنا نام لکھیں، اپنی کلاس، پھر مضمون، پھر ٹیسٹ منتخب کریں۔ (جنرل نالج میں پہلے سندھی اور انگریزی ورژن کھلتے ہیں۔)", "howToStep2": "جواب منتخب کرنے کے لیے کسی آپشن (A، B، C یا D) پر ٹیپ کریں۔", "howToStep3": "سوالات میں آگے پیچھے جانے کے لیے اگلا اور پچھلا استعمال کریں۔", "howToStep4": "ہر ٹیسٹ کا اپنا وقت ہے (زیادہ تر ٹیسٹوں کے لیے 10 منٹ، GK پہلے ٹیسٹ کے لیے 60 منٹ)۔ وقت ختم ہونے پر ٹیسٹ خود بخود جمع ہوجاتا ہے۔", "howToStep5": "جب تیار ہوں تو ٹیسٹ جمع کریں دبائیں۔ آپ کا نمبر فوراً ظاہر ہوگا، ہر سوال کے جائزے کے ساتھ۔", "howToStep6": "ٹیسٹ موڈ میں درست جوابات صرف جمع کرانے کے بعد دکھائے جاتے ہیں — ٹیسٹ کے دوران نہیں۔ سیکھنے کے موڈ میں درست جواب ہر سوال کے فوراً بعد دکھایا جاتا ہے۔", "searchLabel": "سب کچھ تلاش کریں:", "searchPlaceholder": "ٹیسٹ، سبق یا موضوع لکھیں", "weakHeading": "اپنے کمزور موضوعات دوبارہ پڑھیں", "flashcardsBtn": "فلیش کارڈز", "flashcardsHeading": "فلیش کارڈز", "flashAll": "سب", "flashSyn": "ہم معنی الفاظ", "flashVerb": "فعل کی صورتیں", "flashDef": "تعریفیں", "showAnswer": "جواب دکھائیں", "nextCard": "اگلا کارڈ", "shuffleCards": "کارڈز ملائیں", "demoBtn": "ڈیمو آزمائیں (3 سوالات)", "resumeBtn": "اپنا ٹیسٹ دوبارہ شروع کریں", "pauseBtn": "ٹیسٹ روکیں", "demoNote": "ڈیمو — ریکارڈ نہیں ہوگا", "searchNoMatch": "کوئی نتیجہ نہیں ملا۔", "searchMore": "پہلے 40 نتائج — لکھتے رہیں۔", "flagRev": "نشاندہ سوالات دوبارہ پڑھیں", "flagRevLabel": "نشاندہ سوالات — ریکارڈ نہیں ہوں گے", "flagRevNote": "نشاندہ سوالات — ریکارڈ نہیں ہوں گے۔ ", "printTest": "اس ٹیسٹ کو پرنٹ کریں", "shareTest": "اس ٹیسٹ کو واٹس ایپ پر شیئر کریں", "matSearchLabel": "مطالعاتی مواد میں تلاش کریں:", "matSearchPlaceholder": "مواد کا کوئی لفظ لکھیں","contactHeading": "استاد سے رابطہ", "contactEmail": "ای میل:", "contactPhone": "فون:", "contactWhatsApp": "واٹس ایپ:"};
+const UI_EN={homeHeading:'Choose your class or section',homeNote:'No login needed. Each test shows its own number of questions and timer. Your answers are shown only after you submit.',nameLabel:'Your name:',namePlaceholder:'Type your full name',tip:'Tip: tap your class, then a section, then a subject, then a test. Type your name first \u2014 it is sent with your result when you submit.',textSize:'Text size:',normal:'Normal',large:'Large',nightLabel:'Night mode:',nightOff:'Off',nightOn:'On',langLabel:'Language:',shareHome:'Share on WhatsApp',installBtn:'How to install the app',qotdHeading:'Question of the Day',installHeading:'How to install the app',installStep1:'Open this site in your phone browser (Chrome on Android, Safari on iPhone).',installStep2:'On Android, tap the browser menu (three dots), then tap “Add to Home Screen” or “Install app”.',installStep3:'On iPhone, tap Share, then tap “Add to Home Screen”.',installStep4:'Open “Haseeja Mahar MCQ Tests” from your home screen and start practising. No APK download is needed.',backHome:'Back to Home',classNote:'Choose a subject, then pick a test.',sectionNote:'Choose a section, then a subject.',backClasses:'Back to Classes',subjectNote:'Choose a test. Each test shows its own number of questions and timer.',modeLabel:'Mode:',modeTest:'Test',modeLearn:'Learn',backSubjects:'Back to Subjects',backSections:'Back to Sections',noTests:'No tests for this subject yet \u2014 more tests will be added here soon.',noTestsYet:'No tests yet',chooseSubject:'Choose a subject',chooseSection:'Choose a section',chooseTest:'Choose a test',prev:'Previous',next:'Next',submit:'Submit Test',flag:'Flag this question',unflag:'Unflag this question',resultHeading:'Result',retry:'Retry wrong questions',shareResult:'Share result on WhatsApp',report:'Report a mistake in this test',reportQ:'Report a mistake in this question',reportU:'Report a mistake in this unit',learnModeLabel:'Learn mode',retryLabel:'Practice retry \u2014 not recorded',retryNote:'Practice retry \u2014 not recorded. ',learnNote:'Learn mode. ',timeUpNote:'Time up \u2014 submitted automatically. ',pctCorrect:'correct.',qotdCorrect:'Correct!',qotdWrong:'Not quite \u2014 the correct answer is',nameAlert:'Please type your full real name (first name and last name) before starting the test.',mockNote:'Mode follows the Test/Learn setting (default Test). Change it on any subject page.',howToHeading:'How to take a test',howToStep1:'Type your name, choose your class, then a section, then a subject, then a test. (General Knowledge opens its Sindhi and English versions first.)',howToStep2:'Tap an option (A, B, C or D) to select your answer.',howToStep3:'Use Next and Previous to move between questions.',howToStep4:'Each test shows its own time limit (10 minutes for most tests, 60 minutes for GK 1st Test). If the time runs out, the test submits automatically.',howToStep5:'Press Submit Test when you are done. Your score appears at once, with a review of every question.',howToStep6:'In Test mode, your correct answers are shown only after you submit \u2014 not during the test. In Learn mode, the correct answer is shown right after each question.',searchLabel:'Search everything:',searchPlaceholder:'Type a test, lesson or topic',weakHeading:'Revise your weak topics',flashcardsBtn:'Flashcards',flashcardsHeading:'Flashcards',flashAll:'All',flashSyn:'Synonyms',flashVerb:'Verb Forms',flashDef:'Definitions',showAnswer:'Show answer',nextCard:'Next card',shuffleCards:'Shuffle cards',demoBtn:'Try a demo (3 questions)',resumeBtn:'Resume your test',pauseBtn:'Pause test',xlarge:'Extra Large',demoNote:'Demo \u2014 not recorded',searchNoMatch:'No matching result found.',searchMore:'Showing the first 40 — keep typing to narrow it down.',flagRev:'Revise flagged questions',flagRevLabel:'Flagged revision — not recorded',flagRevNote:'Flagged revision — not recorded. ',printTest:'Print this test',shareTest:'Share this test on WhatsApp',copyLink:'Copy link',matSearchLabel:'Search study material:',matSearchPlaceholder:'Type a word from the material',contactHeading:'Contact the teacher',contactEmail:'Email:',contactPhone:'Phone:',contactWhatsApp:'WhatsApp:'};
+const UI_SD={homeHeading:'\u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633 \u064a\u0627 \u062d\u0635\u0648 \u0686\u0648\u0646\u068a\u064a\u0648',homeNote:'\u0644\u0627\u06af \u0627\u0646 \u062c\u064a \u0636\u0631\u0648\u0631\u062a \u0646\u0627\u0647\u064a. \u0647\u0631 \u067d\u064a\u0633\u067d \u06fe \u0633\u0648\u0627\u0644\u0646 \u062c\u0648 \u062a\u0639\u062f\u0627\u062f \u06fd \u0648\u0642\u062a \u068f\u064a\u06a9\u0627\u0631\u064a\u0644 \u0622\u0647\u064a. \u062c\u0648\u0627\u0628 \u062c\u0645\u0639 \u06aa\u0631\u0627\u0626\u06bb \u06a9\u0627\u0646 \u067e\u0648\u0621\u0650 \u062a\u0648\u0647\u0627\u0646 \u062c\u0627 \u062c\u0648\u0627\u0628 \u068f\u064a\u06a9\u0627\u0631\u064a\u0627 \u0648\u064a\u0646\u062f\u0627.',nameLabel:'\u062a\u0648\u0647\u0627\u0646 \u062c\u0648 \u0646\u0627\u0644\u0648:',namePlaceholder:'\u067e\u0646\u0647\u0646\u062c\u0648 \u067e\u0648\u0631\u0648 \u0646\u0627\u0644\u0648 \u0644\u06a9\u0648',tip:'\u0635\u0644\u0627\u062d: \u067e\u0647\u0631\u064a\u0627\u0646 \u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633\u060c \u067e\u0648\u0621\u0650 \u0633\u064a\u06aa\u0634\u0646\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646\u060c \u067e\u0648\u0621\u0650 \u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648. \u067e\u0647\u0631\u064a\u0627\u0646 \u067e\u0646\u0647\u0646\u062c\u0648 \u0646\u0627\u0644\u0648 \u0644\u06a9\u0648 \u2014 \u0627\u0647\u0648 \u062a\u0648\u0647\u0627\u0646 \u062c\u064a \u0646\u062a\u064a\u062c\u064a \u0633\u0627\u0646 \u06af\u068f \u0645\u0648\u06aa\u0644\u064a\u0648 \u0648\u064a\u0646\u062f\u0648.',textSize:'\u0627\u06a9\u0631\u0646 \u062c\u064a \u0645\u0627\u067e:',normal:'\u0639\u0627\u0645',large:'\u0648\u068f\u0648',nightLabel:'\u0631\u0627\u062a \u062c\u0648 \u0637\u0631\u064a\u0642\u0648:',nightOff:'\u0628\u0646\u062f',nightOn:'\u0686\u0627\u0644\u0648',langLabel:'\u067b\u0648\u0644\u064a:',shareHome:'\u0648\u0627\u067d\u0633 \u0627\u064a\u067e \u062a\u064a \u0634\u064a\u0626\u0631 \u06aa\u0631\u064a\u0648',installBtn:'\u0627\u064a\u067e \u06aa\u064a\u0626\u0646 \u0627\u0646\u0633\u067d\u0627\u0644 \u06aa\u062c\u064a',qotdHeading:'\u0627\u0684 \u062c\u0648 \u0633\u0648\u0627\u0644',installHeading:'\u0627\u064a\u067e \u06aa\u064a\u0626\u0646 \u0627\u0646\u0633\u067d\u0627\u0644 \u06aa\u062c\u064a',installStep1:'پنهنجي فون جي برائوزر ۾ هي سائيٽ کوليو (Android تي Chrome، iPhone تي Safari).',installStep2:'Android تي، برائوزر مينيو (ٽي نقطا) تي ٽيپ ڪريو، پوءِ “Add to Home Screen” يا “Install app” تي ٽيپ ڪريو.',installStep3:'iPhone تي، Share تي ٽيپ ڪريو، پوءِ “Add to Home Screen” تي ٽيپ ڪريو.',installStep4:'هوم اسڪرين تان “Haseeja Mahar MCQ Tests” کوليو ۽ مشق شروع ڪريو. APK ڊائون لوڊ ڪرڻ جي ضرورت ناهي.',backHome:'\u06af\u0647\u0631 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',classNote:'\u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068a\u064a\u0648\u060c \u067e\u0648\u0621\u0650 \u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648.',sectionNote:'\u0633\u064a\u06aa\u0634\u0646 \u0686\u0648\u0646\u068a\u064a\u0648\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068a\u064a\u0648.',backClasses:'\u06aa\u0644\u0627\u0633\u0646 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',subjectNote:'\u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648. \u0647\u0631 \u067d\u064a\u0633\u067d \u06fe \u0633\u0648\u0627\u0644\u0646 \u062c\u0648 \u062a\u0639\u062f\u0627\u062f \u06fd \u0648\u0642\u062a \u068f\u064a\u06a9\u0627\u0631\u064a\u0644 \u0622\u0647\u064a.',modeLabel:'\u0637\u0631\u064a\u0642\u0648:',modeTest:'\u067d\u064a\u0633\u067d',modeLearn:'\u0633\u06a9\u0648',backSubjects:'\u0645\u0636\u0645\u0648\u0646\u0646 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',backSections:'\u0633\u064a\u06aa\u0634\u0646 \u068f\u0627\u0646\u0647\u0646 \u0648\u0627\u067e\u0633',noTests:'\u0647\u0646 \u0645\u0636\u0645\u0648\u0646 \u0644\u0627\u0621\u0650 \u0627\u0683\u0627 \u06aa\u0627 \u067d\u064a\u0633\u067d \u0646\u0627\u0647\u064a \u2014 \u062c\u0644\u062f \u0648\u068c\u064a\u06aa \u067d\u064a\u0633\u067d\u0648\u0646 \u0634\u0627\u0645\u0644 \u06aa\u064a\u0648\u0646 \u0648\u064a\u0646\u062f\u064a\u0648\u0646.',noTestsYet:'\u0627\u0683\u0627 \u06aa\u0627 \u067d\u064a\u0633\u067d \u0646\u0627\u0647\u064a',chooseSubject:'\u0645\u0636\u0645\u0648\u0646 \u0686\u0648\u0646\u068a\u064a\u0648',chooseSection:'\u0633\u064a\u06aa\u0634\u0646 \u0686\u0648\u0646\u068a\u064a\u0648',chooseTest:'\u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648',prev:'\u067e\u0648\u064a\u0648\u0646',next:'\u0627\u06b3\u064a\u0648\u0646',submit:'\u067d\u064a\u0633\u067d \u062c\u0645\u0639 \u06aa\u0631\u064a\u0648',flag:'\u0647\u0646 \u0633\u0648\u0627\u0644 \u062a\u064a \u0646\u0634\u0627\u0646 \u0644\u06b3\u0627\u064a\u0648',unflag:'\u0646\u0634\u0627\u0646 \u0647\u067d\u0627\u064a\u0648',resultHeading:'\u0646\u062a\u064a\u062c\u0648',retry:'\u063a\u0644\u0637 \u0633\u0648\u0627\u0644 \u067b\u064a\u0647\u0631 \u06aa\u0631\u064a\u0648',shareResult:'\u0646\u062a\u064a\u062c\u0648 \u0648\u0627\u067d\u0633 \u0627\u064a\u067e \u062a\u064a \u0634\u064a\u0626\u0631 \u06aa\u0631\u064a\u0648',report:'\u0647\u0646 \u067d\u064a\u0633\u067d \u06fe \u063a\u0644\u0637\u064a \u067b\u068c\u0627\u064a\u0648',reportQ:'\u0647\u0646 \u0633\u0648\u0627\u0644 \u06fe \u063a\u0644\u0637\u064a \u067b\u068c\u0627\u064a\u0648',reportU:'\u0647\u0646 \u064a\u0648\u0646\u067d \u06fe \u063a\u0644\u0637\u064a \u067b\u068c\u0627\u064a\u0648',learnModeLabel:'\u0633\u06a9\u0648 \u0637\u0631\u064a\u0642\u0648',retryLabel:'\u0645\u0634\u0642 \u0648\u0631\u062c\u0627\u0621\u064f \u2014 \u0631\u06aa\u0627\u0631\u068a \u0646\u0647 \u067f\u064a\u0646\u062f\u0648',retryNote:'\u0645\u0634\u0642 \u0648\u0631\u062c\u0627\u0621\u064f \u2014 \u0631\u06aa\u0627\u0631\u068a \u0646\u0647 \u067f\u064a\u0646\u062f\u0648. ',learnNote:'\u0633\u06a9\u0648 \u0637\u0631\u064a\u0642\u0648. ',timeUpNote:'\u0648\u0642\u062a \u062e\u062a\u0645 \u2014 \u067e\u0627\u06bb\u0645\u0631\u0627\u062f\u0648 \u062c\u0645\u0639 \u067f\u064a \u0648\u064a\u0648. ',pctCorrect:'\u0635\u062d\u064a\u062d.',qotdCorrect:'\u0635\u062d\u064a\u062d!',qotdWrong:'\u0635\u062d\u064a\u062d \u0646\u0647 \u0622\u0647\u064a \u2014 \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0622\u0647\u064a',nameAlert:'\u067d\u064a\u0633\u067d\u0020\u0634\u0631\u0648\u0639\u0020\u06aa\u0631\u06bb\u0020\u06a9\u0627\u0646\u0020\u067e\u0647\u0631\u064a\u0646\u0020\u067e\u0646\u0647\u0646\u062c\u0648\u0020\u067e\u0648\u0631\u0648\u0020\u0627\u0635\u0644\u0020\u0646\u0627\u0644\u0648\u0020\u0644\u06a9\u0648\u0020\u0028\u067e\u0647\u0631\u064a\u0648\u0646\u0020\u0646\u0627\u0644\u0648\u0020\u06fd\u0020\u0622\u062e\u0631\u064a\u0020\u0646\u0627\u0644\u0648\u0029\u002e',mockNote:'\u0637\u0631\u064a\u0642\u0648 \u067d\u064a\u0633\u067d/\u0633\u06a9\u0648 \u0648\u0627\u0631\u064a \u0633\u064a\u067d\u0646\u06af \u0645\u0637\u0627\u0628\u0642 \u0647\u0644\u0646\u062f\u0648 (\u068a\u0641\u0627\u0644\u067d \u067d\u064a\u0633\u067d). \u0627\u0647\u0648 \u06aa\u0646\u0647\u0646 \u0628\u0647 \u0645\u0636\u0645\u0648\u0646 \u0648\u0627\u0631\u064a \u0635\u0641\u062d\u064a \u062a\u064a \u062a\u0628\u062f\u064a\u0644 \u06aa\u0631\u064a \u0633\u06af\u0647\u062c\u064a \u067f\u0648.',howToHeading:'\u067d\u064a\u0633\u067d \u06aa\u064a\u0626\u0646 \u068f\u062c\u064a',howToStep1:'\u067e\u0646\u0647\u0646\u062c\u0648 \u0646\u0627\u0644\u0648 \u0644\u06a9\u0648\u060c \u067e\u0648\u0621\u0650 \u067e\u0646\u0647\u0646\u062c\u0648 \u06aa\u0644\u0627\u0633\u060c \u067e\u0648\u0621\u0650 \u0633\u064a\u06aa\u0634\u0646\u060c \u067e\u0648\u0621\u0650 \u0645\u0636\u0645\u0648\u0646\u060c \u067e\u0648\u0621\u0650 \u067d\u064a\u0633\u067d \u0686\u0648\u0646\u068a\u064a\u0648. (جنرل نالج پهريان ٻه ورجن ڏيکاريندو: سنڌي ورجن ۽ انگريزي ورجن.)',howToStep2:'\u06aa\u0646\u0647\u0646 \u0627\u067e\u0634\u0646 (A\u060c B\u060c C \u064a\u0627 D) \u062a\u064a \u067d\u064a\u067e \u06aa\u0631\u064a\u0648.',howToStep3:'\u0633\u0648\u0627\u0644\u0646 \u06fe \u0647\u0644\u06bb \u0644\u0627\u0621\u0650 \u0627\u06b3\u064a\u0648\u0646 \u06fd \u067e\u0648\u064a\u0648\u0646 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u06aa\u0631\u064a\u0648.',howToStep4:'\u0647\u0631 \u067d\u064a\u0633\u067d \u062c\u0648 \u0627\u0644\u06b3 \u0648\u0642\u062a \u0622\u0647\u064a ( \u0627\u06aa\u062b\u0631 \u067d\u064a\u0633\u067d\u0646 \u0644\u0627\u0621\u0650 10 \u0645\u0646\u067d\u060c GK \u067e\u0647\u0631\u064a\u0646 \u067d\u064a\u0633\u067d \u0644\u0627\u0621\u0650 60 \u0645\u0646\u067d). \u062c\u064a\u06aa\u068f\u0647\u0646 \u0648\u0642\u062a \u062e\u062a\u0645 \u067f\u064a \u0648\u064a\u0648 \u062a\u0647 \u067d\u064a\u0633\u067d \u067e\u0627\u06bb\u0645\u0631\u0627\u062f\u0648 \u062c\u0645\u0639 \u067f\u064a \u0648\u064a\u0646\u062f\u064a.',howToStep5:'\u062c\u068f\u0647\u0646 \u062a\u064a\u0627\u0631 \u067f\u064a\u0648 \u062a\u0647 Submit Test \u062f\u067b\u0627\u064a\u0648. \u062a\u0648\u0647\u0627\u0646 \u062c\u0648 \u0646\u0645\u0628\u0631 \u0641\u0648\u0631\u0627\u064b \u068f\u064a\u06a9\u0627\u0631\u064a\u0648 \u0648\u064a\u0646\u062f\u0648\u060c \u0647\u0631 \u0633\u0648\u0627\u0644 \u062c\u064a \u062c\u0627\u0686 \u0633\u0627\u0646.',howToStep6:'\u067d\u064a\u0633\u067d \u0637\u0631\u064a\u0642\u064a \u06fe \u062a\u0648\u0647\u0627\u0646 \u062c\u0627 \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0635\u0631\u0641 \u062c\u0645\u0639 \u06aa\u0631\u0627\u0626\u06bb \u06a9\u0627\u0646 \u067e\u0648\u0621\u0650 \u068f\u064a\u06a9\u0627\u0631\u064a\u0627 \u0648\u064a\u0646\u062f\u0627 \u2014 \u067d\u064a\u0633\u067d \u062f\u0648\u0631\u0627\u0646 \u0646\u0647. \u0633\u06a9\u0648 \u0637\u0631\u064a\u0642\u064a \u06fe \u0635\u062d\u064a\u062d \u062c\u0648\u0627\u0628 \u0647\u0631 \u0633\u0648\u0627\u0644 \u06a9\u0627\u0646 \u067e\u0648\u0621\u0650 \u0641\u0648\u0631\u0627\u064b \u068f\u064a\u06a9\u0627\u0631\u064a\u0648 \u0648\u064a\u0646\u062f\u0648.',searchLabel:'\u0633\u0680 \u06aa\u062c\u0647\u0647 \u06b3\u0648\u0644\u064a\u0648:',searchPlaceholder:'\u067d\u064a\u0633\u067d\u060c \u0633\u0628\u0642 \u064a\u0627 \u0645\u0648\u0636\u0648\u0639 \u0644\u06a9\u0648',weakHeading:'\u06aa\u0645\u0632\u0648\u0631 \u0645\u0648\u0636\u0648\u0639 \u067b\u064a\u0647\u0631 \u067e\u0699\u0647\u0648',flashcardsBtn:'\u0641\u0644\u064a\u0634 \u06aa\u0627\u0631\u068a',flashcardsHeading:'\u0641\u0644\u064a\u0634 \u06aa\u0627\u0631\u068a',flashAll:'\u0633\u0680',flashSyn:'\u0647\u0645 \u0645\u0639\u0646\u064a\u0670 \u0644\u0641\u0638',flashVerb:'\u0641\u0639\u0644 \u062c\u0627 \u0631\u0648\u067e',flashDef:'\u062a\u0639\u0631\u064a\u0641\u0648\u0646',showAnswer:'\u062c\u0648\u0627\u0628 \u068f\u064a\u06a9\u0627\u0631\u064a\u0648',nextCard:'\u0627\u06b3\u064a\u0648\u0646 \u06aa\u0627\u0631\u068a',shuffleCards:'\u06aa\u0627\u0631\u068a \u0645\u0644\u0627\u064a\u0648',demoBtn:'\u068a\u064a\u0645\u0648 \u0622\u0632\u0645\u0627\u064a\u0648 (3 \u0633\u0648\u0627\u0644)',resumeBtn:'\u067e\u0646\u0647\u0646\u062c\u0648 \u067d\u064a\u0633\u067d \u067b\u064a\u0647\u0631 \u0634\u0631\u0648\u0639 \u06aa\u0631\u064a\u0648',pauseBtn:'\u067d\u064a\u0633\u067d \u0631\u0648\u06aa\u064a\u0648',xlarge:'\u062a\u0645\u0627\u0645 \u0648\u068f\u0648',demoNote:'\u068a\u064a\u0645\u0648 \u2014 \u0631\u06aa\u0627\u0631\u068a \u0646\u0647 \u067f\u064a\u0646\u062f\u0648',searchNoMatch:'\u06aa\u0648 \u0628\u0647 \u0646\u062a\u064a\u062c\u0648 \u0646\u0647 \u0645\u0644\u064a\u0648.',searchMore:'\u067e\u0647\u0631\u064a\u0627\u0646 40 \u0646\u062a\u064a\u062c\u0627 \u068f\u064a\u06a9\u0627\u0631\u064a\u0627 \u0648\u064a\u0627 \u2014 \u067b\u064a\u0648 \u0644\u0641\u0638 \u0644\u06a9\u0648.',flagRev:'نشاني لڳل سوال ٻيهر پڙهو',flagRevLabel:'نشاني وارا سوال — رڪارڊ نه ٿيندا',flagRevNote:'نشاني وارا سوال — رڪارڊ نه ٿيندا. ',printTest:'هن ٽيسٽ کي پرنٽ ڪريو',shareTest:'هن ٽيسٽ کي واٽس ايپ تي شيئر ڪريو',copyLink:'Copy link',matSearchLabel:'مطالعي واري مواد ۾ ڳوليو:',matSearchPlaceholder:'مواد مان ڪو لفظ لکو',contactHeading:'\u0627\u0633\u062a\u0627\u062f \u0633\u0627\u0646 \u0631\u0627\u0628\u0637\u0648',contactEmail:'\u0627\u064a \u0645\u064a\u0644:',contactPhone:'\u0641\u0648\u0646:',contactWhatsApp:'\u0648\u0627\u067d\u0633 \u0627\u064a\u067e:'};
+const UI_UR={"homeHeading": "اپنی کلاس یا سیکشن منتخب کریں", "homeNote": "لاگ ان کی ضرورت نہیں۔ ہر ٹیسٹ میں سوالات کی تعداد اور وقت الگ بتایا گیا ہے۔ آپ کے جوابات جمع کرانے کے بعد ہی دکھائے جاتے ہیں۔", "nameLabel": "آپ کا نام:", "namePlaceholder": "اپنا پورا نام لکھیں", "tip": "مشورہ: پہلے اپنی کلاس، پھر مضمون، پھر ٹیسٹ منتخب کریں۔ پہلے اپنا نام لکھیں — جمع کرانے پر یہ آپ کے نتیجے کے ساتھ بھیجا جاتا ہے۔", "textSize": "متن کا سائز:", "normal": "عام", "large": "بڑا", "xlarge": "بہت بڑا", "nightLabel": "نائٹ موڈ:", "nightOff": "بند", "nightOn": "چالو", "langLabel": "زبان:", "shareHome": "واٹس ایپ پر شیئر کریں", "installBtn": "ایپ کیسے انسٹال کریں", "qotdHeading": "آج کا سوال", "installHeading": "ایپ کیسے انسٹال کریں", installStep1:'اپنے فون کے براؤزر میں یہ سائٹ کھولیں (Android پر Chrome، iPhone پر Safari)۔', installStep2:'Android پر، براؤزر مینیو (تین نقطے) پر ٹیپ کریں، پھر “Add to Home Screen” یا “Install app” پر ٹیپ کریں۔', installStep3:'iPhone پر، Share پر ٹیپ کریں، پھر “Add to Home Screen” پر ٹیپ کریں۔', installStep4:'ہوم اسکرین سے “Haseeja Mahar MCQ Tests” کھولیں اور مشق شروع کریں۔ APK ڈاؤن لوڈ کرنے کی ضرورت نہیں۔', "backHome": "ہوم پر واپس", "classNote": "ایک مضمون منتخب کریں، پھر ٹیسٹ چنیں۔", "backClasses": "کلاسوں پر واپس", "subjectNote": "ایک ٹیسٹ چنیں۔ ہر ٹیسٹ میں سوالات کی تعداد اور وقت الگ بتایا گیا ہے۔", "modeLabel": "موڈ:", "modeTest": "ٹیسٹ", "modeLearn": "سیکھیں", "backSubjects": "مضامین پر واپس", "noTests": "اس مضمون کے لیے ابھی کوئی ٹیسٹ نہیں ہے — مزید ٹیسٹ جلد یہاں شامل کیے جائیں گے۔", "noTestsYet": "ابھی کوئی ٹیسٹ نہیں", "chooseSubject": "مضمون منتخب کریں", "chooseTest": "ٹیسٹ منتخب کریں", "prev": "پچھلا", "next": "اگلا", "submit": "ٹیسٹ جمع کریں", "flag": "اس سوال کو نشان زد کریں", "unflag": "نشان ہٹائیں", "resultHeading": "نتیجہ", "retry": "غلط سوالات دوبارہ کریں", "shareResult": "نتیجہ واٹس ایپ پر شیئر کریں", "report": "اس ٹیسٹ میں غلطی بتائیں", "reportQ": "اس سوال میں غلطی بتائیں", "reportU": "اس یونٹ میں غلطی بتائیں", "learnModeLabel": "سیکھنے کا موڈ", "retryLabel": "مشقی اعادہ — ریکارڈ نہیں ہوگا", "retryNote": "مشقی اعادہ — ریکارڈ نہیں ہوگا۔ ", "learnNote": "سیکھنے کا موڈ۔ ", "timeUpNote": "وقت ختم — خود بخود جمع ہوگیا۔ ", "pctCorrect": "درست۔", "qotdCorrect": "درست!", "qotdWrong": "بالکل نہیں — درست جواب ہے", "nameAlert": "ٹیسٹ شروع کرنے سے پہلے اپنا پورا اصل نام (پہلا اور آخری نام) لکھیں۔", "mockNote": "موڈ ٹیسٹ/سیکھیں کی ترتیب کے مطابق چلے گا (ڈیفالٹ ٹیسٹ)۔ اسے کسی بھی مضمون کے صفحے پر بدلا جا سکتا ہے۔", "howToHeading": "ٹیسٹ کیسے دیں", "howToStep1": "اپنا نام لکھیں، اپنی کلاس، پھر مضمون، پھر ٹیسٹ منتخب کریں۔ (جنرل نالج میں پہلے سندھی اور انگریزی ورژن کھلتے ہیں۔)", "howToStep2": "جواب منتخب کرنے کے لیے کسی آپشن (A، B، C یا D) پر ٹیپ کریں۔", "howToStep3": "سوالات میں آگے پیچھے جانے کے لیے اگلا اور پچھلا استعمال کریں۔", "howToStep4": "ہر ٹیسٹ کا اپنا وقت ہے (زیادہ تر ٹیسٹوں کے لیے 10 منٹ، GK پہلے ٹیسٹ کے لیے 60 منٹ)۔ وقت ختم ہونے پر ٹیسٹ خود بخود جمع ہوجاتا ہے۔", "howToStep5": "جب تیار ہوں تو ٹیسٹ جمع کریں دبائیں۔ آپ کا نمبر فوراً ظاہر ہوگا، ہر سوال کے جائزے کے ساتھ۔", "howToStep6": "ٹیسٹ موڈ میں درست جوابات صرف جمع کرانے کے بعد دکھائے جاتے ہیں — ٹیسٹ کے دوران نہیں۔ سیکھنے کے موڈ میں درست جواب ہر سوال کے فوراً بعد دکھایا جاتا ہے۔", "searchLabel": "سب کچھ تلاش کریں:", "searchPlaceholder": "ٹیسٹ، سبق یا موضوع لکھیں", "weakHeading": "اپنے کمزور موضوعات دوبارہ پڑھیں", "flashcardsBtn": "فلیش کارڈز", "flashcardsHeading": "فلیش کارڈز", "flashAll": "سب", "flashSyn": "ہم معنی الفاظ", "flashVerb": "فعل کی صورتیں", "flashDef": "تعریفیں", "showAnswer": "جواب دکھائیں", "nextCard": "اگلا کارڈ", "shuffleCards": "کارڈز ملائیں", "demoBtn": "ڈیمو آزمائیں (3 سوالات)", "resumeBtn": "اپنا ٹیسٹ دوبارہ شروع کریں", "pauseBtn": "ٹیسٹ روکیں", "demoNote": "ڈیمو — ریکارڈ نہیں ہوگا", "searchNoMatch": "کوئی نتیجہ نہیں ملا۔", "searchMore": "پہلے 40 نتائج — لکھتے رہیں۔", "flagRev": "نشاندہ سوالات دوبارہ پڑھیں", "flagRevLabel": "نشاندہ سوالات — ریکارڈ نہیں ہوں گے", "flagRevNote": "نشاندہ سوالات — ریکارڈ نہیں ہوں گے۔ ", "printTest": "اس ٹیسٹ کو پرنٹ کریں", "shareTest": "اس ٹیسٹ کو واٹس ایپ پر شیئر کریں", "copyLink": "Copy link", "matSearchLabel": "مطالعاتی مواد میں تلاش کریں:", "matSearchPlaceholder": "مواد کا کوئی لفظ لکھیں","contactHeading": "استاد سے رابطہ", "contactEmail": "ای میل:", "contactPhone": "فون:", "contactWhatsApp": "واٹس ایپ:"};
 let uiLang='en';
 function tr(k){ if(uiLang==='sd' && UI_SD[k]) return UI_SD[k]; if(uiLang==='ur' && UI_UR[k]) return UI_UR[k]; return UI_EN[k]||k; }
 function setNightMode(on){ try{localStorage.setItem('mcqNight', on?'dark':'light');}catch(e){} document.body.classList.toggle('dark', !!on); var ob=document.getElementById('nightOffBtn'), nb=document.getElementById('nightOnBtn'); if(ob) ob.className='modebtn'+(on?'':' sel'); if(nb) nb.className='modebtn'+(on?' sel':''); var _hp=document.getElementById('heroNightBtn'); if(_hp) _hp.textContent=on?'\u2600\uFE0F Day mode':'\uD83C\uDF19 Night mode'; }
@@ -153025,10 +153027,10 @@ function backToClasses(){
 // ---- Phone back button: one step back per press ----
 var navFromPop=false;
 function navPush(state){
-  try{ if(!navFromPop && window.history && history.pushState){ history.pushState(state, ''); } }catch(e){}
+  try{ if(!navFromPop && !routeLoading && window.history && history.pushState){ var _u=routeForState(state); if(_u){ history.pushState(state, '', _u); routeSyncHash=_u; routeSyncAt=Date.now(); } else history.pushState(state, ''); } }catch(e){}
 }
 function navReplace(state){
-  try{ if(!navFromPop && window.history && history.replaceState){ history.replaceState(state, ''); } }catch(e){}
+  try{ if(!navFromPop && !routeLoading && window.history && history.replaceState){ var _u=routeForState(state); if(_u){ history.replaceState(state, '', _u); routeSyncHash=_u; routeSyncAt=Date.now(); } else history.replaceState(state, ''); } }catch(e){}
 }
 function navHasName(){
   var _nm=document.getElementById('studentName'); return !!(_nm && _nm.value.trim());
@@ -153039,6 +153041,7 @@ function navFallback(){
   else { goHome(); }
 }
 function navShow(state){
+  try{ var _nh=window.location.hash||''; if(routeSyncHash===_nh && Date.now()-routeSyncAt<500) return; }catch(e){}
   if(!state || !state.view) state={view:'home'};
   var _t=document.getElementById('test');
   if(_t && !_t.classList.contains('hidden')) savePausedState();
@@ -153069,6 +153072,7 @@ function navShow(state){
     else { goHome(); }
   }catch(e){}
   navFromPop=false;
+  try{ routeSyncHash=window.location.hash||''; routeSyncAt=Date.now(); }catch(e){}
 }
 function navRestoreTest(state){
   var paused=null; try{ paused=JSON.parse(localStorage.getItem('mcqPaused')||'null'); }catch(e){}
@@ -153097,6 +153101,197 @@ function navShowResult(){
   }
   navFallback();
 }
+
+// ---- Shareable URL routes (#/...) — see ~/workspace/routes-plan/PLAN.md ----
+// Every view already has a nav state (navPush/navReplace); the route is just
+// that state written into the address bar as a hash. Hash routes need no
+// server setting, never reach the service worker, and leave ?test= alone.
+var ROUTE_SEC_WORD={sd:'sindhi',ur:'urdu',en:'english'};
+var ROUTE_SEC_FOR_WORD={sindhi:'sd',urdu:'ur',english:'en'};
+var routeSyncHash=null, routeSyncAt=0, routeLoading=false, routeOpenedAtLoad=false;
+function routeSlugForSubject(cls, subj){
+  if(cls==='gk'){ if(subj==='Sindhi Version') return 'general-knowledge-sd'; if(subj==='English Version') return 'general-knowledge-en'; return null; }
+  var base=String(subj||'').split(' \u2014 ')[0];
+  var ver=null;
+  if(subj.indexOf('Sindhi Version')>=0) ver='sd';
+  else if(subj.indexOf('English Version')>=0) ver='en';
+  else if(subj.indexOf('Urdu Version')>=0) ver='ur';
+  var slug=base.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+  return ver ? slug+'-'+ver : slug;
+}
+function routeSubjectForSlug(cls, slug){
+  var list=(typeof CLASS_SUBJECTS!=='undefined' && CLASS_SUBJECTS[cls])||[];
+  for(var i=0;i<list.length;i++){ if(routeSlugForSubject(cls, list[i])===slug) return list[i]; }
+  return null;
+}
+function sectionForSubject(cls, subj){
+  if(!cls || !subj || typeof CLASS_SECTIONS==='undefined' || !CLASS_SECTIONS[cls]) return null;
+  if(currentSection && CLASS_SECTIONS[cls][currentSection] && CLASS_SECTIONS[cls][currentSection].indexOf(subj)!==-1) return currentSection;
+  var order=['sd','ur','en'];
+  for(var i=0;i<order.length;i++){ var l=CLASS_SECTIONS[cls][order[i]]; if(l && l.indexOf(subj)!==-1) return order[i]; }
+  return null;
+}
+function routeForSubject(cls, subj){
+  if(!cls || !subj || typeof CLASS_SUBJECTS==='undefined' || !CLASS_SUBJECTS[cls] || CLASS_SUBJECTS[cls].indexOf(subj)===-1) return null;
+  if(cls==='gk') return '#/class/gk/'+routeSlugForSubject(cls, subj);
+  var sec=sectionForSubject(cls, subj); if(!sec) return null;
+  return '#/class/'+cls+'/'+ROUTE_SEC_WORD[sec]+'/'+routeSlugForSubject(cls, subj);
+}
+function routeForState(st){
+  if(!st || !st.view) return null;
+  if(st.view==='home') return '#/';
+  if(st.view==='class'){ if(st.cls && typeof CLASS_SUBJECTS!=='undefined' && CLASS_SUBJECTS[st.cls]) return '#/class/'+st.cls; return null; }
+  if(st.view==='section'){ if(st.cls && st.sec && typeof CLASS_SECTIONS!=='undefined' && CLASS_SECTIONS[st.cls] && CLASS_SECTIONS[st.cls][st.sec]) return '#/class/'+st.cls+'/'+ROUTE_SEC_WORD[st.sec]; return null; }
+  if(st.view==='subject'){ return routeForSubject(st.cls, st.subj); }
+  if(st.view==='material'){ if(st.unit){ var r=routeForSubject(st.cls, st.subj); if(r) return r+'/unit/'+st.unit; } return null; }
+  if(st.view==='test'){ if(st.testKey){ if(st.testKey.slice(0,4)==='mock') return '#/mock/'+st.testKey.slice(4); if((typeof QUESTIONS!=='undefined' && QUESTIONS[st.testKey]) || (typeof CHAPTERS!=='undefined' && CHAPTERS[st.testKey])) return '#/test/'+st.testKey; } return null; }
+  if(st.view==='result'){ if(st.testKey) return '#/test/'+st.testKey; return null; }
+  return null;
+}
+// Open a test link the way ?test= does today: with a saved name the test
+// starts at once; without one, the subject page opens so the student can
+// type their name and tap the test — never an alert on arrival.
+// Returns the nav state that was opened, or null if the key is unknown.
+function openTestLink(key){
+  var isMain=(typeof QUESTIONS!=='undefined'&&QUESTIONS[key]);
+  var isChap=(typeof CHAPTERS!=='undefined'&&CHAPTERS[key]);
+  if(!isMain&&!isChap) return null;
+  var nm=document.getElementById('studentName');
+  if(nm&&nm.value.trim()){ startTest(key); return {view:'test', testKey:key}; }
+  var parentKey=isChap?CHAPTERS[key].parent:key;
+  var subj=(typeof TEST_SUBJECT!=='undefined')?TEST_SUBJECT[parentKey]:null;
+  if(!subj) return null;
+  var cls=null;
+  if(typeof CLASS_TESTS!=='undefined'){ Object.keys(CLASS_TESTS).forEach(function(c){ if(CLASS_TESTS[c].indexOf(parentKey)!==-1) cls=c; }); }
+  if(!cls) return null;
+  if(cls==='grammar'){ showGrammarTests(); return {view:'grammartests'}; }
+  showClass(cls); showSubject(cls, subj);
+  return {view:'subject', cls:cls, subj:subj};
+}
+function openMockRoute(cls){
+  if(!cls || typeof MOCKS==='undefined' || !MOCKS[cls]){ goHome(); return {view:'home'}; }
+  var nm=document.getElementById('studentName');
+  if(nm && nm.value.trim()){ startMockTest(cls); return {view:'test', testKey:'mock'+cls}; }
+  showClass(cls); return {view:'class', cls:cls};
+}
+function parseHashRoute(){
+  var h=''; try{ h=window.location.hash||''; }catch(e){}
+  if(h.indexOf('#/')!==0) return null;
+  var parts=h.slice(2).split('/').filter(function(p){ return p!==''; });
+  if(!parts.length) return {kind:'home'};
+  if(parts[0]==='test' && parts.length===2) return {kind:'test', key:parts[1]};
+  if(parts[0]==='mock' && parts.length===2) return {kind:'mock', cls:parts[1]};
+  if(parts[0]==='class'){
+    if(parts.length===2) return {kind:'class', cls:parts[1]};
+    if(parts[1]==='gk'){
+      if(parts.length===3) return {kind:'subject', cls:'gk', subj:routeSubjectForSlug('gk', parts[2])};
+      if(parts.length===5 && parts[3]==='unit') return {kind:'unit', cls:'gk', subj:routeSubjectForSlug('gk', parts[2]), unit:parseInt(parts[4],10)};
+      return {kind:'invalid'};
+    }
+    if(parts.length===3) return {kind:'section', cls:parts[1], sec:ROUTE_SEC_FOR_WORD[parts[2]]};
+    if(parts.length===4) return {kind:'subject', cls:parts[1], sec:ROUTE_SEC_FOR_WORD[parts[2]], subj:routeSubjectForSlug(parts[1], parts[3])};
+    if(parts.length===6 && parts[4]==='unit') return {kind:'unit', cls:parts[1], sec:ROUTE_SEC_FOR_WORD[parts[2]], subj:routeSubjectForSlug(parts[1], parts[3]), unit:parseInt(parts[5],10)};
+    return {kind:'invalid'};
+  }
+  return {kind:'invalid'};
+}
+function routeUnitExists(cls, subj, n){
+  if(!n || isNaN(n) || n<1) return false;
+  try{
+    if(typeof guideDataFor!=='undefined'){
+      var d=guideDataFor(cls, subj); if(!d) return false;
+      var isMath=(subj||'').indexOf('Mathematics')===0;
+      var arr=isMath?d.mathsolutions:d.exsolutions;
+      if(!arr) return false;
+      for(var i=0;i<arr.length;i++){ if(arr[i] && arr[i].unit===n) return true; }
+    }
+  }catch(e){}
+  return false;
+}
+function routeSubjectOk(r){
+  if(r.cls==='gk'){ return !!(r.subj && typeof CLASS_SUBJECTS!=='undefined' && CLASS_SUBJECTS.gk.indexOf(r.subj)!==-1); }
+  return !!(r.sec && r.subj && typeof CLASS_SECTIONS!=='undefined' && CLASS_SECTIONS[r.cls] && CLASS_SECTIONS[r.cls][r.sec] && CLASS_SECTIONS[r.cls][r.sec].indexOf(r.subj)!==-1);
+}
+// Read the #/... route and open it. fromLoad=true at page load (a saved
+// history state owns the view then, so the router only runs for a fresh
+// deep link); fromLoad=false on hashchange (back/forward is owned by
+// popstate — the route/state match check below keeps the two from
+// double-opening the same view).
+function readHashRoute(fromLoad){
+  var h=''; try{ h=window.location.hash||''; }catch(e){}
+  if(h.indexOf('#/')!==0) return;
+  try{
+    var _hs=window.history && history.state;
+    if(_hs && routeForState(_hs)===h) return; // this entry's own state matches the URL — popstate owns it
+  }catch(e){}
+  if(fromLoad){
+    try{ var _st0=window.history && history.state; if(_st0 && _st0.view && _st0.view!=='home') return; }catch(e){}
+  }
+  var now=Date.now();
+  if(routeSyncHash===h && now-routeSyncAt<500) return; // navShow just opened this view
+  var r=parseHashRoute();
+  var opened=null;
+  routeLoading=true;
+  try{
+    if(!r || r.kind==='invalid' || r.kind==='home'){ goHome(); opened={view:'home'}; }
+    else if(r.kind==='class'){ if(typeof CLASS_SUBJECTS!=='undefined' && CLASS_SUBJECTS[r.cls]){ navShow({view:'class', cls:r.cls}); opened={view:'class', cls:r.cls}; } else { goHome(); opened={view:'home'}; } }
+    else if(r.kind==='section'){ if(r.sec && typeof CLASS_SECTIONS!=='undefined' && CLASS_SECTIONS[r.cls] && CLASS_SECTIONS[r.cls][r.sec]){ navShow({view:'section', cls:r.cls, sec:r.sec}); opened={view:'section', cls:r.cls, sec:r.sec}; } else { goHome(); opened={view:'home'}; } }
+    else if(r.kind==='subject'){
+      if(routeSubjectOk(r)){ navShow({view:'subject', cls:r.cls, subj:r.subj}); opened={view:'subject', cls:r.cls, subj:r.subj}; }
+      else { goHome(); opened={view:'home'}; }
+    }
+    else if(r.kind==='unit'){
+      if(routeSubjectOk(r) && routeUnitExists(r.cls, r.subj, r.unit)){
+        var _isMath=(r.subj||'').indexOf('Mathematics')===0;
+        navShow({view:'material', cls:r.cls, subj:r.subj, tab:'exsolutions', unit:r.unit, math:_isMath?1:0});
+        opened={view:'material', cls:r.cls, subj:r.subj, tab:'exsolutions', unit:r.unit, math:_isMath?1:0};
+      } else { goHome(); opened={view:'home'}; }
+    }
+    else if(r.kind==='test'){
+      if(r.key.slice(0,4)==='mock'){ opened=openMockRoute(r.key.slice(4)); }
+      else { opened=openTestLink(r.key); if(!opened){ goHome(); opened={view:'home'}; } }
+    }
+    else if(r.kind==='mock'){ opened=openMockRoute(r.cls); }
+  }catch(e){ try{ goHome(); }catch(e2){} opened={view:'home'}; }
+  routeLoading=false;
+  routeSyncHash=h; routeSyncAt=Date.now();
+  if(fromLoad) routeOpenedAtLoad=true;
+  try{
+    if(window.history && history.replaceState){
+      if(opened && opened.view==='home') history.replaceState(opened, '', '#/');
+      else if(opened) history.replaceState(opened, '', h);
+    }
+  }catch(e){}
+}
+function routeFullUrl(route){
+  var u=''; try{ u=window.location.origin+window.location.pathname; }catch(e){ u='https://sirnasarullah.pages.dev/'; }
+  return u+(route||'#/');
+}
+function copyRouteLink(route, btn){
+  var url=routeFullUrl(route);
+  try{
+    if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(url).catch(function(){}); }
+    else { var ta=document.createElement('textarea'); ta.value=url; document.body.appendChild(ta); ta.select(); try{ document.execCommand('copy'); }catch(e){} document.body.removeChild(ta); }
+  }catch(e){}
+  if(btn){ btn.textContent='\u2713 Copied'; setTimeout(function(){ btn.textContent=tr('copyLink'); }, 1500); }
+  return url;
+}
+function copySubjectLink(btn){
+  var r=null; try{ r=routeForSubject(currentClass, currentSubject); }catch(e){}
+  return copyRouteLink(r, btn||document.getElementById('subjectcopylink'));
+}
+function copyUnitLink(btn){
+  var r=null;
+  try{
+    var _uc=(typeof matCls!=='undefined'&&matCls)||currentClass;
+    var _us=(typeof matSubj!=='undefined'&&matSubj)||currentSubject;
+    var _un=(typeof matMathUnit!=='undefined'&&matMathUnit)||((typeof matExUnit!=='undefined'&&matExUnit)||0);
+    if(_uc && _us && _un){ r=routeForSubject(_uc, _us); if(r) r=r+'/unit/'+_un; }
+    else if(currentClass && currentSubject){ r=routeForSubject(currentClass, currentSubject); }
+  }catch(e){}
+  return copyRouteLink(r, btn||document.getElementById('matcopylink'));
+}
+
 // save the current test so it can be resumed; false for learn/retry/demo/submitted tests
 function savePausedState(){
   if(!testKey || testLearn || retryMode || demoMode || submitted) return false;
@@ -153146,7 +153341,7 @@ function printTest(){
 }
 function shareTest(k){
   var t=(typeof CHAPTERS!=='undefined'&&CHAPTERS[k])?CHAPTERS[k]:QUESTIONS[k]; if(!t) return;
-  var msg=t.title+' \u2014 practice test on Haseeja Mahar MCQ Tests: https://nasar1234567890.github.io/Nasarullah/?test='+encodeURIComponent(k);
+  var msg=t.title+' \u2014 practice test on Haseeja Mahar MCQ Tests: https://sirnasarullah.pages.dev/#/test/'+encodeURIComponent(k);
   window.open('https://wa.me/?text='+encodeURIComponent(msg), '_blank');
 }
 function startRetry(){
@@ -153269,7 +153464,7 @@ function submitTest(auto){
   });
   document.getElementById('review').innerHTML=html;
   window.scrollTo(0,0);
-  navReplace({view:'result'});
+  navReplace({view:'result', testKey:testKey});
 }
 function shareResult(){ if(!testKey||!lastTotal) return; var pct=Math.round(lastScore/lastTotal*100); var msg=studentName+' \u2014 '+testInfo().title+': '+lastScore+' / '+lastTotal+' ('+pct+'%) \u2014 Try our school MCQ practice tests: https://Nasar1234567890.github.io/Nasarullah/'; window.location.href='https://wa.me/?text='+encodeURIComponent(msg); }
 
@@ -154278,7 +154473,7 @@ function renderExamCountdown(){
   var el=document.getElementById('examCountdown'); if(!el) return;
   el.textContent='';
 }
-function handleDeepLink(){ var q=null; try{ q=new URLSearchParams(window.location.search).get('test'); }catch(e){} if(!q) return; var key=q; var isMain=(typeof QUESTIONS!=='undefined'&&QUESTIONS[key]); var isChap=(typeof CHAPTERS!=='undefined'&&CHAPTERS[key]); if(!isMain&&!isChap) return; var nm=document.getElementById('studentName'); if(nm&&nm.value.trim()){ startTest(key); return; } var parentKey=isChap?CHAPTERS[key].parent:key; var subj=(typeof TEST_SUBJECT!=='undefined')?TEST_SUBJECT[parentKey]:null; if(!subj) return; var cls=null; if(typeof CLASS_TESTS!=='undefined'){ Object.keys(CLASS_TESTS).forEach(function(c){ if(CLASS_TESTS[c].indexOf(parentKey)!==-1) cls=c; }); } if(!cls) return; if(cls==='grammar'){ showGrammarTests(); return; } showClass(cls); showSubject(cls, subj); }
+function handleDeepLink(){ var q=null; try{ q=new URLSearchParams(window.location.search).get('test'); }catch(e){} if(!q) return; openTestLink(q); }
 try{ var _savedName=localStorage.getItem('mcqStudentName'); if(_savedName && validStudentName(_savedName)){ var _inp=document.getElementById('studentName'); if(_inp) _inp.value=cleanStudentName(_savedName); } else if(_savedName){ try{localStorage.removeItem('mcqStudentName');}catch(e){} } }catch(e){}
 applySavedFontSize();
 applySavedNightMode();
@@ -154292,15 +154487,18 @@ renderStreak(); renderGoal(); renderCalendar(); updateOfflineBanner();
 tidyExamBits();
 showFirstGuideIfNeeded();
 handleDeepLink();
+readHashRoute(true);
 // ---- Phone back button: one step back per press ----
 window.addEventListener('popstate', function(e){ navShow(e.state); });
+window.addEventListener('hashchange', function(){ readHashRoute(false); });
 // Save an unfinished test when the page is closed or refreshed, so it can be resumed.
 window.addEventListener('beforeunload', function(){ try{ savePausedState(); }catch(e){} });
 // Stay on the same page after a refresh: the last navigation state survives a reload in this tab.
 try{
   var _st = window.history && history.state;
   var _dl = null; try{ _dl = new URLSearchParams(window.location.search).get('test'); }catch(e){}
-  if(_st && _st.view && _st.view !== 'home' && !_dl){ navShow(_st); }
+  if(routeOpenedAtLoad){ /* the route reader already opened this entry and synced its state */ }
+  else if(_st && _st.view && _st.view !== 'home' && !_dl){ navShow(_st); }
   else if(window.history && history.replaceState){ history.replaceState({view:'home'}, ''); }
 }catch(e){}
 </script>
