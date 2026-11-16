@@ -152448,29 +152448,7 @@ const QUESTIONS = {
 };
 </script>
 <script src="study.js"></script>
-<script src="study-x.js"></script>
 <script src="study-shared.js"></script>
-<script src="study-ix.js"></script>
-<script src="study-viii.js"></script>
-<script src="study-vii.js"></script>
-<script src="study-vi.js"></script>
-<script src="study-v.js"></script>
-<script src="study-xi.js"></script>
-<script src="study-xi-sd.js"></script>
-<script src="study-xii.js"></script>
-<script src="study-iv.js"></script>
-<script src="study-iii.js"></script>
-<script src="study-v-ur.js"></script>
-<script src="study-vi-ur.js"></script>
-<script src="study-vii-ur.js"></script>
-<script src="study-viii-ur.js"></script>
-<script src="study-ix-ur.js"></script>
-<script src="study-x-ur.js"></script>
-<script src="study-grammar.js"></script>
-<script src="study-grammar2.js"></script>
-<script src="study-stbb-en.js"></script>
-<script src="study-stbb-sd.js"></script>
-<script src="study-stbb-ur.js"></script>
 <script>
 let testKey=null, idx=0, answers=[], timerId=null, secondsLeft=1200, submitted=false;
 let flagged=[], retryMode=false, lastWrong=[], lastScore=0, lastTotal=0;
@@ -152917,6 +152895,7 @@ function showSection(cls, sec){
   document.getElementById('classpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'section', cls:cls, sec:sec});
+  if(!lazyGroupIsReady(cls)){ ensureClassFiles(cls).then(function(){ lazyRefreshView(); }, function(){}); }
 }
 var homeClass='vi';
 function selectClassChip(cls){
@@ -152973,14 +152952,19 @@ function showClass(cls){
   document.getElementById('classpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'class', cls:cls});
+  if(!lazyGroupIsReady(cls)){ ensureClassFiles(cls).then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function showSubject(cls, subj){
   currentClass=cls; currentSubject=subj;
   renderTestList(cls, CLASS_NAMES[cls]+' — '+subj, CLASS_TESTS[cls].filter(function(k){ return TEST_SUBJECT[k]===subj; }));
   navPush({view:'subject', cls:cls, subj:subj});
   if(cls==='gk'){ var _mn=document.getElementById('mynotes'); if(_mn) _mn.innerHTML=''; return; }
-  if(typeof renderSubjectMaterial!=='undefined'){ renderSubjectMaterial(cls, subj); }
-  renderMyNotes(cls, subj);
+  if(lazyGroupIsReady(cls)){
+    if(typeof renderSubjectMaterial!=='undefined'){ renderSubjectMaterial(cls, subj); }
+    renderMyNotes(cls, subj);
+  } else {
+    ensureClassFiles(cls).then(function(){ lazyRefreshView(); }, function(){});
+  }
 }
 function renderTestList(cls, title, keys){
   var _sm=document.getElementById('subjectmaterial'); if(_sm) _sm.innerHTML='';
@@ -153241,7 +153225,14 @@ function readHashRoute(fromLoad){
       else { goHome(); opened={view:'home'}; }
     }
     else if(r.kind==='unit'){
-      if(routeSubjectOk(r) && routeUnitExists(r.cls, r.subj, r.unit)){
+      if(!routeSubjectOk(r)){ goHome(); opened={view:'home'}; }
+      else if(!lazyGroupIsReady(lazyGroupForUnit(r.cls, r.subj))){
+        routeLoading=false;
+        var _rg=lazyGroupForUnit(r.cls, r.subj);
+        ensureLazyGroup(_rg).then(function(){ readHashRoute(fromLoad); }, function(){ goHome(); });
+        return;
+      }
+      else if(routeUnitExists(r.cls, r.subj, r.unit)){
         var _isMath=(r.subj||'').indexOf('Mathematics')===0;
         navShow({view:'material', cls:r.cls, subj:r.subj, tab:'exsolutions', unit:r.unit, math:_isMath?1:0});
         opened={view:'material', cls:r.cls, subj:r.subj, tab:'exsolutions', unit:r.unit, math:_isMath?1:0};
@@ -153290,6 +153281,133 @@ function copyUnitLink(btn){
     else if(currentClass && currentSubject){ r=routeForSubject(currentClass, currentSubject); }
   }catch(e){}
   return copyRouteLink(r, btn||document.getElementById('matcopylink'));
+}
+
+// ---- Lazy-loading of study data (Step 4, option (a)) ----
+// The home page loads only index.html + study.js + study-shared.js.
+// Each class's data file loads the first time that class is opened;
+// Grammar files load when the Grammar section is opened; the first
+// search keystroke loads every remaining file, so search stays complete.
+// A file loads with a plain <script> tag (same-origin, served from the
+// service worker cache once fetched). Files inside one group load in
+// order: the main file assigns STUDY.<cls> whole, the companion file
+// only adds properties to it, so the companion must run after the main.
+var LAZY_GROUPS={
+  iii:['study-iii.js'],
+  iv:['study-iv.js'],
+  v:['study-v.js','study-v-ur.js'],
+  vi:['study-vi.js','study-vi-ur.js'],
+  vii:['study-vii.js','study-vii-ur.js'],
+  viii:['study-viii.js','study-viii-ur.js'],
+  ix:['study-ix.js','study-ix-ur.js'],
+  x:['study-x.js','study-x-ur.js'],
+  xi:['study-xi.js','study-xi-sd.js'],
+  xii:['study-xii.js'],
+  grammar:['study-grammar.js','study-grammar2.js'],
+  stbb:['study-stbb-en.js','study-stbb-sd.js','study-stbb-ur.js']
+};
+// Ground truth: the data is present. A group counts as ready when its
+// files have run — whether they were lazy-loaded or were already there.
+var LAZY_READY={
+  iii:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.iii); },
+  iv:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.iv); },
+  v:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.v&&STUDY.v.mathsolutionsUrdu); },
+  vi:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.vi&&STUDY.vi.mathsolutionsUrdu); },
+  vii:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.vii&&STUDY.vii.mathsolutionsUrdu); },
+  viii:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.viii&&STUDY.viii.mathsolutionsUrdu); },
+  ix:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.ix&&STUDY.ix.asanSindhiExsolutions); },
+  x:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.x&&STUDY.x.asanSindhiExsolutions); },
+  xi:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.xi&&STUDY.xi.bioExsolutions); },
+  xii:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.xii); },
+  grammar:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.grammar&&STUDY.grammar2); },
+  stbb:function(){ return !!(typeof STUDY!=='undefined'&&STUDY.stbbEn&&STUDY.stbbSd&&STUDY.stbbUr); }
+};
+var lazyLoading={};
+var lazyLoaded={};
+function lazyGroupIsReady(group){
+  if(!LAZY_GROUPS[group]) return true;
+  if(lazyLoaded[group]) return true;
+  try{ if(LAZY_READY[group] && LAZY_READY[group]()){ lazyLoaded[group]=true; return true; } }catch(e){}
+  return false;
+}
+function lazyAllReady(){
+  return Object.keys(LAZY_GROUPS).every(function(g){ return lazyGroupIsReady(g); });
+}
+function lazyLoadScript(src){
+  return new Promise(function(resolve, reject){
+    var s=document.createElement('script');
+    s.src=src;
+    s.onload=function(){ resolve(); };
+    s.onerror=function(){ reject(new Error('Could not load '+src)); };
+    document.head.appendChild(s);
+  });
+}
+function ensureLazyGroup(group){
+  if(lazyGroupIsReady(group)) return Promise.resolve(true);
+  if(lazyLoading[group]) return lazyLoading[group];
+  var files=LAZY_GROUPS[group]||[];
+  var p=Promise.resolve();
+  files.forEach(function(f){ p=p.then(function(){ return lazyLoadScript(f); }); });
+  p=p.then(function(){ lazyLoaded[group]=true; return true; });
+  p=p.catch(function(err){ delete lazyLoading[group]; throw err; });
+  lazyLoading[group]=p;
+  return p;
+}
+function ensureClassFiles(cls){
+  if(!cls || cls==='gk' || !LAZY_GROUPS[cls]) return Promise.resolve(true);
+  return ensureLazyGroup(cls);
+}
+function ensureGrammarFiles(){ return Promise.all([ensureLazyGroup('grammar'), ensureLazyGroup('stbb')]); }
+function ensureAllFiles(){
+  return Promise.all(Object.keys(LAZY_GROUPS).map(function(g){ return ensureLazyGroup(g); }));
+}
+// The group a guide unit belongs to: the class, or Grammar / STBB.
+function lazyGroupForUnit(cls, subj){
+  if(cls==='grammar' || cls==='grammar2') return 'grammar';
+  if(cls==='stbb') return 'stbb';
+  if(cls && LAZY_GROUPS[cls]) return cls;
+  return null;
+}
+// Re-render the view the student is on after a group loads. The render
+// runs with navFromPop set, so it adds no history entry (the same way
+// the phone back button re-renders). Skipped while a test or result is
+// on screen: re-rendering there would restart the test.
+function lazyRenderState(st){
+  if(!st || !st.view || st.view==='test' || st.view==='result') return;
+  if(st.view==='home'){ goHome(); }
+  else if(st.view==='class'){ if(st.cls) showClass(st.cls); else goHome(); }
+  else if(st.view==='section'){ if(st.cls && st.sec) showSection(st.cls, st.sec); else if(st.cls) showClass(st.cls); else goHome(); }
+  else if(st.view==='subject'){ if(st.cls && st.subj) showSubject(st.cls, st.subj); else if(st.cls) showClass(st.cls); else goHome(); }
+  else if(st.view==='flashcards'){ showFlashcards(); }
+  else if(st.view==='timetable'){ showTimetable(); }
+  else if(st.view==='myresults'){ showMyResults(); }
+  else if(st.view==='guides'){ showGuides(); }
+  else if(st.view==='grammar'){ showGrammar(); }
+  else if(st.view==='grammarbook1'){ showGrammarBook1(); }
+  else if(st.view==='grammarbook2'){ showGrammarBook2(); }
+  else if(st.view==='grammartests'){ showGrammarTests(); }
+  else if(st.view==='grammarlessons'){ showGrammarLessons(); }
+  else if(st.view==='grammar2tests'){ showGrammar2Tests(); }
+  else if(st.view==='grammar2lessons'){ showGrammar2Lessons(); }
+  else if(st.view==='stbbgrammar'){ showStbbGrammar(); }
+  else if(st.view==='stbbclass'){ if(st.cls) showStbbClass(st.cls); else showStbbGrammar(); }
+  else if(st.view==='stbbtopics'){ if(st.cls && st.lang) showStbbTopics(st.cls, st.lang); else showStbbGrammar(); }
+  else if(st.view==='stbbtests'){ if(st.cls && st.lang) showStbbTests(st.cls, st.lang); else showStbbGrammar(); }
+  else if(st.view==='stbblessons'){ if(st.cls && st.lang) showStbbLessons(st.cls, st.lang); else showStbbGrammar(); }
+  else if(st.view==='speeches'){ showSpeeches(); }
+  else if(st.view==='guidesclass'){ if(st.cls) showGuidesClass(st.cls); else showGuides(); }
+  else if(st.view==='install'){ showInstall(); }
+  else if(st.view==='material'){ if(st.cls && st.subj && st.tab){ if(st.unit){ if(st.math) openMathUnit(st.unit, st.cls, st.subj); else { if(st.stbbCls){ window._stbbCls=st.stbbCls; window._stbbLang=st.stbbLang; } openExUnit(st.unit, st.cls, st.subj); } } else openMatPage(st.tab, st.cls, st.subj); } else navFallback(); }
+  else { goHome(); }
+}
+function lazyRefreshView(){
+  var _t=document.getElementById('test'); if(_t && !_t.classList.contains('hidden')) return;
+  var _r=document.getElementById('result'); if(_r && !_r.classList.contains('hidden')) return;
+  var st=null; try{ st=window.history && history.state; }catch(e){}
+  if(!st || !st.view || st.view==='test' || st.view==='result') return;
+  navFromPop=true;
+  try{ lazyRenderState(st); }catch(e){} finally { navFromPop=false; }
+  try{ routeSyncHash=window.location.hash||''; routeSyncAt=Date.now(); }catch(e){}
 }
 
 // save the current test so it can be resumed; false for learn/retry/demo/submitted tests
@@ -153770,6 +153888,7 @@ function showGuidesClass(cls){
   document.getElementById('guidespage').classList.remove('hidden');
   window.scrollTo(0, 0);
   navPush({view:'guidesclass', cls:cls});
+  if(!lazyGroupIsReady(cls)){ ensureClassFiles(cls).then(function(){ lazyRefreshView(); }, function(){}); }
 }
 // ---- Speeches ----
 // Competition speeches (Pakistan: My Life, My Identity, My Pride), 3 per language.
@@ -153859,6 +153978,7 @@ function showGrammar(){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'grammar'});
+  if(!lazyGroupIsReady('grammar') || !lazyGroupIsReady('stbb')){ ensureGrammarFiles().then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function showGrammarBook1(){
   hideAllSections();
@@ -153875,6 +153995,7 @@ function showGrammarBook1(){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'grammarbook1'});
+  if(!lazyGroupIsReady('grammar')){ ensureLazyGroup('grammar').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function showGrammarBook2(){
   hideAllSections();
@@ -153891,6 +154012,7 @@ function showGrammarBook2(){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'grammarbook2'});
+  if(!lazyGroupIsReady('grammar')){ ensureLazyGroup('grammar').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function grammarTestBtnHtml(k){
   var t=QUESTIONS[k]; if(!t) return '';
@@ -153927,6 +154049,7 @@ function showGrammarLessons(){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'grammarlessons'});
+  if(!lazyGroupIsReady('grammar')){ ensureLazyGroup('grammar').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function openGrammarLesson(n){
   currentClass='grammar'; currentSubject='Grammar';
@@ -153963,6 +154086,7 @@ function showGrammar2Lessons(){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'grammar2lessons'});
+  if(!lazyGroupIsReady('grammar')){ ensureLazyGroup('grammar').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function openGrammar2Lesson(n){
   currentClass='grammar2'; currentSubject='Grammar II';
@@ -154018,6 +154142,7 @@ function showStbbGrammar(){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'stbbgrammar'});
+  if(!lazyGroupIsReady('stbb')){ ensureLazyGroup('stbb').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function showStbbClass(cls){
   hideAllSections();
@@ -154037,6 +154162,7 @@ function showStbbClass(cls){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'stbbclass', cls:cls});
+  if(!lazyGroupIsReady('stbb')){ ensureLazyGroup('stbb').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function showStbbTopics(cls, lang){
   hideAllSections();
@@ -154053,6 +154179,7 @@ function showStbbTopics(cls, lang){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'stbbtopics', cls:cls, lang:lang});
+  if(!lazyGroupIsReady('stbb')){ ensureLazyGroup('stbb').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function showStbbTests(cls, lang){
   hideAllSections();
@@ -154080,6 +154207,7 @@ function showStbbLessons(cls, lang){
   document.getElementById('grammarpage').classList.remove('hidden');
   window.scrollTo(0,0);
   navPush({view:'stbblessons', cls:cls, lang:lang});
+  if(!lazyGroupIsReady('stbb')){ ensureLazyGroup('stbb').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function openStbbLesson(cls, lang, n){
   window._stbbCls=cls; window._stbbLang=lang;
@@ -154360,6 +154488,11 @@ function buildSearchIndex(){
 function renderSearch(){
   var inp=document.getElementById('testSearch'); var out=document.getElementById('searchResults'); if(!inp || !out) return;
   var q=inp.value.trim(); if(!q){ out.innerHTML=''; return; }
+  if(!lazyAllReady()){
+    out.innerHTML='<p class="note">Loading\u2026</p>';
+    ensureAllFiles().then(function(){ renderSearch(); }, function(){});
+    return;
+  }
   var words=searchNorm(q).replace(/\bclass (\d+)\b/g,'class$1').split(' ').filter(Boolean).map(function(w){ return SEARCH_SYN[w]||w; });
   if(!words.length){ out.innerHTML=''; return; }
   var hits=buildSearchIndex().filter(function(it){ return words.every(function(w){ return searchWordHit(it.hay,w); }); });
@@ -154426,6 +154559,7 @@ function showFlashcards(){
   document.getElementById('flashcards').classList.remove('hidden');
   setFlashType('all'); window.scrollTo(0,0);
   navPush({view:'flashcards'});
+  if(!lazyGroupIsReady('x')){ ensureClassFiles('x').then(function(){ lazyRefreshView(); }, function(){}); }
 }
 function showTimetable(){
   document.getElementById('home').classList.add('hidden');

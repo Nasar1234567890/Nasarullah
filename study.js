@@ -313,6 +313,22 @@ function openMatPage(tab, cls, subj){
   if(!matCls) matCls = currentClass;
   if(!matSubj) matSubj = currentSubject;
   var c = matCls, s = matSubj;
+  // Guide data not loaded yet (first visit, deep link or back button):
+  // show a loading note, load the group, then open the page again.
+  var _lg = (typeof lazyGroupForUnit === 'function') ? lazyGroupForUnit(c, s) : null;
+  if(_lg && typeof lazyGroupIsReady === 'function' && typeof ensureLazyGroup === 'function' && !lazyGroupIsReady(_lg)){
+    var _mp0 = document.getElementById("matpage");
+    if(_mp0){
+      document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + (tab === "exsolutions" ? guideLabel(s) : tab);
+      document.getElementById("matcontent").innerHTML = "<p class=\"note\">Loading\u2026</p>";
+      document.getElementById("subjectpage").classList.add("hidden");
+      var _gp0 = document.getElementById("grammarpage"); if(_gp0) _gp0.classList.add("hidden");
+      _mp0.classList.remove("hidden");
+      window.scrollTo(0, 0);
+    }
+    ensureLazyGroup(_lg).then(function(){ openMatPage(tab, c, s); }, function(){});
+    return;
+  }
   var data = null;
   if(c === "x") data = STUDY.x;
   else if(c === "grammar") data = STUDY.grammar;
@@ -400,6 +416,22 @@ function openExUnit(n, cls, subj){
   if(!matCls) matCls = currentClass;
   if(!matSubj) matSubj = currentSubject;
   var c = matCls, s = matSubj;
+  // Guide data not loaded yet (first visit, deep link or back button):
+  // show a loading note, load the group, then open the page again.
+  var _lg = (typeof lazyGroupForUnit === 'function') ? lazyGroupForUnit(c, s) : null;
+  if(_lg && typeof lazyGroupIsReady === 'function' && typeof ensureLazyGroup === 'function' && !lazyGroupIsReady(_lg)){
+    var _mp0 = document.getElementById("matpage");
+    if(_mp0){
+      document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + "Unit " + n;
+      document.getElementById("matcontent").innerHTML = "<p class=\"note\">Loading\u2026</p>";
+      document.getElementById("subjectpage").classList.add("hidden");
+      var _gp0 = document.getElementById("grammarpage"); if(_gp0) _gp0.classList.add("hidden");
+      _mp0.classList.remove("hidden");
+      window.scrollTo(0, 0);
+    }
+    ensureLazyGroup(_lg).then(function(){ openExUnit(n, c, s); }, function(){});
+    return;
+  }
   var data = null;
   if(c === "x") data = STUDY.x;
   else if(c === "grammar") data = STUDY.grammar;
@@ -583,6 +615,22 @@ function openMathUnit(n, cls, subj){
   if(!matCls) matCls = currentClass;
   if(!matSubj) matSubj = currentSubject;
   var c = matCls, s = matSubj;
+  // Guide data not loaded yet (first visit, deep link or back button):
+  // show a loading note, load the group, then open the page again.
+  var _lg = (typeof lazyGroupForUnit === 'function') ? lazyGroupForUnit(c, s) : null;
+  if(_lg && typeof lazyGroupIsReady === 'function' && typeof ensureLazyGroup === 'function' && !lazyGroupIsReady(_lg)){
+    var _mp0 = document.getElementById("matpage");
+    if(_mp0){
+      document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + "Unit " + n;
+      document.getElementById("matcontent").innerHTML = "<p class=\"note\">Loading\u2026</p>";
+      document.getElementById("subjectpage").classList.add("hidden");
+      var _gp0 = document.getElementById("grammarpage"); if(_gp0) _gp0.classList.add("hidden");
+      _mp0.classList.remove("hidden");
+      window.scrollTo(0, 0);
+    }
+    ensureLazyGroup(_lg).then(function(){ openMathUnit(n, c, s); }, function(){});
+    return;
+  }
   var data = null;
   if(c === "x") data = STUDY.x;
   else if(s === "English") data = STUDY.shared;
