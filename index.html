@@ -154478,6 +154478,7 @@ function buildSearchIndex(){
   Object.keys(CLASS_SUBJECTS).forEach(function(cls){
     (CLASS_SUBJECTS[cls]||[]).forEach(function(subj){
       var data=guideDataFor(cls, subj); if(!data) return;
+      if(data.noGuide) return;
       var isMaths=subj.indexOf('Mathematics')===0;
       var arr=isMaths?(data.mathsolutions||[]):(data.exsolutions||[]);
       if(!arr.length) return;
