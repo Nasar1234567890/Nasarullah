@@ -152477,18 +152477,23 @@ const PERQ_ENTRY_ID='';
 // If the form is ever replaced, update the ID, the five entry IDs and the fbzx below.
 const RESULT_FORM_ID='1FAIpQLSdQ9F-59I-ZPu-DyTGEjcjleV-C_cMAepaulF1jLPFykUseEQ';
 function sendResultPayload(payload, allowQueue){
+  // Submit via a hidden form (target=hidden iframe), NOT fetch: fetch/no-cors
+  // posts to this form arrive with all fields blank (verified 2026-11-20 —
+  // the site post, curl with the live fbzx, and curl with extra params all
+  // landed timestamp-only; only a real browser form submit stored fields).
+  // fbzx below was read from the live viewform on 2026-11-20; if the form
+  // is edited, re-capture it from the viewform page.
   try{
     if(!RESULT_FORM_ID) return; // no result destination configured yet
-    const body=new URLSearchParams();
-    body.append('entry.842780827', payload.name);
-    body.append('entry.1785242966', payload.title);
-    body.append('entry.1841125186', String(payload.score));
-    body.append('entry.2072748081', String(payload.pct));
-    body.append('entry.1071313380', payload.date);
-    if(payload.detail && PERQ_ENTRY_ID) body.append('entry.'+PERQ_ENTRY_ID, payload.detail);
-    body.append('fvv','1'); body.append('draftResponse','[]'); body.append('pageHistory','0'); body.append('fbzx','8880826475464824037');
-    var pr=fetch('https://docs.google.com/forms/d/e/'+RESULT_FORM_ID+'/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
-    if(pr && typeof pr.catch==='function'){ pr.catch(function(){ if(allowQueue) queueResult(payload); }); }
+    var fr=document.getElementById('mcqResultFrame');
+    if(!fr){ fr=document.createElement('iframe'); fr.id='mcqResultFrame'; fr.name='mcqResultFrame'; fr.style.display='none'; document.body.appendChild(fr); }
+    var f=document.createElement('form');
+    f.method='POST'; f.action='https://docs.google.com/forms/d/e/'+RESULT_FORM_ID+'/formResponse'; f.target='mcqResultFrame'; f.style.display='none';
+    var fields=[['entry.842780827',payload.name],['entry.1785242966',payload.title],['entry.1841125186',String(payload.score)],['entry.2072748081',String(payload.pct)],['entry.1071313380',payload.date],['fvv','1'],['pageHistory','0'],['fbzx','8164207384199101632'],['partialResponse','[null,null,"8164207384199101632"]'],['submissionTimestamp','-1']];
+    if(payload.detail && PERQ_ENTRY_ID) fields.push(['entry.'+PERQ_ENTRY_ID, payload.detail]);
+    fields.forEach(function(p){ var i=document.createElement('input'); i.type='hidden'; i.name=p[0]; i.value=p[1]; f.appendChild(i); });
+    document.body.appendChild(f); f.submit();
+    setTimeout(function(){ if(f.parentNode) f.parentNode.removeChild(f); },5000);
   }catch(e){ if(allowQueue) queueResult(payload); }
 }
 function flushResultQueue(){
