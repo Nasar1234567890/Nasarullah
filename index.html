@@ -100093,7 +100093,7 @@ const QUESTIONS = {
    "answer": 3
   },
   {
-   "q": "هيٺين مان ڪهڙو اکي عدد آهي؟",
+   "q": "هيٺين مان ڪهڙو ٻڌي عدد آهي؟",
    "options": [
     "83",
     "15",
@@ -100103,7 +100103,7 @@ const QUESTIONS = {
    "answer": 2
   },
   {
-   "q": "هيٺين مان ڪهڙو بيتي عدد آهي؟",
+   "q": "هيٺين مان ڪهڙو اڪي عدد آهي؟",
    "options": [
     "71",
     "30",
@@ -100113,24 +100113,24 @@ const QUESTIONS = {
    "answer": 0
   },
   {
-   "q": "30 کان پوءِ پهريون بيتي عدد ڪهڙو آهي؟",
+   "q": "30 کان پوءِ پهريون ٻڌي عدد ڪهڙو آهي؟",
    "options": [
     "33",
     "31",
     "30",
     "32"
    ],
-   "answer": 1
+   "answer": 3
   },
   {
-   "q": "50 کان پوءِ پهريون اکي عدد ڪهڙو آهي؟",
+   "q": "50 کان پوءِ پهريون اڪي عدد ڪهڙو آهي؟",
    "options": [
     "52",
     "50",
     "51",
     "54"
    ],
-   "answer": 0
+   "answer": 2
   }
  ]
 },
@@ -153596,7 +153596,8 @@ function submitTest(auto){
     const yours=answers[i]===null?'Not answered':('('+letters[answers[i]]+') '+optHtml(q.options[answers[i]]));
     const corr='('+letters[q.answer]+') '+optHtml(q.options[q.answer]);
     const ok=answers[i]===q.answer;
-    html+='<div class="review"><div class="qq"'+(/[\u0600-\u06FF]/.test(q.q||'')?'':' dir="ltr"')+'><b>Q'+(i+1)+'.</b> '+formatQuestion(q.q)+'</div>'
+    var _qd=(/[\u0600-\u06FF]/.test(q.q||''))?'rtl':'ltr';
+    html+='<div class="review"><div class="qq"'+(_qd==='ltr'?' dir="ltr"':'')+'><b>Q'+(i+1)+'.</b> <span dir="'+_qd+'" style="unicode-bidi:isolate">'+formatQuestion(q.q)+'</span></div>'
       +'<div>Your answer: <span class="'+(ok?'correct':'wrong')+'">'+yours+'</span></div>'
       +'<div>Correct answer: <span class="correct">'+corr+'</span></div></div>';
   });
