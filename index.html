@@ -152472,8 +152472,13 @@ const letters=['A','B','C','D'];
 let studentName="";
 function queueResult(payload){ try{ var q=JSON.parse(localStorage.getItem('mcqResultQueue')||'[]'); q.push(payload); q=q.slice(-50); localStorage.setItem('mcqResultQueue', JSON.stringify(q)); }catch(e){} }
 const PERQ_ENTRY_ID='';
+// Google Form that receives test results. Empty until the new form ID is added;
+// while empty, results are NOT sent anywhere. When the new ID is added here,
+// also update the fbzx value below to the new form's current fbzx.
+const RESULT_FORM_ID='';
 function sendResultPayload(payload, allowQueue){
   try{
+    if(!RESULT_FORM_ID) return; // no result destination configured yet
     const body=new URLSearchParams();
     body.append('entry.405524197', payload.name);
     body.append('entry.1697901976', payload.title);
@@ -152482,7 +152487,7 @@ function sendResultPayload(payload, allowQueue){
     body.append('entry.1703878082', payload.date);
     if(payload.detail && PERQ_ENTRY_ID) body.append('entry.'+PERQ_ENTRY_ID, payload.detail);
     body.append('fvv','1'); body.append('draftResponse','[]'); body.append('pageHistory','0'); body.append('fbzx','1284267405081931998');
-    var pr=fetch('https://docs.google.com/forms/d/e/1FAIpQLSfMGZXvdzqOO_fa2V5AW3sDqa86zWKTEu6UhiFQNGPJ6X-wdw/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
+    var pr=fetch('https://docs.google.com/forms/d/e/'+RESULT_FORM_ID+'/formResponse', {method:'POST', mode:'no-cors', headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:body});
     if(pr && typeof pr.catch==='function'){ pr.catch(function(){ if(allowQueue) queueResult(payload); }); }
   }catch(e){ if(allowQueue) queueResult(payload); }
 }
