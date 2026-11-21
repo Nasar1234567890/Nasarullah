@@ -496,13 +496,19 @@ function exUnitHtml(n){
   var _sci = ((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0 || (matSubj || "").indexOf("Computer Science") === 0 || (matSubj || "").indexOf("Science") === 0);
   if((matSubj === "English" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "en")) && u.display) html += "<p class=\"pro-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
   html += "<div class=\"pro-toc\"><div class=\"pro-toc-title\">In this unit</div>";
+  var _hasSummary = !!(u.summary && u.summary.length);
+  if(_hasSummary) html += "<button class=\"pro-toc-row\" onclick=\"jumpExSummary(" + n + ")\"><b>Summary</b> \u062e\u0644\u0627\u0635\u0648</button>";
   if(u.lesson && u.lesson.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExLesson(" + n + ")\"><b>Lesson</b> Definitions, rules and examples</button>";
+  if(_hasSummary && u.words && u.words.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExWords(" + n + ")\"><b>Words</b> Difficult Words \u2014 " + u.words.length + " words</button>";
   (u.sections || []).forEach(function(sec, i){
     var _cnt = 0; (sec.exercises || []).forEach(function(g){ _cnt += (g.items || []).length; });
     html += "<button class=\"pro-toc-row\" onclick=\"jumpEx(" + n + "," + (i + 1) + ")\"><b>" + escHtml(sec.num) + "</b> " + escHtml(sec.name) + " \u2014 " + _cnt + " questions</button>";
   });
-  if(u.words && u.words.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExWords(" + n + ")\"><b>Words</b> Difficult Words \u2014 " + u.words.length + " words</button>";
+  if(!_hasSummary && u.words && u.words.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExWords(" + n + ")\"><b>Words</b> Difficult Words \u2014 " + u.words.length + " words</button>";
   html += "</div>";
+  if(_hasSummary){
+    html += "<div class=\"review\" id=\"ex-" + n + "-summary\"><div class=\"qq exsec\"><b><u>\u062e\u0644\u0627\u0635\u0648</u></b></div><p class=\"note\" dir=\"rtl\">" + escHtml(u.summary) + "</p></div>";
+  }
   if(u.lesson && u.lesson.length){
     html += "<div class=\"review\" id=\"ex-" + n + "-lesson\">";
     u.lesson.forEach(function(b){
@@ -517,6 +523,21 @@ function exUnitHtml(n){
     });
     html += "</div>";
   }
+  var _wordsHtml = ""; if(u.words && u.words.length){
+    var wordsTitle = ((matSubj || "").indexOf("Sindhi") === 0) ? "Difficult Words \u2014 Sindhi Meaning and Synonym" : (((matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || (matSubj || "") === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "ur")) ? "Difficult Words \u2014 Urdu Meaning and Synonym" : "Difficult Words \u2014 Sindhi Meaning and English Synonym");
+    _wordsHtml += "<div class=\"review\" id=\"ex-" + n + "-words\"><div class=\"qq exsec\"><b><u>" + wordsTitle + "</u></b></div>";
+    var _enW = (matSubj === "English" || (matSubj || "").indexOf("English Version") >= 0 || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "en"));
+    var _urduW = (matSubj === "Asan Urdu" || matSubj === "Urdu Salees" || matSubj === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "ur"));
+    var _h3 = _enW ? "Sindhi meaning" : ((_urduW || matSubj === "Sindhi") ? "Synonym" : "English");
+    _wordsHtml += "<table class=\"pro-words\"><thead><tr><th>Word</th><th>Meaning</th><th>" + _h3 + "</th></tr></thead><tbody>";
+    u.words.forEach(function(w){
+      var _m = _enW ? w.syn : w.sd, _x = _enW ? w.sd : w.syn;
+      _wordsHtml += "<tr><td><b>" + (_sci ? chemHtml(w.w) : escHtml(w.w)) + "</b></td><td>" + (_sci ? chemHtml(_m) : escHtml(_m)) + "</td><td" + (_enW ? " class=\"sd\"" : "") + ">" + (_sci ? chemHtml(_x) : escHtml(_x)) + "</td></tr>";
+    });
+    _wordsHtml += "</tbody></table>";
+    _wordsHtml += "</div>";
+  }
+  if(_hasSummary) html += _wordsHtml;
   (u.sections || []).forEach(function(sec, i){
     html += "<div class=\"review\" id=\"ex-" + n + "-" + (i + 1) + "\"><div class=\"qq exsec\"><b><u>" + escHtml(sec.num) + " " + escHtml(sec.name) + "</u></b></div>";
     var _isExtras = /additional|وڌيڪ/i.test(sec.name || "");
@@ -532,25 +553,13 @@ function exUnitHtml(n){
     });
     html += "</div>";
   });
-  if(u.words && u.words.length){
-    var wordsTitle = ((matSubj || "").indexOf("Sindhi") === 0) ? "Difficult Words \u2014 Sindhi Meaning and Synonym" : (((matSubj || "") === "Asan Urdu" || (matSubj || "") === "Urdu Salees" || (matSubj || "") === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "ur")) ? "Difficult Words \u2014 Urdu Meaning and Synonym" : "Difficult Words \u2014 Sindhi Meaning and English Synonym");
-    html += "<div class=\"review\" id=\"ex-" + n + "-words\"><div class=\"qq exsec\"><b><u>" + wordsTitle + "</u></b></div>";
-    var _enW = (matSubj === "English" || (matSubj || "").indexOf("English Version") >= 0 || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "en"));
-    var _urduW = (matSubj === "Asan Urdu" || matSubj === "Urdu Salees" || matSubj === "Gulzar-E-Urdu" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "ur"));
-    var _h3 = _enW ? "Sindhi meaning" : ((_urduW || matSubj === "Sindhi") ? "Synonym" : "English");
-    html += "<table class=\"pro-words\"><thead><tr><th>Word</th><th>Meaning</th><th>" + _h3 + "</th></tr></thead><tbody>";
-    u.words.forEach(function(w){
-      var _m = _enW ? w.syn : w.sd, _x = _enW ? w.sd : w.syn;
-      html += "<tr><td><b>" + (_sci ? chemHtml(w.w) : escHtml(w.w)) + "</b></td><td>" + (_sci ? chemHtml(_m) : escHtml(_m)) + "</td><td" + (_enW ? " class=\"sd\"" : "") + ">" + (_sci ? chemHtml(_x) : escHtml(_x)) + "</td></tr>";
-    });
-    html += "</tbody></table>";
-    html += "</div>";
-  }
+  if(!_hasSummary) html += _wordsHtml;
   return html;
 }
 // Jump to one section of an exercise-solution unit page.
 function jumpEx(n, m){ var el = document.getElementById("ex-" + n + "-" + m); if(el) el.scrollIntoView(); }
 function jumpExLesson(n){ var el = document.getElementById("ex-" + n + "-lesson"); if(el) el.scrollIntoView(); }
+function jumpExSummary(n){ var el = document.getElementById("ex-" + n + "-summary"); if(el) el.scrollIntoView(); }
 function jumpExWords(n){ var el = document.getElementById("ex-" + n + "-words"); if(el) el.scrollIntoView(); }
 // Back from a material page: from a unit page go to the unit list, else to the subject page.
 function backFromMatPage(){
