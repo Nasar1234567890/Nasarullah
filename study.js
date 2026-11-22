@@ -140,6 +140,8 @@ function guideLangWord(subj){
 // Label shown when a Maths subject has only the English guide.
 function mathsEnglishNote(subj){
   var w = guideLangWord(subj);
+  if(w === "Urdu") return tr('mathsEnglishUrdu');
+  if(w === "Sindhi") return tr('mathsEnglishSindhi');
   return w ? "English guide \u2014 " + w + " version not available yet." : "English guide.";
 }
 // Data-selection for one (class, subject) guide — the same selection
@@ -224,7 +226,7 @@ function renderSubjectMaterial(cls, subj){
   if(_gb) _gb.innerHTML = _guideTab ? "<p><button class=\"modebtn\" onclick=\"openMatPage('exsolutions')\">" + escHtml(_guideTab[1]) + "</button></p>" : "";
   var html = "<h3>Study Material</h3>";
   if(data && data.noGuide){
-    html += "<p class=\"note\">No guide yet for this subject.</p>";
+    html += "<p class=\"note\">" + tr('noGuideYet') + "</p>";
   } else if(data && data.mathsEnglish){
     html += "<p class=\"note\">" + mathsEnglishNote(subj) + "</p>";
   }
@@ -330,7 +332,7 @@ if((s || "").indexOf("Mathematics") === 0 && (s || "").indexOf("Urdu") >= 0 && S
     document.getElementById("mattitle").textContent = (s ? s + " \u2014 " : "") + guideLabel(s);
     var _siN = document.getElementById("matSearchPage");
     if(_siN){ _siN.value = ""; try{ _siN.placeholder = tr('matSearchPlaceholder'); }catch(e){} }
-    document.getElementById("matcontent").innerHTML = "<p class=\"note\">No guide yet for this subject.</p>";
+    document.getElementById("matcontent").innerHTML = "<p class=\"note\">" + tr('noGuideYet') + "</p>";
     document.getElementById("matcontent").dir = "ltr";
     document.getElementById("matcontent").classList.remove("pro-guide");
     document.getElementById("matcontent").classList.remove("urdu-mat");
