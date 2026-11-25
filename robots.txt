@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sirnasarullah.pages.dev/sitemap.xml
