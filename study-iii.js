@@ -2753,6 +2753,202 @@ STUDY.iii = {
       ]
     }
   ],
+    "lessonTexts": [
+      {
+        "bookPages": "2-3",
+        "lesson": "The Treasure",
+        "paragraphs": [
+          {
+            "en": "A farmer had five sons. He worked on his fields alone. He sent his sons to school and gave them everything they needed. They became strong, young men. But they were lazy and selfish. They fought with one another all the time.",
+            "sd": "هڪ هاريءَ جا پنج پٽ هئا. هو پنهنجي ٻنين تي اڪيلو ڪم ڪندو هو. هن پنهنجن پٽن کي اسڪول موڪليو ۽ کين هر شيءِ ڏني جيڪا کين گهربل هئي. هو مضبوط ۽ جوان ماڻهو بڻجي ويا. پر هو سست ۽ خودغرض هئا. هو هر وقت هڪ ٻئي سان وڙھندا هئا.",
+            "ur": "ایک کسان کے پانچ بیٹے تھے۔ وہ اپنے کھیتوں میں اکیلا کام کرتا تھا۔ اس نے اپنے بیٹوں کو اسکول بھیجا اور انہیں ہر وہ چیز دی جس کی انہیں ضرورت تھی۔ وہ مضبوط، جوان آدمی بن گئے۔ لیکن وہ سست اور خود غرض تھے۔ وہ ہر وقت ایک دوسرے سے لڑتے تھے۔"
+          },
+          {
+            "en": "When the farmer grew old, he became worried. He wanted his sons to work and love one another. One day he called his sons and said, “I am very old; I cannot work any more. There is no money for food. Now, you have to work.”",
+            "sd": "جڏهن هاري پوڙهو ٿي ويو، تڏهن هو پريشان ٿي ويو. هو چاهيندو هو ته هن جا پٽ ڪم ڪن ۽ هڪ ٻئي سان پيار ڪن. هڪ ڏينهن هن پنهنجن پٽن کي سڏيو ۽ چيو، 'آءٌ تمام پوڙهو آهيان؛ آءٌ وڌيڪ ڪم نٿو ڪري سگھان. کاڌي لاءِ پئسا ناهن. هاڻي، توهان کي ڪم ڪرڻو پوندو.'",
+            "ur": "جب کسان بوڑھا ہو گیا تو وہ پریشان ہو گیا۔ وہ چاہتا تھا کہ اس کے بیٹے کام کریں اور ایک دوسرے سے محبت کریں۔ ایک دن اس نے اپنے بیٹوں کو بلایا اور کہا، 'میں بہت بوڑھا ہوں؛ میں مزید کام نہیں کر سکتا۔ کھانے کے لیے پیسے نہیں ہیں۔ اب تمہیں کام کرنا ہو گا۔'"
+          },
+          {
+            "en": "His sons were angry. No one wanted to work. They started shouting and fighting. The old farmer said, 'Stop fighting! I will tell you a secret. There is gold in the field. Go and find it.' The boys dug up the field but there was no gold. They were tired and upset.",
+            "sd": "هن جا پٽ ڪاوڙجي ويا. ڪنهن کي بهي ڪم ڪرڻ نه پئي چاهيو. هنن رڙيون ڪرڻ ۽ وڙھڻ شروع ڪيو. پوڙهي هاري چيو، 'وڙھڻ بند ڪريو! آءٌ توهان کي هڪ راز ٻڌائيندس. ٻنيءَ ۾ سون آهي. وڃو ۽ اهو ڳوليو.' ڇوڪرن ٻني کوٽي پر اتي سون نه هو. هو ٿڪجي ويا ۽ اداس ٿي ويا.",
+            "ur": "اس کے بیٹے غصے میں آ گئے۔ کوئی کام کرنا نہیں چاہتا تھا۔ وہ چیخنے اور لڑنے لگے۔ بوڑھے کسان نے کہا، 'لڑنا بند کرو! میں تمہیں ایک راز بتاؤں گا۔ کھیت میں سونا ہے۔ جاؤ اور اسے ڈھونڈو۔' لڑکوں نے کھیت کھودا لیکن وہاں سونا نہیں تھا۔ وہ تھک گئے اور پریشان ہو گئے۔"
+          },
+          {
+            "en": "The farmer said, “sow some seeds in the field. Very soon you will have your gold.” The young men were very sorry. They sowed the seeds and had a good crop. They sold it in the market for a good price. As a result, they decided to work hard and not to fight with one another.",
+            "sd": "هاري چيو، 'ٻنيءَ ۾ ڪجهه ٻج پوکيو. تمام جلد توهان کي پنهنجو سون ملندو.' جوان ماڻهو تمام گهڻا شرمسار ٿيا. هنن ٻج پوکيا ۽ سٺو فصل لڌو. هنن اهو بازار ۾ سٺي اگھه تي وڪيو. نتيجي طور، هنن سخت محنت ڪرڻ ۽ هڪ ٻئي سان نه وڙھڻ جو فيصلو ڪيو.",
+            "ur": "کسان نے کہا، 'کھیت میں کچھ بیج بوؤ۔ بہت جلد تمہیں اپنا سونا مل جائے گا۔' جوان آدمی بہت شرمندہ ہوئے۔ انہوں نے بیج بوئے اور اچھی فصل حاصل کی۔ انہوں نے اسے بازار میں اچھی قیمت پر بیچ دیا۔ نتیجے کے طور پر، انہوں نے سخت محنت کرنے اور ایک دوسرے سے نہ لڑنے کا فیصلہ کیا۔"
+          }
+        ],
+        "section": "1.2",
+        "unit": 1,
+        "unitTitle": "Unit 1"
+      },
+      {
+        "bookPages": "16-17",
+        "lesson": "Healthy Eating Habits (Part I)",
+        "paragraphs": [
+          {
+            "en": "Farah and Salma are good friends. They go to the same school. They are classmates too. Salma is strong and healthy. She likes fresh fruits and vegetables. Her mother cooks simple and tasty food. She loves her mother's cooking.",
+            "sd": "فرح ۽ سلمه سٺيون دوستون آهن. اهي ساڳئي اسڪول ۾ وڃن ٿيون. اهي هم جماعت به آهن. سلمه مضبوط ۽ صحتمند آهي. هن کي تازا ميوا ۽ ڀاڄيون وڻن ٿيون. هن جي ماءُ سادو ۽ لذيذ کاڌو پچائيندي آهي. هن کي پنهنجي ماءُ جو پچايل کاڌو گھڻو وڻندو آهي.",
+            "ur": "فرح اور سلمیٰ اچھی دوست ہیں۔ وہ ایک ہی اسکول میں جاتی ہیں۔ وہ ہم جماعت بھی ہیں۔ سلمیٰ مضبوط اور صحت مند ہے۔ اسے تازہ پھل اور سبزیاں پسند ہیں۔ اس کی امی سادہ اور مزے دار کھانا پکاتی ہے۔ اسے اپنی امی کے ہاتھ کا کھانا بہت پسند ہے۔"
+          },
+          {
+            "en": "Farah is not strong. She is weak and thin. She does not eat simple food. She likes burgers and spicy food. At school, she eats spicy snacks and sweets. Farah and Salma sometimes share their food.",
+            "sd": "فرح مضبوط ناهي. هوءَ ڪمزور ۽ پتلي آهي. هوءَ سادو کاڌو ناهي کائيندي. هن کي برگر ۽ مصالحيدار کاڌو وڻندو آهي. اسڪول ۾ هوءَ مصالحيدار ناشتو ۽ مٺايون کائيندي آهي. فرح ۽ سلمه ڪڏهن ڪڏهن پنهنجو کاڌو هڪ ٻئي سان ونڊينديون آهن.",
+            "ur": "فرح مضبوط نہیں ہے۔ وہ کمزور اور پتلی ہے۔ وہ سادہ کھانا نہیں کھاتی۔ اسے برگر اور مصالحے دار کھانا پسند ہے۔ اسکول میں وہ مصالحے دار ناشتہ اور مٹھائیاں کھاتی ہے۔ فرح اور سلمیٰ کبھی کبھی اپنا کھانا ایک دوسرے کے ساتھ بانٹتی ہیں۔"
+          },
+          {
+            "en": "One day, Farah ate a spicy bun-kabab in the break. She also had a glass of sherbet and an ice-candy. She bought those things from outside the school gate. Soon, she fell sick.",
+            "sd": "هڪ ڏينهن، فرح وقفي ۾ مصالحيدار بن ڪباب کاڌو. هن هڪ گلاس شربت پيتو ۽ هڪ آئيس ڪينڊي به کاڌي. هن اهي شيون اسڪول جي دروازي کان ٻاهر خريديون. جلد ئي هوءَ بيمار ٿي پئي.",
+            "ur": "ایک دن فرح نے وقفے میں مصالحے دار بن کباب کھایا۔ اس نے ایک گلاس شربت بھی پیا اور ایک آئس کینڈی بھی کھائی۔ یہ چیزیں اس نے اسکول کے دروازے کے باہر سے خریدیں۔ جلد ہی وہ بیمار پڑ گئی۔"
+          },
+          {
+            "en": "Next day, Farah did not go to school. She had a stomach-ache and fever. Her father took her to the doctor. The doctor gave her medicine. The doctor said to her, \"Take rest. Drink lots of water. No spicy food!\"",
+            "sd": "ٻئي ڏينهن، فرح اسڪول نه وئي. هن جي پيٽ ۾ سور ۽ بخار هو. هن جو پيءُ هن کي ڊاڪٽر وٽ وٺي ويو. ڊاڪٽر هن کي دوا ڏني. ڊاڪٽر هن کي چيو، \"آرام ڪر. گھڻو پاڻي پيءُ. مصالحيدار کاڌو نه کاءُ!\"",
+            "ur": "اگلے دن فرح اسکول نہیں گئی۔ اس کے پیٹ میں درد اور بخار تھا۔ اس کے ابو اسے ڈاکٹر کے پاس لے گئے۔ ڈاکٹر نے اسے دوا دی۔ ڈاکٹر نے اس سے کہا، \"آرام کرو۔ بہت سا پانی پیو۔ مصالحے دار کھانا بالکل نہ کھاؤ!\""
+          },
+          {
+            "en": "In the evening, Salma and her mother came to see Farah. Farah said, \"I will never eat food sold outside the school gate. The doctor said that open food has germs. If we want to be healthy, we must eat healthy food.\"",
+            "sd": "شام جو، سلمه ۽ هن جي ماءُ فرح کي ڏسڻ آيون. فرح چيو، \"مان ڪڏهن به اسڪول جي دروازي کان ٻاهر وڪرو ٿيندڙ کاڌو نه کائينديس. ڊاڪٽر چيو ته کليل کاڌي ۾ جراثيم هوندا آهن. جيڪڏهن اسان صحتمند رھڻ چاهيون ٿا ته اسان کي صحتمند کاڌو کائڻ گھرجي.\"",
+            "ur": "شام کو سلمیٰ اور اس کی امی فرح کو دیکھنے آئیں۔ فرح نے کہا، \"میں اسکول کے دروازے کے باہر بکنے والا کھانا کبھی نہیں کھاؤں گی۔ ڈاکٹر نے کہا کہ کھلے کھانے میں جراثیم ہوتے ہیں۔ اگر ہم صحت مند رہنا چاہتے ہیں تو ہمیں صحت مند کھانا کھانا چاہیے۔"
+          }
+        ],
+        "section": "2.2",
+        "unit": 2,
+        "unitTitle": "Unit 2"
+      },
+      {
+        "bookPages": "28-29",
+        "lesson": "Safety Measures",
+        "paragraphs": [
+          {
+            "en": "One day Sajid was going to school. He saw a little girl walking with her mother on the foot path. The girl had a ball in her hand. The ball fell from her hand and went rolling onto the road. The girl ran after the ball.",
+            "sd": "هڪ ڏينهن ساجد اسڪول وڃي رھيو هو. هن هڪ ننڍڙي ڇوڪري کي ڏٺو جيڪا پنهنجي ماءُ سان گڏ فٽ پاٿ تي هلي رھي هئي. ڇوڪري جي هٿ ۾ هڪ بال هو. بال هن جي هٿ مان ڪري روڊ تي وڃي ڦرڻ لڳو. ڇوڪري بال جي پٺيان ڊوڙي وئي.",
+            "ur": "ایک دن ساجد اسکول جا رہا تھا۔ اس نے ایک چھوٹی سی لڑکی کو دیکھا جو اپنی ماں کے ساتھ فٹ پاتھ پر چل رہی تھی۔ لڑکی کے ہاتھ میں ایک گیند تھی۔ گیند اس کے ہاتھ سے گر کر سڑک پر لڑھکنے لگی۔ لڑکی گیند کے پیچھے دوڑ پڑی۔"
+          },
+          {
+            "en": "Sajid put his bag down and grabbed her just in time. A car was coming from behind them at high speed. The driver also stopped the car just in time. The girl was very scared. The girl's mother and the driver of the car thanked Sajid. He had saved the little girl.",
+            "sd": "ساجد پنهنجو ٿيلهو هيٺ رکيو ۽ هن کي بلڪل وقت تي پڪڙي ورتو. هڪ ڪار پٺيان کان تيز رفتاري سان اچي رھي هئي. ڊرائيور بهي ڪار کي بلڪل وقت تي روڪي ورتو. ڇوڪري تمام گهڻو ڊڄي وئي هئي. ڇوڪري جي ماءُ ۽ ڪار جي ڊرائيور ساجد جو شڪريو ادا ڪيو. هن ننڍڙي ڇوڪري کي بچايو هو.",
+            "ur": "ساجد نے اپنا بستہ نیچے رکھا اور اسے عین وقت پر پکڑ لیا۔ ایک گاڑی پیچھے سے تیز رفتاری سے آ رہی تھی۔ ڈرائیور نے بھی گاڑی کو عین وقت پر روک لیا۔ لڑکی بہت ڈر گئی تھی۔ لڑکی کی ماں اور گاڑی کے ڈرائیور نے ساجد کا شکریہ ادا کیا۔ اس نے ننھی لڑکی کو بچا لیا تھا۔"
+          },
+          {
+            "en": "As children grow up, they learn to do many things for themselves. They must also learn to keep themselves and others safe. Sajid's parents have given a motto to the family. The motto is SAFETY FIRST.",
+            "sd": "جيئن جيئن ٻار وڏا ٿين ٿا، تيئن هو پاڻ لاءِ گهڻا ڪم ڪرڻ سکڻ ٿا. انهن کي پنهنجي ۽ ٻين جي حفاظت ڪرڻ بهي سکڻ گهرجي. ساجد جي ماءُ پيءُ خاندان کي هڪ نعرو ڏنو آهي. اهو نعرو آهي: حفاظت پهرين.",
+            "ur": "جیسے جیسے بچے بڑے ہوتے ہیں، وہ اپنے لیے بہت سے کام کرنا سیکھتے ہیں۔ انہیں اپنی اور دوسروں کی حفاظت کرنا بھی سیکھنا چاہیے۔ ساجد کے والدین نے خاندان کو ایک نعرہ دیا ہے۔ وہ نعرہ ہے: حفاظت پہلے۔"
+          }
+        ],
+        "section": "3.2",
+        "unit": 3,
+        "unitTitle": "Unit 3"
+      },
+      {
+        "bookPages": "45-46",
+        "lesson": "Pakistani Festivals",
+        "paragraphs": [
+          {
+            "en": "We Pakistanis are very fun loving people. We celebrate many festivals.",
+            "sd": "اسان پاڪستاني ڏاڍا خوش مزاج ماڻهو آهيون. اسان ڪيترائي ڏڻ ملهائيندا آهيون.",
+            "ur": "ہم پاکستانی بہت خوش مزاج لوگ ہیں۔ ہم بہت سے تہوار مناتے ہیں۔"
+          },
+          {
+            "en": "Mohan and Sita celebrate Divali. They celebrate Divali on the 27th of Asoo. It is on the 1st of November this year. They wear new clothes. They go for puja. They light clay lamps in their homes. They enjoy themselves with dancing and fire works. They wish 'Happy Divali' to their relatives and friends. They give gifts and sweets to each other.",
+            "sd": "موهن ۽ سيتا ديوالي ملهائيندا آهن. هو ديوالي اسو جي 27 تاريخ تي ملهائيندا آهن. هن سال ديوالي نومبر جي پهرين تاريخ تي آهي. هو نوان ڪپڙا پائيندا آهن. هو پوجا ڪرڻ ويندا آهن. هو پنهنجن گھرن ۾ مٽي جا ڏيئا ٻاريندا آهن. هو ناچڻ ۽ آتشبازي سان مزو وٺندا آهن. هو پنهنجن مائٽن ۽ دوستن کي 'ديوالي مبارڪ' چوندا آهن. هو هڪ ٻئي کي تحفا ۽ مٺايون ڏيندا آهن.",
+            "ur": "موہن اور سیتا دیوالی مناتے ہیں۔ وہ دیوالی اسو کی 27 تاریخ کو مناتے ہیں۔ اس سال دیوالی نومبر کی پہلی تاریخ کو ہے۔ وہ نئے کپڑے پہنتے ہیں۔ وہ پوجا کے لیے جاتے ہیں۔ وہ اپنے گھروں میں مٹی کے دیے جلاتے ہیں۔ وہ ناچ گانے اور آتش بازی سے لطف اندوز ہوتے ہیں۔ وہ اپنے رشتہ داروں اور دوستوں کو 'دیوالی مبارک' کہتے ہیں۔ وہ ایک دوسرے کو تحفے اور مٹھائیاں دیتے ہیں۔"
+          },
+          {
+            "en": "Anusha and Feroz celebrate Nauroz. It is on the 21st of March. It is the festival of spring. Children dress in new clothes. They visit relatives and friends. They wish 'Happy Nauroz' and give gifts and sweets to each other.",
+            "sd": "انوشا ۽ فيروز نوروز ملهائيندا آهن. اهو مارچ جي 21 تاريخ تي آهي. اهو بهار جو ڏڻ آهي. ٻار نوان ڪپڙا پائيندا آهن. هو مائٽن ۽ دوستن وٽ ويندا آهن. هو 'نوروز مبارڪ' چوندا آهن ۽ هڪ ٻئي کي تحفا ۽ مٺايون ڏيندا آهن.",
+            "ur": "انوشا اور فیروز نوروز مناتے ہیں۔ یہ 21 مارچ کو ہوتا ہے۔ یہ بہار کا تہوار ہے۔ بچے نئے کپڑے پہنتے ہیں۔ وہ رشتہ داروں اور دوستوں سے ملنے جاتے ہیں۔ وہ 'نوروز مبارک' کہتے ہیں اور ایک دوسرے کو تحفے اور مٹھائیاں دیتے ہیں۔"
+          },
+          {
+            "en": "Amna and Asad celebrate Eid. It comes after Ramzan on the 1st of Shawal each year. Children wear new clothes. They say, 'Eid Mubarak' and get Eidi. They visit relatives and friends. They give gifts and sweets to each other.",
+            "sd": "آمنا ۽ اسد عيد ملهائيندا آهن. عيد هر سال رمضان کان پوءِ شوال جي پهرين تاريخ تي ايندي آهي. ٻار نوان ڪپڙا پائيندا آهن. هو 'عيد مبارڪ' چوندا آهن ۽ عيدي وٺندا آهن. هو مائٽن ۽ دوستن وٽ ويندا آهن. هو هڪ ٻئي کي تحفا ۽ مٺايون ڏيندا آهن.",
+            "ur": "آمنہ اور اسد عید مناتے ہیں۔ عید ہر سال رمضان کے بعد شوال کی پہلی تاریخ کو آتی ہے۔ بچے نئے کپڑے پہنتے ہیں۔ وہ 'عید مبارک' کہتے ہیں اور عیدی لیتے ہیں۔ وہ رشتہ داروں اور دوستوں سے ملنے جاتے ہیں۔ وہ ایک دوسرے کو تحفے اور مٹھائیاں دیتے ہیں۔"
+          },
+          {
+            "en": "Mary and Jim celebrate Christmas. Christmas is on the 25th of December each year. They decorate a Christmas tree with lights. They visit friends and relatives. They put gifts under the tree for their family and friends. They get many gifts and sweets.",
+            "sd": "ميري ۽ جم ڪرسمس ملهائيندا آهن. ڪرسمس هر سال ڊسمبر جي 25 تاريخ تي آهي. هو بتيون لڳائي ڪرسمس جو وڻ سجائيندا آهن. هو دوستن ۽ مائٽن وٽ ويندا آهن. هو پنهنجي گھر وارن ۽ دوستن لاءِ وڻ هيٺ تحفا رکندا آهن. هو ڪيترائي تحفا ۽ مٺايون وٺندا آهن.",
+            "ur": "میری اور جم کرسمس مناتے ہیں۔ کرسمس ہر سال 25 دسمبر کو ہوتا ہے۔ وہ روشنیوں سے کرسمس کا درخت سجاتے ہیں۔ وہ دوستوں اور رشتہ داروں سے ملنے جاتے ہیں۔ وہ اپنے گھر والوں اور دوستوں کے لیے درخت کے نیچے تحفے رکھتے ہیں۔ وہ بہت سے تحفے اور مٹھائیاں پاتے ہیں۔"
+          }
+        ],
+        "section": "4.2",
+        "unit": 4,
+        "unitTitle": "Unit 4"
+      },
+      {
+        "bookPages": "57-58",
+        "lesson": "Rashid Minhas Shaheed, Nishan-e-Haider",
+        "paragraphs": [
+          {
+            "en": "Even when he was a little boy, Rashid Minhas loved stories about flying aeroplanes. His hobby was collecting different kinds of model aeroplanes.",
+            "sd": "جڏهن راشد منهاس ننڍو ڇوڪرو هو، تڏهن به هن کي هوائي جھاز اڏائڻ بابت ڪھاڻيون ڏاڍيون وڻنديون هيون. هن جو شوق مختلف قسمن جا نموني وارا هوائي جھاز گڏ ڪرڻ هو.",
+            "ur": "جب راشد منہاس چھوٹا لڑکا تھا تو اسے ہوائی جہاز اڑانے کے بارے میں کہانیاں بہت پسند تھیں۔ اس کا شوق مختلف قسم کے نمونے والے ہوائی جہاز جمع کرنا تھا۔"
+          },
+          {
+            "en": "Rashid Minhas was born in Karachi on the 17th of February, 1951. After completing his studies, he joined the Pakistan Air Force and started his training as a GD pilot.",
+            "sd": "راشد منهاس 17 فيبروري 1951ع تي ڪراچي ۾ پيدا ٿيو. پنهنجي پڙھائي پوري ڪرڻ کان پوءِ، هو پاڪستان ايئر فورس ۾ شامل ٿيو ۽ جي ڊي پائلٽ طور پنهنجي تربيت شروع ڪئي.",
+            "ur": "راشد منہاس 17 فروری 1951ء کو کراچی میں پیدا ہوا۔ اپنی تعلیم مکمل کرنے کے بعد وہ پاکستان ایئر فورس میں شامل ہوا اور جی ڈی پائلٹ کے طور پر اپنی تربیت شروع کی۔"
+          },
+          {
+            "en": "It was the 20th of August, 1971, and the time was 11.00 am. Rashid was about to take off in a T-33 plane for his second solo flight. Just then his instructor climbed into the plane. When the plane took off, the instructor turned it away. Rashid realized that the plane was being hijacked. He fought very bravely to get control of the plane. The plane crashed about 51 kilometers from India. Both Rashid and the instructor were killed.",
+            "sd": "20 آگسٽ 1971ع هو ۽ وقت صبح جا 11 وڳا هئا. راشد پنهنجي ٻي اڪيلي اڏام لاءِ ٽي-33 جھاز ۾ اڏامڻ وارو هو. تڏهن ئي هن جو استاد جھاز ۾ چڙھي ويو. جڏهن جھاز اڏاميو، تڏهن استاد ان کي موڙي ڇڏيو. راشد کي خبر پئي ته جھاز کي اغوا ڪيو پيو وڃي. هو جھاز تي ڪنٽرول حاصل ڪرڻ لاءِ ڏاڍي بهادريءَ سان وڙھيو. جھاز ڀارت کان لڳ ڀڳ 51 ڪلوميٽر پري ڪري پيو. راشد ۽ استاد ٻئي شھيد ٿي ويا.",
+            "ur": "20 اگست 1971ء تھی اور وقت صبح کے 11 بجے تھے۔ راشد اپنی دوسری اکیلی پرواز کے لیے ٹی۔33 جہاز میں اڑنے والا تھا۔ اسی وقت اس کا استاد جہاز میں سوار ہو گیا۔ جب جہاز نے اڑان بھری تو استاد نے اسے موڑ لیا۔ راشد کو معلوم ہوا کہ جہاز کو اغوا کیا جا رہا ہے۔ اس نے جہاز پر قابو پانے کے لیے بہت بہادری سے مقابلہ کیا۔ جہاز بھارت سے تقریباً 51 کلومیٹر دور گر کر تباہ ہو گیا۔ راشد اور استاد دونوں شہید ہو گئے۔"
+          },
+          {
+            "en": "Rashid gave his life for his country. He was awarded the highest military award, the 'NISHAN-E-HAIDER' . He was the youngest Pakistani to get this award. The airforce base at Kamra was renamed PAF base Minhas after his death. Rashid Minhas Road at Karachi is also named after him. In December 2003, the Pakistan Post printed a two-rupee postage stamp with his picture on it.",
+            "sd": "راشد پنهنجي ملڪ لاءِ پنهنجي جان قربان ڪئي. هن کي سڀ کان وڏو فوجي اعزاز، 'نشانِ حيدر'، ڏنو ويو. هو هي اعزاز حاصل ڪرڻ وارو سڀ کان ننڍو پاڪستاني هو. هن جي موت کان پوءِ ڪامرا واري هوائي اڏي جو نالو مٽائي پي اي ايف بيس منهاس رکيو ويو. ڪراچي ۾ راشد منهاس روڊ جو نالو به هن جي نالي تي رکيو ويو آهي. ڊسمبر 2003ع ۾ پاڪستان پوسٽ هن جي تصوير واري ٻن رپين جي ڊاڪ ٽڪٽ ڇپي.",
+            "ur": "راشد نے اپنے ملک کے لیے اپنی جان قربان کر دی۔ اسے سب سے بڑا فوجی اعزاز، 'نشانِ حیدر'، دیا گیا۔ وہ یہ اعزاز حاصل کرنے والا سب سے کم عمر پاکستانی تھا۔ اس کی موت کے بعد کامرہ کے فضائی اڈے کا نام بدل کر پی اے ایف بیس منہاس رکھ دیا گیا۔ کراچی میں راشد منہاس روڈ کا نام بھی اسی کے نام پر رکھا گیا ہے۔ دسمبر 2003ء میں پاکستان پوسٹ نے اس کی تصویر والا دو روپے کا ڈاک ٹکٹ چھاپا۔"
+          },
+          {
+            "en": "Pakistan is proud of Rashid Minhas Shaheed, Nishan-e-Haider, for his bravery and sacrifice.",
+            "sd": "پاڪستان کي راشد منهاس شھيد، نشانِ حيدر، جي بهادري ۽ قربانيءَ تي فخر آهي.",
+            "ur": "پاکستان کو راشد منہاس شہید، نشانِ حیدر، کی بہادری اور قربانی پر فخر ہے۔"
+          }
+        ],
+        "section": "5.2",
+        "unit": 5,
+        "unitTitle": "Unit 5"
+      },
+      {
+        "unit": 6,
+        "unitTitle": "Unit 6",
+        "lesson": "Months of Year",
+        "section": "6.2",
+        "bookPages": "69-72",
+        "paragraphs": [
+          {
+            "en": "Thirty days have September, April, June, and November. All the rest have thirty one, Except for February alone, Which has but twenty eight days clear, And twenty nine in each leap year.",
+            "sd": "سيپٽمبر، اپريل، جون ۽ نومبر ۾ ٽيهه ڏينهن هوندا آهن. باقي سڀني مهينن ۾ ايڪٽيهه ڏينهن هوندا آهن، پر فيبروري ۾ صرف اٺاويهه ڏينهن هوندا آهن، ۽ ليپ واري سال ۾ اوڻٽيهه ڏينهن هوندا آهن.",
+            "ur": "ستمبر، اپریل، جون اور نومبر میں تیس دن ہوتے ہیں۔ باقی تمام مہینوں میں اکتیس دن ہوتے ہیں، لیکن فروری میں صرف اٹھائیس دن ہوتے ہیں، اور لیپ کے سال میں انتیس دن ہوتے ہیں۔"
+          },
+          {
+            "en": "The small hand tells hours, the big hand tells minutes, and the thin hand ticks seconds. One hour has 60 minutes.",
+            "sd": "ننڍي سُئي ڪلاڪ ٻڌائي ٿي، وڏي سُئي منٽ ٻڌائي ٿي، ۽ پتلي سُئي سيڪنڊ ڳڻي ٿي. هڪ ڪلاڪ ۾ 60 منٽ هوندا آهن.",
+            "ur": "چھوٹی سوئی گھنٹے بتاتی ہے، بڑی سوئی منٹ بتاتی ہے، اور پتلی سوئی سیکنڈ گنتی ہے۔ ایک گھنٹے میں 60 منٹ ہوتے ہیں۔"
+          },
+          {
+            "en": "1. When both hands are on twelve, the time is 12:00 o'clock.",
+            "sd": "1. جڏهن ٻئي سُئيون ٻارهن تي هونديون آهن، تڏهن وقت ٻارهن وڳي هوندو آهي.",
+            "ur": "1. جب دونوں سوئیاں بارہ پر ہوں تو وقت بارہ بجے ہوتا ہے۔"
+          },
+          {
+            "en": "2. When both hand are on six, the time is half past six.",
+            "sd": "2. جڏهن ٻئي سُئيون ڇهن تي هونديون آهن، تڏهن وقت ساڍا ڇهه وڳي هوندو آهي.",
+            "ur": "2. جب دونوں سوئیاں چھ پر ہوں تو وقت ساڑھے چھ بجے ہوتا ہے۔"
+          },
+          {
+            "en": "3. When the small hand is between 12 and 1 and the big hand on 6, it is half past twelve.",
+            "sd": "3. جڏهن ننڍي سُئي ٻارهن ۽ هڪ جي وچ ۾ هجي ۽ وڏي سُئي ڇهن تي هجي، تڏهن وقت ساڍا ٻارهن وڳي هوندو آهي.",
+            "ur": "3. جب چھوٹی سوئی بارہ اور ایک کے درمیان ہو اور بڑی سوئی چھ پر ہو تو وقت ساڑھے بارہ بجے ہوتا ہے۔"
+          },
+          {
+            "en": "4. When the small hand is on 1 and the big hand is on 12, the time is one O'clock.",
+            "sd": "4. جڏهن ننڍي سُئي هڪ تي هجي ۽ وڏي سُئي ٻارهن تي هجي، تڏهن وقت هڪ وڳي هوندو آهي.",
+            "ur": "4. جب چھوٹی سوئی ایک پر ہو اور بڑی سوئی بارہ پر ہو تو وقت ایک بجے ہوتا ہے۔"
+          }
+        ]
+      }
+    ],
   "mathsolutions": [
     {
       "unit": 1,
