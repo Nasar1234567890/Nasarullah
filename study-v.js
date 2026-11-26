@@ -9083,6 +9083,348 @@ STUDY.v = {
         ]
       }
     ],
+    "lessonTexts": [
+      {
+        "bookPages": "3-5",
+        "lesson": "I'll help you",
+        "paragraphs": [
+          {
+            "en": "Memna was a soft, white little lamb. One day, he wanted to drink some water, so he went to the nearby pond. Suddenly, Jabir, the big, bad wolf came along.",
+            "sd": "ميمنو هڪ نرم، اڇو ننڍڙو گھيٽو هو. هڪ ڏينهن هن کي پاڻي پيئڻ جي خواهش ٿي، تنهنڪري هو ويجهي تلاءَ ڏانهن ويو. اوچتو جابر، وڏو، خراب بگھڙ، اتي اچي پھتو.",
+            "ur": "میمنا ایک نرم، سفید چھوٹا سا میمنا تھا۔ ایک دن اسے پانی پینے کی خواہش ہوئی، اس لیے وہ قریبی تالاب کی طرف گیا۔ اچانک جابر، بڑا، برا بھیڑیا، وہاں آ گیا۔"
+          },
+          {
+            "en": "Jabir: What are you doing Memna?",
+            "sd": "جابر: تون ڇا پيو ڪرين، ميمنو؟",
+            "ur": "جابر: تم کیا کر رہے ہو، میمنا؟"
+          },
+          {
+            "en": "Memna: I'm very thirsty. I'm drinking water.",
+            "sd": "ميمنو: مون کي تمام گھڻي اڃ لڳي آهي. مان پاڻي پي رھيو آهيان.",
+            "ur": "میمنا: مجھے بہت پیاس لگی ہے۔ میں پانی پی رہا ہوں۔"
+          },
+          {
+            "en": "Jabir: This is my pond and my water. You're drinking my water.",
+            "sd": "جابر: هي منهنجو تلاءُ آهي ۽ هي منهنجو پاڻي آهي. تون منهنجو پاڻي پي رھيو آهين.",
+            "ur": "جابر: یہ میرا تالاب ہے اور یہ میرا پانی ہے۔ تم میرا پانی پی رہے ہو۔"
+          },
+          {
+            "en": "Memna: No, it's everybody's pond and everybody's water.",
+            "sd": "ميمنو: نه، هي سڀني جو تلاءُ آهي ۽ سڀني جو پاڻي آهي.",
+            "ur": "میمنا: نہیں، یہ سب کا تالاب ہے اور سب کا پانی ہے۔"
+          },
+          {
+            "en": "Jabir: No, no! It's all mine. I'll punish you for drinking from my pond. I'll come back to eat you in the evening.",
+            "sd": "جابر: نه، نه! هي سڀ منهنجو آهي. مان توکي منهنجي تلاءَ مان پاڻي پيئڻ جي سزا ڏيندس. مان شام جو واپس اچي توکي کائي ويندس.",
+            "ur": "جابر: نہیں، نہیں! یہ سب میرا ہے۔ میں تمہیں اپنے تالاب سے پانی پینے کی سزا دوں گا۔ میں شام کو واپس آ کر تمہیں کھا جاؤں گا۔"
+          },
+          {
+            "en": "Poor Memna felt very sad and frightened. He was sitting on the doorstep of his house and crying softly. The fluffy, black cat, Mano, passed by.",
+            "sd": "ويچارو ميمنو تمام گھڻو اداس ۽ ڊڄيل محسوس ڪري رھيو هو. هو پنهنجي گھر جي دروازي تي ويٺو هو ۽ آهستي آهستي روئي رھيو هو. ڦوڪيل، ڪاري ٻلي، مانو، اتان لنگھي وئي.",
+            "ur": "بےچارا میمنا بہت اداس اور ڈرا ہوا محسوس کر رہا تھا۔ وہ اپنے گھر کی دہلیز پر بیٹھا تھا اور آہستہ آہستہ رو رہا تھا۔ نرم و ملائم، کالی بلی، مانو، وہاں سے گزری۔"
+          },
+          {
+            "en": "Mano: Why are you crying, Memna?",
+            "sd": "مانو: تون ڇو پيو روئين، ميمنو؟",
+            "ur": "مانو: تم کیوں رو رہے ہو، میمنا؟"
+          },
+          {
+            "en": "Memna: The big, bad wolf is angry with me. He's coming to eat me in the evening.",
+            "sd": "ميمنو: وڏو، خراب بگھڙ مون سان ناراض آهي. هو شام جو مون کي کائڻ لاءِ اچي رھيو آهي.",
+            "ur": "میمنا: بڑا، برا بھیڑیا مجھ سے ناراض ہے۔ وہ شام کو مجھے کھانے آ رہا ہے۔"
+          },
+          {
+            "en": "Mano: Don't worry. I'll help you.",
+            "sd": "مانو: پريشان نه ٿي. مان توهان جي مدد ڪندس.",
+            "ur": "مانو: فکر مت کرو۔ میں تمہاری مدد کروں گی۔"
+          },
+          {
+            "en": "Mano went inside and sat comfortably on the chair. Memna kept on crying. The fat, brown dog, Moti, passed by.",
+            "sd": "مانو اندر وئي ۽ آرام سان ڪرسي تي ويٺي. ميمنو روئندو رھيو. ٿلھو، ناسي ڪتو، موتي، اتان لنگھي ويو.",
+            "ur": "مانو اندر گئی اور آرام سے کرسی پر بیٹھ گئی۔ میمنا روتا رہا۔ موٹا، بھورا کتا، موتی، وہاں سے گزرا۔"
+          },
+          {
+            "en": "Moti: Why are you crying, Memna?",
+            "sd": "موتي: تون ڇو پيو روئين، ميمنو؟",
+            "ur": "موتی: تم کیوں رو رہے ہو، میمنا؟"
+          },
+          {
+            "en": "Memna: The big, bad wolf is angry with me. He'll come to eat me in the evening.",
+            "sd": "ميمنو: وڏو، خراب بگھڙ مون سان ناراض آهي. هو شام جو مون کي کائڻ لاءِ ايندو.",
+            "ur": "میمنا: بڑا، برا بھیڑیا مجھ سے ناراض ہے۔ وہ شام کو مجھے کھانے آئے گا۔"
+          },
+          {
+            "en": "Moti: Don't be upset. I'll help you.",
+            "sd": "موتي: اداس نه ٿي. مان توهان جي مدد ڪندس.",
+            "ur": "موتی: اداس مت ہو۔ میں تمہاری مدد کروں گا۔"
+          },
+          {
+            "en": "He went inside and quietly hid behind a chair. Memna was still crying. Kumet, the big, red horse, passed by.",
+            "sd": "هو اندر ويو ۽ چپ چاپ ڪرسي جي پٺيان لڪي ويو. ميمنو اڃا روئي رھيو هو. ڪمٽ، وڏو، ڳاڙهو گھوڙو، اتان لنگھي ويو.",
+            "ur": "وہ اندر گیا اور خاموشی سے کرسی کے پیچھے چھپ گیا۔ میمنا اب بھی رو رہا تھا۔ کومٹ، بڑا، سرخ گھوڑا، وہاں سے گزرا۔"
+          },
+          {
+            "en": "Kumet: Why are you crying, Memna?",
+            "sd": "ڪمٽ: تون ڇو پيو روئين، ميمنو؟",
+            "ur": "کومٹ: تم کیوں رو رہے ہو، میمنا؟"
+          },
+          {
+            "en": "Memna: The big, bad wolf is coming to eat me in the evening.",
+            "sd": "ميمنو: وڏو، خراب بگھڙ شام جو مون کي کائڻ لاءِ اچي رھيو آهي.",
+            "ur": "میمنا: بڑا، برا بھیڑیا شام کو مجھے کھانے آ رہا ہے۔"
+          },
+          {
+            "en": "Kumet: Don't cry. I'll help you.",
+            "sd": "ڪمٽ: نه روءِ. مان توهان جي مدد ڪندس.",
+            "ur": "کومٹ: مت رو۔ میں تمہاری مدد کروں گا۔"
+          },
+          {
+            "en": "He went and calmly stood near the pond. In the evening, the wolf came to Memna's house.",
+            "sd": "هو ويو ۽ آرام سان تلاءَ جي ويجهو بيٺو. شام جو بگھڙ ميمنو جي گھر آيو.",
+            "ur": "وہ گیا اور آرام سے تالاب کے قریب کھڑا ہو گیا۔ شام کو بھیڑیا میمنا کے گھر آیا۔"
+          },
+          {
+            "en": "Jabir: Ha! Ha! Ha! Where are you Memna? I've come to eat you.",
+            "sd": "جابر: ها! ها! ها! تون ڪٿي آهين، ميمنو؟ مان توکي کائڻ لاءِ آيو آهيان.",
+            "ur": "جابر: ہا! ہا! ہا! تم کہاں ہو، میمنا؟ میں تمہیں کھانے آیا ہوں۔"
+          },
+          {
+            "en": "Jabir went past the chair and Mano scratched his face badly. He ran to the door and Moti bit him sharply on the ear. He quickly ran outside but Kumet gave him a great big kick and the wolf fell into the pond and drowned.",
+            "sd": "جابر ڪرسي جي ڀرسان لنگھي ويو ۽ مانو هن جي منهن کي سخت ڇنڊي وڌو. هو دروازي ڏانهن ڊوڙيو ۽ موتي هن جي ڪن کي زور سان چڪ هنيو. هو جلدي ٻاهر ڊوڙيو پر ڪمٽ هن کي هڪ زوردار لات هني ۽ بگھڙ تلاءَ ۾ ڪري ٻڏي ويو.",
+            "ur": "جابر کرسی کے پاس سے گزرا اور مانو نے اس کا چہرہ بری طرح نوچ لیا۔ وہ دروازے کی طرف دوڑا اور موتی نے اس کے کان پر زور سے کاٹ لیا۔ وہ جلدی سے باہر دوڑا لیکن کومٹ نے اسے ایک زوردار لات ماری اور بھیڑیا تالاب میں گر کر ڈوب گیا۔"
+          },
+          {
+            "en": "Memna came out smilingly behind the-bushes.",
+            "sd": "ميمنو جھاڙين جي پٺيان مسڪرائيندو ٻاهر آيو.",
+            "ur": "میمنا جھاڑیوں کے پیچھے سے مسکراتا ہوا باہر آیا۔"
+          },
+          {
+            "en": "Memna: Thank you, Mano, Moti and Kumet. Thank you all very much.",
+            "sd": "ميمنو: توهان سڀني جي مهرباني، مانو، موتي ۽ ڪمٽ. توهان سڀني جي تمام گھڻي مهرباني.",
+            "ur": "میمنا: شکریہ، مانو، موتی اور کومٹ۔ تم سب کا بہت بہت شکریہ۔"
+          },
+          {
+            "en": "Mano: My pleasure.",
+            "sd": "مانو: منهنجي خوشي آهي.",
+            "ur": "مانو: خوشی ہوئی۔"
+          },
+          {
+            "en": "Moti: You are welcome.",
+            "sd": "موتي: توهان کي ڀليڪار آهي.",
+            "ur": "موتی: خوش آمدید۔"
+          },
+          {
+            "en": "Kumet: That's all right.",
+            "sd": "ڪمٽ: ڪا ڳاله نه آهي.",
+            "ur": "کومٹ: کوئی بات نہیں۔"
+          },
+          {
+            "en": "So Memna, Mano, Moti, and Kumet all lived happily ever after and drank from the pond whenever they were thirsty.",
+            "sd": "تنهنڪري ميمنو، مانو، موتي ۽ ڪمٽ سڀ خوشيءَ سان هميشه رھيا ۽ جڏهن به کين اڃ لڳندي هئي ته تلاءَ مان پاڻي پيئندا هئا.",
+            "ur": "اس طرح میمنا، مانو، موتی اور کومٹ سب ہمیشہ خوش رہے اور جب بھی انہیں پیاس لگتی تو تالاب سے پانی پیتے تھے۔"
+          }
+        ],
+        "section": "1.2",
+        "unit": 1,
+        "unitTitle": "Helping Others"
+      },
+      {
+        "unit": 2,
+        "unitTitle": "Responsibility",
+        "lesson": "Pottery Making",
+        "section": "2.2",
+        "bookPages": "21-23",
+        "paragraphs": [
+          {
+            "en": "My aunt Sadori and uncle Jumman are potters. One day, I went to visit them. When I got there I saw that aunt Sadori was shaping a pot on a wheel. She was pushing the wheel. It went round and round. While the wheel was moving, she shaped the pot with both hands. It was fun to watch her smooth and lovely movements. After making each pot, she put it out in the sun to dry.",
+            "sd": "منهنجي چاچي سادوري ۽ چاچو جمن ڪمھار آهن. هڪ ڏينهن مان انهن سان ملڻ ويس. جڏهن مان اتي پھتس ته ڏٺم ته چاچي سادوري چاڪ تي ٿانوَ ٺاهي رھي هئي. هوءَ چاڪ کي ڌڪي رھي هئي. اهو گول گول گھمي رھيو هو. جڏهن چاڪ گھمي رھيو هو، هوءَ ٿانوَ ٻنهي هٿن سان ٺاهي رھي هئي. هن جون نرم ۽ سهڻيون حرڪتون ڏسڻ ۾ مزو اچي رھيو هو. هر ٿانوَ ٺاهڻ کان پوءِ، هوءَ ان کي سج ۾ سڪڻ لاءِ رکي ڇڏيندي هئي.",
+            "ur": "میری چاچی سادوری اور چاچا جمن کمہار ہیں۔ ایک دن میں ان سے ملنے گیا۔ جب میں وہاں پہنچا تو دیکھا کہ چاچی سادوری چاک پر برتن بنا رہی تھی۔ وہ چاک کو دھکیل رہی تھی۔ وہ گول گول گھوم رہا تھا۔ جب چاک گھوم رہا تھا، وہ برتن دونوں ہاتھوں سے بنا رہی تھی۔ اس کی نرم اور پیاری حرکتیں دیکھنا مزہ دے رہا تھا۔ ہر برتن بنانے کے بعد، وہ اسے دھوپ میں سکھانے کے لیے رکھ دیتی تھی۔"
+          },
+          {
+            "en": "Some pots and bowls were drying outside in the sun. My cousin Sara was sitting under the Neem tree nearby. She was making patterns on a bowl with a pointed bone. She said, \"Hello Raja, I'll come and play with you for a while. I have to make the pattern before this bowl is completely dry.\" My cousin Saleh said, 'I also want to play with you. But first I must colour the vase.'",
+            "sd": "ڪجھه ٿانوَ ۽ پيالا ٻاهر سج ۾ سڪي رھيا هئا. منهنجي سئوٽي سارا ويجهي نيم جي وڻ هيٺان ويٺي هئي. هوءَ هڪ تکي ھڏي سان پيالي تي نقش ٺاهي رھي هئي. هن چيو، \"سلام راجا، مان ٿوري دير ۾ اچي تو سان کيڏنديس. مون کي اهو نقش ٺاهڻو آهي، ان کان اڳ جو هي پيالو مڪمل طور سڪي وڃي.\" منهنجو سئوٽ صالح چيو، \"مان به تو سان کيڏڻ چاهيان ٿو. پر پهرين مون کي گلدان کي رنگ ڪرڻو آهي.\"",
+            "ur": "کچھ برتن اور پیالے باہر دھوپ میں سوکھ رہے تھے۔ میری چچا زاد بہن سارا قریب نیم کے درخت کے نیچے بیٹھی تھی۔ وہ ایک نوکیلی ہڈی سے پیالے پر نقش بنا رہی تھی۔ اس نے کہا، \"سلام راجا، میں تھوڑی دیر میں آ کر تمہارے ساتھ کھیلوں گی۔ مجھے یہ نقش بنانا ہے، اس سے پہلے کہ یہ پیالہ پوری طرح سوکھ جائے۔\" میرے چچا زاد بھائی صالح نے کہا، \"میں بھی تمہارے ساتھ کھیلنا چاہتا ہوں۔ لیکن پہلے مجھے گلدان کو رنگ کرنا ہے۔\""
+          },
+          {
+            "en": "Uncle Jumman said, 'Okay, I'll take Raja to see our kiln in the meantime.' The kiln was outside. It was about eight feet high and twenty feet wide. A little smoke was coming out from the kiln. Uncle Jumman said, 'Raja, do not go too near the kiln. It is very hot.'",
+            "sd": "چاچو جمن چيو، \"ٺيڪ آهي، مان راجا کي ان وچ ۾ اسان جو ڀٽو ڏيکارڻ لاءِ وٺي ويندس.\" ڀٽو ٻاهر هو. اهو لڳ ڀڳ اٺ فوٽ اوچو ۽ ويهه فوٽ ويڪرو هو. ڀٽي مان ٿورو دونھون نڪري رھيو هو. چاچو جمن چيو، \"راجا، ڀٽي جي گهڻو ويجهو نه وڃ. اهو تمام گهڻو گرم آهي.\"",
+            "ur": "چاچا جمن نے کہا، \"ٹھیک ہے، میں راجا کو اس دوران ہمارا بھٹہ دکھانے لے جاؤں گا۔\" بھٹہ باہر تھا۔ وہ تقریباً آٹھ فٹ اونچا اور بیس فٹ چوڑا تھا۔ بھٹے سے تھوڑا سا دھواں نکل رہا تھا۔ چاچا جمن نے کہا، \"راجا، بھٹے کے زیادہ قریب مت جاؤ۔ یہ بہت گرم ہے۔\""
+          },
+          {
+            "en": "I said, 'What's inside it?'",
+            "sd": "مون چيو، \"ان جي اندر ڇا آهي؟\"",
+            "ur": "میں نے کہا، \"اس کے اندر کیا ہے؟\""
+          },
+          {
+            "en": "Uncle Jumman replied, 'The pots are baking inside. They'll bake for three days. Then we'll take them to the market.'",
+            "sd": "چاچو جمن جواب ڏنو، \"ٿانوَ اندر پچي رھيا آهن. اهي ٽن ڏينهن تائين پچندا. پوءِ اسان انهن کي بازار ڏانهن وٺي وينداسين.\"",
+            "ur": "چاچا جمن نے جواب دیا، \"برتن اندر پک رہے ہیں۔ وہ تین دن تک پکیں گے۔ پھر ہم انہیں بازار لے جائیں گے۔\""
+          },
+          {
+            "en": "We were standing near the kiln when I saw Alam.",
+            "sd": "اسان ڀٽي جي ويجهو بيٺا هئاسين، جڏهن مون عالم کي ڏٺو.",
+            "ur": "ہم بھٹے کے قریب کھڑے تھے، جب میں نے عالم کو دیکھا۔"
+          },
+          {
+            "en": "He was coming towards us with his donkey.",
+            "sd": "هو پنهنجي گڏھ سان اسان ڏانهن اچي رھيو هو.",
+            "ur": "وہ اپنے گدھے کے ساتھ ہماری طرف آ رہا تھا۔"
+          },
+          {
+            "en": "I asked uncle Jumman, 'What is Alam bringing?'",
+            "sd": "مون چاچو جمن کان پڇيو، \"عالم ڇا آڻي رھيو آهي؟\"",
+            "ur": "میں نے چاچا جمن سے پوچھا، \"عالم کیا لا رہا ہے؟\""
+          },
+          {
+            "en": "He said, 'Alam is bringing some clay. Tomorrow I'll make some paste from the clay and then your aunt will make some pots, vases, and toys.'",
+            "sd": "هن چيو، \"عالم ڪجھه مٽي آڻي رھيو آهي. سڀاڻي مان مٽي مان ڪجھه گارو ٺاهيندس ۽ پوءِ تنهنجي چاچي ڪجھه ٿانوَ، گلدان ۽ رانديڪا ٺاهيندي.\"",
+            "ur": "اس نے کہا، \"عالم کچھ مٹی لا رہا ہے۔ کل میں مٹی سے کچھ گارا بناؤں گا اور پھر تمہاری چاچی کچھ برتن، گلدان اور کھلونے بنائے گی۔\""
+          }
+        ]
+      },
+      {
+        "bookPages": "39-41",
+        "lesson": "The story of Zahra",
+        "paragraphs": [
+          {
+            "en": "This is the true story of a little girl called Zahra. She wanted to study in a school and become a teacher. She wanted all the children in her village to get good education.",
+            "sd": "هي زهرا نالي هڪ ننڍڙي ڇوڪري جي سچي ڪهاڻي آهي. هوءَ اسڪول ۾ پڙهڻ ۽ استاد بڻجڻ ٿي چاهي. هوءَ ٿي چاهي ته سندس ڳوٺ جا سڀئي ٻار سٺي تعليم حاصل ڪن.",
+            "ur": "یہ زہرا نام کی ایک چھوٹی سی لڑکی کی سچی کہانی ہے۔ وہ اسکول میں پڑھنا اور استاد بننا چاہتی تھی۔ وہ چاہتی تھی کہ اس کے گاؤں کے تمام بچے اچھی تعلیم حاصل کریں۔"
+          },
+          {
+            "en": "Zahra was born in a small village near Mirpur Sakro. When she was five years old she started going to school with her brother, Mateen. She loved her school. She learnt to read and write. Her books told her about the sun, its light and heat. She also learnt about many insects, butterflies, birds, and animals. She wanted to read more and more.",
+            "sd": "زهرا ميرپور ساڪرو جي ويجهو هڪ ننڍڙي ڳوٺ ۾ ڄائي هئي. جڏهن هوءَ پنجن سالن جي هئي ته هوءَ پنهنجي ڀاءُ متين سان گڏ اسڪول وڃڻ لڳي. هوءَ پنهنجي اسڪول کي ڏاڍو پيار ڪندي هئي. هوءَ پڙهڻ ۽ لکڻ سکي. سندس ڪتابن کيس سج، ان جي روشني ۽ گرمي بابت ٻڌايو. هوءَ گهڻن جيتن، پوپٽن، پکين ۽ جانورن بابت به سکي. هوءَ وڌيڪ ۽ وڌيڪ پڙهڻ ٿي چاهي.",
+            "ur": "زہرا میرپور ساکرو کے قریب ایک چھوٹے سے گاؤں میں پیدا ہوئی تھی۔ جب وہ پانچ سال کی تھی تو وہ اپنے بھائی متین کے ساتھ اسکول جانے لگی۔ اسے اپنا اسکول بہت پسند تھا۔ اس نے پڑھنا لکھنا سیکھ لیا۔ اس کی کتابوں نے اسے سورج، اس کی روشنی اور گرمی کے بارے میں بتایا۔ اس نے بہت سے کیڑوں، تتلیوں، پرندوں اور جانوروں کے بارے میں بھی سیکھا۔ وہ اور زیادہ پڑھنا چاہتی تھی۔"
+          },
+          {
+            "en": "One day, her teacher told her about two famous nurses, Hazrat Rufarida and Florence Nightingale. Zahra said, \"I also want to help people in some way.\"",
+            "sd": "هڪ ڏينهن سندس استاد کيس ٻن مشهور نرسن، حضرت رفيده ۽ فلورنس نائيٽنگيل بابت ٻڌايو. زهرا چيو، 'مان به ڪنهن نه ڪنهن نموني ماڻهن جي مدد ڪرڻ ٿي چاهيان.'",
+            "ur": "ایک دن اس کی استاد نے اسے دو مشہور نرسوں، حضرت رفیدہ اور فلورنس نائٹنگیل کے بارے میں بتایا۔ زہرا نے کہا، 'میں بھی کسی نہ کسی طرح لوگوں کی مدد کرنا چاہتی ہوں۔'"
+          },
+          {
+            "en": "Zahra worked hard. She did very well in class five. Her small village only had a primary school. After class 5, all the boys went to the Boys' Middle School in the nearby village. But there was no middle school for girls. Zahra said to her mother, \"I want to go to the Middle School too. I want to study more. I want to be a teacher. I want to help children in their studies.\"",
+            "sd": "زهرا سخت محنت ڪئي. هوءَ پنجين ڪلاس ۾ ڏاڍي سٺي رھي. سندس ننڍڙي ڳوٺ ۾ رڳو هڪ پرائمري اسڪول هو. پنجين ڪلاس کان پوءِ سڀ ڇوڪرا ويجهي ڳوٺ جي ڇوڪرن واري مڊل اسڪول ۾ ويا. پر ڇوڪرين لاءِ ڪو مڊل اسڪول نه هو. زهرا پنهنجي ماءُ کي چيو، 'مان به مڊل اسڪول وڃڻ ٿي چاهيان. مان وڌيڪ پڙهڻ ٿي چاهيان. مان استاد بڻجڻ ٿي چاهيان. مان ٻارن جي پڙهائي ۾ مدد ڪرڻ ٿي چاهيان.'",
+            "ur": "زہرا نے سخت محنت کی۔ اس نے پانچویں جماعت میں بہت اچھا کام کیا۔ اس کے چھوٹے سے گاؤں میں صرف ایک پرائمری اسکول تھا۔ پانچویں جماعت کے بعد تمام لڑکے قریبی گاؤں کے بوائز مڈل اسکول چلے گئے۔ لیکن لڑکیوں کے لیے کوئی مڈل اسکول نہیں تھا۔ زہرا نے اپنی ماں سے کہا، 'میں بھی مڈل اسکول جانا چاہتی ہوں۔ میں مزید پڑھنا چاہتی ہوں۔ میں استاد بننا چاہتی ہوں۔ میں بچوں کی پڑھائی میں مدد کرنا چاہتی ہوں۔'"
+          },
+          {
+            "en": "Zahra's father and mother went to the Middle School and said to the headmaster, \"Zahra is good at her studies. Please let her study in your school.\"",
+            "sd": "زهرا جا پيءُ ۽ ماءُ مڊل اسڪول ويا ۽ هيڊماستر کي چيائون، 'زهرا پنهنجي پڙهائي ۾ سٺي آهي. مهرباني ڪري کيس پنهنجي اسڪول ۾ پڙهڻ ڏيو.'",
+            "ur": "زہرا کے والد اور والدہ مڈل اسکول گئے اور ہیڈماسٹر سے کہا، 'زہرا اپنی پڑھائی میں اچھی ہے۔ مہربانی کر کے اسے اپنے اسکول میں پڑھنے دیں۔'"
+          },
+          {
+            "en": "The headmaster was a kind man. He said, “All right, Zahra can come with Mateen and study in the school.”",
+            "sd": "هيڊماستر هڪ مهربان ماڻهو هو. هن چيو، 'ٺيڪ آهي، زهرا متين سان گڏ اچي سگھي ٿي ۽ اسڪول ۾ پڙهي سگھي ٿي.'",
+            "ur": "ہیڈماسٹر ایک مہربان آدمی تھا۔ اس نے کہا، 'ٹھیک ہے، زہرا متین کے ساتھ آ سکتی ہے اور اسکول میں پڑھ سکتی ہے۔'"
+          },
+          {
+            "en": "Zahra was very happy. Every day she walked three kilometres with her brother to go to the Middle School. However, the villagers did not like Zahra going to the boys' school. They said, \"Zahra must stay at home with her mother.\" But Zahra's mother and father replied, “No! She will go to school. She wants to be a teacher.'",
+            "sd": "زهرا ڏاڍي خوش هئي. هوءَ هر روز پنهنجي ڀاءُ سان گڏ مڊل اسڪول وڃڻ لاءِ ٽي ڪلوميٽر پنڌ هلندي هئي. پر ڳوٺ وارن کي زهرا جو ڇوڪرن واري اسڪول ۾ وڃڻ پسند نه آيو. هنن چيو، 'زهرا کي گھر ۾ پنهنجي ماءُ سان گڏ رھڻ گھرجي.' پر زهرا جي ماءُ ۽ پيءُ جواب ڏنو، 'نه! هوءَ اسڪول ويندي. هوءَ استاد بڻجڻ ٿي چاهي.'",
+            "ur": "زہرا بہت خوش تھی۔ ہر روز وہ اپنے بھائی کے ساتھ مڈل اسکول جانے کے لیے تین کلومیٹر پیدل چلتی تھی۔ لیکن گاؤں والوں کو زہرا کا لڑکوں کے اسکول جانا پسند نہیں آیا۔ انہوں نے کہا، 'زہرا کو گھر پر اپنی ماں کے ساتھ رہنا چاہیے۔' لیکن زہرا کی ماں اور باپ نے جواب دیا، 'نہیں! وہ اسکول جائے گی۔ وہ استاد بننا چاہتی ہے۔'"
+          },
+          {
+            "en": "The villagers were angry. They said, “She must not cross our village streets, because when our daughters see her, they will also want to go to school.” Poor Zahra and Mateen! Now they had to take a longer route to the Middle School. They had to walk five kilometers to school to avoid the angry villagers.",
+            "sd": "ڳوٺ وارا ڪاوڙجي پيا. هنن چيو، 'هوءَ اسان جي ڳوٺ جي گهٽين تان نه لنگهي، ڇاڪاڻ ته جڏهن اسان جون ڌيئرون کيس ڏسنديون ته اهي به اسڪول وڃڻ ٿي چاهينديون.' بيچاري زهرا ۽ متين! هاڻي هنن کي مڊل اسڪول وڃڻ لاءِ ڊگهو رستو وٺڻو پيو. هنن کي ڪاوڙيل ڳوٺ وارن کان بچڻ لاءِ اسڪول وڃڻ لاءِ پنج ڪلوميٽر پنڌ ھلڻو پيو.",
+            "ur": "گاؤں والے ناراض تھے۔ انہوں نے کہا، 'وہ ہمارے گاؤں کی گلیوں سے نہ گزرے، کیونکہ جب ہماری بیٹیاں اسے دیکھیں گی تو وہ بھی اسکول جانا چاہیں گی۔' بیچاری زہرا اور متین! اب انہیں مڈل اسکول جانے کے لیے لمبا راستہ لینا پڑتا تھا۔ انہیں ناراض گاؤں والوں سے بچنے کے لیے اسکول جانے کے لیے پانچ کلومیٹر پیدل چلنا پڑتا تھا۔"
+          },
+          {
+            "en": "Zahra was alone in the boys' school. She could not play games. She had no one to talk to, but she was very good in her studies. Her teachers were kind to her. She worked very hard. Year after year she studied, and passed her Secondary School Certificate examinations with an A-grade.",
+            "sd": "زهرا ڇوڪرن واري اسڪول ۾ اڪيلي هئي. هوءَ رانديون کيڏي نه سگھي. هن وٽ ڳالهائڻ لاءِ ڪو به نه هو، پر هوءَ پنهنجي پڙهائي ۾ ڏاڍي سٺي هئي. سندس استاد هن سان مهربان هئا. هوءَ سخت محنت ڪندي هئي. سال به سال هوءَ پڙهندي رھي ۽ سيڪنڊري اسڪول سرٽيفڪيٽ جا امتحان اي گريڊ سان پاس ڪيائين.",
+            "ur": "زہرا لڑکوں کے اسکول میں اکیلی تھی۔ وہ کھیل نہیں کھیل سکتی تھی۔ اس کے پاس بات کرنے کے لیے کوئی نہیں تھا، لیکن وہ اپنی پڑھائی میں بہت اچھی تھی۔ اس کے استاد اس کے ساتھ مہربان تھے۔ اس نے بہت سخت محنت کی۔ سال بہ سال وہ پڑھتی رہی، اور اس نے سیکنڈری اسکول سرٹیفکیٹ کے امتحانات اے گریڈ کے ساتھ پاس کر لیے۔"
+          },
+          {
+            "en": "Now Zahra has completed her studies. She will soon become a teacher!",
+            "sd": "هاڻي زهرا پنهنجي پڙهائي مڪمل ڪري چڪي آهي. هوءَ جلد ئي استاد بڻجي ويندي!",
+            "ur": "اب زہرا نے اپنی پڑھائی مکمل کر لی ہے۔ وہ جلد ہی استاد بن جائے گی!"
+          }
+        ],
+        "section": "3.2",
+        "unit": 3,
+        "unitTitle": "Importance of Female Education"
+      },
+      {
+        "bookPages": "59-61",
+        "lesson": "The sad story of my Peacock",
+        "paragraphs": [
+          {
+            "en": "I used to have a pet peacock called Miru. I loved him very much. Our village has lots of large fields around it and Miru used to wander in them all the time. In the evening he would come back home and dance beautifully.",
+            "sd": "منهنجو هڪ پالتو مور هو، جنهن جو نالو ميرو هو. مون کي هن سان گهڻو پيار هو. اسان جي ڳوٺ جي چوڌاري وڏا وڏا کيتر هئا ۽ ميرو سڄو ڏينهن انهن ۾ گھمندو رھندو هو. شام جو هو گھر موٽي ايندو هو ۽ سهڻي نموني نچندو هو.",
+            "ur": "میرے پاس میرو نام کا ایک پالتو مور تھا۔ مجھے اس سے بہت پیار تھا۔ ہمارے گاؤں کے ارد گرد بہت سے بڑے بڑے کھیت تھے اور میرو سارا دن ان میں گھومتا پھرتا تھا۔ شام کو وہ گھر واپس آتا اور خوبصورتی سے ناچتا تھا۔"
+          },
+          {
+            "en": "One sad evening, Miru did not come home. I was worried and wanted to search for him. 'Miru might have found a friend,' laughed my father. 'You'll see, tomorrow he'll come back with his friend.'",
+            "sd": "هڪ ڏکاري شام جو ميرو گھر نه موٽيو. مان پريشان ٿيس ۽ کيس ڳولڻ ٿي گهريو. 'شايد ميرو کي ڪو دوست ملي ويو هوندو،' منهنجي پيءُ کلي چيو. 'تون ڏسندين، سڀاڻي هو پنهنجي دوست سان گڏ موٽي ايندو.'",
+            "ur": "ایک اداس شام کو میرو گھر واپس نہیں آیا۔ میں پریشان تھا اور اسے تلاش کرنا چاہتا تھا۔ میرے والد ہنس کر بولے، 'شاید میرو کو کوئی دوست مل گیا ہوگا۔' 'تم دیکھنا، کل وہ اپنے دوست کے ساتھ واپس آ جائے گا۔'"
+          },
+          {
+            "en": "I did not sleep for a moment that night. As soon as it was morning, we started searching for Miru. I went to his favourite tree. He was not there. I went to the bushes near the pond. He was not there. Then I went into the fields. I called 'Miru, Miru.' He did not come. Then I whistled, but there was still no Miru.",
+            "sd": "ان رات مون کي هڪ پل بهي ننڊ نه آئي. صبح ٿيندي ئي اسان ميرو کي ڳولڻ شروع ڪيو. مان سندس پسند جي وڻ وٽ ويس. هو اتي نه هو. مان تلاءُ جي ڀرسان جھنگين وٽ ويس. هو اتي بهي نه هو. پوءِ مان کيترن ۾ ويس. مون سڏ ڪيو 'ميرو، ميرو.' هو نه آيو. پوءِ مون سيٽي وڄائي، پر ميرو ڪٿي بهي نه مليو.",
+            "ur": "اس رات مجھے ایک پل بھی نیند نہیں آئی۔ صبح ہوتے ہی ہم نے میرو کو تلاش کرنا شروع کر دیا۔ میں اس کے پسندیدہ درخت کے پاس گیا۔ وہ وہاں نہیں تھا۔ میں تالاب کے قریب جھاڑیوں کے پاس گیا۔ وہ وہاں بھی نہیں تھا۔ پھر میں کھیتوں میں گیا۔ میں نے پکارا 'میرو، میرو۔' وہ نہیں آیا۔ پھر میں نے سیٹی بجائی، لیکن میرو کہیں بھی نہیں ملا۔"
+          },
+          {
+            "en": "A farmer was ploughing his field. 'What are you looking for, Saifullah?' he asked.",
+            "sd": "هڪ هاري پنهنجي کيتر ۾ هل هلائي رھيو هو. 'تون ڇا ڳولي رھيو آهين، سيف الله؟' هن پڇيو.",
+            "ur": "ایک کسان اپنے کھیت میں ہل چلا رہا تھا۔ اس نے پوچھا، 'سیف اللہ، تم کیا ڈھونڈ رہے ہو؟'"
+          },
+          {
+            "en": "'My pet peacock, Miru,' I said. 'He did not come back last night. Have you seen him anywhere?'",
+            "sd": "'منهنجو پالتو مور، ميرو،' مون چيو. 'هو گذريل رات گھر نه موٽيو. تو کيس ڪٿي ڏٺو آهي؟'",
+            "ur": "'میرا پالتو مور، میرو،' میں نے کہا۔ 'وہ گزشتہ رات واپس نہیں آیا۔ کیا تم نے اسے کہیں دیکھا ہے؟'"
+          },
+          {
+            "en": "A peacock? I shot one last night because I like eating peacocks,' he said.",
+            "sd": "مور؟ مون گذريل رات هڪ مور کي گولي ھڻي ماريو، ڇاڪاڻ ته مون کي مور کائڻ پسند آهي،' هن چيو.",
+            "ur": "مور؟ میں نے گزشتہ رات ایک مور کو گولی مار کر ہلاک کر دیا، کیونکہ مجھے مور کھانا پسند ہے،' اس نے کہا۔"
+          },
+          {
+            "en": "'Was the peacock wearing a silver ring on his foot?' I asked tearfully. 'Yes, he was,' replied the farmer. 'Oh, my poor Miru,' I started sobbing. 'He used to dance so beautifully.'",
+            "sd": "'ڇا مور جي پير ۾ چانديءَ جي منڊي پاتل هو؟' مون ڳوڙها ڳاڙيندي پڇيو. 'ها، پاتل هو،' هاريءَ جواب ڏنو. 'اوه، منهنجو غريب ميرو،' مان روئڻ لڳس. 'هو ڪيترو سهڻو نچندو هو.'",
+            "ur": "'کیا مور کے پاؤں میں چاندی کی انگوٹھی تھی؟' میں نے روتے ہوئے پوچھا۔ 'ہاں، تھی،' کسان نے جواب دیا۔ 'اوہ، میرا بیچارا میرو،' میں رونے لگا۔ 'وہ کتنا خوبصورت ناچتا تھا۔'"
+          },
+          {
+            "en": "I cried and cried. My eyes were red. The farmer wanted to console me but I could not stop crying. Then the farmer said, 'I am sorry, little boy. I promise never to shoot a peacock again.' My Miru was dead but at least other children's peacocks in my village were now safe.",
+            "sd": "مان روئندو رھيس ۽ روئندو رھيس. منهنجون اکيون ڳاڙهيون ٿي ويون. هاري مون کي دلاسو ڏيڻ ٿي گهريو، پر مان روئڻ کان رھي نه سگھيس. پوءِ هاريءَ چيو، 'مون کي افسوس آهي، ننڍڙا ڇوڪرا. مان واعدو ٿو ڪريان ته مان ڪڏهن بهي مور کي گولي نه ھڻندس.' منهنجو ميرو مري ويو هو، پر گھٽ ۾ گھٽ منهنجي ڳوٺ جي ٻين ٻارن جا مور هاڻي محفوظ هئا.",
+            "ur": "میں روتا رہا اور روتا رہا۔ میری آنکھیں سرخ ہو گئیں۔ کسان مجھے تسلی دینا چاہتا تھا لیکن میں رونا بند نہیں کر سکا۔ پھر کسان نے کہا، 'مجھے افسوس ہے، چھوٹے لڑکے۔ میں وعدہ کرتا ہوں کہ میں کبھی دوبارہ مور کو گولی نہیں ماروں گا۔' میرا میرو مر چکا تھا لیکن کم از کم میرے گاؤں کے دوسرے بچوں کے مور اب محفوظ تھے۔"
+          }
+        ],
+        "section": "4.2",
+        "unit": 4,
+        "unitTitle": "Truthfulness"
+      },
+      {
+        "bookPages": "79-81",
+        "lesson": "Floods, blessing in disguise",
+        "paragraphs": [
+          {
+            "en": "The floods during the monsoon season in 2010 affected people in all the four provinces of Pakistan. Thousands of people lost their family members, relatives or friends. Thousands, in fact hundreds of thousands, became homeless. Huge areas of land were flooded and the crops were destroyed. People lost cattle, chickens, and other sources of income. But, people had faith in Allah. They did not give up hope. Soon, things started to change for the better for many of them.",
+            "sd": "2010ع جي مون سون جي موسم ۾ آيل ٻوڏ پاڪستان جي چئني صوبن جي ماڻهن کي متاثر ڪيو. هزارين ماڻهن پنهنجا گھر وارا، مائٽ ۽ دوست وڃايا. هزارين، حقيقت ۾ لکين ماڻهو بي گھر ٿي ويا. زمين جا وڏا وڏا علائقا ٻڏي ويا ۽ فصل تباهه ٿي ويا. ماڻهن ڍور، ڪڪڙ ۽ آمدني جا ٻيا ذريعا وڃايا. پر ماڻهن کي الله تي ايمان هو. هنن اميد نه ڇڏي. جلد ئي ڪيترن ئي ماڻهن لاءِ حالتون بهتر ٿيڻ لڳيون.",
+            "ur": "2010ء کے مون سون کے موسم میں آنے والے سیلاب نے پاکستان کے چاروں صوبوں کے لوگوں کو متاثر کیا۔ ہزاروں لوگوں نے اپنے گھر والوں، رشتہ داروں اور دوستوں کو کھو دیا۔ ہزاروں، بلکہ لاکھوں لوگ بے گھر ہو گئے۔ زمین کے بڑے بڑے علاقے زیرِ آب آ گئے اور فصلیں تباہ ہو گئیں۔ لوگوں نے مویشی، مرغیاں اور آمدنی کے دیگر ذرائع کھو دیے۔ لیکن لوگوں کو اللہ پر ایمان تھا۔ انہوں نے امید نہیں چھوڑی۔ جلد ہی بہت سے لوگوں کے حالات بہتر ہونے لگے۔"
+          },
+          {
+            "en": "The floods were a blessing in disguise for Haseena Mai. She was a widow and a mother of three children. Before the floods, she worked as a maid in people's houses to feed her children. During the worst floods in Pakistan's history, Haseena lost her house and her job. Then, one of the non-governmental organisations (NGO) started work for the flood affected people gave her 50 hens with feed for three months. By the time the water receded, the hens were big enough to lay eggs. Haseena sold the eggs, then she bought more feed and also more hens. She now owns a small poultry farm and earns around Rs. 30,000 each month. Haseena has become an inspiration for the men and women in her area.",
+            "sd": "ٻوڏ حسينا مائي لاءِ لڪل نعمت ثابت ٿي. هوءَ هڪ بيواهه ۽ ٽن ٻارن جي ماءُ هئي. ٻوڏ کان اڳ هوءَ پنهنجن ٻارن کي کارائڻ لاءِ ماڻهن جي گھرن ۾ نوڪراڻي طور ڪم ڪندي هئي. پاڪستان جي تاريخ جي بدترين ٻوڏ دوران حسينا پنهنجو گھر ۽ پنهنجي نوڪري وڃائي ڇڏي. پوءِ ٻوڏ متاثر ماڻهن لاءِ ڪم ڪندڙ هڪ غير سرڪاري تنظيم هن کي ٽن مهينن لاءِ داڻي سميت 50 ڪڪڙيون ڏنيون. جڏهن ٻوڏ جو پاڻي لٿو ته ڪڪڙيون آنا ڏيڻ جيتريون وڏيون ٿي چڪيون هيون. حسينا آنا وڪڻي، پوءِ وڌيڪ داڻو ۽ وڌيڪ ڪڪڙيون خريد ڪيون. هاڻي هوءَ هڪ ننڍو پولٽري فارم هلائي ٿي ۽ هر مهيني لڳ ڀڳ 30,000 رپيا ڪمائي ٿي. حسينا پنهنجي علائقي جي مردن ۽ عورتن لاءِ هڪ مثال بڻجي وئي آهي.",
+            "ur": "سیلاب حسینہ مائی کے لیے چھپی ہوئی نعمت ثابت ہوا۔ وہ ایک بیوہ اور تین بچوں کی ماں تھی۔ سیلاب سے پہلے وہ اپنے بچوں کو کھلانے کے لیے لوگوں کے گھروں میں نوکرانی کا کام کرتی تھی۔ پاکستان کی تاریخ کے بدترین سیلاب کے دوران حسینہ نے اپنا گھر اور اپنی نوکری کھو دی۔ پھر سیلاب متاثرین کے لیے کام کرنے والی ایک غیر سرکاری تنظیم نے اسے تین مہینوں کے لیے دانے سمیت 50 مرغیاں دیں۔ جب پانی اتر گیا تو مرغیاں انڈے دینے کے قابل بڑی ہو چکی تھیں۔ حسینہ نے انڈے بیچے، پھر مزید دانہ اور مزید مرغیاں خریدیں۔ اب وہ ایک چھوٹا سا پولٹری فارم چلاتی ہے اور ہر مہینے تقریباً 30,000 روپے کماتی ہے۔ حسینہ اپنے علاقے کے مردوں اور عورتوں کے لیے ایک مثال بن گئی ہے۔"
+          },
+          {
+            "en": "Haseena is not alone in her success. There are others also who did not give up when faced with the disaster. They kept up their hopes and fought for a better life even when everything was lost. One such person was Rana Mumtaz Ali. Several acres of his agricultural land were lying barren because of salinity before the floods. However, when the floods came they brought fertile soil to his land. The result was that around 100 acres of his once barren land became very fertile. In the season after the floods this land produced 1,760 kilogrammes of wheat per acre. According to Rana Mumtaz Ali, 'The crop was so thick that even a snake could not find place to go in.'",
+            "sd": "حسينا پنهنجي ڪاميابي ۾ اڪيلي ناهي. ٻيا به ڪيترائي ماڻهو آهن، جن مصيبت کي منهن ڏيڻ وقت به همت نه هاري. هنن پنهنجي اميد برقرار رکي ۽ سڀ ڪجهه وڃائڻ جي باوجود به بهتر زندگي لاءِ جدوجهد ڪئي. اهڙن ماڻهن مان هڪڙو رانا ممتاز علي هو. ٻوڏ کان اڳ هن جي زرعي زمين جا ڪيترائي ايڪڙ لوڻياٺي مٽي سبب بنجر پيل هئا. پر جڏهن ٻوڏ آئي ته اها هن جي زمين تي زرخيز مٽي کڻي آئي. نتيجو اهو نڪتو جو هن جي هڪ ڀيرو بنجر زمين جا لڳ ڀڳ 100 ايڪڙ تمام گھڻا زرخيز ٿي ويا. ٻوڏ کان پوءِ واري موسم ۾ هن جي زمين في ايڪڙ 1,760 ڪلوگرام ڪڻڪ پيدا ڪئي. رانا ممتاز علي جي چوڻ مطابق، 'فصل ايترو ته گھاٽو هو جو نانگ کي به اندر وڃڻ لاءِ جاءِ نه ٿي ملي.'",
+            "ur": "حسینہ اپنی کامیابی میں اکیلی نہیں ہے۔ اور بھی بہت سے لوگ ہیں جنہوں نے مصیبت کا سامنا کرتے ہوئے بھی ہمت نہیں ہاری۔ انہوں نے اپنی امید قائم رکھی اور سب کچھ کھو دینے کے باوجود بھی بہتر زندگی کے لیے جدوجہد کی۔ ایسے ہی ایک شخص رانا ممتاز علی تھا۔ سیلاب سے پہلے اس کی زرعی زمین کے کئی ایکڑ کھارے پن کی وجہ سے بنجر پڑے تھے۔ لیکن جب سیلاب آیا تو وہ اس کی زمین پر زرخیز مٹی لے آیا۔ نتیجہ یہ نکلا کہ اس کی کبھی بنجر رہنے والی زمین کے تقریباً 100 ایکڑ بہت زرخیز ہو گئے۔ سیلاب کے بعد والے موسم میں اس کی زمین نے فی ایکڑ 1,760 کلوگرام گندم پیدا کی۔ رانا ممتاز علی کے بقول، 'فصل اتنی گھنی تھی کہ سانپ کو بھی اندر جانے کی جگہ نہ ملتی۔'"
+          },
+          {
+            "en": "According to another farmer, Muhammad Sharif, an area of around 15 kilometres of infertile land in his region could now be cultivated. Moreover, in areas where the wheat production per acre before the floods was around 2,200 kilogrammes (kgs), it increased to 2,600 kgs per acre after the floods.",
+            "sd": "هڪ ٻئي هاري محمد شريف جي چوڻ مطابق، هن جي علائقي ۾ لڳ ڀڳ 15 ڪلوميٽر بنجر زمين هاڻي پوکي سگھجي ٿي. ان کان علاوه، جن علائقن ۾ ٻوڏ کان اڳ في ايڪڙ ڪڻڪ جي پيداوار لڳ ڀڳ 2,200 ڪلوگرام هئي، اتي ٻوڏ کان پوءِ اها وڌي 2,600 ڪلوگرام في ايڪڙ ٿي وئي.",
+            "ur": "ایک اور کسان محمد شریف کے بقول، اس کے علاقے میں تقریباً 15 کلومیٹر بنجر زمین اب کاشت کی جا سکتی تھی۔ اس کے علاوہ، جن علاقوں میں سیلاب سے پہلے فی ایکڑ گندم کی پیداوار تقریباً 2,200 کلوگرام تھی، وہاں سیلاب کے بعد یہ بڑھ کر 2,600 کلوگرام فی ایکڑ ہو گئی۔"
+          },
+          {
+            "en": "Floodwater lakes also provided livelihood to people. For example, one of the lakes that was naturally formed by the floods in one of the affected areas had plenty of fishes. One of the persons living in this area, Jamshed, said that he could easily catch up to 15 kilogrammes of fish from that lake and sell it in the market. He said that, for him, the lake had proved to be a blessing. In fact, the number of such fisheries increased by about thirty percent after the floods.",
+            "sd": "ٻوڏ جي پاڻي سان بڻيل ڍنڍن به ماڻهن کي روزگار ڏنو. مثال طور، متاثر علائقن مان هڪ ۾ ٻوڏ سبب قدرتي طور بڻيل ڍنڍن مان هڪ ۾ مڇيون گھڻيون هيون. ان علائقي ۾ رھندڙ هڪ ماڻهو، جمشيد، چيو ته هو ان ڍنڍ مان آساني سان 15 ڪلوگرام مڇي پڪڙي بازار ۾ وڪڻي سگھي ٿو. هن چيو ته هن لاءِ ڍنڍ نعمت ثابت ٿي هئي. حقيقت ۾، ٻوڏ کان پوءِ اهڙين مڇي مارڻ وارين جاين جو انگ لڳ ڀڳ ٽيهه سيڪڙو وڌي ويو.",
+            "ur": "سیلاب کے پانی سے بننے والی جھیلیں بھی لوگوں کے لیے روزگار کا ذریعہ بنیں۔ مثال کے طور پر، متاثرہ علاقوں میں سے ایک میں سیلاب سے قدرتی طور پر بننے والی جھیلوں میں سے ایک میں مچھلیاں بہت زیادہ تھیں۔ اس علاقے میں رہنے والا ایک شخص جمشید کہنے لگا کہ وہ اس جھیل سے آسانی سے 15 کلوگرام مچھلی پکڑ کر بازار میں بیچ سکتا ہے۔ اس نے کہا کہ اس کے لیے جھیل نعمت ثابت ہوئی تھی۔ درحقیقت، سیلاب کے بعد مچھلی پکڑنے کے ایسے مقامات کی تعداد میں تقریباً تیس فیصد اضافہ ہو گیا۔"
+          }
+        ],
+        "section": "5.2",
+        "unit": 5,
+        "unitTitle": "My Country"
+      }
+    ],
     "sindhiExsolutions": [
       {
         "display": "ڏٺي سگورو",
