@@ -63,7 +63,40 @@ function matTabHtml(tab){
       });
     }
   }
+  else if(tab === "lessonTexts"){
+    var lt = data.lessonTexts || [];
+    if(lt.length){
+      var sec = null;
+      try{ if(typeof sectionForSubject === "function") sec = sectionForSubject(matCls, matSubj); }catch(e){}
+      if(!sec){
+        var cs = (typeof currentSection !== "undefined" && currentSection) || "";
+        if(cs === "Sindhi" || cs === "sd") sec = "sd";
+        else if(cs === "Urdu" || cs === "ur") sec = "ur";
+        else if(cs === "English" || cs === "en") sec = "en";
+        else sec = "sd";
+      }
+      lt.forEach(function(L, i){
+        html += "<div class=\"matsec\"><button class=\"modebtn\" onclick=\"toggleLessonText(" + i + ")\">Unit " + L.unit + " \u2014 " + escHtml(L.lesson) + " <span id=\"lessontext-sign-" + i + "\">+</span></button><div id=\"lessontext-" + i + "\" class=\"matpanel\" style=\"display:none\">";
+        L.paragraphs.forEach(function(pa){
+          html += "<p dir=\"ltr\">" + escHtml(pa.en) + "</p>";
+          if(sec === "sd") html += "<p dir=\"rtl\" style=\"text-align:right\"><b>\u0633\u0646\u068c\u064a \u0645\u0639\u0646\u064a\u0670</b></p><p dir=\"rtl\" style=\"text-align:right\">" + escHtml(pa.sd) + "</p>";
+          else if(sec === "ur") html += "<p dir=\"rtl\" style=\"text-align:right\"><b>\u0627\u0631\u062f\u0648 \u062a\u0631\u062c\u0645\u06c1</b></p><p dir=\"rtl\" style=\"text-align:right\">" + escHtml(pa.ur) + "</p>";
+        });
+        html += "</div></div>";
+      });
+    } else {
+      html = "<p class=\"note\">Lesson texts for this subject will be added here soon.</p>";
+    }
+  }
   return html;
+}
+function toggleLessonText(i){
+  var p = document.getElementById("lessontext-" + i);
+  var s = document.getElementById("lessontext-sign-" + i);
+  if(!p) return;
+  var isHidden = (p.style.display === "none");
+  p.style.display = isHidden ? "" : "none";
+  if(s) s.textContent = isHidden ? "\u2212" : "+";
 }
 function buildMatPanels(){
   matTabs.forEach(function(t){
@@ -232,7 +265,7 @@ function renderSubjectMaterial(cls, subj){
   }
   if(subj === "English"){
     if(!data){ box.innerHTML = ""; return; }
-    matTabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
+    matTabs = [["lessonTexts", "Lesson Texts"], ["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
     if(data.notes) matTabs.push(["notes", "Notes"]);
     matTabs.forEach(function(t){
       html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
