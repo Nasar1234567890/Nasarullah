@@ -34620,6 +34620,1020 @@ STUDY.ix = {
         "display": "Ghazi's Diary"
       }
     ],
+    "lessonTexts": [
+      {
+        "bookPages": "2-4",
+        "lesson": "The Last Sermon of the Holy Prophet (S.A.W)",
+        "paragraphs": [
+          {
+            "en": "Our Holy Prophet Muhammad (S.A.W) is the last of the Prophets. Holy Prophet Muhammad (S.A.W) was born in 571 AD at Makkah Saudi Arabia, in a respected Quraish family. The Quraish used to worship idols and did not believe in one God. Prophet Muhammad (S.A.W), asked the Quraish not to worship their false gods. He told them that he was the Prophet of Allah and asked them to accept Islam and to worship the One and only true God. Most of them refused to accept Islam. They thought that he was against their gods and their ancestors. They opposed this new faith so much that the Prophet (S.A.W) had to ask the believers to migrate to Yathrib, a city 320 km (200 miles) north of Makkah.",
+            "sd": "اسان جو پيغمبر حضرت محمد ﷺ سڀني نبين کان پوءِ آخري نبي آهي. پاڻ 571 عيسوي ۾ مڪي، سعودي عرب ۾، قريش جي هڪ معزز خاندان ۾ ڄائو هو. قريش بت پرست هئا ۽ هڪ خدا کي نه مڃيندا هئا. حضرت محمد ﷺ قريش کي چيو ته پنهنجن ڪوڙن ديوتائن جي پوڄا نه ڪن. پاڻ کين ٻڌايو ته هو الله جو پيغمبر آهي ۽ کين چيو ته اسلام قبول ڪن ۽ هڪ ۽ واحد سچي خدا جي عبادت ڪن. گھڻن ئي انڪار ڪيو ته اسلام قبول ڪن. هنن سمجھيو ته هو سندن ديوتائن ۽ سندن ابن ڏاڏن جي خلاف آهي. هنن نئين دين جي ايتري مخالفت ڪئي جو پيغمبر ﷺ کي مؤمنن کي چوڻو پيو ته يثرب ڏانهن هجرت ڪن، جيڪو مڪي کان 320 ڪلوميٽر (200 ميل) اتر ۾ هڪ شهر آهي.",
+            "ur": "ہمارے پیارے نبی حضرت محمد ﷺ تمام نبیوں میں آخری نبی ہیں۔ آپ 571 عیسوی میں مکہ، سعودی عرب میں قریش کے ایک معزز خاندان میں پیدا ہوئے۔ قریش بتوں کی پوجا کرتے تہے اور ایک خدا کو نہیں مانتے تہے۔ حضرت محمد ﷺ نے قریش سے کہا کہ اپنے جہوٹے خداؤں کی پوجا نہ کریں۔ آپ نے انہیں بتایا کہ وہ اللہ کے نبی ہیں اور ان سے کہا کہ اسلام قبول کریں اور ایک اور واحد سچے خدا کی عبادت کریں۔ ان میں سے اکثر نے اسلام قبول کرنے سے انکار کر دیا۔ انہوں نے سمجہا کہ آپ ان کے خداؤں اور ان کے آبا و اجداد کے خلاف ہیں۔ انہوں نے اس نئے دین کی اتنی مخالفت کی کہ نبی ﷺ کو مؤمنوں سے کہنا پڑا کہ یثرب کی طرف ہجرت کریں، جو مکہ سے 320 کلومیٹر (200 میل) شمال میں ایک شہر ہے۔"
+          },
+          {
+            "en": "But, with time, as many people started accepting his message and converting to Islam, the Quraish became more aggressive and started making attempts on his life. Hence, when Prophet Muhammad (S.A.W) got positive signals from Yathrib, he also decided to emigrate there. After eight days' journey, he reached the outskirts of Yathrib, on 28th June 622; but he did not enter the city directly. He stopped at a place called Quba', a place some miles from the main city, and built a mosque there.",
+            "sd": "پر وقت گذرڻ سان، جڏهن گھڻا ماڻهو سندس پيغام قبول ڪرڻ ۽ اسلام ۾ داخل ٿيڻ لڳا، ته قريش وڌيڪ جارح ٿي ويا ۽ سندس جان وٺڻ جون ڪوششون ڪرڻ لڳا. تنهنڪري، جڏهن حضرت محمد ﷺ کي يثرب کان مثبت اشارا مليا، ته پاڻ به اتي هجرت ڪرڻ جو فيصلو ڪيو. اٺن ڏينهن جي سفر کان پوءِ، هو 28 جون 622ع تي يثرب جي ٻاهران پھتو؛ پر سڌو سنئون شهر ۾ داخل نه ٿيو. هو قبا نالي هڪ جاءِ تي ترسيو، جيڪا مکيه شهر کان ڪجه ميل پري هئي، ۽ اتي هڪ مسجد ٺاھيائين.",
+            "ur": "لیکن وقت گزرنے کے ساتہ، جب بہت سے لوگ آپ کا پیغام قبول کرنے اور اسلام میں داخل ہونے لگے، تو قریش اور زیادہ سخت ہو گئے اور آپ کی جان لینے کی کوششیں کرنے لگے۔ اس لیے جب حضرت محمد ﷺ کو یثرب سے اچہے اشارے ملے، تو آپ نے بہی وہاں ہجرت کرنے کا فیصلہ کیا۔ آٹہ دن کے سفر کے بعد، آپ 28 جون 622ء کو یثرب کے باہر پہنچے؛ لیکن سیدہا شہر میں داخل نہ ہوئے۔ آپ قبا نامی ایک جگہ پر رکے، جو مرکزی شہر سے کچہ میل دور تہی، اور وہاں ایک مسجد بنائی۔"
+          },
+          {
+            "en": "On 2nd July 622, Prophet Muhammad (S.A.W) entered the city. This event is known as\"Hijra\"and marks the beginning of the Islamic calendar. Yathrib was soon renamed Madinat un-Nabi (literally \"City of the Prophet\"), but un-Nabi was soon dropped, and its name became \"Madina\", meaning \"the city\".",
+            "sd": "2 جولاءِ 622ع تي حضرت محمد ﷺ شهر ۾ داخل ٿيو. هن واقعي کي ”هجرت“ چيو وڃي ٿو ۽ هي اسلامي ڪئلينڊر جي شروعات آهي. يثرب جو نالو جلد ئي مدينت النبي (لفظي معنيٰ ”نبي جو شهر“) رکيو ويو، پر النبي وارو لفظ جلد ئي ڇڏي ڏنو ويو، ۽ ان جو نالو ”مدينو“ ٿي ويو، جنهن جي معنيٰ آهي ”شهر“.",
+            "ur": "2 جولائی 622ء کو حضرت محمد ﷺ شہر میں داخل ہوئے۔ یہ واقعہ ہجرت کے نام سے جانا جاتا ہے اور یہ اسلامی کیلنڈر کی ابتدا ہے۔ یثرب کا نام جلد ہی مدینۃ النبی (لفظی معنی ”نبی کا شہر“) رکہا گیا، لیکن النبی کا لفظ جلد ہی چہوڑ دیا گیا، اور اس کا نام ”مدینہ“ ہو گیا، جس کے معنی ہیں ”شہر“۔"
+          },
+          {
+            "en": "At the time of arrival of Prophet Muhammad (S.A.W) in Madina, the city had four broad groups of people. There were the Muslims; including those who were from Madina and those who had emigrated from Makkah. Then, there were the hypocrites; that is those who embraced Islam in name only, but actually were against it. Additionally, there were the people from Aws and Khazraj, who were still pagans but were likely to accept Islam. Finally, there were the Jews, who were huge in number and formed an important community there.",
+            "sd": "جڏهن حضرت محمد ﷺ مديني ۾ پھتا، ته شهر ۾ ماڻهن جا چار وڏا گروهه هئا. اتي مسلمان هئا؛ جن ۾ مديني وارا به هئا ۽ اهي به هئا جيڪي مڪي کان هجرت ڪري آيا هئا. پوءِ اتي منافق هئا؛ يعني اهي جيڪي نالي ماتر اسلام قبول ڪيو هئائون، پر حقيقت ۾ ان جي خلاف هئا. ان کان سواءِ، اتي اوس ۽ خزرج جا ماڻهو هئا، جيڪي اڃا بت پرست هئا پر اسلام قبول ڪرڻ جا امڪان هئا. آخر ۾ اتي يهودي هئا، جيڪي تعداد ۾ گھڻا هئا ۽ اتي هڪ اهم برادري بڻجي ويا هئا.",
+            "ur": "جب حضرت محمد ﷺ مدینہ میں پہنچے، تو شہر میں لوگوں کے چار بڑے گروہ تہے۔ وہاں مسلمان تہے؛ جن میں مدینہ کے لوگ بہی تہے اور وہ بہی جو مکہ سے ہجرت کر کے آئے تہے۔ پہر وہاں منافق تہے؛ یعنی وہ لوگ جنہوں نے صرف نام کے لیے اسلام قبول کیا تہا، لیکن حقیقت میں اس کے خلاف تہے۔ اس کے علاوہ، وہاں اوس اور خزرج کے لوگ تہے، جو ابہی تک بت پرست تہے لیکن اسلام قبول کرنے کا امکان تہا۔ آخر میں وہاں یہودی تہے، جو تعداد میں بہت زیادہ تہے اور وہاں ایک اہم برادری بن گئے تہے۔"
+          },
+          {
+            "en": "In order to ensure that all these people lived peacefully with each other, Prophet Muhammad (S.A.W) invited the leading personalities of all the communities to discuss this matter. He wanted the different groups to reach a formal agreement for harmony among the communities and for the security of the city of Madina. He succeeded in drawing up the Constitution of Madina, also known as the Charter of Madina, through which a kind of understanding was developed among all the communities living in Madina. It mentioned the rights and duties of the Muslims and the Jews of Madina, gave freedom of religion, and prohibited any alliance with the outside enemies. It also declared that any dispute would be referred to Prophet Muhammad (S.A.W) for settlement. In later years, he unified the different Arab tribes under Islam, carried out social and religious reforms, and administrative developments that further consolidated the Islamic community in Madina.",
+            "sd": "انهيءَ لاءِ ته هي سڀ ماڻهو هڪ ٻئي سان امن سان زندگي گذارين، حضرت محمد ﷺ سڀني برادرين جي اڳواڻ شخصيتن کي دعوت ڏني ته هن معاملي تي ڳالھ ٻولھ ڪن. پاڻ چاهيو ٿي ته مختلف گروهه برادرين وچ ۾ هم آهنگي ۽ مديني شهر جي سلامتي لاءِ هڪ رسمي معاهدو ڪن. پاڻ مديني جو آئين ٺاھڻ ۾ ڪامياب ٿيو، جنهن کي مديني جو چارٽر به چيو وڃي ٿو، جنهن ذريعي مديني جي سڀني برادرين وچ ۾ هڪ قسم جي سمجھوتو پيدا ٿيو. ان ۾ مديني جي مسلمانن ۽ يهودين جا حق ۽ فرض بيان ڪيا ويا هئا، مذهب جي آزادي ڏني وئي هئي، ۽ ٻاهرين دشمنن سان ڪو به اتحاد ڪرڻ کان منع ڪئي وئي هئي. ان ۾ اهو به اعلان ڪيو ويو هو ته ڪو به تڪرار فيصلي لاءِ حضرت محمد ﷺ ڏانهن موڪليو ويندو. پوءِ وارن سالن ۾، پاڻ مختلف عرب قبيلن کي اسلام هيٺ متحد ڪيو، سماجي ۽ مذهبي سڌارا آندا، ۽ انتظامي ترقيون ڪيون جن مديني ۾ اسلامي برادري کي وڌيڪ مضبوط ڪيو.",
+            "ur": "اس بات کو یقینی بنانے کے لیے کہ یہ سب لوگ ایک دوسرے کے ساتہ امن سے رہیں، حضرت محمد ﷺ نے تمام برادریوں کی اہم شخصیات کو بلایا کہ اس معاملے پر بات چیت کریں۔ آپ چاہتے تہے کہ مختلف گروہ برادریوں کے درمیان ہم آہنگی اور مدینہ شہر کی سلامتی کے لیے ایک رسمی معاہدہ کریں۔ آپ مدینہ کا آئین بنانے میں کامیاب ہوئے، جسے مدینہ کا چارٹر بہی کہا جاتا ہے، جس کے ذریعے مدینہ میں رہنے والی تمام برادریوں کے درمیان ایک طرح کی مفاہمت پیدا ہوئی۔ اس میں مدینہ کے مسلمانوں اور یہودیوں کے حقوق اور فرائض بیان کیے گئے تہے، مذہب کی آزادی دی گئی تہی، اور باہر کے دشمنوں سے کوئی اتحاد کرنے سے منع کیا گیا تہا۔ اس میں یہ بہی اعلان کیا گیا تہا کہ کوئی بہی جہگڑا فیصلے کے لیے حضرت محمد ﷺ کے پاس بہیجا جائے گا۔ بعد کے برسوں میں، آپ نے مختلف عرب قبیلوں کو اسلام کے تحت متحد کیا، سماجی اور مذہبی اصلاحات کیں، اور انتظامی ترقیاں کیں جن سے مدینہ میں اسلامی برادری مزید مضبوط ہوئی۔"
+          },
+          {
+            "en": "In the year 10 A.H., Prophet Muhammad (S.A.W) undertook his farewell pilgrimage to Makkah. This farewell pilgrimage is one of the most significant historical events for the Muslims, for it was the first and last pilgrimage made by Prophet Muhammad (S.A.W), as well as an occasion when he taught Muslims how to perform the Hajj. Moreover, it was during this Hajj, that he delivered his last sermon in the Uranah valley of Mount Arafat, on the 9th of Dhu al-Hijjah, 10 A.H. (6th March 632). There were countless Muslims present with the Prophet (S.A.W) during his last pilgrimage when he delivered his last Sermon.",
+            "sd": "10 هجري ۾، حضرت محمد ﷺ مڪي ڏانهن پنهنجو الوداعي حج ڪيو. هي الوداعي حج مسلمانن لاءِ سڀ کان اهم تاريخي واقعن مان هڪ آهي، ڇو ته هي حضرت محمد ﷺ جو پهريون ۽ آخري حج هو، ۽ اهو هڪ اهڙو موقعو به هو جڏهن پاڻ مسلمانن کي سيکاريو ته حج ڪيئن ادا ڪجي. ان کان سواءِ، هن ئي حج دوران پاڻ پنهنجو آخري خطبو عرفات جبل جي عرنه وادي ۾ ڏنو، 9 ذوالحج 10 هجري (6 مارچ 632ع) تي. جڏهن پاڻ پنهنجو آخري خطبو ڏنو، ته ان وقت سندس آخري حج ۾ پاڻ سان گڏ بيشمار مسلمان موجود هئا.",
+            "ur": "10 ہجری میں، حضرت محمد ﷺ نے مکہ کی طرف اپنا الوداعی حج کیا۔ یہ الوداعی حج مسلمانوں کے لیے سب سے اہم تاریخی واقعات میں سے ایک ہے، کیونکہ یہ حضرت محمد ﷺ کا پہلا اور آخری حج تہا، اور یہ ایک ایسا موقع بہی تہا جب آپ نے مسلمانوں کو سکہایا کہ حج کیسے ادا کیا جائے۔ اس کے علاوہ، اسی حج کے دوران آپ نے اپنا آخری خطبہ عرفات پہاڑ کی وادی عرنہ میں دیا، 9 ذوالحجہ 10 ہجری (6 مارچ 632ء) کو۔ جب آپ نے اپنا آخری خطبہ دیا، تو اس وقت آپ کے آخری حج میں آپ کے ساتہ بے شمار مسلمان موجود تہے۔"
+          },
+          {
+            "en": "Delivering his last sermon, Prophet Muhammad (S.A.W) first of all praised and thanked Allah, and then said, \"O people, lend me an attentive ear, for I know not whether, after this year, I shall ever be amongst you again. Therefore, listen to what I am saying to you very carefully and take these words to those who could not be present here today.\"",
+            "sd": "پنهنجو آخري خطبو ڏيندي، حضرت محمد ﷺ پهريائين الله جي حمد ۽ شڪر ڪيو، ۽ پوءِ چيو، ”اي لوڪو، منهنجي ڳالھ ڏانهن ڌيان سان ٻڌو، ڇو ته مان نٿو ڄاڻان ته هن سال کان پوءِ مان وري ڪڏهن اوهان وچ ۾ هوندس يا نه. تنهنڪري، جيڪي مان اوهان کي چئي رھيو آهيان، تنهن کي تمام ڌيان سان ٻڌو ۽ هي ڳالھيون انهن تائين پھچايو جيڪي اڄ هتي موجود نه ٿي سگھيا.“",
+            "ur": "اپنا آخری خطبہ دیتے ہوئے، حضرت محمد ﷺ نے سب سے پہلے اللہ کی حمد اور شکر کیا، اور پہر کہا، ”اے لوگو، میری بات غور سے سنو، کیونکہ میں نہیں جانتا کہ اس سال کے بعد میں تمہارے درمیان دوبارہ کبہی آؤں گا یا نہیں۔ اس لیے جو کچہ میں تم سے کہہ رہا ہوں، اسے بہت غور سے سنو اور یہ باتیں ان تک پہنچاؤ جو آج یہاں موجود نہیں ہو سکے۔“"
+          },
+          {
+            "en": "Then, amongst other things, he gave the following messages:",
+            "sd": "پوءِ، ٻين ڳالھين سان گڏ، پاڻ هيٺيان پيغام ڏنا:",
+            "ur": "پہر، دوسری باتوں کے ساتہ، آپ نے یہ پیغامات دیے:"
+          },
+          {
+            "en": "\"O People! regard the life and property of every Muslim as a sacred trust. Return the goods entrusted to you to their rightful owners. Hurt no one so that no one may hurt you.\"",
+            "sd": "”اي لوڪو! هر مسلمان جي جان ۽ مال کي هڪ مقدس امانت سمجھو. جيڪي شيون اوهان وٽ امانت طور رکيل آهن، تن کي سندن صحيح مالڪن کي واپس ڪريو. ڪنهن کي به تڪليف نه ڏيو ته جيئن ڪو به اوهان کي تڪليف نه ڏئي.“",
+            "ur": "”اے لوگو! ہر مسلمان کی جان اور مال کو ایک مقدس امانت سمجہو۔ جو چیزیں تمہارے پاس امانت کے طور پر رکہی گئی ہیں، انہیں ان کے صحیح مالکوں کو واپس کر دو۔ کسی کو تکلیف نہ دو تاکہ کوئی تمہیں تکلیف نہ دے۔“"
+          },
+          {
+            "en": "\"Beware of Satan, for the safety of your religion. He has lost all hope that he will ever be able to lead you astray in big things, so beware of following him in small things.\"",
+            "sd": "”شيطان کان خبردار رھو، پنهنجي دين جي سلامتي لاءِ. هو هر اميد وڃائي چڪو آهي ته هو اوهان کي وڏين ڳالھين ۾ گمراه ڪري سگھي ٿو، تنهنڪري ننڍين ڳالھين ۾ به سندس پيروي ڪرڻ کان خبردار رھو.“",
+            "ur": "”شیطان سے خبردار رہو، اپنے دین کی حفاظت کے لیے۔ اس نے ہر امید کہو دی ہے کہ وہ تمہیں بڑی باتوں میں گمراہ کر سکے گا، اس لیے چہوٹی باتوں میں بہی اس کی پیروی کرنے سے خبردار رہو۔“"
+          },
+          {
+            "en": "\"O People, it is true that you have certain rights with regard to your women, but they also have rights over you.\"",
+            "sd": "”اي لوڪو، اهو سچ آهي ته اوهان جا پنهنجن عورتن تي ڪجه حق آهن، پر انهن جا به اوهان تي حق آهن.“",
+            "ur": "”اے لوگو، یہ سچ ہے کہ تمہارے اپنی عورتوں پر کچہ حقوق ہیں، لیکن ان کے بہی تم پر حقوق ہیں۔“"
+          },
+          {
+            "en": "\"All mankind is from Adam and Adam was created from dust. The noblest of you in Allah's sight is the most God-fearing. An Arab has no superiority over a non-Arab, nor does a non-Arab have any superiority over an Arab; a white has no superiority over a black, nor does a black have any superiority over a white, except by piety and good action. I, therefore, crush under my feet all the false claims to greatness and superiority founded on blood or wealth.\"",
+            "sd": "”سڀ انسان آدم کان آهن ۽ آدم مٽيءَ مان پيدا ڪيو ويو هو. الله جي نظر ۾ اوهان مان سڀ کان شريف اهو آهي جيڪو سڀ کان وڌيڪ خدا کان ڊڄندڙ آهي. ڪنهن عرب کي ڪنهن غير عرب تي ڪا برتري ناهي، ۽ نه ئي ڪنهن غير عرب کي ڪنهن عرب تي ڪا برتري آهي؛ ڪنهن گوري کي ڪنهن ڪاري تي ڪا برتري ناهي، ۽ نه ئي ڪنهن ڪاري کي ڪنهن گوري تي ڪا برتري آهي، سواءِ پرهيزگاري ۽ نيڪ عمل جي. تنهنڪري، مان پنهنجن پيرن هيٺان وڏائي ۽ برتري جا سڀ ڪوڙا دعوائون چيڀاٽي ڇڏيان ٿو، جيڪي نسل يا دولت تي ٻڌل آهن.“",
+            "ur": "”تمام انسان آدم سے ہیں اور آدم مٹی سے پیدا کیے گئے۔ اللہ کی نظر میں تم میں سب سے بہتر وہ ہے جو سب سے زیادہ خدا سے ڈرنے والا ہے۔ کسی عرب کو کسی غیر عرب پر کوئی برتری نہیں ہے، اور نہ کسی غیر عرب کو کسی عرب پر کوئی برتری ہے؛ کسی گورے کو کسی کالے پر کوئی برتری نہیں ہے، اور نہ کسی کالے کو کسی گورے پر کوئی برتری ہے، سوائے پرہیزگاری اور نیک عمل کے۔ اس لیے میں اپنے پاؤں کے نیچے بڑائی اور برتری کے تمام جہوٹے دعوے کچل دیتا ہوں، جو نسل یا دولت پر مبنی ہیں۔“"
+          },
+          {
+            "en": "\"Every Muslim is a brother to every Muslim and that the Muslims constitute one brotherhood. Nothing shall be legitimate to a Muslim which belongs to a fellow Muslim unless it was given freely and willingly.\"",
+            "sd": "”هر مسلمان هر مسلمان جو ڀاءُ آهي ۽ مسلمان هڪ ڀائيچاري جوڙين ٿا. ڪنهن به مسلمان لاءِ اهو جائز ناهي ته هو پنهنجي مسلمان ڀاءُ جي ڪا شيءِ وٺي، جيستائين اها کيس خوشيءَ سان ۽ رضامنديءَ سان نه ڏني وئي هجي.“",
+            "ur": "”ہر مسلمان ہر مسلمان کا بہائی ہے اور مسلمان ایک بہائی چارہ بناتے ہیں۔ کسی مسلمان کے لیے یہ جائز نہیں ہے کہ وہ اپنے مسلمان بہائی کی کوئی چیز لے، جب تک کہ وہ اسے خوشی اور رضامندی سے نہ دی گئی ہو۔“"
+          },
+          {
+            "en": "The Holy Prophet completed His last sermon by saying, \"Be my witness, O God, that I have conveyed your message to your people.\"",
+            "sd": "حضرت محمد ﷺ پنهنجو آخري خطبو هنن لفظن سان پورو ڪيو: ”اي الله، منهنجو شاھد رھ ته مون تنهنجو پيغام تنهنجي ماڻهن تائين پھچايو آهي.“",
+            "ur": "نبی ﷺ نے اپنا آخری خطبہ یہ کہہ کر مکمل کیا: ”اے اللہ، میرا گواہ رہ کہ میں نے تیرا پیغام تیرے لوگوں تک پہنچا دیا ہے۔“"
+          },
+          {
+            "en": "The messages conveyed in this sermon are for all times. If the Muslims follow these messages, the result will be a fair and equitable society, in which there will be honesty and justice, and meritocracy will be the guiding principle.",
+            "sd": "هن خطبي ۾ ڏنل پيغام هر دور لاءِ آهن. جيڪڏهن مسلمان هنن پيغامن تي عمل ڪن، ته نتيجو هڪ منصفاڻو ۽ برابري وارو معاشرو هوندو، جنهن ۾ ايمانداري ۽ انصاف هوندو، ۽ قابليت ئي هدايت ڪندڙ اصول هوندو.",
+            "ur": "اس خطبے میں دیے گئے پیغامات ہر زمانے کے لیے ہیں۔ اگر مسلمان ان پیغامات پر عمل کریں، تو نتیجہ ایک منصفانہ اور مساوی معاشرہ ہو گا، جس میں ایمانداری اور انصاف ہو گا، اور قابلیت رہنمائی کرنے والا اصول ہو گا۔"
+          }
+        ],
+        "section": "1.1",
+        "unit": 1,
+        "unitTitle": "Ethics – Character Building"
+      },
+      {
+        "bookPages": "25-28",
+        "lesson": "Shah Abdul Latif",
+        "paragraphs": [
+          {
+            "en": "Shah Abdul Latif Bhitai, who is lovingly called Lal Latif by his devotees, was a noted Sindhi Sufi scholar, mystic, saint, and poet. He is considered as the greatest Muslim poet of the Sindhi language. Information about the life of Bhitai has mostly been collected from oral traditions. A renowned Pakistani scholar, educationist, and writer of plays, dramas and stories, Mirza Kalich Beg, is said to have collected details about the early life of Shah Bhitai from some of the old people living at that time. These people had heard these facts from their fathers and grandfathers, some of whom had seen Shah Latif in person and had even spoken to him.",
+            "sd": "شاھ عبداللطيف ڀٽائي، جنهن کي سندس عقيدتمند پيار سان لال لطيف چوندا آهن، هڪ مشھور سنڌي صوفي عالم، عارف، بزرگ ۽ شاعر هو. هن کي سنڌي ٻولي جو سڀ کان وڏو مسلمان شاعر سمجھيو وڃي ٿو. ڀٽائي جي زندگي بابت ڄاڻ گھڻي ڀاڱي زباني روايتن مان گڏ ڪئي وئي آهي. هڪ مشھور پاڪستاني عالم، تعليمدان ۽ ناٽڪن، ڊرامن ۽ ڪھاڻين جو ليکڪ، مرزا ڪاليچ بيگ، چيو وڃي ٿو ته هن شاھ ڀٽائي جي شروعاتي زندگي بابت تفصيل ان وقت جي ڪجه پوڙهن ماڻهن کان گڏ ڪيا هئا. انهن ماڻهن اهي ڳالھيون پنهنجن پيءُ ۽ ڏاڏن کان ٻڌيون هيون، جن مان ڪجه شاھ لطيف کي ذاتي طور ڏٺو هو ۽ ان سان ڳالھايو به هو.",
+            "ur": "شاہ عبداللطیف بھٹائی، جنہیں ان کے عقیدت مند پیار سے لال لطیف کہتے ہیں، ایک معروف سندھی صوفی عالم، عارف، بزرگ اور شاعر تھے۔ انہیں سندھی زبان کا سب سے بڑا مسلمان شاعر سمجھا جاتا ہے۔ بھٹائی کی زندگی کے بارے میں معلومات زیادہ تر زبانی روایات سے جمع کی گئی ہیں۔ ایک معروف پاکستانی عالم، ماہر تعلیم اور ڈراموں، ناٹکوں اور کہانیوں کے مصنف، مرزا کالیچ بیگ، کے بارے میں کہا جاتا ہے کہ انہوں نے شاہ بھٹائی کی ابتدائی زندگی کی تفصیلات اس زمانے کے کچھ بزرگ لوگوں سے جمع کی تھیں۔ ان لوگوں نے یہ باتیں اپنے باپ دادا سے سنی تھیں، جن میں سے بعض نے شاہ لطیف کو خود دیکھا تھا اور ان سے بات بھی کی تھی۔"
+          },
+          {
+            "en": "As a Sufi poet, Latif's 'Urs' is held at his shrine every year, on 14th Safar, the second month of the Muslim calendar. Thousands of people gather and listen to the saint's songs sung on the 'Tambooro'. Many learned men read papers that tell about Latif's life and his poetry. Some of the key aspects shared by different scholars about Lal Latif are given below:",
+            "sd": "هڪ صوفي شاعر جي حيثيت سان، لطيف جو عرس هر سال سندس درگاه تي 14 صفر تي ملهايو ويندو آهي، جيڪو مسلمان ڪئلينڊر جو ٻيو مهينو آهي. هزارين ماڻهو گڏ ٿين ٿا ۽ بزرگ جا گيت ٻڌن ٿا، جيڪي تنبوري تي ڳايا وڃن ٿا. گھڻا عالم مقالا پڙھن ٿا، جن ۾ لطيف جي زندگي ۽ سندس شاعري بابت ٻڌايو وڃي ٿو. لال لطيف بابت مختلف عالمن جا ڪجه اهم پهلو هيٺ ڏنا ويا آهن.",
+            "ur": "ایک صوفی شاعر کی حیثیت سے، لطیف کا عرس ہر سال ان کے مزار پر 14 صفر کو منایا جاتا ہے، جو مسلمان تقویم کا دوسرا مہینہ ہے۔ ہزاروں لوگ جمع ہوتے ہیں اور بزرگ کے گیت سنتے ہیں، جو تنبورے پر گائے جاتے ہیں۔ بہت سے عالم مقالے پڑھتے ہیں، جن میں لطیف کی زندگی اور ان کی شاعری کے بارے میں بتایا جاتا ہے۔ لال لطیف کے بارے میں مختلف عالموں کے کچھ اہم پہلو نیچے دیے گئے ہیں۔"
+          },
+          {
+            "en": "Shah Latif's ancestral roots lay in Afghanistan. Some historians say that the Shah's father, Syed Habib Shah, migrated from Matyaru, his ancestral home in Afghanistan, to Bhainpur in Sindh, in order to gain spiritual contact with Bilawal, a local pious man. Others say that his ancestors migrated to Sindh from Hirat. Sindh was then a centre of Muslim culture and Shah Latif's ancestors liked it so much that they decided to make it their home.",
+            "sd": "شاھ لطيف جون اباڻيون پاڙون افغانستان ۾ هيون. ڪجه تاريخدان چون ٿا ته شاھ جو پيءُ، سيد حبيب شاھ، پنهنجي اباڻي گھر مٽيارو، افغانستان مان، سنڌ جي شهر ڀينپور ڏانهن هجرت ڪري ويو، ته جيئن هو بلاول سان روحاني رابطو قائم ڪري سگھي، جيڪو هڪ مقامي پرهيزگار ماڻهو هو. ٻيا چون ٿا ته سندس ابا ڏاڏا سنڌ ڏانهن هرات کان هجرت ڪري آيا. ان وقت سنڌ مسلمان تھذيب جو مرڪز هئي ۽ شاھ لطيف جي ابا ڏاڏن کي اها ايتري ته وڻي جو هنن فيصلو ڪيو ته اهي ان کي پنهنجو گھر بڻائيندا.",
+            "ur": "شاہ لطیف کی آبائی جڑیں افغانستان میں تھیں۔ کچھ مؤرخ کہتے ہیں کہ شاہ کے والد، سید حبیب شاہ، اپنے آبائی گھر مٹیارو، افغانستان سے، سندھ کے شہر بھینپور کی طرف ہجرت کر گئے، تاکہ وہ بلاول سے روحانی رابطہ قائم کر سکیں، جو ایک مقامی پرہیزگار آدمی تھا۔ دوسرے کہتے ہیں کہ ان کے آبا و اجداد سندھ ہرات سے ہجرت کر کے آئے۔ اس وقت سندھ مسلم تہذیب کا مرکز تھا اور شاہ لطیف کے آبا و اجداد کو یہ اتنا پسند آیا کہ انہوں نے فیصلہ کیا کہ وہ اسے اپنا گھر بنائیں گے۔"
+          },
+          {
+            "en": "In 1742, Shah Latif left his home and went to live on a mound at some distance from his village. A mound of sand is called 'Bhit' in Sindhi. Due to the fact that he lived on this mound for the rest of his life, Shah Latif came to be known as 'the Saint of Bhit'. To this day, he is famous all over the country as Shah Abdul Latif Bhitai or Shah Latif of the Mound.",
+            "sd": "سن 1742ع ۾، شاھ لطيف پنهنجو گھر ڇڏي هڪ ڀٽ تي رھڻ لاءِ ويو، جيڪو سندس ڳوٺ کان ڪجه مفاصلي تي هو. واريءَ جي ڀٽ کي سنڌي ۾ 'ڀٽ' چيو ويندو آهي. ڇاڪاڻ ته هو پنهنجي زندگي جو باقي حصو انهي ڀٽ تي رھيو، تنهنڪري شاھ لطيف 'ڀٽ جو بزرگ' جي نالي سان مشھور ٿيو. اڄ تائين، هو سڄي ملڪ ۾ شاھ عبداللطيف ڀٽائي يا ڀٽ جي شاھ لطيف جي نالي سان مشھور آهي.",
+            "ur": "1742ء میں، شاہ لطیف نے اپنا گھر چھوڑ دیا اور ایک ٹیلے پر رہنے چلے گئے، جو ان کے گاؤں سے کچھ فاصلے پر تھا۔ ریت کے ٹیلے کو سندھی میں 'بھٹ' کہا جاتا ہے۔ چونکہ وہ اپنی باقی زندگی اسی ٹیلے پر رہے، اس لیے شاہ لطیف 'بھٹ کے بزرگ' کے نام سے مشہور ہوئے۔ آج تک، وہ سارے ملک میں شاہ عبداللطیف بھٹائی یا بھٹ کے شاہ لطیف کے نام سے مشہور ہیں۔"
+          },
+          {
+            "en": "Shah Bhitai was born in 1689 A.D / 14th Safar 1102 A.H., in a small village called 'Hala Haveli', a few miles to the east of the present town of Bhit Shah. Latif was raised during the golden age of Sindhi culture. His first teacher was Akhund Noor Muhammad Bhatti, but mainly he was self-educated.",
+            "sd": "شاھ ڀٽائي سن 1689ع / 14 صفر 1102ھ ۾ هڪ ننڍڙي ڳوٺ 'حالا حويلي' ۾ ڄائو هو، جيڪو ڀٽ شاھ جي موجوده شهر کان اوڀر ڏانهن ڪجه ميل پري هو. لطيف سنڌي تھذيب جي سونهري دور ۾ پليو وڌيو. سندس پهريون استاد اخوند نور محمد ڀٽي هو، پر گھڻو ڪري هو خود ئي سکيو هو.",
+            "ur": "شاہ بھٹائی 1689ء / 14 صفر 1102ھ میں ایک چھوٹے سے گاؤں 'ہالا حویلی' میں پیدا ہوئے، جو بھٹ شاہ کے موجودہ شہر سے مشرق کی طرف چند میل دور تھا۔ لطیف سندھی تہذیب کے سنہری دور میں پروان چڑھے۔ ان کے پہلے استاد آخوند نور محمد بھٹی تھے، لیکن زیادہ تر وہ خود سے پڑھے ہوئے تھے۔"
+          },
+          {
+            "en": "Although he received little formal education, the Risalo provides proof that he knew Arabic and Persian quite well. Various references in Shah Jo Risalo indicate that he had in-depth knowledge of the Holy Qur'an and the Hadiths. His poetic collections included the Masnavi of Moulana Jalaluddin Rumi and Shah Karim's poems.",
+            "sd": "جيتوڻيڪ هن ٿوري رسمي تعليم حاصل ڪئي، پر رسالو ان جو ثبوت ڏئي ٿو ته هو عربي ۽ فارسي چڱي طرح ڄاڻندو هو. شاھ جو رسالو ۾ مختلف حوالا ڏيکارين ٿا ته هن کي قرآن پاڪ ۽ حديثن جي گھري ڄاڻ هئي. سندس شعري مجموعن ۾ مولانا جلال الدين رومي جي مسنوي ۽ شاھ ڪريم جا شعر شامل هئا.",
+            "ur": "اگرچہ انہوں نے بہت کم رسمی تعلیم حاصل کی، لیکن رسالو اس کا ثبوت دیتا ہے کہ وہ عربی اور فارسی خوب جانتے تھے۔ شاہ جو رسالو میں مختلف حوالے بتاتے ہیں کہ انہیں قرآن پاک اور حدیثوں کا گہرا علم تھا۔ ان کے شعری مجموعوں میں مولانا جلال الدین رومی کی مثنوی اور شاہ کریم کے اشعار شامل تھے۔"
+          },
+          {
+            "en": "Young Latif had a very sensitive mind. While he was only a boy, he started composing poetry. His admiration for the beauty of nature filled his heart with the love of God. In 1713 the Sufi poet married with Bibi Saidha Begum. His wife died at an early age, before she could have any children. However, Shah never married again. His heart turned more and more towards religion and devotion and he felt restless; he found it difficult to live a normal domestic life.",
+            "sd": "نوجوان لطيف جو ذهن تمام گھڻو حساس هو. جڏهن هو صرف هڪ ڇوڪرو هو، تڏهن هن شاعري ڪرڻ شروع ڪئي. فطرت جي حسن لاءِ سندس محبت سندس دل کي خدا جي محبت سان ڀري ڇڏيو. سن 1713ع ۾ صوفي شاعر بيبي سعيده بيگم سان شادي ڪئي. سندس زال ننڍي عمر ۾ ئي وفات ڪري وئي، ان کان اڳ جو هن کي ڪو ٻار ٿي سگھي. پر شاھ وري ڪڏهن به شادي نه ڪئي. سندس دل وڌيڪ کان وڌيڪ مذهب ۽ عبادت ڏانهن جھڪي وئي ۽ هو بيچين محسوس ڪرڻ لڳو؛ هن لاءِ عام گھريلو زندگي گذارڻ مشڪل ٿي پيو.",
+            "ur": "نوجوان لطیف کا ذہن بہت حساس تھا۔ جب وہ صرف ایک لڑکا تھا، اس نے شاعری کرنا شروع کی۔ فطرت کی خوبصورتی سے ان کی محبت نے ان کے دل کو خدا کی محبت سے بھر دیا۔ 1713ء میں صوفی شاعر نے بی بی سعیدہ بیگم سے شادی کی۔ ان کی بیوی کم عمری میں ہی وفات پا گئی، اس سے پہلے کہ ان کا کوئی بچہ ہوتا۔ لیکن شاہ نے دوبارہ شادی نہیں کی۔ ان کا دل مذہب اور عبادت کی طرف زیادہ سے زیادہ مائل ہوتا گیا اور وہ بے چین محسوس کرنے لگے؛ ان کے لیے عام گھریلو زندگی گزارنا مشکل ہو گیا۔"
+          },
+          {
+            "en": "Latif's love of God grew more and more, to the extent that he found pleasure only in devotion. As a result, he spent most of his time in prayers and deep thinking. His spiritual power grew stronger with prayers and devotion, so much so that people began to be attracted towards him. Anyone who came to him was strongly impressed by his gentle ways, and his followers increased day by day.",
+            "sd": "لطيف جي خدا سان محبت وڌيڪ کان وڌيڪ وڌندي وئي، ايتري قدر جو هن لاءِ سڪون صرف عبادت هئي. ان ڪري هو پنهنجو گھڻو وقت نماز پڙھندو ۽ گھرو سوچيندو هو. سندس روحاني طاقت نمازن ۽ عبادت سان وڌيڪ مضبوط ٿي وئي، ايتري قدر جو ماڻهو سندس ڏانهن متوجه ٿيڻ لڳا. جيڪو به هن وٽ ايندو هو، سو سندس نرم انداز کان تمام گھڻو متاثر ٿيندو هو، ۽ سندس مريد ڏينهن به ڏينهن وڌندا ويا.",
+            "ur": "لطیف کی خدا سے محبت بڑھتی ہی گئی، یہاں تک کہ انہیں صرف عبادت میں ہی سکون ملتا تھا۔ اس لیے وہ اپنا زیادہ تر وقت نمازوں اور گہرے غور و فکر میں گزارتے تھے۔ ان کی روحانی طاقت نمازوں اور عبادت سے مزید مضبوط ہو گئی، یہاں تک کہ لوگ ان کی طرف متوجہ ہونے لگے۔ جو بھی ان کے پاس آتا تھا، وہ ان کے نرم انداز سے بہت متاثر ہوتا تھا، اور ان کے مرید دن بدن بڑھتے گئے۔"
+          },
+          {
+            "en": "Close to the mound on which Lal Latif came to live is a natural lake. His poetic nature loved the calm atmosphere. He would spend much of his time sitting on the bank of this lake. As he sat there, he prayed to God and sometimes composed verses in His praise.",
+            "sd": "انهي ڀٽ جي ويجهو، جنهن تي لال لطيف رھڻ آيو، هڪ قدرتي ڍنڍ آهي. سندس شاعرانه طبيعت پرسڪون ماحول کي پسند ڪندي هئي. هو پنهنجو گھڻو وقت ان ڍنڍ جي ڪناري تي ويھي گذاريندو هو. جڏهن هو اتي ويٺو هوندو هو، تڏهن هو خدا کان دعا گھرندو هو ۽ ڪڏهن ڪڏهن سندس ساراه ۾ بيت چوندو هو.",
+            "ur": "اس ٹیلے کے قریب، جس پر لال لطیف رہنے آئے، ایک قدرتی جھیل ہے۔ ان کی شاعرانہ طبیعت پرسکون ماحول کو پسند کرتی تھی۔ وہ اپنا زیادہ تر وقت اس جھیل کے کنارے بیٹھ کر گزارتے تھے۔ جب وہ وہاں بیٹھے ہوتے تھے، تو وہ خدا سے دعا مانگتے تھے اور کبھی کبھی اس کی تعریف میں اشعار کہتے تھے۔"
+          },
+          {
+            "en": "Lal Latif died in 1752, on the mound where he had lived. He was buried on the same mound. It is said that one day he ordered the musicians to play music. They played continuously for three days. When they stopped playing, they found the poet dead. A famous king of Sindh, Ghulam Shah Kalhoro, was so devoted to him that he built a grand mausoleum over his grave. The lovely white dome of the shrine represents the purity and dignity of Latif.",
+            "sd": "لال لطيف سن 1752ع ۾ انهي ڀٽ تي وفات ڪري ويو، جنهن تي هو رھيو هو. هن کي انهي ڀٽ تي ئي دفنايو ويو. چيو وڃي ٿو ته هڪ ڏينهن هن موسيقارن کي موسيقي وڄائڻ جو حڪم ڏنو. هنن ٽي ڏينهن لڳاتار موسيقي وڄائي. جڏهن هنن وڄائڻ بند ڪيو، تڏهن هنن شاعر کي مئل ڏٺو. سنڌ جي هڪ مشھور بادشاھ، غلام شاھ ڪلھوڙي، هن سان ايترو ته عقيدت رکندو هو جو هن سندس قبر تي هڪ شاندار مقبرو اڏايو. درگاه جو خوبصورت اڇو گنبذ لطيف جي پاڪيزگي ۽ عظمت کي ظاھر ڪري ٿو.",
+            "ur": "لال لطیف 1752ء میں اسی ٹیلے پر وفات پا گئے، جس پر وہ رہے تھے۔ انہیں اسی ٹیلے پر دفنایا گیا۔ کہا جاتا ہے کہ ایک دن انہوں نے موسیقاروں کو موسیقی بجانے کا حکم دیا۔ انہوں نے تین دن تک مسلسل موسیقی بجائی۔ جب انہوں نے بجانا بند کیا، تو انہوں نے شاعر کو مردہ پایا۔ سندھ کے ایک مشہور بادشاہ، غلام شاہ کلہوڑو، ان سے اس قدر عقیدت رکھتے تھے کہ انہوں نے ان کی قبر پر ایک شاندار مقبرہ بنایا۔ مزار کا خوبصورت سفید گنبد لطیف کی پاکیزگی اور عظمت کو ظاہر کرتا ہے۔"
+          },
+          {
+            "en": "His devotees collected his poetry and this collection is called the \"Risalo of Shah Abdul Latif.\" Every year the devotees celebrate his Urs, which commences on 14th Safar and lasts for three days.",
+            "sd": "سندس مريدن سندس شاعري گڏ ڪئي ۽ هن مجموعي کي 'شاھ عبداللطيف جو رسالو' چيو وڃي ٿو. هر سال مريد سندس عرس ملهائيندا آهن، جيڪو 14 صفر کان شروع ٿئي ٿو ۽ ٽي ڏينهن هلي ٿو.",
+            "ur": "ان کے عقیدت مندوں نے ان کی شاعری جمع کی اور اس مجموعے کو 'شاہ عبداللطیف کا رسالو' کہا جاتا ہے۔ ہر سال عقیدت مند ان کا عرس مناتے ہیں، جو 14 صفر سے شروع ہوتا ہے اور تین دن تک جاری رہتا ہے۔"
+          },
+          {
+            "en": "Shah Abdul Latif was a sensitive, gentle and kind soul. He was a Sufi in the true sense of the word. The word 'latif' literally means fine, delicate, tender, elegant, and light. This meaning is truly reflected in both his poetry and his personality. Moreover, he was a poet of the people, so he wrote in the language of the common man. In his poems he writes mainly about Sindh and its neighbouring regions. However, he also mentions distant cities, such as Istanbul and Samarqand, and also talks about Sindhi sailors (Samundi), their navigation techniques, and their voyages as far as the Malabar coast, Sri Lanka and the island of Java. Here is the translation of one such verse:",
+            "sd": "شاھ عبداللطيف هڪ حساس، نرم دل ۽ مهربان انسان هو. هو حقيقي معني ۾ هڪ صوفي هو. 'لطيف' لفظ جي لغوي معني آهي نفيس، نازڪ، نرم، خوبصورت ۽ هلڪو. هي معني سندس شاعري ۽ سندس شخصيت، ٻنهي ۾ سچي نموني ظاھر ٿئي ٿي. ان کان علاوه، هو عوام جو شاعر هو، تنهنڪري هو عام ماڻهو جي ٻولي ۾ لکندو هو. پنهنجن نظمن ۾ هو گھڻو ڪري سنڌ ۽ ان جي ويجهن علائقن بابت لکندو هو. پر هو پري شهرن، جھڙوڪ استنبول ۽ سمرقند، جو ذڪر پڻ ڪندو هو، ۽ سنڌي ملاحن (سامونڊي)، انهن جي جھاز هلائڻ جي مهارت ۽ انهن جي سفرن بابت پڻ ڳالھائيندو هو، جيڪي مالابار جي ڪناري، سريلنڪا ۽ جاوا جي ٻيٽ تائين ويندا هئا. هتي انهن مان هڪ بيت جو ترجمو ڏنو ويو آهي:",
+            "ur": "شاہ عبداللطیف ایک حساس، نرم دل اور مہربان انسان تھے۔ وہ حقیقی معنوں میں ایک صوفی تھے۔ 'لطیف' لفظ کے لغوی معنی ہیں نفیس، نازک، نرم، خوبصورت اور ہلکا۔ یہ معنی ان کی شاعری اور ان کی شخصیت، دونوں میں سچے طور پر جھلکتے ہیں۔ اس کے علاوہ، وہ عوام کے شاعر تھے، اس لیے وہ عام آدمی کی زبان میں لکھتے تھے۔ اپنی نظموں میں وہ زیادہ تر سندھ اور اس کے قریبی علاقوں کے بارے میں لکھتے تھے۔ لیکن وہ دور دراز شہروں، جیسے استنبول اور سمرقند، کا بھی ذکر کرتے تھے، اور سندھی ملاحوں (سامونڈی)، ان کی جہاز رانی کی مہارت اور ان کے سفروں کے بارے میں بھی بات کرتے تھے، جو مالابار کے ساحل، سری لنکا اور جاوا کے جزیرے تک جاتے تھے۔ یہاں ان میں سے ایک شعر کا ترجمہ پیش کیا گیا ہے:"
+          },
+          {
+            "en": "Clouds return and once again, it rains. Lightning flashes from all sides, and with it, some go to Istanbul, others turn to the west. Some shine bright over China and others take care of Samarqand. Some wander to Rome, to Kabul and Kandahar, some lie on Delhi, Deccan, thundering over... My beloved Allah, may you always make Sindh, a land of abundance, my beloved Allah, may you make prosperous the whole universe. (Shah Abdul Latif Bhitai, Sur Sarang, Shah Jo Risalo).",
+            "sd": "ڪڪر موٽي اچن ٿا ۽ وري مينهن وسي ٿو. بجلي چؤطرف کان چمڪي ٿي، ۽ ان سان گڏ ڪجه ڪڪر استنبول ڏانهن وڃن ٿا، ٻيا اولھ ڏانهن موٽن ٿا. ڪجه چين مٿان روشن چمڪن ٿا ۽ ٻيا سمرقند جو خيال رکن ٿا. ڪجه روم، ڪابل ۽ قندھار ڏانهن ڀٽڪن ٿا، ڪجه دھلي ۽ دکن مٿان ڇانئجي وڃن ٿا ۽ گجگوڙ ڪن ٿا... اي منهنجا پيارا الله، تون سنڌ کي، جيڪا فراوانيءَ جي ڌرتي آهي، سدائين خوشحال رکجانءِ، اي منهنجا پيارا الله، تون سڄي ڪائنات کي خوشحال بڻائجانءِ. (شاھ عبداللطيف ڀٽائي، سر سارنگ، شاھ جو رسالو).",
+            "ur": "بادل لوٹ آتے ہیں اور ایک بار پھر بارش ہوتی ہے۔ بجلی ہر طرف سے چمکتی ہے، اور اس کے ساتھ، کچھ استنبول چلے جاتے ہیں، دوسرے مغرب کی طرف مڑ جاتے ہیں۔ کچھ چین پر روشن چمکتے ہیں اور دوسرے سمرقند کی دیکھ بھال کرتے ہیں۔ کچھ روم، کابل اور قندھار کی طرف بھٹکتے ہیں، کچھ دہلی اور دکن پر چھا جاتے ہیں، گرجتے ہوئے... اے میرے پیارے اللہ، تو سندھ کو، جو فراوانی کی سرزمین ہے، ہمیشہ خوشحال رکھ، اے میرے پیارے اللہ، تو ساری کائنات کو خوشحال بنا دے۔ (شاہ عبداللطیف بھٹائی، سر سارنگ، شاہ جو رسالو)۔"
+          },
+          {
+            "en": "His collected poems have been compiled in Shah Jo Risalo, which has been translated into English, Urdu, and other languages. His spiritual and mystic poetry carries a message of love, which makes it universal and acceptable to the entire human race. Shah Abdul Latif Bhitai is, and always will be, remembered for his great poetry with love and reverence.",
+            "sd": "سندس گڏ ڪيل شعر شاھ جو رسالو ۾ گڏ ڪيا ويا آهن، جنهن جو انگريزي، اردو ۽ ٻين ٻولين ۾ ترجمو ڪيو ويو آهي. سندس روحاني ۽ صوفيانه شاعري محبت جو پيغام ڏئي ٿي، جيڪو ان کي آفاقي ۽ سڄي انساني نسل لاءِ قابل قبول بڻائي ٿو. شاھ عبداللطيف ڀٽائي کي سندس عظيم شاعري لاءِ محبت ۽ احترام سان ياد ڪيو وڃي ٿو ۽ سدائين ياد ڪيو ويندو.",
+            "ur": "ان کی جمع شدہ نظمیں شاہ جو رسالو میں مرتب کی گئی ہیں، جس کا انگریزی، اردو اور دیگر زبانوں میں ترجمہ کیا گیا ہے۔ ان کی روحانی اور صوفیانہ شاعری محبت کا پیغام دیتی ہے، جو اسے آفاقی اور پوری انسانیت کے لیے قابل قبول بناتی ہے۔ شاہ عبداللطیف بھٹائی کو ان کی عظیم شاعری کے لیے محبت اور احترام سے یاد کیا جاتا ہے اور ہمیشہ یاد کیا جائے گا۔"
+          }
+        ],
+        "section": "2.1",
+        "unit": 2,
+        "unitTitle": "Role Model"
+      },
+      {
+        "bookPages": "50-53",
+        "lesson": "Chasing Dreams",
+        "paragraphs": [
+          {
+            "en": "Jameel entered the courtyard in front of the shabby, mud house, walked lazily and collapsed on the charpoy in the middle of the yard, under the cool moonlit sky. Looking at Jameel, his father kept his cup of tea on the table and dragged his charpoy close to him and asked, \"What's the matter, son? You seem upset.\"",
+            "sd": "جميل پراڻي، مٽيءَ جي گھر جي اڳيان واري اڱڻ ۾ داخل ٿيو، سستيءَ سان هليو ۽ ٿڌي چانڊوڪيءَ واري آسمان هيٺ، اڱڻ جي وچ ۾ رکيل چارپائيءَ تي ڪري پيو. جميل ڏانهن ڏسي، سندس پيءُ پنهنجي چانه جو پيالو ميز تي رکيو ۽ پنهنجي چارپائي هن جي ويجهو ڇڪي آندي ۽ پڇيو، \"ڇا ڳاله آهي، پٽ؟ تون پريشان ٿو لڳين.\"",
+            "ur": "جمیل پرانے، مٹی کے گھر کے سامنے والے صحن میں داخل ہوا، سستی سے چلا اور ٹھنڈی چاندنی والے آسمان کے نیچے، صحن کے بیچ میں رکھی چارپائی پر گر پڑا۔ جمیل کی طرف دیکھ کر، اس کے والد نے اپنی چائے کا پیالہ میز پر رکھا اور اپنی چارپائی اس کے قریب کھینچ لی اور پوچھا، \"کیا بات ہے، بیٹا؟ تم پریشان لگ رہے ہو۔\""
+          },
+          {
+            "en": "\"No, father, everything is fine.\"",
+            "sd": "\"نه، ابا، سڀ ڪجه ٺيڪ آهي.\"",
+            "ur": "\"نہیں، ابا، سب کچھ ٹھیک ہے۔\""
+          },
+          {
+            "en": "\"You don't seem ok. Let's have dinner then we will talk about it.\"",
+            "sd": "\"تون ٺيڪ نٿو لڳين. اچو، ماني کائي وٺون، پوءِ ان بابت ڳالھائينداسين.\"",
+            "ur": "\"تم ٹھیک نہیں لگ رہے۔ آؤ، کھانا کھا لیں، پھر اس بارے میں بات کریں گے۔\""
+          },
+          {
+            "en": "Jameel's mother and Aunt Sadori, an old family friend, came out of the kitchen with a tray of food and a jug full of water. His sister, Sara, and brother, Khalid, picked the table and brought it close to their charpoy. All of them sat down to eat dinner.",
+            "sd": "جميل جي ماءُ ۽ چاچي سادوري، جيڪا خاندان جي پراڻي دوست هئي، کاڌي جي ٿالي ۽ پاڻيءَ سان ڀريل جڳ کڻي باورچي خاني مان ٻاهر آيون. سندس ڀيڻ سارا ۽ ڀاءُ خالد ميز کي کنيو ۽ ان کي سندن چارپائيءَ جي ويجهو آندو. سڀئي ماني کائڻ لاءِ ويھي رھيا.",
+            "ur": "جمیل کی والدہ اور چاچی سادوری، جو خاندان کی پرانی دوست تھیں، کھانے کی تھالی اور پانی سے بھرا جگ لے کر باورچی خانے سے باہر آئیں۔ اس کی بہن سارہ اور بھائی خالد نے میز کو اٹھایا اور اسے ان کی چارپائی کے قریب لے آئے۔ سب کھانا کھانے کے لیے بیٹھ گئے۔"
+          },
+          {
+            "en": "As soon as they had finished eating and the dishes had been taken away to the kitchen, his mother asked, \"Has your result been announced, Jameel? What grade did you get?\"",
+            "sd": "جيئن ئي هنن کاڌو ختم ڪيو ۽ برتن باورچي خاني ۾ رکيا ويا، ته سندس ماءُ پڇيو، \"جميل، تنهنجو نتيجو اچي ويو آهي؟ توهان کي ڪهڙو گريڊ مليو؟\"",
+            "ur": "جیسے ہی انہوں نے کھانا ختم کیا اور برتن باورچی خانے میں رکھ دیے گئے، تو اس کی والدہ نے پوچھا، \"جمیل، تمہارا نتیجہ آ گیا ہے؟ تمہیں کون سا گریڈ ملا؟\""
+          },
+          {
+            "en": "In a sad tone he informed everyone that he had achieved a good grade.",
+            "sd": "ڏک ڀري آواز ۾ هن سڀني کي ٻڌايو ته هن سٺو گريڊ حاصل ڪيو آهي.",
+            "ur": "دکھ بھرے لہجے میں اس نے سب کو بتایا کہ اس نے اچھا گریڈ حاصل کیا ہے۔"
+          },
+          {
+            "en": "\"So, why are you sad? Has Sara passed?\" asked his father.",
+            "sd": "\"پوءِ، تون اداس ڇو آهين؟ ڇا سارا پاس ٿي وئي آهي؟\" سندس پيءُ پڇيو.",
+            "ur": "\"تو پھر تم اداس کیوں ہو؟ کیا سارہ پاس ہو گئی ہے؟\" اس کے والد نے پوچھا۔"
+          },
+          {
+            "en": "\"Yes. In fact, Sara has got more marks than me.\"",
+            "sd": "\"هائو. حقيقت ۾، سارا مون کان وڌيڪ نمبر کنيا آهن.\"",
+            "ur": "\"جی ہاں۔ دراصل، سارہ نے مجھ سے زیادہ نمبر حاصل کیے ہیں۔\""
+          },
+          {
+            "en": "\"Why didn't you tell me before? I was so worried,\" Sara complained.",
+            "sd": "\"توهان مون کي اڳ ۾ ڇو نه ٻڌايو؟ مان تمام گھڻي پريشان هيس،\" سارا شڪايت ڪئي.",
+            "ur": "\"تم نے مجھے پہلے کیوں نہیں بتایا؟ میں بہت پریشان تھی،\" سارہ نے شکایت کی۔"
+          },
+          {
+            "en": "\"Sorry, Sara, I was preoccupied with my own thoughts about the future. You see, you don't have to worry about your career the same way that I do.\"",
+            "sd": "\"معاف ڪر، سارا، مان مستقبل بابت پنهنجن خيالن ۾ گم هوس. ڏس، توهان کي پنهنجي ڪيريئر بابت ان طرح پريشان ٿيڻ جي ضرورت ناهي، جيئن مون کي آهي.\"",
+            "ur": "\"معاف کرو، سارہ، میں مستقبل کے بارے میں اپنے خیالات میں گم تھا۔ دیکھو، تمہیں اپنے کیریئر کے بارے میں اس طرح پریشان ہونے کی ضرورت نہیں، جیسے مجھے ہے۔\""
+          },
+          {
+            "en": "\"What do you mean?\" Khalid interrupted.",
+            "sd": "\"توهان جو مطلب ڇا آهي؟\" خالد وچ ۾ ڳالھايو.",
+            "ur": "\"تمہارا مطلب کیا ہے؟\" خالد نے بیچ میں بولا۔"
+          },
+          {
+            "en": "\"She is a girl. She doesn't have to worry about supporting her family. Only men have to worry about earning for their families,\" Jameel commented.",
+            "sd": "\"هوءَ ڇوڪري آهي. هن کي پنهنجي خاندان جي سنڀال بابت پريشان ٿيڻ جي ضرورت ناهي. رڳو مردن کي پنهنجن خاندانن لاءِ ڪمائڻ بابت پريشان ٿيڻو پوي ٿو،\" جميل چيو.",
+            "ur": "\"وہ لڑکی ہے۔ اسے اپنے خاندان کی کفالت کے بارے میں پریشان ہونے کی ضرورت نہیں۔ صرف مردوں کو اپنے خاندانوں کے لیے کمانے کے بارے میں پریشان ہونا پڑتا ہے،\" جمیل نے کہا۔"
+          },
+          {
+            "en": "\"Come on Jameel! We don't get education only for earning money. We do it for improving ourselves and both males and females need it equally. Our Prophet (S.A.W) has said that seeking knowledge is obligatory for every male and female,\" Khalid explained.",
+            "sd": "\"ڇڏ، جميل! اسان تعليم رڳو پئسا ڪمائڻ لاءِ ناهيون وٺندا. اسان اها پنهنجي سڌاري لاءِ وٺون ٿا ۽ مرد توڙي عورت کي ان جي برابر ضرورت آهي. اسان جي نبي ڪريم صلي الله عليه وسلم فرمايو آهي ته علم حاصل ڪرڻ هر مرد ۽ عورت تي فرض آهي،\" خالد وضاحت ڪئي.",
+            "ur": "\"ارے جمیل! ہم تعلیم صرف پیسے کمانے کے لیے حاصل نہیں کرتے۔ ہم یہ اپنی بہتری کے لیے حاصل کرتے ہیں اور مرد اور عورت دونوں کو اس کی برابر ضرورت ہے۔ ہمارے نبی کریم صلی اللہ علیہ وسلم نے فرمایا ہے کہ علم حاصل کرنا ہر مرد اور عورت پر فرض ہے،\" خالد نے وضاحت کی۔"
+          },
+          {
+            "en": "Jameel felt ashamed, \"Yes you are right. I agree with you.\"",
+            "sd": "جميل کي شرم آئي، \"هائو، توهان صحيح ٿا چئو. مان توهان سان متفق آهيان.\"",
+            "ur": "جمیل کو شرم آئی، \"جی ہاں، تم ٹھیک کہہ رہے ہو۔ میں تم سے متفق ہوں۔\""
+          },
+          {
+            "en": "\"I still don't understand why you are so worried,\" commented father.",
+            "sd": "\"مان اڃا به نه ٿو سمجھان ته تون ايترو پريشان ڇو آهين،\" پيءُ چيو.",
+            "ur": "\"مجھے اب بھی سمجھ نہیں آتا کہ تم اتنے پریشان کیوں ہو،\" والد نے کہا۔"
+          },
+          {
+            "en": "\"Father, there is no college in our village or any other village around ours. The only college where I can go is 50 miles away, in the city. It seems impossible that I can continue my studies although I had dreamed that I would become a doctor and open a hospital here for the villagers, as they cannot afford to go to the city hospital. Remember, how Uncle Sarmad died last year only because he could not be taken to the hospital on time?\" Jameel said.",
+            "sd": "\"ابا، اسان جي ڳوٺ ۾ يا اسان جي ڳوٺ جي آس پاس ڪنهن به ڳوٺ ۾ ڪاليج ناهي. هڪڙو ئي ڪاليج آهي جتي مان وڃي سگھان ٿو، اهو شهر ۾ آهي، 50 ميل پري. لڳي ٿو ته مان پنهنجي پڙھائي جاري نه ٿو رکي سگھان، جيتوڻيڪ مون خواب ڏٺو هو ته مان ڊاڪٽر ٿيندس ۽ ڳوٺاڻن لاءِ هتي هڪ اسپتال کوليندس، ڇاڪاڻ ته هو شهر جي اسپتال ۾ وڃڻ جي سگھ نه ٿا رکن. ياد ڪريو، چاچو سرمد گذريل سال رڳو ان ڪري مري ويو جو هن کي وقت تي اسپتال نه ٿو وٺي سگھجي؟\" جميل چيو.",
+            "ur": "\"ابا، ہمارے گاؤں میں یا ہمارے گاؤں کے آس پاس کسی بھی گاؤں میں کالج نہیں ہے۔ واحد کالج جہاں میں جا سکتا ہوں، وہ شہر میں ہے، 50 میل دور۔ ایسا لگتا ہے کہ میں اپنی پڑھائی جاری نہیں رکھ سکوں گا، حالانکہ میں نے خواب دیکھا تھا کہ میں ڈاکٹر بنوں گا اور گاؤں والوں کے لیے یہاں ایک ہسپتال کھولوں گا، کیونکہ وہ شہر کے ہسپتال جانے کی استطاعت نہیں رکھتے۔ یاد کریں، چچا سرمد پچھلے سال صرف اس لیے انتقال کر گئے کہ انہیں وقت پر ہسپتال نہیں پہنچایا جا سکا؟\" جمیل نے کہا۔"
+          },
+          {
+            "en": "His mother quoted a Sindhi couplet which meant 'Where there is a will there is a way. Distances are to be covered.' She then said, \"We can ask Allah Bachayo, to take you to the city in his horse cart.\"",
+            "sd": "سندس ماءُ هڪ سنڌي شعر ٻڌايو جنهن جو مطلب هو 'جتي ارادو هجي، اتي رستو آهي. مفاصلا طئي ڪرڻا آهن.' پوءِ هن چيو، \"اسان الله بچايو کي چئي سگھون ٿا ته هو توهان کي پنهنجي گھوڙا گاڏيءَ ۾ شهر وٺي وڃي.\"",
+            "ur": "اس کی والدہ نے ایک سندھی شعر سنایا جس کا مطلب تھا 'جہاں ارادہ ہو، وہاں راستہ ہے۔ فاصلے طے کرنے ہیں۔' پھر اس نے کہا، \"ہم اللہ بچایو سے کہہ سکتے ہیں کہ وہ تمہیں اپنی گھوڑا گاڑی میں شہر لے جائے۔\""
+          },
+          {
+            "en": "Aunt Sadori, who had been listening to the whole conversation said, \"I have a suggestion. You people have done so much for me, I think now it's my turn to return the favour. Jameel and Sara can easily come and live with me in the city and study in the college.\"",
+            "sd": "چاچي سادوري، جيڪا سڄي ڳاله ٻولي ٻڌي رھي هئي، چيو، \"منهنجي هڪ صلاح آهي. توهان ماڻهن مون لاءِ تمام گھڻو ڪيو آهي، مان سمجھان ٿي ته هاڻي منهنجو وارو آهي ته مان احسان جو بدلو ڏيان. جميل ۽ سارا آسانيءَ سان شهر ۾ مون سان گڏ اچي رھي سگھن ٿا ۽ ڪاليج ۾ پڙھي سگھن ٿا.\"",
+            "ur": "چاچی سادوری، جو ساری گفتگو سن رہی تھیں، نے کہا، \"میری ایک تجویز ہے۔ تم لوگوں نے میرے لیے بہت کچھ کیا ہے، میرے خیال میں اب میری باری ہے کہ میں احسان کا بدلہ دوں۔ جمیل اور سارہ آسانی سے شہر میں میرے ساتھ آ کر رہ سکتے ہیں اور کالج میں پڑھ سکتے ہیں۔\""
+          },
+          {
+            "en": "\"Really! Can I really go and study in the city?\" Sara exclaimed.",
+            "sd": "\"سچي پچي! ڇا مان سچ پچ شهر ۾ وڃي پڙھي سگھان ٿي؟\" سارا خوشيءَ مان رڙ ڪري چيو.",
+            "ur": "\"سچ مچ! کیا میں واقعی شہر جا کر پڑھ سکتی ہوں؟\" سارہ نے خوشی سے پکارا۔"
+          },
+          {
+            "en": "\"Jameel can go but Sara should stay here and help her mother,\" said father.",
+            "sd": "\"جميل وڃي سگھي ٿو، پر سارا هتي رھي ۽ پنهنجي ماءُ جي مدد ڪري،\" پيءُ چيو.",
+            "ur": "\"جمیل جا سکتا ہے، لیکن سارہ یہیں رہے اور اپنی والدہ کی مدد کرے،\" والد نے کہا۔"
+          },
+          {
+            "en": "Sara quickly wiped the tear that had rolled down her cheek. She didn't want her father to know her feelings. However, Khalid noticed her emotions and said, \"Father, don't worry about the expenses. Let both of them go.\"",
+            "sd": "سارا تڪڙو پنهنجي ڳل تان ڳوڙهو اگھيو جيڪو هيٺ ڪري پيو هو. هوءَ نه ٿي چاھي ته سندس پيءُ کي سندس جذبن بابت خبر پوي. البته، خالد سندس جذبا محسوس ڪيا ۽ چيو، \"ابا، خرچن بابت پريشان نه ٿيو. ٻنهي کي وڃڻ ڏيو.\"",
+            "ur": "سارہ نے جلدی سے وہ آنسو پونچھا جو اس کے گال پر بہہ گیا تھا۔ وہ نہیں چاہتی تھی کہ اس کے والد کو اس کے جذبات کا پتہ چلے۔ تاہم، خالد نے اس کے جذبات محسوس کیے اور کہا، \"ابا، اخراجات کے بارے میں پریشان نہ ہوں۔ دونوں کو جانے دیں۔\""
+          },
+          {
+            "en": "\"There is a big medical college as well in our city. Later, both of you can easily continue your studies there and fulfil your dreams,\" continued Aunt Sadori, addressing Jameel and Sara.",
+            "sd": "\"اسان جي شهر ۾ هڪ وڏو ميڊيڪل ڪاليج به آهي. پوءِ، توهان ٻئي اتي آسانيءَ سان پنهنجي پڙھائي جاري رکي سگھو ٿا ۽ پنهنجا خواب پورا ڪري سگھو ٿا،\" چاچي سادوري جميل ۽ سارا ڏانهن مخاطب ٿيندي چيو.",
+            "ur": "\"ہمارے شہر میں ایک بڑا میڈیکل کالج بھی ہے۔ بعد میں، تم دونوں وہاں آسانی سے اپنی پڑھائی جاری رکھ سکتے ہو اور اپنے خواب پورے کر سکتے ہو،\" چاچی سادوری نے جمیل اور سارہ سے مخاطب ہو کر کہا۔"
+          },
+          {
+            "en": "\"Wow! I will also be a doctor and work at Jameel's hospital! Wonderful!\"",
+            "sd": "\"واه! مان به ڊاڪٽر ٿينديس ۽ جميل جي اسپتال ۾ ڪم ڪنديس! شاندار!\"",
+            "ur": "\"واہ! میں بھی ڈاکٹر بنوں گی اور جمیل کے ہسپتال میں کام کروں گی! شاندار!\""
+          },
+          {
+            "en": "In spite of his worries about managing finances for both of them, father smiled.",
+            "sd": "ٻنهي لاءِ خرچن جو انتظام ڪرڻ بابت پنهنجين پريشانين جي باوجود، پيءُ مسڪرايو.",
+            "ur": "دونوں کے لیے اخراجات کا انتظام کرنے کے بارے میں اپنی پریشانیوں کے باوجود، والد مسکرائے۔"
+          },
+          {
+            "en": "Soon, both of them went to the city with Aunt Sadori. Living in the city, attending college and then the medical college was not a bed of roses. Both siblings had to work extremely hard to pass all the exams in the first go. They could not afford to fail in any subject.",
+            "sd": "جلد ئي، ٻئي چاچي سادوري سان گڏ شهر ويا. شهر ۾ رھڻ، ڪاليج ۽ پوءِ ميڊيڪل ڪاليج ۾ پڙھڻ سولو ڪم نه هو. ٻنهي ڀائرن کي سڀئي امتحان پهرين ئي ڪوشش ۾ پاس ڪرڻ لاءِ تمام گھڻي محنت ڪرڻي پئي. هو ڪنهن به مضمون ۾ ناڪام ٿيڻ جي سگھ نه ٿا رکن.",
+            "ur": "جلد ہی، دونوں چاچی سادوری کے ساتھ شہر چلے گئے۔ شہر میں رہنا، کالج اور پھر میڈیکل کالج میں پڑھنا آسان کام نہ تھا۔ دونوں بہن بھائیوں کو تمام امتحانات پہلی ہی کوشش میں پاس کرنے کے لیے بہت زیادہ محنت کرنی پڑی۔ وہ کسی بھی مضمون میں فیل ہونے کی استطاعت نہیں رکھتے تھے۔"
+          },
+          {
+            "en": "To meet the expenses, both of them gave tuitions to children in the neighbourhood. Their parents never let them know the problems they faced during all this time. In the fourth year, father and Khalid had to sell a big piece of fertile land to pay their fee. The whole family bore the hardships because they wanted their children to realize their dreams and to work for the betterment of the villagers.",
+            "sd": "خرچن کي پورو ڪرڻ لاءِ، ٻنهي پاڙي جي ٻارن کي ٽيوشن ڏيندا هئا. سندن ماءُ پيءُ کين ڪڏهن به انهن مشڪلاتن بابت خبر نه ڏني، جن کي هنن ان سموري وقت ۾ منهن ڏنو. چوٿين سال ۾، پيءُ ۽ خالد کي سندن فيس ادا ڪرڻ لاءِ زرخيز زمين جو هڪ وڏو ٽڪرو وڪڻڻو پيو. پورو خاندان مشڪلاتون برداشت ڪيون، ڇاڪاڻ ته هو چاھين ٿا ته سندن ٻار پنهنجا خواب پورا ڪن ۽ ڳوٺاڻن جي ڀلائي لاءِ ڪم ڪن.",
+            "ur": "اخراجات پورے کرنے کے لیے، دونوں محلے کے بچوں کو ٹیوشن دیتے تھے۔ ان کے والدین نے انہیں کبھی ان مشکلات کے بارے میں نہیں بتایا، جن کا سامنا انہوں نے اس سارے وقت میں کیا۔ چوتھے سال میں، والد اور خالد کو ان کی فیس ادا کرنے کے لیے زرخیز زمین کا ایک بڑا ٹکڑا بیچنا پڑا۔ پورے خاندان نے مشکلات برداشت کیں، کیونکہ وہ چاہتے تھے کہ ان کے بچے اپنے خواب پورے کریں اور گاؤں والوں کی بہتری کے لیے کام کریں۔"
+          },
+          {
+            "en": "Twelve Years Later",
+            "sd": "ٻارهن سالن کان پوءِ",
+            "ur": "بارہ سال بعد"
+          },
+          {
+            "en": "\"Uncle Noor Ali, you should not eat rice, potatoes and sugar,\" Jameel advised his patient politely.",
+            "sd": "\"چاچا نور علي، توهان کي چانور، آلو ۽ کنڊ نه کائڻ گھرجي،\" جميل پنهنجي مريض کي نرميءَ سان صلاح ڏني.",
+            "ur": "\"چچا نور علی، آپ کو چاول، آلو اور چینی نہیں کھانی چاہیے،\" جمیل نے اپنے مریض کو نرمی سے مشورہ دیا۔"
+          },
+          {
+            "en": "\"Ok, son, I will follow your advice.\" Jameel held the old man's weathered hand and helped him walk outside the impressive hospital building, standing against the backdrop of lush green fields. For a moment he looked up at the building that portrayed his dreams.",
+            "sd": "\"ٺيڪ آهي، پٽ، مان توهان جي صلاح تي عمل ڪندس.\" جميل وڏي عمر واري ماڻهوءَ جو ٿڪل هٿ پڪڙيو ۽ هن کي شاندار اسپتال جي عمارت کان ٻاهر هلڻ ۾ مدد ڪئي، جيڪا سرسبز ٻنين جي پسمنظر ۾ بيٺل هئي. هڪ لمحي لاءِ هن اها عمارت ڏانهن مٿي ڏٺو، جيڪا سندس خوابن جي علامت هئي.",
+            "ur": "\"ٹھیک ہے، بیٹا، میں تمہاری نصیحت پر عمل کروں گا۔\" جمیل نے بوڑھے آدمی کا تھکا ہوا ہاتھ پکڑا اور اسے شاندار ہسپتال کی عمارت سے باہر چلنے میں مدد کی، جو سرسبز کھیتوں کے پس منظر میں کھڑی تھی۔ ایک لمحے کے لیے اس نے اس عمارت کی طرف اوپر دیکھا، جو اس کے خوابوں کی علامت تھی۔"
+          },
+          {
+            "en": "He asked Allah Dinno, 'Are there any more patients?'",
+            "sd": "هن الله ڏنو کان پڇيو، \"ٻيا ڪي مريض آهن؟\"",
+            "ur": "اس نے اللہ ڈنو سے پوچھا، \"کیا کوئی اور مریض ہے؟\""
+          },
+          {
+            "en": "\"No, there are no more patients,\" replied Allah Dinno.",
+            "sd": "\"نه، ٻيا ڪي مريض ناهن،\" الله ڏنو جواب ڏنو.",
+            "ur": "\"نہیں، کوئی اور مریض نہیں ہے،\" اللہ ڈنو نے جواب دیا۔"
+          },
+          {
+            "en": "\"Ok, then call Dr. Sara so that we can go to the neighbouring villages and examine the patients there.\"",
+            "sd": "\"ٺيڪ آهي، پوءِ ڊاڪٽر سارا کي گھرايو ته جيئن اسان پاڙيسري ڳوٺن ۾ وڃي اتي مريضن جو معائنو ڪري سگھون.\"",
+            "ur": "\"ٹھیک ہے، پھر ڈاکٹر سارہ کو بلاؤ تاکہ ہم پڑوسی گاؤں جا کر وہاں مریضوں کا معائنہ کر سکیں۔\""
+          },
+          {
+            "en": "After visiting two nearby villages, Jameel dropped Sara at her house, where her two young children were waiting for her. Jameel was very happy because Sara had hosted a successful seminar for the village women and guided them to improve their personal and family health and hygiene. He then drove home in his small jeep, satisfied with the day's work.",
+            "sd": "ويجهن ٻن ڳوٺن جو دورو ڪرڻ کان پوءِ، جميل سارا کي سندس گھر ڇڏيو، جتي سندس ٻه ننڍڙا ٻار سندس انتظار ڪري رھيا هئا. جميل تمام گھڻو خوش هو، ڇاڪاڻ ته سارا ڳوٺ جي عورتن لاءِ هڪ ڪامياب سيمينار جو انتظام ڪيو هو ۽ کين پنهنجي ذاتي ۽ خانداني صحت ۽ صفائي بهتر ڪرڻ لاءِ رھنمائي ڪئي هئي. پوءِ هو پنهنجي ننڍڙي جيپ ۾ گھر هليو ويو، ڏينهن جي ڪم کان مطمئن.",
+            "ur": "قریبی دو گاؤں کا دورہ کرنے کے بعد، جمیل نے سارہ کو اس کے گھر چھوڑا، جہاں اس کے دو چھوٹے بچے اس کا انتظار کر رہے تھے۔ جمیل بہت خوش تھا، کیونکہ سارہ نے گاؤں کی عورتوں کے لیے ایک کامیاب سیمینار کا اہتمام کیا تھا اور انہیں اپنی ذاتی اور خاندانی صحت اور صفائی بہتر بنانے کے لیے رہنمائی کی تھی۔ پھر وہ اپنی چھوٹی جیپ میں گھر چلا گیا، دن کے کام سے مطمئن۔"
+          },
+          {
+            "en": "\"Come on, let's have lunch,\" said his wife, with a beaming smile.",
+            "sd": "\"اچو، ماني کائون،\" سندس زال چيو، کلندڙ مُک سان.",
+            "ur": "\"آؤ، کھانا کھاتے ہیں،\" اس کی بیوی نے مسکراتے ہوئے کہا۔"
+          },
+          {
+            "en": "\"Lunch? You mean you people have not had lunch as yet?\" he exclaimed.",
+            "sd": "\"ماني؟ توهان جو مطلب آهي ته توهان ماڻهن اڃا تائين ماني نه کاڌي آهي؟\" هن حيرت مان چيو.",
+            "ur": "\"کھانا؟ تمہارا مطلب ہے کہ تم لوگوں نے ابھی تک کھانا نہیں کھایا؟\" اس نے حیرت سے کہا۔"
+          },
+          {
+            "en": "\"No, we were waiting for you,\" said his parents, simultaneously.",
+            "sd": "\"نه، اسان توهان جو انتظار ڪري رھيا هئاسين،\" سندس ماءُ پيءُ گڏجي چيو.",
+            "ur": "\"نہیں، ہم تمہارا انتظار کر رہے تھے،\" اس کے والدین نے ایک ساتھ کہا۔"
+          },
+          {
+            "en": "\"Ok, then let's have lunch together.\" Everyone washed their hands one by one and moved towards the dining table.",
+            "sd": "\"ٺيڪ آهي، پوءِ اچو ته گڏجي ماني کائون.\" سڀني هڪ هڪ ڪري پنهنجا هٿ ڌوتا ۽ کاڌي واري ميز ڏانهن وڌيا.",
+            "ur": "\"ٹھیک ہے، پھر آؤ مل کر کھانا کھاتے ہیں۔\" سب نے ایک ایک کر کے اپنے ہاتھ دھوئے اور کھانے کی میز کی طرف بڑھے۔"
+          },
+          {
+            "en": "At night, Jameel lay on his charpoy in the middle of the yard, under the cool moonlit sky, and thought about the long journey of his life and all the hardships that he, his sister Sara, and their family had borne to fulfil their dreams. He felt truly grateful and blessed.",
+            "sd": "رات جو، جميل ٿڌي چانڊوڪيءَ واري آسمان هيٺ، اڱڻ جي وچ ۾ پنهنجي چارپائيءَ تي ليٽيو ۽ پنهنجي زندگيءَ جي ڊگھي سفر بابت ۽ انهن سڀني مشڪلاتن بابت سوچيو، جيڪي هن، سندس ڀيڻ سارا ۽ سندن خاندان پنهنجا خواب پورا ڪرڻ لاءِ برداشت ڪيون هيون. هن کي سچ پچ شڪرگذاري ۽ خوش نصيبي محسوس ٿي.",
+            "ur": "رات کو، جمیل ٹھنڈی چاندنی والے آسمان کے نیچے، صحن کے بیچ میں اپنی چارپائی پر لیٹا اور اپنی زندگی کے طویل سفر کے بارے میں اور ان تمام مشکلات کے بارے میں سوچا، جو اس نے، اس کی بہن سارہ نے اور ان کے خاندان نے اپنے خواب پورے کرنے کے لیے برداشت کی تھیں۔ اسے واقعی شکر گزاری اور خوش نصیبی محسوس ہوئی۔"
+          }
+        ],
+        "section": "3.1",
+        "unit": 3,
+        "unitTitle": "Education and Careers"
+      },
+      {
+        "bookPages": "77-84",
+        "lesson": "The Great Visionaries",
+        "paragraphs": [
+          {
+            "en": "The teacher assigned the class a project for the summer vacations, titled ‘The Great Visionaries’. The students were asked to work in groups of four and find information about the Quaid-e-Azam and Allama Iqbal, the two great visionary leaders of the Pakistan Movement. They were asked to develop a booklet, a newspaper edition, or any other form of visual presentation based on the collected information. The members of one of the groups decided to split up the information gathering task; Huma and Tahira offered to look up information on some aspects of Jinnah’s life, while Lubna and Farheen agreed to find information about Iqbal. They decided to share the information with each other through emails. Here are some of their emails.",
+            "sd": "استاد ڪلاس کي اونهاري جي موڪلن لاءِ هڪ منصوبو ڏنو، جنهن جو عنوان هو ’عظيم بصيرت رکندڙ اڳواڻ‘. شاگردن کي چيو ويو ته چئن چئن جي ٽولين ۾ ڪم ڪن ۽ قائداعظم ۽ علامه اقبال بابت معلومات ڳولين، جيڪي پاڪستان جي تحريڪ جا ٻه عظيم بصيرت رکندڙ اڳواڻ هئا. کين چيو ويو ته گڏ ڪيل معلومات جي بنياد تي هڪ ڪتابچو، اخبار جو هڪ ايڊيشن، يا بصري پيشڪش جو ٻيو ڪو بهی روپ تيار ڪن. هڪ ٽولي جي ميمبرن معلومات گڏ ڪرڻ جو ڪم پاڻ ۾ ورھائڻ جو فيصلو ڪيو؛ هما ۽ طاهره جناح جي زندگي جي ڪجه پھلوئن بابت معلومات ڳولڻ جي آڇ ڪئي، جڏهن ته لبنا ۽ فرحين اقبال بابت معلومات ڳولڻ تي راضي ٿيون. هنن فيصلو ڪيو ته معلومات هڪ ٻئي سان اي ميل ذريعي ونڊيندا. هتي سندن ڪجه اي ميلون آهن.",
+            "ur": "استاد نے کلاس کو گرمیوں کی چھٹیوں کے لیے ایک منصوبہ دیا، جس کا عنوان تھا ’عظیم بصیرت رکھنے والے رہنما‘۔ طلبہ سے کہا گیا کہ وہ چار چار کے گروپوں میں کام کریں اور قائداعظم اور علامہ اقبال کے بارے میں معلومات تلاش کریں، جو تحریک پاکستان کے دو عظیم بصیرت رکھنے والے رہنما تھے۔ ان سے کہا گیا کہ جمع کی گئی معلومات کی بنیاد پر ایک کتابچہ، اخبار کا ایک ایڈیشن، یا بصری پیشکش کی کوئی اور صورت تیار کریں۔ ایک گروپ کے ارکان نے معلومات جمع کرنے کا کام آپس میں بانٹنے کا فیصلہ کیا؛ ہما اور طاہرہ نے جناح کی زندگی کے کچھ پہلوؤں کے بارے میں معلومات تلاش کرنے کی پیشکش کی، جبکہ لبنا اور فرحین نے اقبال کے بارے میں معلومات تلاش کرنے پر رضامندی ظاہر کی۔ انھوں نے فیصلہ کیا کہ معلومات ایک دوسرے کے ساتھ ای میل کے ذریعے بانٹیں گے۔ ان کی کچھ ای میلیں یہ ہیں۔"
+          },
+          {
+            "en": "Dear Huma,",
+            "sd": "پياري هما،",
+            "ur": "پیاری ہما،"
+          },
+          {
+            "en": "Here is some information that I have found about the Quaid-e-Azam:",
+            "sd": "قائداعظم بابت مون کي جيڪا معلومات ملي آهي، سا هي آهي:",
+            "ur": "قائداعظم کے بارے میں جو معلومات مجھے ملی ہیں، وہ یہ ہیں:"
+          },
+          {
+            "en": "Quaid-i-Azam Mohammed Ali Jinnah was one of the most dynamic personalities of South Asia. His message of ‘Unity, Faith and Discipline’ and his determination and steadfastness, if made the guiding principles by the nation, can speedily set the nation on the path of progress and prosperity.",
+            "sd": "قائداعظم محمد علي جناح ڏکڻ ايشيا جي سڀ کان وڌيڪ متحرڪ شخصيتن مان هڪ هو. سندس پيغام ’اتحاد، ايمان ۽ نظم و ضبط‘ ۽ سندس عزم ۽ ثابت قدمي، جيڪڏهن قوم انهن کي پنهنجا رھنما اصول بڻائي، ته قوم کي ترقي ۽ خوشحالي جي رستي تي تڪڙو آڻي سگھن ٿا.",
+            "ur": "قائداعظم محمد علی جناح جنوبی ایشیا کی سب سے زیادہ متحرک شخصیات میں سے ایک تھے۔ ان کا پیغام ’اتحاد، ایمان اور نظم و ضبط‘ اور ان کا عزم اور ثابت قدمی، اگر قوم انھیں اپنے رہنما اصول بنا لے، تو قوم کو ترقی اور خوشحالی کی راہ پر تیزی سے گامزن کر سکتے ہیں۔"
+          },
+          {
+            "en": "He was one of the top barristers of Bombay. But his greatest achievement, which is unparalleled in the recent history of the world, is the creation of Pakistan. The world has seen many leaders who have obtained independence for their people from undesired rulers, but few have achieved what the Quaid-e-Azam did; he created a new country. He led the Muslims of the sub-continent to achieve an independent state called Pakistan, where they could live honourably, according to the teachings of their faith and culture. Regards. Tahira",
+            "sd": "هو بمبئي جي مٿانهين بيرسٽرن مان هڪ هو. پر سندس سڀ کان وڏي ڪاميابي، جيڪا دنيا جي تازي تاريخ ۾ بي مثال آهي، سا پاڪستان جي پيدائش آهي. دنيا اهڙا ڪيترا اڳواڻ ڏٺا آهن، جن پنهنجي عوام لاءِ اڻوڻندڙ حاڪمن کان آزادي حاصل ڪئي، پر ٿورن ئي اهو حاصل ڪيو آهي، جيڪو قائداعظم ڪيو؛ هن هڪ نئون ملڪ پيدا ڪيو. هن برصغير جي مسلمانن جي اڳواڻي ڪئي ته جيئن پاڪستان نالي هڪ آزاد رياست حاصل ڪن، جتي هو پنهنجي مذهب جي تعليمات ۽ ثقافت موجب عزت سان رھي سگھن. سلام. طاهره",
+            "ur": "وہ بمبئی کے ممتاز بیرسٹروں میں سے ایک تھے۔ لیکن ان کی سب سے بڑی کامیابی، جو دنیا کی حالیہ تاریخ میں بے مثال ہے، پاکستان کا قیام ہے۔ دنیا نے ایسے کئی رہنما دیکھے ہیں جنھوں نے اپنی قوم کے لیے ناپسندیدہ حکمرانوں سے آزادی حاصل کی، لیکن بہت کم لوگوں نے وہ حاصل کیا جو قائداعظم نے کیا؛ انھوں نے ایک نیا ملک بنایا۔ انھوں نے برصغیر کے مسلمانوں کی قیادت کی تاکہ وہ پاکستان نامی ایک آزاد ریاست حاصل کریں، جہاں وہ اپنے مذہب کی تعلیمات اور ثقافت کے مطابق عزت سے رہ سکیں۔ آداب۔ طاہرہ"
+          },
+          {
+            "en": "Tahira, here is some more information that we can add in this section:",
+            "sd": "طاهره، هتي ڪجه وڌيڪ معلومات آهن، جيڪي اسين هن حصي ۾ شامل ڪري سگھون ٿا:",
+            "ur": "طاہرہ، یہ کچھ مزید معلومات ہیں جو ہم اس حصے میں شامل کر سکتے ہیں:"
+          },
+          {
+            "en": "Moreover, Mohammed Ali Jinnah was the only leader in British India, who was popular not only among the Muslims but also had a great respect among the people of other faiths, including the Hindus, Christians, Sikhs and Parsis. Due to his tolerance and acceptance of all faiths, some Hindu leaders, like Gokhale and the famous Hindu poetess Sarojini Nido, called him ‘the best Ambassador of Hindu Muslim Unity.’ Best wishes. Huma",
+            "sd": "ان کان سواءِ، محمد علي جناح برطانوي هندستان جو واحد اڳواڻ هو، جيڪو نه رڳو مسلمانن ۾ مقبول هو، پر ٻين مذهبن جي ماڻهن ۾ بھ، جن ۾ هندو، عيسائي، سک ۽ پارسي شامل آهن، کيس وڏي عزت جي نگاهه سان ڏٺو ويندو هو. سڀني مذهبن لاءِ سندس برداشت ۽ قبوليت سبب، ڪجه هندو اڳواڻن، جھڙوڪ گوکلي ۽ مشهور هندو شاعره سروجني نائيڊو، کيس ’هندو مسلم اتحاد جو بهترين سفير‘ چيو. نيڪ خواهشن سان. هما",
+            "ur": "اس کے علاوہ، محمد علی جناح برطانوی ہندوستان کے واحد رہنما تھے، جو نہ صرف مسلمانوں میں مقبول تھے، بلکہ دوسرے مذاہب کے لوگوں میں بھی، جن میں ہندو، عیسائی، سکھ اور پارسی شامل ہیں، انھیں بڑی عزت کی نگاہ سے دیکھا جاتا تھا۔ تمام مذاہب کے لیے ان کی برداشت اور قبولیت کی وجہ سے، کچھ ہندو رہنماؤں، جیسے گوکھلے اور مشہور ہندو شاعرہ سروجنی نائیڈو، نے انھیں ’ہندو مسلم اتحاد کا بہترین سفیر‘ کہا۔ نیک خواہشات کے ساتھ۔ ہما"
+          },
+          {
+            "en": "Huma and Tahira, you might want to add this vital piece of information in this section:",
+            "sd": "هما ۽ طاهره، توهان هن حصي ۾ معلومات جو هي اهم ٽڪرو شامل ڪرڻ چاهيو ٿا:",
+            "ur": "ہما اور طاہرہ، آپ اس حصے میں معلومات کا یہ اہم ٹکڑا شامل کرنا چاہیں گی:"
+          },
+          {
+            "en": "However, he was very clear about one thing: while Pakistan would be a state where the Muslims would be free to practise the teachings of their faith and to prosper economically. This is in no way meant that the people of other faiths, living in the geographical boundaries of the new state, would, in any way, be lesser citizens. Farheen",
+            "sd": "جڏهن ته، هو هڪ ڳالھ بابت بلڪل واضح هو: جڏهن ته پاڪستان هڪ اهڙي رياست هوندي، جتي مسلمان پنهنجي مذهب جي تعليمات تي عمل ڪرڻ ۽ معاشي طور تي ترقي ڪرڻ لاءِ آزاد هوندا. هن جو ڪنهن بهی طرح اهو مطلب نه هو ته ٻين مذهبن جا ماڻهو، جيڪي نئين رياست جي جاگرافيائي حدن ۾ رھن ٿا، ڪنهن بهی طرح گھٽ درجي جا شهري هوندا. فرحين",
+            "ur": "تاہم، وہ ایک بات کے بارے میں بالکل واضح تھے: پاکستان ایک ایسی ریاست ہوگا جہاں مسلمان اپنے مذہب کی تعلیمات پر عمل کرنے اور معاشی طور پر ترقی کرنے کے لیے آزاد ہوں گے۔ اس کا ہرگز یہ مطلب نہیں تھا کہ دوسرے مذاہب کے لوگ، جو نئی ریاست کی جغرافیائی حدود میں رہتے ہیں، کسی بھی طرح کم درجے کے شہری ہوں گے۔ فرحین"
+          },
+          {
+            "en": "Thank you, Huma. I agree with you. Now, here is some more information about him:",
+            "sd": "مھرباني، هما. مان توهان سان متفق آهيان. هاڻي، هتي سندس بابت ڪجه وڌيڪ معلومات آهن:",
+            "ur": "شکریہ، ہما۔ میں آپ سے متفق ہوں۔ اب، ان کے بارے میں کچھ مزید معلومات یہ ہیں:"
+          },
+          {
+            "en": "Initially, Quaid-e-Azam was a strong proponent of Hindu-Muslim unity and an active member of the Indian National Congress. But, as an outstanding political leader, he very soon sensed that the Indian National Congress was leading the Hindus of the sub-continent towards Hindu-Muslim polarization. This, he realized, would result in political and economic victimization of the Muslims in the region. Therefore, he decided to leave the Congress and join the Muslim League.",
+            "sd": "شروع ۾، قائداعظم هندو مسلم اتحاد جو هڪ مضبوط حامي ۽ انڊين نيشنل ڪانگريس جو هڪ سرگرم ميمبر هو. پر، هڪ شاندار سياسي اڳواڻ طور، هن تمام جلد محسوس ڪيو ته انڊين نيشنل ڪانگريس برصغير جي هندن کي هندو مسلم ڌار ٿيڻ ڏانهن وٺي رھي آهي. هن محسوس ڪيو ته ان جو نتيجو علائقي جي مسلمانن جي سياسي ۽ معاشي نقصان ۾ نڪرندو. تنهنڪري، هن ڪانگريس ڇڏڻ ۽ مسلم ليگ ۾ شامل ٿيڻ جو فيصلو ڪيو.",
+            "ur": "شروع میں، قائداعظم ہندو مسلم اتحاد کے ایک مضبوط حامی اور انڈین نیشنل کانگریس کے ایک سرگرم رکن تھے۔ لیکن، ایک شاندار سیاسی رہنما کے طور پر، انھوں نے بہت جلد محسوس کر لیا کہ انڈین نیشنل کانگریس برصغیر کے ہندوؤں کو ہندو مسلم تفریق کی طرف لے جا رہی ہے۔ انھوں نے محسوس کیا کہ اس کا نتیجہ خطے کے مسلمانوں کی سیاسی اور معاشی نقصان میں نکلے گا۔ اس لیے، انھوں نے کانگریس چھوڑ کر مسلم لیگ میں شامل ہونے کا فیصلہ کیا۔"
+          },
+          {
+            "en": "Soon after joining the Muslim League he became its president. He, very intelligently, pleaded the case of a separate homeland for the Muslims and succeeded in getting Pakistan. This was despite strong opposition from the two big power players in British India; the ruling British and the majority Hindus. Have you found some more information? Tahira",
+            "sd": "مسلم ليگ ۾ شامل ٿيڻ کان ٿوري دير بعد هو ان جو صدر بڻجي ويو. هن، وڏي ذهانت سان، مسلمانن لاءِ الڳ وطن جو ڪيس پيش ڪيو ۽ پاڪستان حاصل ڪرڻ ۾ ڪامياب ٿيو. اهو برطانوي هندستان جي ٻن وڏين طاقتور ڌرين؛ حاڪم برطانوي ۽ اڪثريتي هندن جي سخت مخالفت باوجود هو. ڇا توهان کي ڪجه وڌيڪ معلومات مليون آهن؟ طاهره",
+            "ur": "مسلم لیگ میں شامل ہونے کے تھوڑی دیر بعد وہ اس کے صدر بن گئے۔ انھوں نے بڑی ذہانت سے مسلمانوں کے لیے علیحدہ وطن کا مقدمہ پیش کیا اور پاکستان حاصل کرنے میں کامیاب ہوئے۔ یہ برطانوی ہندوستان کی دو بڑی طاقتور جماعتوں؛ حکمران برطانوی اور اکثریتی ہندوؤں کی سخت مخالفت کے باوجود تھا۔ کیا آپ کو کچھ مزید معلومات ملی ہیں؟ طاہرہ"
+          },
+          {
+            "en": "Thank you, Farheen. We will definitely add this. Now here is the vision that the Quaid had for Pakistan:",
+            "sd": "مھرباني، فرحين. اسين اهو ضرور شامل ڪنداسين. هاڻي هتي اهو خواب آهي، جيڪو قائد پاڪستان لاءِ ڏٺو هو:",
+            "ur": "شکریہ، فرحین۔ ہم یہ ضرور شامل کریں گے۔ اب یہ ہے وہ خواب جو قائد نے پاکستان کے لیے دیکھا تھا:"
+          },
+          {
+            "en": "Quaid-i-Azam envisioned Pakistan, as a ‘nation state’ ensuring equal rights for all citizens of Pakistan. On August 11, 1947, the Quaid-e-Azam, on his election as the first President of the Constituent Assembly of Pakistan, declared, “You are free; you are free to go to your temples, you are free to go to your mosques or to any other place of worship in this state of Pakistan. We are starting in the days when there is no discrimination, no distinction between one community and another. We are starting with this fundamental principle that we are all citizens and equal citizens of one State.”",
+            "sd": "قائداعظم پاڪستان کي هڪ ’قومي رياست‘ طور ڏٺو، جيڪا پاڪستان جي سڀني شهرين لاءِ برابر حق يقيني بڻائي. 11 آگسٽ 1947ع تي، قائداعظم، پاڪستان جي قانون ساز اسيمبلي جي پهرين صدر طور پنهنجي چونڊ تي، اعلان ڪيو، ”توهان آزاد آهيو؛ توهان پنهنجن مندرن ڏانهن وڃڻ لاءِ آزاد آهيو، توهان پنهنجن مسجدن ڏانهن وڃڻ لاءِ آزاد آهيو يا پاڪستان جي هن رياست ۾ عبادت جي ڪنهن بهی ٻئي هنڌ ڏانهن وڃڻ لاءِ آزاد آهيو. اسين انهن ڏينهن ۾ شروعات ڪري رھيا آهيون، جڏهن ڪو بهی فرق نه آهي، هڪ برادري ۽ ٻي برادري وچ ۾ ڪو بهی فرق نه آهي. اسين هن بنيادي اصول سان شروعات ڪري رھيا آهيون ته اسين سڀ شهري آهيون ۽ هڪ رياست جا برابر شهري آهيون.“",
+            "ur": "قائداعظم نے پاکستان کو ایک ’قومی ریاست‘ کے طور پر دیکھا، جو پاکستان کے تمام شہریوں کے لیے مساوی حقوق کو یقینی بنائے۔ 11 اگست 1947ء کو، قائداعظم نے پاکستان کی دستور ساز اسمبلی کے پہلے صدر کے طور پر اپنے انتخاب پر اعلان کیا، ”تم آزاد ہو؛ تم اپنے مندروں میں جانے کے لیے آزاد ہو، تم اپنی مسجدوں میں جانے کے لیے آزاد ہو یا ریاست پاکستان میں عبادت کی کسی اور جگہ جانے کے لیے آزاد ہو۔ ہم ان دنوں میں آغاز کر رہے ہیں جب کوئی امتیاز نہیں ہے، ایک برادری اور دوسری برادری کے درمیان کوئی فرق نہیں ہے۔ ہم اس بنیادی اصول کے ساتھ آغاز کر رہے ہیں کہ ہم سب شہری ہیں اور ایک ریاست کے مساوی شہری ہیں۔“"
+          },
+          {
+            "en": "He also wanted Pakistan to be a state where justice and merit prevailed. He wanted the people of Pakistan to be united and to work towards making this new country, an exemplary state. He said: “My guiding principle will be justice and complete impartiality and I am sure that with your support and cooperation, I can look forward to Pakistan becoming one of the greatest nations of the world.”",
+            "sd": "هن اهو بهی چاهيو ته پاڪستان هڪ اهڙي رياست هجي، جتي انصاف ۽ قابليت جو راڄ هجي. هن چاهيو ته پاڪستان جا ماڻهو متحد رھن ۽ هن نئين ملڪ کي هڪ مثالي رياست بڻائڻ لاءِ ڪم ڪن. هن چيو: ”منهنجو رھنما اصول انصاف ۽ مڪمل غير جانبداري هوندو ۽ مون کي يقين آهي ته توهان جي مدد ۽ سهڪار سان، مان پاڪستان کي دنيا جي عظيم ترين قومن مان هڪ بڻجندي ڏسي سگھندس.“",
+            "ur": "وہ یہ بھی چاہتے تھے کہ پاکستان ایک ایسی ریاست ہو جہاں انصاف اور قابلیت کا راج ہو۔ وہ چاہتے تھے کہ پاکستان کے لوگ متحد رہیں اور اس نئے ملک کو ایک مثالی ریاست بنانے کے لیے کام کریں۔ انھوں نے کہا: ”میرا رہنما اصول انصاف اور مکمل غیر جانبداری ہوگا اور مجھے یقین ہے کہ آپ کی مدد اور تعاون سے، میں پاکستان کو دنیا کی عظیم ترین قوموں میں سے ایک بنتا ہوا دیکھ سکوں گا۔“"
+          },
+          {
+            "en": "Alas! This great leader had to leave this world before he could transform his ideals into practical steps. It is now our responsibility to set the future directions for this great country by implementing the Quaid’s vision of Pakistan. If we truly want to pay homage to our great Quaid, we should try and do the things he wanted us to do and not merely praise what he did. On every Independence Day, we should think of what we need to do to take Pakistan forward on the way to peace and prosperity.",
+            "sd": "افسوس! هن عظيم اڳواڻ کي هي دنيا ڇڏڻي پئي، ان کان اڳ جو هو پنهنجن خيالن کي عملي قدمن ۾ تبديل ڪري سگھي. هاڻي اها اسان جي ذميواري آهي ته هن عظيم ملڪ لاءِ مستقبل جون هدايتون مقرر ڪريون، قائد جي پاڪستان واري خواب تي عمل ڪري. جيڪڏهن اسين واقعي پنهنجي عظيم قائد کي خراج تحسين پيش ڪرڻ چاهيون ٿا، ته اسان کي اهي ڪم ڪرڻ جي ڪوشش ڪرڻ گھرجي، جيڪي هن چاهيو ته اسين ڪريون، ۽ رڳو سندس ڪيل ڪمن جي تعريف نه ڪريون. هر يوم آزادي تي، اسان کي سوچڻ گھرجي ته پاڪستان کي امن ۽ خوشحالي ڏانهن اڳتي وٺي وڃڻ لاءِ اسان کي ڇا ڪرڻ جي ضرورت آهي.",
+            "ur": "افسوس! اس عظیم رہنما کو یہ دنیا چھوڑنی پڑی، اس سے پہلے کہ وہ اپنے خیالات کو عملی قدموں میں بدل سکیں۔ اب یہ ہماری ذمہ داری ہے کہ اس عظیم ملک کے لیے مستقبل کی سمتیں مقرر کریں، قائد کے پاکستان کے خواب پر عمل کر کے۔ اگر ہم واقعی اپنے عظیم قائد کو خراج تحسین پیش کرنا چاہتے ہیں، تو ہمیں وہ کام کرنے کی کوشش کرنی چاہیے جو وہ چاہتے تھے کہ ہم کریں، اور صرف ان کے کیے ہوئے کاموں کی تعریف نہ کریں۔ ہر یوم آزادی پر، ہمیں سوچنا چاہیے کہ پاکستان کو امن اور خوشحالی کی طرف آگے لے جانے کے لیے ہمیں کیا کرنے کی ضرورت ہے۔"
+          },
+          {
+            "en": "Tahira, I think we now have enough information about the Quaid-e-Azam. Let’s see what Lubna and Farheen find about Allama Iqbal. We’ll then meet and decide how to present all this information. Best wishes Huma",
+            "sd": "طاهره، مان سمجھان ٿي ته هاڻي اسان وٽ قائداعظم بابت ڪافي معلومات آهن. اچو ته ڏسون ته لبنا ۽ فرحين علامه اقبال بابت ڇا ٿا ڳولين. پوءِ اسين ملنداسين ۽ فيصلو ڪنداسين ته هي سموري معلومات ڪيئن پيش ڪجي. نيڪ خواهشن سان هما",
+            "ur": "طاہرہ، میرے خیال میں اب ہمارے پاس قائداعظم کے بارے میں کافی معلومات ہیں۔ آئیے دیکھیں کہ لبنا اور فرحین علامہ اقبال کے بارے میں کیا تلاش کرتی ہیں۔ پھر ہم ملیں گے اور فیصلہ کریں گے کہ یہ تمام معلومات کیسے پیش کی جائیں۔ نیک خواہشات کے ساتھ ہما"
+          },
+          {
+            "en": "Dear Farheen,",
+            "sd": "پياري فرحين،",
+            "ur": "پیاری فرحین،"
+          },
+          {
+            "en": "Now that my cousin’s wedding is over, I have managed to find the following information about the Poet of the East:",
+            "sd": "هاڻي جڏهن منهنجي سئوٽ جي شادي ختم ٿي وئي آهي، ته مان مشرق جي شاعر بابت هيٺين معلومات ڳولڻ ۾ ڪامياب ٿي آهيان:",
+            "ur": "اب جب میرے کزن کی شادی ختم ہو گئی ہے، تو میں مشرق کے شاعر کے بارے میں درج ذیل معلومات تلاش کرنے میں کامیاب ہو گئی ہوں:"
+          },
+          {
+            "en": "Allama Muhammad Iqbal, the poet of the East was, no doubt, a great poet, but poetry was only one of his many accomplishments. He began his professional career as a Professor of Arabic at the Oriental College, Lahore, after doing his M.A., in 1899. In 1905, he went to London to study law and received a law degree. He thus became a barrister by profession. But this does not mean that he gave up everything else. This versatile person continued his quest for knowledge in various fields and, in 1908, he was awarded a Ph.D. degree by the Munich University, in Germany, for his work on Persian philosophy. That is why he is also known as Dr. Muhammad Iqbal. Regards Lubna",
+            "sd": "علامه محمد اقبال، مشرق جو شاعر، بيشڪ هڪ عظيم شاعر هو، پر شاعري سندس ڪيترين ئي ڪاميابين مان رڳو هڪ هئي. هن پنهنجي پيشورانه زندگي جي شروعات اورينٽل ڪاليج، لاهور ۾ عربي جي پروفيسر طور ڪئي، 1899ع ۾ ايم. اي. ڪرڻ کان پوءِ. 1905ع ۾، هو قانون پڙھڻ لاءِ لنڊن ويو ۽ قانون جي ڊگري حاصل ڪئي. اهڙي طرح هو پيشي جي لحاظ کان هڪ بيرسٽر بڻجي ويو. پر هن جو اهو مطلب نه آهي ته هن ٻيو سڀ ڪجه ڇڏي ڏنو. هن گھڻ رخي شخص علم جي ڳولا مختلف شعبن ۾ جاري رکي ۽، 1908ع ۾، کيس جرمني ۾ ميونخ يونيورسٽي طرفان فارسي فلسفي تي سندس ڪم لاءِ پي. ايڇ. ڊي. جي ڊگري ڏني وئي. اهو ئي سبب آهي جو هو ڊاڪٽر محمد اقبال طور بهی سڃاتو وڃي ٿو. سلام لبنا",
+            "ur": "علامہ محمد اقبال، مشرق کے شاعر، بلا شبہ ایک عظیم شاعر تھے، لیکن شاعری ان کی کئی کامیابیوں میں سے صرف ایک تھی۔ انھوں نے اپنی پیشہ ورانہ زندگی کا آغاز اورینٹل کالج، لاہور میں عربی کے پروفیسر کے طور پر کیا، 1899ء میں ایم۔ اے۔ کرنے کے بعد۔ 1905ء میں، وہ قانون پڑھنے کے لیے لندن گئے اور قانون کی ڈگری حاصل کی۔ اس طرح وہ پیشے کے لحاظ سے ایک بیرسٹر بن گئے۔ لیکن اس کا یہ مطلب نہیں ہے کہ انھوں نے باقی سب کچھ چھوڑ دیا تھا۔ اس ہمہ جہت شخص نے علم کی تلاش مختلف شعبوں میں جاری رکھی اور، 1908ء میں، انھیں جرمنی میں میونخ یونیورسٹی کی طرف سے فارسی فلسفے پر ان کے کام کے لیے پی۔ ایچ۔ ڈی۔ کی ڈگری دی گئی۔ یہی وجہ ہے کہ وہ ڈاکٹر محمد اقبال کے نام سے بھی جانے جاتے ہیں۔ آداب لبنا"
+          },
+          {
+            "en": "Thanks, Lubna. Here’s the information that I have found:",
+            "sd": "مھرباني، لبنا. هتي اها معلومات آهي، جيڪا مون ڳولي آهي:",
+            "ur": "شکریہ، لبنا۔ یہ وہ معلومات ہیں جو میں نے تلاش کی ہیں:"
+          },
+          {
+            "en": "Allama Iqbal also took an active part in politics and worked for the cause of the Muslims of South Asia. He was elected as a member of the Punjab Legislative Council in 1926, a post he held till 1929. By then, he had become deeply involved with the Muslim League activities. Due to his commitment to the cause of Muslim rights in India, he was soon elected as the President of the Punjab branch of the All India Muslim League, a post he held till the time of his death.",
+            "sd": "علامه اقبال ڏکڻ ايشيا جي مسلمانن جي مقصد لاءِ سياست ۾ بهی سرگرم حصو ورتو ۽ ڪم ڪيو. هو 1926ع ۾ پنجاب قانون ساز ڪائونسل جو ميمبر چونڊيو ويو، هڪ عهدو جيڪو هن 1929ع تائين سنڀاليو. ان وقت تائين، هو مسلم ليگ جي سرگرمين ۾ گھرو شامل ٿي چڪو هو. هندستان ۾ مسلم حقن جي مقصد لاءِ سندس وابستگي سبب، هو جلد ئي آل انڊيا مسلم ليگ جي پنجاب شاخ جو صدر چونڊيو ويو، هڪ عهدو جيڪو هن پنهنجي موت جي وقت تائين سنڀاليو.",
+            "ur": "علامہ اقبال نے جنوبی ایشیا کے مسلمانوں کے مقصد کے لیے سیاست میں بھی سرگرم حصہ لیا اور کام کیا۔ وہ 1926ء میں پنجاب قانون ساز کونسل کے رکن منتخب ہوئے، ایک عہدہ جو انھوں نے 1929ء تک سنبھالا۔ اس وقت تک، وہ مسلم لیگ کی سرگرمیوں میں گہرے طور پر شامل ہو چکے تھے۔ ہندوستان میں مسلم حقوق کے مقصد سے ان کی وابستگی کی وجہ سے، وہ جلد ہی آل انڈیا مسلم لیگ کی پنجاب شاخ کے صدر منتخب ہوئے، ایک عہدہ جو انھوں نے اپنی وفات کے وقت تک سنبھالا۔"
+          },
+          {
+            "en": "One of Iqbal’s biggest political contributions is his Allahabad address, which he delivered in 1930, when he presided over the Allahabad meeting of the All-India Muslim League. It was on this historic occasion that he made a definite demand for a separate Muslim State in South Asia. In his presidential address, Dr. Iqbal said, “India is a continent of human groups belonging to different races, speaking different languages, and believing in different religions.... The Muslim demand to create a Muslim India within India is in no way without justice. For my part I would like to go one step further; I would like to see the Punjab, North West Frontier Province, Sindh and Baluchistan unite under a single Muslim State”. However this demand shocked both the Hindus and the British alike and they both opposed it. This demand for a separate state for Muslims took such firm root that at its meeting in Lahore, on March 23, 1940, the Muslim League passed a resolution demanding a separate state for the Muslims of India. This resolution is known as the Pakistan Resolution. From this point onwards, all efforts were directed towards this end, culminating in the creation of Pakistan, on August 14, 1947. Best wishes. Farheen",
+            "sd": "اقبال جي سڀ کان وڏي سياسي ڪاميابين مان هڪ سندس الاه آباد خطاب آهي، جيڪو هن 1930ع ۾ ڏنو، جڏهن هن آل انڊيا مسلم ليگ جي الاه آباد اجلاس جي صدارت ڪئي. اهو هن تاريخي موقعي تي هو ته هن ڏکڻ ايشيا ۾ هڪ الڳ مسلم رياست جو واضح مطالبو ڪيو. پنهنجي صدارتي خطاب ۾، ڊاڪٽر اقبال چيو، ”هندستان انساني گروهن جو هڪ براعظم آهي، جيڪي مختلف نسلن سان تعلق رکن ٿا، مختلف ٻوليون ڳالھائين ٿا، ۽ مختلف مذهبن تي يقين رکن ٿا.... مسلمانن جو مطالبو ته هندستان ۾ هڪ مسلم هندستان پيدا ڪيو وڃي، اهو ڪنهن بهی طرح انصاف کان سواءِ نه آهي. منهنجي طرفان مان هڪ قدم اڳتي وڃڻ چاھيان ٿو؛ مان چاھيان ٿو ته پنجاب، اتر اولهه سرحدي صوبو، سنڌ ۽ بلوچستان هڪ واحد مسلم رياست هيٺ متحد ٿين“. جڏهن ته هن مطالبو هندن ۽ برطانوين ٻنهي کي حيران ڪري ڇڏيو ۽ ٻنهي ان جي مخالفت ڪئي. مسلمانن لاءِ الڳ رياست جي هن مطالبو ايترو مضبوط ٿي ويو جو 23 مارچ 1940ع تي لاهور ۾ پنهنجي اجلاس ۾، مسلم ليگ هڪ قرارداد منظور ڪئي، جنهن ۾ هندستان جي مسلمانن لاءِ الڳ رياست جو مطالبو ڪيو ويو. هي قرارداد پاڪستان قرارداد طور سڃاتي وڃي ٿي. هن نقطي کان پوءِ، سڀ ڪوششون هن مقصد ڏانهن هدايت ڪيون ويون، جيڪي 14 آگسٽ 1947ع تي پاڪستان جي پيدائش تي ختم ٿيون. نيڪ خواهشن سان. فرحين",
+            "ur": "اقبال کی سب سے بڑی سیاسی کامیابیوں میں سے ایک ان کا الہ آباد خطاب ہے، جو انھوں نے 1930ء میں دیا، جب انھوں نے آل انڈیا مسلم لیگ کے الہ آباد اجلاس کی صدارت کی۔ یہ اس تاریخی موقع پر تھا کہ انھوں نے جنوبی ایشیا میں ایک علیحدہ مسلم ریاست کا واضح مطالبہ کیا۔ اپنے صدارتی خطاب میں، ڈاکٹر اقبال نے کہا، ”ہندوستان انسانی گروہوں کا ایک براعظم ہے، جو مختلف نسلوں سے تعلق رکھتے ہیں، مختلف زبانیں بولتے ہیں، اور مختلف مذاہب پر یقین رکھتے ہیں۔۔۔۔ مسلمانوں کا مطالبہ کہ ہندوستان کے اندر ایک مسلم ہندوستان بنایا جائے، کسی بھی طرح انصاف کے بغیر نہیں ہے۔ اپنی طرف سے میں ایک قدم آگے جانا چاہوں گا؛ میں چاہوں گا کہ پنجاب، شمال مغربی سرحدی صوبہ، سندھ اور بلوچستان ایک واحد مسلم ریاست کے تحت متحد ہو جائیں۔“ تاہم اس مطالبے نے ہندوؤں اور برطانویوں دونوں کو حیران کر دیا اور دونوں نے اس کی مخالفت کی۔ مسلمانوں کے لیے علیحدہ ریاست کا یہ مطالبہ اتنا مضبوط ہو گیا کہ 23 مارچ 1940ء کو لاہور میں اپنے اجلاس میں، مسلم لیگ نے ایک قرارداد منظور کی، جس میں ہندوستان کے مسلمانوں کے لیے علیحدہ ریاست کا مطالبہ کیا گیا۔ یہ قرارداد پاکستان قرارداد کے نام سے جانی جاتی ہے۔ اس نقطے کے بعد سے، تمام کوششیں اس مقصد کی طرف موڑ دی گئیں، جو 14 اگست 1947ء کو پاکستان کے قیام پر منتج ہوئیں۔ نیک خواہشات کے ساتھ۔ فرحین"
+          },
+          {
+            "en": "Moreover, he had clear ideas about what Muslims should do.",
+            "sd": "ان کان سواءِ، هن کي واضح خيال هئا ته مسلمانن کي ڇا ڪرڻ گھرجي.",
+            "ur": "اس کے علاوہ، ان کے پاس واضح خیالات تھے کہ مسلمانوں کو کیا کرنا چاہیے۔"
+          },
+          {
+            "en": "Lubna and Farheen, both of you have collected excellent information about Allama Iqbal. While we all know what the Quaid-e-Azam did, we often do not exactly recall the role of Allama Iqbal in the creation.",
+            "sd": "لبنا ۽ فرحين، توهان ٻنهي علامه اقبال بابت بهترين معلومات گڏ ڪيون آهن. جڏهن ته اسين سڀ ڄاڻون ٿا ته قائداعظم ڇا ڪيو، اسين اڪثر صحيح طرح ياد نه ٿا ڪريون ته پاڪستان جي پيدائش ۾ علامه اقبال جو ڪردار ڇا هو.",
+            "ur": "لبنا اور فرحین، آپ دونوں نے علامہ اقبال کے بارے میں بہترین معلومات جمع کی ہیں۔ جب کہ ہم سب جانتے ہیں کہ قائداعظم نے کیا کیا، ہم اکثر صحیح طور پر یاد نہیں رکھتے کہ پاکستان کے قیام میں علامہ اقبال کا کیا کردار تھا۔"
+          },
+          {
+            "en": "Allama Iqbal died in 1938, nine years before the creation of Pakistan. But he played a major role in its creation, by planting the seeds of a separate state for the Muslims of India in people’s minds. Quaid-e-Azam, praised Iqbal’s role in a message on his death: ‘To me he was a friend, guide and philosopher, and during the darkest moments through which the Muslim League had to go, he stood like a rock’.",
+            "sd": "علامه اقبال 1938ع ۾ وفات ڪري ويو، پاڪستان جي پيدائش کان نو سال اڳ. پر هن ان جي پيدائش ۾ اهم ڪردار ادا ڪيو، هندستان جي مسلمانن لاءِ الڳ رياست جا ٻج ماڻهن جي ذهنن ۾ پوکي. قائداعظم، اقبال جي ڪردار جي سندس موت تي هڪ پيغام ۾ تعريف ڪئي: ’منهنجي لاءِ هو هڪ دوست، رھنما ۽ فلسفي هو، ۽ مسلم ليگ کي جن اونداهين لمحن مان گذرڻو پيو، انهن ۾ هو هڪ پٿر وانگر بيٺو رھيو‘.",
+            "ur": "علامہ اقبال کا انتقال 1938ء میں ہوا، پاکستان کے قیام سے نو سال پہلے۔ لیکن انھوں نے اس کے قیام میں اہم کردار ادا کیا، ہندوستان کے مسلمانوں کے لیے علیحدہ ریاست کے بیج لوگوں کے ذہنوں میں بو کر۔ قائداعظم نے اقبال کے کردار کی ان کی وفات پر ایک پیغام میں تعریف کی: ’میرے لیے وہ ایک دوست، رہنما اور فلسفی تھے، اور مسلم لیگ کو جن تاریک لمحوں سے گزرنا پڑا، ان میں وہ ایک چٹان کی طرح کھڑے رہے۔‘"
+          },
+          {
+            "en": "Allama Iqbal had a great love for Islam; he always advised the Muslims to remain true to their faith, and to practise it in letter and spirit. In his Allahabad address he said: “I have learned one lesson from the history of Muslims. At difficult moments in their history, it is Islam that has saved Muslims and not Muslims that have saved Islam. If, today, you put your faith in Islam, you will become strong and united once again and save yourself from complete destruction.” Tahira",
+            "sd": "علامه اقبال کي اسلام سان وڏو پيار هو؛ هو هميشه مسلمانن کي صلاح ڏيندو هو ته پنهنجي مذهب سان سچا رھن، ۽ ان تي لفظ ۽ روح سان عمل ڪن. پنهنجي الاه آباد خطاب ۾ هن چيو: ”مون مسلمانن جي تاريخ مان هڪ سبق سکيو آهي. انهن جي تاريخ جي مشڪل لمحن ۾، اهو اسلام آهي جنهن مسلمانن کي بچايو آهي ۽ مسلمان نه آهن جن اسلام کي بچايو آهي. جيڪڏهن، اڄ، توهان پنهنجو ايمان اسلام ۾ رکو ٿا، ته توهان هڪ ڀيرو ٻيهر مضبوط ۽ متحد ٿي ويندا ۽ پاڻ کي مڪمل تباهي کان بچائي وٺندا.“ طاهره",
+            "ur": "علامہ اقبال کو اسلام سے بڑی محبت تھی؛ وہ ہمیشہ مسلمانوں کو نصیحت کرتے تھے کہ اپنے مذہب سے سچے رہیں، اور اس پر لفظ اور روح کے ساتھ عمل کریں۔ اپنے الہ آباد خطاب میں انھوں نے کہا: ”میں نے مسلمانوں کی تاریخ سے ایک سبق سیکھا ہے۔ ان کی تاریخ کے مشکل لمحوں میں، یہ اسلام ہے جس نے مسلمانوں کو بچایا ہے اور مسلمان نہیں ہیں جنھوں نے اسلام کو بچایا ہے۔ اگر، آج، آپ اپنا ایمان اسلام میں رکھتے ہیں، تو آپ ایک بار پھر مضبوط اور متحد ہو جائیں گے اور اپنے آپ کو مکمل تباہی سے بچا لیں گے۔“ طاہرہ"
+          }
+        ],
+        "section": "4.1",
+        "unit": 4,
+        "unitTitle": "Pakistan and National Pride"
+      },
+      {
+        "bookPages": "109-112",
+        "lesson": "Health Problems Caused by Mosquitoes",
+        "paragraphs": [
+          {
+            "en": "Malaria, dengue, and chikungunya, all three diseases are spread by mosquitoes. The symptoms of all these diseases are so similar that it can be quite difficult to identify them for sure without laboratory testing. But it is important to find out what the exact disease is for it to be properly treated. Let us try and understand something about the causes, signs and symptoms, similarities and differences, and the prevention of these diseases.",
+            "sd": "مليريا، ڊينگي ۽ چڪن گنيا — هي ٽئي بيماريون مڇرن جي ڪري پکڙجن ٿيون. هنن ٽنهي بيمارين جون علامتون هڪ ٻئي سان ايتريون ملندڙ جلندڙ آهن جو ليبارٽري ٽيسٽ کان سواءِ انهن کي پڪ سان سڃاڻڻ ڏاڍو مشڪل آهي. پر اهو ڄاڻڻ ضروري آهي ته اصل بيماري ڪهڙي آهي ته جيئن ان جو صحيح علاج ٿي سگھي. اچو ته هنن بيمارين جي سببن، نشانين ۽ علامتن، هڪ جھڙائين ۽ فرقن، ۽ انهن کان بچاءُ بابت ڪجه سمجھڻ جي ڪوشش ڪريون.",
+            "ur": "ملیریا، ڈینگی اور چکن گنیا — یہ تینوں بیماریاں مچھروں سے پھیلتی ہیں۔ ان تینوں بیماریوں کی علامات ایک دوسرے سے اتنی ملتی جلتی ہیں کہ لیبارٹری ٹیسٹ کے بغیر ان کی پکی پہچان کرنا بہت مشکل ہے۔ لیکن یہ جاننا ضروری ہے کہ اصل بیماری کون سی ہے تاکہ اس کا صحیح علاج ہو سکے۔ آئیے ان بیماریوں کے اسباب، نشانیوں اور علامات، ان کی مشابہتوں اور فرقوں، اور ان سے بچاؤ کے بارے میں کچھ سمجھنے کی کوشش کریں۔"
+          },
+          {
+            "en": "Malaria is caused by plasmodium, a single-celled parasite, often transmitted by infected mosquitoes. It is injected into a person's circulatory system through the saliva of the mosquito.",
+            "sd": "مليريا پلازموڊيم جي ڪري ٿئي ٿو، جيڪو هڪ ئي خاني وارو طفيلي آهي ۽ اڪثر ڪري متاثر مڇرن ذريعي منتقل ٿئي ٿو. اهو مڇر جي لعاب ذريعي ماڻهوءَ جي رت جي نظام ۾ داخل ڪيو ويندو آهي.",
+            "ur": "ملیریا پلازموڈیم کی وجہ سے ہوتا ہے، جو ایک ہی خلیے والا طفیلی ہے اور اکثر متاثرہ مچھروں کے ذریعے منتقل ہوتا ہے۔ یہ مچھر کے لعاب کے ذریعے انسان کے خون کے نظام میں داخل کر دیا جاتا ہے۔"
+          },
+          {
+            "en": "The parasite infects the red blood cells until they burst. Then, the newly developed plasmodium from the burst red blood cells spreads and infects more red blood cells throughout the body, thus killing all the cells. This can lead to severe liver infection. Sometimes the infected red blood cells become \"stickier\" than usual and clot easily, which can lead to stoppage of blood flow to the brain causing cerebral malaria.",
+            "sd": "هي طفيلي رت جي ڳاڙھن خانين کي متاثر ڪندو آهي، ايستائين جو اهي ڦاٽي پون ٿا. پوءِ ڦاٽل ڳاڙھن رت جي خانين مان نڪتل نئون پلازموڊيم پکڙجي وڃي ٿو ۽ سڄي جسم ۾ وڌيڪ ڳاڙھن رت جي خانين کي متاثر ڪري ٿو، اهڙي طرح سڀني خانين کي ماري ڇڏي ٿو. ان سان جگر جي سخت انفيڪشن ٿي سگھي ٿي. ڪڏهن ڪڏهن متاثر ڳاڙھا رت جا خاني معمول کان وڌيڪ چپڪندڙ ٿي وڃن ٿا ۽ آساني سان ڄمي وڃن ٿا، جنهن ڪري دماغ ڏانهن رت جي فراهمي بند ٿي سگھي ٿي ۽ دماغي مليريا ٿي سگھي ٿو.",
+            "ur": "یہ طفیلی خون کے سرخ خلیوں کو متاثر کرتا ہے، یہاں تک کہ وہ پھٹ جاتے ہیں۔ پھر پھٹے ہوئے سرخ خلیوں سے نکلنے والا نیا پلازموڈیم پھیل جاتا ہے اور پورے جسم میں مزید سرخ خلیوں کو متاثر کرتا ہے، اس طرح تمام خلیوں کو مار ڈالتا ہے۔ اس سے جگر کا شدید انفیکشن ہو سکتا ہے۔ کبھی کبھی متاثرہ سرخ خلیے معمول سے زیادہ چپچپے ہو جاتے ہیں اور آسانی سے جم جاتے ہیں، جس سے دماغ تک خون کی فراہمی رک سکتی ہے اور دماغی ملیریا ہو سکتا ہے۔"
+          },
+          {
+            "en": "Malaria is recognised through high fever. The temperature may reach as high as 40 °C (104 °F). Fever is often accompanied by chills, and may also include sweating. Patients may also suffer from constipation, kidney dysfunction and disorientation.",
+            "sd": "مليريا کي تيز بخار مان سڃاتو وڃي ٿو. گرمي 40 ڊگري سينٽي گريڊ (104 ڊگري فارنهائيٽ) تائين پهچي سگھي ٿي. بخار سان اڪثر ڪري سيءُ به ٿيندو آهي، ۽ ان سان گڏ پگھر به اچي سگھي ٿو. مريضن کي قبض، گردن جي خرابي ۽ ذهني مونجھاري به ٿي سگھي ٿي.",
+            "ur": "ملیریا کی پہچان تیز بخار سے ہوتی ہے۔ درجہ حرارت 40 ڈگری سینٹی گریڈ (104 ڈگری فارن ہائیٹ) تک پہنچ سکتا ہے۔ بخار کے ساتھ اکثر کپکپی بھی ہوتی ہے، اور پسینہ بھی آ سکتا ہے۔ مریضوں کو قبض، گردوں کی خرابی اور ذہنی انتشار بھی ہو سکتا ہے۔"
+          },
+          {
+            "en": "There are four types of dengue viruses, all of which are spread by mosquitoes. An infected mosquito spreads the virus through its saliva when it bites. Dengue can also be transmitted from one human to another. For example, infected blood used in a blood transfusion can cause dengue. It can also be caused by organ donation and can even be transmitted from the mother to the child.",
+            "sd": "ڊينگي وائرس جا چار قسم آهن، جن مان سڀئي مڇرن ذريعي پکڙجن ٿا. متاثر مڇر جڏهن ڏنگي ٿو ته پنهنجي لعاب ذريعي وائرس کي پکيڙي ٿو. ڊينگي هڪ ماڻهوءَ کان ٻئي ماڻهوءَ ۾ به منتقل ٿي سگھي ٿو. مثال طور، رت جي منتقلي ۾ استعمال ٿيل متاثر رت ڊينگي جو سبب بڻجي سگھي ٿو. اهو عضون جي منتقلي سان به ٿي سگھي ٿو ۽ ماءُ کان ٻار ۾ به منتقل ٿي سگھي ٿو.",
+            "ur": "ڈینگی وائرس کی چار اقسام ہیں، جن میں سے سب مچھروں سے پھیلتے ہیں۔ متاثرہ مچھر جب کاٹتا ہے تو اپنے لعاب کے ذریعے وائرس پھیلا دیتا ہے۔ ڈینگی ایک انسان سے دوسرے انسان میں بھی منتقل ہو سکتا ہے۔ مثال کے طور پر، خون کی منتقلی میں استعمال شدہ متاثرہ خون ڈینگی کا سبب بن سکتا ہے۔ یہ اعضا کے عطیے سے بھی ہو سکتا ہے اور ماں سے بچے میں بھی منتقل ہو سکتا ہے۔"
+          },
+          {
+            "en": "Once the virus enters the body it circulates around the body, attacking white blood cells and other antibodies, thus affecting the immune system. The virus further replicates within the cell until the cell bursts and dies. The death of the white blood cells results in leakage of other fluids from the cells, leading to low protein, fluid in the lungs and in the stomach area, low blood pressure, shock, and eventually death.",
+            "sd": "جڏهن وائرس جسم ۾ داخل ٿئي ٿو ته اهو جسم ۾ گردش ڪري ٿو ۽ اڇن رت جي خانين ۽ ٻين اينٽي باڊيز تي حملو ڪري ٿو، اهڙي طرح مدافعتي نظام کي متاثر ڪري ٿو. وائرس خاني جي اندر وڌندو رھي ٿو، ايستائين جو خانو ڦاٽي وڃي ٿو ۽ مري وڃي ٿو. اڇن رت جي خانين جي مرڻ سان خانين مان ٻيون رطوبتون نڪري وڃن ٿيون، جنهن ڪري پروٽين گھٽجي وڃي ٿو، ڦڦڙن ۽ پيٽ واري حصي ۾ پاڻي ڀرجي وڃي ٿو، بلڊ پريشر گھٽجي وڃي ٿو، جھٽڪو لڳي ٿو ۽ آخرڪار موت واقع ٿي سگھي ٿو.",
+            "ur": "جب وائرس جسم میں داخل ہوتا ہے تو وہ جسم میں گردش کرتا ہے اور سفید خون کے خلیوں اور دوسرے اینٹی باڈیز پر حملہ کرتا ہے، اس طرح مدافعتی نظام کو متاثر کرتا ہے۔ وائرس خلیے کے اندر بڑھتا رہتا ہے، یہاں تک کہ خلیہ پھٹ جاتا ہے اور مر جاتا ہے۔ سفید خون کے خلیوں کی موت سے خلیوں سے دیگر رطوبتیں نکل جاتی ہیں، جس سے پروٹین کم ہو جاتا ہے، پھیپھڑوں اور پیٹ کے حصے میں پانی بھر جاتا ہے، بلڈ پریشر کم ہو جاتا ہے، صدمہ ہوتا ہے اور آخر کار موت واقع ہو سکتی ہے۔"
+          },
+          {
+            "en": "High fever is followed by severe body pain. Pain behind the eyes and decreased urine output is also common. Dengue-related eye pain often increases with bright light. Patients may also feel respiratory difficulties and intense headache. As the fever decreases, skin rashes may start to appear.",
+            "sd": "تيز بخار کان پوءِ جسم ۾ سخت سور ٿيندو آهي. اکين جي پٺيان سور ۽ پيشاب جو گھٽ اچڻ به عام آهي. ڊينگي جي ڪري اکين ۾ ٿيندڙ سور تيز روشني سان اڪثر وڌي ويندو آهي. مريضن کي تنفس ۾ ڏکيائي ۽ سخت سر درد به محسوس ٿي سگھي ٿو. جيئن بخار گھٽجي ٿو، تيئن چمڙي تي ڳاڙھا داڻا نڪرڻ شروع ٿي سگھن ٿا.",
+            "ur": "تیز بخار کے بعد جسم میں شدید درد ہوتا ہے۔ آنکھوں کے پیچھے درد اور پیشاب کا کم آنا بھی عام ہے۔ ڈینگی سے متعلق آنکھوں کا درد تیز روشنی سے اکثر بڑھ جاتا ہے۔ مریضوں کو سانس لینے میں دشواری اور شدید سر درد بھی محسوس ہو سکتا ہے۔ جیسے جیسے بخار کم ہوتا ہے، جلد پر دانے نکلنا شروع ہو سکتے ہیں۔"
+          },
+          {
+            "en": "Another symptom is excessive bleeding, as the virus attacks the capillaries, the smallest blood vessels in the body. When the capillaries burst, blood escapes from the blood stream. In severe cases, bleeding is common in the nose and gums. The loss of blood can lead to decreased blood pressure, and may, eventually, lead to internal bleeding, shock, and death.",
+            "sd": "هڪ ٻي علامت گھڻو رت نکرڻ آهي، ڇاڪاڻ ته وائرس ڪيپيلريز، يعني جسم جي سڀ کان ننڍين رت جي نالين، تي حملو ڪري ٿو. جڏهن ڪيپيلريز ڦاٽي وڃن ٿيون ته رت ٻاهر نڪري وڃي ٿو. سخت حالتن ۾ نڪ ۽ مسوڙن مان رت نکرڻ عام آهي. رت جي گھٽتائي بلڊ پريشر گھٽائي سگھي ٿي ۽ آخرڪار اندروني رت جو نکرڻ، جھٽڪي ۽ موت جو سبب بڻجي سگھي ٿي.",
+            "ur": "ایک اور علامت بہت زیادہ خون بہنا ہے، کیونکہ وائرس کیپلریز، یعنی جسم کی سب سے چھوٹی خون کی نالیوں، پر حملہ کرتا ہے۔ جب کیپلریز پھٹ جاتی ہیں تو خون بہہ نکلتا ہے۔ شدید حالتوں میں ناک اور مسوڑھوں سے خون بہنا عام ہے۔ خون کی کمی بلڈ پریشر کم کر سکتی ہے اور آخر کار اندرونی خون بہنے، صدمے اور موت کا سبب بن سکتی ہے۔"
+          },
+          {
+            "en": "This virus is also transmitted through mosquitoes. These mosquitoes live and breed near stagnant or polluted water and infect humans with their bite. Although the disease is not contagious, it can spread from an infected person to others if the mosquito feeds on the infected person first and then bites other people.",
+            "sd": "هي وائرس به مڇرن ذريعي منتقل ٿئي ٿو. هي مڇر بيٺل يا گندي پاڻي جي ويجهو رھن ٿا ۽ پيدا ٿين ٿا ۽ پنهنجي ڏنگ سان ماڻهن کي متاثر ڪن ٿا. جيتوڻيڪ هي بيماري هڪ ماڻهوءَ کان ٻئي ماڻهوءَ کي سڌو نه ٿي لڳي، پر اها پکڙجي سگھي ٿي جيڪڏهن مڇر پهريائين متاثر ماڻهوءَ جو رت چوسي ۽ پوءِ ٻين ماڻهن کي ڏنگي.",
+            "ur": "یہ وائرس بھی مچھروں کے ذریعے منتقل ہوتا ہے۔ یہ مچھر ٹھہرے ہوئے یا گندے پانی کے قریب رہتے ہیں اور افزائش کرتے ہیں اور اپنے کاٹنے سے انسانوں کو متاثر کرتے ہیں۔ اگرچہ یہ بیماری چھوت سے نہیں پھیلتی، لیکن یہ متاثرہ شخص سے دوسروں میں پھیل سکتی ہے اگر مچھر پہلے متاثرہ شخص کا خون چوسے اور پھر دوسرے لوگوں کو کاٹے۔"
+          },
+          {
+            "en": "The chikungunya virus infects the muscle cells of the body. It stays there and reproduces until the cell dies. It then finds a new host cell to infect.",
+            "sd": "چڪن گنيا وائرس جسم جي عضلاتي خانين کي متاثر ڪري ٿو. اهو اتي ئي رھي ٿو ۽ وڌندو رھي ٿو، ايستائين جو خانو مري وڃي ٿو. پوءِ اهو متاثر ڪرڻ لاءِ نئون ميزبان خانو ڳولي ٿو.",
+            "ur": "چکن گنیا وائرس جسم کے پٹھوں کے خلیوں کو متاثر کرتا ہے۔ یہ وہیں رہتا ہے اور بڑھتا رہتا ہے، یہاں تک کہ خلیہ مر جاتا ہے۔ پھر یہ متاثر کرنے کے لیے نیا میزبان خلیہ ڈھونڈتا ہے۔"
+          },
+          {
+            "en": "Chikungunya usually attacks the muscles, joints, skin, connective tissues, and even the central nervous system. It is usually accompanied by fever and skin rash. The skin rashes are almost identical to the dengue rashes. The patients may also suffer from headache, nausea and vomiting. Because the virus destroys cells in the muscles and joints, patients experience muscle weakness and joint pain, which can be severe. Partial loss of taste is also reported by many chikungunya patients.",
+            "sd": "چڪن گنيا اڪثر ڪري عضلات، جوڙن، چمڙي، ڳنڍيندڙ ٽشوز ۽ مرڪزي اعصابي نظام تي به حملو ڪري ٿو. ان سان اڪثر بخار ۽ چمڙي تي ڳاڙھا داڻا به ٿين ٿا. چمڙي تي نڪتل داڻا لڳ ڀڳ ڊينگي وارن داڻن جھڙا ئي هوندا آهن. مريضن کي سر درد، متلي ۽ الٽي به ٿي سگھي ٿي. ڇاڪاڻ ته وائرس عضلات ۽ جوڙن جي خانين کي تباهه ڪري ٿو، تنهن ڪري مريضن کي عضلات جي ڪمزوري ۽ جوڙن جو سور محسوس ٿئي ٿو، جيڪو سخت ٿي سگھي ٿو. چڪن گنيا جي ڪيترن ئي مريضن ۾ ذائقي جو جزوي نقصان به ڏٺو ويو آهي.",
+            "ur": "چکن گنیا اکثر پٹھوں، جوڑوں، جلد، مربوط ٹشوز اور حتیٰ کہ مرکزی اعصابی نظام پر بھی حملہ کرتا ہے۔ اس کے ساتھ اکثر بخار اور جلد پر دانے بھی ہوتے ہیں۔ جلد پر نکلنے والے دانے تقریباً ڈینگی والے دانوں جیسے ہی ہوتے ہیں۔ مریضوں کو سر درد، متلی اور قے بھی ہو سکتی ہے۔ چونکہ وائرس پٹھوں اور جوڑوں کے خلیوں کو تباہ کر دیتا ہے، اس لیے مریضوں کو پٹھوں کی کمزوری اور جوڑوں کا درد محسوس ہوتا ہے، جو شدید ہو سکتا ہے۔ چکن گنیا کے کئی مریضوں میں ذائقے کا جزوی نقصان بھی بتایا جاتا ہے۔"
+          },
+          {
+            "en": "The disease is rarely fatal and the virus remains in the system for 5-7 days. Once one recovers from this infection, one is immune to it for the rest of one's life.",
+            "sd": "هي بيماري ڪڏهن ئي جان ليوا ثابت ٿئي ٿي ۽ وائرس جسم ۾ 5 کان 7 ڏينهن تائين رھي ٿو. هڪ دفعو ماڻهو هن انفيڪشن مان صحتياب ٿي وڃي ته پوءِ اهو سڄي زندگي ان کان محفوظ رھي ٿو.",
+            "ur": "یہ بیماری شاذ و نادر ہی جان لیوا ثابت ہوتی ہے اور وائرس جسم میں 5 سے 7 دن تک رہتا ہے۔ ایک بار جب کوئی اس انفیکشن سے صحت یاب ہو جائے تو وہ ساری زندگی اس سے محفوظ رہتا ہے۔"
+          },
+          {
+            "en": "The chikungunya virus is transmitted by the same mosquitoes that spread the dengue virus. Both chikungunya and dengue have almost identical symptoms and disease processes; so much so that one can be mistaken for the other. Both display joint pain; however, joint pain and inflammation caused by chikungunya are more intense and pronounced. On the other hand, low platelet count, high bleeding risk, and pain behind the eyes are the main symptoms of dengue.",
+            "sd": "چڪن گنيا وائرس ساڳين مڇرن ذريعي منتقل ٿئي ٿو جيڪي ڊينگي وائرس کي پکيڙين ٿا. چڪن گنيا ۽ ڊينگي ٻنهي جون علامتون ۽ بيماري جو عمل لڳ ڀڳ هڪ جھڙو آهي؛ ايتري قدر جو هڪ کي ٻئي سان غلط سمجھي سگھجي ٿو. ٻنهي ۾ جوڙن جو سور ٿئي ٿو؛ پر چڪن گنيا جي ڪري ٿيندڙ جوڙن جو سور ۽ سوز وڌيڪ شديد ۽ نمايان هوندو آهي. ٻئي پاسي، پليٽليٽس جو گھٽ تعداد، رت نکرڻ جو وڏو خطرو ۽ اکين جي پٺيان سور ڊينگي جون مکيه علامتون آهن.",
+            "ur": "چکن گنیا وائرس انہی مچھروں سے منتقل ہوتا ہے جو ڈینگی وائرس پھیلاتے ہیں۔ چکن گنیا اور ڈینگی دونوں کی علامات اور بیماری کا عمل تقریباً ایک جیسا ہے؛ اس حد تک کہ ایک کو دوسرے سے غلط سمجھا جا سکتا ہے۔ دونوں میں جوڑوں کا درد ہوتا ہے؛ لیکن چکن گنیا کی وجہ سے ہونے والا جوڑوں کا درد اور سوجن زیادہ شدید اور نمایاں ہوتی ہے۔ دوسری طرف، پلیٹلیٹس کی کم تعداد، خون بہنے کا زیادہ خطرہ اور آنکھوں کے پیچھے درد ڈینگی کی اہم علامات ہیں۔"
+          },
+          {
+            "en": "The main symptoms of malaria are chills/shivering, followed by fever/sweating. These symptoms usually occur every two days.",
+            "sd": "مليريا جون مکيه علامتون سيءُ/ڏڪڻي آهن، جنهن کان پوءِ بخار/پگھر اچي ٿو. هي علامتون اڪثر ڪري هر ٻئي ڏينهن تي ڏسڻ ۾ اچن ٿيون.",
+            "ur": "ملیریا کی اہم علامات کپکپی/لرزہ ہیں، جس کے بعد بخار/پسینہ آتا ہے۔ یہ علامات عام طور پر ہر دوسرے دن ظاہر ہوتی ہیں۔"
+          },
+          {
+            "en": "Since there are no vaccines or medical ways to prevent these diseases, here are a few useful suggestions for protecting oneself from these diseases: Wear clothes that will keep you fully covered; Use net coverings; Live in hygienic surroundings; Ensure that there is no stagnant water, whether clean or dirty, in your locality, not even in uncovered buckets, pots, cans or other things; Apply good quality mosquito repellent lotion or and any one of the natural repellent products; Take extra precaution from dawn to dusk; Seek medical help as soon as possible.",
+            "sd": "جيئن ته هنن بيمارين کان بچاءُ لاءِ ڪا به ويڪسين يا طبي طريقو موجود ناهي، تنهن ڪري پاڻ کي هنن بيمارين کان بچائڻ لاءِ هي ڪجه مفيد صلاحون آهن: اهڙا ڪپڙا پايو جيڪي اوهان کي مڪمل طور تي ڍڪي ڇڏين؛ جالي وارا ڍڪ استعمال ڪريو؛ صاف سٿري ماحول ۾ رھو؛ پڪ ڪريو ته اوهان جي علائقي ۾ ڪٿي به بيٺل پاڻي نه هجي، صاف هجي يا گندو، اڻڍڪيل بالٽين، ديڳين، دٻن يا ٻين شين ۾ به نه؛ سٺي معيار وارو مڇرن کان بچاءُ وارو لوشن يا ڪو قدرتي بچاءُ وارو پراڊڪٽ لڳايو؛ صبح کان شام تائين وڌيڪ احتياط ڪريو؛ جيترو جلد ٿي سگھي طبي مدد وٺو.",
+            "ur": "چونکہ ان بیماریوں سے بچاؤ کے لیے کوئی ویکسین یا طبی طریقہ موجود نہیں ہے، اس لیے اپنے آپ کو ان بیماریوں سے بچانے کے لیے یہ چند مفید مشورے ہیں: ایسے کپڑے پہنیں جو آپ کو مکمل طور پر ڈھانپ لیں؛ جالی والے ڈھانپنے استعمال کریں؛ صاف ستھرے ماحول میں رہیں؛ یقین کریں کہ آپ کے علاقے میں کہیں بھی کھڑا پانی نہ ہو، چاہے صاف ہو یا گندا، ڈھکن کے بغیر بالٹیوں، برتنوں، ڈبوں یا دیگر چیزوں میں بھی نہیں؛ اچھی معیار کا مچھر بھگانے والا لوشن یا کوئی قدرتی بھگانے والی چیز لگائیں؛ صبح سے شام تک اضافی احتیاط کریں؛ جلد از جلد طبی مدد حاصل کریں۔"
+          },
+          {
+            "en": "All these diseases, that is, malaria, dengue and chikungunya affect a person's health. They affect the quality of one's work because it takes some time to recover from the weakness caused by them. Since they are all preventable and curable, it is important that we take all possible steps to protect ourselves and our family from these diseases. Moreover, we should seek immediate medical help if we observe symptoms of these diseases because the earlier they are treated the quicker is the recovery.",
+            "sd": "هي سڀ بيماريون، يعني مليريا، ڊينگي ۽ چڪن گنيا، ماڻهوءَ جي صحت تي اثر ڪن ٿيون. اهي ماڻهوءَ جي ڪم جي معيار تي به اثر ڪن ٿيون، ڇاڪاڻ ته انهن جي ڪري ٿيندڙ ڪمزوري مان صحتياب ٿيڻ ۾ ڪجه وقت لڳي ٿو. جيئن ته هي سڀئي بيماريون روڪڻ ۽ علاج ڪرڻ جي قابل آهن، تنهن ڪري اهو ضروري آهي ته اسان پاڻ کي ۽ پنهنجي خاندان کي هنن بيمارين کان بچائڻ لاءِ هر ممڪن قدم کڻون. ان کان علاوه، جيڪڏهن اسان کي هنن بيمارين جون علامتون نظر اچن ته اسان کي فوري طور تي طبي مدد وٺڻ گھرجي، ڇاڪاڻ ته جيترو جلد انهن جو علاج ٿيندو، اوترو ئي جلد صحتيابي ٿيندي.",
+            "ur": "یہ سب بیماریاں، یعنی ملیریا، ڈینگی اور چکن گنیا، انسان کی صحت کو متاثر کرتی ہیں۔ یہ کام کے معیار کو بھی متاثر کرتی ہیں، کیونکہ ان کی وجہ سے ہونے والی کمزوری سے صحت یاب ہونے میں کچھ وقت لگتا ہے۔ چونکہ یہ سب بیماریاں روکی جا سکتی ہیں اور ان کا علاج ہو سکتا ہے، اس لیے یہ ضروری ہے کہ ہم اپنے آپ کو اور اپنے خاندان کو ان بیماریوں سے بچانے کے لیے ہر ممکن قدم اٹھائیں۔ اس کے علاوہ، اگر ہمیں ان بیماریوں کی علامات نظر آئیں تو ہمیں فوراً طبی مدد لینی چاہیے، کیونکہ جتنی جلدی ان کا علاج ہوگا، اتنی ہی جلدی صحت یابی ہوگی۔"
+          }
+        ],
+        "section": "5.1",
+        "unit": 5,
+        "unitTitle": "Healthy Life Style"
+      },
+      {
+        "bookPages": "131-136",
+        "lesson": "The Role of Women in Pakistan's Creation and Development",
+        "paragraphs": [
+          {
+            "en": "Sana was sitting silently on the last bench of her classroom. Aliya was sitting next to her, and noticed a confused expression on her face. She asked, \"Sana, what are you worried about?\"",
+            "sd": "ثنا پنهنجي ڪلاس جي آخري بينچ تي خاموش ويٺي هئي. عاليه هن جي ڀرسان ويٺي هئي ۽ هن جي منهن تي پريشاني ڏٺي. هن پڇيو، \"ثنا، تون ڪهڙي ڳالھ کان پريشان آهين؟\"",
+            "ur": "ثنا اپنی کلاس کی آخری بینچ پر خاموش بیٹھی تھی۔ عالیہ اس کے برابر بیٹھی تھی اور اس نے اس کے چہرے پر پریشانی دیکھی۔ اس نے پوچھا، \"ثنا، تم کس بات سے پریشان ہو؟\""
+          },
+          {
+            "en": "\"Aliya, I don't have a computer! How will I gather the information for our social studies assignment, 'Important Women of Pakistan'?\" Sana replied.",
+            "sd": "\"عاليه، مون وٽ ڪمپيوٽر ناهي! مان پنهنجي سماجي اڀياس واري ڪم، 'پاڪستان جون اهم عورتون'، لاءِ معلومات ڪيئن گڏ ڪنديس؟\" ثنا جواب ڏنو.",
+            "ur": "\"عالیہ، میرے پاس کمپیوٹر نہیں ہے! میں اپنے سماجی علوم کے کام، 'پاکستان کی اہم خواتین'، کے لیے معلومات کیسے جمع کروں گی؟\" ثنا نے جواب دیا۔"
+          },
+          {
+            "en": "\"Don't worry! All of us will sit together during the recess and divide the task amongst ourselves. You can bring the information from the school library.\"",
+            "sd": "\"پريشان نه ٿي! اسين سڀئي موڪل دوران گڏجي ويھنداسين ۽ ڪم پاڻ ۾ ونڊينداسين. تون اسڪول جي لائبريري مان معلومات آڻي سگھين ٿي.\"",
+            "ur": "\"فکر نہ کرو! ہم سب وقفے کے دوران اکٹھے بیٹھیں گے اور کام آپس میں بانٹ لیں گے۔ تم اسکول کی لائبریری سے معلومات لا سکتی ہو۔\""
+          },
+          {
+            "en": "\"Yes! I can do that!\" Sana nodded. Aliya smiled.",
+            "sd": "\"ها! مان اهو ڪري سگھان ٿي!\" ثنا ڪنڌ لوڏيو. عاليه مسڪرائي.",
+            "ur": "\"ہاں! میں یہ کر سکتی ہوں!\" ثنا نے سر ہلایا۔ عالیہ مسکرائی۔"
+          },
+          {
+            "en": "During the recess, the members of Sana's group took their lunch boxes and sat under the tall, shady, neem tree, which was their favourite spot. The group leader, Aliya, started off like an expert planner.",
+            "sd": "موڪل دوران ثنا جي گروپ جي ميمبرن پنهنجا لنچ باڪس کنيا ۽ ڊگھي، ڇانو واري نيم جي وڻ هيٺ ويٺا، جيڪا هنن جي پسنديدي جڳھ هئي. گروپ جي اڳواڻ عاليه هڪ تجربيڪار منصوبا ساز وانگر ڳالھ شروع ڪئي.",
+            "ur": "وقفے کے دوران ثنا کے گروپ کے ارکان نے اپنے لنچ باکس اٹھائے اور لمبے، سایہ دار نیم کے درخت کے نیچے بیٹھ گئے، جو ان کی پسندیدہ جگہ تھی۔ گروپ کی رہنما عالیہ نے ایک ماہر منصوبہ ساز کی طرح بات شروع کی۔"
+          },
+          {
+            "en": "\"Do you remember our science teacher taught us a problem-solving tool, called IDEAL?\"",
+            "sd": "\"ڇا ياد اٿو ته اسان جي سائنس واري استاد اسان کي مسئلا حل ڪرڻ جو هڪ اوزار سيکاريو هو، جنهن کي آئيڊيل چيو ويندو آهي؟\"",
+            "ur": "\"کیا تمہیں یاد ہے کہ ہمارے سائنس کے استاد نے ہمیں مسئلے حل کرنے کا ایک آلہ سکھایا تھا، جسے آئیڈیل کہا جاتا ہے؟\""
+          },
+          {
+            "en": "Everyone replied, \"Oh yes, we do. But it is used for science.\"",
+            "sd": "سڀني چيو، \"ها، اسان کي ياد آهي. پر اهو سائنس لاءِ استعمال ٿيندو آهي.\"",
+            "ur": "سب نے جواب دیا، \"اوہ ہاں، ہمیں یاد ہے۔ لیکن یہ سائنس کے لیے استعمال ہوتا ہے۔\""
+          },
+          {
+            "en": "Sameer said, \"No, it's a tool for solving all kinds of problems and for planning too.\"",
+            "sd": "سمير چيو، \"نه، اهو هر قسم جي مسئلن کي حل ڪرڻ ۽ منصوبابندي ڪرڻ جو اوزار آهي.\"",
+            "ur": "سمیر نے کہا، \"نہیں، یہ ہر قسم کے مسئلے حل کرنے اور منصوبہ بندی کرنے کا آلہ ہے۔\""
+          },
+          {
+            "en": "Ahmad explained, \"First of all, we identify what the problem is. Then, we define what exactly we want to do to solve the problem. Next, we try and find out as much as we can about how to solve it. After that, we take the best possible action to try and solve it. Finally, we look back to see whether the problem has been solved or not.\"",
+            "sd": "احمد سمجھايو، \"سڀ کان پهريائين، اسين سڃاڻون ٿا ته مسئلو ڪهڙو آهي. پوءِ، اسين طئي ڪريون ٿا ته مسئلو حل ڪرڻ لاءِ اسان کي بلڪل ڇا ڪرڻو آهي. ان کان پوءِ، اسين جيترو ٿي سگھي، ان بابت ڄاڻ حاصل ڪرڻ جي ڪوشش ڪريون ٿا ته ان کي ڪيئن حل ڪجي. ان کان پوءِ، اسين ان کي حل ڪرڻ لاءِ بهترين ممڪن قدم کڻون ٿا. آخر ۾، اسين پوئتي ڏسون ٿا ته مسئلو حل ٿيو آهي يا نه.\"",
+            "ur": "احمد نے سمجھایا، \"سب سے پہلے، ہم پہچانتے ہیں کہ مسئلہ کیا ہے۔ پھر، ہم طے کرتے ہیں کہ مسئلہ حل کرنے کے لیے ہمیں بالکل کیا کرنا ہے۔ اس کے بعد، ہم جتنا ہو سکے، اس بارے میں معلومات حاصل کرنے کی کوشش کرتے ہیں کہ اسے کیسے حل کیا جائے۔ اس کے بعد، ہم اسے حل کرنے کے لیے بہترین ممکنہ قدم اٹھاتے ہیں۔ آخر میں، ہم پیچھے مڑ کر دیکھتے ہیں کہ مسئلہ حل ہوا ہے یا نہیں۔\""
+          },
+          {
+            "en": "\"So,\" said Hania, \"Our problem is doing the assignment for which we need to find information from different sources.\"",
+            "sd": "\"تنهنڪري،\" هانيه چيو، \"اسان جو مسئلو اهو ڪم ڪرڻ آهي، جنهن لاءِ اسان کي مختلف ذريعن مان معلومات ڳولھڻي آهي.\"",
+            "ur": "\"تو،\" ہانیہ نے کہا، \"ہمارا مسئلہ یہ کام کرنا ہے، جس کے لیے ہمیں مختلف ذرائع سے معلومات تلاش کرنی ہیں۔\""
+          },
+          {
+            "en": "\"Exactly,\" said Aliya. \"We also need to decide who will do what and then prepare and give our presentation.\"",
+            "sd": "\"بلڪل صحيح،\" عاليه چيو. \"اسان کي اهو به طئي ڪرڻو آهي ته ڪير ڇا ڪندو ۽ پوءِ پنهنجي پيشڪش تيار ڪري پيش ڪرڻي آهي.\"",
+            "ur": "\"بالکل ٹھیک،\" عالیہ نے کہا۔ \"ہمیں یہ بھی طے کرنا ہے کہ کون کیا کرے گا اور پھر اپنی پیشکش تیار کر کے پیش کرنی ہے۔\""
+          },
+          {
+            "en": "Next, Aliya told everyone to brainstorm and make a list of the women that they would like to work on. Everyone took out a sheet of paper and wrote many names. The list was very long. Finally, after a lot of discussion, they agreed on six names.",
+            "sd": "ان کان پوءِ، عاليه سڀني کي چيو ته دماغي طوفان ڪري انهن عورتن جي لسٽ ٺاھين، جن تي اهي ڪم ڪرڻ چاھين ٿيون. سڀني ڪاغذ جو هڪ ورق ڪڍيو ۽ گھڻا نالا لکيا. لسٽ تمام ڊگھي هئي. آخرڪار، گھڻي بحث کان پوءِ، اهي ڇھه نالن تي متفق ٿيا.",
+            "ur": "اس کے بعد، عالیہ نے سب سے کہا کہ ذہنی طوفان کر کے ان خواتین کی فہرست بنائیں، جن پر وہ کام کرنا چاہیں۔ سب نے کاغذ کا ایک ورق نکالا اور بہت سے نام لکھے۔ فہرست بہت لمبی تھی۔ آخرکار، بہت بحث کے بعد، وہ چھ ناموں پر متفق ہو گئے۔"
+          },
+          {
+            "en": "Sana said, \"I will bring information on Fatima Jinnah from the library books.\"",
+            "sd": "ثنا چيو، \"مان لائبريري جي ڪتابن مان فاطمه جناح بابت معلومات آڻينديس.\"",
+            "ur": "ثنا نے کہا، \"میں لائبریری کی کتابوں سے فاطمہ جناح کے بارے میں معلومات لاؤں گی۔\""
+          },
+          {
+            "en": "Sameer said, \"My elder brother, Waqar bhai, has a laptop so I can bring information from the internet.\"",
+            "sd": "سمير چيو، \"منهنجو وڏو ڀاءُ وقار وٽ ليپ ٽاپ آهي، تنهنڪري مان انٽرنيٽ تان معلومات آڻي سگھان ٿو.\"",
+            "ur": "سمیر نے کہا، \"میرے بڑے بھائی، وقار بھائی، کے پاس لیپ ٹاپ ہے اس لیے میں انٹرنیٹ سے معلومات لا سکتا ہوں۔\""
+          },
+          {
+            "en": "Aliya suddenly realized that Razia was sitting quietly and had not shared her opinions with the group. So she asked, \"Razia what about you, which source can you access?\"",
+            "sd": "عاليه کي اوچتو احساس ٿيو ته راضيه خاموش ويٺي هئي ۽ هن گروپ سان پنهنجا خيال ونڊيا نه هئا. تنهنڪري هن پڇيو، \"راضيه، تون ڪهڙو ذريعو استعمال ڪري سگھين ٿي؟\"",
+            "ur": "عالیہ کو اچانک احساس ہوا کہ راضیہ خاموش بیٹھی تھی اور اس نے گروپ کے ساتھ اپنی رائے نہیں بتائی تھی۔ اس لیے اس نے پوچھا، \"راضیہ، تم کس ذریعے تک رسائی حاصل کر سکتی ہو؟\""
+          },
+          {
+            "en": "Razia replied shyly, \"My father sells newspapers. I will ask him to bring old and new newspapers for this assignment.\"",
+            "sd": "راضيه شرمائيندي جواب ڏنو، \"منهنجو پيءُ اخبارون وڪڻندو آهي. مان هن کي چونديس ته هن ڪم لاءِ پراڻا ۽ نوان اخبارون آڻي.\"",
+            "ur": "راضیہ نے شرماتے ہوئے جواب دیا، \"میرے والد اخبارات بیچتے ہیں۔ میں ان سے کہوں گی کہ اس کام کے لیے پرانے اور نئے اخبارات لے آئیں۔\""
+          },
+          {
+            "en": "\"That would be great!\" everyone exclaimed simultaneously.",
+            "sd": "\"اهو ته زبردست ٿيندو!\" سڀني هڪ ئي وقت چيو.",
+            "ur": "\"یہ تو بہت اچھا ہوگا!\" سب نے ایک ساتھ کہا۔"
+          },
+          {
+            "en": "\"I will use my uncle's smart phone to gather the required information,\" said Ahmad.",
+            "sd": "\"مان گھربل معلومات گڏ ڪرڻ لاءِ پنهنجي چاچي جو سمارٽ فون استعمال ڪندس،\" احمد چيو.",
+            "ur": "\"میں مطلوبہ معلومات جمع کرنے کے لیے اپنے چچا کا اسمارٹ فون استعمال کروں گا،\" احمد نے کہا۔"
+          },
+          {
+            "en": "\"What is a smart phone? How will you search information on a phone?\" asked Sana.",
+            "sd": "\"سمارٽ فون ڇا آهي؟ تون فون تي معلومات ڪيئن ڳولھيندين؟\" ثنا پڇيو.",
+            "ur": "\"اسمارٹ فون کیا ہے؟ تم فون پر معلومات کیسے تلاش کرو گے؟\" ثنا نے پوچھا۔"
+          },
+          {
+            "en": "\"It's a mobile phone that has a touch screen instead of a keyboard for performing different tasks and we can use internet on it also,\" explained Ahmad, with actions.",
+            "sd": "\"اهو هڪ موبائل فون آهي، جنهن ۾ ڪي بورڊ جي بدران ٽچ اسڪرين هوندي آهي، جنهن سان مختلف ڪم ڪري سگھجن ٿا ۽ اسين ان تي انٽرنيٽ به استعمال ڪري سگھون ٿا،\" احمد اشارن سان سمجھايو.",
+            "ur": "\"یہ ایک موبائل فون ہے، جس میں کی بورڈ کی بجائے ٹچ اسکرین ہوتی ہے، جس سے مختلف کام کیے جا سکتے ہیں اور ہم اس پر انٹرنیٹ بھی استعمال کر سکتے ہیں،\" احمد نے اشاروں کے ساتھ سمجھایا۔"
+          },
+          {
+            "en": "Aliya informed that her mother had a big collection of magazines – she would use them for this assignment.",
+            "sd": "عاليه ٻڌايو ته هن جي ماءُ وٽ رسالن جو وڏو مجموعو آهي، جيڪي هن ڪم لاءِ استعمال ٿيندا.",
+            "ur": "عالیہ نے بتایا کہ اس کی والدہ کے پاس رسالوں کا بڑا مجموعہ ہے – وہ اس کام کے لیے انہیں استعمال کرے گی۔"
+          },
+          {
+            "en": "Hania said that she would get information from some journals and books.",
+            "sd": "هانيه چيو ته ڪجه جرنلن ۽ ڪتابن مان معلومات حاصل ڪندي.",
+            "ur": "ہانیہ نے کہا کہ وہ کچھ جرائد اور کتابوں سے معلومات حاصل کرے گی۔"
+          },
+          {
+            "en": "Finally, they divided the list of the famous women amongst themselves and agreed to meet again with the information on the following Monday.",
+            "sd": "آخرڪار، اهي مشھور عورتن جي لسٽ پاڻ ۾ ونڊي ويا ۽ ايندڙ سومر تي معلومات سان گڏ وري ملڻ تي متفق ٿيا.",
+            "ur": "آخرکار، انہوں نے مشہور خواتین کی فہرست آپس میں بانٹ لی اور اگلے پیر کو معلومات کے ساتھ دوبارہ ملنے پر متفق ہو گئے۔"
+          },
+          {
+            "en": "In the next meeting, they shared their material and rehearsed their presentations",
+            "sd": "ايندڙ ملاقات ۾، اهي پنهنجو مواد هڪ ٻئي سان ونڊيو ۽ پنهنجين پيشڪشن جي مشق ڪئي.",
+            "ur": "اگلی ملاقات میں، انہوں نے اپنا مواد ایک دوسرے کے ساتھ بانٹا اور اپنی پیشکشوں کی مشق کی۔"
+          },
+          {
+            "en": "On the project day, they gave marvellous presentations becaus the group members had done their jobs very well.",
+            "sd": "منصوبي واري ڏينهن، انهن شاندار پيشڪشون ڏنيون، ڇاڪاڻ ته گروپ جي ميمبرن پنهنجو ڪم تمام سٺي نموني ڪيو هو.",
+            "ur": "منصوبے کے دن، انہوں نے شاندار پیشکشیں دیں، کیونکہ گروپ کے ارکان نے اپنا کام بہت اچھی طرح کیا تھا۔"
+          },
+          {
+            "en": "Below is the information that they had gathered through the various media sources.",
+            "sd": "هيٺ اها معلومات ڏنل آهي، جيڪا انهن مختلف ذريعن وسيلي گڏ ڪئي هئي.",
+            "ur": "نیچے وہ معلومات دی گئی ہیں، جو انہوں نے مختلف ذرائع سے جمع کی تھیں۔"
+          },
+          {
+            "en": "Mohtarma Fatima Jinnah (1893-1969)",
+            "sd": "محترمه فاطمه جناح (1893-1969)",
+            "ur": "محترمہ فاطمہ جناح (1893-1969)"
+          },
+          {
+            "en": "She was Quaid-e-Azam Mohammad Ali Jinnah's younger sister. She helped him in the struggle for the establishment of Pakistan. She left dentistry to live with her brother and support him. Her support continued for about 28 years, including the last nineteen, tiring years of his life.Through her, the Muslim women of the sub-continent were able to interview Mohammad Ali Jinnah and seek his guidance. The grateful nation gave her the title of Madr-e-Millat which means 'Mother of the Nation'.",
+            "sd": "قائداعظم محمد علي جناح جي ننڍي ڀيڻ هئي. پاڪستان جي قيام جي جدوجھد ۾ هن پنهنجي ڀاءُ جي مدد ڪئي. هن ڏندن جي ڊاڪٽري ڇڏي ڏني ته جيئن پنهنجي ڀاءُ سان گڏ رھي ۽ هن جي مدد ڪري. هن جي مدد لڳ ڀڳ 28 سالن تائين جاري رھي، جنهن ۾ هن جي زندگي جا آخري اوڻويه ٿڪائيندڙ سال به شامل هئا. هن جي وسيلي برصغير جون مسلمان عورتون محمد علي جناح سان ملاقات ڪري هن کان رھنمائي حاصل ڪري سگھيون. شڪرگذار قوم هن کي مادر ملت جو لقب ڏنو، جنهن جو مطلب آهي 'قوم جي ماءُ'.",
+            "ur": "وہ قائداعظم محمد علی جناح کی چھوٹی بہن تھیں۔ انہوں نے پاکستان کے قیام کی جدوجہد میں اپنے بھائی کی مدد کی۔ انہوں نے دندان سازی چھوڑ دی تاکہ اپنے بھائی کے ساتھ رہیں اور اس کی مدد کریں۔ ان کی مدد تقریباً 28 سال تک جاری رہی، جن میں ان کی زندگی کے آخری انیس تھکا دینے والے سال بھی شامل تھے۔ ان کے ذریعے برصغیر کی مسلمان خواتین محمد علی جناح سے ملاقات کر کے ان سے رہنمائی حاصل کر سکیں۔ شکرگزار قوم نے انہیں مادر ملت کا خطاب دیا، جس کا مطلب ہے 'قوم کی ماں'۔"
+          },
+          {
+            "en": "Resource used for gathering information: Library Books Presenter: Sana",
+            "sd": "معلومات گڏ ڪرڻ لاءِ استعمال ٿيل ذريعو: لائبريري جا ڪتاب. پيش ڪندڙ: ثنا.",
+            "ur": "معلومات جمع کرنے کے لیے استعمال شدہ ذریعہ: لائبریری کی کتابیں۔ پیش کرنے والی: ثنا۔"
+          },
+          {
+            "en": "Begum Ra'ana Liaquat Ali Khan (1905-1990)",
+            "sd": "بيگم رعنا لياقت علي خان (1905-1990)",
+            "ur": "بیگم رعنا لیاقت علی خان (1905-1990)"
+          },
+          {
+            "en": "She worked as an honorary secretary and typist to her husband, Liaquat Ali Khan, because at that time the Muslim League could not afford the salary of a secretary. She arranged meetings of the Muslim League women with the wife and daughter of the Viceroy so that they could explain to them the issues and problems related to Muslim women. She also organized the Muslim voluntary service and, later, the women's National Guards, consisting of three battalions, with 2400 girls, in which, she herself held the rank of a Brigadier. She is also the founder of the All Pakistan Women Association (APWA).",
+            "sd": "پنهنجي مڙس لياقت علي خان جي اعزازي سيڪريٽري ۽ ٽائيپسٽ طور ڪم ڪندي هئي، ڇاڪاڻ ته ان وقت مسلم ليگ سيڪريٽري جي پگھار برداشت نه ڪري سگھندي هئي. هن مسلم ليگ جي عورتن جون وائسراءِ جي زال ۽ ڌي سان ملاقاتون ڪرايون، ته جيئن اهي انهن کي مسلمان عورتن سان لاڳاپيل مسئلا ۽ مشڪلاتون سمجھائي سگھن. هن مسلم رضاڪار خدمت کي به منظم ڪيو ۽ بعد ۾ عورتن جي نيشنل گارڊز ٺاھيا، جن ۾ ٽي بٽالين ۽ 2400 ڇوڪريون هيون ۽ جنهن ۾ هن پاڻ برگيڊيئر جو درجو رکيو. آل پاڪستان وومين ايسوسيئيشن (اپوا) جي باني به آهي.",
+            "ur": "وہ اپنے شوہر لیاقت علی خان کی اعزازی سیکرٹری اور ٹائپسٹ کے طور پر کام کرتی تھیں، کیونکہ اس وقت مسلم لیگ سیکرٹری کی تنخواہ برداشت نہیں کر سکتی تھی۔ انہوں نے مسلم لیگ کی خواتین کی وائسرائے کی بیوی اور بیٹی سے ملاقاتیں کرائیں، تاکہ وہ انہیں مسلمان خواتین سے متعلق مسائل اور مشکلات سمجھا سکیں۔ انہوں نے مسلم رضاکار خدمت کو بھی منظم کیا اور بعد میں خواتین کے نیشنل گارڈز بنائے، جن میں تین بٹالین اور 2400 لڑکیاں تھیں اور جس میں انہوں نے خود بریگیڈیئر کا عہدہ رکھا۔ وہ آل پاکستان ویمن ایسوسی ایشن (اپوا) کی بانی بھی ہیں۔"
+          },
+          {
+            "en": "Resource used for gathering information: Internet (laptop) Presenter: Sameer",
+            "sd": "معلومات گڏ ڪرڻ لاءِ استعمال ٿيل ذريعو: انٽرنيٽ (ليپ ٽاپ). پيش ڪندڙ: سمير.",
+            "ur": "معلومات جمع کرنے کے لیے استعمال شدہ ذریعہ: انٹرنیٹ (لیپ ٹاپ)۔ پیش کرنے والا: سمیر۔"
+          },
+          {
+            "en": "Begum Jahan Ara Shahnawaz (1896-1979)",
+            "sd": "بيگم جھان آرا شاھنواز (1896-1979)",
+            "ur": "بیگم جہاں آرا شاہنواز (1896-1979)"
+          },
+          {
+            "en": "She represented the Muslim women at the three Round Table Conferences held in London. She was the first woman to make a speech in London 's Guild Hall. She also travelled widely and explained to the people of other countries, why the Muslims in India wanted a separate state.",
+            "sd": "هن لنڊن ۾ ٿيندڙ ٽن گول ميز ڪانفرنسن ۾ مسلمان عورتن جي نمائندگي ڪئي. لنڊن جي گلڊ هال ۾ تقرير ڪرڻ واري پهرين عورت هئي. هن وڏي پيماني تي سفر به ڪيو ۽ ٻين ملڪن جي ماڻهن کي سمجھايو ته هندوستان ۾ مسلمان الڳ رياست ڇو چاھين ٿا.",
+            "ur": "انہوں نے لندن میں ہونے والی تین گول میز کانفرنسوں میں مسلمان خواتین کی نمائندگی کی۔ وہ لندن کے گلڈ ہال میں تقریر کرنے والی پہلی خاتون تھیں۔ انہوں نے بڑے پیمانے پر سفر بھی کیا اور دوسرے ممالک کے لوگوں کو سمجھایا کہ ہندوستان میں مسلمان الگ ریاست کیوں چاہتے تھے۔"
+          },
+          {
+            "en": "Resource used for gathering information: Newspapers Presenter: Razia",
+            "sd": "معلومات گڏ ڪرڻ لاءِ استعمال ٿيل ذريعو: اخبارون. پيش ڪندڙ: راضيه.",
+            "ur": "معلومات جمع کرنے کے لیے استعمال شدہ ذریعہ: اخبارات۔ پیش کرنے والی: راضیہ۔"
+          },
+          {
+            "en": "Professor Anita Ghulam Ali (1934-2014)",
+            "sd": "پروفيسر انيتا غلام علي (1934-2014)",
+            "ur": "پروفیسر انیتا غلام علی (1934-2014)"
+          },
+          {
+            "en": "She was a popular newscaster of the English news and a well known teacher of her time. She also wrote several articles and books. She served twice as the Sindh Minister of Education, in addition to being the Minister of Culture, Science and Technology and Youth and Sports. Professor Anita Ghulam Ali was also the founding manager of the Sindh Education Foundation, Government of Sindh. Under her leadership, the Foundation played a remarkable role in promoting quality education and in bringing many out of school children to school, particularly in the rural areas of Sindh.",
+            "sd": "انگريزي خبرن جي مشھور نيوز ڪاسٽر ۽ پنهنجي وقت جي معروف استاد هئي. هن ڪيترائي مضمون ۽ ڪتاب به لکيا. هن ٻه ڀيرا سنڌ جي تعليم واري وزير طور خدمت ڪئي، ان کان علاوه ثقافت، سائنس ۽ ٽيڪنالاجي ۽ نوجوانن ۽ راندين واري وزير به رھي. پروفيسر انيتا غلام علي سنڌ ايجوڪيشن فائونڊيشن، حڪومت سنڌ جي باني مئنيجر به هئي. هن جي اڳواڻي هيٺ، فائونڊيشن معياري تعليم کي فروغ ڏيڻ ۽ اسڪول نه ويندڙ ڪيترن ئي ٻارن کي اسڪول آڻڻ ۾، خاص طور تي سنڌ جي ڳوٺاڻن علائقن ۾، نمايان ڪردار ادا ڪيو.",
+            "ur": "وہ انگریزی خبروں کی مقبول نیوز کاسٹر اور اپنے وقت کی معروف استاد تھیں۔ انہوں نے کئی مضامین اور کتابیں بھی لکھیں۔ انہوں نے دو بار سندھ کی وزیر تعلیم کے طور پر خدمات انجام دیں، اس کے علاوہ ثقافت، سائنس و ٹیکنالوجی اور نوجوانوں و کھیلوں کی وزیر بھی رہیں۔ پروفیسر انیتا غلام علی سندھ ایجوکیشن فاؤنڈیشن، حکومت سندھ کی بانی منیجر بھی تھیں۔ ان کی قیادت میں، فاؤنڈیشن نے معیاری تعلیم کو فروغ دینے اور اسکول نہ جانے والے بہت سے بچوں کو اسکول لانے میں، خاص طور پر سندھ کے دیہی علاقوں میں، نمایاں کردار ادا کیا۔"
+          },
+          {
+            "en": "The government of Pakistan recognised her tremendous contribution to the cause of education. She was awarded the Pride of Performance and Sitara-e-Imtiaz for her life time contribution to Education.",
+            "sd": "پاڪستان جي حڪومت هن جي تعليم جي مقصد لاءِ زبردست خدمتن کي مڃيو. هن کي تعليم لاءِ زندگي ڀر جي خدمتن تي پرائيڊ آف پرفارمنس ۽ ستاره امتياز سان نوازيو ويو.",
+            "ur": "حکومت پاکستان نے تعلیم کے مقصد کے لیے ان کی زبردست خدمات کو تسلیم کیا۔ انہیں تعلیم کے لیے زندگی بھر کی خدمات پر پرائیڈ آف پرفارمنس اور ستارہ امتیاز سے نوازا گیا۔"
+          },
+          {
+            "en": "Resource used for gathering information: Internet Smart Phone Presenter: Ahmad",
+            "sd": "معلومات گڏ ڪرڻ لاءِ استعمال ٿيل ذريعو: انٽرنيٽ سمارٽ فون. پيش ڪندڙ: احمد.",
+            "ur": "معلومات جمع کرنے کے لیے استعمال شدہ ذریعہ: انٹرنیٹ اسمارٹ فون۔ پیش کرنے والا: احمد۔"
+          },
+          {
+            "en": "Bilquis Bano Edhi (1947)",
+            "sd": "بلقيس بانو ايڌي (1947)",
+            "ur": "بلقیس بانو ایدھی (1947)"
+          },
+          {
+            "en": "She is a philanthropist who is also trained as a professional nurse. She is the widow of Abdul Sattar Edhi, who was a renowned social worker. She now heads the Edhi foundation which provides nationwide support and care to the public, such as shelter homes and ambulance services.",
+            "sd": "هڪ فلاحي ڪارڪن آهي، جيڪا پيشيور نرس طور پڻ تربيت يافته آهي. عبدالستار ايڌي جي بيواھه آهي، جيڪو هڪ ناميارو سماجي ڪارڪن هو. هاڻي ايڌي فائونڊيشن جي سربراھه آهي، جيڪا عوام کي ملڪ گير مدد ۽ سار سنڀال فراهم ڪري ٿي، جھڙوڪ پناه گاه ۽ ايمبولينس جون خدمتون.",
+            "ur": "وہ ایک مخیر شخصیت ہیں، جو پیشہ ور نرس کے طور پر بھی تربیت یافتہ ہیں۔ وہ عبدالستار ایدھی کی بیوہ ہیں، جو ایک معروف سماجی کارکن تھے۔ وہ اب ایدھی فاؤنڈیشن کی سربراہ ہیں، جو عوام کو ملک گیر مدد اور دیکھ بھال فراہم کرتی ہے، جیسے پناہ گاہیں اور ایمبولینس خدمات۔"
+          },
+          {
+            "en": "She has received Hilal-e-Imtiaz from the Government of Pakistan in recognition of her tireless efforts for the betterment of the society. She has also been named the mother of Pakistan.",
+            "sd": "هن کي پاڪستان جي حڪومت کان سماج جي بهتري لاءِ هن جي انتھڪ ڪوششن جي اعتراف ۾ هلال امتياز مليو آهي. هن کي پاڪستان جي ماءُ به سڏيو ويو آهي.",
+            "ur": "انہیں پاکستان کی حکومت سے معاشرے کی بہتری کے لیے ان کی انتھک کوششوں کے اعتراف میں ہلال امتیاز ملا ہے۔ انہیں پاکستان کی ماں بھی کہا گیا ہے۔"
+          },
+          {
+            "en": "Resource used for gathering information: Magazines, journals and books Presenter: Aliya",
+            "sd": "معلومات گڏ ڪرڻ لاءِ استعمال ٿيل ذريعو: رسالا، جرنل ۽ ڪتاب. پيش ڪندڙ: عاليه.",
+            "ur": "معلومات جمع کرنے کے لیے استعمال شدہ ذریعہ: رسالے، جرائد اور کتابیں۔ پیش کرنے والی: عالیہ۔"
+          },
+          {
+            "en": "After the presentations the teacher appreciated the effort the students had put in and invited everyone to comment on the presentations. Sadia stood up and commented that the information about these women had inspired her to dream big and to work for the nation. The teacher then asked a few students to share their future dreams with the class.",
+            "sd": "پيشڪشن کان پوءِ، استاد شاگردن جي ڪوشش جي تعريف ڪئي ۽ سڀني کي پيشڪشن تي تبصرو ڪرڻ جي دعوت ڏني. سعديه اٿي بيٺي ۽ تبصرو ڪيو ته انهن عورتن بابت معلومات هن کي وڏا خواب ڏسڻ ۽ قوم لاءِ ڪم ڪرڻ جي حوصلا افزائي ڪئي آهي. استاد پوءِ ڪجه شاگردن کي چيو ته پنهنجا مستقبل جا خواب ڪلاس سان ونڊين.",
+            "ur": "پیشکشوں کے بعد، استاد نے طلبہ کی کوشش کو سراہا اور سب کو پیشکشوں پر تبصرہ کرنے کی دعوت دی۔ سعدیہ کھڑی ہوئی اور تبصرہ کیا کہ ان خواتین کے بارے میں معلومات نے اسے بڑے خواب دیکھنے اور قوم کے لیے کام کرنے کی ترغیب دی ہے۔ استاد نے پھر چند طلبہ سے کہا کہ اپنے مستقبل کے خواب کلاس کے ساتھ بانٹیں۔"
+          },
+          {
+            "en": "Maryam shared that she wanted to be an educationist like Anita Ghulam Ali, and her grandmother, who was also an educationist. She expressed her wish to work for the improvement of female education. Next, Hira told her class fellows that she wanted to be a philanthropist like Bilquis Edhi and wanted to protect girls from all troubles. Daniyal added that, like Abdul Sattar Edhi, he would like to help all human beings in trouble.",
+            "sd": "مريم ٻڌايو ته انيتا غلام علي وانگر ۽ پنهنجي ڏاڏي وانگر هڪ تعليم دان ٿيڻ چاھي ٿي، جيڪا پڻ هڪ تعليم دان هئي. هن عورتن جي تعليم جي بهتري لاءِ ڪم ڪرڻ جي خواهش ظاھر ڪئي. ان کان پوءِ، حيرا پنهنجي ڪلاس جي ساٿين کي ٻڌايو ته بلقيس بانو ايڌي وانگر هڪ فلاحي ڪارڪن ٿيڻ چاھي ٿي ۽ ڇوڪرين کي سڀني مشڪلاتن کان بچائڻ چاھي ٿي. دانيال وڌيڪ چيو ته عبدالستار ايڌي وانگر، هو مصيبت ۾ ڦاٿل سڀني انسانن جي مدد ڪرڻ چاھي ٿو.",
+            "ur": "مریم نے بتایا کہ وہ انیتا غلام علی کی طرح اور اپنی دادی کی طرح ایک ماہر تعلیم بننا چاہتی ہے، جو خود بھی ایک ماہر تعلیم تھیں۔ اس نے خواتین کی تعلیم کی بہتری کے لیے کام کرنے کی خواہش ظاہر کی۔ اس کے بعد، حرا نے اپنے کلاس کے ساتھیوں کو بتایا کہ وہ بلقیس بانو ایدھی کی طرح ایک مخیر شخصیت بننا چاہتی ہے اور لڑکیوں کو تمام مشکلات سے بچانا چاہتی ہے۔ دانیال نے مزید کہا کہ عبدالستار ایدھی کی طرح، وہ مصیبت میں پھنسے ہوئے تمام انسانوں کی مدد کرنا چاہتا ہے۔"
+          },
+          {
+            "en": "The teacher was very happy to see the enthusiasm of the future leaders of the country.",
+            "sd": "استاد ملڪ جي مستقبل جي اڳواڻن جو جوش ڏسي تمام خوش ٿيو.",
+            "ur": "استاد ملک کے مستقبل کے رہنماؤں کا جوش دیکھ کر بہت خوش ہوا۔"
+          }
+        ],
+        "section": "6.1",
+        "unit": 6,
+        "unitTitle": "Gender Equity"
+      },
+      {
+        "bookPages": "159-161",
+        "lesson": "The Secret of Success",
+        "paragraphs": [
+          {
+            "en": "A long time ago there lived a king who was in search of the secret of success. He thought if he could find out the answers to three questions, he would discover the secret and never fail. He thought and thought for many days but the answers evaded him. So, he called all his ministers and asked them these three questions: 1. What is the most important time to start something? 2. What is the most important work to do? 3. Who is the most important person?",
+            "sd": "گھڻو وقت اڳ هڪ بادشاه رھندو هو، جيڪو ڪاميابي جو راز ڳولڻ جي ڳولا ۾ هو. هن سوچيو ته جيڪڏهن هو ٽن سوالن جا جواب ڳولي سگھي ته هو راز دريافت ڪري وٺندو ۽ ڪڏهن به ناڪام نه ٿيندو. هن ڪيترن ئي ڏينهن تائين سوچيو پر جواب هن کان پري رھيا. تنهنڪري هن پنهنجن سڀني وزيرن کي گھرايو ۽ هنن کان هي ٽي سوال پڇيا: 1. ڪنهن ڪم شروع ڪرڻ لاءِ سڀ کان اهم وقت ڪهڙو آهي؟ 2. ڪرڻ لاءِ سڀ کان اهم ڪم ڪهڙو آهي؟ 3. سڀ کان اهم ماڻهو ڪير آهي؟",
+            "ur": "بہت عرصہ پہلے ایک بادشاہ رہتا تھا جو کامیابی کا راز تلاش کر رہا تھا۔ اس نے سوچا کہ اگر وہ تین سوالوں کے جواب معلوم کر لے تو وہ راز دریافت کر لے گا اور کبھی ناکام نہیں ہوگا۔ اس نے کئی دن تک سوچا مگر جواب اس سے دور رہے۔ اس لیے اس نے اپنے تمام وزیروں کو بلایا اور ان سے یہ تین سوال پوچھے: 1. کسی کام کو شروع کرنے کا سب سے اہم وقت کون سا ہے؟ 2. کرنے کا سب سے اہم کام کون سا ہے؟ 3. سب سے اہم شخص کون ہے؟"
+          },
+          {
+            "en": "But, none of them could come up with a satisfactory answer.",
+            "sd": "پر هنن مان ڪنهن به تسلي بخش جواب نه ڏنو.",
+            "ur": "لیکن ان میں سے کوئی بھی تسلی بخش جواب نہ دے سکا۔"
+          },
+          {
+            "en": "Next, he called all his courtiers and asked them the same questions. They discussed and debated for long but none of their answers satisfied the king.",
+            "sd": "ان کان پوءِ هن پنهنجن سڀني دربارين کي گھرايو ۽ هنن کان اهي ئي سوال پڇيا. هنن گھڻي دير تائين بحث مباحثو ڪيو پر هنن جي جوابن مان ڪنهن به بادشاه کي مطمئن نه ڪيو.",
+            "ur": "اس کے بعد اس نے اپنے تمام درباریوں کو بلایا اور ان سے وہی سوال پوچھے۔ انہوں نے دیر تک بحث و مباحثہ کیا مگر ان کے جوابوں میں سے کسی نے بھی بادشاہ کو مطمئن نہ کیا۔"
+          },
+          {
+            "en": "He then called the wise and learned men of his country to his court. He discussed the problem with them for many days. They too were unable to satisfy the king, because they could not see eye to eye with each other, and ended up arguing amongst themselves. They came up with many different answers but none of the answers provided any meaningful solution.",
+            "sd": "ان کان پوءِ هن پنهنجي ملڪ جي عقلمند ۽ عالم ماڻهن کي پنهنجي دربار ۾ گھرايو. هن ڪيترن ئي ڏينهن تائين هنن سان ان مسئلي تي ڳالھ ٻولھ ڪئي. هو به بادشاه کي مطمئن نه ڪري سگھيا، ڇاڪاڻ ته هو هڪ ٻئي سان متفق نه ٿي سگھيا ۽ پاڻ ۾ وڙھڻ لڳا. هنن ڪيترائي مختلف جواب ڏنا پر انهن مان ڪنهن به جواب ڪو صحيح حل نه ڏنو.",
+            "ur": "پھر اس نے اپنے ملک کے عقلمند اور عالم لوگوں کو اپنے دربار میں بلایا۔ اس نے کئی دن تک ان سے اس مسئلے پر بات چیت کی۔ وہ بھی بادشاہ کو مطمئن نہ کر سکے، کیونکہ وہ ایک دوسرے سے متفق نہ ہو سکے اور آپس میں جھگڑنے لگے۔ انہوں نے بہت سے مختلف جواب دیے مگر ان میں سے کسی جواب نے بھی کوئی معنی خیز حل پیش نہ کیا۔"
+          },
+          {
+            "en": "The king then asked his ministers to announce that whoever answers these questions, would get a reward of 5000 gold coins. Many people came and talked to the king but their answers did not satisfy the king.",
+            "sd": "بادشاه پوءِ پنهنجن وزيرن کي حڪم ڏنو ته اعلان ڪن ته جيڪو به انهن سوالن جا جواب ڏيندو، ان کي 5000 سونا سڪا انعام طور ملندا. گھڻا ماڻهو آيا ۽ بادشاه سان ڳالھايو پر هنن جا جواب بادشاه کي مطمئن نه ڪري سگھيا.",
+            "ur": "پھر بادشاہ نے اپنے وزیروں سے کہا کہ اعلان کر دیں کہ جو بھی ان سوالوں کے جواب دے گا اسے پانچ ہزار سونے کے سکے انعام میں ملیں گے۔ بہت سے لوگ آئے اور بادشاہ سے بات کی مگر ان کے جواب بادشاہ کو مطمئن نہ کر سکے۔"
+          },
+          {
+            "en": "At some distance from the capital, there was a jungle. The king had heard that in the jungle there lived an old wise man who was considered a saint. He lived all alone. His fame had spread far and wide as someone who would solve everyone's problem. The king decided to consult the wise old saint. But the problem was he only mixed with the poor and needy. He did not mix with the rich and wealthy. Since the saint did not like meeting wealthy people, the king started thinking as how to approach him.",
+            "sd": "دارالحکومت کان ڪجه مفاصلي تي هڪ جھنگ هو. بادشاه ٻڌو هو ته ان جھنگ ۾ هڪ پوڙهو عقلمند ماڻهو رھندو هو، جنهن کي بزرگ سمجھيو ويندو هو. هو بلڪل اڪيلو رھندو هو. هن جي شهرت پري پري تائين ڦھلجي وئي هئي، ڇاڪاڻ ته هو هر ڪنهن جو مسئلو حل ڪندو هو. بادشاه فيصلو ڪيو ته هو ان پوڙهي بزرگ سان صلاح ڪندو. پر مسئلو هي هو ته هو رڳو غريب ۽ محتاج ماڻهن سان ملندو هو. هو امير ۽ دولت مند ماڻهن سان نه ملندو هو. جيئن ته بزرگ کي دولت مند ماڻهن سان ملڻ پسند نه هو، تنهنڪري بادشاه سوچڻ لڳو ته هو هن وٽ ڪيئن پھچي.",
+            "ur": "دارالحکومت سے کچھ فاصلے پر ایک جنگل تھا۔ بادشاہ نے سنا تھا کہ اس جنگل میں ایک بوڑھا عقلمند آدمی رہتا تھا جسے بزرگ سمجھا جاتا تھا۔ وہ بالکل اکیلا رہتا تھا۔ اس کی شہرت دور دور تک پھیل چکی تھی کیونکہ وہ ہر کسی کا مسئلہ حل کرتا تھا۔ بادشاہ نے فیصلہ کیا کہ وہ اس بوڑھے بزرگ سے مشورہ کرے گا۔ لیکن مسئلہ یہ تھا کہ وہ صرف غریب اور محتاج لوگوں سے ملتا تھا۔ وہ امیر اور دولت مند لوگوں سے نہیں ملتا تھا۔ چونکہ بزرگ کو دولت مند لوگوں سے ملنا پسند نہیں تھا، اس لیے بادشاہ سوچنے لگا کہ وہ اس تک کیسے پہنچے۔"
+          },
+          {
+            "en": "The king pondered and thought deeply about a way to meet the saint. Soon he came up with a plan. He dressed himself in rags and set out to see the wise old saint. Since he wanted to appear poor and destitute, he asked his servants to remain behind. Alone, he headed straight for the saint's hut.",
+            "sd": "بادشاه بزرگ سان ملڻ جو رستو ڳولڻ لاءِ گھڻو سوچيو ۽ غور ڪيو. جلد ئي هن کي هڪ رٿ ملي وئي. هن ڦاٽل ڪپڙا پاتا ۽ ان پوڙهي بزرگ کي ڏسڻ لاءِ نڪري پيو. جيئن ته هو غريب ۽ بيوس نظر اچڻ چاهيندو هو، تنهنڪري هن پنهنجن نوڪرن کي چيو ته پوئتي رھن. هو اڪيلو ئي سڌو بزرگ جي جھوپڙي ڏانهن هليو ويو.",
+            "ur": "بادشاہ نے بزرگ سے ملنے کا طریقہ سوچنے کے لیے بہت غور و فکر کیا۔ جلد ہی اسے ایک ترکیب سوجھی۔ اس نے پھٹے پرانے کپڑے پہنے اور اس بوڑھے بزرگ سے ملنے کے لیے نکل پڑا۔ چونکہ وہ غریب اور بے بس نظر آنا چاہتا تھا، اس لیے اس نے اپنے نوکروں سے کہا کہ پیچھے رہیں۔ وہ اکیلا ہی سیدھا بزرگ کی جھونپڑی کی طرف چل پڑا۔"
+          },
+          {
+            "en": "When the king arrived at the hut, the saint was digging the ground in front of his hut. He was old and weak, and as he worked he was breathing hard. He tired quickly and stopped frequently to rest. The king approached him and addressed him directly. \"Sir, I have come a long way to ask you the answers to three important questions.\" The king continued, \"My first question is: What is the most important time to start some work? My second question is what is the most important work to do? And third, who is the most important person?\" Humbly the king continued, \"Would you kindly help me by telling the answers to these questions?\"",
+            "sd": "جڏهن بادشاه جھوپڙي وٽ پھتو ته بزرگ پنهنجي جھوپڙي جي اڳيان زمين کوٽي رھيو هو. هو پوڙهو ۽ ڪمزور هو، ۽ جڏهن هو ڪم ڪندو هو ته هو زور سان ساھ کڻندو هو. هو جلد ئي ٿڪجي ويندو هو ۽ آرام ڪرڻ لاءِ بار بار بيھندو هو. بادشاه هن وٽ آيو ۽ سڌو سنئون هن سان ڳالھايو. “جناب، مان ٽن اهم سوالن جا جواب پڇڻ لاءِ گھڻو پري کان آيو آهيان.” بادشاه اڳتي چيو، “منهنجو پهريون سوال هي آهي: ڪنهن ڪم شروع ڪرڻ جو سڀ کان اهم وقت ڪهڙو آهي؟ منهنجو ٻيو سوال هي آهي ته ڪرڻ لاءِ سڀ کان اهم ڪم ڪهڙو آهي؟ ۽ ٽيون، سڀ کان اهم ماڻهو ڪير آهي؟” بادشاه عاجزي سان اڳتي چيو، “ڇا توهان مهرباني ڪري مون کي انهن سوالن جا جواب ٻڌائي مدد ڪندا؟”",
+            "ur": "جب بادشاہ جھونپڑی پر پہنچا تو بزرگ اپنی جھونپڑی کے سامنے زمین کھود رہا تھا۔ وہ بوڑھا اور کمزور تھا، اور جب وہ کام کرتا تھا تو زور سے سانس لیتا تھا۔ وہ جلدی تھک جاتا تھا اور آرام کے لیے بار بار رکتا تھا۔ بادشاہ اس کے پاس آیا اور اس سے براہ راست بات کی۔ “جناب، میں تین اہم سوالوں کے جواب پوچھنے کے لیے بہت دور سے آیا ہوں۔” بادشاہ نے آگے کہا، “میرا پہلا سوال یہ ہے: کسی کام کو شروع کرنے کا سب سے اہم وقت کون سا ہے؟ میرا دوسرا سوال یہ ہے کہ کرنے کا سب سے اہم کام کون سا ہے؟ اور تیسرا، سب سے اہم شخص کون ہے؟” بادشاہ نے عاجزی سے آگے کہا، “کیا آپ مہربانی کر کے مجھے ان سوالوں کے جواب بتا کر مدد کریں گے؟”"
+          },
+          {
+            "en": "The saint paid no attention to the king and continued digging. The king waited for a few moments and then said, \"Sir, you look tired. Let me dig the ground for you.\"",
+            "sd": "بزرگ بادشاه ڏانهن ڪو به ڌيان نه ڏنو ۽ زمين کوٽيندو رھيو. بادشاه ڪجه لمحا ترسيو ۽ پوءِ چيائين، “جناب، توهان ٿڪل ٿا لڳو. مون کي توهان لاءِ زمين کوٽڻ ڏيو.”",
+            "ur": "بزرگ نے بادشاہ کی طرف کوئی دھیان نہ دیا اور کھودتا رہا۔ بادشاہ نے کچھ لمحے انتظار کیا اور پھر کہا، “جناب، آپ تھکے ہوئے لگتے ہیں۔ مجھے آپ کے لیے زمین کھودنے دیں۔”"
+          },
+          {
+            "en": "The saint thanked him and gave him the spade, and the king started digging. After some time the king repeated the questions and requested the answers. But all that the saint said to the king was, \"Let me dig now.\" The king did not give him the spade, and kept digging. He remained calm and did not lose patience. The hope that he would find the answers to his questions, kept him motivated and determined. When evening fell and the light began to fade, he stopped digging and turned to the saint. He said, \"Could you please let me have the answers to my questions now?\"",
+            "sd": "بزرگ هن جو شڪريو ادا ڪيو ۽ هن کي ڪوڏر ڏني، ۽ بادشاه زمين کوٽڻ لڳو. ڪجه وقت کان پوءِ بادشاه سوال ورجايا ۽ جوابن جي درخواست ڪئي. پر بزرگ بادشاه کي رڳو ايترو چيو، “مون کي هاڻي کوٽڻ ڏيو.” بادشاه هن کي ڪوڏر نه ڏني ۽ کوٽيندو رھيو. هو پرسڪون رھيو ۽ پنهنجو صبر نه وڃايائين. هن کي جيڪا اميد هئي ته هو پنهنجن سوالن جا جواب ڳولي وٺندو، اها هن کي همٿ ۽ ارادي سان ڀريل رکندي هئي. جڏهن شام ٿي ۽ روشني گھٽجڻ لڳي ته هن کوٽڻ بند ڪيو ۽ بزرگ ڏانهن منهن موڙيائين. هن چيو، “ڇا توهان مهرباني ڪري مون کي هاڻي منهنجن سوالن جا جواب ڏيندا؟”",
+            "ur": "بزرگ نے اس کا شکریہ ادا کیا اور اسے کدال دے دی، اور بادشاہ کھودنے لگا۔ کچھ دیر بعد بادشاہ نے سوال دہرائے اور جوابوں کی درخواست کی۔ لیکن بزرگ نے بادشاہ سے صرف اتنا کہا، “مجھے اب کھودنے دو۔” بادشاہ نے اسے کدال نہ دی اور کھودتا رہا۔ وہ پرسکون رہا اور اس نے صبر نہ کھویا۔ اسے جو امید تھی کہ وہ اپنے سوالوں کے جواب پا لے گا، اس نے اسے ہمت اور ارادے سے بھرے رکھا۔ جب شام ہوئی اور روشنی مدھم پڑنے لگی تو اس نے کھودنا بند کر دیا اور بزرگ کی طرف منہ موڑا۔ اس نے کہا، “کیا آپ مہربانی کر کے مجھے اب میرے سوالوں کے جواب دے دیں گے؟”"
+          },
+          {
+            "en": "The saint remained silent and pointed to one side. The king glanced in that direction and saw that a bearded man with a dagger in his hand was running towards them. When he reached them, he fell down and fainted. The king straightaway picked up the bearded stranger and carried him into the hut and laid him down on the ground. The king noticed that the man was injured, so he immediately took steps to stop the bleeding and, with the help of the saint, he bandaged his wounds. The bearded man fell into a deep restful sleep.",
+            "sd": "بزرگ خاموش رھيو ۽ هڪ پاسي اشارو ڪيائين. بادشاه ان پاسي ڏٺو ۽ ڏٺائين ته هڪ ڏاڙهي وارو ماڻهو هٿ ۾ خنجر کڻي هنن ڏانهن ڊوڙي رھيو هو. جڏهن هو هنن وٽ پھتو ته هو ڪري پيو ۽ بيھوش ٿي ويو. بادشاه فوراً ان ڏاڙهي واري اجنبي کي کنيو ۽ هن کي جھوپڙي ۾ کڻي ويو ۽ هن کي زمين تي ويھاريو. بادشاه ڏٺو ته اهو ماڻهو زخمي هو، تنهنڪري هن فوراً رت وهڻ کي روڪڻ لاءِ قدم کنيا ۽ بزرگ جي مدد سان هن جا زخم ٻڌا. ڏاڙهي وارو ماڻهو گھري آرام واري ننڊ ۾ سمھي پيو.",
+            "ur": "بزرگ خاموش رہا اور ایک طرف اشارہ کیا۔ بادشاہ نے اس طرف دیکھا اور دیکھا کہ ایک داڑھی والا آدمی ہاتھ میں خنجر لیے ان کی طرف دوڑ رہا تھا۔ جب وہ ان کے پاس پہنچا تو وہ گر پڑا اور بے ہوش ہو گیا۔ بادشاہ نے فوراً اس داڑھی والے اجنبی کو اٹھایا اور اسے جھونپڑی میں لے گیا اور اسے زمین پر لٹا دیا۔ بادشاہ نے دیکھا کہ وہ آدمی زخمی تھا، اس لیے اس نے فوراً خون بہنا روکنے کے لیے قدم اٹھائے اور بزرگ کی مدد سے اس کے زخموں پر پٹی باندھ دی۔ داڑھی والا آدمی گہری آرام دہ نیند سو گیا۔"
+          },
+          {
+            "en": "By now, night had fallen and it was very dark. The king was too tired to return home. The saint invited him to stay the night and the king accepted the saint's hospitality. The saint prepared some simple food and provided the king with a bedding of hay to sleep on.",
+            "sd": "ايتري دير ۾ رات ٿي وئي هئي ۽ تمام گھڻو اونداه هو. بادشاه گھر موٽڻ لاءِ تمام گھڻو ٿڪل هو. بزرگ هن کي رات رھڻ جي دعوت ڏني ۽ بادشاه بزرگ جي مهمان نوازي قبول ڪئي. بزرگ ڪجه سادو کاڌو تيار ڪيو ۽ بادشاه کي سمهڻ لاءِ گاھ جو بسترو ڏنو.",
+            "ur": "اب تک رات ہو چکی تھی اور بہت اندھیرا تھا۔ بادشاہ گھر لوٹنے کے لیے بہت تھکا ہوا تھا۔ بزرگ نے اسے رات رکنے کی دعوت دی اور بادشاہ نے بزرگ کی مہمان نوازی قبول کر لی۔ بزرگ نے کچھ سادہ کھانا تیار کیا اور بادشاہ کو سونے کے لیے گھاس کا بستر دیا۔"
+          },
+          {
+            "en": "At break of day, the king awoke. He found that the bearded man too was awake. The king said, \"How do you feel now?\" The bearded man replied, \"I am better now thanks to Your Majesty. Forgive me, I came to kill you because you had had my brother killed. I became your bitter enemy out of grief. I was hiding and waiting for your return. As you did not return, I came out of my hiding place, that's when your servants saw me. They immediately recognized me. They wounded me seriously but I escaped. Had you not cared for me I would have died. I thank you. Now, count on me as one of your most faithful servants.\" Saying this he saluted the king and left.",
+            "sd": "ڏينهن ڦٽڻ تي بادشاه جاڳيو. هن ڏٺو ته ڏاڙهي وارو ماڻهو به جاڳي پيو هو. بادشاه چيو، “هاڻي توهان ڪيئن محسوس ٿا ڪريو؟” ڏاڙهي واري ماڻهو جواب ڏنو، “مان هاڻي بهتر آهيان، توهان جي مهرباني، بادشاه سلامت. مون کي معاف ڪريو، مان توهان کي مارڻ لاءِ آيو هوس، ڇاڪاڻ ته توهان منهنجي ڀاء کي قتل ڪرايو هو. مان ڏک جي ڪري توهان جو سخت دشمن بڻجي ويس. مان لڪي توهان جي موٽڻ جو انتظار ڪري رھيو هوس. جيئن ته توهان موٽيا نه، مان پنهنجي لڪڻ واري جاءِ تان ٻاهر نڪتس، تڏهن توهان جي نوڪرن مون کي ڏٺو. هنن مون کي فوراً سڃاتو. هنن مون کي سخت زخمي ڪيو پر مان بچي نڪتس. جيڪڏهن توهان منهنجي پرواه نه ڪئي ها ته مان مري وڃان ها. مان توهان جو شڪرگذار آهيان. هاڻي مون کي پنهنجن سڀ کان وفادار نوڪرن مان هڪ سمجھو.” اهو چئي هن بادشاه کي سلام ڪيو ۽ هليو ويو.",
+            "ur": "صبح ہوتے ہی بادشاہ جاگ گیا۔ اس نے دیکھا کہ داڑھی والا آدمی بھی جاگ چکا تھا۔ بادشاہ نے کہا، “اب آپ کیسا محسوس کرتے ہیں؟” داڑھی والے آدمی نے جواب دیا، “میں اب بہتر ہوں، آپ کی مہربانی، بادشاہ سلامت۔ مجھے معاف کریں، میں آپ کو مارنے آیا تھا کیونکہ آپ نے میرے بھائی کو قتل کروایا تھا۔ میں غم کے باعث آپ کا سخت دشمن بن گیا تھا۔ میں چھپ کر آپ کے لوٹنے کا انتظار کر رہا تھا۔ چونکہ آپ لوٹے نہیں، میں اپنی چھپنے کی جگہ سے باہر نکلا، تبھی آپ کے نوکروں نے مجھے دیکھا۔ انہوں نے مجھے فوراً پہچان لیا۔ انہوں نے مجھے سخت زخمی کر دیا مگر میں بچ نکلا۔ اگر آپ نے میری پروا نہ کی ہوتی تو میں مر جاتا۔ میں آپ کا شکر گزار ہوں۔ اب مجھے اپنے سب سے وفادار نوکروں میں سے ایک سمجھیں۔” یہ کہہ کر اس نے بادشاہ کو سلام کیا اور چلا گیا۔"
+          },
+          {
+            "en": "When the bearded man had departed, the king again asked the saint for the answers to his questions. The saint replied. \"Your questions have already been answered. First, the most important time was when you wanted to help me. The most important work was the digging of the ground. And I was the most important person for you. Had it not been so, you would have returned and been killed.\"",
+            "sd": "جڏهن ڏاڙهي وارو ماڻهو هليو ويو ته بادشاه وري بزرگ کان پنهنجن سوالن جا جواب پڇيا. بزرگ جواب ڏنو. “توهان جا سوال اڳ ۾ ئي جواب ڏنا ويا آهن. پهريون، سڀ کان اهم وقت اهو هو جڏهن توهان منهنجي مدد ڪرڻ چاهيو ٿي. سڀ کان اهم ڪم زمين کوٽڻ هو. ۽ مان توهان لاءِ سڀ کان اهم ماڻهو هوس. جيڪڏهن ائين نه هجي ها ته توهان موٽي وڃو ها ۽ قتل ٿي وڃو ها.”",
+            "ur": "جب داڑھی والا آدمی چلا گیا تو بادشاہ نے دوبارہ بزرگ سے اپنے سوالوں کے جواب پوچھے۔ بزرگ نے جواب دیا۔ “آپ کے سوالوں کے جواب پہلے ہی دیے جا چکے ہیں۔ پہلے، سب سے اہم وقت وہ تھا جب آپ میری مدد کرنا چاہتے تھے۔ سب سے اہم کام زمین کھودنا تھا۔ اور میں آپ کے لیے سب سے اہم شخص تھا۔ اگر ایسا نہ ہوتا تو آپ لوٹ جاتے اور مارے جاتے۔”"
+          },
+          {
+            "en": "The saint continued, \"The second time, the most important man was the bearded man. The most important work was dressing his wound. Had it not been so you would not have won a faithful servant. You are very fortunate.\"",
+            "sd": "بزرگ اڳتي چيو، “ٻيو ڀيرو، سڀ کان اهم ماڻهو ڏاڙهي وارو ماڻهو هو. سڀ کان اهم ڪم هن جي زخم تي پٽي ٻڌڻ هو. جيڪڏهن ائين نه هجي ها ته توهان کي وفادار نوڪر نه ملي ها. توهان تمام گھڻا خوش نصيب آهيو.”",
+            "ur": "بزرگ نے آگے کہا، “دوسری بار، سب سے اہم آدمی داڑھی والا آدمی تھا۔ سب سے اہم کام اس کے زخم پر پٹی باندھنا تھا۔ اگر ایسا نہ ہوتا تو آپ کو وفادار نوکر نہ ملتا۔ آپ بہت خوش نصیب ہیں۔”"
+          },
+          {
+            "en": "So, this is the moral of the lesson: The most important time for doing anything is the present. The most important work is what we are doing now. And the most important person is the one whom we are with at the moment.",
+            "sd": "تنهنڪري، هن سبق جو اخلاق هي آهي: ڪنهن به ڪم ڪرڻ لاءِ سڀ کان اهم وقت هاڻي جو وقت آهي. سڀ کان اهم ڪم اهو آهي جيڪو اسين هاڻي ڪري رھيا آهيون. ۽ سڀ کان اهم ماڻهو اهو آهي جنهن سان اسين هن وقت گڏ آهيون.",
+            "ur": "تو یہ اس سبق کا اخلاقی سبق ہے: کسی بھی کام کے لیے سب سے اہم وقت موجودہ وقت ہے۔ سب سے اہم کام وہ ہے جو ہم اب کر رہے ہیں۔ اور سب سے اہم شخص وہ ہے جس کے ساتھ ہم اس وقت ہیں۔"
+          }
+        ],
+        "section": "7.1",
+        "unit": 7,
+        "unitTitle": "Life Skills"
+      },
+      {
+        "bookPages": "178-182",
+        "lesson": "Ghazi's Diary",
+        "paragraphs": [
+          {
+            "en": "Ghazi loved writing about his feelings and experiences. He often wrote things in his diary whenever he got into the writing mood. The following are two pages from his diary.",
+            "sd": "غازي کي پنهنجن احساسن ۽ تجربن بابت لکڻ ڏاڍو وڻندو هو. جڏهن به لکڻ جو موڊ ٿيندو هو، هو پنهنجي ڊائري ۾ گھڻو ڪجهه لکندو هو. هيٺ ڏنل ٻه صفحا سندس ڊائري جا آهن.",
+            "ur": "غازی کو اپنے احساسات اور تجربوں کے بارے میں لکھنا بہت پسند تھا۔ جب بھی اس کا لکھنے کا موڈ ہوتا، وہ اپنی ڈائری میں بہت کچھ لکھتا تھا۔ درج ذیل دو صفحات اس کی ڈائری کے ہیں۔"
+          },
+          {
+            "en": "Wednesday, 10th February, 2015, 10:30 pm — Village life. Today, I am once again reminded of my simple village and its loving and caring people. I am living in Karachi now, in a beautiful house that has many modern facilities. It is located in a locality that has clean streets and big houses that have beautiful gardens, with a variety of plants and trees. But I am desperately missing my village; the simple, mud house that we lived in, the simple toys that gave us so much pleasure, and the simple, carefree people amongst whom we lived. I wish I could get into a time machine and go back sixty years, back to my life in the village.",
+            "sd": "اربع، 10 فيبروري 2015، رات 10:30 — ڳوٺ جي زندگي. اڄ مون کي وري پنهنجي سادي ڳوٺ ۽ اتان جي پياري ۽ خيال رکندڙ ماڻهن جي ياد اچي وئي آهي. مان هاڻي ڪراچي ۾ رھان ٿو، هڪ خوبصورت گھر ۾ جنهن ۾ جديد سهولتون گھڻيون آهن. اهو اهڙي علائقي ۾ آهي جتي صاف سٿرا رستا ۽ وڏا گھر آهن، جن ۾ سهڻا باغ آهن ۽ انهن ۾ ڪيترن ئي قسمن جا وڻ ۽ ٻوٽا آهن. پر مون کي پنهنجي ڳوٺ جي سخت ياد اچي رھي آهي؛ اهو سادو مٽيءَ جو گھر جنهن ۾ اسان رھندا هئاسين، اهي سادا رانديڪا جن مان اسان کي ڏاڍي خوشي ملندي هئي، ۽ اهي سادا، بي فڪر ماڻهو جن جي وچ ۾ اسان رھندا هئاسين. ڪاش مان وقت جي مشين ۾ ويھي سٺ سال پوئتي وڃي سگھان، پنهنجي ڳوٺ واري زندگي ڏانهن موٽي وڃان.",
+            "ur": "بدھ، 10 فروری 2015، رات 10:30 — گاؤں کی زندگی۔ آج مجھے ایک بار پھر اپنے سادہ گاؤں اور اس کے محبت کرنے والے اور خیال رکھنے والے لوگوں کی یاد آ گئی ہے۔ میں اب کراچی میں رہتا ہوں، ایک خوبصورت گھر میں جس میں بہت سی جدید سہولتیں ہیں۔ یہ ایسے علاقے میں واقع ہے جہاں صاف ستھری سڑکیں اور بڑے گھر ہیں، جن میں خوبصورت باغ ہیں اور ان میں کئی قسم کے پودے اور درخت ہیں۔ لیکن مجھے اپنے گاؤں کی سخت یاد آ رہی ہے؛ وہ سادہ مٹی کا گھر جس میں ہم رہتے تھے، وہ سادے کھلونے جن سے ہمیں بہت خوشی ملتی تھی، اور وہ سادے، بے فکر لوگ جن کے درمیان ہم رہتے تھے۔ کاش میں وقت کی مشین میں بیٹھ کر ساٹھ سال پیچھے جا سکتا، اپنی گاؤں والی زندگی کی طرف لوٹ جاتا۔"
+          },
+          {
+            "en": "The house that we lived in, had three rooms and a kitchen, all spread out in a yard that had no boundary wall, just some bushes separating our property from that of our neighbours. My grandparents and two of my unmarried aunts lived in one room, we, my parents and siblings, lived in another room, while my uncle and his family lived in the third room. We had a common kitchen, where the women of the family cooked for all of us.",
+            "sd": "جنهن گھر ۾ اسان رھندا هئاسين، ان ۾ ٽي ڪمرا ۽ هڪ باورچي خانو هو، جيڪي سڀ هڪ وڏي اڱڻ ۾ پکڙيل هئا، جنهن جي چوڌاري ڪا به ديوار نه هئي، رڳو ڪجهه جھنگلي ٻوٽا هئا جيڪي اسان جي ملڪيت کي پاڙيسرين جي ملڪيت کان ڌار ڪندا هئا. منهنجا ڏاڏا ڏاڏي ۽ منهنجون ٻه اڻڀريل چاچيون هڪ ڪمري ۾ رھنديون هيون، اسان، منهنجا ماءُ پيءُ ۽ ڀائر ڀينرون، ٻئي ڪمري ۾ رھندا هئاسين، جڏهن ته منهنجو چاچو ۽ سندس گھر وارا ٽئين ڪمري ۾ رھندا هئا. اسان جو هڪ گڏيل باورچي خانو هو، جتي گھر جون عورتون اسان سڀني لاءِ کاڌو پچائينديون هيون.",
+            "ur": "جس گھر میں ہم رہتے تھے، اس میں تین کمرے اور ایک باورچی خانہ تھا، جو سب ایک بڑے صحن میں پھیلے ہوئے تھے، جس کے گرد کوئی دیوار نہیں تھی، صرف کچھ جھاڑیاں تھیں جو ہماری جائیداد کو پڑوسیوں کی جائیداد سے الگ کرتی تھیں۔ میرے دادا دادی اور میری دو غیر شادی شدہ چچیاں ایک کمرے میں رہتی تھیں، ہم، میرے والدین اور بہن بھائی، دوسرے کمرے میں رہتے تھے، جب کہ میرے چچا اور ان کے گھر والے تیسرے کمرے میں رہتے تھے۔ ہمارا ایک مشترکہ باورچی خانہ تھا، جہاں گھر کی عورتیں ہم سب کے لیے کھانا پکاتی تھیں۔"
+          },
+          {
+            "en": "The house in which I now live is made of cement and painted in beautiful colours, with tiled floors; however, the houses in our village were all made of wood, straw and mud. We had no furniture, as such; we sat on the floor and slept on the floor by spreading some quilts that were kept on a wooden stand during the day. This was probably why very few people had knee problems; people of all ages comfortably sat on the floor, which exercised their knees.",
+            "sd": "جنهن گھر ۾ مان هاڻي رھان ٿو، اهو سيمينٽ جو ٺھيل آهي ۽ سهڻن رنگن سان رنگيل آهي، ۽ ان ۾ ٽائل وارا فرش آهن؛ پر اسان جي ڳوٺ جا گھر سڀ ڪاٺ، پرال ۽ مٽيءَ جا ٺھيل هئا. اسان وٽ ڪو به فرنيچر نه هو؛ اسان فرش تي ويھندا هئاسين ۽ فرش تي ئي سمھندا هئاسين، ڪجهه رليون وڇائي، جيڪي ڏينهن جو ڪاٺ جي اسٽينڊ تي رکيل هونديون هيون. شايد ان ڪري ئي ڳوٺ ۾ تمام گھٽ ماڻهن کي گوڏن جي تڪليف هوندي هئي؛ هر عمر جا ماڻهو آرام سان فرش تي ويھندا هئا، جنهن سان سندن گوڏا ورزش ڪندا هئا.",
+            "ur": "جس گھر میں میں اب رہتا ہوں، وہ سیمنٹ کا بنا ہوا ہے اور خوبصورت رنگوں سے رنگا ہوا ہے، اور اس میں ٹائل والے فرش ہیں؛ لیکن ہمارے گاؤں کے گھر سب لکڑی، پرال اور مٹی کے بنے ہوئے تھے۔ ہمارے پاس کوئی فرنیچر نہیں تھا؛ ہم فرش پر بیٹھتے تھے اور فرش پر ہی سوتے تھے، کچھ رضائیاں بچھا کر، جو دن کے وقت لکڑی کے اسٹینڈ پر رکھی ہوتی تھیں۔ شاید اسی لیے گاؤں میں بہت کم لوگوں کو گھٹنوں کی تکلیف ہوتی تھی؛ ہر عمر کے لوگ آرام سے فرش پر بیٹھتے تھے، جس سے ان کے گھٹنے ورزش کرتے تھے۔"
+          },
+          {
+            "en": "Our village did not have roads or streets; there were just narrow mud lanes, which became very slippery during the rainy season. Commuting from one place to another was not an issue; people did not need cars, buses or even motorbikes to go from one place to another in the village, they just walked. All this exercise kept them healthy and the absence of motor vehicles kept the environment pollution free.",
+            "sd": "اسان جي ڳوٺ ۾ نه رستا هئا نه گھٽيون؛ رڳو مٽيءَ جون تنگ گھٽيون هيون، جيڪي برسات جي مند ۾ ڏاڍيون ترڪڻيون ٿي وينديون هيون. هڪ هنڌ کان ٻئي هنڌ وڃڻ ڪو مسئلو نه هو؛ ماڻهن کي ڳوٺ ۾ هڪ هنڌ کان ٻئي هنڌ وڃڻ لاءِ ڪارن، بسن يا موٽر سائيڪلن جي به ضرورت نه هوندي هئي، هو رڳو پيادل هلندا هئا. اها سڄي ورزش کين صحتمند رکندي هئي ۽ موٽر گاڏين جي نه هجڻ ڪري ماحول آلودگي کان پاڪ رھندو هو.",
+            "ur": "ہمارے گاؤں میں سڑکیں یا گلیاں نہیں تھیں؛ صرف مٹی کی تنگ گلیاں تھیں، جو بارش کے موسم میں بہت پھسلن والی ہو جاتی تھیں۔ ایک جگہ سے دوسری جگہ جانا کوئی مسئلہ نہیں تھا؛ لوگوں کو گاؤں میں ایک جگہ سے دوسری جگہ جانے کے لیے کاروں، بسوں یا موٹر سائیکلوں کی بھی ضرورت نہیں ہوتی تھی، وہ صرف پیدل چلتے تھے۔ یہ ساری ورزش انہیں صحت مند رکھتی تھی اور موٹر گاڑیوں کی عدم موجودگی سے ماحول آلودگی سے پاک رہتا تھا۔"
+          },
+          {
+            "en": "Unlike the city, the village did not have big shops and supermarkets. There were just a few small shops selling goods that people needed for everyday living. One did not always need money or credit cards to buy things from these shops; one could buy things from these shops even if one did not have any money because the village shopkeepers knew everyone by name and were usually willing to give goods on credit.",
+            "sd": "شهر جي ابتڙ، ڳوٺ ۾ وڏا دڪان ۽ سپر مارڪيٽون نه هيون. رڳو ڪجهه ننڍا دڪان هئا، جيڪي روزاني زندگي لاءِ گھربل شيون وڪڻندا هئا. انهن دڪانن مان شيون خريدڻ لاءِ هميشه پئسن يا ڪريڊٽ ڪارڊن جي ضرورت نه هوندي هئي؛ ماڻهو انهن دڪانن مان شيون خريد ڪري سگھندا هئا، توڙي جو سندن وٽ ڪي به پئسا نه هجن، ڇو ته ڳوٺ جا دڪاندار سڀني کي نالي سان سڃاڻندا هئا ۽ عام طور تي شيون اڌاري ڏيڻ لاءِ تيار هوندا هئا.",
+            "ur": "شہر کے برعکس، گاؤں میں بڑی دکانیں اور سپر مارکیٹیں نہیں تھیں۔ صرف چند چھوٹی دکانیں تھیں، جو روزمرہ زندگی کے لیے درکار چیزیں بیچتی تھیں۔ ان دکانوں سے چیزیں خریدنے کے لیے ہمیشہ پیسوں یا کریڈٹ کارڈوں کی ضرورت نہیں ہوتی تھی؛ لوگ ان دکانوں سے چیزیں خرید سکتے تھے، چاہے ان کے پاس کوئی پیسے نہ ہوں، کیونکہ گاؤں کے دکاندار سب کو نام سے جانتے تھے اور عام طور پر چیزیں ادھار دینے کے لیے تیار ہوتے تھے۔"
+          },
+          {
+            "en": "The village Otaq, the place where men met in the evening, was where men spent their free time, shared news and gossips, laughed at shared jokes, talked about the weather, their crops and village issues, and enjoyed folk songs sung to the tune of the ghaghar and tamboora. The women had the village well which was the centre of all their activities. The village men and women shared their news and issues with people and enjoyed each other's company. They did not get their news from the television, learn about what was happening with people from the face book, get their entertainment from the You tube, and talk to people sitting at the next table through sms or email. All their activities centred on people in the flesh and blood, not people via devices.",
+            "sd": "ڳوٺ جي اوطاق، اها جاءِ جتي مرد شام جو گڏ ٿيندا هئا، اها جاءِ هئي جتي مرد پنهنجو واندو وقت گذاريندا هئا، خبرون ۽ ڳالھيون ونڊيندا هئا، گڏيل کل ڀوڳ تي کلندا هئا، موسم، پنهنجن فصلن ۽ ڳوٺ جي مسئلن بابت ڳالھائيندا هئا، ۽ گھگھر ۽ تمبوري جي ڌن تي ڳايل لوڪ گيت مان لطف اندوز ٿيندا هئا. عورتن وٽ ڳوٺ جو ڪوھه هو، جيڪو سندن سڀني سرگرمين جو مرڪز هو. ڳوٺ جا مرد ۽ عورتون پنهنجون خبرون ۽ مسئلا ماڻهن سان ونڊيندا هئا ۽ هڪ ٻئي جي سنگت مان لطف اندوز ٿيندا هئا. هو پنهنجون خبرون ٽيليويزن تان نه وٺندا هئا، ماڻهن سان ڇا ٿي رھيو آهي اهو فيس بڪ تان نه سکندا هئا، پنهنجي وندر يو ٽيوب تان نه وٺندا هئا، ۽ ڀر واري ميز تي ويٺل ماڻهن سان ايس ايم ايس يا اي ميل ذريعي نه ڳالھائيندا هئا. سندن سڀ سرگرميون اصل ماڻهن جي چوڌاري ڦرنديون هيون، اوزارن وسيلي ماڻهن جي نه.",
+            "ur": "گاؤں کی اوطاق، وہ جگہ جہاں مرد شام کو جمع ہوتے تھے، وہ جگہ تھی جہاں مرد اپنا خالی وقت گزارتے تھے، خبریں اور گپ شپ بانٹتے تھے، مشترکہ لطیفوں پر ہنستے تھے، موسم، اپنی فصلوں اور گاؤں کے مسائل پر بات کرتے تھے، اور گھگھر اور تمبورے کی دھن پر گائے جانے والے لوک گیتوں سے لطف اندوز ہوتے تھے۔ عورتوں کے پاس گاؤں کا کنواں تھا، جو ان کی تمام سرگرمیوں کا مرکز تھا۔ گاؤں کے مرد اور عورتیں اپنی خبریں اور مسائل لوگوں سے بانٹتے تھے اور ایک دوسرے کی صحبت سے لطف اندوز ہوتے تھے۔ وہ اپنی خبریں ٹیلی ویژن سے نہیں لیتے تھے، لوگوں کے ساتھ کیا ہو رہا ہے یہ فیس بک سے نہیں سیکھتے تھے، اپنی تفریح یو ٹیوب سے نہیں لیتے تھے، اور اگلی میز پر بیٹھے لوگوں سے ایس ایم ایس یا ای میل کے ذریعے بات نہیں کرتے تھے۔ ان کی تمام سرگرمیاں اصل لوگوں کے گرد گھومتی تھیں، آلات کے ذریعے لوگوں کے گرد نہیں۔"
+          },
+          {
+            "en": "Alas! Our luxurious life style has compromised our health. The availability of devices has distanced us from people. The access to technology has replaced the human touch. I wish for a time machine to take me back to my simple life, simple people, simple interests, and simple wants and needs.",
+            "sd": "افسوس! اسان جي شاندار طرز زندگي اسان جي صحت کي نقصان پھچايو آهي. اوزارن جي دستيابي اسان کي ماڻهن کان پري ڪري ڇڏيو آهي. ٽيڪنالاجي تائين رسائي انساني لمس جي جاءِ وٺي ڇڏي آهي. ڪاش ڪا وقت جي مشين مون کي پنهنجي سادي زندگي، سادن ماڻهن، سادن شوقن، ۽ سادن خواھشن ۽ ضرورتن ڏانهن موٽائي وٺي وڃي.",
+            "ur": "افسوس! ہماری پرتعیش طرز زندگی نے ہماری صحت کو نقصان پہنچایا ہے۔ آلات کی دستیابی نے ہمیں لوگوں سے دور کر دیا ہے۔ ٹیکنالوجی تک رسائی نے انسانی لمس کی جگہ لے لی ہے۔ کاش کوئی وقت کی مشین مجھے میری سادہ زندگی، سادہ لوگوں، سادہ دلچسپیوں، اور سادہ خواہشوں اور ضرورتوں کی طرف واپس لے جائے۔"
+          },
+          {
+            "en": "Friday, 4th August, 2017, 11:45 am — 'We Need to Store Rain Water'. Monsoons once again! Floods everywhere! The much needed rain is here. While water in an important need of life, too much of it can cause flooding and devastation. In Pakistan, floods create havoc when rivers over flow their banks during the monsoon season.",
+            "sd": "جمعو، 4 آگسٽ 2017، صبح 11:45 — 'اسان کي برسات جو پاڻي ذخيرو ڪرڻ گھرجي'. مون سون وري اچي وئي! هر هنڌ ٻوڏ! گھربل برسات اچي وئي آهي. پاڻي زندگي جي اهم ضرورت آهي، پر ان جي گھڻائي ٻوڏ ۽ تباهي آڻي سگھي ٿي. پاڪستان ۾، مون سون جي مند ۾ جڏهن نديون پنهنجن ڪنارن کان ٻاهر نڪري وھن ٿيون، تڏهن ٻوڏون تباهي مچائي ڇڏين ٿيون.",
+            "ur": "جمعہ، 4 اگست 2017، صبح 11:45 — 'ہمیں بارش کا پانی ذخیرہ کرنے کی ضرورت ہے'۔ مون سون ایک بار پھر! ہر جگہ سیلاب! بہت ضروری بارش آ گئی ہے۔ پانی زندگی کی اہم ضرورت ہے، لیکن اس کی زیادتی سیلاب اور تباہی لا سکتی ہے۔ پاکستان میں، مون سون کے موسم میں جب دریا اپنے کناروں سے باہر بہہ نکلتے ہیں، تو سیلاب تباہی مچا دیتے ہیں۔"
+          },
+          {
+            "en": "Rivers have always played a very important role in the life of human beings. They have served as trade routes from the earliest of times. Before the building of roads and railways, most trade was carried on by boats and ships along rivers. In addition to this, rivers have been important for growing food. This was the reason that most towns in ancient times were built near rivers.",
+            "sd": "ندين انساني زندگي ۾ هميشه تمام اهم ڪردار ادا ڪيو آهي. اهي شروعاتي زماني کان واپار جا رستا رھيون آهن. رستن ۽ ريلوي جي ٺھڻ کان اڳ، گھڻو واپار ٻيڙين ۽ جھازن ذريعي ندين جي ڪناري ڪيو ويندو هو. ان کان سواءِ، نديون کاڌو پوکڻ لاءِ به اهم رھيون آهن. اهو ئي سبب هو جو قديم زماني ۾ گھڻا شهر ندين جي ويجهو ٺاھيا ويندا هئا.",
+            "ur": "دریاؤں نے انسانی زندگی میں ہمیشہ بہت اہم کردار ادا کیا ہے۔ وہ ابتدائی زمانے سے تجارت کے راستے رہے ہیں۔ سڑکوں اور ریلوے کے بننے سے پہلے، زیادہ تر تجارت کشتیوں اور جہازوں کے ذریعے دریاؤں کے کنارے کی جاتی تھی۔ اس کے علاوہ، دریا خوراک اگانے کے لیے بھی اہم رہے ہیں۔ یہی وجہ تھی کہ قدیم زمانے میں زیادہ تر قصبے دریاؤں کے قریب بنائے جاتے تھے۔"
+          },
+          {
+            "en": "However, rivers flood during the rainy season and run dry or have very little water sometime after the rains. One way that people have found to capture and retain the rain water for later use is by building structures to hold the water and prevent it from flooding. This way, the retained water can be used throughout the year for growing food. One way in which water is stored is through barrages built on rivers.",
+            "sd": "پر، نديون برسات جي مند ۾ ٻوڏ آڻين ٿيون ۽ برسات کان ڪجهه وقت پوءِ سڪي وڃن ٿيون يا انهن ۾ تمام ٿورو پاڻي رھي ٿو. ماڻهن کي برسات جو پاڻي پڪڙڻ ۽ پوءِ جي استعمال لاءِ محفوظ رکڻ جو هڪ طريقو اهو مليو آهي ته پاڻي کي روڪڻ ۽ ٻوڏ کان بچائڻ لاءِ اڏاوتون ٺاھيون وڃن. هن طريقي سان، محفوظ ڪيل پاڻي سڄو سال کاڌو پوکڻ لاءِ استعمال ڪري سگھجي ٿو. پاڻي ذخيرو ڪرڻ جو هڪ طريقو ندين تي ٺھيل بئراج آهن.",
+            "ur": "تاہم، دریا بارش کے موسم میں سیلاب لاتے ہیں اور بارشوں کے کچھ عرصے بعد خشک ہو جاتے ہیں یا ان میں بہت کم پانی رہ جاتا ہے۔ لوگوں کو بارش کا پانی پکڑنے اور بعد میں استعمال کے لیے محفوظ رکھنے کا ایک طریقہ یہ ملا ہے کہ پانی کو روکنے اور سیلاب سے بچانے کے لیے ڈھانچے بنائے جائیں۔ اس طرح، محفوظ کیا گیا پانی سارا سال خوراک اگانے کے لیے استعمال کیا جا سکتا ہے۔ پانی ذخیرہ کرنے کا ایک طریقہ دریاؤں پر بنائے گئے بیراج ہیں۔"
+          },
+          {
+            "en": "A barrage is a kind of wall, which blocks the flow of water. It has gates, through which the water is allowed to pass in a limited quantity. Its aim is to control the flow of water in the flood season, store it, and release it for irrigation, through the canals, throughout the year.",
+            "sd": "بئراج هڪ قسم جي ديوار آهي، جيڪا پاڻي جي وھڪري کي روڪي ٿي. ان ۾ دروازا آهن، جن مان پاڻي کي محدود مقدار ۾ وهڻ جي اجازت ڏني وڃي ٿي. ان جو مقصد ٻوڏ جي مند ۾ پاڻي جي وھڪري تي ضابطو رکڻ، ان کي ذخيرو ڪرڻ، ۽ واهن ذريعي سڄو سال آبپاشي لاءِ ڇڏڻ آهي.",
+            "ur": "بیراج ایک قسم کی دیوار ہے، جو پانی کے بہاؤ کو روکتی ہے۔ اس میں دروازے ہیں، جن سے پانی کو محدود مقدار میں گزرنے کی اجازت دی جاتی ہے۔ اس کا مقصد سیلاب کے موسم میں پانی کے بہاؤ پر قابو رکھنا، اسے ذخیرہ کرنا، اور نہروں کے ذریعے سارا سال آبپاشی کے لیے چھوڑنا ہے۔"
+          },
+          {
+            "en": "The Guddu barrage, built on the river Indus, is one of the many barrages built in Pakistan. It is built at a place where the river is fourteen kilometres in width. It is designed to force the water, spread over fourteen kilometres, to pass through a narrow barrage, about one kilometre wide. The barrage is 1355 kilometres in length. It is made in such a way that a flood of about 1.2 million cusecs can pass through it.",
+            "sd": "گڊو بئراج، جيڪو سنڌو ندي تي ٺھيل آهي، پاڪستان ۾ ٺھيل ڪيترن ئي بئراجن مان هڪ آهي. اهو اهڙي هنڌ تي ٺھيل آهي جتي ندي چوڌھن ڪلوميٽر ويڪري آهي. اهو اهڙي طرح ٺاھيو ويو آهي جو چوڌھن ڪلوميٽرن ۾ پکڙيل پاڻي کي هڪ تنگ بئراج مان، جيڪو اٽڪل هڪ ڪلوميٽر ويڪرو آهي، وهڻ تي مجبور ڪري. بئراج جي ڊيگھه 1355 ڪلوميٽر آهي. اهو اهڙي طرح ٺاھيو ويو آهي جو اٽڪل 12 لک ڪيوسڪ جي ٻوڏ ان مان گذري سگھي ٿي.",
+            "ur": "گڈو بیراج، جو دریائے سندھ پر بنا ہوا ہے، پاکستان میں بنائے گئے کئی بیراجوں میں سے ایک ہے۔ یہ ایسی جگہ پر بنا ہے جہاں دریا چودہ کلومیٹر چوڑا ہے۔ یہ اس طرح بنایا گیا ہے کہ چودہ کلومیٹر میں پھیلے ہوئے پانی کو ایک تنگ بیراج سے، جو تقریباً ایک کلومیٹر چوڑا ہے، گزرنے پر مجبور کرے۔ بیراج کی لمبائی 1355 کلومیٹر ہے۔ یہ اس طرح بنایا گیا ہے کہ تقریباً 12 لاکھ کیوسک کا سیلاب اس سے گزر سکتا ہے۔"
+          },
+          {
+            "en": "The Guddu barrage has a system of three main canals. Two of these are on the right bank and one on the left. The Begari Sindh Feeder and the Desert Pat Feeder, are on the right bank. The third canal, the Ghotki Feeder is on the left bank. The three canals are amongst the largest feeder canals in the world. The barrage is meant to irrigate an area of 2.7 million acres. Most of this area lies in the Sukkur and Jacobabad districts of Sindh, and the rest in the Kalat division of the Baluchistan province.",
+            "sd": "گڊو بئراج ۾ ٽن مکيه واهن جو نظام آهي. انهن مان ٻه ساڄي ڪناري تي آهن ۽ هڪ کاٻي ڪناري تي. بيگاري سنڌ فيڊر ۽ ڊيزرٽ پٽ فيڊر، ساڄي ڪناري تي آهن. ٽيون واھه، گھوٽڪي فيڊر کاٻي ڪناري تي آهي. اهي ٽئي واھه دنيا جي وڏن ۾ وڏن فيڊر واهن مان آهن. بئراج جو مقصد 27 لک ايڪڙ ايراضي کي آبپاشي ڪرڻ آهي. هن ايراضي جو گھڻو حصو سنڌ جي سکر ۽ جيڪب آباد ضلعن ۾ آهي، ۽ باقي بلوچستان صوبي جي قلات ڊويزن ۾ آهي.",
+            "ur": "گڈو بیراج میں تین اہم نہروں کا نظام ہے۔ ان میں سے دو دائیں کنارے پر ہیں اور ایک بائیں کنارے پر۔ بیگاری سندھ فیڈر اور ڈیزرٹ پٹ فیڈر، دائیں کنارے پر ہیں۔ تیسری نہر، گھوٹکی فیڈر بائیں کنارے پر ہے۔ یہ تینوں نہریں دنیا کی بڑی سے بڑی فیڈر نہروں میں سے ہیں۔ بیراج کا مقصد 27 لاکھ ایکڑ رقبے کو سیراب کرنا ہے۔ اس رقبے کا زیادہ تر حصہ سندھ کے سکھر اور جیکب آباد اضلاع میں ہے، اور باقی بلوچستان صوبے کی قلات ڈویژن میں ہے۔"
+          },
+          {
+            "en": "The Guddu barrage is one of the biggest barrages of Pakistan. It has also been the most difficult to complete. More than 5000 engineers, technicians, and labourers worked day and night to complete it. It was put into operation on 4th February, 1962.",
+            "sd": "گڊو بئراج پاڪستان جي وڏن ۾ وڏن بئراجن مان هڪ آهي. اهو مڪمل ڪرڻ ۾ سڀ کان ڏکيو به رھيو آهي. 5000 کان وڌيڪ انجنيئرن، ٽيڪنيشنن ۽ مزدورن ان کي مڪمل ڪرڻ لاءِ ڏينهن رات ڪم ڪيو. اهو 4 فيبروري 1962ع تي ڪم ڪرڻ شروع ڪيو.",
+            "ur": "گڈو بیراج پاکستان کے بڑے سے بڑے بیراجوں میں سے ایک ہے۔ اسے مکمل کرنا سب سے مشکل بھی رہا ہے۔ 5000 سے زیادہ انجینئروں، ٹیکنیشنوں اور مزدوروں نے اسے مکمل کرنے کے لیے دن رات کام کیا۔ اسے 4 فروری 1962 کو کام کے لیے شروع کیا گیا۔"
+          },
+          {
+            "en": "The barrage has tamed the river and put an end to the damage caused by floods in this area. It is about time that the government started constructing more barrages to control flooding during the rainy season and to supply water throughout the year for irrigating more land so that Pakistan becomes self-sufficient in meeting its demands for grains, fruits and vegetables. In fact, proper water management can allow us to grow surplus food items, which we can then export and earn foreign exchange.",
+            "sd": "بئراج ندي کي قابو ڪري ورتو آهي ۽ هن علائقي ۾ ٻوڏن جي ڪري ٿيندڙ نقصان جو خاتمو ڪري ڇڏيو آهي. هاڻي وقت اچي ويو آهي ته حڪومت برسات جي مند ۾ ٻوڏ تي ضابطو رکڻ ۽ سڄو سال وڌيڪ زمين جي آبپاشي لاءِ پاڻي فراهم ڪرڻ لاءِ وڌيڪ بئراج ٺاھڻ شروع ڪري، ته جيئن پاڪستان اناج، ميون ۽ ڀاڄين جي پنهنجي ضرورتن کي پورو ڪرڻ ۾ خود ڪفيل بڻجي وڃي. حقيقت ۾، پاڻي جو صحيح انتظام اسان کي اضافي کاڌي جون شيون پوکڻ جي اجازت ڏئي سگھي ٿو، جيڪي پوءِ اسان برآمد ڪري سگھون ٿا ۽ پرڏيهي ناڻو ڪمائي سگھون ٿا.",
+            "ur": "بیراج نے دریا کو قابو کر لیا ہے اور اس علاقے میں سیلابوں سے ہونے والے نقصان کا خاتمہ کر دیا ہے۔ اب وقت آ گیا ہے کہ حکومت بارش کے موسم میں سیلاب پر قابو پانے اور سارا سال مزید زمین کی آبپاشی کے لیے پانی فراہم کرنے کے لیے مزید بیراج بنانا شروع کرے، تاکہ پاکستان اناج، پھلوں اور سبزیوں کی اپنی ضروریات پوری کرنے میں خود کفیل بن جائے۔ درحقیقت، پانی کا صحیح انتظام ہمیں اضافی خوراک کی اشیا اگانے کی اجازت دے سکتا ہے، جنہیں ہم پھر برآمد کر سکتے ہیں اور زرمبادلہ کما سکتے ہیں۔"
+          }
+        ],
+        "section": "8.1",
+        "unit": 8,
+        "unitTitle": "People and Places"
+      }
+    ],
     "sindhiExsolutions": [
       {
         "display": "حضور أڪرم صلي الله عليه وآله واصحابه وسلم جن جا اخلاق مبارڪ",
