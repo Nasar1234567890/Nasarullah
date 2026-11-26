@@ -8659,6 +8659,2990 @@ STUDY.xi = {
         ]
       }
     ],
+    "lessonTexts": [
+      {
+        "bookPages": "2-4",
+        "lesson": "Quaid on 11th August, 1947",
+        "paragraphs": [
+          {
+            "en": "The Quaid-e-Azam Mohammad Ali Jinnah made Presidential address on 11th August, 1947 to the inaugural session of Pakistan's first Constituent Assembly that was one of the most consequential assertions in the history of South Asia. This historic speech testifies the Quaid's vision of Pakistan and, of course, it reminds about the teachings of the last Holy Prophet حضرت محمدٌ رسول الله خاتم النبیین صلی الله علیه وعلی آله واصحابه وسلم (Hazart Muhammad, the Messenger of Allah, the last of the Prophets, Peace be upon him and upon his family and companions) that: “All men are equal in the eyes of God.” Here is an excerpt of his memorable speech.",
+            "sd": "قائداعظم محمد علي جناح 11 آگسٽ 1947ع تي پاڪستان جي پهرين قانون ساز اسيمبلي جي پهرين اجلاس کي صدارتي خطاب ڪيو، جيڪو ڏکڻ ايشيا جي تاريخ جي سڀ کان اهم تقريرن مان هڪ هو. هي تاريخي تقرير پاڪستان بابت قائد جي سوچ ۽ خواب کي ظاهر ڪري ٿي ۽ ان سان گڏ اسان کي آخري نبي حضرت محمد ﷺ جي انهيءَ تعليم جي ياد ڏياري ٿي ته: ”الله جي نظر ۾ سڀئي ماڻهو برابر آهن.“ هي سندس انهيءَ يادگار تقرير جو هڪ حصو آهي.",
+            "ur": "قائداعظم محمد علی جناح نے 11 اگست 1947ء کو پاکستان کی پہلی قانون ساز اسمبلی کے افتتاحی اجلاس سے صدارتی خطاب کیا، جو جنوبی ایشیا کی تاریخ کی سب سے اہم تقریروں میں سے ایک تھا۔ یہ تاریخی تقریر پاکستان کے بارے میں قائد کے خواب اور سوچ کو ظاہر کرتی ہے اور ہمیں آخری نبی حضرت محمد ﷺ کی اس تعلیم کی یاد دلاتی ہے کہ: ”اللہ کی نظر میں سب انسان برابر ہیں۔“ یہ ان کی اس یادگار تقریر کا ایک اقتباس ہے۔"
+          },
+          {
+            "en": "Mr. President, Ladies and Gentlemen!",
+            "sd": "جناب صدر، خواتين ۽ حضرات!",
+            "ur": "جناب صدر، خواتین و حضرات!"
+          },
+          {
+            "en": "I cordially thank you, with the utmost sincerity, for the honour you have conferred upon me. I sincerely hope that with your support and your co-operation we shall make this Constituent Assembly an example to the world. The Constituent Assembly has got two main functions to perform. The first is the very onerous and responsible task of framing our future constitution of Pakistan and the second of functioning as a full and complete sovereign body as the Federal Legislature of Pakistan. We have to do the best we can in adopting a provisional constitution for the Federal Legislature of Pakistan. You know really that not only we ourselves are wondering but, I think, the whole world is wondering at this unprecedented cyclonic revolution which has brought about the plan of creating two independent Sovereign Dominions in this sub-continent. This mighty sub-continent with all kinds of inhabitants has been brought under a plan which is titanic, unknown, unparalleled.",
+            "sd": "مان اوهان جو دل جي گھراين سان شڪر گذار آهيان، جو اوهان مون کي هي عزت بخشي آهي. مون کي پوري اميد آهي ته اوهان جي مدد ۽ سهڪار سان اسين هن قانون ساز اسيمبلي کي سڄي دنيا لاءِ هڪ مثال بڻائينداسين. قانون ساز اسيمبلي جا ٻه مکيه ڪم آهن. پهريون ڪم پاڪستان جو مستقبل وارو آئين ٺاهڻ جو ڏاڍو ڳرو ۽ ذميواري وارو ڪم آهي ۽ ٻيو ڪم پاڪستان جي وفاقي قانون ساز اداري جي حيثيت سان هڪ مڪمل ۽ خودمختيار اداري طور ڪم ڪرڻ آهي. اسان کي وفاقي قانون ساز اداري لاءِ هڪ عارضي آئين اختيار ڪرڻ ۾ پوري ڪوشش ڪرڻي آهي. اوهان کي خبر آهي ته نه رڳو اسين پاڻ حيران آهيون، پر منهنجي خيال ۾ سڄي دنيا انهيءَ بي مثال طوفاني انقلاب تي حيران آهي، جنهن سان هن ننڍي کنڊ ۾ ٻه آزاد ۽ خودمختيار رياستون ٺاهڻ جو منصوبو عمل ۾ آيو آهي. هن وڏي ننڍي کنڊ کي، جنهن ۾ هر قسم جا ماڻهو رھن ٿا، هڪ اهڙي منصوبي هيٺ آندو ويو آهي، جيڪو وڏو، اڻڄاتل ۽ بي مثال آهي.",
+            "ur": "میں دل کی گہرائیوں سے آپ کا شکر گزار ہوں کہ آپ نے مجھے یہ عزت بخشی ہے۔ مجھے پوری امید ہے کہ آپ کی مدد اور تعاون سے ہم اس قانون ساز اسمبلی کو پوری دنیا کے لیے ایک مثال بنا دیں گے۔ قانون ساز اسمبلی کے دو اہم کام ہیں۔ پہلا کام پاکستان کا مستقبل کا آئین بنانا ہے، جو بہت بھاری اور ذمہ داری والا کام ہے، اور دوسرا کام پاکستان کی وفاقی قانون ساز ادارے کی حیثیت سے ایک مکمل اور خودمختار ادارے کے طور پر کام کرنا ہے۔ ہمیں وفاقی قانون ساز ادارے کے لیے ایک عارضی آئین اپنانے میں پوری کوشش کرنی ہے۔ آپ جانتے ہیں کہ نہ صرف ہم خود حیران ہیں بلکہ میرے خیال میں پوری دنیا اس بے مثال طوفانی انقلاب پر حیران ہے جس سے اس برصغیر میں دو آزاد اور خودمختار ریاستیں بنانے کا منصوبہ عمل میں آیا ہے۔ اس عظیم برصغیر کو، جس میں ہر قسم کے لوگ رہتے ہیں، ایک ایسے منصوبے کے تحت لایا گیا ہے جو بہت بڑا، انجانا اور بے مثال ہے۔"
+          },
+          {
+            "en": "Dealing with our first function, the first and the foremost thing that I would like to emphasize is this — remember that you are now a sovereign legislative body and you have got all the powers. It, therefore, places on you the gravest responsibility as to how you should take your decisions. The first duty of a government is to maintain law and order so that the life, property and religious beliefs of its subjects are fully protected by the State.",
+            "sd": "پهرين ڪم جي باري ۾، سڀ کان پهرين ۽ اهم ڳالهه جيڪا مان زور ڏئي چوڻ چاهيان ٿو، سا هي آهي — ياد رکو ته اوهان هاڻي هڪ خودمختيار قانون ساز ادارو آهيو ۽ اوهان وٽ سڀئي اختيار آهن. ان ڪري اوهان تي اها وڏي ذميواري اچي ٿي ته اوهان پنهنجا فيصلا ڪيئن ٿا ڪريو. ڪنهن به حڪومت جو پهريون فرض امن امان قائم رکڻ آهي، ته جيئن رياست پاران ماڻهن جي جان، ملڪيت ۽ مذهبي عقيدن جي مڪمل حفاظت ٿئي.",
+            "ur": "اپنے پہلے کام کے بارے میں، پہلی اور سب سے اہم بات جس پر میں زور دینا چاہتا ہوں، وہ یہ ہے — یاد رکھیں کہ آپ اب ایک خودمختار قانون ساز ادارہ ہیں اور آپ کے پاس تمام اختیارات ہیں۔ اس لیے آپ پر یہ بہت بڑی ذمہ داری آتی ہے کہ آپ اپنے فیصلے کس طرح کرتے ہیں۔ کسی بھی حکومت کا پہلا فرض امن و امان قائم رکھنا ہے تاکہ ریاست کی طرف سے لوگوں کی جان، مال اور مذہبی عقائد کی مکمل حفاظت ہو۔"
+          },
+          {
+            "en": "The second thing that occurs to me is this: one of the biggest curses from which India is suffering is bribery and corruption. That really is a poison. We must put that down with an iron hand and I hope that you will take adequate measures as soon as it is possible for this Assembly to do so.",
+            "sd": "ٻي ڳالهه جيڪا منهنجي ذهن ۾ اچي ٿي، سا هي آهي: هندستان جن وڏين لعنتن ۾ مبتلا آهي، انهن مان هڪ وڏي لعنت رشوت ۽ بدعنواني آهي. اها حقيقت ۾ هڪ زهر آهي. اسان کي ان کي سختي سان ختم ڪرڻو آهي ۽ مون کي اميد آهي ته هي اسيمبلي جيترو جلد ٿي سگھي، ان لاءِ مناسب اپاءَ وٺندي.",
+            "ur": "دوسری بات جو میرے ذہن میں آتی ہے، وہ یہ ہے: ہندوستان جن بڑی لعنتوں میں مبتلا ہے، ان میں سے ایک بڑی لعنت رشوت اور بدعنوانی ہے۔ یہ حقیقت میں ایک زہر ہے۔ ہمیں اسے سختی سے ختم کرنا ہے اور مجھے امید ہے کہ یہ اسمبلی جتنی جلد ممکن ہو، اس کے لیے مناسب اقدامات کرے گی۔"
+          },
+          {
+            "en": "Black-marketing is another curse. Well, I know that black-marketers are frequently caught and punished. Now, you have to tackle this monster which today is a colossal crime against society in our distressed conditions. I think they ought to be very severely punished, because they undermine the entire system of control and regulation of food-stuffs and essential commodities, and cause wholesale starvation.",
+            "sd": "ڪاري بازار وارو واپار به هڪ ٻي لعنت آهي. خير، مان ڄاڻان ٿو ته ڪاري بازار وارن کي اڪثر پڪڙيو ۽ سزا ڏني ويندي آهي. هاڻي اوهان کي هن ديو سان منهن ڏيڻو آهي، جيڪو اڄ اسان جي ڏکي حالتن ۾ سماج خلاف هڪ وڏو ڏوهه آهي. منهنجي خيال ۾ انهن کي ڏاڍي سخت سزا ملڻ گھرجي، ڇاڪاڻ ته اهي کاڌي پيتي جي شين ۽ ضروري شين جي ڪنٽرول ۽ ضابطي جي سڄي نظام کي تباهه ڪن ٿا ۽ وڏي پيماني تي بڪ پيدا ڪن ٿا.",
+            "ur": "کالا بازاری بھی ایک اور لعنت ہے۔ خیر، میں جانتا ہوں کہ کالا بازاری کرنے والوں کو اکثر پکڑا اور سزا دی جاتی ہے۔ اب آپ کو اس دیو کا مقابلہ کرنا ہے، جو آج ہماری مشکل حالتوں میں معاشرے کے خلاف ایک بہت بڑا جرم ہے۔ میرے خیال میں انہیں بہت سخت سزا ملنی چاہیے، کیونکہ وہ کھانے پینے کی چیزوں اور ضروری اشیا کے کنٹرول اور ضابطے کے پورے نظام کو تباہ کرتے ہیں اور بڑے پیمانے پر بھوک پیدا کرتے ہیں۔"
+          },
+          {
+            "en": "The next thing that strikes me is a legacy which has been passed on to us. Along with many other things, good and bad, has arrived this great evil -- the evil of nepotism and jobbery. This evil must be crushed relentlessly. I want to make it quite clear that I shall never tolerate any kind of jobbery, nepotism or any influence directly or indirectly brought to bear upon me.",
+            "sd": "ايندڙ ڳالهه جيڪا منهنجي ذهن ۾ اچي ٿي، سا هڪ اهڙي وراثت آهي، جيڪا اسان کي ملي آهي. ٻين ڪيترين سٺين ۽ خراب شين سان گڏ، هي وڏي برائي به اسان وٽ آهي -- اقربا پروري ۽ سفارش جي برائي. هن برائي کي بي رحمي سان چيڀاٽڻو آهي. مان بلڪل صاف چوڻ چاهيان ٿو ته مان ڪنهن به قسم جي سفارش، اقربا پروري يا ڪنهن به اثر کي، سڌو يا اڻ سڌو، مون تي اثرانداز ٿيڻ ڪڏهن به برداشت نه ڪندس.",
+            "ur": "اگلی بات جو میرے ذہن میں آتی ہے، وہ ایک ایسی وراثت ہے جو ہمیں ملی ہے۔ بہت سی اچھی اور بری چیزوں کے ساتھ، یہ بڑی برائی بھی ہمارے پاس آ گئی ہے -- اقربا پروری اور سفارش کی برائی۔ اس برائی کو بے رحمی سے کچلنا ہے۔ میں بالکل صاف کہنا چاہتا ہوں کہ میں کسی بھی قسم کی سفارش، اقربا پروری یا کسی بھی اثر کو، براہ راست یا بالواسطہ، مجھ پر اثر انداز ہونے کو کبھی برداشت نہیں کروں گا۔"
+          },
+          {
+            "en": "Now, if we want to make this great State of Pakistan happy and prosperous, we should wholly and solely concentrate on the well-being of the people, and especially of the masses and the poor. If you will work in co-operation, forgetting the past, burying the hatchet, you are bound to succeed. If you change your past and work together in a spirit that every one of you, no matter to what community, colour, caste or creed he/she belongs is first, second and last a citizen of this State with equal rights, privileges and obligations. We should begin to work in that spirit and in course of time all these angularities of the majority and minority communities.",
+            "sd": "هاڻي، جيڪڏهن اسين پاڪستان جي هن وڏي رياست کي خوشحال ۽ سڀاڳو بڻائڻ چاهيون ٿا، ته اسان کي مڪمل طور تي ماڻهن جي ڀلائي تي ڌيان ڏيڻ گھرجي، خاص ڪري عام ماڻهن ۽ غريبن جي ڀلائي تي. جيڪڏهن اوهان سهڪار سان ڪم ڪندؤ، ماضي کي وساري، جھيڙو ختم ڪري، ته اوهان ضرور ڪامياب ٿيندؤ. جيڪڏهن اوهان پنهنجو ماضي بدلايو ۽ ان جذبي سان گڏجي ڪم ڪيو ته اوهان مان هر هڪ، چاهي ڪنهن به برادري، رنگ، ذات يا مذهب سان تعلق رکي، پهريون، ٻيو ۽ آخري طور تي هن رياست جو شهري آهي، جنهن کي برابر حق، سهولتون ۽ ذميواريون حاصل آهن. اسان کي ان جذبي سان ڪم شروع ڪرڻ گھرجي ۽ وقت گذرڻ سان اڪثريت ۽ اقليت وارين برادرين جون اهي سڀئي تنگ نظريون ختم ٿي وينديون.",
+            "ur": "اب، اگر ہم پاکستان کی اس عظیم ریاست کو خوشحال اور سرفراز بنانا چاہتے ہیں، تو ہمیں پوری طرح لوگوں کی بھلائی پر توجہ دینی چاہیے، خاص طور پر عام لوگوں اور غریبوں کی بھلائی پر۔ اگر آپ تعاون سے کام کریں گے، ماضی کو بھلا کر، جھگڑا ختم کر کے، تو آپ ضرور کامیاب ہوں گے۔ اگر آپ اپنا ماضی بدل لیں اور اس جذبے سے مل کر کام کریں کہ آپ میں سے ہر ایک، چاہے کسی بھی برادری، رنگ، ذات یا مذہب سے تعلق رکھتا ہو، پہلے، دوسرے اور آخر میں اس ریاست کا شہری ہے، جسے برابر حقوق، سہولتیں اور ذمہ داریاں حاصل ہیں۔ ہمیں اسی جذبے سے کام شروع کرنا چاہیے اور وقت گزرنے کے ساتھ اکثریت اور اقلیت والی برادریوں کی یہ سب تنگ نظریاں ختم ہو جائیں گی۔"
+          },
+          {
+            "en": "No power can hold another nation in subjection. Therefore, we must learn a lesson from this. You are free; you are free to go to your temples, you are free to go to your mosques or to any other places of worship in this State of Pakistan. You may belong to any religion or caste or creed — that has nothing to do with the business of the State. We are starting in the days when there is no discrimination, no distinction between one community and another, no discrimination between one caste or creed and another. We are starting with this fundamental principle that we are all citizens and equal citizens of one State.",
+            "sd": "ڪا به طاقت ڪنهن ٻي قوم کي غلامي ۾ نٿي رکي سگھي. ان ڪري اسان کي هن مان سبق سکڻ گھرجي. اوهان آزاد آهيو؛ اوهان پنهنجن مندرن ڏي وڃڻ لاءِ آزاد آهيو، اوهان پنهنجن مسجدن ڏي يا پاڪستان جي هن رياست ۾ عبادت جي ڪنهن به ٻي جاءِ ڏي وڃڻ لاءِ آزاد آهيو. اوهان جو تعلق ڪنهن به مذهب، ذات يا عقيدي سان ٿي سگھي ٿو -- ان جو رياست جي ڪم سان ڪو به تعلق ناهي. اسين انهن ڏينهن ۾ شروعات ڪري رھيا آهيون، جڏهن ڪو به فرق ناهي، هڪ برادري ۽ ٻي برادري ۾ ڪو به فرق ناهي، هڪ ذات يا عقيدي ۽ ٻي ذات يا عقيدي ۾ ڪو به فرق ناهي. اسين هن بنيادي اصول سان شروعات ڪري رھيا آهيون ته اسين سڀئي شهري آهيون ۽ هڪ رياست جا برابر شهري آهيون.",
+            "ur": "کوئی طاقت کسی دوسری قوم کو غلامی میں نہیں رکھ سکتی۔ اس لیے ہمیں اس سے سبق سیکھنا چاہیے۔ آپ آزاد ہیں؛ آپ اپنے مندروں میں جانے کے لیے آزاد ہیں، آپ اپنی مسجدوں میں یا پاکستان کی اس ریاست میں عبادت کی کسی بھی دوسری جگہ جانے کے لیے آزاد ہیں۔ آپ کا تعلق کسی بھی مذہب، ذات یا عقیدے سے ہو سکتا ہے -- اس کا ریاست کے کام سے کوئی تعلق نہیں ہے۔ ہم ان دنوں میں شروعات کر رہے ہیں جب کوئی امتیاز نہیں ہے، ایک برادری اور دوسری برادری میں کوئی فرق نہیں ہے، ایک ذات یا عقیدے اور دوسری ذات یا عقیدے میں کوئی فرق نہیں ہے۔ ہم اس بنیادی اصول سے شروعات کر رہے ہیں کہ ہم سب شہری ہیں اور ایک ریاست کے برابر شہری ہیں۔"
+          },
+          {
+            "en": "Ladies and Gentlemen, I do not wish to take up any more of your time and thank you again for the honour you have done to me. I shall always be guided by the principles of justice and fair-play without any political language, prejudice or ill-will. My guiding principle will be justice and complete impartiality, and I am sure that with your support and co-operation, I can look forward to Pakistan becoming one of the greatest Nations of the world.",
+            "sd": "خواتين ۽ حضرات، مان اوهان جو وڌيڪ وقت وٺڻ نٿو چاهيان ۽ مون کي جيڪا عزت اوهان ڏني آهي، ان لاءِ ٻيهر اوهان جو شڪر گذار آهيان. مان هميشه انصاف ۽ سچائي جي اصولن تي هلندس، بغير ڪنهن سياسي ڳالهه، تعصب يا دشمني جي. منهنجو رهنما اصول انصاف ۽ مڪمل غيرجانبداري هوندو، ۽ مون کي پورو يقين آهي ته اوهان جي مدد ۽ سهڪار سان مان پاڪستان کي دنيا جي وڏين قومن مان هڪ بڻجندي ڏسي سگھندس.",
+            "ur": "خواتین و حضرات، میں آپ کا مزید وقت نہیں لینا چاہتا اور جو عزت آپ نے مجھے دی ہے، اس کے لیے دوبارہ آپ کا شکر گزار ہوں۔ میں ہمیشہ انصاف اور دیانت کے اصولوں پر چلوں گا، بغیر کسی سیاسی بات، تعصب یا دشمنی کے۔ میرا رہنما اصول انصاف اور مکمل غیر جانبداری ہوگا، اور مجھے پورا یقین ہے کہ آپ کی مدد اور تعاون سے میں پاکستان کو دنیا کی عظیم قوموں میں سے ایک بنتا دیکھ سکوں گا۔"
+          }
+        ],
+        "section": "1.1",
+        "unit": 1,
+        "unitTitle": "Democratic Citizenship"
+      },
+      {
+        "bookPages": "18-20",
+        "lesson": "Once More to the Lake",
+        "paragraphs": [
+          {
+            "en": "One summer, along about 1904, my father rented a camp on a lake in Maine and took us all there for the month of August. Except some minor inconveniences, the vacation was a success and from then on none of us ever thought there was any place in the world like that lake in Maine. We returned summer after summer--always on August 1st for one month. A few weeks ago, this feeling got so strong. I bought myself a couple of fish hooks and a spinner and returned to the lake where we used to go, for a week's fishing and to revisit old place.",
+            "sd": "هڪ اونهاري ۾، لڳ ڀڳ 1904ع ۾، منهنجي پيءُ مين ۾ هڪ ڍنڍ تي هڪ ڪئمپ ڪرائي تي ورتي ۽ اسان سڀني کي آگسٽ جي مهيني لاءِ اتي وٺي ويو. ڪجهه ننڍين تڪليفن کان سواءِ، موڪلون ڪامياب رھيون ۽ ان کان پوءِ اسان مان ڪنهن به ڪڏهن نه سوچيو ته دنيا ۾ ڪا به جاءِ مين واري ان ڍنڍ جهڙي آهي. اسان هر اونهاري ۾ واپس ايندا هئاسين — هميشه پهرين آگسٽ تي، هڪ مهيني لاءِ. ڪجهه هفتا اڳ، هي احساس ايترو ته زور وٺي ويو جو مون پاڻ لاءِ مڇي پڪڙڻ جا ٻه ڪنڊا ۽ هڪ اسپنر خريد ڪيو ۽ ان ڍنڍ ڏانهن موٽي ويس جتي اسان ويندا هئاسين، هڪ هفتو مڇي پڪڙڻ ۽ پراڻين جاين کي ٻيهر ڏسڻ لاءِ.",
+            "ur": "ایک گرمیوں میں، تقریباً 1904ء میں، میرے والد نے مین میں ایک جھیل پر ایک کیمپ کرائے پر لیا اور ہم سب کو اگست کے مہینے کے لیے وہاں لے گئے۔ چند معمولی تکلیفوں کے سوا، چھٹیاں کامیاب رہیں اور اس کے بعد ہم میں سے کسی نے کبھی نہیں سوچا کہ دنیا میں کوئی جگہ مین کی اس جھیل جیسی ہے۔ ہم ہر گرمیوں میں واپس آتے تھے — ہمیشہ پہلی اگست کو، ایک مہینے کے لیے۔ چند ہفتے پہلے، یہ احساس اتنا زور پکڑ گیا کہ میں نے اپنے لیے مچھلی پکڑنے کے دو کانٹے اور ایک اسپنر خریدا اور اس جھیل کی طرف لوٹ گیا جہاں ہم جایا کرتے تھے، ایک ہفتہ مچھلی پکڑنے اور پرانی جگہوں کو دوبارہ دیکھنے کے لیے۔"
+          },
+          {
+            "en": "I took along my son, who had never had any fresh water up his nose and who had seen lily pads only from train windows. On the journey over to the lake, I began to wonder what it would be like. I wondered how time would have marred this unique, this beautiful spot -- the sheltered bay and streams, the hills that the sun set behind, the camps and the paths behind the camps. I was sure that the tarred road would have found it out and I wondered in what other ways it would be desolated. It is strange how much you can remember about places like that once you allow your mind to return into the grooves which lead back. You remember one thing, and that suddenly reminds you of another thing. I guess I remembered clearest of all the early mornings, when the lake was cool and motionless, remembered how the bedroom smelled of the lumber it was made of and of the wet woods whose scent entered through the screen. The partitions in the camp were thin and did not extend clear to the top of the rooms, and as I was always the first up I would dress softly so as not to wake the others, and sneak out into the sweet outdoors and start out in the canoe, keeping close along the shore in the long shadows of the pines.",
+            "sd": "مون پنهنجي پٽ کي پاڻ سان گڏ وٺي ويو، جنهن ڪڏهن به تازي پاڻيءَ کي پنهنجي نڪ تائين نه آندو هو ۽ جنهن ڪنول جا پن رڳو ريل جي درين مان ڏٺا هئا. ڍنڍ ڏانهن سفر دوران، مون سوچڻ شروع ڪيو ته اهو ڪهڙو هوندو. مون سوچيو ته وقت هن منفرد، هن سهڻي جاءِ کي ڪيئن خراب ڪيو هوندو — اها محفوظ خليج ۽ نديون، اهي ٽڪريون جن جي پويان سج غروب ٿيندو هو، اهي ڪئمپون ۽ انهن جي پويان رستا. مون کي پڪ هئي ته ٽار واري رستي ان کي ڳولي لڌو هوندو ۽ مون سوچيو ته ٻين ڪهڙن طريقن سان اهو اجڙي ويو هوندو. اهو عجيب آهي ته اهڙين جاين بابت توهان ڪيترو ڪجهه ياد ڪري سگھو ٿا، جڏهن توهان پنهنجي ذهن کي انهن رستن ڏانهن موٽڻ ڏيو ٿا جيڪي پوئتي وٺي وڃن ٿا. توهان هڪ شيءِ ياد ڪريو ٿا ۽ اها اوچتو توهان کي ٻي شيءِ ياد ڏياري ٿي. منهنجي خيال ۾، مون کي سڀ کان وڌيڪ صاف طرح اهي سوير جون صبحون ياد آهن، جڏهن ڍنڍ ٿڌي ۽ ساڪت هوندي هئي، ياد آهي ته ڪمري مان ان ڪاٺ جي خوشبوءِ ايندي هئي جنهن مان اهو ٺھيل هو ۽ انهن آلي ڪاٺين جي خوشبوءِ جيڪا دريءَ مان اندر ايندي هئي. ڪئمپ ۾ ڪمرن جون ڀتيون پتليون هيون ۽ ڪمرن جي مٿان تائين نه وينديون هيون، ۽ جيئن ته مان هميشه سڀ کان پهريان اٿندو هئس، مان آهستي ڪپڙا پائيندو هئس ته جيئن ٻين کي نه جاڳايان، ۽ ٻاهر مٺي کليل هوا ۾ نڪري ويندو هئس ۽ ٻيڙيءَ ۾ سوار ٿي ڪناري سان گڏ، صنوبر جي وڻن جي ڊگھن ڇانون ۾، نڪري پوندو هئس.",
+            "ur": "میں نے اپنے بیٹے کو ساتھ لے لیا، جس نے کبھی تازہ پانی اپنی ناک تک نہیں پہنچایا تھا اور جس نے کنول کے پتے صرف ریل کی کھڑکیوں سے دیکھے تھے۔ جھیل کی طرف سفر کے دوران، میں سوچنے لگا کہ یہ کیسا ہوگا۔ میں سوچتا تھا کہ وقت نے اس منفرد، اس خوبصورت جگہ کو کیسے بگاڑ دیا ہوگا — وہ محفوظ خلیج اور ندیاں، وہ پہاڑیاں جن کے پیچھے سورج غروب ہوتا تھا، وہ کیمپ اور ان کے پیچھے راستے۔ مجھے یقین تھا کہ تارکول والی سڑک نے اسے ڈھونڈ لیا ہوگا اور میں سوچتا تھا کہ اور کن طریقوں سے یہ ویران ہو گیا ہوگا۔ یہ عجیب ہے کہ ایسی جگہوں کے بارے میں آپ کتنا کچھ یاد کر سکتے ہیں، جب آپ اپنے ذہن کو ان راستوں پر لوٹنے دیں جو پیچھے لے جاتے ہیں۔ آپ ایک چیز یاد کرتے ہیں، اور وہ اچانک آپ کو دوسری چیز یاد دلا دیتی ہے۔ میرے خیال میں، مجھے سب سے زیادہ صاف طور پر وہ صبح سویرے یاد ہیں، جب جھیل ٹھنڈی اور ساکت ہوتی تھی، یاد ہے کہ کمرے سے اس لکڑی کی خوشبو آتی تھی جس سے وہ بنا تھا اور ان گیلی لکڑیوں کی خوشبو جو کھڑکی سے اندر آتی تھی۔ کیمپ میں کمروں کی دیواریں پتلی تھیں اور کمروں کی چھت تک نہیں پہنچتی تھیں، اور چونکہ میں ہمیشہ سب سے پہلے اٹھتا تھا، میں آہستہ کپڑے پہنتا تھا تاکہ دوسروں کو نہ جگاؤں، اور باہر میٹھی کھلی ہوا میں نکل جاتا اور کشتی میں سوار ہو کر کنارے کے ساتھ ساتھ، صنوبر کے درختوں کے لمبے سایوں میں، نکل پڑتا تھا۔"
+          },
+          {
+            "en": "The lake had never been what you would call a wild lake. There were cottages sprinkled around the shores, and it was in farming although the shores of the lake were quite heavily wooded. Some of the cottages were owned by nearby farmers, and you would live at the shore and eat your meals at the farmhouse. That's what our family did.",
+            "sd": "ڍنڍ ڪڏهن به اها نه هئي جنهن کي توهان جھنگلي ڍنڍ چوندا. ڍنڍ جي ڪنارن تي ننڍا گھر پکڙيل هئا، ۽ اهو زراعت وارو علائقو هو، جيتوڻيڪ ڍنڍ جا ڪنارا گھاٽن وڻن سان ڀريل هئا. ڪجهه گھر ويجهي هارين جا هئا، ۽ توهان ڪناري تي رھندا هئا ۽ پنهنجا کاڌا هاريءَ جي گھر ۾ کائيندا هئا. اسان جو خاندان به ائين ئي ڪندو هو.",
+            "ur": "جھیل کبھی وہ نہیں رہی جسے آپ جنگلی جھیل کہیں گے۔ جھیل کے کناروں پر چھوٹے چھوٹے گھر بکھرے ہوئے تھے، اور یہ کھیتی باڑی والا علاقہ تھا، حالانکہ جھیل کے کنارے گھنے درختوں سے بھرے ہوئے تھے۔ کچھ گھر قریبی کسانوں کے تھے، اور آپ کنارے پر رہتے اور اپنے کھانے کسان کے گھر میں کھاتے تھے۔ ہمارا خاندان بھی ایسا ہی کرتا تھا۔"
+          },
+          {
+            "en": "I was right about the tar: it led to within half a mile of the shore. When I got back there, with my boy, and we settled into a camp near a farmhouse and into the kind of summertime, I had known, I could tell that it was going to be pretty much the same as it had been before. I began to sustain the illusion that he was I, and therefore, by simple transposition, that I was my father. This sensation persisted, kept cropping up all the time we were there. It was not an entirely new feeling, but in this setting it grew much stronger. I seemed to be living a dual existence. I would be in the middle of some simple act, I would be picking up a bait box or laying down a table fork, or I would be saying something; and suddenly, it would be not I but my father who was saying the words or making the gesture. It gave me a creepy sensation.",
+            "sd": "ٽار بابت مان صحيح هئس: اهو ڪناري کان اڌ ميل اندر تائين ايندو هو. جڏهن مان پنهنجي پٽ سان گڏ اتي واپس ويس، ۽ اسان هاريءَ جي گھر ويجهو هڪ ڪئمپ ۾ ۽ اهڙي اونهاري ۾ رھڻ لڳاسين جهڙي مون ڄاتو هو، تڏهن مون کي خبر پئي ته اهو گھڻو ڪري ساڳيو ئي رھندو جيئن اڳ هو. مون کي اهو وهم ٿيڻ لڳو ته هو مان آهيان، ۽ ان ڪري، سادي بدل سان، ته مان پنهنجو پيءُ آهيان. هي احساس قائم رھيو، اسان جي اتي رھڻ دوران بار بار اڀري ايندو رھيو. اهو مڪمل طرح نئون احساس نه هو، پر هن ماحول ۾ اهو گھڻو زور وٺي ويو. مون کي لڳو ڄڻ مان ٻٽي زندگي گذاري رھيو آهيان. مان ڪنهن سادي ڪم جي وچ ۾ هوندو هئس، مان کاڌي جو دٻو کڻي رھيو هوندو هئس يا ميز تي ڪانٽو رکي رھيو هوندو هئس، يا مان ڪجهه چئي رھيو هوندو هئس؛ ۽ اوچتو، مان نه پر منهنجو پيءُ اهي لفظ چئي رھيو هوندو هو يا اهو اشارو ڪري رھيو هوندو هو. ان مان مون کي عجيب خوفناڪ احساس ٿيو.",
+            "ur": "تار کے بارے میں میں صحیح تھا: وہ کنارے سے آدھا میل اندر تک آتی تھی۔ جب میں اپنے بیٹے کے ساتھ وہاں واپس گیا، اور ہم کسان کے گھر کے قریب ایک کیمپ میں اور ایسی گرمیوں میں رہنے لگے جیسی میں نے جانی تھی، تو مجھے پتہ چل گیا کہ یہ زیادہ تر ویسا ہی رہے گا جیسا پہلے تھا۔ مجھے یہ وہم ہونے لگا کہ وہ میں ہوں، اور اس لیے، سادہ سی تبدیلی سے، کہ میں اپنا باپ ہوں۔ یہ احساس قائم رہا، ہمارے وہاں رہنے کے دوران بار بار ابھرتا رہا۔ یہ مکمل طور پر نیا احساس نہیں تھا، لیکن اس ماحول میں یہ بہت زور پکڑ گیا۔ مجھے لگا جیسے میں دوہری زندگی گزار رہا ہوں۔ میں کسی سادہ کام کے بیچ میں ہوتا، میں کھانے کا ڈبہ اٹھا رہا ہوتا یا میز پر کانٹا رکھ رہا ہوتا، یا میں کچھ کہہ رہا ہوتا؛ اور اچانک، میں نہیں بلکہ میرا باپ وہ الفاظ کہہ رہا ہوتا یا وہ اشارہ کر رہا ہوتا۔ اس سے مجھے عجیب خوفناک احساس ہوا۔"
+          },
+          {
+            "en": "We went fishing the first morning. I felt the same damp moss covering the worms in the bait can, and saw the dragonfly alight on the tip of my rod as it hovered a few inches from the surface of the water. It was the arrival of this fly that convinced me beyond any doubt that everything was as it always had been, that the years were a mirage and there had been no years. The small waves were the same, chucking the rowboat under the chin as we fished at anchor, and the boat was the same boat, the same colour green and the ribs broken in the same places, and under the floor-boards the same freshwater leavings and debris.",
+            "sd": "اسان پهرين صبح مڇي پڪڙڻ وياسين. مون کي اها ساڳي آلي ڪائي محسوس ٿي جيڪا ڪينءَ ۾ ڪيڙن کي ڍڪيندي هئي، ۽ مون هڪ ڊريگن مک ڏٺي جيڪا منهنجي ڇڙيءَ جي ڇيڙي تي ويٺي هئي، جڏهن ته اهو پاڻيءَ جي مٿاڇري کان ڪجهه انچ مٿي منڊلائي رھيو هو. هن مک جو اچڻ ئي اهو هو جنهن مون کي ڪنهن به شڪ کان سواءِ يقين ڏياريو ته هر شيءِ ساڳي هئي جيئن هميشه هئي، ته سال رڳو هڪ سراب هئا ۽ ڪي به سال نه هئا. ننڍڙيون لهرون ساڳيون هيون، ٻيڙيءَ کي ٿُڏي هيٺان ڌڪي رھيون هيون جڏهن اسان لنگر تي مڇي پڪڙي رھيا هئاسين، ۽ ٻيڙي ساڳي ٻيڙي هئي، ساڳيو سائو رنگ ۽ پسليون ساڳين جاين تان ٽٽل، ۽ فرش جي تختن هيٺان ساڳيون تازي پاڻيءَ جون بچيل شيون ۽ گند.",
+            "ur": "ہم پہلی صبح مچھلی پکڑنے گئے۔ میں نے وہی نم کائی محسوس کی جو ڈبے میں کیڑوں کو ڈھانپے ہوئے تھی، اور میں نے ایک ڈریگن مکھی دیکھی جو میری چھڑی کی نوک پر بیٹھی تھی، جبکہ وہ پانی کی سطح سے چند انچ اوپر منڈلا رہی تھی۔ اس مکھی کے آنے نے ہی مجھے کسی بھی شک سے بالا یقین دلا دیا کہ ہر چیز ویسی ہی تھی جیسی ہمیشہ تھی، کہ سال صرف ایک سراب تھے اور کوئی سال نہیں تھے۔ چھوٹی لہریں ویسی ہی تھیں، کشتی کو ٹھوڑی کے نیچے دھکیل رہی تھیں جب ہم لنگر پر مچھلی پکڑ رہے تھے، اور کشتی وہی کشتی تھی، وہی سبز رنگ اور پسلیاں وہی جگہوں سے ٹوٹی ہوئی، اور فرش کے تختوں کے نیچے تازہ پانی کی وہی بچی ہوئی چیزیں اور کچرا۔"
+          },
+          {
+            "en": "We caught two fish. When we got back for a swim before lunch, the lake was exactly where we had left it, the same number of inches from the dock, and there was only the merest suggestion of a breeze. This seemed an utterly enchanted sea, this lake you could leave to its own devices for a few hours and come back to, and find that it had not stirred, this constant and trustworthy body of water. A school of fish swam by, each fish with its small, individual shadow, doubling the attendance, so clear and sharp in the sunlight. Some of the other campers were in swimming, along the shore, one of them with a cake of soap, and the water felt thin and clear and insubstantial. There had been peace and goodness and jollity.",
+            "sd": "اسان ٻه مڇيون پڪڙيون. جڏهن اسان لنچ کان اڳ ترڻ لاءِ واپس آياسين، تڏهن ڍنڍ بلڪل اتي هئي جتي اسان ان کي ڇڏيو هو، گھاٽ کان ساڳئي تعداد انچن جي مفاصلي تي، ۽ هوا جي رڳو هلڪي جهلڪ هئي. اهو هڪ مڪمل طرح جادوئي سمنڊ لڳو، اها ڍنڍ جنهن کي توهان ڪجهه ڪلاڪن لاءِ پنهنجي حال تي ڇڏي سگھو ٿا ۽ واپس اچو ٿا، ۽ ڏسو ٿا ته اها ذرو به نه هلي هئي، پاڻيءَ جو اهو مسلسل ۽ ڀروسي لائق جسم. مڇين جو هڪ ٽولو ترندو گذريو، هر مڇيءَ سان گڏ ان جو ننڍڙو، الڳ ڇانو، حاضري ٻيڻي ڪندي، سج جي روشنيءَ ۾ ايترو صاف ۽ تکو. ٻيا ڪجهه ڪئمپ وارا ڪناري سان ترڻ ۾ هئا، انهن مان هڪ وٽ صابڻ جي هڪ ٽڪي هئي، ۽ پاڻي پتلو ۽ صاف ۽ هلڪو محسوس ٿيو. اتي امن ۽ ڀلائي ۽ خوشي هئي.",
+            "ur": "ہم نے دو مچھلیاں پکڑیں۔ جب ہم دوپہر کے کھانے سے پہلے تیرنے کے لیے واپس آئے، تو جھیل بالکل وہیں تھی جہاں ہم نے اسے چھوڑا تھا، گھاٹ سے اتنے ہی انچ کے فاصلے پر، اور ہوا کا صرف ہلکا سا اشارہ تھا۔ یہ ایک مکمل طور پر جادوئی سمندر لگی، یہ جھیل جسے آپ چند گھنٹوں کے لیے اس کے حال پر چھوڑ سکتے ہیں اور واپس آئیں، اور دیکھیں کہ وہ ذرا بھی نہیں ہلی، پانی کا وہ مستقل اور قابلِ بھروسہ جسم۔ مچھلیوں کا ایک گروہ تیرتا ہوا گزرا، ہر مچھلی کے ساتھ اس کا چھوٹا، الگ سایہ، حاضری کو دگنا کرتے ہوئے، سورج کی روشنی میں اتنا صاف اور تیز۔ کچھ دوسرے کیمپ والے کنارے کے ساتھ تیر رہے تھے، ان میں سے ایک کے پاس صابن کی ایک ٹکیا تھی، اور پانی پتلا اور صاف اور ہلکا محسوس ہوا۔ وہاں امن اور بھلائی اور خوشی تھی۔"
+          },
+          {
+            "en": "The only thing that was wrong now, really, was the sound of the place, an unfamiliar nervous sound of the outboard motors. This was the note that jarred, the one thing that would sometimes break the illusion and set the years moving. In those other summer times, all motors were inboard; and when they were at a little distance, the noise they made was a sedative, an ingredient of summer sleep. They were one-cylinder and two-cylinder engines, but they all made a sleepy sound across the lake. The one-lungers throbbed and fluttered, and the twin-cylinder ones purred and purred, and that was a quiet sound too. But now the campers all had outboards. In the daytime, in the hot mornings, these motors made a petulant, irritable sound; at night, in the still evening when the afterglow lit the water, they whined about one's ears like mosquitoes.",
+            "sd": "هاڻي جيڪا هڪڙي شيءِ واقعي غلط هئي، اها هئي ان جاءِ جو آواز، ٻاهرين موٽرن جو هڪ اڻڄاتل، بيچين آواز. اهو اهو سُر هو جيڪو ٽڪرائجي ويو، اها هڪڙي شيءِ جيڪا ڪڏهن ڪڏهن وهم ٽوڙي ڇڏيندي هئي ۽ سالن کي هلائي ڇڏيندي هئي. انهن ٻين اونهارن ۾، سڀ موٽرون اندروني هيون؛ ۽ جڏهن اهي ٿوري مفاصلي تي هونديون هيون، تڏهن انهن جو آواز ننڊ آڻيندڙ هوندو هو، اونهاري جي ننڊ جو هڪ جزو. اهي هڪ سلنڊر ۽ ٻه سلنڊر انجڻون هيون، پر اهي سڀ ڍنڍ تي ننڊ جهڙو آواز ڪنديون هيون. هڪ سلنڊر وارا ڌڙڪندا ۽ ڦڙڦڙائيندا هئا، ۽ ٻن سلنڊرن وارا گُرگُراتا هئا ۽ گُرگُراتا هئا، ۽ اهو به هڪ خاموش آواز هو. پر هاڻي سڀني ڪئمپ وارن وٽ ٻاهرين موٽرون هيون. ڏينهن ۾، گرم صبحن ۾، اهي موٽرون هڪ چڙچڙو، ڪاوڙيل آواز ڪنديون هيون؛ رات جو، خاموش شام ۾ جڏهن شام جي آخري روشني پاڻيءَ کي روشن ڪندي هئي، اهي ڪنهن جي ڪنن جي چوڌاري مڇرن وانگر رڙيون ڪنديون هيون.",
+            "ur": "اب جو ایک چیز واقعی غلط تھی، وہ اس جگہ کی آواز تھی، باہر والی موٹروں کی ایک انجان، بے چین آواز۔ یہ وہ سر تھا جو کھٹکتا تھا، وہ ایک چیز جو کبھی کبھی وہم توڑ دیتی اور سالوں کو چلا دیتی تھی۔ ان دوسری گرمیوں میں، تمام موٹریں اندرونی ہوتی تھیں؛ اور جب وہ تھوڑی دوری پر ہوتی تھیں، تو ان کی آواز نیند لانے والی ہوتی تھی، گرمیوں کی نیند کا ایک جزو۔ وہ ایک سلنڈر اور دو سلنڈر انجن تھے، لیکن وہ سب جھیل پر نیند جیسی آواز کرتے تھے۔ ایک سلنڈر والے دھڑکتے اور پھڑپھڑاتے تھے، اور دو سلنڈر والے گرگُراتے اور گرگُراتے تھے، اور وہ بھی ایک خاموش آواز تھی۔ لیکن اب تمام کیمپ والوں کے پاس باہر والی موٹریں تھیں۔ دن میں، گرم صبحوں میں، یہ موٹریں چڑچڑی، غصے والی آواز کرتی تھیں؛ رات کو، خاموش شام میں جب شام کی آخری روشنی پانی کو روشن کرتی تھی، وہ کسی کے کانوں کے گرد مچھروں کی طرح بھنبھناتی تھیں۔"
+          },
+          {
+            "en": "We had a good week at the camp. The sun shone endlessly, day after day. We would be tired at night and lie down in the accumulated heat of the little bedrooms after the long hot day and the breeze would stir almost imperceptibly outside and the smell of the swamp drift in through the rusty screens. Sleep would come easily and, in the morning, the red squirrel would be on the roof, tapping out his happy routine. I kept remembering everything, lying in bed in the mornings.",
+            "sd": "اسان ڪئمپ ۾ سٺو هفتو گذاريو. سج لڳاتار چمڪندو رھيو، ڏينهن کان پوءِ ڏينهن. اسان رات جو ٿڪجي ويندا هئاسين ۽ ڊگھي گرم ڏينهن کان پوءِ ننڍڙن ڪمرن جي گڏ ٿيل گرميءَ ۾ ليٽي پوندا هئاسين ۽ هوا ٻاهر لڳ ڀڳ محسوس نه ٿيندڙ نموني سان هلندي هئي ۽ دلدل جي بوءِ زنگ لڳل درين مان اندر ايندي هئي. ننڊ آسانيءَ سان ايندي هئي ۽، صبح جو، ڳاڙهي گليري ڇت تي هوندي هئي، پنهنجي خوشيءَ واري معمول کي ٿُٻڪاريندي. مان صبح جو بستري ۾ ليٽي، هر شيءِ ياد ڪندو رھندو هئس.",
+            "ur": "ہم نے کیمپ میں اچھا ہفتہ گزارا۔ سورج مسلسل چمکتا رہا، دن بہ دن۔ ہم رات کو تھک جاتے اور لمبے گرم دن کے بعد چھوٹے کمروں کی جمع شدہ گرمی میں لیٹ جاتے اور ہوا باہر تقریباً محسوس نہ ہونے والے انداز میں چلتی اور دلدل کی بو زنگ لگی کھڑکیوں سے اندر آتی تھی۔ نیند آسانی سے آتی تھی اور، صبح کو، سرخ گلہری چھت پر ہوتی تھی، اپنا خوشی والا معمول تھپتھپاتی ہوئی۔ میں صبح بستر میں لیٹا، ہر چیز یاد کرتا رہتا تھا۔"
+          }
+        ],
+        "section": "2.1",
+        "unit": 2,
+        "unitTitle": "Preservation of Nature"
+      },
+      {
+        "unit": 3,
+        "unitTitle": "Managing Change",
+        "lesson": "The Necklace",
+        "section": "3.1",
+        "bookPages": "36-39",
+        "paragraphs": [
+          {
+            "en": "Mathilde was a pretty, charming, middle-class girl. She was married to Loisel, a clerk, who worked in the Ministry of Education. Though born and married in a modest family, she always daydreamed about being rich. She was unhappy because she couldn't afford fine clothes and couldn't attend grand parties given and attended by the elite of the city. She always dreamt of owning a large collection of fancy clothes and expensive jewellery. But, of course, she couldn't afford them.",
+            "sd": "ميتھلڈ هڪ سهڻي، دلڪش، وچولي طبقي جي ڇوڪري هئي. هوءَ لويزل سان پرڻيل هئي، جيڪو هڪ ڪلارڪ هو ۽ تعليم واري وزارت ۾ ڪم ڪندو هو. جيتوڻيڪ هوءَ هڪ سادي خاندان ۾ ڄائي ۽ پرڻي هئي، پر هوءَ هميشه امير ٿيڻ جا خواب ڏسندي هئي. هوءَ ناخوش هئي، ڇاڪاڻ ته هوءَ قيمتي ڪپڙا خريد ڪري نه سگھندي هئي ۽ شهر جي وڏن ماڻهن جي شاندار دعوتن ۾ وڃي نه سگھندي هئي. هوءَ هميشه شاندار ڪپڙن ۽ قيمتي زيورن جو وڏو ذخيرو رکڻ جا خواب ڏسندي هئي. پر، ظاهر آهي ته هوءَ اهي خريد ڪري نه سگھندي هئي.",
+            "ur": "میتھلڈ ایک خوبصورت، دلکش، متوسط طبقے کی لڑکی تھی۔ اس کی شادی لویزل سے ہوئی تھی، جو ایک کلرک تھا اور وزارتِ تعلیم میں کام کرتا تھا۔ اگرچہ وہ ایک سادہ خاندان میں پیدا ہوئی اور وہیں اس کی شادی ہوئی، لیکن وہ ہمیشہ امیر ہونے کے خواب دیکھتی تھی۔ وہ ناخوش تھی کیونکہ وہ قیمتی کپڑے خرید نہیں سکتی تھی اور شہر کے بڑے لوگوں کی شاندار دعوتوں میں شرکت نہیں کر سکتی تھی۔ وہ ہمیشہ شاندار کپڑوں اور قیمتی زیورات کا بڑا ذخیرہ رکھنے کے خواب دیکھتی تھی۔ لیکن ظاہر ہے کہ وہ انہیں خرید نہیں سکتی تھی۔"
+          },
+          {
+            "en": "One evening, her husband handed her an invitation. Excited, she opened it and found an invitation to a grand party at the Ministerial Mansion.",
+            "sd": "هڪ شام، هن جي مڙس کيس هڪ دعوت نامو ڏنو. خوشيءَ سان، هن اهو کوليو ۽ ڏٺو ته اهو وزارتي محل ۾ ٿيندڙ هڪ شاندار دعوت جو دعوت نامو هو.",
+            "ur": "ایک شام اس کے شوہر نے اسے ایک دعوت نامہ دیا۔ خوش ہو کر اس نے اسے کھولا اور دیکھا کہ یہ وزارتی محل میں ہونے والی ایک شاندار دعوت کا دعوت نامہ تھا۔"
+          },
+          {
+            "en": "She tossed it aside, saying, \"What good is that to me?\"",
+            "sd": "هن اهو هڪ پاسي اڇلائي ڇڏيو ۽ چيو، “مون کي ان مان ڇا فائدو؟”",
+            "ur": "اس نے اسے ایک طرف پھینک دیا اور کہا، “مجھے اس سے کیا فائدہ؟”"
+          },
+          {
+            "en": "\"I thought you'd be thrilled since you never had a chance to go out. Everybody wants to go, but few clerks can. The most important people will be there.\"",
+            "sd": "“مون سمجھيو ته تون خوش ٿيندين، ڇاڪاڻ ته توکي ڪڏهن به ٻاهر وڃڻ جو موقعو نه مليو آهي. هرڪو وڃڻ چاهي ٿو، پر ٿورا ڪلارڪ وڃي سگھن ٿا. اتي سڀ کان اهم ماڻهو هوندا.”",
+            "ur": "“میں نے سوچا تھا کہ تم خوش ہو جاؤ گی، کیونکہ تمہیں کبھی باہر جانے کا موقع نہیں ملا۔ سب جانا چاہتے ہیں، لیکن چند کلرک ہی جا سکتے ہیں۔ وہاں سب سے اہم لوگ ہوں گے۔”"
+          },
+          {
+            "en": "She gave him a sour look and cried, \"What do you think I would wear?\"",
+            "sd": "هن کيس ناراضگيءَ واري نظر سان ڏٺو ۽ رڙ ڪري چيو، “تنهنجي خيال ۾ مان ڇا پائيندس؟”",
+            "ur": "اس نے اسے ناراضی بھری نظر سے دیکھا اور رو کر بولی، “تمہارے خیال میں میں کیا پہنوں گی؟”"
+          },
+          {
+            "en": "He hadn't thought about that. \"Why, the dress you wear to the theatre. That looks quite nice.\"",
+            "sd": "هن ان بابت سوچيو ئي نه هو. “ڇو، اهو لباس پاءُ جيڪو تون ٿيٽر ۾ پائيندي آهين. اهو تمام سهڻو لڳي ٿو.”",
+            "ur": "اس نے اس بارے میں سوچا ہی نہیں تھا۔ “کیوں، وہ لباس پہنو جو تم تھیٹر میں پہنتی ہو۔ وہ بہت اچھا لگتا ہے۔”"
+          },
+          {
+            "en": "He was surprised when she burst into tears. He gasped, \"Why, what's the matter?\" Using all her willpower, she stopped crying. \"Oh, nothing. I don't have any party dress, so I can't go to that party.\"",
+            "sd": "هو حيران ٿي ويو جڏهن هوءَ روئڻ لڳي. هن حيرت سان چيو، “ڇو، ڇا ٿيو آهي؟” هن پنهنجي سموري همت سان روئڻ بند ڪيو. “اوه، ڪجهه به نه. مون وٽ دعوت وارو ڪو به لباس نه آهي، تنهنڪري مان ان دعوت ۾ وڃي نه ٿي سگھان.”",
+            "ur": "وہ حیران رہ گیا جب وہ رونے لگی۔ اس نے حیرت سے کہا، “کیوں، کیا ہوا ہے؟” اس نے اپنی ساری ہمت سے رونا بند کر دیا۔ “اوہ، کچھ بھی نہیں۔ میرے پاس دعوت کا کوئی لباس نہیں ہے، اس لیے میں اس دعوت میں نہیں جا سکتی۔”"
+          },
+          {
+            "en": "He asked her, \"How much would the right outfit cost?\"",
+            "sd": "هن کانئس پڇيو، “صحيح لباس تي ڪيترو خرچ ايندو؟”",
+            "ur": "اس نے اس سے پوچھا، “صحیح لباس پر کتنا خرچ آئے گا؟”"
+          },
+          {
+            "en": "She thought it over for several seconds. She thought of her allowance and about how much her husband might give her.",
+            "sd": "هن ڪجهه سيڪنڊن تائين ان بابت سوچيو. هن پنهنجي خرچيءَ بابت سوچيو ۽ ان بابت به ته هن جو مڙس کيس ڪيترو ڏيندو.",
+            "ur": "اس نے کچھ سیکنڈ تک اس بارے میں سوچا۔ اس نے اپنے خرچے کے بارے میں سوچا اور اس بارے میں بھی کہ اس کا شوہر اسے کتنا دے گا۔"
+          },
+          {
+            "en": "Finally, she answered, \"I'm not exactly sure. Maybe I could manage with four hundred francs.\"",
+            "sd": "آخر ۾، هن جواب ڏنو، “مون کي پڪ سان خبر نه آهي. شايد مان چئن سون فرانڪن سان ڪم هلائي سگھان ٿي.”",
+            "ur": "آخر میں اس نے جواب دیا، “مجھے ٹھیک سے معلوم نہیں۔ شاید میں چار سو فرانک میں گزارہ کر لوں۔”"
+          },
+          {
+            "en": "He was saddened because he'd saved that much for a rifle and planned to go hunting with friends.",
+            "sd": "هو اداس ٿي ويو، ڇاڪاڻ ته هن ايترا پئسا هڪ بندوق لاءِ بچايا هئا ۽ دوستن سان شڪار تي وڃڻ جو رٿيو هو.",
+            "ur": "وہ اداس ہو گیا، کیونکہ اس نے اتنے پیسے ایک بندوق کے لیے بچائے تھے اور دوستوں کے ساتھ شکار پر جانے کا ارادہ کیا تھا۔"
+          },
+          {
+            "en": "However, he said, \"All right. I'll give you four hundred francs.\"",
+            "sd": "پر، هن چيو، “ٺيڪ آهي. مان توکي چئن سو فرانڪ ڏيندس.”",
+            "ur": "لیکن اس نے کہا، “ٹھیک ہے۔ میں تمہیں چار سو فرانک دوں گا۔”"
+          },
+          {
+            "en": "As the party neared, Mathilde seemed sad. She was upset although her outfit was ready. One evening her husband asked, \"What's the matter?\"",
+            "sd": "جيئن دعوت ويجهي آئي، ميتھلڈ اداس نظر اچڻ لڳي. هن جو لباس تيار هئڻ باوجود هوءَ پريشان هئي. هڪ شام هن جي مڙس پڇيو، “ڇا ٿيو آهي؟”",
+            "ur": "جیسے جیسے دعوت قریب آئی، میتھلڈ اداس نظر آنے لگی۔ اس کا لباس تیار ہونے کے باوجود وہ پریشان تھی۔ ایک شام اس کے شوہر نے پوچھا، “کیا بات ہے؟”"
+          },
+          {
+            "en": "She answered, \"I'm embarrassed not to have any jewellery.\" Her husband said, \"Borrow some from your rich friend Mme. Forestier. You're good enough friends to do that.\"",
+            "sd": "هن جواب ڏنو، “مون کي شرم ٿو اچي ته مون وٽ ڪو به زيور نه آهي.” هن جي مڙس چيو، “پنهنجي امير ساهيلي ميڈم فورسٽيئر کان ڪجهه اوڌارو وٺ. تون هن جي ايتري سٺي دوست آهين جو اهو ڪري سگھين ٿي.”",
+            "ur": "اس نے جواب دیا، “مجھے شرم آتی ہے کہ میرے پاس کوئی زیور نہیں ہے۔” اس کے شوہر نے کہا، “اپنی امیر سہیلی میڈم فورسٹیئر سے کچھ ادھار لو۔ تم اس کی اتنی اچھی دوست ہو کہ یہ کر سکتی ہو۔”"
+          },
+          {
+            "en": "She said, \"Why didn't I think of that!\"",
+            "sd": "هن چيو، “مون کي اهو خيال ڇو نه آيو!”",
+            "ur": "اس نے کہا، “مجھے یہ خیال کیوں نہ آیا!”"
+          },
+          {
+            "en": "The next day she went to her friend, who offered her a large jewellery box, and said, \"Pick out something, my dear.\"",
+            "sd": "ٻئي ڏينهن هوءَ پنهنجي ساهيلي وٽ وئي، جنهن کيس زيورن جو هڪ وڏو دٻو ڏيکاريو ۽ چيو، “منهنجي پياري، ڪجهه چونڊي وٺ.”",
+            "ur": "اگلے دن وہ اپنی سہیلی کے پاس گئی، جس نے اسے زیورات کا ایک بڑا ڈبہ پیش کیا اور کہا، “میری پیاری، کچھ چن لو۔”"
+          },
+          {
+            "en": "Mathilde found a diamond necklace. Her heart beat faster, and her hands shook when she picked it up. \"Could I borrow this one?\" she asked.",
+            "sd": "ميتھلڈ کي هيرن جو هار مليو. هن جي دل تيزيءَ سان ڌڙڪڻ لڳي، ۽ جڏهن هن اهو کنيو ته هن جا هٿ ڏڪڻ لڳا. هن پڇيو، “ڇا مان هي اوڌارو وٺي سگھان ٿي؟”",
+            "ur": "میتھلڈ کو ہیروں کا ہار ملا۔ اس کا دل تیزی سے دھڑکنے لگا، اور جب اس نے اسے اٹھایا تو اس کے ہاتھ کانپنے لگے۔ اس نے پوچھا، “کیا میں یہ ادھار لے سکتی ہوں؟”"
+          },
+          {
+            "en": "\"Why, of course.\"",
+            "sd": "“ڇو نه، ضرور.”",
+            "ur": "“کیوں نہیں، ضرور۔”"
+          },
+          {
+            "en": "She hugged her friend and took with her the necklace.",
+            "sd": "هن پنهنجي ساهيليءَ کي ڀاڪر پاتو ۽ هار پاڻ سان گڏ وٺي وئي.",
+            "ur": "اس نے اپنی سہیلی کو گلے لگایا اور ہار اپنے ساتھ لے گئی۔"
+          },
+          {
+            "en": "Finally, the party night came. Mathilde was the centre of attention at the party. The prettiest one there; she was stylish, warm, smiling, and very happy. Everybody, including the minister, noticed her.",
+            "sd": "آخرڪار، دعوت واري رات اچي وئي. ميتھلڈ دعوت ۾ سڀني جي توجه جو مرڪز هئي. هوءَ اتي سڀ کان سهڻي هئي؛ هوءَ شاندار، گرمجوش، مسڪرائيندڙ، ۽ تمام خوش هئي. هرڪو، وزير سميت، کيس ڏٺو.",
+            "ur": "آخر کار دعوت کی رات آ گئی۔ میتھلڈ دعوت میں سب کی توجہ کا مرکز تھی۔ وہ وہاں سب سے خوبصورت تھی؛ وہ شاندار، گرم جوش، مسکراتی ہوئی اور بہت خوش تھی۔ وزیر سمیت ہر شخص نے اسے دیکھا۔"
+          },
+          {
+            "en": "She danced joyfully and had a wonderful time there. Around four o'clock the Mathilde took a shabby cab and returned home with her husband.",
+            "sd": "هن خوشيءَ سان ناچيو ۽ اتي ڏاڍو سٺو وقت گذاريو. چئن وڳي ڌاري ميتھلڈ هڪ پراڻي گاڏي ورتي ۽ پنهنجي مڙس سان گڏ گھر موٽي آئي.",
+            "ur": "اس نے خوشی سے ناچا اور وہاں بہت اچھا وقت گزارا۔ تقریباً چار بجے میتھلڈ ایک پرانی گاڑی لے کر اپنے شوہر کے ساتھ گھر واپس آئی۔"
+          },
+          {
+            "en": "Before she went to bed, she thought of giving herself the last look in the mirror with the jewellery and fancy dress. She noticed that the borrowed diamond necklace was gone! She cried out.",
+            "sd": "سمهڻ کان اڳ، هن آئيني ۾ زيورن ۽ شاندار لباس سان پاڻ کي آخري ڀيرو ڏسڻ جو سوچيو. هن ڏٺو ته اوڌارو ورتل هيرن جو هار گم ٿي ويو آهي! هوءَ رڙ ڪري اٿي.",
+            "ur": "سونے سے پہلے اس نے آئینے میں زیورات اور شاندار لباس کے ساتھ اپنے آپ کو آخری بار دیکھنے کا سوچا۔ اس نے دیکھا کہ ادھار لیا ہوا ہیروں کا ہار غائب تھا! وہ چیخ اٹھی۔"
+          },
+          {
+            "en": "Her husband said, \"What's wrong?\"",
+            "sd": "هن جي مڙس چيو، “ڇا ٿيو آهي؟”",
+            "ur": "اس کے شوہر نے کہا، “کیا ہوا ہے؟”"
+          },
+          {
+            "en": "Upset, she turned toward him. \"I . . . I . . . I don't have my friend's necklace.\"",
+            "sd": "پريشان ٿي، هوءَ هن ڏانهن موٽي. “مان . . . مان . . . مون وٽ منهنجي ساهيليءَ جو هار نه آهي.”",
+            "ur": "پریشان ہو کر وہ اس کی طرف مڑی۔ “میں . . . میں . . . میرے پاس میری سہیلی کا ہار نہیں ہے۔”"
+          },
+          {
+            "en": "\"That's impossible,\" he shouted. They searched everywhere in the apartment but found nothing. He retraced their steps, searching for hours.",
+            "sd": "“اهو ناممڪن آهي،” هن رڙ ڪري چيو. هنن اپارٽمينٽ ۾ هر هنڌ ڳوليو، پر ڪجهه به نه مليو. هو ڪلاڪن تائين ڳوليندو ساڳي واٽ تي واپس ويو.",
+            "ur": "“یہ ناممکن ہے،” وہ چلایا۔ انہوں نے اپارٹمنٹ میں ہر جگہ تلاش کیا، لیکن کچھ نہ ملا۔ وہ گھنٹوں تک تلاش کرتا ہوا اسی راستے پر واپس گیا۔"
+          },
+          {
+            "en": "Her husband came in around seven o'clock in the morning. He'd had no luck finding the necklace.",
+            "sd": "هن جو مڙس صبح جو ست وڳي ڌاري اندر آيو. کيس هار ڳولڻ ۾ ڪا به ڪاميابي نه ملي هئي.",
+            "ur": "اس کا شوہر صبح تقریباً سات بجے اندر آیا۔ اسے ہار تلاش کرنے میں کوئی کامیابی نہیں ملی تھی۔"
+          },
+          {
+            "en": "By the end of the week, they had given up all hope. Loisel was dejected and horrified. He said, \"We must replace the necklace.\"",
+            "sd": "هفتي جي آخر تائين، هنن سڀ اميدون ڇڏي ڏنيون. لويزل اداس ۽ حيران هو. هن چيو، “اسان کي هار بدران ٻيو هار ڏيڻو پوندو.”",
+            "ur": "ہفتے کے آخر تک انہوں نے تمام امیدیں چھوڑ دی تھیں۔ لویزل اداس اور پریشان تھا۔ اس نے کہا، “ہمیں ہار کے بدلے دوسرا ہار دینا ہوگا۔”"
+          },
+          {
+            "en": "They found a necklace exactly like the first. It cost forty thousand francs, but they could get it for thirty-six.",
+            "sd": "هنن کي پهرين هار جهڙو ئي ٻيو هار مليو. ان جي قيمت چاليه هزار فرانڪ هئي، پر هو اهو ڇٽيهه هزار ۾ خريد ڪري سگھيا.",
+            "ur": "انہیں پہلے ہار جیسا ہی دوسرا ہار مل گیا۔ اس کی قیمت چالیس ہزار فرانک تھی، لیکن وہ اسے چھتیس ہزار میں لے سکتے تھے۔"
+          },
+          {
+            "en": "Loisel had eighteen thousand francs he had inherited from his father. He borrowed the rest. He got a thousand francs from one, four hundred from another—a hundred here, sixty there. He borrowed the rest of the money from moneylenders on very high interest.",
+            "sd": "لويزل وٽ ارڙهن هزار فرانڪ هئا جيڪي هن پنهنجي پيءُ کان ورثي ۾ مليا هئا. هن باقي پئسا اوڌارا ورتا. هن هڪ کان هڪ هزار فرانڪ ورتا، ٻئي کان چئن سو — هتي سو، اتي سٺ. هن باقي پئسا قرض ڏيندڙن کان تمام وڏي سود تي اوڌارا ورتا.",
+            "ur": "لویزل کے پاس اٹھارہ ہزار فرانک تھے جو اسے اپنے والد سے ورثے میں ملے تھے۔ اس نے باقی پیسے ادھار لیے۔ اسے ایک سے ایک ہزار فرانک ملے، دوسرے سے چار سو — یہاں سو، وہاں ساٹھ۔ اس نے باقی پیسے بہت زیادہ سود پر ساہوکاروں سے ادھار لیے۔"
+          },
+          {
+            "en": "When Mathilde returned the necklace, her friend said coldly, \"You should have returned it sooner. I might have needed it.\" Mme. Forestier didn't open the case.",
+            "sd": "جڏهن ميتھلڈ هار واپس ڪيو، تڏهن هن جي ساهيليءَ ٿڌي لهجي ۾ چيو، “توکي اهو اڳ ۾ واپس ڪرڻو هو. شايد مون کي ان جي ضرورت پوي ها.” ميڈم فورسٽيئر دٻو نه کوليو.",
+            "ur": "جب میتھلڈ نے ہار واپس کیا تو اس کی سہیلی نے سرد لہجے میں کہا، “تمہیں یہ پہلے واپس کرنا چاہیے تھا۔ شاید مجھے اس کی ضرورت پڑ جاتی۔” میڈم فورسٹیئر نے ڈبہ نہیں کھولا۔"
+          },
+          {
+            "en": "Mathilde bravely faced being poor. That debt had to be paid, and she would pay it. She let her maid go, and she and her husband moved to a small and cheap apartment.",
+            "sd": "ميتھلڈ بهادريءَ سان غريبيءَ کي منهن ڏنو. اهو قرض ادا ڪرڻو هو، ۽ هوءَ اهو ادا ڪندي. هن پنهنجي نوڪرياڻيءَ کي موڪل ڏئي ڇڏي، ۽ هوءَ ۽ هن جو مڙس هڪ ننڍي ۽ سستي اپارٽمينٽ ۾ هليا ويا.",
+            "ur": "میتھلڈ نے بہادری سے غربت کا سامنا کیا۔ وہ قرض ادا کرنا تھا، اور وہ اسے ادا کرے گی۔ اس نے اپنی نوکرانی کو چھٹی دے دی، اور وہ اور اس کا شوہر ایک چھوٹے اور سستے اپارٹمنٹ میں چلے گئے۔"
+          },
+          {
+            "en": "She cooked and did housework on her own. She scrubbed the laundry, took out the garbage, carried up water, and dressed like a peasant. She watched every coin she spent. She bargained for food with the fruit dealer, the grocer, and the butcher, and they insulted her.",
+            "sd": "هوءَ پاڻ ئي کاڌو پچائيندي هئي ۽ گھر جو ڪم ڪندي هئي. هوءَ ڪپڙا رگڙي ڌوئيندي هئي، ڪچرو ٻاهر ڪڍندي هئي، پاڻي مٿي کڻي ايندي هئي، ۽ هڪ غريب عورت وانگر لباس پائيندي هئي. هوءَ خرچ ڪيل هر پئسي تي نظر رکندي هئي. هوءَ ميوو وڪڻندڙ، دڪاندار، ۽ قصاب سان کاڌي جي قيمت تي سودو ڪندي هئي، ۽ هو هن جي بي عزتي ڪندا هئا.",
+            "ur": "وہ خود کھانا پکاتی اور گھر کا کام کرتی تھی۔ وہ کپڑے رگڑ کر دھوتی، کچرا باہر نکالتی، پانی اوپر لاتی اور ایک غریب عورت کی طرح کپڑے پہنتی تھی۔ وہ خرچ کیے ہوئے ہر پیسے پر نظر رکھتی تھی۔ وہ پھل فروش، دکاندار اور قصاب سے کھانے کی قیمت پر سودا کرتی تھی، اور وہ اس کی بے عزتی کرتے تھے۔"
+          },
+          {
+            "en": "Her husband worked evenings as a bookkeeper, and at night he copied documents for five sous a page.",
+            "sd": "هن جو مڙس شام جو حساب ڪتاب جو ڪم ڪندو هو، ۽ رات جو هر صفحي جا پنج سو وٺي دستاويز نقل ڪندو هو.",
+            "ur": "اس کا شوہر شام کو حساب کتاب لکھنے کا کام کرتا تھا، اور رات کو ہر صفحے کے پانچ سو لے کر دستاویزات کی نقل کرتا تھا۔"
+          },
+          {
+            "en": "This lasted for ten years.",
+            "sd": "اهو ڏهه سالن تائين هلندو رھيو.",
+            "ur": "یہ دس سال تک چلتا رہا۔"
+          },
+          {
+            "en": "Finally, all the debts and interest were paid.",
+            "sd": "آخرڪار، سڀ قرض ۽ سود ادا ٿي ويا.",
+            "ur": "آخر کار تمام قرض اور سود ادا کر دیے گئے۔"
+          },
+          {
+            "en": "Mathilde looked like an old woman now. Sometimes, she'd remember when she had been so beautiful and admired.",
+            "sd": "ميتھلڈ هاڻي هڪ پوڙهي عورت وانگر لڳندي هئي. ڪڏهن ڪڏهن، کيس ياد ايندو هو جڏهن هوءَ ايتري سهڻي هئي ۽ سڀ هن کي ساراهيندا هئا.",
+            "ur": "میتھلڈ اب ایک بوڑھی عورت جیسی لگتی تھی۔ کبھی کبھی اسے یاد آتا تھا کہ وہ کبھی کتنی خوبصورت تھی اور سب اس کی تعریف کرتے تھے۔"
+          },
+          {
+            "en": "What if she hadn't lost the necklace? Who knows? How little there is between joy and misery!",
+            "sd": "جيڪڏهن هن هار نه وڃايو هجي ها ته ڇا ٿئي ها؟ ڪنهن کي خبر آهي؟ خوشي ۽ ڏک جي وچ ۾ ڪيترو نه ٿورو فرق آهي!",
+            "ur": "اگر اس نے ہار نہ کھویا ہوتا تو کیا ہوتا؟ کون جانتا ہے؟ خوشی اور دکھ کے درمیان کتنا کم فاصلہ ہے!"
+          },
+          {
+            "en": "Then one Sunday, she went for a walk. She saw a woman strolling with a child. It was Mme. Forestier. She still looked young and beautiful.",
+            "sd": "پوءِ هڪ آچر تي، هوءَ گهمڻ لاءِ وئي. هن هڪ عورت کي ٻار سان گڏ آهستي هلندي ڏٺو. اها ميڈم فورسٽيئر هئي. هوءَ اڃا به جوان ۽ سهڻي نظر ايندي هئي.",
+            "ur": "پھر ایک اتوار کو وہ سیر کے لیے گئی۔ اس نے ایک عورت کو بچے کے ساتھ آہستہ چلتے دیکھا۔ یہ میڈم فورسٹیئر تھی۔ وہ اب بھی جوان اور خوبصورت نظر آتی تھی۔"
+          },
+          {
+            "en": "Mme. Loisel went toward her friend saying, \"Hello, Jeanne.\" The other was surprised to be spoken to so familiarly. \"But . . . madam . . . I don't recognize . . . You must be mistaken.\" \"No, I'm Mathilde Loisel.\"",
+            "sd": "ميڈم لويزل پنهنجي ساهيليءَ ڏانهن وئي ۽ چيو، “سلام، ژان.” ٻي عورت حيران ٿي وئي ته هن سان ايتري واقفيت سان ڳالهايو ويو آهي. “پر . . . ميڊم . . . مان توکي نٿي سڃاڻان . . . توکي ضرور غلطي لڳي آهي.” “نه، مان ميتھلڈ لويزل آهيان.”",
+            "ur": "میڈم لویزل اپنی سہیلی کی طرف گئی اور کہا، “ہیلو، ژان۔” دوسری حیران رہ گئی کہ اس سے اتنی بے تکلفی سے بات کی گئی ہے۔ “لیکن . . . میڈم . . . میں آپ کو پہچانتی نہیں . . . آپ کو ضرور غلط فہمی ہوئی ہے۔” “نہیں، میں میتھلڈ لویزل ہوں۔”"
+          },
+          {
+            "en": "Her friend cried out, \"Oh, my dear Mathilde! How you've changed!\"",
+            "sd": "هن جي ساهيليءَ رڙ ڪري چيو، “اوه، منهنجي پياري ميتھلڈ! تون ڪيتري بدلجي وئي آهين!”",
+            "ur": "اس کی سہیلی چیخ اٹھی، “اوہ، میری پیاری میتھلڈ! تم کتنی بدل گئی ہو!”"
+          },
+          {
+            "en": "\"Yes, I've had a hard time. And plenty of problems—and all because of you!\"",
+            "sd": "“ها، مون کي ڏاڍي تڪليف ٿي آهي ۽ تمام وڏا مسئلا پيش آيا — ۽ اهي سڀ تنهنجي ڪري!”",
+            "ur": "“ہاں، مجھے بہت تکلیف اٹھانی پڑی ہے۔ اور بہت سی مشکلات — اور یہ سب تمہاری وجہ سے!”"
+          },
+          {
+            "en": "\"Of me . . . what do you mean?\" Mme. Forestier asked.",
+            "sd": "“منهنجي ڪري . . . تنهنجو ڇا مطلب آهي؟” ميڈم فورسٽيئر پڇيو.",
+            "ur": "“میری وجہ سے . . . تمہارا کیا مطلب ہے؟” میڈم فورسٹیئر نے پوچھا۔"
+          },
+          {
+            "en": "\"Do you remember the diamond necklace I borrowed?\" Mathilde asked.",
+            "sd": "“ڇا توکي اهو هيرن جو هار ياد آهي جيڪو مون اوڌارو ورتو هو؟” ميتھلڈ پڇيو.",
+            "ur": "“کیا تمہیں وہ ہیروں کا ہار یاد ہے جو میں نے ادھار لیا تھا؟” میتھلڈ نے پوچھا۔"
+          },
+          {
+            "en": "\"Yes. What about it?\" Mme. Forestier asked in surprise.",
+            "sd": "“ها. ان جو ڇا ٿيو؟” ميڈم فورسٽيئر حيرت سان پڇيو.",
+            "ur": "“ہاں۔ اس کا کیا ہوا؟” میڈم فورسٹیئر نے حیرت سے پوچھا۔"
+          },
+          {
+            "en": "\"I lost it,\" Mathilde said.",
+            "sd": "“مون اهو وڃائي ڇڏيو،” ميتھلڈ چيو.",
+            "ur": "“میں نے اسے کھو دیا،” میتھلڈ نے کہا۔"
+          },
+          {
+            "en": "\"But you returned it,\" Mme. Forestier said.",
+            "sd": "“پر تو اهو واپس ڪيو هو،” ميڈم فورسٽيئر چيو.",
+            "ur": "“لیکن تم نے اسے واپس کر دیا تھا،” میڈم فورسٹیئر نے کہا۔"
+          },
+          {
+            "en": "\"I bought another just like it for thirty six thousand francs, and we have been paying for it for ten years. Well, it's over now, and I am glad,\" Mathilde said.",
+            "sd": "“مون ان جهڙو ٻيو هار ڇٽيهه هزار فرانڪن ۾ خريد ڪيو، ۽ اسان ڏهه سالن کان ان جا پئسا ڏئي رھيا آهيون. خير، هاڻي اهو ختم ٿي ويو آهي، ۽ مان خوش آهيان،” ميتھلڈ چيو.",
+            "ur": "“میں نے اس جیسا دوسرا ہار چھتیس ہزار فرانک میں خریدا، اور ہم دس سال سے اس کے پیسے ادا کر رہے ہیں۔ خیر، اب یہ ختم ہو گیا ہے، اور میں خوش ہوں،” میتھلڈ نے کہا۔"
+          },
+          {
+            "en": "Mme. Forestier was surprised. \"You bought a diamond necklace to replace mine!\"",
+            "sd": "ميڈم فورسٽيئر حيران ٿي وئي. “تون منهنجي هار جي جاءِ تي هيرن جو هار خريد ڪيو!”",
+            "ur": "میڈم فورسٹیئر حیران رہ گئی۔ “تم نے میرے ہار کے بدلے ہیروں کا ہار خریدا!”"
+          },
+          {
+            "en": "\"Yes. You never noticed, then? They were quite alike.\" Mathilde smiled with pride and simple joy.",
+            "sd": "“ها. پوءِ توکي ڪڏهن به خبر نه پئي؟ اهي بلڪل هڪ جهڙا هئا.” ميتھلڈ فخر ۽ سادي خوشيءَ سان مسڪرائي.",
+            "ur": "“ہاں۔ تو پھر تمہیں کبھی پتہ نہیں چلا؟ وہ بالکل ایک جیسے تھے۔” میتھلڈ فخر اور سادہ خوشی سے مسکرائی۔"
+          },
+          {
+            "en": "Mme. Forestier, quite overcome, clasped her by the hands. \"Oh, my poor Mathilde. Mine was fake. At most, it was worth only five hundred francs!\"",
+            "sd": "ميڈم فورسٽيئر، بلڪل پريشان ٿي، هن جا هٿ مضبوطيءَ سان پڪڙيا. “اوه، منهنجا غريب ميتھلڈ. منهنجو هار نقل هو. وڌ ۾ وڌ، ان جي قيمت فقط پنج سو فرانڪ هئي!”",
+            "ur": "میڈم فورسٹیئر، بہت متاثر ہو کر، اس کے ہاتھ مضبوطی سے پکڑ لیے۔ “اوہ، میری غریب میتھلڈ۔ میرا ہار نقلی تھا۔ زیادہ سے زیادہ اس کی قیمت صرف پانچ سو فرانک تھی!”"
+          }
+        ]
+      },
+      {
+        "bookPages": "56-58",
+        "lesson": "Technological Revolution",
+        "paragraphs": [
+          {
+            "en": "In this new global economy, technology is the major driving force of both economic growth and improved quality of life. It is now the \"technological revolution\" that is driving innovation and enabling billions of people to live better and safer lives. Technology is the key enabler of better education, health care, efficient environment, safer and secure communities and nations. Many advances in the technology depend on hardware innovations made possible by continued advancement in materials technology. Advancements in technologies have occurred throughout history—from Guttenberg's invention of moveable type to the telephone and mobile phone — making it easier and cheaper to develop, manipulate, organize, transmit, store, and act on. And with these breakthroughs, optimists heralded a new era. Many innovations arose after the World War II but information remained scarce and hard to use and transmit. The reason was that the processing of information relied on \"atoms\" to record or transmit information in analog form rather than the 'bits' (binary digits of '1s' for on and '0s' for off) used to record or transmit information in digital form. New generation Tele-pointers have offset pen and pencil and old models, while copier and printers recorded information on paper. Telephones translated voices into electric waves that could be played back on speakers. As the materials revolution brought with it a host of amazing new 'things': automobiles, planes, appliances, and telecom system, etc.",
+            "sd": "هن نئين عالمي معيشت ۾، ٽيڪنالاجي معاشي ترقي ۽ زندگيءَ جي بهتر معيار ٻنهي جي مکيه اڳواڻ قوت آهي. هاڻي اها 'ٽيڪنالاجيڪل انقلاب' آهي، جيڪا جدت کي اڳتي وڌائي رھي آهي ۽ اربين ماڻهن کي بهتر ۽ محفوظ زندگي گذارڻ جي قابل بڻائي رھي آهي. ٽيڪنالاجي بهتر تعليم، صحت جي سنڀال، ڪارائتي ماحول، محفوظ ۽ سلامت برادرين ۽ قومن جي مکيه مددگار آهي. ٽيڪنالاجيءَ ۾ ڪيتريون ئي ترقيون هارڊويئر جي جدتن تي ڀاڙين ٿيون، جيڪي مواد جي ٽيڪنالاجيءَ ۾ مسلسل ترقيءَ سبب ممڪن ٿيون آهن. ٽيڪنالاجيءَ ۾ ترقيون تاريخ جي هر دور ۾ ٿيون آهن — گٽنبرگ جي هلندڙ ٽائپ جي ايجاد کان وٺي ٽيليفون ۽ موبائيل فون تائين — جن معلومات کي تيار ڪرڻ، بدلائڻ، ترتيب ڏيڻ، موڪلڻ، محفوظ ڪرڻ ۽ ان تي عمل ڪرڻ کي آسان ۽ سستو بڻايو آهي. ۽ انهن ڪاميابين سان، پراميد ماڻهن هڪ نئين دور جي خوشخبري ڏني. ٻي عالمي جنگ کان پوءِ ڪيتريون ئي جدتون سامهون آيون، پر معلومات اڃا به گھٽ ۽ استعمال ڪرڻ ۽ موڪلڻ ۾ مشڪل هئي. ان جو سبب اهو هو ته معلومات جي ڪارروائي 'ايٽم' تي ڀاڙيندي هئي، جيڪا معلومات کي اينالاگ صورت ۾ رڪارڊ يا منتقل ڪندي هئي، نه ته 'بٽس' (بائنري عدد، '1' آن لاءِ ۽ '0' آف لاءِ) جيڪي معلومات کي ڊجيٽل صورت ۾ رڪارڊ يا منتقل ڪرڻ لاءِ استعمال ٿيندا هئا. نئين نسل جي ٽيلي پوائنٽرن قلم ۽ پينسل ۽ پراڻن ماڊلن جي جاءِ ورتي، جڏهن ته ڪاپيئر ۽ پرنٽر معلومات ڪاغذ تي رڪارڊ ڪندا هئا. ٽيليفون آوازن کي بجليءَ جي لهرن ۾ بدلائيندا هئا، جيڪي اسپيڪرن تي ٻيهر وڄائي سگھبيون هيون. جيئن مواد جي انقلاب سان گڏ حيرت انگيز نين 'شين' جو هڪ وڏو تعداد آيو: موٽر ڪارون، جهاز، بجليءَ جا اوزار، ۽ ٽيليڪام نظام، وغيره.",
+            "ur": "اس نئی عالمی معیشت میں، ٹیکنالوجی معاشی ترقی اور بہتر معیارِ زندگی دونوں کی اہم محرک قوت ہے۔ اب یہ 'ٹیکنالوجیکل انقلاب' ہے جو جدت کو آگے بڑھا رہا ہے اور اربوں لوگوں کو بہتر اور محفوظ زندگی گزارنے کے قابل بنا رہا ہے۔ ٹیکنالوجی بہتر تعلیم، صحت کی دیکھ بھال، موثر ماحول، محفوظ اور سلامت برادریوں اور قوموں کی اہم مددگار ہے۔ ٹیکنالوجی میں بہت سی ترقیات ہارڈویئر کی جدتوں پر منحصر ہیں، جو مواد کی ٹیکنالوجی میں مسلسل ترقی کی وجہ سے ممکن ہوئی ہیں۔ ٹیکنالوجی میں ترقیات تاریخ کے ہر دور میں ہوئی ہیں — گٹنبرگ کی متحرک ٹائپ کی ایجاد سے لے کر ٹیلیفون اور موبائل فون تک — جنہوں نے معلومات تیار کرنا، بدلنا، ترتیب دینا، بھیجنا، محفوظ کرنا اور ان پر عمل کرنا آسان اور سستا بنا دیا ہے۔ اور ان کامیابیوں کے ساتھ، پرامید لوگوں نے ایک نئے دور کی خوشخبری دی۔ دوسری عالمی جنگ کے بعد بہت سی جدتیں سامنے آئیں، لیکن معلومات اب بھی کم اور استعمال کرنے اور بھیجنے میں مشکل تھیں۔ اس کی وجہ یہ تھی کہ معلومات کی کارروائی 'ایٹم' پر منحصر تھی، جو معلومات کو اینالاگ صورت میں ریکارڈ یا منتقل کرتی تھی، نہ کہ 'بٹس' (بائنری ہندسے، '1' آن کے لیے اور '0' آف کے لیے) جو معلومات کو ڈیجیٹل صورت میں ریکارڈ یا منتقل کرنے کے لیے استعمال ہوتے تھے۔ نئی نسل کے ٹیلی پوائنٹروں نے قلم اور پنسل اور پرانے ماڈلوں کی جگہ لے لی، جبکہ کاپیئر اور پرنٹر معلومات کاغذ پر ریکارڈ کرتے تھے۔ ٹیلیفون آوازوں کو بجلی کی لہروں میں بدل دیتے تھے، جنہیں اسپیکروں پر دوبارہ بجایا جا سکتا تھا۔ جیسے مواد کے انقلاب کے ساتھ حیرت انگیز نئی 'چیزوں' کی ایک بڑی تعداد آئی: موٹر کاریں، جہاز، بجلی کے آلات، اور ٹیلی کام نظام، وغیرہ۔"
+          },
+          {
+            "en": "Presently technology can be used for an effective emergency response in time of accidents and natural disasters and creating public safety networks including cellular, wireless, satellite and existing analog television spectrum. Communities have used the Internet during an emergency to coordinate recovery efforts. Disasters forecasting and predictions, monitoring, risk assessment and damage are the open grounds for integrating technology and to respond and to manage natural phenomena such as hurricanes, wildfires, tsunamis, and landslides using satellite images, aerial photographs, and on-the-ground inspections. Progress in the technology has made possible over the past years to introduce significant changes in the integrated approach to the problems of natural disasters. Technology has helped to understand the mechanism of natural hazards of atmospherical, geological, hydrological, and biological origins and to analyse the transformation of these hazards into disasters.",
+            "sd": "اڄڪلهه ٽيڪنالاجي حادثن ۽ قدرتي آفتن جي وقت ۾ اثرائتي هنگامي جواب لاءِ ۽ سيلولر، وائرليس، سيٽلائيٽ ۽ موجوده اينالاگ ٽيليويزن اسپيڪٽرم سميت عوامي حفاظت جا نيٽ ورڪ ٺاهڻ لاءِ استعمال ڪري سگھجي ٿي. هنگامي جي دوران برادرين انٽرنيٽ کي بحاليءَ جي ڪوششن کي هم آهنگ ڪرڻ لاءِ استعمال ڪيو آهي. آفتن جي اڳڪٿي ۽ پيشنگوئي، نگراني، خطري جو جائزو ۽ نقصان، ٽيڪنالاجيءَ کي گڏ ڪرڻ ۽ قدرتي واقعن جهڙوڪ طوفان، جهنگ جي باهه، سونامي ۽ زمين جي ڪرڻ جهڙن واقعن کي منهن ڏيڻ ۽ انهن جو انتظام ڪرڻ لاءِ کليل ميدان آهن، جن لاءِ سيٽلائيٽ تصويرون، هوائي فوٽو ۽ زمين تي معائنو استعمال ڪيا وڃن ٿا. ٽيڪنالاجيءَ ۾ ترقيءَ سبب گذريل سالن ۾ قدرتي آفتن جي مسئلن ڏانهن گڏيل انداز ۾ اهم تبديليون آڻڻ ممڪن ٿيو آهي. ٽيڪنالاجيءَ قدرتي خطرن جي ميڪنزم کي سمجھڻ ۾ مدد ڪئي آهي، جيڪي هوائي، زميني، پاڻيءَ ۽ حياتياتي سببن جا آهن، ۽ انهن خطرن جي آفتن ۾ بدلجڻ جو تجزيو ڪرڻ ۾ مدد ڪئي آهي.",
+            "ur": "آج کل ٹیکنالوجی حادثات اور قدرتی آفات کے وقت میں موثر ہنگامی جواب کے لیے اور سیلولر، وائرلیس، سیٹلائٹ اور موجودہ اینالاگ ٹیلیویژن اسپیکٹرم سمیت عوامی حفاظت کے نیٹ ورک بنانے کے لیے استعمال کی جا سکتی ہے۔ ہنگامی صورتحال کے دوران برادریوں نے بحالی کی کوششوں کو مربوط کرنے کے لیے انٹرنیٹ استعمال کیا ہے۔ آفات کی پیش گوئی اور پیشین گوئی، نگرانی، خطرے کا جائزہ اور نقصان، ٹیکنالوجی کو یکجا کرنے اور طوفان، جنگل کی آگ، سونامی اور زمین کھسکنے جیسے قدرتی مظاہر کا جواب دینے اور ان کا انتظام کرنے کے لیے کھلے میدان ہیں، جن کے لیے سیٹلائٹ تصاویر، فضائی تصاویر اور زمینی معائنہ استعمال کیے جاتے ہیں۔ ٹیکنالوجی میں ترقی کی وجہ سے گزشتہ برسوں میں قدرتی آفات کے مسائل کے لیے مربوط انداز میں اہم تبدیلیاں لانا ممکن ہوا ہے۔ ٹیکنالوجی نے فضائی، زمینی، آبی اور حیاتیاتی اسباب کے قدرتی خطرات کے طریقہ کار کو سمجھنے اور ان خطرات کے آفات میں بدلنے کا تجزیہ کرنے میں مدد کی ہے۔"
+          },
+          {
+            "en": "For the adults, and youngest students, pre-schoolers, toddler's technology is interactive and engaging. Toys have integrated circuits in them to enable children to interact with them. It is technology that is introducing high-quality smart visuals, graphic apps, systems and devices in the mass market, gained such rapid and widespread adoption ever before. The benefits and promises of these ever time technologies are immense and central to improvements in our lives.",
+            "sd": "بالغن ۽ ننڍن شاگردن، پري اسڪول جي ٻارن ۽ ننڍڙن ٻارن لاءِ ٽيڪنالاجي دلچسپ ۽ مشغول ڪندڙ آهي. رانديڪن ۾ سرڪٽ لڳل آهن ته جيئن ٻار انهن سان رابطو ڪري سگھن. اها ٽيڪنالاجي ئي آهي جيڪا وڏي پيماني تي اعليٰ معيار جا هوشيار بصري منظر، گرافڪ ايپس، نظام ۽ اوزار متعارف ڪرائي رھي آهي، جن کي اڳ ڪڏهن به ايتري تيزيءَ ۽ وسيع پيماني تي قبول نه ڪيو ويو هو. انهن ٽيڪنالاجين جا فائدا ۽ واعدا تمام وڏا آهن ۽ اسان جي زندگين ۾ بهتريءَ لاءِ اهم آهن.",
+            "ur": "بالغوں اور چھوٹے طلبہ، پری اسکول کے بچوں اور ننھے بچوں کے لیے ٹیکنالوجی دلچسپ اور مشغول کن ہے۔ کھلونوں میں سرکٹ لگے ہوتے ہیں تاکہ بچے ان سے رابطہ کر سکیں۔ یہ ٹیکنالوجی ہی ہے جو بڑے پیمانے پر اعلیٰ معیار کے ہوشیار بصری مناظر، گرافک ایپس، نظام اور آلات متعارف کرا رہی ہے، جنہیں پہلے کبھی اتنی تیزی اور وسیع پیمانے پر قبول نہیں کیا گیا تھا۔ ان ٹیکنالوجیوں کے فوائد اور وعدے بہت بڑے ہیں اور ہماری زندگیوں میں بہتری کے لیے اہم ہیں۔"
+          },
+          {
+            "en": "Technology has enabled a host of products to be safer. It is enabling vehicles to be safer by letting drivers know in real time of impending problems. It is enabling cars to be more energy efficient through new renewable energy like wind power and solar system. Telepresence is possible option to work in any extreme condition.",
+            "sd": "ٽيڪنالاجيءَ ڪيترين ئي شين کي محفوظ بڻائڻ کي ممڪن بڻايو آهي. اها گاڏين کي محفوظ بڻائي رھي آهي، ڊرائيورن کي حقيقي وقت ۾ ايندڙ مسئلن کان آگاهه ڪري. اها ڪارن کي نئين قابل تجديد توانائي جهڙوڪ هوا جي طاقت ۽ شمسي نظام ذريعي وڌيڪ توانائي بچائيندڙ بڻائي رھي آهي. ٽيلي پريزنس ڪنهن به انتهائي حالت ۾ ڪم ڪرڻ جو ممڪن اختيار آهي.",
+            "ur": "ٹیکنالوجی نے بہت سی مصنوعات کو محفوظ بنانا ممکن کر دیا ہے۔ یہ گاڑیوں کو محفوظ بنا رہی ہے، ڈرائیوروں کو حقیقی وقت میں آنے والے مسائل سے آگاہ کر کے۔ یہ کاروں کو نئی قابل تجدید توانائی جیسے ہوا کی طاقت اور شمسی نظام کے ذریعے زیادہ توانائی بچانے والی بنا رہی ہے۔ ٹیلی پریزنس کسی بھی انتہائی حالت میں کام کرنے کا ممکنہ اختیار ہے۔"
+          },
+          {
+            "en": "Technology is putting a variety of information at people's finger tips, whether they are students in providing course materials online through teleschool without leaving homes. People get information through telemedicine to help them better understand a medical condition. Flexible online classes give people access to education that would never have been possible before the Internet. Parents now use e-leaning via Internet to follow their child's school assignments and academic progress through Web portals and innovative applications. Companies use technology to save on workforce development costs. Games for children designed to double as learning tools have proliferated. Technology has helped improve medical care by making it easier for doctors to provide evidence-based medicine.",
+            "sd": "ٽيڪنالاجي ماڻهن جي آڱرين تي ڪيترن ئي قسمن جي معلومات رکي رھي آهي، چاهي اهي شاگرد هجن، جن کي ٽيلي اسڪول ذريعي گھر کان ٻاهر نڪرڻ کان سواءِ آن لائن ڪورس جو مواد ڏنو وڃي ٿو. ماڻهو ٽيلي ميڊيسن ذريعي معلومات حاصل ڪن ٿا ته جيئن اهي ڪنهن بيماريءَ کي بهتر نموني سمجھي سگھن. لچڪدار آن لائن ڪلاس ماڻهن کي اهڙي تعليم تائين رسائي ڏين ٿا، جيڪا انٽرنيٽ کان اڳ ڪڏهن به ممڪن نه هئي. والدين هاڻي انٽرنيٽ ذريعي اي لرننگ استعمال ڪن ٿا ته جيئن اهي پنهنجي ٻارن جي اسڪول جي ڪم ۽ تعليمي ترقيءَ تي نظر رکي سگھن، ويب پورٽل ۽ نون ايپليڪيشنن ذريعي. ڪمپنيون ٽيڪنالاجي استعمال ڪن ٿيون ته جيئن افرادي قوت جي تربيت جي خرچن ۾ بچت ڪري سگھن. ٻارن لاءِ ٺاهيل رانديون، جيڪي سکيا جا اوزار به آهن، وڏي تعداد ۾ پکڙجي ويون آهن. ٽيڪنالاجيءَ طبي سنڀال کي بهتر بڻائڻ ۾ مدد ڪئي آهي، ڊاڪٽرن لاءِ ثبوت تي ٻڌل دوائن جي فراهمي کي آسان بڻائي.",
+            "ur": "ٹیکنالوجی لوگوں کی انگلیوں کے اشارے پر کئی قسم کی معلومات رکھ رہی ہے، چاہے وہ طلبہ ہوں، جنہیں ٹیلی اسکول کے ذریعے گھر سے باہر نکلے بغیر آن لائن کورس کا مواد دیا جاتا ہے۔ لوگ ٹیلی میڈیسن کے ذریعے معلومات حاصل کرتے ہیں تاکہ وہ کسی بیماری کو بہتر طور پر سمجھ سکیں۔ لچکدار آن لائن کلاسیں لوگوں کو ایسی تعلیم تک رسائی دیتی ہیں، جو انٹرنیٹ سے پہلے کبھی ممکن نہیں تھی۔ والدین اب انٹرنیٹ کے ذریعے ای لرننگ استعمال کرتے ہیں تاکہ وہ اپنے بچوں کے اسکول کے کام اور تعلیمی ترقی پر نظر رکھ سکیں، ویب پورٹل اور نئی ایپلی کیشنوں کے ذریعے۔ کمپنیاں ٹیکنالوجی استعمال کرتی ہیں تاکہ افرادی قوت کی تربیت کے اخراجات میں بچت کر سکیں۔ بچوں کے لیے بنائے گئے کھیل، جو سیکھنے کے اوزار بھی ہیں، بڑی تعداد میں پھیل گئے ہیں۔ ٹیکنالوجی نے طبی دیکھ بھال کو بہتر بنانے میں مدد کی ہے، ڈاکٹروں کے لیے ثبوت پر مبنی دوا فراہم کرنا آسان بنا کر۔"
+          },
+          {
+            "en": "Today, technological revolution is giving people a wide variety of choices, enabling them to get the kinds of products and services that fit their needs. Tele work and telemarketing have given people the chance to move beyond the limits. E-commerce lets people buy a vast array of goods and services that previously might have been difficult to find at local stores.",
+            "sd": "اڄڪلهه ٽيڪنالاجيڪل انقلاب ماڻهن کي چونڊ جا ڪيترائي موقعا ڏئي رھيو آهي، انهن کي اهڙيون شيون ۽ خدمتون حاصل ڪرڻ جي قابل بڻائي رھيو آهي جيڪي انهن جي ضرورتن مطابق آهن. ٽيلي ورڪ ۽ ٽيلي مارڪيٽنگ ماڻهن کي حدن کان اڳتي وڌڻ جو موقعو ڏنو آهي. اي ڪامرس ماڻهن کي سامان ۽ خدمتن جو وڏو تعداد خريدڻ جي اجازت ڏئي ٿي، جيڪي اڳ ۾ مقامي دڪانن تي ڳولڻ مشڪل هوندا هئا.",
+            "ur": "آج، ٹیکنالوجیکل انقلاب لوگوں کو انتخاب کے بہت سے مواقع دے رہا ہے، انہیں ایسی مصنوعات اور خدمات حاصل کرنے کے قابل بنا رہا ہے جو ان کی ضروریات کے مطابق ہیں۔ ٹیلی ورک اور ٹیلی مارکیٹنگ نے لوگوں کو حدوں سے آگے بڑھنے کا موقع دیا ہے۔ ای کامرس لوگوں کو سامان اور خدمات کی ایک بڑی تعداد خریدنے کی اجازت دیتا ہے، جو پہلے مقامی دکانوں پر تلاش کرنا مشکل ہوتا تھا۔"
+          },
+          {
+            "en": "Epidemics, pandemics or other hazards have threatened the human race time and again. The outbreaks of these calamities left enormous burdens on our lives, economies, and societies at large. In such a scenario, technologies enable secure access to data, enterprise applications, virtual meetings and cloud conferencing. Smart cities could be made and equipped with some sorts of devices which include sensors, processors, wearables, electronics, software, actuators, vehicles, cell phones and computers. The remote sensing technology could monitor environmental changes and disease predictions. The satellite images, aerial photographs, and on-the-ground inspections, can be used to locate populations in dangerous or environmentally unstable places and determine how to respond after disaster strikes. Though technology cannot prevent the onset of the pandemics; however, it can help prevent the spread, educate, warn, and empower those on the ground to be aware of the situation, and noticeably lessen the impact.",
+            "sd": "وبا، عالمي وبا يا ٻيا خطرا انساني نسل کي بار بار خطري ۾ وجهندا رھيا آهن. انهن مصيبتن جي اوچتي اچڻ اسان جي زندگين، معيشتن ۽ سماجن تي تمام وڏو بار وڌو آهي. اهڙي حالت ۾، ٽيڪنالاجيون ڊيٽا تائين محفوظ رسائي، ڪاروباري ايپليڪيشنون، ورچوئل گڏجاڻيون ۽ ڪلائوڊ ڪانفرنسنگ کي ممڪن بڻائين ٿيون. هوشيار شهر ٺاهي سگھجن ٿا ۽ ڪجهه قسمن جي اوزارن سان ليس ڪري سگھجن ٿا، جن ۾ سينسر، پروسيسر، پائڻ لائق اوزار، اليڪٽرانڪس، سافٽ ويئر، ايڪچوئيٽر، گاڏيون، سيل فون ۽ ڪمپيوٽر شامل آهن. ريموٽ سينسنگ ٽيڪنالاجي ماحولياتي تبديلين ۽ بيمارين جي اڳڪٿيءَ جي نگراني ڪري سگھي ٿي. سيٽلائيٽ تصويرون، هوائي فوٽو ۽ زمين تي معائنو، خطرناڪ يا ماحولياتي طور تي غير مستحڪم هنڌن تي آباديءَ کي ڳولڻ ۽ آفت اچڻ کان پوءِ ڪيئن جواب ڏيڻو آهي، اهو طئي ڪرڻ لاءِ استعمال ڪري سگھجن ٿا. جيتوڻيڪ ٽيڪنالاجي وبا جي شروعات کي روڪي نه ٿي سگھي، پر اها ان جي پکيڙ کي روڪڻ، تعليم ڏيڻ، خبردار ڪرڻ ۽ زمين تي موجود ماڻهن کي بااختيار بڻائڻ ۾ مدد ڪري سگھي ٿي، ته جيئن اهي صورتحال کان آگاهه رھن ۽ ان جي اثر کي نمايان طور تي گھٽائي سگھن.",
+            "ur": "وبائیں، عالمی وبائیں یا دیگر خطرات نے انسانی نسل کو بار بار خطرے میں ڈالا ہے۔ ان مصیبتوں کے اچانک آنے سے ہماری زندگیوں، معیشتوں اور معاشروں پر بہت بڑا بوجھ پڑا ہے۔ ایسی صورتحال میں، ٹیکنالوجی ڈیٹا تک محفوظ رسائی، کاروباری ایپلی کیشنوں، ورچوئل میٹنگوں اور کلاؤڈ کانفرنسنگ کو ممکن بناتی ہے۔ ہوشیار شہر بنائے جا سکتے ہیں اور کچھ قسم کے آلات سے لیس کیے جا سکتے ہیں، جن میں سینسر، پروسیسر، پہننے کے قابل آلات، الیکٹرانکس، سافٹ ویئر، ایکچوایٹر، گاڑیاں، سیل فون اور کمپیوٹر شامل ہیں۔ ریموٹ سینسنگ ٹیکنالوجی ماحولیاتی تبدیلیوں اور بیماریوں کی پیش گوئی کی نگرانی کر سکتی ہے۔ سیٹلائٹ تصاویر، فضائی تصاویر اور زمینی معائنہ، خطرناک یا ماحولیاتی طور پر غیر مستحکم جگہوں پر آبادیوں کو تلاش کرنے اور آفت آنے کے بعد کیسے جواب دینا ہے، یہ طے کرنے کے لیے استعمال کیے جا سکتے ہیں۔ اگرچہ ٹیکنالوجی وبا کے آغاز کو نہیں روک سکتی، لیکن یہ اس کے پھیلاؤ کو روکنے، تعلیم دینے، خبردار کرنے اور زمین پر موجود لوگوں کو بااختیار بنانے میں مدد کر سکتی ہے، تاکہ وہ صورتحال سے آگاہ رہیں اور اس کے اثرات کو نمایاں طور پر کم کر سکیں۔"
+          }
+        ],
+        "section": "4.1",
+        "unit": 4,
+        "unitTitle": "Technology Smart & Tech-Savvy"
+      },
+      {
+        "bookPages": "73-75",
+        "lesson": "My Bank Account",
+        "paragraphs": [
+          {
+            "en": "When I go into a bank, I get frightened. The clerks frighten me; the desks frighten me; the sight of the money frightens me; everything frightens me. The moment I pass through the doors of a bank and attempt to do business there, I become an irresponsible fool.",
+            "sd": "جڏهن مان ڪنهن بينڪ ۾ ويندو آهيان ته مون کي ڊپ ٿيندو آهي. ڪلارڪ مون کي ڊيڄاريندا آهن؛ ميزون مون کي ڊيڄارينديون آهن؛ پئسن جو ڏيک مون کي ڊيڄاريندو آهي؛ هر شيءِ مون کي ڊيڄاريندي آهي. جنهن لمحي مان بينڪ جي دروازن مان گذري اندر ويندو آهيان ۽ اتي ڪم ڪرڻ جي ڪوشش ڪندو آهيان، مان هڪ غير ذميوار بيوقوف بڻجي ويندو آهيان.",
+            "ur": "جب میں کسی بینک میں جاتا ہوں تو مجھے ڈر لگتا ہے۔ کلرک مجھے ڈراتے ہیں؛ میزیں مجھے ڈراتی ہیں؛ پیسوں کا نظارہ مجھے ڈراتا ہے؛ ہر چیز مجھے ڈراتی ہے۔ جس لمحے میں بینک کے دروازوں سے گزر کر اندر جاتا ہوں اور وہاں کام کرنے کی کوشش کرتا ہوں، میں ایک غیر ذمہ دار بے وقوف بن جاتا ہوں۔"
+          },
+          {
+            "en": "I knew this before, but my salary had been raised to fifty dollars a month and I felt that the bank was the only place for it.",
+            "sd": "مون کي هي اڳ ۾ ئي خبر هئي، پر منهنجي آمدني وڌي پنجاهه ڊالر مهيني ٿي وئي هئي ۽ مون کي لڳو ته بينڪ ئي ان لاءِ واحد جاءِ آهي.",
+            "ur": "مجھے یہ پہلے سے معلوم تھا، لیکن میری تنخواہ بڑھ کر پچاس ڈالر ماہانہ ہو گئی تھی اور مجھے لگا کہ بینک ہی اس کے لیے واحد جگہ ہے۔"
+          },
+          {
+            "en": "So, I walked unsteadily in and looked round at the clerks with fear. I had an idea that a person who was about to open an account must necessarily consult the manager.",
+            "sd": "تنهنڪري مان لڏندي اندر ويس ۽ ڊپ سان ڪلارڪن ڏي چوڌاري ڏٺم. منهنجو خيال هو ته جنهن ماڻهوءَ کي اڪائونٽ کولڻو هجي، ان کي ضرور مينيجر سان صلاح ڪرڻ گهرجي.",
+            "ur": "چنانچہ میں لڑکھڑاتا ہوا اندر گیا اور ڈر سے کلرکوں کی طرف چاروں طرف دیکھا۔ میرا خیال تھا کہ جس شخص کو اکاؤنٹ کھولنا ہو، اسے ضرور منیجر سے مشورہ کرنا چاہیے۔"
+          },
+          {
+            "en": "I went up to a place marked 'Accountant'. The accountant was a tall, cool devil. The very sight of him frightened me. My voice sounded as if it came from the grave.",
+            "sd": "مان ان هنڌ ڏي ويس جتي 'اڪائونٽنٽ' لکيل هو. اڪائونٽنٽ هڪ ڊگهو، ٿڌو شيطان هو. هن جو ڏيک ئي مون کي ڊيڄاري ڇڏيو. منهنجو آواز ائين پيو لڳي، ڄڻ قبر مان اچي رھيو هجي.",
+            "ur": "میں اس جگہ کی طرف گیا جہاں 'اکاؤنٹنٹ' لکھا تھا۔ اکاؤنٹنٹ ایک لمبا، سرد مزاج شیطان تھا۔ اسے دیکھ کر ہی میں ڈر گیا۔ میری آواز ایسی لگ رہی تھی جیسے قبر سے آ رہی ہو۔"
+          },
+          {
+            "en": "\"Can I see the manager?\" I said, and added solemnly, \"alone.\" I don't know why I said \"alone.\"",
+            "sd": "مان چيو: ڇا مان مينيجر کي ملي سگھان ٿو؟ ۽ سنجيدگيءَ سان وڌيڪ چيو: اڪيلو. مون کي خبر ناهي ته مون ڇو چيو اڪيلو.",
+            "ur": "میں نے کہا: کیا میں منیجر سے مل سکتا ہوں؟ اور سنجیدگی سے مزید کہا: اکیلے میں۔ مجھے نہیں معلوم کہ میں نے 'اکیلے میں' کیوں کہا۔"
+          },
+          {
+            "en": "\"Certainly,\" said the accountant, and brought him.",
+            "sd": "اڪائونٽنٽ چيو: ضرور، ۽ هن مينيجر کي وٺي آيو.",
+            "ur": "اکاؤنٹنٹ نے کہا: ضرور، اور وہ اسے لے آیا۔"
+          },
+          {
+            "en": "The manager was a calm, serious man. I held my fifty-six dollars, pressed together in a ball, in my pocket.",
+            "sd": "مينيجر هڪ پرسڪون، سنجيده ماڻهو هو. منهنجا ڇپنجاهه ڊالر، گولي وانگر دٻايل، منهنجي کيسي ۾ هئا.",
+            "ur": "منیجر ایک پُرسکون، سنجیدہ شخص تھا۔ میرے چھپن ڈالر، گیند کی طرح دبے ہوئے، میری جیب میں تھے۔"
+          },
+          {
+            "en": "\"Are you the manager?\" I said. God knows I didn't doubt it.",
+            "sd": "مان چيو: ڇا توهان ئي مينيجر آهيو؟ خدا ڄاڻي، مون کي ان ۾ ڪو شڪ نه هو.",
+            "ur": "میں نے کہا: کیا آپ ہی منیجر ہیں؟ خدا جانتا ہے، مجھے اس میں کوئی شک نہیں تھا۔"
+          },
+          {
+            "en": "\"Yes,\" he said.",
+            "sd": "هن چيو: ها.",
+            "ur": "اس نے کہا: ہاں۔"
+          },
+          {
+            "en": "\"Can I see you?\" I asked, \"alone?\" I didn't want to say \"alone\" again, but without this word the question seemed useless.",
+            "sd": "مان چيو: ڇا مان توهان کي ملي سگھان ٿو، اڪيلو؟ مون اڪيلو چوڻ نه ٿي چاهيو، پر هن لفظ کان سواءِ سوال بيڪار پئي لڳو.",
+            "ur": "میں نے پوچھا: کیا میں آپ سے مل سکتا ہوں، اکیلے میں؟ میں دوبارہ 'اکیلے میں' نہیں کہنا چاہتا تھا، لیکن اس لفظ کے بغیر سوال بیکار لگتا تھا۔"
+          },
+          {
+            "en": "The manager looked at me with some anxiety. He felt that I had a terrible secret to tell.",
+            "sd": "مينيجر مون کي ڪجهه پريشانيءَ سان ڏٺو. هن کي لڳو ته مون وٽ ٻڌائڻ لاءِ ڪو خوفناڪ راز آهي.",
+            "ur": "منیجر نے مجھے کچھ پریشانی سے دیکھا۔ اسے لگا کہ میرے پاس بتانے کے لیے کوئی خوفناک راز ہے۔"
+          },
+          {
+            "en": "\"Come in here,\" he said, and led the way to a private room. He turned the key in the lock.",
+            "sd": "هن چيو: هتي اندر اچو، ۽ هو خانگي ڪمري ڏي اڳتي هليو ويو. هن تالو ۾ چاٻي ڦيرائي.",
+            "ur": "اس نے کہا: یہاں اندر آؤ، اور وہ نجی کمرے کی طرف آگے چل دیا۔ اس نے تالے میں چابی گھمائی۔"
+          },
+          {
+            "en": "\"We are safe from interruption here,\" he said. \"Sit down.\"",
+            "sd": "هن چيو: هتي اسين مداخلت کان محفوظ آهيون. ويهو.",
+            "ur": "اس نے کہا: یہاں ہم مداخلت سے محفوظ ہیں۔ بیٹھ جاؤ۔"
+          },
+          {
+            "en": "We both sat down and looked at each other. I found no voice to speak.",
+            "sd": "اسان ٻئي ويٺا ۽ هڪ ٻئي کي ڏٺو. مون کي ڳالهائڻ لاءِ آواز ئي نه مليو.",
+            "ur": "ہم دونوں بیٹھ گئے اور ایک دوسرے کو دیکھا۔ مجھے بولنے کے لیے آواز ہی نہیں ملی۔"
+          },
+          {
+            "en": "\"You are one of Pinkerton's detectives, I suppose,\" he said.",
+            "sd": "هن چيو: منهنجو خيال آهي ته تون پنڪرٽن جي جاسوسن مان هڪ آهين.",
+            "ur": "اس نے کہا: میرا خیال ہے کہ تم پنکرٹن کے جاسوسوں میں سے ایک ہو۔"
+          },
+          {
+            "en": "My mysterious manner had made him think that I was a detective. I knew what he was thinking, and it made me worse.",
+            "sd": "منهنجي پراسرار انداز هن کي اهو سمجھايو ته مان هڪ جاسوس آهيان. مون کي خبر هئي ته هو ڇا سوچي رھيو هو، ۽ ان مون کي وڌيڪ خراب ڪري ڇڏيو.",
+            "ur": "میرے پراسرار انداز نے اسے یہ سمجھایا کہ میں ایک جاسوس ہوں۔ مجھے معلوم تھا کہ وہ کیا سوچ رہا ہے، اور اس سے میں اور بھی بدتر ہو گیا۔"
+          },
+          {
+            "en": "\"No, not from Pinkerton's,\" I said, seeming to mean that I was from a rival agency.",
+            "sd": "مان چيو: نه، مان پنڪرٽن وٽان نه آهيان، جيئن مان ڪنهن مخالف ايجنسيءَ وٽان هجان.",
+            "ur": "میں نے کہا: نہیں، میں پنکرٹن سے نہیں ہوں، جیسے میں کسی مخالف ایجنسی سے ہوں۔"
+          },
+          {
+            "en": "\"To tell the truth,\" I went on, as if someone had urged me to tell lies about it. \"I am not a detective at all. I have come to open an account. I intend to keep all my money in this bank.\"",
+            "sd": "مان اڳتي ڳالهايو، ڄڻ ڪنهن مون کي ان بابت ڪوڙ ڳالهائڻ لاءِ زور ڀريو هجي. مان چيو: سچ اهو آهي ته مان بلڪل جاسوس نه آهيان. مان اڪائونٽ کولڻ آيو آهيان. منهنجو ارادو آهي ته مان پنهنجا سڀ پئسا هن بينڪ ۾ رکان.",
+            "ur": "میں آگے بڑھا، جیسے کسی نے مجھے اس بارے میں جھوٹ بولنے پر مجبور کیا ہو۔ میں نے کہا: سچ یہ ہے کہ میں بالکل جاسوس نہیں ہوں۔ میں اکاؤنٹ کھولنے آیا ہوں۔ میرا ارادہ ہے کہ میں اپنا سارا پیسہ اس بینک میں رکھوں۔"
+          },
+          {
+            "en": "The manager looked relieved but still serious; he felt sure now that I was a very rich man, perhaps a son of Baron Roth's child.",
+            "sd": "مينيجر کي اطمينان ٿيو، پر هو اڃا سنجيده هو؛ هن کي هاڻي پڪو يقين ٿي ويو ته مان هڪ تمام امير ماڻهو آهيان، شايد بيرن روٿ شائلڊ جي خاندان مان.",
+            "ur": "منیجر کو اطمینان ہوا، لیکن وہ اب بھی سنجیدہ تھا؛ اسے اب پکا یقین ہو گیا کہ میں ایک بہت امیر شخص ہوں، شاید بیرن روتھ شائلڈ کے خاندان سے۔"
+          },
+          {
+            "en": "\"A large account, I suppose,\" he said.",
+            "sd": "هن چيو: هڪ وڏو اڪائونٽ، منهنجو خيال آهي.",
+            "ur": "اس نے کہا: ایک بڑا اکاؤنٹ، میرا خیال ہے۔"
+          },
+          {
+            "en": "\"Fairly large,\" I whispered. \"I intend to place in this bank the sum of fifty-six dollars now and fifty dollars a month regularly.\"",
+            "sd": "مون آهستي چيو: ڪافي وڏو. منهنجو ارادو آهي ته هن بينڪ ۾ هاڻي ڇپنجاهه ڊالر ۽ هر مهيني پنجاهه ڊالر باقاعده رکان.",
+            "ur": "میں نے آہستہ کہا: کافی بڑا۔ میرا ارادہ ہے کہ اس بینک میں ابھی چھپن ڈالر اور ہر مہینے پچاس ڈالر باقاعدگی سے رکھوں۔"
+          },
+          {
+            "en": "The manager got up and opened the door. He called to the accountant.",
+            "sd": "مينيجر اٿي بيٺو ۽ دروازو کوليو. هن اڪائونٽنٽ کي سڏيو.",
+            "ur": "منیجر اٹھ کر کھڑا ہوا اور دروازہ کھولا۔ اس نے اکاؤنٹنٹ کو بلایا۔"
+          },
+          {
+            "en": "\"Mr. Montgomery,\" he said, unkindly loud, \"this gentleman is opening an account. He will place fifty-six dollars in it. Good morning.\"",
+            "sd": "هن زور سان چيو: مسٽر مونٽگومري، هي صاحب اڪائونٽ کولڻ چاهي ٿو. هو ان ۾ ڇپنجاهه ڊالر رکندو. صبح بخير.",
+            "ur": "اس نے زور سے کہا: مسٹر مونٹگومری، یہ صاحب اکاؤنٹ کھول رہے ہیں۔ وہ اس میں چھپن ڈالر رکھیں گے۔ صبح بخیر۔"
+          },
+          {
+            "en": "I stood up.",
+            "sd": "مان اٿي بيٺس.",
+            "ur": "میں اٹھ کر کھڑا ہو گیا۔"
+          },
+          {
+            "en": "A big iron door stood open at the side of the room.",
+            "sd": "ڪمري جي هڪ پاسي لوهه جو وڏو دروازو کليل بيٺو هو.",
+            "ur": "کمرے کے ایک طرف لوہے کا بڑا دروازہ کھلا کھڑا تھا۔"
+          },
+          {
+            "en": "\"Good morning,\" I said, and walked into the safe.",
+            "sd": "مون چيو: صبح بخير، ۽ مان تجوريءَ ۾ داخل ٿيس.",
+            "ur": "میں نے کہا: صبح بخیر، اور میں تجوری میں داخل ہو گیا۔"
+          },
+          {
+            "en": "\"Come out,\" said the manager coldly, and showed me the other way.",
+            "sd": "مينيجر ٿڌي آواز سان چيو: ٻاهر اچ، ۽ مون کي ٻيو رستو ڏيکاريو.",
+            "ur": "منیجر نے سرد لہجے میں کہا: باہر آؤ، اور مجھے دوسرا راستہ دکھایا۔"
+          },
+          {
+            "en": "I went up to the accountant's window and pushed the ball of money at him with a quick, sudden movement as if I were doing a sort of trick.",
+            "sd": "مان اڪائونٽنٽ جي دريءَ وٽ ويس ۽ پئسن جي گولي هن ڏي تيز ۽ اوچتي حرڪت سان ڌڪي ڏني، جيئن مان ڪو ڪرتب ڏيکاري رھيو هوس.",
+            "ur": "میں اکاؤنٹنٹ کی کھڑکی کے پاس گیا اور پیسوں کی گیند اس کی طرف تیز اور اچانک حرکت سے دھکیل دی، جیسے میں کوئی کرتب دکھا رہا ہوں۔"
+          },
+          {
+            "en": "My face was terribly pale.",
+            "sd": "منهنجو منهن خوف کان ڏاڍو پيلو ٿي ويو هو.",
+            "ur": "میرا چہرہ خوف سے بہت پیلا پڑ گیا تھا۔"
+          },
+          {
+            "en": "\"Here,\" I said, \"put it in my account.\" The sound of my voice seemed to mean, \"Let us do this painful thing while we feel that we want to do it.\"",
+            "sd": "مون چيو: هي وٺو، هي منهنجي اڪائونٽ ۾ رکو. منهنجي آواز مان ائين پيو لڳي ته ڄڻ اسين هي ڏکيو ڪم ڪريون، جڏهن ته اسين اهو ڪرڻ چاهيون ٿا.",
+            "ur": "میں نے کہا: یہ لو، یہ میرے اکاؤنٹ میں رکھ دو۔ میری آواز سے ایسا لگتا تھا جیسے ہم یہ تکلیف دہ کام کریں، جب کہ ہم اسے کرنا چاہتے ہیں۔"
+          },
+          {
+            "en": "He took the money and gave it to another clerk.",
+            "sd": "هن پئسا ورتا ۽ ٻئي ڪلارڪ کي ڏنا.",
+            "ur": "اس نے پیسے لیے اور دوسرے کلرک کو دے دیے۔"
+          },
+          {
+            "en": "He made me write the sum on a bit of paper and sign my name in a book. I no longer knew what I was doing. The bank seemed to swim before my eyes.",
+            "sd": "هن مون کان ڪاغذ جي هڪ ٽڪري تي رقم لکرائي ۽ ڪتاب ۾ صحيح ڪرائي. مون کي هاڻي خبر نه هئي ته مان ڇا ڪري رھيو آهيان. بينڪ منهنجي اکين اڳيان ترڻ لڳي.",
+            "ur": "اس نے مجھ سے کاغذ کے ایک ٹکڑے پر رقم لکھوائی اور کتاب میں میرے دستخط کروائے۔ مجھے اب معلوم نہیں تھا کہ میں کیا کر رہا ہوں۔ بینک میری آنکھوں کے سامنے تیرنے لگا۔"
+          },
+          {
+            "en": "\"Is it in the account?\" I asked in a hollow shaking voice.",
+            "sd": "مان هڪ خالي، ڏڪندڙ آواز ۾ پڇيو: ڇا هي اڪائونٽ ۾ اچي ويو آهي؟",
+            "ur": "میں نے ایک کھوکھلی، کانپتی ہوئی آواز میں پوچھا: کیا یہ اکاؤنٹ میں آ گیا ہے؟"
+          },
+          {
+            "en": "\"It is,\" said the accountant.",
+            "sd": "اڪائونٽنٽ چيو: ها، اچي ويو آهي.",
+            "ur": "اکاؤنٹنٹ نے کہا: ہاں، آ گیا ہے۔"
+          },
+          {
+            "en": "\"Then I want to draw a cheque.\"",
+            "sd": "مان چيو: پوءِ مان چيڪ ڪڍڻ چاهيان ٿو.",
+            "ur": "میں نے کہا: پھر میں چیک نکالنا چاہتا ہوں۔"
+          },
+          {
+            "en": "My idea was to draw out six dollars of it for present use. Someone gave me a cheque-book and someone else seemed to think that I was a man who owned millions of dollars, but was not feeling very well. I wrote something on the cheque and pushed it towards the clerk. He looked at it.",
+            "sd": "منهنجو خيال هو ته ان مان ڇهه ڊالر هاڻي جي استعمال لاءِ ڪڍان. ڪنهن مون کي چيڪ بڪ ڏنو ۽ ٻئي ڪنهن کي لڳو ته مان اهو ماڻهو آهيان جنهن وٽ لکين ڊالر آهن، پر هو بلڪل ٺيڪ نه هو. مون چيڪ تي ڪجهه لکيو ۽ ان کي ڪلارڪ ڏي ڌڪي ڏنو. هن ان کي ڏٺو.",
+            "ur": "میرا خیال تھا کہ اس میں سے چھ ڈالر ابھی کے استعمال کے لیے نکالوں۔ کسی نے مجھے چیک بک دی اور کسی اور کو لگا کہ میں وہ شخص ہوں جس کے پاس لاکھوں ڈالر ہیں، لیکن وہ بالکل ٹھیک نہیں تھا۔ میں نے چیک پر کچھ لکھا اور اسے کلرک کی طرف دھکیل دیا۔ اس نے اسے دیکھا۔"
+          },
+          {
+            "en": "\"What! Are you drawing it all out again?\" he asked in surprise. Then I realized that I had written fifty-six dollars instead of six. I was too upset to reason now. I had a feeling that it was impossible to explain the thing. All the clerks had stopped writing to look at me.",
+            "sd": "هن حيرت سان پڇيو: ڇا! تون هي سڀ واپس ڪڍي رھيو آهين؟ پوءِ مون کي خبر پئي ته مون ڇهن جي بدران ڇپنجاهه ڊالر لکيا آهن. مان هاڻي ايترو پريشان هوس جو دليل ڏئي نه سگھيس. مون کي لڳو ته ان ڳالهه کي سمجھائڻ ناممڪن آهي. سڀني ڪلارڪن لکڻ بند ڪري مون کي ڏسڻ شروع ڪيو.",
+            "ur": "اس نے حیرت سے پوچھا: کیا! تم یہ سب دوبارہ نکال رہے ہو؟ پھر مجھے معلوم ہوا کہ میں نے چھ کی بجائے چھپن ڈالر لکھ دیے ہیں۔ میں اب اتنا پریشان تھا کہ دلیل نہیں دے سکتا تھا۔ مجھے لگا کہ اس بات کو سمجھانا ناممکن ہے۔ سب کلرکوں نے لکھنا بند کر کے مجھے دیکھنا شروع کر دیا۔"
+          },
+          {
+            "en": "Bold and careless in my misery, I made a decision.",
+            "sd": "منهنجي ڏک ۾ دلير ۽ بي پرواهه ٿي، مون هڪ فيصلو ڪيو.",
+            "ur": "اپنے دکھ میں بہادر اور بے پروا ہو کر، میں نے ایک فیصلہ کیا۔"
+          },
+          {
+            "en": "\"Yes, the whole thing.\"",
+            "sd": "مان چيو: ها، سڀ ڪجهه.",
+            "ur": "میں نے کہا: ہاں، سب کچھ۔"
+          },
+          {
+            "en": "\"You wish to draw your money out of the bank?\"",
+            "sd": "هن چيو: ڇا تون پنهنجا پئسا بينڪ مان ڪڍڻ چاهين ٿو؟",
+            "ur": "اس نے کہا: کیا تم اپنا پیسہ بینک سے نکالنا چاہتے ہو؟"
+          },
+          {
+            "en": "\"Every cent of it.\"",
+            "sd": "مان چيو: هر هڪ سينٽ.",
+            "ur": "میں نے کہا: اس کا ہر ایک سینٹ۔"
+          },
+          {
+            "en": "\"Are you not going to put any more in the account?\" said the clerk, astonished.",
+            "sd": "ڪلارڪ حيران ٿي چيو: ڇا تون اڪائونٽ ۾ وڌيڪ ڪجهه نه رکندين؟",
+            "ur": "کلرک نے حیران ہو کر کہا: کیا تم اکاؤنٹ میں مزید کچھ نہیں رکھو گے؟"
+          },
+          {
+            "en": "\"Never.\"",
+            "sd": "مان چيو: ڪڏهن به نه.",
+            "ur": "میں نے کہا: کبھی نہیں۔"
+          },
+          {
+            "en": "A foolish hope came to me that they might think someone had insulted me while I was writing the cheque and that I had changed my mind. I made a miserable attempt to look like a man with a fearfully quick temper.",
+            "sd": "مون کي هڪ بيوقوف اميد ٿي ته شايد هنن کي لڳي ته ڪنهن مون کي بي عزتي ڪئي آهي، جڏهن مان چيڪ لکي رھيو هوس، ۽ مون پنهنجو ارادو بدلائي ڇڏيو آهي. مون هڪ ڏکئي ڪوشش ڪئي ته ائين ڏسان، ڄڻ مان هڪ ماڻهو آهيان جنهن جو مزاج ڏاڍو تيز آهي.",
+            "ur": "مجھے ایک بے وقوف امید ہوئی کہ شاید وہ سوچیں کہ کسی نے چیک لکھتے وقت میری بے عزتی کی ہے، اور میں نے اپنا ارادہ بدل لیا ہے۔ میں نے ایک دکھی کوشش کی کہ ایسا لگوں جیسے میں ایک ایسا شخص ہوں جس کا مزاج بہت تیز ہے۔"
+          },
+          {
+            "en": "The clerk prepared to pay the money.",
+            "sd": "ڪلارڪ پئسا ڏيڻ جي تياري ڪئي.",
+            "ur": "کلرک نے پیسے دینے کی تیاری کی۔"
+          },
+          {
+            "en": "\"How will you have it?\" he said.",
+            "sd": "هن چيو: تون هي ڪيئن وٺندين؟",
+            "ur": "اس نے کہا: تم یہ کیسے لو گے؟"
+          },
+          {
+            "en": "\"What?\"",
+            "sd": "مان چيو: ڇا؟",
+            "ur": "میں نے کہا: کیا؟"
+          },
+          {
+            "en": "\"How will you have it?\"",
+            "sd": "هن چيو: تون هي ڪيئن وٺندين؟",
+            "ur": "اس نے کہا: تم یہ کیسے لو گے؟"
+          },
+          {
+            "en": "\"Oh!\" I understood his meaning and answered without even trying to think \"in fifty-dollar notes.\"",
+            "sd": "مون چيو: اوه! مون هن جي مطلب کي سمجھيو ۽ سوچڻ جي ڪوشش ڪرڻ کان سواءِ جواب ڏنو: پنجاهه ڊالرن جي نوٽن ۾.",
+            "ur": "میں نے کہا: اوہ! میں اس کا مطلب سمجھ گیا اور سوچے بغیر جواب دیا: پچاس ڈالر کے نوٹوں میں۔"
+          },
+          {
+            "en": "He gave me a fifty-dollar note.",
+            "sd": "هن مون کي پنجاهه ڊالر جو هڪ نوٽ ڏنو.",
+            "ur": "اس نے مجھے پچاس ڈالر کا ایک نوٹ دیا۔"
+          },
+          {
+            "en": "\"And the six?\" he asked coldly.",
+            "sd": "هن ٿڌي آواز سان پڇيو: ۽ ڇهه ڊالر؟",
+            "ur": "اس نے سرد لہجے میں پوچھا: اور چھ ڈالر؟"
+          },
+          {
+            "en": "\"In six-dollar notes,\" I said.",
+            "sd": "مان چيو: ڇهه ڊالرن جي نوٽن ۾.",
+            "ur": "میں نے کہا: چھ ڈالر کے نوٹوں میں۔"
+          },
+          {
+            "en": "He gave me six dollars and I rushed out.",
+            "sd": "هن مون کي ڇهه ڊالر ڏنا ۽ مان جلدي ٻاهر ڀڄي ويس.",
+            "ur": "اس نے مجھے چھ ڈالر دیے اور میں جلدی سے باہر بھاگ گیا۔"
+          },
+          {
+            "en": "As the big door swung behind me, I heard the sound of a roar of laughter that went up to the roof of the bank. Since then I use a bank no more. I keep my money in my pocket and my savings in silver dollars in a sock.",
+            "sd": "جڏهن وڏو دروازو منهنجي پويان بند ٿيو، مون کلڻ جو ٽهڪ ٻڌو جيڪو بينڪ جي ڇت تائين ويو. ان وقت کان مان بينڪ کي وڌيڪ استعمال نه ٿو ڪريان. مان پنهنجا پئسا پنهنجي کيسي ۾ رکان ٿو ۽ پنهنجي بچت چانديءَ جي ڊالرن ۾ جراب ۾ رکان ٿو.",
+            "ur": "جب بڑا دروازہ میرے پیچھے بند ہوا، میں نے ہنسی کا قہقہہ سنا جو بینک کی چھت تک گیا۔ اس وقت سے میں بینک کو مزید استعمال نہیں کرتا۔ میں اپنا پیسہ اپنی جیب میں رکھتا ہوں اور اپنی بچت چاندی کے ڈالروں میں موزے میں رکھتا ہوں۔"
+          }
+        ],
+        "section": "5.1",
+        "unit": 5,
+        "unitTitle": "Civic Sense and Civic Activities"
+      },
+      {
+        "bookPages": "91-93",
+        "lesson": "Self-reliance",
+        "paragraphs": [
+          {
+            "en": "To believe your own thought, to believe that what is true for you in your private heart is true for all men, — that is genius. Speak your latent conviction, and it shall be the universal sense; for always the inmost becomes the outmost. A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the spheres of bards and sages. Yet he dismisses without notice his thought, because it is his. In every work of genius, we recognize our own rejected thoughts; they come back to us with a certain alienated majesty. Great works of art have no more affecting lesson for us than this. They teach us to abide by our spontaneous impression with good-humoured inflexibility then most when the whole cry of voices is on the other side. Otherwise, tomorrow a stranger will say with masterly good sense precisely what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.",
+            "sd": "پنهنجي سوچ تي يقين ڪرڻ، اهو يقين ڪرڻ ته جيڪو تنهنجي دل ۾ تنهنجي لاءِ سچ آهي، اهو سڀني ماڻهن لاءِ به سچ آهي — اهو ئي ذهانت آهي. پنهنجي لڪل يقين کي بيان ڪر، ته اهو سڀني جي گڏيل سمجھ بڻجي ويندو؛ ڇو ته جيڪو اندر ۾ آهي، اهو هميشه ٻاهر اچي ٿو. ماڻهو کي سکڻ گهرجي ته هو پنهنجي ذهن ۾ اندر کان چمڪندڙ روشني جي ڪرڻي کي ڏسي ۽ ان جو خيال رکي، شاعرن ۽ ڏاهن جي چمڪ کان وڌيڪ. پر هو پنهنجي سوچ کي بنا ڌيان جي رد ڪري ڇڏي ٿو، رڳو ان ڪري جو اها هن جي پنهنجي آهي. ذهانت جي هر ڪم ۾ اسان پنهنجا رد ڪيل خيال سڃاڻون ٿا؛ اهي اسان ڏانهن هڪ خاص ڌار شان سان موٽي اچن ٿا. فن جا وڏا ڪم اسان کي هن کان وڌيڪ اثر ڪندڙ سبق نٿا ڏين. اهي اسان کي سيکارين ٿا ته پنهنجي پهرئين تاثر تي خوش مزاجي ۽ مضبوطي سان قائم رھون، خاص ڪري تڏهن جڏهن سڀني جا آواز ٻئي پاسي هجن. نه ته سڀاڻي ڪو اجنبي ماڻهو وڏي سمجھداري سان اهو ئي چوندو، جيڪو اسان سڄي وقت سوچيو ۽ محسوس ڪيو آهي، ۽ اسان کي شرم سان پنهنجو خيال ٻئي کان وٺڻو پوندو.",
+            "ur": "اپنے خیال پر یقین رکھنا، یہ یقین رکھنا کہ جو تمہارے دل میں تمہارے لیے سچ ہے، وہ سب لوگوں کے لیے بھی سچ ہے — یہی ذہانت ہے۔ اپنے چھپے ہوئے یقین کو بیان کرو، تو وہ سب کی مشترکہ سمجھ بن جائے گا؛ کیونکہ جو اندر ہے، وہ ہمیشہ باہر آ جاتا ہے۔ انسان کو سیکھنا چاہیے کہ وہ اپنے ذہن میں اندر سے چمکنے والی روشنی کی کرن کو دیکھے اور اس کا خیال رکھے، شاعروں اور داناؤں کی چمک سے بڑھ کر۔ لیکن وہ اپنے خیال کو بغیر توجہ کے رد کر دیتا ہے، صرف اس لیے کہ وہ اس کا اپنا ہے۔ ذہانت کے ہر کام میں ہم اپنے رد کیے ہوئے خیالات کو پہچانتے ہیں؛ وہ ایک خاص جداگانہ شان کے ساتھ ہماری طرف لوٹ آتے ہیں۔ فن کے عظیم کام ہمیں اس سے زیادہ مؤثر سبق نہیں دیتے۔ وہ ہمیں سکھاتے ہیں کہ ہم اپنے پہلے تاثر پر خوش مزاجی کے ساتھ مضبوطی سے قائم رہیں، خاص طور پر تب جب سب کی آوازیں دوسری طرف ہوں۔ ورنہ کل کوئی اجنبی بڑی سمجھداری سے وہی کہے گا، جو ہم نے سارا وقت سوچا اور محسوس کیا ہے، اور ہمیں شرم کے ساتھ اپنی رائے دوسرے سے لینی پڑے گی۔"
+          },
+          {
+            "en": "There is a time in every man's education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse, as his portion; that though the wide universe is full of good, nothing of substance can come to him but through his toil bestowed on that plot of ground which is given to him to till. The power which resides in him is new in nature, and none but he knows what he can do, nor does he know until he has tried. A man is relieved and happy when he has put his heart into his work and done his best; but what he has said or done otherwise, shall give him no peace.",
+            "sd": "هر ماڻهو جي تعليم ۾ هڪ وقت اهڙو اچي ٿو، جڏهن هو ان يقين تي پهچي ٿو ته حسد جهالت آهي؛ نقل ڪرڻ خودڪشي آهي؛ هن کي پاڻ کي جيئن آهي تيئن قبول ڪرڻ گهرجي، ڀلي لاءِ هجي يا بڇڙي لاءِ، اهو ئي هن جو حصو آهي؛ جيتوڻيڪ وسيع دنيا ڀلائي سان ڀري پئي آهي، پر ڪا به اصل ڳالهه هن کي تڏهن ئي ملي سگھي ٿي، جڏهن هو پنهنجي محنت ان زمين جي ٽڪري تي لڳائي، جيڪا هن کي کيڙڻ لاءِ ڏني وئي آهي. جيڪا طاقت هن ۾ آهي، اها فطرت ۾ نئين آهي، ۽ هن کان سواءِ ڪو به نٿو ڄاڻي ته هو ڇا ڪري سگھي ٿو، ۽ هو پاڻ به نٿو ڄاڻي، جيستائين هن ڪوشش نه ڪئي هجي. ماڻهو خوش ۽ سڪون ۾ هوندو آهي، جڏهن هو پنهنجي دل پنهنجي ڪم ۾ وجهي ٿو ۽ پنهنجو بهترين ڪري ٿو؛ پر جيڪو هن ان کان سواءِ چيو يا ڪيو آهي، اهو هن کي سڪون نه ڏيندو.",
+            "ur": "ہر انسان کی تعلیم میں ایک وقت ایسا آتا ہے، جب وہ اس یقین تک پہنچتا ہے کہ حسد جہالت ہے؛ نقل خودکشی ہے؛ اسے خود کو جیسا ہے ویسا ہی قبول کرنا چاہیے، بھلے کے لیے ہو یا برے کے لیے، یہی اس کا حصہ ہے؛ اگرچہ وسیع دنیا بھلائی سے بھری ہوئی ہے، لیکن کوئی بھی اصل چیز اسے تب ہی مل سکتی ہے، جب وہ اپنی محنت اس زمین کے ٹکڑے پر لگائے، جو اسے جوتے کے لیے دیا گیا ہے۔ جو طاقت اس میں ہے، وہ فطرت میں نئی ہے، اور اس کے سوا کوئی نہیں جانتا کہ وہ کیا کر سکتا ہے، اور وہ خود بھی نہیں جانتا، جب تک کہ اس نے کوشش نہ کی ہو۔ انسان خوش اور سکون میں ہوتا ہے، جب وہ اپنا دل اپنے کام میں لگا دیتا ہے اور اپنی بہترین کوشش کرتا ہے؛ لیکن جو اس نے اس کے علاوہ کہا یا کیا ہے، وہ اسے سکون نہیں دے گا۔"
+          },
+          {
+            "en": "Trust thyself: every heart vibrates to that iron string. Accept the place the divine providence has found for you, the society of your contemporaries, the connection of events. Great men have always done so, and confided themselves childlike to the genius of their age, betraying their perception that the absolutely trustworthy was seated at their heart, working through their hands, predominating in all their being.",
+            "sd": "پنهنجي پاڻ تي ڀروسو ڪر: هر دل ان لوھھ جي تار سان ڌڙڪي ٿي. اها جاءِ قبول ڪر، جيڪا خدائي تقدير تنهنجي لاءِ ڳولي آهي، تنهنجي دور جي ماڻهن جي صحبت، واقعن جو سلسلو. وڏا ماڻهو هميشه ائين ڪندا آيا آهن، ۽ پنهنجي دور جي ذهانت تي ٻار وانگر ڀروسو ڪندا آيا آهن، اهو ظاهر ڪندي ته جيڪو بلڪل ڀروسو جوڳو آهي، اهو هنن جي دل ۾ ويٺل آهي، هنن جي هٿن سان ڪم ڪري رھيو آهي، ۽ هنن جي سموري وجود تي حاوي آهي.",
+            "ur": "خود پر بھروسا کرو: ہر دل اس لوہے کی تار سے دھڑکتا ہے۔ وہ جگہ قبول کرو، جو خدائی تقدیر نے تمہارے لیے تلاش کی ہے، تمہارے ہم عصروں کی صحبت، واقعات کا سلسلہ۔ عظیم لوگ ہمیشہ ایسا ہی کرتے آئے ہیں، اور اپنے دور کی ذہانت پر بچوں کی طرح بھروسا کرتے آئے ہیں، یہ ظاہر کرتے ہوئے کہ جو بالکل قابلِ بھروسا ہے، وہ ان کے دل میں بیٹھا ہے، ان کے ہاتھوں سے کام کر رہا ہے، اور ان کے پورے وجود پر حاوی ہے۔"
+          },
+          {
+            "en": "What I must do is all that concerns me, not what the people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder, because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.",
+            "sd": "جيڪو مون کي ڪرڻو آهي، اهو ئي منهنجو ڪم آهي، نه ته ماڻهو ڇا ٿا سوچين. هي اصول، عملي زندگي ۾ به اوترو ئي ڏکيو آهي جيترو فڪري زندگي ۾، عظمت ۽ ڪميڻائي وچ ۾ سڄو فرق ٻڌائي سگھي ٿو. اهو وڌيڪ ڏکيو آهي، ڇو ته توکي هميشه اهڙا ماڻهو ملندا، جيڪي سمجھن ٿا ته هو تنهنجو فرض تنهنجي کان بهتر ڄاڻن ٿا. دنيا ۾ دنيا جي سوچ موجب هلڻ سولو آهي؛ اڪيلائي ۾ پنهنجي سوچ موجب هلڻ سولو آهي؛ پر وڏو ماڻهو اهو آهي، جيڪو ميڙ جي وچ ۾ به مڪمل مٺاس سان اڪيلائي جي آزادي برقرار رکي ٿو.",
+            "ur": "جو مجھے کرنا ہے، وہی میرا کام ہے، نہ کہ لوگ کیا سوچتے ہیں۔ یہ اصول، عملی زندگی میں بھی اتنا ہی مشکل ہے جتنا فکری زندگی میں، عظمت اور کمینگی کے درمیان پورا فرق بتا سکتا ہے۔ یہ اس لیے زیادہ مشکل ہے، کیونکہ تمہیں ہمیشہ ایسے لوگ ملیں گے، جو سمجھتے ہیں کہ وہ تمہارا فرض تم سے بہتر جانتے ہیں۔ دنیا میں دنیا کی رائے پر چلنا آسان ہے؛ تنہائی میں اپنی رائے پر چلنا آسان ہے؛ لیکن عظیم انسان وہ ہے، جو بھیڑ کے بیچ میں بھی پوری مٹھاس کے ساتھ تنہائی کی آزادی برقرار رکھتا ہے۔"
+          },
+          {
+            "en": "Insist on yourself; never imitate. Your own gift you can present every moment with the full force of a whole life's cultivation; but the borrowed talent of another, you have only temporary and incomplete possession. No man yet knows what it is until that person has exhibited it. Where is the master who could have taught Shakespeare? Where is the master who could have instructed Franklin, or Washington, or Bacon, or Newton? Every great man is a unique. Shakespeare will never be made by the study of Shakespeare. Do that which is assigned to you, and you cannot hope too much or dare too much. Abide in the simple and noble regions of thy life, obey your heart, and you shall reproduce your own creative world again.",
+            "sd": "پنهنجي پاڻ تي زور ڏي؛ ڪڏهن به نقل نه ڪر. پنهنجي ڏات تون هر لمحي سڄي زندگي جي محنت جي پوري طاقت سان پيش ڪري سگھين ٿو؛ پر ٻئي جي اڌاري ڏات تي تنهنجو رڳو عارضي ۽ اڻپورو قبضو آهي. اڃا تائين ڪو به ماڻهو نٿو ڄاڻي ته اهو ڇا آهي، جيستائين ان شخص ان کي ظاهر نه ڪيو هجي. اهو استاد ڪٿي آهي، جيڪو شيڪسپيئر کي سيکاري سگھيو هجي؟ اهو استاد ڪٿي آهي، جيڪو فرينڪلن، يا واشنگٽن، يا بيڪن، يا نيوٽن کي سيکاري سگھيو هجي؟ هر وڏو ماڻهو هڪڙو ئي آهي. شيڪسپيئر ڪڏهن به شيڪسپيئر جي مطالعي سان نه ٺھندو. اهو ڪر، جيڪو توکي ڏنو ويو آهي، ۽ تون گهڻي اميد يا گهڻي همت کان وڌيڪ نه ٿو ڪري سگھين. پنهنجي زندگي جي سادي ۽ عظيم علائقن ۾ رھو، پنهنجي دل جي ٻڌو، ۽ تون پنهنجي تخليقي دنيا کي وري پيدا ڪندين.",
+            "ur": "خود پر زور دو؛ کبھی نقل نہ کرو۔ اپنی صلاحیت تم ہر لمحہ پوری زندگی کی محنت کی پوری طاقت کے ساتھ پیش کر سکتے ہو؛ لیکن دوسرے کی ادھار صلاحیت پر تمہارا صرف عارضی اور نامکمل قبضہ ہے۔ ابھی تک کوئی انسان نہیں جانتا کہ وہ کیا ہے، جب تک کہ اس شخص نے اسے ظاہر نہ کیا ہو۔ وہ استاد کہاں ہے، جو شیکسپیئر کو سکھا سکتا تھا؟ وہ استاد کہاں ہے، جو فرینکلن، یا واشنگٹن، یا بیکن، یا نیوٹن کو سکھا سکتا تھا؟ ہر عظیم انسان ایک ہی ہے۔ شیکسپیئر کبھی شیکسپیئر کے مطالعے سے نہیں بنے گا۔ وہ کرو، جو تمہیں سونپا گیا ہے، اور تم بہت زیادہ امید یا بہت زیادہ ہمت نہیں کر سکتے۔ اپنی زندگی کے سادہ اور عظیم علاقوں میں رہو، اپنے دل کی سنو، اور تم اپنی تخلیقی دنیا کو دوبارہ پیدا کرو گے۔"
+          },
+          {
+            "en": "Society never advances. It recedes as fast on one side as it gains on the other. It undergoes continual changes; it is barbarous, it is civilized, it is religious, it is rich, it is scientific; but this change is not for better. For everything that is given, something is taken. Society acquires new arts, and loses old instincts. What a contrast between the well-clad, reading, writing, thinking civilized, with a watch, a pencil, and a bill of exchange in his pocket, and the naked savage, whose property is a club, a spear, a mat, and an undivided portion of shed to sleep under! But compare the health of the two men, and you shall see that the civilized man has lost his aboriginal strength. If the traveller tells us truly, strike the savage with a broad axe, and in a day or two the flesh shall unite and heal as if you struck the blow into soft pitch, and the same blow shall send the civilized man to his grave.",
+            "sd": "سماج ڪڏهن به اڳتي نٿو وڌي. اهو هڪ پاسي جيترو پوئتي هٽي ٿو، اوترو ئي ٻئي پاسي اڳتي وڌي ٿو. ان ۾ لڳاتار تبديليون اچن ٿيون؛ اهو وحشي آهي، اهو مهذب آهي، اهو مذهبي آهي، اهو مالدار آهي، اهو سائنسي آهي؛ پر هي تبديلي بهتري لاءِ ناهي. جيڪا ڳالهه ڏني وڃي ٿي، ان جي بدلي ۾ ڪا ڳالهه وٺي وڃي ٿي. سماج نوان فن حاصل ڪري ٿو، ۽ پراڻيون جبلتون وڃائي ٿو. سٺا ڪپڙا پاتل، پڙهندڙ، لکندڙ، سوچيندڙ مهذب ماڻهو، جنهن جي کيسي ۾ گهڙي، پينسل ۽ هنڊي آهي، ۽ اگھاڙو وحشي، جنهن جي ملڪيت هڪ لٺ، هڪ نيزو، هڪ چٽ ۽ سمهڻ لاءِ ڇپر جو اڻ ورهايل حصو آهي، انهن وچ ۾ ڪهڙو فرق آهي! پر ٻنهي ماڻهن جي صحت جو مقابلو ڪر، ته توکي نظر ايندو ته مهذب ماڻهو پنهنجي اصلي طاقت وڃائي چڪو آهي. جيڪڏهن مسافر اسان کي سچ ٻڌائي ٿو، ته وحشي کي ويڪري ڪهاڙي سان مار، ته هڪ يا ٻن ڏينهن ۾ گوشت ملي ويندو ۽ ائين ڀرجي ويندو، ڄڻ تو اهو ڌڪ نرم تارڪول ۾ هنيو هجي، ۽ اهو ئي ڌڪ مهذب ماڻهو کي قبر ۾ موڪلي ڇڏيندو.",
+            "ur": "سماج کبھی آگے نہیں بڑھتا۔ وہ ایک طرف جتنا پیچھے ہٹتا ہے، اتنا ہی دوسری طرف آگے بڑھتا ہے۔ اس میں مسلسل تبدیلیاں آتی ہیں؛ وہ وحشی ہے، وہ مہذب ہے، وہ مذہبی ہے، وہ مالدار ہے، وہ سائنسی ہے؛ لیکن یہ تبدیلی بہتری کے لیے نہیں ہے۔ جو چیز دی جاتی ہے، اس کے بدلے میں کوئی چیز لے لی جاتی ہے۔ سماج نئے فنون حاصل کرتا ہے، اور پرانی جبلتیں کھو دیتا ہے۔ اچھے کپڑے پہنے ہوئے، پڑھنے لکھنے سوچنے والے مہذب انسان، جس کی جیب میں گھڑی، پنسل اور ہنڈی ہے، اور ننگے وحشی، جس کی ملکیت ایک لاٹھی، ایک نیزہ، ایک چٹائی اور سونے کے لیے چھپر کا غیر منقسم حصہ ہے، ان کے درمیان کیا فرق ہے! لیکن دونوں انسانوں کی صحت کا موازنہ کرو، تو تمہیں نظر آئے گا کہ مہذب انسان اپنی اصلی طاقت کھو چکا ہے۔ اگر مسافر ہمیں سچ بتاتا ہے، تو وحشی کو چوڑی کلہاڑی سے مارو، تو ایک یا دو دن میں گوشت مل جائے گا اور اس طرح بھر جائے گا، جیسے تم نے وہ ضرب نرم تارکول میں لگائی ہو، اور وہی ضرب مہذب انسان کو قبر میں پہنچا دے گی۔"
+          },
+          {
+            "en": "The civilized man has built a coach, but has lost the use of his feet. He is supported on crutches, but lacks so much support of muscle. He has a fine modern watch, but he fails of the skill to tell the hour by the sun. An almanac he has, and so being sure of the information when he wants it, the man in the street does not know a star in the sky. The solstice he does not observe; the equinox he knows as little; and the whole bright calendar of the year is without a dial in his mind. His note-books impair his memory.",
+            "sd": "مهذب ماڻهو گاڏي ٺاهي آهي، پر هو پنهنجي پيرن تي هلڻ وساري چڪو آهي. هو لٺين جي سهاري هلي ٿو، پر هن جي عضون ۾ اها طاقت ناهي. هن وٽ سٺي جديد گهڙي آهي، پر هو سج کي ڏسي وقت ٻڌائي نٿو سگھي. هن وٽ سالنامو آهي، ۽ جڏهن کيس معلومات گهرجي ٿي، تڏهن اها کيس پڪي ملي ٿي، تنهنڪري عام ماڻهو آسمان ۾ ڪو به تارو نٿو سڃاڻي. هو سولسٽس (سج جي انتها واري ڏينهن) کي نٿو ڏسي؛ ايڪوئينوڪس (ڏينهن ۽ رات جي برابري) کي به اوترو ئي ٿورو ڄاڻي ٿو؛ ۽ سال جو سڄو روشن ڪئلينڊر هن جي ذهن ۾ بنا ڪنهن ڊائل جي آهي. هن جون نوٽ بڪون هن جي يادگيري کي ڪمزور ڪن ٿيون.",
+            "ur": "مہذب انسان نے گاڑی بنائی ہے، لیکن اپنے پیروں کا استعمال کھو دیا ہے۔ وہ لاٹھیوں کے سہارے کھڑا ہے، لیکن اس کے عضلات میں وہ طاقت نہیں ہے۔ اس کے پاس اچھی جدید گھڑی ہے، لیکن وہ سورج کو دیکھ کر وقت بتا نہیں سکتا۔ اس کے پاس سالنامہ ہے، اور جب اسے معلومات چاہیے ہوتی ہے، تو وہ اسے پکی مل جاتی ہے، اس لیے عام آدمی آسمان میں کوئی ستارہ نہیں پہچانتا۔ وہ سورج کے انتہائی دن کو نہیں دیکھتا؛ دن اور رات کی برابری کو بھی اتنا ہی کم جانتا ہے؛ اور سال کا سارا روشن کیلنڈر اس کے ذہن میں بغیر کسی ڈائل کے ہے۔ اس کی نوٹ بکیں اس کی یادداشت کو کمزور کر دیتی ہیں۔"
+          },
+          {
+            "en": "Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles.",
+            "sd": "ڪا به ڳالهه توکي سڪون نٿي ڏئي سگھي، رڳو تون پاڻ. ڪا به ڳالهه توکي سڪون نٿي ڏئي سگھي، رڳو اصولن جي فتح.",
+            "ur": "کوئی چیز تمہیں سکون نہیں دے سکتی، سوائے تمہارے اپنے آپ کے۔ کوئی چیز تمہیں سکون نہیں دے سکتی، سوائے اصولوں کی فتح کے۔"
+          }
+        ],
+        "section": "6.1",
+        "unit": 6,
+        "unitTitle": "Respecting Self & Others"
+      },
+      {
+        "bookPages": "108-110",
+        "lesson": "Struggle for an Education",
+        "paragraphs": [
+          {
+            "en": "Background: This is a narrative by Booker T. Washington about his struggle to get an education. In this narrative, Booker uses a number of literary devices to bring out his message in a clear manner. In this narrative, he identifies the challenges he had to face in order to save enough money to travel to Virginia.",
+            "sd": "پس منظر: هي بڪر ٽي واشنگٽن جي تعليم حاصل ڪرڻ لاءِ ڪيل جدوجهد بابت هڪ داستان آهي. هن داستان ۾، بڪر پنهنجو پيغام واضح نموني سان ظاهر ڪرڻ لاءِ ڪيترائي ادبي اوزار استعمال ڪري ٿو. هن داستان ۾، هو انهن مشڪلاتن کي سڃاڻي ٿو، جن کي هن کي ورجينيا وڃڻ لاءِ ڪافي پئسا بچائڻ لاءِ منهن ڏيڻو پيو.",
+            "ur": "پس منظر: یہ بکر ٹی واشنگٹن کی تعلیم حاصل کرنے کے لیے کی گئی جدوجہد کے بارے میں ایک داستان ہے۔ اس داستان میں بکر اپنا پیغام واضح انداز میں پیش کرنے کے لیے کئی ادبی اوزار استعمال کرتا ہے۔ اس داستان میں وہ ان مشکلات کی نشاندہی کرتا ہے جن کا اسے ورجینیا جانے کے لیے کافی رقم بچانے کے لیے سامنا کرنا پڑا۔"
+          },
+          {
+            "en": "One day, while at work in the coal-mine, I happened to overhear two miners talking about a great school for coloured people somewhere in Virginia. This was the first time that I had ever heard anything about any kind of school or college that was more pretentious than the little coloured school in our town. I heard one telling the other that not only was the school established for the members of my race, but the opportunities were provided by which poor - but worthy students - could work out all or a part of the cost of board, and at the same time be taught some trade or industry. I resolved at once to go to that school, although I had no idea where it was, or how many miles away, or how I was going to reach it. I remembered only that I was on fire constantly with one ambition, and that was to go to Hampton. While at work here, I heard of a vacant position in the household of General Lewis Ruffner, the owner of the salt-furnace and coal-mine. Mother applied to her for the vacant position. I was hired at a salary of $5 per month. I soon began to learn that first of all, she wanted everything kept clean about her, that she wanted things done promptly and systematically, and that at the bottom of everything she wanted absolute honesty and frankness. Nothing must be slipshod and every door, every fence, must be kept in repair. The lessons that I learned in the home of Mrs. Ruffner were as valuable to me as any education I have ever gotten anywhere since. In the fall of 1872, I determined to make an effort to go. The small amount of money that I had earned had been consumed by my stepfather and the remainder of the family, with the exception of a very few dollars, and so I had very little with which to buy clothes and pay my travelling expenses. Finally the great day came, and I started for Hampton.",
+            "sd": "هڪ ڏينهن، جڏهن مان ڪوئلي جي کاڻ ۾ ڪم ڪري رھيو هيس، ته مون ٻن کاڻين جي مزدورن کي ورجينيا ۾ ڪٿي ڪاري ماڻهن لاءِ هڪ وڏي اسڪول بابت ڳالهائيندي ٻڌو. هي پهريون ڀيرو هو جو مون ڪنهن به قسم جي اسڪول يا ڪاليج بابت ڪجهه ٻڌو هو، جيڪو اسان جي شهر جي ننڍڙي ڪاري اسڪول کان وڌيڪ وڏو هو. مون هڪ کي ٻئي کي چوندي ٻڌو ته نه رڳو اهو اسڪول منهنجي نسل جي ماڻهن لاءِ قائم ڪيو ويو هو، پر ان ۾ غريب — پر لائق — شاگردن کي اهو موقعو به ڏنو ويندو هو ته هو رهائش جي خرچ جو سڄو يا ڪجهه حصو ڪم ڪري پورو ڪري سگھن، ۽ ساڳئي وقت ڪو هنر يا صنعت به سکي سگھن. مون هڪدم ان اسڪول وڃڻ جو فيصلو ڪيو، جيتوڻيڪ مون کي خبر نه هئي ته اهو ڪٿي آهي، يا ڪيترا ميل پري آهي، يا مان اتي ڪيئن پهچندس. مون کي رڳو اهو ياد هو ته مان هڪ ئي خواهش سان مسلسل سڙي رھيو هيس، ۽ اها هئي هيمپٽن وڃڻ. هتي ڪم ڪندي، مون جنرل ليوس رفنر جي گھر ۾ هڪ خالي جڳھ بابت ٻڌو، جيڪو لوڻ جي ڀٽي ۽ ڪوئلي جي کاڻ جو مالڪ هو. ماءُ ان خالي جڳھ لاءِ هن وٽ درخواست ڏني. مون کي مهيني ۾ 5 ڊالر پگهار تي نوڪري ملي. مون جلد ئي سکيو ته سڀ کان پهرين، هوءَ چاهيندي هئي ته هن جي چوڌاري هر شيءِ صاف سٿري رھي، هوءَ چاهيندي هئي ته ڪم وقت تي ۽ ترتيب سان ٿين، ۽ هر شيءِ جي تري ۾ هوءَ مڪمل ايمانداري ۽ صاف گوئي چاهيندي هئي. ڪا به شيءِ اڌوري نه هجڻ گهرجي ۽ هر دروازو، هر باڙ، مرمت ٿيل رکڻ گهرجي. جيڪي سبق مون مسز رفنر جي گھر ۾ سکيا، اهي منهنجي لاءِ ايترا ئي قيمتي هئا، جيتري ڪا به تعليم مون کي ان کان پوءِ ڪٿي به ملي آهي. 1872ع جي خزان ۾، مون وڃڻ جي ڪوشش ڪرڻ جو فيصلو ڪيو. جيڪي ٿورا پئسا مون ڪمايا هئا، اهي منهنجي سوٽيلي پيءُ ۽ خاندان جي باقي ماڻهن خرچ ڪري ڇڏيا هئا، سواءِ ڪجهه ڊالرن جي، ۽ ان ڪري منهنجي وٽ ڪپڙا خريدڻ ۽ سفر جو خرچ ادا ڪرڻ لاءِ تمام ٿورا پئسا هئا. آخرڪار اهو وڏو ڏينهن آيو، ۽ مان هيمپٽن لاءِ روانو ٿيس.",
+            "ur": "ایک دن جب میں کوئلے کی کان میں کام کر رہا تھا، تو میں نے دو کان کنوں کو ورجینیا میں کہیں سیاہ فام لوگوں کے لیے ایک بڑے اسکول کے بارے میں بات کرتے سنا۔ یہ پہلی بار تھا کہ میں نے کسی بھی قسم کے اسکول یا کالج کے بارے میں کچھ سنا تھا جو ہمارے شہر کے چھوٹے سے سیاہ فام اسکول سے زیادہ بڑا تھا۔ میں نے ایک کو دوسرے سے کہتے سنا کہ نہ صرف یہ اسکول میری نسل کے لوگوں کے لیے قائم کیا گیا تھا، بلکہ اس میں غریب — لیکن لائق — طالب علموں کو یہ موقع بھی دیا جاتا تھا کہ وہ رہائش کی قیمت کا سارا یا کچھ حصہ کام کرکے پورا کرسکیں، اور اسی وقت کوئی ہنر یا صنعت بھی سیکھ سکیں۔ میں نے فوراً اس اسکول جانے کا فیصلہ کیا، حالانکہ مجھے معلوم نہیں تھا کہ وہ کہاں ہے، یا کتنے میل دور ہے، یا میں وہاں کیسے پہنچوں گا۔ مجھے صرف یہ یاد تھا کہ میں ایک ہی خواہش سے مسلسل جل رہا تھا، اور وہ ہیمپٹن جانا تھا۔ یہاں کام کرتے ہوئے مجھے جنرل لیوس رفنر کے گھر میں ایک خالی جگہ کے بارے میں معلوم ہوا، جو نمک کی بھٹی اور کوئلے کی کان کا مالک تھا۔ ماں نے اس خالی جگہ کے لیے اس کے پاس درخواست دی۔ مجھے ماہانہ 5 ڈالر تنخواہ پر نوکری مل گئی۔ میں نے جلد ہی سیکھ لیا کہ سب سے پہلے وہ چاہتی تھی کہ اس کے آس پاس ہر چیز صاف ستھری رہے، وہ چاہتی تھی کہ کام وقت پر اور ترتیب سے ہوں، اور ہر چیز کی بنیاد میں وہ مکمل ایمانداری اور صاف گوئی چاہتی تھی۔ کوئی چیز ادھوری نہیں ہونی چاہیے اور ہر دروازہ، ہر باڑ مرمت شدہ رکھنا چاہیے۔ جو سبق میں نے مسز رفنر کے گھر میں سیکھے وہ میرے لیے اتنے ہی قیمتی تھے جتنی کوئی بھی تعلیم جو مجھے اس کے بعد کہیں بھی ملی ہے۔ 1872ء کے خزاں میں میں نے جانے کی کوشش کرنے کا فیصلہ کیا۔ جو تھوڑی سی رقم میں نے کمائی تھی وہ میرے سوتیلے باپ اور خاندان کے باقی لوگوں نے خرچ کردی تھی، سوائے چند ڈالروں کے، اور اس لیے میرے پاس کپڑے خریدنے اور سفر کے اخراجات ادا کرنے کے لیے بہت کم رقم تھی۔ آخرکار وہ بڑا دن آگیا، اور میں ہیمپٹن کے لیے روانہ ہوگیا۔"
+          },
+          {
+            "en": "The distance from Malden to Hampton is about five hundred miles. I had not been away from home many hours before it became painfully clear that I did not have enough money to pay my fare to Hampton. By walking, begging rides both in wagons and in cars; in some way after a number of days, I reached the city of Richmond, Virginia, about eighty-two miles from Hampton. When I reached there, tired, hungry and dirty, it was late in the night. I had never been in a large city, and this rather added to my misery. When I reached Richmond I was completely out of money. I had not a single acquaintance in the place, and being unused to city ways, I did not know where to go. Just about the time when I reached extreme physical exhaustion, I came upon a portion of a street where the broad sidewalk was considerably elevated. I waited for a few minutes till I was sure that no passers-by could see me, and then crept under the sidewalk and lay for the night upon the ground, with my satchel of clothing for a pillow.",
+            "sd": "مالڊن کان هيمپٽن تائين جو فاصلو لڳ ڀڳ پنج سؤ ميل آهي. مان گھر کان پري ٿيو اڃا ڪيترائي ڪلاڪ به نه ٿيا هئا ته مون کي تڪليف سان خبر پئي ته منهنجي وٽ هيمپٽن تائين جو ڪرايو ڏيڻ لاءِ ڪافي پئسا نه هئا. پيادل هلڻ، گاڏين ۽ ڪارن ۾ سواري لاءِ منٿون ڪرڻ سان؛ ڪنهن نه ڪنهن نموني ڪيترن ئي ڏينهن کان پوءِ، مان ورجينيا جي رچمنڊ شهر پهتس، جيڪو هيمپٽن کان لڳ ڀڳ ٻاويهه ميل پري آهي. جڏهن مان اتي پهتس، ٿڪل، بکايل ۽ ميرا، ته رات دير ٿي چڪي هئي. مان اڳ ڪڏهن به ڪنهن وڏي شهر ۾ نه ويو هيس، ۽ هن ڳالھ منهنجي تڪليف ۾ اڃا به واڌارو ڪيو. جڏهن مان رچمنڊ پهتس ته منهنجي وٽ پئسا بلڪل ختم ٿي چڪا هئا. ان جڳھ تي منهنجو ڪو به سڃاڻو نه هو، ۽ شهر جي طريقن کان اڻڄاڻ هجڻ ڪري، مون کي خبر نه هئي ته ڪيڏانهن وڃان. لڳ ڀڳ ان وقت جڏهن مان جسماني ٿڪاوٽ جي انتها تي پهتو هيس، ته مان گھٿي جي هڪ اهڙي حصي تي پهتس، جتي ويڪرو فٽ پاٿ ڪافي مٿي هو. مان ڪجهه منٽ انتظار ڪيم، جيستائين مون کي پڪ ٿي وئي ته ڪو به ايندڙ ويندڙ مون کي ڏسي نه سگھندو، ۽ پوءِ مان فٽ پاٿ هيٺان لڪي ويس ۽ رات زمين تي ليٽي گذاريم، پنهنجي ڪپڙن واري ٿيلهي کي تکيو بڻائي.",
+            "ur": "مالڈن سے ہیمپٹن تک کا فاصلہ تقریباً پانچ سو میل ہے۔ میں گھر سے دور ہوئے ابھی کئی گھنٹے بھی نہیں ہوئے تھے کہ مجھے تکلیف سے معلوم ہوا کہ میرے پاس ہیمپٹن تک کا کرایہ ادا کرنے کے لیے کافی رقم نہیں تھی۔ پیدل چل کر، گاڑیوں اور کاروں میں سواری کے لیے منت کرکے؛ کسی نہ کسی طرح کئی دنوں کے بعد میں ورجینیا کے رچمنڈ شہر پہنچا، جو ہیمپٹن سے تقریباً بیاسی میل دور ہے۔ جب میں وہاں پہنچا، تھکا ہوا، بھوکا اور گندا، تو رات دیر ہوچکی تھی۔ میں پہلے کبھی کسی بڑے شہر میں نہیں گیا تھا، اور اس بات نے میری تکلیف میں اور اضافہ کردیا۔ جب میں رچمنڈ پہنچا تو میرے پاس پیسے بالکل ختم ہوچکے تھے۔ اس جگہ پر میرا کوئی جاننے والا نہیں تھا، اور شہر کے طریقوں سے ناواقف ہونے کی وجہ سے مجھے معلوم نہیں تھا کہ کہاں جاؤں۔ تقریباً اس وقت جب میں جسمانی تھکاوٹ کی انتہا پر پہنچا تھا، تو میں گلی کے ایک ایسے حصے پر پہنچا جہاں چوڑا فٹ پاتھ کافی اونچا تھا۔ میں چند منٹ انتظار کرتا رہا، یہاں تک کہ مجھے یقین ہوگیا کہ کوئی آنے جانے والا مجھے دیکھ نہیں سکتا، اور پھر میں فٹ پاتھ کے نیچے رینگ کر چلا گیا اور رات زمین پر لیٹ کر گزاری، اپنے کپڑوں والے تھیلے کو تکیہ بنا کر۔"
+          },
+          {
+            "en": "Nearly all night, I could hear the tramp of feet over my head. The next morning I noticed that I was near a large ship. I went at once to the vessel and asked the captain to permit me to help unload the vessel in order to get money for food. The captain, a white man, who seemed to be kind-hearted, consented. I worked long enough to earn money for my breakfast, and it seems to me, as I remember it now, to have been about the best breakfast that I have ever eaten. My work pleased the captain so well that he told me if I desired I could continue working for a small amount per day. This I was very glad to do. I continued to sleep under the same sidewalk that gave me shelter the first night I was in Richmond. Many years after that, the coloured citizens of Richmond very kindly tendered me a reception which was not far from the spot where had I slept the first night I spent in that city. I thanked the captain of the vessel for his kindness, and started again. Without any unusual occurrence I reached Hampton with a surplus of exactly fifty cents with which to begin my education. I presented myself before the head teacher for assignment to a class. Having been so long without proper food, a bath and change of clothing, I did not, of course, make a very favourable impression upon her. For some time she neither refused to admit me, nor did she decide in my favour and I continued to linger about her. After some hours had passed, the head teacher said to me: \"The adjoining recitation-room needs sweeping. Take the broom and sweep it.\" I swept the recitation room three times, then I got a dusting cloth, and I dusted it four times. All the woodwork around the walls, every bench, table, and desk, I went over four times with my dusting cloth. Besides, every piece of furniture had been moved and every closet and corner in the room had been thoroughly cleaned. I had the feeling that in a large measure my future depended upon the impression I made upon the teacher in the cleaning of that room. When I was through I reported to the head teacher. She was a \"Yankee\" woman who knew just where to look for dirt. She went into the room and inspected the floor and closets; then she took her handkerchief and rubbed it on the woodwork about the walls and over the table and benches. When she was unable to find one bit of dirt on the floor or a particle of dust on any of the furniture, she quietly remarked, \"I guess you will do to enter this institution. \"I was one of the happiest-souls on earth. The sweeping of that room was my college examination. I have passed several examinations since then, but I have always felt that this was the best one I ever passed.",
+            "sd": "لڳ ڀڳ سڄي رات، مون کي پنهنجي مٿان پيرن جي آواز ٻڌڻ ۾ ايندي رھي. ٻئي ڏينهن صبح جو مون ڏٺو ته مان هڪ وڏي جهاز جي ويجهو هيس. مان هڪدم جهاز وٽ ويس ۽ ڪپتان کان اجازت گھريم ته کاڌي لاءِ پئسا ڪمائڻ لاءِ جهاز خالي ڪرڻ ۾ مدد ڪريان. ڪپتان، هڪ گورو ماڻهو، جيڪو مهربان دل وارو لڳو، راضي ٿيو. مون ايترو ڪم ڪيو جو ناشتي لاءِ پئسا ڪمائي سگھيس، ۽ جيئن مون کي هاڻي ياد اچي ٿو، اهو شايد بهترين ناشتو هو، جيڪو مون ڪڏهن به کاڌو آهي. منهنجي ڪم ڪپتان کي ايترو ته خوش ڪيو جو هن مون کي چيو ته جيڪڏهن مان چاهيان ته ٿوري روزاني پگهار تي ڪم جاري رکي سگھان ٿو. اهو ڪرڻ لاءِ مان تمام خوش هيس. مان ساڳئي فٽ پاٿ هيٺان سمهندو رھيس، جنهن مون کي پهرين رات پناه ڏني هئي، جڏهن مان رچمنڊ ۾ هيس. ان کان ڪيترائي سال پوءِ، رچمنڊ جي ڪاري شهرين مون کي تمام مهرباني سان هڪ استقباليه ڏني، جيڪا ان جڳھ کان پري نه هئي، جتي مون پهرين رات سمهيو هيس، جيڪا مون ان شهر ۾ گذاري هئي. مون جهاز جي ڪپتان جو سندس مهرباني لاءِ شڪريو ادا ڪيو، ۽ ٻيهر روانو ٿيس. بغير ڪنهن غير معمولي واقعي جي مان هيمپٽن پهتس، ۽ منهنجي وٽ تعليم شروع ڪرڻ لاءِ بلڪل پنجاهه سينٽ بچيل هئا. مون پاڻ کي ڪلاس ۾ مقرر ڪرڻ لاءِ هيڊ ٽيچر آڏو پيش ڪيو. ايتري عرصي کان صحيح کاڌي، غسل ۽ ڪپڙن جي تبديلي کان سواءِ رھڻ ڪري، مون، يقينن، هن تي گهڻو سٺو تاثر نه وڌو. ڪجهه وقت تائين هوءَ نه ته مون کي داخل ڪرڻ کان انڪار ڪيائين، نه ئي هن منهنجي حق ۾ فيصلو ڪيو ۽ مان هن جي چوڌاري ترسندو رھيس. ڪجهه ڪلاڪ گذرڻ کان پوءِ، هيڊ ٽيچر مون کي چيو: ”ويجهو وارو تلاوت وارو ڪمرو صاف ڪرڻ جي ضرورت آهي. جھاڙو وٺو ۽ ان کي صاف ڪريو.“ مون تلاوت واري ڪمري کي ٽي ڀيرا جھاڙو ڏنو، پوءِ مون هڪ مٽي صاف ڪرڻ وارو ڪپڙو ورتو، ۽ مون ان کي چئن ڀيرا صاف ڪيو. ديوارن جي چوڌاري سڄي ڪاٺ جي ڪم، هر بينچ، ميز ۽ ڊيسڪ کي، مون پنهنجي مٽي صاف ڪرڻ واري ڪپڙي سان چئن ڀيرا صاف ڪيو. ان کان علاوه، فرنيچر جو هر ٽڪرو هٽايو ويو هو ۽ ڪمري جي هر الماري ۽ ڪنڊ کي چڱي طرح صاف ڪيو ويو هو. مون کي اهو احساس هو ته وڏي حد تائين منهنجو مستقبل ان تاثر تي منحصر هو، جيڪو مون ان ڪمري جي صفائي ۾ استاد تي وڌو هو. جڏهن مان مڪمل ٿيس ته مون هيڊ ٽيچر کي رپورٽ ڪئي. هوءَ هڪ ”ينڪي“ عورت هئي، جيڪا ڄاڻندي هئي ته مٽي ڪٿي ڳولڻي آهي. هوءَ ڪمري ۾ وئي ۽ فرش ۽ المارين جو معائنو ڪيائين؛ پوءِ هن پنهنجو رومال ورتو ۽ ان کي ديوارن جي چوڌاري ڪاٺ جي ڪم تي ۽ ميز ۽ بينچن تي ڌوئي. جڏهن هوءَ فرش تي مٽي جو هڪ به ذرو يا فرنيچر تي مٽي جو هڪ به ذرو ڳولي نه سگھي، ته هن خاموشي سان چيو، ”منهنجو خيال آهي ته تون هن اداري ۾ داخل ٿيڻ لاءِ تيار آهين.“ مان زمين تي سڀ کان خوش ماڻهن مان هڪ هيس. ان ڪمري جي صفائي منهنجو ڪاليج جو امتحان هو. مون ان کان پوءِ ڪيترائي امتحان پاس ڪيا آهن، پر مون کي هميشه اهو محسوس ٿيو آهي ته اهو بهترين امتحان هو، جيڪو مون ڪڏهن به پاس ڪيو آهي.",
+            "ur": "تقریباً ساری رات مجھے اپنے سر کے اوپر پیروں کی آواز سنائی دیتی رہی۔ اگلی صبح میں نے دیکھا کہ میں ایک بڑے جہاز کے قریب تھا۔ میں فوراً جہاز کے پاس گیا اور کپتان سے اجازت مانگی کہ کھانے کے لیے پیسے کمانے کے لیے جہاز خالی کرنے میں مدد کروں۔ کپتان، ایک گورا آدمی، جو مہربان دل والا لگتا تھا، راضی ہوگیا۔ میں نے اتنا کام کیا کہ ناشتے کے لیے پیسے کما سکوں، اور جیسا کہ مجھے اب یاد آتا ہے، وہ شاید بہترین ناشتہ تھا جو میں نے کبھی کھایا ہے۔ میرے کام نے کپتان کو اتنا خوش کیا کہ اس نے مجھ سے کہا کہ اگر میں چاہوں تو تھوڑی روزانہ تنخواہ پر کام جاری رکھ سکتا ہوں۔ یہ کرنے کے لیے میں بہت خوش تھا۔ میں اسی فٹ پاتھ کے نیچے سوتا رہا جس نے مجھے پہلی رات پناہ دی تھی جب میں رچمنڈ میں تھا۔ اس کے کئی سال بعد رچمنڈ کے سیاہ فام شہریوں نے بہت مہربانی سے مجھے ایک استقبالیہ دیا، جو اس جگہ سے دور نہیں تھا جہاں میں نے پہلی رات سویا تھا جو میں نے اس شہر میں گزاری تھی۔ میں نے جہاز کے کپتان کا اس کی مہربانی کے لیے شکریہ ادا کیا، اور دوبارہ روانہ ہوگیا۔ بغیر کسی غیر معمولی واقعے کے میں ہیمپٹن پہنچا، اور میرے پاس تعلیم شروع کرنے کے لیے بالکل پچاس سینٹ بچے ہوئے تھے۔ میں نے خود کو کلاس میں مقرر کرنے کے لیے ہیڈ ٹیچر کے سامنے پیش کیا۔ اتنے عرصے سے صحیح کھانے، غسل اور کپڑوں کی تبدیلی کے بغیر رہنے کی وجہ سے میں نے، یقیناً، اس پر بہت اچھا تاثر نہیں ڈالا۔ کچھ وقت تک وہ نہ تو مجھے داخل کرنے سے انکار کرتی تھی، نہ ہی اس نے میرے حق میں فیصلہ کیا اور میں اس کے ارد گرد گھومتا رہا۔ کچھ گھنٹے گزرنے کے بعد ہیڈ ٹیچر نے مجھ سے کہا: ”ساتھ والا تلاوت والا کمرہ صاف کرنے کی ضرورت ہے۔ جھاڑو لو اور اسے صاف کرو۔“ میں نے تلاوت والے کمرے کو تین بار جھاڑو دیا، پھر میں نے مٹی صاف کرنے والا کپڑا لیا، اور میں نے اسے چار بار صاف کیا۔ دیواروں کے ارد گرد لکڑی کا سارا کام، ہر بینچ، میز اور ڈیسک کو میں نے اپنے مٹی صاف کرنے والے کپڑے سے چار بار صاف کیا۔ اس کے علاوہ فرنیچر کا ہر ٹکڑا ہٹایا گیا تھا اور کمرے کی ہر الماری اور کونے کو اچھی طرح صاف کیا گیا تھا۔ مجھے یہ احساس تھا کہ بڑی حد تک میرا مستقبل اس تاثر پر منحصر تھا جو میں نے اس کمرے کی صفائی میں استاد پر ڈالا تھا۔ جب میں مکمل ہوگیا تو میں نے ہیڈ ٹیچر کو رپورٹ کی۔ وہ ایک ”ینکی“ عورت تھی جو جانتی تھی کہ مٹی کہاں تلاش کرنی ہے۔ وہ کمرے میں گئی اور فرش اور الماریوں کا معائنہ کیا؛ پھر اس نے اپنا رومال لیا اور اسے دیواروں کے ارد گرد لکڑی کے کام پر اور میز اور بینچوں پر رگڑا۔ جب وہ فرش پر مٹی کا ایک بھی ذرہ یا فرنیچر پر دھول کا ایک بھی ذرہ تلاش نہ کرسکی، تو اس نے خاموشی سے کہا، ”میرا خیال ہے کہ تم اس ادارے میں داخل ہونے کے لیے تیار ہو۔“ میں زمین پر سب سے خوش لوگوں میں سے ایک تھا۔ اس کمرے کی صفائی میرا کالج کا امتحان تھا۔ میں نے اس کے بعد کئی امتحانات پاس کیے ہیں، لیکن مجھے ہمیشہ یہ محسوس ہوا ہے کہ یہ بہترین امتحان تھا جو میں نے کبھی پاس کیا ہے۔"
+          }
+        ],
+        "section": "7.1",
+        "unit": 7,
+        "unitTitle": "Self-Grooming"
+      },
+      {
+        "bookPages": "123-126",
+        "lesson": "A Voyage to the City of Lions",
+        "paragraphs": [
+          {
+            "en": "Singapore is only at six hours' journey from Port Klang of Malaysia. At night, we anchored in Singapore. From our ship, the lights of Singapore's streets and high-rise buildings were shimmering as if decorated for a wedding. All the other vessels of various countries were anchored there too. Their reflections in the water provided a wonderful view, and it seemed as if each vessel were a small island. From a geographical perspective, Singapore is located at a maritime crossroad where almost every ship sailing to or from the Pacific to the Indian Ocean or the South China Sea anchors here. It's a free port as well as a major centre of fuel for ships. She seemed like an earthen lamp, surrounded by moths. Singapore's jetty was quite large. Small motorboats were moving in the water like taxis to get people to and from the ship to port. As soon as any such taxi came near, it was hailed, and the fare was haggled.",
+            "sd": "سنگاپور ملائيشيا جي پورٽ ڪلانگ کان رڳو ڇهن ڪلاڪن جي سفر تي آهي. رات جو، اسان سنگاپور ۾ لنگر انداز ٿياسين. اسان جي جهاز تان، سنگاپور جي گھٽين ۽ اوچين عمارتن جون بتيون اهڙيءَ طرح چمڪي رھيون هيون ڄڻ شاديءَ لاءِ سينگاريون ويون هجن. ٻين ملڪن جا سڀ جهاز بهي اتي لنگر انداز ٿيل هئا. پاڻيءَ ۾ سندن عڪس شاندار نظارو پيش ڪري رھيو هو، ۽ ائين لڳو ڄڻ هر جهاز هڪ ننڍڙو ٻيٽ هجي. جاگرافيائي لحاظ کان، سنگاپور سامونڊي چوراهي تي واقع آهي جتي پئسفڪ کان هندي سمنڊ يا ڏکڻ چين سمنڊ ڏي ويندڙ يا اتان ايندڙ لڳ ڀڳ هر جهاز هتي لنگر انداز ٿئي ٿو. اهو آزاد بندرگاهه بهي آهي ۽ جهازن لاءِ ٻارڻ جو وڏو مرڪز بهي آهي. اهو مٽيءَ جي ڏيئي وانگر لڳو جنهن جي چوڌاري پتنگا اڏامندا هجن. سنگاپور جي جيٽي گهڻي وڏي هئي. ننڍيون موٽر ٻيڙيون پاڻيءَ ۾ ٽيڪسين وانگر هلن ٿيون ته جيئن ماڻهن کي جهاز کان بندرگاهه تائين پهچائين. جيئن ئي ڪا اهڙي ٽيڪسي ويجهو ايندي هئي، ان کي سڏيو ويندو هو ۽ ڀاڙي تي سودو ڪيو ويندو هو.",
+            "ur": "سنگاپور ملائیشیا کی پورٹ کلانگ سے صرف چھ گھنٹے کے سفر پر ہے۔ رات کو ہم نے سنگاپور میں لنگر ڈالا۔ اپنے جہاز سے سنگاپور کی گلیوں اور بلند عمارتوں کی روشنیاں ایسی چمک رہی تھیں جیسے شادی کے لیے سجائی گئی ہوں۔ دوسرے ملکوں کے تمام جہاز بھی وہیں لنگر انداز تھے۔ پانی میں ان کا عکس ایک شاندار نظارہ پیش کر رہا تھا، اور یوں لگتا تھا جیسے ہر جہاز ایک چھوٹا سا جزیرہ ہو۔ جغرافیائی لحاظ سے سنگاپور ایک سمندری چوراہے پر واقع ہے جہاں بحرالکاہل سے بحر ہند یا جنوبی بحیرہ چین کی طرف جانے یا وہاں سے آنے والا تقریباً ہر جہاز یہیں لنگر انداز ہوتا ہے۔ یہ ایک آزاد بندرگاہ بھی ہے اور جہازوں کے لیے ایندھن کا ایک بڑا مرکز بھی ہے۔ وہ مٹی کے چراغ جیسی لگتی تھی جس کے گرد پروانے اڑ رہے ہوں۔ سنگاپور کی جیٹی کافی بڑی تھی۔ چھوٹی موٹر کشتیاں پانی میں ٹیکسیوں کی طرح چل رہی تھیں تاکہ لوگوں کو جہاز سے بندرگاہ تک لے جائیں۔ جیسے ہی کوئی ایسی ٹیکسی قریب آتی، اسے بلایا جاتا اور کرایہ طے کیا جاتا۔"
+          },
+          {
+            "en": "Singapore is a small island country. The largest inland river is only nine miles long, which floods in the sea. The river was filled with huge boats and barges. Cargo was loaded into trucks, which arrived at the river, from where it was sent to ships through barges. These barges did not have any engines. When four to five barges were loaded, a large motorboat pulled them to ships. From afar, they looked like camel caravans. The island of Singapore is not far from Malaysia. It has the same relation as the Island of Monora has with Karachi. As we have Kiamari, so is the Malaysian city of Johor, which lies just a quarter of a mile away from Singapore. There is a bridge that connects Johor with Singapore. Just cross the bridge, and you can jump from one country to another. There is a causeway as well as a railway track along the bridge.",
+            "sd": "سنگاپور هڪ ننڍڙو ٻيٽ ملڪ آهي. سڀ کان وڏو اندروني درياهه رڳو نو ميل ڊگهو آهي، جيڪو سمنڊ ۾ وهي ٿو. درياهه وڏين ٻيڙين ۽ بارجن سان ڀريل هو. سامان ٽرڪن ۾ لوڊ ڪيو ويو جيڪي درياهه تي پهتيون، جتان اهو بارجن ذريعي جهازن ڏي موڪليو ويو. انهن بارجن ۾ ڪا بهي انجڻ نه هئي. جڏهن چار يا پنج بارج لوڊ ٿي ويندا هئا، تڏهن هڪ وڏي موٽر ٻيڙي انهن کي ڇڪي جهازن تائين پهچائيندي هئي. پري کان، اهي اٺن جي قافلن وانگر لڳندا هئا. سنگاپور جو ٻيٽ ملائيشيا کان گهڻو پري ناهي. ڪراچيءَ سان منوڙي ٻيٽ جو جيڪو تعلق آهي، ساڳيو ئي تعلق سنگاپور جو ملائيشيا سان آهي. جيئن اسان وٽ ڪياماڙي آهي، تيئن ملائيشيا جو شهر جوهر آهي، جيڪو سنگاپور کان رڳو ميل جو چوٿون حصو پري آهي. هڪ پل آهي جيڪو جوهر کي سنگاپور سان ڳنڍي ٿي. پل پار ڪريو، ۽ توهان هڪ ملڪ کان ٻئي ملڪ ۾ ٽپي سگھو ٿا. پل سان گڏ هڪ ڪازوي ۽ ريلوي پٽڙي بهي آهي.",
+            "ur": "سنگاپور ایک چھوٹا جزیرہ نما ملک ہے۔ سب سے بڑا اندرونی دریا صرف نو میل لمبا ہے، جو سمندر میں بہتا ہے۔ دریا بڑی کشتیوں اور بارجوں سے بھرا ہوا تھا۔ سامان ٹرکوں میں لادا گیا، جو دریا پر پہنچے، جہاں سے اسے بارجوں کے ذریعے جہازوں تک بھیجا گیا۔ ان بارجوں میں کوئی انجن نہیں تھا۔ جب چار یا پانچ بارج لاد لیے جاتے تو ایک بڑی موٹر کشتی انہیں کھینچ کر جہازوں تک لے جاتی تھی۔ دور سے وہ اونٹوں کے قافلوں جیسے لگتے تھے۔ سنگاپور کا جزیرہ ملائیشیا سے زیادہ دور نہیں ہے۔ کراچی کے ساتھ منوڑہ جزیرے کا جو تعلق ہے، وہی تعلق سنگاپور کا ملائیشیا سے ہے۔ جیسے ہمارے ہاں کیماڑی ہے، ویسے ہی ملائیشیا کا شہر جوہر ہے، جو سنگاپور سے صرف ایک میل کا چوتھائی حصہ دور ہے۔ ایک پل ہے جو جوہر کو سنگاپور سے ملاتا ہے۔ پل پار کرو، اور تم ایک ملک سے دوسرے ملک میں چھلانگ لگا سکتے ہو۔ پل کے ساتھ ایک کازوے اور ریلوے ٹریک بھی ہے۔"
+          },
+          {
+            "en": "Singapore is a country of many religions and nations. Among its population are Muslims, Buddhists, Hindus, Christians, and Sikhs. Various languages are widely spoken, but there are four national languages: English, Malay, Chinese, and Tamil. Signboards appear in those languages so do programs on TV and radio. Masjid Sultan is the biggest and the most beautiful mosque in Singapore. There is a sizable Muslim population in the city.",
+            "sd": "سنگاپور گهڻن مذهبن ۽ قومن جو ملڪ آهي. ان جي آباديءَ ۾ مسلمان، ٻڌ مت وارا، هندو، عيسائي ۽ سک شامل آهن. مختلف ٻوليون وڏي پيماني تي ڳالهايون وڃن ٿيون، پر چار قومي ٻوليون آهن: انگريزي، ملائي، چيني ۽ تامل. انهن ٻولين ۾ سائن بورڊ نظر اچن ٿا ۽ ٽي وي ۽ ريڊيو تي پروگرام بهي اهڙيءَ طرح اچن ٿا. مسجد سلطان سنگاپور جي سڀ کان وڏي ۽ سهڻي مسجد آهي. شهر ۾ مسلمانن جي وڏي آبادي آهي.",
+            "ur": "سنگاپور بہت سے مذاہب اور قوموں کا ملک ہے۔ اس کی آبادی میں مسلمان، بدھ مت، ہندو، عیسائی اور سکھ شامل ہیں۔ مختلف زبانیں بڑے پیمانے پر بولی جاتی ہیں، لیکن چار قومی زبانیں ہیں: انگریزی، مالے، چینی اور تامل۔ ان زبانوں میں سائن بورڈ نظر آتے ہیں اور ٹی وی اور ریڈیو پر پروگرام بھی اسی طرح آتے ہیں۔ مسجد سلطان سنگاپور کی سب سے بڑی اور خوبصورت مسجد ہے۔ شہر میں مسلمانوں کی بڑی آبادی ہے۔"
+          },
+          {
+            "en": "Singapore is known in the world as one of the prosperous and wealthiest countries in the area. People might mistake it for a large country with abundant agricultural products or minerals. But, Singapore is a small island, which is just like a dot on the world map. The area of the whole country is only two hundred and twenty-five square miles. Eighty percent of the population lives in just twenty-eight square miles of land around the port. Like Japan, she imports every raw material and most of the food products. However, like Japan, she is wise in matters of money and wealth. Much of her income depends on the arrival of tourists, trade, and ships from overseas. Tourists and traders from all over the world come here for business, shopping, and leisure.",
+            "sd": "سنگاپور دنيا ۾ علائقي جي خوشحال ۽ سڀ کان وڌيڪ مالدار ملڪن مان هڪ طور سڃاتو وڃي ٿو. ماڻهو شايد ان کي زرعي پيداوار يا معدنيات سان ڀرپور وڏو ملڪ سمجھن. پر، سنگاپور هڪ ننڍڙو ٻيٽ آهي، جيڪو دنيا جي نقشي تي هڪ نقطي وانگر آهي. پوري ملڪ جي ايراضي رڳو ٻه سئو پنجويهه چورس ميل آهي. آباديءَ جو اسي سيڪڙو بندرگاهه جي چوڌاري رڳو اٺاويهه چورس ميل زمين تي رھي ٿو. جاپان وانگر، اهو هر خام مال ۽ کاڌي جون گهڻيون شيون ٻاهران گهرائي ٿو. پر، جاپان وانگر، اهو پئسي ۽ دولت جي معاملي ۾ عقلمند آهي. ان جي آمدنيءَ جو گهڻو حصو سياحن، واپار ۽ ٻاهرين ملڪن کان ايندڙ جهازن تي منحصر آهي. دنيا جي هر ڪنڊ کان سياح ۽ واپاري هتي ڪاروبار، خريداري ۽ تفريح لاءِ اچن ٿا.",
+            "ur": "سنگاپور دنیا میں علاقے کے خوشحال اور امیر ترین ملکوں میں سے ایک کے طور پر جانا جاتا ہے۔ لوگ شاید اسے زرعی پیداوار یا معدنیات سے مالا مال ایک بڑا ملک سمجھیں۔ لیکن سنگاپور ایک چھوٹا جزیرہ ہے، جو دنیا کے نقشے پر ایک نقطے جیسا ہے۔ پورے ملک کا رقبہ صرف دو سو پچیس مربع میل ہے۔ آبادی کا اسی فیصد بندرگاہ کے ارد گرد صرف اٹھائیس مربع میل زمین پر رہتا ہے۔ جاپان کی طرح، وہ ہر خام مال اور کھانے کی زیادہ تر چیزیں باہر سے منگواتا ہے۔ تاہم، جاپان کی طرح، وہ پیسے اور دولت کے معاملے میں عقلمند ہے۔ اس کی آمدنی کا زیادہ حصہ سیاحوں، تجارت اور بیرون ملک سے آنے والے جہازوں پر منحصر ہے۔ دنیا بھر سے سیاح اور تاجر یہاں کاروبار، خریداری اور تفریح کے لیے آتے ہیں۔"
+          },
+          {
+            "en": "Singapore is a shoppers' paradise where one can buy almost everything at cheaper rates than even the country of its origin. Tourists stay in big hotels but eat meals in small restaurants to enjoy the cuisine of the East and the West. Most of Singaporean workforce depends on the outsiders in different ways. Comfortable and spacious public buses ply on roads to ease traffic on the roads. Even, wealthy people and high officials often travel in these buses instead of their own cars. Many of these buses are air-conditioned, but the fare is quite low.",
+            "sd": "سنگاپور خريدارن جي جنت آهي جتي ماڻهو لڳ ڀڳ هر شيءِ پنهنجي اصل ملڪ کان بهي سستي اگھه تي خريد ڪري سگھي ٿو. سياح وڏن هوٽلن ۾ رھن ٿا پر ننڍن ريسٽورنٽن ۾ ماني کائين ٿا ته جيئن اوڀر ۽ اولهه جي کاڌي جو مزو وٺي سگھن. سنگاپور جي گهڻن ڪم ڪندڙ ماڻهن جو گذر ٻاهريان ماڻهن تي مختلف طريقن سان ٿئي ٿو. آرامده ۽ ڪشاده سرڪاري بسون رستن تي هلن ٿيون ته جيئن رستن تي ٽريفڪ گھٽجي وڃي. مالدار ماڻهو ۽ وڏا آفيسر بهي پنهنجين ڪارن بدران اڪثر انهن بسن ۾ سفر ڪن ٿا. انهن بسن مان گهڻيون ايئر ڪنڊيشنڊ آهن، پر ڀاڙو گهڻو گھٽ آهي.",
+            "ur": "سنگاپور خریداروں کی جنت ہے جہاں آدمی تقریباً ہر چیز اس کے اصل ملک سے بھی سستے داموں خرید سکتا ہے۔ سیاح بڑے ہوٹلوں میں ٹھہرتے ہیں لیکن چھوٹے ریستورانوں میں کھانا کھاتے ہیں تاکہ مشرق اور مغرب کے کھانوں کا مزہ لے سکیں۔ سنگاپور کی زیادہ تر افرادی قوت مختلف طریقوں سے باہر کے لوگوں پر منحصر ہے۔ آرام دہ اور کشادہ سرکاری بسیں سڑکوں پر چلتی ہیں تاکہ سڑکوں پر ٹریفک کم ہو۔ امیر لوگ اور بڑے افسر بھی اپنی گاڑیوں کے بجائے اکثر ان بسوں میں سفر کرتے ہیں۔ ان بسوں میں سے بہت سی ایئر کنڈیشنڈ ہیں، لیکن کرایہ بہت کم ہے۔"
+          },
+          {
+            "en": "Near the port is the Change Alley. You may find every currency of the world being exchanged and traded in this narrow and dark market. After exchanging money, we decided to go for a visit to the city. The largest market in Singapore was Raffles Pulse, which was very close to the port. All the shops there were large and multi-story. Different types of items were sold on each site. Walking into the big shops with a small pocket was putting one in the inferiority complex. But, there was no bar to window shopping. Bargaining was common in Singapore as in Hong Kong, Malaysia, and nearly all Asian countries. One of the markets here is 'Arab Street,' known throughout Singapore for reasonable prices.",
+            "sd": "بندرگاهه جي ويجهو چينج ايلي آهي. توهان دنيا جي هر ڪرنسي هن تنگ ۽ اونداهي بازار ۾ مٽائي ۽ واپار ڪندي ڏسي سگھو ٿا. پئسا مٽائڻ کان پوءِ، اسان شهر گھمڻ جو فيصلو ڪيو. سنگاپور جي سڀ کان وڏي بازار رافلز پليس هئي، جيڪا بندرگاهه جي تمام ويجهو هئي. اتي سڀ دڪان وڏا ۽ گهڻن ماڙن وارا هئا. مختلف قسمن جون شيون هر ماڙ تي وڪيون وينديون هيون. ننڍي کيسي سان وڏن دڪانن ۾ گھڙڻ پاڻ کي گھٽتائيءَ جي احساس ۾ وجهڻ هو. پر، ونڊو شاپنگ تي ڪا بهي پابندي نه هئي. سوديبازي سنگاپور ۾ عام هئي، جيئن هانگ ڪانگ، ملائيشيا ۽ لڳ ڀڳ سڀني ايشيائي ملڪن ۾. هتي جي هڪ بازار 'عرب اسٽريٽ' آهي، جيڪا پوري سنگاپور ۾ مناسب اگھه لاءِ مشهور آهي.",
+            "ur": "بندرگاہ کے قریب چینج ایلی ہے۔ تم دنیا کی ہر کرنسی اس تنگ اور تاریک بازار میں بدلی اور تجارت ہوتی دیکھ سکتے ہو۔ پیسے بدلنے کے بعد، ہم نے شہر کی سیر کا فیصلہ کیا۔ سنگاپور کا سب سے بڑا بازار ریفلز پلیس تھا، جو بندرگاہ کے بہت قریب تھا۔ وہاں تمام دکانیں بڑی اور کئی منزلہ تھیں۔ مختلف قسم کی چیزیں ہر منزل پر بکتی تھیں۔ چھوٹی جیب کے ساتھ بڑی دکانوں میں جانا احساس کمتری میں مبتلا ہونا تھا۔ لیکن ونڈو شاپنگ پر کوئی پابندی نہیں تھی۔ سودے بازی سنگاپور میں عام تھی، جیسے ہانگ کانگ، ملائیشیا اور تقریباً تمام ایشیائی ملکوں میں۔ یہاں کا ایک بازار 'عرب اسٹریٹ' ہے، جو پورے سنگاپور میں مناسب قیمتوں کے لیے مشہور ہے۔"
+          },
+          {
+            "en": "Although the rain falls almost incessantly, Singapore is very clean. One can see the cleanliness, greenery, and rows of flowers next to each house. Singapore is recognized as the 'Mr. Clean' of the world. The spirit of cleanliness is present in everyone, from children to elders. The Japanese saying that 'keep your house and the front of the street clean so you see the whole city clean' is practiced here in letter and spirit by the people. Besides, the government is also strict in the matter of cleanliness. Large fines are imposed on small transgressions: fifty dollars on spitting, and huge penalties or even jail terms for littering on roads. Garbage bins are placed in every nook and corner. There is minimal noise and air pollution. Laws are strict, and the police force is honest.",
+            "sd": "جيتوڻيڪ مينهن لڳ ڀڳ مسلسل پوي ٿو، سنگاپور تمام صاف آهي. ماڻهو هر گھر جي ڀرسان صفائي، ساوڪ ۽ گلن جون قطارون ڏسي سگھي ٿو. سنگاپور دنيا جو 'مسٽر ڪلين' طور سڃاتو وڃي ٿو. صفائيءَ جو جذبو هر هڪ ۾ موجود آهي، ٻارن کان وڏن تائين. جاپانين جي چوڻي ته 'پنهنجو گھر ۽ گھٽيءَ جو اڳيون حصو صاف رکو ته جيئن توهان پورو شهر صاف ڏسو' هتي لفظ ۽ روح سان عمل ۾ آندي وڃي ٿي. ان کان علاوه، حڪومت بهي صفائيءَ جي معاملي ۾ سخت آهي. ننڍين غلطين تي وڏا ڏنڊ لڳايا وڃن ٿا: ٿڪ اڇلائڻ تي پنجاهه ڊالر، ۽ رستن تي گند اڇلائڻ تي وڏا ڏنڊ يا قيد جون سزائون بهي. ڪچري جا دٻا هر ڪنڊ ۽ ڪنڊي ۾ رکيا ويا آهن. شور ۽ هوا جي آلودگي تمام گھٽ آهي. قانون سخت آهن ۽ پوليس فورس ايماندار آهي.",
+            "ur": "اگرچہ بارش تقریباً مسلسل ہوتی ہے، سنگاپور بہت صاف ہے۔ آدمی ہر گھر کے پاس صفائی، ہریالی اور پھولوں کی قطاریں دیکھ سکتا ہے۔ سنگاپور دنیا کا 'مسٹر کلین' کہلاتا ہے۔ صفائی کا جذبہ ہر ایک میں موجود ہے، بچوں سے لے کر بڑوں تک۔ جاپانی کہاوت کہ 'اپنا گھر اور گلی کا اگلا حصہ صاف رکھو تاکہ تم پورا شہر صاف دیکھو' یہاں لفظ اور روح کے ساتھ عمل میں لائی جاتی ہے۔ اس کے علاوہ، حکومت بھی صفائی کے معاملے میں سخت ہے۔ چھوٹی غلطیوں پر بڑے جرمانے لگائے جاتے ہیں: تھوکنے پر پچاس ڈالر، اور سڑکوں پر کچرا پھینکنے پر بڑے جرمانے یا قید کی سزائیں بھی۔ کچرے کے ڈبے ہر کونے میں رکھے گئے ہیں۔ شور اور ہوا کی آلودگی بہت کم ہے۔ قوانین سخت ہیں اور پولیس فورس ایماندار ہے۔"
+          },
+          {
+            "en": "After visiting worth seeing sights in the city of Singapore, we decided to visit the countryside. We boarded the bus that would take us to Changi Village, which lay at the island's end. We left the city's hustle and bustle and passed through the beautiful and serene atmosphere of the countryside. There was greenery everywhere. A coastline also ran along the road. There were orchards of pineapple and forests of the rubber tree. As our bus made a brief stop on the ways, half a dozen girls got into the bus and tried to sell us pineapples. The top of the pineapple was cut open, and the flesh of the fruit was sliced. Each of us bought one or two pineapples and enjoyed the fruit.",
+            "sd": "سنگاپور شهر ۾ ڏسڻ لائق جايون گھمڻ کان پوءِ، اسان ٻهراڙي گھمڻ جو فيصلو ڪيو. اسان ان بس ۾ سوار ٿياسين جيڪا اسان کي چانگي ڳوٺ وٺي ويندي هئي، جيڪو ٻيٽ جي ڇيڙي تي هو. اسان شهر جي هلچل ۽ شور کي ڇڏي ٻهراڙيءَ جي سهڻي ۽ پرسڪون فضا مان گذرياسين. هر هنڌ ساوڪ هئي. رستي سان گڏ هڪ ساحلي پٽي بهي هئي. اتي انناس جا باغ ۽ رٻڙ جي وڻن جا جهنگ هئا. جيئن اسان جي بس رستي ۾ ٿوري دير لاءِ بيٺي، اڌ درجن ڇوڪريون بس ۾ چڙهيون ۽ اسان کي انناس وڪڻڻ جي ڪوشش ڪيائون. انناس جو مٿيون حصو کولي ڪٽيو ويو، ۽ ميوي جو گودو ڪٽي ڪٽي ڏنو ويو. اسان مان هر هڪ هڪ يا ٻه انناس خريد ڪيا ۽ ميوو کائي مزو ورتو.",
+            "ur": "سنگاپور شہر میں دیکھنے کے قابل مقامات دیکھنے کے بعد، ہم نے دیہات کی سیر کا فیصلہ کیا۔ ہم اس بس میں سوار ہوئے جو ہمیں چانگی گاؤں لے جاتی تھی، جو جزیرے کے آخر میں تھا۔ ہم نے شہر کی ہلچل اور شور کو چھوڑا اور دیہات کے خوبصورت اور پرسکون ماحول سے گزرے۔ ہر جگہ ہریالی تھی۔ سڑک کے ساتھ ساتھ ایک ساحلی پٹی بھی تھی۔ وہاں انناس کے باغ اور ربڑ کے درختوں کے جنگل تھے۔ جب ہماری بس نے راستے میں مختصر وقفہ کیا، آدھا درجن لڑکیاں بس میں چڑھیں اور ہمیں انناس بیچنے کی کوشش کیں۔ انناس کا اوپری حصہ کاٹ کر کھولا گیا، اور پھل کا گودا کاٹا گیا۔ ہم میں سے ہر ایک نے ایک یا دو انناس خریدے اور پھل کھا کر لطف اٹھایا۔"
+          },
+          {
+            "en": "The word Singapore means 'City of Lion'. One can find the marble statues of lions everywhere. Singapore is a fusion of the East and the West. One finds modern buildings and lifestyles coexisting with the traditional way of life. Government spends twenty-five percent of its income on education. Citizens are encouraged to get education, and there is enough provision in schools to accommodate every child of the country. Besides providing them quality education, students are encouraged to participate in debates, speeches, and sports. We visited one such speech competition, and we were quite impressed with the students' talent and confidence.",
+            "sd": "سنگاپور لفظ جي معنيٰ آهي 'شينهن جو شهر'. ماڻهو هر هنڌ شينهن جا سنگ مرمر جا مجسما ڏسي سگھي ٿو. سنگاپور اوڀر ۽ اولهه جو ميلاپ آهي. ماڻهو ڏسن ٿا ته جديد عمارتون ۽ زندگيءَ جا انداز روايتي زندگيءَ سان گڏ رھن ٿا. حڪومت پنهنجي آمدنيءَ جو پنجويهه سيڪڙو تعليم تي خرچ ڪري ٿي. شهرين کي تعليم حاصل ڪرڻ جي ترغيب ڏني وڃي ٿي، ۽ اسڪولن ۾ ملڪ جي هر ٻار کي جاءِ ڏيڻ لاءِ ڪافي سهولتون آهن. کين معياري تعليم ڏيڻ سان گڏ، شاگردن کي مباحثن، تقريرن ۽ راندين ۾ حصو وٺڻ جي ترغيب ڏني وڃي ٿي. اسان اهڙي هڪ تقريري مقابلي ۾ شرڪت ڪئي، ۽ اسان شاگردن جي صلاحيت ۽ اعتماد کان گهڻو متاثر ٿياسين.",
+            "ur": "سنگاپور لفظ کا مطلب ہے 'شیروں کا شہر'۔ آدمی ہر جگہ شیروں کے سنگ مرمر کے مجسمے دیکھ سکتا ہے۔ سنگاپور مشرق اور مغرب کا امتزاج ہے۔ آدمی جدید عمارتیں اور طرز زندگی روایتی طرز زندگی کے ساتھ ساتھ رہتے دیکھتا ہے۔ حکومت اپنی آمدنی کا پچیس فیصد تعلیم پر خرچ کرتی ہے۔ شہریوں کو تعلیم حاصل کرنے کی ترغیب دی جاتی ہے، اور اسکولوں میں ملک کے ہر بچے کو جگہ دینے کے لیے کافی سہولتیں موجود ہیں۔ انہیں معیاری تعلیم دینے کے ساتھ ساتھ، طلبہ کو مباحثوں، تقریروں اور کھیلوں میں حصہ لینے کی ترغیب دی جاتی ہے۔ ہم نے ایسی ایک تقریری مقابلے میں شرکت کی، اور ہم طلبہ کی صلاحیت اور اعتماد سے بہت متاثر ہوئے۔"
+          }
+        ],
+        "section": "8.1",
+        "unit": 8,
+        "unitTitle": "Places of Historical/Cultural Importance"
+      },
+      {
+        "bookPages": "143-146",
+        "lesson": "Choosing Career",
+        "paragraphs": [
+          {
+            "en": "What do you want to be? This question must have taken you to a world of fantasies. As a child, you must have imagined yourself as a pilot soaring in the sky, a doctor striving to save humanity, a detective solving a crime. Later in your life, you may have wanted to emulate those who inspire you, for instance, a famous actor, a genius scientist, or a brilliant sportsperson. However, now, the answer to this question is not an idealistic or speculative musing but a vital issue to ponder on. It is time to choose a career where, you think, lies your future growth, the realization of your aspiration, fulfilment of your personality, and most importantly- the prospects of your productivity, satisfaction, and happiness.",
+            "sd": "توهان ڇا ٿيڻ چاهيو ٿا؟ هن سوال توهان کي ضرور خيالي دنيا ۾ پهچايو هوندو. ننڍپڻ ۾، توهان پاڻ کي آسمان ۾ اڏامندڙ پائلٽ، انسانيت کي بچائڻ جي ڪوشش ڪندڙ ڊاڪٽر، يا جرم کي سلجھائيندڙ جاسوس طور تصور ڪيو هوندو. زندگيءَ ۾ پوءِ، توهان شايد انهن ماڻهن جهڙو ٿيڻ چاهيو هوندو جن کان توهان متاثر ٿيو، مثال طور، هڪ مشهور اداڪار، هڪ ذهين سائنسدان، يا هڪ شاندار رانديگر. پر هاڻي، هن سوال جو جواب ڪو خيالي يا قياسي خيال نه آهي، پر هڪ اهم مسئلو آهي جنهن تي غور ڪرڻ گهرجي. هاڻي وقت آهي ته اهڙو پيشو چونڊيو جنهن ۾، توهان جي خيال ۾، توهان جي مستقبل جي ترقي، توهان جي خواهش جي تڪميل، توهان جي شخصيت جي پورائي، ۽ سڀ کان اهم، توهان جي پيداواري صلاحيت، اطمينان ۽ خوشيءَ جا امڪان آهن.",
+            "ur": "آپ کیا بننا چاہتے ہیں؟ اس سوال نے ضرور آپ کو خیالی دنیا میں پہنچا دیا ہوگا۔ بچپن میں، آپ نے ضرور خود کو آسمان میں اڑنے والا پائلٹ، انسانیت کو بچانے کی کوشش کرنے والا ڈاکٹر، یا جرم سلجھانے والا جاسوس تصور کیا ہوگا۔ زندگی میں بعد میں، آپ شاید ان لوگوں جیسا بننا چاہتے ہوں گے جن سے آپ متاثر ہوتے ہیں، مثلاً ایک مشہور اداکار، ایک ذہین سائنسدان، یا ایک شاندار کھلاڑی۔ لیکن اب، اس سوال کا جواب کوئی خیالی یا قیاسی خیال نہیں ہے، بلکہ ایک اہم مسئلہ ہے جس پر غور کرنا ضروری ہے۔ اب وقت ہے کہ ایسا پیشہ چنیں جس میں، آپ کے خیال میں، آپ کی مستقبل کی ترقی، آپ کی خواہش کی تکمیل، آپ کی شخصیت کی تکمیل، اور سب سے اہم، آپ کی پیداواری صلاحیت، اطمینان اور خوشی کے امکانات ہیں۔"
+          },
+          {
+            "en": "Before embarking on a journey to choose a career, it is essential to understand the difference between a job and a career. Though jobs and careers are considered synonymous and interchangeable, there is a subtle difference between the two. A career is not merely a job; there is much more to it. A job is the work one does to earn money. It may be full-time to make a living or part-time to support a student during the academic term. It is a short-term strategy and does not necessarily require a professional degree or future planning. On the other hand, a career is a long-term journey based on one's passions, future growth, and personal advancement. For a career, one needs a certain level of education, a professional degree, or, at least, a definite skill set.",
+            "sd": "پيشو چونڊڻ جي سفر تي نڪرڻ کان اڳ، نوڪري ۽ پيشي جي وچ ۾ فرق سمجھڻ ضروري آهي. جيتوڻيڪ نوڪري ۽ پيشي کي هڪ جهڙو ۽ هڪ ٻئي جي جاءِ تي استعمال ٿيندڙ سمجھيو وڃي ٿو، پر انهن جي وچ ۾ هڪ ننڍو فرق آهي. پيشو رڳو نوڪري نه آهي؛ ان ۾ گهڻو ڪجهه آهي. نوڪري اهو ڪم آهي جيڪو ماڻهو پئسا ڪمائڻ لاءِ ڪري ٿو. اها پورو وقت روزگار لاءِ ٿي سگھي ٿي يا پڙهائيءَ جي مدي دوران شاگرد جي مدد لاءِ جزوي وقت به ٿي سگھي ٿي. اها هڪ مختصر مدي واري رٿابندي آهي ۽ ان لاءِ ضروري نه آهي ته پيشه ورانه ڊگري يا مستقبل جي منصوبابندي هجي. ٻئي طرف، پيشو هڪ ڊگهي مدي وارو سفر آهي جيڪو ماڻهوءَ جي شوق، مستقبل جي ترقي ۽ ذاتي اڳڀرائيءَ تي ٻڌل آهي. پيشي لاءِ، ماڻهوءَ کي تعليم جي هڪ خاص سطح، پيشه ورانه ڊگري، يا گھٽ ۾ گھٽ، هڪ مقرر مهارت جي ضرورت آهي.",
+            "ur": "پیشہ چننے کے سفر پر نکلنے سے پہلے، ملازمت اور پیشے کے درمیان فرق سمجھنا ضروری ہے۔ اگرچہ ملازمت اور پیشے کو ہم معنی اور ایک دوسرے کی جگہ استعمال ہونے والا سمجھا جاتا ہے، لیکن ان دونوں کے درمیان ایک باریک فرق ہے۔ پیشہ محض ملازمت نہیں ہے؛ اس میں بہت کچھ اور ہے۔ ملازمت وہ کام ہے جو انسان پیسے کمانے کے لیے کرتا ہے۔ یہ گزر بسر کے لیے مکمل وقت کی ہو سکتی ہے یا تعلیمی مدت کے دوران طالب علم کی مدد کے لیے جز وقتی بھی ہو سکتی ہے۔ یہ ایک قلیل مدتی حکمت عملی ہے اور اس کے لیے ضروری نہیں کہ پیشہ ورانہ ڈگری یا مستقبل کی منصوبہ بندی ہو۔ دوسری طرف، پیشہ ایک طویل مدتی سفر ہے جو انسان کے شوق، مستقبل کی ترقی اور ذاتی ترقی پر مبنی ہے۔ پیشے کے لیے، انسان کو تعلیم کی ایک خاص سطح، پیشہ ورانہ ڈگری، یا کم از کم، ایک مقررہ مہارت کی ضرورت ہوتی ہے۔"
+          },
+          {
+            "en": "The first thing you should do while choosing a career is to make sure it interests you - something which brings you satisfaction and happiness. You will be more successful, fulfilled, and productive if you are enthusiastic about your chosen path. If you feel you are passionate about science or fashion designing or literature or astronomy or business, then opt for it without caring what others choose. Many students choose a particular field based on prevailing social trends, the insistence of family, peer pressure, or lack of information about other choices, not because of their genuine interest in that field. Ultimately, after some time, they find no motivation to continue. In the long run, this lack of motivation leads to dissatisfaction and negative emotional experience. Every field offers potential growth, success, and satisfaction if you excel in it by putting your heart and soul into it.",
+            "sd": "پيشو چونڊڻ وقت سڀ کان پهرين توهان کي اهو پڪ ڪرڻ گهرجي ته ان ۾ توهان جي دلچسپي آهي — اها شيءِ جيڪا توهان کي اطمينان ۽ خوشي ڏئي. جيڪڏهن توهان پنهنجي چونڊيل رستي بابت پرجوش آهيو ته توهان وڌيڪ ڪامياب، مڪمل ۽ پيداواري ٿيندا. جيڪڏهن توهان کي محسوس ٿئي ته توهان کي سائنس يا فيشن ڊيزائننگ يا ادب يا فلڪيات يا ڪاروبار جو شوق آهي، ته پوءِ ٻين جي چونڊ جي پرواهه ڪرڻ کان سواءِ ان کي چونڊيو. گهڻا شاگرد ڪنهن خاص ميدان کي سماج ۾ هلندڙ رجحانن، خاندان جي اصرار، ساٿين جي دٻاءُ، يا ٻين چونڊن بابت ڄاڻ جي کوٽ جي بنياد تي چونڊين ٿا، ان ميدان ۾ پنهنجي حقيقي دلچسپيءَ جي ڪري نه. آخرڪار، ڪجهه وقت کان پوءِ، کين جاري رکڻ جي ڪا به ترغيب نه ٿي ملي. ڊگهي عرصي ۾، ترغيب جي اها کوٽ بي اطميناني ۽ منفي جذباتي تجربي جو سبب بڻجي ٿي. هر ميدان ترقي، ڪاميابي ۽ اطمينان جا امڪان ڏئي ٿو، جيڪڏهن توهان دل ۽ جان سان ڪم ڪري ان ۾ اڳتي وڌو.",
+            "ur": "پیشہ چنتے وقت سب سے پہلے آپ کو یہ یقینی بنانا چاہیے کہ اس میں آپ کی دلچسپی ہے — ایسی چیز جو آپ کو اطمینان اور خوشی دے۔ اگر آپ اپنے چنے ہوئے راستے کے بارے میں پرجوش ہیں تو آپ زیادہ کامیاب، مکمل اور پیداواری ہوں گے۔ اگر آپ محسوس کرتے ہیں کہ آپ کو سائنس یا فیشن ڈیزائننگ یا ادب یا فلکیات یا کاروبار کا شوق ہے، تو پھر دوسروں کی پسند کی پروا کیے بغیر اسے چنیں۔ بہت سے طالب علم کسی خاص میدان کو معاشرے میں رائج رجحانات، خاندان کے اصرار، ساتھیوں کے دباؤ، یا دوسرے انتخابوں کے بارے میں معلومات کی کمی کی بنیاد پر چنتے ہیں، اس میدان میں اپنی حقیقی دلچسپی کی وجہ سے نہیں۔ آخرکار، کچھ وقت کے بعد، انہیں جاری رکھنے کی کوئی ترغیب نہیں ملتی۔ طویل عرصے میں، ترغیب کی یہ کمی بے اطمینانی اور منفی جذباتی تجربے کا سبب بنتی ہے۔ ہر میدان ترقی، کامیابی اور اطمینان کے امکانات دیتا ہے، اگر آپ دل و جان سے کام کر کے اس میں آگے بڑھیں۔"
+          },
+          {
+            "en": "Your personality type and your values also determine the choice of career. Everyone has certain personal values which mould his or her preferences. For some, it is independence, and for others, it is recognition or leadership. Some wish to help humanity, and others desire intellectual, scientific, or artistic achievements. Your career decision should correspond and complement your values, suiting and matching your personality type. For example, an extroverted person finds a social, customer-oriented workplace more appealing. In contrast, an introverted person may be more at ease in a career that requires less social interaction and more independent analytical tasks. Engineering may be a good field for someone who likes to do practical work in the field.",
+            "sd": "توهان جي شخصيت جو قسم ۽ توهان جا قدر به پيشي جي چونڊ کي طئي ڪن ٿا. هر ڪنهن جا ڪجهه ذاتي قدر آهن جيڪي سندس ترجيحن کي شڪل ڏين ٿا. ڪن لاءِ اها آزادي آهي، ۽ ٻين لاءِ اها سڃاڻپ يا قيادت آهي. ڪجهه انسانن جي مدد ڪرڻ چاهين ٿا، ۽ ٻيا علمي، سائنسي يا فني ڪاميابين جي خواهش رکن ٿا. توهان جي پيشي بابت فيصلو توهان جي قدرن سان ملندڙ ۽ انهن کي پورو ڪندڙ هجڻ گهرجي، توهان جي شخصيت جي قسم سان ٺهڪندڙ ۽ ملندڙ. مثال طور، هڪ ملنسار ماڻهوءَ کي سماجي، گراهڪن سان واسطو رکندڙ ڪم جي جاءِ وڌيڪ وڻندي آهي. ان جي ابتڙ، هڪ اڪيلائي پسند ماڻهو ان پيشي ۾ وڌيڪ آرام محسوس ڪري سگھي ٿو جنهن ۾ گھٽ سماجي رابطو ۽ وڌيڪ آزاداڻو تجزياتي ڪم گهربل هجي. انجنيئرنگ ان ماڻهوءَ لاءِ سٺو ميدان ٿي سگھي ٿي جيڪو ميدان ۾ عملي ڪم ڪرڻ پسند ڪري ٿو.",
+            "ur": "آپ کی شخصیت کی قسم اور آپ کی اقدار بھی پیشے کے انتخاب کا تعین کرتی ہیں۔ ہر شخص کی کچھ ذاتی اقدار ہوتی ہیں جو اس کی ترجیحات کو شکل دیتی ہیں۔ کچھ کے لیے یہ آزادی ہے، اور دوسروں کے لیے یہ پہچان یا قیادت ہے۔ کچھ انسانیت کی مدد کرنا چاہتے ہیں، اور دوسرے علمی، سائنسی یا فنی کامیابیوں کی خواہش رکھتے ہیں۔ آپ کے پیشے کا فیصلہ آپ کی اقدار سے ہم آہنگ اور ان کی تکمیل کرنے والا ہونا چاہیے، آپ کی شخصیت کی قسم سے میل کھانے والا۔ مثال کے طور پر، ایک ملنسار شخص کو سماجی، گاہکوں سے واسطہ رکھنے والی کام کی جگہ زیادہ پسند آتی ہے۔ اس کے برعکس، ایک تنہائی پسند شخص اس پیشے میں زیادہ آرام محسوس کر سکتا ہے جس میں کم سماجی رابطے اور زیادہ آزادانہ تجزیاتی کام کی ضرورت ہو۔ انجینئرنگ اس شخص کے لیے اچھا میدان ہو سکتی ہے جو میدان میں عملی کام کرنا پسند کرتا ہے۔"
+          },
+          {
+            "en": "The next step in your pursuit to choose your career is to identify your strengths and weaknesses. It is essential to know if you possess the required skills to pursue your preferred career. For example, you may like computer science and want to make a career in it, but the study of computational algorithms necessitates solid and logical skills. Similarly, good knowledge of accounting is needed if you aspire to be a chartered accountant. Likewise, if you are interested in the visual arts, you should be creative and artistic - attributes that can be displayed through your work. You may choose a career only when you are sure that you possess the required skill or you will be able to master the needed skills. There are many aptitude tests available online that can help you to reach a suitable decision. Make sure that your abilities and interests are compatible with your intended career path.",
+            "sd": "توهان جي پيشي کي چونڊڻ جي ڪوشش ۾ ايندڙ قدم توهان جي طاقتن ۽ ڪمزورين کي سڃاڻڻ آهي. اهو ڄاڻڻ ضروري آهي ته ڇا توهان وٽ توهان جي پسنديده پيشي کي اختيار ڪرڻ لاءِ گهربل مهارتون آهن. مثال طور، توهان کي ڪمپيوٽر سائنس پسند ٿي سگھي ٿي ۽ توهان ان ۾ پيشو بڻائڻ چاهيو ٿا، پر حسابي الخوارزمن جي پڙهائيءَ لاءِ مضبوط ۽ منطقي مهارتن جي ضرورت آهي. ساڳيءَ طرح، جيڪڏهن توهان چارٽرڊ اڪائونٽنٽ ٿيڻ چاهيو ٿا ته اڪائونٽنگ جي سٺي ڄاڻ ضروري آهي. اهڙيءَ طرح، جيڪڏهن توهان کي بصري فنن ۾ دلچسپي آهي ته توهان کي تخليقي ۽ فني هجڻ گهرجي — اهي خوبيون جيڪي توهان جي ڪم ذريعي ظاهر ٿي سگھن ٿيون. توهان ڪو پيشو تڏهن ئي چونڊي سگھو ٿا جڏهن توهان کي پڪ هجي ته توهان وٽ گهربل مهارت آهي يا توهان گهربل مهارتون سکي سگھو ٿا. آن لائن ڪيترائي رجحان جاچ جا امتحان موجود آهن جيڪي توهان کي مناسب فيصلي تي پهچڻ ۾ مدد ڪري سگھن ٿا. پڪ ڪريو ته توهان جون صلاحيتون ۽ دلچسپيون توهان جي ارادي واري پيشي جي رستي سان ٺهڪن ٿيون.",
+            "ur": "اپنے پیشے کو چننے کی کوشش میں اگلا قدم اپنی طاقتوں اور کمزوریوں کو پہچاننا ہے۔ یہ جاننا ضروری ہے کہ کیا آپ کے پاس اپنے پسندیدہ پیشے کو اپنانے کے لیے مطلوبہ مہارتیں ہیں۔ مثال کے طور پر، آپ کو کمپیوٹر سائنس پسند ہو سکتی ہے اور آپ اس میں پیشہ بنانا چاہتے ہوں، لیکن حسابی الخوارزم کے مطالعے کے لیے مضبوط اور منطقی مہارتوں کی ضرورت ہوتی ہے۔ اسی طرح، اگر آپ چارٹرڈ اکاؤنٹنٹ بننا چاہتے ہیں تو اکاؤنٹنگ کا اچھا علم ضروری ہے۔ اسی طرح، اگر آپ کو بصری فنون میں دلچسپی ہے تو آپ کو تخلیقی اور فنی ہونا چاہیے — ایسی خوبیاں جو آپ کے کام کے ذریعے ظاہر ہو سکتی ہیں۔ آپ کوئی پیشہ صرف تب چن سکتے ہیں جب آپ کو یقین ہو کہ آپ کے پاس مطلوبہ مہارت ہے یا آپ مطلوبہ مہارتیں سیکھ سکتے ہیں۔ آن لائن بہت سے رجحان جانچنے کے امتحانات موجود ہیں جو آپ کو مناسب فیصلے تک پہنچنے میں مدد کر سکتے ہیں۔ یقینی بنائیں کہ آپ کی صلاحیتیں اور دلچسپیاں آپ کے مطلوبہ پیشے کے راستے سے ہم آہنگ ہیں۔"
+          },
+          {
+            "en": "Sometimes, we have a very idealistic and unattainable perception of our dream career. Therefore, it is always helpful to talk to someone who has experience in the career you want to pursue. By consulting a veteran of the field, you may gain valuable insight into the particular field's expectations, procedures, difficulties, and rewards. For instance, if you are interested in pursuing a career in academia, then it would be appropriate to approach your teacher to guide you towards your intended path. He or she may be able to tell you about the institutions, processes, and some helpful tips to achieve your goal. Talk to an army officer or visit a recruitment centre to know more about life in the forces and the demanding selection criteria if you dream of joining the military. If possible, attend career counselling seminars or seek the help of a professional career counsellor. He or she may not only be able to help you to choose your career but may also guide you through the admission process with suggestions for suitable institutions, methods to obtain scholarships or inform you of the eligibility criteria of financial aid if need be.",
+            "sd": "ڪڏهن ڪڏهن، اسان کي پنهنجي خوابن واري پيشي بابت تمام گهڻو خيالي ۽ ناقابلِ حصول تصور هوندو آهي. تنهنڪري، ڪنهن اهڙي ماڻهوءَ سان ڳالهائڻ هميشه مددگار ثابت ٿيندو آهي جنهن کي ان پيشي جو تجربو هجي جنهن کي توهان اختيار ڪرڻ چاهيو ٿا. ميدان جي ڪنهن تجربيڪار سان صلاح ڪرڻ سان، توهان کي ان خاص ميدان جي اميدن، طريقن، مشڪلاتن ۽ انعامن بابت قيمتي ڄاڻ ملي سگھي ٿي. مثال طور، جيڪڏهن توهان کي علمي دنيا ۾ پيشو اختيار ڪرڻ ۾ دلچسپي آهي ته پوءِ توهان جي استاد سان رابطو ڪرڻ مناسب ٿيندو ته جيئن هو توهان کي توهان جي ارادي واري رستي تي رهنمائي ڪري. هو توهان کي ادارن، طريقن ۽ پنهنجو مقصد حاصل ڪرڻ لاءِ ڪجهه مددگار صلاحن بابت ٻڌائي سگھي ٿو. فوج ۾ شامل ٿيڻ جو خواب ڏسندا آهيو ته ڪنهن فوجي آفيسر سان ڳالهايو يا ڀرتي مرڪز جو دورو ڪريو ته جيئن فوجي زندگي ۽ چونڊ جي سخت شرطن بابت وڌيڪ ڄاڻ حاصل ڪريو. جيڪڏهن ممڪن هجي ته پيشي بابت صلاح مشوري وارن سيمينارن ۾ شرڪت ڪريو يا ڪنهن پيشه ورانه پيشي جي صلاحڪار جي مدد وٺو. هو نه رڳو توهان جي پيشي چونڊڻ ۾ مدد ڪري سگھي ٿو پر داخلا جي عمل ۾ به توهان جي رهنمائي ڪري سگھي ٿو، مناسب ادارن جون صلاحون ڏئي، وظيفا حاصل ڪرڻ جا طريقا ٻڌائي، يا ضرورت پوڻ تي مالي مدد جي اهليت جي شرطن بابت ٻڌائي سگھي ٿو.",
+            "ur": "کبھی کبھی، ہمیں اپنے خوابوں والے پیشے کے بارے میں بہت زیادہ خیالی اور ناقابل حصول تصور ہوتا ہے۔ اس لیے، کسی ایسے شخص سے بات کرنا ہمیشہ مددگار ثابت ہوتا ہے جسے اس پیشے کا تجربہ ہو جسے آپ اپنانا چاہتے ہیں۔ میدان کے کسی تجربہ کار سے مشورہ کرنے سے، آپ کو اس خاص میدان کی امیدوں، طریقوں، مشکلات اور انعامات کے بارے میں قیمتی معلومات مل سکتی ہیں۔ مثال کے طور پر، اگر آپ کو علمی دنیا میں پیشہ اپنانے میں دلچسپی ہے تو پھر اپنے استاد سے رابطہ کرنا مناسب ہوگا تاکہ وہ آپ کو آپ کے مطلوبہ راستے کی طرف رہنمائی کرے۔ وہ آپ کو اداروں، طریقوں اور اپنا مقصد حاصل کرنے کے لیے کچھ مددگار مشوروں کے بارے میں بتا سکتا ہے۔ فوج میں شامل ہونے کا خواب دیکھتے ہیں تو کسی فوجی افسر سے بات کریں یا بھرتی مرکز کا دورہ کریں تاکہ فوجی زندگی اور انتخاب کے سخت معیار کے بارے میں مزید جان سکیں۔ اگر ممکن ہو تو پیشے کے بارے میں مشاورتی سیمیناروں میں شرکت کریں یا کسی پیشہ ور پیشہ ورانہ مشیر کی مدد لیں۔ وہ نہ صرف آپ کے پیشے کے انتخاب میں مدد کر سکتا ہے بلکہ داخلے کے عمل میں بھی آپ کی رہنمائی کر سکتا ہے، مناسب اداروں کی تجاویز دے کر، وظائف حاصل کرنے کے طریقے بتا کر، یا ضرورت پڑنے پر مالی امداد کی اہلیت کے معیار کے بارے میں آگاہ کر کے۔"
+          },
+          {
+            "en": "Most of the careers require a university degree and an extensive period of studying or training. It is always wise to know about the admission criteria of various institutions that offer such degrees. Nowadays, almost every university has a functional website where detailed admission-related information is available. Most of the universities conduct their entrance test, but some also accept the SAT score. Visit the websites of different universities to familiarize yourself with the format and content of the test. For example, if you want to be a doctor, you should know the test format for admission to medical universities. It is advisable to prepare for the test subjects before taking them. Visit libraries or search on the internet for the books and relevant material for preparation. Take mock tests offered by many websites to identify priority areas you need to work upon. Finding your dream career is not merely a wish, but it requires hard work, commitment, and the right attitude.",
+            "sd": "گهڻن پيشن لاءِ يونيورسٽيءَ جي ڊگري ۽ پڙهائي يا تربيت جي ڊگهي عرصي جي ضرورت هوندي آهي. اهو ڄاڻڻ هميشه عقلمندي آهي ته اهي مختلف ادارا داخلا لاءِ ڪهڙيون شرطون رکن ٿا جيڪي اهڙيون ڊگريون ڏين ٿا. اڄوڪي دور ۾، لڳ ڀڳ هر يونيورسٽيءَ جي هڪ ڪارآمد ويب سائيٽ آهي جتي داخلا سان لاڳاپيل تفصيلي ڄاڻ موجود آهي. گهڻيون يونيورسٽيون پنهنجو داخلا امتحان وٺن ٿيون، پر ڪجهه ايس اي ٽي اسڪور به قبول ڪن ٿيون. مختلف يونيورسٽين جون ويب سائيٽون ڏسو ته جيئن توهان امتحان جي نموني ۽ مواد کان واقف ٿيو. مثال طور، جيڪڏهن توهان ڊاڪٽر ٿيڻ چاهيو ٿا ته توهان کي طبي يونيورسٽين ۾ داخلا لاءِ امتحان جو نمونو ڄاڻڻ گهرجي. امتحان ڏيڻ کان اڳ ان جي مضمونن جي تياري ڪرڻ صلاح ڏني وڃي ٿي. تياريءَ لاءِ ڪتاب ۽ لاڳاپيل مواد حاصل ڪرڻ لاءِ لائبريرين جو دورو ڪريو يا انٽرنيٽ تي ڳولا ڪريو. ڪيترين ئي ويب سائيٽن پاران پيش ڪيل فرضي امتحان ڏيو ته جيئن اهم علائقا سڃاڻي سگھو جن تي توهان کي ڪم ڪرڻ جي ضرورت آهي. پنهنجي خوابن وارو پيشو ڳولڻ رڳو خواهش نه آهي، پر ان لاءِ سخت محنت، عزم ۽ صحيح رويو گهربل آهي.",
+            "ur": "زیادہ تر پیشوں کے لیے یونیورسٹی کی ڈگری اور پڑھائی یا تربیت کی طویل مدت درکار ہوتی ہے۔ یہ جاننا ہمیشہ دانشمندی ہے کہ وہ مختلف ادارے داخلے کے لیے کیا شرائط رکھتے ہیں جو ایسی ڈگریاں دیتے ہیں۔ آج کل، تقریباً ہر یونیورسٹی کی ایک فعال ویب سائٹ ہے جہاں داخلے سے متعلق تفصیلی معلومات موجود ہیں۔ زیادہ تر یونیورسٹیاں اپنا داخلہ امتحان لیتی ہیں، لیکن کچھ ایس اے ٹی اسکور بھی قبول کرتی ہیں۔ مختلف یونیورسٹیوں کی ویب سائٹیں دیکھیں تاکہ آپ امتحان کے نمونے اور مواد سے واقف ہو جائیں۔ مثال کے طور پر، اگر آپ ڈاکٹر بننا چاہتے ہیں تو آپ کو طبی یونیورسٹیوں میں داخلے کے لیے امتحان کا نمونہ جاننا چاہیے۔ امتحان دینے سے پہلے اس کے مضامین کی تیاری کرنا مناسب ہے۔ تیاری کے لیے کتابیں اور متعلقہ مواد حاصل کرنے کے لیے لائبریریوں کا دورہ کریں یا انٹرنیٹ پر تلاش کریں۔ بہت سی ویب سائٹوں کی طرف سے پیش کیے گئے فرضی امتحانات دیں تاکہ ان اہم شعبوں کی نشاندہی کر سکیں جن پر آپ کو کام کرنے کی ضرورت ہے۔ اپنے خوابوں والا پیشہ تلاش کرنا محض خواہش نہیں ہے، بلکہ اس کے لیے سخت محنت، عزم اور درست رویہ درکار ہے۔"
+          },
+          {
+            "en": "However, sometimes, despite our genuine efforts, we are unable to achieve our goals. It is also necessary to remain realistic about other potential opportunities and have a backup plan. This does not mean giving up on your dreams. Instead, it simply means to have a serious retrospection, and if required, redesign your goals. It also means reviewing your strategy and making an effort with new vigour, more experienced, and first-hand insight. Life is a sea of opportunities; explore these opportunities until you find the one that suits you.",
+            "sd": "پر، ڪڏهن ڪڏهن، اسان جي حقيقي ڪوششن جي باوجود، اسان پنهنجا مقصد حاصل ڪرڻ ۾ ناڪام رھون ٿا. ٻين ممڪن موقعن بابت حقيقت پسند رھڻ ۽ متبادل منصوبو رکڻ به ضروري آهي. ان جو مطلب پنهنجن خوابن کي ڇڏي ڏيڻ نه آهي. ان جي بدران، ان جو سادو مطلب آهي ته سنجيدگيءَ سان پنهنجي گذريل ڪوششن تي غور ڪيو وڃي، ۽ جيڪڏهن ضرورت هجي ته پنهنجا مقصد نئين سر ترتيب ڏنا وڃن. ان جو مطلب اهو به آهي ته پنهنجي رٿابنديءَ تي نظرثاني ڪجي ۽ نئين جذبي، وڌيڪ تجربي ۽ سڌي ڄاڻ سان ڪوشش ڪجي. زندگي موقعن جو سمنڊ آهي؛ انهن موقعن کي ڳوليو جيستائين توهان کي اهو نه ملي جيڪو توهان کي ٺهڪي اچي.",
+            "ur": "لیکن، کبھی کبھی، ہماری حقیقی کوششوں کے باوجود، ہم اپنے مقاصد حاصل کرنے میں ناکام رہتے ہیں۔ دوسرے ممکنہ مواقع کے بارے میں حقیقت پسند رہنا اور متبادل منصوبہ رکھنا بھی ضروری ہے۔ اس کا مطلب اپنے خوابوں کو چھوڑ دینا نہیں ہے۔ اس کے بجائے، اس کا سادہ مطلب یہ ہے کہ سنجیدگی سے اپنی گزشتہ کوششوں پر غور کیا جائے، اور اگر ضرورت ہو تو اپنے مقاصد کو نئے سرے سے ترتیب دیا جائے۔ اس کا مطلب یہ بھی ہے کہ اپنی حکمت عملی پر نظر ثانی کی جائے اور نئے جذبے، زیادہ تجربے اور براہ راست معلومات کے ساتھ کوشش کی جائے۔ زندگی مواقع کا سمندر ہے؛ ان مواقع کو تلاش کریں جب تک آپ کو وہ نہ مل جائے جو آپ کو موزوں ہو۔"
+          },
+          {
+            "en": "Every individual has an untapped and undiscovered talent; each one of you has the potential to grow. You only have to identify the field or career where you can successfully optimize your true potential. Not everyone is destined for the same career or the same path. There are roads less travelled by, a thousand different paths to choose from. Have faith in yourself, have a clear vision of your future, put yourself through an honest assessment, and strive with the help of an unwavering dedication towards your work. If you have all these things, then the world is yours to seize, and all the people are waiting for you to shine.",
+            "sd": "هر ماڻهوءَ ۾ هڪ اڻ ڇهيل ۽ اڻ دريافت ٿيل صلاحيت آهي؛ توهان مان هر هڪ ۾ اڳتي وڌڻ جي صلاحيت آهي. توهان کي رڳو اهو ميدان يا پيشو سڃاڻڻو آهي جتي توهان پنهنجي حقيقي صلاحيت کي ڪاميابيءَ سان بهترين نموني استعمال ڪري سگھو ٿا. هر ڪو ساڳئي پيشي يا ساڳئي رستي لاءِ مقرر نه آهي. اهڙا رستا به آهن جن تي گھٽ ماڻهو هليا آهن، چونڊڻ لاءِ هزارين مختلف رستا آهن. پاڻ تي ڀروسو رکو، پنهنجي مستقبل جو واضح تصور رکو، پاڻ کي ايمانداراڻي جاچ مان گذاريو، ۽ پنهنجي ڪم لاءِ اٽل وقف جي مدد سان ڪوشش ڪريو. جيڪڏهن توهان وٽ اهي سڀ شيون آهن ته پوءِ دنيا توهان جي آهي، ۽ سڀ ماڻهو توهان جي چمڪڻ جي انتظار ۾ آهن.",
+            "ur": "ہر شخص میں ایک ان چھوئی اور ان دریافت شدہ صلاحیت ہے؛ آپ میں سے ہر ایک میں آگے بڑھنے کی صلاحیت ہے۔ آپ کو صرف وہ میدان یا پیشہ پہچاننا ہے جہاں آپ اپنی حقیقی صلاحیت کو کامیابی سے بہترین طریقے سے استعمال کر سکیں۔ ہر کوئی ایک ہی پیشے یا ایک ہی راستے کے لیے مقرر نہیں ہے۔ ایسے راستے بھی ہیں جن پر کم لوگ چلے ہیں، چننے کے لیے ہزاروں مختلف راستے ہیں۔ خود پر بھروسہ رکھیں، اپنے مستقبل کا واضح تصور رکھیں، خود کو ایماندارانہ جائزے سے گزاریں، اور اپنے کام کے لیے اٹل لگن کی مدد سے کوشش کریں۔ اگر آپ کے پاس یہ سب چیزیں ہیں تو پھر دنیا آپ کی ہے، اور سب لوگ آپ کے چمکنے کا انتظار کر رہے ہیں۔"
+          }
+        ],
+        "section": "9.1",
+        "unit": 9,
+        "unitTitle": "Choosing Career"
+      },
+      {
+        "bookPages": "162-164",
+        "lesson": "Pearls of Wisdom",
+        "paragraphs": [
+          {
+            "en": "There were two brothers, one of them in the service of the sultan and the other gaining his livelihood by the effort of his arm. The wealthy man once asked his destitute brother why he did not serve the sultan in order to be delivered from the hardship of labouring. He replied, 'why labourest thou not to be delivered from the baseness of service because wise men have said that it is better to eat barley bread and to sit than to gird oneself with a golden belt and to stand in service?'",
+            "sd": "ٻه ڀائر هئا، انهن مان هڪڙو سلطان جي نوڪري ۾ هو ۽ ٻيو پنهنجي هٿ جي محنت سان روزي ڪمائيندو هو. هڪ دفعي امير ماڻهو پنهنجي غريب ڀاءُ کان پڇيو ته هو سلطان جي نوڪري ڇو نه ٿو ڪري، ته جيئن محنت جي تڪليف کان ڇوٽڪارو ملي. هن جواب ڏنو، 'تون نوڪري جي ذلت کان ڇوٽڪارو حاصل ڪرڻ لاءِ محنت ڇو نه ٿو ڪرين، ڇاڪاڻ ته دانائن چيو آهي ته جوَ جي ماني کائي ويهي رھڻ، سوني پٽي ٻڌي نوڪري ۾ بيھڻ کان بهتر آهي؟'",
+            "ur": "دو بھائی تھے، ان میں سے ایک سلطان کی خدمت میں تھا اور دوسرا اپنے ہاتھ کی محنت سے روزی کماتا تھا۔ ایک دفعہ امیر آدمی نے اپنے غریب بھائی سے پوچھا کہ وہ سلطان کی نوکری کیوں نہیں کرتا تاکہ محنت کی تکلیف سے نجات پائے۔ اس نے جواب دیا، 'تم نوکری کی ذلت سے نجات پانے کے لیے محنت کیوں نہیں کرتے، کیونکہ داناؤں نے کہا ہے کہ جو کی روٹی کھا کر بیٹھ رہنا، سونے کی پیٹی باندھ کر نوکری میں کھڑے رہنے سے بہتر ہے؟'"
+          },
+          {
+            "en": "To leaven mortar of quicklime with the hand Is better than to hold them on the breast before the Amir. My precious life was spent in considering what I am to eat in summer and wear in winter. O' ignoble belly, be satisfied with one bread Rather than to bend the back in service.",
+            "sd": "هٿ سان چونو جو گارو ملڻ، امير جي سامهون سيني تي هٿ رکڻ کان بهتر آهي. منهنجي قيمتي زندگي انهي سوچ ۾ گذري ته اونهاري ۾ ڇا کاوان ۽ سياري ۾ ڇا پايان. اي نالائق پيٽ، هڪ ماني تي راضي ٿيءُ، نوڪري ۾ پٺي جھڪائڻ کان بهتر آهي.",
+            "ur": "ہاتھ سے چونے کا گارا گوندھنا، امیر کے سامنے سینے پر ہاتھ رکھنے سے بہتر ہے۔ میری قیمتی زندگی اس سوچ میں گزر گئی کہ گرمیوں میں کیا کھاؤں اور سردیوں میں کیا پہنوں۔ اے نالائق پیٹ، ایک روٹی پر راضی ہو جا، نوکری میں پیٹھ جھکانے سے بہتر ہے۔"
+          },
+          {
+            "en": "A king was in the same boat with a slave who had never before been at sea and experienced the inconvenience of a vessel. He began to cry and to tremble to such a degree that he could not be pacified by kindness, so that at last the king became displeased as the matter could not be remedied. In that boat, there happened to be a wise man, who said, 'with thy permission, I shall quiet him.' The king replied, 'it will be a great favour.' The wise man ordered the slave to be thrown into the water so that he swallowed some of it, whereon he was caught and pulled by his hair to the boat, to the stern of which he clung with both his hands. Then, he sat down in a corner and became quiet. This appeared strange to the king who knew nothing what wisdom there was in the proceeding and asked for it. The wise man replied, 'before he had tasted the calamity of being drowned, he knew not the safety of the boat; thus also a man does not appreciate the value of immunity from a misfortune, until it has befallen him.'",
+            "sd": "هڪ بادشاھھ هڪ غلام سان گڏ ساڳي ٻيڙي ۾ هو، جيڪو اڳ ڪڏهن به سمنڊ ۾ نه ويو هو ۽ ٻيڙي جي تڪليف جو تجربو بهي نه ڪيو هو. هو ايترو روئڻ ۽ ڏڪڻ لڳو جو مهرباني سان بهي هو خاموش نه ٿيو، ايتريقدر جو آخر بادشاھھ ناراض ٿي ويو، ڇاڪاڻ ته معاملو ٺيڪ نه ٿي سگھيو. انهي ٻيڙي ۾ هڪ داناءُ ماڻهو بهي هو، جنهن چيو، 'توهان جي اجازت سان، مان هن کي خاموش ڪندس.' بادشاھھ جواب ڏنو، 'هي وڏو احسان ٿيندو.' داناءُ ماڻهو حڪم ڏنو ته غلام کي پاڻي ۾ اڇلايو وڃي، ته جيئن هو ڪجهه پاڻي پي وڃي، پوءِ هن کي وارن کان پڪڙي ٻيڙي ڏي ڇڪيو ويو، جنهن جي پوئين حصي کي هن ٻنهي هٿن سان جھليو. پوءِ هو هڪ ڪنڊ ۾ ويهي رھيو ۽ خاموش ٿي ويو. هي بادشاھھ کي عجيب لڳو، جنهن کي خبر نه هئي ته انهي ڪم ۾ ڪهڙي دانائي هئي، ۽ هن ان بابت پڇيو. داناءُ ماڻهو جواب ڏنو، 'ٻڏڻ جي مصيبت جو مزو چکن کان اڳ، هن کي ٻيڙي جي سلامتي جي خبر نه هئي؛ اهڙي طرح ماڻهو مصيبت کان بچاءُ جي قدر بهي نه ٿو ڪري، جيستائين اها مصيبت هن تي نه اچي.'",
+            "ur": "ایک بادشاہ ایک غلام کے ساتھ اسی کشتی میں تھا، جو پہلے کبھی سمندر میں نہیں گیا تھا اور نہ ہی کشتی کی تکلیف کا تجربہ کیا تھا۔ وہ اتنا رونے اور کانپنے لگا کہ مہربانی سے بھی اسے چپ نہیں کرایا جا سکا، یہاں تک کہ آخر بادشاہ ناراض ہو گیا، کیونکہ معاملہ ٹھیک نہیں ہو سکا۔ اسی کشتی میں ایک دانا آدمی بھی تھا، جس نے کہا، 'آپ کی اجازت سے، میں اسے چپ کراؤں گا۔' بادشاہ نے جواب دیا، 'یہ بڑا احسان ہوگا۔' دانا آدمی نے حکم دیا کہ غلام کو پانی میں پھینک دیا جائے تاکہ وہ کچھ پانی پی لے، پھر اسے بالوں سے پکڑ کر کشتی کی طرف کھینچا گیا، جس کے پچھلے حصے کو اس نے دونوں ہاتھوں سے پکڑ لیا۔ پھر وہ ایک کونے میں بیٹھ گیا اور چپ ہو گیا۔ یہ بادشاہ کو عجیب لگا، جسے معلوم نہ تھا کہ اس کام میں کیا حکمت تھی، اور اس نے اس بارے میں پوچھا۔ دانا آدمی نے جواب دیا، 'ڈوبنے کی مصیبت کا مزہ چکھنے سے پہلے، اسے کشتی کی سلامتی کی خبر نہ تھی؛ اسی طرح آدمی مصیبت سے بچاؤ کی قدر بھی نہیں کرتا، جب تک وہ مصیبت اس پر نہ آ پڑے۔'"
+          },
+          {
+            "en": "I noticed an Arab of the desert sitting in a company of jewellers at Basrah and narrating stories to them. He said, 'I had once lost my road in the desert and consumed all my provisions. I considered that I must perish when I suddenly caught sight of a bag. I shall never forget the joy and ecstasy I felt on thinking they might be parched grain and foid nor the bitterness and despair when I discovered them to be pearls.'",
+            "sd": "مون بصره ۾ جواهرين جي هڪ جماعت ۾ ويٺل ريگستان جي هڪ عرب کي ڏٺو، جيڪو کين ڪهاڻيون ٻڌائي رھيو هو. هن چيو، 'مون هڪ دفعي ريگستان ۾ پنهنجو رستو وڃائي ڇڏيو هو ۽ پنهنجو سمورو سامان کائي چڪو هوس. مون سمجھيو ته مان مري ويندس، جڏهن اوچتو مون کي هڪ ٿيلهو نظر آيو. مان اها خوشي ۽ سرهائي ڪڏهن به نه وساريندس، جيڪا مون کي ان خيال سان ٿي ته ان ۾ شايد سڪل اناج ۽ کاڌو هوندو، ۽ نه ئي اها ڪڙاڻي ۽ نااميدي، جڏهن مون ڏٺو ته اهي موتي هئا.'",
+            "ur": "میں نے بصرہ میں جواہرات کے تاجروں کی ایک مجلس میں بیٹھے ہوئے صحرا کے ایک عرب کو دیکھا، جو انہیں کہانیاں سنا رہا تھا۔ اس نے کہا، 'میں نے ایک دفعہ صحرا میں اپنا راستہ کھو دیا تھا اور اپنا سارا سامان کھا چکا تھا۔ میں نے سمجھا کہ میں مر جاؤں گا، جب اچانک مجھے ایک تھیلی نظر آئی۔ میں وہ خوشی اور سرمستی کبھی نہیں بھولوں گا، جو مجھے اس خیال سے ہوئی کہ اس میں شاید سوکھا ہوا اناج اور کھانا ہوگا، اور نہ ہی وہ تلخی اور ناامیدی، جب میں نے دیکھا کہ وہ موتی تھے۔'"
+          },
+          {
+            "en": "In a dry desert and among moving sand, It is the same to a thirsty man whether he has pearls or shells in his mouth. When a man has no provisions and his strength is exhausted, It matters not whether his girdle is adorned with pearls or potsherds.",
+            "sd": "سڪل ريگستان ۾ ۽ هلندڙ واريءَ جي وچ ۾، اڃايل ماڻهو لاءِ هڪجهڙو آهي، ڀلي هن جي وات ۾ موتي هجن يا سِپون. جڏهن ماڻهو وٽ ڪو سامان نه هجي ۽ هن جي طاقت ختم ٿي وڃي، ته ڪو فرق نه ٿو پوي ته هن جي پٽي موتين سان سينگاريل آهي يا ٺڪرين سان.",
+            "ur": "خشک صحرا میں اور بہتی ہوئی ریت کے درمیان، پیاسے آدمی کے لیے ایک جیسا ہے، چاہے اس کے منہ میں موتی ہوں یا سیپیاں۔ جب آدمی کے پاس کوئی سامان نہ ہو اور اس کی طاقت ختم ہو جائے، تو کوئی فرق نہیں پڑتا کہ اس کی پیٹی موتیوں سے سجی ہے یا ٹھیکریوں سے۔"
+          },
+          {
+            "en": "A sage, instructing students, said to them \"Learn a skill because property and riches of the world are not to be relied upon; also silver and gold are an occasion of danger because either a thief may steal them at once or the owner spend them gradually; but a profession is a living fountain and permanent wealth; and although a professional man may lose riches, it does not matter because a profession is itself wealth and wherever he goes he will enjoy respect and sit in high places, whereas he who has no skill will glean crumbs and see hardships.",
+            "sd": "هڪ داناءُ، شاگردن کي سيکاريندي، کين چيو، 'هڪ هنر سکو، ڇاڪاڻ ته دنيا جي ملڪيت ۽ دولت تي ڀروسو نه ٿو ڪري سگھجي؛ چاندي ۽ سون بهي خطري جو سبب آهن، ڇاڪاڻ ته يا ته چور انهن کي هڪدم چوري ڪري وٺندو، يا مالڪ انهن کي آهستي آهستي خرچ ڪري ڇڏيندو؛ پر پيشو هڪ جيئرو چشمو ۽ دائمي دولت آهي؛ ۽ جيتوڻيڪ پيشي وارو ماڻهو دولت وڃائي به ڇڏي، ته به ڪو فرق نه ٿو پوي، ڇاڪاڻ ته پيشو پاڻ ئي دولت آهي، ۽ جتي به هو وڃي، اتي هو عزت ماڻيندو ۽ مٿانهين جاين تي ويهندو، جڏهن ته جنهن وٽ ڪو هنر نه هوندو، اهو ٽڪرا گڏ ڪندو ۽ تڪليفون ڏسندو.'",
+            "ur": "ایک دانا نے، شاگردوں کو سکھاتے ہوئے، ان سے کہا، 'کوئی ہنر سیکھو، کیونکہ دنیا کی جائیداد اور دولت پر بھروسا نہیں کیا جا سکتا؛ چاندی اور سونا بھی خطرے کا باعث ہیں، کیونکہ یا تو چور انہیں ایک دم چرا لے گا، یا مالک انہیں آہستہ آہستہ خرچ کر دے گا؛ لیکن پیشہ ایک زندہ چشمہ اور دائمی دولت ہے؛ اور اگرچہ پیشہ ور آدمی دولت کھو بھی دے، تو بھی کوئی فرق نہیں پڑتا، کیونکہ پیشہ خود دولت ہے، اور جہاں بھی وہ جائے، وہاں وہ عزت پائے گا اور اونچی جگہوں پر بیٹھے گا، جبکہ جس کے پاس کوئی ہنر نہ ہوگا، وہ ٹکڑے چنے گا اور تکلیفیں دیکھے گا۔'"
+          },
+          {
+            "en": "I heard a wise man saying that no one has ever made a confession of his own folly except he who begins speaking, whilst another has not yet finished his talk.",
+            "sd": "مون هڪ داناءُ ماڻهو کي چوندي ٻڌو ته ڪنهن بهي ماڻهو ڪڏهن به پنهنجي بيوقوفي جو اقرار نه ڪيو آهي، سواءِ انهي جي جيڪو ڳالهائڻ شروع ڪري ٿو، جڏهن ته ٻيو ماڻهو اڃا پنهنجي ڳالهه ختم نه ڪئي آهي.",
+            "ur": "میں نے ایک دانا آدمی کو کہتے سنا کہ کسی آدمی نے کبھی بھی اپنی بیوقوفی کا اقرار نہیں کیا، سوائے اس کے جو بولنا شروع کرتا ہے، جبکہ دوسرے آدمی نے ابھی اپنی بات ختم نہیں کی ہوتی۔"
+          },
+          {
+            "en": "Words have a head, O shrewd man, and a tail. Do not insert thy words between words of others. The possessor of deliberation, intelligence and shrewdness does not say a word till he sees silence.",
+            "sd": "اي هوشيار ماڻهو، لفظن جو مٿو بهي آهي ۽ پڇ بهي آهي. پنهنجا لفظ ٻين جي لفظن جي وچ ۾ داخل نه ڪر. جنهن وٽ غور و فڪر، ذهانت ۽ هوشياري آهي، اهو ڪو لفظ نه ٿو چوي، جيستائين هو خاموشي نه ڏسي.",
+            "ur": "اے ہوشیار آدمی، الفاظ کا سر بھی ہوتا ہے اور دم بھی۔ اپنے الفاظ دوسروں کے الفاظ کے درمیان نہ ڈالو۔ جس کے پاس غور و فکر، ذہانت اور ہوشیاری ہے، وہ ایک لفظ بھی نہیں کہتا، جب تک وہ خاموشی نہ دیکھ لے۔"
+          },
+          {
+            "en": "Property is for the comfort of life, not for the accumulation of wealth. A sage, having been asked who is lucky and who is not, replied, \"he is lucky who has eaten and sowed but he is unlucky who has died and not enjoyed.\"",
+            "sd": "ملڪيت زندگي جي آرام لاءِ آهي، دولت گڏ ڪرڻ لاءِ نه. هڪ داناءُ کان پڇيو ويو ته خوش نصيب ڪير آهي ۽ بد نصيب ڪير آهي، هن جواب ڏنو، 'خوش نصيب اهو آهي، جنهن کاڌو ۽ پوکيو، پر بد نصيب اهو آهي، جيڪو مري ويو ۽ مزو نه ماڻيائين.'",
+            "ur": "جائیداد زندگی کے آرام کے لیے ہے، دولت جمع کرنے کے لیے نہیں۔ ایک دانا سے پوچھا گیا کہ خوش نصیب کون ہے اور بد نصیب کون ہے، اس نے جواب دیا، 'خوش نصیب وہ ہے، جس نے کھایا اور بویا، لیکن بد نصیب وہ ہے، جو مر گیا اور لطف نہیں اٹھایا۔'"
+          },
+          {
+            "en": "It is contrary to what is proper, and against the opinion of to partake of medicine by guess and to go after a caravan without seeing the road. The Imam Muhammad Ghazali, upon whom be the mercy of Allah, having been asked in what manner he had attained such a degree of knowledge, replied, 'by not being ashamed to ask about things I did not know.'",
+            "sd": "دوا اندازي سان کائڻ ۽ رستو ڏسڻ کان سواءِ قافلي جي پٺيان وڃڻ، جيڪو مناسب آهي ان جي خلاف ۽ دانائن جي راءِ جي خلاف آهي. امام محمد غزالي، جن تي الله جي رحمت هجي، کان پڇيو ويو ته هن علم جو ايترو وڏو درجو ڪيئن حاصل ڪيو، هن جواب ڏنو، 'انهن شين بابت پڇڻ کان نه شرمائڻ سان، جيڪي مان نه ڄاڻندو هوس.'",
+            "ur": "دوا اندازے سے کھانا اور راستہ دیکھے بغیر قافلے کے پیچھے جانا، جو مناسب ہے اس کے خلاف اور داناؤں کی رائے کے خلاف ہے۔ امام محمد غزالی، جن پر اللہ کی رحمت ہو، سے پوچھا گیا کہ انہوں نے علم کا اتنا بڑا درجہ کیسے حاصل کیا، انہوں نے جواب دیا، 'ان چیزوں کے بارے میں پوچھنے سے شرم نہ کرنے سے، جو میں نہیں جانتا تھا۔'"
+          },
+          {
+            "en": "A weak man trying to show his prowess off against a strong one only aids his foe to encompass his own destruction.",
+            "sd": "ڪمزور ماڻهو جڏهن طاقتور ماڻهو جي سامهون پنهنجي بهادري ڏيکارڻ جي ڪوشش ڪري ٿو، ته هو رڳو پنهنجي دشمن کي پنهنجي تباهي گھيري وٺڻ ۾ مدد ڪري ٿو.",
+            "ur": "کمزور آدمی جب طاقتور آدمی کے سامنے اپنی بہادری دکھانے کی کوشش کرتا ہے، تو وہ صرف اپنے دشمن کو اپنی تباہی گھیر لینے میں مدد کرتا ہے۔"
+          },
+          {
+            "en": "Even after falling into mud, a jewel retains its costliness, and dust. Although, it may rise into the sky, is as contemptible as before. Capacity without education is deplorable and education without capacity is thrown away.",
+            "sd": "جيتوڻيڪ مٽي ۾ ڪري پوي، جواهر پنهنجي قيمت برقرار رکي ٿو، ۽ مٽي، جيتوڻيڪ اها آسمان تائين بهي اٿي وڃي، اڳ وانگر ئي حقير آهي. تعليم کان سواءِ قابليت افسوسناڪ آهي ۽ قابليت کان سواءِ تعليم بيڪار آهي.",
+            "ur": "چاہے کیچڑ میں گر جائے، جواہر اپنی قیمت برقرار رکھتا ہے، اور دھول، اگرچہ وہ آسمان تک بھی اٹھ جائے، پہلے کی طرح ہی حقیر ہے۔ تعلیم کے بغیر قابلیت افسوسناک ہے اور قابلیت کے بغیر تعلیم بیکار ہے۔"
+          },
+          {
+            "en": "Drop upon drop collected will make a river. Rivers upon rivers collected will make a sea. Little and little together will become much. The granary is but grain upon grain.",
+            "sd": "ڦڙو ڦڙو گڏ ٿي درياهه ٿيندو. درياهه درياهه گڏ ٿي سمنڊ ٿيندا. ٿورو ٿورو گڏ ٿي گھڻو ٿي ويندو. اناج جو گودام رڳو اناج تي اناج آهي.",
+            "ur": "قطرہ قطرہ جمع ہو کر دریا بن جائے گا۔ دریا دریا جمع ہو کر سمندر بن جائیں گے۔ تھوڑا تھوڑا مل کر بہت ہو جائے گا۔ اناج کا گودام صرف اناج پر اناج ہے۔"
+          },
+          {
+            "en": "Confide not to a friend every secret thou possess. How know you that he will not some time become thy foe? Inflict not every injury you can upon an enemy because it is possible that one day he may become thy friend.",
+            "sd": "پنهنجي دوست کي پنهنجو هر راز نه ٻڌاءِ. توکي ڪيئن خبر ته هو ڪنهن وقت تنهنجو دشمن نه ٿي ويندو؟ دشمن تي هر اها تڪليف نه ڏي، جيڪا تون ڏئي سگھين ٿو، ڇاڪاڻ ته ممڪن آهي ته اڳتي هلي هو تنهنجو دوست ٿي وڃي.",
+            "ur": "اپنے دوست کو اپنا ہر راز نہ بتاؤ۔ تمہیں کیسے معلوم کہ وہ کسی وقت تمہارا دشمن نہ بن جائے گا؟ دشمن پر ہر وہ تکلیف نہ دو، جو تم دے سکتے ہو، کیونکہ ممکن ہے کہ ایک دن وہ تمہارا دوست بن جائے۔"
+          }
+        ],
+        "section": "10.1",
+        "unit": 10,
+        "unitTitle": "Practicing Positive Work Ethics"
+      },
+      {
+        "bookPages": "186-187",
+        "lesson": "The Character of a Happy Life",
+        "paragraphs": [
+          {
+            "en": "How happy is he born or taught That serveth not another's will; Whose armour is his honest thought And simple truth his utmost skill!",
+            "sd": "اهو ماڻهو ڪيترو خوش آهي، جيڪو ڄڻي ٿو يا سکي ٿو ته ٻئي جي مرضيءَ تي نه هلي. جنهن جي ايماندار سوچ ئي سندس بچاءُ جو هٿيار آهي ۽ سادي سچائي ئي سندس سڀ کان وڏي مهارت آهي.",
+            "ur": "وہ شخص کتنا خوش نصیب ہے جو پیدا ہوتا ہے یا سیکھتا ہے کہ وہ دوسرے کی مرضی کا غلام نہ بنے۔ جس کی ایماندار سوچ ہی اس کی ڈھال ہے اور سادہ سچائی ہی اس کی سب سے بڑی مہارت ہے۔"
+          },
+          {
+            "en": "Whose passions not his masters are, Whose soul is still prepared for death, Untied unto the world by care Of public fame, or private breath:",
+            "sd": "جنهن جون جذباتي خواهشون سندس مالڪ نه آهن، جنهن جو روح موت لاءِ هر وقت تيار آهي، جيڪو دنيا سان نه عوامي شهرت جي ڳڻتيءَ سان ٻڌل آهي ۽ نه ئي ماڻهن جي خانگي ڳالهين سان.",
+            "ur": "جس کی خواہشیں اس کی مالک نہیں ہیں، جس کی روح موت کے لیے ہر وقت تیار ہے، جو دنیا سے نہ عوامی شہرت کی فکر سے بندھا ہے اور نہ لوگوں کی نجی باتوں سے۔"
+          },
+          {
+            "en": "Who envies none that chance doth raise, Nor vice: who never understood How deepest wounds are given by praise; Nor rules of state, but rules of good;",
+            "sd": "جيڪو انهن مان ڪنهن سان به حسد نه ٿو ڪري، جن کي قسمت مٿي کڻي وڃي ٿي، نه ئي برائيءَ سان ڪو واسطو رکي ٿو؛ جنهن ڪڏهن به اهو نه سمجھيو ته سڀ کان ڳوڙها زخم تعريف سان ملن ٿا؛ جيڪو رياست جي قانونن تي نه، پر چڱائيءَ جي اصولن تي هلي ٿو.",
+            "ur": "جو ان لوگوں میں سے کسی سے حسد نہیں کرتا جنہیں قسمت نے اوپر اٹھا دیا ہے، نہ برائی سے کوئی واسطہ رکھتا ہے؛ جس نے کبھی یہ نہیں سمجھا کہ سب سے گہرے زخم تعریف سے ملتے ہیں؛ جو ریاست کے قانونوں پر نہیں بلکہ بھلائی کے اصولوں پر چلتا ہے۔"
+          },
+          {
+            "en": "Who hath his life from rumours freed; Whose conscience is his strong retreat; Whose state can neither flatterers feed, Nor ruin make oppressors great;",
+            "sd": "جنهن پنهنجي زندگي افواهن کان آزاد رکي آهي؛ جنهن جو ضمير سندس مضبوط پناه آهي؛ جنهن جي حالت نه خوشامد ڪندڙن کي پالي ٿي ۽ نه ئي بربادي ظالمن کي وڏو بڻائي ٿي.",
+            "ur": "جس نے اپنی زندگی افواہوں سے آزاد رکھی ہے؛ جس کا ضمیر اس کی مضبوط پناہ گاہ ہے؛ جس کی حالت نہ خوشامد کرنے والوں کو پالتی ہے اور نہ بربادی ظالموں کو بڑا بناتی ہے۔"
+          },
+          {
+            "en": "Who God doth late and early pray More of His grace than gifts to lend; And entertains the harmless day With a religious book or friend;",
+            "sd": "جيڪو الله کي صبح ۽ شام دعا ڪري ٿو ۽ نعمتن کان وڌيڪ سندس فضل گھري ٿو؛ ۽ پنهنجو بي ضرر ڏينهن ديني ڪتاب پڙھڻ يا دوست سان گذاري ٿو.",
+            "ur": "جو اللہ سے صبح و شام دعا کرتا ہے اور نعمتوں سے زیادہ اس کا فضل مانگتا ہے؛ اور اپنا بے ضرر دن کسی دینی کتاب یا دوست کے ساتھ گزارتا ہے۔"
+          },
+          {
+            "en": "This man is freed from servile bands Of hope to rise, or fear to fall: Lord of himself, though not of lands, And having nothing, yet hath all.",
+            "sd": "هي ماڻهو غلاميءَ جي بندن کان آزاد آهي — مٿي چڙھڻ جي اميد جي بندن کان ۽ هيٺ ڪرڻ جي ڊپ کان؛ هو پاڻ جو مالڪ آهي، جيتوڻيڪ زمينن جو مالڪ نه آهي، ۽ وٽس ڪجهه به نه هجڻ جي باوجود، وٽس سڀ ڪجهه آهي.",
+            "ur": "یہ شخص غلامی کے بندھنوں سے آزاد ہے — اوپر چڑھنے کی امید کے بندھن سے اور نیچے گرنے کے ڈر سے؛ وہ خود کا مالک ہے، اگرچہ زمینوں کا مالک نہیں، اور اس کے پاس کچھ بھی نہ ہونے کے باوجود اس کے پاس سب کچھ ہے۔"
+          }
+        ],
+        "section": "B.1",
+        "unit": 11,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "192-193",
+        "lesson": "Don't Quit",
+        "paragraphs": [
+          {
+            "en": "When things go wrong, as they sometimes will, When the road you're trudging seems all uphill, When the funds are low and debts are high, And you want to smile but have to sigh, When care is pressing you down a bit, Rest, if you must, but don't you quit.",
+            "sd": "جڏهن شيون غلط ٿي وڃن ٿيون، جيئن ڪڏهن ڪڏهن ٿيندو آهي، جڏهن اهو رستو جنهن تي توهان هلي رھيا آهيو، چڙھائيءَ وارو لڳي ٿو، جڏهن پئسا گھٽ ۽ قرض وڌيڪ هجن، ۽ توهان مسڪرائڻ چاهيو ٿا پر مسڪرائي نٿا سگھو، جڏهن پريشاني توهان کي ٿورو دٻائي رھي آهي، ته آرام ڪريو، جيڪڏهن ضرورت هجي، پر هار نه مڃيو.",
+            "ur": "جب چیزیں غلط ہو جائیں، جیسا کہ کبھی کبھی ہوتا ہے، جب وہ راستہ جس پر تم چل رہے ہو چڑھائی والا لگے، جب پیسے کم اور قرض زیادہ ہوں، اور تم مسکرانا چاہو مگر آہ بھرنی پڑے، جب پریشانی تمہیں تھوڑا دبا رہی ہو، تو آرام کر لو، اگر ضرورت ہو، مگر ہار مت مانو۔"
+          },
+          {
+            "en": "Life is queer with its twists and turns, As every one of us sometimes learns, And many a failure turns about, When he might have won had he stuck it out; Don't give up though the pace seems slow- You might succeed with another blow.",
+            "sd": "زندگي پنهنجن موڙن ۽ وٺن سان عجيب آهي، جيئن اسان مان هر هڪ ڪڏهن ڪڏهن ڄاڻي ٿو، ۽ ڪيتريون ئي ناڪاميون ڪاميابيءَ ۾ بدلجي وڃن ٿيون، جڏهن ماڻهو ڪامياب ٿي سگھيو ٿي، جيڪڏهن هو ثابت قدم رھيو ٿي؛ رفتار سست لڳڻ جي باوجود هار نه مڃيو — توهان هڪ ٻئي ڪوشش سان ڪامياب ٿي سگھو ٿا.",
+            "ur": "زندگی اپنے موڑ اور چکر کے ساتھ عجیب ہے، جیسا کہ ہم میں سے ہر کوئی کبھی کبھی جانتا ہے، اور بہت سی ناکامیاں کامیابی میں بدل جاتی ہیں، جب انسان جیت سکتا تھا اگر وہ ڈٹا رہتا؛ رفتار سست لگنے کے باوجود ہار مت مانو — تم ایک اور کوشش سے کامیاب ہو سکتے ہو۔"
+          },
+          {
+            "en": "Often the goal is nearer than, It seems to a faint and faltering man, Often the struggler has given up, When he might have captured the victor's cup. And he learned too late when the night slipped down, How close he was to the golden crown.",
+            "sd": "گھڻو ڪري منزل ان کان وڌيڪ ويجهي هوندي آهي، جيتري هڪ ڪمزور ۽ ڊڄندڙ ماڻهوءَ کي لڳندي آهي؛ گھڻو ڪري جدوجهد ڪندڙ ماڻهو هار مڃي ڇڏيندو آهي، جڏهن هو فاتح جو انعام حاصل ڪري سگھيو ٿي؛ ۽ هن کي تڏهن خبر پئي، جڏهن دير ٿي چڪي هئي ۽ رات اچي وئي هئي، ته هو سوني تاج جي ڪيترو ويجهو هو.",
+            "ur": "اکثر منزل اس سے زیادہ قریب ہوتی ہے جتنی ایک کمزور اور ڈگمگاتے ہوئے شخص کو لگتی ہے؛ اکثر جدوجہد کرنے والا ہار مان لیتا ہے، جب وہ فاتح کا انعام حاصل کر سکتا تھا؛ اور اسے تب پتہ چلا جب دیر ہو چکی تھی اور رات آ گئی تھی کہ وہ سنہری تاج کے کتنا قریب تھا۔"
+          },
+          {
+            "en": "Success is failure turned inside out- The silver tint of clouds of doubt, And you never can tell how close you are, It may be near when it seems so far, So stick to the fight when you're hardest hit- It's when things seem worst that you mustn't quit.",
+            "sd": "ڪاميابي ناڪاميءَ جو ئي ٻيو روپ آهي — شک جي ڪڪرن ۾ چانديءَ جي جھلک آهي، ۽ توهان ڪڏهن به نٿا ٻڌائي سگھو ته توهان ڪاميابيءَ جي ڪيتري ويجهو آهيو؛ اها ويجهي به ٿي سگھي ٿي، جڏهن اها پري لڳي ٿي؛ تنهنڪري جڏهن توهان تي سڀ کان وڏو حملو ٿئي، تڏهن به مقابلو جاري رکو — جڏهن شيون سڀ کان خراب لڳن ٿيون، تڏهن ئي توهان کي هار نه مڃڻ گھرجي.",
+            "ur": "کامیابی ناکامی کا ہی دوسرا روپ ہے — شک کے بادلوں میں چاندی کی جھلک ہے، اور تم کبھی نہیں بتا سکتے کہ تم کامیابی کے کتنے قریب ہو؛ وہ قریب بھی ہو سکتی ہے جب وہ دور لگتی ہے؛ اس لیے جب تم پر سب سے بڑا حملہ ہو تب بھی مقابلہ جاری رکھو — جب چیزیں سب سے خراب لگیں تبھی تمہیں ہار نہیں ماننی چاہیے۔"
+          }
+        ],
+        "section": "B.2",
+        "unit": 12,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "197",
+        "lesson": "Ozymandias",
+        "paragraphs": [
+          {
+            "en": "I met a traveller from an antique land, Who said— “Two vast and trunkless legs of stone Stand in the desert. Near them, on the sand Half sunk, a shattered visage lies, whose frown, And wrinkled lip, and sneer of cold command Tell that its sculptor well those passions read, Which yet survive, stamped on these lifeless things The hand that mocked them, and the heart that fed;",
+            "sd": "مون کي هڪ قديم ملڪ مان آيل مسافر مليو، جنهن چيو — 'ٿر ۾ پٿر جون ٻه وڏيون ۽ ڌڙ کان سواءِ ٽنگون بيٺل آهن. انهن جي ويجهو، واريءَ تي اڌ ٻڏل، هڪ ٽٽل چھرو پيل آهي، جنهن جي پيشانيءَ تي ڏمر، وڪوڙيل چپ ۽ سرد حڪم وارو ٺٺول آهي، جيڪو ٻڌائي ٿو ته ان جي مجسمي ٺاهيندڙ ان جذبن کي چڱيءَ طرح پڙھي ورتو هو، جيڪي اڃا تائين انهن بي جان شين تي چٽيل آهن — اهو هٿ جنهن انهن جو ٺٺول ڪيو هو، ۽ اها دل جنهن انهن کي پاليو هو.'",
+            "ur": "مجھے ایک قدیم ملک سے آیا ہوا مسافر ملا، جس نے کہا — 'صحرا میں پتھر کی دو بڑی اور دھڑ کے بغیر ٹانگیں کھڑی ہیں۔ ان کے قریب، ریت پر آدھا دھنسا ہوا، ایک ٹوٹا ہوا چہرہ پڑا ہے، جس کی پیشانی پر شکن، مڑے ہوئے ہونٹ اور سرد حکم والی حقارت ہے، جو بتاتا ہے کہ اس کے مجسمہ ساز نے ان جذبات کو اچھی طرح پڑھ لیا تھا، جو اب بھی ان بے جان چیزوں پر نقش ہیں — وہ ہاتھ جس نے ان کا مذاق اڑایا تھا، اور وہ دل جس نے انہیں پالا تھا۔'"
+          },
+          {
+            "en": "And on the pedestal, these words appear: My name is Ozymandias, King of Kings; Look on my Works, ye Mighty, and despair! Nothing beside remains. Round the decay Of that Colossal Wreck, boundless and bare, The lone and level sands stretch far away.”-",
+            "sd": "۽ ان جي چبوتري تي هي لفظ لکيل آهن: 'منهنجو نالو اوزيمينڊياس آهي، بادشاهن جو بادشاه؛ منهنجا ڪم ڏسو، اي طاقتورو، ۽ مايوس ٿيو! ان جي ڀر ۾ ٻيو ڪجهه به باقي نه رھيو آهي. ان وڏي ٽٽل کنڊر جي چوڌاري، جيڪو بي حد ۽ خالي آهي، اڪيلو ۽ هموار ٿر پري تائين پکڙيل آهي.'",
+            "ur": "اور اس کے چبوترے پر یہ الفاظ لکھے ہیں: 'میرا نام اوزیمینڈیاس ہے، بادشاہوں کا بادشاہ؛ میرے کام دیکھو، اے طاقتورو، اور مایوس ہو جاؤ! اس کے پاس کچھ بھی باقی نہیں رہا۔ اس عظیم ٹوٹے ہوئے کھنڈر کے ارد گرد، جو بے حد اور خالی ہے، تنہا اور ہموار ریت دور تک پھیلی ہوئی ہے۔'"
+          }
+        ],
+        "section": "B.3",
+        "unit": 13,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "201",
+        "lesson": "Good Timber",
+        "paragraphs": [
+          {
+            "en": "The tree that never had to fight For sun and sky and air and light, But stood out in the open plain And always got its share of rain, Never became a forest king But lived and died a scrubby thing.",
+            "sd": "اهو وڻ جنهن کي ڪڏهن به سج، آسمان، هوا ۽ روشنيءَ لاءِ وڙھڻو نه پيو، پر جيڪو کليل ميدان ۾ بيٺو رھيو ۽ هميشه پنهنجو مينهن جو حصو وٺندو رھيو، اهو ڪڏهن به ٻيلي جو بادشاه نه بڻيو، پر هڪ ننڍڙي بيڪار ٻوٽي وانگر جيئرو رھيو ۽ مري ويو.",
+            "ur": "وہ درخت جسے کبھی سورج، آسمان، ہوا اور روشنی کے لیے لڑنا نہیں پڑا، بلکہ جو کھلے میدان میں کھڑا رہا اور ہمیشہ بارش کا اپنا حصہ پاتا رہا، وہ کبھی جنگل کا بادشاہ نہیں بنا، بلکہ ایک چھوٹے بے کار پودے کی طرح جیا اور مر گیا۔"
+          },
+          {
+            "en": "The man who never had to toil To gain and farm his patch of soil, Who never had to win his share Of sun and sky and light and air, Never became a manly man But lived and died as he began.",
+            "sd": "اهو ماڻهو جنهن کي ڪڏهن به پنهنجي زمين جو ٽڪرو حاصل ڪرڻ ۽ ان تي پوک ڪرڻ لاءِ محنت نه ڪرڻي پئي، جنهن کي ڪڏهن به سج، آسمان، روشني ۽ هوا مان پنهنجو حصو حاصل ڪرڻو نه پيو، اهو ڪڏهن به هڪ مردانه ماڻهو نه بڻيو، پر جيئن شروع ٿيو هو، تيئن ئي جيئرو رھيو ۽ مري ويو.",
+            "ur": "وہ شخص جسے کبھی اپنی زمین کا ٹکڑا حاصل کرنے اور اس پر کھیتی کرنے کے لیے محنت نہیں کرنی پڑی، جسے کبھی سورج، آسمان، روشنی اور ہوا سے اپنا حصہ حاصل نہیں کرنا پڑا، وہ کبھی ایک مردانہ شخص نہیں بنا، بلکہ جیسا شروع ہوا تھا ویسے ہی جیا اور مر گیا۔"
+          },
+          {
+            "en": "Good timber does not grow with ease, The stronger wind, the stronger trees, The further sky, the greater length The more the storm, the more the strength, By sun and cold, by rain and snow In trees and men good timbers grow.",
+            "sd": "سٺي ڪاٺ آسانيءَ سان نه ٿي وڌي؛ هوا جيتري تيز، وڻ اوترا ئي مضبوط؛ آسمان جيترو پري، اوچائي اوتري ئي وڌيڪ؛ طوفان جيترو وڌيڪ، طاقت اوتري ئي وڌيڪ؛ سج ۽ ٿڌ، مينهن ۽ برف سان وڻن ۽ ماڻهن ۾ سٺا ڪاٺ وڌن ٿا.",
+            "ur": "اچھی لکڑی آسانی سے نہیں بڑھتی؛ ہوا جتنی تیز، درخت اتنے ہی مضبوط؛ آسمان جتنا دور، اونچائی اتنی ہی زیادہ؛ طوفان جتنا زیادہ، طاقت اتنی ہی زیادہ؛ سورج اور سردی، بارش اور برف سے درختوں اور انسانوں میں اچھی لکڑی بڑھتی ہے۔"
+          },
+          {
+            "en": "Where thickest lies the forest growth We find the patriarchs of both, And they hold counsel with the stars Whose broken branches show the scars, Of many winds and much of strife This is the common law of life.",
+            "sd": "جتي ٻيلو سڀ کان گهاٽو آهي، اتي اسان ٻنهي جا وڏا بزرگ ڏسون ٿا، ۽ اهي تارن سان صلاح ڪن ٿا، جن جون ٽٽل ٽاريون ڪيترين ئي هوائن ۽ ڪيتري ئي ڪشمکش جا نشان ڏيکارين ٿيون — هي زندگيءَ جو عام قانون آهي.",
+            "ur": "جہاں جنگل سب سے گھنا ہے، وہاں ہم دونوں کے بزرگوں کو پاتے ہیں، اور وہ ستاروں سے مشورہ کرتے ہیں، جن کی ٹوٹی ہوئی شاخیں بہت سی ہواؤں اور بہت سی کشمکش کے نشان دکھاتی ہیں — یہ زندگی کا عام قانون ہے۔"
+          }
+        ],
+        "section": "B.4",
+        "unit": 14,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "205-207",
+        "lesson": "Lucy Gray",
+        "paragraphs": [
+          {
+            "en": "Oft I had heard of Lucy Gray: And, when I crossed the wild, I chanced to see at break of day The solitary child.",
+            "sd": "مون لوسي گري بابت گھڻو وقت کان ٻڌو هو. جڏهن آءٌ ويران ميدان مان لنگھيس، ته صبح جو سوير مون اڪيلي ٻارڙي کي ڏٺو.",
+            "ur": "میں نے لوسی گرے کے بارے میں اکثر سنا تھا۔ جب میں ویران میدان سے گزرا تو صبح سویرے میں نے اکیلی بچی کو دیکھا۔"
+          },
+          {
+            "en": "No mate, no comrade Lucy knew; She dwelt on a wide moor, --The sweetest thing that ever grew Beside a human door!",
+            "sd": "لوسي جو ڪو به ساٿي نه هو. هوءَ کليل ميدان ۾ رھندي هئي، ۽ انسان جي گھر ڀرسان رھندڙ سڀ کان پياري ٻارڙي هئي.",
+            "ur": "لوسی کا کوئی ساتھی نہ تھا۔ وہ کھلے میدان میں رہتی تھی، وہ سب سے پیاری بچی تھی جو انسان کے گھر کے پاس رہتی تھی۔"
+          },
+          {
+            "en": "You yet may spy the fawn at play, The hare upon the green; But the sweet face of Lucy Gray Will never more be seen.",
+            "sd": "تون اڃا به ھرڻ جي ٻچي کي کيڏندي ۽ سسي کي سائي ميدان تي ڏسي سگھين ٿو، پر لوسي گري جو پيارو منهن وري ڪڏهن به نه ڏسندين.",
+            "ur": "تم اب بھی ہرن کے بچے کو کھیلتے ہوئے اور خرگوش کو سبز میدان میں دیکھ سکتے ہو، لیکن لوسی گرے کا پیارا چہرہ پھر کبھی نظر نہیں آئے گا۔"
+          },
+          {
+            "en": "\"To-night will be a stormy night-- You to the town must go; And take a lantern, Child, to light Your mother through the snow.\"",
+            "sd": "پيءُ چيو: اڄ رات طوفاني رات ٿيندي. توکي شهر ڏانهن وڃڻو آهي، ۽ لالٽين وٺي وڃ، جيئن تنهنجي امان برف مان اچي سگھي.",
+            "ur": "باپ نے کہا: آج کی رات طوفانی رات ہوگی۔ تمہیں شہر جانا ہوگا، اور لالٹین لے کر جاؤ تاکہ تمہاری ماں برف میں سے آ سکے۔"
+          },
+          {
+            "en": "\"That, Father! will I gladly do: 'Tis scarcely afternoon-- The minster-clock has just struck two, And yonder is the moon!\"",
+            "sd": "لوسي چيو: ابو! آءٌ خوشي سان وينديس. اڃا ته منجھند به نه ٿي آهي. گرجا گھر جي گھڙيال ٻه وڄايا آهن، ۽ هي ڏس، چنڊ اڀريو آهي.",
+            "ur": "لوسی نے کہا: ابو! میں خوشی سے جاؤں گی۔ ابھی تو دوپہر بھی نہیں ہوئی۔ گرجا گھر کی گھڑی نے دو بجائے ہیں، اور دیکھو، چاند نکل آیا ہے۔"
+          },
+          {
+            "en": "At this the Father raised his hook, And snapped a faggot-band; He plied his work;--and Lucy took The lantern in her hand.",
+            "sd": "اهو ٻڌي پيءُ پنهنجو ڏاتو کنيو ۽ ڪاٺين جو ڀرو ٽوڙي ڇڏيو. هو پنهنجو ڪم ڪندو رھيو ۽ لوسي لالٽين هٿ ۾ کڻي ورتي.",
+            "ur": "یہ سن کر باپ نے اپنا درانتی اٹھائی اور لکڑیوں کا گٹھا توڑ دیا۔ وہ اپنا کام کرتا رہا اور لوسی نے لالٹین ہاتھ میں لے لی۔"
+          },
+          {
+            "en": "Not blither is the mountain roe: With many a wanton stroke Her feet disperse the powdery snow, That rises up like smoke.",
+            "sd": "جبل جي ھرڻي به ايتري خوش ۽ چست نه آهي. هوءَ چنچل ٽپن سان نرم برف کي اڏائيندي آهي، جيڪا ڌوئي وانگر مٿي اٿندي آهي.",
+            "ur": "پہاڑ کی ہرنی بھی اتنی خوش اور چست نہیں ہے۔ وہ شرارتی چھلانگوں سے نرم برف کو اڑاتی ہے جو دھوئیں کی طرح اوپر اٹھتی ہے۔"
+          },
+          {
+            "en": "The storm came on before its time: She wandered up and down; And many a hill did Lucy climb: But never reached the town.",
+            "sd": "طوفان وقت کان اڳ ۾ اچي ويو. هوءَ مٿي هيٺ ڀٽڪندي رھي ۽ گھڻا جبل چڙهي وئي، پر شهر تائين ڪڏهن به نه پھتي.",
+            "ur": "طوفان وقت سے پہلے آ گیا۔ وہ اوپر نیچے بھٹکتی رہی اور کئی پہاڑیاں چڑھ گئی، لیکن شہر تک کبھی نہ پہنچ سکی۔"
+          },
+          {
+            "en": "The wretched parents all that night Went shouting far and wide; But there was neither sound nor sight To serve them for a guide.",
+            "sd": "بدنصيب امان ابو سڄي رات پري پري تائين رڙيون ڪندا رھيا، پر نه ڪو آواز ٻڌڻ ۾ آيو ۽ نه ڪو نشان ڏسڻ ۾ آيو، جيڪو کين رستو ڏيکاري سگھي.",
+            "ur": "بدقسمت ماں باپ نے ساری رات دور دور تک پکارتے ہوئے گزاری، لیکن نہ کوئی آواز سنائی دی اور نہ کوئی نشان نظر آیا جو انہیں راستہ دکھا سکتا۔"
+          },
+          {
+            "en": "At day-break on a hill they stood That overlooked the moor; And thence they saw the bridge of wood, A furlong from their door.",
+            "sd": "صبح جو سوير اهي هڪ جبل تي بيٺا، جتان ميدان ڏسڻ ۾ ايندو هو. اتان کين ڪاٺ جي پل ڏسڻ ۾ آئي، جيڪا سندن گھر کان هڪ فرلانگ پري هئي.",
+            "ur": "صبح سویرے وہ ایک پہاڑی پر کھڑے ہوئے جہاں سے میدان نظر آتا تھا۔ وہاں سے انہیں لکڑی کا پل نظر آیا جو ان کے گھر سے ایک فرلانگ دور تھا۔"
+          },
+          {
+            "en": "They wept--and, turning homeward, cried, \"In heaven we all shall meet;\" --When in the snow the mother spied The print of Lucy's feet.",
+            "sd": "اهي روئيندا گھر ڏانهن موٽيا ۽ چيائون: جنت ۾ اسين سڀ ملنداسين. ان وقت برف ۾ امان کي لوسي جي پيرن جا نشان ڏسڻ ۾ آيا.",
+            "ur": "وہ روتے ہوئے گھر کی طرف لوٹے اور کہنے لگے: جنت میں ہم سب ملیں گے۔ اسی وقت برف میں ماں کو لوسی کے پاؤں کے نشان نظر آئے۔"
+          },
+          {
+            "en": "Then downwards from the steep hill's edge They tracked the footmarks small; And through the broken hawthorn hedge, And by the long stone-wall;",
+            "sd": "پوءِ اهي جبل جي ڍلائڻ واري ڪناري کان هيٺ لٿا ۽ ننڍڙن پيرن جي نشانن پٺيان ويا. اهي ڪنڊن واري باڙ ۽ پٿر جي ڊگھي ديوار وٽان لنگھيا.",
+            "ur": "پھر وہ پہاڑی کے ڈھلوان کنارے سے نیچے اترے اور چھوٹے چھوٹے پاؤں کے نشانوں کے پیچھے چلتے گئے۔ وہ کانٹوں والی باڑ اور پتھر کی لمبی دیوار سے گزرے۔"
+          },
+          {
+            "en": "And then an open field they crossed: The marks were still the same; They tracked them on, nor ever lost; And to the bridge they came.",
+            "sd": "پوءِ اهي هڪ کليل ميدان مان لنگھيا. نشان اڃا ساڳيا هئا. اهي نشانن پٺيان هلندا رھيا ۽ ڪڏهن به نه وڃايا، ۽ آخر پل وٽ پھتا.",
+            "ur": "پھر وہ ایک کھلے میدان سے گزرے۔ نشان اب بھی ویسے ہی تھے۔ وہ نشانوں کے پیچھے چلتے رہے اور کبھی نہ بھٹکے، اور آخر کار پل تک پہنچ گئے۔"
+          },
+          {
+            "en": "They followed from the snowy bank Those footmarks, one by one, Into the middle of the plank; And further there were none!",
+            "sd": "اهي برف سان ڍڪيل ڪناري کان انهن نشانن پٺيان هڪ هڪ ڪري هليا ۽ پل جي وچ ۾ پھتا، پر ان کان اڳتي ڪو به نشان نه هو.",
+            "ur": "وہ برف والے کنارے سے ان نشانوں کے پیچھے ایک ایک کر کے چلے اور پل کے بیچ میں پہنچے، لیکن اس سے آگے کوئی نشان نہ تھا۔"
+          },
+          {
+            "en": "--Yet some maintain that to this day She is a living child; That you may see sweet Lucy Gray Upon the lonesome wild.",
+            "sd": "پر اڃا به ڪجهه ماڻهو چون ٿا ته لوسي اڄ به زنده ٻار آهي، ۽ تون پياري لوسي گري کي ويران ميدان ۾ ڏسي سگھين ٿو.",
+            "ur": "لیکن آج بھی کچھ لوگ کہتے ہیں کہ لوسی آج بھی زندہ بچی ہے، اور تم پیاری لوسی گرے کو ویران میدان میں دیکھ سکتے ہو۔"
+          },
+          {
+            "en": "O'er rough and smooth she trips along, And never looks behind; And sings a solitary song That whistles in the wind.",
+            "sd": "هوءَ اوچي نيچي زمين تان هلندي ويندي آهي ۽ پٺيان ڪڏهن به نه ڏسندي آهي. هوءَ اڪيلي گيت ڳائيندي آهي، جيڪو هوا ۾ گونجي ٿو.",
+            "ur": "وہ اونچی نیچی زمین پر چلتی پھرتی ہے اور پیچھے کبھی نہیں دیکھتی۔ وہ اکیلا گیت گاتی ہے جو ہوا میں گونجتا ہے۔"
+          }
+        ],
+        "section": "B.5",
+        "unit": 15,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "211-214",
+        "lesson": "The Abbot of Canterbury",
+        "paragraphs": [
+          {
+            "en": "An ancient story I'll tell you anon Of a notable prince that was called King John; And he ruled England with main and with might, For he did great wrong and maintained little right.",
+            "sd": "آءٌ توهان کي هڪ پراڻي ڪھاڻي جلد ٻڌائيندس، هڪ مشهور شهزادي جي ڪھاڻي، جنهن کي جان بادشاهه چيو ويندو هو. هن انگلينڊ تي وڏي طاقت ۽ شان سان حڪومت ڪئي، ڇو ته هن گھڻا غلط ڪم ڪيا ۽ ٿورو ئي صحيح ڪم ڪيو.",
+            "ur": "میں تمہیں جلد ایک پرانی کہانی سناؤں گا، ایک مشہور شہزادے کی کہانی جسے بادشاہ جان کہا جاتا تھا۔ اس نے بڑی طاقت اور شان سے انگلستان پر حکومت کی، کیونکہ اس نے بہت سے غلط کام کیے اور بہت کم صحیح کام کیے۔"
+          },
+          {
+            "en": "And I'll tell you a story, a story so merry, Concerning the Abbot of Canterbury; How for his housekeeping, and high renown They rode post for him to fair London town.",
+            "sd": "۽ آءٌ توهان کي هڪ خوش ڪندڙ ڪھاڻي ٻڌائيندس، ڪينٽربري جي ايبٽ بابت. سندس مهمان نوازي ۽ وڏي شهرت سبب، ماڻهو سندس لاءِ لنڊن شهر ڏانهن تيزي سان سواري ڪري ايندا هئا.",
+            "ur": "اور میں تمہیں ایک خوش کن کہانی سناؤں گا، کینٹربری کے ایبٹ کے بارے میں۔ اس کی مہمان نوازی اور بڑی شہرت کی وجہ سے لوگ اس کے لیے لندن شہر کی طرف تیزی سے سواری کر کے آتے تھے۔"
+          },
+          {
+            "en": "An hundred men, the king did hear say, The abbot kept in his house every day; And fifty gold chains, without any doubt, In velvet coats waited the abbot about.",
+            "sd": "بادشاهه ٻڌو ته ايبٽ هر ڏينهن پنهنجي گھر ۾ سؤ ماڻهو رکندو هو، ۽ پنجاهه سون جون زنجيرون، بغير ڪنهن شڪ جي، مخملي ڪپڙن ۾ ايبٽ جي چوڌاري انتظار ڪندا هئا.",
+            "ur": "بادشاہ نے سنا کہ ایبٹ ہر روز اپنے گھر میں سو آدمی رکھتا ہے، اور پچاس سونے کی زنجیریں، بغیر کسی شک کے، مخملی کوٹوں میں ایبٹ کے گرد انتظار کرتی ہیں۔"
+          },
+          {
+            "en": "'How now, father abbot? I hear it of thee, Thou keepest a far better house than me; And for thy housekeeping and high renown, I fear thou work'st treason against my crown.'",
+            "sd": "بادشاهه چيو: اي ايبٽ پيءُ! تو بابت مون ٻڌو آهي، تون مون کان گھڻو بهتر گھر رکين ٿو. ۽ تنهنجي مهمان نوازي ۽ وڏي شهرت سبب، مون کي ڊپ آهي ته تون منهنجي تاج خلاف غداري ڪرين ٿو.",
+            "ur": "بادشاہ نے کہا: اے ایبٹ باپ! میں نے تمہارے بارے میں سنا ہے، تم مجھ سے بہت بہتر گھر رکھتے ہو۔ اور تمہاری مہمان نوازی اور بڑی شہرت کی وجہ سے مجھے ڈر ہے کہ تم میرے تاج کے خلاف غداری کرتے ہو۔"
+          },
+          {
+            "en": "'My liege', quoth the abbot, 'I would it were known I never spend nothing but what is my own; And I trust your grace will do me no dere For spending of my own true-gotten gear.'",
+            "sd": "ايبٽ چيو: منهنجا آقا، ڪاش توهان کي خبر هجي ته مون ڪڏهن به پنهنجي ملڪيت کان وڌيڪ خرچ نه ڪيو آهي. ۽ مون کي يقين آهي ته توهان جي مهرباني مون کي ڪو به نقصان نه ڏيندي، جو مون پنهنجي حلال جي ڪمائي خرچ ڪئي آهي.",
+            "ur": "ایبٹ نے کہا: میرے آقا، کاش آپ کو معلوم ہوتا کہ میں نے کبھی اپنی ملکیت سے زیادہ خرچ نہیں کیا۔ اور مجھے یقین ہے کہ آپ کی مہربانی مجھے کوئی نقصان نہیں پہنچائے گی، کیونکہ میں نے اپنی حلال کی کمائی خرچ کی ہے۔"
+          },
+          {
+            "en": "'Yes, yes, father abbot, thy fault it is high, And now for the same thou needest must die; For except thou canst answer my questions three; Thy head shall be smitten from thy body.",
+            "sd": "بادشاهه چيو: ها، ها، اي ايبٽ پيءُ! تنهنجو ڏوهه وڏو آهي، ۽ هاڻي ان جي ڪري توکي مرڻو پوندو، جيستائين تون منهنجا ٽي سوال جواب نه ڏين. تنهنجو مٿو تنهنجي جسم کان ڪٽيو ويندو.",
+            "ur": "بادشاہ نے کہا: ہاں ہاں، اے ایبٹ باپ! تمہارا قصور بہت بڑا ہے، اور اب اسی لیے تمہیں مرنا ہوگا، جب تک تم میرے تین سوالوں کے جواب نہ دو۔ تمہارا سر تمہارے جسم سے کاٹ دیا جائے گا۔"
+          },
+          {
+            "en": "'And first,' quoth the king 'when I'm in this stead, With my crown of gold so fair on my head, Among all my liege-men so noble of birth, Thou must tell me to one penny what I am worth.",
+            "sd": "بادشاهه چيو: پهريون، جڏهن آءٌ هن جاءِ تي پنهنجي سون جي تاج سان، جيڪو منهنجي مٿي تي خوبصورت لڳي ٿو، پنهنجن وفادار دربارين جي وچ ۾ ويٺو هجان، ته توکي مون کي هڪ پئسي جي فرق سان ٻڌائڻو پوندو ته آءٌ ڪيتري قيمت جو آهيان.",
+            "ur": "بادشاہ نے کہا: پہلا سوال یہ ہے کہ جب میں اس جگہ پر اپنے سونے کے تاج کے ساتھ، جو میرے سر پر خوبصورت لگتا ہے، اپنے وفادار درباریوں کے درمیان بیٹھا ہوں، تو تم مجھے ایک پیسے کے فرق سے بتاؤ کہ میں کتنی قیمت کا ہوں۔"
+          },
+          {
+            "en": "'Secondly, tell me, without any doubt How soon I may ride the whole world about, And at the third question thou must not shrink, But tell me here truly what I do think.'",
+            "sd": "ٻيو، مون کي بغير ڪنهن شڪ جي ٻڌاءِ ته آءٌ ڪيتري جلدي سڄي دنيا جو چڪر لڳائي سگھان ٿو. ۽ ٽئين سوال تي توکي پٺتي نه هٽڻو آهي، پر مون کي سچ ٻڌائڻو آهي ته آءٌ ڇا سوچيان ٿو.",
+            "ur": "دوسرا، مجھے بغیر کسی شک کے بتاؤ کہ میں کتنی جلدی ساری دنیا کا چکر لگا سکتا ہوں۔ اور تیسرے سوال پر تمہیں پیچھے نہیں ہٹنا ہے، بلکہ مجھے سچ بتانا ہے کہ میں کیا سوچتا ہوں۔"
+          },
+          {
+            "en": "'O, these are hard questions for my shallow wit. Nor I cannot answer your grace as yet; But if you will give me but three weeks' space, I'll do my endeavour to answer your grace.'",
+            "sd": "ايبٽ چيو: افسوس، اهي توهان جي حضور جا سخت سوال آهن، منهنجي ٿوري عقل لاءِ. مان اڃا توهان جي حضور کي جواب نه ٿو ڏئي سگھان. پر جيڪڏهن توهان مون کي صرف ٽن هفتن جو وقت ڏيو، ته آءٌ توهان جي حضور کي جواب ڏيڻ جي ڪوشش ڪندس.",
+            "ur": "ایبٹ نے کہا: افسوس، یہ آپ کے حضور کے مشکل سوال ہیں، میری کم عقلی کے لیے۔ میں ابھی آپ کے حضور کو جواب نہیں دے سکتا۔ لیکن اگر آپ مجھے صرف تین ہفتوں کا وقت دیں تو میں آپ کے حضور کو جواب دینے کی کوشش کروں گا۔"
+          },
+          {
+            "en": "'Now three weeks' space to thee will I give, And that is the longest time thou hast to live; For if thou dost not answer my questions three, Thy lands and thy living are forfeit to me.",
+            "sd": "بادشاهه چيو: آءٌ توکي ٽن هفتن جو وقت ڏيندس، ۽ اهو سڀ کان ڊگھو وقت آهي، جيترو تون جيئرو رھندين. ڇو ته جيڪڏهن تون منهنجا ٽي سوال جواب نه ڏين، ته تنهنجون زمينون ۽ تنهنجي روزي مون وٽ ضبط ٿي وينديون.",
+            "ur": "بادشاہ نے کہا: میں تمہیں تین ہفتوں کا وقت دوں گا، اور یہ سب سے لمبا وقت ہے جتنا تم زندہ رہو گے۔ کیونکہ اگر تم میرے تین سوالوں کے جواب نہ دو تو تمہاری زمینیں اور تمہاری روزی مجھ سے ضبط کر لی جائے گی۔"
+          },
+          {
+            "en": "Away rode the abbot all sad at that word, And he rode to Cambridge and Oxenford; But never a doctor there was so wise, That could with his learning an answer devise.",
+            "sd": "ايبٽ ان ڳالهه تي ڏک سان روانو ٿيو، ۽ ڪيمبرج ۽ آڪسفورڊ ويو. پر اتي ڪو به عالم ايترو داناءُ نه هو، جيڪو پنهنجي علم سان ڪو جواب سوچي سگھي.",
+            "ur": "ایبٹ اس بات پر دکھی ہو کر روانہ ہوا، اور کیمبرج اور آکسفورڈ گیا۔ لیکن وہاں کوئی عالم اتنا دانا نہ تھا جو اپنے علم سے کوئی جواب سوچ سکتا۔"
+          },
+          {
+            "en": "Then home rode the abbot of comfort so cold, And he met his shepherd a-going to folds; How now my lord abbot, you are welcome home; What news do you bring us from good King John?",
+            "sd": "پوءِ ايبٽ گھر موٽيو، ٿڌي دل سان، ۽ رستي ۾ هن پنهنجي رڍار کي وٿاڻ ڏانهن ويندي ڏٺو. رڍار چيو: منهنجا ايبٽ آقا، توهان جو استقبال آهي. سٺي جان بادشاهه وٽان اسان لاءِ ڪهڙي خبر آندي اٿو؟",
+            "ur": "پھر ایبٹ گھر لوٹا، ٹھنڈے دل سے، اور راستے میں اسے اپنا چرواہا بھیڑوں کے باڑے کی طرف جاتے ہوئے ملا۔ چرواہے نے کہا: میرے ایبٹ آقا، آپ کا استقبال ہے۔ اچھے بادشاہ جان کے پاس سے ہمارے لیے کیا خبر لائے ہو؟"
+          },
+          {
+            "en": "'Sad news, sad news, shepherd, I must give; That I have but three days more to live; For if I do not answer him questions three, My head will be smitten from my body.'",
+            "sd": "ايبٽ چيو: ڏک واري خبر، ڏک واري خبر، اي رڍار، مون کي ڏيڻي آهي. مون وٽ جيئڻ لاءِ صرف ٽي ڏينهن وڌيڪ آهن. ڇو ته جيڪڏهن آءٌ بادشاهه جا ٽي سوال جواب نه ڏيان، ته منهنجو مٿو منهنجي جسم کان ڪٽيو ويندو.",
+            "ur": "ایبٹ نے کہا: دکھ کی خبر، دکھ کی خبر، اے چرواہے، مجھے دینی ہے۔ میرے پاس جینے کے لیے صرف تین دن اور ہیں۔ کیونکہ اگر میں بادشاہ کے تین سوالوں کے جواب نہ دوں تو میرا سر میرے جسم سے کاٹ دیا جائے گا۔"
+          },
+          {
+            "en": "'The first is to tell him there in that stead, With his crown of gold so fair on his head, Among all his liege-men so noble of birth, To within one penny of what he is worth.'",
+            "sd": "پهريون سوال اهو آهي ته کيس ٻڌايان ته هو ان جاءِ تي، پنهنجي سون جي تاج سان، جيڪو سندس مٿي تي خوبصورت لڳي ٿو، پنهنجن وفادار دربارين جي وچ ۾، هڪ پئسي جي فرق سان ڪيتري قيمت جو آهي.",
+            "ur": "پہلا سوال یہ ہے کہ اسے بتاؤں کہ وہ اس جگہ پر، اپنے سونے کے تاج کے ساتھ، جو اس کے سر پر خوبصورت لگتا ہے، اپنے وفادار درباریوں کے درمیان، ایک پیسے کے فرق سے کتنی قیمت کا ہے۔"
+          },
+          {
+            "en": "'The second, to tell him, without any doubt, How soon he may ride this whole world about; And at the third question I must not shrink, To tell him there truly what he does think.'",
+            "sd": "ٻيو، کيس بغير ڪنهن شڪ جي ٻڌايان ته هو ڪيتري جلدي سڄي دنيا جو چڪر لڳائي سگھي ٿو. ۽ ٽئين سوال تي مون کي پٺتي نه هٽڻو آهي، مون کي کيس سچ ٻڌائڻو آهي ته هو ڇا سوچي ٿو.",
+            "ur": "دوسرا، اسے بغیر کسی شک کے بتاؤں کہ وہ کتنی جلدی ساری دنیا کا چکر لگا سکتا ہے۔ اور تیسرے سوال پر مجھے پیچھے نہیں ہٹنا ہے، مجھے اسے سچ بتانا ہے کہ وہ کیا سوچتا ہے۔"
+          },
+          {
+            "en": "'Now cheer up, sir abbot! Did you never hear yet, That a fool he may learn a wise man wit? Lend me horse, and serving-men and your apparel, And I'll ride to London to answer your quarrel.'",
+            "sd": "رڍار چيو: خوش ٿيءُ، اي ايبٽ آقا! ڇا توهان ڪڏهن به نه ٻڌو آهي ته هڪ بيوقوف هڪ داناءُ ماڻهو کي عقل سيکاري سگھي ٿو؟ مون کي گھوڙو، نوڪر ۽ پنهنجو لباس ڏيو، ۽ آءٌ لنڊن ويندس ته توهان جو جھيڙو ختم ڪريان.",
+            "ur": "چرواہے نے کہا: خوش ہو جاؤ، اے ایبٹ آقا! کیا تم نے کبھی نہیں سنا کہ ایک بے وقوف ایک دانا آدمی کو عقل سکھا سکتا ہے؟ مجھے گھوڑا، نوکر اور اپنا لباس دو، اور میں لندن جاؤں گا تاکہ تمہارا جھگڑا ختم کروں۔"
+          },
+          {
+            "en": "'Nay, frown not, if it hath been told upto me, I am like your lordship as ever may be; And if you will but lend me your gown, There is none shall know us at fair London town.",
+            "sd": "ايبٽ چيو: نه، ڪاوڙ نه ڪر، جيڪڏهن مون کي اهو ٻڌايو ويو آهي ته آءٌ توهان جي حضور جهڙو آهيان، جيترو به ٿي سگھي ٿو. ۽ جيڪڏهن توهان مون کي پنهنجو چوغو ڏيو، ته لنڊن شهر ۾ اسان کي ڪو به نه سڃاڻندو.",
+            "ur": "ایبٹ نے کہا: نہیں، ناراض نہ ہو، اگر مجھے یہ بتایا گیا ہے تو میں آپ کے حضور جیسا ہوں، جتنا بھی ہو سکتا ہے۔ اور اگر آپ مجھے اپنا چوغہ دیں تو لندن شہر میں ہمیں کوئی نہیں پہچانے گا۔"
+          },
+          {
+            "en": "'Now horses and serving-men thou shalt have, With sumptuous array most gallant and brave, With crozier and mitre, and rochet, and cope, Fit to appear, 'fore our father the Pope.'",
+            "sd": "ايبٽ چيو: گھوڙا ۽ نوڪر توکي ملندا، شاندار لباس سان، سڀ کان بهادر ۽ شانائتو، عصا ۽ خاص ٽوپي ۽ چوغي سان، جيڪو پوپ جي سامهون اچڻ لاءِ بلڪل مناسب آهي.",
+            "ur": "ایبٹ نے کہا: گھوڑے اور نوکر تمہیں ملیں گے، شاندار لباس کے ساتھ، سب سے بہادر اور شان دار، عصا اور خاص ٹوپی اور چوغے کے ساتھ، جو پوپ کے سامنے آنے کے لیے بالکل مناسب ہے۔"
+          },
+          {
+            "en": "'Now welcome, sir abbot\" the king did say, 'Tis well thou'rt come back to keep thy day; For and if thou canst answer my questions three, Thy life and thy living both saved shall be.'",
+            "sd": "بادشاهه چيو: اي ايبٽ آقا، توهان جو استقبال آهي. سٺو ٿيو جو توهان پنهنجو ڏينهن پورو ڪرڻ لاءِ واپس آيا آهيو. ڇو ته جيڪڏهن توهان منهنجا ٽي سوال جواب ڏئي سگھو ٿا، ته توهان جي زندگي ۽ روزي ٻئي بچي وينديون.",
+            "ur": "بادشاہ نے کہا: اے ایبٹ آقا، آپ کا استقبال ہے۔ اچھا ہوا کہ تم اپنا دن پورا کرنے کے لیے واپس آ گئے ہو۔ کیونکہ اگر تم میرے تین سوالوں کے جواب دے سکتے ہو تو تمہاری زندگی اور روزی دونوں بچ جائیں گی۔"
+          },
+          {
+            "en": "'And first, when thou seest me here in this stead, With my crown of gold so fair on my head, Among all my liege-men so noble of birth, Tell me to one penny what I am worth.'",
+            "sd": "بادشاهه چيو: پهريون، جڏهن توهان مون کي هن جاءِ تي ڏسو ٿا، پنهنجي سون جي تاج سان، جيڪو منهنجي مٿي تي خوبصورت لڳي ٿو، پنهنجن وفادار دربارين جي وچ ۾، ته مون کي هڪ پئسي جي فرق سان ٻڌايو ته آءٌ ڪيتري قيمت جو آهيان.",
+            "ur": "بادشاہ نے کہا: پہلا سوال یہ ہے کہ جب تم مجھے اس جگہ پر دیکھو، اپنے سونے کے تاج کے ساتھ، جو میرے سر پر خوبصورت لگتا ہے، اپنے وفادار درباریوں کے درمیان، تو مجھے ایک پیسے کے فرق سے بتاؤ کہ میں کتنی قیمت کا ہوں۔"
+          },
+          {
+            "en": "'For thirty pence our Saviour was sold Among the false Jews, as I have been told; And twenty-nine is the worth of thee, For I think thou'rt one penny worse than He.'",
+            "sd": "رڍار چيو: اسان جو نجات ڏيندڙ ٽيهه پئسن ۾ وڪرو ٿيو، ڪوڙن يهودين جي وچ ۾، جيئن مون کي ٻڌايو ويو آهي. ۽ اوڻٽيهه توهان جي قيمت آهي، ڇو ته منهنجي خيال ۾ توهان هن کان هڪ پئسو گھٽ آهيو.",
+            "ur": "چرواہے نے کہا: ہمارا نجات دہندہ تیس پیسوں میں بیچا گیا، جھوٹے یہودیوں کے درمیان، جیسا کہ مجھے بتایا گیا ہے۔ اور انتیس تمہاری قیمت ہے، کیونکہ میرے خیال میں تم اس سے ایک پیسہ کم ہو۔"
+          },
+          {
+            "en": "The king he laughed, and swore by Saint Bittel; 'I did not think I had been worth so little! Now secondly tell me without any doubt, How soon I may ride this whole world about.'",
+            "sd": "بادشاهه کليو ۽ سينٽ بٽل جو قسم کنيو. هن چيو: مون کي نه پئي خبر ته آءٌ ايترو سستو هوس. هاڻي ٻيو سوال ٻڌاءِ، بغير ڪنهن شڪ جي، ته آءٌ ڪيتري جلدي سڄي دنيا جو چڪر لڳائي سگھان ٿو.",
+            "ur": "بادشاہ ہنسا اور سینٹ بٹل کی قسم کھائی۔ اس نے کہا: میں نے نہیں سوچا تھا کہ میں اتنا سستا ہوں۔ اب دوسرا سوال بتاؤ، بغیر کسی شک کے، کہ میں کتنی جلدی ساری دنیا کا چکر لگا سکتا ہوں۔"
+          },
+          {
+            "en": "'You must rise with the sun and ride with the same, Until the next morning he riseth again, And then your face need not make any doubt, But in twenty-four hours you ride it about.'",
+            "sd": "رڍار چيو: توهان کي سج سان گڏ اٿڻو آهي ۽ سج سان گڏ سواري ڪرڻي آهي، جيستائين ٻئي ڏينهن صبح جو سج ٻيهر اڀري. ۽ پوءِ توهان جي منهن تي ڪو به شڪ نه رھندو، پر چوويهه ڪلاڪن ۾ توهان دنيا جو چڪر لڳائي سگھو ٿا.",
+            "ur": "چرواہے نے کہا: تمہیں سورج کے ساتھ اٹھنا ہے اور سورج کے ساتھ سواری کرنی ہے، جب تک اگلی صبح سورج دوبارہ نہ نکلے۔ اور پھر تمہارے چہرے پر کوئی شک نہیں رہے گا، بلکہ چوبیس گھنٹوں میں تم دنیا کا چکر لگا لو گے۔"
+          },
+          {
+            "en": "The king he laughed, and swore by Saint John; 'I did not think it could be done so soon! Now from the third question thou must not shrink, But tell me here truly what I do think.'",
+            "sd": "بادشاهه کليو ۽ سينٽ جان جو قسم کنيو. هن چيو: مون کي نه پئي خبر ته اهو ايترو جلدي ٿي سگھي ٿو. هاڻي ٽئين سوال کان توکي پٺتي نه هٽڻو آهي، پر مون کي سچ ٻڌائڻو آهي ته آءٌ ڇا سوچيان ٿو.",
+            "ur": "بادشاہ ہنسا اور سینٹ جان کی قسم کھائی۔ اس نے کہا: میں نے نہیں سوچا تھا کہ یہ اتنی جلدی ہو سکتا ہے۔ اب تیسرے سوال سے تمہیں پیچھے نہیں ہٹنا ہے، بلکہ مجھے سچ بتانا ہے کہ میں کیا سوچتا ہوں۔"
+          },
+          {
+            "en": "'Yes, that shall I do, and make your grace merry; You think I'm the abbot of Canterbury; But I'm his poor shepherd, as plain you may see. That am come to beg pardon for him and for me.'",
+            "sd": "رڍار چيو: ها، اهو آءٌ ڪندس ۽ توهان جي حضور کي خوش ڪندس. توهان سمجھو ٿا ته آءٌ ڪينٽربري جو ايبٽ آهيان، پر آءٌ سندس غريب رڍار آهيان، جيئن توهان صاف ڏسي سگھو ٿا. آءٌ سندس لاءِ ۽ پاڻ لاءِ معافي گھرڻ آيو آهيان.",
+            "ur": "چرواہے نے کہا: ہاں، یہ میں کروں گا اور آپ کے حضور کو خوش کروں گا۔ آپ سمجھتے ہیں کہ میں کینٹربری کا ایبٹ ہوں، لیکن میں اس کا غریب چرواہا ہوں، جیسا کہ آپ صاف دیکھ سکتے ہیں۔ میں اس کے لیے اور اپنے لیے معافی مانگنے آیا ہوں۔"
+          },
+          {
+            "en": "The king he laughed, and swore by the mass, 'I'll make thee lord abbot this day in his place!' \"Now nay, my liege, be not in such speed, For alack! I can neither write nor read.\"",
+            "sd": "بادشاهه کليو ۽ مقدس شين جو قسم کنيو. هن چيو: آءٌ توکي اڄ ئي سندس جاءِ تي ايبٽ بڻائيندس. رڍار چيو: نه، منهنجا آقا، ايتري جلدي نه ڪريو، افسوس جو آءٌ نه لکي سگھان ٿو ۽ نه پڙھي سگھان ٿو.",
+            "ur": "بادشاہ ہنسا اور مقدس چیزوں کی قسم کھائی۔ اس نے کہا: میں تمہیں آج ہی اس کی جگہ ایبٹ بنا دوں گا۔ چرواہے نے کہا: نہیں، میرے آقا، اتنی جلدی نہ کریں، افسوس کہ میں نہ لکھ سکتا ہوں اور نہ پڑھ سکتا ہوں۔"
+          },
+          {
+            "en": "'Four nobles a week, then, I will give thee, For this merry jest thou hast show unto me; And tell the old abbot, when thou comest home, Thou hast brought him a pardon from good King John.'",
+            "sd": "بادشاهه چيو: پوءِ آءٌ توکي هر هفتي چار سون جا سڪا ڏيندس، هن خوش ڪندڙ مذاق لاءِ جيڪو تو مون کي ڏيکاريو آهي. ۽ پراڻي ايبٽ کي ٻڌاءِ، جڏهن تون گھر موٽين، ته تو سندس لاءِ سٺي جان بادشاهه وٽان معافي آندي آهي.",
+            "ur": "بادشاہ نے کہا: تو میں تمہیں ہر ہفتے چار سونے کے سکے دوں گا، اس خوش کن مذاق کے لیے جو تم نے مجھے دکھایا ہے۔ اور پرانے ایبٹ کو بتاؤ، جب تم گھر لوٹو، کہ تم اس کے لیے اچھے بادشاہ جان کے پاس سے معافی لائے ہو۔"
+          }
+        ],
+        "section": "B.6",
+        "unit": 16,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "220",
+        "lesson": "Surr Khahori",
+        "paragraphs": [
+          {
+            "en": "Mother! I saw those, who have Beloved seen, One must stay a night with those who with God have been, Their recognition becomes a raft in this ocean of the world.",
+            "sd": "امان! مون انهن کي ڏٺو، جن محبوب کي ڏٺو آهي. جيڪو خدا سان گڏ رھيو آهي، ان سان هڪ رات رھڻ گھرجي. انهن جي سڃاڻپ دنيا جي سمنڊ ۾ ٻيڙي بڻجي ٿي وڃي.",
+            "ur": "اماں! میں نے ان لوگوں کو دیکھا جنہوں نے محبوب کو دیکھا ہے۔ جو خدا کے ساتھ رہے ہیں، ان کے ساتھ ایک رات گزارنی چاہیے۔ ان کی پہچان دنیا کے سمندر میں کشتی بن جاتی ہے۔"
+          },
+          {
+            "en": "Khahoris prepared early to depart, Searching in the rocks, reduced to bones they are, Giving much trouble to their bodies, they sought their goal.",
+            "sd": "کاھوڙي سوير روانا ٿيڻ لاءِ تيار ٿيا. پھاڙن ۾ ڳوليندا، اهي هڏيون ئي هڏيون رھجي ويا آهن، ۽ پنهنجي جسم کي گھڻي تڪليف ڏئي، پنهنجي مقصد جي ڳولا ڪيائون.",
+            "ur": "کاہوری صبح سویرے روانہ ہونے کے لیے تیار ہوئے۔ پہاڑوں میں ڈھونڈتے ہوئے وہ ہڈیاں ہی ہڈیاں رہ گئے، اور اپنے جسم کو بہت تکلیف دے کر انہوں نے اپنا مقصد تلاش کیا۔"
+          },
+          {
+            "en": "Their faces are dry, on their feet are slippers old and torn, They traversed that land, where even the knowing ones are lost, Their secretive ones, talk secrets of that far off land.",
+            "sd": "انهن جا منهن سڪل آهن، ۽ سندن پيرن ۾ پراڻا ۽ ڦاٽل چپل آهن. اهي اهڙي زمين تان لنگھيا، جتي ڄاڻ وارا به گم ٿي وڃن ٿا، ۽ راز رکندڙ ان پري جي ملڪ جا راز ٻڌائين ٿا.",
+            "ur": "ان کے چہرے خشک ہیں، اور ان کے پاؤں میں پرانی اور پھٹی ہوئی چپلیں ہیں۔ وہ اس زمین سے گزرے جہاں جاننے والے بھی گم ہو جاتے ہیں، اور راز رکھنے والے اس دور کے ملک کے راز بتاتے ہیں۔"
+          },
+          {
+            "en": "Where not a trace of birds is seen, fire is lit, Who save a group of ascetics can kindle it?",
+            "sd": "جتي پکين جو ڪو به نشان نه ٿو ڏسجي، اتي باهه ٻري ٿي. سواءِ فقيرن جي ٽولي جي، ان باهه کي ٻيو ڪير ٻاري سگھي ٿو؟",
+            "ur": "جہاں پرندوں کا کوئی نشان نظر نہیں آتا، وہاں آگ جلتی ہے۔ فقیروں کے گروہ کے سوا اس آگ کو اور کون جلا سکتا ہے؟"
+          },
+          {
+            "en": "Those who went to jungle were not misled, Those on high way were way-laid, Those who gave up both the worlds, were from ignorance saved.",
+            "sd": "جيڪي جھنگل ڏانهن ويا، سي ڀٽڪيا نه. جيڪي اوچي رستي تي هئا، تن کي رستي ۾ ڦريو ويو. جن ٻنهي جهانن کي ڇڏي ڏنو، سي جهالت کان بچي ويا.",
+            "ur": "جو جنگل گئے وہ بھٹکے نہیں۔ جو اونچے راستے پر تھے انہیں راستے میں لوٹ لیا گیا۔ جنہوں نے دونوں جہانوں کو چھوڑ دیا، وہ جہالت سے بچ گئے۔"
+          },
+          {
+            "en": "True seekers still exist, Known only to those who are for spiritual realms, Having found them, they have built their nests close to them.",
+            "sd": "سچا ڳوليندڙ اڃا به موجود آهن، جيڪي صرف انهن کي سڃاڻن ٿا، جيڪي روحاني دنيا جا آهن. جڏهن کين لڌو اٿن، ته انهن جي ويجهو پنهنجا آستانا ٺاهيا آهن.",
+            "ur": "سچے تلاش کرنے والے آج بھی موجود ہیں، جو صرف انہیں پہچانتے ہیں جو روحانی دنیا کے ہیں۔ جب انہیں پا لیا تو انہوں نے ان کے قریب اپنے آستانے بنا لیے ہیں۔"
+          }
+        ],
+        "section": "B.7",
+        "unit": 17,
+        "unitTitle": "Poetry"
+      },
+      {
+        "unit": 18,
+        "unitTitle": "Play",
+        "lesson": "A Visit to a Small Planet",
+        "section": "C.1",
+        "bookPages": "226-242",
+        "paragraphs": [
+          {
+            "en": "Characters in the Play: 1. Kreton 2. Roger Spelding 3. Ellen Spelding 4. Mrs. Spelding 5. John Randolph 6. General Powers 7. Aide",
+            "sd": "ڊرامي جا ڪردار: 1. ڪريٽن 2. راجر اسپيلڊنگ 3. ايلن اسپيلڊنگ 4. مسز اسپيلڊنگ 5. جان رينڊولف 6. جنرل پاورس 7. ايڊ",
+            "ur": "ڈرامے کے کردار: 1۔ کریٹن 2۔ راجر اسپیلڈنگ 3۔ ایلن اسپیلڈنگ 4۔ مسز اسپیلڈنگ 5۔ جان رینڈولف 6۔ جنرل پاورس 7۔ ایڈ"
+          },
+          {
+            "en": "SCENE I",
+            "sd": "منظر پهريون",
+            "ur": "منظر اول"
+          },
+          {
+            "en": "(The room is comfortably balanced between the expensively decorated and homely. ROGER SPELDING is concluding his TV broadcast. He is a middle-aged, unctuous, and resonant. His wife, bored and vague, knits passively while he talks at his desk. Two technicians are on hand, operating the equipment. His daughter, ELLEN, a lively girl of twenty, fidgets as she listens.)",
+            "sd": "(ڪمرو مهانگي سينگار ۽ گهريلو سادگي جي وچ ۾ سهڻي نموني سان سجايل آهي. راجر اسپيلڊنگ پنهنجي ٽي وي نشريات پوري ڪري رھيو آهي. هو وچين عمر جو، خوشامد ڪندڙ ۽ گونجندڙ آواز وارو ماڻهو آهي. هن جي زال، بيزار ۽ بيڌيان، خاموشي سان اُڻي رھي آهي، جڏهن هو پنهنجي ڊيسڪ وٽ ڳالهائي رھيو آهي. ٻه ٽيڪنيشن سامان هلائڻ لاءِ موجود آهن. هن جي ڌيءُ، ايلن، ويهن سالن جي سرگرم ڇوڪري، ٻڌندي بيقراري سان هٿ پير هڻي رھي آهي.)",
+            "ur": "(کمرہ مہنگی سجاوٹ اور گھریلو سادگی کے درمیان آرام سے سجا ہوا ہے۔ راجر اسپیلڈنگ اپنی ٹی وی نشریات ختم کر رہا ہے۔ وہ درمیانی عمر کا، خوشامد کرنے والا اور گونجتی آواز والا آدمی ہے۔ اس کی بیوی، بیزار اور بے دھیان، خاموشی سے بنائی کر رہی ہے جب وہ اپنی میز پر بول رہا ہے۔ دو ٹیکنیشن سامان چلانے کے لیے موجود ہیں۔ اس کی بیٹی، ایلن، بیس سال کی زندہ دل لڑکی، سنتے ہوئے بے چینی سے ہل رہی ہے۔)"
+          },
+          {
+            "en": "SPELDING: (Into microphone) ... And so, according to General Powers ... who should know if anyone does ... the flying object which has given rise to so much earth's orbit. It is not, as many believe, a secret weapon of this country. Nor is it a spaceship as certain lunatic elements have suggested. General Powers has assured me that it is highly doubtful there is any form of life on other planets capable of building a spaceship. \"If any travelling is to be done in space, we will do it first.\" And those are his exact words....which winds up another week of news. (Crosses to pose with wife and daughter). This is Roger Spelding, saying good night to Mother and Father America, from my old homestead in Silver Glen, Maryland, close to the warm pulse beat of the nation.",
+            "sd": "اسپيلڊنگ: (مائيڪروفون ۾) ... ۽ پوءِ، جنرل پاورس جي مطابق ... جنهن کي خبر هجڻ گهرجي جيڪڏهن ڪنهن کي خبر آهي ... اهو اڏامندڙ شيءِ جنهن بابت ايتري ڳالهه ٻولهه ٿي رھي آهي. اهو، جيئن گهڻا ماڻهو مڃين ٿا، هن ملڪ جو ڪو ڳجهو هٿيار نه آهي. نه ئي اهو ڪو خلائي جهاز آهي، جيئن ڪجهه پاگل ماڻهن چيو آهي. جنرل پاورس مون کي يقين ڏياريو آهي ته ٻين سيارن تي زندگي جي ڪنهن به صورت جي خلائي جهاز ٺاهڻ جو گهڻو امڪان نه آهي. «جيڪڏهن خلا ۾ سفر ڪرڻو آهي ته اسان پهريان ڪنداسين.» ۽ اهي هن جا بلڪل اهي لفظ آهن.... جيڪي خبرن جي ٻئي هفتي کي پورو ڪن ٿا. (پنهنجي زال ۽ ڌيءُ سان گڏ بيھي ٿو). هي راجر اسپيلڊنگ آهي، جيڪو سلور گلين، ميري لينڊ ۾ پنهنجي پراڻي گھر کان، ملڪ جي گرم ڌڙڪن جي ويجهو، ماءُ ۽ پيءُ آمريڪا کي شب بخير چئي رھيو آهي.",
+            "ur": "اسپیلڈنگ: (مائیکروفون میں) ... اور اس طرح، جنرل پاورس کے مطابق ... جو جانتا ہوگا اگر کوئی جانتا ہے ... وہ اڑنے والی چیز جس کے بارے میں اتنی باتیں ہو رہی ہیں۔ یہ، جیسا کہ بہت سے لوگ سمجھتے ہیں، اس ملک کا کوئی خفیہ ہتھیار نہیں ہے۔ نہ ہی یہ کوئی خلائی جہاز ہے، جیسا کہ کچھ پاگل عناصر نے کہا ہے۔ جنرل پاورس نے مجھے یقین دلایا ہے کہ دوسرے سیاروں پر زندگی کی کسی صورت کے خلائی جہاز بنانے کا بہت کم امکان ہے۔ «اگر خلا میں سفر کرنا ہے تو ہم پہلے کریں گے۔» اور یہ اس کے بالکل وہی الفاظ ہیں.... جو خبروں کے ایک اور ہفتے کو ختم کرتے ہیں۔ (اپنی بیوی اور بیٹی کے ساتھ کھڑا ہوتا ہے)۔ یہ راجر اسپیلڈنگ ہے، جو سلور گلین، میری لینڈ میں اپنے پرانے گھر سے، ملک کی گرم دھڑکن کے قریب، ماں اور باپ امریکہ کو شب بخیر کہہ رہا ہے۔"
+          },
+          {
+            "en": "TECHNICIAN: Good show tonight, Mr. Spelding.",
+            "sd": "ٽيڪنيشن: اڄ رات سٺو پروگرام ٿيو، مسٽر اسپيلڊنگ.",
+            "ur": "ٹیکنیشن: آج رات اچھا پروگرام ہوا، مسٹر اسپیلڈنگ۔"
+          },
+          {
+            "en": "SPELDING: Thank you.",
+            "sd": "اسپيلڊنگ: مهرباني.",
+            "ur": "اسپیلڈنگ: شکریہ۔"
+          },
+          {
+            "en": "TECHNICIAN: Yes sir, you were right on time.",
+            "sd": "ٽيڪنيشن: ها سائين، توهان بلڪل وقت تي هئا.",
+            "ur": "ٹیکنیشن: جی سر، آپ بالکل وقت پر تھے۔"
+          },
+          {
+            "en": "(Spelding nods wearily, his mechanical smile and heartiness suddenly gone.)",
+            "sd": "(اسپيلڊنگ ٿڪل نموني سان ڪنڌ هلائي ٿو، هن جي مصنوعي مرڪ ۽ جوش اوچتو ختم ٿي وڃي ٿو.)",
+            "ur": "(اسپیلڈنگ تھکے ہوئے انداز میں سر ہلاتا ہے، اس کی مصنوعی مسکراہٹ اور جوش اچانک غائب ہو جاتا ہے۔)"
+          },
+          {
+            "en": "MRS. SPELDING: Very nice, dear. Very nice.",
+            "sd": "مسز اسپيلڊنگ: تمام سٺو، پيارا. تمام سٺو.",
+            "ur": "مسز اسپیلڈنگ: بہت اچھا، پیارے۔ بہت اچھا۔"
+          },
+          {
+            "en": "TECHNICIAN: See you next week, Mr. Spelding.",
+            "sd": "ٽيڪنيشن: ايندڙ هفتي ملنداسين، مسٽر اسپيلڊنگ.",
+            "ur": "ٹیکنیشن: اگلے ہفتے ملیں گے، مسٹر اسپیلڈنگ۔"
+          },
+          {
+            "en": "SPELDING: Thank you boys.",
+            "sd": "اسپيلڊنگ: مهرباني ڇوڪرا.",
+            "ur": "اسپیلڈنگ: شکریہ لڑکو۔"
+          },
+          {
+            "en": "(Technicians go.)",
+            "sd": "(ٽيڪنيشن هليا وڃن ٿا.)",
+            "ur": "(ٹیکنیشن چلے جاتے ہیں۔)"
+          },
+          {
+            "en": "SPELDING: Did you like the broadcast, Ellen?",
+            "sd": "اسپيلڊنگ: ڇا توکي نشريات پسند آئي، ايلن؟",
+            "ur": "اسپیلڈنگ: کیا تمہیں نشریات پسند آئی، ایلن؟"
+          },
+          {
+            "en": "ELLEN: Of course I did, Daddy.",
+            "sd": "ايلن: بلڪل پسند آئي، ڊيڊي.",
+            "ur": "ایلن: بالکل پسند آئی، ڈیڈی۔"
+          },
+          {
+            "en": "SPELDING: Then what did I say?",
+            "sd": "اسپيلڊنگ: پوءِ مون ڇا چيو؟",
+            "ur": "اسپیلڈنگ: تو پھر میں نے کیا کہا؟"
+          },
+          {
+            "en": "ELLEN: Oh, that's not fair.",
+            "sd": "ايلن: اوهه، اهو انصاف نه آهي.",
+            "ur": "ایلن: اوہ، یہ انصاف نہیں ہے۔"
+          },
+          {
+            "en": "SPELDING: It's not very flattering when one's own daughter won't listen to what one says while millions of people...",
+            "sd": "اسپيلڊنگ: اهو گهڻو خوش ڪندڙ نه آهي جڏهن پنهنجي ڌيءُ اهو نه ٻڌي جيڪو ڪو چوي، جڏهن ته لکين ماڻهو...",
+            "ur": "اسپیلڈنگ: یہ زیادہ خوش کرنے والی بات نہیں جب اپنی بیٹی وہ نہ سنے جو کوئی کہے جبکہ لاکھوں لوگ..."
+          },
+          {
+            "en": "ELLEN: I always listen, Daddy, you know that.",
+            "sd": "ايلن: مان هميشه ٻڌان ٿي، ڊيڊي، توهان ڄاڻو ٿا.",
+            "ur": "ایلن: میں ہمیشہ سنتی ہوں، ڈیڈی، آپ جانتے ہیں۔"
+          },
+          {
+            "en": "MRS. SPELDING: We love your broadcasts, dear. I don't know what we'd do without them.",
+            "sd": "مسز اسپيلڊنگ: اسان کي توهان جون نشريات پسند آهن، پيارا. اسان کي خبر نه آهي ته انهن کان سواءِ اسان ڇا ڪنداسين.",
+            "ur": "مسز اسپیلڈنگ: ہمیں آپ کی نشریات پسند ہیں، پیارے۔ ہمیں نہیں معلوم کہ ان کے بغیر ہم کیا کریں گے۔"
+          },
+          {
+            "en": "SPELDING: Starve.",
+            "sd": "اسپيلڊنگ: بک مرنداسين.",
+            "ur": "اسپیلڈنگ: بھوکے مریں گے۔"
+          },
+          {
+            "en": "ELLEN: I wonder what's keeping John?",
+            "sd": "ايلن: مون کي تعجب آهي ته جان کي ڇا دير ڪئي آهي؟",
+            "ur": "ایلن: مجھے حیرت ہے کہ جان کو کیا دیر ہوئی ہے؟"
+          },
+          {
+            "en": "SPELDING: Certainly not work.",
+            "sd": "اسپيلڊنگ: بلڪل ڪم نه.",
+            "ur": "اسپیلڈنگ: بالکل کام نہیں۔"
+          },
+          {
+            "en": "ELLEN: Oh, Daddy, stop it! John works very hard and you know it.",
+            "sd": "ايلن: اوهه، ڊيڊي، بس ڪريو! جان تمام گهڻو محنت ڪري ٿو ۽ توهان ڄاڻو ٿا.",
+            "ur": "ایلن: اوہ، ڈیڈی، بس کریں! جان بہت محنت کرتا ہے اور آپ جانتے ہیں۔"
+          },
+          {
+            "en": "MRS. SPELDING: Yes, he's a perfectly nice boy, Roger. I like him.",
+            "sd": "مسز اسپيلڊنگ: ها، هو بلڪل سٺو ڇوڪرو آهي، راجر. مون کي هو پسند آهي.",
+            "ur": "مسز اسپیلڈنگ: ہاں، وہ بالکل اچھا لڑکا ہے، راجر۔ مجھے وہ پسند ہے۔"
+          },
+          {
+            "en": "SPELDING: I know. I know: He has every virtue except the most important one: he has no get-up-and-go.",
+            "sd": "اسپيلڊنگ: مون کي خبر آهي. مون کي خبر آهي: هن ۾ هر خوبي آهي سواءِ سڀ کان اهم خوبي جي: هن ۾ اٿي وڃڻ جي همت نه آهي.",
+            "ur": "اسپیلڈنگ: مجھے معلوم ہے۔ مجھے معلوم ہے: اس میں ہر خوبی ہے سوائے سب سے اہم خوبی کے: اس میں اٹھنے اور جانے کی ہمت نہیں ہے۔"
+          },
+          {
+            "en": "ELLEN: Precisely. He doesn't want to get up and he doesn't want to go because he's already where he wants to be on his own farm which is exactly where I'm going to be when we're married.",
+            "sd": "ايلن: بلڪل. هو اٿڻ نه ٿو چاهي ۽ هو وڃڻ نه ٿو چاهي، ڇاڪاڻ ته هو اڳي ئي اتي آهي جتي هو رھڻ چاهي ٿو، پنهنجي فارم تي، جيڪو بلڪل اهو هنڌ آهي جتي مان رھنديس جڏهن اسان شادي ڪنداسين.",
+            "ur": "ایلن: بالکل۔ وہ اٹھنا نہیں چاہتا اور وہ جانا نہیں چاہتا کیونکہ وہ پہلے سے وہیں ہے جہاں وہ رہنا چاہتا ہے، اپنے فارم پر، جو بالکل وہی جگہ ہے جہاں میں رہوں گی جب ہم شادی کریں گے۔"
+          },
+          {
+            "en": "SPELDING: More thankless than a serpent's tooth is an ungrateful child.",
+            "sd": "اسپيلڊنگ: نانگ جي ڏند کان به وڌيڪ ناشڪرو آهي ناشڪر ٻار.",
+            "ur": "اسپیلڈنگ: سانپ کے دانت سے بھی زیادہ ناشکرا ہے ناشکرا بچہ۔"
+          },
+          {
+            "en": "ELLEN: I don't think that's right. Isn't it \"More deadly ...?\"",
+            "sd": "ايلن: مون کي نه ٿو لڳي ته اهو صحيح آهي. ڇا اهو «وڌيڪ خطرناڪ...؟» نه آهي؟",
+            "ur": "ایلن: مجھے نہیں لگتا کہ یہ صحیح ہے۔ کیا یہ «زیادہ خطرناک...؟» نہیں ہے؟"
+          },
+          {
+            "en": "SPELDING: Whatever the exact quotation is, I stand by the sentiment.",
+            "sd": "اسپيلڊنگ: اصل اقتباس جيڪو به هجي، مان جذبي سان گڏ آهيان.",
+            "ur": "اسپیلڈنگ: اصل اقتباس جو بھی ہو، میں جذبات کے ساتھ ہوں۔"
+          },
+          {
+            "en": "MRS. SPELDING: Please don't quarrel. It always gives me a headache.",
+            "sd": "مسز اسپيلڊنگ: مهرباني ڪري جھيڙو نه ڪريو. مون کي هميشه مٿي ۾ سور ٿيندو آهي.",
+            "ur": "مسز اسپیلڈنگ: مہربانی کر کے جھگڑا نہ کریں۔ مجھے ہمیشہ سر میں درد ہوتا ہے۔"
+          },
+          {
+            "en": "SPELDING: I never quarrel. I merely reason, in my simple way, with Miss Know-it-all here.",
+            "sd": "اسپيلڊنگ: مان ڪڏهن به جھيڙو نه ڪندو آهيان. مان صرف دليل ڏيان ٿو، پنهنجي سادي نموني سان، هتي هن مس سڀ ڪجهه ڄاڻڻ واري سان.",
+            "ur": "اسپیلڈنگ: میں کبھی جھگڑا نہیں کرتا۔ میں صرف دلیل دیتا ہوں، اپنے سادہ انداز میں، یہاں اس مس سب کچھ جاننے والی کے ساتھ۔"
+          },
+          {
+            "en": "ELLEN: Oh, Daddy! Next you'll tell me I should marry for money.",
+            "sd": "ايلن: اوهه، ڊيڊي! اڳتي توهان مون کي چوندا ته مون کي پئسي لاءِ شادي ڪرڻ گهرجي.",
+            "ur": "ایلن: اوہ، ڈیڈی! آگے آپ مجھے کہیں گے کہ مجھے پیسے کے لیے شادی کرنی چاہیے۔"
+          },
+          {
+            "en": "SPELDING: There is nothing wrong with marrying a wealthy man. The horror of it has always eluded me. However, my only wish is that you marry someone hard-working ambitious, a man who'll make his mark in the world. Not a boy who plans to sit on a farm all his life, growing peanuts.",
+            "sd": "اسپيلڊنگ: امير ماڻهو سان شادي ڪرڻ ۾ ڪا به خرابي نه آهي. ان جي خوف مون کي هميشه حيران ڪيو آهي. البته، منهنجي صرف خواهش اها آهي ته توهان ڪنهن محنتي ۽ بلند همت واري ماڻهو سان شادي ڪريو، اهڙي ماڻهو جيڪو دنيا ۾ پنهنجو نالو ڪندو. نه اهڙو ڇوڪرو جيڪو سڄي زندگي فارم تي ويهي مونگ ڦلي پوکڻ جو ارادو رکي ٿو.",
+            "ur": "اسپیلڈنگ: امیر آدمی سے شادی کرنے میں کوئی برائی نہیں ہے۔ اس کی ہولناکی مجھے ہمیشہ حیران کرتی رہی ہے۔ تاہم، میری واحد خواہش یہ ہے کہ تم کسی محنتی اور بلند حوصلہ آدمی سے شادی کرو، ایسا آدمی جو دنیا میں اپنا نام بنائے۔ نہ کہ ایسا لڑکا جو ساری زندگی فارم پر بیٹھ کر مونگ پھلی اگانے کا ارادہ رکھتا ہو۔"
+          },
+          {
+            "en": "ELLEN: English walnuts.",
+            "sd": "ايلن: انگريزي اخروٽ.",
+            "ur": "ایلن: انگریزی اخروٹ۔"
+          },
+          {
+            "en": "SPELDING: Will you stop correcting me?",
+            "sd": "اسپيلڊنگ: ڇا توهان مون کي درست ڪرڻ بند ڪندؤ؟",
+            "ur": "اسپیلڈنگ: کیا تم مجھے درست کرنا بند کرو گی؟"
+          },
+          {
+            "en": "ELLEN: But, Daddy, John grows walnuts...",
+            "sd": "ايلن: پر، ڊيڊي، جان اخروٽ پوکي ٿو...",
+            "ur": "ایلن: لیکن، ڈیڈی، جان اخروٹ اگاتا ہے..."
+          },
+          {
+            "en": "(John enters, breathlessly.)",
+            "sd": "(جان ساھھ کڻندي اندر اچي ٿو.)",
+            "ur": "(جان ہانپتے ہوئے اندر آتا ہے۔)"
+          },
+          {
+            "en": "JOHN: Come out! Quick! It's coming this way. It's going to land right here!",
+            "sd": "جان: ٻاهر اچو! جلدي! اهو هن طرف اچي رھيو آهي. اهو بلڪل هتي لهڻ وارو آهي!",
+            "ur": "جان: باہر آؤ! جلدی! یہ اس طرف آ رہا ہے۔ یہ بالکل یہیں اترنے والا ہے!"
+          },
+          {
+            "en": "SPELDING: What's going to land?",
+            "sd": "اسپيلڊنگ: ڇا لهڻ وارو آهي؟",
+            "ur": "اسپیلڈنگ: کیا اترنے والا ہے؟"
+          },
+          {
+            "en": "JOHN: The spaceship. Look!",
+            "sd": "جان: خلائي جهاز. ڏسو!",
+            "ur": "جان: خلائی جہاز۔ دیکھو!"
+          },
+          {
+            "en": "SPELDING: Apparently you didn't hear my broadcast. The flying object in question is a meteor not a spaceship.",
+            "sd": "اسپيلڊنگ: لڳي ٿو ته توهان منهنجي نشريات نه ٻڌي. اهو اڏامندڙ شيءِ جنهن بابت ڳالهه ٿي رھي آهي، اهو هڪ شهاب آهي، خلائي جهاز نه آهي.",
+            "ur": "اسپیلڈنگ: لگتا ہے کہ تم نے میری نشریات نہیں سنی۔ وہ اڑنے والی چیز جس کے بارے میں بات ہو رہی ہے، وہ ایک شہاب ہے، خلائی جہاز نہیں ہے۔"
+          },
+          {
+            "en": "(John has gone out with Ellen. Spelding and Mrs. Spelding follows.)",
+            "sd": "(جان ايلن سان گڏ ٻاهر هليو ويو آهي. اسپيلڊنگ ۽ مسز اسپيلڊنگ پٺيان وڃن ٿا.)",
+            "ur": "(جان ایلن کے ساتھ باہر چلا گیا ہے۔ اسپیلڈنگ اور مسز اسپیلڈنگ پیچھے جاتے ہیں۔)"
+          },
+          {
+            "en": "MRS. SPELDING: Oh, my! Look! Something is falling! Roger, you don't think it's going to hit the house, do you?",
+            "sd": "مسز اسپيلڊنگ: اوهه، منهنجا! ڏسو! ڪا شيءِ ڪري رھي آهي! راجر، توهان نه ٿا سمجھو ته اهو گھر کي لڳندو، نه؟",
+            "ur": "مسز اسپیلڈنگ: اوہ، میرے! دیکھو! کوئی چیز گر رہی ہے! راجر، تم نہیں سمجھتے کہ یہ گھر کو لگے گا، ہے نا؟"
+          },
+          {
+            "en": "SPELDING: The odds against being hit by a falling object that size are, I should say, roughly, ten million to one.",
+            "sd": "اسپيلڊنگ: ان سائيز جي ڪريل شيءِ سان لڳڻ جا امڪان، مان چوان ٿو، لڳ ڀڳ، هڪ ڪروڙ ۾ هڪ آهن.",
+            "ur": "اسپیلڈنگ: اس سائز کی گرتی ہوئی چیز سے لگنے کے امکانات، میں کہوں گا، تقریباً، ایک کروڑ میں ایک ہیں۔"
+          },
+          {
+            "en": "JOHN: Ten million to one or not it's going to land right here, and it's not falling.",
+            "sd": "جان: هڪ ڪروڙ ۾ هڪ هجي يا نه، اهو بلڪل هتي لهڻ وارو آهي، ۽ اهو ڪري نه رھيو آهي.",
+            "ur": "جان: ایک کروڑ میں ایک ہو یا نہ ہو، یہ بالکل یہیں اترنے والا ہے، اور یہ گر نہیں رہا ہے۔"
+          },
+          {
+            "en": "SPELDING: I'm sure it's a meteor.",
+            "sd": "اسپيلڊنگ: مون کي پڪ آهي ته اهو هڪ شهاب آهي.",
+            "ur": "اسپیلڈنگ: مجھے یقین ہے کہ یہ ایک شہاب ہے۔"
+          },
+          {
+            "en": "MRS. SPELDING: Shouldn't we go down to the cellar?",
+            "sd": "مسز اسپيلڊنگ: ڇا اسان کي هيٺ ته خاني ۾ نه وڃڻ گهرجي؟",
+            "ur": "مسز اسپیلڈنگ: کیا ہمیں نیچے تہ خانے میں نہیں جانا چاہیے؟"
+          },
+          {
+            "en": "SPELDING: If it's not a meteor, it's an optical illusion ... mass hysteria.",
+            "sd": "اسپيلڊنگ: جيڪڏهن اهو شهاب نه آهي، ته اهو اکين جو ڌوڪو آهي ... گهڻن ماڻهن جو هيجان.",
+            "ur": "اسپیلڈنگ: اگر یہ شہاب نہیں ہے، تو یہ آنکھوں کا دھوکا ہے ... بہت سے لوگوں کا ہیجان۔"
+          },
+          {
+            "en": "ELLEN: Daddy, it's a real spaceship. I'm sure it is.",
+            "sd": "ايلن: ڊيڊي، اهو هڪ حقيقي خلائي جهاز آهي. مون کي پڪ آهي.",
+            "ur": "ایلن: ڈیڈی، یہ ایک حقیقی خلائی جہاز ہے۔ مجھے یقین ہے۔"
+          },
+          {
+            "en": "SPELDING: Or maybe a weather balloon. Yes, that's what it is. General Powers said only yesterday...",
+            "sd": "اسپيلڊنگ: يا شايد موسم جو غبارو آهي. ها، اهو ئي آهي. جنرل پاورس رڳو ڪالهه چيو هو...",
+            "ur": "اسپیلڈنگ: یا شاید موسم کا غبارہ ہے۔ ہاں، یہی ہے۔ جنرل پاورس نے صرف کل کہا تھا..."
+          },
+          {
+            "en": "JOHN: It's landing!",
+            "sd": "جان: اهو لهي رھيو آهي!",
+            "ur": "جان: یہ اتر رہا ہے!"
+          },
+          {
+            "en": "SPELDING: I'm going to call the police ... the Army! (Bolts inside.)",
+            "sd": "اسپيلڊنگ: مان پوليس کي سڏڻ وارو آهيان ... فوج کي! (تيزي سان اندر ڊوڙي ٿو.)",
+            "ur": "اسپیلڈنگ: میں پولیس کو بلانے والا ہوں ... فوج کو! (تیزی سے اندر دوڑتا ہے۔)"
+          },
+          {
+            "en": "ELLEN: Oh look how it shines!",
+            "sd": "ايلن: اوهه ڏسو ته اهو ڪيئن چمڪي ٿو!",
+            "ur": "ایلن: اوہ دیکھو کہ یہ کیسے چمکتا ہے!"
+          },
+          {
+            "en": "JOHN: Here it comes!",
+            "sd": "جان: اهو هتي اچي رھيو آهي!",
+            "ur": "جان: یہ یہاں آ رہا ہے!"
+          },
+          {
+            "en": "MRS. SPELDING: Right in my rose garden!",
+            "sd": "مسز اسپيلڊنگ: بلڪل منهنجي گلاب جي باغ ۾!",
+            "ur": "مسز اسپیلڈنگ: بالکل میرے گلاب کے باغ میں!"
+          },
+          {
+            "en": "ELLEN: May be it's a balloon.",
+            "sd": "ايلن: شايد اهو غبارو آهي.",
+            "ur": "ایلن: شاید یہ غبارہ ہے۔"
+          },
+          {
+            "en": "JOHN: No, it's a spaceship and right in your own backyard.",
+            "sd": "جان: نه، اهو خلائي جهاز آهي ۽ بلڪل توهان جي پنهنجي پٺئين اڱڻ ۾ آهي.",
+            "ur": "جان: نہیں، یہ خلائی جہاز ہے اور بالکل تمہارے اپنے پچھلے صحن میں ہے۔"
+          },
+          {
+            "en": "ELLEN: What makes it shine so?",
+            "sd": "ايلن: اهو ايترو چمڪي ڇو ٿو؟",
+            "ur": "ایلن: یہ اتنا چمکتا کیوں ہے؟"
+          },
+          {
+            "en": "JOHN: I don't know but I'm going to find out.",
+            "sd": "جان: مون کي خبر نه آهي پر مان معلوم ڪرڻ وارو آهيان.",
+            "ur": "جان: مجھے نہیں معلوم لیکن میں معلوم کرنے والا ہوں۔"
+          },
+          {
+            "en": "(Runs off towards the light.)",
+            "sd": "(روشني ڏانهن ڊوڙي وڃي ٿو.)",
+            "ur": "(روشنی کی طرف دوڑ جاتا ہے۔)"
+          },
+          {
+            "en": "ELLEN: Oh, Darling, don't! John, please! John, John come back!",
+            "sd": "ايلن: اوهه، پيارا، نه! جان، مهرباني ڪري! جان، جان موٽي اچ!",
+            "ur": "ایلن: اوہ، پیارے، نہیں! جان، مہربانی کر کے! جان، جان واپس آؤ!"
+          },
+          {
+            "en": "(Spelding wide-eyed returns.)",
+            "sd": "(اسپيلڊنگ اکيون ڦاڙي موٽي اچي ٿو.)",
+            "ur": "(اسپیلڈنگ آنکھیں پھاڑے ہوئے واپس آتا ہے۔)"
+          },
+          {
+            "en": "MRS. SPELDING: Roger, it's landed right in my rose garden.",
+            "sd": "مسز اسپيلڊنگ: راجر، اهو بلڪل منهنجي گلاب جي باغ ۾ لٿو آهي.",
+            "ur": "مسز اسپیلڈنگ: راجر، یہ بالکل میرے گلاب کے باغ میں اترا ہے۔"
+          },
+          {
+            "en": "SPELDING: I got General Powers. He's coming over. He said they've been watching this thing. They ... they don't know what it is.",
+            "sd": "اسپيلڊنگ: مون جنرل پاورس سان ڳالهايو آهي. هو اچي رھيو آهي. هن چيو ته اهي هن شيءِ کي ڏسي رھيا آهن. انهن کي ... انهن کي خبر نه آهي ته اهو ڇا آهي.",
+            "ur": "اسپیلڈنگ: میں نے جنرل پاورس سے بات کی ہے۔ وہ آ رہا ہے۔ اس نے کہا کہ وہ اس چیز کو دیکھ رہے ہیں۔ وہ ... وہ نہیں جانتے کہ یہ کیا ہے۔"
+          },
+          {
+            "en": "ELLEN: You mean it's nothing of ours?",
+            "sd": "ايلن: توهان جو مطلب آهي ته اهو اسان جي ڪا شيءِ نه آهي؟",
+            "ur": "ایلن: تمہارا مطلب ہے کہ یہ ہماری کوئی چیز نہیں ہے؟"
+          },
+          {
+            "en": "SPELDING: They believe it ... (Swallows hard) ... it's from outer space.",
+            "sd": "اسپيلڊنگ: انهن جو خيال آهي ته اهو ... (ڏکئي سان ڳڙڪي ٿو) ... اهو ٻاهرين خلا کان آيو آهي.",
+            "ur": "اسپیلڈنگ: ان کا خیال ہے کہ یہ ... (مشکل سے نگلتا ہے) ... یہ بیرونی خلا سے آیا ہے۔"
+          },
+          {
+            "en": "ELLEN: And John's down there! Daddy, get a gun or something.",
+            "sd": "ايلن: ۽ جان هيٺ اتي آهي! ڊيڊي، بندوق يا ڪا شيءِ وٺو.",
+            "ur": "ایلن: اور جان نیچے وہاں ہے! ڈیڈی، بندوق یا کوئی چیز لو۔"
+          },
+          {
+            "en": "SPELDING: Perhaps we'd better leave the house until the army gets here.",
+            "sd": "اسپيلڊنگ: شايد اسان لاءِ بهتر آهي ته فوج جي اچڻ تائين گھر ڇڏي ڏيون.",
+            "ur": "اسپیلڈنگ: شاید ہمارے لیے بہتر ہے کہ فوج کے آنے تک گھر چھوڑ دیں۔"
+          },
+          {
+            "en": "ELLEN: We can't leave John.",
+            "sd": "ايلن: اسان جان کي ڇڏي نه ٿا سگھون.",
+            "ur": "ایلن: ہم جان کو چھوڑ نہیں سکتے۔"
+          },
+          {
+            "en": "SPELDING: I can. (Peers near-sightedly) Why, it's not much larger than a car. I'm sure it's some kind of meteor.",
+            "sd": "اسپيلڊنگ: مان سگھان ٿو. (ويجهو ڏسڻ جي ڪوشش ڪري ٿو) ڇو، اهو ڪار کان گهڻو وڏو نه آهي. مون کي پڪ آهي ته اهو ڪنهن قسم جو شهاب آهي.",
+            "ur": "اسپیلڈنگ: میں چھوڑ سکتا ہوں۔ (قریب سے دیکھنے کی کوشش کرتا ہے) کیوں، یہ کار سے زیادہ بڑا نہیں ہے۔ مجھے یقین ہے کہ یہ کسی قسم کا شہاب ہے۔"
+          },
+          {
+            "en": "ELLEN: Meteors are blazing hot.",
+            "sd": "ايلن: شهاب تيز گرم هوندا آهن.",
+            "ur": "ایلن: شہاب تیز گرم ہوتے ہیں۔"
+          },
+          {
+            "en": "SPELDING: This is a cold one....",
+            "sd": "اسپيلڊنگ: هي هڪ ٿڌو آهي....",
+            "ur": "اسپیلڈنگ: یہ ایک ٹھنڈا ہے...."
+          },
+          {
+            "en": "ELLEN: It's opening .... The whole side's opening! (Shouts) John! Come back! Quick ...",
+            "sd": "ايلن: اهو کلي رھيو آهي .... سڄو پاسو کلي رھيو آهي! (رڙ ڪري ٿي) جان! موٽي اچ! جلدي ...",
+            "ur": "ایلن: یہ کھل رہا ہے .... سارا پہلو کھل رہا ہے! (چیختی ہے) جان! واپس آؤ! جلدی ..."
+          },
+          {
+            "en": "MRS. SPELDING: Why, there's a man getting out of it! (Sighs) I feel much better already. I'm sure if we ask him, he'll move that thing for us. Roger, you ask him.",
+            "sd": "مسز اسپيلڊنگ: ڇو، ان مان هڪ ماڻهو ٻاهر نڪري رھيو آهي! (ساھھ کڻي ٿي) مون کي اڳي ئي گهڻو بهتر محسوس ٿي رھيو آهي. مون کي پڪ آهي ته جيڪڏهن اسان هن کان پڇنداسين ته هو اها شيءِ اسان لاءِ هٽائي ڇڏيندو. راجر، توهان هن کان پڇو.",
+            "ur": "مسز اسپیلڈنگ: کیوں، اس میں سے ایک آدمی باہر نکل رہا ہے! (سانس لیتی ہے) مجھے پہلے سے بہت بہتر محسوس ہو رہا ہے۔ مجھے یقین ہے کہ اگر ہم اس سے پوچھیں گے تو وہ وہ چیز ہمارے لیے ہٹا دے گا۔ راجر، تم اس سے پوچھو۔"
+          },
+          {
+            "en": "SPELDING: (Ominously) If it's really a man!",
+            "sd": "اسپيلڊنگ: (ڌمڪي ڀري انداز ۾) جيڪڏهن اهو واقعي هڪ ماڻهو آهي!",
+            "ur": "اسپیلڈنگ: (دھمکی بھرے انداز میں) اگر یہ واقعی ایک آدمی ہے!"
+          },
+          {
+            "en": "ELLEN: John's shaking hands with him. (Calls) John darling, come on up here ...",
+            "sd": "ايلن: جان هن سان هٿ ملائي رھيو آهي. (سڏ ڪري ٿي) جان پيارا، هتي مٿي اچو ...",
+            "ur": "ایلن: جان اس سے ہاتھ ملا رہا ہے۔ (پکارتی ہے) جان پیارے، یہاں اوپر آؤ ..."
+          },
+          {
+            "en": "MRS. SPELDING: And bring your friend ...",
+            "sd": "مسز اسپيلڊنگ: ۽ پنهنجي دوست کي به وٺي اچو ...",
+            "ur": "مسز اسپیلڈنگ: اور اپنے دوست کو بھی لے آؤ ..."
+          },
+          {
+            "en": "SPELDING: There's something wrong with the way that creature looks ... if it is a man and not a ... not a monster.",
+            "sd": "اسپيلڊنگ: ان مخلوق جي ڏسڻ ۾ ڪا شيءِ غلط آهي ... جيڪڏهن اهو ماڻهو آهي ۽ نه ... نه ڪو ديو.",
+            "ur": "اسپیلڈنگ: اس مخلوق کے دیکھنے میں کچھ غلط ہے ... اگر یہ آدمی ہے اور نہیں ... نہیں کوئی دیو۔"
+          },
+          {
+            "en": "MRS. SPELDING: He looks perfectly nice to me.",
+            "sd": "مسز اسپيلڊنگ: مون کي هو بلڪل سٺو لڳي ٿو.",
+            "ur": "مسز اسپیلڈنگ: مجھے وہ بالکل اچھا لگتا ہے۔"
+          },
+          {
+            "en": "(John and the visitor appear. The visitor is in his forties, a mild, pleasant-looking man with side-whiskers and dressed in the fashion of 1860. He pauses when he sees the three people, in silence, for a moment. They stare back at him, equally interested.)",
+            "sd": "(جان ۽ مهمان ظاهر ٿين ٿا. مهمان چاليهن سالن جو آهي، هڪ نرم، خوشگوار ڏسڻ وارو ماڻهو جنهن کي پاسي واريون ڏاڙهيون آهن ۽ 1860 جي انداز ۾ ڪپڙا پهريل آهن. جڏهن هو ٽنهي ماڻهن کي ڏسي ٿو ته خاموشي سان هڪ لمحي لاءِ رڪجي وڃي ٿو. اهي به ساڳي دلچسپي سان هن ڏانهن ڏسن ٿا.)",
+            "ur": "(جان اور مہمان ظاہر ہوتے ہیں۔ مہمان چالیس سال کا ہے، ایک نرم، خوشگوار نظر آنے والا آدمی جس کی سائیڈ کی داڑھی ہے اور 1860 کے انداز میں کپڑے پہنے ہوئے ہے۔ جب وہ تینوں لوگوں کو دیکھتا ہے تو خاموشی سے ایک لمحے کے لیے رک جاتا ہے۔ وہ بھی اسی دلچسپی سے اس کی طرف دیکھتے ہیں۔)"
+          },
+          {
+            "en": "VISITOR: I seem to've made a mistake. I am sorry. I'd better go back and start over again.",
+            "sd": "مهمان: لڳي ٿو ته مون کان غلطي ٿي وئي آهي. مون کي افسوس آهي. مان بهتر آهي ته موٽي وڃان ۽ ٻيهر شروع ڪريان.",
+            "ur": "مہمان: لگتا ہے کہ مجھ سے غلطی ہو گئی ہے۔ مجھے افسوس ہے۔ بہتر ہے کہ میں واپس جاؤں اور دوبارہ شروع کروں۔"
+          },
+          {
+            "en": "SPELDING: My dear sir, you've only just arrived. Come in, come in. I don't need to tell you what a pleasure this is ... Mister ... Mister...",
+            "sd": "اسپيلڊنگ: منهنجا پيارا سائين، توهان اڃا ئي پهتا آهيو. اندر اچو، اندر اچو. مون کي توهان کي ٻڌائڻ جي ضرورت نه آهي ته هي ڪيتري خوشي جي ڳالهه آهي ... مسٽر ... مسٽر...",
+            "ur": "اسپیلڈنگ: میرے پیارے صاحب، آپ ابھی ہی پہنچے ہیں۔ اندر آئیں، اندر آئیں۔ مجھے آپ کو بتانے کی ضرورت نہیں کہ یہ کتنی خوشی کی بات ہے ... مسٹر ... مسٹر..."
+          },
+          {
+            "en": "VISITOR: Kreton ... This is the wrong costume, isn't it?",
+            "sd": "مهمان: ڪريٽن ... هي غلط لباس آهي، نه آهي؟",
+            "ur": "مہمان: کریٹن ... یہ غلط لباس ہے، ہے نا؟"
+          },
+          {
+            "en": "SPELDING: Wrong for what?",
+            "sd": "اسپيلڊنگ: ڇا لاءِ غلط آهي؟",
+            "ur": "اسپیلڈنگ: کس لیے غلط ہے؟"
+          },
+          {
+            "en": "KRETON: For the country, and the time.",
+            "sd": "ڪريٽن: ملڪ لاءِ، ۽ وقت لاءِ.",
+            "ur": "کریٹن: ملک کے لیے، اور وقت کے لیے۔"
+          },
+          {
+            "en": "SPELDING: Well, it's a trifle old-fashioned.",
+            "sd": "اسپيلڊنگ: خير، اهو ٿورو پراڻي انداز جو آهي.",
+            "ur": "اسپیلڈنگ: خیر، یہ تھوڑا پرانے انداز کا ہے۔"
+          },
+          {
+            "en": "MRS. SPELDING: But really awfully handsome.",
+            "sd": "مسز اسپيلڊنگ: پر واقعي تمام سهڻو آهي.",
+            "ur": "مسز اسپیلڈنگ: لیکن واقعی بہت خوبصورت ہے۔"
+          },
+          {
+            "en": "KRETON: Thank you.",
+            "sd": "ڪريٽن: مهرباني.",
+            "ur": "کریٹن: شکریہ۔"
+          },
+          {
+            "en": "MRS. SPELDING: (to husband.) Ask him about moving that thing off my rose bed.",
+            "sd": "مسز اسپيلڊنگ: (مڙس کي.) هن کان پڇو ته اها شيءِ منهنجي گلاب جي بستري تان هٽائي.",
+            "ur": "مسز اسپیلڈنگ: (شوہر سے۔) اس سے کہو کہ وہ چیز میرے گلاب کے بستر سے ہٹائے۔"
+          },
+          {
+            "en": "(Spelding leads them all into living room.)",
+            "sd": "(اسپيلڊنگ انهن سڀني کي ويهڻ واري ڪمري ۾ وٺي وڃي ٿو.)",
+            "ur": "(اسپیلڈنگ ان سب کو بیٹھنے والے کمرے میں لے جاتا ہے۔)"
+          },
+          {
+            "en": "SPELDING: Come on in and sit down. You must be tired after your trip.",
+            "sd": "اسپيلڊنگ: اندر اچو ۽ ويهو. توهان پنهنجي سفر کان پوءِ ٿڪل هوندا.",
+            "ur": "اسپیلڈنگ: اندر آئیں اور بیٹھیں۔ آپ اپنے سفر کے بعد تھکے ہوئے ہوں گے۔"
+          },
+          {
+            "en": "KRETON: Yes, I am a little (Looks around delightedly) Oh, it's better than I'd hoped!",
+            "sd": "ڪريٽن: ها، مان ٿورو آهيان (خوشي سان چوڌاري ڏسي ٿو) اوهه، اهو منهنجي اميد کان بهتر آهي!",
+            "ur": "کریٹن: ہاں، میں تھوڑا ہوں (خوشی سے چاروں طرف دیکھتا ہے) اوہ، یہ میری امید سے بہتر ہے!"
+          },
+          {
+            "en": "SPELDING: Better? What's better?",
+            "sd": "اسپيلڊنگ: بهتر؟ ڇا بهتر آهي؟",
+            "ur": "اسپیلڈنگ: بہتر؟ کیا بہتر ہے؟"
+          },
+          {
+            "en": "KRETON: The house ... That's what you call it? Or is this an apartment?",
+            "sd": "ڪريٽن: گھر ... ڇا توهان ان کي اهو چوندا آهيو؟ يا هي هڪ اپارٽمينٽ آهي؟",
+            "ur": "کریٹن: گھر ... کیا تم اسے یہی کہتے ہو؟ یا یہ ایک اپارٹمنٹ ہے؟"
+          },
+          {
+            "en": "SPELDING: This is a house in the State of Maryland, U.S.A.",
+            "sd": "اسپيلڊنگ: هي آمريڪا جي ميري لينڊ رياست ۾ هڪ گھر آهي.",
+            "ur": "اسپیلڈنگ: یہ امریکہ کی میری لینڈ ریاست میں ایک گھر ہے۔"
+          },
+          {
+            "en": "KRETON: In the late 20th Century! To think this is really the 20th Century. I must sit down a moment and collect myself. The real thing!",
+            "sd": "ڪريٽن: ويهين صدي جي آخر ۾! اهو سوچڻ ته هي واقعي ويهين صدي آهي. مون کي هڪ لمحي لاءِ ويهڻ گهرجي ۽ پاڻ کي سنڀالڻ گهرجي. اصل شيءِ!",
+            "ur": "کریٹن: بیسویں صدی کے آخر میں! یہ سوچنا کہ یہ واقعی بیسویں صدی ہے۔ مجھے ایک لمحے کے لیے بیٹھنا چاہیے اور خود کو سنبھالنا چاہیے۔ اصلی چیز!"
+          },
+          {
+            "en": "(He sits down.)",
+            "sd": "(هو ويهي ٿو.)",
+            "ur": "(وہ بیٹھ جاتا ہے۔)"
+          },
+          {
+            "en": "ELLEN: You ... You're not an American, are you?",
+            "sd": "ايلن: توهان ... توهان آمريڪي نه آهيو، آهيو؟",
+            "ur": "ایلن: تم ... تم امریکی نہیں ہو، ہو؟"
+          },
+          {
+            "en": "KRETON: What a nice thought! No, I'm not.",
+            "sd": "ڪريٽن: ڪهڙو سٺو خيال آهي! نه، مان نه آهيان.",
+            "ur": "کریٹن: کیا اچھا خیال ہے! نہیں، میں نہیں ہوں۔"
+          },
+          {
+            "en": "JOHN: You sound more English.",
+            "sd": "جان: توهان وڌيڪ انگريز لڳو ٿا.",
+            "ur": "جان: تم زیادہ انگریز لگتے ہو۔"
+          },
+          {
+            "en": "KRETON: Do I? Is my accent very bad?",
+            "sd": "ڪريٽن: ڇا مان؟ ڇا منهنجو لهجو تمام خراب آهي؟",
+            "ur": "کریٹن: کیا میں؟ کیا میرا لہجہ بہت خراب ہے؟"
+          },
+          {
+            "en": "JOHN: No, it's quite good.",
+            "sd": "جان: نه، اهو بلڪل سٺو آهي.",
+            "ur": "جان: نہیں، یہ بالکل اچھا ہے۔"
+          },
+          {
+            "en": "SPELDING: Where are you from, Mr. Kreton?",
+            "sd": "اسپيلڊنگ: توهان ڪٿان جا آهيو، مسٽر ڪريٽن؟",
+            "ur": "اسپیلڈنگ: آپ کہاں سے ہیں، مسٹر کریٹن؟"
+          },
+          {
+            "en": "KRETON: (Evasively) Another place.",
+            "sd": "ڪريٽن: (ٽال مٽول سان) ٻئي هنڌ کان.",
+            "ur": "کریٹن: (ٹال مٹول سے) دوسری جگہ سے۔"
+          },
+          {
+            "en": "SPELDING: On this Earth, of course!",
+            "sd": "اسپيلڊنگ: هن ڌرتي تي، بلڪل!",
+            "ur": "اسپیلڈنگ: اس زمین پر، بالکل!"
+          },
+          {
+            "en": "KRETON: No, not on this planet.",
+            "sd": "ڪريٽن: نه، هن سياري تي نه.",
+            "ur": "کریٹن: نہیں، اس سیارے پر نہیں۔"
+          },
+          {
+            "en": "ELLEN: Are you from Mars?",
+            "sd": "ايلن: ڇا توهان مريخ کان آهيو؟",
+            "ur": "ایلن: کیا تم مریخ سے ہو؟"
+          },
+          {
+            "en": "KRETON: Oh dear no, not Mars. There's nobody on Mars ... at least no one I know.",
+            "sd": "ڪريٽن: اوهه پيارا نه، مريخ نه. مريخ تي ڪو به نه آهي ... گھٽ ۾ گھٽ ڪو به نه جنهن کي مان ڄاڻان ٿو.",
+            "ur": "کریٹن: اوہ پیارے نہیں، مریخ نہیں۔ مریخ پر کوئی بھی نہیں ہے ... کم از کم کوئی بھی نہیں جسے میں جانتا ہوں۔"
+          },
+          {
+            "en": "ELLEN: I'm sure you're teasing us and this is all some kind of publicity stunt.",
+            "sd": "ايلن: مون کي پڪ آهي ته توهان اسان کي چيڙائي رھيا آهيو ۽ هي سڀ ڪنهن قسم جي مشهوري جو چال آهي.",
+            "ur": "ایلن: مجھے یقین ہے کہ تم ہمیں چھیڑ رہے ہو اور یہ سب کسی قسم کی تشہیر کی چال ہے۔"
+          },
+          {
+            "en": "KRETON: No, I really am from another place.",
+            "sd": "ڪريٽن: نه، مان واقعي ٻئي هنڌ کان آهيان.",
+            "ur": "کریٹن: نہیں، میں واقعی دوسری جگہ سے ہوں۔"
+          },
+          {
+            "en": "SPELDING: I don't suppose you'd consent to my interviewing you on television?",
+            "sd": "اسپيلڊنگ: مون کي نه ٿو لڳي ته توهان ٽيليويزن تي منهنجي انٽرويو وٺڻ تي راضي ٿيندا؟",
+            "ur": "اسپیلڈنگ: مجھے نہیں لگتا کہ تم ٹیلی ویژن پر میرا انٹرویو لینے پر راضی ہو گے؟"
+          },
+          {
+            "en": "KRETON: I don't think your authorities will like that. They are terribly upset as it is.",
+            "sd": "ڪريٽن: مون کي نه ٿو لڳي ته توهان جا اختيار وارا اهو پسند ڪندا. اهي جيئن به آهي، تمام گهڻو پريشان آهن.",
+            "ur": "کریٹن: مجھے نہیں لگتا کہ تمہارے حکام اسے پسند کریں گے۔ وہ جیسے بھی ہیں، بہت زیادہ پریشان ہیں۔"
+          },
+          {
+            "en": "SPELDING: How do you know?",
+            "sd": "اسپيلڊنگ: توهان کي ڪيئن خبر آهي؟",
+            "ur": "اسپیلڈنگ: تمہیں کیسے معلوم ہے؟"
+          },
+          {
+            "en": "KRETON: Well, I ... pick up things. For instance, I know that in a few minutes a number of people from your army will be here to question me and they ... like you ... are torn by doubt.",
+            "sd": "ڪريٽن: خير، مان ... شيون ڄاڻي وٺان ٿو. مثال طور، مون کي خبر آهي ته ڪجهه منٽن ۾ توهان جي فوج جا ڪجهه ماڻهو هتي مون کان پڇڻ لاءِ ايندا ۽ اهي ... توهان وانگر ... شڪ ۾ ورهايل آهن.",
+            "ur": "کریٹن: خیر، میں ... چیزیں جان لیتا ہوں۔ مثال کے طور پر، مجھے معلوم ہے کہ چند منٹوں میں تمہاری فوج کے کچھ لوگ یہاں مجھ سے پوچھنے کے لیے آئیں گے اور وہ ... تمہاری طرح ... شک میں مبتلا ہیں۔"
+          },
+          {
+            "en": "SPELDING: How extraordinary!",
+            "sd": "اسپيلڊنگ: ڪيتري غير معمولي ڳالهه آهي!",
+            "ur": "اسپیلڈنگ: کتنی غیر معمولی بات ہے!"
+          },
+          {
+            "en": "ELLEN: Why did you come here?",
+            "sd": "ايلن: توهان هتي ڇو آيا؟",
+            "ur": "ایلن: تم یہاں کیوں آئے؟"
+          },
+          {
+            "en": "KRETON: Simply a visit to your small planet. I've been studying it for years. In fact, one might say, you people are my hobby. Especially, this period of your development.",
+            "sd": "ڪريٽن: صرف توهان جي ننڍي سياري جو دورو. مان ان جو سالن کان مطالعو ڪري رھيو آهيان. حقيقت ۾، ڪو چئي سگھي ٿو، توهان ماڻهو منهنجو شوق آهيو. خاص طور تي، توهان جي ترقي جو هي دور.",
+            "ur": "کریٹن: صرف تمہارے چھوٹے سیارے کا دورہ۔ میں اس کا سالوں سے مطالعہ کر رہا ہوں۔ درحقیقت، کوئی کہہ سکتا ہے، تم لوگ میرا شوق ہو۔ خاص طور پر، تمہاری ترقی کا یہ دور۔"
+          },
+          {
+            "en": "JOHN: Are you the first person from your ... your planet to travel in space like this?",
+            "sd": "جان: ڇا توهان پنهنجي ... پنهنجي سياري کان پهريون ماڻهو آهيو جيڪو اهڙي نموني خلا ۾ سفر ڪري ٿو؟",
+            "ur": "جان: کیا تم اپنے ... اپنے سیارے سے پہلے شخص ہو جو اس طرح خلا میں سفر کرتا ہے؟"
+          },
+          {
+            "en": "KRETON: Oh my no! Everyone travels who wants to. It's just that no one wants to visit you. I can't think, why. I always have. You'd be surprised what a thorough study I've made. (Recites) The planet, Earth, is divided into five continents with a number of large islands. It is mostly water. There is one moon. Civilization is only just beginning....",
+            "sd": "ڪريٽن: اوهه منهنجا نه! هرڪو سفر ڪري ٿو جيڪو چاهي ٿو. صرف اهو آهي ته ڪو به توهان وٽ اچڻ نه ٿو چاهي. مان سوچي نه ٿو سگھان، ڇو. مون هميشه چاهيو آهي. توهان حيران ٿيندؤ ته مون ڪيتري مڪمل اڀياس ڪئي آهي. (ورجائي ٿو) سيارو، ڌرتي، پنجن کنڊن ۾ ورهايل آهي جنهن ۾ ڪيترائي وڏا ٻيٽ آهن. اهو گهڻو ڪري پاڻي آهي. هڪ چنڊ آهي. تهذيب اڃا ئي شروع ٿي رھي آهي....",
+            "ur": "کریٹن: اوہ میرے نہیں! ہر کوئی سفر کرتا ہے جو چاہتا ہے۔ صرف یہ ہے کہ کوئی بھی تم سے ملنے نہیں آنا چاہتا۔ میں سوچ نہیں سکتا، کیوں۔ میں ہمیشہ چاہتا رہا ہوں۔ تم حیران ہو گے کہ میں نے کتنا مکمل مطالعہ کیا ہے۔ (دہراتا ہے) سیارہ، زمین، پانچ براعظموں میں تقسیم ہے جس میں کئی بڑے جزیرے ہیں۔ یہ زیادہ تر پانی ہے۔ ایک چاند ہے۔ تہذیب ابھی ہی شروع ہو رہی ہے...."
+          },
+          {
+            "en": "SPELDING: Just beginning! My dear sir, we have had....",
+            "sd": "اسپيلڊنگ: صرف شروع ٿي رھي آهي! منهنجا پيارا سائين، اسان وٽ آهي....",
+            "ur": "اسپیلڈنگ: صرف شروع ہو رہی ہے! میرے پیارے صاحب، ہمارے پاس ہے...."
+          },
+          {
+            "en": "KRETON: (Blandly) You are only in the initial stages, the most fascinating stages as far as I'm concerned ... I do hope I don't sound patronizing.",
+            "sd": "ڪريٽن: (نرم انداز ۾) توهان صرف شروعاتي مرحلن ۾ آهيو، سڀ کان دلچسپ مرحلا جيستائين منهنجو واسطو آهي ... مون کي اميد آهي ته مان سرپرستي وارو نه ٿو لڳان.",
+            "ur": "کریٹن: (نرم انداز میں) تم صرف ابتدائی مراحل میں ہو، سب سے دلچسپ مراحل جہاں تک میرا تعلق ہے ... مجھے امید ہے کہ میں سرپرستی والا نہیں لگتا۔"
+          },
+          {
+            "en": "ELLEN: Well, we are very proud.",
+            "sd": "ايلن: خير، اسان کي تمام گهڻو فخر آهي.",
+            "ur": "ایلن: خیر، ہمیں بہت فخر ہے۔"
+          },
+          {
+            "en": "KRETON: I know and that's one of your most endearing primitive traits. Oh, I can't believe I'm here at last!",
+            "sd": "ڪريٽن: مون کي خبر آهي ۽ اهو توهان جي سڀ کان پياري پراڻي خوبين مان هڪ آهي. اوهه، مان يقين نه ٿو ڪري سگھان ته مان آخرڪار هتي آهيان!",
+            "ur": "کریٹن: مجھے معلوم ہے اور یہ تمہاری سب سے پیاری قدیم خوبیوں میں سے ایک ہے۔ اوہ، میں یقین نہیں کر سکتا کہ میں آخرکار یہاں ہوں!"
+          },
+          {
+            "en": "(General Powers, a vigorous product of the National Guard, and his Aide enter.)",
+            "sd": "(جنرل پاورس، نيشنل گارڊ جو هڪ سرگرم پيداوار، ۽ هن جو ايڊ اندر اچن ٿا.)",
+            "ur": "(جنرل پاورس، نیشنل گارڈ کی ایک سرگرم پیداوار، اور اس کا ایڈ اندر آتے ہیں۔)"
+          },
+          {
+            "en": "POWERS: All right folks. The place is surrounded by troops. Where is the monster?",
+            "sd": "پاورس: ٺيڪ آهي ماڻهو. هنڌ فوجين سان گهيريل آهي. ديو ڪٿي آهي؟",
+            "ur": "پاورس: ٹھیک ہے لوگو۔ جگہ فوجیوں سے گھری ہوئی ہے۔ دیو کہاں ہے؟"
+          },
+          {
+            "en": "KRETON: I, my dear General, am the monster.",
+            "sd": "ڪريٽن: مان، منهنجا پيارا جنرل، ديو آهيان.",
+            "ur": "کریٹن: میں، میرے پیارے جنرل، دیو ہوں۔"
+          },
+          {
+            "en": "POWERS: What are you dressed up for, a fancy-dress party?",
+            "sd": "پاورس: توهان ڇا لاءِ تيار ٿيا آهيو، ڪنهن فينسي ڊريس پارٽي لاءِ؟",
+            "ur": "پاورس: تم کس لیے تیار ہوئے ہو، کسی فینسی ڈریس پارٹی کے لیے؟"
+          },
+          {
+            "en": "KRETON: I'd hoped to be in the costume of the period. As you see I am about a hundred years too late.",
+            "sd": "ڪريٽن: مون کي اميد هئي ته مان ان دور جي لباس ۾ هوندس. جيئن توهان ڏسو ٿا، مان لڳ ڀڳ سؤ سال دير سان آيو آهيان.",
+            "ur": "کریٹن: مجھے امید تھی کہ میں اس دور کے لباس میں ہوں گا۔ جیسا کہ تم دیکھتے ہو، میں تقریباً سو سال دیر سے آیا ہوں۔"
+          },
+          {
+            "en": "POWERS: Roger, who is this joker?",
+            "sd": "پاورس: راجر، هي مسخرو ڪير آهي؟",
+            "ur": "پاورس: راجر، یہ مسخرہ کون ہے؟"
+          },
+          {
+            "en": "SPELDING: This is Mr. Kreton ... General Powers. Mr. Kreton arrived in that thing outside. He is from another planet.",
+            "sd": "اسپيلڊنگ: هي مسٽر ڪريٽن آهي ... جنرل پاورس. مسٽر ڪريٽن ٻاهر ان شيءِ ۾ پهتو آهي. هو ٻئي سياري کان آيو آهي.",
+            "ur": "اسپیلڈنگ: یہ مسٹر کریٹن ہے ... جنرل پاورس۔ مسٹر کریٹن باہر اس چیز میں پہنچا ہے۔ وہ دوسرے سیارے سے آیا ہے۔"
+          },
+          {
+            "en": "POWERS: I don't believe it.",
+            "sd": "پاورس: مون کي يقين نه آهي.",
+            "ur": "پاورس: مجھے یقین نہیں ہے۔"
+          },
+          {
+            "en": "ELLEN: It's true. We saw him get out of the flying saucer.",
+            "sd": "ايلن: اهو سچ آهي. اسان هن کي اڏامندڙ ٿالي مان نڪرندي ڏٺو.",
+            "ur": "ایلن: یہ سچ ہے۔ ہم نے اسے اڑنے والی طشتری سے نکلتے دیکھا۔"
+          },
+          {
+            "en": "POWERS: (To Aide) Captain, go down and look at the ship. But be careful. Don't touch anything. And don't let anybody else near it. (Aide goes) So you're from another planet.",
+            "sd": "پاورس: (ايڊ کي) ڪپتان، هيٺ وڃو ۽ جهاز کي ڏسو. پر محتاط رھو. ڪنهن به شيءِ کي نه ڇهو. ۽ ڪنهن ٻئي کي به ان جي ويجهو نه اچڻ ڏيو. (ايڊ وڃي ٿو) ته توهان ٻئي سياري کان آهيو.",
+            "ur": "پاورس: (ایڈ سے) کپتان، نیچے جاؤ اور جہاز کو دیکھو۔ لیکن محتاط رہو۔ کسی بھی چیز کو نہ چھوؤ۔ اور کسی دوسرے کو بھی اس کے قریب نہ آنے دو۔ (ایڈ جاتا ہے) تو تم دوسرے سیارے سے ہو۔"
+          },
+          {
+            "en": "KRETON: Yes. My, that's a very smart uniform but I prefer the ones made of metal, the ones you used to wear, you know: with the feathers on top.",
+            "sd": "ڪريٽن: ها. منهنجا، اها تمام سهڻي وردي آهي پر مان ڌاتو مان ٺهيل وارن کي وڌيڪ پسند ڪريان ٿو، اهي جيڪي توهان پهريندا هئا، توهان ڄاڻو ٿا: مٿان پنن وارا.",
+            "ur": "کریٹن: ہاں۔ میرے، یہ بہت اچھی وردی ہے لیکن میں دھات سے بنی ہوئی وردیوں کو زیادہ پسند کرتا ہوں، وہ جو تم پہنتے تھے، تم جانتے ہو: اوپر پروں والی۔"
+          },
+          {
+            "en": "POWERS: That was five hundred years ago ... Are you sure you're not from the Earth?",
+            "sd": "پاورس: اهو پنج سؤ سال اڳ هو ... ڇا توهان کي پڪ آهي ته توهان ڌرتي کان نه آهيو؟",
+            "ur": "پاورس: وہ پانچ سو سال پہلے تھا ... کیا تمہیں یقین ہے کہ تم زمین سے نہیں ہو؟"
+          },
+          {
+            "en": "KRETON: Yes",
+            "sd": "ڪريٽن: ها",
+            "ur": "کریٹن: ہاں"
+          },
+          {
+            "en": "POWERS: Well, I'm not. You've got some pretty tall explaining to do.",
+            "sd": "پاورس: خير، مون کي نه آهي. توهان کي ڪافي ڊگهي وضاحت ڪرڻي آهي.",
+            "ur": "پاورس: خیر، مجھے نہیں ہے۔ تمہیں کافی لمبی وضاحت کرنی ہے۔"
+          },
+          {
+            "en": "KRETON: Anything to oblige.",
+            "sd": "ڪريٽن: ڪا به ڳالهه مدد ڪرڻ لاءِ.",
+            "ur": "کریٹن: کوئی بھی بات مدد کرنے کے لیے۔"
+          },
+          {
+            "en": "POWERS: All right, which planet?",
+            "sd": "پاورس: ٺيڪ آهي، ڪهڙو سيارو؟",
+            "ur": "پاورس: ٹھیک ہے، کون سا سیارہ؟"
+          },
+          {
+            "en": "KRETON: None that you have ever heard of.",
+            "sd": "ڪريٽن: ڪو به نه جنهن بابت توهان ڪڏهن ٻڌو هجي.",
+            "ur": "کریٹن: کوئی بھی نہیں جس کے بارے میں تم نے کبھی سنا ہو۔"
+          },
+          {
+            "en": "POWERS: Where is it?",
+            "sd": "پاورس: اهو ڪٿي آهي؟",
+            "ur": "پاورس: وہ کہاں ہے؟"
+          },
+          {
+            "en": "KRETON: You wouldn't know.",
+            "sd": "ڪريٽن: توهان کي خبر نه پوندي.",
+            "ur": "کریٹن: تمہیں معلوم نہیں ہوگا۔"
+          },
+          {
+            "en": "POWERS: This solar system?",
+            "sd": "پاورس: هي شمسي نظام؟",
+            "ur": "پاورس: یہ نظام شمسی؟"
+          },
+          {
+            "en": "KRETON: No.",
+            "sd": "ڪريٽن: نه.",
+            "ur": "کریٹن: نہیں۔"
+          },
+          {
+            "en": "POWERS: Another system?",
+            "sd": "پاورس: ٻيو نظام؟",
+            "ur": "پاورس: دوسرا نظام؟"
+          },
+          {
+            "en": "KRETON: Yes.",
+            "sd": "ڪريٽن: ها.",
+            "ur": "کریٹن: ہاں۔"
+          },
+          {
+            "en": "POWERS: Look, Buster, I don't want to play games: I just want to know where you're from. The law requires it.",
+            "sd": "پاورس: ڏسو، بسٽر، مان راند کيڏڻ نه ٿو چاهيان: مان صرف اهو ڄاڻڻ چاهيان ٿو ته توهان ڪٿان جا آهيو. قانون اهو گهري ٿو.",
+            "ur": "پاورس: دیکھو، بسٹر، میں کھیل کھیلنا نہیں چاہتا: میں صرف یہ جاننا چاہتا ہوں کہ تم کہاں سے ہو۔ قانون اس کا تقاضا کرتا ہے۔"
+          },
+          {
+            "en": "KRETON: It's possible that I could explain it to a mathematician but I'm afraid I couldn't explain it to you, not for another five hundred years and by then of course you'd be dead because you people do die, don't you?",
+            "sd": "ڪريٽن: اهو ممڪن آهي ته مان اهو ڪنهن رياضيدان کي سمجھائي سگھان پر مون کي ڊپ آهي ته مان اهو توهان کي سمجھائي نه سگھان، ٻئي پنج سؤ سالن تائين نه ۽ تڏهن تائين بلڪل توهان مري چڪا هوندؤ ڇاڪاڻ ته توهان ماڻهو مرندا آهيو، نه؟",
+            "ur": "کریٹن: یہ ممکن ہے کہ میں یہ کسی ریاضی دان کو سمجھا سکوں لیکن مجھے ڈر ہے کہ میں یہ تمہیں سمجھا نہیں سکوں گا، مزید پانچ سو سال تک نہیں اور تب تک بالکل تم مر چکے ہو گے کیونکہ تم لوگ مرتے ہو، ہے نا؟"
+          },
+          {
+            "en": "POWERS: What?",
+            "sd": "پاورس: ڇا؟",
+            "ur": "پاورس: کیا؟"
+          },
+          {
+            "en": "KRETON: Poor fragile butterflies, such brief little moments in the sun.... You see we don't die.",
+            "sd": "ڪريٽن: بيچارا نازڪ پوپٽ، سج ۾ اهڙا مختصر ننڍڙا لمحا.... توهان ڏسو ٿا ته اسان مرندا نه آهيون.",
+            "ur": "کریٹن: بیچارے نازک تتلیاں، دھوپ میں ایسے مختصر چھوٹے لمحے.... تم دیکھتے ہو کہ ہم مرتے نہیں ہیں۔"
+          },
+          {
+            "en": "POWERS: You'll die all right if it turns out you're a spy or a hostile alien.",
+            "sd": "پاورس: توهان ضرور مرندؤ جيڪڏهن اهو ثابت ٿيو ته توهان جاسوس آهيو يا دشمن پرڏيهي آهيو.",
+            "ur": "پاورس: تم ضرور مرو گے اگر یہ ثابت ہوا کہ تم جاسوس ہو یا دشمن اجنبی ہو۔"
+          },
+          {
+            "en": "KRETON: I'm sure you wouldn't be so cruel.",
+            "sd": "ڪريٽن: مون کي پڪ آهي ته توهان ايترا ظالم نه ٿيندا.",
+            "ur": "کریٹن: مجھے یقین ہے کہ تم اتنے ظالم نہیں ہو گے۔"
+          },
+          {
+            "en": "(Aide returns; he looks disturbed.)",
+            "sd": "(ايڊ موٽي اچي ٿو؛ هو پريشان لڳي ٿو.)",
+            "ur": "(ایڈ واپس آتا ہے؛ وہ پریشان لگتا ہے۔)"
+          },
+          {
+            "en": "POWERS: What did you find?",
+            "sd": "پاورس: توهان کي ڇا مليو؟",
+            "ur": "پاورس: تمہیں کیا ملا؟"
+          },
+          {
+            "en": "AIDE: I'm not sure, General.",
+            "sd": "ايڊ: مون کي پڪ نه آهي، جنرل.",
+            "ur": "ایڈ: مجھے یقین نہیں ہے، جنرل۔"
+          },
+          {
+            "en": "POWERS: (Heavily) Then do your best to describe what the object is like.",
+            "sd": "پاورس: (ڳري آواز ۾) پوءِ پنهنجي پوري ڪوشش ڪريو ته ٻڌايو ته اها شيءِ ڪهڙي آهي.",
+            "ur": "پاورس: (بھاری آواز میں) پھر اپنی پوری کوشش کرو کہ بتاؤ کہ وہ چیز کیسی ہے۔"
+          },
+          {
+            "en": "AIDE: Well, it's elliptical, with a fourteen foot diameter. And it's made of an unknown metal which shines and inside there isn't anything.",
+            "sd": "ايڊ: خير، اهو بيضوي آهي، چوڏهن فوٽ قطر سان. ۽ اهو اڻڄاتل ڌاتو مان ٺهيل آهي جيڪو چمڪي ٿو ۽ اندر ڪا به شيءِ نه آهي.",
+            "ur": "ایڈ: خیر، یہ بیضوی ہے، چودہ فٹ قطر کے ساتھ۔ اور یہ نامعلوم دھات سے بنا ہے جو چمکتی ہے اور اندر کچھ بھی نہیں ہے۔"
+          },
+          {
+            "en": "POWERS: Isn't anything?",
+            "sd": "پاورس: ڪا به شيءِ نه آهي؟",
+            "ur": "پاورس: کچھ بھی نہیں ہے؟"
+          },
+          {
+            "en": "AIDE: There's nothing inside the ship: No instruments, no food, nothing.",
+            "sd": "ايڊ: جهاز جي اندر ڪا به شيءِ نه آهي: ڪو سامان نه، ڪو کاڌو نه، ڪا به شيءِ نه.",
+            "ur": "ایڈ: جہاز کے اندر کچھ بھی نہیں ہے: کوئی سامان نہیں، کوئی کھانا نہیں، کچھ بھی نہیں۔"
+          },
+          {
+            "en": "POWERS: (To Kreton) What did you do with your instrument board?",
+            "sd": "پاورس: (ڪريٽن کي) توهان پنهنجي سامان واري تختي سان ڇا ڪيو؟",
+            "ur": "پاورس: (کریٹن سے) تم نے اپنے سامان والی تختی کے ساتھ کیا کیا؟"
+          },
+          {
+            "en": "KRETON: With my what? Oh, I don't have one.",
+            "sd": "ڪريٽن: منهنجي ڇا سان؟ اوهه، مون وٽ هڪ به نه آهي.",
+            "ur": "کریٹن: میرے کس کے ساتھ؟ اوہ، میرے پاس ایک بھی نہیں ہے۔"
+          },
+          {
+            "en": "POWERS: How does the thing travel?",
+            "sd": "پاورس: اها شيءِ ڪيئن سفر ڪري ٿي؟",
+            "ur": "پاورس: وہ چیز کیسے سفر کرتی ہے؟"
+          },
+          {
+            "en": "KRETON: I don't know.",
+            "sd": "ڪريٽن: مون کي خبر نه آهي.",
+            "ur": "کریٹن: مجھے نہیں معلوم۔"
+          },
+          {
+            "en": "POWERS: You don't know. Now look, Mister, you're in pretty serious trouble. I suggest you do a bit of cooperating. You claim you travelled here from outer space in a machine with no instruments....",
+            "sd": "پاورس: توهان کي خبر نه آهي. هاڻي ڏسو، مسٽر، توهان ڪافي سنگين مصيبت ۾ آهيو. مان صلاح ڏيان ٿو ته توهان ٿورو سهڪار ڪريو. توهان دعويٰ ڪريو ٿا ته توهان ٻاهرين خلا کان هتي هڪ مشين ۾ سفر ڪيو آهي جنهن ۾ ڪو سامان نه آهي....",
+            "ur": "پاورس: تمہیں نہیں معلوم۔ اب دیکھو، مسٹر، تم کافی سنگین مصیبت میں ہو۔ میں مشورہ دیتا ہوں کہ تم تھوڑا تعاون کرو۔ تم دعویٰ کرتے ہو کہ تم بیرونی خلا سے یہاں ایک مشین میں سفر کر کے آئے ہو جس میں کوئی سامان نہیں ہے...."
+          },
+          {
+            "en": "KRETON: Well, these cars are rather common in my world and I suppose, once upon a time, I must've known the theory on which they operate but I've long since forgotten. After all, General, we're not mechanics, you and I.",
+            "sd": "ڪريٽن: خير، اهي گاڏيون منهنجي دنيا ۾ بلڪل عام آهن ۽ مان سمجھان ٿو، ڪنهن زماني ۾، مون کي اهو نظريو ڄاڻڻ گهرجي ها جنهن تي اهي هلن ٿيون پر مان گهڻي وقت کان وساري چڪو آهيان. آخرڪار، جنرل، اسان مستري نه آهيون، توهان ۽ مان.",
+            "ur": "کریٹن: خیر، یہ گاڑیاں میری دنیا میں بالکل عام ہیں اور میں سمجھتا ہوں، کسی زمانے میں، مجھے وہ نظریہ جاننا چاہیے تھا جس پر وہ چلتی ہیں لیکن میں بہت عرصے سے بھول چکا ہوں۔ آخرکار، جنرل، ہم مکینک نہیں ہیں، تم اور میں۔"
+          },
+          {
+            "en": "POWERS: Roger, do you mind if we use your study?",
+            "sd": "پاورس: راجر، ڇا توهان کي اعتراض آهي جيڪڏهن اسان توهان جي مطالعي واري ڪمري کي استعمال ڪريون؟",
+            "ur": "پاورس: راجر، کیا تمہیں اعتراض ہے اگر ہم تمہارے مطالعے والے کمرے کو استعمال کریں؟"
+          },
+          {
+            "en": "SPELDING: Not at all. Not at all, General.",
+            "sd": "اسپيلڊنگ: بلڪل نه. بلڪل نه، جنرل.",
+            "ur": "اسپیلڈنگ: بالکل نہیں۔ بالکل نہیں، جنرل۔"
+          },
+          {
+            "en": "POWERS: Mr. Kreton and I are going to have a chat. (To Aide) Put in a call to the Chief of Staff.",
+            "sd": "پاورس: مسٽر ڪريٽن ۽ مان ڳالهه ٻولهه ڪرڻ وارا آهيون. (ايڊ کي) چيف آف اسٽاف کي فون ڪريو.",
+            "ur": "پاورس: مسٹر کریٹن اور میں بات چیت کرنے والے ہیں۔ (ایڈ سے) چیف آف اسٹاف کو فون کرو۔"
+          },
+          {
+            "en": "AIDE: Yes, General.",
+            "sd": "ايڊ: ها، جنرل.",
+            "ur": "ایڈ: جی، جنرل۔"
+          },
+          {
+            "en": "(Spelding rises, leads Kreton and Powers into next room)",
+            "sd": "(اسپيلڊنگ اٿي ٿو، ڪريٽن ۽ پاورس کي ايندڙ ڪمري ۾ وٺي وڃي ٿو)",
+            "ur": "(اسپیلڈنگ اٹھتا ہے، کریٹن اور پاورس کو اگلے کمرے میں لے جاتا ہے)"
+          },
+          {
+            "en": "SPELDING: This way, gentlemen.",
+            "sd": "اسپيلڊنگ: هن طرف، سائين.",
+            "ur": "اسپیلڈنگ: اس طرف، صاحبو۔"
+          },
+          {
+            "en": "(At the door Spelding speaks in a low voice to Powers)",
+            "sd": "(دروازي وٽ اسپيلڊنگ پاورس سان آهستي آواز ۾ ڳالهائي ٿو)",
+            "ur": "(دروازے پر اسپیلڈنگ پاورس سے آہستہ آواز میں بات کرتا ہے)"
+          },
+          {
+            "en": "SPELDING: I hope I'll be the one to get the story first, Tom.",
+            "sd": "اسپيلڊنگ: مون کي اميد آهي ته مان پهريون هوندس جيڪو خبر پهريان حاصل ڪندو، ٽام.",
+            "ur": "اسپیلڈنگ: مجھے امید ہے کہ میں پہلا ہوں گا جو خبر پہلے حاصل کرے گا، ٹام۔"
+          },
+          {
+            "en": "POWERS: There isn't any story. Complete censorship. I'm sorry but this house is under martial law. I've a hunch we're in trouble. (He shuts the door Spelding turns and re-joins his family).",
+            "sd": "پاورس: ڪا به خبر نه آهي. مڪمل سينسرشپ آهي. مون کي افسوس آهي پر هي گھر مارشل لا هيٺ آهي. مون کي شڪ آهي ته اسان مصيبت ۾ آهيون. (هو دروازو بند ڪري ٿو اسپيلڊنگ ڦري ٿو ۽ پنهنجي خاندان سان ٻيهر ملي ٿو).",
+            "ur": "پاورس: کوئی خبر نہیں ہے۔ مکمل سنسرشپ ہے۔ مجھے افسوس ہے لیکن یہ گھر مارشل لا کے تحت ہے۔ مجھے شک ہے کہ ہم مصیبت میں ہیں۔ (وہ دروازہ بند کرتا ہے اسپیلڈنگ مڑتا ہے اور اپنے خاندان سے دوبارہ ملتا ہے)۔"
+          },
+          {
+            "en": "ELLEN: I think he's wonderful whoever he is.",
+            "sd": "ايلن: مون کي لڳي ٿو ته هو شاندار آهي جيڪو به هو آهي.",
+            "ur": "ایلن: مجھے لگتا ہے کہ وہ شاندار ہے جو بھی وہ ہے۔"
+          },
+          {
+            "en": "MRS. SPELDING: I wonder how much damage he did to my rose garden....",
+            "sd": "مسز اسپيلڊنگ: مون کي تعجب آهي ته هن منهنجي گلاب جي باغ کي ڪيترو نقصان پهچايو....",
+            "ur": "مسز اسپیلڈنگ: مجھے حیرت ہے کہ اس نے میرے گلاب کے باغ کو کتنا نقصان پہنچایا...."
+          },
+          {
+            "en": "JOHN: It's sure hard to believe he's really from outer space. No instruments, no nothing ... boy, they must be advanced scientifically.",
+            "sd": "جان: اهو يقين ڪرڻ واقعي مشڪل آهي ته هو واقعي ٻاهرين خلا کان آيو آهي. ڪو سامان نه، ڪا به شيءِ نه ... ڇوڪرا، اهي سائنس ۾ ضرور ترقي يافته هوندا.",
+            "ur": "جان: یہ یقین کرنا واقعی مشکل ہے کہ وہ واقعی بیرونی خلا سے آیا ہے۔ کوئی سامان نہیں، کچھ بھی نہیں ... لڑکے، وہ سائنس میں ضرور ترقی یافتہ ہوں گے۔"
+          },
+          {
+            "en": "MRS. SPELDING: Is he spending the night, dear?",
+            "sd": "مسز اسپيلڊنگ: ڇا هو رات گذاري رھيو آهي، پيارا؟",
+            "ur": "مسز اسپیلڈنگ: کیا وہ رات گزار رہا ہے، پیارے؟"
+          },
+          {
+            "en": "SPELDING: What?",
+            "sd": "اسپيلڊنگ: ڇا؟",
+            "ur": "اسپیلڈنگ: کیا؟"
+          },
+          {
+            "en": "MRS. SPELDING: Is he spending the night?",
+            "sd": "مسز اسپيلڊنگ: ڇا هو رات گذاري رھيو آهي؟",
+            "ur": "مسز اسپیلڈنگ: کیا وہ رات گزار رہا ہے؟"
+          },
+          {
+            "en": "SPELDING: Oh yes, yes, I suppose he will be.",
+            "sd": "اسپيلڊنگ: اوهه ها، ها، مان سمجھان ٿو ته هو رھندو.",
+            "ur": "اسپیلڈنگ: اوہ ہاں، ہاں، میں سمجھتا ہوں کہ وہ رہے گا۔"
+          },
+          {
+            "en": "MRS. SPELDING: Then, I'd better go make up the bedroom. He seems perfectly nice to me. I like hiswhiskers. They're so very ... comforting. Like Grandfather Spelding's.",
+            "sd": "مسز اسپيلڊنگ: پوءِ، مان بهتر آهي ته وڃي سمهڻ وارو ڪمرو تيار ڪريان. هو مون کي بلڪل سٺو لڳي ٿو. مون کي هن جون ڏاڙهيون پسند آهن. اهي ايتريون ... آرام ڏيندڙ آهن. دادا اسپيلڊنگ جيان.",
+            "ur": "مسز اسپیلڈنگ: پھر، بہتر ہے کہ میں جا کر سونے والا کمرہ تیار کروں۔ وہ مجھے بالکل اچھا لگتا ہے۔ مجھے اس کی داڑھی پسند ہے۔ وہ اتنی ... آرام دینے والی ہے۔ دادا اسپیلڈنگ کی طرح۔"
+          },
+          {
+            "en": "(She goes.)",
+            "sd": "(هوءَ وڃي ٿي.)",
+            "ur": "(وہ جاتی ہے۔)"
+          },
+          {
+            "en": "SPELDING: (Bitterly) I know this story will leak out before I can interview him. I just know it.",
+            "sd": "اسپيلڊنگ: (ڪڙي انداز ۾) مون کي خبر آهي ته هي خبر ان کان اڳ ٻاهر نڪري ايندي جو مان هن جو انٽرويو وٺي سگھان. مون کي بلڪل خبر آهي.",
+            "ur": "اسپیلڈنگ: (کڑوے انداز میں) مجھے معلوم ہے کہ یہ خبر اس سے پہلے باہر نکل آئے گی کہ میں اس کا انٹرویو لے سکوں۔ مجھے بالکل معلوم ہے۔"
+          },
+          {
+            "en": "ELLEN: What does it mean, we're under martial law?",
+            "sd": "ايلن: ان جو مطلب ڇا آهي، اسان مارشل لا هيٺ آهيون؟",
+            "ur": "ایلن: اس کا مطلب کیا ہے، ہم مارشل لا کے تحت ہیں؟"
+          },
+          {
+            "en": "SPELDING: It means we have to do what General Powers tells us to do.",
+            "sd": "اسپيلڊنگ: ان جو مطلب آهي ته اسان کي اهو ڪرڻو آهي جيڪو جنرل پاورس اسان کي ڪرڻ لاءِ چوي ٿو.",
+            "ur": "اسپیلڈنگ: اس کا مطلب ہے کہ ہمیں وہ کرنا ہے جو جنرل پاورس ہمیں کرنے کے لیے کہتا ہے۔"
+          },
+          {
+            "en": "SPELDING: (He goes to the window as a soldier passes by) See?",
+            "sd": "اسپيلڊنگ: (هو دري ڏانهن وڃي ٿو جڏهن هڪ سپاهي گذري ٿو) ڏسو؟",
+            "ur": "اسپیلڈنگ: (وہ کھڑکی کی طرف جاتا ہے جب ایک سپاہی گزرتا ہے) دیکھو؟"
+          },
+          {
+            "en": "JOHN: I wish I'd taken a closer look at that ship when I had the chance.",
+            "sd": "جان: ڪاش مان ان جهاز کي ويجهو کان ڏسي وٺان ها جڏهن مون کي موقعو مليو هو.",
+            "ur": "جان: کاش میں اس جہاز کو قریب سے دیکھ لیتا جب مجھے موقع ملا تھا۔"
+          },
+          {
+            "en": "ELLEN: Perhaps he'll give us a ride in it.",
+            "sd": "ايلن: شايد هو اسان کي ان ۾ سواري ڏيندو.",
+            "ur": "ایلن: شاید وہ ہمیں اس میں سواری دے گا۔"
+          },
+          {
+            "en": "JOHN: Travelling in space! Just like those stories. You know: intergalactic drive stuff.",
+            "sd": "جان: خلا ۾ سفر! بلڪل انهن ڪهاڻين وانگر. توهان ڄاڻو ٿا: بين الڪائناتي سفر جون شيون.",
+            "ur": "جان: خلا میں سفر! بالکل ان کہانیوں کی طرح۔ تم جانتے ہو: بین الکائناتی سفر کی چیزیں۔"
+          },
+          {
+            "en": "SPELDING: If he's not an impostor.",
+            "sd": "اسپيلڊنگ: جيڪڏهن هو ٺڳ نه آهي.",
+            "ur": "اسپیلڈنگ: اگر وہ دھوکے باز نہیں ہے۔"
+          },
+          {
+            "en": "ELLEN: I have a feeling he isn't.",
+            "sd": "ايلن: مون کي محسوس ٿئي ٿو ته هو نه آهي.",
+            "ur": "ایلن: مجھے محسوس ہوتا ہے کہ وہ نہیں ہے۔"
+          },
+          {
+            "en": "JOHN: Well, I better call the family and tell them I'm all right.",
+            "sd": "جان: خير، مان بهتر آهي ته خاندان کي فون ڪريان ۽ انهن کي ٻڌايان ته مان ٺيڪ آهيان.",
+            "ur": "جان: خیر، بہتر ہے کہ میں خاندان کو فون کروں اور انہیں بتاؤں کہ میں ٹھیک ہوں۔"
+          },
+          {
+            "en": "(He crosses to telephone by the door which leads into the hall.)",
+            "sd": "(هو دروازي وٽ ٽيليفون ڏانهن وڃي ٿو جيڪو هال ڏانهن وڃي ٿو.)",
+            "ur": "(وہ دروازے کے پاس ٹیلی فون کی طرف جاتا ہے جو ہال کی طرف جاتا ہے۔)"
+          },
+          {
+            "en": "AIDE: I'm sorry, sir, but you can't use the phone.",
+            "sd": "ايڊ: مون کي افسوس آهي، سائين، پر توهان فون استعمال نه ٿا ڪري سگھو.",
+            "ur": "ایڈ: مجھے افسوس ہے، سر، لیکن آپ فون استعمال نہیں کر سکتے۔"
+          },
+          {
+            "en": "SPELDING: He certainly can. This is my house....",
+            "sd": "اسپيلڊنگ: هو بلڪل ڪري سگھي ٿو. هي منهنجو گھر آهي....",
+            "ur": "اسپیلڈنگ: وہ بالکل کر سکتا ہے۔ یہ میرا گھر ہے...."
+          },
+          {
+            "en": "AIDE: (Mechanically)This house is a military reservation until the crisis is over: Order General Powers. I'm sorry.",
+            "sd": "ايڊ: (مشيني انداز ۾)هي گھر بحران ختم ٿيڻ تائين هڪ فوجي علائقو آهي: جنرل پاورس جو حڪم. مون کي افسوس آهي.",
+            "ur": "ایڈ: (مشینی انداز میں)یہ گھر بحران ختم ہونے تک ایک فوجی علاقہ ہے: جنرل پاورس کا حکم۔ مجھے افسوس ہے۔"
+          },
+          {
+            "en": "JOHN: How am I to call home to say where I am?",
+            "sd": "جان: مان گھر ڪيئن فون ڪريان ته ٻڌايان ته مان ڪٿي آهيان؟",
+            "ur": "جان: میں گھر کیسے فون کروں کہ بتاؤں کہ میں کہاں ہوں؟"
+          },
+          {
+            "en": "AIDE: Only General Powers can help you. You're also forbidden to leave this house without permission.",
+            "sd": "ايڊ: صرف جنرل پاورس توهان جي مدد ڪري سگھي ٿو. توهان کي اجازت کان سواءِ هن گھر مان ٻاهر وڃڻ جي به منع آهي.",
+            "ur": "ایڈ: صرف جنرل پاورس تمہاری مدد کر سکتا ہے۔ تمہیں اجازت کے بغیر اس گھر سے باہر جانے کی بھی منع ہے۔"
+          },
+          {
+            "en": "SPELDING: You can't do this!",
+            "sd": "اسپيلڊنگ: توهان اهو نه ٿا ڪري سگھو!",
+            "ur": "اسپیلڈنگ: تم یہ نہیں کر سکتے!"
+          },
+          {
+            "en": "AIDE: I'm afraid, sir, we've done it.",
+            "sd": "ايڊ: مون کي ڊپ آهي، سائين، اسان اهو ڪري چڪا آهيون.",
+            "ur": "ایڈ: مجھے ڈر ہے، سر، ہم نے یہ کر لیا ہے۔"
+          },
+          {
+            "en": "ELLEN: Isn't it exciting!",
+            "sd": "ايلن: اهو ڪيترو دلچسپ نه آهي!",
+            "ur": "ایلن: یہ کتنا دلچسپ نہیں ہے!"
+          },
+          {
+            "en": "SCENE II",
+            "sd": "منظر ٻيو",
+            "ur": "منظر دوم"
+          },
+          {
+            "en": "A handsomely furnished study, many books and a globe of the world. Kreton sits down compliably beside the globe which he twirls thoughtfully. The door opens and Powers enters.)",
+            "sd": "هڪ سهڻي نموني سان سجايل مطالعي وارو ڪمرو، ڪيترائي ڪتاب ۽ دنيا جو گولو. ڪريٽن گولي جي ڀرسان فرمانبرداري سان ويهي ٿو جنهن کي هو سوچيندي ڦيرائي ٿو. دروازو کلي ٿو ۽ پاورس اندر اچي ٿو.)",
+            "ur": "ایک خوبصورتی سے سجا ہوا مطالعے والا کمرہ، کئی کتابیں اور دنیا کا گولہ۔ کریٹن گولے کے پاس فرمانبرداری سے بیٹھ جاتا ہے جسے وہ سوچتے ہوئے گھماتا ہے۔ دروازہ کھلتا ہے اور پاورس اندر آتا ہے۔)"
+          },
+          {
+            "en": "POWERS: Are you deliberately trying to confuse me?",
+            "sd": "پاورس: ڇا توهان ڄاڻي واڻي مون کي پريشان ڪرڻ جي ڪوشش ڪري رھيا آهيو؟",
+            "ur": "پاورس: کیا تم جان بوجھ کر مجھے پریشان کرنے کی کوشش کر رہے ہو؟"
+          },
+          {
+            "en": "KRETON: Not deliberately, no.",
+            "sd": "ڪريٽن: ڄاڻي واڻي نه، نه.",
+            "ur": "کریٹن: جان بوجھ کر نہیں، نہیں۔"
+          },
+          {
+            "en": "POWERS: We have gone over and over this for two hours now and all that you've told me is that you're from another planet in another solar system....",
+            "sd": "پاورس: اسان ٻن ڪلاڪن کان هن تي بار بار ڳالهايو آهي ۽ توهان مون کي صرف اهو ٻڌايو آهي ته توهان ٻئي شمسي نظام ۾ ٻئي سياري کان آهيو....",
+            "ur": "پاورس: ہم دو گھنٹوں سے اس پر بار بار بات کر رہے ہیں اور تم نے مجھے صرف یہ بتایا ہے کہ تم دوسرے نظام شمسی میں دوسرے سیارے سے ہو...."
+          },
+          {
+            "en": "KRETON: In another dimension. I think that's the word you use.",
+            "sd": "ڪريٽن: ٻئي ماپ ۾. مان سمجھان ٿو ته اهو ئي لفظ آهي جيڪو توهان استعمال ڪريو ٿا.",
+            "ur": "کریٹن: دوسری جہت میں۔ میں سمجھتا ہوں کہ یہی وہ لفظ ہے جو تم استعمال کرتے ہو۔"
+          },
+          {
+            "en": "POWERS: In another dimension and you have come here as a tourist.",
+            "sd": "پاورس: ٻئي ماپ ۾ ۽ توهان هتي سياح طور آيا آهيو.",
+            "ur": "پاورس: دوسری جہت میں اور تم یہاں سیاح کے طور پر آئے ہو۔"
+          },
+          {
+            "en": "KRETON: Up to a point, yes. What did you expect?",
+            "sd": "ڪريٽن: هڪ حد تائين، ها. توهان ڇا توقع ڪئي هئي؟",
+            "ur": "کریٹن: ایک حد تک، ہاں۔ تم نے کیا توقع کی تھی؟"
+          },
+          {
+            "en": "POWERS: It is my job to guard the security of this country.",
+            "sd": "پاورس: اهو منهنجو ڪم آهي ته هن ملڪ جي سلامتي جي حفاظت ڪريان.",
+            "ur": "پاورس: یہ میرا کام ہے کہ اس ملک کی سلامتی کی حفاظت کروں۔"
+          },
+          {
+            "en": "KRETON: I'm sure that must be very interesting work.",
+            "sd": "ڪريٽن: مون کي پڪ آهي ته اهو تمام دلچسپ ڪم هوندو.",
+            "ur": "کریٹن: مجھے یقین ہے کہ یہ بہت دلچسپ کام ہوگا۔"
+          },
+          {
+            "en": "POWERS: For all I know, you are a spy, sent here by an alien race to study us, preparatory to invasion.",
+            "sd": "پاورس: جيستائين مون کي خبر آهي، توهان جاسوس آهيو، ڪنهن پرڏيهي قوم طرفان هتي موڪليل، اسان جو مطالعو ڪرڻ لاءِ، حملي جي تياري طور.",
+            "ur": "پاورس: جہاں تک مجھے معلوم ہے، تم جاسوس ہو، کسی اجنبی قوم کی طرف سے یہاں بھیجے گئے ہو، ہمارا مطالعہ کرنے کے لیے، حملے کی تیاری کے طور پر۔"
+          },
+          {
+            "en": "KRETON: Oh, none of my people would dream of invading you.",
+            "sd": "ڪريٽن: اوهه، منهنجي قوم جو ڪو به ماڻهو توهان تي حملو ڪرڻ جو خواب به نه ڏسندو.",
+            "ur": "کریٹن: اوہ، میری قوم کا کوئی بھی شخص تم پر حملہ کرنے کا خواب بھی نہیں دیکھے گا۔"
+          },
+          {
+            "en": "POWERS: How do I know that's true?",
+            "sd": "پاورس: مون کي ڪيئن خبر پوندي ته اهو سچ آهي؟",
+            "ur": "پاورس: مجھے کیسے معلوم ہوگا کہ یہ سچ ہے؟"
+          },
+          {
+            "en": "KRETON: You don't, so I suggest you believe me. I should also warn you: I can tell what's inside.",
+            "sd": "ڪريٽن: توهان کي خبر نه پوندي، تنهنڪري مان صلاح ڏيان ٿو ته توهان مون تي يقين ڪريو. مون کي توهان کي خبردار به ڪرڻ گهرجي: مان ٻڌائي سگھان ٿو ته اندر ڇا آهي.",
+            "ur": "کریٹن: تمہیں معلوم نہیں ہوگا، اس لیے میں مشورہ دیتا ہوں کہ تم مجھ پر یقین کرو۔ مجھے تمہیں خبردار بھی کرنا چاہیے: میں بتا سکتا ہوں کہ اندر کیا ہے۔"
+          },
+          {
+            "en": "POWERS: What's inside?",
+            "sd": "پاورس: اندر ڇا آهي؟",
+            "ur": "پاورس: اندر کیا ہے؟"
+          },
+          {
+            "en": "KRETON: What's inside your mind?",
+            "sd": "ڪريٽن: توهان جي ذهن جي اندر ڇا آهي؟",
+            "ur": "کریٹن: تمہارے ذہن کے اندر کیا ہے؟"
+          },
+          {
+            "en": "POWERS: You're a mind reader?",
+            "sd": "پاورس: توهان ذهن پڙهڻ وارا آهيو؟",
+            "ur": "پاورس: تم ذہن پڑھنے والے ہو؟"
+          },
+          {
+            "en": "KRETON: I don't really read it. I hear it.",
+            "sd": "ڪريٽن: مان واقعي ان کي پڙهندو نه آهيان. مان ان کي ٻڌندو آهيان.",
+            "ur": "کریٹن: میں واقعی اسے پڑھتا نہیں ہوں۔ میں اسے سنتا ہوں۔"
+          },
+          {
+            "en": "POWERS: What am I thinking?",
+            "sd": "پاورس: مان ڇا سوچي رھيو آهيان؟",
+            "ur": "پاورس: میں کیا سوچ رہا ہوں؟"
+          },
+          {
+            "en": "KRETON: That I am either a lunatic from the earth or a spy from another world.",
+            "sd": "ڪريٽن: ته مان يا ته ڌرتي کان پاگل آهيان يا ٻئي دنيا کان جاسوس آهيان.",
+            "ur": "کریٹن: کہ میں یا تو زمین سے پاگل ہوں یا دوسری دنیا سے جاسوس ہوں۔"
+          },
+          {
+            "en": "POWERS: Correct. But then you could've guessed that. (Frowns) What am I thinking now?",
+            "sd": "پاورس: صحيح. پر پوءِ توهان اهو اندازو به لڳائي سگھيا هو. (پيشاني تي ڏار وجهي ٿو) مان هاڻي ڇا سوچي رھيو آهيان؟",
+            "ur": "پاورس: صحیح۔ لیکن پھر تم نے یہ اندازہ بھی لگایا ہوگا۔ (پیشانی پر بل ڈالتا ہے) میں اب کیا سوچ رہا ہوں؟"
+          },
+          {
+            "en": "KRETON: You're making a picture. Three silver stars. You're pinning them on your shoulder, instead of the two stars you now wear.",
+            "sd": "ڪريٽن: توهان هڪ تصوير ٺاهي رھيا آهيو. ٽي چاندي جا تارا. توهان انهن کي پنهنجي ڪلهي تي لڳائي رھيا آهيو، انهن ٻن تارن جي بدران جيڪي توهان هاڻي پائيندا آهيو.",
+            "ur": "کریٹن: تم ایک تصویر بنا رہے ہو۔ تین چاندی کے ستارے۔ تم انہیں اپنے کندھے پر لگا رہے ہو، ان دو ستاروں کی بجائے جو تم اب پہنتے ہو۔"
+          },
+          {
+            "en": "POWERS: (Startled) That's right. I was thinking of my promotion.",
+            "sd": "پاورس: (حيران ٿي) اهو صحيح آهي. مان پنهنجي ترقي بابت سوچي رھيو هوس.",
+            "ur": "پاورس: (حیران ہو کر) یہ صحیح ہے۔ میں اپنی ترقی کے بارے میں سوچ رہا تھا۔"
+          },
+          {
+            "en": "KRETON: If there's anything I can do to hurry it along, just let me know.",
+            "sd": "ڪريٽن: جيڪڏهن ڪا شيءِ آهي جيڪا مان ان کي تيز ڪرڻ لاءِ ڪري سگھان، ته بس مون کي ٻڌايو.",
+            "ur": "کریٹن: اگر کوئی چیز ہے جو میں اسے تیز کرنے کے لیے کر سکتا ہوں، تو بس مجھے بتاؤ۔"
+          },
+          {
+            "en": "POWERS: You can. Tell me why you're here.",
+            "sd": "پاورس: توهان ڪري سگھو ٿا. مون کي ٻڌايو ته توهان هتي ڇو آهيو.",
+            "ur": "پاورس: تم کر سکتے ہو۔ مجھے بتاؤ کہ تم یہاں کیوں ہو۔"
+          },
+          {
+            "en": "KRETON: Well, we don't travel much, my people. We used to but since we see everything through special monitors and re-creators, there is no particular need to travel. However, I am a hobbyist. I love to gad about.",
+            "sd": "ڪريٽن: خير، اسان گهڻو سفر نه ڪندا آهيون، منهنجي قوم. اسان ڪندا هئاسين پر جيئن ته اسان هر شيءِ خاص مانيٽرن ۽ ٻيهر ٺاهڻ وارن ذريعي ڏسندا آهيون، سفر ڪرڻ جي ڪا خاص ضرورت نه آهي. البته، مان شوقين آهيان. مون کي گهمڻ ڦرڻ پسند آهي.",
+            "ur": "کریٹن: خیر، ہم زیادہ سفر نہیں کرتے، میری قوم۔ ہم کرتے تھے لیکن چونکہ ہم ہر چیز خاص مانیٹروں اور دوبارہ بنانے والوں کے ذریعے دیکھتے ہیں، سفر کرنے کی کوئی خاص ضرورت نہیں ہے۔ تاہم، میں شوقین ہوں۔ مجھے گھومنا پھرنا پسند ہے۔"
+          },
+          {
+            "en": "POWERS: (Taking notes) Are you the first to visit us?",
+            "sd": "پاورس: (نوٽ وٺندي) ڇا توهان پهريون آهيو جيڪو اسان وٽ آيو آهي؟",
+            "ur": "پاورس: (نوٹ لیتے ہوئے) کیا تم پہلے ہو جو ہم سے ملنے آیا ہے؟"
+          },
+          {
+            "en": "KRETON: Oh, no! We started visiting you long before there were people on the planet. However, we are seldom noticed on our trips. I'm sorry to say I slipped up, coming in the way I did ... but then this visit was all rather impromptu. (Laughs) I am a creature of impulse, I fear.....",
+            "sd": "ڪريٽن: اوهه، نه! اسان توهان وٽ گهڻو اڳ ايندا هئاسين، ان کان اڳ جو سياري تي ماڻهو هئا. البته، اسان جا سفر گھٽ ئي محسوس ڪيا ويندا آهن. مون کي افسوس سان چوڻو ٿو پوي ته مان ڦٽي پيو، جيئن مان آيو هوس ... پر پوءِ هي دورو سڄو ڪجهه اوچتو هو. (کلندو آهي) مان جذبي جو پيداوار آهيان، مون کي ڊپ آهي.....",
+            "ur": "کریٹن: اوہ، نہیں! ہم تم سے بہت پہلے ملنے آتے تھے، اس سے پہلے کہ سیارے پر لوگ تھے۔ تاہم، ہمارے سفر شاذ و نادر ہی محسوس کیے جاتے ہیں۔ مجھے افسوس سے کہنا پڑتا ہے کہ میں پھسل گیا، جس طرح میں آیا تھا ... لیکن پھر یہ دورہ سارا کچھ اچانک تھا۔ (ہنستا ہے) میں جذبے کی پیداوار ہوں، مجھے ڈر ہے....."
+          },
+          {
+            "en": "(Aide looks in.)",
+            "sd": "(ايڊ اندر ڏسي ٿو.)",
+            "ur": "(ایڈ اندر دیکھتا ہے۔)"
+          },
+          {
+            "en": "AIDE: Chief of Staff on the telephone, General.",
+            "sd": "ايڊ: چيف آف اسٽاف ٽيليفون تي آهي، جنرل.",
+            "ur": "ایڈ: چیف آف اسٹاف ٹیلی فون پر ہے، جنرل۔"
+          },
+          {
+            "en": "POWERS: (Picks up phone). Hello! Yes, sir. Powers speaking. I'm talking to him now. No, sir. No, sir. No, we can't determine what method of power was used. He won't talk. Yes, sir. I'll hold him here. I've put the house under martial law ... belongs to a friend of mine, Roger Spelding, the TV commentator. Roger Spelding, the TV ... What? Oh, no, I'm sure he won't say anything. Who ... oh, yes, sir. Yes, I realize the importance of it. Yes, I will. Good-bye. (Hangs up) The President of the United States wants to know all about you.",
+            "sd": "پاورس: (فون کڻي ٿو). هيلو! ها، سائين. پاورس ڳالهائي رھيو آهي. مان هن سان هاڻي ڳالهائي رھيو آهيان. نه، سائين. نه، سائين. نه، اسان اهو طئي نه ٿا ڪري سگھون ته طاقت جو ڪهڙو طريقو استعمال ڪيو ويو. هو ڳالهائيندو نه. ها، سائين. مان هن کي هتي رکندس. مون گھر کي مارشل لا هيٺ رکيو آهي ... منهنجي هڪ دوست جو آهي، راجر اسپيلڊنگ، ٽي وي تبصرو ڪندڙ. راجر اسپيلڊنگ، ٽي وي ... ڇا؟ اوهه، نه، مون کي پڪ آهي ته هو ڪا به شيءِ نه چوندو. ڪير ... اوهه، ها، سائين. ها، مون کي ان جي اهميت جو احساس آهي. ها، مان ڪندس. الوداع. (فون رکي ٿو) آمريڪا جو صدر توهان بابت سڀ ڪجهه ڄاڻڻ چاهي ٿو.",
+            "ur": "پاورس: (فون اٹھاتا ہے)۔ ہیلو! جی، سر۔ پاورس بول رہا ہے۔ میں اس سے ابھی بات کر رہا ہوں۔ نہیں، سر۔ نہیں، سر۔ نہیں، ہم یہ طے نہیں کر سکتے کہ طاقت کا کون سا طریقہ استعمال کیا گیا۔ وہ بات نہیں کرے گا۔ جی، سر۔ میں اسے یہاں رکھوں گا۔ میں نے گھر کو مارشل لا کے تحت رکھا ہے ... میرے ایک دوست کا ہے، راجر اسپیلڈنگ، ٹی وی تبصرہ کرنے والا۔ راجر اسپیلڈنگ، ٹی وی ... کیا؟ اوہ، نہیں، مجھے یقین ہے کہ وہ کچھ بھی نہیں کہے گا۔ کون ... اوہ، جی، سر۔ جی، مجھے اس کی اہمیت کا احساس ہے۔ جی، میں کروں گا۔ خدا حافظ۔ (فون رکھتا ہے) امریکہ کا صدر تمہارے بارے میں سب کچھ جاننا چاہتا ہے۔"
+          },
+          {
+            "en": "KRETON: How nice of him! And I want to know all about him. But I do wish you'd let me rest a bit first. Your language is still not familiar to me. I had to learn them all, quite exhausting.",
+            "sd": "ڪريٽن: هن جي ڪيتري مهرباني آهي! ۽ مان هن بابت سڀ ڪجهه ڄاڻڻ چاهيان ٿو. پر مان چاهيان ٿو ته توهان مون کي پهريان ٿورو آرام ڪرڻ ڏيو. توهان جي ٻولي اڃا مون لاءِ واقف نه آهي. مون کي انهن سڀني کي سکڻو پيو، بلڪل ٿڪائيندڙ.",
+            "ur": "کریٹن: اس کی کتنی مہربانی ہے! اور میں اس کے بارے میں سب کچھ جاننا چاہتا ہوں۔ لیکن میں چاہتا ہوں کہ تم مجھے پہلے تھوڑا آرام کرنے دو۔ تمہاری زبان ابھی مجھ سے واقف نہیں ہے۔ مجھے ان سب کو سیکھنا پڑا، بالکل تھکا دینے والا۔"
+          },
+          {
+            "en": "POWERS: You speak all our languages?",
+            "sd": "پاورس: توهان اسان جون سڀ ٻوليون ڳالهايو ٿا؟",
+            "ur": "پاورس: تم ہماری ساری زبانیں بولتے ہو؟"
+          },
+          {
+            "en": "KRETON: Yes, all of them. But then it's easier than you might think since I can see what's inside.",
+            "sd": "ڪريٽن: ها، انهن سڀني کي. پر پوءِ اهو توهان جي سوچ کان آسان آهي ڇاڪاڻ ته مان ڏسي سگھان ٿو ته اندر ڇا آهي.",
+            "ur": "کریٹن: ہاں، ان سب کو۔ لیکن پھر یہ تمہاری سوچ سے آسان ہے کیونکہ میں دیکھ سکتا ہوں کہ اندر کیا ہے۔"
+          },
+          {
+            "en": "POWERS: Speaking of what's inside, we're going to take your ship apart.",
+            "sd": "پاورس: اندر جي ڳالهه ڪندي، اسان توهان جي جهاز کي ٽڪرا ٽڪرا ڪرڻ وارا آهيون.",
+            "ur": "پاورس: اندر کی بات کرتے ہوئے، ہم تمہارے جہاز کو ٹکڑے ٹکڑے کرنے والے ہیں۔"
+          },
+          {
+            "en": "KRETON: Oh, I wish you wouldn't.",
+            "sd": "ڪريٽن: اوهه، مان چاهيان ٿو ته توهان ائين نه ڪريو.",
+            "ur": "کریٹن: اوہ، میں چاہتا ہوں کہ تم ایسا نہ کرو۔"
+          },
+          {
+            "en": "POWERS: Security demands it.",
+            "sd": "پاورس: سلامتي اهو گهري ٿي.",
+            "ur": "پاورس: سلامتی اس کا تقاضا کرتی ہے۔"
+          },
+          {
+            "en": "KRETON: In that case my security demands you leave it alone.",
+            "sd": "ڪريٽن: ان صورت ۾ منهنجي سلامتي گهري ٿي ته توهان ان کي ڇڏي ڏيو.",
+            "ur": "کریٹن: اس صورت میں میری سلامتی تقاضا کرتی ہے کہ تم اسے چھوڑ دو۔"
+          },
+          {
+            "en": "POWERS: You plan to stop us?",
+            "sd": "پاورس: توهان اسان کي روڪڻ جو ارادو رکو ٿا؟",
+            "ur": "پاورس: تم ہمیں روکنے کا ارادہ رکھتے ہو؟"
+          },
+          {
+            "en": "KRETON: I already have ... Listen.",
+            "sd": "ڪريٽن: مان اڳي ئي ڪري چڪو آهيان ... ٻڌو.",
+            "ur": "کریٹن: میں پہلے ہی کر چکا ہوں ... سنو۔"
+          },
+          {
+            "en": "(Far-off shouting. Aide rushes into the study.)",
+            "sd": "(پري کان رڙيون. ايڊ مطالعي واري ڪمري ۾ ڊوڙي اچي ٿو.)",
+            "ur": "(دور سے چیخیں۔ ایڈ مطالعے والے کمرے میں دوڑ کر آتا ہے۔)"
+          },
+          {
+            "en": "AIDE: Something's happened to the ship, General. The door's shut and there's some kind of wall all around it, an invisible wall. We can't get near it.",
+            "sd": "ايڊ: جهاز سان ڪا شيءِ ٿي وئي آهي، جنرل. دروازو بند آهي ۽ ان جي چوڌاري ڪنهن قسم جي ديوار آهي، هڪ اڻ ڏٺل ديوار. اسان ان جي ويجهو نه ٿا وڃي سگھون.",
+            "ur": "ایڈ: جہاز کے ساتھ کچھ ہو گیا ہے، جنرل۔ دروازہ بند ہے اور اس کے چاروں طرف کسی قسم کی دیوار ہے، ایک نظر نہ آنے والی دیوار۔ ہم اس کے قریب نہیں جا سکتے۔"
+          },
+          {
+            "en": "KRETON: I hope there was no one inside.",
+            "sd": "ڪريٽن: مون کي اميد آهي ته اندر ڪو به نه هو.",
+            "ur": "کریٹن: مجھے امید ہے کہ اندر کوئی بھی نہیں تھا۔"
+          },
+          {
+            "en": "POWERS: (To Kreton) How did you do that?",
+            "sd": "پاورس: (ڪريٽن کي) توهان اهو ڪيئن ڪيو؟",
+            "ur": "پاورس: (کریٹن سے) تم نے یہ کیسے کیا؟"
+          },
+          {
+            "en": "KRETON: I couldn't begin to explain. Now if you don't mind, I think we should go in and see our hosts.",
+            "sd": "ڪريٽن: مان وضاحت ڪرڻ شروع به نه ٿي ڪري سگھان. هاڻي جيڪڏهن توهان کي اعتراض نه آهي، مان سمجھان ٿو ته اسان کي اندر وڃڻ گهرجي ۽ پنهنجي ميزبانن کي ڏسڻ گهرجي.",
+            "ur": "کریٹن: میں وضاحت کرنا شروع بھی نہیں کر سکتا۔ اب اگر تمہیں اعتراض نہیں ہے، میں سمجھتا ہوں کہ ہمیں اندر جانا چاہیے اور اپنے میزبانوں کو دیکھنا چاہیے۔"
+          },
+          {
+            "en": "(He rises, goes into living room. Powers and Aide look at each other.)",
+            "sd": "(هو اٿي ٿو، ويهڻ واري ڪمري ۾ وڃي ٿو. پاورس ۽ ايڊ هڪ ٻئي ڏانهن ڏسن ٿا.)",
+            "ur": "(وہ اٹھتا ہے، بیٹھنے والے کمرے میں جاتا ہے۔ پاورس اور ایڈ ایک دوسرے کی طرف دیکھتے ہیں۔)"
+          },
+          {
+            "en": "POWERS: Don't let him out ofyour sight.",
+            "sd": "پاورس: هن کي پنهنجي نظر کان ٻاهر نه وڃڻ ڏيو.",
+            "ur": "پاورس: اسے اپنی نظر سے باہر نہ جانے دو۔"
+          },
+          {
+            "en": "(Powers picks up phone.)",
+            "sd": "(پاورس فون کڻي ٿو.)",
+            "ur": "(پاورس فون اٹھاتا ہے۔)"
+          },
+          {
+            "en": "SCENE III",
+            "sd": "منظر ٽيون",
+            "ur": "منظر سوم"
+          },
+          {
+            "en": "(Same living room as in Scene I. Kreton is with John and Ellen.)",
+            "sd": "(ساڳيو ويهڻ وارو ڪمرو جيئن منظر پهرين ۾. ڪريٽن جان ۽ ايلن سان گڏ آهي.)",
+            "ur": "(وہی بیٹھنے والا کمرہ جیسا منظر اول میں۔ کریٹن جان اور ایلن کے ساتھ ہے۔)"
+          },
+          {
+            "en": "KRETON: I don't mind curiosity but I really can't permit them to wreck my poor ship.",
+            "sd": "ڪريٽن: مون کي تجسس تي اعتراض نه آهي پر مان واقعي انهن کي اجازت نه ٿو ڏئي سگھان ته منهنجي بيچاري جهاز کي تباهه ڪن.",
+            "ur": "کریٹن: مجھے تجسس پر اعتراض نہیں ہے لیکن میں واقعی انہیں اجازت نہیں دے سکتا کہ میرے بیچارے جہاز کو تباہ کریں۔"
+          },
+          {
+            "en": "ELLEN: What do you plan to do, now you're here?",
+            "sd": "ايلن: توهان ڇا ڪرڻ جو ارادو رکو ٿا، هاڻي جڏهن توهان هتي آهيو؟",
+            "ur": "ایلن: تم کیا کرنے کا ارادہ رکھتے ہو، اب جب تم یہاں ہو؟"
+          },
+          {
+            "en": "KRETON: Oh, keep busy. I have a project or two ... (Sighs)I can't believe you're real.",
+            "sd": "ڪريٽن: اوهه، مصروف رھو. مون وٽ هڪ يا ٻه منصوبا آهن ... (ساھھ کڻي ٿو)مان يقين نه ٿو ڪري سگھان ته توهان حقيقي آهيو.",
+            "ur": "کریٹن: اوہ، مصروف رہو۔ میرے پاس ایک یا دو منصوبے ہیں ... (سانس لیتا ہے)میں یقین نہیں کر سکتا کہ تم حقیقی ہو۔"
+          },
+          {
+            "en": "JOHN: Then, we're all in the same boat.",
+            "sd": "جان: پوءِ، اسان سڀ هڪ ئي ٻيڙي ۾ آهيون.",
+            "ur": "جان: پھر، ہم سب ایک ہی کشتی میں ہیں۔"
+          },
+          {
+            "en": "KRETON: Boat? Oh, yes! Well, I should have come ages ago but I ... I couldn't get away until yesterday.",
+            "sd": "ڪريٽن: ٻيڙي؟ اوهه، ها! خير، مون کي گهڻو اڳ اچڻ گهرجي ها پر مان ... مان ڪالهه تائين نڪري نه سگھيس.",
+            "ur": "کریٹن: کشتی؟ اوہ، ہاں! خیر، مجھے بہت پہلے آنا چاہیے تھا لیکن میں ... میں کل تک نکل نہیں سکا۔"
+          },
+          {
+            "en": "JOHN: Yesterday? It only took you a day to get here?",
+            "sd": "جان: ڪالهه؟ توهان کي هتي اچڻ ۾ صرف هڪ ڏينهن لڳو؟",
+            "ur": "جان: کل؟ تمہیں یہاں آنے میں صرف ایک دن لگا؟"
+          },
+          {
+            "en": "KRETON: One of my days, not yours. But then you don't know about time yet.",
+            "sd": "ڪريٽن: منهنجو هڪ ڏينهن، توهان جو نه. پر پوءِ توهان کي وقت بابت اڃا خبر نه آهي.",
+            "ur": "کریٹن: میرا ایک دن، تمہارا نہیں۔ لیکن پھر تمہیں وقت کے بارے میں ابھی معلوم نہیں ہے۔"
+          },
+          {
+            "en": "JOHN: Oh, you mean relativity.",
+            "sd": "جان: اوهه، توهان جو مطلب اضافيت آهي.",
+            "ur": "جان: اوہ، تمہارا مطلب اضافیت ہے۔"
+          },
+          {
+            "en": "KRETON: No, it's much more involved than that. You won't know about time until ... now let me see if I remember ... no, I don't, but it's about two thousand years.",
+            "sd": "ڪريٽن: نه، اهو ان کان گهڻو وڌيڪ پيچيده آهي. توهان کي وقت بابت خبر نه پوندي جيستائين ... هاڻي مون کي ڏسڻ ڏيو ته ڇا مون کي ياد آهي ... نه، مون کي نه آهي، پر اهو لڳ ڀڳ ٻه هزار سال آهي.",
+            "ur": "کریٹن: نہیں، یہ اس سے بہت زیادہ پیچیدہ ہے۔ تمہیں وقت کے بارے میں معلوم نہیں ہوگا جب تک ... اب مجھے دیکھنے دو کہ کیا مجھے یاد ہے ... نہیں، مجھے نہیں ہے، لیکن یہ تقریباً دو ہزار سال ہے۔"
+          },
+          {
+            "en": "JOHN: What do we do between now and then?",
+            "sd": "جان: اسان هاڻي ۽ تڏهن جي وچ ۾ ڇا ڪريون؟",
+            "ur": "جان: ہم اب اور تب کے درمیان کیا کریں؟"
+          },
+          {
+            "en": "KRETON: You simply go on the way you are, living your exciting primitive lives ... you have no idea how much fun you're having now.",
+            "sd": "ڪريٽن: توهان صرف اهڙي نموني هلندا رھو جيئن توهان آهيو، پنهنجي دلچسپ پراڻي زندگي گذاريندي ... توهان کي ڪا خبر نه آهي ته توهان هاڻي ڪيتري مزو ڪري رھيا آهيو.",
+            "ur": "کریٹن: تم صرف اسی طرح چلتے رہو جیسے تم ہو، اپنی دلچسپ قدیم زندگی گزارتے ہوئے ... تمہیں کوئی اندازہ نہیں ہے کہ تم اب کتنا مزہ کر رہے ہو۔"
+          },
+          {
+            "en": "ELLEN: I hope you'll stay with us while you're here.",
+            "sd": "ايلن: مون کي اميد آهي ته توهان اسان سان گڏ رھندؤ جڏهن توهان هتي آهيو.",
+            "ur": "ایلن: مجھے امید ہے کہ تم ہمارے ساتھ رہو گے جب تم یہاں ہو۔"
+          },
+          {
+            "en": "KRETON: That's very nice of you. Perhaps I will. Though I'm sure you'll get tired ofhaving a visitor under foot all the time.",
+            "sd": "ڪريٽن: اهو توهان جي تمام گهڻي مهرباني آهي. شايد مان رھندس. جيتوڻيڪ مون کي پڪ آهي ته توهان هر وقت پيرن هيٺان مهمان کان ٿڪجي ويندؤ.",
+            "ur": "کریٹن: یہ تمہاری بہت مہربانی ہے۔ شاید میں رہوں گا۔ اگرچہ مجھے یقین ہے کہ تم ہر وقت پیروں کے نیچے مہمان سے تھک جاؤ گے۔"
+          },
+          {
+            "en": "ELLEN: Certainly not. And Daddy will be deliriously happy. He can interview you by the hour.",
+            "sd": "ايلن: بلڪل نه. ۽ ڊيڊي تمام گهڻو خوش ٿيندو. هو هر ڪلاڪ توهان جو انٽرويو وٺي سگھي ٿو.",
+            "ur": "ایلن: بالکل نہیں۔ اور ڈیڈی بہت خوش ہوگا۔ وہ ہر گھنٹے تمہارا انٹرویو لے سکتا ہے۔"
+          },
+          {
+            "en": "JOHN: What's it like in outer space?",
+            "sd": "جان: ٻاهرين خلا ۾ ڪهڙو حال آهي؟",
+            "ur": "جان: بیرونی خلا میں کیسا حال ہے؟"
+          },
+          {
+            "en": "KRETON: Dull.",
+            "sd": "ڪريٽن: بور ڪندڙ.",
+            "ur": "کریٹن: بور کرنے والا۔"
+          },
+          {
+            "en": "ELLEN: I should think it would be divine!",
+            "sd": "ايلن: مون کي لڳي ٿو ته اهو خدائي هوندو!",
+            "ur": "ایلن: مجھے لگتا ہے کہ وہ خدائی ہوگا!"
+          },
+          {
+            "en": "(Powers enters.)",
+            "sd": "(پاورس اندر اچي ٿو.)",
+            "ur": "(پاورس اندر آتا ہے۔)"
+          },
+          {
+            "en": "KRETON: No, General, it won't work.",
+            "sd": "ڪريٽن: نه، جنرل، اهو ڪم نه ڪندو.",
+            "ur": "کریٹن: نہیں، جنرل، یہ کام نہیں کرے گا۔"
+          },
+          {
+            "en": "POWERS: What won't work?",
+            "sd": "پاورس: ڇا ڪم نه ڪندو؟",
+            "ur": "پاورس: کیا کام نہیں کرے گا؟"
+          },
+          {
+            "en": "KRETON: Trying to blow up my little force field. You'll just plough up Mrs. Spelding's garden.",
+            "sd": "ڪريٽن: منهنجي ننڍڙي قوت واري ميدان کي اڏائڻ جي ڪوشش ڪري رھيا آهيو. توهان صرف مسز اسپيلڊنگ جي باغ کي کيڙي ڇڏيندؤ.",
+            "ur": "کریٹن: میرے چھوٹے قوت والے میدان کو اڑانے کی کوشش کر رہے ہو۔ تم صرف مسز اسپیلڈنگ کے باغ کو کھود دو گے۔"
+          },
+          {
+            "en": "(Powers snarls and goes into study)",
+            "sd": "(پاورس غصي سان رڙ ڪري ٿو ۽ مطالعي واري ڪمري ۾ وڃي ٿو)",
+            "ur": "(پاورس غصے سے گرجتا ہے اور مطالعے والے کمرے میں جاتا ہے)"
+          },
+          {
+            "en": "ELLEN: Can you tell what we're all thinking?",
+            "sd": "ايلن: ڇا توهان ٻڌائي سگھو ٿا ته اسان سڀ ڇا سوچي رھيا آهيون؟",
+            "ur": "ایلن: کیا تم بتا سکتے ہو کہ ہم سب کیا سوچ رہے ہیں؟"
+          },
+          {
+            "en": "KRETON: Yes. As a matter of fact, it makes me a bit giddy. Your minds are not at all like ours. You see we control our thoughts while you ... well, it's extraordinary the things you think about!",
+            "sd": "ڪريٽن: ها. حقيقت ۾، اهو مون کي ٿورو چڪرائي ٿو. توهان جا ذهن اسان جي ذهنن جهڙا بلڪل نه آهن. توهان ڏسو ٿا ته اسان پنهنجن خيالن کي قابو ڪريون ٿا جڏهن ته توهان ... خير، اهو غير معمولي آهي جيڪي شيون توهان سوچيو ٿا!",
+            "ur": "کریٹن: ہاں۔ درحقیقت، یہ مجھے تھوڑا چکرا دیتا ہے۔ تمہارے ذہن ہمارے ذہنوں جیسے بالکل نہیں ہیں۔ تم دیکھتے ہو کہ ہم اپنے خیالات کو قابو کرتے ہیں جبکہ تم ... خیر، یہ غیر معمولی ہے جو چیزیں تم سوچتے ہو!"
+          },
+          {
+            "en": "ELLEN: Oh, how awful you can tell everything we think?",
+            "sd": "ايلن: اوهه، ڪيتري خراب ڳالهه آهي ته توهان هر شيءِ ٻڌائي سگھو ٿا جيڪا اسان سوچيون ٿا؟",
+            "ur": "ایلن: اوہ، کتنی خراب بات ہے کہ تم ہر چیز بتا سکتے ہو جو ہم سوچتے ہیں؟"
+          },
+          {
+            "en": "KRETON: Everything! It's one of the reasons I'm here, to intoxicate myself with your primitive minds ... with the wonderful rawness of your emotions! You have no idea how it excites me! You simply seethe with unlikely emotions.",
+            "sd": "ڪريٽن: هر شيءِ! اهو انهن سببن مان هڪ آهي جو مان هتي آهيان، توهان جي پراڻي ذهنن سان پاڻ کي نشي ۾ وجهڻ لاءِ ... توهان جي جذبن جي شاندار خاموشي سان! توهان کي ڪا خبر نه آهي ته اهو مون کي ڪيتري جوش ڏي ٿو! توهان صرف ناممڪن جذبن سان ٽهڪي رھيا آهيو.",
+            "ur": "کریٹن: ہر چیز! یہ ان وجوہات میں سے ایک ہے جو میں یہاں ہوں، تمہارے قدیم ذہنوں سے خود کو نشے میں ڈالنے کے لیے ... تمہارے جذبات کی شاندار خاموشی کے ساتھ! تمہیں کوئی اندازہ نہیں ہے کہ یہ مجھے کتنا جوش دیتا ہے! تم صرف ناممکن جذبات سے ابل رہے ہو۔"
+          },
+          {
+            "en": "ELLEN: I've never felt so sordid.",
+            "sd": "ايلن: مون ڪڏهن به ايتري گندي محسوس نه ڪئي آهي.",
+            "ur": "ایلن: میں نے کبھی اتنی گندی محسوس نہیں کی ہے۔"
+          },
+          {
+            "en": "JOHN: From now on I'm going to think about agriculture.",
+            "sd": "جان: هاڻي کان مان زراعت بابت سوچڻ وارو آهيان.",
+            "ur": "جان: اب سے میں زراعت کے بارے میں سوچنے والا ہوں۔"
+          },
+          {
+            "en": "SPELDING: (Entering)You would.",
+            "sd": "اسپيلڊنگ: (اندر اچي ٿو)توهان ائين ڪندؤ.",
+            "ur": "اسپیلڈنگ: (اندر آتا ہے)تم ایسا کرو گے۔"
+          },
+          {
+            "en": "ELLEN: Daddy!",
+            "sd": "ايلن: ڊيڊي!",
+            "ur": "ایلن: ڈیڈی!"
+          },
+          {
+            "en": "KRETON: No, no. You must go right on thinking about Ellen. Such wonderfully purple thoughts!",
+            "sd": "ڪريٽن: نه، نه. توهان کي ايلن بابت سوچڻ جاري رکڻ گهرجي. اهڙا شاندار جامني خيال!",
+            "ur": "کریٹن: نہیں، نہیں۔ تمہیں ایلن کے بارے میں سوچنا جاری رکھنا چاہیے۔ ایسے شاندار جامنی خیالات!"
+          },
+          {
+            "en": "SPELDING: Now see here, Powers, you're carrying this martial law thing too far...",
+            "sd": "اسپيلڊنگ: هاڻي هتي ڏسو، پاورس، توهان هن مارشل لا واري ڳالهه کي تمام گهڻو پري وٺي وڃي رھيا آهيو...",
+            "ur": "اسپیلڈنگ: اب یہاں دیکھو، پاورس، تم اس مارشل لا والی بات کو بہت زیادہ آگے لے جا رہے ہو..."
+          },
+          {
+            "en": "POWERS: Unfortunately, until I have received word from Washington as to the final disposition of this problem, you must obey my orders: no telephone calls, no communication with the outside.",
+            "sd": "پاورس: بدقسمتي سان، جيستائين مون کي واشنگٽن کان هن مسئلي جي آخري فيصلي بابت خبر نه ملي آهي، توهان کي منهنجا حڪم مڃڻا پوندا: ڪا به ٽيليفون ڪال نه، ٻاهر سان ڪو به رابطو نه.",
+            "ur": "پاورس: بدقسمتی سے، جب تک مجھے واشنگٹن سے اس مسئلے کے آخری فیصلے کے بارے میں خبر نہیں ملی ہے، تمہیں میرے حکم ماننے ہوں گے: کوئی ٹیلی فون کال نہیں، باہر سے کوئی رابطہ نہیں۔"
+          },
+          {
+            "en": "SPELDING: This is unsupportable.",
+            "sd": "اسپيلڊنگ: هي برداشت نه ٿو ڪري سگھجي.",
+            "ur": "اسپیلڈنگ: یہ برداشت نہیں کیا جا سکتا۔"
+          },
+          {
+            "en": "KRETON: Poor Mr. Spelding! If you like, I shall go. That would solve everything, wouldn't it?",
+            "sd": "ڪريٽن: بيچارو مسٽر اسپيلڊنگ! جيڪڏهن توهان چاهيو ٿا، مان هليو ويندس. اهو هر شيءِ حل ڪري ڇڏيندو، نه؟",
+            "ur": "کریٹن: بیچارے مسٹر اسپیلڈنگ! اگر تم چاہو تو، میں چلا جاؤں گا۔ یہ ہر چیز حل کر دے گا، ہے نا؟"
+          },
+          {
+            "en": "POWERS: You're not going anywhere, Mr. Kreton, until I've had my instructions.",
+            "sd": "پاورس: توهان ڪٿي به نه ٿا وڃو، مسٽر ڪريٽن، جيستائين مون کي منهنجون هدايتون نه ملن.",
+            "ur": "پاورس: تم کہیں بھی نہیں جا رہے ہو، مسٹر کریٹن، جب تک مجھے میری ہدایات نہ ملیں۔"
+          },
+          {
+            "en": "KRETON: I sincerely doubt if you could stop me. However, I put it up to Mr. Spelding. Shall I go?",
+            "sd": "ڪريٽن: مون کي خلوص سان شڪ آهي ته توهان مون کي روڪي سگھو ٿا. البته، مان اهو مسٽر اسپيلڊنگ تي ڇڏيان ٿو. ڇا مان وڃان؟",
+            "ur": "کریٹن: مجھے خلوص سے شک ہے کہ تم مجھے روک سکتے ہو۔ تاہم، میں یہ مسٹر اسپیلڈنگ پر چھوڑتا ہوں۔ کیا میں جاؤں؟"
+          },
+          {
+            "en": "SPELDING: Yes! (Powers gestures a warning) Do stay, I mean, we want you to get a good impression of us ...",
+            "sd": "اسپيلڊنگ: ها! (پاورس خبردار ڪرڻ جو اشارو ڪري ٿو) رھو، منهنجو مطلب آهي، اسان چاهيون ٿا ته توهان اسان بابت سٺو تاثر حاصل ڪريو ...",
+            "ur": "اسپیلڈنگ: ہاں! (پاورس خبردار کرنے کا اشارہ کرتا ہے) رہو، میرا مطلب ہے، ہم چاہتے ہیں کہ تم ہمارے بارے میں اچھا تاثر حاصل کرو ..."
+          },
+          {
+            "en": "KRETON: And of course you still want to be the first journalist to interview me. Fair enough. All right, I'll stay on for a while.",
+            "sd": "ڪريٽن: ۽ بلڪل توهان اڃا به پهريون صحافي ٿيڻ چاهيو ٿا جيڪو منهنجو انٽرويو وٺي. بلڪل ٺيڪ آهي. ٺيڪ آهي، مان ڪجهه دير لاءِ رھندس.",
+            "ur": "کریٹن: اور بالکل تم اب بھی پہلے صحافی بننا چاہتے ہو جو میرا انٹرویو لے۔ بالکل ٹھیک ہے۔ ٹھیک ہے، میں کچھ دیر کے لیے رہوں گا۔"
+          },
+          {
+            "en": "POWERS: Thank you.",
+            "sd": "پاورس: مهرباني.",
+            "ur": "پاورس: شکریہ۔"
+          },
+          {
+            "en": "KRETON: Don't mention it.",
+            "sd": "ڪريٽن: ان جو ذڪر نه ڪريو.",
+            "ur": "کریٹن: اس کا ذکر نہ کرو۔"
+          },
+          {
+            "en": "SPELDING: General, may I ask our guest a few questions?",
+            "sd": "اسپيلڊنگ: جنرل، ڇا مان پنهنجي مهمان کان ڪجهه سوال پڇي سگھان ٿو؟",
+            "ur": "اسپیلڈنگ: جنرل، کیا میں اپنے مہمان سے چند سوالات پوچھ سکتا ہوں؟"
+          },
+          {
+            "en": "POWERS: Go right ahead, Roger. I hope you'll do better than I did.",
+            "sd": "پاورس: بلڪل اڳتي وڌو، راجر. مون کي اميد آهي ته توهان مون کان بهتر ڪندؤ.",
+            "ur": "پاورس: بالکل آگے بڑھو، راجر۔ مجھے امید ہے کہ تم مجھ سے بہتر کرو گے۔"
+          },
+          {
+            "en": "SPELDING: Since you read our minds, you probably already know what our fears are.",
+            "sd": "اسپيلڊنگ: جيئن ته توهان اسان جا ذهن پڙهو ٿا، توهان کي شايد اڳي ئي خبر آهي ته اسان جا ڊپ ڇا آهن.",
+            "ur": "اسپیلڈنگ: چونکہ تم ہمارے ذہن پڑھتے ہو، تمہیں شاید پہلے سے معلوم ہے کہ ہمارے خوف کیا ہیں۔"
+          },
+          {
+            "en": "KRETON: I do, yes.",
+            "sd": "ڪريٽن: مون کي خبر آهي، ها.",
+            "ur": "کریٹن: مجھے معلوم ہے، ہاں۔"
+          },
+          {
+            "en": "SPELDING: We are afraid that you represent a hostile race.",
+            "sd": "اسپيلڊنگ: اسان کي ڊپ آهي ته توهان دشمن قوم جي نمائندگي ڪريو ٿا.",
+            "ur": "اسپیلڈنگ: ہمیں ڈر ہے کہ تم دشمن قوم کی نمائندگی کرتے ہو۔"
+          },
+          {
+            "en": "KRETON: And I have assured General Powers that my people are not remotely hostile. Except for me, no one is interested in this planet's present stage.",
+            "sd": "ڪريٽن: ۽ مون جنرل پاورس کي يقين ڏياريو آهي ته منهنجي قوم بلڪل دشمن نه آهي. مون کان سواءِ، ڪو به هن سياري جي موجوده مرحلي ۾ دلچسپي نه ٿو رکي.",
+            "ur": "کریٹن: اور میں نے جنرل پاورس کو یقین دلایا ہے کہ میری قوم بالکل دشمن نہیں ہے۔ میرے سوا، کوئی بھی اس سیارے کے موجودہ مرحلے میں دلچسپی نہیں رکھتا۔"
+          },
+          {
+            "en": "SPELDING: Does this mean you might be interested in a later stage?",
+            "sd": "اسپيلڊنگ: ڇا ان جو مطلب آهي ته توهان شايد بعد واري مرحلي ۾ دلچسپي رکندا؟",
+            "ur": "اسپیلڈنگ: کیا اس کا مطلب ہے کہ تم شاید بعد والے مرحلے میں دلچسپی رکھو گے؟"
+          },
+          {
+            "en": "KRETON: I'm not permitted to discuss your future. Of course my friends think me perverse to be interested in a primitive society but there's no accounting for tastes, is there? You are my hobby. I love you. And that's all there is to it.",
+            "sd": "ڪريٽن: مون کي توهان جي مستقبل تي بحث ڪرڻ جي اجازت نه آهي. بلڪل منهنجا دوست مون کي ضد سمجھن ٿا ته مان پراڻي سماج ۾ دلچسپي رکان ٿو پر ذوقن جو ڪو حساب نه آهي، آهي نه؟ توهان منهنجو شوق آهيو. مان توهان کي پيار ڪريان ٿو. ۽ اهو ئي سڀ ڪجهه آهي.",
+            "ur": "کریٹن: مجھے تمہارے مستقبل پر بحث کرنے کی اجازت نہیں ہے۔ بالکل میرے دوست مجھے ضد سمجھتے ہیں کہ میں قدیم معاشرے میں دلچسپی رکھتا ہوں لیکن ذوق کا کوئی حساب نہیں ہے، ہے نا؟ تم میرا شوق ہو۔ میں تم سے پیار کرتا ہوں۔ اور یہی سب کچھ ہے۔"
+          },
+          {
+            "en": "POWERS: So you're just here to look around ... sort of going native.",
+            "sd": "پاورس: ته توهان صرف هتي ڏسڻ لاءِ آهيو ... هڪ قسم جو مقامي ٿيڻ.",
+            "ur": "پاورس: تو تم صرف یہاں دیکھنے کے لیے ہو ... ایک قسم کا مقامی بننا۔"
+          },
+          {
+            "en": "KRETON: What a nice expression! That's it exactly. I am going native.",
+            "sd": "ڪريٽن: ڪهڙو سٺو اظهار آهي! اهو بلڪل اهو ئي آهي. مان مقامي ٿي رھيو آهيان.",
+            "ur": "کریٹن: کیا اچھا اظہار ہے! یہ بالکل وہی ہے۔ میں مقامی بن رہا ہوں۔"
+          },
+          {
+            "en": "POWERS: (Grimly) Well, it is my view that you have been sent here by another civilization for the express purpose of reconnoitring prior to invasion.",
+            "sd": "پاورس: (سخت انداز ۾) خير، منهنجو خيال آهي ته توهان کي ٻئي تهذيب طرفان هتي موڪليو ويو آهي حملي کان اڳ جاسوسي ڪرڻ جي خاص مقصد لاءِ.",
+            "ur": "پاورس: (سخت انداز میں) خیر، میرا خیال ہے کہ تمہیں دوسری تہذیب کی طرف سے یہاں بھیجا گیا ہے حملے سے پہلے جاسوسی کرنے کے خاص مقصد کے لیے۔"
+          },
+          {
+            "en": "KRETON: That would be your view! The wonderfully primitive assumption that all strangers are hostile. You're almost too good to be true, General.",
+            "sd": "ڪريٽن: اهو توهان جو خيال هوندو! شاندار پراڻو مفروضو ته سڀ اجنبي دشمن آهن. توهان لڳ ڀڳ ايترا سٺا آهيو جو سچ نه ٿو لڳي، جنرل.",
+            "ur": "کریٹن: یہ تمہارا خیال ہوگا! شاندار قدیم مفروضہ کہ تمام اجنبی دشمن ہیں۔ تم تقریباً اتنے اچھے ہو کہ سچ نہیں لگتا، جنرل۔"
+          },
+          {
+            "en": "POWERS: You deny your people intend to make trouble for us?",
+            "sd": "پاورس: توهان انڪار ڪريو ٿا ته توهان جي قوم اسان لاءِ مصيبت پيدا ڪرڻ جو ارادو رکي ٿي؟",
+            "ur": "پاورس: تم انکار کرتے ہو کہ تمہاری قوم ہمارے لیے مصیبت پیدا کرنے کا ارادہ رکھتی ہے؟"
+          },
+          {
+            "en": "KRETON: I deny it.",
+            "sd": "ڪريٽن: مان انڪار ڪريان ٿو.",
+            "ur": "کریٹن: میں انکار کرتا ہوں۔"
+          },
+          {
+            "en": "POWERS: Then, are they interested in establishing communication with us? Trade? That kind of thing?",
+            "sd": "پاورس: پوءِ، ڇا اهي اسان سان رابطو قائم ڪرڻ ۾ دلچسپي رکن ٿا؟ واپار؟ ان قسم جي شيءِ؟",
+            "ur": "پاورس: پھر، کیا وہ ہم سے رابطہ قائم کرنے میں دلچسپی رکھتے ہیں؟ تجارت؟ اس قسم کی چیز؟"
+          },
+          {
+            "en": "KRETON: We have always had communication with you. As for trade, well, we do not trade ... that is something peculiar only to your social level. (Quickly) Which I'm not criticizing! As you know, I approve of everything you do.",
+            "sd": "ڪريٽن: اسان جو توهان سان هميشه رابطو رھيو آهي. واپار جي ڳالهه ڪندي، خير، اسان واپار نه ڪندا آهيون ... اهو ڪا شيءِ آهي جيڪا صرف توهان جي سماجي سطح لاءِ خاص آهي. (جلدي) جنهن تي مان تنقيد نه ٿو ڪريان! جيئن توهان ڄاڻو ٿا، مان هر شيءِ کي منظور ڪريان ٿو جيڪا توهان ڪريو ٿا.",
+            "ur": "کریٹن: ہمارا تم سے ہمیشہ رابطہ رہا ہے۔ تجارت کی بات کرتے ہوئے، خیر، ہم تجارت نہیں کرتے ... یہ کوئی چیز ہے جو صرف تمہاری سماجی سطح کے لیے خاص ہے۔ (جلدی) جس پر میں تنقید نہیں کر رہا ہوں! جیسا کہ تم جانتے ہو، میں ہر چیز کو منظور کرتا ہوں جو تم کرتے ہو۔"
+          },
+          {
+            "en": "POWERS: I give up.",
+            "sd": "پاورس: مان هار مڃان ٿو.",
+            "ur": "پاورس: میں ہار مانتا ہوں۔"
+          },
+          {
+            "en": "SPELDING: You have no interest then in ... Well, trying to dominate the earth.",
+            "sd": "اسپيلڊنگ: توهان کي پوءِ ڪا دلچسپي نه آهي ... خير، ڌرتي تي غلبو حاصل ڪرڻ جي ڪوشش ۾.",
+            "ur": "اسپیلڈنگ: تمہیں پھر کوئی دلچسپی نہیں ہے ... خیر، زمین پر غلبہ حاصل کرنے کی کوشش میں۔"
+          },
+          {
+            "en": "KRETON: Oh, yes!",
+            "sd": "ڪريٽن: اوهه، ها!",
+            "ur": "کریٹن: اوہ، ہاں!"
+          },
+          {
+            "en": "POWERS: I thought you just said your people weren't interested in us.",
+            "sd": "پاورس: مون سمجھيو ته توهان اڃا چيو ته توهان جي قوم کي اسان ۾ دلچسپي نه آهي.",
+            "ur": "پاورس: میں نے سوچا کہ تم نے ابھی کہا کہ تمہاری قوم کو ہم میں دلچسپی نہیں ہے۔"
+          },
+          {
+            "en": "KRETON: They're not, but I am.",
+            "sd": "ڪريٽن: انهن کي نه آهي، پر مون کي آهي.",
+            "ur": "کریٹن: انہیں نہیں ہے، لیکن مجھے ہے۔"
+          },
+          {
+            "en": "POWERS: You!",
+            "sd": "پاورس: توهان!",
+            "ur": "پاورس: تم!"
+          },
+          {
+            "en": "KRETON: Me ... I mean I. You see I've come here to take charge.",
+            "sd": "ڪريٽن: مان ... منهنجو مطلب مان. توهان ڏسو ٿا ته مان هتي قبضو ڪرڻ لاءِ آيو آهيان.",
+            "ur": "کریٹن: میں ... میرا مطلب میں۔ تم دیکھتے ہو کہ میں یہاں قبضہ کرنے کے لیے آیا ہوں۔"
+          },
+          {
+            "en": "POWERS: Of the United States?",
+            "sd": "پاورس: آمريڪا جو؟",
+            "ur": "پاورس: امریکہ کا؟"
+          },
+          {
+            "en": "KRETON: No, of the whole world. I'm sure you'll be much happier and it will be great fun for me. You'll get used to it in no time.",
+            "sd": "ڪريٽن: نه، سڄي دنيا جو. مون کي پڪ آهي ته توهان تمام گهڻو خوش ٿيندؤ ۽ اهو منهنجي لاءِ وڏو مزو هوندو. توهان کي ان جي عادت ڪا به دير نه ٿيندي.",
+            "ur": "کریٹن: نہیں، ساری دنیا کا۔ مجھے یقین ہے کہ تم بہت خوش ہو گے اور یہ میرے لیے بہت مزہ ہوگا۔ تمہیں اس کی عادت کوئی دیر نہیں لگے گی۔"
+          },
+          {
+            "en": "POWERS: This is ridiculous. How can one man take over the world?",
+            "sd": "پاورس: هي مضحڪه خيز آهي. هڪ ماڻهو دنيا تي ڪيئن قبضو ڪري سگھي ٿو؟",
+            "ur": "پاورس: یہ مضحکہ خیز ہے۔ ایک آدمی دنیا پر کیسے قبضہ کر سکتا ہے؟"
+          },
+          {
+            "en": "KRETON: (Gaily) Wait and see!",
+            "sd": "ڪريٽن: (خوشي سان) انتظار ڪريو ۽ ڏسو!",
+            "ur": "کریٹن: (خوشی سے) انتظار کرو اور دیکھو!"
+          },
+          {
+            "en": "POWERS: (To Aide) Grab him!",
+            "sd": "پاورس: (ايڊ کي) هن کي پڪڙيو!",
+            "ur": "پاورس: (ایڈ سے) اسے پکڑو!"
+          },
+          {
+            "en": "(Powers and Aide rush Kreton but within a foot of him, they stop, stunned.)",
+            "sd": "(پاورس ۽ ايڊ ڪريٽن ڏانهن ڊوڙن ٿا پر هن کان هڪ فوٽ جي فاصلي تي، اهي رڪجي وڃن ٿا، حيران ٿي.)",
+            "ur": "(پاورس اور ایڈ کریٹن کی طرف دوڑتے ہیں لیکن اس سے ایک فٹ کے فاصلے پر، وہ رک جاتے ہیں، حیران ہو کر۔)"
+          },
+          {
+            "en": "KRETON: You can't touch me. That's part of the game. (He yawns) Now, if you don't mind, I shall go up to my room for a little lie-down.",
+            "sd": "ڪريٽن: توهان مون کي ڇهي نه ٿا سگھو. اهو راند جو حصو آهي. (هو ڄائي ٿو) هاڻي، جيڪڏهن توهان کي اعتراض نه آهي، مان پنهنجي ڪمري ۾ مٿي وڃي ٿورو آرام ڪندس.",
+            "ur": "کریٹن: تم مجھے چھو نہیں سکتے۔ یہ کھیل کا حصہ ہے۔ (وہ جمائی لیتا ہے) اب، اگر تمہیں اعتراض نہیں ہے، میں اپنے کمرے میں اوپر جا کر تھوڑا آرام کروں گا۔"
+          },
+          {
+            "en": "SPELDING: I'll show you the way.",
+            "sd": "اسپيلڊنگ: مان توهان کي رستو ڏيکاريندس.",
+            "ur": "اسپیلڈنگ: میں تمہیں راستہ دکھاؤں گا۔"
+          },
+          {
+            "en": "KRETON: That's all right. I know the way. (Touches his brow) Such savage thoughts! My head is vibrating like a drum. I feel quite giddy, all of you thinking away. (He starts to the door; he pauses beside Mrs. Spelding) No, it's not a dream, dear lady. I shall be here in the morning when you wake up. And now good night, dear, wicked children.... (He goes out)",
+            "sd": "ڪريٽن: اهو ٺيڪ آهي. مون کي رستو خبر آهي. (پنهنجي پيشاني کي ڇهي ٿو) اهڙا وحشي خيال! منهنجو مٿو ڍول وانگر وڄي رھيو آهي. مون کي بلڪل چڪر اچي رھيو آهي، توهان سڀ سوچي رھيا آهيو. (هو دروازي ڏانهن وڃڻ شروع ڪري ٿو؛ هو مسز اسپيلڊنگ جي ڀرسان رڪجي ٿو) نه، اهو خواب نه آهي، پياري عورت. مان صبح جو هتي هوندس جڏهن توهان جاڳندؤ. ۽ هاڻي شب بخير، پيارا، شرارتي ٻارڙا.... (هو ٻاهر وڃي ٿو)",
+            "ur": "کریٹن: یہ ٹھیک ہے۔ مجھے راستہ معلوم ہے۔ (اپنی پیشانی کو چھوتا ہے) ایسے وحشی خیالات! میرا سر ڈھول کی طرح بج رہا ہے۔ مجھے بالکل چکر آ رہا ہے، تم سب سوچ رہے ہو۔ (وہ دروازے کی طرف جانا شروع کرتا ہے؛ وہ مسز اسپیلڈنگ کے پاس رک جاتا ہے) نہیں، یہ خواب نہیں ہے، پیاری خاتون۔ میں صبح یہاں ہوں گا جب تم جاگو گے۔ اور اب شب بخیر، پیارے، شرارتی بچو.... (وہ باہر جاتا ہے)"
+          },
+          {
+            "en": "CURTAIN",
+            "sd": "پردو",
+            "ur": "پردہ"
+          }
+        ]
+      }
+    ],
     "mathsolutions": [
       {
         "display": "Complex Numbers",
