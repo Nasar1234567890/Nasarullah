@@ -20628,6 +20628,671 @@ STUDY.vii = {
         "display": "Rafia's Wedding"
       }
     ],
+    "lessonTexts": [
+      {
+        "bookPages": "2-5",
+        "lesson": "Can we do anything?",
+        "paragraphs": [
+          {
+            "en": "'Eeeeeng! Ali jumped out of his bed at the sound of the alarm clock and excitedly got ready for school. He was eager to meet all his classmates and teachers after the long summer vacations. He was excited about going to his science classes. He enjoyed doing experiments during the science lessons. He was also enthusiastic to participate in the different social campaigns that his social studies teacher got them involved in.",
+            "sd": "''ٽرن ٽرن!'' الارم گھڙيال جي آواز تي علي بستري مان ٽپو ڏئي اٿي بيٺو ۽ خوشيءَ سان اسڪول وڃڻ جي تياري ڪئي. ڊگھين اونهاري جي موڪلن کان پوءِ هو پنهنجن سڀني هم جماعتن ۽ استادن سان ملڻ واسطي بي تاب هو. هو پنهنجي سائنس جي ڪلاسن ۾ وڃڻ تي ڏاڍو خوش هو. سائنس جي سبقن دوران کيس تجربا ڪرڻ ۾ مزو ايندو هو. هو انهن مختلف سماجي مهمن ۾ به جوش سان حصو وٺڻ چاهيندو هو، جن ۾ سندس سماجي اڀياس جي استاد کين شامل ڪيو هو.",
+            "ur": "''ٹرن ٹرن!'' الارم گھڑی کی آواز پر علی بستر سے کود کر اٹھا اور خوشی سے اسکول جانے کی تیاری کی۔ لمبی گرمیوں کی چھٹیوں کے بعد وہ اپنے تمام ہم جماعتوں اور اساتذہ سے ملنے کے لیے بے تاب تھا۔ وہ اپنی سائنس کی کلاسوں میں جانے پر بہت خوش تھا۔ سائنس کے اسباق کے دوران اسے تجربے کرنے میں مزہ آتا تھا۔ وہ ان مختلف سماجی مہموں میں بھی جوش سے حصہ لینا چاہتا تھا جن میں اس کے سماجی علوم کے استاد نے انہیں شامل کیا تھا۔"
+          },
+          {
+            "en": "While he was rushing down the stairs from his flat on the fourth floor, the blue school van honked continuously. He hurriedly got into the van. He greeted the driver uncle and all his van friends. He sat next to his best friend, Saleem, and both of them exchanged greetings with a warm smile.",
+            "sd": "جڏهن هو پنهنجي فليٽ جي چوٿين منزل تان ڏاڪڻيون تڪڙو تڪڙو لٿو پئي، تڏهن نيري اسڪول وين مسلسل هارن وڄائي رھي هئي. هو جلدي سان وين ۾ سوار ٿي ويو. هن ڊرائيور چاچا ۽ پنهنجن سڀني وين وارن دوستن کي سلام ڪيو. هو پنهنجي بهترين دوست سليم جي ڀرسان ويھي رھيو ۽ ٻنهي گرمجوشيءَ سان هڪ ٻئي کي سلام ڪيو.",
+            "ur": "جب وہ اپنے فلیٹ کی چوتھی منزل سے سیڑھیاں جلدی جلدی اتر رہا تھا تو نیلی اسکول وین مسلسل ہارن بجا رہی تھی۔ وہ جلدی سے وین میں سوار ہو گیا۔ اس نے ڈرائیور انکل اور اپنے تمام وین والے دوستوں کو سلام کیا۔ وہ اپنے بہترین دوست سلیم کے پاس بیٹھ گیا اور دونوں نے گرم جوشی سے ایک دوسرے کو سلام کیا۔"
+          },
+          {
+            "en": "Soon, they started sharing all the things they had done during the vacations. Occasionally, they were interrupted by loud power horns of vehicles passing by, or by the sudden coughing of a student in the van due to the fumes from the vehicles, which were entering the van through the windows. Finally, they reached their school. All the students got off the van and entered the school gate in a queue.",
+            "sd": "جلد ئي هنن موڪلن دوران ڪيل سڀ ڳالھيون هڪ ٻئي سان ونڊڻ شروع ڪيون. ڪڏهن ڪڏهن لنگھندڙ واهن جا زوردار هارن، يا گاڏين جي دونھون سبب وين ۾ هڪ شاگرد جي اوچتي کنگھڻ ڪري سندن ڳالھه ۾ خلل پوندو هو؛ اهو دونھون درين مان وين جي اندر اچي رھيو هو. آخرڪار هو پنهنجي اسڪول پھچي ويا. سڀئي شاگرد وين مان لٿا ۽ قطار ۾ اسڪول جي دروازي مان اندر ويا.",
+            "ur": "جلد ہی انہوں نے چھٹیوں کے دوران کی ہوئی سب باتیں ایک دوسرے سے بانٹنا شروع کر دیں۔ کبھی کبھی گزرتی ہوئی گاڑیوں کے زوردار ہارن، یا گاڑیوں کے دھوئیں کی وجہ سے وین میں ایک طالب علم کے اچانک کھانسنے سے ان کی بات چیت میں خلل پڑتا تھا؛ وہ دھواں کھڑکیوں سے وین کے اندر آ رہا تھا۔ آخر کار وہ اپنے اسکول پہنچ گئے۔ تمام طلبہ وین سے اترے اور قطار میں اسکول کے دروازے سے اندر گئے۔"
+          },
+          {
+            "en": "Ali and Saleem sat in the first row, as usual, and eagerly waited for Ms. Sana Arif, their Social Studies teacher. Both of them took out their Social Studies books and put them on their desks while they were waiting for the teacher. Finally, she entered the classroom with her usual smile. She greeted all the students and asked them how they were. She asked them about their holidays. She also asked them if they had visited any places and what they had learnt from their visits.",
+            "sd": "علي ۽ سليم، معمول موجب، اڳين قطار ۾ ويٺا ۽ پنهنجي سماجي اڀياس جي استاد مس ثنا عارف جو بي صبريءَ سان انتظار ڪرڻ لڳا. ٻنهي پنهنجا سماجي اڀياس جا ڪتاب ڪڍي ميزن تي رکيا، جڏهن هو استاد جي انتظار ۾ هئا. آخرڪار هوءَ پنهنجي معمول واري مرڪ سان ڪلاس روم ۾ داخل ٿي. هن سڀني شاگردن کي سلام ڪيو ۽ پڇيو ته هو ڪيئن آهن. هن کانئن سندن موڪلن بابت پڇيو. هن اهو به پڇيو ته ڇا هو ڪٿي گھمڻ ويا هئا ۽ پنهنجي گھمڻ مان هنن ڇا سکيو هو.",
+            "ur": "علی اور سلیم معمول کے مطابق پہلی قطار میں بیٹھ گئے اور اپنی سماجی علوم کی استاد مس ثنا عارف کا بے صبری سے انتظار کرنے لگے۔ دونوں نے اپنی سماجی علوم کی کتابیں نکال کر میزوں پر رکھ دیں جب وہ استاد کا انتظار کر رہے تھے۔ آخر کار وہ اپنی معمول کی مسکراہٹ کے ساتھ کلاس روم میں داخل ہوئیں۔ انہوں نے تمام طلبہ کو سلام کیا اور پوچھا کہ وہ کیسے ہیں۔ انہوں نے ان سے ان کی چھٹیوں کے بارے میں پوچھا۔ انہوں نے یہ بھی پوچھا کہ کیا وہ کسی جگہ گھومنے گئے تھے اور اپنے دوروں سے انہوں نے کیا سیکھا تھا۔"
+          },
+          {
+            "en": "Miss Sana then showed them some posters on pollution. This started a discussion on pollution. All the students started sharing their views about the unattended and ever increasing garbage heaps in their neighbourhoods, the black fumes emitted by the vehicles, and the purposeless honking on the roads.",
+            "sd": "پوءِ مس ثنا هنن کي آلودگيءَ بابت ڪجهه پوسٽر ڏيکاريا. ان سان آلودگيءَ تي بحث شروع ٿي ويو. سڀني شاگردن پنهنجا خيال ونڊڻ شروع ڪيا — پنهنجن پاڙن ۾ اڻ ڌيانيل ۽ روز بروز وڌندڙ گندگيءَ جي ڍيرن، گاڏين مان نڪرندڙ ڪاري دونھون، ۽ رستن تي بي مقصد هارن وڄائڻ بابت.",
+            "ur": "پھر مس ثنا نے انہیں آلودگی پر کچھ پوسٹر دکھائے۔ اس سے آلودگی پر بحث شروع ہو گئی۔ تمام طلبہ نے اپنے خیالات بانٹنا شروع کر دیے — اپنے محلوں میں بے توجہی کا شکار اور روز بڑھتے ہوئے کوڑے کے ڈھیروں، گاڑیوں سے نکلنے والے کالے دھوئیں اور سڑکوں پر بے مقصد ہارن بجانے کے بارے میں۔"
+          },
+          {
+            "en": "Suddenly, she raised her hand; this was the signal she used when she wanted complete silence in the class and the full attention of the students. The class became quiet in a few seconds. She asked, 'All of you experience pollution around you every day. You keep complaining about it. But the question is what have you done to stop pollution?'",
+            "sd": "اوچتو هن پنهنجو هٿ مٿي کنيو؛ اهو اهو اشارو هو جيڪو هوءَ استعمال ڪندي هئي جڏهن هوءَ ڪلاس ۾ مڪمل خاموشي ۽ شاگردن جو پورو ڌيان چاهيندي هئي. ڪلاس ڪجهه ئي لمحن ۾ خاموش ٿي ويو. هن پڇيو، ''توهان سڀئي هر روز پنهنجي چوڌاري آلودگي محسوس ڪندا آهيو. توهان ان جي شڪايت ڪندا رھو ٿا. پر سوال اهو آهي ته آلودگي روڪڻ واسطي توهان ڇا ڪيو آهي؟''",
+            "ur": "اچانک انہوں نے اپنا ہاتھ اوپر اٹھایا؛ یہ وہ اشارہ تھا جو وہ اس وقت استعمال کرتی تھیں جب وہ کلاس میں مکمل خاموشی اور طلبہ کی پوری توجہ چاہتی تھیں۔ کلاس چند ہی لمحوں میں خاموش ہو گئی۔ انہوں نے پوچھا، ''تم سب ہر روز اپنے ارد گرد آلودگی کا تجربہ کرتے ہو۔ تم اس کی شکایت کرتے رہتے ہو۔ لیکن سوال یہ ہے کہ آلودگی روکنے کے لیے تم نے کیا کیا ہے؟''"
+          },
+          {
+            "en": "There was a pin drop silence in the classroom. As usual, she had set the class thinking. She always challenged her students' minds and made them reflect and think in new ways.",
+            "sd": "ڪلاس روم ۾ اهڙي خاموشي هئي جو سئي ڪرڻ جو آواز به ٻڌڻ ۾ اچي ها. معمول موجب، هن ڪلاس کي سوچڻ تي مجبور ڪري ڇڏيو هو. هوءَ هميشه پنهنجن شاگردن جي ذهنن کي چئلينج ڪندي هئي ۽ کين غور ڪرڻ ۽ نوان طريقا سوچڻ تي آماده ڪندي هئي.",
+            "ur": "کلاس روم میں سوئی گرنے کی آواز تک سنائی دے سکتی تھی۔ معمول کے مطابق انہوں نے کلاس کو سوچنے پر مجبور کر دیا تھا۔ وہ ہمیشہ اپنے طلبہ کے ذہنوں کو چیلنج کرتی تھیں اور انہیں غور کرنے اور نئے طریقوں سے سوچنے پر آمادہ کرتی تھیں۔"
+          },
+          {
+            "en": "Her next question was, 'Should we do something about it?'",
+            "sd": "هن جو ايندڙ سوال هو، ''ڇا اسان کي ان بابت ڪجهه ڪرڻ گھرجي؟''",
+            "ur": "ان کا اگلا سوال تھا، ''کیا ہمیں اس بارے میں کچھ کرنا چاہیے؟''"
+          },
+          {
+            "en": "'Yes!' the class replied in one voice.",
+            "sd": "''ها!'' سڄي ڪلاس هڪ آواز ۾ جواب ڏنو.",
+            "ur": "''جی ہاں!'' پوری کلاس نے ایک آواز میں جواب دیا۔"
+          },
+          {
+            "en": "She then divided them into groups and told them to make a list of things they could do to make the environment pollution free. Next, she told them to put the activities in the order that they should be done. After that, she told them to divide the work amongst the group members and assign deadlines to all tasks.",
+            "sd": "پوءِ هن کين گروپن ۾ ورهايو ۽ چيو ته اهي انهن ڪمن جي لسٽ ٺاهين جيڪي هو ماحول کي آلودگيءَ کان پاڪ ڪرڻ واسطي ڪري سگھن ٿا. پوءِ هن کين چيو ته اهي سرگرميون ان ترتيب ۾ رکن جنهن ترتيب ۾ اهي ڪرڻ گھرجن. ان کان پوءِ هن کين چيو ته ڪم گروپ جي ميمبرن ۾ ورهائين ۽ سڀني ڪمن واسطي آخري تاريخون مقرر ڪن.",
+            "ur": "پھر انہوں نے انہیں گروہوں میں تقسیم کیا اور کہا کہ وہ ان کاموں کی فہرست بنائیں جو وہ ماحول کو آلودگی سے پاک کرنے کے لیے کر سکتے ہیں۔ پھر انہوں نے ان سے کہا کہ وہ سرگرمیوں کو اس ترتیب میں رکھیں جس ترتیب میں انہیں کیا جانا چاہیے۔ اس کے بعد انہوں نے ان سے کہا کہ وہ کام گروہ کے ارکان میں تقسیم کریں اور تمام کاموں کے لیے آخری تاریخیں مقرر کریں۔"
+          },
+          {
+            "en": "In the end, each group presented their plan of action. The rest of the class listened carefully and gave suggestions for improving the plan. Then, each group reviewed their plans and finalized them so that they could carry them out easily.",
+            "sd": "آخر ۾، هر گروپ پنهنجو عملي منصوبو پيش ڪيو. باقي ڪلاس غور سان ٻڌو ۽ منصوبي کي بهتر ڪرڻ واسطي تجويزون ڏنيون. پوءِ هر گروپ پنهنجن منصوبن تي نظرثاني ڪئي ۽ کين حتمي شڪل ڏني ته جيئن هو انهن تي آسانيءَ سان عمل ڪري سگھن.",
+            "ur": "آخر میں ہر گروہ نے اپنا عملی منصوبہ پیش کیا۔ باقی کلاس نے غور سے سنا اور منصوبے کو بہتر بنانے کے لیے تجاویز دیں۔ پھر ہر گروہ نے اپنے منصوبوں کا جائزہ لیا اور انہیں حتمی شکل دی تاکہ وہ انہیں آسانی سے عملی جامہ پہنا سکیں۔"
+          },
+          {
+            "en": "Ali was tired after a whole day's campaigning programme against pollution that his group had arranged for the neighbourhood people, particularly the boys of their own age. They had made posters and shown these to all the people who had come to the programme to raise awareness about the dangers of pollution. They had also distributed the handbills that they had made. These handbills listed the steps that the youth could take to fight pollution. They also presented role-plays and gave speeches.",
+            "sd": "علي سڄو ڏينهن آلودگيءَ خلاف مهم واري پروگرام کان پوءِ ٿڪجي پيو هو، جيڪو سندس گروپ پاڙي جي ماڻهن واسطي، خاص طور پنهنجي عمر جي ڇوڪرن واسطي، ترتيب ڏنو هو. هنن پوسٽر ٺاهي انهن سڀني ماڻهن کي ڏيکاريا هئا جيڪي آلودگيءَ جي خطرن بابت آگاهي وڌائڻ واسطي پروگرام ۾ آيا هئا. هنن اهي هينڊ بل پڻ ورهايا هئا جيڪي هنن ٺاهيا هئا. انهن هينڊ بلن ۾ اهي قدم لکيل هئا جيڪي نوجوان آلودگيءَ خلاف وڙھڻ واسطي کڻي سگھن ٿا. هنن ننڍا ناٽڪ پڻ پيش ڪيا ۽ تقريرون پڻ ڪيون.",
+            "ur": "علی آلودگی کے خلاف مہم کے پورے دن کے پروگرام کے بعد تھک گیا تھا جو اس کے گروہ نے محلے کے لوگوں کے لیے، خاص طور پر اپنی عمر کے لڑکوں کے لیے، ترتیب دیا تھا۔ انہوں نے پوسٹر بنا کر ان تمام لوگوں کو دکھائے تھے جو آلودگی کے خطرات کے بارے میں آگاہی بڑھانے کے لیے پروگرام میں آئے تھے۔ انہوں نے وہ ہینڈ بل بھی تقسیم کیے تھے جو انہوں نے بنائے تھے۔ ان ہینڈ بلوں میں وہ اقدامات درج تھے جو نوجوان آلودگی کے خلاف لڑنے کے لیے اٹھا سکتے تھے۔ انہوں نے چھوٹے ڈرامے بھی پیش کیے اور تقریریں بھی کیں۔"
+          },
+          {
+            "en": "In the end, they shared an action plan for cleaning their neighbourhood. All the attendees were invited to participate in the activity. The programme was a big success. Almost everyone agreed to do something. Ali and his friends prepared a list of things to be done, who would do them, and by when it would be done. They were all tired but very happy. They had taken a big step in the right direction.",
+            "sd": "آخر ۾، هنن پنهنجي پاڙي کي صاف ڪرڻ واسطي هڪ عملي منصوبو سڀني سان ونڊيو. سڀني شرڪت ڪندڙن کي سرگرميءَ ۾ حصو وٺڻ جي دعوت ڏني وئي. پروگرام وڏي ڪاميابي رھيو. تقريباً هر ڪنهن ڪجهه ڪرڻ تي اتفاق ڪيو. علي ۽ سندس دوستن ڪمن جي لسٽ تيار ڪئي — ڇا ڪرڻو آهي، ڪير ڪندو، ۽ ڪڏهن تائين ڪرڻو آهي. هو سڀئي ٿڪل هئا پر ڏاڍا خوش هئا. هنن صحيح رخ ۾ هڪ وڏو قدم کنيو هو.",
+            "ur": "آخر میں انہوں نے اپنے محلے کی صفائی کے لیے ایک عملی منصوبہ سب سے بانٹا۔ تمام حاضرین کو سرگرمی میں حصہ لینے کی دعوت دی گئی۔ پروگرام بڑی کامیابی رہا۔ تقریباً ہر کسی نے کچھ کرنے پر اتفاق کیا۔ علی اور اس کے دوستوں نے کاموں کی فہرست تیار کی — کیا کرنا ہے، کون کرے گا، اور کب تک کرنا ہے۔ وہ سب تھکے ہوئے تھے لیکن بہت خوش تھے۔ انہوں نے صحیح سمت میں ایک بڑا قدم اٹھایا تھا۔"
+          }
+        ],
+        "section": "1.1",
+        "unit": 1,
+        "unitTitle": "Effects of Our Actions on Our Environment"
+      },
+      {
+        "bookPages": "24-27",
+        "lesson": "Problems and Solutions",
+        "paragraphs": [
+          {
+            "en": "Dear Big Brother, I am the only grandson of my grandparents. Though they love me a lot but one thing upsets me; whenever they come to visit us, they always tell my parents that I am an ill-mannered child. I never talk to them in a harsh way or misbehave, so I don't know why they say this. Please, guide me how to treat them so that they feel happy. Unhappy Zain, Grade VI",
+            "sd": "پيارا وڏا ڀاءُ، مان پنهنجي ڏاڏا ڏاڏي جو اڪيلو پٽيو آهيان. جيتوڻيڪ هو مون سان گھڻو پيار ڪن ٿا، پر هڪ ڳالھ مون کي پريشان ڪري ٿي؛ جڏهن به هو اسان وٽ گھمڻ ايندا آهن، ته هو هميشه منهنجي ماءُ پيءُ کي چوندا آهن ته مان بدتميز ٻار آهيان. مان ڪڏهن به هنن سان سخت لهجي ۾ نه ڳالھائيندو آهيان ۽ نه ئي بدتميزي ڪندو آهيان، تنهنڪري مون کي خبر ناهي ته هو ائين ڇو چوندا آهن. مهرباني ڪري مون کي رهنمائي ڪريو ته مان هنن سان ڪيئن پيش اچان ته هو خوش ٿين. ناراض زين، ڪلاس ڇهون",
+            "ur": "پیارے بڑے بھائی، میں اپنے دادا دادی کا اکلوتا پوتا ہوں۔ اگرچہ وہ مجھ سے بہت پیار کرتے ہیں، لیکن ایک بات مجھے پریشان کرتی ہے؛ جب بھی وہ ہم سے ملنے آتے ہیں، وہ ہمیشہ میرے والدین سے کہتے ہیں کہ میں بدتمیز بچہ ہوں۔ میں کبھی ان سے سخت لہجے میں بات نہیں کرتا اور نہ ہی بدتمیزی کرتا ہوں، اس لیے مجھے سمجھ نہیں آتا کہ وہ ایسا کیوں کہتے ہیں۔ براہ کرم میری رہنمائی کریں کہ میں ان سے کیسا سلوک کروں تاکہ وہ خوش ہوں۔ ناراض زین، جماعت ششم"
+          },
+          {
+            "en": "Dear Zain, I am sure you respect your grandparents, but older people always expect something more. Here are some valuable tips; if you follow these you'll probably make them very happy: Give them a warm welcome with a smile when you greet them. Give them a helping hand, especially when they are carrying their things. Spend some time with them, listen to what they say. Old people get easily irritated but be kind and polite to them. Big Brother",
+            "sd": "پيارا زين، مون کي يقين آهي ته تون پنهنجي ڏاڏا ڏاڏي جي عزت ڪندو آهين، پر وڏي عمر وارا ماڻهو هميشه ڪجهه وڌيڪ جي اميد رکندا آهن. هتي ڪجهه قيمتي صلاحون آهن؛ جيڪڏهن تون هنن تي عمل ڪندين ته تون هنن کي گھڻو خوش ڪندين: جڏهن تون هنن کي سلام ڪرين ته مسڪراهٽ سان هنن جو گرمجوشي سان آڌرڀاءُ ڪر. هنن جي مدد ڪر، خاص ڪري جڏهن هو پنهنجو سامان کڻي رھيا هجن. هنن سان ڪجهه وقت گذار، هو جيڪي چوندا آهن سو ٻڌ. وڏي عمر وارا ماڻهو جلدي ڪاوڙجي ويندا آهن، پر تون هنن سان مهربان ۽ شائستو ٿي. وڏو ڀاءُ",
+            "ur": "پیارے زین، مجھے یقین ہے کہ تم اپنے دادا دادی کی عزت کرتے ہو، لیکن بڑی عمر کے لوگ ہمیشہ کچھ زیادہ کی امید رکھتے ہیں۔ یہاں کچھ قیمتی مشورے ہیں؛ اگر تم ان پر عمل کرو گے تو تم انہیں بہت خوش کر دو گے: جب تم ان سے ملو تو مسکراہٹ کے ساتھ ان کا گرم جوشی سے استقبال کرو۔ ان کی مدد کرو، خاص طور پر جب وہ اپنا سامان اٹھا رہے ہوں۔ ان کے ساتھ کچھ وقت گزارو، وہ جو کہتے ہیں اسے سنو۔ بڑی عمر کے لوگ جلدی ناراض ہو جاتے ہیں، لیکن تم ان سے مہربان اور شائستہ رہو۔ بڑا بھائی"
+          },
+          {
+            "en": "Dear Big Brother, I am short in height and I travel in a public bus daily. My problem is that, though, I always pay my fare while I am mostly asked to give up my seat for other people. Since I pay my fare, it is my right to get a proper seat. Moreover, whenever the conductor asks me to stand up, my friends make fun of me and I get annoyed. Please tell me what to do. Disturbed Ahsan, Grade IX",
+            "sd": "پيارا وڏا ڀاءُ، منهنجو قد ننڍو آهي ۽ مان هر روز سرڪاري بس ۾ سفر ڪندو آهيان. منهنجو مسئلو اهو آهي ته، جيتوڻيڪ مان هميشه پنهنجو ڪرايو ڏيندو آهيان، پر مون کي گھڻو ڪري ٻين ماڻهن لاءِ پنهنجي سيٽ ڇڏڻي پوندي آهي. جيئن ته مان پنهنجو ڪرايو ڏيندو آهيان، تنهنڪري صحيح سيٽ حاصل ڪرڻ منهنجو حق آهي. ان کان علاوه، جڏهن به ڪنڊڪٽر مون کي بيھڻ لاءِ چوندو آهي، ته منهنجا دوست مون تي کلندا آهن ۽ مون کي ڪاوڙ ايندي آهي. مهرباني ڪري مون کي ٻڌايو ته مان ڇا ڪريان. پريشان احسن، ڪلاس نائون",
+            "ur": "پیارے بڑے بھائی، میرا قد چھوٹا ہے اور میں روزانہ سرکاری بس میں سفر کرتا ہوں۔ میرا مسئلہ یہ ہے کہ اگرچہ میں ہمیشہ اپنا کرایہ دیتا ہوں، لیکن مجھ سے اکثر دوسرے لوگوں کے لیے اپنی سیٹ چھوڑنے کو کہا جاتا ہے۔ چونکہ میں اپنا کرایہ دیتا ہوں، اس لیے مناسب سیٹ حاصل کرنا میرا حق ہے۔ اس کے علاوہ، جب بھی کنڈکٹر مجھے کھڑے ہونے کو کہتا ہے، میرے دوست میرا مذاق اڑاتے ہیں اور مجھے غصہ آتا ہے۔ براہ کرم مجھے بتائیں کہ میں کیا کروں۔ پریشان احسن، جماعت نہم"
+          },
+          {
+            "en": "Dear Ahsan, It is good that you are an honest boy and you pay your fare. I think you are very lucky to be asked to give up your seat for an adult, especially for an old or handicapped person, or a person carrying something heavy. This gives you a chance to serve others. Also, it is good manners to offer your seat to those who need it more than you. Secondly, do not stop doing good deeds because your friends mock you. In fact, feel honoured that God has selected you to give comfort to other human beings. Big Brother",
+            "sd": "پيارا احسن، اهو سٺو آهي ته تون هڪ ايماندار ڇوڪرو آهين ۽ پنهنجو ڪرايو ڏيندو آهين. منهنجو خيال آهي ته تون تمام گھڻو خوش نصيب آهين جو توکي ڪنهن وڏي ماڻهو لاءِ، خاص ڪري ڪنهن پوڙهي يا معذور ماڻهو لاءِ، يا ڪو ڳرو سامان کڻندڙ ماڻهو لاءِ پنهنجي سيٽ ڇڏڻ لاءِ چيو ويندو آهي. اهو توکي ٻين جي خدمت ڪرڻ جو موقعو ڏئي ٿو. ان کان علاوه، پنهنجي سيٽ انهن ماڻهن کي ڏيڻ جن کي توکان وڌيڪ ان جي ضرورت آهي، سٺي اخلاق جي نشاني آهي. ٻيو ته، سٺا ڪم ڪرڻ بند نه ڪر، ڇو ته تنهنجا دوست تو تي کلندا آهن. حقيقت ۾، فخر محسوس ڪر ته الله توکي ٻين انسانن کي آرام پھچائڻ لاءِ چونڊيو آهي. وڏو ڀاءُ",
+            "ur": "پیارے احسن، یہ اچھی بات ہے کہ تم ایک ایماندار لڑکے ہو اور اپنا کرایہ دیتے ہو۔ میرا خیال ہے کہ تم بہت خوش نصیب ہو کہ تم سے کسی بڑے کے لیے، خاص طور پر کسی بوڑھے یا معذور شخص کے لیے، یا کوئی بھاری چیز اٹھانے والے شخص کے لیے اپنی سیٹ چھوڑنے کو کہا جاتا ہے۔ یہ تمہیں دوسروں کی خدمت کرنے کا موقع دیتا ہے۔ اس کے علاوہ، اپنی سیٹ ان لوگوں کو پیش کرنا جنہیں تم سے زیادہ اس کی ضرورت ہے، اچھے اخلاق کی نشانی ہے۔ دوسری بات یہ کہ دوستوں کے مذاق اڑانے کی وجہ سے اچھے کام کرنا بند نہ کرو۔ درحقیقت، فخر محسوس کرو کہ اللہ نے تمہیں دوسرے انسانوں کو آرام پہنچانے کے لیے چنا ہے۔ بڑا بھائی"
+          },
+          {
+            "en": "Dear Big Brother, I live in a joint family. Mostly everyone loves me. But I am often scolded at lunch and dinner time. Everyone points out my mistakes. Now, I have stopped sitting with my family during meal times because I cannot take it anymore. Penalized Fahad, Class VII",
+            "sd": "پيارا وڏا ڀاءُ، مان هڪ گڏيل خاندان ۾ رھندو آهيان. گھڻو ڪري سڀئي مون سان پيار ڪندا آهن. پر مون کي منجھند ۽ رات جي ماني جي وقت اڪثر ڊانٽ ڏني ويندي آهي. سڀئي منهنجون غلطيون ٻڌائيندا آهن. هاڻي، مان پنهنجي خاندان سان گڏ ماني کائڻ لاءِ ويھڻ ڇڏي ڏنو آهي، ڇو ته مان اهو وڌيڪ برداشت نه ٿو ڪري سگھان. سزا يافته فهد، ڪلاس ستون",
+            "ur": "پیارے بڑے بھائی، میں ایک مشترکہ خاندان میں رہتا ہوں۔ زیادہ تر سب مجھ سے پیار کرتے ہیں۔ لیکن دوپہر اور رات کے کھانے کے وقت مجھے اکثر ڈانٹ پڑتی ہے۔ سب میری غلطیاں بتاتے ہیں۔ اب میں نے اپنے خاندان کے ساتھ کھانے کے وقت بیٹھنا چھوڑ دیا ہے، کیونکہ میں اسے مزید برداشت نہیں کر سکتا۔ سزا یافتہ فہد، جماعت ہفتم"
+          },
+          {
+            "en": "Dear Fahad, You are lucky to have so many people around you to guide you and who care for you. As meals are social events, it is important that we practice proper manners. This includes helping in serving the meal and in cleaning up after the meal. Other important meal manners are: Allow elders and guests to take the food first. Wait for your turn to take the food. Chew with your mouth closed. Avoid talking with food in your mouth. Do not slurp or burp loudly while eating, as this is impolite. Big Brother",
+            "sd": "پيارا فهد، تون خوش نصيب آهين جو تنهنجي چوڌاري ايترا سارا ماڻهو آهن جيڪي توکي رهنمائي ڪن ٿا ۽ تنهنجي پرواه ڪن ٿا. جيئن ته ماني هڪ سماجي تقريب آهي، ان ڪري اهو ضروري آهي ته اسين سٺا آداب اختيار ڪريون. ان ۾ ماني کارائڻ ۾ مدد ڪرڻ ۽ ماني کان پوءِ صفائي ڪرڻ به شامل آهي. ماني کائڻ جا ٻيا اهم آداب هي آهن: وڏن ۽ مهمانن کي پهرين کاڌو کڻڻ ڏيو. کاڌو کڻڻ لاءِ پنهنجي واري جو انتظار ڪريو. وات بند ڪري چٻايو. وات ۾ کاڌو هجڻ مهل ڳالھائڻ کان پاسو ڪريو. کائڻ مهل زور سان سڙڪو نه ڀريو ۽ نه ئي ڊڪار ڏيو، ڇو ته اهو بدتميزي آهي. وڏو ڀاءُ",
+            "ur": "پیارے فہد، تم خوش نصیب ہو کہ تمہارے ارد گرد اتنے سارے لوگ ہیں جو تمہاری رہنمائی کرتے ہیں اور تمہاری پروا کرتے ہیں۔ چونکہ کھانا ایک سماجی تقریب ہے، اس لیے ضروری ہے کہ ہم اچھے آداب اختیار کریں۔ اس میں کھانا کھلانے میں مدد کرنا اور کھانے کے بعد صفائی کرنا بھی شامل ہے۔ کھانے کے دیگر اہم آداب یہ ہیں: بڑوں اور مہمانوں کو پہلے کھانا لینے دیں۔ کھانا لینے کے لیے اپنی باری کا انتظار کریں۔ منہ بند کر کے چبائیں۔ منہ میں کھانا ہوتے ہوئے بات کرنے سے پرہیز کریں۔ کھاتے وقت زور سے سرکنے یا ڈکارنے سے پرہیز کریں، کیونکہ یہ بدتمیزی ہے۔ بڑا بھائی"
+          },
+          {
+            "en": "Dear Big Brother, One of my best friends in my class is Abid. He is a caring person but we argue a lot about different things. Sometimes people think that we always fight with each other. I want him to listen to me first because he always has a different point of view about everything. I want him to be friendly with me and not argue with me all the time. Annoyed Rashid, Class VII",
+            "sd": "پيارا وڏا ڀاءُ، منهنجي ڪلاس ۾ منهنجو هڪ بهترين دوست عابد آهي. هو هڪ خيال رکندڙ ماڻهو آهي، پر اسين مختلف ڳالھين تي گھڻو بحث ڪندا آهيون. ڪڏهن ڪڏهن ماڻهو سمجھندا آهن ته اسين هميشه هڪ ٻئي سان وڙھندا آهيون. مان چاهيان ٿو ته هو پهرين منهنجي ڳالھ ٻڌي، ڇو ته هر معاملي بابت هن جو نظريو هميشه مون کان مختلف هوندو آهي. مان چاهيان ٿو ته هو مون سان دوستاڻو سلوڪ ڪري ۽ هر وقت مون سان بحث نه ڪري. ناراض راشد، ڪلاس ستون",
+            "ur": "پیارے بڑے بھائی، میری کلاس میں میرا ایک بہترین دوست عابد ہے۔ وہ ایک خیال رکھنے والا شخص ہے، لیکن ہم مختلف باتوں پر بہت بحث کرتے ہیں۔ کبھی کبھی لوگ سمجھتے ہیں کہ ہم ہمیشہ ایک دوسرے سے لڑتے ہیں۔ میں چاہتا ہوں کہ وہ پہلے میری بات سنے، کیونکہ ہر بات کے بارے میں اس کا نظریہ ہمیشہ مجھ سے مختلف ہوتا ہے۔ میں چاہتا ہوں کہ وہ مجھ سے دوستانہ رہے اور ہر وقت مجھ سے بحث نہ کرے۔ ناراض راشد، جماعت ہفتم"
+          },
+          {
+            "en": "Dear Rashid, It is good to have a nice and caring friend. However, one more important rule in friendship is that we should respect each other's views and differences. We live in a society where there is great diversity of beliefs, cultures, races, colours, rituals, and traditions. You need to learn to give your point of view and to listen to others also; this is a part of good manners. And if you want a lasting friendship, lose sometimes and let him win; this way, sometimes he will lose and let you win. This will lead to a great friendship. Big Brother",
+            "sd": "پيارا راشد، سٺو ۽ خيال رکندڙ دوست هجڻ سٺي ڳالھ آهي. پر، دوستي ۾ هڪ ٻيو اهم اصول اهو آهي ته اسان کي هڪ ٻئي جي نظرين ۽ اختلافن جي عزت ڪرڻ گھرجي. اسين اهڙي معاشري ۾ رھون ٿا جتي عقيدن، ثقافتن، نسلن، رنگن، رسمن ۽ روايتن ۾ وڏي گھڻائي آهي. توکي اهو سکڻ گھرجي ته تون پنهنجو نظريو پيش ڪرين ۽ ٻين جي ڳالھ به ٻڌين؛ اهو سٺي اخلاق جو حصو آهي. ۽ جيڪڏهن تون پائيدار دوستي چاهين ٿو، ته ڪڏهن ڪڏهن هارائي وڃ ۽ هن کي کٽڻ ڏي؛ ائين، ڪڏهن ڪڏهن هو هارائيندو ۽ توکي کٽڻ ڏيندو. اهو هڪ بهترين دوستي جو سبب بڻجندو. وڏو ڀاءُ",
+            "ur": "پیارے راشد، اچھا اور خیال رکھنے والا دوست ہونا اچھی بات ہے۔ تاہم، دوستی میں ایک اور اہم اصول یہ ہے کہ ہمیں ایک دوسرے کے نظریات اور اختلافات کی عزت کرنی چاہیے۔ ہم ایک ایسے معاشرے میں رہتے ہیں جہاں عقائد، ثقافتوں، نسلوں، رنگوں، رسموں اور روایتوں میں بہت تنوع ہے۔ تمہیں یہ سیکھنا چاہیے کہ تم اپنا نظریہ پیش کرو اور دوسروں کی بات بھی سنو؛ یہ اچھے اخلاق کا حصہ ہے۔ اور اگر تم پائیدار دوستی چاہتے ہو تو کبھی کبھی ہار جاؤ اور اسے جیتنے دو؛ اس طرح کبھی کبھی وہ ہارے گا اور تمہیں جیتنے دے گا۔ یہ ایک بہترین دوستی کا باعث بنے گا۔ بڑا بھائی"
+          },
+          {
+            "en": "Dear Big Brother, I have a very dark complexion, in fact the darkest amongst my siblings and friends. Every time I see people with a fairer skin colour, I feel inferior. Frustrated Sania, Class VI",
+            "sd": "پيارا وڏا ڀاءُ، منهنجو رنگ تمام گھڻو ڪارو آهي، حقيقت ۾ منهنجي ڀائرن ڀينرن ۽ دوستن ۾ سڀني کان وڌيڪ ڪارو. جڏهن به مان هلڪي رنگت وارن ماڻهن کي ڏسندي آهيان، ته مون کي پاڻ کي هنن کان گھٽ محسوس ٿيندو آهي. مايوس ثانيه، ڪلاس ڇهون",
+            "ur": "پیارے بڑے بھائی، میری رنگت بہت گہری ہے، درحقیقت میرے بہن بھائیوں اور دوستوں میں سب سے زیادہ گہری۔ جب بھی میں گورے رنگ والے لوگوں کو دیکھتی ہوں، مجھے خود کو ان سے کمتر محسوس ہوتا ہے۔ مایوس ثانیہ، جماعت ششم"
+          },
+          {
+            "en": "Dear Sania, You need to understand that it is not your skin colour, your height, or any other physical appearance that makes you a better or more likeable person. What matters most is your cleanliness and your behaviour. Always have well combed hair, clean clothes, and clean shoes. Also learn to forgive, respect and lend a helping hand: and do not backbite or make fun of others. Everyone will love you and will want to be your friend. Big Brother",
+            "sd": "پياري ثانيه، توکي اهو سمجھڻ گھرجي ته اهو تنهنجي چمڙي جو رنگ، تنهنجو قد، يا ڪا ٻي جسماني بناوت ناهي، جيڪا توکي بهتر يا وڌيڪ پسنديده ماڻهو بڻائي ٿي. سڀ کان اهم ڳالھ تنهنجي صفائي ۽ تنهنجو اخلاق آهي. هميشه چڱي طرح ڪنگيل وار، صاف ڪپڙا ۽ صاف بوٽ پائي رک. اهو به سک ته معاف ڪر، عزت ڪر ۽ مدد لاءِ هٿ وڌاءِ: ۽ ٻين جي غيبت نه ڪر ۽ نه ئي هنن جو مذاق اڏاءِ. هرڪو توکي پيار ڪندو ۽ تنهنجو دوست بڻجڻ چاهيندو. وڏو ڀاءُ",
+            "ur": "پیاری ثانیہ، تمہیں یہ سمجھنا چاہیے کہ یہ تمہاری جلد کا رنگ، تمہارا قد، یا کوئی اور جسمانی صورت نہیں ہے جو تمہیں بہتر یا زیادہ پسندیدہ شخص بناتی ہے۔ سب سے اہم چیز تمہاری صفائی اور تمہارا اخلاق ہے۔ ہمیشہ اچھی طرح کنگھی کیے ہوئے بال، صاف کپڑے اور صاف جوتے پہنو۔ یہ بھی سیکھو کہ معاف کرو، عزت کرو اور مدد کے لیے ہاتھ بڑھاؤ: اور دوسروں کی غیبت نہ کرو اور نہ ہی ان کا مذاق اڑاؤ۔ سب تم سے پیار کریں گے اور تمہارے دوست بننا چاہیں گے۔ بڑا بھائی"
+          }
+        ],
+        "section": "2.1",
+        "unit": 2,
+        "unitTitle": "Social Etiquette and Manners"
+      },
+      {
+        "bookPages": "46-49",
+        "lesson": "Learning to live in a critical situation",
+        "paragraphs": [
+          {
+            "en": "Slowly, Zubair began to wake up. He was very, very tired. He opened his eyes and looked around. All he could see was muddy water, but a little peaceful now. All night, it had been gushing wildly, destroying everything that came in its way. He was still lying on the log which he and his mother had held together last night.",
+            "sd": "آهستي آهستي زبير جاڳڻ لڳو. هو ڏاڍو، ڏاڍو ٿڪل هو. هن اکيون کوليون ۽ چوڌاري نهاريو. هن کي رڳو گدلو پاڻي نظر اچي رھيو هو، پر هاڻي اهو ٿورو پرامن ٿي ويو هو. سڄي رات اهو زور سان وهي رھيو هو ۽ جيڪو به سندس رستي ۾ آيو، ان کي تباهه ڪري رھيو هو. هو اڃا تائين ان ئي ڪاٺيءَ تي ليٽل هو، جنهن کي هن ۽ سندس ماءُ گذريل رات گڏجي جهليو هو.",
+            "ur": "آہستہ آہستہ زبیر جاگنے لگا۔ وہ بہت بہت تھکا ہوا تھا۔ اس نے اپنی آنکھیں کھولیں اور چاروں طرف دیکھا۔ اسے صرف گدلا پانی نظر آ رہا تھا، لیکن اب وہ تھوڑا پرسکون تھا۔ ساری رات وہ زور سے بہہ رہا تھا اور جو کچھ بھی اس کے راستے میں آیا، اسے تباہ کر رہا تھا۔ وہ ابھی تک اسی لکڑی پر لیٹا ہوا تھا، جسے اس نے اور اس کی ماں نے گزشتہ رات مل کر پکڑا ہوا تھا۔"
+          },
+          {
+            "en": "The log, to which Zubair had clung all night, was bumping against a small tract of land now. Zubair stretched his numb limbs and waded to the tract of land. He was exhausted. He lay down on his bare back and closed his eyes. Tears began to fall from the sides of his eyes and started collecting in his ears. With his eyes closed, he could clearly see the picture of his mother's hand slipping from his grip. He wanted to shout but he could not. It was dark and the water was moving so fast that he could not do anything but hold the log tightly. She was taken away by the flowing water.",
+            "sd": "اها ڪاٺي، جنهن کي زبير سڄي رات جهليو هو، هاڻي زمين جي هڪ ننڍڙي ٽڪري سان ٽڪرائجي رھي هئي. زبير پنهنجا سن عضوا ڊگھا ڪيا ۽ پاڻيءَ ۾ هلندي زمين جي ان ٽڪري تي پھتو. هو بلڪل ٿڪجي ويو هو. هو پنهنجي اگھاڙي پٺيءَ تي ليٽي پيو ۽ اکيون بند ڪري ڇڏيائين. سندس اکين جي ڪنارن مان ڳوڙها وهي سندس ڪنن ۾ گڏ ٿيڻ لڳا. اکيون بند ڪري، هو پنهنجي ماءُ جي هٿ کي پنهنجي گرفت مان نڪرندي صاف ڏسي سگھيو. هو رڙ ڪرڻ ٿي چاهيو، پر ڪري نه سگھيو. اونداهي هئي ۽ پاڻي ايترو تيز وهي رھيو هو جو هو ڪاٺيءَ کي مضبوطيءَ سان جهلڻ کان سواءِ ٻيو ڪجهه ڪري نه سگھيو. سندس ماءُ وهندڙ پاڻيءَ ۾ وهنجي وئي.",
+            "ur": "وہ لکڑی، جسے زبیر نے ساری رات پکڑا ہوا تھا، اب زمین کے ایک چھوٹے سے ٹکڑے سے ٹکرا رہی تھی۔ زبیر نے اپنے سن اعضا پھیلائے اور پانی میں چل کر زمین کے اس ٹکڑے تک پہنچا۔ وہ بالکل تھک چکا تھا۔ وہ اپنی ننگی پیٹھ کے بل لیٹ گیا اور اپنی آنکھیں بند کر لیں۔ اس کی آنکھوں کے کناروں سے آنسو بہہ کر اس کے کانوں میں جمع ہونے لگے۔ آنکھیں بند کیے ہوئے، وہ صاف دیکھ سکتا تھا کہ اس کی ماں کا ہاتھ اس کی گرفت سے چھوٹ رہا ہے۔ وہ چلانا چاہتا تھا، لیکن چلا نہ سکا۔ اندھیرا تھا اور پانی اتنی تیزی سے بہہ رہا تھا کہ وہ لکڑی کو مضبوطی سے پکڑے رہنے کے سوا کچھ نہ کر سکا۔ اس کی ماں بہتے ہوئے پانی میں بہہ گئی۔"
+          },
+          {
+            "en": "He quickly opened his eyes. He could not bear seeing that picture in his mind again and again. Suddenly, he got up, cupped his hands around his mouth, and yelled at the top of his voice, “Amma, Amma!” There was no reply. He sat down on the ground, put his head between his knees and cried his heart out for his mother, who was the only relative he had in this whole world. Exhausted, he fell asleep once again.",
+            "sd": "هن جلدي اکيون کوليون. هو پنهنجي ذهن ۾ اهو منظر بار بار ڏسڻ برداشت ڪري نه سگھيو. اوچتو، هو اٿي بيٺو، پنهنجا هٿ وات جي چوڌاري رکي، پنهنجي بلند ترين آواز ۾ رڙ ڪيائين: 'امان! امان!' ڪو به جواب نه آيو. هو زمين تي ويهي رھيو، پنهنجو مٿو پنهنجن گوڏن جي وچ ۾ رکي، پنهنجي ماءُ لاءِ دل کولائي روئڻ لڳو، جيڪا هن جي سڄي دنيا ۾ واحد مائٽ هئي. ٿڪجي، هو ٻيهر ننڊ ۾ هليو ويو.",
+            "ur": "اس نے جلدی سے اپنی آنکھیں کھولیں۔ وہ اپنے ذہن میں وہ منظر بار بار دیکھنا برداشت نہ کر سکا۔ اچانک، وہ اٹھ کھڑا ہوا، اپنے ہاتھ اپنے منہ کے گرد رکھے، اور اپنی بلند ترین آواز میں چلایا: 'امّاں! امّاں!' کوئی جواب نہ آیا۔ وہ زمین پر بیٹھ گیا، اپنا سر اپنے گھٹنوں کے درمیان رکھا اور اپنی ماں کے لیے دل کھول کر رویا، جو اس کی ساری دنیا میں اس کی واحد رشتہ دار تھی۔ تھکا ہوا، وہ ایک بار پھر سو گیا۔"
+          },
+          {
+            "en": "Voices of people woke him up. He opened his eyes to find himself on the same track of land. In the dim light of the setting sun, he could see soldiers sailing in a boat on the somewhat still water. They were coming towards him. He stared at them without moving. He was so sad and tired that he did not realize that the soldiers were coming to save him.",
+            "sd": "ماڻهن جي آوازن هن کي جاڳايو. هن اکيون کوليون ته پاڻ کي ساڳئي زمين جي ٽڪري تي ڏٺو. سج لهڻ جي مدھم روشنيءَ ۾، هن کي سپاهي هڪ ٻيڙيءَ ۾ ٿوري پرسڪون پاڻيءَ تي ايندا نظر آيا. اهي هن ڏانهن اچي رھيا هئا. هن بغير هلڻ جي انهن ڏانهن نهاريو. هو ايترو اداس ۽ ٿڪل هو جو هن کي اهو احساس ئي نه ٿيو ته سپاهي هن کي بچائڻ لاءِ اچي رھيا هئا.",
+            "ur": "لوگوں کی آوازوں نے اسے جگایا۔ اس نے آنکھیں کھولیں تو خود کو زمین کے اسی ٹکڑے پر پایا۔ ڈوبتے ہوئے سورج کی مدھم روشنی میں، وہ سپاہیوں کو تھوڑے پرسکون پانی پر ایک کشتی میں آتے دیکھ سکتا تھا۔ وہ اس کی طرف آ رہے تھے۔ وہ بغیر ہلے جلے انھیں دیکھتا رہا۔ وہ اتنا اداس اور تھکا ہوا تھا کہ اسے یہ احساس ہی نہ ہوا کہ سپاہی اسے بچانے آ رہے ہیں۔"
+          },
+          {
+            "en": "The soldiers took him to a relief camp. The camp provided shelter, food and medicines for the hundreds of flood victims. He moved around the camp like a ghost. His head was full of questions. 'Why do they let this happen every year?' 'Why don't they have a plan?' 'Can we do something ourselves to save other young boys from becoming orphans?' He discussed this with some of the relief workers but they were so busy and tired that they did not have time to answer his questions.",
+            "sd": "سپاهي هن کي هڪ امدادي ڪيمپ ڏانهن وٺي ويا. ڪيمپ ٻوڏ متاثرن جي سوين ماڻهن کي پناه، کاڌو ۽ دوائون فراهم ڪئي. هو ڪيمپ ۾ ڀوت وانگر گھمندو رھيو. سندس ذهن سوالن سان ڀريل هو: 'اهي هر سال اهو ٿيڻ ڇو ٿا ڏين؟' 'انهن وٽ ڪو منصوبو ڇو ناهي؟' 'ڇا اسين پاڻ ڪجهه ڪري سگھون ٿا ته جيئن ٻيا ننڍا ڇوڪرا يتيم ٿيڻ کان بچي وڃن؟' هن اهو ڪجهه امدادي ڪارڪنن سان بحث ڪيو، پر اهي ايترا مصروف ۽ ٿڪل هئا جو انهن وٽ سندس سوالن جا جواب ڏيڻ لاءِ وقت نه هو.",
+            "ur": "سپاہی اسے ایک امدادی کیمپ لے گئے۔ کیمپ نے سیلاب کے سینکڑوں متاثرین کو پناہ، کھانا اور دوائیں فراہم کیں۔ وہ کیمپ میں بھوت کی طرح گھومتا رہا۔ اس کا سر سوالوں سے بھرا ہوا تھا: 'وہ ہر سال ایسا کیوں ہونے دیتے ہیں؟' 'ان کے پاس کوئی منصوبہ کیوں نہیں ہے؟' 'کیا ہم خود کچھ کر سکتے ہیں تاکہ دوسرے چھوٹے لڑکے یتیم ہونے سے بچ جائیں؟' اس نے یہ بات امدادی کارکنوں میں سے کچھ سے کی، لیکن وہ اتنے مصروف اور تھکے ہوئے تھے کہ ان کے پاس اس کے سوالوں کے جواب دینے کا وقت نہیں تھا۔"
+          },
+          {
+            "en": "Finally, a young relief worker listened to him and understood what he was saying. Together, they planned to train the victims to be more cautious next time. They worked out some points that could help people remain safe in such calamities. Together, they wrote the points on large white bed sheets. After this, they gathered a group of people and told them about 'Ensuring Safety during Floods.",
+            "sd": "آخرڪار، هڪ نوجوان امدادي ڪارڪن سندس ڳالهه ٻڌي ۽ سمجھي ويو ته هو ڇا چئي رھيو هو. گڏجي، انهن متاثرن کي تربيت ڏيڻ جو منصوبو ٺاهيو ته جيئن اهي ايندڙ ڀيري وڌيڪ محتاط رھن. انهن ڪجهه نقطا طئي ڪيا، جيڪي اهڙين آفتن ۾ ماڻهن کي محفوظ رهڻ ۾ مدد ڪري سگھن ٿا. گڏجي، انهن اهي نقطا وڏين اڇين چادرن تي لکيا. ان کان پوءِ، انهن ماڻهن جو هڪ گروپ گڏ ڪيو ۽ انهن کي 'ٻوڏ دوران حفاظت کي يقيني بڻائڻ' بابت ٻڌايو.",
+            "ur": "آخر کار، ایک نوجوان امدادی کارکن نے اس کی بات سنی اور سمجھا کہ وہ کیا کہہ رہا ہے۔ مل کر، انھوں نے متاثرین کو تربیت دینے کا منصوبہ بنایا تاکہ وہ اگلی بار زیادہ محتاط رہیں۔ انھوں نے کچھ نکات طے کیے، جو ایسی آفات میں لوگوں کو محفوظ رہنے میں مدد کر سکتے ہیں۔ مل کر، انھوں نے وہ نکات بڑی سفید چادروں پر لکھے۔ اس کے بعد، انھوں نے لوگوں کا ایک گروہ جمع کیا اور انھیں 'سیلاب کے دوران حفاظت کو یقینی بنانے' کے بارے میں بتایا۔"
+          },
+          {
+            "en": "Here are some of the points that they shared with the people:",
+            "sd": "هي اهي ڪجهه نقطا آهن، جيڪي انهن ماڻهن کي ٻڌايا:",
+            "ur": "یہ کچھ نکات ہیں، جو انھوں نے لوگوں کو بتائے:"
+          },
+          {
+            "en": "Before a Flood: Always listen to the radio or television for flood information; Be prepared! Pack a bag with important items in case you need to evacuate your home; If the government tells you to evacuate, do so immediately; If a flood is expected, move immediately to higher ground; Turn off and disconnect all electrical things.",
+            "sd": "ٻوڏ کان اڳ: ٻوڏ بابت ڄاڻ لاءِ هميشه ريڊيو يا ٽيليويزن ٻڌو؛ تيار رھو! گھر ڇڏڻ جي صورت ۾ ضروري شيون هڪ ٿيلهي ۾ وجھو؛ جيڪڏهن حڪومت توهان کي گھر ڇڏڻ لاءِ چوي ته فوراً ائين ڪريو؛ جيڪڏهن ٻوڏ جي اميد هجي ته فوراً اوچي زمين ڏانهن هليا وڃو؛ سڀ بجليءَ جون شيون بند ڪريو ۽ انهن جا ڪنيڪشن ڪڍي ڇڏيو.",
+            "ur": "سیلاب سے پہلے: سیلاب کی معلومات کے لیے ہمیشہ ریڈیو یا ٹیلی ویژن سنیں؛ تیار رہیں! گھر چھوڑنے کی صورت میں ضروری چیزیں ایک تھیلے میں رکھیں؛ اگر حکومت آپ کو گھر چھوڑنے کے لیے کہے تو فوراً ایسا کریں؛ اگر سیلاب کی توقع ہو تو فوراً اونچی زمین کی طرف چلے جائیں؛ بجلی کی تمام چیزیں بند کر دیں اور ان کے کنکشن نکال دیں۔"
+          },
+          {
+            "en": "During a Flood: If you have to walk in water, try to walk where the water is not flowing. As little as 6 inches (15 centimeters) of flowing water can make you fall; Use a stick to check the firmness of the ground in front of you; Hold the hands of children and old and weak people when walking in water; Only carry the most important things when leaving your house during a flood; Do not touch electrical things if you are wet or standing in water.",
+            "sd": "ٻوڏ دوران: جيڪڏهن توهان کي پاڻيءَ ۾ هلڻو پوي ته اتي هلڻ جي ڪوشش ڪريو، جتي پاڻي نه وهي رھيو هجي. وهندڙ پاڻيءَ جا رڳو 6 انچ (15 سينٽي ميٽر) به توهان کي ڪيرائي سگھن ٿا؛ توهان جي سامهون زمين جي مضبوطي چيڪ ڪرڻ لاءِ لٺ استعمال ڪريو؛ پاڻيءَ ۾ هلڻ وقت ٻارن ۽ پوڙهن ۽ ڪمزور ماڻهن جا هٿ جهليو؛ ٻوڏ دوران گھر ڇڏڻ وقت رڳو سڀ کان اهم شيون کڻي وڃو؛ جيڪڏهن توهان آلا آهيو يا پاڻيءَ ۾ بيٺا آهيو ته بجليءَ جي شين کي نه ڇھو.",
+            "ur": "سیلاب کے دوران: اگر آپ کو پانی میں چلنا پڑے تو وہاں چلنے کی کوشش کریں، جہاں پانی بہہ نہیں رہا ہو۔ بہتے ہوئے پانی کے صرف 6 انچ (15 سینٹی میٹر) بھی آپ کو گرا سکتے ہیں؛ اپنے سامنے زمین کی مضبوطی جانچنے کے لیے ایک چھڑی استعمال کریں؛ پانی میں چلتے وقت بچوں اور بوڑھے اور کمزور لوگوں کے ہاتھ پکڑیں؛ سیلاب کے دوران گھر چھوڑتے وقت صرف سب سے اہم چیزیں ساتھ لے جائیں؛ اگر آپ گیلے ہوں یا پانی میں کھڑے ہوں تو بجلی کی چیزوں کو نہ چھوئیں۔"
+          },
+          {
+            "en": "After a Flood: Return home only when you are told that it is safe; Wash and clean everything in your house; Drink water that is safe to drink; Stay away from fallen electric lines, and report them to the power company; Avoid bathing or walking in floodwater.",
+            "sd": "ٻوڏ کان پوءِ: گھر تڏهن ئي موٽيو، جڏهن توهان کي ٻڌايو وڃي ته اهو محفوظ آهي؛ پنهنجي گھر جون سڀ شيون ڌوئي صاف ڪريو؛ اهو پاڻي پيئو، جيڪو پيئڻ لاءِ محفوظ هجي؛ ڪريل بجليءَ جي تارن کان پري رھو ۽ انهن بابت بجلي ڪمپنيءَ کي اطلاع ڏيو؛ ٻوڏ جي پاڻيءَ ۾ غسل ڪرڻ يا هلڻ کان پاسو ڪريو.",
+            "ur": "سیلاب کے بعد: گھر صرف تب لوٹیں، جب آپ کو بتایا جائے کہ یہ محفوظ ہے؛ اپنے گھر کی ہر چیز دھو کر صاف کریں؛ وہ پانی پئیں، جو پینے کے لیے محفوظ ہو؛ گری ہوئی بجلی کی تاروں سے دور رہیں اور ان کے بارے میں بجلی کمپنی کو اطلاع دیں؛ سیلاب کے پانی میں نہانے یا چلنے سے پرہیز کریں۔"
+          },
+          {
+            "en": "At night, Zubair spread his quilted mattress on the floor and lay down on it. He closed his eyes expecting the nightmare of his mother drowning but this did not happen. In his dream he saw his mother but she was wearing a pure white shalwar suit. She had covered her white hair with a fine, white muslin dupatta. Her long dupatta flew behind her as if trying to reach the sky. Her eyes glittered like diamonds and her wrinkle-free skin glowed in the faint light.",
+            "sd": "رات جو، زبير پنهنجو رليءَ وارو گدو فرش تي وڇايو ۽ ان تي ليٽي پيو. هن اکيون بند ڪيون، پنهنجي ماءُ جي ٻڏڻ جي ڊپ واري خواب جي اميد ڪندي، پر ائين نه ٿيو. پنهنجي خواب ۾ هن پنهنجي ماءُ کي ڏٺو، پر هوءَ خالص اڇو شلوار قميص پائي رھي هئي. هن پنهنجا اڇا وار هڪ نفيس، اڇي ململ جي دوپٽي سان ڍڪيا هئا. هن جو ڊگھو دوپٽو هن جي پٺيان آسمان ڏانهن پھچڻ جي ڪوشش ڪندي اڏامي رھيو هو. هن جون اکيون هيرن وانگر چمڪي رھيون هيون ۽ هن جي جھريون کان سواءِ چمڙي مدھم روشنيءَ ۾ چمڪي رھي هئي.",
+            "ur": "رات کو، زبیر نے اپنا رضائی والا گدا فرش پر بچھایا اور اس پر لیٹ گیا۔ اس نے اپنی آنکھیں بند کیں، اپنی ماں کے ڈوبنے کے بھیانک خواب کی توقع کرتے ہوئے، لیکن ایسا نہ ہوا۔ اپنے خواب میں اس نے اپنی ماں کو دیکھا، لیکن وہ خالص سفید شلوار قمیض پہنے ہوئے تھی۔ اس نے اپنے سفید بال ایک باریک، سفید ململ کی دوپٹے سے ڈھانپے ہوئے تھے۔ اس کا لمبا دوپٹہ اس کے پیچھے آسمان تک پہنچنے کی کوشش کرتے ہوئے اڑ رہا تھا۔ اس کی آنکھیں ہیروں کی طرح چمک رہی تھیں اور اس کی جھریوں سے پاک جلد مدھم روشنی میں چمک رہی تھی۔"
+          },
+          {
+            "en": "She looked at him, smiling sweetly, and said, 'You did a great job. Keep it up! God helps those who help themselves.'",
+            "sd": "هن هن ڏانهن مسڪرائيندي ڏٺو ۽ چيو: 'تو وڏو سٺو ڪم ڪيو آهي. ائين ئي جاري رک! الله انهن جي مدد ڪري ٿو، جيڪي پنهنجي مدد پاڻ ڪن ٿا.'",
+            "ur": "اس نے مسکراتے ہوئے اس کی طرف دیکھا اور کہا: 'تم نے بہت اچھا کام کیا ہے۔ اسی طرح جاری رکھو! اللہ ان کی مدد کرتا ہے، جو اپنی مدد خود کرتے ہیں۔'"
+          },
+          {
+            "en": "When he woke up in the morning he was feeling very fresh and energetic.",
+            "sd": "جڏهن هو صبح جو جاڳيو ته هو بلڪل تازو ۽ سرگرم محسوس ڪري رھيو هو.",
+            "ur": "جب وہ صبح جاگا تو وہ بالکل تازہ اور چست محسوس کر رہا تھا۔"
+          }
+        ],
+        "section": "3.1",
+        "unit": 3,
+        "unitTitle": "Awareness of Crisis, Accidents and Natural Calamities"
+      },
+      {
+        "bookPages": "74",
+        "lesson": "The blind boy",
+        "paragraphs": [
+          {
+            "en": "O say what is that thing call'd Light, Which I must ne'er enjoy; What are the blessings of the sight, O tell your poor blind boy!",
+            "sd": "اي چئو ته روشني نالي اها شيءِ ڇا آهي، جنهن مان مان ڪڏهن به لطف اندوز نه ٿي سگھندس؛ ڏسڻ جون نعمتون ڇا آهن، اي منهنجا غريب انڌا ڇوڪرا، مون کي ٻڌايو!",
+            "ur": "اے بتاؤ کہ روشنی نام کی وہ چیز کیا ہے، جس سے میں کبھی لطف اندوز نہیں ہو سکوں گا؛ دیکھنے کی نعمتیں کیا ہیں، اے میرے غریب اندھے لڑکے، مجھے بتاؤ!"
+          },
+          {
+            "en": "You talk of wondrous things you see; You say the sun shines bright; I feel him warm, but how can he Or make it day or night?",
+            "sd": "اوهان انهن عجيب شين جي ڳالھھ ڪيو ٿا، جيڪي اوهان ڏسو ٿا؛ اوهان چئو ٿا ته سج چمڪي ٿو؛ مان کيس گرم محسوس ڪريان ٿو، پر هو ڪيئن ڏينهن يا رات بڻائي سگھي ٿو؟",
+            "ur": "تم ان عجیب چیزوں کی بات کرتے ہو جو تم دیکھتے ہو؛ تم کہتے ہو کہ سورج چمکتا ہے؛ میں اسے گرم محسوس کرتا ہوں، لیکن وہ دن یا رات کیسے بنا سکتا ہے؟"
+          },
+          {
+            "en": "My day or night myself I make Whene'er I sleep or play, And could I ever keep awake With me 'twere always day.",
+            "sd": "منهنجو ڏينهن يا رات مان پاڻ بڻايان ٿو، جڏهن به مان سمھان ٿو يا راند ڪريان ٿو، ۽ جيڪڏهن مان ڪڏهن به جاڳندو رھي سگھان ٿو ته منهنجي لاءِ هميشه ڏينهن ئي آهي.",
+            "ur": "میرا دن یا رات میں خود بناتا ہوں، جب بھی میں سوتا ہوں یا کھیلتا ہوں، اور اگر میں کبھی جاگتا رہ سکوں تو میرے لیے ہمیشہ دن ہی رہتا ہے۔"
+          },
+          {
+            "en": "With heavy sighs I often hear You mourn my hapless woe; But sure with patience I can bear A loss I ne'er can know.",
+            "sd": "ڳرن ساھن سان مان اڪثر ٻڌندو آهيان ته اوهان منهنجي بدقسمتي واري ڏک تي افسوس ڪيو ٿا؛ پر يقينن صبر سان مان اهو نقصان برداشت ڪري سگھان ٿو، جنهن کي مان ڪڏهن به ڄاڻي نه سگھندس.",
+            "ur": "بھاری آہوں کے ساتھ میں اکثر سنتا ہوں کہ تم میری بدقسمتی کے دکھ پر افسوس کرتے ہو؛ لیکن یقیناً صبر کے ساتھ میں اس نقصان کو برداشت کر سکتا ہوں، جسے میں کبھی جان نہیں سکتا۔"
+          },
+          {
+            "en": "Then let not what I cannot have My cheer of mind destroy; Whilst thus I sing, I am a king, Although a poor blind boy.",
+            "sd": "پوءِ جيڪا شيءِ مون کي ملي نه ٿي سگھي، ان کي منهنجي دل جي خوشي برباد ڪرڻ نه ڏيو؛ جڏهن مان اهڙي طرح ڳائيندو آهيان، مان هڪ بادشاھھ آهيان، جيتوڻيڪ هڪ غريب انڌو ڇوڪرو آهيان.",
+            "ur": "پھر جو کچھ مجھے نہیں مل سکتا، اسے میرے دل کی خوشی برباد نہ کرنے دو؛ جب میں اس طرح گاتا ہوں، میں ایک بادشاہ ہوں، اگرچہ ایک غریب اندھا لڑکا ہوں۔"
+          }
+        ],
+        "section": "4.1",
+        "unit": 4,
+        "unitTitle": "Awareness of and Empathy with Special People"
+      },
+      {
+        "bookPages": "97-100",
+        "lesson": "Pakistan home to ancient civilization",
+        "paragraphs": [
+          {
+            "en": "Pakistan is a land that is home to one of the greatest civilizations in the world, the Indus Valley Civilization. However, traces of other civilizations that existed before that can also be seen. If we take a flying trip of the ancient historical sites across the four provinces of Pakistan we can see that, before the arrival of Islam, followers of some of the great religions of the world lived and thrived here. So, let's take a two-day helicopter trip across Pakistan. This flying trip will only allow us to land at a site, look at it briefly, and learn some very basic facts about it.",
+            "sd": "پاڪستان اهڙي سرزمين آهي، جيڪا دنيا جي عظيم تھذيبن مان هڪ، سنڌو ماٿري جي تھذيب، جو گھر آهي. پر، ان کان اڳ موجود ٻين تھذيبن جا نشان به هتي ڏسي سگھجن ٿا. جيڪڏهن اسان پاڪستان جي چئن صوبن ۾ پکڙيل قديم تاريخي ماڳن جو هوائي سفر ڪريون ته اسان کي خبر پوندي ته اسلام جي اچڻ کان اڳ، دنيا جي وڏن مذهبن جا پيروڪار هتي رھندا ۽ ترقي ڪندا هئا. سو، اچو ته پاڪستان جي ٻن ڏينهن واري هيلي ڪاپٽر واري سفر تي هلون. هي اڏام وارو سفر اسان کي صرف ايترو موقعو ڏيندو ته اسان ڪنهن ماڳ تي لهي، ان کي ٿوري دير ڏسون ۽ ان بابت ڪجهه بنيادي حقيقتون سکون.",
+            "ur": "پاکستان ایک ایسی سرزمین ہے جو دنیا کی عظیم ترین تہذیبوں میں سے ایک، وادیٔ سندھ کی تہذیب، کا گھر ہے۔ تاہم، اس سے پہلے موجود دیگر تہذیبوں کے آثار بھی یہاں دیکھے جا سکتے ہیں۔ اگر ہم پاکستان کے چاروں صوبوں میں پھیلے ہوئے قدیم تاریخی مقامات کا فضائی سفر کریں تو ہمیں معلوم ہوگا کہ اسلام کی آمد سے پہلے، دنیا کے بڑے مذاہب کے پیروکار یہاں رہتے اور ترقی کرتے تھے۔ تو آئیے پاکستان کا دو روزہ ہیلی کاپٹر کا سفر کریں۔ یہ پرواز ہمیں صرف اتنا موقع دے گی کہ ہم کسی مقام پر اتریں، اسے مختصر طور پر دیکھیں اور اس کے بارے میں کچھ بنیادی حقائق سیکھیں۔"
+          },
+          {
+            "en": "Let us begin our journey from the southern part of Pakistan, from Bhambore, an ancient city, situated on the northern bank of the Gharo creek, about 65 km east of Karachi, in the Thatta District of Sindh. This city was built in the 1st Century BC and was slowly abandoned after the 13th Century, due to the change in the direction of the river Indus.",
+            "sd": "اچو ته پنهنجو سفر پاڪستان جي ڏاکڻي حصي کان شروع ڪريون، ڀنڀور کان، جيڪو هڪ قديم شهر آهي، جيڪو گھارو ڇاڙ جي اترئين ڪناري تي واقع آهي، ڪراچي کان اٽڪل 65 ڪلوميٽر اوڀر طرف، سنڌ جي ٺٽي ضلعي ۾. هي شهر پهرين صدي قبل مسيح ۾ اڏيو ويو هو ۽ 13هين صدي کان پوءِ آهستي آهستي ڇڏي ڏنو ويو، ڇاڪاڻ ته سنڌو ندي جي رخ ۾ تبديلي اچي وئي هئي.",
+            "ur": "آئیے اپنا سفر پاکستان کے جنوبی حصے سے شروع کریں، بھنبھور سے، جو ایک قدیم شہر ہے، گھارو کریک کے شمالی کنارے پر واقع ہے، کراچی سے تقریباً 65 کلومیٹر مشرق کی طرف، سندھ کے ضلع ٹھٹہ میں۔ یہ شہر پہلی صدی قبل مسیح میں بنایا گیا تھا اور 13ویں صدی کے بعد آہستہ آہستہ چھوڑ دیا گیا، کیونکہ دریائے سندھ کی سمت بدل گئی تھی۔"
+          },
+          {
+            "en": "The Bhambore site shows three periods. The main buildings that have been found from the three periods are a palace type stone building, with a semi-circular shape, from the earliest age; a Shiva temple from the Hindu period; and a mosque, with 727 AD written on it. This is, probably, the best preserved earliest mosques in the region.",
+            "sd": "ڀنڀور جي ماڳ ۾ ٽي دور ڏسڻ ۾ اچن ٿا. ٽنهي دورن مان مليل مکيه عمارتن ۾ پهرين دور جي هڪ اڌ گول شڪل واري محلات جھڙي پٿر جي عمارت، هندو دور جو هڪ شيوا مندر، ۽ هڪ مسجد آهي، جنهن تي 727 عيسوي لکيل آهي. هي شايد هن خطي جي پهرين ۽ بهترين محفوظ قديم مسجدن مان هڪ آهي.",
+            "ur": "بھنبھور کا مقام تین ادوار کو ظاہر کرتا ہے۔ تینوں ادوار سے ملنے والی اہم عمارتوں میں ابتدائی دور کی ایک نیم دائرہ شکل والی محل نما پتھر کی عمارت، ہندو دور کا ایک شیو مندر، اور ایک مسجد ہے، جس پر 727 عیسوی لکھا ہے۔ یہ شاید اس خطے کی ابتدائی اور بہترین محفوظ مساجد میں سے ایک ہے۔"
+          },
+          {
+            "en": "Having looked at Bhambore, let's get back on our helicopter and go to our next stop, which is Mohenjo-Daro. It is in the province of Sindh and is located in the Larkana District, around 28 km from the town of Larkana. It was one of the largest settlements of the ancient Indus Valley Civilization, and one of the world's earliest major urban settlements. Mohenjo-Daro was built in the 26th Century BC and was abandoned in the 19th Century BC, as the Indus Valley Civilization lost power.",
+            "sd": "ڀنڀور کي ڏسڻ کان پوءِ، اچو ته وري پنهنجي هيلي ڪاپٽر تي سوار ٿيون ۽ پنهنجي ايندڙ منزل، موهن جو دڙو، ڏانهن هلون. اهو سنڌ صوبي ۾ آهي ۽ لاڙڪاڻي ضلعي ۾ واقع آهي، لاڙڪاڻي شهر کان اٽڪل 28 ڪلوميٽر پري. اهو قديم سنڌو ماٿري جي تھذيب جي وڏين وسندين مان هڪ هو، ۽ دنيا جي پهرين وڏين شهري وسندين مان هڪ هو. موهن جو دڙو 26هين صدي قبل مسيح ۾ اڏيو ويو هو ۽ 19هين صدي قبل مسيح ۾ ڇڏي ڏنو ويو، جڏهن سنڌو ماٿري جي تھذيب پنهنجي طاقت وڃائي ڇڏي.",
+            "ur": "بھنبھور کو دیکھنے کے بعد، آئیے پھر اپنے ہیلی کاپٹر پر سوار ہوں اور اپنی اگلی منزل، موہن جو دڑو، کی طرف چلیں۔ یہ سندھ صوبے میں ہے اور لاڑکانہ ضلع میں واقع ہے، لاڑکانہ شہر سے تقریباً 28 کلومیٹر دور۔ یہ قدیم وادیٔ سندھ کی تہذیب کی بڑی بستیوں میں سے ایک تھا، اور دنیا کی ابتدائی بڑی شہری بستیوں میں سے ایک تھا۔ موہن جو دڑو 26ویں صدی قبل مسیح میں بنایا گیا تھا اور 19ویں صدی قبل مسیح میں چھوڑ دیا گیا، جب وادیٔ سندھ کی تہذیب نے اپنی طاقت کھو دی۔"
+          },
+          {
+            "en": "Mohenjo-Daro was a highly organized and well planned city with properly planned streets. The city had a central marketplace, with a large central well and other smaller wells. Waste water from the houses went into covered drains that lined the major streets.",
+            "sd": "موهن جو دڙو هڪ تمام گھڻو منظم ۽ چڱي طرح رٿيل شهر هو، جنهن جون گھٽيون چڱي طرح رٿيل هيون. شهر ۾ هڪ مرڪزي بازار هئي، جنهن ۾ هڪ وڏو مرڪزي کوه ۽ ٻيا ننڍا کوه هئا. گھرن جو گندو پاڻي ڍڪيل نالين ۾ ويندو هو، جيڪي مکيه گھٽين جي ڪنارن سان گڏ هيون.",
+            "ur": "موہن جو دڑو ایک بہت منظم اور اچھی طرح منصوبہ بند شہر تھا، جس کی گلیاں اچھی طرح منصوبہ بند تھیں۔ شہر میں ایک مرکزی بازار تھا، جس میں ایک بڑا مرکزی کنواں اور دیگر چھوٹے کنویں تھے۔ گھروں کا گندا پانی ڈھکی ہوئی نالیوں میں جاتا تھا، جو بڑی گلیوں کے کنارے بنی ہوئی تھیں۔"
+          },
+          {
+            "en": "One can stay at Mohenjo-Daro for days and yet not learn enough about it but it is now time to go to Nindowari, which is in the Kalat District of Balochistan. It is located some 240 kilometres northwest of Karachi, in the Ornach Valley, on the right bank of the Kud River. Nindowari is a site of the prehistoric Kulli culture of Balochistan. It dates back to 3200 BC and was probably abandoned in 2500 BC, because the land rose up, due to which it got cut off from its water source, the Kud River.",
+            "sd": "ڪو به ماڻهو موهن جي دڙي تي ڏينهن تائين رھي سگھي ٿو ۽ پوءِ به ان بابت ڪافي ڪجهه نه سکي سگھي، پر هاڻي ننڊواري وڃڻ جو وقت آهي، جيڪو بلوچستان جي قلات ضلعي ۾ آهي. اهو ڪراچي کان اٽڪل 240 ڪلوميٽر اتر اوله طرف، اورناچ ماٿري ۾، ڪد ندي جي ساڄي ڪناري تي واقع آهي. ننڊواري بلوچستان جي قبل از تاريخ ڪلي ثقافت جو هڪ ماڳ آهي. اهو 3200 قبل مسيح جو آهي ۽ شايد 2500 قبل مسيح ۾ ڇڏي ڏنو ويو، ڇاڪاڻ ته زمين مٿي ٿي وئي، جنهن ڪري اهو پنهنجي پاڻي جي ذريعي، ڪد ندي، کان ڪٽجي ويو.",
+            "ur": "کوئی بھی شخص موہن جو دڑو میں دنوں تک رہ سکتا ہے اور پھر بھی اس کے بارے میں کافی کچھ نہیں سیکھ سکتا، لیکن اب ننڈواری جانے کا وقت ہے، جو بلوچستان کے ضلع قلات میں ہے۔ یہ کراچی سے تقریباً 240 کلومیٹر شمال مغرب کی طرف، اورناچ وادی میں، دریائے کد کے دائیں کنارے پر واقع ہے۔ ننڈواری بلوچستان کی قبل از تاریخ کلی ثقافت کا ایک مقام ہے۔ یہ 3200 قبل مسیح کا ہے اور شاید 2500 قبل مسیح میں چھوڑ دیا گیا تھا، کیونکہ زمین اوپر اٹھ گئی تھی، جس کی وجہ سے یہ اپنے پانی کے ذریعے، دریائے کد، سے کٹ گیا تھا۔"
+          },
+          {
+            "en": "The Nindowari settlement was built on a flat rock. It had a central square platform, which was surrounded by buildings on one side. The central mound near the platform was 82 feet (25 m) high and consisted of large stones. The top of the mound could be reached by a staircase from the platform.",
+            "sd": "ننڊواري جي وسندي هڪ سڌي پٿر تي اڏيل هئي. ان ۾ هڪ مرڪزي چورس چبوترو هو، جنهن جي هڪ پاسي عمارتون هيون. چبوتري جي ويجهو مرڪزي دڙو 82 فٽ (25 ميٽر) اوچو هو ۽ وڏن پٿرن جو ٺھيل هو. دڙي جي چوٽي تي چبوتري کان ڏاڪڻ ذريعي پهچي سگھجي ٿو.",
+            "ur": "ننڈواری کی بستی ایک ہموار چٹان پر بنی ہوئی تھی۔ اس میں ایک مرکزی مربع چبوترا تھا، جس کے ایک طرف عمارتیں تھیں۔ چبوترے کے قریب مرکزی ٹیلہ 82 فٹ (25 میٹر) اونچا تھا اور بڑے پتھروں سے بنا ہوا تھا۔ ٹیلے کی چوٹی تک چبوترے سے سیڑھی کے ذریعے پہنچا جا سکتا تھا۔"
+          },
+          {
+            "en": "It is time now to go to Sahiwal, before night falls. Early in the morning, we again get on the helicopter and go to Harappa, in Punjab, about 24 km west of Sahiwal. The site of this ancient city contains the ruins of a Bronze Age fortified city. The skeletons found in the ruins show that the city was destroyed due to wars, and diseases like leprosy and tuberculosis. Harappa was built around 2600 BC and lasted till 1300 BC.",
+            "sd": "هاڻي ساهيوال وڃڻ جو وقت آهي، ان کان اڳ جو رات پوي. صبح جو سوير، اسان وري هيلي ڪاپٽر تي سوار ٿيون ٿا ۽ پنجاب ۾، ساهيوال کان اٽڪل 24 ڪلوميٽر اوله طرف، هڙپا ڏانهن وڃون ٿا. هن قديم شهر جي ماڳ ۾ ڪانسي جي دور جي هڪ قلعي بند شهر جا کنڊر آهن. کنڊرن مان ملندڙ انساني هڏا ڏيکارين ٿا ته شهر جنگين ۽ جذام ۽ تپ دق جھڙين بيمارين سبب تباه ٿيو هو. هڙپا اٽڪل 2600 قبل مسيح ۾ اڏيو ويو هو ۽ 1300 قبل مسيح تائين قائم رھيو.",
+            "ur": "اب ساہیوال جانے کا وقت ہے، اس سے پہلے کہ رات ہو جائے۔ صبح سویرے، ہم پھر ہیلی کاپٹر پر سوار ہوتے ہیں اور پنجاب میں، ساہیوال سے تقریباً 24 کلومیٹر مغرب کی طرف، ہڑپہ کی طرف جاتے ہیں۔ اس قدیم شہر کے مقام میں کانسی کے دور کے ایک قلعہ بند شہر کے کھنڈرات ہیں۔ کھنڈرات سے ملنے والے انسانی ڈھانچے بتاتے ہیں کہ شہر جنگوں اور جذام اور تپ دق جیسی بیماریوں کی وجہ سے تباہ ہوا تھا۔ ہڑپہ تقریباً 2600 قبل مسیح میں بنایا گیا تھا اور 1300 قبل مسیح تک قائم رہا۔"
+          },
+          {
+            "en": "From Harappa we head towards Taxila, meaning the \"City of Cut Stone\", in the Rawalpindi District of Punjab. It is situated about 32 km north-west of Islamabad and Rawalpindi. The city probably came into existence in the late 2nd millennium BC and survived till the 5th Century AD, when it was finally destroyed by the Huns.",
+            "sd": "هڙپا کان اسان ٽيڪسيلا ڏانهن هلون ٿا، جنهن جي معنيٰ آهي 'ڪٽيل پٿر جو شهر'، جيڪو پنجاب جي راولپنڊي ضلعي ۾ آهي. اهو اسلام آباد ۽ راولپنڊي کان اٽڪل 32 ڪلوميٽر اتر اوله طرف واقع آهي. شهر شايد ٻئي هزاري قبل مسيح جي آخر ۾ وجود ۾ آيو ۽ 5هين صدي عيسوي تائين قائم رھيو، جڏهن اهو آخرڪار هنن هٿان تباه ڪيو ويو.",
+            "ur": "ہڑپہ سے ہم ٹیکسلا کی طرف چلتے ہیں، جس کے معنی ہیں 'کٹے ہوئے پتھر کا شہر'، جو پنجاب کے ضلع راولپنڈی میں ہے۔ یہ اسلام آباد اور راولپنڈی سے تقریباً 32 کلومیٹر شمال مغرب کی طرف واقع ہے۔ شہر شاید دوسری ہزاری قبل مسیح کے آخر میں وجود میں آیا اور 5ویں صدی عیسوی تک قائم رہا، جب یہ آخرکار ہنوں کے ہاتھوں تباہ کر دیا گیا۔"
+          },
+          {
+            "en": "Earlier, the city was an important trade centre but, later, it lost its importance. The main ruins of Taxila are divided into three major cities, with each city clearly representing a different time period. The ruins of Taxila contain buildings and Buddhist stupas, located over a large area. It is also believed that Taxila had one of the earliest universities in the world.",
+            "sd": "پهرين، شهر هڪ اهم واپاري مرڪز هو، پر پوءِ ان پنهنجي اهميت وڃائي ڇڏي. ٽيڪسيلا جا مکيه کنڊر ٽن وڏن شهرن ۾ ورهايل آهن، جنهن ۾ هر شهر صاف طور تي هڪ مختلف دور جي نمائندگي ڪري ٿو. ٽيڪسيلا جي کنڊرن ۾ عمارتون ۽ بدھ اسٽوپا آهن، جيڪي وڏي علائقي ۾ پکڙيل آهن. اهو به مڃيو وڃي ٿو ته ٽيڪسيلا ۾ دنيا جي پهرين يونيورسٽين مان هڪ هئي.",
+            "ur": "پہلے، شہر ایک اہم تجارتی مرکز تھا، لیکن بعد میں اس نے اپنی اہمیت کھو دی۔ ٹیکسلا کے اہم کھنڈرات تین بڑے شہروں میں تقسیم ہیں، جن میں سے ہر شہر واضح طور پر ایک مختلف دور کی نمائندگی کرتا ہے۔ ٹیکسلا کے کھنڈرات میں عمارتیں اور بدھ اسٹوپے ہیں، جو ایک بڑے علاقے میں پھیلے ہوئے ہیں۔ یہ بھی مانا جاتا ہے کہ ٹیکسلا میں دنیا کی ابتدائی یونیورسٹیوں میں سے ایک تھی۔"
+          },
+          {
+            "en": "It is now time to go to another site worth visiting, which is Rehman Dheri, situated 22 kilometres north of Dera Ismail Khan, in Khyber Pakhtunkhwa. This fortified town is dated about 3300 BC and was abandoned around 1900 BC.",
+            "sd": "هاڻي هڪ ٻئي ڏسڻ لائق ماڳ ڏانهن وڃڻ جو وقت آهي، جيڪو رحمان ڍيري آهي، جيڪو خيبر پختونخوا ۾، ڊيرا اسماعيل خان کان 22 ڪلوميٽر اتر طرف واقع آهي. هي قلعي بند شهر اٽڪل 3300 قبل مسيح جو آهي ۽ اٽڪل 1900 قبل مسيح ۾ ڇڏي ڏنو ويو.",
+            "ur": "اب ایک اور دیکھنے کے قابل مقام پر جانے کا وقت ہے، جو رحمان ڈھیری ہے، جو خیبر پختونخوا میں، ڈیرہ اسماعیل خان سے 22 کلومیٹر شمال کی طرف واقع ہے۔ یہ قلعہ بند شہر تقریباً 3300 قبل مسیح کا ہے اور تقریباً 1900 قبل مسیح میں چھوڑ دیا گیا تھا۔"
+          },
+          {
+            "en": "Rehman Dheri shows three different periods. It is one of the oldest urbanised centres found so far in South Asia, and shows signs of town planning. The settlement was probably well planned in its earliest phases and these plans were followed in the later stages.",
+            "sd": "رحمان ڍيري ٽي مختلف دور ڏيکاري ٿي. اهو ڏکڻ ايشيا ۾ هن وقت تائين مليل سڀ کان پراڻن شهري مرڪزن مان هڪ آهي، ۽ شهر جي رٿابندي جا نشان ڏيکاري ٿي. وسندي شايد پنهنجي پهرين دورن ۾ چڱي طرح رٿيل هئي ۽ هي رٿا پوئين دورن ۾ به جاري رکيا ويا.",
+            "ur": "رحمان ڈھیری تین مختلف ادوار کو ظاہر کرتا ہے۔ یہ جنوبی ایشیا میں اب تک ملنے والے قدیم ترین شہری مراکز میں سے ایک ہے، اور شہر کی منصوبہ بندی کے آثار دکھاتا ہے۔ بستی شاید اپنے ابتدائی مراحل میں اچھی طرح منصوبہ بند تھی اور یہ منصوبے بعد کے مراحل میں بھی جاری رکھے گئے۔"
+          },
+          {
+            "en": "Our final stop over will be in Takht-i-Bahi, where people of the Zoroastrian religion, the religion of the Parsis, lived, before this area was taken over by the Buddhists. Takht-i-Bahi is located about 15 kilometres from Mardan, in Khyber-Pakhtunkhwa. It was built in four periods; beginning from the 1st Century BC and continuing up to the 7th Century CE.",
+            "sd": "اسان جو آخري پڑاءُ تخت بهائي ۾ هوندو، جتي زردشتي مذهب جا ماڻهو، جيڪو پارسي مذهب آهي، رھندا هئا، ان کان اڳ جو هي علائقو بدھ مت وارن هٿان ورتو ويو. تخت بهائي مردان کان اٽڪل 15 ڪلوميٽر پري، خيبر پختونخوا ۾ واقع آهي. اهو چئن دورن ۾ اڏيو ويو؛ پهرين صدي قبل مسيح کان شروع ٿي 7هين صدي عيسوي تائين جاري رھيو.",
+            "ur": "ہمارا آخری پڑاؤ تخت بھائی میں ہوگا، جہاں زرتشتی مذہب کے لوگ، جو پارسی مذہب ہے، رہتے تھے، اس سے پہلے کہ یہ علاقہ بدھ مت والوں کے قبضے میں آ گیا۔ تخت بھائی مردان سے تقریباً 15 کلومیٹر دور، خیبر پختونخوا میں واقع ہے۔ یہ چار ادوار میں بنایا گیا تھا؛ پہلی صدی قبل مسیح سے شروع ہو کر 7ویں صدی عیسوی تک جاری رہا۔"
+          },
+          {
+            "en": "There are four main areas of this complex: 1) the Stupa Court, which is a cluster of stupas located in a central courtyard, 2) the monastic chambers, which consists of individual cells arranged around a courtyard, assembly halls, and a dining area, 3) a temple complex, which consists of stupas similar to the Stupa Court, but of later construction, and 4) the Tantric monastic complex, which consists of small, dark cells, with low openings, which may have been used for certain forms of meditation.",
+            "sd": "هن ڪمپليڪس جا چار مکيه حصا آهن: 1) اسٽوپا ڪورٽ، جيڪو مرڪزي اڱڻ ۾ واقع اسٽوپن جو هڪ مجموعو آهي، 2) راهبن جا ڪمرا، جن ۾ اڱڻ جي چوڌاري ترتيب ڏنل الڳ الڳ ڪوٺڙيون، گڏجاڻي جا هال، ۽ هڪ کاڌي وارو علائقو آهي، 3) هڪ مندر ڪمپليڪس، جنهن ۾ اسٽوپا ڪورٽ جھڙا اسٽوپا آهن، پر پوءِ جي اڏاوت جا آهن، ۽ 4) تنترڪ راهبن جو ڪمپليڪس، جنهن ۾ ننڍا، اونداها ڪمرا آهن، جن ۾ ننڍا در آهن، جيڪي شايد مراقبي جي ڪجهه شڪلن لاءِ استعمال ڪيا ويندا هئا.",
+            "ur": "اس کمپلیکس کے چار اہم حصے ہیں: 1) اسٹوپا کورٹ، جو مرکزی صحن میں واقع اسٹوپوں کا ایک مجموعہ ہے، 2) راہبوں کے کمرے، جن میں صحن کے ارد گرد ترتیب دیے گئے الگ الگ کمرے، اسمبلی ہال، اور کھانے کا علاقہ ہے، 3) ایک مندر کمپلیکس، جس میں اسٹوپا کورٹ جیسے اسٹوپے ہیں، لیکن بعد کی تعمیر کے ہیں، اور 4) تانترک راہبوں کا کمپلیکس، جس میں چھوٹے، تاریک کمرے ہیں، جن میں چھوٹے دروازے ہیں، جو شاید مراقبے کی کچھ شکلوں کے لیے استعمال کیے جاتے تھے۔"
+          },
+          {
+            "en": "Our two-day trip has come to an end but our journey into the past of Pakistan has just begun. There is so much ancient history here that we will need months, if not years, to really visit each site in order to understand and appreciate this variety of culture and diversity of faiths that has shaped this country over several millenniums. We are, indeed, the proud inheritors of a great and ancient heritage.",
+            "sd": "اسان جو ٻن ڏينهن وارو سفر ختم ٿي ويو آهي، پر پاڪستان جي ماضي ۾ اسان جو سفر هاڻي ئي شروع ٿيو آهي. هتي ايتري قديم تاريخ آهي جو اسان کي هر ماڳ کي حقيقت ۾ ڏسڻ، سمجھڻ ۽ ثقافت جي هن تنوع ۽ عقيدن جي هن گھڻائي کي ساراهڻ لاءِ، جنهن هن ملڪ کي ڪيترن ئي هزارين سالن کان شڪل ڏني آهي، مهينا، جيڪڏهن سال نه، گھرجن. اسان واقعي ئي هڪ عظيم ۽ قديم ورثي جا فخر وارا وارث آهيون.",
+            "ur": "ہمارا دو روزہ سفر ختم ہو گیا ہے، لیکن پاکستان کے ماضی میں ہمارا سفر ابھی شروع ہوا ہے۔ یہاں اتنی قدیم تاریخ ہے کہ ہمیں ہر مقام کو واقعی دیکھنے، سمجھنے اور ثقافت کی اس تنوع اور عقائد کی اس کثرت کو سراہنے کے لیے، جس نے اس ملک کو کئی ہزار سالوں سے شکل دی ہے، مہینے، اگر سال نہیں، درکار ہوں گے۔ ہم واقعی ایک عظیم اور قدیم ورثے کے فخر مند وارث ہیں۔"
+          }
+        ],
+        "section": "5.1",
+        "unit": 5,
+        "unitTitle": "Historical & Cultural Places of Pakistan"
+      },
+      {
+        "bookPages": "121-124",
+        "lesson": "Different Newspaper News",
+        "paragraphs": [
+          {
+            "en": "(1) YOUTH, NEPHEW DROWN IN RAINWATER POND MIRPURKHAS: A 15-year old boy and his five-year-old nephew drowned, after they fell into a pond of rainwater in Noor Mohammed Moosapota village, near Digri town, on Friday. Three other children accompanying them were rescued by area people. A group of local people jumped into the deep pond after hearing the victims' shouting for help and rescued three of them. However, Bhutta Khan, 15, and his nephew, Mohsin Khan, 5, had already died when the rescuer's brought their bodies out of the pond. The condition of Sami Khan, 10, and two other survivors, was stated to be stable at the Digri Taluka Hospital.",
+            "sd": "(1) نوجوان ۽ ڀاڻيجو برساتي پاڻيءَ جي تلاءَ ۾ ٻڏي مري ويا — ميرپورخاص: جمعي ڏينهن ڊگڙي شهر جي ويجهو نور محمد موسا پوٽا ڳوٺ ۾ هڪ 15 سالن جو ڇوڪرو ۽ سندس پنجن سالن جو ڀاڻيجو برساتي پاڻيءَ جي تلاءَ ۾ ڪري ٻڏي مري ويا. انهن سان گڏ ويندڙ ٻيا ٽي ٻار علائقي جي ماڻهن بچائي ورتا. مدد لاءِ متاثرن جون رڙيون ٻڌي، مقامي ماڻهن جي هڪ ٽولي اونهي تلاءَ ۾ ٽپي پئي ۽ انهن مان ٽن کي بچائي ورتو. پر ڀٽو خان، 15 سال، ۽ سندس ڀاڻيجو محسن خان، 5 سال، ان کان اڳ ئي مري چڪا هئا، جڏهن بچائيندڙن سندن لاش تلاءَ مان ٻاهر ڪڍيا. سامي خان، 10 سال، ۽ ٻين ٻن بچيل ٻارن جي حالت ڊگڙي تعلقي اسپتال ۾ مستحڪم ٻڌائي وئي.",
+            "ur": "(1) نوجوان اور بھتیجا بارش کے پانی کے تالاب میں ڈوب کر ہلاک ہو گئے — میرپورخاص: جمعہ کے دن ڈگری شہر کے قریب نور محمد موسیٰ پوٹا گاؤں میں ایک 15 سالہ لڑکا اور اس کا پانچ سالہ بھتیجا بارش کے پانی کے تالاب میں گر کر ڈوب گئے۔ ان کے ساتھ جانے والے دیگر تین بچوں کو علاقے کے لوگوں نے بچا لیا۔ متاثرین کی مدد کے لیے چیخیں سن کر مقامی لوگوں کا ایک گروہ گہرے تالاب میں کود پڑا اور ان میں سے تین کو بچا لیا۔ لیکن بھٹہ خان، 15 سال، اور اس کا بھتیجا محسن خان، 5 سال، اس سے پہلے ہی مر چکے تھے جب بچانے والوں نے ان کی لاشیں تالاب سے باہر نکالیں۔ سامی خان، 10 سال، اور دیگر دو زندہ بچ جانے والے بچوں کی حالت ڈگری تعلقہ اسپتال میں مستحکم بتائی گئی۔"
+          },
+          {
+            "en": "(2) NAMES THAT REFLECT OUR HERITAGE ISLAMABAD: During the second year of the Children's Literature Festival (CLF), the organizers decided to make a small, but significant, change. They decided to name the rooms where the CLF sessions would be held after authors and poets, and terms that reflect Pakistan's rich literary history. Hence, this year, sessions were held in the Khul Ja Sim Sim amphitheatre, the Shah Abdul Latif Bhittai Library, the Iqbal room, the Arfa Karim room, and the Manto room, among others. According to CLF organizer, The main reason for doing so was to make our children familiar with our rich literary heritage. Some of the sessions in these rooms had a connection with the names as well. For example, sessions connected to technology were held in the Arfa Karim room. Arfa was the youngest Microsoft Certified Professional until 2008.",
+            "sd": "(2) اهي نالا جيڪي اسان جي ورثي جي عڪاسي ڪن ٿا — اسلام آباد: ٻارن جي ادبي ميلي (سي ايل ايف) جي ٻئي سال ۾، منتظمين هڪ ننڍي پر اهم تبديلي آڻڻ جو فيصلو ڪيو. هنن فيصلو ڪيو ته اهي ڪمرا، جن ۾ ميلي جون گڏجاڻيون ٿيڻيون هيون، ليکڪن ۽ شاعرن جي نالن تي رکيا وڃن، ۽ اهڙن لفظن تي جيڪي پاڪستان جي امير ادبي تاريخ جي عڪاسي ڪن ٿا. ان ڪري، هن سال گڏجاڻيون کھل جا سم سم ايمفي ٿيٽر، شاھ عبداللطيف ڀٽائي لائبريري، اقبال ڪمرو، ارفع ڪريم ڪمرو ۽ منٽو ڪمرو، ۽ ٻين ڪمرن ۾ ٿيون. سي ايل ايف جي منتظم مطابق، ائين ڪرڻ جو مکيه سبب هي هو ته اسان جا ٻار اسان جي امير ادبي ورثي کان واقف ٿين. انهن ڪمرن ۾ ٿيندڙ ڪجهه گڏجاڻين جو نالن سان واسطو به هو. مثال طور، ٽيڪنالاجي سان واسطو رکندڙ گڏجاڻيون ارفع ڪريم ڪمري ۾ ٿيون. ارفع 2008ع تائين سڀ کان ننڍي مائڪروسافٽ سرٽيفائيڊ پروفيشنل هئي.",
+            "ur": "(2) وہ نام جو ہمارے ورثے کی عکاسی کرتے ہیں — اسلام آباد: بچوں کے ادبی میلے (سی ایل ایف) کے دوسرے سال میں منتظمین نے ایک چھوٹی مگر اہم تبدیلی کرنے کا فیصلہ کیا۔ انہوں نے فیصلہ کیا کہ جن کمروں میں میلے کی نشستیں ہوں گی ان کے نام مصنفوں اور شاعروں کے ناموں پر رکھے جائیں، اور ایسے الفاظ پر جو پاکستان کی شاندار ادبی تاریخ کی عکاسی کرتے ہیں۔ اس لیے اس سال نشستیں کھل جا سم سم ایمفی تھیٹر، شاہ عبداللطیف بھٹائی لائبریری، اقبال کمرہ، ارفع کریم کمرہ اور منٹو کمرہ سمیت دیگر کمروں میں ہوئیں۔ سی ایل ایف کے منتظم کے مطابق ایسا کرنے کی اصل وجہ یہ تھی کہ ہمارے بچے ہمارے شاندار ادبی ورثے سے واقف ہوں۔ ان کمروں میں ہونے والی کچھ نشستوں کا ناموں سے تعلق بھی تھا۔ مثال کے طور پر ٹیکنالوجی سے متعلق نشستیں ارفع کریم کمرے میں ہوئیں۔ ارفع 2008 تک سب سے کم عمر مائیکروسافٹ سرٹیفائیڈ پروفیشنل تھیں۔"
+          },
+          {
+            "en": "(3) ZOOKEEPER INJURED BY BIG CAT BAHAWALPUR: On Saturday, a zookeeper suffered critical injuries as a lion attacked him at the Bahawalpur Zoo. According to people, as soon as the lion's attendant, Fayyaz, entered the cage with beef, the lion's food, the big cat pounced on him and injured him with its paw. Fayyaz's screams attracted a number of zoo visitors and other employees who rushed to the scene. Fayyaz managed to come out of the cage and was rushed to Bahawal Victoria Hospital, where he was said to be critical. Some people believed that the lion attacked the attendant because it was hungry and the attendant had brought his food late. However, the Zoo Incharge, Naveedul Haq, denied that the big cat was hungry. He said Fayyaz entered the cage daily and the animal never attacked him. In fact, it had been friendly with him for the last two to three years, since the lion was shifted here from the Lahore Zoo.",
+            "sd": "(3) وڏي ٻلي هٿان زو ڪيپر زخمي — بهاولپور: ڇنڇر ڏينهن بهاولپور زو ۾ شينهن جي حملي ۾ هڪ زو ڪيپر سخت زخمي ٿي پيو. ماڻهن مطابق، جيئن ئي شينهن جو سنڀاليندڙ، فياض، ڍور جو گوشت، جيڪو شينهن جو کاڌو هو، کڻي پنجري ۾ داخل ٿيو، وڏي ٻلي مٿس ٽپي پئي ۽ کيس پنهنجي پنجي سان زخمي ڪري ڇڏيو. فياض جون رڙيون ٻڌي، زو جا ڪيترائي گھمڻ آيل ماڻهو ۽ ٻيا ملازم اتي ڊوڙي آيا. فياض پنجري مان ٻاهر نڪرڻ ۾ ڪامياب ٿي ويو ۽ کيس بهاول وڪٽوريا اسپتال پھچايو ويو، جتي سندس حالت نازڪ ٻڌائي وئي. ڪجهه ماڻهن جو خيال هو ته شينهن سنڀاليندڙ تي ان ڪري حملو ڪيو جو اهو بکيو هو ۽ سنڀاليندڙ سندس کاڌو دير سان کڻي آيو هو. پر زو انچارج، نويدالحق، ان ڳاله کان انڪار ڪيو ته وڏي ٻلي بکي هئي. هن چيو ته فياض روزانو پنجري ۾ ويندو هو ۽ جانور ڪڏهن به مٿس حملو نه ڪيو هو. حقيقت ۾، اهو گذريل ٻن کان ٽن سالن کان سندس دوست هو، جڏهن کان شينهن کي لاهور زو مان هتي منتقل ڪيو ويو هو.",
+            "ur": "(3) بڑی بلی کے ہاتھوں چڑیا گھر کا نگہبان زخمی — بہاولپور: ہفتہ کے دن بہاولپور چڑیا گھر میں شیر کے حملے میں ایک نگہبان شدید زخمی ہو گیا۔ لوگوں کے مطابق جیسے ہی شیر کا نگہبان فیاض گائے کا گوشت، جو شیر کی خوراک تھا، لے کر پنجرے میں داخل ہوا، بڑی بلی اس پر جھپٹی اور اسے اپنے پنجے سے زخمی کر دیا۔ فیاض کی چیخوں نے چڑیا گھر کے کئی زائرین اور دیگر ملازمین کو اپنی طرف متوجہ کیا جو جائے وقوعہ کی طرف دوڑ پڑے۔ فیاض پنجرے سے باہر نکلنے میں کامیاب ہو گیا اور اسے بہاول وکٹوریہ اسپتال لے جایا گیا جہاں اس کی حالت نازک بتائی گئی۔ کچھ لوگوں کا خیال تھا کہ شیر نے نگہبان پر اس لیے حملہ کیا کہ وہ بھوکا تھا اور نگہبان اس کی خوراک دیر سے لایا تھا۔ تاہم چڑیا گھر کے انچارج نوید الحق نے اس بات سے انکار کیا کہ بڑی بلی بھوکی تھی۔ انہوں نے کہا کہ فیاض روزانہ پنجرے میں جاتا تھا اور جانور نے کبھی اس پر حملہ نہیں کیا تھا۔ دراصل وہ گزشتہ دو سے تین سال سے اس کا دوست تھا جب سے شیر کو لاہور چڑیا گھر سے یہاں منتقل کیا گیا تھا۔"
+          },
+          {
+            "en": "(4) DENGUE AWARENESS WALK HELD IN DIR TIMERGARA: Lower Dir Deputy Commissioner, requested people from all walks of life to raise awareness about the dengue threat in the district. He said that collective work could help prevent dengue threats in the area. Speaking on the occasion of a dengue awareness walk in Talash the other day, he said the local administration, health department, civil department, media and the education department should join hands against dengue. The district team of the Medical Emergency and Relief International (Merlin), Talash traders and social and political workers participated in the walk. The district team leader of Merlin, informed the participants that the only dengue case was found in the Talash area. He also said that during a recent survey dengue larvae were found in 18 houses and 84 water tanks in various localities of Shahikhel in Talash.",
+            "sd": "(4) دير ۾ ڊينگي بابت آگاهي واڪ — ٽيمرگرا: لوئر دير جي ڊپٽي ڪمشنر زندگي جي هر طبقي جي ماڻهن کي اپيل ڪئي ته ضلعي ۾ ڊينگي جي خطري بابت آگاهي پيدا ڪن. هن چيو ته گڏيل ڪم علائقي ۾ ڊينگي جي خطرن کي روڪڻ ۾ مدد ڪري سگھي ٿو. تالاش ۾ ڊينگي بابت آگاهي واڪ جي موقعي تي ڳالهائيندي، هن چيو ته مقامي انتظاميا، صحت کاتو، سول کاتو، ميڊيا ۽ تعليم کاتو ڊينگي خلاف هڪ ٿي وڃن. ميڊيڪل ايمرجنسي ۽ رليف انٽرنيشنل (مرلن) جي ضلعي ٽيم، تالاش جي واپارين ۽ سماجي ۽ سياسي ڪارڪنن واڪ ۾ حصو ورتو. مرلن جي ضلعي ٽيم جي اڳواڻ شرڪت ڪندڙن کي ٻڌايو ته ڊينگي جو هڪڙو ئي ڪيس تالاش واري علائقي ۾ مليو هو. هن اهو به چيو ته تازي سروي دوران تالاش جي شاھي خيل جي مختلف علائقن ۾ 18 گھرن ۽ 84 پاڻي جي ٽانڪين ۾ ڊينگي جا لاروا مليا هئا.",
+            "ur": "(4) دیر میں ڈینگی آگاہی واک — تیمرگرہ: لوئر دیر کے ڈپٹی کمشنر نے زندگی کے ہر طبقے کے لوگوں سے درخواست کی کہ ضلع میں ڈینگی کے خطرے کے بارے میں آگاہی پیدا کریں۔ انہوں نے کہا کہ اجتماعی کام علاقے میں ڈینگی کے خطرات کو روکنے میں مدد کر سکتا ہے۔ تالاش میں ڈینگی آگاہی واک کے موقع پر خطاب کرتے ہوئے انہوں نے کہا کہ مقامی انتظامیہ، محکمہ صحت، سول محکمہ، میڈیا اور محکمہ تعلیم کو ڈینگی کے خلاف مل کر کام کرنا چاہیے۔ میڈیکل ایمرجنسی اینڈ ریلیف انٹرنیشنل (مرلن) کی ضلعی ٹیم، تالاش کے تاجروں اور سماجی و سیاسی کارکنوں نے واک میں حصہ لیا۔ مرلن کی ضلعی ٹیم کے رہنما نے شرکاء کو بتایا کہ ڈینگی کا صرف ایک کیس تالاش کے علاقے میں ملا تھا۔ انہوں نے یہ بھی کہا کہ حالیہ سروے کے دوران تالاش کے شاہی خیل کے مختلف علاقوں میں 18 گھروں اور 84 پانی کی ٹینکوں میں ڈینگی کے لاروا ملے تھے۔"
+          },
+          {
+            "en": "(5) WOMAN, 3 CHILDREN BURNT IN FIRE RAWALPINDI: A woman and three children were killed and two people were injured when fire broke out at a gas filling station located near Hamza Camp, Shamsabad, here on Friday. Two vehicles - a passenger wagon and a taxi - were getting their fuel tanks filled when the fire broke out. Within moments the two vehicles were engulfed giving no chance to the occupants to escape. As the fire spread, the staff at the filling station ran away. Although a large number of people from the neighbourhood rushed to the scene to help but they could not rescue the victims. City Police Officer told reporters that three children and a woman from Mansehra were burnt to death. The injured were shifted to the Benazir Bhutto Hospital where they were stated to be in stable condition. \"Right now the police do not know the real cause of the fire; CPO said.",
+            "sd": "(5) عورت ۽ 3 ٻار باه ۾ سڙي مري ويا — راولپنڊي: جمعي ڏينهن هتي حمزا ڪيمپ، شمس آباد جي ويجهو واقع گئس ڀرڻ واري اسٽيشن تي باه لڳڻ سبب هڪ عورت ۽ ٽي ٻار مري ويا ۽ ٻه ماڻهو زخمي ٿي پيا. ٻه گاڏيون — هڪ مسافر ويگن ۽ هڪ ٽيڪسي — پنهنجون ٻارڻ جون ٽانڪيون ڀرائي رھيون هيون ته باه لڳي پئي. ٿورڙي دير ۾ ٻئي گاڏيون باه ۾ گھيرجي ويون ۽ انهن ۾ سوار ماڻهن کي ڀڄڻ جو ڪو موقعو نه مليو. جيئن باه وڌي، ڀرڻ واري اسٽيشن جو عملو ڀڄي ويو. جيتوڻيڪ پاڙي جا ڪيترائي ماڻهو مدد لاءِ اتي ڊوڙي آيا، پر هو متاثرن کي بچائي نه سگھيا. سٽي پوليس آفيسر صحافين کي ٻڌايو ته مانسهره جا ٽي ٻار ۽ هڪ عورت سڙي مري ويا. زخمين کي بينظير ڀٽو اسپتال منتقل ڪيو ويو، جتي سندن حالت مستحڪم ٻڌائي وئي. \"هن وقت پوليس کي باه لڳڻ جو اصل سبب معلوم ناهي،\" سي پي او چيو.",
+            "ur": "(5) عورت اور 3 بچے آگ میں جل کر ہلاک — راولپنڈی: جمعہ کے دن یہاں حمزہ کیمپ، شمس آباد کے قریب واقع گیس بھرنے والے اسٹیشن پر آگ لگنے سے ایک عورت اور تین بچے ہلاک ہو گئے اور دو افراد زخمی ہو گئے۔ دو گاڑیاں — ایک مسافر ویگن اور ایک ٹیکسی — اپنی ایندھن کی ٹینکیاں بھروا رہی تھیں کہ آگ لگ گئی۔ چند لمحوں میں دونوں گاڑیاں آگ کی لپیٹ میں آ گئیں اور ان میں سوار لوگوں کو بھاگنے کا کوئی موقع نہ ملا۔ جیسے ہی آگ پھیلی، بھرنے والے اسٹیشن کا عملہ بھاگ گیا۔ اگرچہ محلے کے بہت سے لوگ مدد کے لیے جائے وقوعہ کی طرف دوڑ پڑے لیکن وہ متاثرین کو بچا نہ سکے۔ سٹی پولیس افسر نے صحافیوں کو بتایا کہ مانسہرہ کے تین بچے اور ایک عورت جل کر ہلاک ہو گئے۔ زخمیوں کو بے نظیر بھٹو اسپتال منتقل کر دیا گیا جہاں ان کی حالت مستحکم بتائی گئی۔ \"ابھی پولیس کو آگ لگنے کی اصل وجہ معلوم نہیں،\" سی پی او نے کہا۔"
+          }
+        ],
+        "section": "6.1",
+        "unit": 6,
+        "unitTitle": "Media as a Source of Knowledge"
+      },
+      {
+        "bookPages": "146-151",
+        "lesson": "Rafia Wedding",
+        "paragraphs": [
+          {
+            "en": "SCENE 1",
+            "sd": "منظر 1",
+            "ur": "منظر 1"
+          },
+          {
+            "en": "Hassan sees Jawad entering the school gate. He quickly gets up from the cemented bench and starts walking towards him. Jawad walks towards him too, but slowly. He seems a little downhearted.",
+            "sd": "حسن جواد کي اسڪول جي دروازي مان اندر ايندو ڏسي ٿو. هو جلدي سيمينٽ واري بينچ تان اٿي ٿو ۽ هن ڏانهن هلڻ شروع ڪري ٿو. جواد به هن ڏانهن هلي ٿو، پر آهستي. هو ٿورو اداس ٿو لڳي.",
+            "ur": "حسن جواد کو اسکول کے دروازے سے اندر آتے ہوئے دیکھتا ہے۔ وہ جلدی سے سیمنٹ والی بینچ سے اٹھتا ہے اور اس کی طرف چلنا شروع کرتا ہے۔ جواد بھی اس کی طرف چلتا ہے، لیکن آہستہ۔ وہ تھوڑا اداس لگتا ہے۔"
+          },
+          {
+            "en": "HASSAN (worried to see Jawad upset) Assalamo Alaikum! Where have you been for three days? What happened? Why do you look so upset?",
+            "sd": "حسن (جواد کي پريشان ڏسي پريشان ٿي) السلام عليڪم! ٽن ڏينهن کان توهان ڪٿي هئا؟ ڇا ٿيو؟ توهان ايترا پريشان ڇو ٿا لڳو؟",
+            "ur": "حسن (جواد کو پریشان دیکھ کر فکر مند) السلام علیکم! تین دن سے تم کہاں تھے؟ کیا ہوا؟ تم اتنے پریشان کیوں لگ رہے ہو؟"
+          },
+          {
+            "en": "JAWAD (downheartedly) Baba broke his leg.",
+            "sd": "جواد (اداسي سان) بابا جي ٽنگ ڀڄي پئي آهي.",
+            "ur": "جواد (اداسی سے) بابا کی ٹانگ ٹوٹ گئی ہے۔"
+          },
+          {
+            "en": "HASSAN (shocked) Oh! No! How did it happen?",
+            "sd": "حسن (حيران ٿي) اوه! نه! اهو ڪيئن ٿيو؟",
+            "ur": "حسن (حیران ہو کر) اوہ! نہیں! یہ کیسے ہوا؟"
+          },
+          {
+            "en": "JAWAD: (in a sad tone) One of the light bulbs fixed on the wall got fused. Baba placed a ladder against the mud wall and was changing the light bulb when the wall collapsed and he fell on the floor, along with the ladder.",
+            "sd": "جواد: (اداسي واري لهجي ۾) ڀت تي لڳل بلبن مان هڪڙو بلب فيوز ٿي ويو هو. بابا مٽي جي ڀت سان ڏاڪڻ لڳائي بلب بدلائي رھيو هو ته ڀت ڪري پئي ۽ هو ڏاڪڻ سميت فرش تي ڪري پيو.",
+            "ur": "جواد: (اداس لہجے میں) دیوار پر لگے ہوئے بلبوں میں سے ایک بلب جل گیا تھا۔ بابا نے مٹی کی دیوار سے سیڑھی لگائی اور بلب بدل رہے تھے کہ دیوار گر پڑی اور وہ سیڑھی سمیت فرش پر گر پڑے۔"
+          },
+          {
+            "en": "HASSAN: Oh my God! Then?",
+            "sd": "حسن: هاءِ منهنجا خدا! پوءِ؟",
+            "ur": "حسن: اے میرے خدا! پھر؟"
+          },
+          {
+            "en": "JAWAD: We took him to the Bhitai Hospital immediately. The doctor has put his leg in a cast, as he had fractured his leg. His hands are also bruised.",
+            "sd": "جواد: اسين هن کي فوراً ڀٽائي اسپتال وٺي وياسين. ڊاڪٽر هن جي ٽنگ تي پلستر چاڙهيو آهي، ڇاڪاڻ ته هن جي ٽنگ ڀڄي پئي هئي. هن جا هٿ به زخمي ٿيا آهن.",
+            "ur": "جواد: ہم اسے فوراً بھٹائی اسپتال لے گئے۔ ڈاکٹر نے اس کی ٹانگ پر پلستر چڑھایا ہے، کیونکہ اس کی ٹانگ ٹوٹ گئی تھی۔ اس کے ہاتھ بھی زخمی ہیں۔"
+          },
+          {
+            "en": "HASSAN: Oh! And your elder sister's wedding is in ten days, isn't it?",
+            "sd": "حسن: اوه! ۽ توهنجي وڏي ڀيڻ جي شادي ڏھ ڏينهن ۾ آهي، نه؟",
+            "ur": "حسن: اوہ! اور تمہاری بڑی بہن کی شادی دس دن میں ہے، ہے نا؟"
+          },
+          {
+            "en": "JAWAD: Yes...What will happen now? Baba's cast will be removed after six weeks. Who will do all the work?",
+            "sd": "جواد: هائو... هاڻي ڇا ٿيندو؟ بابا جو پلستر ڇھ هفتن کان پوءِ لاٿو ويندو. سڀ ڪم ڪير ڪندو؟",
+            "ur": "جواد: ہاں... اب کیا ہوگا؟ بابا کا پلستر چھ ہفتوں بعد اتارا جائے گا۔ سارا کام کون کرے گا؟"
+          },
+          {
+            "en": "HASSAN: (trying to console him) Don't worry. Everything will be alright.",
+            "sd": "حسن: (هن کي دلاسو ڏيڻ جي ڪوشش ڪندي) پريشان نه ٿيو. سڀ ڪجهه ٺيڪ ٿي ويندو.",
+            "ur": "حسن: (اسے دلاسا دینے کی کوشش کرتے ہوئے) پریشان نہ ہو۔ سب کچھ ٹھیک ہو جائے گا۔"
+          },
+          {
+            "en": "JAWAD: (looking at the floor thoughtfully) Yes...everything will Insha'Allah be alright.",
+            "sd": "جواد: (فرش ڏانهن ڏسندي سوچيندي) هائو... سڀ ڪجهه انشاءَ الله ٺيڪ ٿي ويندو.",
+            "ur": "جواد: (فرش کی طرف دیکھتے ہوئے سوچ میں) ہاں... سب کچھ ان شاء اللہ ٹھیک ہو جائے گا۔"
+          },
+          {
+            "en": "HASSAN: Listen! We can work together. My sister, Safia, got married last month. I have worked with my father. I know how things are arranged.",
+            "sd": "حسن: ٻڌو! اسين گڏجي ڪم ڪري سگھون ٿا. منهنجي ڀيڻ صفيه جي شادي گذريل مهيني ٿي هئي. مون پنهنجي پيءُ سان گڏ ڪم ڪيو آهي. مان ڄاڻان ٿو ته شين جو بندوبست ڪيئن ڪبو آهي.",
+            "ur": "حسن: سنو! ہم مل کر کام کر سکتے ہیں۔ میری بہن، صفیہ، کی شادی پچھلے مہینے ہوئی تھی۔ میں نے اپنے والد کے ساتھ کام کیا ہے۔ میں جانتا ہوں کہ چیزوں کا انتظام کیسے کیا جاتا ہے۔"
+          },
+          {
+            "en": "JAWAD: Is that possible? Will your parents allow you?",
+            "sd": "جواد: ڇا اهو ممڪن آهي؟ ڇا توهنجا والدين توهان کي اجازت ڏيندا؟",
+            "ur": "جواد: کیا یہ ممکن ہے؟ کیا تمہارے والدین تمہیں اجازت دیں گے؟"
+          },
+          {
+            "en": "HASSAN: How about you coming with me to my house after school? I will talk to Amma. If she gives permission we will go to your father and tell him that we will work together.",
+            "sd": "حسن: اسڪول کان پوءِ منهنجي سان منهنجي گھر هلڻ ڪيئن رھندو؟ مان امان سان ڳالهائيندس. جيڪڏهن هوءَ اجازت ڏيندي ته اسين توهنجي پيءُ وٽ وينداسين ۽ هن کي ٻڌائينداسين ته اسين گڏجي ڪم ڪنداسين.",
+            "ur": "حسن: اسکول کے بعد میرے ساتھ میرے گھر چلنا کیسا رہے گا؟ میں اماں سے بات کروں گا۔ اگر وہ اجازت دیں گی تو ہم تمہارے والد کے پاس جائیں گے اور انہیں بتائیں گے کہ ہم مل کر کام کریں گے۔"
+          },
+          {
+            "en": "JAWAD: (having a sigh of relief) That sounds fine!",
+            "sd": "جواد: (سڪ جو ساھھ کڻي) اهو ٺيڪ ٿو لڳي!",
+            "ur": "جواد: (سکھ کی سانس لے کر) یہ ٹھیک لگتا ہے!"
+          },
+          {
+            "en": "Both of them exchange warm smiles and go towards their classes.",
+            "sd": "ٻنهي هڪ ٻئي ڏانهن پيار سان مرڪن ٿا ۽ پنهنجن ڪلاسن ڏانهن وڃن ٿا.",
+            "ur": "دونوں پیار سے مسکراتے ہیں اور اپنی کلاسوں کی طرف چلے جاتے ہیں۔"
+          },
+          {
+            "en": "SCENE 2",
+            "sd": "منظر 2",
+            "ur": "منظر 2"
+          },
+          {
+            "en": "Hassan and Jawad are at Hassan's home telling Hassan's mother about the accident that Jawad's father met.",
+            "sd": "حسن ۽ جواد حسن جي گھر ۾ آهن ۽ حسن جي امان کي انهي حادثي بابت ٻڌائي رھيا آهن جيڪو جواد جي پيءُ سان ٿيو.",
+            "ur": "حسن اور جواد حسن کے گھر میں ہیں اور حسن کی والدہ کو اس حادثے کے بارے میں بتا رہے ہیں جو جواد کے والد کے ساتھ پیش آیا۔"
+          },
+          {
+            "en": "HASSAN: Assalamo Alaikum! Amma.",
+            "sd": "حسن: السلام عليڪم! امان.",
+            "ur": "حسن: السلام علیکم! اماں۔"
+          },
+          {
+            "en": "JAWAD: Assalamo Alaikum! Aunty.",
+            "sd": "جواد: السلام عليڪم! چاچي.",
+            "ur": "جواد: السلام علیکم! چچی۔"
+          },
+          {
+            "en": "AMMA: Wa Alaikum Assalam! How are you Jawad? When is your sister's wedding?",
+            "sd": "امان: وعليڪم السلام! جواد، تون ڪيئن آهين؟ توهنجي ڀيڻ جي شادي ڪڏهن آهي؟",
+            "ur": "اماں: وعلیکم السلام! جواد، تم کیسے ہو؟ تمہاری بہن کی شادی کب ہے؟"
+          },
+          {
+            "en": "JAWAD: (downheartedly) It is in ten days but...",
+            "sd": "جواد: (اداسي سان) اها ڏھ ڏينهن ۾ آهي پر...",
+            "ur": "جواد: (اداسی سے) وہ دس دن میں ہے لیکن..."
+          },
+          {
+            "en": "AMMA: (surprised) But...? What happened? Is everything okay?",
+            "sd": "امان: (حيران ٿي) پر...؟ ڇا ٿيو؟ ڇا سڀ ڪجهه ٺيڪ آهي؟",
+            "ur": "اماں: (حیران ہو کر) لیکن...؟ کیا ہوا؟ کیا سب کچھ ٹھیک ہے؟"
+          },
+          {
+            "en": "JAWAD: Baba fell and broke his leg.",
+            "sd": "جواد: بابا ڪري پيو ۽ هن جي ٽنگ ڀڄي پئي.",
+            "ur": "جواد: بابا گر پڑے اور ان کی ٹانگ ٹوٹ گئی۔"
+          },
+          {
+            "en": "AMMA: Oh, I'm sorry to hear that! Don't worry, son. Hassan will help you. He helped his father with Safia's wedding. He knows everything. Hassan, go with him and tell his father that you will help them. He must be really worried.",
+            "sd": "امان: اوه، اهو ٻڌي مون کي ڏک ٿيو! پريشان نه ٿيو، پٽ. حسن توهنجي مدد ڪندو. هن پنهنجي پيءُ سان گڏجي صفيه جي شادي ۾ مدد ڪئي هئي. هو سڀ ڪجهه ڄاڻي ٿو. حسن، هن سان گڏ وڃ ۽ هن جي پيءُ کي ٻڌاءِ ته تون انهن جي مدد ڪندين. هو ضرور گھڻو پريشان هوندو.",
+            "ur": "اماں: اوہ، یہ سن کر مجھے دکھ ہوا! پریشان نہ ہو، بیٹا۔ حسن تمہاری مدد کرے گا۔ اس نے اپنے والد کے ساتھ صفیہ کی شادی میں مدد کی تھی۔ وہ سب کچھ جانتا ہے۔ حسن، اس کے ساتھ جاؤ اور اس کے والد کو بتاؤ کہ تم ان کی مدد کرو گے۔ وہ ضرور بہت پریشان ہوں گے۔"
+          },
+          {
+            "en": "Hassan and Jawad look at each other and smile.",
+            "sd": "حسن ۽ جواد هڪ ٻئي ڏانهن ڏسن ٿا ۽ مرڪن ٿا.",
+            "ur": "حسن اور جواد ایک دوسرے کی طرف دیکھتے ہیں اور مسکراتے ہیں۔"
+          },
+          {
+            "en": "HASSAN: Yes, Amma. I came home to take your permission.",
+            "sd": "حسن: هائو، امان. مان توهنجي اجازت وٺڻ لاءِ گھر آيو آهيان.",
+            "ur": "حسن: جی، اماں۔ میں تمہاری اجازت لینے گھر آیا ہوں۔"
+          },
+          {
+            "en": "AMMA: I have made potato curry. Jawad. I know it's your favourite. Wash your hands while I quickly make chapattis. You people can go after lunch.",
+            "sd": "امان: مون آلو جو سالن ٺاهيو آهي، جواد. مان ڄاڻان ٿي ته اهو توهنجو پسنديده آهي. پنهنجا هٿ ڌوئو جيستائين مان جلدي چپاتيون ٺاهيان. توهان ماڻهو منجهند جي کاڌي کان پوءِ وڃي سگھو ٿا.",
+            "ur": "اماں: میں نے آلو کا سالن بنایا ہے، جواد۔ میں جانتی ہوں کہ یہ تمہارا پسندیدہ ہے۔ اپنے ہاتھ دھو لو جب تک میں جلدی سے چپاتیاں بناتی ہوں۔ تم لوگ دوپہر کے کھانے کے بعد جا سکتے ہو۔"
+          },
+          {
+            "en": "HASSAN: Okay, Amma. Jawad, come, let's wash our hands.",
+            "sd": "حسن: ٺيڪ آهي، امان. جواد، اچ، اچو ته پنهنجا هٿ ڌوئون.",
+            "ur": "حسن: ٹھیک ہے، اماں۔ جواد، آؤ، چلو اپنے ہاتھ دھوئیں۔"
+          },
+          {
+            "en": "Both friends wash their hands and have lunch. They then say goodbye to Hassan's mother and leave for Jawad's house.",
+            "sd": "ٻئي دوست پنهنجا هٿ ڌوئن ٿا ۽ منجهند جو کاڌو کائن ٿا. پوءِ اهي حسن جي امان کي الوداع ڪن ٿا ۽ جواد جي گھر ڏانهن روانا ٿين ٿا.",
+            "ur": "دونوں دوست اپنے ہاتھ دھوتے ہیں اور دوپہر کا کھانا کھاتے ہیں۔ پھر وہ حسن کی والدہ کو الوداع کہتے ہیں اور جواد کے گھر کی طرف روانہ ہو جاتے ہیں۔"
+          },
+          {
+            "en": "SCENE 3",
+            "sd": "منظر 3",
+            "ur": "منظر 3"
+          },
+          {
+            "en": "Hassan and Jawad greet Hassan's father, who is lying on a charpoy. His mother is sitting on a chair beside the charpoy, with tears in her eyes.",
+            "sd": "حسن ۽ جواد جواد جي پيءُ کي سلام ڪن ٿا، جيڪو چارپائي تي ليٽيل آهي. هن جي امان چارپائي جي ڀرسان ڪرسي تي ويٺل آهي ۽ هن جي اکين ۾ ڳوڙها آهن.",
+            "ur": "حسن اور جواد جواد کے والد کو سلام کرتے ہیں، جو چارپائی پر لیٹے ہوئے ہیں۔ ان کی والدہ چارپائی کے پاس کرسی پر بیٹھی ہیں اور ان کی آنکھوں میں آنسو ہیں۔"
+          },
+          {
+            "en": "JAWAD: Don't worry Amma, Baba, Hassan and I will do all the work for the wedding. His mother has allowed him.",
+            "sd": "جواد: پريشان نه ٿيو امان، بابا، حسن ۽ مان شادي جو سڀ ڪم ڪنداسين. هن جي امان هن کي اجازت ڏني آهي.",
+            "ur": "جواد: پریشان نہ ہوں اماں، بابا، حسن اور میں شادی کا سارا کام کریں گے۔ اس کی والدہ نے اسے اجازت دے دی ہے۔"
+          },
+          {
+            "en": "AMMA: (wiping her tears with her dupatta) It's nice of your mother to allow you to help us, Hassan. Please thank her for being so cooperative and allowing you to help us.",
+            "sd": "امان: (پنهنجا ڳوڙها دوپٽي سان اگھندي) توهنجي امان جي مهرباني آهي جو هن توهان کي اسان جي مدد ڪرڻ جي اجازت ڏني، حسن. مهرباني ڪري هن جو شڪريو ادا ڪر جو هوءَ ايتري سهڪاري آهي ۽ توهان کي اسان جي مدد ڪرڻ جي اجازت ڏني اٿس.",
+            "ur": "اماں: (اپنے آنسو دوپٹے سے پونچھتے ہوئے) تمہاری والدہ کی مہربانی ہے کہ انہوں نے تمہیں ہماری مدد کرنے کی اجازت دی، حسن۔ براہ کرم ان کا شکریہ ادا کرو کہ وہ اتنی تعاون کرنے والی ہیں اور تمہیں ہماری مدد کرنے کی اجازت دی ہے۔"
+          },
+          {
+            "en": "HASSAN: Aunty, please don't mention it. It is our duty to help our friends and neighbours.",
+            "sd": "حسن: چاچي، مهرباني ڪري اهو نه چئو. پنهنجن دوستن ۽ پاڙيسرين جي مدد ڪرڻ اسان جو فرض آهي.",
+            "ur": "حسن: چچی، براہ کرم یہ نہ کہیں۔ اپنے دوستوں اور پڑوسیوں کی مدد کرنا ہمارا فرض ہے۔"
+          },
+          {
+            "en": "AMMA: Indeed! Good friends and good neighbours are really a blessing.",
+            "sd": "امان: بلڪل! سٺا دوست ۽ سٺا پاڙيسري واقعي هڪ نعمت آهن.",
+            "ur": "اماں: بے شک! اچھے دوست اور اچھے پڑوسی واقعی ایک نعمت ہیں۔"
+          },
+          {
+            "en": "HASSAN: Smiles. Jawad's father explains the tasks they have to do and gives them the money he has.",
+            "sd": "حسن: مرڪي ٿو. جواد جو پيءُ کين اهي ڪم سمجھائي ٿو جيڪي کين ڪرڻا آهن ۽ کين اهي پئسا ڏئي ٿو جيڪي هن وٽ آهن.",
+            "ur": "حسن: مسکراتا ہے۔ جواد کے والد انہیں وہ کام سمجھاتے ہیں جو انہیں کرنے ہیں اور انہیں وہ پیسے دیتے ہیں جو ان کے پاس ہیں۔"
+          },
+          {
+            "en": "SCENE 4",
+            "sd": "منظر 4",
+            "ur": "منظر 4"
+          },
+          {
+            "en": "Hassan and Jawad sit on a charpoy in the yard and try to make the budget for the wedding. They don't want the expenses to exceed the amount that Jawad's father has saved for the wedding.",
+            "sd": "حسن ۽ جواد اڱڻ ۾ چارپائي تي ويهن ٿا ۽ شادي لاءِ بجيٽ ٺاهڻ جي ڪوشش ڪن ٿا. اهي نٿا چاهين ته خرچ انهي رقم کان وڌي وڃي جيڪا جواد جي پيءُ شادي لاءِ بچائي رکي آهي.",
+            "ur": "حسن اور جواد صحن میں چارپائی پر بیٹھتے ہیں اور شادی کے لیے بجٹ بنانے کی کوشش کرتے ہیں۔ وہ نہیں چاہتے کہ خرچ اس رقم سے بڑھ جائے جو جواد کے والد نے شادی کے لیے بچا رکھی ہے۔"
+          },
+          {
+            "en": "HASSAN: How much money do we have for food?",
+            "sd": "حسن: کاڌي لاءِ اسان وٽ ڪيترا پئسا آهن؟",
+            "ur": "حسن: کھانے کے لیے ہمارے پاس کتنے پیسے ہیں؟"
+          },
+          {
+            "en": "JAWAD: We have about Rs. 20000/- for food. We cannot buy meat from the market with this amount.",
+            "sd": "جواد: کاڌي لاءِ اسان وٽ لڳ ڀڳ 20000 رپيا آهن. اسين هن رقم سان بازار مان گوشت نٿا خريد ڪري سگھون.",
+            "ur": "جواد: کھانے کے لیے ہمارے پاس تقریباً 20000 روپے ہیں۔ ہم اس رقم سے بازار سے گوشت نہیں خرید سکتے۔"
+          },
+          {
+            "en": "HASSAN: Okay... Can we slaughter one of your cows?",
+            "sd": "حسن: ٺيڪ آهي... ڇا اسين توهنجي ڳئون مان هڪڙي ڳئون ذبح ڪري سگھون ٿا؟",
+            "ur": "حسن: ٹھیک ہے... کیا ہم تمہاری گایوں میں سے ایک گائے ذبح کر سکتے ہیں؟"
+          },
+          {
+            "en": "JAWAD: We will have to ask Baba.",
+            "sd": "جواد: اسان کي بابا کان پڇڻو پوندو.",
+            "ur": "جواد: ہمیں بابا سے پوچھنا ہوگا۔"
+          },
+          {
+            "en": "HASSAN: Let us make the budget first and then we will ask him.",
+            "sd": "حسن: اچو ته پهرين بجيٽ ٺاهيون ۽ پوءِ اسين هن کان پڇنداسين.",
+            "ur": "حسن: آؤ پہلے بجٹ بنائیں اور پھر ہم ان سے پوچھیں گے۔"
+          },
+          {
+            "en": "JAWAD: Okay. I'm sure he will allow us to slaughter one of his ten cows. Will one cow be enough for both the meat curry with potatoes and the beef pulao?",
+            "sd": "جواد: ٺيڪ آهي. مون کي پڪ آهي ته هو اسان کي پنهنجي ڏھ ڳئون مان هڪڙي ڳئون ذبح ڪرڻ جي اجازت ڏيندو. ڇا هڪڙي ڳئون آلو گوشت ۽ ڳئون جي گوشت جي پلاءُ ٻنهي لاءِ ڪافي هوندي؟",
+            "ur": "جواد: ٹھیک ہے۔ مجھے یقین ہے کہ وہ ہمیں اپنی دس گایوں میں سے ایک گائے ذبح کرنے کی اجازت دیں گے۔ کیا ایک گائے آلو گوشت اور گائے کے گوشت کے پلاؤ دونوں کے لیے کافی ہوگی؟"
+          },
+          {
+            "en": "HASSAN: Yes, I think so. Do you have rice at home?",
+            "sd": "حسن: هائو، منهنجو خيال آهي ته هائو. ڇا توهنجي گھر ۾ چانور آهن؟",
+            "ur": "حسن: ہاں، میرے خیال میں ہاں۔ کیا تمہارے گھر میں چاول ہیں؟"
+          },
+          {
+            "en": "JAWAD: Yes. Mother has saved some sacks of rice for the wedding.",
+            "sd": "جواد: هائو. امان شادي لاءِ چانورن جون ڪجهه ٻوريون بچائي رکيون آهن.",
+            "ur": "جواد: ہاں۔ اماں نے شادی کے لیے چاولوں کی کچھ بوریاں بچا رکھی ہیں۔"
+          },
+          {
+            "en": "HASSAN: Good! Then we just have to pay the cook, then the two dishes can be prepared within this amount.",
+            "sd": "حسن: سٺو! پوءِ اسان کي صرف باورچي کي پئسا ڏيڻا پوندا، پوءِ ٻئي کاڌا هن رقم ۾ تيار ٿي سگھن ٿا.",
+            "ur": "حسن: اچھا! پھر ہمیں صرف باورچی کو پیسے دینے ہوں گے، پھر دونوں کھانے اس رقم میں تیار ہو سکتے ہیں۔"
+          },
+          {
+            "en": "JAWAD: Where will the guests sit? We have very little money left for spending on that.",
+            "sd": "جواد: مهمان ڪٿي ويهندا؟ اسان وٽ انهي تي خرچ ڪرڻ لاءِ تمام ٿورا پئسا بچيا آهن.",
+            "ur": "جواد: مہمان کہاں بیٹھیں گے؟ ہمارے پاس اس پر خرچ کرنے کے لیے بہت تھوڑے پیسے بچے ہیں۔"
+          },
+          {
+            "en": "HASSAN: Hmm! Why not ask all our neighbours to lend some charpoys and bed-sheets for this purpose?",
+            "sd": "حسن: همم! ڇو نه اسين پنهنجن سڀني پاڙيسرين کان هن ڪم لاءِ ڪجهه چارپايون ۽ چادرون ادهار وٺون؟",
+            "ur": "حسن: ہمم! کیوں نہ ہم اپنے تمام پڑوسیوں سے اس کام کے لیے کچھ چارپائیاں اور چادریں ادھار لیں؟"
+          },
+          {
+            "en": "JAWAD: That sounds like a good idea! We also lent charpoys for Allah Dino's wedding. I think everyone will agree to do that. So, we will just have to pay for the tent. For that, this amount will be enough.",
+            "sd": "جواد: اهو سٺو خيال ٿو لڳي! اسان الله ڏني جي شادي لاءِ به چارپايون ڏنيون هيون. منهنجو خيال آهي ته هر ڪو اهو ڪرڻ تي راضي ٿيندو. تنهنڪري، اسان کي صرف شامياني لاءِ پئسا ڏيڻا پوندا. انهي لاءِ، هي رقم ڪافي هوندي.",
+            "ur": "جواد: یہ اچھا خیال لگتا ہے! ہم نے اللہ ڈنو کی شادی کے لیے بھی چارپائیاں دی تھیں۔ میرے خیال میں ہر کوئی ایسا کرنے پر راضی ہو جائے گا۔ تو، ہمیں صرف شامیانے کے لیے پیسے دینے ہوں گے۔ اس کے لیے یہ رقم کافی ہوگی۔"
+          },
+          {
+            "en": "HASSAN: (thoughtfully) Yes... Oh! We forgot the sweet dish! And we don't have any money left for that.",
+            "sd": "حسن: (سوچيندي) هائو... اوه! اسين مٺو کاڌو وساري ويٺاسين! ۽ اسان وٽ انهي لاءِ ڪو به پئسو بچيل ناهي.",
+            "ur": "حسن: (سوچتے ہوئے) ہاں... اوہ! ہم میٹھا کھانا بھول گئے! اور ہمارے پاس اس کے لیے کوئی پیسہ نہیں بچا۔"
+          },
+          {
+            "en": "JAWAD: Oh... and Amma will not be happy without it.",
+            "sd": "جواد: اوه... ۽ امان انهي کان سواءِ خوش نه ٿيندي.",
+            "ur": "جواد: اوہ... اور اماں اس کے بغیر خوش نہیں ہوں گی۔"
+          },
+          {
+            "en": "HASSAN: Hmm! My Amma made halwa with gourd for my sister Safia's wedding. We can request Amma and my sister, Safia, to make it for Rafia baji's wedding.",
+            "sd": "حسن: همم! منهنجي امان منهنجي ڀيڻ صفيه جي شادي لاءِ ڪدو جو حلوو ٺاهيو هو. اسين امان ۽ منهنجي ڀيڻ، صفيه، کي عرض ڪري سگھون ٿا ته اهو رافيه باجي جي شادي لاءِ ٺاهين.",
+            "ur": "حسن: ہمم! میری اماں نے میری بہن صفیہ کی شادی کے لیے کدو کا حلوہ بنایا تھا۔ ہم اماں اور میری بہن، صفیہ، سے درخواست کر سکتے ہیں کہ وہ یہ رافعہ باجی کی شادی کے لیے بنائیں۔"
+          },
+          {
+            "en": "JAWAD: Yes, your sister and Rafia Baji are good friends. I think she will be happy to do that for her.",
+            "sd": "جواد: هائو، توهنجي ڀيڻ ۽ رافيه باجي سٺيون دوستون آهن. منهنجو خيال آهي ته هوءَ اهو هن لاءِ ڪرڻ تي خوش ٿيندي.",
+            "ur": "جواد: ہاں، تمہاری بہن اور رافعہ باجی اچھی دوست ہیں۔ میرے خیال میں وہ یہ اس کے لیے کرنے پر خوش ہوگی۔"
+          },
+          {
+            "en": "HASSAN: I'm sure she'll love to make halwa for her friend's wedding. Now, I think, our plan is final. Let's go and share it with your parents.",
+            "sd": "حسن: مون کي پڪ آهي ته هوءَ پنهنجي دوست جي شادي لاءِ حلوو ٺاهڻ پسند ڪندي. هاڻي، منهنجو خيال آهي ته اسان جو منصوبو حتمي آهي. اچو ته هلون ۽ اهو توهنجي والدين سان شيئر ڪريون.",
+            "ur": "حسن: مجھے یقین ہے کہ وہ اپنی دوست کی شادی کے لیے حلوہ بنانا پسند کرے گی۔ اب، میرے خیال میں ہمارا منصوبہ حتمی ہے۔ آؤ چلیں اور یہ تمہارے والدین سے شیئر کریں۔"
+          },
+          {
+            "en": "Hassan and Jawad share their plans with Jawad's parents. They are very happy when they hear the plan. They are also happy that the money that they had would be enough for the wedding. But, they do not want to bother Hassan's mother and sister for making the halwa. Hassan tells them not to worry because his mother and sister had willingly agreed to do it. So, the plan becomes final. Finally, the wedding day comes. The guests sit on beautifully painted charpoys covered with floral bed-sheets. The whole village had lent their best charpoys and bed-sheets.",
+            "sd": "حسن ۽ جواد پنهنجا منصوبا جواد جي والدين سان شيئر ڪن ٿا. اهي منصوبو ٻڌي تمام خوش ٿين ٿا. اهي انهي تي به خوش آهن ته جيڪي پئسا هنن وٽ هئا سي شادي لاءِ ڪافي هوندا. پر، اهي نٿا چاهين ته حلوو ٺاهڻ لاءِ حسن جي امان ۽ ڀيڻ کي تڪليف ڏين. حسن کين ٻڌائي ٿو ته پريشان نه ٿين ڇاڪاڻ ته هن جي امان ۽ ڀيڻ خوشيءَ سان اهو ڪرڻ تي راضي ٿيون هيون. تنهنڪري، منصوبو حتمي ٿي وڃي ٿو. آخرڪار، شادي جو ڏينهن اچي ٿو. مهمان سهڻي نموني رنگيل چارپاين تي ويهن ٿا جيڪي گلن وارين چادرن سان ڍڪيل آهن. سڄي ڳوٺ پنهنجون بهترين چارپايون ۽ چادرون ڏنيون هيون.",
+            "ur": "حسن اور جواد اپنے منصوبے جواد کے والدین سے شیئر کرتے ہیں۔ وہ منصوبہ سن کر بہت خوش ہوتے ہیں۔ وہ اس پر بھی خوش ہیں کہ جو پیسے ان کے پاس تھے وہ شادی کے لیے کافی ہوں گے۔ لیکن، وہ حلوہ بنانے کے لیے حسن کی والدہ اور بہن کو تکلیف نہیں دینا چاہتے۔ حسن انہیں بتاتا ہے کہ پریشان نہ ہوں کیونکہ اس کی والدہ اور بہن خوشی سے یہ کرنے پر راضی ہو گئی تھیں۔ تو، منصوبہ حتمی ہو جاتا ہے۔ آخر کار، شادی کا دن آ جاتا ہے۔ مہمان خوبصورت رنگی ہوئی چارپائیوں پر بیٹھتے ہیں جو پھولوں والی چادروں سے ڈھکی ہوئی ہیں۔ سارے گاؤں نے اپنی بہترین چارپائیاں اور چادریں دی تھیں۔"
+          },
+          {
+            "en": "The two dishes and then the halwa are served. All the guests like all the arrangements a lot. Everything works out well and the whole village praises the two young men for making all the arrangements so well.",
+            "sd": "ٻئي کاڌا ۽ پوءِ حلوو پيش ڪيا وڃن ٿا. سڀني مهمانن کي سڀ انتظام گھڻو پسند اچن ٿا. سڀ ڪجهه ٺيڪ ٺاڪ ٿي وڃي ٿو ۽ سڄو ڳوٺ انهن ٻنهي نوجوانن جي ساراهه ڪري ٿو جو انهن سڀ انتظام ايترا سٺا ڪيا.",
+            "ur": "دونوں کھانے اور پھر حلوہ پیش کیا جاتا ہے۔ تمام مہمانوں کو سارے انتظامات بہت پسند آتے ہیں۔ سب کچھ ٹھیک ہو جاتا ہے اور سارا گاؤں ان دونوں نوجوانوں کی تعریف کرتا ہے کہ انہوں نے سارے انتظامات اتنے اچھے کیے۔"
+          }
+        ],
+        "section": "7.1",
+        "unit": 7,
+        "unitTitle": "Learning Organized Approach through Identifying"
+      }
+    ],
     "sindhiExsolutions": [
       {
         "reading": "حمد",
