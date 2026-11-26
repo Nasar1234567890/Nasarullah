@@ -64,29 +64,10 @@ function matTabHtml(tab){
     }
   }
   else if(tab === "lessonTexts"){
-    var lt = data.lessonTexts || [];
-    if(lt.length){
-      var sec = null;
-      try{ if(typeof sectionForSubject === "function") sec = sectionForSubject(matCls, matSubj); }catch(e){}
-      if(!sec){
-        var cs = (typeof currentSection !== "undefined" && currentSection) || "";
-        if(cs === "Sindhi" || cs === "sd") sec = "sd";
-        else if(cs === "Urdu" || cs === "ur") sec = "ur";
-        else if(cs === "English" || cs === "en") sec = "en";
-        else sec = "sd";
-      }
-      lt.forEach(function(L, i){
-        html += "<div class=\"matsec\"><button class=\"modebtn\" onclick=\"toggleLessonText(" + i + ")\">Unit " + L.unit + " \u2014 " + escHtml(L.lesson) + " <span id=\"lessontext-sign-" + i + "\">+</span></button><div id=\"lessontext-" + i + "\" class=\"matpanel\" style=\"display:none\">";
-        L.paragraphs.forEach(function(pa){
-          html += "<p dir=\"ltr\">" + escHtml(pa.en) + "</p>";
-          if(sec === "sd") html += "<p dir=\"rtl\" style=\"text-align:right\"><b>\u0633\u0646\u068c\u064a \u0645\u0639\u0646\u064a\u0670</b></p><p dir=\"rtl\" style=\"text-align:right\">" + escHtml(pa.sd) + "</p>";
-          else if(sec === "ur") html += "<p dir=\"rtl\" style=\"text-align:right\"><b>\u0627\u0631\u062f\u0648 \u062a\u0631\u062c\u0645\u06c1</b></p><p dir=\"rtl\" style=\"text-align:right\">" + escHtml(pa.ur) + "</p>";
-        });
-        html += "</div></div>";
-      });
-    } else {
-      html = "<p class=\"note\">Lesson texts for this subject will be added here soon.</p>";
-    }
+    // Lesson texts moved into the English guide units (v190): each lesson
+    // now sits at the top of its own guide unit, with the exercise solutions.
+    // This branch only serves old links to the removed tab.
+    html = "<p class=\"note\">Lesson texts now live inside each guide unit \u2014 open a unit to read the lesson with its exercise solutions.</p>";
   }
   return html;
 }
@@ -98,6 +79,72 @@ function toggleLessonText(i){
   p.style.display = isHidden ? "" : "none";
   if(s) s.textContent = isHidden ? "\u2212" : "+";
 }
+// ---- Lesson texts inside the English guide units (v190) ----
+// Map a lessonTexts lesson to its English guide unit number.
+// Most classes: lesson unit == guide unit. Two exceptions, where the guide
+// has one extra unit with no reading text of its own:
+//  - Class XI: guide unit 11 is "Introduction: Elements of Poetry", so
+//    lessons 11-17 (poems) sit in guide units 12-18 and lesson 18 (play)
+//    in guide unit 19.
+//  - Class XII: guide unit 15 is "Biography of Authors / Poets", so
+//    lesson 15 (novel) sits in guide unit 16.
+function guideUnitForLesson(cls, lessonUnit){
+  if(cls === "xi" && lessonUnit >= 11) return lessonUnit + 1;
+  if(cls === "xii" && lessonUnit >= 15) return lessonUnit + 1;
+  return lessonUnit;
+}
+function lessonsForGuideUnit(n){
+  // The class file is the source of truth: for English, guideDataFor /
+  // openExUnit build matData from STUDY.shared plus the class exsolutions,
+  // so matData.lessonTexts only exists for Class X (whose data IS STUDY.x).
+  var lt = [];
+  if(typeof STUDY !== "undefined" && STUDY[matCls] && STUDY[matCls].lessonTexts) lt = STUDY[matCls].lessonTexts;
+  else if(matData && matData.lessonTexts) lt = matData.lessonTexts;
+  var out = [];
+  lt.forEach(function(L){
+    if(guideUnitForLesson(matCls, L.unit) === n) out.push(L);
+  });
+  return out;
+}
+function lessonTextSection(){
+  var sec = null;
+  try{ if(typeof sectionForSubject === "function") sec = sectionForSubject(matCls, matSubj); }catch(e){}
+  if(!sec){
+    var cs = (typeof currentSection !== "undefined" && currentSection) || "";
+    if(cs === "Sindhi" || cs === "sd") sec = "sd";
+    else if(cs === "Urdu" || cs === "ur") sec = "ur";
+    else if(cs === "English" || cs === "en") sec = "en";
+    else sec = "sd";
+  }
+  return sec;
+}
+// Collapsible lesson-text blocks for one English guide unit, shown at the
+// top of the unit page, before the exercises. Same + / - pattern as the
+// old Lesson Texts tab; Sindhi meanings in the Sindhi section, Urdu
+// meanings in the Urdu section, English only in the English section.
+function unitLessonTextHtml(n, lessons){
+  var sec = lessonTextSection();
+  var html = "";
+  lessons.forEach(function(L, i){
+    html += "<div class=\"matsec\"" + (i === 0 ? " id=\"ex-" + n + "-lessontext\"" : "") + "><button class=\"modebtn\" onclick=\"toggleUnitLessonText(" + n + "," + i + ")\">Lesson Text \u2014 " + escHtml(L.lesson) + " <span id=\"unitlessontext-sign-" + n + "-" + i + "\">+</span></button><div id=\"unitlessontext-" + n + "-" + i + "\" class=\"matpanel\" style=\"display:none\">";
+    L.paragraphs.forEach(function(pa){
+      html += "<p dir=\"ltr\">" + escHtml(pa.en) + "</p>";
+      if(sec === "sd") html += "<p dir=\"rtl\" style=\"text-align:right\"><b>\u0633\u0646\u068c\u064a \u0645\u0639\u0646\u064a\u0670</b></p><p dir=\"rtl\" style=\"text-align:right\">" + escHtml(pa.sd) + "</p>";
+      else if(sec === "ur") html += "<p dir=\"rtl\" style=\"text-align:right\"><b>\u0627\u0631\u062f\u0648 \u062a\u0631\u062c\u0645\u06c1</b></p><p dir=\"rtl\" style=\"text-align:right\">" + escHtml(pa.ur) + "</p>";
+    });
+    html += "</div></div>";
+  });
+  return html;
+}
+function toggleUnitLessonText(n, i){
+  var p = document.getElementById("unitlessontext-" + n + "-" + i);
+  var s = document.getElementById("unitlessontext-sign-" + n + "-" + i);
+  if(!p) return;
+  var isHidden = (p.style.display === "none");
+  p.style.display = isHidden ? "" : "none";
+  if(s) s.textContent = isHidden ? "\u2212" : "+";
+}
+function jumpExLessonText(n){ var el = document.getElementById("ex-" + n + "-lessontext"); if(el) el.scrollIntoView(); }
 function buildMatPanels(){
   matTabs.forEach(function(t){
     var p = document.getElementById("matpanel-" + t[0]);
@@ -265,7 +312,7 @@ function renderSubjectMaterial(cls, subj){
   }
   if(subj === "English"){
     if(!data){ box.innerHTML = ""; return; }
-    matTabs = [["lessonTexts", "Lesson Texts"], ["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
+    matTabs = [["paragraphs", "Paragraphs"], ["essays", "Essays"], ["synonyms", "Synonyms"], ["verbforms", "Verb Forms"], ["definitions", "Definitions"]];
     if(data.notes) matTabs.push(["notes", "Notes"]);
     matTabs.forEach(function(t){
       html += "<p><button class=\"modebtn\" onclick=\"openMatPage('" + t[0] + "')\">" + t[1] + "</button></p>";
@@ -530,7 +577,11 @@ function exUnitHtml(n){
   var html = "";
   var _sci = ((matSubj || "").indexOf("Chemistry") === 0 || (matSubj || "").indexOf("Physics") === 0 || (matSubj || "").indexOf("Biology") === 0 || (matSubj || "").indexOf("Computer Science") === 0 || (matSubj || "").indexOf("Science") === 0);
   if((matSubj === "English" || ((matSubj || "").indexOf("STBB Grammar") === 0 && window._stbbLang === "en")) && u.display) html += "<p class=\"pro-lessons\">" + escHtml(String(u.display).split(" & ").join(" \u00b7 ")) + "</p>";
+  var _ltLessons = (matSubj === "English") ? lessonsForGuideUnit(n) : [];
+  var _ltCount = 0; _ltLessons.forEach(function(L){ _ltCount += (L.paragraphs || []).length; });
+  if(_ltLessons.length) html += unitLessonTextHtml(n, _ltLessons);
   html += "<div class=\"pro-toc\"><div class=\"pro-toc-title\">In this unit</div>";
+  if(_ltLessons.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExLessonText(" + n + ")\"><b>Lesson Text</b> Read the lesson \u2014 " + _ltCount + " paragraphs</button>";
   var _hasSummary = !!(u.summary && u.summary.length);
   if(_hasSummary) html += "<button class=\"pro-toc-row\" onclick=\"jumpExSummary(" + n + ")\"><b>Summary</b> \u062e\u0644\u0627\u0635\u0648</button>";
   if(u.lesson && u.lesson.length) html += "<button class=\"pro-toc-row\" onclick=\"jumpExLesson(" + n + ")\"><b>Lesson</b> Definitions, rules and examples</button>";
