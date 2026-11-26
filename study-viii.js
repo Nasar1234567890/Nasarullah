@@ -23582,6 +23582,806 @@ STUDY.viii = {
         "display": "The multiple roles that women play"
       }
     ],
+    "lessonTexts": [
+      {
+        "bookPages": "3-5",
+        "lesson": "Friends in trouble",
+        "paragraphs": [
+          {
+            "en": "There lived two close friends, Basit and Raheel, in a village near Hyderabad. In school, they studied together and in the evening both friends enjoyed playing cricket together. On weekends, they usually went to the nearby canal for fishing. Often, they also went on long walks in the nearby forest because they liked listening to the birds chirping, watching the animals at play, and looking at the beautiful flowers. They always enjoyed each other's company. They laughed, joked and had a great time the whole day.",
+            "sd": "حيدرآباد جي ويجهو هڪ ڳوٺ ۾ ٻه گھاٽا دوست، باسط ۽ راحيل، رهندا هئا. اسڪول ۾ هو گڏجي پڙهندا هئا ۽ شام جو ٻئي دوست گڏجي ڪرڪيٽ کيڏڻ ۾ مزو وٺندا هئا. هفتي جي آخر ۾ هو عام طور تي ويجهي نهر ۾ مڇي مارڻ ويندا هئا. گهڻو ڪري هو ويجهي ٻيلي ۾ ڊگھي سير تي به ويندا هئا، ڇاڪاڻ ته هنن کي پکين جا آواز ٻڌڻ، جانورن کي کيڏندي ڏسڻ ۽ خوبصورت گل ڏسڻ وڻندا هئا. هو هميشه هڪٻئي جي صحبت مان لطف اندوز ٿيندا هئا. هو کلندا هئا، مذاق ڪندا هئا ۽ سڄو ڏينهن خوب مزو ڪندا هئا.",
+            "ur": "حیدرآباد کے قریب ایک گاؤں میں دو گہرے دوست، باسط اور راحیل، رہتے تھے۔ اسکول میں وہ ساتھ پڑھتے تھے اور شام کو دونوں دوست ساتھ کرکٹ کھیلنے سے لطف اندوز ہوتے تھے۔ ہفتے کے آخر میں وہ عام طور پر قریبی نہر پر مچھلی پکڑنے جاتے تھے۔ اکثر وہ قریبی جنگل میں لمبی سیر پر بھی جاتے تھے، کیونکہ انہیں پرندوں کی آوازیں سننا، جانوروں کو کھیلتے دیکھنا اور خوبصورت پھول دیکھنا پسند تھا۔ وہ ہمیشہ ایک دوسرے کی صحبت سے لطف اندوز ہوتے تھے۔ وہ ہنستے تھے، مذاق کرتے تھے اور سارا دن خوب مزے کرتے تھے۔"
+          },
+          {
+            "en": "Basit was a kind and helpful boy by nature. Moreover, his parents had always taught him to be a kind, sympathetic, helpful and sincere person. He behaved very nicely with all his friends, but he had a special place in his heart for Raheel. Basit always helped Raheel with his homework. He was always willing to guide and help him whenever he faced any difficulty or problem. He also happily gave one of his fish to Raheel when he failed to catch any because, luckily, Basit often managed to catch more fish than Raheel. Although Basit was very active and very intelligent, he was not good at climbing trees. Raheel, on the other hand, was very good at climbing trees, as he had a tall tree in his house, which he had been climbing from an early age.",
+            "sd": "باسط فطرت ۾ مهربان ۽ مددگار ڇوڪرو هو. ان کان سواءِ، هن جي ماءُ پيءُ هن کي هميشه مهربان، همدرد، مددگار ۽ سچو ماڻهو ٿيڻ سيکاريو هو. هو پنهنجي سڀني دوستن سان تمام سٺي نموني پيش ايندو هو، پر هن جي دل ۾ راحيل لاءِ خاص جاءِ هئي. باسط راحيل جي گھر جي ڪم ۾ هميشه مدد ڪندو هو. جڏهن به راحيل کي ڪا ڏکيائي يا مسئلو پيش ايندو هو، تڏهن هو هن جي رهنمائي ۽ مدد ڪرڻ لاءِ هميشه تيار هوندو هو. هو خوشيءَ سان پنهنجي مڇين مان هڪ مڇي راحيل کي ڏيندو هو، جڏهن راحيل ڪا به مڇي نه پڪڙي سگھندو هو، ڇاڪاڻ ته خوشقسمتيءَ سان باسط اڪثر راحيل کان وڌيڪ مڇيون پڪڙي وٺندو هو. جيتوڻيڪ باسط تمام گھڻو سرگرم ۽ تمام گھڻو ذهين هو، پر هو وڻن تي چڙهڻ ۾ سٺو نه هو. راحيل، ٻئي طرف، وڻن تي چڙهڻ ۾ تمام سٺو هو، ڇاڪاڻ ته هن جي گھر ۾ هڪ ڊگھو وڻ هو، جنهن تي هو ننڍپڻ کان چڙهندو رهندو هو.",
+            "ur": "باسط فطرتاً مہربان اور مددگار لڑکا تھا۔ اس کے علاوہ، اس کے والدین نے اسے ہمیشہ مہربان، ہمدرد، مددگار اور سچا انسان بننا سکھایا تھا۔ وہ اپنے تمام دوستوں سے بہت اچھے طریقے سے پیش آتا تھا، لیکن اس کے دل میں راحیل کے لیے خاص جگہ تھی۔ باسط راحیل کے ہوم ورک میں ہمیشہ مدد کرتا تھا۔ جب بھی راحیل کو کوئی مشکل یا مسئلہ پیش آتا تھا، وہ اس کی رہنمائی اور مدد کے لیے ہمیشہ تیار رہتا تھا۔ وہ خوشی سے اپنی مچھلیوں میں سے ایک مچھلی راحیل کو دے دیتا تھا، جب راحیل کوئی مچھلی نہ پکڑ سکتا تھا، کیونکہ خوش قسمتی سے باسط اکثر راحیل سے زیادہ مچھلیاں پکڑ لیتا تھا۔ اگرچہ باسط بہت سرگرم اور بہت ذہین تھا، لیکن وہ درختوں پر چڑھنے میں اچھا نہیں تھا۔ راحیل، دوسری طرف، درختوں پر چڑھنے میں بہت اچھا تھا، کیونکہ اس کے گھر میں ایک لمبا درخت تھا، جس پر وہ بچپن سے چڑھتا رہتا تھا۔"
+          },
+          {
+            "en": "One day, Raheel and Basit decided to go to the nearby forest to enjoy the natural beauty. Being nature lovers, they kept walking along the path of the forest, all the time talking and enjoying the natural beauty all around them. They were so curious about everything that they just kept on following whatever caught their attention, not realizing that they had wandered deep into the forest. Suddenly, they realized that they had lost their way; they became very worried because their parents and the villagers had often told them about the dangerous beasts living in the forest. However, they decided to remain calm and promised not to leave each other in case of danger.",
+            "sd": "هڪ ڏينهن، راحيل ۽ باسط ويجهي ٻيلي ۾ فطرت جي خوبصورتي مان لطف اندوز ٿيڻ جو فيصلو ڪيو. فطرت جا عاشق هجڻ ڪري، هو ٻيلي جي رستي تي هلندا رهيا، سڄو وقت ڳالهائيندا رهيا ۽ چوڌاري موجود فطرت جي خوبصورتي مان لطف اندوز ٿيندا رهيا. هو هر شيءِ بابت ايترا تجسس ۾ هئا جو هو بس ان شيءِ جي پٺيان هلندا رهيا، جنهن به شيءِ هنن جو ڌيان ڇڪايو، اهو سمجھڻ کان سواءِ ته هو ٻيلي ۾ گھڻو اندر هليا ويا آهن. اوچتو، هنن کي احساس ٿيو ته هو رستو وساري ويٺا آهن؛ هو تمام گھڻا پريشان ٿيا، ڇاڪاڻ ته هنن جي ماءُ پيءُ ۽ ڳوٺ وارن هنن کي اڪثر ٻيلي ۾ رهندڙ خطرناڪ جهنگلي جانورن بابت ٻڌايو هو. تنهن هوندي به، هنن پرسڪون رهڻ جو فيصلو ڪيو ۽ واعدو ڪيو ته خطري جي صورت ۾ هڪٻئي کي نه ڇڏيندا.",
+            "ur": "ایک دن، راحیل اور باسط نے قریبی جنگل میں قدرت کی خوبصورتی سے لطف اندوز ہونے کا فیصلہ کیا۔ قدرت سے محبت کرنے والے ہونے کی وجہ سے، وہ جنگل کے راستے پر چلتے رہے، سارا وقت باتیں کرتے رہے اور اپنے ارد گرد قدرت کی خوبصورتی سے لطف اندوز ہوتے رہے۔ وہ ہر چیز کے بارے میں اتنے متجسس تھے کہ وہ بس اسی چیز کے پیچھے چلتے رہے جس نے بھی ان کی توجہ اپنی طرف کھینچی، یہ سمجھے بغیر کہ وہ جنگل میں بہت اندر چلے گئے ہیں۔ اچانک، انہیں احساس ہوا کہ وہ راستہ بھول گئے ہیں؛ وہ بہت پریشان ہو گئے، کیونکہ ان کے والدین اور گاؤں والوں نے انہیں اکثر جنگل میں رہنے والے خطرناک جانوروں کے بارے میں بتایا تھا۔ تاہم، انہوں نے پرسکون رہنے کا فیصلہ کیا اور وعدہ کیا کہ خطرے کی صورت میں ایک دوسرے کو نہیں چھوڑیں گے۔"
+          },
+          {
+            "en": "They kept walking through the forest, trying to find their way back home. But all their efforts were in vain. All of a sudden, they saw a huge, black bear coming towards them. They got frightened. This is where Raheel showed his selfish nature and said, “Look Basit, we are in great trouble. As I see it, we have only two choices, either we climb on a tree and save ourselves or we start running. Since I am good at climbing, I'm going to climb a tree. As you do not know how to climb, it would be a good idea for you to run as quickly as you can to save your life.”",
+            "sd": "هو ٻيلي مان هلندا رهيا، گھر واپس وڃڻ جو رستو ڳولڻ جي ڪوشش ڪندا رهيا. پر هنن جون سڀ ڪوششون بيڪار ويون. اوچتو، هنن هڪ وڏو، ڪارو رڇ پنهنجي طرف ايندو ڏٺو. هو ڊڄي ويا. هتي راحيل پنهنجي خودغرض طبيعت ڏيکاري ۽ چيو، ”ڏس باسط، اسان وڏي مصيبت ۾ آهيون. منهنجي خيال ۾، اسان وٽ صرف ٻه چونڊون آهن، يا ته اسان وڻ تي چڙهي پاڻ کي بچايون يا ڊوڙڻ شروع ڪريون. جيئن ته مان چڙهڻ ۾ سٺو آهيان، مان وڻ تي چڙهڻ وارو آهيان. جيئن ته توکي چڙهڻ نٿو اچي، تنهنجي جان بچائڻ لاءِ جيترو جلدي ٿي سگھي، اوترو جلدي ڊوڙڻ تنهنجي لاءِ سٺو خيال هوندو.“",
+            "ur": "وہ جنگل میں چلتے رہے، گھر واپس جانے کا راستہ تلاش کرنے کی کوشش کرتے رہے۔ لیکن ان کی تمام کوششیں بے کار گئیں۔ اچانک، انہوں نے ایک بڑا، کالا ریچھ اپنی طرف آتے دیکھا۔ وہ ڈر گئے۔ یہیں راحیل نے اپنی خود غرض فطرت دکھائی اور کہا، ”دیکھو باسط، ہم بڑی مصیبت میں ہیں۔ میرے خیال میں، ہمارے پاس صرف دو راستے ہیں، یا تو ہم درخت پر چڑھ کر خود کو بچا لیں یا بھاگنا شروع کر دیں۔ چونکہ میں چڑھنے میں اچھا ہوں، میں درخت پر چڑھنے والا ہوں۔ چونکہ تمہیں چڑھنا نہیں آتا، اپنی جان بچانے کے لیے جتنی جلدی ہو سکے، اتنی جلدی بھاگنا تمہارے لیے اچھا خیال ہوگا۔“"
+          },
+          {
+            "en": "Basit was extremely shocked to hear this. He had never expected that his friend would abandon him like this because he loved and trusted his friend sincerely. As the bear came nearer, Basit was paralyzed with fear. Finding no other way, he quickly lay flat on the ground, stopped breathing, and pretended to be dead. When the bear reached him, it smelt his body, probably thought he was dead, and did not touch him. Soon the bear just walked away.",
+            "sd": "باسط اهو ٻڌي تمام گھڻو حيران ٿيو. هن ڪڏهن به اها اميد نه ڪئي هئي ته هن جو دوست هن کي اهڙي طرح ڇڏي ويندو، ڇاڪاڻ ته هو پنهنجي دوست سان سچي دل سان پيار ڪندو هو ۽ هن تي ڀروسو ڪندو هو. جيئن رڇ ويجهو آيو، باسط ڊپ کان سُن ٿي ويو. ٻيو ڪو رستو نه ڏسي، هن جلدي زمين تي سڌو ليٽي پيو، ساهه کڻڻ بند ڪري ڇڏيو، ۽ مئل هجڻ جو ڏيک ڪيو. جڏهن رڇ هن وٽ پهتو، تڏهن هن هن جي جسم کي سونگھيو، شايد هن سوچيو ته هو مري ويو آهي، ۽ هن کي هٿ نه لڳايو. جلد ئي رڇ بس هليو ويو.",
+            "ur": "باسط یہ سن کر بہت حیران ہوا۔ اس نے کبھی امید نہیں کی تھی کہ اس کا دوست اسے اس طرح چھوڑ دے گا، کیونکہ وہ اپنے دوست سے سچے دل سے محبت کرتا تھا اور اس پر بھروسہ کرتا تھا۔ جیسے ہی ریچھ قریب آیا، باسط خوف سے سن ہو گیا۔ کوئی اور راستہ نہ دیکھ کر، وہ جلدی سے زمین پر سیدھا لیٹ گیا، سانس لینا بند کر دیا، اور مرنے کا ڈھونگ کیا۔ جب ریچھ اس کے پاس پہنچا، تو اس نے اس کے جسم کو سونگھا، شاید اس نے سوچا کہ وہ مر گیا ہے، اور اسے ہاتھ نہیں لگایا۔ جلد ہی ریچھ بس چلا گیا۔"
+          },
+          {
+            "en": "After a while, Basit heard his friend coming down the tree and guessed that the bear had gone away. He stood up and looked at Raheel angrily. But Raheel, instead of feeling ashamed or apologising to his friend for having abandoned him, just asked excitedly, “Basit, what did the bear whisper in your ear?” From his position high up in the tree, he had seen that the bear had brought its face close to Basit's head and thought that the bear had said something to his friend.",
+            "sd": "ڪجهه دير کان پوءِ، باسط پنهنجي دوست کي وڻ تان هيٺ ايندو ٻڌو ۽ اندازو لڳايو ته رڇ هليو ويو آهي. هو اٿي بيٺو ۽ راحيل ڏانهن ڪاوڙ سان ڏٺو. پر راحيل، شرم محسوس ڪرڻ يا پنهنجي دوست کان معافي گھرڻ بدران، بس جوش سان پڇيو، ”باسط، رڇ تنهنجي ڪن ۾ ڇا آهستي چيو؟“ وڻ جي چوٽيءَ تان، هن ڏٺو هو ته رڇ پنهنجو منهن باسط جي مٿي جي ويجهو آندو هو ۽ هن سوچيو هو ته رڇ پنهنجي دوست کي ڪجهه چيو آهي.",
+            "ur": "کچھ دیر بعد، باسط نے اپنے دوست کو درخت سے نیچے آتے سنا اور اندازہ لگایا کہ ریچھ چلا گیا ہے۔ وہ کھڑا ہوا اور راحیل کو غصے سے دیکھا۔ لیکن راحیل، شرمندہ ہونے یا اپنے دوست سے معافی مانگنے کے بجائے، جسے اس نے چھوڑ دیا تھا، بس جوش سے پوچھا، ”باسط، ریچھ نے تمہارے کان میں کیا سرگوشی کی؟“ درخت پر اوپر اپنی جگہ سے، اس نے دیکھا تھا کہ ریچھ نے اپنا چہرہ باسط کے سر کے قریب لایا تھا اور اس نے سوچا تھا کہ ریچھ نے اس کے دوست سے کچھ کہا ہے۔"
+          },
+          {
+            "en": "Basit looked at his friend angrily and replied, “He advised me not to trust a friend who leaves his friend at the time of danger.” Hearing this, Raheel felt embarrassed. He did not know what to say and started to walk away. Basit followed him silently. Since Raheel had seen the way out from the top of the tree, both friends quickly got out of the forest and reached their homes.",
+            "sd": "باسط پنهنجي دوست ڏانهن ڪاوڙ سان ڏٺو ۽ جواب ڏنو، ”هن مون کي صلاح ڏني ته اهڙي دوست تي ڀروسو نه ڪجي، جيڪو خطري جي وقت پنهنجي دوست کي ڇڏي وڃي.“ اهو ٻڌي، راحيل شرمسار ٿيو. هن کي خبر نه هئي ته ڇا چوي ۽ هو هلڻ لڳو. باسط خاموشيءَ سان هن جي پٺيان هليو. جيئن ته راحيل وڻ جي چوٽيءَ تان ٻاهر نڪرڻ جو رستو ڏٺو هو، ٻئي دوست جلدي ٻيلي مان ٻاهر نڪري پنهنجي گھرن ڏانهن ويا.",
+            "ur": "باسط نے اپنے دوست کو غصے سے دیکھا اور جواب دیا، ”اس نے مجھے مشورہ دیا کہ ایسے دوست پر بھروسہ نہ کرو جو خطرے کے وقت اپنے دوست کو چھوڑ دے۔“ یہ سن کر، راحیل شرمندہ ہوا۔ اسے نہیں معلوم تھا کہ کیا کہے اور وہ چلنے لگا۔ باسط خاموشی سے اس کے پیچھے چلا۔ چونکہ راحیل نے درخت کی چوٹی سے باہر نکلنے کا راستہ دیکھا تھا، دونوں دوست جلدی جنگل سے باہر نکلے اور اپنے گھروں کو پہنچے۔"
+          }
+        ],
+        "section": "1.1",
+        "unit": 1,
+        "unitTitle": "Friendship and Cooperation"
+      },
+      {
+        "bookPages": "21",
+        "lesson": "My Blessed Beautiful Land",
+        "paragraphs": [
+          {
+            "en": "In the North spellbinding scenes that astound Mighty Karakoram that's snow-crowned With Hindukush beauty all around Where warm and brave people are found Oh my Lord, keep them all safe and sound.",
+            "sd": "اتر ۾ اهڙا دل موهيندڙ منظر آهن، جيڪي ماڻهو کي حيران ڪري ڇڏين ٿا. برف سان ڍڪيل وڏو قراقرم جبل آهي، جنهن جي چوڌاري هندوڪش جي خوبصورتي پکڙيل آهي. جتي مهربان ۽ بهادر ماڻهو رهن ٿا. اي منهنجا رب، انهن سڀني کي صحيح سلامت رک.",
+            "ur": "شمال میں ایسے دل موہ لینے والے منظر ہیں جو انسان کو حیران کر دیتے ہیں۔ برف سے ڈھکا ہوا عظیم قراقرم پہاڑ ہے، جس کے ارد گرد ہندوکش کی خوبصورتی پھیلی ہوئی ہے۔ جہاں مہربان اور بہادر لوگ رہتے ہیں۔ اے میرے رب، ان سب کو صحیح سلامت رکھ۔"
+          },
+          {
+            "en": "The sands of the Kharan desert browned Lofty mountains with precious stones found And mines full of minerals underground My land, where fearless people abound Oh my Lord, keep them all safe and sound.",
+            "sd": "خاران جي ٿر جي واري ناسي رنگ جي آهي، اوچا جبل آهن، جن ۾ قيمتي پٿر ملن ٿا، ۽ زمين جي هيٺان معدنيات سان ڀريل کاڻيون آهن. منهنجي ڌرتي، جتي بي خوف ماڻهو رهن ٿا. اي منهنجا رب، انهن سڀني کي صحيح سلامت رک.",
+            "ur": "خاران کے صحرا کی بھوری ریت ہے، بلند پہاڑ ہیں جن میں قیمتی پتھر ملتے ہیں، اور زمین کے نیچے معدنیات سے بھری ہوئی کانیں ہیں۔ میری سرزمین، جہاں بے خوف لوگ رہتے ہیں۔ اے میرے رب، ان سب کو صحیح سلامت رکھ۔"
+          },
+          {
+            "en": "Fertile plains, fields of grain all around Where meet five mighty rivers renowned A land of tales and legends profound Where simple people work the year round Oh my Lord, keep them all safe and sound.",
+            "sd": "زرخيز ميدان، اناج جا ڪيت چوڌاري پکڙيل آهن. جتي پنج وڏا مشهور درياهه ملن ٿا. اها ڪهاڻين ۽ ڏند ڪٿائن جي ڳوڙهي ڌرتي آهي، جتي سادا ماڻهو سڄو سال ڪم ڪن ٿا. اي منهنجا رب، انهن سڀني کي صحيح سلامت رک.",
+            "ur": "زرخیز میدان، اناج کے کھیت ہر طرف پھیلے ہوئے ہیں۔ جہاں پانچ عظیم مشہور دریا ملتے ہیں۔ یہ کہانیوں اور پرانی روایتوں کی گہری سرزمین ہے، جہاں سادہ لوگ سارا سال کام کرتے ہیں۔ اے میرے رب، ان سب کو صحیح سلامت رکھ۔"
+          },
+          {
+            "en": "The Indus delta spread all around Far from the Mohen-jo-Daro mound Where echoes of ancient times resound And sincere and resourceful people abound Oh my Lord, keep them all safe and sound.",
+            "sd": "سنڌو نديءَ جو ڊيلٽا چوڌاري پکڙيل آهي، جيڪو موهن جي دڙي جي ٽڪريءَ کان پري آهي. جتي پراڻي زماني جون گونجون گونجن ٿيون ۽ سچا ۽ تدبير وارا ماڻهو رهن ٿا. اي منهنجا رب، انهن سڀني کي صحيح سلامت رک.",
+            "ur": "دریائے سندھ کا ڈیلٹا ہر طرف پھیلا ہوا ہے، جو موہن جو دڑو کے ٹیلے سے دور ہے۔ جہاں قدیم زمانے کی گونجیں گونجتی ہیں اور سچے اور تدبیر والے لوگ رہتے ہیں۔ اے میرے رب، ان سب کو صحیح سلامت رکھ۔"
+          }
+        ],
+        "section": "2.1",
+        "unit": 2,
+        "unitTitle": "Natural Beauty of Pakistan"
+      },
+      {
+        "bookPages": "39-41",
+        "lesson": "Better Be Safe Then Sorry",
+        "paragraphs": [
+          {
+            "en": "Do you know anyone who died or was seriously injured in a road accident? Most of us know of someone who has been involved in a road accident in one way or the other. Why do you think accidents happen? It is mainly because most people do not follow the road safety rules. Roads are built to make travel easy for us. We must, therefore, use them carefully so that they become safe for us to travel on. Citizens must understand that undisciplined users cause traffic accidents; and accidents sometimes result in people losing some part of their body or even their lives.",
+            "sd": "ڇا توهان ڪنهن اهڙي ماڻهو کي ڄاڻو ٿا جيڪو روڊ حادثي ۾ مري ويو هجي يا سخت زخمي ٿيو هجي؟ اسان مان گھڻا اهڙي ڪنهن ماڻهو کي ڄاڻن ٿا جيڪو ڪنهن نه ڪنهن طرح روڊ حادثي ۾ اچي چڪو آهي. توهان ڇا ٿا سمجھو ته حادثا ڇو ٿين ٿا؟ ان جو مکيه سبب اهو آهي ته گھڻا ماڻهو روڊ جي حفاظتي قاعدن تي عمل نه ٿا ڪن. روڊ ان لاءِ ٺاھيا ويا آهن ته اسان جو سفر سولو ٿئي. ان ڪري اسان کي انهن کي احتياط سان استعمال ڪرڻ گھرجي ته جيئن اهي اسان لاءِ سفر ڪرڻ لاءِ محفوظ ٿين. شهرين کي سمجھڻ گھرجي ته بي ضابطا روڊ استعمال ڪندڙ ٽريفڪ حادثن جو سبب بڻجن ٿا، ۽ حادثن جي ڪري ڪڏهن ڪڏهن ماڻهن کي پنهنجي جسم جو ڪو حصو يا پنهنجي جان به وڃائڻي پوي ٿي.",
+            "ur": "کیا آپ کسی ایسے شخص کو جانتے ہیں جو سڑک کے حادثے میں مر گیا ہو یا شدید زخمی ہوا ہو؟ ہم میں سے اکثر کسی نہ کسی ایسے شخص کو جانتے ہیں جو کسی نہ کسی طرح سڑک کے حادثے کا شکار ہوا ہو۔ آپ کے خیال میں حادثے کیوں ہوتے ہیں؟ اس کی بنیادی وجہ یہ ہے کہ اکثر لوگ سڑک کے حفاظتی اصولوں پر عمل نہیں کرتے۔ سڑکیں اس لیے بنائی گئی ہیں کہ ہمارا سفر آسان ہو جائے۔ اس لیے ہمیں انہیں احتیاط سے استعمال کرنا چاہیے تاکہ وہ ہمارے سفر کے لیے محفوظ ہو جائیں۔ شہریوں کو سمجھنا چاہیے کہ بے قاعدہ سڑک استعمال کرنے والے ٹریفک حادثوں کا سبب بنتے ہیں، اور حادثوں کی وجہ سے کبھی کبھی لوگوں کو اپنے جسم کا کوئی حصہ یا اپنی جان بھی گنوانی پڑتی ہے۔"
+          },
+          {
+            "en": "According to information available, all types of road users, including truck and bus drivers, and even pedestrians, are responsible for accidents. Many accidents happen because of careless pedestrians, who cross roads without checking for safety. They also walk on the road instead of using the footpaths. Another major reason why accidents occur is because many motorcyclists ride too fast and do not use helmets to protect their heads. Worst of all, they perform dangerous stunts. Some other causes of accidents are children playing in the streets, beggars dodging traffic, and people selling flowers and other things on the road.",
+            "sd": "موجوده معلومات موجب، روڊ جا سڀئي استعمال ڪندڙ، جن ۾ ٽرڪ ۽ بس جا ڊرائيور ۽ پيادل به شامل آهن، حادثن جا ذميوار آهن. گھڻا حادثا بي احتياط پيادلن جي ڪري ٿين ٿا، جيڪي حفاظت جي پرواه ڪرڻ کان سواءِ روڊ پار ڪن ٿا. اهي فٽ پاٿ استعمال ڪرڻ بدران روڊ تي هلن ٿا. حادثن جو هڪ ٻيو وڏو سبب اهو آهي ته گھڻا موٽر سائيڪل سوار تمام تيز هلائن ٿا ۽ پنهنجي مٿي جي حفاظت لاءِ هيلمٽ نه ٿا پائين. سڀ کان خراب ڳالهه اها آهي ته اهي خطرناڪ ڪرتب ڏيکارين ٿا. حادثن جا ڪجهه ٻيا سبب گھٽين ۾ کيڏندڙ ٻار، ٽريفڪ ۾ ڊوڙندڙ ڀيڪاري ۽ روڊ تي گل ۽ ٻيون شيون وڪڻندڙ ماڻهو آهن.",
+            "ur": "موجودہ معلومات کے مطابق، سڑک استعمال کرنے والے تمام لوگ، جن میں ٹرک اور بس کے ڈرائیور اور پیدل چلنے والے بھی شامل ہیں، حادثوں کے ذمہ دار ہیں۔ بہت سے حادثے لاپرواہ پیدل چلنے والوں کی وجہ سے ہوتے ہیں، جو حفاظت کا خیال کیے بغیر سڑک پار کرتے ہیں۔ وہ فٹ پاتھ استعمال کرنے کے بجائے سڑک پر چلتے ہیں۔ حادثوں کی ایک اور بڑی وجہ یہ ہے کہ بہت سے موٹر سائیکل سوار بہت تیز چلاتے ہیں اور اپنے سر کی حفاظت کے لیے ہیلمٹ نہیں پہنتے۔ سب سے بری بات یہ ہے کہ وہ خطرناک کرتب دکھاتے ہیں۔ حادثوں کی کچھ اور وجوہات گلیوں میں کھیلنے والے بچے، ٹریفک میں بھاگنے والے بھکاری اور سڑک پر پھول اور دوسری چیزیں بیچنے والے لوگ ہیں۔"
+          },
+          {
+            "en": "Road users need to be made aware of safety factors that can make roads safe for use. A number of strategies can be adopted for this purpose. The media, both radio and television, can give people road safety instructions through appealing programmes. Schools can contact their local police stations to request traffic education for their students. The traffic police need to teach traffic rules to the people who apply for driving licenses.",
+            "sd": "روڊ استعمال ڪندڙن کي حفاظتي ڳالهين کان آگاه ڪرڻ گھرجي، جن سان روڊ استعمال لاءِ محفوظ ٿي سگھن ٿا. ان مقصد لاءِ ڪيتريون ئي تدبيرون اختيار ڪري سگھجن ٿيون. ميڊيا، ريڊيو ۽ ٽيليويزن ٻئي، دلچسپ پروگرامن ذريعي ماڻهن کي روڊ جي حفاظت جون هدايتون ڏئي سگھي ٿي. اسڪول پنهنجي ويجهي پوليس اسٽيشن سان رابطو ڪري پنهنجي شاگردن لاءِ ٽريفڪ جي تعليم جي درخواست ڪري سگھن ٿا. ٽريفڪ پوليس کي انهن ماڻهن کي ٽريفڪ جا قاعدا سيکارڻ گھرجن، جيڪي ڊرائيونگ لائسنس لاءِ درخواست ڏين ٿا.",
+            "ur": "سڑک استعمال کرنے والوں کو حفاظتی باتوں سے آگاہ کرنا ضروری ہے، جن سے سڑکیں استعمال کے لیے محفوظ ہو سکتی ہیں۔ اس مقصد کے لیے کئی طریقے اختیار کیے جا سکتے ہیں۔ میڈیا، ریڈیو اور ٹیلی ویژن دونوں، دلچسپ پروگراموں کے ذریعے لوگوں کو سڑک کی حفاظت کی ہدایات دے سکتا ہے۔ اسکول اپنے قریبی پولیس اسٹیشن سے رابطہ کر کے اپنے طلبہ کے لیے ٹریفک کی تعلیم کی درخواست کر سکتے ہیں۔ ٹریفک پولیس کو ان لوگوں کو ٹریفک کے اصول سکھانے چاہییں جو ڈرائیونگ لائسنس کے لیے درخواست دیتے ہیں۔"
+          },
+          {
+            "en": "Parents also have a big responsibility. They must understand that safe roads will keep their families safe and protect them from the grief and harm that road accidents cause. They need to advise their children on road safety. Sometimes, children who are under-age, drive cars as well as motorcycles that they borrow or rent. They often drive too fast and carelessly. Here, the parents' role is very important. They must not allow their children to drive without a driving license. Moreover, they should teach them, from an early age, not to play on the roads and how to cross the road safely.",
+            "sd": "والدين جي به وڏي ذميواري آهي. انهن کي سمجھڻ گھرجي ته محفوظ روڊ انهن جي خاندانن کي محفوظ رکندا ۽ انهن کي انهيءَ ڏک ۽ نقصان کان بچائيندا، جيڪو روڊ حادثا پھچائين ٿا. انهن کي پنهنجي ٻارن کي روڊ جي حفاظت بابت صلاح ڏيڻ گھرجي. ڪڏهن ڪڏهن عمر کان گھٽ ٻار ڪارون ۽ موٽر سائيڪلون به هلائن ٿا، جيڪي اهي ٻين کان وٺي يا ڪرائي تي وٺن ٿا. اهي اڪثر تمام تيز ۽ بي احتياطي سان هلائن ٿا. هتي والدين جو ڪردار تمام اهم آهي. انهن کي پنهنجي ٻارن کي ڊرائيونگ لائسنس کان سواءِ گاڏي هلائڻ نه ڏيڻ گھرجي. ان کان سواءِ، انهن کي ننڍي عمر کان ئي سيکارڻ گھرجي ته روڊن تي نه کيڏن ۽ روڊ ڪيئن محفوظ طريقي سان پار ڪن.",
+            "ur": "والدین کی بھی بڑی ذمہ داری ہے۔ انہیں سمجھنا چاہیے کہ محفوظ سڑکیں ان کے خاندانوں کو محفوظ رکھیں گی اور انہیں اس دکھ اور نقصان سے بچائیں گی جو سڑک کے حادثے پہنچاتے ہیں۔ انہیں اپنے بچوں کو سڑک کی حفاظت کے بارے میں نصیحت کرنی چاہیے۔ کبھی کبھی کم عمر بچے کاریں اور موٹر سائیکلیں بھی چلاتے ہیں، جو وہ ادھار یا کرائے پر لیتے ہیں۔ وہ اکثر بہت تیز اور لاپرواہی سے چلاتے ہیں۔ یہاں والدین کا کردار بہت اہم ہے۔ انہیں اپنے بچوں کو ڈرائیونگ لائسنس کے بغیر گاڑی چلانے کی اجازت نہیں دینی چاہیے۔ اس کے علاوہ، انہیں چھوٹی عمر سے ہی سکھانا چاہیے کہ سڑکوں پر نہ کھیلیں اور سڑک محفوظ طریقے سے کیسے پار کریں۔"
+          },
+          {
+            "en": "All sources should be used to create safe roads. Textbooks are a good source that can be used to impart traffic education. For example, the \"Green Cross Code\" can be taught to the children through lessons in textbooks. It is a simple code that people can use while crossing roads. The steps in this code are: stop, look, listen, think and cross. Beside this code, other safety rules can also be taught. For example, pedestrians should be made aware that they should walk on the footpaths, where available. If there are no footpaths, and they have to use the road, then they should use the edge of the road.",
+            "sd": "محفوظ روڊ ٺاھڻ لاءِ سڀئي ذريعا استعمال ڪرڻ گھرجن. نصابي ڪتاب هڪ سٺو ذريعو آهن، جن ذريعي ٽريفڪ جي تعليم ڏئي سگھجي ٿي. مثال طور، ٻارن کي نصابي ڪتابن جي سبقن ذريعي 'گرين ڪراس ڪوڊ' سيکاري سگھجي ٿو. اهو هڪ سادو ڪوڊ آهي، جيڪو ماڻهو روڊ پار ڪرڻ وقت استعمال ڪري سگھن ٿا. ان ڪوڊ جا مرحلا هي آهن: روڪيو، ڏسو، ٻڌو، سوچيو ۽ پار ڪريو. هن ڪوڊ کان سواءِ، ٻيا حفاظتي قاعدا به سيکاري سگھجن ٿا. مثال طور، پيادلن کي آگاه ڪرڻ گھرجي ته اهي جتي فٽ پاٿ موجود هجن، اتي فٽ پاٿ تي هلن. جيڪڏهن فٽ پاٿ نه هجن ۽ انهن کي روڊ استعمال ڪرڻو پوي، ته انهن کي روڊ جي ڪناري تي هلڻ گھرجي.",
+            "ur": "محفوظ سڑکیں بنانے کے لیے تمام ذرائع استعمال کیے جانے چاہییں۔ نصابی کتابیں ایک اچھا ذریعہ ہیں، جن سے ٹریفک کی تعلیم دی جا سکتی ہے۔ مثال کے طور پر، بچوں کو نصابی کتابوں کے اسباق کے ذریعے 'گرین کراس کوڈ' سکھایا جا سکتا ہے۔ یہ ایک سادہ سا کوڈ ہے، جسے لوگ سڑک پار کرتے وقت استعمال کر سکتے ہیں۔ اس کوڈ کے مرحلے یہ ہیں: رکیں، دیکھیں، سنیں، سوچیں اور پار کریں۔ اس کوڈ کے علاوہ، حفاظتی اصول بھی سکھائے جا سکتے ہیں۔ مثال کے طور پر، پیدل چلنے والوں کو آگاہ کرنا چاہیے کہ جہاں فٹ پاتھ موجود ہوں، وہاں وہ فٹ پاتھ پر چلیں۔ اگر فٹ پاتھ نہ ہوں اور انہیں سڑک استعمال کرنی پڑے، تو انہیں سڑک کے کنارے پر چلنا چاہیے۔"
+          },
+          {
+            "en": "Understanding and following traffic rules can help prevent many accidents. Hence, all citizens, especially children, can benefit a lot from being aware about them. Some common safety tips are discussed in the table below.",
+            "sd": "ٽريفڪ جي قاعدن کي سمجھڻ ۽ انهن تي عمل ڪرڻ سان گھڻا حادثا روڪي سگھجن ٿا. ان ڪري، سڀئي شهري، خاص ڪري ٻار، انهن کان آگاه ٿيڻ سان گھڻو فائدو وٺي سگھن ٿا. ڪجهه عام حفاظتي صلاحون هيٺ ڏنل جدول ۾ ڏنل آهن.",
+            "ur": "ٹریفک کے اصولوں کو سمجھنے اور ان پر عمل کرنے سے بہت سے حادثے روکے جا سکتے ہیں۔ اس لیے، تمام شہری، خاص طور پر بچے، ان سے آگاہ ہو کر بہت فائدہ اٹھا سکتے ہیں۔ کچھ عام حفاظتی مشورے نیچے دی گئی جدول میں بیان کیے گئے ہیں۔"
+          },
+          {
+            "en": "A. Safety Rules for Cyclists. Do's: Try to stay on the extreme left of the road; check your brakes and make sure that they are working properly; have lights or reflectors on your bike if you ride at night. Don'ts: Ride without a horn or bell to warn pedestrians; perform stunts; weave in and out of traffic.",
+            "sd": "الف. سائيڪل سوارن لاءِ حفاظتي قاعدا. ڪرڻ گھرجن: روڊ جي بلڪل کٻي پاسي رھو؛ پنهنجي سائيڪل جي بريڪن کي چيڪ ڪريو ۽ پڪ ڪريو ته اهي صحيح ڪم ڪري رھيون آهن؛ جيڪڏهن رات جو سائيڪل هلايو ٿا ته سائيڪل تي بتيون يا ريفليڪٽر لڳايو. نه ڪرڻ گھرجن: هارن يا گھنٽي کان سواءِ سائيڪل نه هلايو، جيئن پيادلن کي خبردار ڪري سگھو؛ ڪرتب نه ڏيکاريو؛ ٽريفڪ ۾ اندر ٻاهر نه وڃو.",
+            "ur": "الف۔ سائیکل سواروں کے لیے حفاظتی اصول۔ کرنے والے کام: سڑک کے بالکل بائیں طرف رہیں؛ اپنی سائیکل کی بریکوں کو چیک کریں اور یقین کریں کہ وہ ٹھیک کام کر رہی ہیں؛ اگر رات کو سائیکل چلاتے ہیں تو سائیکل پر بتیاں یا ریفلیکٹر لگائیں۔ نہ کرنے والے کام: ہارن یا گھنٹی کے بغیر سواری نہ کریں تاکہ پیدل چلنے والوں کو خبردار کر سکیں؛ کرتب نہ دکھائیں؛ ٹریفک میں اندر باہر نہ جائیں۔"
+          },
+          {
+            "en": "B. Safety Rules for Pedestrians. Do's: Use zebra crossings; wait patiently for the right time to cross the road; use the Green Cross Code. Don'ts: Run across the road; allow young children to cross the road by themselves; cross when the traffic light is green.",
+            "sd": "ب. پيادلن لاءِ حفاظتي قاعدا. ڪرڻ گھرجن: زيبرا ڪراسنگ استعمال ڪريو؛ روڊ پار ڪرڻ لاءِ صحيح وقت جو صبر سان انتظار ڪريو؛ گرين ڪراس ڪوڊ استعمال ڪريو. نه ڪرڻ گھرجن: روڊ تي ڊوڙي پار نه ڪريو؛ ننڍن ٻارن کي اڪيلو روڊ پار ڪرڻ نه ڏيو؛ جڏهن ٽريفڪ جي بتي سائي هجي ته روڊ پار نه ڪريو.",
+            "ur": "ب۔ پیدل چلنے والوں کے لیے حفاظتی اصول۔ کرنے والے کام: زیبرا کراسنگ استعمال کریں؛ سڑک پار کرنے کے لیے صحیح وقت کا صبر سے انتظار کریں؛ گرین کراس کوڈ استعمال کریں۔ نہ کرنے والے کام: سڑک پر دوڑ کر پار نہ کریں؛ چھوٹے بچوں کو اکیلے سڑک پار نہ کرنے دیں؛ جب ٹریفک کی بتی سبز ہو تو سڑک پار نہ کریں۔"
+          },
+          {
+            "en": "C. Safety Rules While Using School and Public Transport. Do's: Always hold on to a support if you are standing; remain seated until it is safe to leave your seat; get on to the bus without pushing people. Don'ts: Ride on the footboard or on the roof; get off before the vehicle stops; lean out of windows of moving vehicles.",
+            "sd": "ج. اسڪول ۽ پبلڪ ٽرانسپورٽ استعمال ڪرڻ وقت حفاظتي قاعدا. ڪرڻ گھرجن: جيڪڏهن بيٺا آهيو ته ڪنهن سهاري کي مضبوطيءَ سان پڪڙيو؛ جيستائين سيٽ ڇڏڻ محفوظ نه هجي، تيستائين ويٺل رھو؛ ماڻهن کي ڌڪا ڏيڻ کان سواءِ بس تي چڙھو. نه ڪرڻ گھرجن: بس جي فوٽ بورڊ يا ڇت تي سوار نه ٿيو؛ گاڏي جي بيھڻ کان اڳ هيٺ نه لٿو؛ هلندڙ گاڏين جي درين مان ٻاهر نه نڪرو.",
+            "ur": "ج۔ اسکول اور پبلک ٹرانسپورٹ استعمال کرتے وقت حفاظتی اصول۔ کرنے والے کام: اگر کھڑے ہیں تو کسی سہارے کو مضبوطی سے پکڑیں؛ جب تک سیٹ چھوڑنا محفوظ نہ ہو، بیٹھے رہیں؛ لوگوں کو دھکا دیے بغیر بس پر سوار ہوں۔ نہ کرنے والے کام: بس کے فوٹ بورڈ یا چھت پر سوار نہ ہوں؛ گاڑی کے رکنے سے پہلے نہ اتریں؛ چلتی ہوئی گاڑیوں کی کھڑکیوں سے باہر نہ جھانکیں۔"
+          },
+          {
+            "en": "D. Safety Rules for Motorcycle Pillion Riders. Do's: Wear a helmet; take care of your clothes so that they are not caught in the wheels; hold on to something to keep your balance. Don'ts: Ask the driver to drive fast; dangle your feet; distract the driver.",
+            "sd": "د. موٽر سائيڪل تي پٺيان ويٺل سوارن لاءِ حفاظتي قاعدا. ڪرڻ گھرجن: هيلمٽ پايو؛ پنهنجن ڪپڙن جو خيال رکو ته اهي ڦيٿن ۾ نه ڦاسن؛ پنهنجو توازن برقرار رکڻ لاءِ ڪنهن شيءِ کي پڪڙيو. نه ڪرڻ گھرجن: ڊرائيور کي تيز هلائڻ لاءِ نه چئو؛ پنهنجا پير نه لٽڪايو؛ ڊرائيور جو ڌيان نه ڀٽڪايو.",
+            "ur": "د۔ موٹر سائیکل پر پیچھے بیٹھنے والے سواروں کے لیے حفاظتی اصول۔ کرنے والے کام: ہیلمٹ پہنیں؛ اپنے کپڑوں کا خیال رکھیں کہ وہ پہیوں میں نہ پھنسیں؛ اپنا توازن برقرار رکھنے کے لیے کسی چیز کو پکڑیں۔ نہ کرنے والے کام: ڈرائیور سے تیز چلانے کے لیے نہ کہیں؛ اپنے پاؤں نہ لٹکائیں؛ ڈرائیور کی توجہ نہ بھٹکائیں۔"
+          }
+        ],
+        "section": "3.1",
+        "unit": 3,
+        "unitTitle": "Traffic Education"
+      },
+      {
+        "bookPages": "64-69",
+        "lesson": "Educational Exhibition",
+        "paragraphs": [
+          {
+            "en": "The management of the Government High School No. 2 Shikarpur has organized an educational exhibition in the school playground. Students and their parents have been invited to the exhibition to enable them explore various available educational opportunities that the students can think about.",
+            "sd": "گورنمينٽ هاءِ اسڪول نمبر 2 شڪارپور جي انتظاميا اسڪول جي راند جي ميدان ۾ هڪ تعليمي نمائش جو انتظام ڪيو آهي. شاگردن ۽ انهن جي والدين کي نمائش ۾ ان لاءِ دعوت ڏني وئي آهي ته جيئن هو تعليم جي مختلف موقعن بابت ڄاڻي سگهن، جن بابت شاگرد سوچي سگهن ٿا.",
+            "ur": "گورنمنٹ ہائی اسکول نمبر 2 شکارپور کی انتظامیہ نے اسکول کے کھیل کے میدان میں ایک تعلیمی نمائش کا اہتمام کیا ہے۔ طلبہ اور ان کے والدین کو نمائش میں اس لیے مدعو کیا گیا ہے تاکہ وہ تعلیم کے مختلف مواقع کے بارے میں جان سکیں جن کے بارے میں طلبہ سوچ سکتے ہیں۔"
+          },
+          {
+            "en": "Educational stalls, cultural stalls, along with various food stalls have been set up nicely, with wonderful cultural music playing in the background to make the environment lively. Students with their parents are walking around and visiting various stalls.",
+            "sd": "تعليمي اسٽال، ثقافتي اسٽال ۽ مختلف کاڌي جا اسٽال سهڻي نموني لڳايا ويا آهن، ۽ ماحول کي جيئرو ڪرڻ لاءِ پٺيان سهڻو ثقافتي موسيقي وڄي رهي آهي. شاگرد پنهنجي والدين سان گڏ گهمي رهيا آهن ۽ مختلف اسٽالن جو دورو ڪري رهيا آهن.",
+            "ur": "تعلیمی اسٹال، ثقافتی اسٹال اور کھانے کے مختلف اسٹال خوبصورتی سے لگائے گئے ہیں، اور ماحول کو زندہ دل بنانے کے لیے پس منظر میں خوبصورت ثقافتی موسیقی بج رہی ہے۔ طلبہ اپنے والدین کے ساتھ گھوم پھر رہے ہیں اور مختلف اسٹالوں کا دورہ کر رہے ہیں۔"
+          },
+          {
+            "en": "Scene 1 — Agriculture Stall",
+            "sd": "منظر 1 — زراعت جو اسٽال",
+            "ur": "منظر 1 — زراعت کا اسٹال"
+          },
+          {
+            "en": "Juma sees Anum, Rehmat and Majid entering the school gate. He quickly gets up from the bench and starts walking towards them. They are all excited about seeing the variety of stalls in the school. They decide to visit the agriculture stall first.",
+            "sd": "جمعو انعم، رحمت ۽ ماجد کي اسڪول جي دروازي مان اندر ايندي ڏسي ٿو. هو جلدي بئنچ تان اٿي ٿو ۽ انهن ڏانهن هلڻ شروع ڪري ٿو. هو سڀئي اسڪول ۾ مختلف اسٽال ڏسي خوش آهن. هو پهريائين زراعت واري اسٽال جو دورو ڪرڻ جو فيصلو ڪن ٿا.",
+            "ur": "جمعہ انعم، رحمت اور ماجد کو اسکول کے دروازے سے اندر آتے ہوئے دیکھتا ہے۔ وہ جلدی سے بنچ سے اٹھتا ہے اور ان کی طرف چلنے لگتا ہے۔ وہ سب اسکول میں مختلف اسٹال دیکھ کر بہت خوش ہیں۔ وہ پہلے زراعت کے اسٹال کا دورہ کرنے کا فیصلہ کرتے ہیں۔"
+          },
+          {
+            "en": "Juma (in a welcoming way): Assalam o Alaikum. Welcome to our school.",
+            "sd": "جمعو (ڀليڪار واري انداز ۾): السلام عليڪم! اسان جي اسڪول ۾ ڀلي ڪري آيا.",
+            "ur": "جمعہ (خوش آمدید کے انداز میں): السلام علیکم! ہمارے اسکول میں خوش آمدید۔"
+          },
+          {
+            "en": "Agricultural Expert: Walekum-Assalam. Welcome to the agriculture stall.",
+            "sd": "زراعت جو ماهر: وعليڪم السلام! زراعت واري اسٽال ۾ ڀلي ڪري آيا.",
+            "ur": "زرعی ماہر: وعلیکم السلام! زراعت کے اسٹال میں خوش آمدید۔"
+          },
+          {
+            "en": "Juma: Sir, can you please tell me about the scope of agriculture in Pakistan?",
+            "sd": "جمعو: سائين، مهرباني ڪري مون کي ٻڌايو ته پاڪستان ۾ زراعت جي گنجائش ڪيتري آهي؟",
+            "ur": "جمعہ: سر، براہ کرم مجھے بتائیے کہ پاکستان میں زراعت کا دائرہ کتنا وسیع ہے؟"
+          },
+          {
+            "en": "Agricultural Expert: Well! I am glad to know that you are interested in this profession, my child. You know that Pakistan is an agricultural country and there are many opportunities in this field.",
+            "sd": "زراعت جو ماهر: واه! مون کي خوشي ٿي ته توکي هن پيشي ۾ دلچسپي آهي، منهنجا ٻار. توکي خبر آهي ته پاڪستان هڪ زرعي ملڪ آهي ۽ هن شعبي ۾ ڪيترائي موقعا آهن.",
+            "ur": "زرعی ماہر: واہ! مجھے خوشی ہوئی کہ تمہیں اس پیشے میں دلچسپی ہے، میرے بچے۔ تم جانتے ہو کہ پاکستان ایک زرعی ملک ہے اور اس شعبے میں بہت سے مواقع ہیں۔"
+          },
+          {
+            "en": "Anum (intervening): What opportunities? Can I also avail these opportunities, being a girl?",
+            "sd": "انعم (وچ ۾ ڳالهائيندي): ڪهڙا موقعا؟ ڇا مان به، ڇوڪري هجڻ جي باوجود، هنن موقعن مان فائدو وٺي سگهان ٿي؟",
+            "ur": "انعم (بیچ میں بولتے ہوئے): کون سے مواقع؟ کیا میں بھی، لڑکی ہوتے ہوئے، ان مواقع سے فائدہ اٹھا سکتی ہوں؟"
+          },
+          {
+            "en": "Agricultural Expert (replying enthusiastically): Yes, why not? There are a number of universities in Pakistan where boys and girls are researching on soil, seeds, water, environment, etc., as agricultural experts. One of you can become an expert if you study agriculture.",
+            "sd": "زراعت جو ماهر (جوش سان جواب ڏيندي): ها، ڇو نه؟ پاڪستان ۾ ڪيتريون ئي يونيورسٽيون آهن، جتي ڇوڪرا ۽ ڇوڪريون زراعت جي ماهرن طور مٽي، ٻج، پاڻي، ماحول وغيره تي تحقيق ڪري رهيا آهن. جيڪڏهن توهان زراعت پڙهو ته توهان مان هڪڙو ماهر بڻجي سگهي ٿو.",
+            "ur": "زرعی ماہر (جوش سے جواب دیتے ہوئے): ہاں، کیوں نہیں؟ پاکستان میں کئی یونیورسٹیاں ہیں جہاں لڑکے اور لڑکیاں زرعی ماہرین کے طور پر مٹی، بیج، پانی، ماحول وغیرہ پر تحقیق کر رہے ہیں۔ اگر تم زراعت پڑھو تو تم میں سے کوئی ایک ماہر بن سکتا ہے۔"
+          },
+          {
+            "en": "Rehmat: Wow! Great, I didn't know about this earlier. For me, agriculture is only about growing crops, as a farmer.",
+            "sd": "رحمت: واه! زبردست، مون کي هن بابت اڳ ۾ خبر نه هئي. منهنجي لاءِ زراعت جو مطلب رڳو فصل پوکڻ آهي، جيئن هاري ڪندو آهي.",
+            "ur": "رحمت: واہ! زبردست، مجھے اس کے بارے میں پہلے معلوم نہیں تھا۔ میرے لیے زراعت کا مطلب صرف فصلیں اگانا ہے، جیسے کسان کرتا ہے۔"
+          },
+          {
+            "en": "Agricultural Expert: No, that's a myth. There are many branches of agriculture, but the major ones are: Agronomy, Horticulture, Agricultural Engineering, Agricultural Economics and Animal Science.",
+            "sd": "زراعت جو ماهر: نه، اهو هڪ غلط خيال آهي. زراعت جون ڪيتريون ئي شاخون آهن، پر مکيه شاخون هي آهن: زراعت جو علم (ايگرونومي)، باغباني (هارٽيڪلچر)، زرعي انجنيئرنگ، زرعي معاشيات ۽ جانورن جو علم (اينمل سائنس).",
+            "ur": "زرعی ماہر: نہیں، یہ ایک غلط خیال ہے۔ زراعت کی کئی شاخیں ہیں، لیکن اہم شاخیں یہ ہیں: زرعیات (ایگرونومی)، باغبانی (ہارٹیکلچر)، زرعی انجینئرنگ، زرعی معاشیات اور حیوانیات (اینمل سائنس)۔"
+          },
+          {
+            "en": "Majid: This is really interesting! Could you please explain these specialized branches of agriculture?",
+            "sd": "ماجد: هي واقعي ڏاڍو دلچسپ آهي! مهرباني ڪري مون کي زراعت جي هنن خاص شاخن بابت سمجھايو؟",
+            "ur": "ماجد: یہ واقعی بہت دلچسپ ہے! براہ کرم مجھے زراعت کی ان مخصوص شاخوں کے بارے میں سمجھائیں؟"
+          },
+          {
+            "en": "Agricultural Expert: Sure! Your motivation reflects your interest in agriculture. (Turning towards the well displayed models elaborating the branches of agriculture). Agronomy deals with soil management and the growing of crops. Horticulture deals with the cultivation of fruits, vegetables and flowers. Agricultural engineering involves knowledge of farm machines and equipment. It also deals with developing new systems and practices to address problems facing agriculture. Agricultural Economics deals with the business side of farming. Animal Science is basically the breeding and caring of animals for specific purposes, such as for their meat, milk and fur.",
+            "sd": "زراعت جو ماهر: ضرور! توهان جو جوش زراعت ۾ توهان جي دلچسپي کي ظاهر ڪري ٿو. (زراعت جي شاخن کي واضح ڪندڙ سهڻي نموني رکيل نمونن ڏانهن منهن ڪندي). زراعت جو علم مٽي جي سنڀال ۽ فصل پوکڻ سان تعلق رکي ٿو. باغباني ميوو، ڀاڄيون ۽ گل پوکڻ سان تعلق رکي ٿي. زرعي انجنيئرنگ ۾ فارم جي مشينن ۽ اوزارن جي ڄاڻ شامل آهي. ان ۾ زراعت کي درپيش مسئلن کي حل ڪرڻ لاءِ نوان نظام ۽ طريقا ٺاهڻ به شامل آهن. زرعي معاشيات جو تعلق فارمنگ جي ڪاروباري پاسي سان آهي. جانورن جو علم بنيادي طور تي خاص مقصدن، جهڙوڪ گوشت، کير ۽ فر لاءِ جانورن جي پالنا ۽ سنڀال آهي.",
+            "ur": "زرعی ماہر: ضرور! تمہارا جوش زراعت میں تمہاری دلچسپی کو ظاہر کرتا ہے۔ (زراعت کی شاخوں کو واضح کرنے والے خوبصورتی سے رکھے گئے نمونوں کی طرف مڑتے ہوئے)۔ زرعیات کا تعلق مٹی کی دیکھ بھال اور فصلیں اگانے سے ہے۔ باغبانی کا تعلق پھل، سبزیاں اور پھول اگانے سے ہے۔ زرعی انجینئرنگ میں فارم کی مشینوں اور آلات کی معلومات شامل ہیں۔ اس میں زراعت کو درپیش مسائل حل کرنے کے لیے نئے نظام اور طریقے بنانا بھی شامل ہے۔ زرعی معاشیات کا تعلق کھیتی باڑی کے کاروباری پہلو سے ہے۔ حیوانیات بنیادی طور پر خاص مقاصد، جیسے گوشت، دودھ اور فر کے لیے جانوروں کی افزائش اور دیکھ بھال ہے۔"
+          },
+          {
+            "en": "The students thank the expert and move towards the next stall.",
+            "sd": "شاگرد ماهر جو شڪريو ادا ڪن ٿا ۽ ايندڙ اسٽال ڏانهن وڃن ٿا.",
+            "ur": "طلبہ ماہر کا شکریہ ادا کرتے ہیں اور اگلے اسٹال کی طرف بڑھتے ہیں۔"
+          },
+          {
+            "en": "Scene II — Commerce Stall",
+            "sd": "منظر II — ڪامرس جو اسٽال",
+            "ur": "منظر II — کامرس کا اسٹال"
+          },
+          {
+            "en": "The stall is well equipped with a multimedia and banners of popular banks. A well-dressed man, who is the manager of a bank, is guiding people about the field of Commerce. Rehmat sees Sonia, her class fellow, waiting for her turn. The group of students joins Sonia at the Commerce stall.",
+            "sd": "اسٽال ۾ ملٽي ميڊيا ۽ مشهور بئنڪن جا بينر سهڻي نموني لڳل آهن. هڪ سهڻي نموني پاتل ماڻهو، جيڪو هڪ بئنڪ جو مئنيجر آهي، ماڻهن کي ڪامرس جي شعبي بابت رهنمائي ڪري رهيو آهي. رحمت سونيا کي ڏسي ٿي، جيڪا هن جي ڪلاس جي ساٿياڻي آهي ۽ پنهنجي واري جي انتظار ڪري رهي آهي. شاگردن جو گروهه ڪامرس واري اسٽال تي سونيا سان ملي ٿو.",
+            "ur": "اسٹال ملٹی میڈیا اور مشہور بینکوں کے بینرز سے اچھی طرح آراستہ ہے۔ ایک اچھے لباس والا آدمی، جو ایک بینک کا منیجر ہے، لوگوں کو کامرس کے شعبے کے بارے میں رہنمائی کر رہا ہے۔ رحمت سونیا کو دیکھتی ہے، جو اس کی ہم جماعت ہے اور اپنی باری کا انتظار کر رہی ہے۔ طلبہ کا گروہ کامرس کے اسٹال پر سونیا سے مل جاتا ہے۔"
+          },
+          {
+            "en": "Sonia: Good morning, Sir! I'm here to get some information about the commerce field. Can you please guide me about this field and its benefits?",
+            "sd": "سونيا: صبح بخير، سائين! مان هتي ڪامرس جي شعبي بابت ڪجهه معلومات حاصل ڪرڻ آئي آهيان. مهرباني ڪري مون کي هن شعبي ۽ ان جي فائدن بابت رهنمائي ڪيو؟",
+            "ur": "سونیا: صبح بخیر، سر! میں یہاں کامرس کے شعبے کے بارے میں کچھ معلومات حاصل کرنے آئی ہوں۔ براہ کرم مجھے اس شعبے اور اس کے فوائد کے بارے میں رہنمائی کریں؟"
+          },
+          {
+            "en": "Manager (cheerfully): Sure! I'm glad to see your curiosity in commerce. Well, the activity of buying and selling, especially on a large scale, is commerce. Through commerce education, a student is exposed to the environment of the business world. It is helpful for preparing students for employment in the commerce, finance and business fields and for establishing their own business.",
+            "sd": "مئنيجر (خوشي سان): ضرور! مون کي خوشي ٿي ته توکي ڪامرس ۾ دلچسپي آهي. خير، خريد ۽ وڪري جي سرگرمي، خاص ڪري وڏي پيماني تي، ڪامرس آهي. ڪامرس جي تعليم ذريعي شاگرد ڪاروباري دنيا جي ماحول کان واقف ٿئي ٿو. اهو شاگردن کي ڪامرس، ماليات ۽ ڪاروبار جي شعبن ۾ نوڪري لاءِ تيار ڪرڻ ۽ پنهنجو ڪاروبار قائم ڪرڻ ۾ مددگار آهي.",
+            "ur": "منیجر (خوشی سے): ضرور! مجھے خوشی ہوئی کہ تمہیں کامرس میں دلچسپی ہے۔ خیر، خرید و فروخت کی سرگرمی، خاص طور پر بڑے پیمانے پر، کامرس ہے۔ کامرس کی تعلیم کے ذریعے طالب علم کاروباری دنیا کے ماحول سے واقف ہوتا ہے۔ یہ طلبہ کو کامرس، مالیات اور کاروبار کے شعبوں میں ملازمت کے لیے تیار کرنے اور اپنا کاروبار قائم کرنے میں مددگار ہے۔"
+          },
+          {
+            "en": "Rehmat: I think this field will help me in setting up my own business anywhere in the world. Is there any other advantage?",
+            "sd": "رحمت: منهنجو خيال آهي ته هي شعبو مون کي دنيا ۾ ڪٿي به پنهنجو ڪاروبار قائم ڪرڻ ۾ مدد ڪندو. ڇا ان جو ٻيو ڪو فائدو به آهي؟",
+            "ur": "رحمت: میرے خیال میں یہ شعبہ مجھے دنیا میں کہیں بھی اپنا کاروبار قائم کرنے میں مدد کرے گا۔ کیا اس کا کوئی اور فائدہ بھی ہے؟"
+          },
+          {
+            "en": "Manager (in an optimistic way): Yes! Besides this, it also prepares students to meet the global business challenges and compete in the international market. It can guide young graduates become successful business people of tomorrow, in the fast changing business world.",
+            "sd": "مئنيجر (پراميد انداز ۾): ها! ان کان علاوه، اهو شاگردن کي عالمي ڪاروباري چئلينجن کي منهن ڏيڻ ۽ بين الاقوامي مارڪيٽ ۾ مقابلو ڪرڻ لاءِ تيار ڪري ٿو. اهو نوجوان گريجوئيٽن کي تيزي سان بدلجندڙ ڪاروباري دنيا ۾ سڀاڻي جا ڪامياب ڪاروباري ماڻهو بڻجڻ جي رهنمائي ڪري سگهي ٿو.",
+            "ur": "منیجر (پرامید انداز میں): ہاں! اس کے علاوہ، یہ طلبہ کو عالمی کاروباری چیلنجوں کا سامنا کرنے اور بین الاقوامی مارکیٹ میں مقابلہ کرنے کے لیے تیار کرتا ہے۔ یہ نوجوان گریجویٹس کو تیزی سے بدلتی ہوئی کاروباری دنیا میں کل کے کامیاب کاروباری لوگ بننے کی رہنمائی کر سکتا ہے۔"
+          },
+          {
+            "en": "Majid: Well, if I'm interested in a job, what departments will offer me jobs after completing commerce education?",
+            "sd": "ماجد: خير، جيڪڏهن مان نوڪري ۾ دلچسپي رکان ٿو، ته ڪامرس جي تعليم مڪمل ڪرڻ کان پوءِ ڪهڙا شعبا مون کي نوڪريون ڏيندا؟",
+            "ur": "ماجد: خیر، اگر مجھے نوکری میں دلچسپی ہو تو کامرس کی تعلیم مکمل کرنے کے بعد کون سے محکمے مجھے نوکریاں دیں گے؟"
+          },
+          {
+            "en": "Manager (happily): This is really a good question. There are various departments, like banking and finance, business and trade, economics, and so on.",
+            "sd": "مئنيجر (خوشي سان): هي واقعي سٺو سوال آهي. ڪيترائي شعبا آهن، جهڙوڪ بئنڪنگ ۽ ماليات، ڪاروبار ۽ واپار، معاشيات وغيره.",
+            "ur": "منیجر (خوشی سے): یہ واقعی ایک اچھا سوال ہے۔ کئی محکمے ہیں، جیسے بینکنگ اور مالیات، کاروبار اور تجارت، معاشیات وغیرہ۔"
+          },
+          {
+            "en": "The students thank the manager and walk to the next stall.",
+            "sd": "شاگرد مئنيجر جو شڪريو ادا ڪن ٿا ۽ ايندڙ اسٽال ڏانهن هلن ٿا.",
+            "ur": "طلبہ منیجر کا شکریہ ادا کرتے ہیں اور اگلے اسٹال کی طرف چل پڑتے ہیں۔"
+          },
+          {
+            "en": "Scene III — Computer Sciences Stall",
+            "sd": "منظر III — ڪمپيوٽر سائنس جو اسٽال",
+            "ur": "منظر III — کمپیوٹر سائنس کا اسٹال"
+          },
+          {
+            "en": "Rehmat points at the computers in the computer stall. The children are amazed to see the well-equipped, high tech, new generation computers. Many other students are also standing at the stall.",
+            "sd": "رحمت ڪمپيوٽر واري اسٽال ۾ ڪمپيوٽرن ڏانهن اشارو ڪري ٿي. ٻار سهڻي نموني ليس، جديد ٽيڪنالاجي وارا، نئين نسل جا ڪمپيوٽر ڏسي حيران ٿي وڃن ٿا. ٻيا ڪيترائي شاگرد به اسٽال تي بيٺا آهن.",
+            "ur": "رحمت کمپیوٹر والے اسٹال میں کمپیوٹروں کی طرف اشارہ کرتی ہے۔ بچے اچھی طرح سے آراستہ، جدید ٹیکنالوجی والے، نئی نسل کے کمپیوٹر دیکھ کر حیران رہ جاتے ہیں۔ کئی دوسرے طلبہ بھی اسٹال پر کھڑے ہیں۔"
+          },
+          {
+            "en": "Sonia: Wow! Computers in our school! Let's see what we can learn from this stall.",
+            "sd": "سونيا: واه! اسان جي اسڪول ۾ ڪمپيوٽر! اچو ڏسون ته اسان هن اسٽال مان ڇا سکي سگهون ٿا.",
+            "ur": "سونیا: واہ! ہمارے اسکول میں کمپیوٹر! آؤ دیکھیں کہ ہم اس اسٹال سے کیا سیکھ سکتے ہیں۔"
+          },
+          {
+            "en": "IT Expert (in a welcoming manner): Welcome to the computer science stall. Here we have valuable information about your possible future profession in computers.",
+            "sd": "آئي ٽي ماهر (ڀليڪار واري انداز ۾): ڪمپيوٽر سائنس واري اسٽال ۾ ڀلي ڪري آيا. هتي اسان وٽ ڪمپيوٽرن ۾ توهان جي ممڪن مستقبل واري پيشي بابت قيمتي معلومات آهي.",
+            "ur": "آئی ٹی ماہر (خوش آمدید کے انداز میں): کمپیوٹر سائنس کے اسٹال میں خوش آمدید۔ یہاں ہمارے پاس کمپیوٹروں میں آپ کے ممکنہ مستقبل کے پیشے کے بارے میں قیمتی معلومات ہیں۔"
+          },
+          {
+            "en": "Sudheer (overjoyed): Sir, How can computer science help our future career development?",
+            "sd": "سڌير (ڏاڍو خوش ٿي): سائين، ڪمپيوٽر سائنس اسان جي مستقبل واري ڪيريئر جي ترقي ۾ ڪيئن مدد ڪري سگهي ٿي؟",
+            "ur": "سدھیر (بہت خوش ہو کر): سر، کمپیوٹر سائنس ہمارے مستقبل کے کیریئر کی ترقی میں کیسے مدد کر سکتی ہے؟"
+          },
+          {
+            "en": "IT Expert (eagerly): Dear students, the world is progressing rapidly due to IT and almost all the things are controlled with computers.",
+            "sd": "آئي ٽي ماهر (جوش سان): پيارا شاگردو، دنيا آئي ٽي جي ڪري تيزي سان ترقي ڪري رهي آهي ۽ لڳ ڀڳ سڀ شيون ڪمپيوٽرن سان ڪنٽرول ٿين ٿيون.",
+            "ur": "آئی ٹی ماہر (جوش سے): پیارے طلبہ، دنیا آئی ٹی کی وجہ سے تیزی سے ترقی کر رہی ہے اور تقریباً تمام چیزیں کمپیوٹروں سے کنٹرول ہوتی ہیں۔"
+          },
+          {
+            "en": "Zainab (in an inquisitive way): How is this possible?",
+            "sd": "زينب (سوال پڇڻ واري انداز ۾): هي ڪيئن ممڪن آهي؟",
+            "ur": "زینب (تجسس کے انداز میں): یہ کیسے ممکن ہے؟"
+          },
+          {
+            "en": "IT Expert: Anything can be done by the computers. One can communicate with anybody across the world. All our official and unofficial work can be done through computers. Moreover, computers have brought a dramatic change in education.",
+            "sd": "آئي ٽي ماهر: ڪمپيوٽرن سان ڪو به ڪم ڪري سگهجي ٿو. ڪو به دنيا جي ڪنهن به ماڻهو سان رابطو ڪري سگهي ٿو. اسان جو سڀ سرڪاري ۽ غير سرڪاري ڪم ڪمپيوٽرن ذريعي ڪري سگهجي ٿو. ان کان علاوه، ڪمپيوٽرن تعليم ۾ وڏي تبديلي آندي آهي.",
+            "ur": "آئی ٹی ماہر: کمپیوٹروں سے کوئی بھی کام کیا جا سکتا ہے۔ کوئی بھی دنیا بھر میں کسی سے بھی رابطہ کر سکتا ہے۔ ہمارا تمام سرکاری اور غیر سرکاری کام کمپیوٹروں کے ذریعے کیا جا سکتا ہے۔ اس کے علاوہ، کمپیوٹروں نے تعلیم میں زبردست تبدیلی لائی ہے۔"
+          },
+          {
+            "en": "Majid (interrupting): What about fun in computers?",
+            "sd": "ماجد (وچ ۾ ڳالهائيندي): ڪمپيوٽرن ۾ تفريح جو ڇا آهي؟",
+            "ur": "ماجد (بیچ میں بولتے ہوئے): کمپیوٹروں میں تفریح کا کیا حال ہے؟"
+          },
+          {
+            "en": "IT Expert: Oh! I'm sorry I didn't tell you about that. Well, you can play games on the computers. You can watch animated movies, as if you are a part of the movies, through 3D films*.",
+            "sd": "آئي ٽي ماهر: اوه! مون کي افسوس آهي جو مون توهان کي ان بابت نه ٻڌايو. خير، توهان ڪمپيوٽرن تي رانديون کيڏي سگهو ٿا. توهان متحرڪ فلمون ڏسي سگهو ٿا، ڄڻ توهان 3D فلمن ذريعي فلمن جو حصو آهيو.",
+            "ur": "آئی ٹی ماہر: اوہ! مجھے افسوس ہے کہ میں نے آپ کو اس کے بارے میں نہیں بتایا۔ خیر، آپ کمپیوٹروں پر کھیل کھیل سکتے ہیں۔ آپ متحرک فلمیں دیکھ سکتے ہیں، جیسے آپ 3D فلموں کے ذریعے فلموں کا حصہ ہیں۔"
+          },
+          {
+            "en": "The students are very excited to hear all this. They thank the IT Expert and head towards the next stall.",
+            "sd": "شاگرد هي سڀ ٻڌي ڏاڍا خوش ٿين ٿا. هو آئي ٽي ماهر جو شڪريو ادا ڪن ٿا ۽ ايندڙ اسٽال ڏانهن وڃن ٿا.",
+            "ur": "طلبہ یہ سب سن کر بہت خوش ہوتے ہیں۔ وہ آئی ٹی ماہر کا شکریہ ادا کرتے ہیں اور اگلے اسٹال کی طرف بڑھتے ہیں۔"
+          },
+          {
+            "en": "Scene IV — Medical and Engineering Stall",
+            "sd": "منظر IV — طبي ۽ انجنيئرنگ جو اسٽال",
+            "ur": "منظر IV — طبی اور انجینئرنگ کا اسٹال"
+          },
+          {
+            "en": "This stall looks like it is for doctors and engineers. So, the friends decide to go there and gather information about these noble professions. The doctor is briefing a group of children about his field.",
+            "sd": "هي اسٽال ائين ٿو لڳي ڄڻ اهو ڊاڪٽرن ۽ انجنيئرن لاءِ آهي. تنهنڪري دوست اتي وڃڻ ۽ هنن عظيم پيشن بابت معلومات گڏ ڪرڻ جو فيصلو ڪن ٿا. ڊاڪٽر ٻارن جي هڪ گروهه کي پنهنجي شعبي بابت ٻڌائي رهيو آهي.",
+            "ur": "یہ اسٹال ایسا لگتا ہے جیسے یہ ڈاکٹروں اور انجینئروں کے لیے ہے۔ اس لیے دوست وہاں جانے اور ان عظیم پیشوں کے بارے میں معلومات حاصل کرنے کا فیصلہ کرتے ہیں۔ ڈاکٹر بچوں کے ایک گروہ کو اپنے شعبے کے بارے میں بتا رہا ہے۔"
+          },
+          {
+            "en": "Doctor: Well, doctors are the backbone of a society. Whether you want to be a doctor, a dentist, or a nurse you will be curing diseases and solving physical problems, thereby serving humanity.",
+            "sd": "ڊاڪٽر: خير، ڊاڪٽر ڪنهن به سماج جي ريڙهه جي هڏي آهن. توهان ڊاڪٽر، ڏندن جو ڊاڪٽر يا نرس بڻجڻ چاهيو ٿا، توهان بيماريون دور ڪندا ۽ جسماني مسئلا حل ڪندا، اهڙي طرح انسانيت جي خدمت ڪندا.",
+            "ur": "ڈاکٹر: خیر، ڈاکٹر کسی بھی معاشرے کی ریڑھ کی ہڈی ہوتے ہیں۔ چاہے آپ ڈاکٹر، دانتوں کا ڈاکٹر یا نرس بننا چاہیں، آپ بیماریوں کا علاج کریں گے اور جسمانی مسائل حل کریں گے، اس طرح انسانیت کی خدمت کریں گے۔"
+          },
+          {
+            "en": "Fehmida: Sir, people generally give importance to doctors; why not nurses?",
+            "sd": "فهميده: سائين، ماڻهو عام طور تي ڊاڪٽرن کي اهميت ڏين ٿا؛ نرسن کي ڇو نه؟",
+            "ur": "فہمیدہ: سر، لوگ عام طور پر ڈاکٹروں کو اہمیت دیتے ہیں؛ نرسوں کو کیوں نہیں؟"
+          },
+          {
+            "en": "Doctor: That's really a wonderful question. Nursing is one of the noblest professions because nurses look after the patients with love and care. More people should take up nursing as a career.",
+            "sd": "ڊاڪٽر: اهو واقعي هڪ شاندار سوال آهي. نرسنگ سڀ کان عظيم پيشن مان هڪ آهي، ڇاڪاڻ ته نرسون مريضن جي محبت ۽ خيال سان سنڀال ڪن ٿيون. وڌيڪ ماڻهن کي نرسنگ کي پيشي طور اختيار ڪرڻ گهرجي.",
+            "ur": "ڈاکٹر: یہ واقعی ایک شاندار سوال ہے۔ نرسنگ سب سے عظیم پیشوں میں سے ایک ہے کیونکہ نرسیں مریضوں کی محبت اور دیکھ بھال سے خدمت کرتی ہیں۔ زیادہ لوگوں کو نرسنگ کو پیشے کے طور پر اپنانا چاہیے۔"
+          },
+          {
+            "en": "Anum: My father is a doctor but I want to be an engineer. So, what is the scope of engineering in Pakistan?",
+            "sd": "انعم: منهنجو پيءُ ڊاڪٽر آهي پر مان انجنيئر بڻجڻ چاهيان ٿي. پوءِ پاڪستان ۾ انجنيئرنگ جي گنجائش ڪيتري آهي؟",
+            "ur": "انعم: میرے والد ڈاکٹر ہیں لیکن میں انجینئر بننا چاہتی ہوں۔ تو پاکستان میں انجینئرنگ کا دائرہ کتنا وسیع ہے؟"
+          },
+          {
+            "en": "Majid (joining in): I also want to be an engineer.",
+            "sd": "ماجد (ڳالهه ۾ شامل ٿيندي): مان به انجنيئر بڻجڻ چاهيان ٿو.",
+            "ur": "ماجد (بات میں شامل ہوتے ہوئے): میں بھی انجینئر بننا چاہتا ہوں۔"
+          },
+          {
+            "en": "Engineer: Well, my child, there are many fields, like Mechanical, Electrical, Civil, Electronics, etc. Many students are confused about which field of engineering to study. All fields have almost the same growth and scope. However, one should choose a field according to the present and future conditions. In Pakistan, currently, the job scope is better in electrical and electronics engineering; but civil engineers are often paid more than electrical and electronics engineers.",
+            "sd": "انجنيئر: خير، منهنجا ٻار، ڪيترائي شعبا آهن، جهڙوڪ مڪينيڪل، اليڪٽريڪل، سول، اليڪٽرانڪس وغيره. ڪيترائي شاگرد ان بابت مونجهاري ۾ آهن ته انجنيئرنگ جو ڪهڙو شعبو پڙهن. سڀني شعبن جي ترقي ۽ گنجائش لڳ ڀڳ هڪجهڙي آهي. پر ڪنهن کي پنهنجو شعبو موجوده ۽ مستقبل جي حالتن مطابق چونڊڻ گهرجي. پاڪستان ۾، هن وقت، اليڪٽريڪل ۽ اليڪٽرانڪس انجنيئرنگ ۾ نوڪري جا موقعا بهتر آهن؛ پر سول انجنيئرن کي اڪثر اليڪٽريڪل ۽ اليڪٽرانڪس انجنيئرن کان وڌيڪ پگهار ملي ٿو.",
+            "ur": "انجینئر: خیر، میرے بچے، کئی شعبے ہیں، جیسے مکینیکل، الیکٹریکل، سول، الیکٹرانکس وغیرہ۔ کئی طلبہ اس بارے میں الجھن میں ہیں کہ انجینئرنگ کا کون سا شعبہ پڑھیں۔ تمام شعبوں کی ترقی اور دائرہ تقریباً ایک جیسا ہے۔ تاہم، کسی کو اپنا شعبہ موجودہ اور مستقبل کے حالات کے مطابق چننا چاہیے۔ پاکستان میں، اس وقت، الیکٹریکل اور الیکٹرانکس انجینئرنگ میں نوکری کے مواقع بہتر ہیں؛ لیکن سول انجینئروں کو اکثر الیکٹریکل اور الیکٹرانکس انجینئروں سے زیادہ تنخواہ ملتی ہے۔"
+          },
+          {
+            "en": "The children and their parents leave the stall after thanking the doctors and engineers. The students are now beginning to feel tired so they head towards the food stalls.",
+            "sd": "ٻار ۽ انهن جا والدين ڊاڪٽرن ۽ انجنيئرن جو شڪريو ادا ڪرڻ کان پوءِ اسٽال ڇڏي وڃن ٿا. شاگرد هاڻي ٿڪ محسوس ڪرڻ شروع ڪن ٿا، تنهنڪري هو کاڌي وارن اسٽالن ڏانهن وڃن ٿا.",
+            "ur": "بچے اور ان کے والدین ڈاکٹروں اور انجینئروں کا شکریہ ادا کرنے کے بعد اسٹال چھوڑ دیتے ہیں۔ طلبہ اب تھکاوٹ محسوس کرنے لگتے ہیں، اس لیے وہ کھانے کے اسٹالوں کی طرف بڑھتے ہیں۔"
+          },
+          {
+            "en": "Scene V — Food Stalls",
+            "sd": "منظر V — کاڌي جا اسٽال",
+            "ur": "منظر V — کھانے کے اسٹال"
+          },
+          {
+            "en": "While enjoying delicious food they discuss their possible future field.",
+            "sd": "لذيذ کاڌو کائيندي هو پنهنجي ممڪن مستقبل واري شعبي بابت ڳالهه ٻولهه ڪن ٿا.",
+            "ur": "لذیذ کھانا کھاتے ہوئے وہ اپنے ممکنہ مستقبل کے شعبے کے بارے میں بات چیت کرتے ہیں۔"
+          },
+          {
+            "en": "Juma: This was an amazing experience, learning about these professions. I have planned to become a civil engineer. What about you, Majid?",
+            "sd": "جمعو: هي هڪ شاندار تجربو هو، هنن پيشن بابت سکڻ جو. مون سول انجنيئر بڻجڻ جو فيصلو ڪيو آهي. توهان جو ڇا خيال آهي، ماجد؟",
+            "ur": "جمعہ: یہ ایک شاندار تجربہ تھا، ان پیشوں کے بارے میں سیکھنا۔ میں نے سول انجینئر بننے کا فیصلہ کیا ہے۔ تمہارا کیا خیال ہے، ماجد؟"
+          },
+          {
+            "en": "Majid: I'd prefer to be an agricultural engineer because my father is a farmer and I would like to help him in this field.",
+            "sd": "ماجد: مان زرعي انجنيئر بڻجڻ کي ترجيح ڏيندس، ڇاڪاڻ ته منهنجو پيءُ هاري آهي ۽ مان هن شعبي ۾ هن جي مدد ڪرڻ چاهيان ٿو.",
+            "ur": "ماجد: میں زرعی انجینئر بننا پسند کروں گا کیونکہ میرے والد کسان ہیں اور میں اس شعبے میں ان کی مدد کرنا چاہتا ہوں۔"
+          },
+          {
+            "en": "Zainab: My parents want me to become a bank manager. What about you, Sudheer?",
+            "sd": "زينب: منهنجا والدين چاهين ٿا ته مان بئنڪ مئنيجر بڻجان. توهان جو ڇا خيال آهي، سڌير؟",
+            "ur": "زینب: میرے والدین چاہتے ہیں کہ میں بینک منیجر بنوں۔ تمہارا کیا خیال ہے، سدھیر؟"
+          },
+          {
+            "en": "Sudheer: I love serving human beings so I want to be a male nurse.",
+            "sd": "سڌير: مون کي انسانن جي خدمت ڪرڻ پسند آهي، تنهنڪري مان مرد نرس بڻجڻ چاهيان ٿو.",
+            "ur": "سدھیر: مجھے انسانوں کی خدمت کرنا پسند ہے، اس لیے میں مرد نرس بننا چاہتا ہوں۔"
+          },
+          {
+            "en": "Juma: But your parents may not agree with you.",
+            "sd": "جمعو: پر توهان جا والدين شايد توهان سان متفق نه ٿين.",
+            "ur": "جمعہ: لیکن تمہارے والدین شاید تم سے متفق نہ ہوں۔"
+          },
+          {
+            "en": "Sudheer: I will try to convince them.",
+            "sd": "سڌير: مان انهن کي قائل ڪرڻ جي ڪوشش ڪندس.",
+            "ur": "سدھیر: میں انہیں قائل کرنے کی کوشش کروں گا۔"
+          },
+          {
+            "en": "Anum: That's great, Sudheer. But I want to be an electronics engineer. My parents prefer this profession the most.",
+            "sd": "انعم: اهو زبردست آهي، سڌير. پر مان اليڪٽرانڪس انجنيئر بڻجڻ چاهيان ٿي. منهنجا والدين هن پيشي کي سڀ کان وڌيڪ پسند ڪن ٿا.",
+            "ur": "انعم: یہ زبردست ہے، سدھیر۔ لیکن میں الیکٹرانکس انجینئر بننا چاہتی ہوں۔ میرے والدین اس پیشے کو سب سے زیادہ پسند کرتے ہیں۔"
+          },
+          {
+            "en": "Sonia: Many of my family members are suffering from dental problems. So, I think it would be a good idea for me to do Bachelors in Dental Surgery (BDS). Rehmat, what is your future plan?",
+            "sd": "سونيا: منهنجي خاندان جا ڪيترائي ماڻهو ڏندن جي مسئلن ۾ مبتلا آهن. تنهنڪري منهنجو خيال آهي ته منهنجي لاءِ بيچلرز ان ڊينٽل سرجري (بي ڊي ايس) ڪرڻ سٺو خيال هوندو. رحمت، توهان جو مستقبل جو منصوبو ڇا آهي؟",
+            "ur": "سونیا: میرے خاندان کے کئی افراد دانتوں کے مسائل میں مبتلا ہیں۔ اس لیے میرے خیال میں میرے لیے بیچلرز ان ڈینٹل سرجری (بی ڈی ایس) کرنا اچھا خیال ہوگا۔ رحمت، تمہارا مستقبل کا منصوبہ کیا ہے؟"
+          },
+          {
+            "en": "Rehmat: I have no plans as yet. I will think and discuss with my parents.",
+            "sd": "رحمت: مون وٽ اڃا تائين ڪو منصوبو ناهي. مان سوچينديس ۽ پنهنجي والدين سان ڳالهائينديس.",
+            "ur": "رحمت: میرے پاس ابھی تک کوئی منصوبہ نہیں ہے۔ میں سوچوں گی اور اپنے والدین سے بات کروں گی۔"
+          },
+          {
+            "en": "At 5:00 pm, after enjoying the food at the food stalls, with cultural songs playing in the background, and having talked to different educational experts, the students, along with their parents leave the school playground with great optimism. The exhibition had served its purpose.",
+            "sd": "شام 5 وڳي، کاڌي وارن اسٽالن تي کاڌو کائڻ کان پوءِ، پٺيان ثقافتي گانا وڄي رهيا هئا، ۽ مختلف تعليمي ماهرن سان ڳالهائڻ کان پوءِ، شاگرد پنهنجي والدين سان گڏ وڏي اميد سان اسڪول جو ميدان ڇڏي وڃن ٿا. نمائش پنهنجو مقصد پورو ڪري چڪي هئي.",
+            "ur": "شام 5 بجے، کھانے کے اسٹالوں پر کھانا کھانے کے بعد، پس منظر میں ثقافتی گانے بج رہے تھے، اور مختلف تعلیمی ماہرین سے بات کرنے کے بعد، طلبہ اپنے والدین کے ساتھ بڑی امید کے ساتھ اسکول کا میدان چھوڑ دیتے ہیں۔ نمائش نے اپنا مقصد پورا کر لیا تھا۔"
+          }
+        ],
+        "section": "4.1",
+        "unit": 4,
+        "unitTitle": "Exploring the Educational Opportunities"
+      },
+      {
+        "bookPages": "87-90",
+        "lesson": "What shaped Edhi's Life",
+        "paragraphs": [
+          {
+            "en": "Abdul Sattar Edhi, the “Angel of Mercy” as people called him, started his humanitarian work in 1951 by establishing a very small dispensary in Mithadar, Karachi, Pakistan. From this humble beginning, he, single-handedly, went on to create Pakistan's largest charitable organization, based entirely on private donations. Today, the Edhi Foundation employs more than 7,000 people, both paid and voluntary workers, to manage its huge network. In Pakistan, it operates about 1500 ambulances that offer a 24-hour service, from more than 350 Edhi centres. Additionally, there are more than seventeen Edhi homes and 330 welfare centres across Pakistan. They provide shelter for an estimated 85,000 people, including senior citizens, special children, needy children, infants and babies, and they operate food kitchens, clinics and rehabilitation centres for drug addicts and the mentally ill. Even animals have been provided a home in an animal shelter.",
+            "sd": "عبدالستار ايڌي، جنهن کي ماڻهو 'رحم جو فرشتو' چوندا هئا، پنهنجو انساني خدمت جو ڪم 1951ع ۾ ڪراچي، پاڪستان جي علائقي مٺادر ۾ هڪ تمام ننڍو دواخانو قائم ڪري شروع ڪيو. هن عاجزانه شروعات کان، هن اڪيلي سر پاڪستان جي سڀ کان وڏي خيراتي تنظيم ٺاهي، جيڪا مڪمل طور خانگي چندن تي ٻڌل آهي. اڄ ايڌي فائونڊيشن 7,000 کان وڌيڪ ماڻهن کي روزگار ڏئي ٿي، جن ۾ پگهاردار ۽ رضاڪار ڪارڪن شامل آهن، جيڪي ان جي وڏي نيٽ ورڪ کي هلائين ٿا. پاڪستان ۾ اهو 350 کان وڌيڪ ايڌي مرڪزن مان لڳ ڀڳ 1500 ايمبولينسون هلائي ٿو، جيڪي 24 ڪلاڪ خدمت ڏين ٿيون. ان کان علاوه، سڄي پاڪستان ۾ سترهن کان وڌيڪ ايڌي گھر ۽ 330 ڀلائي مرڪز آهن. اهي لڳ ڀڳ 85,000 ماڻهن کي پناه ڏين ٿا، جن ۾ بزرگ شهرين، خاص ٻار، محتاج ٻار، ننڍڙا ٻار ۽ ٻارڙا شامل آهن، ۽ اهي کاڌي جا باورچيخانا، ڪلينڪون ۽ نشي جي عادين ۽ ذهني بيمارن لاءِ بحالي مرڪز هلائين ٿا. جانورن کي به جانورن جي پناه گاه ۾ گھر ڏنو ويو آهي.",
+            "ur": "عبدالستار ایدھی، جنہیں لوگ 'رحم کا فرشتہ' کہتے تھے، نے 1951 میں کراچی، پاکستان کے علاقے مٹھادر میں ایک بہت چھوٹا سا دواخانہ قائم کر کے اپنا انسانی خدمت کا کام شروع کیا۔ اس عاجزانہ شروعات سے، انہوں نے اکیلے ہی پاکستان کی سب سے بڑی خیراتی تنظیم بنائی، جو مکمل طور پر نجی چندوں پر مبنی ہے۔ آج ایدھی فاؤنڈیشن 7,000 سے زیادہ لوگوں کو روزگار دیتی ہے، جن میں تنخواہ دار اور رضاکار کارکن شامل ہیں، جو اس کے بڑے نیٹ ورک کو چلاتے ہیں۔ پاکستان میں یہ 350 سے زیادہ ایدھی مراکز سے تقریباً 1500 ایمبولینسیں چلاتی ہے، جو 24 گھنٹے خدمت فراہم کرتی ہیں۔ اس کے علاوہ، پورے پاکستان میں سترہ سے زیادہ ایدھی گھر اور 330 فلاحی مراکز ہیں۔ یہ تقریباً 85,000 لوگوں کو پناہ دیتے ہیں، جن میں بزرگ شہری، خصوصی بچے، ضرورت مند بچے، شیر خوار بچے اور نومولود شامل ہیں، اور یہ کھانے کے باورچی خانے، کلینک اور نشے کے عادی افراد اور ذہنی مریضوں کے لیے بحالی مراکز چلاتے ہیں۔ جانوروں کو بھی جانوروں کی پناہ گاہ میں گھر دیا گیا ہے۔"
+          },
+          {
+            "en": "Edhi was born in early 1928, in Bantva, Gujrat, British India. His father, Haji Abdul Shakoor worked as a dry fruit commission agent in Bombay. Since his father was mostly away from home, he was mainly brought up by his mother who, according to Edhi, had a great influence on his life. But other members of his family also contributed in shaping his life, including his father and grandfather. He used to fondly recall that his grandfather, Haji Rehmatullah, was a simple, content, and patient person, who did not believe in surpluses, and even disapproved of having extra food at home. Moreover, he had a reputation in the community for resolving conflicts and settling disputes.",
+            "sd": "ايڌي 1928ع جي شروع ۾ بانٽوا، گجرات، برطانوي هندستان ۾ ڄائو. هن جو پيءُ، حاجي عبدالشڪور، بمبئي ۾ خشڪ ميوي جو ڪميشن ايجنٽ هو. جيئن ته هن جو پيءُ گھڻو ڪري گھر کان ٻاهر رھندو هو، تنهنڪري هن جي پرورش گھڻو ڪري هن جي ماءُ ڪئي، جنهن جو، ايڌي جي چوڻ مطابق، هن جي زندگي تي وڏو اثر پيو. پر هن جي خاندان جي ٻين ميمبرن به هن جي زندگي کي سنوارڻ ۾ حصو ورتو، جن ۾ هن جو پيءُ ۽ ڏاڏو شامل هئا. هو پيار سان ياد ڪندو هو ته هن جو ڏاڏو، حاجي رحمت الله، هڪ سادو، قناعت پسند ۽ صابر ماڻهو هو، جيڪو وڌيڪ شين تي يقين نه رکندو هو، ۽ گھر ۾ وڌيڪ کاڌو رکڻ کي به ناپسند ڪندو هو. ان کان علاوه، برادري ۾ هن جي شهرت هئي ته هو جهيڙا ختم ڪري تڪرار حل ڪندو هو.",
+            "ur": "ایدھی 1928 کے شروع میں بانٹوا، گجرات، برطانوی ہندوستان میں پیدا ہوئے۔ ان کے والد، حاجی عبدالشکور، بمبئی میں خشک میوے کے کمیشن ایجنٹ تھے۔ چونکہ ان کے والد زیادہ تر گھر سے باہر رہتے تھے، اس لیے ان کی پرورش زیادہ تر ان کی والدہ نے کی، جن کا، ایدھی کے مطابق، ان کی زندگی پر بہت اثر پڑا۔ لیکن ان کے خاندان کے دوسرے افراد نے بھی ان کی زندگی کو سنوارنے میں حصہ لیا، جن میں ان کے والد اور دادا شامل تھے۔ وہ پیار سے یاد کرتے تھے کہ ان کے دادا، حاجی رحمت اللہ، ایک سادہ، قناعت پسند اور صابر انسان تھے، جو اضافی چیزوں پر یقین نہیں رکھتے تھے، اور گھر میں اضافی کھانا رکھنے کو بھی ناپسند کرتے تھے۔ اس کے علاوہ، برادری میں ان کی شہرت تھی کہ وہ جھگڑے ختم کر کے تنازعات حل کرتے تھے۔"
+          },
+          {
+            "en": "Thinking back, Abdul Sattar Edhi once said about his father, “My father had very high moral standards for himself. To him, simplicity was the only tolerable way of life. When we migrated to Pakistan, we got into serious financial trouble. However, he never complained; and throughout these times, he was never dishonest in his business. Despite the fact that life in Pakistan was very difficult at that time, my father was a truly optimistic person and always had a positive attitude.”",
+            "sd": "پوئتي ڏسي، عبدالستار ايڌي هڪ ڀيرو پنهنجي پيءُ بابت چيو، 'منهنجي پيءُ جا پنهنجا اخلاقي معيار تمام وڏا هئا. هن لاءِ، سادگي ئي زندگي گذارڻ جو واحد برداشت جوڳو طريقو هئي. جڏهن اسان پاڪستان لڏي آياسين، تڏهن اسان سخت مالي مشڪلاتن ۾ ڦاسي پياسين. پر هن ڪڏهن به شڪايت نه ڪئي؛ ۽ انهن سڀني وقتن ۾، هو پنهنجي ڪاروبار ۾ ڪڏهن به بي ايمان نه رھيو. ان حقيقت جي باوجود ته ان وقت پاڪستان ۾ زندگي تمام گھڻي ڏکي هئي، منهنجو پيءُ هڪ سچو پراميد ماڻهو هو ۽ هميشه مثبت رويو رکندو هو.'",
+            "ur": "پیچھے دیکھتے ہوئے، عبدالستار ایدھی نے ایک بار اپنے والد کے بارے میں کہا، 'میرے والد کے اپنے اخلاقی معیار بہت بلند تھے۔ ان کے لیے، سادگی ہی زندگی گزارنے کا واحد قابل برداشت طریقہ تھی۔ جب ہم پاکستان ہجرت کر کے آئے، تو ہم سنگین مالی مشکلات میں پھنس گئے۔ تاہم، انہوں نے کبھی شکایت نہیں کی؛ اور ان تمام وقتوں میں، وہ اپنے کاروبار میں کبھی بے ایمان نہیں رہے۔ اس حقیقت کے باوجود کہ اس وقت پاکستان میں زندگی بہت مشکل تھی، میرے والد ایک سچے پرامید انسان تھے اور ہمیشہ مثبت رویہ رکھتے تھے۔'"
+          },
+          {
+            "en": "In Bantva, Abdul Sattar Edhi was known among his friends as Roti. As Edhi explained: “Every time my father came back home from one of his trips, he shaved my head. Once, when I asked him why he does it he explained that it is simply the most effective way to curb pride and prevent arrogance. It makes you work better because appearance is a distraction. When you don't think about the way you look, you develop humility and truth. I think it was the best lesson I was ever taught.”",
+            "sd": "بانٽوا ۾، عبدالستار ايڌي پنهنجن دوستن ۾ روٽي جي نالي سان سڃاتو ويندو هو. ايڌي جيئن وضاحت ڪئي: 'هر ڀيري جڏهن منهنجو پيءُ پنهنجي سفرن مان هڪ سفر تان گھر واپس ايندو هو، ته هو منهنجو مٿو ڪوڙيندو هو. هڪ ڀيرو، جڏهن مون هن کان پڇيو ته هو ائين ڇو ٿو ڪري، ته هن وضاحت ڪئي ته اهو غرور کي روڪڻ ۽ تڪبر کان بچڻ جو سڀ کان وڌيڪ ڪارگر طريقو آهي. اهو توکي وڌيڪ سٺو ڪم ڪرڻ ۾ مدد ڪري ٿو، ڇاڪاڻ ته ڏيکاءُ هڪ خلل آهي. جڏهن تون پنهنجي ڏيکاءُ بابت نه سوچيندو آهين، ته تون عاجزي ۽ سچائي پيدا ڪندو آهين. منهنجي خيال ۾ اهو سڀ کان بهترين سبق هو، جيڪو مون کي ڪڏهن به سيکاريو ويو.'",
+            "ur": "بانٹوا میں، عبدالستار ایدھی اپنے دوستوں میں روٹی کے نام سے جانے جاتے تھے۔ ایدھی نے وضاحت کرتے ہوئے کہا: 'ہر بار جب میرے والد اپنے سفروں میں سے ایک سفر سے گھر واپس آتے تھے، تو وہ میرا سر منڈواتے تھے۔ ایک بار، جب میں نے ان سے پوچھا کہ وہ ایسا کیوں کرتے ہیں، تو انہوں نے وضاحت کی کہ یہ غرور کو روکنے اور تکبر سے بچنے کا سب سے مؤثر طریقہ ہے۔ یہ تمہیں بہتر کام کرنے میں مدد دیتا ہے، کیونکہ ظاہری شکل ایک خلل ہے۔ جب تم اس بارے میں نہیں سوچتے کہ تم کیسے دکھائی دیتے ہو، تو تم میں عاجزی اور سچائی پیدا ہوتی ہے۔ میرے خیال میں یہ بہترین سبق تھا، جو مجھے کبھی سکھایا گیا۔'"
+          },
+          {
+            "en": "However, the person who apparently made Abdul Sattar Edhi the man he became was his mother. Edhi said of his mother that she was a very gentle, sensitive and quiet person. She guided Edhi in such a manner that he grew up to be a very kind and sensitive person. He was particularly caring where the old, handicapped or mentally challenged people were concerned. If ever he saw some mean kids making fun of the mentally challenged, he would stop them. His mother always appreciated such acts by saying, “You have given a voice to those who do not have it. These people are as innocent as babies; they know nothing of the world and yet they have to live as adults.”",
+            "sd": "پر، اهو ماڻهو جنهن بظاهر عبدالستار ايڌي کي اهو ماڻهو بڻايو، جيڪو هو بڻيو، سو هن جي ماءُ هئي. ايڌي پنهنجي ماءُ بابت چيو ته هوءَ هڪ تمام نرم، حساس ۽ خاموش ماڻهو هئي. هن ايڌي جي اهڙي رهنمائي ڪئي جو هو هڪ تمام مهربان ۽ حساس ماڻهو بڻجي ويو. هو خاص طور تي پوڙهن، معذور يا ذهني معذور ماڻهن جي باري ۾ خيال رکندو هو. جيڪڏهن هو ڪڏهن ڏسندو هو ته ڪي شرارتي ٻار ذهني معذورن جو مذاق اڏائي رهيا آهن، ته هو انهن کي روڪيندو هو. هن جي ماءُ هميشه اهڙن ڪمن جي ساراهه ڪندي چوندي هئي، 'تون انهن کي آواز ڏنو آهي، جن وٽ اهو ناهي. اهي ماڻهو ٻارڙن جيترا بيگناه آهن؛ اهي دنيا بابت ڪجهه به نه ٿا ڄاڻن، ۽ پوءِ به انهن کي وڏن وانگر رھڻو پوي ٿو.'",
+            "ur": "تاہم، وہ شخص جس نے بظاہر عبدالستار ایدھی کو وہ انسان بنایا، جو وہ بنے، وہ ان کی والدہ تھیں۔ ایدھی نے اپنی والدہ کے بارے میں کہا کہ وہ ایک بہت نرم، حساس اور خاموش انسان تھیں۔ انہوں نے ایدھی کی ایسی رہنمائی کی کہ وہ ایک بہت مہربان اور حساس انسان بن گئے۔ وہ خاص طور پر بوڑھے، معذور یا ذہنی معذور لوگوں کا خیال رکھتے تھے۔ اگر کبھی وہ دیکھتے کہ کچھ شریر بچے ذہنی معذوروں کا مذاق اڑا رہے ہیں، تو وہ انہیں روکتے تھے۔ ان کی والدہ ہمیشہ ایسے کاموں کی تعریف کرتے ہوئے کہتی تھیں، 'تم نے ان لوگوں کو آواز دی ہے، جن کے پاس آواز نہیں ہے۔ یہ لوگ بچوں کی طرح بے گناہ ہیں؛ یہ دنیا کے بارے میں کچھ نہیں جانتے، اور پھر بھی انہیں بڑوں کی طرح رہنا پڑتا ہے۔'"
+          },
+          {
+            "en": "According to Abdul Sattar Edhi, he learnt about love and care from his mother. She would always distribute cashew nuts, pistachios, ginger and other food items that her husband sent her from Bombay, amongst the poorer families in her neighbourhood. She would ask young Edhi to distribute these packets to families who were less fortunate than they were. One story that Edhi liked to share about his mother was about his school days. He said that when he was in school, his mother used to give him two paisas: one to buy something to eat for himself and the other to buy whatever he was eating for a poor boy watching him eat, but who had no money to buy it for himself. Often, when she asked him about the two paisas, he confessed that he had spent both the paisas on buying things for himself. Hearing this she would tell him that he had eaten poor people's money. These poor people were mazlooms disadvantaged. She told him to fear Allah as He never helps those who do not look after the mazlooms, who do not fulfil Huquq-ul-Ibaad the rights of other human beings, as this was the first priority in Islam.",
+            "sd": "عبدالستار ايڌي جي چوڻ مطابق، هن پنهنجي ماءُ کان پيار ۽ خيال ڪرڻ سکيو. هوءَ هميشه ڪاجو، پستو، ادرڪ ۽ ٻيون کاڌي جون شيون ورهائيندي هئي، جيڪي هن جو مڙس هن کي بمبئي کان موڪليندو هو، پنهنجي پاڙي جي غريب خاندانن ۾. هوءَ ننڍي ايڌي کي چوندي هئي ته اهي پيڪٽ انهن خاندانن کي ڏئي اچي، جيڪي انهن کان گھٽ خوش قسمت هئا. هڪ ڪهاڻي جيڪا ايڌي پنهنجي ماءُ بابت ٻڌائڻ پسند ڪندو هو، سا هن جي اسڪول جي ڏينهن بابت هئي. هن چيو ته جڏهن هو اسڪول ۾ هو، ته هن جي ماءُ هن کي ٻه پئسا ڏيندي هئي: هڪ پنهنجي لاءِ ڪجهه کائڻ لاءِ خريد ڪرڻ لاءِ ۽ ٻيو اهو خريد ڪرڻ لاءِ، جيڪو هو کائي رھيو هو، هڪ غريب ڇوڪرو لاءِ جيڪو هن کي کائيندي ڏسي رھيو هو، پر هن وٽ اهو خريد ڪرڻ لاءِ پئسا نه هئا. گھڻو ڪري، جڏهن هوءَ هن کان ٻن پئسن بابت پڇندي هئي، ته هو اقرار ڪندو هو ته هن ٻئي پئسا پنهنجي لاءِ شيون خريد ڪرڻ تي خرچ ڪري ڇڏيا هئا. اهو ٻڌي هوءَ هن کي چوندي هئي ته هن غريب ماڻهن جا پئسا کائي ڇڏيا آهن. اهي غريب ماڻهو مظلوم، يعني محروم ماڻهو هئا. هوءَ هن کي چوندي هئي ته الله کان ڊڄي، ڇاڪاڻ ته الله ڪڏهن به انهن جي مدد نه ڪندو آهي، جيڪي مظلومن جو خيال نه ٿا رکن، جيڪي حقوق العباد، يعني ٻين انسانن جا حق، پورا نه ٿا ڪن، ڇاڪاڻ ته اسلام ۾ اهو پهرين ترجيح هئي.",
+            "ur": "عبدالستار ایدھی کے مطابق، انہوں نے اپنی والدہ سے محبت اور دیکھ بھال سیکھی۔ وہ ہمیشہ کاجو، پستہ، ادرک اور کھانے کی دوسری چیزیں تقسیم کرتی تھیں، جو ان کے شوہر بمبئی سے انہیں بھیجتے تھے، اپنے محلے کے غریب خاندانوں میں۔ وہ نوجوان ایدھی سے کہتی تھیں کہ یہ پیکٹ ان خاندانوں کو دے آئیں، جو ان سے کم خوش قسمت تھے۔ ایک کہانی جو ایدھی اپنی والدہ کے بارے میں سنانا پسند کرتے تھے، وہ ان کے اسکول کے دنوں کے بارے میں تھی۔ انہوں نے کہا کہ جب وہ اسکول میں تھے، تو ان کی والدہ انہیں دو پیسے دیتی تھیں: ایک اپنے لیے کچھ کھانے کو خریدنے کے لیے اور دوسرا وہ خریدنے کے لیے، جو وہ کھا رہے ہوتے تھے، ایک غریب لڑکے کے لیے جو انہیں کھاتے ہوئے دیکھ رہا ہوتا تھا، لیکن اس کے پاس اسے خریدنے کے لیے پیسے نہیں ہوتے تھے۔ اکثر، جب وہ ان سے دو پیسوں کے بارے میں پوچھتی تھیں، تو وہ اقرار کرتے تھے کہ انہوں نے دونوں پیسے اپنے لیے چیزیں خریدنے پر خرچ کر دیے تھے۔ یہ سن کر وہ ان سے کہتی تھیں کہ انہوں نے غریب لوگوں کا پیسہ کھا لیا ہے۔ یہ غریب لوگ مظلوم تھے، یعنی محروم لوگ۔ وہ ان سے کہتی تھیں کہ اللہ سے ڈریں، کیونکہ اللہ کبھی ان کی مدد نہیں کرتا، جو مظلوموں کا خیال نہیں رکھتے، جو حقوق العباد، یعنی دوسرے انسانوں کے حقوق، پورے نہیں کرتے، کیونکہ اسلام میں یہ پہلی ترجیح تھی۔"
+          },
+          {
+            "en": "Edhi also talked of the way his mother ensured that he did not waste his time. She would ask him to bring raw cotton to their home. She would then clean it and ask him to take it back to the shop in order to earn some money. She was of the view that no one should sit at home idly; everyone should work to earn a living.",
+            "sd": "ايڌي اهو به ٻڌايو ته هن جي ماءُ ڪيئن پڪ ڪيو ته هو پنهنجو وقت ضايع نه ڪري. هوءَ هن کي چوندي هئي ته گھر ۾ ڪچي ڪپھه آڻي. پوءِ هوءَ ان کي صاف ڪندي هئي ۽ هن کي چوندي هئي ته پئسا ڪمائڻ لاءِ ان کي واپس دڪان تي وٺي وڃي. هن جو خيال هو ته ڪنهن کي به گھر ۾ بيڪار نه ويهڻ گھرجي؛ هر ڪنهن کي روزگار ڪمائڻ لاءِ ڪم ڪرڻ گھرجي.",
+            "ur": "ایدھی نے یہ بھی بتایا کہ ان کی والدہ نے کس طرح یقین دلایا کہ وہ اپنا وقت ضائع نہ کریں۔ وہ ان سے کہتی تھیں کہ گھر میں کچی کپاس لائیں۔ پھر وہ اسے صاف کرتی تھیں اور ان سے کہتی تھیں کہ پیسے کمانے کے لیے اسے واپس دکان پر لے جائیں۔ ان کا خیال تھا کہ کسی کو بھی گھر میں بیکار نہیں بیٹھنا چاہیے؛ ہر کسی کو روزی کمانے کے لیے کام کرنا چاہیے۔"
+          },
+          {
+            "en": "Edhi often fondly recalled that it was his mother who planted the seed of social welfare and charitable work in him. She not only nurtured it but taught him how to control his desire for material things and to overcome personal greed. Edhi often said that although his mother's whole life was a struggle, she was always positive and kind to others. She was the one who taught him love for humanity when he was a child. So, after her death, he decided to dedicate his whole life to the service of humanity.",
+            "sd": "ايڌي گھڻو ڪري پيار سان ياد ڪندو هو ته اها هن جي ماءُ هئي، جنهن هن ۾ سماجي ڀلائي ۽ خيراتي ڪم جو ٻج پوکيو. هن نه رڳو ان جي پرورش ڪئي، پر هن کي اهو به سيکاريو ته مادي شين جي خواهش کي ڪيئن قابو ۾ رکجي ۽ پنهنجي لالچ تي ڪيئن غالب اچجي. ايڌي گھڻو ڪري چوندو هو ته جيتوڻيڪ هن جي ماءُ جي سڄي زندگي جدوجهد هئي، پر هوءَ هميشه ٻين سان مثبت ۽ مهربان رھندي هئي. هوءَ ئي اها هئي، جنهن هن کي ننڍپڻ ۾ انسانيت سان پيار سيکاريو. تنهنڪري، هن جي وفات کان پوءِ، هن فيصلو ڪيو ته هو پنهنجي سڄي زندگي انسانيت جي خدمت لاءِ وقف ڪري ڇڏي.",
+            "ur": "ایدھی اکثر پیار سے یاد کرتے تھے کہ یہ ان کی والدہ تھیں، جنہوں نے ان میں سماجی بہبود اور خیراتی کام کا بیج بویا۔ انہوں نے نہ صرف اس کی پرورش کی، بلکہ انہیں یہ بھی سکھایا کہ مادی چیزوں کی خواہش کو کیسے قابو میں رکھا جائے اور اپنی لالچ پر کیسے قابو پایا جائے۔ ایدھی اکثر کہتے تھے کہ اگرچہ ان کی والدہ کی ساری زندگی جدوجہد تھی، لیکن وہ ہمیشہ دوسروں کے ساتھ مثبت اور مہربان رہتی تھیں۔ وہی وہ تھیں، جنہوں نے انہیں بچپن میں انسانیت سے محبت سکھائی۔ اس لیے، ان کی وفات کے بعد، انہوں نے فیصلہ کیا کہ وہ اپنی ساری زندگی انسانیت کی خدمت کے لیے وقف کر دیں گے۔"
+          },
+          {
+            "en": "After his mother passed away, Edhi bought an old wagon, with donation from a friend, and converted it into an ambulance. This was the first ambulance service for the poor people and he called it the “Poor People's Van”. He did not charge for the ambulance service. But when people insisted on paying for it they were told to drop money in a box outside the dispensary. Soon he was able to increase the reach of his services and because of the ambulance more and more people got to know about Edhi's organization and services.",
+            "sd": "هن جي ماءُ جي وفات کان پوءِ، ايڌي هڪ دوست جي چندي سان هڪ پراڻي ويگن خريد ڪئي، ۽ ان کي ايمبولينس ۾ تبديل ڪري ڇڏيو. اها غريب ماڻهن لاءِ پهرين ايمبولينس خدمت هئي، ۽ هن ان کي 'غريب ماڻهن جي وين' سڏيو. هن ايمبولينس خدمت جا پئسا نه ورتا. پر جڏهن ماڻهن ان لاءِ پئسا ڏيڻ تي زور ڀريو، ته انهن کي چيو ويو ته پئسا دواخاني جي ٻاهر رکيل دٻي ۾ وجهي ڇڏين. جلد ئي هو پنهنجي خدمتن جي پهچ وڌائڻ ۾ ڪامياب ٿي ويو، ۽ ايمبولينس جي ڪري وڌيڪ کان وڌيڪ ماڻهو ايڌي جي تنظيم ۽ خدمتن بابت ڄاڻڻ لڳا.",
+            "ur": "ان کی والدہ کی وفات کے بعد، ایدھی نے ایک دوست کے چندے سے ایک پرانی ویگن خریدی، اور اسے ایمبولینس میں تبدیل کر دیا۔ یہ غریب لوگوں کے لیے پہلی ایمبولینس خدمت تھی، اور انہوں نے اسے 'غریب لوگوں کی وین' کہا۔ انہوں نے ایمبولینس خدمت کے پیسے نہیں لیے۔ لیکن جب لوگوں نے اس کے لیے پیسے دینے پر اصرار کیا، تو ان سے کہا گیا کہ پیسے دواخانے کے باہر رکھے ہوئے ڈبے میں ڈال دیں۔ جلد ہی وہ اپنی خدمات کی پہنچ بڑھانے میں کامیاب ہو گئے، اور ایمبولینس کی وجہ سے زیادہ سے زیادہ لوگ ایدھی کی تنظیم اور خدمات کے بارے میں جاننے لگے۔"
+          },
+          {
+            "en": "He even started a funeral service which picked up human bodies found in the sea, in rivers, in gutters or at the roadside. He would even pick up these bodies, himself, when the family members refused to touch them. He would bring these bodies to Mithadar, wash them and provide a proper burial service. According to an observer of the Edhi foundation, the ambulance service and the funeral services provided Edhi foundation an excellent opportunity to grow all over Pakistan, since there was no other organisation doing this; not even the government.",
+            "sd": "هن جنازي جي خدمت به شروع ڪئي، جيڪا سمنڊ ۾، دريائن ۾، گٽرن ۾ يا رستي جي ڪناري تي ملندڙ انساني لاش کڻندي هئي. هو اهي لاش پاڻ به کڻندو هو، جڏهن گھر وارا انهن کي هٿ لڳائڻ کان انڪار ڪندا هئا. هو اهي لاش مٺادر وٺي ايندو هو، انهن کي ڌوئيندو هو ۽ انهن جي صحيح نموني دفن ڪرڻ جي خدمت ڏيندو هو. ايڌي فائونڊيشن جي هڪ مبصر مطابق، ايمبولينس خدمت ۽ جنازي جي خدمتن ايڌي فائونڊيشن کي سڄي پاڪستان ۾ وڌڻ جو بهترين موقعو ڏنو، ڇاڪاڻ ته ٻي ڪا به تنظيم اهو ڪم نه ڪري رهي هئي؛ حڪومت به نه.",
+            "ur": "انہوں نے جنازے کی خدمت بھی شروع کی، جو سمندر میں، دریاؤں میں، گٹروں میں یا سڑک کے کنارے ملنے والی انسانی لاشیں اٹھاتی تھی۔ وہ یہ لاشیں خود بھی اٹھاتے تھے، جب گھر والے انہیں ہاتھ لگانے سے انکار کرتے تھے۔ وہ یہ لاشیں مٹھادر لے آتے تھے، انہیں دھوتے تھے اور ان کی صحیح طریقے سے تدفین کی خدمت فراہم کرتے تھے۔ ایدھی فاؤنڈیشن کے ایک مبصر کے مطابق، ایمبولینس خدمت اور جنازے کی خدمات نے ایدھی فاؤنڈیشن کو پورے پاکستان میں بڑھنے کا بہترین موقع دیا، کیونکہ کوئی اور تنظیم یہ کام نہیں کر رہی تھی؛ حکومت بھی نہیں۔"
+          },
+          {
+            "en": "An old associate of Edhi said about him, “Edhi's self transformation was for a social mission and not for himself; he changed his life style for his mission. People do change, but mostly for themselves; Edhi changed for others.” Hence, no matter how insurmountable the difficulties and how challenging the times, he never lost his positive attitude and confident outlook. Moreover, he made a commitment to himself that he would never give anybody reason to challenge his integrity or his lifestyle; that he would never spend extra time or money on himself or his family. He had only three pairs of clothes, one pair of plastic Chappal, one Jinnah Cap, and he slept on the wooden bench in his dispensary, so that people could see how he was living.",
+            "sd": "ايڌي جي هڪ پراڻي ساٿي هن بابت چيو، 'ايڌي جي پنهنجي تبديلي هڪ سماجي مشن لاءِ هئي، پنهنجي لاءِ نه؛ هن پنهنجي زندگي جو انداز پنهنجي مشن لاءِ بدلائي ڇڏيو. ماڻهو بدلجن ٿا، پر گھڻو ڪري پنهنجي لاءِ؛ ايڌي ٻين لاءِ بدليو.' تنهنڪري، مشڪلاتون ڪيتريون به وڏيون هجن ۽ وقت ڪيترو به ڏکيو هجي، هن ڪڏهن به پنهنجو مثبت رويو ۽ پراعتماد نظر نه وڃايو. ان کان علاوه، هن پنهنجي پاڻ سان واعدو ڪيو هو ته هو ڪڏهن به ڪنهن کي پنهنجي ايمانداري يا پنهنجي زندگي تي سوال اٿارڻ جو موقعو نه ڏيندو؛ ته هو ڪڏهن به پنهنجي يا پنهنجي خاندان تي وڌيڪ وقت يا پئسا خرچ نه ڪندو. هن وٽ رڳو ڪپڙن جا ٽي جوڙا هئا، پلاسٽڪ جي چپل جو هڪ جوڙو، هڪ جناح ٽوپي، ۽ هو پنهنجي دواخاني ۾ ڪاٺ جي بينچ تي سمهندو هو، ته جيئن ماڻهو ڏسي سگھن ته هو ڪيئن رھي ٿو.",
+            "ur": "ایدھی کے ایک پرانے ساتھی نے ان کے بارے میں کہا، 'ایدھی کی اپنی تبدیلی ایک سماجی مشن کے لیے تھی، اپنے لیے نہیں؛ انہوں نے اپنی زندگی کا انداز اپنے مشن کے لیے بدل دیا۔ لوگ بدلتے ہیں، لیکن زیادہ تر اپنے لیے؛ ایدھی دوسروں کے لیے بدلے۔' اس لیے، مشکلات کتنی ہی بڑی ہوں اور وقت کتنا ہی مشکل ہو، انہوں نے کبھی اپنا مثبت رویہ اور پراعتماد نظر نہیں کھویا۔ اس کے علاوہ، انہوں نے اپنے آپ سے وعدہ کیا تھا کہ وہ کبھی کسی کو اپنی ایمانداری یا اپنی زندگی پر سوال اٹھانے کا موقع نہیں دیں گے؛ کہ وہ کبھی اپنے یا اپنے خاندان پر اضافی وقت یا پیسہ خرچ نہیں کریں گے۔ ان کے پاس صرف کپڑوں کے تین جوڑے تھے، پلاسٹک کی چپل کا ایک جوڑا، ایک جناح ٹوپی، اور وہ اپنے دواخانے میں لکڑی کی بینچ پر سوتے تھے، تاکہ لوگ دیکھ سکیں کہ وہ کیسے رہ رہے ہیں۔"
+          },
+          {
+            "en": "Abdul Sattar Edhi died on July 8, 2016, in Karachi, Pakistan, due to kidney failure. The man is gone but the mission will continue. His mission was to serve humanity, regardless of religion, race, and background. He adopted a life style that would help him achieve this mission. It was this simplicity of life and this humanitarian vision, which had been inculcated in him by his parents, mainly his mother, that made him the Abdul Sattar Edhi that he became; the first common citizen of Pakistan, in nearly seventy years of its history, to receive a state funeral.",
+            "sd": "عبدالستار ايڌي 8 جولاءِ 2016ع تي ڪراچي، پاڪستان ۾ گردن جي ناڪامي سبب وفات ڪري ويو. اهو ماڻهو هليو ويو، پر مشن جاري رھندو. هن جو مشن انسانيت جي خدمت ڪرڻ هو، مذهب، نسل ۽ پس منظر جي پرواه کان سواءِ. هن زندگي جو اهڙو انداز اختيار ڪيو، جيڪو هن کي اهو مشن پورو ڪرڻ ۾ مدد ڏيندو. اها ئي زندگي جي سادگي ۽ انساني خدمت جو اهو خواب هئي، جيڪو هن جي والدين، خاص طور تي هن جي ماءُ، هن ۾ پيدا ڪيو هو، جنهن هن کي اهو عبدالستار ايڌي بڻايو، جيڪو هو بڻيو؛ پاڪستان جو پهريون عام شهري، جنهن کي پنهنجي تاريخ جي لڳ ڀڳ ستر سالن ۾ سرڪاري جنازو ڏنو ويو.",
+            "ur": "عبدالستار ایدھی 8 جولائی 2016 کو کراچی، پاکستان میں گردے کی ناکامی کی وجہ سے وفات پا گئے۔ وہ انسان چلا گیا، لیکن مشن جاری رہے گا۔ ان کا مشن انسانیت کی خدمت کرنا تھا، مذہب، نسل اور پس منظر سے قطع نظر۔ انہوں نے زندگی کا ایسا انداز اختیار کیا، جو انہیں یہ مشن پورا کرنے میں مدد دیتا۔ زندگی کی یہی سادگی اور انسانیت کی خدمت کا یہی خواب تھا، جو ان کے والدین، خاص طور پر ان کی والدہ، نے ان میں پیدا کیا تھا، جس نے انہیں وہ عبدالستار ایدھی بنایا، جو وہ بنے؛ پاکستان کے پہلے عام شہری، جنہیں اس کی تاریخ کے تقریباً ستر سالوں میں سرکاری جنازہ دیا گیا۔"
+          }
+        ],
+        "section": "5.1",
+        "unit": 5,
+        "unitTitle": "Humanism"
+      },
+      {
+        "bookPages": "110-114",
+        "lesson": "Sportsmanship",
+        "paragraphs": [
+          {
+            "en": "The stadium broke into applause when Rajoo hit a huge six that earned the team a place in the finals of the inter district tournament.",
+            "sd": "جڏهن راجو هڪ وڏو ڇڪو هنيو ته سڄو اسٽيڊيم تاڙين سان گونجي اٿيو، ۽ ان ڇڪي سان ٽيم کي بين ضلعي ٽورنامينٽ جي فائنل ۾ جاءِ ملي وئي.",
+            "ur": "جب راجو نے ایک زبردست چھکا لگایا تو پورا اسٹیڈیم تالیوں سے گونج اٹھا، اور اس چھکے سے ٹیم کو بین الاضلاعی ٹورنامنٹ کے فائنل میں جگہ مل گئی۔"
+          },
+          {
+            "en": "Rajoo was a district player from Ranikot. His performance soon led to his selection on the under-nineteen Pakistan cricket team. Before long, he became a superstar of the cricket world. But, unfortunately, all this success went to his head. He became very rude and arrogant. This worried the coach and the manager of the team because his attitude was not only annoying the local players but was also irritating the international players. They often counselled him, but to no avail.",
+            "sd": "راجو رانيڪوٽ جو هڪ ضلعي رانديگر هو. هن جي سٺي ڪارڪردگي ڪري جلد ئي هن جي چونڊ پاڪستان جي انڊر نائينٽين ڪرڪيٽ ٽيم ۾ ٿي وئي. ٿوري ئي وقت ۾ هو ڪرڪيٽ جي دنيا جو سپر اسٽار بڻجي ويو. پر، بدقسمتي سان، هن سڄي ڪاميابي هن کي مغرور ڪري ڇڏيو. هو نهايت بدتميز ۽ مغرور ٿي ويو. هن ڳالهه ٽيم جي ڪوچ ۽ مئنيجر کي پريشان ڪري ڇڏيو، ڇاڪاڻ ته هن جو رويو نه رڳو مقامي رانديگرن کي تنگ ڪري رھيو هو، پر بين الاقوامي رانديگرن کي به چڙائي رھيو هو. هنن کيس اڪثر نصيحت ڪئي، پر ڪو به فائدو نه ٿيو.",
+            "ur": "راجو رانی کوٹ کا ایک ضلعی کھلاڑی تھا۔ اس کی اچھی کارکردگی کی وجہ سے جلد ہی اس کا انتخاب پاکستان کی انڈر نائنٹین کرکٹ ٹیم میں ہو گیا۔ تھوڑے ہی عرصے میں وہ کرکٹ کی دنیا کا سپر اسٹار بن گیا۔ لیکن، بدقسمتی سے، اس ساری کامیابی نے اسے مغرور کر دیا۔ وہ بہت بدتمیز اور مغرور ہو گیا۔ اس بات نے ٹیم کے کوچ اور مینیجر کو پریشان کر دیا، کیونکہ اس کا رویہ نہ صرف مقامی کھلاڑیوں کو تنگ کر رہا تھا بلکہ بین الاقوامی کھلاڑیوں کو بھی چڑا رہا تھا۔ انہوں نے اسے اکثر نصیحت کی، لیکن کوئی فائدہ نہ ہوا۔"
+          },
+          {
+            "en": "Soon the team went on a tour of Australia where it won the series. When the team returned home they received a resounding welcome. After their return, all the players went to their home towns.",
+            "sd": "جلد ئي ٽيم آسٽريليا جي دوري تي وئي، جتي هن سيريز کٽي ورتي. جڏهن ٽيم واپس گھر آئي ته هن جو زبردست استقبال ڪيو ويو. واپسي کان پوءِ سڀئي رانديگر پنهنجن پنهنجن ڳوٺن ڏانهن هليا ويا.",
+            "ur": "جلد ہی ٹیم آسٹریلیا کے دورے پر گئی، جہاں اس نے سیریز جیت لی۔ جب ٹیم واپس گھر آئی تو اس کا زبردست استقبال کیا گیا۔ واپسی کے بعد تمام کھلاڑی اپنے اپنے شہروں کو چلے گئے۔"
+          },
+          {
+            "en": "In Ranikot, Nabeel, Rajoo's best friend since childhood, was anxiously waiting for his friend's return. He was going to see his friend after a long time and he was very excited about it. He was soon going to meet his friend who was a cricket superstar.",
+            "sd": "رانيڪوٽ ۾ نبيل، راجو جو ننڍپڻ کان بهترين دوست، پنهنجي دوست جي واپسي جو بي چيني سان انتظار ڪري رھيو هو. هو ڊگهي وقت کان پوءِ پنهنجي دوست کي ڏسڻ وارو هو ۽ هن ڳالهه تي هو بيحد خوش هو. هو جلد ئي پنهنجي دوست سان ملڻ وارو هو، جيڪو ڪرڪيٽ جو سپر اسٽار هو.",
+            "ur": "رانی کوٹ میں نبیل، راجو کا بچپن سے بہترین دوست، اپنے دوست کی واپسی کا بے چینی سے انتظار کر رہا تھا۔ وہ بہت عرصے بعد اپنے دوست کو دیکھنے والا تھا اور اس بات پر بہت خوش تھا۔ وہ جلد ہی اپنے دوست سے ملنے والا تھا، جو کرکٹ کا سپر اسٹار تھا۔"
+          },
+          {
+            "en": "A luxurious car stopped in front of the house. A well-suited, handsome man stepped out of the car. \"It's Rajoo,\" Nabeel muttered. He came forward to greet his old buddy, but Rajoo just ignored him and continued walking. Nabeel was shocked! He had not expected such behaviour from his old friend and it made him sad. He just did not know what to do.",
+            "sd": "هڪ شاندار گاڏي گھر جي اڳيان اچي بيٺي. گاڏي مان هڪ سهڻو نوجوان ٻاهر نڪتو، جنهن سٺا ڪپڙا پاتا هئا. ”هي راجو آهي،“ نبيل سرٻاٽ ۾ چيو. هو پنهنجي پراڻي دوست کي ملڻ لاءِ اڳتي وڌيو، پر راجو هن کي بلڪل نظر انداز ڪري اڳتي هليو ويو. نبيل حيران ٿي ويو! هن پنهنجي پراڻي دوست کان اهڙي رويي جي اميد نه ڪئي هئي ۽ هن ڳالهه کيس اداس ڪري ڇڏيو. هن کي بلڪل سمجھ ۾ نه آيو ته هو ڇا ڪري.",
+            "ur": "ایک شاندار گاڑی گھر کے سامنے آ کر رک گئی۔ گاڑی سے ایک خوبصورت نوجوان باہر نکلا جس نے اچھے کپڑے پہنے ہوئے تھے۔ ”یہ راجو ہے،“ نبیل نے سرگوشی میں کہا۔ وہ اپنے پرانے دوست سے ملنے کے لیے آگے بڑھا، لیکن راجو نے اسے بالکل نظر انداز کر دیا اور آگے چلتا گیا۔ نبیل حیران رہ گیا! اس نے اپنے پرانے دوست سے ایسے رویے کی امید نہیں کی تھی اور اس بات نے اسے اداس کر دیا۔ اسے بالکل سمجھ نہیں آیا کہ وہ کیا کرے۔"
+          },
+          {
+            "en": "The next day, Rajoo had been invited by the town people at the town house. They wanted to honour their hero and to hear the stories of his victories. Nabeel was among the group of people who had gathered at the town hall. When Rajoo arrived, he just ignored most of the people and arrogantly walked up the stage and sat there. When he was asked to share his stories, he only talked about himself and his performance. The town people listened to his stories in awe, but Nabeel could not understand why his best friend was behaving so arrogantly; such behaviour did not suit a world renowned player.",
+            "sd": "ٻئي ڏينهن شهر جي لوڪن راجو کي ٽائون هائوس ۾ دعوت ڏني هئي. هو پنهنجي هيرو جي عزت ڪرڻ ۽ هن جي ڪاميابين جون ڪهاڻيون ٻڌڻ چاهيندا هئا. نبيل به انهن لوڪن جي ٽولي ۾ هو، جيڪي ٽائون هال ۾ گڏ ٿيا هئا. جڏهن راجو آيو ته هن اڪثر لوڪن کي نظر انداز ڪيو ۽ مغروري سان اسٽيج تي چڙهي وڃي ويٺو. جڏهن هن کي پنهنجون ڪهاڻيون ٻڌائڻ لاءِ چيو ويو ته هن رڳو پنهنجي ۽ پنهنجي ڪارڪردگي بابت ڳالهايو. شهر جي لوڪن هن جون ڪهاڻيون حيرت سان ٻڌيون، پر نبيل سمجھي نه سگهيو ته هن جو بهترين دوست ايترو مغروري سان ڇو پيو هلي؛ اهڙو رويو دنيا جي مشهور رانديگر کي نه ٿي سوڀيو.",
+            "ur": "اگلے دن راجو کو شہر کے لوگوں نے ٹاؤن ہاؤس میں مدعو کیا تھا۔ وہ اپنے ہیرو کی عزت کرنا اور اس کی کامیابیوں کی کہانیاں سننا چاہتے تھے۔ نبیل بھی ان لوگوں کے گروہ میں تھا جو ٹاؤن ہال میں جمع ہوئے تھے۔ جب راجو آیا تو اس نے اکثر لوگوں کو نظر انداز کر دیا اور مغروری سے اسٹیج پر جا کر بیٹھ گیا۔ جب اس سے اپنی کہانیاں سنانے کو کہا گیا تو اس نے صرف اپنے اور اپنی کارکردگی کے بارے میں بات کی۔ شہر کے لوگوں نے اس کی کہانیاں حیرت سے سنیں، لیکن نبیل سمجھ نہ سکا کہ اس کا بہترین دوست اتنی مغروری سے کیوں پیش آ رہا تھا؛ ایسا رویہ دنیا کے مشہور کھلاڑی کو زیب نہیں دیتا تھا۔"
+          },
+          {
+            "en": "A couple of days later, Rajoo was practising in the nearby ground where he used to play in his childhood. Many old childhood memories came to his mind and, suddenly, he remembered his old buddy, Nabeel. Nabeel used to be his best friend and he recalled that on several occasions; Nabeel had counselled him and helped him. While he was thinking about his friend, suddenly, somebody patted his shoulder. He turned quickly and couldn't hide his happiness when he saw that it was Nabeel. Rajoo hugged his friend tightly and tears started flowing from his eyes. He apologised to Nabeel for his arrogant behaviour and asked him to forgive him.",
+            "sd": "ٿورن ڏينهن کان پوءِ راجو ويجهي ميدان ۾ مشق ڪري رھيو هو، جتي هو ننڍپڻ ۾ کيڏندو هو. هن کي ننڍپڻ جون ڪيتريون ئي پراڻيون يادون اچڻ لڳيون ۽ اوچتو هن کي پنهنجو پراڻو دوست نبيل ياد آيو. نبيل هن جو بهترين دوست هوندو هو ۽ هن کي ياد آيو ته ڪيترن ئي موقعن تي نبيل هن کي نصيحت ڪئي هئي ۽ هن جي مدد ڪئي هئي. جڏهن هو پنهنجي دوست بابت سوچي رھيو هو ته اوچتو ڪنهن هن جي ڪلهي تي هٿ رکيو. هن جلدي پوئتي ڏٺو ۽ پنهنجي خوشي لڪائي نه سگهيو، جڏهن هن ڏٺو ته اهو نبيل هو. راجو پنهنجي دوست کي زور سان ڀاڪر پاتو ۽ هن جي اکين مان ڳوڙها وهڻ لڳا. هن نبيل کان پنهنجي مغرور رويي جي معافي طلب ڪئي ۽ هن کي چيو ته هو کيس معاف ڪري.",
+            "ur": "کچھ دن بعد راجو قریبی میدان میں مشق کر رہا تھا، جہاں وہ بچپن میں کھیلتا تھا۔ اسے بچپن کی کئی پرانی یادیں آنے لگیں اور اچانک اسے اپنا پرانا دوست نبیل یاد آیا۔ نبیل اس کا بہترین دوست ہوا کرتا تھا اور اسے یاد آیا کہ کئی مواقع پر نبیل نے اسے نصیحت کی تھی اور اس کی مدد کی تھی۔ جب وہ اپنے دوست کے بارے میں سوچ رہا تھا تو اچانک کسی نے اس کے کندھے پر ہاتھ رکھا۔ اس نے جلدی سے پیچھے دیکھا اور اپنی خوشی چھپا نہ سکا، جب اس نے دیکھا کہ وہ نبیل تھا۔ راجو نے اپنے دوست کو زور سے گلے لگایا اور اس کی آنکھوں سے آنسو بہنے لگے۔ اس نے نبیل سے اپنے مغرور رویے کی معافی مانگی اور اس سے کہا کہ وہ اسے معاف کر دے۔"
+          },
+          {
+            "en": "Nabeel was extremely happy. He was grateful to Allah that his friend had not forgotten him. Together, both friends walked towards Nabeel's house, laughing and chatting all the way home. They talked about many childhood memories, the pranks they had played, and the fights they had had, and how each time they had forgiven each other and become friends again. Nabeel showed his friend a scrap book which he had made for him. After spending a couple of hours together, Rajoo left for home but he promised Nabeel that he would look at and read the whole scrap book that he had given him.",
+            "sd": "نبيل بيحد خوش هو. هو الله جو شڪرگذار هو ته هن جي دوست هن کي وساريو نه هو. گڏجي، ٻئي دوست کلندي ۽ ڳالهائيندي نبيل جي گھر ڏانهن هليا ويا. هنن ننڍپڻ جي ڪيترين ئي يادن بابت ڳالهايو، انهن شرارتن بابت جيڪي هنن ڪيون هيون، ۽ انهن لڙاين بابت جيڪي هنن ڪيا هئا، ۽ هر ڀيري هنن هڪ ٻئي کي معاف ڪري وري دوست بڻجي ويا هئا. نبيل پنهنجي دوست کي هڪ اسڪريپ بڪ ڏيکاريو، جيڪو هن هن لاءِ ٺاهيو هو. گڏجي ٿورا ڪلاڪ گذارڻ کان پوءِ راجو گھر هليو ويو، پر هن نبيل سان واعدو ڪيو ته هو اهو سڄو اسڪريپ بڪ ڏسندو ۽ پڙهندو، جيڪو هن هن کي ڏنو هو.",
+            "ur": "نبیل بہت خوش تھا۔ وہ اللہ کا شکر گزار تھا کہ اس کے دوست نے اسے بھلایا نہیں تھا۔ دونوں دوست مل کر ہنستے اور باتیں کرتے ہوئے نبیل کے گھر کی طرف چل پڑے۔ انہوں نے بچپن کی کئی یادوں کے بارے میں بات کی، ان شرارتوں کے بارے میں جو انہوں نے کی تھیں، اور ان لڑائیوں کے بارے میں جو انہوں نے کی تھیں، اور ہر بار انہوں نے ایک دوسرے کو معاف کر کے پھر سے دوستی کر لی تھی۔ نبیل نے اپنے دوست کو ایک اسکریپ بک دکھائی، جو اس نے اس کے لیے بنائی تھی۔ کچھ گھنٹے ساتھ گزارنے کے بعد راجو گھر چلا گیا، لیکن اس نے نبیل سے وعدہ کیا کہ وہ وہ پوری اسکریپ بک دیکھے گا اور پڑھے گا، جو اس نے اسے دی تھی۔"
+          },
+          {
+            "en": "A few days later, Rajoo went back to join his team. His performance, as usual, was excellent, but, his insolent behaviour was also the same. When things became intolerable, the team management decided to counsel him once again. The manager called him to his office, but he refused to go. The decision was thus taken to ban him from the team. This shocked Rajoo. He had never thought that his behaviour would lead to this; that he would not be allowed to play for Pakistan again! He started walking up and down in his room. His eyes fell on the scrap book that his friend had given him; idly, he started turning the pages. The scrap book was full of wonderful stories of players and their sportsmanship:",
+            "sd": "ٿورن ڏينهن کان پوءِ راجو واپس وڃي پنهنجي ٽيم ۾ شامل ٿيو. هن جي ڪارڪردگي، هميشه وانگر، شاندار هئي، پر هن جو گستاخاڻو رويو به ساڳيو ئي هو. جڏهن حالتون ناقابل برداشت ٿي ويون ته ٽيم جي انتظاميه هن کي وري نصيحت ڪرڻ جو فيصلو ڪيو. مئنيجر هن کي پنهنجي آفيس ۾ اچڻ لاءِ چيو، پر هن وڃڻ کان انڪار ڪري ڇڏيو. پوءِ اهو فيصلو ڪيو ويو ته هن کي ٽيم مان ڪڍيو وڃي. هن ڳالهه راجو کي حيران ڪري ڇڏيو. هن ڪڏهن به نه سوچيو هو ته هن جو رويو کيس هن انجام تائين آڻيندو؛ ته هن کي وري ڪڏهن به پاڪستان لاءِ کيڏڻ جي اجازت نه ملندي! هو پنهنجي ڪمري ۾ اڳتي پوئتي هلڻ لڳو. هن جون اکيون ان اسڪريپ بڪ تي پيون، جيڪو هن جي دوست هن کي ڏنو هو؛ هن بي خيالي سان ان جا ورق ڦيرڻ شروع ڪيا. اسڪريپ بڪ رانديگرن جي راند جي جذبي جون شاندار ڪهاڻيون سان ڀريل هو.",
+            "ur": "کچھ دن بعد راجو واپس جا کر اپنی ٹیم میں شامل ہوا۔ اس کی کارکردگی، ہمیشہ کی طرح، شاندار تھی، لیکن اس کا گستاخانہ رویہ بھی ویسا ہی تھا۔ جب حالات ناقابل برداشت ہو گئے تو ٹیم کی انتظامیہ نے اسے ایک بار پھر نصیحت کرنے کا فیصلہ کیا۔ مینیجر نے اسے اپنے دفتر میں بلایا، لیکن اس نے جانے سے انکار کر دیا۔ پھر یہ فیصلہ کیا گیا کہ اسے ٹیم سے نکال دیا جائے۔ اس بات نے راجو کو حیران کر دیا۔ اس نے کبھی نہیں سوچا تھا کہ اس کا رویہ اسے اس انجام تک لے آئے گا؛ کہ اسے دوبارہ کبھی پاکستان کے لیے کھیلنے کی اجازت نہیں ملے گی! وہ اپنے کمرے میں آگے پیچھے ٹہلنے لگا۔ اس کی آنکھیں اس اسکریپ بک پر پڑیں، جو اس کے دوست نے اسے دی تھی؛ اس نے بے خیالی سے اس کے صفحے پلٹنے شروع کر دیے۔ اسکریپ بک کھلاڑیوں اور ان کی کھیل کی روح کی شاندار کہانیوں سے بھری ہوئی تھی۔"
+          },
+          {
+            "en": "During the Australia Vs. Pakistan match in 1998, the Australian captain Mark Taylor's score was 334 not out at the end of the second day, equalling the best test score of the Australian legend Don Bradman, set in 1930. Media, fans, and even the circumstances, urged him to not only break Sir Don Bradman's score, but also Brian Lara's world record of 375. Instead, he chose the Captain's way; that is team's good over personal glory. As a gesture of great sportsmanship, he let go of his ego, and individual success, for Australia's win but the game came to a draw at the end.",
+            "sd": "1998ع ۾ آسٽريليا بمقابله پاڪستان ميچ دوران، ٻئي ڏينهن جي پڄاڻي تي آسٽريليا جي ڪپتان مارڪ ٽيلر 334 رنسون ٺاهي ناٽ آئوٽ هو، جيڪو 1930ع ۾ ٺاهيل آسٽريليا جي مشهور رانديگر ڊان بريڊمين جي بهترين ٽيسٽ اسڪور جي برابر هو. ميڊيا، مداحن ۽ حالتن به هن کي زور ڏنو ته هو نه رڳو سر ڊان بريڊمين جو اسڪور ٽوڙي، پر برائن لارا جو 375 رنسن جو عالمي رڪارڊ به ٽوڙي. پر هن جي بجاءِ هن ڪپتاني وارو رستو اختيار ڪيو؛ يعني ذاتي شان بدران ٽيم جي ڀلائي کي اوليت ڏني. راند جي جذبي جي وڏي نشاني طور، هن پنهنجي انا ۽ ذاتي ڪاميابي کي ڇڏي ڏنو، آسٽريليا جي فتح لاءِ، پر راند آخر ۾ برابر رھي.",
+            "ur": "1998 میں آسٹریلیا بمقابلہ پاکستان میچ کے دوران، دوسرے دن کے اختتام پر آسٹریلیا کے کپتان مارک ٹیلر 334 رنز بنا کر ناٹ آؤٹ تھے، جو 1930 میں بنائے گئے آسٹریلیا کے مشہور کھلاڑی ڈان بریڈمین کے بہترین ٹیسٹ اسکور کے برابر تھا۔ میڈیا، مداحوں اور حالات نے بھی اس پر زور دیا کہ وہ نہ صرف سر ڈان بریڈمین کا اسکور توڑے، بلکہ برائن لارا کا 375 رنز کا عالمی ریکارڈ بھی توڑے۔ لیکن اس کے بجائے اس نے کپتانی والا راستہ اختیار کیا؛ یعنی ذاتی شان کی بجائے ٹیم کی بھلائی کو ترجیح دی۔ کھیل کی روح کی بڑی مثال کے طور پر، اس نے اپنی انا اور ذاتی کامیابی کو چھوڑ دیا، آسٹریلیا کی جیت کے لیے، لیکن کھیل آخر میں برابر رہا۔"
+          },
+          {
+            "en": "New Zealand player, Daniel Vettori, was given the ICC Spirit of Cricket award in 2012 for his gesture in a hard-fought tie against Zimbabwe. Vettori accidentally collided with non-striker, Malcolm Waller, during his follow-through that stopped Waller from taking a single but by that time the batsman at the crease, Regis Chakabva, had come too far down the track to get back. The Kiwi wicket keeper, Reece Young, whipped the bails but Vettori immediately withdrew the dismissal, saying that it was his collision which had caused the confusion in the middle.",
+            "sd": "نيوزي لينڊ جي رانديگر ڊينئل ويٽوري کي 2012ع ۾ زمبابوي خلاف سخت مقابلي واري برابر واري ميچ ۾ هن جي راند جي جذبي واري عمل تي آءِ سي سي اسپرٽ آف ڪرڪيٽ ايوارڊ ڏنو ويو. ويٽوري اوچتو نان اسٽرائيڪر مالڪم والر سان ٽڪرائجي ويو، جڏهن هو پنهنجو فالو ٿرو پورو ڪري رھيو هو، جنهن ڪري والر هڪ رن نه وٺي سگھيو، پر ان وقت تائين ڪريز تي موجود بيٽسمين ريجس چڪابوا واپس وڃڻ لاءِ تمام اڳتي اچي چڪو هو. نيوزي لينڊ جي وڪيٽ ڪيپر ريس ينگ بيلز اڏائي ڇڏيا، پر ويٽوري فوراً ئي آئوٽ وارو فيصلو واپس وٺي ڇڏيو ۽ چيو ته اها هن جي ٽڪر هئي، جنهن ڪري ميدان ۾ گڙٻڙ پيدا ٿي هئي.",
+            "ur": "نیوزی لینڈ کے کھلاڑی ڈینیئل ویٹوری کو 2012 میں زمبابوے کے خلاف سخت مقابلے والے برابر کے میچ میں ان کے کھیل کی روح والے عمل پر آئی سی سی اسپرٹ آف کرکٹ ایوارڈ دیا گیا۔ ویٹوری اچانک نان اسٹرائیکر میلکم والر سے ٹکرا گئے، جب وہ اپنا فالو تھرو مکمل کر رہے تھے، جس کی وجہ سے والر ایک رن نہ لے سکا، لیکن اس وقت تک کریز پر موجود بیٹسمین ریگس چکابوا واپس جانے کے لیے بہت آگے آ چکا تھا۔ نیوزی لینڈ کے وکٹ کیپر ریس ینگ نے بیلز اڑا دیں، لیکن ویٹوری نے فوراً ہی آؤٹ کا فیصلہ واپس لے لیا اور کہا کہ یہ ان کی ٹکر تھی، جس کی وجہ سے میدان میں الجھن پیدا ہوئی تھی۔"
+          },
+          {
+            "en": "During the match between Sri Lanka and Australia, when Australia was batting, Andrew Symonds got a huge inside edge on to the pads, i.e. his ball hit the pad after hitting the bat, but a very loud appeal from the Sri Lankans, that he was out was upheld by the umpire. However, when he had walked about two-thirds of the way back to the pavilion, a very surprised Symonds was called back by the Sri Lankan skipper, Marvan Atapattu, who realized that the decision was not right.",
+            "sd": "سري لنڪا ۽ آسٽريليا وچ ۾ ميچ دوران، جڏهن آسٽريليا بيٽنگ ڪري رھي هئي ته اينڊريو سائمنڊز کي زوردار اندروني ايج لڳو ۽ بال بيٽ کي لڳڻ کان پوءِ پيڊ تي لڳو، پر سري لنڪا جي رانديگرن جي زوردار اپيل تي امپائر هن کي آئوٽ قرار ڏنو. بهرحال، جڏهن هو پويلين ڏانهن واپسي جي رستي جو لڳ ڀڳ ٻه ڀاڱي ٽي حصو طئي ڪري چڪو هو ته حيران ٿيل سائمنڊز کي سري لنڪا جي ڪپتان ماروان اٽاپٽو واپس سڏيو، جنهن کي احساس ٿيو ته اهو فيصلو صحيح نه هو.",
+            "ur": "سری لنکا اور آسٹریلیا کے درمیان میچ کے دوران، جب آسٹریلیا بیٹنگ کر رہا تھا تو اینڈریو سائمنڈز کو زوردار اندرونی ایج لگا اور گیند بیٹ سے لگنے کے بعد پیڈ پر لگی، لیکن سری لنکا کے کھلاڑیوں کی زوردار اپیل پر امپائر نے اسے آؤٹ قرار دے دیا۔ تاہم، جب وہ پویلین کی طرف واپسی کے راستے کا تقریباً دو تہائی حصہ طے کر چکا تھا تو حیران سائمنڈز کو سری لنکا کے کپتان ماروان اٹاپٹو نے واپس بلا لیا، جسے احساس ہوا کہ یہ فیصلہ درست نہیں تھا۔"
+          },
+          {
+            "en": "At Lahore, the captain of the visiting cricket team had to face a strong Pakistani bowling attack, which included the likes of Waqar Younis and Aaqib Javed. After a number of play and misses, Waqar finally had him trapped right in front of the wickets and the umpire declared him out. The captain was very upset by the decision and clearly showed his feelings that the decision was wrong. The captain of the Pakistan team, in what was an historic move, quickly called him back and allowed him to bat again; he was dismissed by Waqar again on the very next delivery.",
+            "sd": "لاهور ۾ مهمان ڪرڪيٽ ٽيم جي ڪپتان کي پاڪستان جي مضبوط بالنگ حملي جو مقابلو ڪرڻو پيو، جنهن ۾ وقار يونس ۽ عاقب جاويد جهڙا بالر شامل هئا. ڪيترن ئي ڀيرن بال بيٽ کي نه لڳڻ کان پوءِ، وقار آخرڪار هن کي وڪيٽن جي بلڪل اڳيان ڦاسائي ورتو ۽ امپائر هن کي آئوٽ قرار ڏنو. ڪپتان هن فيصلي تي بيحد ناراض ٿيو ۽ صاف ظاهر ڪيو ته اهو فيصلو غلط هو. پاڪستان جي ٽيم جي ڪپتان، هڪ تاريخي قدم طور، هن کي جلدي واپس سڏيو ۽ هن کي وري بيٽنگ ڪرڻ جي اجازت ڏني؛ پر هن کي ٻئي ئي بال تي وقار ٻيهر آئوٽ ڪري ڇڏيو.",
+            "ur": "لاہور میں مہمان کرکٹ ٹیم کے کپتان کو پاکستان کے مضبوط بالنگ حملے کا سامنا کرنا پڑا، جس میں وقار یونس اور عاقب جاوید جیسے بالر شامل تھے۔ کئی بار گیند بیٹ سے نہ لگنے کے بعد، وقار نے آخر کار اسے وکٹوں کے بالکل سامنے پھنسا لیا اور امپائر نے اسے آؤٹ قرار دے دیا۔ کپتان اس فیصلے پر بہت ناراض ہوا اور صاف ظاہر کر دیا کہ یہ فیصلہ غلط تھا۔ پاکستان کی ٹیم کے کپتان نے، ایک تاریخی قدم کے طور پر، اسے جلدی واپس بلا لیا اور اسے دوبارہ بیٹنگ کرنے کی اجازت دے دی؛ لیکن اسے اگلی ہی گیند پر وقار نے دوبارہ آؤٹ کر دیا۔"
+          },
+          {
+            "en": "During the 1987 World Cup in Lahore, Courtney Walsh chose to lose the match over running a batsman out in the most unforgiving manner. When two runs were needed off the final ball for Pakistan to win, Walsh stopped, backed out in his delivery stride but didn't run out the non-striker, even though he had backed up a little too much. Next ball, the striker Abdul Qadir did eventually get the desired runs and Pakistan scored a win by one wicket; all thanks to the grace of Walsh.",
+            "sd": "1987ع جي ورلڊ ڪپ دوران لاهور ۾، ڪورٽني والش هڪ بيٽسمين کي انتهائي بي رحماڻي انداز ۾ رن آئوٽ ڪري ميچ کٽڻ بدران ميچ هارڻ کي ترجيح ڏني. جڏهن پاڪستان جي فتح لاءِ آخري بال تي ٻن رنسن جي ضرورت هئي ته والش رکجي ويو ۽ پنهنجي ڊليوري واري قدم تان پوئتي ٿي ويو، پر هن نان اسٽرائيڪر کي رن آئوٽ نه ڪيو، جيتوڻيڪ هو ضرورت کان ٿورو وڌيڪ اڳتي وڌي چڪو هو. ايندڙ بال تي، اسٽرائيڪر عبدالقادر آخرڪار گهربل رنسون وٺي ورتيون ۽ پاڪستان هڪ وڪيٽ تان فتح حاصل ڪئي؛ اهو سڀ والش جي سخاوت جي ڪري ٿيو.",
+            "ur": "1987 کے ورلڈ کپ کے دوران لاہور میں، کورٹنی والش نے ایک بیٹسمین کو انتہائی بے رحمانہ انداز میں رن آؤٹ کر کے میچ جیتنے کے بجائے میچ ہارنا پسند کیا۔ جب پاکستان کی جیت کے لیے آخری گیند پر دو رنز درکار تھے تو والش رک گیا اور اپنی ڈلیوری کے قدم میں پیچھے ہٹ گیا، لیکن اس نے نان اسٹرائیکر کو رن آؤٹ نہیں کیا، حالانکہ وہ تھوڑا زیادہ آگے بڑھ چکا تھا۔ اگلی گیند پر، اسٹرائیکر عبدالقادر نے آخر کار مطلوبہ رنز حاصل کر لیے اور پاکستان نے ایک وکٹ سے جیت حاصل کی؛ یہ سب والش کی سخاوت کی وجہ سے ہوا۔"
+          },
+          {
+            "en": "After reading a few pages Rajoo realized that greatness did not lie in achievements only; in fact, it had a great deal to do with sportsmanship. Having realized his mistake, he decided to apologise. The next morning he called a press conference and apologised to everyone in front of the media. The cricket world warmly welcomed him back.",
+            "sd": "ٿورا صفحا پڙهڻ کان پوءِ راجو کي احساس ٿيو ته عظمت رڳو ڪاميابين ۾ نه هوندي آهي؛ حقيقت ۾، ان جو وڏو واسطو راند جي جذبي سان هو. پنهنجي غلطي جو احساس ٿيڻ تي، هن معافي طلب ڪرڻ جو فيصلو ڪيو. ٻئي ڏينهن صبح هن پريس ڪانفرنس ڪئي ۽ ميڊيا جي اڳيان سڀني کان معافي طلب ڪئي. ڪرڪيٽ جي دنيا هن کي گرم جوشي سان واپس ڀليڪار ڪيو.",
+            "ur": "کچھ صفحات پڑھنے کے بعد راجو کو احساس ہوا کہ عظمت صرف کامیابیوں میں نہیں ہوتی؛ حقیقت میں، اس کا بہت تعلق کھیل کی روح سے تھا۔ اپنی غلطی کا احساس ہونے پر، اس نے معافی مانگنے کا فیصلہ کیا۔ اگلی صبح اس نے ایک پریس کانفرنس بلائی اور میڈیا کے سامنے سب سے معافی مانگی۔ کرکٹ کی دنیا نے اسے گرم جوشی سے واپس خوش آمدید کہا۔"
+          }
+        ],
+        "section": "6.1",
+        "unit": 6,
+        "unitTitle": "Sportsmanship"
+      },
+      {
+        "bookPages": "131-134",
+        "lesson": "The multiple roles that women play",
+        "paragraphs": [
+          {
+            "en": "Noman's father, Arshad Sikander, works in the development sector. Over the last many months he has been touring the province to gather information for a report he is writing. Noman is hovering around his father asking questions.",
+            "sd": "نعمان جو پيءُ، ارشاد سڪندر، ترقياتي شعبي ۾ ڪم ڪري ٿو. گذريل ڪيترن ئي مهينن کان هو هڪ رپورٽ لاءِ معلومات گڏ ڪرڻ لاءِ صوبي جو دورو ڪري رھيو آهي، جيڪا هو لکي رھيو آهي. نعمان پنهنجي پيءُ جي چوڌاري ڦري رھيو آهي ۽ سوال پڇي رھيو آهي.",
+            "ur": "نعمان کے والد، ارشاد سکندر، ترقیاتی شعبے میں کام کرتے ہیں۔ پچھلے کئی مہینوں سے وہ ایک رپورٹ کے لیے معلومات جمع کرنے کے لیے صوبے کا دورہ کر رہے ہیں، جو وہ لکھ رہے ہیں۔ نعمان اپنے والد کے ارد گرد گھوم رہا ہے اور سوالات پوچھ رہا ہے۔"
+          },
+          {
+            "en": "Noman: (laughing) Daddy! What a funny picture! Where did you find it?",
+            "sd": "نعمان: (کلندي) ابا! ڪيڏي نه مزاحيه تصوير آهي! هيءَ توهان کي ڪٿان ملي؟",
+            "ur": "نعمان: (ہنستے ہوئے) ابو! کیسی مضحکہ خیز تصویر ہے! آپ کو یہ کہاں سے ملی؟"
+          },
+          {
+            "en": "Arshad: I found it on the internet. I think it's an interesting picture. It shows the kinds of work women do, sometimes all at the same time.",
+            "sd": "ارشاد: مون هيءَ انٽرنيٽ تان لڌي آهي. منهنجي خيال ۾ هيءَ هڪ دلچسپ تصوير آهي. هيءَ ڏيکاري ٿي ته عورتون ڪهڙي قسم جا ڪم ڪن ٿيون، ڪڏهن ڪڏهن سڀ هڪ ئي وقت.",
+            "ur": "ارشاد: مجھے یہ انٹرنیٹ پر ملی ہے۔ میرے خیال میں یہ ایک دلچسپ تصویر ہے۔ یہ دکھاتی ہے کہ عورتیں کس قسم کے کام کرتی ہیں، کبھی کبھی سب ایک ہی وقت میں۔"
+          },
+          {
+            "en": "Noman: (looking at the picture again) Yes, I can see what you mean.",
+            "sd": "نعمان: (تصوير کي ٻيهر ڏسندي) ها، مان سمجھي سگھان ٿو ته توهان جو مطلب ڇا آهي.",
+            "ur": "نعمان: (تصویر کو دوبارہ دیکھتے ہوئے) جی ہاں، میں سمجھ سکتا ہوں کہ آپ کا کیا مطلب ہے۔"
+          },
+          {
+            "en": "Arshad: You see, I have to present a report at the seminar to be held in Hyderabad next month, on the multiple roles that women play in our society.",
+            "sd": "ارشاد: ڏسو، مون کي ايندڙ مهيني حيدرآباد ۾ ٿيندڙ سيمينار ۾ هڪ رپورٽ پيش ڪرڻي آهي، انهن ڪيترن ئي ڪردارن بابت جيڪي عورتون اسان جي سماج ۾ ادا ڪن ٿيون.",
+            "ur": "ارشاد: دیکھو، مجھے اگلے مہینے حیدرآباد میں ہونے والے سیمینار میں ایک رپورٹ پیش کرنی ہے، ان کئی کرداروں کے بارے میں جو عورتیں ہمارے معاشرے میں ادا کرتی ہیں۔"
+          },
+          {
+            "en": "Noman: What's a seminar, Daddy?",
+            "sd": "نعمان: سيمينار ڇا آهي، ابا؟",
+            "ur": "نعمان: سیمینار کیا ہوتا ہے، ابو؟"
+          },
+          {
+            "en": "Arshad: (taking off his glasses) Well, a seminar is like a big meeting where people from different areas, provinces and countries meet together and present reports. In this seminar, experts from different countries will be describing the kind of work that women do in their countries.",
+            "sd": "ارشاد: (پنهنجا چشما لاهيندي) خير، سيمينار هڪ وڏي گڏجاڻي وانگر آهي، جتي مختلف علائقن، صوبن ۽ ملڪن جا ماڻهو گڏجي ملن ٿا ۽ رپورٽون پيش ڪن ٿا. هن سيمينار ۾ مختلف ملڪن جا ماهر بيان ڪندا ته انهن جي ملڪن ۾ عورتون ڪهڙي قسم جو ڪم ڪن ٿيون.",
+            "ur": "ارشاد: (اپنا چشمہ اتارتے ہوئے) خیر، سیمینار ایک بڑی میٹنگ کی طرح ہوتا ہے، جہاں مختلف علاقوں، صوبوں اور ملکوں کے لوگ اکٹھے ملتے ہیں اور رپورٹیں پیش کرتے ہیں۔ اس سیمینار میں مختلف ملکوں کے ماہرین بیان کریں گے کہ ان کے ملکوں میں عورتیں کس قسم کا کام کرتی ہیں۔"
+          },
+          {
+            "en": "Noman: Tell me more, please.",
+            "sd": "نعمان: مهرباني ڪري مون کي وڌيڪ ٻڌايو.",
+            "ur": "نعمان: براہ کرم مجھے اور بتائیے۔"
+          },
+          {
+            "en": "Arshad: Well, people have always believed that women stay at home and take care of the house while the man works and provides food and other things for the family. Do you agree?",
+            "sd": "ارشاد: خير، ماڻهن هميشه اهو مڃيو آهي ته عورتون گھر ۾ رھن ٿيون ۽ گھر جي سنڀال ڪن ٿيون، جڏهن ته مرد ڪم ڪري ٿو ۽ ڪٽنب لاءِ کاڌو ۽ ٻيون شيون مهيا ڪري ٿو. ڇا توهان متفق آهيو؟",
+            "ur": "ارشاد: خیر، لوگوں کا ہمیشہ سے یہ ماننا رہا ہے کہ عورتیں گھر پر رہتی ہیں اور گھر کی دیکھ بھال کرتی ہیں، جب کہ مرد کام کرتا ہے اور خاندان کے لیے کھانا اور دوسری چیزیں مہیا کرتا ہے۔ کیا تم اس سے متفق ہو؟"
+          },
+          {
+            "en": "Noman: Yes, that's what Mummy does.",
+            "sd": "نعمان: ها، امي به ائين ئي ڪري ٿي.",
+            "ur": "نعمان: جی ہاں، امی بھی یہی کرتی ہیں۔"
+          },
+          {
+            "en": "Arshad: Agreed. But is that an easy job? Take a look at this picture. What is the woman doing? Can you identify the different kinds of household chores she's doing?",
+            "sd": "ارشاد: متفق آهيان. پر ڇا اهو هڪ آسان ڪم آهي؟ هن تصوير کي ڏسو. عورت ڇا ڪري رھي آهي؟ ڇا توهان سڃاڻي سگھو ٿا ته هوءَ گھر جا ڪهڙي قسم جا ڪم ڪري رھي آهي؟",
+            "ur": "ارشاد: متفق ہوں۔ لیکن کیا یہ ایک آسان کام ہے؟ اس تصویر کو دیکھو۔ عورت کیا کر رہی ہے؟ کیا تم پہچان سکتے ہو کہ وہ گھر کے کس قسم کے کام کر رہی ہے؟"
+          },
+          {
+            "en": "Noman: Ah, yes. I see what you mean.",
+            "sd": "نعمان: آه، ها! هاڻي مون کي سمجھ ۾ اچي ويو ته توهان جو مطلب ڇا آهي.",
+            "ur": "نعمان: آہ، جی ہاں۔ اب میں سمجھ گیا کہ آپ کا کیا مطلب ہے۔"
+          },
+          {
+            "en": "Arshad: Look closer, how many hands does she have?",
+            "sd": "ارشاد: ويجهو کان ڏسو، هن جا ڪيترا هٿ آهن؟",
+            "ur": "ارشاد: قریب سے دیکھو، اس کے کتنے ہاتھ ہیں؟"
+          },
+          {
+            "en": "Noman: She has many hands. Do some women actually have so many hands, Daddy?",
+            "sd": "نعمان: هن جا گھڻا هٿ آهن. ڇا ڪجهه عورتن جا واقعي ايترا گھڻا هٿ هوندا آهن، ابا؟",
+            "ur": "نعمان: اس کے بہت سے ہاتھ ہیں۔ کیا کچھ عورتوں کے واقعی اتنے ہاتھ ہوتے ہیں، ابو؟"
+          },
+          {
+            "en": "Arshad: (laughing) No, son. This is just to show that women do a lot of things at the same time or simultaneously. This is called multi-tasking.",
+            "sd": "ارشاد: (کلندي) نه، پٽ. هيءَ رڳو اهو ڏيکارڻ لاءِ آهي ته عورتون هڪ ئي وقت ۾ گھڻا ڪم ڪن ٿيون، يعني هڪ ئي وقت ڪيترائي ڪم گڏ ڪن ٿيون. هن کي ملٽي ٽاسڪنگ چيو وڃي ٿو.",
+            "ur": "ارشاد: (ہنستے ہوئے) نہیں، بیٹا۔ یہ صرف یہ دکھانے کے لیے ہے کہ عورتیں ایک ہی وقت میں بہت سے کام کرتی ہیں یا بیک وقت۔ اسے ملٹی ٹاسکنگ کہتے ہیں۔"
+          },
+          {
+            "en": "Noman: Oh, that's a nice word: multi-tasking.",
+            "sd": "نعمان: اوه، هيءُ هڪ سٺو لفظ آهي: ملٽي ٽاسڪنگ.",
+            "ur": "نعمان: اوہ، یہ ایک اچھا لفظ ہے: ملٹی ٹاسکنگ۔"
+          },
+          {
+            "en": "Arshad: Ok, now tell me what are the tasks that women do to earn money?",
+            "sd": "ارشاد: ٺيڪ آهي، هاڻي مون کي ٻڌاءِ ته عورتون پئسا ڪمائڻ لاءِ ڪهڙا ڪم ڪن ٿيون؟",
+            "ur": "ارشاد: ٹھیک ہے، اب مجھے بتاؤ کہ عورتیں پیسے کمانے کے لیے کون سے کام کرتی ہیں؟"
+          },
+          {
+            "en": "Noman: They work as teachers, doctors, or nurses.",
+            "sd": "نعمان: اهي استاد، ڊاڪٽر يا نرس طور ڪم ڪن ٿيون.",
+            "ur": "نعمان: وہ استانیوں، ڈاکٹروں یا نرسوں کے طور پر کام کرتی ہیں۔"
+          },
+          {
+            "en": "Arshad: You are right! And this is the point that we all need to understand; no family, no society, and no nation can progress unless women participate in economic activity.",
+            "sd": "ارشاد: توهان صحيح ٿا چئو! ۽ هيءَ اها ڳالهه آهي جيڪا اسان سڀني کي سمجھڻ گھرجي؛ ڪو به ڪٽنب، ڪو به سماج ۽ ڪا به قوم ترقي نٿي ڪري سگھي جيستائين عورتون معاشي سرگرمين ۾ حصو نه وٺن.",
+            "ur": "ارشاد: تم ٹھیک کہہ رہے ہو! اور یہی وہ بات ہے جو ہم سب کو سمجھنی چاہیے؛ کوئی خاندان، کوئی معاشرہ اور کوئی قوم ترقی نہیں کر سکتی جب تک عورتیں معاشی سرگرمیوں میں حصہ نہ لیں۔"
+          },
+          {
+            "en": "Noman: What is economic activity, Daddy?",
+            "sd": "نعمان: معاشي سرگرمي ڇا آهي، ابا؟",
+            "ur": "نعمان: معاشی سرگرمی کیا ہوتی ہے، ابو؟"
+          },
+          {
+            "en": "Arshad: It means doing work to earn money.",
+            "sd": "ارشاد: ان جو مطلب آهي پئسا ڪمائڻ لاءِ ڪم ڪرڻ.",
+            "ur": "ارشاد: اس کا مطلب ہے پیسے کمانے کے لیے کام کرنا۔"
+          },
+          {
+            "en": "Noman: But Mummy doesn't do that.",
+            "sd": "نعمان: پر امي اهو نٿي ڪري.",
+            "ur": "نعمان: لیکن امی یہ نہیں کرتیں۔"
+          },
+          {
+            "en": "Arshad: Son, do you see that weaving loom? Your mother is just one of the many women in this region who hand weave cloth that is sent to the city where clothes are made and sold to customers. And that's not all. Look at your grandmother. What's she doing?",
+            "sd": "ارشاد: پٽ، ڇا توهان کي اهو اڻڻ وارو ڪاٺو نظر اچي ٿو؟ توهان جي ماءُ هن علائقي جي انهن گھڻين عورتن مان رڳو هڪ آهي، جيڪي هٿ سان ڪپڙو اڻن ٿيون، جيڪو شهر موڪليو وڃي ٿو، جتي ڪپڙا ٺاهيا وڃن ٿا ۽ گراهڪن کي وڪرو ڪيا وڃن ٿا. ۽ بس اهو ئي ناهي. پنهنجي ڏاڏي کي ڏسو. هوءَ ڇا ڪري رھي آهي؟",
+            "ur": "ارشاد: بیٹا، کیا تمہیں وہ بننے والی کھڈی نظر آ رہی ہے؟ تمہاری ماں اس علاقے کی ان بہت سی عورتوں میں سے صرف ایک ہے، جو ہاتھ سے کپڑا بنتی ہیں، جو شہر بھیجا جاتا ہے، جہاں کپڑے بنائے جاتے ہیں اور گاہکوں کو بیچے جاتے ہیں۔ اور بس یہی نہیں۔ اپنی دادی کو دیکھو۔ وہ کیا کر رہی ہے؟"
+          },
+          {
+            "en": "Noman: Oh, that's her favourite pastime. She likes to do embroidery. She's always at it.",
+            "sd": "نعمان: اوه، اهو هن جو پسنديده مشغلو آهي. هن کي ڪڍڻ جو ڪم ڪرڻ پسند آهي. هوءَ هميشه ان ۾ ئي لڳل رھي ٿي.",
+            "ur": "نعمان: اوہ، یہ اس کا پسندیدہ مشغلہ ہے۔ اسے کڑھائی کا کام کرنا پسند ہے۔ وہ ہمیشہ اسی میں لگی رہتی ہے۔"
+          },
+          {
+            "en": "Arshad: True. But do you know that she takes orders and sells the work she does? This work is also taken to the city to be sold at large stores.",
+            "sd": "ارشاد: صحيح آهي. پر ڇا توهان کي خبر آهي ته هوءَ آرڊر وٺي ٿي ۽ پنهنجو ڪيل ڪم وڪرو ڪري ٿي؟ هي ڪم به شهر وڏن دڪانن تي وڪرو ڪرڻ لاءِ موڪليو وڃي ٿو.",
+            "ur": "ارشاد: درست ہے۔ لیکن کیا تم جانتے ہو کہ وہ آرڈر لیتی ہے اور اپنا کیا ہوا کام بیچتی ہے؟ یہ کام بھی شہر بڑی دکانوں پر بیچنے کے لیے لے جایا جاتا ہے۔"
+          },
+          {
+            "en": "Noman: I've never thought of that, Daddy. What else do women do to earn money?",
+            "sd": "نعمان: مون ان بابت ڪڏهن به نه سوچيو، ابا. عورتون پئسا ڪمائڻ لاءِ ٻيو ڇا ڪن ٿيون؟",
+            "ur": "نعمان: میں نے اس بارے میں کبھی سوچا ہی نہیں، ابو۔ عورتیں پیسے کمانے کے لیے اور کیا کرتی ہیں؟"
+          },
+          {
+            "en": "Arshad: Look around you. The more educated ones work as doctors and teachers. But many of them work in the fields and indirectly earn money for the family. Have you seen how many women pick cotton, while others pluck roses, and yet others cut the crops? They are agricultural workers who are often not paid money but their work brings in money for the family.",
+            "sd": "ارشاد: پنهنجي چوڌاري ڏسو. انهن مان جيڪي وڌيڪ پڙهيل لکيل آهن، سي ڊاڪٽر ۽ استاد طور ڪم ڪن ٿيون. پر انهن مان گھڻيون ٻنين ۾ ڪم ڪن ٿيون ۽ اڻ سڌي طرح ڪٽنب لاءِ پئسا ڪمائن ٿيون. ڇا توهان ڏٺو آهي ته ڪيتريون عورتون ڪپهه چونڊين ٿيون، جڏهن ته ٻيون گلاب ٽوڙين ٿيون ۽ وري ٻيون فصل لڻن ٿيون؟ اهي زرعي مزدور آهن، جن کي اڪثر پئسا نه ڏنا ويندا آهن، پر انهن جو ڪم ڪٽنب لاءِ پئسا آڻي ٿو.",
+            "ur": "ارشاد: اپنے ارد گرد دیکھو۔ ان میں سے جو زیادہ تعلیم یافتہ ہیں، وہ ڈاکٹروں اور استانیوں کے طور پر کام کرتی ہیں۔ لیکن ان میں سے بہت سی کھیتوں میں کام کرتی ہیں اور بالواسطہ طور پر خاندان کے لیے پیسے کماتی ہیں۔ کیا تم نے دیکھا ہے کہ کتنی عورتیں کپاس چنتی ہیں، جب کہ دوسری گلاب توڑتی ہیں اور پھر دوسری فصلیں کاٹتی ہیں؟ وہ زرعی مزدور ہیں، جنہیں اکثر پیسے نہیں دیے جاتے، لیکن ان کا کام خاندان کے لیے پیسے لاتا ہے۔"
+          },
+          {
+            "en": "Noman: Yes, I see women doing all kinds of work in the fields. They also milk the cows and buffalos to sell the milk. And they keep hens and sell their eggs. Wow! They participate in a lot of economic activity. I never thought about it.",
+            "sd": "نعمان: ها، مان عورتن کي ٻنين ۾ هر قسم جو ڪم ڪندي ڏسان ٿو. اهي ڳئون ۽ مينهن جو کير به ڪڍن ٿيون ته جيئن کير وڪرو ڪن. ۽ اهي ڪڪڙيون پالن ٿيون ۽ انهن جا آنا وڪرو ڪن ٿيون. واه! اهي معاشي سرگرمين ۾ گھڻو حصو وٺن ٿيون. مون ان بابت ڪڏهن به نه سوچيو هو.",
+            "ur": "نعمان: جی ہاں، میں عورتوں کو کھیتوں میں ہر قسم کا کام کرتے دیکھتا ہوں۔ وہ گائے اور بھینسوں کا دودھ بھی دوہتی ہیں تاکہ دودھ بیچ سکیں۔ اور وہ مرغیاں پالتی ہیں اور ان کے انڈے بیچتی ہیں۔ واہ! وہ معاشی سرگرمیوں میں بہت حصہ لیتی ہیں۔ میں نے اس بارے میں کبھی سوچا ہی نہیں تھا۔"
+          },
+          {
+            "en": "Arshad: In the cities, women work in banks, offices and stores. In fact, many of them work in factories.",
+            "sd": "ارشاد: شهرن ۾ عورتون بينڪن، آفيسن ۽ دڪانن ۾ ڪم ڪن ٿيون. حقيقت ۾، انهن مان گھڻيون ڪارخانن ۾ ڪم ڪن ٿيون.",
+            "ur": "ارشاد: شہروں میں عورتیں بینکوں، دفتروں اور دکانوں میں کام کرتی ہیں۔ در حقیقت، ان میں سے بہت سی کارخانوں میں کام کرتی ہیں۔"
+          },
+          {
+            "en": "Noman: Women work in factories!! That's surprising.",
+            "sd": "نعمان: عورتون ڪارخانن ۾ ڪم ڪن ٿيون!! اها حيراني جي ڳالهه آهي.",
+            "ur": "نعمان: عورتیں کارخانوں میں کام کرتی ہیں!! یہ حیران کن ہے۔"
+          },
+          {
+            "en": "Arshad: (takes out a picture) Here, look at this picture. Can you see what the women are doing?",
+            "sd": "ارشاد: (هڪ تصوير ڪڍندي) هتي، هن تصوير کي ڏسو. ڇا توهان ڏسي سگھو ٿا ته عورتون ڇا ڪري رھيون آهن؟",
+            "ur": "ارشاد: (ایک تصویر نکالتے ہوئے) یہاں، اس تصویر کو دیکھو۔ کیا تم دیکھ سکتے ہو کہ عورتیں کیا کر رہی ہیں؟"
+          },
+          {
+            "en": "Noman: Now I get it. Actually women are very active but we just think that they don't do anything.",
+            "sd": "نعمان: هاڻي مون کي سمجھ ۾ اچي ويو. حقيقت ۾ عورتون تمام گھڻو سرگرم آهن، پر اسين رڳو اهو سمجھون ٿا ته اهي ڪجهه به نٿيون ڪن.",
+            "ur": "نعمان: اب میں سمجھ گیا۔ دراصل عورتیں بہت سرگرم ہیں لیکن ہم صرف یہ سمجھتے ہیں کہ وہ کچھ نہیں کرتیں۔"
+          },
+          {
+            "en": "Arshad: Right. Women are playing a very active role in development. Now the governments have begun to realize that a country cannot really make progress unless women actively contribute in the economy.",
+            "sd": "ارشاد: صحيح آهي. عورتون ترقي ۾ تمام گھڻو سرگرم ڪردار ادا ڪري رھيون آهن. هاڻي حڪومتن کي احساس ٿيڻ شروع ٿيو آهي ته ڪو به ملڪ واقعي ترقي نٿو ڪري سگھي جيستائين عورتون معيشت ۾ سرگرمي سان حصو نه وٺن.",
+            "ur": "ارشاد: درست ہے۔ عورتیں ترقی میں بہت سرگرم کردار ادا کر رہی ہیں۔ اب حکومتوں کو احساس ہونے لگا ہے کہ کوئی ملک واقعی ترقی نہیں کر سکتا جب تک عورتیں معیشت میں سرگرمی سے حصہ نہ لیں۔"
+          },
+          {
+            "en": "Noman: This is very interesting.",
+            "sd": "نعمان: هيءَ تمام دلچسپ ڳالهه آهي.",
+            "ur": "نعمان: یہ بہت دلچسپ ہے۔"
+          },
+          {
+            "en": "Arshad: What is even more interesting is that when women earn money they usually spend it more on the health care and education of their children.",
+            "sd": "ارشاد: ان کان به وڌيڪ دلچسپ ڳالهه هيءَ آهي ته جڏهن عورتون پئسا ڪمائن ٿيون ته اهي انهن کي اڪثر پنهنجي ٻارن جي صحت ۽ تعليم تي وڌيڪ خرچ ڪن ٿيون.",
+            "ur": "ارشاد: اس سے بھی زیادہ دلچسپ بات یہ ہے کہ جب عورتیں پیسے کماتی ہیں تو وہ انہیں عام طور پر اپنے بچوں کی صحت اور تعلیم پر زیادہ خرچ کرتی ہیں۔"
+          },
+          {
+            "en": "Noman: So we can say that women are playing a major role in the progress and development of our country.",
+            "sd": "نعمان: پوءِ اسين چئي سگھون ٿا ته عورتون اسان جي ملڪ جي ترقي ۽ اڳڀرائي ۾ اهم ڪردار ادا ڪري رھيون آهن.",
+            "ur": "نعمان: تو ہم کہہ سکتے ہیں کہ عورتیں ہمارے ملک کی ترقی اور خوشحالی میں اہم کردار ادا کر رہی ہیں۔"
+          },
+          {
+            "en": "Arshad: Exactly. Hence, women must be encouraged to acquire education so that they can become more productive members of the society.",
+            "sd": "ارشاد: بلڪل. تنهنڪري عورتن کي تعليم حاصل ڪرڻ لاءِ همٿائڻ گھرجي ته جيئن اهي سماج جا وڌيڪ ڪارائتا ميمبر بڻجي سگھن.",
+            "ur": "ارشاد: بالکل۔ اس لیے عورتوں کو تعلیم حاصل کرنے کی ترغیب دینی چاہیے تاکہ وہ معاشرے کی زیادہ کارآمد رکن بن سکیں۔"
+          },
+          {
+            "en": "Noman: What you are saying is that we must encourage our girls to study and adopt different professions, if they want to do so.",
+            "sd": "نعمان: توهان جو چوڻ آهي ته اسان کي پنهنجين ڇوڪرين کي پڙهڻ ۽ مختلف پيشا اختيار ڪرڻ لاءِ همٿائڻ گھرجي، جيڪڏهن اهي ائين ڪرڻ چاهين ٿيون.",
+            "ur": "نعمان: آپ کا کہنا ہے کہ ہمیں اپنی لڑکیوں کو پڑھنے اور مختلف پیشے اختیار کرنے کی ترغیب دینی چاہیے، اگر وہ ایسا کرنا چاہیں۔"
+          },
+          {
+            "en": "Arshad: (patting his son on the shoulder) Exactly. Now run along and think about this while I work on my report.",
+            "sd": "ارشاد: (پنهنجي پٽ جي ڪلهي تي ٿڦڪي ڏيندي) بلڪل. هاڻي وڃ ۽ ان بابت سوچ، جڏهن ته مان پنهنجي رپورٽ تي ڪم ڪريان ٿو.",
+            "ur": "ارشاد: (اپنے بیٹے کے کندھے پر تھپکی دیتے ہوئے) بالکل۔ اب جاؤ اور اس بارے میں سوچو، جب کہ میں اپنی رپورٹ پر کام کرتا ہوں۔"
+          },
+          {
+            "en": "Noman: One last question, Daddy.",
+            "sd": "نعمان: ابا، هڪ آخري سوال.",
+            "ur": "نعمان: ابو، ایک آخری سوال۔"
+          },
+          {
+            "en": "Arshad: Yes?",
+            "sd": "ارشاد: ها؟",
+            "ur": "ارشاد: جی؟"
+          },
+          {
+            "en": "Noman: Can I go to the seminar with you? I want to hear more about women and how they contribute to nation-building.",
+            "sd": "نعمان: ڇا مان توهان سان گڏ سيمينار ۾ وڃي سگھان ٿو؟ مان عورتن بابت ۽ قوم جي تعمير ۾ اهي ڪيئن حصو وٺن ٿيون، ان بابت وڌيڪ ٻڌڻ چاهيان ٿو.",
+            "ur": "نعمان: کیا میں آپ کے ساتھ سیمینار میں جا سکتا ہوں؟ میں عورتوں کے بارے میں اور یہ کہ وہ قوم کی تعمیر میں کیسے حصہ لیتی ہیں، مزید سننا چاہتا ہوں۔"
+          },
+          {
+            "en": "Arshad: I will have to ask for permission from the organisers so I can't promise; but I will definitely try to take you along.",
+            "sd": "ارشاد: مون کي منتظمين کان اجازت وٺڻي پوندي، تنهنڪري مان واعدو نٿو ڪري سگھان؛ پر مان توهان کي پاڻ سان گڏ وٺي وڃڻ جي پڪي ڪوشش ڪندس.",
+            "ur": "ارشاد: مجھے منتظمین سے اجازت لینی ہوگی، اس لیے میں وعدہ نہیں کر سکتا؛ لیکن میں تمہیں ساتھ لے جانے کی ضرور کوشش کروں گا۔"
+          }
+        ],
+        "section": "7.1",
+        "unit": 7,
+        "unitTitle": "The Multiple Roles That Women Play"
+      }
+    ],
     "sindhiExsolutions": [
       {
         "reading": "حمد",
