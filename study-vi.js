@@ -33380,6 +33380,472 @@ STUDY.vi = {
         "display": "Yes, You Can"
       }
     ],
+    "lessonTexts": [
+      {
+        "bookPages": "2-5",
+        "lesson": "A Visit to the Park",
+        "paragraphs": [
+          {
+            "en": "One bright sunny morning, Hamza and Abdullah decide to go to their neighbourhood park. It is Sunday and both friends are in high spirits. They stop outside the park to buy some ice cream from a small shop near the gate. They then enter the park happily eating and chatting, until...",
+            "sd": "هڪ روشن سج واري صبح، حمزا ۽ عبدالله پنهنجي پاڙي واري پارڪ ڏانهن وڃڻ جو فيصلو ڪن ٿا. آچر جو ڏينهن آهي ۽ ٻئي دوست وڏي خوشيءَ ۾ آهن. هو پارڪ جي گيٽ جي ويجهو هڪ ننڍڙي دڪان تان آئس ڪريم خريد ڪرڻ لاءِ پارڪ کان ٻاهر بيھن ٿا. پوءِ خوشيءَ سان کائيندا ۽ ڳالھائيندا پارڪ ۾ داخل ٿين ٿا، ايستائين جو...",
+            "ur": "ایک روشن دھوپ والی صبح، حمزہ اور عبداللہ نے اپنے محلے کے پارک جانے کا فیصلہ کیا۔ اتوار کا دن تھا اور دونوں دوست بہت خوش تھے۔ وہ پارک کے دروازے کے قریب ایک چھوٹی سی دکان سے آئس کریم خریدنے کے لیے پارک کے باہر رکے۔ پھر وہ خوشی سے کھاتے اور باتیں کرتے ہوئے پارک میں داخل ہوئے، یہاں تک کہ..."
+          },
+          {
+            "en": "Abdullah: You should not throw your ice cream wrapper on the ground, Hamza!",
+            "sd": "عبدالله: حمزا! توکي پنهنجي آئس ڪريم جو کاغذ زمين تي نه اڇلائڻ گھرجي!",
+            "ur": "عبداللہ: حمزہ! تمہیں اپنی آئس کریم کا کاغذ زمین پر نہیں پھینکنا چاہیے!"
+          },
+          {
+            "en": "Hamza: Why shouldn't I? Everyone else throws trash around here.",
+            "sd": "حمزا: مان ڇو نه اڇلايان؟ هتي ته هر ڪو ڪچرو اڇلائي ٿو.",
+            "ur": "حمزہ: میں کیوں نہ پھینکوں؟ یہاں تو ہر کوئی کچرا پھینکتا ہے۔"
+          },
+          {
+            "en": "Abdullah: If we want a clean and beautiful Pakistan, we should try and make it one.",
+            "sd": "عبدالله: جيڪڏهن اسان صاف ۽ سهڻو پاڪستان چاهيون ٿا، ته اسان کي ڪوشش ڪري ان کي اهڙو بڻائڻ گھرجي.",
+            "ur": "عبداللہ: اگر ہم صاف اور خوبصورت پاکستان چاہتے ہیں، تو ہمیں کوشش کر کے اسے ایسا بنانا چاہیے۔"
+          },
+          {
+            "en": "Hamza: But, Abdullah throwing, a single wrapper will not make any difference.",
+            "sd": "حمزا: پر عبدالله، هڪ کاغذ اڇلائڻ سان ڪو فرق نه پوندو.",
+            "ur": "حمزہ: لیکن، عبداللہ، ایک کاغذ پھینکنے سے کوئی فرق نہیں پڑے گا۔"
+          },
+          {
+            "en": "Abdullah: It will. If we all throw single pieces of trash it will soon create a rubbish heap in the park. Therefore, we must follow the park rules here and protect our public places.",
+            "sd": "عبدالله: پوندو. جيڪڏهن اسان سڀ ڪچري جا ٽڪرا اڇلائينداسين ته جلد ئي پارڪ ۾ ڪچري جو ڍير ٿي ويندو. ان ڪري، اسان کي هتي پارڪ جي قاعدن تي عمل ڪرڻ گھرجي ۽ پنهنجن عوامي هنڌن جي حفاظت ڪرڻ گھرجي.",
+            "ur": "عبداللہ: پڑے گا۔ اگر ہم سب کچرے کے ٹکڑے پھینکیں گے تو جلد ہی پارک میں کچرے کا ڈھیر بن جائے گا۔ اس لیے، ہمیں یہاں پارک کے قواعد پر عمل کرنا چاہیے اور اپنی عوامی جگہوں کی حفاظت کرنی چاہیے۔"
+          },
+          {
+            "en": "Hamza: Park rules? What park rules?",
+            "sd": "حمزا: پارڪ جا قاعدا؟ ڪهڙا پارڪ جا قاعدا؟",
+            "ur": "حمزہ: پارک کے قواعد؟ کون سے پارک کے قواعد؟"
+          },
+          {
+            "en": "Abdullah: (shaking his head) Come with me",
+            "sd": "عبدالله: (ڪنڌ لوڏيندي) مون سان هلو",
+            "ur": "عبداللہ: (سر ہلاتے ہوئے) میرے ساتھ چلو"
+          },
+          {
+            "en": "Both friends walk back to the park gate where there is a huge board that reads: 'Park Rules'.",
+            "sd": "ٻئي دوست پارڪ جي گيٽ ڏانهن موٽي وڃن ٿا، جتي هڪ وڏو بورڊ آهي، جنهن تي لکيل آهي: 'پارڪ جا قاعدا'.",
+            "ur": "دونوں دوست پارک کے دروازے کی طرف واپس گئے، جہاں ایک بڑا بورڈ تھا جس پر لکھا تھا: 'پارک کے قواعد'۔"
+          },
+          {
+            "en": "Hamza: (Surprised) I never noticed that before.",
+            "sd": "حمزا: (حيران ٿي) مون اهو اڳ ڪڏهن به نه ڏٺو هو.",
+            "ur": "حمزہ: (حیران ہو کر) میں نے یہ پہلے کبھی نہیں دیکھا تھا۔"
+          },
+          {
+            "en": "Abdullah: Let's read the park rules so that we know what we should do and not do in the park.",
+            "sd": "عبدالله: اچو ته پارڪ جا قاعدا پڙھون، ته جيئن اسان کي خبر پوي ته پارڪ ۾ اسان کي ڇا ڪرڻ گھرجي ۽ ڇا نه ڪرڻ گھرجي.",
+            "ur": "عبداللہ: آؤ پارک کے قواعد پڑھیں، تاکہ ہمیں معلوم ہو کہ پارک میں ہمیں کیا کرنا چاہیے اور کیا نہیں کرنا چاہیے۔"
+          },
+          {
+            "en": "The sign reads as follows:",
+            "sd": "بورڊ تي هن ريت لکيل آهي:",
+            "ur": "بورڈ پر یوں لکھا تھا:"
+          },
+          {
+            "en": "CITY PARK RULES",
+            "sd": "شهري پارڪ جا قاعدا",
+            "ur": "شہری پارک کے قواعد"
+          },
+          {
+            "en": "1. You must not write or draw on the walls of the park",
+            "sd": "1. پارڪ جي ڀتين تي لکڻ يا تصوير ٺاهڻ منع آهي",
+            "ur": "1. آپ کو پارک کی دیواروں پر لکھنے یا تصویر بنانے کی اجازت نہیں ہے"
+          },
+          {
+            "en": "2. You must not throw trash around the park. Use the provided dustbins",
+            "sd": "2. پارڪ ۾ ڪچرو نه اڇلايو. ڏنل ڪچري دان استعمال ڪريو",
+            "ur": "2. پارک میں کچرا نہ پھینکیں۔ مہیا کیے گئے کوڑے دان استعمال کریں"
+          },
+          {
+            "en": "3. You must not cut or harm the plants and trees",
+            "sd": "3. ٻوٽن ۽ وڻن کي ڪٽڻ يا نقصان پھچائڻ منع آهي",
+            "ur": "3. پودوں اور درختوں کو کاٹنا یا نقصان پہنچانا منع ہے"
+          },
+          {
+            "en": "4. You must not write on/ damage the benches",
+            "sd": "4. بينچن تي لکڻ يا انهن کي نقصان پھچائڻ منع آهي",
+            "ur": "4. بینچوں پر لکھنا یا انہیں نقصان پہنچانا منع ہے"
+          },
+          {
+            "en": "5. You must follow the park timings: from 8: 00 am to 8:00 pm daily",
+            "sd": "5. توهان کي پارڪ جي وقت جي پابندي ڪرڻ گھرجي: روزانو صبح 8:00 کان شام 8:00 تائين",
+            "ur": "5. آپ کو پارک کے اوقات کی پابندی کرنی چاہیے: روزانہ صبح 8:00 بجے سے شام 8:00 بجے تک"
+          },
+          {
+            "en": "6. Children must come with an adult",
+            "sd": "6. ٻارن کي ڪنهن وڏي سان گڏ اچڻ گھرجي",
+            "ur": "6. بچوں کو کسی بڑے کے ساتھ آنا چاہیے"
+          },
+          {
+            "en": "This Public Park is for your benefit. You should use it wisely!",
+            "sd": "هي عوامي پارڪ توهان جي فائدي لاءِ آهي. توهان کي ان کي سمجھداري سان استعمال ڪرڻ گھرجي!",
+            "ur": "یہ عوامی پارک آپ کے فائدے کے لیے ہے۔ آپ کو اسے عقلمندی سے استعمال کرنا چاہیے!"
+          },
+          {
+            "en": "Abdullah: Now do you realize, Hamza, what you must do and not do in the park?",
+            "sd": "عبدالله: هاڻي توکي سمجھ ۾ آيو، حمزا، ته پارڪ ۾ توکي ڇا ڪرڻ گھرجي ۽ ڇا نه ڪرڻ گھرجي؟",
+            "ur": "عبداللہ: اب تمہیں سمجھ آیا، حمزہ، کہ پارک میں تمہیں کیا کرنا چاہیے اور کیا نہیں کرنا چاہیے؟"
+          },
+          {
+            "en": "Hamza: Yes I do, Abdullah.",
+            "sd": "حمزا: ها، عبدالله، مون کي سمجھ ۾ آيو آهي.",
+            "ur": "حمزہ: جی ہاں، عبداللہ، مجھے سمجھ آ گیا ہے۔"
+          },
+          {
+            "en": "Abdullah: Public places are there for us to use. If we do not take care of them, we will have no place left for fun and enjoyment.",
+            "sd": "عبدالله: عوامي هنڌ اسان جي استعمال لاءِ آهن. جيڪڏهن اسان انهن جي سنڀال نه ڪنداسين، ته اسان وٽ مزو ۽ خوشيءَ لاءِ ڪو به هنڌ نه بچندو.",
+            "ur": "عبداللہ: عوامی جگہیں ہمارے استعمال کے لیے ہیں۔ اگر ہم ان کی دیکھ بھال نہیں کریں گے، تو ہمارے پاس مزے اور خوشی کے لیے کوئی جگہ نہیں بچے گی۔"
+          },
+          {
+            "en": "Hamza: I have an idea! Just putting up these rules is not enough. We should teach others how to keep the public places clean.",
+            "sd": "حمزا: منهنجي ذهن ۾ هڪ خيال آيو آهي! رڳو اهي قاعدا لڳائڻ ڪافي ناهي. اسان کي ٻين کي سيکارڻ گھرجي ته عوامي هنڌن کي ڪيئن صاف رکجي.",
+            "ur": "حمزہ: میرے ذہن میں ایک خیال آیا ہے! صرف یہ قواعد لگانا کافی نہیں ہے۔ ہمیں دوسروں کو سکھانا چاہیے کہ عوامی جگہوں کو کیسے صاف رکھا جائے۔"
+          },
+          {
+            "en": "Abdullah: How?",
+            "sd": "عبدالله: ڪيئن؟",
+            "ur": "عبداللہ: کیسے؟"
+          },
+          {
+            "en": "Hamza: We can put up posters telling people how and why to keep the places clean.",
+            "sd": "حمزا: اسان پوسٽر لڳائي ماڻهن کي ٻڌائي سگھون ٿا ته هنڌن کي ڪيئن ۽ ڇو صاف رکجي.",
+            "ur": "حمزہ: ہم پوسٹر لگا کر لوگوں کو بتا سکتے ہیں کہ جگہوں کو کیسے اور کیوں صاف رکھا جائے۔"
+          },
+          {
+            "en": "Abdullah: And, we can also place dust bins all around the park with signs of 'Keep Pakistan Clean' on them.",
+            "sd": "عبدالله: ۽، اسان پارڪ جي چوڌاري ڪچري دان به رکي سگھون ٿا، جن تي 'پاڪستان کي صاف رکو' لکيل هوندو.",
+            "ur": "عبداللہ: اور، ہم پارک کے چاروں طرف کوڑے دان بھی رکھ سکتے ہیں، جن پر 'پاکستان کو صاف رکھو' لکھا ہوگا۔"
+          },
+          {
+            "en": "Hamza: Great! Let's keep our parks clean and teach others to do the same.",
+            "sd": "حمزا: تمام سٺو! اچو ته اسان پنهنجا پارڪ صاف رکون ۽ ٻين کي به اهڙو ڪرڻ سيکاريون.",
+            "ur": "حمزہ: بہت اچھا! آؤ ہم اپنے پارک صاف رکھیں اور دوسروں کو بھی ایسا کرنا سکھائیں۔"
+          }
+        ],
+        "section": "1.1",
+        "unit": 1,
+        "unitTitle": "Practising Cleanliness"
+      },
+      {
+        "bookPages": "22-24",
+        "lesson": "A Dream that Brought a Big Change",
+        "paragraphs": [
+          {
+            "en": "Kamal was standing at the railway station. All his classmates were getting on the train. They were laughing and waving at him as the train left the station. Kamal waved back at them but he was crying. The doctor at the school had said that Kamal was weak and unhealthy. He should not be allowed to go to Lahore, Islamabad and Murree with his classmates.",
+            "sd": "ڪمال ريلوي اسٽيشن تي بيٺو هو. سندس سڀ هم جماعت ٽرين تي چڙهي رھيا هئا. جڏهن ٽرين اسٽيشن تان هلي وئي ته هو کلندي ۽ هٿ لوڏيندي هن ڏانهن ڏسي رھيا هئا. ڪمال به هنن ڏانهن هٿ لوڏيو، پر هو روئي رھيو هو. اسڪول جي ڊاڪٽر چيو هو ته ڪمال ڪمزور ۽ بيمار آهي. هن کي پنهنجن هم جماعتن سان گڏ لاهور، اسلام آباد ۽ مري وڃڻ جي اجازت نه ڏني وڃي.",
+            "ur": "کمال ریلوے اسٹیشن پر کھڑا تھا۔ اس کے تمام ہم جماعت ٹرین پر سوار ہو رہے تھے۔ جب ٹرین اسٹیشن سے چلی گئی تو وہ ہنستے ہوئے اور ہاتھ ہلاتے ہوئے اس کی طرف دیکھ رہے تھے۔ کمال نے بھی ان کی طرف ہاتھ ہلایا، لیکن وہ رو رہا تھا۔ اسکول کے ڈاکٹر نے کہا تھا کہ کمال کمزور اور غیر صحت مند ہے۔ اسے اپنے ہم جماعتوں کے ساتھ لاہور، اسلام آباد اور مری جانے کی اجازت نہیں دی جانی چاہیے۔"
+          },
+          {
+            "en": "“What is wrong with me?” he had asked the doctor.",
+            "sd": "«مون کي ڇا ٿيو آهي؟» هن ڊاڪٽر کان پڇيو هو.",
+            "ur": "«مجھے کیا ہوا ہے؟» اس نے ڈاکٹر سے پوچھا تھا۔"
+          },
+          {
+            "en": "“You are weak. You will not be able to walk long distances and climb hills,” replied the doctor.",
+            "sd": "«تون ڪمزور آهين. تون ڊگها فاصلا پنڌ ڪري ۽ جبلن تي چڙهي نه سگھندين،» ڊاڪٽر جواب ڏنو.",
+            "ur": "«تم کمزور ہو۔ تم لمبے فاصلے پیدل نہیں چل سکو گے اور پہاڑوں پر نہیں چڑھ سکو گے،» ڈاکٹر نے جواب دیا۔"
+          },
+          {
+            "en": "“But, I always walk to school,” said Kamal.",
+            "sd": "«پر، مان هميشه اسڪول پنڌ ويندو آهيان،» ڪمال چيو.",
+            "ur": "«لیکن، میں ہمیشہ پیدل اسکول جاتا ہوں،» کمال نے کہا۔"
+          },
+          {
+            "en": "“Yes,” said the doctor, “but your house is near the school. Besides, you have a bad cough and sometimes you have fever. How can you walk long distances and carry your bags and other things when you are not well?”",
+            "sd": "«ها،» ڊاڪٽر چيو، «پر تنهنجو گھر اسڪول جي ويجهو آهي. ان کان علاوه، توکي سخت کنگهه آهي ۽ ڪڏهن ڪڏهن توکي بخار به ٿيندو آهي. جڏهن تون ٺيڪ نه آهين ته تون ڊگها فاصلا ڪيئن پنڌ ڪري سگھندين ۽ پنهنجا ٿيلها ۽ ٻيون شيون ڪيئن کڻي سگھندين؟»",
+            "ur": "«ہاں،» ڈاکٹر نے کہا، «لیکن تمہارا گھر اسکول کے قریب ہے۔ اس کے علاوہ، تمہیں سخت کھانسی ہے اور کبھی کبھی تمہیں بخار بھی ہوتا ہے۔ جب تم ٹھیک نہیں ہو تو تم لمبے فاصلے کیسے پیدل چل سکتے ہو اور اپنے بستے اور دوسری چیزیں کیسے اٹھا سکتے ہو؟»"
+          },
+          {
+            "en": "“But why am I weak and sick? Why are all the other boys well?” asked Kamal.",
+            "sd": "«پر مان ڪمزور ۽ بيمار ڇو آهيان؟ ٻيا سڀ ڇوڪرا صحتمند ڇو آهن؟» ڪمال پڇيو.",
+            "ur": "«لیکن میں کمزور اور بیمار کیوں ہوں؟ دوسرے تمام لڑکے صحت مند کیوں ہیں؟» کمال نے پوچھا۔"
+          },
+          {
+            "en": "“Your friends, Yousuf and Ejaz, are also not healthy. They will also not be allowed to go,” said the doctor.",
+            "sd": "«تنهنجا دوست، يوسف ۽ اعجاز، به صحتمند نه آهن. هنن کي به وڃڻ جي اجازت نه ڏني ويندي،» ڊاڪٽر چيو.",
+            "ur": "«تمہارے دوست، یوسف اور اعجاز، بھی صحت مند نہیں ہیں۔ انہیں بھی جانے کی اجازت نہیں دی جائے گی،» ڈاکٹر نے کہا۔"
+          },
+          {
+            "en": "“Please tell me what I should do to be well and healthy,” said Kamal.",
+            "sd": "«مهرباني ڪري مون کي ٻڌايو ته صحتمند ۽ تندرست رھڻ لاءِ مون کي ڇا ڪرڻ گھرجي،» ڪمال چيو.",
+            "ur": "«براہ کرم مجھے بتائیں کہ صحت مند اور تندرست رہنے کے لیے مجھے کیا کرنا چاہیے،» کمال نے کہا۔"
+          },
+          {
+            "en": "“You should take proper food. You should do physical exercise. You should sleep early and wake up early. You should not eat too many sweets, or paan, or chhaliya. Instead, you should eat fruits and vegetables. You should also take a bath daily and wash your hands before every meal. Also, wash the fruits and vegetables before you eat them,” said the doctor.",
+            "sd": "«توکي مناسب کاڌو کائڻ گھرجي. توکي جسماني ورزش ڪرڻ گھرجي. توکي جلدي سمهڻ ۽ جلدي جاڳڻ گھرجي. توکي گھڻيون مٺايون، يا پان، يا ڇاليا نه کائڻ گھرجن. ان جي بدران، توکي ميوا ۽ ڀاڄيون کائڻ گھرجن. توکي هر روز غسل به ڪرڻ گھرجي ۽ هر کاڌي کان اڳ پنهنجا هٿ ڌوئڻ گھرجن. ان سان گڏ، ميوا ۽ ڀاڄيون کائڻ کان اڳ انهن کي به ڌوئڻ گھرجي،» ڊاڪٽر چيو.",
+            "ur": "«تمہیں مناسب کھانا کھانا چاہیے۔ تمہیں جسمانی ورزش کرنی چاہیے۔ تمہیں جلدی سونا اور جلدی جاگنا چاہیے۔ تمہیں بہت سی مٹھائیاں، یا پان، یا چھالیہ نہیں کھانی چاہییں۔ اس کے بجائے، تمہیں پھل اور سبزیاں کھانی چاہییں۔ تمہیں ہر روز غسل بھی کرنا چاہیے اور ہر کھانے سے پہلے اپنے ہاتھ دھونے چاہییں۔ اس کے ساتھ ساتھ، پھل اور سبزیاں کھانے سے پہلے انہیں بھی دھو لینا چاہیے،» ڈاکٹر نے کہا۔"
+          },
+          {
+            "en": "“Please let me go to Murree. I will do what you tell me. Please let me go. Please, please, please,” cried Kamal.",
+            "sd": "«مهرباني ڪري مون کي مري وڃڻ ڏيو. مان اهو ئي ڪندس جيڪو توهان مون کي چوندا. مهرباني ڪري مون کي وڃڻ ڏيو. مهرباني، مهرباني، مهرباني،» ڪمال روئيندي چيو.",
+            "ur": "«براہ کرم مجھے مری جانے دیں۔ میں وہی کروں گا جو آپ مجھے کہیں گے۔ براہ کرم مجھے جانے دیں۔ براہ کرم، براہ کرم، براہ کرم،» کمال روتے ہوئے بولا۔"
+          },
+          {
+            "en": "“Kamal. Wake up. Why are you crying? Did you have a bad dream?” Kamal's mother was shaking him.",
+            "sd": "«ڪمال. جاڳ. تون ڇو روئي رھيو آهين؟ ڇا توکي ڪو خراب خواب آيو هو؟» ڪمال جي ماءُ هن کي لوڏي رھي هئي.",
+            "ur": "«کمال۔ اٹھو۔ تم کیوں رو رہے ہو؟ کیا تم نے کوئی برا خواب دیکھا تھا؟» کمال کی ماں اسے جھنجھوڑ رہی تھی۔"
+          },
+          {
+            "en": "Kamal opened his eyes and looked at his mother. Then he quickly got out of bed and said, “Mother, I will eat whatever food you give me. I know that you always tell me to eat proper food but I never listen to you. From today, I will have everything: milk, fish, meat, vegetables and fruits because I want to be healthy. I will not eat too many sweets and paan and chaliya because these things make us sick and unhealthy.”",
+            "sd": "ڪمال پنهنجون اکيون کوليون ۽ پنهنجي ماءُ ڏانهن ڏٺو. پوءِ هو جلدي بستري مان ٻاهر نڪتو ۽ چيو، «امان، مان اهو کاڌو کائيندس جيڪو به توهان مون کي ڏيندا. مان ڄاڻان ٿو ته توهان مون کي هميشه مناسب کاڌو کائڻ لاءِ چوندا آهيو، پر مان توهان جي ڪڏهن به نه ٻڌندو هوس. اڄ کان، مان هر شيءِ کائيندس: کير، مڇي، گوشت، ڀاڄيون ۽ ميوا، ڇاڪاڻ ته مان صحتمند ٿيڻ چاھيان ٿو. مان گھڻيون مٺايون ۽ پان ۽ ڇاليا نه کائيندس، ڇاڪاڻ ته اهي شيون اسان کي بيمار ۽ ڪمزور ڪن ٿيون.»",
+            "ur": "کمال نے اپنی آنکھیں کھولیں اور اپنی ماں کی طرف دیکھا۔ پھر وہ جلدی سے بستر سے باہر نکلا اور بولا، «امی، میں وہ کھانا کھاؤں گا جو بھی آپ مجھے دیں گی۔ میں جانتا ہوں کہ آپ مجھے ہمیشہ مناسب کھانا کھانے کے لیے کہتی ہیں، لیکن میں آپ کی کبھی نہیں سنتا تھا۔ آج سے، میں ہر چیز کھاؤں گا: دودھ، مچھلی، گوشت، سبزیاں اور پھل، کیونکہ میں صحت مند رہنا چاہتا ہوں۔ میں بہت سی مٹھائیاں اور پان اور چھالیہ نہیں کھاؤں گا، کیونکہ یہ چیزیں ہمیں بیمار اور غیر صحت مند کر دیتی ہیں۔»"
+          },
+          {
+            "en": "“I'm happy to hear this,” said his mother. “Go brush your teeth, wash your hands and face. Then come and have breakfast.”",
+            "sd": "«اهو ٻڌي مان خوش آهيان،» سندس ماءُ چيو. «وڃي پنهنجا ڏند صاف ڪر، پنهنجا هٿ ۽ منهن ڌوءِ. پوءِ اچي ناشتو ڪر.»",
+            "ur": "«یہ سن کر میں خوش ہوں،» اس کی ماں نے کہا۔ «جاؤ اپنے دانت صاف کرو، اپنے ہاتھ اور منہ دھوؤ۔ پھر آؤ اور ناشتہ کرو۔»"
+          },
+          {
+            "en": "“Yes, mother. And I will also take a bath everyday before going to bed because if we remain clean we will not fall sick,” said Kamal. “And I will also play outside with my friends after I finish my homework because physical exercise is good for health, mother,” said Kamal.",
+            "sd": "«ها، امان. ۽ مان بستري تي وڃڻ کان اڳ هر روز غسل به ڪندس، ڇاڪاڻ ته جيڪڏهن اسان صاف رھنداسين ته اسان بيمار نه ٿينداسين،» ڪمال چيو. «۽ مان پنهنجو گھر جو ڪم پورو ڪرڻ کان پوءِ پنهنجن دوستن سان گڏ ٻاهر به کيڏندس، ڇاڪاڻ ته جسماني ورزش صحت لاءِ سٺي آهي، امان،» ڪمال چيو.",
+            "ur": "«جی، امی۔ اور میں بستر پر جانے سے پہلے ہر روز غسل بھی کروں گا، کیونکہ اگر ہم صاف رہیں گے تو ہم بیمار نہیں ہوں گے،» کمال نے کہا۔ «اور میں اپنا گھر کا کام مکمل کرنے کے بعد اپنے دوستوں کے ساتھ باہر بھی کھیلوں گا، کیونکہ جسمانی ورزش صحت کے لیے اچھی ہے، امی،» کمال نے کہا۔"
+          },
+          {
+            "en": "“Yes, my son,” she said.",
+            "sd": "«ها، منهنجا پٽ،» هن چيو.",
+            "ur": "«ہاں، میرے بیٹے،» اس نے کہا۔"
+          },
+          {
+            "en": "“And,” continued Kamal “I will not watch too much television but will go to bed early because I want to be fresh and active when I wake up in the morning for school.”",
+            "sd": "«۽،» ڪمال اڳتي چيو، «مان گھڻو ٽيليويزن نه ڏسندس، پر جلدي سمهي ويندس، ڇاڪاڻ ته مان اسڪول لاءِ صبح جو جاڳڻ وقت تازو ۽ چست رھڻ چاھيان ٿو.»",
+            "ur": "«اور،» کمال نے بات جاری رکھتے ہوئے کہا، «میں زیادہ ٹیلی ویژن نہیں دیکھوں گا، بلکہ جلدی سو جاؤں گا، کیونکہ میں اسکول کے لیے صبح اٹھتے وقت تازہ دم اور چست رہنا چاہتا ہوں۔»"
+          },
+          {
+            "en": "Kamal's mother was very surprised when she heard him say all these things. She did not know what had brought about this change. But, she was very happy that he was now going to change his lifestyle in order to become a strong and healthy boy.",
+            "sd": "ڪمال جي ماءُ تمام گھڻو حيران ٿي وئي جڏهن هن اهو سڀ ڪجهه چوندي ٻڌو. هن کي خبر نه هئي ته هي تبديلي ڪهڙي شيءِ آندي هئي. پر، هوءَ تمام گھڻي خوش هئي ته هو هاڻي مضبوط ۽ صحتمند ڇوڪرو ٿيڻ لاءِ پنهنجي زندگي جو انداز بدلائڻ وارو هو.",
+            "ur": "کمال کی ماں بہت حیران ہوئی جب اس نے اسے یہ سب باتیں کہتے سنا۔ اسے نہیں معلوم تھا کہ یہ تبدیلی کس چیز نے لائی تھی۔ لیکن، وہ بہت خوش تھی کہ وہ اب مضبوط اور صحت مند لڑکا بننے کے لیے اپنی طرز زندگی بدلنے والا تھا۔"
+          }
+        ],
+        "section": "2.1",
+        "unit": 2,
+        "unitTitle": "Understanding Physical Well Being"
+      },
+      {
+        "bookPages": "45-46",
+        "lesson": "Try Again",
+        "paragraphs": [
+          {
+            "en": "'Tis a lesson you should heed, Try again; If at first you don't succeed, Try again. Then your courage should appear, For if you will persevere, You will conquer, never fear, Try again.",
+            "sd": "هي هڪڙو سبق آهي، جنهن تي توهان کي ڌيان ڏيڻ گھرجي: ٻيهر ڪوشش ڪريو؛ جيڪڏهن توهان پهرين ڀيري ڪامياب نه ٿيو ته ٻيهر ڪوشش ڪريو. پوءِ توهان جي همٿ ظاهر ٿيندي، ڇو ته جيڪڏهن توهان ثابت قدم رھو ته توهان فتح حاصل ڪندؤ، ڪڏهن به نه ڊڄو، ٻيهر ڪوشش ڪريو.",
+            "ur": "یہ ایک سبق ہے جس پر تمہیں دھیان دینا چاہیے: دوبارہ کوشش کرو؛ اگر تم پہلی بار کامیاب نہ ہو تو دوبارہ کوشش کرو۔ پھر تمہاری ہمت ظاہر ہوگی، کیونکہ اگر تم ثابت قدم رہو گے تو تم فتح حاصل کرو گے، کبھی نہ ڈرو، دوبارہ کوشش کرو۔"
+          },
+          {
+            "en": "Once or twice, though you should fail, Try again; If you would at last prevail, Try again; If we strive, 'tis no disgrace Though we do not win the race; What should we do in that case? Try again.",
+            "sd": "هڪڙو يا ٻه ڀيرا، جيتوڻيڪ توهان ناڪام ٿيو، ٻيهر ڪوشش ڪريو؛ جيڪڏهن توهان آخرڪار ڪامياب ٿيو، ٻيهر ڪوشش ڪريو؛ جيڪڏهن اسان محنت ڪريون ته ان ۾ ڪا شرم ناهي، جيتوڻيڪ اسان ڊوڙ نه کٽيون؛ ان صورت ۾ اسان کي ڇا ڪرڻ گھرجي؟ ٻيهر ڪوشش ڪريو.",
+            "ur": "ایک یا دو بار، اگرچہ تم ناکام ہو جاؤ، دوبارہ کوشش کرو؛ اگر تم آخرکار کامیاب ہو جاؤ، دوبارہ کوشش کرو؛ اگر ہم محنت کریں تو اس میں کوئی شرم نہیں، اگرچہ ہم دوڑ نہ جیتیں؛ اس صورت میں ہمیں کیا کرنا چاہیے؟ دوبارہ کوشش کرو۔"
+          },
+          {
+            "en": "If you find your task is hard, Try again; Time will bring you your reward, Try again; All that other folks can do, Why, with patience, may not you? Only keep this rule in view, Try again.",
+            "sd": "جيڪڏهن توهان کي پنهنجو ڪم ڏکيو لڳي، ٻيهر ڪوشش ڪريو؛ وقت توهان کي توهان جو انعام ڏيندو، ٻيهر ڪوشش ڪريو؛ جيڪو ڪجهه ٻيا ماڻهو ڪري سگھن ٿا، اهو توهان صبر سان ڇو نه ڪري سگھو؟ صرف هن قاعدي کي ياد رکو، ٻيهر ڪوشش ڪريو.",
+            "ur": "اگر تمہیں اپنا کام مشکل لگے، دوبارہ کوشش کرو؛ وقت تمہیں تمہارا انعام دے گا، دوبارہ کوشش کرو؛ جو کچھ دوسرے لوگ کر سکتے ہیں، وہ تم صبر سے کیوں نہیں کر سکتے؟ صرف اس اصول کو یاد رکھو، دوبارہ کوشش کرو۔"
+          }
+        ],
+        "section": "3.1",
+        "unit": 3,
+        "unitTitle": "Patience"
+      },
+      {
+        "bookPages": "61-62",
+        "lesson": "Diary Entry",
+        "paragraphs": [
+          {
+            "en": "Shahban is a young boy who lives in Badin, Sindh. His father wants him to become a great man, so he wants Shahban to study well and to work hard. Shahban goes to school daily and always does his homework on time. He also writes what he does every day in his diary. This helps him in improving his writing and in remembering a lot of things that he could forget if he did not write them down. Read the following diary entry by Shahban, to see what he does and how he divides his time between study, work and play.",
+            "sd": "شاھبان هڪ نوجوان ڇوڪرو آهي، جيڪو سنڌ جي بدين ۾ رھي ٿو. سندس پيءُ چاھي ٿو ته هو هڪ وڏو ماڻهو بڻجي، ان ڪري هو چاھي ٿو ته شاھبان سٺي نموني پڙھي ۽ محنت ڪري. شاھبان روزانو اسڪول وڃي ٿو ۽ هميشه پنهنجو گھر جو ڪم وقت تي ڪري ٿو. هو روزانو جيڪو ڪجهه ڪري ٿو، اهو بهي پنهنجي ڊائري ۾ لکي ٿو. هن سان سندس لکڻي بهتر ٿئي ٿي ۽ هو گھڻيون ڳالھيون ياد رکي ٿو، جيڪي هو وساري سگھي ٿو جيڪڏهن هو انهن کي لکي نه ڇڏي. شاھبان جي هيٺ ڏنل ڊائري پڙھو، ته ڏسو هو ڇا ڪري ٿو ۽ پنهنجو وقت پڙھائي، ڪم ۽ راند وچ ۾ ڪيئن ونڊي ٿو.",
+            "ur": "شاہبان ایک نوجوان لڑکا ہے جو سندھ کے بدین میں رہتا ہے۔ اس کے والد چاہتے ہیں کہ وہ ایک بڑا آدمی بنے، اس لیے وہ چاہتے ہیں کہ شاہبان اچھی طرح پڑھے اور محنت کرے۔ شاہبان روزانہ اسکول جاتا ہے اور ہمیشہ اپنا گھر کا کام وقت پر کرتا ہے۔ وہ روزانہ جو کچھ کرتا ہے وہ بھی اپنی ڈائری میں لکھتا ہے۔ اس سے اس کی تحریر بہتر ہوتی ہے اور وہ بہت سی باتیں یاد رکھتا ہے جو وہ بھول سکتا ہے اگر وہ انہیں لکھ نہ لے۔ شاہبان کی درج ذیل ڈائری پڑھیں تاکہ دیکھیں کہ وہ کیا کرتا ہے اور اپنا وقت پڑھائی، کام اور کھیل کے درمیان کیسے بانٹتا ہے۔"
+          },
+          {
+            "en": "Name: Shahban, Day: Monday, Date: 02.02.2017. Dear Diary, Last Saturday, I began working at a local milk shop after school. I go to school in the mornings and come back home at 1 O'clock in the afternoon. I say my prayers and then I have lunch. After lunch, I help my elder sister clean our home and then she helps me with my homework. After that, I go for my Quran classes. My evenings are free after my Quran classes, so, my father spoke to the owner of the Allahwala Milk Shop, a shop near our house, to allow me to work there. He agreed to let me work in his shop for two hours every day. My father told him that I would not work on Sundays and public holidays. The owner is a nice man. He agreed and said that young people should also have time to play with their friends.",
+            "sd": "نالو: شاھبان، ڏينهن: سومر، تاريخ: 02.02.2017. پياري ڊائري، گذريل ڇنڇر تي، مون اسڪول کان پوءِ هڪ مقامي کير جي دڪان تي ڪم ڪرڻ شروع ڪيو. مان صبح جو اسڪول وڃان ٿو ۽ منجھند جو هڪ وڳي گھر موٽان ٿو. مان پنهنجي نماز پڙھان ٿو ۽ پوءِ مان منجھند جو کاڌو کائان ٿو. منجھند جي کاڌي کان پوءِ، مان پنهنجي وڏي ڀيڻ جي گھر صاف ڪرڻ ۾ مدد ڪريان ٿو ۽ پوءِ هوءَ منهنجي گھر جي ڪم ۾ منهنجي مدد ڪري ٿي. ان کان پوءِ، مان قرآن جي ڪلاسن لاءِ وڃان ٿو. قرآن جي ڪلاسن کان پوءِ منهنجون شامون وانديون هونديون آهن، ان ڪري منهنجي پيءُ الله واري کير جي دڪان جي مالڪ سان ڳالھايو، جيڪو اسان جي گھر جي ويجهو هڪ دڪان آهي، ته مون کي اتي ڪم ڪرڻ جي اجازت ڏئي. هو راضي ٿي ويو ته مان روزانو ٻه ڪلاڪ سندس دڪان تي ڪم ڪريان. منهنجي پيءُ کيس ٻڌايو ته مان آچر ۽ سرڪاري موڪلن تي ڪم نه ڪندس. مالڪ هڪ سٺو ماڻهو آهي. هو راضي ٿي ويو ۽ چيو ته نوجوانن وٽ بهي پنهنجن دوستن سان کيڏڻ لاءِ وقت هجڻ گھرجي.",
+            "ur": "نام: شاہبان، دن: پیر، تاریخ: 02.02.2017۔ پیاری ڈائری، گزشتہ ہفتے کو میں نے اسکول کے بعد ایک مقامی دودھ کی دکان پر کام شروع کیا۔ میں صبح اسکول جاتا ہوں اور دوپہر ایک بجے گھر واپس آتا ہوں۔ میں اپنی نماز پڑھتا ہوں اور پھر دوپہر کا کھانا کھاتا ہوں۔ دوپہر کے کھانے کے بعد میں اپنی بڑی بہن کی گھر صاف کرنے میں مدد کرتا ہوں اور پھر وہ میرے گھر کے کام میں میری مدد کرتی ہے۔ اس کے بعد میں قرآن کی کلاسوں کے لیے جاتا ہوں۔ قرآن کی کلاسوں کے بعد میری شامیں خالی ہوتی ہیں، اس لیے میرے والد نے اللہ والا دودھ کی دکان کے مالک سے بات کی، جو ہمارے گھر کے قریب ایک دکان ہے، کہ مجھے وہاں کام کرنے کی اجازت دے۔ وہ مان گیا کہ میں روزانہ دو گھنٹے اس کی دکان پر کام کروں۔ میرے والد نے اسے بتایا کہ میں اتوار اور سرکاری چھٹیوں پر کام نہیں کروں گا۔ مالک ایک اچھا آدمی ہے۔ وہ مان گیا اور کہا کہ نوجوانوں کے پاس بھی اپنے دوستوں کے ساتھ کھیلنے کا وقت ہونا چاہیے۔"
+          },
+          {
+            "en": "I am feeling very happy. Now, I too can help my parents in making our lives better by earning some money. Mother says that when we keep ourselves busy, we stay away from bad company and bad habits. Father believes that we should work hard and honestly. My boss says if I work hard, I can have a milk-shop of my own when I grow up. Insha'Allah, one day I will have my own shop besides my dream job of computer engineer.",
+            "sd": "مان ڏاڍو خوش محسوس ڪري رھيو آهيان. هاڻي، مان بهي ڪجهه پئسا ڪمائي پنهنجي ماءُ پيءُ جي زندگي بهتر بنائڻ ۾ مدد ڪري سگھان ٿو. امان چوي ٿي ته جڏهن اسان پاڻ کي مصروف رکون ٿا، ته اسان خراب سنگت ۽ خراب عادتن کان پري رھون ٿا. بابا جو يقين آهي ته اسان کي محنت ۽ ايمانداري سان ڪم ڪرڻ گھرجي. منهنجو مالڪ چوي ٿو ته جيڪڏهن مان محنت ڪريان، ته وڏو ٿيڻ تي مون کي پنهنجو کير جو دڪان ملي سگھي ٿو. ان شاء الله، هڪ ڏينهن منهنجو پنهنجو دڪان بهي هوندو، ان سان گڏ منهنجي خوابن واري نوڪري — ڪمپيوٽر انجنيئر جي.",
+            "ur": "میں بہت خوش محسوس کر رہا ہوں۔ اب میں بھی کچھ پیسے کما کر اپنے والدین کی زندگی بہتر بنانے میں مدد کر سکتا ہوں۔ امی کہتی ہیں کہ جب ہم خود کو مصروف رکھتے ہیں تو ہم بری صحبت اور بری عادتوں سے دور رہتے ہیں۔ ابو کا یقین ہے کہ ہمیں محنت اور ایمانداری سے کام کرنا چاہیے۔ میرا مالک کہتا ہے کہ اگر میں محنت کروں تو بڑا ہو کر میری اپنی دودھ کی دکان ہو سکتی ہے۔ ان شاء اللہ، ایک دن میری اپنی دکان بھی ہوگی، اس کے ساتھ میری خوابوں والی نوکری — کمپیوٹر انجینئر کی۔"
+          },
+          {
+            "en": "But, everybody at home is not happy. My grandmother is upset with my parents for making me work. She says I am only eleven years old and that I should play more. So, grandfather told her that I can play with my cousins and friends on Sundays and other holidays.",
+            "sd": "پر، گھر ۾ هر ڪو خوش ناهي. منهنجي ڏاڏي منهنجي ماءُ پيءُ کان ناراض آهي، جو هنن مون کان ڪم ڪرايو آهي. هوءَ چوي ٿي ته مان رڳو يارهن سالن جو آهيان ۽ مون کي وڌيڪ کيڏڻ گھرجي. ان ڪري ڏاڏي کيس ٻڌايو ته مان آچر ۽ ٻين موڪلن تي پنهنجن سوٽن ۽ دوستن سان کيڏي سگھان ٿو.",
+            "ur": "لیکن گھر میں ہر کوئی خوش نہیں ہے۔ میری دادی میرے والدین سے ناراض ہیں کہ انہوں نے مجھ سے کام کروایا ہے۔ وہ کہتی ہیں کہ میں صرف گیارہ سال کا ہوں اور مجھے زیادہ کھیلنا چاہیے۔ اس لیے دادا نے انہیں بتایا کہ میں اتوار اور دوسری چھٹیوں پر اپنے چچا زاد بھائیوں اور دوستوں کے ساتھ کھیل سکتا ہوں۔"
+          },
+          {
+            "en": "Every day, after dinner and Isha prayers, I go to bed early to get up early. I am busy, but I am glad. I am a helper and a trainee. I am learning how to set yoghurt in a clay pot. So, I will be able to make yoghurt for my family very soon. Also, I am happy because with the earnings from my job, I will save enough money to buy myself a computer. And I am waiting for the day when I will be a computer engineer. It's 9:30 in Badin now. I'm off to bed.",
+            "sd": "روزانو، رات جي ماني ۽ عشا جي نماز کان پوءِ، مان صبح جو سوير اٿڻ لاءِ سوير سمھي ٿو. مان مصروف آهيان، پر مان خوش آهيان. مان هڪ مددگار ۽ هڪ سکياڙو آهيان. مان سکي رھيو آهيان ته مٽيءَ جي ٿانءُ ۾ دھي ڪيئن ڄمائجي. ان ڪري، مان تمام جلد پنهنجي گھر وارن لاءِ دھي ٺاھي سگھندس. ان سان گڏ، مان خوش آهيان، ڇو ته پنهنجي نوڪري جي ڪمائي مان، مان پنهنجي لاءِ ڪمپيوٽر خريد ڪرڻ لاءِ ڪافي پئسا بچائيندس. ۽ مان ان ڏينهن جي انتظار ۾ آهيان، جڏهن مان ڪمپيوٽر انجنيئر بڻجندس. هاڻي بدين ۾ رات جا 9:30 آهن. مان سمھڻ لاءِ وڃان ٿو.",
+            "ur": "روزانہ رات کے کھانے اور عشاء کی نماز کے بعد میں صبح جلدی اٹھنے کے لیے جلدی سو جاتا ہوں۔ میں مصروف ہوں، لیکن میں خوش ہوں۔ میں ایک مددگار اور زیر تربیت ہوں۔ میں سیکھ رہا ہوں کہ مٹی کے برتن میں دہی کیسے جمایا جاتا ہے۔ اس لیے میں بہت جلد اپنے گھر والوں کے لیے دہی بنا سکوں گا۔ اس کے علاوہ میں خوش ہوں کیونکہ اپنی نوکری کی کمائی سے میں اپنے لیے کمپیوٹر خریدنے کے لیے کافی پیسے بچا لوں گا۔ اور میں اس دن کا انتظار کر رہا ہوں جب میں کمپیوٹر انجینئر بنوں گا۔ اب بدین میں رات کے 9:30 ہیں۔ میں سونے جا رہا ہوں۔"
+          }
+        ],
+        "section": "4.1",
+        "unit": 4,
+        "unitTitle": "The Value of Labour"
+      },
+      {
+        "unit": 5,
+        "unitTitle": "Knowing Children from Other Nations",
+        "lesson": "We Are Different but We Are All Children",
+        "section": "5.1",
+        "bookPages": "79-82",
+        "paragraphs": [
+          {
+            "en": "People in different parts of the world speak different languages, follow different religions, eat different types of food, and celebrate different occasions. They also enjoy doing different things and playing different sports. But we are all human beings, so we must respect each other's culture and religion.",
+            "sd": "دنيا جي مختلف حصن ۾ ماڻهو مختلف ٻوليون ڳالھائين ٿا، مختلف مذهبن جي پوئلڳي ڪن ٿا، مختلف قسمن جو ڪاڌو ڪائين ٿا ۽ مختلف موقعا ملهائين ٿا. هو مختلف ڪم ڪرڻ ۽ مختلف رانديون ڪيڏڻ ۾ بهي مزو وٺن ٿا. پر اسان سڀ انسان آهيون، ان ڪري اسان کي هڪ ٻئي جي ثقافت ۽ مذهب جو احترام ڪرڻ گھرجي.",
+            "ur": "دنیا کے مختلف حصوں میں لوگ مختلف زبانیں بولتے ہیں، مختلف مذاہب کی پیروی کرتے ہیں، مختلف قسم کا کھانا کھاتے ہیں اور مختلف مواقع مناتے ہیں۔ وہ مختلف کام کرنے اور مختلف کھیل کھیلنے میں بھی لطف اٹھاتے ہیں۔ لیکن ہم سب انسان ہیں، اس لیے ہمیں ایک دوسرے کی ثقافت اور مذہب کا احترام کرنا چاہیے۔"
+          },
+          {
+            "en": "Read the text passages on the following pages about children from three different parts of the world to know about them and their culture.",
+            "sd": "دنيا جي ٽن مختلف حصن جي ٻارن بابت ايندڙ صفحن تي ڏنل متن پڙھو ته جيئن اوهان انهن ۽ انهن جي ثقافت بابت ڄاڻو.",
+            "ur": "دنیا کے تین مختلف حصوں کے بچوں کے بارے میں اگلے صفحوں پر دیے گئے متن پڑھیں تاکہ آپ ان کے اور ان کی ثقافت کے بارے میں جان سکیں۔"
+          },
+          {
+            "en": "Ola!",
+            "sd": "اولا!",
+            "ur": "اولا!"
+          },
+          {
+            "en": "I'm Ana. I'm 9 years old.. I live in Betim. It is a city in Brazil in the continent of South America. Our national language is Portuguese. My city is famous for making cars. The largest FIAT car factory is in Betim.",
+            "sd": "مان انا آهيان. منهنجي عمر 9 سال آهي. مان بيٽم ۾ رھان ٿي. اهو برازيل جو هڪ شهر آهي، جيڪو ڏکڻ آمريڪا کنڊ ۾ آهي. اسان جي قومي ٻولي پرتگالي آهي. منهنجو شهر ڪارون ٺاھڻ لاءِ مشهور آهي. سڀ ڪان وڏي فئيٽ ڪار فيڪٽري بيٽم ۾ آهي.",
+            "ur": "میں انا ہوں۔ میری عمر 9 سال ہے۔ میں بیٹم میں رہتی ہوں۔ یہ برازیل کا ایک شہر ہے، جو جنوبی امریکہ براعظم میں ہے۔ ہماری قومی زبان پرتگالی ہے۔ میرا شہر کاریں بنانے کے لیے مشہور ہے۔ سب سے بڑی فیاٹ کار فیکٹری بیٹم میں ہے۔"
+          },
+          {
+            "en": "We are five brothers and two sisters. We don't go to school but our parents teach us at home. Brazilians celebrate Brasil Sabor from May 3 - June 3. It is the world's largest food festival. Restaurants from Brazil and people from all parts of the world come to attend it every year, even if they have to travel from far. More than 2000 types of dishes are prepared.",
+            "sd": "اسان پنج ڀائر ۽ ٻه ڀينرون آهيون. اسان اسڪول نه ٿا وڃون، پر اسان جا والدين اسان کي گھر ۾ سيکارين ٿا. برازيل جا ماڻهو برازيل سيبور 3 مئي کان 3 جون تائين ملهائين ٿا. اهو دنيا جو سڀ ڪان وڏو ڪاڌي جو ميلو آهي. برازيل جا ريسٽورنٽ ۽ دنيا جي سڀني حصن جا ماڻهو هر سال ان ۾ شرڪت لاءِ اچن ٿا، جيتوڻيڪ انهن کي پري کان سفر ڪرڻو پوي ٿو. 2000 کان وڌيڪ قسمن جا ڪاڌا تيار ڪيا وڃن ٿا.",
+            "ur": "ہم پانچ بھائی اور دو بہنیں ہیں۔ ہم اسکول نہیں جاتے، لیکن ہمارے والدین ہمیں گھر پر پڑھاتے ہیں۔ برازیل کے لوگ برازیل سیبور 3 مئی سے 3 جون تک مناتے ہیں۔ یہ دنیا کا سب سے بڑا کھانے کا میلہ ہے۔ برازیل کے ریسٹوران اور دنیا کے تمام حصوں کے لوگ ہر سال اس میں شرکت کے لیے آتے ہیں، چاہے انہیں دور سے سفر کرنا پڑے۔ 2000 سے زیادہ قسم کے کھانے تیار کیے جاتے ہیں۔"
+          },
+          {
+            "en": "My favourite food is Cabidela. It is cooked with rice and meat. I like to play with my dolls all the time.",
+            "sd": "منهنجو پسنديده ڪاڌو ڪيبيڊيلا آهي. اهو چانورن ۽ گوشت سان پچايو وڃي ٿو. مون کي هر وقت پنهنجين گڏين سان ڪيڏڻ پسند آهي.",
+            "ur": "میرا پسندیدہ کھانا کیبیڈیلا ہے۔ یہ چاولوں اور گوشت کے ساتھ پکایا جاتا ہے۔ مجھے ہر وقت اپنی گڑیوں سے کھیلنا پسند ہے۔"
+          },
+          {
+            "en": "Sannu!",
+            "sd": "سانو!",
+            "ur": "سانو!"
+          },
+          {
+            "en": "I'm Kofi. It means Friday. I'm 10 years old and study in Grade 5 at the School for Deaf and Dumb Heroes. I cannot talk because I was born that way. But I am quite good at catching fish.",
+            "sd": "مان ڪوفي آهيان. ان جو مطلب آهي جمعو. منهنجي عمر 10 سال آهي ۽ مان پنجين درجي ۾ ٻوڙن ۽ گونگن بهادرن جي اسڪول ۾ پڙھان ٿو. مان ڳالھائي نٿو سگھان، ڇو ته مان ائين ئي ڄائو هوس. پر مان مڇي پڪڙڻ ۾ گھڻو سٺو آهيان.",
+            "ur": "میں کوفی ہوں۔ اس کا مطلب ہے جمعہ۔ میری عمر 10 سال ہے اور میں پانچویں جماعت میں بہروں اور گونگوں بہادروں کے اسکول میں پڑھتا ہوں۔ میں بول نہیں سکتا، کیونکہ میں اسی طرح پیدا ہوا تھا۔ لیکن میں مچھلی پکڑنے میں بہت اچھا ہوں۔"
+          },
+          {
+            "en": "I live in Tema in southeast Ghana, Africa. Today, Tema is the busiest port in Ghana. In earlier times, Tema used to be a small fishing village. Its port was built in 1960. Ghana's main export is cacao. The port smells of cocoa beans, fish and salt.",
+            "sd": "مان ٽيما ۾ رھان ٿو، جيڪو آفريڪا ۾ ڏکڻ اوڀر گھانا ۾ آهي. اڄ، ٽيما گھانا جي سڀ ڪان وڌيڪ مصروف بندرگاهه آهي. اڳئين زماني ۾، ٽيما هڪ ننڍڙو مڇي مارڻ وارو ڳوٺ هو. ان جي بندرگاهه 1960 ۾ بڻائي وئي هئي. گھانا جي مکيه برآمد ڪاڪو آهي. بندرگاهه مان ڪوڪو جي داڻن، مڇي ۽ لوڻ جي خوشبو اچي ٿي.",
+            "ur": "میں ٹیما میں رہتا ہوں، جو افریقہ میں جنوب مشرقی گھانا میں ہے۔ آج ٹیما گھانا کی مصروف ترین بندرگاہ ہے۔ پہلے زمانے میں ٹیما مچھلی پکڑنے کا ایک چھوٹا سا گاؤں ہوا کرتا تھا۔ اس کی بندرگاہ 1960 میں بنائی گئی تھی۔ گھانا کی اہم برآمد کاکاؤ ہے۔ بندرگاہ سے کوکو کے دانوں، مچھلی اور نمک کی خوشبو آتی ہے۔"
+          },
+          {
+            "en": "The Ghanans celebrate the Bakatue Festival for a good fishing year ahead. It is on the first Tuesday in the month of July every year. Once the festival begins, the fishing season starts. Many fishing communities of Ghana do not go to sea on Tuesdays.",
+            "sd": "گھانا جا ماڻهو باڪاٽو ميلو سٺي مڇي مارڻ واري سال لاءِ ملهائين ٿا. اهو هر سال جولاءِ جي مهيني جي پهرين اڱاري تي هوندو آهي. جيئن ئي ميلو شروع ٿئي ٿو، مڇي مارڻ جو موسم شروع ٿئي ٿو. گھانا جون ڪيتريون ئي مڇي مارڻ واريون برادريون اڱاري تي سمنڊ ڏانهن نه ٿيون وڃن.",
+            "ur": "گھانا کے لوگ باکاٹو میلہ اچھے مچھلی کے سال کے لیے مناتے ہیں۔ یہ ہر سال جولائی کے مہینے کے پہلے منگل کو ہوتا ہے۔ جیسے ہی میلہ شروع ہوتا ہے، مچھلی پکڑنے کا موسم شروع ہو جاتا ہے۔ گھانا کی بہت سی مچھلی پکڑنے والی برادریاں منگل کو سمندر نہیں جاتیں۔"
+          },
+          {
+            "en": "My favourite food is Waakye. It is cooked with rice and beans. But I like to eat fish too; the ones that I catch!",
+            "sd": "منهنجو پسنديده ڪاڌو واڪي آهي. اهو چانورن ۽ لوبيا سان پچايو وڃي ٿو. پر مون کي مڇي بهي ڪائڻ پسند آهي؛ اها جيڪا مان پاڻ پڪڙيان ٿو!",
+            "ur": "میرا پسندیدہ کھانا واکیے ہے۔ یہ چاولوں اور لوبیا کے ساتھ پکایا جاتا ہے۔ لیکن مجھے مچھلی بھی کھانا پسند ہے؛ وہ جو میں خود پکڑتا ہوں!"
+          },
+          {
+            "en": "Sawatdee Kaa!",
+            "sd": "ساوادي ڪا!",
+            "ur": "ساوادی کا!"
+          },
+          {
+            "en": "I'm Angkul. I am 10 years old. I study in Grade 6 in a local public school. We sit on the floor for our lessons.",
+            "sd": "مان انگڪل آهيان. منهنجي عمر 10 سال آهي. مان هڪ مقامي سرڪاري اسڪول ۾ درجي 6 ۾ پڙھان ٿو. اسان پنهنجن سبقن لاءِ فرش تي ويھون ٿا.",
+            "ur": "میں انگکول ہوں۔ میری عمر 10 سال ہے۔ میں ایک مقامی سرکاری اسکول میں چھٹی جماعت میں پڑھتا ہوں۔ ہم اپنے سبقوں کے لیے فرش پر بیٹھتے ہیں۔"
+          },
+          {
+            "en": "I live in Phuket, the capital of Phuket province, in Thailand, Asia. It is famous for its white beaches. We have many fishing villages and rubber, pineapple and shrimp farms in Thailand. Phuket is hot and humid throughout the year, even if it is winter.",
+            "sd": "مان فوڪيٽ ۾ رھان ٿو، جيڪو ٿائيلينڊ، ايشيا ۾ فوڪيٽ صوبي جي گادي آهي. اهو پنهنجن اڇن ساحلن لاءِ مشهور آهي. ٿائيلينڊ ۾ اسان وٽ ڪيترائي مڇي مارڻ وارا ڳوٺ ۽ رٻڙ، انناس ۽ جھينگي جا فارم آهن. فوڪيٽ پورو سال گرم ۽ نم هوندو آهي، جيتوڻيڪ سيارو هجي.",
+            "ur": "میں فوکٹ میں رہتا ہوں، جو تھائی لینڈ، ایشیا میں فوکٹ صوبے کا دارالحکومت ہے۔ یہ اپنے سفید ساحلوں کے لیے مشہور ہے۔ تھائی لینڈ میں ہمارے بہت سے مچھلی پکڑنے والے گاؤں اور ربڑ، انناس اور جھینگے کے فارم ہیں۔ فوکٹ سارا سال گرم اور مرطوب رہتا ہے، چاہے سردی ہو۔"
+          },
+          {
+            "en": "Thais celebrate the Songkran Festival as their New Year's Day, from 13 to 15 April every year. We go around the streets with water guns for a water fight. It is also the time to visit and pay respects to elders, family members, friends and neighbours. We also wash our homes just before the festival as this brings good luck and wealth for the New Year.",
+            "sd": "ٿائي ماڻهو سونگڪران ميلو پنهنجي نئين سال جي ڏينهن طور ملهائين ٿا، هر سال 13 کان 15 اپريل تائين. اسان پاڻيءَ وارين بندوقن سان گھٽين ۾ گھمون ٿا، پاڻيءَ جي جنگ لاءِ. اهو وڏن، خاندان جي ماڻهن، دوستن ۽ پاڙيسرين سان ملڻ ۽ انهن جو احترام ڪرڻ جو بهي وقت آهي. اسان ميلو کان اڳ پنهنجا گھر بهي ڌوئيندا آهيون، ڇو ته اهو نئين سال لاءِ سٺي قسمت ۽ دولت آڻي ٿو.",
+            "ur": "تھائی لوگ سونگکران میلہ اپنے نئے سال کے دن کے طور پر مناتے ہیں، ہر سال 13 سے 15 اپریل تک۔ ہم پانی والی بندوقوں کے ساتھ گلیوں میں گھومتے ہیں، پانی کی لڑائی کے لیے۔ یہ بڑوں، خاندان کے افراد، دوستوں اور پڑوسیوں سے ملنے اور ان کا احترام کرنے کا بھی وقت ہے۔ ہم میلے سے پہلے اپنے گھر بھی دھوتے ہیں، کیونکہ یہ نئے سال کے لیے اچھی قسمت اور دولت لاتا ہے۔"
+          },
+          {
+            "en": "My favourite food is Khao phat. It is made of rice and meat. We add coconut or pineapple for more taste. Once I'm free, I like to paint sceneries.",
+            "sd": "منهنجو پسنديده ڪاڌو ڪائو ڦٽ آهي. اهو چانورن ۽ گوشت مان ٺاھيل آهي. اسان وڌيڪ ذائقي لاءِ ناريل يا انناس وجهون ٿا. جڏهن مان فارغ هجان ٿو، مون کي منظرن جون تصويرون ڪڍڻ پسند آهي.",
+            "ur": "میرا پسندیدہ کھانا کھاؤ پھٹ ہے۔ یہ چاولوں اور گوشت سے بنایا جاتا ہے۔ ہم زیادہ ذائقے کے لیے ناریل یا انناس ڈالتے ہیں۔ جب میں فارغ ہوتا ہوں، مجھے مناظر کی تصویریں بنانا پسند ہے۔"
+          }
+        ]
+      },
+      {
+        "bookPages": "105-108",
+        "lesson": "Yes, You Can",
+        "paragraphs": [
+          {
+            "en": "Mohammed Tahir is a Sindh Gymnast Champion. He has been a member of the Sindh Sports Board since 1993. He has competed for the Sindh Team of Gymnastics in Hyderabad, Islamabad, Karachi, Lahore, Larkana, Quetta and other cities of Sindh. He has won many gold, silver and bronze medals. He won silver and bronze medals at the 32nd National Games 2013 in Islamabad. He is a sports and gymnastics coach at a local school in Karachi. Tahir wants to be a world champion to make his parents and country proud.",
+            "sd": "محمد طاهر سنڌ جو جمناسٽڪ چيمپيئن آهي. هو 1993 کان سنڌ اسپورٽس بورڊ جو ميمبر آهي. هن حيدرآباد، اسلام آباد، ڪراچي، لاهور، لاڙڪاڻو، ڪوئيٽا ۽ سنڌ جي ٻين شهرن ۾ سنڌ جي جمناسٽڪ ٽيم لاءِ مقابلو ڪيو آهي. هن سون، چاندي ۽ ڪانسي جا گھڻا تمغا کٽيا آهن. هن اسلام آباد ۾ 2013 جي 32هين قومي راندين ۾ چاندي ۽ ڪانسي جا تمغا کٽيا. هو ڪراچي جي هڪ مقامي اسڪول ۾ راندين ۽ جمناسٽڪ جو ڪوچ آهي. طاهر عالمي چيمپيئن ٿي پنهنجي ماءُ پيءُ ۽ ملڪ جو نالو روشن ڪرڻ گھري ٿو.",
+            "ur": "محمد طاہر سندہ کے جمناسٹک چیمپئن ہیں۔ وہ 1993 سے سندہ اسپورٹس بورڈ کے رکن ہیں۔ انہوں نے حیدرآباد، اسلام آباد، کراچی، لاہور، لاڑکانہ، کوئٹہ اور سندہ کے دیگر شہروں میں سندہ کی جمناسٹک ٹیم کی طرف سے مقابلے کیے ہیں۔ انہوں نے سونے، چاندی اور کانسی کے کئی تمغے جیتے ہیں۔ انہوں نے اسلام آباد میں 2013 کے 32 ویں قومی کہیلوں میں چاندی اور کانسی کے تمغے جیتے۔ وہ کراچی کے ایک مقامی اسکول میں کہیلوں اور جمناسٹک کے کوچ ہیں۔ طاہر عالمی چیمپئن بن کر اپنے والدین اور ملک کا نام روشن کرنا چاہتے ہیں۔"
+          },
+          {
+            "en": "This interview was conducted by Munazza Mahmood Alam.",
+            "sd": "هي انٽرويو منزه محمود عالم ڪيو هو.",
+            "ur": "یہ انٹرویو منزہ محمود عالم نے لیا تہا۔"
+          },
+          {
+            "en": "(1) Interviewer: When and where were you born? Tahir: I was born on January 1st in Karachi.",
+            "sd": "(1) انٽرويو وٺندڙ: توهان ڪڏهن ۽ ڪٿي ڄاوا هئا؟ طاهر: مان پهرين جنوري تي ڪراچي ۾ ڄائو هوس.",
+            "ur": "(1) انٹرویو لینے والی: آپ کب اور کہاں پیدا ہوئے تہے؟ طاہر: میں یکم جنوری کو کراچی میں پیدا ہوا تہا۔"
+          },
+          {
+            "en": "(2) Interviewer: How long have you been a gymnast? Tahir: I have been a gymnast since I was 6 years old.",
+            "sd": "(2) انٽرويو وٺندڙ: توهان ڪڏهن کان جمناسٽ آهيو؟ طاهر: مان ڇهن سالن جي عمر کان جمناسٽ آهيان.",
+            "ur": "(2) انٹرویو لینے والی: آپ کب سے جمناسٹ ہیں؟ طاہر: میں چہ سال کی عمر سے جمناسٹ ہوں۔"
+          },
+          {
+            "en": "(3) Interviewer: Why did you choose gymnastics? Tahir: My father and brothers are gymnasts. I picked it up as a hobby.",
+            "sd": "(3) انٽرويو وٺندڙ: توهان جمناسٽڪ ڇو چونڊي؟ طاهر: منهنجو پيءُ ۽ ڀائر جمناسٽ آهن. مون اها شوق طور کنئي.",
+            "ur": "(3) انٹرویو لینے والی: آپ نے جمناسٹک کیوں چنی؟ طاہر: میرے والد اور بہائی جمناسٹ ہیں۔ میں نے اسے شوق کے طور پر اپنایا۔"
+          },
+          {
+            "en": "(4) Interviewer: What are your other hobbies? Tahir: As I'm a sportsman, I read and watch sports. But I am also good at table-tennis.",
+            "sd": "(4) انٽرويو وٺندڙ: توهان جا ٻيا مشغلا ڪهڙا آهن؟ طاهر: جيئن ته مان رانديگر آهيان، مان راندين بابت پڙھندو آهيان ۽ رانديون ڏسندو آهيان. پر مان ٽيبل ٽينس ۾ بهي سٺو آهيان.",
+            "ur": "(4) انٹرویو لینے والی: آپ کے دوسرے مشغلے کیا ہیں؟ طاہر: چونکہ میں کہلاڑی ہوں، میں کہیلوں کے بارے میں پڑہتا ہوں اور کہیل دیکہتا ہوں۔ لیکن میں ٹیبل ٹینس میں بہی اچہا ہوں۔"
+          },
+          {
+            "en": "(5) Interviewer: How has gymnastics helped you? Tahir: I think it has made me a better sportsman, a good teacher and a physically stronger person. Some other benefits have been that my body balance has become good and I have developed self-control. Moreover, since now I coach children in gymnastics, I have become very tolerant.",
+            "sd": "(5) انٽرويو وٺندڙ: جمناسٽڪ توهان جي ڪهڙي مدد ڪئي آهي؟ طاهر: منهنجي خيال ۾، جمناسٽڪ مون کي هڪ بهتر رانديگر، هڪ سٺو استاد ۽ جسماني طور تي مضبوط ماڻهو بڻايو آهي. ان جا ڪجهه ٻيا فائدا بهي هي آهن: منهنجي جسم جو توازن بهتر ٿي ويو آهي ۽ مون پاڻ تي ضابطو رکڻ سکيو آهي. ان کان سواءِ، جيئن ته مان هاڻي ٻارن کي جمناسٽڪ سيکاريندو آهيان، مان گھڻو برداشت ڪندڙ ٿي ويو آهيان.",
+            "ur": "(5) انٹرویو لینے والی: جمناسٹک نے آپ کی کیسے مدد کی ہے؟ طاہر: میرے خیال میں اس نے مجہے ایک بہتر کہلاڑی، ایک اچہا استاد اور جسمانی طور پر ایک مضبوط انسان بنا دیا ہے۔ اس کے کچہ دوسرے فائدے یہ ہوئے ہیں کہ میرے جسم کا توازن بہتر ہو گیا ہے اور میں نے خود پر قابو پانا سیکہ لیا ہے۔ اس کے علاوہ، چونکہ اب میں بچوں کو جمناسٹک سکہاتا ہوں، میں بہت برداشت کرنے والا بن گیا ہوں۔"
+          },
+          {
+            "en": "(6) Interviewer: What do you need to do to become a successful gymnast? Tahir: I follow a strict routine. I get up early and sleep early. I eat on time and practice every day. I keep fit. I jog daily. I respect the rules of sports and I respect everyone. If you want to be successful in any sports, you have to practice very hard, stick to your goal, and be fair!",
+            "sd": "(6) انٽرويو وٺندڙ: ڪامياب جمناسٽ ٿيڻ لاءِ توهان کي ڇا ڪرڻو پوي ٿو؟ طاهر: مان سخت معمول تي هلندو آهيان. مان سوير اٿندو آهيان ۽ سوير ننڊ ڪندو آهيان. مان وقت تي کائيندو آهيان ۽ روزانو مشق ڪندو آهيان. مان پاڻ کي فٽ رکندو آهيان. مان روزانو جاگنگ ڪندو آهيان. مان راندين جي اصولن جي عزت ڪندو آهيان ۽ سڀني جي عزت ڪندو آهيان. جيڪڏهن توهان ڪنهن بهي راند ۾ ڪامياب ٿيڻ گھرندا آهيو ته توهان کي سخت مشق ڪرڻي پوندي، پنهنجي مقصد تي قائم رھڻو پوندو ۽ ايماندار رھڻو پوندو!",
+            "ur": "(6) انٹرویو لینے والی: کامیاب جمناسٹ بننے کے لیے آپ کو کیا کرنا پڑتا ہے؟ طاہر: میں سخت معمول پر عمل کرتا ہوں۔ میں صبح جلدی اٹہتا ہوں اور جلدی سوتا ہوں۔ میں وقت پر کہاتا ہوں اور روزانہ مشق کرتا ہوں۔ میں خود کو فٹ رکہتا ہوں۔ میں روزانہ جاگنگ کرتا ہوں۔ میں کہیلوں کے اصولوں کا احترام کرتا ہوں اور سب کا احترام کرتا ہوں۔ اگر آپ کسی بہی کہیل میں کامیاب ہونا چاہتے ہیں تو آپ کو بہت سخت محنت کرنی ہوگی، اپنے مقصد پر قائم رہنا ہوگا اور ایماندار رہنا ہوگا!"
+          },
+          {
+            "en": "(7) Interviewer: What else do we need to do to become a good sports person? Tahir: We need to develop mental and physical stamina. If you eat healthy food, you will be fit. Spicy and oily foods are harmful. You should also keep away from unhealthy habits. If you smoke, your lungs will become weak. Paan, chaaliya, tobacco and gutka are dangerous for everybody, but especially more so for sportspeople.",
+            "sd": "(7) انٽرويو وٺندڙ: سٺو رانديگر ٿيڻ لاءِ اسان کي ٻيو ڇا ڪرڻ گھرجي؟ طاهر: اسان کي ذهني ۽ جسماني طاقت وڌائڻ گھرجي. جيڪڏهن توهان صحتمند کاڌو کائيندا آهيو ته توهان فٽ رھندا آهيو. مصالحيدار ۽ تيل وارو کاڌو نقصانڪار آهي. توهان کي خراب عادتن کان بهي پري رھڻ گھرجي. جيڪڏهن توهان سگريٽ پيئندا آهيو ته توهان جا ڦڦڙا ڪمزور ٿي ويندا آهن. پان، ڇاليا، تمباکو ۽ گٽڪو سڀني لاءِ خطرناڪ آهن، پر رانديگرن لاءِ خاص طور تي وڌيڪ خطرناڪ آهن.",
+            "ur": "(7) انٹرویو لینے والی: اچہا کہلاڑی بننے کے لیے ہمیں اور کیا کرنا چاہیے؟ طاہر: ہمیں ذہنی اور جسمانی طاقت بڑہانی چاہیے۔ اگر آپ صحت بخش غذا کہائیں گے تو فٹ رہیں گے۔ مصالحے دار اور تیل والے کہانے نقصان دہ ہیں۔ آپ کو بری عادتوں سے بہی دور رہنا چاہیے۔ اگر آپ سگریٹ پیتے ہیں تو آپ کے پہیپہڑے کمزور ہو جائیں گے۔ پان، چہالیہ، تمباکو اور گٹکا سب کے لیے خطرناک ہیں، لیکن کہلاڑیوں کے لیے خاص طور پر زیادہ خطرناک ہیں۔"
+          },
+          {
+            "en": "(8) Interviewer: What else do you do? Tahir: Allah has given me the talent to help children interested in sports and gymnastics. I have coached more than a thousand children in gymnastics.",
+            "sd": "(8) انٽرويو وٺندڙ: توهان ٻيو ڇا ڪندا آهيو؟ طاهر: الله مون کي اها صلاحيت ڏني آهي ته مان راندين ۽ جمناسٽڪ ۾ دلچسپي رکندڙ ٻارن جي مدد ڪريان. مون هڪ هزار کان وڌيڪ ٻارن کي جمناسٽڪ سيکاري آهي.",
+            "ur": "(8) انٹرویو لینے والی: آپ اور کیا کرتے ہیں؟ طاہر: اللہ نے مجہے کہیلوں اور جمناسٹک میں دلچسپی رکہنے والے بچوں کی مدد کرنے کی صلاحیت دی ہے۔ میں ایک ہزار سے زیادہ بچوں کو جمناسٹک سکہا چکا ہوں۔"
+          },
+          {
+            "en": "(9) Interviewer: How is gymnastics good for us? Tahir: Gymnastics is a sport so it is healthy. It relaxes stiff muscles and it calms stress. It is fun too!",
+            "sd": "(9) انٽرويو وٺندڙ: جمناسٽڪ اسان لاءِ ڪهڙي طرح سٺي آهي؟ طاهر: جمناسٽڪ هڪ راند آهي، تنهنڪري اها صحت لاءِ سٺي آهي. اها سخت عضون کي آرام ڏئي ٿي ۽ ذهني دٻاءُ کي گھٽ ڪري ٿي. ۽ ان ۾ وڏو مزو آهي!",
+            "ur": "(9) انٹرویو لینے والی: جمناسٹک ہمارے لیے کیسے اچہی ہے؟ طاہر: جمناسٹک ایک کہیل ہے اس لیے یہ صحت کے لیے اچہی ہے۔ یہ اکڑے ہوئے پٹہوں کو آرام دیتی ہے اور ذہنی دباؤ کو کم کرتی ہے۔ اور اس میں بڑا مزہ ہے!"
+          },
+          {
+            "en": "(10) Interviewer: Can anybody take up gymnastics if they want to? Tahir: Why not! It is easier for children because their bones are soft and flexible. It is best to start when a child is about five years old.",
+            "sd": "(10) انٽرويو وٺندڙ: جيڪڏهن ڪو بهي جمناسٽڪ سکڻ گھري ته ڇا هو اها سکي سگھي ٿو؟ طاهر: ڇو نه! ٻارن لاءِ اهو آسان آهي، ڇاڪاڻته انهن جون هڏيون نرم ۽ لچڪدار هونديون آهن. شروع ڪرڻ لاءِ سڀ کان سٺو وقت اهو آهي جڏهن ٻار تقريبن پنجن سالن جو هجي.",
+            "ur": "(10) انٹرویو لینے والی: اگر کوئی جمناسٹک سیکہنا چاہے تو کیا وہ سیکہ سکتا ہے؟ طاہر: کیوں نہیں! بچوں کے لیے یہ آسان ہے کیونکہ ان کی ہڈیاں نرم اور لچکدار ہوتی ہیں۔ شروع کرنے کی بہترین عمر تقریباً پانچ سال ہے۔"
+          },
+          {
+            "en": "(11) Interviewer: What message would you like to give to the children of Pakistan? Tahir: Have faith in Allah. Respect your parents. Help whenever and wherever you can. And never be selfish! Also, have a daily and weekly time-table. Pick up a healthy and positive sport and work hard. Sports keep our mind and body active. All in all, work, play, and work! The path to success will become very easy!",
+            "sd": "(11) انٽرويو وٺندڙ: توهان پاڪستان جي ٻارن کي ڪهڙو پيغام ڏيڻ گھرندا آهيو؟ طاهر: الله تي ايمان رکو. پنهنجي ماءُ پيءُ جي عزت ڪريو. جڏهن بهي ۽ جتي بهي سگھو، مدد ڪريو. ۽ ڪڏهن بهي خودغرض نه ٿيو! ان کان سواءِ، روزانو ۽ هفتيوار وقت جو جدول رکو. ڪا صحتمند ۽ مثبت راند کنيو ۽ سخت محنت ڪريو. رانديون اسان جي ذهن ۽ جسم کي سرگرم رکن ٿيون. خلاصو، ڪم ڪريو، راند کيڏو ۽ وري ڪم ڪريو! ڪاميابي جو رستو گھڻو آسان ٿي ويندو!",
+            "ur": "(11) انٹرویو لینے والی: آپ پاکستان کے بچوں کو کیا پیغام دینا چاہیں گے؟ طاہر: اللہ پر ایمان رکہو۔ اپنے والدین کا احترام کرو۔ جب بہی اور جہاں بہی ہو سکے مدد کرو۔ اور کبہی خودغرض نہ بنو! اس کے علاوہ، روزانہ اور ہفتہ وار شیڈول بناؤ۔ کوئی صحت بخش اور مثبت کہیل اپناؤ اور سخت محنت کرو۔ کہیل ہمارے ذہن اور جسم کو چست رکہتے ہیں۔ غرض یہ کہ کام کرو، کہیلو اور پہر کام کرو! کامیابی کا راستہ بہت آسان ہو جائے گا!"
+          }
+        ],
+        "section": "6.1",
+        "unit": 6,
+        "unitTitle": "Learning Through Personal Interests, Abilities And Hobbies"
+      }
+    ],
     "sindhiExsolutions": [
       {
         "reading": "خدا جي وڏائي",
