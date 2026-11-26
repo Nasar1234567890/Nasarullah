@@ -8654,6 +8654,3043 @@ STUDY.xii = {
         ]
       }
     ],
+    "lessonTexts": [
+      {
+        "unit": 1,
+        "unitTitle": "Trustworthiness and Tolerance",
+        "lesson": "A Devoted Friend",
+        "section": "1.1",
+        "bookPages": "2-13",
+        "paragraphs": [
+          {
+            "en": "Once upon a time there was an honest little fellow named Hans. He lived in a tiny cottage all by himself, and every day he worked in his garden. In all the country-side there was no garden so lovely as his. Sweet-william grew there, and Gilly-flowers, and Shepherds'-purses, and Fair-maids of France. There were damask Roses, and yellow Roses, lilac Crocuses, and gold, purple Violets and white. Columbine and Lady smock, Marjoram and Wild Basil, the Cowslip and the Flower-de-luce, the Daffodil and the Clove-Pink bloomed or blossomed in their proper order as the months went by, one flower taking another flower's place, so that there were always beautiful things to look at, and pleasant odours to smell.",
+            "sd": "هڪ دفعي جو ذڪر آهي ته هڪ ايماندار ننڍڙو ماڻهو هو، جنهن جو نالو هانس هو. هو هڪ ننڍڙي جھوپڙي ۾ اڪيلو رھندو هو، ۽ هر روز پنهنجي باغ ۾ ڪم ڪندو هو. سڄي ڳوٺ ۾ هن جي باغ جهڙو سهڻو ٻيو ڪو باغ ڪونه هو. اتي سويٽ وليم، گلي فلاور، شيفرڊس پرس ۽ فرانس جون فيئر ميڊز اُگندا هئا. اتي دمشقي گلاب، پيلا گلاب، نيلگون زعفران، سونهرا، واڱڻائي ۽ اڇا وايوليٽ هئا. ڪولمبائن ۽ ليڊي اسماڪ، مارجورم ۽ جنگلي نازبو، ڪائو سلپ ۽ فلاور ڊي لوس، ڊيفوڊل ۽ ڪلوو پنڪ مهينن جي گذرڻ سان پنهنجي پنهنجي موسم ۾ ٽڙندا هئا، هڪ گل ٻئي گل جي جاءِ وٺندو هو، ان ڪري اتي ڏسڻ لاءِ هميشه سهڻيون شيون ۽ سونگھڻ لاءِ وڻندڙ خوشبو موجود هوندي هئي.",
+            "ur": "ایک دفعہ کا ذکر ہے کہ ایک ایماندار چھوٹا سا آدمی تھا، جس کا نام ہانس تھا۔ وہ ایک چھوٹی سی جھونپڑی میں اکیلا رہتا تھا، اور ہر روز اپنے باغ میں کام کرتا تھا۔ سارے دیہات میں اس کے باغ جیسا خوبصورت کوئی اور باغ نہ تھا۔ وہاں سویٹ ولیم، گلی فلاور، شیفرڈس پرس اور فرانس کی فیئر میڈز اگتی تھیں۔ وہاں دمشقی گلاب، پیلے گلاب، نیلگوں زعفران، سنہرے، ارغوانی اور سفید وایولٹ تھے۔ کولمبائن اور لیڈی اسماک، مارجورم اور جنگلی نازبو، کاؤ سلپ اور فلاور ڈی لوس، ڈیفوڈل اور کلوو پنک مہینوں کے گزرنے کے ساتھ اپنی اپنی موسم میں کھلتے تھے، ایک پھول دوسرے پھول کی جگہ لیتا تھا، اس لیے وہاں دیکھنے کے لیے ہمیشہ خوبصورت چیزیں اور سونگھنے کے لیے دلکش خوشبو موجود ہوتی تھی۔"
+          },
+          {
+            "en": "Little Hans had a great many friends, but the most devoted friend of all was big Hugh the Miller. Indeed, so devoted was the rich Miller to little Hans, that he would never go by his garden without leaning over the wall and plucking a large nosegay, or a handful of sweet herbs, or filling his pockets with plums and cherries if it was the fruit season. “Real friends should have everything in common,” the Miller used to say, and little Hans nodded and smiled, and felt very proud of having a friend with such noble ideas.",
+            "sd": "ننڍڙي هانس جا گھڻا دوست هئا، پر انهن سڀني ۾ سڀ کان وڌيڪ وفادار دوست وڏو هيو ملر هو. سچ ته اهو آهي ته امير ملر ننڍڙي هانس سان ايترو ته وفادار هو جو هو هن جي باغ وٽان گذرندي ديوار تي جھڪي وڏو گلدستو ٽوڙڻ، يا خوشبودار جڙي ٻوٽين جي مٺ ڀرڻ، يا ميوي جي موسم ۾ کيسا آلو بخارن ۽ چيرين سان ڀرڻ کان سواءِ ڪڏهن بهي نه گذرندو هو. ملر چوندو هو ته ”سچن دوستن وٽ هر شيءِ گڏيل هئڻ گھرجي.“ ۽ ننڍڙو هانس ڪنڌ لوڏي مرڪندو هو، ۽ اهڙن اعليٰ خيالن واري دوست تي کيس وڏو فخر ٿيندو هو.",
+            "ur": "چھوٹے ہانس کے بہت سے دوست تھے، لیکن ان سب میں سب سے زیادہ وفادار دوست بڑا ہیو ملر تھا۔ سچ تو یہ ہے کہ امیر ملر چھوٹے ہانس سے اتنا وفادار تھا کہ وہ اس کے باغ کے پاس سے گزرتے ہوئے دیوار پر جھک کر بڑا گلدستہ توڑے، یا خوشبودار جڑی بوٹیوں کی مٹھی بھرے، یا پھلوں کے موسم میں جیبیں آلو بخاروں اور چیریوں سے بھرے بغیر کبھی نہ گزرتا تھا۔ ملر کہا کرتا تھا کہ ”سچے دوستوں کے پاس ہر چیز مشترکہ ہونی چاہیے۔“ اور چھوٹا ہانس سر ہلا کر مسکراتا تھا، اور ایسے اعلیٰ خیالات والے دوست پر اسے بڑا فخر ہوتا تھا۔"
+          },
+          {
+            "en": "Sometimes, indeed, the neighbours thought it strange that the rich Miller never gave little Hans anything in return, though he had a hundred sacks of flour stored away in his mill, and six milch cows, and a large flock of woolly sheep; but Hans never troubled his head about these things, and nothing gave him greater pleasure than to listen to all the wonderful things the Miller used to say about the unselfishness of true friendship.",
+            "sd": "ڪڏهن ڪڏهن پاڙيسرين کي واقعي عجيب لڳندو هو ته امير ملر ننڍڙي هانس کي بدلي ۾ ڪڏهن بهي ڪجهه نه ڏيندو هو، جيتوڻيڪ هن جي مل ۾ اٽي جون سؤ ٻوريون رکيل هيون، ۽ ڇهه ڏڌ ڏيندڙ ڳئون ۽ اُن وارن رڍن جو وڏو ڌڻ هو. پر هانس انهن ڳالهين جي ڪڏهن بهي پرواه نه ڪندو هو، ۽ هن کي سڀ کان وڌيڪ خوشي ان ڳالهه مان ملندي هئي جو ملر سچي دوستي جي بي غرضي بابت جيڪي حيرت انگيز ڳالهيون ڪندو هو، اهي ٻڌندو هو.",
+            "ur": "کبھی کبھی پڑوسیوں کو واقعی عجیب لگتا تھا کہ امیر ملر چھوٹے ہانس کو بدلے میں کبھی کچھ نہیں دیتا تھا، حالانکہ اس کی مل میں آٹے کی سو بوریاں رکھی تھیں، اور چھ دودھ دینے والی گائیں اور اون والی بھیڑوں کا بڑا ریوڑ تھا۔ لیکن ہانس ان باتوں کی کبھی پروا نہیں کرتا تھا، اور اسے سب سے زیادہ خوشی اس بات سے ملتی تھی کہ ملر سچی دوستی کی بے غرضی کے بارے میں جو حیرت انگیز باتیں کرتا تھا، وہ سنتا تھا۔"
+          },
+          {
+            "en": "So little Hans worked away in his garden. During the spring, the summer, and the autumn he was very happy, but when the winter came, and he had no fruit or flowers to bring to the market, he suffered a good deal from cold and hunger, and often had to go to bed without any supper but a few dried pears or some hard nuts. In the winter, also, he was extremely lonely, as the Miller never came to see him then.",
+            "sd": "اهڙي طرح ننڍڙو هانس پنهنجي باغ ۾ ڪم ڪندو رھندو هو. بهار، اونهاري ۽ سرءُ ۾ هو ڏاڍو خوش هوندو هو، پر جڏهن سيارو ايندو هو ۽ هن وٽ بازار ۾ وٺي وڃڻ لاءِ نه ڪو ميوو هوندو هو نه گل، ته هو ٿڌ ۽ بک کان ڏاڍو ڏکيو ٿيندو هو، ۽ اڪثر رات جو بغير ماني جي، رڳو ڪجهه سڪل ناشپاتيون يا ڪجهه سخت اکروٽ کائي سمھڻو پوندو هو. سياري ۾ هو ڏاڍو اڪيلو بهي ٿيندو هو، ڇاڪاڻ ته ملر ان وقت هن کي ڏسڻ ڪڏهن بهي نه ايندو هو.",
+            "ur": "اس طرح چھوٹا ہانس اپنے باغ میں کام کرتا رہتا تھا۔ بہار، گرمی اور خزاں میں وہ بہت خوش ہوتا تھا، لیکن جب سردی آتی تھی اور اس کے پاس بازار لے جانے کے لیے نہ کوئی پھل ہوتا تھا نہ پھول، تو وہ سردی اور بھوک سے بہت تکلیف اٹھاتا تھا، اور اکثر رات کو بغیر کھانے کے، صرف کچھ سوکھے ناشپاتی یا کچھ سخت اخروٹ کھا کر سونا پڑتا تھا۔ سردیوں میں وہ بہت اکیلا بھی ہوتا تھا، کیونکہ ملر اس وقت اسے دیکھنے کبھی نہیں آتا تھا۔"
+          },
+          {
+            "en": "“There is no good in my going to see little Hans as long as the snow lasts,” the Miller used to say to his wife, “for when people are in trouble they should be left alone, and not be bothered by visitors. That at least is my idea about friendship, and I am sure I am right. So I shall wait till the spring comes, and then I shall pay him a visit, and he will be able to give me a large basket of primroses and that will make him so happy.”",
+            "sd": "ملر پنهنجي زال کي چوندو هو ته ”جيستائين برف پئي آهي، تيستائين ننڍڙي هانس کي ڏسڻ وڃڻ جو ڪو فائدو ناهي، ڇاڪاڻ ته جڏهن ماڻهو تڪليف ۾ هجن ته انهن کي اڪيلو ڇڏڻ گھرجي، ۽ مهمانن سان تنگ نه ڪرڻ گھرجي. دوستي بابت گھٽ ۾ گھٽ منهنجو خيال اهو آهي، ۽ مون کي پڪ آهي ته مان صحيح آهيان. ان ڪري مان بهار جي اچڻ جو انتظار ڪندس، ۽ پوءِ هن وٽ ويندس، ۽ هو مون کي پرائمروز جي وڏي ٽوڪري ڏيئي سگھندو، ۽ ان سان هو ڏاڍو خوش ٿيندو.“",
+            "ur": "ملر اپنی بیوی سے کہا کرتا تھا کہ ”جب تک برف پڑی ہے، تب تک چھوٹے ہانس کو دیکھنے جانے کا کوئی فائدہ نہیں، کیونکہ جب لوگ تکلیف میں ہوں تو انہیں اکیلا چھوڑ دینا چاہیے، اور مہمانوں سے تنگ نہیں کرنا چاہیے۔ دوستی کے بارے میں کم از کم میرا خیال یہی ہے، اور مجھے یقین ہے کہ میں صحیح ہوں۔ اس لیے میں بہار کے آنے کا انتظار کروں گا، اور پھر اس کے پاس جاؤں گا، اور وہ مجھے پرائم روز کی بڑی ٹوکری دے سکے گا، اور اس سے وہ بہت خوش ہوگا۔“"
+          },
+          {
+            "en": "“You are certainly very thoughtful about others,” answered the Wife, as she sat in her comfortable armchair by the big pinewood fire; “very thoughtful indeed. It is quite a treat to hear you talk about friendship. I am sure the clergyman himself could not say such beautiful things as you do, though he does live in a three-storied house, and wear a gold ring on his little finger.”",
+            "sd": "زال جواب ڏنو، جڏهن هوءَ وڏي ديودار جي ڪاٺ جي باه وٽ آرامده ڪرسي تي ويٺي هئي، ته ”تون ٻين بابت واقعي ڏاڍو خيال رکندڙ آهين، بلڪل خيال رکندڙ آهين. دوستي بابت تنهنجون ڳالهيون ٻڌڻ وڏي خوشي جي ڳالهه آهي. مون کي پڪ آهي ته پادري بهي اهڙيون سهڻيون ڳالهيون نه ڪري سگھندو، جيتوڻيڪ هو ٽن ماڙ واري گھر ۾ رھي ٿو، ۽ پنهنجي ننڍڙي آڱر ۾ سون جي مُنڊي پائي ٿو.“",
+            "ur": "بیوی نے جواب دیا، جب وہ بڑی دیودار کی لکڑی کی آگ کے پاس آرام دہ کرسی پر بیٹھی تھی، کہ ”تم دوسروں کے بارے میں واقعی بہت خیال رکھنے والے ہو، بالکل خیال رکھنے والے ہو۔ دوستی کے بارے میں تمہاری باتیں سننا بڑی خوشی کی بات ہے۔ مجھے یقین ہے کہ پادری بھی ایسی خوبصورت باتیں نہیں کہہ سکتا، حالانکہ وہ تین منزلہ گھر میں رہتا ہے، اور اپنی چھوٹی انگلی میں سونے کی انگوٹھی پہنتا ہے۔“"
+          },
+          {
+            "en": "“But could we not ask little Hans up here?” said the Miller's youngest son. “If poor Hans is in trouble I will give him half my porridge, and show him my white rabbits.”",
+            "sd": "ملر جي ننڍڙي پٽ چيو ته ”پر اسان ننڍڙي هانس کي هتي مٿي ڇو نه گھرايون؟ جيڪڏهن غريب هانس تڪليف ۾ آهي ته مان هن کي پنهنجي دليو جو اڌ ڏيندس، ۽ هن کي پنهنجا اڇا خرگوش ڏيکاريندس.“",
+            "ur": "ملر کے سب سے چھوٹے بیٹے نے کہا کہ ”لیکن ہم چھوٹے ہانس کو یہاں اوپر کیوں نہ بلائیں؟ اگر غریب ہانس تکلیف میں ہے تو میں اسے اپنے دلیے کا آدھا دوں گا، اور اسے اپنے سفید خرگوش دکھاؤں گا۔“"
+          },
+          {
+            "en": "“What a silly boy you are”!” cried the Miller; “I really don't know what is the use of sending you to school. You seem not to learn anything. Why, if little Hans came up here, and saw our warm fire, and our good supper, and our great cask of red wine, he might get envious, and envy is a most terrible thing, and would spoil anybody's nature. I certainly will not allow Hans' nature to be spoiled. I am his best friend, and I will always watch over him, and see that he is not led into any temptations. Besides, if Hans came here, he might ask me to let him have some flour on credit, and that I could not do. Flour is one thing, and friendship is another, and they should not be confused. Why, the words are spelt differently, and mean quite different things. Everybody can see that.”",
+            "sd": "ملر رڙ ڪري چيو ته ”تون ڪيترو نه بيوقوف ڇوڪرو آهين! مون کي واقعي خبر ناهي ته توکي اسڪول موڪلڻ جو ڪهڙو فائدو آهي. لڳي ٿو ته تون ڪجهه بهي نه ٿو سکين. ڇاڪاڻ ته جيڪڏهن ننڍڙو هانس هتي مٿي اچي، ۽ اسان جي گرم باه، ۽ اسان جي سٺي ماني، ۽ ڳاڙهي شراب جو وڏو پيپو ڏسي ته کيس حسد ٿي سگھي ٿو، ۽ حسد سڀ کان وڌيڪ خراب شيءِ آهي، ۽ اهو ڪنهن بهي ماڻهو جي طبيعت خراب ڪري ڇڏيندو. مان يقينن هانس جي طبيعت خراب ٿيڻ نه ڏيندس. مان هن جو بهترين دوست آهيان، ۽ مان هميشه هن جو خيال رکندس، ۽ ڏسندس ته هو ڪنهن لالچ ۾ نه پوي. ان کان سواءِ، جيڪڏهن هانس هتي اچي ته هو مون کان اٽو اُڌار تي وٺڻ لاءِ چئي سگھي ٿو، ۽ اهو مان ڪري نه سگھندس. اٽو هڪ شيءِ آهي، ۽ دوستي ٻي شيءِ آهي، ۽ انهن کي ملائڻ نه گھرجي. لفظ بهي الڳ الڳ لکيا وڃن ٿا، ۽ انهن جي معنيٰ بهي بلڪل الڳ آهي. اهو هرڪو ڏسي سگھي ٿو.“",
+            "ur": "ملر نے چیخ کر کہا کہ ”تم کتنے بیوقوف لڑکے ہو! مجھے واقعی نہیں معلوم کہ تمہیں اسکول بھیجنے کا کیا فائدہ ہے۔ لگتا ہے کہ تم کچھ بھی نہیں سیکھتے۔ کیونکہ اگر چھوٹا ہانس یہاں اوپر آئے، اور ہماری گرم آگ، اور ہمارا اچھا کھانا، اور سرخ شراب کا بڑا پیپا دیکھے تو اسے حسد ہو سکتا ہے، اور حسد سب سے زیادہ بری چیز ہے، اور وہ کسی بھی آدمی کی طبیعت خراب کر دیتا ہے۔ میں یقیناً ہانس کی طبیعت خراب نہیں ہونے دوں گا۔ میں اس کا بہترین دوست ہوں، اور میں ہمیشہ اس کا خیال رکھوں گا، اور دیکھوں گا کہ وہ کسی لالچ میں نہ پڑے۔ اس کے علاوہ، اگر ہانس یہاں آئے تو وہ مجھ سے آٹا ادھار پر لینے کے لیے کہہ سکتا ہے، اور وہ میں نہیں کر سکتا۔ آٹا ایک چیز ہے، اور دوستی دوسری چیز ہے، اور انہیں ملانا نہیں چاہیے۔ لفظ بھی الگ الگ لکھے جاتے ہیں، اور ان کے معنی بھی بالکل الگ ہیں۔ یہ ہر کوئی دیکھ سکتا ہے۔“"
+          },
+          {
+            "en": "“How well you talk”! said the Miller's Wife, pouring herself out a large glass of warm ale; “really I feel quite drowsy. It is just like being in church.”",
+            "sd": "ملر جي زال گرم ايل جو وڏو گلاس ڀريندي چيو ته ”تون ڪيترو نه سٺو ٿو ڳالهائين! واقعي مون کي ڏاڍي ننڊ اچي رھي آهي. بلڪل ائين لڳي ٿو ڄڻ مان گرجا گھر ۾ ويٺي آهيان.“",
+            "ur": "ملر کی بیوی نے گرم ایل کا بڑا گلاس بھرتے ہوئے کہا کہ ”تم کتنا اچھا بولتے ہو! واقعی مجھے بہت نیند آ رہی ہے۔ بالکل ایسا لگتا ہے جیسے میں گرجا گھر میں بیٹھی ہوں۔“"
+          },
+          {
+            "en": "“Lots of people act well,” answered the Miller; “but very few people talk well, which shows that talking is much the more difficult thing of the two, and much the finer thing also”; and he looked sternly across the table at his little son, who felt so ashamed of himself that he hung his head down, and grew quite scarlet, and began to cry into his tea.",
+            "sd": "ملر جواب ڏنو ته ”گھڻا ماڻهو سٺو عمل ڪن ٿا، پر تمام ٿورا ماڻهو سٺو ڳالهائين ٿا، جنهن مان ظاهر ٿئي ٿو ته ڳالهائڻ انهن ٻنهي ۾ گھڻو ڏکيو ڪم آهي، ۽ گھڻو اعليٰ ڪم بهي آهي.“ ۽ هن ميز جي پار پنهنجي ننڍڙي پٽ ڏانهن سختي سان ڏٺو، جيڪو پاڻ تي ايترو ته شرمسار ٿيو جو هن ڪنڌ جھڪائي ڇڏيو، ۽ بلڪل ڳاڙهو ٿي ويو، ۽ پنهنجي چانهه ۾ روئڻ لڳو.",
+            "ur": "ملر نے جواب دیا کہ ”بہت سے لوگ اچھا عمل کرتے ہیں، لیکن بہت کم لوگ اچھا بولتے ہیں، جس سے ظاہر ہوتا ہے کہ بولنا ان دونوں میں بہت مشکل کام ہے، اور بہت اعلیٰ کام بھی ہے۔“ اور اس نے میز کے پار اپنے چھوٹے بیٹے کی طرف سختی سے دیکھا، جو خود پر اتنا شرمندہ ہوا کہ اس نے سر جھکا دیا، اور بالکل سرخ ہو گیا، اور اپنی چائے میں رونے لگا۔"
+          },
+          {
+            "en": "As soon as the winter was over, and the primroses began to open their pale yellow stars, the Miller said to his wife that he would go down and see little Hans.",
+            "sd": "جيئن ئي سيارو گذريو، ۽ پرائمروز پنهنجا هلڪا پيلا تارا کولڻ لڳا، ملر پنهنجي زال کي چيو ته هو هيٺ وڃي ننڍڙي هانس کي ڏسندو.",
+            "ur": "جیسے ہی سردی گزری، اور پرائم روز نے اپنے ہلکے پیلے ستارے کھولنے شروع کیے، ملر نے اپنی بیوی سے کہا کہ وہ نیچے جا کر چھوٹے ہانس کو دیکھے گا۔"
+          },
+          {
+            "en": "“Why, what a good heart you have”! cried his Wife; “you are always thinking of others. And mind you take the big basket with you for the flowers.”",
+            "sd": "هن جي زال رڙ ڪري چيو ته ”واه، تنهنجو دل ڪيترو نه سٺو آهي! تون هميشه ٻين بابت سوچيندو رھين ٿو. ۽ ياد رک ته گلن لاءِ وڏي ٽوڪري پاڻ سان گڏ وٺي وڃ.“",
+            "ur": "اس کی بیوی نے چیخ کر کہا کہ ”واہ، تمہارا دل کتنا اچھا ہے! تم ہمیشہ دوسروں کے بارے میں سوچتے رہتے ہو۔ اور خیال رکھنا کہ پھولوں کے لیے بڑی ٹوکری اپنے ساتھ لے جانا۔“"
+          },
+          {
+            "en": "So the Miller tied the sails of the windmill together with a strong iron chain, and went down the hill with the basket on his arm.",
+            "sd": "ان ڪري ملر ونڊ مل جي پنن کي مضبوط لوهه جي زنجير سان گڏجي ٻڌو، ۽ ٽوڪري ٻانهن تي رکي ٽڪري کان هيٺ هليو ويو.",
+            "ur": "اس لیے ملر نے ونڈ مل کے پروں کو مضبوط لوہے کی زنجیر سے ایک ساتھ باندھا، اور ٹوکری بازو پر رکھ کر پہاڑی سے نیچے چلا گیا۔"
+          },
+          {
+            "en": "“Good morning, little Hans,” said the Miller.",
+            "sd": "ملر چيو ته ”صبح بخير، ننڍڙا هانس.“",
+            "ur": "ملر نے کہا کہ ”صبح بخیر، چھوٹے ہانس۔“"
+          },
+          {
+            "en": "“Good morning,” said Hans, leaning on his spade, and smiling from ear to ear.",
+            "sd": "هانس پنهنجي ڪوڏر تي ٽيڪ ڏيئي، ڪن کان ڪن تائين مرڪندي چيو ته ”صبح بخير.“",
+            "ur": "ہانس نے اپنے بیلچے پر ٹیک دیتے ہوئے، کان سے کان تک مسکراتے ہوئے کہا کہ ”صبح بخیر۔“"
+          },
+          {
+            "en": "“And how have you been all the winter?” said the Miller.",
+            "sd": "ملر چيو ته ”۽ سڄي سياري ۾ تون ڪيئن رھيو آهين؟“",
+            "ur": "ملر نے کہا کہ ”اور ساری سردیوں میں تم کیسے رہے ہو؟“"
+          },
+          {
+            "en": "“Well, really,” cried Hans, “it is very good of you to ask, very good indeed. I am afraid I had rather a hard time of it, but now the spring has come, and I am quite happy, and all my flowers are doing well.”",
+            "sd": "هانس رڙ ڪري چيو ته ”سچ پڇين ته، پڇڻ تنهنجي وڏي مهرباني آهي، واقعي وڏي مهرباني آهي. مون کي ڊپ آهي ته منهنجو وقت ڪافي ڏکيو گذريو، پر هاڻي بهار اچي وئي آهي، ۽ مان بلڪل خوش آهيان، ۽ منهنجا سڀئي گل سٺا ٿي رھيا آهن.“",
+            "ur": "ہانس نے چیخ کر کہا کہ ”سچ پوچھو تو، پوچھنا تمہاری بڑی مہربانی ہے، واقعی بڑی مہربانی ہے۔ مجھے ڈر ہے کہ میرا وقت کافی مشکل گزرا، لیکن اب بہار آ گئی ہے، اور میں بالکل خوش ہوں، اور میرے سارے پھول اچھے ہو رہے ہیں۔“"
+          },
+          {
+            "en": "“We often talked of you during the winter, Hans,” said the Miller, “and wondered how you were getting on.”",
+            "sd": "ملر چيو ته ”هانس، سياري دوران اسان اڪثر تنهنجي باري ۾ ڳالهائيندا هئاسين، ۽ حيران ٿيندا هئاسين ته تون ڪيئن گذر ڪري رھيو آهين.“",
+            "ur": "ملر نے کہا کہ ”ہانس، سردیوں کے دوران ہم اکثر تمہارے بارے میں بات کرتے تھے، اور حیران ہوتے تھے کہ تم کیسے گزارا کر رہے ہو۔“"
+          },
+          {
+            "en": "“That was kind of you,” said Hans; “I was half afraid you had forgotten me.”",
+            "sd": "هانس چيو ته ”اها تنهنجي مهرباني هئي. مون کي اڌ ڊپ هو ته تون مون کي وساري ڇڏيو هوندين.“",
+            "ur": "ہانس نے کہا کہ ”یہ تمہاری مہربانی تھی۔ مجھے آدھا ڈر تھا کہ تم مجھے بھول گئے ہوگے۔“"
+          },
+          {
+            "en": "“Hans, I am surprised at you,” said the Miller; “friendship never forgets. That is the wonderful thing about it, but I am afraid you don't understand the poetry of life. How lovely your primroses are looking, by-the-bye”!",
+            "sd": "ملر چيو ته ”هانس، مون کي توتي حيرت ٿي رھي آهي. دوستي ڪڏهن بهي نه ٿي وساري. اها ئي ان جي حيرت انگيز ڳالهه آهي، پر مون کي ڊپ آهي ته تون زندگي جي شاعري کي نه ٿو سمجھين. تنهنجا پرائمروز ڪيترا نه سهڻا لڳي رھيا آهن!“",
+            "ur": "ملر نے کہا کہ ”ہانس، مجھے تم پر حیرت ہو رہی ہے۔ دوستی کبھی نہیں بھولتی۔ یہی اس کی حیرت انگیز بات ہے، لیکن مجھے ڈر ہے کہ تم زندگی کی شاعری کو نہیں سمجھتے۔ تمہارے پرائم روز کتنے خوبصورت لگ رہے ہیں، ویسے بھی!“"
+          },
+          {
+            "en": "“They are certainly very lovely,” said Hans, “and it is a most lucky thing for me that I have so many. I am going to bring them into the market and sell them to the Burgomaster's daughter, and buy back my wheelbarrow with the money.”",
+            "sd": "هانس چيو ته ”اهي واقعي ڏاڍا سهڻا آهن، ۽ منهنجي لاءِ اها وڏي خوش قسمتي جي ڳالهه آهي ته مون وٽ اهي ايترا گھڻا آهن. مان انهن کي بازار ۾ وٺي ويندس ۽ برگوماسٽر جي نياڻي کي وڪڻي، ان پئسي سان پنهنجي هٿ گاڏي واپس خريد ڪندس.“",
+            "ur": "ہانس نے کہا کہ ”یہ واقعی بہت خوبصورت ہیں، اور میرے لیے یہ بڑی خوش قسمتی کی بات ہے کہ میرے پاس یہ اتنے زیادہ ہیں۔ میں انہیں بازار لے جاؤں گا اور برگوماسٹر کی بیٹی کو بیچ کر، اس پیسے سے اپنی ہاتھ گاڑی واپس خریدوں گا۔“"
+          },
+          {
+            "en": "“Buy back your wheelbarrow? You don't mean to say you have sold it? What a very stupid thing to do”!",
+            "sd": "ملر چيو ته ”پنهنجي هٿ گاڏي واپس خريد ڪندين؟ تنهنجو مطلب اهو ته ناهي ته تو اها وڪڻي ڇڏي آهي؟ اهو ته ڏاڍو بيوقوفي وارو ڪم آهي!“",
+            "ur": "ملر نے کہا کہ ”اپنی ہاتھ گاڑی واپس خریدو گے؟ تمہارا مطلب یہ تو نہیں کہ تم نے اسے بیچ دیا ہے؟ یہ تو بہت بیوقوفی والا کام ہے!“"
+          },
+          {
+            "en": "“Well, the fact is,” said Hans, “that I was obliged to. You see the winter was a very bad time for me, and I really had no money at all to buy bread with. So I first sold the silver buttons off my Sunday coat, and then I sold my silver chain, and then I sold my big pipe, and at last I sold my wheelbarrow. But I am going to buy them all back again now.”",
+            "sd": "هانس چيو ته ”سچ ڳالهه اها آهي ته مون کي مجبور ٿيڻو پيو. ڏس، سيارو منهنجي لاءِ ڏاڍو خراب وقت هو، ۽ مون وٽ ماني خريد ڪرڻ لاءِ بلڪل بهي پئسا ڪونه هئا. ان ڪري مون پهريان پنهنجي آچر واري ڪوٽ تان چاندي جا بٽڻ وڪڻي ڇڏيا، ۽ پوءِ پنهنجي چاندي جي زنجير وڪڻي، ۽ پوءِ پنهنجو وڏو پائيپ وڪڻي ڇڏيو، ۽ آخر ۾ پنهنجي هٿ گاڏي وڪڻي ڇڏي. پر هاڻي مان اهي سڀئي شيون واپس خريد ڪرڻ وارو آهيان.“",
+            "ur": "ہانس نے کہا کہ ”سچ بات یہ ہے کہ مجھے مجبور ہونا پڑا۔ دیکھو، سردی میرے لیے بہت برا وقت تھا، اور میرے پاس روٹی خریدنے کے لیے بالکل بھی پیسے نہیں تھے۔ اس لیے میں نے پہلے اپنے اتوار والے کوٹ سے چاندی کے بٹن بیچ دیے، اور پھر اپنی چاندی کی زنجیر بیچی، اور پھر اپنا بڑا پائپ بیچ دیا، اور آخر میں اپنی ہاتھ گاڑی بیچ دی۔ لیکن اب میں یہ سب چیزیں واپس خریدنے والا ہوں۔“"
+          },
+          {
+            "en": "“Hans,” said the Miller, “I will give you my wheelbarrow. It is not in very good repair; indeed, one side is gone, and there is something wrong with the wheel-spokes; but in spite of that I will give it to you. I know it is very generous of me, and a great many people would think me extremely foolish for parting with it, but I am not like the rest of the world. I think that generosity is the essence of friendship, and, besides, I have got a new wheelbarrow for myself. Yes, you may set your mind at ease, I will give you my wheelbarrow.",
+            "sd": "ملر چيو ته ”هانس، مان توکي پنهنجي هٿ گاڏي ڏيندس. اها گھڻي سٺي حالت ۾ ناهي؛ سچ ته اهو آهي ته ان جي هڪ پاسي وڃي رھي آهي، ۽ ڦيٿي جي تارن ۾ ڪجهه خرابي آهي؛ پر ان جي باوجود بهي مان اها توکي ڏيندس. مون کي خبر آهي ته اهو منهنجي وڏي سخاوت آهي، ۽ گھڻا ماڻهو مون کي ان کان جدا ٿيڻ تي ڏاڍو بيوقوف سمجھندا، پر مان دنيا جي باقي ماڻهن جهڙو ناهيان. منهنجو خيال آهي ته سخاوت دوستي جو اصل جوهر آهي، ۽ ان کان سواءِ، مون وٽ پنهنجي لاءِ نئين هٿ گاڏي بهي آهي. ها، تون پنهنجو دل مطمئن رک، مان توکي پنهنجي هٿ گاڏي ڏيندس.",
+            "ur": "ملر نے کہا کہ ”ہانس، میں تمہیں اپنی ہاتھ گاڑی دوں گا۔ یہ بہت اچھی حالت میں نہیں ہے؛ سچ تو یہ ہے کہ اس کی ایک طرف ختم ہو گئی ہے، اور پہیے کے تاروں میں کچھ خرابی ہے؛ لیکن اس کے باوجود بھی میں یہ تمہیں دوں گا۔ مجھے معلوم ہے کہ یہ میری بڑی سخاوت ہے، اور بہت سے لوگ مجھے اس سے جدا ہونے پر بہت بیوقوف سمجھیں گے، لیکن میں دنیا کے باقی لوگوں جیسا نہیں ہوں۔ میرا خیال ہے کہ سخاوت دوستی کا اصل جوہر ہے، اور اس کے علاوہ، میرے پاس اپنے لیے نئی ہاتھ گاڑی بھی ہے۔ ہاں، تم اپنا دل مطمئن رکھو، میں تمہیں اپنی ہاتھ گاڑی دوں گا۔"
+          },
+          {
+            "en": "“Well, really, that is generous of you,” said little Hans, and his funny round face glowed all over with pleasure. “I can easily put it in repair, as I have a plank of wood in the house.”",
+            "sd": "ننڍڙي هانس چيو ته ”سچ پڇين ته، اها تنهنجي سخاوت آهي.“ ۽ هن جو کلڻو گول چھرو خوشي سان چمڪي اٿيو. ”مان ان کي آساني سان ٺيڪ ڪري سگھان ٿو، ڇاڪاڻ ته گھر ۾ مون وٽ ڪاٺ جو هڪ تختو آهي.“",
+            "ur": "چھوٹے ہانس نے کہا کہ ”سچ پوچھو تو، یہ تمہاری سخاوت ہے۔“ اور اس کا ہنستا ہوا گول چہرہ خوشی سے چمک اٹھا۔ ”میں اسے آسانی سے ٹھیک کر سکتا ہوں، کیونکہ گھر میں میرے پاس لکڑی کا ایک تختہ ہے۔“"
+          },
+          {
+            "en": "“A plank of wood”! said the Miller; “why, that is just what I want for the roof of my barn. There is a very large hole in it, and the corn will all get damp if I don't stop it up. How lucky you mentioned it! It is quite remarkable how one good action always breeds another. I have given you my wheelbarrow, and now you are going to give me your plank. Of course, the wheelbarrow is worth far more than the plank, but true, friendship never notices things like that. Pray get it at once, and I will set to work at my barn this very day.”",
+            "sd": "ملر چيو ته ”ڪاٺ جو تختو! اهو ئي ته مون کي پنهنجي انبار جي ڇت لاءِ گھرجي. ان ۾ هڪ وڏو سوراخ آهي، ۽ جيڪڏهن مان ان کي بند نه ڪندس ته سڄو اناج آلو ٿي ويندو. ڪيترو نه سٺو ٿيو جو تو ان جو ذڪر ڪيو! اهو واقعي حيرت جي ڳالهه آهي ته هڪ سٺو عمل هميشه ٻيو سٺو عمل پيدا ڪري ٿو. مون توکي پنهنجي هٿ گاڏي ڏني آهي، ۽ هاڻي تون مون کي پنهنجو تختو ڏيڻ وارو آهين. يقينن، هٿ گاڏي تختي کان گھڻو وڌيڪ قيمتي آهي، پر سچي دوستي اهڙين ڳالهين تي ڪڏهن بهي ڌيان نه ٿي ڏي. مهرباني ڪري ان کي هڪدم وٺي اچ، ۽ مان اڄ ئي پنهنجي انبار تي ڪم شروع ڪندس.“",
+            "ur": "ملر نے کہا کہ ”لکڑی کا تختہ! یہی تو مجھے اپنے انبار کی چھت کے لیے چاہیے۔ اس میں ایک بڑا سوراخ ہے، اور اگر میں اسے بند نہ کروں تو سارا اناج گیلا ہو جائے گا۔ کتنا اچھا ہوا کہ تم نے اس کا ذکر کیا! یہ واقعی حیرت کی بات ہے کہ ایک اچھا عمل ہمیشہ دوسرا اچھا عمل پیدا کرتا ہے۔ میں نے تمہیں اپنی ہاتھ گاڑی دی ہے، اور اب تم مجھے اپنا تختہ دینے والے ہو۔ یقیناً، ہاتھ گاڑی تختے سے بہت زیادہ قیمتی ہے، لیکن سچی دوستی ایسی باتوں پر کبھی دھیان نہیں دیتی۔ مہربانی کر کے اسے فوراً لے آؤ، اور میں آج ہی اپنے انبار پر کام شروع کروں گا۔“"
+          },
+          {
+            "en": "“Certainly,” cried little Hans, and he ran into the shed and dragged the plank out.",
+            "sd": "ننڍڙي هانس رڙ ڪري چيو ته ”ضرور.“ ۽ هو ڇپر ۾ ڊوڙي ويو ۽ تختي کي ٻاهر گھلي آيو.",
+            "ur": "چھوٹے ہانس نے چیخ کر کہا کہ ”ضرور۔“ اور وہ چھپر میں دوڑ کر گیا اور تختے کو باہر گھسیٹ لایا۔"
+          },
+          {
+            "en": "“It is not a very big plank,” said the Miller, looking at it, “and I am afraid that after I have mended my barn-roof there won't be any left for you to mend the wheelbarrow with; but, of course, that is not my fault. And now, as I have given you my wheelbarrow, I am sure you would like to give me some flowers in return. Here is the basket, and mind you fill it quite full.”",
+            "sd": "ملر ان کي ڏسندي چيو ته ”اهو گھڻو وڏو تختو ناهي، ۽ مون کي ڊپ آهي ته پنهنجي انبار جي ڇت ٺيڪ ڪرڻ کان پوءِ تنهنجي هٿ گاڏي ٺيڪ ڪرڻ لاءِ ڪجهه بهي نه بچندو؛ پر، يقينن، اهو منهنجو قصور ناهي. ۽ هاڻي، جيئن مون توکي پنهنجي هٿ گاڏي ڏني آهي، مون کي پڪ آهي ته تون بدلي ۾ مون کي ڪجهه گل ڏيڻ پسند ڪندين. هيءَ ٽوڪري آهي، ۽ خيال رکجانءِ ته ان کي بلڪل ڀرپور ڀرج.“",
+            "ur": "ملر نے اسے دیکھتے ہوئے کہا کہ ”یہ بہت بڑا تختہ نہیں ہے، اور مجھے ڈر ہے کہ اپنے انبار کی چھت ٹھیک کرنے کے بعد تمہاری ہاتھ گاڑی ٹھیک کرنے کے لیے کچھ بھی نہیں بچے گا؛ لیکن، یقیناً، یہ میرا قصور نہیں ہے۔ اور اب، جیسا کہ میں نے تمہیں اپنی ہاتھ گاڑی دی ہے، مجھے یقین ہے کہ تم بدلے میں مجھے کچھ پھول دینا پسند کرو گے۔ یہ ٹوکری ہے، اور خیال رکھنا کہ اسے بالکل بھر کر بھرنا۔“"
+          },
+          {
+            "en": "“Quite full?” said little Hans, rather sorrowfully, for it was really a very big basket, and he knew that if he filled it he would have no flowers left for the market and he was very anxious to get his silver buttons back.",
+            "sd": "ننڍڙي هانس ڪجهه ڏک سان چيو ته ”بلڪل ڀرپور؟“ ڇاڪاڻ ته اها واقعي هڪ وڏي ٽوڪري هئي، ۽ هن کي خبر هئي ته جيڪڏهن هو ان کي ڀريندو ته بازار لاءِ هن وٽ ڪو گل نه بچندو، ۽ هو پنهنجا چاندي جا بٽڻ واپس وٺڻ لاءِ ڏاڍو بيچين هو.",
+            "ur": "چھوٹے ہانس نے کچھ دکھ سے کہا کہ ”بالکل بھری ہوئی؟“ کیونکہ یہ واقعی ایک بڑی ٹوکری تھی، اور اسے معلوم تھا کہ اگر وہ اسے بھرے گا تو بازار کے لیے اس کے پاس کوئی پھول نہیں بچے گا، اور وہ اپنے چاندی کے بٹن واپس لینے کے لیے بہت بے چین تھا۔"
+          },
+          {
+            "en": "“Well, really,” answered the Miller, “as I have given you my wheelbarrow, I don't think that it is much to ask you for a few flowers. I may be wrong, but I should have thought that friendship, true friendship, was quite free from selfishness of any kind.”",
+            "sd": "ملر جواب ڏنو ته ”سچ پڇين ته، جيئن مون توکي پنهنجي هٿ گاڏي ڏني آهي، مون کي نه ٿو لڳي ته توکان ڪجهه گل گھرڻ گھڻو ڪجهه آهي. ٿي سگھي ٿو مان غلط آهيان، پر منهنجو خيال هو ته دوستي، سچي دوستي، هر قسم جي خودغرضي کان بلڪل آزاد هوندي آهي.“",
+            "ur": "ملر نے جواب دیا کہ ”سچ پوچھو تو، جیسا کہ میں نے تمہیں اپنی ہاتھ گاڑی دی ہے، مجھے نہیں لگتا کہ تم سے کچھ پھول مانگنا بہت کچھ ہے۔ ہو سکتا ہے میں غلط ہوں، لیکن میرا خیال تھا کہ دوستی، سچی دوستی، ہر قسم کی خودغرضی سے بالکل آزاد ہوتی ہے۔“"
+          },
+          {
+            "en": "“My dear friend, my best friend,” cried little Hans, “you are welcome to all the flowers in my garden. I would much sooner have your good opinion than my silver buttons, any day”; and he ran and plucked all his pretty primroses, and filled the Miller's basket.",
+            "sd": "ننڍڙي هانس رڙ ڪري چيو ته ”منهنجا پيارا دوست، منهنجا بهترين دوست، منهنجي باغ جا سڀئي گل تنهنجا آهن. مان پنهنجن چاندي جي بٽڻن کان تنهنجي سٺي راءِ کي ڪنهن بهي ڏينهن گھڻو وڌيڪ پسند ڪندس.“ ۽ هو ڊوڙي ويو ۽ پنهنجا سڀئي سهڻا پرائمروز ٽوڙي، ملر جي ٽوڪري ڀري ڇڏي.",
+            "ur": "چھوٹے ہانس نے چیخ کر کہا کہ ”میرے پیارے دوست، میرے بہترین دوست، میرے باغ کے سارے پھول تمہارے ہیں۔ میں اپنے چاندی کے بٹنوں سے تمہاری اچھی رائے کو کسی بھی دن بہت زیادہ پسند کروں گا۔“ اور وہ دوڑ کر گیا اور اپنے سارے خوبصورت پرائم روز توڑ کر، ملر کی ٹوکری بھر دی۔"
+          },
+          {
+            "en": "“Good-bye, little Hans,” said the Miller, as he went up the hill with the plank on his shoulder and the big basket in his hand.",
+            "sd": "ملر تختو ڪلهي تي ۽ وڏي ٽوڪري هٿ ۾ کڻي ٽڪري مٿي ويندي چيو ته ”الوداع، ننڍڙا هانس.“",
+            "ur": "ملر تختہ کندھے پر اور بڑی ٹوکری ہاتھ میں اٹھا کر پہاڑی اوپر جاتے ہوئے کہا کہ ”الوداع، چھوٹے ہانس۔“"
+          },
+          {
+            "en": "“Good-bye,” said little Hans, and he began to dig away quite merrily, he was so pleased about the wheelbarrow.",
+            "sd": "ننڍڙي هانس چيو ته ”الوداع.“ ۽ هو ڏاڍي خوشي سان کوٽڻ لڳو، ڇاڪاڻ ته هو هٿ گاڏي بابت ايترو خوش هو.",
+            "ur": "چھوٹے ہانس نے کہا کہ ”الوداع۔“ اور وہ بہت خوشی سے کھودنے لگا، کیونکہ وہ ہاتھ گاڑی کے بارے میں اتنا خوش تھا۔"
+          },
+          {
+            "en": "The next day he was nailing up some honeysuckle against the porch, when he heard the Miller's voice calling to him from the road. So he jumped off the ladder, and ran down the garden, and looked over the wall.",
+            "sd": "ٻئي ڏينهن هو دالان سان هني سڪل لڳائي رھيو هو، جڏهن هن کي رستي تان ملر جو آواز ٻڌڻ ۾ آيو، جيڪو هن کي سڏي رھيو هو. ان ڪري هو ڏاڪڻ تان ٽپو ڏيئي هيٺ لٿو، ۽ باغ ۾ ڊوڙي ويو، ۽ ديوار مٿان ڏٺو.",
+            "ur": "اگلے دن وہ برآمدے سے ہنی سکل لگا رہا تھا، جب اسے راستے سے ملر کی آواز سنائی دی، جو اسے بلا رہا تھا۔ اس لیے وہ سیڑھی سے کود کر نیچے اترا، اور باغ میں دوڑ کر گیا، اور دیوار کے اوپر سے دیکھا۔"
+          },
+          {
+            "en": "There was the Miller with a large sack of flour on his back.",
+            "sd": "اتي ملر هو، جنهن جي پٺي تي اٽي جي وڏي ٻوري هئي.",
+            "ur": "وہاں ملر تھا، جس کی پیٹھ پر آٹے کی بڑی بوری تھی۔"
+          },
+          {
+            "en": "“Dear little Hans,” said the Miller, “would you mind carrying this sack of flour for me to market?”",
+            "sd": "ملر چيو ته ”پيارا ننڍڙا هانس، ڇا تون منهنجي لاءِ اٽي جي هيءَ ٻوري بازار تائين کڻي وڃڻ جي تڪليف ڪندين؟“",
+            "ur": "ملر نے کہا کہ ”پیارے چھوٹے ہانس، کیا تم میرے لیے آٹے کی یہ بوری بازار تک لے جانے کی تکلیف کرو گے؟“"
+          },
+          {
+            "en": "“Oh, I am so sorry,” said Hans, “but I am really very busy to-day. I have got all my creepers to nail up, and all my flowers to water, and all my grass to roll.”",
+            "sd": "هانس چيو ته ”اوه، مون کي ڏاڍو افسوس آهي، پر مان اڄ واقعي ڏاڍو مصروف آهيان. مون کي پنهنجون سڀئي ويلون لڳائڻيون آهن، ۽ پنهنجن سڀني گلن کي پاڻي ڏيڻو آهي، ۽ پنهنجي سڄي گھاس کي برابر ڪرڻو آهي.“",
+            "ur": "ہانس نے کہا کہ ”اوہ، مجھے بہت افسوس ہے، لیکن میں آج واقعی بہت مصروف ہوں۔ مجھے اپنی ساری بیلیں لگانی ہیں، اور اپنے سارے پھولوں کو پانی دینا ہے، اور اپنی ساری گھاس کو برابر کرنا ہے۔“"
+          },
+          {
+            "en": "“Well, really,” said the Miller, “I think that, considering that I am going to give you my wheelbarrow, it is rather unfriendly of you to refuse.”",
+            "sd": "ملر چيو ته ”سچ پڇين ته، منهنجو خيال آهي ته، اهو سوچيندي ته مان توکي پنهنجي هٿ گاڏي ڏيڻ وارو آهيان، انڪار ڪرڻ تنهنجي طرفان ڪافي بي دوستاڻو عمل آهي.“",
+            "ur": "ملر نے کہا کہ ”سچ پوچھو تو، میرا خیال ہے کہ، یہ سوچتے ہوئے کہ میں تمہیں اپنی ہاتھ گاڑی دینے والا ہوں، انکار کرنا تمہاری طرف سے کافی بے دوستانہ عمل ہے۔“"
+          },
+          {
+            "en": "“Oh, don't say that,” cried little Hans, “I wouldn't be unfriendly for the whole world”; and he ran in for his cap, and trudged off with the big sack on his shoulders.",
+            "sd": "ننڍڙي هانس رڙ ڪري چيو ته ”اوه، ائين نه چئو، مان سڄي دنيا لاءِ بهي بي دوستاڻو نه ٿيندس.“ ۽ هو پنهنجي ٽوپي لاءِ اندر ڊوڙي ويو، ۽ وڏي ٻوري ڪلهن تي رکي ڳرا پير ڀري هليو ويو.",
+            "ur": "چھوٹے ہانس نے چیخ کر کہا کہ ”اوہ، ایسا نہ کہو، میں ساری دنیا کے لیے بھی بے دوستانہ نہیں ہوں گا۔“ اور وہ اپنی ٹوپی کے لیے اندر دوڑ کر گیا، اور بڑی بوری کندھوں پر رکھ کر بھاری قدموں سے چل دیا۔"
+          },
+          {
+            "en": "It was a very hot day, and the road was terribly dusty, and before Hans had reached the sixth milestone he was so tired that he had to sit down and rest. However, he went on bravely, and as last he reached the market.",
+            "sd": "اهو ڏاڍو گرم ڏينهن هو، ۽ رستو ڏاڍو مٽي وارو هو، ۽ هانس ڇهين ميل جي پٿر تي پهچڻ کان اڳ ايترو ته ٿڪجي ويو جو هن کي ويھي آرام ڪرڻو پيو. تاهم، هو بهادري سان اڳتي وڌندو رھيو، ۽ آخرڪار بازار پهچي ويو.",
+            "ur": "وہ بہت گرم دن تھا، اور راستہ بہت گرد آلود تھا، اور ہانس چھٹے میل کے پتھر تک پہنچنے سے پہلے اتنا تھک گیا کہ اسے بیٹھ کر آرام کرنا پڑا۔ تاہم، وہ بہادری سے آگے بڑھتا رہا، اور آخرکار بازار پہنچ گیا۔"
+          },
+          {
+            "en": "After he had waited there some time, he sold the sack of flour for a very good price, and then he returned home at once, for he was afraid that if he stopped too late he might meet some robbers on the way.",
+            "sd": "اتي ڪجهه وقت انتظار ڪرڻ کان پوءِ، هن اٽي جي ٻوري ڏاڍي سٺي قيمت تي وڪڻي ڇڏي، ۽ پوءِ هو هڪدم گھر موٽي آيو، ڇاڪاڻ ته هن کي ڊپ هو ته جيڪڏهن هو گھڻو دير سان رڪيو ته رستي ۾ کيس ڪجهه ڌاڙيل ملي سگھن ٿا.",
+            "ur": "وہاں کچھ وقت انتظار کرنے کے بعد، اس نے آٹے کی بوری بہت اچھی قیمت پر بیچ دی، اور پھر وہ فوراً گھر لوٹ آیا، کیونکہ اسے ڈر تھا کہ اگر وہ بہت دیر سے رکا تو راستے میں اسے کچھ ڈاکو مل سکتے ہیں۔"
+          },
+          {
+            "en": "“It has certainly been a hard day,” said little Hans to himself as he was going to bed, “but I am glad I did not refuse the Miller, for he is my best friend, and, besides, he is going to give me his wheelbarrow.”",
+            "sd": "ننڍڙي هانس سمھڻ ويندي پاڻ کي چيو ته ”اڄ يقينن ڏکيو ڏينهن گذريو آهي، پر مون کي خوشي آهي ته مون ملر کي انڪار نه ڪيو، ڇاڪاڻ ته هو منهنجو بهترين دوست آهي، ۽ ان کان سواءِ، هو مون کي پنهنجي هٿ گاڏي ڏيڻ وارو آهي.“",
+            "ur": "چھوٹے ہانس نے سونے جاتے ہوئے خود سے کہا کہ ”آج یقیناً مشکل دن گزرا ہے، لیکن مجھے خوشی ہے کہ میں نے ملر کو انکار نہیں کیا، کیونکہ وہ میرا بہترین دوست ہے، اور اس کے علاوہ، وہ مجھے اپنی ہاتھ گاڑی دینے والا ہے۔“"
+          },
+          {
+            "en": "Early the next morning the Miller came down to get the money for his sack of flour, but little Hans was so tired that he was still in bed.",
+            "sd": "ٻئي ڏينهن صبح جو سوير ملر پنهنجي اٽي جي ٻوري جا پئسا وٺڻ لاءِ هيٺ آيو، پر ننڍڙو هانس ايترو ته ٿڪل هو جو هو اڃا بستري ۾ ئي هو.",
+            "ur": "اگلے دن صبح سویرے ملر اپنے آٹے کی بوری کے پیسے لینے کے لیے نیچے آیا، لیکن چھوٹا ہانس اتنا تھکا ہوا تھا کہ وہ ابھی بستر میں ہی تھا۔"
+          },
+          {
+            "en": "“Upon my word,” said the Miller, “you are very lazy. Really, considering that I am going to give you my wheelbarrow, I think you might work harder. Idleness is a great sin, and I certainly don't like any of my friends to be idle or sluggish. You must not mind my speaking quite plainly to you. Of course I should not dream of doing so if I were not your friend. But what is the good of friendship if one cannot say exactly what one means? Anybody can say charming things and try to please and to flatter, but a true friend always says unpleasant things, and does not mind giving pain. Indeed, if he is a really true friend he prefers it, for he knows that then he is doing good.”",
+            "sd": "ملر چيو ته ”منهنجي قسم، تون ڏاڍو سست آهين. سچ پڇين ته، اهو سوچيندي ته مان توکي پنهنجي هٿ گاڏي ڏيڻ وارو آهيان، منهنجو خيال آهي ته توکي وڌيڪ محنت ڪرڻ گھرجي. سستي وڏو گناه آهي، ۽ مون کي يقينن پنهنجو ڪو بهي دوست سست يا ڪاهل پسند ناهي. توکي منهنجي بلڪل صاف ڳالهائڻ جو برو نه مڃڻ گھرجي. يقينن جيڪڏهن مان تنهنجو دوست نه هجان ها ته مان ائين ڪرڻ جو خواب بهي نه ڏسان ها. پر دوستي جو فائدو ئي ڇا آهي جيڪڏهن ماڻهو بلڪل اهو نه چئي سگھي جيڪو هن جي مطلب آهي؟ ڪو بهي ماڻهو وڻندڙ ڳالهيون ڪري سگھي ٿو ۽ خوش ڪرڻ ۽ خوشامد ڪرڻ جي ڪوشش ڪري سگھي ٿو، پر سچو دوست هميشه اڻ وڻندڙ ڳالهيون ڪري ٿو، ۽ تڪليف ڏيڻ جي پرواه نه ٿو ڪري. سچ ته اهو آهي ته جيڪڏهن هو واقعي سچو دوست آهي ته هو ان کي وڌيڪ پسند ڪري ٿو، ڇاڪاڻ ته هو ڄاڻي ٿو ته پوءِ هو چڱو ڪم ڪري رھيو آهي.“",
+            "ur": "ملر نے کہا کہ ”میری قسم، تم بہت سست ہو۔ سچ پوچھو تو، یہ سوچتے ہوئے کہ میں تمہیں اپنی ہاتھ گاڑی دینے والا ہوں، میرا خیال ہے کہ تمہیں زیادہ محنت کرنی چاہیے۔ سستی بڑا گناہ ہے، اور مجھے یقیناً اپنا کوئی بھی دوست سست یا کاہل پسند نہیں ہے۔ تمہیں میری بالکل صاف بات کا برا نہیں ماننا چاہیے۔ یقیناً اگر میں تمہارا دوست نہ ہوتا تو میں ایسا کرنے کا خواب بھی نہ دیکھتا۔ لیکن دوستی کا فائدہ ہی کیا ہے اگر آدمی بالکل وہ نہ کہہ سکے جو اس کا مطلب ہے؟ کوئی بھی آدمی دلکش باتیں کہہ سکتا ہے اور خوش کرنے اور خوشامد کرنے کی کوشش کر سکتا ہے، لیکن سچا دوست ہمیشہ ناگوار باتیں کہتا ہے، اور تکلیف دینے کی پروا نہیں کرتا۔ سچ تو یہ ہے کہ اگر وہ واقعی سچا دوست ہے تو وہ اسے زیادہ پسند کرتا ہے، کیونکہ وہ جانتا ہے کہ پھر وہ اچھا کام کر رہا ہے۔“"
+          },
+          {
+            "en": "“I am very sorry,” said little Hans, rubbing his eyes and pulling off his night-cap, “but I was so tired that I thought I would lie in bed for a little time, and listen to the birds singing. Do you know that I always work better after hearing the birds sing?”",
+            "sd": "ننڍڙي هانس اکيون ملھيندي ۽ پنهنجي رات جي ٽوپي لاھيندي چيو ته ”مون کي ڏاڍو افسوس آهي، پر مان ايترو ته ٿڪل هوس جو مون سوچيو ته ٿوري دير بستري ۾ ليٽي پکين جو ڳائڻ ٻڌندس. ڇا توکي خبر آهي ته پکين جو ڳائڻ ٻڌڻ کان پوءِ مان هميشه بهتر ڪم ڪندو آهيان؟“",
+            "ur": "چھوٹے ہانس نے آنکھیں ملتے ہوئے اور اپنی رات کی ٹوپی اتارتے ہوئے کہا کہ ”مجھے بہت افسوس ہے، لیکن میں اتنا تھکا ہوا تھا کہ میں نے سوچا کہ تھوڑی دیر بستر میں لیٹ کر پرندوں کا گانا سنوں گا۔ کیا تمہیں معلوم ہے کہ پرندوں کا گانا سننے کے بعد میں ہمیشہ بہتر کام کرتا ہوں؟“"
+          },
+          {
+            "en": "“Well, I am glad of that,” said the Miller, clapping little Hans on the back, “for I want you to come up to the mill as soon as you are dressed, and mend my barn-roof for me.”",
+            "sd": "ملر ننڍڙي هانس جي پٺي تي ٿڦڪي ڏيندي چيو ته ”سٺو، مون کي ان ڳالهه تي خوشي آهي، ڇاڪاڻ ته مان چاهيان ٿو ته تون ڪپڙا پائيندي ئي مل تي مٿي اچين، ۽ منهنجي لاءِ منهنجي انبار جي ڇت ٺيڪ ڪرين.“",
+            "ur": "ملر نے چھوٹے ہانس کی پیٹھ پر تھپکی دیتے ہوئے کہا کہ ”اچھا، مجھے اس بات پر خوشی ہے، کیونکہ میں چاہتا ہوں کہ تم کپڑے پہنتے ہی مل پر اوپر آؤ، اور میرے لیے میرے انبار کی چھت ٹھیک کرو۔“"
+          },
+          {
+            "en": "“Poor little Hans was very anxious to go and work in his garden, for his flowers had not been watered for two days, but he did not like to refuse the Miller, as he was such a good friend to him.",
+            "sd": "غريب ننڍڙو هانس پنهنجي باغ ۾ وڃي ڪم ڪرڻ لاءِ ڏاڍو بيچين هو، ڇاڪاڻ ته هن جي گلن کي ٻن ڏينهن کان پاڻي نه ڏنو ويو هو، پر هو ملر کي انڪار ڪرڻ پسند نه ڪندو هو، ڇاڪاڻ ته هو هن جو ايترو سٺو دوست هو.",
+            "ur": "غریب چھوٹا ہانس اپنے باغ میں جا کر کام کرنے کے لیے بہت بے چین تھا، کیونکہ اس کے پھولوں کو دو دن سے پانی نہیں دیا گیا تھا، لیکن وہ ملر کو انکار کرنا پسند نہیں کرتا تھا، کیونکہ وہ اس کا اتنا اچھا دوست تھا۔"
+          },
+          {
+            "en": "“Do you think it would be unfriendly of me if I said I was busy?” he inquired in a shy and timid voice.",
+            "sd": "هن شرم ۽ ڊپ واري آواز ۾ پڇيو ته ”ڇا توکي لڳي ٿو ته جيڪڏهن مان چوان ته مان مصروف آهيان ته اهو منهنجي طرفان بي دوستاڻو عمل ٿيندو؟“",
+            "ur": "اس نے شرم اور ڈر والی آواز میں پوچھا کہ ”کیا تمہیں لگتا ہے کہ اگر میں کہوں کہ میں مصروف ہوں تو یہ میری طرف سے بے دوستانہ عمل ہوگا؟“"
+          },
+          {
+            "en": "“Well, really,” answered the Miller, “I do not think it is much to ask of you, considering that I am going to give you my wheelbarrow; but of course if you refuse I will go and do it myself.”",
+            "sd": "ملر جواب ڏنو ته ”سچ پڇين ته، منهنجو خيال ناهي ته توکان اهو گھرڻ گھڻو ڪجهه آهي، اهو سوچيندي ته مان توکي پنهنجي هٿ گاڏي ڏيڻ وارو آهيان؛ پر يقينن جيڪڏهن تون انڪار ڪرين ته مان پاڻ وڃي اهو ڪندس.“",
+            "ur": "ملر نے جواب دیا کہ ”سچ پوچھو تو، میرا خیال نہیں ہے کہ تم سے یہ مانگنا بہت کچھ ہے، یہ سوچتے ہوئے کہ میں تمہیں اپنی ہاتھ گاڑی دینے والا ہوں؛ لیکن یقیناً اگر تم انکار کرو تو میں خود جا کر یہ کروں گا۔“"
+          },
+          {
+            "en": "“Oh! On no account,” cried little Hans and he jumped out of bed, and dressed himself, and went up to the barn.",
+            "sd": "ننڍڙي هانس رڙ ڪري چيو ته ”اوه! ڪنهن بهي حالت ۾ نه.“ ۽ هو بستري مان ٽپو ڏيئي ٻاهر نڪتو، ۽ ڪپڙا پاتا، ۽ انبار ڏانهن مٿي هليو ويو.",
+            "ur": "چھوٹے ہانس نے چیخ کر کہا کہ ”اوہ! کسی بھی حالت میں نہیں۔“ اور وہ بستر سے کود کر باہر نکلا، اور کپڑے پہنے، اور انبار کی طرف اوپر چلا گیا۔"
+          },
+          {
+            "en": "He worked there all day long, till sunset, and at sunset the Miller came to see how he was getting on.",
+            "sd": "هو اتي سڄو ڏينهن، سج لٿي تائين ڪم ڪندو رھيو، ۽ سج لٿي وقت ملر ڏسڻ آيو ته هو ڪيئن ڪم ڪري رھيو آهي.",
+            "ur": "وہ وہاں سارا دن، سورج ڈوبنے تک کام کرتا رہا، اور سورج ڈوبنے کے وقت ملر دیکھنے آیا کہ وہ کیسے کام کر رہا ہے۔"
+          },
+          {
+            "en": "“Have you mended the hole in the roof yet, little Hans?” cried the Miller in a cheery voice.",
+            "sd": "ملر خوش آواز ۾ رڙ ڪري چيو ته ”ننڍڙا هانس، ڇا تو ڇت ۾ سوراخ اڃا ٺيڪ ڪيو آهي؟“",
+            "ur": "ملر نے خوش آواز میں چیخ کر کہا کہ ”چھوٹے ہانس، کیا تم نے چھت میں سوراخ ابھی ٹھیک کیا ہے؟“"
+          },
+          {
+            "en": "“It is quite mended,” answered little Hans, coming down the ladder.",
+            "sd": "ننڍڙي هانس ڏاڪڻ تان هيٺ ايندي جواب ڏنو ته ”اهو بلڪل ٺيڪ ٿي ويو آهي.“",
+            "ur": "چھوٹے ہانس نے سیڑھی سے نیچے آتے ہوئے جواب دیا کہ ”یہ بالکل ٹھیک ہو گیا ہے۔“"
+          },
+          {
+            "en": "“Ah”! said the Miller, “there is no work so delightful as the work one does for others.”",
+            "sd": "ملر چيو ته ”آه! ٻين لاءِ ڪيل ڪم جهڙو خوشگوار ٻيو ڪو ڪم ناهي.“",
+            "ur": "ملر نے کہا کہ ”آہ! دوسروں کے لیے کیا گیا کام جیسا خوشگوار کوئی اور کام نہیں ہے۔“"
+          },
+          {
+            "en": "“It is certainly a great privilege to hear you talk,” answered little Hans, sitting down, and wiping his forehead, “a very great privilege. But I am afraid I shall never have such beautiful ideas as you have.”",
+            "sd": "ننڍڙي هانس ويھي، پنهنجو پيشاني اگھندي جواب ڏنو ته ”تنهنجون ڳالهيون ٻڌڻ يقينن وڏو اعزاز آهي، بلڪل وڏو اعزاز آهي. پر مون کي ڊپ آهي ته مون وٽ ڪڏهن بهي اهڙا سهڻا خيال نه ٿيندا جھڙا تنهنجا آهن.“",
+            "ur": "چھوٹے ہانس نے بیٹھ کر، اپنی پیشانی پونچھتے ہوئے جواب دیا کہ ”تمہاری باتیں سننا یقیناً بڑا اعزاز ہے، بالکل بڑا اعزاز ہے۔ لیکن مجھے ڈر ہے کہ میرے پاس کبھی ایسے خوبصورت خیالات نہیں ہوں گے جیسے تمہارے ہیں۔“"
+          },
+          {
+            "en": "“Oh! they will come to you,” said the Miller, “but you must take more pains. At present you have only the practice of friendship; some day you will have the theory also.”",
+            "sd": "ملر چيو ته ”اوه! اهي تو وٽ بهي ايندا، پر توکي وڌيڪ محنت ڪرڻ گھرجي. هن وقت تو وٽ رڳو دوستي جو عمل آهي؛ ڪنهن ڏينهن تو وٽ ان جو نظريو بهي هوندو.“",
+            "ur": "ملر نے کہا کہ ”اوہ! وہ تمہارے پاس بھی آئیں گے، لیکن تمہیں زیادہ محنت کرنی چاہیے۔ اس وقت تمہارے پاس صرف دوستی کا عمل ہے؛ کسی دن تمہارے پاس اس کا نظریہ بھی ہوگا۔“"
+          },
+          {
+            "en": "“Do you really think I shall?” asked little Hans.",
+            "sd": "ننڍڙي هانس پڇيو ته ”ڇا توکي واقعي لڳي ٿو ته مان بهي ائين ڪندس؟“",
+            "ur": "چھوٹے ہانس نے پوچھا کہ ”کیا تمہیں واقعی لگتا ہے کہ میں بھی ایسا کروں گا؟“"
+          },
+          {
+            "en": "“I have no doubt of it,” answered the Miller, “but now that you have mended the roof, you had better go home and rest, for I want you to drive my sheep to the mountain to-morrow.”",
+            "sd": "ملر جواب ڏنو ته ”مون کي ان ۾ ڪو شڪ ناهي، پر هاڻي جڏهن تو ڇت ٺيڪ ڪري ڇڏي آهي، ته توکي گھر وڃي آرام ڪرڻ گھرجي، ڇاڪاڻ ته مان چاهيان ٿو ته تون سڀاڻي منهنجون رڍون جبل ڏانهن وٺي وڃين.“",
+            "ur": "ملر نے جواب دیا کہ ”مجھے اس میں کوئی شک نہیں ہے، لیکن اب جب تم نے چھت ٹھیک کر دی ہے، تو تمہیں گھر جا کر آرام کرنا چاہیے، کیونکہ میں چاہتا ہوں کہ تم کل میری بھیڑیں پہاڑ کی طرف لے جاؤ۔“"
+          },
+          {
+            "en": "Poor little Hans was afraid to say anything to this, and early the next morning the Miller brought his sheep round to the cottage, and Hans started off with them to the mountain.",
+            "sd": "غريب ننڍڙو هانس هن ڳالهه تي ڪجهه چوڻ کان ڊڄي ويو، ۽ ٻئي ڏينهن صبح جو سوير ملر پنهنجون رڍون جھوپڙي وٽ وٺي آيو، ۽ هانس انهن سان گڏ جبل ڏانهن روانو ٿيو.",
+            "ur": "غریب چھوٹا ہانس اس بات پر کچھ کہنے سے ڈر گیا، اور اگلے دن صبح سویرے ملر اپنی بھیڑیں جھونپڑی کے پاس لے آیا، اور ہانس ان کے ساتھ پہاڑ کی طرف روانہ ہوا۔"
+          },
+          {
+            "en": "It took him the whole day to get there and back; and when he returned he was so tired that he went off to sleep in his chair, and did not wake up till it was broad daylight. “What a delightful time I shall have in my garden,” he said, and he went to work at once.",
+            "sd": "هن کي اتي وڃڻ ۽ موٽڻ ۾ سڄو ڏينهن لڳي ويو؛ ۽ جڏهن هو موٽيو ته هو ايترو ته ٿڪل هو جو ڪرسي تي ئي ننڊ ۾ هليو ويو، ۽ ڏينهن چڙھڻ تائين نه جاڳيو. هن چيو ته ”منهنجي باغ ۾ منهنجو ڪيترو نه سٺو وقت گذرندو.“ ۽ هو هڪدم ڪم تي هليو ويو.",
+            "ur": "اسے وہاں جانے اور لوٹنے میں سارا دن لگ گیا؛ اور جب وہ لوٹا تو وہ اتنا تھکا ہوا تھا کہ کرسی پر ہی سو گیا، اور دن چڑھنے تک نہ جاگا۔ اس نے کہا کہ ”میرے باغ میں میرا کتنا اچھا وقت گزرے گا۔“ اور وہ فوراً کام پر چلا گیا۔"
+          },
+          {
+            "en": "But somehow he was never able to look after his flowers at all, for his friend the Miller was always coming round and sending him off on long errands, or getting him to help at the mill. Little Hans was very much distressed at times, as he was afraid his flowers would think he had forgotten them, but he consoled himself by the reflection that the Miller was his best friend. “Besides,” he used to say, “he is going to give me his wheelbarrow, and that is an act of pure generosity.” So little Hans worked away for the Miller, and the Miller said all kinds of beautiful things about friendship, which Hans took down in a note-book, and used to read over at night, for he was a very good scholar.",
+            "sd": "پر ڪنهن نه ڪنهن طرح هو پنهنجن گلن جي بلڪل بهي سنڀال نه ڪري سگھيو، ڇاڪاڻ ته هن جو دوست ملر هميشه ايندو رھندو هو ۽ هن کي ڊگهن ڪمن تي موڪليندو رھندو هو، يا مل ۾ مدد لاءِ وٺي ويندو هو. ننڍڙو هانس ڪڏهن ڪڏهن ڏاڍو پريشان ٿيندو هو، ڇاڪاڻ ته هن کي ڊپ هوندو هو ته هن جا گل سمجھندا ته هن انهن کي وساري ڇڏيو آهي، پر هو پاڻ کي اهو سوچي دلاسو ڏيندو هو ته ملر هن جو بهترين دوست آهي. هو چوندو هو ته ”ان کان سواءِ، هو مون کي پنهنجي هٿ گاڏي ڏيڻ وارو آهي، ۽ اها خالص سخاوت جو عمل آهي.“ اهڙي طرح ننڍڙو هانس ملر لاءِ ڪم ڪندو رھندو هو، ۽ ملر دوستي بابت هر قسم جون سهڻيون ڳالهيون ڪندو هو، جيڪي هانس پنهنجي نوٽ بڪ ۾ لکي وٺندو هو، ۽ رات جو پڙھندو هو، ڇاڪاڻ ته هو ڏاڍو سٺو شاگرد هو.",
+            "ur": "لیکن کسی نہ کسی طرح وہ اپنے پھولوں کی بالکل بھی دیکھ بھال نہ کر سکا، کیونکہ اس کا دوست ملر ہمیشہ آتا رہتا تھا اور اسے لمبے کاموں پر بھیجتا رہتا تھا، یا مل میں مدد کے لیے لے جاتا تھا۔ چھوٹا ہانس کبھی کبھی بہت پریشان ہوتا تھا، کیونکہ اسے ڈر ہوتا تھا کہ اس کے پھول سمجھیں گے کہ اس نے انہیں بھلا دیا ہے، لیکن وہ خود کو یہ سوچ کر دلاسا دیتا تھا کہ ملر اس کا بہترین دوست ہے۔ وہ کہا کرتا تھا کہ ”اس کے علاوہ، وہ مجھے اپنی ہاتھ گاڑی دینے والا ہے، اور یہ خالص سخاوت کا عمل ہے۔“ اس طرح چھوٹا ہانس ملر کے لیے کام کرتا رہتا تھا، اور ملر دوستی کے بارے میں ہر قسم کی خوبصورت باتیں کرتا تھا، جو ہانس اپنی نوٹ بک میں لکھ لیتا تھا، اور رات کو پڑھتا تھا، کیونکہ وہ بہت اچھا شاگرد تھا۔"
+          },
+          {
+            "en": "Now it happened that one evening little Hans was sitting by his fireside when a loud rap came at the door. It was a very wild night, and the wind was blowing and roaring round the house so terribly that at first he thought it was merely the storm. But a second rap came, and then a third, louder than any of the others. “It is some poor traveler,” said little Hans to himself, and he ran to the door. There stood the Miller with a lantern in one hand and a big stick in the other.",
+            "sd": "هاڻي ائين ٿيو ته هڪ شام ننڍڙو هانس پنهنجي باه وٽ ويٺو هو، جڏهن در تي زور سان دستڪ ٿي. اها ڏاڍي جهنگلي رات هئي، ۽ هوا گھر جي چوڌاري ايترو ته زور سان وهي ۽ گوڙ ڪري رھي هئي جو پهريان هن سوچيو ته اهو رڳو طوفان آهي. پر ٻي دستڪ ٿي، ۽ پوءِ ٽين، جيڪا ٻين سڀني کان وڌيڪ زور سان هئي. ننڍڙي هانس پاڻ کي چيو ته ”اهو ڪو غريب مسافر آهي.“ ۽ هو در ڏانهن ڊوڙي ويو. اتي ملر بيٺو هو، هڪ هٿ ۾ لالٽين ۽ ٻئي هٿ ۾ وڏي لٺ هئي.",
+            "ur": "اب ایسا ہوا کہ ایک شام چھوٹا ہانس اپنی آگ کے پاس بیٹھا تھا، جب دروازے پر زور سے دستک ہوئی۔ وہ بہت طوفانی رات تھی، اور ہوا گھر کے چاروں طرف اتنی زور سے بہہ اور گرج رہی تھی کہ پہلے اس نے سوچا کہ یہ صرف طوفان ہے۔ لیکن دوسری دستک ہوئی، اور پھر تیسری، جو دوسروں سے زیادہ زور سے تھی۔ چھوٹے ہانس نے خود سے کہا کہ ”یہ کوئی غریب مسافر ہے۔“ اور وہ دروازے کی طرف دوڑ کر گیا۔ وہاں ملر کھڑا تھا، ایک ہاتھ میں لالٹین اور دوسرے ہاتھ میں بڑی لاٹھی تھی۔"
+          },
+          {
+            "en": "“Dear little Hans,” cried the Miller, “I am in great trouble. My little boy has fallen off a ladder and hurt himself, and I am going for the Doctor. But he lives so far away, and it is such a bad night, that it has just occurred to me that it would be much better if you went instead of me. You know I am going to give you my wheelbarrow, and so, it is only fair that you should do something for me in return.”",
+            "sd": "ملر رڙ ڪري چيو ته ”پيارا ننڍڙا هانس، مان وڏي تڪليف ۾ آهيان. منهنجو ننڍڙو ڇوڪرو ڏاڪڻ تان ڪري پيو آهي ۽ هن کي ڌڪ لڳو آهي، ۽ مان ڊاڪٽر وٽ وڃي رھيو آهيان. پر هو ايترو ته پري رھي ٿو، ۽ رات ايتري ته خراب آهي، جو مون کي هاڻي ئي خيال آيو آهي ته اهو گھڻو بهتر ٿيندو جيڪڏهن تون منهنجي بدران وڃين. توکي خبر آهي ته مان توکي پنهنجي هٿ گاڏي ڏيڻ وارو آهيان، ۽ ان ڪري، اهو ئي انصاف آهي ته تون بدلي ۾ منهنجي لاءِ ڪجهه ڪرين.“",
+            "ur": "ملر نے چیخ کر کہا کہ ”پیارے چھوٹے ہانس، میں بڑی تکلیف میں ہوں۔ میرا چھوٹا لڑکا سیڑھی سے گر پڑا ہے اور اسے چوٹ لگی ہے، اور میں ڈاکٹر کے پاس جا رہا ہوں۔ لیکن وہ اتنا دور رہتا ہے، اور رات اتنی خراب ہے، کہ مجھے ابھی خیال آیا ہے کہ یہ بہت بہتر ہوگا اگر تم میری جگہ جاؤ۔ تمہیں معلوم ہے کہ میں تمہیں اپنی ہاتھ گاڑی دینے والا ہوں، اور اس لیے، یہی انصاف ہے کہ تم بدلے میں میرے لیے کچھ کرو۔“"
+          },
+          {
+            "en": "“Certainly,” cried little Hans, “I take it quite as a compliment your coming to me, and I will start off at once. But you must lend me your lantern, as the night is so dark that I am afraid I might fall into the ditch.”",
+            "sd": "ننڍڙي هانس رڙ ڪري چيو ته ”ضرور، مان تنهنجو مون وٽ اچڻ بلڪل تعريف سمجھان ٿو، ۽ مان هڪدم روانو ٿيندس. پر توکي مون کي پنهنجي لالٽين اُڌاري ڏيڻ گھرجي، ڇاڪاڻ ته رات ايتري ته اونداهي آهي جو مون کي ڊپ آهي ته مان کڏ ۾ ڪري پوندس.“",
+            "ur": "چھوٹے ہانس نے چیخ کر کہا کہ ”ضرور، میں تمہارا میرے پاس آنا بالکل تعریف سمجھتا ہوں، اور میں فوراً روانہ ہوں گا۔ لیکن تمہیں مجھے اپنی لالٹین ادھار دینی چاہیے، کیونکہ رات اتنی اندھیری ہے کہ مجھے ڈر ہے کہ میں کھڈ میں گر پڑوں گا۔“"
+          },
+          {
+            "en": "“I am very sorry,” answered the Miller, “but it is my new lantern, and it would be a great loss to me if anything happened to it.”",
+            "sd": "ملر جواب ڏنو ته ”مون کي ڏاڍو افسوس آهي، پر اها منهنجي نئين لالٽين آهي، ۽ جيڪڏهن ان کي ڪجهه ٿي پيو ته منهنجو وڏو نقصان ٿيندو.“",
+            "ur": "ملر نے جواب دیا کہ ”مجھے بہت افسوس ہے، لیکن یہ میری نئی لالٹین ہے، اور اگر اسے کچھ ہو گیا تو میرا بڑا نقصان ہوگا۔“"
+          },
+          {
+            "en": "“Well, never mind, I will do without it,” cried little Hans, and he took down his great fur coat, and his warm scarlet cap, and tied a muffler round his throat, and started off.",
+            "sd": "ننڍڙي هانس رڙ ڪري چيو ته ”سٺو، ڪا ڳالهه ناهي، مان ان کان سواءِ ئي ڪم هلائيندس.“ ۽ هن پنهنجو وڏو فر وارو ڪوٽ، ۽ پنهنجي گرم ڳاڙهي ٽوپي لاٿي، ۽ ڳچي چوڌاري مفلر ٻڌو، ۽ روانو ٿي ويو.",
+            "ur": "چھوٹے ہانس نے چیخ کر کہا کہ ”اچھا، کوئی بات نہیں، میں اس کے بغیر ہی کام چلاؤں گا۔“ اور اس نے اپنا بڑا فر والا کوٹ، اور اپنی گرم سرخ ٹوپی اتاری، اور گلے کے گرد مفلر باندھا، اور روانہ ہو گیا۔"
+          },
+          {
+            "en": "What a dreadful storm it was! The night was so black that little Hans could hardly see, and the wind was so strong that he could scarcely stand. However, he was very courageous, and after he had been walking about three hours, he arrived at the Doctor's house, and knocked at the door.",
+            "sd": "اهو ڪيترو نه خوفناڪ طوفان هو! رات ايتري ته ڪاري هئي جو ننڍڙو هانس مشڪل سان ڏسي سگھندو هو، ۽ هوا ايتري ته زور سان هئي جو هو مشڪل سان بيھي سگھندو هو. تاهم، هو ڏاڍو بهادر هو، ۽ اٽڪل ٽن ڪلاڪن تائين هلڻ کان پوءِ، هو ڊاڪٽر جي گھر پهتو، ۽ در تي دستڪ ڏني.",
+            "ur": "وہ کتنا خوفناک طوفان تھا! رات اتنی کالی تھی کہ چھوٹا ہانس مشکل سے دیکھ سکتا تھا، اور ہوا اتنی تیز تھی کہ وہ مشکل سے کھڑا ہو سکتا تھا۔ تاہم، وہ بہت بہادر تھا، اور تقریباً تین گھنٹے چلنے کے بعد، وہ ڈاکٹر کے گھر پہنچا، اور دروازے پر دستک دی۔"
+          },
+          {
+            "en": "“Who is there?” cried the Doctor, putting his head out of his bedroom window.",
+            "sd": "ڊاڪٽر پنهنجي سمھڻ واري ڪمري جي دري مان ڪنڌ ٻاهر ڪڍي رڙ ڪري چيو ته ”اتي ڪير آهي؟“",
+            "ur": "ڈاکٹر نے اپنے سونے والے کمرے کی کھڑکی سے سر باہر نکال کر چیخ کر کہا کہ ”وہاں کون ہے؟“"
+          },
+          {
+            "en": "“Little Hans, Doctor.”",
+            "sd": "”ننڍڙو هانس، ڊاڪٽر.“",
+            "ur": "”چھوٹا ہانس، ڈاکٹر۔“"
+          },
+          {
+            "en": "“What do you want, little Hans?”",
+            "sd": "”ننڍڙا هانس، توکي ڇا گھرجي؟“",
+            "ur": "”تمہیں کیا چاہیے، چھوٹے ہانس؟“"
+          },
+          {
+            "en": "“The Miller's son has fallen from a ladder, and has hurt himself, and the Miller wants you to come at once.”",
+            "sd": "”ملر جو پٽ ڏاڪڻ تان ڪري پيو آهي، ۽ هن کي ڌڪ لڳو آهي، ۽ ملر چاهي ٿو ته تون هڪدم اچين.“",
+            "ur": "”ملر کا بیٹا سیڑھی سے گر پڑا ہے، اور اسے چوٹ لگی ہے، اور ملر چاہتا ہے کہ تم فوراً آؤ۔“"
+          },
+          {
+            "en": "“All right!” said the Doctor; and he ordered his horse, and his big boots, and his lantern, and came downstairs, and rode off in the direction of the Miller's house, little Hans trudging behind him.",
+            "sd": "ڊاڪٽر چيو ته ”سٺو!“ ۽ هن پنهنجي گھوڙي، ۽ پنهنجن وڏن بوٽن، ۽ پنهنجي لالٽين جو حڪم ڏنو، ۽ هيٺ آيو، ۽ ملر جي گھر ڏانهن گھوڙي تي روانو ٿي ويو، ننڍڙو هانس هن جي پٺيان ڳرا پير ڀري هلندو رھيو.",
+            "ur": "ڈاکٹر نے کہا کہ ”اچھا!“ اور اس نے اپنے گھوڑے، اور اپنے بڑے جوتوں، اور اپنی لالٹین کا حکم دیا، اور نیچے آیا، اور ملر کے گھر کی طرف گھوڑے پر روانہ ہو گیا، چھوٹا ہانس اس کے پیچھے بھاری قدموں سے چلتا رہا۔"
+          },
+          {
+            "en": "But the storm grew worse and worse, and the rain fell in torrents, and little Hans could not see where he was going or keep up with the horse. At last he lost his way, and wandered off on the moor, which was a very dangerous place, as it was full of deep holes, and there poor little Hans was drowned. His body was found the next day by some goatherds, floating in a great pool of water, and was brought back by them to the cottage.",
+            "sd": "پر طوفان وڌيڪ ۽ وڌيڪ خراب ٿيندو ويو، ۽ مينهن زور سان وسڻ لڳو، ۽ ننڍڙو هانس ڏسي نه سگھيو ته هو ڪيڏانهن وڃي رھيو آهي، ۽ گھوڙي سان گڏ هلڻ بهي نه سگھيو. آخرڪار هو رستو وساري ويٺو، ۽ ويران ميدان ڏانهن ڀٽڪي ويو، جيڪو ڏاڍو خطرناڪ هنڌ هو، ڇاڪاڻ ته اهو گھرن کڏن سان ڀريل هو، ۽ اتي غريب ننڍڙو هانس ٻڏي مري ويو. هن جو لاش ٻئي ڏينهن ڪجهه ٻڪريون چارڻ وارن کي پاڻي جي وڏي تلاءَ ۾ ترندو مليو، ۽ اهي ان کي واپس جھوپڙي ڏانهن وٺي آيا.",
+            "ur": "لیکن طوفان بدتر سے بدتر ہوتا گیا، اور بارش زور سے برسنے لگی، اور چھوٹا ہانس دیکھ نہ سکا کہ وہ کدھر جا رہا ہے، اور گھوڑے کے ساتھ چل بھی نہ سکا۔ آخرکار وہ راستہ بھول گیا، اور ویران میدان کی طرف بھٹک گیا، جو بہت خطرناک جگہ تھی، کیونکہ وہ گہرے گڑھوں سے بھرا تھا، اور وہاں غریب چھوٹا ہانس ڈوب کر مر گیا۔ اس کی لاش اگلے دن کچھ بکریاں چرانے والوں کو پانی کے بڑے تالاب میں تیرتی ملی، اور وہ اسے واپس جھونپڑی کی طرف لے آئے۔"
+          },
+          {
+            "en": "Everybody went to little Hans' funeral, as he was so popular, and the Miller was the chief mourner.",
+            "sd": "هرڪو ننڍڙي هانس جي جنازي تي ويو، ڇاڪاڻ ته هو ايترو ته مشهور هو، ۽ ملر مکيه ماتم ڪندڙ هو.",
+            "ur": "ہر کوئی چھوٹے ہانس کے جنازے پر گیا، کیونکہ وہ اتنا مشہور تھا، اور ملر اہم ماتم کرنے والا تھا۔"
+          },
+          {
+            "en": "“As I was his best friend,” said the Miller, “it is only fair that I should have the best place”; so he walked at the head of the procession in a long black cloak, and every now and then he wiped his eyes with a big pocket-handkerchief.",
+            "sd": "ملر چيو ته ”جيئن مان هن جو بهترين دوست هوس، اهو ئي انصاف آهي ته مون کي بهترين جاءِ ملڻ گھرجي.“ ان ڪري هو ڊگهو ڪارو چوغو پائي جلوس جي اڳيان هليو، ۽ هر هاڻي هو پنهنجون اکيون وڏي رومال سان اگھندو رھندو هو.",
+            "ur": "ملر نے کہا کہ ”جیسا کہ میں اس کا بہترین دوست تھا، یہی انصاف ہے کہ مجھے بہترین جگہ ملنی چاہیے۔“ اس لیے وہ لمبا کالا چوغہ پہن کر جلوس کے آگے چلا، اور ہر تھوڑی دیر بعد وہ اپنی آنکھیں بڑے رومال سے پونچھتا رہتا تھا۔"
+          },
+          {
+            "en": "“Little Hans is certainly a great loss to everyone,” said the Blacksmith, when the funeral was over, and they were all seated comfortably in the inn, drinking spiced wine and eating sweet cakes.",
+            "sd": "لوهار چيو ته ”ننڍڙو هانس يقينن هرڪنهن لاءِ وڏو نقصان آهي.“ جڏهن جنازو پورو ٿيو، ۽ اهي سڀئي سراءِ ۾ آرام سان ويٺا، مصالحيدار شراب پي رھيا هئا ۽ مٺا ڪيڪ کائي رھيا هئا.",
+            "ur": "لوہار نے کہا کہ ”چھوٹا ہانس یقیناً ہر کسی کے لیے بڑا نقصان ہے۔“ جب جنازہ ختم ہوا، اور وہ سب سرائے میں آرام سے بیٹھے، مصالحہ دار شراب پی رہے تھے اور میٹھے کیک کھا رہے تھے۔"
+          },
+          {
+            "en": "“A great loss to me at any rate,” answered the Miller; “why, I had as good as given him my wheelbarrow, and now I really don't know what to do with it. It is very much in my way at home, and it is in such bad repair that I could not get anything for it if I sold it. I will certainly take care not to give away anything again. One always suffers for being generous.”",
+            "sd": "ملر جواب ڏنو ته ”گھٽ ۾ گھٽ منهنجي لاءِ ته وڏو نقصان آهي. ڇاڪاڻ ته مون هن کي پنهنجي هٿ گاڏي ڏيئي ئي ڇڏي هئي، ۽ هاڻي مون کي واقعي خبر ناهي ته مان ان سان ڇا ڪريان. اها گھر ۾ منهنجي رستي ۾ گھڻو اچي ٿي، ۽ اها ايتري ته خراب حالت ۾ آهي جو جيڪڏهن مان ان کي وڪڻان ته مون کي ان لاءِ ڪجهه بهي نه ملندو. مان يقينن خيال رکندس ته ٻيهر ڪجهه بهي نه ڏيان. سخاوت ڪرڻ تي ماڻهو هميشه تڪليف سھندو آهي.“",
+            "ur": "ملر نے جواب دیا کہ ”کم از کم میرے لیے تو بڑا نقصان ہے۔ کیونکہ میں نے اسے اپنی ہاتھ گاڑی دے ہی دی تھی، اور اب مجھے واقعی نہیں معلوم کہ میں اس کے ساتھ کیا کروں۔ یہ گھر میں میرے راستے میں بہت آتی ہے، اور یہ اتنی خراب حالت میں ہے کہ اگر میں اسے بیچوں تو مجھے اس کے لیے کچھ بھی نہیں ملے گا۔ میں یقیناً خیال رکھوں گا کہ دوبارہ کچھ بھی نہ دوں۔ سخاوت کرنے پر آدمی ہمیشہ تکلیف اٹھاتا ہے۔“"
+          }
+        ]
+      },
+      {
+        "bookPages": "37-40",
+        "lesson": "I Have a Dream",
+        "paragraphs": [
+          {
+            "en": "Dr. Martin Luther King Jr. delivered his famous speech I Have a Dream on August 28, 1963, during the march on Washington. The speech took place at the Lincoln Memorial in Washington, D.C., and was a defining moment of the American Civil Rights Movement. King addressed a crowd of over 250,000 people to call for an end to racism, segregation, and economic injustice, and to advocate for civil and equal rights for Afro-Americans. His speech emphasized his vision of a future where all people would be judged by their character, not the colour of their skin.",
+            "sd": "ڊاڪٽر مارٽن لوٿر ڪنگ جونيئر 28 آگسٽ 1963ع تي واشنگٽن ۾ مارچ دوران پنهنجي مشهور تقرير 'آءِ هيو اي ڊريم' ڏني. هي تقرير واشنگٽن ڊي سي ۾ لنڪن ميموريل وٽ ٿي، ۽ اها آمريڪي شهري حقن جي تحريڪ جو هڪ فيصلائتو لمحو هئي. ڪنگ اڍائي لک کان وڌيڪ ماڻهن جي ميڙ کي خطاب ڪندي نسل پرستي، علحدگي ۽ معاشي ناانصافي جي خاتمي ۽ آفريڪي آمريڪين لاءِ شهري ۽ برابر حقن جو مطالبو ڪيو. هن جي تقرير ۾ هن جي اها خوابناڪ سوچ ظاهر ٿي ته هڪ ڏينهن سڀني ماڻهن کي سندن چمڙي جي رنگ سان نه، پر سندن ڪردار سان پرکيو ويندو.",
+            "ur": "ڈاکٹر مارٹن لوتھر کنگ جونیئر نے 28 اگست 1963ء کو واشنگٹن میں مارچ کے دوران اپنی مشہور تقریر 'آئی ہیو اے ڈریم' کی۔ یہ تقریر واشنگٹن ڈی سی میں لنکن میموریل میں ہوئی اور یہ امریکی شہری حقوق کی تحریک کا ایک فیصلہ کن لمحہ تھی۔ کنگ نے ڈھائی لاکھ سے زیادہ لوگوں کے مجمع سے خطاب کرتے ہوئے نسل پرستی، علیحدگی اور معاشی ناانصافی کے خاتمے اور افریقی امریکیوں کے لیے شہری اور برابر حقوق کا مطالبہ کیا۔ ان کی تقریر میں ان کا یہ خواب ظاہر ہوا کہ ایک دن سب لوگوں کو ان کی جلد کے رنگ سے نہیں بلکہ ان کے کردار سے پرکھا جائے گا۔"
+          },
+          {
+            "en": "SPEECH: I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.",
+            "sd": "تقرير: مان اڄ اوهان سان گڏجي خوش آهيان، ڇاڪاڻ ته هي ڏينهن تاريخ ۾ اسان جي قوم جي تاريخ ۾ آزادي لاءِ سڀ کان وڏي مظاهري طور ياد رکيو ويندو.",
+            "ur": "تقریر: میں آج آپ کے ساتھ مل کر خوش ہوں، کیونکہ یہ دن تاریخ میں ہماری قوم کی تاریخ میں آزادی کے لیے سب سے بڑے مظاہرے کے طور پر یاد رکھا جائے گا۔"
+          },
+          {
+            "en": "This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity. But one hundred years later, the Negro still is not free. One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination.",
+            "sd": "هي اهم فرمان لکين نيگرو غلامن لاءِ اميد جي وڏي روشني بڻجي آيو، جيڪي ناانصافي جي باهه جو شڪار ٿيا هئا. اهو خوشي جي صبح وانگر آيو، جيڪو سندن قيد جي ڊگهي رات کي ختم ڪرڻ لاءِ هو. پر سؤ سالن کان پوءِ به نيگرو اڃا آزاد ناهي. سؤ سالن کان پوءِ به نيگرو جي زندگي اڃا افسوس سان علحدگي جي زنجيرن ۽ امتياز جي ٻيڙين ۾ جڪڙيل آهي.",
+            "ur": "یہ اہم فرمان لاکھوں نیگرو غلاموں کے لیے امید کی بڑی روشنی بن کر آیا، جو ناانصافی کی آگ میں جل رہے تھے۔ یہ خوشی کی صبح کی طرح آیا جو ان کی قید کی لمبی رات کو ختم کرنے کے لیے تھا۔ لیکن سو سال بعد بھی نیگرو ابھی آزاد نہیں ہے۔ سو سال بعد بھی نیگرو کی زندگی ابھی افسوس کے ساتھ علیحدگی کی زنجیروں اور امتیاز کی بیڑیوں میں جکڑی ہوئی ہے۔"
+          },
+          {
+            "en": "One hundred years later, the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity. One hundred years later, the Negro is still languished in the corners of American society and finds himself an exile in his own land. And so we've come here today to dramatize a shameful condition.",
+            "sd": "سؤ سالن کان پوءِ، نيگرو مادي خوشحالي جي وسيع سمنڊ جي وچ ۾ غربت جي اڪيلي ٻيٽ تي زندگي گذاري ٿو. سؤ سالن کان پوءِ، نيگرو اڃا آمريڪي سماج جي ڪنڊن ۾ سڙي ٿو ۽ پنهنجي ئي ملڪ ۾ پاڻ کي جلاوطن محسوس ڪري ٿو. ان ڪري اسين اڄ هتي هڪ شرمناڪ حالت کي ظاهر ڪرڻ لاءِ آيا آهيون.",
+            "ur": "سو سال بعد، نیگرو مادی خوشحالی کے وسیع سمندر کے بیچ غربت کے اکیلے جزیرے پر زندگی گزارتا ہے۔ سو سال بعد، نیگرو ابھی امریکی معاشرے کے کونوں میں سسک رہا ہے اور اپنے ہی ملک میں خود کو جلاوطن محسوس کرتا ہے۔ اس لیے ہم آج یہاں ایک شرمناک حالت کو ظاہر کرنے کے لیے آئے ہیں۔"
+          },
+          {
+            "en": "This note was a promise that all men, yes, black men as well as white men, would be guaranteed the \"unalienable Rights\" of \"Life, Liberty and the pursuit of Happiness.\"",
+            "sd": "هي واعدو هو ته سڀني ماڻهن کي، ها، ڪارن ماڻهن کي به ۽ گورن ماڻهن کي به، 'زندگي، آزادي ۽ خوشي جي تلاش' جا 'ناقابلِ منتقلي حق' ضرور ملندا.",
+            "ur": "یہ وعدہ تھا کہ سب لوگوں کو، ہاں، سیاہ لوگوں کو بھی اور گورے لوگوں کو بھی، 'زندگی، آزادی اور خوشی کی تلاش' کے 'ناقابلِ انتقال حقوق' ضرور ملیں گے۔"
+          },
+          {
+            "en": "Now is the time to make real the promises of democracy.",
+            "sd": "هاڻي اهو وقت آهي ته جمهوريت جي واعدن کي حقيقت بڻايو وڃي.",
+            "ur": "اب وہ وقت ہے کہ جمہوریت کے وعدوں کو حقیقت بنایا جائے۔"
+          },
+          {
+            "en": "Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice.",
+            "sd": "هاڻي اهو وقت آهي ته علحدگي جي اونداهي ۽ ويران وادي مان اٿي نسلي انصاف جي روشن رستي ڏانهن هليا وڃون.",
+            "ur": "اب وہ وقت ہے کہ علیحدگی کی تاریک اور ویران وادی سے اٹھ کر نسلی انصاف کے روشن راستے کی طرف چلیں۔"
+          },
+          {
+            "en": "Now is the time to lift our nation from the quick sands of racial injustice to the solid rock of brotherhood.",
+            "sd": "هاڻي اهو وقت آهي ته اسان جي قوم کي نسلي ناانصافي جي دلدل مان ڪڍي ڀائپي جي مضبوط پٿر تي بيهاريون.",
+            "ur": "اب وہ وقت ہے کہ ہماری قوم کو نسلی ناانصافی کی دلدل سے نکال کر بھائی چارے کی مضبوط چٹان پر کھڑا کریں۔"
+          },
+          {
+            "en": "Now is the time to make justice a reality for all people on earth.",
+            "sd": "هاڻي اهو وقت آهي ته ڌرتي تي سڀني ماڻهن لاءِ انصاف کي حقيقت بڻايو وڃي.",
+            "ur": "اب وہ وقت ہے کہ زمین پر سب لوگوں کے لیے انصاف کو حقیقت بنایا جائے۔"
+          },
+          {
+            "en": "We must forever conduct our struggle on the high plane of dignity and discipline. We must not allow our creative protest to degenerate into physical violence. Again and again, we must rise to the majestic heights of meeting physical force with soul force. The marvellous new militancy which has engulfed the Negro community must not lead us to a distrust of all white people, for many of our white brothers, as evidenced by their presence here today, have come to realize that their destiny is tied up with our destiny.",
+            "sd": "اسان کي پنهنجي جدوجهد هميشه عزت ۽ نظم و ضبط جي بلند سطح تي هلائڻ گھرجي. اسان کي پنهنجي تخليقي احتجاج کي جسماني تشدد ۾ تبديل ٿيڻ نه ڏيڻ گھرجي. بار بار اسان کي جسماني طاقت جو جواب روح جي طاقت سان ڏيڻ گھرجي. نيگرو برادري ۾ پکڙيل هي نئون شاندار جوش اسان کي سڀني گورن ماڻهن تي بي اعتمادي ڏانهن نه وٺي وڃي، ڇاڪاڻ ته اسان جا ڪيترائي گورا ڀائر، جيئن اڄ هتي سندن موجودگي مان ظاهر آهي، اهو سمجھي ويا آهن ته سندن قسمت اسان جي قسمت سان جڙيل آهي.",
+            "ur": "ہمیں اپنی جدوجہد ہمیشہ عزت اور نظم و ضبط کی بلند سطح پر چلانی چاہیے۔ ہمیں اپنے تخلیقی احتجاج کو جسمانی تشدد میں بدلنے نہیں دینا چاہیے۔ بار بار ہمیں جسمانی طاقت کا مقابلہ روح کی طاقت سے کرنے کی بلندیوں پر پہنچنا چاہیے۔ نیگرو برادری میں پھیلی ہوئی یہ نئی شاندار سرگرمی ہمیں سب گورے لوگوں پر بے اعتمادی کی طرف نہ لے جائے، کیونکہ ہمارے بہت سے گورے بھائی، جیسا کہ آج یہاں ان کی موجودگی سے ظاہر ہے، یہ سمجھ گئے ہیں کہ ان کی قسمت ہماری قسمت سے جڑی ہوئی ہے۔"
+          },
+          {
+            "en": "And they have come to realize that their freedom is inextricably bound to our freedom. We cannot walk alone. And as we walk, we must make the pledge that we shall always march ahead. We cannot turn back.",
+            "sd": "۽ هنن اهو به سمجھي ورتو آهي ته سندن آزادي اسان جي آزادي سان مضبوطيءَ سان جڙيل آهي. اسين اڪيلا هلي نٿا سگھون. ۽ جيئن اسين هلون ٿا، اسان کي اهو واعدو ڪرڻ گھرجي ته اسين هميشه اڳتي وڌنداسين. اسين پوئتي موٽي نٿا سگھون.",
+            "ur": "اور وہ یہ بھی سمجھ گئے ہیں کہ ان کی آزادی ہماری آزادی سے مضبوطی سے جڑی ہوئی ہے۔ ہم اکیلے نہیں چل سکتے۔ اور جیسے ہم چلتے ہیں، ہمیں یہ عہد کرنا چاہیے کہ ہم ہمیشہ آگے بڑھیں گے۔ ہم پیچھے نہیں مڑ سکتے۔"
+          },
+          {
+            "en": "We cannot be satisfied as long as the Negro's basic mobility is from a smaller ghetto to a larger one. We can never be satisfied as long as our children are stripped of their self-hood and robbed of their dignity by signs stating: \"For Whites only.\"",
+            "sd": "اسين مطمئن ٿي نٿا سگھون، جيستائين نيگرو جي بنيادي نقل و حرکت هڪ ننڍي بستي کان وڏي بستي ڏانهن آهي. اسين ڪڏهن به مطمئن ٿي نٿا سگھون، جيستائين اسان جا ٻار انهن نشانن ڪري پنهنجي سڃاڻپ ۽ عزت کان محروم ٿين ٿا، جن تي لکيل آهي: 'صرف گورن لاءِ.'",
+            "ur": "ہم مطمئن نہیں ہو سکتے جب تک نیگرو کی بنیادی نقل و حرکت ایک چھوٹی بستی سے بڑی بستی کی طرف ہے۔ ہم کبھی مطمئن نہیں ہو سکتے جب تک ہمارے بچے اپنی شناخت اور عزت سے محروم کیے جاتے ہیں، جب نشان لگے ہوتے ہیں: 'صرف گوروں کے لیے۔'"
+          },
+          {
+            "en": "We cannot be satisfied as long as a Negro in Mississippi cannot vote and a Negro in New York believes he has nothing for which to vote.",
+            "sd": "اسين مطمئن ٿي نٿا سگھون، جيستائين مسيسپي ۾ هڪ نيگرو ووٽ ڏئي نٿو سگھي ۽ نيو يارڪ ۾ هڪ نيگرو اهو سمجھي ٿو ته هن وٽ ووٽ ڏيڻ جو ڪو سبب ناهي.",
+            "ur": "ہم مطمئن نہیں ہو سکتے جب تک مسیسیپی میں ایک نیگرو ووٹ نہیں دے سکتا اور نیویارک میں ایک نیگرو یہ سمجھتا ہے کہ اس کے پاس ووٹ دینے کے لیے کچھ بھی نہیں ہے۔"
+          },
+          {
+            "en": "No, no, we are not satisfied, and we will not be satisfied until \"justice rolls down like waters, and righteousness like a mighty stream.\"",
+            "sd": "نه، نه، اسين مطمئن ناهيون، ۽ اسين مطمئن ٿينداسين به نه، جيستائين 'انصاف پاڻي وانگر وهي ٿو، ۽ نيڪي وڏي درياهه وانگر.'",
+            "ur": "نہیں، نہیں، ہم مطمئن نہیں ہیں، اور ہم مطمئن نہیں ہوں گے جب تک 'انصاف پانی کی طرح بہتا ہے، اور نیکی بڑی ندی کی طرح۔'"
+          },
+          {
+            "en": "Let us not wallow in the valley of despair, I say to you today, my friends. And so even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed: \"We hold these truths to be self-evident, that all men are created equal.\"",
+            "sd": "اچو ته مايوسي جي وادي ۾ نه ڦاسون، مان اڄ اوهان کي چوان ٿو، منهنجا دوستو. ۽ جيتوڻيڪ اسان کي اڄ ۽ سڀاڻي جي مشڪلاتن کي منهن ڏيڻو آهي، تڏهن به مون کي هڪ خواب آهي. اهو هڪ خواب آهي جيڪو آمريڪي خواب ۾ گھري طرح جڙيل آهي. مون کي خواب آهي ته هڪ ڏينهن هي قوم اٿي پنهنجي اصول جي سچي معنيٰ تي عمل ڪندي: 'اسان انهن سچاين کي پاڻمرادو واضح سمجھون ٿا، ته سڀ انسان برابر پيدا ٿيا آهن.'",
+            "ur": "آؤ ہم مایوسی کی وادی میں نہ پھنسیں، میں آج آپ سے کہتا ہوں، میرے دوستو۔ اور اگرچہ ہمیں آج اور کل کی مشکلات کا سامنا کرنا ہے، پھر بھی مجھے ایک خواب ہے۔ یہ ایک خواب ہے جو امریکی خواب میں گہرائی سے جڑا ہوا ہے۔ مجھے خواب ہے کہ ایک دن یہ قوم اٹھ کھڑی ہوگی اور اپنے اصول کے سچے معنی پر عمل کرے گی: 'ہم ان سچائیوں کو خود واضح سمجھتے ہیں، کہ سب انسان برابر پیدا ہوئے ہیں۔'"
+          },
+          {
+            "en": "I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood.",
+            "sd": "مون کي خواب آهي ته هڪ ڏينهن جارجيا جي ڳاڙهين ٽڪرين تي، اڳوڻن غلامن جا پٽ ۽ اڳوڻن غلام مالڪن جا پٽ گڏجي ڀائپي جي ميز تي گڏ ٿي سگھندا.",
+            "ur": "مجھے خواب ہے کہ ایک دن جارجیا کی سرخ پہاڑیوں پر، سابق غلاموں کے بیٹے اور سابق غلام مالکوں کے بیٹے مل کر بھائی چارے کی میز پر بیٹھ سکیں گے۔"
+          },
+          {
+            "en": "I have a dream that one day even the state of Mississippi, a state sweltering with the heat of injustice, sweltering with the heat of oppression, will be transformed into an oasis of freedom and justice.",
+            "sd": "مون کي خواب آهي ته هڪ ڏينهن مسيسپي جي رياست به، جيڪا ناانصافي جي گرمي ۽ ظلم جي گرمي ۾ سڙي ٿي، اها آزادي ۽ انصاف جي نخلستان ۾ تبديل ٿي ويندي.",
+            "ur": "مجھے خواب ہے کہ ایک دن مسیسیپی کی ریاست بھی، جو ناانصافی کی گرمی اور ظلم کی گرمی میں جل رہی ہے، آزادی اور انصاف کے نخلستان میں بدل جائے گی۔"
+          },
+          {
+            "en": "I have a dream that my four little children will one day live in a nation where they will not be judged by the colour of their skin but by the content of their character. I have a dream today!",
+            "sd": "مون کي خواب آهي ته منهنجا چار ننڍڙا ٻار هڪ ڏينهن اهڙي قوم ۾ زندگي گذاريندا، جتي سندن چمڙي جي رنگ سان نه، پر سندن ڪردار جي خوبي سان پرکيا ويندا. مون کي اڄ خواب آهي!",
+            "ur": "مجھے خواب ہے کہ میرے چار چھوٹے بچے ایک دن ایسی قوم میں زندگی گزاریں گے، جہاں ان کی جلد کے رنگ سے نہیں بلکہ ان کے کردار کی خوبی سے پرکھا جائے گا۔ مجھے آج خواب ہے!"
+          },
+          {
+            "en": "I have a dream that one day, down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of \"interposition\" and \"nullification\" -- one day right there in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers. I have a dream today! I have a dream that one day every valley shall be exalted, and every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight; \"and the glory of the Lord shall be revealed and all flesh shall see it together.\" This is our hope, and this is the faith that I go back to the South with. With this faith, we will be able to hew out of the mountain of despair a stone of hope. With this faith, we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood. With this faith, we will be able to work together, to pray together, to struggle together, to go to jail together, to stand up for freedom together, knowing that we will be free one day. And this will be the day -- this will be the day when all people* will be able to sing with new meaning:",
+            "sd": "مون کي خواب آهي ته هڪ ڏينهن، الاباما ۾، جتي ظالم نسل پرست آهن، جتي ان جو گورنر 'مداخلت' ۽ 'منسوخي' جي لفظن سان پنهنجا چپ ڀري ٿو — هڪ ڏينهن بلڪل اتي الاباما ۾ ننڍڙا ڪارا ڇوڪرا ۽ ڪاريون ڇوڪريون ننڍڙن گورن ڇوڪرن ۽ گورين ڇوڪرين سان ڀينرون ۽ ڀائر بڻجي هٿ ملائي سگھندا. مون کي اڄ خواب آهي! مون کي خواب آهي ته هڪ ڏينهن هر وادي بلند ڪئي ويندي، ۽ هر ٽڪري ۽ جبل کي هيٺ ڪيو ويندو، اڻ برابر جايون هموار ڪيون وينديون، ۽ ٽيڙهيون جايون سڌيون ڪيون وينديون؛ '۽ رب جي شان ظاهر ٿيندي ۽ سڀ ماڻهو گڏجي اهو ڏسندا.' هي اسان جي اميد آهي، ۽ هي اهو ايمان آهي، جنهن سان مان ڏکڻ ڏانهن واپس وڃان ٿو. هن ايمان سان، اسين مايوسي جي جبل مان اميد جو پٿر ڪڍي سگھنداسين. هن ايمان سان، اسين پنهنجي قوم جي بي ترتيب اختلافن کي ڀائپي جي سهڻي ساز ۾ تبديل ڪري سگھنداسين. هن ايمان سان، اسين گڏجي ڪم ڪري سگھنداسين، گڏجي دعا ڪري سگھنداسين، گڏجي جدوجهد ڪري سگھنداسين، گڏجي جيل وڃي سگھنداسين، گڏجي آزادي لاءِ اٿي سگھنداسين، اهو ڄاڻندي ته اسين هڪ ڏينهن آزاد ٿينداسين. ۽ اهو ئي ڏينهن هوندو — اهو ئي ڏينهن هوندو، جڏهن سڀ ماڻهو نئين معنيٰ سان ڳائي سگھندا:",
+            "ur": "مجھے خواب ہے کہ ایک دن، الاباما میں، جہاں ظالم نسل پرست ہیں، جہاں اس کا گورنر 'مداخلت' اور 'منسوخی' کے الفاظ سے اپنے ہونٹ بھرے ہوئے ہے — ایک دن بالکل وہیں الاباما میں چھوٹے سیاہ لڑکے اور سیاہ لڑکیاں چھوٹے گورے لڑکوں اور گوری لڑکیوں کے ساتھ بہنیں اور بھائی بن کر ہاتھ ملا سکیں گے۔ مجھے آج خواب ہے! مجھے خواب ہے کہ ایک دن ہر وادی بلند کی جائے گی، اور ہر پہاڑی اور پہاڑ کو نیچا کیا جائے گا، ناہموار جگہیں ہموار کی جائیں گی، اور ٹیڑھی جگہیں سیدھی کی جائیں گی؛ 'اور رب کی شان ظاہر ہوگی اور سب لوگ مل کر اسے دیکھیں گے۔' یہ ہماری امید ہے، اور یہ وہ ایمان ہے جس کے ساتھ میں جنوب کی طرف واپس جاتا ہوں۔ اس ایمان کے ساتھ، ہم مایوسی کے پہاڑ سے امید کا پتھر نکال سکیں گے۔ اس ایمان کے ساتھ، ہم اپنی قوم کے بے ترتیب اختلافوں کو بھائی چارے کی خوبصورت ساز میں بدل سکیں گے۔ اس ایمان کے ساتھ، ہم مل کر کام کر سکیں گے، مل کر دعا کر سکیں گے، مل کر جدوجہد کر سکیں گے، مل کر جیل جا سکیں گے، مل کر آزادی کے لیے کھڑے ہو سکیں گے، یہ جانتے ہوئے کہ ہم ایک دن آزاد ہوں گے۔ اور وہی دن ہوگا — وہی دن ہوگا جب سب لوگ نئے معنی کے ساتھ گا سکیں گے:"
+          },
+          {
+            "en": "My country 'tis of thee, sweet land of liberty, of thee I sing. Land where my fathers died, land of the Pilgrim's pride, From every mountainside, let freedom ring!",
+            "sd": "اي منهنجا وطن، تون منهنجو آهين، اي آزادي جي مٺي سرزمين، مان تنهنجو ڳايان ٿو. اها سرزمين جتي منهنجا ابا ڏاڏا مري ويا، پهرين آبادگارن جي فخر واري سرزمين، هر جبل جي چوٽي تان آزادي جو آواز گونجي!",
+            "ur": "اے میرے وطن، تو میرا ہے، اے آزادی کی میٹھی سرزمین، میں تیرا گیت گاتا ہوں۔ وہ سرزمین جہاں میرے باپ دادا مرے، پہلے آبادگاروں کے فخر والی سرزمین، ہر پہاڑ کی چوٹی سے آزادی کی آواز گونجے!"
+          },
+          {
+            "en": "And if America is to be a great nation, this must become true. And so let freedom ring from the prodigious hilltops of New Hampshire. Let freedom ring from the mighty mountains of New York. Let freedom ring from the heightening Alleghenies of Pennsylvania. Let freedom ring from the snow-capped Rockies of Colorado. Let freedom ring from the curvaceous slopes of California. But not only that:",
+            "sd": "۽ جيڪڏهن آمريڪا کي هڪ وڏي قوم بڻجڻو آهي، ته هي ضرور سچ ٿيڻ گھرجي. ان ڪري آزادي جو آواز نيو هيمپشائر جي وڏين ٽڪرين تان گونجي. آزادي جو آواز نيو يارڪ جي وڏن جبلن تان گونجي. آزادي جو آواز پينسلوانيا جي بلند اليگيني جبلن تان گونجي. آزادي جو آواز ڪولوراڊو جي برف سان ڍڪيل راڪي جبلن تان گونجي. آزادي جو آواز ڪيليفورنيا جي وکرايل ڍلائن تان گونجي. پر صرف اهو ئي نه:",
+            "ur": "اور اگر امریکہ کو ایک عظیم قوم بننا ہے، تو یہ ضرور سچ ہونا چاہیے۔ اس لیے آزادی کی آواز نیو ہیمپشائر کی بڑی پہاڑیوں سے گونجے۔ آزادی کی آواز نیویارک کے بڑے پہاڑوں سے گونجے۔ آزادی کی آواز پنسلوانیا کے بلند الیگینی پہاڑوں سے گونجے۔ آزادی کی آواز کولوراڈو کے برف سے ڈھکے راکی پہاڑوں سے گونجے۔ آزادی کی آواز کیلیفورنیا کی خم دار ڈھلوانوں سے گونجے۔ لیکن صرف یہی نہیں:"
+          },
+          {
+            "en": "Let freedom ring from Stone Mountain of Georgia. Let freedom ring from Lookout Mountain of Tennessee. Let freedom ring from every hill and molehill of Mississippi. From every mountainside, let freedom ring.",
+            "sd": "آزادي جو آواز جارجيا جي اسٽون مائونٽين تان گونجي. آزادي جو آواز ٽينيسي جي لوڪ آئوٽ مائونٽين تان گونجي. آزادي جو آواز مسيسپي جي هر ٽڪري ۽ ننڍي ٽڪري تان گونجي. هر جبل جي چوٽي تان، آزادي جو آواز گونجي.",
+            "ur": "آزادی کی آواز جارجیا کے اسٹون ماؤنٹین سے گونجے۔ آزادی کی آواز ٹینیسی کے لوک آؤٹ ماؤنٹین سے گونجے۔ آزادی کی آواز مسیسیپی کی ہر پہاڑی اور چھوٹی پہاڑی سے گونجے۔ ہر پہاڑ کی چوٹی سے، آزادی کی آواز گونجے۔"
+          },
+          {
+            "en": "And when this happens, when we allow freedom ring, when we let it ring from every village and every hamlet, from every state and every city, we will be able to speed up that day when all people*, black men and white men....will be able to join hands and sing in the words of the old Negro spiritual, free at last! free at last! thank God Almighty, we are free at last!",
+            "sd": "۽ جڏهن ائين ٿيندو، جڏهن اسين آزادي کي هر ڳوٺ ۽ هر ننڍي ڳوٺ مان، هر رياست ۽ هر شهر مان گونجڻ ڏينداسين، ته اسين ان ڏينهن کي ويجهو آڻي سگھنداسين، جڏهن سڀ ماڻهو، ڪارا ماڻهو ۽ گورا ماڻهو... گڏجي هٿ ملائي سگھندا ۽ پراڻي نيگرو روحاني گيت جي لفظن ۾ ڳائي سگھندا، آخرڪار آزاد! آخرڪار آزاد! خدا جو شڪر آهي، اسين آخرڪار آزاد آهيون!",
+            "ur": "اور جب ایسا ہوگا، جب ہم آزادی کو ہر گاؤں اور ہر چھوٹے گاؤں سے، ہر ریاست اور ہر شہر سے گونجنے دیں گے، تو ہم اس دن کو قریب لا سکیں گے جب سب لوگ، سیاہ لوگ اور گورے لوگ... مل کر ہاتھ ملا سکیں گے اور پرانے نیگرو روحانی گیت کے الفاظ میں گا سکیں گے، آخرکار آزاد! آخرکار آزاد! خدا کا شکر ہے، ہم آخرکار آزاد ہیں!"
+          }
+        ],
+        "section": "2.1",
+        "unit": 2,
+        "unitTitle": "Contribution of World Leaders"
+      },
+      {
+        "bookPages": "62-65",
+        "lesson": "A passage from Conquest of Happiness",
+        "paragraphs": [
+          {
+            "en": "Among the more highly educated members of society today, scientists are often the happiest. Many of the most distinguished among them are emotionally straightforward and gain such deep satisfaction from their work that they find joy in nearly everything. They are happy in their work because science, in the modern world, continues to advance and hold influence—and because its significance is recognized not only by scientists themselves but also by the general public. All the elements of happiness are present in the life of a scientist. They engage in work that fully uses their talents and achieve results that seem meaningful not just to themselves but to society at large—even when the public may not understand those results at all.",
+            "sd": "اڄ جي سماج جي وڌيڪ تعليم يافته ماڻهن ۾ سائنسدان اڪثر سڀ کان وڌيڪ خوش هوندا آهن. انهن مان ڪيترائي تمام گھڻا مشهور ماڻهو جذباتي طرح سادا ۽ سڌا هوندا آهن ۽ پنهنجي ڪم مان ايتري گھري خوشي ۽ اطمينان حاصل ڪندا آهن جو کين لڳ ڀڳ هر شيءِ ۾ خوشي ملندي آهي. هو پنهنجي ڪم ۾ ان ڪري خوش هوندا آهن جو اڄ جي دنيا ۾ سائنس اڳتي وڌندي رھي ٿي ۽ پنهنجو اثر برقرار رکي ٿي، ۽ ان ڪري به جو ان جي اهميت کي نه رڳو سائنسدان پاڻ پر عام ماڻهو به مڃين ٿا. خوشي جا سڀ عنصر سائنسدان جي زندگي ۾ موجود هوندا آهن. هو اهڙو ڪم ڪندا آهن جنهن ۾ سندن سموري صلاحيت ڪم اچي ٿي ۽ اهڙا نتيجا حاصل ڪندا آهن جيڪي نه رڳو کين پاڻ کي پر سڄي سماج کي به معنيٰ خيز لڳندا آهن، جيتوڻيڪ عام ماڻهو انهن نتيجن کي بلڪل به نه سمجھن.",
+            "ur": "آج کے معاشرے کے زیادہ تعلیم یافتہ افراد میں سائنس دان اکثر سب سے زیادہ خوش ہوتے ہیں۔ ان میں سے بہت سے ممتاز لوگ جذباتی طور پر سادہ اور سیدھے ہوتے ہیں اور اپنے کام سے اتنی گہری تسکین حاصل کرتے ہیں کہ انہیں تقریباً ہر چیز میں خوشی ملتی ہے۔ وہ اپنے کام میں اس لیے خوش ہوتے ہیں کہ آج کی دنیا میں سائنس ترقی کرتی رہتی ہے اور اپنا اثر برقرار رکھتی ہے — اور اس لیے بھی کہ اس کی اہمیت کو نہ صرف سائنس دان خود بلکہ عام لوگ بھی تسلیم کرتے ہیں۔ خوشی کے تمام عناصر ایک سائنس دان کی زندگی میں موجود ہوتے ہیں۔ وہ ایسا کام کرتے ہیں جس میں ان کی تمام صلاحیتیں پوری طرح استعمال ہوتی ہیں اور ایسے نتائج حاصل کرتے ہیں جو نہ صرف انہیں خود بلکہ پورے معاشرے کو بامعنی لگتے ہیں — چاہے عام لوگ ان نتائج کو بالکل بھی نہ سمجھیں۔"
+          },
+          {
+            "en": "It is not only distinguished scientists who can find pleasure in their work. The pleasure of work is available to anyone who develops a specialized skill—so long as they are content with the practice of their skill without needing widespread recognition and fame. I once knew a man who had lost the use of both legs early in life, yet remained quietly happy throughout a long lifetime; he achieved this by writing a five-volume work on rose blight, on which he was the leading authority. I also knew a man who was the best typesetter in the world, sought after by all who were passionate about designing artistic fonts; his joy came not so much from the sincere admiration of those whose praise was hard to earn, but from the pure enjoyment of practicing his craft—a joy not unlike that felt by skilled dancers when they dance.",
+            "sd": "رڳو مشهور سائنسدان ئي پنهنجي ڪم ۾ خوشي حاصل نٿا ڪري سگھن، هر اهو ماڻهو به ڪري سگھي ٿو جيڪو ڪا خاص مهارت حاصل ڪري — بشرطيڪ هو پنهنجي مهارت جي مشق تي ئي راضي هجي ۽ کيس وسيع شهرت ۽ نالي جي ضرورت نه هجي. آءٌ هڪ اهڙي ماڻهو کي سڃاڻندو هوس جنهن زندگي جي شروعات ۾ ئي پنهنجي ٻنهي ٽنگن جو استعمال وڃائي ڇڏيو هو، پر هو سڄي ڊگهي زندگي خاموشي سان خوش رھيو؛ هن اها خوشي گلاب جي بيماري تي پنجن جلدن وارو ڪتاب لکي حاصل ڪئي، جنهن ۾ هو سڀ کان وڏو ماهر هو. آءٌ هڪ اهڙي ماڻهو کي به سڃاڻندو هوس جيڪو دنيا جو بهترين ٽائيپ سيٽر هو، جنهن کي اهي سڀ ماڻهو ڳوليندا هئا جيڪي فنڪارانه اکر ٺاهڻ جا شوقين هئا؛ سندس خوشي ايتري قدر انهن ماڻهن جي سچي ساراهه مان نه ملندي هئي جن جي ساراهه حاصل ڪرڻ ڏکيو هو، جيتري قدر پنهنجي هنر جي مشق جي خالص خوشي مان ملندي هئي — اها خوشي جيڪا ماهر ناچڻ وارن کي ناچڻ وقت محسوس ٿيندي آهي.",
+            "ur": "صرف ممتاز سائنس دان ہی اپنے کام میں خوشی نہیں پا سکتے۔ کام کی خوشی ہر اس شخص کو مل سکتی ہے جو کوئی خاص مہارت حاصل کر لے — بشرطیکہ وہ اپنی مہارت کی مشق پر ہی مطمئن ہو اور اسے وسیع شہرت اور نام کی ضرورت نہ ہو۔ میں ایک ایسے شخص کو جانتا تھا جس نے زندگی کے شروع میں ہی اپنی دونوں ٹانگوں کا استعمال کھو دیا تھا، پھر بھی وہ اپنی پوری لمبی زندگی خاموشی سے خوش رہا؛ اس نے یہ خوشی گلاب کی بیماری پر پانچ جلدوں پر مشتمل کتاب لکھ کر حاصل کی، جس میں وہ سب سے بڑا ماہر تھا۔ میں ایک ایسے شخص کو بھی جانتا تھا جو دنیا کا بہترین ٹائپ سیٹر تھا، جسے وہ تمام لوگ تلاش کرتے تھے جو فنی حروف بنانے کے شوقین تھے؛ اس کی خوشی ان لوگوں کی سچی تعریف سے اتنی نہیں ملتی تھی جن کی تعریف حاصل کرنا مشکل تھا، جتنی اپنے ہنر کی مشق کی خالص خوشی سے ملتی تھی — ایسی خوشی جیسی ماہر رقاصوں کو ناچتے وقت محسوس ہوتی ہے۔"
+          },
+          {
+            "en": "There is, however, another quality found in the best kinds of work that contributes even more to happiness than the use of skill. This is the quality of constructiveness. In some work—though certainly not in most—something is created that remains as a lasting result once the work is finished. The most fulfilling goals are those that lead continuously from one achievement to another, without ever reaching a final end; in this way, it becomes clear that building things brings more happiness than tearing things down. It might be more accurate to say that people who enjoy building find in it a deeper satisfaction than those who enjoy destruction can ever find in tearing things apart—because once a person is consumed by hatred, it becomes hard to feel the joy in building that another might feel. At the same time, few things can help overcome hatred more effectively than the chance to do meaningful, constructive work.",
+            "sd": "پر بهترين قسم جي ڪم ۾ هڪ ٻي خوبي به هوندي آهي جيڪا مهارت جي استعمال کان به وڌيڪ خوشي ۾ واڌارو ڪري ٿي. اها خوبي تعميري هجڻ آهي. ڪجهه ڪمن ۾ — جيتوڻيڪ اڪثر ۾ نه — ڪا اهڙي شيءِ ٺھندي آهي جيڪا ڪم مڪمل ٿيڻ کان پوءِ به دائمي نتيجي طور باقي رھي ٿي. سڀ کان وڌيڪ اطمينان ڏيندڙ مقصد اهي هوندا آهن جيڪي هڪ ڪاميابي کان ٻئي ڪاميابي ڏانهن مسلسل وٺي ويندا آهن، بغير ڪنهن آخري انجام تي پهچڻ جي؛ انهيءَ طرح اهو واضح ٿي ويندو آهي ته شيون ٺاهڻ سان شيون ڊاهڻ کان وڌيڪ خوشي ملندي آهي. شايد اهو چوڻ وڌيڪ صحيح هوندو ته جيڪي ماڻهو ٺاهڻ ۾ خوشي محسوس ڪندا آهن، انهن کي ان مان تباهي ۾ خوشي محسوس ڪندڙ ماڻهن کان وڌيڪ گھرو اطمينان ملندو آهي — ڇاڪاڻ ته جڏهن ڪو ماڻهو نفرت ۾ ٻڏي ويندو آهي ته ان لاءِ اها خوشي محسوس ڪرڻ ڏکيو ٿي ويندو آهي جيڪا ٺاهڻ ۾ ٻئي کي محسوس ٿيندي آهي. ساڳئي وقت، نفرت تي قابو پائڻ ۾ معنيٰ خيز ۽ تعميري ڪم ڪرڻ جي موقعي کان وڌيڪ اثرائتي ٻي ڪا شيءِ گھٽ ئي هوندي آهي.",
+            "ur": "تاہم بہترین قسم کے کام میں ایک اور خوبی بھی ہوتی ہے جو مہارت کے استعمال سے بھی زیادہ خوشی میں اضافہ کرتی ہے۔ یہ خوبی تعمیری ہونا ہے۔ بعض کاموں میں — اگرچہ اکثر میں نہیں — کوئی ایسی چیز بنتی ہے جو کام مکمل ہونے کے بعد بھی دائمی نتیجے کے طور پر باقی رہتی ہے۔ سب سے زیادہ اطمینان دینے والے مقاصد وہ ہوتے ہیں جو ایک کامیابی سے دوسری کامیابی کی طرف مسلسل لے جاتے ہیں، بغیر کسی آخری انجام تک پہنچے؛ اس طرح یہ واضح ہو جاتا ہے کہ چیزیں بنانے سے چیزیں ڈھانے سے زیادہ خوشی ملتی ہے۔ شاید یہ کہنا زیادہ درست ہوگا کہ جو لوگ بنانے میں خوشی محسوس کرتے ہیں، انہیں اس میں تباہی میں خوشی محسوس کرنے والوں سے زیادہ گہرا اطمینان ملتا ہے — کیونکہ جب کوئی شخص نفرت میں ڈوب جاتا ہے تو اس کے لیے وہ خوشی محسوس کرنا مشکل ہو جاتا ہے جو بنانے میں دوسرے کو محسوس ہوتی ہے۔ اسی وقت نفرت پر قابو پانے میں بامعنی اور تعمیری کام کرنے کے موقع سے زیادہ مؤثر کوئی چیز کم ہی ہوتی ہے۔"
+          },
+          {
+            "en": "Not far removed from dedication to obscure causes is the joy found in hobbies. One of the most famous living mathematicians splits his time equally between solving mathematical problems and collecting stamps. I imagine the latter brings comfort during times when he is stuck in the former. Just think of the enormous joy that hobbies can bring—cooking, art, music, gardening all open up a world of fascination. It's true that many of us feel too 'mature' or 'sophisticated' for these simple joys. We've all enjoyed them as children, but for some reason, we've come to think them beneath the dignity of adulthood. This is completely mistaken; any harmless pleasure is worth valuing.",
+            "sd": "اڻڄاتل مقصدن لاءِ وقف ٿيڻ کان گھڻو پري ناهي اها خوشي جيڪا مشغلن ۾ ملندي آهي. اڄ جي سڀ کان مشهور زنده رياضيدانن مان هڪ پنهنجو وقت رياضي جا مسئلا حل ڪرڻ ۽ ٽپال ٽڪيٽون گڏ ڪرڻ وچ ۾ برابر ورهائيندو آهي. منهنجو خيال آهي ته جڏهن هو اڳئين ڪم ۾ ڦاسي پوندو آهي ته پوئين ڪم کيس سڪون ڏيندو آهي. ذرا سوچيو ته مشغلا ڪيتري وڏي خوشي ڏئي سگھن ٿا — پچائڻ، فن، موسيقي، باغباني، سڀ دلچسپي جي هڪ نئين دنيا کولي ڇڏيندا آهن. اهو سچ آهي ته اسان مان ڪيترائي پاڻ کي انهن سادن خوشين لاءِ گھڻو 'بالغ' يا 'سمجھدار' محسوس ڪندا آهن. اسان سڀني ٻاروتڻ ۾ انهن مان لطف اندوز ٿيا آهيون، پر ڪنهن سبب جي ڪري اسان انهن کي بالغ هجڻ جي شان کان گھٽ سمجھڻ لڳا آهيون. اهو بلڪل غلط آهي؛ هر بي ضرر خوشي قدر ڪرڻ جي لائق هوندي آهي.",
+            "ur": "نامعلوم مقاصد کے لیے وقف ہونے سے زیادہ دور نہیں وہ خوشی جو مشغلوں میں ملتی ہے۔ آج کے سب سے مشہور زندہ ریاضی دانوں میں سے ایک اپنا وقت ریاضی کے مسائل حل کرنے اور ڈاک ٹکٹ جمع کرنے کے درمیان برابر بانٹتا ہے۔ میرا خیال ہے کہ جب وہ پہلے کام میں پھنس جاتا ہے تو دوسرا کام اسے سکون دیتا ہے۔ ذرا سوچیے کہ مشغلے کتنی بڑی خوشی دے سکتے ہیں — کھانا پکانا، فن، موسیقی، باغبانی، سب دلچسپی کی ایک نئی دنیا کھول دیتے ہیں۔ یہ سچ ہے کہ ہم میں سے بہت سے لوگ خود کو ان سادہ خوشیوں کے لیے بہت 'بالغ' یا 'سمجھ دار' محسوس کرتے ہیں۔ ہم سب نے بچپن میں ان سے لطف اٹھایا ہے، لیکن کسی وجہ سے ہم انہیں بالغ ہونے کی شان سے کم سمجھنے لگے ہیں۔ یہ بالکل غلط ہے؛ ہر بے ضرر خوشی قدر کرنے کے لائق ہوتی ہے۔"
+          },
+          {
+            "en": "Fads and hobbies, in many cases—perhaps in most—are not sources of deep, lasting happiness, but rather ways of escaping reality or briefly forgetting some pain that feels too hard to face. True, lasting happiness depends more than anything on what might be called a friendly interest in people and the world around us. A friendly interest in people is a kind of affection, but not the sort that is possessive, controlling, or always craving an intense response. That kind of attachment often leads to unhappiness. The kind that leads to happiness is one that enjoys observing others, takes pleasure in their unique qualities, and wants to support the interests and joys of those it encounters—without trying to control them or demand admiration. A person who genuinely feels this way about others will both spread happiness and receive kindness in return. Because they are content in themselves, they make enjoyable companions, and that in turn increases their own happiness. To naturally and effortlessly like many people may be the greatest source of personal happiness of all.",
+            "sd": "عارضي شوق ۽ مشغلا، ڪيترن ئي صورتن ۾ — شايد اڪثر ۾ — گھري ۽ دائمي خوشي جا ذريعا نه هوندا آهن، بلڪه حقيقت کان ڀڄڻ يا ڪنهن اهڙي تڪليف کي ٿوري دير لاءِ وسارڻ جا طريقا هوندا آهن جنهن کي منهن ڏيڻ گھڻو ڏکيو لڳندو آهي. سچي ۽ دائمي خوشي سڀ کان وڌيڪ ان شيءِ تي منحصر هوندي آهي جنهن کي ماڻهن ۽ پنهنجي آس پاس جي دنيا ۾ دوستانه دلچسپي چئي سگھجي ٿو. ماڻهن ۾ دوستانه دلچسپي هڪ قسم جي محبت هوندي آهي، پر اها اهڙي نه هوندي آهي جيڪا قبضي ڪرڻ واري، قابو ڪرڻ واري يا هميشه شديد جواب جي طلبگار هجي. اهڙي قسم جي وابستگي اڪثر ناخوشي جو سبب بڻجندي آهي. جيڪا دلچسپي خوشي ڏانهن وٺي ويندي آهي، اها ٻين کي ڏسڻ ۾ خوشي محسوس ڪندي آهي، انهن جي منفرد خوبين مان لطف اندوز ٿيندي آهي ۽ انهن ماڻهن جي دلچسپين ۽ خوشين جي مدد ڪرڻ چاهيندي آهي جن سان ان جو واسطو پوندو آهي — بغير انهن تي قابو ڪرڻ جي ڪوشش ڪرڻ جي يا ساراهه جي گھر ڪرڻ جي. جيڪو ماڻهو ٻين بابت سچ پچ ائين محسوس ڪندو آهي، اهو خوشي به پکيڙيندو ۽ بدلي ۾ مهرباني به حاصل ڪندو. ڇاڪاڻ ته هو پاڻ ۾ مطمئن هوندا آهن، ان ڪري هو خوشگوار ساٿي بڻجندا آهن ۽ ان سان سندن پنهنجي خوشي به وڌي ويندي آهي. ڪيترن ئي ماڻهن کي فطري ۽ بي جھد پسند ڪرڻ شايد ذاتي خوشي جو سڀ کان وڏو ذريعو هجي.",
+            "ur": "عارضی شوق اور مشغلے، بہت سے معاملات میں — شاید اکثر میں — گہری اور دائمی خوشی کے ذرائع نہیں ہوتے، بلکہ حقیقت سے بھاگنے یا کسی ایسی تکلیف کو تھوڑی دیر کے لیے بھولنے کے طریقے ہوتے ہیں جس کا سامنا کرنا بہت مشکل لگتا ہے۔ سچی اور دائمی خوشی سب سے زیادہ اس چیز پر منحصر ہوتی ہے جسے لوگوں اور اپنے ارد گرد کی دنیا میں دوستانہ دلچسپی کہا جا سکتا ہے۔ لوگوں میں دوستانہ دلچسپی ایک قسم کی محبت ہوتی ہے، لیکن ایسی نہیں جو قبضہ کرنے والی، قابو کرنے والی یا ہمیشہ شدید جواب کی طلب گار ہو۔ اس قسم کا لگاؤ اکثر ناخوشی کا باعث بنتا ہے۔ جو دلچسپی خوشی کی طرف لے جاتی ہے، وہ دوسروں کو دیکھنے میں خوشی محسوس کرتی ہے، ان کی منفرد خوبیوں سے لطف اٹھاتی ہے اور ان لوگوں کی دلچسپیوں اور خوشیوں کی مدد کرنا چاہتی ہے جن سے اس کا واسطہ پڑتا ہے — بغیر ان پر قابو کرنے کی کوشش کیے یا تعریف کا مطالبہ کیے۔ جو شخص دوسروں کے بارے میں سچ مچ ایسا محسوس کرتا ہے، وہ خوشی بھی پھیلائے گا اور بدلے میں مہربانی بھی پائے گا۔ کیونکہ وہ خود میں مطمئن ہوتے ہیں، اس لیے وہ خوشگوار ساتھی بنتے ہیں اور اس سے ان کی اپنی خوشی بھی بڑھ جاتی ہے۔ بہت سے لوگوں کو فطری اور بے تکلف پسند کرنا شاید ذاتی خوشی کا سب سے بڑا ذریعہ ہو۔"
+          },
+          {
+            "en": "I also appreciate a friendly interest in things. This phrase might sound a bit unusual; some may argue that it's impossible to feel friendly toward inanimate objects. Still, there is something similar to friendliness in the kind of interest a geologist has in rocks, or an archaeologist in ancient ruins—and this kind of interest should also be part of how we relate to individuals and societies. An interest in impersonal things, while perhaps not as crucial to daily happiness as a warm attitude toward other people, is still very important. A person who can forget their troubles by developing a sincere interest in history and astronomy will discover that after their journey into the world of impersonal things, they return with a sense of calm and balance that helps them handle their worries more effectively. And during that time, they will also have experienced a real, even if temporary, kind of happiness.",
+            "sd": "آءٌ شين ۾ دوستانه دلچسپي کي به ساراهيان ٿو. هي جملو شايد ٿورو عجيب لڳي؛ ڪجهه ماڻهو اهو دليل ڏئي سگھن ٿا ته بي جان شين سان دوستي محسوس ڪرڻ ناممڪن آهي. تاهم، ان دلچسپي ۾ دوستي جهڙي ڪا شيءِ هوندي آهي جيڪا هڪ زمينيات جي ماهر کي پٿرن ۾ هوندي آهي، يا هڪ آثار قديمه جي ماهر کي قديم کنڊرن ۾ هوندي آهي — ۽ اهڙي قسم جي دلچسپي کي به ان جو حصو هجڻ گھرجي جنهن طريقي سان اسان فردن ۽ سماجن سان واسطو رکون ٿا. غير ذاتي شين ۾ دلچسپي، جيتوڻيڪ روزاني خوشي لاءِ ٻين ماڻهن ڏانهن گرم رويي جيتري اهم نه هجي، تڏهن به تمام گھڻي اهم هوندي آهي. جيڪو ماڻهو تاريخ ۽ فلڪيات ۾ سچي دلچسپي پيدا ڪري پنهنجون پريشانيون وساري سگھي ٿو، اهو ڏسندو ته غير ذاتي شين جي دنيا ۾ سفر ڪرڻ کان پوءِ هو سڪون ۽ توازن جي احساس سان واپس ايندو آهي جيڪو کيس پنهنجين ڳڻتين کي وڌيڪ اثرائتي طريقي سان منهن ڏيڻ ۾ مدد ڪندو آهي. ۽ ان وقت دوران، هن هڪ حقيقي، جيتوڻيڪ عارضي، قسم جي خوشي به محسوس ڪئي هوندي.",
+            "ur": "میں چیزوں میں دوستانہ دلچسپی کو بھی سراہتا ہوں۔ یہ جملہ شاید تھوڑا عجیب لگے؛ کچھ لوگ یہ دلیل دے سکتے ہیں کہ بے جان چیزوں سے دوستی محسوس کرنا ناممکن ہے۔ پھر بھی، اس دلچسپی میں دوستی جیسی کوئی چیز ہوتی ہے جو ایک ماہرِ ارضیات کو پتھروں میں ہوتی ہے، یا ایک ماہرِ آثارِ قدیمہ کو قدیم کھنڈرات میں ہوتی ہے — اور اس قسم کی دلچسپی کو بھی اس کا حصہ ہونا چاہیے جس طرح ہم افراد اور معاشروں سے تعلق رکھتے ہیں۔ غیر شخصی چیزوں میں دلچسپی، اگرچہ روزانہ کی خوشی کے لیے دوسرے لوگوں کے تئیں گرم رویے جتنی اہم نہ ہو، پھر بھی بہت اہم ہوتی ہے۔ جو شخص تاریخ اور فلکیات میں سچی دلچسپی پیدا کر کے اپنی پریشانیاں بھول سکتا ہے، وہ دیکھے گا کہ غیر شخصی چیزوں کی دنیا میں سفر کرنے کے بعد وہ سکون اور توازن کے احساس کے ساتھ واپس آتا ہے جو اسے اپنی فکروں سے زیادہ مؤثر طریقے سے نمٹنے میں مدد کرتا ہے۔ اور اس دوران، اس نے ایک حقیقی، اگرچہ عارضی، قسم کی خوشی بھی محسوس کی ہوگی۔"
+          },
+          {
+            "en": "The secret of happiness is this: let your interests be as broad as possible, and try to respond to the people and things that interest you in a friendly way rather than a hostile one.",
+            "sd": "خوشي جو راز هي آهي: پنهنجين دلچسپين کي جيترو ٿي سگھي وسيع رکو، ۽ انهن ماڻهن ۽ شين کي دوستانه طريقي سان جواب ڏيڻ جي ڪوشش ڪريو جيڪي توهان کي دلچسپ لڳن ٿيون، دشمنانه طريقي سان نه.",
+            "ur": "خوشی کا راز یہ ہے: اپنی دلچسپیوں کو جتنا ممکن ہو وسیع رکھو، اور ان لوگوں اور چیزوں کو جو تمہیں دلچسپ لگتی ہیں، دوستانہ انداز میں جواب دینے کی کوشش کرو، دشمنانہ انداز میں نہیں۔"
+          }
+        ],
+        "section": "3.1",
+        "unit": 3,
+        "unitTitle": "Managing Stress, Anger and People"
+      },
+      {
+        "bookPages": "92-95",
+        "lesson": "Icarus and Daedalus",
+        "paragraphs": [
+          {
+            "en": "Among all those mortals who grew so wise that they learned the secrets of the gods, none was more cunning than Daedalus.",
+            "sd": "انهن سڀني انسانن مان، جيڪي ايترا عقلمند ٿي ويا جو ديوتائن جا راز سکي ورتائون، ڊيڊلس کان وڌيڪ چالاڪ ٻيو ڪو بهي نه هو.",
+            "ur": "ان تمام انسانوں میں سے جو اتنے دانا ہو گئے کہ انہوں نے دیوتاؤں کے راز سیکھ لیے، ڈیڈلس سے زیادہ چالاک کوئی نہ تھا۔"
+          },
+          {
+            "en": "He once built, for King Minos of Crete, a wonderful Labyrinth of winding ways so cunningly tangled up and twisted around that, once inside, you could never find your way out again without a magic clue. But the king's favour veered with the wind, and one day he had his master architect imprisoned in a tower. Daedalus managed to escape from his cell; but it seemed impossible to leave the island, since every ship that came or went was well guarded by order of the king. At length, watching the sea-gulls in the air,--the only creatures that were sure of liberty,--he thought of a plan for himself and his young son Icarus, who was captive with him. Little by little, he gathered a store of feathers great and small. He fastened these together with thread, moulded them in with wax, and so fashioned two great wings like those of a bird. When they were done, Daedalus fitted them to his own shoulders, and after one or two efforts, he found that by waving his arms he could winnow the air and cleave it, as a swimmer does the sea. He held himself aloft, wavered this way and that with the wind, and at last, like a great fledgling, he learned to fly.",
+            "sd": "هن هڪ دفعي ڪريٽ جي بادشاهه مائينوس لاءِ هڪ عجيب ڀول ڀليان ٺاهي هئي، جنهن جا ونگا واٽا رستا اهڙي چالاڪيءَ سان وڍيل ۽ وڪڙيل هئا جو هڪ دفعو اندر وڃڻ کان پوءِ، جادوئي اشاري کان سواءِ ٻاهر نڪرڻ جو رستو ڪڏهن بهي نه ملي سگھيو هو. پر بادشاهه جي مهرباني هوا وانگر بدلجي ويندي هئي، ۽ هڪ ڏينهن هن پنهنجي مکيه معمار کي هڪ برج ۾ قيد ڪرائي ڇڏيو. ڊيڊلس پنهنجي ڪوٺڙي مان ڀڄڻ ۾ ڪامياب ٿي ويو، پر ٻيٽ ڇڏڻ ناممڪن لڳو، ڇاڪاڻ ته بادشاهه جي حڪم سان هر جهاز، جيڪو ايندو يا ويندو هو، سو چڱيءَ طرح سانڀايل هو. آخرڪار، هوا ۾ سمنڊ جي پکين کي ڏسي، جيڪي آزاديءَ ۾ پڪا هئا، هن پاڻ ۽ پنهنجي ننڍڙي پٽ ايڪارس لاءِ هڪ رٿ رٿي، جيڪو ساڻس گڏ قيدي هو. آهستي آهستي، هن وڏا ۽ ننڍا پن گڏ ڪيا. هن انهن کي ڌاڳي سان ٻڌو، موم ۾ ويڙهيو، ۽ اهڙيءَ طرح پکيءَ جھڙا ٻه وڏا پر ٺاهيا. جڏهن پر تيار ٿي ويا، ته ڊيڊلس انهن کي پنهنجن ڪلهن تي لڳايو، ۽ هڪ يا ٻه ڪوششون ڪرڻ کان پوءِ، هن محسوس ڪيو ته هٿن کي لوڏڻ سان هو هوا کي چيري سگھي ٿو، جيئن ترندڙ سمنڊ کي چيري ٿو. هن پاڻ کي هوا ۾ مٿي رکيو، هوا سان هيڏانهن هوڏانهن لوڏيو، ۽ آخرڪار، هڪ وڏي نئين پکيءَ وانگر، هن اڏامڻ سکي ورتو.",
+            "ur": "اس نے ایک دفعہ کریٹ کے بادشاہ مینوس کے لیے ایک حیرت انگیز بھول بھلیاں بنائی تھی، جس کے ٹیڑھے میڑھے راستے اتنی چالاکی سے الجھے ہوئے اور مڑے ہوئے تھے کہ ایک بار اندر جانے کے بعد، جادوئی اشارے کے بغیر تم کبھی باہر نکلنے کا راستہ نہ پا سکتے تھے۔ لیکن بادشاہ کی مہربانی ہوا کے ساتھ بدل جاتی تھی، اور ایک دن اس نے اپنے ماہر معمار کو ایک مینار میں قید کرا دیا۔ ڈیڈلس اپنے کمرے سے بھاگنے میں کامیاب ہو گیا، لیکن جزیرہ چھوڑنا ناممکن لگتا تھا، کیونکہ بادشاہ کے حکم سے ہر جہاز، جو آتا یا جاتا تھا، اچھی طرح پہرے میں تھا۔ آخر کار، ہوا میں سمندری پرندوں کو دیکھ کر، جو آزادی میں یقینی تھے، اس نے اپنے اور اپنے چھوٹے بیٹے ایکارس کے لیے ایک منصوبہ سوچا، جو اس کے ساتھ قیدی تھا۔ آہستہ آہستہ، اس نے بڑے اور چھوٹے پر جمع کیے۔ اس نے انہیں دھاگے سے باندھا، موم میں ڈھالا، اور اس طرح پرندے جیسے دو بڑے پر بنا لیے۔ جب وہ تیار ہو گئے، تو ڈیڈلس نے انہیں اپنے کندھوں پر لگایا، اور ایک یا دو کوششوں کے بعد، اس نے محسوس کیا کہ بازو ہلا کر وہ ہوا کو چیر سکتا ہے، جیسے تیراک سمندر کو چیرتا ہے۔ اس نے خود کو ہوا میں بلند رکھا، ہوا کے ساتھ ادھر ادھر ڈولتا رہا، اور آخر کار، ایک بڑے نوخیز پرندے کی طرح، اس نے اڑنا سیکھ لیا۔"
+          },
+          {
+            "en": "Without delay, he fell to work on a pair of wings for the boy Icarus, and taught him carefully how to use them, bidding him beware of rash adventures among the stars.",
+            "sd": "دير ڪرڻ کان سواءِ، هو ڇوڪري ايڪارس لاءِ پرن جو هڪ جوڙو ٺاهڻ لڳو، ۽ هن کي چڱيءَ طرح سيکاريو ته پرن کي ڪيئن استعمال ڪجي، ۽ کيس خبردار ڪيو ته تارن جي وچ ۾ بي پرواهه مهم نه ڪري.",
+            "ur": "بغیر دیر کیے، وہ لڑکے ایکارس کے لیے پروں کا ایک جوڑا بنانے لگا، اور اسے احتیاط سے سکھایا کہ انہیں کیسے استعمال کرے، اور اسے خبردار کیا کہ ستاروں کے درمیان بے پروا مہم جوئی سے بچے۔"
+          },
+          {
+            "en": "\"Remember,\" said the father, \"never to fly very low or very high, for the fogs about the earth would weigh you down, but the blaze of the sun will surely melt your feathers apart if you go too near.\"",
+            "sd": "”ياد رک،“ پيءُ چيو، ”ڪڏهن بهي نه تمام هيٺ ۽ نه تمام مٿي اڏام، ڇاڪاڻ ته زمين جي چوڌاري ڌنڌ توکي هيٺ ڪري ڇڏيندي، پر سج جي تپش تنهنجا پر ضرور ڳاري ڇڏيندي، جيڪڏهن تون ان جي تمام ويجهو وڃين.“",
+            "ur": "”یاد رکھو،“ باپ نے کہا، ”کبھی بہت نیچے یا بہت اوپر مت اڑنا، کیونکہ زمین کے ارد گرد دھند تمہیں نیچے گرا دے گی، لیکن سورج کی تپش تمہارے پر ضرور پگھلا دے گی، اگر تم اس کے بہت قریب جاؤ۔“"
+          },
+          {
+            "en": "For Icarus, these cautions went in at one ear and out by the other. Who could remember to be careful when he was to fly for the first time? Are birds careful? Not they! And not an idea remained in the boy's head but the one joy of escape.",
+            "sd": "ايڪارس لاءِ، اهي خبرداريون هڪ ڪن مان اندر ويون ۽ ٻئي ڪن مان ٻاهر نڪري ويون. پهرين دفعي اڏامڻ وقت ڪير احتياط ڪرڻ ياد رکي سگھي ٿو؟ ڇا پکي احتياط ڪن ٿا؟ نه! ۽ ڇوڪري جي دماغ ۾ ڀڄي وڃڻ جي خوشيءَ کان سواءِ ٻيو ڪو خيال نه رھيو.",
+            "ur": "ایکارس کے لیے، یہ احتیاطیں ایک کان سے اندر گئیں اور دوسرے کان سے باہر نکل گئیں۔ پہلی بار اڑتے وقت احتیاط کرنا کون یاد رکھ سکتا ہے؟ کیا پرندے احتیاط کرتے ہیں؟ نہیں! اور لڑکے کے ذہن میں بھاگ نکلنے کی خوشی کے سوا کوئی خیال نہ رہا۔"
+          },
+          {
+            "en": "The day came, and the fair wind that was to set them free. The father bird put on his wings, and, while the light urged them to be gone, he waited to see that all was well with Icarus, for the two could not fly hand in hand. Up they rose, the boy after his father. The hateful ground of Crete sank beneath them; and the country folk, who caught a glimpse of them when they were high above the tree-tops, took it for a vision of the gods,--Apollo, perhaps, with Cupid after him.",
+            "sd": "اهو ڏينهن آيو، ۽ اها سٺي هوا، جيڪا انهن کي آزاد ڪرڻ واري هئي. پيءُ پکي پنهنجا پر پاتا، ۽ جڏهن روشني انهن کي وڃڻ لاءِ چيو، ته هن ڏٺو ته ايڪارس سان سڀ ڪجهه ٺيڪ آهي، ڇاڪاڻ ته اهي ٻئي هٿ ۾ هٿ ڏئي اڏامي نه ٿي سگھيا. اهي مٿي اڏاميا، ڇوڪرو پيءُ جي پٺيان. ڪريٽ جي نفرت واري زمين انهن جي هيٺان غائب ٿي وئي، ۽ ڳوٺاڻن، جن انهن جي هڪ جھلڪ ڏٺي، جڏهن اهي وڻن جي چوٽين کان مٿي هئا، اهو ديوتائن جو نظارو سمجھيو — اپالو، شايد، ۽ سندس پٺيان ڪيوپڊ.",
+            "ur": "وہ دن آ گیا، اور وہ اچھی ہوا جو انہیں آزاد کرنے والی تھی۔ باپ پرندے نے اپنے پر پہنے، اور جب روشنی نے انہیں جانے پر آمادہ کیا، تو اس نے دیکھا کہ ایکارس کے ساتھ سب ٹھیک ہے، کیونکہ وہ دونوں ہاتھ میں ہاتھ ڈال کر نہیں اڑ سکتے تھے۔ وہ اوپر اڑے، لڑکا باپ کے پیچھے۔ کریٹ کی نفرت انگیز زمین ان کے نیچے ڈوب گئی؛ اور دیہاتیوں نے، جنہوں نے ان کی ایک جھلک دیکھی جب وہ درختوں کی چوٹیوں سے بہت اوپر تھے، اسے دیوتاؤں کا نظارہ سمجھا — اپالو، شاید، اور اس کے پیچھے کیوپڈ۔"
+          },
+          {
+            "en": "At first there was a terror in the joy. The wide vacancy of the air dazed them,--a glance downward made their brains reel. But when a great wind filled their wings, and Icarus felt himself sustained, like a halcyon-bird in the hollow of a wave, like a child uplifted by his mother, he forgot everything in the world but joy. He forgot Crete and the other islands that he had passed over: he saw but vaguely that winged thing in the distance before him that was his father Daedalus. He longed for one draught of flight to quench the thirst of his captivity: he stretched out his arms to the sky and made towards the highest heavens.",
+            "sd": "پهرين ته خوشيءَ ۾ ڊپ بهي هو. هوا جي وسيع خالي جڳهه انهن کي حيران ڪري ڇڏيو — هيٺ ڏسڻ سان انهن جا دماغ چڪرائجي ويا. پر جڏهن هڪ وڏي هوا سندن پرن ۾ ڀرجي وئي، ۽ ايڪارس محسوس ڪيو ته هو سهارو مليل آهي، جيئن لهر جي وچ ۾ هڪ پکي، جيئن ماءُ جي هٿن ۾ مٿي کنيل ٻار، هن دنيا ۾ خوشيءَ کان سواءِ ٻيو سڀ ڪجهه وساري ڇڏيو. هن ڪريٽ ۽ ٻيا ٻيٽ وساري ڇڏيا، جن جي مٿان هو گذريو هو: هن صرف ڌنڌلي نموني اهو پرن وارو شيون پري ڏٺو، جيڪو سندس پيءُ ڊيڊلس هو. هن کي قيد جي اڃ اجھائڻ لاءِ اڏام جو هڪ گھٽ گھرجي هو: هن پنهنجا هٿ آسمان ڏانهن ڊگها ڪيا ۽ بلند ترين آسمانن ڏانهن وڌيو.",
+            "ur": "پہلے تو خوشی میں دہشت بھی تھی۔ ہوا کا وسیع خلا انہیں حیران کر گیا — نیچے دیکھنے سے ان کے دماغ چکرا گئے۔ لیکن جب ایک تیز ہوا نے ان کے پر بھر دیے، اور ایکارس نے محسوس کیا کہ وہ سنبھلا ہوا ہے، جیسے لہر کی گود میں ایک ہیلسیون پرندہ، جیسے ماں کی گود میں اٹھایا ہوا بچہ، وہ دنیا میں خوشی کے سوا سب کچھ بھول گیا۔ وہ کریٹ اور دوسرے جزیرے بھول گیا، جن کے اوپر سے وہ گزرا تھا: اس نے صرف دھندلے طور پر وہ پر والی چیز دور دیکھی، جو اس کا باپ ڈیڈلس تھا۔ اسے اپنی قید کی پیاس بجھانے کے لیے اڑان کا ایک گھونٹ چاہیے تھا: اس نے اپنے بازو آسمان کی طرف پھیلائے اور بلند ترین آسمانوں کی طرف بڑھا۔"
+          },
+          {
+            "en": "Alas for him! Warmer and warmer grew the air. Those arms, that had seemed to uphold him, relaxed. His wings wavered, drooped. He fluttered his young hands vainly,--he was falling,--and in that terror he remembered. The heat of the sun had melted the wax from his wings; the feathers were falling, one by one, like snowflakes; and there was none to help.",
+            "sd": "افسوس هن لاءِ! هوا گرم ۽ گرم ٿيندي وئي. اهي هٿ، جيڪي کيس مٿي رکندا پئي لڳا، اهي ڍلا ٿي ويا. سندس پر لوڏيا، جھڪي ويا. هن پنهنجا ننڍڙا هٿ بيڪار لوڏيا — هو ڪري رھيو هو — ۽ انهيءَ ڊپ ۾ هن کي ياد آيو. سج جي گرمي هن جي پرن مان موم ڳاري ڇڏيو هو؛ پر هڪ هڪ ڪري، برف جي ڦڙن وانگر، ڪري رھيا هئا؛ ۽ مدد لاءِ ڪو بهي نه هو.",
+            "ur": "افسوس اس پر! ہوا گرم اور گرم ہوتی گئی۔ وہ بازو، جو اسے سنبھالے ہوئے لگتے تھے، ڈھیلے پڑ گئے۔ اس کے پر لرزے، جھک گئے۔ اس نے اپنے چھوٹے ہاتھ بے کار پھڑپھڑائے — وہ گر رہا تھا — اور اس دہشت میں اسے یاد آ گیا۔ سورج کی گرمی نے اس کے پروں سے موم پگھلا دیا تھا؛ پر ایک ایک کر کے، برف کے گالوں کی طرح، گر رہے تھے؛ اور مدد کے لیے کوئی نہ تھا۔"
+          },
+          {
+            "en": "He fell like a leaf tossed down the wind, down, down, with one cry that overtook Daedalus far away. When he returned, and sought high and low for the poor boy, he saw nothing but the bird-like feathers afloat on the water, and he knew that Icarus was drowned.",
+            "sd": "هو هوا ۾ اڇلايل پتي وانگر ڪريو، هيٺ، هيٺ، هڪ رڙ سان، جيڪا پري ڊيڊلس کي وڃي پهتي. جڏهن هو موٽيو، ۽ غريب ڇوڪري کي مٿي ۽ هيٺ ڳولهيو، ته هن کي پاڻيءَ تي ترندڙ پکيءَ جھڙا پر کان سواءِ ٻيو ڪجهه نظر نه آيو، ۽ هن ڄاتو ته ايڪارس ٻڏي ويو آهي.",
+            "ur": "وہ ہوا میں اچھالے گئے پتے کی طرح گرا، نیچے، نیچے، ایک چیخ کے ساتھ جو دور ڈیڈلس تک جا پہنچی۔ جب وہ لوٹا، اور غریب لڑکے کو اوپر نیچے ڈھونڈا، تو اسے پانی پر تیرتے ہوئے پرندے جیسے پروں کے سوا کچھ نظر نہ آیا، اور وہ جان گیا کہ ایکارس ڈوب گیا ہے۔"
+          },
+          {
+            "en": "The nearest island he named Icaria, in memory of the child; but he, in heavy grief, went to the temple of Apollo in Sicily, and there hung up his wings as an offering. Never again did he attempt to fly.",
+            "sd": "ويجهي ۾ ويجهو ٻيٽ جو نالو هن ايڪاريا رکيو، ٻار جي ياد ۾؛ پر هو، وڏي ڏک ۾، سسلي ۾ اپالو جي مندر ڏانهن ويو، ۽ اتي پنهنجا پر هڪ نذراني طور ٽنگي ڇڏيا. هن ڪڏهن بهي وري اڏامڻ جي ڪوشش نه ڪئي.",
+            "ur": "قریب ترین جزیرے کا نام اس نے بچے کی یاد میں ایکاریا رکھا؛ لیکن وہ، بھاری غم میں، سسلی میں اپالو کے مندر گیا، اور وہاں اپنے پر نذرانے کے طور پر لٹکا دیے۔ اس نے دوبارہ کبھی اڑنے کی کوشش نہ کی۔"
+          }
+        ],
+        "section": "4.1",
+        "unit": 4,
+        "unitTitle": "Self-Discipline"
+      },
+      {
+        "unit": 5,
+        "unitTitle": "Character Building",
+        "lesson": "How Much Land Does A Man Need?",
+        "section": "5.1",
+        "bookPages": "120-127",
+        "paragraphs": [
+          {
+            "en": "There once was a peasant named Pahom who worked hard and honestly for his family. He had worked harder and managed to buy land of forty acres. But he was not satisfied with it. He found his crops, grass, and the land not much different than any other landowners’.",
+            "sd": "هڪ دفعي هڪ هاري هو، جنهن جو نالو پھوم هو. هو پنهنجي گھر وارن لاءِ سخت محنت ڪندو هو ۽ ايمانداري سان ڪم ڪندو هو. هن اڃا به وڌيڪ محنت ڪئي ۽ چاليه ايڪڙ زمين خريد ڪري ورتي. پر هو ان سان راضي نه هو. هن کي پنهنجو فصل، گھاس ۽ زمين ٻين زميندارن جي زمين کان گھڻو مختلف نه لڳي.",
+            "ur": "ایک دفعہ ایک کسان تھا جس کا نام پاہوم تھا۔ وہ اپنے گھر والوں کے لیے سخت محنت کرتا تھا اور ایمانداری سے کام کرتا تھا۔ اس نے اور بھی زیادہ محنت کی اور چالیس ایکڑ زمین خرید لی۔ لیکن وہ اس سے مطمئن نہ تھا۔ اسے اپنی فصل، گھاس اور زمین دوسرے زمینداروں کی زمین سے کچھ زیادہ مختلف نہ لگی۔"
+          },
+          {
+            "en": "Then one day Pahom heard from a man passing by his house about the land beyond the Volga. The man went on to say that much land was for sale there and the land was so good. He said that the rye sown on it grew as high as a horse and so thick that five cuts of a sickle made a sheaf. So, Pahom sold his land, homestead and cattle; all at a profit and moved his family to the new settlement. He bought plenty of arable land and pasture and could keep as many head of cattle as he liked.",
+            "sd": "پوءِ هڪ ڏينهن پھوم کي پنهنجي گھر جي ڀرسان لنگھندڙ هڪ ماڻهوءَ کان وولگا نديءَ جي ٻئي پاسي واري زمين بابت خبر پئي. ان ماڻهوءَ ٻڌايو ته اتي گھڻي زمين وڪري لاءِ آهي ۽ زمين به تمام سٺي آهي. هن چيو ته اتي پوکيل رائي گھوڙي جيترو اوچي ٿيندي آهي ۽ ايتري گھاٽي ٿيندي آهي جو ڏاٽيءَ جا پنج وار هڪ پولي ٻڌي ڇڏيندا آهن. تنهنڪري پھوم پنهنجي زمين، گھر بار ۽ چوپايو مال سڀ فائدي سان وڪڻي ڇڏيو ۽ پنهنجي گھر وارن کي نئين وسنديءَ ۾ وٺي ويو. هن اتي گھڻي پوک لائق زمين ۽ چراگاه خريد ڪئي ۽ هو پنهنجي مرضيءَ جيترا چوپايو مال رکي سگھيو.",
+            "ur": "پھر ایک دن پاہوم کو اپنے گھر کے پاس سے گزرنے والے ایک آدمی سے وولگا ندی کے دوسری طرف کی زمین کے بارے میں معلوم ہوا۔ اس آدمی نے بتایا کہ وہاں بہت سی زمین فروخت کے لیے ہے اور زمین بھی بہت اچھی ہے۔ اس نے کہا کہ وہاں بوئی ہوئی رائی گھوڑے جتنی اونچی ہوتی ہے اور اتنی گھنی ہوتی ہے کہ درانتی کے پانچ وار ایک پولا بنا دیتے ہیں۔ چنانچہ پاہوم نے اپنی زمین، گھر بار اور مویشی سب نفع پر بیچ دیے اور اپنے گھر والوں کو نئی بستی میں لے گیا۔ اس نے وہاں بہت سی قابلِ کاشت زمین اور چراگاہ خرید لی اور جتنے چاہے مویشی رکھ سکتا تھا۔"
+          },
+          {
+            "en": "At first, Pahom was pleased with it all, but when he got used to it, he began to think that even here he was not satisfied. He wanted to sow more wheat, but had not enough land of his own for the purpose, so he rented extra land for three years. He might have gone on living comfortably, but he grew tired of having to rent other people’s land every year.",
+            "sd": "شروع ۾ پھوم ان سڀ ڪجهه سان خوش هو، پر جڏهن هو ان جو عادي ٿي ويو ته هن سوچڻ شروع ڪيو ته هتي به هو راضي نه آهي. هن کي وڌيڪ ڪڻڪ پوکڻي هئي، پر ان ڪم لاءِ پنهنجي زمين ڪافي نه هئي، تنهنڪري هن ٽن سالن لاءِ اضافي زمين ڀاڙي تي ورتي. هو آرام سان رھي سگھي ها، پر هو هر سال ٻين ماڻهن جي زمين ڀاڙي تي وٺڻ کان ٿڪجي پيو.",
+            "ur": "شروع میں پاہوم ان سب سے خوش تھا، لیکن جب وہ اس کا عادی ہو گیا تو اسے لگنے لگا کہ یہاں بھی وہ مطمئن نہیں ہے۔ وہ مزید گندم بونا چاہتا تھا، لیکن اس کام کے لیے اس کے پاس اپنی زمین کافی نہیں تھی، اس لیے اس نے تین سال کے لیے اضافی زمین کرائے پر لی۔ وہ آرام سے رہ سکتا تھا، لیکن وہ ہر سال دوسروں کی زمین کرائے پر لینے سے تنگ آ گیا تھا۔"
+          },
+          {
+            "en": "Then one day a passing land dealer said he was just returning from the land of Bashkirs where he had bought thirteen thousand acres of land, all for only one thousand rubbles. “All one need do is to make friends with the chiefs,” he said. “I gave away about one hundred rubbles’ worth of dressing gowns and carpets, besides a case of tea, and other precious gifts, and I got the land for less than two pence an acre.”",
+            "sd": "پوءِ هڪ ڏينهن هڪ لنگھندڙ زمين جو واپاري چيو ته هو هاڻي باشڪرن جي زمين تان موٽي رھيو آهي، جتي هن صرف هڪ هزار روبلن ۾ تيرهن هزار ايڪڙ زمين خريد ڪئي آهي. ”بس ڪرڻو ايترو آهي ته سردارن سان دوستي ڪيو،“ هن چيو. ”مون لڳ ڀڳ هڪ سؤ روبلن جي قيمت جا چوغا ۽ قالين، ان کان سواءِ چانهه جو هڪ دٻو ۽ ٻيا قيمتي تحفا ڏنا، ۽ مون کي زمين هڪ ايڪڙ لاءِ ٻن پينسن کان به گھٽ قيمت ۾ ملي وئي.“",
+            "ur": "پھر ایک دن ایک گزرتا ہوا زمین کا سوداگر کہنے لگا کہ وہ ابھی باشکیروں کی زمین سے لوٹ رہا ہے، جہاں اس نے صرف ایک ہزار روبل میں تیرہ ہزار ایکڑ زمین خرید لی ہے۔ ”بس اتنا کرنا ہے کہ سرداروں سے دوستی کر لو،“ اس نے کہا۔ ”میں نے تقریباً سو روبل مالیت کے چوغے اور قالین، اس کے علاوہ چائے کا ایک ڈبہ اور دوسرے قیمتی تحفے دیے، اور مجھے زمین ایک ایکڑ کے لیے دو پینس سے بھی کم قیمت پر مل گئی۔“"
+          },
+          {
+            "en": "“There now,” thought Pahom, “out there I can get more than ten times as much land as I have now. I must try it.” So, Pahom left his family to look after the homestead and started on the journey taking his servant with him. They stopped at a town on their way, and bought dressing gowns and carpets, a case of tea, and other presents as the tradesman had advised him. After traveling for more than three hundred miles, they came to a place where the Bashkirs had pitched their tents.",
+            "sd": "”هاڻي ڏسو،“ پھوم سوچيو، ”اتي مون کي هاڻي جي ڀيٽ ۾ ڏه ڀيرا وڌيڪ زمين ملي سگھي ٿي. مون کي ضرور ڪوشش ڪرڻ گھرجي.“ تنهنڪري پھوم پنهنجي گھر وارن کي گھر بار جي سنڀال لاءِ ڇڏي، نوڪر کي پاڻ سان گڏ وٺي سفر تي روانو ٿيو. رستي ۾ هو هڪ شهر ۾ ترسيا ۽ واپاريءَ جي صلاح موجب چوغا ۽ قالين، چانهه جو هڪ دٻو ۽ ٻيا تحفا خريد ڪيا. ٽن سؤ ميلن کان وڌيڪ سفر ڪرڻ کان پوءِ، هو هڪ اهڙي جاءِ تي پهتا، جتي باشڪرن پنهنجا خيما لڳايا هئا.",
+            "ur": "”اب دیکھو،“ پاہوم نے سوچا، ”وہاں مجھے اب سے دس گنا زیادہ زمین مل سکتی ہے۔ مجھے ضرور کوشش کرنی چاہیے۔“ چنانچہ پاہوم اپنے گھر والوں کو گھر بار کی دیکھ بھال کے لیے چھوڑ کر، نوکر کو اپنے ساتھ لے کر سفر پر روانہ ہوا۔ راستے میں وہ ایک شہر میں رکے اور سوداگر کے مشورے کے مطابق چوغے اور قالین، چائے کا ایک ڈبہ اور دوسرے تحفے خریدے۔ تین سو میل سے زیادہ سفر کرنے کے بعد، وہ ایک ایسی جگہ پہنچے جہاں باشکیروں نے اپنے خیمے لگائے ہوئے تھے۔"
+          },
+          {
+            "en": "As soon as they saw Pahom, they came out of their tents and gathered around their visitor. They gave him tea and had him served with mutton to eat. Pahom took presents out of his cart and distributed them and told them he had come about some land. The Bashkirs seemed very glad and told him he must talk to their chief about it.",
+            "sd": "جيئن ئي هنن پھوم کي ڏٺو، هو پنهنجن خيمن مان ٻاهر نڪتا ۽ پنهنجي مهمان جي چوڌاري گڏ ٿي ويا. هنن کيس چانهه پياري ۽ کائڻ لاءِ ٻڪريءَ جو گوشت ڏنو. پھوم پنهنجي گاڏيءَ مان تحفا ڪڍي ورتا ۽ انهن ۾ ورھايا ۽ هنن کي ٻڌايو ته هو زمين بابت آيو آهي. باشڪر ڏاڍا خوش ٿيا ۽ هن کي چيو ته هن بابت کيس پنهنجي سردار سان ملڻ گھرجي.",
+            "ur": "جیسے ہی انہوں نے پاہوم کو دیکھا، وہ اپنے خیموں سے باہر نکلے اور اپنے مہمان کے گرد جمع ہو گئے۔ انہوں نے اسے چائے پلائی اور کھانے کے لیے بکرے کا گوشت دیا۔ پاہوم نے اپنی گاڑی سے تحفے نکالے اور ان میں بانٹ دیے اور انہیں بتایا کہ وہ زمین کے بارے میں آیا ہے۔ باشکیر بہت خوش ہوئے اور اس سے کہا کہ اس بارے میں اسے اپنے سردار سے بات کرنی چاہیے۔"
+          },
+          {
+            "en": "The chief listened for a while and said, “Well, let it be so. Choose whatever piece of land you like. We have plenty of it... Our price is always the same: one thousand rubbles a day.” Pahom did not understand. “A day? What measure is that? How many acres would that be?”",
+            "sd": "سردار ڪجهه دير ٻڌو ۽ چيو، ”چڱو، ائين ئي صحيح. جيڪا زمين توهان کي وڻي، اها چونڊيو. اسان وٽ ان جي گھڻائي آهي... اسان جي قيمت هميشه ساڳي آهي: هڪ ڏينهن لاءِ هڪ هزار روبل.“ پھوم نه سمجھيو. ”هڪ ڏينهن؟ اهو ڪهڙو ماپ آهي؟ اهو ڪيترا ايڪڙ ٿيندو؟“",
+            "ur": "سردار نے کچھ دیر سنا اور کہا، ”اچھا، ایسا ہی سہی۔ جو زمین تمہیں پسند آئے، وہ چن لو۔ ہمارے پاس اس کی بہتات ہے... ہماری قیمت ہمیشہ ایک ہی ہے: ایک دن کے لیے ایک ہزار روبل۔“ پاہوم نہ سمجھا۔ ”ایک دن؟ یہ کون سا پیمانہ ہے؟ یہ کتنے ایکڑ ہوگا؟“"
+          },
+          {
+            "en": "“We do not know how to reckon it out,” said the chief. “We sell it by the day, as much as you can go round on your feet in a day is yours and the price is one thousand rubbles a day.” Pahom was surprised. “But in a day, you can get round a large tract of land,” he said. The chief laughed. “It will all be yours!” said he. “There is one condition. If you don’t return on the same day to the spot whence you started, your money is lost.”",
+            "sd": "”اسان کي خبر ناهي ته ان جو حساب ڪيئن ڪجي،“ سردار چيو. ”اسان زمين ڏينهن جي حساب سان وڪڻون ٿا، هڪ ڏينهن ۾ پنهنجن پيرن تي هلي ڪري جيتري زمين جو چڪر لڳائي سگھو ٿا، اها اوهان جي آهي ۽ قيمت هڪ ڏينهن لاءِ هڪ هزار روبل آهي.“ پھوم حيران ٿي ويو. ”پر هڪ ڏينهن ۾ اوهان وڏي زمين جو چڪر لڳائي سگھو ٿا،“ هن چيو. سردار کليو. ”اها سڀ اوهان جي ٿيندي!“ هن چيو. ”هڪ شرط آهي. جيڪڏهن اوهان ساڳئي ڏينهن تي ان جاءِ تي نه موٽيا، جتان اوهان شروع ڪيو هو، ته اوهان جا پئسا ضايع ٿي ويندا.“",
+            "ur": "”ہم نہیں جانتے کہ اس کا حساب کیسے لگایا جائے،“ سردار نے کہا۔ ”ہم زمین دن کے حساب سے بیچتے ہیں، ایک دن میں اپنے پیروں پر چل کر جتنی زمین کا چکر لگا سکو، وہ تمہاری ہے اور قیمت ایک دن کے لیے ایک ہزار روبل ہے۔“ پاہوم حیران ہوا۔ ”لیکن ایک دن میں تم بڑی زمین کا چکر لگا سکتے ہو،“ اس نے کہا۔ سردار ہنسا۔ ”یہ سب تمہارا ہو جائے گا!“ اس نے کہا۔ ”ایک شرط ہے۔ اگر تم اسی دن اس جگہ پر واپس نہ آئے جہاں سے تم نے شروع کیا تھا، تو تمہارے پیسے ضائع ہو جائیں گے۔“"
+          },
+          {
+            "en": "“But how am I to mark the way that I have gone?”",
+            "sd": "”پر آءٌ ڪيئن نشان لڳايان ته آءٌ ڪهڙي رستي کان ويو آهيان؟“",
+            "ur": "”لیکن میں کیسے نشان لگاؤں کہ میں کس راستے سے گیا ہوں؟“"
+          },
+          {
+            "en": "“Why, we shall go to any spot you like, and stay there. You must start from that spot and make your round, taking a spade with you. Wherever you think necessary, make a mark. At every turning, dig a hole and pile up the turf, then afterward we will go round with a plough from hole to hole. You may make as large a circuit as you please, but before the sun sets you must return to the place you started from. All the land you cover will be yours.” Pahom was delighted.",
+            "sd": "”ڇو نه، اسان اوهان جي پسند جي ڪنهن به جاءِ تي وينداسين ۽ اتي ترسنداسين. اوهان کي ان جاءِ کان شروع ڪرڻو آهي ۽ ڪوڏر پاڻ سان گڏ کڻي پنهنجو چڪر لڳائڻو آهي. جتي به اوهان کي ضروري لڳي، اتي نشان لڳايو. هر موڙ تي کڏ کوٽيو ۽ گھاس جو ڍير لڳايو، پوءِ اسان هر کوٽي کڏ کان ٻئي کڏ تائين هر سان هلنداسين. اوهان کي جيترو وڏو چڪر لڳائڻو هو، اوترو لڳائي سگھو ٿا، پر سج لھڻ کان اڳ اوهان کي ان جاءِ تي موٽڻو آهي، جتان اوهان شروع ڪيو هو. جيڪا به زمين اوهان گھيرو ڪندؤ، اها اوهان جي ٿيندي.“ پھوم ڏاڍو خوش ٿيو.",
+            "ur": "”کیوں نہیں، ہم تمہاری پسند کی کسی بھی جگہ جائیں گے اور وہیں رہیں گے۔ تمہیں اسی جگہ سے شروع کرنا ہے اور کدال اپنے ساتھ لے کر اپنا چکر لگانا ہے۔ جہاں بھی تمہیں ضروری لگے، وہاں نشان لگاؤ۔ ہر موڑ پر گڑھا کھودو اور گھاس کا ڈھیر لگاؤ، پھر ہم ہر گڑھے سے دوسرے گڑھے تک ہل چلائیں گے۔ تم جتنا بڑا چکر چاہو، اتنا لگا سکتے ہو، لیکن سورج ڈوبنے سے پہلے تمہیں اس جگہ پر واپس آنا ہے جہاں سے تم نے شروع کیا تھا۔ جو بھی زمین تم گھیرو گے، وہ تمہاری ہو جائے گی۔“ پاہوم بہت خوش ہوا۔"
+          },
+          {
+            "en": "It was decided to start early next morning. Bashkirs gave Pahom a featherbed to sleep on and they dispersed for the night promising to assemble the next morning at daybreak. Pahom lay on the featherbed, but could not sleep. He kept thinking about the land until he saw through the open door that the dawn was breaking. “It’s time to go to the steppe to measure the land,” he said. The Bashkirs assembled and the chief came too. Pahom took a spade with him. When they reached the steppe, the morning red was beginning to kindle. They ascended a hillock and, dismounting from their carts and their horses, gathered in one spot. The chief came up to Pahom and stretched out his arm toward the plain.",
+            "sd": "اهو طئي ٿيو ته ٻئي ڏينهن صبح جو سوير شروع ڪيو ويندو. باشڪرن پھوم کي سمھڻ لاءِ پرن وارو بسترو ڏنو ۽ هو رات لاءِ الڳ ٿي ويا، ٻئي ڏينهن صبح جو سوير گڏ ٿيڻ جو واعدو ڪري. پھوم بستري تي ليٽو، پر ننڊ نه آيس. هو زمين بابت سوچيندو رھيو، جيستائين هن کليل در مان ڏٺو ته صبح ٿي رھي آهي. ”زمين ماپڻ لاءِ ميدان ڏانهن وڃڻ جو وقت ٿي ويو آهي،“ هن چيو. باشڪر گڏ ٿيا ۽ سردار به آيو. پھوم ڪوڏر پاڻ سان گڏ کنيو. جڏهن هو ميدان تي پهتا ته صبح جي لالي روشن ٿيڻ لڳي هئي. هو هڪ ٽڪريءَ تي مٿي ويا ۽ پنهنجين گاڏين ۽ گھوڙن تان هيٺ لٿا، هڪ جاءِ تي گڏ ٿيا. سردار پھوم وٽ آيو ۽ پنهنجو هٿ ميدان ڏانهن وڌايو.",
+            "ur": "یہ طے ہوا کہ اگلی صبح سویرے شروع کیا جائے گا۔ باشکیروں نے پاہوم کو سونے کے لیے پروں والا بستر دیا اور وہ رات کے لیے الگ ہو گئے، اگلی صبح سویرے جمع ہونے کا وعدہ کر کے۔ پاہوم بستر پر لیٹا، لیکن اسے نیند نہ آئی۔ وہ زمین کے بارے میں سوچتا رہا، یہاں تک کہ اس نے کھلے دروازے سے دیکھا کہ صبح ہو رہی ہے۔ ”زمین ناپنے کے لیے میدان جانے کا وقت ہو گیا ہے،“ اس نے کہا۔ باشکیر جمع ہوئے اور سردار بھی آیا۔ پاہوم کدال اپنے ساتھ لے گیا۔ جب وہ میدان پہنچے تو صبح کی لالی روشن ہونے لگی تھی۔ وہ ایک ٹیلے پر چڑھے اور اپنی گاڑیوں اور گھوڑوں سے اتر کر ایک جگہ جمع ہوئے۔ سردار پاہوم کے پاس آیا اور اپنا بازو میدان کی طرف بڑھایا۔"
+          },
+          {
+            "en": "“See,” said he, “all this, as far as your eye can reach, is ours. You may have any part of it you like.” Pahom’s eyes glistened. It was all fertile soil, as flat as hand’s palm and in the hollows different kinds of grasses grew breast high.",
+            "sd": "”ڏسو،“ هن چيو، ”اهو سڀ، جيتري پري اوهان جي اک پهچي سگھي ٿي، اسان جو آهي. اوهان کي ان جو جيڪو به حصو وڻي، اهو وٺي سگھو ٿا.“ پھوم جون اکيون چمڪي پيون. اها سڀ زرخيز زمين هئي، هٿ جي تريءَ جيتري سڌي، ۽ کڏن ۾ مختلف قسمن جا گھاس ڇاتيءَ جيترو اوچا ٿيندا هئا.",
+            "ur": "”دیکھو،“ اس نے کہا، ”یہ سب، جہاں تک تمہاری آنکھ پہنچ سکتی ہے، ہمارا ہے۔ تم اس کا جو بھی حصہ چاہو، لے سکتے ہو۔“ پاہوم کی آنکھیں چمک اٹھیں۔ یہ سب زرخیز زمین تھی، ہاتھ کی ہتھیلی جتنی سیدھی، اور گڑھوں میں مختلف قسم کی گھاس سینے جتنی اونچی اگتی تھی۔"
+          },
+          {
+            "en": "The chief took off his fox fur cap, placed it on the ground and said, “This will be the mark. Start from here and return here again before the sunset. All the land you go round shall be yours.”",
+            "sd": "سردار پنهنجي لومڙيءَ جي کَل واري ٽوپي لاٿي، ان کي زمين تي رکيو ۽ چيو، ”اهو نشان ٿيندو. هتان شروع ڪيو ۽ سج لھڻ کان اڳ هتي واپس اچو. جيڪا به زمين اوهان گھيرو ڪندؤ، اها اوهان جي ٿيندي.“",
+            "ur": "سردار نے اپنی لومڑی کی کھال والی ٹوپی اتاری، اسے زمین پر رکھا اور کہا، ”یہ نشان ہوگا۔ یہاں سے شروع کرو اور سورج ڈوبنے سے پہلے یہاں واپس آؤ۔ جو بھی زمین تم گھیرو گے، وہ تمہاری ہو جائے گی۔“"
+          },
+          {
+            "en": "Pahom took out his money and put it on the cap. Then he took off his outer coat, remaining in his sleeveless undercoat. He unfastened his girdle and tied it tight below his stomach, put a little bag of bread into the breast of his coat and tying a flask of water to his girdle, he drew up the tops of his boots, took the spade from his man, and stood ready to start. He considered for some moments which way he had better go—it was tempting everywhere. “No matter,” he concluded, “I will go toward the rising sun.”",
+            "sd": "پھوم پنهنجا پئسا ڪڍي ٽوپيءَ تي رکيا. پوءِ هن پنهنجو مٿيون ڪوٽ لاٿو ۽ بنا بازوءَ واري اندروني ڪوٽ ۾ رھيو. هن پنهنجو ڪمرپٽو کولي ڇڏيو ۽ ان کي پنهنجي پيٽ کان هيٺ مضبوطيءَ سان ٻڌو، مانيءَ جو ننڍڙو ٿيلهو پنهنجي ڪوٽ جي سيني ۾ رکيو، پاڻيءَ جي بوتل ڪمرپٽي سان ٻڌي، پنهنجي بوٽن جا مٿا مٿي کنيا، ڪوڏر پنهنجي نوڪر کان ورتو ۽ شروع ڪرڻ لاءِ تيار ٿي بيٺو. هن ڪجهه دير سوچيو ته ڪهڙي طرف وڃڻ بهتر ٿيندو — هر طرف وڻندڙ هو. ”ڪا پرواه ناهي،“ هن چيو، ”آءٌ اڀرندڙ سج ڏانهن ويندس.“",
+            "ur": "پاہوم نے اپنے پیسے نکالے اور ٹوپی پر رکھ دیے۔ پھر اس نے اپنا اوپری کوٹ اتارا اور بغیر آستین والے اندرونی کوٹ میں رہ گیا۔ اس نے اپنی کمر پیٹی کھولی اور اسے اپنے پیٹ سے نیچے مضبوطی سے باندھا، روٹی کی چھوٹی تھیلی اپنے کوٹ کی جیب میں رکھی اور پانی کی بوتل کمر پیٹی سے باندھی، اپنے جوتوں کے اوپری حصے اوپر کھینچے، کدال اپنے نوکر سے لی اور شروع کرنے کے لیے تیار کھڑا ہو گیا۔ اس نے کچھ دیر سوچا کہ کس طرف جانا بہتر ہوگا — ہر طرف دلکش تھا۔ ”کوئی بات نہیں،“ اس نے کہا، ”میں ابھرتے سورج کی طرف جاؤں گا۔“"
+          },
+          {
+            "en": "He turned his face to the east, stretched himself, and waited for the sun to appear above the rim. “I must lose no time,” he thought, “and it is easier walking while it is still cool.” The sun’s rays had hardly flashed above the horizon, before Pahom, carrying the spade over his shoulder, went down into the steppe.",
+            "sd": "هن پنهنجو منهن اوڀر ڏانهن ڦيريو، پاڻ کي سڌو ڪيو ۽ سج جي ڪناري کان مٿي اچڻ جو انتظار ڪيو. ”مون کي وقت ضايع نه ڪرڻ گھرجي،“ هن سوچيو، ”۽ هلڻ آسان آهي، جيستائين هوا ٿڌي آهي.“ سج جون ڪرڻون افق کان مٿي چمڪڻ کان اڳ ئي، پھوم ڪوڏر ڪنڌ تي رکي، ميدان ۾ هيٺ لٿو.",
+            "ur": "اس نے اپنا چہرہ مشرق کی طرف پھیرا، خود کو سیدھا کیا اور سورج کے کنارے سے اوپر آنے کا انتظار کیا۔ ”مجھے وقت ضائع نہیں کرنا چاہیے،“ اس نے سوچا، ”اور چلنا آسان ہے جب تک ہوا ٹھنڈی ہے۔“ سورج کی کرنیں افق سے اوپر چمکنے سے پہلے ہی، پاہوم کدال کندھے پر رکھے، میدان میں اتر گیا۔"
+          },
+          {
+            "en": "Pahom started walking neither slowly nor quickly. After having gone a thousand yards he stopped, dug a hole and placed pieces of turf one on another to make it more visible. Then he went on; and now that he had walked off his stiffness, he quickened his pace. After a while he dug another hole. Pahom looked back. The hillock could be distinctly seen in the sunlight, with the people on it, and the glittering tires of the cart wheels. At a rough guess Pahom concluded that he had walked three miles. It was growing warmer; he took off his undercoat, flung it across his shoulder, and went on again. It had grown quite warm now; he looked at the sun, it was time to think of breakfast.",
+            "sd": "پھوم نه تمام آهستي هليو، نه تمام تيز. هڪ هزار گز هلڻ کان پوءِ هن ترسيو، کڏ کوٽي ۽ گھاس جا ٽڪرا هڪ ٻئي مٿان رکيا ته جيئن اهو وڌيڪ صاف ڏسڻ ۾ اچي. پوءِ هو اڳتي وڌيو؛ ۽ هاڻي جڏهن هن جي جسم جي اڪڙائي ختم ٿي وئي هئي، هن پنهنجي رفتار تيز ڪئي. ٿوري دير کان پوءِ هن ٻي کڏ کوٽي. پھوم پوئتي ڏٺو. ٽڪري سج جي روشنيءَ ۾ صاف ڏسي سگھجي ٿي، ان تي ماڻهو هئا ۽ گاڏين جي ڦيٿن جا چمڪندڙ ٽائر. لڳ ڀڳ اندازي سان پھوم نتيجو ڪڍيو ته هو ٽي ميل هلي چڪو آهي. هوا گرم ٿي رھي هئي؛ هن پنهنجو اندروني ڪوٽ لاٿو، ان کي پنهنجي ڪنڌ تي اڇليو ۽ وري اڳتي هليو. هاڻي هوا بلڪل گرم ٿي وئي هئي؛ هن سج ڏانهن ڏٺو، ناشتي بابت سوچڻ جو وقت ٿي ويو هو.",
+            "ur": "پاہوم نہ بہت آہستہ چلا، نہ بہت تیز۔ ایک ہزار گز چلنے کے بعد وہ رکا، گڑھا کھودا اور گھاس کے ٹکڑے ایک دوسرے پر رکھے تاکہ وہ زیادہ صاف نظر آئے۔ پھر وہ آگے بڑھا؛ اور اب جب اس کے جسم کی اکڑن ختم ہو گئی تھی، اس نے اپنی رفتار تیز کر دی۔ تھوڑی دیر بعد اس نے ایک اور گڑھا کھودا۔ پاہوم نے پیچھے دیکھا۔ ٹیلہ سورج کی روشنی میں صاف نظر آ رہا تھا، اس پر لوگ تھے اور گاڑیوں کے پہیوں کے چمکتے ہوئے ٹائر۔ اندازے سے پاہوم نے نتیجہ نکالا کہ وہ تین میل چل چکا ہے۔ ہوا گرم ہو رہی تھی؛ اس نے اپنا اندرونی کوٹ اتارا، اسے اپنے کندھے پر ڈالا اور پھر آگے چل دیا۔ اب ہوا بالکل گرم ہو گئی تھی؛ اس نے سورج کی طرف دیکھا، ناشتے کے بارے میں سوچنے کا وقت ہو گیا تھا۔"
+          },
+          {
+            "en": "“The first shift is done, but there are four in a day, and it is too soon yet to turn. But I will just take off my boots,” said he to himself. He sat down, took off his boots, stuck them into his girdle, and went on. It was easy walking now. “I will go on for another three miles,” thought he, “and then turn to the left. This spot is so fine, that it would be a pity to lose it. The further one goes, the better the land seems.”",
+            "sd": "”پهرين وارو پورو ٿي ويو، پر هڪ ڏينهن ۾ چار وارا آهن، ۽ موٽڻ لاءِ اڃا تمام سوير آهي. پر آءٌ بس پنهنجا بوٽ لاهيندس،“ هن پاڻ سان چيو. هو ويٺو، پنهنجا بوٽ لاٿا، انهن کي پنهنجي ڪمرپٽي ۾ رکي ڇڏيو ۽ اڳتي هليو. هاڻي هلڻ آسان هو. ”آءٌ وڌيڪ ٽي ميل هليندس،“ هن سوچيو، ”۽ پوءِ کاٻي پاسي مڙندس. هيءَ جاءِ ايتري ته سٺي آهي جو ان کي وڃائڻ افسوس ٿيندو. جيترو اڳتي ويندو، اوترو زمين بهتر لڳندي آهي.“",
+            "ur": "”پہلی باری پوری ہو گئی، لیکن ایک دن میں چار باریاں ہیں، اور مڑنے کے لیے ابھی بہت جلدی ہے۔ لیکن میں بس اپنے جوتے اتار دوں گا،“ اس نے خود سے کہا۔ وہ بیٹھا، اپنے جوتے اتارے، انہیں اپنی کمر پیٹی میں رکھا اور آگے چل دیا۔ اب چلنا آسان تھا۔ ”میں مزید تین میل چلوں گا،“ اس نے سوچا، ”اور پھر بائیں طرف مڑوں گا۔ یہ جگہ اتنی اچھی ہے کہ اسے کھونا افسوس کی بات ہوگی۔ جتنا آگے جاؤ، زمین اتنی ہی بہتر لگتی ہے۔“"
+          },
+          {
+            "en": "He went straight on for a while, and when he looked round, the hillock was scarcely visible and the people on it looked like black ants, and he could just see something glistening there in the sun.",
+            "sd": "هو ٿوري دير لاءِ سڌو هليو، ۽ جڏهن هن پوئتي ڏٺو ته ٽڪري مشڪل سان ڏسي سگھجي ٿي ۽ ان تي ماڻهو ڪارين ڪينئڙين جھڙا لڳا ۽ هو سج ۾ اتي ڪجهه چمڪندڙ ڏسي سگھيو.",
+            "ur": "وہ تھوڑی دیر کے لیے سیدھا چلتا رہا، اور جب اس نے پیچھے دیکھا تو ٹیلہ مشکل سے نظر آ رہا تھا اور اس پر لوگ کالی چیونٹیوں جیسے لگے اور وہ سورج میں وہاں کچھ چمکتا ہوا دیکھ سکتا تھا۔"
+          },
+          {
+            "en": "“Ah,” thought Pahom, “I have gone far enough in this direction, it is time to turn. Besides I am in a regular sweat, and very thirsty.” He stopped, dug a large hole, and heaped up pieces of turf. Next, he untied his flask, had a drink, and then turned sharply to the left. He went on and on; the grass was high and it was very hot. Pahom began to grow tired. He looked at the sun and saw that it was noon.",
+            "sd": "”آه،“ پھوم سوچيو، ”آءٌ هن طرف ڪافي پري اچي ويو آهيان، موٽڻ جو وقت ٿي ويو آهي. ان کان سواءِ آءٌ پگھر ۾ ٻڏل آهيان ۽ ڏاڍو اڃايل آهيان.“ هن ترسيو، هڪ وڏي کڏ کوٽي ۽ گھاس جا ڍير لڳايا. پوءِ هن پنهنجي بوتل کولي، پاڻي پيتو ۽ پوءِ تکيءَ طرح کاٻي پاسي مڙيو. هو هلندو رھيو؛ گھاس اوچو هو ۽ ڏاڍي گرمي هئي. پھوم ٿڪجڻ لڳو. هن سج ڏانهن ڏٺو ۽ ڏٺو ته منجھند ٿي وئي هئي.",
+            "ur": "”آہ،“ پاہوم نے سوچا، ”میں اس طرف کافی دور آ گیا ہوں، مڑنے کا وقت ہو گیا ہے۔ اس کے علاوہ میں پسینے میں شرابور ہوں اور بہت پیاسا ہوں۔“ وہ رکا، ایک بڑا گڑھا کھودا اور گھاس کے ڈھیر لگائے۔ پھر اس نے اپنی بوتل کھولی، پانی پیا اور پھر تیزی سے بائیں طرف مڑ گیا۔ وہ چلتا رہا؛ گھاس اونچی تھی اور بہت گرمی تھی۔ پاہوم تھکنے لگا۔ اس نے سورج کی طرف دیکھا اور دیکھا کہ دوپہر ہو گئی تھی۔"
+          },
+          {
+            "en": "“Well,” he thought, “I must have a rest.”",
+            "sd": "”چڱو،“ هن سوچيو، ”مون کي آرام ڪرڻ گھرجي.“",
+            "ur": "”اچھا،“ اس نے سوچا، ”مجھے آرام کرنا چاہیے۔“"
+          },
+          {
+            "en": "He sat down and ate some bread and drank some water, but he did not lie down thinking that if he did, he might fall asleep. After sitting a little while, he went on again. At first, he walked easily: the food had strengthened him, but it had become terribly hot and he felt sleepy and exhausted. Still, he went on thinking, “An hour to suffer, a lifetime to live.”",
+            "sd": "هو ويٺو ۽ ڪجهه ماني کاڌي ۽ ڪجهه پاڻي پيتو، پر هو ليٽيو نه، ڇاڪاڻ ته هن سوچيو ته جيڪڏهن هو ليٽي پيو ته کيس ننڊ اچي ويندي. ٿوري دير آرام ڪرڻ کان پوءِ، هو وري اڳتي هليو. شروع ۾ هو آسانيءَ سان هليو: کاڌي هن کي طاقت ڏني هئي، پر هوا تمام گھڻي گرم ٿي وئي هئي ۽ کيس ننڊ ۽ ٿڪاوٽ محسوس ٿي رھي هئي. تڏهن به، هو هلندو رھيو ۽ سوچيندو رھيو، ”برداشت ڪرڻ لاءِ هڪ ڪلاڪ، جيئڻ لاءِ سڄي زندگي.“",
+            "ur": "وہ بیٹھا اور کچھ روٹی کھائی اور کچھ پانی پیا، لیکن وہ لیٹا نہیں، کیونکہ اس نے سوچا کہ اگر وہ لیٹ گیا تو اسے نیند آ جائے گی۔ تھوڑی دیر آرام کرنے کے بعد، وہ پھر آگے چل دیا۔ شروع میں وہ آسانی سے چلا: کھانے نے اسے طاقت دی تھی، لیکن ہوا بہت زیادہ گرم ہو گئی تھی اور اسے نیند اور تھکاوٹ محسوس ہو رہی تھی۔ پھر بھی، وہ چلتا رہا اور سوچتا رہا، ”برداشت کرنے کے لیے ایک گھنٹہ، جینے کے لیے ساری زندگی۔“"
+          },
+          {
+            "en": "He went a long way in this direction also, and was about to turn to the left again when he perceived a damp hollow. “It would be a pity to leave that out,” he thought. “Flax would grow well there.” So, he went on past the damp hollow and dug a hole on the other side of it before he turned the corner. Pahom looked toward the hillock. The heat made the air hazy. It seemed to be quivering and through the haze the people on the hillock could scarcely be seen.",
+            "sd": "هو هن طرف به گھڻو پري ويو، ۽ جڏهن هو وري کاٻي پاسي مڙڻ وارو هو ته هن هڪ آلي کڏ ڏٺي. ”ان کي ڇڏڻ افسوس ٿيندو،“ هن سوچيو. ”اتي ٻوڙ سٺو ٿيندو.“ تنهنڪري هو آلي کڏ کان اڳتي ويو ۽ ان جي ٻئي پاسي کڏ کوٽي، ان کان اڳ جو هو ڪنڊ مڙيو. پھوم ٽڪريءَ ڏانهن ڏٺو. گرميءَ هوا کي ڌنڌلو ڪري ڇڏيو هو. اهو لهرائي رھيو هو ۽ ڌنڌ مان ٽڪريءَ تي ماڻهو مشڪل سان ڏسي سگھجن ٿا.",
+            "ur": "وہ اس طرف بھی بہت دور چلا گیا، اور جب وہ پھر بائیں طرف مڑنے والا تھا تو اس نے ایک نم گڑھا دیکھا۔ ”اسے چھوڑنا افسوس کی بات ہوگی،“ اس نے سوچا۔ ”وہاں السی اچھی اگے گی۔“ چنانچہ وہ نم گڑھے سے آگے گیا اور اس کے دوسری طرف گڑھا کھودا، اس سے پہلے کہ وہ کونے سے مڑے۔ پاہوم نے ٹیلے کی طرف دیکھا۔ گرمی نے ہوا کو دھندلا کر دیا تھا۔ وہ لہر رہی تھی اور دھند میں ٹیلے پر لوگ مشکل سے نظر آتے تھے۔"
+          },
+          {
+            "en": "“Ah!” thought Pahom, “I have made the sides too long. I must make this one shorter.” And he went along the third side, stepping faster. He looked at the sun. It was nearly halfway to the horizon and he had not yet done two miles of the third side of the square. He was still ten miles from the goal. “No,” he thought, “though it will make my land lopsided, I must hurry back in a straight line now. I might go too far and as it is I have a great deal of land.”",
+            "sd": "”آه!“ پھوم سوچيو، ”مون پاسا تمام ڊگها ڪري ڇڏيا آهن. مون کي هيءُ پاسو ننڍو ڪرڻ گھرجي.“ ۽ هو ٽئين پاسي تي تيز قدم کڻي هليو. هن سج ڏانهن ڏٺو. سج افق کان لڳ ڀڳ اڌ رستي تي هو ۽ هن چورس جي ٽئين پاسي جا ٻه ميل به پورا نه ڪيا هئا. هو منزل کان اڃا ڏه ميل پري هو. ”نه،“ هن سوچيو، ”جيتوڻيڪ ان سان منهنجي زمين ٽيڏي ٿي ويندي، مون کي هاڻي سڌي ليڪ ۾ جلدي موٽڻ گھرجي. آءٌ گھڻو پري وڃي سگھان ٿو ۽ جيئن آهي، مون وٽ اڳ ئي گھڻي زمين آهي.“",
+            "ur": "”آہ!“ پاہوم نے سوچا، ”میں نے اطراف بہت لمبے کر لیے ہیں۔ مجھے یہ طرف چھوٹی کرنی چاہیے۔“ اور وہ تیسری طرف تیز قدموں سے چلا۔ اس نے سورج کی طرف دیکھا۔ سورج افق سے تقریباً آدھے راستے پر تھا اور اس نے چوکور کی تیسری طرف کے دو میل بھی پورے نہیں کیے تھے۔ وہ منزل سے ابھی دس میل دور تھا۔ ”نہیں،“ اس نے سوچا، ”اگرچہ اس سے میری زمین ٹیڑھی ہو جائے گی، مجھے اب سیدھی لکیر میں جلدی واپس جانا چاہیے۔ میں بہت دور جا سکتا ہوں اور جیسا ہے، میرے پاس پہلے ہی بہت زمین ہے۔“"
+          },
+          {
+            "en": "So, Pahom hurriedly dug a hole and turned straight toward the hillock. Pahom was walking with difficulty now. He was done up with the heat, his bare feet were cut and bruised and his legs began to fail. He longed to rest, but it was impossible if he meant to get back before sunset. The sun waits for no man and it was sinking lower and lower.",
+            "sd": "تنهنڪري پھوم جلديءَ سان کڏ کوٽي ۽ ٽڪريءَ ڏانهن سڌو مڙيو. پھوم کي هاڻي هلڻ ۾ ڏکيائي ٿي رھي هئي. هو گرميءَ کان نستو ٿي ويو هو، سندس اگھاڙا پير ڪٽجي ويا ۽ ڇلي ويا هئا ۽ سندس ٽنگون جواب ڏيڻ لڳيون هيون. هن کي آرام ڪرڻو هو، پر اهو ناممڪن هو، جيڪڏهن هو سج لھڻ کان اڳ موٽڻ ٿي گھريو. سج ڪنهن جو به انتظار نه ڪندو آهي ۽ اهو هيٺ ٿيندو پئي ويو.",
+            "ur": "چنانچہ پاہوم نے جلدی سے گڑھا کھودا اور ٹیلے کی طرف سیدھا مڑ گیا۔ پاہوم کو اب چلنے میں دشواری ہو رہی تھی۔ وہ گرمی سے نڈھال ہو گیا تھا، اس کے ننگے پاؤں کٹ اور چھل گئے تھے اور اس کی ٹانگیں جواب دینے لگی تھیں۔ اسے آرام کرنے کی خواہش تھی، لیکن یہ ناممکن تھا اگر وہ سورج ڈوبنے سے پہلے واپس آنا چاہتا تھا۔ سورج کسی کا انتظار نہیں کرتا اور وہ نیچے اور نیچے جا رہا تھا۔"
+          },
+          {
+            "en": "“Oh dear,” he thought, “if only I have not blundered trying for too much! What if I am too late?” He looked toward the hillock and at the sun. He was still far from his goal and the sun was already near the rim. Pahom walked on and on. It was very hard walking, but he went quicker and quicker. He pressed on, but was still far from the place. He began running, threw away his coat, his boots, his flask and his cap; and kept only the spade which he used as a support.",
+            "sd": "”افسوس،“ هن سوچيو، ”جيڪڏهن مون گھڻو ڪجهه وٺڻ جي ڪوشش ۾ غلطي ڪئي هجي! جيڪڏهن آءٌ دير ڪري ڇڏيان؟“ هن ٽڪريءَ ڏانهن ۽ سج ڏانهن ڏٺو. هو اڃا منزل کان پري هو ۽ سج اڳ ئي ڪناري جي ويجهو هو. پھوم هلندو رھيو. هلڻ ڏاڍو ڏکيو هو، پر هو تيز ۽ تيز هلندو ويو. هن زور لڳايو، پر هو اڃا جاءِ کان پري هو. هن ڊوڙڻ شروع ڪيو، پنهنجو ڪوٽ، بوٽ، بوتل ۽ ٽوپي اڇلائي ڇڏيا؛ ۽ صرف ڪوڏر رکيو، جنهن کي هو سهاري طور استعمال ڪندو هو.",
+            "ur": "”افسوس،“ اس نے سوچا، ”کاش میں نے بہت زیادہ کی کوشش میں غلطی نہ کی ہوتی! اگر میں دیر کر دوں تو؟“ اس نے ٹیلے اور سورج کی طرف دیکھا۔ وہ ابھی منزل سے دور تھا اور سورج پہلے ہی کنارے کے قریب تھا۔ پاہوم چلتا رہا۔ چلنا بہت مشکل تھا، لیکن وہ تیز اور تیز چلتا گیا۔ اس نے زور لگایا، لیکن وہ ابھی جگہ سے دور تھا۔ وہ دوڑنے لگا، اپنا کوٹ، جوتے، بوتل اور ٹوپی پھینک دیے؛ اور صرف کدال رکھی، جسے وہ سہارے کے طور پر استعمال کرتا تھا۔"
+          },
+          {
+            "en": "“What shall I do,” he thought again. “I have grasped too much! What a fool I have been! I can’t get there before the sun sets.” And this fear made him still more breathless. Pahom went on running, his soaking shirt and trousers stuck to him, and his mouth was parched. His breast was working like a blacksmith’s bellows, his heart was beating like a hammer, and his legs were giving way as if they did not belong to him. Pahom was seized with terror lest he should die of the strain. Though afraid of death, he could not stop. He ran on and on, and drew near and heard the Bashkirs yelling and shouting to him. He gathered his last strength and ran on.",
+            "sd": "”آءٌ ڇا ڪيان،“ هن وري سوچيو. ”مون گھڻو ڪجهه وٺي ڇڏيو آهي! آءٌ ڪيترو بيوقوف رھيو آهيان! آءٌ سج لھڻ کان اڳ اتي نه پهچي سگھندس.“ ۽ هن ڊپ هن کي اڃا وڌيڪ بي ساهه ڪري ڇڏيو. پھوم ڊوڙندو رھيو، سندس پگھر سان ڀريل قميص ۽ پاجامو هن سان چنبڙي ويا هئا، ۽ سندس وات سڪي ويو هو. سندس ڇاتي لوهار جي ڌونڪڻيءَ جهڙي هلندي هئي، سندس دل هٿوڙيءَ جهڙي ڌڙڪندي هئي، ۽ سندس ٽنگون ائين جواب ڏئي رھيون هيون، ڄڻ اهي هن جون ئي نه هجن. پھوم کي اهو ڊپ وٺي ويو ته ڪٿي هو ٿڪاوٽ کان مري نه وڃي. موت کان ڊڄڻ جي باوجود، هو رڪجي نه سگھيو. هو ڊوڙندو رھيو، ۽ ويجهو اچي، هن باشڪرن کي رڙيون ڪندي ۽ هن کي سڏ ڪندي ٻڌو. هن پنهنجي آخري طاقت گڏ ڪئي ۽ ڊوڙندو رھيو.",
+            "ur": "”میں کیا کروں،“ اس نے پھر سوچا۔ ”میں نے بہت زیادہ لے لیا ہے! میں کتنا بیوقوف رہا ہوں! میں سورج ڈوبنے سے پہلے وہاں نہیں پہنچ سکوں گا۔“ اور اس خوف نے اسے اور بھی بے دم کر دیا۔ پاہوم دوڑتا رہا، اس کی پسینے سے بھیگی قمیص اور پاجامہ اس سے چپک گئے تھے، اور اس کا منہ خشک ہو گیا تھا۔ اس کا سینہ لوہار کی دھونکنی کی طرح چل رہا تھا، اس کا دل ہتھوڑے کی طرح دھڑک رہا تھا، اور اس کی ٹانگیں ایسے جواب دے رہی تھیں جیسے وہ اس کی ہی نہ ہوں۔ پاہوم کو یہ خوف لگا کہ کہیں وہ تھکاوٹ سے مر نہ جائے۔ موت سے ڈرنے کے باوجود، وہ رک نہیں سکتا تھا۔ وہ دوڑتا رہا، اور قریب آ کر اس نے باشکیروں کو چلاتے اور اسے پکارتے سنا۔ اس نے اپنی آخری طاقت جمع کی اور دوڑتا رہا۔"
+          },
+          {
+            "en": "The sun was close to the rim, and cloaked in mist and looked large and red as blood. Now, yes now, it was about to set! The sun was quite low, but he was also quite near his aim. Pahom could already see the people on the hillock waving their arms to hurry him up. He could see the fox fur cap on the ground and the chief sitting on the ground holding his sides with laughter.",
+            "sd": "سج ڪناري جي ويجهو هو، ۽ ڪوهيڙي ۾ ڍڪيل هو ۽ رت جهڙو وڏو ۽ ڳاڙهو ڏسڻ ۾ آيو. هاڻي، هاڻي، اهو لھڻ وارو هو! سج بلڪل هيٺ هو، پر هو به پنهنجي منزل جي بلڪل ويجهو هو. پھوم اڳ ئي ٽڪريءَ تي ماڻهن کي پنهنجا هٿ لوڏيندي ڏسي سگھيو ٿي، جيئن هن کي جلدي ڪرائين. هو زمين تي لومڙيءَ جي کَل واري ٽوپي ۽ سردار کي زمين تي ويٺل ڏسي سگھيو ٿي، جيڪو کلندي کلندي پنهنجا پاسا پڪڙي رھيو هو.",
+            "ur": "سورج کنارے کے قریب تھا، اور دھند میں لپٹا ہوا خون جیسا بڑا اور سرخ نظر آ رہا تھا۔ اب، ہاں اب، وہ ڈوبنے والا تھا! سورج بالکل نیچے تھا، لیکن وہ بھی اپنی منزل کے بالکل قریب تھا۔ پاہوم پہلے ہی ٹیلے پر لوگوں کو اپنے بازو ہلا کر اسے جلدی کرنے کے لیے کہتے دیکھ سکتا تھا۔ وہ زمین پر لومڑی کی کھال والی ٹوپی اور سردار کو زمین پر بیٹھے، ہنستے ہوئے اپنے پہلو پکڑے دیکھ سکتا تھا۔"
+          },
+          {
+            "en": "“There is plenty of land,” thought he, “but will God let me live on it? I have lost my life; I have lost my life! I shall never reach that spot!”",
+            "sd": "”زمين گھڻي آهي،“ هن سوچيو، ”پر ڇا خدا مون کي ان تي جيئڻ ڏيندو؟ مون پنهنجي زندگي وڃائي ڇڏي آهي؛ مون پنهنجي زندگي وڃائي ڇڏي آهي! آءٌ ان جاءِ تي ڪڏهن به نه پهچندس!“",
+            "ur": "”زمین بہت ہے،“ اس نے سوچا، ”لیکن کیا خدا مجھے اس پر جینے دے گا؟ میں نے اپنی زندگی کھو دی ہے؛ میں نے اپنی زندگی کھو دی ہے! میں کبھی اس جگہ نہیں پہنچ سکوں گا!“"
+          },
+          {
+            "en": "Pahom looked at the sun which had reached the earth: one side of it had already disappeared. With all his remaining strength he rushed on, bending his body forward so that his legs could hardly follow fast enough to keep him from falling. Just as he reached the hillock it suddenly grew dark. He looked up—the sun had already set! He gave a cry. “All my labor has been in vain,” thought he and was about to stop. But then he remembered that though to him, from below, the sun seemed to have set, they on the hillock could still see it. He took a long breath and ran up the hillock. It was still light there. He reached the top and saw the cap. Pahom uttered a cry. His legs gave way beneath him. He fell forward and reached the fur cap with his hands outstretched.",
+            "sd": "پھوم سج ڏانهن ڏٺو، جيڪو زمين تي پهچي چڪو هو: ان جو هڪ پاسو اڳ ئي غائب ٿي چڪو هو. پنهنجي باقي بچيل طاقت سان هو اڳتي ڊوڙيو، پنهنجو جسم اڳتي جھڪائيندي، ايترو جو سندس ٽنگون هن کي ڪرڻ کان بچائڻ لاءِ تيز هلڻ ۾ مشڪل سان پهچي سگھيون. جيئن ئي هو ٽڪريءَ تي پهتو، اوچتو اونداهي ٿي وئي. هن مٿي ڏٺو — سج اڳ ئي لھي چڪو هو! هن رڙ ڪئي. ”منهنجي سڄي محنت اجائي ٿي وئي،“ هن سوچيو ۽ هو رڪجڻ وارو هو. پر پوءِ هن کي ياد آيو ته جيتوڻيڪ هن کي هيٺان کان سج لھي ويو ٿي لڳو، ٽڪريءَ تي ماڻهو اڃا ان کي ڏسي سگھيا ٿي. هن ڊگهو ساهه کنيو ۽ ٽڪريءَ تي ڊوڙي ويو. اتي اڃا روشني هئي. هو چوٽيءَ تي پهتو ۽ ٽوپي ڏٺي. پھوم رڙ ڪئي. سندس ٽنگون هن جي هيٺان جواب ڏئي ويون. هو اڳتي ڪري پيو ۽ پنهنجا هٿ پکيڙي، لومڙيءَ جي کَل واري ٽوپيءَ تائين پهتو.",
+            "ur": "پاہوم نے سورج کی طرف دیکھا جو زمین تک پہنچ چکا تھا: اس کا ایک طرف پہلے ہی غائب ہو چکا تھا۔ اپنی باقی ماندہ طاقت سے وہ آگے دوڑا، اپنا جسم آگے جھکائے ہوئے، اتنا کہ اس کی ٹانگیں اسے گرنے سے بچانے کے لیے تیز چلنے میں مشکل سے ساتھ دے پا رہی تھیں۔ جیسے ہی وہ ٹیلے پر پہنچا، اچانک اندھیرا ہو گیا۔ اس نے اوپر دیکھا — سورج پہلے ہی ڈوب چکا تھا! اس نے چیخ ماری۔ ”میری ساری محنت بیکار گئی،“ اس نے سوچا اور وہ رکنے والا تھا۔ لیکن پھر اسے یاد آیا کہ اگرچہ اسے نیچے سے سورج ڈوبا ہوا لگ رہا تھا، ٹیلے پر لوگ ابھی اسے دیکھ سکتے تھے۔ اس نے لمبی سانس لی اور ٹیلے پر دوڑ گیا۔ وہاں ابھی روشنی تھی۔ وہ چوٹی پر پہنچا اور ٹوپی دیکھی۔ پاہوم نے چیخ ماری۔ اس کی ٹانگیں اس کے نیچے جواب دے گئیں۔ وہ آگے گرا اور اپنے ہاتھ پھیلائے، لومڑی کی کھال والی ٹوپی تک پہنچ گیا۔"
+          },
+          {
+            "en": "“Ah, what a fine fellow!” exclaimed the chief, laughing. “See how much land he has gained!”",
+            "sd": "”آه، ڪهڙو سٺو جوان آهي!“ سردار کلندي چيو. ”ڏسو، هن ڪيتري زمين حاصل ڪئي آهي!“",
+            "ur": "”آہ، کیسا اچھا جوان ہے!“ سردار نے ہنستے ہوئے کہا۔ ”دیکھو، اس نے کتنی زمین حاصل کر لی ہے!“"
+          },
+          {
+            "en": "Pahom’s servant came running up and tried to raise him, but he saw that blood was flowing from his mouth. Pahom was dead! The Bashkirs clicked their tongues to show their pity.",
+            "sd": "پھوم جو نوڪر ڊوڙندو آيو ۽ هن کي اٿارڻ جي ڪوشش ڪئي، پر هن ڏٺو ته سندس وات مان رت وهي رھيو هو. پھوم مري ويو! باشڪرن افسوس ظاهر ڪرڻ لاءِ زبان سان ٺوڪو ڏنو.",
+            "ur": "پاہوم کا نوکر دوڑتا ہوا آیا اور اسے اٹھانے کی کوشش کی، لیکن اس نے دیکھا کہ اس کے منہ سے خون بہہ رہا ہے۔ پاہوم مر چکا تھا! باشکیروں نے افسوس ظاہر کرنے کے لیے زبان سے چٹخارا لیا۔"
+          },
+          {
+            "en": "His servant picked up the spade and dug a grave long enough for Pahom to lie in and buried him in it. Six feet from his head to his heels was all he needed.",
+            "sd": "سندس نوڪر ڪوڏر کنيو ۽ پھوم جي ليٽڻ لاءِ ڪافي ڊگهي قبر کوٽي ۽ هن کي ان ۾ دفن ڪيو. سندس مٿي کان پيرن تائين ڇھ فوٽ ئي اهو سڀ ڪجهه هو، جيڪو هن کي گھرجي هو.",
+            "ur": "اس کے نوکر نے کدال اٹھائی اور پاہوم کے لیٹنے کے لیے کافی لمبی قبر کھودی اور اسے اس میں دفن کر دیا۔ اس کے سر سے پاؤں تک چھ فٹ ہی وہ سب کچھ تھا جو اسے چاہیے تھا۔"
+          }
+        ]
+      },
+      {
+        "bookPages": "151-157",
+        "lesson": "The Day the Dam Broke",
+        "paragraphs": [
+          {
+            "en": "My memories of what my family and I went through during the 1913 flood in Ohio I would gladly forget. And yet neither the hardships we endured nor can the turmoil and confusion we experienced alter my feeling toward my native state and city. I am having a fine time now and wish Columbus were here, but if anyone ever wished a city was in hell it was during that frightful and perilous afternoon in in 1913 when the dam broke, or, to be more exact, when everybody in town thought that the dam broke. We were both ennobled and demoralized by the experience. Grandfather especially rose to magnificent heights which can never lose their splendour for me, even though his reactions to the flood were based upon a profound misconception; namely, that Nathan Bedford Forrest's cavalry was the menace we were called upon to face. The only possible means of escape for us was to flee the house, a step which grandfather sternly forbade, brandishing his old army sabre in his hand. \"Let the sons------come!\" he roared. Meanwhile hundreds of people were streaming by our house in wild panic, screaming \"Go east! Go east!\" we had to stun grandfather with the ironing board. Impeded as we were by the inert form of the old gentleman—he was taller than six feet and weighed almost a hundred and seventy pounds—we were passed, in the first half-mile, by practically everybody else in the city. Had grandfather not come to, at the corner of Parsons Avenue and Town Street, we would unquestionably have been overtaken and engulfed by the roaring waters—that is, if there had been any roaring waters. Later, when the panic had died down and people had gone rather sheepishly back to their homes and their offices, minimizing the distances they had run and offering various reasons for running, city engineers pointed out that even if the dam had broken, the water level would not have risen more than two additional inches in the West Side. The West Side was, at the time of the dam scare, under thirty feet of water—as, indeed, were all Ohio river towns during the great spring floods of twenty years ago. The East Side (where we lived and where all the running occurred) had never been in any danger at all. Only a rise of some ninety-five feet could have caused the flood waters to flow over High Street—the thoroughfare that divided the east side of town from the west—and engulf the East Side.",
+            "sd": "1913ع ۾ اوهايو ۾ آيل ٻوڏ دوران منهنجي ڪٽنب ۽ مون جيڪي ڪجهه ڀوڳيو، ان جون يادون مان خوشيءَ سان وساري ڇڏيان. پر پوءِ به نه ته جيڪي تڪليفون اسان سٺيون، نه وري اهو انتشار ۽ مونجھارو جيڪو اسان محسوس ڪيو، منهنجي پنهنجي صوبي ۽ شهر لاءِ منهنجي جذبن کي بدلائي سگھيو آهي. هاڻي مان ڏاڍو خوش آهيان ۽ چاهيان ٿو ته ڪولمبس هتي هجي، پر جيڪڏهن ڪنهن ڪڏهن ڪنهن شهر جي جھنم ۾ هجڻ جي خواهش ڪئي هئي ته اهو 1913ع جي ان خوفناڪ ۽ خطرناڪ منجھند جو هو، جڏهن بند ٽٽو، يا وڌيڪ صحيح چئجي ته جڏهن شهر جي هر ماڻهوءَ کي ائين لڳو ته بند ٽٽي پيو آهي. ان تجربي اسان ٻنهي کي سربلند به ڪيو ۽ مايوس به ڪيو. ڏاڏو خاص طور تي عظمت جي انهن بلندين تي پهتو جيڪي منهنجي لاءِ ڪڏهن به پنهنجو شان نه وڃائينديون، جيتوڻيڪ ٻوڏ بابت سندس ردعمل هڪ وڏي غلط فهميءَ تي ٻڌل هو؛ يعني، نٿن بيڊفورڊ فارسٽ جي گھوڙيسوار فوج اهو خطرو هئي جنهن کي منهن ڏيڻ لاءِ اسان کي سڏيو ويو هو. اسان لاءِ بچڻ جو واحد رستو گھر مان ڀڄي وڃڻ هو، اهو قدم جيڪو ڏاڏي سختيءَ سان منع ڪيو، پنهنجي هٿ ۾ پنهنجي پراڻي فوجي تلوار ڦيرائيندي. ”اچڻ ڏيو انهن کي!“ هن رڙ ڪري چيو. ان دوران سوين ماڻهو اسان جي گھر جي ڀرسان جهنگلي گهٻراهٽ ۾ ڊوڙي رھيا هئا، رڙيون ڪري رھيا هئا ته ”اوڀر ڏانهن وڃو! اوڀر ڏانهن وڃو!“ اسان کي ڏاڏي کي استري ڪرڻ واري تختي سان بيهوش ڪرڻو پيو. جيتوڻيڪ پوڙهي صاحب جو بي جان جسم اسان لاءِ رڪاوٽ هو — هو ڇهن فوٽن کان ڊگهو هو ۽ وزن ۾ لڳ ڀڳ هڪ سؤ ستر پائونڊ هو — پهرين اڌ ميل ۾ شهر جا لڳ ڀڳ سڀئي ماڻهو اسان کان اڳتي نڪري ويا. جيڪڏهن ڏاڏو پارسنز ايونيو ۽ ٽائون اسٽريٽ جي ڪنڊ تي هوش ۾ نه اچي ها ته اسان کي پڪ سان گجگوڙ ڪندڙ پاڻي اچي وٺي ها ۽ ٻوڙي ڇڏي ها — يعني، جيڪڏهن ڪو گجگوڙ ڪندڙ پاڻي هجي ها. پوءِ، جڏهن گهٻراهٽ ختم ٿي وئي ۽ ماڻهو شرمندگيءَ سان پنهنجن گھرن ۽ آفيسن ڏانهن موٽي ويا، ڊوڙيل مفاصلي کي گھٽائي بيان ڪندي ۽ ڊوڙڻ جا مختلف سبب ٻڌائيندي، شهر جي انجنيئرن ٻڌايو ته جيتوڻيڪ بند ٽٽي پوي ها ته به اوله واري پاسي ۾ پاڻيءَ جي سطح ٻن انچن کان وڌيڪ نه وڌي ها. اوله وارو پاسو، بند ٽٽڻ جي افواه جي وقت، ٽيهن فوٽن پاڻيءَ هيٺ هو — جيئن ويهن سال اڳ وڏين بهار جي ٻوڏن دوران اوهايو نديءَ جا سڀ شهر هئا. اوڀر وارو پاسو (جتي اسان رھندا هئاسين ۽ جتي سڄي ڊوڙ ٿي) ڪڏهن به ڪنهن خطري ۾ نه هو. رڳو پنجانوي فوٽن جو اضافو ئي ٻوڏ جي پاڻيءَ کي هاءِ اسٽريٽ مٿان وهڻ تي مجبور ڪري سگھيو ها — اهو وڏو رستو جيڪو شهر جي اوڀر واري پاسي کي اوله کان ڌار ڪري ٿو — ۽ اوڀر واري پاسي کي ٻوڙي سگھيو ها.",
+            "ur": "1913ء میں اوہائیو میں آنے والے سیلاب کے دوران میرے خاندان اور میں نے جو کچھ جھیلا، اس کی یادیں میں خوشی سے بھلا دینا چاہوں گا۔ اور پھر بھی، نہ تو وہ تکلیفیں جو ہم نے برداشت کیں، نہ وہ ہنگامہ اور الجھن جو ہم نے محسوس کی، میرے اپنے صوبے اور شہر کے لیے میرے جذبات کو بدل سکی۔ اب میں بہت خوش ہوں اور چاہتا ہوں کہ کولمبس یہاں ہوتا، لیکن اگر کسی نے کبھی کسی شہر کے جہنم میں ہونے کی خواہش کی تھی تو وہ 1913ء کی اس خوفناک اور خطرناک دوپہر کو تھی، جب ڈیم ٹوٹا، یا زیادہ صحیح یہ کہ جب شہر کے ہر شخص کو لگا کہ ڈیم ٹوٹ گیا ہے۔ ہم دونوں اس تجربے سے سربلند بھی ہوئے اور مایوس بھی۔ دادا خاص طور پر عظمت کی ان بلندیوں پر پہنچے جو میرے لیے کبھی اپنی شان نہیں کھو سکتیں، حالانکہ سیلاب کے بارے میں ان کا ردعمل ایک گہری غلط فہمی پر مبنی تھا؛ یعنی، نیتھن بیڈفورڈ فارسٹ کا گھڑسوار دستہ وہ خطرہ تھا جس کا سامنا کرنے کے لیے ہمیں بلایا گیا تھا۔ ہمارے لیے بچنے کا واحد راستہ گھر سے بھاگ جانا تھا، وہ قدم جس سے دادا نے سختی سے منع کیا، اپنی پرانی فوجی تلوار ہاتھ میں لہراتے ہوئے۔ ”انہیں آنے دو!“ وہ گرجے۔ اس دوران سیکڑوں لوگ جنگلی گھبراہٹ میں ہمارے گھر کے پاس سے گزر رہے تھے، چیخ رہے تھے کہ ”مشرق کی طرف جاؤ! مشرق کی طرف جاؤ!“ ہمیں دادا کو استری کرنے والے تختے سے بے ہوش کرنا پڑا۔ اگرچہ بوڑھے صاحب کا بے جان جسم ہمارے لیے رکاوٹ تھا — وہ چھ فٹ سے لمبا تھا اور اس کا وزن تقریباً ایک سو ستر پاؤنڈ تھا — پہلے آدھے میل میں شہر کے تقریباً سبھی لوگ ہم سے آگے نکل گئے۔ اگر دادا پارنس ایونیو اور ٹاؤن اسٹریٹ کے کونے پر ہوش میں نہ آتے تو ہم یقیناً گرجتے ہوئے پانی کی زد میں آ کر ڈوب جاتے — یعنی، اگر کوئی گرجتا ہوا پانی ہوتا۔ بعد میں، جب گھبراہٹ ختم ہو گئی اور لوگ شرمندگی سے اپنے گھروں اور دفتروں کو واپس چلے گئے، دوڑی ہوئی دوری کو کم کر کے بتاتے ہوئے اور دوڑنے کی مختلف وجوہات پیش کرتے ہوئے، شہر کے انجینئروں نے بتایا کہ اگر ڈیم ٹوٹ بھی جاتا تو مغربی حصے میں پانی کی سطح دو انچ سے زیادہ نہ بڑھتی۔ مغربی حصہ، ڈیم ٹوٹنے کی افواہ کے وقت، تیس فٹ پانی کے نیچے تھا — جیسا کہ بیس سال پہلے بہار کے بڑے سیلابوں کے دوران اوہائیو ندی کے تمام شہر تھے۔ مشرقی حصہ (جہاں ہم رہتے تھے اور جہاں ساری دوڑ ہوئی) کبھی کسی خطرے میں نہیں تھا۔ صرف پچانوے فٹ کا اضافہ ہی سیلاب کے پانی کو ہائی اسٹریٹ کے اوپر سے بہنے پر مجبور کر سکتا تھا — وہ بڑی سڑک جو شہر کے مشرقی حصے کو مغرب سے الگ کرتی ہے — اور مشرقی حصے کو ڈبو سکتا تھا۔"
+          },
+          {
+            "en": "The fact that we were all as safe as kittens under a cook stove did not, however, assuage in the least the fine despair and the grotesque desperation which seized upon the residents of the East Side when the cry spread like a grass fire that the dam had given way. Some of the most dignified, staid, cynical, and clear-thinking men in town abandoned their wives, stenographers, homes, and offices ran east. There are few alarms in the world more terrifying than \"The dam has broken!\" there are few persons capable of stopping to reason when that clarion cry strikes upon their ears, even persons who live in towns no nearer than five hundred miles to a dam.",
+            "sd": "حقيقت اها هئي ته اسان سڀ باورچي خاني جي چلهي هيٺ ٻلين جي ٻچن وانگر بلڪل محفوظ هئاسين، پر پوءِ به ان سان اوڀر واري پاسي جي رھواسين تي ڇانيل ان عجيب مايوسي ۽ ڀيانڪ بيوسيءَ ۾ ذرو به گھٽتائي نه آئي، جيڪا تڏهن پيدا ٿي جڏهن اهو رڙ سڄي شهر ۾ باه وانگر ڦھلجي وئي ته بند ٽٽي پيو آهي. شهر جي سڀ کان وڌيڪ باوقار، سنجيده، شڪي ۽ صاف سوچ رکندڙ ماڻهن مان ڪجهه پنهنجن زالن، اسٽينوگرافرن، گھرن ۽ آفيسن کي ڇڏي اوڀر ڏانهن ڊوڙي ويا. دنيا ۾ ”بند ٽٽي پيو آهي!“ کان وڌيڪ خوفناڪ ڪي ٿورا ئي الارم هوندا، ۽ اهڙا ماڻهو به ٿورا ئي هوندا جيڪي ان زوردار رڙ کي ٻڌي سوچڻ لاءِ ترسي سگھن، ايستائين جو اهي ماڻهو به جيڪي بند کان پنج سؤ ميلن کان به ويجهو نه رھندا هجن.",
+            "ur": "حقیقت یہ تھی کہ ہم سب باورچی خانے کے چولہے کے نیچے بلی کے بچوں کی طرح بالکل محفوظ تھے، لیکن پھر بھی اس سے مشرقی حصے کے رہائشیوں پر چھائی ہوئی اس عجیب مایوسی اور خوفناک بے بسی میں ذرا بھی کمی نہ آئی، جو اس وقت پیدا ہوئی جب یہ چیخ سارے شہر میں آگ کی طرح پھیل گئی کہ ڈیم ٹوٹ گیا ہے۔ شہر کے سب سے زیادہ باوقار، سنجیدہ، شکی اور صاف سوچ رکھنے والے آدمیوں میں سے کچھ اپنی بیویوں، اسٹینوگرافروں، گھروں اور دفتروں کو چھوڑ کر مشرق کی طرف دوڑ گئے۔ دنیا میں ”ڈیم ٹوٹ گیا ہے!“ سے زیادہ خوفناک الارم بہت کم ہوں گے، اور ایسے لوگ بھی بہت کم ہوں گے جو اس زوردار چیخ کو سن کر سوچنے کے لیے رک سکیں، یہاں تک کہ وہ لوگ بھی جو ڈیم سے پانچ سو میل سے بھی قریب نہیں رہتے۔"
+          },
+          {
+            "en": "The Columbus, Ohio, broken-dam rumour began, as I recall it, about noon of March 12, 1913. High Street, the man canyon of trade, was loud with the placid hum of business and the buzzing of placid businessmen arguing, computing, wheedling, offering, refusing, and compromising. Darius Conningway, one of the foremost corporation lawyers in the Middle-West, was telling the Public Utilities Commission in the language of Julius Caesar that they might as well try to move the Northern star as to move him. Other men were making their little boasts and their little gestures. Suddenly somebody began to run. It may be that he had simply remembered, all of a moment, an engagement to meet his wife, for which he was now frightfully late. Whatever it was, he ran east on Broad Street (probably toward the Maramor Restaurant, a favourite place for a man to meet his wife). Somebody else began to run, perhaps a newsboy in high spirits. Another man, a portly gentleman of affairs, broke into a trot. Inside of ten minutes, everybody on High Street, from the Union Depot to the Courthouse was running. A loud mumble gradually crystalized into the dread word \"Dam.\" \"The dam has broke!\" The fear was put into words by a little old lady in an electric, or by a traffic cop, or by a small boy: nobody knows who, nor does it now really matter. Two thousand people were abruptly in full flight. \"Go east!\" was the cry that arose—east away from the river, east to safety. \"Go east! Go east! Go east!\"",
+            "sd": "ڪولمبس، اوهايو ۾ بند ٽٽڻ جي افواه، جيئن مون کي ياد آهي، 12 مارچ 1913ع جي منجھند ڌاري شروع ٿي. هاءِ اسٽريٽ، واپار جي وڏي وادي، ڪاروبار جي پرسڪون گونج ۽ پرسڪون واپارين جي بحث، حساب، خوشامد، آڇ، انڪار ۽ سمجھوتي جي آوازن سان ڀريل هئي. ڊيريس ڪاننگ وي، وچ-اولاه جي سڀ کان وڏن ڪارپوريشن وڪيلن مان هڪ، پبلڪ يوٽيلٽيز ڪميشن کي جوليس سيزر جي ٻوليءَ ۾ ٻڌائي رھيو هو ته اهي کيس هٽائڻ جي ڪوشش ڪرڻ بجاءِ اترين تاري کي هٽائڻ جي ڪوشش ڪن. ٻيا ماڻهو پنهنجون ننڍيون شيخيون ۽ ننڍا اشارا ڪري رھيا هئا. اوچتو ڪنهن ڊوڙڻ شروع ڪيو. ٿي سگھي ٿو ته هن کي اوچتو پنهنجي زال سان ملڻ جو واعدو ياد اچي ويو هجي، جنهن لاءِ هو هاڻي ڏاڍو دير سان پهتو هو. جيڪي به هجي، هو براڊ اسٽريٽ تي اوڀر ڏانهن ڊوڙيو (شايد مارامور ريسٽورنٽ ڏانهن، جيڪو ڪنهن ماڻهوءَ لاءِ پنهنجي زال سان ملڻ جي پسنديده جاءِ هئي). ڪنهن ٻئي به ڊوڙڻ شروع ڪيو، شايد هڪ اخبار وڪڻندڙ ڇوڪرو خوشيءَ ۾. هڪ ٻيو ماڻهو، ڪاروبار جو هڪ ٿلهو صاحب، ڊوڙ ۾ بدلجي ويو. ڏهن منٽن اندر، هاءِ اسٽريٽ تي هر ماڻهو، يونين ڊپو کان ڪورٽ هائوس تائين، ڊوڙي رھيو هو. هڪ زوردار گونج آهستي آهستي ان خوفناڪ لفظ ”بند“ ۾ بدلجي وئي. ”بند ٽٽي پيو آهي!“ خوف کي لفظن ۾ هڪ ننڍڙي پوڙهي عورت بيان ڪيو، جيڪا بجليءَ واري گاڏيءَ ۾ هئي، يا ڪنهن ٽريفڪ پوليس واري، يا ڪنهن ننڍڙي ڇوڪري — ڪير هو، ڪنهن کي خبر ناهي، ۽ هاڻي ان سان ڪو فرق به نه ٿو پوي. ٻه هزار ماڻهو اوچتو ڀڄڻ لڳا. ”اوڀر ڏانهن وڃو!“ اهو نعرو هو جيڪو اٿيو — نديءَ کان پري اوڀر ڏانهن، حفاظت ڏانهن اوڀر. ”اوڀر ڏانهن وڃو! اوڀر ڏانهن وڃو! اوڀر ڏانهن وڃو!“",
+            "ur": "کولمبس، اوہائیو میں ڈیم ٹوٹنے کی افواہ، جیسا کہ مجھے یاد ہے، 12 مارچ 1913ء کی دوپہر کے قریب شروع ہوئی۔ ہائی اسٹریٹ، تجارت کی بڑی وادی، کاروبار کی پرسکون گونج اور پرسکون تاجروں کی بحث، حساب، خوشامد، پیشکش، انکار اور سمجھوتے کی آوازوں سے بھری ہوئی تھی۔ ڈیریس کوننگ وے، وسط مغرب کے سب سے بڑے کارپوریشن وکیلوں میں سے ایک، پبلک یوٹیلیٹیز کمیشن کو جولیس سیزر کی زبان میں بتا رہا تھا کہ وہ اسے ہٹانے کی کوشش کرنے کے بجائے شمالی ستارے کو ہٹانے کی کوشش کریں۔ دوسرے لوگ اپنی چھوٹی چھوٹی شیخیاں اور چھوٹے چھوٹے اشارے کر رہے تھے۔ اچانک کسی نے دوڑنا شروع کر دیا۔ ہو سکتا ہے کہ اسے اچانک اپنی بیوی سے ملنے کا وعدہ یاد آ گیا ہو، جس کے لیے وہ اب بہت دیر سے پہنچا تھا۔ جو بھی تھا، وہ براڈ اسٹریٹ پر مشرق کی طرف دوڑا (شاید مارامور ریستوراں کی طرف، جو کسی آدمی کے لیے اپنی بیوی سے ملنے کی پسندیدہ جگہ تھی)۔ کسی اور نے بھی دوڑنا شروع کر دیا، شاید خوشی میں ایک اخبار بیچنے والا لڑکا۔ ایک اور آدمی، کاروبار کا ایک موٹا صاحب، دوڑ میں بدل گیا۔ دس منٹ کے اندر، ہائی اسٹریٹ پر ہر شخص، یونین ڈپو سے کورٹ ہاؤس تک، دوڑ رہا تھا۔ ایک زوردار گونج آہستہ آہستہ اس خوفناک لفظ ”ڈیم“ میں بدل گئی۔ ”ڈیم ٹوٹ گیا ہے!“ خوف کو لفظوں میں ایک چھوٹی بوڑھی عورت نے بیان کیا، جو بجلی والی گاڑی میں تھی، یا کسی ٹریفک پولیس والے نے، یا کسی چھوٹے لڑکے نے — کون تھا، کسی کو نہیں معلوم، اور اب اس سے کوئی فرق بھی نہیں پڑتا۔ دو ہزار لوگ اچانک بھاگنے لگے۔ ”مشرق کی طرف جاؤ!“ یہ وہ نعرہ تھا جو اٹھا — دریا سے دور مشرق کی طرف، حفاظت کی طرف مشرق۔ ”مشرق کی طرف جاؤ! مشرق کی طرف جاؤ! مشرق کی طرف جاؤ!“"
+          },
+          {
+            "en": "Black streams of people flowed eastward down all the streets leading in that direction; these streams, whose headwaters were in the dry-goods stores, office buildings, harness shops, movie theatres, were fed by trickles of housewives, children, cripples, servants, dogs, and cats, slipping out of the houses past which the main streams flowed, shouting and screaming. People ran out leaving fires burning and food cooking and doors wide open. I remember, however, that my mother turned out all the fires and that she took with her a dozen eggs and two loaves bread. It was her plan to make Memorial Hall, just two blocks away, and take refuge somewhere in the top of it, in one of the dusty rooms where war veterans me and where old battle flags and stage scenery were stored. But the seething throngs, shouting \"Go east!\" drew her along and the rest of us with her. When grandfather regained full consciousness, at Parsons Avenue, he turned upon the retreating mob like a vengeful prophet and exhorted the men to form ranks and stand off the Rebel dogs, but at length he, too, got the idea that the dam had broken and, roaring \"Go east!\" in his powerful voice, he caught up in one arm a small child and in the other a slight clerkish man of perhaps forty-two and we slowly began to gain on those ahead of us.",
+            "sd": "ماڻهن جا ڪارا وهڪرا اوڀر ڏانهن انهن سڀني گهٽين مان وهي رھيا هئا جيڪي ان طرف وينديون هيون؛ اهي وهڪرا، جن جا سرچشما سڪي سامان جون دڪانون، آفيسن جون عمارتون، سازن جون دڪانون ۽ سينيما گھر هئا، گھرن وارين عورتن، ٻارن، معذورن، نوڪرن، ڪتن ۽ ٻلين جي ننڍڙن وهڪرن سان ڀرجي رھيا هئا، جيڪي انهن گھرن مان نڪري رھيا هئا جن جي ڀرسان مکيه وهڪرا وهي رھيا هئا، رڙيون ڪري رھيا هئا. ماڻهو باهيون ٻريل، کاڌو پچي رھيو ۽ دروازا کليل ڇڏي ٻاهر ڊوڙي ويا. مون کي ياد آهي، پر منهنجي ماءُ سڀ باهيون وسائي ڇڏيون ۽ هو پنهنجي سان گڏ هڪ درجن آنا ۽ مانيءَ جا ٻه ٽڪر وٺي وئي. سندس رٿا هئي ته ميموريل هال، جيڪو رڳو ٻن بلاڪن جي مفاصلي تي هو، ڏانهن وڃي ۽ ان جي مٿئين حصي ۾ ڪنهن مٽيءَ واري ڪمري ۾ پناه وٺي، جتي جنگ جا ويڙهاڪ ملندا هئا ۽ جتي پراڻا جنگي جھنڊا ۽ اسٽيج جو سامان رکيل هو. پر ”اوڀر ڏانهن وڃو!“ جون رڙيون ڪندڙ اڀرندڙ ميڙ کيس پنهنجي سان گڏ وهائي وئي ۽ اسان مان باقي به ان سان گڏ هئاسين. جڏهن ڏاڏو پارسنز ايونيو تي مڪمل هوش ۾ آيو، ته هو پوئتي هٽندڙ ميڙ ڏانهن هڪ انتقامي پيغمبر وانگر موٽيو ۽ ماڻهن کي تاڪيد ڪئي ته صفن ۾ بيھن ۽ باغي ڪتن کي روڪين، پر آخرڪار هو به اهو سمجھي ويو ته بند ٽٽي پيو آهي ۽، پنهنجي طاقتور آواز ۾ ”اوڀر ڏانهن وڃو!“ رڙ ڪندي، هن هڪ هٿ ۾ هڪ ننڍڙو ٻار ۽ ٻئي هٿ ۾ چاليهن ٻن سالن جو هڪ نازڪ ڪلارڪ جهليو ۽ اسان آهستي آهستي اڳتي وارن کي وٺڻ لڳاسين.",
+            "ur": "لوگوں کی کالی ندیاں مشرق کی طرف ان تمام گلیوں سے بہہ رہی تھیں جو اس طرف جاتی تھیں؛ یہ ندیاں، جن کے سرچشمے خشک سامان کی دکانیں، دفتروں کی عمارتیں، سازوں کی دکانیں اور سینما گھر تھے، گھر والی عورتوں، بچوں، معذوروں، نوکروں، کتوں اور بلیوں کی چھوٹی ندیوں سے بھر رہی تھیں، جو ان گھروں سے نکل رہی تھیں جن کے پاس سے بڑی ندیاں بہہ رہی تھیں، چیخ رہی تھیں۔ لوگ آگ جلتی، کھانا پکتا اور دروازے کھلے چھوڑ کر باہر دوڑ گئے۔ مجھے یاد ہے، تاہم، کہ میری ماں نے تمام آگیں بجھا دیں اور وہ اپنے ساتھ ایک درجن انڈے اور روٹی کے دو ٹکڑے لے گئی۔ اس کا منصوبہ تھا کہ میموریل ہال، جو صرف دو بلاک کے فاصلے پر تھا، جائے اور اس کی اوپری منزل میں کسی دھول والے کمرے میں پناہ لے، جہاں جنگ کے سپاہی ملتے تھے اور جہاں پرانے جنگی جھنڈے اور اسٹیج کا سامان رکھا تھا۔ لیکن ”مشرق کی طرف جاؤ!“ کی چیخیں لگاتا ہوا ابھرتا ہوا ہجوم اسے اپنے ساتھ بہا لے گیا اور ہم میں سے باقی بھی اس کے ساتھ تھے۔ جب دادا پارنس ایونیو پر پوری طرح ہوش میں آئے، تو وہ پیچھے ہٹتے ہوئے ہجوم کی طرف ایک انتقامی پیغمبر کی طرح مڑے اور آدمیوں کو تاکید کی کہ صفوں میں کھڑے ہوں اور باغی کتوں کو روکیں، لیکن آخرکار وہ بھی سمجھ گئے کہ ڈیم ٹوٹ گیا ہے اور، اپنی طاقتور آواز میں ”مشرق کی طرف جاؤ!“ چلاتے ہوئے، انہوں نے ایک بازو میں ایک چھوٹا بچہ اور دوسرے میں بیالیس سال کا ایک نازک کلرک اٹھا لیا اور ہم آہستہ آہستہ آگے والوں کو پکڑنے لگے۔"
+          },
+          {
+            "en": "A scattering of firemen, policemen, and army officers in dress uniforms—there had been a review at Fort Hayes, in the northern part of town—added colour to the surging billows of people. \"Go east!\" cried a little child in a piping voice, as she ran past a porch on which drowsed a lieutenant-colonel of infantry. Used to quick decisions, trained to immediate obedience, the office bounded off the porch and, running at full tilt, soon passed the child, bawling \"Go east!\" The two of them emptied rapidly the houses of the little street they were on. \"What is it? What is it?\" demanded a fat, waddling man who intercepted the colonel. The officer dropped behind and asked the little child what it was. \"The dam has broke!\" gasped the girl. \"The dam has broke!\" roared the colonel. \"Go east! Go east! Go east!\" He was soon leading, with the exhausted child in his arms, a fleeing company of three hundred persons who had gathered around him from living rooms, shops, garages, backyards, and basements.",
+            "sd": "فائر مينن، پوليس وارن ۽ فوجي آفيسرن جو هڪ ٽڙيل پکڙيل ٽولو، جيڪي ورديءَ ۾ هئا — فورٽ هيز ۾، شهر جي اترئين حصي ۾، هڪ پريڊ ٿي هئي — ماڻهن جي اڀرندڙ لهرن ۾ رنگ ڀريو. ”اوڀر ڏانهن وڃو!“ هڪ ننڍڙي ٻار تيز آواز ۾ رڙ ڪئي، جڏهن هوءَ هڪ اهڙي ورانڊي جي ڀرسان ڊوڙي وئي جنهن تي پياده فوج جو هڪ ليفٽيننٽ ڪرنل ننڊ ۾ هو. تڪڙا فيصلا ڪرڻ جو عادي ۽ فوري فرمانبرداريءَ جي تربيت يافته، اهو آفيسر ورانڊي تان ٽپو ڏئي لٿو ۽، پوري رفتار سان ڊوڙندي، جلد ئي ٻار کان اڳتي نڪري ويو، رڙ ڪندي ”اوڀر ڏانهن وڃو!“ انهن ٻنهي جلدي سان ان ننڍڙي گهٽيءَ جا گھر خالي ڪرائي ڇڏيا جنهن تي هو هئا. ”اهو ڇا آهي؟ اهو ڇا آهي؟“ هڪ ٿلهي، لڏندڙ ماڻهوءَ پڇيو جنهن ڪرنل کي روڪيو. آفيسر پوئتي رھجي ويو ۽ ننڍڙي ٻار کان پڇيو ته اهو ڇا هو. ”بند ٽٽي پيو آهي!“ ڇوڪريءَ هانڀيندي چيو. ”بند ٽٽي پيو آهي!“ ڪرنل گرجيو. ”اوڀر ڏانهن وڃو! اوڀر ڏانهن وڃو! اوڀر ڏانهن وڃو!“ هو جلد ئي ٽن سؤ ماڻهن جي هڪ ڀڄندڙ ٽوليءَ جي اڳواڻي ڪري رھيو هو، جنهن جي چوڌاري رهائشي ڪمرن، دڪانن، گيراجن، پٺين صحنن ۽ ته خانن مان ماڻهو گڏ ٿيا هئا.",
+            "ur": "فائر مینوں، پولیس والوں اور فوجی افسروں کا ایک بکھرا ہوا گروہ، جو وردی میں تھے — فورٹ ہیز میں، شہر کے شمالی حصے میں، ایک پریڈ ہوئی تھی — لوگوں کی ابھرتی ہوئی لہروں میں رنگ بھر دیا۔ ”مشرق کی طرف جاؤ!“ ایک چھوٹے بچے نے تیز آواز میں چیخ کر کہا، جب وہ ایک ایسے برآمدے کے پاس سے دوڑ گئی جس پر پیادہ فوج کا ایک لیفٹیننٹ کرنل سو رہا تھا۔ تیز فیصلے کرنے کا عادی اور فوری فرمانبرداری کی تربیت یافتہ، وہ افسر برآمدے سے کود کر اترا اور، پوری رفتار سے دوڑتے ہوئے، جلد ہی بچے سے آگے نکل گیا، چلاتے ہوئے ”مشرق کی طرف جاؤ!“ ان دونوں نے جلدی سے اس چھوٹی گلی کے گھر خالی کرا دیے جس پر وہ تھے۔ ”یہ کیا ہے؟ یہ کیا ہے؟“ ایک موٹے، لڑکھڑاتے ہوئے آدمی نے پوچھا جس نے کرنل کو روکا۔ افسر پیچھے رہ گیا اور چھوٹے بچے سے پوچھا کہ یہ کیا تھا۔ ”ڈیم ٹوٹ گیا ہے!“ لڑکی نے ہانپتے ہوئے کہا۔ ”ڈیم ٹوٹ گیا ہے!“ کرنل گرجا۔ ”مشرق کی طرف جاؤ! مشرق کی طرف جاؤ! مشرق کی طرف جاؤ!“ وہ جلد ہی تین سو لوگوں کی ایک بھاگتی ہوئی ٹولی کی قیادت کر رہا تھا، جس کے اردگرد رہائشی کمروں، دکانوں، گیراجوں، پچھلے صحنوں اور تہہ خانوں سے لوگ جمع ہوئے تھے۔"
+          },
+          {
+            "en": "Nobody has ever been able to compute with any exactness how many people took part in the great rout of 1913, for the panic, which extended from the Winslow Bottling Works in the south end to Clintonville, six miles north, ended as abruptly as it began and the bobtail and ragtag and velvet gowned groups of refugees melted away and slunk home, leaving the streets peaceful and deserted. The shouting, weeping, tangled evacuation of the city lasted not more than two hours in all. Some few people got as far east as Reynoldsburg, twelve miles away; fifty or more reached the Country Club, eight miles away; most of the others gave up, exhausted, or climbed trees in Franklin Park, four miles out. Order was restored and fear dispelled finally by means of militiamen riding about in motor lorries bawling through megaphones: \"The dam has not broken!\" At first this tended only to add to the confusion and increase the panic, for many stampeder thought the soldiers were bellowing \"The dam has now broken!,\" thus setting an official seal of authentication on the calamity.",
+            "sd": "ڪنهن به ماڻهوءَ ڪڏهن به پوري درستگيءَ سان حساب نه لڳائي سگھيو ته 1913ع جي وڏي ڀڄ ڊوڙ ۾ ڪيترا ماڻهو شامل هئا، ڇاڪاڻ ته اهو گهٻراهٽ، جيڪا ڏکڻ واري ڇيڙي ۾ ونسلو باٽلنگ ورڪس کان اتر ۾ ڇهن ميلن جي مفاصلي تي ڪلنٽن ول تائين ڦھلجي وئي هئي، اوچتو ختم ٿي وئي جيئن شروع ٿي هئي، ۽ پناهگيرن جا ننڍا وڏا ۽ مخمل جي لباس وارا ٽولا ڳري ويا ۽ گھرن ڏانهن موٽي ويا، گهٽيون پرسڪون ۽ خالي ڇڏي. شهر جي رڙين، روئڻ ۽ الجهيل خالي ڪرائڻ ۾ ڪل ٻن ڪلاڪن کان وڌيڪ وقت نه لڳو. ڪجهه ماڻهو اوڀر ۾ ٻارهن ميل پري رينالڊس برگ تائين پهچي ويا؛ پنجاه يا ان کان وڌيڪ ڪنٽري ڪلب، اٺ ميل پري، پهتا؛ ٻين مان گھڻا ٿڪجي هارايو، يا فرينڪلن پارڪ، چار ميل پري، ۾ وڻن تي چڙهي ويا. نظم بحال ٿيو ۽ خوف آخرڪار فوجي جوانن ذريعي دور ٿيو جيڪي موٽر لارين ۾ مئگافونن ذريعي رڙيون ڪندي گھمندا هئا: ”بند نه ٽٽو آهي!“ پهرين ته هن سان رڳو مونجھارو وڌيو ۽ گهٻراهٽ وڌي وئي، ڇاڪاڻ ته ڪيترن ئي ڀڄندڙ ماڻهن سمجھيو ته فوجي رڙيون ڪري رھيا آهن ته ”بند هاڻي ٽٽي پيو آهي!“ اهڙيءَ طرح آفت تي سرڪاري مهر لڳائي ڇڏي.",
+            "ur": "کسی بھی شخص نے کبھی پوری درستگی سے حساب نہیں لگایا کہ 1913ء کی بڑی بھگدڑ میں کتنے لوگ شامل تھے، کیونکہ یہ گھبراہٹ، جو جنوب کے کنارے میں ونسلو باٹلنگ ورکس سے شمال میں چھ میل کے فاصلے پر کلنٹن ول تک پھیل گئی تھی، اچانک ختم ہو گئی جیسے شروع ہوئی تھی، اور پناہ گزینوں کے چھوٹے بڑے اور مخمل کے لباس والے گروہ گھل گئے اور گھروں کو واپس چلے گئے، گلیاں پرسکون اور خالی چھوڑ کر۔ شہر کی چیخوں، رونے اور الجھی ہوئی خالی کرانے میں کل دو گھنٹے سے زیادہ وقت نہیں لگا۔ کچھ لوگ مشرق میں بارہ میل دور رینالڈز برگ تک پہنچ گئے؛ پچاس یا اس سے زیادہ کنٹری کلب، آٹھ میل دور، پہنچے؛ دوسروں میں سے اکثر تھک کر ہار گئے، یا فرینکلن پارک، چار میل دور، میں درختوں پر چڑھ گئے۔ نظم بحال ہوا اور خوف آخرکار فوجی جوانوں کے ذریعے دور ہوا جو موٹر لاریوں میں میگافونوں کے ذریعے چلاتے ہوئے گھوم رہے تھے: ”ڈیم نہیں ٹوٹا ہے!“ پہلے تو اس سے صرف الجھن بڑھی اور گھبراہٹ بڑھ گئی، کیونکہ بہت سے بھاگنے والے لوگوں نے سمجھا کہ فوجی چلا رہے ہیں کہ ”ڈیم اب ٹوٹ گیا ہے!“ اس طرح آفت پر سرکاری مہر لگا دی۔"
+          },
+          {
+            "en": "All the time, the sun shone quietly and there was nowhere any sign of oncoming waters. A visitor in an airplane, looking down on the straggling, agitated masses of people below, would have been hard put to it to divine a reason for the phenomenon. It must have inspired, in such an observer, a peculiar kind of terror, like the sight of the Marie Celeste, abandoned at sea, its galley fires peacefully burning, its tranquil decks bright in the sunlight.",
+            "sd": "سڄي وقت، سج خاموشيءَ سان چمڪندو رھيو ۽ ڪٿي به ايندڙ پاڻيءَ جو ڪو نشان نه هو. هوائي جهاز ۾ هڪ مهمان، هيٺان پکڙيل، بيچين ماڻهن جي ميڙ ڏانهن نهاريندي، ان واقعي جو ڪو سبب سمجھڻ ۾ ڏاڍو مشڪل محسوس ڪري ها. ان منظر کيس ضرور هڪ عجيب قسم جو خوف ڏنو هوندو، جيئن ميري سليسٽ جهاز جو منظر، جيڪو سمنڊ ۾ ڇڏيل هو، ان جي باورچي خاني جون باهيون پرسڪون ٻري رھيون هيون، ان جا پرسڪون تختا سج جي روشنيءَ ۾ چمڪي رھيا هئا.",
+            "ur": "سارے وقت، سورج خاموشی سے چمکتا رہا اور کہیں بھی آنے والے پانی کا کوئی نشان نہیں تھا۔ ہوائی جہاز میں ایک مہمان، نیچے پھیلی ہوئی، بے چین لوگوں کی بھیڑ کی طرف دیکھتے ہوئے، اس واقعے کی کوئی وجہ سمجھنے میں بہت مشکل محسوس کرتا۔ اس منظر نے اسے ضرور ایک عجیب قسم کا خوف دیا ہوگا، جیسے میری سیلیسٹ جہاز کا منظر، جو سمندر میں چھوڑا گیا تھا، اس کے باورچی خانے کی آگیں پرسکون جل رہی تھیں، اس کے پرسکون تختے سورج کی روشنی میں چمک رہے تھے۔"
+          },
+          {
+            "en": "An aunt of mine, Aunt Edith Taylor, was in a movie theatre on High Street when, over and above the sound of the piano in the pit (a W.S. Hart picture was being shown), there rose the steadily increasing tromp of running feet. Persistent shouts rose above the tromping. An elderly man, sitting near my aunt, mumbled something, got out of his seat, and went up the aisle at the dogtrot. This started everybody. In an instant the audience was jamming the aisles. \"Fire!\" shouted a woman who always expected to be burned up in a theatre; but now the shouts outside were louder and coherent \"The dam has broke!\" cried somebody. \"Go east!\" screamed a small woman in front of my aunt. And east they went, pushing and shoving and clawing, knocking women and children down, emerging finally into the street, torn and sprawling. Inside the theatre, Bill Hart was calmly calling some desperado's bluff and the brave girl at the piano played \"Row! Row! Row!\" loudly and then \"In My Harem.\" Outside, men were streaming across the Statehouse yard, others were climbing trees, a woman managed to get up onto the \"These Are My Jewels\" statue, whose bronze figures of Sherman, Stanton, Grant, and Sheridan watched with cold unconcern the going to pieces of the capital city.",
+            "sd": "منهنجي هڪ چاچي، چاچي ايڊٿ ٽيلر، هاءِ اسٽريٽ تي هڪ سينيما گھر ۾ هئي، جڏهن پيانو جي آواز کان مٿي، جيڪو کڏ ۾ وڄي رھيو هو (ڊبليو ايس هارٽ جي فلم ڏيکاري پئي وئي)، ڊوڙندڙ پيرن جي وڌندڙ دٻڪي جو آواز اٿيو. زوردار رڙيون دٻڪي کان مٿي اٿڻ لڳيون. هڪ پوڙهو ماڻهو، جيڪو منهنجي چاچي جي ڀرسان ويٺو هو، ڪجهه ٻڙٻڙايو، پنهنجي سيٽ تان اٿيو، ۽ گهٽيءَ مان ڊوڙندو مٿي ويو. هن سان سڀني کي شروعات ٿي. هڪ پل ۾ سامعين گهٽيون ڀري رھيا هئا. ”باه!“ هڪ عورت رڙ ڪئي جيڪا هميشه سينيما گھر ۾ سڙي وڃڻ جي اميد رکندي هئي؛ پر هاڻي ٻاهر جون رڙيون وڌيڪ زوردار ۽ صاف هيون: ”بند ٽٽي پيو آهي!“ ڪنهن رڙ ڪئي. ”اوڀر ڏانهن وڃو!“ منهنجي چاچي جي سامهون هڪ ننڍڙي عورت رڙ ڪئي. ۽ اهي اوڀر ڏانهن ويا، ڌڪا ڏيندا ۽ ڇڪيندا ۽ ڇنڊيندا، عورتن ۽ ٻارن کي ڪيرائيندي، آخرڪار گهٽيءَ ۾ ڦاٿل ۽ ڦھليل نڪتا. سينيما گھر جي اندر، بل هارٽ پرسڪون هڪ بدمعاش جي ڌمڪيءَ کي رد ڪري رھيو هو ۽ پيانو واري بهادر ڇوڪري زور سان ”رو! رو! رو!“ وڄائي رھي هئي ۽ پوءِ ”ان ماءِ هيرم.“ ٻاهر، ماڻهو اسٽيٽ هائوس جي صحن مان ڊوڙي رھيا هئا، ٻيا وڻن تي چڙهي رھيا هئا، هڪ عورت ”ديز آر ماءِ جيولز“ واري مجسمي تي چڙهي وئي، جنهن جون شرمن، اسٽينٽن، گرانٽ ۽ شيريڊن جون پتل جون شڪليون سرد بي پرواهيءَ سان راڄڌانيءَ جي ٽٽڻ کي ڏسي رھيون هيون.",
+            "ur": "میری ایک چچی، چچی ایڈتھ ٹیلر، ہائی اسٹریٹ پر ایک سینما گھر میں تھی، جب پیانو کی آواز کے اوپر، جو گڑھے میں بج رہا تھا (ڈبلیو ایس ہارٹ کی فلم دکھائی جا رہی تھی)، دوڑتے ہوئے پیروں کی بڑھتی ہوئی دھمک کی آواز اٹھی۔ زوردار چیخیں دھمک کے اوپر اٹھنے لگیں۔ ایک بوڑھا آدمی، جو میری چچی کے پاس بیٹھا تھا، کچھ بڑبڑایا، اپنی سیٹ سے اٹھا، اور گلی سے دوڑتا ہوا اوپر گیا۔ اس سے سب کو شروعات ہوئی۔ ایک پل میں سامعین گلیاں بھر رہے تھے۔ ”آگ!“ ایک عورت نے چیخ کر کہا جو ہمیشہ سینما گھر میں جل جانے کی امید رکھتی تھی؛ لیکن اب باہر کی چیخیں زیادہ زوردار اور صاف تھیں: ”ڈیم ٹوٹ گیا ہے!“ کسی نے چیخ کر کہا۔ ”مشرق کی طرف جاؤ!“ میری چچی کے سامنے ایک چھوٹی عورت نے چیخ کر کہا۔ اور وہ مشرق کی طرف گئے، دھکے دیتے اور کھینچتے اور نوچتے، عورتوں اور بچوں کو گراتے ہوئے، آخرکار گلی میں پھنسے ہوئے اور بکھرے ہوئے نکلے۔ سینما گھر کے اندر، بل ہارٹ پرسکون ایک بدمعاش کی دھمکی کو رد کر رہا تھا اور پیانو والی بہادر لڑکی زور سے ”رو! رو! رو!“ بجا رہی تھی اور پھر ”ان مائی ہیرم۔“ باہر، لوگ اسٹیٹ ہاؤس کے صحن سے دوڑ رہے تھے، دوسرے درختوں پر چڑھ رہے تھے، ایک عورت ”دیز آر مائی جیولز“ والے مجسمے پر چڑھ گئی، جس کی شرمن، اسٹینٹن، گرانٹ اور شیریڈن کی کانسی کی شکلیں سرد بے پروائی سے دارالحکومت کے ٹوٹنے کو دیکھ رہی تھیں۔"
+          },
+          {
+            "en": "\"I ran south to State Street, east on State to Third, south on Third to Town, and out east on Town,\" my Aunt Edith has written me. \"A tall spare woman with grim eyes and a determined chin ran past me down the middle of the street. I was still uncertain as to what was the matter, in spite of all the shouting. I drew up alongside the woman with some effort, for although she was in her late fifties, she had a beautiful easy running form and seemed to be in excellent condition.\" 'What is it?' I puffed. She gave me a quick glance and then looked ahead again, stepping up her pace a trifle. 'Don't ask me, ask God!' she said.",
+            "sd": "”مان ڏکڻ ڏانهن اسٽيٽ اسٽريٽ ڏانهن ڊوڙيس، اسٽيٽ تي اوڀر ڏانهن ٽئين گهٽيءَ تائين، ٽئين گهٽيءَ تي ڏکڻ ڏانهن ٽائون تائين، ۽ ٽائون تي ٻاهر اوڀر ڏانهن،“ منهنجي چاچي ايڊٿ مون کي لکيو آهي. ”سخت اکين ۽ پڪي ٺوڏيءَ واري هڪ ڊگهي پتلي عورت گهٽيءَ جي وچ مان منهنجي ڀرسان ڊوڙي وئي. سڀني رڙين جي باوجود به مان اڃا تائين پڪ نه هيس ته معاملو ڇا هو. مان ڪجهه مشڪل سان ان عورت جي ڀرسان پهتس، ڇاڪاڻ ته جيتوڻيڪ هوءَ پنهنجي پنجاه واري ڏهاڪي جي آخر ۾ هئي، هن جو ڊوڙڻ جو انداز سهڻو ۽ آرامده هو ۽ هوءَ بهترين حالت ۾ لڳي رھي هئي.“ ”اهو ڇا آهي؟“ مان هانڀندي پڇيو. هن مون ڏانهن جلدي نظر ڪئي ۽ پوءِ وري اڳتي نهاريو، پنهنجي رفتار ٿوري وڌائيندي. ”مون کان نه پڇ، خدا کان پڇ!“ هن چيو.",
+            "ur": "”میں جنوب کی طرف اسٹیٹ اسٹریٹ کی طرف دوڑی، اسٹیٹ پر مشرق کی طرف تیسری گلی تک، تیسری گلی پر جنوب کی طرف ٹاؤن تک، اور ٹاؤن پر باہر مشرق کی طرف،“ میری چچی ایڈتھ نے مجھے لکھا ہے۔ ”سخت آنکھوں اور پکی ٹھوڑی والی ایک لمبی دبلی عورت گلی کے بیچ سے میرے پاس سے دوڑ گئی۔ سب چیخوں کے باوجود بھی میں ابھی تک یقین نہیں کر رہی تھی کہ معاملہ کیا تھا۔ میں کچھ مشکل سے اس عورت کے پاس پہنچی، کیونکہ اگرچہ وہ اپنی پچاس کی دہائی کے آخر میں تھی، اس کے دوڑنے کا انداز خوبصورت اور آرام دہ تھا اور وہ بہترین حالت میں لگ رہی تھی۔“ ”یہ کیا ہے؟“ میں نے ہانپتے ہوئے پوچھا۔ اس نے میری طرف جلدی نظر کی اور پھر دوبارہ آگے دیکھا، اپنی رفتار تھوڑی بڑھاتے ہوئے۔ ”مجھ سے نہ پوچھو، خدا سے پوچھو!“ اس نے کہا۔"
+          },
+          {
+            "en": "\"When I reached Grant Avenue, I was so spent that Dr. H.R. Mallory—you remember Dr. Mallory, the man with white beard who looks like Rober Browning?—well, Dr. Mallory, whom I had drawn away from at the corner of Fifth and Town, passed me. 'It's got us,' he shouted, and I felt sure that whatever it was did have us, for you know what conviction Dr. Mallory's statements always carried. I didn't know at the time what he meant, but I found out later. There was a boy behind him on roller-skates, and Dr. Mallory mistook the swishing of skates for the sound of rushing water. He eventually reached the Columbus School for Girls, at the corner of Parsons Avenue and Town Street, where he collapsed, expecting the cold frothing waters of the Scioto to sweep him into oblivion. The boy on the skates swirled past him and Dr. Mallory realized for the first time what he had been running from. Looking back up the street, he could see no sign of water, but nevertheless, after resting a few minutes, he jogged on east again. He caught up with me at Ohio Avenue, where we rested together. I sould say that about seven hundred people passed us. A funny thing was that all of them were on foot. Nobody seemed to have had the courage to stop and start his car; but as I remember it, all cars had to be cranked in those days, which is probably the reason.'",
+            "sd": "”جڏهن مان گرانٽ ايونيو تي پهتس، ته مان ايتري ٿڪجي وئي هيس ته ڊاڪٽر ايڇ آر ميلوري — توهان کي ڊاڪٽر ميلوري ياد آهي، اڇي ڏاڙهي وارو ماڻهو جيڪو روبر برائوننگ وانگر لڳي ٿو؟ — خير، ڊاڪٽر ميلوري، جنهن کان مان پنجين ۽ ٽائون جي ڪنڊ تي ڌار ٿي وئي هيس، منهنجي ڀرسان گذري ويو. ”هن اسان کي وٺي ڇڏيو آهي،“ هن رڙ ڪري چيو، ۽ مون کي پڪ ٿي وئي ته جيڪي به هو، ان اسان کي وٺي ڇڏيو هو، ڇاڪاڻ ته توهان کي خبر آهي ته ڊاڪٽر ميلوريءَ جي ڳالهين ۾ ڪيترو يقين هوندو هو. مون کي ان وقت خبر نه هئي ته هن جو مطلب ڇا هو، پر مون کي پوءِ خبر پئي. هن جي پٺيان رولر اسڪيٽس تي هڪ ڇوڪرو هو، ۽ ڊاڪٽر ميلوري اسڪيٽس جي سرسراهٽ کي وهندڙ پاڻيءَ جو آواز سمجھي ويٺو. هو آخرڪار ڪولمبس اسڪول فار گرلز تي پهتو، پارسنز ايونيو ۽ ٽائون اسٽريٽ جي ڪنڊ تي، جتي هو ڪري پيو، اهو سمجھندي ته سائوٽو نديءَ جو ٿڌو ڦڦڙن وارو پاڻي کيس وساري ڇڏيندو. اسڪيٽس وارو ڇوڪرو هن جي ڀرسان گھمي ويو ۽ ڊاڪٽر ميلوري پهرين ڀيري سمجھيو ته هو ڪنهن کان ڀڄي رھيو هو. گهٽيءَ ڏانهن پوئتي نهاريندي، هو پاڻيءَ جو ڪو نشان ڏسي نه سگھيو، پر پوءِ به، ڪجهه منٽ آرام ڪرڻ کان پوءِ، هو وري اوڀر ڏانهن ڊوڙڻ لڳو. هو اوهايو ايونيو تي مون سان ملي ويو، جتي اسان گڏجي آرام ڪيو. مان چونديس ته لڳ ڀڳ ست سؤ ماڻهو اسان جي ڀرسان گذريا. هڪ مزاحيه ڳاله اها هئي ته انهن مان سڀئي پيادل هئا. ڪنهن ۾ به همت نه هئي ته روڪجي ۽ پنهنجي گاڏي شروع ڪري؛ پر جيئن مون کي ياد آهي، انهن ڏينهن ۾ سڀني گاڏين کي هينڊل سان شروع ڪرڻو پوندو هو، جيڪو شايد ان جو سبب آهي.“",
+            "ur": "”جب میں گرانٹ ایونیو پر پہنچی، تو میں اتنی تھک گئی تھی کہ ڈاکٹر ایچ آر میلوری — تمہیں ڈاکٹر میلوری یاد ہے، سفید داڑھی والا آدمی جو رابرٹ براؤننگ جیسا لگتا ہے؟ — خیر، ڈاکٹر میلوری، جس سے میں ففتھ اور ٹاؤن کے کونے پر الگ ہو گئی تھی، میرے پاس سے گزر گیا۔ ”اس نے ہمیں پکڑ لیا ہے،“ اس نے چیخ کر کہا، اور مجھے یقین ہو گیا کہ جو بھی تھا، اس نے ہمیں پکڑ لیا تھا، کیونکہ تم جانتے ہو کہ ڈاکٹر میلوری کی باتوں میں کتنا یقین ہوتا تھا۔ مجھے اس وقت نہیں معلوم تھا کہ اس کا مطلب کیا تھا، لیکن مجھے بعد میں معلوم ہوا۔ اس کے پیچھے رولر اسکیٹس پر ایک لڑکا تھا، اور ڈاکٹر میلوری نے اسکیٹس کی سرسراہٹ کو بہتے ہوئے پانی کی آواز سمجھ لیا۔ وہ آخرکار کولمبس اسکول فار گرلز پہنچا، پارنس ایونیو اور ٹاؤن اسٹریٹ کے کونے پر، جہاں وہ گر گیا، یہ سمجھتے ہوئے کہ سائوٹو ندی کا ٹھنڈا جھاگ والا پانی اسے بھلا دے گا۔ اسکیٹس والا لڑکا اس کے پاس سے گھوم کر گزر گیا اور ڈاکٹر میلوری نے پہلی بار سمجھا کہ وہ کس سے بھاگ رہا تھا۔ گلی کی طرف پیچھے دیکھتے ہوئے، وہ پانی کا کوئی نشان نہیں دیکھ سکا، لیکن پھر بھی، چند منٹ آرام کرنے کے بعد، وہ دوبارہ مشرق کی طرف دوڑنے لگا۔ وہ اوہائیو ایونیو پر مجھ سے ملا، جہاں ہم نے اکٹھے آرام کیا۔ میں کہوں گی کہ تقریباً سات سو لوگ ہمارے پاس سے گزرے۔ ایک مضحکہ خیز بات یہ تھی کہ ان میں سے سب پیدل تھے۔ کسی میں بھی ہمت نہیں تھی کہ رکے اور اپنی گاڑی شروع کرے؛ لیکن جیسا کہ مجھے یاد ہے، ان دنوں میں تمام گاڑیوں کو ہینڈل سے شروع کرنا پڑتا تھا، جو شاید اس کی وجہ ہے۔“"
+          },
+          {
+            "en": "The next day, the city went about its business as if nothing had happened, but there was no joking. It was two years of more before you dared treat the breaking of the dam lightly. And even now, twenty years after, there are a few persons, like Dr. Mallory, who will shut up like a clam if you mention the Afternoon of the Great Run.",
+            "sd": "ٻئي ڏينهن، شهر پنهنجي ڪم ڪار ۾ اهڙي طرح لڳي ويو ڄڻ ڪجهه به نه ٿيو هجي، پر ڪو مذاق نه هو. ٻن سالن کان وڌيڪ وقت گذري ويو، ان کان اڳ جو توهان بند ٽٽڻ کي هلڪي ڳاله سمجھي سگھو. ۽ اڄ به، ويهن سالن کان پوءِ، ڪجهه ماڻهو آهن، جهڙوڪ ڊاڪٽر ميلوري، جيڪي چپ ٿي ويندا آهن، جيڪڏهن توهان انهن کي وڏي ڊوڙ جي منجھند جو ذڪر ڪريو.",
+            "ur": "اگلے دن، شہر اپنے کاروبار میں ایسے لگ گیا جیسے کچھ بھی نہ ہوا ہو، لیکن کوئی مذاق نہیں تھا۔ دو سال سے زیادہ وقت گزر گیا، اس سے پہلے کہ تم ڈیم ٹوٹنے کو ہلکی بات سمجھ سکو۔ اور آج بھی، بیس سال بعد، کچھ لوگ ہیں، جیسے ڈاکٹر میلوری، جو چپ ہو جاتے ہیں، اگر تم ان سے بڑی دوڑ کی دوپہر کا ذکر کرو۔"
+          }
+        ],
+        "section": "6.1",
+        "unit": 6,
+        "unitTitle": "Civic Responsibilities"
+      },
+      {
+        "unit": 7,
+        "unitTitle": "Effect of Climate Change on the Society",
+        "lesson": "Climate Change: its causes and effects",
+        "section": "7.1",
+        "bookPages": "183-190",
+        "paragraphs": [
+          {
+            "en": "Climate Change: Climate change refers to long-term alterations in the average weather patterns and conditions of the Earth, including temperature, precipitation, wind, and other climate variables, primarily caused by natural processes and human activities, such as the increased emission of greenhouse gases from fossil fuel combustion, deforestation, and industrial processes. Climate change can affect our health, ability to grow food, housing, safety and work. Some of us are already more vulnerable to climate impacts, such as people living in small island nations and other developing countries. Conditions like sea-level rise and saltwater intrusion have advanced to the point where whole communities have had to relocate, and protracted droughts are putting people at risk of famine. In the future, the number of people displaced by weather-related events is expected to rise.",
+            "sd": "موسمي تبديلي: موسمي تبديلي مان مراد ڌرتيءَ جي سراسري موسمي نمونن ۽ حالتن ۾ ڊگهي عرصي واري تبديلي آهي، جن ۾ گرمي پد، برسات، هوا ۽ موسم جا ٻيا عنصر شامل آهن، جيڪي گھڻو ڪري قدرتي عملن ۽ انساني سرگرمين جي ڪري ٿين ٿا، جهڙوڪ جيواشم ٻارڻ جي ساڙڻ، ٻيلن جي ڪٽائي ۽ صنعتي عملن مان گرين هائوس گئسن جي وڌندڙ اخراج جي ڪري. موسمي تبديلي اسان جي صحت، کاڌو پيدا ڪرڻ جي صلاحيت، رهائش، حفاظت ۽ ڪم کي متاثر ڪري سگھي ٿي. اسان مان ڪجهه ماڻهو موسمي اثرن کان اڳ ئي وڌيڪ متاثر ٿين ٿا، جهڙوڪ ننڍن ٻيٽن وارن ملڪن ۽ ٻين ترقي پذير ملڪن ۾ رھندڙ ماڻهو. سمنڊ جي سطح ۾ واڌ ۽ لوڻاٺي پاڻي جي اندر اچڻ جهڙيون حالتون ايتريون وڌي ويون آهن جو سڄيون برادريون لڏپلاڻ ڪرڻ تي مجبور ٿي ويون آهن، ۽ ڊگهي خشڪسالي ماڻهن کي ڏڪار جي خطري ۾ وجهي رھي آهي. مستقبل ۾ موسم سان لاڳاپيل واقعن سبب بي گھر ٿيندڙ ماڻهن جو تعداد وڌڻ جو امڪان آهي.",
+            "ur": "موسمی تبدیلی: موسمی تبدیلی سے مراد زمین کے اوسط موسمی نمونوں اور حالات میں طویل مدتی تبدیلی ہے، جن میں درجہ حرارت، بارش، ہوا اور آب و ہوا کے دیگر عوامل شامل ہیں، جو بنیادی طور پر قدرتی عملوں اور انسانی سرگرمیوں کی وجہ سے ہوتی ہے، جیسے جیواشم ایندھن کے جلنے، جنگلات کی کٹائی اور صنعتی عملوں سے گرین ہاؤس گیسوں کے بڑھتے ہوئے اخراج کی وجہ سے۔ موسمی تبدیلی ہماری صحت، خوراک اگانے کی صلاحیت، رہائش، حفاظت اور کام کو متاثر کر سکتی ہے۔ ہم میں سے کچھ لوگ موسمی اثرات سے پہلے ہی زیادہ متاثر ہیں، جیسے چھوٹے جزیرہ ممالک اور دیگر ترقی پذیر ممالک میں رہنے والے لوگ۔ سمندر کی سطح میں اضافے اور کھارے پانی کی دراندازی جیسی صورتحال اس حد تک بڑھ گئی ہے کہ پوری برادریوں کو نقل مکانی کرنی پڑی ہے، اور طویل خشک سالی لوگوں کو قحط کے خطرے میں ڈال رہی ہے۔ مستقبل میں موسم سے متعلقہ واقعات سے بے گھر ہونے والے لوگوں کی تعداد میں اضافے کی توقع ہے۔"
+          },
+          {
+            "en": "1. Burning of Fossil Fuels: Coal, oil, and natural gas release large amounts of carbon dioxide (CO₂) and other greenhouse gases when used for electricity, heat, and transportation.",
+            "sd": "1. جيواشم ٻارڻ جو ساڙڻ: ڪوئلو، تيل ۽ قدرتي گئس بجلي، گرمي ۽ آمدورفت لاءِ استعمال ٿيڻ تي وڏي مقدار ۾ ڪاربان ڊاءِ آڪسائيڊ (CO₂) ۽ ٻيون گرين هائوس گئسون خارج ڪن ٿا.",
+            "ur": "1. جیواشم ایندھن کا جلانا: کوئلہ، تیل اور قدرتی گیس بجلی، حرارت اور آمدورفت کے لیے استعمال ہونے پر بڑی مقدار میں کاربن ڈائی آکسائیڈ (CO₂) اور دیگر گرین ہاؤس گیسیں خارج کرتے ہیں۔"
+          },
+          {
+            "en": "2. Industrial Activities: Factories and industries emit various greenhouse gases, including methane (CH₄) and nitrous oxide (N₂O), contributing to global warming. Manufacturing and industry produce emissions, mostly from burning fossil fuels to produce energy for making things like cement, iron, steel, electronics, plastics, clothes, and other goods. Mining and other industrial processes also release gases, as does the construction industry. Machines used in the manufacturing process often run on coal, oil, or gas; and some materials, like plastics, are made from chemicals sourced from fossil fuels. The manufacturing industry is one of the largest contributors to greenhouse gas emissions worldwide.",
+            "sd": "2. صنعتي سرگرميون: ڪارخانا ۽ صنعتون مختلف گرين هائوس گئسون خارج ڪن ٿا، جن ۾ ميٿين (CH₄) ۽ نائٽرس آڪسائيڊ (N₂O) شامل آهن، جيڪي عالمي گرمي ۾ واڌ جو سبب بڻجن ٿا. پيداواري صنعت ۽ صنعت مان اخراج گھڻو ڪري جيواشم ٻارڻ ساڙي توانائي پيدا ڪرڻ مان ٿئي ٿو، جيڪا سيمينٽ، لوهه، اسٽيل، اليڪٽرانڪس، پلاسٽڪ، ڪپڙا ۽ ٻيون شيون ٺاهڻ لاءِ استعمال ٿئي ٿي. کاڻين جي کوٽائي ۽ ٻيا صنعتي عمل پڻ گئسون خارج ڪن ٿا، جيئن تعميراتي صنعت پڻ ڪري ٿي. پيداوار جي عمل ۾ استعمال ٿيندڙ مشينون گھڻو ڪري ڪوئلي، تيل يا گئس تي هلن ٿيون؛ ۽ ڪجهه مواد، جهڙوڪ پلاسٽڪ، جيواشم ٻارڻ مان حاصل ڪيل ڪيميائي مادن مان ٺهيل آهن. پيداواري صنعت دنيا ۾ گرين هائوس گئسن جي اخراج ۾ سڀ کان وڏو حصو وجهندڙ شعبن مان هڪ آهي.",
+            "ur": "2. صنعتی سرگرمیاں: کارخانے اور صنعتیں مختلف گرین ہاؤس گیسیں خارج کرتی ہیں، جن میں میتھین (CH₄) اور نائٹرس آکسائیڈ (N₂O) شامل ہیں، جو عالمی حدت میں اضافے کا باعث بنتی ہیں۔ مینوفیکچرنگ اور صنعت سے اخراج زیادہ تر جیواشم ایندھن جلا کر توانائی پیدا کرنے سے ہوتا ہے، جو سیمنٹ، لوہا، اسٹیل، الیکٹرانکس، پلاسٹک، کپڑے اور دیگر اشیا بنانے کے لیے استعمال ہوتی ہے۔ کان کنی اور دیگر صنعتی عمل بھی گیسیں خارج کرتے ہیں، جیسا کہ تعمیراتی صنعت بھی کرتی ہے۔ پیداواری عمل میں استعمال ہونے والی مشینیں اکثر کوئلے، تیل یا گیس پر چلتی ہیں؛ اور کچھ مواد، جیسے پلاسٹک، جیواشم ایندھن سے حاصل کردہ کیمیکلز سے بنے ہوتے ہیں۔ مینوفیکچرنگ کی صنعت دنیا بھر میں گرین ہاؤس گیسوں کے اخراج میں سب سے بڑا حصہ ڈالنے والوں میں سے ایک ہے۔"
+          },
+          {
+            "en": "3. Deforestation: Cutting down forests reduces the number of trees that absorb CO₂, increasing the concentration of greenhouse gases in the atmosphere. Cutting down forests to create farms or pastures, or for other reasons, causes emissions, since trees, when they are cut, release the carbon they have been storing. Each year approximately 12 million hectares of forest are destroyed. Since forests absorb carbon dioxide, destroying them also limits nature's ability to keep emissions out of the atmosphere. Deforestation, together with agriculture and other land use changes, is responsible for roughly a quarter of global greenhouse gas emissions.",
+            "sd": "3. ٻيلن جي ڪٽائي: ٻيلن جي ڪٽائي سان انهن وڻن جو تعداد گھٽجي ٿو جيڪي CO₂ جذب ڪن ٿا، جنهن سان ماحول ۾ گرين هائوس گئسن جو مقدار وڌي ٿو. فارم يا چراگاهون ٺاهڻ لاءِ يا ٻين سببن ڪري ٻيلن جي ڪٽائي سان اخراج ٿئي ٿو، ڇاڪاڻ ته وڻ جڏهن ڪٽيا وڃن ٿا ته انهن ۾ ذخيرو ٿيل ڪاربان خارج ٿئي ٿو. هر سال لڳ ڀڳ 12 ملين هيڪٽر ٻيلا تباهه ٿين ٿا. ڇاڪاڻ ته ٻيلا ڪاربان ڊاءِ آڪسائيڊ جذب ڪن ٿا، انهن کي تباهه ڪرڻ سان فطرت جي اخراج کي ماحول کان ٻاهر رکڻ جي صلاحيت به محدود ٿئي ٿي. ٻيلن جي ڪٽائي، زراعت ۽ زمين جي استعمال ۾ ٻين تبديلين سان گڏ، دنيا ۾ گرين هائوس گئسن جي اخراج جي لڳ ڀڳ چوٿين حصي جي ذميوار آهي.",
+            "ur": "3. جنگلات کی کٹائی: جنگلات کاٹنے سے ان درختوں کی تعداد کم ہو جاتی ہے جو CO₂ جذب کرتے ہیں، جس سے فضا میں گرین ہاؤس گیسوں کی مقدار بڑھ جاتی ہے۔ فارم یا چراگاہیں بنانے کے لیے یا دیگر وجوہات سے جنگلات کاٹنے سے اخراج ہوتا ہے، کیونکہ درخت جب کاٹے جاتے ہیں تو ان میں ذخیرہ شدہ کاربن خارج ہوتا ہے۔ ہر سال تقریباً 12 ملین ہیکٹر جنگل تباہ ہو جاتے ہیں۔ چونکہ جنگلات کاربن ڈائی آکسائیڈ جذب کرتے ہیں، انہیں تباہ کرنے سے فطرت کی اخراج کو فضا سے باہر رکھنے کی صلاحیت بھی محدود ہو جاتی ہے۔ جنگلات کی کٹائی، زراعت اور زمین کے استعمال میں دیگر تبدیلیوں کے ساتھ مل کر، عالمی گرین ہاؤس گیسوں کے اخراج کے تقریباً ایک چوتھائی حصے کی ذمہ دار ہے۔"
+          },
+          {
+            "en": "4. Agricultural Practices: Livestock farming produces methane, while fertilizers release nitrous oxide, both powerful greenhouse gases. Producing food causes emissions of carbon dioxide, methane, and other greenhouse gases in various ways, including through deforestation and clearing of land for agriculture and grazing, digestion by cows and sheep, the production and use of fertilizers and manure for growing crops, and the use of energy to run farm equipment or fishing boats, usually with fossil fuels. All this makes food production a major contributor to climate change. And greenhouse gas emissions also come from packaging and distributing food.",
+            "sd": "4. زرعي طريقا: مال جي پالنا سان ميٿين پيدا ٿئي ٿي، جڏهن ته ڀاڻ مان نائٽرس آڪسائيڊ خارج ٿئي ٿو، جيڪي ٻئي طاقتور گرين هائوس گئسون آهن. کاڌو پيدا ڪرڻ سان ڪاربان ڊاءِ آڪسائيڊ، ميٿين ۽ ٻين گرين هائوس گئسن جو اخراج مختلف طريقن سان ٿئي ٿو، جن ۾ زراعت ۽ چرڻ لاءِ زمين جي صفائي لاءِ ٻيلن جي ڪٽائي، ڳئون ۽ رڍن جي هاضمي، فصلن پوکڻ لاءِ ڀاڻ ۽ ڇيڻو ٺاهڻ ۽ استعمال ڪرڻ، ۽ زرعي مشينري يا مڇي مارڻ واري ٻيڙين کي هلائڻ لاءِ توانائي جو استعمال شامل آهي، جيڪو عام طور تي جيواشم ٻارڻ سان ٿئي ٿو. هي سڀ کاڌي جي پيداوار کي موسمي تبديلي ۾ وڏو حصو وجهندڙ بڻائي ٿو. ۽ گرين هائوس گئسن جو اخراج کاڌي جي پيڪنگ ۽ ورڇ مان به ٿئي ٿو.",
+            "ur": "4. زرعی طریقے: مویشی پالنے سے میتھین پیدا ہوتی ہے، جبکہ کھادوں سے نائٹرس آکسائیڈ خارج ہوتی ہے، جو دونوں طاقتور گرین ہاؤس گیسیں ہیں۔ خوراک پیدا کرنے سے کاربن ڈائی آکسائیڈ، میتھین اور دیگر گرین ہاؤس گیسوں کا اخراج مختلف طریقوں سے ہوتا ہے، جن میں زراعت اور چرنے کے لیے زمین صاف کرنے کے لیے جنگلات کی کٹائی، گائے اور بھیڑوں کا ہاضمہ، فصلیں اگانے کے لیے کھاد اور گوبر کی تیاری اور استعمال، اور زرعی مشینری یا ماہی گیری کی کشتیاں چلانے کے لیے توانائی کا استعمال شامل ہے، جو عام طور پر جیواشم ایندھن سے ہوتا ہے۔ یہ سب خوراک کی پیداوار کو موسمی تبدیلی میں بڑا حصہ ڈالنے والا بناتا ہے۔ اور گرین ہاؤس گیسوں کا اخراج خوراک کی پیکنگ اور تقسیم سے بھی ہوتا ہے۔"
+          },
+          {
+            "en": "5. Using transportation: Most cars, trucks, ships, and planes run on fossil fuels. That makes transportation a major contributor of greenhouse gases, especially carbon-dioxide emissions. Road vehicles account for the largest part, due to the combustion of petroleum-based products, like gasoline, in internal combustion engines. But emissions from ships and planes continue to grow. Transport accounts for nearly one quarter of global energy-related carbon-dioxide emissions. And trends point to a significant increase in energy use for transport over the coming years.",
+            "sd": "5. آمدورفت جو استعمال: گھڻيون ڪارون، ٽرڪون، ٻيڙيون ۽ جهاز جيواشم ٻارڻ تي هلن ٿا. ان ڪري آمدورفت گرين هائوس گئسن، خاص ڪري ڪاربان ڊاءِ آڪسائيڊ جي اخراج ۾ وڏو حصو وجهندڙ آهي. روڊ گاڏيون سڀ کان وڏو حصو رکن ٿيون، ڇاڪاڻ ته اندروني ڪمبسشن انجڻين ۾ پيٽروليم مان ٺهيل شين، جهڙوڪ گئسولين، کي ساڙيو وڃي ٿو. پر ٻيڙين ۽ جهازن مان اخراج وڌندو پيو وڃي. آمدورفت دنيا ۾ توانائي سان لاڳاپيل ڪاربان ڊاءِ آڪسائيڊ جي اخراج جي لڳ ڀڳ چوٿين حصي جي ذميوار آهي. ۽ رجحان ظاهر ڪن ٿا ته ايندڙ سالن ۾ آمدورفت لاءِ توانائي جي استعمال ۾ وڏو اضافو ٿيندو.",
+            "ur": "5. نقل و حمل کا استعمال: زیادہ تر کاریں، ٹرک، بحری جہاز اور ہوائی جہاز جیواشم ایندھن پر چلتے ہیں۔ اس سے نقل و حمل گرین ہاؤس گیسوں، خاص طور پر کاربن ڈائی آکسائیڈ کے اخراج میں بڑا حصہ ڈالنے والا بن جاتا ہے۔ سڑک کی گاڑیاں سب سے بڑا حصہ رکھتی ہیں، کیونکہ اندرونی احتراق انجنوں میں پٹرولیم سے بنی مصنوعات، جیسے پٹرول، جلایا جاتا ہے۔ لیکن بحری جہازوں اور ہوائی جہازوں سے اخراج بڑھتا جا رہا ہے۔ نقل و حمل عالمی توانائی سے متعلقہ کاربن ڈائی آکسائیڈ کے اخراج کے تقریباً ایک چوتھائی حصے کی ذمہ دار ہے۔ اور رجحانات بتاتے ہیں کہ آنے والے برسوں میں نقل و حمل کے لیے توانائی کے استعمال میں نمایاں اضافہ ہوگا۔"
+          },
+          {
+            "en": "6. Waste Management: Decomposing waste in landfills releases methane, especially when waste is not properly managed or recycled. Waste management significantly contributes to climate change due to the emission of greenhouse gases like methane (CH₄) from the anaerobic decomposition of organic waste in landfills. Methane is over 25 times more potent than carbon dioxide (CO₂) in trapping heat. Additionally, incineration of plastic and other non-biodegradable materials releases CO₂ and toxic pollutants. Inefficient recycling systems, the rise of single-use products, and the fossil fuel use in waste collection and processing further exacerbate the problem. To combat global warming, there is an urgent need for sustainable waste practices such as recycling, composting, reducing consumption, and adopting zero-waste strategies.",
+            "sd": "6. ڪچري جو انتظام: لينڊ فلز ۾ سڙندڙ ڪچري مان ميٿين خارج ٿئي ٿي، خاص ڪري جڏهن ڪچري جو صحيح انتظام نه ڪيو وڃي يا ان کي ٻيهر استعمال لائق نه بڻايو وڃي. ڪچري جو انتظام گرين هائوس گئسن جهڙوڪ ميٿين (CH₄) جي اخراج سبب موسمي تبديلي ۾ وڏو حصو وجهي ٿو، جيڪا لينڊ فلز ۾ نامياتي ڪچري جي هوا کان سواءِ سڙڻ مان پيدا ٿئي ٿي. ميٿين گرمي کي قيد ڪرڻ ۾ ڪاربان ڊاءِ آڪسائيڊ (CO₂) کان 25 ڀيرا وڌيڪ طاقتور آهي. ان کان علاوه، پلاسٽڪ ۽ ٻين غير حياتياتي طور تي نه سڙندڙ مواد کي ساڙڻ سان CO₂ ۽ زهريلا آلودا خارج ٿين ٿا. ٻيهر استعمال جو غير موثر نظام، هڪ دفعو استعمال ٿيندڙ شين جو وڌڻ، ۽ ڪچرو گڏ ڪرڻ ۽ ان تي عمل ڪرڻ ۾ جيواشم ٻارڻ جو استعمال مسئلي کي وڌيڪ خراب ڪن ٿا. عالمي گرمي سان وڙھڻ لاءِ پائيدار ڪچري جي طريقن جي سخت ضرورت آهي، جهڙوڪ ٻيهر استعمال، ڪمپوسٽ ٺاهڻ، استعمال گھٽائڻ ۽ زيرو ويسٽ حڪمت عملين کي اپنائڻ.",
+            "ur": "6. کچرے کا انتظام: لینڈ فلز میں سڑتا ہوا کچرا میتھین خارج کرتا ہے، خاص طور پر جب کچرے کا صحیح انتظام نہ کیا جائے یا اسے ری سائیکل نہ کیا جائے۔ کچرے کا انتظام گرین ہاؤس گیسوں جیسے میتھین (CH₄) کے اخراج کی وجہ سے موسمی تبدیلی میں نمایاں حصہ ڈالتا ہے، جو لینڈ فلز میں نامیاتی کچرے کے بغیر ہوا کے سڑنے سے پیدا ہوتی ہے۔ میتھین گرمی کو قید کرنے میں کاربن ڈائی آکسائیڈ (CO₂) سے 25 گنا زیادہ طاقتور ہے۔ اس کے علاوہ، پلاسٹک اور دیگر غیر حیاتیاتی طور پر نہ سڑنے والے مواد کو جلانے سے CO₂ اور زہریلے آلودہ مادے خارج ہوتے ہیں۔ ری سائیکلنگ کے غیر موثر نظام، ایک بار استعمال ہونے والی مصنوعات کا بڑھنا، اور کچرا جمع کرنے اور اس پر عمل کرنے میں جیواشم ایندھن کا استعمال مسئلے کو مزید خراب کرتے ہیں۔ عالمی حدت سے نمٹنے کے لیے پائیدار کچرے کے طریقوں کی فوری ضرورت ہے، جیسے ری سائیکلنگ، کمپوسٹ بنانا، استعمال کم کرنا اور زیرو ویسٹ حکمت عملیاں اپنانا۔"
+          },
+          {
+            "en": "7. Overconsumption and Urbanization: With the increase in urbanization, energy demand, transportation, and consumer goods production intensify greenhouse gas emissions. Moreover, globally, residential and commercial buildings consume over half of all electricity. As they continue to draw on coal, oil, and natural gas for heating and cooling, they emit significant quantities of greenhouse gas emissions. Growing energy demand for heating and cooling, with rising air-conditioner ownership, as well as increased electricity consumption for lighting, appliances, and connected devices, has contributed to a rise in energy-related carbon-dioxide emissions from buildings in recent years.",
+            "sd": "7. گھڻو استعمال ۽ شهري آبادي ۾ واڌ: شهري آبادي ۾ واڌ سان توانائي جي گھرج، آمدورفت ۽ صارف جي شين جي پيداوار ۾ واڌ ٿئي ٿي، جنهن سان گرين هائوس گئسن جو اخراج تيز ٿئي ٿو. ان کان علاوه، دنيا ۾ رهائشي ۽ تجارتي عمارتون سموري بجلي جو اڌ کان وڌيڪ استعمال ڪن ٿيون. جيئن اهي گرمي ۽ ٿڌ لاءِ ڪوئلي، تيل ۽ قدرتي گئس تي ڀاڙين ٿيون، اهي گرين هائوس گئسن جي وڏي مقدار خارج ڪن ٿيون. گرمي ۽ ٿڌ لاءِ توانائي جي وڌندڙ گھرج، ايئر ڪنڊيشنرن جي ملڪيت ۾ واڌ، ۽ روشني، آلات ۽ ڳنڍيل ڊوائيسز لاءِ بجلي جي وڌندڙ استعمال سان تازن سالن ۾ عمارتن مان توانائي سان لاڳاپيل ڪاربان ڊاءِ آڪسائيڊ جي اخراج ۾ واڌ ٿي آهي.",
+            "ur": "7. زیادہ استعمال اور شہری آبادی میں اضافہ: شہری آبادی میں اضافے کے ساتھ، توانائی کی طلب، نقل و حمل اور صارفی اشیا کی پیداوار بڑھ جاتی ہے، جس سے گرین ہاؤس گیسوں کا اخراج تیز ہو جاتا ہے۔ اس کے علاوہ، دنیا بھر میں رہائشی اور تجارتی عمارتیں تمام بجلی کا نصف سے زیادہ استعمال کرتی ہیں۔ چونکہ وہ حرارت اور ٹھنڈک کے لیے کوئلے، تیل اور قدرتی گیس پر انحصار کرتی ہیں، وہ گرین ہاؤس گیسوں کی بڑی مقدار خارج کرتی ہیں۔ حرارت اور ٹھنڈک کے لیے توانائی کی بڑھتی ہوئی طلب، ایئر کنڈیشنر کی ملکیت میں اضافے، اور روشنی، آلات اور منسلک آلات کے لیے بجلی کے بڑھتے ہوئے استعمال سے حالیہ برسوں میں عمارتوں سے توانائی سے متعلقہ کاربن ڈائی آکسائیڈ کے اخراج میں اضافہ ہوا ہے۔"
+          },
+          {
+            "en": "1. Hotter Temperature: As greenhouse gas concentrations rise, so does the global surface temperature. The last decade, 2011-2020, is the warmest on record. Since the 1980s, each decade has been warmer than the previous one. Nearly all land areas are seeing more hot days and heat waves. Higher temperatures increase heat-related illnesses and make working outdoors more difficult. Wildfires start more easily and spread more rapidly when conditions are hotter. Temperatures in the Arctic have warmed at least twice as fast as the global average.",
+            "sd": "1. وڌيڪ گرم گرمي پد: جيئن گرين هائوس گئسن جو مقدار وڌي ٿو، تيئن ڌرتيءَ جي مٿاڇري جو گرمي پد به وڌي ٿو. گذريل ڏهاڪو، 2011-2020، رڪارڊ تي سڀ کان گرم ڏهاڪو آهي. 1980ع واري ڏهاڪي کان وٺي، هر ڏهاڪو اڳئين ڏهاڪي کان گرم رھيو آهي. لڳ ڀڳ سمورا زميني علائقا وڌيڪ گرم ڏينهن ۽ گرمي جي لهرن کي ڏسي رھيا آهن. وڌيڪ گرمي پد گرمي سان لاڳاپيل بيماريون وڌائي ٿو ۽ ٻاهر ڪم ڪرڻ کي وڌيڪ ڏکيو بڻائي ٿو. جڏهن حالتون گرم هجن ٿيون ته باهه وڌيڪ آساني سان لڳي ٿي ۽ وڌيڪ تيزي سان پکڙجي ٿي. اتر قطب ۾ گرمي پد عالمي سراسري کان گھٽ ۾ گھٽ ٻيڻو تيز گرم ٿيو آهي.",
+            "ur": "1. زیادہ گرم درجہ حرارت: جیسے جیسے گرین ہاؤس گیسوں کی مقدار بڑھتی ہے، زمین کی سطح کا درجہ حرارت بھی بڑھتا ہے۔ گزشتہ دہائی، 2011-2020، ریکارڈ میں سب سے گرم دہائی ہے۔ 1980 کی دہائی سے، ہر دہائی پچھلی دہائی سے گرم رہی ہے۔ تقریباً تمام زمینی علاقوں میں زیادہ گرم دن اور گرمی کی لہریں دیکھی جا رہی ہیں۔ زیادہ درجہ حرارت گرمی سے متعلقہ بیماریاں بڑھاتا ہے اور باہر کام کرنا زیادہ مشکل بنا دیتا ہے۔ جب حالات گرم ہوتے ہیں تو جنگل کی آگ زیادہ آسانی سے لگتی ہے اور زیادہ تیزی سے پھیلتی ہے۔ قطب شمالی میں درجہ حرارت عالمی اوسط سے کم از کم دوگنی تیزی سے گرم ہوا ہے۔"
+          },
+          {
+            "en": "2. More Severe Storms: Destructive storms have become more intense and more frequent in many regions. As temperatures rise, more moisture evaporates, which exacerbates extreme rainfall and flooding, causing more destructive storms. The frequency and extent of tropical storms is also affected by the warming ocean. Cyclones, hurricanes, and typhoons feed on warm waters at the ocean surface. Such storms often destroy homes and communities, causing deaths and huge economic losses.",
+            "sd": "2. وڌيڪ سخت طوفان: تباهي ڪندڙ طوفان ڪيترن ئي علائقن ۾ وڌيڪ شديد ۽ وڌيڪ بار بار ٿي ويا آهن. جيئن گرمي پد وڌي ٿو، تيئن وڌيڪ نمي بخارات بڻجي ٿي، جيڪا سخت برسات ۽ ٻوڏ کي وڌائي ٿي، جنهن سان وڌيڪ تباهي ڪندڙ طوفان اچن ٿا. استوائي طوفانن جي تعدد ۽ وسعت به گرم ٿيندڙ سمنڊ کان متاثر ٿئي ٿي. سامونڊي طوفان، هرڪين ۽ ٽائيفون سمنڊ جي مٿاڇري تي گرم پاڻي مان توانائي حاصل ڪن ٿا. اهڙا طوفان اڪثر گھر ۽ برادريون تباهه ڪن ٿا، جنهن سان موتون ٿين ٿيون ۽ وڏو معاشي نقصان ٿئي ٿو.",
+            "ur": "2. زیادہ شدید طوفان: تباہ کن طوفان بہت سے علاقوں میں زیادہ شدید اور زیادہ بار بار ہونے لگے ہیں۔ جیسے جیسے درجہ حرارت بڑھتا ہے، زیادہ نمی بخارات بنتی ہے، جو شدید بارش اور سیلاب کو بڑھاتی ہے، جس سے زیادہ تباہ کن طوفان آتے ہیں۔ استوائی طوفانوں کی تعدد اور وسعت بھی گرم ہوتے سمندر سے متاثر ہوتی ہے۔ سمندری طوفان، ہریکین اور ٹائفون سمندر کی سطح پر گرم پانی سے توانائی حاصل کرتے ہیں۔ ایسے طوفان اکثر گھر اور برادریاں تباہ کرتے ہیں، جس سے اموات ہوتی ہیں اور بڑا معاشی نقصان ہوتا ہے۔"
+          },
+          {
+            "en": "3. Increased Droughts: Climate change is changing water availability, making it scarcer in more regions. Global warming exacerbates water shortages in already water-stressed regions and is leading to an increased risk of agricultural droughts affecting crops, and ecological droughts increasing the vulnerability of ecosystems. Droughts can also stir destructive sand and dust storms that can move billions of tons of sand across continents. Deserts are expanding, reducing land for growing food. Many people now face the threat of not having enough water on a regular basis.",
+            "sd": "3. وڌندڙ خشڪسالي: موسمي تبديلي پاڻي جي دستيابي کي تبديل ڪري رھي آهي، جنهن سان اهو وڌيڪ علائقن ۾ گھٽجي پيو وڃي. عالمي گرمي اڳ ئي پاڻي جي کوٽ وارن علائقن ۾ پاڻي جي کوٽ کي وڌائي رھي آهي ۽ فصلن کي متاثر ڪندڙ زرعي خشڪسالي ۽ ماحولياتي نظامن کي خطري ۾ وجهندڙ ماحولياتي خشڪسالي جو خطرو وڌائي رھي آهي. خشڪسالي تباهي ڪندڙ ريتي ۽ مٽي جا طوفان به پيدا ڪري سگھي ٿي، جيڪي اربين ٽن ريتي کي براعظمن جي پار منتقل ڪري سگھن ٿا. ريگستان وڌي رھيا آهن، جنهن سان کاڌو پوکڻ لاءِ زمين گھٽجي رھي آهي. هاڻي ڪيترائي ماڻهو باقاعدي بنياد تي ڪافي پاڻي نه ملڻ جي خطري کي منهن ڏئي رھيا آهن.",
+            "ur": "3. بڑھتی ہوئی خشک سالی: موسمی تبدیلی پانی کی دستیابی کو بدل رہی ہے، جس سے یہ مزید علاقوں میں کم ہو رہا ہے۔ عالمی حدت پہلے سے پانی کی قلت والے علاقوں میں پانی کی قلت کو بڑھا رہی ہے اور فصلوں کو متاثر کرنے والی زرعی خشک سالی اور ماحولیاتی نظام کو خطرے میں ڈالنے والی ماحولیاتی خشک سالی کے خطرے میں اضافہ کر رہی ہے۔ خشک سالی تباہ کن ریت اور مٹی کے طوفان بھی پیدا کر سکتی ہے، جو اربوں ٹن ریت کو براعظموں کے پار منتقل کر سکتے ہیں۔ صحرا پھیل رہے ہیں، جس سے خوراک اگانے کے لیے زمین کم ہو رہی ہے۔ اب بہت سے لوگوں کو باقاعدہ بنیاد پر کافی پانی نہ ملنے کے خطرے کا سامنا ہے۔"
+          },
+          {
+            "en": "4. A Warming, Rising Ocean: The ocean soaks up most of the heat from global warming. The rate at which the ocean is warming strongly increased over the past two decades, across all depths of the ocean. As the ocean warms, its volume increases since water expands as it gets warmer. Melting ice sheets also cause sea levels to rise, threatening coastal and island communities. In addition, the ocean absorbs carbon dioxide, keeping it from the atmosphere. But more carbon dioxide makes the ocean more acidic, which endangers marine life and coral reefs.",
+            "sd": "4. گرم ٿيندڙ، وڌندڙ سمنڊ: سمنڊ عالمي گرمي جي گرمي جو گھڻو حصو جذب ڪري ٿو. گذريل ٻن ڏهاڪن ۾ سمنڊ جي گرم ٿيڻ جي رفتار سمنڊ جي سمورين گھراين ۾ وڏي حد تائين وڌي وئي آهي. جيئن سمنڊ گرم ٿئي ٿو، تيئن ان جو مقدار وڌي ٿو، ڇاڪاڻ ته پاڻي گرم ٿيڻ سان ڦھلجي ٿو. برفاني چادرن جي پگھرڻ سان سمنڊ جي سطح به وڌي ٿي، جيڪا ساحلي ۽ ٻيٽن وارين برادريون کي خطري ۾ وجهي ٿي. ان کان علاوه، سمنڊ ڪاربان ڊاءِ آڪسائيڊ جذب ڪري ٿو، جنهن سان اهو ماحول ۾ وڃڻ کان بچي ٿو. پر وڌيڪ ڪاربان ڊاءِ آڪسائيڊ سمنڊ کي وڌيڪ تيزابي بڻائي ٿي، جيڪا سامونڊي زندگي ۽ مرجاني چٽانن کي خطري ۾ وجهي ٿي.",
+            "ur": "4. گرم ہوتا، بڑھتا ہوا سمندر: سمندر عالمی حدت کی گرمی کا بیشتر حصہ جذب کرتا ہے۔ گزشتہ دو دہائیوں میں سمندر کے گرم ہونے کی رفتار سمندر کی تمام گہرائیوں میں نمایاں طور پر بڑھ گئی ہے۔ جیسے جیسے سمندر گرم ہوتا ہے، اس کا حجم بڑھتا ہے، کیونکہ پانی گرم ہونے پر پھیلتا ہے۔ برف کی چادریں پگھلنے سے سمندر کی سطح بھی بڑھتی ہے، جس سے ساحلی اور جزیرہ برادریوں کو خطرہ لاحق ہے۔ اس کے علاوہ، سمندر کاربن ڈائی آکسائیڈ جذب کرتا ہے، جس سے یہ فضا میں جانے سے بچتا ہے۔ لیکن زیادہ کاربن ڈائی آکسائیڈ سمندر کو زیادہ تیزابی بنا دیتی ہے، جو سمندری حیات اور مرجانی چٹانوں کو خطرے میں ڈالتی ہے۔"
+          },
+          {
+            "en": "5. Loss of Species: Climate change poses risks to the survival of species on land and in the ocean. These risks increase as temperatures climb. Exacerbated by climate change, the world is losing species at a rate 1,000 times greater than at any other time in recorded human history. One million species are at risk of becoming extinct within the next few decades. Forest fires, extreme weather, and invasive pests and diseases are among many threats related to climate change. Some species will be able to relocate and survive, but others will not.",
+            "sd": "5. نسلن جو نقصان: موسمي تبديلي زمين ۽ سمنڊ ۾ نسلن جي بقا لاءِ خطرو آهي. جيئن گرمي پد وڌي ٿو، تيئن اهي خطرا وڌن ٿا. موسمي تبديلي جي ڪري، دنيا نسلون ان شرح سان وڃائي رھي آهي، جيڪا انساني تاريخ ۾ رڪارڊ ٿيل ڪنهن به ٻئي وقت کان 1,000 ڀيرا وڌيڪ آهي. هڪ ملين نسلون ايندڙ ڪجهه ڏهاڪن ۾ ختم ٿيڻ جي خطري ۾ آهن. ٻيلي باهه، سخت موسم، ۽ حملو ڪندڙ جيت ۽ بيماريون موسمي تبديلي سان لاڳاپيل ڪيترن ئي خطرن مان آهن. ڪجهه نسلون منتقل ٿي بقا حاصل ڪري سگھنديون، پر ٻيون نه ڪري سگھنديون.",
+            "ur": "5. انواع کا نقصان: موسمی تبدیلی زمین اور سمندر میں انواع کی بقا کے لیے خطرہ ہے۔ جیسے جیسے درجہ حرارت بڑھتا ہے، یہ خطرات بڑھتے ہیں۔ موسمی تبدیلی کی وجہ سے، دنیا انواع اس شرح سے کھو رہی ہے جو انسانی تاریخ میں ریکارڈ شدہ کسی بھی دوسرے وقت سے 1,000 گنا زیادہ ہے۔ دس لاکھ انواع اگلے چند دہائیوں میں معدوم ہونے کے خطرے میں ہیں۔ جنگل کی آگ، شدید موسم، اور حملہ آور کیڑے اور بیماریاں موسمی تبدیلی سے متعلق بہت سے خطرات میں سے ہیں۔ کچھ انواع منتقل ہو کر بچ سکیں گی، لیکن دیگر نہیں بچ سکیں گی۔"
+          },
+          {
+            "en": "6. Food Scarcity: Changes in the climate and increases in extreme weather events are among the reasons behind a global rise in hunger and poor nutrition. Fisheries, crops, and livestock may be destroyed or become less productive. With the ocean becoming more acidic, marine resources that feed billions of people are at risk. Changes in snow and ice cover in many Arctic regions have disrupted food supplies from herding, hunting, and fishing. Heat stress can diminish water and grasslands for grazing, causing declining crop yields and affecting livestock.",
+            "sd": "6. کاڌي جي کوٽ: موسم ۾ تبديليون ۽ سخت موسمي واقعن ۾ واڌ دنيا ۾ بک ۽ خراب غذائيت ۾ واڌ جا سبب آهن. مڇي مارڻ، فصلون ۽ مال تباهه ٿي سگھن ٿا يا گھٽ پيداواري ٿي سگھن ٿا. سمنڊ جي وڌيڪ تيزابي ٿيڻ سان، سامونڊي وسيلا جيڪي اربين ماڻهن کي کارائين ٿا، خطري ۾ آهن. اتر قطب جي ڪيترن ئي علائقن ۾ برف ۽ برف جي ڍڪ ۾ تبديلين سان مال پالڻ، شڪار ۽ مڇي مارڻ مان کاڌي جي فراهمي متاثر ٿي آهي. گرمي جو دٻاءُ چرڻ لاءِ پاڻي ۽ گاهه جي ميدانن کي گھٽائي سگھي ٿو، جنهن سان فصلن جي پيداوار گھٽجي ٿي ۽ مال متاثر ٿئي ٿو.",
+            "ur": "6. خوراک کی قلت: آب و ہوا میں تبدیلیاں اور شدید موسمی واقعات میں اضافہ دنیا بھر میں بھوک اور ناقص غذائیت میں اضافے کی وجوہات میں سے ہیں۔ ماہی گیری، فصلیں اور مویشی تباہ ہو سکتے ہیں یا کم پیداواری ہو سکتے ہیں۔ سمندر کے زیادہ تیزابی ہونے سے، سمندری وسائل جو اربوں لوگوں کو خوراک دیتے ہیں، خطرے میں ہیں۔ قطب شمالی کے بہت سے علاقوں میں برف اور برف کی تہہ میں تبدیلیوں نے مویشی پالنے، شکار اور ماہی گیری سے خوراک کی فراہمی کو متاثر کیا ہے۔ گرمی کا دباؤ چرنے کے لیے پانی اور گھاس کے میدانوں کو کم کر سکتا ہے، جس سے فصل کی پیداوار کم ہوتی ہے اور مویشی متاثر ہوتے ہیں۔"
+          },
+          {
+            "en": "7. More Health Risks: Climate change is the single biggest health threat facing humanity. Climate impacts are already harming health, through air pollution, disease, extreme weather events, forced displacement, pressures on mental health, and increased hunger and poor nutrition in places where people cannot grow or find sufficient food. Every year, environmental factors take the lives of around 13 million people. Changing weather patterns are expanding diseases, and extreme weather events increase deaths and make it difficult for health care systems to keep up.",
+            "sd": "7. صحت جا وڌندڙ خطرا: موسمي تبديلي انسانيت کي درپيش صحت جو سڀ کان وڏو خطرو آهي. موسمي اثر اڳ ئي صحت کي نقصان پهچائي رھيا آهن، هوا جي آلودگي، بيماري، سخت موسمي واقعن، زبردستي لڏپلاڻ، ذهني صحت تي دٻاءُ، ۽ انهن هنڌن تي بک ۽ خراب غذائيت ۾ واڌ ذريعي، جتي ماڻهو ڪافي کاڌو پوکي يا ڳولي نه ٿا سگھن. هر سال ماحولياتي عنصر لڳ ڀڳ 13 ملين ماڻهن جون جانيون وٺن ٿا. بدلجندڙ موسمي نمونا بيماريون پکيڙي رھيا آهن، ۽ سخت موسمي واقعا موتون وڌائين ٿا ۽ صحت جي نظام لاءِ انهن سان گڏ هلڻ ڏکيو بڻائين ٿا.",
+            "ur": "7. صحت کے بڑھتے ہوئے خطرات: موسمی تبدیلی انسانیت کو درپیش صحت کا سب سے بڑا خطرہ ہے۔ موسمی اثرات پہلے ہی صحت کو نقصان پہنچا رہے ہیں، ہوا کی آلودگی، بیماری، شدید موسمی واقعات، جبری نقل مکانی، ذہنی صحت پر دباؤ، اور ان جگہوں پر بھوک اور ناقص غذائیت میں اضافے کے ذریعے جہاں لوگ کافی خوراک اگا یا تلاش نہیں کر سکتے۔ ہر سال ماحولیاتی عوامل تقریباً 13 ملین لوگوں کی جانیں لیتے ہیں۔ بدلتے موسمی نمونے بیماریاں پھیلا رہے ہیں، اور شدید موسمی واقعات اموات بڑھاتے ہیں اور صحت کے نظام کے لیے ان کے ساتھ چلنا مشکل بنا دیتے ہیں۔"
+          },
+          {
+            "en": "Way forward: In a series of UN reports, thousands of scientists and government reviewers agreed that limiting global temperature rise to no more than 1.5°C would help us avoid the worst climate impacts and maintain a liveable climate. Yet policies currently in place point to up to 3.1°C of warming by the end of the century.",
+            "sd": "اڳتي جو رستو: گڏيل قومن جي رپورٽن جي هڪ سلسلي ۾، هزارين سائنسدانن ۽ سرڪاري جائزو وٺندڙن اتفاق ڪيو ته عالمي گرمي پد ۾ واڌ کي 1.5°C کان وڌيڪ نه وڌڻ ڏيڻ سان اسان کي موسمي اثرن کان بچڻ ۽ رھڻ لائق موسم برقرار رکڻ ۾ مدد ملندي. تنهن هوندي، هن وقت لاڳو پاليسيون صدي جي آخر تائين 3.1°C تائين گرمي وڌڻ جو اشارو ڏين ٿيون.",
+            "ur": "آگے کا راستہ: اقوام متحدہ کی رپورٹوں کے ایک سلسلے میں، ہزاروں سائنس دانوں اور سرکاری جائزہ کاروں نے اتفاق کیا کہ عالمی درجہ حرارت میں اضافے کو 1.5°C سے زیادہ نہ بڑھنے دینا ہمیں موسمی اثرات سے بچنے اور رہنے کے قابل آب و ہوا برقرار رکھنے میں مدد دے گا۔ پھر بھی، اس وقت نافذ پالیسیاں صدی کے آخر تک 3.1°C تک گرمی بڑھنے کی نشاندہی کرتی ہیں۔"
+          },
+          {
+            "en": "Addressing climate change requires urgent and coordinated action at all levels. Individually, people must adopt sustainable lifestyles by conserving energy, reducing waste, using public transport, supporting renewable energy, and making climate-conscious choices in diet and consumption. At the community level, there is a need to promote environmental awareness, implement local adaptation strategies, invest in green infrastructure, and support community-based conservation and resilience-building projects. Globally, governments must commit to and enforce international agreements like the Paris Agreement, transition toward clean energy economies, strengthen climate policies, and provide financial and technological support to developing countries for adaptation and mitigation.",
+            "sd": "موسمي تبديلي سان منهن ڏيڻ لاءِ هر سطح تي فوري ۽ گڏيل عمل جي ضرورت آهي. فردي طور تي، ماڻهن کي توانائي بچائڻ، ڪچرو گھٽائڻ، عوامي آمدورفت استعمال ڪرڻ، قابل تجديد توانائي جي حمايت ڪرڻ، ۽ غذا ۽ استعمال ۾ موسم جو خيال رکندڙ چونڊون ڪرڻ ذريعي پائيدار زندگي اپنائڻ گھرجي. برادري جي سطح تي، ماحولياتي آگاهي کي وڌائڻ، مقامي مطابقت جون حڪمت عمليون لاڳو ڪرڻ، سائي بنيادي ڍانچي ۾ سيڙپڪاري ڪرڻ، ۽ برادري جي بنياد تي تحفظ ۽ لچڪ پيدا ڪندڙ منصوبن جي حمايت ڪرڻ جي ضرورت آهي. عالمي سطح تي، حڪومتن کي پيرس معاهدي جهڙن بين الاقوامي معاهدن تي عمل ڪرڻ ۽ انهن کي لاڳو ڪرڻ، صاف توانائي وارين معيشتن ڏانهن منتقلي، موسمي پاليسين کي مضبوط ڪرڻ، ۽ ترقي پذير ملڪن کي مطابقت ۽ گھٽتائي لاءِ مالي ۽ ٽيڪنالاجي مدد ڏيڻ گھرجي.",
+            "ur": "موسمی تبدیلی سے نمٹنے کے لیے ہر سطح پر فوری اور مربوط عمل کی ضرورت ہے۔ انفرادی طور پر، لوگوں کو توانائی بچا کر، کچرا کم کر کے، عوامی نقل و حمل استعمال کر کے، قابل تجدید توانائی کی حمایت کر کے، اور غذا اور استعمال میں آب و ہوا کا خیال رکھنے والے انتخاب کر کے پائیدار طرز زندگی اپنانا چاہیے۔ برادری کی سطح پر، ماحولیاتی آگاہی کو فروغ دینے، مقامی مطابقت کی حکمت عملیاں نافذ کرنے، سبز بنیادی ڈھانچے میں سرمایہ کاری کرنے، اور برادری کی بنیاد پر تحفظ اور لچک پیدا کرنے والے منصوبوں کی حمایت کرنے کی ضرورت ہے۔ عالمی سطح پر، حکومتوں کو پیرس معاہدے جیسے بین الاقوامی معاہدوں پر عمل کرنے اور انہیں نافذ کرنے، صاف توانائی والی معیشتوں کی طرف منتقلی، موسمی پالیسیوں کو مضبوط کرنے، اور ترقی پذیر ممالک کو مطابقت اور تخفیف کے لیے مالی اور تکنیکی مدد فراہم کرنے کا عہد کرنا چاہیے۔"
+          },
+          {
+            "en": "Only through collective responsibility and sustained action can we slow down climate change and secure a sustainable and liveable planet for future generations.",
+            "sd": "صرف گڏيل ذميواري ۽ مسلسل عمل ذريعي ئي اسان موسمي تبديلي کي سست ڪري سگھون ٿا ۽ ايندڙ نسلن لاءِ پائيدار ۽ رھڻ لائق ڌرتي محفوظ ڪري سگھون ٿا.",
+            "ur": "صرف اجتماعی ذمہ داری اور مسلسل عمل کے ذریعے ہی ہم موسمی تبدیلی کو سست کر سکتے ہیں اور آنے والی نسلوں کے لیے پائیدار اور رہنے کے قابل سیارہ محفوظ کر سکتے ہیں۔"
+          },
+          {
+            "en": "Conclusion: Thus, climate change is an escalating global crisis with far-reaching effects that threaten the environment, biodiversity, human health, food security, and socio-economic stability. As greenhouse gas emissions continue to rise, the planet is experiencing hotter temperatures, more severe storms, prolonged droughts, rising and warming oceans, the loss of species, increasing food insecurity, heightened health risks, and widespread poverty and displacement. These effects are interconnected and worsening, affecting both natural systems and human communities, particularly the most vulnerable populations.",
+            "sd": "نتيجو: اهڙي طرح، موسمي تبديلي هڪ وڌندڙ عالمي بحران آهي، جنهن جا دور رس اثر ماحول، حياتياتي تنوع، انساني صحت، کاڌي جي حفاظت ۽ سماجي معاشي استحڪام کي خطري ۾ وجهن ٿا. جيئن گرين هائوس گئسن جو اخراج وڌندو پيو وڃي، ڌرتي وڌيڪ گرم گرمي پد، وڌيڪ سخت طوفان، ڊگهي خشڪسالي، وڌندڙ ۽ گرم ٿيندڙ سمنڊ، نسلن جو نقصان، کاڌي جي کوٽ ۾ واڌ، صحت جا وڌندڙ خطرا، ۽ وسيع غربت ۽ لڏپلاڻ جو تجربو ڪري رھي آهي. اهي اثر هڪٻئي سان ڳنڍيل آهن ۽ خراب ٿي رھيا آهن، جيڪي قدرتي نظامن ۽ انساني برادريون، خاص ڪري سڀ کان وڌيڪ ڪمزور آباديون، کي متاثر ڪن ٿا.",
+            "ur": "نتیجہ: اس طرح، موسمی تبدیلی ایک بڑھتا ہوا عالمی بحران ہے، جس کے دور رس اثرات ماحول، حیاتیاتی تنوع، انسانی صحت، خوراک کی حفاظت اور سماجی معاشی استحکام کو خطرے میں ڈالتے ہیں۔ جیسے جیسے گرین ہاؤس گیسوں کا اخراج بڑھتا جا رہا ہے، سیارہ زیادہ گرم درجہ حرارت، زیادہ شدید طوفان، طویل خشک سالی، بڑھتے اور گرم ہوتے سمندر، انواع کا نقصان، خوراک کی عدم تحفظ میں اضافہ، صحت کے بڑھتے ہوئے خطرات، اور وسیع غربت اور نقل مکانی کا تجربہ کر رہا ہے۔ یہ اثرات ایک دوسرے سے جڑے ہوئے ہیں اور بگڑتے جا رہے ہیں، جو قدرتی نظاموں اور انسانی برادریوں، خاص طور پر سب سے زیادہ کمزور آبادیوں کو متاثر کرتے ہیں۔"
+          }
+        ]
+      },
+      {
+        "unit": 8,
+        "unitTitle": "Poetry",
+        "lesson": "If",
+        "section": "B.1",
+        "bookPages": "210-211",
+        "paragraphs": [
+          {
+            "en": "If you can keep your head when all about you Are losing theirs and blaming it on you, If you can trust yourself when all men doubt you, But make allowance for their doubting too; If you can wait and not be tired by waiting, Or being lied about, don’t deal in lies, Or being hated, don’t give way to hating, And yet don’t look too good, nor talk too wise:",
+            "sd": "جيڪڏهن تون پنهنجو مٿو سنڀالي سگھين، جڏهن تنهنجي چوڌاري سڀ ماڻهو پنهنجو پاڻ وڃائي ڇڏين ۽ توتي الزام لڳائن، جيڪڏهن تون پاڻ تي ڀروسو ڪري سگھين، جڏهن سڀ ماڻهو توتي شڪ ڪن، پر تون انهن جي شڪ ڪرڻ کي به سمجھين؛ جيڪڏهن تون انتظار ڪري سگھين ۽ انتظار ڪرڻ سان نه ٿڪين، يا تنهنجي باري ۾ ڪوڙ ڳالهايو وڃي ته تون ڪوڙ نه ڳالهائين، يا تنهنجي سان نفرت ڪئي وڃي ته تون نفرت جو جواب نفرت سان نه ڏين، ۽ تڏهن به تون نه گھڻو سٺو ڏسجين ۽ نه گھڻو عقلمند ڳالهائين:",
+            "ur": "اگر تم اپنا سر سنبھال سکو جب تمہارے آس پاس سب لوگ اپنا ہوش کھو بیٹھیں اور تم پر الزام لگائیں، اگر تم خود پر بھروسہ کر سکو جب سب لوگ تم پر شک کریں، لیکن تم ان کے شک کرنے کو بھی سمجھو؛ اگر تم انتظار کر سکو اور انتظار سے نہ تھکو، یا تمہارے بارے میں جھوٹ بولا جائے تو تم جھوٹ نہ بولو، یا تم سے نفرت کی جائے تو تم نفرت کا جواب نفرت سے نہ دو، اور پھر بھی تم نہ بہت اچھے نظر آؤ اور نہ بہت عقلمند بات کرو:"
+          },
+          {
+            "en": "If you can dream—and not make dreams your master; If you can think—and not make thoughts your aim; If you can meet with Triumph and Disaster And treat those two impostors just the same; If you can bear to hear the truth you’ve spoken Twisted by knaves to make a trap for fools, Or watch the things you gave your life to, broken, And stoop and build ’em up with worn-out tools:",
+            "sd": "جيڪڏهن تون خواب ڏسي سگھين، پر خوابن کي پنهنجو مالڪ نه بڻائين؛ جيڪڏهن تون سوچي سگھين، پر سوچن کي پنهنجو مقصد نه بڻائين؛ جيڪڏهن تون ڪاميابي ۽ ناڪامي سان ملي سگھين ۽ انهن ٻنهي ڌوڪيبازن سان هڪ جيترو ورتاءُ ڪرين؛ جيڪڏهن تون اهو سچ ٻڌي سگھين جيڪو تو چيو هو، ڌوڪيبازن هٿان موڙي، بيوقوفن لاءِ ڦندو بڻايو ويو هجي، يا اهي شيون ڏسي سگھين جن لاءِ تو پنهنجي زندگي ڏني هئي، ٽٽل، ۽ جھڪي انهن کي پراڻن اوزارن سان ٻيهر ٺاهين:",
+            "ur": "اگر تم خواب دیکھ سکو، اور خوابوں کو اپنا مالک نہ بناؤ؛ اگر تم سوچ سکو، اور سوچوں کو اپنا مقصد نہ بناؤ؛ اگر تم کامیابی اور ناکامی سے مل سکو اور ان دونوں دھوکے بازوں سے ایک جیسا سلوک کرو؛ اگر تم وہ سچ سن سکو جو تم نے کہا تھا، جسے دھوکے بازوں نے موڑ کر بیوقوفوں کے لیے جال بنا دیا ہو، یا وہ چیزیں دیکھ سکو جن کے لیے تم نے اپنی زندگی دی تھی، ٹوٹی ہوئی، اور جھک کر انھیں پرانے اوزاروں سے دوبارہ بنا سکو:"
+          },
+          {
+            "en": "If you can make one heap of all your winnings And risk it on one turn of pitch-and-toss, And lose, and start again at your beginnings And never breathe a word about your loss; If you can force your heart and nerve and sinew To serve your turn long after they are gone, And so hold on when there is nothing in you Except the Will which says to them: ’Hold on!’",
+            "sd": "جيڪڏهن تون پنهنجي سڀني ڪمايل شين جو هڪ ڍير بڻائي سگھين ۽ ان کي هڪ واري راند تي خطري ۾ وجهي سگھين، ۽ هارائي وڃين ۽ پنهنجي شروعات کان ٻيهر شروع ڪرين ۽ پنهنجي نقصان بابت هڪ لفظ به نه چوين؛ جيڪڏهن تون پنهنجي دل ۽ همت ۽ طاقت کي مجبور ڪري سگھين ته اهي تنهنجي لاءِ ڪم ڪن، جيتوڻيڪ اهي ختم ٿي چڪا هجن، ۽ تڏهن به ڊٽي بيٺو رھين جڏهن تنهنجي اندر ڪجهه به نه بچيو هجي، سواءِ ان ارادي جي جيڪو انهن کي چوي: 'ڊٽي بيٺو رھ!'",
+            "ur": "اگر تم اپنی تمام کمائی کا ایک ڈھیر بنا سکو اور اسے ایک بازی پر داؤ پر لگا سکو، اور ہار جاؤ، اور اپنی شروعات سے دوبارہ شروع کرو اور اپنے نقصان کے بارے میں ایک لفظ بھی نہ کہو؛ اگر تم اپنے دل اور ہمت اور طاقت کو مجبور کر سکو کہ وہ تمہارے لیے کام کریں، جب وہ ختم ہو چکے ہوں، اور پھر بھی ڈٹے رہو جب تمہارے اندر کچھ بھی نہ بچا ہو، سوائے اس ارادے کے جو ان سے کہتا ہے: 'ڈٹے رہو!'"
+          },
+          {
+            "en": "If you can talk with crowds and keep your virtue, Or walk with Kings—nor lose the common touch, If neither foes nor loving friends can hurt you, If all men count with you, but none too much; If you can fill the unforgiving minute With sixty seconds’ worth of distance run, Yours is the Earth and everything that’s in it, And—which is more—you’ll be a Man, my son!",
+            "sd": "جيڪڏهن تون ميڙ سان ڳالهائي سگھين ۽ پنهنجي نيڪي برقرار رکين، يا بادشاهن سان گڏ هلي سگھين ۽ عام ماڻهن سان واسطو نه وڃائين، جيڪڏهن نه دشمن ۽ نه پيارا دوست توکي نقصان پهچائي سگھن، جيڪڏهن سڀ ماڻهو تنهنجي سان گڏ هجن پر ڪو به گھڻو نه؛ جيڪڏهن تون هر بي رحم منٽ کي سٺ سيڪنڊن جي ڊوڙ سان ڀري سگھين، ته زمين ۽ ان ۾ جيڪو ڪجهه آهي اهو تنهنجو آهي، ۽ جيڪو ان کان به وڌيڪ آهي، اهو ته تون هڪ مرد بڻجي ويندين، منهنجا پٽ!",
+            "ur": "اگر تم ہجوم سے بات کر سکو اور اپنی نیکی برقرار رکھو، یا بادشاہوں کے ساتھ چل سکو اور عام لوگوں سے تعلق نہ کھوؤ، اگر نہ دشمن اور نہ پیارے دوست تمھیں نقصان پہنچا سکیں، اگر سب لوگ تمہارے ساتھ ہوں لیکن کوئی بھی بہت زیادہ نہیں؛ اگر تم ہر بے رحم منٹ کو ساٹھ سیکنڈ کی دوڑ سے بھر سکو، تو زمین اور اس میں جو کچھ ہے وہ تمہاری ہے، اور جو اس سے بھی زیادہ ہے، وہ یہ کہ تم ایک مرد بن جاؤ گے، میرے بیٹے!"
+          }
+        ]
+      },
+      {
+        "unit": 9,
+        "unitTitle": "Poetry",
+        "lesson": "The Age of Infancy",
+        "section": "B.2",
+        "bookPages": "216",
+        "paragraphs": [
+          {
+            "en": "The earth and sky were unknown worlds to me, Only the expanse of mother’s bosom was a world to me.",
+            "sd": "زمين ۽ آسمان مون لاءِ اڻڄاتل دنيا هئا، ماءُ جي ڇاتيءَ جو ويڪرو ئي مون لاءِ دنيا هئي.",
+            "ur": "زمین اور آسمان میرے لیے انجان دنیا تھے، ماں کی گود کی وسعت ہی میرے لیے دنیا تھی۔"
+          },
+          {
+            "en": "Every movement was a symbol of life’s pleasure to me, My own speech was like a meaningless word to me.",
+            "sd": "هر حرڪت مون لاءِ زندگيءَ جي خوشيءَ جي نشاني هئي، منهنجي پنهنجي ڳالهه مون لاءِ هڪ بي معنيٰ لفظ جهڙي هئي.",
+            "ur": "ہر حرکت میرے لیے زندگی کی خوشی کی علامت تھی، میری اپنی بات میرے لیے ایک بے معنی لفظ جیسی تھی۔"
+          },
+          {
+            "en": "During infancy’s pain if somebody made me cry, The noise of the door chain would comfort me.",
+            "sd": "ننڍپڻ جي ڏک ۾ جيڪڏهن ڪو مون کي روئاريندو هو، ته دروازي جي زنجير جو آواز مون کي آرام ڏيندو هو.",
+            "ur": "بچپن کے دکھ میں اگر کوئی مجھے رلاتا تھا، تو دروازے کی زنجیر کی آواز مجھے سکون دیتی تھی۔"
+          },
+          {
+            "en": "Oh! How I stared at the moon for long hours, Staring at its silent journey among broken clouds.",
+            "sd": "اوه! مان چنڊ کي ڪلاڪن جا ڪلاڪ ڪيئن تڪيندو رھيس، ان جي خاموش سفر کي ٽٽل ڪڪرن جي وچ ۾ ڏسندو رھيس.",
+            "ur": "اوہ! میں چاند کو گھنٹوں کیسے تکتا رہتا تھا، اس کے خاموش سفر کو ٹوٹے ہوئے بادلوں کے درمیان دیکھتا رہتا تھا۔"
+          },
+          {
+            "en": "I would ask repeatedly about its mountains and plains, And how surprised would I be at that prudent lie.",
+            "sd": "مان ان جي جبلن ۽ ميدانن بابت بار بار سوال ڪندو رھيس، ۽ ان هوشيار ڪوڙ تي مان ڪيترو حيران ٿيندو رھيس.",
+            "ur": "میں اس کے پہاڑوں اور میدانوں کے بارے میں بار بار پوچھتا تھا، اور اس ہوشیار جھوٹ پر میں کتنا حیران ہوتا تھا۔"
+          },
+          {
+            "en": "My eye was devoted to seeing, my lip was prone to speak. My heart was no less than inquisitiveness personified.",
+            "sd": "منهنجي اک ڏسڻ لاءِ وقف هئي، منهنجو چپ ڳالهائڻ لاءِ تيار هو. منهنجي دل تجسس جي مجسم شڪل کان گھٽ نه هئي.",
+            "ur": "میری آنکھ دیکھنے کے لیے وقف تھی، میرے ہونٹ بولنے کے لیے تیار تھے۔ میرا دل تجسس کی مجسم شکل سے کم نہ تھا۔"
+          }
+        ]
+      },
+      {
+        "unit": 10,
+        "unitTitle": "Poetry",
+        "lesson": "The Seven Ages Of Man",
+        "section": "B.3",
+        "bookPages": "222",
+        "paragraphs": [
+          {
+            "en": "All the world’s a stage, And all the men and women merely players: They have their exits and their entrances; And one man in his time plays many parts, His acts being seven ages. At first the infant,",
+            "sd": "سڄي دنيا هڪ اسٽيج آهي، ۽ سڀ مرد ۽ عورتون رڳو اداڪار آهن: انهن جا ٻاهر نڪرڻ ۽ اندر اچڻ آهن؛ ۽ هڪ ماڻهو پنهنجي وقت ۾ ڪيترائي ڪردار ادا ڪري ٿو، سندس عمل ست عمرون آهن. سڀ کان پهرين ٻار،",
+            "ur": "ساری دنیا ایک اسٹیج ہے، اور تمام مرد اور عورتیں محض اداکار ہیں: ان کے باہر نکلنے اور اندر آنے کے راستے ہیں؛ اور ایک آدمی اپنے وقت میں کئی کردار ادا کرتا ہے، اس کے اعمال سات عمریں ہیں۔ سب سے پہلے بچہ،"
+          },
+          {
+            "en": "Mewling and puking in the nurse’s arms. And then the whining schoolboy, with his satchel, And shining morning face, creeping like snail, Unwilling to school. And then the lover, Sighing like furnace, with a woeful ballad",
+            "sd": "نرس جي ٻانهن ۾ روئيندو ۽ الٽي ڪندو. ۽ پوءِ روئندو اسڪولي ڇوڪرو، پنهنجي بستي سان، ۽ چمڪندڙ صبح واري چهري سان، گھنگو وانگر آهستي هلندو، اسڪول وڃڻ لاءِ تيار نه. ۽ پوءِ عاشق، ڀٽي وانگر آهون ڀريندو، ڏک ڀري گيت سان",
+            "ur": "نرس کی بانہوں میں روتا اور قے کرتا ہوا۔ اور پھر روتا ہوا اسکولی لڑکا، اپنے بستے کے ساتھ، اور چمکتے ہوئے صبح کے چہرے کے ساتھ، گھونگے کی طرح رینگتا ہوا، اسکول جانے کے لیے تیار نہیں۔ اور پھر عاشق، بھٹی کی طرح آہیں بھرتا ہوا، دکھ بھرے گیت کے ساتھ"
+          },
+          {
+            "en": "Made to his mistress’ eyebrow. Then a soldier, Full of strange oaths, and bearded like the pard, Jealous in honour, sudden and quick in quarrel, Seeking the bubble reputation Even in the cannon’s mouth. And then the justice,",
+            "sd": "جيڪو پنهنجي محبوبه جي ابرو لاءِ لکيو ويو. پوءِ هڪ سپاهي، عجيب قسمن سان ڀريل، ۽ چيتو وانگر ڏاڙهي وارو، عزت ۾ حسد ڪندڙ، جھڳڙي ۾ اوچتو ۽ تيز، ڦوڪڻي جهڙي شهرت جي ڳولا ۾، توپ جي وات ۾ به. ۽ پوءِ جج،",
+            "ur": "جو اپنی محبوبہ کی ابرو کے لیے لکھا گیا۔ پھر ایک سپاہی، عجیب قسمیں کھانے والا، اور چیتے کی طرح داڑھی والا، عزت میں حسد کرنے والا، جھگڑے میں اچانک اور تیز، بلبلے جیسی شہرت کی تلاش میں، توپ کے منہ میں بھی۔ اور پھر جج،"
+          },
+          {
+            "en": "In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part. The sixth age shifts Into the lean and slipperedpantaloon,",
+            "sd": "ٿلهي مرغ سان ڀريل گول پيٽ سان، سخت اکين ۽ سڌريل ڏاڙهي سان، عقلمند چوڻين ۽ نون مثالن سان ڀريل؛ ۽ ائين هو پنهنجو ڪردار ادا ڪري ٿو. ڇهين عمر بدلجي وڃي ٿي ڏٻري ۽ چپل واري پتلون ۾،",
+            "ur": "اچھی مرغی سے بھرے گول پیٹ کے ساتھ، سخت آنکھوں اور سلیقے سے تراشی ہوئی داڑھی کے ساتھ، عقلمندانہ کہاوتوں اور نئی مثالوں سے بھرپور؛ اور یوں وہ اپنا کردار ادا کرتا ہے۔ چھٹی عمر بدل جاتی ہے دبلے اور چپل والے پاجامے میں،"
+          },
+          {
+            "en": "With spectacles on nose and pouch on side, His youthful hose well saved, a world too wide For his shrunk shank; and his big manly voice, Turning again toward childish treble, pipes And whistles in his sound. Last scene of all,",
+            "sd": "نڪ تي عينڪ ۽ پاسي ۾ کيسو سان، سندس جوانيءَ جو لباس چڱي طرح بچايل، هڪ دنيا جيڪا سندس سڪڙيل ٽنگ لاءِ تمام ويڪري آهي؛ ۽ سندس وڏو مرداڻو آواز، ٻيهر ٻارن جهڙي سنهي آواز ڏانهن موٽندي، سيٽيون وڄائي ٿو ۽ سندس آواز ۾ سيٽي وڄي ٿي. سڀ کان آخري منظر،",
+            "ur": "ناک پر عینک اور پہلو میں تھیلی کے ساتھ، اس کی جوانی کا لباس اچھی طرح بچا ہوا، ایک دنیا جو اس کی سکڑی ہوئی ٹانگ کے لیے بہت وسیع ہے؛ اور اس کی بڑی مردانہ آواز، دوبارہ بچوں جیسی باریک آواز کی طرف لوٹتی ہوئی، سیٹیاں بجاتی ہے اور اس کی آواز میں سیٹی بجتی ہے۔ سب سے آخری منظر،"
+          },
+          {
+            "en": "That ends this strange eventful history, Is second childishness, and mere oblivion, Sans teeth, sans eyes, sans taste, sans everything.",
+            "sd": "جيڪو هن عجيب واقعن ڀري تاريخ کي ختم ڪري ٿو، ٻيو ننڍپڻ آهي، ۽ رڳو وسار، نه ڏند، نه اکيون، نه ذائقو، نه ڪجهه به.",
+            "ur": "جو اس عجیب واقعات بھری تاریخ کو ختم کرتا ہے، دوسرا بچپن ہے، اور محض بھول، نہ دانت، نہ آنکھیں، نہ ذائقہ، نہ کچھ بھی۔"
+          }
+        ]
+      },
+      {
+        "unit": 11,
+        "unitTitle": "Poetry",
+        "lesson": "You Start Dying Slowly",
+        "section": "B.4",
+        "bookPages": "227-228",
+        "paragraphs": [
+          {
+            "en": "You start dying slowly if you do not travel, if you do not read, If you do not listen to the sounds of life, If you do not appreciate yourself.",
+            "sd": "تون آهستي آهستي مرڻ شروع ڪرين ٿو، جيڪڏهن تون سفر نه ڪرين، جيڪڏهن تون نه پڙهين، جيڪڏهن تون زندگيءَ جي آوازن کي نه ٻڌين، جيڪڏهن تون پنهنجي قدر نه ڪرين.",
+            "ur": "تم آہستہ آہستہ مرنا شروع کر دیتے ہو، اگر تم سفر نہ کرو، اگر تم نہ پڑھو، اگر تم زندگی کی آوازوں کو نہ سنو، اگر تم اپنی قدر نہ کرو۔"
+          },
+          {
+            "en": "You start dying slowly When you kill your self-esteem; When you do not let others help you.",
+            "sd": "تون آهستي آهستي مرڻ شروع ڪرين ٿو، جڏهن تون پنهنجي خود اعتمادي کي ماري ڇڏين؛ جڏهن تون ٻين کي پنهنجي مدد ڪرڻ نه ڏين.",
+            "ur": "تم آہستہ آہستہ مرنا شروع کر دیتے ہو، جب تم اپنی خود اعتمادی کو مار ڈالتے ہو؛ جب تم دوسروں کو اپنی مدد کرنے نہیں دیتے۔"
+          },
+          {
+            "en": "You start dying slowly If you become a slave of your habits, Walking everyday on the same paths... If you do not change your routine, If you do not wear different colours Or you do not speak to those you don’t know.",
+            "sd": "تون آهستي آهستي مرڻ شروع ڪرين ٿو، جيڪڏهن تون پنهنجي عادتن جو غلام بڻجي وڃين، هر روز ساڳين رستن تي هلندي... جيڪڏهن تون پنهنجو معمول نه بدلائين، جيڪڏهن تون مختلف رنگ نه پائين، يا تون انهن ماڻهن سان نه ڳالهائين جن کي تون نه ڄاڻين.",
+            "ur": "تم آہستہ آہستہ مرنا شروع کر دیتے ہو، اگر تم اپنی عادتوں کے غلام بن جاؤ، ہر روز انہی راستوں پر چلتے ہوئے... اگر تم اپنی روٹین نہ بدلو، اگر تم مختلف رنگ نہ پہنو، یا تم ان لوگوں سے بات نہ کرو جنھیں تم نہیں جانتے۔"
+          },
+          {
+            "en": "You start dying slowly If you avoid to feel passion And their turbulent emotions; Those which make your eyes glisten And your heart beat fast.",
+            "sd": "تون آهستي آهستي مرڻ شروع ڪرين ٿو، جيڪڏهن تون جذبي کي محسوس ڪرڻ کان پاسو ڪرين، ۽ انهن جي طوفاني جذبن کان؛ اهي جذبا جيڪي تنهنجون اکيون چمڪائين ٿا، ۽ تنهنجي دل کي تيز ڌڙڪائين ٿا.",
+            "ur": "تم آہستہ آہستہ مرنا شروع کر دیتے ہو، اگر تم جذبے کو محسوس کرنے سے گریز کرو، اور ان کے طوفانی جذبات سے؛ وہ جذبات جو تمہاری آنکھوں کو چمکاتے ہیں، اور تمہارے دل کو تیز دھڑکاتے ہیں۔"
+          },
+          {
+            "en": "You start dying slowly If you do not change your life when you are not satisfied with your job, or with your love, If you do not risk what is safe for the uncertain, If you do not go after a dream, If you do not allow yourself, At least once in your lifetime, To run away from sensible advice...",
+            "sd": "تون آهستي آهستي مرڻ شروع ڪرين ٿو، جيڪڏهن تون پنهنجي زندگي نه بدلائين، جڏهن تون پنهنجي نوڪري کان مطمئن نه هجين، يا پنهنجي محبت کان، جيڪڏهن تون محفوظ شيءِ کي اڻڄاتل لاءِ خطري ۾ نه وجهين، جيڪڏهن تون ڪنهن خواب جي پٺيان نه وڃين، جيڪڏهن تون پاڻ کي اجازت نه ڏين، گھٽ ۾ گھٽ پنهنجي زندگيءَ ۾ هڪ ڀيرو، سمجھدار صلاح کان ڀڄي وڃڻ جي...",
+            "ur": "تم آہستہ آہستہ مرنا شروع کر دیتے ہو، اگر تم اپنی زندگی نہ بدلو جب تم اپنی نوکری سے مطمئن نہ ہو، یا اپنی محبت سے، اگر تم محفوظ چیز کو غیر یقینی کے لیے خطرے میں نہ ڈالو، اگر تم کسی خواب کے پیچھے نہ جاؤ، اگر تم خود کو اجازت نہ دو، کم از کم اپنی زندگی میں ایک بار، سمجھدار مشورے سے بھاگ جانے کی..."
+          }
+        ]
+      },
+      {
+        "bookPages": "234",
+        "lesson": "Ulysses",
+        "paragraphs": [
+          {
+            "en": "My mariners, Souls that have toil'd, and wrought, and thought with me— That ever with a frolic welcome took The thunder and the sunshine, and opposed Free hearts, free foreheads—you and I are old; Old age hath yet his honour and his toil; Death closes all: but something ere the end, Some work of noble note, may yet be done, Not unbecoming men that strove with Gods.",
+            "sd": "منهنجا ملاحو، اهي روح جيڪي مون سان گڏ محنت ڪئي، ڪم ڪيو ۽ سوچيو آهي — جن هميشه خوشيءَ سان آجيان ڪندي گجگوڙ ۽ سج جي روشنيءَ کي منهن ڏنو. آزاد دليون، آزاد پيشانيون — تون ۽ مان پوڙها ٿي ويا آهيون. پوڙهائپ ۾ به اڃا عزت ۽ محنت آهي. موت سڀ ڪجهه ختم ڪري ٿو ڇڏي، پر پڄاڻيءَ کان اڳ اڃا به ڪو عظيم ڪم ٿي سگھي ٿو، جيڪو انهن ماڻهن لاءِ نامناسب نه آهي، جن ديوتائن سان گڏ جدوجهد ڪئي.",
+            "ur": "میرے ملاحو، وہ روحیں جنہوں نے میرے ساتھ محنت کی، کام کیا اور سوچا — جنہوں نے ہمیشہ خوشی سے استقبال کرتے ہوئے گرج اور دھوپ کا سامنا کیا۔ آزاد دل، آزاد پیشانیاں — تم اور میں بوڑھے ہو چکے ہیں۔ بڑھاپے میں بھی ابھی عزت اور محنت ہے۔ موت سب کچھ ختم کر دیتی ہے، لیکن انجام سے پہلے ابھی کوئی عظیم کام ہو سکتا ہے، جو ان لوگوں کے لیے نامناسب نہیں ہے جنہوں نے دیوتاؤں کے ساتھ جدوجہد کی۔"
+          },
+          {
+            "en": "The lights begin to twinkle from the rocks: The long day wanes: the slow moon climbs: the deep Moans round with many voices. Come, my friends, 'T is not too late to seek a newer world. Push off, and sitting well in order smite The sounding furrows; for my purpose holds To sail beyond the sunset, and the baths Of all the western stars, until I die.",
+            "sd": "پٿرن تان روشنيون چمڪڻ لڳن ٿيون. ڊگهو ڏينهن ختم ٿيڻ لڳو آهي، سست چنڊ مٿي اڀري ٿو، اونهو سمنڊ ڪيترن ئي آوازن سان گوڙ ڪري ٿو. اچو، منهنجا دوستو، نئين دنيا جي ڳولا لاءِ اڃا دير نه ٿي آهي. ٻيڙي کي ڌڪي اڳتي وڌو ۽ سمنڊ جون اونهيون لهرون چيرو. منهنجو ارادو آهي ته سج لھڻ کان اڳتي ۽ اولهه جي سڀني تارن کان اڳتي سفر ڪريان، جيستائين مان مران.",
+            "ur": "چٹانوں سے روشنیاں جھلملانے لگی ہیں۔ لمبا دن ڈھل رہا ہے، سست چاند اوپر چڑھ رہا ہے، گہرا سمندر کئی آوازوں سے گرج رہا ہے۔ آؤ، میرے دوستو، نئی دنیا کی تلاش کے لیے ابھی دیر نہیں ہوئی۔ کشتی کو دھکیل کر آگے بڑھو اور سمندر کی گہری لہروں کو چیرو۔ میرا ارادہ ہے کہ سورج غروب ہونے سے آگے اور مغرب کے تمام ستاروں سے آگے سفر کروں، جب تک میں مروں۔"
+          },
+          {
+            "en": "It may be that the gulfs will wash us down: It may be we shall touch the Happy Isles, And see the great Achilles, whom we knew. Tho' much is taken, much abides; and tho' We are not now that strength which in old days Moved earth and heaven, that which we are, we are; One equal temper of heroic hearts, Made weak by time and fate, but strong in will To strive, to seek, to find, and not to yield.",
+            "sd": "شايد سمنڊ جون اونهيون کوڙيون اسان کي ٻوڙي ڇڏين، شايد اسان خوشين جي ٻيٽن تائين پهچي وڃون ۽ عظيم اڪيليز کي ڏسون، جنهن کي اسان ڄاڻون ٿا. جيتوڻيڪ گھڻو ڪجهه کسيو ويو آهي، گھڻو ڪجهه اڃا باقي آهي. جيتوڻيڪ اسان وٽ هاڻي اها طاقت نه آهي، جيڪا پراڻي زماني ۾ زمين ۽ آسمان کي لوڏي ڇڏيندي هئي، پر جيڪي اسان آهيون، سا آهيون. بهادر دلين جو هڪ جهڙو جذبو، جيڪو وقت ۽ تقدير هٿان ڪمزور ٿي ويو آهي، پر ارادي ۾ مضبوط آهي — ڪوشش ڪرڻ، ڳولڻ، حاصل ڪرڻ ۽ ڪڏهن به هار نه مڃڻ لاءِ.",
+            "ur": "ہو سکتا ہے کہ سمندر کی گہری کھائیاں ہمیں ڈبو دیں، ہو سکتا ہے کہ ہم خوشیوں کے جزیروں تک پہنچ جائیں اور عظیم اکیلیز کو دیکھیں جسے ہم جانتے تھے۔ اگرچہ بہت کچھ چھین لیا گیا ہے، بہت کچھ ابھی باقی ہے۔ اگرچہ اب ہمارے پاس وہ طاقت نہیں ہے جو پرانے زمانے میں زمین اور آسمان کو ہلا دیتی تھی، لیکن جو ہم ہیں، وہی ہیں۔ بہادر دلوں کا ایک جیسا جذبہ، جو وقت اور تقدیر کے ہاتھوں کمزور ہو گیا ہے، لیکن ارادے میں مضبوط ہے — کوشش کرنے، تلاش کرنے، پانے اور کبھی ہار نہ ماننے کے لیے۔"
+          }
+        ],
+        "section": "B.5",
+        "unit": 12,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "238-239",
+        "lesson": "Stop All Clocks",
+        "paragraphs": [
+          {
+            "en": "Stop all the clocks, cut off the telephone, Prevent the dog from barking with a juicy bone, Silence the pianos and with muffled drum Bring out the coffin, let the mourners come.",
+            "sd": "سڀ گھڙيون بند ڪري ڇڏيو، ٽيليفون ڪٽي ڇڏيو، ڪتي کي رسيلو هڏو ڏئي ڀونڪڻ کان روڪيو، پيانو خاموش ڪري ڇڏيو ۽ ڍڪيل ڍول سان تابوت ٻاهر ڪڍو، ماتم ڪندڙ اچن.",
+            "ur": "تمام گھڑیاں بند کر دو، ٹیلی فون کاٹ دو، کتے کو رس دار ہڈی دے کر بھونکنے سے روک دو، پیانو خاموش کر دو اور دھیمے ڈھول کے ساتھ تابوت باہر لاؤ، ماتم کرنے والے آئیں۔"
+          },
+          {
+            "en": "Let aeroplanes circle moaning overhead Scribbling on the sky the message He Is Dead; Put crepe bows round the white necks of the public doves, Let the traffic policemen wear black cotton gloves.",
+            "sd": "هوائي جهاز مٿان چڪر لڳائيندا روئيندا رھن، آسمان تي اهو پيغام لکن ته هو مري ويو آهي. عوامي ڪبوترن جي اڇين ڳچين تي ڪاريون پٽيون ٻڌو، ٽرئفڪ پوليس وارن کي ڪارا سوتي دستانا پھرايو.",
+            "ur": "ہوائی جہاز اوپر چکر لگاتے ہوئے روتے رہیں، آسمان پر یہ پیغام لکھیں کہ وہ مر گیا ہے۔ عوامی کبوتروں کی سفید گردنوں پر کالے ربن باندھو، ٹریفک پولیس والوں کو کالے سوتی دستانے پہناؤ۔"
+          },
+          {
+            "en": "He was my North, my South, my East and West, My working week and my Sunday rest, My noon, my midnight, my talk, my song; I thought that love would last for ever: I was wrong.",
+            "sd": "هو منهنجو اتر، منهنجو ڏکڻ، منهنجو اوڀر ۽ اولهه هو، منهنجو ڪم جو هفتو ۽ منهنجو آچر جو آرام هو، منهنجو منجھند، منهنجو اڌ رات، منهنجي ڳالهه، منهنجو گيت هو. مون سمجھيو هو ته محبت هميشه لاءِ رھندي، پر مان غلط هوس.",
+            "ur": "وہ میرا شمال، میرا جنوب، میرا مشرق اور مغرب تھا، میرا کام کا ہفتہ اور میرا اتوار کا آرام تھا، میرا دوپہر، میری آدھی رات، میری بات، میرا گیت تھا۔ میں نے سوچا تھا کہ محبت ہمیشہ کے لیے رہے گی، لیکن میں غلط تھا۔"
+          },
+          {
+            "en": "The stars are not wanted now: put out every one; Pack up the moon and dismantle the sun; Pour away the ocean and sweep up the wood, For nothing now can ever come to any good.",
+            "sd": "تارن جي هاڻي ڪا ضرورت نه آهي، سڀني کي وسائي ڇڏيو. چنڊ کي لپيٽي ڇڏيو ۽ سج کي ٽوڙي ڇڏيو. سمنڊ کي وهائي ڇڏيو ۽ ٻيلو صاف ڪري ڇڏيو، ڇاڪاڻ ته هاڻي ڪجهه به ڪڏهن به چڱو نه ٿيندو.",
+            "ur": "ستاروں کی اب کوئی ضرورت نہیں ہے، ان سب کو بجھا دو۔ چاند کو لپیٹ لو اور سورج کو توڑ دو۔ سمندر کو بہا دو اور جنگل کو صاف کر دو، کیونکہ اب کچھ بھی کبھی اچھا نہیں ہو سکتا۔"
+          }
+        ],
+        "section": "B.6",
+        "unit": 13,
+        "unitTitle": "Poetry"
+      },
+      {
+        "bookPages": "245",
+        "lesson": "Selected Verses from Sur Sasui (Hussaini)",
+        "paragraphs": [
+          {
+            "en": "Burn as long as you live, choice there is none, Whether it be hot or cold place to rest in none.",
+            "sd": "جيستائين جيئرو آهين، سڙندي گذار، ٻيو ڪو چارو نه آهي. ڀلي گرمي هجي يا ٿڌ، آرام ڪرڻ لاءِ ڪا جاءِ نه آهي.",
+            "ur": "جب تک زندہ ہو، جلتے رہو، کوئی اور چارہ نہیں ہے۔ چاہے گرمی ہو یا سردی، آرام کرنے کی کوئی جگہ نہیں ہے۔"
+          },
+          {
+            "en": "Whether hot or cold, march on, there is no time to rest, Lest darkness fails, you fail to find beloveds tracks.",
+            "sd": "ڀلي گرمي هجي يا ٿڌ، اڳتي وڌ، آرام ڪرڻ جو وقت نه آهي، نه ته اوندهه ٿي ويندي ۽ تون پنهنجي محبوب جا نشان نه ڳولي سگھندين.",
+            "ur": "چاہے گرمی ہو یا سردی، آگے بڑھو، آرام کرنے کا وقت نہیں ہے، ورنہ اندھیرا چھا جائے گا اور تم اپنے محبوب کے نشان نہیں ڈھونڈ سکو گے۔"
+          },
+          {
+            "en": "“Oh mother! Hot is the ground beneath my feet, Fire of love within me burns” burning in double flames, she yarns.",
+            "sd": "اي امان! منهنجي پيرن هيٺان زمين گرم آهي، منهنجي اندر محبت جي باهه ٻري ٿي، ٻيڻي باهه ۾ سڙندي هوءَ تڙپي ٿي.",
+            "ur": "اے اماں! میرے پاؤں کے نیچے زمین گرم ہے، میرے اندر محبت کی آگ جل رہی ہے، دگنی آگ میں جلتے ہوئے وہ تڑپتی ہے۔"
+          },
+          {
+            "en": "If I ever forget my love, if his memory is ever erased from my heart, Then the desert blast may bring my end like desert lark’s",
+            "sd": "جيڪڏهن مان ڪڏهن به پنهنجي محبوب کي وساري ڇڏيان، جيڪڏهن سندس ياد ڪڏهن به منهنجي دل مان ميسارجي وڃي، ته پوءِ ريگستان جي گرم هوا منهنجو انت آڻي سگھي ٿي، جيئن ريگستان جي پکيءَ جو انت ايندو آهي.",
+            "ur": "اگر میں کبھی اپنے محبوب کو بھول جاؤں، اگر اس کی یاد کبھی میرے دل سے مٹ جائے، تو صحرا کی گرم ہوا میرا خاتمہ کر سکتی ہے، جیسے صحرا کے پرندے کا خاتمہ ہوتا ہے۔"
+          },
+          {
+            "en": "Tears from my eyes fall like drops of rain, What I consider love was in truth fire’s flames.",
+            "sd": "منهنجي اکين مان ڳوڙها مينهن جي ڦڙن وانگر ڪرن ٿا، جنهن کي مان محبت سمجھان ٿي، اهو سچ ۾ باهه جون لپٽون هيون.",
+            "ur": "میری آنکھوں سے آنسو بارش کے قطروں کی طرح گرتے ہیں، جسے میں محبت سمجھتی تھی، وہ سچ میں آگ کی لپٹیں تھیں۔"
+          }
+        ],
+        "section": "B.7",
+        "unit": 14,
+        "unitTitle": "Poetry"
+      },
+      {
+        "unit": 15,
+        "unitTitle": "Novel",
+        "lesson": "Great Expectations",
+        "section": "C.1",
+        "bookPages": "263-298",
+        "paragraphs": [
+          {
+            "en": "My father’s family name being Pirrip, and my given name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip. I know my family name from my father’s tombstone and from what my sister, Mrs. Joe Gargery, told me. Sadly, I never met my parents or saw any pictures of them because photography didn’t exist back then. Since my parents died when I was very young, my sister, Mrs. Joe Gargery, raised me. She was married to Joe Gargery, the village blacksmith. I lived with them in the marshes near the river, about 20 miles from the sea.",
+            "sd": "منهنجي پيءُ جو خانداني نالو پِرپ هو، ۽ منهنجو نالو فلپ هو، پر منهنجي ننڍڙي زبان ٻنهي نالن مان پپ کان وڌيڪ ڊگهو يا واضح ڪجهه به نه ٺاهي سگھي. تنهنڪري مون پاڻ کي پپ سڏيو، ۽ پوءِ سڀ مون کي پپ سڏڻ لڳا. مون کي پنهنجو خانداني نالو پنهنجي پيءُ جي قبر جي پٿر تان ۽ پنهنجي ڀيڻ مسز جو گارگري جي ٻڌايل ڳالهين مان خبر پئي. افسوس، مون پنهنجي ماءُ پيءُ کي ڪڏهن به نه ڏٺو ۽ نه ئي سندن ڪا تصوير ڏٺي، ڇاڪاڻ ته ان وقت فوٽوگرافي موجود ئي نه هئي. جڏهن مان ڏاڍو ننڍو هوس ته منهنجا ماءُ پيءُ گذاري ويا، تنهنڪري منهنجي ڀيڻ مسز جو گارگري مون کي پاليو. هوءَ ڳوٺ جي لوهار جو گارگري سان پرڻيل هئي. مان انهن سان درياهه ويجهو دلدل واري علائقي ۾ رھندو هوس، جيڪو سمنڊ کان اٽڪل ويهه ميل پري هو.",
+            "ur": "میرے والد کا خاندانی نام پرپ تھا اور میرا نام فلپ تھا، لیکن میری چھوٹی سی زبان ان دونوں ناموں سے پپ سے زیادہ لمبا یا واضح کچھ نہ بنا سکی۔ اس لیے میں نے خود کو پپ کہا اور پھر سب مجھے پپ کہنے لگے۔ مجھے اپنا خاندانی نام اپنے والد کی قبر کے کتبے سے اور اپنی بہن مسز جو گارگری کی بتائی ہوئی باتوں سے معلوم ہوا۔ افسوس، میں نے اپنے ماں باپ کو کبھی نہیں دیکھا اور نہ ان کی کوئی تصویر دیکھی، کیونکہ اس زمانے میں فوٹوگرافی موجود ہی نہیں تھی۔ جب میں بہت چھوٹا تھا تو میرے ماں باپ گزر گئے، اس لیے میری بہن مسز جو گارگری نے مجھے پالا۔ وہ گاؤں کے لوہار جو گارگری سے بیاہی ہوئی تھی۔ میں ان کے ساتھ دریا کے قریب دلدلی علاقے میں رہتا تھا، جو سمندر سے تقریباً بیس میل دور تھا۔"
+          },
+          {
+            "en": "My earliest vivid and strong memory of understanding things happened on a chilly, damp afternoon as evening approached. That’s when I realized for sure that this gloomy, weed-filled place was a churchyard—where my parents and brothers were buried. Beyond the churchyard were the empty, flat marshes, then the river, and far in the distance, the sea. I was just a small boy, frightened by it all, and I started to cry.",
+            "sd": "شين کي سمجھڻ جي منهنجي پهرين صاف ۽ مضبوط ياد هڪ ٿڌي، سيني واري منجھند تي ٿي، جڏهن شام ويجهو اچي رھي هئي. تڏهن مون کي پڪ ٿي ته هي اونداهي، گاهه سان ڀريل جاءِ قبرستان آهي—جتي منهنجا ماءُ پيءُ ۽ ڀائر دفن ٿيل آهن. قبرستان کان اڳتي خالي، سڌا دلدل وارا ميدان هئا، پوءِ درياهه، ۽ پري پري سمنڊ هو. مان رڳو هڪ ننڍڙو ڇوڪرو هوس، انهن سڀني شين کان ڊڄي ويو هوس، ۽ روئڻ لڳس.",
+            "ur": "چیزوں کو سمجھنے کی میری پہلی واضح اور مضبوط یاد ایک سرد، نم دوپہر کی ہے جب شام قریب آ رہی تھی۔ تب مجھے یقین ہو گیا کہ یہ تاریک، گھاس سے بھری جگہ قبرستان ہے—جہاں میرے ماں باپ اور بھائی دفن ہیں۔ قبرستان سے آگے خالی، ہموار دلدلی میدان تھے، پھر دریا، اور بہت دور سمندر تھا۔ میں بس ایک چھوٹا سا لڑکا تھا، ان سب چیزوں سے ڈر گیا تھا، اور رونے لگا۔"
+          },
+          {
+            "en": "Suddenly, a terrible voice shouted, “Be quiet!” A rough-looking man jumped up from behind the graves. “Stay still, you little devil, or I’ll cut your throat,” he threatened.",
+            "sd": "اوچتو، هڪ خوفناڪ آواز رڙ ڪري چيو، ”چپ ڪر!“ هڪ سخت شڪل وارو ماڻهو قبرن پٺيان اٿي بيٺو. ”ساڪت بيھ، اي ننڍڙا شيطان، نه ته مان تنهنجو ڳلو ڪٽيندس،“ هن ڌمڪي ڏني.",
+            "ur": "اچانک ایک خوفناک آواز نے چلا کر کہا، ”خاموش!“ ایک سخت شکل والا آدمی قبروں کے پیچھے سے اٹھ کھڑا ہوا۔ ”ساکت کھڑے رہو، اے چھوٹے شیطان، ورنہ میں تمہارا گلا کاٹ دوں گا،“ اس نے دھمکی دی۔"
+          },
+          {
+            "en": "The man wore old gray clothes, had an iron shackle on his leg, no hat, broken shoes, and a dirty cloth wrapped around his head. He was shivering from the cold and had trouble moving. He grabbed me by the chin.",
+            "sd": "ان ماڻهو پراڻا ڀورا ڪپڙا پاتا هئا، سندس پير ۾ لوهه جي زنجير هئي، مٿي تي ٽوپي نه هئي، جوتا ڦاٽل هئا، ۽ مٿي تي گندو ڪپڙو ويڙهيل هو. هو ٿڌ کان ڏڪي رھيو هو ۽ کيس هلڻ ۾ تڪليف ٿي رھي هئي. هن مون کي ٿُڏي کان پڪڙيو.",
+            "ur": "اس آدمی نے پرانے سرمئی کپڑے پہنے تھے، اس کی ٹانگ میں لوہے کی زنجیر تھی، سر پر ٹوپی نہیں تھی، جوتے پھٹے ہوئے تھے، اور سر پر گندا کپڑا لپٹا ہوا تھا۔ وہ سردی سے کانپ رہا تھا اور اسے چلنے میں تکلیف ہو رہی تھی۔ اس نے مجھے ٹھوڑی سے پکڑ لیا۔"
+          },
+          {
+            "en": "“Oh! Don’t cut my throat, sir!” I begged. “Pray don’t do it, sir.”",
+            "sd": "”اوهه! منهنجو ڳلو نه ڪٽيو، سائين!“ مون منت ڪئي. ”مهرباني ڪري ائين نه ڪريو، سائين.“",
+            "ur": "”اوہ! میرا گلا نہ کاٹو، صاحب!“ میں نے منت کی۔ ”خدا کے لیے ایسا نہ کرو، صاحب۔“"
+          },
+          {
+            "en": "“What’s your name?” he demanded.",
+            "sd": "”تنهنجو نالو ڇا آهي؟“ هن پڇيو.",
+            "ur": "”تمہارا نام کیا ہے؟“ اس نے پوچھا۔"
+          },
+          {
+            "en": "“Pip, sir,” I replied.",
+            "sd": "”پپ، سائين،“ مون جواب ڏنو.",
+            "ur": "”پپ، صاحب،“ میں نے جواب دیا۔"
+          },
+          {
+            "en": "“Say it again!” he ordered, staring at me.",
+            "sd": "”ٻيهر چئو!“ هن حڪم ڏنو، مون ڏانهن نهاريندي.",
+            "ur": "”دوبارہ کہو!“ اس نے حکم دیا، مجھے گھورتے ہوئے۔"
+          },
+          {
+            "en": "“Pip. Pip, sir,” I repeated.",
+            "sd": "”پپ. پپ، سائين،“ مون ورجايو.",
+            "ur": "”پپ۔ پپ، صاحب،“ میں نے دہرایا۔"
+          },
+          {
+            "en": "“Where do you live? Point out the place!”",
+            "sd": "”تون ڪٿي ٿو رھين؟ جاءِ ڏيکار!“",
+            "ur": "”تم کہاں رہتے ہو؟ جگہ دکھاؤ!“"
+          },
+          {
+            "en": "I pointed to our village, a mile or more away. I tried not to cry.",
+            "sd": "مون پنهنجي ڳوٺ ڏانهن اشارو ڪيو، جيڪو هڪ ميل يا ان کان وڌيڪ پري هو. مون روئڻ نه ڪرڻ جي ڪوشش ڪئي.",
+            "ur": "میں نے اپنے گاؤں کی طرف اشارہ کیا، جو ایک میل یا اس سے زیادہ دور تھا۔ میں نے رونے کی کوشش نہ کی۔"
+          },
+          {
+            "en": "The man stared at me for a moment, then suddenly grabbed me, turned me upside down, and emptied my pockets. The only thing in them was a piece of bread.",
+            "sd": "ان ماڻهو هڪ لمحي لاءِ مون ڏانهن نهاريو، پوءِ اوچتو مون کي پڪڙيو، مون کي اونڌو ڪري ڇڏيو، ۽ منهنجا کيسا خالي ڪري ڇڏيا. انهن ۾ رڳو ماني جو هڪ ٽڪرو هو.",
+            "ur": "اس آدمی نے ایک لمحے کے لیے مجھے گھورا، پھر اچانک مجھے پکڑا، مجھے الٹا کر دیا، اور میری جیبیں خالی کر دیں۔ ان میں صرف روٹی کا ایک ٹکڑا تھا۔"
+          },
+          {
+            "en": "He was so quick and strong that it felt like the whole church spun around, and for a moment, I saw the steeple below my feet. When everything felt normal again, I found myself sitting on a tall tombstone, shaking with fear, while he hungrily devoured the bread.",
+            "sd": "هو ايترو تيز ۽ مضبوط هو جو مون کي لڳو ڄڻ سڄو گرجا گھر گھمي رھيو آهي، ۽ هڪ لمحي لاءِ مون کي پنهنجي پيرن هيٺان گرجا گھر جو مينار نظر آيو. جڏهن سڀ ڪجهه وري ٺيڪ ٿي ويو، ته مون پاڻ کي هڪ ڊگهي قبر جي پٿر تي ويٺل ڏٺو، ڊپ کان ڏڪندي، جڏهن ته هو بکايل ٿي ماني کائي رھيو هو.",
+            "ur": "وہ اتنا تیز اور طاقتور تھا کہ مجھے لگا جیسے پورا گرجا گھر گھوم رہا ہے، اور ایک لمحے کے لیے مجھے اپنے پاؤں کے نیچے گرجا گھر کا مینار نظر آیا۔ جب سب کچھ پھر معمول پر آ گیا، تو میں نے خود کو ایک اونچے قبر کے پتھر پر بیٹھا پایا، خوف سے کانپتے ہوئے، جبکہ وہ بھوکا ہو کر روٹی کھا رہا تھا۔"
+          },
+          {
+            "en": "“Now,” said the man, “where are your mother and father?”",
+            "sd": "”هاڻي،“ ان ماڻهو چيو، ”تنهنجي ماءُ ۽ پيءُ ڪٿي آهن؟“",
+            "ur": "”اب،“ اس آدمی نے کہا، ”تمہاری ماں اور باپ کہاں ہیں؟“"
+          },
+          {
+            "en": "“Why, over there, sir!” I said, pointing to their gravestones.",
+            "sd": "”اوهه، اتي، سائين!“ مون چيو، سندن قبرن جي پٿرن ڏانهن اشارو ڪندي.",
+            "ur": "”اوہ، وہاں، صاحب!“ میں نے کہا، ان کی قبروں کے پتھروں کی طرف اشارہ کرتے ہوئے۔"
+          },
+          {
+            "en": "“Then who do ye live with—that is if I let ye live?”",
+            "sd": "”پوءِ تون ڪنهن سان ٿو رھين—يعني جيڪڏهن مان توکي جيئرو ڇڏيان؟“",
+            "ur": "”پھر تم کس کے ساتھ رہتے ہو—یعنی اگر میں تمہیں زندہ چھوڑ دوں؟“"
+          },
+          {
+            "en": "“My sister, sir—wife of Joe Gargery, the blacksmith.”",
+            "sd": "”منهنجي ڀيڻ، سائين—جو گارگري، لوهار جي زال.“",
+            "ur": "”میری بہن، صاحب—جو گارگری، لوہار کی بیوی۔“"
+          },
+          {
+            "en": "“Blacksmith, eh?” said he, looking at the iron on his leg. Then he took down my arms and tipped me back. “Get me a file,” he says. “And get me food, or I’ll have your heart and liver out! Bring them to me there tomorrow morning.” He pointed to a bank of earth in the distance. “Don’t say a word about me—or your heart and your liver shall be roasted and ate!”",
+            "sd": "”لوهار، ڇا؟“ هن چيو، پنهنجي پير جي لوهه ڏانهن نهاريندي. پوءِ هن منهنجا هٿ هيٺ ڪيا ۽ مون کي پوئتي جھڪايو. ”مون کي هڪ رتي آڻي ڏي،“ هن چيو. ”۽ مون کي کاڌو آڻي ڏي، نه ته مان تنهنجي دل ۽ جگر ڪڍي وٺندس! سڀاڻي صبح جو اهي اتي مون وٽ آڻ.“ هن پري مٽي جي هڪ ڍير ڏانهن اشارو ڪيو. ”منهنجي باري ۾ هڪ لفظ به نه چئجانءِ—نه ته تنهنجي دل ۽ جگر ڀڃي کائي ويندي!“",
+            "ur": "”لوہار، اچھا؟“ اس نے کہا، اپنی ٹانگ کے لوہے کی طرف دیکھتے ہوئے۔ پھر اس نے میرے بازو نیچے کیے اور مجھے پیچھے جھکا دیا۔ ”میرے لیے ایک ریتی لاؤ،“ اس نے کہا۔ ”اور میرے لیے کھانا لاؤ، ورنہ میں تمہارا دل اور جگر نکال لوں گا! کل صبح وہ وہاں میرے پاس لانا۔“ اس نے دور مٹی کے ایک ڈھیر کی طرف اشارہ کیا۔ ”میرے بارے میں ایک لفظ بھی نہ کہنا—ورنہ تمہارا دل اور جگر بھون کر کھا لیا جائے گا!“"
+          },
+          {
+            "en": "“You might think I’m alone, but I’m not. There’s a young man hiding nearby, and compared to him, I’m like an angel. He’s listening to every word I say.”",
+            "sd": "”توکي لڳندو هوندو ته مان اڪيلو آهيان، پر مان اڪيلو ناهيان. ويجهو ئي هڪ نوجوان لڪل آهي، ۽ سندس مقابلي ۾ مان فرشتي جهڙو آهيان. هو منهنجي هر ڳاله ٻڌي رھيو آهي.“",
+            "ur": "”تم سمجھتے ہو گے کہ میں اکیلا ہوں، لیکن میں اکیلا نہیں ہوں۔ قریب ہی ایک نوجوان چھپا ہوا ہے، اور اس کے مقابلے میں میں فرشتے جیسا ہوں۔ وہ میری ہر بات سن رہا ہے۔“"
+          },
+          {
+            "en": "“That young man has a way—a special, terrible way—of getting to a boy. Not just finding him, but reaching right into his heart and liver. There’s no use trying to hide from him. A boy might lock his door, curl up in bed, pull the blankets over his head, and believe he’s safe. But that young man will creep in, slowly and silently, until he reaches him... and tears him open. Right now, I’m the only thing stopping him from coming after you. And let me tell you, it’s not easy holding him back. So, what do you say?”",
+            "sd": "”ان نوجوان وٽ ڇوڪري تائين پهچڻ جو هڪ طريقو آهي—هڪ خاص، خوفناڪ طريقو. رڳو کيس ڳولڻ نه، پر سڌو سندس دل ۽ جگر تائين پهچڻ. هن کان لڪڻ جي ڪا به فائدي ناهي. هڪ ڇوڪرو پنهنجو در بند ڪري، بستري ۾ ويڙهجي، ڪمبل مٿي تي ڪري، ۽ سمجھي ته هو محفوظ آهي. پر اهو نوجوان آهستي آهستي، خاموشي سان اندر گھڙي ايندو، جيستائين هو ان تائين نه پهچي... ۽ کيس چيري ڇڏي. هن وقت، مان ئي واحد شيءِ آهيان جيڪو کيس تنهنجي پٺيان اچڻ کان روڪي رھيو آهي. ۽ مان توکي ٻڌايان ته کيس روڪڻ آسان ناهي. تنهنڪري، تنهنجو ڇا خيال آهي؟“",
+            "ur": "”اس نوجوان کے پاس لڑکے تک پہنچنے کا ایک طریقہ ہے—ایک خاص، خوفناک طریقہ۔ صرف اسے ڈھونڈنا نہیں، بلکہ سیدھا اس کے دل اور جگر تک پہنچنا۔ اس سے چھپنے کا کوئی فائدہ نہیں۔ ایک لڑکا اپنا دروازہ بند کر لے، بستر میں سمٹ جائے، کمبل سر پر ڈال لے، اور سمجھے کہ وہ محفوظ ہے۔ لیکن وہ نوجوان آہستہ آہستہ، خاموشی سے اندر گھس آئے گا، یہاں تک کہ وہ اس تک پہنچ جائے... اور اسے چیر ڈالے۔ اس وقت، میں ہی واحد چیز ہوں جو اسے تمہارے پیچھے آنے سے روک رہا ہے۔ اور میں تمہیں بتا دوں کہ اسے روکنا آسان نہیں۔ تو، تم کیا کہتے ہو؟“"
+          },
+          {
+            "en": "Terrified, I promised to bring him a file and whatever food I could find.",
+            "sd": "ڊڄي ويل، مون واعدو ڪيو ته مان کيس هڪ رتي ۽ جيڪو به کاڌو ملي سگھيو اهو آڻي ڏيندس.",
+            "ur": "ڈرے ہوئے، میں نے وعدہ کیا کہ میں اسے ایک ریتی اور جو بھی کھانا مل سکا وہ لاؤں گا۔"
+          },
+          {
+            "en": "“Say ‘May God strike me dead if I don’t,’” he demanded.",
+            "sd": "”چئو ته ’جيڪڏهن مان ائين نه ڪريان ته خدا مون کي ماري ڇڏي،‘“ هن مطالبو ڪيو.",
+            "ur": "”کہو کہ ’اگر میں ایسا نہ کروں تو خدا مجھے مار ڈالے،‘“ اس نے مطالبہ کیا۔"
+          },
+          {
+            "en": "I repeated his words, and he let me go.",
+            "sd": "مون سندس لفظ ورجايا، ۽ هن مون کي ڇڏي ڏنو.",
+            "ur": "میں نے اس کے الفاظ دہرائے، اور اس نے مجھے جانے دیا۔"
+          },
+          {
+            "en": "“Now, remember what you promised,” he said. “And don’t forget about the other man.”",
+            "sd": "”هاڻي، جيڪو واعدو ڪيو اٿئي اهو ياد رکجانءِ،“ هن چيو. ”۽ ٻئي ماڻهو کي نه وسارين.“",
+            "ur": "”اب، جو وعدہ کیا ہے اسے یاد رکھنا،“ اس نے کہا۔ ”اور دوسرے آدمی کو مت بھولنا۔“"
+          },
+          {
+            "en": "“G-good night, sir,” I stammered.",
+            "sd": "”ش-شب بخير، سائين،“ مون ٿڪندي چيو.",
+            "ur": "”ش-شب بخیر، صاحب،“ میں نے ہکلاتے ہوئے کہا۔"
+          },
+          {
+            "en": "“Enough of that!” he snapped.",
+            "sd": "”بس ڪر اهو!“ هن ڪاوڙ ۾ چيو.",
+            "ur": "”بس کرو یہ!“ اس نے غصے سے کہا۔"
+          },
+          {
+            "en": "Still shaking, I watched as he hugged himself for warmth and limped toward the low church wall. As he moved through the weeds and brambles, he looked to me like he was trying to escape from the hands of the dead, reaching up from their graves to grab his ankle and pull him down. When he came to the low church wall, he got over it, like a man whose legs were numbed and stiff, and then turned round to look for me. When I saw him turning, I set my face towards home and ran as fast as I could. But after a moment, I glanced back and saw him walking toward the river again. He was still holding himself tightly with both arms and carefully stepping over the large stones scattered across the marshes. I looked around for the scary young man but didn’t see him anywhere. Now feeling frightened again, I ran all the way home without stopping.",
+            "sd": "اڃا ڏڪندي، مون ڏٺو ته هو گرمي لاءِ پاڻ کي ڀاڪر پائي رھيو هو ۽ هيٺين گرجا گھر جي ڀت ڏانهن لڏندي هلي رھيو هو. جڏهن هو گاهه ۽ ڪنڊن مان گذري رھيو هو، ته مون کي لڳو ڄڻ هو مئلن جي هٿن کان ڀڄڻ جي ڪوشش ڪري رھيو آهي، جيڪي سندن قبرن مان مٿي ٿي سندس ٽکڻي کي پڪڙي کيس هيٺ ڇڪي رھيا آهن. جڏهن هو هيٺين گرجا گھر جي ڀت وٽ آيو، ته هو ان تان لنگهي ويو، هڪ اهڙي ماڻهو وانگر جنهن جون ٽنگون سُن ۽ سخت ٿي ويون هجن، ۽ پوءِ مون کي ڳولڻ لاءِ پوئتي مڙيو. جڏهن مون ڏٺو ته هو مڙي رھيو آهي، ته مون گھر ڏانهن منهن ڪيو ۽ جيترو تيز ٿي سگھيو ڊوڙيس. پر هڪ لمحي کان پوءِ، مون پوئتي نهاريو ۽ ڏٺو ته هو وري درياهه ڏانهن هلي رھيو آهي. هو اڃا پاڻ کي ٻنهي هٿن سان مضبوطي سان جهلي رھيو هو ۽ دلدل ۾ پکڙيل وڏن پٿرن مٿان احتياط سان قدم رکي رھيو هو. مون ڊيڄاريندڙ نوجوان کي چوڌاري ڳوليو پر کيس ڪٿي به نه ڏٺو. هاڻي وري ڊڄي، مان بنا رڪجي سڄو رستو گھر تائين ڊوڙيس.",
+            "ur": "ابھی کانپتے ہوئے، میں نے دیکھا کہ وہ گرمی کے لیے خود کو بھینچے ہوئے تھا اور نیچی گرجا گھر کی دیوار کی طرف لنگڑاتے ہوئے جا رہا تھا۔ جب وہ گھاس اور کانٹوں سے گزر رہا تھا، تو مجھے لگا جیسے وہ مُردوں کے ہاتھوں سے بچنے کی کوشش کر رہا ہے، جو اپنی قبروں سے اوپر اٹھ کر اس کے ٹخنے کو پکڑ کر اسے نیچے کھینچ رہے ہیں۔ جب وہ نیچی گرجا گھر کی دیوار تک آیا، تو وہ اس پر سے گزر گیا، ایک ایسے آدمی کی طرح جس کی ٹانگیں سن اور سخت ہو گئی ہوں، اور پھر مجھے ڈھونڈنے کے لیے مڑا۔ جب میں نے دیکھا کہ وہ مڑ رہا ہے، تو میں نے گھر کی طرف منہ کیا اور جتنا تیز ہو سکا دوڑا۔ لیکن ایک لمحے بعد، میں نے پیچھے دیکھا اور دیکھا کہ وہ پھر دریا کی طرف جا رہا ہے۔ وہ ابھی اپنے آپ کو دونوں بازوؤں سے مضبوطی سے پکڑے ہوئے تھا اور دلدل میں بکھرے بڑے پتھروں پر احتیاط سے قدم رکھ رہا تھا۔ میں نے خوفناک نوجوان کو چاروں طرف ڈھونڈا لیکن اسے کہیں نہیں دیکھا۔ اب پھر ڈر کر، میں بغیر رکے سارا راستہ گھر تک دوڑا۔"
+          },
+          {
+            "en": "My sister, Mrs. Joe Gargery, was more than twenty years older than me. She was very proud of herself and had a great reputation with the neighbors because she had raised me “by hand.” At first, I didn’t understand what “by hand” meant, but since she had a strong and heavy hand and often used it to hit both me and her husband, Joe, I thought it meant she raised us by hitting us. I believed that both Joe and I were brought up “by hand.”",
+            "sd": "منهنجي ڀيڻ، مسز جو گارگري، مون کان ويهه سالن کان وڌيڪ وڏي هئي. هوءَ پاڻ تي ڏاڍي فخر ڪندي هئي ۽ پاڙيسرين ۾ سندس وڏي عزت هئي، ڇاڪاڻ ته هن مون کي ”هٿ سان“ پاليو هو. پهريان، مون کي سمجھ ۾ نه آيو ته ”هٿ سان“ جو مطلب ڇا آهي، پر جڏهن کان سندس هٿ مضبوط ۽ ڳرو هو ۽ هو اڪثر ان سان مون کي ۽ پنهنجي مڙس جو کي ماريندي هئي، ته مون سمجھيو ته ان جو مطلب آهي ته هن اسان کي ماري ماري پاليو آهي. مون کي يقين هو ته جو ۽ مان ٻئي ”هٿ سان“ پاليا ويا آهيون.",
+            "ur": "میری بہن، مسز جو گارگری، مجھ سے بیس سال سے زیادہ بڑی تھی۔ وہ خود پر بہت فخر کرتی تھی اور پڑوسیوں میں اس کی بڑی عزت تھی، کیونکہ اس نے مجھے ”ہاتھ سے“ پالا تھا۔ پہلے، مجھے سمجھ نہیں آیا کہ ”ہاتھ سے“ کا کیا مطلب ہے، لیکن چونکہ اس کا ہاتھ مضبوط اور بھاری تھا اور وہ اکثر اس سے مجھے اور اپنے شوہر جو کو مارتی تھی، تو میں نے سمجھا کہ اس کا مطلب ہے کہ اس نے ہمیں مار مار کر پالا ہے۔ مجھے یقین تھا کہ جو اور میں دونوں ”ہاتھ سے“ پلے ہیں۔"
+          },
+          {
+            "en": "My sister wasn’t a pretty woman, and I always had this idea that she must have forced Joe to marry her somehow. Joe, on the other hand, was a kind and gentle man. He had light, curly hair and blue eyes that sometimes looked like they had mixed with the white parts of his eyes. He was easygoing, good-natured, and sweet-tempered, but also a bit foolish. He was very strong, like the mythical Hercules, but he also had weaknesses, just like Hercules.",
+            "sd": "منهنجي ڀيڻ سهڻي عورت نه هئي، ۽ مون کي هميشه اهو خيال هوندو هو ته هن ڪنهن نه ڪنهن طرح جو کي پاڻ سان شادي ڪرڻ تي مجبور ڪيو هوندو. جو، ٻئي طرف، هڪ مهربان ۽ نرم دل ماڻهو هو. سندس هلڪا، گھنگرو وار ۽ نيرا اکيون هيون، جيڪي ڪڏهن ڪڏهن ائين لڳنديون هيون ڄڻ اهي سندس اکين جي اڇي حصي سان ملي ويون هجن. هو آرام پسند، سٺي طبيعت وارو ۽ مٺي مزاج وارو هو، پر ٿورو بيوقوف به هو. هو ڏاڍو مضبوط هو، افسانوي هرڪيولس جهڙو، پر هن ۾ به ڪمزوريون هيون، بلڪل هرڪيولس جهڙيون.",
+            "ur": "میری بہن خوبصورت عورت نہیں تھی، اور مجھے ہمیشہ یہ خیال رہتا تھا کہ اس نے کسی نہ کسی طرح جو کو خود سے شادی کرنے پر مجبور کیا ہوگا۔ جو، دوسری طرف، ایک مہربان اور نرم دل آدمی تھا۔ اس کے ہلکے، گھنگھریالے بال اور نیلی آنکھیں تھیں، جو کبھی کبھی ایسا لگتا تھا جیسے وہ اس کی آنکھوں کے سفید حصے سے مل گئی ہوں۔ وہ آرام پسند، اچھے مزاج والا اور میٹھے طبیعت والا تھا، لیکن تھوڑا بے وقوف بھی تھا۔ وہ بہت طاقتور تھا، افسانوی ہرکولیس جیسا، لیکن اس میں بھی کمزوریاں تھیں، بالکل ہرکولیس جیسی۔"
+          },
+          {
+            "en": "When I ran home from the churchyard, Joe’s forge, which was joined to our house, was shut up, and Joe was sitting alone in the kitchen. Since we were both often victims of Mrs. Joe’s temper, he warned me that she had been out looking for me many times and that she had a stick with her. Soon after, he saw her coming and told me to hide behind the door. I quickly did as he said.",
+            "sd": "جڏهن مان قبرستان کان گھر ڊوڙي آيس، ته جو جي ڀٺي، جيڪا اسان جي گھر سان ڳنڍيل هئي، بند هئي، ۽ جو باورچي خاني ۾ اڪيلو ويٺو هو. جڏهن کان اسان ٻئي اڪثر مسز جو جي ڪاوڙ جو شڪار ٿيندا هئاسين، هن مون کي خبردار ڪيو ته هوءَ مون کي ڳولڻ لاءِ ڪيترائي ڀيرا ٻاهر وئي هئي ۽ سندس هٿ ۾ لٺ هئي. ٿوري دير کان پوءِ، هن کيس ايندي ڏٺو ۽ مون کي دروازي پٺيان لڪڻ لاءِ چيو. مون جلدي سندس چوڻ تي عمل ڪيو.",
+            "ur": "جب میں قبرستان سے گھر دوڑ کر آیا، تو جو کی بھٹی، جو ہمارے گھر سے جڑی ہوئی تھی، بند تھی، اور جو باورچی خانے میں اکیلا بیٹھا تھا۔ چونکہ ہم دونوں اکثر مسز جو کے غصے کا شکار ہوتے تھے، اس نے مجھے خبردار کیا کہ وہ مجھے ڈھونڈنے کے لیے کئی بار باہر گئی تھی اور اس کے ہاتھ میں لاٹھی تھی۔ تھوڑی دیر بعد، اس نے اسے آتے دیکھا اور مجھے دروازے کے پیچھے چھپنے کو کہا۔ میں نے جلدی اس کی بات پر عمل کیا۔"
+          },
+          {
+            "en": "When Mrs. Joe threw the door open, she found me hiding behind it. She immediately started hitting me with her stick. Finally, she threw me toward Joe, who was just happy to have me safe. He quickly put himself between her and me to protect me.",
+            "sd": "جڏهن مسز جو دروازو کولي ڇڏيو، ته هن مون کي ان پٺيان لڪل ڏٺو. هن فوراً مون کي پنهنجي لٺ سان مارڻ شروع ڪيو. آخر ۾، هن مون کي جو ڏانهن اڇلايو، جيڪو رڳو مون کي محفوظ ڏسي خوش هو. هن جلدي پاڻ کي منهنجي حفاظت لاءِ هن ۽ منهنجي وچ ۾ رکيو.",
+            "ur": "جب مسز جو نے دروازہ کھول دیا، تو اس نے مجھے اس کے پیچھے چھپا ہوا پایا۔ اس نے فوراً مجھے اپنی لاٹھی سے مارنا شروع کر دیا۔ آخر میں، اس نے مجھے جو کی طرف دھکیل دیا، جو بس مجھے محفوظ دیکھ کر خوش تھا۔ اس نے جلدی خود کو میری حفاظت کے لیے اس کے اور میرے درمیان رکھ لیا۔"
+          },
+          {
+            "en": "“Where have you been, you little troublemaker?” Mrs. Joe shouted, stomping her foot. “Tell me right now what you’ve been doing to make me so worried, or I’ll drag you out of that corner even if you were 50 Pips and Joe was 500 Gargeries!”",
+            "sd": "”تون ڪٿي ويو هئين، اي ننڍڙا شرارتي؟“ مسز جو رڙ ڪري چيو، پير زمين تي هڻندي. ”مون کي هاڻي ئي ٻڌاءِ ته تون ڇا پيو ڪرين جو مون کي ايترو پريشان ڪيو اٿئي، نه ته مان توکي ان ڪنڊ مان گھلي ٻاهر ڪڍندس، جيتوڻيڪ تون 50 پپ هجين ۽ جو 500 گارگري هجي!“",
+            "ur": "”تم کہاں گئے تھے، اے چھوٹے شرارتی؟“ مسز جو نے چلا کر کہا، پاؤں زمین پر مارتے ہوئے۔ ”مجھے ابھی بتاؤ کہ تم کیا کر رہے تھے جس سے میں اتنی پریشان ہوئی، ورنہ میں تمہیں اس کونے سے گھسیٹ کر باہر نکالوں گی، چاہے تم 50 پپ ہو اور جو 500 گارگری ہو!“"
+          },
+          {
+            "en": "“I was only at the churchyard,” I said, crying and rubbing my eyes.",
+            "sd": "”مان رڳو قبرستان ۾ هوس،“ مون چيو، روئيندي ۽ پنهنجون اکيون ملندي.",
+            "ur": "”میں صرف قبرستان میں تھا،“ میں نے کہا، روتے ہوئے اور اپنی آنکھیں ملتے ہوئے۔"
+          },
+          {
+            "en": "“The churchyard!” my sister repeated. “If it weren’t for me, you’d have been in the churchyard long ago, buried and gone!”",
+            "sd": "”قبرستان!“ منهنجي ڀيڻ ورجايو. ”جيڪڏهن مان نه هجان ها، ته تون گھڻو اڳي ئي قبرستان ۾ هجين، دفن ٿيل ۽ ختم!“",
+            "ur": "”قبرستان!“ میری بہن نے دہرایا۔ ”اگر میں نہ ہوتی، تو تم بہت پہلے ہی قبرستان میں ہوتے، دفن اور ختم!“"
+          },
+          {
+            "en": "She turned away and started making tea. She buttered a loaf of bread, cut a thick slice, and then cut it into two halves. She gave one half to Joe and the other half to me. Even though I was hungry, I didn’t eat my bread because I needed to save it for the scary man I had met on the marshes and his even scarier friend. When Joe wasn’t looking, I hid the bread and butter in the leg of my trousers. Joe was surprised to see my bread disappear so quickly and thought I had swallowed it all in one bite. Mrs. Joe believed the same thing and insisted on giving me a big spoonful of a horrible medicine called “Tar Water,” which she forced down my throat.",
+            "sd": "هوءَ منهن موڙي چانه ٺاهڻ لڳي. هن ماني جي هڪ ماني تي مکڻ لڳايو، هڪ ٿلهو ٽڪرو ڪٽيو، ۽ پوءِ ان کي ٻن اڌن ۾ ڪٽيو. هن هڪ اڌ جو کي ڏنو ۽ ٻيو اڌ مون کي. جيتوڻيڪ مون کي بک لڳي هئي، مون پنهنجي ماني نه کاڌي، ڇاڪاڻ ته مون کي اها ان ڊيڄاريندڙ ماڻهو لاءِ بچائڻي هئي جنهن کي مان دلدل ۾ مليو هوس ۽ سندس اڃا وڌيڪ ڊيڄاريندڙ دوست لاءِ. جڏهن جو نه ڏسي رھيو هو، ته مون ماني ۽ مکڻ پنهنجي پتلون جي پائنچي ۾ لڪايو. جو حيران ٿي ويو ته منهنجي ماني ايتري جلدي ڪيئن غائب ٿي وئي ۽ سمجھيو ته مون اها هڪ ئي گرهي ۾ ڳڙڪائي ڇڏي آهي. مسز جو به ساڳيو ئي سمجھيو ۽ زور ڀري مون کي ”تار واٽر“ نالي هڪ خراب دوا جو وڏو چمچو ڏنو، جيڪو هن زوري منهنجي ڳلي ۾ وجهي ڇڏيو.",
+            "ur": "وہ منہ موڑ کر چائے بنانے لگی۔ اس نے روٹی کی ایک روٹی پر مکھن لگایا، ایک موٹا ٹکڑا کاٹا، اور پھر اسے دو آدھے حصوں میں کاٹ دیا۔ اس نے ایک آدھا جو کو دیا اور دوسرا آدھا مجھے۔ اگرچہ مجھے بھوک لگی تھی، میں نے اپنی روٹی نہیں کھائی، کیونکہ مجھے وہ اس ڈراؤنے آدمی کے لیے بچانی تھی جس سے میں دلدل میں ملا تھا اور اس کے اور بھی ڈراؤنے دوست کے لیے۔ جب جو نہیں دیکھ رہا تھا، تو میں نے روٹی اور مکھن اپنی پتلون کی ٹانگ میں چھپا دیا۔ جو حیران ہوا کہ میری روٹی اتنی جلدی کیسے غائب ہو گئی اور سمجھا کہ میں نے اسے ایک ہی لقمے میں نگل لیا ہے۔ مسز جو نے بھی یہی سمجھا اور زور دے کر مجھے ”تار واٹر“ نامی ایک خراب دوا کا بڑا چمچ دیا، جو اس نے زبردستی میرے گلے میں ڈال دیا۔"
+          },
+          {
+            "en": "I felt guilty because I was planning to steal from Mrs. Joe, and I was so worried about keeping my bread hidden that it almost drove me crazy. Luckily, I managed to sneak away and hide the bread safely in my bedroom.",
+            "sd": "مون کي ڏوهه محسوس ٿيو، ڇاڪاڻ ته مان مسز جو کان چوري ڪرڻ جو ارادو ڪري رھيو هوس، ۽ مان پنهنجي ماني لڪائڻ بابت ايترو پريشان هوس جو اهو مون کي لڳ ڀڳ چريو ڪري ڇڏي ها. خوشقسمتي سان، مان چوري چوري ڀڄي ويس ۽ ماني کي پنهنجي ڪمري ۾ محفوظ طور لڪائي ڇڏيم.",
+            "ur": "مجھے گناہ محسوس ہوا، کیونکہ میں مسز جو سے چوری کرنے کا ارادہ کر رہا تھا، اور میں اپنی روٹی چھپانے کے بارے میں اتنا پریشان تھا کہ یہ مجھے تقریباً پاگل کر دیتا۔ خوش قسمتی سے، میں چپکے سے نکل گیا اور روٹی کو اپنے کمرے میں محفوظ طریقے سے چھپا دیا۔"
+          },
+          {
+            "en": "Later, I heard the sound of big guns being fired. I asked Joe what it meant, and he told me, “Another prisoner has escaped. There was a convict who escaped last night from the prison ships, and they fired the guns as a warning. Now it seems they’re warning about another one.”",
+            "sd": "پوءِ، مون کي وڏين توپن جي فائر ٿيڻ جو آواز ٻڌڻ ۾ آيو. مون جو کان پڇيو ته ان جو مطلب ڇا آهي، ۽ هن مون کي ٻڌايو، ”هڪ ٻيو قيدي ڀڄي ويو آهي. گذريل رات هڪ مجرم قيد واري جهازن مان ڀڄي ويو هو، ۽ انهن خبردار ڪرڻ لاءِ توپون هلايون هيون. هاڻي لڳي ٿو ته اهي ٻئي بابت خبردار ڪري رھيا آهن.“",
+            "ur": "بعد میں، مجھے بڑی توپوں کے چلنے کی آواز سنائی دی۔ میں نے جو سے پوچھا کہ اس کا کیا مطلب ہے، اور اس نے مجھے بتایا، ”ایک اور قیدی بھاگ گیا ہے۔ گزشتہ رات ایک مجرم قید والے جہازوں سے بھاگ گیا تھا، اور انہوں نے خبردار کرنے کے لیے توپیں چلائی تھیں۔ اب لگتا ہے کہ وہ دوسرے کے بارے میں خبردار کر رہے ہیں۔“"
+          },
+          {
+            "en": "I kept asking Joe questions about convicts and prison ships, which made Mrs. Joe lose her patience. She told me that people were put on those ships because they murdered, robbed, and lied—and that they always started by asking too many questions. This scared me because I had been asking a lot of questions, and I was planning to rob Mrs. Joe. I felt like I was already on my way to becoming a criminal. That night, I had a restless sleep filled with scary dreams",
+            "sd": "مان جو کان مجرمن ۽ قيد واري جهازن بابت سوال پڇندو رھيس، جنهن سان مسز جو جو صبر ختم ٿي ويو. هن مون کي ٻڌايو ته ماڻهن کي انهن جهازن تي ان ڪري رکيو ويندو هو جو اهي قتل ڪندا هئا، چوري ڪندا هئا، ۽ ڪوڙ ڳالهائيندا هئا—۽ اهي هميشه گھڻا سوال پڇڻ سان شروع ڪندا هئا. ان مان مون کي ڊپ لڳو، ڇاڪاڻ ته مان گھڻا سوال پڇي رھيو هوس، ۽ مان مسز جو کي لُٽڻ جو ارادو ڪري رھيو هوس. مون کي لڳو ڄڻ مان اڳي ئي مجرم بڻجڻ جي رستي تي آهيان. ان رات، مون کي ڊيڄاريندڙ خوابن سان ڀريل بي آرام ننڊ آئي",
+            "ur": "میں جو سے مجرموں اور قید والے جہازوں کے بارے میں سوالات پوچھتا رہا، جس سے مسز جو کا صبر ختم ہو گیا۔ اس نے مجھے بتایا کہ لوگوں کو ان جہازوں پر اس لیے رکھا جاتا تھا کہ وہ قتل کرتے تھے، چوری کرتے تھے، اور جھوٹ بولتے تھے—اور وہ ہمیشہ بہت زیادہ سوالات پوچھنے سے شروع کرتے تھے۔ اس سے مجھے ڈر لگا، کیونکہ میں بہت سے سوالات پوچھ رہا تھا، اور میں مسز جو کو لوٹنے کا ارادہ کر رہا تھا۔ مجھے لگا جیسے میں پہلے ہی مجرم بننے کے راستے پر ہوں۔ اس رات، مجھے خوفناک خوابوں سے بھری بے آرام نیند آئی"
+          },
+          {
+            "en": "At dawn, I quietly went to the kitchen, which was full of food for Christmas. I stole some bread, a piece of hard cheese, some sugared fruits, a bone with some meat on it, and a piece of meat. I came out of the house , and ran toward the misty marshes. It was a freezing, misty morning, I struggled to find my way to the church yard through the thick fog, misjudging my path and having to retrace my steps along the river. Suddenly, I saw a man sitting in front of me. His back was turned, and his arms were folded. He was nodding forward, heavy with sleep. Thinking he would be more pleased if I surprised him with his breakfast, I approached softly and touched him on the shoulder. Instantly, he jumped up—but it wasn’t the man I had met before!",
+            "sd": "فجر وقت، مان خاموشي سان باورچي خاني ۾ ويس، جيڪو ڪرسمس لاءِ کاڌي سان ڀريل هو. مون ڪجهه ماني، سخت پنير جو هڪ ٽڪرو، ڪجهه مٺا ميوا، گوشت سان گڏ هڪ هڏي، ۽ گوشت جو هڪ ٽڪرو چورايو. مان گھر مان ٻاهر نڪتس، ۽ ڌنڌ واري دلدل ڏانهن ڊوڙيس. اها هڪ ٿڌي، ڌنڌ واري صبح هئي، مون کي ٿلهي ڪوهيڙي مان قبرستان ڏانهن رستو ڳولڻ ۾ ڏکيائي ٿي، رستو غلط سمجھي مون کي درياهه ڪناري پنهنجا قدم واپس وٺڻا پيا. اوچتو، مون هڪ ماڻهو کي پنهنجي سامهون ويٺل ڏٺو. سندس پٺي مون ڏانهن هئي، ۽ سندس هٿ ٻڌل هئا. هو ننڊ سان ڳرو ٿي اڳتي جھڪي رھيو هو. اهو سوچي ته جيڪڏهن مان کيس ناشتي سان حيران ڪريان ته هو وڌيڪ خوش ٿيندو، مان آهستي ويجهو ويس ۽ سندس ڪلهي کي هٿ لڳايم. فوراً، هو ٽپ ڏئي اٿيو—پر اهو اهو ماڻهو نه هو جنهن کي مان اڳ مليو هوس!",
+            "ur": "صبح سویرے، میں خاموشی سے باورچی خانے میں گیا، جو کرسمس کے لیے کھانے سے بھرا ہوا تھا۔ میں نے کچھ روٹی، سخت پنیر کا ایک ٹکڑا، کچھ میٹھے پھل، گوشت والی ایک ہڈی، اور گوشت کا ایک ٹکڑا چرایا۔ میں گھر سے باہر نکلا، اور دھند والی دلدل کی طرف دوڑا۔ وہ ایک سرد، دھند والی صبح تھی، مجھے گھنے کہرے میں قبرستان کا راستہ ڈھونڈنے میں مشکل ہوئی، راستہ غلط سمجھ کر مجھے دریا کے کنارے اپنے قدم واپس لینے پڑے۔ اچانک، میں نے ایک آدمی کو اپنے سامنے بیٹھا دیکھا۔ اس کی پیٹھ میری طرف تھی، اور اس کے بازو بندھے ہوئے تھے۔ وہ نیند سے بوجھل ہو کر آگے جھک رہا تھا۔ یہ سوچ کر کہ اگر میں اسے ناشتے سے حیران کروں تو وہ زیادہ خوش ہوگا، میں آہستہ سے قریب گیا اور اس کے کندھے کو چھوا۔ فوراً، وہ اچھل کر اٹھا—لیکن وہ وہ آدمی نہیں تھا جس سے میں پہلے ملا تھا!"
+          },
+          {
+            "en": "This man was also dressed in rough gray clothes and had an iron on his leg. He was shivering with cold, just like the other man, but his face was different. He swore at me, swung wildly at me, and then ran off into the mist. My heart leaped as I realized, “It’s the young man!”",
+            "sd": "هن ماڻهو به ساڳيا ڳورا ڀورا ڪپڙا پاتا هئا ۽ سندس پير ۾ لوهه هو. هو ٿڌ کان ڏڪي رھيو هو، بلڪل ٻئي ماڻهو وانگر، پر سندس منهن مختلف هو. هن مون کي گاريون ڏنيون، مون ڏانهن جهنگلي انداز ۾ هٿ هلايو، ۽ پوءِ ڌنڌ ۾ ڊوڙي ويو. منهنجي دل ڌڙڪي جڏهن مون کي سمجھ ۾ آيو، ”اهو نوجوان آهي!“",
+            "ur": "اس آدمی نے بھی کھردرے سرمئی کپڑے پہنے تھے اور اس کی ٹانگ میں لوہا تھا۔ وہ سردی سے کانپ رہا تھا، بالکل دوسرے آدمی کی طرح، لیکن اس کا چہرہ مختلف تھا۔ اس نے مجھے گالیاں دیں، میری طرف جنگلی انداز میں ہاتھ چلایا، اور پھر دھند میں دوڑ گیا۔ میرا دل دھڑکا جب مجھے سمجھ آیا، ”یہ نوجوان ہے!“"
+          },
+          {
+            "en": "Soon after, I reached the gun placements, and there was the right man, waiting for me. He looked terribly cold, and his eyes were filled with hunger. As soon as I emptied my pockets, he began devouring the food I had brought. He shoved bread, cheese, fruit, and the piece of meat. He ate like a starved animal, glancing around distrustfully and stopping often to listen for sounds in the mist.",
+            "sd": "ٿوري دير کان پوءِ، مان توپن واري جاءِ تي پهتس، ۽ اتي صحيح ماڻهو منهنجو انتظار ڪري رھيو هو. هو ڏاڍو ٿڌو لڳي رھيو هو، ۽ سندس اکيون بک سان ڀريل هيون. جيئن ئي مون پنهنجا کيسا خالي ڪيا، هن اهو کاڌو کائڻ شروع ڪيو جيڪو مان آندو هوس. هن ماني، پنير، ميوو، ۽ گوشت جو ٽڪرو اڳتي وڌايو. هن بکايل جانور وانگر کاڌو، چوڌاري شڪ سان نهاريندي ۽ ڌنڌ ۾ آوازن کي ٻڌڻ لاءِ اڪثر رڪجي.",
+            "ur": "تھوڑی دیر بعد، میں توپوں والی جگہ پر پہنچا، اور وہاں صحیح آدمی میرا انتظار کر رہا تھا۔ وہ بہت سرد لگ رہا تھا، اور اس کی آنکھیں بھوک سے بھری ہوئی تھیں۔ جیسے ہی میں نے اپنی جیبیں خالی کیں، اس نے وہ کھانا کھانا شروع کر دیا جو میں لایا تھا۔ اس نے روٹی، پنیر، پھل، اور گوشت کا ٹکڑا آگے بڑھایا۔ اس نے بھوکے جانور کی طرح کھایا، چاروں طرف شک سے دیکھتے ہوئے اور دھند میں آوازیں سننے کے لیے اکثر رکتے ہوئے۔"
+          },
+          {
+            "en": "Suddenly, he asked, “You’re not a deceiving little devil, are you? You didn’t bring anyone with you?”",
+            "sd": "اوچتو، هن پڇيو، ”تون ڪو ڌوڪي ڏيندڙ ننڍڙو شيطان ته ناهين، ڇا تون آهين؟ تون ڪنهن کي پاڻ سان نه آندو اٿئي؟“",
+            "ur": "اچانک، اس نے پوچھا، ”تم کوئی دھوکہ دینے والا چھوٹا شیطان تو نہیں ہو، ہو کیا؟ تم کسی کو اپنے ساتھ نہیں لائے؟“"
+          },
+          {
+            "en": "“No, sir,” I said. “No one.”",
+            "sd": "”نه، سائين،“ مون چيو. ”ڪو به نه.“",
+            "ur": "”نہیں، صاحب،“ میں نے کہا۔ ”کوئی نہیں۔“"
+          },
+          {
+            "en": "“And you didn’t tell anyone to follow you?”",
+            "sd": "”۽ تو ڪنهن کي چيو ته تنهنجي پٺيان اچي؟“",
+            "ur": "”اور تم نے کسی کو اپنے پیچھے آنے کو نہیں کہا؟“"
+          },
+          {
+            "en": "“No, sir.”",
+            "sd": "”نه، سائين.“",
+            "ur": "”نہیں، صاحب۔“"
+          },
+          {
+            "en": "“Well,” he said, “I believe you. You’d be a fierce young hound indeed if, at your age, you could help hunt down a wretched creature like me, hunted near to death as I am.”",
+            "sd": "”چڱو،“ هن چيو، ”مون کي تنهنجو يقين آهي. تون واقعي هڪ خطرناڪ نوجوان ڪتو هوندين، جيڪڏهن پنهنجي عمر ۾ تون منهنجي جهڙي بدقسمت مخلوق کي ڳولڻ ۾ مدد ڪري سگھين، جنهن جو موت تائين شڪار ڪيو پيو وڃي، جيئن منهنجو ٿي رھيو آهي.“",
+            "ur": "”اچھا،“ اس نے کہا، ”مجھے تم پر یقین ہے۔ تم واقعی ایک خطرناک نوجوان شکاری کتا ہوتے، اگر اپنی عمر میں تم میرے جیسے بدقسمت مخلوق کو ڈھونڈنے میں مدد کر سکتے، جس کا موت تک شکار کیا جا رہا ہے، جیسا میرا ہو رہا ہے۔“"
+          },
+          {
+            "en": "Something in his throat clicked, as if he had machinery inside him like a clock about to strike. He wiped his eyes with his ragged sleeve, and I felt a pang of pity for his misery. Watching him settle down to eat the piece of meat, I gathered the courage to say, “I’m glad you enjoy it.”",
+            "sd": "سندس ڳلي ۾ ڪجهه کلڪيو، ڄڻ سندس اندر گھڙيال جهڙي مشين هجي جيڪا وڄڻ واري هجي. هن پنهنجون اکيون پنهنجي ڦاٽل بازو سان اگهيون، ۽ مون کي سندس بدحالي تي رحم آيو. کيس گوشت جو ٽڪرو کائڻ لاءِ ويهندي ڏسي، مون همت ڪري چيو، ”مون کي خوشي آهي ته توکي اهو پسند آيو.“",
+            "ur": "اس کے گلے میں کچھ کلک ہوا، جیسے اس کے اندر گھڑی جیسی مشین ہو جو بجنے والی ہو۔ اس نے اپنی آنکھیں اپنی پھٹی آستین سے پونچھیں، اور مجھے اس کی بدحالی پر رحم آیا۔ اسے گوشت کا ٹکڑا کھانے کے لیے بیٹھتے دیکھ کر، میں نے ہمت کر کے کہا، ”مجھے خوشی ہے کہ تمہیں یہ پسند آیا۔“"
+          },
+          {
+            "en": "“Did you speak?” he asked.",
+            "sd": "”ڇا تو ڳالهايو؟“ هن پڇيو.",
+            "ur": "”کیا تم نے بات کی؟“ اس نے پوچھا۔"
+          },
+          {
+            "en": "“I said I’m glad you enjoy it,” I repeated.",
+            "sd": "”مون چيو ته مون کي خوشي آهي ته توکي اهو پسند آيو،“ مون ورجايو.",
+            "ur": "”میں نے کہا کہ مجھے خوشی ہے کہ تمہیں یہ پسند آیا،“ میں نے دہرایا۔"
+          },
+          {
+            "en": "“Thank you, my boy. I do.”",
+            "sd": "”مهرباني، منهنجا ڇوڪرا. مون کي پسند آيو.“",
+            "ur": "”شکریہ، میرے لڑکے۔ مجھے پسند آیا۔“"
+          },
+          {
+            "en": "I couldn’t help but notice how much he ate like a dog—taking sharp, sudden bites and swallowing each mouthful too quickly, as if he feared someone might snatch the food away. He glanced around constantly, uneasy and distrustful, even as he ate.",
+            "sd": "مان اهو ڏسڻ کان روڪي نه سگھيس ته هو ڪتي وانگر ڪيترو کائي رھيو هو—تيز، اوچتا چڪ هڻي ۽ هر گرهي کي ايترو جلدي ڳڙڪائي، ڄڻ کيس ڊپ هجي ته ڪو کاڌو کسي وٺندو. هو کائيندي به مسلسل چوڌاري نهاري رھيو هو، بي آرام ۽ شڪي.",
+            "ur": "میں یہ دیکھے بغیر نہ رہ سکا کہ وہ کتے کی طرح کتنا کھا رہا تھا—تیز، اچانک کاٹ کر اور ہر لقمہ اتنی جلدی نگل کر، جیسے اسے ڈر ہو کہ کوئی کھانا چھین لے گا۔ وہ کھاتے ہوئے بھی مسلسل چاروں طرف دیکھ رہا تھا، بے آرام اور شک میں۔"
+          },
+          {
+            "en": "After a silence, I ventured timidly, “I’m afraid you won’t leave any for him.”",
+            "sd": "هڪ خاموشي کان پوءِ، مون ڊڄندي چيو، ”مون کي ڊپ آهي ته تون هن لاءِ ڪجهه به نه ڇڏيندين.“",
+            "ur": "ایک خاموشی کے بعد، میں نے ڈرتے ہوئے کہا، ”مجھے ڈر ہے کہ تم اس کے لیے کچھ نہیں چھوڑو گے۔“"
+          },
+          {
+            "en": "“Leave any for who?” he asked, stopping mid-bite.",
+            "sd": "”ڪنهن لاءِ ڇڏيان؟“ هن پڇيو، چڪ هڻندي رڪجي.",
+            "ur": "”کس کے لیے چھوڑوں؟“ اس نے پوچھا، کاٹتے ہوئے رک کر۔"
+          },
+          {
+            "en": "“The young man,” I said. “The one you mentioned. The one hiding with you.”",
+            "sd": "”نوجوان لاءِ،“ مون چيو. ”جنهن جو تو ذڪر ڪيو. جيڪو تنهنجي سان گڏ لڪل آهي.“",
+            "ur": "”نوجوان کے لیے،“ میں نے کہا۔ ”جس کا تم نے ذکر کیا۔ جو تمہارے ساتھ چھپا ہوا ہے۔“"
+          },
+          {
+            "en": "“Oh, him?” he said with a gruff laugh. “He don’t want no food.”",
+            "sd": "”اوهه، هن لاءِ؟“ هن سخت کل سان چيو. ”هن کي کاڌو ناهي گھرجي.“",
+            "ur": "”اوہ، اس کے لیے؟“ اس نے سخت ہنسی کے ساتھ کہا۔ ”اسے کھانا نہیں چاہیے۔“"
+          },
+          {
+            "en": "“But he looked like he did,” I said.",
+            "sd": "”پر هو ائين لڳو ڄڻ کيس گھرجي،“ مون چيو.",
+            "ur": "”لیکن وہ ایسا لگا جیسے اسے چاہیے،“ میں نے کہا۔"
+          },
+          {
+            "en": "The man stopped eating and stared at me with sharp suspicion. “Looked? When?”",
+            "sd": "ان ماڻهو کائڻ بند ڪيو ۽ مون ڏانهن تيز شڪ سان نهاريو. ”لڳو؟ ڪڏهن؟“",
+            "ur": "اس آدمی نے کھانا بند کر دیا اور مجھے تیز شک سے گھورا۔ ”لگا؟ کب؟“"
+          },
+          {
+            "en": "“Just now,” I said. “Over there, where I found him nodding asleep. I thought it was you.”",
+            "sd": "”هاڻي ئي،“ مون چيو. ”اتي، جتي مون کيس ننڊ ۾ جھڪندي ڏٺو. مون سمجھيو ته اهو تون آهين.“",
+            "ur": "”ابھی،“ میں نے کہا۔ ”وہاں، جہاں میں نے اسے نیند میں جھکتے پایا۔ میں نے سمجھا کہ وہ تم ہو۔“"
+          },
+          {
+            "en": "He grabbed me by the collar, his eyes wild, and I feared he might hurt me. “Dressed like me, you say? With a hat?”",
+            "sd": "هن مون کي ڪالر کان پڪڙيو، سندس اکيون جهنگلي هيون، ۽ مون کي ڊپ هو ته هو مون کي نقصان پهچائيندو. ”منهنجي جھڙا ڪپڙا پاتا، چئين ٿو؟ ٽوپي سان؟“",
+            "ur": "اس نے مجھے کالر سے پکڑا، اس کی آنکھیں جنگلی تھیں، اور مجھے ڈر تھا کہ وہ مجھے نقصان پہنچائے گا۔ ”میرے جیسے کپڑے پہنے، کہتے ہو؟ ٹوپی کے ساتھ؟“"
+          },
+          {
+            "en": "“Yes,” I said, trembling. “And—and with the same reason for needing a file. Didn’t you hear the cannon last night?”",
+            "sd": "”ها،“ مون چيو، ڏڪندي. ”۽—۽ رتي جي ضرورت جو ساڳيو ئي سبب. ڇا تو گذريل رات توپ جو آواز نه ٻڌو؟“",
+            "ur": "”ہاں،“ میں نے کہا، کانپتے ہوئے۔ ”اور—اور ریتی کی ضرورت کی وہی وجہ۔ کیا تم نے گزشتہ رات توپ کی آواز نہیں سنی؟“"
+          },
+          {
+            "en": "“So there was firing!” he muttered to himself.",
+            "sd": "”تنهنڪري فائرنگ ٿي رھي هئي!“ هن پاڻ سان چيو.",
+            "ur": "”تو فائرنگ ہو رہی تھی!“ اس نے خود سے کہا۔"
+          },
+          {
+            "en": "“I’m surprised you didn’t hear it,” I said. “We heard it at home, and we’re farther away.”",
+            "sd": "”مون کي حيرت آهي ته تو اهو نه ٻڌو،“ مون چيو. ”اسان گھر ۾ ٻڌو، ۽ اسان وڌيڪ پري آهيون.“",
+            "ur": "”مجھے حیرت ہے کہ تم نے یہ نہیں سنا،“ میں نے کہا۔ ”ہم نے گھر میں سنا، اور ہم زیادہ دور ہیں۔“"
+          },
+          {
+            "en": "He shook his head. “When a man’s alone out here, cold and starving, he hears all sorts of things—guns firing, voices calling. He sees soldiers in red coats, closing in on him. But there’s nothing there. Last night, I saw a hundred pursuing parties in my mind, and the mist shook with cannon fire even after dawn. But this man—” He seemed to remember I was there. “Did you notice anything about him?”",
+            "sd": "هن ڪنڌ لوڏيو. ”جڏهن هڪ ماڻهو هتي اڪيلو هجي، ٿڌو ۽ بکايو، ته هو هر قسم جون شيون ٻڌي ٿو—توپون هلڻ، آوازون سڏڻ. هو ڳاڙهن ڪوٽن ۾ سپاهين کي ڏسي ٿو، جيڪي هن ڏانهن ويجهو اچي رھيا آهن. پر اتي ڪجهه به ناهي. گذريل رات، مون پنهنجي ذهن ۾ سئو پيڇو ڪندڙ ٽوليون ڏٺيون، ۽ ڪوهيڙو فجر کان پوءِ به توپ جي فائر سان ڏڪي رھيو هو. پر هي ماڻهو—“ هن کي ياد آيو ته مان اتي هوس. ”ڇا تو هن بابت ڪجهه محسوس ڪيو؟“",
+            "ur": "اس نے سر ہلایا۔ ”جب ایک آدمی یہاں اکیلا ہو، سرد اور بھوکا، تو وہ ہر طرح کی چیزیں سنتا ہے—توپیں چلنا، آوازیں بلانا۔ وہ سرخ کوٹوں میں سپاہیوں کو دیکھتا ہے، جو اس کے قریب آ رہے ہیں۔ لیکن وہاں کچھ بھی نہیں۔ گزشتہ رات، میں نے اپنے ذہن میں سو تعاقب کرنے والی جماعتیں دیکھیں، اور کہرا صبح کے بعد بھی توپ کی فائر سے کانپ رہا تھا۔ لیکن یہ آدمی—“ اسے یاد آیا کہ میں وہاں تھا۔ ”کیا تم نے اس کے بارے میں کچھ محسوس کیا؟“"
+          },
+          {
+            "en": "“He had a badly bruised face,” I said, recalling it now.",
+            "sd": "”سندس منهن تي خراب زخم هئا،“ مون چيو، هاڻي ياد ڪندي.",
+            "ur": "”اس کے چہرے پر برے زخم تھے،“ میں نے کہا، اب یاد کرتے ہوئے۔"
+          },
+          {
+            "en": "“Not here?” he asked, striking his left cheek hard with his hand.",
+            "sd": "”هتي نه؟“ هن پڇيو، پنهنجي کاٻي ڳل تي هٿ سان زور سان هڻندي.",
+            "ur": "”یہاں نہیں؟“ اس نے پوچھا، اپنے بائیں گال پر ہاتھ سے زور سے مارتے ہوئے۔"
+          },
+          {
+            "en": "“Yes, there.”",
+            "sd": "”ها، اتي.“",
+            "ur": "”ہاں، وہاں۔“"
+          },
+          {
+            "en": "“Where is he?” he demanded, shoving the last of the food into his jacket. “Show me the way he went. I’ll pull him down like a bloodhound. Curse this iron on my leg! Give me the file, boy.”",
+            "sd": "”هو ڪٿي آهي؟“ هن مطالبو ڪيو، کاڌي جو آخري حصو پنهنجي جيڪٽ ۾ وجهندي. ”مون کي اهو رستو ڏيکار جنهن تي هو ويو. مان کيس شڪاري ڪتي وانگر ڇڪي هيٺ آڻيندس. منهنجي پير جي هن لوهه تي لعنت! مون کي رتي ڏي، ڇوڪرا.“",
+            "ur": "”وہ کہاں ہے؟“ اس نے مطالبہ کیا، کھانے کا آخری حصہ اپنی جیکٹ میں ڈالتے ہوئے۔ ”مجھے وہ راستہ دکھاؤ جس پر وہ گیا۔ میں اسے شکاری کتے کی طرح کھینچ کر نیچے لاؤں گا۔ میری ٹانگ کے اس لوہے پر لعنت! مجھے ریتی دو، لڑکے۔“"
+          },
+          {
+            "en": "I pointed in the direction the other man had gone, and he glanced that way for a moment. But then he was down on the wet grass, filing at his leg iron like a madman. He didn’t seem to care about the pain in his leg, which was raw and bloody, or about me. I was terrified of him again and told him I had to go, but he didn’t respond. The last I saw of him, his head was bent over his knee, and he was working furiously at the iron, muttering curses. The last I heard was the sound of the file, still rasping away as I disappeared into the mist.",
+            "sd": "مون ان طرف اشارو ڪيو جنهن طرف ٻيو ماڻهو ويو هو، ۽ هن هڪ لمحي لاءِ ان طرف نهاريو. پر پوءِ هو سائي گاهه تي ويھي ويو، پنهنجي پير جي لوهه کي چريي وانگر رڳڙي رھيو هو. هن کي پنهنجي پير جي درد جي پرواه نه لڳي، جيڪو ڪچو ۽ رت سان ڀريل هو، يا منهنجي. مان وري هن کان ڊڄي ويس ۽ کيس چيو ته مون کي وڃڻو آهي، پر هن جواب نه ڏنو. آخري ڀيرو مون کيس ڏٺو، ته سندس مٿو سندس گوڏي تي جھڪيل هو، ۽ هو لوهه تي غصي سان ڪم ڪري رھيو هو، گاريون ڏئي رھيو هو. آخري آواز جيڪو مون ٻڌو اهو رتي جو آواز هو، جيڪو اڃا رڳڙي رھيو هو جڏهن مان ڌنڌ ۾ غائب ٿي ويس.",
+            "ur": "میں نے اس طرف اشارہ کیا جس طرف دوسرا آدمی گیا تھا، اور اس نے ایک لمحے کے لیے اس طرف دیکھا۔ لیکن پھر وہ گیلی گھاس پر بیٹھ گیا، اپنی ٹانگ کے لوہے کو پاگل کی طرح رگڑ رہا تھا۔ اسے اپنی ٹانگ کے درد کی پروا نہیں لگی، جو کچا اور خون سے بھرا تھا، یا میری۔ میں پھر اس سے ڈر گیا اور اسے کہا کہ مجھے جانا ہے، لیکن اس نے جواب نہیں دیا۔ آخری بار میں نے اسے دیکھا، تو اس کا سر اس کے گھٹنے پر جھکا ہوا تھا، اور وہ لوہے پر غصے سے کام کر رہا تھا، گالیاں دے رہا تھا۔ آخری آواز جو میں نے سنی وہ ریتی کی آواز تھی، جو ابھی رگڑ رہی تھی جب میں دھند میں غائب ہو گیا۔"
+          },
+          {
+            "en": "I fully expected to find a policeman in the kitchen waiting to arrest me.. But not only was there no policeman, but no discovery had yet been made of the robbery. Mrs. Joe was busy getting ready for Christmas.",
+            "sd": "مون کي پورو يقين هو ته باورچي خاني ۾ هڪ پوليس وارو مون کي گرفتار ڪرڻ لاءِ انتظار ڪري رھيو هوندو.. پر نه رڳو ڪو پوليس وارو نه هو، پر چوري جي ڪا به خبر اڃا تائين نه پئي هئي. مسز جو ڪرسمس جي تياري ۾ مصروف هئي.",
+            "ur": "مجھے پورا یقین تھا کہ باورچی خانے میں ایک پولیس والا مجھے گرفتار کرنے کے لیے انتظار کر رہا ہوگا.. لیکن نہ صرف کوئی پولیس والا نہیں تھا، بلکہ چوری کا ابھی تک کوئی انکشاف نہیں ہوا تھا۔ مسز جو کرسمس کی تیاری میں مصروف تھی۔"
+          },
+          {
+            "en": "“And where have you been?” she demanded.",
+            "sd": "”۽ تون ڪٿي ويو هئين؟“ هن مطالبو ڪيو.",
+            "ur": "”اور تم کہاں گئے تھے؟“ اس نے مطالبہ کیا۔"
+          },
+          {
+            "en": "Joe quietly crossed two fingers and showed them to me—our secret signal that my sister was in a bad mood.",
+            "sd": "جو خاموشي سان ٻه آڱريون پار ڪيون ۽ مون کي ڏيکاريون—اسان جو ڳجهو اشارو ته منهنجي ڀيڻ خراب موڊ ۾ آهي.",
+            "ur": "جو نے خاموشی سے دو انگلیاں کراس کیں اور مجھے دکھائیں—ہمارا خفیہ اشارہ کہ میری بہن خراب موڈ میں ہے۔"
+          },
+          {
+            "en": "“I went down to the village to listen to the Christmas carols,” I lied.",
+            "sd": "”مان ڳوٺ ۾ ڪرسمس جا گيت ٻڌڻ ويو هوس،“ مون ڪوڙ ڳالهايو.",
+            "ur": "”میں گاؤں میں کرسمس کے گیت سننے گیا تھا،“ میں نے جھوٹ بولا۔"
+          },
+          {
+            "en": "Mrs. Joe was busy cooking a grand dinner: meat and roasted stuffed birds. The Christmas pudding was boiling away. Clearly, no one had noticed the missing food or the file. Around half past one, the door opened, and Mr. Pumblechook, a wealthy grain merchant from the village, arrived to join us for dinner.",
+            "sd": "مسز جو هڪ شاندار ماني پچائڻ ۾ مصروف هئي: گوشت ۽ ڀريل ڀڳل پکي. ڪرسمس جي پڊنگ اُبالي رھي هئي. صاف ظاهر هو ته ڪنهن به گم ٿيل کاڌي يا رتي کي محسوس نه ڪيو هو. اٽڪل اڍائي بجي، دروازو کليو، ۽ مسٽر پمبل چڪ، ڳوٺ جو هڪ امير اناج جو واپاري، اسان سان گڏ ماني کائڻ لاءِ آيو.",
+            "ur": "مسز جو ایک شاندار کھانا پکانے میں مصروف تھی: گوشت اور بھرے ہوئے بھنے پرندے۔ کرسمس کی پڈنگ ابل رہی تھی۔ صاف ظاہر تھا کہ کسی نے گم شدہ کھانے یا ریتی کو محسوس نہیں کیا تھا۔ تقریباً ڈیڑھ بجے، دروازہ کھلا، اور مسٹر پمبل چوک، گاؤں کا ایک امیر اناج کا تاجر، ہمارے ساتھ کھانا کھانے کے لیے آیا۔"
+          },
+          {
+            "en": "As we sat down to eat, Mr. Pumblechook fixed his gaze on me. “Be grateful, boy,” he said, “to those who raised you by hand.”",
+            "sd": "جڏهن اسان کائڻ لاءِ ويٺاسين، ته مسٽر پمبل چڪ پنهنجي نظر مون تي ڄمائي ڇڏي. ”شڪرگذار رھ، ڇوڪرا،“ هن چيو، ”انهن جو جن توکي هٿ سان پاليو آهي.“",
+            "ur": "جب ہم کھانے کے لیے بیٹھے، تو مسٹر پمبل چوک نے اپنی نظر مجھ پر جما دی۔ ”شکر گزار رہو، لڑکے،“ اس نے کہا، ”ان کا جنہوں نے تمہیں ہاتھ سے پالا ہے۔“"
+          },
+          {
+            "en": "With that, my sister launched into a list of all the trouble I’d caused. Just when I thought I might survive the day, she stood up and announced, “You must try a nice piece of meat.”",
+            "sd": "ان سان گڏ، منهنجي ڀيڻ انهن سڀني تڪليفن جي لسٽ ٻڌائڻ لڳي جيڪي مون پيدا ڪيون هيون. ٺيڪ جڏهن مون سمجھيو ته مان اهو ڏينهن بچائي سگھان ٿو، ته هوءَ اٿي بيٺي ۽ اعلان ڪيو، ”توکي گوشت جو هڪ سٺو ٽڪرو ضرور چکڻ گھرجي.“",
+            "ur": "اس کے ساتھ، میری بہن ان تمام تکلیفوں کی فہرست سنانے لگی جو میں نے پیدا کی تھیں۔ ٹھیک جب میں نے سمجھا کہ میں وہ دن بچا سکتا ہوں، تو وہ کھڑی ہوئی اور اعلان کیا، ”تمہیں گوشت کا ایک اچھا ٹکڑا ضرور چکھنا چاہیے۔“"
+          },
+          {
+            "en": "As she went to fetch it, I bolted for the door, terrified. But I didn’t get far. Outside, I ran straight into a group of soldiers. They were armed with muskets, and one of them held a pair of handcuffs.",
+            "sd": "جڏهن هوءَ اهو آڻڻ وئي، ته مان ڊڄي دروازي ڏانهن ڊوڙيس. پر مان گھڻو پري نه ويس. ٻاهر، مان سڌو سپاهين جي هڪ ٽولي سان ٽڪرائجي ويس. اهي بندوقن سان هٿياربند هئا، ۽ انهن مان هڪ وٽ هٿڪڙين جو جوڙو هو.",
+            "ur": "جب وہ وہ لانے گئی، تو میں ڈر کر دروازے کی طرف دوڑا۔ لیکن میں زیادہ دور نہ گیا۔ باہر، میں سیدھا سپاہیوں کے ایک گروہ سے ٹکرا گیا۔ وہ بندوقوں سے مسلح تھے، اور ان میں سے ایک کے پاس ہتھکڑیوں کا جوڑا تھا۔"
+          },
+          {
+            "en": "The sight of soldiers at our doorstep startled everyone. Mrs. Joe came back from the pantry and stared, completely forgetting about the missing meat.",
+            "sd": "اسان جي در تي سپاهين کي ڏسي سڀ حيران ٿي ويا. مسز جو پينٽري مان واپس آئي ۽ نهارڻ لڳي، گم ٿيل گوشت کي مڪمل طور وساري ڇڏيائين.",
+            "ur": "ہمارے دروازے پر سپاہیوں کو دیکھ کر سب حیران رہ گئے۔ مسز جو پینٹری سے واپس آئی اور دیکھنے لگی، گم شدہ گوشت کو مکمل طور پر بھول گئی۔"
+          },
+          {
+            "en": "“Excuse me,” one of the soldiers said, “but I need the blacksmith. These handcuffs are broken. Can you fix them?”",
+            "sd": "”معاف ڪجو،“ هڪ سپاهي چيو، ”پر مون کي لوهار جي ضرورت آهي. اهي هٿڪڙيون ٽٽل آهن. ڇا تون انهن کي ٺيڪ ڪري سگھين ٿو؟“",
+            "ur": "”معاف کیجیے،“ ایک سپاہی نے کہا، ”لیکن مجھے لوہار کی ضرورت ہے۔ یہ ہتھکڑیاں ٹوٹی ہوئی ہیں۔ کیا تم انہیں ٹھیک کر سکتے ہو؟“"
+          },
+          {
+            "en": "“Are you hunting convicts, sir?” asked Mr. Pumblechook.",
+            "sd": "”ڇا توهان مجرمن جو شڪار ڪري رھيا آهيو، سائين؟“ مسٽر پمبل چڪ پڇيو.",
+            "ur": "”کیا آپ مجرموں کا شکار کر رہے ہیں، صاحب؟“ مسٹر پمبل چوک نے پوچھا۔"
+          },
+          {
+            "en": "“Two of them!” the soldier replied. “They’re out on the marshes. Has anyone here seen anything?”",
+            "sd": "”انهن مان ٻه!“ سپاهي جواب ڏنو. ”اهي دلدل ۾ ٻاهر آهن. ڇا هتي ڪنهن ڪجهه ڏٺو آهي؟“",
+            "ur": "”ان میں سے دو!“ سپاہی نے جواب دیا۔ ”وہ دلدل میں باہر ہیں۔ کیا یہاں کسی نے کچھ دیکھا ہے؟“"
+          },
+          {
+            "en": "Everyone except me said no. No one paid any attention to me.",
+            "sd": "مون کان سواءِ سڀني نه چيو. ڪنهن به مون ڏانهن ڪو ڌيان نه ڏنو.",
+            "ur": "میرے سوا سب نے نہیں کہا۔ کسی نے بھی میری طرف کوئی توجہ نہیں دی۔"
+          },
+          {
+            "en": "Joe put on his leather apron and took the handcuffs to the forge. Soon, the sound of hammering filled the air.",
+            "sd": "جو پنهنجو چمڙي جو اپرن پاتو ۽ هٿڪڙيون ڀٺي ڏانهن وٺي ويو. جلد ئي، هٿوڙي جي آواز هوا ۾ ڀرجي وئي.",
+            "ur": "جو نے اپنا چمڑے کا اپرن پہنا اور ہتھکڑیاں بھٹی کی طرف لے گیا۔ جلد ہی، ہتھوڑے کی آواز ہوا میں بھر گئی۔"
+          },
+          {
+            "en": "When Joe finished, he grabbed his coat and said we should go with the soldiers to help with the search. Joe and I were told to stay at the back. I whispered to him, “I hope we don’t find them.”",
+            "sd": "جڏهن جو ختم ڪيو، ته هن پنهنجو ڪوٽ کنيو ۽ چيو ته اسان کي ڳولا ۾ مدد لاءِ سپاهين سان گڏ وڃڻ گھرجي. جو ۽ مون کي پوئتي رھڻ لاءِ چيو ويو. مون هن کي ڪن ۾ چيو، ”مون کي اميد آهي ته اسان انهن کي نه ڳولينداسين.“",
+            "ur": "جب جو نے ختم کیا، تو اس نے اپنا کوٹ اٹھایا اور کہا کہ ہمیں تلاش میں مدد کے لیے سپاہیوں کے ساتھ جانا چاہیے۔ جو اور مجھے پیچھے رہنے کو کہا گیا۔ میں نے اس کے کان میں کہا، ”مجھے امید ہے کہ ہم انہیں نہیں ڈھونڈیں گے۔“"
+          },
+          {
+            "en": "Joe whispered back, “I’d give a shilling if they’ve escaped, Pip.”",
+            "sd": "جو ڪن ۾ جواب ڏنو، ”جيڪڏهن اهي ڀڄي ويا آهن ته مان هڪ شلنگ ڏيندس، پپ.“",
+            "ur": "جو نے کان میں جواب دیا، ”اگر وہ بھاگ گئے ہیں تو میں ایک شلنگ دوں گا، پپ۔“"
+          },
+          {
+            "en": "I rode on Joe’s broad shoulders as we headed toward the marshes. I kept looking around, worried my convict might see me and think I’d betrayed him.",
+            "sd": "مان جو جي ويڪرين ڪلهن تي سوار ٿيس جڏهن اسان دلدل ڏانهن وڃي رھيا هئاسين. مان چوڌاري نهاريندو رھيس، پريشان ته منهنجو مجرم مون کي ڏسي ۽ سمجھي ته مون کيس دوکو ڏنو آهي.",
+            "ur": "میں جو کے چوڑے کندھوں پر سوار تھا جب ہم دلدل کی طرف جا رہے تھے۔ میں چاروں طرف دیکھتا رہا، پریشان کہ میرا مجرم مجھے دیکھے اور سمجھے کہ میں نے اسے دھوکہ دیا ہے۔"
+          },
+          {
+            "en": "Suddenly, we stopped. Shouts echoed through the wind and rain. The soldiers rushed forward, and Joe followed. “We’ve got both of them!” a soldier shouted, pointing his gun into a ditch. “Give up, you two!”",
+            "sd": "اوچتو، اسان رڪي وياسين. رڙيون هوا ۽ مينهن ۾ گونجي رھيون هيون. سپاهي اڳتي ڊوڙيا، ۽ جو به انهن پٺيان ويو. ”اسان ٻنهي کي پڪڙي ورتو آهي!“ هڪ سپاهي رڙ ڪري چيو، پنهنجي بندوق هڪ کڏ ڏانهن اشارو ڪندي. ”هار مڃو، توهان ٻئي!“",
+            "ur": "اچانک، ہم رک گئے۔ چیخیں ہوا اور بارش میں گونج رہی تھیں۔ سپاہی آگے دوڑے، اور جو بھی ان کے پیچھے گیا۔ ”ہم نے دونوں کو پکڑ لیا ہے!“ ایک سپاہی نے چلا کر کہا، اپنی بندوق ایک کھڈ کی طرف اشارہ کرتے ہوئے۔ ”ہار مانو، تم دونوں!“"
+          },
+          {
+            "en": "There was splashing, mud flying, and blows being struck. The soldiers dragged my convict and the other man out of the ditch. Both were bleeding, panting, and cursing at each other.",
+            "sd": "پاڻي ڦاٽڻ، مٽي اڏامڻ، ۽ ڌڪ لڳڻ جا آواز هئا. سپاهين منهنجي مجرم ۽ ٻئي ماڻهو کي کڏ مان گھلي ٻاهر ڪڍيو. ٻئي رت وهائي رھيا هئا، ساه کڻي رھيا هئا، ۽ هڪ ٻئي کي گاريون ڏئي رھيا هئا.",
+            "ur": "پانی چھلکنے، مٹی اڑنے، اور ضربیں لگنے کی آوازیں تھیں۔ سپاہیوں نے میرے مجرم اور دوسرے آدمی کو کھڈ سے گھسیٹ کر باہر نکالا۔ دونوں خون بہا رہے تھے، ہانپ رہے تھے، اور ایک دوسرے کو گالیاں دے رہے تھے۔"
+          },
+          {
+            "en": "“He tried to kill me!” the other convict yelled.",
+            "sd": "”هن مون کي مارڻ جي ڪوشش ڪئي!“ ٻئي مجرم رڙ ڪئي.",
+            "ur": "”اس نے مجھے مارنے کی کوشش کی!“ دوسرے مجرم نے چلایا۔"
+          },
+          {
+            "en": "“He’s lying!” my convict shot back. “He’s a born liar, and he’ll die a liar.”",
+            "sd": "”هو ڪوڙ ڳالهائي ٿو!“ منهنجو مجرم جواب ڏنو. ”هو ڄمڻ کان ڪوڙو آهي، ۽ ڪوڙو ئي مري ويندو.“",
+            "ur": "”وہ جھوٹ بول رہا ہے!“ میرے مجرم نے جواب دیا۔ ”وہ پیدائشی جھوٹا ہے، اور جھوٹا ہی مرے گا۔“"
+          },
+          {
+            "en": "“Enough of this!” a soldier barked. “Light those torches.”",
+            "sd": "”بس ڪر اهو!“ هڪ سپاهي رڙ ڪري چيو. ”اهي مشعلون ٻاريو.“",
+            "ur": "”بس کرو یہ!“ ایک سپاہی نے چلا کر کہا۔ ”وہ مشعلیں جلاؤ۔“"
+          },
+          {
+            "en": "Then my convict looked around and saw me. I shook my head, hoping he’d understand I hadn’t turned him in. He gave me a look I couldn’t decipher, but I knew I’d remember his face forever.",
+            "sd": "پوءِ منهنجي مجرم چوڌاري نهاريو ۽ مون کي ڏٺو. مون ڪنڌ لوڏيو، اميد ڪري ته هو سمجھندو ته مون کيس پڪڙايو ناهي. هن مون ڏانهن اهڙي نظر سان ڏٺو جيڪا مان سمجھي نه سگھيس، پر مون کي خبر هئي ته مان سندس منهن هميشه ياد رکندس.",
+            "ur": "پھر میرے مجرم نے چاروں طرف دیکھا اور مجھے دیکھا۔ میں نے سر ہلایا، امید کرتے ہوئے کہ وہ سمجھے گا کہ میں نے اسے پکڑوایا نہیں۔ اس نے مجھے ایسی نظر سے دیکھا جو میں سمجھ نہ سکا، لیکن مجھے معلوم تھا کہ میں اس کا چہرہ ہمیشہ یاد رکھوں گا۔"
+          },
+          {
+            "en": "He only glanced at me that once. Turning to the soldiers, he said, “I want to say something. I stole some food from the blacksmith’s place over there.” He looked at Joe. “Are you the blacksmith? I’m sorry, but I ate your piece of meat.”",
+            "sd": "هن مون ڏانهن رڳو هڪ ڀيرو نهاريو. سپاهين ڏانهن مڙي، هن چيو، ”مان ڪجهه چوڻ چاهيان ٿو. مون اتي لوهار جي جاءِ تان ڪجهه کاڌو چورايو هو.“ هن جو ڏانهن ڏٺو. ”ڇا تون لوهار آهين؟ مون کي افسوس آهي، پر مون تنهنجو گوشت جو ٽڪرو کاڌو.“",
+            "ur": "اس نے میری طرف صرف ایک بار دیکھا۔ سپاہیوں کی طرف مڑ کر، اس نے کہا، ”میں کچھ کہنا چاہتا ہوں۔ میں نے وہاں لوہار کی جگہ سے کچھ کھانا چرایا تھا۔“ اس نے جو کی طرف دیکھا۔ ”کیا تم لوہار ہو؟ مجھے افسوس ہے، لیکن میں نے تمہارا گوشت کا ٹکڑا کھایا۔“"
+          },
+          {
+            "en": "“God knows you’re welcome to it,” Joe said kindly. “We don’t know what you’ve done, but we wouldn’t want you to starve, poor fellow. Right, Pip?”",
+            "sd": "”خدا ڄاڻي ٿو ته توکي اهو ڀلي ڪري،“ جو مهرباني سان چيو. ”اسان کي خبر ناهي ته تو ڇا ڪيو آهي، پر اسان نه چاهيون ٿا ته تون بکيو رھين، غريب ماڻهو. صحيح آهي، پپ؟“",
+            "ur": "”خدا جانتا ہے کہ تمہیں یہ مبارک ہو،“ جو نے مہربانی سے کہا۔ ”ہم نہیں جانتے کہ تم نے کیا کیا ہے، لیکن ہم نہیں چاہتے کہ تم بھوکے رہو، غریب آدمی۔ ٹھیک ہے، پپ؟“"
+          },
+          {
+            "en": "We followed the soldiers and their prisoners to the landing. The black prison ship loomed offshore like a dark, evil ark. The convicts were rowed out and taken aboard, disappearing into the ship. The torches were tossed into the water, hissing as they went out.",
+            "sd": "اسان سپاهين ۽ سندن قيدين پٺيان بندرگاهه تائين وياسين. ڪارو قيد وارو جهاز سمنڊ ۾ هڪ اونداهي، بدصورت ٻيڙي وانگر نظر اچي رھيو هو. مجرمن کي ٻيڙي ۾ سوار ڪري جهاز تي چاڙهيو ويو، ۽ اهي جهاز ۾ غائب ٿي ويا. مشعلون پاڻي ۾ اڇلايون ويون، جيڪي وسامڻ وقت سسڪي رھيون هيون.",
+            "ur": "ہم سپاہیوں اور ان کے قیدیوں کے پیچھے بندرگاہ تک گئے۔ کالا قید والا جہاز سمندر میں ایک تاریک، بدصورت کشتی کی طرح نظر آ رہا تھا۔ مجرموں کو کشتی میں بٹھا کر جہاز پر چڑھایا گیا، اور وہ جہاز میں غائب ہو گئے۔ مشعلیں پانی میں پھینکی گئیں، جو بجھتے وقت سسک رہی تھیں۔"
+          },
+          {
+            "en": "I never told anyone about my convict. I loved Joe too much to risk losing his trust. At first, I’d been afraid of doing wrong. Now, I was afraid to do what I knew was right.",
+            "sd": "مون ڪڏهن به ڪنهن کي پنهنجي مجرم بابت نه ٻڌايو. مان جو سان ايترو پيار ڪندو هوس جو سندس اعتماد وڃائڻ جو خطرو نه وٺي سگھيس. پهريان، مان غلط ڪرڻ کان ڊڄندو هوس. هاڻي، مان اهو ڪرڻ کان ڊڄندو هوس جيڪو مون کي خبر هئي ته صحيح آهي.",
+            "ur": "میں نے کبھی کسی کو اپنے مجرم کے بارے میں نہیں بتایا۔ میں جو سے اتنا پیار کرتا تھا کہ اس کا اعتماد کھونے کا خطرہ نہیں لے سکتا تھا۔ پہلے، میں غلط کرنے سے ڈرتا تھا۔ اب، میں وہ کرنے سے ڈرتا تھا جو میں جانتا تھا کہ صحیح ہے۔"
+          },
+          {
+            "en": "As a child, I did odd jobs while preparing to work with Joe at the forge. In the evenings, I attended a village school where Biddy, an orphan like me, helped me learn the alphabet. One night, I proudly showed Joe a note I had written, and he jokingly asked me to teach him to read—though we had to keep it a secret from Mrs. Joe. That cold, dry night, Joe and I sat by the fire, waiting for Mrs. Joe and Uncle Pumblechook who had gone to the market. Soon, we heard the sound of the mare’s bells, and they burst into the warm house.",
+            "sd": "ننڍپڻ ۾، مان جو سان گڏ ڀٺي تي ڪم ڪرڻ جي تياري ڪندي ننڍا ننڍا ڪم ڪندو هوس. شامن ۾، مان ڳوٺ جي اسڪول ۾ ويندو هوس، جتي بڊي، منهنجي جهڙي هڪ يتيم، مون کي اکر سکڻ ۾ مدد ڪندي هئي. هڪ رات، مون فخر سان جو کي هڪ نوٽ ڏيکاريو جيڪو مون لکيو هو، ۽ هن مذاق ۾ مون کان پڇيو ته مان کيس پڙهڻ سيکاريان—جيتوڻيڪ اسان کي اهو مسز جو کان ڳجهو رکڻو هو. ان ٿڌي، سڪي رات، جو ۽ مان باه وٽ ويٺاسين، مسز جو ۽ انڪل پمبل چڪ جو انتظار ڪندي جيڪي بازار ويا هئا. جلد ئي، اسان کي گھوڙي جي گهنٽين جو آواز ٻڌڻ ۾ آيو، ۽ اهي گرم گھر ۾ داخل ٿيا.",
+            "ur": "بچپن میں، میں جو کے ساتھ بھٹی پر کام کرنے کی تیاری کرتے ہوئے چھوٹے چھوٹے کام کرتا تھا۔ شاموں میں، میں گاؤں کے اسکول جاتا تھا، جہاں بڈی، میری جیسی ایک یتیم، مجھے حروف سیکھنے میں مدد کرتی تھی۔ ایک رات، میں نے فخر سے جو کو ایک نوٹ دکھایا جو میں نے لکھا تھا، اور اس نے مذاق میں مجھ سے پوچھا کہ میں اسے پڑھنا سکھاؤں—اگرچہ ہمیں یہ مسز جو سے چھپانا تھا۔ اس سرد، خشک رات، جو اور میں آگ کے پاس بیٹھے، مسز جو اور انکل پمبل چوک کا انتظار کرتے ہوئے جو بازار گئے تھے۔ جلد ہی، ہمیں گھوڑی کی گھنٹیوں کی آواز سنائی دی، اور وہ گرم گھر میں داخل ہوئے۔"
+          },
+          {
+            "en": "“Now,” Mrs. Joe declared, “if this boy isn’t grateful tonight, he never will be! Miss Havisham wants him to go and play at her house. So he’s going—and he’d better behave!” She glared at me.",
+            "sd": "”هاڻي،“ مسز جو اعلان ڪيو، ”جيڪڏهن هي ڇوڪرو اڄ رات شڪرگذار نه ٿيو، ته هو ڪڏهن به نه ٿيندو! مس هيوشم چاهي ٿي ته هو وڃي ۽ سندس گھر ۾ کيڏي. تنهنڪري هو وڃي رھيو آهي—۽ کيس بهتر رويو رکڻ گھرجي!“ هن مون ڏانهن ڪاوڙ سان نهاريو.",
+            "ur": "”اب،“ مسز جو نے اعلان کیا، ”اگر یہ لڑکا آج رات شکر گزار نہ ہوا، تو وہ کبھی نہیں ہوگا! مس ہیوشم چاہتی ہے کہ وہ جائے اور اس کے گھر میں کھیلے۔ اس لیے وہ جا رہا ہے—اور اسے اچھا سلوک کرنا چاہیے!“ اس نے مجھے غصے سے گھورا۔"
+          },
+          {
+            "en": "I’d heard of Miss Havisham. Everyone had. She was a grim, wealthy old woman who lived in a dark, gloomy house and never came out.",
+            "sd": "مون مس هيوشم بابت ٻڌو هو. سڀني ٻڌو هو. هوءَ هڪ سخت، امير پوڙهي عورت هئي، جيڪا هڪ اونداهي، اداس گھر ۾ رھندي هئي ۽ ڪڏهن به ٻاهر نه ايندي هئي.",
+            "ur": "میں نے مس ہیوشم کے بارے میں سنا تھا۔ سب نے سنا تھا۔ وہ ایک سخت، امیر بوڑھی عورت تھی، جو ایک تاریک، اداس گھر میں رہتی تھی اور کبھی باہر نہیں آتی تھی۔"
+          },
+          {
+            "en": "“I wonder how she knows about our Pip!” Joe said, surprised.",
+            "sd": "”مون کي حيرت آهي ته هوءَ اسان جي پپ بابت ڪيئن ٿي ڄاڻي!“ جو حيران ٿي چيو.",
+            "ur": "”مجھے حیرت ہے کہ وہ ہمارے پپ کے بارے میں کیسے جانتی ہے!“ جو نے حیران ہو کر کہا۔"
+          },
+          {
+            "en": "“Who said she knows him?” my sister snapped. “Uncle Pumblechook rents his office from her. She asked if he knew a boy. And now Pip’s fortune might be made by going to Miss Havisham’s. He’ll take Pip to town tonight and to her house in the morning.”",
+            "sd": "”ڪنهن چيو ته هوءَ کيس ڄاڻي ٿي؟“ منهنجي ڀيڻ ڪاوڙ ۾ چيو. ”انڪل پمبل چڪ سندس آفيس هن کان ڪرائي تي وٺي ٿو. هن پڇيو ته ڇا هو ڪنهن ڇوڪري کي ڄاڻي ٿو. ۽ هاڻي پپ جي قسمت مس هيوشم وٽ وڃڻ سان ٺهي سگھي ٿي. هو پپ کي اڄ رات شهر وٺي ويندو ۽ صبح جو سندس گھر.“",
+            "ur": "”کس نے کہا کہ وہ اسے جانتی ہے؟“ میری بہن نے غصے سے کہا۔ ”انکل پمبل چوک اس کا دفتر اس سے کرائے پر لیتا ہے۔ اس نے پوچھا کہ کیا وہ کسی لڑکے کو جانتا ہے۔ اور اب پپ کی قسمت مس ہیوشم کے پاس جانے سے بن سکتی ہے۔ وہ پپ کو آج رات شہر لے جائے گا اور صبح اس کے گھر۔“"
+          },
+          {
+            "en": "With that, she pounced on me like an eagle. She scrubbed my head under water, soaped me down, and stuffed me into a stiff, uncomfortable suit. Then she handed me over to Uncle Pumblechook.",
+            "sd": "ان سان گڏ، هوءَ مون تي عقاب وانگر ٽپي پئي. هن منهنجو مٿو پاڻي هيٺ ڌوتو، مون کي صابڻ لڳايو، ۽ مون کي هڪ سخت، بي آرام سوٽ ۾ وجهي ڇڏيو. پوءِ هن مون کي انڪل پمبل چڪ حوالي ڪيو.",
+            "ur": "اس کے ساتھ، وہ مجھ پر عقاب کی طرح جھپٹی۔ اس نے میرا سر پانی کے نیچے دھویا، مجھے صابن لگایا، اور مجھے ایک سخت، بے آرام سوٹ میں ڈال دیا۔ پھر اس نے مجھے انکل پمبل چوک کے حوالے کر دیا۔"
+          },
+          {
+            "en": "“Goodbye, Joe,” I called sadly.",
+            "sd": "”الوداع، جو،“ مون اداسي سان سڏ ڪيو.",
+            "ur": "”الوداع، جو،“ میں نے اداسی سے پکارا۔"
+          },
+          {
+            "en": "“Goodbye, Pip, old chap!”",
+            "sd": "”الوداع، پپ، پراڻا دوست!“",
+            "ur": "”الوداع، پپ، پرانے دوست!“"
+          },
+          {
+            "en": "I had never been away from Joe before, and between my emotions and the soap in my eyes, I couldn’t see any stars from the carriage at first. But as we moved along, the stars slowly appeared one by one. Still, they didn’t help me understand why I was being sent to Miss Havisham’s or what I was supposed to do there.",
+            "sd": "مان اڳ ڪڏهن به جو کان پري نه ويو هوس، ۽ منهنجي جذبن ۽ اکين ۾ صابڻ جي وچ ۾، مون کي پهريان گاڏي مان ڪو تارو نظر نه آيو. پر جڏهن اسان اڳتي وڌياسين، ته تارا آهستي آهستي هڪ هڪ ٿي ظاهر ٿيڻ لڳا. اڃا به، انهن مون کي اهو سمجھڻ ۾ مدد نه ڪئي ته مون کي مس هيوشم وٽ ڇو موڪليو پيو وڃي يا مون کي اتي ڇا ڪرڻو هو.",
+            "ur": "میں پہلے کبھی جو سے دور نہیں گیا تھا، اور میرے جذبات اور آنکھوں میں صابن کے درمیان، مجھے پہلے گاڑی سے کوئی تارہ نظر نہیں آیا۔ لیکن جب ہم آگے بڑھے، تو تارے آہستہ آہستہ ایک ایک کر کے ظاہر ہونے لگے۔ پھر بھی، انہوں نے مجھے یہ سمجھنے میں مدد نہیں کی کہ مجھے مس ہیوشم کے پاس کیوں بھیجا جا رہا ہے یا مجھے وہاں کیا کرنا تھا۔"
+          },
+          {
+            "en": "The next morning at ten o’clock, Uncle Pumblechook took me in his carriage to Satis House, the residence of Miss Havisham. The house was enormous and had a somber, eerie atmosphere. Its old, dark brick walls were lined with rusty bars on the windows, and a tall iron gate at the front was locked. Uncle Pumblechook rang the bell, and we stood waiting.",
+            "sd": "ٻئي ڏينهن صبح جو ڏهين بجي، انڪل پمبل چڪ مون کي پنهنجي گاڏي ۾ سيٽس هائوس وٺي ويو، جيڪو مس هيوشم جو گھر هو. گھر تمام وڏو هو ۽ ان جو ماحول اداس ۽ خوفناڪ هو. سندس پراڻيون، اونداهيون سرن جون ڀتيون درين تي زنگ لڳل سلاخن سان ڍڪيل هيون، ۽ اڳيان هڪ ڊگهو لوهه جو دروازو بند هو. انڪل پمبل چڪ گهنٽي وڄائي، ۽ اسان انتظار ڪندي بيٺا رھياسين.",
+            "ur": "اگلے دن صبح دس بجے، انکل پمبل چوک مجھے اپنی گاڑی میں سیٹس ہاؤس لے گیا، جو مس ہیوشم کا گھر تھا۔ گھر بہت بڑا تھا اور اس کا ماحول اداس اور خوفناک تھا۔ اس کی پرانی، تاریک اینٹوں کی دیواریں کھڑکیوں پر زنگ لگی سلاخوں سے ڈھکی ہوئی تھیں، اور سامنے ایک اونچا لوہے کا دروازہ بند تھا۔ انکل پمبل چوک نے گھنٹی بجائی، اور ہم انتظار کرتے کھڑے رہے۔"
+          },
+          {
+            "en": "A few moments later, a strikingly beautiful girl, dressed in fine clothes, walked across the paved courtyard toward us. She was very pretty but carried herself with an air of pride. She asked for my name and, after hearing it, led me inside while firmly stopping Uncle Pumblechook from following. The girl, about my age but carrying herself with confidence beyond her years, guided me through the neglected courtyard and into the dark, shuttered house. Holding a single candle for light, she led me through dim hallways and up a grand staircase before leaving me alone at a door, taking the candle with her.",
+            "sd": "ڪجهه لمحن کان پوءِ، هڪ حيرت انگيز سهڻي ڇوڪري، سٺا ڪپڙا پائي، پڪي صحن مان اسان ڏانهن هلندي آئي. هوءَ ڏاڍي سهڻي هئي پر پاڻ کي فخر سان کڻي رھي هئي. هن منهنجو نالو پڇيو ۽، اهو ٻڌڻ کان پوءِ، مون کي اندر وٺي وئي، جڏهن ته انڪل پمبل چڪ کي پٺيان اچڻ کان سختي سان روڪيائين. ڇوڪري، منهنجي عمر جي لڳ ڀڳ پر پنهنجي عمر کان وڌيڪ اعتماد سان پاڻ کي کڻي رھي هئي، مون کي نظرانداز ٿيل صحن مان ۽ اونداهي، بند گھر ۾ وٺي وئي. روشني لاءِ هڪ موم بتي جهلي، هوءَ مون کي مدھم رستن مان ۽ هڪ وڏي ڏاڪڻ تان مٿي وٺي وئي، ان کان اڳ جو مون کي هڪ در وٽ اڪيلو ڇڏي، موم بتي پاڻ سان وٺي وئي.",
+            "ur": "کچھ لمحوں بعد، ایک حیرت انگیز خوبصورت لڑکی، اچھے کپڑے پہنے، پکے صحن سے ہماری طرف چلتی آئی۔ وہ بہت خوبصورت تھی لیکن خود کو فخر سے اٹھائے ہوئے تھی۔ اس نے میرا نام پوچھا اور، یہ سننے کے بعد، مجھے اندر لے گئی، جبکہ انکل پمبل چوک کو پیچھے آنے سے سختی سے روکا۔ لڑکی، میری عمر کے قریب لیکن اپنی عمر سے زیادہ اعتماد کے ساتھ خود کو اٹھائے ہوئے، مجھے نظرانداز شدہ صحن سے اور تاریک، بند گھر میں لے گئی۔ روشنی کے لیے ایک موم بتی پکڑے، وہ مجھے مدھم راہداریوں سے اور ایک بڑی سیڑھی سے اوپر لے گئی، اس سے پہلے کہ مجھے ایک دروازے پر اکیلا چھوڑے، موم بتی اپنے ساتھ لے گئی۔"
+          },
+          {
+            "en": "I was half afraid. I knocked hesitantly, and a quiet voice called, “Come in.”",
+            "sd": "مان اڌ ڊڄي ويو هوس. مون هٻڪندي در کڙڪايو، ۽ هڪ خاموش آواز سڏيو، ”اندر اچ.“",
+            "ur": "میں آدھا ڈرا ہوا تھا۔ میں نے ہچکچاتے ہوئے دروازہ کھٹکھٹایا، اور ایک خاموش آواز نے پکارا، ”اندر آؤ۔“"
+          },
+          {
+            "en": "I pushed the door open and stepped inside, my eyes widening in astonishment.",
+            "sd": "مون در کي ڌڪي کوليو ۽ اندر قدم رکيو، منهنجون اکيون حيرت سان ويڪريون ٿي ويون.",
+            "ur": "میں نے دروازے کو دھکیل کر کھولا اور اندر قدم رکھا، میری آنکھیں حیرت سے پھیل گئیں۔"
+          },
+          {
+            "en": "The room was vast, filled with furniture, yet heavy curtains blocked out daylight, leaving only the glow of candlelight. I realized I was in a lady’s dressing room. Seated at the dressing table was the strangest woman I had ever seen.",
+            "sd": "ڪمرو وسيع هو، فرنيچر سان ڀريل، پر ڳرا پردا ڏينهن جي روشني کي روڪي رھيا هئا، رڳو موم بتي جي روشني ڇڏي. مون کي سمجھ ۾ آيو ته مان هڪ عورت جي سينگار واري ڪمري ۾ آهيان. سينگار واري ميز تي ويٺل اها عجيب ترين عورت هئي جيڪا مون ڪڏهن ڏٺي هئي.",
+            "ur": "کمرہ وسیع تھا، فرنیچر سے بھرا ہوا، لیکن بھاری پردے دن کی روشنی کو روک رہے تھے، صرف موم بتی کی روشنی چھوڑ کر۔ مجھے سمجھ آیا کہ میں ایک خاتون کے سنگھار والے کمرے میں ہوں۔ سنگھار والی میز پر بیٹھی وہ عجیب ترین عورت تھی جو میں نے کبھی دیکھی تھی۔"
+          },
+          {
+            "en": "She wore an extravagant dress of satin and lace, all in white. A long wedding veil cascaded from her head, and to my shock, her hair was also white. Wedding flowers adorned her, and bright jewels sparkled on the dressing table before her. One of her shoes rested on the floor, the other atop the table. She leaned forward, supporting her face with her hand.",
+            "sd": "هن ساٽن ۽ ليس جو هڪ شاندار لباس پاتو هو، سڀ اڇو. سندس مٿي تان هڪ ڊگهو شادي جو پردو لڙڪي رھيو هو، ۽ منهنجي حيرت لاءِ، سندس وار به اڇا هئا. شادي جا گل هن کي سينگاري رھيا هئا، ۽ چمڪندڙ زيور هن جي سامهون سينگار واري ميز تي چمڪي رھيا هئا. سندس هڪ جوتو فرش تي رکيل هو، ٻيو ميز مٿان. هوءَ اڳتي جھڪي، پنهنجي منهن کي هٿ سان سهارو ڏئي رھي هئي.",
+            "ur": "اس نے ساٹن اور لیس کا ایک شاندار لباس پہنا تھا، سب سفید۔ اس کے سر سے ایک لمبا شادی کا پردہ لٹک رہا تھا، اور میری حیرت کے لیے، اس کے بال بھی سفید تھے۔ شادی کے پھول اسے سجا رہے تھے، اور چمکتے زیور اس کے سامنے سنگھار والی میز پر چمک رہے تھے۔ اس کا ایک جوتا فرش پر رکھا تھا، دوسرا میز کے اوپر۔ وہ آگے جھکی، اپنے چہرے کو ہاتھ سے سہارا دے رہی تھی۔"
+          },
+          {
+            "en": "Around the room, large trunks overflowed with elegant silk and satin dresses, but they were faded and tattered. Everything that had once been white had turned yellow with age. The bride within the wedding gown had grown old and wrinkled. The dress hung loose upon a figure that was now skin and bone.",
+            "sd": "ڪمري چوڌاري، وڏا صندوق خوبصورت ريشم ۽ ساٽن جي لباسن سان ڀريل هئا، پر اهي مدھم ۽ ڦاٽل هئا. هر شيءِ جيڪا هڪ ڀيرو اڇي هئي، عمر سان پيلي ٿي وئي هئي. شادي جي لباس ۾ ويٺل ڪنوار پوڙهي ۽ سڪڙيل ٿي وئي هئي. لباس هڪ اهڙي جسم تي لڙڪي رھيو هو جيڪو هاڻي رڳو چمڙي ۽ هڏا هو.",
+            "ur": "کمرے کے چاروں طرف، بڑے صندوق خوبصورت ریشم اور ساٹن کے لباسوں سے بھرے ہوئے تھے، لیکن وہ مدھم اور پھٹے ہوئے تھے۔ ہر چیز جو کبھی سفید تھی، عمر کے ساتھ پیلی ہو گئی تھی۔ شادی کے لباس میں بیٹھی دلہن بوڑھی اور سلوٹوں والی ہو گئی تھی۔ لباس ایک ایسے جسم پر لٹک رہا تھا جو اب صرف جلد اور ہڈیاں تھا۔"
+          },
+          {
+            "en": "She moved slightly, fixing her piercing dark eyes on me.",
+            "sd": "هوءَ ٿورو هلي، پنهنجون تيز اونداهيون اکيون مون تي ڄمائي ڇڏيائين.",
+            "ur": "وہ تھوڑا سا ہلی، اپنی تیز تاریک آنکھیں مجھ پر جما دیں۔"
+          },
+          {
+            "en": "\"Who is it?\" she asked.",
+            "sd": "”ڪير آهي؟“ هن پڇيو.",
+            "ur": "”کون ہے؟“ اس نے پوچہا۔"
+          },
+          {
+            "en": "\"Pip, ma'am. Mr. Pumblechook's boy. I've come to play.\"",
+            "sd": "”پپ، مئڊم. مسٽر پمبل چوڪ جو ڇوڪرو آهيان. کيڏڻ لاءِ آيو آهيان.“",
+            "ur": "”پپ، میڈم۔ مسٹر پمبل چوک کا لڑکا ہوں۔ کہیلنے آیا ہوں۔“"
+          },
+          {
+            "en": "\"Come closer. Let me see you,\" she commanded.",
+            "sd": "”ويجهو اچ. توکي ڏسان،“ هن حڪم ڏنو.",
+            "ur": "”قریب آؤ۔ تمہیں دیکہوں،“ اس نے حکم دیا۔"
+          },
+          {
+            "en": "I hesitated but stepped forward, avoiding her gaze. Then, my eyes caught sight of a watch on the dressing table, frozen at twenty minutes to nine. A clock in the room had stopped at the same time.",
+            "sd": "مون جھجڪندي اڳتي قدم وڌايو، هن جي نظر کان پاسو ڪندي. پوءِ منهنجي نظر ڊريسنگ ٽيبل تي پيل گھڙي تي پئي، جيڪا نو وڳڻ ۾ ويه منٽ تي بيٺل هئي. ڪمري جي گھڙي به ساڳئي وقت تي بيٺي هئي.",
+            "ur": "میں جہجکتا ہوا آگے بڑہا، اس کی نظروں سے بچتے ہوئے۔ پہر میری نظر ڈریسنگ ٹیبل پر رکہی گہڑی پر پڑی، جو نو بجنے میں بیس منٹ پر رکی ہوئی تہی۔ کمرے کی گہڑی بہی اسی وقت پر رک گئی تہی۔"
+          },
+          {
+            "en": "\"Look at me,\" Miss Havisham said. \"Are you afraid to see a woman who has not glimpsed the sunlight since before you were born?\"",
+            "sd": "”مون ڏانهن ڏس،“ مس هيويشم چيو. ”ڇا تون انهيءَ عورت کي ڏسي ڊڄين ٿو، جنهن تنهنجي ڄمڻ کان اڳ کان سج جي روشني نه ڏٺي آهي؟“",
+            "ur": "”میری طرف دیکہو،“ مس ہیویشم نے کہا۔ ”کیا تم اس عورت کو دیکہ کر ڈرتے ہو، جس نے تمہارے پیدا ہونے سے پہلے سے سورج کی روشنی نہیں دیکہی؟“"
+          },
+          {
+            "en": "She touched her heart and whispered, \"Look here—my heart is broken. Broken. And I am so tired... But I thought I would like to see a child play. So, play, boy. Play!\"",
+            "sd": "هن پنهنجي دل کي هٿ لاتو ۽ سرٻاٽ ۾ چيو، ”هتي ڏس — منهنجي دل ٽٽي وئي آهي. ٽٽي وئي آهي. ۽ مان تمام گھڻي ٿڪل آهيان... پر مون سوچيو ته ڪو ٻار کيڏندو ڏسان. تنهنڪري، کيڏ، ڇوڪرا. کيڏ!“",
+            "ur": "اس نے اپنا دل چہوا اور سرگوشی میں کہا، ”یہاں دیکہو — میرا دل ٹوٹ گیا ہے۔ ٹوٹ گیا ہے۔ اور میں بہت تہکی ہوئی ہوں... لیکن میں نے سوچا کہ کسی بچے کو کہیلتے دیکہوں۔ اس لیے، کہیلو، لڑکے۔ کہیلو!“"
+          },
+          {
+            "en": "I stood frozen, unsure of what to do.",
+            "sd": "مان بيٺو رھيس، خبر نه هئي ته ڇا ڪريان.",
+            "ur": "میں ساکت کہڑا رہا، سمجہ نہیں آ رہا تہا کہ کیا کروں۔"
+          },
+          {
+            "en": "\"Call Estella,\" she instructed. \"Go to the door and call her.\"",
+            "sd": "”ايسٽيلا کي سڏ،“ هن هدايت ڏني. ”دروازي ڏانهن وڃ ۽ هن کي سڏ.“",
+            "ur": "”اسٹیلا کو بلاؤ،“ اس نے ہدایت دی۔ ”دروازے پر جاؤ اور اسے بلاؤ۔“"
+          },
+          {
+            "en": "Though nervous, I obeyed. Opening the door, I called her name several times before seeing the girl approach, a candle in hand.",
+            "sd": "جيتوڻيڪ مان گھٻرايل هوس، مون حڪم مڃيو. دروازو کولي، مون هن جو نالو ڪيترائي ڀيرا سڏيو، ان کان اڳ جو ڇوڪري کي هٿ ۾ ميڻ بتي کڻي ايندي ڏسان.",
+            "ur": "اگرچہ میں گہبرایا ہوا تہا، میں نے حکم مانا۔ دروازہ کہول کر، میں نے اس کا نام کئی بار پکارا، اس سے پہلے کہ لڑکی کو ہاتہ میں موم بتی لیے آتے دیکہوں۔"
+          },
+          {
+            "en": "Miss Havisham's lips curled into a smile as Estella entered the room.",
+            "sd": "جڏهن ايسٽيلا ڪمري ۾ داخل ٿي، مس هيويشم جا چپ مرڪ ۾ وڪڙي ويا.",
+            "ur": "جب اسٹیلا کمرے میں داخل ہوئی تو مس ہیویشم کے ہونٹ مسکراہٹ میں مڑ گئے۔"
+          },
+          {
+            "en": "She lifted a jewel and held it against the girl's dark hair.",
+            "sd": "هن هڪ زيور کنيو ۽ ان کي ڇوڪري جي ڪارن وارن تي رکيو.",
+            "ur": "اس نے ایک زیور اٹہایا اور اسے لڑکی کے کالے بالوں سے لگایا۔"
+          },
+          {
+            "en": "\"One day, these jewels will be yours,\" Miss Havisham murmured.",
+            "sd": "”هڪ ڏينهن، هي زيور تنهنجا ٿي ويندا،“ مس هيويشم سرٻاٽ ۾ چيو.",
+            "ur": "”ایک دن، یہ زیور تمہارے ہوں گے،“ مس ہیویشم نے سرگوشی میں کہا۔"
+          },
+          {
+            "en": "\"Now, play cards with this boy.\"",
+            "sd": "”هاڻي، هن سان تاش کيڏ.“",
+            "ur": "”اب، اس لڑکے کے ساتہ تاش کہیلو۔“"
+          },
+          {
+            "en": "\"This boy?\" Estella said with disdain. \"Look at his clothes—he's just a common working boy!\"",
+            "sd": "”هي ڇوڪرو؟“ ايسٽيلا حقارت سان چيو. ”هن جا ڪپڑا ڏس — هو رڳو هڪ عام مزدور ڇوڪرو آهي!“",
+            "ur": "”یہ لڑکا؟“ اسٹیلا نے حقارت سے کہا۔ ”اس کے کپڑے دیکہو — وہ تو بس ایک عام مزدور لڑکا ہے!“"
+          },
+          {
+            "en": "\"Never mind,\" Miss Havisham whispered. \"You can break his heart, can't you?\"",
+            "sd": "”ڪا ڳاله ناهي،“ مس هيويشم سرٻاٽ ۾ چيو. ”تون هن جي دل ٽوڙي سگھين ٿي، نه؟“",
+            "ur": "”کوئی بات نہیں،“ مس ہیویشم نے سرگوشی میں کہا۔ ”تم اس کا دل توڑ سکتی ہو، ہے نا؟“"
+          },
+          {
+            "en": "So, I played cards with Estella. Each time I made a mistake, she laughed, which only made me blunder more.",
+            "sd": "تنهنڪري، مون ايسٽيلا سان تاش کيڏي. هر ڀيري جڏهن مون ڪا غلطي ڪئي، هوءَ کلي پئي، جنهن سان مان وڌيڪ غلطيون ڪرڻ لڳس.",
+            "ur": "تو میں نے اسٹیلا کے ساتہ تاش کہیلا۔ جب بہی میں کوئی غلطی کرتا، وہ ہنس پڑتی، جس سے میں اور زیادہ غلطیاں کرنے لگتا۔"
+          },
+          {
+            "en": "\"What rough hands this boy has!\" she remarked as I held the cards.",
+            "sd": "”هن جا هٿ ڪيترا کُردرا آهن!“ هن چيو، جڏهن مان تاش جا پن کنيو بيٺو هوس.",
+            "ur": "”اس لڑکے کے ہاتہ کتنے کہردرے ہیں!“ اس نے کہا جب میں تاش کے پتے پکڑے ہوا تہا۔"
+          },
+          {
+            "en": "\"And look at his heavy boots!\"",
+            "sd": "”۽ هن جا ڳرا بوٽ ڏس!“",
+            "ur": "”اور اس کے بہاری بوٹ دیکہو!“"
+          },
+          {
+            "en": "\"Why don't you respond, Pip?\" Miss Havisham prompted. \"She speaks cruelly of you—what do you think of her?\"",
+            "sd": "”تون جواب ڇو نه ٿو ڏين، پپ؟“ مس هيويشم چيو. ”هوءَ تنهنجي بابت ايتري بي رحمي سان ڳالهائي ٿي — تون هن بابت ڇا ٿو سوچين؟“",
+            "ur": "”تم جواب کیوں نہیں دیتے، پپ؟“ مس ہیویشم نے کہا۔ ”وہ تمہارے بارے میں اتنی بے رحمی سے بولتی ہے — تم اس کے بارے میں کیا سوچتے ہو؟“"
+          },
+          {
+            "en": "I hesitated. \"I don't wish to say.\"",
+            "sd": "مون جھجڪ ڪئي. ”مان چوڻ نٿو چاهيان.“",
+            "ur": "میں جہجکا۔ ”میں کہنا نہیں چاہتا۔“"
+          },
+          {
+            "en": "\"Whisper it to me,\" she urged.",
+            "sd": "”مون کي ڪن ۾ ٻڌاءِ،“ هن زور ڏنو.",
+            "ur": "”مجہے کان میں بتاؤ،“ اس نے زور دیا۔"
+          },
+          {
+            "en": "\"I think she is very proud,\" I admitted softly.",
+            "sd": "”منهنجو خيال آهي ته هوءَ تمام گھڻي مغرور آهي،“ مون نرمي سان مڃيو.",
+            "ur": "”میرا خیال ہے کہ وہ بہت مغرور ہے،“ میں نے نرمی سے مانا۔"
+          },
+          {
+            "en": "\"Yes, and what else?\"",
+            "sd": "”هائو، ۽ ٻيو ڇا؟“",
+            "ur": "”ہاں، اور کیا؟“"
+          },
+          {
+            "en": "\"She is very pretty,\" I added.",
+            "sd": "”هوءَ تمام گھڻي سهڻي آهي،“ مون وڌيڪ چيو.",
+            "ur": "”وہ بہت خوبصورت ہے،“ میں نے مزید کہا۔"
+          },
+          {
+            "en": "\"And?\"",
+            "sd": "”۽؟“",
+            "ur": "”اور؟“"
+          },
+          {
+            "en": "\"She is also very rude. And, please, I would like to go home now.\"",
+            "sd": "”هوءَ تمام گھڻي بدتميز به آهي. ۽، مهرباني ڪري، مان هاڻي گھر وڃڻ چاهيان ٿو.“",
+            "ur": "”وہ بہت بدتمیز بہی ہے۔ اور، مہربانی کر کے، میں اب گہر جانا چاہتا ہوں۔“"
+          },
+          {
+            "en": "\"Finish your game first,\" Miss Havisham instructed.",
+            "sd": "”پهرين پنهنجي راند پوري ڪر،“ مس هيويشم هدايت ڏني.",
+            "ur": "”پہلے اپنا کہیل ختم کرو،“ مس ہیویشم نے ہدایت دی۔"
+          },
+          {
+            "en": "When Estella won the last round, she tossed the cards down with a contemptuous smile.",
+            "sd": "جڏهن ايسٽيلا آخري رائونڊ کٽيو، هن تاش جا پن حقارت ڀري مرڪ سان هيٺ اڇلايا.",
+            "ur": "جب اسٹیلا نے آخری راؤنڈ جیتا تو اس نے حقارت بہری مسکراہٹ کے ساتہ تاش کے پتے نیچے پہینک دیے۔"
+          },
+          {
+            "en": "\"Return in six days, Pip,\" Miss Havisham told me as I rose to leave.",
+            "sd": "”ڇهن ڏينهن کان پوءِ واپس اچجان، پپ،“ مس هيويشم مون کي چيو، جڏهن مان وڃڻ لاءِ اٿيس.",
+            "ur": "”چہ دن بعد واپس آنا، پپ،“ مس ہیویشم نے مجہ سے کہا جب میں جانے کے لیے اٹہا۔"
+          },
+          {
+            "en": "\"Take him downstairs, Estella. Give him something to eat before he goes.\"",
+            "sd": "”هن کي هيٺ وٺي وڃ، ايسٽيلا. هن جي وڃڻ کان اڳ هن کي کائڻ لاءِ ماني ڏي.“",
+            "ur": "”اسے نیچے لے جاؤ، اسٹیلا۔ اس کے جانے سے پہلے اسے کچہ کہانے کو دو۔“"
+          },
+          {
+            "en": "I followed Estella down the dark corridors and staircases. As she opened the side door, the sudden brightness of the daylight overwhelmed me.",
+            "sd": "مان ايسٽيلا جي پٺيان اونداهي رستن ۽ ڏاڪڻين تان هيٺ ويس. جڏهن هن پاسي وارو دروازو کوليو، ڏينهن جي روشني جي اوچتي چمڪ مون کي حيران ڪري ڇڏيو.",
+            "ur": "میں اسٹیلا کے پیچہے اندہیری راہداریوں اور سیڑہیوں سے نیچے گیا۔ جب اس نے سائیڈ والا دروازہ کہولا تو دن کی روشنی کی اچانک چمک نے مجہے حیران کر دیا۔"
+          },
+          {
+            "en": "She left me waiting in the courtyard, then returned moments later with a plate of bread and meat. Without a word, she placed the food on the ground as if feeding a stray dog.",
+            "sd": "هوءَ مون کي صحن ۾ انتظار ڪرائي وئي، پوءِ ٿوري دير کان پوءِ ماني ۽ گوشت جي ٿالهي کڻي موٽي آئي. خاموشي سان، هن کاڌو زمين تي رکيو، ڄڻ ڪنهن ڀٽڪندڙ ڪتي کي کارائي رھي هجي.",
+            "ur": "وہ مجہے صحن میں انتظار کراتی گئی، پہر تہوڑی دیر بعد روٹی اور گوشت کی پلیٹ لے کر واپس آئی۔ بغیر کچہ کہے، اس نے کہانا زمین پر رکہ دیا، جیسے کسی آوارہ کتے کو کہلا رہی ہو۔"
+          },
+          {
+            "en": "Tears welled in my eyes, but I turned away so she wouldn't see me cry. Once she had gone, I let my tears fall freely and kicked the wall in frustration, my heavy boots—those she had mocked—striking against the stone.",
+            "sd": "منهنجين اکين ۾ ڳوڙها اچي ويا، پر مون منهن موڙي ورتو ته جيئن هوءَ مون کي روئيندي نه ڏسي. جڏهن هوءَ هلي وئي، مون پنهنجا ڳوڙها آزادي سان وهڻ ڏنا ۽ ڪاوڙ ۾ ڀت کي لات هني، منهنجا ڳرا بوٽ — جن جو هن مذاق اڏايو هو — پٿر سان ٽڪرائجي رھيا هئا.",
+            "ur": "میری آنکہوں میں آنسو بہر آئے، لیکن میں نے منہ موڑ لیا تاکہ وہ مجہے روتے نہ دیکہے۔ جب وہ چلی گئی تو میں نے اپنے آنسو آزادانہ بہنے دیے اور غصے میں دیوار کو لات ماری، میرے بہاری بوٹ — جن کا اس نے مذاق اڑایا تہا — پتہر سے ٹکرا رہے تہے۔"
+          },
+          {
+            "en": "Later, she returned with her keys, unlocked the gate, and looked at me with amusement.",
+            "sd": "ٿوري دير کان پوءِ، هوءَ پنهنجين چاٻين سان موٽي آئي، دروازو کوليو، ۽ مون ڏانهن مزاح سان ڏٺو.",
+            "ur": "بعد میں، وہ اپنی چابیاں لے کر واپس آئی، دروازہ کہولا، اور مجہے دلچسپی سے دیکہا۔"
+          },
+          {
+            "en": "\"Why aren't you crying?\" she asked with a smirk.",
+            "sd": "”تون روئي ڇو نه ٿو؟“ هن ٺٺول ڀري مرڪ سان پڇيو.",
+            "ur": "”تم رو کیوں نہیں رہے؟“ اس نے طنزیہ مسکراہٹ سے پوچہا۔"
+          },
+          {
+            "en": "\"Because I don't want to,\" I replied.",
+            "sd": "”ڇاڪاڻ ته مان روئڻ نٿو چاهيان،“ مون جواب ڏنو.",
+            "ur": "”کیونکہ میں رونا نہیں چاہتا،“ میں نے جواب دیا۔"
+          },
+          {
+            "en": "\"Yes, you do,\" she countered. \"Your eyes are red. You were crying just now.\"",
+            "sd": "”نه، تون روئين ٿو،“ هن وراڻيو. ”تنهنجيون اکيون ڳاڙهيون آهن. تون هاڻي ئي روئي رھيو هئين.“",
+            "ur": "”نہیں، تم رو رہے ہو،“ اس نے جواب دیا۔ ”تمہاری آنکہیں سرخ ہیں۔ تم ابہی رو رہے تہے۔“"
+          },
+          {
+            "en": "She laughed, pushed me outside, and locked the gate behind me.",
+            "sd": "هوءَ کلي، مون کي ٻاهر ڌڪي ڇڏيو، ۽ منهنجي پٺيان دروازو بند ڪري ڇڏيو.",
+            "ur": "وہ ہنسی، مجہے باہر دہکیل دیا، اور میرے پیچہے دروازہ بند کر دیا۔"
+          },
+          {
+            "en": "I walked back to Uncle Pumblechook's house, but he wasn't home. So, I began the long trek back to the forge on my own.",
+            "sd": "مان چاچي پمبل چوڪ جي گھر ڏانهن واپس ويس، پر هو گھر نه هو. تنهنڪري، مان اڪيلو لوهارخاني ڏانهن ڊگهو پنڌ ڪرڻ لڳس.",
+            "ur": "میں چچا پمبل چوک کے گہر واپس گیا، لیکن وہ گہر پر نہیں تہا۔ اس لیے، میں اکیلا لوہار خانے کی طرف لمبا سفر کرنے لگا۔"
+          },
+          {
+            "en": "As I walked, my mind was filled with thoughts of the strange encounter. I thought about Estella—her scorn, her cruel words, and how she had made me ashamed of my clothes, my boots, and, most painfully, myself.",
+            "sd": "جڏهن مان هلي رھيو هوس، منهنجو ذهن انهيءَ عجيب ملاقات جي سوچن سان ڀريل هو. مون ايسٽيلا بابت سوچيو — هن جي حقارت، هن جا بي رحم لفظ، ۽ ڪيئن هن مون کي منهنجن ڪپڙن، منهنجن بوٽن، ۽ سڀ کان وڌيڪ ڏک سان، پاڻ تي شرمسار ڪري ڇڏيو هو.",
+            "ur": "جب میں چل رہا تہا تو میرا ذہن اس عجیب ملاقات کے خیالات سے بہرا ہوا تہا۔ میں نے اسٹیلا کے بارے میں سوچا — اس کی حقارت، اس کے بے رحم الفاظ، اور کس طرح اس نے مجہے اپنے کپڑوں، اپنے بوٹوں، اور سب سے زیادہ تکلیف دہ بات، خود پر شرمندہ کر دیا تہا۔"
+          },
+          {
+            "en": "I wished I had never met her.",
+            "sd": "منهنجي خواهش هئي ته مان هن سان ڪڏهن به نه مليان ها.",
+            "ur": "میری خواہش تہی کہ میں اس سے کبہی نہ ملا ہوتا۔"
+          },
+          {
+            "en": "And yet, I couldn't stop thinking about how beautiful she was.",
+            "sd": "۽ پوءِ به، مان هن جي خوبصورتي بابت سوچڻ کان پاڻ کي روڪي نه سگھيس.",
+            "ur": "اور پہر بہی، میں اس کی خوبصورتی کے بارے میں سوچنا بند نہیں کر سکا۔"
+          },
+          {
+            "en": "When I got home, my sister bombarded me with questions about my visit to Miss Havisham. I didn't know how to explain the strange, decayed world of Satis House, so instead, I made up a story—one full of wealth, gold plates, and grand scenes that never happened. She and Uncle Pumblechook believed every word, marveling at my lies.",
+            "sd": "جڏهن مان گھر پهتس، منهنجي ڀيڻ مون تي مس هيويشم جي ملاقات بابت سوالن جي بوڇاڙ ڪري ڇڏي. مون کي خبر نه هئي ته سيٽس هائوس جي عجيب، ڀڳل دنيا کي ڪيئن بيان ڪريان، تنهنڪري مون هڪ ڪهاڻي ٺاهي ورتي — دولت، سون جي ٿالهين، ۽ وڏن منظرن سان ڀريل، جيڪي ڪڏهن ٿيا ئي نه هئا. هوءَ ۽ چاچو پمبل چوڪ منهنجي هر ڳاله تي يقين ڪري ورتو، منهنجن ڪوڙن تي حيران ٿي.",
+            "ur": "جب میں گہر پہنچا تو میری بہن نے مجہ پر مس ہیویشم سے ملاقات کے بارے میں سوالوں کی بوچہاڑ کر دی۔ مجہے سمجہ نہیں آ رہا تہا کہ سیٹس ہاؤس کی عجیب، بوسیدہ دنیا کو کیسے بیان کروں، اس لیے میں نے ایک کہانی بنا لی — دولت، سونے کی پلیٹوں، اور بڑے بڑے مناظر سے بہری، جو کبہی ہوئے ہی نہیں تہے۔ وہ اور چچا پمبل چوک میری ہر بات پر یقین کر گئے، میرے جہوٹ پر حیران ہوتے ہوئے۔"
+          },
+          {
+            "en": "But later, guilt gnawed at me. I found Joe in the forge and confessed everything. He wasn't angry, just disappointed. He told me that lies are never justified and lies wouldn't make me less \"common\" and that the only way to be truly uncommon was through honesty and goodness. His words struck something deep in me. That night, as I lay in bed, I realized Joe—simple, kind, and honest—was the best man I knew.",
+            "sd": "پر پوءِ، ڏوه جو احساس مون کي کائي ويو. مون جو کي لوهارخاني ۾ ڳولهيو ۽ سڀ شيون مڃي ورتيون. هو ڪاوڙيل نه هو، رڳو مايوس هو. هن مون کي چيو ته ڪوڙ ڪڏهن به جائز نه آهي ۽ ڪوڙ مون کي ”عام“ کان گھٽ نه ڪندو، ۽ سچي نموني غير عام ٿيڻ جو واحد رستو سچائي ۽ چڱائي آهي. هن جا لفظ منهنجي اندر گهرائي سان لڳا. ان رات، جڏهن مان بستري تي ليٽيو هوس، مون کي احساس ٿيو ته جو — سادو، مهربان، ۽ سچو — منهنجي ڄاتل بهترين ماڻهو هو.",
+            "ur": "لیکن بعد میں، گناہ کا احساس مجہے کہانے لگا۔ میں نے جو کو لوہار خانے میں ڈہونڈا اور سب کچہ مان لیا۔ وہ ناراض نہیں تہا، بس مایوس تہا۔ اس نے مجہے بتایا کہ جہوٹ کبہی جائز نہیں ہوتا اور جہوٹ مجہے ”عام“ سے کم نہیں کرے گا، اور سچے معنوں میں غیر معمولی بننے کا واحد راستہ سچائی اور اچہائی ہے۔ اس کے الفاظ میرے اندر گہرائی تک اتر گئے۔ اس رات، جب میں بستر پر لیٹا تہا، مجہے احساس ہوا کہ جو — سادہ، مہربان، اور سچا — میرا جانا ہوا بہترین آدمی تہا۔"
+          },
+          {
+            "en": "When I returned to Miss Havisham's house, Estella led me through a different part of the house. She suddenly stopped and asked if I thought she was pretty and insulting. When I hesitated, she slapped me, mocking me for not crying like before. Though I was hurt, I refused to show it.",
+            "sd": "جڏهن مان مس هيويشم جي گھر موٽي ويس، ايسٽيلا مون کي گھر جي ٻئي حصي مان وٺي وئي. هوءَ اوچتو بيھي رھي ۽ پڇيو ته ڇا مان هن کي سهڻي ٿي سمجھان. جڏهن مون جھجڪ ڪئي، هن مون کي ٿڦڙ هنيو، ۽ اڳ وانگر نه روئڻ تي منهنجو مذاق اڏايو. جيتوڻيڪ مون کي ڏک پهتو، مون ان کي ظاهر ڪرڻ کان انڪار ڪري ڇڏيو.",
+            "ur": "جب میں مس ہیویشم کے گہر واپس گیا تو اسٹیلا مجہے گہر کے دوسرے حصے سے لے گئی۔ وہ اچانک رک گئی اور پوچہا کہ کیا میں اسے خوبصورت سمجہتا ہوں۔ جب میں جہجکا تو اس نے مجہے تہپڑ مارا، اور پہلے کی طرح نہ رونے پر میرا مذاق اڑایا۔ اگرچہ مجہے تکلیف ہوئی، میں نے اسے ظاہر کرنے سے انکار کر دیا۔"
+          },
+          {
+            "en": "Upstairs, Miss Havisham impatiently asked if I was ready to play, but when I hesitated, she suggested I work instead. She sent me to a dark, musty room where an old, cobweb-covered table stood. She revealed that this was her wedding feast, abandoned long ago, and that the table would one day hold her body when she died. She then asked me to walk her around the room.",
+            "sd": "مٿي، مس هيويشم بي صبري سان پڇيو ته ڇا مان کيڏڻ لاءِ تيار آهيان، پر جڏهن مون جھجڪ ڪئي، هن چيو ته مان ان جي بدران ڪم ڪريان. هن مون کي هڪ اونداهي، بدبودار ڪمري ۾ موڪليو، جتي هڪ پراڻي، ڪوريئڙن سان ڍڪيل ميز بيٺي هئي. هن ٻڌايو ته هي هن جي شادي جي دعوت هئي، جيڪا گھڻو اڳ ڇڏي وئي هئي، ۽ هي ميز هڪ ڏينهن هن جي مرڻ کان پوءِ هن جو جسم رکندي. پوءِ هن مون کي چيو ته مان هن کي ڪمري ۾ گھمايان.",
+            "ur": "اوپر، مس ہیویشم نے بے صبری سے پوچہا کہ کیا میں کہیلنے کے لیے تیار ہوں، لیکن جب میں جہجکا تو اس نے کہا کہ میں اس کے بجائے کام کروں۔ اس نے مجہے ایک اندہیرے، بدبودار کمرے میں بہیجا، جہاں ایک پرانی، مکڑی کے جالوں سے ڈہکی میز کہڑی تہی۔ اس نے بتایا کہ یہ اس کی شادی کی دعوت تہی، جو بہت پہلے چہوڑ دی گئی تہی، اور یہ میز ایک دن اس کے مرنے پر اس کا جسم رکہے گی۔ پہر اس نے مجہ سے کہا کہ میں اسے کمرے میں گہماؤں۔"
+          },
+          {
+            "en": "Later, she made Estella and me play cards, constantly drawing my attention to Estella's beauty.",
+            "sd": "پوءِ، هن مون کي ۽ ايسٽيلا کي تاش کيڏايو، ۽ مسلسل منهنجو ڌيان ايسٽيلا جي خوبصورتي ڏانهن ڇڪيندي رھي.",
+            "ur": "بعد میں، اس نے مجہے اور اسٹیلا کو تاش کہلایا، اور مسلسل میری توجہ اسٹیلا کی خوبصورتی کی طرف کہینچتی رہی۔"
+          },
+          {
+            "en": "After a few games, a new day for my return was set. I was taken to the yard to be fed in the same dog-like manner as before. Left to wander, I happened to look in through a window and found myself exchanging looks with a pale young gentleman with light hair.",
+            "sd": "ڪيترين راندين کان پوءِ، منهنجي واپسي لاءِ نئون ڏينهن مقرر ڪيو ويو. مون کي صحن ۾ وٺي وڃي اڳ وانگر ڪتي وانگر کارايو ويو. ڀٽڪندي، مون اوچتو دري مان اندر ڏٺو ۽ پاڻ کي هڪ هلڪي وارن واري، پيلي نوجوان جنٽلمين سان نظرون ملائيندي ڏٺو.",
+            "ur": "چند کہیلوں کے بعد، میری واپسی کے لیے نیا دن مقرر کر دیا گیا۔ مجہے صحن میں لے جا کر پہلے کی طرح کتے کی طرح کہانا کہلایا گیا۔ گہومتے ہوئے، میں نے اچانک کہڑکی سے اندر دیکہا اور خود کو ہلکے بالوں والے، پیلے رنگ کے نوجوان جنٹلمین سے نظریں ملاتے پایا۔"
+          },
+          {
+            "en": "The young man quickly disappeared, only to reappear beside me.",
+            "sd": "نوجوان جلدي غائب ٿي ويو، ۽ پوءِ منهنجي ڀرسان وري نمودار ٿيو.",
+            "ur": "نوجوان جلدی غائب ہو گیا، اور پہر میرے پاس دوبارہ نمودار ہوا۔"
+          },
+          {
+            "en": "\"Hello!\" he said.",
+            "sd": "”هيلو!“ هن چيو.",
+            "ur": "”ہیلو!“ اس نے کہا۔"
+          },
+          {
+            "en": "\"Hello!\" I replied.",
+            "sd": "”هيلو!“ مون جواب ڏنو.",
+            "ur": "”ہیلو!“ میں نے جواب دیا۔"
+          },
+          {
+            "en": "\"Who let you in?\"",
+            "sd": "”توکي اندر ڪنهن اچڻ ڏنو؟“",
+            "ur": "”تمہیں اندر کس نے آنے دیا؟“"
+          },
+          {
+            "en": "\"Miss Estella.\"",
+            "sd": "”مس ايسٽيلا.“",
+            "ur": "”مس اسٹیلا۔“"
+          },
+          {
+            "en": "\"Who gave you leave to prowl about?\"",
+            "sd": "”توکي گھمڻ جي اجازت ڪنهن ڏني؟“",
+            "ur": "”تمہیں گہومنے کی اجازت کس نے دی؟“"
+          },
+          {
+            "en": "\"Miss Estella.\"",
+            "sd": "”مس ايسٽيلا.“",
+            "ur": "”مس اسٹیلا۔“"
+          },
+          {
+            "en": "\"Come and fight!\" he declared.",
+            "sd": "”اچ ۽ وڙه!“ هن اعلان ڪيو.",
+            "ur": "”آؤ اور لڑو!“ اس نے اعلان کیا۔"
+          },
+          {
+            "en": "I was too astonished to refuse. His confidence and determination left me no choice but to follow him to a secluded corner of the garden. Before we began, he brought out a bottle of water and a sponge soaked in vinegar. \"Useful for both,\" he said.",
+            "sd": "مان ايترو حيران هوس جو انڪار ڪري نه سگھيس. هن جي اعتماد ۽ پختگي مون کي مجبور ڪيو ته مان باغ جي هڪ اڪيلي ڪنڊ ڏانهن هن جي پٺيان هلان. شروع ڪرڻ کان اڳ، هن پاڻي جي بوتل ۽ سرڪي ۾ ٻوڙيل اسپنج ڪڍيو. ”ٻنهي لاءِ ڪم جو آهي،“ هن چيو.",
+            "ur": "میں اتنا حیران تہا کہ انکار نہ کر سکا۔ اس کے اعتماد اور عزم نے مجہے مجبور کر دیا کہ میں باغ کے ایک الگ تہلگ کونے تک اس کے پیچہے چلوں۔ شروع کرنے سے پہلے، اس نے پانی کی بوتل اور سرکے میں بہگویا ہوا اسفنج نکالا۔ ”دونوں کے لیے مفید ہے،“ اس نے کہا۔"
+          },
+          {
+            "en": "He removed his jacket, waistcoat, and even his shirt, preparing as if for a real battle. Though he looked weak with pimples on his face, his fierce preparations made me nervous. He was about my age but taller, with strong elbows and knees.",
+            "sd": "هن پنهنجي جيڪٽ، ويسٽ ڪوٽ، ۽ شرٽ به لاٿي، ڄڻ حقيقي جنگ جي تياري ڪري رھيو هجي. جيتوڻيڪ هو منهن تي ڦرڙين سان ڪمزور لڳو، هن جي سخت تيارين مون کي گھٻرائي ڇڏيو. هو منهنجي عمر جو هو، پر مون کان ڊگهو، مضبوط ڪنهن ۽ گوڏن وارو.",
+            "ur": "اس نے اپنی جیکٹ، واسکٹ، اور قمیض بہی اتار دی، جیسے حقیقی جنگ کی تیاری کر رہا ہو۔ اگرچہ وہ چہرے پر دانوں کے ساتہ کمزور لگتا تہا، اس کی سخت تیاریوں نے مجہے گہبرا دیا۔ وہ میری عمر کا تہا لیکن مجہ سے لمبا، مضبوط کہنیوں اور گہٹنوں والا۔"
+          },
+          {
+            "en": "He squared up to me, scanning me like a boxer deciding where to strike. But before I could react, I landed a lucky punch. He fell on his back, his nose bleeding.",
+            "sd": "هو منهنجي سامهون وڙھڻ لاءِ بيھي رھيو، مون کي اهڙي نموني ڏسندي ڄڻ ڪو باکسر فيصلو ڪري رھيو هجي ته ڪٿي وار ڪري. پر ان کان اڳ جو مان ڪو جواب ڏيان، مون هڪ قسمت وارو مک هنيو. هو پٺي ڀر ڪري پيو، هن جو نڪ رت سان ڀريل هو.",
+            "ur": "وہ میرے سامنے لڑنے کے لیے کہڑا ہو گیا، مجہے ایسے دیکہتے ہوئے جیسے کوئی باکسر فیصلہ کر رہا ہو کہ کہاں وار کرے۔ لیکن اس سے پہلے کہ میں کچہ کرتا، میں نے ایک خوش قسمت مکا مارا۔ وہ پیٹہ کے بل گر گیا، اس کی ناک سے خون بہہ رہا تہا۔"
+          },
+          {
+            "en": "But to my surprise, he got up, smiling. \"Well done!\" he said, as if he had enjoyed it.",
+            "sd": "پر منهنجي حيراني لاءِ، هو مرڪندي اٿي بيٺو. ”شاباش!“ هن چيو، ڄڻ هن کي مزو آيو هجي.",
+            "ur": "لیکن میری حیرانی کے لیے، وہ مسکراتے ہوئے اٹہ کہڑا ہوا۔ ”شاباش!“ اس نے کہا، جیسے اسے مزہ آیا ہو۔"
+          },
+          {
+            "en": "I helped him up, and instead of holding a grudge, he shook my hand.",
+            "sd": "مون هن کي اٿارڻ ۾ مدد ڪئي، ۽ ڪاوڙ رکڻ جي بدران، هن منهنجو هٿ ملايو.",
+            "ur": "میں نے اسے اٹہنے میں مدد کی، اور ناراضگی رکہنے کے بجائے، اس نے مجہ سے ہاتہ ملایا۔"
+          },
+          {
+            "en": "\"You've won, fair and square.\"",
+            "sd": "”تون کٽي ويو آهين، ايمانداري سان.“",
+            "ur": "”تم جیت گئے ہو، ایمانداری سے۔“"
+          },
+          {
+            "en": "He then casually picked up his bottle and sponge and walked away as if nothing had happened. I stood there, confused but relieved, realizing I had just had my first real fight—and won.",
+            "sd": "پوءِ هن آرام سان پنهنجي بوتل ۽ اسپنج کنيا ۽ اهڙي نموني هليو ويو ڄڻ ڪو واقعو ئي نه ٿيو. مان اتي بيٺو رھيس، حيران پر مطمئن، ۽ مون کي احساس ٿيو ته منهنجي پهرين حقيقي وڙه ٿي چڪي هئي — ۽ مان کٽي ويس.",
+            "ur": "پہر اس نے آرام سے اپنی بوتل اور اسفنج اٹہایا اور ایسے چلا گیا جیسے کچہ ہوا ہی نہ ہو۔ میں وہیں کہڑا رہا، حیران لیکن مطمئن، اور مجہے احساس ہوا کہ میری پہلی حقیقی لڑائی ہو چکی تہی — اور میں جیت گیا تہا۔"
+          },
+          {
+            "en": "When I got back into the courtyard, I found Estella waiting with the keys. There was a bright red shine to her face.",
+            "sd": "جڏهن مان صحن ۾ واپس ويس، مون ايسٽيلا کي چاٻين سان انتظار ڪندي ڏٺو. هن جي منهن تي چمڪندڙ ڳاڙهي چمڪ هئي.",
+            "ur": "جب میں صحن میں واپس گیا تو میں نے اسٹیلا کو چابیوں کے ساتہ انتظار کرتے پایا۔ اس کے چہرے پر چمکتی سرخی تہی۔"
+          },
+          {
+            "en": "'Come here!' she said to me. 'You may sit with me.'. I never mentioned of the pale young man or of our fight. I sat beside her. But I felt that the company was given to the rough common boy as a piece of money might have been, and that it was worth nothing.",
+            "sd": "”هتي اچ!“ هن مون کي چيو. ”تون منهنجي ڀرسان ويھي سگھين ٿو.“ مون پيلي نوجوان يا اسان جي وڙه جو ڪڏهن ذڪر نه ڪيو. مان هن جي ڀرسان ويھي رھيس. پر مون کي محسوس ٿيو ته منهنجي صحبت هڪ عام ڇوڪرو کي ائين ڏني وئي هئي ڄڻ پئسا ڏنا ويا هجن، ۽ ان جي ڪا قيمت نه هئي.",
+            "ur": "”یہاں آؤ!“ اس نے مجہ سے کہا۔ ”تم میرے پاس بیٹہ سکتے ہو۔“ میں نے پیلے نوجوان یا ہماری لڑائی کا کبہی ذکر نہیں کیا۔ میں اس کے پاس بیٹہ گیا۔ لیکن مجہے محسوس ہوا کہ میری صحبت اس کہردرے عام لڑکے کو ایسے دی گئی تہی جیسے پیسے دیے جاتے ہوں، اور اس کی کوئی قیمت نہیں تہی۔"
+          },
+          {
+            "en": "\"Does she not grow prettier?\" Miss Havisham would often ask me.",
+            "sd": "”ڇا هوءَ وڌيڪ سهڻي نه ٿيندي وڃي؟“ مس هيويشم مون کان اڪثر پڇندي هئي.",
+            "ur": "”کیا وہ اور خوبصورت نہیں ہوتی جا رہی؟“ مس ہیویشم مجہ سے اکثر پوچہتی تہی۔"
+          },
+          {
+            "en": "Then she would softly whisper to Estella, \"Break their hearts. Break their hearts!\"",
+            "sd": "پوءِ هوءَ ايسٽيلا کي نرمي سان سرٻاٽ ۾ چوندي هئي، ”هنن جون دليون ٽوڙ. هنن جون دليون ٽوڙ!“",
+            "ur": "پہر وہ اسٹیلا کو نرمی سے سرگوشی میں کہتی تہی، ”ان کے دل توڑ دو۔ ان کے دل توڑ دو!“"
+          },
+          {
+            "en": "From that day onwards, I visited Miss Havisham three times a week. I did not see the pale young gentleman again, but Estella was always there.",
+            "sd": "ان ڏينهن کان پوءِ، مان هفتي ۾ ٽي ڀيرا مس هيويشم وٽ وڃڻ لڳس. مون پيلي نوجوان جنٽلمين کي وري نه ڏٺو، پر ايسٽيلا هميشه اتي هوندي هئي.",
+            "ur": "اس دن کے بعد سے، میں ہفتے میں تین بار مس ہیویشم کے پاس جانے لگا۔ میں نے پیلے نوجوان جنٹلمین کو دوبارہ نہیں دیکہا، لیکن اسٹیلا ہمیشہ وہیں ہوتی تہی۔"
+          },
+          {
+            "en": "On every visit, I pushed Miss Havisham round and round those two rooms in a wheelchair. She did not walk with me again. Instead I pushed her in her chair. As I walked behind her, Miss Havisham questioned me. I told her I was going to be apprenticed to Joe, when I was old enough. I told her that I knew nothing, but wanted to know everything. I told her I wanted to be educated. I told her how I wanted to be a gentleman. Perhaps I hoped that Miss Havisham would pay for my education. But she never suggested it. Estella's behavior with me was always different. On some of my visits she was friendly. At other times she would tell me she hated me.",
+            "sd": "هر ملاقات تي، مان مس هيويشم کي وهيل چيئر ۾ انهن ٻنهي ڪمرن ۾ گھمائيندو هوس. هوءَ منهنجي سان وري نه هلي. ان جي بدران مان هن کي ڪرسي ۾ ڌڪيندو هوس. جڏهن مان هن جي پٺيان هلندو هوس، مس هيويشم مون کان سوال پڇندي هئي. مون هن کي ٻڌايو ته جڏهن مان وڏو ٿيندس ته جو وٽ سکياڙو ٿيندس. مون هن کي ٻڌايو ته مون کي ڪا خبر نه آهي، پر مان هر ڳاله ڄاڻڻ چاهيان ٿو. مون هن کي ٻڌايو ته مان تعليم حاصل ڪرڻ چاهيان ٿو. مون هن کي ٻڌايو ته مان شريف ماڻهو ٿيڻ چاهيان ٿو. شايد مون کي اميد هئي ته مس هيويشم منهنجي تعليم جا پئسا ڏيندي. پر هن ڪڏهن به اهو نه چيو. ايسٽيلا جو منهنجي سان رويو هميشه مختلف هوندو هو. ڪنهن ملاقات تي هوءَ دوستاڻي هوندي هئي. ٻئي ڀيري هوءَ مون کي چوندي هئي ته هوءَ مون کان نفرت ڪري ٿي.",
+            "ur": "ہر ملاقات پر، میں مس ہیویشم کو وہیل چیئر میں ان دونوں کمروں میں گہماتا تہا۔ وہ میرے ساتہ دوبارہ نہیں چلی۔ اس کے بجائے میں اسے کرسی میں دہکیلتا تہا۔ جب میں اس کے پیچہے چلتا تہا تو مس ہیویشم مجہ سے سوال پوچہتی تہی۔ میں نے اسے بتایا کہ جب میں بڑا ہو جاؤں گا تو جو کے پاس شاگرد بنوں گا۔ میں نے اسے بتایا کہ میں کچہ نہیں جانتا، لیکن سب کچہ جاننا چاہتا ہوں۔ میں نے اسے بتایا کہ میں تعلیم حاصل کرنا چاہتا ہوں۔ میں نے اسے بتایا کہ میں شریف آدمی بننا چاہتا ہوں۔ شاید مجہے امید تہی کہ مس ہیویشم میری تعلیم کے پیسے دے گی۔ لیکن اس نے کبہی یہ نہیں کہا۔ اسٹیلا کا میرے ساتہ رویہ ہمیشہ مختلف ہوتا تہا۔ کسی ملاقات پر وہ دوستانہ ہوتی تہی۔ دوسری بار وہ مجہے بتاتی تہی کہ وہ مجہ سے نفرت کرتی ہے۔"
+          },
+          {
+            "en": "My mind grew very anxious on the subject of the pale young gentleman. The more I thought of the fight and recalled the pale young gentleman on his back, the more certain it appeared that something would be done. For some days I even kept close at home and looked out at the kitchen door with the greatest care before going outside for fear that a policeman should be looking for me.",
+            "sd": "منهنجو ذهن پيلي نوجوان جنٽلمين جي موضوع تي تمام گھڻو پريشان ٿي ويو. جيترو وڌيڪ مان وڙه بابت سوچيندو هوس ۽ پيلي نوجوان کي پٺي ڀر ڪريل ياد ڪندو هوس، اوترو وڌيڪ يقين ٿيندو هو ته ڪا ڪارروائي ٿيندي. ڪيترائي ڏينهن ته مان گھر ۾ ئي رھيس ۽ ٻاهر وڃڻ کان اڳ باورچي خاني جي دروازي مان وڏي احتياط سان ٻاهر ڏسندو هوس، ان ڊپ کان ته ڪو پوليس وارو مون کي ڳولهي رھيو هجي.",
+            "ur": "میرا ذہن پیلے نوجوان جنٹلمین کے موضوع پر بہت پریشان ہو گیا۔ جتنا زیادہ میں لڑائی کے بارے میں سوچتا اور پیلے نوجوان کو پیٹہ کے بل گرا ہوا یاد کرتا، اتنا ہی یقین ہوتا کہ کچہ کیا جائے گا۔ کچہ دن تو میں گہر میں ہی رہا اور باہر جانے سے پہلے باورچی خانے کے دروازے سے بڑی احتیاط سے باہر دیکہتا، اس خوف سے کہ کوئی پولیس والا مجہے ڈہونڈ رہا ہو۔"
+          },
+          {
+            "en": "When the day came round for my return to the scene of the fight, my fears reached their height. But I had to go to Miss Havisham's and, after all, nothing was said about our fight, and no pale young gentleman was to be seen.",
+            "sd": "جڏهن وڙه واري جاءِ تي منهنجي واپسي جو ڏينهن آيو، منهنجو ڊپ پنهنجي انتها تي پهتو. پر مون کي مس هيويشم وٽ وڃڻو هو، ۽ آخرڪار، اسان جي وڙه بابت ڪو ذڪر نه ٿيو، ۽ ڪو پيلو نوجوان جنٽلمين نظر نه آيو.",
+            "ur": "جب لڑائی والی جگہ پر میری واپسی کا دن آیا تو میرا خوف اپنی انتہا پر پہنچ گیا۔ لیکن مجہے مس ہیویشم کے پاس جانا تہا، اور آخرکار، ہماری لڑائی کے بارے میں کچہ نہیں کہا گیا، اور کوئی پیلا نوجوان جنٹلمین نظر نہیں آیا۔"
+          },
+          {
+            "en": "As we began to be more used to one another, Miss Havisham talked more to me, and asked me what I had learnt and what I was going to be. I told her I was going to be a blacksmith like Joe; and I spoke about knowing nothing and wanting to know everything, in the hope that she might offer some help towards that end. But she did not. Neither did she ever give me any money or anything but my daily dinner.",
+            "sd": "جيئن اسين هڪ ٻئي جا وڌيڪ عادي ٿيندا وياسين، مس هيويشم مون سان وڌيڪ ڳالهائڻ لڳي، ۽ مون کان پڇيائين ته مون ڇا سکيو آهي ۽ مان ڇا ٿيڻ وارو آهيان. مون هن کي ٻڌايو ته مان جو وانگر لوهار ٿيندس؛ ۽ مون چيو ته مون کي ڪا خبر نه آهي ۽ مان هر ڳاله ڄاڻڻ چاهيان ٿو، ان اميد سان ته هوءَ ان لاءِ ڪا مدد ڏيندي. پر هن نه ڏني. هوءَ مون کي ڪڏهن به پئسا يا منهنجي روزاني ماني کان سواءِ ٻيو ڪو تحفو نه ڏيندي هئي.",
+            "ur": "جیسے ہم ایک دوسرے کے زیادہ عادی ہوتے گئے، مس ہیویشم مجہ سے زیادہ بات کرنے لگی، اور مجہ سے پوچہا کہ میں نے کیا سیکہا ہے اور میں کیا بننے والا ہوں۔ میں نے اسے بتایا کہ میں جو کی طرح لوہار بنوں گا؛ اور میں نے کچہ نہ جاننے اور سب کچہ جاننے کی خواہش کے بارے میں بات کی، اس امید سے کہ وہ اس کے لیے کچہ مدد دے گی۔ لیکن اس نے نہیں دی۔ اس نے مجہے کبہی پیسے یا میری روزانہ کی روٹی کے سوا کچہ نہیں دیا۔"
+          },
+          {
+            "en": "Estella was always around, letting me in and out, but she never truly spent time with me. Sometimes she tolerated me coldly, sometimes she was friendly, and other times she told me she hated me. Miss Havisham often asked me if Estella was becoming more beautiful, and when I said yes, she seemed pleased. She would hold Estella close and whisper to her, urging her to break hearts without mercy.",
+            "sd": "ايسٽيلا هميشه آس پاس هوندي هئي، مون کي اندر ٻاهر وٺي ويندي هئي، پر هوءَ ڪڏهن به سچي نموني منهنجي سان وقت نه گذاريندي هئي. ڪڏهن هوءَ مون کي ٿڌي نموني برداشت ڪندي هئي، ڪڏهن دوستاڻي هوندي هئي، ۽ ٻئي ڀيري هوءَ مون کي چوندي هئي ته هوءَ مون کان نفرت ڪري ٿي. مس هيويشم اڪثر مون کان پڇندي هئي ته ڇا ايسٽيلا وڌيڪ سهڻي ٿيندي پئي وڃي، ۽ جڏهن مان هائو چوندو هوس، هوءَ خوش ٿيندي هئي. هوءَ ايسٽيلا کي ويجهو ڪري وٺندي هئي ۽ هن کي سرٻاٽ ۾ چوندي هئي ته بي رحمي سان دليون ٽوڙي.",
+            "ur": "اسٹیلا ہمیشہ آس پاس ہوتی تہی، مجہے اندر باہر لے جاتی تہی، لیکن وہ کبہی سچے معنوں میں میرے ساتہ وقت نہیں گزارتی تہی۔ کبہی وہ مجہے سرد مہری سے برداشت کرتی تہی، کبہی دوستانہ ہوتی تہی، اور دوسری بار وہ مجہے بتاتی تہی کہ وہ مجہ سے نفرت کرتی ہے۔ مس ہیویشم اکثر مجہ سے پوچہتی تہی کہ کیا اسٹیلا اور خوبصورت ہوتی جا رہی ہے، اور جب میں ہاں کہتا تو وہ خوش ہوتی تہی۔ وہ اسٹیلا کو قریب کر لیتی اور اسے سرگوشی میں کہتی کہ بے رحمی سے دل توڑو۔"
+          },
+          {
+            "en": "At home, my sister and Pumblechook constantly discussed my future, dragging me into their conversations. Pumblechook would pull me up by the collar, put me in front of the fire like I was on display, and lecture me about being grateful to them who had brought me up by hand. They made wild guesses about Miss Havisham's plans for me, which frustrated me so much that I wanted to cry or hit Pumblechook. Joe never joined in, but my sister was angry at him for not supporting the idea of me leaving the forge.",
+            "sd": "گھر ۾، منهنجي ڀيڻ ۽ پمبل چوڪ مسلسل منهنجي مستقبل بابت ڳالهائيندا هئا، مون کي پنهنجين ڳالهين ۾ ڇڪيندا هئا. پمبل چوڪ مون کي ڪالر کان پڪڙي، باه جي سامهون بيھاريندو هو، ڄڻ مان ڏيکاءُ لاءِ هجان، ۽ مون کي نصيحت ڪندو هو ته مان انهن جو شڪرگذار رھان، جن مون کي هٿن سان پاليو هو. هو مس هيويشم جي منهنجي لاءِ منصوبن بابت بي بنياد اندازا لڳائيندا هئا، جنهن مون کي ايترو پريشان ڪيو جو مان روئڻ يا پمبل چوڪ کي مارڻ چاهيان ٿو. جو ڪڏهن به ان ۾ شامل نه ٿيو، پر منهنجي ڀيڻ هن تي ڪاوڙيل هئي جو هو منهنجي لوهارخانو ڇڏڻ جي خيال جي حمايت نه ڪري رھيو هو.",
+            "ur": "گہر میں، میری بہن اور پمبل چوک مسلسل میرے مستقبل کے بارے میں بات کرتے، مجہے اپنی باتوں میں گہسیٹتے۔ پمبل چوک مجہے کالر سے پکڑ کر، آگ کے سامنے کہڑا کر دیتا، جیسے میں نمائش کے لیے ہوں، اور مجہے نصیحت کرتا کہ میں ان کا شکر گزار رہوں، جنہوں نے مجہے ہاتہوں سے پالا تہا۔ وہ مس ہیویشم کے میرے لیے منصوبوں کے بارے میں بے بنیاد اندازے لگاتے، جس سے میں اتنا پریشان ہوتا کہ میں رونا یا پمبل چوک کو مارنا چاہتا تہا۔ جو کبہی اس میں شامل نہیں ہوا، لیکن میری بہن اس پر ناراض تہی کہ وہ میرے لوہار خانہ چہوڑنے کے خیال کی حمایت نہیں کر رہا تہا۔"
+          },
+          {
+            "en": "And so, this went on for a long time.",
+            "sd": "۽ اهڙي نموني، هي گھڻي وقت تائين هلندو رھيو.",
+            "ur": "اور اسی طرح، یہ بہت عرصے تک چلتا رہا۔"
+          },
+          {
+            "en": "Miss Havisham told me I was getting tall and soon asked if I was ready to start my apprenticeship with Joe. She arranged for Joe to come with me to sign the necessary papers.",
+            "sd": "مس هيويشم مون کي ٻڌايو ته مان ڊگهو ٿيندو پيو وڃان ۽ جلد پڇيو ته ڇا مان جو سان پنهنجي سکيا شروع ڪرڻ لاءِ تيار آهيان. هن جو کي منهنجي سان گڏ اچڻ جو بندوبست ڪيو ته جيئن ضروري ڪاغذن تي صحيح ڪري.",
+            "ur": "مس ہیویشم نے مجہے بتایا کہ میں لمبا ہوتا جا رہا ہوں اور جلد پوچہا کہ کیا میں جو کے ساتہ اپنی شاگردی شروع کرنے کے لیے تیار ہوں۔ اس نے جو کے میرے ساتہ آنے کا انتظام کیا تاکہ ضروری کاغذات پر دستخط کرے۔"
+          },
+          {
+            "en": "Two days later, Joe and I visited Miss Havisham, though he awkwardly spoke to me instead of her, making me feel embarrassed—especially under Estella's judgmental gaze. Miss Havisham handed me twenty-five pounds as a reward for my visits, telling Joe to take it as Pip's earnings. As we left, she made it clear that my time with her was over.",
+            "sd": "ٻن ڏينهن کان پوءِ، مان ۽ جو مس هيويشم وٽ وياسين، جيتوڻيڪ هو بي آرامي سان هن جي بدران مون سان ڳالهايو، جنهن مون کي شرمسار ڪيو — خاص ڪري ايسٽيلا جي تنقيدي نظر هيٺ. مس هيويشم مون کي منهنجين ملاقاتن جي انعام طور پنجويه پائونڊ ڏنا، جو کي چئي ته ان کي پپ جي ڪمائي سمجھي. جڏهن اسين وڃي رھيا هئاسين، هن صاف ڪري ڇڏيو ته هن سان منهنجو وقت ختم ٿي ويو آهي.",
+            "ur": "دو دن بعد، میں اور جو مس ہیویشم کے پاس گئے، اگرچہ وہ بے آرامی سے اس کے بجائے مجہ سے بات کرتا رہا، جس سے مجہے شرمندگی ہوئی — خاص طور پر اسٹیلا کی تنقیدی نظروں کے نیچے۔ مس ہیویشم نے مجہے میری ملاقاتوں کے انعام کے طور پر پچیس پاؤنڈ دیے، جو سے کہہ کر کہ اسے پپ کی کمائی سمجہے۔ جب ہم جا رہے تہے تو اس نے واضح کر دیا کہ اس کے ساتہ میرا وقت ختم ہو گیا ہے۔"
+          },
+          {
+            "en": "Back at Uncle Pumblechook's, my sister was thrilled about the money, and we signed the apprenticeship papers that same day. She even arranged a celebration dinner, but I felt miserable. That night, I realized I no longer wanted to be a blacksmith—I wanted to be a gentleman. The next morning, I started work with Joe, but my greatest fear was that one day, Estella would see me dirty at the forge and mock me.",
+            "sd": "چاچي پمبل چوڪ وٽ واپس، منهنجي ڀيڻ پئسن تي تمام گھڻي خوش هئي، ۽ اسين انهيءَ ڏينهن سکيا جا ڪاغذ صحيح ڪري ورتا. هن جشن جي ماني جو به بندوبست ڪيو، پر مان اداس محسوس ڪري رھيو هوس. ان رات، مون کي احساس ٿيو ته مان هاڻي لوهار ٿيڻ نٿو چاهيان — مان شريف ماڻهو ٿيڻ چاهيان ٿو. ٻئي صبح، مون جو سان ڪم شروع ڪيو، پر منهنجو سڀ کان وڏو ڊپ هو ته هڪ ڏينهن، ايسٽيلا مون کي لوهارخاني ۾ ميرا ڏسي منهنجو مذاق اڏائيندي.",
+            "ur": "چچا پمبل چوک کے پاس واپس، میری بہن پیسوں پر بہت خوش تہی، اور ہم نے اسی دن شاگردی کے کاغذات پر دستخط کر دیے۔ اس نے جشن کے کہانے کا بہی انتظام کیا، لیکن میں اداس محسوس کر رہا تہا۔ اس رات، مجہے احساس ہوا کہ میں اب لوہار نہیں بننا چاہتا — میں شریف آدمی بننا چاہتا ہوں۔ اگلی صبح، میں نے جو کے ساتہ کام شروع کیا، لیکن میرا سب سے بڑا خوف یہ تہا کہ ایک دن، اسٹیلا مجہے لوہار خانے میں گندا دیکہ کر میرا مذاق اڑائے گی۔"
+          },
+          {
+            "en": "Orlick, a surly workman Joe employed, never liked me. When I became Joe's apprentice, he resented me even more, fearing I would replace him. One day, I asked Joe for a half-holiday to visit Miss Havisham, and Orlick, not wanting me to get special treatment, demanded one too. To keep the peace, Joe agreed.",
+            "sd": "اورلڪ، جو جو هڪ بد مزاج مزدور هو، مون کي ڪڏهن به پسند نه ڪيو. جڏهن مان جو جو سکياڙو ٿيس، هو مون کان وڌيڪ ناراض ٿيو، ان ڊپ کان ته مان هن جي جاءِ وٺندس. هڪ ڏينهن، مون جو کان مس هيويشم وٽ وڃڻ لاءِ اڌ ڏينهن جي موڪل گھري، ۽ اورلڪ، مون کي خاص سلوڪ ملڻ نه چاهيندي، پاڻ به هڪ گھري. امن قائم رکڻ لاءِ، جو راضي ٿي ويو.",
+            "ur": "اورلک، جو کا ایک بد مزاج مزدور، مجہے کبہی پسند نہیں کرتا تہا۔ جب میں جو کا شاگرد بنا تو وہ مجہ سے اور زیادہ ناراض ہوا، اس خوف سے کہ میں اس کی جگہ لے لوں گا۔ ایک دن، میں نے جو سے مس ہیویشم کے پاس جانے کے لیے آدہے دن کی چہٹی مانگی، اور اورلک، مجہے خاص سلوک ملنے نہ دیتے ہوئے، نے بہی ایک مانگی۔ امن قائم رکہنے کے لیے، جو مان گیا۔"
+          },
+          {
+            "en": "When I reached Miss Havisham's house, I told her I was doing well as an apprentice, but she barely listened. Instead, she asked if I was looking for Estella. I had been, though I tried to hide it. She told me Estella had gone to a good school, far away, and was more admired than ever. Leaving the house, I felt more restless and unhappy with my life than before.",
+            "sd": "جڏهن مان مس هيويشم جي گھر پهتس، مون هن کي ٻڌايو ته مان سکياڙي طور سٺو ڪري رھيو آهيان، پر هن مشڪل سان ٻڌو. ان جي بدران، هن پڇيو ته ڇا مان ايسٽيلا کي ڳولهي رھيو آهيان. مان ڳولهي رھيو هوس، جيتوڻيڪ مون ان کي لڪائڻ جي ڪوشش ڪئي. هن مون کي ٻڌايو ته ايسٽيلا هڪ سٺي اسڪول ۾ وئي آهي، پري، ۽ اڳ کان وڌيڪ پسند ڪئي وڃي ٿي. گھر ڇڏيندي، مون اڳ کان وڌيڪ بيچيني ۽ پنهنجي زندگي سان ناخوشي محسوس ڪئي.",
+            "ur": "جب میں مس ہیویشم کے گہر پہنچا تو میں نے اسے بتایا کہ میں شاگرد کے طور پر اچہا کر رہا ہوں، لیکن اس نے مشکل سے سنا۔ اس کے بجائے، اس نے پوچہا کہ کیا میں اسٹیلا کو ڈہونڈ رہا ہوں۔ میں ڈہونڈ رہا تہا، اگرچہ میں نے اسے چہپانے کی کوشش کی۔ اس نے مجہے بتایا کہ اسٹیلا ایک اچہے اسکول میں گئی ہے، دور، اور پہلے سے زیادہ پسند کی جاتی ہے۔ گہر چہوڑتے ہوئے، میں نے پہلے سے زیادہ بے چینی اور اپنی زندگی سے ناخوشی محسوس کی۔"
+          },
+          {
+            "en": "On my way home, I ran into Orlick. He muttered about the guns firing from the prison ships—some convicts had escaped. Just then, Mr. Pumblechook came running toward me with alarming news: convicts had broken into my home while Joe was out!",
+            "sd": "گھر ويندي، مان اورلڪ سان مليس. هو جيل جي جهازن مان بندوقن جي فائرنگ بابت ٻڙٻڙ ڪندو رھيو — ڪيترائي قيدي ڀڄي ويا هئا. انهيءَ وقت، مسٽر پمبل چوڪ منهنجي ڏانهن ڊوڙندو آيو، پريشان ڪندڙ خبر سان: قيدي منهنجي گھر ۾ گھڙي آيا هئا، جڏهن جو ٻاهر هو!",
+            "ur": "گہر جاتے ہوئے، میں اورلک سے ملا۔ وہ جیل کے جہازوں سے بندوقوں کی فائرنگ کے بارے میں بڑبڑا رہا تہا — کچہ قیدی بہاگ گئے تہے۔ اسی وقت، مسٹر پمبل چوک میری طرف دوڑتا ہوا آیا، پریشان کن خبر کے ساتہ: قیدی میرے گہر میں گہس آئے تہے، جب جو باہر تہا!"
+          },
+          {
+            "en": "I raced home to find a crowd gathered in our kitchen. My sister lay unconscious on the floor, struck by a brutal blow. Nothing had been stolen, but beside her was a convict's leg iron—the same one I had seen my convict filing off in the marshes years ago. The thought that I might have provided the weapon was unbearable. Though the police searched, they never found the attacker.",
+            "sd": "مان گھر ڏانهن ڊوڙيس ۽ ڏٺو ته اسان جي باورچي خاني ۾ ماڻهن جو هجوم گڏ ٿيل هو. منهنجي ڀيڻ فرش تي بيهوش پئي هئي، ظالماڻي ڌڪ سان ماري وئي هئي. ڪا شيءِ به چوري نه ٿي هئي، پر هن جي ڀرسان هڪ قيدي جي پيرن جي زنجير هئي — ساڳي زنجير جيڪا مون پنهنجي قيدي کي سال اڳ دلدل ۾ لاھيندي ڏٺي هئي. اهو خيال ته مان هٿيار ڏنو هوندس، ناقابل برداشت هو. جيتوڻيڪ پوليس ڳولها ڪئي، هنن حملو ڪندڙ کي ڪڏهن به نه ڳولهيو.",
+            "ur": "میں گہر کی طرف دوڑا اور دیکہا کہ ہمارے باورچی خانے میں لوگوں کا ہجوم جمع تہا۔ میری بہن فرش پر بے ہوش پڑی تہی، ظالمانہ وار سے ماری گئی تہی۔ کچہ بہی چوری نہیں ہوا تہا، لیکن اس کے پاس ایک قیدی کی پیر کی زنجیر تہی — وہی زنجیر جو میں نے اپنے قیدی کو سالوں پہلے دلدل میں اتارتے دیکہا تہا۔ یہ خیال کہ میں نے ہتہیار دیا ہوگا، ناقابل برداشت تہا۔ اگرچہ پولیس نے تلاش کی، انہوں نے حملہ آور کو کبہی نہیں ڈہونڈا۔"
+          },
+          {
+            "en": "My sister never fully recovered. Her speech was garbled, her memory faded, and her temper, once sharp, softened. We struggled to care for her until Biddy, a kind and sensible girl from our village, , who once helped me learn the alphabet in the village school, came to live with us. She took charge of my sister's care, making life easier for Joe. Though she wasn't as beautiful as Estella, she had bright eyes, a sweet smile, and a warmth that made a difference in our home.",
+            "sd": "منهنجي ڀيڻ ڪڏهن به مڪمل طور صحتياب نه ٿي. هن جي ڳاله ٻوله گڏوگڏ ٿي وئي، هن جي يادگيري گھٽجي وئي، ۽ هن جو مزاج، جيڪو اڳ تيز هو، نرم ٿي ويو. اسين هن جي سنڀال لاءِ جدوجهد ڪندا رھياسين، جيستائين بڊي، اسان جي ڳوٺ جي هڪ مهربان ۽ سمجھدار ڇوڪري، جنهن هڪ ڀيري مون کي ڳوٺ جي اسڪول ۾ اکر سکڻ ۾ مدد ڪئي هئي، اسان سان رھڻ لاءِ آئي. هن منهنجي ڀيڻ جي سنڀال جو ذمو کنيو، جو جي زندگي آسان ڪري ڇڏي. جيتوڻيڪ هوءَ ايسٽيلا وانگر سهڻي نه هئي، هن جون اکيون چمڪندڙ، مرڪ مٺي، ۽ گرمجوشي هئي، جنهن اسان جي گھر ۾ فرق پيدا ڪيو.",
+            "ur": "میری بہن کبہی مکمل طور پر صحت یاب نہیں ہوئی۔ اس کی بات گڈ مڈ ہو گئی، اس کی یادداشت کم ہو گئی، اور اس کا مزاج، جو پہلے تیز تہا، نرم ہو گیا۔ ہم اس کی دیکہ بہال کے لیے جدوجہد کرتے رہے، یہاں تک کہ بڈی، ہمارے گاؤں کی ایک مہربان اور سمجہدار لڑکی، جس نے ایک بار مجہے گاؤں کے اسکول میں حروف سیکہنے میں مدد کی تہی، ہمارے ساتہ رہنے آئی۔ اس نے میری بہن کی دیکہ بہال کی ذمہ داری سنبہالی، جو کی زندگی آسان کر دی۔ اگرچہ وہ اسٹیلا جیسی خوبصورت نہیں تہی، اس کی آنکہیں چمکتی، مسکراہٹ میٹہی، اور گرمجوشی تہی، جس نے ہمارے گہر میں فرق پیدا کیا۔"
+          },
+          {
+            "en": "The years passed. Every year on my birthday, I visited Satis House. I never saw Estella, but I did not forget her. I longed to be educated like her. I wanted Estella to think well of me, to like me, to admire and respect me. How foolish I was!",
+            "sd": "سال گذري ويا. هر سال منهنجي جنم ڏينهن تي، مان سيٽس هائوس ويندو هوس. مون ايسٽيلا کي ڪڏهن نه ڏٺو، پر مان هن کي نه وساريو. مان هن وانگر تعليم حاصل ڪرڻ لاءِ تڙپندو هوس. مان چاهيان ٿو ته ايسٽيلا منهنجي بابت سٺو سوچي، مون کي پسند ڪري، منهنجي تعريف ۽ عزت ڪري. مان ڪيترو بيوقوف هوس!",
+            "ur": "سال گزر گئے۔ ہر سال میری سالگرہ پر، میں سیٹس ہاؤس جاتا تہا۔ میں نے اسٹیلا کو کبہی نہیں دیکہا، لیکن میں اسے نہیں بہولا۔ میں اس کی طرح تعلیم حاصل کرنے کے لیے تڑپتا تہا۔ میں چاہتا تہا کہ اسٹیلا میرے بارے میں اچہا سوچے، مجہے پسند کرے، میری تعریف اور عزت کرے۔ میں کتنا بے وقوف تہا!"
+          },
+          {
+            "en": "It was summer. One Sunday afternoon, Biddy and I went for a walk on the marshes. Ships sailed slowly down the river toward the sea. I thought of Estella, far away in another country, and, as always, I dreamed about my future.",
+            "sd": "اونهارو هو. هڪ آچر جي منجھند، مان ۽ بڊي دلدل تي گھمڻ وياسين. جهاز ندي تان سمنڊ ڏانهن آهستي ترندا ويا. مون ايسٽيلا بابت سوچيو، جيڪا ٻئي ملڪ ۾ پري هئي، ۽ هميشه وانگر، مون پنهنجي مستقبل بابت خواب ڏٺا.",
+            "ur": "گرمیاں تہیں۔ ایک اتوار کی دوپہر، میں اور بڈی دلدل پر سیر کے لیے گئے۔ جہاز دریا سے سمندر کی طرف آہستہ تیرتے گئے۔ میں نے اسٹیلا کے بارے میں سوچا، جو دوسرے ملک میں دور تہی، اور، ہمیشہ کی طرح، میں نے اپنے مستقبل کے بارے میں خواب دیکہے۔"
+          },
+          {
+            "en": "We sat by the river, watching the water flow.",
+            "sd": "اسين ندي جي ڪناري ويھي رھياسين، پاڻي وهندي ڏسندي.",
+            "ur": "ہم دریا کے کنارے بیٹہے، پانی بہتا دیکہتے ہوئے۔"
+          },
+          {
+            "en": "\"Biddy, I am going to tell you a secret,\" I said. \"You must never speak of it to anyone.\"",
+            "sd": "”بڊي، مان توکي هڪ راز ٻڌائڻ وارو آهيان،“ مون چيو. ”تون ان بابت ڪنهن سان به ڪڏهن نه ڳالهائين.“",
+            "ur": "”بڈی، میں تمہیں ایک راز بتانے والا ہوں،“ میں نے کہا۔ ”تم اس کے بارے میں کسی سے کبہی بات نہ کرنا۔“"
+          },
+          {
+            "en": "Biddy looked at me in surprise and promised to tell no one.",
+            "sd": "بڊي حيراني سان مون ڏانهن ڏٺو ۽ واعدو ڪيو ته ڪنهن کي به نه ٻڌائيندي.",
+            "ur": "بڈی نے حیرانی سے میری طرف دیکہا اور وعدہ کیا کہ کسی کو نہیں بتائے گی۔"
+          },
+          {
+            "en": "\"Biddy,\" I continued, \"I hate being a blacksmith like Joe. I want to be a gentleman.\"",
+            "sd": "”بڊي،“ مون جاري رکيو، ”مون کي جو وانگر لوهار ٿيڻ کان نفرت آهي. مان شريف ماڻهو ٿيڻ چاهيان ٿو.“",
+            "ur": "”بڈی،“ میں نے جاری رکہا، ”مجہے جو کی طرح لوہار بننے سے نفرت ہے۔ میں شریف آدمی بننا چاہتا ہوں۔“"
+          },
+          {
+            "en": "Biddy smiled and shook her head.",
+            "sd": "بڊي مرڪي ۽ پنهنجو ڪنڌ لوڏيو.",
+            "ur": "بڈی مسکرائی اور سر ہلایا۔"
+          },
+          {
+            "en": "\"Oh no, Pip,\" she said. \"That wouldn't be right at all.\"",
+            "sd": "”اي نه، پپ،“ هن چيو. ”اهو بلڪل صحيح نه هوندو.“",
+            "ur": "”اوہ نہیں، پپ،“ اس نے کہا۔ ”یہ بالکل درست نہیں ہوگا۔“"
+          },
+          {
+            "en": "\"But I have important reasons for wanting to be a gentleman,\" I told her.",
+            "sd": "”پر منهنجي وٽ شريف ماڻهو ٿيڻ چاهڻ جا اهم سبب آهن،“ مون هن کي ٻڌايو.",
+            "ur": "”لیکن میرے پاس شریف آدمی بننا چاہنے کی اہم وجوہات ہیں،“ میں نے اسے بتایا۔"
+          },
+          {
+            "en": "\"Don't you think you are happier as you are, Pip?\" Biddy asked gently.",
+            "sd": "”ڇا تون نٿو سمجھين ته تون جهڙو آهين، تيئن وڌيڪ خوش آهين، پپ؟“ بڊي نرمي سان پڇيو.",
+            "ur": "”کیا تمہیں نہیں لگتا کہ تم جیسے ہو، ویسے زیادہ خوش ہو، پپ؟“ بڈی نے نرمی سے پوچہا۔"
+          },
+          {
+            "en": "\"Happy?\" I repeated. \"I can never be happy here, Biddy. Someone I admire and respect very much said I'm stupid and common. I must become a gentleman. I must.\"",
+            "sd": "”خوش؟“ مون ورجايو. ”مان هتي ڪڏهن به خوش نه ٿي سگھان، بڊي. جنهن جي مان تمام گھڻي تعريف ۽ عزت ڪريان ٿو، تنهن چيو ته مان بيوقوف ۽ عام آهيان. مون کي شريف ماڻهو ٿيڻو پوندو. ٿيڻو پوندو.“",
+            "ur": "”خوش؟“ میں نے دہرایا۔ ”میں یہاں کبہی خوش نہیں ہو سکتا، بڈی۔ جس کی میں بہت تعریف اور عزت کرتا ہوں، اس نے کہا کہ میں بے وقوف اور عام ہوں۔ مجہے شریف آدمی بننا ہے۔ بننا ہے۔“"
+          },
+          {
+            "en": "\"Who called you stupid and common?\" Biddy asked. \"That was neither true nor polite.\"",
+            "sd": "”توکي بيوقوف ۽ عام ڪنهن چيو؟“ بڊي پڇيو. ”اهو نه سچ هو نه شائسته.“",
+            "ur": "”تمہیں بے وقوف اور عام کس نے کہا؟“ بڈی نے پوچہا۔ ”یہ نہ سچ تہا نہ شائستہ۔“"
+          },
+          {
+            "en": "\"A young lady I met at Miss Havisham's,\" I replied. \"She is beautiful, and I love her very much. She is the reason I must become a gentleman.\"",
+            "sd": "”هڪ نوجوان ڇوڪري جنهن سان مان مس هيويشم وٽ مليس،“ مون جواب ڏنو. ”هوءَ سهڻي آهي، ۽ مان هن سان تمام گھڻو پيار ڪريان ٿو. هوءَ ئي سبب آهي جو مون کي شريف ماڻهو ٿيڻو پوندو.“",
+            "ur": "”ایک نوجوان خاتون جس سے میں مس ہیویشم کے پاس ملا،“ میں نے جواب دیا۔ ”وہ خوبصورت ہے، اور میں اس سے بہت محبت کرتا ہوں۔ وہی وجہ ہے کہ مجہے شریف آدمی بننا ہے۔“"
+          },
+          {
+            "en": "\"Do you want to be a gentleman to hurt her or to make her respect you?\" Biddy asked quietly.",
+            "sd": "”ڇا تون شريف ماڻهو ٿيڻ چاهين ٿو ته جيئن هن کي ڏک پهچائين يا هن کي مجبور ڪرين ته هوءَ تنهنجي عزت ڪري؟“ بڊي خاموشي سان پڇيو.",
+            "ur": "”کیا تم شریف آدمی بننا چاہتے ہو تاکہ اسے تکلیف پہنچاؤ یا اسے مجبور کرو کہ وہ تمہاری عزت کرے؟“ بڈی نے خاموشی سے پوچہا۔"
+          },
+          {
+            "en": "\"I don't know.\"",
+            "sd": "”مون کي خبر ناهي.“",
+            "ur": "”مجہے نہیں معلوم۔“"
+          },
+          {
+            "en": "\"I think you should forget her,\" Biddy said. \"She has been rude and cruel to you. She is not worth your respect.\"",
+            "sd": "”منهنجو خيال آهي ته توکي هن کي وساري ڇڏڻ گھرجي،“ بڊي چيو. ”هوءَ تنهنجي سان بدتميز ۽ بي رحم رھي آهي. هوءَ تنهنجي عزت جي لائق ناهي.“",
+            "ur": "”میرا خیال ہے کہ تمہیں اسے بہول جانا چاہیے،“ بڈی نے کہا۔ ”وہ تمہارے ساتہ بدتمیز اور بے رحم رہی ہے۔ وہ تمہاری عزت کے لائق نہیں ہے۔“"
+          },
+          {
+            "en": "\"You may be right, Biddy,\" I admitted. \"I believe you are. But I love her very, very much.\"",
+            "sd": "”شايد تون صحيح آهين، بڊي،“ مون مڃيو. ”مان سمجھان ٿو ته تون صحيح آهين. پر مان هن سان تمام گھڻو، تمام گھڻو پيار ڪريان ٿو.“",
+            "ur": "”شاید تم ٹہیک ہو، بڈی،“ میں نے مانا۔ ”میرا یقین ہے کہ تم ٹہیک ہو۔ لیکن میں اس سے بہت، بہت محبت کرتا ہوں۔“"
+          },
+          {
+            "en": "Tears filled my eyes. I threw myself to the ground in despair. Biddy gently touched my hair.",
+            "sd": "منهنجين اکين ۾ ڳوڙها ڀرجي ويا. مان مايوسي ۾ پاڻ کي زمين تي اڇلائي ڇڏيو. بڊي نرمي سان منهنجا وار ڇهيا.",
+            "ur": "میری آنکہوں میں آنسو بہر آئے۔ میں نے مایوسی میں خود کو زمین پر گرا دیا۔ بڈی نے نرمی سے میرے بال چہوئے۔"
+          },
+          {
+            "en": "\"Thank you for telling me this, Pip,\" she said. \"I will always keep your secret.\"",
+            "sd": "”هن ڳاله ٻڌائڻ لاءِ تنهنجو شڪريو، پپ،“ هن چيو. ”مان تنهنجو راز هميشه رکنديس.“",
+            "ur": "”یہ بتانے کے لیے شکریہ، پپ،“ اس نے کہا۔ ”میں تمہارا راز ہمیشہ رکہوں گی۔“"
+          },
+          {
+            "en": "I sat up.",
+            "sd": "مان اٿي ويٺس.",
+            "ur": "میں اٹہ بیٹہا۔"
+          },
+          {
+            "en": "\"And I will always tell you everything, Biddy dear,\" I said.",
+            "sd": "”۽ مان توکي هميشه هر ڳاله ٻڌائيندس، پياري بڊي،“ مون چيو.",
+            "ur": "”اور میں تمہیں ہمیشہ سب کچہ بتاؤں گا، پیاری بڈی،“ میں نے کہا۔"
+          },
+          {
+            "en": "\"Yes, I'm sure you will, Pip,\" Biddy replied, smiling sadly.",
+            "sd": "”هائو، مون کي يقين آهي ته تون ٻڌائيندين، پپ،“ بڊي ڏک ڀري مرڪ سان جواب ڏنو.",
+            "ur": "”ہاں، مجہے یقین ہے کہ تم بتاؤ گے، پپ،“ بڈی نے افسردہ مسکراہٹ کے ساتہ جواب دیا۔"
+          },
+          {
+            "en": "But I had not told Biddy everything. I believed Miss Havisham had plans for me. I hoped she would give me money for my education, money to make me a gentleman. If I had money and education, Estella would love me as I loved her. I hoped Miss Havisham would make it possible for me to marry Estella.",
+            "sd": "پر مون بڊي کي سڀ ڳالهيون نه ٻڌايون هيون. مون کي يقين هو ته مس هيويشم منهنجي لاءِ منصوبا رکي ٿي. مون کي اميد هئي ته هوءَ مون کي تعليم لاءِ پئسا ڏيندي، پئسا جيڪي مون کي شريف ماڻهو بڻائيندا. جيڪڏهن منهنجي وٽ پئسا ۽ تعليم هوندا، ايسٽيلا مون سان ائين پيار ڪندي جيئن مان هن سان ڪريان ٿو. مون کي اميد هئي ته مس هيويشم منهنجي لاءِ ايسٽيلا سان شادي ڪرڻ ممڪن بڻائيندي.",
+            "ur": "لیکن میں نے بڈی کو سب کچہ نہیں بتایا تہا۔ مجہے یقین تہا کہ مس ہیویشم کے میرے لیے منصوبے ہیں۔ مجہے امید تہی کہ وہ مجہے تعلیم کے لیے پیسے دے گی، پیسے جو مجہے شریف آدمی بنائیں گے۔ اگر میرے پاس پیسے اور تعلیم ہوتے تو اسٹیلا مجہ سے ویسے ہی محبت کرتی جیسے میں اس سے کرتا ہوں۔ مجہے امید تہی کہ مس ہیویشم میرے لیے اسٹیلا سے شادی کرنا ممکن بنائے گی۔"
+          },
+          {
+            "en": "Time passed, and I was now in my fourth year as Joe's apprentice. It was a Saturday night, and we were sitting in the Three Jolly Bargemen when a tall, well-dressed man entered. He had large, very clean white hands and heavy eyebrows that made him look stern. To my surprise, I recognized him. I had seen him years before at Miss Havisham's house. He had frightened me then, and he still did now.",
+            "sd": "وقت گذري ويو، ۽ مان هاڻي جو جي سکيا جي چوٿين سال ۾ هوس. اهو ڇنڇر جي رات هئي، ۽ اسين ٿري جولي بارگيمين ۾ ويٺا هئاسين، جڏهن هڪ ڊگهو، سٺي لباس وارو ماڻهو اندر آيو. هن جا هٿ وڏا، تمام صاف ۽ اڇا هئا، ۽ هن جون ڀرون ڳريون هيون، جنهن ڪري هو سخت لڳو. منهنجي حيراني لاءِ، مون هن کي سڃاتو. مون هن کي سال اڳ مس هيويشم جي گھر ۾ ڏٺو هو. هن مون کي ان وقت ڊڄايو هو، ۽ هاڻي به ڊڄائي رھيو هو.",
+            "ur": "وقت گزر گیا، اور میں اب جو کی شاگردی کے چوتہے سال میں تہا۔ یہ ہفتے کی رات تہی، اور ہم تہری جولی بارگیمین میں بیٹہے تہے جب ایک لمبا، اچہے لباس والا آدمی اندر آیا۔ اس کے ہاتہ بڑے، بہت صاف اور سفید تہے، اور اس کی بہنویں بہاری تہیں، جس سے وہ سخت لگتا تہا۔ میری حیرانی کے لیے، میں نے اسے پہچان لیا۔ میں نے اسے سالوں پہلے مس ہیویشم کے گہر میں دیکہا تہا۔ اس نے مجہے اس وقت ڈرایا تہا، اور اب بہی ڈرا رہا تہا۔"
+          },
+          {
+            "en": "\"I think there is a blacksmith here—name of Joe Gargery,\" the man said in a loud voice.",
+            "sd": "”منهنجو خيال آهي ته هتي هڪ لوهار آهي — جو گارگري نالي،“ ماڻهو زور سان چيو.",
+            "ur": "”میرا خیال ہے کہ یہاں ایک لوہار ہے — جو گارگری نام کا،“ آدمی نے زور سے کہا۔"
+          },
+          {
+            "en": "\"That's me!\" Joe answered, standing up.",
+            "sd": "”اهو مان آهيان!“ جو اٿي بيھي جواب ڏنو.",
+            "ur": "”وہ میں ہوں!“ جو کہڑے ہو کر جواب دیا۔"
+          },
+          {
+            "en": "\"You have an apprentice known as Pip,\" the stranger continued.",
+            "sd": "”تنهنجي وٽ پپ نالي هڪ سکياڙو آهي،“ اجنبي جاري رکيو.",
+            "ur": "”تمہارے پاس پپ نام کا ایک شاگرد ہے،“ اجنبی نے جاری رکہا۔"
+          },
+          {
+            "en": "\"Where is he?\"",
+            "sd": "”هو ڪٿي آهي؟“",
+            "ur": "”وہ کہاں ہے؟“"
+          },
+          {
+            "en": "\"Here!\" I cried, standing beside Joe.",
+            "sd": "”هتي!“ مون جو جي ڀرسان بيھي رڙ ڪئي.",
+            "ur": "”یہاں!“ میں نے جو کے پاس کہڑے ہو کر پکارا۔"
+          },
+          {
+            "en": "\"I wish to speak to you both. I wish to speak to you privately, not here,\" the man said. \"Perhaps I could go home with you.\"",
+            "sd": "”مان توهان ٻنهي سان ڳالهائڻ چاهيان ٿو. مان توهان سان الڳ ۾ ڳالهائڻ چاهيان ٿو، هتي نه،“ ماڻهو چيو. ”شايد مان توهان سان گھر هلي سگھان ٿو.“",
+            "ur": "”میں تم دونوں سے بات کرنا چاہتا ہوں۔ میں تم سے الگ میں بات کرنا چاہتا ہوں، یہاں نہیں،“ آدمی نے کہا۔ ”شاید میں تمہارے ساتہ گہر چل سکتا ہوں۔“"
+          },
+          {
+            "en": "We left the inn, walking back to the forge in silence. Once inside the sitting room, the man introduced himself. \"My name is Jaggers. I am a lawyer in London, where I am well-known. I have some unusual business with young Pip here. I am speaking for someone else, you understand—a client who does not wish to be named. Is that clear?\"",
+            "sd": "اسين خاموشي سان سرائي ڇڏي لوهارخاني ڏانهن واپس هلياسين. ويهڻ واري ڪمري ۾ اندر اچي، ماڻهو پنهنجو تعارف ڪرايو. ”منهنجو نالو جيگرز آهي. مان لنڊن ۾ وڪيل آهيان، جتي مان مشهور آهيان. منهنجو نوجوان پپ سان ڪو غير معمولي ڪم آهي. مان ڪنهن ٻئي لاءِ ڳالهائي رھيو آهيان، سمجھو ٿا — هڪ موڪل جيڪو پنهنجو نالو ٻڌائڻ نٿو چاهي. ڇا صاف آهي؟“",
+            "ur": "ہم خاموشی سے سرائے چہوڑ کر لوہار خانے کی طرف واپس چلے۔ بیٹہنے والے کمرے میں اندر آ کر، آدمی نے اپنا تعارف کرایا۔ ”میرا نام جیگرز ہے۔ میں لندن میں وکیل ہوں، جہاں میں مشہور ہوں۔ میرا نوجوان پپ سے کچہ غیر معمولی کام ہے۔ میں کسی اور کے لیے بول رہا ہوں، سمجہتے ہو — ایک موکل جو اپنا نام بتانا نہیں چاہتا۔ کیا واضح ہے؟“"
+          },
+          {
+            "en": "Joe and I nodded.",
+            "sd": "مان ۽ جو ڪنڌ لوڏيوسين.",
+            "ur": "میں اور جو نے سر ہلایا۔"
+          },
+          {
+            "en": "\"I have come to take your apprentice to London,\" Mr. Jaggers said to Joe. \"You won't stop him from coming, I hope?\"",
+            "sd": "”مان تنهنجي سکياڙي کي لنڊن وٺي وڃڻ آيو آهيان،“ مسٽر جيگرز جو کي چيو. ”تون هن کي اچڻ کان نه روڪيندين، مون کي اميد آهي؟“",
+            "ur": "”میں تمہارے شاگرد کو لندن لے جانے آیا ہوں،“ مسٹر جیگرز نے جو سے کہا۔ ”تم اسے آنے سے نہیں روکو گے، مجہے امید ہے؟“"
+          },
+          {
+            "en": "\"Stop him? Never!\" Joe cried.",
+            "sd": "”هن کي روڪيان؟ ڪڏهن به نه!“ جو رڙ ڪئي.",
+            "ur": "”اسے روکوں؟ کبہی نہیں!“ جو چلایا۔"
+          },
+          {
+            "en": "\"Listen, then. I have this message for Pip. He has—great expectations!\"",
+            "sd": "”پوءِ ٻڌو. پپ لاءِ منهنجي وٽ هي پيغام آهي. هن جون — وڏيون اميدون آهن!“",
+            "ur": "”پہر سنو۔ پپ کے لیے میرے پاس یہ پیغام ہے۔ اس کی — بڑی امیدیں ہیں!“"
+          },
+          {
+            "en": "Joe and I looked at each other, too surprised to speak.",
+            "sd": "مان ۽ جو هڪ ٻئي ڏانهن ڏٺوسين، ڳالهائڻ لاءِ تمام گھڻا حيران.",
+            "ur": "میں اور جو نے ایک دوسرے کی طرف دیکہا، بولنے کے لیے بہت حیران۔"
+          },
+          {
+            "en": "\"Yes, great expectations,\" Mr. Jaggers repeated. \"Pip will one day be rich, very rich. He is to change his way of life at once. He will no longer be a blacksmith. He is to come with me to London, where he will be educated as a gentleman. He will be a man of property.\"",
+            "sd": "”هائو، وڏيون اميدون،“ مسٽر جيگرز ورجايو. ”پپ هڪ ڏينهن امير ٿيندو، تمام گھڻو امير. هو هڪدم پنهنجي زندگي جو انداز بدلائيندو. هو هاڻي لوهار نه رھندو. هو منهنجي سان لنڊن ايندو، جتي هو شريف ماڻهو وانگر تعليم حاصل ڪندو. هو ملڪيت وارو ماڻهو ٿيندو.“",
+            "ur": "”ہاں، بڑی امیدیں،“ مسٹر جیگرز نے دہرایا۔ ”پپ ایک دن امیر ہو گا، بہت امیر۔ وہ فوراً اپنی زندگی کا انداز بدل دے گا۔ وہ اب لوہار نہیں رہے گا۔ وہ میرے ساتہ لندن آئے گا، جہاں وہ شریف آدمی کی طرح تعلیم حاصل کرے گا۔ وہ جائیداد والا آدمی ہو گا۔“"
+          },
+          {
+            "en": "At last, my dream had come true. Miss Havisham—because Mr. Jaggers' client must be Miss Havisham—had plans for me after all. I would be rich, and Estella would love me!",
+            "sd": "آخرڪار، منهنجو خواب سچو ٿي ويو. مس هيويشم — ڇاڪاڻ ته مسٽر جيگرز جو موڪل مس هيويشم ئي هئڻ گھرجي — آخرڪار منهنجي لاءِ منصوبا رکي ٿي. مان امير ٿيندس، ۽ ايسٽيلا مون سان پيار ڪندي!",
+            "ur": "آخرکار، میرا خواب سچا ہو گیا۔ مس ہیویشم — کیونکہ مسٹر جیگرز کا موکل مس ہیویشم ہی ہونا چاہیے — آخرکار میرے لیے منصوبے رکہتی ہے۔ میں امیر ہوں گا، اور اسٹیلا مجہ سے محبت کرے گی!"
+          },
+          {
+            "en": "\"There are two conditions,\" Mr. Jaggers continued. \"First, you will always be known as Pip. Secondly, the name of your benefactor is to be kept secret. One day, that person will speak to you face to face. Until then, you must not ask any questions. You must never try to find out this person's name. Do you understand? Speak out!\"",
+            "sd": "”ٻه شرط آهن،“ مسٽر جيگرز جاري رکيو. ”پهرين، توکي هميشه پپ جي نالي سان سڃاتو ويندو. ٻيو، تنهنجي مددگار جو نالو راز ۾ رکڻو آهي. هڪ ڏينهن، اهو ماڻهو توهان سان منهن ڏي منهن ڳالهائيندو. ان وقت تائين، توکي ڪو سوال نه پڇڻو آهي. توکي ڪڏهن به هن ماڻهو جو نالو ڳولهڻ جي ڪوشش نه ڪرڻ گھرجي. ڇا سمجھيو؟ زور سان ڳالهاءِ!“",
+            "ur": "”دو شرطیں ہیں،“ مسٹر جیگرز نے جاری رکہا۔ ”پہلی، تم ہمیشہ پپ کے نام سے جانے جاؤ گے۔ دوسری، تمہارے مددگار کا نام راز میں رکہنا ہے۔ ایک دن، وہ شخص تم سے آمنے سامنے بات کرے گا۔ اس وقت تک، تمہیں کوئی سوال نہیں پوچہنا ہے۔ تمہیں کبہی اس شخص کا نام معلوم کرنے کی کوشش نہیں کرنی چاہیے۔ کیا سمجہے؟ زور سے بولو!“"
+          },
+          {
+            "en": "\"Yes, I understand,\" I answered. \"My benefactor's name is to remain a secret.\"",
+            "sd": "”هائو، مان سمجھيس،“ مون جواب ڏنو. ”منهنجي مددگار جو نالو راز رھڻ گھرجي.“",
+            "ur": "”ہاں، میں سمجہ گیا،“ میں نے جواب دیا۔ ”میرے مددگار کا نام راز رہنا چاہیے۔“"
+          },
+          {
+            "en": "\"Good,\" Mr. Jaggers said. \"Now, Pip, you will come into your property when you come of age—when you are twenty-one. Until then, I am your guardian. I have money to pay for your education and to allow you to live as a gentleman. You will have a private teacher. His name is Mr. Matthew Pocket, and you will stay at his house.\"",
+            "sd": "”سٺو،“ مسٽر جيگرز چيو. ”هاڻي، پپ، توکي پنهنجي ملڪيت ملندي جڏهن تون بالغ ٿيندين — جڏهن تون ايڪويه سالن جو ٿيندين. ان وقت تائين، مان تنهنجو سرپرست آهيان. منهنجي وٽ تنهنجي تعليم جا پئسا ڏيڻ ۽ توکي شريف ماڻهو وانگر رھڻ ڏيڻ لاءِ پئسا آهن. تنهنجو هڪ خانگي استاد هوندو. هن جو نالو مسٽر ميٿيو پاڪيٽ آهي، ۽ تون هن جي گھر ۾ رھندين.“",
+            "ur": "”اچہا،“ مسٹر جیگرز نے کہا۔ ”اب، پپ، تمہیں اپنی جائیداد ملے گی جب تم بالغ ہو جاؤ گے — جب تم اکیس سال کے ہو جاؤ گے۔ اس وقت تک، میں تمہارا سرپرست ہوں۔ میرے پاس تمہاری تعلیم کے پیسے دینے اور تمہیں شریف آدمی کی طرح رہنے دینے کے لیے پیسے ہیں۔ تمہارا ایک نجی استاد ہو گا۔ اس کا نام مسٹر میتہیو پاکٹ ہے، اور تم اس کے گہر میں رہو گے۔“"
+          },
+          {
+            "en": "I gave a cry of surprise. Some of Miss Havisham's relations were called Pocket. Mr. Jaggers raised his eyebrows.",
+            "sd": "مون حيراني جي رڙ ڪئي. مس هيويشم جا ڪيترائي مائٽ پاڪيٽ سڏيا ويندا هئا. مسٽر جيگرز پنهنجون ڀرون مٿي کنيون.",
+            "ur": "میں نے حیرانی سے پکارا۔ مس ہیویشم کے کچہ رشتے دار پاکٹ کہلاتے تہے۔ مسٹر جیگرز نے اپنی بہنویں اٹہائیں۔"
+          },
+          {
+            "en": "\"Do you not want to live with Mr. Pocket? Have you any objection to this arrangement?\" he asked sternly.",
+            "sd": "”ڇا تون مسٽر پاڪيٽ سان رھڻ نٿو چاهين؟ ڇا توکي هن بندوبست تي ڪو اعتراض آهي؟“ هن سختي سان پڇيو.",
+            "ur": "”کیا تم مسٹر پاکٹ کے ساتہ نہیں رہنا چاہتے؟ کیا تمہیں اس انتظام پر کوئی اعتراض ہے؟“ اس نے سختی سے پوچہا۔"
+          },
+          {
+            "en": "\"No, no, none at all,\" I answered quickly.",
+            "sd": "”نه، نه، بلڪل به نه،“ مون جلدي جواب ڏنو.",
+            "ur": "”نہیں، نہیں، بالکل نہیں،“ میں نے جلدی جواب دیا۔"
+          },
+          {
+            "en": "\"Good. Then I will arrange everything,\" Mr. Jaggers continued. \"Mr. Pocket's son has rooms in London. I suggest you go there. Now, when can you come to London?\"",
+            "sd": "”سٺو. پوءِ مان سڀني ڳالهين جو بندوبست ڪندس،“ مسٽر جيگرز جاري رکيو. ”مسٽر پاڪيٽ جي پٽ جا لنڊن ۾ ڪمرا آهن. مان صلاح ڏيان ٿو ته تون اتي وڃ. هاڻي، تون لنڊن ڪڏهن اچي سگھين ٿو؟“",
+            "ur": "”اچہا۔ پہر میں سب کچہ ترتیب دوں گا،“ مسٹر جیگرز نے جاری رکہا۔ ”مسٹر پاکٹ کے بیٹے کے لندن میں کمرے ہیں۔ میں صلاح دیتا ہوں کہ تم وہاں جاؤ۔ اب، تم لندن کب آ سکتے ہو؟“"
+          },
+          {
+            "en": "I looked at Joe.",
+            "sd": "مون جو ڏانهن ڏٺو.",
+            "ur": "میں نے جو کی طرف دیکہا۔"
+          },
+          {
+            "en": "\"At once, if Joe has no objection,\" I said.",
+            "sd": "”هڪدم، جيڪڏهن جو کي ڪو اعتراض نه آهي،“ مون چيو.",
+            "ur": "”فوراً، اگر جو کو کوئی اعتراض نہ ہو،“ میں نے کہا۔"
+          },
+          {
+            "en": "\"No objection, Pip old chap,\" Joe answered sadly.",
+            "sd": "”ڪو اعتراض نه آهي، پپ پراڻا دوست،“ جو ڏک سان جواب ڏنو.",
+            "ur": "”کوئی اعتراض نہیں، پپ پرانے دوست،“ جو نے افسوس سے جواب دیا۔"
+          },
+          {
+            "en": "\"Then you will come in one week's time,\" Mr. Jaggers said, standing up. \"You will need new clothes. Here is some money to pay for them—twenty guineas.\"",
+            "sd": "”پوءِ تون هڪ هفتي ۾ ايندين،“ مسٽر جيگرز اٿي بيھي چيو. ”توکي نوان ڪپڙا گهرجن. هتي انهن جي ادائيگي لاءِ پئسا آهن — ويه گنيون.“",
+            "ur": "”پہر تم ایک ہفتے میں آؤ گے،“ مسٹر جیگرز نے کہڑے ہو کر کہا۔ ”تمہیں نئے کپڑے چاہییں۔ یہاں ان کی ادائیگی کے لیے کچہ پیسے ہیں — بیس گنی۔“"
+          },
+          {
+            "en": "He counted out the money and placed it on the table.",
+            "sd": "هن پئسا ڳڻي ميز تي رکيا.",
+            "ur": "اس نے پیسے گنے اور میز پر رکہ دیے۔"
+          },
+          {
+            "en": "\"Well, Joe Gargery, you are saying nothing,\" Mr. Jaggers said to Joe sternly. \"I have money to give you too.\"",
+            "sd": "”خير، جو گارگري، تون ڪا ڳاله به نه ٿو ڪرين،“ مسٽر جيگرز جو کي سختي سان چيو. ”منهنجي وٽ توکي ڏيڻ لاءِ به پئسا آهن.“",
+            "ur": "”خیر، جو گارگری، تم کچہ نہیں کہہ رہے،“ مسٹر جیگرز نے جو سے سختی سے کہا۔ ”میرے پاس تمہیں دینے کے لیے بہی پیسے ہیں۔“"
+          },
+          {
+            "en": "\"Money? What for?\" Joe asked.",
+            "sd": "”پئسا؟ ڇا لاءِ؟“ جو پڇيو.",
+            "ur": "”پیسے؟ کس لیے؟“ جو نے پوچہا۔"
+          },
+          {
+            "en": "\"For the loss of your apprentice,\" Mr. Jaggers answered. \"Mr. Pip has been your apprentice, and now you are losing him.\"",
+            "sd": "”تنهنجي سکياڙي جي نقصان لاءِ،“ مسٽر جيگرز جواب ڏنو. ”مسٽر پپ تنهنجو سکياڙو رھيو آهي، ۽ هاڻي تون هن کي وڃائي رھيو آهين.“",
+            "ur": "”تمہارے شاگرد کے نقصان کے لیے،“ مسٹر جیگرز نے جواب دیا۔ ”مسٹر پپ تمہارا شاگرد رہا ہے، اور اب تم اسے کہو رہے ہو۔“"
+          },
+          {
+            "en": "Dear Joe placed his heavy hand gently on my shoulder. \"Pip must go free,\" Joe said. \"Let him go free. Let him have his good fortune. No money can replace the dear child. We've always been the best of friends, Pip and me. Ever the best of friends...\"",
+            "sd": "پياري جو پنهنجو ڳرو هٿ نرمي سان منهنجي ڪلهي تي رکيو. ”پپ کي آزاد وڃڻ گھرجي،“ جو چيو. ”هن کي آزاد وڃڻ ڏيو. هن کي پنهنجي سٺي قسمت ملڻ ڏيو. ڪو پئسو به پياري ٻار جي جاءِ نه ٿو وٺي سگھي. اسين هميشه بهترين دوست رھيا آهيون، مان ۽ پپ. هميشه بهترين دوست...“",
+            "ur": "پیارے جو نے اپنا بہاری ہاتہ نرمی سے میرے کندہے پر رکہا۔ ”پپ کو آزاد جانا چاہیے،“ جو نے کہا۔ ”اسے آزاد جانے دو۔ اسے اپنی اچہی قسمت ملنے دو۔ کوئی پیسہ بہی پیارے بچے کی جگہ نہیں لے سکتا۔ ہم ہمیشہ بہترین دوست رہے ہیں، میں اور پپ۔ ہمیشہ بہترین دوست...“"
+          },
+          {
+            "en": "Joe could not say any more. He wiped away a tear. And so my whole life changed. How happy I was! But Biddy and Joe were sad and quiet. This upset me. Why they were not pleased at my good fortune?",
+            "sd": "جو وڌيڪ ڪا ڳاله چئي نه سگھيو. هن هڪ ڳوڙهو اگھيو. ۽ اهڙي نموني منهنجي سڄي زندگي بدلجي وئي. مان ڪيترو خوش هوس! پر بڊي ۽ جو اداس ۽ خاموش هئا. هن مون کي پريشان ڪيو. هو منهنجي سٺي قسمت تي خوش ڇو نه هئا؟",
+            "ur": "جو مزید کچہ نہ کہہ سکا۔ اس نے ایک آنسو پونچہا۔ اور اسی طرح میری ساری زندگی بدل گئی۔ میں کتنا خوش تہا! لیکن بڈی اور جو اداس اور خاموش تہے۔ اس سے مجہے تکلیف ہوئی۔ وہ میری اچہی قسمت پر خوش کیوں نہیں تہے؟"
+          },
+          {
+            "en": "The next few days passed slowly for me. I bought new clothes, boots, and a hat. I decided to say goodbye to Miss Havisham before I left for London.",
+            "sd": "ايندڙ ڪيترائي ڏينهن منهنجي لاءِ آهستي گذريا. مون نوان ڪپڙا، بوٽ، ۽ ٽوپي خريد ڪئي. مون فيصلو ڪيو ته لنڊن وڃڻ کان اڳ مس هيويشم کي الوداع چوان.",
+            "ur": "اگلے چند دن میرے لیے آہستہ گزرے۔ میں نے نئے کپڑے، بوٹ، اور ٹوپی خریدی۔ میں نے فیصلہ کیا کہ لندن جانے سے پہلے مس ہیویشم کو الوداع کہوں۔"
+          },
+          {
+            "en": "\"How smart you look, Pip!\" Miss Havisham said when she saw me.",
+            "sd": "”تون ڪيترو سٺو لڳين ٿو، پپ!“ مس هيويشم چيو جڏهن هن مون کي ڏٺو.",
+            "ur": "”تم کتنے اچہے لگتے ہو، پپ!“ مس ہیویشم نے کہا جب اس نے مجہے دیکہا۔"
+          },
+          {
+            "en": "\"You look like a gentleman. Why is this?\"",
+            "sd": "”تون شريف ماڻهو وانگر لڳين ٿو. اهو ڇو آهي؟“",
+            "ur": "”تم شریف آدمی کی طرح لگتے ہو۔ یہ کیوں ہے؟“"
+          },
+          {
+            "en": "\"I have had good fortune since I last saw you, Miss Havisham,\" I said with a smile. \"I am so grateful, Miss Havisham, so grateful.\"",
+            "sd": "”منهنجي قسمت سٺي ٿي آهي جڏهن کان مون توکي آخري ڀيرو ڏٺو، مس هيويشم،“ مون مرڪ سان چيو. ”مان تمام گھڻو شڪرگذار آهيان، مس هيويشم، تمام گھڻو شڪرگذار.“",
+            "ur": "”جب سے میں نے تمہیں آخری بار دیکہا ہے، میری قسمت اچہی ہوئی ہے، مس ہیویشم،“ میں نے مسکراہٹ کے ساتہ کہا۔ ”میں بہت شکر گزار ہوں، مس ہیویشم، بہت شکر گزار۔“"
+          },
+          {
+            "en": "\"I know, I know. I have seen Mr. Jaggers, Pip,\" Miss Havisham answered. \"He tells me you have great expectations. You now have a rich benefactor, and you are leaving for London tomorrow.\"",
+            "sd": "”مان ڄاڻان ٿي، مان ڄاڻان ٿي. مون مسٽر جيگرز کي ڏٺو آهي، پپ،“ مس هيويشم جواب ڏنو. ”هو مون کي ٻڌائي ٿو ته تنهنجون وڏيون اميدون آهن. تنهنجو هاڻي هڪ امير مددگار آهي، ۽ تون سڀاڻي لنڊن وڃي رھيو آهين.“",
+            "ur": "”میں جانتی ہوں، میں جانتی ہوں۔ میں نے مسٹر جیگرز کو دیکہا ہے، پپ،“ مس ہیویشم نے جواب دیا۔ ”وہ مجہے بتاتا ہے کہ تمہاری بڑی امیدیں ہیں۔ تمہارا اب ایک امیر مددگار ہے، اور تم کل لندن جا رہے ہو۔"
+          },
+          {
+            "en": "\"Yes, Miss Havisham.\"",
+            "sd": "”هائو، مس هيويشم.“",
+            "ur": "”جی، مس ہیویشم۔“"
+          },
+          {
+            "en": "\"Well, be good then, Pip, and do what Mr. Jaggers tells you. Goodbye, Pip. You must keep the name of Pip, you know.\"",
+            "sd": "”خير، پوءِ سٺو رھ، پپ، ۽ جيڪو مسٽر جيگرز توکي چوي، اهو ڪر. الوداع، پپ. توکي پپ جو نالو رکڻو پوندو، توکي خبر آهي.“",
+            "ur": "”خیر، پہر اچہے رہو، پپ، اور جو مسٹر جیگرز تمہیں کہے، وہ کرو۔ الوداع، پپ۔ تمہیں پپ کا نام رکہنا ہے، تم جانتے ہو۔“"
+          },
+          {
+            "en": "\"Goodbye, Miss Havisham.\"",
+            "sd": "”الوداع، مس هيويشم.“",
+            "ur": "”الوداع، مس ہیویشم۔“"
+          },
+          {
+            "en": "Miss Havisham smiled and held out her hand. I bowed and kissed it. On my last evening at the forge, Biddy cooked a special supper, and I wore my new clothes.",
+            "sd": "مس هيويشم مرڪي ۽ پنهنجو هٿ وڌايو. مون جھڪي هن جو هٿ چميو. لوهارخاني ۾ منهنجي آخري شام، بڊي خاص رات جي ماني پچائي، ۽ مون پنهنجا نوان ڪپڙا پاتا.",
+            "ur": "مس ہیویشم مسکرائی اور اپنا ہاتہ بڑہایا۔ میں نے جہک کر اسے چوما۔ لوہار خانے میں میری آخری شام، بڈی نے خاص رات کا کہانا پکایا، اور میں نے اپنے نئے کپڑے پہنے۔"
+          },
+          {
+            "en": "The London coach had to leave the town at six o'clock the next morning. I told Biddy and Joe that I wanted to walk to the town alone. Was I ashamed to be seen with them there? I'm afraid I was.",
+            "sd": "لنڊن جي ڪوچ کي ٻئي صبح ڇهن وڳي شهر ڇڏڻو هو. مون بڊي ۽ جو کي ٻڌايو ته مان شهر تائين اڪيلو هلڻ چاهيان ٿو. ڇا مان اتي هنن سان ڏسڻ تي شرمسار هوس؟ مون کي ڊپ آهي ته هوس.",
+            "ur": "لندن کی کوچ کو اگلی صبح چہ بجے شہر چہوڑنا تہا۔ میں نے بڈی اور جو کو بتایا کہ میں شہر تک اکیلا چلنا چاہتا ہوں۔ کیا میں وہاں ان کے ساتہ دیکہے جانے پر شرمندہ تہا؟ مجہے ڈر ہے کہ تہا۔"
+          },
+          {
+            "en": "I said goodbye to Mrs. Joe, then to Biddy. Finally, I embraced Joe, the dearest and kindest friend I had ever known. The last I saw of them, dear old Joe was waving his arm above his head, and Biddy was wiping her eyes with her apron.",
+            "sd": "مون مسز جو کي الوداع چيو، پوءِ بڊي کي. آخر ۾، مون جو کي ڀاڪر پاتو، منهنجو سڀ کان پيارو ۽ مهربان دوست، جنهن کي مان ڪڏهن به سڃاتو هو. هنن کي آخري ڀيرو ڏسندي، پيارو پوڙهو جو پنهنجو هٿ مٿي لوڏي رھيو هو، ۽ بڊي پنهنجي اپرون سان اکيون اگھي رھي هئي.",
+            "ur": "میں نے مسز جو کو الوداع کہا، پہر بڈی کو۔ آخر میں، میں نے جو کو گلے لگایا، میرا سب سے پیارا اور مہربان دوست، جسے میں نے کبہی جانا تہا۔ انہیں آخری بار دیکہتے ہوئے، پیارے بوڑہے جو اپنا بازو سر کے اوپر ہلا رہا تہا، اور بڈی اپنے اپرن سے آنکہیں پونچہ رہی تہی۔"
+          },
+          {
+            "en": "I walked a while. Then I stopped and, with one huge sob, broke into tears. I thought of going back and having a better parting. But I got on the coach instead. The mists had risen, and the day was clear. As the coach moved, I longed to turn back and steal one last glance—but I dared not. I feared that seeing them again in that moment might shatter my resolve. Instead, I sat still, listening to the fading sound behind me, like the quiet thud of a closing door on the life I was leaving behind.",
+            "sd": "مان ٿوري دير هليس. پوءِ مان بيھي رھيس ۽، هڪ وڏي سڏڪي سان، روئڻ لڳس. مون واپس وڃڻ ۽ بهتر نموني الوداع چوڻ بابت سوچيو. پر ان جي بدران مان ڪوچ ۾ چڙهي ويس. ڌنڌ اڀري چڪي هئي، ۽ ڏينهن صاف هو. جڏهن ڪوچ هلي، مون کي موٽي ڏسڻ ۽ آخري نظر چورائڻ جي خواهش ٿي — پر مون همت نه ڪئي. مون کي ڊپ هو ته هن وقت هنن کي وري ڏسڻ منهنجو ارادو ٽوڙي ڇڏيندو. ان جي بدران، مان خاموش ويھي رھيس، پنهنجي پٺيان مدھم ٿيندڙ آواز ٻڌندي، ڄڻ بند ٿيندڙ دروازي جي خاموش ڌڪ، ان زندگي تي جيڪا مان پوئتي ڇڏي رھيو هوس.",
+            "ur": "میں تہوڑی دیر چلا۔ پہر میں رک گیا اور، ایک بڑی سسکی کے ساتہ، رونے لگا۔ میں نے واپس جانے اور بہتر انداز میں الوداع کہنے کے بارے میں سوچا۔ لیکن اس کے بجائے میں کوچ میں چڑہ گیا۔ دہند اٹہ چکی تہی، اور دن صاف تہا۔ جب کوچ چلی تو مجہے پیچہے مڑ کر ایک آخری نظر چرانے کی خواہش ہوئی — لیکن میں نے ہمت نہیں کی۔ مجہے ڈر تہا کہ اس وقت انہیں دوبارہ دیکہنا میرا ارادہ توڑ دے گا۔ اس کے بجائے، میں خاموش بیٹہا رہا، اپنے پیچہے مدہم ہوتا آواز سنتے ہوئے، جیسے بند ہوتے دروازے کی خاموش تہپک، اس زندگی پر جو میں پیچہے چہوڑ رہا تہا۔"
+          },
+          {
+            "en": "After a six-hour journey, I arrived in London at midday, overwhelmed by its crowded, dirty streets. With Mr. Jaggers' office address in hand, I navigated the busy city until I found his door. Inside, I discovered a waiting crowd and learned from his clerk that Mr. Jaggers was in court.",
+            "sd": "ڇهن ڪلاڪن جي سفر کان پوءِ، مان منجھند جو لنڊن پهتس، هن جي ڀريل، گندين گهٽين کان متاثر ٿي. مسٽر جيگرز جي آفيس جو پتو هٿ ۾ کڻي، مان مصروف شهر مان گذريس، جيستائين مون هن جو دروازو ڳولهيو. اندر، مون کي انتظار ڪندڙ ماڻهن جو هجوم مليو ۽ هن جي ڪلارڪ کان معلوم ٿيو ته مسٽر جيگرز عدالت ۾ هو.",
+            "ur": "چہ گہنٹے کے سفر کے بعد، میں دوپہر کو لندن پہنچا، اس کی بہری ہوئی، گندی گلیوں سے متاثر ہو کر۔ مسٹر جیگرز کے دفتر کا پتہ ہاتہ میں لیے، میں مصروف شہر سے گزرا، یہاں تک کہ مجہے اس کا دروازہ مل گیا۔ اندر، مجہے انتظار کرنے والے لوگوں کا ہجوم ملا اور اس کے کلرک سے معلوم ہوا کہ مسٹر جیگرز عدالت میں تہے۔"
+          },
+          {
+            "en": "When he finally arrived, he wasted no time. He instructed me to stay with Mr. Pocket at Barnard's Inn until Monday, after which I would meet his father, my tutor. He assured me of a generous allowance but warned that he would oversee my spending. His clerk, Wemmick, then escorted me to Barnard's Inn, which was disappointingly shabby.",
+            "sd": "جڏهن هو آخر ۾ آيو، هن وقت ضايع نه ڪيو. هن مون کي هدايت ڏني ته مان سومر تائين برنارڊز ان ۾ مسٽر پاڪيٽ سان رھان، جنهن کان پوءِ مان هن جي پيءُ، منهنجي استاد سان ملندس. هن مون کي وڏي وظيفي جي پڪ ڏني، پر خبردار ڪيو ته هو منهنجي خرچ جي نگراني ڪندو. هن جي ڪلارڪ، ويمڪ، پوءِ مون کي برنارڊز ان ڏانهن وٺي ويو، جيڪا مايوس ڪندڙ نموني پراڻي هئي.",
+            "ur": "جب وہ آخر میں آیا تو اس نے وقت ضائع نہیں کیا۔ اس نے مجہے ہدایت دی کہ میں پیر تک برنارڈز ان میں مسٹر پاکٹ کے ساتہ رہوں، جس کے بعد میں اس کے والد، میرے استاد سے ملوں گا۔ اس نے مجہے بڑے وظیفے کی یقین دہانی کرائی، لیکن خبردار کیا کہ وہ میرے خرچ کی نگرانی کرے گا۔ اس کے کلرک، ویمک، نے پہر مجہے برنارڈز ان تک پہنچایا، جو مایوس کن طور پر پرانی تہی۔"
+          },
+          {
+            "en": "At the top floor, I found Mr. Pocket's door.",
+            "sd": "مٿئين منزل تي، مون مسٽر پاڪيٽ جو دروازو ڳولهيو.",
+            "ur": "اوپری منزل پر، مجہے مسٹر پاکٹ کا دروازہ ملا۔"
+          },
+          {
+            "en": "\"Mr. Pocket?\" I inquired.",
+            "sd": "”مسٽر پاڪيٽ؟“ مون پڇيو.",
+            "ur": "”مسٹر پاکٹ؟“ میں نے پوچہا۔"
+          },
+          {
+            "en": "\"Mr. Pip? He inquired too. \"Please, come in.\"",
+            "sd": "”مسٽر پپ؟ هن به پڇيو. ”مهرباني ڪري، اندر اچو.“",
+            "ur": "”مسٹر پپ؟ اس نے بہی پوچہا۔ ”مہربانی کر کے، اندر آؤ۔“"
+          },
+          {
+            "en": "He led me into two rather dusty rooms. As we looked at each other, recognition dawned. \"Well, bless me! You're the boy from Miss Havisham's house!\" he exclaimed.",
+            "sd": "هو مون کي ٻن مٽي وارن ڪمرن ۾ وٺي ويو. جڏهن اسين هڪ ٻئي ڏانهن ڏٺوسين، سڃاڻپ ٿي وئي. ”واه، خدا مون کي برڪت ڏئي! تون مس هيويشم جي گھر وارو ڇوڪرو آهين!“ هن رڙ ڪئي.",
+            "ur": "وہ مجہے دو دہول والے کمروں میں لے گیا۔ جب ہم نے ایک دوسرے کی طرف دیکہا تو پہچان ہو گئی۔ ”واہ، خدا مجہے برکت دے! تم مس ہیویشم کے گہر والے لڑکے ہو!“ اس نے پکارا۔"
+          },
+          {
+            "en": "\"And you,\" I responded, \"are the pale young gentleman who once challenged me to a fight!\"",
+            "sd": "”۽ تون،“ مون جواب ڏنو، ”اهو پيلو نوجوان جنٽلمين آهين جنهن هڪ ڀيري مون کي وڙه لاءِ للڪاريو هو!“",
+            "ur": "”اور تم،“ میں نے جواب دیا، ”وہ پیلے نوجوان جنٹلمین ہو جس نے ایک بار مجہے لڑائی کے لیے للکارا تہا!“"
+          },
+          {
+            "en": "We both burst into laughter. As we talked, he revealed a shocking truth—Estella was not Miss Havisham's daughter but had been adopted and raised to break men's hearts as part of Miss Havisham's revenge.",
+            "sd": "اسين ٻئي کلڻ لڳاسين. جڏهن اسين ڳالهائي رھيا هئاسين، هن هڪ حيران ڪندڙ سچائي ٻڌائي — ايسٽيلا مس هيويشم جي ڌيءَ نه هئي، پر هن کي گود ورتو ويو هو ۽ مس هيويشم جي بدلي جي حصي طور مردن جون دليون ٽوڙڻ لاءِ پاليو ويو هو.",
+            "ur": "ہم دونوں ہنس پڑے۔ جب ہم بات کر رہے تہے، اس نے ایک حیران کن سچائی بتائی — اسٹیلا مس ہیویشم کی بیٹی نہیں تہی، بلکہ اسے گود لیا گیا تہا اور مس ہیویشم کے انتقام کے حصے کے طور پر مردوں کے دل توڑنے کے لیے پالا گیا تہا۔"
+          },
+          {
+            "en": "Herbert then told me Miss Havisham's tragic story. She had been deceived by a man she loved, who manipulated her into giving him large sums of money before abandoning her on her wedding day. From that moment, she stopped all the clocks and shut herself away, determined to make men suffer as she had. She had raised Estella to be the instrument of her vengeance.",
+            "sd": "پوءِ هربرٽ مون کي مس هيويشم جي ڏک ڀري ڪهاڻي ٻڌائي. هن کي هڪ ماڻهو ٺڳيو هو جنهن سان هوءَ پيار ڪندي هئي، جنهن هن کي شادي جي ڏينهن تي ڇڏڻ کان اڳ وڏي رقم ڏيڻ لاءِ مجبور ڪيو هو. ان وقت کان، هن سڀ گھڙيون بيھاري ڇڏيون ۽ پاڻ کي بند ڪري ڇڏيو، پختو ارادو ڪري ته مردن کي ائين ڏک ڏيندي جيئن هن کي ڏک ٿيو هو. هن ايسٽيلا کي پنهنجي بدلي جو اوزار بڻجڻ لاءِ پاليو هو.",
+            "ur": "پہر ہربرٹ نے مجہے مس ہیویشم کی افسوسناک کہانی بتائی۔ اسے ایک آدمی نے دہوکا دیا تہا جس سے وہ محبت کرتی تہی، جس نے اسے شادی کے دن چہوڑنے سے پہلے بڑی رقم دینے پر مجبور کیا تہا۔ اس وقت سے، اس نے تمام گہڑیاں روک دیں اور خود کو بند کر لیا، پختہ ارادہ کر کے کہ مردوں کو ویسے ہی تکلیف دے گی جیسے اسے ہوئی تہی۔ اس نے اسٹیلا کو اپنے انتقام کا آلہ بننے کے لیے پالا تہا۔"
+          },
+          {
+            "en": "Wanting to change the subject, Herbert invited me to dinner at his father's house, offering to help refine my manners. When I asked about his profession, he admitted he hadn't started yet but was exploring opportunities. Despite his modest living conditions, his optimism and ambition were admirable. I found myself liking him, and we got along splendidly.",
+            "sd": "موضوع بدلائڻ چاهيندي، هربرٽ مون کي پنهنجي پيءُ جي گھر رات جي ماني تي گهرايو، منهنجي اخلاق سڌارڻ ۾ مدد جي آڇ ڪندي. جڏهن مون هن جي پيشي بابت پڇيو، هن مڃيو ته هن اڃا شروع نه ڪيو هو، پر موقعن جي ڳولها ڪري رھيو هو. هن جي سادي رھڻي ڪهڻي باوجود، هن جو اميد ۽ ارادو قابل تعريف هو. مون کي هو پسند اچڻ لڳو، ۽ اسين شاندار نموني گڏ رھياسين.",
+            "ur": "موضوع بدلنا چاہتے ہوئے، ہربرٹ نے مجہے اپنے والد کے گہر رات کے کہانے پر بلایا، میرے اخلاق سنوارنے میں مدد کی پیشکش کرتے ہوئے۔ جب میں نے اس کے پیشے کے بارے میں پوچہا تو اس نے مانا کہ اس نے ابہی شروع نہیں کیا تہا، لیکن مواقع تلاش کر رہا تہا۔ اس کے سادہ رہن سہن کے باوجود، اس کی امید اور ارادہ قابل تعریف تہا۔ مجہے وہ پسند آنے لگا، اور ہم شاندار طریقے سے ساتہ رہنے لگے۔"
+          },
+          {
+            "en": "I moved to Herbert's father's house in Hammersmith to start my education as a gentleman. While Herbert taught me how to dress and behave properly, I helped him pay for his rooms with part of my allowance. I also met another student, Bentley Drummle, who came from a wealthy family but was rude, arrogant, and unpleasant.",
+            "sd": "مان هربرٽ جي پيءُ جي گھر، هيمر اسمتھ ۾، شريف ماڻهو وانگر تعليم شروع ڪرڻ لاءِ هليو ويس. جڏهن هربرٽ مون کي سيکاريو ته ڪيئن پهرڻ ۽ صحيح نموني ورتاءُ ڪرڻ گھرجي، مون هن کي پنهنجي وظيفي جي حصي سان هن جي ڪمرن جو کرايو ڏيڻ ۾ مدد ڪئي. مان هڪ ٻئي شاگرد، بينٽلي ڊرمل سان به مليس، جيڪو امير خاندان مان آيو هو، پر بدتميز، مغرور، ۽ ناخوشگوار هو.",
+            "ur": "میں ہربرٹ کے والد کے گہر، ہیمر اسمتہ میں، شریف آدمی کی طرح تعلیم شروع کرنے کے لیے چلا گیا۔ جب ہربرٹ نے مجہے سکہایا کہ کیسے پہننا اور صحیح طریقے سے برتاؤ کرنا ہے، میں نے اسے اپنے وظیفے کے حصے سے اس کے کمروں کا کرایہ دینے میں مدد کی۔ میں ایک اور طالب علم، بینٹلی ڈرمل سے بہی ملا، جو امیر خاندان سے آیا تہا، لیکن بدتمیز، مغرور، اور ناخوشگوار تہا۔"
+          },
+          {
+            "en": "One evening, Mr. Jaggers invited us to dinner at his house. During the meal, he shocked us by forcing his housekeeper, Molly, to show her powerful wrists, claiming that she was even more powerful than strong men. After the meal, I sat with Wemmick, and I asked about Molly if he knew something about her. I was curious about her because when I saw her I felt that those hands, hair and eyes were not unfamiliar to me. Wemmick recounted how, many years ago, Jaggers had defended Molly in a murder trial. She had been accused of killing a woman out of jealousy, but Jaggers had masterfully secured her acquittal. Wemmick also mentioned a curious detail: Molly had once had a child—a daughter—who disappeared after the trial. The pieces of the puzzle began to fall into place. Estella's adoption by Miss Havisham, her age, and her unknown origins all aligned with what I now knew of Molly's past. The realization hit me with stunning clarity. Molly—Jaggers's housemaid—was none other than Estella's mother. Though Jaggers never directly confirmed it, there was no doubt in my mind. I had uncovered the secret of Estella's parentage—a truth hidden beneath years of pain and manipulation.",
+            "sd": "هڪ شام، مسٽر جيگرز اسان کي پنهنجي گھر رات جي ماني تي گهرايو. ماني دوران، هن اسان کي حيران ڪري ڇڏيو، پنهنجي گھر جي نوڪراڻي، مالي کي مجبور ڪري ته هوءَ پنهنجا طاقتور کلائي ڏيکاري، اهو دعويٰ ڪندي ته هوءَ مضبوط مردن کان به وڌيڪ طاقتور هئي. ماني کان پوءِ، مان ويمڪ سان ويٺس، ۽ مون مالي بابت پڇيو ته ڇا هو هن بابت ڪا خبر رکي ٿو. مان هن بابت تجسس ۾ هوس، ڇاڪاڻ ته جڏهن مون هن کي ڏٺو، مون کي محسوس ٿيو ته اهي هٿ، وار، ۽ اکيون منهنجي لاءِ اڻڄاتل نه هيون. ويمڪ ٻڌايو ته، ڪيترائي سال اڳ، جيگرز قتل جي مقدمي ۾ مالي جو دفاع ڪيو هو. هن تي حسد جي ڪري هڪ عورت کي مارڻ جو الزام هو، پر جيگرز هوشياري سان هن جي بريت حاصل ڪئي هئي. ويمڪ هڪ عجيب تفصيل به ٻڌايو: مالي جو هڪ ڀيري ٻار هو — هڪ ڌيءَ — جيڪا مقدمي کان پوءِ غائب ٿي وئي. پزل جا ٽڪرا گڏ ٿيڻ لڳا. مس هيويشم طرفان ايسٽيلا کي گود وٺڻ، هن جي عمر، ۽ هن جي اڻڄاتل اصليت، سڀ مالي جي ماضي بابت منهنجي ڄاڻ سان ملي ويا. اهو احساس مون کي حيران ڪندڙ واضح نموني سان لڳو. مالي — جيگرز جي گھر جي نوڪراڻي — ايسٽيلا جي ماءُ کان سواءِ ٻي ڪا نه هئي. جيتوڻيڪ جيگرز ڪڏهن به سڌي نموني ان جي تصديق نه ڪئي، منهنجي ذهن ۾ ڪو شڪ نه هو. مون ايسٽيلا جي والدين جو راز پڌرو ڪيو هو — هڪ سچائي جيڪا سالن جي ڏک ۽ چالاڪي هيٺ لڪيل هئي.",
+            "ur": "ایک شام، مسٹر جیگرز نے ہمیں اپنے گہر رات کے کہانے پر بلایا۔ کہانے کے دوران، اس نے ہمیں حیران کر دیا، اپنی گہر کی نوکرانی، مولی کو مجبور کر کے کہ وہ اپنی طاقتور کلائیاں دکہائے، یہ دعویٰ کرتے ہوئے کہ وہ مضبوط مردوں سے بہی زیادہ طاقتور تہی۔ کہانے کے بعد، میں ویمک کے ساتہ بیٹہا، اور میں نے مولی کے بارے میں پوچہا کہ کیا وہ اس کے بارے میں کچہ جانتا ہے۔ میں اس کے بارے میں تجسس میں تہا، کیونکہ جب میں نے اسے دیکہا تو مجہے محسوس ہوا کہ وہ ہاتہ، بال، اور آنکہیں میرے لیے اجنبی نہیں تہیں۔ ویمک نے بتایا کہ، کئی سال پہلے، جیگرز نے قتل کے مقدمے میں مولی کا دفاع کیا تہا۔ اس پر حسد کی وجہ سے ایک عورت کو مارنے کا الزام تہا، لیکن جیگرز نے ہوشیاری سے اس کی بریت حاصل کی تہی۔ ویمک نے ایک عجیب تفصیل بہی بتائی: مولی کا ایک بار بچہ تہا — ایک بیٹی — جو مقدمے کے بعد غائب ہو گئی۔ پہیلی کے ٹکڑے جڑنے لگے۔ مس ہیویشم کی طرف سے اسٹیلا کو گود لینا، اس کی عمر، اور اس کی نامعلوم اصل، سب مولی کے ماضی کے بارے میں میری جانکاری سے مل گئے۔ یہ احساس مجہے حیران کن واضح انداز میں لگا۔ مولی — جیگرز کی گہر کی نوکرانی — اسٹیلا کی ماں کے سوا کوئی اور نہیں تہی۔ اگرچہ جیگرز نے کبہی براہ راست اس کی تصدیق نہیں کی، میرے ذہن میں کوئی شک نہیں تہا۔ میں نے اسٹیلا کے والدین کا راز کہول دیا تہا — ایک سچائی جو سالوں کے درد اور چالاکی کے نیچے چہپی تہی۔"
+          },
+          {
+            "en": "After that I became so focused on my new life that I stopped writing to Joe and Biddy'. I struggled to leave my past behind but felt uneasy when Joe visited. His discomfort and calling me \"sir\" upset me, though it was my fault. Before leaving, he delivered Miss Havisham's message—Estella had returned and wished to see me. I hurried to her, only to be treated coldly, which left me heartbroken. Back in London, I confessed my love for Estella to Herbert, who warned me of the pain it could bring.",
+            "sd": "ان کان پوءِ مان پنهنجي نئين زندگي ۾ ايترو مصروف ٿي ويس جو مون جو ۽ بڊي کي خط لکڻ بند ڪري ڇڏيا. مون پنهنجو ماضي پوئتي ڇڏڻ لاءِ جدوجهد ڪئي، پر جڏهن جو آيو ته مان بي آرام محسوس ڪيم. هن جي بي آرامي ۽ مون کي ”سر“ چوڻ مون کي پريشان ڪيو، جيتوڻيڪ اهو منهنجو قصور هو. وڃڻ کان اڳ، هن مس هيويشم جو پيغام ڏنو — ايسٽيلا موٽي آئي هئي ۽ مون کي ڏسڻ چاهي ٿي. مان جلدي هن وٽ ويس، پر هن مون سان ٿڌو ورتاءُ ڪيو، جنهن مون کي دل ٽٽل ڇڏيو. لنڊن ۾ واپس، مون هربرٽ کي ايسٽيلا سان پنهنجي محبت جو اعتراف ڪيو، جنهن مون کي ان درد کان خبردار ڪيو جيڪو اهو آڻي سگھي ٿو.",
+            "ur": "اس کے بعد میں اپنی نئی زندگی میں اتنا مصروف ہو گیا کہ میں نے جو اور بڈی کو خط لکہنا بند کر دیا۔ میں نے اپنا ماضی پیچہے چہوڑنے کے لیے جدوجہد کی، لیکن جب جو آیا تو میں بے آرام محسوس کیا۔ اس کی بے آرامی اور مجہے ”سر“ کہنا مجہے پریشان کرتا تہا، اگرچہ یہ میری غلطی تہی۔ جانے سے پہلے، اس نے مس ہیویشم کا پیغام دیا — اسٹیلا واپس آئی تہی اور مجہے دیکہنا چاہتی تہی۔ میں جلدی اس کے پاس گیا، لیکن اس نے میرے ساتہ سرد مہری کی، جس نے مجہے دل شکستہ چہوڑ دیا۔ لندن میں واپس، میں نے ہربرٹ کو اسٹیلا سے اپنی محبت کا اعتراف کیا، جس نے مجہے اس درد سے خبردار کیا جو یہ لا سکتا ہے۔"
+          },
+          {
+            "en": "Soon, I received news of my sister's death, attended her funeral, and promised to visit Joe and Biddy, though Biddy doubted me. Jaggers then informed me of my debts and gave me a £500 annual allowance. I secretly used half to help Herbert start a business, which brought him joy. Meanwhile, Estella entertained Drummle, the man I despised, and admitted to manipulating others but not me. Yet, my heartbreak deepened when a final devastating event shattered my world completely.",
+            "sd": "جلد، مون کي منهنجي ڀيڻ جي موت جي خبر ملي، مان هن جي جنازي ۾ شرڪت ڪئي، ۽ جو ۽ بڊي سان ملڻ جو واعدو ڪيو، جيتوڻيڪ بڊي مون تي شڪ ڪيو. جيگرز پوءِ مون کي منهنجن قرضن بابت ٻڌايو ۽ مون کي ساليانو پنج سو پائونڊ وظيفو ڏنو. مون ڳجهي نموني اڌ رقم هربرٽ جي ڪاروبار شروع ڪرڻ ۾ مدد لاءِ استعمال ڪئي، جنهن هن کي خوشي ڏني. ان وچ ۾، ايسٽيلا ڊرمل جي صحبت ۾ رھي، جنهن ماڻهو کان مان نفرت ڪندو هوس، ۽ هن مڃيو ته هوءَ ٻين کي چالاڪي سان استعمال ڪري ٿي، پر مون کي نه. پوءِ به، منهنجي دل جو ٽٽڻ وڌيڪ گھرو ٿي ويو، جڏهن هڪ آخري تباه ڪندڙ واقعي منهنجي دنيا کي مڪمل طور ٽوڙي ڇڏيو.",
+            "ur": "جلد، مجہے میری بہن کی موت کی خبر ملی، میں نے اس کے جنازے میں شرکت کی، اور جو اور بڈی سے ملنے کا وعدہ کیا، اگرچہ بڈی کو مجہ پر شک تہا۔ جیگرز نے پہر مجہے میرے قرضوں کے بارے میں بتایا اور مجہے پانچ سو پاؤنڈ سالانہ وظیفہ دیا۔ میں نے خفیہ طور پر آدہی رقم ہربرٹ کے کاروبار شروع کرنے میں مدد کے لیے استعمال کی، جس نے اسے خوشی دی۔ اس دوران، اسٹیلا ڈرمل کی صحبت میں رہی، وہ آدمی جس سے میں نفرت کرتا تہا، اور اس نے مانا کہ وہ دوسروں کو چالاکی سے استعمال کرتی ہے، لیکن مجہے نہیں۔ پہر بہی، میرا دل ٹوٹنا اور گہرا ہو گیا، جب ایک آخری تباہ کن واقعے نے میری دنیا کو مکمل طور پر توڑ دیا۔"
+          },
+          {
+            "en": "At the age of 23, I still had no clue about the source of my newfound fortune. Herbert, my companion, had been called away on business, leaving me alone in our shared lodgings. The night was wild and stormy, with the wind howling fiercely, rattling the house and extinguishing the flames of the street lamps. As the clock struck eleven, I heard footsteps ascending the stairs.",
+            "sd": "23 سالن جي عمر ۾، مون کي اڃا تائين پنهنجي نئين دولت جي ذريعي بابت ڪا خبر نه هئي. هربرٽ، منهنجو ساٿي، ڪاروبار جي ڪري ٻاهر ويو هو، مون کي اسان جي گڏيل رهائش ۾ اڪيلو ڇڏي. رات وحشي ۽ طوفاني هئي، هوا زور سان گوڙ ڪندي، گھر کي لوڏيندي، ۽ گهٽي جي بتيون وسائيندي. جڏهن گھڙي يارنهن وڳايو، مون کي ڏاڪڻين تي چڙهندڙ قدمن جو آواز ٻڌو.",
+            "ur": "23 سال کی عمر میں، مجہے ابہی تک اپنی نئی دولت کے ذریعے کے بارے میں کوئی خبر نہیں تہی۔ ہربرٹ، میرا ساتہی، کاروبار کی وجہ سے باہر گیا ہوا تہا، مجہے ہماری مشترکہ رہائش میں اکیلا چہوڑ کر۔ رات وحشی اور طوفانی تہی، ہوا زور سے چیختی ہوئی، گہر کو ہلاتی ہوئی، اور گلی کی بتیاں بجہاتی ہوئی۔ جب گہڑی نے گیارہ بجائے تو مجہے سیڑہیوں پر چڑہتے قدموں کی آواز سنی۔"
+          },
+          {
+            "en": "\"Is someone there?\" I called out.",
+            "sd": "”ڪو اتي آهي؟“ مون رڙ ڪري پڇيو.",
+            "ur": "”کوئی وہاں ہے؟“ میں نے پکار کر پوچہا۔"
+          },
+          {
+            "en": "\"Yes,\" came a voice from below.",
+            "sd": "”هائو،“ هيٺان کان هڪ آواز آيو.",
+            "ur": "”ہاں،“ نیچے سے ایک آواز آئی۔"
+          },
+          {
+            "en": "\"Which floor are you heading to?\" I inquired.",
+            "sd": "”تون ڪهڙي منزل ڏانهن وڃي رھيو آهين؟“ مون پڇيو.",
+            "ur": "”تم کس منزل کی طرف جا رہے ہو؟“ میں نے پوچہا۔"
+          },
+          {
+            "en": "\"The top. I'm searching for Mr. Pip,\" the voice replied.",
+            "sd": "”مٿين. مان مسٽر پپ کي ڳولهي رھيو آهيان،“ آواز جواب ڏنو.",
+            "ur": "”اوپر۔ میں مسٹر پپ کو ڈہونڈ رہا ہوں،“ آواز نے جواب دیا۔"
+          },
+          {
+            "en": "\"That's me,\" I said, holding my lamp over the stair rail to illuminate the figure. A man's face came into view, weathered and framed by long, iron-gray hair. He was dressed in the rugged attire of a seaman and appeared to be around 60 years old. As he reached the top of the stairs, he extended both hands toward me.",
+            "sd": "”اهو مان آهيان،“ مون چيو، پنهنجي ڏيئي کي ڏاڪڻ جي ريلنگ مٿان جھڪائي، شڪل کي روشن ڪرڻ لاءِ. هڪ ماڻهو جو منهن نظر آيو، موسم جو ماريل ۽ ڊگهن، لوهي سرمئي وارن سان گهيريل. هو هڪ ملاح جي سخت لباس ۾ هو ۽ لڳ ڀڳ 60 سالن جو لڳو. جڏهن هو ڏاڪڻ جي مٿين حصي تي پهتو، هن ٻئي هٿ منهنجي ڏانهن وڌايا.",
+            "ur": "”وہ میں ہوں،“ میں نے کہا، اپنا چراغ سیڑہی کی ریلنگ کے اوپر جہکا کر، شکل کو روشن کرنے کے لیے۔ ایک آدمی کا چہرہ نظر آیا، موسم زدہ اور لمبے، لوہے جیسے سرمئی بالوں سے گہرا ہوا۔ وہ ایک ملاح کے سخت لباس میں تہا اور تقریباً 60 سال کا لگتا تہا۔ جب وہ سیڑہیوں کی اوپر پہنچا تو اس نے دونوں ہاتہ میری طرف بڑہائے۔"
+          },
+          {
+            "en": "He glanced around my room with a sense of satisfaction, as though he had some personal interest in what he saw. When he removed his hat, I noticed he was bald on top, with the iron-gray hair only growing on the sides of his head. His face was unfamiliar to me.",
+            "sd": "هن منهنجي ڪمري ۾ اطمينان سان چوڌاري ڏٺو، ڄڻ هن کي جيڪي ڏٺو، ان ۾ ڪو ذاتي دلچسپي هئي. جڏهن هن پنهنجي ٽوپي لاٿي، مون ڏٺو ته هو مٿان کان گنجو هو، لوهي سرمئي وار رڳو هن جي سر جي پاسن تي وڌي رھيا هئا. هن جو منهن منهنجي لاءِ اڻڄاتل هو.",
+            "ur": "اس نے میرے کمرے میں اطمینان سے چاروں طرف دیکہا، جیسے اسے جو دیکہا، اس میں کوئی ذاتی دلچسپی ہو۔ جب اس نے اپنی ٹوپی اتاری تو میں نے دیکہا کہ وہ اوپر سے گنجا تہا، لوہے جیسے سرمئی بال صرف اس کے سر کے اطراف میں بڑہ رہے تہے۔ اس کا چہرہ میرے لیے اجنبی تہا۔"
+          },
+          {
+            "en": "He pulled a handkerchief from his pocket and tied it around his head. In that moment, I recognized him! My mind flashed back to the churchyard where we had first met face to face.",
+            "sd": "هن پنهنجي کيسي مان رومال ڪڍيو ۽ ان کي پنهنجي سر جي چوڌاري ٻڌو. انهيءَ وقت، مون هن کي سڃاتو! منهنجو ذهن واپس قبرستان ڏانهن ويو، جتي اسين پهرين ڀيري منهن ڏي منهن مليا هئاسين.",
+            "ur": "اس نے اپنی جیب سے رومال نکالا اور اسے اپنے سر کے گرد باندہا۔ اسی لمحے، میں نے اسے پہچان لیا! میرا ذہن واپس قبرستان کی طرف گیا، جہاں ہم پہلی بار آمنے سامنے ملے تہے۔"
+          },
+          {
+            "en": "He stretched out his hands, and though I was reluctant, I offered him mine.",
+            "sd": "هن پنهنجا هٿ اڳتي وڌايا، ۽ جيتوڻيڪ مان تيار نه هوس، مون به پنهنجا هٿ اڳتي وڌايا.",
+            "ur": "اس نے اپنے ہاتھ آگے بڑھائے، اور اگرچہ میں ہچکچا رہا تھا، میں نے بھی اپنے ہاتھ آگے بڑھا دیے۔"
+          },
+          {
+            "en": "“Noble Pip!” he exclaimed. “I have never forgotten your kindness.”",
+            "sd": "”شريف پپ!“ هن رڙ ڪري چيو. ”مان تنهنجي مهرباني ڪڏهن به نه وساريو آهي.“",
+            "ur": "”شریف پپ!“ اس نے پکار کر کہا۔ ”میں تمہاری مہربانی کبھی نہیں بھولا۔“"
+          },
+          {
+            "en": "He then moved as if to embrace me.",
+            "sd": "پوءِ هن اهڙي طرح اڳتي وڌيو ڄڻ مون کي ڀاڪر پائڻ چاهيندو هجي.",
+            "ur": "پھر وہ اس طرح آگے بڑھا جیسے مجھے گلے لگانا چاہتا ہو۔"
+          },
+          {
+            "en": "“Wait,” I said, stopping him. “You must understand—we can never be friends.”",
+            "sd": "”ترسو،“ مون کيس روڪيندي چيو. ”توکي سمجھڻ گھرجي — اسان ڪڏهن به دوست نٿا ٿي سگھون.“",
+            "ur": "”رکو،“ میں نے اسے روکتے ہوئے کہا۔ ”تمہیں سمجھنا چاہیے — ہم کبھی دوست نہیں بن سکتے۔“"
+          },
+          {
+            "en": "I was taken aback to see tears welling up in his eyes. “I didn't mean to sound harsh,” I added. “I wish you well.”",
+            "sd": "هن جي اکين ۾ ڳوڙها ايندي ڏسي مان حيران ٿي ويس. ”منهنجو مطلب سخت ڳالهائڻ نه هو،“ مون وڌيڪ چيو. ”مان تنهنجي ڀلائي چاهيان ٿو.“",
+            "ur": "اس کی آنکھوں میں آنسو آتے دیکھ کر میں حیران رہ گیا۔ ”میرا مطلب سخت لہجہ اختیار کرنا نہیں تھا،“ میں نے مزید کہا۔ ”میں تمہاری بھلائی چاہتا ہوں۔“"
+          },
+          {
+            "en": "“I've been living a good life,” the convict said. “I've been a sheep farmer far across the sea.” He glanced around my room once more. “May I be so bold,” he asked with a smile, “as to inquire how you've done so well since your days on the marshes?”",
+            "sd": "”مان سٺي زندگي گذاري رھيو آهيان،“ قيدي چيو. ”مان سمنڊ پار پري رڍون پاليندو رھيو آهيان.“ هن وري منهنجي ڪمري ۾ چوڌاري ڏٺو. ”ڇا مان ايتري همت ڪري سگھان ٿو،“ هن مرڪيندي پڇيو، ”ته پڇان ته دلدل وارن ڏينهن کان پوءِ تون ايترو سٺو ڪيئن ٿي ويو آهين؟“",
+            "ur": "”میں اچھی زندگی گزار رہا ہوں،“ قیدی نے کہا۔ ”میں سمندر پار دور بھیڑیں پالتا رہا ہوں۔“ اس نے ایک بار پھر میرے کمرے میں چاروں طرف دیکھا۔ ”کیا میں اتنی ہمت کر سکتا ہوں،“ اس نے مسکراتے ہوئے پوچھا، ”کہ پوچھوں کہ دلدل والے دنوں کے بعد سے تم اتنے اچھے کیسے ہو گئے؟“"
+          },
+          {
+            "en": "I explained that I had been chosen to inherit some property.",
+            "sd": "مون کيس ٻڌايو ته مون کي ڪجهه ملڪيت جو وارث ٿيڻ لاءِ چونڊيو ويو هو.",
+            "ur": "میں نے اسے بتایا کہ مجھے کچھ جائیداد کا وارث بننے کے لیے چنا گیا تھا۔"
+          },
+          {
+            "en": "“Might I ask whose property?” he pressed. “I... I don't know,” I admitted.",
+            "sd": "”ڇا مان پڇي سگھان ٿو ته ڪنهن جي ملڪيت؟“ هن زور ڏئي پڇيو. ”م... مون کي خبر ناهي،“ مون مڃيو.",
+            "ur": "”کیا میں پوچھ سکتا ہوں کہ کس کی جائیداد؟“ اس نے زور دے کر پوچھا۔ ”م... مجھے نہیں معلوم،“ میں نے مان لیا۔"
+          },
+          {
+            "en": "“Could I guess your annual income since you came of age?” he asked. “Could it be around 500 pounds?”",
+            "sd": "”ڇا مان اندازو لڳائي سگھان ٿو ته بالغ ٿيڻ کان پوءِ تنهنجي سالياني آمدني ڪيتري آهي؟“ هن پڇيو. ”ڇا اها لڳ ڀڳ 500 پائونڊ هوندي؟“",
+            "ur": "”کیا میں اندازہ لگا سکتا ہوں کہ بالغ ہونے کے بعد سے تمہاری سالانہ آمدنی کتنی ہے؟“ اس نے پوچھا۔ ”کیا وہ تقریباً 500 پاؤنڈ ہوگی؟“"
+          },
+          {
+            "en": "My heart pounded like a hammer. I stared at him, barely able to breathe.",
+            "sd": "منهنجي دل هٿوڙي وانگر ڌڙڪڻ لڳي. مان کيس گهوريندو رھيس، مون کي دم کڻڻ به مشڪل ٿي پيو.",
+            "ur": "میرا دل ہتھوڑے کی طرح دھڑکنے لگا۔ میں اسے گھورتا رہا، مجھے سانس لینا بھی مشکل ہو گیا۔"
+          },
+          {
+            "en": "“There must have been a guardian,” he continued, “until you reached adulthood. Would the first letter of that person's name be 'J'?”",
+            "sd": "”تنهنجو ڪو سرپرست ضرور هوندو،“ هن ڳالهه جاري رکندي چيو، ”جيستائين تون بالغ ٿئين. ڇا انهي ماڻهو جي نالي جو پهريون اکر 'J' هوندو؟“",
+            "ur": "”تمہارا کوئی سرپرست ضرور ہوگا،“ اس نے بات جاری رکھتے ہوئے کہا، ”جب تک تم بالغ نہ ہوئے۔ کیا اس شخص کے نام کا پہلا حرف 'J' ہوگا؟“"
+          },
+          {
+            "en": "The truth hit me like a bolt of lightning, filling me with disappointment and shame. I gasped for air as the room seemed to spin around me. He caught me and helped me to the sofa, then knelt on one knee before me.",
+            "sd": "سچ مون کي بجلي جي ڪڙڪي وانگر لڳو، ۽ مان مايوسي ۽ شرم سان ڀرجي ويس. ڪمرو منهنجي چوڌاري گهمندو محسوس ٿيو ۽ مان زور سان دم کڻڻ لڳس. هن مون کي جهليو ۽ صوفي تي ويهارڻ ۾ مدد ڪئي، پوءِ منهنجي اڳيان هڪ گوڏي تي ويھي رھيو.",
+            "ur": "سچ مجھ پر بجلی کی کڑک کی طرح گرا، اور میں مایوسی اور شرم سے بھر گیا۔ کمرہ میرے گرد گھومتا محسوس ہوا اور میں سانس لینے کے لیے ہانپنے لگا۔ اس نے مجھے پکڑا اور صوفے تک پہنچنے میں مدد کی، پھر میرے سامنے ایک گھٹنے پر بیٹھ گیا۔"
+          },
+          {
+            "en": "“Yes, Pip, my dear boy,” he said. “I'm the one who made you a gentleman.",
+            "sd": "”ها، پپ، منهنجا پيارا ڇوڪرا،“ هن چيو. ”مان ئي اهو آهيان جنهن توکي شريف ماڻهو بڻايو.",
+            "ur": "”ہاں، پپ، میرے پیارے لڑکے،“ اس نے کہا۔ ”میں ہی وہ ہوں جس نے تمہیں شریف آدمی بنایا۔"
+          },
+          {
+            "en": "For a moment, my mind lost the ability to think. I felt as if I were dropping into a deep trench, the world around me frozen in silence. All my dreams, built on illusions, shattered like glass. There was no life, no warmth, no future in that moment—only the echo of a truth I had never imagined.",
+            "sd": "هڪ لمحي لاءِ منهنجي دماغ سوچڻ جي سگهه وڃائي ڇڏي. مون کي ائين لڳو ڄڻ مان ڪنهن گھري کڏ ۾ ڪري رھيو آهيان، ۽ منهنجي چوڌاري دنيا خاموشي ۾ ڄمي وئي آهي. منهنجا سڀ خواب، جيڪي وهم تي ٻڌل هئا، شيشي وانگر ٽٽي پيا. انهي لمحي ۾ نه زندگي هئي، نه گرمجوشي، نه مستقبل — رڳو هڪ اهڙي سچ جي گونج هئي، جنهن جو مون ڪڏهن تصور به نه ڪيو هو.",
+            "ur": "ایک لمحے کے لیے میرا دماغ سوچنے کی طاقت کھو بیٹھا۔ مجھے ایسا لگا جیسے میں کسی گہری کھائی میں گر رہا ہوں، اور میرے گرد دنیا خاموشی میں جم گئی ہے۔ میرے تمام خواب، جو وہم پر بنے تھے، شیشے کی طرح ٹوٹ گئے۔ اس لمحے میں نہ زندگی تھی، نہ گرمجوشی، نہ مستقبل — صرف ایک ایسی سچائی کی گونج تھی، جس کا میں نے کبھی تصور بھی نہیں کیا تھا۔"
+          },
+          {
+            "en": "When I came to my senses, he was still sitting just as before, his eyes filled with hope and pride, and he was saying, “It was me! I vowed that if I ever became wealthy, you would too. I endured a hard life so that you could live an easy one. I worked so that you wouldn't have to. I'm like a second father to you! Tell me—did you ever suspect it might be me, Pip?”",
+            "sd": "جڏهن مون کي هوش آيو، هو اڃا به اڳ وانگر ويٺو هو، هن جي اکين ۾ اميد ۽ فخر ڀريل هو، ۽ هو چئي رھيو هو، ”اهو مان هوس! مون قسم کنيو هو ته جيڪڏهن مان ڪڏهن امير ٿيس ته تون به ٿيندين. مون سخت زندگي گذاري ته تون آساني سان زندگي گذاري سگھين. مون محنت ڪئي ته توکي محنت نه ڪرڻي پوي. مان تنهنجي لاءِ ٻئي پيءُ وانگر آهيان! مون کي ٻڌاءِ — ڇا توکي ڪڏهن شڪ ٿيو ته اهو مان ٿي سگھان ٿو، پپ؟“",
+            "ur": "جب مجھے ہوش آیا، وہ اب بھی پہلے کی طرح بیٹھا تھا، اس کی آنکھوں میں امید اور فخر بھرا تھا، اور وہ کہہ رہا تھا، ”یہ میں تھا! میں نے قسم کھائی تھی کہ اگر میں کبھی امیر ہوا تو تم بھی ہوگے۔ میں نے سخت زندگی گزاری تاکہ تم آرام سے زندگی گزار سکو۔ میں نے محنت کی تاکہ تمہیں محنت نہ کرنی پڑے۔ میں تمہارے لیے دوسرے باپ جیسا ہوں! مجھے بتاؤ — کیا تمہیں کبھی شک ہوا کہ یہ میں ہو سکتا ہوں، پپ؟“"
+          },
+          {
+            "en": "“Oh, no, no,” I replied. “Never!”",
+            "sd": "”اوه، نه، نه،“ مون جواب ڏنو. ”ڪڏهن به نه!“",
+            "ur": "”اوہ، نہیں، نہیں،“ میں نے جواب دیا۔ ”کبھی نہیں!“"
+          },
+          {
+            "en": "“Well, it was me,” he said. “No one else knew except for me and Mr. Jaggers!”",
+            "sd": "”خير، اهو مان هوس،“ هن چيو. ”مون ۽ مسٽر جيگرز کان سواءِ ٻئي ڪنهن کي به خبر نه هئي!“",
+            "ur": "”خیر، یہ میں تھا،“ اس نے کہا۔ ”میرے اور مسٹر جیگرز کے سوا کسی اور کو خبر نہیں تھی!“"
+          },
+          {
+            "en": "I wished he had never come. If only he had left me at the forge, where I belonged.",
+            "sd": "مون خواهش ڪئي ته ڪاش هو ڪڏهن آيو ئي نه هجي ها. ڪاش هن مون کي لوهارخاني ۾ ئي ڇڏيو هجي ها، جتي مان رھندو هوس.",
+            "ur": "میں نے خواہش کی کہ کاش وہ کبھی آیا ہی نہ ہوتا۔ کاش اس نے مجھے لوہار خانے میں ہی چھوڑ دیا ہوتا، جہاں میں رہتا تھا۔"
+          },
+          {
+            "en": "I was horrified to learn that my secret benefactor was the convict, Abel Magwitch, who had made his fortune in Australia but now faced death if caught in England. He sought shelter, and though I despised his tainted wealth, I felt responsible for him. That night, fear consumed me as I realized Miss Havisham had never intended me for Estella, my expectations were based on false assumptions. At the same time, I felt deep regret for having distanced himself from Joe, his loyal and kind-hearted father figure, in pursuit of wealth and social status. The next morning, Magwitch revealed his alias, Provis, and his connection to Jaggers. When I confronted Jaggers, he confirmed that Magwitch was indeed my benefactor. I resolved to help Magwitch escape England but knew it wouldn't be easy. Herbert soon discovered the truth, and under oath, swore to keep it secret. Together, we decided Magwitch must flee to Europe, and I had to go with him. Though my future was shattered, I needed to know the full story of Magwitch's past before helping him escape.",
+            "sd": "اهو ڄاڻي مان ڊڄي ويس ته منهنجو ڳجهو مددگار اهو قيدي، ايبل ميگ وچ هو، جنهن آسٽريليا ۾ دولت ڪمائي هئي، پر هاڻي جيڪڏهن انگلينڊ ۾ پڪڙجي وڃي ته کيس موت جي سزا ملندي. هن پناهه گھري، ۽ جيتوڻيڪ مون کي هن جي داغدار دولت کان نفرت هئي، مون پاڻ کي هن جو ذميوار محسوس ڪيو. انهي رات، ڊپ مون کي وڪوڙي ويو، جڏهن مون کي سمجھ ۾ آيو ته مس هيويشم مون کي ڪڏهن به اسٽيلا لاءِ نه چونڊيو هو، منهنجون اميدون غلط خيالن تي ٻڌل هيون. ساڳي وقت، مون کي گھرو افسوس ٿيو ته مون دولت ۽ سماجي درجي جي پٺيان جو کان پري ٿي ويو هوس، جيڪو منهنجو وفادار ۽ مهربان پيءُ جهڙو هو. ٻئي صبح، ميگ وچ پنهنجو فرضي نالو، پرووس، ۽ جيگرز سان پنهنجو تعلق ظاهر ڪيو. جڏهن مون جيگرز کان پڇيو، هن تصديق ڪئي ته ميگ وچ ئي واقعي منهنجو مددگار هو. مون فيصلو ڪيو ته ميگ وچ کي انگلينڊ مان ڀڄڻ ۾ مدد ڪندس، پر مون کي خبر هئي ته اهو آسان نه هوندو. هربرٽ کي جلد ئي سچ جي خبر پئجي وئي، ۽ قسم کڻي هن راز رکڻ جو واعدو ڪيو. گڏجي، اسان فيصلو ڪيو ته ميگ وچ کي يورپ ڀڄڻو پوندو، ۽ مون کي به هن سان گڏ وڃڻو پوندو. جيتوڻيڪ منهنجو مستقبل تباهه ٿي چڪو هو، مون کي هن جي مدد ڪرڻ کان اڳ ميگ وچ جي ماضي جي پوري ڪهاڻي ڄاڻڻي هئي.",
+            "ur": "یہ جان کر میں خوفزدہ ہو گیا کہ میرا خفیہ مددگار وہ قیدی، ایبل میگ وچ تھا، جس نے آسٹریلیا میں دولت کمائی تھی، لیکن اب اگر انگلینڈ میں پکڑا جائے تو اسے موت کی سزا ملے گی۔ اس نے پناہ مانگی، اور اگرچہ مجھے اس کی داغدار دولت سے نفرت تھی، میں نے خود کو اس کا ذمہ دار محسوس کیا۔ اس رات، خوف نے مجھے گھیر لیا، جب مجھے سمجھ آیا کہ مس ہیویشم نے مجھے کبھی اسٹیلا کے لیے نہیں چنا تھا، میری امیدیں غلط خیالات پر مبنی تھیں۔ اسی وقت، مجھے گہرا افسوس ہوا کہ میں دولت اور سماجی درجے کے پیچھے جو سے دور ہو گیا تھا، جو میرا وفادار اور مہربان باپ جیسا تھا۔ اگلی صبح، میگ وچ نے اپنا فرضی نام، پرووس، اور جیگرز سے اپنا تعلق ظاہر کیا۔ جب میں نے جیگرز سے پوچھا، اس نے تصدیق کی کہ میگ وچ ہی واقعی میرا مددگار تھا۔ میں نے فیصلہ کیا کہ میگ وچ کو انگلینڈ سے بھاگنے میں مدد کروں گا، لیکن مجھے معلوم تھا کہ یہ آسان نہیں ہوگا۔ ہربرٹ کو جلد ہی سچ کا پتہ چل گیا، اور قسم کھا کر اس نے راز رکھنے کا وعدہ کیا۔ مل کر، ہم نے فیصلہ کیا کہ میگ وچ کو یورپ بھاگنا ہوگا، اور مجھے بھی اس کے ساتھ جانا ہوگا۔ اگرچہ میرا مستقبل تباہ ہو چکا تھا، مجھے اس کی مدد کرنے سے پہلے میگ وچ کے ماضی کی پوری کہانی جاننی تھی۔"
+          },
+          {
+            "en": "He stared at the fire for a moment and then began to speak.",
+            "sd": "هن هڪ لمحي لاءِ باهه ڏانهن گھريو ۽ پوءِ ڳالهائڻ شروع ڪيو.",
+            "ur": "اس نے ایک لمحے کے لیے آگ کو گھورا اور پھر بولنا شروع کیا۔"
+          },
+          {
+            "en": "‘I don't know where I was born. I know nothing about myself but my name. The first thing I remember was stealing food to keep alive. In jail and out of jail, in jail and out. I was punished wherever I went. I had no education. I only learned to read and write a little. About twenty years ago, I met Compeyson, the man I fought on the marshes. He looked like a gentleman, but he was very wicked and very clever. He asked me to help him with his plans. And he made sure that, if anything went wrong, I would be blamed for it.",
+            "sd": "’مون کي خبر ناهي ته مان ڪٿي پيدا ٿيس. مان پنهنجي باري ۾ پنهنجي نالي کان سواءِ ڪجهه به نٿو ڄاڻان. پهرين شيءِ جيڪا مون کي ياد آهي، اها آهي ته جيئرو رھڻ لاءِ کاڌو چورائيندو هوس. جيل اندر ۽ جيل ٻاهر، جيل اندر ۽ جيل ٻاهر. جتي به ويس، مون کي سزا ملي. مون کي ڪا تعليم نه ملي. مان رڳو ٿورو پڙهڻ ۽ لکڻ سکيس. لڳ ڀڳ ويهن سال اڳ، مان ڪامپيسن سان مليس، اهو ماڻهو جنهن سان مان دلدل تي وڙهيس. هو شريف ماڻهو لڳندو هو، پر هو تمام گھڻو بدڪار ۽ تمام گھڻو هوشيار هو. هن مون کان پنهنجي منصوبن ۾ مدد ڪرڻ لاءِ چيو. ۽ هن پڪ ڪئي ته جيڪڏهن ڪجهه غلط ٿئي ته الزام مون تي لڳندو.",
+            "ur": "’مجھے نہیں معلوم کہ میں کہاں پیدا ہوا۔ میں اپنے بارے میں اپنے نام کے سوا کچھ نہیں جانتا۔ پہلی چیز جو مجھے یاد ہے، وہ یہ ہے کہ زندہ رہنے کے لیے کھانا چراتا تھا۔ جیل کے اندر اور جیل کے باہر، جیل کے اندر اور جیل کے باہر۔ جہاں بھی گیا، مجھے سزا ملی۔ مجھے کوئی تعلیم نہیں ملی۔ میں صرف تھوڑا پڑھنا اور لکھنا سیکھا۔ تقریباً بیس سال پہلے، میں کامپیسن سے ملا، وہ آدمی جس سے میں دلدل پر لڑا تھا۔ وہ شریف آدمی لگتا تھا، لیکن وہ بہت بدکار اور بہت ہوشیار تھا۔ اس نے مجھ سے اپنے منصوبوں میں مدد کرنے کو کہا۔ اور اس نے یقینی بنایا کہ اگر کچھ غلط ہو تو الزام مجھ پر لگے۔"
+          },
+          {
+            "en": "‘Compeyson had a friend, a young man with a rich sister. The two men treated this woman very badly and stole her money.’",
+            "sd": "’ڪامپيسن جو هڪ دوست هو، هڪ نوجوان، جنهن جي هڪ امير ڀيڻ هئي. انهن ٻنهي ماڻهن انهي عورت سان تمام گھڻو خراب سلوڪ ڪيو ۽ هن جا پئسا چوري ڪيا.‘",
+            "ur": "’کامپیسن کا ایک دوست تھا، ایک نوجوان، جس کی ایک امیر بہن تھی۔ ان دونوں آدمیوں نے اس عورت کے ساتھ بہت برا سلوک کیا اور اس کے پیسے چرا لیے۔‘"
+          },
+          {
+            "en": "When Herbert heard this, he looked up quickly, but he said nothing.",
+            "sd": "جڏهن هربرٽ اهو ٻڌو، هن جلدي مٿي ڏٺو، پر هن ڪجهه به نه چيو.",
+            "ur": "جب ہربرٹ نے یہ سنا، اس نے جلدی سے اوپر دیکھا، لیکن اس نے کچھ نہیں کہا۔"
+          },
+          {
+            "en": "‘Later, the young man died,’ Magwitch went on. ‘Compeyson had more and more power over me. All the wicked things he planned were done by me. When we were caught, I was blamed for everything. I sold everything I had to pay the lawyer, Mr. Jaggers, to speak for me in court. But when Compeyson and I stood up in court, he was dressed like an honest gentleman, and I looked wicked and dishonest. So he was sent to prison for seven years. I was sent to prison for fourteen years. And we were both sent to the Hulks.",
+            "sd": "’پوءِ، نوجوان مري ويو،‘ ميگ وچ ڳالهه جاري رکندي چيو. ’ڪامپيسن جو مون تي وڌيڪ ۽ وڌيڪ زور هلڻ لڳو. جيڪي به خراب ڪم هن رٿيا، اهي مون کان ڪرايا ويا. جڏهن اسان پڪڙيا وياسين، هر شيءِ جو الزام مون تي لڳو. مون پنهنجو سڀ ڪجهه وڪڻي وڪيل، مسٽر جيگرز کي پئسا ڏنا ته هو عدالت ۾ منهنجي طرفان ڳالهائي. پر جڏهن مان ۽ ڪامپيسن عدالت ۾ بيٺاسين، هو هڪ ايماندار شريف ماڻهو وانگر پيل هو، ۽ مان بدڪار ۽ بي ايمان لڳس. تنهنڪري کيس ست سال قيد جي سزا ملي. مون کي چوڏهن سال قيد جي سزا ملي. ۽ اسان ٻنهي کي قيدي جهازن ڏانهن موڪليو ويو.",
+            "ur": "’بعد میں، نوجوان مر گیا،‘ میگ وچ نے بات جاری رکھتے ہوئے کہا۔ ’کامپیسن کا مجھ پر زیادہ سے زیادہ زور چلنے لگا۔ جو بھی برے کام اس نے سوچے، وہ مجھ سے کرائے گئے۔ جب ہم پکڑے گئے، ہر چیز کا الزام مجھ پر لگا۔ میں نے اپنا سب کچھ بیچ کر وکیل، مسٹر جیگرز کو پیسے دیے تاکہ وہ عدالت میں میری طرف سے بولے۔ لیکن جب میں اور کامپیسن عدالت میں کھڑے ہوئے، وہ ایک ایماندار شریف آدمی کی طرح لگ رہا تھا، اور میں بدکار اور بے ایمان لگا۔ اس لیے اسے سات سال قید کی سزا ملی۔ مجھے چودہ سال قید کی سزا ملی۔ اور ہم دونوں کو قیدی جہازوں پر بھیج دیا گیا۔"
+          },
+          {
+            "en": "‘One day, I had a fight with Compeyson and cut his face. I escaped from the Hulks onto the marshes. That's where you helped me, dear boy. When I found out that Compeyson had escaped too, I caught him and waited for the soldiers to come. So instead of escaping, I was transported to Australia for life.’",
+            "sd": "’هڪ ڏينهن، منهنجو ڪامپيسن سان جهيڙو ٿيو ۽ مون هن جو منهن ڪپي ڇڏيو. مان قيدي جهازن مان ڀڄي دلدل تي پهتس. اتي ئي تو مون جي مدد ڪئي هئي، پيارا ڇوڪرا. جڏهن مون کي خبر پئي ته ڪامپيسن به ڀڄي ويو آهي، مون کيس پڪڙيو ۽ سپاهين جي اچڻ جو انتظار ڪيو. تنهنڪري ڀڄڻ بدران، مون کي سڄي زندگي لاءِ آسٽريليا موڪليو ويو.‘",
+            "ur": "’ایک دن، میری کامپیسن سے لڑائی ہوئی اور میں نے اس کا چہرہ کاٹ دیا۔ میں قیدی جہازوں سے بھاگ کر دلدل پر پہنچا۔ وہیں تم نے میری مدد کی تھی، پیارے لڑکے۔ جب مجھے پتہ چلا کہ کامپیسن بھی بھاگ گیا ہے، میں نے اسے پکڑا اور سپاہیوں کے آنے کا انتظار کیا۔ اس لیے بھاگنے کے بجائے، مجھے ساری زندگی کے لیے آسٹریلیا بھیج دیا گیا۔‘"
+          },
+          {
+            "en": "‘And Compeyson?’ I asked quietly. ‘Where is he now?’",
+            "sd": "’۽ ڪامپيسن؟‘ مون آهستي پڇيو. ’هو هاڻي ڪٿي آهي؟‘",
+            "ur": "’اور کامپیسن؟‘ میں نے آہستہ سے پوچھا۔ ’وہ اب کہاں ہے؟‘"
+          },
+          {
+            "en": "‘I never heard of him again. He may be alive or dead. I don't know. But if he finds me here, it's death for me or him!’",
+            "sd": "’مون کي هن جي ڪا خبر وري نه ملي. هو زنده به ٿي سگھي ٿو يا مري به ويو هجي. مون کي خبر ناهي. پر جيڪڏهن هن مون کي هتي ڳولي لڌو ته منهنجي يا هن جي موت آهي!‘",
+            "ur": "’مجھے اس کی کوئی خبر پھر نہیں ملی۔ وہ زندہ بھی ہو سکتا ہے یا مر بھی گیا ہو۔ مجھے نہیں معلوم۔ لیکن اگر اس نے مجھے یہاں ڈھونڈ لیا تو میری یا اس کی موت ہے!‘"
+          },
+          {
+            "en": "The old convict said no more but smoked his pipe and stared at the fire.",
+            "sd": "پوڙهي قيدي وڌيڪ ڪجهه به نه چيو، رڳو پنهنجو پائپ پيئندو رھيو ۽ باهه ڏانهن گهريندو رھيو.",
+            "ur": "بوڑھے قیدی نے مزید کچھ نہیں کہا، صرف اپنا پائپ پیتا رہا اور آگ کو گھورتا رہا۔"
+          },
+          {
+            "en": "Herbert passed a piece of paper to me. On it, he had written these words:",
+            "sd": "هربرٽ مون کي ڪاغذ جو هڪ ٽڪرو ڏنو. انهي تي هن اهي لفظ لکيا هئا:",
+            "ur": "ہربرٹ نے مجھے کاغذ کا ایک ٹکڑا دیا۔ اس پر اس نے یہ الفاظ لکھے تھے:"
+          },
+          {
+            "en": "Miss Havisham's brother was the young man. Compeyson was the man who was going to marry her. But he stole her money and left her on her wedding day.",
+            "sd": "مس هيويشم جو ڀاءُ اهو نوجوان هو. ڪامپيسن اهو ماڻهو هو، جيڪو هن سان شادي ڪرڻ وارو هو. پر هن هن جا پئسا چوري ڪيا ۽ شادي واري ڏينهن هن کي ڇڏي ويو.",
+            "ur": "مس ہیویشم کا بھائی وہ نوجوان تھا۔ کامپیسن وہ آدمی تھا، جو اس سے شادی کرنے والا تھا۔ لیکن اس نے اس کے پیسے چرا لیے اور شادی والے دن اسے چھوڑ گیا۔"
+          },
+          {
+            "en": "I looked at Herbert but said nothing. I was trying to think.",
+            "sd": "مون هربرٽ ڏانهن ڏٺو، پر ڪجهه به نه چيو. مان سوچڻ جي ڪوشش ڪري رھيو هوس.",
+            "ur": "میں نے ہربرٹ کی طرف دیکھا، لیکن کچھ نہیں کہا۔ میں سوچنے کی کوشش کر رہا تھا۔"
+          },
+          {
+            "en": "If Compeyson was alive, he might find out that Magwitch had returned. Herbert was right. Magwitch was in danger in London. I had to take the old man away as soon as possible. We shared our plan with Wemmick, who promised to warn us if anyone started asking about Magwitch. Every time I stepped outside, I felt a shadow trailing me. Was Compeyson alive and in London? Had he seen Magwitch? Worse—did he know about me? The uncertainty gnawed at me, filling me with dread.",
+            "sd": "جيڪڏهن ڪامپيسن زنده هجي ها ته کيس خبر پئجي سگھي ٿي ته ميگ وچ واپس اچي ويو آهي. هربرٽ صحيح هو. ميگ وچ لنڊن ۾ خطري ۾ هو. مون کي پوڙهي ماڻهو کي جيترو جلد ٿي سگھي پري وٺي وڃڻو هو. اسان پنهنجو منصوبو ويمڪ سان ونڊيو، جنهن واعدو ڪيو ته جيڪڏهن ڪو ميگ وچ بابت پڇڻ شروع ڪري ته هو اسان کي خبردار ڪندو. هر دفعي جڏهن مان ٻاهر نڪتس، مون کي لڳو ته ڪو پاڇو منهنجي پٺيان اچي رھيو آهي. ڇا ڪامپيسن زنده هو ۽ لنڊن ۾ هو؟ ڇا هن ميگ وچ کي ڏٺو هو؟ ان کان به بدتر — ڇا هن کي منهنجي خبر هئي؟ هي بي يقيني مون کي کائي رھي هئي ۽ مون کي ڊپ سان ڀري رھي هئي.",
+            "ur": "اگر کامپیسن زندہ ہوتا تو اسے پتہ چل سکتا تھا کہ میگ وچ واپس آ گیا ہے۔ ہربرٹ صحیح تھا۔ میگ وچ لندن میں خطرے میں تھا۔ مجھے بوڑھے آدمی کو جلد از جلد دور لے جانا تھا۔ ہم نے اپنا منصوبہ ویمک کے ساتھ بانٹا، جس نے وعدہ کیا کہ اگر کوئی میگ وچ کے بارے میں پوچھنے لگے تو وہ ہمیں خبردار کرے گا۔ ہر بار جب میں باہر نکلتا، مجھے لگا کہ کوئی سایہ میرا پیچھا کر رہا ہے۔ کیا کامپیسن زندہ تھا اور لندن میں تھا؟ کیا اس نے میگ وچ کو دیکھا تھا؟ اس سے بھی بدتر — کیا اسے میرے بارے میں معلوم تھا؟ یہ بے یقینی مجھے کھا رہی تھی اور مجھے خوف سے بھر رہی تھی۔"
+          },
+          {
+            "en": "I was deeply upset. I could not continue accepting money from Magwitch.",
+            "sd": "مان تمام گھڻو پريشان هوس. مان ميگ وچ کان پئسا وٺڻ جاري نٿي رکي سگھيس.",
+            "ur": "میں بہت پریشان تھا۔ میں میگ وچ سے پیسے لینا جاری نہیں رکھ سکتا تھا۔"
+          },
+          {
+            "en": "“I must never accept another penny from him!” said I to Herbert,” But I am drowning in debt and have no expectations now. I have no career and am good for nothing!”",
+            "sd": "”مون کي هن کان وري ڪڏهن به هڪ پئسو به نه وٺڻ گھرجي!“ مون هربرٽ کي چيو، ”پر مان قرض ۾ ٻڏي رھيو آهيان ۽ هاڻي مون کي ڪا اميد ناهي. منهنجو ڪو ڪاروبار ناهي ۽ مان ڪنهن ڪم جو ناهيان!“",
+            "ur": "”مجھے اس سے پھر کبھی ایک پیسہ بھی نہیں لینا چاہیے!“ میں نے ہربرٹ سے کہا، ”لیکن میں قرض میں ڈوب رہا ہوں اور اب مجھے کوئی امید نہیں۔ میرا کوئی پیشہ نہیں اور میں کسی کام کا نہیں ہوں!“"
+          },
+          {
+            "en": "“You could work with me!” Herbert offered. He had no idea that Magwitch's money had funded his business.",
+            "sd": "”تون مون سان گڏ ڪم ڪري سگھين ٿو!“ هربرٽ پيشڪش ڪئي. هن کي خبر نه هئي ته ميگ وچ جي پئسن سان هن جو ڪاروبار هلي رھيو هو.",
+            "ur": "”تم میرے ساتھ کام کر سکتے ہو!“ ہربرٹ نے پیشکش کی۔ اسے معلوم نہیں تھا کہ میگ وچ کے پیسوں سے اس کا کاروبار چل رہا تھا۔"
+          },
+          {
+            "en": "“The first priority is getting Magwitch out of England,” Herbert said. “But I doubt he will leave without you. You'll have to go with him.”",
+            "sd": "”پهرين ترجيح ميگ وچ کي انگلينڊ مان ٻاهر ڪڍڻ آهي،“ هربرٽ چيو. ”پر مون کي شڪ آهي ته هو تنهنجي بغير ويندو. توکي هن سان گڏ وڃڻو پوندو.“",
+            "ur": "”پہلی ترجیح میگ وچ کو انگلینڈ سے باہر نکالنا ہے،“ ہربرٹ نے کہا۔ ”لیکن مجھے شک ہے کہ وہ تمہارے بغیر جائے گا۔ تمہیں اس کے ساتھ جانا ہوگا۔“"
+          },
+          {
+            "en": "We sat there silently for a while. Then I informed Herbert that he would have to take care of Magwitch for a time because I couldn't leave England without first seeing Estella and Miss Havisham.",
+            "sd": "اسان ڪجهه وقت خاموشي سان اتي ويٺاسين. پوءِ مون هربرٽ کي ٻڌايو ته کيس ڪجهه وقت لاءِ ميگ وچ جو خيال رکڻو پوندو، ڇاڪاڻ ته مان اسٽيلا ۽ مس هيويشم کي ڏسڻ کان اڳ انگلينڊ نٿي ڇڏي سگھيس.",
+            "ur": "ہم کچھ دیر خاموشی سے وہاں بیٹھے رہے۔ پھر میں نے ہربرٹ کو بتایا کہ اسے کچھ وقت کے لیے میگ وچ کا خیال رکھنا ہوگا، کیونکہ میں اسٹیلا اور مس ہیویشم کو دیکھے بغیر انگلینڈ نہیں چھوڑ سکتا تھا۔"
+          },
+          {
+            "en": "I found Estella alone with Miss Havisham. “I've discovered the identity of my benefactor,” I told Miss Havisham. “It's not a happy revelation, and it must remain my secret. Long ago, I mistakenly believed it was you who supported me. You allowed me to think that. Was that kind?”",
+            "sd": "مون اسٽيلا کي مس هيويشم سان اڪيلو ڏٺو. ”مون کي پنهنجي مددگار جي سڃاڻپ ملي وئي آهي،“ مون مس هيويشم کي چيو. ”هي ڪا خوش ڪندڙ خبر ناهي، ۽ هي منهنجو راز رھڻ گھرجي. گھڻو وقت اڳ، مون غلطي سان سمجھيو هو ته تون ئي آهين جيڪا منهنجي مدد ڪري رھي هئي. تو مون کي اهو سوچڻ ڏنو. ڇا اهو مهرباني هئي؟“",
+            "ur": "میں نے اسٹیلا کو مس ہیویشم کے ساتھ اکیلا پایا۔ ”مجھے اپنے مددگار کی شناخت مل گئی ہے،“ میں نے مس ہیویشم سے کہا۔ ”یہ کوئی خوش کرنے والی خبر نہیں ہے، اور یہ میرا راز رہنا چاہیے۔ بہت عرصہ پہلے، میں نے غلطی سے سمجھا تھا کہ تم ہی ہو جو میری مدد کر رہی ہو۔ تم نے مجھے یہ سوچنے دیا۔ کیا یہ مہربانی تھی؟“"
+          },
+          {
+            "en": "Miss Havisham struck the floor with her stick. “Foolish boy!” she exclaimed. “Who am I to be kind?”",
+            "sd": "مس هيويشم پنهنجي لٺ سان فرش تي زور سان هنيو. ”بيوقوف ڇوڪرا!“ هن رڙ ڪري چيو. ”مان ڪير آهيان جو مهربان ٿيان؟“",
+            "ur": "مس ہیویشم نے اپنی چھڑی سے فرش پر زور سے مارا۔ ”بے وقوف لڑکے!“ اس نے پکار کر کہا۔ ”میں کون ہوتی ہوں جو مہربان بنوں؟“"
+          },
+          {
+            "en": "“Miss Havisham, there are others you have harmed. You did a great injustice to Mr. Matthew Pocket and his son Herbert.”",
+            "sd": "”مس هيويشم، ٻيا به آهن جن کي تو نقصان پهچايو آهي. تو مسٽر ميٿيو پاڪيٽ ۽ هن جي پٽ هربرٽ سان وڏو ظلم ڪيو آهي.“",
+            "ur": "”مس ہیویشم، اور بھی ہیں جنہیں تم نے نقصان پہنچایا ہے۔ تم نے مسٹر میتھیو پاکٹ اور اس کے بیٹے ہربرٹ کے ساتھ بڑا ظلم کیا ہے۔“"
+          },
+          {
+            "en": "“What do you want for them?” she asked.",
+            "sd": "”تون انهن لاءِ ڇا ٿو چاهين؟“ هن پڇيو.",
+            "ur": "”تم ان کے لیے کیا چاہتے ہو؟“ اس نے پوچھا۔"
+          },
+          {
+            "en": "I explained that Herbert had become a dear friend and that I had secretly financed his business, but I couldn't continue supporting him for private reasons.",
+            "sd": "مون کيس ٻڌايو ته هربرٽ منهنجو پيارو دوست بڻجي ويو هو ۽ مون ڳجهي طرح هن جي ڪاروبار لاءِ پئسا ڏنا هئا، پر مان نجي سببن ڪري هن جي مدد جاري نٿي رکي سگھيس.",
+            "ur": "میں نے اسے بتایا کہ ہربرٹ میرا پیارا دوست بن گیا تھا اور میں نے چھپ کر اس کے کاروبار کے لیے پیسے دیے تھے، لیکن میں نجی وجوہات کی بنا پر اس کی مدد جاری نہیں رکھ سکتا تھا۔"
+          },
+          {
+            "en": "Then I turned to Estella. “You know I have loved you from the first moment I saw you. I once believed Miss Havisham meant for us to be together. I now know that's not true. Still, I must tell you that I love you.”",
+            "sd": "پوءِ مان اسٽيلا ڏانهن موٽيس. ”توکي خبر آهي ته مون توکي پهرين لمحي کان پيار ڪيو آهي، جڏهن کان مون توکي ڏٺو هو. مون هڪ دفعو سمجھيو هو ته مس هيويشم اسان کي گڏ رھڻ لاءِ چونڊيو هو. هاڻي مون کي خبر آهي ته اهو سچ ناهي. تڏهن به، مون کي توکي ٻڌائڻو آهي ته مان توکي پيار ڪريان ٿو.“",
+            "ur": "پھر میں اسٹیلا کی طرف مڑا۔ ”تم جانتی ہو کہ میں نے تم سے پہلے ہی لمحے سے پیار کیا ہے، جب سے میں نے تمہیں دیکھا تھا۔ میں نے ایک بار سمجھا تھا کہ مس ہیویشم نے ہمیں ساتھ رہنے کے لیے چنا تھا۔ اب مجھے معلوم ہے کہ یہ سچ نہیں ہے۔ پھر بھی، مجھے تمہیں بتانا ہے کہ میں تم سے پیار کرتا ہوں۔“"
+          },
+          {
+            "en": "Estella faced me. “I tried to warn you, but you wouldn't listen. Why not tell you the truth now? I am going to marry Bentley Drummle.”",
+            "sd": "اسٽيلا منهنجي سامهون ٿي. ”مون توکي خبردار ڪرڻ جي ڪوشش ڪئي، پر تون ٻڌڻ لاءِ تيار نه هئين. هاڻي توکي سچ ڇو نه ٻڌايان؟ مان بينٽلي ڊرمل سان شادي ڪرڻ واري آهيان.“",
+            "ur": "اسٹیلا میرے سامنے آئی۔ ”میں نے تمہیں خبردار کرنے کی کوشش کی، لیکن تم سننے کو تیار نہیں تھے۔ اب تمہیں سچ کیوں نہ بتاؤں؟ میں بینٹلی ڈرمل سے شادی کرنے والی ہوں۔“"
+          },
+          {
+            "en": "“Estella! Reject me if you must. But please don't marry Drummle. Choose someone better.”",
+            "sd": "”اسٽيلا! جيڪڏهن ضروري آهي ته مون کي رد ڪري ڇڏ. پر مهرباني ڪري ڊرمل سان شادي نه ڪر. ڪنهن بهتر ماڻهو کي چونڊ.“",
+            "ur": "”اسٹیلا! اگر ضروری ہے تو مجھے رد کر دو۔ لیکن مہربانی کر کے ڈرمل سے شادی نہ کرو۔ کسی بہتر آدمی کو چنو۔“"
+          },
+          {
+            "en": "“I am going to marry him,” she said more softly. “You will forget me in a week.”",
+            "sd": "”مان هن سان ئي شادي ڪنديس،“ هن وڌيڪ نرمي سان چيو. ”تون مون کي هڪ هفتي ۾ وساري ڇڏيندين.“",
+            "ur": "”میں اسی سے شادی کروں گی،“ اس نے مزید نرمی سے کہا۔ ”تم مجھے ایک ہفتے میں بھول جاؤ گے۔“"
+          },
+          {
+            "en": "“Never! You are a part of me! God bless you. God forgive you!” I kissed her hand.",
+            "sd": "”ڪڏهن به نه! تون منهنجي وجود جو حصو آهين! خدا توکي سلامت رکي. خدا توکي معاف ڪري!“ مون هن جو هٿ چميو.",
+            "ur": "”کبھی نہیں! تم میرے وجود کا حصہ ہو! خدا تمہیں سلامت رکھے۔ خدا تمہیں معاف کرے!“ میں نے اس کا ہاتھ چوما۔"
+          },
+          {
+            "en": "Later that night, at the Inn, I received a note from Miss Havisham requesting that I visit her again.",
+            "sd": "انهي رات دير سان، سراءِ تي، مون کي مس هيويشم کان هڪ چٺي ملي، جنهن ۾ هن مون کان وري اچڻ جي درخواست ڪئي هئي.",
+            "ur": "اسی رات دیر سے، سرائے میں، مجھے مس ہیویشم کی طرف سے ایک خط ملا، جس میں اس نے مجھ سے دوبارہ آنے کی درخواست کی تھی۔"
+          },
+          {
+            "en": "I found her in the room across the landing. “I want to prove to you that I'm not made of stone, Pip. I do have something human in my heart,” she said. “Regarding Herbert Pocket, I will give him the money he needs, but you must keep it a secret.”",
+            "sd": "مون هن کي ڏاڪڻ جي سامهون واري ڪمري ۾ ڏٺو. ”مان توکي ثابت ڪرڻ چاهيان ٿي ته مان پٿر جي ٺهيل ناهيان، پپ. منهنجي دل ۾ به ڪجهه انسانيت آهي،“ هن چيو. ”هربرٽ پاڪيٽ بابت، مان کيس اهي پئسا ڏينديس جيڪي هن کي گهرجن، پر توکي اهو راز رکڻو پوندو.“",
+            "ur": "میں نے اسے سیڑھی کے سامنے والے کمرے میں پایا۔ ”میں تمہیں ثابت کرنا چاہتی ہوں کہ میں پتھر کی بنی ہوئی نہیں ہوں، پپ۔ میرے دل میں بھی کچھ انسانیت ہے،“ اس نے کہا۔ ”ہربرٹ پاکٹ کے بارے میں، میں اسے وہ پیسے دوں گی جو اسے چاہیے، لیکن تمہیں یہ راز رکھنا ہوگا۔“"
+          },
+          {
+            "en": "“Thank you, Miss Havisham.”",
+            "sd": "”مهرباني، مس هيويشم.“",
+            "ur": "”شکریہ، مس ہیویشم۔“"
+          },
+          {
+            "en": "To my surprise, she dropped to her knees. “Oh, what have I done?” she cried. “My teachings stole Estella's heart and replaced it with ice!”",
+            "sd": "منهنجي حيرت لاءِ، هو گوڏن ڀر ڪري پئي. ”اوه، مون ڇا ڪيو آهي؟“ هن روئيندي چيو. ”منهنجي سيکارن اسٽيلا جي دل چوري ڪري ان جي جاءِ تي برف رکي ڇڏي!“",
+            "ur": "میری حیرت کے لیے، وہ گھٹنوں کے بل گر گئی۔ ”اوہ، میں نے کیا کیا ہے؟“ اس نے روتے ہوئے کہا۔ ”میری تعلیمات نے اسٹیلا کا دل چرا کر اس کی جگہ برف رکھ دی!“"
+          },
+          {
+            "en": "“I would have loved her anyway,” I said softly.",
+            "sd": "”مان هن سان ڪنهن به صورت ۾ پيار ڪريان ها،“ مون آهستي چيو.",
+            "ur": "”میں اس سے کسی بھی صورت میں پیار کرتا،“ میں نے آہستہ سے کہا۔"
+          },
+          {
+            "en": "“Please forgive me,” Miss Havisham begged. “Even if it takes years, when my broken heart is nothing but dust!”",
+            "sd": "”مهرباني ڪري مون کي معاف ڪر،“ مس هيويشم منت ڪئي. ”جيتوڻيڪ سال لڳي وڃن، جڏهن منهنجي ٽٽل دل مٽي کان سواءِ ڪجهه به نه هوندي!“",
+            "ur": "”مہربانی کر کے مجھے معاف کر دو،“ مس ہیویشم نے منت کی۔ ”اگرچہ سال لگ جائیں، جب میرا ٹوٹا ہوا دل مٹی کے سوا کچھ بھی نہ ہوگا!“"
+          },
+          {
+            "en": "There was little else to say. As I reached the gate, a sudden sense of dread overwhelmed me. I rushed back to ensure Miss Havisham's safety. I saw her seated near the fire. Just as I turned to leave, flames erupted. Miss Havisham rushed at me, screaming, as fire engulfed her. I threw my coat over her to extinguish the flames. When help finally arrived, I realized my hands were burned.",
+            "sd": "وڌيڪ چوڻ لاءِ ڪجهه به نه هو. جڏهن مان دروازي تي پهتس، اوچتو ڊپ مون کي وڪوڙي ويو. مان مس هيويشم جي سلامتي لاءِ ڊوڙي واپس ويس. مون هن کي باهه ويجهو ويٺل ڏٺو. جيئن ئي مان وڃڻ لاءِ موٽيس، شعلا ڀڙڪي اٿيا. مس هيويشم رڙيون ڪندي مون ڏانهن ڊوڙي، ۽ باهه هن کي چوڌاري گهيري ورتو. مون باهه وسائڻ لاءِ پنهنجو ڪوٽ هن تي اڇلايو. جڏهن آخرڪار مدد پهتي، مون کي خبر پئي ته منهنجا هٿ سڙي ويا هئا.",
+            "ur": "مزید کہنے کو کچھ نہیں تھا۔ جب میں دروازے پر پہنچا، اچانک خوف نے مجھے گھیر لیا۔ میں مس ہیویشم کی سلامتی کے لیے دوڑ کر واپس گیا۔ میں نے اسے آگ کے قریب بیٹھا دیکھا۔ جیسے ہی میں جانے کے لیے مڑا، شعلے بھڑک اٹھے۔ مس ہیویشم چیختی ہوئی میری طرف دوڑی، اور آگ نے اسے چاروں طرف سے گھیر لیا۔ میں نے آگ بجھانے کے لیے اپنا کوٹ اس پر پھینکا۔ جب آخرکار مدد پہنچی، مجھے پتہ چلا کہ میرے ہاتھ جل گئے تھے۔"
+          },
+          {
+            "en": "The doctor ordered Miss Havisham to bed. She lay half-conscious, her speech wandering. “What have I done?” she kept crying. There was nothing more I could do. Before leaving, I kissed her forehead and whispered, “I forgive you.”",
+            "sd": "ڊاڪٽر مس هيويشم کي بستري تي آرام ڪرڻ جو حڪم ڏنو. هو اڌ بي هوش پئي هئي، هن جون ڳالهيون بي ترتيب هيون. ”مون ڇا ڪيو آهي؟“ هو رڙ ڪندي رھي. وڌيڪ مان ڪجهه به نه ڪري سگھيس. وڃڻ کان اڳ، مون هن جي پيشاني چمي ۽ ڪن ۾ چيو، ”مان توکي معاف ڪريان ٿو.“",
+            "ur": "ڈاکٹر نے مس ہیویشم کو بستر پر آرام کا حکم دیا۔ وہ آدھی بے ہوش پڑی تھی، اس کی باتیں بے ترتیب تھیں۔ ”میں نے کیا کیا ہے؟“ وہ چیختی رہی۔ مزید میں کچھ نہیں کر سکتا تھا۔ جانے سے پہلے، میں نے اس کی پیشانی چومی اور کان میں کہا، ”میں تمہیں معاف کرتا ہوں۔“"
+          },
+          {
+            "en": "When I returned to the inn, a note awaited me. It contained three words in Wemmick's handwriting: Don't go home.",
+            "sd": "جڏهن مان سراءِ ڏانهن واپس ويس، هڪ چٺي منهنجي انتظار ۾ هئي. ان ۾ ويمڪ جي لکائي ۾ ٽي لفظ هئا: گھر نه وڃ.",
+            "ur": "جب میں سرائے واپس آیا، ایک خط میرا انتظار کر رہا تھا۔ اس میں ویمک کی لکھائی میں تین الفاظ تھے: گھر نہ جاؤ۔"
+          },
+          {
+            "en": "I returned to London and went straight to Wemmick's house. He informed me that my chambers had been watched by a suspicious-looking stranger. Wemmick, ever thoughtful, had been considering my predicament. “I understand,” he said, “that Herbert's friend Clara lives near the river. If someone wished to board a boat quickly, staying there would be ideal.”",
+            "sd": "مان لنڊن واپس ويس ۽ سڌو ويمڪ جي گھر ويس. هن مون کي ٻڌايو ته ڪنهن شڪي ڏسڻ واري اجنبي منهنجي ڪمرن تي نظر رکي هئي. ويمڪ، جيڪو هميشه سوچيندڙ هو، منهنجي مشڪل بابت سوچي رھيو هو. ”مون کي سمجھ ۾ آيو آهي،“ هن چيو، ”ته هربرٽ جي دوست ڪلارا درياهه ويجهو رھي ٿي. جيڪڏهن ڪو جلدي ٻيڙي تي سوار ٿيڻ چاهي ته اتي رھڻ بهترين هوندو.“",
+            "ur": "میں لندن واپس آیا اور سیدھا ویمک کے گھر گیا۔ اس نے مجھے بتایا کہ کسی مشکوک نظر آنے والے اجنبی نے میرے کمروں پر نظر رکھی تھی۔ ویمک، جو ہمیشہ سوچنے والا تھا، میری مشکل کے بارے میں سوچ رہا تھا۔ ”میں سمجھ گیا ہوں،“ اس نے کہا، ”کہ ہربرٹ کی دوست کلارا دریا کے قریب رہتی ہے۔ اگر کوئی جلدی کشتی پر سوار ہونا چاہے تو وہاں رہنا بہترین ہوگا۔“"
+          },
+          {
+            "en": "Magwitch was soon settled comfortably in Clara's riverside home. Herbert and I devised a plan to row him out to a foreign steamship when the time was right. I intended to board the ship with him, and together we would sail out of the country.",
+            "sd": "ميگ وچ جلد ئي ڪلارا جي درياهه ڪناري واري گھر ۾ آرام سان رھي پيو. هربرٽ ۽ مون هڪ منصوبو ٺاهيو ته جڏهن وقت صحيح هجي ته اسان کيس ٻيڙي هلائي هڪ پرڏيهي ٻاڦ واري جهاز تائين پهچائينداسين. منهنجو ارادو هو ته مان به هن سان گڏ جهاز تي سوار ٿيندس، ۽ گڏجي اسان ملڪ کان ٻاهر نڪري وينداسين.",
+            "ur": "میگ وچ جلد ہی کلارا کے دریا کنارے والے گھر میں آرام سے رہنے لگا۔ ہربرٹ اور میں نے ایک منصوبہ بنایا کہ جب وقت صحیح ہو تو ہم اسے کشتی چلا کر ایک غیر ملکی بھاپ والے جہاز تک پہنچائیں گے۔ میرا ارادہ تھا کہ میں بھی اس کے ساتھ جہاز پر سوار ہوں گا، اور مل کر ہم ملک سے باہر نکل جائیں گے۔"
+          },
+          {
+            "en": "As the days passed, my burns healed slowly, but I was soon well enough to dine with Mr. Jaggers. During the meal, he revealed that Miss Havisham had kept her promise. She had written a cheque to Herbert's account, enabling him to open his own firm in the East. This was the only positive outcome since I had first learned of my great expectations.",
+            "sd": "جيئن ڏينهن گذرندا ويا، منهنجا سڙيل زخم آهستي آهستي ڀرڻ لڳا، پر مان جلد ئي ايترو ٺيڪ ٿي ويس جو مسٽر جيگرز سان گڏ ماني کائي سگھان. ماني دوران، هن ٻڌايو ته مس هيويشم پنهنجو واعدو پورو ڪيو هو. هن هربرٽ جي کاتي ۾ هڪ چيڪ لکيو هو، جنهن سان هو اوڀر ۾ پنهنجي فرم کولي سگھيو. منهنجين وڏين اميدن بابت پهرين ڄاڻڻ کان پوءِ، هي ئي هڪڙو مثبت نتيجو هو.",
+            "ur": "جیسے دن گزرتے گئے، میرے جلے ہوئے زخم آہستہ آہستہ بھرنے لگے، لیکن میں جلد ہی اتنا ٹھیک ہو گیا کہ مسٹر جیگرز کے ساتھ کھانا کھا سکوں۔ کھانے کے دوران، اس نے بتایا کہ مس ہیویشم نے اپنا وعدہ پورا کیا تھا۔ اس نے ہربرٹ کے کھاتے میں ایک چیک لکھا تھا، جس سے وہ مشرق میں اپنی فرم کھول سکا۔ میری بڑی امیدوں کے بارے میں پہلی بار جاننے کے بعد سے، یہی ایک مثبت نتیجہ تھا۔"
+          },
+          {
+            "en": "Jaggers' housekeeper, Molly, served our meal. As I observed her closely, I noticed her eyes—they were Estella's eyes. I became certain that Molly was Estella's mother. Later, I shared this belief with Wemmick, who confirmed that Molly had once been arrested for murder. Jaggers had defended her, and though it was rumored she had killed her child in a fit of anger, it had never been proven.",
+            "sd": "جيگرز جي نوڪرياڻي، مالي، اسان کي ماني کارايو. جڏهن مون هن کي ويجهو کان ڏٺو، مون کي هن جون اکيون نظر آيون — اهي اسٽيلا جون اکيون هيون. مون کي يقين ٿي ويو ته مالي اسٽيلا جي ماءُ هئي. پوءِ، مون اهو خيال ويمڪ سان ونڊيو، جنهن تصديق ڪئي ته مالي هڪ دفعو قتل جي الزام ۾ گرفتار ٿي چڪي هئي. جيگرز هن جو دفاع ڪيو هو، ۽ جيتوڻيڪ اهو چيو ويندو هو ته هن ڪاوڙ ۾ اچي پنهنجي ٻار کي ماريو هو، اهو ڪڏهن به ثابت نه ٿيو هو.",
+            "ur": "جیگرز کی نوکرانی، مولی، نے ہمیں کھانا کھلایا۔ جب میں نے اسے قریب سے دیکھا، مجھے اس کی آنکھیں نظر آئیں — وہ اسٹیلا کی آنکھیں تھیں۔ مجھے یقین ہو گیا کہ مولی اسٹیلا کی ماں تھی۔ بعد میں، میں نے یہ خیال ویمک کے ساتھ بانٹا، جس نے تصدیق کی کہ مولی ایک بار قتل کے الزام میں گرفتار ہو چکی تھی۔ جیگرز نے اس کا دفاع کیا تھا، اور اگرچہ یہ کہا جاتا تھا کہ اس نے غصے میں آ کر اپنے بچے کو مارا تھا، یہ کبھی ثابت نہیں ہوا تھا۔"
+          },
+          {
+            "en": "When Herbert changed my bandages, we discussed Magwitch's escape. Herbert revealed that Magwitch had shared more of his life story. He had a jealous wife who had been tried for murder, defended by Jaggers. Magwitch and his wife had a daughter, but in a jealous rage, the woman had allegedly killed the child. Herbert paused, then added, “Magwitch said you reminded him of the little girl he had lost. She would have been about your age.”",
+            "sd": "جڏهن هربرٽ منهنجون پٽيون بدلايون، اسان ميگ وچ جي ڀڄڻ بابت ڳالهايو. هربرٽ ٻڌايو ته ميگ وچ پنهنجي زندگي جي ڪهاڻي وڌيڪ ٻڌائي هئي. هن جي هڪ حسد ڪندڙ زال هئي، جنهن تي قتل جو ڪيس هليو هو، ۽ جيگرز هن جو دفاع ڪيو هو. ميگ وچ ۽ هن جي زال جي هڪ ڌيءَ هئي، پر حسد جي ڪاوڙ ۾، عورت مبينا طور ٻار کي ماري ڇڏيو هو. هربرٽ ٿورو ترسيو، پوءِ وڌيڪ چيو، ”ميگ وچ چيو ته تو هن کي اها ننڍڙي ڇوڪري ياد ڏياري، جيڪا هن وڃائي هئي. هوءَ لڳ ڀڳ تنهنجي عمر جي هوندي.“",
+            "ur": "جب ہربرٹ نے میری پٹیاں بدلیں، ہم نے میگ وچ کے بھاگنے کے بارے میں بات کی۔ ہربرٹ نے بتایا کہ میگ وچ نے اپنی زندگی کی کہانی مزید سنائی تھی۔ اس کی ایک حسد کرنے والی بیوی تھی، جس پر قتل کا مقدمہ چلا تھا، اور جیگرز نے اس کا دفاع کیا تھا۔ میگ وچ اور اس کی بیوی کی ایک بیٹی تھی، لیکن حسد کے غصے میں، عورت نے مبینہ طور پر بچے کو مار دیا تھا۔ ہربرٹ تھوڑا رکا، پھر مزید کہا، ”میگ وچ نے کہا کہ تم نے اسے وہ چھوٹی لڑکی یاد دلائی، جو اس نے کھو دی تھی۔ وہ تقریباً تمہاری عمر کی ہوتی۔“"
+          },
+          {
+            "en": "“Herbert,” I said, “the man we're hiding by the river is Estella's father!”",
+            "sd": "”هربرٽ،“ مون چيو، ”اهو ماڻهو جنهن کي اسان درياهه وٽ لڪائي رھيا آهيون، اهو اسٽيلا جو پيءُ آهي!“",
+            "ur": "”ہربرٹ،“ میں نے کہا، ”وہ آدمی جسے ہم دریا کے پاس چھپا رہے ہیں، وہ اسٹیلا کا باپ ہے!“"
+          },
+          {
+            "en": "Our plan was set. Herbert, Startop, and I would row Magwitch to the steamship, with me steering.",
+            "sd": "اسان جو منصوبو تيار هو. هربرٽ، اسٽارٽاپ ۽ مان ميگ وچ کي ٻيڙي هلائي ٻاڦ واري جهاز تائين پهچائينداسين، ۽ ٻيڙي هلائڻ منهنجي ذميواري هوندي.",
+            "ur": "ہمارا منصوبہ تیار تھا۔ ہربرٹ، اسٹارٹاپ اور میں میگ وچ کو کشتی چلا کر بھاپ والے جہاز تک پہنچائیں گے، اور کشتی چلانا میری ذمہ داری ہوگی۔"
+          },
+          {
+            "en": "On a cold March day, we rowed out on the Thames. Magwitch, dressed in a dark cloak and carrying a black bag, joined us. “Dear boy!” he said, taking his seat. “Well done.” He seemed calm, the least nervous of us all.",
+            "sd": "مارچ جي هڪ ٿڌي ڏينهن، اسان ٿيمز درياهه تي ٻيڙي هلائي نڪتاسين. ميگ وچ، ڪارو چوغو پائي ۽ ڪارو بيگ کڻي، اسان سان گڏ ٿيو. ”پيارا ڇوڪرا!“ هن ويهندي چيو. ”شاباس.“ هو پرسڪون لڳو، اسان سڀني کان گھٽ پريشان.",
+            "ur": "مارچ کے ایک سرد دن، ہم ٹیمز دریا پر کشتی چلا کر نکلے۔ میگ وچ، کالا چوغہ پہنے اور کالا تھیلا اٹھائے، ہمارے ساتھ شامل ہوا۔ ”پیارے لڑکے!“ اس نے بیٹھتے ہوئے کہا۔ ”شاباش۔“ وہ پرسکون لگا، ہم سب سے کم پریشان۔"
+          },
+          {
+            "en": "As we rowed, the steamship's smoke appeared on the horizon. But just then, a four-oared galley shot out from the bank. A man shouted, “You have a convict! His name is Abel Magwitch, also called Provis. I'm here to arrest him!”",
+            "sd": "جيئن اسان ٻيڙي هلائي رھيا هئاسين، ٻاڦ واري جهاز جو دونهون افق تي نظر آيو. پر انهي وقت، ڪناري کان چار چپا واري هڪ ٻيڙي تيزي سان نڪتي. هڪ ماڻهو رڙ ڪري چيو، ”توهان وٽ هڪ قيدي آهي! هن جو نالو ايبل ميگ وچ آهي، جنهن کي پرووس به چيو ويندو آهي. مان هن کي گرفتار ڪرڻ آيو آهيان!“",
+            "ur": "جیسے ہم کشتی چلا رہے تھے، بھاپ والے جہاز کا دھواں افق پر نظر آیا۔ لیکن اسی وقت، کنارے سے چار چپو والی ایک کشتی تیزی سے نکلی۔ ایک آدمی نے چیخ کر کہا، ”تمہارے پاس ایک قیدی ہے! اس کا نام ایبل میگ وچ ہے، جسے پرووس بھی کہا جاتا ہے۔ میں اسے گرفتار کرنے آیا ہوں!“"
+          },
+          {
+            "en": "The galley pulled alongside us. Magwitch reached out and pulled down the hood of the cloaked man in the other boat—it was Compeyson, the other convict from long ago. A struggle ensued, and both men fell into the water. The steamer's paddles churned the river, and our boat capsized.",
+            "sd": "اها ٻيڙي اسان جي ڀرسان اچي بيٺي. ميگ وچ هٿ وڌائي ٻي ٻيڙي ۾ چوغو پاتل ماڻهو جو ٽوپ ڪڍي ڇڏيو — اهو ڪامپيسن هو، گھڻو وقت اڳ وارو ٻيو قيدي. ڇڪتاڻ ٿي پئي، ۽ ٻئي ماڻهو پاڻي ۾ ڪري پيا. ٻاڦ واري جهاز جا چپا درياهه کي لوڏي ڇڏيو، ۽ اسان جي ٻيڙي اونڌي ٿي وئي.",
+            "ur": "وہ کشتی ہمارے پاس آ کر کھڑی ہو گئی۔ میگ وچ نے ہاتھ بڑھا کر دوسری کشتی میں چوغہ پہنے آدمی کی ٹوپی اتار دی — وہ کامپیسن تھا، بہت عرصہ پہلے والا دوسرا قیدی۔ کشمکش ہوئی، اور دونوں آدمی پانی میں گر گئے۔ بھاپ والے جہاز کے چپوؤں نے دریا کو ہلا دیا، اور ہماری کشتی الٹ گئی۔"
+          },
+          {
+            "en": "I was pulled into the galley, where Herbert and Startop were already safe. Magwitch was soon found, injured and struggling in the water. He was hauled aboard and chained. Compeyson was nowhere to be seen.",
+            "sd": "مون کي انهي ٻيڙي ۾ کڻي ويا، جتي هربرٽ ۽ اسٽارٽاپ اڳ ۾ ئي محفوظ هئا. ميگ وچ جلد ئي ملي ويو، زخمي ۽ پاڻي ۾ هٿ پير هڻندو. هن کي ٻيڙي تي چاڙهي زنجيرن سان ٻڌيو ويو. ڪامپيسن ڪٿي به نظر نه آيو.",
+            "ur": "مجھے اس کشتی میں اٹھا لیا گیا، جہاں ہربرٹ اور اسٹارٹاپ پہلے ہی محفوظ تھے۔ میگ وچ جلد ہی مل گیا، زخمی اور پانی میں ہاتھ پاؤں مارتا ہوا۔ اسے کشتی پر چڑھا کر زنجیروں سے باندھ دیا گیا۔ کامپیسن کہیں نظر نہیں آیا۔"
+          },
+          {
+            "en": "Magwitch was badly hurt, his chest injured and his head deeply cut. He whispered to me, “I think Compeyson's gone to the bottom of the river, dear boy. I had him in my arms, but he fought free, and the paddles hit him.”",
+            "sd": "ميگ وچ سخت زخمي هو، هن جي سيني تي زخم هو ۽ هن جو مٿو گھرو ڪپيل هو. هن مون کي ڪن ۾ چيو، ”منهنجو خيال آهي ته ڪامپيسن درياهه جي تري ۾ هليو ويو آهي، پيارا ڇوڪرا. مون هن کي جهليو هو، پر هو ڇٽي ويو، ۽ چپا هن کي لڳا.“",
+            "ur": "میگ وچ سخت زخمی تھا، اس کے سینے پر زخم تھا اور اس کا سر گہرا کٹا ہوا تھا۔ اس نے میرے کان میں کہا، ”میرا خیال ہے کہ کامپیسن دریا کی تہہ میں چلا گیا ہے، پیارے لڑکے۔ وہ میری بانہوں میں تھا، لیکن وہ چھٹ گیا، اور چپو اسے لگے۔“"
+          },
+          {
+            "en": "Magwitch was taken to the infirmary, too ill for prison. I stayed by his side, my distaste for him melting away. I saw only a grateful man who had meant to be my benefactor. In truth, he was a better man than I had been to Joe.",
+            "sd": "ميگ وچ کي اسپتال وٺي ويا، هو جيل لاءِ تمام گھڻو بيمار هو. مان هن جي ڀرسان رھيس، هن لاءِ منهنجي نفرت پگهرجڻ لڳي. مون کي رڳو هڪ شڪرگذار ماڻهو نظر آيو، جنهن منهنجو مددگار ٿيڻ ٿي چاهيو هو. سچ ته اهو آهي ته هو جو سان منهنجي رويي کان بهتر ماڻهو هو.",
+            "ur": "میگ وچ کو اسپتال لے جایا گیا، وہ جیل کے لیے بہت بیمار تھا۔ میں اس کے پاس رہا، اس کے لیے میری نفرت پگھلنے لگی۔ مجھے صرف ایک شکر گزار آدمی نظر آیا، جو میرا مددگار بننا چاہتا تھا۔ سچ تو یہ ہے کہ وہ جو کے ساتھ میرے رویے سے بہتر آدمی تھا۔"
+          },
+          {
+            "en": "As the days passed, Magwitch grew weaker. One day, as I sat by his bed, he whispered, “Dear boy, God bless you. You never left me, even in danger. This has been the best part of my life.”",
+            "sd": "جيئن ڏينهن گذرندا ويا، ميگ وچ ڪمزور ٿيندو ويو. هڪ ڏينهن، جڏهن مان هن جي بستري وٽ ويٺو هوس، هن ڪن ۾ چيو، ”پيارا ڇوڪرا، خدا توکي سلامت رکي. تو مون کي ڪڏهن به نه ڇڏيو، خطري ۾ به نه. هي منهنجي زندگي جو بهترين حصو رھيو آهي.“",
+            "ur": "جیسے دن گزرتے گئے، میگ وچ کمزور ہوتا گیا۔ ایک دن، جب میں اس کے بستر کے پاس بیٹھا تھا، اس نے کان میں کہا، ”پیارے لڑکے، خدا تمہیں سلامت رکھے۔ تم نے مجھے کبھی نہیں چھوڑا، خطرے میں بھی نہیں۔ یہ میری زندگی کا بہترین حصہ رہا ہے۔“"
+          },
+          {
+            "en": "I held his hand tightly. “Magwitch, I have something to tell you. You had a child once, whom you loved and lost. She lived and found rich friends. She is a lady now, very beautiful, and I love her.”",
+            "sd": "مون هن جو هٿ مضبوطي سان جهليو. ”ميگ وچ، مون کي توکي ڪجهه ٻڌائڻو آهي. تنهنجو هڪ ٻار هو، جنهن کي تون پيار ڪندو هئين ۽ وڃائي ڇڏيو هو. هوءَ جيئري رھي ۽ امير دوست مليا هئس. هوءَ هاڻي هڪ شريف عورت آهي، تمام سهڻي، ۽ مان هن سان پيار ڪريان ٿو.“",
+            "ur": "میں نے اس کا ہاتھ مضبوطی سے پکڑا۔ ”میگ وچ، مجھے تمہیں کچھ بتانا ہے۔ تمہارا ایک بچہ تھا، جسے تم پیار کرتے تھے اور کھو دیا تھا۔ وہ زندہ رہی اور اسے امیر دوست ملے۔ وہ اب ایک شریف عورت ہے، بہت خوبصورت، اور میں اس سے پیار کرتا ہوں۔“"
+          },
+          {
+            "en": "With the last of his strength, Magwitch raised my hand to his lips, smiled, and closed his eyes—forever.",
+            "sd": "پنهنجي آخري سگهه سان، ميگ وچ منهنجو هٿ پنهنجي چپن تائين کنيو، مرڪيو، ۽ پنهنجون اکيون بند ڪري ڇڏيون — هميشه لاءِ.",
+            "ur": "اپنی آخری طاقت سے، میگ وچ نے میرا ہاتھ اپنے ہونٹوں تک اٹھایا، مسکرایا، اور اپنی آنکھیں بند کر لیں — ہمیشہ کے لیے۔"
+          },
+          {
+            "en": "One chilly December evening, I made my way back to the old forge. I pushed the kitchen door open softly and peeked inside. There was Joe, sitting in his usual spot by the fire, and next to him, on a little stool, sat a young boy.",
+            "sd": "ڊسمبر جي هڪ ٿڌي شام، مان پراڻي لوهارخاني ڏانهن واپس ويس. مون باورچي خاني جو دروازو آهستي کوليو ۽ اندر جهاتي پاتي. اتي جو هو، باهه وٽ پنهنجي معمول واري جاءِ تي ويٺو هو، ۽ هن جي ڀرسان، هڪ ننڍڙي اسٽول تي، هڪ ننڍڙو ڇوڪرو ويٺو هو.",
+            "ur": "دسمبر کی ایک سرد شام، میں پرانی لوہار خانے کی طرف واپس گیا۔ میں نے باورچی خانے کا دروازہ آہستہ سے کھولا اور اندر جھانکا۔ وہاں جو تھا، آگ کے پاس اپنی معمول کی جگہ پر بیٹھا تھا، اور اس کے پاس، ایک چھوٹے سے اسٹول پر، ایک چھوٹا لڑکا بیٹھا تھا۔"
+          },
+          {
+            "en": "“We named him Pip, after you,” Joe said with a warm smile. “We hoped he'd grow up to be like you, and I reckon he has!”",
+            "sd": "”اسان هن جو نالو تنهنجي نالي تي پپ رکيو آهي،“ جو گرم مرڪ سان چيو. ”اسان کي اميد هئي ته هو وڏو ٿي تنهنجو جهڙو ٿيندو، ۽ منهنجو خيال آهي ته هو ٿي ويو آهي!“",
+            "ur": "”ہم نے اس کا نام تمہارے نام پر پپ رکھا ہے،“ جو نے گرم مسکراہٹ سے کہا۔ ”ہمیں امید تھی کہ وہ بڑا ہو کر تم جیسا بنے گا، اور میرا خیال ہے کہ وہ بن گیا ہے!“"
+          },
+          {
+            "en": "“I'm glad to hear that, Joe,” I replied, feeling a swell of pride.",
+            "sd": "”اهو ٻڌي مون کي خوشي ٿي، جو،“ مون جواب ڏنو، فخر جي لهر محسوس ڪندي.",
+            "ur": "”یہ سن کر مجھے خوشی ہوئی، جو،“ میں نے جواب دیا، فخر کی لہر محسوس کرتے ہوئے۔"
+          },
+          {
+            "en": "“Dear Pip,” said Biddy, “are you sure you're not still holding onto feelings for Estella? I can't imagine you've forgotten her.”",
+            "sd": "”پيارا پپ،“ بڊي چيو، ”ڇا توکي پڪ آهي ته توکي اسٽيلا لاءِ اڃا به جذبا ناهن؟ مان تصور به نٿي ڪري سگھان ته تو هن کي وساري ڇڏيو آهي.“",
+            "ur": "”پیارے پپ،“ بڈی نے کہا، ”کیا تمہیں یقین ہے کہ تمہارے دل میں اسٹیلا کے لیے اب بھی جذبات نہیں ہیں؟ میں تصور بھی نہیں کر سکتی کہ تم اسے بھول گئے ہو۔“"
+          },
+          {
+            "en": "“My dear Biddy,” I replied, “I haven't forgotten anything about my past. But that dream, like so many others, is gone now.”",
+            "sd": "”منهنجي پياري بڊي،“ مون جواب ڏنو، ”مون پنهنجي ماضي بابت ڪجهه به نه وساريو آهي. پر اهو خواب، ٻين ڪيترن ئي خوابن وانگر، هاڻي ختم ٿي ويو آهي.“",
+            "ur": "”میری پیاری بڈی،“ میں نے جواب دیا، ”میں نے اپنے ماضی کے بارے میں کچھ نہیں بھلایا ہے۔ لیکن وہ خواب، بہت سے دوسرے خوابوں کی طرح، اب ختم ہو گیا ہے۔“"
+          },
+          {
+            "en": "I knew Estella's marriage to Bentley Drummle had been unhappy. He had died, and though I suspected she might have remarried, I didn't know for sure. After supper, I felt a pull to visit the place where Estella and I had first met so many years ago. I walked slowly from the forge, and by the time I reached the tall iron gates of Satis House, the evening had grown dark. The house itself had been torn down, and the garden was now a wild, overgrown tangle. Only the gates and the garden wall remained, standing like silent sentinels.",
+            "sd": "مون کي خبر هئي ته اسٽيلا جي بينٽلي ڊرمل سان شادي ناخوش هئي. هو مري چڪو هو، ۽ جيتوڻيڪ مون کي شڪ هو ته هن شايد وري شادي ڪئي هوندي، مون کي پڪ سان خبر نه هئي. رات جي ماني کان پوءِ، مون کي اها جاءِ ڏسڻ جي خواهش ٿي، جتي مان ۽ اسٽيلا گھڻا سال اڳ پهرين دفعو مليا هئاسين. مان لوهارخاني کان آهستي هليس، ۽ جڏهن مان سيٽس هائوس جي وڏن لوهي دروازن وٽ پهتس، شام اوندهه ٿي چڪي هئي. گھر پاڻ کي ڊاهي ڇڏيو ويو هو، ۽ باغ هاڻي جهنگلي، وڌيل ٻوٽن جو ڍير بڻجي ويو هو. رڳو دروازا ۽ باغ جي ديوار باقي هئي، خاموش نگهبانن وانگر بيٺل.",
+            "ur": "مجھے معلوم تھا کہ اسٹیلا کی بینٹلی ڈرمل سے شادی ناخوش تھی۔ وہ مر چکا تھا، اور اگرچہ مجھے شک تھا کہ اس نے شاید دوبارہ شادی کی ہوگی، مجھے یقین سے معلوم نہیں تھا۔ رات کے کھانے کے بعد، مجھے اس جگہ جانے کی خواہش ہوئی، جہاں میں اور اسٹیلا بہت سال پہلے پہلی بار ملے تھے۔ میں لوہار خانے سے آہستہ چلا، اور جب میں سیٹس ہاؤس کے بڑے لوہے کے دروازوں پر پہنچا، شام تاریک ہو چکی تھی۔ گھر خود گرا دیا گیا تھا، اور باغ اب جنگلی، بڑھے ہوئے پودوں کا ڈھیر بن گیا تھا۔ صرف دروازے اور باغ کی دیوار باقی تھی، خاموش نگہبانوں کی طرح کھڑی۔"
+          },
+          {
+            "en": "I wandered into the garden, the evening mist swirling around me. The moon and a few stars glimmered faintly above. As I walked, I noticed a figure moving through the shadows. As I drew closer, she turned and spoke my name.",
+            "sd": "مان باغ ۾ گهمندو رھيس، شام جو ڪوهيڙو منهنجي چوڌاري گھمي رھيو هو. چنڊ ۽ ڪي تارا مٿي هلڪو چمڪي رھيا هئا. جيئن مان هلندو رھيس، مون کي پاڇن مان گذرندڙ هڪ شڪل نظر آئي. جيئن مان ويجهو ويس، هوءَ موٽي ۽ منهنجو نالو ورتو.",
+            "ur": "میں باغ میں گھومتا رہا، شام کی دھند میرے گرد گھوم رہی تھی۔ چاند اور چند ستارے اوپر ہلکا چمک رہے تھے۔ جیسے میں چلتا رہا، مجھے سائےوں سے گزرتی ایک شکل نظر آئی۔ جیسے میں قریب گیا، وہ مڑی اور میرا نام لیا۔"
+          },
+          {
+            "en": "“Estella,” I said quietly, my voice steady despite the rush of emotions.",
+            "sd": "”اسٽيلا،“ مون آهستي چيو، منهنجو آواز جذبن جي طوفان باوجود مستحڪم هو.",
+            "ur": "”اسٹیلا،“ میں نے آہستہ سے کہا، میری آواز جذبات کے طوفان کے باوجود مستحکم تھی۔"
+          },
+          {
+            "en": "“I'm surprised you recognized me,” she replied. “My life hasn't been kind, Pip. It's changed me.”",
+            "sd": "”مون کي حيرت آهي ته تو مون کي سڃاتو،“ هن جواب ڏنو. ”منهنجي زندگي مون سان مهربان نه رھي آهي، پپ. ان مون کي بدلائي ڇڏيو آهي.“",
+            "ur": "”مجھے حیرت ہے کہ تم نے مجھے پہچانا،“ اس نے جواب دیا۔ ”میری زندگی میرے ساتھ مہربان نہیں رہی ہے، پپ۔ اس نے مجھے بدل دیا ہے۔“"
+          },
+          {
+            "en": "She was still beautiful, but there was a new softness in her eyes, a sadness that hadn't been there before.",
+            "sd": "هوءَ اڃا به سهڻي هئي، پر هن جي اکين ۾ هڪ نئين نرمي هئي، هڪ اداسي جيڪا اڳ ۾ نه هئي.",
+            "ur": "وہ اب بھی خوبصورت تھی، لیکن اس کی آنکھوں میں ایک نئی نرمی تھی، ایک اداسی جو پہلے نہیں تھی۔"
+          },
+          {
+            "en": "She looked around the garden, her expression wistful. “It's strange being here again. I've changed, Pip. I hope I'm a better person now. You were always kind to me, even when I didn't deserve it. Be kind to me now, too. Let's part as friends.”",
+            "sd": "هن باغ ۾ چوڌاري ڏٺو، هن جو چھرو حسرت سان ڀريل هو. ”هتي وري اچڻ عجيب آهي. مان بدلجي وئي آهيان، پپ. مون کي اميد آهي ته مان هاڻي هڪ بهتر ماڻهو آهيان. تون مون سان هميشه مهربان رھيو آهين، جيتوڻيڪ مان ان جي لائق نه هئس. هاڻي به مون سان مهربان رهه. اچو ته دوستن وانگر جدا ٿي وڃون.“",
+            "ur": "اس نے باغ میں چاروں طرف دیکھا، اس کا چہرہ حسرت سے بھرا تھا۔ ”یہاں دوبارہ آنا عجیب ہے۔ میں بدل گئی ہوں، پپ۔ مجھے امید ہے کہ میں اب ایک بہتر انسان ہوں۔ تم میرے ساتھ ہمیشہ مہربان رہے ہو، اگرچہ میں اس کی مستحق نہیں تھی۔ اب بھی میرے ساتھ مہربان رہو۔ آؤ دوستوں کی طرح جدا ہو جائیں۔“"
+          },
+          {
+            "en": "“We are friends,” I said firmly. We went out of the ruined place; and, as the morning mists had risen long ago when I first left the forge, so the evening mists were rising now, and in all the broad expanse of tranquil light they showed to me, I saw no shadow of another parting from her.",
+            "sd": "”اسان دوست آهيون،“ مون مضبوطي سان چيو. اسان انهي تباهه ٿيل جاءِ کان ٻاهر نڪتاسين؛ ۽، جيئن صبح جو ڪوهيڙو گھڻو وقت اڳ اٿيو هو جڏهن مان پهرين دفعو لوهارخاني ڇڏي ويو هوس، تيئن شام جو ڪوهيڙو هاڻي اٿي رھيو هو، ۽ پرسڪون روشني جي وسيع پکيڙ ۾ جيڪي هن مون کي ڏيکاريا، مون هن کان وري جدا ٿيڻ جو ڪو به پاڇو نه ڏٺو.",
+            "ur": "”ہم دوست ہیں،“ میں نے مضبوطی سے کہا۔ ہم اس تباہ شدہ جگہ سے باہر نکلے؛ اور، جیسے صبح کی دھند بہت عرصہ پہلے اٹھی تھی جب میں پہلی بار لوہار خانہ چھوڑ کر گیا تھا، ویسے ہی شام کی دھند اب اٹھ رہی تھی، اور پرسکون روشنی کے وسیع پھیلاؤ میں جو اس نے مجھے دکھایا، میں نے اس سے دوبارہ جدا ہونے کا کوئی سایہ نہیں دیکھا۔"
+          }
+        ]
+      }
+    ],
     "bioExsolutionsEn": [
       {
         "display": "Homeostasis",
@@ -19219,7 +22256,7 @@ STUDY.xii = {
                     "q": "What is the greenhouse effect? How do human activities enhance it?"
                   },
                   {
-                    "a": "Acid rain was first introduced by the English chemist Robert Angus in 1872. Acid rain refers to rainfall that has acidic components such as nitric acid, sulphuric acid and carbonic acid. The pH of normal rainfall is about 5.6 (the book gives 6 to 6.5), while the pH of acid rain is below 5. Oxides of carbon, nitrogen and sulphur react with atmospheric water to produce H2SO4, HNO3 and H2CO3, which mix with rainwater and fall as acid rain.",
+                    "a": "Acid rain was first introduced by the Scottish chemist Robert Angus Smith in 1852. Acid rain refers to rainfall that has acidic components such as nitric acid, sulphuric acid and carbonic acid. The pH of normal rainfall is about 5.6 (the book gives 6 to 6.5), while the pH of acid rain is below 5. Oxides of carbon, nitrogen and sulphur react with atmospheric water to produce H2SO4, HNO3 and H2CO3, which mix with rainwater and fall as acid rain.",
                     "q": "What is acid rain? What is its pH?"
                   },
                   {
@@ -19305,7 +22342,7 @@ STUDY.xii = {
                     "q": "Summarize the key facts of environmental chemistry."
                   },
                   {
-                    "a": "Acid rain was first introduced by the English chemist Robert Angus in 1872. The greenhouse effect is an essential natural process that regulates the Earth's temperature. Global warming is the gradual rise in the Earth's average surface temperature (about 15°C). Smog is the combination of smoke and fog.",
+                    "a": "Acid rain was first introduced by the Scottish chemist Robert Angus Smith in 1852. The greenhouse effect is an essential natural process that regulates the Earth's temperature. Global warming is the gradual rise in the Earth's average surface temperature (about 15°C). Smog is the combination of smoke and fog.",
                     "q": "Who introduced the term acid rain? Define the greenhouse effect and global warming."
                   },
                   {
@@ -26314,7 +29351,7 @@ STUDY.xii = {
                 "q": "Find the limit of vector function r_vec(t) = (e^(3t) - 1) i_hat + (sqrt(3 + t) - sqrt(3))/(3t) j_hat + 1/(9t + 1) k_hat at t = 0."
               },
               {
-                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = [[D]]i_hat,j_hat,k_hat;t^2,-2,0;2t,0,-5[[/D]]\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
+                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = |i_hat j_hat k_hat; t^2 -2 0; 2t 0 -5|\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
                 "q": "If u_vec = t^2 i_hat - 2 j_hat; v_vec = 2t i_hat - 5 k_hat are vector functions and h = 3t is scalar function then find the following:\n(i) lim_{t->0} [u_vec(t) + v_vec(t)]\n(ii) lim_{t->1} [u_vec(t) . v_vec(t)]\n(iii) lim_{t->1} [u_vec(t) x v_vec(t)]\n(iv) lim_{t->5} [h u_vec(t)]"
               },
               {
@@ -27048,7 +30085,7 @@ STUDY.xii = {
             "items": [
               {
                 "a": "(i) m = (6 + 4)/(7 + 3) = 1, (d)\n(ii) y = [[1/2]]x + 7, (b)\n(iii) Equal, (a)\n(iv) m_1 m_2 = -1, (a)\n(v) 0, (a)\n(vi) Slope of 3x - y = -5 is 3\n|(m - 3)/(1 + 3m)| = 1\nm - 3 = 1 + 3m, m = -2\nm - 3 = -1 - 3m, m = [[1/2]]\n[[1/2]], -2, (c)\n(vii) (4, 1): 2 x 4 - 3 x 1 = 5, on the line\ndistance to (1, 2) = sqrt(9 + 1) = sqrt(10)\ndistance to (3, 4) = sqrt(1 + 9) = sqrt(10)\n(4, 1), (b)\n(viii) they lie on a straight line, (c)\n(ix) y = 0, (c)\n(x) ax + by + c = 0, (a)",
-                "q": "Select correct option.\n(i) The slope of the line that passes through (-3, -4) and (7, 6) is\n(a) 0 (b) undefined (c) -1 (d) 1\n(ii) A line with a slope of [[1/2]] and a y-intercept 7 is\n(a) 2y = x - 7 (b) y = [[1/2]]x + 7 (c) y = [[1/2]]x - 7 (d) x - 2y = 14\n(iii) Two lines are said to be parallel if and only if their slopes are\n(a) Equal (b) Unequal (c) Does not exit (d) negative reciprocals of each other\n(iv) Two lines l_1 and l_2 are said to be perpendicular if and only if\n(a) m_1 m_2 = -1 (b) m_1 m_2 = 1 (c) m_1 = -m_2 (d) m_1 = [[1/m_2]]\n(v) The slope of a line that is perpendicular to a vertical line is\n(a) 0 (b) 1 (c) 90 degrees (d) undefined\n(vi) The slope of the line which makes an angle 45 degrees with the line 3x - y = -5 is\n(a) 2 (b) [[1/2]] (c) [[1/2]], -2 (d) -2\n(vii) The point on the line 2x - 3y = 5 is equidistant from (1, 2) and (3, 4) is\n(a) (-2, 2) (b) (4, 1) (c) (1, -1) (d) (4, 6)\n(viii) In a plane three or more points are said to be collinear if\n(a) they lie on a circle (b) they form a closed loop together (c) they lie on a straight line (d) they do not make any defined shape\n(ix) If the line coincides with x-axis then its equation is\n(a) y = b (b) -b (c) y = 0 (d) infinity\n(x) The general equation of line also known as standard equation of line is,\n(a) ax + by + c = 0 (b) y = ax + c (c) y - y_1 = m(x - x_1) (d) [[x/a]] + [[y/b]] = 1"
+                "q": "Select correct option.\n(i) The slope of the line that passes through (-3, -4) and (7, 6) is\n(a) 0 (b) undefined (c) -1 (d) 1\n(ii) A line with a slope of [[1/2]] and a y-intercept 7 is\n(a) 2y = x - 7 (b) y = [[1/2]]x + 7 (c) y = [[1/2]]x - 7 (d) x - 2y = 14\n(iii) Two lines are said to be parallel if and only if their slopes are\n(a) Equal (b) Unequal (c) Does not exist (d) negative reciprocals of each other\n(iv) Two lines l_1 and l_2 are said to be perpendicular if and only if\n(a) m_1 m_2 = -1 (b) m_1 m_2 = 1 (c) m_1 = -m_2 (d) m_1 = [[1/m_2]]\n(v) The slope of a line that is perpendicular to a vertical line is\n(a) 0 (b) 1 (c) 90 degrees (d) undefined\n(vi) The slope of the line which makes an angle 45 degrees with the line 3x - y = -5 is\n(a) 2 (b) [[1/2]] (c) [[1/2]], -2 (d) -2\n(vii) The point on the line 2x - 3y = 5 is equidistant from (1, 2) and (3, 4) is\n(a) (-2, 2) (b) (4, 1) (c) (1, -1) (d) (4, 6)\n(viii) In a plane three or more points are said to be collinear if\n(a) they lie on a circle (b) they form a closed loop together (c) they lie on a straight line (d) they do not make any defined shape\n(ix) If the line coincides with x-axis then its equation is\n(a) y = b (b) -b (c) y = 0 (d) infinity\n(x) The general equation of line also known as standard equation of line is,\n(a) ax + by + c = 0 (b) y = ax + c (c) y - y_1 = m(x - x_1) (d) [[x/a]] + [[y/b]] = 1"
               },
               {
                 "a": "d^2 = (1 - 5)^2 + (a + 2)^2 = 25\n16 + (a + 2)^2 = 25\n(a + 2)^2 = 9\na + 2 = 3 or a + 2 = -3\na = 1 or a = -5",
@@ -54161,7 +57198,7 @@ STUDY.xii = {
                     "q": "گرين هائوس اثر ڇا آهي؟ انساني سرگرميون ان کي ڪيئن وڌائين ٿيون؟"
                   },
                   {
-                    "a": "تيزابي برسات پهريون ڀيرو انگريز ڪيميادان رابرٽ اينگس 1872 ۾ متعارف ڪرائي. تيزابي برسات مان مراد اها برسات آهي جنهن ۾ نائٽرڪ ايسڊ، سلفيورڪ ايسڊ ۽ ڪاربونڪ ايسڊ جهڙا تيزابي جزا آهن. عام برسات جي pH تقريباً 5.6 آهي (ڪتاب 6 کان 6.5 ڏئي ٿو)، جڏهن ته تيزابي برسات جي pH 5 کان گھٽ آهي. ڪاربن، نائٽروجن ۽ سلفر جا آڪسائيڊ فضائي پاڻي سان رد عمل ڪري H2SO4، HNO3 ۽ H2CO3 ٺاهين ٿا، جيڪي برساتي پاڻي سان ملن ٿا ۽ تيزابي برسات طور ڪرن ٿا.",
+                    "a": "تيزابي برسات پهريون ڀيرو اسڪاٽش ڪيميادان رابرٽ اينگس سمٿ 1852 ۾ متعارف ڪرائي. تيزابي برسات مان مراد اها برسات آهي جنهن ۾ نائٽرڪ ايسڊ، سلفيورڪ ايسڊ ۽ ڪاربونڪ ايسڊ جهڙا تيزابي جزا آهن. عام برسات جي pH تقريباً 5.6 آهي (ڪتاب 6 کان 6.5 ڏئي ٿو)، جڏهن ته تيزابي برسات جي pH 5 کان گھٽ آهي. ڪاربن، نائٽروجن ۽ سلفر جا آڪسائيڊ فضائي پاڻي سان رد عمل ڪري H2SO4، HNO3 ۽ H2CO3 ٺاهين ٿا، جيڪي برساتي پاڻي سان ملن ٿا ۽ تيزابي برسات طور ڪرن ٿا.",
                     "q": "تيزابي برسات ڇا آهي؟ ان جي pH ڇا آهي؟"
                   },
                   {
@@ -54247,7 +57284,7 @@ STUDY.xii = {
                     "q": "ماحولياتي ڪيمسٽري جي اهم حقيقتن جو خلاصو ڏيو."
                   },
                   {
-                    "a": "تيزابي برسات پهريون ڀيرو انگريز ڪيميادان رابرٽ اينگس 1872 ۾ متعارف ڪرائي. گرين هائوس اثر هڪ ضروري قدرتي عمل آهي جيڪو زمين جي گرمي پد کي منظم ڪري ٿو. گلوبل وارمنگ زمين جي سراسري مٿاڇري واري گرمي پد (تقريباً 15°C) ۾ آهستي آهستي واڌ آهي. سموگ دونهون ۽ ڪوهيڙي جو ميلاپ آهي.",
+                    "a": "تيزابي برسات پهريون ڀيرو اسڪاٽش ڪيميادان رابرٽ اينگس سمٿ 1852 ۾ متعارف ڪرائي. گرين هائوس اثر هڪ ضروري قدرتي عمل آهي جيڪو زمين جي گرمي پد کي منظم ڪري ٿو. گلوبل وارمنگ زمين جي سراسري مٿاڇري واري گرمي پد (تقريباً 15°C) ۾ آهستي آهستي واڌ آهي. سموگ دونهون ۽ ڪوهيڙي جو ميلاپ آهي.",
                     "q": "تيزابي برسات جو اصطلاح ڪنهن متعارف ڪرايو؟ گرين هائوس اثر ۽ گلوبل وارمنگ جي وصف ڪريو."
                   },
                   {
@@ -61256,7 +64293,7 @@ STUDY.xii = {
                 "q": "وڪٽر فعل r_vec(t) = (e^(3t) - 1) i_hat + (sqrt(3 + t) - sqrt(3))/(3t) j_hat + 1/(9t + 1) k_hat جي حد لھو، t = 0 تي."
               },
               {
-                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = [[D]]i_hat,j_hat,k_hat;t^2,-2,0;2t,0,-5[[/D]]\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
+                "a": "(i) lim_{t->0} [u_vec(t) + v_vec(t)] = lim_{t->0} [(t^2 + 2t) i_hat - 2 j_hat - 5 k_hat]\n= -2 j_hat - 5 k_hat\n(ii) u_vec(t) . v_vec(t) = (t^2)(2t) + (-2)(0) + (0)(-5) = 2t^3\nlim_{t->1} [u_vec(t) . v_vec(t)] = 2\n(iii) u_vec(t) x v_vec(t) = |i_hat j_hat k_hat; t^2 -2 0; 2t 0 -5|\n= 10 i_hat + 5t^2 j_hat + 4t k_hat\nlim_{t->1} [u_vec(t) x v_vec(t)] = 10 i_hat + 5 j_hat + 4 k_hat\n(iv) lim_{t->5} [h u_vec(t)] = lim_{t->5} [3t(t^2 i_hat - 2 j_hat)]\n= 15(25 i_hat - 2 j_hat)\n= 375 i_hat - 30 j_hat",
                 "q": "جيڪڏهن u_vec = t^2 i_hat - 2 j_hat؛ v_vec = 2t i_hat - 5 k_hat وڪٽر فعل آهن ۽ h = 3t اسڪيلر فعل آهي ته پوءِ هيٺيون لھو:\n(i) lim_{t->0} [u_vec(t) + v_vec(t)]\n(ii) lim_{t->1} [u_vec(t) . v_vec(t)]\n(iii) lim_{t->1} [u_vec(t) x v_vec(t)]\n(iv) lim_{t->5} [h u_vec(t)]"
               },
               {
@@ -61990,7 +65027,7 @@ STUDY.xii = {
             "items": [
               {
                 "a": "(i) m = (6 + 4)/(7 + 3) = 1, (d)\n(ii) y = [[1/2]]x + 7, (b)\n(iii) برابر، (a)\n(iv) m_1 m_2 = -1, (a)\n(v) 0, (a)\n(vi) 3x - y = -5 جي ڍلوان، 3 آهي\n|(m - 3)/(1 + 3m)| = 1\nm - 3 = 1 + 3m, m = -2\nm - 3 = -1 - 3m, m = [[1/2]]\n[[1/2]], -2, (c)\n(vii) (4, 1): 2 x 4 - 3 x 1 = 5، لڪير تي\n(1, 2) = sqrt(9 + 1) = sqrt(10) تائين فاصلو\n(3, 4) = sqrt(1 + 9) = sqrt(10) تائين فاصلو\n(4, 1), (b)\n(viii) اهي آهن هڪ سڌي لڪير تي، (c)\n(ix) y = 0, (c)\n(x) ax + by + c = 0, (a)",
-                "q": "صحيح آپشن چونڊيو.\n(i) لڪير جي ڍلوان جيڪو گذري ٿو (-3, -4) ۽ (7, 6) مان آهي\n(a) 0 (b) غير بيان ٿيل (c) -1 (d) 1\n(ii) لڪير [[1/2]] جي ڍلوان ۽ y-انٽرسيپٽ 7 آهي\n(a) 2y = x - 7 (b) y = [[1/2]]x + 7 (c) y = [[1/2]]x - 7 (d) x - 2y = 14\n(iii) ٻه لڪيرون، مذڪوره هجڻ متوازي آهن جيڪڏهن ۽ صرف جيڪڏهن انهن جو ڍلوان آهن\n(a) برابر (b) غير برابر (c) نه ٿو ڪري نڪرڻ (d) منفي معڪوس جو هر هڪ ٻيو\n(iv) ٻه لڪيرون l_1 ۽ l_2، مذڪوره هجڻ عمودي آهن جيڪڏهن ۽ صرف جيڪڏهن\n(a) m_1 m_2 = -1 (b) m_1 m_2 = 1 (c) m_1 = -m_2 (d) m_1 = [[1/m_2]]\n(v) لڪير جي ڍلوان جيڪو، عمودي لڪير تي عمودي آهي\n(a) 0 (b) 1 (c) 90 ڊگري (d) غير بيان ٿيل\n(vi) لڪير جي ڍلوان جيڪو ٺاهي ٿو زاويو 45 ڊگري لڪير 3x - y = -5 آهي\n(a) 2 (b) [[1/2]] (c) [[1/2]], -2 (d) -2\n(vii) نقطو لڪير تي 2x - 3y = 5، برابر فاصلي تي آهي (1, 2) کان ۽ (3, 4) آهي\n(a) (-2, 2) (b) (4, 1) (c) (1, -1) (d) (4, 6)\n(viii) سطح ٽي ۾ يا وڌيڪ نقطا، مذڪوره هجڻ هم خطي آهن جيڪڏهن\n(a) اهي آهن هڪ دائري تي (b) اهي صورت بند ڦيرو گڏ (c) اهي آهن هڪ سڌي لڪير تي (d) اهي ڪريو نه ٺاهيو ڪو به بيان ٿيل شڪل\n(ix) جيڪڏهن لڪير ملائي ٿي x-محور پوءِ ان جو مساوات آهي\n(a) y = b (b) -b (c) y = 0 (d) ∞\n(x) عام لڪير به معلوم جيئن معياري مساوات جو لڪير جي مساوات آهي،\n(a) ax + by + c = 0 (b) y = ax + c (c) y - y_1 = m(x - x_1) (d) [[x/a]] + [[y/b]] = 1"
+                "q": "صحيح آپشن چونڊيو.\n(i) لڪير جي ڍلوان جيڪو گذري ٿو (-3, -4) ۽ (7, 6) مان آهي\n(a) 0 (b) غير بيان ٿيل (c) -1 (d) 1\n(ii) لڪير [[1/2]] جي ڍلوان ۽ y-انٽرسيپٽ 7 آهي\n(a) 2y = x - 7 (b) y = [[1/2]]x + 7 (c) y = [[1/2]]x - 7 (d) x - 2y = 14\n(iii) ٻه لڪيرون، مذڪوره هجڻ متوازي آهن جيڪڏهن ۽ صرف جيڪڏهن انهن جو ڍلوان آهن\n(a) برابر (b) غير برابر (c) موجود نه آهي (d) منفي معڪوس جو هر هڪ ٻيو\n(iv) ٻه لڪيرون l_1 ۽ l_2، مذڪوره هجڻ عمودي آهن جيڪڏهن ۽ صرف جيڪڏهن\n(a) m_1 m_2 = -1 (b) m_1 m_2 = 1 (c) m_1 = -m_2 (d) m_1 = [[1/m_2]]\n(v) لڪير جي ڍلوان جيڪو، عمودي لڪير تي عمودي آهي\n(a) 0 (b) 1 (c) 90 ڊگري (d) غير بيان ٿيل\n(vi) لڪير جي ڍلوان جيڪو ٺاهي ٿو زاويو 45 ڊگري لڪير 3x - y = -5 آهي\n(a) 2 (b) [[1/2]] (c) [[1/2]], -2 (d) -2\n(vii) نقطو لڪير تي 2x - 3y = 5، برابر فاصلي تي آهي (1, 2) کان ۽ (3, 4) آهي\n(a) (-2, 2) (b) (4, 1) (c) (1, -1) (d) (4, 6)\n(viii) سطح ٽي ۾ يا وڌيڪ نقطا، مذڪوره هجڻ هم خطي آهن جيڪڏهن\n(a) اهي آهن هڪ دائري تي (b) اهي صورت بند ڦيرو گڏ (c) اهي آهن هڪ سڌي لڪير تي (d) اهي ڪريو نه ٺاهيو ڪو به بيان ٿيل شڪل\n(ix) جيڪڏهن لڪير ملائي ٿي x-محور پوءِ ان جو مساوات آهي\n(a) y = b (b) -b (c) y = 0 (d) ∞\n(x) عام لڪير به معلوم جيئن معياري مساوات جو لڪير جي مساوات آهي،\n(a) ax + by + c = 0 (b) y = ax + c (c) y - y_1 = m(x - x_1) (d) [[x/a]] + [[y/b]] = 1"
               },
               {
                 "a": "d^2 = (1 - 5)^2 + (a + 2)^2 = 25\n16 + (a + 2)^2 = 25\n(a + 2)^2 = 9\na + 2 = 3 يا a + 2 = -3\na = 1 يا a = -5",
